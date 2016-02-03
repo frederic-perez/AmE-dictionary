@@ -1,5 +1,5 @@
 __bug off__ [1] _Slang_ To leave someone alone; go away.  
-__coat__ [1] _n._ The fur of an animal.  
+__coat__ [1] _n._ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __deluge__ [1] _tr.v._ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __drab__ (drabber jobs) [1] _adj._ Dull or commonplace in character; dreary: _a drab personality._  
 __exact__ (exacting) [1] _tr.v._ 2. To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
