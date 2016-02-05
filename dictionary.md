@@ -7,7 +7,7 @@ __exact__ (exacting) [1] _v_ 2. To demand and obtain by force or authority: _a h
 __foible__ [1] _n_ A behavioral attribute that is distinctive and peculiar to an individual. _(In Spanish: manía)_  
 __foray__ [1] _n_ A venture or an initial attempt, especially outside one's usual area: _an actor's foray into politics._ _(In Spanish: incursión)_  
 __gaggle__ [1] _n informal_ A disorderly group of people.  
-__gnaw__ [1] _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
+__gnaw__ (gnaw out) [1] _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
 __hanker__ [1] _v_ To have a strong, often restless desire. Hankering = Craving.  
 __hunk__ [1] _n Informal_ A large piece; a chunk: _a hunk of fresh bread._  
 __jock__ [1] _n informal US_ An athlete.  
