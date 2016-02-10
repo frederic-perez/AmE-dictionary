@@ -1,5 +1,6 @@
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __bug off__ [1] _Slang_ To leave someone alone; go away.  
+__bugaboo__ [1] _n_ __1.__ An object of often obsessive fear, anxiety, or irritation. __2.__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __coat__ [1] _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __cringe__ [1] _v_ __1.__ To shrink back, as in fear; cower. __2.__ To behave in a servile way; fawn.  
 __deluge__ [1] _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
