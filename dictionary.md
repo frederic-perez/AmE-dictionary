@@ -3,12 +3,16 @@ __bug off__ [1] _Slang_ To leave someone alone; go away.
 __bugaboo__ [1] _n_ __1.__ An object of often obsessive fear, anxiety, or irritation. __2.__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __coat__ [1] _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __cringe__ [1] _v_ __1.__ To shrink back, as in fear; cower. __2.__ To behave in a servile way; fawn.  
+__defection__ [1] _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment.  
 __deluge__ [1] _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
+__dismal__ [1] _adj_ Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber.  
 __double up__ [1] _phrasal v_  To bend suddenly, as in pain or laughter.  
 __drab__ (drabber jobs) [1] _adj_ Dull or commonplace in character; dreary: _a drab personality._  
 __enthrall__ (enthralling) [1] To hold spellbound; captivate: _The magic show enthralled us._  
+__envelope > push the envelope__ [1] _Idiom_ To go beyond established limits; to pioneer.  
 __estrange__ [1] _v_ __1.__ (often foll by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __exact__ (exacting) [1] _v_ __2.__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
+__flinch__ [1] _v_ __1.__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2.__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __foible__ [1] _n_ A behavioral attribute that is distinctive and peculiar to an individual. _(In Spanish: manía)_  
 __foray__ [1] _n_ A venture or an initial attempt, especially outside one's usual area: _an actor's foray into politics._ _(In Spanish: incursión)_  
 __gaggle__ [1] _n informal_ A disorderly group of people.  
@@ -30,7 +34,11 @@ __shtick__ or __shtik__ [1] _n Slang_ A show-business routine or piece of busine
 __slew__ [2] _n_ A large amount or number; a lot: _a slew of unpaid bills._  
 __snare__ [1] _n_ __1.__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2.__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3.__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __spry__ [1] _adj_ Lively, active, and brisk; vigorous.  
+__steadfast__ [1] _adj_ __1.__ Fixed or unchanging; steady. __2.__ Firmly loyal or constant; unswerving. _Syn_ faithful.  
+__sulk__ [1] _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __swaddle__ [1] _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _(In Spanish: Envolver con ropa apretada, a un bebé)_  
+__tatter__ (tattered) [1] _v_ To make or become ragged.  
 __tranche__ [1] _n_ A portion of something (especially money) ·  A cut or slice of meat: _a tranche of sirloin._  
+__trickle down__ [1] _v_ To pass from high-ranked people to lower-ranked people.  
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __zeitgeist__ [1] _n_ A German word meaning time spirit, used to mean the spirit of the age.  
