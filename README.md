@@ -1,4 +1,10 @@
 # AmE-dictionary
 A simple shared dictionary to be enhanced with flash-like cards
 
+### Resources
+
+I collect words from multiple sources, including:
+* Tons of printed newspapers: USA Today, The New York Times, International Herald Tribune, etc.
+* Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/grammargoddess) (don't miss her Tuesday Tricksters!)
+
 Note: For help editing with Markdown in GitHub, you can visit [writing on github pages](https://help.github.com/categories/writing-on-github/).
