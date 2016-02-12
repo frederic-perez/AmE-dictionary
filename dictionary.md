@@ -48,3 +48,8 @@ __trickle down__ [1] _v_ To pass from high-ranked people to lower-ranked people.
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
 __zeitgeist__ [1] _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+__temp__(subzero temps) [1] _n_ Temperature.  
+__busboy__ _n_ A waiter.  
+__jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.  
+__dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
+__queasy__ _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
