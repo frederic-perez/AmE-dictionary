@@ -53,3 +53,16 @@ __busboy__ _n_ A waiter.
 __jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __queasy__ _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
+__mysanthropic__  
+__ratched up__ _v_  
+__verve__  
+__vested interests__  
+__squeamish__  
+__billowy__  
+__hammy__  
+__panting__  
+__coy__ Reluctance to show details.  
+__frigid__ (frigid winds)  
+__flurry__  
+__gale__ a circular gale  
+__jibed__ the new results jibed with that sticklers  
