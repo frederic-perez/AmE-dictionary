@@ -66,3 +66,12 @@ __frigid__ (frigid winds)
 __flurry__  
 __gale__ a circular gale  
 __jibed__ the new results jibed with that sticklers  
+the wind stiffens  
+the cladding of classical training  
+the marauding Greeks  
+uxorious Trojans  
+ilk  
+reflections of life  
+a chasm  
+gropingly  
+blurting  
