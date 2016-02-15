@@ -71,7 +71,7 @@ __temp__ (subzero temps) [1] _n_ Temperature.
 __tranche__ [1] _n_ A portion of something (especially money) ·  A cut or slice of meat: _a tranche of sirloin._  
 __trickle down__ [1] _v_ To pass from high-ranked people to lower-ranked people.  
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
-__uxorious__ [1] _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
+__uxorious__ [1] (ŭk-sôr′ē-əs, ŭg-zôr′-) _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __verve__  [1] _n_ Great ​energy and ​enthusiasm: _She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _As both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
