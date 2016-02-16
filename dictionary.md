@@ -1,14 +1,15 @@
 __Eastern Block__ (the Eastern bloc) [1] _politics_ (formerly) the Soviet bloc.  
-__barrage_ [1] _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__bafflement__ [1] _n_ Confusion resulting from failure to understand. _(In Spanish: desconcierto, perplejidad)_  
+__barrage__ [1] _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __besmirch__ [1] _v_ To stain; sully: _a reputation that was besmirched by slander._   
 __billow__ [1] _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
-__blurt__ (blurting) [1] _v_  To say something suddenly and without thinking carefully enough: _She blurted it out before I could stop her._  
+__blurt__ (blurting) [2] _v_  To say something suddenly and without thinking carefully enough: _She blurted it out before I could stop her._  
 __buckle down (to something)__ [1] _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __bug off__ [1] _Slang_ To leave someone alone; go away.  
 __bugaboo__ [1] _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __busboy__ [1] _n_ A young man who clears tables in a restaurant or cafe.  
 __chasm__ [1] _n_ __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
-__cladding__ [1] _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal.  _(In Spanish: revestimiento)_
+__cladding__ [1] _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _(In Spanish: revestimiento)_  
 __coat__ [1] _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coy__ [1] _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you.  
 __cringe__ [1] _v_ __1__ To shrink back, as in fear; cower. __2__ To behave in a servile way; fawn.  
@@ -31,7 +32,7 @@ __frigid__ (frigid winds) [1] Extremely cold.
 __gaggle__ [1] _n informal_ A disorderly group of people.  
 __gale__ [1] An extremely strong wind: _the gale blew down hundreds of trees._  
 __gnaw__ (gnaw out) [1] _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
-__grope (somebody)__ [1] _Informal_ To touch somebody sexually, especially when they do not want you to.  
+__grope (somebody)__ [1] _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __hammy__ [1] _adj_ Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hanker__ [1] _v_ To have a strong, often restless desire. Hankering = Craving.  
 __hunk__ [2] _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ _Slang_ A physically attractive man, usually with a well-developed physique.  
@@ -41,7 +42,7 @@ __jaunty__ [1] _adj_ Having or expressing a buoyant or self-confident air: _a ja
 __jibed (at something/at doing something)__ [1] _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __jock__ [1] _n informal US_ An athlete.  
 __lush__ [1] _adj_ __1__ (of vegetation) abounding in lavish growth __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
-__marauding__ [1] (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
+__marauding__ [1] _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __mettle__ [1] _n_ The courage to carry on: _It's the first real test of his mettle this season._  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __muster__ [1] _v_ To assemble or gather: _mustering for inspection._  
@@ -66,13 +67,14 @@ __staunch__ [1] _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, fait
 __steadfast__ [1] _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful.  
 __sulk__ [1] _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __swaddle__ [1] _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _(In Spanish: envolver con ropa apretada, a un bebé)_  
-__tatter__ (tattered) [2] _v_ To make or become ragged. _"A tattered reputation."_  
+__tatter__ (tattered) [3] _v_ To make or become ragged: _a tattered shirt; a tattered reputation._  
 __temp__ (subzero temps) [1] _n_ Temperature.  
-__tranche__ [1] _n_ A portion of something (especially money) ·  A cut or slice of meat: _a tranche of sirloin._  
+__tranche__ [1] _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __trickle down__ [1] _v_ To pass from high-ranked people to lower-ranked people.  
+__tumbler__ [1] _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ The contents of such a drinking glass: _a tumbler of beer_  
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __uxorious__ [1] (ŭk-sôr′ē-əs, ŭg-zôr′-) _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
-__verve__  [1] _n_ Great ​energy and ​enthusiasm: _She ​delivered her ​speech with ​tremendous ​wit and verve._  
-__vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _As both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
+__verve__  [1] _n_ Great ​energy and ​enthusiasm: _she ​delivered her ​speech with ​tremendous ​wit and verve._  
+__vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
 __zeitgeist__ [1] _n_ A German word meaning time spirit, used to mean the spirit of the age.  
