@@ -73,7 +73,7 @@ __tranche__ [1] _n_ __1__ A portion of something (especially money). __2__ A cut
 __trickle down__ [1] _v_ To pass from high-ranked people to lower-ranked people.  
 __tumbler__ [1] _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ The contents of such a drinking glass: _a tumbler of beer_  
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
-__uxorious__ [1] (ŭk-sôr′ē-əs, ŭg-zôr′-) _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
+__uxorious__ [1] /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __verve__  [1] _n_ Great ​energy and ​enthusiasm: _she ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
