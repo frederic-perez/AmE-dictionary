@@ -1,6 +1,7 @@
 __Eastern Block__ (the Eastern bloc) [1] _politics_ (formerly) the Soviet bloc.  
 __bafflement__ [1] _n_ Confusion resulting from failure to understand. _(In Spanish: desconcierto, perplejidad)_  
 __barrage__ [1] _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__bereavement__ [1] _n_ State of sorrow over the death or departure of a loved one.  
 __besmirch__ [1] _v_ To stain; sully: _a reputation that was besmirched by slander._   
 __billow__ [1] _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __blurt__ (blurting) [2] _v_  To say something suddenly and without thinking carefully enough: _She blurted it out before I could stop her._  
@@ -15,6 +16,7 @@ __coy__ [1] _v_ __1__ Shy or pretending to be shy and innocent, especially about
 __cringe__ [1] _v_ __1__ To shrink back, as in fear; cower. __2__ To behave in a servile way; fawn.  
 __defection__ [1] _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment.  
 __deluge__ [1] _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
+__disinfectant__ _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.
 __dismal__ [1] _adj_ Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber.  
 __double up__ [1] _phrasal v_  To bend suddenly, as in pain or laughter.  
 __drab__ (drabber jobs) [1] _adj_ Dull or commonplace in character; dreary: _a drab personality._  
@@ -37,6 +39,7 @@ __hammy__ [1] _adj_ Marked or characterized by overacting; affectedly humorous o
 __hanker__ [1] _v_ To have a strong, often restless desire. Hankering = Craving.  
 __hunk__ [2] _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ _Slang_ A physically attractive man, usually with a well-developed physique.  
 __ilk__ [1] _n_ Type or kind: _can't trust people of that ilk._  
+__imbue__ [1] _v_ __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __jalopy__ [1] _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.  
 __jaunty__ [1] _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jibed (at something/at doing something)__ [1] _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
