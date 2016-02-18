@@ -13,7 +13,7 @@ __chasm__ [1] _n_ __1__ A deep, steep-sided opening in the earth's surface; an a
 __cladding__ [1] _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _(In Spanish: revestimiento)_  
 __coat__ [1] _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coy__ [1] _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you.  
-__cringe__ [1] _v_ __1__ To shrink back, as in fear; cower. __2__ To behave in a servile way; fawn.  
+__cringe__ [1] _v_ __1__ To shrink back, as in fear; cower. _(to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza)_ __2__ To behave in a servile way; fawn. _(it makes me cringe → me da horror)_  
 __defection__ [1] _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment.  
 __deluge__ [1] _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __disinfectant__ _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.
@@ -77,7 +77,9 @@ __trickle down__ [1] _v_ To pass from high-ranked people to lower-ranked people.
 __tumbler__ [1] _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ The contents of such a drinking glass: _a tumbler of beer_  
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __uxorious__ [1] /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
+__valkyrie__ [1] _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __verve__  [1] _n_ Great ​energy and ​enthusiasm: _she ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
+__yearn__ [1] _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __zeitgeist__ [1] _n_ A German word meaning time spirit, used to mean the spirit of the age.  
