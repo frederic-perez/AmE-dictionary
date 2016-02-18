@@ -33,7 +33,7 @@ __foray__ [2] _n_ A venture or an initial attempt, especially outside one's usua
 __frigid__ (frigid winds) [1] Extremely cold.  
 __gaggle__ [1] _n informal_ A disorderly group of people.  
 __gale__ [1] An extremely strong wind: _the gale blew down hundreds of trees._  
-__gnaw__ (gnaw out) [1] _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
+__gnaw__ (gnaw out) [2] _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
 __grope (somebody)__ [1] _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __hammy__ [1] _adj_ Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hanker__ [1] _v_ To have a strong, often restless desire. Hankering = Craving.  
@@ -83,3 +83,21 @@ __vested interest__ [1] A ​strong ​personal ​interest in something because
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
 __yearn__ [1] _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __zeitgeist__ [1] _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+the Rye  
+a litany  
+barrister  
+acumen (business acumen)  
+toehold  
+searing  
+delusional  
+furies (political furies)  
+he wrought  
+indefatigable  
+avocation  
+swamp (fever swamps)  
+clique  
+hog (to hog the limelight)  
+letters and parcels  
+to wend  
+lynching  
+berserks  
