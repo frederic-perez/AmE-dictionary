@@ -23,7 +23,7 @@ __curator__ [1] _n_ One who manages or oversees, as the administrative director 
 __defection__ [1] _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment.  
 __deluge__ [1] _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic - affected with emotional disorder.  
-__disinfectant__ _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.
+__disinfectant__ _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __dismal__ [1] _adj_ Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber.  
 __double up__ [1] _phrasal v_  To bend suddenly, as in pain or laughter.  
 __drab__ (drabber jobs) [1] _adj_ Dull or commonplace in character; dreary: _a drab personality._  
@@ -101,3 +101,9 @@ __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked. _adj_ 
 __yearn__ [1] _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __zeitgeist__ [1] _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 indefatigable  
+severance contract  
+stroll > Barça to stroll, Betis to struggle  
+customer > tough customer  
+verve > their attacking verve  
+to fancy  
+to chuck around  
