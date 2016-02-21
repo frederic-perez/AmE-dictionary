@@ -69,7 +69,7 @@ __queasy__ [1] _adj_ Causing or suffering from nausea: _feeling queasy after a m
 __quip__ (quippy) [1] _n, v_  A clever or witty remark or comment.  
 __quirk__ [2] _n_ A peculiarity of behavior; an idiosyncrasy: _Every man had his own quirks and twists (Harriet Beecher Stowe)._  
 __ratched (something) up__ [1] _v_ To increase, or make something increase, repeatedly and by small amounts.  
-__roll over__ _Informal_ To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
+__roll over__ _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __rye__ [1] _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _(In Spanish: centeno)_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __sashay__ [1] _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _Translations (= wither) → secar, marchitar (Med) → cauterizar; [pain etc] → punzar; (= scorch) → chamuscar, quemar_  
@@ -93,7 +93,7 @@ __tumbler__ [1] _n_ __1__ One that tumbles, especially an acrobat or gymnast. __
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __uxorious__ [1] /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __valkyrie__ [1] _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
-__verve__  [1] _n_ Great ​energy and ​enthusiasm: _she ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__  [2] _n_ Great ​energy and ​enthusiasm: _she ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __wend__ _v_ To move or travel slowly somewhere: _Leo wended his way home through the wet streets._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
@@ -107,3 +107,10 @@ customer > tough customer
 verve > their attacking verve  
 to fancy  
 to chuck around  
+FT Final time (eg. of a match)?  
+conspicuous  
+kingdom come  
+dell  
+constant sorrow  
+Stalin, Joseph (Joseph Vissarinovich Djigashvili) Stalin means "steel" in Russian  
+CHK.Lenin, Trotsky
