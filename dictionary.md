@@ -12,7 +12,7 @@ __alacrity__ [1] _We might not respond with the alacrity we would need to contai
 __assail__ [2] _v_ _Chávez assailed U.S. influence in Latin America in his campaign against capitalism and democratic freedom._  
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Translations (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
 __backdrop__ [1] _These massacres took place against the backdrop of a war._  
-__bafflement__ [1] _n_ Confusion resulting from failure to understand. _(In Spanish: desconcierto, perplejidad)_  
+__bafflement__ [1] _n_ Confusion resulting from failure to understand. _(:es: desconcierto, perplejidad)_  
 __balky__ [1]  
 __ballot__ [1] _A lot of guys who did steroids are on the ballot._  
 __barrage__ [1] _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
@@ -272,8 +272,7 @@ __vial__ [1] _He turned over a vial of cocaine he had there._
 __vitriol__ [1] _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __voucher__ [1] _The administration has focused its efforts with more housing vouchers._  
 __wallop__ [1] _The storm was aimed to wallop Washington, D.C., today._  
-__wend__ _v_ To move or travel slowly somewhere: _Leo wended his way home through the wet streets._  
-__wends__ [1] _v_ _The legal battle wends its way through the federal appeals process._  
+__wend__ [2] _v_ To move or travel slowly somewhere: _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
 __whimper__ [1] _The week went out not with a bang, but with a whimper._  
 __whiplash__ [1]  
 __whisked__ [1] _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
