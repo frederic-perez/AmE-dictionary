@@ -1,5 +1,6 @@
-
 __Eastern Block__ (the Eastern bloc) [1] _politics_ (formerly) the Soviet bloc.  
+__FT__ [1] _Sports_ Full-time.  
+__Stalin, Joseph (originally Iosif Vissarionovich Dzhugashvili)__ Stalin means "steel" in Russian.  
 __acumen__ _n_ Keen insight; shrewdness: _business acumen._  
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Translations (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
 __bafflement__ [1] _n_ Confusion resulting from failure to understand. _(In Spanish: desconcierto, perplejidad)_  
@@ -17,10 +18,13 @@ __chasm__ [1] _n_ __1__ A deep, steep-sided opening in the earth's surface; an a
 __cladding__ [1] _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _(In Spanish: revestimiento)_  
 __clique__ _n_ A small exclusive group of friends or associates. _(In Spanish: camarilla)_  
 __coat__ [1] _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
+__conspicuous__ [1] _adj_ __1__ Obvious or easy to notice: _a conspicuous flaw in the construction._ __2__ Noticeable or attracting attention, especially if unattractive. 
 __coy__ [1] _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you.  
 __cringe__ [1] _v_ __1__ To shrink back, as in fear; cower. _(to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza)_ __2__ To behave in a servile way; fawn. _(it makes me cringe → me da horror)_  
 __curator__ [1] _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
+__customer > tough customer__ [1] Someone who is difficult to deal with. _Some of those bikers are really tough customers. Walt is a tough customer. Just keep away from him._  
 __defection__ [1] _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment.  
+__dell__ [1] _n_ A small secluded wooded valley.  
 __deluge__ [1] _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic - affected with emotional disorder.  
 __disinfectant__ _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
@@ -28,11 +32,13 @@ __dismal__ [1] _adj_ Causing gloom or depression; dreary: _dismal weather; took 
 __double up__ [1] _phrasal v_  To bend suddenly, as in pain or laughter.  
 __drab__ (drabber jobs) [1] _adj_ Dull or commonplace in character; dreary: _a drab personality._  
 __dwadle__ [1] _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
+__ensnare__ [2] _v_ To take or catch in or as if in a snare.  
 __enthrall__ (enthralling) [1] To hold spellbound; captivate: _The magic show enthralled us._  
 __envelope > push the envelope__ [1] _Idiom_ To go beyond established limits; to pioneer.  
 __eschew__ (eschewing commas) [1] _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __estrange__ [1] _v_ __1__ (often foll by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __exact__ (exacting) [1] _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
+__fancy__ [1] _v_ __1__ __a__ To have a liking or enthusiasm for: _fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __flinch__ [1] _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flurry__ [1] __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
 __foible__ [1] _n_ A behavioral attribute that is distinctive and peculiar to an individual. _(In Spanish: manía)_  
@@ -48,10 +54,12 @@ __hog__ _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To take more than on
 __hunk__ [2] _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ _Slang_ A physically attractive man, usually with a well-developed physique.  
 __ilk__ [1] _n_ Type or kind: _can't trust people of that ilk._  
 __imbue__ [1] _v_ __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__indefatigable__ [1] _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
 __jalopy__ [1] _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.  
 __jaunty__ [1] _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jibed (at something/at doing something)__ [1] _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __jock__ [1] _n informal US_ An athlete.  
+__kingdom come__ [1] _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __litany__ [1] _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __lush__ [1] _adj_ __1__ (of vegetation) abounding in lavish growth __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lynch__ _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -73,6 +81,7 @@ __roll over__ _Informal_ To defeat overwhelmingly. To be easily defeated without
 __rye__ [1] _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _(In Spanish: centeno)_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __sashay__ [1] _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _Translations (= wither) → secar, marchitar (Med) → cauterizar; [pain etc] → punzar; (= scorch) → chamuscar, quemar_  
+__severance (severance contract)__ [1] _Law_ The division into separate parts of a joint estate, contract, etc.  
 __shortfall__ [1] _n_ _Syn_ deficit, shortage.  
 __shtick__ or __shtik__ [1] _n Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself.  
 __slew__ [2] _n_ A large amount or number; a lot: _a slew of unpaid bills._  
@@ -94,23 +103,10 @@ __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitc
 __uxorious__ [1] /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __valkyrie__ [1] _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __verve__  [2] _n_ Great ​energy and ​enthusiasm: _she ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__ [1] _n_ Elation or enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve._  
 __vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __wend__ _v_ To move or travel slowly somewhere: _Leo wended his way home through the wet streets._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked. _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __yearn__ [1] _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __zeitgeist__ [1] _n_ A German word meaning time spirit, used to mean the spirit of the age.  
-indefatigable  
-severance contract  
-stroll > Barça to stroll, Betis to struggle  
-customer > tough customer  
-verve > their attacking verve  
-to fancy  
-to chuck around  
-FT Final time (eg. of a match)?  
-conspicuous  
-kingdom come  
-dell  
-constant sorrow  
-Stalin, Joseph (Joseph Vissarinovich Djigashvili) Stalin means "steel" in Russian  
-CHK.Lenin, Trotsky
