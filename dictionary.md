@@ -33,7 +33,7 @@ __blitz__ [1]
 __blurt__ (blurting) [2] _v_  To say something suddenly and without thinking carefully enough: _She blurted it out before I could stop her._  
 __bode__ [1] _v_ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
 __bombast__ [1] _Let's drop the bombast and look at the evidence._  
-__bone > the funny bone__ [1]  
+__bone → the funny bone__ [1]  
 __boorish__ [1] Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._  
 __bristled__ [1] _He bristled with news reporters in South Africa._  
 __buckle down (to something)__ [1] _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
@@ -59,7 +59,7 @@ __cineplex__ [1] _Sequels ruled the cineplex this weekend._
 __cistern__ [1] _More than a hundred households depend on cisterns and wells._  
 __cladding__ [1] _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _:es: revestimiento_  
 __clique__ _n_ A small exclusive group of friends or associates. _:es: camarilla_  
-__cloud > to be on cloud 9__ [1] _She and her husband are on cloud 9 about their daughter._  
+__cloud → to be on cloud 9__ [1] _She and her husband are on cloud 9 about their daughter._  
 __coat__ [1] _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __conducive__ [1] _The vehicle doesn't seem conducive to passing._  
 __conspicuous__ [1] _adj_ __1__ Obvious or easy to notice: _a conspicuous flaw in the construction._ __2__ Noticeable or attracting attention, especially if unattractive. 
@@ -72,7 +72,7 @@ __curator__ [1] _n_ One who manages or oversees, as the administrative director 
 __curfew__ [1] _Her parents raised her with early curfews and well-defined rules._  
 __curry__ [1] _v_  
 __curtail__ [1] _The government is conspiring to curtail liberties._  
-__customer > tough customer__ [1] Someone who is difficult to deal with. _Some of those bikers are really tough customers. Walt is a tough customer. Just keep away from him._  
+__customer → tough customer__ [1] Someone who is difficult to deal with. _Some of those bikers are really tough customers. Walt is a tough customer. Just keep away from him._  
 __dapper__ [1] _The dapper lead singer._  
 __daubed__ [1] _A swastika was daubed on a science center window._  
 __decaf__ [1] Decaffeinated coffee.  
@@ -86,6 +86,7 @@ __disinfectant__ _n_ An agent, such as heat, radiation, or a chemical, that dest
 __dismal__ [1] _adj_ Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber.  
 __dissolution__ [1]  
 __dog__ [1] _v_ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
+__dogged__ [1] _adj_ Obstinately determined; wilful or tenacious.  
 __doom and gloom__ [1]  
 __double up__ [1] _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-decker bus__ [1]  
@@ -97,7 +98,7 @@ __end run__ [1]
 __ensnare__ [2] _v_ To take or catch in or as if in a snare.  
 __enthrall__ (enthralling) [1] To hold spellbound; captivate: _The magic show enthralled us._  
 __entrenched__ [1]  
-__envelope > push the envelope__ [1] _Idiom_ To go beyond established limits; to pioneer.  
+__envelope → push the envelope__ [1] _Idiom_ To go beyond established limits; to pioneer.  
 __eschew__ (eschewing commas) [1] _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __estrange__ [1] _v_ __1__ (often foll by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __exact__ (exacting) [1] _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
@@ -109,7 +110,7 @@ __filly__ [1] _The filly had to be euthanized when she suffered an unspecified f
 __flair__ [1] _He hopes to bring back that flair._  
 __flinch__ [1] _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __floaters__ [1] _(Basketball)_ _I wonder how I missed so many floaters._  
-__floppy > floppy socks__ [1]  
+__floppy → floppy socks__ [1]  
 __fluke__ [1] _They need to replicate the study to make sure it wasn't just a fluke._  
 __flurry__ [1] __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
 __fodder__ [2] _The episode provides fodder for attacks on his leadership from opponents in his own party._  
@@ -127,7 +128,7 @@ __garland__ [1] _Garland motifs on carved oak paneling._
 __gerrymandering__ [1]  
 __gloating__ [1]  
 __gloppy__ [1] _It will be thick, gloppy, wall-paper-paste-type snow._  
-__glue > a glue-type player__ [1]  
+__glue → a glue-type player__ [1]  
 __gnaw__ (gnaw out) [2] _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
 __gougers__ [1] _Transparency helps patients and exposes gougers._  
 __grope (somebody)__ [1] _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
@@ -210,7 +211,7 @@ __scourge__ [2] _Some conservative members called him a scourge who had put nati
 __scrap__ [1] _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scuttling__ [1]  
 __sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) → secar, marchitar (Med) → cauterizar; [pain etc] → punzar; (= scorch) → chamuscar, quemar_  
-__searing > searing work__ [1]  
+__searing → searing work__ [1]  
 __seeth__ [1] _v_  
 __seize__ [1] _It is important to seize the opportunity._  
 __severance (severance contract)__ [1] _Law_ The division into separate parts of a joint estate, contract, etc.  
@@ -240,7 +241,7 @@ __steadfast__ [1] _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or
 __steep__ [1] _He faces a steep learning curve._  
 __stodgy__ [1] _The mainstream may sound too stodgy._  
 __strain__ [1]  
-__strep > strep throat__ [1] _Maybe strepsils is derived from strep (throat)._  
+__strep → strep throat__ [1] _Maybe strepsils is derived from strep (throat)._  
 __strife__ [1]  
 __sulk__ [1] _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __swaddle__ [1] _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada, a un bebé_  
@@ -252,14 +253,14 @@ __tatter__ (tattered) [3] _v_ To make or become ragged: _a tattered shirt; a tat
 __temp__ (subzero temps) [1] _n_ Temperature.  
 __thaw__ [1] _It kept the door open for a possible thaw in relations between the Koreas._  
 __tiara__ [1] _Brooches, necklaces and tiaras fit for a queen._  
-__toast > French toast__ [1]  
+__toast → French toast__ [1]  
 __toehold__ _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toothless__ [1] _Some consider most of those laws toothless._  
 __tranche__ [1] _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __trestle__ [1] _He walks under the Bond Hill railroad trestle._  
 __trickle down__ [1] _v_ To pass from high-ranked people to lower-ranked people.  
 __trigger__ [1] _v_ _The avalanche was triggered by skiers._  
-__tube > shoulder tube__ [1] _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
+__tube → shoulder tube__ [1] _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
 __tumbler__ [1] _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ The contents of such a drinking glass: _a tumbler of beer_  
 __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __uxorious__ [1] /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
@@ -277,8 +278,9 @@ __whimper__ [1] _The week went out not with a bang, but with a whimper._
 __whiplash__ [1]  
 __whisked__ [1] _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __wildling__ [1] _John is about to kill wildling leader Rayder._  
-__wire > getting down to the wire__ [1]  
+__willy-nilly__ [1] _adv_ Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza._  
 __wire grass__ [1] _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
+__wire → getting down to the wire__ [1]  
 __wire-to-wire__ [2] _Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked. _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
