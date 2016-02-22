@@ -10,9 +10,9 @@ __actuaries__ [1] _The actuaries for the Center for Medicare credited the law fo
 __acumen__ _n_ Keen insight; shrewdness: _business acumen._  
 __alacrity__ [1] _We might not respond with the alacrity we would need to contain something serious._ 
 __assail__ [2] _v_ _Chávez assailed U.S. influence in Latin America in his campaign against capitalism and democratic freedom._  
-__avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Translations (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
+__avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
 __backdrop__ [1] _These massacres took place against the backdrop of a war._  
-__bafflement__ [1] _n_ Confusion resulting from failure to understand. _(:es: desconcierto, perplejidad)_  
+__bafflement__ [1] _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __balky__ [1]  
 __ballot__ [1] _A lot of guys who did steroids are on the ballot._  
 __barrage__ [1] _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
@@ -57,8 +57,8 @@ __chillingly__ [1] _His prediction of mass murder of Tutsis proved chillingly ac
 __choker__ [1] _A velvet choker._  
 __cineplex__ [1] _Sequels ruled the cineplex this weekend._  
 __cistern__ [1] _More than a hundred households depend on cisterns and wells._  
-__cladding__ [1] _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _(In Spanish: revestimiento)_  
-__clique__ _n_ A small exclusive group of friends or associates. _(In Spanish: camarilla)_  
+__cladding__ [1] _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _:es: revestimiento_  
+__clique__ _n_ A small exclusive group of friends or associates. _:es: camarilla_  
 __cloud > to be on cloud 9__ [1] _She and her husband are on cloud 9 about their daughter._  
 __coat__ [1] _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __conducive__ [1] _The vehicle doesn't seem conducive to passing._  
@@ -113,10 +113,10 @@ __floppy > floppy socks__ [1]
 __fluke__ [1] _They need to replicate the study to make sure it wasn't just a fluke._  
 __flurry__ [1] __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
 __fodder__ [2] _The episode provides fodder for attacks on his leadership from opponents in his own party._  
-__foible__ [1] _n_ A behavioral attribute that is distinctive and peculiar to an individual. _(In Spanish: manía)_  
+__foible__ [1] _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
 __folded__ [1] _The American Soccer League folded in 1931._  
 __follow suit__ [1]  
-__foray__ [2] _n_ A venture or an initial attempt, especially outside one's usual area: _an actor's foray into politics._ _(In Spanish: incursión)_  
+__foray__ [2] _n_ A venture or an initial attempt, especially outside one's usual area: _an actor's foray into politics._ _:es: incursión_  
 __forgo__ [1] _Iran could simply forgo all indigenous nuclear power development._  
 __frigid__ (frigid winds) [1] Extremely cold.  
 __fritter__ [1] _Parents worried that their kids off at college will fritter away time and money on Internet gambling._  
@@ -204,12 +204,12 @@ __roll over__ _Informal_ To defeat overwhelmingly. To be easily defeated without
 __rout__ [1]  
 __rowdy__ [2] _The assembly could turn into an arena of political rowdies_ (=boisterous?)  
 __rue__ [1] _v_ _Pa. town rues sacrifice of its war dead._  
-__rye__ [1] _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _(In Spanish: centeno)_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
+__rye__ [1] _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __sashay__ [1] _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __scourge__ [2] _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scrap__ [1] _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scuttling__ [1]  
-__sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _Translations (= wither) → secar, marchitar (Med) → cauterizar; [pain etc] → punzar; (= scorch) → chamuscar, quemar_  
+__sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) → secar, marchitar (Med) → cauterizar; [pain etc] → punzar; (= scorch) → chamuscar, quemar_  
 __searing > searing work__ [1]  
 __seeth__ [1] _v_  
 __seize__ [1] _It is important to seize the opportunity._  
@@ -234,7 +234,7 @@ __spate__ [1] _A spate af hate speech._
 __spry__ [1] _adj_ Lively, active, and brisk; vigorous.  
 __spur of the moment__ [1] _The administrators mada a "spur of the moment" decision to block him._  
 __squeamish__ [1] Easily ​upset or ​disgusted by things or ​actions you ​find ​unpleasant: _Dad was squeamish about ​killing ​roaches._  
-__standings__ [1] _(In Spanish: clasificación? TODO: CHK)_  
+__standings__ [1] _:es: clasificación_  
 __staunch__ [1] _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful.  
 __steadfast__ [1] _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful.  
 __steep__ [1] _He faces a steep learning curve._  
@@ -243,7 +243,7 @@ __strain__ [1]
 __strep > strep throat__ [1] _Maybe strepsils is derived from strep (throat)._  
 __strife__ [1]  
 __sulk__ [1] _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
-__swaddle__ [1] _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _(In Spanish: envolver con ropa apretada, a un bebé)_  
+__swaddle__ [1] _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada, a un bebé_  
 __swamp__ _n_ __1__ __a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
 __sway__ [1]  
 __swipe__ [1] _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
