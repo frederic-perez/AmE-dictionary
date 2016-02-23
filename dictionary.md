@@ -9,7 +9,7 @@ __acrimony__ [1]
 __actuaries__ [1] _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acumen__ _n_ Keen insight; shrewdness: _business acumen._  
 __alacrity__ [1] _We might not respond with the alacrity we would need to contain something serious._ 
-__assail__ [2] _v_ _Chávez assailed U.S. influence in Latin America in his campaign against capitalism and democratic freedom._  
+__assail__ [2] :two: _v_ _Chávez assailed U.S. influence in Latin America in his campaign against capitalism and democratic freedom._  
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
 __backdrop__ [1] _These massacres took place against the backdrop of a war._  
 __bafflement__ [1] _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
@@ -26,11 +26,11 @@ __berated__ [1] _v_ _She started berating black and Latino nannies, who, she sai
 __bereavement__ [1] _n_ State of sorrow over the death or departure of a loved one.  
 __berserk__ _adj_ __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __besmirch__ [1] _v_ To stain; sully: _a reputation that was besmirched by slander._   
-__bestowed__ [2] _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
+__bestowed__ [2] :two: _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bigot__ [1] _He was the founder of the party and widely viewed as a bigot._  
 __billow__ [1] _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __blitz__ [1]  
-__blurt__ (blurting) [2] _v_  To say something suddenly and without thinking carefully enough: _She blurted it out before I could stop her._  
+__blurt__ (blurting) [2] :two: _v_  To say something suddenly and without thinking carefully enough: _She blurted it out before I could stop her._  
 __bode__ [1] _v_ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
 __bombast__ [1] _Let's drop the bombast and look at the evidence._  
 __bone → the funny bone__ [1]  
@@ -95,7 +95,7 @@ __dwadle__ [1] _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.
 __embezzling__ [1]  
 __emerald__ [1] _Thousands of emerald and green scarves are held outstretched overhead._  
 __end run__ [1]  
-__ensnare__ [2] _v_ To take or catch in or as if in a snare.  
+__ensnare__ [2] :two: _v_ To take or catch in or as if in a snare.  
 __enthrall__ (enthralling) [1] To hold spellbound; captivate: _The magic show enthralled us._  
 __entrenched__ [1]  
 __envelope → push the envelope__ [1] _Idiom_ To go beyond established limits; to pioneer.  
@@ -113,11 +113,11 @@ __floaters__ [1] _(Basketball)_ _I wonder how I missed so many floaters._
 __floppy → floppy socks__ [1]  
 __fluke__ [1] _They need to replicate the study to make sure it wasn't just a fluke._  
 __flurry__ [1] __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
-__fodder__ [2] _The episode provides fodder for attacks on his leadership from opponents in his own party._  
+__fodder__ [2] :two: _The episode provides fodder for attacks on his leadership from opponents in his own party._  
 __foible__ [1] _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
 __folded__ [1] _The American Soccer League folded in 1931._  
 __follow suit__ [1]  
-__foray__ [2] _n_ A venture or an initial attempt, especially outside one's usual area: _an actor's foray into politics._ _:es: incursión_  
+__foray__ [2] :two: _n_ A venture or an initial attempt, especially outside one's usual area: _an actor's foray into politics._ _:es: incursión_  
 __forgo__ [1] _Iran could simply forgo all indigenous nuclear power development._  
 __frigid__ (frigid winds) [1] Extremely cold.  
 __fritter__ [1] _Parents worried that their kids off at college will fritter away time and money on Internet gambling._  
@@ -129,7 +129,7 @@ __gerrymandering__ [1]
 __gloating__ [1]  
 __gloppy__ [1] _It will be thick, gloppy, wall-paper-paste-type snow._  
 __glue → a glue-type player__ [1]  
-__gnaw__ (gnaw out) [2] _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
+__gnaw__ (gnaw out) [2] :two: _v_ To erode or diminish gradually as if by gnawing: _waves gnawing the rocky shore._  
 __gougers__ [1] _Transparency helps patients and exposes gougers._  
 __grope (somebody)__ [1] _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __hammy__ [1] _adj_ Marked or characterized by overacting; affectedly humorous or dramatic.  
@@ -137,11 +137,11 @@ __hanker__ [1] _v_ To have a strong, often restless desire. Hankering = Craving.
 __heartland__ [1] _The nation's heartlande._  
 __hector__ [1] _v_ _Chávez hectored the United States often._  
 __hog__ _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To take more than one's share of: _Don't hog the couch._  
-__hunk__ [2] _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ _Slang_ A physically attractive man, usually with a well-developed physique.  
+__hunk__ [2] :two: _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A physically attractive man, usually with a well-developed physique.  
 __ilk__ [1] _n_ Type or kind: _can't trust people of that ilk._  
 __imbue__ [1] _v_ __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __indefatigable__ [1] _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
-__injuction__ [2] _The school requested to lift the injuction._  
+__injuction__ [2] :two: _The school requested to lift the injuction._  
 __inpatient__ [1] Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inveighed__ [1]  
 __jalopy__ [1] _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.  
@@ -189,7 +189,7 @@ __quagmire__ [1]
 __queasy__ [1] _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __quell__ [1] _v_  
 __quip__ (quippy) [1] _n, v_  A clever or witty remark or comment.  
-__quirk__ [2] _n_ A peculiarity of behavior; an idiosyncrasy: _Every man had his own quirks and twists (Harriet Beecher Stowe)._  
+__quirk__ [2] :two: _n_ A peculiarity of behavior; an idiosyncrasy: _Every man had his own quirks and twists._  
 __rambling__ [1]  
 __ratched (something) up__ [1] _v_ To increase, or make something increase, repeatedly and by small amounts.  
 __ratchet up__ [1] _They intend to ratchet up the pressure on Iran._  
@@ -203,14 +203,14 @@ __rifts__ [1] _With deal of troops in danger, Afghan leader provokes further rif
 __roil__ [1] _v_ _Another shocker roils 'Game' finale._  
 __roll over__ _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __rout__ [1]  
-__rowdy__ [2] _The assembly could turn into an arena of political rowdies_ (=boisterous?)  
+__rowdy__ [2] :two: _The assembly could turn into an arena of political rowdies_ (=boisterous?)  
 __rue__ [1] _v_ _Pa. town rues sacrifice of its war dead._  
 __rye__ [1] _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __sashay__ [1] _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
-__scourge__ [2] _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
+__scourge__ [2] :two: _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scrap__ [1] _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scuttling__ [1]  
-__sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) → secar, marchitar (Med) → cauterizar; [pain etc] → punzar; (= scorch) → chamuscar, quemar_  
+__sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) → secar, marchitar (Med) → cauterizar; [pain etc] → punzar; (= scorch) → chamuscar, quemar_  
 __searing → searing work__ [1]  
 __seeth__ [1] _v_  
 __seize__ [1] _It is important to seize the opportunity._  
@@ -221,7 +221,7 @@ __shtick__ or __shtik__ [1] _n Slang_ A show-business routine or piece of busine
 __sidelined__ [1] _The first baseman is expected to be sidelined for seven to 10 days._  
 __sideways__ [1] _I'm not interested in getting sideways with anyone at Augusta_  
 __skids__ [1] _Shutdown didn't put skids on sales._  
-__slew__ [2] _n_ A large amount or number; a lot: _a slew of unpaid bills._  
+__slew__ [2] :two: _n_ A large amount or number; a lot: _a slew of unpaid bills._  
 __slide__ [1] _An evacuation slide was activated during a flight Wednesday._  
 __slog__ [1] _An uphill slog._ _It will be a slog._  
 __sloshing__ [1] _There is a lot of cash slowhing around the system._  
@@ -249,7 +249,7 @@ __swamp__ _n_ __1__ __a__ Permanently waterlogged ground that is usually overgro
 __sway__ [1]  
 __swipe__ [1] _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __tantalizing__ [1] _The revelations are a tantalizing indication of how much we still have to learn._  
-__tatter__ (tattered) [3] _v_ To make or become ragged: _a tattered shirt; a tattered reputation._  
+__tatter__ (tattered) [3] :three: _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
 __temp__ (subzero temps) [1] _n_ Temperature.  
 __thaw__ [1] _It kept the door open for a possible thaw in relations between the Koreas._  
 __tiara__ [1] _Brooches, necklaces and tiaras fit for a queen._  
@@ -266,14 +266,13 @@ __twitchy__ [1] _adj_ Characterized by jerky or spasmodic motion: _a cat's twitc
 __uxorious__ [1] /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __valkyrie__ [1] _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __vanquished__ [1] _The situation has even brought back a disease that had long been vanquished in Siria._  
-__verve__  [2] _n_ Great ​energy and ​enthusiasm: _she ​delivered her ​speech with ​tremendous ​wit and verve._  
-__verve__ [1] _n_ Elation or enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve._  
+__verve__ [2] :two: :dart: _n_ Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ [1] A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vial__ [1] _He turned over a vial of cocaine he had there._  
 __vitriol__ [1] _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __voucher__ [1] _The administration has focused its efforts with more housing vouchers._  
 __wallop__ [1] _The storm was aimed to wallop Washington, D.C., today._  
-__wend__ [2] _v_ To move or travel slowly somewhere: _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
+__wend__ [2] :two: _v_ To move or travel slowly somewhere: _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
 __whimper__ [1] _The week went out not with a bang, but with a whimper._  
 __whiplash__ [1]  
 __whisked__ [1] _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
@@ -281,7 +280,7 @@ __wildling__ [1] _John is about to kill wildling leader Rayder._
 __willy-nilly__ [1] _adv_ Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza._  
 __wire grass__ [1] _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
 __wire → getting down to the wire__ [1]  
-__wire-to-wire__ [2] _Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
+__wire-to-wire__ [2] :two: _Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __woe__ [1] _n_ Misfortune; calamity: _economic and political woes._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked. _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __yearn__ [1] _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
