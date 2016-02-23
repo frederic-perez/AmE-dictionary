@@ -117,7 +117,7 @@ __excoriate__ _Gay rights advocates excoriated the state's actions._
 __fallout__ _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
-__filly__ _The filly had to be euthanized when she suffered an unspecified fracture._  
+__filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ _:es: potra_  
 __flair__ _He hopes to bring back that flair._  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __floaters__ _(Basketball)_ _I wonder how I missed so many floaters._  
@@ -275,7 +275,7 @@ __tantalizing__ _The revelations are a tantalizing indication of how much we sti
 __tatter__ (tattered) :three: _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
 __temp__ (subzero temps) _n_ Temperature.  
 __thaw__ _It kept the door open for a possible thaw in relations between the Koreas._  
-__tiara__ :two: _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._
+__tiara__ :two: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __toast → French toast__  
 __toehold__ _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toothless__ _Some consider most of those laws toothless._  
@@ -295,7 +295,7 @@ __vial__ _He turned over a vial of cocaine he had there._
 __vitriol__ _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __voucher__ _The administration has focused its efforts with more housing vouchers._  
 __wallop__ _The storm was aimed to wallop Washington, D.C., today._  
-__wend__ :two: _v_ To move or travel slowly somewhere: _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
+__wend__ :two: /wɛnd/ _v_ To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way. _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
 __whimper__ _The week went out not with a bang, but with a whimper._  
 __whiplash__  
 __whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
@@ -303,7 +303,7 @@ __wildling__ _John is about to kill wildling leader Rayder._
 __willy-nilly__ _adv_ Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
 __wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
 __wire → getting down to the wire__  
-__wire-to-wire__ :two: _Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
+__wire-to-wire__ :two: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __witchcraft__ _A 1958 witchcraft comedy._  
 __woe__ _n_ Misfortune; calamity: _economic and political woes._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked. _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
