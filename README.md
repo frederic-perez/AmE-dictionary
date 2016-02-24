@@ -1,5 +1,5 @@
 # AmE-dictionary
-A simple shared dictionary to be enhanced with flash-like cards
+A simple shared dictionary to be enhanced with flash-like cards (maybe we can write something using HTML and JavaScript, like this [HTML editor](http://mrdoob.com/projects/htmleditor/)).
 
 ### Resources
 
