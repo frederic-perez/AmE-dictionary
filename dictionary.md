@@ -1,11 +1,11 @@
 __CPR__ Cardiopulmonary resuscitation.  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __FT__ _Sports_ Full-time.  
-__GED__ _GED exam._  
-__Stalin, Joseph (originally Iosif Vissarionovich Dzhugashvili)__ Stalin means "steel" in Russian.  
+__GED__ The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
+__Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __abject__ _I am stunned by the abject stupidity that was shown here._  
-__accolade__  
-__acrimony__  
+__accolade__ _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition. _The hotel has won numerous accolades._  
+__acrimony__ _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment.  
 __actuaries__ _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acumen__ _n_ Keen insight; shrewdness: _business acumen._  
 __alacrity__ _We might not respond with the alacrity we would need to contain something serious._  
@@ -198,7 +198,6 @@ __maimed__ _v_ _Civilians who are not fighting are being maimed and starved._
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __mettle__ _n_ The courage to carry on: _It's the first real test of his mettle this season._  
-__midset__ _He performed a midset string of Commodores hits._  
 __mince__ _She doesn't mince words._  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
 __motor coaches__ A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
@@ -315,26 +314,26 @@ __toast → French toast__
 __toehold__ _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toothless__ _Some consider most of those laws toothless._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
-__trestle__ _He walks under the Bond Hill railroad trestle._  
+__trestle__ /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
 __trickle down__ _v_ To pass from high-ranked people to lower-ranked people.  
-__trifecta__  
+__trifecta__ /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __tube → shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ The contents of such a drinking glass: _a tumbler of beer_  
-__turnover__ _The small retailers made more than 50 percent of their turnover from selling cigarettes._  
+__turnover__ _n_ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield. _The small retailers made more than 50 percent of their turnover from selling cigarettes._  _:es: facturación, volumen de ventas._  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
-__vanquished__ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vanquish__ (vanquished) (From Old French vencus, venquis) Defeat thoroughly. _Syn_ conquer, defeat (utterly). _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __verve__ :two: :dart: /vəːv/ _n_ Great ​energy and ​enthusiasm. Liveliness. (From French, 'vigour’) _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
-__vial__ _He turned over a vial of cocaine he had there._  
-__vitriol__ _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
+__vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
+__vitriol__ /ˈvɪtrɪəl/ _n_ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __voucher__ _The administration has focused its efforts with more housing vouchers._  
-__wallop__ _The storm was aimed to wallop Washington, D.C., today._  
+__wallop__ _v_ Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
 __wend__ (wending) :three: /wɛnd/ _v_ To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way. _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
-__whimper__ _The week went out not with a bang, but with a whimper._  
-__whiplash__  
+__whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan. _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._  
+__whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __wildling__ _John is about to kill wildling leader Rayder._  
 __willy-nilly__ _adv_ Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
