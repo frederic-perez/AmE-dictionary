@@ -57,7 +57,7 @@ __buoyed__
 __busboy__ _n_ A young man who clears tables in a restaurant or cafe.  
 __buttressed__ _Politicians buttressed programs like Social Security and Medicare._  
 __by and large__  
-__byzantine__ _The byzantine nature of health care pricing._  
+__byzantine__ :open_mouth: _The byzantine nature of health care pricing._  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __campier__ _campier presentations._  
@@ -183,7 +183,7 @@ __idiocracy__ _Frank is sick and tired of how America has become a state of idio
 __ilk__ _n_ Type or kind: _can't trust people of that ilk._  
 __imbue__ _v_ __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __in__ _They arrived in Philadelphia._  
-__indefatigable__ _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
+__indefatigable__ :open_mouth: _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
 __injuction__ :two: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand. _The school requested to lift the injuction._  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inveighed__  
@@ -209,7 +209,7 @@ __lockstep__
 __lurked__  
 __lush__ _A lush green jungle._  
 __lush__ _adj_ __1__ (of vegetation) abounding in lavish growth __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
-__lynch__ _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
+__lynch__ :open_mouth: _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __maimed__ _v_ _Civilians who are not fighting are being maimed and starved._  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
@@ -290,7 +290,7 @@ __sideways__ _I'm not interested in getting sideways with anyone at Augusta_
 __simmering__ _The Family Corleone is filled with the smell of simmering tomato sauce._  
 __sizzle__ _Filming a "sizzle reel."_  
 __skids__ _Shutdown didn't put skids on sales._  
-__slew__ :two: /sluː/ _n_ A large amount or number; a lot. _A slew of unpaid bills; _  
+__slew__ :two: /sluː/ _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ _An evacuation slide was activated during a flight Wednesday._  
 __slog__ _An uphill slog._ _It will be a slog._  
 __sloshing__ _There is a lot of cash slowhing around the system._  
@@ -305,8 +305,7 @@ __snowmobiler__
 __snub__ _v_ _Putin is not just snubbing the United States and the G8._  
 __southpaw__ _n_ A left-handed boxer who leads with the right hand. _To fight a southpaw._ _Informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ _:es: zurdo_  
 __spat__ _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._  
-__spate__ _A spate af hate speech._  
-__spate__ _A spate of cross-border attacks._  
+__spate__ :two: /speɪt/ _n_ A large number of similar things coming in quick succession. _Syn_ series, succession, run. _A spate af hate speech._ _A spate of cross-border attacks._  
 __spruce up__ _Juliette spruces up her country look and sound._  
 __spry__ _adj_ Lively, active, and brisk; vigorous.  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
@@ -328,7 +327,7 @@ __strife__
 __strife__ _A new generation of refugees flees strife._  
 __sulk__ _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sunup__ _He works sunup to sundown._  
-__swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada, a un bebé_  
+__swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada a un bebé_  
 __swamp__ _n_ __1__ __a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
 __sway__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
@@ -351,7 +350,7 @@ __trifecta__ /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __tube → shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ The contents of such a drinking glass: _a tumbler of beer_  
-__turnover__ _n_ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield. _The small retailers made more than 50 percent of their turnover from selling cigarettes._  _:es: facturación, volumen de ventas._  
+__turnover__ _n_ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield. _The small retailers made more than 50 percent of their turnover from selling cigarettes._  _:es: facturación, volumen de ventas_  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
