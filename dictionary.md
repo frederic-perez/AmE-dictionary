@@ -2,32 +2,30 @@ __CPR__ Cardiopulmonary resuscitation.
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __FT__ _Sports_ Full-time.  
 __GED__ The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
-__Hinterland__  
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
-__abject__ _I am stunned by the abject stupidity that was shown here._  
+__abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
 __accolade__ _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition. _The hotel has won numerous accolades._  
 __acrimony__ _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment.  
 __actuaries__ _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acumen__ _n_ Keen insight; shrewdness: _business acumen._  
-__alacrity__ _We might not respond with the alacrity we would need to contain something serious._  
-__aloof__  
-__angst__  
+__alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness. _She accepted the invitation with alacrity._  
+__aloof__ /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive. _They were courteous but faintly aloof._  
+__angst__ A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry. _The existential angst of the middle classes._  
 __assail__ :two: /əˈseɪl/ _v_ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism.  
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
 __backdrop__ _These massacres took place against the backdrop of a war._  
 __backlog__ _Russia has a huge backlog of basic knowledge._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
-__balk__ _Cities balk as federal law on maijuana is enforced._  
-__balky__  
+__balk__ /bɔːlk,bɔːk/ _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist. _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
+__balky__ /ˈbɔːlki,ˈbɔːki/ _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __barrage__ _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bear__ _Second Amendment: The right of the people to keep and bear arms._  
 __beau__ _Executive beau Rich Orosco._  
-__beckon__ _Your life, their lens: Stardom beckons_  
-__beckoning__  
+__beckon__ (beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave. _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure. _The moorland and miles of coastal path beckon many walkers._  
 __beleaguered__  
 __belittle__ _He belittles het._  
 __bequest__ _A dark bequest of Nazism._  
@@ -175,6 +173,7 @@ __hanker__ _v_ To have a strong, often restless desire. Hankering = Craving.
 __harrowing__ _A harrowing oddyssey._  
 __heartland__ _The nation's heartlande._  
 __hector__ _v_ _Chávez hectored the United States often._  
+__hinterland__ /ˈhɪntəland/ The remote areas of a country away from the coast or the banks of major rivers. (From German, from hinter 'behind’ + Land 'land’.) _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds. _The hinterland of southern Italy._  
 __hog__ _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To take more than one's share of: _Don't hog the couch._  
 __homie__ _Homies for life._  
 __hooky__ _A kid playing hooky._  
