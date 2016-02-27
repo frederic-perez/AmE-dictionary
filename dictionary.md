@@ -29,8 +29,7 @@ __backdrop__ _These massacres took place against the backdrop of a war._
 __backlog__ _Russia has a huge backlog of basic knowledge._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __balk__ /bɔːlk,bɔːk/ _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist. _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
-__balking__  
-__balky__ /ˈbɔːlki,ˈbɔːki/ _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
+__balky__ (balking) /ˈbɔːlki,ˈbɔːki/ _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __barrage__ _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
@@ -107,8 +106,7 @@ __contentious__
 __contrived__  
 __coy__ _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you.  
 __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._  
-__cram__ _A cram year._  
-__cram__ _v_ _On the weekends, she crams in as much physical activity as she can._  
+__cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
 __craven__ _A craven political figure._  
 __crimped__  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _(to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza)_ __2__ To behave in a servile way; fawn. _(it makes me cringe → me da horror)_  
@@ -145,7 +143,7 @@ __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.
 __embezzling__  
 __emcee__  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._  
-__empty-net, power-play, short-handed goal__  
+__empty-net/power-play/short-handed goal__  
 __encroaching__  
 __end run__  
 __endearing__  
@@ -211,7 +209,8 @@ __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when 
 __groundbreaker__  
 __guidet__ _Two guidettes._  
 __hammy__ _adj_ Marked or characterized by overacting; affectedly humorous or dramatic.  
-__hanker__ _v_ To have a strong, often restless desire. Hankering = Craving.  
+__hanker__ _v_ To have a strong, often restless desire.  
+__hankering__ Craving.  
 __harried__ _A harried mom._  
 __harrowing__ _A harrowing oddyssey._  
 __heartland__ _The nation's heartlande._  
@@ -314,7 +313,7 @@ __quagmire__
 __qualms__ _He has some serious qualms about the book._  
 __queasy__ _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __quell__ _v_  
-__quip__ (quippy) :two: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._  
+__quip__ (quippy) :two: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quipped__  
 __quirk__ :three: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __rambling__  
@@ -428,7 +427,7 @@ __sweltering__ :two:
 __swigging__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swooshing__  
-__tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
+__tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._ _:es: tentador(a)_  
 __tarmac__  
 __tatter__ (tattered) :three: _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
 __tattling__  
