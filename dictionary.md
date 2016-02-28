@@ -29,7 +29,7 @@ __backdrop__ _These massacres took place against the backdrop of a war._
 __backlog__ _Russia has a huge backlog of basic knowledge._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __balk__ /bɔːlk,bɔːk/ _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist. _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
-__balky__ (balking) /ˈbɔːlki,ˈbɔːki/ _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
+__balky__ (balking) /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __barrage__ _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
@@ -372,7 +372,7 @@ __simmering__ _The Family Corleone is filled with the smell of simmering tomato 
 __sizzle__ _Filming a "sizzle reel."_  
 __skids__ _Shutdown didn't put skids on sales._  
 __slather__ _To slather on hand lotion._  
-__slew__ :two: /sluː/ _n_ A large amount or number; a lot. _A slew of unpaid bills._  
+__slew__ :two: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ _An evacuation slide was activated during a flight Wednesday._  
 __slog__ _An uphill slog._ _It will be a slog._  
 __sloshing__ _There is a lot of cash slowhing around the system._  
@@ -468,7 +468,7 @@ __wallop__ _v_ Strike or hit very hard. _They walloped the back of his head with
 __wanton__ _There was no justification for such wanton destruction._  
 __wastrel__  
 __wend__ (wending) :three: /wɛnd/ _v_ To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way. _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
-__whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan. _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._  
+__whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan. _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __whittle down__ _The overwhelming advantage has been whittled down._  
