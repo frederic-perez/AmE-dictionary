@@ -2,14 +2,11 @@ __Big Three__ _(automobile manufacturers)_ The three major American automotive c
 __CPR__ Cardiopulmonary resuscitation.  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __FT__ _Sports_ Full-time.  
-__Fast and furious__  
 __GED__ The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __Mawkish__  
 __O-lineman__  
 __Old Dominion__  
 __Ponzi scheme__  
-__Prez__ :two:  
-__Pyrrhic__  
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __Whodunit__  
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
@@ -17,7 +14,7 @@ __accoitrements__
 __accolade__ _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition. _The hotel has won numerous accolades._  
 __acrimony__ _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment.  
 __actuaries__ _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
-__acumen__ :two: _n_ Keen insight; shrewdness: _business acumen._  
+__acumen__ :two: _n_ The ability to make good judgements and take quick decisions. _She hides a shrewd business acumen._  
 __adjunct__ _Adjunct professors._  
 __afar__ _I've been watching his magnificent season from afar._  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness. _She accepted the invitation with alacrity._  
@@ -44,7 +41,7 @@ __bastion__ _He tried to soften the National Front's image as a bastion of xenop
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bear__ _Second Amendment: The right of the people to keep and bear arms._  
-__beau__ :two: _Executive beau Rich Orosco._  
+__beau__ :two: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._  
 __beckon__ (beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave. _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure. _The moorland and miles of coastal path beckon many walkers._  
 __bedrock__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
@@ -75,7 +72,7 @@ __bode__ _v_ _His conservative definition does not bode well for those who objec
 __bologna__  
 __bombast__ _Let's drop the bombast and look at the evidence._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
-__bone → the funny bone__ (funny bones) :two:  
+__bone → funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __boon__ /buːn/ A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boorish__ Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._  
 __bore__ _She once was into a stone bore._  
@@ -107,7 +104,7 @@ __campiness__ _Showbiz campiness._
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __chafe (or chaf?)__ _v_  
-__chagrin__ :two: _Much to your chagrin._  
+__chagrin__ :two: Annoyance or distress at having failed or been humiliated. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._  
 __chasm__ _n_ __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chastened__  
 __cheesy__ _Informal_ Cheap and of low quality. _Cheesy motel rooms._    
@@ -150,7 +147,7 @@ __dacha__ _Molecular engineering will make wonders possible, such as luminescent
 __dapper__ _The dapper lead singer._  
 __daubed__ _A swastika was daubed on a science center window._  
 __decaf__ Decaffeinated coffee.  
-__decry__ (decried; decrying) :three: _v_ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Some have decried the shift._ _Democrats were decrying what they called a war on women._  
+__decry__ (decried; decrying) :three: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Some have decried the shift._ _Democrats were decrying what they called a war on women._  
 __defection__ _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment.  
 __deft__ _Deft editing._  
 __dell__ _n_ A small secluded wooded valley.  
@@ -166,7 +163,7 @@ __doffing__
 __dog__ _v_ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
 __doom and gloom__  
-__doorbuster__ :two: _Employees went to stores to see if doorbuster deals were available online. Doorbuster deals._  
+__doorbuster__ :two: A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online. Doorbuster deals._  
 __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-decker bus__  
 __dour__ _Hong Kong in dour mood as Chinese leader makes return visit._  
@@ -197,6 +194,7 @@ __expat__ _Baroque debut for Moscow expat choir._
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
 __fallout__ _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
+__fast and furious__  _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fearl__ _A fearl youngster._  
 __felon__ _Hairston has been tied to a felon through rental cars._  
 __festooned__ _His podium was festooned with a sign._  
@@ -210,7 +208,7 @@ __floppy → floppy socks__
 __flouted__ _Objections by businesses and the agriculture community, which flouted the law._  
 __flouting__ _Flouting the law._  
 __flubbed__  
-__fluke__ :two: _His recent victory against Silva was no fluke._ _They need to replicate the study to make sure it wasn't just a fluke._  
+__fluke__ :two: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident. _His recent victory against Silva was no fluke._ _They need to replicate the study to make sure it wasn't just a fluke._  
 __flurry__ __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __fodder__ :two: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder._  
@@ -222,7 +220,7 @@ __forestalled__
 __forgo__ _Iran could simply forgo all indigenous nuclear power development._  
 __forlorn__ _A forlorn dream._  
 __four-poster beds__  
-__fray__ (frayed) :two: _A bitter partisan fray._ _Ted is funny but gets a little frayed._  
+__fray__ (frayed) :two: (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge. _A bitter partisan fray._ _Ted is funny but gets a little frayed._  
 __frayed__ _The alliance between the groups frayed._  
 __frigid__ (frigid winds) Extremely cold.  
 __fritter__ _Parents worried that their kids off at college will fritter away time and money on Internet gambling._  
@@ -299,13 +297,13 @@ __jug__ _We have pulled the cork out of the jug._
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __junket__ _The championship game junket._  
 __kabobs__  
-__keepsakes__ :two: _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
+__keepsake__ :two: _n_ A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder. _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __kilter__ _off-kilter_  
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kiosk → pharmacy kiosk__  
 __knockusing__  
 __lackluster__ _Technical glitches have contributed to the lackluster response._  
-__laden__ :two: _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
+__laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
 __lampooned__  
 __last → next to last__  
 __leaven__ _To leaven the raunch and swagger._  
@@ -319,7 +317,7 @@ __litany__ _n_ __1__ _Christianity_ A liturgical prayer consisting of a series o
 __livery driver__  
 __lockstep__  
 __loophole__ _:es: escapatoria_  
-__lurked__ :two: _Like it or not, Biogenesis flap lurked._  
+__lurk__ (lurked) /ləːk/ :two: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _A lush green jungle._  
 __lush__ _adj_ __1__ (of vegetation) abounding in lavish growth __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lynch__ :open_mouth: _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -381,8 +379,10 @@ __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.
 __preening__  
 __prenup__  
 __preserve__ _A comedy about gorillas in a preserve._  
+__prez__ or __Prez__ :two: _n_ _Informal_ President.  
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
+__pyrrhic__ :open_mouth_ _adj_ (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __quagmire__  
 __qualms__ _He has some serious qualms about the book._  
 __queasy__ _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
