@@ -36,8 +36,7 @@ __backlog__ _Russia has a huge backlog of basic knowledge._
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __balk__ /bɔːlk,bɔːk/ _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist. _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
-__balking__  
-__balky__ /ˈbɔːlki,ˈbɔːki/ _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
+__balky__ (balking) /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __bantamweight__ _Rousey is the women's bantamweight champ._  
 __barrage__ _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
@@ -137,8 +136,7 @@ __contrived__
 __coy__ :two: _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you.  
 __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._  
 __crackpot__ _A reputation as a ridiculous crackpot._  
-__cram__ _A cram year._  
-__cram__ _v_ _On the weekends, she crams in as much physical activity as she can._  
+__cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
 __craven__ _A craven political figure._  
 __crimped__  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _(to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza)_ __2__ To behave in a servile way; fawn. _(it makes me cringe → me da horror)_  
@@ -179,7 +177,7 @@ __egregious__ _Egregious threats._
 __embezzling__  
 __emcee__  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._  
-__empty-net, power-play, short-handed goal__  
+__empty-net/power-play/short-handed goal__  
 __encroaching__  
 __end run__  
 __endearing__  
@@ -256,7 +254,8 @@ __grub__ _For veterans, this is the three-day weekend to stop counting calories 
 __guidet__ _Two guidettes._  
 __gunslinger__ _The speed of a gunslinger._  
 __hammy__ _adj_ Marked or characterized by overacting; affectedly humorous or dramatic.  
-__hanker__ _v_ To have a strong, often restless desire. Hankering = Craving.  
+__hanker__ _v_ To have a strong, often restless desire.  
+__hankering__ Craving.  
 __harried__ _A harried mom._  
 __harrowing__ _A harrowing oddyssey._  
 __harry__ _v_ _The weather will continue to harry firefighters._  
@@ -389,8 +388,7 @@ __qualms__ _He has some serious qualms about the book._
 __queasy__ _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __quell__ _v_  
 __quibbled__ _Their word choice gets quibbled with._  
-__quip__ (quippy) :two: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._  
-__quipped__  
+__quip__ (quipped, quippy) :two: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quirk__ (quirky) :four: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __racketeer__  
 __rambling__  
@@ -465,7 +463,7 @@ __skid__ _Santa Clara ended last season on an 18-game skid, going winless in WCC
 __skids__ _Shutdown didn't put skids on sales._  
 __skimpy__  
 __slather__ _To slather on hand lotion._  
-__slew__ :two: /sluː/ _n_ A large amount or number; a lot. _A slew of unpaid bills._  
+__slew__ :two: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ _An evacuation slide was activated during a flight Wednesday._  
 __slog__ _An uphill slog._ _It will be a slog._  
 __sloppy__ _We were a little sloppy in the second half of the game._  
@@ -578,7 +576,7 @@ __wanton__ _There was no justification for such wanton destruction._
 __wastrel__  
 __waterfowl__  
 __wend__ (wending) :three: /wɛnd/ _v_ To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way. _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
-__whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan. _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._  
+__whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan. _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __whittle down__ _The overwhelming advantage has been whittled down._  
