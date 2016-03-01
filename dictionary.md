@@ -12,7 +12,7 @@ __accoitrements__
 __accolade__ _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __acrimony__ _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __actuaries__ _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
-__acumen__ :two: _n_ The ability to make good judgements and take quick decisions. _She hides a shrewd business acumen._  
+__acumen__ :two: :octocat: acumen/acute/agudo _n_ (From Latin, ‘sharpness, point’, from acuere 'sharpen'; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza   
 __adjunct__ _Adjunct professors._  
 __afar__ _I've been watching his magnificent season from afar._  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
@@ -41,7 +41,7 @@ __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bear__ _Second Amendment: The right of the people to keep and bear arms._  
-__beau__ :two: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._  
+__beau__ :two: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beckon__ (beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __bedrock__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
@@ -92,10 +92,10 @@ __buoyant__ _adj_
 __buoyed__  
 __busboy__ _n_ A young man who clears tables in a restaurant or cafe.  
 __busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
-__buttressed__ :two: _Politicians buttressed programs like Social Security and Medicare._  
+__buttress__ (buttressed) :two: _v_ Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buyouts__ _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __by and large__  
-__byzantine__ :open_mouth: _The byzantine nature of health care pricing._  
+__byzantine__ :open_mouth: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __campier__ _campier presentations._  
@@ -131,7 +131,7 @@ __conspicuous__ (conspicuously) _adj_ __1__ Obvious or easy to notice. _A conspi
 __constituencies__  
 __contentious__  
 __contrived__  
-__coy__ :two: _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you.  
+__coy__ :two: _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._  
 __crackpot__ _A reputation as a ridiculous crackpot._  
 __cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
@@ -139,7 +139,7 @@ __craven__ _A craven political figure._
 __crimped__  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _(to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza)_ __2__ To behave in a servile way; fawn. _(it makes me cringe → me da horror)_  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curfew__ :two: _Her parents raised her with early curfews and well-defined rules._  
+__curfew__ :two: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __curry__ _v_  
 __cursive__ /ˈkəːsɪv/ _adj_ Written with the characters joined. (from Latin curs-'run’)  
 __curtail__ _The government is conspiring to curtail liberties._  
@@ -182,7 +182,7 @@ __encroaching__
 __end run__  
 __endearing__  
 __enlivened__  
-__ensnare__ :two: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._  
+__ensnare__ :two: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __entrenched__  
 __envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
