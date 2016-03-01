@@ -48,7 +48,7 @@ __beguiling__ _The Artist has an utterly beguiling purity._
 __behest__  
 __beholder__ _Everything's in the eye of the beholder._  
 __beleaguered__  
-__beleaguered__ _The beleaguered parks system. _  
+__beleaguered__ _The beleaguered parks system._  
 __belied__  
 __belittle__ _He belittles het._  
 __bequest__ _A dark bequest of Nazism._  
@@ -92,8 +92,7 @@ __buoyant__ _adj_
 __buoyed__  
 __busboy__ _n_ A young man who clears tables in a restaurant or cafe.  
 __busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
-__buttressed__  
-__buttressed__ _Politicians buttressed programs like Social Security and Medicare._  
+__buttressed__ :two: _Politicians buttressed programs like Social Security and Medicare._  
 __buyouts__ _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __by and large__  
 __byzantine__ :open_mouth: _The byzantine nature of health care pricing._  
@@ -125,8 +124,7 @@ __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat
 __coif__ _Strange coif._  
 __concussion__ _He recovers from the concussion he sustained on June 15._  
 __conducive__ _The vehicle doesn't seem conducive to passing._  
-__conspicuous__ _adj_ __1__ Obvious or easy to notice: _a conspicuous flaw in the construction._ __2__ Noticeable or attracting attention, especially if unattractive.  
-__conspicuously__ _Conspicuously absent was Iran._  
+__conspicuous__ (conspicuously) _adj_ __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constituencies__  
 __contentious__  
 __contrived__  
@@ -138,7 +136,7 @@ __craven__ _A craven political figure._
 __crimped__  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _(to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza)_ __2__ To behave in a servile way; fawn. _(it makes me cringe → me da horror)_  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curfew__ _Her parents raised her with early curfews and well-defined rules._  
+__curfew__ :two: _Her parents raised her with early curfews and well-defined rules._  
 __curry__ _v_  
 __cursive__ /ˈkəːsɪv/ _adj_ Written with the characters joined. (from Latin curs-'run’)  
 __curtail__ _The government is conspiring to curtail liberties._  
@@ -205,8 +203,7 @@ __flair__ _He hopes to bring back that flair._
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __floaters__ _(Basketball)_ _I wonder how I missed so many floaters._  
 __floppy → floppy socks__  
-__flouted__ _Objections by businesses and the agriculture community, which flouted the law._  
-__flouting__ _Flouting the law._  
+__flouted__ (flouting) :two: _Objections by businesses and the agriculture community, which flouted the law._ _Flouting the law._   
 __flubbed__  
 __fluke__ :two: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident. _His recent victory against Silva was no fluke._ _They need to replicate the study to make sure it wasn't just a fluke._  
 __flurry__ __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
@@ -220,8 +217,7 @@ __forestalled__
 __forgo__ _Iran could simply forgo all indigenous nuclear power development._  
 __forlorn__ _A forlorn dream._  
 __four-poster beds__  
-__fray__ (frayed) :two: (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge. _A bitter partisan fray._ _Ted is funny but gets a little frayed._  
-__frayed__ _The alliance between the groups frayed._  
+__fray__ (frayed) :two: (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge. _A bitter partisan fray._  _The alliance between the groups frayed._  
 __frigid__ (frigid winds) Extremely cold.  
 __fritter__ _Parents worried that their kids off at college will fritter away time and money on Internet gambling._  
 __furlong__ _The colt went to the track for a 5-furlong workout._  
@@ -318,8 +314,7 @@ __livery driver__
 __lockstep__  
 __loophole__ _:es: escapatoria_  
 __lurk__ (lurked) /ləːk/ :two: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
-__lush__ _A lush green jungle._  
-__lush__ _adj_ __1__ (of vegetation) abounding in lavish growth __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
+__lush__ :two: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lynch__ :open_mouth: _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __maimed__ _v_ _Civilians who are not fighting are being maimed and starved._  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
@@ -347,7 +342,7 @@ __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com
 __nipped__ _The Gaels were nipped at Washington._  
 __normalcy__ _It took me months to get back to normalcy._  
 __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._  
-__obo__ (abbreviation)  
+__obo__ (abbreviation) Or best offer.  
 __oddyssey__ :open_mouth: _A harrowing oddyssey._  
 __offing__ _A budding rivalry could be in the offing._  
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._  
@@ -395,8 +390,7 @@ __rambling__
 __rapt__ _Robert C. Cone had a rapt audience._  
 __raring__  
 __rashes__ _Skin rashes._  
-__ratched (something) up__ _v_ To increase, or make something increase, repeatedly and by small amounts.  
-__ratchet up/down__ :two: _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
+__ratchet (something) up/down__ :three: _v_ To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __raucous__  
 __raunchy__  
 __ravages__ _The potential ravages of a man-manipulated virus at a research center._  
@@ -434,8 +428,7 @@ __scourge__ :two: /skəːdʒ/ A person or thing that causes great trouble or suf
 __scrap__ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrounge up__ _To scrounge up the funds._  
 __scuffled__ _The police scuffled with a group of demonstrators._  
-__scuttle__ _v_ _A tighter budgetary policy will scuttle plans to boost consumption._  
-__scuttling__  
+__scuttle__ (scuttling) _v_ :two: _A tighter budgetary policy will scuttle plans to boost consumption._  
 __sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) → secar, marchitar (Med) → cauterizar; (pain etc) → punzar; (= scorch) → chamuscar, quemar_  
 __searing → searing work__  
 __seeth__ _v_  
@@ -459,8 +452,7 @@ __sidelined__ _The first baseman is expected to be sidelined for seven to 10 day
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __simmering__ _The Family Corleone is filled with the smell of simmering tomato sauce._  
 __sizzle__ _Filming a "sizzle reel."_  
-__skid__ _Santa Clara ended last season on an 18-game skid, going winless in WCC play._  
-__skids__ _Shutdown didn't put skids on sales._  
+__skid__ :two: _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _Shutdown didn't put skids on sales._  
 __skimpy__  
 __slather__ _To slather on hand lotion._  
 __slew__ :two: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
@@ -476,8 +468,7 @@ __smear__ _They use social media to smear their opponents._
 __smelting__ _A smelting factory._  
 __smug__ _Their smug belief in some form of American exceptionalism._  
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
-__snark__  
-__snarky__ _The snarky Twitter reaction._  
+__snark__ (snarky) :two: _The snarky Twitter reaction._  
 __snarl__ _v_  
 __snowmobiler__  
 __snub__ :three: _v_ _Putin is not just snubbing the United States and the G8._ _They were disappointed at being snubbed._ _Draft snub adds fuel._  
@@ -515,8 +506,7 @@ __storeful__
 __strain__  
 __strand__ _Stranding thousands of commuters._  
 __strep → strep throat__ _Maybe strepsils is derived from strep (throat)._  
-__strife__  
-__strife__ _A new generation of refugees flees strife._  
+__strife__ :two: _A new generation of refugees flees strife._  
 __sulk__ _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sunup__ _He works sunup to sundown._  
 __svelte__  
@@ -538,7 +528,7 @@ __temp__ _n_ Temperature. _Subzero temps._ _Temps dropped into the 30s._
 __tepid__  
 __thaw__ _It kept the door open for a possible thaw in relations between the Koreas._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
-__thwarts__ _Clerk with real gun thwarts BB gun holdup._  
+__thwarts__ :two: _Clerk with real gun thwarts BB gun holdup._  
 __tiara__ :three: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __tiki__ _Tiki sensibility._  
 __toast → French toast__  
