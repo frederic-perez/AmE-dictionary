@@ -35,9 +35,11 @@ __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconc
 __balk__ /bɔːlk,bɔːk/ _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist. _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
 __balky__ (balking) /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
+__bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bantamweight__ _Rousey is the women's bantamweight champ._  
 __barrage__ _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
+__batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agwent._  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bear__ _Second Amendment: The right of the people to keep and bear arms._  
@@ -100,6 +102,7 @@ __call up__ _He called up a text from his brother, who asked how the run went._
 __callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __campier__ _campier presentations._  
 __campiness__ _Showbiz campiness._  
+__cap__ (capped) _v_ Provide a fitting climax or conclusion to. _The settlement is not capped._  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __chafe (or chaf?)__ _v_  
@@ -112,6 +115,8 @@ __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __choker__ _A velvet choker._  
 __choppier__ _before the waters get choppier._  
+__chops__ _n Informal_ A person's or animal's mouth or jaws.  
+__churn__ _n_ _A machine for making butter by shaking milk or cream._  
 __cineplex__ _Sequels ruled the cineplex this weekend._  
 __cistern__ _More than a hundred households depend on cisterns and wells._  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _:es: revestimiento_  
@@ -168,7 +173,9 @@ __dour__ _Hong Kong in dour mood as Chinese leader makes return visit._
 __drab__ (drabber jobs) _adj_ Dull or commonplace in character; dreary: _a drab personality._  
 __duped__ _v_ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
+__dysfunctional__ :open_mouth:  
 __egregious__ _Egregious threats._  
+__ember__ _n_ A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzling__  
 __emcee__  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._  
@@ -214,9 +221,11 @@ __folded__ _The American Soccer League folded in 1931._
 __follow suit__  
 __foray__ :three: /ˈfɒreɪ/ _n_ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge. _An actor's foray into politics._ _:es: incursión_  
 __forestalled__  
+__forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgo__ _Iran could simply forgo all indigenous nuclear power development._  
 __forlorn__ _A forlorn dream._  
 __four-poster beds__  
+__fraught__ _adj_ __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray__ (frayed) :two: (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge. _A bitter partisan fray._  _The alliance between the groups frayed._  
 __frigid__ (frigid winds) Extremely cold.  
 __fritter__ _Parents worried that their kids off at college will fritter away time and money on Internet gambling._  
@@ -291,6 +300,7 @@ __jingoism__
 __jock__ _n informal US_ An athlete.  
 __jug__ _We have pulled the cork out of the jug._  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
+__jumble__ An untidy collection or pile of things. _It was a real emotional jumble for me._  
 __junket__ _The championship game junket._  
 __kabobs__  
 __keepsake__ :two: _n_ A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder. _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -306,12 +316,15 @@ __leaven__ _To leaven the raunch and swagger._
 __leeway__ _Allowing leeway for students who have low scores._  
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
 __lenient__  
+__lest__ _Conjuction Formal_ With the intention of preventing (something undesirable); to avoid the risk of. _Lest we forget._  
+__letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __levied__ _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __lifeblood__  
 __links__ _The links course._  
 __litany__ _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __livery driver__  
 __lockstep__  
+__longhand__ Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __loophole__ _:es: escapatoria_  
 __lurk__ (lurked) /ləːk/ :two: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ :two: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
@@ -333,6 +346,7 @@ __motor coaches__ A coach (also motor coach, often simply called a bus) is a typ
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __muggles__  
+__mum__ _adj_ Silent. _So far, the White House has been mum._  
 __muster__ _v_ To assemble or gather: _mustering for inspection._  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __nab__ _You can nab bargains before Black Friday._  
@@ -455,6 +469,7 @@ __sizzle__ _Filming a "sizzle reel."_
 __skid__ :two: _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _Shutdown didn't put skids on sales._  
 __skimpy__  
 __slather__ _To slather on hand lotion._  
+__sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __slew__ :two: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ _An evacuation slide was activated during a flight Wednesday._  
 __slog__ _An uphill slog._ _It will be a slog._  
@@ -485,6 +500,7 @@ __spurt__ _Stanford owned a two-poin lead in the second half before putting toge
 __sputtering__ _The sputtering of many market leaders._  
 __squeamish__ Easily ​upset or ​disgusted by things or ​actions you ​find ​unpleasant: _Dad was squeamish about ​killing ​roaches._  
 __squirm__ _Squirm-in-your-seat._  
+__staffer__ _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stagger__ _v_ _Walmart will stagger other deals._  
 __staid__  
 __stalwart__ _The Vladimir Nazarov Theater is a stalwart spot._  
@@ -554,6 +570,7 @@ __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or d
 __vacant-eyed__  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __vanquish__ (vanquished) (From Old French vencus, venquis) Defeat thoroughly. _Syn_ conquer, defeat (utterly). _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vat__ _n_ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaunted__  
 __veneer__  
 __verve__ :two: :dart: /vəːv/ _n_ Great ​energy and ​enthusiasm. Liveliness. (From French, 'vigour’) _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
@@ -561,6 +578,7 @@ __vested interest__ A ​strong ​personal ​interest in something because you
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vitriol__ /ˈvɪtrɪəl/ _n_ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __voucher__ _The administration has focused its efforts with more housing vouchers._  
+__wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __wallop__ _v_ Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
 __wanton__ _There was no justification for such wanton destruction._  
 __wastrel__  
