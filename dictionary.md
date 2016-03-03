@@ -151,7 +151,7 @@ __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._
 __crackpot__ _A reputation as a ridiculous crackpot._  
 __cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
 __craven__ _A craven political figure._  
-__crimp__ (crimped) :two:  
+__crimp__ (crimped) :two: :shit:  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe → me da horror_  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curfew__ :two: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
@@ -217,7 +217,7 @@ __exact__ (exacting) _v_ __2__ To demand and obtain by force or authority: _a ha
 __excoriate__ _Gay rights advocates excoriated the state's actions._  
 __expat__ _Baroque debut for Moscow expat choir._  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
-__fallout__ :two: _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
+__fallout__ :two: :shit: _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fast and furious__  _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fearl__ _A fearl youngster._  
@@ -257,7 +257,7 @@ __gal__
 __gale__ An extremely strong wind: _the gale blew down hundreds of trees._  
 __garish__ _They are charming and garish at the same time._  
 __garland__ _Garland motifs on carved oak paneling._  
-__gaudy__ :two: _A gaudy G-string._  
+__gaudy__ :two: :shit: _A gaudy G-string._  
 __gelled__ _His hair was neatly gelled._  
 __gerrymandering__  
 __gloating__  
@@ -440,7 +440,7 @@ __quell__ _v_
 __quibbled__ _Their word choice gets quibbled with._  
 __quip__ (quipped, quippy) :two: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quirk__ (quirky) :four: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
-__racketeer__ :two:  
+__racketeer__ :two: :shit:  
 __rainout__  
 __rambling__  
 __rapt__ _Robert C. Cone had a rapt audience._  
@@ -640,7 +640,7 @@ __whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fe
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __whittle down__ _The overwhelming advantage has been whittled down._  
-__wielding__ _v_ :two:  
+__wielding__ _v_ :two: :shit:  
 __wildling__ _John is about to kill wildling leader Rayder._  
 __willy-nilly__ _adv_ Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
 __winded__  
