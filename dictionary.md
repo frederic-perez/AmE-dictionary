@@ -289,6 +289,7 @@ __heartland__ _The nation's heartlande._
 __hector__ _v_ _Chávez hectored the United States often._  
 __heed__ _v_  
 __heel__ _A heel who learns how to be a good egg._  
+__hellbent__  
 __henchman__ _The chuckling henchman showed that feeding alligators had its downfalls._  
 __hike__ _v_ _Hiked prices._  
 __hinterland__ /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
@@ -340,6 +341,7 @@ __laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed a
 __lampooned__  
 __last → next to last__  
 __leaven__ _To leaven the raunch and swagger._  
+__leery__  
 __leeway__ _Allowing leeway for students who have low scores._  
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
 __lenient__  
@@ -365,6 +367,7 @@ __marauding__ _adj_ (of people or animals) Going around a place in search of thi
 __marshland__  
 __maudlin__  
 __mawkish__ Effusively or insincerely emotional.  
+__meager__  
 __medallions__ _Taxi medallions._  
 __mellow__  
 __mettle__ _n_ The courage to carry on: _It's the first real test of his mettle this season._  
@@ -396,7 +399,7 @@ __offing__ _A budding rivalry could be in the offing._
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._  
 __onlookers__  
 __op-ed__ :two: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
-__ordain__  
+__ordain__ :two: :shit:  
 __ordeal__ A very unpleasant and prolonged experience.  
 __outlandish__ :two: _adj_ Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._  
 __outpacing__  
@@ -454,6 +457,7 @@ __reams__ _He watched reams on tape._
 __rebuffed__  
 __reconvene__  
 __redolent__ _His ceremony was redolent with tension._  
+__redshirt__  
 __redux__  
 __reeling__ _Reeling economy._  
 __relish__ _Harvey seems to relish fame._  
@@ -480,7 +484,7 @@ __sag__ _Sagging economy._
 __sashay__ _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __scant__ _Details were scant._  
-__scoff__  
+__scoff__ :two: :shit:  
 __scourge__ :two: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scrap__ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrounge up__ _To scrounge up the funds._  
@@ -488,6 +492,7 @@ __scuffled__ _The police scuffled with a group of demonstrators._
 __scuttle__ (scuttling) _v_ :two: __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) → secar, marchitar (Med) → cauterizar; (pain etc) → punzar; (= scorch) → chamuscar, quemar_  
 __searing → searing work__  
+__security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __seeth__ _v_  
 __seize__ _It is important to seize the opportunity._  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
@@ -577,7 +582,7 @@ __superpooch__
 __svelte__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada a un bebé_  
 __swamp__ _n_ __1__ __a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
-__sway__  
+__sway__ :two: shit: _Swaying in the stands._  
 __sweltering__ :two: _adj_ Uncomfortably hot. _A sweltering Spanish summer._  
 __swigging__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
@@ -623,7 +628,7 @@ __vacant-eyed__
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __vanquish__ (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vat__ _n_ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
-__vaunted__  
+__vaunted__ :two: :shit:  
 __veneer__  
 __verve__ :two: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
