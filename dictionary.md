@@ -733,3 +733,25 @@ __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ _
 __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+dais _n_ :two:  
+career arc  
+badger _v_  
+jabs _Subtle jabs._  
+tirade _A postrace tirade._  
+offbeat  
+skit  
+belies _v_  
+gimme  
+shunned _v_  
+envoy  
+cards _UFC doesn't release what fighters earn for cards. Pay-per-view main card._  
+sweatsuits vs track suits  
+tapped out  
+bode _v_ _St-Pierre's return bodes well for nation._  
+obliged  
+barnburner  
+snub :es: _desaire, repulsa_  
+welterweight  
+mayhem  
+prod :es: _empujón_  
+raucous  
