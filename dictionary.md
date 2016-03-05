@@ -262,7 +262,7 @@ __flubbed__
 __fluke__ :two: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flurry__ :two: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
-__fodder__ :two: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder._  
+__fodder__ :two: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __foible__ _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
 __folded__ _The American Soccer League folded in 1931._  
 __follow suit__  
