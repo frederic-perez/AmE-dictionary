@@ -259,7 +259,7 @@ __floppy → floppy socks__
 __floundering__  
 __flout__ (flouted, flouting) :two: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
 __flubbed__  
-__fluke__ :two: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluke__ :three: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flurry__ :two: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __fodder__ :two: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
@@ -489,7 +489,7 @@ __queasy__ _adj_ Causing or suffering from nausea: _feeling queasy after a meal.
 __quell__ _v_  
 __quibbled__ _Their word choice gets quibbled with._  
 __quip__ (quipped, quippy) :four: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
-__quirk__ (quirky) :five: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
+__quirk__ (quirky) :six: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __racketeer__ :two: :shit:  
 __rainout__  
 __rambling__  
@@ -755,3 +755,33 @@ welterweight
 mayhem  
 prod :es: _empujón_  
 raucous  
+One room has burn marks on the floor where Ruth flicked cigar ashes.  
+++embezzling  
+landfill  
+grievance  
+heartthrob  
+britches _We think that you're a little too big for your britches._  
+rile _v_ _A tactic often intended to rile pitchers._  
+of late _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
+pickoff _A pickoff throw to first base._  
+bunt _Hamels batted in the third inning and tried to bunt._  
+upheaval  
+phenom  
+grandstand _He found rats in his grandstand._  
+faze _v_  
+dousing _The Nationals are dousing the District of Columbia with new hope._  
+varsity _He started dating another varsity athlete._  
+blowout _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+galling _A galling loss._  
+reliever  
+gaggle _A gaggle of Phillies fans taunted him._  
+marquee tournament  
+gritty _A gritty 101-97 overtime win against the Memphis Grizzlies._  
+downtrodden _The Clippers were the victims, the downtrodden, the doormats._  
+++heed_v_  
+++callous  
+++flurry  
+onesie _The actor in the Lycra onesie is stealing the 'Avengers' show._  
+breakout _He's a total breakout character._  
+wreath  
+
