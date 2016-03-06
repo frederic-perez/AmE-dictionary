@@ -7,7 +7,7 @@ __GED__ The General Educational Development Test is designed for people who, for
 __Old Dominion__ A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __Ponzi scheme__  
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
-__Tennesse__ Honey Honey liqueur blended with less than 20% whiskey.  
+__Tennesse Honey__ Honey liqueur blended with less than 20% whiskey.  
 __Whodunit__  
 __Wholly Molly__  
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
@@ -117,7 +117,7 @@ __bustling__ _The bustling dining room scene from the movie._
 __buttress__ (buttressed) :two: _v_ Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buybacks__  
 __buyouts__ _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
-__by and large__  
+__by and large__ :es: el líneas generales, en general  
 __byzantine__ :open_mouth: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __caddish__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
@@ -775,13 +775,13 @@ blowout _The Orioles began a four-game series against the Texas Rangers with a b
 galling _A galling loss._  
 reliever  
 gaggle _A gaggle of Phillies fans taunted him._  
-marquee tournament  
-gritty _A gritty 101-97 overtime win against the Memphis Grizzlies._  
+marquee tournament :es: entoldado  
+grit (gritty) _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor
 downtrodden _The Clippers were the victims, the downtrodden, the doormats._  
-++heed_v_  
+++heed_v_ :es: hacer caso de  
 ++callous  
 ++flurry  
 onesie _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 breakout _He's a total breakout character._  
-wreath  
+wreath (funeral wreath) :es: corona  
 
