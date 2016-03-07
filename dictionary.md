@@ -174,7 +174,7 @@ __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._
 __crackpot__ _A reputation as a ridiculous crackpot._  
 __cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
 __craven__ _A craven political figure._  
-__crimp__ (crimped) :two: :shit:  
+__crimp__ (crimped) :two: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe → me da horror_  
 __cuckolded__  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
@@ -250,7 +250,7 @@ __exact__ (exacting) _v_ __2__ To demand and obtain by force or authority: _a ha
 __excoriate__ _Gay rights advocates excoriated the state's actions._  
 __expat__ _Baroque debut for Moscow expat choir._  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
-__fallout__ :two: :shit: _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
+__fallout__ :two: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fast and furious__  _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __faze__ _v_  
@@ -296,7 +296,7 @@ __gale__ An extremely strong wind: _the gale blew down hundreds of trees._
 __galling__ _A galling loss._  
 __garish__ _They are charming and garish at the same time._  
 __garland__ _Garland motifs on carved oak paneling._  
-__gaudy__ :two: :shit: _A gaudy G-string._  
+__gaudy__ :two: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: chillón, hortera  
 __gelled__ _His hair was neatly gelled._  
 __gerrymandering__  
 __gloating__  
@@ -313,7 +313,7 @@ __gridiron__
 __grievance__  
 __grinding__ _Bumping and grinding._  
 __gripe__ _Not a single gripe._  
-__grit__ (gritty) _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor
+__grit__ (gritty) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __groundbreaker__  
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
@@ -463,7 +463,7 @@ __on__ :dart: _Available on newstands._ _And for those critics out there on the 
 __onesie__ _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlookers__  
 __op-ed__ :two: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
-__ordain__ :two: :shit:  
+__ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ A very unpleasant and prolonged experience.  
 __outcry__  
 __outlandish__ :two: _adj_ Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._  
@@ -514,7 +514,7 @@ __quell__ _v_
 __quibbled__ _Their word choice gets quibbled with._  
 __quip__ (quipped, quippy) :four: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quirk__ (quirky) :six: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
-__racketeer__ :two: :shit:  
+__racketeer__ :two: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __rainout__  
 __rambling__  
 __rapt__ _Robert C. Cone had a rapt audience._  
@@ -564,7 +564,7 @@ __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalke
 __scant__ _Details were scant._  
 __schlocky__  
 __schuss__  
-__scoff__ :two: :shit:  
+__scoff__ :two: _v_ Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scourge__ :two: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scrap__ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrounge up__ _To scrounge up the funds._  
@@ -725,7 +725,7 @@ __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fal
 __vanquish__ (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __varsity__ _He started dating another varsity athlete._  
 __vat__ _n_ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
-__vaunted__ :two: :shit:  
+__vaunt__  (vaunted) :two: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
 __veneer__  
 __veranda__  
 __verve__ :two: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
@@ -746,8 +746,8 @@ __whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fe
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __whittle down__ _The overwhelming advantage has been whittled down._  
-__wielding__ _v_ :two: :shit:  
-__wildling__ _John is about to kill wildling leader Rayder._  
+__wield__ (wielding) :two: _v_ Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish  
+__wildling__ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __willy-nilly__ _adv_ Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
 __winded__  
 __windfall__ :two: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
