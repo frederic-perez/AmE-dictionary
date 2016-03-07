@@ -1,3 +1,12 @@
+rebate To pay rebates.  
+dole out _v_ Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players.  
+tab _Charities, hospitals or individuals had to pay the tab._  
+excise _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
+rebate _Insurance rebates._  
+rigmarole _Rigmarole controls._  
+cry foul _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
+alcohol ignition locks  
+
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
