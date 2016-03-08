@@ -1,12 +1,3 @@
-rebate To pay rebates.  
-dole out _v_ Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players.  
-tab _Charities, hospitals or individuals had to pay the tab._  
-excise _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
-rebate _Insurance rebates._  
-rigmarole _Rigmarole controls._  
-cry foul _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
-alcohol ignition locks  
-
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
@@ -185,6 +176,7 @@ __cram__ _v_ _On the weekends, she crams in as much physical activity as she can
 __craven__ _A craven political figure._  
 __crimp__ (crimped) :two: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe → me da horror_  
+__cry foul__ _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cuckolded__  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curfew__ :two: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
@@ -217,6 +209,7 @@ __dissolution__
 __doffing__  
 __dog__ _v_ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
+__dole out__ _v_ _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._  
 __doom and gloom__  
 __doorbuster__ :two: A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doozy__  
@@ -256,6 +249,7 @@ __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from s
 __escrow__  
 __estrange__ _v_ __1__ (often foll by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __exact__ (exacting) _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
+__excise__ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excoriate__ _Gay rights advocates excoriated the state's actions._  
 __expat__ _Baroque debut for Moscow expat choir._  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
@@ -415,6 +409,7 @@ __lifeblood__ :two: The blood, as being necessary to life.
 __links__ _The links course._  
 __litany__ _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __livery driver__  
+__locks → alcohol ignition locks__  
 __lockstep__  
 __loggerheads__  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
@@ -535,6 +530,7 @@ __raunchy__
 __ravages__ _The potential ravages of a man-manipulated virus at a research center._  
 __razzle-dazzle__  
 __reams__ _He watched reams on tape._  
+__rebate__ :two: :shit: _Insurance rebates._ _To pay rebates._  
 __rebuffed__  
 __reckon__  
 __reconvene__  
@@ -553,6 +549,7 @@ __reunion__
 __revue__  
 __rhetoric__ _From divisive rhetoric to civil dialogue._  
 __rifts__ _With deal of troops in danger, Afghan leader provokes further rifts._  
+__rigmarole__ _Rigmarole controls._  
 __rile__ _v_ _A tactic often intended to rile pitchers._  
 __ringmaster__  
 __risible__  
@@ -685,6 +682,7 @@ __swigging__
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swoon__ _Apple became the latest market darling to swoon, falling more than 20% from its recent high._  
 __swooshing__  
+__tab__ _Charities, hospitals or individuals had to pay the tab._  
 __tack__ _The GOP changed its tack._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
