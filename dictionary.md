@@ -530,23 +530,23 @@ __raunchy__
 __ravages__ _The potential ravages of a man-manipulated virus at a research center._  
 __razzle-dazzle__  
 __reams__ _He watched reams on tape._  
-__rebate__ :two: :shit: _Insurance rebates._ _To pay rebates._  
+__rebate__ :two: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso  
 __rebuffed__  
 __reckon__  
 __reconvene__  
 __redo__  
 __redolent__ _His ceremony was redolent with tension._  
 __redshirt__  
-__redux__  
+__redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __reeling__ _Reeling economy._  
 __reliever__  
-__relish__ _Harvey seems to relish fame._  
-__remembrance__  
+__relish__ Enjoy greatly. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._  
+__remembrance__ _n_ The action of remembering something. :es: recuerdo  
 __reprisals__ _A ban on federal reprisals._  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __resumption__ _A possible resumption of talks between those countries._  
-__reunion__  
-__revue__  
+__reunion__ An instance of two or more people coming together again after a period of separation.  
+__revue__ _n_ A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. :es: revista, show  
 __rhetoric__ _From divisive rhetoric to civil dialogue._  
 __rifts__ _With deal of troops in danger, Afghan leader provokes further rifts._  
 __rigmarole__ _Rigmarole controls._  
