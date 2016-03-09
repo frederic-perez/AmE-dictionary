@@ -19,6 +19,7 @@ __acumen__ :two: :octocat: acumen/acute/agudo _n_ (from Latin, ‘sharpness, poi
 __adjunct__ _Adjunct professors._  
 __afar__ _I've been watching his magnificent season from afar._  
 __affluent__  
+__agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __allayed__ _v_  
 __aloof__ /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
