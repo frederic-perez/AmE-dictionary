@@ -135,7 +135,7 @@ __cap__ (capped) _v_ Provide a fitting climax or conclusion to. _The settlement 
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __chafe (or chaf?)__ _v_  
-__chagrin__ :two: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._  
+__chagrin__ :three: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._  
 __chasm__ _n_ __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chastened__  
 __cheesy__ _Informal_ Cheap and of low quality. _Cheesy motel rooms._    
@@ -265,16 +265,18 @@ __fiat__ _Military fiat._
 __fiberglass__  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ _:es: potra_  
-__flair__ _He hopes to bring back that flair._  
+__flair__ :two: :shit: _He hopes to bring back that flair._  
 __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
+__flitty__  
 __floaters__ _(Basketball)_ _I wonder how I missed so many floaters._  
 __floppy → floppy socks__  
 __floundering__  
 __flout__ (flouted, flouting) :two: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
 __flubbed__  
-__fluke__ :three: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluke__ :four: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flurry__ :three: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
+__fluster__  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __fodder__ :two: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __foible__ _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
@@ -423,6 +425,7 @@ __maimed__ _v_ _Civilians who are not fighting are being maimed and starved._
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __mantle__ :two: An important role or responsibility that passes from one person to another. _Syn_ role  
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
+__marquee__  
 __marred__ _v_  
 __marshland__  
 __maudlin__  
@@ -467,6 +470,7 @@ __offing__ _A budding rivalry could be in the offing._
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._  
 __onesie__ _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlookers__  
+__ooze__ (oozing) _Oozing with talent._  
 __op-ed__ :two: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ A very unpleasant and prolonged experience.  
@@ -492,6 +496,7 @@ __pickoff__ _A pickoff throw to first base._
 __pinkeye__  
 __pipe dream__  
 __pitch__ _To pitch a tent._  
+__pizazz__  
 __platitudes__  
 __pluck__ _A portrait in pluck._  
 __pop__ _The outfielder shows suprising pop for his size and can play all three outfield positions._  
@@ -499,6 +504,7 @@ __portend__ _v_
 __portly__  
 __possum__ _To play possum._  
 __pounced__ _Critics pounced on the showiness._  
+__prance__ _On the floor exercise, Wieber prances, tumbles and smiles._  
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
 __preening__  
 __prenup__  
@@ -513,6 +519,7 @@ __pyrrhic__ :open_mouth_ _adj_ (of a victory) won at too great a cost to have be
 __quagmire__  
 __quaint__  
 __qualms__ _He has some serious qualms about the book._  
+__quandary__ _All-Star managers face quandary._  
 __quarts__ _Guzzlings quarts of Coors beer._  
 __queasy__ _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __quell__ _v_  
@@ -580,7 +587,7 @@ __scuttle__ (scuttling) _v_ :two: __1__ Run hurriedly or furtively with short qu
 __sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) → secar, marchitar (Med) → cauterizar; (pain etc) → punzar; (= scorch) → chamuscar, quemar_  
 __searing → searing work__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
-__seeth__ _v_  
+__seeth__ :two: :shit: _v_ _Pujols was left seething._  
 __seize__ _It is important to seize the opportunity._  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __shackles__ _A bed with built-in shackles._  
@@ -610,7 +617,7 @@ __skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on some
 __skits__  
 __slather__ _To slather on hand lotion._  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
-__slew__ :two: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
+__slew__ :three: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ _An evacuation slide was activated during a flight Wednesday._  
 __slog__ _An uphill slog._ _It will be a slog._  
 __sloppy__ _We were a little sloppy in the second half of the game._  
@@ -650,7 +657,7 @@ __stalwart__ _The Vladimir Nazarov Theater is a stalwart spot._
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
 __standings__ :two: _Pac-12 Standings_ _:es: clasificación_  
-__standout__  
+__standout__ :two: :shit:  
 __stately__ _A stately ballroom._  
 __staunch__ _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __stave__ _v_  
@@ -704,6 +711,7 @@ __toast → French toast__
 __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __tony__  
 __toothless__ _Some consider most of those laws toothless._  
+__topsy-turvy__  
 __tossup__ _Diabetes study is a tossup._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __trestle__ /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
@@ -739,6 +747,7 @@ __veranda__
 __verve__ :two: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
+__vie__  
 __vitriol__ /ˈvɪtrɪəl/ _n_ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __voucher__ _The administration has focused its efforts with more housing vouchers._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
@@ -750,6 +759,7 @@ __wastrel__
 __waterfowl__  
 __welterweight__  
 __wend__ (wending) :three: /wɛnd/ _v_ To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
+__whammy__ _A double whammy of injuries._  
 __whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
