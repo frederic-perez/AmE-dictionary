@@ -63,8 +63,8 @@ __beholden__ _Syrians are not beholden to sectarianism._
 __beholder__ _Everything's in the eye of the beholder._  
 __beleaguered__  
 __beleaguered__ _The beleaguered parks system._  
-__belied__  
-__belittle__ _He belittles het._  
+__belie__ :two: :shit:  
+__belittle__ :two: :shit: _He belittles het._  
 __belting__  
 __bequest__ _A dark bequest of Nazism._  
 __berated__ _v_ _She started berating black and Latino nannies, who, she said, can't even takeee care of their own children._  
@@ -113,6 +113,7 @@ __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation.
 __bulk__  
 __bulwark__  
 __bumping__ _Bumping and grinding._  
+__bungle__ _v_  
 __bungler__ _Upper-crust bunglers._  
 __bunt__ _Hamels batted in the third inning and tried to bunt._  
 __buoyant__ _adj_  
@@ -169,7 +170,7 @@ __conducive__ _The vehicle doesn't seem conducive to passing._
 __conspicuous__ (conspicuously) _adj_ __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constituencies__  
 __contentious__  
-__contrived__  
+__contrived__ :two: :shit:  
 __coy__ :two: _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._  
 __crackpot__ _A reputation as a ridiculous crackpot._  
@@ -180,7 +181,7 @@ __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe wi
 __cry foul__ _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cuckolded__  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curfew__ :two: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
+__curfew__ :three: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __curry__ _v_  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
 __curtail__ _The government is conspiring to curtail liberties._  
@@ -193,7 +194,7 @@ __decaf__ Decaffeinated coffee.
 __decommits__  
 __decry__ (decried; decrying) :three: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __defection__ _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment  
-__deft__ :two: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
+__deft__ :three: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __deking__  
 __dell__ _n_ A small secluded wooded valley.  
 __deluge__ _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
@@ -272,7 +273,7 @@ __flitty__
 __floaters__ _(Basketball)_ _I wonder how I missed so many floaters._  
 __floppy → floppy socks__  
 __floundering__  
-__flout__ (flouted, flouting) :two: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
+__flout__ (flouted, flouting) :three: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
 __flubbed__  
 __fluke__ :four: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flurry__ :three: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
@@ -285,7 +286,7 @@ __follow suit__
 __foray__ :three: /ˈfɒreɪ/ _n_ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
 __forestalled__  
 __forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
-__forgo__ _Iran could simply forgo all indigenous nuclear power development._  
+__forgo__ :two: :shit: _Iran could simply forgo all indigenous nuclear power development._  
 __forlorn__ _A forlorn dream._  
 __four-poster beds__  
 __fraught__ :two: _adj_ __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
@@ -516,7 +517,7 @@ __prod__ :es: _empujón_
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __pyrrhic__ :open_mouth_ _adj_ (of a victory) won at too great a cost to have been worthwhile for the victor.  
-__quagmire__  
+__quagmire__ :two: :shit:  
 __quaint__  
 __qualms__ _He has some serious qualms about the book._  
 __quandary__ _All-Star managers face quandary._  
@@ -572,7 +573,7 @@ __rue__ _v_ _Pa. town rues sacrifice of its war dead._
 __runoff__ _Enough votes to force a runoff,_  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __sag__ _Sagging economy._  
-__sappy__  
+__sap__ (sapped, sappy) :two: :shit:  
 __sashay__ _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __scant__ _Details were scant._  
@@ -619,7 +620,7 @@ __slather__ _To slather on hand lotion._
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __slew__ :three: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ _An evacuation slide was activated during a flight Wednesday._  
-__slog__ _An uphill slog._ _It will be a slog._  
+__slog__ :two: :shit: _An uphill slog._ _Slow slog toward the ideal._  
 __sloppy__ _We were a little sloppy in the second half of the game._  
 __sloshing__ _There is a lot of cash slowhing around the system._  
 __slow-as-molases__  
@@ -781,3 +782,26 @@ __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ _
 __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+__belate__ _v_  
+__buttercups__  
+__carnation__  
+__conflate__ _v_  
+__doze__ _v_  
+__dumplings__  
+__finger-waggers__  
+__guzzler__ _Taxing gas guzzlers._  
+__hedonic__  
+__latchkey__  
+__mollify__ _v_  
+__outlay__ _Budget outlays._  
+__pugnacity__  
+__rickets__  
+__rope-a-dope__  
+__samosas__  
+__seesaw__ _Playing on a swing or seesaw._  
+__shoal__ _The shoals of adolescence._  
+__sloth__  
+__tony__  
+__trampling__ _Stadium trampling._  
+__vanquish__ _v_  
+__welfare__  
