@@ -678,6 +678,7 @@ __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol
 __strep → strep throat__ _Maybe strepsils is derived from strep (throat)._  
 __strictures__  
 __strife__ :two: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._  
+__strut__ _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse
 __sulk__ _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sunup__ _He works sunup to sundown._  
 __superpooch__  
