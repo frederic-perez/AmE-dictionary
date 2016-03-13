@@ -855,3 +855,12 @@ furloughed++
 __respondent__  
 __shrill__  
 outcry++  
+__doldrums__  
+__shoal__  
+__grudgingly__  
+__pander__ (panders, pandering)  
+__ensconced__  
+__swath__  
+__waffle__ _v_  
+__wavering__ _A wavering statement._  
+__nunchucks__  
