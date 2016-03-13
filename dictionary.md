@@ -864,3 +864,42 @@ __swath__
 __waffle__ _v_  
 __wavering__ _A wavering statement._  
 __nunchucks__  
+__tassels__ _A thong with tassels._  
+__shingles__  
+__epitome__  
+__smelting__  
+__hooky__ _A kid playing hooky._  
+__stickler__  
+__mince__ _v_  
+__staid__  
+__adage__  
+__constituent__  
+__ebb and floor__  
+__RGA__ _RGA chairman._  
+__roam__ _v_ _To roam the country._  
+__heckler__  
+__blustery__  
+__break-the-china__  
+__valedictorian__  
+__unrepentant__  
+__stay__ _Granted a stay of execution._  
+__top-of-mind__  
+__score__ _Five score years ago._ 20 years?  
+__squat__   
+__calling card__  
+__tulle__  _Tulle-covered arch._  
+__asbestos__  
+__proceeds__ _Proceeds from the sale. _  
+__supremacist__ _A whote supremacist._  
+__permit__ _Camping permit fee._   
+__depletwd__ _It also helps restore depleted neurotransmitter levels._  
+__flying colors__  
+__yardstick__  
+curtail++  
+scuttle++  
+__fester__  
+__gerrymandering__  
+__ringleader__  
+__Tea partyers__ :open_mouth:  
+__stringer__  
+__tenuous__  
