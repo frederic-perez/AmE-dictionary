@@ -482,7 +482,7 @@ __outspoken__ Frank in stating one's opinions, especially if they are shocking o
 __over the moon__ _British Informal_ Extremely happy; delighted. _We are over the moon._  
 __overarching__  
 __pale__ :two: _adj_ Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._  
-__paltry__ :two: _adj_ Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
+__paltry__ :three: _adj_ Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __panned out__  
 __pant__ (panting) _v_ To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._  
 __pat__ _The too search engines haven't been standing pat._   
@@ -695,6 +695,7 @@ __swooshing__
 __tab__ _Charities, hospitals or individuals had to pay the tab._  
 __tack__ _The GOP changed its tack._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
+__tank__ (tanked) _The market tanked._  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tatter__ (tattered) :three: _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
@@ -705,7 +706,7 @@ __temp__ _n_ Temperature. _Subzero temps._ _Temps dropped into the 30s._
 __tepid__  
 __thaw__ _It kept the door open for a possible thaw in relations between the Koreas._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
-__thwart__ :two: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
+__thwart__ (thwarted) :three: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __ticker__  
 __tiki__ _Tiki sensibility._  
@@ -826,3 +827,31 @@ __gamine__
 __gauze__  
 __smitten__  
 __stubs__  
+__Chicken Littles__  
+__swoon__  
+__steady-eddy__  
+__pink slime__  
+__ballasr__  
+__racy__ _A racy line from a popular song._  
+__tabby__ _The orange and white tabby cat._  
+barrage++  
+decried++  
+__defector__ _Army defectors._  
+__broker__ (brokered) _v_ _The secretary-general brokered a truce that did not hold._  
+__planks__  _Anti-austerity planks._  
+__humdrum__  
+jocks++  
+__plop__ _v_  
+__elbow grease__  
+__rile__ (riled) _v_  
+__streamline__ (streamlining)  
+__bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
+__sojourn__  
+__stance__  
+__upswing__  
+__omen__  
+thwarted++  
+furloughed++  
+__respondent__  
+__shrill__  
+outcry++  
