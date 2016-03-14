@@ -47,7 +47,7 @@ __ballyhooed__
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bantamweight__ _Rousey is the women's bantamweight champ._  
 __barnburner__  
-__barrage__ _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage__ :two: _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agwent._  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
@@ -184,7 +184,7 @@ __curator__ _n_ One who manages or oversees, as the administrative director of a
 __curfew__ :three: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __curry__ _v_  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
-__curtail__ _The government is conspiring to curtail liberties._  
+__curtail__ :two: :shit: _The government is conspiring to curtail liberties._  
 __cusp__ _The cusp of the largest immigration wave._  
 __customer → tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
@@ -192,7 +192,7 @@ __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper l
 __daubed__ _A swastika was daubed on a science center window._  
 __decaf__ Decaffeinated coffee.  
 __decommits__  
-__decry__ (decried; decrying) :three: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
+__decry__ (decried; decrying) :four: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __defection__ _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment  
 __deft__ :three: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __deking__  
@@ -294,7 +294,7 @@ __fray__ (frayed) :four: (of a person's nerves or temper) Show the effects of st
 __frigid__ (frigid winds) Extremely cold.  
 __fritter__ _Parents worried that their kids off at college will fritter away time and money on Internet gambling._  
 __furlong__ :two: _n_ An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
-__furlough__  
+__furlough__ (furloughed) :two: :shit:  
 __gab__  
 __gaggle__ _A gaggle of Phillies fans taunted him._  
 __gaggle__ _n informal_ A disorderly group of people.  
@@ -380,7 +380,7 @@ __jetty__
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __jibes__ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jingoism__  
-__jock__ _n informal US_ An athlete.  
+__jock__ :two: _n informal US_ An athlete.  
 __jolt__  
 __jug__ _We have pulled the cork out of the jug._  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
@@ -475,7 +475,7 @@ __ooze__ (oozing) _Oozing with talent._
 __op-ed__ :two: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ A very unpleasant and prolonged experience.  
-__outcry__  
+__outcry__ :two: :shit:  
 __outlandish__ :two: _adj_ Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._  
 __outpacing__  
 __outspoken__ Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
@@ -584,7 +584,7 @@ __scourge__ :two: /skəːdʒ/ A person or thing that causes great trouble or suf
 __scrap__ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrounge up__ _To scrounge up the funds._  
 __scuffled__ _The police scuffled with a group of demonstrators._  
-__scuttle__ (scuttling) _v_ :two: __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
+__scuttle__ (scuttling) _v_ :three: __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __sear__ _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) → secar, marchitar (Med) → cauterizar; (pain etc) → punzar; (= scorch) → chamuscar, quemar_  
 __searing → searing work__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
@@ -706,7 +706,7 @@ __temp__ _n_ Temperature. _Subzero temps._ _Temps dropped into the 30s._
 __tepid__  
 __thaw__ _It kept the door open for a possible thaw in relations between the Koreas._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
-__thwart__ (thwarted) :three: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
+__thwart__ (thwarted) :four: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __ticker__  
 __tiki__ _Tiki sensibility._  
@@ -834,13 +834,10 @@ __pink slime__
 __ballasr__  
 __racy__ _A racy line from a popular song._  
 __tabby__ _The orange and white tabby cat._  
-barrage++  
-decried++  
 __defector__ _Army defectors._  
 __broker__ (brokered) _v_ _The secretary-general brokered a truce that did not hold._  
 __planks__  _Anti-austerity planks._  
 __humdrum__  
-jocks++  
 __plop__ _v_  
 __elbow grease__  
 __rile__ (riled) _v_  
@@ -850,11 +847,8 @@ __sojourn__
 __stance__  
 __upswing__  
 __omen__  
-thwarted++  
-furloughed++  
 __respondent__  
 __shrill__  
-outcry++  
 __doldrums__  
 __shoal__  
 __grudgingly__  
@@ -895,8 +889,6 @@ __permit__ _Camping permit fee._
 __depletwd__ _It also helps restore depleted neurotransmitter levels._  
 __flying colors__  
 __yardstick__  
-curtail++  
-scuttle++  
 __fester__  
 __gerrymandering__  
 __ringleader__  
