@@ -1,3 +1,37 @@
+__flag__ _v_  
+__grade__ _v_  
+__sag__ _v_ _Coaches sag under heavy expectations._  
+__onus__  
+__maim__ _v_  
+buttress++  
+__whistle-blower__  
+__buckeyes__  
+__warrant__  
+hefty++  
+__discourse__  
+__weather__ (weathering) _v_  
+strut++  
+__panache__  
+__pizazz__  
+trifecta++  
+__keel__ _v_  
+__indelible__ :open_mouth:  
+__freewheeling__  
+__ruckus__  
+__swashbuckling__  
+__downright__  
+giridon++  
+__iffy__  
+__muddle__ _v_  
+__clinch__ _v_  
+__sitting pretty__  
+__journeyman__  
+__monstrosity__ :open_mouth:  
+__slighted__  
+__seahawk__  
+__growing pains__  
+
+
 __acreage__  
 __tough luck__  
 __spike__  
