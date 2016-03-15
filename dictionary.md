@@ -1,3 +1,16 @@
+__acrophobia__  
+door-buster++  
+__tit for tat__  
+__Spanish moss__  
+__annuity__  
+__regal__  
+__buffeted__  
+__juggernaut__  
+__thaw__ _v_  
+__Turkey day__  
+__getaway day__  
+__buckle up__  
+__trickle__ _A trickle of electricity._  
 __flag__ _v_  
 __grade__ _v_  
 __sag__ _v_ _Coaches sag under heavy expectations._  
