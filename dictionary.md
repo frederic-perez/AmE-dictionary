@@ -22,13 +22,13 @@ __actuaries__ _The actuaries for the Center for Medicare credited the law for so
 __acumen__ :two: :octocat: acumen/acute/agudo _n_ (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza   
 __adage__  
 __adjunct__ _Adjunct professors._  
-__afar__ :two: :shit: _I've been watching his magnificent season from afar._  
+__afar__ :two: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affluent__  
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __allayed__ _v_  
 __aloof__ /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
-__amped-up__ :two: :shit:  
+__amped-up__ :two: _Informal_ Filled with intense energy and excitement.  
 __angst__ A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __antics__ :two: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __aplomb__ _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
@@ -73,7 +73,7 @@ __beholder__ _Everything's in the eye of the beholder._
 __belate__ _v_  
 __beleaguered__  
 __beleaguered__ _The beleaguered parks system._  
-__belie__ :two: :shit:  
+__belie__ :two: __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
 __belittle__ :two: :shit: _He belittles het._  
 __belting__  
 __bequest__ _A dark bequest of Nazism._  
