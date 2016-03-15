@@ -1,3 +1,33 @@
+__acreage__  
+__tough luck__  
+__spike__  
+__portent__  
+__run-ins__  
+__parishioner__  
+__elated__  
+__shanties__  
+__leveled__  
+__catechism__ :open_mouth:  
+__stovepipe hat__  
+__score__ years?  
+__boorish__  
+__scumbags__  
+__live wire__  
+__foundry__  
+__beef up__  
+bestow++  
+__provost__  
+embezzling++  
+__vernacular__  
+__wilting__  
+__wreath-lying__ :open_mouth:  
+__toll__ _Church bells tolling._  
+__remembrance__ _JFK Remembrance Day._  
+__handouts__  
+__berated__ _v_  
+__leer__ _v_  
+sulk++  
+
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
