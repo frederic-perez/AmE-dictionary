@@ -1,3 +1,43 @@
+__vindication__ :two:  
+__commissioned__ :open_mouth:  
+__bankroll__ _v_  
+__manhole cover__  
+__mart__ A place of trade, eg. an auction room or market.  
+__earthquake drill__  
+__sharpshooters__  
+__fluster__ _v_  
+__cajole__ _v_  
+__maiden__ _Maiden flight._  
+__eviction__  
+barrage++  
+__lull__  
+__strewn__  
+__squelch__  
+__entitlement__  
+__gullible__  
+__quintessential__  
+lurk++  
+__spew__ _v_  
+__outburst__  
+__worrisome__  
+
+__boilers__  
+__upended__  :two:  
+__hoopla__  
+__proselytize__ :open_mouth:  
+__ __up and running__  
+__resolved__ _The issue was resolved._  
+__free lunch__  
+__dallying__  
+__wad___Wads of cash._  
+beholden++  
+__institute__ _v_  
+__sweltering__  
+__sitting__ _A sitting U.S. president._ In office or actual possession.  
+__recoup__ _v_  
+__run-of-the-mill__  
+daunting++  
+
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
