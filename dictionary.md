@@ -20,8 +20,18 @@ lurk++
 __spew__ _v_  
 __outburst__  
 __worrisome__  
-
-__boilers__  
+__field__ _v_  
+__romp__  
+__jagged__  
+__wield__ _v_  
+__heist capers__  
+__catnip__  
+__clunkers__  
+__gush__  
+__heretofore__  
+__fave__   
+__salvo__  __lash out__  
+__boilers__    
 __upended__  :two:  
 __hoopla__  
 __proselytize__ :open_mouth:  
