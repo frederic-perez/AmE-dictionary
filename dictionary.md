@@ -1,3 +1,25 @@
+__sputter__  
+__bumbling__  
+__sequined__  
+__dikes__ :open_mouth:  
+__crud__  
+__tomboy__  
+ordeal++  
+amped-up++  
+__lore__  
+__ukuleles__  
+__torpor__  
+choppy++  
+__reeks__  
+__housing__  
+darn++  
+__icing on the cake__  
+__roil__ _v_  
+__mecca__  
+__lip service__  
+__double down__  
+__tarnish__  
+
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
