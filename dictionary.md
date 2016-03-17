@@ -84,7 +84,7 @@ __belie__ :two: __1__ (of an appearance) fail to give a true impression of (some
 __belittle__ :two: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __belting__  
 __bequest__ _A dark bequest of Nazism._  
-__berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even takeee care of their own children._  
+__berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._  
 __bereavement__ _n_ State of sorrow over the death or departure of a loved one.  
 __berserk__ _adj_ __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __besmirch__ _v_ To stain; sully: _a reputation that was besmirched by slander._   
@@ -286,14 +286,14 @@ __egregious__ _Egregious threats._
 __elated__  
 __elbow grease__  
 __ember__ _n_ A small piece of burning or glowing coal or wood in a dying fire.  
-__embezzling__ :three: :shit:  
+__embezzle__ (embezzling) :three: /ɪmˈbɛz(ə)l,ɛm-/ _v_ Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ :es: malversación  
 __emcee__  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __empty-net/power-play/short-handed goal__  
 __encampment__  
 __encroaching__  
 __end run__  
-__endearing__ :two: :shit:  
+__endearing__ :two: _adj_ Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __enlivened__  
 __ensconced__  
 __ensnare__ :two: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
@@ -302,7 +302,7 @@ __entitlement__
 __entrenched__  
 __envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
 __epidemic__ _n_ Notice: _n_!  
-__epitome__ :two: :shit:  
+__epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
 __epitomized__  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __escrow__  
@@ -329,7 +329,7 @@ __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ _:es: potra_  
 __finger-waggers__  
 __flag__ _v_  
-__flair__ :two: :shit: _He hopes to bring back that flair._  
+__flair__ :two: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flitty__  
@@ -340,7 +340,7 @@ __flout__ (flouted, flouting) :three: /flaʊt/ _v_ Openly disregard (a rule, law
 __flubbed__  
 __fluke__ :four: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flurry__ :three: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_  
-__fluster__ :two: :shit: _v_  
+__fluster__ :two: _v_ Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __flying colors__  
 __fodder__ :three: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
@@ -350,7 +350,7 @@ __follow suit__
 __foray__ :four: /ˈfɒreɪ/ _n_ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
 __forestalled__  
 __forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
-__forgo__ :two: :shit: _Iran could simply forgo all indigenous nuclear power development._  
+__forgo__ :two: go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forlorn__ _A forlorn dream._  
 __foundry__  
 __four-poster beds__  
@@ -362,7 +362,7 @@ __frigid__ (frigid winds) Extremely cold.
 __fritter__ _Parents worried that their kids off at college will fritter away time and money on Internet gambling._  
 __fuddy-duddy__  
 __furlong__ :two: _n_ An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
-__furlough__ (furloughed) :two: :shit:  
+__furlough__ (furloughed) :two: _n_ Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __gab__  
 __gaggle__ _A gaggle of Phillies fans taunted him._  
 __gaggle__ _n informal_ A disorderly group of people.  
@@ -375,7 +375,7 @@ __garland__ _Garland motifs on carved oak paneling._
 __gaudy__ :two: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: chillón, hortera  
 __gauze__  
 __gelled__ _His hair was neatly gelled._  
-__gerrymandering__ :two: :shit:  
+__gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __getaway day__  
 __giridon__  
 __gloating__  
@@ -438,7 +438,7 @@ __hold back__
 __homie__ _Homies for life._  
 __honcho__  
 __hooky__ _A kid playing hooky._  
-__hoopla__ :two: :shit: _The hype and hoopla that goes with her first All-Star game._  
+__hoopla__ :two: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __horse race__  
 __house → take it to the house__  
 __hubby__  
@@ -487,7 +487,7 @@ __kilter__ _off-kilter_
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kiosk → pharmacy kiosk__  
 __knockusing__  
-__lackluster__ :two: :shit: _Technical glitches have contributed to the lackluster response._  
+__lackluster__ :two: _adj_ Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._  
 __laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
 __lagged__  
 __lampooned__  
@@ -730,7 +730,8 @@ __schism__
 __schlocky__  
 __schuss__  
 __scoff__ :two: _v_ Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
-__score__ :two: :shit: _Five score years ago._ 20 years?  
+__score__ :two: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
+__scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scourge__ :two: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scrap__ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrounge up__ _To scrounge up the funds._  
@@ -901,7 +902,7 @@ __toast → French toast__
 __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toil__  
 __toll__ _Church bells tolling._  
-__tony__ :two: :shit:  
+__tony__ :two: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._  
 __toothless__ _Some consider most of those laws toothless._  
 __top-of-mind__  
 __topsy-turvy__  
@@ -968,7 +969,7 @@ __waterfowl__
 __wavering__ _A wavering statement._  
 __wean__ _v_  
 __weather__ (weathering) _v_  
-__welfare__ :two: :shit:  
+__welfare__ :two: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __welterweight__  
 __wend__ (wending) :three: /wɛnd/ _v_ To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
 __whammy__ _A double whammy of injuries._  
