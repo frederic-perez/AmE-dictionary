@@ -6,7 +6,7 @@ __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.
 __FT__ _Sports_ Full-time.  
 __GED__ The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __Old Dominion__ A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
-__Ponzi scheme__  
+__Ponzi scheme__ _n_ A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __RGA__ _RGA chairman._  
 __Spainish__  
 __Spanish moss__  
@@ -75,16 +75,16 @@ __bedrock__
 __beef up__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
 __behest__  
-__beholden__ :two: :shit: _Syrians are not beholden to sectarianism._  
+__beholden__ :two: _adj_ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ _Everything's in the eye of the beholder._  
 __belate__ _v_  
 __beleaguered__  
 __beleaguered__ _The beleaguered parks system._  
 __belie__ :two: __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
-__belittle__ :two: :shit: _He belittles het._  
+__belittle__ :two: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __belting__  
 __bequest__ _A dark bequest of Nazism._  
-__berated__ :two: :shit: _v_ _She started berating black and Latino nannies, who, she said, can't even takeee care of their own children._  
+__berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even takeee care of their own children._  
 __bereavement__ _n_ State of sorrow over the death or departure of a loved one.  
 __berserk__ _adj_ __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __besmirch__ _v_ To stain; sully: _a reputation that was besmirched by slander._   
@@ -122,7 +122,7 @@ __bravado__ _But I went into it with a certain bravado._
 __break-the-china__  
 __breakout__ _He's a total breakout character._  
 __brethren__ _Political brethren._  
-__bristle__ (bristled) :two: :shit: _He bristled with news reporters in South Africa._  
+__bristle__ (bristled) :two: _v_ Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __britches__ _We think that you're a little too big for your britches._  
 __broker__ (brokered) _v_ _The secretary-general brokered a truce that did not hold._  
 __broker__ _v_ _Failure to broker a deal means a recession is imminent._  
@@ -206,7 +206,7 @@ __conspicuous__ (conspicuously) _adj_ __1__ Obvious or easy to notice. _A conspi
 __constituencies__  
 __constituent__  
 __contentious__  
-__contrived__ :two: :shit:  
+__contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __cord blood__  
 __coy__ :three: _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._  
@@ -221,7 +221,7 @@ __curator__ _n_ One who manages or oversees, as the administrative director of a
 __curfew__ :three: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __curry__ _v_  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
-__curtail__ :two: :shit: _The government is conspiring to curtail liberties._  
+__curtail__ :two: Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __cusp__ _The cusp of the largest immigration wave._  
 __customer → tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
