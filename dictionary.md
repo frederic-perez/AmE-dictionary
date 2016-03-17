@@ -19,6 +19,27 @@ __mecca__
 __lip service__  
 __double down__  
 __tarnish__  
+__for the ages__ _A comeback for the ages._  
+epitomize++  
+__sandlot__   
+tabbed++  
+__snaps__ _He took his first snaps with the starters._  
+__gantlet__  
+__press the pocket__  
+__handoff__  
+__vaunted__  
+__clutch player__  
+__bling__  
+__tchotchkes__  
+bestow++  
+__ denizens__  
+__ascot__  
+__claret__  
+__zingers__  
+__signet ring__  
+__jilt__ _Jilted at the altar._  
+__hapless__  
+qualms++  
 
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __CO__ Carbon monoxide, "the silent killer."  
