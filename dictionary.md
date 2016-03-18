@@ -1,3 +1,68 @@
+__levied__  
+__tearing__ _Her idea of taking a day off is tearing around a golf course._  
+__prop up__ _But with her leg propped up._  
+__ardent___ He was one of her most ardemt suitors._  
+__rumblings__ _rumblings about the trade._  
+__flounder__ _v_  
+__titlist__ _He is the former bantamweight titlist._  
+zany++  
+scuffle++  
+__ringside__  
+__conference call__  
+__bone spurs__  
+__raves__ _n_  
+__news media outlets__  
+__farce__  
+__upheld__  
+__contention__  
+__names and likeness__  
+__plodding__  
+__coma__ _ Medically induced coma._  
+__AWOL__  
+__felon__  
+__growing pains__  
+__pan out__  
+__rug  sweep it under the rug_  
+__disparaging__  
+venom++  
+__studs__  
+__duds__  
+__kill clock__ _v_  
+ensnare++  
+__breakout star__  
+__cede__  
+__timetable__  
+__flopper__  
+__specs__  
+__misnomer__  
+__raked over the coals__  
+contention++  
+__seminoles__  
+__peerless__ 
+__over-under__  
+__ACL__  
+__waive__ _v_  
+__trudge__  
+__shore up__  
+__open-wheel__  
+__stock car__  
+__dazzling__  
+__bleak__  
+__simmer__  
+__lag__ _v_  
+__grittier__  
+__brooding__  
+__retread__  
+__blustery__  
+__making waves__  
+__bells and whistles__  
+__distinct__  
+__thrall__  
+__whittling down__  
+__vamping__  
+__wrinkle__  
+__split__ _n_  
+
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
