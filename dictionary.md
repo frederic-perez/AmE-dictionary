@@ -1,11 +1,12 @@
-__pun__ :es: juego de palabras
-__appalled__:open_mouth__  
+__pun__ :es: juego de palabras  
+__appalled__:open_mouth:  
 __slit > hi-slit dress__  
 __slob__  
 __buttinski__  
-__potluck__  Comes from from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste.  
+__potluck__  Comes from from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary)  
 agacharse  
-sutil  _understandably__  
+sutil  
+__understandably__  
 __abreast__  
 
 __levied__  
