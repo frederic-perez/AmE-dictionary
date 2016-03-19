@@ -1,3 +1,13 @@
+__pun__ :es: juego de palabras
+__appalled__:open_mouth__  
+__slit > hi-slit dress__  
+__slob__  
+__buttinski__  
+__potluck__  Comes from from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste.  
+agacharse  
+sutil  _understandably__  
+__abreast__  
+
 __levied__  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
 __prop up__ _But with her leg propped up._  
