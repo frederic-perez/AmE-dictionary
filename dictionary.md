@@ -17,12 +17,12 @@ __upheld__
 __contention__  
 __names and likeness__  
 __plodding__  
-__coma__ _ Medically induced coma._  
+__coma__ _Medically induced coma._  
 __AWOL__  
 __felon__  
 __growing pains__  
 __pan out__  
-__rug  sweep it under the rug_  
+__rug arrow  sweep it under the rug__  
 __disparaging__  
 venom++  
 __studs__  
@@ -470,7 +470,7 @@ __gridiron__
 __grievance__  
 __grinding__ _Bumping and grinding._  
 __gripe__ _Not a single gripe._  
-__grit__ (gritty) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor
+__grit__ (gritty) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __groundbreaker__  
 __growing pains__  
