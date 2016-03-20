@@ -1,3 +1,69 @@
+__skids__ _Shutdown didn't put skids on sales._  
+__Buoyed___v_  
+__impasse__ :open_mouth:  
+balky++  
+fallout++  
+__hamper__ (hampered) _v_  
+__actuaries__  
+__front and center__  
+__stunts__ _Singers emphasoze stunts over music._  
+__convene__ _v_  
+__hold off__  
+ratched up++  
+__succumb__ :open_mouth:  
+__stark__  
+__unhindered__  
+__vanquished__  
+__hazardous__  maimed++  
+riches++  
+bugler++  
+__taps__ _A bugler played taps._  
+__recantation__  
+__issuance__  
+__visitation__  
+ordeal++  
+__trestle__ _Railroad trestle._  
+acorn++  
+__superintendent__  
+__slugs__  
+__girders__  
+GED exam++  
+__ scooter__ _Motorized scooter._  
+lackluster++  
+
+motor coaches++  
+__rollovers__  
+heartland++  
+__ end run__  
+__concoct__ :open_mouth:  
+_taper__  
+__workforce__  
+__bolsyer__ _v_  
+__make-or-break__  
+__stunner__  
+__midsize__  
+__snazzy__  
+__behemoths__  
+__polish__  
+__vastly__  
+__finicky__  
+__rumble__  
+__stoplights__:open_mouth:  
+__gearbox__  
+__gills> packet to the gills__  
+__French door__ _French door fridge._  
+__posh__  
+dysfunction++  
+__fritter__ _Fritter away time._  
+__smattering__  
+__instating__  
+__patently__ _Patently absurd._  
+__wort__  
+__smug__ _Smug belief._  
+stifled++  
+__demean__  
+__boorish__ _Boorish behavior._  
+
 __pun__ :es: juego de palabras  
 __appalled__:open_mouth:  
 __slit > hi-slit dress__  
