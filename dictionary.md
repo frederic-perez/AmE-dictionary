@@ -1,3 +1,32 @@
+__plump__ _Plump and juicy hotdogs._  
+__understandably__  
+__abreast__  
+__televised__  
+__bandwagon__  
+__making waves__  
+__attire__  
+__banished__  
+__outcry__  :two: 
+__chops__ _Acting chops._  
+__tribute__ _Her fellow tribute and her hunting buddy._  
+__cheekboned__  _High-cheekboned newbies.;-_  
+__hurling__ _Hurling an ax._  
+__provenance__  
+__unwilling__ _Unwilling medical director._  
+__burgundy__ _Burgundy outfit._  
+__arch___Her character is arch and fake._  
+__torpor__  
+__sterling__ _A sterling example._  
+__winnowed__ _Nominations are winnowed down to 10 finalists._  
+__amble__ _Giraffes amble along the savannah._  
+__lumber__ _Two elephants lumber out of the bush to drink._  
+__skittish__ _A pack of skittish hyenas._  
+__poaching__ _Poaching has become socially unacceptable._  
+__conservancies__  
+__respite__  
+searing++  
+cheesy++  
+
 __skids__ _Shutdown didn't put skids on sales._  
 __Buoyed___v_  
 __impasse__ :open_mouth:  
