@@ -1,3 +1,57 @@
+__crumbled__  
+__consensual__  
+__alleged__  
+__assailant__  
+__scruffy__  
+__juncture__  
+__dicey__  
+__bracing__  
+__uppercut__  
+__downhill__ Simple and easy?  
+__cog__  
+__haze__ _v_  
+__sooner > sooner rather than later__  
+__scoured__ Search thoroughly.  
+__ blown call__  
+__felon__  
+__slay__ (slain) JFK was slain.__conduit__  
+__a 35-degree day__  
+__head and shoulders__  
+__shooing__  
+__marquee game__  
+__front and center__  
+__bickering__  
+__stirring__  
+__butting head__  
+__disarray__ _A matchup of teams that are in disarray._  
+__outings__  
+__clear air__  
+__heat > to catch a lot of heat__  
+__bearing__ _It does not have a bearing on whether or not he will be our coach next year._  
+__oft-shouting-sermon__  
+dais++  
+proselytize++
+__providence__ _It was providence._  
+__doormat__  
+__futility__  
+tarp++  
+swath++  
+__jettisoning__  
+__Achilles's heel__  
+__nineloss__ ?  
+__mettle__  
+__sizzling__  
+__marquee grouping__  
+__Podunk town__  
+__paraphernalia__ :open_mouth:  
+__hellbent__  
+__apple cart__  
+fodder++  
+__true to form__  
+__pushpins__  
+__congenial__  
+__contiguous > the contiguous U.S.__  
+
 __plump__ _Plump and juicy hotdogs._  
 __understandably__  
 __abreast__  
