@@ -18,6 +18,43 @@ __drivetrains__
 __standstill__ _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __grunt__ 
 __staid__  
+__lunge__  
+__drive__ _The drive by Senate Democrats to change the rules._  
+__volley__  _A volley of invective._  
+__invective__  
+__momentous__  
+__embark__ _They embark on a motorcade._  
+__ELIA5__ Explain Like I Am 5.  
+__unanimous__  
+fallout++2  
+stance++  
+__gum up__  
+__legerdemain__  
+__brickbats__  
+__graybeards__ _Senate graybeards._  
+__reprieve__  
+__springring clasp__  
+__pallbearer__  
+__smolders__  
+recantation++  
+__parched__ _The dryness will encompass parched California._  
+__ample__  
+__stave off__ _v_  
+__bucking__ _v_  
+__policyholder__  
+__fill out__  
+__deductibles__  
+__sticker shock__  
+__underwriting__  
+swerve++  
+__fledgling__  
+__rolling caisson__  
+__quell__ _v_  
+staffers++  
+__4-H__  
+__pin-drop silence__  
+__Brownie salute__  
+
 
 __ACL__  
 __AWOL__  
