@@ -1,3 +1,24 @@
+__snag__ _v_ _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
+__catnip__  
+__mindful__  
+__dole out__  
+balk++  
+__variety store__  
+__plopped__ _v_ _They plopped their entire retirement nest egg into IPOs._  
+__ballyhooded__  
+__toodling__  
+__oddball__  
+__swerves_ _v_  
+__herky__ (herky-jerky driving)  
+__sill__  
+__yawning__ _Yawning aperture._  
+__appetizer__  
+__lease__  
+__drivetrains__  
+__standstill__ _The car will jump from standstill to 60 mph in 4.4 seconds._  
+__grunt__ 
+__staid__  
+
 __ACL__  
 __AWOL__  
 __Achilles's heel__  
