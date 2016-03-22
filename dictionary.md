@@ -1,4 +1,43 @@
-__4-H__ Ff or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__safeguard__  
+outcry++  
+__racket > extortion rackets__  
+__fudging__ _Fudging statistics._  
+__amassed__  
+ordeal++  
+__annuities__  
+__mongering__  
+__snuff out__ _v_  
+__gauzy__  
+__womanizer__  
+__ludicrous__  
+__cloture__  
+__VA__ _VA medical centers._  
+__HMOs__  
+hamper++  
+__warehoused__ (warehoused) _v_  
+clout  
+__quarters__ _To return to their quarters._  
+__barbecue__ _Barbecue sauce._  
+__bolter_ _v_  
+__impasse__ Deadlock or stalemate.  
+__buoyed__ __1__ Keep afloat. __2__ Sustain.  
+concoct++  
+__nimbler__ __snazzy__  
+behemoth++  
+polish++  
+__finicky__  
+__rumple__  
+__grille__  
+posh++  
+__gills__ _Packed to the gills._  
+__quiver__  
+__paywalls__  
+__maelstrom__  
+__wares__  
+__spigot__  
+__beleaguered__  
+__stick > turnaround stick._  
+__4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
