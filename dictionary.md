@@ -1,13 +1,9 @@
-__sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
-__fanny pack__ A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
-__KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxing match; knock out.  
-__4-H__  
-__ACL__  
-__AWOL__  
-__Achilles's heel__  
+__4-H__ Ff or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__ACL__ Anterior cruciate ligament.  
+__AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
+__Achilles heel__ A weakness or vulnerable point.  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
-__Brownie salute__  
-__Buoyed__ _v_  
+__Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
 __Chicken Littles__  
@@ -16,6 +12,7 @@ __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.
 __FT__ _Sports_ Full-time.  
 __French door__ _French door fridge._  
 __GED__ (GED exam) :two: The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
+__KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxing match; knock out.  
 __Old Dominion__ A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __Podunk town__  
 __Ponzi scheme__ _n_ A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
@@ -190,6 +187,7 @@ __bumping__ _Bumping and grinding._
 __bungle__ _v_  
 __bungler__ _Upper-crust bunglers._  
 __bunt__ _Hamels batted in the third inning and tried to bunt._  
+__buoy__ (buoyed) _v_ Keep (someone or something) afloat.  
 __buoyant__ _adj_  
 __buoyed__  
 __burgundy__ _Burgundy outfit._  
@@ -405,6 +403,7 @@ __expat__ _Baroque debut for Moscow expat choir._
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
 __fallout__ :six: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
+__fanny pack__ A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __farce__  
 __fast and furious__  _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fave__   
@@ -787,8 +786,8 @@ __pizazz__ :two: An attractive combination of vitality and glamour. :es: dinamis
 __planks__  _Anti-austerity planks._  
 __platitudes__  
 __plodding__  
-__plop__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._
 __plop__ (plopped) _v_ Fall or cause to fall with a plop. _The stone plopped into the pond._  
+__plop__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._
 __pluck__ _A portrait in pluck._  
 __plump__ _Plump and juicy hotdogs._  
 __poaching__ _Poaching has become socially unacceptable._  
@@ -995,6 +994,7 @@ __slighted__
 __slit > hi-slit dress__  
 __slob__  
 __slog__ :two: :shit: _An uphill slog._ _Slow slog toward the ideal._  
+__sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy__ _We were a little sloppy in the second half of the game._  
 __sloshing__ _There is a lot of cash slowhing around the system._  
 __sloth__  
