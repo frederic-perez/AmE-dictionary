@@ -161,7 +161,7 @@ __bedevil__
 __bedrock__  
 __beef up__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
-__behemoth__ :two: shit:  
+__behemoth__ :two: :shit:  
 __behest__  
 __beholden__ :two: _adj_ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ _Everything's in the eye of the beholder._  
@@ -257,7 +257,7 @@ __buttinski__
 __buttress__ (buttressed) :three: _v_ Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buybacks__  
 __buyouts__ _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
-__by and large__ :es: el líneas generales, en general  
+__by and large__ :es: en líneas generales, en general  
 __byzantine__ :open_mouth: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __caddish__  
 __cajole__ _v_  
