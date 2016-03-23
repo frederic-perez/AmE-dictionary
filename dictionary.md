@@ -1,3 +1,57 @@
+__18-wheeler__  
+grittier++  
+nimbly++  
+lackluster++  
+beau++  
+__commissioned__ :open_mouth:  
+__simmers__  
+__lag__ _v_  
+__brooding__  
+__pageantry__  
+__blustery__  
+__making waves__  
+__tinge__  
+__durable__ _The end of durable Red John story line is a new beginning._  
+__thrall__  
+__whittling__  
+__vamping__  
+__befitting__  
+__drum up__  
+__outpatient__  
+__rhyming__ :open_mouth:  
+__scrumptious__  
+__bondage__  
+__copper-bottom hit__  
+__voucher__  
+dole out++  
+__huddle__  
+__suitors__  
+__nugget__  
+__camo__  
+zany++  
+__spur > bone spurs__  
+__raves__  
+__plodding__  
+felon++  
+growing pains++  
+__F-bomb__  
+__rug > sweep it under the rug__  
+snared++  
+__top-dog__  
+__feast__  
+__subside__  
+__halfback__  
+__flopper__  
+__specs__ Spectacles, glasses.  
+__misnomer__  
+__erupted__  
+__baggie__  
+barrage++  
+marquee++  
+__open-wheel__  
+__one-offs__  
+fallout++ 
+
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
