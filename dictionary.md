@@ -1,15 +1,11 @@
-__18-wheeler__  
-grittier++  
-nimbly++  
-lackluster++  
-beau++  
+__18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __commissioned__ :open_mouth:  
 __simmers__  
 __lag__ _v_  
 __brooding__  
-__pageantry__  
-__blustery__  
-__making waves__  
+__pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
+__blustery__ __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
+__make waves__ (making waves) __Idiom__ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __tinge__  
 __durable__ _The end of durable Red John story line is a new beginning._  
 __thrall__  
@@ -23,20 +19,15 @@ __scrumptious__
 __bondage__  
 __copper-bottom hit__  
 __voucher__  
-dole out++  
 __huddle__  
 __suitors__  
 __nugget__  
 __camo__  
-zany++  
 __spur > bone spurs__  
 __raves__  
 __plodding__  
-felon++  
-growing pains++  
 __F-bomb__  
 __rug > sweep it under the rug__  
-snared++  
 __top-dog__  
 __feast__  
 __subside__  
@@ -46,11 +37,8 @@ __specs__ Spectacles, glasses.
 __misnomer__  
 __erupted__  
 __baggie__  
-barrage++  
-marquee++  
 __open-wheel__  
 __one-offs__  
-fallout++ 
 
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACL__ Anterior cruciate ligament.  
@@ -141,21 +129,21 @@ __ballasr__
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __ballyhooded__  
 __ballyhooed__  
-__bandwagon__  
+__bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __banished__  
 __bankroll__ _v_  
 __bantamweight__ _Rousey is the women's bantamweight champ._  
 __barbecue__ _Barbecue sauce._  
 __barnburner__  
-__barrage__ :three: _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage__ :four: _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agwent._  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bear__ _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _It does not have a bearing on whether or not he will be our coach next year._  
-__beau__ :two: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
+__beau__ :three: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beckon__ (beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __bedevil__  
 __bedrock__  
@@ -394,7 +382,7 @@ __doffing__
 __dog__ _v_ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
 __doldrums__  
-__dole out__ :two: To give or deliver in small portions. _v_ _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._  
+__dole out__ :three: To give or deliver in small portions. _v_ _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._  
 __doom and gloom__  
 __doorbuster__ (door-buster) :three: A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doormat__  
@@ -442,7 +430,7 @@ __end run__
 __endearing__ :two: _adj_ Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __enlivened__  
 __ensconced__  
-__ensnare__ :three: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
+__ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __entitlement__  
 __entrenched__  
@@ -459,7 +447,7 @@ __excise__ _The new law imposes an excise tax of 2.3% on the sale of medical dev
 __excoriate__ _Gay rights advocates excoriated the state's actions._  
 __expat__ _Baroque debut for Moscow expat choir._  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
-__fallout__ :six: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
+__fallout__ :seven: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fanny pack__ A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __farce__  
@@ -467,9 +455,7 @@ __fast and furious__  _Cliché_ Very rapidly and with unrestrained energy. _Her 
 __fave__   
 __faze__ _v_  
 __fearl__ _A fearl youngster._  
-__felon__  
-__felon__  
-__felon__ _Hairston has been tied to a felon through rental cars._  
+__felon__ :four: :shit: _Hairston has been tied to a felon through rental cars._  
 __fester__  
 __festooned__ _His podium was festooned with a sign._  
 __fiat__ _Military fiat._  
@@ -560,12 +546,11 @@ __grievance__
 __grille__  
 __grinding__ _Bumping and grinding._  
 __gripe__ _Not a single gripe._  
-__grit__ (gritty) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
+__grit__ (gritty, grittier) :two: _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grittier__  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __groundbreaker__  
-__growing pains__  
-__growing pains__  
+__growing pains__ :three: :shit:  
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grudgingly__  
 __grunt__ 
@@ -679,7 +664,7 @@ __kilter__ _off-kilter_
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kiosk → pharmacy kiosk__  
 __knockusing__  
-__lackluster__ :three: _adj_ Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._  
+__lackluster__ :four: _adj_ Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._  
 __laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
 __lag__ _v_  
 __lagged__  
@@ -734,9 +719,7 @@ __making waves__
 __manhole cover__  
 __mantle__ :two: An important role or responsibility that passes from one person to another. _Syn_ role  
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
-__marquee game__  
-__marquee grouping__  
-__marquee__  
+__marquee__ (marquee game, marquee grouping) :four: :shit:  
 __marred__ _v_  
 __marshland__  
 __mart__ A place of trade, eg. an auction room or market.  
@@ -781,7 +764,7 @@ __nana__ _Her nana._
 __nary__ _Nary a chance of rain throughout the tournament._  
 __news media outlets__  
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
-__nimbler__  
+__nimbler__ (nimbly) :two: :shit:  
 __nineloss__ ?  
 __nipped__ _The Gaels were nipped at Washington._  
 __normalcy__ _It took me months to get back to normalcy._  
@@ -1352,6 +1335,6 @@ __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He
 __yardstick__  
 __yawning__ _Yawning aperture._  
 __yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
-__zany__  
+__zany__ :three: :shit:  
 __zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zingers__  
