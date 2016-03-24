@@ -1,3 +1,29 @@
+__fledgling__ :open_mouth:  
+__peer__ _Peering into their crystal balls._  
+__divine__ _v_  
+fast and furious++  
+__hidebound__  
+__stonewall__  
+__wellspring__  
+__underpinning__  
+__Jag__ Jaguar (car)  
+__blight__  
+__oversee__ _Oversee compliance._  
+__analyst__ :open_mouth:  
+__kismet__  
+__plush__ _To plush cabin amenities._  
+__jibe__  
+__strain__ _n_  
+__doodad__  
+__power strip__  __close > not even close__  
+__clearinghouse__  
+__hush__ _v_  
+__piecemeal__  
+__streamline__ _v_ _Streamlining regulations._  
+__pilfering__  
+__ruse__  
+__counterfeit__  
+__cloak__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges.  
 __commissioned__ :open_mouth:  
