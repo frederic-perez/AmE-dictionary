@@ -1,9 +1,23 @@
+++rumble
+++sweltering :es: sofocante  
+++foul play  
+__wallflower__  
+__gadfly__  
+__paeans__  
+__hewing__  
+++stalwarts  
+++endearing  
+++measles  
+__mitzvah__  
+__halcyon__ _Halcyon time of romance._  
+__eerie__  
+__dowry__  
 __illustrious__ :open_mouth:  
 __white-knuckle ride__  
 __screeching__  
-icing on the cake++  
+++icing on the cake  
 __clock__ _v_ _He was clocked at 95 mph in a 55-mph construction zone._  
-coy++  
+++coy  
 __haul > long haul__ _We are ready to go long haul._  
 __defected__  
 __chomping__  
@@ -21,7 +35,7 @@ __deflection__
 __vocal__ _Critics often are the most vocal._  
 __sellout__ (sold out)  
 __counsel__  
-__of late__ 
+__of late__ :es: últimamente 
 __sort put__  
 __out of the woods__  
 __time frame__  
@@ -29,7 +43,7 @@ __wherewithal__
 __fledgling__ :open_mouth:  
 __peer__ _Peering into their crystal balls._  
 __divine__ _v_  
-fast and furious++  
+++fast and furious  
 __hidebound__  
 __stonewall__  
 __wellspring__  
@@ -43,15 +57,16 @@ __plush__ _To plush cabin amenities._
 __jibe__  
 __strain__ _n_  
 __doodad__  
-__power strip__  __close > not even close__  
+__power strip__  
+__close > not even close__  
 __clearinghouse__  
-__hush__ _v_  
-__piecemeal__  
+__hush__ _v_ :es: hcer callar  
+__piecemeal__ :es: poco a poco  
 __streamline__ _v_ _Streamlining regulations._  
 __pilfering__  
 __ruse__  
-__counterfeit__  
-__cloak__  
+__counterfeit__ :es: falsificación  
+__cloak__ :es: capa, manto
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges.  
 __commissioned__ :open_mouth:  
