@@ -1,4 +1,5 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
+__SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges.  
 __commissioned__ :open_mouth:  
 __simmers__  
 __lag__ _v_  
@@ -149,12 +150,12 @@ __bedevil__
 __bedrock__  
 __beef up__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
-__behemoth__ :two: :shit:  
+__behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__  
 __beholden__ :two: _adj_ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ _Everything's in the eye of the beholder._  
 __belate__ _v_  
-__beleaguered__ :three: :shit: _The beleaguered parks system._  
+__beleaguered__ :three: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belie__ :two: __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
 __belittle__ :two: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bells and whistles__  
@@ -191,7 +192,8 @@ __bode__ _v_ _His conservative definition does not bode well for those who objec
 __bode__ _v_ _St-Pierre's return bodes well for nation._  
 __boilers__    
 __bologna__  
-__bolster__ :two: :shit: _v_  
+__bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
+__bolster__ :two: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bombast__ _Let's drop the bombast and look at the evidence._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
 __bone spurs__  
@@ -303,7 +305,7 @@ __comfy__
 __commendation__ _He earned two commendation medals._  
 __commissioned__ :open_mouth:  
 __conch__ _A conch farm._  
-__concoct__ :two: :shit: :open_mouth:  
+__concoct__ :two: :open_mouth: Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concussion__ _He recovers from the concussion he sustained on June 15._  
 __conducive__ _The vehicle doesn't seem conducive to passing._  
 __conduit__  
@@ -455,7 +457,8 @@ __fast and furious__  _Cliché_ Very rapidly and with unrestrained energy. _Her 
 __fave__   
 __faze__ _v_  
 __fearl__ _A fearl youngster._  
-__felon__ :four: :shit: _Hairston has been tied to a felon through rental cars._  
+__felon__ :four: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
+__felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __fester__  
 __festooned__ _His podium was festooned with a sign._  
 __fiat__ _Military fiat._  
@@ -521,7 +524,7 @@ __gantlet__
 __garish__ _They are charming and garish at the same time._  
 __garland__ _Garland motifs on carved oak paneling._  
 __gaudy__ :two: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: chillón, hortera  
-__gauze__ (gauzy) :two: :shit:  
+__gauze__ (gauzy) :two: :shit: :es: gasa  
 __gearbox__  
 __gelled__ _His hair was neatly gelled._  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
