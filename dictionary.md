@@ -1,3 +1,31 @@
+__illustrious__ :open_mouth:  
+__white-knuckle ride__  
+__screeching__  
+icing on the cake++  
+__clock__ _v_ _He was clocked at 95 mph in a 55-mph construction zone._  
+coy++  
+__haul > long haul__ _We are ready to go long haul._  
+__defected__  
+__chomping__  
+__go to the dogs__  
+__impede__ _v_  
+__behest__  
+__haze__ _v_ _Allegations of hazing and telling._  
+__tell > telling stretch__ _The telling stretch of the season._  
+__pick up__ _His turnover-prone play doesn't pick up._  
+__first and foremost__  
+__pinch > in a pinch__  
+++recoup  
+++strain  
+__deflection__  
+__vocal__ _Critics often are the most vocal._  
+__sellout__ (sold out)  
+__counsel__  
+__of late__ 
+__sort put__  
+__out of the woods__  
+__time frame__  
+__wherewithal__  
 __fledgling__ :open_mouth:  
 __peer__ _Peering into their crystal balls._  
 __divine__ _v_  
