@@ -1,13 +1,13 @@
-++rumble
+++rumble  
 ++sweltering :es: sofocante  
 ++foul play  
+++stalwarts  
+++endearing  
+++measles  
 __wallflower__  
 __gadfly__  
 __paeans__  
 __hewing__  
-++stalwarts  
-++endearing  
-++measles  
 __mitzvah__  
 __halcyon__ _Halcyon time of romance._  
 __eerie__  
@@ -75,7 +75,7 @@ __lag__ _v_
 __brooding__  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __blustery__ __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
-__make waves__ (making waves) __Idiom__ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
+__make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __tinge__  
 __durable__ _The end of durable Red John story line is a new beginning._  
 __thrall__  
@@ -139,18 +139,16 @@ __Turkey day__
 __VA__ _VA medical centers._  
 __Whodunit__  
 __Wholly Molly__  
-__a 35-degree day__  
+__35-degree day__  
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
-__abreast__  
-__abreast__  
+__abreast__ :two: :shit:  
 __accoitrements__  
 __accolade__ _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
-__acorn__  
+__acorn__ _n_ :es: bellota  
 __acreage__  
 __acrimony__ :two: _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
-__actuaries__  
-__actuaries__ _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
+__actuaries__ :two: :shit: _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acumen__ :two: :octocat: acumen/acute/agudo _n_ (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza   
 __adage__  
 __adjunct__ _Adjunct professors._  
@@ -161,7 +159,7 @@ __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, w
 __allayed__ _v_  
 __alleged__  
 __aloof__ /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
-__amassed__  
+__amass__ (amassed) :open_mouth: :es: amontonar, acumular  
 __amble__ _Giraffes amble along the savannah._  
 __amped-up__ :three: _Informal_ Filled with intense energy and excitement.  
 __ample__  
@@ -169,14 +167,15 @@ __angst__ A feeling of deep anxiety or dread, typically an unfocused one about t
 __annuity__ (annuities) :two: shit:  
 __antics__ :two: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __aplomb__ _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
-__appalled__ :open_mouth:  
+__appall__ (appalled) _v_ :open_mouth: :es: horrorizar, espantar  
+__apalling__ _adj_ :es: espantoso _(awful)_ pésimo  
 __appease__  
-__appetizer__  
+__appetizer__ :open_mouth: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __arch__ _Her character is arch and fake._  
 __archivist__  
 __ardent__ _He was one of her most ardemt suitors._  
-__asbestos__  
+__asbestos__  :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascot__  
 __assail__ :two: /əˈseɪl/ _v_ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
@@ -201,7 +200,7 @@ __ballyhooded__
 __ballyhooed__  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
-__banished__  
+__banish__ (banished) :es: desterrar    
 __bankroll__ _v_  
 __bantamweight__ _Rousey is the women's bantamweight champ._  
 __barbecue__ _Barbecue sauce._  
