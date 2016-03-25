@@ -1,9 +1,45 @@
-++rumble  
-++sweltering :es: sofocante  
-++foul play  
-++stalwarts  
-++endearing  
-++measles  
++rumble  
++sweltering :es: sofocante  
++foul play  
++stalwarts  
++endearing  
++measles  
++accountant  
++vocal _Being vocal._  
++felon  
++embezzlement  
++roiling _They plunged into the roiling water._  
++muddled  
++heeded  
++stymied  
++cursory  
+__nest egg__  
+__endow__ _v_  
+__seeping__  
+__squabbles__
+__bustle__ _The bustle of daily life._  
+__matchmaking service__  
+__hearkened__  
+__plot__ _In the same plot of sand._  
+__raze__ _v_ _In March they razed the house._  
+__list > listing boat__  
+__squalid__:open_mouth: _Squalid home._  
+__racinos__  
+__buckle__ _v_ _Pamela fell as the floor buckled._  
+__nose > running noses__  
+__distemper__ _An outbreak of canine distemper has killed a 12-year-old tiger._  
+__proctor__ University officer (for student discipline)  
+__usury__
+__scathing__ Bitterly severe.  
+__mulling__ _Cheney was mulling a Senate bid._  
+__ferret out__ _v_  
+__comity__  
+__moot__ _To render the case moot._  
+__rungs__ _He deserves to be in the lowest rungs of hell._  
+__migrants__  
+__wanton__ _To reducethe wanton drug violence._  
+__sow__  
+__druthers__  
 __wallflower__  
 __gadfly__  
 __paeans__  
