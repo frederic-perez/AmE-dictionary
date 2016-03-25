@@ -13,6 +13,28 @@
 +heeded  
 +stymied  
 +cursory  
++flairs  
++gritty  
+__vitriolic__  
+__lumber__ _v_  
+__bequeathed__  
+__blue-blood__  
+__heartthrob__  
+__comeuppance__  
+__yokels__  
+__sheik__  
+__hazmat suit__  
+__pique__  
+__swank__  
+__penchant__  
+__kooky__  
+__milquetoast__  
+__bumper__  
+__rollouts__  
+__freebies__  
+__brazen__ _Brazen lyrics._  
+__leaden__  
+__nuanced__  
 __nest egg__  
 __endow__ _v_  
 __seeping__  
