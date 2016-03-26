@@ -18,15 +18,20 @@
 +temps  
 +lest
 +steadfast  
++fast and furious  
 +asbestos  
 +dais  
 +backlog  
 +bleak  
++icing on the cake  
++recoup  
++strain  
++coy  
 __labrotories__ ?  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS?
 __c/o__  
 __folly__  
-__fascia__ _Da
+__fascia__ 
 __lax__ (not LAX)  
 __compounding__  _Compounding the situation._  
 __peat__ _Battling the blazes in peat swamp forests._  
@@ -126,9 +131,7 @@ __dowry__
 __illustrious__ :open_mouth:  
 __white-knuckle ride__  
 __screeching__  
-++icing on the cake  
 __clock__ _v_ _He was clocked at 95 mph in a 55-mph construction zone._  
-++coy  
 __haul > long haul__ _We are ready to go long haul._  
 __defected__  
 __chomping__  
@@ -140,8 +143,6 @@ __tell > telling stretch__ _The telling stretch of the season._
 __pick up__ _His turnover-prone play doesn't pick up._  
 __first and foremost__  
 __pinch > in a pinch__  
-++recoup  
-++strain  
 __deflection__  
 __vocal__ _Critics often are the most vocal._  
 __sellout__ (sold out)  
@@ -154,7 +155,6 @@ __wherewithal__
 __fledgling__ :open_mouth:  
 __peer__ _Peering into their crystal balls._  
 __divine__ _v_  
-++fast and furious  
 __hidebound__  
 __stonewall__  
 __wellspring__  
@@ -220,7 +220,6 @@ __erupted__
 __baggie__  
 __open-wheel__  
 __one-offs__  
-
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
