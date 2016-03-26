@@ -15,6 +15,44 @@
 +cursory  
 +flairs  
 +gritty  
++temps  
++lest
++steadfast  
++asbestos  
++dais
+__mantels__ _Fireplace mantels._  
+__elude__ :open_mouth:  
+__alabaster__  
+__waft__ _v_ _Fine powder that wafts up from footsteps like flour._  
+__flatware coins__  
+__holloware bullion__ 
+__grout__ _We clean tile and grout!._  
+__gag__ _The cases's gag order._  
+__quash__ _To quash her subpoena._  
+__subpoena__  
+__fig leaf__ _Seeking a "big leaf."_  
+__birch__ _Birch and oak in stock._  
+__face-lift__  
+__hush__ _The hushed reference desk of the Denver Public Library._  
+__lacrosse games__  __diverted__ _diverted flights_  
+_rash__ _A rash of oil problems._  
+__skittishness__  
+__balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
+__saplings__ _Tree saplings._  
+__slop__ _Residual waste, such as cafeteria food slop._  
+__olefin__ _n_  
+__grist__ _Plastic wrapping becomes grist for composite decking._  
+__composite decking__  
+__escrow__ _No escrows required._  
+__midday__ :open_mouth:  
+
+__jut out__ _The head juts out of the wall._  
+__bode__ _v_  
+__snowbank__ _He was driving and crashed into a snowbank._  
+__foul play__ Violence, esp. murder.  
+__signage__ Signs collectively.  
+__bull__ Adult large animal (eg. an elephant).  
+__fact sheet__  
 __vitriolic__  
 __lumber__ _v_  
 __bequeathed__  
