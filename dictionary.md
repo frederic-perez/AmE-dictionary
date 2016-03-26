@@ -28,7 +28,7 @@ __c/o__
 __folly__  
 __fascia__ _Da
 __lax__ (not LAX)  
-__compounding__  __Compounding the situation._  
+__compounding__  _Compounding the situation._  
 __peat__ _Battling the blazes in peat swamp forests._  
 __recuse__ _She recused herself._  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
@@ -51,7 +51,7 @@ __birch__ _Birch and oak in stock._
 __face-lift__  
 __hush__ _The hushed reference desk of the Denver Public Library._  
 __lacrosse games__  __diverted__ _diverted flights_  
-_rash__ _A rash of oil problems._  
+__rash__ _A rash of oil problems._  
 __skittishness__  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __saplings__ _Tree saplings._  
@@ -61,7 +61,6 @@ __grist__ _Plastic wrapping becomes grist for composite decking._
 __composite decking__  
 __escrow__ _No escrows required._  
 __midday__ :open_mouth:  
-
 __jut out__ _The head juts out of the wall._  
 __bode__ _v_  
 __snowbank__ _He was driving and crashed into a snowbank._  
