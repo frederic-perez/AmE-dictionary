@@ -19,7 +19,23 @@
 +lest
 +steadfast  
 +asbestos  
-+dais
++dais  
++backlog  
++bleak  
+__labrotories__ ?  
+__Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS?
+__c/o__  
+__folly__  
+__fascia__ _Da
+__lax__ (not LAX)  
+__compounding__  __Compounding the situation._  
+__peat__ _Battling the blazes in peat swamp forests._  
+__recuse__ _She recused herself._  
+__sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
+__embattle__ _v_  
+__giveaway__  
+__hail__ _v_  
+__school > charter school__  
 __mantels__ _Fireplace mantels._  
 __elude__ :open_mouth:  
 __alabaster__  
