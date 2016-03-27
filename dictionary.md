@@ -27,6 +27,27 @@
 +recoup  
 +strain  
 +coy  
++aloft _Dwayane Wade raised three fingers aloft._  
++amped up  
++buyout  
+__sidecar shovelhead__  
+__obo__ Or best offer.  
+__fifth wheels__  
+__screaming yellow__  
+__platypus__ _Internet platypus pranks._  
+__bottle rocket__ (Mentos-propelled?)  
+__tire__ _v_ __To break up the peloton and make teams chase and tire._  
+__props__ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
+__squit__ _Super-soaker squit guns._  
+__sift__ _v_  
+__runner-up__ _Nadal was the runner-up to Roger Federer in 2006-7._  
+__time and again__
+__makeup game__  
+__layover__ _Colorado enters its two-game layover in Boston on Tuesday night._  
+__eyewash__ _Cuddyer explained the balance between effort and eyewash._  
+__hallowed__ _The hallowed walls of Neptune Mountaineering reverberated with history._  
+__floodgate__  
+__bivouac__ :open_mouth:  
 __labrotories__ ?  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS?
 __c/o__  
