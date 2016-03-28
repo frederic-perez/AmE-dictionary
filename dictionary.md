@@ -15,6 +15,7 @@
 +cursory  
 +flairs  
 +gritty  
++grit  
 +temps  
 +lest
 +steadfast  
@@ -30,6 +31,29 @@
 +aloft _Dwayane Wade raised three fingers aloft._  
 +amped up  
 +buyout  
++sundown  
+__dare__  
+__ferret__ _n_  
+__skulking__  
+__extol__ _v_ _But he extols running as what helps him stay clean._  
+__lean protein__  
+__vat__ _My daughters are dipped in a vat of sunscreen every morning._  
+__timeclock__ _Denver Movie Timeclock._  
+__plugger__  
+__nightie__  
+__quinoa__  
+__saponins__  
+__mesh strainer__  
+__colander__  
+__autoclaving__  
+__relatable__  
+__putdowns__  
+__quibbling__  
+__burrow__  
+__stow__ _v_  
+__goo__ _Informal_ Sticky substance.  
+__gooey__ :two: Soft and sticky. _Gooey butter cake._  
+__midwife__ :open_mouth: Nurse trained to assist women in childbirth.  
 __sidecar shovelhead__  
 __obo__ Or best offer.  
 __fifth wheels__  
