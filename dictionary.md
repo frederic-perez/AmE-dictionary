@@ -32,6 +32,40 @@
 +amped up  
 +buyout  
 +sundown  
++voucher  
++embezzling 
+++extoll  
++bestow  
+++gooey  
+__lookout__ _Be on the lookout._  
+__crippling__ _Crippling drought._  
+__zero-sum game__  
+__animosity__  
+__shrill__ _Increasing shrill chorus._  
+__bloviate__ _v_  
+__epithet__  
+__shill__ _v_  
+__perjury__  
+__appease__  
+__schlepping__  
+__afoul__  
+__defry__  
+__skimboard__  
+__ordeal__ Painful experience.  
+__vindication__  
+__remanded__ _v_  
+__servicers__  
+__tractor-trailer__  
+__fiery__  
+__knock-knock joke__  
+__frame grab__  
+__convenes__ _v_  
+__pit__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
+__ingrained__ _Speeding is deeply ingrained in American culture._  
+__hatch__ _Hatch of insects._  
+__drag racing__  
+__feral__ _Feral hogs._  
+__wiener dog__  
 __dare__  
 __ferret__ _n_  
 __skulking__  
