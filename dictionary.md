@@ -39,6 +39,21 @@
 ++gooey  
 +dole out  
 +growing pains  
++stranded  
++dystopian  
+++flair  
+__denouement__  
+__wimp out__  
+__garner__ _Garner interest._  
+__puny__ _A puny garden snail._  
+__reveler__  
+__keep up__  
+__raves__  
+__snubbed__  
+__add up__  
+__Pacific Rim__  
+__wedgie__  
+__stifling__  
 __pall__  
 __shutout__ _Last year, the NL won in a shutout._  
 __compliance__ _Compliance guy._  
@@ -62,7 +77,8 @@ __amnesty player__
 __prep__  
 __meted out__ _v_ _All the suspensions have been meted out._  
 __tingling__  
-__installment__ _Customers can pay monthly installments of $15._  
+__installment__ :two: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
+__frites__ _Steak frites._  
 __gobble up__ _v_  
 __tepid__  
 __hark__ _v_  
