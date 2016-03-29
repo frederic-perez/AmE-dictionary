@@ -37,6 +37,38 @@
 ++extoll  
 +bestow  
 ++gooey  
++dole out  
++growing pains  
+__pall__  
+__shutout__ _Last year, the NL won in a shutout._  
+__compliance__ _Compliance guy._  
+__jab__  
+__liability__  
+__hickory shaft__  
+__stymie__ _v_  
+__pennant races__  
+__contention__ :two:  
+__pot bunkers__  
+__doglegs__  
+__butt-fumble__  
+__sulk__ _v_  
+__dangle__ _v_ _Garret seems to be dangling by a thread._  
+__shoddy__  
+__fretting__  
+__clunkers__  
+__Gordian knot__  
+__waive__ _v_  
+__amnesty player__  
+__prep__  
+__meted out__ _v_ _All the suspensions have been meted out._  
+__tingling__  
+__installment__ _Customers can pay monthly installments of $15._  
+__gobble up__ _v_  
+__tepid__  
+__hark__ _v_  
+__fizz__  
+__nonce__  
+__Motor City__ Detroit.  
 __lookout__ _Be on the lookout._  
 __crippling__ _Crippling drought._  
 __zero-sum game__  
