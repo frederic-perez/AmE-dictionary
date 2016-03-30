@@ -34,14 +34,38 @@
 +sundown  
 +voucher  
 +embezzling 
-++extoll  
++extoll  
 +bestow  
-++gooey  
++gooey  
 +dole out  
 +growing pains  
 +stranded  
 +dystopian  
-++flair  
++flair  
++Old Dominion  
++sweltering  
++embezzling  
+__bungling__ Spoil by incompetence.  
+__forfeiting__  
+__homebody__  
+__charging__ Accuse formally.  
+__henchmen__  
+__winsome__  
+__quandary__ Difficult dilemma.  
+__die-hard__ Person who resists change.  
+__stiffle__ Suffocate.  
+__peal__ _v_ _Pealing bells._  
+__sequestration__ _Sequestration of the jury._  
+__molehill__  
+__monsoon__  
+__Reuben James__  
+__silver lining__  
+__meandering__  
+__gazebo__  
+__tossuo__  
+__tawdry__ Poor, cheap quality.  
+__traipsing__  
+__lambast__ _v_  
 __denouement__  
 __wimp out__  
 __garner__ _Garner interest._  
