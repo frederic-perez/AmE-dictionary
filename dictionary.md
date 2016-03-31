@@ -44,7 +44,17 @@
 +flair  
 +Old Dominion  
 +sweltering  
++daunting  
 +embezzling  
+__relish__  
+__drab__  
+__fare__  
+__fretting__  
+__gouged__ _Consumers gouged by tricks and traps._  
+__angsty__  
+__goosing__ _Goosing the economy._  
+__shale__  
+__laggard__  
 __bungling__ Spoil by incompetence.  
 __forfeiting__  
 __homebody__  
