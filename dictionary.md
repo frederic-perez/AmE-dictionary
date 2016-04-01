@@ -46,6 +46,29 @@
 +sweltering  
 +daunting  
 +embezzling  
++dole out  
++decry  
++sizzle  
++far cry  
++spurts  
+__restraint__ _n_  
+__cinch__ _n_  
+__lump__ _v_  
+__combines__ _Basketball_  
+__upside__ _The aging Knicks could use upside._  
+__slash__ _Basketball_ _He is a lanky gunner who can slash._  
+__floaties__  
+__regulation__ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
+__hoist__ _v_ :es: alzar  
+__carpool__  
+__taper__ _High schools don't see athletic trainers as ankle tapers._  
+__water cooler__  
+__staph__ _Staph infections._  
+__bicker__ _v_  
+__swimabout__  
+__pamper__ _v_  
+__Old Hickory bat__  
+__liability__  
 __relish__  
 __drab__  
 __fare__  
