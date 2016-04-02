@@ -54,7 +54,14 @@
 +spurts  
 +accrued  
 +foibles  
-__ad-libs_  
+__muck__  
+__atone__ _v_  
+__woodwork__  
+__mince__ _v_  __yarn__  
+__dollop__  
+__out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
+__lovelorn__ _adj_ Sad because of an unrequited love._  
+__ad-libs__  
 __ rehash__ _v_  
 __behold__ _The wedding ceremony was a joy to behold._  
 __squabbling__ _v_ _A squabbling family._  
