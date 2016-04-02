@@ -50,7 +50,19 @@
 +decry  
 +sizzle  
 +far cry  
++despondent  
 +spurts  
++accrued  
++foibles  
+__ad-libs_  
+__ rehash__ _v_  
+__behold__ _The wedding ceremony was a joy to behold._  
+__squabbling__ _v_ _A squabbling family._  
+__basket case__  
+__tanker truck__  
+__dredge up__  
+__emaciate__ _v_ _Emaciated cancer patient._  
+__on__ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._  
 __restraint__ _n_  
 __cinch__ _n_  
 __lump__ _v_  
