@@ -54,6 +54,26 @@
 +spurts  
 +accrued  
 +foibles  
++bristle _v_  
++gonzo  
++hallowed  
++depleted  
++hallmark  
++bode  
++dwindle  
++paltry  
++fledgling  
+__tab__ _He keeps electronic tabs on his daughter._  
+__bleak__  
+__smoothies__  
+__flatbread__ _Flatbread sandwiches._  
+__grace__ _v_  
+__brouhaha__  
+__aftermarket__  
+__beige book__ ?  
+__puff__  
+__Main Street__  
+__grouse__ _v_  
 __muck__  
 __atone__ _v_  
 __woodwork__  
