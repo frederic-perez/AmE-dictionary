@@ -63,6 +63,27 @@
 +dwindle  
 +paltry  
 +fledgling  
++accrued  
+__forwbode__ _Foreboding sentences_  
+__feud__  
+__haymaker__  
+__whisked__ _v_  
+__milk the clock__  
+__indictment__  
+__hyperbole__  
+__overwrought__ _Overwrought adults_  
+__laid-back guy__  
+__field__ _v_  
+__turpitude__  
+__palsy__ _Mild cerebral palsy._  
+__tag along__ _His old swing has tagged along._  
+__siphoned__ _v_  
+__plate__ _Baseball_  
+__leapfrogging__ _v_  
+__labrum__  
+__defected__ _v_  
+__in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._  
+__ding up__ _v_  
 __tab__ _He keeps electronic tabs on his daughter._  
 __bleak__  
 __smoothies__  
