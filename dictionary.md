@@ -19,7 +19,7 @@
 +temps  
 +lest
 +steadfast  
-+fast and furious  
++2 fast and furious  
 +asbestos  
 +dais  
 +backlog  
@@ -64,6 +64,36 @@
 +paltry  
 +fledgling  
 +accrued  
++afar  
++accolades  
++exact _v_  
++quip  
+__scuffle__  
+__impending__  
+__induct__  
+__panache__  
+__strangle__ :es: estrangular  
+__seethed__ _v_  
+__keep tabs on__ :es: vigilar  
+__heyday__  
+__up-tempo__ _Up-tempo kind of game._  
+__garner__ _v_  
+__jar__ _v_  
+__chip-off__  
+__strain__  
+__snub__  
+__induction__  
+__scissor lift__  
+__wallowing__  
+__kindergartners__ :open_mouth:  
+__shamrock__  
+__disgruntled__  
+__appeal__ _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
+__chug__ _v_ _We're chugging along._  
+__cap__ _v_ _To cap the play._  
+__marquee matchup__  
+__run-in__ _A run-in with police._  
+__reinstate__  
 __gaunt__ :es: demacrado  
 __buff__ :es: entusiasta  
 __Fab Four__  
