@@ -64,7 +64,23 @@
 +paltry  
 +fledgling  
 +accrued  
-__forwbode__ _Foreboding sentences_  
+__gaunt__ :es: demacrado  
+__buff__ :es: entusiasta  
+__Fab Four__  
+__feisty__  
+__bumpkin__  
+__proceeds__ :es: ganancias; ingresos  
+__running-of-the-mill husband__  
+__wayward__ :es: díscolo  
+__lilac__  
+__smoothies__  
+__kindred spirits__ :es: almas gemelas  
+__off-kilter__  
+__vitriol__  
+__joust__  
+__bereft__  
+__bratty__  
+__forebode__ _Foreboding sentences_  
 __feud__  
 __haymaker__  
 __whisked__ _v_  
