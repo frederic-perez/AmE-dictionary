@@ -67,7 +67,28 @@
 +afar  
 +accolades  
 +exact _v_  
++posh  
 +quip  
++slew  
++epitomize  
+__koi__ _v_  
+__listing__  _One current listing is a $30 million property._  
+__groundswell__  
+__vitriolic__  
+__utility poles__  
+__utility__ _Utility companies._  
+__carry-on bag__  
+__petroglyphs__ _Ancient Indian petroglyph._  
+__power bar__  
+__roll over__  
+__assets__  
+__pot__ _ A pot ofassets.__  
+__epony-mously__  
+__wholesaler__  
+__stately__ _Stately homes._  
+__stocking-stuffers__  
+__discounter__ _n_  
+__trot out__  
 __scuffle__  
 __impending__  
 __induct__  
