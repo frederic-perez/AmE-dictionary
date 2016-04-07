@@ -17,7 +17,7 @@
 +gritty  
 +grit  
 +temps  
-+lest
++lest  
 +steadfast  
 +2 fast and furious  
 +asbestos  
