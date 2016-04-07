@@ -70,7 +70,35 @@
 +posh  
 +quip  
 +slew  
++buckle _v_  
 +epitomize  
++scoffed  
++bantamweight  
++showdown  
+__lambaster__ _v_  
+__perks__  
+__defector__ Baseball position?  
+__outing__  
+__accrue__  
+__rumble__  
+__pick-six__ _Football_  
+__cave__ _v_  
+__woozy__  
+__trampling__  
+__seahawk__ ?  
+__marred__ _v_  
+__pummel_ _v_  
+__stretch_ _An interesting stretch run in the NFC._  
+__bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
+__clinch__ _v_  
+__rumblings__  
+__spike__ _v_ _The coach spiked his headset during Thursday's loss to the Indiannapolis Colts._  
+__back breaker__  
+__slant__  
+__on deck__  
+__flubbed__ _v_  
+__crunchtime__  
+
 __koi__ _v_  
 __listing__  _One current listing is a $30 million property._  
 __groundswell__  
