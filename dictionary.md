@@ -75,6 +75,28 @@
 +scoffed  
 +bantamweight  
 +showdown  
++pummel  
++raucous  
++aplomb  
++huckster  
++sizzle  
+__bobby socks__  
+__thankless__ Ungrateful  
+__two-timer__  
+__crippling__  
+__wallop__  
+__dolirometer__  
+__influenza__  
+__pamper__  
+__burp__  
+__afloat__  
+__coffee-table book__  
+__shambolic__  
+__juggernaut__  
+__spliced__ _v_  
+__whee!__  
+__huckster__  
+__umpteenth__  
 __raucous__  
 __special-team__  
 __scrambling__  
@@ -87,7 +109,7 @@ __cart__ _v_ _Quincy was carted off the field._
 __clinch__ :two: :shit: _A 45-yarder clinched the game._  
 __scampering__ _v_  
 __swoon__  
-__trudge_  
+__trudge__  
 __X's and O's__  
 __zip__ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
 __defrock__ _v_  
@@ -123,7 +145,6 @@ __slant__
 __on deck__  
 __flubbed__ _v_  
 __crunchtime__  
-
 __koi__ _v_  
 __listing__  _One current listing is a $30 million property._  
 __groundswell__  
