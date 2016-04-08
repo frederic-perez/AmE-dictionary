@@ -75,6 +75,31 @@
 +scoffed  
 +bantamweight  
 +showdown  
+__raucous__  
+__special-team__  
+__scrambling__  
+__rumble__  
+__snap__ _He played for nine snaps, and rushed four times for 14 yards._  
+__rolling__  
+__punt__ _Football_  
+__sputtering__  
+__cart__ _v_ _Quincy was carted off the field._  
+__clinch__ :two: :shit: _A 45-yarder clinched the game._  
+__scampering__ _v_  
+__swoon__  
+__trudge_  
+__X's and O's__  
+__zip__ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
+__defrock__ _v_  
+__hit the wall__  
+__scream-o-meter__  
+__slog__  
+__iffy__ _Iffy call._  
+__penchant__  
+__wee hours__  
+__fair shake__  
+__stance__  
+__go-for-broke__  
 __lambaster__ _v_  
 __perks__  
 __defector__ Baseball position?  
