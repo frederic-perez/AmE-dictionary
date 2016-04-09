@@ -81,6 +81,26 @@
 +huckster  
 +sizzle  
 +smallpox  
++larceny  
++enact  
++tawdry  
+__busybody__  
+__fleecy__  
+__encroachment__  
+__thereof__  
+__tilapia__  
+__aquaponic__  
+__kibbutz__  
+__dredge up__  
+__impervious__  
+__scathing__  
+__locust__  
+__plaudits__  
+__swelled__  
+__Jim Crow__  
+__fawn__  
+__doe__  
+__ce__  
 __redoubt__  
 __preppers__  
 __ramp up__  
