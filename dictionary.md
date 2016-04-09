@@ -106,7 +106,7 @@ __rolling__
 __punt__ _Football_  
 __sputtering__  
 __cart__ _v_ _Quincy was carted off the field._  
-__clinch__ :two: :shit: _A 45-yarder clinched the game._  
+__clinch__ :three: :shit: _A 45-yarder clinched the game._  
 __scampering__ _v_  
 __swoon__  
 __trudge__  
@@ -135,9 +135,8 @@ __trampling__
 __seahawk__ ?  
 __marred__ _v_  
 __pummel_ _v_  
-__stretch_ _An interesting stretch run in the NFC._  
+__stretch__ _An interesting stretch run in the NFC._  
 __bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
-__clinch__ _v_  
 __rumblings__  
 __spike__ _v_ _The coach spiked his headset during Thursday's loss to the Indiannapolis Colts._  
 __back breaker__  
