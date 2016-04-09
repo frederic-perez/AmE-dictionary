@@ -84,6 +84,37 @@
 +larceny  
 +enact  
 +tawdry  
++fallout  
++remembrance  
++stalwart  
++2 op-ed  
++ensconced  
++garner  
+__markup__ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._  
+__skid__
+__fiduciary responsability__  
+__guffaw__  
+__parlayed__  
+__clout__  
+__lambasted__  
+__hoary__  
+__aping__  
+__hauteur__  
+__lowbrow__  
+__law of the land__  
+__markdown__  
+__tuck away__  
+__square deal__  
+__fair and square__  
+__retrain__ _v_  
+__fracking__ Hydraulic  fracturing.  
+__particle board__  
+__laggard__  
+__the 11th hour__  
+__heed__ _v_  
+__Generation Yers__  
+__Generation Xers__  
+__Millennials__
 __busybody__  
 __fleecy__  
 __encroachment__  
