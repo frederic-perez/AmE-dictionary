@@ -80,6 +80,26 @@
 +aplomb  
 +huckster  
 +sizzle  
++smallpox  
+__redoubt__  
+__preppers__  
+__ramp up__  
+__bugout__  
+__shout-out > give a shout-out__  
+__gobble up__  
+__brush__ _To brush fires in California._  _The goats cleared brush._  
+__chaparral__  
+__sprinkler__  
+__decommissioned__  
+__co-op__  
+__gingham__  
+__pinafore__  
+__tinderdry__  
+__rattlers__   
+__sap__ _v_  
+__brambles__  
+__fallout__  
+__ be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __bobby socks__  
 __thankless__ Ungrateful  
 __two-timer__  
