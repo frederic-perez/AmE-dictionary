@@ -90,6 +90,49 @@
 +2 op-ed  
 +ensconced  
 +garner  
++slew  
++drought  
++wreath  
++drenched  
++induction  
++embroiled  
++cave _v_  
++pry  
+__surefire__  
+__mired__ _v_  
+__homecoming_ _She had been homecoming queen._  
+__concertmistress__ _The orchestra concertmistress._  
+__valedictorian__  
+__blurb__ :es: comentario de sobrecubierta  
+__wheel well__ _The Corvette's wheel well._  
+__truant__  
+__K-12__ _K-12 population._  
+__bonobo__  
+__muffle__ _v_ :es: amortiguar (sonido)  
+__devolve__ _v_ _The party must devolve power._  
+__minder__ :es: guardaespaldas  
+__liaison__ 
+__tarnish__ _v_ :es: deslustrar  
+__doozy__  
+__hagiography__  
+__unfettered__ _Esxposed to unfetteredpolitical advocacy._  
+__repentance__  
+__begrudge__ 
+__sewage__ :es: aguas residuales  
+__lockout__ _N.J. residents upset over island lockout._  
+__tony__
+__ritzier__  
+__plight__ Tough situation.  
+__reappraise__ :es: valorar  
+__wedge___v_ :es : acuñar  
+__Ole Miss__  
+__ordeal__ :es: experiencia horrorosa  
+__griddle__  
+__maxim__ :es: máxima  
+__wintry__ _adj_ :es: invernal  
+__flurry__ :es: _(of snow)_ temporal  
+__trustees__ _Board of Trustees_  
+__clout__ _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._  
 __virtually__ :open_mouth: Practically, almost.  
 __markup__ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._  
 __skid__
