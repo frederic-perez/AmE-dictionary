@@ -90,6 +90,7 @@
 +2 op-ed  
 +ensconced  
 +garner  
+__virtually__ :open_mouth: Practically, almost.  
 __markup__ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._  
 __skid__
 __fiduciary responsability__  
@@ -150,7 +151,7 @@ __rattlers__
 __sap__ _v_  
 __brambles__  
 __fallout__  
-__ be dismissed__ :es: retirarse (por ejemplo de la mesa)  
+__be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __bobby socks__  
 __thankless__ Ungrateful  
 __two-timer__  
