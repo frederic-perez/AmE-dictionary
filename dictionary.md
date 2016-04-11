@@ -1,12 +1,9 @@
-+rumble  
-+sweltering :es: sofocante  
 +foul play  
 +stalwarts  
 +endearing  
 +measles  
 +accountant  
 +vocal _Being vocal._  
-+felon  
 +embezzlement  
 +roiling _They plunged into the roiling water._  
 +muddled  
@@ -19,7 +16,6 @@
 +temps  
 +lest  
 +steadfast  
-+2 fast and furious  
 +asbestos  
 +dais  
 +backlog  
@@ -43,7 +39,6 @@
 +dystopian  
 +flair  
 +Old Dominion  
-+sweltering  
 +daunting  
 +embezzling  
 +dole out  
@@ -69,7 +64,6 @@
 +exact _v_  
 +posh  
 +quip  
-+slew  
 +buckle _v_  
 +epitomize  
 +scoffed  
@@ -90,7 +84,6 @@
 +2 op-ed  
 +ensconced  
 +garner  
-+slew  
 +drought  
 +wreath  
 +drenched  
@@ -215,7 +208,6 @@ __umpteenth__
 __raucous__  
 __special-team__  
 __scrambling__  
-__rumble__  
 __snap__ _He played for nine snaps, and rushed four times for 14 yards._  
 __rolling__  
 __punt__ _Football_  
@@ -242,7 +234,6 @@ __perks__
 __defector__ Baseball position?  
 __outing__  
 __accrue__  
-__rumble__  
 __pick-six__ _Football_  
 __cave__ _v_  
 __woozy__  
@@ -1130,11 +1121,11 @@ __fallout__ :seven: _Informal_ Side-effects; secondary consequences. _The fallou
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fanny pack__ A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __farce__  
-__fast and furious__  _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
+__fast and furious__ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fave__   
 __faze__ _v_  
 __fearl__ _A fearl youngster._  
-__felon__ :four: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
+__felon__ :five: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __fester__  
 __festooned__ _His podium was festooned with a sign._  
@@ -1636,7 +1627,7 @@ __rowdy__ :four: /ˈraʊdi/ _adj_ Noisy and disorderly. _Syn_ unruly, disorderly
 __ruckus__  
 __rue__ _v_ _Pa. town rues sacrifice of its war dead._  
 __rug > sweep it under the rug__  
-__rumble__  
+__rumble__ :three: :shit:  
 __rumblings__ _Rumblings about the trade._  
 __rumple__  
 __run-ins__  
@@ -1721,7 +1712,7 @@ __skittish__ _A pack of skittish hyenas._
 __slather__ _To slather on hand lotion._  
 __slay__ (slain) JFK was slain.  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
-__slew__ :four: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
+__slew__ :six: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ _An evacuation slide was activated during a flight Wednesday._  
 __slighted__  
 __slit > hi-slit dress__  
@@ -1843,7 +1834,7 @@ __swamp__ _n_ __1__ __a__ Permanently waterlogged ground that is usually overgro
 __swashbuckling__  
 __swath__ :two: :shit:  
 __sway__ :three: _v_ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._  
-__sweltering__ :three: _adj_ Uncomfortably hot. _A sweltering Spanish summer._  
+__sweltering__ :five: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve__ (swerves) :two: :shit: _v_  
 __swigging__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
