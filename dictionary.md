@@ -1,35 +1,3 @@
-+foul play  
-+stalwarts  
-+endearing  
-+measles  
-+accountant  
-+vocal _Being vocal._  
-+embezzlement  
-+roiling _They plunged into the roiling water._  
-+muddled  
-+heeded  
-+stymied  
-+cursory  
-+flairs  
-+gritty  
-+grit  
-+temps  
-+lest  
-+steadfast  
-+asbestos  
-+dais  
-+backlog  
-+bleak  
-+icing on the cake  
-+recoup  
-+strain  
-+coy  
-+aloft _Dwayane Wade raised three fingers aloft._  
-+amped up  
-+buyout  
-+sundown  
-+voucher  
-+embezzling   
 +extoll  
 +bestow  
 +gooey  
@@ -37,10 +5,8 @@
 +growing pains  
 +stranded  
 +dystopian  
-+flair  
 +Old Dominion  
 +daunting  
-+embezzling  
 +dole out  
 +decry  
 +sizzle  
@@ -90,7 +56,11 @@
 +induction  
 +embroiled  
 +cave _v_  
-+pry  
+__aloft__ _Dwayane Wade raised three fingers aloft._  
+__cursory__  
+__pry__  
+__accountant__ :es: contable  
+__measles__ Rubeola.  
 __surefire__  
 __mired__ _v_  
 __homecoming_ _She had been homecoming queen._  
@@ -148,7 +118,6 @@ __fracking__ Hydraulic  fracturing.
 __particle board__  
 __laggard__  
 __the 11th hour__  
-__heed__ _v_  
 __Generation Yers__  
 __Generation Xers__  
 __Millennials__
@@ -280,7 +249,7 @@ __up-tempo__ _Up-tempo kind of game._
 __garner__ _v_  
 __jar__ _v_  
 __chip-off__  
-__strain__  
+__strain__ :two: :shit:  
 __snub__  
 __induction__  
 __scissor lift__  
@@ -423,7 +392,7 @@ __compliance__ _Compliance guy._
 __jab__  
 __liability__  
 __hickory shaft__  
-__stymie__ _v_  
+__stymie__ (stymied) _v_ :two: :shit:  
 __pennant races__  
 __contention__ :two:  
 __pot bunkers__  
@@ -559,7 +528,7 @@ __midday__ :open_mouth:
 __jut out__ _The head juts out of the wall._  
 __bode__ _v_  
 __snowbank__ _He was driving and crashed into a snowbank._  
-__foul play__ Violence, esp. murder.  
+__foul play__ :two: Violence, esp. murder.  
 __signage__ Signs collectively.  
 __bull__ Adult large animal (eg. an elephant).  
 __fact sheet__  
@@ -634,7 +603,7 @@ __pick up__ _His turnover-prone play doesn't pick up._
 __first and foremost__  
 __pinch > in a pinch__  
 __deflection__  
-__vocal__ _Critics often are the most vocal._  
+__vocal__ :two: _Critics often are the most vocal._  
 __sellout__ (sold out)  
 __counsel__  
 __of late__ :es: últimamente 
@@ -761,7 +730,7 @@ __alleged__
 __aloof__ /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __amass__ (amassed) :open_mouth: :es: amontonar, acumular  
 __amble__ _Giraffes amble along the savannah._  
-__amped-up__ :three: _Informal_ Filled with intense energy and excitement.  
+__amped-up__ (amped up) :four: _Informal_ Filled with intense energy and excitement.  
 __ample__  
 __angst__ A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __annuity__ (annuities) :two: shit:  
@@ -775,7 +744,7 @@ __apple cart__
 __arch__ _Her character is arch and fake._  
 __archivist__  
 __ardent__ _He was one of her most ardemt suitors._  
-__asbestos__  :es: asbesto, amianto  
+__asbestos__ :two: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascot__  
 __assail__ :two: /əˈseɪl/ _v_ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
@@ -788,7 +757,7 @@ __awash__ _Wall Street was awash in red ink all day._
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __back-to-back__  
 __backdrop__ _These massacres took place against the backdrop of a war._  
-__backlog__ _Russia has a huge backlog of basic knowledge._  
+__backlog__ :two: :shit: _Russia has a huge backlog of basic knowledge._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
@@ -845,7 +814,7 @@ __billing__ _Now, the women's contest will take second billing._
 __billow__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __blanket__ _The security blanket._  
 __blather__  
-__bleak__  
+__bleak__ :three: :shit:  
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bling__  
 __blitz__ :two: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
@@ -914,7 +883,7 @@ __butting head__
 __buttinski__  
 __buttress__ (buttressed) :three: _v_ Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buybacks__  
-__buyouts__ _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
+__buyout__ (buyouts) :two: :shit: _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __by and large__ :es: en líneas generales, en general  
 __byzantine__ :open_mouth: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __caddish__  
@@ -991,7 +960,7 @@ __contiguous > the contiguous U.S.__
 __contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __convene__ _v_  
 __cord blood__  
-__coy__ :three: _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
+__coy__ :four: _v_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crackdown__ _In 2002, Chávez ordered a crackdown on political opponents._  
 __crackpot__ _A reputation as a ridiculous crackpot._  
 __cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
@@ -1010,7 +979,7 @@ __curtail__ :two: Reduce in extent or quantity; impose a restriction on. _The go
 __cusp__ _The cusp of the largest immigration wave._  
 __customer → tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
-__dais__    
+__dais__ :two: :shit:  
 __dallying__  
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __darn__  
@@ -1089,7 +1058,7 @@ __elated__
 __elbow grease__  
 __embark__ _They embark on a motorcade._  
 __ember__ _n_ A small piece of burning or glowing coal or wood in a dying fire.  
-__embezzle__ (embezzling) :three: /ɪmˈbɛz(ə)l,ɛm-/ _v_ Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ :es: malversación  
+__embezzle__ (embezzling, embezzlement) :six: /ɪmˈbɛz(ə)l,ɛm-/ _v_ Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ :es: malversación  
 __emcee__  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __empty-net/power-play/short-handed goal__  
@@ -1097,7 +1066,7 @@ __encampment__
 __encroaching__  
 __end run__  
 __end run__  
-__endearing__ :two: _adj_ Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
+__endearing__ :three: _adj_ Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __enlivened__  
 __ensconced__  
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
@@ -1138,7 +1107,7 @@ __filly__ A young female horse, especially one less than four years old. _The fi
 __finger-waggers__  
 __finicky__ :two: shit:  
 __flag__ _v_  
-__flair__ :two: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
+__flair__ :four: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __fledgling__  
 __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
@@ -1217,7 +1186,7 @@ __grievance__
 __grille__  
 __grinding__ _Bumping and grinding._  
 __gripe__ _Not a single gripe._  
-__grit__ (gritty, grittier) :two: _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
+__grit__ (gritty, grittier) :four: _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grittier__  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __groundbreaker__  
@@ -1257,7 +1226,7 @@ __heat > to catch a lot of heat__
 __heckler__  
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedonic__  
-__heed__ :two: _v_ :es: hacer caso de  
+__heed__ :four: _v_ :es: hacer caso de  
 __heel__ _A heel who learns how to be a good egg._  
 __hefty__  
 __heist capers__  
@@ -1284,7 +1253,7 @@ __humdrum__
 __hunk__ (hunky) :four: /hʌŋk/ _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hurl__ (hurling) _Inmates hurling stones._  
 __hurling__ _Hurling an ax._  
-__icing on the cake__  
+__icing on the cake__ :two: :shit:  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __iffy__  
 __ilk__ _n_ Type or kind: _can't trust people of that ilk._  
@@ -1355,7 +1324,7 @@ __legerdemain__
 __lei__ _n_ A Polynesian garland of flowers.  
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
 __lenient__  
-__lest__ :two: _Conjuction Formal_ __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
+__lest__ :three: _Conjuction Formal_ __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __leveled__  
 __levied__  
@@ -1422,7 +1391,7 @@ __motley crew__
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
-__muddle__ :two: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
+__muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __muggles__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mundane__  
@@ -1580,7 +1549,7 @@ __rebuffed__
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __reckon__  
 __reconvene__  
-__recoup__ _v_  
+__recoup__ :two: :shit: _v_  
 __redo__  
 __redolent__ _His ceremony was redolent with tension._  
 __redshirt__  
@@ -1614,7 +1583,7 @@ __ringside__
 __risible__  
 __ritziest__ _One of the ritziest restaurants._  
 __roam__ _v_ _To roam the country._  
-__roil__ (roiling) :two: US term for rile (make someone annoyed or irritated). _v_ _Another shocker roils 'Game' finale._  
+__roil__ (roiling) :three: US term for rile (make someone annoyed or irritated). _v_ _Another shocker roils 'Game' finale._ _They plunged into the roiling water._  
 __roll over__ _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __rolling caisson__  
 __rollovers__  
@@ -1774,7 +1743,7 @@ __squirm__ _Squirm-in-your-seat._
 __staffer__ :three: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stagger__ _v_ _Walmart will stagger other deals._  
 __staid__ :three: :shit:  
-__stalwart__ _The Vladimir Nazarov Theater is a stalwart spot._  
+__stalwart__ :three: :shit: _The Vladimir Nazarov Theater is a stalwart spot._  
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
 __stance__ :two: :shit:  
@@ -1787,7 +1756,7 @@ __staunch__ _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful
 __stave off__ _v_  
 __stave__ _v_  
 __stay__ _Granted a stay of execution._  
-__steadfast__ _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
+__steadfast__ :two: _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steady-eddy__  
 __steep__ _He faces a steep learning curve._  
 __stentorian__  
@@ -1823,7 +1792,7 @@ __stunts__ _Singers emphasoze stunts over music._
 __subtle__ :es: sutil  
 __succumb__ :open_mouth:  
 __sulk__ (sulky) :two: _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
-__sunup__ _He works sunup to sundown._  
+__sundown, sunup__ :two: _He works sunup to sundown._  
 __superintendent__  
 __superpooch__  
 __supremacist__ _A whote supremacist._  
@@ -1859,7 +1828,7 @@ __tchotchkes__
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
 __teeming__ _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __televised__  
-__temp__ _n_ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
+__temp__ (temps) _n_ :two: Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __tenuous__  
 __tepid__  
 __thaw__ :two: :shit: _It kept the door open for a possible thaw in relations between the Koreas._  
@@ -1953,7 +1922,7 @@ __vindication__ :two:
 __visitation__  
 __vitriol__ /ˈvɪtrɪəl/ _n_ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __volley__  _A volley of invective._  
-__voucher__ _The administration has focused its efforts with more housing vouchers._  
+__voucher__ :three: :shit: _The administration has focused its efforts with more housing vouchers._  
 __wad__ _Wads of cash._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __waffle__ _v_  
