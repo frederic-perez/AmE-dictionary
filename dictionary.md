@@ -150,7 +150,7 @@ __bedevil__
 __bedrock__  
 __beef up__  
 __befitting__  
-__begrudge__ 
+__begrudge__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
 __behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ :two: :shit:  
@@ -196,9 +196,7 @@ __blue-blood__
 __bluff__  
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ (blurting) :two: /bləːt/ _v_  To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
-__blustery__  
-__blustery__  
-__blustery__ __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
+__blustery__ :three: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __bobby socks__  
 __bod__  
 __bode__ :four: _v_ _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
@@ -214,8 +212,7 @@ __bone → funny bone__ (funny bones) :two: _n Informal_ The part of the elbow o
 __bonobo__  
 __bookends__  
 __boon__ /buːn/ :two: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
-__boorish__ :two: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._  
-__boorish__ _Boorish behavior._  
+__boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __bore__ _She once was into a stone bore._  
 __bottle rocket__ (Mentos-propelled?)  
 __bracing__  
@@ -231,8 +228,7 @@ __brethren__ _Political brethren._
 __brickbats__  
 __bristle__ (bristled) :three: _v_ Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __britches__ _We think that you're a little too big for your britches._  
-__broker__ (brokered) _v_ _The secretary-general brokered a truce that did not hold._  
-__broker__ _v_ _Failure to broker a deal means a recession is imminent._  
+__broker__ (brokered) :two: _v_ _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._  
 __brooding__ :three: shit:  
 __brouhaha__  
 __brush__ _To brush fires in California._  _The goats cleared brush._  
@@ -259,9 +255,8 @@ __bungle__ _v_
 __bungler__ _Upper-crust bunglers._  
 __bungling__ Spoil by incompetence.  
 __bunt__ _Hamels batted in the third inning and tried to bunt._  
-__buoy__ (buoyed) _v_ Keep (someone or something) afloat.  
+__buoy__ (buoyed) :three: _v_ __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyant__ _adj_  
-__buoyed__ :two: __1__ Keep afloat. __2__ Sustain.  
 __burgundy__ _Burgundy outfit._  
 __burnish__ _v_  
 __burp__  
@@ -290,8 +285,7 @@ __callous__ :two: _adj_ __1__ Having calluses; toughened: _callous skin on the e
 __camo__  
 __campier__ _campier presentations._  
 __campiness__ _Showbiz campiness._  
-__cap__ (capped) _v_ Provide a fitting climax or conclusion to. _The settlement is not capped._  
-__cap__ _v_ _To cap the play._  
+__cap__ (capped) :two: _v_ Provide a fitting climax or conclusion to. _The settlement is not capped._ _To cap the play._  
 __carnation__  
 __carpool__  
 __carry-on bag__  
