@@ -1,3 +1,8 @@
+__shed__ _v_  
+__escrow__  
+__shale__  
+__field__ (fielding) _v_  
++ordeal  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -194,6 +199,7 @@ __blown call__
 __blowout__ _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blue-blood__  
 __bluff__  
+__blunder__ _I've made a lot of computer blunders over de years._  
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ (blurting) :two: /bləːt/ _v_  To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __blustery__ :three: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
