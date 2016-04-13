@@ -1,8 +1,3 @@
-__shed__ _v_  
-__escrow__  
-__shale__  
-__field__ (fielding) _v_  
-+ordeal  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -545,7 +540,7 @@ __epitomize__ (epitomized) :three: Be a perfect example of.
 __epony-mously__  
 __erupted__  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
-__escrow__ :two: :shit: _No escrows required._  
+__escrow__ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __estrange__ _v_ __1__ (often foll by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __eviction__  
 __exact__ (exacting) :two: _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
@@ -585,7 +580,7 @@ __feud__
 __fiat__ _Military fiat._  
 __fiberglass__  
 __fiduciary responsability__  
-__field__ :two: :shit: _v_  
+__field__ (fielding) :three: :shit: _v_  
 __fiery__  
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
@@ -1049,7 +1044,7 @@ __ooze__ (oozing) _Oozing with talent._
 __op-ed__ :four: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open-wheel__ :two: :shit:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
-__ordeal__ :six: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
+__ordeal__ :seven: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outburst__  
@@ -1352,7 +1347,7 @@ __servicers__
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __sewage__ :es: aguas residuales  
 __shackles__ _A bed with built-in shackles._  
-__shale__ :two: :shit:  
+__shale__ :three: :shit:  
 __sham__ _Sham marriages._  
 __shambolic__  
 __shamrock__  
@@ -1360,6 +1355,7 @@ __shanks__ _Roasted pok shanks._
 __shanties__  
 __sharecroppers__  
 __sharpshooters__  
+__shed__ _v_ Park (a vehicle) in a depot.  
 __sheik__ :two: :shit:  
 __shell-shocked__  
 __shift__  
