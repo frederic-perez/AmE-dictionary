@@ -48,12 +48,12 @@ __Whodunit__
 __Wholly Molly__  
 __X's and O's__  
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
-__abreast__ :two: :shit:  
+__abreast__ :two: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __accoitrements__  
 __accolade__ :two: _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accountant__ :es: contable  
 __accrue__  
-__accrued__ :two: :shit:  
+__accrue__ (accrued) :two: _v_ To increase in value or amount gradually as time passes : to grow or build up slowly.  
 __acorn__ _n_ :es: bellota  
 __acreage__  
 __acrimony__ :two: _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
@@ -641,6 +641,7 @@ __frigid__ (frigid winds) Extremely cold.
 __frites__ _Steak frites._  
 __fritter__ :two: :shit: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._  
 __front and center__ :two: :shit:  
+__fruition__ The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __fuddy-duddy__  
 __fudging__ _Fudging statistics._  
 __furlong__ :two: _n_ An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
@@ -1347,8 +1348,8 @@ __servicers__
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __sewage__ :es: aguas residuales  
 __shackles__ _A bed with built-in shackles._  
-__shale__ :three: :shit:  
-__sham__ _Sham marriages._  
+__shale__ :three: A soft kind of rock that splits easily into flat pieces. :es: esquisto, pizarra  
+__sham__ _adj_ Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._  
 __shambolic__  
 __shamrock__  
 __shanks__ _Roasted pok shanks._  
@@ -1356,13 +1357,13 @@ __shanties__
 __sharecroppers__  
 __sharpshooters__  
 __shed__ _v_ Park (a vehicle) in a depot.  
-__sheik__ :two: :shit:  
+__sheik__ :two: :open_mouth: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __shell-shocked__  
 __shift__  
 __shill__ _v_  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
 __shingles__  
-__shoal__ :two: :shit: _The shoals of adolescence._  
+__shoal__ :two: Shallow.  
 __shoddy__  
 __shooing__  
 __shoot up__ _The number of homeless families shot up during the recession._  
@@ -1414,8 +1415,8 @@ __slide__ _An evacuation slide was activated during a flight Wednesday._
 __slighted__  
 __slit > hi-slit dress__  
 __slob__  
-__slog__  
-__slog__ :two: :shit: _An uphill slog._ _Slow slog toward the ideal._  
+__slog__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
+__slog__ :two: _v_ __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slop__ _Residual waste, such as cafeteria food slop._  
 __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy__ _We were a little sloppy in the second half of the game._  
