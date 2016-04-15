@@ -1425,12 +1425,12 @@ __sloth__
 __slow-as-molases__  
 __slugs__  
 __slums__ _A woman from the slums of Rio de Janeiro._  
-__sly__ :two: :shit: _A sly smile._  
+__sly__ :two: Having or showing a cunning and deceitful nature. _A sly smile._ :es: astuto; malicioso  
 __smallpox__  
 __smattering__  
 __smattering__ _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
 __smear__ _They use social media to smear their opponents._  
-__smelting__ :two: :shit: _A smelting factory._  
+__smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smitten__  
 __smolders__  
 __smoothies__  
@@ -1444,7 +1444,7 @@ __snare drums__
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
 __snarl__ _v_  
-__snazzy__ :two: :shit:  
+__snazzy__ :two: _Informal_ Stylish and attractive. _Snazzy little silk dresses._  
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowmobiler__  
 __snub__  
@@ -1480,8 +1480,7 @@ __spry__ _adj_ Lively, active, and brisk; vigorous.
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
 __spurt__ :two: _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._  
-__sputter__ (sputtering) :two: :shit: _The sputtering of many market leaders._  
-__sputtering__  
+__sputter__ (sputtering) :three: _v_ Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._  
 __squabbles__
 __squabbling__ _v_ _A squabbling family._  
 __squalid__:open_mouth: _Squalid home._  
@@ -1494,7 +1493,7 @@ __squirm__ _Squirm-in-your-seat._
 __squit__ _Super-soaker squit guns._  
 __staffer__ :three: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stagger__ _v_ _Walmart will stagger other deals._  
-__staid__ :three: :shit:  
+__staid__ :three: _adj_ Sedate, respectable, and unadventurous. _Staid law firms._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
 __stalwart__ :four: :shit: _The Vladimir Nazarov Theater is a stalwart spot._  
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
