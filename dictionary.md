@@ -1,3 +1,22 @@
+__bedeck__ (bedecked) _v_  
+__spearhead__ _v_  
+__skit__  
+__nuanced__  
+__waifish__  
+__swoon_ _v_  
+__pram__  
+__ribbing__  
+__primly__  
+__yule__  
+__pass policy__  
+__dwtn__  
+__tix__ Tickets?  
+__raffle__  
+__rummage__  
+__luncheon__  
+__neutered__  
+__ACK__  
+__uncouth__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
