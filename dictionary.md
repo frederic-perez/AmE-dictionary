@@ -3,6 +3,7 @@ __spearhead__ _v_
 __skit__  
 __nuanced__  
 __waifish__  
+__gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
 __swoon_ _v_  
 __pram__  
 __ribbing__  
