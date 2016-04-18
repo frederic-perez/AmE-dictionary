@@ -78,7 +78,7 @@ __acorn__ _n_ :es: bellota
 __acreage__  
 __acrimony__ :two: _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
-__actuaries__ :two: :shit: _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
+__actuary__ (actuaries) :two: A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acumen__ :two: :octocat: acumen/acute/agudo _n_ (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza   
 __ad-libs__  
 __adage__  
