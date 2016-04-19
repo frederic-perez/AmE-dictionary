@@ -1,26 +1,7 @@
-__bedeck__ (bedecked) _v_  
-__spearhead__ _v_  
-__skit__  
-__nuanced__  
-__waifish__  
-__gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
-__swoon_ _v_  
-__pram__  
-__ribbing__  
-__primly__  
-__yule__  
-__pass policy__  
-__dwtn__  
-__tix__ Tickets?  
-__raffle__  
-__rummage__  
-__luncheon__  
-__neutered__  
-__ACK__  
-__uncouth__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -166,6 +147,7 @@ __bear__ _Second Amendment: The right of the people to keep and bear arms._
 __bearing__ _It does not have a bearing on whether or not he will be our coach next year._  
 __beau__ :three: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beckon__ (beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
+__bedeck__ (bedecked) _v_  
 __bedevil__  
 __bedrock__  
 __beef up__  
@@ -520,6 +502,7 @@ __durable__ _The end of durable Red John story line is a new beginning._
 __duress__  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwindle__ :two: :shit: _v_  
+__dwtn__  
 __dysfunction__ (dysfunctional) :open_mouth:  
 __dystopian__  
 __earthquake drill__  
@@ -683,6 +666,7 @@ __gaudy__ :two: _adj_ Gay, bright, or colourful in a crude or vulgar manner; gar
 __gaunt__ :es: demacrado  
 __gauze__ (gauzy) :two: :shit: :es: gasa  
 __gazebo__  
+__gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __gelled__ _His hair was neatly gelled._  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
@@ -951,6 +935,7 @@ __ludicrous__
 __lull__  
 __lumber__ :two: :shit: _v_ _Two elephants lumber out of the bush to drink._  
 __lump__ _v_  
+__luncheon__  
 __lunge__  
 __lurk__ (lurked) /ləːk/ :three: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ :three: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
@@ -1031,6 +1016,7 @@ __names and likeness__
 __nana__ _Her nana._  
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nest egg__  
+__neutered__  
 __news media outlets__  
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
 __nightie__  
@@ -1040,7 +1026,7 @@ __nipped__ _The Gaels were nipped at Washington._
 __nonce__  
 __normalcy__ _It took me months to get back to normalcy._  
 __nose > running noses__  
-__nuance__ (nuanced) :two: :shit: _v_  
+__nuance__ (nuanced) :three: :shit: _v_  
 __nugget__  
 __nunchucks__  
 __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._  
@@ -1100,6 +1086,7 @@ __parched__ _The dryness will encompass parched California._
 __parishioner__  
 __parlayed__  
 __particle board__  
+__pass policy__  
 __pat__ _The too search engines haven't been standing pat._   
 __patently__ _Patently absurd._  
 __paucity__ _She was made late by broken trains in Brooklyn and a paucity of taxis._  
@@ -1166,6 +1153,7 @@ __potluck__  Comes from from the practice of throwing leftovers in a pot--with l
 __pounced__ _Critics pounced on the showiness._  
 __power bar__  
 __power strip__  
+__pram__  
 __prance__ _On the floor exercise, Wieber prances, tumbles and smiles._  
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
 __preening__  
@@ -1178,6 +1166,7 @@ __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a ta
 __preventative__ _Preventative antibiotics._  
 __prez__ or __Prez__ :two: _n_ _Informal_ President.  
 __primed__  
+__primly__  
 __proceeds__ _Proceeds from the sale._ :es: ganancias; ingresos  
 __proctor__ University officer (for student discipline)  
 __prod__ :es: _empujón_  
@@ -1218,6 +1207,7 @@ __racinos__
 __racket > extortion rackets__  
 __racketeer__ :two: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racy__ _A racy line from a popular song._  
+__raffle__  
 __rainout__  
 __raked over the coals__  
 __rambling__  
@@ -1277,6 +1267,7 @@ __reveler__
 __revue__ _n_ A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. :es: revista, show  
 __rhetoric__ _From divisive rhetoric to civil dialogue._  
 __rhyming__ :open_mouth:  
+__ribbing__  
 __riches__  
 __rickets__  
 __rifts__ _With deal of troops in danger, Afghan leader provokes further rifts._  
@@ -1306,6 +1297,7 @@ __rue__ _v_ _Pa. town rues sacrifice of its war dead._
 __rug > sweep it under the rug__  
 __rumble__ :three: :shit:  
 __rumblings__ :two: :shit: _Rumblings about the trade._  
+__rummage__  
 __rumple__  
 __run-in__ (run-ins) _A run-in with police._  
 __run-of-the-mill__  
@@ -1421,7 +1413,7 @@ __skid__ :two: _Informal_ __a__ A period of sharp decline or repeated losses. _S
 __skids__ _Shutdown didn't put skids on sales._  
 __skimboard__  
 __skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._  
-__skits__  
+__skit__ (skits) :two: :shit:  
 __skittish__ _A pack of skittish hyenas._  
 __skittishness__  
 __skulking__  
@@ -1435,8 +1427,8 @@ __slide__ _An evacuation slide was activated during a flight Wednesday._
 __slighted__  
 __slit > hi-slit dress__  
 __slob__  
-__slog__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slog__ :two: _v_ __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
+__slog__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slop__ _Residual waste, such as cafeteria food slop._  
 __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy__ _We were a little sloppy in the second half of the game._  
@@ -1481,6 +1473,7 @@ __sow__
 __spangled__  
 __spat__ _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._  
 __spate__ :two: /speɪt/ _n_ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
+__spearhead__ _v_  
 __special-team__  
 __specious__ _Specious argument._  
 __specs__  
@@ -1602,8 +1595,7 @@ __swerve__ (swerves) :two: :shit: _v_
 __swigging__  
 __swimabout__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
-__swoon__  
-__swoon__ :two: :shit: _Apple became the latest market darling to swoon, falling more than 20% from its recent high._  
+__swoon__ :four: :shit: _v_ _Apple became the latest market darling to swoon, falling more than 20% from its recent high._  
 __swooshing__  
 __sycophants__  
 __tab__ (tabbed, tabby) :three: :shit: _Charities, hospitals or individuals had to pay the tab._ _The orange and white tabby cat._  
@@ -1657,6 +1649,7 @@ __tingling__
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
 __tit for tat__  
 __titlist__ _He is the former bantamweight titlist._  
+__tix__ Tickets?  
 __toast → French toast__  
 __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toil__  
@@ -1711,6 +1704,7 @@ __ukuleles__
 __umpteenth__  
 __unanimous__  
 __unassuming__ _Hollande, an unassuming and bespectacled Socialist._  
+__uncouth__  
 __underpinning__  
 __understandably__  
 __understandably__  
@@ -1774,6 +1768,7 @@ __wad__ _Wads of cash._
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __waffle__ _v_  
 __waft__ _v_ _Fine powder that wafts up from footsteps like flour._  
+__waifish__  
 __waive__ _v_  
 __waive__ _v_  
 __waived__  
@@ -1849,6 +1844,7 @@ __yarn__
 __yawning__ _Yawning aperture._  
 __yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yokels__  
+__yule__  
 __zany__ :three: :shit:  
 __zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero-sum game__  
