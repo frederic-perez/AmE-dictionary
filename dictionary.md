@@ -9,12 +9,12 @@ __Big Three__ _(automobile manufacturers)_ The three major American automotive c
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
-__Chicken Littles__  
+__Chicken Little__ (Chicken Littles) _n_ An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __ELIA5__ Explain Like I Am 5.  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __F-bomb__  
 __FT__ _Sports_ Full-time.  
-__Fab Four__  
+__Fab Four__ The Beatles.  
 __French door__ _French door fridge._  
 __GED__ (GED exam) :two: The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __Generation Xers__  
@@ -239,7 +239,7 @@ __buckeyes__
 __bucking__ _v_  
 __buckle down (to something)__ _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__  
-__buckle__ :two: :shit: _v_ _Pamela fell as the floor buckled._  
+__buckle__ :two: :shit: _v_ Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
 __buff bod__  
 __buff__ _Some folks are movie buffs._ :es: entusiasta  
 __buffeted__  
