@@ -93,7 +93,7 @@ __aping__
 __aplomb__ :two: _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __appall__ (appalled) _v_ :open_mouth: :es: horrorizar, espantar  
 __appeal__ _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
-__appease__ :two: :shit:  
+__appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appetizer__ :open_mouth: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __aquaponic__  
