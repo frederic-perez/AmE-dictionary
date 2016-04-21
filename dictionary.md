@@ -117,7 +117,7 @@ __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally
 __back breaker__  
 __back-to-back__  
 __backdrop__ _These massacres took place against the backdrop of a war._  
-__backlog__ :two: :shit: _Russia has a huge backlog of basic knowledge._  
+__backlog__ :two: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
@@ -155,7 +155,7 @@ __befitting__
 __begrudge__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
 __behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
-__behest__ :two: :shit:  
+__behest__ :two: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ _The wedding ceremony was a joy to behold._  
 __beholden__ :two: _adj_ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ _Everything's in the eye of the beholder._  
@@ -178,7 +178,7 @@ __bespectacled__ _Hollande, an unassuming and bespectacled Socialist._
 __bestow__ :five: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bettors__  
 __bevy__  
-__bicker__ (bickering) :two: :shit: _v_ _The time for bickering is over._  
+__bicker__ (bickering) :two: _v_ Argue about petty and trivial matters. _The time for bickering is over._  
 __bigot__ /ˈbɪɡət/ _n_ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __billing__ _Now, the women's contest will take second billing._  
 __billow__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
@@ -239,7 +239,7 @@ __buckeyes__
 __bucking__ _v_  
 __buckle down (to something)__ _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__  
-__buckle__ :two: :shit: _v_ Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
+__buckle__ :two: _v_ Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
 __buff bod__  
 __buff__ _Some folks are movie buffs._ :es: entusiasta  
 __buffeted__  
@@ -275,7 +275,7 @@ __butting head__
 __buttinski__  
 __buttress__ (buttressed) :three: _v_ Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buybacks__  
-__buyout__ (buyouts) :two: :shit: _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
+__buyout__ (buyouts) :two: _n_ The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __by and large__ :es: en líneas generales, en general  
 __bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
 __byzantine__ :open_mouth: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
@@ -296,7 +296,7 @@ __cart__ _v_ _Quincy was carted off the field._
 __catechism__ :open_mouth:  
 __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint 
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__cave__ :two: :shit: _v_  
+__cave__ :two: :shit: _v_ Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
 __ce__  
 __cede__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
