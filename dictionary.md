@@ -1,3 +1,7 @@
+__back-to-back__  *2  
+__tapering__  
+__Fr.__ vs Sr, So, Jr  
+__bode__ _v_  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
