@@ -296,7 +296,7 @@ __cart__ _v_ _Quincy was carted off the field._
 __catechism__ :open_mouth:  
 __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint 
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__cave__ :two: :shit: _v_ Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
+__cave__ :two: _v_ Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
 __ce__  
 __cede__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
@@ -329,7 +329,7 @@ __claret__
 __clear air__  
 __clearinghouse__  
 __cleave__ _v_ _The court often cleaves along predictable lines._  
-__clinch__ :four: :shit: _A 45-yarder clinched the game._  
+__clinch__ :four: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._  
 __clique__ _n_ A small exclusive group of friends or associates. _:es: camarilla_  
 __cloak__ :es: capa, manto
 __clock__ _v_ _He was clocked at 95 mph in a 55-mph construction zone._  
@@ -345,7 +345,8 @@ __co-op__
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coffee-table book__  
 __coffers__ _San Francisco city coffers._  
-__cog__ :two: :shit:  
+__cog__ :two: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar.
+_The cogs and springs of a watch._ :es: diente de rueda  
 __coif__ _Strange coif._  
 __colander__  
 __coma__ _Medically induced coma._  
@@ -377,7 +378,7 @@ __contention__ :two: Heated disagreement. :es: contienda
 __contentious__  
 __contiguous > the contiguous U.S.__  
 __contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
-__convene__ (convenes) :two: :shit: _v_  
+__convene__ (convenes) :two: _v_ Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse  
 __copper-bottom hit__  
 __cord blood__  
 __counsel__  
@@ -1845,7 +1846,7 @@ __yawning__ _Yawning aperture._
 __yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yokels__  
 __yule__  
-__zany__ :three: :shit:  
+__zany__ :three: _adj_ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky  
 __zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero-sum game__  
 __zingers__  
