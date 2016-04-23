@@ -1,5 +1,22 @@
 __back-to-back__  *2  
 __tapering__  
+__eye black__ _He displayed a homophobic slur on his eye black._  
+__garnered__  
+__spearheaded__  
+__statement__  
+__open-wheel cars__  
+__lug nut__ _NASCAR's lug nut policy irks Stewart._  
+__outlast__ _v_  
+__aggravated__  
+__tourney__  
+__standout__  
+__bonfire__  
+__wraparound season__  
+__yank__ _v_ To fire?  
+__tirade__  
+__apologist__  
+__soft-spoken__  
+__for the ages__ _A year for the ages._  
 __Fr.__ vs Sr, So, Jr  
 __bode__ _v_  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
