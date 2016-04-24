@@ -1,5 +1,40 @@
 __back-to-back__  *2  
 __tapering__  
+__ebullient__  
+__sanitize__ _v_  
+__prep__ _v_  
+__tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
+__king of the hill__  
+__defection__  _Booing over Heyward's defection._  
+__bid__ _The cubs and Cardinals bid farewell until next month._  
+__strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
+__prowess__  
+__clout__ _The Cubs are unleashing their new clout._  
+__upside__ _I like his speed, and I like his upside._  
+__oblige__  
+__mileage__  
+__accrued__  
+__portend__  
+__stardom__  
+__gridiron__  
+__upfield__  
+__slough__ _Henry sloughs off questions about his odometer._  
+__odometer__  
+__slider__ _What's up with someone's slider?_  
+__allotment__  
+__breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
+__savagery__  
+__womanizing__  
+__marzipan__  
+__squeamishness__  
+__M.O.__ Modus operandi?  
+__statesmen__ (notice, not 'statement')  
+__concoction__  
+__brimming__  
+__cuppa__  
+__corgi__  
+__walkabout__  
+__whoopee__  
 __eye black__ _He displayed a homophobic slur on his eye black._  
 __garnered__  
 __spearheaded__  
