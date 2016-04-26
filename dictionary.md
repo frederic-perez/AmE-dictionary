@@ -1,3 +1,13 @@
+__hatched__ _Hatching tech secrets._  
+__blackface__  
+__mistrel__ _A popular minstrel show, such as "Jim Crow."_  
+__giddiness__  
+__depress__ _v_ _Depressing a company's value._  
+__dean__  
+__tantamount__  
+__abhorrent__  
+__memos__  
+__balked__ _v_  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
