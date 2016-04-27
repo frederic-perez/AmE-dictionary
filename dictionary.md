@@ -1,4 +1,3 @@
-
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -121,7 +120,7 @@ __avocation__ _n_ An activity taken up in addition to one's regular work or prof
 __awash__ _Wall Street was awash in red ink all day._  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __back breaker__  
-__back-to-back__ :three: :shit:    
+__back-to-back__ :three: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backdrop__ _These massacres took place against the backdrop of a war._  
 __backlog__ :two: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
@@ -210,7 +209,7 @@ __blurt__ (blurting) :two: /bləːt/ _v_  To say something suddenly and without 
 __blustery__ :three: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __bobby socks__  
 __bod__  
-__bode__ :five: :shit: _v_ _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
+__bode__ :five: :shit: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __boilers__    
 __bologna__  
 __bolster__ :two: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
@@ -419,14 +418,14 @@ __curtail__ :two: Reduce in extent or quantity; impose a restriction on. _The go
 __cusp__ _The cusp of the largest immigration wave._  
 __customer → tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
-__dais__ :two: :shit:  
+__dais__ :two: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dallying__  
 __dangle__ _v_ _Garret seems to be dangling by a thread._  
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __dare__  
 __darn__  
 __daubed__ _A swastika was daubed on a science center window._  
-__daunting__ :two: :shit:  
+__daunting__ :two: Seeming difficult to deal with in prospect; intimidating.  
 __dazzling__  
 __dean__  
 __decaf__ Decaffeinated coffee.  
@@ -451,7 +450,7 @@ __demonize__
 __demonstrate__ :open_mouth:  
 __denizens__  
 __denouement__  
-__depleted__ :two: :shit: _It also helps restore depleted neurotransmitter levels._  
+__depleted__ :two: _v_ Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __depress__ _v_ _Depressing a company's value._  
 __despondent__  
 __devolve__ _v_ _The party must devolve power._  
