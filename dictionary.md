@@ -1,13 +1,4 @@
-__hatched__ _Hatching tech secrets._  
-__blackface__  
-__mistrel__ _A popular minstrel show, such as "Jim Crow."_  
-__giddiness__  
-__depress__ _v_ _Depressing a company's value._  
-__dean__  
-__tantamount__  
-__abhorrent__  
-__memos__  
-__balked__ _v_  
+
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -60,6 +51,7 @@ __VA__ _VA medical centers._
 __Whodunit__  
 __Wholly Molly__  
 __X's and O's__  
+__abhorrent__  
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
 __abreast__ :two: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __accoitrements__  
@@ -137,7 +129,7 @@ __baddie__ _It's just what Bond fans want in a baddie._
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __baggie__  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
-__balk__ /bɔːlk,bɔːk/ :two: _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
+__balk__ /bɔːlk,bɔːk/ (balked) :three: _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
 __balky__ (balking) :three: /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ballasr__  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
@@ -199,6 +191,7 @@ __billing__ _Now, the women's contest will take second billing._
 __billow__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __birch__ _Birch and oak in stock._  
 __bivouac__ :open_mouth:  
+__blackface__  
 __blanket__ _The security blanket._  
 __blather__  
 __bleak__ :three: :shit:  
@@ -435,6 +428,7 @@ __darn__
 __daubed__ _A swastika was daubed on a science center window._  
 __daunting__ :two: :shit:  
 __dazzling__  
+__dean__  
 __decaf__ Decaffeinated coffee.  
 __decommissioned__  
 __decommits__  
@@ -458,6 +452,7 @@ __demonstrate__ :open_mouth:
 __denizens__  
 __denouement__  
 __depleted__ :two: :shit: _It also helps restore depleted neurotransmitter levels._  
+__depress__ _v_ _Depressing a company's value._  
 __despondent__  
 __devolve__ _v_ _The party must devolve power._  
 __dicey__  
@@ -694,6 +689,7 @@ __gearbox__
 __gelled__ _His hair was neatly gelled._  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __getaway day__  
+__giddiness__  
 __gills > packed to the gills__ :two: :shit:  
 __gingham__  
 __girders__  
@@ -764,8 +760,8 @@ __hark__ _v_
 __harried__ _A harried mom._  
 __harrowing__ _A harrowing oddyssey._  
 __harry__ _v_ _The weather will continue to harry firefighters._  
-__hatch__ _Hatch of insects._  
-__hatched__  
+__hatch__ _n_ _Hatch of insects._  
+__hatch__ (hatched) _v_ _Hatching tech secrets._  
 __haul > long haul__ _We are ready to go long haul._  
 __hauteur__  
 __haymaker__  
@@ -997,6 +993,7 @@ __mecca__
 __medallions__ _Taxi medallions._  
 __meds__  
 __mellow__  
+__memos__  
 __mesh strainer__  
 __meted out__ _v_ _All the suspensions have been meted out._  
 __mettle__ :two: _n_ The courage to carry on: _It's the first real test of his mettle this season._  
@@ -1012,6 +1009,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __mired__ _v_  
 __misnomer__ :two: :shit:  
+__mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mitzvah__  
 __molehill__  
 __mollify__ _v_  
@@ -1648,6 +1646,7 @@ __tank__ (tanked) _The market tanked._
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
+__tantamount__  
 __taper__ (tapering) :two: :shit:_High schools don't see athletic trainers as ankle tapers._  
 __taps__ _A bugler played taps._  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
