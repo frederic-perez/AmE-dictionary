@@ -546,7 +546,7 @@ __end run__ :two: :shit:
 __endearing__ :three: _adj_ Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endow__ _v_  
 __enlivened__  
-__ensconced__ :two: :shit:  
+__ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __entitlement__  
@@ -600,7 +600,7 @@ __feud__
 __fiat__ _Military fiat._  
 __fiberglass__  
 __fiduciary responsability__  
-__field__ (fielding) :three: :shit: _v_  
+__field__ (fielding) :three: _v_ __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game.  
 __fiery__  
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
@@ -615,7 +615,7 @@ __flag__ _v_
 __flair__ :four: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flatbread__ _Flatbread sandwiches._  
 __flatware coins__  
-__fledgling__ :three: :shit: :open_mouth:  
+__fledgling__ :three: :open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped.  
 __fleecy__  
 __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
