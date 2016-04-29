@@ -1,3 +1,56 @@
+__ample__  
+__capsized__  
+__Empire State__  
+__vitriol__  
+__stump speech__  
+__low-key__  
+__mogul__  
+__varsity__  
+__malfeasance__  
+__nooses__  
+__pallets__  
+__plane__  
+__gravesite__  
+__back out__  
+__stiffle__ _v_  
+__punctuate__  
+__skittish__  
+__embattled__  
+__suitors__  
+__subdue__  
+__moribund__  
+__vetting__  
+__onerous__  
+__nitpick__  
+__forego__  
+__rooster__  
+__oomph__  
+__svelte__  
+__flub__ _Political flubs._  
+__litany__  
+__fawn__  
+__trampled__  
+__ignition interlocks__  
+__upend__  
+__ominous__  
+__ornery__  
+__disrupt__  
+__restraint__  
+__disgruntled__  
+__crucible__  
+__toss-ups__  
+__hawkish__  
+__fore__  
+__barnstorm__  
+__whisk__  
+__perch__  
+__caliph__  
+__ramparts__  
+__ails__ _v_  
+__libation__  
+__bauble__  
+__grizzled__  
+__leeway__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
