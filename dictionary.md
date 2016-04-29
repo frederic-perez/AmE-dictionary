@@ -507,7 +507,7 @@ __dredge up__ :two: :shit:
 __drench__ (drenched)  
 __drive__ _The drive by Senate Democrats to change the rules._  
 __drivetrains__  
-__drought__ :two: :shit:  
+__drought__ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drum up__  
 __druthers__  
 __duds__ :two: :shit:  
