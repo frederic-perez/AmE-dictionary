@@ -3,6 +3,9 @@ __capsized__
 __Empire State__  
 __vitriol__  
 __stump speech__  
+__spearhead__ _v_  
+__stalwart__  
+__cap__ _Small-cap shares._  
 __low-key__  
 __mogul__  
 __varsity__  
