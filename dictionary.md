@@ -1,5 +1,53 @@
 __ample__  
 __capsized__  
+__disbar__ _Disbar attorney._  
+__State Bar__ _A State Bar judge._  
+__Muni bus__  
+__redwood__  
+__sorrel__  
+__Dem__  
+__crusty__  
+__to his name__ _Bernie died with $1.09 to his name._  
+__bedfellow__  
+__rank-and-file officers__  
+__raft__ _A raft of reforms._  
+__receivership__  
+__bevy__  
+__shutter__ _The finest selection of custom shutters since 1973._  
+__bespoke__  
+__impermissible__  
+__fleece__  
+__eye black__ _Escobarwas fined for wearing a homophobic slur on his eye black._  
+__stock car racing__  
+__swoon__  
+__inroads__  
+__adamant__  
+__overachieve__  
+__telltale__  
+__travelogue__  
+__haul__ _It's a small haul for such a high-profile program._  
+__cleats__  
+__hoary__  
+__tropes__  
+__flop__ _v_  
+__clicking__ _Things seem to be making sense and clicking._  
+__relinquish__  
+__clout__  
+__such-and-such__  
+__brash__ _It sounded brash._  
+__flub__  
+__nimble__  
+__wallowing__  
+__warrant__ _v_  
+__vindicate__ _v_  
+__locale__ _We want to recruit nationally, but in our locale we have talent._  
+__slop__  
+__overly__  
+__snag__ _v_  
+__moot__  
+__snap__ _Played seven more snaps._  
+__concussion__  
+__backdrop__  
 __rallied__ _The euro initially rallied by the most in nearly a month._  
 __steady__  
 __ramp up__  
@@ -11,7 +59,7 @@ __wrethes__
 __upstarts__ _The digital upstarts are shifting focus to television._  
 __keen__ _The native digital companies are keen on TV._  
 __cusp__ _The regulations are on the cusps of changing._  
-__swoop__  
+__swoop__ :two:  
 __clampdown__  
 __upmarket__  
 __stalwart__  
