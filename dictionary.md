@@ -1,5 +1,38 @@
 __ample__  
 __capsized__  
+__showtime__  
+__yearning__  
+__chip-in__  
+__boosters__ _Mississippi boosters._  
+__impermissible__  
+__inducements__  
+__bylaw__  
+__stiffle__  
+__cadres__ _Party cadres._  
+__besmirch__  
+__rift__ _Political rift._  
+__dour__  
+__rank-and-file__  
+__wield__  
+__gavel__  
+__reconvene__  
+__quip__  
+__eyeball__  
+__possum__  
+__headwinds__  
+__comptroller__  
+__landfills__  
+__freeloading__  
+__waning__  
+__medevac helicopter__  
+__shrapnel__  
+__putty__  
+__raft__ A large collection or quantity.  
+__windlass__  
+__caucus__  
+__shill__  
+__inching__  
+__encore__  
 __disbar__ _Disbar attorney._  
 __State Bar__ _A State Bar judge._  
 __Muni bus__  
