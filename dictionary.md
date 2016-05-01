@@ -1,5 +1,21 @@
 __ample__  
 __capsized__  
+__rallied__ _The euro initially rallied by the most in nearly a month._  
+__steady__  
+__ramp up__  
+__slide__ _A slide in the euro from yesterday's highs._  
+__jamboree__  
+__angst__  
+__ploughed__  
+__wrethes__  
+__upstarts__ _The digital upstarts are shifting focus to television._  
+__keen__ _The native digital companies are keen on TV._  
+__cusp__ _The regulations are on the cusps of changing._  
+__swoop__  
+__clampdown__  
+__upmarket__  
+__stalwart__  
+__spearheading__  
 __Empire State__  
 __vitriol__  
 __stump speech__  
