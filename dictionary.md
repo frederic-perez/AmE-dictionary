@@ -1,6 +1,17 @@
 __decals__  
 __rank__ _v_  
 __qualm__  
+__nimbly__  
+__broncobusting__  
+__bestow__  
+__cull__ _Cowboys have to cull a steer from the herd._  
+__jostling__ _Cows are jostling for space._  
+__rhapsodize__  
+__stalwart__  __walk on water__  
+__clout__  
+__smitten__ _He was smitten by the landscape._  
+__cover charge__  
+__thwart__  
 __marquee__ _Marquee game._  
 __utterly__  
 __disarray__  
