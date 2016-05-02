@@ -1,3 +1,45 @@
+__decals__  
+__rank__ _v_  
+__qualm__  
+__marquee__ _Marquee game._  
+__utterly__  
+__disarray__  
+__beleaguered__ :two:  
+__kick the can__  
+__chastize__ _v_  
+__standout__  
+__aboveboard__  
+__ballcap__  
+__lean__ _He is lean fast._  
+__jostled__  
+__clunker__  
+__dudly__  
+__pushover__  
+__returnee__  
+__Prep__  
+__signee__  
+__elite__  
+__champ__  
+__forgo__ _v_  
+__tixker__  
+__bleed blue__  
+__gruff__  
+__alum__  
+__keeled__  
+__pout__ _v_  
+__meme__  
+__enthused__  
+__fire sale__  
+__Frappuccino__  
+__fannies__  
+__snickering__  
+__livid__  
+__garner__ _v_  
+__eked out__  
+__dichotomy__  
+__knuckleball__  
+__knuckler__  
+__bid__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
