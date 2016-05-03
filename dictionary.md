@@ -1,8 +1,25 @@
 __normalcy__  
 __vanquish__  
-__la
+__bromance__  
+__scrap__ _v_  
+__bellwether__  
+__convene__  
+__pelt__  
+__enmity__  
+__ratched up__  
+__underwrite__  
+__swift__  
+__bedeviled__  
+__beset__  
+__downpours__  
+__torpor__  
+__rave__  
+__referenda__  
+__staunchest__  
+__steadfast__  
 __stipend__  
-ughingstock__  
+__laughingstock__  
+__stance__  
 __flub__ _v_  
 __obverse__ _The obverse hub of a coin._  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
