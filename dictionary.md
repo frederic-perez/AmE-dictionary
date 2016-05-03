@@ -200,7 +200,7 @@ __bestow__ :six: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _S
 __bettors__  
 __bevy__ :two:  
 __bicker__ (bickering) :two: _v_ Argue about petty and trivial matters. _The time for bickering is over._  
-__bid__ :two: :shit: _The cubs and Cardinals bid farewell until next month._  
+__bid__ :two: Offer (a certain price) for something, especially at an auction.  
 __bigot__ /ˈbɪɡət/ _n_ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __billing__ _Now, the women's contest will take second billing._  
 __billow__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
@@ -226,7 +226,7 @@ __blurt__ (blurting) :two: /bləːt/ _v_  To say something suddenly and without 
 __blustery__ :three: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __bobby socks__  
 __bod__  
-__bode__ :five: :shit: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
+__bode__ :five: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __boilers__    
 __bologna__  
 __bolster__ :two: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
@@ -454,7 +454,7 @@ __curry__ _v_
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__  
 __curtail__ :two: Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ :es: hacer restringir  
-__cusp__ :two: :shit: _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
+__cusp__ :two: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __customer → tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dais__ :two: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
@@ -474,7 +474,7 @@ __decommits__
 __decry__ (decried; decrying) :five: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __deductibles__  
 __default__ _v_  
-__defected__ :two: :shit: _v_  
+__defect__ (defected) :two: _v_ Abandon one's country or cause in favour of an opposing one. _He defected to the Soviet Union after the war._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defector__ Baseball position? _Army defectors._  
 __deflection__  
@@ -501,12 +501,12 @@ __diecast__
 __dikes__ :open_mouth:  
 __ding up__ _v_  
 __dire__ _Doctors warned of dire consequences._  
-__disarray__ :two: :shit: _A matchup of teams that are in disarray._  
+__disarray__ :two: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos  
 __disbar__ _Disbar attorney._  
 __discharge__ _His honorable discharge in 1974._  
 __discounter__ _n_  
 __discourse__  
-__disgruntled__ :two: :shit:  
+__disgruntled__ :two: _adj_ Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disinfectant__ :open_mouth: _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __dismal__ _adj_ Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
 __dismissive__ _Healthy young adults often are dismissive of health issues._  
