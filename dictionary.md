@@ -1,3 +1,10 @@
+__normalcy__  
+__vanquish__  
+__la
+__stipend__  
+ughingstock__  
+__flub__ _v_  
+__obverse__ _The obverse hub of a coin._  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
