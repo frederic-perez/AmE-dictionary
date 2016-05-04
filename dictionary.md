@@ -1,3 +1,43 @@
+__skullcap__  
+__flotilla__  
+__relinquish__  
+__leniently__  
+__redress__  
+__snub__  
+__moot__  
+__double down__  
+__staunchest__  
+__elope__  
+__heed__ _v_  
+__lectern__  
+__leery__  
+__awash__  
+__fledging__  
+__grappling__  
+__stump__  
+__hardship__  
+__overly__  
+__curbs__  
+__rub__ _n_  
+__quell__  
+__dissent__  
+__havoc__
+__wean__  
+__vagaries__  
+__clunker__  
+__ginning__  
+__knee-jerk hawk__  
+__trail mix__  
+__diffident__  
+__debutante__  
+__schmooze__  
+__strivers__  
+__din__  
+__toot__  
+__jab__ _v_  
+__mendacity__  
+__workaday__  
+__dime > on the dime__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
