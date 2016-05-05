@@ -1,3 +1,40 @@
+__throes__  
+__quirkier__  
+__teeters__  
+__giddy__  
+__queasy__  
+__flair__  
+_=lay__ _Lay reader._  
+__anomic__  
+__repeieve__  
+__round out__  
+__omen__  
+__bedeviled__  
+__linchpin__  
+__poise__  
+__burnish__  
+__extol__  
+__breach__ _v_  
+__sweltering__  
+__knit__  
+__buffeted__  
+__jumble__  
+__also-run__  
+__trifecta__  
+__ballyhooed__  
+__fickle__  
+__trickle__  
+__stance__  
+__scathing__  
+__folly__  
+__bolstered__  
+__misgivings__  __teetering__  
+__leery__  
+__decry__  
+__outlandish__
+__stalwart__  
+__gutsy__  
+__ballpark__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
