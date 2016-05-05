@@ -2,9 +2,44 @@ __throes__
 __quirkier__  
 __teeters__  
 __giddy__  
+__pileup__  
+__budding__  
+__swaths__  
+__bevy__  
+__thecracy__  
+__curtailment__  
+__outcry__  
+__seawall__  
+__scammed__  
+__stranded__  
+__snowshoeing__  
+__frostbite__  
+__whiteout__  
+__snubs__  
+__by storm__  
+__headdress__  
+__evicted__  
+__spate__  
+__black powder__  
+__ethos__  
+__fretful__  
+__spillover__  
+__forfeit__  
+__enact__  
+__appraisal__  
+__wallow__  
+__searing__  
+__kiki__  
+__filibuster__  
+__crepe__  
+__belittling__  
+__partake__  
+__mongering__  
+__panderer__  
+__malarkey__  
 __queasy__  
 __flair__  
-_=lay__ _Lay reader._  
+__lay__ _Lay reader._  
 __anomic__  
 __repeieve__  
 __round out__  
