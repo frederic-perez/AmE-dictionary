@@ -694,7 +694,8 @@ __floppy → floppy socks__
 __flotilla__  
 __flounder__ (floundering) _v_  
 __flout__ (flouted, flouting) :three: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
-__flub__ (flubbed) :five: :shit: _Political flubs._  
+__flub__ (flubbed) :four: _v_ Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
+__flub__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluke__ :four: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flurry__ :three: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __fluster__ :two: _v_ Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
@@ -748,7 +749,7 @@ __gamine__
 __gantlet__  
 __garish__ _They are charming and garish at the same time._  
 __garland__ _Garland motifs on carved oak paneling._  
-__garner__ (garnered) :five: :shit: _v_ _Garner interest._  
+__garner__ (garnered) :five: _v_ Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __gaudy__ :two: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: chillón, hortera  
 __gaunt__ :es: demacrado  
 __gauze__ (gauzy) :two: :shit: :es: gasa  
@@ -1072,7 +1073,7 @@ __mantle__ :two: An important role or responsibility that passes from one person
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __markdown__  
 __markup__ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._  
-__marquee__ :six: :shit: _Marquee game._ _Marquee grouping._ _Marquee matchup._  
+__marquee__ :six: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._  
 __marred__ :two: :shit: _v_  
 __marshland__  
 __mart__ A place of trade, eg. an auction room or market.  
@@ -1678,7 +1679,7 @@ __squit__ _Super-soaker squit guns._
 __staffer__ :three: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stagger__ _v_ _Walmart will stagger other deals._  
 __staid__ :three: _adj_ Sedate, respectable, and unadventurous. _Staid law firms._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
-__stalwart__ :seven: :shit: _The Vladimir Nazarov Theater is a stalwart spot._  
+__stalwart__ :seven: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
 __stance__ :four: :shit:  
@@ -1774,7 +1775,7 @@ __swift__
 __swigging__  
 __swimabout__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
-__swoon__ :five: :shit: _v_ _Apple became the latest market darling to swoon, falling more than 20% from its recent high._  
+__swoon__ :five: _v_ __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop__ :two:  
 __swooshing__  
 __sycophants__  
