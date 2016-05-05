@@ -383,7 +383,7 @@ __cloture__
 __cloud → to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __clout__ :six: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __cloying__ _She is cordial without being cloying._  
-__clunker__ (clunkers) :four: :shit:  
+__clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clutch player__  
 __clutch__ _He was a dominant player in the clutch._  
 __co-op__  
@@ -1203,7 +1203,7 @@ __over the moon__ _British Informal_ Extremely happy; delighted. _We are over th
 __over-under__  
 __overachieve__  
 __overarching__  
-__overly__ :two: :shit:  
+__overly__ :three: _adv_ Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __oversee__ _Oversee compliance._  
 __overwrought__ _Overwrought adults_  
 __paeans__  
@@ -1644,7 +1644,7 @@ __sow__
 __spangled__  
 __spat__ _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._  
 __spate__ :two: /speɪt/ _n_ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
-__spearhead__ (spearheaded, spearheading) :four: :shit: _v_  
+__spearhead__ (spearheaded, spearheading) :four: _v_ Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specious__ _Specious argument._  
 __specs__  
@@ -1682,9 +1682,9 @@ __staid__ :three: _adj_ Sedate, respectable, and unadventurous. _Staid law firms
 __stalwart__ :seven: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
-__stance__ :four: :shit:  
+__stance__ :four: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __standings__ :two: _Pac-12 Standings_ _:es: clasificación_  
-__standout__ :four: :shit:  
+__standout__ :four: _Informal_ _adj_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standstill__ _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __staph__ _Staph infections._  
 __stardom__  
