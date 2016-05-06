@@ -130,7 +130,7 @@ __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd 
 __autoclaving__  
 __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
-__awash__ :two: :shit: _Wall Street was awash in red ink all day._  
+__awash__ :two: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash. _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places. __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __back breaker__  
 __back out__  
@@ -1171,6 +1171,7 @@ __nest egg__
 __neutered__  
 __news media outlets__  
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
+__nifty__ _adj_ _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __nightie__  
 __nimble__ (nimbler, nimbly) :four: :shit:    
 __nineloss__ ?  
