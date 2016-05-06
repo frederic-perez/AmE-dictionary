@@ -1,4 +1,4 @@
-____rank-and-file__ _Rank-and-file employees._  
+__rank-and-file__ _Rank-and-file employees._  
 __stringently__  
 __fledgling__ :two:  
 __merchant__  
@@ -115,7 +115,7 @@ __analyst__ :open_mouth:
 __angst__ :two: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__  
 __animosity__  
-__annuity__ (annuities) :two: shit:  
+__annuity__ (annuities) :two: :shit:  
 __anomic__  
 __antics__ :two: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __apalling__ _adj_ :es: espantoso _(awful)_ pésimo  
@@ -144,7 +144,7 @@ __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd 
 __autoclaving__  
 __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
-__awash__ :two: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash. _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places. __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ :two: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __back breaker__  
 __back out__  
@@ -174,7 +174,7 @@ __barnstorm__
 __barrage__ :four: _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __basket case__  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
-__batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agwent._  
+__batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bauble__  
