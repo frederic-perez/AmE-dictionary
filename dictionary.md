@@ -1,3 +1,17 @@
+____rank-and-file__ _Rank-and-file employees._  
+__stringently__  
+__fledgling__ :two:  
+__merchant__  
+__advent__  
+__riches__  
+__inroads__  
+__hoopla__  
+__hogged__  
+__readily__  
+__stoke__ _v_  
+__lugging__  
+__the "m" word__  
+__frumpy__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
