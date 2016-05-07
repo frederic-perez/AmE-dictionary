@@ -1,6 +1,18 @@
 __rank-and-file__ _Rank-and-file employees._  
 __stringently__  
 __fledgling__ :two:  
+__rally__ _Economy_  
+__shy of__ _Just shy of its highest mark._  
+__buoy__ (buoyed) _v_ :two:  
+__confounded__  
+__exacerbated__  
+__haemophilia__  
+__black gold__  
+__crackling__  
+__yin and yang__  
+__sloshing__  
+__scrambling__  
+__headwind__  
 __merchant__  
 __salvo__  
 __kicking the can down the road__  
