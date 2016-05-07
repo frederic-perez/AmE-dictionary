@@ -2,6 +2,33 @@ __rank-and-file__ _Rank-and-file employees._
 __stringently__  
 __fledgling__ :two:  
 __merchant__  
+__salvo__  
+__kicking the can down the road__  
+__upstream__  
+__impairment__  
+__skirting__  
+__uptake__  
+__mixed bag__  
+__confounding__  
+__loot__ _v_  
+__autorickshaws__  
+__rickshaw__  
+__profiteering__  
+__undercut__  
+__turnround__  
+__rapidly__  
+__turnover__  
+__water down__  
+__tarnish__  
+__doghouse__  
+__bemoan__  
+__maturities__ _List of maturities._  
+__subterfuge__  
+__crossover__ _Crossover zone._  
+__mishap__  
+__glut__  
+__curtailed__  
+__mopping up__  
 __shrift__  
 __deferral__  
 __deferred__ _v_  
