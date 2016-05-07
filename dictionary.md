@@ -18,6 +18,7 @@ __salvo__
 __kicking the can down the road__  
 __upstream__  
 __impairment__  
+__portend__  
 __skirting__  
 __uptake__  
 __mixed bag__  
@@ -173,7 +174,7 @@ __aping__
 __aplomb__ :two: _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apologist__  
 __appall__ (appalled) _v_ :open_mouth: :es: horrorizar, espantar  
-__appeal__ _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
+__appeal__ _:two: :shit: His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appetizer__ :open_mouth: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
@@ -299,8 +300,7 @@ __bod__
 __bode__ :five: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __boilers__    
 __bologna__  
-__bolster__ (bolstered) _v_  
-__bolster__ :two: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
+__bolster__ (bolstered) :four: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bombast__ _Let's drop the bombast and look at the evidence._  
 __bondage__  
@@ -325,8 +325,7 @@ __brazen__ _Brazen lyrics._
 __breach__ _v_  
 __break-the-china__  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
-__breakout star__  
-__breakout__ _He's a total breakout character._  
+__breakout__ :two: :shit: _He's a total breakout character._  
 __brethren__ _Political brethren._  
 __brickbats__  
 __brimming__  
@@ -335,7 +334,7 @@ __britches__ _We think that you're a little too big for your britches._
 __broker__ (brokered) :two: _v_ _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._  
 __bromance__  
 __broncobusting__  
-__brooding__ :three: shit:  
+__brooding__ :three: _shit:  
 __brouhaha__  
 __brush__ _To brush fires in California._  _The goats cleared brush._  
 __buckeyes__  
