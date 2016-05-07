@@ -2,6 +2,17 @@ __rank-and-file__ _Rank-and-file employees._
 __stringently__  
 __fledgling__ :two:  
 __merchant__  
+__shrift__  
+__deferral__  
+__deferred__ _v_  
+__recoup__  
+__wilful__  
+__clawback__  
+__underwhelming__  
+__fly-by-night__
+__crackdown__  
+__grappled__  
+__spillover__  
 __advent__  
 __riches__  
 __inroads__  
