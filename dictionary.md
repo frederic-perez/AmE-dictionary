@@ -9,6 +9,17 @@ __exacerbated__
 __haemophilia__  
 __black gold__  
 __crackling__  
+__dog sledding__  
+__mushers__  
+__zip-line__ (zip-lining)  
+__shindig__  
+__boondoggle__  
+__dire__  
+__plumb__ _v_  
+__grudging__  
+__fastidious__  
+__conjure__  
+__larger-than-life__  
 __yin and yang__  
 __sloshing__  
 __scrambling__  
