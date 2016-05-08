@@ -96,7 +96,7 @@ __K-12__ _K-12 population._
 __KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxing match; knock out.  
 __M.O.__ Modus operandi?  
 __Main Street__  
-__Millennials__
+__Millennials__  
 __Motor City__ Detroit.  
 __Muni bus__  
 __Old Dominion__ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
@@ -110,7 +110,7 @@ __RGA__ _RGA chairman._
 __Reuben James__  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS?
 __SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges.  
-__Spainish__  
+__Spainish__ (typo?)  
 __Spanish moss__  
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __State Bar__ _A State Bar judge._  
