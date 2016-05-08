@@ -1,5 +1,17 @@
 __rank-and-file__ _Rank-and-file employees._  
 __stringently__  
+__ripe__ _Ripe material._  
+__strewn__  
+__romp__  
+__purveyor__  
+__cajoling__  
+__stead__  
+__glut__  
+__brethen__  
+__bespectacled__  
+__dazzlingly__  
+__gruff__  
+__heinous__  
 __fledgling__ :two:  
 __rally__ _Economy_  
 __shy of__ _Just shy of its highest mark._  
