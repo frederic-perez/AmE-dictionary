@@ -838,7 +838,7 @@ __groundbreaker__
 __groundswell__  
 __grouse__ _v_  
 __grout__ _We clean tile and grout!._  
-__growing pains__ :four: :shit:  
+__growing pains__ :four: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise.  
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grudging__ (grudgingly) :two: :shit:  
 __gruff__ :two: :shit:  
@@ -1175,7 +1175,7 @@ __monsoon__
 __monstrosity__ :open_mouth:  
 __moon roof__  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
-__moot__ :four: :shit: _To render the case moot._  
+__moot__ :four: _adj_ __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._  
 __moppet__ _A lovable moppet._  
 __mopping up__  
 __moribund__  
@@ -1204,7 +1204,7 @@ __news media outlets__
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
 __nifty__ _adj_ _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __nightie__  
-__nimble__ (nimbler, nimbly) :four: :shit:    
+__nimble__ (nimbler, nimbly) :four: _adj_ __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nineloss__ ?  
 __nipped__ _The Gaels were nipped at Washington._  
 __nitpick__  
