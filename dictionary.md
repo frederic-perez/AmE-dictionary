@@ -1,3 +1,19 @@
+__dives__ _v_  
+__malevolent__  
+__lurch__ _We lurched around a bend._  
+__burly__ _A burly man._  
+__shush__ _v_  
+__grumble__ _v_  
+__brisk__  
+__tartan__ _Tartan upholstery._  
+__mash__ _Cheddar mash._  
+__pittance__  
+__motley__  
+__sprigs__  
+__eye mask__ (to sleep)  
+__swilling__ _Swilling wine._  
+__bustling__ _A bustling tapas bar._  
+
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
