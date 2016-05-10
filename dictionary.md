@@ -1,19 +1,3 @@
-__dives__ _v_  
-__malevolent__  
-__lurch__ _We lurched around a bend._  
-__burly__ _A burly man._  
-__shush__ _v_  
-__grumble__ _v_  
-__brisk__  
-__tartan__ _Tartan upholstery._  
-__mash__ _Cheddar mash._  
-__pittance__  
-__motley__  
-__sprigs__  
-__eye mask__ (to sleep)  
-__swilling__ _Swilling wine._  
-__bustling__ _A bustling tapas bar._  
-
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -286,6 +270,7 @@ __brethen__
 __brethren__ _Political brethren._  
 __brickbats__  
 __brimming__  
+__brisk__  
 __bristle__ (bristled) :three: _v_ Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __britches__ _We think that you're a little too big for your britches._  
 __broker__ (brokered) :two: _v_ _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._  
@@ -322,13 +307,14 @@ __buoy__ (buoyed) :three: _v_ __1__ Keep (someone or something) afloat. __2__ Su
 __buoy__ (buoyed) _v_ :two:  
 __buoyant__ _adj_  
 __burgundy__ _Burgundy outfit._  
+__burly__ _A burly man._  
 __burnish__ :two: :shit: _v_  
 __burp__  
 __burrow__  
 __busboy__ _n_ A young man who clears tables in a restaurant or cafe.  
 __busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ _The bustle of daily life._  
-__bustling__ _The bustling dining room scene from the movie._  
+__bustling__ :two: :shit: _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
 __butt-fumble__  
 __buttercups__  
@@ -562,6 +548,7 @@ __dissolution__
 __distemper__ _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__  
 __ditsy__ _Ditsy nanny._  
+__dives__ _v_  
 __divine__ _v_  
 __doe__  
 __doffing__  
@@ -672,6 +659,7 @@ __extol__ :two: :shit: _v_ _But he extols running as what helps him stay clean._
 __extoll__  
 __eye black__ _Escobarwas fined for wearing a homophobic slur on his eye black._  
 __eye black__ _He displayed a homophobic slur on his eye black._  
+__eye mask__ (to sleep)  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
 __eyeball__  
 __eyewash__ _Cuddyer explained the balance between effort and eyewash._  
@@ -858,6 +846,7 @@ __growing pains__ :four: __1__ Neuralgic pains which occur in the limbs of some 
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grudging__ (grudgingly) :two: :shit:  
 __gruff__ :two: :shit:  
+__grumble__ _v_  
 __grunt__ 
 __guffaw__ (guffaws) :two: :shit:  
 __guidet__ _Two guidettes._  
@@ -1119,6 +1108,7 @@ __lumber__ :two: :shit: _v_ _Two elephants lumber out of the bush to drink._
 __lump__ _v_  
 __luncheon__  
 __lunge__  
+__lurch__ _We lurched around a bend._  
 __lurk__ (lurked) /ləːk/ :three: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ :three: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lynch__ :open_mouth: _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -1131,6 +1121,7 @@ __make-or-break__
 __makeup game__  
 __making waves__ :two: :shit:  
 __malarkey__  
+__malevolent__  
 __malfeasance__  
 __manhole cover__  
 __mantels__ _Fireplace mantels._  
@@ -1143,6 +1134,7 @@ __marred__ :two: :shit: _v_
 __marshland__  
 __mart__ A place of trade, eg. an auction room or market.  
 __marzipan__  
+__mash__ _Cheddar mash._  
 __matchmaking service__  
 __maturities__ _List of maturities._  
 __maudlin__  
@@ -1195,7 +1187,7 @@ __moot__ :four: _adj_ __1__ Subject to debate, dispute, or uncertainty. _Whether
 __moppet__ _A lovable moppet._  
 __mopping up__  
 __moribund__  
-__motley crew__  
+__motley__ :two: :shit: _Motley crew._  
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
@@ -1339,6 +1331,7 @@ __pipe dream__
 __pique__  
 __pit__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
 __pitch__ _To pitch a tent._  
+__pittance__  
 __pizazz__ :two: An attractive combination of vitality and glamour. :es: dinamismo  
 __plane__  
 __planks__  _Anti-austerity planks._  
@@ -1647,6 +1640,7 @@ __shrift__
 __shrill__  
 __shrill__ _Increasing shrill chorus._  
 __shtick__ or __shtik__ :two: _n_ _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
+__shush__ _v_  
 __shutout__ _Last year, the NL won in a shutout._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shy of__ _Just shy of its highest mark._  
@@ -1752,6 +1746,7 @@ __spillover__ :two: :shit:
 __spliced__ _v_  
 __split__ _n_  
 __sprawling__  
+__sprigs__  
 __springring clasp__  
 __sprinkler__  
 __spruce up__ _Juliette spruces up her country look and sound._  
@@ -1867,7 +1862,7 @@ __swelled__
 __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve__ (swerves) :two: :shit: _v_  
 __swift__  
-__swigging__  
+__swilling__ :two: :shit: _Swilling wine._  
 __swimabout__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swoon__ :five: _v_ __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
@@ -1889,6 +1884,7 @@ __taps__ _A bugler played taps._
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ :three: :shit: _v_ :es: deslustrar  
 __tarp__  
+__tartan__ _Tartan upholstery._  
 __tassels__ _A thong with tassels._  
 __tatter__ (tattered) :three: _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
 __tattling__  
