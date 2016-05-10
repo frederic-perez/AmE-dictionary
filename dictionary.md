@@ -1446,10 +1446,10 @@ __rash__ _A rash of oil problems._
 __rashes__ _Skin rashes._  
 __ratchet (something) up/down__ (ratched up) :five: _v_ To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __rattlers__   
-__raucous__ :four: :shit:  
+__raucous__ :four: _adj_ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchy__  
 __ravages__ _The potential ravages of a man-manipulated virus at a research center._  
-__rave__ (raves) :four: :shit: _n_  
+__rave__ (raves) :four: :shit: _n_ __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __raze__ _v_ _In March they razed the house._  
 __razzle-dazzle__  
 __readily__  
@@ -2072,7 +2072,7 @@ __walkabout__
 __wallflower__  
 __wallop__  
 __wallop__ _v_ Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
-__wallow__ (wallows, wallowing) :four: :shit:  
+__wallow__ (wallows, wallowing) _v_ :four: __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __waning__  
 __wanton__ _There was no justification for such wanton destruction._  
 __wanton__ _To reducethe wanton drug violence._  
