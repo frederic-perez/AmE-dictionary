@@ -1,3 +1,23 @@
+__skewer__ _v_  
+__fame__ _v_  
+__money__ _v_  
+__knavish__  
+__buffoon__  
+__kischy__  
+__bailiwick__  
+__knell__  
+__scourge__  
+__smattering__  
+__vanquish__  
+__skivvies__  
+__libel__  
+__agrarian__  
+__nepotism__  
+__yardstick__  
+__shopkeeper__  
+__icicles__  
+__roiled__  
+__interspersed__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
