@@ -1461,7 +1461,7 @@ __rattlers__
 __raucous__ :four: _adj_ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchy__  
 __ravages__ _The potential ravages of a man-manipulated virus at a research center._  
-__rave__ (raves) :four: :shit: _n_ __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
+__rave__ (raves) :four: _n_ __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __raze__ _v_ _In March they razed the house._  
 __razzle-dazzle__  
 __readily__  
@@ -1712,7 +1712,7 @@ __slugs__
 __slums__ _A woman from the slums of Rio de Janeiro._  
 __sly__ :two: Having or showing a cunning and deceitful nature. _A sly smile._ :es: astuto; malicioso  
 __smallpox__  
-__smattering__ :three: :shit: _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
+__smattering__ :three: _n_ __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
 __smear__ _They use social media to smear their opponents._  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smitten__ :two: :shit: _He was smitten by the landscape._  
@@ -1826,8 +1826,8 @@ __storeful__
 __stovepipe hat__  
 __stow__ _v_  
 __strafing__    
-__strain__ :four: :shit:  
-__strand__ (stranded) :four: :shit: _Stranding thousands of commuters._    
+__strain__ :four: _v_ __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
+__strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ :es: estrangular  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streamline__ (streamlining)  
