@@ -1,3 +1,18 @@
+__enthusing__  
+__buoyant__  
+__thoroughly__  
+__loftily__  
+__racy__  
+__delectable__  
+__silo__  
+__hackneyed__  
+__trite__  
+__paucity__  
+__pariah__  
+__glowering__  
+__reckons__  
+__off-putting__  
+__Mach number__ :open_mouth:  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
