@@ -1,23 +1,3 @@
-__skewer__ _v_  
-__fame__ _v_  
-__money__ _v_  
-__knavish__  
-__buffoon__  
-__kischy__  
-__bailiwick__  
-__knell__  
-__scourge__  
-__smattering__  
-__vanquish__  
-__skivvies__  
-__libel__  
-__agrarian__  
-__nepotism__  
-__yardstick__  
-__shopkeeper__  
-__icicles__  
-__roiled__  
-__interspersed__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -103,6 +83,7 @@ __afoul__
 __aftermarket__  
 __aggravated__  
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
+__agrarian__  
 __ails__ _v_  
 __alabaster__  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
@@ -163,6 +144,7 @@ __bad-hair__ _Arnold can have a bad-hair movie._
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __baggie__  
+__bailiwick__  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk__ /bɔːlk,bɔːk/ (balked) :three: _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
 __balky__ (balking) :three: /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
@@ -308,6 +290,7 @@ __budding__
 __buff bod__  
 __buff__ _Some folks are movie buffs._ :es: entusiasta  
 __buffeted__ :two: :shit:  
+__buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __bugler__  
@@ -688,6 +671,7 @@ __fact sheet__
 __fair and square__  
 __fair shake__  
 __fallout__ :nine: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
+__fame__ _v_  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fannies__  
 __fanny pack__ A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
@@ -959,6 +943,7 @@ __hunk__ (hunky) :four: /hʌŋk/ _n_ __1__ _Informal_ A large piece; a chunk: _a
 __hurl__ (hurling) :two: :shit: _Inmates hurling stones._ _Hurling an ax._  
 __hush__ :two: :shit: _v_ _The hushed reference desk of the Denver Public Library._ :es: hcer callar  
 __hyperbole__  
+__icicles__  
 __icing on the cake__ :two: :shit:  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __iffy__ :two: :shit: _Iffy call._  
@@ -991,6 +976,7 @@ __installment__ :two: _Customers can pay monthly installments of $15._ _In final
 __instating__  
 __institute__ _v_  
 __interlopers__  
+__interspersed__  
 __invective__  
 __inveighed__  
 __issuance__  
@@ -1038,8 +1024,11 @@ __kindred spirits__ :es: almas gemelas
 __king of the hill__  
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kiosk → pharmacy kiosk__  
+__kischy__  
 __kismet__  
+__knavish__  
 __knee-jerk hawk__  
+__knell__  
 __knit__  
 __knock-knock joke__  
 __knockusing__  
@@ -1094,6 +1083,7 @@ __levied__ :two: _The NFL has levied $50,000 in fines to Sanders for faking an i
 __liability__ :two: :shit:  
 __liaison__ 
 __libation__  
+__libel__  
 __lice__ _Checked him for lice._  
 __lifeblood__ :two: The blood, as being necessary to life.  
 __lilac__  
@@ -1197,6 +1187,7 @@ __mogul__
 __molehill__  
 __mollify__ _v_  
 __momentous__ :two: _adj_ Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
+__moneyed__  
 __mongering__ :two: :shit:  
 __monkey wrench__  
 __monsoon__  
@@ -1226,6 +1217,7 @@ __name-and-likeness__
 __names and likeness__  
 __nana__ _Her nana._  
 __nary__ _Nary a chance of rain throughout the tournament._  
+__nepotism__  
 __nest egg__  
 __neutered__  
 __news media outlets__  
@@ -1538,6 +1530,7 @@ __ritzier__
 __ritziest__ _One of the ritziest restaurants._  
 __roam__ _v_ _To roam the country._  
 __roil__ (roiling) :three: US term for rile (make someone annoyed or irritated). _v_ _Another shocker roils 'Game' finale._ _They plunged into the roiling water._  
+__roiled__  
 __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __rolling caisson__  
 __rolling__  
@@ -1595,7 +1588,7 @@ __scooter__ _Motorized scooter._
 __score__ :two: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scoured__ Search thoroughly.  
-__scourge__ :two: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
+__scourge__ :three: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scrambling__ :two: :shit:  
 __scrap__ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap__ _v_  
@@ -1648,6 +1641,7 @@ __shoal__ :two: Shallow.
 __shoddy__  
 __shooing__  
 __shoot up__ _The number of homeless families shot up during the recession._  
+__shopkeeper__  
 __shore up__  
 __shortchanged__ _I think people will be shortchanged._  
 __shortfall__ _n_ _Syn_ deficit, shortage  
@@ -1681,8 +1675,8 @@ __sitting pretty__
 __sitting__ _A sitting U.S. president._ In office or actual possession.  
 __sizzle__ :two: _Filming a "sizzle reel."_  
 __sizzle__ :two: _v_ _Rihanna sizzled when she performed in New York._  
-__sizzling__  
-__sizzling__ _The sizzling singer._  
+__sizzling__ :two: :shit: _The sizzling singer._  
+__skewer__ _v_  
 __skid__  
 __skid__ :two: _Informal_ __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._  
 __skids__ _Shutdown didn't put skids on sales._  
@@ -1691,6 +1685,7 @@ __skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on some
 __skirting__  
 __skit__ (skits) :two: :shit:  
 __skittish__ (skittishness) :three: :shit: _A pack of skittish hyenas._  
+__skivvies__  
 __skulking__  
 __skullcap__  
 __slant__  
@@ -1717,8 +1712,7 @@ __slugs__
 __slums__ _A woman from the slums of Rio de Janeiro._  
 __sly__ :two: Having or showing a cunning and deceitful nature. _A sly smile._ :es: astuto; malicioso  
 __smallpox__  
-__smattering__  
-__smattering__ _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
+__smattering__ :three: :shit: _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
 __smear__ _They use social media to smear their opponents._  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smitten__ :two: :shit: _He was smitten by the landscape._  
@@ -2050,9 +2044,7 @@ __valedictorian__
 __valedictorian__  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __vamping__ :two: :shit:  
-__vanquish__ (vanquished) :two: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
-__vanquish__ _v_  
-__vanquished__  
+__vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __variety store__  
 __varsity__ :two: :shit: _He started dating another varsity athlete._  
 __vastly__  
@@ -2168,7 +2160,7 @@ __wrinkle__
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __yank__ _v_ To fire?  
-__yardstick__  
+__yardstick__ :two: :shit:  
 __yarn__  
 __yawning__ _Yawning aperture._  
 __yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
