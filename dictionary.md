@@ -1905,7 +1905,7 @@ __tantamount__
 __taper__ (tapering) :two: :shit:_High schools don't see athletic trainers as ankle tapers._  
 __taps__ _A bugler played taps._  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
-__tarnish__ :three: :shit: _v_ :es: deslustrar  
+__tarnish__ :three: :shit: _v_ Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__  
 __tartan__ _Tartan upholstery._  
 __tassels__ _A thong with tassels._  
@@ -1968,7 +1968,7 @@ __toothless__ _Some consider most of those laws toothless._
 __top-dog__  
 __top-of-mind__  
 __topsy-turvy__  
-__torpor__ :three: :shit:  
+__torpor__ :three: _n_ A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _Syn_ lethargy  
 __toss-ups__  
 __tossuo__  
 __tossup__ _Diabetes study is a tossup._  
@@ -2081,7 +2081,7 @@ __vitriolic__ :two: :shit:
 __vocal__ :two: _Critics often are the most vocal._  
 __volley__  _A volley of invective._  
 __voucher__  
-__voucher__ :three: :shit: _The administration has focused its efforts with more housing vouchers._  
+__voucher__ :three: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __wad__ _Wads of cash._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __waffle__ _v_  
