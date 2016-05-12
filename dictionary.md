@@ -1,3 +1,22 @@
+__ sleuthing__  
+__kook__  
+__sequiturs__  
+__penned__  
+__hidebound__  
+__theosophy__  
+__wayward__  
+__jazzy__  
+__gasped__  
+__smoldered__  
+__epitomize__  
+__bon ton__  
+__tantsmount__ :two: :shit:  
+__zeistgeisty__  
+__teeming__  
+__penned__  
+__pleat__  
+__macaroon__  
+__pugs__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
