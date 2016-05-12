@@ -1,4 +1,4 @@
-__ sleuthing__  
+__sleuthing__  
 __kook__  
 __sequiturs__  
 __penned__  
@@ -10,7 +10,7 @@ __gasped__
 __smoldered__  
 __epitomize__  
 __bon ton__  
-__tantsmount__ :two: :shit:  
+__tantamount__ :two: :shit:  
 __zeistgeisty__  
 __teeming__  
 __penned__  
