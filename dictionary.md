@@ -1,18 +1,3 @@
-__enthusing__  
-__buoyant__  
-__thoroughly__  
-__loftily__  
-__racy__  
-__delectable__  
-__silo__  
-__hackneyed__  
-__trite__  
-__paucity__  
-__pariah__  
-__glowering__  
-__reckons__  
-__off-putting__  
-__Mach number__ :open_mouth:  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -45,6 +30,7 @@ __Jim Crow__
 __K-12__ _K-12 population._  
 __KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxing match; knock out.  
 __M.O.__ Modus operandi?  
+__Mach number__ :open_mouth:  
 __Main Street__  
 __Millennials__  
 __Motor City__ Detroit.  
@@ -177,6 +163,7 @@ __barbecue__ _Barbecue sauce._
 __barnburner__  
 __barnstorm__  
 __barrage__ :four: _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__basement__  
 __basket case__  
 __bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
@@ -323,7 +310,7 @@ __bungling__ Spoil by incompetence.
 __bunt__ _Hamels batted in the third inning and tried to bunt._  
 __buoy__ (buoyed) :three: _v_ __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoy__ (buoyed) _v_ :two:  
-__buoyant__ _adj_  
+__buoyant__ :two: :shit: _adj_  
 __burgundy__ _Burgundy outfit._  
 __burly__ _A burly man._  
 __burnish__ :two: :shit: _v_  
@@ -528,6 +515,7 @@ __defrock__ _v_
 __defry__  
 __deft__ :three: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __deking__  
+__delectable__  
 __dell__ _n_ A small secluded wooded valley.  
 __deluge__ _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
@@ -652,7 +640,7 @@ __enmity__
 __ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthused__  
+__enthused__ (enthusing) :two: :shit:  
 __entitlement__  
 __entrenched__  
 __envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
@@ -826,6 +814,7 @@ __giridon__
 __giveaway__  
 __gloating__  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
+__glowering__  
 __glue → a glue-type player__  
 __glut__ :two: :shit:  
 __gnaw__ (gnaw out) :two: /nɔː/ _v_ To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._  
@@ -877,6 +866,7 @@ __gush__
 __gusto__  
 __gutsy__  
 __guzzler__ _Taxing gas guzzlers._  
+__hackneyed__  
 __haemophilia__  
 __hagiography__  
 __hail__ _v_  
@@ -1116,6 +1106,7 @@ __lockout__ _N.J. residents upset over island lockout._
 __locks → alcohol ignition locks__  
 __lockstep__  
 __locust__  
+__loftily__  
 __loggerheads__  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __lookout__ _Be on the lookout._  
@@ -1259,6 +1250,7 @@ __oddyssey__ :open_mouth: _A harrowing oddyssey._
 __odometer__  
 __of late__ :es: últimamente 
 __off-kilter__  
+__off-putting__  
 __offing__ _A budding rivalry could be in the offing._  
 __oft-shouting-sermon__  
 __olefin__ _n_  
@@ -1315,6 +1307,7 @@ __panned out__
 __pant__ (panting) _v_ To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._  
 __paraphernalia__ :open_mouth:  
 __parched__ _The dryness will encompass parched California._  
+__pariah__  
 __parishioner__  
 __parlayed__  
 __partake__  
@@ -1322,7 +1315,7 @@ __particle board__
 __pass policy__  
 __pat__ _The too search engines haven't been standing pat._   
 __patently__ _Patently absurd._  
-__paucity__ _She was made late by broken trains in Brooklyn and a paucity of taxis._  
+__paucity__ :two: :shit: _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __paywalls__  
 __peal__ _v_ _Pealing bells._  
 __peat__ _Battling the blazes in peat swamp forests._  
@@ -1455,7 +1448,7 @@ __quiver__
 __racinos__  
 __racket > extortion rackets__  
 __racketeer__ :two: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
-__racy__ _A racy line from a popular song._  
+__racy__ :two: :shit: _A racy line from a popular song._  
 __raffle__  
 __raft__ :two: A large collection or quantity. _A raft of reforms._  
 __rainout__  
@@ -1486,7 +1479,7 @@ __rebate__ :two: _n_ A partial refund to someone who has paid too much for tax, 
 __rebuffed__  
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __receivership__  
-__reckon__  
+__reckon__ (reckons) :two: :shit:  
 __reconvene__ :two: :shit:  
 __recoup__ :three: :shit: _v_  
 __recuse__ _She recused herself._  
@@ -1681,6 +1674,7 @@ __signage__ Signs collectively.
 __signee__  
 __signet ring__  
 __sill__  
+__silo__  
 __silver lining__  
 __simmer__  
 __simmering__ _The Family Corleone is filled with the smell of simmering tomato sauce._  
@@ -1937,6 +1931,7 @@ __the "m" word__
 __the 11th hour__  
 __thecracy__  
 __thereof__  
+__thoroughly__  
 __thrall__  
 __thrall__  
 __throes__  
@@ -1994,6 +1989,7 @@ __trickle__ :three: _n_ A small group or number of people or things moving slowl
 __trickle__ _A trickle of electricity._  
 __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
+__trite__  
 __tropes__  
 __trot out__  
 __trough__ _Showers will continue for one more day as a low-pressure trough spins through the region._  
