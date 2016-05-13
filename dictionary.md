@@ -1,22 +1,3 @@
-__sleuthing__  
-__kook__  
-__sequiturs__  
-__penned__  
-__hidebound__  
-__theosophy__  
-__wayward__  
-__jazzy__  
-__gasped__  
-__smoldered__  
-__epitomize__  
-__bon ton__  
-__tantamount__ :two: :shit:  
-__zeistgeisty__  
-__teeming__  
-__penned__  
-__pleat__  
-__macaroon__  
-__pugs__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -265,6 +246,7 @@ __bologna__
 __bolster__ (bolstered) :four: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bombast__ _Let's drop the bombast and look at the evidence._  
+__bon ton__  
 __bondage__  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
 __bone spurs__  
@@ -666,7 +648,7 @@ __envelope → push the envelope__ _Idiom_ To go beyond established limits; to p
 __epidemic__ _n_ Notice: _n_!  
 __epithet__  
 __epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
-__epitomize__ (epitomized) :three: Be a perfect example of.  
+__epitomize__ (epitomized) :four: _v_ Be a perfect example of.  
 __epony-mously__  
 __erupted__  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
@@ -813,6 +795,7 @@ __gantlet__
 __garish__ _They are charming and garish at the same time._  
 __garland__ _Garland motifs on carved oak paneling._  
 __garner__ (garnered) :five: _v_ Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
+__gasped__  
 __gaudy__ :two: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: chillón, hortera  
 __gaunt__ :es: demacrado  
 __gauze__ (gauzy) :two: :shit: :es: gasa  
@@ -939,7 +922,7 @@ __herky__ (herky-jerky driving)
 __hewing__  
 __heyday__  
 __hickory shaft__  
-__hidebound__  
+__hidebound__ :two: :shit:  
 __hike__ _v_ _Hiked prices._  
 __hinterland__ /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hit the wall__  
@@ -1011,6 +994,7 @@ __jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.
 __jamboree__ :two: :shit: _v_  
 __jar__ _v_  
 __jaunty__ _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jazzy__  
 __jejune__  
 __jettisoning__  
 __jetty__  
@@ -1059,7 +1043,7 @@ __knockusing__
 __knuckleball__  
 __knuckler__  
 __koi__ _v_  
-__kooky__  
+__kook__ (kooky) :two: :shit:  
 __labrotories__ ?  
 __labrum__  
 __lackluster__ :four: _adj_ Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._  
@@ -1147,6 +1131,7 @@ __lurch__ _We lurched around a bend._
 __lurk__ (lurked) /ləːk/ :three: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ :three: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lynch__ :open_mouth: _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
+__macaroon__  
 __maelstrom__  
 __maiden__ _Maiden flight._  
 __maim__ (maimed) :three: Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
@@ -1343,6 +1328,7 @@ __peerless__
 __pelt__  
 __penchant__ :four: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pennant races__  
+__penned__ :two: :shit:  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __pep__  
 __perch__  
@@ -1378,6 +1364,7 @@ __plate__ _Baseball_
 __platitudes__  
 __platypus__ _Internet platypus pranks._  
 __plaudits__  
+__pleat__  
 __plight__ Tough situation.  
 __plodding__ :two: :shit:  
 __plop__ (plopped) _v_ Fall or cause to fall with a plop. _The stone plopped into the pond._  
@@ -1438,6 +1425,7 @@ __prowess__
 __pry__  
 __puff__  
 __pugnacity__  
+__pugs__  
 __pummel__ :two: :shit: _v_  
 __pun__ :es: juego de palabras  
 __punctuate__  
@@ -1644,6 +1632,7 @@ __sellout__ (sold out)
 __seminoles__  
 __sequestration__ _Sequestration of the jury._  
 __sequined__  
+__sequiturs__  
 __servicers__  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __sewage__ :es: aguas residuales  
@@ -1721,6 +1710,7 @@ __slash__ _Basketball_ _He is a lanky gunner who can slash._
 __slather__ _To slather on hand lotion._  
 __slay__ (slain) JFK was slain.  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
+__sleuthing__  
 __slew__ :six: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
 __slide__ :two: :shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _What's up with someone's slider?_  
@@ -1744,7 +1734,7 @@ __smattering__ :three: _n_ __1__ A slight superficial knowledge of a language or
 __smear__ _They use social media to smear their opponents._  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smitten__ :two: :shit: _He was smitten by the landscape._  
-__smolders__  
+__smolders__ (smoldered) :two: :shit:  
 __smoothies__ :two: :shit:  
 __smug__ :two: :shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
 __snag__ :two: :shit: _v_ _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
@@ -1920,7 +1910,7 @@ __tank__ (tanked) _The market tanked._
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
-__tantamount__  
+__tantamount__ :three: :shit:  
 __taper__ (tapering) :two: :shit:_High schools don't see athletic trainers as ankle tapers._  
 __taps__ _A bugler played taps._  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
@@ -1934,7 +1924,7 @@ __taunting__
 __tawdry__ :two: Poor, cheap quality.  
 __tchotchkes__  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
-__teeming__ _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
+__teeming__ :two: :shit: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teetering__  
 __teeters__  
 __televised__  
@@ -1949,6 +1939,7 @@ __thaw__ :two: :shit: _It kept the door open for a possible thaw in relations be
 __the "m" word__  
 __the 11th hour__  
 __thecracy__  
+__theosophy__  
 __thereof__  
 __thoroughly__  
 __thrall__  
@@ -2126,7 +2117,7 @@ __water cooler__
 __water down__  
 __waterfowl__  
 __wavering__ _A wavering statement._  
-__wayward__ :es: díscolo  
+__wayward__ :two: :shit: :es: díscolo  
 __wean__ :two: :shit: _v_  
 __weather__ (weathering) _v_  
 __wedge__ _v_ :es : acuñar  
@@ -2199,7 +2190,7 @@ __yin and yang__
 __yokels__  
 __yule__  
 __zany__ :three: _adj_ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky  
-__zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+__zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero-sum game__  
 __zingers__  
 __zip-line__ (zip-lining)  
