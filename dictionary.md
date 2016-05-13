@@ -10,6 +10,12 @@ __spurts__
 __thicket__  
 __veneer__  
 __chipped__ _v_  
+__berth__  
+__buoyant__  
+__sloshing__  
+__belaboring__  
+__gloaming__  
+__roadside__ _Roadside billboards._  
 __scruffier__  
 __upshot__ _n_  
 __grunts__ _Grunts and generals._  
