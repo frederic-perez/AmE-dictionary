@@ -1,3 +1,18 @@
+__coddled__ _A coddled creature._  
+__grueling__  
+__jousted__ _Here people jousted with nature._  
+__perfunctory__  
+__plod__ _Plod to the shower._  
+__chaise__  
+__slip__ _A pink slip._  
+__lip service__ _We often only pay lip service._  
+__spurts__  
+__thicket__  
+__veneer__  
+__chipped__ _v_  
+__scruffier__  
+__upshot__ _n_  
+__grunts__ _Grunts and generals._  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
