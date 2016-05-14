@@ -16,7 +16,7 @@ __frolic__
 __kilter__ _Out of kilter with the times._  
 __bunglers__  
 __sly__ _Sly humor._  
-__campy_ _A campy biopic._  
+__campy__ _A campy biopic._  
 __biopic__  
 __oddball__  
 __dole__ _Doling out a familiar meal._  
