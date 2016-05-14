@@ -5,6 +5,22 @@ __perfunctory__
 __plod__ _Plod to the shower._  
 __chaise__  
 __slip__ _A pink slip._  
+__bromance__  
+__coo__  
+__giddy__  
+__balladeer__  
+__thaw__ _n_  
+__encore__  
+__broached__ _v_  
+__frolic__  
+__kilter__ _Out of kilter with the times._  
+__bunglers__  
+__sly__ _Sly humor._  
+__campy_ _A campy biopic._  
+__biopic__  
+__oddball__  
+__dole__ _Doling out a familiar meal._  
+__salacious__ _Salacious music._  
 __lip service__ _We often only pay lip service._  
 __spurts__  
 __thicket__  
