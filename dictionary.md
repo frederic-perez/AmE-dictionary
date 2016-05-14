@@ -11,6 +11,19 @@ __thicket__
 __veneer__  
 __chipped__ _v_  
 __berth__  
+__pullout__ _Pullout couches._  
+__bunkmates__  
+__partaking__  
+__buff__  
+__gumption__  
+__dimply__  
+__tresses__ _Blond tresses._  
+__dada__ _Cinematic dada._  
+__beck > at your beck__ _Stacks of books at your beck._  
+__yearning__  
+__unflinching__  
+__atavistic__  
+__motormouth__  
 __buoyant__  
 __sloshing__  
 __belaboring__  
