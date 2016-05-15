@@ -8,6 +8,34 @@ __welts__ _A lot of the boys had bumpy welts of acne._
 __gnarled__ _v_  
 __wisp_ _A wisp of dust._  
 __aggravate__ _v_  
+__squirms__ _But his mother was holding him tight, ignoring his squirms._  
+__gushing__ _Kids were dancing in the gushing water._  
+__spuckie__  
+__spite__  
+__dopey__ _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
+__shrieked__  
+__marooned__ _He felt marooned by the silence._  
+__bulkhead__ _The bulkhead door._  
+__pry__ _To pry the crack open wider and wider._  
+__fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
+__sheathed__ _Poster of Sharon Stone, sheathed in white._  
+__swoon__  
+__key up__ _He was too keyed up._  
+__scuffle__ _The scuffle and scrape of rubber soles._  
+__gnawed__  
+__gander__ _Take a dander at the college girls._  
+__switch-blade__ _Switch-blade artists._  
+__waddle__ _Two chubby guys waddling around the pool table._  
+__sway__ _Swaying like a metronome._  
+__metronome__  
+__guppy__ _His latest guppy of a girlfriend._  
+__sludge__ _She felt the alcohol turnto an itchy sludge in her blood._  
+__sag__ _v_  
+__gaunt__ _Gaunt eyes._  
+__nub__ _A punched nub._  
+__sputter__ _v_ _The car lurched forward, sputtering, and then died._  
+__elated__ _They came to be elated and uplifted._  
+__soggy__ _Soggy drink cups._  
 __sawhorse__  
 __toote__ _v_ _Tooting the horn at their friends._  
 __saggy__  
