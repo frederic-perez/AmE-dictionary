@@ -3,6 +3,19 @@ __grueling__
 __jousted__ _Here people jousted with nature._  
 __perfunctory__  
 __plod__ _Plod to the shower._  
+__lint__ _He had this gift for attaching himself to Jimmy like lint._  
+__welts__ _A lot of the boys had bumpy welts of acne._  
+__gnarled__ _v_  
+__wisp_ _A wisp of dust._  
+__aggravate__ _v_  
+__sawhorse__  
+__toote__ _v_ _Tooting the horn at their friends._  
+__saggy__  
+__pummel__ _v_  
+__whiff__  
+__pinched__ _He smoked his cigarettes down to pinched ends._  
+__handout__  
+__el__ _The el tracks._  
 __chaise__  
 __swooping__  
 __sputter__  
