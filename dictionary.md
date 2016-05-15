@@ -4,6 +4,17 @@ __jousted__ _Here people jousted with nature._
 __perfunctory__  
 __plod__ _Plod to the shower._  
 __chaise__  
+__swooping__  
+__sputter__  
+__sift__ _v_  
+__confection__  
+__mishmash__  
+__bouncy__  
+__frisson__  
+__reprieve__ :es: indulto  
+__flag__ _v_  
+__morcellator__  
+__snag__ _n_ :es: problema  
 __slip__ _A pink slip._  
 __bromance__  
 __coo__  
