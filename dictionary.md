@@ -5,7 +5,7 @@ __shimmer__ _Shimmering eyes._
 __riffle__ _v_ _Annabeth riffled the medicine cabinet for the toothpaste._  
 __squirm__ _v_ _Five-year-old Katie squirmed in her lap._  
 __lain__  
-__dank__ __An old table in a dank, smelly place._  
+__dank__ _An old table in a dank, smelly place._  
 __cannolis__  
 __lulls__ _n_  
 __T__ _v_ _His car shit the bed so he's going to have to T it._  
@@ -20,7 +20,7 @@ __wilted__ _He'd wilted under it._
 __nits__ _Hair filled with nits._  
 __star-69ing__ ___Risking somebody on the other end of the phone having caller ID or star-69ing him._  
 __mangy__  
-__el__ __The el tracks._  
+__el__ _The el tracks._  
 __sly__  
 __sawhorses__  
 __caw__ _A rattling caw._  
