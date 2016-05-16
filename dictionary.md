@@ -2,6 +2,31 @@ __coddled__ _A coddled creature._
 __grueling__  
 __bestow__  
 __shimmer__ _Shimmering eyes._  
+__riffle__ _v_ _Annabeth riffled the medicine cabinet for the toothpaste._  
+__squirm__ _v_ _Five-year-old Katie squirmed in her lap._  
+__lain__  
+__dank__ __An old table in a dank, smelly place._  
+__cannolis__  
+__lulls__ _n_  
+__T__ _v_ _His car shit the bed so he's going to have to T it._  
+__convivial__  
+__roster__ _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
+__diction__ _The priest diction._  
+__bob__ _v_ _Bald heads bobbed behind them._  
+__dawdled__ _v_  
+__skittish__ _Feeling skittish all morning._  
+__vane__ _A smooth metal weather vane._  
+__wilted__ _He'd wilted under it._  
+__nits__ _Hair filled with nits._  
+__star-69ing__ ___Risking somebody on the other end of the phone having caller ID or star-69ing him._  
+__mangy__  
+__el__ __The el tracks._  
+__sly__  
+__sawhorses__  
+__caw__ _A rattling caw._  
+__nibbling__  
+__trample__ _They trample the weeds heading for the park._  
+__screeching__  
 __Sweepstakes__ _Your Sweepstakes._  
 __tart__ _She'd bitten into something overly tart._  
 __overly__  
