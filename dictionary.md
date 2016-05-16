@@ -18,7 +18,7 @@ __skittish__ _Feeling skittish all morning._
 __vane__ _A smooth metal weather vane._  
 __wilted__ _He'd wilted under it._  
 __nits__ _Hair filled with nits._  
-__star-69ing__ ___Risking somebody on the other end of the phone having caller ID or star-69ing him._  
+__star-69ing__ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
 __mangy__  
 __el__ _The el tracks._  
 __sly__  
