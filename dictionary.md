@@ -1,12 +1,25 @@
 __coddled__ _A coddled creature._  
 __grueling__  
+__bestow__  
+__shimmer__ _Shimmering eyes._  
+__Sweepstakes__ _Your Sweepstakes._  
+__tart__ _She'd bitten into something overly tart._  
+__overly__  
+__leering__ _She felt something leering behind his eyes._  
+__mugger__ _n_  
+__gash__ _n_  
+__flutter__ _One hand fluttering under the water._  
+__gurney__ _n_  
+__wring out__ _She finished wringing out the jeans and shut off the water._  
+__squabble__ _Shrieking marital squabbles._  
+__shriek__ _v_  
 __jousted__ _Here people jousted with nature._  
 __perfunctory__  
 __plod__ _Plod to the shower._  
 __lint__ _He had this gift for attaching himself to Jimmy like lint._  
 __welts__ _A lot of the boys had bumpy welts of acne._  
 __gnarled__ _v_  
-__wisp_ _A wisp of dust._  
+__wisp__ _A wisp of dust._  
 __aggravate__ _v_  
 __squirms__ _But his mother was holding him tight, ignoring his squirms._  
 __gushing__ _Kids were dancing in the gushing water._  
