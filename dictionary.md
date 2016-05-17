@@ -1,143 +1,138 @@
-__coddled__ _A coddled creature._  
-__grueling__  
-__bestow__  
-__shimmer__ _Shimmering eyes._  
-__riffle__ _v_ _Annabeth riffled the medicine cabinet for the toothpaste._  
-__squirm__ _v_ _Five-year-old Katie squirmed in her lap._  
-__lain__  
-__dank__ _An old table in a dank, smelly place._  
-__cannolis__  
-__lulls__ _n_  
-__T__ _v_ _His car shit the bed so he's going to have to T it._  
-__convivial__  
-__roster__ _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
-__diction__ _The priest diction._  
-__bob__ _v_ _Bald heads bobbed behind them._  
-__dawdled__ _v_  
-__skittish__ _Feeling skittish all morning._  
-__vane__ _A smooth metal weather vane._  
-__wilted__ _He'd wilted under it._  
-__nits__ _Hair filled with nits._  
-__star-69ing__ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
-__mangy__  
-__el__ _The el tracks._  
-__sly__  
-__sawhorses__  
-__caw__ _A rattling caw._  
-__nibbling__  
-__trample__ _They trample the weeds heading for the park._  
-__screeching__  
 __Sweepstakes__ _Your Sweepstakes._  
-__tart__ _She'd bitten into something overly tart._  
-__overly__  
-__leering__ _She felt something leering behind his eyes._  
-__mugger__ _n_  
-__gash__ _n_  
-__flutter__ _One hand fluttering under the water._  
-__gurney__ _n_  
-__wring out__ _She finished wringing out the jeans and shut off the water._  
-__squabble__ _Shrieking marital squabbles._  
-__shriek__ _v_  
-__jousted__ _Here people jousted with nature._  
-__perfunctory__  
-__plod__ _Plod to the shower._  
-__lint__ _He had this gift for attaching himself to Jimmy like lint._  
-__welts__ _A lot of the boys had bumpy welts of acne._  
-__gnarled__ _v_  
-__wisp__ _A wisp of dust._  
+__T__ _v_ _His car shit the bed so he's going to have to T it._  
 __aggravate__ _v_  
-__squirms__ _But his mother was holding him tight, ignoring his squirms._  
-__gushing__ _Kids were dancing in the gushing water._  
-__spuckie__  
-__spite__  
-__dopey__ _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
-__shrieked__  
-__marooned__ _He felt marooned by the silence._  
-__bulkhead__ _The bulkhead door._  
-__pry__ _To pry the crack open wider and wider._  
-__fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
-__sheathed__ _Poster of Sharon Stone, sheathed in white._  
-__swoon__  
-__key up__ _He was too keyed up._  
-__scuffle__ _The scuffle and scrape of rubber soles._  
-__gnawed__  
-__gander__ _Take a dander at the college girls._  
-__switch-blade__ _Switch-blade artists._  
-__waddle__ _Two chubby guys waddling around the pool table._  
-__sway__ _Swaying like a metronome._  
-__metronome__  
-__guppy__ _His latest guppy of a girlfriend._  
-__sludge__ _She felt the alcohol turnto an itchy sludge in her blood._  
-__sag__ _v_  
-__gaunt__ _Gaunt eyes._  
-__nub__ _A punched nub._  
-__sputter__ _v_ _The car lurched forward, sputtering, and then died._  
-__elated__ _They came to be elated and uplifted._  
-__soggy__ _Soggy drink cups._  
-__sawhorse__  
-__toote__ _v_ _Tooting the horn at their friends._  
-__saggy__  
-__pummel__ _v_  
-__whiff__  
-__pinched__ _He smoked his cigarettes down to pinched ends._  
-__handout__  
-__el__ _The el tracks._  
-__chaise__  
-__swooping__  
-__sputter__  
-__sift__ _v_  
-__confection__  
-__mishmash__  
-__bouncy__  
-__frisson__  
-__reprieve__ :es: indulto  
-__flag__ _v_  
-__morcellator__  
-__snag__ _n_ :es: problema  
-__slip__ _A pink slip._  
-__bromance__  
-__coo__  
-__giddy__  
-__balladeer__  
-__thaw__ _n_  
-__encore__  
-__broached__ _v_  
-__frolic__  
-__kilter__ _Out of kilter with the times._  
-__bunglers__  
-__sly__ _Sly humor._  
-__campy__ _A campy biopic._  
-__biopic__  
-__oddball__  
-__dole__ _Doling out a familiar meal._  
-__salacious__ _Salacious music._  
-__lip service__ _We often only pay lip service._  
-__spurts__  
-__thicket__  
-__veneer__  
-__chipped__ _v_  
-__berth__  
-__pullout__ _Pullout couches._  
-__bunkmates__  
-__partaking__  
-__buff__  
-__gumption__  
-__dimply__  
-__tresses__ _Blond tresses._  
-__dada__ _Cinematic dada._  
-__beck > at your beck__ _Stacks of books at your beck._  
-__yearning__  
-__unflinching__  
 __atavistic__  
-__motormouth__  
-__buoyant__  
-__sloshing__  
+__balladeer__  
+__beck > at your beck__ _Stacks of books at your beck._  
 __belaboring__  
+__berth__  
+__bestow__  
+__biopic__  
+__bob__ _v_ _Bald heads bobbed behind them._  
+__bouncy__  
+__broached__ _v_  
+__bromance__  
+__buff__  
+__bulkhead__ _The bulkhead door._  
+__bunglers__  
+__bunkmates__  
+__buoyant__  
+__campy__ _A campy biopic._  
+__cannolis__  
+__caw__ _A rattling caw._  
+__chaise__  
+__chipped__ _v_  
+__coddled__ _A coddled creature._  
+__confection__  
+__convivial__  
+__coo__  
+__dada__ _Cinematic dada._  
+__dank__ _An old table in a dank, smelly place._  
+__dawdled__ _v_  
+__diction__ _The priest diction._  
+__dimply__  
+__dole__ _Doling out a familiar meal._  
+__dopey__ _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
+__el__ :two: :shit: _The el tracks._  
+__elated__ _They came to be elated and uplifted._  
+__encore__  
+__flag__ _v_  
+__flutter__ _One hand fluttering under the water._  
+__frisson__  
+__frolic__  
+__fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
+__gander__ _Take a dander at the college girls._  
+__gash__ _n_  
+__gaunt__ _Gaunt eyes._  
+__giddy__  
 __gloaming__  
-__roadside__ _Roadside billboards._  
-__scruffier__  
-__upshot__ _n_  
+__gnarled__ _v_  
+__gnawed__  
+__grueling__  
 __grunts__ _Grunts and generals._  
+__gumption__  
+__guppy__ _His latest guppy of a girlfriend._  
+__gurney__ _n_  
+__gushing__ _Kids were dancing in the gushing water._  
+__handout__  
+__jousted__ _Here people jousted with nature._  
+__key up__ _He was too keyed up._  
+__kilter__ _Out of kilter with the times._  
+__lain__  
+__leering__ _She felt something leering behind his eyes._  
+__lint__ _He had this gift for attaching himself to Jimmy like lint._  
+__lip service__ _We often only pay lip service._  
+__lulls__ _n_  
+__mangy__  
+__marooned__ _He felt marooned by the silence._  
+__metronome__  
+__mishmash__  
+__morcellator__  
+__motormouth__  
+__mugger__ _n_  
+__nibbling__  
+__nits__ _Hair filled with nits._  
+__nub__ _A punched nub._  
+__oddball__  
+__overly__  
+__partaking__  
+__perfunctory__  
+__pinched__ _He smoked his cigarettes down to pinched ends._  
+__plod__ _Plod to the shower._  
+__pry__ _To pry the crack open wider and wider._  
+__pullout__ _Pullout couches._  
+__pummel__ _v_  
+__reprieve__ :es: indulto  
+__riffle__ _v_ _Annabeth riffled the medicine cabinet for the toothpaste._  
+__roadside__ _Roadside billboards._  
+__roster__ _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
+__sag__ _v_  
+__saggy__  
+__salacious__ _Salacious music._  
+__sawhorse__ :two: :shit:  
+__screeching__  
+__scruffier__  
+__scuffle__ _The scuffle and scrape of rubber soles._  
+__sheathed__ _Poster of Sharon Stone, sheathed in white._  
+__shimmer__ _Shimmering eyes._  
+__shriek__ (shrieked) :two: :shit: _v_  
+__sift__ _v_  
+__skittish__ _Feeling skittish all morning._  
+__slip__ _A pink slip._  
+__sloshing__  
+__sludge__ _She felt the alcohol turnto an itchy sludge in her blood._  
+__sly__ :two: :shit: _Sly humor._  
+__snag__ _n_ :es: problema  
+__soggy__ _Soggy drink cups._  
+__spite__  
+__spuckie__  
+__spurts__  
+__sputter__ :two: :shit: _v_ _The car lurched forward, sputtering, and then died._  
+__squabble__ _Shrieking marital squabbles._  
+__squirm__ _v_ _Five-year-old Katie squirmed in her lap._  
+__squirm__ _n_ _But his mother was holding him tight, ignoring his squirms._  
+__star-69ing__ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
+__sway__ _Swaying like a metronome._  
+__switch-blade__ _Switch-blade artists._  
+__swoon__  
+__swooping__  
+__tart__ _She'd bitten into something overly tart._  
+__thaw__ _n_  
+__thicket__  
+__toote__ _v_ _Tooting the horn at their friends._  
+__trample__ _They trample the weeds heading for the park._  
+__tresses__ _Blond tresses._  
+__unflinching__  
+__upshot__ _n_  
+__vane__ _A smooth metal weather vane._  
+__veneer__  
+__waddle__ _Two chubby guys waddling around the pool table._  
+__welts__ _A lot of the boys had bumpy welts of acne._  
+__whiff__  
+__wilted__ _He'd wilted under it._  
+__wisp__ _A wisp of dust._  
+__wring out__ _She finished wringing out the jeans and shut off the water._  
+__yearning__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
