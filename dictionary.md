@@ -1775,7 +1775,7 @@ __skimboard__
 __skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._  
 __skirting__  
 __skit__ (skits) :two: :shit:  
-__skittish__ (skittishness) :four: :shit: _A pack of skittish hyenas._ _Feeling skittish all morning._  
+__skittish__ (skittishness) :four: _adj_ __1__ (of an animal, especially a horse) Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ (of a person) Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__  
 __skulking__  
 __skullcap__  
@@ -1798,7 +1798,7 @@ __slog__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be
 __slop__ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy__ _We were a little sloppy in the second half of the game._  
-__sloshing__ :three: :shit: _There is a lot of cash slowhing around the system._  
+__slosh__ (sloshing) :three: _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__  
 __slough__ _Henry sloughs off questions about his odometer._  
 __slow-as-molases__  
@@ -1866,7 +1866,8 @@ __spry__ _adj_ Lively, active, and brisk; vigorous.
 __spuckie__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
-__spurt__ (spurts) :three: :shit: _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._  
+__spurt__ (spurts) :three: _n_ A sudden gushing stream. _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo  
+__spurt__ _v_ :es: acelerar; hacer un esfuerzo supremo
 __sputter__ (sputtering) :three: _v_ Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._  
 __sputter__ :two: :shit: _v_ _The car lurched forward, sputtering, and then died._  
 __squabble__ _Shrieking marital squabbles._  
