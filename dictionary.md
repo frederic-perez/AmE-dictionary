@@ -1,5 +1,10 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
+__crisper__ _Our dishes and crisper trays._  
+__dank__  
+__fleeced__  
+__vermin__  
+__whoop__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
