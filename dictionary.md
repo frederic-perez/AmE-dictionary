@@ -2,23 +2,10 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__cuss__ _v_ _Other kids cussed in front of their parents._  
-__fawned__  
-__preen__ _She didn't preen for her grandfather._  
-__impound__ _v_  
-__doted__ _v_  
-__scuttling__  
-__B & E__  
-__sway__ _v_  
-__tots__  
-__knoll__  
-__abutted__  
-__sliver__  
-__rapt__  
-__tickle__ _Does that tickle?_  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
+__B & E__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
 __CO__ Carbon monoxide, "the silent killer."  
@@ -77,6 +64,7 @@ __abhorrent__
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
 __aboveboard__  
 __abreast__ :two: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
+__abutted__  
 __accoitrements__  
 __accolade__ :two: _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accountant__ :es: contable  
@@ -522,6 +510,7 @@ __cursory__
 __curtail__ (curtailed) :three: Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __cusp__ :two: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
+__cuss__ _v_ _Other kids cussed in front of their parents._  
 __customer → tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _Cinematic dada._  
@@ -615,6 +604,7 @@ __doorbuster__ (door-buster) :three: A doorbuster is a marketing and sales strat
 __doormat__  
 __doozy__ :two: _Informal_ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
 __dopey__ _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
+__doted__ _v_  
 __double down__ :two: :shit:  
 __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-decker bus__  
@@ -729,7 +719,7 @@ __fascia__
 __fast and furious__ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fastidious__  
 __fave__   
-__fawn__ :two: :shit:  
+__fawn__ :three: :shit:  
 __faze__ _v_  
 __fearl__ _A fearl youngster._  
 __feast__  
@@ -1019,6 +1009,7 @@ __impede__ _v_
 __impending__  
 __impermissible__ :two: :shit:  
 __impervious__  
+__impound__ _v_  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._  
 __inane__  
 __inching__  
@@ -1096,6 +1087,7 @@ __knell__
 __knit__  
 __knock-knock joke__  
 __knockusing__  
+__knoll__  
 __knuckleball__  
 __knuckler__  
 __koi__ _v_  
@@ -1467,7 +1459,7 @@ __power strip__
 __pram__  
 __prance__ _On the floor exercise, Wieber prances, tumbles and smiles._  
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
-__preening__  
+__preen__ (preening) :two: :shit: _She didn't preen for her grandfather._  
 __prenup__  
 __prep__  
 __prep__ _v_  
@@ -1538,7 +1530,7 @@ __ramparts__
 __rank-and-file__ :three: :shit: _Rank-and-file officers._ _Rank-and-file employees._  
 __rank__ _v_  
 __rapidly__  
-__rapt__ _Robert C. Cone had a rapt audience._  
+__rapt__ :two: :shit: _Robert C. Cone had a rapt audience._  
 __raring__  
 __rash__ _A rash of oil problems._  
 __rashes__ _Skin rashes._  
@@ -1694,7 +1686,7 @@ __scrumptious__
 __scuffle__ (scuffled) :three: :shit: _v_ _The police scuffled with a group of demonstrators._  
 __scuffle__ _n_ _The scuffle and scrape of rubber soles._  
 __scumbags__  
-__scuttle__ (scuttling) _v_ :three: __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
+__scuttle__ (scuttling) _v_ :four: __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __seahawk__ ?  
 __sear__ (searing) :two: _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) → secar, marchitar (Med) → cauterizar; (pain etc) → punzar; (= scorch) → chamuscar, quemar_  
 __searing → searing work__  
@@ -1799,6 +1791,7 @@ __slider__ _What's up with someone's slider?_
 __slighted__  
 __slip__ _A pink slip._  
 __slit > hi-slit dress__  
+__sliver__  
 __slob__  
 __slog__ :two: _v_ __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._    
@@ -1886,8 +1879,8 @@ __squat__ _v_ :es: agacharse
 __squeamish__ Easily ​upset or ​disgusted by things or ​actions you ​find ​unpleasant: _Dad was squeamish about ​killing ​roaches._  
 __squeamishness__  
 __squelch__  
-__squirm__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirm__ :two: :shit: _v_ _Five-year-old Katie squirmed in her lap._  
+__squirm__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squit__ _Super-soaker squit guns._  
 __staffer__ :three: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stagger__ _v_ _Walmart will stagger other deals._  
@@ -1981,8 +1974,7 @@ __swamp__ _n_ __1__ __a__ Permanently waterlogged ground that is usually overgro
 __swank__  
 __swashbuckling__  
 __swath__ (swaths) :three: :shit:  
-__sway__ :three: _v_ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._  
-__sway__ _Swaying like a metronome._  
+__sway__ :five: _v_ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._  
 __swelled__  
 __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve__ (swerves) :two: :shit: _v_  
@@ -2048,6 +2040,7 @@ __throw a fit__ _He watched a reality show in which a girl throws a hfit when he
 __thwart__ (thwarted) :five: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __ticker__  
+__tickle__ _Does that tickle?_  
 __tiki__ _Tiki sensibility._  
 __tilapia__  
 __time and again__
@@ -2082,6 +2075,7 @@ __torpor__ :three: _n_ A state of physical or mental inactivity; lethargy. _They
 __toss-ups__  
 __tossuo__  
 __tossup__ _Diabetes study is a tossup._  
+__tots__  
 __tough luck__  
 __tourney__  
 __tractor-trailer__  
