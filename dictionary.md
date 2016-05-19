@@ -1,10 +1,5 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
-__crisper__ _Our dishes and crisper trays._  
-__dank__  
-__fleeced__  
-__vermin__  
-__whoop__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
@@ -493,8 +488,8 @@ __craven__ _A craven political figure._
 __crepe__  
 __crimp__ (crimped) :two: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe → me da horror_  
-__crippling__  
-__crippling__ _Crippling drought._  
+__crippling__ :two: :shit: _Crippling drought._  
+__crisper__ _Our dishes and crisper trays._  
 __crossover__ _Crossover zone._  
 __crucible__  
 __crud__  
@@ -522,7 +517,7 @@ __dada__ _Cinematic dada._
 __dais__ :two: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dallying__  
 __dangle__ _v_ _Garret seems to be dangling by a thread._  
-__dank__ _An old table in a dank, smelly place._  
+__dank__ :two: :shit: _An old table in a dank, smelly place._  
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __dare__  
 __darn__  
@@ -759,7 +754,7 @@ __flair__ :five: __1__ A special or instinctive aptitude or ability for doing so
 __flatbread__ _Flatbread sandwiches._  
 __flatware coins__    
 __fledgling__ :five: :open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped.  
-__fleece__  
+__fleece__ (fleeced) :two: :shit:  
 __fleecy__  
 __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
@@ -2181,6 +2176,7 @@ __veneer__
 __veneer__  
 __venom__  
 __veranda__  
+__vermin__  
 __vernacular__  
 __verve__ :two: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
@@ -2252,6 +2248,7 @@ __whittle down__ _The overwhelming advantage has been whittled down._
 __whittling down__  
 __whittling__  
 __wholesaler__  
+__whoop__
 __whoopee__  
 __wield__ (wielding) :four: _v_ Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish  
 __wiener dog__  
