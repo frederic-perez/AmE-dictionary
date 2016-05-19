@@ -874,7 +874,7 @@ __gougers__ _Transparency helps patients and exposes gougers._
 __grace__ _v_  
 __grade__ _v_  
 __grandstand__ _He found rats in his grandstand._  
-__grapple__ (grappled, grappling) :three: :shit: _v_ _Putin grapples with generous spending pledges made during his election campaign._  
+__grapple__ (grappled, grappling) :three: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grate__ (grating) _v_ Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
 __gravesite__  
 __graybeards__ _Senate graybeards._  
@@ -947,7 +947,7 @@ __haze__ (hazing) :two: :shit: _v_ _Allegations of hazing and telling._
 __hazmat suit__  
 __head and shoulders__  
 __headdress__  
-__headwind__ (headwinds) :three: :shit:  
+__headwind__ (headwinds) :three: A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __hearkened__  
 __heartland__ :two: _n_ The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartthrob__ :two: :shit:  
@@ -1034,7 +1034,8 @@ __invective__
 __inveighed__  
 __issuance__  
 __ivy__ :es: hiedra  
-__jab__ :three: :shit: _A jab at the judges._  
+__jab__ :two: _n_ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod  
+__jab__ :two: _v_ Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod   
 __jagged__  
 __jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.    
 __jamboree__ :two: :shit: _v_  
