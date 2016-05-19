@@ -1,5 +1,32 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
+__sway__  
+__fidget__ _v_  
+__snicker__ _v_  
+__crimson__ _Crimson cereal._  
+__blotters__ _Police blotters._  
+__hunky-dory__  
+__K-9__ _A K-9 van._  
+__jock__ _A jock superstar._  
+__prance__ _v_  
+__bleated__ _His walkie-talkie bleated._  
+__addled__  
+__siddle up__ _Chuck siddled up beside his brother._  
+__bob__ _His small head was bobbing._  
+__lunchpail__  
+__squat__ _She kept her squat rotary phone by her bed._  
+__leer__ _v_  
+__clincher__  
+__perfunctory__  
+__drizzled__  
+__thwacks__  
+__lug wrench__  
+__tattered__  
+__giddy__  
+__gauntlets__  
+__shrivel__ _v_  
+__scrawny__  
+__forlorn__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
