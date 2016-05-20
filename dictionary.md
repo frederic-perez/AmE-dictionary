@@ -1,6 +1,28 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__disheveled__  
+__scramble__ _Chuck scrambled his hands through his windbreaker._  
+__peal__ _Jimmy could hear the peal of bells._  
+__din__  
+__frazzled__  
+__muffled__  
+__dank__  
+__cooed__  
+__crevice__ :two: :shit:  
+__shell-shocked__  
+__scrunched__  
+__shriveled__  
+__mildew__ _v_  
+__grazing__  
+__pallets__  
+__schooners__  
+__tousled__  
+__snarling__  
+__belly-flop__  
+__beseechment__  
+__drench__  
+__sputtered__  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
