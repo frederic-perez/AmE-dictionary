@@ -68,7 +68,7 @@ __Ponzi scheme__ _n_ A form of fraud in which belief in the success of a non-exi
 __Prep__  
 __RGA__ _RGA chairman._  
 __Reuben James__  
-__Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS?
+__Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges.  
 __Spainish__ (typo?)  
 __Spanish moss__  
