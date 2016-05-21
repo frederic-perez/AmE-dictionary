@@ -6,6 +6,29 @@ __scramble__ _Chuck scrambled his hands through his windbreaker._
 __peal__ _Jimmy could hear the peal of bells._  
 __din__  
 __frazzled__  
+__yelps__ _Puppy yelps._  
+__hoisted__  
+__parasailing__  
+__contrite__  
+__vagaries__ _The vagaries of economics._  
+__platitudes__  
+__bland__ _He had a bland voice to go with his bland face._  
+__edgy__  
+__ram__ _v_  
+__shtick__  
+__ambled__  
+__slug__  
+__pallet__  
+__grunt__ _You'll have as many troopers as you need for the grunt work._  __spat__  
+__nightcaps__ _Whiskey nightcaps._  
+__gouged__  
+__squawked__ _The walkie-talkie squawked._  
+__unspooling__ _Unspooling microphone cables._  
+__lice__  
+__crumpling__  
+__brittle__  
+__liquefy__  
+__reek__  
 __muffled__  
 __dank__  
 __cooed__  
