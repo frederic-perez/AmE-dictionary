@@ -2,7 +2,13 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __disheveled__  
-__scramble__ _Chuck scrambled his hands through his windbreaker._  
+__scramble__ _Chuck scrambled his hands through his windbreaker._ 
+__troopers__  
+__vagrants__  
+__oozed__  
+__stale__  
+__shoot up__  
+__foul__ _Foul language__   
 __peal__ _Jimmy could hear the peal of bells._  
 __din__  
 __frazzled__  
