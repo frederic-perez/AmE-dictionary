@@ -10,6 +10,20 @@ __yelps__ _Puppy yelps._
 __hoisted__  
 __parasailing__  
 __contrite__  
+__regal__  
+__waft__ _v_  
+__plaintive__  
+__grudge__ _Holding a grudge.__  
+__buck up__  
+__soggy__   _Soggy food on top letting off a gray steam._  
+__for a bit__  
+__thwack__  
+__staler__ _The air in the place grew stalee._  
+__ravages__  
+__drape__ _v_  
+__krinkled__  
+__shimmying__  
+__noose__  
 __vagaries__ _The vagaries of economics._  
 __platitudes__  
 __bland__ _He had a bland voice to go with his bland face._  
