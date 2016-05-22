@@ -15,6 +15,12 @@ __umpteenth__
 __whoosh__ _He could hear the whoosh of cars speeding past on a expressway._  
 __troopers__  
 __vagrants__  
+__lunge__ _v_  
+__blithe__  
+__crossing t's__ _Crossiing our t's and dotting our i's._  
+__bloop__  
+__bona fide__  
+__slick__ _v_  
 __oozed__  
 __stale__  
 __spurt__ _n_ _Growth spurts._  
