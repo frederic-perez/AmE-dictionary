@@ -2,7 +2,17 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __disheveled__  
-__scramble__ _Chuck scrambled his hands through his windbreaker._ 
+__scramble__ _Chuck scrambled his hands through his windbreaker._  
+__scones__ _n_  
+__rep__ Reputation?  
+__craggy__  
+__reek__ _She reeked of cigarette smoke._  
+__knotty__  
+__hanks__ :open_mouth: _Stringy hanks of blond hair._  
+__din__  
+__sludge__ _Sam felt the sludge of too much caffeine and fast food in his blood._  
+__umpteenth__  
+__whoosh__ _He could hear the whoosh of cars speeding past on a expressway._  
 __troopers__  
 __vagrants__  
 __oozed__  
