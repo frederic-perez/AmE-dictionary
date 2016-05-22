@@ -17,6 +17,22 @@ __troopers__
 __vagrants__  
 __oozed__  
 __stale__  
+__spurt__ _n_ _Growth spurts._  
+__florid__  
+__jowly__  
+__Kodiak__  
+__wake__ _n_ _At wakes._  
+__twinge__  
+__droll__  
+__demurely__  
+__jolly__ _Jolly handshakes._  
+__rueful__ _He gave a rueful smile._  
+__pit__ _The pit of his stomach._  
+__pep__ :open_mouth: _A pep yalk._  
+__swaying__  
+__pouting__  
+__scrunching__  
+__endearing__  
 __shoot up__  
 __foul__ _Foul language__   
 __peal__ _Jimmy could hear the peal of bells._  
