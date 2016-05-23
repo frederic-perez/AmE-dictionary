@@ -1,3 +1,11 @@
+__feral__  
+__darting__  
+__leer up__  
+__chafe_v_  
+__stickball__  
+__kick-the-can__  
+__76__ (game)  
+__loopy__ _A loopy smile._  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
