@@ -1,103 +1,101 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
-__disheveled__  
-__scramble__ _Chuck scrambled his hands through his windbreaker._  
-__scones__ _n_  
-__rep__ Reputation?  
-__craggy__  
-__reek__ _She reeked of cigarette smoke._  
-__knotty__  
-__hanks__ :open_mouth: _Stringy hanks of blond hair._  
-__din__  
-__sludge__ _Sam felt the sludge of too much caffeine and fast food in his blood._  
-__umpteenth__  
-__whoosh__ _He could hear the whoosh of cars speeding past on a expressway._  
-__troopers__  
-__vagrants__  
-__lunge__ _v_  
-__blithe__  
-__crossing t's__ _Crossiing our t's and dotting our i's._  
-__bloop__  
-__bona fide__  
-__slick__ _v_  
-__oozed__  
-__stale__  
-__spurt__ _n_ _Growth spurts._  
-__florid__  
-__jowly__  
 __Kodiak__  
-__wake__ _n_ _At wakes._  
-__twinge__  
-__droll__  
-__demurely__  
-__jolly__ _Jolly handshakes._  
-__rueful__ _He gave a rueful smile._  
-__pit__ _The pit of his stomach._  
-__pep__ :open_mouth: _A pep yalk._  
-__swaying__  
-__pouting__  
-__scrunching__  
-__endearing__  
-__shoot up__  
-__foul__ _Foul language__   
-__peal__ _Jimmy could hear the peal of bells._  
-__din__  
-__frazzled__  
-__yelps__ _Puppy yelps._  
-__hoisted__  
-__parasailing__  
-__contrite__  
-__regal__  
-__waft__ _v_  
-__plaintive__  
-__grudge__ _Holding a grudge.__  
-__buck up__  
-__soggy__   _Soggy food on top letting off a gray steam._  
-__for a bit__  
-__thwack__  
-__staler__ _The air in the place grew stalee._  
-__ravages__  
-__drape__ _v_  
-__krinkled__  
-__shimmying__  
-__noose__  
-__vagaries__ _The vagaries of economics._  
-__platitudes__  
-__bland__ _He had a bland voice to go with his bland face._  
-__edgy__  
-__ram__ _v_  
-__shtick__  
 __ambled__  
-__slug__  
-__pallet__  
-__grunt__ _You'll have as many troopers as you need for the grunt work._  __spat__  
-__nightcaps__ _Whiskey nightcaps._  
-__gouged__  
-__squawked__ _The walkie-talkie squawked._  
-__unspooling__ _Unspooling microphone cables._  
-__lice__  
-__crumpling__  
-__brittle__  
-__liquefy__  
-__reek__  
-__muffled__  
-__dank__  
-__cooed__  
-__crevice__ :two: :shit:  
-__shell-shocked__  
-__scrunched__  
-__shriveled__  
-__mildew__ _v_  
-__grazing__  
-__pallets__  
-__schooners__  
-__tousled__  
-__snarling__  
 __belly-flop__  
 __beseechment__  
+__bland__ _He had a bland voice to go with his bland face._  
+__blithe__  
+__bloop__  
+__bona fide__  
+__brittle__  
+__buck up__  
+__contrite__  
+__cooed__  
+__craggy__  
+__crevice__ :two: :shit:  
+__crossing t's__ _Crossiing our t's and dotting our i's._  
+__crumpling__  
+__dank__  
+__demurely__  
+__din__ :two: :shit:  
+__disheveled__  
+__drape__ _v_  
 __drench__  
+__droll__  
+__edgy__  
+__endearing__  
+__florid__  
+__for a bit__  
+__foul__ _Foul language__   
+__frazzled__  
+__gouged__  
+__grazing__  
+__grudge__ _Holding a grudge.__  
+__grunt__ _You'll have as many troopers as you need for the grunt work._  
+__spat__  
+__hanks__ :open_mouth: _Stringy hanks of blond hair._  
+__hoisted__  
+__jolly__ _Jolly handshakes._  
+__jowly__  
+__knotty__  
+__krinkled__  
+__lice__  
+__liquefy__  
+__lunge__ _v_  
+__mildew__ _v_  
+__muffled__  
+__nightcaps__ _Whiskey nightcaps._  
+__noose__  
+__oozed__  
+__pallet__ (pallets) :two: :shit:  
+__parasailing__  
+__peal__ _Jimmy could hear the peal of bells._  
+__pep__ :open_mouth: _A pep yalk._  
+__pit__ _The pit of his stomach._  
+__plaintive__  
+__platitudes__  
+__pouting__  
+__ram__ _v_  
+__ravages__  
+__reek__ :two: :shit: _She reeked of cigarette smoke._  
+__regal__  
+__rep__ Reputation?  
+__rueful__ _He gave a rueful smile._  
+__schooners__  
+__scones__ _n_  
+__scramble__ _Chuck scrambled his hands through his windbreaker._  
+__scrunched__  
+__scrunching__  
+__shell-shocked__  
+__shimmying__  
+__shoot up__  
+__shriveled__  
+__shtick__  
+__slick__ _v_  
+__sludge__ _Sam felt the sludge of too much caffeine and fast food in his blood._  
+__slug__  
+__snarling__  
+__soggy__   _Soggy food on top letting off a gray steam._  
+__spurt__ _n_ _Growth spurts._  
 __sputtered__  
+__squawked__ _The walkie-talkie squawked._  
+__stale__  
+__staler__ _The air in the place grew staler._  
+__swaying__  
+__thwack__  
+__tousled__  
+__troopers__  
+__twinge__  
+__umpteenth__  
+__unspooling__ _Unspooling microphone cables._  
+__vagaries__ _The vagaries of economics._  
+__vagrants__  
+__waft__ _v_  
+__wake__ _n_ _At wakes._  
+__whoosh__ _He could hear the whoosh of cars speeding past on a expressway._  
+__yelps__ _Puppy yelps._  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
