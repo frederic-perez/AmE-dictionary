@@ -1,11 +1,3 @@
-__feral__  
-__darting__  
-__leer up__  
-__chafe_v_  
-__stickball__  
-__kick-the-can__  
-__76__ (game)  
-__loopy__ _A loopy smile._  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -398,7 +390,7 @@ __caw__ _A rattling caw._
 __ce__  
 __cede__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
-__chafe (or chaf?)__ _v_  
+__chafe__ :two: :shit: _v_  
 __chagrin__ :three: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._  
 __chaise__  
 __champ__  
@@ -550,6 +542,7 @@ __dank__ :three: :shit: _An old table in a dank, smelly place._
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __dare__  
 __darn__  
+__darting__  
 __daubed__ _A swastika was daubed on a science center window._  
 __daunting__ :two: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
@@ -760,7 +753,7 @@ __feast__
 __feisty__  
 __felon__ :five: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
-__feral__ _Feral hogs._  
+__feral__ :two: :shit: _Feral hogs._  
 __ferret out__ _v_  
 __ferret__ _n_  
 __fester__  
@@ -1118,7 +1111,7 @@ __keepsake__ :two: _n_ A small item kept in memory of the person who gave it or 
 __kerkuffles__  
 __key up__ _He was too keyed up._  
 __kibbutz__  
-__kick the can__ :two: :shit: _Kicking the can down the road._  
+__kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children's game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two: :shit: _Kicking the can down the road._  
 __kiki__  
 __kill clock__ _v_  
 __kilter__ :two: :shit: _Out of kilter with the times._ _Off-kilter_  
@@ -1176,6 +1169,7 @@ __leapfrogging__ _v_
 __lease__  
 __leaven__ _To leaven the raunch and swagger._  
 __lectern__  
+__leer up__  
 __leer__ (leering) :three: :shit: :open_mouth: _v_ _She felt something leering behind his eyes._  
 __leery__ :four: _adj_ _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._  
 __leeway__ :two: :shit: _Allowing leeway for students who have low scores._  
@@ -1215,6 +1209,7 @@ __loggerheads__
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __lookout__ _Be on the lookout._  
 __loophole__ _:es: escapatoria_  
+__loopy__ _A loopy smile._  
 __loot__ _v_  
 __lore__ :two: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __lovelorn__ _adj_ Sad because of an unrequited love._  
@@ -1987,6 +1982,7 @@ __stentorian__
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
 __sterling__ _A sterling example._  
 __stick > turnaround stick._  
+__stickball__ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
 __sticker shock__  
 __stickler__ :two: :shit:  
 __stiffle__ (stifles, stifling) :three: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
