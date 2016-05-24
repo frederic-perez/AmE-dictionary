@@ -2292,6 +2292,7 @@ __warehoused__ (warehoused) _v_
 __wares__  
 __warrant__ :two: :shit: _v_  
 __wastrel__  
+__watch your six__ _Idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __water cooler__  
 __water down__  
 __waterfowl__  
