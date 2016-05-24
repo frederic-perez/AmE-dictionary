@@ -1,4 +1,19 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
+__embezzlement__  
+__swerve__ _v_  
+__pinwheel_ _v_  
+__gentrification__  
+__rambling__  
+__non sequiturs__  
+__strife__  
+__pipehead__  
+__digression__  
+__patron__ _n_  
+__elope__ _v_  
+__surmise__  
+__co-op__  
+__beeline__  
+__sewer gas__  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
