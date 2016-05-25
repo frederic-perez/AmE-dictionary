@@ -1,19 +1,4 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
-__embezzlement__  
-__swerve__ _v_  
-__pinwheel_ _v_  
-__gentrification__  
-__rambling__  
-__non sequiturs__  
-__strife__  
-__pipehead__  
-__digression__  
-__patron__ _n_  
-__elope__ _v_  
-__surmise__  
-__co-op__  
-__beeline__  
-__sewer gas__  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
@@ -205,6 +190,7 @@ __bedevil__ (bedeviled) :three: _v_ __1__ (of something bad) Cause great and con
 __bedfellow__  
 __bedrock__  
 __beef up__  
+__beeline__  
 __befitting__  
 __begrudge__  
 __beguiling__ _The Artist has an utterly beguiling purity._  
@@ -457,7 +443,7 @@ __cloying__ _She is cordial without being cloying._
 __clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clutch player__  
 __clutch__ _He was a dominant player in the clutch._  
-__co-op__  
+__co-op__ :two: :shit:  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coddled__ _A coddled creature._  
 __coffee-table book__  
@@ -601,6 +587,7 @@ __diction__ _The priest diction._
 __die-hard__ Person who resists change.  
 __diecast__  
 __diffident__  
+__digression__  
 __dikes__ :open_mouth:  
 __dime > on the dime__  
 __dimply__  
@@ -692,13 +679,13 @@ __el__ :two: :shit: _The el tracks._
 __elated__ :two: :shit: _They came to be elated and uplifted._  
 __elbow grease__  
 __elite__  
-__elope__  
+__elope__ :two: :shit: _v_  
 __elude__ :open_mouth:  
 __emaciate__ _v_ _Emaciated cancer patient._  
 __embark__ _They embark on a motorcade._  
 __embattle__ (embattled) _v_ :todo: :shit:  
 __ember__ _n_ A small piece of burning or glowing coal or wood in a dying fire.  
-__embezzle__ (embezzling, embezzlement) :six: /ɪmˈbɛz(ə)l,ɛm-/ _v_ Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ :es: malversación  
+__embezzle__ (embezzling, embezzlement) :seven: /ɪmˈbɛz(ə)l,ɛm-/ _v_ Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ :es: malversación  
 __embroil__ (embroiled)  
 __emcee__  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
@@ -891,6 +878,7 @@ __gazebo__
 __gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __gelled__ _His hair was neatly gelled._  
+__gentrification__  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __getaway day__  
 __giddiness__  
@@ -1362,6 +1350,7 @@ __nineloss__ ?
 __nipped__ _The Gaels were nipped at Washington._  
 __nitpick__  
 __nits__ _Hair filled with nits._  
+__non sequiturs__  
 __nonce__  
 __noose__ (nooses) :two: :shit:  
 __normalcy__ :two: :shit: _It took me months to get back to normalcy._  
@@ -1445,6 +1434,7 @@ __particle board__
 __pass policy__  
 __pat__ _The too search engines haven't been standing pat._   
 __patently__ _Patently absurd._  
+__patron__ _n_  
 __paucity__ :two: :shit: _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __paywalls__  
 __peal__ _n_ _Jimmy could hear the peal of bells._  
@@ -1481,7 +1471,9 @@ __pinched__ _He smoked his cigarettes down to pinched ends._
 __pink slime__  
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He's all pinkified for halloween._  
+__pinwheel__ _v_  
 __pipe dream__  
+__pipehead__  
 __pique__  
 __pit__ _n_ _The pit of his stomach._  
 __pit__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
@@ -1594,7 +1586,7 @@ __rainout__
 __raked over the coals__  
 __rally__ (rallied) :two: :shit: _v_ _Economy_ _The euro initially rallied by the most in nearly a month._  
 __ram__ _v_  
-__rambling__  
+__rambling__ :two: :shit:  
 __ramp up__ :two: :shit:  
 __ramparts__  
 __rank-and-file__ :three: :shit: _Rank-and-file officers._ _Rank-and-file employees._  
@@ -1783,6 +1775,7 @@ __sequiturs__
 __servicers__  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __sewage__ :es: aguas residuales  
+__sewer gas__  
 __shackles__ _A bed with built-in shackles._  
 __shale__ :three: A soft kind of rock that splits easily into flat pieces. :es: esquisto, pizarra  
 __sham__ _adj_ Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._  
@@ -2024,7 +2017,7 @@ __strep → strep throat__ _Maybe strepsils is derived from strep (throat)._
 __stretch__ _An interesting stretch run in the NFC._  
 __strewn__ :two: :shit:  
 __strictures__  
-__strife__ :two: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._  
+__strife__ :three: _n_ Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __stringently__  
 __stringer__  
 __strivers__  
@@ -2052,6 +2045,7 @@ __superintendent__
 __superpooch__  
 __supremacist__ _A whote supremacist._  
 __surefire__  
+__surmise__  
 __svelte__ :two: :shit:  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada a un bebé_  
 __swagger__  
@@ -2063,6 +2057,7 @@ __sway__ (swaying) :seven: _v_ Move or cause to move slowly or rhythmically back
 __swelled__  
 __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve__ (swerves) :two: :shit: _v_  
+__swerve__ _v_  
 __swift__  
 __swilling__ :two: :shit: _Swilling wine._  
 __swimabout__  
