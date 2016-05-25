@@ -1,5 +1,32 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
+__bar top__  
+__earnest__  
+__interspersed__  
+__solid gold__  
+__wayposts__  
+__duffer__  
+__wondrous__  
+__aphorism__  
+__construe__ _v_  
+__gullible__  
+__smashing__  
+__stowaway__  
+__husbandry__  
+__lovacore__  
+__succor__  
+__malfeasance__  
+__muckrake__  
+__extols__  
+__wanton__  
+__engrossed__  
+__neoteric__  
+__scattershot__  
+__delivers__  
+__eponymous__  
+__makeshift__  
+__enthusiasm__  
+__meringue__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
