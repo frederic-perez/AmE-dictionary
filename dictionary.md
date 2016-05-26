@@ -1,32 +1,5 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
-__bar top__  
-__earnest__  
-__interspersed__  
-__solid gold__  
-__wayposts__  
-__duffer__  
-__wondrous__  
-__aphorism__  
-__construe__ _v_  
-__gullible__  
-__smashing__  
-__stowaway__  
-__husbandry__  
-__lovacore__  
-__succor__  
-__malfeasance__  
-__muckrake__  
-__extols__  
-__wanton__  
-__engrossed__  
-__neoteric__  
-__scattershot__  
-__delivers__  
-__eponymous__  
-__makeshift__  
-__enthusiasm__  
-__meringue__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
@@ -142,6 +115,7 @@ __annuity__ (annuities) :two: :shit:
 __anomic__  
 __antics__ :two: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __apalling__ _adj_ :es: espantoso _(awful)_ pésimo  
+__aphorism__  
 __aping__  
 __aplomb__ :two: _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apologist__  
@@ -195,6 +169,7 @@ __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or un
 __banish__ (banished) :es: desterrar    
 __bankroll__ _v_  
 __bantamweight__ :two: _Rousey is the women's bantamweight champ._  
+__bar top__  
 __barbecue__ _Barbecue sauce._  
 __barnburner__  
 __barnstorm__  
@@ -507,8 +482,8 @@ __conservancies__
 __conspicuous__ (conspicuously) _adj_ __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constituencies__  
 __constituent__  
-__contention__ :two:  
-__contention__ :two: Heated disagreement. :es: contienda  
+__construe__ _v_  
+__contention__ :four: Heated disagreement. :es: contienda  
 __contentious__  
 __contiguous > the contiguous U.S.__  
 __contrite__  
@@ -595,6 +570,7 @@ __defry__
 __deft__ :three: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __deking__  
 __delectable__  
+__delivers__  
 __dell__ _n_ A small secluded wooded valley.  
 __deluge__ _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
@@ -685,6 +661,7 @@ __drought__ :two: A prolonged period of abnormally low rainfall, leading to a sh
 __drum up__  
 __druthers__  
 __dud__ (duds, dudly) :two: _Informal_ __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
+__duffer__  
 __dumplings__  
 __duped__ _v_ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._  
 __durable__ _The end of durable Red John story line is a new beginning._  
@@ -694,6 +671,7 @@ __dwindle__ :two: :shit: _v_
 __dwtn__  
 __dysfunction__ (dysfunctional) :open_mouth:  
 __dystopian__  
+__earnest__  
 __earthquake drill__  
 __ebb and floor__  
 __ebullient__  
@@ -725,12 +703,14 @@ __encroachment__
 __end run__ :two: :shit:  
 __endearing__ :four: _adj_ Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endow__ _v_  
+__engrossed__  
 __enlivened__  
 __enmity__  
 __ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthused__ (enthusing) :two: :shit:  
+__enthusiasm__  
 __entitlement__  
 __entrenched__  
 __envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
@@ -738,7 +718,7 @@ __epidemic__ _n_ Notice: _n_!
 __epithet__  
 __epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
 __epitomize__ (epitomized) :four: _v_ Be a perfect example of.  
-__epony-mously__  
+__eponymous__ (eponymously) :two: :shit:  
 __erupted__  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __escrow__ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -753,6 +733,7 @@ __excoriate__ _Gay rights advocates excoriated the state's actions._
 __expat__ _Baroque debut for Moscow expat choir._  
 __extol__ :two: :shit: _v_ _But he extols running as what helps him stay clean._  
 __extoll__  
+__extols__  
 __eye black__ _Escobarwas fined for wearing a homophobic slur on his eye black._  
 __eye black__ _He displayed a homophobic slur on his eye black._  
 __eye mask__ (to sleep)  
@@ -968,7 +949,7 @@ __grunt__ _You'll have as many troopers as you need for the grunt work._
 __grunts__ :two: :shit: _Grunts and generals._  
 __guffaw__ (guffaws) :two: :shit:  
 __guidet__ _Two guidettes._  
-__gullible__  
+__gullible__ :two: :shit:  
 __gum up__  
 __gumption__  
 __gung-ho__  
@@ -1061,6 +1042,7 @@ __humdrum__
 __hunk__ (hunky) :four: /hʌŋk/ _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunky-dory__  
 __hurl__ (hurling) :two: :shit: _Inmates hurling stones._ _Hurling an ax._  
+__husbandry__  
 __hush__ :two: :shit: _v_ _The hushed reference desk of the Denver Public Library._ :es: hcer callar  
 __hyperbole__  
 __icicles__  
@@ -1097,7 +1079,7 @@ __installment__ :two: _Customers can pay monthly installments of $15._ _In final
 __instating__  
 __institute__ _v_  
 __interlopers__  
-__interspersed__  
+__interspersed__ :two: :shit:  
 __invective__  
 __inveighed__  
 __issuance__  
@@ -1242,6 +1224,7 @@ __loophole__ _:es: escapatoria_
 __loopy__ _A loopy smile._  
 __loot__ _v_  
 __lore__ :two: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
+__lovacore__  
 __lovelorn__ _adj_ Sad because of an unrequited love._  
 __low-key__  
 __lowbrow__  
@@ -1266,11 +1249,12 @@ __maim__ (maimed) :three: Wound or injure (a person or animal) so that part of t
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__  
+__makeshift__  
 __makeup game__  
 __making waves__ :two: :shit:  
 __malarkey__  
 __malevolent__  
-__malfeasance__  
+__malfeasance__ :two: :shit:  
 __mangy__  
 __manhole cover__  
 __mantels__ _Fireplace mantels._  
@@ -1303,6 +1287,7 @@ __meme__
 __memos__  
 __mendacity__  
 __merchant__  
+__meringue__
 __mesh strainer__  
 __meted out__ _v_ _All the suspensions have been meted out._  
 __metronome__  
@@ -1348,6 +1333,7 @@ __motorized scooter__ _Police said they know who stole a motorized scooter that 
 __motormouth__  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __muck__  
+__muckrake__  
 __muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __muffle__ (muffled) :two: :shit: _v_ :es: amortiguar (sonido)  
 __mugger__ _n_  
@@ -1363,6 +1349,7 @@ __name-and-likeness__
 __names and likeness__  
 __nana__ _Her nana._  
 __nary__ _Nary a chance of rain throughout the tournament._  
+__neoteric__  
 __nepotism__  
 __nest egg__  
 __neutered__  
@@ -1752,6 +1739,7 @@ __scammed__
 __scampering__ _v_  
 __scant__ _Details were scant._  
 __scathing__ :three: Bitterly severe.  
+__scattershot__  
 __schism__  
 __schlepping__  
 __schlocky__  
@@ -1907,6 +1895,7 @@ __slug__ (slugs) :two: :shit:
 __slums__ _A woman from the slums of Rio de Janeiro._  
 __sly__ :four: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
 __smallpox__  
+__smashing__  
 __smattering__ :three: _n_ __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
 __smear__ _They use social media to smear their opponents._  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
@@ -1935,6 +1924,7 @@ __snuggles__
 __soft-spoken__  
 __soggy__ :two: :shit: _Soggy food on top letting off a gray steam._ _Soggy drink cups._  
 __sojourn__  
+__solid gold__  
 __solipsistic__  
 __sooner > sooner rather than later__  
 __sorrel__  
@@ -2033,6 +2023,7 @@ __stoplights__ :open_mouth:
 __storeful__  
 __stovepipe hat__  
 __stow__ _v_  
+__stowaway__  
 __strafing__    
 __strain__ :four: _v_ __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
@@ -2061,6 +2052,7 @@ __subpoena__
 __subside__  
 __subterfuge__  
 __subtle__ :es: sutil  
+__succor__  
 __succumb__ :open_mouth:  
 __such-and-such__  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
@@ -2322,8 +2314,7 @@ __wallop__
 __wallop__ _v_ Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
 __wallow__ (wallows, wallowing) _v_ :four: __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __waning__  
-__wanton__ _There was no justification for such wanton destruction._  
-__wanton__ _To reducethe wanton drug violence._  
+__wanton__ :three: :shit: _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._  
 __warehoused__ (warehoused) _v_  
 __wares__  
 __warrant__ :two: :shit: _v_  
@@ -2333,6 +2324,7 @@ __water cooler__
 __water down__  
 __waterfowl__  
 __wavering__ _A wavering statement._  
+__wayposts__  
 __wayward__ :two: :shit: :es: díscolo  
 __wean__ :two: :shit: _v_  
 __weather__ (weathering) _v_  
@@ -2387,6 +2379,7 @@ __wizened__
 __woe__ _n_ Misfortune; calamity: _economic and political woes._  
 __womanizer__  
 __womanizing__  
+__wondrous__  
 __wonky__ _Wonky details._  
 __woodwork__  
 __woomb__  
