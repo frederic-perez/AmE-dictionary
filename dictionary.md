@@ -163,7 +163,7 @@ __ballasr__
 __ballcap__  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __ballpark__  
-__ballyhooed__ :three: :shit:  
+__ballyhoo__ (ballyhooed) :three: _v_ Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __banish__ (banished) :es: desterrar    
@@ -227,7 +227,7 @@ __bespectacled__ :two: :shit: _Hollande, an unassuming and bespectacled Socialis
 __bespoke__  
 __bestow__ :seven: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bettors__  
-__bevy__ :three: :shit:  
+__bevy__ :three: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bicker__ (bickering) :two: _v_ Argue about petty and trivial matters. _The time for bickering is over._  
 __bid__ :two: Offer (a certain price) for something, especially at an auction.  
 __bigot__ /ˈbɪɡət/ _n_ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
@@ -2314,7 +2314,7 @@ __wallop__
 __wallop__ _v_ Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
 __wallow__ (wallows, wallowing) _v_ :four: __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __waning__  
-__wanton__ :three: :shit: _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._  
+__wanton__ :three: _adj_ __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __warehoused__ (warehoused) _v_  
 __wares__  
 __warrant__ :two: :shit: _v_  
