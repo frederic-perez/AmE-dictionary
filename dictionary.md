@@ -1,23 +1,5 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
-__coterie__  
-__gold rush__  
-__adverts__  
-__gullies__  
-__coaster brakes__  
-__lumberjack__  
-__parsnip__  
-__unfurl__  
-__lavish__  
-__gritty__  
-__slosh__ _v_  
-__misnomer__  
-__oligarch__  
-__doom and gloom__  
-__scourge__  
-__jeering__  
-__minnows__  
-__awash__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
@@ -102,6 +84,7 @@ __add up__
 __addled__  
 __adjunct__ _Adjunct professors._  
 __advent__  
+__adverts__  
 __afar__ :three: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affluent__  
 __afloat__  
@@ -161,7 +144,7 @@ __autoclaving__
 __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
-__awash__ :two: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ :three: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __back breaker__  
 __back out__  
@@ -464,6 +447,7 @@ __clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or m
 __clutch player__  
 __clutch__ _He was a dominant player in the clutch._  
 __co-op__ :two: :shit:  
+__coaster brakes__  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coddled__ _A coddled creature._  
 __coffee-table book__  
@@ -513,6 +497,7 @@ __cooed__
 __copper-bottom hit__  
 __cord blood__  
 __corgi__  
+__coterie__  
 __counsel__  
 __counterfeit__ :es: falsificación  
 __cover charge__  
@@ -646,7 +631,7 @@ __dole out__ :six: To give or deliver in small portions. _v_ _Pringles will dole
 __dolirometer__  
 __dollop__  
 __doodad__  
-__doom and gloom__  
+__doom and gloom__ :two: :shit:  
 __doorbuster__ (door-buster) :three: A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doormat__  
 __doozy__ :two: _Informal_ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
@@ -926,6 +911,7 @@ __gnaw__ (gnawed, gnaw out) :three: /nɔː/ _v_ To erode or diminish gradually a
 __go to the dogs__  
 __go-for-broke__  
 __gobble up__ :two: :shit: _v_  
+__gold rush__  
 __gonzo__ :two: :shit:  
 __goo__ _Informal_ Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
@@ -948,8 +934,7 @@ __grille__
 __grinding__ _Bumping and grinding._  
 __gripe__ _Not a single gripe._  
 __grist__ _Plastic wrapping becomes grist for composite decking._  
-__grit__ (gritty, grittier) :four: _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
-__grittier__  
+__grit__ (gritty, grittier) :six: _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grizzled__  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __groundbreaker__  
@@ -968,6 +953,7 @@ __grunts__ :two: :shit: _Grunts and generals._
 __guffaw__ (guffaws) :two: :shit:  
 __guidet__ _Two guidettes._  
 __gullible__ :two: :shit:  
+__gullies__  
 __gum up__  
 __gumption__  
 __gung-ho__  
@@ -1110,6 +1096,7 @@ __jamboree__ :two: :shit: _v_
 __jar__ _v_  
 __jaunty__ _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jazzy__  
+__jeering__  
 __jejune__  
 __jettisoning__  
 __jetty__  
@@ -1188,6 +1175,7 @@ __last → next to last__
 __latchkey__  
 __late → of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __laughingstock__  
+__lavish__  
 __law of the land__  
 __lax__ (not LAX)  
 __lay__ _Lay reader._  
@@ -1252,6 +1240,7 @@ __lug wrench__
 __lugging__  
 __lull__ (lulls) :two: :shit: _n_  
 __lumber__ :two: :shit: _v_ _Two elephants lumber out of the bush to drink._  
+__lumberjack__  
 __lump__ _v_  
 __luncheon__  
 __lunchpail__  
@@ -1321,11 +1310,12 @@ __milquetoast__ _Walt's journey from a milquetoast chemistry teacher to a ruthle
 __mince__ :two: _v_ Cut up (food, especially meat) into very small pieces, typically in a machine. Minced beef._  
 __minder__ :es: guardaespaldas  
 __mindful__  
+__minnows__  
 __mired__ _v_  
 __misgivings__  
 __mishap__  
 __mishmash__  
-__misnomer__ :two: :shit:  
+__misnomer__ :three: :shit:  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mitzvah__  
 __mixed bag__  
@@ -1404,6 +1394,7 @@ __off-putting__
 __offing__ _A budding rivalry could be in the offing._  
 __oft-shouting-sermon__  
 __olefin__ _n_  
+__oligarch__  
 __omen__ :two: :shit:  
 __ominous__  
 __on deck__  
@@ -1461,6 +1452,7 @@ __parched__ _The dryness will encompass parched California._
 __pariah__  
 __parishioner__  
 __parlayed__  
+__parsnip__  
 __partake__ (partaking) :two: :shit: _v_  
 __particle board__  
 __pass policy__  
@@ -1772,7 +1764,7 @@ __scooter__ _Motorized scooter._
 __score__ :two: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scoured__ Search thoroughly.  
-__scourge__ :three: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
+__scourge__ :four: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scramble__ (scrambling) :three: :shit: _Chuck scrambled his hands through his windbreaker._  
 __scrap__ _n_ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap__ _v_  
@@ -1903,7 +1895,7 @@ __slog__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be
 __slop__ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy__ _We were a little sloppy in the second half of the game._  
-__slosh__ (sloshing) :three: _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
+__slosh__ (sloshing) :four: _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__  
 __slough__ _Henry sloughs off questions about his odometer._  
 __slow-as-molases__  
@@ -2252,6 +2244,7 @@ __underwrite__ (underwriting) :two: :shit:
 __unfazed__  
 __unfettered__ _Esxposed to unfetteredpolitical advocacy._  
 __unflinching__  
+__unfurl__  
 __unhindered__  
 __unrepentant__  
 __unscathed__ :two: _adj_ Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
