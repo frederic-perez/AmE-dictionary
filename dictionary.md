@@ -2,6 +2,29 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __forlorn__ :two:  
 __cue ball__  
+__chucklers__  
+__good sport(s)__  
+__sashay__  
+__insipid__  
+__tryst__  
+__rascal__  
+__anguish__  
+__immigrated__  
+__busker__  
+__ad-lib__ _v_  
+__emcee__  
+__core-dump__ _The book goes on like this, a chronological core-dump of facts._  
+__heckled__ _v_  
+__antique__  
+__slapstick__  
+__penned__  
+__deathless__  
+__guileless__   
+__earth-shatering__  
+__jaunty__  
+__pastiche__  
+__soppy__  
+__hitherto__
 __target ball__  
 __elicited__  
 __shale__  
