@@ -1,5 +1,16 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
+__brogue__  
+__volition__  
+__lint__ _Methods to prevent lint fires in your dryer._  
+__rummage__  
+__trickle__  
+__stiff__ __Working stiffs._  
+__humor__ _v_ _Just humor me._  
+__dredging__  
+__beffuddled__  
+__scrapper__  
+__sprinkler__ _Lawn sprinklers._  
 __forlorn__ :two:  
 __cue ball__  
 __chucklers__  
