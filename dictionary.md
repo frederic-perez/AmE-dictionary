@@ -4,6 +4,18 @@ __forlorn__ :two:
 __cue ball__  
 __chucklers__  
 __good sport(s)__  
+__elope__ :two: :shit:  v_ _Katie was planning to elope with Brendan._  
+__acorn__ _pl._ _The acorn don't fall far from the tree._  
+__go native__ _You going native on me, Supercop?_  
+__hummer_ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
+__stray steeples__  
+__casket__  
+__stray__ _Stray friends._  
+__dart__ _v_  
+__grip__ _v_  
+__Sped case__  
+__seesaw__ _v_  
+__bum__ _v_  
 __sashay__  
 __insipid__  
 __tryst__  
