@@ -54,11 +54,11 @@ __slapstick__
 __penned__  
 __deathless__  
 __guileless__   
-__earth-shatering__  
+__earth-shattering__  
 __jaunty__  
 __pastiche__  
 __soppy__  
-__hitherto__
+__hitherto__  
 __target ball__  
 __elicited__  
 __shale__  
