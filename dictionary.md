@@ -5,7 +5,8 @@ __squishing__
 __swatted__  
 __peal__
 __snarl__  
-__tingled__  __swagger__  
+__tingled__  
+__swagger__  
 __welling up__  
 __goblins__  
 __aloof__  
@@ -15,7 +16,7 @@ __volition__
 __lint__ _Methods to prevent lint fires in your dryer._  
 __rummage__  
 __trickle__  
-__stiff__ __Working stiffs._  
+__stiff__ _Working stiffs._  
 __humor__ _v_ _Just humor me._  
 __dredging__  
 __beffuddled__  
@@ -28,7 +29,7 @@ __good sport(s)__
 __elope__ :two: :shit:  v_ _Katie was planning to elope with Brendan._  
 __acorn__ _pl._ _The acorn don't fall far from the tree._  
 __go native__ _You going native on me, Supercop?_  
-__hummer_ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
+__hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __stray steeples__  
 __casket__  
 __stray__ _Stray friends._  
