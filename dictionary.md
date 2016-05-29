@@ -2,6 +2,14 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __brogue__  
 __squishing__  
+__roll on__ _He rolled on the guy who'd hired him for the trucking job._  
+__slick__ _They were slick as hell._  
+__sprinkler__  
+__pined__ _It was only in movies that people pined for the dead._  
+__dais__  
+__moat__  
+__bodacious__  
+__bod__  
 __swatted__  
 __peal__
 __snarl__  
