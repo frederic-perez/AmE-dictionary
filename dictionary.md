@@ -5,6 +5,14 @@ __squishing__
 __swatted__  
 __peal__
 __snarl__  
+__embezzle__  
+__larceny__  
+__wee__ _Comes out of prison with a wee bit of a chemical dependency problem._  
+__ho__  
+__gat__  
+__limerics__  
+__dump__ _They walkes to the trash can and dumped their cups._  
+__thumb__ _v_ _He took a seat and thumbed through the Sporting News._  
 __tingled__  
 __swagger__  
 __welling up__  
