@@ -1,102 +1,100 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
-__brogue__  
-__squishing__  
-__roll on__ _He rolled on the guy who'd hired him for the trucking job._  
-__slick__ _They were slick as hell._  
-__sprinkler__  
-__pined__ _It was only in movies that people pined for the dead._  
-__dais__  
-__moat__  
-__bodacious__  
+__Sped case__  
+__acorn__ _pl._ _The acorn don't fall far from the tree._  
+__ad-lib__ _v_  
+__agape__ _He stood there with his mouth agape._  
+__aloof__  
+__anguish__  
+__antique__  
+__befuddled__  
 __bod__  
-__swatted__  
+__bodacious__  
+__brogue__  
+__bum__ _v_  
+__busker__  
+__casket__  
+__chucklers__  
+__clammy__  
+__core-dump__ _The book goes on like this, a chronological core-dump of facts._  
 __creakings__ _Door creakings._  
-__harp__ _v_ _She told her she was always harping on him._  
-__lunge__ _v__  
-__ramming__  
-__scrambled__ _He scrambled after him._  
-__croaked__  
-__jaunty__  
-__soot__  
-__mahogany__ _He took a leather seat at a magohany bar._  
 __crimps__  
-__agape__ __He stood there with his mouth agape._  
-__possum__ _He'd been playing possum._  
-__peal__
-__snarl__  
-__embezzle__  
-__larceny__  
-__wee__ _Comes out of prison with a wee bit of a chemical dependency problem._  
-__ho__  
-__gat__  
-__limerics__  
+__croaked__  
+__cue ball__  
+__dais__  
+__dart__ _v_  
+__deathless__  
+__dredging__  
 __dump__ _They walkes to the trash can and dumped their cups._  
+__earth-shattering__  
+__elicited__  
+__elope__ :two: :shit:  _v_ _Katie was planning to elope with Brendan._  
+__embezzle__  
+__emcee__  
+__forlorn__ :two:  
+__gat__  
+__go native__ _You going native on me, Supercop?_  
+__goblins__  
+__good sport(s)__  
+__grip__ _v_  
+__guileless__   
+__harp__ _v_ _She told her she was always harping on him._  
+__heckled__ _v_  
+__hitherto__  
+__ho__  
+__hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
+__humor__ _v_ _Just humor me._  
+__hurl__ _v_  
+__immigrated__  
+__insipid__  
+__jaunty__ :two: :shit:  
+__larceny__  
+__leer__  
+__limerics__  
+__lint__ _Methods to prevent lint fires in your dryer._  
+__lug__  
+__lunge__ _v_  
+__mahogany__ _He took a leather seat at a magohany bar._  
+__moat__  
+__musty__  
+__pastiche__  
+__peal__
+__penned__  
+__pined__ _It was only in movies that people pined for the dead._  
+__possum__ _He'd been playing possum._  
+__ramming__  
+__rascal__  
+__razzing__  
+__respite__ _n_  
+__risers__  
+__roll on__ _He rolled on the guy who'd hired him for the trucking job._  
+__rummage__  
+__sashay__  
+__scrambled__ _He scrambled after him._  
+__scrapper__  
+__seeped__  
+__seesaw__ _v_  
+__shale__  
+__slapstick__  
+__slick__ _They were slick as hell._  
+__snarl__  
+__soot__  
+__soppy__  
+__sprinkler__ :two: :shit:_Lawn sprinklers._  
+__squishing__  
+__stiff__ _Working stiffs._  
+__stray steeples__  
+__stray__ _Stray friends._  
+__swagger__  
+__swatted__  
+__target ball__  
 __thumb__ _v_ _He took a seat and thumbed through the Sporting News._  
 __tingled__  
-__swagger__  
-__welling up__  
-__goblins__  
-__aloof__  
-__lug__  
-__leer__  
-__volition__  
-__lint__ _Methods to prevent lint fires in your dryer._  
-__rummage__  
 __trickle__  
-__stiff__ _Working stiffs._  
-__humor__ _v_ _Just humor me._  
-__dredging__  
-__beffuddled__  
-__scrapper__  
-__sprinkler__ _Lawn sprinklers._  
-__forlorn__ :two:  
-__cue ball__  
-__chucklers__  
-__good sport(s)__  
-__elope__ :two: :shit:  v_ _Katie was planning to elope with Brendan._  
-__acorn__ _pl._ _The acorn don't fall far from the tree._  
-__go native__ _You going native on me, Supercop?_  
-__hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
-__stray steeples__  
-__casket__  
-__stray__ _Stray friends._  
-__dart__ _v_  
-__grip__ _v_  
-__Sped case__  
-__seesaw__ _v_  
-__bum__ _v_  
-__sashay__  
-__insipid__  
 __tryst__  
-__rascal__  
-__anguish__  
-__immigrated__  
-__busker__  
-__ad-lib__ _v_  
-__emcee__  
-__core-dump__ _The book goes on like this, a chronological core-dump of facts._  
-__heckled__ _v_  
-__antique__  
-__slapstick__  
-__penned__  
-__deathless__  
-__guileless__   
-__earth-shattering__  
-__jaunty__  
-__pastiche__  
-__soppy__  
-__hitherto__  
-__target ball__  
-__elicited__  
-__shale__  
-__risers__  
-__musty__  
-__clammy__  
-__seeped__  
-__respite__ _n_  
-__razzing__  
-__hurl__ _v_  
+__volition__  
+__wee__ _Comes out of prison with a wee bit of a chemical dependency problem._  
+__welling up__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
