@@ -1,4 +1,18 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
+__slurp__ _v_ _Whitey sucked his soda through a straw until it slurped against the ice._  
+__reek_ _v_  
+__puckered__  
+__slim jim__ _Souza used a slim jim to pop the passenger door lock._  
+__dreg__ _Away from the dregs and junkies._  
+__sift__ _v_  
+__waterfront__  
+__woozy__  
+__dinghy__  
+__gulp__  
+__caws__  
+__gulls__  
+__crevice__  
+__reprieve__  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
