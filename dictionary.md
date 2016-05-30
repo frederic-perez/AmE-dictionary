@@ -11,6 +11,18 @@ __moat__
 __bodacious__  
 __bod__  
 __swatted__  
+__creakings__ _Door creakings._  
+__harp__ _v_ _She told her she was always harping on him._  
+__lunge__ _v__  
+__ramming__  
+__scrambled__ _He scrambled after him._  
+__croaked__  
+__jaunty__  
+__soot__  
+__mahogany__ _He took a leather seat at a magohany bar._  
+__crimps__  
+__agape__ __He stood there with his mouth agape._  
+__possum__ _He'd been playing possum._  
 __peal__
 __snarl__  
 __embezzle__  
