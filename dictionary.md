@@ -1,18 +1,4 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
-__slurp__ _v_ _Whitey sucked his soda through a straw until it slurped against the ice._  
-__reek_ _v_  
-__puckered__  
-__slim jim__ _Souza used a slim jim to pop the passenger door lock._  
-__dreg__ _Away from the dregs and junkies._  
-__sift__ _v_  
-__waterfront__  
-__woozy__  
-__dinghy__  
-__gulp__  
-__caws__  
-__gulls__  
-__crevice__  
-__reprieve__  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
@@ -414,7 +400,7 @@ __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted w
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __caucus__  
 __cave__ :two: _v_ Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
-__caw__ _A rattling caw._  
+__caw__ (caws) :two: :shit: _A rattling caw._  
 __ce__  
 __cede__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
@@ -537,7 +523,7 @@ __cram__ _v_ _On the weekends, she crams in as much physical activity as she can
 __craven__ _A craven political figure._  
 __creakings__ _Door creakings._  
 __crepe__  
-__crevice__ :two: :shit:  
+__crevice__ :three: :shit:  
 __crimp__ (crimped) :three: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimson__ _Crimson cereal._  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe → me da horror_  
@@ -630,6 +616,7 @@ __dime > on the dime__
 __dimply__  
 __din__ :three: :shit:  
 __ding up__ _v_  
+__dinghy__  
 __dire__ :two: :shit: _Doctors warned of dire consequences._  
 __disarray__ :two: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos  
 __disbar__ _Disbar attorney._  
@@ -686,6 +673,7 @@ __drape__ (draping) :two: :shit: _v_
 __drawl__  
 __dredge up__ (dredging) :three: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga    
+__dreg__ _Away from the dregs and junkies._  
 __drench__ (drenched) :two: :shit:  
 __drive__ _The drive by Senate Democrats to change the rules._  
 __drivetrains__  
@@ -994,6 +982,8 @@ __guidet__ _Two guidettes._
 __guileless__   
 __gullible__ :two: :shit:  
 __gullies__  
+__gulls__  
+__gulp__  
 __gum up__  
 __gumption__  
 __gung-ho__  
@@ -1625,6 +1615,7 @@ __providence__ _It was providence._
 __provost__  
 __prowess__  
 __pry__ :two: :shit: _To pry the crack open wider and wider._  
+__puckered__  
 __puff__  
 __pugnacity__  
 __pugs__  
@@ -1704,7 +1695,7 @@ __redress__
 __redshirt__  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__  
-__reek__ (reeks) :three: :shit: _She reeked of cigarette smoke._  
+__reek__ (reeks) :four: :shit: _v_ _She reeked of cigarette smoke._  
 __reeling__ _Reeling economy._  
 __referenda__  
 __regal__ :two: :shit:  
@@ -1720,7 +1711,7 @@ __remembrance__ :three: _n_ The action of remembering something. _JFK Remembranc
 __rep__ Reputation?  
 __repeieve__  
 __repentance__  
-__reprieve__ :two: :shit: :es: indulto  
+__reprieve__ :three: :shit: :es: indulto  
 __reprisals__ _A ban on federal reprisals._  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __resolved__ _The issue was resolved._  
@@ -1910,7 +1901,7 @@ __siddle up__ _Chuck siddled up beside his brother._
 __sidecar shovelhead__  
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
-__sift__ :two: :shit: _v_  
+__sift__ :three: :shit: _v_  
 __signage__ Signs collectively.  
 __signee__  
 __signet ring__  
@@ -1951,6 +1942,7 @@ __slick__ _v_
 __slide__ :two: :shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _What's up with someone's slider?_  
 __slighted__  
+__slim jim__ _Souza used a slim jim to pop the passenger door lock._  
 __slip__ _A pink slip._  
 __slit > hi-slit dress__  
 __sliver__  
@@ -1968,6 +1960,7 @@ __sludge__ _Sam felt the sludge of too much caffeine and fast food in his blood.
 __sludge__ _She felt the alcohol turnto an itchy sludge in her blood._  
 __slug__ (slugs) :two: :shit:  
 __slums__ _A woman from the slums of Rio de Janeiro._  
+__slurp__ _v_ _Whitey sucked his soda through a straw until it slurped against the ice._  
 __sly__ :four: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
 __smallpox__  
 __smashing__  
@@ -2410,6 +2403,7 @@ __watch your six__ _Idiom_ Your intuitions are correct; the phrase 'watch your s
 __water cooler__  
 __water down__  
 __waterfowl__  
+__waterfront__  
 __wavering__ _A wavering statement._  
 __wayposts__  
 __wayward__ :two: :shit: :es: díscolo  
@@ -2472,7 +2466,7 @@ __wondrous__
 __wonky__ _Wonky details._  
 __woodwork__  
 __woomb__  
-__woozy__  
+__woozy__ :two: :shit:  
 __workaday__  
 __workforce__  
 __worrisome__  
