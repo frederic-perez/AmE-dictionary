@@ -684,6 +684,7 @@ __drum up__
 __druthers__  
 __dud__ (duds, dudly) :two: _Informal_ __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __duffer__  
+__dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas
 __dump__ _They walkes to the trash can and dumped their cups._  
 __dumplings__  
 __duped__ _v_ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._  
@@ -1006,6 +1007,7 @@ __hammy__ _adj_ Marked or characterized by overacting; affectedly humorous or dr
 __hamper__ (hampered) :two: :shit: _v_  
 __handoff__  
 __handout__ (handouts) :two: :shit:  
+__hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hangout__  
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ Craving.  
@@ -1969,7 +1971,7 @@ __smear__ _They use social media to smear their opponents._
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smitten__ :two: :shit: _He was smitten by the landscape._  
 __smolders__ (smoldered) :two: :shit:  
-__smoothies__ :two: :shit:  
+__smoothie__ (smothies) :two: A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smug__ :two: :shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
 __snag__ :two: :shit: _v_ _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snag__ _n_ :es: problema  
