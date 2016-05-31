@@ -710,7 +710,7 @@ __elated__ :two: :shit: _They came to be elated and uplifted._
 __elbow grease__  
 __elicited__  
 __elite__  
-__elope__ :four: :shit: _v_ _Katie was planning to elope with Brendan._  
+__elope__ :four: :dart: _v_ Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __elude__ :open_mouth:  
 __emaciate__ _v_ _Emaciated cancer patient._  
 __embark__ _They embark on a motorcade._  
@@ -857,7 +857,7 @@ __forestalled__
 __forfeit__ (forfeiting) :tso: :shit:  
 __forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgo__ :three: _v_ Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
-__forlorn__ :four: :shit: _A forlorn dream._  
+__forlorn__ :four: _adj_ __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __foul play__ :two: Violence, esp. murder.  
 __foul__ _Foul language__   
 __foundry__  
@@ -1228,7 +1228,7 @@ __lease__
 __leaven__ _To leaven the raunch and swagger._  
 __lectern__  
 __leer up__  
-__leer__ (leering) :four: :shit: :open_mouth: _v_ _She felt something leering behind his eyes._  
+__leer__ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leery__ :four: _adj_ _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._  
 __leeway__ :two: :shit: _Allowing leeway for students who have low scores._  
 __legerdemain__  
