@@ -1825,7 +1825,7 @@ __score__ :two: A group or set of twenty or about twenty. _Five score years ago.
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scoured__ Search thoroughly.  
 __scourge__ :four: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
-__scramble__ (scrambled, scrambling) :four: :shit: _Chuck scrambled his hands through his windbreaker._ _He scrambled after him._  
+__scramble__ (scrambled, scrambling) :four: _v_ __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap__ _n_ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap__ _v_  
 __scrapper__  
@@ -2110,7 +2110,7 @@ __storeful__
 __stovepipe hat__  
 __stow__ _v_  
 __stowaway__  
-__strafing__    
+__strafing__  
 __strain__ :four: _v_ __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ :es: estrangular  
@@ -2373,6 +2373,7 @@ __veneer__
 __veneer__  
 __venom__  
 __veranda__  
+__veranda__ _n_ A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._
 __vermin__  
 __vernacular__  
 __verve__ :two: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
