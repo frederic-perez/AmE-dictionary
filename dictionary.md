@@ -1,28 +1,5 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
-__saucerful__  
-__slat__ _n_  
-__dustpan__  
-__sagging__  
-__racket__ _n_  
-__rave__ _v_  
-__cotton swabs__  
-__sewer grate__  
-__reek__ _v_  
-__strep__  
-__rustle__  
-__cluck__  
-__coo__  
-__modicum__  
-__shylock rackets__  
-__tong__  
-__rift__  
-__squander__  
-__dregs__  
-__dandruff__  
-__stilted__ _v_  
-__lice__  
-__cleats__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
@@ -465,7 +442,7 @@ __claret__
 __clawback__  
 __clear air__  
 __clearinghouse__  
-__cleats__  
+__cleats__ :two: :shit:  
 __cleave__ _v_ _The court often cleaves along predictable lines._  
 __clicking__ _Things seem to be making sense and clicking._  
 __clinch__ :four: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._  
@@ -478,6 +455,7 @@ __cloture__
 __cloud → to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __clout__ :six: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __cloying__ _She is cordial without being cloying._  
+__cluck__  
 __clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clutch player__  
 __clutch__ _He was a dominant player in the clutch._  
@@ -527,13 +505,14 @@ __contrite__
 __contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __convene__ (convenes) :three: _v_ Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse  
 __convivial__  
-__coo__ (cooed) :two: _v_ __1__ (of a pigeon or dove) Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ (of a person) Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
+__coo__ (cooed) :three: _v_ __1__ (of a pigeon or dove) Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ (of a person) Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooed__  
 __copper-bottom hit__  
 __cord blood__  
 __core-dump__ _The book goes on like this, a chronological core-dump of facts._  
 __corgi__  
 __coterie__  
+__cotton swabs__  
 __counsel__  
 __counterfeit__ :es: falsificación  
 __cover charge__  
@@ -582,6 +561,7 @@ __dacha__ _Molecular engineering will make wonders possible, such as luminescent
 __dada__ _Cinematic dada._  
 __dais__ :three: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dallying__  
+__dandruff__  
 __dangle__ _v_ _Garret seems to be dangling by a thread._  
 __dank__ :three: :shit: _An old table in a dank, smelly place._  
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
@@ -696,7 +676,7 @@ __drape__ (draping) :two: :shit: _v_
 __drawl__  
 __dredge up__ (dredging) :three: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga    
-__dreg__ _Away from the dregs and junkies._  
+__dreg__ (dregs) :two: :shit: _Away from the dregs and junkies._  
 __drench__ (drenched) :two: :shit:  
 __drive__ _The drive by Senate Democrats to change the rules._  
 __drivetrains__  
@@ -713,6 +693,7 @@ __dumplings__
 __duped__ _v_ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._  
 __durable__ _The end of durable Red John story line is a new beginning._  
 __duress__  
+__dustpan__  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwindle__ :two: :shit: _v_  
 __dwtn__  
@@ -1266,7 +1247,7 @@ __liability__ :two: :shit:
 __liaison__ 
 __libation__  
 __libel__  
-__lice__ :two: :shit: _Checked him for lice._  
+__lice__ :three: :shit: _Checked him for lice._  
 __lifeblood__ :two: The blood, as being necessary to life.  
 __lilac__  
 __limerics__  
@@ -1386,6 +1367,7 @@ __mistrel__ _A popular minstrel show, such as "Jim Crow."_
 __mitzvah__  
 __mixed bag__  
 __moat__  
+__modicum__  
 __mogul__  
 __molehill__  
 __mollify__ _v_  
@@ -1672,7 +1654,7 @@ __quip__ (quipped, quippy) :six: _n, v_  A clever or witty remark or comment. _R
 __quirk__ (quirky, quirkier) :seven: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quiver__  
 __racinos__  
-__racket > extortion rackets__  
+__racket__ :two: :shit: _n_ _Extortion rackets._  
 __racketeer__ :two: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racy__ :two: :shit: _A racy line from a popular song._  
 __raffle__  
@@ -1699,6 +1681,7 @@ __raucous__ :four: _adj_ Making or constituting a disturbingly harsh and loud no
 __raunchy__  
 __ravages__ :two: :shit: _The potential ravages of a man-manipulated virus at a research center._  
 __rave__ (raves) :four: _n_ __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
+__rave__ _v_  
 __raze__ (razing) _v_ To level to the ground; demolish. _In March they razed the house._  
 __razz__ (razzing) _v_ To deride, heckle, or tease. _Razzed the teammate who missed the shot._  
 __razzle-dazzle__  
@@ -1720,7 +1703,7 @@ __redress__
 __redshirt__  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__  
-__reek__ (reeks) :four: :shit: _v_ _She reeked of cigarette smoke._  
+__reek__ (reeks) :five: :shit: _v_ _She reeked of cigarette smoke._  
 __reeling__ _Reeling economy._  
 __referenda__  
 __regal__ :two: :shit:  
@@ -1758,7 +1741,7 @@ __riches__ :two: :shit:
 __rickets__  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __riffle__ _v_ _Annabeth riffled the medicine cabinet for the toothpaste._  
-__rift__ :two: :shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
+__rift__ :three: :shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
 __rigmarole__ _Rigmarole controls._  
 __rile__ (riled) :two: _v_ Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ :es: sacar de quicio  
 __ringleader__  
@@ -1805,10 +1788,10 @@ __runner-up__ _Nadal was the runner-up to Roger Federer in 2006-7._
 __running-of-the-mill husband__  
 __runoff__ _Enough votes to force a runoff,_  
 __ruse__  
+__rustle__  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __safeguard__  
-__sag__ :two: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
-__sag__ _v_  
+__sag__ (sagging) :four: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
 __saggy__  
 __salacious__ _Salacious music._  
 __salvo__ :two: :shit:  
@@ -1818,6 +1801,7 @@ __sanitize__ _v_
 __sap__ (sapped, sappy) :three: _v_ Gradually weaken or destroy (a person's strength or power).  
 __saplings__ :two: :shit: _Tree saplings._  
 __sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
+__saucerful__  
 __savagery__  
 __sawhorse__ :two: :shit:  
 __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
@@ -1880,6 +1864,7 @@ __servicers__
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __sewage__ :es: aguas residuales  
 __sewer gas__  
+__sewer grate__  
 __shackles__ _A bed with built-in shackles._  
 __shale__ :four: A soft kind of rock that splits easily into flat pieces. :es: esquisto, pizarra  
 __sham__ _adj_ Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._  
@@ -1922,6 +1907,7 @@ __shush__ _v_
 __shutout__ _Last year, the NL won in a shutout._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shy of__ _Just shy of its highest mark._  
+__shylock rackets__  
 __siddle up__ _Chuck siddled up beside his brother._  
 __sidecar shovelhead__  
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
@@ -1957,6 +1943,7 @@ __skullcap__
 __slant__  
 __slapstick__  
 __slash__ _Basketball_ _He is a lanky gunner who can slash._  
+__slat__ _n_  
 __slather__ _To slather on hand lotion._  
 __slay__ (slain) JFK was slain.  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
@@ -2059,6 +2046,7 @@ __squabble__ _Shrieking marital squabbles._
 __squabbles__
 __squabbling__ _v_ _A squabbling family._  
 __squalid__:open_mouth: _Squalid home._  
+__squander__  
 __square deal__  
 __squat__ :two: _v_ Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
 __squat__ _adj_ Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ 	stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy  
@@ -2109,6 +2097,7 @@ __stickler__ :two: :shit:
 __stiff__ _Working stiffs._  
 __stiffle__ (stifles, stifling) :three: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stilt walkers__  
+__stilted__ _v_  
 __stipend__  
 __stirring__  
 __stock car__ _Stock car racing._  
@@ -2130,7 +2119,7 @@ __stray__ _Stray friends._
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streamline__ (streamlining)  
 __streamline__ _v_ _Streamlining regulations._  
-__strep → strep throat__ _Maybe strepsils is derived from strep (throat)._  
+__strep → strep throat__ :two: :shit: _Maybe strepsils is derived from strep (throat)._  
 __stretch__ _An interesting stretch run in the NFC._  
 __strewn__ :two: :shit:  
 __strictures__  
@@ -2263,6 +2252,7 @@ __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support 
 __toil__  
 __toll__ _Church bells tolling._  
 __tomboy__  
+__tong__  
 __tony__ :three: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._  
 __toodling__  
 __toom__  
