@@ -1099,7 +1099,7 @@ __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wi
 __humor__ _v_ _Just humor me._  
 __hunk__ (hunky) :four: /hʌŋk/ _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunky-dory__    
-__hurl__ (hurling) :four: :shit: _Inmates hurling stones._ _Hurling an ax._  
+__hurl__ (hurling) :four: _v_ Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __husbandry__  
 __hush__ :two: :shit: _v_ _The hushed reference desk of the Denver Public Library._ :es: hcer callar  
 __hyperbole__  
@@ -1223,7 +1223,7 @@ __lambaster__ _v_
 __lampooned__  
 __landfill__ :two: :shit:    
 __lanky__  
-__larceny__ :three: :shit:  
+__larceny__ :three: _n_ Theft of personal property. :es: hurto  
 __larger-than-life__ :three: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lash out__  
 __last → next to last__  
@@ -1717,7 +1717,7 @@ __redress__
 __redshirt__  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__  
-__reek__ (reeks) :five: :shit: _v_ _She reeked of cigarette smoke._  
+__reek__ (reeks) :five: _v_ Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ :es: apestar  
 __reeling__ _Reeling economy._  
 __referenda__  
 __regal__ :two: :shit:  
