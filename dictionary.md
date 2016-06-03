@@ -1,5 +1,13 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __plead our__  
+__pard__  
+__quicksilver__  
+__snicker__ _v_  
+__moth__  
+__swindle__  
+__tumbler__ _A tumbler of bourbon and ice._  
+__blue-collar men__  
+__cleft__  
 __Step 'n' Fetch It routine__  
 __ramshackle__  
 __haps__ _What's the haps?_  
