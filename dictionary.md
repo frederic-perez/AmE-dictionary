@@ -1,6 +1,27 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __plead out__  
 __bawdy__  
+__ribbing__  
+__nurtured__  
+__emeritus__  
+__outspoken__  
+__proceeds__  
+__bequest__  
+__outbreaks__  
+__kale__  
+__racked__  
+__peddling__  
+__hapless__  
+__dud__  
+__extraneous__  
+__slobs__ _n_  
+__emancipation__  
+__NATO__ _North Atlantic Treaty Organization__  
+__potatoes__  
+__sharpshooter__  
+__strewed__ _v_  
+__selfsame__  
+__splurging__  
 __denouement__  
 __orb__  
 __confederacy__  
@@ -18,6 +39,20 @@ __defrost__
 __washwoman__  
 __quixotic__  
 __tucked__  
+__arguably__  
+__snoodlike__  
+__hailing__  
+__parted__ _Slightly parted lips._  
+__sinewy__  
+__strut__  
+__hewn__  
+__crux__ _The crux of the matter._  
+__bookish__  
+__foreboding__  
+__cliques__  
+__elation__  
+__impending__  
+__yearning__  ||
 __buttressed__  
 __ravishing__ :two: :shit:  
 __lug__ _v_  
