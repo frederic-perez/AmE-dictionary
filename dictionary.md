@@ -3,6 +3,31 @@ __plead out__
 __bawdy__  
 __denouement__  
 __orb__  
+__confederacy__  
+__nuanced__ _A nuanced view._  
+__infamy__  
+__poring__ _v_  
+__flaunting__  
+__tardy__  
+__futility__  
+__scribes__  
+__schnapps__  
+__grimly__  
+__Stasi__  
+__defrost__  
+__washwoman__  
+__quixotic__  
+__tucked__  
+__buttressed__  
+__ravishing__ :two: :shit:  
+__lug__ _v_  
+__writhe__  
+__cramp__ _n_  
+__tonsure__  
+__tableaux__ 
+__taxa__  
+__hatched__  
+__foxing stains__  
 __corsages__  
 __marsh__  
 __winterkill__  
