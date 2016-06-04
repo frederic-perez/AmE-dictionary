@@ -1,6 +1,13 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __plead out__  
 __bawdy__  
+__denouement__  
+__orb__  
+__corsages__  
+__marsh__  
+__winterkill__  
+__wad up__ _v_  
+__slash__ _Slash pines._  
 __hoe__ _n_  
 __balogna__ _n_  
 __grove__  
