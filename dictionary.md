@@ -1,5 +1,19 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
-__plead our__  
+__plead out__  
+__bawdy__  
+__hoe__ _n_  
+__balogna__ _n_  
+__grove__  
+__welted__  
+__yonder__  
+__bumblebees__  
+__sheen__ _The sheen on his hair when he removed his hat._  
+__ornate__  
+__demurely__  
+__suffuse__ _v_  
+__bewhiskered__  
+__frilled__ _Frilled apron._  
+__camphor__    
 __pard__  
 __quicksilver__  
 __snicker__ _v_  
