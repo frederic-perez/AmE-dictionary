@@ -15,6 +15,42 @@ __hapless__
 __dud__  
 __extraneous__  
 __slobs__ _n_  
+__sprinkled__ _v_  
+__beignets__  
+__damp__  
+__clods__  
+__on__ __spy on someone__  
+__hubcaps__  
+__stove__  
+__toilet bowl__  
+__pud__  
+__cinder__  
+__suffused__ _v_  
+__flailing__  
+__flung__  
+__avuncular__  
+__wintry__  
+__sheathed__  
+__crinkling__  
+__clapboard__  
+__shack__  
+__soggy__  
+__terrapin__  
+__lumber__ _v_  
+__raccoons__  
+__strayed__  
+__plucked__  
+__reeds__  
+__struck__  
+__sinew__  
+__stubby__  
+__tanner__  
+__starched__  
+__fob__  
+__snick__ _v_  
+__hoss__  
+__swelling__  
+__quilt__  
 __emancipation__  
 __NATO__ _North Atlantic Treaty Organization__  
 __potatoes__  
