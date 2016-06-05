@@ -6,6 +6,18 @@ __nurtured__
 __emeritus__  
 __outspoken__  
 __proceeds__  
+__feted__  
+__tempestuous__  
+__epitomize__  
+__excess__ _In excess__  
+__balked__  
+__fallout__ :two:  
+__fillip__  
+__denting__  
+__hearing__ _law_  
+__riposte__  
+__inbound__  
+__outbound__ _The latest trends in Chinese outbound tourism._  
 __bequest__  
 __outbreaks__  
 __kale__  
