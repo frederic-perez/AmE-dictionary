@@ -1,168 +1,166 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
-__plead out__  
-__bawdy__  
-__ribbing__  
-__nurtured__  
-__emeritus__  
-__outspoken__  
-__proceeds__  
-__feted__  
-__tempestuous__  
-__epitomize__  
-__excess__ _In excess__  
-__balked__  
-__fallout__ :two:  
-__fillip__  
-__denting__  
-__hearing__ _law_  
-__riposte__  
-__inbound__  
-__outbound__ _The latest trends in Chinese outbound tourism._  
-__bequest__  
-__outbreaks__  
-__kale__  
-__racked__  
-__peddling__  
-__hapless__  
-__dud__  
-__extraneous__  
-__slobs__ _n_  
-__sprinkled__ _v_  
-__beignets__  
-__damp__  
-__clods__  
-__on__ __spy on someone__  
-__hubcaps__  
-__stove__  
-__toilet bowl__  
-__pud__  
-__cinder__  
-__suffused__ _v_  
-__flailing__  
-__flung__  
-__avuncular__  
-__wintry__  
-__sheathed__  
-__crinkling__  
-__clapboard__  
-__shack__  
-__soggy__  
-__terrapin__  
-__lumber__ _v_  
-__raccoons__  
-__strayed__  
-__plucked__  
-__reeds__  
-__struck__  
-__sinew__  
-__stubby__  
-__tanner__  
-__starched__  
-__fob__  
-__snick__ _v_  
-__hoss__  
-__swelling__  
-__quilt__  
-__emancipation__  
-__NATO__ _North Atlantic Treaty Organization__  
-__potatoes__  
-__sharpshooter__  
-__strewed__ _v_  
-__selfsame__  
-__splurging__  
-__denouement__  
-__orb__  
-__confederacy__  
-__nuanced__ _A nuanced view._  
-__infamy__  
-__poring__ _v_  
-__flaunting__  
-__tardy__  
-__futility__  
-__scribes__  
-__schnapps__  
-__grimly__  
+__NATO__ _North Atlantic Treaty Organization_  
 __Stasi__  
-__defrost__  
-__washwoman__  
-__quixotic__  
-__tucked__  
-__arguably__  
-__snoodlike__  
-__hailing__  
-__parted__ _Slightly parted lips._  
-__sinewy__  
-__strut__  
-__hewn__  
-__crux__ _The crux of the matter._  
-__bookish__  
-__foreboding__  
-__cliques__  
-__elation__  
-__impending__  
-__yearning__  ||
-__buttressed__  
-__ravishing__ :two: :shit:  
-__lug__ _v_  
-__writhe__  
-__cramp__ _n_  
-__tonsure__  
-__tableaux__ 
-__taxa__  
-__hatched__  
-__foxing stains__  
-__corsages__  
-__marsh__  
-__winterkill__  
-__wad up__ _v_  
-__slash__ _Slash pines._  
-__hoe__ _n_  
-__balogna__ _n_  
-__grove__  
-__welted__  
-__yonder__  
-__bumblebees__  
-__sheen__ _The sheen on his hair when he removed his hat._  
-__ornate__  
-__demurely__  
-__suffuse__ _v_  
-__bewhiskered__  
-__frilled__ _Frilled apron._  
-__camphor__    
-__pard__  
-__quicksilver__  
-__snicker__ _v_  
-__moth__  
-__swindle__  
-__tumbler__ _A tumbler of bourbon and ice._  
-__blue-collar men__  
-__cleft__  
 __Step 'n' Fetch It routine__  
-__ramshackle__  
-__haps__ _What's the haps?_  
+__arguably__  
+__avuncular__  
+__balked__  
+__balogna__ _n_  
+__bawdy__  
+__beignets__  
+__bequest__  
+__bewhiskered__  
 __big mon__  
-__scut work__  
-__loafered__  
-__slapjack__  
-__slacks__  
-__rip your wiring out__  
-__duckboards__  
-__sliver__  
+__blue-collar men__  
+__bookish__  
+__bumblebees__  
 __button man__  
-__root beer__  
-__snarl__  
-__skag__  
-__ruffled__  
-__undimpled__  
-__morning glory__  
-__suspensers__ _Firehouse suspenders_  
+__buttressed__  
+__camphor__    
+__cinder__  
+__clapboard__  
+__cleft__  
+__cliques__  
 __clock him__  
-__scabs__  
-__loafers__  
-__stale antiperspirant__  
-__porkpie hat__  
-__spittle__  
+__clods__  
+__confederacy__  
 __copacetic__  
+__corsages__  
+__cramp__ _n_  
+__crinkling__  
+__crux__ _The crux of the matter._  
+__damp__  
+__defrost__  
+__demurely__  
+__denouement__  
+__denting__  
+__duckboards__  
+__dud__  
+__elation__  
+__emancipation__  
+__emeritus__  
+__epitomize__  
+__excess__ _In excess_  
+__extraneous__  
+__fallout__ :two:  
+__feted__  
+__fillip__  
+__flailing__  
+__flaunting__  
+__flung__  
+__fob__  
+__foreboding__  
+__foxing stains__  
+__frilled__ _Frilled apron._  
+__futility__  
+__grimly__  
+__grove__  
+__hailing__  
+__hapless__  
+__haps__ _What's the haps?_  
+__hatched__  
+__hearing__ _law_  
+__hewn__  
+__hoe__ _n_  
+__hoss__  
+__hubcaps__  
+__impending__  
+__inbound__  
+__infamy__  
+__kale__  
+__loafered__  
+__loafers__  
+__lug__ _v_  
+__lumber__ _v_  
+__marsh__  
+__morning glory__  
+__moth__  
+__nuanced__ _A nuanced view._  
+__nurtured__  
+__on__ __spy on someone__  
+__orb__  
+__ornate__  
+__outbound__ _The latest trends in Chinese outbound tourism._  
+__outbreaks__  
+__outspoken__  
+__pard__  
+__parted__ _Slightly parted lips._  
+__peddling__  
+__plead out__  
+__plucked__  
+__poring__ _v_  
+__porkpie hat__  
+__potatoes__  
+__proceeds__  
+__pud__  
+__quicksilver__  
+__quilt__  
+__quixotic__  
+__raccoons__  
+__racked__  
+__ramshackle__  
+__ravishing__ :two: :shit:  
+__reeds__  
+__ribbing__  
+__rip your wiring out__  
+__riposte__  
+__root beer__  
+__ruffled__  
+__scabs__  
+__schnapps__  
+__scribes__  
+__scut work__  
+__selfsame__  
+__shack__  
+__sharpshooter__  
+__sheathed__  
+__sheen__ _The sheen on his hair when he removed his hat._  
+__sinew__ (sinewy)  
+__skag__  
+__slacks__  
+__slapjack__  
+__slash__ _Slash pines._  
+__sliver__  
+__slobs__ _n_  
+__snarl__  
+__snick__ _v_  
+__snicker__ _v_  
+__snoodlike__  
+__soggy__  
+__spittle__  
+__splurging__  
+__sprinkled__ _v_  
+__stale antiperspirant__  
+__starched__  
+__stove__  
+__strayed__  
+__strewed__ _v_  
+__struck__  
+__strut__  
+__stubby__  
+__suffuse__ (suffused) _v_ :two: :shit:  
+__suspensers__ _Firehouse suspenders_  
+__swelling__  
+__swindle__  
+__tableaux__ 
+__tanner__  
+__tardy__  
+__taxa__  
+__tempestuous__  
+__terrapin__  
+__toilet bowl__  
+__tonsure__  
+__tucked__  
+__tumbler__ _A tumbler of bourbon and ice._  
+__undimpled__  
+__wad up__ _v_  
+__washwoman__  
+__welted__  
+__winterkill__  
+__wintry__  
+__writhe__  
+__yearning__  
+__yonder__  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
