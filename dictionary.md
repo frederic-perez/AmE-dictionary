@@ -2,6 +2,20 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
+__carveouts__  
+__thwart__  
+__stave off__ _v_  
+__reeling__  
+__shell company__  
+__dent__ _v_  
+__ornery__  
+__ephemeral__  
+__crouch__  
+__softly-softly__  
+__outmanoeuvred__  
+__Holy See__  
+__entrenched__  
+__quashed__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
