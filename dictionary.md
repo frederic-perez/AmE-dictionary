@@ -4,6 +4,23 @@ __4-H__ Of or relating to a government program in the U.S. that teaches farming 
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
+__impeachment__  
+__monger__  
+__reeling__  
+__levy__  
+__buckled__  
+__fillip__  
+__blighted__  
+__squabbles__  
+__hearsay__  
+__lambasted__  
+__cronyism__  
+__impetus__  
+__akin__  
+__misnomer__  
+__ledger__  
+__swoop__  
+__pick on__  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
