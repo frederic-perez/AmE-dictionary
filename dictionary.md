@@ -350,6 +350,7 @@ __buff__ :two: :shit: _Some folks are movie buffs._ :es: entusiasta
 __buffeted__ :two: :shit:  
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
+__bug__ _v_ _Informal_ Annoy or bother (someone). _A persistent reporter was bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __bugler__  
 __bugout__  
@@ -717,6 +718,7 @@ __doze__ _v_
 __drab__ (drabber jobs) :two: _adj_ Dull or commonplace in character; dreary: _a drab personality._  
 __drag racing__  
 __drape__ (draping) :two: :shit: _v_  
+__drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
 __drawl__  
 __dredge up__ (dredging) :three: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga    
