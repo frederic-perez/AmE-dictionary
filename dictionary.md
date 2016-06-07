@@ -2,20 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__carveouts__  
-__thwart__  
-__stave off__ _v_  
-__reeling__  
-__shell company__  
-__dent__ _v_  
-__ornery__  
-__ephemeral__  
-__crouch__  
-__softly-softly__  
-__outmanoeuvred__  
-__Holy See__  
-__entrenched__  
-__quashed__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -40,6 +26,7 @@ __Generation Xers__
 __Generation Yers__  
 __Gordian knot__  
 __HMOs__  
+__Holy See__  
 __Jag__ Jaguar (car)  
 __Jim Crow__  
 __K-12__ _K-12 population._  
@@ -429,6 +416,7 @@ __carnation__
 __carpool__  
 __carry-on bag__  
 __cart__ _v_ _Quincy was carted off the field._  
+__carveouts__  
 __casket__  
 __catechism__ :open_mouth:  
 __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint 
@@ -582,6 +570,7 @@ __crisper__ _Our dishes and crisper trays._
 __croaked__  
 __crossing t's__ _Crossiing our t's and dotting our i's._  
 __crossover__ _Crossover zone._  
+__crouch__  
 __crucible__  
 __crud__  
 __crumbled__  
@@ -655,7 +644,7 @@ __demonstrate__ :open_mouth:
 __demurely__ :two: :shit:  
 __denizens__  
 __denouement__ :two: :shit:  
-__denting__  
+__dent__ (denting) :two: :shit: _v_  
 __depleted__ :two: _v_ Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __depress__ _v_ _Depressing a company's value._  
 __derelict__  
@@ -801,8 +790,9 @@ __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthra
 __enthused__ (enthusing) :two: :shit:  
 __enthusiasm__  
 __entitlement__  
-__entrenched__  
+__entrenched__ :two: :shit:  
 __envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
+__ephemeral__  
 __epidemic__ _n_ Notice: _n_!  
 __epithet__  
 __epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
@@ -1562,7 +1552,7 @@ __orb__
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ :seven: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ornate__  
-__ornery__  
+__ornery__ :two: :shit:  
 __out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outbound__ _The latest trends in Chinese outbound tourism._  
@@ -1574,6 +1564,7 @@ __outing__ (outings) :two: :shit:
 __outlandish__ :four: _adj_ Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._  
 __outlast__ _v_  
 __outlay__ _Budget outlays._  
+__outmanoeuvred__  
 __outpacing__  
 __outpatient__  
 __outspoken__ :two: :shit: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
@@ -1756,7 +1747,7 @@ __qualm__ (qualms) :three: _n_ An uneasy feeling of doubt, worry, or fear, espec
 __quandary__ :two: Difficult dilemma. _All-Star managers face quandary._  
 __quarters__ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
-__quash__ _To quash her subpoena._  
+__quash__ (quashed) :two: :shit: _To quash her subpoena._  
 __queasy__ :two: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __quell__ :three: _v_ Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quibbled__ (quibbling) :two: :shit: _Their word choice gets quibbled with._  
@@ -1824,7 +1815,7 @@ __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young
 __redwood__  
 __reeds__  
 __reek__ (reeks) :five: _v_ Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ :es: apestar  
-__reeling__ _Reeling economy._  
+__reeling__ :two: :shit: _Reeling economy._  
 __referenda__  
 __regal__ :two: :shit:  
 __regulation__ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
@@ -2011,6 +2002,7 @@ __sheathed__ :two: :shit: _Poster of Sharon Stone, sheathed in white._
 __shed__ _v_ Park (a vehicle) in a depot.  
 __sheen__ _The sheen on his hair when he removed his hat._  
 __sheik__ :two: :open_mouth: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
+__shell company__  
 __shell-shocked__ :two: :shit:  
 __shift__  
 __shill__ :two: :shit: _v_  
@@ -2147,6 +2139,7 @@ __snubs__
 __snuff out__ _v_  
 __snuggles__  
 __soft-spoken__  
+__softly-softly__  
 __soggy__ :three: :shit: _Soggy food on top letting off a gray steam._ _Soggy drink cups._  
 __sojourn__  
 __solid gold__  
@@ -2230,7 +2223,7 @@ __statement__
 __statesmen__ (notice, not 'statement')  
 __staunch__ _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __staunchest__ :two: :shit:  
-__stave off__ _v_  
+__stave off__ :two: :shit: _v_  
 __stave__ _v_  
 __stay__ _Granted a stay of execution._  
 __stead__  
@@ -2393,7 +2386,7 @@ __throes__
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __thumb__ _v_ _He took a seat and thumbed through the Sporting News._  
 __thwack__ (thwacks) :two: :shit:  
-__thwart__ (thwarted) :five: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
+__thwart__ (thwarted) :six: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __ticker__  
 __tickle__ _Does that tickle?_  
