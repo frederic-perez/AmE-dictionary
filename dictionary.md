@@ -4,23 +4,6 @@ __4-H__ Of or relating to a government program in the U.S. that teaches farming 
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
-__impeachment__  
-__monger__  
-__reeling__  
-__levy__  
-__buckled__  
-__fillip__  
-__blighted__  
-__squabbles__  
-__hearsay__  
-__lambasted__  
-__cronyism__  
-__impetus__  
-__akin__  
-__misnomer__  
-__ledger__  
-__swoop__  
-__pick on__  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
@@ -117,6 +100,7 @@ __aggravate__ (aggravated) :two: :shit: _v_
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __agrarian__  
 __ails__ _v_  
+__akin__  
 __alabaster__  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __allayed__ _v_  
@@ -283,7 +267,7 @@ __bleak__ :three: :shit:
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleated__ _His walkie-talkie bleated._  
 __bleed blue__  
-__blight__  
+__blight__ (blighted) :two: :shit:  
 __bling__  
 __blithe__  
 __blitz__ :two: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
@@ -360,7 +344,7 @@ __buckeyes__
 __bucking__ _v_  
 __buckle down (to something)__ _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__  
-__buckle__ :two: _v_ Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
+__buckle__ (bluckled) :three: _v_ Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
 __budding__  
 __buff bod__  
 __buff__ :two: :shit: _Some folks are movie buffs._ :es: entusiasta  
@@ -586,6 +570,7 @@ __crinkling__
 __crippling__ :two: :shit: _Crippling drought._  
 __crisper__ _Our dishes and crisper trays._  
 __croaked__  
+__cronyism__  
 __crossing t's__ _Crossiing our t's and dotting our i's._  
 __crossover__ _Crossover zone._  
 __crouch__  
@@ -883,7 +868,7 @@ __fig leaf__ _Seeking a "big leaf."_
 __filibuster__  
 __fill out__  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
-__fillip__  
+__fillip__ :two: :shit:  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ _:es: potra_  
 __finger-waggers__  
 __finicky__ :two: shit:  
@@ -1126,6 +1111,7 @@ __headdress__
 __headwind__ (headwinds) :three: A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __hearing__ _law_  
 __hearkened__  
+__hearsay__  
 __heartland__ :two: _n_ The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartthrob__ :two: :shit:  
 __heat > to catch a lot of heat__  
@@ -1197,10 +1183,12 @@ __imbue__ _v_ __1__ To inspire or influence thoroughly; pervade: _work imbued wi
 __immigrated__  
 __impairment__  
 __impasse__ :two: :open_mouth: Deadlock or stalemate.  
+__impeachment__  
 __impede__ _v_  
 __impending__ :two: :shit:  
 __impermissible__ :two: :shit:  
 __impervious__  
+__impetus__  
 __impound__ _v_  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._  
 __inane__  
@@ -1304,8 +1292,8 @@ __laggard__ :two: :shit:
 __lagged__  
 __laid-back guy__  
 __lain__  
-__lambast__ (lambasted) :two: :shit: _v_  
-__lambaster__ _v_  
+__lambast__ (lambasted) :three: :shit: _v_  
+__lambaster__ :_v_  
 __lampooned__  
 __landfill__ :two: :shit:    
 __lanky__  
@@ -1328,6 +1316,7 @@ __leapfrogging__ _v_
 __lease__  
 __leaven__ _To leaven the raunch and swagger._  
 __lectern__  
+__ledger__  
 __leer up__  
 __leer__ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leery__ :four: _adj_ _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._  
@@ -1341,6 +1330,7 @@ __lest__ :three: _Conjuction Formal_ __1__ With the intention of preventing (som
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __leveled__  
 __levied__ :two: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
+__levy__  
 __liability__ :two: :shit:  
 __liaison__ 
 __libation__  
@@ -1466,7 +1456,7 @@ __miscreant__
 __misgivings__  
 __mishap__  
 __mishmash__  
-__misnomer__ :three: :shit:  
+__misnomer__ :four: :shit:  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mitzvah__  
 __mixed bag__  
@@ -1477,7 +1467,7 @@ __molehill__
 __mollify__ _v_  
 __momentous__ :two: _adj_ Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
 __moneyed__  
-__mongering__ :two: :shit:  
+__monger__ (mongering) :three: :shit:  
 __monkey wrench__  
 __monsoon__  
 __monstrosity__ :open_mouth:  
@@ -1647,6 +1637,7 @@ __permafrost__
 __permit__ _Camping permit fee._   
 __petroglyphs__ _Ancient Indian petroglyph._  
 __phenom__  
+__pick on__  
 __pick up__ _His turnover-prone play doesn't pick up._  
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
@@ -1834,7 +1825,7 @@ __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young
 __redwood__  
 __reeds__  
 __reek__ (reeks) :five: _v_ Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ :es: apestar  
-__reeling__ :two: :shit: _Reeling economy._  
+__reeling__ :three: :shit: _Reeling economy._  
 __referenda__  
 __regal__ :two: :shit:  
 __regulation__ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
@@ -2203,8 +2194,7 @@ __spurt__ (spurts) :three: _n_ A sudden gushing stream. _Stanford owned a two-po
 __spurt__ _n_ _Growth spurts._  
 __spurt__ _v_ :es: acelerar; hacer un esfuerzo supremo
 __sputter__ (sputtered, sputtering) :six: _v_ Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
-__squabble__ _Shrieking marital squabbles._  
-__squabbles__
+__squabble__ :three: :shit: _Shrieking marital squabbles._  
 __squabbling__ _v_ _A squabbling family._  
 __squalid__:open_mouth: _Squalid home._  
 __squander__  
@@ -2342,9 +2332,8 @@ __swimabout__
 __swindle__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __switch-blade__ _Switch-blade artists._  
-__swoon__  
-__swoon__ :five: _v_ __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swoop__ :two:  
+__swoon__ :six: _v_ __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
+__swoop__ :three: :shit:  
 __swooping__  
 __swooshing__  
 __sycophants__  
