@@ -1456,7 +1456,7 @@ __miscreant__
 __misgivings__  
 __mishap__  
 __mishmash__  
-__misnomer__ :four: :shit:  
+__misnomer__ :four: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mitzvah__  
 __mixed bag__  
@@ -1523,7 +1523,8 @@ __nonce__
 __noose__ (nooses) :two: :shit:  
 __normalcy__ :two: :shit: _It took me months to get back to normalcy._  
 __nose > running noses__  
-__nuance__ (nuanced) :four: :shit: _v_ _A nuanced view._  
+__nuance__ :dart: :two: _n_ A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
+__nuance__ (nuanced) :two: _v_ Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _A punched nub._  
 __nugget__  
 __nunchucks__  
@@ -2135,7 +2136,8 @@ __snaps__ _He took his first snaps with the starters._
 __snare drums__  
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarl__ (snarling) :four: :shit: _v_  
+__snarl__ :two: _n_ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
+__snarl__ (snarling) :two: _v_ (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snazzy__ :two: _Informal_ Stylish and attractive. _Snazzy little silk dresses._  
 __snick__ _v_  
 __snicker__ (snickering) :three: :shit: _v_  
