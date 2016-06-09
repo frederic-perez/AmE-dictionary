@@ -2,13 +2,16 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
+__Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
+__German shepherd__ _n_ An Alsatian.  
+__Dobermann__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __ceasefire__  
 __longstanding__  
 __frontrunner__  
 __twinned towns__  
 __makeshift__  
 __staunch__  
-__stray__ _A stay word._  
+__stray__ _A stray word._  
 __draconian__  
 __lustre__  
 __exacerbated__  
