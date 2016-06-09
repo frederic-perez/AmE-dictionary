@@ -2,30 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
-__German shepherd__ _n_ An Alsatian.  
-__Dobermann__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
-__ceasefire__  
-__longstanding__  
-__frontrunner__  
-__twinned towns__  
-__makeshift__  
-__staunch__  
-__stray__ _A stray word._  
-__draconian__  
-__lustre__  
-__exacerbated__  
-__pinned__  
-__hubris__  
-__extremes__  
-__tipster__  
-__revelled__  
-__plunder__  
-__filings__  
-__overly__  
-__blitz__   
-__tap__  
-__cudgels__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -35,7 +11,9 @@ __Brownie__ A member of a Guiding organization for girls aged seven years old to
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ Cardiopulmonary resuscitation.  
 __Chicken Little__ (Chicken Littles) _n_ An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
+__Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __Dem__ A member of the Democratic Party.  
+__Dobermann__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __ELIA5__ Explain Like I Am 5.  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __Empire State__ The U.S. State of New York.  
@@ -48,6 +26,7 @@ __French door__ _French door fridge._
 __GED__ (GED exam) :two: The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __Generation Xers__  
 __Generation Yers__  
+__German shepherd__ _n_ An Alsatian.  
 __Gordian knot__  
 __HMOs__  
 __Holy See__  
@@ -294,7 +273,7 @@ __bleed blue__
 __blight__ (blighted) :two: :shit:  
 __bling__  
 __blithe__  
-__blitz__ :two: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
+__blitz__ :three: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __bloop__  
 __blotters__ _Police blotters._  
 __bloviate__ _v_  
@@ -451,6 +430,7 @@ __caucus__
 __cave__ :two: _v_ Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caw__ (caws) :two: :shit: _A rattling caw._  
 __ce__  
+__ceasefire__  
 __cede__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __chafe__ :two: :shit: _v_  
@@ -607,6 +587,7 @@ __crusty__
 __crux__ _The crux of the matter._  
 __cry foul__ _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cuckolded__  
+__cudgels__  
 __cue ball__  
 __cull__ _Cowboys have to cull a steer from the herd._  
 __cuppa__  
@@ -742,6 +723,7 @@ __downtrodden__ _The Clippers were the victims, the downtrodden, the doormats._
 __dowry__  
 __doze__ _v_  
 __drab__ (drabber jobs) :two: _adj_ Dull or commonplace in character; dreary: _a drab personality._  
+__draconian__  
 __drag racing__  
 __drape__ (draping) :two: :shit: _v_  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
@@ -833,7 +815,7 @@ __estrange__ _v_ __1__ (often foll by: _from_) to separate and live apart from (
 __ethos__  
 __evicted__  
 __eviction__  
-__exacerbated__  
+__exacerbated__ :two: :shit:  
 __exact__ (exacting) :two: _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
 __excess__ _In excess_  
 __excise__ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
@@ -843,6 +825,7 @@ __extol__ :two: :shit: _v_ _But he extols running as what helps him stay clean._
 __extoll__  
 __extols__  
 __extraneous__  
+__extremes__  
 __eye black__ _Escobarwas fined for wearing a homophobic slur on his eye black._  
 __eye black__ _He displayed a homophobic slur on his eye black._  
 __eye mask__ (to sleep)  
@@ -890,6 +873,7 @@ __fiery__
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
 __filibuster__  
+__filings__  
 __fill out__  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ :two: :shit:  
@@ -973,6 +957,7 @@ __frites__ _Steak frites._
 __fritter__ :two: :shit: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._  
 __frolic__  
 __front and center__ :two: :shit:  
+__frontrunner__  
 __frostbite__  
 __fruition__ The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
@@ -1185,6 +1170,7 @@ __house → take it to the house__
 __housing__  
 __hubby__  
 __hubcaps__  
+__hubris__  
 __huckster__ :two: :shit:  
 __huddle__  
 __humdrum__  
@@ -1384,6 +1370,7 @@ __locust__
 __loftily__  
 __loggerheads__  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
+__longstanding__  
 __lookout__ _Be on the lookout._  
 __loophole__ _:es: escapatoria_  
 __loopy__ _A loopy smile._  
@@ -1409,6 +1396,7 @@ __lunge__ :three: :shit: _v_
 __lurch__ _We lurched around a bend._  
 __lurk__ (lurked) /ləːk/ :three: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ :three: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
+__lustre__  
 __lynch__ :open_mouth: _v_ To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __macaroon__  
 __maelstrom__  
@@ -1418,7 +1406,7 @@ __maim__ (maimed) :three: Wound or injure (a person or animal) so that part of t
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__  
-__makeshift__  
+__makeshift__ :two: :shit:  
 __makeup game__  
 __making waves__ :two: :shit:  
 __malarkey__  
@@ -1547,8 +1535,8 @@ __nonce__
 __noose__ (nooses) :two: :shit:  
 __normalcy__ :two: :shit: _It took me months to get back to normalcy._  
 __nose > running noses__  
-__nuance__ :dart: :two: _n_ A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance__ (nuanced) :two: _v_ Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
+__nuance__ :dart: :two: _n_ A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nub__ _A punched nub._  
 __nugget__  
 __nunchucks__  
@@ -1606,7 +1594,7 @@ __over the moon__ _British Informal_ Extremely happy; delighted. _We are over th
 __over-under__  
 __overachieve__  
 __overarching__  
-__overly__ :four: _adv_ Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
+__overly__ :five: _adv_ Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __oversee__ _Oversee compliance._  
 __overwrought__ _Overwrought adults_  
 __paeans__  
@@ -1679,6 +1667,7 @@ __pined__ _It was only in movies that people pined for the dead._
 __pink slime__  
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He's all pinkified for halloween._  
+__pinned__  
 __pinwheel__ _v_  
 __pipe dream__  
 __pipehead__  
@@ -1708,6 +1697,7 @@ __plucked__
 __plugger__  
 __plumb__ _v_  
 __plump__ _Plump and juicy hotdogs._  
+__plunder__  
 __plush__ _To plush cabin amenities._  
 __poaching__ _Poaching has become socially unacceptable._  
 __poise__  
@@ -1878,6 +1868,7 @@ __retread__
 __returnee__  
 __reunion__ An instance of two or more people coming together again after a period of separation.  
 __reveler__  
+__revelled__  
 __revue__ _n_ A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. :es: revista, show  
 __rhapsodize__  
 __rhetoric__ _From divisive rhetoric to civil dialogue._  
@@ -2160,8 +2151,8 @@ __snaps__ _He took his first snaps with the starters._
 __snare drums__  
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarl__ :two: _n_ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl__ (snarling) :two: _v_ (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
+__snarl__ :two: _n_ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snazzy__ :two: _Informal_ Stylish and attractive. _Snazzy little silk dresses._  
 __snick__ _v_  
 __snicker__ (snickering) :three: :shit: _v_  
@@ -2256,7 +2247,7 @@ __stark__
 __stately__ :two: :shit: _A stately ballroom._ _Stately homes._  
 __statement__  
 __statesmen__ (notice, not 'statement')  
-__staunch__ _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
+__staunch__ :two: _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __staunchest__ :two: :shit:  
 __stave off__ :two: :shit: _v_  
 __stave__ _v_  
@@ -2295,7 +2286,7 @@ __strain__ :four: _v_ __1__ Force (a part of one's body or oneself) to make an u
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ :es: estrangular  
 __stray steeples__  
-__stray__ _Stray friends._  
+__stray__ :two: :shit: _A stray word._ _Stray friends._  
 __strayed__  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streamline__ (streamlining)  
@@ -2374,6 +2365,7 @@ __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanki
 __tanner__  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ :three: _adj_ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
+__tap__  
 __taper__ (tapering) :two: :shit:_High schools don't see athletic trainers as ankle tapers._  
 __taps__ _A bugler played taps._  
 __tardy__  
@@ -2433,6 +2425,7 @@ __timetable__
 __tinderdry__  
 __tinge__  
 __tingled__ (tingling) :two: :shit:  
+__tipster__  
 __tirade__  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
 __tit for tat__  
@@ -2507,6 +2500,7 @@ __turnround__
 __turpitude__  
 __twang__  
 __twinge__  
+__twinned towns__  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two-timer__  
 __ukuleles__  
