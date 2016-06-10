@@ -6,6 +6,13 @@ __ACL__ Anterior cruciate ligament.
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
+__bad blood__  
+__fraught__  
+__simmering__  
+__withhold__  
+__vampire squid__  
+__dazzling__  
+__jokesmith__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
 __CO__ Carbon monoxide, "the silent killer."  
