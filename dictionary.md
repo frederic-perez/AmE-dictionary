@@ -2,17 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__overt__  
-__bloc__  
-__living wills__  
-__headwinds__  
-__fiduciary__  
-__uppermost__  
-__forfeits__  
-__meretricious__  
-__figurehead__  
-__connived__  
-__piecemeal__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -285,6 +274,7 @@ __blight__ (blighted) :two: :shit:
 __bling__  
 __blithe__  
 __blitz__ :three: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
+__bloc__  
 __bloop__  
 __blotters__ _Police blotters._  
 __bloviate__ _v_  
@@ -539,6 +529,7 @@ __confound__ (confounded, confounding) :two: :shit: _v_
 __congenial__  
 __conjecture__  
 __conjure__  
+__connived__  
 __consensual__  
 __conservancies__  
 __conspicuous__ (conspicuously) _adj_ __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
@@ -878,11 +869,13 @@ __fiat__ _Military fiat._
 __fiberglass__  
 __fickle__  
 __fidget__ _v_  
-__fiduciary responsability__  
+__fiduciary__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
+__fiduciary__ _n_ A trustee.  
 __field__ (fielding) :three: _v_ __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game.  
 __fiery__  
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
+__figurehead__  
 __filibuster__  
 __filings__  
 __fill out__  
@@ -940,7 +933,7 @@ __fore__
 __forebode__ (foreboding) :two: :shit: _Foreboding sentences_  
 __forego__  
 __forestalled__  
-__forfeit__ (forfeiting) :tso: :shit:  
+__forfeit__ (forfeiting) :three: :shit:  
 __forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgo__ :three: _v_ Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forlorn__ :four: _adj_ __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
@@ -1128,7 +1121,7 @@ __haze__ (hazing) :two: :shit: _v_ _Allegations of hazing and telling._
 __hazmat suit__  
 __head and shoulders__  
 __headdress__  
-__headwind__ (headwinds) :three: A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
+__headwind__ (headwinds) :four: A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __hearing__ _law_  
 __hearkened__  
 __hearsay__  
@@ -1371,6 +1364,7 @@ __litany__ :two: _n_ __1__ _Christianity_ A liturgical prayer consisting of a se
 __live wire__  
 __livery driver__  
 __livid__  
+__living wills__  
 __loafered__  
 __loafers__  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
@@ -1456,7 +1450,7 @@ __meme__
 __memos__  
 __mendacity__  
 __merchant__  
-__meretricious__  
+__meretricious__ :two: :shit:  
 __meringue__
 __mesh strainer__  
 __meted out__ _v_ _All the suspensions have been meted out._  
@@ -1607,6 +1601,7 @@ __overachieve__
 __overarching__  
 __overly__ :five: _adv_ Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __oversee__ _Oversee compliance._  
+__overt__  
 __overwrought__ _Overwrought adults_  
 __paeans__  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
@@ -1666,7 +1661,7 @@ __pick up__ _His turnover-prone play doesn't pick up._
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pickoff__ _A pickoff throw to first base._  
-__piecemeal__ :es: poco a poco  
+__piecemeal__ :two: :shit: :es: poco a poco  
 __pileup__  
 __pilfering__  
 __pin-drop silence__  
@@ -2543,6 +2538,7 @@ __upheaval__
 __upheld__  
 __upmarket__  
 __uppercut__  
+__uppermost__  
 __upshot__ _n_  
 __upside__ :two: :shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstarts__ _The digital upstarts are shifting focus to television._  
