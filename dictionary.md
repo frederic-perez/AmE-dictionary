@@ -6,7 +6,40 @@ __ACL__ Anterior cruciate ligament.
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
-__bad blood__  
+__bad blood__ :two: :shit:  
+__disgruntlement__  
+__shipyard__  
+__lewd__  
+__cockerel__  
+__rum idea__  
+__gladdened__  
+__staggers__  
+__mull__ _v_  
+__feature fill__  
+__venal__  
+__hole up__ _v_  
+__rasp__ _v_  
+__blemishes__  
+__ponders__  
+__glitz__  
+__scuzzy__  
+__spry__  
+__bullwhip__  
+__befits__ _v_  
+__unfathomable__  
+__smooth operator__  
+__paean__  
+__quavering__  
+__double bill__  
+__strays__  
+__swathes__  
+__dazzling__  
+__acquitted__  
+__springboard__  
+__barre__  
+__eel__  
+__nonchalant__  
+__fizzing__  
 __fraught__  
 __inordinate__  
 __foolhardy__  
