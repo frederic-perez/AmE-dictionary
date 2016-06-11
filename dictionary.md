@@ -8,6 +8,15 @@ __Achilles heel__ A weakness or vulnerable point.
 __B & E__  
 __bad blood__  
 __fraught__  
+__inordinate__  
+__foolhardy__  
+__under siege__  
+__lacklustre__  
+__outcry__  
+__haywire__  
+__garnering__  
+__lightbulb moment__  
+__stalwart__  
 __sunder__  
 __invective__  
 __splutter__  
