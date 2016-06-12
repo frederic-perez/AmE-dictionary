@@ -7,6 +7,16 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
 __bad blood__ :two: :shit:  
+__seabed__  
+__stop short__  
+__intermittent__  
+__scant__  
+__snub__  
+__bailout__  
+__remit__  
+__beef up__  
+__sky high__  
+__plaintiff__  
 __disgruntlement__  
 __clampdown__  
 __tipple__  
