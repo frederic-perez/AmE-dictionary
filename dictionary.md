@@ -631,7 +631,7 @@ __dart__ (darting) :two: :shit: _v_
 __daubed__ _A swastika was daubed on a science center window._  
 __daunting__ :two: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
-__dazzling__ (dazzlingly) :four: :shit:  
+__dazzling__ (dazzlingly) :four: _adj_ __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __dean__  
 __deathless__  
 __debutante__  
@@ -1907,7 +1907,8 @@ __remit__
 __rep__ Reputation?  
 __repeieve__  
 __repentance__  
-__reprieve__ :four: :shit: :es: indulto  
+__reprieve__ _v_ Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
+__reprieve__ :four: _n_ A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprisals__ _A ban on federal reprisals._  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __resolved__ _The issue was resolved._  
@@ -2128,7 +2129,7 @@ __signet ring__
 __sill__  
 __silo__  
 __silver lining__  
-__simmer__ (simmers, simmering) :four: :shit: _The Family Corleone is filled with the smell of simmering tomato sauce._  
+__simmer__ (simmers, simmering) :four: _v_ (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __sinew__ (sinewy)  
 __siphoned__ _v_  
 __sitting pretty__  
