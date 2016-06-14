@@ -5,18 +5,6 @@ __ACK__
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
-__soiled__  
-__wistfulness__  
-__panhandling__  
-__dust devils__  
-__grated__  
-__gunnysack__  
-__crumbs__   
-__furrows__  
-__glob__  
-__phlegm__  
-__whiskers__  
-__smoldering__  
 __B & E__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
@@ -605,6 +593,7 @@ __crouch__
 __crucible__  
 __crud__  
 __crumbled__  
+__crumbs__   
 __crumpling__  
 __crunchtime__  
 __crusty__  
@@ -774,6 +763,7 @@ __dumplings__
 __duped__ _v_ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._  
 __durable__ _The end of durable Red John story line is a new beginning._  
 __duress__  
+__dust devils__  
 __dustpan__  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwindle__ :two: :shit: _v_  
@@ -998,6 +988,7 @@ __fuddy-duddy__
 __fudging__ _Fudging statistics._  
 __furlong__ :two: _n_ An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough__ (furloughed) :two: _n_ Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
+__furrows__  
 __futility__ :two: :shit:  
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __gab__  
@@ -1040,6 +1031,7 @@ __gladdened__
 __glitz__  
 __gloaming__  
 __gloating__  
+__glob__  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __glowering__  
 __glue → a glue-type player__  
@@ -1065,7 +1057,7 @@ __grace__ _v_
 __grade__ _v_  
 __grandstand__ _He found rats in his grandstand._  
 __grapple__ (grappled, grappling) :three: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
-__grate__ (grating) _v_ Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
+__grate__ (grated, grating) :two: _v_ Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
 __gravesite__  
 __graybeards__ _Senate graybeards._  
 __grazing__  
@@ -1107,6 +1099,7 @@ __gum tree__
 __gum up__  
 __gumption__  
 __gung-ho__  
+__gunnysack__  
 __gunslinger__ _The speed of a gunslinger._  
 __guppy__ _His latest guppy of a girlfriend._  
 __gurney__ _n_  
@@ -1658,6 +1651,7 @@ __pan out__ :two: :shit:
 __panache__ :two: :shit:  
 __pander__ (panders, pandering)  
 __panderer__  
+__panhandling__  
 __panned out__  
 __pant__ (panting) _v_ To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._  
 __paraphernalia__ :open_mouth:  
@@ -1700,6 +1694,7 @@ __permit__ _Camping permit fee._
 __petroglyphs__ _Ancient Indian petroglyph._  
 __phalanx__  
 __phenom__  
+__phlegm__  
 __pick on__  
 __pick up__ _His turnover-prone play doesn't pick up._  
 __pick-six__ _Football_  
@@ -2201,7 +2196,7 @@ __smattering__ :three: _n_ __1__ A slight superficial knowledge of a language or
 __smear__ :two: :shit: _They use social media to smear their opponents._  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smitten__ :two: :shit: _He was smitten by the landscape._  
-__smolders__ (smoldered) :two: :shit:  
+__smolder__ (smolders, smoldered, smoldering) :three: :shit:  
 __smooth operator__  
 __smoothie__ (smothies) :two: A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smug__ :two: :shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
@@ -2229,6 +2224,7 @@ __snuggles__
 __soft-spoken__  
 __softly-softly__  
 __soggy__ :three: :shit: _Soggy food on top letting off a gray steam._ _Soggy drink cups._  
+__soiled__  
 __sojourn__  
 __solid gold__  
 __solipsistic__  
@@ -2351,8 +2347,8 @@ __strain__ :four: _v_ __1__ Force (a part of one's body or oneself) to make an u
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ :es: estrangular  
 __stray steeples__  
-__stray__ :two: :shit: _A stray word._ _Stray friends._  
 __stray__ (strays, strayed) :two: :shit: _v_  
+__stray__ :two: :shit: _A stray word._ _Stray friends._  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streamline__ (streamlining)  
 __streamline__ _v_ _Streamlining regulations._  
@@ -2713,8 +2709,8 @@ __whiff__
 __whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whisk__  
-__whisked__ _v_  
-__whisked__ _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
+__whisked__ :two: :shit: _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
+__whiskers__  
 __whistle-blower__  
 __white-knuckle ride__  
 __whiteout__  
@@ -2745,6 +2741,7 @@ __wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sands
 __wire → getting down to the wire__  
 __wire-to-wire__ :two: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wisp__ _A wisp of dust._  
+__wistfulness__  
 __witchcraft__ _A 1958 witchcraft comedy._  
 __withhold__  
 __wizened__  
