@@ -215,7 +215,7 @@ __bedeck__ (bedecked) _v_
 __bedevil__ (bedeviled) :three: _v_ __1__ (of something bad) Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ (of a person) Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedrock__  
-__beef up__ :three: :shit:  
+__beef up__ :three: _v_  __1__ To cause someone or something to become bigger, stronger, or bulkier. _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beeline__  
 __beet__  
 __befit__ (befits, befitting) :two: :shit: _v_  
@@ -272,7 +272,7 @@ __blackface__
 __bland__ _He had a bland voice to go with his bland face._  
 __blanket__ _The security blanket._  
 __blather__  
-__bleak__ :three: :shit:  
+__bleak__ :three: _adj_ __1__ (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ (of the weather) Cold and miserable. _A bleak midwinter's day._ _Syn_ cold, keen, raw, harsh, wintry  
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleated__ _His walkie-talkie bleated._  
 __bleed blue__  
@@ -384,7 +384,7 @@ __bunkmates__
 __bunt__ _Hamels batted in the third inning and tried to bunt._  
 __buoy__ (buoyed) :three: _v_ __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoy__ (buoyed) _v_ :two:  
-__buoyant__ :three: :shit: _adj_  
+__buoyant__ :three: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __burgundy__ _Burgundy outfit._  
 __burly__ _A burly man._  
 __burnish__ :two: :shit: _v_  
