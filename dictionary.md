@@ -2,18 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__abounds__  
-__entrenched__  
-__whereabouts__  
-__mowed__ _v_  
-__stringent__  
-__ore__  
-__beef up__  
-__exacerbating__  
-__seep__ _v_  
-__stemmed__  
-__quell__  
-__dredging up__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -84,6 +72,7 @@ __Wholly Molly__
 __X's and O's__  
 __abhorrent__  
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
+__abounds__  
 __aboveboard__  
 __abreast__ :two: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abutted__  
@@ -226,7 +215,7 @@ __bedeck__ (bedecked) _v_
 __bedevil__ (bedeviled) :three: _v_ __1__ (of something bad) Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ (of a person) Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedrock__  
-__beef up__ :two: :shit:  
+__beef up__ :three: :shit:  
 __beeline__  
 __beet__  
 __befit__ (befits, befitting) :two: :shit: _v_  
@@ -755,7 +744,7 @@ __drag racing__
 __drape__ (draping) :two: :shit: _v_  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
 __drawl__  
-__dredge up__ (dredging) :three: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
+__dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga    
 __dreg__ (dregs) :two: :shit: _Away from the dregs and junkies._  
 __drench__ (drenched) :two: :shit:  
@@ -830,7 +819,7 @@ __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthra
 __enthused__ (enthusing) :two: :shit:  
 __enthusiasm__  
 __entitlement__  
-__entrenched__ :two: :shit:  
+__entrenched__ :three: :shit:  
 __entwined__  
 __envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
 __ephemeral__  
@@ -846,7 +835,7 @@ __estrange__ _v_ __1__ (often foll by: _from_) to separate and live apart from (
 __ethos__  
 __evicted__  
 __eviction__  
-__exacerbated__ :two: :shit:  
+__exacerbated__ (exacerbating) :three: :shit:  
 __exact__ (exacting) :two: _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
 __excess__ _In excess_  
 __excise__ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
@@ -1546,6 +1535,7 @@ __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
+__mowed__ _v_  
 __muck__  
 __muckrake__  
 __muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
@@ -1625,6 +1615,7 @@ __open-wheel__ :three: :shit: _Open-wheel cars._
 __orb__  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ :seven: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
+__ore__  
 __ornate__  
 __ornery__ :two: :shit:  
 __out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
@@ -1835,7 +1826,7 @@ __quarts__ _Guzzlings quarts of Coors beer._
 __quash__ (quashed) :two: :shit: _To quash her subpoena._  
 __quavering__  
 __queasy__ :two: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
-__quell__ :three: _v_ Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
+__quell__ :four: _v_ Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quibbled__ (quibbling) :two: :shit: _Their word choice gets quibbled with._  
 __quicksilver__  
 __quilt__  
@@ -1919,8 +1910,8 @@ __remit__
 __rep__ Reputation?  
 __repeieve__  
 __repentance__  
-__reprieve__ _v_ Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprieve__ :four: _n_ A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
+__reprieve__ _v_ Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisals__ _A ban on federal reprisals._  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __resolved__ _The issue was resolved._  
@@ -2064,8 +2055,7 @@ __searing__
 __seawall__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __sedate__ (sedate menswear)  
-__seeped__  
-__seeping__  
+__seep__ (seeped, seeping) :three: :shit: _v_  
 __seesaw__ _Playing on a swing or seesaw._  
 __seesaw__ _v_  
 __seeth__ :two: :shit: _v_ _Pujols was left seething._  
@@ -2330,6 +2320,7 @@ __steadfast__ :three: _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loya
 __steady-eddy__  
 __steady__  
 __steep__ _He faces a steep learning curve._  
+__stemmed__  
 __stentorian__  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
 __sterling__ _A sterling example._  
@@ -2371,7 +2362,7 @@ __strewed__ _v_
 __strewn__ :two: :shit:  
 __strictures__  
 __strife__ :three: _n_ Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
-__stringently__  
+__stringent__ (stringently) :two: :shit:  
 __stringer__ :two: :shit:  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
@@ -2717,6 +2708,7 @@ __whammy__ _A double whammy of injuries._
 __whee!__  
 __wheel well__ _The Corvette's wheel well._  
 __wheeze__  
+__whereabouts__  
 __wherewithal__  
 __whiff__  
 __whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
