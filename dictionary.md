@@ -2,25 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__buoy__ _n_  
-__holding sway__  
-__compulsory school__  
-__nonstaff jobs__  
-__squad__  
-__carnage__  
-__bolster__  
-__dent__ _v_  
-__restive__  
-__indictment__  
-__stockpile__  
-__shrapnel__  
-__float__  
-__prowess__  
-__deterrent__  
-__waterway__  
-__flah point__  
-__concocted__  
-__swathed__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -321,7 +302,7 @@ __bodacious__
 __bode__ :five: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __boilers__    
 __bologna__  
-__bolster__ (bolstered) :four: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
+__bolster__ (bolstered) :five: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bombast__ _Let's drop the bombast and look at the evidence._  
 __bon ton__  
@@ -401,8 +382,8 @@ __bungler__ :two: :shit: _Upper-crust bunglers._
 __bungling__ Spoil by incompetence.  
 __bunkmates__  
 __bunt__ _Hamels batted in the third inning and tried to bunt._  
-__buoy__ (buoyed) :three: _v_ __1__ Keep (someone or something) afloat. __2__ Sustain.  
-__buoy__ (buoyed) _v_ :two:  
+__buoy__ (buoyed) :four: _v_ __1__ Keep (someone or something) afloat. __2__ Sustain.  
+__buoy__ _n_  
 __buoyant__ :three: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __burgundy__ _Burgundy outfit._  
 __burly__ _A burly man._  
@@ -445,6 +426,7 @@ __cannolis__
 __cap__ (capped, capping) :three: _v_ Provide a fitting climax or conclusion to. _The settlement is not capped._ _To cap the play._  
 __capers__  
 __capsized__  
+__carnage__  
 __carnation__  
 __carpool__  
 __carry-on bag__  
@@ -543,9 +525,10 @@ __compliance__ _Compliance guy._
 __composite decking__  
 __compounding__  _Compounding the situation._  
 __comptroller__  
+__compulsory school__  
 __concertmistress__ _The orchestra concertmistress._  
 __conch__ _A conch farm._  
-__concoct__ :two: :open_mouth: Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
+__concoct__ (concocted) :three: :open_mouth: _v_ Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__  
 __concussion__ :two: _He recovers from the concussion he sustained on June 15._  
 __conducive__ _The vehicle doesn't seem conducive to passing._  
@@ -685,11 +668,12 @@ __demonstrate__ :open_mouth:
 __demurely__ :two: :shit:  
 __denizens__  
 __denouement__ :two: :shit:  
-__dent__ (denting) :two: :shit: _v_  
+__dent__ (denting) :three: :shit: _v_  
 __depleted__ :two: _v_ Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __depress__ _v_ _Depressing a company's value._  
 __derelict__  
 __despondent__  
+__deterrent__  
 __devolve__ _v_ _The party must devolve power._  
 __dicey__  
 __dichotomy__  
@@ -926,6 +910,7 @@ __fire sale__
 __first and foremost__  
 __fizz__ (fizzing) :two: :shit:  
 __flag__ :two: :shit: _v_  
+__flah point__  
 __flailing__  
 __flair__ :five: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flatbread__ _Flatbread sandwiches._  
@@ -938,6 +923,7 @@ __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashe
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flip-flops__  
 __flitty__  
+__float__  
 __floaters__ _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
 __floodgate__  
@@ -1206,6 +1192,7 @@ __hog__ (hogged) :two: _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To ta
 __hoist__ (hoisted) :two: :shit: _v_ :es: alzar  
 __hold back__  
 __hold off__  
+__holding sway__  
 __hole up__ _v_  
 __holloware bullion__ 
 __homebody__  
@@ -1256,7 +1243,7 @@ __inbound__
 __inching__  
 __indefatigable__ :two: :open_mouth: _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
 __indelible__ :open_mouth:  
-__indictment__  
+__indictment__ :two: :shit:  
 __inducements__  
 __induct__  
 __induction__ :two: :shit:  
@@ -1592,6 +1579,7 @@ __nits__ _Hair filled with nits._
 __non sequiturs__  
 __nonce__  
 __nonchalant__  
+__nonstaff jobs__  
 __noose__ (nooses) :two: :shit:  
 __normalcy__ :two: :shit: _It took me months to get back to normalcy._  
 __nose > running noses__  
@@ -1817,7 +1805,7 @@ __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who need
 __provenance__  
 __providence__ _It was providence._  
 __provost__  
-__prowess__  
+__prowess__ :two: :shit:  
 __pry__ :two: :shit: _To pry the crack open wider and wider._  
 __puckered__  
 __pud__  
@@ -1936,6 +1924,7 @@ __reputedly__ _He reputedly said, "I could stay here forever."_
 __resolved__ _The issue was resolved._  
 __respite__ :two: :shit: _n_  
 __respondent__  
+__restive__  
 __restraint__ :two: :shit: _n_  
 __resumption__ _A possible resumption of talks between those countries._  
 __retrain__ _v_  
@@ -2127,7 +2116,7 @@ __shorthand__
 __shout-out > give a shout-out__  
 __showdown__ :three: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showtime__  
-__shrapnel__ :two: :shit: _Bomb shrapnel has sliced apart countless boys._  
+__shrapnel__ :three: :shit: _Bomb shrapnel has sliced apart countless boys._  
 __shriek__ (shrieked) :two: :shit: _v_  
 __shrift__  
 __shrill__ :two: _Increasing shrill chorus._  
@@ -2295,6 +2284,7 @@ __spurt__ _v_ :es: acelerar; hacer un esfuerzo supremo
 __sputter__ (sputtered, sputtering) :six: _v_ Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __squabble__ :three: :shit: _Shrieking marital squabbles._  
 __squabbling__ _v_ _A squabbling family._  
+__squad__  
 __squalid__:open_mouth: _Squalid home._  
 __squander__  
 __square deal__  
@@ -2355,6 +2345,7 @@ __stipend__
 __stirring__  
 __stock car__ _Stock car racing._  
 __stocking-stuffers__  
+__stockpile__  
 __stodgy__ _The mainstream may sound too stodgy._  
 __stoke__ _v_  
 __stonewall__ :two: :shit: _v_  
@@ -2423,6 +2414,7 @@ __swamp__ _n_ __1__ __a__ Permanently waterlogged ground that is usually overgro
 __swank__  
 __swashbuckling__  
 __swath__ (swaths) :three: _n_ __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swathed__  
 __swathes__  
 __swatted__  
 __sway__ (swaying) :seven: _v_ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._  
@@ -2707,6 +2699,7 @@ __water cooler__
 __water down__  
 __waterfowl__  
 __waterfront__  
+__waterway__  
 __wavering__ _A wavering statement._  
 __wayposts__  
 __wayward__ :two: :shit: :es: díscolo  
