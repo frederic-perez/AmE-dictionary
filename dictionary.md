@@ -2116,7 +2116,7 @@ __shorthand__
 __shout-out > give a shout-out__  
 __showdown__ :three: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showtime__  
-__shrapnel__ :three: :shit: _Bomb shrapnel has sliced apart countless boys._  
+__shrapnel__ :three: _n_ __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ :open_mouth: _Informal_ Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
 __shriek__ (shrieked) :two: :shit: _v_  
 __shrift__  
 __shrill__ :two: _Increasing shrill chorus._  
@@ -2132,7 +2132,7 @@ __siddle up__ _Chuck siddled up beside his brother._
 __sidecar shovelhead__  
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
-__sift__ :three: :shit: _v_  
+__sift__ :three: _v_ __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __signage__ Signs collectively.  
 __signee__  
 __signet ring__  
@@ -2207,7 +2207,7 @@ __smattering__ :three: _n_ __1__ A slight superficial knowledge of a language or
 __smear__ :two: :shit: _They use social media to smear their opponents._  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smitten__ :two: :shit: _He was smitten by the landscape._  
-__smolder__ (smolders, smoldered, smoldering) :three: :shit:  
+__smolder__ (smolders, smoldered, smoldering) :three: _v_ Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smooth operator__  
 __smoothie__ (smothies) :two: A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smug__ :two: :shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
