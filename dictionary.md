@@ -21,6 +21,13 @@ __unfathomable__
 __sakura__  
 __tailspin__  
 __motley__  
+__ramen restaurant__  
+__cut-and-dry task__  
+__featuring__  
+__riddle__  
+__matsuri__  
+__nondescript__  
+__dissatisfaction__  
 __giddily__  
 __splutters__  
 __whammy__  
