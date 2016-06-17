@@ -2,14 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__easing__  
-__spurring__  
-__paltry__  
-__bolster__  
-__ingots__  
-__rout__  
-__rife__  
-__wage__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -310,7 +302,7 @@ __bodacious__
 __bode__ :five: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __boilers__    
 __bologna__  
-__bolster__ (bolstered) :five: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
+__bolster__ (bolstered) :six: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bombast__ _Let's drop the bombast and look at the evidence._  
 __bon ton__  
@@ -785,6 +777,7 @@ __dystopian__
 __earnest__  
 __earth-shattering__  
 __earthquake drill__  
+__easing__  
 __ebb and floor__  
 __ebullient__  
 __edgy__  
@@ -1258,6 +1251,7 @@ __induction__ :two: :shit:
 __inequitable__  
 __infamy__  
 __influenza__  
+__ingots__  
 __ingrained__ _Speeding is deeply ingrained in American culture._  
 __injuction__ :two: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
 __inordinate__  
@@ -1663,7 +1657,7 @@ __pall__
 __pallbearer__  
 __pallet__ (pallets) :three: :shit:  
 __palsy__ _Mild cerebral palsy._  
-__paltry__ :four: _adj_ Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
+__paltry__ :five: _adj_ Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ :two: :shit: _v_  
 __pan out__ :two: :shit:  
 __panache__ :two: :shit:  
@@ -1949,6 +1943,7 @@ __ribbing__ :two: :shit:
 __riches__ :two: :shit:  
 __rickets__  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
+__rife__  
 __riffle__ (riffled) :two: :shit: _v_ _Annabeth riffled the medicine cabinet for the toothpaste._  
 __rift__ :three: :shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
 __rigmarole__ _Rigmarole controls._  
@@ -1982,7 +1977,7 @@ __rope-a-dope__
 __roster__ _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
 __rough → the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __round out__  
-__rout__  
+__rout__ :two: :shit:  
 __rowdy__ :four: /ˈraʊdi/ _adj_ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rub__ _n_  
 __ruckus__  
@@ -2285,7 +2280,7 @@ __spry__ :two: _adj_ Lively, active, and brisk; vigorous.
 __spuckie__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
-__spurring__  
+__spurring__ :two: :shit:  
 __spurt__ (spurts) :three: _n_ A sudden gushing stream. _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo  
 __spurt__ _n_ _Growth spurts._  
 __spurt__ _v_ :es: acelerar; hacer un esfuerzo supremo
@@ -2684,6 +2679,7 @@ __waddle__ _Two chubby guys waddling around the pool table._
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __waffle__ _v_  
 __waft__ :two: :shit: _v_ _Fine powder that wafts up from footsteps like flour._  
+__wage__  
 __waifish__  
 __waive__ _v_  
 __waive__ _v_  
