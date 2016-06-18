@@ -1,6 +1,19 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__grand jury__  
+__misdemeanor__  
+__goalie__  
+__goaltender__  
+__fittingly__  
+__breakaway__  
+__goahead__  
+__notched__ _v_   
+__rekindle__  
+__stalwart__  
+__tall orde__  
+__dressing room__  
+__stifling__  
 __ACK__  
 __mouthguard__  
 __lob__  
