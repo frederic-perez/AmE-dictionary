@@ -4,6 +4,23 @@ __4-H__ Of or relating to a government program in the U.S. that teaches farming 
 __ACK__  
 __mouthguard__  
 __lob__  
+__prominence__  
+__basin__  
+__lemongrass__  
+__belies__  
+__stuffy__  
+__forefathers__  
+__enamel__  
+__craft__ __Craft sake.__  
+__slivers__  
+__scallop__  
+__standout__  
+__marmalade__  
+__hither__  
+__seek out__  
+__stately__  
+__refurbish__  
+__quaintly__  
 __mudslide__  
 __husks__  
 __bass__ _Fingerling bass_  
