@@ -5,6 +5,14 @@ __ACK__
 __mouthguard__  
 __lob__  
 __mudslide__  
+__husks__  
+__bass__ _Fingerling bass_  
+__scrolled-iron__ _Scrolled-iron bench._  
+__lure__ _casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
+__dimpled__  
+__crank__ _Try a telephone crank._  
+__snug__  
+__cut me a little slack__  
 __stifled__  
 __putbacks__  
 __jumpers__  
