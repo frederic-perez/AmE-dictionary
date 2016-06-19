@@ -4,9 +4,15 @@ __4-H__ Of or relating to a government program in the U.S. that teaches farming 
 __grand jury__  
 __misdemeanor__  
 __goalie__  
+__rack up__  
+__sapping__  
+__inbounds pass__  
+__fluke__  
+__stcrech__
 __goaltender__  
 __fittingly__  
 __breakaway__  
+
 __goahead__  
 __notched__ _v_   
 __rekindle__  
