@@ -889,7 +889,8 @@ __fawn__ :three: :shit:
 __faze__ _v_  
 __fearl__ _A fearl youngster._  
 __feast__  
-__feature film__  
+__feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
+__feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __featuring__  
 __feisty__  
 __felon__ :five: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
