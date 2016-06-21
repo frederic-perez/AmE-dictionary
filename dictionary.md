@@ -695,10 +695,10 @@ __dikes__ :open_mouth:
 __dime > on the dime__  
 __dimpled__  
 __dimply__  
-__din__ :three: :shit:  
+__din__ :three: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_  
 __dinghy__  
-__dire__ :three: :shit: _Doctors warned of dire consequences._  
+__dire__ :three: _adj_ (of a situation or event) Extremely serious or urgent. Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal  
 __dirtbag__  
 __disarray__ :two: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos  
 __disbar__ _Disbar attorney._  
@@ -818,7 +818,7 @@ __emcee__ :two: :shit:
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__  
 __empty-net/power-play/short-handed goal__  
-__enact__ :three: :shit:  
+__enact__ :three: _v_ Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enamel__  
 __encampment__  
 __encore__ :two: :shit:  
@@ -1935,6 +1935,7 @@ __ravishing__ :two: :shit:
 __raze__ (razing) _v_ To level to the ground; demolish. _In March they razed the house._  
 __razz__ (razzing) _v_ To deride, heckle, or tease. _Razzed the teammate who missed the shot._  
 __razzle-dazzle__  
+__reach for the stars__ Have high or ambitious aims.  
 __readily__  
 __reams__ _He watched reams on tape._  
 __reappraise__ :es: valorar  
