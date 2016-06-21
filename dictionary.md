@@ -2,16 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
-__buyout__  
-__bona fide__  
-__runner-up__  
-__treble__  
-__bridesmaid__  
-__unearthed__  
-__boster__  
-__clinch__ _v_  
-__relegation__ _Sports_  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -314,11 +304,11 @@ __bodacious__
 __bode__ :five: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __boilers__    
 __bologna__  
-__bolster__ (bolstered) :six: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
+__bolster__ (bolstered) :seven: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bombast__ _Let's drop the bombast and look at the evidence._  
 __bon ton__  
-__bona fide__  
+__bona fide__ :two: :shit:  
 __bondage__  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
 __bone spurs__  
@@ -350,6 +340,7 @@ __bream__
 __brethen__  
 __brethren__ _Political brethren._  
 __brickbats__  
+__bridesmaid__  
 __brimming__  
 __brisk__  
 __bristle__ (bristled) :three: _v_ Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
@@ -416,7 +407,7 @@ __buttinski__
 __button man__  
 __buttress__ (buttressed) :four: _v_ Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buybacks__  
-__buyout__ (buyouts) :two: _n_ The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
+__buyout__ (buyouts) :three: _n_ The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __by and large__ :es: en líneas generales, en general  
 __by storm__  
 __bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
@@ -501,7 +492,7 @@ __cleats__ :two: :shit:
 __cleave__ _v_ _The court often cleaves along predictable lines._  
 __cleft__  
 __clicking__ _Things seem to be making sense and clicking._  
-__clinch__ :four: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._  
+__clinch__ :five: _v_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._  
 __clincher__  
 __clique__ (cliques) :two: _n_ A small exclusive group of friends or associates. _:es: camarilla_  
 __cloak__ :es: capa, manto
@@ -899,8 +890,8 @@ __fawn__ :three: :shit:
 __faze__ _v_  
 __fearl__ _A fearl youngster._  
 __feast__  
-__feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
+__feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __featuring__  
 __feisty__  
 __felon__ :five: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
@@ -1973,6 +1964,7 @@ __rehash__ _v_
 __reinstate__  
 __rekindle__  
 __relatable__ :two: :shit:  
+__relegation__ _Sports_  
 __reliever__  
 __relinquish__ :two: :shit:  
 __relish__ :two: Enjoy greatly. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._  
@@ -2057,7 +2049,7 @@ __rumple__
 __run-in__ (run-ins) _A run-in with police._  
 __run-of-the-mill__  
 __rungs__ _He deserves to be in the lowest rungs of hell._  
-__runner-up__ _Nadal was the runner-up to Roger Federer in 2006-7._  
+__runner-up__ :two: :shit: _Nadal was the runner-up to Roger Federer in 2006-7._  
 __running-of-the-mill husband__  
 __runoff__ _Enough votes to force a runoff,_  
 __ruse__  
@@ -2199,6 +2191,7 @@ __shrivel__ (shriveled) :two: :shit: _v_
 __shtick__ or __shtik__ :three: _n_ _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shucking__ _v_  
 __shush__ _v_  
+__shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
 __shutout__ _Last year, the NL won in a shutout._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shy of__ _Just shy of its highest mark._  
@@ -2627,6 +2620,7 @@ __trampling__ :two: :shit: _Stadium trampling._
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __travelogue__  
 __trawler__  
+__treble__  
 __tresses__ _Blond tresses._  
 __trestle__ /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
 __trestle__ _Railroad trestle._  
@@ -2676,6 +2670,7 @@ __understandably__
 __underwhelming__  
 __underwrite__ (underwriting) :two: :shit:  
 __undimpled__  
+__unearthed__  
 __unfathomable__ :two: :shit:  
 __unfazed__  
 __unfettered__ _Esxposed to unfetteredpolitical advocacy._  
