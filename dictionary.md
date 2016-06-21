@@ -587,7 +587,7 @@ __crank__ _Try a telephone crank._
 __craven__ _A craven political figure._  
 __creakings__ _Door creakings._  
 __crepe__  
-__crevice__ :three: :shit:  
+__crevice__ :three: _n_ A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crib__  
 __crimp__ (crimped) :three: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimson__ _Crimson cereal._  
@@ -635,7 +635,7 @@ __dallying__
 __damp__ :two: :shit:  
 __dandruff__  
 __dangle__ _v_ _Garret seems to be dangling by a thread._  
-__dank__ :three: :shit: _An old table in a dank, smelly place._  
+__dank__ :three: _adj_ Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __dare__  
 __darn__  
@@ -677,7 +677,7 @@ __demonstrate__ :open_mouth:
 __demurely__ :two: :shit:  
 __denizens__  
 __denouement__ :two: :shit:  
-__dent__ (denting) :three: :shit: _v_  
+__dent__ (denting) :three: _v_ __1__ Mark with a dent. _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __depleted__ :two: _v_ Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __depress__ _v_ _Depressing a company's value._  
 __derelict__  
