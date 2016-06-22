@@ -2,13 +2,6 @@ __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typicall
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
-__star__ _v_  
-__sinewy__  
-__begrudge__  
-__soggy__  
-__crimp__ _v_  
-__scarlet__  
-
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -229,7 +222,7 @@ __beeline__
 __beet__  
 __befit__ (befits, befitting) :two: :shit: _v_  
 __befuddled__  
-__begrudge__  
+__begrudge__ :two: :shit:  
 __beguiling__ _The Artist has an utterly beguiling purity._  
 __behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ :two: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
@@ -596,7 +589,7 @@ __creakings__ _Door creakings._
 __crepe__  
 __crevice__ :three: _n_ A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crib__  
-__crimp__ (crimped) :three: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
+__crimp__ (crimped) :four: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimson__ _Crimson cereal._  
 __cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe → me da horror_  
 __crinkling__  
@@ -2090,6 +2083,7 @@ __scallop__
 __scammed__  
 __scampering__ _v_  
 __scant__ :two: :shit: _Details were scant._  
+__scarlet__  
 __scathing__ :three: Bitterly severe.  
 __scattershot__  
 __schism__  
@@ -2216,7 +2210,8 @@ __sill__
 __silo__  
 __silver lining__  
 __simmer__ (simmers, simmering) :four: _v_ (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
-__sinew__ (sinewy)  
+__sinew__  
+__sinewy__ :two: :shit:  
 __siphoned__ _v_  
 __sitting pretty__  
 __sitting__ _A sitting U.S. president._ In office or actual possession.  
@@ -2311,7 +2306,7 @@ __snug__
 __snuggles__  
 __soft-spoken__  
 __softly-softly__  
-__soggy__ :three: :shit: _Soggy food on top letting off a gray steam._ _Soggy drink cups._  
+__soggy__ :four: :shit: _Soggy food on top letting off a gray steam._ _Soggy drink cups._  
 __soiled__  
 __sojourn__  
 __solid gold__  
@@ -2390,6 +2385,7 @@ __standout__ :five: _Informal_ _adj_ Exceptionally good. _He became a standout q
 __standstill__ _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __staph__ _Staph infections._  
 __star-69ing__ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
+__star__ _v_  
 __starched__ :two: :shit:  
 __stardom__  
 __stark__  
