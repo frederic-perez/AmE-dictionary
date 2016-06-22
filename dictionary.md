@@ -2306,7 +2306,7 @@ __snug__
 __snuggles__  
 __soft-spoken__  
 __softly-softly__  
-__soggy__ :four: :shit: _Soggy food on top letting off a gray steam._ _Soggy drink cups._  
+__soggy__ :four: _adj_ Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
 __soiled__  
 __sojourn__  
 __solid gold__  
@@ -2343,7 +2343,7 @@ __sprigs__
 __springboard__  
 __springring clasp__  
 __sprinkled__ _v_  
-__sprinkler__ :three: :shit:_Lawn sprinklers._  
+__sprinkler__ :three: _n_ __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __spruce up__ _Juliette spruces up her country look and sound._  
 __spry__ :two: _adj_ Lively, active, and brisk; vigorous.  
 __spuckie__  
@@ -2354,7 +2354,7 @@ __spurt__ (spurts) :three: _n_ A sudden gushing stream. _Stanford owned a two-po
 __spurt__ _n_ _Growth spurts._  
 __spurt__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __sputter__ (sputtered, sputtering) :sever: _v_ Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
-__squabble__ :three: :shit: _Shrieking marital squabbles._  
+__squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squabbling__ _v_ _A squabbling family._  
 __squad__  
 __squalid__:open_mouth: _Squalid home._  
