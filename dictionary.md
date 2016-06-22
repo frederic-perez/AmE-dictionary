@@ -1,6 +1,21 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__despicable__  
+__bemoaning__  
+__affront__  
+__travesty__  
+__scraped__  
+__attire__  
+__advent__  
+__stop short__ :two: :shit:  
+__ottoman__  
+__fintech__  
+__flare-ups__  
+__boisterous__  
+__unrestrained__  
+__budged__  
+__back away__  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
