@@ -1,21 +1,6 @@
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
-__despicable__  
-__bemoaning__  
-__affront__  
-__travesty__  
-__scraped__  
-__attire__  
-__advent__  
-__stop short__ :two: :shit:  
-__ottoman__  
-__fintech__  
-__flare-ups__  
-__boisterous__  
-__unrestrained__  
-__budged__  
-__back away__  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
@@ -108,10 +93,11 @@ __adamant__
 __add up__  
 __addled__  
 __adjunct__ _Adjunct professors._  
-__advent__  
+__advent__ :two: :shit:  
 __adverts__  
 __afar__ :three: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affluent__  
+__affront__  
 __afloat__  
 __afoul__  
 __aftermarket__  
@@ -169,7 +155,7 @@ __assailant__
 __assets__  
 __atavistic__  
 __atone__ _v_  
-__attire__  
+__attire__ :two: :shit:  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __autoclaving__  
 __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
@@ -178,6 +164,7 @@ __avocation__ _n_ An activity taken up in addition to one's regular work or prof
 __avuncular__  
 __awash__ :three: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
+__back away__  
 __back breaker__  
 __back out__  
 __back-to-back__ :three: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._    
@@ -255,7 +242,7 @@ __bells and whistles__
 __bellwether__  
 __belly-flop__  
 __belting__  
-__bemoan__  
+__bemoan__ (bemoaning) :two: :shit:  
 __bequeathed__  
 __bequest__ :two: :shit: _A dark bequest of Nazism._  
 __berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._  
@@ -318,6 +305,7 @@ __bod__ :two: :shit:
 __bodacious__  
 __bode__ :five: _v_ Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __boilers__    
+__boisterous__  
 __bologna__  
 __bolster__ (bolstered) :seven: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
@@ -376,6 +364,7 @@ __buckle down (to something)__ _Informal_ To start to do something seriously: _I
 __buckle up__  
 __buckle__ (bluckled) :three: _v_ Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
 __budding__  
+__budged__  
 __buff bod__  
 __buff__ :two: :shit: _Some folks are movie buffs._ :es: entusiasta  
 __buffeted__ :two: :shit:  
@@ -696,6 +685,7 @@ __dent__ (denting) :three: _v_ __1__ Mark with a dent. _He hit a concrete bollar
 __depleted__ :two: _v_ Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __depress__ _v_ _Depressing a company's value._  
 __derelict__  
+__despicable__  
 __despondent__  
 __deterrent__  
 __devolve__ _v_ _The party must devolve power._  
@@ -937,6 +927,7 @@ __fillip__ :two: :shit:
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ _:es: potra_  
 __finger-waggers__  
 __finicky__ :two: shit:  
+__fintech__  
 __fire sale__  
 __first and foremost__  
 __fittingly__  
@@ -945,6 +936,7 @@ __flag__ :two: :shit: _v_
 __flah point__  
 __flailing__  
 __flair__ :five: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
+__flare-ups__  
 __flatbread__ _Flatbread sandwiches._  
 __flatware coins__    
 __flaunting__  
@@ -1687,6 +1679,7 @@ __ordeal__ (ordeals) :eight: A very unpleasant and prolonged experience. :es: ex
 __ore__  
 __ornate__  
 __ornery__ :two: :shit:  
+__ottoman__  
 __out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outbound__ _The latest trends in Chinese outbound tourism._  
@@ -2120,7 +2113,7 @@ __scoured__ Search thoroughly.
 __scourge__ :four: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scramble__ (scrambled, scrambling) :four: _v_ __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap__ _n_ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap__ _v_  
+__scrap__ _v_ :two: :shit:  
 __scrapper__  
 __scrawny__  
 __scream-o-meter__  
@@ -2438,7 +2431,7 @@ __stockpile__
 __stodgy__ _The mainstream may sound too stodgy._  
 __stoke__ _v_  
 __stonewall__ :two: :shit: _v_  
-__stop short__  
+__stop short__ :three: :shit:  
 __stoplights__ :open_mouth:  
 __storeful__  
 __stove__  
@@ -2638,6 +2631,7 @@ __trampled__
 __trampling__ :two: :shit: _Stadium trampling._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __travelogue__  
+__travesty__  
 __trawler__  
 __treble__  
 __tresses__ _Blond tresses._  
@@ -2697,6 +2691,7 @@ __unflinching__
 __unfurl__  
 __unhindered__  
 __unrepentant__  
+__unrestrained__  
 __unscathed__ :two: _adj_ Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unspooling__ _Unspooling microphone cables._  
 __unwilling__ _Unwilling medical director._  
