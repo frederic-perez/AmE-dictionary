@@ -841,7 +841,8 @@ __enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthra
 __enthused__ (enthusing) :two: :shit:  
 __enthusiasm__  
 __entitlement__  
-__entrenched__ :three: :shit:  
+__entrench__ (entrenched) _v_ Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
+__entrenched__ :three: _adj_ (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entwined__  
 __envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
 __ephemeral__  
@@ -857,7 +858,7 @@ __estrange__ _v_ __1__ (often foll by: _from_) to separate and live apart from (
 __ethos__  
 __evicted__  
 __eviction__  
-__exacerbated__ (exacerbating) :three: :shit:  
+__exacerbate__ (exacerbated, exacerbating) :three: _v_ Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ (exacting) :two: _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
 __excess__ _In excess_  
 __excise__ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
@@ -1165,7 +1166,7 @@ __hankering__ Craving.
 __hanks__ :open_mouth: _Stringy hanks of blond hair._  
 __hapless__ :two: :shit:  
 __haps__ _What's the haps?_  
-__hardship__  
+__hardship__ :two: _n_ Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hark__ _v_  
 __harp__ _v_ _She told her she was always harping on him._  
 __harried__ _A harried mom._  
@@ -1664,6 +1665,8 @@ __on deck__
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._  
 __on__ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._  
 __on__ __spy on someone__  
+__one-off__ _British informal_ _adj_ Done, made, or happening only once. _A one-off benefit show._  
+__one-off__ _British informal_ _n_ Something done, made, or happening only once. _The meeting is a one-off._  
 __one-offs__  
 __onerous__  
 __onesie__ _The actor in the Lycra onesie is stealing the 'Avengers' show._  
