@@ -3,6 +3,52 @@ __35-degree day__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
+__renminbi__  
+__avuncular__  
+__deft__  
+__feisty__  
+__onslaught__  
+__file__ _v_  
+__prowess__  
+__leveled__  
+__zip__ _v_ _The ISS zips around Earth once every 90 minutes._  
+__pounce__ _v_  
+__indelible__  
+__endowment__  
+__huckster__  
+__acerbic__  
+__rage__ _n_  
+__reveling__  
+__quaffable__  
+__nightcap__  
+__shorn__  
+__mecca__  
+__palomas__  
+__hangout__  
+__perennial__  
+__tiki__  
+__quench__  
+__thickets__  
+__stargazing__  
+__cataract__  
+__artifacts__  
+__plea__  
+__grappling__  
+__sarcophagus__  
+__Pharaoh__  
+__milling__  
+__belching__  
+__fledgling__  
+__haking__  
+__anglers__  
+__boisterous__  
+__chaperones__  
+__din__  
+__plaintive__  
+__wince__  
+__curios__  
+__ordeal__  
+__flitting__  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
