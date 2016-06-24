@@ -6,6 +6,18 @@ __ACL__ Anterior cruciate ligament.
 __renminbi__  
 __avuncular__  
 __deft__  
+__drizzle__  
+__hardships__  
+__stringent__  
+__wayward__  
+__rejiggered__  
+__unyielding__  
+__infighting__  
+__stopped short__ :two:  
+__paring__  
+__Coptic__  
+__Quran__  
+__impinge__  
 __feisty__  
 __onslaught__  
 __file__ _v_  
