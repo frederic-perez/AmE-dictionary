@@ -9,6 +9,17 @@ __deft__
 __whooping cough__  
 __sheath__ :es: vaina? 
 __merch__ Merchandaising?  
+__shimmying__  
+__dispirited__  
+__show runner__  
+__dressed to the nines__  
+__inarticulate__  
+__broken accent__  
+__get-go__  
+__fleshed out__  
+__afterward__  
+__show runners__  
+__upswing__
 __deck__ Decorate?  
 __Great Dane__  
 __spay__ _v_  
