@@ -5,8 +5,52 @@ __ACK__
 __ACL__ Anterior cruciate ligament.  
 __renminbi__  
 __avuncular__  
-__deft__  
+__deft__   
+__whooping cough__  
+__sheath__ :es: vaina? 
+__merch__ Merchandaising?  
+__deck__ Decorate?  
+__Great Dane__  
+__spay__ _v_  
+__hog the sofa__  
+__Chiuaua__  
+__Labrador__  
+__heartworm__  
+__tick prevention__  
+__kennel__  
+__once-over__  
+__haunches__  
+__strains__  
+__wishful thinking__  
+__pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
 __drizzle__  
+__catch-up schedule__  
+__nurse__ _v_  
+__CFL__ _compact fluorescent lamp._  
+__prediabetes__  
+__full-blown__  
+__circadian__  
+__pk__  
+__gripping__  
+__strapped__  
+__hard hat__  
+__marshal__ _v_  
+__outings__  
+__regaled__  
+__foreman__  
+__fare__ _Banderas branched out withsuch diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._  
+__relief__ _Monetary relief._  
+__curtly__  
+__hold up a fish__  
+__fir__  
+__smothering__  
+__waterfowl__  
+__ferret__  
+__pooch__  
+__cuff links__  
+__regular shipping__ (vs _expedited shipping_)  
+__expedited shipping__ (vs _regular shipping_)  
+__day job__  
 __hardships__  
 __stringent__  
 __wayward__  
