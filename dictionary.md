@@ -5,6 +5,40 @@ __ACK__
 __ACL__ Anterior cruciate ligament.  
 __renminbi__  
 __avuncular__  
+__fielded__  
+__plush__  
+__litany__  
+__felon__  
+__deepsix__  
+__sump__  
+__hex key set__ _Allen key set?_  
+__delay-prone__ __The delay-prone airports of New York, Newark and philadelphia._  
+__green-behimd-the-ears__  
+__thawed__  
+__lush__  
+__outrage__  
+__archipelago__  
+__dredgers__  
+__spurring__  
+__reefs__  
+__press on__  
+__tap__ _v_  
+__scuttle__ _v_  
+__mollify__ _v_  
+__relief__ _Iran continues to insist on instant and total relief from sanctions._  
+__hard-liners__  
+__capitulation__  
+__harshest__  
+__hobbled__  
+__repudiate__ _v_  
+__scapegoated__ _v_  
+__basing__  
+__acumen__  
+__indict__ _v_  
+__reek__ _This case reeks of social injustice.__  
+__dragnet__  
+__preyed__ _v_   
+__tamp down__ _v_  
 __deft__   
 
 __ebullient__  
