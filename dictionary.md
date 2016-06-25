@@ -18,7 +18,76 @@ __shank__ _Shank artists._
 __meltdowns__  
 __racket__  
 __mutts__  
+__trusties__  
+__Mariel felons__  
+__pries__ _He pries your buttocks apart._  
+__hapless__  
+__duffer__ _n_  
+__emery__ _An emery wheel._  
+__abasement__  
+__butternut__  
+__khakis__ _n_  
+__crimped__ _v_  
+__creasing__  
+__firehouse__  
+__bludgeoned__ _v_  
+__bouree__ _I watched some old men playing bouree._  
+__slum__ _A black slum area off the Loreauville Road._  
+__wadded___v_  
+__podna__  
+__shotgun cottage__  
+__husks__  
+__sprinkled__  
+__scuffed boots__  
+__admonition__  
+__crib__ _n_  
+__smoldering__  
+__halter__ _The black woman wore a halter and a pair of shorts._  
+__gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
+__drone__ _The drone of an outboard motor reverberated._  
+__boudin__ _A length of white boudin in a saucer._  
+__harbinger__  
+__stooped__  
+__balmy__ _The air was sweet and balmy._  
+__lacy__ _Cypress trees that were lacy with new leaf._  
+__bream__  
+__perch__  
+__sputs__  
+__minnow__  
+__gunnel__ _the reel clanked once against the aluminium gunnel.__  
+__aluminum__  
+__razor strop__  
+__sassy__  
+__cobweb__  
+__brig__  
+__kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
+__dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
+__hooch__ _Take it easy on the hooch._  
+__shanked__ _v_  
+__clean his clock__  
+__pushover__  
+__sherbet punch__  
+__schooner__ _A schooner of beer._  
+__caroming__  
+__terry-cloth__ _A blue terry-cloth pullover._  
+__husky__ _Husky voice._  
+__skillet__  
+__all that jazz__  
+__wanly__ _She droppedand egg on the floor and looked at it wanly._  
+__taper__  
+__tubbing up__ _I keep tubbing up._  
+__navel__  
+__disquiet__  
+__mush-mouth__ _The kid with the mush-mouth accent._  
+__slats__ _The slats in the dock._  
+__raccooned__ _v_  
+__bone__ _I have a bone to pick with Clete Purcel._  
+__rumdum__  
+__shanked__ _v_ _You shanked a guy from the Aryan Brotherhood._  
+__flash__  
+__beef__
 __sash__  
+__spokes__ _Someone should have ripped out his spokes long time ago._  
 __silt__  
 __jab__ _v_  
 __ice pick__  
