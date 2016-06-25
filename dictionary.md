@@ -6,6 +6,25 @@ __ACL__ Anterior cruciate ligament.
 __renminbi__  
 __avuncular__  
 __deft__   
+__ebullient__  
+__utility__ _Utility bill._  
+__tenants__  
+__evicted__  
+__maggots__  
+__stumps__ _n_  
+__frostbite__  
+__slum__ __A Mumbai slum._  
+__hardships__  
+__improvidence__  
+__meringue__ _Meringue pie._  
+__drizzle__  
+____elegy__  
+__unfurling__  
+__weather vane__  
+__afoot__  
+__trundle__ _v_  
+__bleak__  
+__seep__ _v_
 __whooping cough__  
 __sheath__ :es: vaina? 
 __merch__ Merchandaising?  
