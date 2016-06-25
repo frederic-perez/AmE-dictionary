@@ -6,6 +6,7 @@ __ACL__ Anterior cruciate ligament.
 __renminbi__  
 __avuncular__  
 __deft__   
+
 __ebullient__  
 __utility__ _Utility bill._  
 __tenants__  
@@ -19,6 +20,80 @@ __improvidence__
 __meringue__ _Meringue pie._  
 __drizzle__  
 ____elegy__  
+__reeked__  
+__shrimp__  
+__slugs__  
+__oozed__  
+__BBs__  
+__podna__  
+__clenched__  
+__crystal__ _Meth?_  
+__kinks__  
+__coleslaw__  
+__crystal meth__  
+__blotter__ _desk blotter._  
+__humped__  
+__thoroughfare__  
+__shove__  
+__greaseballs__  
+__hibachi__  
+__notches__  
+__riddance__  
+__floodlamps__  
+__ruffling__  
+__miscreants__  
+__loafers__  
+__adenoidal__  
+__padlock__  
+__gauntness__  
+__blackjack__  
+__kneecap__  
+__hunched__ _v_  
+__emery__  
+__porkpie__  
+__sill__  
+__shady__  
+__periwinkles__  
+__downers__  
+__bubba__  
+__slum__ _The caravan passed through a black slum far out in the parish._  
+__skittering__  
+__nozzle__  
+__sap__  
+__statutory rape__  
+__prongs__  
+__writhing__  
+__jowls__  
+__shaggy hemp__  
+__steeple__  
+__ramshackle__  
+__facsimile__  
+__muzzle__  
+__string beans__  
+__wet a line__  
+__jerk around__  
+__bream__  
+__boogie__  
+__blow it off__  
+__con__ _A real con man._  
+__douche bag__  
+__cold duck__  
+__skivvy__  
+__podjo__  
+__motor court__  
+__bullhorn__  
+__canted__  
+__rump__  
+__jowls__  
+__leviathan__  
+__flushed complexion__  
+__buggers__  
+__denizens__  
+__flintlock__  
+__hillbilly__  
+__sway__  
+__attrition__  
+__puckered__  
 __unfurling__  
 __weather vane__  
 __afoot__  
