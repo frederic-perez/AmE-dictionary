@@ -7,6 +7,76 @@ __renminbi__
 __avuncular__  
 __fielded__  
 __plush__  
+__jowls__  
+__St. Bernard__  
+__forfeited__  
+__ripened__ _Ripened peach._  
+__glob__ _ A glob of spit._  
+__ ledge__  
+__splaying__  
+__shank__ _Shank artists._  
+__meltdowns__  
+__racket__  
+__mutts__  
+__sash__  
+__silt__  
+__jab__ _v_  
+__ice pick__  
+__profligate__  
+__cowboy__ _v_  
+__slacks__ _n_  
+__roiling__ _His stomach was roiling__  
+__swatches__  
+__muzzle__  
+__over-the-hill__  
+__shrieks__  
+__deranged__  
+__bouree__  
+__shucked__ _v_  
+__bum deal__  
+__wreaths__  
+__sequined__  
+__fringe__  
+__auburn__  
+__pouts__  
+__dookie-wookie__  
+__buckle__ _She buckled her knees and perched out her rump.__  
+__perch__ _v_  
+__rump__  
+__rambling__  
+__raking__ _v_  
+__toe-curling__  
+__gumbo__ __cook-off__  
+__festooned__  
+__swilled__  
+__chasm__  
+__silt__  
+__highballs__ _The passengers were sipping highballs at the bar._  
+__schooner__ _A frosted schooner of draft._  
+__skillet__  
+__sprinkling__  
+__scallions__  
+__clacks__ _n_    
+__buzzards__  
+__doff__ _Doff his hat._  
+__smudges__  
+__strewn__  
+__revelers__  
+__Hedonism__  
+__sludge__  
+__egrets__ _Snow egrets._  
+____lupus__  
+__abeyance__  
+__blood-expander__  
+__uncrating__  
+__entourage__  
+__toe-toppers__  
+__booby-trapped 105's__  
+__hot-rodder__  
+__uppers__  
+__blooker__  
+__jabbing__  
+__knurled__  
 __litany__  
 __felon__  
 __deepsix__  
