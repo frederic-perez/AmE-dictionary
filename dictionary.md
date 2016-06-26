@@ -6,6 +6,38 @@ __ACL__ Anterior cruciate ligament.
 __renminbi__  
 __avuncular__  
 __fielded__  
+__freewheeling style__  
+__durable__  
+__rumpus__  
+__nimble__  
+__taunted__  
+__racous__  
+__elites__  
+__downtrodden__  
+__nuggets__  
+__incidentally__  
+__razed__ _Dozens of buildings were razed to make room for new ones._  
+__trepidation__  
+__hawk__ _v_ _Vendors hawk greeting cards and inexpensive artwork._  
+__scarce__  
+__outcry__  
+__balustrades__  
+__advocacy__  
+__groundswell__  
+__reprisal__  
+__contentious__  
+__treading__  
+__effigy__  
+__straggly__  
+__strewn__  
+__etchings__  
+__verve__  
+__wedlock__  
+__bevy__  
+__seafaring__  
+__untidy__  
+__warble__ _v_  
+
 __plush__  
 __jowls__  
 __St. Bernard__  
