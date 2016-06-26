@@ -37,7 +37,20 @@ __bevy__
 __seafaring__  
 __untidy__  
 __warble__ _v_  
-
+__scuffle__  
+__tooth-wrecking__  
+__pin-curled__  
+__galvanized__  
+__preened__  
+__petted__  
+__twinkle__  
+__pithy__  
+__down-to-earth__  
+__blustery__  
+__wordplay__  
+__rowdy__  
+__plea__ _A prayerful plea to brek free of alcohol.__  
+__mused__ _v_  
 __plush__  
 __jowls__  
 __St. Bernard__  
