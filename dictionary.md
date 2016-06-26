@@ -5,6 +5,26 @@ __ACK__
 __ACL__ Anterior cruciate ligament.  
 __renminbi__  
 __avuncular__  
+__sniffles__  
+__mulberry__  
+__vodka collins__  
+__wicker__  
+__bail skip__  
+__D-ring inset__  
+__bordello__  
+__barked area__  
+__suffused__  
+__gangbangers__  
+__nattily__  
+__oxblood__  
+__fawn__  
+__what's the haps?__  
+__pisspot__  
+__stagnant__  
+__slack__ _This is as much slack as you get, Jack._  
+
+
+
 __fielded__  
 __freewheeling style__  
 __durable__  
