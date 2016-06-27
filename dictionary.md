@@ -15,6 +15,108 @@ __CPR__ Cardiopulmonary resuscitation.
 __Chicken Little__ (Chicken Littles) _n_ An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __Chiuaua__  
 __Coptic__  
+____butt crust__  
+__mussed__ _v_  
+__tannic__  
+__tannic__  
+__abiding__  
+__gaunt__ _A gaunt-faced biker._  
+__clap__  
+__recooled__ __tallow__  
+__well out__ _v_  
+__troop__  
+__prodded__ _v_  
+__bream__  
+__okra gumbo__  
+__sequined__  
+__troot__  
+__levee__  
+__wrinkling__  
+__oil slick__ _The greasy shine of an oil slick._  
+__collard greens__ _Take the collard greens out of your mouth._  
+__jigger__ _A jigger of whiskey._  
+__dagos__  
+__scabbard__  
+__jamb__  
+__loins__  
+__boilermakers__  
+__snort__  
+__teetering__  
+__festooned__  
+__twitched__  
+__sand__ _You got sand._  
+__coonass__  
+__recidivist__  
+__stoke up__  
+__skipper__  
+__slum__  
+__puckered__  
+__spike__  
+__dyke__  
+__shotgun house__  
+__heady__  
+__pinched shut__  
+__barked__ _His forehead was barked._  
+__kneading__  
+__smoldering__  
+__clot__  
+__britches__  
+__pockmarks__  
+__sheaf__  
+__dimed__ _I'm going to roust Jimmy Sty and tell him you dimed him._  
+__glib__ _A glib reply to his remark._  
+__slick__ _He carried me piggyback into the slick._  __fern__  
+__tie-dye__  
+__boudin__  
+__hinky__  
+__chagrined__  
+__mayhem__  
+__DWI__  
+__miscreants__  
+__meltdowns__  
+__doyenne__  
+__hutch__ _n_  
+__gris__  
+__herons__  
+__sawhorse__  
+__shedder__ _a tree shedder._  
+__bristles__ _n_  
+__snout__ _n_  
+__knoll__  
+__arbor__  
+__berth__  
+__haul__ _v_  
+__skeet__  
+__douch bag__  
+__scut work__  
+__stoop__ _n_  
+__moldy__  
+__sag__ _v_  
+__flotsam__  
+__brisket__  
+__amends__  
+__dappled__  
+__withers__  
+__grunts__  
+__Doc__  
+__duffel bag__  
+__copacetic__  
+__Loot__  
+__sinewy__  
+__jaunty__  
+__welt__  
+__stunned__  
+__navel__  
+__bandanna__  
+__scam__ _v_  
+__slobber__  
+
+__dime__ _v_  
+__crummy__ _He had a crummy life._  
+__deluded__  
+__scion__  
+__hard-nosed__  
+
 __D-ring inset__  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __Dem__ A member of the Democratic Party.  
