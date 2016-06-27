@@ -3,451 +3,425 @@ __35-degree day__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
-__renminbi__  
-__avuncular__  
-__sniffles__  
-__mulberry__  
-__vodka collins__  
-__wicker__  
-__bail skip__  
-__D-ring inset__  
-__bordello__  
-__barked area__  
-__suffused__  
-__gangbangers__  
-__nattily__  
-__oxblood__  
-__fawn__  
-__what's the haps?__  
-__pisspot__  
-__stagnant__  
-__slack__ _This is as much slack as you get, Jack._  
-
-
-
-__fielded__  
-__freewheeling style__  
-__durable__  
-__rumpus__  
-__nimble__  
-__taunted__  
-__racous__  
-__elites__  
-__downtrodden__  
-__nuggets__  
-__incidentally__  
-__razed__ _Dozens of buildings were razed to make room for new ones._  
-__trepidation__  
-__hawk__ _v_ _Vendors hawk greeting cards and inexpensive artwork._  
-__scarce__  
-__outcry__  
-__balustrades__  
-__advocacy__  
-__groundswell__  
-__reprisal__  
-__contentious__  
-__treading__  
-__effigy__  
-__straggly__  
-__strewn__  
-__etchings__  
-__verve__  
-__wedlock__  
-__bevy__  
-__seafaring__  
-__untidy__  
-__warble__ _v_  
-__scuffle__  
-__tooth-wrecking__  
-__pin-curled__  
-__galvanized__  
-__preened__  
-__petted__  
-__twinkle__  
-__pithy__  
-__down-to-earth__  
-__blustery__  
-__wordplay__  
-__rowdy__  
-__plea__ _A prayerful plea to brek free of alcohol.__  
-__mused__ _v_  
-__plush__  
-__jowls__  
-__St. Bernard__  
-__forfeited__  
-__ripened__ _Ripened peach._  
-__glob__ _ A glob of spit._  
-__ ledge__  
-__splaying__  
-__shank__ _Shank artists._  
-__meltdowns__  
-__racket__  
-__mutts__  
-__trusties__  
-__Mariel felons__  
-__pries__ _He pries your buttocks apart._  
-__hapless__  
-__duffer__ _n_  
-__emery__ _An emery wheel._  
-__abasement__  
-__butternut__  
-__khakis__ _n_  
-__crimped__ _v_  
-__creasing__  
-__firehouse__  
-__bludgeoned__ _v_  
-__bouree__ _I watched some old men playing bouree._  
-__slum__ _A black slum area off the Loreauville Road._  
-__wadded___v_  
-__podna__  
-__shotgun cottage__  
-__husks__  
-__sprinkled__  
-__scuffed boots__  
-__admonition__  
-__crib__ _n_  
-__smoldering__  
-__halter__ _The black woman wore a halter and a pair of shorts._  
-__gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
-__drone__ _The drone of an outboard motor reverberated._  
-__boudin__ _A length of white boudin in a saucer._  
-__harbinger__  
-__stooped__  
-__balmy__ _The air was sweet and balmy._  
-__lacy__ _Cypress trees that were lacy with new leaf._  
-__bream__  
-__perch__  
-__sputs__  
-__minnow__  
-__gunnel__ _the reel clanked once against the aluminium gunnel.__  
-__aluminum__  
-__razor strop__  
-__sassy__  
-__cobweb__  
-__brig__  
-__kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
-__dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
-__hooch__ _Take it easy on the hooch._  
-__shanked__ _v_  
-__clean his clock__  
-__pushover__  
-__sherbet punch__  
-__schooner__ _A schooner of beer._  
-__caroming__  
-__terry-cloth__ _A blue terry-cloth pullover._  
-__husky__ _Husky voice._  
-__skillet__  
-__all that jazz__  
-__wanly__ _She droppedand egg on the floor and looked at it wanly._  
-__taper__  
-__tubbing up__ _I keep tubbing up._  
-__navel__  
-__disquiet__  
-__mush-mouth__ _The kid with the mush-mouth accent._  
-__slats__ _The slats in the dock._  
-__raccooned__ _v_  
-__bone__ _I have a bone to pick with Clete Purcel._  
-__rumdum__  
-__shanked__ _v_ _You shanked a guy from the Aryan Brotherhood._  
-__flash__  
-__beef__
-__sash__  
-__spokes__ _Someone should have ripped out his spokes long time ago._  
-__silt__  
-__jab__ _v_  
-__ice pick__  
-__profligate__  
-__cowboy__ _v_  
-__slacks__ _n_  
-__roiling__ _His stomach was roiling__  
-__swatches__  
-__muzzle__  
-__over-the-hill__  
-__shrieks__  
-__deranged__  
-__bouree__  
-__shucked__ _v_  
-__bum deal__  
-__wreaths__  
-__sequined__  
-__fringe__  
-__auburn__  
-__pouts__  
-__dookie-wookie__  
-__buckle__ _She buckled her knees and perched out her rump.__  
-__perch__ _v_  
-__rump__  
-__rambling__  
-__raking__ _v_  
-__toe-curling__  
-__gumbo__ __cook-off__  
-__festooned__  
-__swilled__  
-__chasm__  
-__silt__  
-__highballs__ _The passengers were sipping highballs at the bar._  
-__schooner__ _A frosted schooner of draft._  
-__skillet__  
-__sprinkling__  
-__scallions__  
-__clacks__ _n_    
-__buzzards__  
-__doff__ _Doff his hat._  
-__smudges__  
-__strewn__  
-__revelers__  
-__Hedonism__  
-__sludge__  
-__egrets__ _Snow egrets._  
-____lupus__  
-__abeyance__  
-__blood-expander__  
-__uncrating__  
-__entourage__  
-__toe-toppers__  
-__booby-trapped 105's__  
-__hot-rodder__  
-__uppers__  
-__blooker__  
-__jabbing__  
-__knurled__  
-__litany__  
-__felon__  
-__deepsix__  
-__sump__  
-__hex key set__ _Allen key set?_  
-__delay-prone__ __The delay-prone airports of New York, Newark and philadelphia._  
-__green-behimd-the-ears__  
-__thawed__  
-__lush__  
-__outrage__  
-__archipelago__  
-__dredgers__  
-__spurring__  
-__reefs__  
-__press on__  
-__tap__ _v_  
-__scuttle__ _v_  
-__mollify__ _v_  
-__relief__ _Iran continues to insist on instant and total relief from sanctions._  
-__hard-liners__  
-__capitulation__  
-__harshest__  
-__hobbled__  
-__repudiate__ _v_  
-__scapegoated__ _v_  
-__basing__  
-__acumen__  
-__indict__ _v_  
-__reek__ _This case reeks of social injustice.__  
-__dragnet__  
-__preyed__ _v_   
-__tamp down__ _v_  
-__deft__   
-
-__ebullient__  
-__utility__ _Utility bill._  
-__tenants__  
-__evicted__  
-__maggots__  
-__stumps__ _n_  
-__frostbite__  
-__slum__ __A Mumbai slum._  
-__hardships__  
-__improvidence__  
-__meringue__ _Meringue pie._  
-__drizzle__  
-____elegy__  
-__reeked__  
-__shrimp__  
-__slugs__  
-__oozed__  
 __BBs__  
-__podna__  
-__clenched__  
-__crystal__ _Meth?_  
-__kinks__  
-__coleslaw__  
-__crystal meth__  
-__blotter__ _desk blotter._  
-__humped__  
-__thoroughfare__  
-__shove__  
-__greaseballs__  
-__hibachi__  
-__notches__  
-__riddance__  
-__floodlamps__  
-__ruffling__  
-__miscreants__  
-__loafers__  
-__adenoidal__  
-__padlock__  
-__gauntness__  
-__blackjack__  
-__kneecap__  
-__hunched__ _v_  
-__emery__  
-__porkpie__  
-__sill__  
-__shady__  
-__periwinkles__  
-__downers__  
-__bubba__  
-__slum__ _The caravan passed through a black slum far out in the parish._  
-__skittering__  
-__nozzle__  
-__sap__  
-__statutory rape__  
-__prongs__  
-__writhing__  
-__jowls__  
-__shaggy hemp__  
-__steeple__  
-__ramshackle__  
-__facsimile__  
-__muzzle__  
-__string beans__  
-__wet a line__  
-__jerk around__  
-__bream__  
-__boogie__  
-__blow it off__  
-__con__ _A real con man._  
-__douche bag__  
-__cold duck__  
-__skivvy__  
-__podjo__  
-__motor court__  
-__bullhorn__  
-__canted__  
-__rump__  
-__jowls__  
-__leviathan__  
-__flushed complexion__  
-__buggers__  
-__denizens__  
-__flintlock__  
-__hillbilly__  
-__sway__  
-__attrition__  
-__puckered__  
-__unfurling__  
-__weather vane__  
-__afoot__  
-__trundle__ _v_  
-__bleak__  
-__seep__ _v_
-__whooping cough__  
-__sheath__ :es: vaina? 
-__merch__ Merchandaising?  
-__shimmying__  
-__dispirited__  
-__show runner__  
-__dressed to the nines__  
-__inarticulate__  
-__broken accent__  
-__get-go__  
-__fleshed out__  
-__afterward__  
-__show runners__  
-__upswing__
-__deck__ Decorate?  
-__Great Dane__  
-__spay__ _v_  
-__hog the sofa__  
+__CFL__ _Compact fluorescent lamp._  
 __Chiuaua__  
-__Labrador__  
-__heartworm__  
-__tick prevention__  
-__kennel__  
-__once-over__  
-__haunches__  
-__strains__  
-__wishful thinking__  
-__pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
-__drizzle__  
-__catch-up schedule__  
-__nurse__ _v_  
-__CFL__ _compact fluorescent lamp._  
-__prediabetes__  
-__full-blown__  
-__circadian__  
-__pk__  
-__gripping__  
-__strapped__  
-__hard hat__  
-__marshal__ _v_  
-__outings__  
-__regaled__  
-__foreman__  
-__fare__ _Banderas branched out withsuch diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._  
-__relief__ _Monetary relief._  
-__curtly__  
-__hold up a fish__  
-__fir__  
-__smothering__  
-__waterfowl__  
-__ferret__  
-__pooch__  
-__cuff links__  
-__regular shipping__ (vs _expedited shipping_)  
-__expedited shipping__ (vs _regular shipping_)  
-__day job__  
-__hardships__  
-__stringent__  
-__wayward__  
-__rejiggered__  
-__unyielding__  
-__infighting__  
-__stopped short__ :two:  
-__paring__  
 __Coptic__  
-__Quran__  
-__impinge__  
-__feisty__  
-__onslaught__  
-__file__ _v_  
-__prowess__  
-__leveled__  
-__zip__ _v_ _The ISS zips around Earth once every 90 minutes._  
-__pounce__ _v_  
-__indelible__  
-__endowment__  
-__huckster__  
-__acerbic__  
-__rage__ _n_  
-__reveling__  
-__quaffable__  
-__nightcap__  
-__shorn__  
-__mecca__  
-__palomas__  
-__hangout__  
-__perennial__  
-__tiki__  
-__quench__  
-__thickets__  
-__stargazing__  
-__cataract__  
-__artifacts__  
-__plea__  
-__grappling__  
-__sarcophagus__  
+__D-ring inset__  
+__Great Dane__  
+__Hedonism__  
+__Labrador__  
+__Mariel felons__  
 __Pharaoh__  
-__milling__  
-__belching__  
-__fledgling__  
-__haking__  
+__Quran__  
+__St. Bernard__  
+__abasement__  
+__abeyance__  
+__acerbic__  
+__acumen__  
+__adenoidal__  
+__admonition__  
+__advocacy__  
+__afoot__  
+__afterward__  
+__all that jazz__  
+__aluminum__  
 __anglers__  
+__archipelago__  
+__artifacts__  
+__attrition__  
+__auburn__  
+__avuncular__  
+__bail skip__  
+__balmy__ _The air was sweet and balmy._  
+__balustrades__  
+__barked area__  
+__basing__  
+__beef__
+__belching__  
+__bevy__  
+__blackjack__  
+__bleak__  
+__blood-expander__  
+__blooker__  
+__blotter__ _desk blotter._  
+__blow it off__  
+__bludgeoned__ _v_  
+__blustery__  
 __boisterous__  
+__bone__ _I have a bone to pick with Clete Purcel._  
+__booby-trapped 105's__  
+__boogie__  
+__bordello__  
+__boudin__ _A length of white boudin in a saucer._  
+__bouree__ :two: :shit: _I watched some old men playing bouree._  
+__bream__ :two: :shit:  
+__brig__  
+__broken accent__  
+__bubba__  
+__buckle__ _She buckled her knees and perched out her rump._  
+__buggers__  
+__bullhorn__  
+__bum deal__  
+__butternut__  
+__buzzards__  
+__canted__  
+__capitulation__  
+__caroming__  
+__cataract__  
+__catch-up schedule__  
 __chaperones__  
-__din__  
-__plaintive__  
-__wince__  
+__chasm__  
+__circadian__  
+__clacks__ _n_    
+__clean his clock__  
+__clenched__  
+__cobweb__  
+__cold duck__  
+__coleslaw__  
+__con__ _A real con man._  
+__contentious__  
+__cook-off__  
+__cowboy__ _v_  
+__creasing__  
+__crib__ _n_  
+__crimped__ _v_  
+__crystal meth__  
+__crystal__ _Meth?_  
+__cuff links__  
 __curios__  
-__ordeal__  
+__curtly__  
+__day job__  
+__deck__ Decorate?  
+__deepsix__  
+__deft__   
+__delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
+__denizens__  
+__deranged__  
+__din__  
+__dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
+__dispirited__  
+__disquiet__  
+__doff__ _Doff his hat._  
+__dookie-wookie__  
+__douche bag__  
+__down-to-earth__  
+__downers__  
+__downtrodden__  
+__dragnet__  
+__dredgers__  
+__dressed to the nines__  
+__drizzle__ :two: :shit:  
+__drone__ _The drone of an outboard motor reverberated._  
+__duffer__ _n_  
+__durable__  
+__ebullient__  
+__effigy__  
+__egrets__ _Snow egrets._  
+__elegy__  
+__elites__  
+__emery__ :two: :shit: _An emery wheel._  
+__endowment__  
+__entourage__  
+__etchings__  
+__evicted__  
+__expedited shipping__ (vs _regular shipping_)  
+__facsimile__  
+__fare__ _Banderas branched out withsuch diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._  
+__fawn__  
+__feisty__  
+__felon__  
+__ferret__  
+__festooned__  
+__fielded__  
+__file__ _v_  
+__fir__  
+__firehouse__  
+__flash__  
+__fledgling__  
+__fleshed out__  
+__flintlock__  
 __flitting__  
+__floodlamps__  
+__flushed complexion__  
+__foreman__  
+__forfeited__  
+__freewheeling style__  
+__fringe__  
+__frostbite__  
+__full-blown__  
+__galvanized__  
+__gangbangers__  
+__gauntness__  
+__get-go__  
+__gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
+__glob__ _A glob of spit._  
+__grappling__  
+__greaseballs__  
+__green-behimd-the-ears__  
+__gripping__  
+__groundswell__  
+__gumbo__  
+__gunnel__ _The reel clanked once against the aluminium gunnel._  
+__haking__  
+__halter__ _The black woman wore a halter and a pair of shorts._  
+__hangout__  
+__hapless__  
+__harbinger__  
+__hard hat__  
+__hard-liners__  
+__hardships__ :two: :shit:  
+__harshest__  
+__haunches__  
+__hawk__ _v_ _Vendors hawk greeting cards and inexpensive artwork._  
+__heartworm__  
+__hex key set__ _Allen key set?_  
+__hibachi__  
+__highballs__ _The passengers were sipping highballs at the bar._  
+__hillbilly__  
+__hobbled__  
+__hog the sofa__  
+__hold up a fish__  
+__hooch__ _Take it easy on the hooch._  
+__hot-rodder__  
+__huckster__  
+__humped__  
+__hunched__ _v_  
+__husks__  
+__husky__ _Husky voice._  
+__ice pick__  
+__impinge__  
+__improvidence__  
+__inarticulate__  
+__incidentally__  
+__indelible__  
+__indict__ _v_  
+__infighting__  
+__jab__ (jabbing) :two: :shit: _v_  
+__jerk around__  
+__jowls__ :three: :shit:  
+__kennel__  
+__khakis__ _n_  
+__kinks__  
+__kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
+__kneecap__  
+__knurled__  
+__lacy__ _Cypress trees that were lacy with new leaf._  
+__ledge__  
+__leveled__  
+__leviathan__  
+__litany__  
+__loafers__  
+__lupus__  
+__lush__  
+__maggots__  
+__marshal__ _v_  
+__mecca__  
+__meltdowns__  
+__merch__ Merchandaising?  
+__meringue__ _Meringue pie._  
+__milling__  
+__minnow__  
+__miscreants__  
+__mollify__ _v_  
+__motor court__  
+__mulberry__  
+__mused__ _v_  
+__mush-mouth__ _The kid with the mush-mouth accent._  
+__mutts__  
+__muzzle__ :two: :shit:  
+__nattily__  
+__navel__  
+__nightcap__  
+__nimble__  
+__notches__  
+__nozzle__  
+__nuggets__  
+__nurse__ _v_  
+__once-over__  
+__onslaught__  
+__oozed__  
+__ordeal__  
+__outcry__  
+__outings__  
+__outrage__  
+__over-the-hill__  
+__oxblood__  
+__padlock__  
+__palomas__  
+__paring__  
+__perch__  
+__perch__ _v_  
+__perennial__  
+__periwinkles__  
+__petted__  
+__pin-curled__  
+__pisspot__  
+__pithy__  
+__pk__  
+__plaintive__  
+__plea__ :two: :shit: _A prayerful plea to brek free of alcohol._  
+__plush__  
+__podjo__  
+__podna__ :two: :shit:  
+__pooch__  
+__porkpie__  
+__pounce__ _v_  
+__pouts__  
+__prediabetes__  
+__preened__  
+__press on__  
+__preyed__ _v_   
+__pries__ _He pries your buttocks apart._  
+__profligate__  
+__prongs__  
+__pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
+__prowess__  
+__puckered__  
+__pushover__  
+__quaffable__  
+__quench__  
+__raccooned__ _v_  
+__racket__  
+__racous__  
+__rage__ _n_  
+__raking__ _v_  
+__rambling__  
+__ramshackle__  
+__razed__ _Dozens of buildings were razed to make room for new ones._  
+__razor strop__  
+__reefs__  
+__reek__ (reeked) _v_ _This case reeks of social injustice._  
+__regaled__  
+__regular shipping__ (vs _expedited shipping_)  
+__rejiggered__  
+__relief__ :two: :shit: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
+__renminbi__  
+__reprisal__  
+__repudiate__ _v_  
+__revelers__  
+__reveling__  
+__riddance__  
+__ripened__ _Ripened peach._  
+__roiling__ _His stomach was roiling._  
+__rowdy__  
+__ruffling__  
+__rumdum__  
+__rump__ :two: :shit:  
+__rumpus__  
+__sap__  
+__sarcophagus__  
+__sash__  
+__sassy__  
+__scallions__  
+__scapegoated__ _v_  
+__scarce__  
+__schooner__ :two: :shit: _A frosted schooner of draft._ _A schooner of beer._  
+__scuffed boots__  
+__scuffle__  
+__scuttle__ _v_  
+__seafaring__  
+__seep__ _v_
+__sequined__  
+__shady__  
+__shaggy hemp__  
+__shank__ _Shank artists._  
+__shanked__ :two: :shit: _v_ _You shanked a guy from the Aryan Brotherhood._  
+__sheath__ :es: vaina? 
+__sherbet punch__  
+__shimmying__  
+__shorn__  
+__shotgun cottage__  
+__shove__  
+__show runner__ :two: :shit:  
+__shrieks__  
+__shrimp__  
+__shucked__ _v_  
+__sill__  
+__silt__ :two: :shit:  
+__skillet__ :two: :shit:  
+__skittering__  
+__skivvy__  
+__slack__ _This is as much slack as you get, Jack._  
+__slacks__ _n_  
+__slats__ _The slats in the dock._  
+__sludge__  
+__slugs__  
+__slum__ :three: :shit: _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._  
+__smoldering__  
+__smothering__  
+__smudges__  
+__sniffles__  
+__spay__ _v_  
+__splaying__  
+__spokes__ _Someone should have ripped out his spokes long time ago._  
+__sprinkled__ (sprinkling) :two: :shit:  
+__spurring__  
+__sputs__  
+__stagnant__  
+__stargazing__  
+__statutory rape__  
+__steeple__  
+__stooped__  
+__stopped short__ :two:  
+__straggly__  
+__strains__  
+__strapped__  
+__strewn__ :two: :shit:  
+__string beans__  
+__stringent__  
+__stumps__ _n_  
+__suffused__  
+__sump__  
+__swatches__  
+__sway__  
+__swilled__  
+__tamp down__ _v_  
+__tap__ _v_  
+__taper__  
+__taunted__  
+__tenants__  
+__terry-cloth__ _A blue terry-cloth pullover._  
+__thawed__  
+__thickets__  
+__thoroughfare__  
+__tick prevention__  
+__tiki__  
+__toe-curling__  
+__toe-toppers__  
+__tooth-wrecking__  
+__treading__  
+__trepidation__  
+__trundle__ _v_  
+__trusties__  
+__tubbing up__ _I keep tubbing up._  
+__twinkle__  
+__uncrating__  
+__unfurling__  
+__untidy__  
+__unyielding__  
+__uppers__  
+__upswing__
+__utility__ _Utility bill._  
+__verve__  
+__vodka collins__  
+__wadded__ _v_  
+__wanly__ _She droppedand egg on the floor and looked at it wanly._  
+__warble__ _v_  
+__waterfowl__  
+__wayward__  
+__weather vane__  
+__wedlock__  
+__wet a line__  
+__what's the haps?__  
+__whooping cough__  
+__wicker__  
+__wince__  
+__wishful thinking__  
+__wordplay__  
+__wreaths__  
+__writhing__  
+__zip__ _v_ _The ISS zips around Earth once every 90 minutes._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
@@ -3208,8 +3182,7 @@ __vitriolic__ :two: :shit:
 __vocal__ :two: _Critics often are the most vocal._  
 __volition__  
 __volley__  _A volley of invective._  
-__voucher__  
-__voucher__ :three: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
+__voucher__ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __wad up__ _v_  
 __wad__ _Wads of cash._  
