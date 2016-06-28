@@ -7,6 +7,51 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
 __BBs__  
+__drink and use__  
+__riven__  
+__robin-breasted__  
+__seersucker__  
+__simmer down__  
+__sawed-off__  
+__puckered__ _v_  
+__desk blotter__  
+__phlegmy__  
+__shitcan__ _v_  
+__content__  
+__wetbrain__  
+__eighty-size__ _v_  
+__skate__ _v_  
+__dyke__ _Insult_  
+__limb__ _Tree limb._  
+__swerved__  
+__stubble__  
+__convivial__  
+__cooze__  
+__twitch__  
+__drape__ _v_  
+__hash__ _I'm gonna cook his hash, man._  
+__halter__ _n_  
+__slider__  
+__burlap__  
+__crewcats__  
+__hillbilly__  
+__Chugging beers__  
+__humped__  
+__gunnysack__  
+__watch caps__  
+__weave__ _n_  
+__keening__  
+__wan__  
+__slack__ _His jaw was slack._  
+__dollop__  
+__ebb and flow__  
+__primly__  
+__pantry__ _n_  
+__stricken__  
+__stark__  
+__downers__  
+__bunk__ _n_  
+
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
 __CFL__ _Compact fluorescent lamp._  
