@@ -394,7 +394,7 @@ __break-the-china__
 __breakaway__  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakout__ :two: :shit: _He's a total breakout character._  
-__bream__ :four: :shit:  
+__bream__ :four: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __brethen__  
 __brethren__ _Political brethren._  
 __brickbats__  
@@ -1902,7 +1902,7 @@ __onlookers__
 __onslaught__  
 __onus__  
 __oomph__  
-__ooze__ (oozed, oozing) :four: :shit: _Oozing with talent._  
+__ooze__ (oozed, oozing) :four: _v_ __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ :four: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open-wheel__ :three: :shit: _Open-wheel cars._  
 __orb__  
@@ -2418,7 +2418,7 @@ __scruffy__ (scruffier) :two: :shit:
 __scrumptious__  
 __scrunched__ (scrunching) :two: :shit:  
 __scuffed boots__  
-__scuffle__ (scuffled) :four: :shit: _v_ _The police scuffled with a group of demonstrators._  
+__scuffle__ (scuffled) :four: :shit: _v_ Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle__ _n_ _The scuffle and scrape of rubber soles._  
 __scumbags__  
 __scut work__ :two: :shit:  
