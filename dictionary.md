@@ -307,6 +307,7 @@ __bewhiskered__
 __bicker__ (bickering) :two: _v_ Argue about petty and trivial matters. _The time for bickering is over._  
 __bid farewell__  
 __bid__ :two: Offer (a certain price) for something, especially at an auction.  
+__big cat__ :es: felino  
 __big mon__  
 __bigot__ /ˈbɪɡət/ _n_ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __billing__ _Now, the women's contest will take second billing._  
@@ -506,7 +507,7 @@ __capers__
 __capitulation__  
 __capsized__  
 __carnage__  
-__carnation__  
+__carnation__ :open_mouth: :two: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __caroming__  
 __carpool__  
 __carry-on bag__  
@@ -2138,7 +2139,7 @@ __providence__ _It was providence._
 __provost__  
 __prowess__ :three: :shit:  
 __pry__ :two: :shit: _To pry the crack open wider and wider._  
-__puckered__ :four: :shit: _v_  
+__pucker__ (puckered) :four: _v_ (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
 __pud__  
 __puff__  
 __pugnacity__  
@@ -2433,7 +2434,7 @@ __scruffy__ (scruffier) :two: :shit:
 __scrumptious__  
 __scrunched__ (scrunching) :two: :shit:  
 __scuffed boots__  
-__scuffle__ (scuffled) :four: :shit: _v_ Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
+__scuffle__ (scuffled) :four: _v_ Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle__ _n_ _The scuffle and scrape of rubber soles._  
 __scumbags__  
 __scut work__ :two: :shit:  
@@ -2449,7 +2450,7 @@ __seawall__
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __sedate__ (sedate menswear)  
 __seek out__  
-__seep__ (seeped, seeping) :four: :shit: _v_  
+__seep__ (seeped, seeping) :four: _v_ (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Syn_ oze, trickle, exude, drip  
 __seersucker__  
 __seesaw__ _Playing on a swing or seesaw._  
 __seesaw__ _v_  
@@ -2952,6 +2953,7 @@ __tick prevention__
 __ticker__  
 __tickle__ _Does that tickle?_  
 __tie-dye__  
+__tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
 __tiki__ :two: :shit: _Tiki sensibility._  
 __tilapia__  
 __time and again__
