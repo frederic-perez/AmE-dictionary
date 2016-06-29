@@ -6,6 +6,45 @@ __ACL__ Anterior cruciate ligament.
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
+____slack__ _The rain had slackened._  
+__buckwheats__  
+__wreaked havoc__  
+__pipe tape__  
+__meltdown__  
+__egrets__  
+__wizened__  
+__enmity__  
+__drenched__  
+__hump__  
+__spd__  
+__stinger__  
+__prune-o__  
+__sap__ _n_  
+__swerved__  
+__clump__ _n_  
+__bender__ _His mother was on a bender._  
+__strung out__  
+__sawgrass__  
+__lofty__  
+__gargoyles__  
+__frolic__  
+__rut__  
+__clunking__  
+__trussed__  
+__slash__  
+__bedrolls__  
+__penned up__  
+__critters__  
+__clods__  
+__chiseled__  
+__deferentially__  
+__bemused__  
+__boughs__  
+__pewter__  
+__churning__  
+__scrub brush__  
+__sagging__  
+
 __BBs__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
