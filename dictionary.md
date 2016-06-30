@@ -7,6 +7,49 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
 __slack__ _The rain had slackened._  
+__think tank__ :two:  
+__dips__ _n_  
+__bosom__  
+__pinch__  
+__rapprochement__  
+__wielded__  
+__brokered__ _v_ _Negotiations brokered by the Vatican._  
+__fraught__  
+__shunned__  
+__bid rigging__  
+__coattails__  
+__shoulder__ _v_  
+__collusion__  
+__souping up__ _v_  
+__stranglehold__  
+__curtail__ _v_  
+__cough up__ _v_  
+__mollify__  
+__forestall__  
+__fall out of love__  
+__ailment__  
+__short-handed__  
+__reeling__  
+__giddy__  
+__romp__  
+__shutout__  
+__staved off__  
+__door-to-door dash__  
+__wedged__  
+
+__stoked__ _v_  
+__expenditures__  
+__mint bank notes__  
+__coerced__  
+__interdicting__  __domicile__  
+__charted__  
+__envision_
+__alienated__  
+__marquee phone__  
+__thicket__  
+__scraps__ _v_  
+__obligue__ _v_  
+
 __buckwheats__  
 __wreaked havoc__  
 __pipe tape__  
