@@ -6,12 +6,61 @@ __ACL__ Anterior cruciate ligament.
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
 __B & E__  
-____slack__ _The rain had slackened._  
+__slack__ _The rain had slackened._  
 __buckwheats__  
 __wreaked havoc__  
 __pipe tape__  
 __meltdown__  
 __egrets__  
+__dateline__  
+__wary__ _He is wary of the situation._  
+__playbook__  
+__upping__  
+__gambit__  
+__rapprochement__  
+__flak__  
+__tpngue-in-cheek__  
+__riddled__ _v_  
+__wholesaler__  
+__fare__  
+__oitcroppings__  
+__mulled__  
+__scrap__  
+__enact__  
+__dog tag__  
+__canteens__  
+__crossroad__ _At a crossroad._  
+__defectors__  
+__au shops__  
+__relinquish__  
+__undies__  
+__shrift__  
+__childbirth__  
+__table tennos__  
+__hopefuls__  
+__drum__ _v_  
+__His Majesty the Sultan__  
+__mosques__  
+__liquefied__  
+__Forest Recreation Park__  
+____staunch__  
+__bustling__  
+__carnage__  
+__resistance__  
+__trickle__  
+__kindling__  
+__trodden__  
+__anything goes__  
+__shuffle off__  
+__coil__  
+__lavish__  
+__bombastic__  
+__beanstalks__  
+__damping__  
+__dampingsystems__  
+__glut__  
+__chided__ _v_  
+
 __wizened__  
 __enmity__  
 __drenched__  
