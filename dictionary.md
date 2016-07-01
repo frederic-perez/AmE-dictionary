@@ -15,7 +15,19 @@ __think tank__ :two:
 __shaping the bullet__  
 __injury time__  
 __in__ _Jubilo scored in injury time__  
+__parochial__  
+__deterrent__  
+
 __on__ _On the final day._  
+__exact__ _v_  
+__crank out__  
+__mothballed__  
+__grappled__  
+__forefront__  
+__hasty__  
+__wean__ _v_  
+__arbitration__  
+__op-ed__  
 __strenuous__  
 __hurlers__  
 __fathom__ _v_  
