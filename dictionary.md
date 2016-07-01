@@ -12,6 +12,88 @@ __equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second
 __B & E__  
 __slack__ _The rain had slackened._  
 __think tank__ :two:  
+__shaping the bullet__  
+__injury time__  
+__in__ _Jubilo scored in injury time__  
+__on__ _On the final day._  
+__strenuous__  
+__hurlers__  
+__fathom__ _v_  
+__then again__  
+__stamina__  
+__boogeyman__  
+__jostle anew__  
+__prominent__  
+__grappled__ _v_  
+__scrambles__ _v_  
+__weigh__ _v_ :es: sopesar?  
+__stay put__  
+__rebuff__  
+__ramparts__  
+__defected__  
+__pullback__  
+__downturns__  
+__crackdown__  
+__stay put__  
+__carve out__  
+__legal tack__  
+__crimp__  
+__sitting American president__  
+__clinched__  
+__acrimonious__  
+__smithereens__  
+__bungled__ _v_  
+__scrapped__  
+__beholden__  
+__molten lava__  
+__snub__  
+__bleating__ _v_  
+__gargantuan__  
+__ground zero__  
+__encroachment__  
+__deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
+__fecklessness__  
+__unabated__  
+__grouse__ _v_  
+
+__stop short__  
+__dean__ _n_  
+__bust__ _n_  
+__snide__  
+__grapples_ _v_  
+_v_  
+__snubbed__ _v_  
+__crackle__  
+__water down__  
+__ripped__ _v_  
+__cessation__  
+__imperil__  
+__hard-liners__  
+__herald__ _v_  
+__shelved__ _v_  
+__urbanites__  
+__resumption__ :open_mouth: _n_  
+__unraveling__  
+__sheelling__  
+__milled about__ _v_  
+__quell__ _v_  
+__incumbent__  
+__skimming__  
+__graft__ _Usual wealth, the euphemism for suspected graft, is everywhere._  
+__sedition__  
+__junta__  
+__riddled__  
+__nonchalant__  
+__balked__  
+__meted out__ _v_  
+__relished__  
+__venality__  
+__owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
+__jarring__  
+__defection__
+__flash point__  
+__by the same token__  
+
 __dips__ _n_  
 __bosom__  
 __pinch__  
