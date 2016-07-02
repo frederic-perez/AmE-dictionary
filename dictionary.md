@@ -15,6 +15,8 @@ __think tank__ :two:
 __shaping the bullet__  
 __injury time__  
 __in__ _Jubilo scored in injury time__  
+__mired__ _v_  
+
 __parochial__  
 __downturns__  
 __cash rebate__  
@@ -39,6 +41,38 @@ __dire__
 __befitting__  
 __knucklers__  
 __fiddled__ _v_  
+__stymie__ _v_  
+__trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
+__fazed__  
+__tow__ _Cameras in tow._  
+__downed__ _v_ _Terrorists had downed a Russian plane in October._  
+__warehousing__  
+__conscripted__  
+__yardstick__  
+__crackdown__  
+__rattled__  
+__go over the top__  
+__downsides__  
+__brazer__  
+__gonzo__  
+__wholesale__  
+__stiffle__ _v_  
+__sedition__  
+__victor__  
+__hushed__  
+__stoking__  
+__prance__  
+__peter out__  
+__in all likelihood__  
+__stymied__  
+__stringent__  
+__there is no denying__  
+__wicket__  
+__barring__  
+__scathing__  
+__foreboding__  
+__apostasy__  
+__amity__  
 __marred__ _v_  
 __strife__  
 __overarching__  
