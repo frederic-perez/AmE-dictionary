@@ -16,6 +16,14 @@ __shaping the bullet__
 __injury time__  
 __in__ _Jubilo scored in injury time__  
 __parochial__  
+__downturns__  
+__cash rebate__  
+__buoyant__  
+__pullback__  
+__blithe__  
+__straits__  
+__nuances__  __sublet__ _v_  
+__pro bono consultant__  
 __deterrent__  
 
 __on__ _On the final day._  
