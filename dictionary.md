@@ -18,6 +18,106 @@ __in__ _Jubilo scored in injury time__
 __parochial__  
 __downturns__  
 __cash rebate__  
+__braces__ _v_  
+__ebbed and flowed__  
+__petite__  
+__upending__  
+_swooning__  
+__smattering__  
+__vying__  
+__sleepwear__ (vs sportswerar, etc.)  
+putting aside__  
+__dry spel__  
+__knuckleball__  
+__flutters__ _v_  
+__Concacaf__  
+__lowly__  
+__floater__  
+__buzzer__ _Durent Durent missed a floater at the buzzer__  
+____jolt__ _n_ _It was a jolt of good news._  
+__dire__  
+__befitting__  
+__knucklers__  
+__fiddled__ _v_  
+__marred__ _v_  
+__strife__  
+__overarching__  
+__outsize__  
+__ancillary__  
+__polarizing__  
+__dangling__  
+__puffy__  _Puffy snowflakes._  
+__command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
+__belittled__  
+__dwindling__  
+__acuity__  
+__upheld__  
+__arbitration clause__  
+__smell test__  
+__tack__ Tactics?  
+__sweethearts__  
+__rock the boat__  
+__jostled anew__  
+__thug__  
+__heatedly__ _Clashed heatedly._  
+__fence-mending__  
+__memo__ _A memo sent to reporters._  
+__accrue__ _v_  
+__wariness__  
+__palatable__  
+__viciously__  
+__carved out__  
+__quandary__  
+__surmount__ _v_  
+__clinch__  
+__rack up__ _v_  
+__hobble__ _v_  
+__balloon-lined car dealership__  
+__gunman__  
+__rampage__  
+__swerving__  
+__pepper__ _v_ __Five bullet holes peppered the side of one rental town-house._  
+__stoke__ _v_  
+__theocracy__  
+__runoff__  
+__marred__ _v_  
+__militias__  
+__reach out__  
+__bultwark__  
+__playbook__  
+__bleak__  
+__poach__ _v_  
+__garb__  
+__bristled__  
+__brocade__  
+__ribbed__ _v_  
+__sequins__  
+__writ__  
+__clarion call__  
+__throes__  
+__singling out__  
+__sedition__  
+__defuse__  
+__mollify__ _v_  
+__toiled__ _v_  
+__stiffling__  
+__wedhe issue__  
+__ape__ _v_  
+__mouth__ _v_  
+__Faustian__ _Faustian device._  
+__callous__  
+__sombreros__  
+__bemoaned__  
+__burqa__  
+__yarn du jour__  
+__equaled__ _v_  
+__drowns__ _v_  
+__upended__  
+__staying power__  
+__crank__ _A fringe crank._  
+__stave off__ _v_  
+__genuflects__ _v_  
+__apparatchiks__  
 __buoyant__  
 __pullback__  
 __blithe__  
