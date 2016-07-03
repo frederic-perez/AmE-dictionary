@@ -5,7 +5,7 @@ __ACK__
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
-__
+__dissent__ _n_  __faring__ _v_  __predate__ _v_  __prime-age__  
 __thrash__ _v_  
 __fielding__  
 __equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
@@ -16,7 +16,6 @@ __shaping the bullet__
 __injury time__  
 __in__ _Jubilo scored in injury time__  
 __mired__ _v_  
-
 __parochial__  
 __downturns__  
 __cash rebate__  
