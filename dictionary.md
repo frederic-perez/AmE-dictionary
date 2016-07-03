@@ -20,6 +20,22 @@ __mired__ _v_
 __parochial__  
 __downturns__  
 __cash rebate__  
+__guzzle__ _v_  
+__sidestep__ _v_  
+__shoring up__  
+__renminbi__  
+__steeply__  
+__beggar-thy-neighbor__  
+__deterrent__  
+__communiqué__  
+__newsy__  
+__bane__ _n_  
+__fledgling__ _fledgling entrepreneurs._  
+__retrenching_  
+__dole out__ _v_  
+__scant__  
+__holdout__  
+
 __braces__ _v_  
 __ebbed and flowed__  
 __petite__  
