@@ -7,6 +7,38 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __Achilles heel__ A weakness or vulnerable point.  
 __dissent__ _n_  __faring__ _v_  __predate__ _v_  __prime-age__  
 __thrash__ _v_  
+
+__rare news conference__  
+__sluicing__ _v_  
+__almost surel__ _Apple almost surely will succeed in upgrading its security._  
+__arms race__  
+__steeply__  
+__rout__ _n_  
+__jitters__ _n_  
+__bungled__ _v_  
+__entitlement programs__  
+__rethoric__  
+__repealing__  
+__conducive__  
+__whitehot__  
+__feint__  
+__obstreperousness__  
+__bluster__  
+__juggernaut__  
+__shiet__  
+__bankrollers__  
+__blanketing__  
+__sidelines__  
+__snarl__ _v_  
+__plodded__ _v_  
+__dwindle__ _v_  
+__clinch__  
+__startling__  
+__intemperance__  
+__grievously__  
+__misstated__ _v_  
+ 
+
 __fielding__  
 __equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
 __B & E__  
