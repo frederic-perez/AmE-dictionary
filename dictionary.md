@@ -18,6 +18,7 @@ __in__ _Jubilo scored in injury time__
 __mired__ _v_  
 __parochial__  
 __downturns__  
+__dissent__ _n_  __faring__ _v_  __predate__ _v_  __prime-age__  
 __cash rebate__  
 __guzzle__ _v_  
 __sidestep__ _v_  
