@@ -8,10 +8,39 @@ __Achilles heel__ A weakness or vulnerable point.
 __dissent__ _n_  __faring__ _v_  __predate__ _v_  __prime-age__  
 __thrash__ _v_  
 
+
+
+
+
+
+
+
+__pitch__ _We recovered the ball in their side of the pitch after pressing well._  
+__back-heel pass__  
+__swooped__ :two:  
+__bewitch__ _v_ _:es: maravillar?  
+__beguiling__  
+__disgruntled__  
+__flanker__ (soccer position)  
+__marathon__ _This is more of a marathon than a sprint._  
+__fluke__  
+__bolstered__  
+__mired__ _v_  
+__bucked__ _v_  
+__shore up__ _v_  
+__top flight__ First division?  
+__conceded__ _A total of 44 goals scored and 48 conceded last year._  
+__smattering__  
+__clinched__  
+__linchpin__  
+__bucking the trend__  
+ 
 __rare news conference__  
 __sluicing__ _v_  
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
 __arms race__  
+
+
 __steeply__  
 __rout__ _n_  
 __jitters__ _n_  
