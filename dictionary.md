@@ -13,6 +13,16 @@ __thrash__ _v_
 
 
 
+
+
+
+
+
+
+__adoring__  __adulation__  __brazen__  __fawning__  __fealty__  __straining__ _v_  __frayed__  __largely__  __braced__  __stop short__ _v_  __coveted__  __quell__ _v_  __reconvenes__ _v_  __carpet bombing__  __communiqués__  __sway__ _v_  __tuk-tuk__  __catcalls__ _A pack of men on motorbikes left a wake of catcalls._  __hubhub__  __cinder-block town__  __spinster__  __fatwa__  __upended__  __smothered__  __daredevil__  __bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  __V-E Day__  __quell__ _v_  __coveted__ _v_  __subsided__ _v_  __shoals__  __stoked__  __piecemeal__  __uphold__  __cudgel__  __toeing__ _v_  __makeshift__ _adj_ :two:  __comply__ _v_  __tenuous__  __fatwa__ Religious edict.   __ventilator__ :open_mouth: _med_  __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  __birdbrain__  __stifling__ _v_  __lifeline__  __nigh__  __weaned__ _v_  __lore__  __leap day__  __leap year__  __stag line__ _n_  __prerogative__  __windfall__  __disgruntled__  __stop short__  __scrapped__ _v_  __grappling__  __eke out__ _v_  __loans__  __outlook__  __dispelled__ _v_  __claimants__  __head wind__  __wedlock__  __forestall__  __egregious__  __overflight__  __sultanate__  __disingenuousness__  __runoff water__  __seepage__  __bruited__  __boards__ _Green finished with 10 points and 11 boards for the warriors._   
+
+__ppg__ _Sanders is averaging 13.3 ppg._  __futility__  __carved out__  __proffering__  __outrageous__  __adroit__  __gird__ _v_  __heinous__  __rattled__ :two:  __demographic__ _n?_  __hotbed__ _n_  __boon__  __own up__  __ensconced__  __regulatory muster__  __divestiture__  __pointed questions__  __bylaws__  __hitch__ _n_  __fait accompli__  __garner__ _v_  __credence__  __convened__ _v_  __strictures__  __litigation__  __scrapping__ _v_  __daft__  __splurging__  __boom and bust__  __hold water__  __afoul__  __tussle__  __mannered__  __subpoena__  __thicket__  __draped__ _v_  __gunman__    
+
 __seafarer__  
 __racket__ _v_  
 __bento__ Boxed meals.  
