@@ -13,6 +13,52 @@ __thrash__ _v_
 
 
 
+__seafarer__  
+__racket__ _v_  
+__bento__ Boxed meals.  
+__plum wine__  
+__omelets__  
+__pinch-hitter__  
+__bunraku__  
+__kabuki__  
+__self-effacing__  
+__playwright__  
+__philandering__  
+__anguish__  
+__carve out__  
+__sekuhata__ Sexual harassment.  
+__matahara__ Maternity harassment.  
+__labor bureaus__  
+__plowed__ _A car plowed into pedestrians._  
+__swerving__  
+__arms embargo__  
+__yakuza__  
+__plum trees__  
+__execs__ Executives?  
+__indicted__  
+__breach__  
+__mothballed__ _v_  
+__equipped__  
+__crackdown__  
+__relief teams__  
+__curbs__ _n_ Bans?  
+__unduly__  
+__shah__ _n_  
+__rattled__  
+__swayed__ _v_  
+__outrage__  
+__swath__  
+__bedrock__  
+__caucus__ _Kentucky will hold a Republican caucus on March 5._  
+__coincided__ _v_  
+__being let go__ _His mother was let go at the plant in 2006._  
+__studded__  
+__hot-button__  
+
+
+
+
+
 
 
 __pitch__ _We recovered the ball in their side of the pitch after pressing well._  
