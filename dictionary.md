@@ -19,6 +19,102 @@ __thrash__ _v_
 
 
 
+
+
+
+
+__kickback schemes__  
+__foosball table__  
+__upending__  
+__angsty__  
+__panoply__  
+__outré__  
+__studded__ _v_  
+__slouchy__  
+__pleated__ _v_  
+__anorak__  
+__crumbling__ _Crumbling sidewalk._  
+__low-slung__ _Low-slung school._  
+__grappling__  
+__subsidy__  
+__kindergartners__  
+__cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
+__carve out__  
+__stymied__  
+__bear__ _v_  
+__forestall__  
+__fared__ _v_  
+__strain__  
+__clunky__  
+__duress__  
+__penchant__  
+__tussling__  
+__cudgel__  
+__doctored__ _v_ _A photograph doctored by his aides._  
+__seethed__ _v_  
+_rebuke__ _n_  
+__mistruths__  
+__slip__ _v_ Decrease?  
+__steep__  
+__mollusks__  
+__plaid__ _Plaid shirt._  
+__gurney__  
+__knee-jerk response__  
+__anathema__  
+__dazzling__  
+__pertussis__  
+__motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
+__wade__ _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
+__altitude sickness__  
+__starch__ _Altitude sickness can take more than the starch out of a person._  
+ 
+
+
+
+
+__ravaged__  
+__respite__  
+__fray__ _n_  
+__wedge__  
+__parlay__  
+__sentience__  
+__far-flung__  
+__shortchange__ _v_  
+__hurdy-gurdy__  
+__at the very least__  
+__yore__ _Days of yore._  
+__take a stand__  
+__bristle__ _v_  
+__whimper__ _n_  
+__wimpiness__  
+__blustery__  
+__wilting__ _adj_?  
+__wonk__ _n_  
+__pork rinds__  
+__throw out the red meat__  
+__purloin__ _v_  
+__stoked__  
+__allay__ _v_  
+__racketeering__  
+__pecking order__  
+__nub__ _n_  
+__devil-may-care style__  
+__anathema__  
+__early-onset__ _Early-onset Alzheimer's disease._  
+__squat__ _v_  
+__statesman__  
+__vying__  
+__crackdown__  
+__tag along__ _v_  
+__claim__ _The White Sox claimed the 2005 title._  
+__regrets__ _n_  
+
+ 
+
+
+
+
+
 __adoring__  __adulation__  __brazen__  __fawning__  __fealty__  __straining__ _v_  __frayed__  __largely__  __braced__  __stop short__ _v_  __coveted__  __quell__ _v_  __reconvenes__ _v_  __carpet bombing__  __communiqués__  __sway__ _v_  __tuk-tuk__  __catcalls__ _A pack of men on motorbikes left a wake of catcalls._  __hubhub__  __cinder-block town__  __spinster__  __fatwa__  __upended__  __smothered__  __daredevil__  __bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  __V-E Day__  __quell__ _v_  __coveted__ _v_  __subsided__ _v_  __shoals__  __stoked__  __piecemeal__  __uphold__  __cudgel__  __toeing__ _v_  __makeshift__ _adj_ :two:  __comply__ _v_  __tenuous__  __fatwa__ Religious edict.   __ventilator__ :open_mouth: _med_  __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  __birdbrain__  __stifling__ _v_  __lifeline__  __nigh__  __weaned__ _v_  __lore__  __leap day__  __leap year__  __stag line__ _n_  __prerogative__  __windfall__  __disgruntled__  __stop short__  __scrapped__ _v_  __grappling__  __eke out__ _v_  __loans__  __outlook__  __dispelled__ _v_  __claimants__  __head wind__  __wedlock__  __forestall__  __egregious__  __overflight__  __sultanate__  __disingenuousness__  __runoff water__  __seepage__  __bruited__  __boards__ _Green finished with 10 points and 11 boards for the warriors._   
 
 __ppg__ _Sanders is averaging 13.3 ppg._  __futility__  __carved out__  __proffering__  __outrageous__  __adroit__  __gird__ _v_  __heinous__  __rattled__ :two:  __demographic__ _n?_  __hotbed__ _n_  __boon__  __own up__  __ensconced__  __regulatory muster__  __divestiture__  __pointed questions__  __bylaws__  __hitch__ _n_  __fait accompli__  __garner__ _v_  __credence__  __convened__ _v_  __strictures__  __litigation__  __scrapping__ _v_  __daft__  __splurging__  __boom and bust__  __hold water__  __afoul__  __tussle__  __mannered__  __subpoena__  __thicket__  __draped__ _v_  __gunman__    
