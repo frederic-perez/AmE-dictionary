@@ -23,6 +23,30 @@ __thrash__ _v_
 
 
 
+
+
+
+
+
+2Brm-begin __uphill battle__  __inconsequential__  __at the earliest__  __spruce up__ _v_  __rank and file__  __buff__ _v_  __tie-up__ _n_  __rife__  __graft__ _A graft scandal._  __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  __assists__ _Green had 14 rebounds and nine assists._  __put on a clinic__ 2Brm-end
+
+__uphill battle__  
+__inconsequential__  
+__at the earliest__  
+__spruce up__ _v_  
+__rank and file__  
+__buff__ _v_  
+__tie-up__ _n_  
+__rife__  
+__graft__ _A graft scandal._  
+__subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
+__assists__ _Green had 14 rebounds and nine assists._  
+__put on a clinic__  
+__under one's belt__  
+__up-and-comer__  
+__tough cookie__  
+
+
 __kickback schemes__  
 __foosball table__  
 __upending__  
