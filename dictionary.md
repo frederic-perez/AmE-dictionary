@@ -22,13 +22,87 @@ __thrash__ _v_
 
 
 
+__scrap__ _v_  
+__full-fledged__  
+__anew__  
+__Empress__  
+__draft__ _v_ _Drafting the Defense Ministry's basic policy._  
+__plaintiff__  
+__elbowing__ _v_ _Elbowing your way through crowds._  
+__vistas__  
+__bemoan__ _v_  
+__ply__ _v_  
+__chartered__ _v_  
+__streamlined__ _v_ _Streamlined ship._  
+__shogunate__  
+__cherry blossoms__ _n_  
+__trainees__ :es: aprendiz?  
+__helipad__  
+__quay__ _n_  
+__bolster__ _v_  
+__hymnal__ _The party hymnal._  
+__slandering__  
+__patronage__  
+__hew__ _v_  
+__touch and go__  
+__manicured landscape__  
+__ironclad commitment__  
+__accord__ _Postponed the signing of an accord._  
+__bombast__  
+__black smoke__  
+__cadre__ _n_  
+__venomous__  
+__disparagement__ :two:  
+__trounced__  
+__landslide__ :two: _I will win the game by a near landslide._  
+__vying__  
+__prize purse__ _A prize purse of $1 million._  
+__stoking__ :two:  
+__rattled__  
+__groove__ _Shaking her groove._  
+__confounding__  
+__Jewry__  
+__watershed__ _Dignataries recognized the watershed moment pf his passing._  
+__ordeal__  
+__slabs__ _Concrete slabs._  
+__hike__ _A hike in base wages.__  
+__forgo__ _v_  
+__lid__ _It should keep a lid on the yen._  
+__rout__  
+__lackluster__  
+__metal shavings__  
+__pervasive__  
+__downbeat__  
+__playwright__  
+__anew__  
+__enthralling__  
+__commissioned__  
+__shantytown__  
+__rampant__  
+__nondescript__  
+__breakdown__ _Population breakdown._  
+__constituency__  
+__thick and thin__ _Supporters ready to back them through thick and thin._  
+__madrassas__  
+__militias__  
+__seediness__  
+__wither__ _v_  
+__congenial__  
+__jaundiced__  
+__tussle__  
+__far-flung__  
+__cringe__  
+__curmudgeon__  
 
 
 
 
 
 
-2Brm-begin __uphill battle__  __inconsequential__  __at the earliest__  __spruce up__ _v_  __rank and file__  __buff__ _v_  __tie-up__ _n_  __rife__  __graft__ _A graft scandal._  __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  __assists__ _Green had 14 rebounds and nine assists._  __put on a clinic__ 2Brm-end
+
+
+2Brm-begin _
+_uphill battle__  __inconsequential__  __at the earliest__  __spruce up__ _v_  __rank and file__  __buff__ _v_  __tie-up__ _n_  __rife__  __graft__ _A graft scandal._  __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  __assists__ _Green had 14 rebounds and nine assists._  __put on a clinic__ 2Brm-end
 
 __uphill battle__  
 __inconsequential__  
