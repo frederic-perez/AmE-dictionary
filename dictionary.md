@@ -22,6 +22,116 @@ __thrash__ _v_
 
 
 
+
+__dud__ _v_  
+__junta__  
+__charade__  
+__bookend__  
+__larger than life__  
+__jolt__ _A spending jolt by the military government._  
+__politburo__  
+__sputtering__  
+__severance__  
+__preposterous__  
+__bleak__ _adj_  
+__fodder__  
+__repent__ _v_  
+__rift__ _n_  
+__berth__ _Sho Sakai secured an Olympic berth._  
+__place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
+__pennant__ _n_  
+__fend off__ _v_  
+__runner-up__ _Nishikori was runner-up here last season._  
+__outfits__ _n_  
+__heretofore__  
+__slumming__  
+__Seven Dwarf status__ 
+__clinch__  
+__slithering__  
+__slick__ _v_  
+__lefty buckets__  
+__whippersnapper__  
+__frosh__  
+__cuttin' a rug__  
+__foot-stomping__  
+__wording__ _n_  
+__shelved__ _v_ _The Supreme Court temporarily shelved his Clean Power Plan._  
+__pavilions__  
+__steeple__ _n_  
+__upended__ _v_ _The earthquake upended the nation last week._  
+__spiteful__  
+__stifling__  
+__longing__  
+__restlessness__  
+__egregious__  
+__for the sake of__  
+__din__ _n_  
+__gruff__  
+__exerted__  
+__blackening__  
+__gravitate__ _He gravitated toward politics._  
+__distraught__  
+__shirk__  
+__prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
+__clarion call__  
+__rekindle__ _We must rekindle the fire of idealism in this country._  
+__foreclose__ _v_  
+__swamped__ _v_  
+__duped__ _v_  
+__rummaging__ _v_  
+__disgorgement__  
+__ticklish__  
+__syrupy__  
+__rub elbows__ _v_  
+__maelstrom__  
+__grappling__ _v_  
+__fore__ _n_  
+__atavistic__  
+__attest__ _v_  
+__carve out__ _v_  
+__bestow__ _v_  
+__dovetails__  
+__speakeasy__  
+__velvet rope__  
+__fallout__  
+__uptick__ _n_  
+__jaunt__ _n_  
+__sizable__ _Clinton's sizable lead._  
+__contentious__  
+__outpacing__  
+__hamdbill__ _n_  
+__lawmakers__  
+__deluged__ _v_  
+__defectors__  
+__defection__  
+__debriefing__  
+__stymied__ :two:  
+__bustling__  
+__surreptitiously__  
+__dais__  
+__garnered__ _v_  
+__squat__ _adj_ _A squat gray clinic._  
+__file a case__ _v_  
+__injuction__  
+__steadfast__  
+__phalanx__  
+__offset__ _v_  
+__commoditization__ 
+__upend__  
+__balked__  
+__redress__  
+__endeared__  
+__epitomize__  
+__jams__ _n_  
+__collard greens__  
+__contingency plan__  
+__cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
+__brokered__ _v_  
+__substation__  
+__staffed__ _v_  
+
+
+
 __scrap__ _v_  
 __full-fledged__  
 __anew__  
