@@ -16,6 +16,61 @@ __thrash__ _v_
 
 
 
+__slander__  
+__mile-a-minute__ _A mile-a-minute talker._  
+__vying__  
+__smear__ _The smear campaign._  
+__stuck a chord__  
+__takeout containers__  
+__huff__  
+__befall__  
+__encroaching__  
+__waive__ _v_  
+__skirmishes__  
+__extricated__  
+__merriment__ :two:  
+__bust__ _A dusty bust of Shakespeare._  
+__gentry__  
+__outfoxed__  
+__lambasted__  
+__dispel__ _v_  
+__autocratic__  
+__Chancellor__  
+__trampling__  
+__bloc__  
+__lawmaker__  
+__nosebleeds__  
+__quelled__ _v_  
+__quandary__  
+__streaming__ _Streaming eyes._  
+__storied__ _Storied market._  
+__upheld__  
+__heyday__  
+__bric-a-brac stores__  
+__sandstone__  
+__Britons__  
+__ossified__  
+__stifling__  
+__flouts__ _v_  
+__brazenly__  
+__frays__ _v_  
+__quashed__ _v_  
+__trickle-down__  
+__abuzz__  
+__spigots__  
+__hardship__  
+__bastion__  
+__madrasas__  
+__decry__  
+__soldiers__ _v_  
+__gnat__  
+__hewing__ _v_  
+__jaded__  
+__falloff__  
+__careening__  
+__blaze of glory__  
+__ethos__  
+
 
 
 
