@@ -13,7 +13,67 @@ __thrash__ _v_
 
 
 
+__rankled__ _v_  
+__plowed__ _Drivers plowed into oncoming traffic._  
+__sway__  
+__careens__ _v_  
+__flummox__ _v_  
+__empty box__ _The Etihad is the last empty box on his list._  
+__promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
+__laped pin__  
+__contention__ _Braintree and Dover are in contention for promotion from the National League._  
+__nibble__ _n_  
+__sly__ _They're flicking through their smartphone notifications on the sly._  
+__tipoff__  
+__winced__  
+__boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
+__tatters__ _Its reputation is in tatters._  
+__finger prick__ _Blood tests on a microsample from a finger prick._  
+__mold__ _n_  
+__burnishing__  
+__bona fide__  
+__foragers__  
+__metro__ _Her products landed on the shelves of stores in metro Detroit._  
+__deep freezers__  
+__pat__  
+__bracing__ _Online media companies are bracing for change._  
+__angling__  
+__couch-ridden_  
+__tightknit__  
+__shutouts__ _Hockey_  
+__platoon__ _v_  
+__come around__  
+__pangs__  
+__roomed__ _v_  
+__allay__ _v_  
+__flameouts__  
+__wisdom tooth__  
+__contention__ :two:  
+__mauled__ _v_  
+__faint__ _Not for the faint of heart._  
+__doglegs__ _v_  
+__razor sharp__  
+__yips__  
+__the skinny__ (?)  
+__nitpicked__ _v_  
+__stew__ _n_  
+__wooly__  
+__revenant__  
+__runner-up__  
+__champ__ Champion?  
+__take by storm__  
+__hapless__  
+__bumbling__ _v_  
+__effigies__  
+__call out__ _v_  
+__hoodlums__  
+__Dixie Chicks__  
+__duplicitous__  
+__rarefied__  
+__provenance__  
+__sheikhs__  
 
+Zzz
 
 
 __slander__  
