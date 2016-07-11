@@ -5,75 +5,78 @@ __ACK__
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
-__dissent__ _n_  __faring__ _v_  __predate__ _v_  __prime-age__  
-__thrash__ _v_  
 
 
 
 
 
 
-__rankled__ _v_  
-__plowed__ _Drivers plowed into oncoming traffic._  
-__sway__  
+
+
+__Dixie Chicks__  
+__allay__ _v_  
+__angling__  
+__boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
+__bona fide__  
+__bracing__ _Online media companies are bracing for change._  
+__bumbling__ _v_  
+__burnishing__  
+__call out__ _v_  
 __careens__ _v_  
-__flummox__ _v_  
-__empty box__ _The Etihad is the last empty box on his list._  
-__promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
-__laped pin__  
+__champ__ Champion?  
+__come around__  
+__contention__ :two:  
 __contention__ _Braintree and Dover are in contention for promotion from the National League._  
+__couch-ridden__  
+__deep freezers__  
+__dissent__ _n_  
+__doglegs__ _v_  
+__duplicitous__  
+__effigies__  
+__empty box__ _The Etihad is the last empty box on his list._  
+__faint__ _Not for the faint of heart._  
+__faring__ _v_  
+__finger prick__ _Blood tests on a microsample from a finger prick._  
+__flameouts__  
+__flummox__ _v_  
+__foragers__  
+__hapless__  
+__hoodlums__  
+__laped pin__  
+__mauled__ _v_  
+__metro__ _Her products landed on the shelves of stores in metro Detroit._  
+__mold__ _n_  
 __nibble__ _n_  
+__nitpicked__ _v_  
+__pangs__  
+__pat__  
+__platoon__ _v_  
+__plowed__ _Drivers plowed into oncoming traffic._  
+__predate__ _v_  
+__prime-age__  
+__promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
+__provenance__  
+__rankled__ _v_  
+__rarefied__  
+__razor sharp__  
+__revenant__  
+__roomed__ _v_  
+__runner-up__  
+__sheikhs__  
+__shutouts__ _Hockey_  
 __sly__ _They're flicking through their smartphone notifications on the sly._  
+__stew__ _n_  
+__sway__  
+__take by storm__  
+__tatters__ _Its reputation is in tatters._  
+__the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
+__thrash__ _v_  
+__tightknit__  
 __tipoff__  
 __winced__  
-__boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
-__tatters__ _Its reputation is in tatters._  
-__finger prick__ _Blood tests on a microsample from a finger prick._  
-__mold__ _n_  
-__burnishing__  
-__bona fide__  
-__foragers__  
-__metro__ _Her products landed on the shelves of stores in metro Detroit._  
-__deep freezers__  
-__pat__  
-__bracing__ _Online media companies are bracing for change._  
-__angling__  
-__couch-ridden_  
-__tightknit__  
-__shutouts__ _Hockey_  
-__platoon__ _v_  
-__come around__  
-__pangs__  
-__roomed__ _v_  
-__allay__ _v_  
-__flameouts__  
 __wisdom tooth__  
-__contention__ :two:  
-__mauled__ _v_  
-__faint__ _Not for the faint of heart._  
-__doglegs__ _v_  
-__razor sharp__  
-__yips__  
-__the skinny__ (?)  
-__nitpicked__ _v_  
-__stew__ _n_  
 __wooly__  
-__revenant__  
-__runner-up__  
-__champ__ Champion?  
-__take by storm__  
-__hapless__  
-__bumbling__ _v_  
-__effigies__  
-__call out__ _v_  
-__hoodlums__  
-__Dixie Chicks__  
-__duplicitous__  
-__rarefied__  
-__provenance__  
-__sheikhs__  
-
-Zzz
+__yips__  
 
 
 __slander__  
@@ -326,9 +329,6 @@ __curmudgeon__  
 
 
 
-2Brm-begin _
-_uphill battle__  __inconsequential__  __at the earliest__  __spruce up__ _v_  __rank and file__  __buff__ _v_  __tie-up__ _n_  __rife__  __graft__ _A graft scandal._  __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  __assists__ _Green had 14 rebounds and nine assists._  __put on a clinic__ 2Brm-end
-
 __uphill battle__  
 __inconsequential__  
 __at the earliest__  
@@ -438,9 +438,117 @@ __regrets__ _n_
 
 
 
-__adoring__  __adulation__  __brazen__  __fawning__  __fealty__  __straining__ _v_  __frayed__  __largely__  __braced__  __stop short__ _v_  __coveted__  __quell__ _v_  __reconvenes__ _v_  __carpet bombing__  __communiqués__  __sway__ _v_  __tuk-tuk__  __catcalls__ _A pack of men on motorbikes left a wake of catcalls._  __hubhub__  __cinder-block town__  __spinster__  __fatwa__  __upended__  __smothered__  __daredevil__  __bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  __V-E Day__  __quell__ _v_  __coveted__ _v_  __subsided__ _v_  __shoals__  __stoked__  __piecemeal__  __uphold__  __cudgel__  __toeing__ _v_  __makeshift__ _adj_ :two:  __comply__ _v_  __tenuous__  __fatwa__ Religious edict.   __ventilator__ :open_mouth: _med_  __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  __birdbrain__  __stifling__ _v_  __lifeline__  __nigh__  __weaned__ _v_  __lore__  __leap day__  __leap year__  __stag line__ _n_  __prerogative__  __windfall__  __disgruntled__  __stop short__  __scrapped__ _v_  __grappling__  __eke out__ _v_  __loans__  __outlook__  __dispelled__ _v_  __claimants__  __head wind__  __wedlock__  __forestall__  __egregious__  __overflight__  __sultanate__  __disingenuousness__  __runoff water__  __seepage__  __bruited__  __boards__ _Green finished with 10 points and 11 boards for the warriors._   
+__adoring__  
+__adulation__  
+__brazen__  
+__fawning__  
+__fealty__  
+__straining__ _v_  
+__frayed__  
+__largely__  
+__braced__  
+__stop short__ _v_  
+__coveted__  
+__quell__ _v_  
+__reconvenes__ _v_  
+__carpet bombing__  
+__communiqués__  
+__sway__ _v_  
+__tuk-tuk__  
+__catcalls__ _A pack of men on motorbikes left a wake of catcalls._  
+__hubhub__  
+__cinder-block town__  
+__spinster__  
+__fatwa__  
+__upended__  
+__smothered__  
+__daredevil__  
+__bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  
+__V-E Day__  
+__quell__ _v_  
+__coveted__ _v_  
+__subsided__ _v_  
+__shoals__  
+__stoked__  
+__piecemeal__  
+__uphold__  
+__cudgel__  
+__toeing__ _v_  
+__makeshift__ _adj_ :two:  
+__comply__ _v_  
+__tenuous__  
+__fatwa__ Religious edict.   
+__ventilator__ :open_mouth: _med_  
+__dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
+__birdbrain__  
+__stifling__ _v_  
+__lifeline__  
+__nigh__  
+__weaned__ _v_  
+__lore__  
+__leap day__  
+__leap year__  
+__stag line__ _n_  
+__prerogative__  
+__windfall__  
+__disgruntled__  
+__stop short__  
+__scrapped__ _v_  
+__grappling__  
+__eke out__ _v_  
+__loans__  
+__outlook__  
+__dispelled__ _v_  
+__claimants__  
+__head wind__  
+__wedlock__  
+__forestall__  
+__egregious__  
+__overflight__  
+__sultanate__  
+__disingenuousness__  
+__runoff water__  
+__seepage__  
+__bruited__  
+__boards__ _Green finished with 10 points and 11 boards for the warriors._   
 
-__ppg__ _Sanders is averaging 13.3 ppg._  __futility__  __carved out__  __proffering__  __outrageous__  __adroit__  __gird__ _v_  __heinous__  __rattled__ :two:  __demographic__ _n?_  __hotbed__ _n_  __boon__  __own up__  __ensconced__  __regulatory muster__  __divestiture__  __pointed questions__  __bylaws__  __hitch__ _n_  __fait accompli__  __garner__ _v_  __credence__  __convened__ _v_  __strictures__  __litigation__  __scrapping__ _v_  __daft__  __splurging__  __boom and bust__  __hold water__  __afoul__  __tussle__  __mannered__  __subpoena__  __thicket__  __draped__ _v_  __gunman__    
+__ppg__ _Sanders is averaging 13.3 ppg._  
+__futility__  
+__carved out__  
+__proffering__  
+__outrageous__  
+__adroit__  
+__gird__ _v_  
+__heinous__  
+__rattled__ :two:  
+__demographic__ _n?_  
+__hotbed__ _n_  
+__boon__  
+__own up__  
+__ensconced__  
+__regulatory muster__  
+__divestiture__  
+__pointed questions__  
+__bylaws__  
+__hitch__ _n_  
+__fait accompli__  
+__garner__ _v_  
+__credence__  
+__convened__ _v_  
+__strictures__  
+__litigation__  
+__scrapping__ _v_  
+__daft__  
+__splurging__  
+__boom and bust__  
+__hold water__  
+__afoul__  
+__tussle__  
+__mannered__  
+__subpoena__  
+__thicket__  
+__draped__ _v_  
+__gunman__    
 
 __seafarer__  
 __racket__ _v_  
@@ -554,7 +662,6 @@ __in__ _Jubilo scored in injury time__
 __mired__ _v_  
 __parochial__  
 __downturns__  
-__dissent__ _n_  __faring__ _v_  __predate__ _v_  __prime-age__  
 __cash rebate__  
 __guzzle__ _v_  
 __sidestep__ _v_  
@@ -632,7 +739,7 @@ __outsize__
 __ancillary__  
 __polarizing__  
 __dangling__  
-__puffy__  _Puffy snowflakes._  
+__puffy__ _Puffy snowflakes._  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __belittled__  
 __dwindling__  
