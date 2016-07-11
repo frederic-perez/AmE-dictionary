@@ -12,6 +12,50 @@ __Achilles heel__ A weakness or vulnerable point.
 
 
 
+__divvy up__ _v_  
+__tussled__ _v_  
+__honorees__  
+__breakout__  
+__smugness__  
+__baby bump__ _Dressing your baby bump._  
+__sequins__  
+__lowlights__  
+__dis__  
+__rhinestone cowboy hat__  
+__waive__ _v_  
+__measles__  
+__chicken pox__  
+__pink eye__  
+__blanketed__  
+__while__ _v_ _To while away the hours drinking vodka._  
+__flag-stop service__  
+__shudders__  
+__sputters__  
+__legion__ _The reasons you can't sleep well inflight are legion._  
+__anathema__  
+__eyeshades__  
+__amenity kits__  
+__fulcrum__  
+__oatmeal__  
+__nasal passages__  
+__in the nude__ _Sleeping in the nude._  
+__sweatpants__  
+__blanket__  
+__air nozzles__ _Try adjusting your air nozzles to full force._  
+__upended__  
+__psyche__  
+__stunned__  
+__chafes__ _v_  
+__endearing__  
+__grumbles__ _v_  
+__snooty__  
+__bog__ _n_  
+__carping__ _v_  
+__botched__  
+__trample__ _v_  
+
+
+
 
 __Dixie Chicks__  
 __allay__ _v_  
