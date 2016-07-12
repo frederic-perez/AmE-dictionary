@@ -11,1074 +11,1001 @@ __Achilles heel__ A weakness or vulnerable point.
 
 
 
-
-__divvy up__ _v_  
-__tussled__ _v_  
-__honorees__  
-__breakout__  
-__smugness__  
-__baby bump__ _Dressing your baby bump._  
-__sequins__  
-__lowlights__  
-__dis__  
-__rhinestone cowboy hat__  
-__waive__ _v_  
-__measles__  
-__chicken pox__  
-__pink eye__  
-__blanketed__  
-__while__ _v_ _To while away the hours drinking vodka._  
-__flag-stop service__  
-__shudders__  
-__sputters__  
-__legion__ _The reasons you can't sleep well inflight are legion._  
-__anathema__  
-__eyeshades__  
-__amenity kits__  
-__fulcrum__  
-__oatmeal__  
-__nasal passages__  
-__in the nude__ _Sleeping in the nude._  
-__sweatpants__  
-__blanket__  
-__air nozzles__ _Try adjusting your air nozzles to full force._  
-__upended__  
-__psyche__  
-__stunned__  
-__chafes__ _v_  
-__endearing__  
-__grumbles__ _v_  
-__snooty__  
-__bog__ _n_  
-__carping__ _v_  
-__botched__  
-__trample__ _v_  
-
-
-
-
-__Dixie Chicks__  
-__allay__ _v_  
-__angling__  
-__boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
-__bona fide__  
-__bracing__ _Online media companies are bracing for change._  
-__bumbling__ _v_  
-__burnishing__  
-__call out__ _v_  
-__careens__ _v_  
-__champ__ Champion?  
-__come around__  
-__contention__ :two:  
-__contention__ _Braintree and Dover are in contention for promotion from the National League._  
-__couch-ridden__  
-__deep freezers__  
-__dissent__ _n_  
-__doglegs__ _v_  
-__duplicitous__  
-__effigies__  
-__empty box__ _The Etihad is the last empty box on his list._  
-__faint__ _Not for the faint of heart._  
-__faring__ _v_  
-__finger prick__ _Blood tests on a microsample from a finger prick._  
-__flameouts__  
-__flummox__ _v_  
-__foragers__  
-__hapless__  
-__hoodlums__  
-__laped pin__  
-__mauled__ _v_  
-__metro__ _Her products landed on the shelves of stores in metro Detroit._  
-__mold__ _n_  
-__nibble__ _n_  
-__nitpicked__ _v_  
-__pangs__  
-__pat__  
-__platoon__ _v_  
-__plowed__ _Drivers plowed into oncoming traffic._  
-__predate__ _v_  
-__prime-age__  
-__promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
-__provenance__  
-__rankled__ _v_  
-__rarefied__  
-__razor sharp__  
-__revenant__  
-__roomed__ _v_  
-__runner-up__  
-__sheikhs__  
-__shutouts__ _Hockey_  
-__sly__ _They're flicking through their smartphone notifications on the sly._  
-__stew__ _n_  
-__sway__  
-__take by storm__  
-__tatters__ _Its reputation is in tatters._  
-__the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
-__thrash__ _v_  
-__tightknit__  
-__tipoff__  
-__winced__  
-__wisdom tooth__  
-__wooly__  
-__yips__  
-
-
-__slander__  
-__mile-a-minute__ _A mile-a-minute talker._  
-__vying__  
-__smear__ _The smear campaign._  
-__stuck a chord__  
-__takeout containers__  
-__huff__  
-__befall__  
-__encroaching__  
-__waive__ _v_  
-__skirmishes__  
-__extricated__  
-__merriment__ :two:  
-__bust__ _A dusty bust of Shakespeare._  
-__gentry__  
-__outfoxed__  
-__lambasted__  
-__dispel__ _v_  
-__autocratic__  
-__Chancellor__  
-__trampling__  
-__bloc__  
-__lawmaker__  
-__nosebleeds__  
-__quelled__ _v_  
-__quandary__  
-__streaming__ _Streaming eyes._  
-__storied__ _Storied market._  
-__upheld__  
-__heyday__  
-__bric-a-brac stores__  
-__sandstone__  
+__B & E__  
 __Britons__  
-__ossified__  
-__stifling__  
-__flouts__ _v_  
-__brazenly__  
-__frays__ _v_  
-__quashed__ _v_  
-__trickle-down__  
-__abuzz__  
-__spigots__  
-__hardship__  
-__bastion__  
-__madrasas__  
-__decry__  
-__soldiers__ _v_  
-__gnat__  
-__hewing__ _v_  
-__jaded__  
-__falloff__  
-__careening__  
-__blaze of glory__  
-__ethos__  
-
-
-
-
-
-
-
-
-__dud__ _v_  
-__junta__  
-__charade__  
-__bookend__  
-__larger than life__  
-__jolt__ _A spending jolt by the military government._  
-__politburo__  
-__sputtering__  
-__severance__  
-__preposterous__  
-__bleak__ _adj_  
-__fodder__  
-__repent__ _v_  
-__rift__ _n_  
-__berth__ _Sho Sakai secured an Olympic berth._  
-__place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
-__pennant__ _n_  
-__fend off__ _v_  
-__runner-up__ _Nishikori was runner-up here last season._  
-__outfits__ _n_  
-__heretofore__  
-__slumming__  
+__Chancellor__  
+__Concacaf__  
+__Empress__  
+__Faustian__ _Faustian device._  
+__Forest Recreation Park__  
+__His Majesty the Sultan__  
+__Jewry__  
 __Seven Dwarf status__ 
-__clinch__  
-__slithering__  
-__slick__ _v_  
-__lefty buckets__  
-__whippersnapper__  
-__frosh__  
-__cuttin' a rug__  
-__foot-stomping__  
-__wording__ _n_  
-__shelved__ _v_ _The Supreme Court temporarily shelved his Clean Power Plan._  
-__pavilions__  
-__steeple__ _n_  
-__upended__ _v_ _The earthquake upended the nation last week._  
-__spiteful__  
-__stifling__  
-__longing__  
-__restlessness__  
-__egregious__  
-__for the sake of__  
-__din__ _n_  
-__gruff__  
-__exerted__  
-__blackening__  
-__gravitate__ _He gravitated toward politics._  
-__distraught__  
-__shirk__  
-__prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
-__clarion call__  
-__rekindle__ _We must rekindle the fire of idealism in this country._  
-__foreclose__ _v_  
-__swamped__ _v_  
-__duped__ _v_  
-__rummaging__ _v_  
-__disgorgement__  
-__ticklish__  
-__syrupy__  
-__rub elbows__ _v_  
-__maelstrom__  
-__grappling__ _v_  
-__fore__ _n_  
+__V-E Day__  
+__jolt__ _n_ _It was a jolt of good news._  
+__staunch__  
+__abuzz__  
+__accord__ _Postponed the signing of an accord._  
+__accrue__ _v_  
+__acrimonious__  
+__acuity__  
+__adoring__  
+__adroit__  
+__adulation__  
+__afoul__  
+__ailment__  
+__air nozzles__ _Try adjusting your air nozzles to full force._  
+__alienated__  
+__allay__ _v_  
+__allay__ _v_  
+__almost surel__ _Apple almost surely will succeed in upgrading its security._  
+__altitude sickness__  
+__amenity kits__  
+__amity__  
+__anathema__  
+__anathema__  
+__anathema__  
+__ancillary__  
+__anew__  
+__anew__  
+__angling__  
+__angsty__  
+__anguish__  
+__anorak__  
+__anything goes__  
+__ape__ _v_  
+__apostasy__  
+__apparatchiks__  
+__arbitration clause__  
+__arbitration__  
+__arms embargo__  
+__arms race__  
+__assists__ _Green had 14 rebounds and nine assists._  
+__at the earliest__  
+__at the very least__  
 __atavistic__  
 __attest__ _v_  
-__carve out__ _v_  
-__bestow__ _v_  
-__dovetails__  
-__speakeasy__  
-__velvet rope__  
-__fallout__  
-__uptick__ _n_  
-__jaunt__ _n_  
-__sizable__ _Clinton's sizable lead._  
-__contentious__  
-__outpacing__  
-__hamdbill__ _n_  
-__lawmakers__  
-__deluged__ _v_  
-__defectors__  
-__defection__  
-__debriefing__  
-__stymied__ :two:  
-__bustling__  
-__surreptitiously__  
-__dais__  
-__garnered__ _v_  
-__squat__ _adj_ _A squat gray clinic._  
-__file a case__ _v_  
-__injuction__  
-__steadfast__  
-__phalanx__  
-__offset__ _v_  
-__commoditization__ 
-__upend__  
-__balked__  
-__redress__  
-__endeared__  
-__epitomize__  
-__jams__ _n_  
-__collard greens__  
-__contingency plan__  
-__cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
-__brokered__ _v_  
-__substation__  
-__staffed__ _v_  
-
-
-
-__scrap__ _v_  
-__full-fledged__  
-__anew__  
-__Empress__  
-__draft__ _v_ _Drafting the Defense Ministry's basic policy._  
-__plaintiff__  
-__elbowing__ _v_ _Elbowing your way through crowds._  
-__vistas__  
-__bemoan__ _v_  
-__ply__ _v_  
-__chartered__ _v_  
-__streamlined__ _v_ _Streamlined ship._  
-__shogunate__  
-__cherry blossoms__ _n_  
-__trainees__ :es: aprendiz?  
-__helipad__  
-__quay__ _n_  
-__bolster__ _v_  
-__hymnal__ _The party hymnal._  
-__slandering__  
-__patronage__  
-__hew__ _v_  
-__touch and go__  
-__manicured landscape__  
-__ironclad commitment__  
-__accord__ _Postponed the signing of an accord._  
-__bombast__  
-__black smoke__  
-__cadre__ _n_  
-__venomous__  
-__disparagement__ :two:  
-__trounced__  
-__landslide__ :two: _I will win the game by a near landslide._  
-__vying__  
-__prize purse__ _A prize purse of $1 million._  
-__stoking__ :two:  
-__rattled__  
-__groove__ _Shaking her groove._  
-__confounding__  
-__Jewry__  
-__watershed__ _Dignataries recognized the watershed moment pf his passing._  
-__ordeal__  
-__slabs__ _Concrete slabs._  
-__hike__ _A hike in base wages.__  
-__forgo__ _v_  
-__lid__ _It should keep a lid on the yen._  
-__rout__  
-__lackluster__  
-__metal shavings__  
-__pervasive__  
-__downbeat__  
-__playwright__  
-__anew__  
-__enthralling__  
-__commissioned__  
-__shantytown__  
-__rampant__  
-__nondescript__  
-__breakdown__ _Population breakdown._  
-__constituency__  
-__thick and thin__ _Supporters ready to back them through thick and thin._  
-__madrassas__  
-__militias__  
-__seediness__  
-__wither__ _v_  
-__congenial__  
-__jaundiced__  
-__tussle__  
-__far-flung__  
-__cringe__  
-__curmudgeon__  
-
-
-
-
-
-
-
-
-__uphill battle__  
-__inconsequential__  
-__at the earliest__  
-__spruce up__ _v_  
-__rank and file__  
-__buff__ _v_  
-__tie-up__ _n_  
-__rife__  
-__graft__ _A graft scandal._  
-__subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
-__assists__ _Green had 14 rebounds and nine assists._  
-__put on a clinic__  
-__under one's belt__  
-__up-and-comer__  
-__tough cookie__  
-
-
-__kickback schemes__  
-__foosball table__  
-__upending__  
-__angsty__  
-__panoply__  
-__outré__  
-__studded__ _v_  
-__slouchy__  
-__pleated__ _v_  
-__anorak__  
-__crumbling__ _Crumbling sidewalk._  
-__low-slung__ _Low-slung school._  
-__grappling__  
-__subsidy__  
-__kindergartners__  
-__cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
-__carve out__  
-__stymied__  
-__bear__ _v_  
-__forestall__  
-__fared__ _v_  
-__strain__  
-__clunky__  
-__duress__  
-__penchant__  
-__tussling__  
-__cudgel__  
-__doctored__ _v_ _A photograph doctored by his aides._  
-__seethed__ _v_  
-_rebuke__ _n_  
-__mistruths__  
-__slip__ _v_ Decrease?  
-__steep__  
-__mollusks__  
-__plaid__ _Plaid shirt._  
-__gurney__  
-__knee-jerk response__  
-__anathema__  
-__dazzling__  
-__pertussis__  
-__motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
-__wade__ _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
-__altitude sickness__  
-__starch__ _Altitude sickness can take more than the starch out of a person._  
- 
-
-
-
-
-__ravaged__  
-__respite__  
-__fray__ _n_  
-__wedge__  
-__parlay__  
-__sentience__  
-__far-flung__  
-__shortchange__ _v_  
-__hurdy-gurdy__  
-__at the very least__  
-__yore__ _Days of yore._  
-__take a stand__  
-__bristle__ _v_  
-__whimper__ _n_  
-__wimpiness__  
-__blustery__  
-__wilting__ _adj_?  
-__wonk__ _n_  
-__pork rinds__  
-__throw out the red meat__  
-__purloin__ _v_  
-__stoked__  
-__allay__ _v_  
-__racketeering__  
-__pecking order__  
-__nub__ _n_  
-__devil-may-care style__  
-__anathema__  
-__early-onset__ _Early-onset Alzheimer's disease._  
-__squat__ _v_  
-__statesman__  
-__vying__  
-__crackdown__  
-__tag along__ _v_  
-__claim__ _The White Sox claimed the 2005 title._  
-__regrets__ _n_  
-
- 
-
-
-
-
-
-__adoring__  
-__adulation__  
-__brazen__  
-__fawning__  
-__fealty__  
-__straining__ _v_  
-__frayed__  
-__largely__  
-__braced__  
-__stop short__ _v_  
-__coveted__  
-__quell__ _v_  
-__reconvenes__ _v_  
-__carpet bombing__  
-__communiqués__  
-__sway__ _v_  
-__tuk-tuk__  
-__catcalls__ _A pack of men on motorbikes left a wake of catcalls._  
-__hubhub__  
-__cinder-block town__  
-__spinster__  
-__fatwa__  
-__upended__  
-__smothered__  
-__daredevil__  
-__bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  
-__V-E Day__  
-__quell__ _v_  
-__coveted__ _v_  
-__subsided__ _v_  
-__shoals__  
-__stoked__  
-__piecemeal__  
-__uphold__  
-__cudgel__  
-__toeing__ _v_  
-__makeshift__ _adj_ :two:  
-__comply__ _v_  
-__tenuous__  
-__fatwa__ Religious edict.   
-__ventilator__ :open_mouth: _med_  
-__dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
-__birdbrain__  
-__stifling__ _v_  
-__lifeline__  
-__nigh__  
-__weaned__ _v_  
-__lore__  
-__leap day__  
-__leap year__  
-__stag line__ _n_  
-__prerogative__  
-__windfall__  
-__disgruntled__  
-__stop short__  
-__scrapped__ _v_  
-__grappling__  
-__eke out__ _v_  
-__loans__  
-__outlook__  
-__dispelled__ _v_  
-__claimants__  
-__head wind__  
-__wedlock__  
-__forestall__  
-__egregious__  
-__overflight__  
-__sultanate__  
-__disingenuousness__  
-__runoff water__  
-__seepage__  
-__bruited__  
-__boards__ _Green finished with 10 points and 11 boards for the warriors._   
-
-__ppg__ _Sanders is averaging 13.3 ppg._  
-__futility__  
-__carved out__  
-__proffering__  
-__outrageous__  
-__adroit__  
-__gird__ _v_  
-__heinous__  
-__rattled__ :two:  
-__demographic__ _n?_  
-__hotbed__ _n_  
-__boon__  
-__own up__  
-__ensconced__  
-__regulatory muster__  
-__divestiture__  
-__pointed questions__  
-__bylaws__  
-__hitch__ _n_  
-__fait accompli__  
-__garner__ _v_  
-__credence__  
-__convened__ _v_  
-__strictures__  
-__litigation__  
-__scrapping__ _v_  
-__daft__  
-__splurging__  
-__boom and bust__  
-__hold water__  
-__afoul__  
-__tussle__  
-__mannered__  
-__subpoena__  
-__thicket__  
-__draped__ _v_  
-__gunman__    
-
-__seafarer__  
-__racket__ _v_  
-__bento__ Boxed meals.  
-__plum wine__  
-__omelets__  
-__pinch-hitter__  
-__bunraku__  
-__kabuki__  
-__self-effacing__  
-__playwright__  
-__philandering__  
-__anguish__  
-__carve out__  
-__sekuhata__ Sexual harassment.  
-__matahara__ Maternity harassment.  
-__labor bureaus__  
-__plowed__ _A car plowed into pedestrians._  
-__swerving__  
-__arms embargo__  
-__yakuza__  
-__plum trees__  
-__execs__ Executives?  
-__indicted__  
-__breach__  
-__mothballed__ _v_  
-__equipped__  
-__crackdown__  
-__relief teams__  
-__curbs__ _n_ Bans?  
-__unduly__  
-__shah__ _n_  
-__rattled__  
-__swayed__ _v_  
-__outrage__  
-__swath__  
-__bedrock__  
-__caucus__ _Kentucky will hold a Republican caucus on March 5._  
-__coincided__ _v_  
-__being let go__ _His mother was let go at the plant in 2006._  
-__studded__  
-__hot-button__  
-
-
-
-
-
-
-
-__pitch__ _We recovered the ball in their side of the pitch after pressing well._  
+__au shops__  
+__autocratic__  
+__baby bump__ _Dressing your baby bump._  
 __back-heel pass__  
-__swooped__ :two:  
-__bewitch__ _v_ _:es: maravillar?  
-__beguiling__  
-__disgruntled__  
-__flanker__ (soccer position)  
-__marathon__ _This is more of a marathon than a sprint._  
-__fluke__  
-__bolstered__  
-__mired__ _v_  
-__bucked__ _v_  
-__shore up__ _v_  
-__top flight__ First division?  
-__conceded__ _A total of 44 goals scored and 48 conceded last year._  
-__smattering__  
-__clinched__  
-__linchpin__  
-__bucking the trend__  
- 
-__rare news conference__  
-__sluicing__ _v_  
-__almost surel__ _Apple almost surely will succeed in upgrading its security._  
-__arms race__  
-
-
-__steeply__  
-__rout__ _n_  
-__jitters__ _n_  
-__bungled__ _v_  
-__entitlement programs__  
-__rethoric__  
-__repealing__  
-__conducive__  
-__whitehot__  
-__feint__  
-__obstreperousness__  
-__bluster__  
-__juggernaut__  
-__shiet__  
-__bankrollers__  
-__blanketing__  
-__sidelines__  
-__snarl__ _v_  
-__plodded__ _v_  
-__dwindle__ _v_  
-__clinch__  
-__startling__  
-__intemperance__  
-__grievously__  
-__misstated__ _v_  
- 
-
-__fielding__  
-__equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
-__B & E__  
-__slack__ _The rain had slackened._  
-__think tank__ :two:  
-__shaping the bullet__  
-__injury time__  
-__in__ _Jubilo scored in injury time__  
-__mired__ _v_  
-__parochial__  
-__downturns__  
-__cash rebate__  
-__guzzle__ _v_  
-__sidestep__ _v_  
-__shoring up__  
-__renminbi__  
-__steeply__  
-__beggar-thy-neighbor__  
-__deterrent__  
-__communiqué__  
-__newsy__  
-__bane__ _n_  
-__fledgling__ _fledgling entrepreneurs._  
-__retrenching_  
-__dole out__ _v_  
-__scant__  
-__holdout__  
-
-__braces__ _v_  
-__ebbed and flowed__  
-__petite__  
-__upending__  
-_swooning__  
-__smattering__  
-__vying__  
-__sleepwear__ (vs sportswerar, etc.)  
-putting aside__  
-__dry spel__  
-__knuckleball__  
-__flutters__ _v_  
-__Concacaf__  
-__lowly__  
-__floater__  
-__buzzer__ _Durent Durent missed a floater at the buzzer__  
-____jolt__ _n_ _It was a jolt of good news._  
-__dire__  
-__befitting__  
-__knucklers__  
-__fiddled__ _v_  
-__stymie__ _v_  
-__trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
-__fazed__  
-__tow__ _Cameras in tow._  
-__downed__ _v_ _Terrorists had downed a Russian plane in October._  
-__warehousing__  
-__conscripted__  
-__yardstick__  
-__crackdown__  
-__rattled__  
-__go over the top__  
-__downsides__  
-__brazer__  
-__gonzo__  
-__wholesale__  
-__stiffle__ _v_  
-__sedition__  
-__victor__  
-__hushed__  
-__stoking__  
-__prance__  
-__peter out__  
-__in all likelihood__  
-__stymied__  
-__stringent__  
-__there is no denying__  
-__wicket__  
-__barring__  
-__scathing__  
-__foreboding__  
-__apostasy__  
-__amity__  
-__marred__ _v_  
-__strife__  
-__overarching__  
-__outsize__  
-__ancillary__  
-__polarizing__  
-__dangling__  
-__puffy__ _Puffy snowflakes._  
-__command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
-__belittled__  
-__dwindling__  
-__acuity__  
-__upheld__  
-__arbitration clause__  
-__smell test__  
-__tack__ Tactics?  
-__sweethearts__  
-__rock the boat__  
-__jostled anew__  
-__thug__  
-__heatedly__ _Clashed heatedly._  
-__fence-mending__  
-__memo__ _A memo sent to reporters._  
-__accrue__ _v_  
-__wariness__  
-__palatable__  
-__viciously__  
-__carved out__  
-__quandary__  
-__surmount__ _v_  
-__clinch__  
-__rack up__ _v_  
-__hobble__ _v_  
+__balked__  
+__balked__  
 __balloon-lined car dealership__  
-__gunman__  
-__rampage__  
-__swerving__  
-__pepper__ _v_ __Five bullet holes peppered the side of one rental town-house._  
-__stoke__ _v_  
-__theocracy__  
-__runoff__  
-__marred__ _v_  
-__militias__  
-__reach out__  
-__bultwark__  
-__playbook__  
+__bane__ _n_  
+__bankrollers__  
+__barring__  
+__bastion__  
+__beanstalks__  
+__bear__ _v_  
+__bedrock__  
+__bedrolls__  
+__befall__  
+__befitting__  
+__beggar-thy-neighbor__  
+__beguiling__  
+__beholden__  
+__being let go__ _His mother was let go at the plant in 2006._  
+__belittled__  
+__bemoan__ _v_  
+__bemoaned__  
+__bemused__  
+__bender__ _His mother was on a bender._  
+__bento__ Boxed meals.  
+__berth__ _Sho Sakai secured an Olympic berth._  
+__bestow__ _v_  
+__bewitch__ _v_ _:es: maravillar?  
+__bid rigging__  
+__birdbrain__  
+__black smoke__  
+__blackening__  
+__blanket__  
+__blanketed__  
+__blanketing__  
+__blaze of glory__  
 __bleak__  
-__poach__ _v_  
-__garb__  
+__bleak__ _adj_  
+__bleating__ _v_  
+__blithe__  
+__bloc__  
+__bluster__  
+__blustery__  
+__boards__ _Green finished with 10 points and 11 boards for the warriors._   
+__bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  
+__bog__ _n_  
+__boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
+__bolster__ _v_  
+__bolstered__  
+__bombast__  
+__bombastic__  
+__bona fide__  
+__boogeyman__  
+__bookend__  
+__boom and bust__  
+__boon__  
+__bosom__  
+__botched__  
+__boughs__  
+__braced__  
+__braces__ _v_  
+__bracing__ _Online media companies are bracing for change._  
+__brazen__  
+__brazenly__  
+__brazer__  
+__breach__  
+__breakdown__ _Population breakdown._  
+__breakout__  
+__bric-a-brac stores__  
+__bristle__ _v_  
 __bristled__  
 __brocade__  
-__ribbed__ _v_  
-__sequins__  
-__writ__  
-__clarion call__  
-__throes__  
-__singling out__  
-__sedition__  
-__defuse__  
-__mollify__ _v_  
-__toiled__ _v_  
-__stiffling__  
-__wedhe issue__  
-__ape__ _v_  
-__mouth__ _v_  
-__Faustian__ _Faustian device._  
-__callous__  
-__sombreros__  
-__bemoaned__  
-__burqa__  
-__yarn du jour__  
-__equaled__ _v_  
-__drowns__ _v_  
-__upended__  
-__staying power__  
-__crank__ _A fringe crank._  
-__stave off__ _v_  
-__genuflects__ _v_  
-__apparatchiks__  
-__buoyant__  
-__pullback__  
-__blithe__  
-__straits__  
-__nuances__  __sublet__ _v_  
-__pro bono consultant__  
-__deterrent__  
-
-__on__ _On the final day._  
-__exact__ _v_  
-__crank out__  
-__mothballed__  
-__grappled__  
-__forefront__  
-__hasty__  
-__wean__ _v_  
-__arbitration__  
-__op-ed__  
-__strenuous__  
-__hurlers__  
-__fathom__ _v_  
-__then again__  
-__stamina__  
-__boogeyman__  
-__jostle anew__  
-__prominent__  
-__grappled__ _v_  
-__scrambles__ _v_  
-__weigh__ _v_ :es: sopesar?  
-__stay put__  
-__rebuff__  
-__ramparts__  
-__defected__  
-__pullback__  
-__downturns__  
-__crackdown__  
-__stay put__  
-__carve out__  
-__legal tack__  
-__crimp__  
-__sitting American president__  
-__clinched__  
-__acrimonious__  
-__smithereens__  
-__bungled__ _v_  
-__scrapped__  
-__beholden__  
-__molten lava__  
-__snub__  
-__bleating__ _v_  
-__gargantuan__  
-__ground zero__  
-__encroachment__  
-__deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
-__fecklessness__  
-__unabated__  
-__grouse__ _v_  
-
-__stop short__  
-__dean__ _n_  
-__bust__ _n_  
-__snide__  
-__grapples_ _v_  
-_v_  
-__snubbed__ _v_  
-__crackle__  
-__water down__  
-__ripped__ _v_  
-__cessation__  
-__imperil__  
-__hard-liners__  
-__herald__ _v_  
-__shelved__ _v_  
-__urbanites__  
-__resumption__ :open_mouth: _n_  
-__unraveling__  
-__sheelling__  
-__milled about__ _v_  
-__quell__ _v_  
-__incumbent__  
-__skimming__  
-__graft__ _Usual wealth, the euphemism for suspected graft, is everywhere._  
-__sedition__  
-__junta__  
-__riddled__  
-__nonchalant__  
-__balked__  
-__meted out__ _v_  
-__relished__  
-__venality__  
-__owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
-__jarring__  
-__defection__
-__flash point__  
-__by the same token__  
-
-__dips__ _n_  
-__bosom__  
-__pinch__  
-__rapprochement__  
-__wielded__  
+__brokered__ _v_  
 __brokered__ _v_ _Negotiations brokered by the Vatican._  
-__fraught__  
-__shunned__  
-__bid rigging__  
-__coattails__  
-__shoulder__ _v_  
-__collusion__  
-__souping up__ _v_  
-__stranglehold__  
-__curtail__ _v_  
-__cough up__ _v_  
-__mollify__  
-__forestall__  
-__fall out of love__  
-__ailment__  
-__short-handed__  
-__reeling__  
-__giddy__  
-__romp__  
-__shutout__  
-__staved off__  
-__door-to-door dash__  
-__wedged__  
-
-__stoked__ _v_  
-__expenditures__  
-__mint bank notes__  
-__coerced__  
-__interdicting__  __domicile__  
-__charted__  
-__envision_
-__alienated__  
-__marquee phone__  
-__thicket__  
-__scraps__ _v_  
-__obligue__ _v_  
-
+__bruited__  
+__bucked__ _v_  
+__bucking the trend__  
 __buckwheats__  
-__wreaked havoc__  
-__pipe tape__  
-__meltdown__  
-__egrets__  
-__dateline__  
-__wary__ _He is wary of the situation._  
-__playbook__  
-__upping__  
-__gambit__  
-__rapprochement__  
-__flak__  
-__tpngue-in-cheek__  
-__riddled__ _v_  
-__wholesaler__  
-__fare__  
-__oitcroppings__  
-__mulled__  
-__scrap__  
-__enact__  
-__dog tag__  
-__canteens__  
-__crossroad__ _At a crossroad._  
-__defectors__  
-__au shops__  
-__relinquish__  
-__undies__  
-__shrift__  
-__childbirth__  
-__table tennos__  
-__hopefuls__  
-__drum__ _v_  
-__His Majesty the Sultan__  
-__mosques__  
-__liquefied__  
-__Forest Recreation Park__  
-____staunch__  
+__buff__ _v_  
+__bultwark__  
+__bumbling__ _v_  
+__bungled__ _v_  
+__bungled__ _v_  
+__bunraku__  
+__buoyant__  
+__burnishing__  
+__burqa__  
+__bust__ _A dusty bust of Shakespeare._  
+__bust__ _n_  
 __bustling__  
+__bustling__  
+__buzzer__ _Durent Durent missed a floater at the buzzer__  
+__by the same token__  
+__bylaws__  
+__cadre__ _n_  
+__call out__ _v_  
+__callous__  
+__canteens__  
+__careening__  
+__careens__ _v_  
 __carnage__  
-__resistance__  
-__trickle__  
-__kindling__  
-__trodden__  
-__anything goes__  
-__shuffle off__  
+__carpet bombing__  
+__carping__ _v_  
+__carve out__  
+__carve out__  
+__carve out__  
+__carve out__ _v_  
+__carved out__  
+__carved out__  
+__cash rebate__  
+__catcalls__ _A pack of men on motorbikes left a wake of catcalls._  
+__caucus__ _Kentucky will hold a Republican caucus on March 5._  
+__cessation__  
+__chafes__ _v_  
+__champ__ Champion?  
+__charade__  
+__charted__  
+__chartered__ _v_  
+__cherry blossoms__ _n_  
+__chicken pox__  
+__chided__ _v_  
+__childbirth__  
+__chiseled__  
+__churning__  
+__cinder-block town__  
+__claim__ _The White Sox claimed the 2005 title._  
+__claimants__  
+__clarion call__  
+__clarion call__  
+__clinch__  
+__clinch__  
+__clinch__  
+__clinched__  
+__clinched__  
+__clods__  
+__clump__ _n_  
+__clunking__  
+__clunky__  
+__coattails__  
+__coerced__  
 __coil__  
-__lavish__  
-__bombastic__  
-__beanstalks__  
+__coincided__ _v_  
+__collard greens__  
+__collusion__  
+__come around__  
+__command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
+__commissioned__  
+__commoditization__ 
+__communiqué__  
+__communiqués__  
+__comply__ _v_  
+__conceded__ _A total of 44 goals scored and 48 conceded last year._  
+__conducive__  
+__confounding__  
+__congenial__  
+__conscripted__  
+__constituency__  
+__contention__ :two:  
+__contention__ _Braintree and Dover are in contention for promotion from the National League._  
+__contentious__  
+__contingency plan__  
+__convened__ _v_  
+__cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
+__couch-ridden__  
+__cough up__ _v_  
+__coveted__  
+__coveted__ _v_  
+__crackdown__  
+__crackdown__  
+__crackdown__  
+__crackdown__  
+__crackle__  
+__crank out__  
+__crank__ _A fringe crank._  
+__credence__  
+__crimp__  
+__cringe__  
+__critters__  
+__crossroad__ _At a crossroad._  
+__crumbling__ _Crumbling sidewalk._  
+__cudgel__  
+__cudgel__  
+__cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
+__curbs__ _n_ Bans?  
+__curmudgeon__  
+__curtail__ _v_  
+__cuttin' a rug__  
+__daft__  
+__dais__  
 __damping__  
 __dampingsystems__  
-__glut__  
-__chided__ _v_  
-
-__wizened__  
-__enmity__  
-__drenched__  
-__hump__  
-__spd__  
-__stinger__  
-__prune-o__  
-__sap__ _n_  
-__swerved__  
-__clump__ _n_  
-__bender__ _His mother was on a bender._  
-__strung out__  
-__sawgrass__  
-__lofty__  
-__gargoyles__  
-__frolic__  
-__rut__  
-__clunking__  
-__trussed__  
-__slash__  
-__bedrolls__  
-__penned up__  
-__critters__  
-__clods__  
-__chiseled__  
+__dangling__  
+__daredevil__  
+__dateline__  
+__dazzling__  
+__deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
+__dean__ _n_  
+__debriefing__  
+__decry__  
+__deep freezers__  
+__defected__  
+__defection__
+__defection__  
+__defectors__  
+__defectors__  
 __deferentially__  
-__bemused__  
-__boughs__  
+__defuse__  
+__deluged__ _v_  
+__demographic__ _n?_  
+__deterrent__  
+__deterrent__  
+__devil-may-care style__  
+__din__ _n_  
+__dips__ _n_  
+__dire__  
+__dis__  
+__disgorgement__  
+__disgruntled__  
+__disgruntled__  
+__disingenuousness__  
+__disparagement__ :two:  
+__dispel__ _v_  
+__dispelled__ _v_  
+__dissent__ _n_  
+__distraught__  
+__divestiture__  
+__divvy up__ _v_  
+__doctored__ _v_ _A photograph doctored by his aides._  
+__dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
+__dog tag__  
+__doglegs__ _v_  
+__dole out__ _v_  
+__door-to-door dash__  
+__dovetails__  
+__downbeat__  
+__downed__ _v_ _Terrorists had downed a Russian plane in October._  
+__downsides__  
+__downturns__  
+__downturns__  
+__draft__ _v_ _Drafting the Defense Ministry's basic policy._  
+__draped__ _v_  
+__drenched__  
+__drowns__ _v_  
+__drum__ _v_  
+__dry spel__  
+__dud__ _v_  
+__duped__ _v_  
+__duplicitous__  
+__duress__  
+__dwindle__ _v_  
+__dwindling__  
+__early-onset__ _Early-onset Alzheimer's disease._  
+__ebbed and flowed__  
+__effigies__  
+__egregious__  
+__egregious__  
+__egrets__  
+__eke out__ _v_  
+__elbowing__ _v_ _Elbowing your way through crowds._  
+__empty box__ _The Etihad is the last empty box on his list._  
+__enact__  
+__encroaching__  
+__encroachment__  
+__endeared__  
+__endearing__  
+__enmity__  
+__ensconced__  
+__enthralling__  
+__entitlement programs__  
+__envision_
+__epitomize__  
+__equaled__ _v_  
+__equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
+__equipped__  
+__ethos__  
+__exact__ _v_  
+__execs__ Executives?  
+__exerted__  
+__expenditures__  
+__extricated__  
+__eyeshades__  
+__faint__ _Not for the faint of heart._  
+__fait accompli__  
+__fall out of love__  
+__falloff__  
+__fallout__  
+__far-flung__  
+__far-flung__  
+__fare__  
+__fared__ _v_  
+__faring__ _v_  
+__fathom__ _v_  
+__fatwa__  
+__fatwa__ Religious edict.   
+__fawning__  
+__fazed__  
+__fealty__  
+__fecklessness__  
+__feint__  
+__fence-mending__  
+__fend off__ _v_  
+__fiddled__ _v_  
+__fielding__  
+__file a case__ _v_  
+__finger prick__ _Blood tests on a microsample from a finger prick._  
+__flag-stop service__  
+__flak__  
+__flameouts__  
+__flanker__ (soccer position)  
+__flash point__  
+__fledgling__ _fledgling entrepreneurs._  
+__floater__  
+__flouts__ _v_  
+__fluke__  
+__flummox__ _v_  
+__flutters__ _v_  
+__fodder__  
+__foosball table__  
+__foot-stomping__  
+__for the sake of__  
+__foragers__  
+__fore__ _n_  
+__foreboding__  
+__foreclose__ _v_  
+__forefront__  
+__forestall__  
+__forestall__  
+__forestall__  
+__forgo__ _v_  
+__fraught__  
+__fray__ _n_  
+__frayed__  
+__frays__ _v_  
+__frolic__  
+__frosh__  
+__fulcrum__  
+__full-fledged__  
+__futility__  
+__gambit__  
+__garb__  
+__gargantuan__  
+__gargoyles__  
+__garner__ _v_  
+__garnered__ _v_  
+__gentry__  
+__genuflects__ _v_  
+__giddy__  
+__gird__ _v_  
+__glut__  
+__gnat__  
+__go over the top__  
+__gonzo__  
+__graft__ _A graft scandal._  
+__graft__ _Usual wealth, the euphemism for suspected graft, is everywhere._  
+__grappled__  
+__grappled__ _v_  
+__grapples_ _v_  
+__grappling__  
+__grappling__  
+__grappling__ _v_  
+__gravitate__ _He gravitated toward politics._  
+__grievously__  
+__groove__ _Shaking her groove._  
+__ground zero__  
+__grouse__ _v_  
+__gruff__  
+__grumbles__ _v_  
+__gunman__  
+__gunman__    
+__gurney__  
+__guzzle__ _v_  
+__hamdbill__ _n_  
+__hapless__  
+__hard-liners__  
+__hardship__  
+__hasty__  
+__head wind__  
+__heatedly__ _Clashed heatedly._  
+__heinous__  
+__helipad__  
+__herald__ _v_  
+__heretofore__  
+__hew__ _v_  
+__hewing__ _v_  
+__heyday__  
+__hike__ _A hike in base wages.__  
+__hitch__ _n_  
+__hobble__ _v_  
+__hold water__  
+__holdout__  
+__honorees__  
+__hoodlums__  
+__hopefuls__  
+__hot-button__  
+__hotbed__ _n_  
+__hubhub__  
+__huff__  
+__hump__  
+__hurdy-gurdy__  
+__hurlers__  
+__hushed__  
+__hymnal__ _The party hymnal._  
+__imperil__  
+__in all likelihood__  
+__in the nude__ _Sleeping in the nude._  
+__in__ _Jubilo scored in injury time__  
+__inconsequential__  
+__incumbent__  
+__indicted__  
+__injuction__  
+__injury time__  
+__intemperance__  
+__interdicting__  __domicile__  
+__ironclad commitment__  
+__jaded__  
+__jams__ _n_  
+__jarring__  
+__jaundiced__  
+__jaunt__ _n_  
+__jitters__ _n_  
+__jolt__ _A spending jolt by the military government._  
+__jostle anew__  
+__jostled anew__  
+__juggernaut__  
+__junta__  
+__junta__  
+__kabuki__  
+__kickback schemes__  
+__kindergartners__  
+__kindling__  
+__knee-jerk response__  
+__knuckleball__  
+__knucklers__  
+__labor bureaus__  
+__lackluster__  
+__lambasted__  
+__landslide__ :two: _I will win the game by a near landslide._  
+__laped pin__  
+__largely__  
+__larger than life__  
+__lavish__  
+__lawmaker__  
+__lawmakers__  
+__leap day__  
+__leap year__  
+__lefty buckets__  
+__legal tack__  
+__legion__ _The reasons you can't sleep well inflight are legion._  
+__lid__ _It should keep a lid on the yen._  
+__lifeline__  
+__linchpin__  
+__liquefied__  
+__litigation__  
+__loans__  
+__lofty__  
+__longing__  
+__lore__  
+__low-slung__ _Low-slung school._  
+__lowlights__  
+__lowly__  
+__madrasas__  
+__madrassas__  
+__maelstrom__  
+__makeshift__ _adj_ :two:  
+__manicured landscape__  
+__mannered__  
+__marathon__ _This is more of a marathon than a sprint._  
+__marquee phone__  
+__marred__ _v_  
+__marred__ _v_  
+__matahara__ Maternity harassment.  
+__mauled__ _v_  
+__measles__  
+__meltdown__  
+__memo__ _A memo sent to reporters._  
+__merriment__ :two:  
+__metal shavings__  
+__meted out__ _v_  
+__metro__ _Her products landed on the shelves of stores in metro Detroit._  
+__mile-a-minute__ _A mile-a-minute talker._  
+__militias__  
+__militias__  
+__milled about__ _v_  
+__mint bank notes__  
+__mired__ _v_  
+__mired__ _v_  
+__misstated__ _v_  
+__mistruths__  
+__mold__ _n_  
+__mollify__  
+__mollify__ _v_  
+__mollusks__  
+__molten lava__  
+__mosques__  
+__mothballed__  
+__mothballed__ _v_  
+__motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
+__mouth__ _v_  
+__mulled__  
+__nasal passages__  
+__newsy__  
+__nibble__ _n_  
+__nigh__  
+__nitpicked__ _v_  
+__nonchalant__  
+__nondescript__  
+__nosebleeds__  
+__nuances__  __sublet__ _v_  
+__nub__ _n_  
+__oatmeal__  
+__obligue__ _v_  
+__obstreperousness__  
+__offset__ _v_  
+__oitcroppings__  
+__omelets__  
+__on__ _On the final day._  
+__op-ed__  
+__ordeal__  
+__ossified__  
+__outfits__ _n_  
+__outfoxed__  
+__outlook__  
+__outpacing__  
+__outrage__  
+__outrageous__  
+__outré__  
+__outsize__  
+__overarching__  
+__overflight__  
+__owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
+__own up__  
+__palatable__  
+__pangs__  
+__panoply__  
+__parlay__  
+__parochial__  
+__pat__  
+__patronage__  
+__pavilions__  
+__pecking order__  
+__penchant__  
+__pennant__ _n_  
+__penned up__  
+__pepper__ _v_ __Five bullet holes peppered the side of one rental town-house._  
+__pertussis__  
+__pervasive__  
+__peter out__  
+__petite__  
 __pewter__  
-__churning__  
-__scrub brush__  
+__phalanx__  
+__philandering__  
+__piecemeal__  
+__pinch-hitter__  
+__pinch__  
+__pink eye__  
+__pipe tape__  
+__pitch__ _We recovered the ball in their side of the pitch after pressing well._  
+__place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
+__plaid__ _Plaid shirt._  
+__plaintiff__  
+__platoon__ _v_  
+__playbook__  
+__playbook__  
+__playwright__  
+__playwright__  
+__pleated__ _v_  
+__plodded__ _v_  
+__plowed__ _A car plowed into pedestrians._  
+__plowed__ _Drivers plowed into oncoming traffic._  
+__plum trees__  
+__plum wine__  
+__ply__ _v_  
+__poach__ _v_  
+__pointed questions__  
+__polarizing__  
+__politburo__  
+__pork rinds__  
+__ppg__ _Sanders is averaging 13.3 ppg._  
+__prance__  
+__prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
+__predate__ _v_  
+__preposterous__  
+__prerogative__  
+__prime-age__  
+__prize purse__ _A prize purse of $1 million._  
+__pro bono consultant__  
+__proffering__  
+__prominent__  
+__promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
+__provenance__  
+__prune-o__  
+__psyche__  
+__puffy__ _Puffy snowflakes._  
+__pullback__  
+__pullback__  
+__purloin__ _v_  
+__put on a clinic__  
+__quandary__ :two:  
+__quashed__ _v_  
+__quay__ _n_  
+__quell__ (quelled) _v_ :four: :shit:  
+__rack up__ _v_  
+__racket__ _v_  
+__racketeering__  
+__rampage__  
+__rampant__  
+__ramparts__  
+__rank and file__  
+__rankled__ _v_  
+__rapprochement__ :two: :shit:  
+__rare news conference__  
+__rarefied__    
+__rattled__ :five: :shit:  
+__ravaged__  
+__razor sharp__  
+__reach out__  
+__rebuff__  
+__reconvenes__ _v_  
+__redress__  
+__reeling__  
+__regrets__ _n_  
+__regulatory muster__  
+__rekindle__ _We must rekindle the fire of idealism in this country._  
+__relief teams__  
+__relinquish__  
+__relished__  
+__renminbi__  
+__repealing__  
+__repent__ _v_  
+__resistance__  
+__respite__  
+__restlessness__  
+__resumption__ :open_mouth: _n_  
+__rethoric__  
+__retrenching_  
+__revenant__  
+__rhinestone cowboy hat__  
+__ribbed__ _v_  
+__riddled__  
+__riddled__ _v_  
+__rife__  
+__rift__ _n_  
+__ripped__ _v_  
+__rock the boat__  
+__romp__  
+__roomed__ _v_  
+__rout__ :two: :shit: _n_  
+__rub elbows__ _v_  
+__rummaging__ _v_  
+__runner-up__ :two: :shit: _Nishikori was runner-up here last season._  
+__runoff water__  
+__runoff__  
+__rut__  
 __sagging__  
+__sandstone__  
+__sap__ _n_  
+__sawgrass__  
+__scant__  
+__scathing__  
+__scrambles__ _v_  
+__scrap__  
+__scrap__ _v_  
+__scrapped__  
+__scrapped__ _v_  
+__scrapping__ _v_  
+__scraps__ _v_  
+__scrub brush__  
+__seafarer__  
+__sedition__  
+__sedition__  
+__sedition__  
+__seediness__  
+__seepage__  
+__seethed__ _v_  
+__sekuhata__ Sexual harassment.  
+__self-effacing__  
+__sentience__  
+__sequins__  
+__sequins__  
+__severance__  
+__shah__ _n_  
+__shantytown__  
+__shaping the bullet__  
+__sheelling__  
+__sheikhs__  
+__shelved__ _v_  
+__shelved__ _v_ _The Supreme Court temporarily shelved his Clean Power Plan._  
+__shiet__  
+__shirk__  
+__shoals__  
+__shogunate__  
+__shore up__ _v_  
+__shoring up__  
+__short-handed__  
+__shortchange__ _v_  
+__shoulder__ _v_  
+__shrift__  
+__shudders__  
+__shuffle off__  
+__shunned__  
+__shutout__  
+__shutouts__ _Hockey_  
+__sidelines__  
+__sidestep__ _v_  
+__singling out__  
+__sitting American president__  
+__sizable__ _Clinton's sizable lead._  
+__skimming__  
+__skirmishes__  
+__slabs__ _Concrete slabs._  
+__slack__ _The rain had slackened._  
+__slander__  
+__slandering__  
+__slash__  
+__sleepwear__ (vs sportswerar, etc.)  
+__slick__ _v_  
+__slip__ _v_ Decrease?  
+__slithering__  
+__slouchy__  
+__sluicing__ _v_  
+__slumming__  
+__sly__ _They're flicking through their smartphone notifications on the sly._  
+__smattering__  
+__smattering__  
+__smear__ _The smear campaign._  
+__smell test__  
+__smithereens__  
+__smothered__  
+__smugness__  
+__snarl__ _v_  
+__snide__  
+__snooty__  
+__snub__  
+__snubbed__ _v_  
+__soldiers__ _v_  
+__sombreros__  
+__souping up__ _v_  
+__spd__  
+__speakeasy__  
+__spigots__  
+__spinster__  
+__spiteful__  
+__splurging__  
+__spruce up__ _v_  
+__sputtering__  
+__sputters__  
+__squat__ _adj_ _A squat gray clinic._  
+__squat__ _v_  
+__staffed__ _v_  
+__stag line__ _n_  
+__stamina__  
+__starch__ _Altitude sickness can take more than the starch out of a person._  
+__startling__  
+__statesman__  
+__stave off__ _v_  
+__staved off__  
+__stay put__  
+__stay put__  
+__staying power__  
+__steadfast__  
+__steep__  
+__steeple__ _n_  
+__steeply__  
+__steeply__  
+__stew__ _n_  
+__stiffle__ _v_  
+__stiffling__  
+__stifling__  
+__stifling__  
+__stifling__ _v_  
+__stinger__  
+__stoke__ _v_  
+__stoked__  
+__stoked__  
+__stoked__ _v_  
+__stoking__  
+__stoking__ :two:  
+__stop short__  
+__stop short__  
+__stop short__ _v_  
+__storied__ _Storied market._  
+__strain__  
+__straining__ _v_  
+__straits__  
+__stranglehold__  
+__streaming__ _Streaming eyes._  
+__streamlined__ _v_ _Streamlined ship._  
+__strenuous__  
+__strictures__  
+__strife__  
+__stringent__  
+__strung out__  
+__stuck a chord__  
+__studded__  
+__studded__ _v_  
+__stunned__  
+__stymie__ _v_  
+__stymied__  
+__stymied__  
+__stymied__ :two:  
+__subpoena__  
+__subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
+__subsided__ _v_  
+__subsidy__  
+__substation__  
+__sultanate__  
+__surmount__ _v_  
+__surreptitiously__  
+__swamped__ _v_  
+__swath__  
+__sway__  
+__sway__ _v_  
+__swayed__ _v_  
+__sweatpants__  
+__sweethearts__  
+__swerved__  
+__swerving__  
+__swerving__  
+__swooped__ :two:  
+__syrupy__  
+__table tennos__  
+__tack__ Tactics?  
+__tag along__ _v_  
+__take a stand__  
+__take by storm__  
+__takeout containers__  
+__tatters__ _Its reputation is in tatters._  
+__tenuous__  
+__the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
+__then again__  
+__theocracy__  
+__there is no denying__  
+__thick and thin__ _Supporters ready to back them through thick and thin._  
+__thicket__  
+__thicket__  
+__think tank__ :two:  
+__thrash__ _v_  
+__throes__  
+__throw out the red meat__  
+__thug__  
+__ticklish__  
+__tie-up__ _n_  
+__tightknit__  
+__tipoff__  
+__toeing__ _v_  
+__toiled__ _v_  
+__top flight__ First division?  
+__touch and go__  
+__tough cookie__  
+__tow__ _Cameras in tow._  
+__tpngue-in-cheek__  
+__trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
+__trainees__ :es: aprendiz?  
+__trample__ _v_  
+__trampling__  
+__trickle-down__  
+__trickle__  
+__trodden__  
+__trounced__  
+__trussed__  
+__tuk-tuk__  
+__tussle__  
+__tussle__  
+__tussled__ _v_  
+__tussling__  
+__unabated__  
+__under one's belt__  
+__undies__  
+__unduly__  
+__unraveling__  
+__up-and-comer__  
+__upend__  
+__upended__  
+__upended__  
+__upended__  
+__upended__ _v_ _The earthquake upended the nation last week._  
+__upending__  
+__upending__  
+__upheld__  
+__upheld__  
+__uphill battle__  
+__uphold__  
+__upping__  
+__uptick__ _n_  
+__urbanites__  
+__velvet rope__  
+__venality__  
+__venomous__  
+__ventilator__ :open_mouth: _med_  
+__viciously__  
+__victor__  
+__vistas__  
+__vying__  
+__vying__  
+__vying__  
+__vying__  
+__wade__ _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
+__waive__ _v_  
+__waive__ _v_  
+__warehousing__  
+__wariness__  
+__wary__ _He is wary of the situation._  
+__water down__  
+__watershed__ _Dignataries recognized the watershed moment pf his passing._  
+__wean__ _v_  
+__weaned__ _v_  
+__wedge__  
+__wedged__  
+__wedhe issue__  
+__wedlock__  
+__weigh__ _v_ :es: sopesar?  
+__while__ _v_ _To while away the hours drinking vodka._  
+__whimper__ _n_  
+__whippersnapper__  
+__whitehot__  
+__wholesale__  
+__wholesaler__  
+__wicket__  
+__wielded__  
+__wilting__ _adj_?  
+__wimpiness__  
+__winced__  
+__windfall__  
+__wisdom tooth__  
+__wither__ _v_  
+__wizened__  
+__wonk__ _n_  
+__wooly__  
+__wording__ _n_  
+__wreaked havoc__  
+__writ__  
+__yakuza__  
+__yardstick__  
+__yarn du jour__  
+__yips__  
+__yore__ _Days of yore._  
+__rebuke__ _n_  
+__swooning__  
+__putting aside__  
 
 __BBs__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
