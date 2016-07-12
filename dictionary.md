@@ -15,17 +15,17 @@ __B & E__
 __Britons__  
 __Chancellor__  
 __Concacaf__  
-__Empress__  
+__Empress__  
 __Faustian__ _Faustian device._  
 __Forest Recreation Park__  
 __His Majesty the Sultan__  
-__Jewry__  
+__Jewry__  
 __Seven Dwarf status__ 
 __V-E Day__  
 __jolt__ _n_ _It was a jolt of good news._  
 __staunch__  
 __abuzz__  
-__accord__ _Postponed the signing of an accord._  
+__accord__ _Postponed the signing of an accord._  
 __accrue__ _v_  
 __acrimonious__  
 __acuity__  
@@ -42,12 +42,9 @@ __almost surel__ _Apple almost surely will succeed in upgrading its security._
 __altitude sickness__  
 __amenity kits__  
 __amity__  
-__anathema__  
-__anathema__  
-__anathema__  
+__anathema__ :three: :shit:  
 __ancillary__  
-__anew__  
-__anew__  
+__anew__ :two: :shit:  
 __angling__  
 __angsty__  
 __anguish__  
@@ -56,8 +53,7 @@ __anything goes__
 __ape__ _v_  
 __apostasy__  
 __apparatchiks__  
-__arbitration clause__  
-__arbitration__  
+__arbitration__ _Arbitration clause._  
 __arms embargo__  
 __arms race__  
 __assists__ _Green had 14 rebounds and nine assists._  
@@ -71,7 +67,7 @@ __baby bump__ _Dressing your baby bump._
 __back-heel pass__  
 __balked__  
 __balked__  
-__balloon-lined car dealership__  
+__balloon-lined__ _Balloon-lined car dealership._  
 __bane__ _n_  
 __bankrollers__  
 __barring__  
@@ -87,21 +83,20 @@ __beguiling__
 __beholden__  
 __being let go__ _His mother was let go at the plant in 2006._  
 __belittled__  
-__bemoan__ _v_  
+__bemoan__ _v_  
 __bemoaned__  
 __bemused__  
 __bender__ _His mother was on a bender._  
 __bento__ Boxed meals.  
 __berth__ _Sho Sakai secured an Olympic berth._  
 __bestow__ _v_  
-__bewitch__ _v_ _:es: maravillar?  
+__bewitch__ _v_ :es: maravillar?  
 __bid rigging__  
 __birdbrain__  
-__black smoke__  
+__black smoke__  
 __blackening__  
 __blanket__  
-__blanketed__  
-__blanketing__  
+__blanketed__ (blanketing) :two: :shit:  
 __blaze of glory__  
 __bleating__ _v_  
 __blithe__  
@@ -112,9 +107,8 @@ __boards__ _Green finished with 10 points and 11 boards for the warriors._
 __bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  
 __bog__ _n_  
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
-__bolster__ _v_  
-__bolstered__  
-__bombast__  
+__bolster__ (bolstered) :two: :shit: _v_  
+__bombast__  
 __bombastic__  
 __bona fide__  
 __boogeyman__  
@@ -131,7 +125,7 @@ __brazen__
 __brazenly__  
 __brazer__  
 __breach__  
-__breakdown__ _Population breakdown._  
+__breakdown__ _Population breakdown._  
 __breakout__  
 __bric-a-brac stores__  
 __bristle__ _v_  
@@ -146,8 +140,7 @@ __buckwheats__
 __buff__ _v_  
 __bultwark__  
 __bumbling__ _v_  
-__bungled__ _v_  
-__bungled__ _v_  
+__bungled__ :two: :shit: _v_  
 __bunraku__  
 __buoyant__  
 __burnishing__  
@@ -157,12 +150,11 @@ __bustling__ :two: :shit:
 __buzzer__ _Durent Durent missed a floater at the buzzer__  
 __by the same token__  
 __bylaws__  
-__cadre__ _n_  
+__cadre__ _n_  
 __call out__ _v_  
 __callous__  
 __canteens__  
-__careening__  
-__careens__ _v_  
+__careens__ (careening) :two: :shit: _v_  
 __carnage__  
 __carpet bombing__  
 __carping__ _v_  
@@ -175,8 +167,8 @@ __chafes__ _v_
 __champ__ Champion?  
 __charade__  
 __charted__  
-__chartered__ _v_  
-__cherry blossoms__ _n_  
+__chartered__ _v_  
+__cherry blossoms__ _n_  
 __chicken pox__  
 __chided__ _v_  
 __childbirth__  
@@ -204,17 +196,16 @@ __collard greens__
 __collusion__  
 __come around__  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
-__commissioned__  
-__commoditization__ 
-__communiqué__  
-__communiqués__  
+__commissioned__  
+__commoditization__  
+__communiqué__ (communiqués) :two: :shit:  
 __comply__ _v_  
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
 __conducive__  
-__confounding__  
-__congenial__  
+__confounding__  
+__congenial__  
 __conscripted__  
-__constituency__  
+__constituency__  
 __contention__ :two:  
 __contention__ _Braintree and Dover are in contention for promotion from the National League._  
 __contentious__  
@@ -225,30 +216,25 @@ __couch-ridden__
 __cough up__ _v_  
 __coveted__  
 __coveted__ _v_  
-__crackdown__  
-__crackdown__  
-__crackdown__  
-__crackdown__  
+__crackdown__ :four: :shit:  
 __crackle__  
 __crank out__  
 __crank__ _A fringe crank._  
 __credence__  
 __crimp__  
-__cringe__  
+__cringe__  
 __critters__  
 __crossroad__ _At a crossroad._  
 __crumbling__ _Crumbling sidewalk._  
-__cudgel__  
-__cudgel__  
+__cudgel__ :two: :shit:  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __curbs__ _n_ Bans?  
-__curmudgeon__  
+__curmudgeon__  
 __curtail__ _v_  
 __cuttin' a rug__  
 __daft__  
 __dais__  
-__damping__  
-__dampingsystems__  
+__damping__ :two: :shit: _Damping systems._  
 __dangling__  
 __daredevil__  
 __dateline__  
@@ -259,25 +245,22 @@ __debriefing__
 __decry__  
 __deep freezers__  
 __defected__  
-__defection__
-__defection__  
+__defection__ :two: :shit:  
 __defectors__ :two: :shit:  
 __deferentially__  
 __defuse__  
 __deluged__ _v_  
 __demographic__ _n?_  
-__deterrent__  
-__deterrent__  
+__deterrent__ :two: :shit:  
 __devil-may-care style__  
 __din__ _n_  
 __dips__ _n_  
 __dire__  
 __dis__  
 __disgorgement__  
-__disgruntled__  
-__disgruntled__  
+__disgruntled__ :two: :shit:  
 __disingenuousness__  
-__disparagement__ :two:  
+__disparagement__ :two:  
 __dispel__ _v_  
 __dispelled__ _v_  
 __dissent__ _n_  
@@ -291,12 +274,11 @@ __doglegs__ _v_
 __dole out__ _v_  
 __door-to-door dash__  
 __dovetails__  
-__downbeat__  
+__downbeat__  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downsides__  
-__downturns__  
-__downturns__  
-__draft__ _v_ _Drafting the Defense Ministry's basic policy._  
+__downturns__ :two: :shit:  
+__draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __draped__ _v_  
 __drenched__  
 __drowns__ _v_  
@@ -306,16 +288,14 @@ __dud__ _v_
 __duped__ _v_  
 __duplicitous__  
 __duress__  
-__dwindle__ _v_  
-__dwindling__  
+__dwindle__ (dwindling) :two: :shit: _v_  
 __early-onset__ _Early-onset Alzheimer's disease._  
 __ebbed and flowed__  
 __effigies__  
-__egregious__  
-__egregious__  
+__egregious__ :two: :shit:  
 __egrets__  
 __eke out__ _v_  
-__elbowing__ _v_ _Elbowing your way through crowds._  
+__elbowing__ _v_ _Elbowing your way through crowds._  
 __empty box__ _The Etihad is the last empty box on his list._  
 __enact__  
 __encroaching__  
@@ -324,7 +304,7 @@ __endeared__
 __endearing__  
 __enmity__  
 __ensconced__  
-__enthralling__  
+__enthralling__  
 __entitlement programs__  
 __envision_
 __epitomize__  
@@ -344,7 +324,7 @@ __fall out of love__
 __falloff__  
 __fallout__  
 __far-flung__  
-__far-flung__  
+__far-flung__  
 __fare__  
 __fared__ _v_  
 __faring__ _v_  
@@ -382,10 +362,8 @@ __fore__ _n_
 __foreboding__  
 __foreclose__ _v_  
 __forefront__  
-__forestall__  
-__forestall__  
-__forestall__  
-__forgo__ _v_  
+__forestall__ :three: :shit:  
+__forgo__ _v_  
 __fraught__  
 __fray__ _n_  
 __frayed__  
@@ -393,7 +371,7 @@ __frays__ _v_
 __frolic__  
 __frosh__  
 __fulcrum__  
-__full-fledged__  
+__full-fledged__  
 __futility__  
 __gambit__  
 __garb__  
@@ -419,7 +397,7 @@ __grappling__
 __grappling__ _v_  
 __gravitate__ _He gravitated toward politics._  
 __grievously__  
-__groove__ _Shaking her groove._  
+__groove__ _Shaking her groove._  
 __ground zero__  
 __grouse__ _v_  
 __gruff__  
@@ -435,13 +413,13 @@ __hasty__
 __head wind__  
 __heatedly__ _Clashed heatedly._  
 __heinous__  
-__helipad__  
+__helipad__  
 __herald__ _v_  
 __heretofore__  
-__hew__ _v_  
+__hew__ _v_  
 __hewing__ _v_  
 __heyday__  
-__hike__ _A hike in base wages.__  
+__hike__ _A hike in base wages._  
 __hitch__ _n_  
 __hobble__ _v_  
 __hold water__  
@@ -457,7 +435,7 @@ __hump__
 __hurdy-gurdy__  
 __hurlers__  
 __hushed__  
-__hymnal__ _The party hymnal._  
+__hymnal__ _The party hymnal._  
 __imperil__  
 __in all likelihood__  
 __in the nude__ _Sleeping in the nude._  
@@ -468,12 +446,13 @@ __indicted__
 __injuction__  
 __injury time__  
 __intemperance__  
-__interdicting__  __domicile__  
-__ironclad commitment__  
+__interdicting__  
+__domicile__  
+__ironclad commitment__  
 __jaded__  
 __jams__ _n_  
 __jarring__  
-__jaundiced__  
+__jaundiced__  
 __jaunt__ _n_  
 __jitters__ _n_  
 __jolt__ _A spending jolt by the military government._  
@@ -490,21 +469,20 @@ __knee-jerk response__
 __knuckleball__  
 __knucklers__  
 __labor bureaus__  
-__lackluster__  
+__lackluster__  
 __lambasted__  
-__landslide__ :two: _I will win the game by a near landslide._  
+__landslide__ :two: _I will win the game by a near landslide._  
 __laped pin__  
 __largely__  
 __larger than life__  
 __lavish__  
-__lawmaker__  
-__lawmakers__  
+__lawmaker__ (lawmakers) :two: :shit:  
 __leap day__  
 __leap year__  
 __lefty buckets__  
 __legal tack__  
 __legion__ _The reasons you can't sleep well inflight are legion._  
-__lid__ _It should keep a lid on the yen._  
+__lid__ _It should keep a lid on the yen._  
 __lifeline__  
 __linchpin__  
 __liquefied__  
@@ -517,10 +495,10 @@ __low-slung__ _Low-slung school._
 __lowlights__  
 __lowly__  
 __madrasas__  
-__madrassas__  
+__madrassas__  
 __maelstrom__  
 __makeshift__ _adj_ :two:  
-__manicured landscape__  
+__manicured landscape__  
 __mannered__  
 __marathon__ _This is more of a marathon than a sprint._  
 __marquee phone__  
@@ -532,26 +510,22 @@ __measles__
 __meltdown__  
 __memo__ _A memo sent to reporters._  
 __merriment__ :two:  
-__metal shavings__  
+__metal shavings__  
 __meted out__ _v_  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __mile-a-minute__ _A mile-a-minute talker._  
-__militias__  
-__militias__  
+__militias__ :two: :shit:  
 __milled about__ _v_  
 __mint bank notes__  
-__mired__ _v_  
-__mired__ _v_  
+__mired__ :two: :shit: _v_  
 __misstated__ _v_  
 __mistruths__  
 __mold__ _n_  
-__mollify__  
-__mollify__ _v_  
+__mollify__ :two: :shit: _v_  
 __mollusks__  
 __molten lava__  
 __mosques__  
-__mothballed__  
-__mothballed__ _v_  
+__mothballed__ :two: :shit: _v_  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __mouth__ _v_  
 __mulled__  
@@ -561,19 +535,20 @@ __nibble__ _n_
 __nigh__  
 __nitpicked__ _v_  
 __nonchalant__  
-__nondescript__  
+__nondescript__  
 __nosebleeds__  
-__nuances__  __sublet__ _v_  
+__nuances__  
+__sublet__ _v_  
 __nub__ _n_  
 __oatmeal__  
 __obligue__ _v_  
 __obstreperousness__  
 __offset__ _v_  
-__oitcroppings__  
+__outcroppings__  
 __omelets__  
 __on__ _On the final day._  
 __op-ed__  
-__ordeal__  
+__ordeal__  
 __ossified__  
 __outfits__ _n_  
 __outfoxed__  
@@ -593,7 +568,7 @@ __panoply__
 __parlay__  
 __parochial__  
 __pat__  
-__patronage__  
+__patronage__  
 __pavilions__  
 __pecking order__  
 __penchant__  
@@ -601,7 +576,7 @@ __pennant__ _n_
 __penned up__  
 __pepper__ _v_ __Five bullet holes peppered the side of one rental town-house._  
 __pertussis__  
-__pervasive__  
+__pervasive__  
 __peter out__  
 __petite__  
 __pewter__  
@@ -615,17 +590,17 @@ __pipe tape__
 __pitch__ _We recovered the ball in their side of the pitch after pressing well._  
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __plaid__ _Plaid shirt._  
-__plaintiff__  
+__plaintiff__  
 __platoon__ _v_  
 __playbook__ :two: :shit:  
-__playwright__ :two: :shit:  
+__playwright__ :two: :shit:  
 __pleated__ _v_  
 __plodded__ _v_  
 __plowed__ _A car plowed into pedestrians._  
 __plowed__ _Drivers plowed into oncoming traffic._  
 __plum trees__  
 __plum wine__  
-__ply__ _v_  
+__ply__ _v_  
 __poach__ _v_  
 __pointed questions__  
 __polarizing__  
@@ -638,7 +613,7 @@ __predate__ _v_
 __preposterous__  
 __prerogative__  
 __prime-age__  
-__prize purse__ _A prize purse of $1 million._  
+__prize purse__ _A prize purse of $1 million._  
 __pro bono consultant__  
 __proffering__  
 __prominent__  
@@ -653,13 +628,13 @@ __purloin__ _v_
 __put on a clinic__  
 __quandary__ :two:  
 __quashed__ _v_  
-__quay__ _n_  
+__quay__ _n_  
 __quell__ (quelled) _v_ :four: :shit:  
 __rack up__ _v_  
 __racket__ _v_  
 __racketeering__  
 __rampage__  
-__rampant__  
+__rampant__  
 __ramparts__  
 __rank and file__  
 __rankled__ _v_  
@@ -714,7 +689,7 @@ __scant__
 __scathing__  
 __scrambles__ _v_  
 __scrap__  
-__scrap__ _v_  
+__scrap__ _v_  
 __scrapped__  
 __scrapped__ _v_  
 __scrapping__ _v_  
@@ -724,7 +699,7 @@ __seafarer__
 __sedition__  
 __sedition__  
 __sedition__  
-__seediness__  
+__seediness__  
 __seepage__  
 __seethed__ _v_  
 __sekuhata__ Sexual harassment.  
@@ -734,7 +709,7 @@ __sequins__
 __sequins__  
 __severance__  
 __shah__ _n_  
-__shantytown__  
+__shantytown__  
 __shaping the bullet__  
 __sheelling__  
 __sheikhs__  
@@ -742,7 +717,7 @@ __shelved__ :two: :shit: _v_ _The Supreme Court temporarily shelved his Clean Po
 __shiet__  
 __shirk__  
 __shoals__  
-__shogunate__  
+__shogunate__  
 __shore up__ _v_  
 __shoring up__  
 __short-handed__  
@@ -761,10 +736,10 @@ __sitting American president__
 __sizable__ _Clinton's sizable lead._  
 __skimming__  
 __skirmishes__  
-__slabs__ _Concrete slabs._  
+__slabs__ _Concrete slabs._  
 __slack__ _The rain had slackened._  
 __slander__  
-__slandering__  
+__slandering__  
 __slash__  
 __sleepwear__ (vs sportswerar, etc.)  
 __slick__ _v_  
@@ -828,7 +803,7 @@ __stoked__
 __stoked__  
 __stoked__ _v_  
 __stoking__  
-__stoking__ :two:  
+__stoking__ :two:  
 __stop short__  
 __stop short__  
 __stop short__ _v_  
@@ -838,7 +813,7 @@ __straining__ _v_
 __straits__  
 __stranglehold__  
 __streaming__ _Streaming eyes._  
-__streamlined__ _v_ _Streamlined ship._  
+__streamlined__ _v_ _Streamlined ship._  
 __strenuous__  
 __strictures__  
 __strife__  
@@ -884,7 +859,7 @@ __the skinny__ Confidential information on a particular person or topic. _Net ma
 __then again__  
 __theocracy__  
 __there is no denying__  
-__thick and thin__ _Supporters ready to back them through thick and thin._  
+__thick and thin__ _Supporters ready to back them through thick and thin._  
 __thicket__  
 __thicket__  
 __think tank__ :two:  
@@ -899,18 +874,18 @@ __tipoff__
 __toeing__ _v_  
 __toiled__ _v_  
 __top flight__ First division?  
-__touch and go__  
+__touch and go__  
 __tough cookie__  
 __tow__ _Cameras in tow._  
 __tpngue-in-cheek__  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
-__trainees__ :es: aprendiz?  
+__trainees__ :es: aprendiz?  
 __trample__ _v_  
 __trampling__  
 __trickle-down__  
 __trickle__  
 __trodden__  
-__trounced__  
+__trounced__  
 __trussed__  
 __tuk-tuk__  
 __tussle__ (tussled, tussling) :four: :shit: _v_  
@@ -936,15 +911,15 @@ __uptick__ _n_
 __urbanites__  
 __velvet rope__  
 __venality__  
-__venomous__  
+__venomous__  
 __ventilator__ :open_mouth: _med_  
 __viciously__  
 __victor__  
-__vistas__  
+__vistas__  
 __vying__  
 __vying__  
 __vying__  
-__vying__  
+__vying__  
 __wade__ _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __waive__ _v_  
 __waive__ _v_  
@@ -952,7 +927,7 @@ __warehousing__
 __wariness__  
 __wary__ _He is wary of the situation._  
 __water down__  
-__watershed__ _Dignataries recognized the watershed moment pf his passing._  
+__watershed__ _Dignataries recognized the watershed moment pf his passing._  
 __wean__ _v_  
 __weaned__ _v_  
 __wedge__  
@@ -973,7 +948,7 @@ __wimpiness__
 __winced__  
 __windfall__  
 __wisdom tooth__  
-__wither__ _v_  
+__wither__ _v_  
 __wizened__  
 __wonk__ _n_  
 __wooly__  
