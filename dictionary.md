@@ -103,8 +103,6 @@ __blanket__
 __blanketed__  
 __blanketing__  
 __blaze of glory__  
-__bleak__  
-__bleak__ _adj_  
 __bleating__ _v_  
 __blithe__  
 __bloc__  
@@ -154,10 +152,8 @@ __bunraku__
 __buoyant__  
 __burnishing__  
 __burqa__  
-__bust__ _A dusty bust of Shakespeare._  
-__bust__ _n_  
-__bustling__  
-__bustling__  
+__bust__ :two: :shit: _n_ _A dusty bust of Shakespeare._  
+__bustling__ :two: :shit:  
 __buzzer__ _Durent Durent missed a floater at the buzzer__  
 __by the same token__  
 __bylaws__  
@@ -170,12 +166,7 @@ __careens__ _v_
 __carnage__  
 __carpet bombing__  
 __carping__ _v_  
-__carve out__  
-__carve out__  
-__carve out__  
-__carve out__ _v_  
-__carved out__  
-__carved out__  
+__carve out__ (carved out) :six: :shit: _v_  
 __cash rebate__  
 __catcalls__ _A pack of men on motorbikes left a wake of catcalls._  
 __caucus__ _Kentucky will hold a Republican caucus on March 5._  
@@ -270,8 +261,7 @@ __deep freezers__
 __defected__  
 __defection__
 __defection__  
-__defectors__  
-__defectors__  
+__defectors__ :two: :shit:  
 __deferentially__  
 __defuse__  
 __deluged__ _v_  
@@ -434,8 +424,7 @@ __ground zero__
 __grouse__ _v_  
 __gruff__  
 __grumbles__ _v_  
-__gunman__  
-__gunman__    
+__gunman__ :two: :shit:  
 __gurney__  
 __guzzle__ _v_  
 __hamdbill__ _n_  
@@ -628,10 +617,8 @@ __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men
 __plaid__ _Plaid shirt._  
 __plaintiff__  
 __platoon__ _v_  
-__playbook__  
-__playbook__  
-__playwright__  
-__playwright__  
+__playbook__ :two: :shit:  
+__playwright__ :two: :shit:  
 __pleated__ _v_  
 __plodded__ _v_  
 __plowed__ _A car plowed into pedestrians._  
@@ -699,7 +686,6 @@ __repent__ _v_
 __resistance__  
 __respite__  
 __restlessness__  
-__resumption__ :open_mouth: _n_  
 __rethoric__  
 __retrenching_  
 __revenant__  
@@ -752,8 +738,7 @@ __shantytown__  
 __shaping the bullet__  
 __sheelling__  
 __sheikhs__  
-__shelved__ _v_  
-__shelved__ _v_ _The Supreme Court temporarily shelved his Clean Power Plan._  
+__shelved__ :two: :shit: _v_ _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shiet__  
 __shirk__  
 __shoals__  
@@ -928,10 +913,7 @@ __trodden__
 __trounced__  
 __trussed__  
 __tuk-tuk__  
-__tussle__  
-__tussle__  
-__tussled__ _v_  
-__tussling__  
+__tussle__ (tussled, tussling) :four: :shit: _v_  
 __unabated__  
 __under one's belt__  
 __undies__  
@@ -1323,7 +1305,7 @@ __blackjack__
 __bland__ _He had a bland voice to go with his bland face._  
 __blanket__ _The security blanket._  
 __blather__  
-__bleak__ :four: _adj_ __1__ (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ (of the weather) Cold and miserable. _A bleak midwinter's day._ _Syn_ cold, keen, raw, harsh, wintry  
+__bleak__ :six: _adj_ __1__ (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ (of the weather) Cold and miserable. _A bleak midwinter's day._ _Syn_ cold, keen, raw, harsh, wintry  
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleated__ _His walkie-talkie bleated._  
 __bleed blue__  
@@ -3283,7 +3265,7 @@ __respite__ :two: :shit: _n_
 __respondent__  
 __restive__  
 __restraint__ :two: :shit: _n_  
-__resumption__ _A possible resumption of talks between those countries._  
+__resumption__ :open_mouth: :two: :shit: _n_ _A possible resumption of talks between those countries._  
 __retrain__ _v_  
 __retread__  
 __returnee__  
