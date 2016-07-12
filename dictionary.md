@@ -1269,7 +1269,7 @@ __auburn__
 __autoclaving__  
 __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
-__avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) → diversión f, distracción f; (= employment) → vocación_  
+__avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avuncular__ :two: :shit:  
 __awash__ :three: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
@@ -1440,7 +1440,7 @@ __bona fide__ :two: :shit:
 __bondage__  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
 __bone spurs__  
-__bone → funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
+__bone > funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone__ _I have a bone to pick with Clete Purcel._  
 __bonfire__  
 __bonobo__  
@@ -1613,7 +1613,7 @@ __chastize__ _v_
 __cheekboned__  _High-cheekboned newbies.;-_  
 __cheesy__ :two: _Informal_ Cheap and of low quality. _Cheesy motel rooms._    
 __chewed up__  
-__chicken → game of chicken__  
+__chicken > game of chicken__  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chip-in__  
@@ -1661,7 +1661,7 @@ __clods__
 __close > not even close__  
 __clot__  
 __cloture__  
-__cloud → to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
+__cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __clout__ :six: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __cloying__ _She is cordial without being cloying._  
 __cluck__  
@@ -1763,7 +1763,7 @@ __crewcats__
 __crib__ :two: :shit: _n_  
 __crimp__ (crimped) :five: _v_ To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimson__ _Crimson cereal._  
-__cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear → encogerse de miedo; to cringe with embarrassment → morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe → me da horror_  
+__cringe__ :two: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe > me da horror_  
 __crinkling__  
 __crippling__ :two: :shit: _Crippling drought._  
 __crisper__ _Our dishes and crisper trays._  
@@ -1803,7 +1803,7 @@ __curtailment__
 __curtly__  
 __cusp__ :two: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ _Other kids cussed in front of their parents._  
-__customer → tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
+__customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __cut me a little slack__  
 __cut-and-dry task__  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
@@ -2050,7 +2050,7 @@ __entourage__
 __entrench__ (entrenched) _v_ Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ :three: _adj_ (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entwined__  
-__envelope → push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
+__envelope > push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
 __ephemeral__  
 __epidemic__ _n_ Notice: _n_!  
 __epithet__  
@@ -2173,7 +2173,7 @@ __floodgate__
 __floodlamps__  
 __flop__ _v_  
 __flopper__ :two: :shit:  
-__floppy → floppy socks__  
+__floppy > floppy socks__  
 __florid__  
 __flotilla__  
 __flotsam__  
@@ -2300,7 +2300,7 @@ __gloating__
 __glob__ :two: :shit: _A glob of spit._  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __glowering__  
-__glue → a glue-type player__  
+__glue > a glue-type player__  
 __glut__ :two: :shit:  
 __gnarled__ _v_  
 __gnaw__ (gnawed, gnaw out) :three: /nɔː/ _v_ To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._  
@@ -2500,7 +2500,7 @@ __horse race__
 __hoss__  
 __hot-rodder__  
 __hotbed__  
-__house → take it to the house__  
+__house > take it to the house__  
 __housing__  
 __hubby__  
 __hubcaps__  
@@ -2638,7 +2638,7 @@ __kindred spirits__ :es: almas gemelas
 __king of the hill__  
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kinks__  
-__kiosk → pharmacy kiosk__  
+__kiosk > pharmacy kiosk__  
 __kischy__  
 __kismet__  
 __kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
@@ -2677,9 +2677,9 @@ __lanky__
 __larceny__ :three: _n_ Theft of personal property. :es: hurto  
 __larger-than-life__ :three: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lash out__  
-__last → next to last__  
+__last > next to last__  
 __latchkey__  
-__late → of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
+__late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __laughingstock__  
 __lavish__  
 __law of the land__  
@@ -2742,7 +2742,7 @@ __loafers__ :two: :shit:
 __lob__  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __lockout__ _N.J. residents upset over island lockout._  
-__locks → alcohol ignition locks__  
+__locks > alcohol ignition locks__  
 __lockstep__  
 __locust__  
 __loftily__  
@@ -3409,7 +3409,7 @@ __rooster__
 __root beer__  
 __rope-a-dope__  
 __roster__ _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
-__rough → the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
+__rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __round out__  
 __rout__ :two: :shit:  
 __rowdy__ :five: /ˈraʊdi/ _adj_ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
@@ -3517,8 +3517,8 @@ __scuzzy__
 __seabed__  
 __seafaring__  
 __seahawk__ ?  
-__sear__ (searing) :two: _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) → secar, marchitar (Med) → cauterizar; (pain etc) → punzar; (= scorch) → chamuscar, quemar_  
-__searing → searing work__  
+__sear__ (searing) :two: _v_ __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar_  
+__searing > searing work__  
 __searing__  
 __seawall__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
@@ -3880,7 +3880,7 @@ __stray__ :two: :shit: _A stray word._ _Stray friends._
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streamline__ (streamlining)  
 __streamline__ _v_ _Streamlining regulations._  
-__strep → strep throat__ :two: :shit: _Maybe strepsils is derived from strep (throat)._  
+__strep > strep throat__ :two: :shit: _Maybe strepsils is derived from strep (throat)._  
 __stretch__ :two: :shit: _An interesting stretch run in the NFC._  
 __strewed__ _v_  
 __strewn__ :four: :shit:  
@@ -4047,7 +4047,7 @@ __tix__ Tickets?
 __tixker__  
 __to his name__ _Bernie died with $1.09 to his name._  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
-__toast → French toast__  
+__toast > French toast__  
 __toe-curling__  
 __toe-toppers__  
 __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
@@ -4114,7 +4114,7 @@ __trustees__ _Board of Trustees_
 __trusties__  
 __tryst__  
 __tubbing up__ _I keep tubbing up._  
-__tube → shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
+__tube > shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
 __tuck away__  
 __tucked__  
 __tulle__  _Tulle-covered arch._  
@@ -4327,7 +4327,7 @@ __winsome__
 __winterkill__  
 __wintry__ :two: _adj_ :es: invernal  
 __wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
-__wire → getting down to the wire__  
+__wire > getting down to the wire__  
 __wire-to-wire__ :two: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wishful thinking__  
 __wisp__ _A wisp of dust._  
