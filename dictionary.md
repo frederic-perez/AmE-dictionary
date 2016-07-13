@@ -8,97 +8,96 @@ __Achilles heel__ A weakness or vulnerable point.
 
 
 
-__duffer__ _n_  
-__crinkle__ _v_  
-__guile__  
-__wisps__  
-__scope out__ _v_  
-__dazzling__  
-__wimpy__ _adj_  
-__motley__  
-__Sin City__  
-__maternity leave__  
-__subletting__ _v_  
-__office drones__ _Sara and I met as office drones in 1999._  
-__respite__ _n_  
-__bedrock__  
-__succor__  
-__ballast__  
-__upheaval__  
-__pliant__  
-__thrum__  
-__gleaning__  
-__compasionate__  
-__haplessness__  
+__French doors__  
+__Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.
 __aground__  
-__gun-shy__  
-__coiffed__  
-__hew__ _v_  
-__spiteful__  
-__fumed__ _v_  
-__gaping__ _v_  
-__cragginess__  
-__blemishes__  
-__hirsutism__  
-__quickening__  
-__smudge__  
-__seaweed__  
-__bowie knife__  
-__scabbard__  
-__scudded__ _v_  
-__maim__ _v_  
-__concertina wire__  
-__catfish__  
 __anvil__  
-__gaff__ _n_  
-__gunwhale__ :two: :shit:  
-__prongs__ _n_  
-__mover__ _n_  
-__bejeweled__ _v_  
-__thespian__  
-__epicurean__  
-__freebies__ _n_  
+__ballast__  
+__bedrock__  
 __beignets__  
-__desk blotter__  
-__cuss__ :two: :shit: _v_  
-__spittoon__  
-__wadded__ _v_  
-__lathered__ _v_  
-__pirogue__  
-__moccasin__  
+__bejeweled__ _v_  
+__blemishes__  
 __blotting__ _v_  
-__nape__ _n_  
+__bowie knife__  
+__brooder house__  
+__catfish__  
+__cleat__  
+__clothesline__  
+__coiffed__  
+__compasionate__  
+__concertina__  
+__concertina wire__  
+__crab lice__ _n_  
+__cragginess__  
+__crinkle__ (crinkling) :two: :shit: _v_  
+__crumpled__ _v_  
+__cuss__ :two: :shit: _v_  
 __dagos__  
+__dazzling__  
+__dead bolt__ _n_  
+__deferment__  
+__desk blotter__  
+__duffer__ _n_ _informal_ An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot  
+__epicurean__  
+__fob__  
+__freebies__ _n_  
+__fumed__ _v_  
+__gaff__ _n_  
+__gaping__ _v_  
+__gleaning__  
+__grudge__ :es: rencor  
+__guile__  
+__gun-shy__  
+__gunwhale__ :two: :shit:  
+__haplessness__  
+__hew__ _v_  
+__hirsutism__  
+__horsetails__ _n_  
+__ice pick__ _n_  
+__jigs__ _n_  
+__lacquered__ _v_  
+__lathered__ _v_  
+__maim__ _v_  
+__maternity leave__  
+__moccasin__  
+__motley__  
+__mover__ _n_  
+__nape__ _n_  
+__office drones__ _Sara and I met as office drones in 1999._  
+__pig iron__ _n_  
+__pirogue__  
+__pliant__  
+__plight__ _n_  
+__prongs__ _n_  
 __propped__ _v_  
+__pud__ _n_  
+__puffy__ :es: hinchado  
+__quickening__  
+__repote__ _n_  
+__respite__ _n_  
+__scabbard__  
+__scope out__ _v_  
+__scudded__ _v_  
+__seaweed__  
 __shale__ _v_  
 __shooing__ _v_  
-__brooder house__  
-__plight__ _n_  
-__pud__ _n_  
-__jigs__ _n_  
-__French doors__  
-__skivvies__  
-__dead bolt__ _n_  
-__boon__ _n_  
-__fob__  
-__crab lice__ _n_  
-__lacquered__ _v_  
-__crinkling__ _v_  
-__puffy__ :es: hinchado  
-__grudge__ :es: rencor  
-__repote__ _n_  
-__horsetails__ _n_  
-__deferment__  
-__crumpled__ _v_  
-__ice pick__ _n_  
-__vise__ _n_  
-__cleat__  
 __silt__ _n_  
-__stern__ _n_  
+__skivvies__  
+__smudge__  
+__spiteful__  
+__spittoon__  
 __spool__ _n_  
-__clothesline__  
-__pig iron__ _n_  
+__stern__ _n_  
+__subletting__ _v_  
+__succor__  
+__thespian__  
+__thrum__  
+__upheaval__  
+__vise__ _n_  
+__wadded__ _v_  
+__wimpy__ _adj_  
 __window sash__ _n_  
+__wisps__  
 
 
 
