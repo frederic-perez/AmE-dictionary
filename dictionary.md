@@ -4,7 +4,69 @@ __4-H__ Of or relating to a government program in the U.S. that teaches farming 
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
-__Achilles heel__ A weakness or vulnerable point.  
+
+__notched__ _v_  
+__marsh__ _n_  
+__copacetic__  
+__bangs__ _n_ _informal?_  
+__snub-nosed__ _ Snub-nosed revolver._  
+__mouthwash__ _n_  
+__wan__ _adj_  
+__rheumy__  
+__listless__  
+__rife__  
+__shooting gallery__  
+__shuck__  
+__ghoul__  
+__mick__ _n_ :three: :shit:  
+__dirty boogie__  
+__bop__ _v_  
+__pout__  
+__careening__  
+__meringue__  
+__gelt__  
+__dandelions__  
+__sieve__  
+__lush__  
+__stricken__  
+__welts__  
+__ping__ _v_ _Pinging with heat._  
+__cork sun helmet__  
+__commode__  
+__grated__ _v_  
+__tapered__ _v_  
+__mar__ _v_  
+__gaunt__  
+__blackheads__  
+__dappled__  
+__spangling__  
+__misdemeanor__  
+__mantel__  
+__gilt-framed__  
+__krauts__  
+__splaying__  
+__buttwipes__ _n_  
+__jowls__  
+__New Jerusalem__  
+__wilted__ _v_  
+__gaskets__  
+__Picayune__  
+__wisps__ _n_  
+__skein__  
+__cobweb__  
+__greaseballs__  
+__barrette__  
+__scabs__ _n_  
+__twat__  
+__pugil__  
+__ken__ _n_  
+__shinbones__  
+__protean__  
+__gunbull__  
+
+
+__Achilles heel__ A weakness or
+ vulnerable point.  
 __B & E__  
 __BBs__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
