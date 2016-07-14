@@ -1,6 +1,79 @@
 
 
 
+__tyrant__  
+__sleep deprivation__  
+__slumber__ Nap?  
+__inchoate__  
+__beep-de-beep__  
+__wacko__  
+__pants-on-fire__  
+__loopy__ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
+__wan__  
+__grits__ _The grits on the stove._  
+__husks__  
+__cutter__ _A Coast Guard cutter._  
+__skipper__  
+__bowie knife__  
+__scuttled__ _v_  
+__rummy__  
+__pud__ _n_  
+__shrivel up__ _v_  
+__moldy__  
+__washtub__  
+__clanked__  
+__barbells__  
+__timing bag__  
+__pig iron__  
+__flipper__  
+__clench__  
+__slouching__ _v_  
+__bombsights__  
+__clench__ _n_  
+__mockie__  
+__jock__ _You act like I got jock odor or something._  
+__rat-fuck__ _v_  
+__twang__ _v_  
+__bobby pin__  
+__collard greens__ _n_  
+__dung fork__ _n_  
+__seersucker__ :two::shit:  
+__cork sun helmet__  
+__sewer grates__  
+__flail__ _v_  
+__toilet stool__  
+__muskmelon__ _n_  
+__din__  
+__kike__ _Kike names._  
+__chippies__  
+__punk__  
+__shank__  
+__crate__ _n_  
+__tumblebug__  
+__shrines__ _n_  
+__contrition__  
+__okra__  
+__stump__ _n_  
+__pleated__ _v_  
+__tasseled__ _v_ _Tasseled loafers._  
+__furrow__ _n_ :two::shit:  
+__abeyance__  
+__skid__ _Skid marks._  
+__slats__ _Wood slats._  
+__skittered__ _v_  
+__tiller__  
+__tines__  
+__knoll__ _n_  
+__bumbling__ _v_  
+__burrow__  
+__possum__  
+__flint__ _n_  
+__cleated__ _v_  
+__buckled__ _v_  
+__swathed__ _v_  
+__tapered__ _v_  
+__drain board__ _n_  
+
 
 
 
