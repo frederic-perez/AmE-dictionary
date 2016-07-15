@@ -11,6 +11,78 @@
 
 
 
+__billfold__ _n_  
+__redwood__  
+__hod__ _n_  
+__welsher__ _n_  
+__jobbing__ _v_  
+__sliver__ _n_ _Slivers of ice._  
+__wince__ _v_  
+__Huey__  
+__VC__ _A blindfolded VC suspect._  
+__skillet__  
+__hot-wired__  
+__hardpan__  
+__brittle__ _Peanut brittle._  
+__stud__ _v_  
+__welt__ _n_  
+__scouring__ _v_  
+__angle iron__  
+__bristle__ _v_  
+__abetting__ _v_  
+__seagulls__ _n_  
+__shimmer__ _v_  
+__trickle__  
+__diddle-squat__  
+__plums__ _n_  
+__chaffed__ _v_  
+__ropy__  
+__grog__  
+__taper__ _n_  
+__thrashed__ _v_  
+__spendolie__  
+__sand__ _v_ _Sanding the wood._  
+__string knife__  
+__sprinkle__  
+__grate__  
+__putty__ _Tan putty wrinkling._  
+__jug__ _His jug head._  
+__dour__  
+__dimpled__ _v_  
+__splayed__ _v_  
+__blowgun__ _n_  
+__trowel__ _n_ :two::shit:  
+__wellhead__  
+__spars__ _n_  
+__licorice__  
+__hobnailed__ _v_ _Hobnailed boots._  
+__bog__ _n_  
+__the 105's__  
+__tapered__ _v_  
+__spangled__ _v_  
+__ember__ _n_  
+__parchment__  
+__cheesecloth__  
+__mechanical pencil__  
+__strained__ _v_  
+__patsy__ _adj_  
+__grunt__ _n_  
+__burlap__ _n_  
+__swooping__ _v_  
+__joog__ _v_  
+__pate__ _n_ _His grizzled pate shone like tan wax._  
+__AB__ _Guys in the AB._  
+__spear chucker__  
+__hoe__ _v_  
+__shank__ _n_ _With a shank in his hand._  
+__honeysuckle__  
+__pinwheeling__  
+__whanging__  
+__bulkhead__  
+
+
+
+
 __flagstaff__  
 __jackhammer__  
 __ice cream cone__  
