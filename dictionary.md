@@ -10,6 +10,244 @@
 
 
 
+
+__flagstaff__  
+__jackhammer__  
+__ice cream cone__  
+__noddies__ _n_  
+__crowbar__ _n_  
+__gash__ _n_  
+__sheathed__ _v_  
+__school desk__  
+__UA-ed__ _v_  
+__jet black__ _n_  
+__V-J Day__  
+__cutline__ _n_  
+__Sam Browne belt__  
+__sod__ _n_  
+__PX__ _You run the PX for these characters?_  
+__sluice__ _v_  
+__troweled__ _v_  
+__bedpan__ _n_  
+__sandy-haired__  
+__conduit__ _n_  
+__alderman__ _n_  
+__dirges__ _n_  
+__redolent__  
+__boaters__  
+__belt out__  
+__flaming hair__  
+__slouch__ _Slouch hat._  
+__matchstick__ _n_  
+__blackheads__ _n_  
+__spangle__ _v_  
+__jockstrap__  
+__BO__  
+__roach paste__  
+__flog__ _v_  
+__dungarees__ _n_  
+__phlegmy__  
+__sliver__ _The early sun looked like a sliver of pink ice._  
+__box score__  
+__sandbags__  
+__gristle__  
+__meringue__  
+__terry-cloth robe__  
+__tallow__  
+__dagos__ _n_  
+__kneading__ _v_  
+__Purple Hearts__  
+__punch__ _v_ _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
+__mockie__ _n_  
+__muskrat_ _The muskrat season._  
+__zoot__  
+__hangnail__  
+__sawhorse__ _n_  
+__skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
+__lair__ _A tiger's lair._  
+__unkempt__ _Unkempt beards._  
+__dungarees__ _The men in black dungarees stood motionless._  
+__screech__ _n_  
+__girders__ _n_  
+__rent metal__  
+__stump__ 
+__puff__ _v_ _I could hear the screen door puffing open._  
+__slit__ _v_ _The screen was slit on the back porch door._  
+__prize__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
+__loins__ _n_  
+__tingled__ _v_  
+__clapper__ _He tried to turn somebody into a human bell clapper._  
+__ham hocks__ _n_  
+__stoke__ _v_  
+__Teamsters__  
+__mush__ _A mush brain._  
+__jack-o'-lantern__  
+__muriatic__  
+__dimwits__  
+__dun__ _Dun-colored hair._  
+__con__ _The con artist._  
+__teetering__ _v_  
+__hags__ _Screaming histerically like Shakespearean hags._  
+__talons__ _The nails were sharp as talons._  
+__gloat__  
+__slider__ _n_  
+__pincushion__  
+__putty__ _He had skin the color of putty._  
+__reefer_ _He was hitting on a reefer._  
+__jolt__ _n_  
+__dagos__ _n_  
+__teeming__ _v_  
+__stricken__ _v_  
+__mackerel__  
+__tasseled__ _Tasseled loafers._  
+__mercurial__  
+__Roto-Rooter__  
+__carrion bird__  
+__drain board__  
+__spindle__ _n_  
+__wispy__  
+__rattle__ _v_  
+__French doors__  
+__PO__ Parole officer?  
+__dykes__ _n_  
+__seersucker__ _Seersucker coat._  
+__salve__  
+__stubble__  
+__ruse__ _n_  
+__skivvies__  
+__hasp__ _The hasp and padlock had been splintered loose from the wood._  
+__slats__ _n_  
+__Tijuana special__  
+__ebb and flow__  
+__desk blotter__  
+__Semper fi__  
+__excoriated__ _v_  
+__sojourner__  
+__venial__ _adj_  
+__putty__ _His flesh was like wrinkled putty on his bones._  
+__wheedling__ _v_  
+__hangnail__  
+__bonged__ _v_  
+__huffed__ _v_  
+__eggnog__ _n_  
+__buckle__ _v_  
+__ruddy__ _Until her skin was ruddy._  
+__rut__ _Some guy with rut for brains._  
+__zonk__  
+__pigboat__ _n_  
+__asp__ _n_  
+__atavistic__  
+__canebrake__ _n_  
+__lice__ _Nits make lice._  
+__hemp__  
+__plaintive__  
+__hobnails__  
+__dungarees__  
+__sinew__  
+__squat down__ _v_  
+__wogs__ _n_  
+__roach__ _Roach paste._  
+__wreathed__ _A wreathed sword._  
+__puffed__ _v_  
+__oozing__ _v_  
+__burrhead__ _n_  
+__festooned__ _v_  
+__yawing__ _v_  
+__hobnailed__ _v_  
+__mirth__ _n_  
+__ream__ _v_  
+__grating__ _v_ _A grating sound._  
+__bleated__ _v_  
+__plum__ _n_  
+__sandpits__ _n_  
+__ramblers__ _n_  
+__roustabouts__ _n_  
+__jaded__ _v_  
+__Q-tips__ _n_  
+__spittle__  
+__celery__  
+__eighty-six__ _v_ _I get eighty-sixed out on the street._  
+__humping__ _v_ :two::shit: (humped)  
+__deadbeat__ _A union deadbeat._  
+__gigging__ _v_  
+__briar__  
+__camper shell__  
+__pinioned__ _v_  
+__ken__ _n_  
+__rents__ _n_  
+__ME__ _The ME said there was a look frozen in their eyes._  
+__coops__ _Chicken coops._  
+__sagging__ _Sagging gallery._  
+__singletree__ _Singletree plow._  
+__minie balls_ 
+__canister__  
+__chicken wire__  
+__dappled__ _v_  
+__Fart, Barf, and Itch__ FBI?  
+__pork rinds__  
+__turnip__ _n_  
+__britches__ _b_  
+__dabbing__ _v_  
+__slats__ _n_  
+__boomer chains__  
+__excoriated__  
+__moth__  
+__hoeing__ _Hoeing soybeans._  
+__lepers__  
+__copping__ _v_  
+__galboy__ _n_  
+__nutmeg__ _n_  
+__succubus__  
+__incubus__  
+__angst__  
+__tamp down__ _v_  
+__nappy__  
+__wringing__ _v_  
+__midriff__  
+__winking__ _v_  
+__lint__ _n_ _With lint in his navel._  
+__chafing__ _v_ _Her bare ankles chafing against the tops of her tennis shoes._  
+__blimp__  
+__ascribe__ _v_  
+__throbs__ _v_  
+__dully__  
+__brooding__  
+__ruddy__  
+__stubble__ _The sugarcane stubble._  
+__V-J Day__  
+__collapsible__ _Collapsible shutters._  
+__pillbox__ _A plum-colored pillbox hat._  
+__solipsistic__  
+__lout__ _n_  
+__meringue__  
+__dour__  
+__mush__ _n_  
+__welsh__ _v_  
+__po´-boy sandwiches__  
+__squall__  
+__wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
+__stubble__  
+__crimped__ _v_  
+__doeskin__ _A doeskin wallet._  
+__sow__ _A drunk sow._  
+__waders__ _Chest waders._  
+__buckshot__  
+__Jockeys__ _You've probably got him spotting his Jockeys._  
+__salt the shaft__ :two::shit: _Salt the shaft if you have to._  
+__grits__ _I eat grits and baby food and get up in the morning with barbed wire in my stomach._  
+__shitless_ _They were scared shitless._  
+__desk blotter__  
+__recidivist__ _n_  
+__pud__ _n_  
+__boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
+__treys__  
+__rumpled__ _v_  
+__Humpty-Dumpty__  
+__regal__  
+__soliloquy__  
+__chops__ _Break my chops._  
+__grievance__ _n_  
+
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -17,7 +255,7 @@ __ACK__
 __ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Achilles heel__ A weakness or vulnerable point.  
-__B & E__  
+__B & E__ :two::shit: _Somebody did a B&E on you._  
 __BBs__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __Britons__  
@@ -367,8 +605,7 @@ __beholden__
 __beholden__ :two: _adj_ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ _Everything's in the eye of the beholder._  
 __beige book__ ?  
-__beignets__  
-__beignets__  
+__beignet__ :three::shit:  
 __being let go__ _His mother was let go at the plant in 2006._  
 __bejeweled__ _v_  
 __belaboring__  
@@ -1094,7 +1331,7 @@ __dime > on the dime__
 __dimed__ (dimed) :two: :shit: _v_ _I'm going to roust Jimmy Sty and tell him you dimed him._  
 __dimpled__  
 __dimply__  
-__din__ _n_ :six: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
+__din__ _n_ :eight: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_  
 __dinghy__  
 __dips__ _n_  
@@ -3855,7 +4092,7 @@ __tenuous__
 __tepid__  
 __tepid__  
 __terrapin__  
-__terry-cloth__ _A blue terry-cloth pullover._  
+__terry-cloth__ :two::shit: _A blue terry-cloth pullover._  
 __thankless__ Ungrateful  
 __thashing__  
 __thaw__ :two: :shit: _It kept the door open for a possible thaw in relations between the Koreas._  
