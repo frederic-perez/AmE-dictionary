@@ -8,6 +8,186 @@
 
 
 
+__blotches__ _n_  
+__scowl__ _v_  
+__tumble__ _v_  
+__toe jam__ _n_  
+__clap__ _n_ _Incurable clap._  
+__riddle__ _n_  
+__Big C__ Cancer?  
+__hump__ _v_  
+__raucous__  
+__oxblood__  
+__din__  
+__grudge__ _n_  
+__calf__ _n_  
+__bib__ _n_  
+__fountain pen__  
+__bugles__ _n _ _The echo of Chinese bugles._  
+__clapboard__ _n_  
+__smolder__ _n_  
+__pail__ _n_  
+__shorn__ :two::shit: _Shorn head._  
+__gash__ _v_  
+__ashen__ _His face turned ashen._  
+__pus__ _n_ _Pus bags_  
+__gars__ _n_  
+__teakwood__ :open_mouth:  
+__do it by the numbers__  
+__taut__ _adj_  
+__scuppers__ _n_  
+__salvage__ _adj_  
+__dredges__ _n_  
+__booms__ _n_ :two::shit:  
+__starboard__ _n_  
+__rung__ _n_  
+__clang__ _v_  
+__haunches__ _n_  
+__winch__ _n_ :three::shit:  
+__scuppers__ _n_  
+__sump__ _n_  
+__airburst__ _n_  
+__medevac__ _v_  
+__bunch__ _v_  
+__tarp__ _n_  
+__tapered__ _v_  
+__aft__  
+__aloft__  
+__gouge__ _v_  
+__spar__ _n_  
+__guppy__ _n_  
+__bulkhead__ _n_  
+__blackheads__ _n_  
+__speargun__  
+__careened__ _v_  
+__scud__ _v_  
+__Semper fi__  
+__anvil__  
+__granola__ _n_  
+__spires__ _n_  
+__fettered__ _v_  
+__charter__ _n_  
+__shylocking__  
+__Q-Tips__  
+__vig__  
+__abide__ _v_  
+__rebop__  
+__humped__  
+__rucksack__  
+__haps__ _n_  
+__briny__ _adj_  
+__buckshot__  
+__redolent__  
+__sociopaths__  
+__recidivists__  
+__draconian__  
+__zydeco__  
+__vermicelli__  
+__grille__ _n_ _The grille of a semi truck._  
+__procuring__ _v_  
+__pillbox hat__  
+__pry__ _v_  
+__arpents__ _n_  
+__smock__ _n_  
+__quick__ _His nails bitten to the quick._  
+__scuffing__ _v_  
+__caroming__ _v_  
+__whimpering__ _v_  
+__ME__  
+__cane brakes__  
+__skeet shooter__  
+__burrow__ _v_  
+__lathes__  
+__nether__  
+__crowbar__  
+__wire book stand__  
+__splay__  
+__blotter__ _n_  
+__festooned__ _v_  
+__grimed__ _v_ _Her pink shorts were grimed with dirt._  
+__stubble__  
+__brittle__  
+__bangs__ _She wore her hair in bangs._  
+__grifter__  
+__egrets__  
+__yawning pit__  
+__haunch__  
+__dogsled__  
+__pud__ _n_  
+__moles__ _n_  
+__bumbling__ _v_  
+__sweat it__ _Don't sweat it._  
+__scour__  
+__divots__  
+__cattails__  
+__slough__  
+__tangle__ _v_  
+__porkpie__  
+__powder blue__ Color?  
+__muff-diver__  
+__lining__ _My stomach lining._  
+__bobber__ _n_  
+__105s__  
+__blookers__  
+__crank__ _v_ _Cranked the engine._  
+__stump__ _Stump fire._  
+__protean__  
+__dredged__ _Dredged mud._  
+__abide__ _Abiding trepidation._  
+__grove__ _n_  
+__divots__  
+__churning__ _v_  
+__curds__ _n_ _Clouds like curds of smoke._  
+__whorls__  
+__sheathed__  
+__bluegill__  
+__woodstove__ _n_  
+__boilerplate__ _n_  
+__minnow__  
+__dungarees__ _n_  
+__mallards__  
+__skittering__ _v_  
+__pappy__  
+__thespian__  
+__tarpon__  
+__puckered__  
+__pungi__  
+__welts__ _n_  
+__Bouncing Betty__  
+__dimwits__ _n_  
+__cawing__ _v_  
+__heliograph__  
+__merc__  
+__paean__  
+__Mr Goodwrench__  
+__brayed__ _v_  
+__diddle-shit__  
+__rooting__ _v_ _She was rooting in the Dumpster._  
+__mutt__ _n_  
+__arpents__   
+__pleated__ _v_  
+__crinkled__ _v_  
+__shaved ice__  
+__dazzling__  
+__pro bono__  
+__LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
+__skeet__  
+__syllogism__  
+__fritters__ _Corn fritters._  
+__crepe paper bells__  
+__oilcloth__  
+__collins__ _n_  
+__duckboards__  
+__leer__ _n_  
+__pageboy__  
+__jamb__ _Window jamb._  
+__mash__ _We'll drink some mash and talk some trash._  
+__cap__ _v_ _The wind was capping the water._  
+__fleck__ _n_  
+__grifter__ _n_  
+
+
+
 
 
 
