@@ -5,6 +5,44 @@
 
 
 
+__sluicing__ v_  
+__slop__  
+__throbbing__ _v_  
+__skivvies__  
+__grits__ _n_ _Make mine scrambled eggs, sausage, grits, and coffee._  
+__bozos__ _n_  
+__MIA__ (vs AWOL)  
+__slick__ _n_  _He flew a slick in Vietnam._  
+__turnstile__ _n_  
+__stew-bums__ _n_  
+__slatted__ _v_  
+__possums__ _n_  
+__pens__ _n_ _Screened pens with rabbits._  
+__tarps__ _n_  
+__rattan couch__  
+__doo-dah__  
+__lucifer match__  
+__guppy__  
+__knurled__ _v_  
+__furlough_ _n_  
+__vig__  
+__knit tie__  
+__toe jam__  
+__mutt__  
+__inextricably__  
+__tasseled__ _Tasseled loafers._  
+__creases__ _Knife creases._  
+__egrets__  
+__blackbirder__  
+__furled__  
+__flintlocks__ _n_  
+__hummocks__  
+__putty__ _n_  
+__plum__ _n_  
+__bungee rope__  
+__shuck__  
+
+
 
 
 
