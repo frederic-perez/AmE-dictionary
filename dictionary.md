@@ -2,6 +2,56 @@
 
 
 
+__dispatcher__ _n_  
+__cattails__ _n_  
+__brisket__ _n_  
+__pirogue__ _n_  
+__wood rasp__ _n_  
+__bungee cord__ _n_  
+__stringer__ _n_  
+__perch__ _n_  
+__rebop__  
+__privy__  
+__muff-diver__ _n_  
+__roach__ _n_  
+__hood__ _n_  
+__Teamster__ _n_  
+__bib__ _n_  
+__bolo tie__ _n_  
+__coleslaw__ _n_  
+__crump__ _v_  
+__bunched__ _v_  
+__slim-jim__ _n_  
+__twanger__ _n_  
+__copacetic__  
+__talc__ _n_  
+__crinkle__ _v_  
+__desk blotter__  
+__paunch__ _n_  
+__skate__ _v_  
+__mayhem__  
+__accretion__  
+__baffle__ _v_  
+__burr haircut__  
+__jonesing__ _v_  
+__UA-ed__ _v_  
+__lathering__ _v_  
+__sharecropper__  
+__bouree__  
+__smolder__ _v_  
+__coy__  
+__crumb__ _Potato chip crumb._  
+__jelly doughnuts__  
+__ground chuck steak__  
+__pucker__  
+__rattan__  
+__andirons__  
+__twitched__ _v_  
+__guzzler__  
+__abetting__  
+__suntan__ _n_  
+__bested__ _v_  
+
 
 
 
