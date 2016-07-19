@@ -4,6 +4,67 @@
 
 
 
+__schooner__ :two::shit:  
+__DEA__  
+__pleated__ _v_  
+__plopped__ _v_ :two::shit:  
+__zonk__ _n_  
+__dis__ _n_  
+__muskmelon__  
+__facile__  
+__chum__ _Fish chum.__  
+__sprinkle__ _v_  
+__Humpty-Dumpty__  
+__blotter__ _n_  
+__chenier__  
+__palmettos__ :two::shit:  
+__husks__ _n_  
+__bogs__  
+__herons__  
+__skeet__  
+__sprig__ _A sprig of mint._  
+__spangled__ _v_  
+__charter__ _A charter member._  
+__prise__ _n_  
+__thermos__ _A thermos._  
+__pail__ _A lunch pail._  
+__treble__ _A treble hook._  
+__slough__  
+__sawgrass__  
+__cattails__  
+__gar__ _n_  
+__sewer__ _A sewer pipe._  
+__whirring__ _v_  
+__pulsating__  
+__sinewy__  
+__calisthenics__  
+__skivvy__  
+__slit__ _n_  
+__redolent__  
+__crones__ _n_  
+__rifle__ _v_  
+__shudders__ _v_  
+__cordite__ _n_  
+__soldier of fortune__  
+__suffused__ _v_  
+__dinged__  
+__money on the hoof__  
+__coat of arms__  
+__boilermaker__  
+__chafed__  
+__wrecking ball__  
+__gut-bucket__ _A gut-bucket string band._  
+__briar__  
+__wingtips__  
+__rumpled__ _v_  
+__slick__ _adj_  
+__desk blotter__  
+__fountain pen__  
+__max out__ _v_  
+__CID__  
+__no jive__  
+__rabies__ _A squirrel with rabies._  
+
 
 
 
