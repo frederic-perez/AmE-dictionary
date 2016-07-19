@@ -2894,9 +2894,9 @@ __penned__ :three: :shit:
 __pens__ _n_ _Screened pens with rabbits._  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __pep__ :two: :shit: :open_mouth: _A pep yalk._  
-__pepper__ _v_ __Five bullet holes peppered the side of one rental town-house._  
-__perch <sup>1</sup>__ _n_  
-__perch <sup>2</sup>__ _v_ :three::shit: 
+__pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._  
+__perch<sup>1</sup>__ _n_  
+__perch<sup>2</sup>__ _v_ :three::shit: 
 __perennial__  
 __perfunctory__ :two: :shit:  
 __periwinkles__  
@@ -2956,10 +2956,10 @@ __pipehead__
 __pique__  
 __pirogue__ _n_ :two::shit:  
 __pisspot__  
-__pit <sup>1</sup>__ _n_ _The pit of his stomach._  
-__pit <sup>2</sup>__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
-__pitch <sup>1</sup>__ _n_ _We recovered the ball in their side of the pitch after pressing well._  
-__pitch <sup>2</sup>__ _v_ _To pitch a tent._  
+__pit<sup>1</sup>__ _n_ _The pit of his stomach._  
+__pit<sup>2</sup>__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
+__pitch<sup>1</sup>__ _n_ _We recovered the ball in their side of the pitch after pressing well._  
+__pitch<sup>2</sup>__ _v_ _To pitch a tent._  
 __pith helmet__ The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pithy__  
 __pittance__  
@@ -3036,7 +3036,7 @@ __possum__ :four::shit: _To play possum._ _He'd been playing possum._
 __possums__ _n_  
 __poster child__  
 __pot bunkers__  
-__pot__ _ A pot ofassets.__  
+__pot__ _ A pot of assets._  
 __potatoes__  
 __potluck__  Comes from from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary)  
 __pounce__ (pounced) :two: :shit: _v_ _Critics pounced on the showiness._  
@@ -3108,8 +3108,8 @@ __pry__ _v_
 __psyche__  
 __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
 __pud__ _n_ :five::shit:  
-__puff <sup>1</sup>__ _n_  
-__puff <sup>2</sup>__ _v_ :two::shit: (puffed) _I could hear the screen door puffing open._  
+__puff<sup>1</sup>__ _n_  
+__puff<sup>2</sup>__ _v_ :two::shit: (puffed) _I could hear the screen door puffing open._  
 __puffy__ :two::shit: _Puffy snowflakes._ :es: hinchado  
 __pugil__  
 __pugnacity__  
@@ -3333,8 +3333,8 @@ __riches__ :two: :shit:
 __rickets__  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __riddance__  
-__riddle <sup>1</sup>__ _n_ :two::shit:  
-__riddle <sup>2</sup>__ _v_ (riddled)  
+__riddle<sup>1</sup>__ _n_ :two::shit:  
+__riddle<sup>2</sup>__ _v_ (riddled)  
 __rife__ :three::shit:  
 __riffle__ _v_ (riffled) :two::shit: _Annabeth riffled the medicine cabinet for the toothpaste._  
 __rift__ _n_ :four: :shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
@@ -3770,8 +3770,8 @@ __slip__ _v_ Decrease?
 __slit > hi-slit dress__  
 __slit__ _v_ _The screen was slit on the back porch door._  
 __slithering__  
-__sliver <sup>2</sup>__ _v_ :three::shit:  
-__sliver <sup>1</sup>__ _n_ :two::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._  
+__sliver<sup>2</sup>__ _v_ :three::shit:  
+__sliver<sup>1</sup>__ _n_ :two::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._  
 __slob__  
 __slobber__  
 __slobs__ _n_  
@@ -4447,8 +4447,8 @@ __twat__
 __twinge__  
 __twinkle__  
 __twinned towns__  
-__twitch <sup>1</sup>__ _n_   
-__twitch <sup>2</sup>__ _v_ :two::shit:  
+__twitch<sup>1</sup>__ _n_   
+__twitch<sup>2</sup>__ _v_ :two::shit:  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two-timer__  
 __tyrant__  
