@@ -1326,13 +1326,12 @@ __drum up__
 __drum__ _v_  
 __druthers__  
 __dry spel__  
-__duckboards__  
-__duckboards__  
+__duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
+__duckboards__ :two::shit:  
 __dud__ (duds, dudly) :three: _Informal_ __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud__ _v_  
 __duffel bag__  
-__duffer__ :two: :shit: _n_  
-__duffer__ _n_ _informal_ An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot  
+__duffer__ _n_ :three: _informal_ An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot  
 __dully__  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas
 __dump__ _They walkes to the trash can and dumped their cups._  
@@ -3648,7 +3647,8 @@ __shotgun cottage__
 __shotgun house__  
 __shoulder__ _v_  
 __shout-out > give a shout-out__  
-__shove__  
+__shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
+__shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
 __show runner__ :two: :shit:  
 __showdown__ :three: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showtime__  
@@ -3770,8 +3770,8 @@ __slip__ _v_ Decrease?
 __slit > hi-slit dress__  
 __slit__ _v_ _The screen was slit on the back porch door._  
 __slithering__  
-__sliver<sup>2</sup>__ _v_ :three::shit:  
 __sliver<sup>1</sup>__ _n_ :two::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._  
+__sliver<sup>2</sup>__ _v_ :three::shit:  
 __slob__  
 __slobber__  
 __slobs__ _n_  
