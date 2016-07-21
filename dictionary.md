@@ -153,8 +153,7 @@ __accolade__ :two: _n_ An award or privilege granted as a special honour or as a
 __accord__ _Postponed the signing of an accord._  
 __accountant__ :es: contable  
 __accretion__  
-__accrue__ (accrued) :three: _v_ To increase in value or amount gradually as time passes : to grow or build up slowly.  
-__accrue__ _v_  
+__accrue__ _v_ :four: (accrued) To increase in value or amount gradually as time passes : to grow or build up slowly.  
 __acerbic__  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquitted__  
@@ -435,8 +434,7 @@ __besotted__
 __bespectacled__ :two: :shit: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke__  
 __bested__ _v_  
-__bestow__ :eight: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
-__bestow__ _v_  
+__bestow__ _v_ :nine: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bettors__  
 __bevy__ :four: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
@@ -629,8 +627,8 @@ __buckwheats__
 __budding__  
 __budged__  
 __buff bod__  
-__buff__ :two: :shit: _Some folks are movie buffs._ :es: entusiasta  
-__buff__ _v_  
+__buff<sup>1</sup>__ :two: :shit: _Some folks are movie buffs._ :es: entusiasta  
+__buff<sup>2</sup>__ _v_  
 __buffeted__ :two: :shit:  
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
@@ -1001,9 +999,8 @@ __craggy__
 __cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
 __cramp__ _n_  
 __crank out__  
-__crank__ _A fringe crank._  
-__crank__ _Try a telephone crank._  
-__crank__ _v_ _Cranked the engine._  
+__crank<sup>1</sup>__ _n_ _A fringe crank._ _Try a telephone crank._  
+__crank<sup>2</sup>__ _v_ _Cranked the engine._  
 __crate__ _n_  
 __craven__ _A craven political figure._  
 __creakings__ _Door creakings._  
@@ -1195,10 +1192,8 @@ __dimed__ (dimed) :two: :shit: _v_ _I'm going to roust Jimmy Sty and tell him yo
 __dimpled__  
 __dimpled__ _v_  
 __dimply__  
-__dimwits__  
-__dimwits__ _n_  
-__din__  
-__din__ _n_ :eight: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
+__dimwits__ _n_ :two::shit:  
+__din__ _n_ :nine: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_  
 __dinged__  
 __dinghy__  
@@ -1305,8 +1300,7 @@ __draconian__
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag racing__  
 __dragnet__  
-__drain board__  
-__drain board__ _n_  
+__drain board__ _n_ :two::shit:  
 __drape__ (draping) :three: :shit: _v_  
 __draped__ _v_  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
@@ -1469,8 +1463,7 @@ __ethos__
 __evicted__ :two: :shit:  
 __eviction__  
 __exacerbate__ (exacerbated, exacerbating) :three: _v_ Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
-__exact__ (exacting) :two: _v_ __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
-__exact__ _v_  
+__exact__ _v_ :three: (exacting) __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
 __excess__ _In excess_  
 __excise__ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excoriate__ _Gay rights advocates excoriated the state's actions._  
@@ -1487,8 +1480,7 @@ __extols__
 __extraneous__  
 __extremes__  
 __extricated__  
-__eye black__ _Escobarwas fined for wearing a homophobic slur on his eye black._  
-__eye black__ _He displayed a homophobic slur on his eye black._  
+__eye black__ :two::shit: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
 __eye mask__ (to sleep)  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
 __eyeball__  
@@ -2107,8 +2099,7 @@ __hummocks__
 __humor__ _v_ _Just humor me._  
 __hump__  
 __hump__ _v_  
-__humped__  
-__humped__ :two: :shit:  
+__humped__ :three::shit:  
 __humping__ _v_ :two::shit: (humped)  
 __hunched__ _v_  
 __hunk__ (hunky) :four: /hʌŋk/ _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
@@ -2206,8 +2197,7 @@ __jaded__
 __jaded__ _v_  
 __jagged__  
 __jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.    
-__jamb__  
-__jamb__ _Window jamb._  
+__jamb__ :two::shit: _Window jamb._  
 __jamboree__ :two: :shit: _v_  
 __jams__ _n_  
 __jar__ _v_  
@@ -2310,8 +2300,7 @@ __knotty__
 __knuckleball__ :two::shit:  
 __knuckler__  
 __knucklers__  
-__knurled__  
-__knurled__ _v_  
+__knurled__ _v_ :two::shit:  
 __koi__ _v_  
 __kook__ (kooky) :two: :shit:  
 __krauts__  
@@ -2407,8 +2396,7 @@ __lightbulb moment__
 __lilac__  
 __limb__ _Tree limb._  
 __limerics__  
-__linchpin__  
-__linchpin__  
+__linchpin__ :two::shit:  
 __lining__ _My stomach lining._  
 __links__ :two: :shit: _The links course._  
 __lint__ :two: :shit: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._  
@@ -2587,8 +2575,7 @@ __minie balls__
 __minnow__  
 __minnow__ (minnows) :two: :shit:  
 __mint bank notes__  
-__mired__ :two: :shit: _v_  
-__mired__ _v_  
+__mired__ _v_ :three::shit:  
 __mirth__ _n_  
 __miscreant__ (miscreants) :three: :shit:  
 __misdemeanor__ :two::shit:  
@@ -2945,8 +2932,7 @@ __pin__ _Pin the blame on its inability to develop an economy independent of the
 __pinafore__  
 __pinch > in a pinch__  
 __pinch-hitter__  
-__pinch__  
-__pinch__ (pinched) :two: :shit: _v_ _He smoked his cigarettes down to pinched ends._  
+__pinch__ _v_ :three::shit: (pinched) _He smoked his cigarettes down to pinched ends._  
 __pinched shut__  
 __pincushion__  
 __pined__ _It was only in movies that people pined for the dead._  
@@ -3095,8 +3081,7 @@ __profligate__
 __prominence__  
 __prominent__  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
-__prongs__  
-__prongs__ _n_  
+__prongs__ _n_ :two::shit:  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
 __prop up__ _But with her leg propped up._  
 __propped__ _v_  
@@ -3270,8 +3255,7 @@ __reeds__
 __reefer__ _He was hitting on a reefer._  
 __reefs__  
 __reek__ (reeks, reeked) :six: _v_ Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
-__reeling__  
-__reeling__ :three: :shit: _Reeling economy._  
+__reeling__ :four::shit: _Reeling economy._  
 __referenda__  
 __refurbish__  
 __regal__  
@@ -3284,22 +3268,19 @@ __regulatory muster__
 __rehash__ _v_  
 __reinstate__  
 __rejiggered__  
-__rekindle__  
-__rekindle__ _We must rekindle the fire of idealism in this country._  
+__rekindle__ _v_ :two::shit: _We must rekindle the fire of idealism in this country._  
 __relatable__ :two: :shit:  
 __relegation__ _Sports_  
 __relief teams__  
 __relief__ :two: :shit: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
 __reliever__  
-__relinquish__  
-__relinquish__ :two: :shit:  
+__relinquish__ :three::shit:  
 __relish__ :two: Enjoy greatly. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._  
 __relished__  
 __remanded__ _v_  
 __remembrance__ :three: _n_ The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
 __remit__  
-__renminbi__  
-__renminbi__  
+__renminbi__ :two::shit:  
 __rent metal__  
 __rents__ _n_  
 __rep__ Reputation?  
@@ -3391,15 +3372,13 @@ __roster__ _All the calls she gets from different guys, I'd swear she needs a ro
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __round out__  
 __roustabouts__ _n_  
-__rout__ :two: :shit:  
-__rout__ :two: :shit: _n_  
+__rout__ :four::shit: _n_  
 __rowdy__ :five: /ˈraʊdi/ _adj_ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rub elbows__ _v_  
 __rub__ _n_  
 __rucksack__  
 __ruckus__  
-__ruddy__  
-__ruddy__ _Until her skin was ruddy._  
+__ruddy__ :two::shit: _Until her skin was ruddy._  
 __rue__ _v_ _Pa. town rues sacrifice of its war dead._  
 __rueful__ _He gave a rueful smile._  
 __ruffled__ (ruffling) :two: :shit: _v_  
@@ -3422,8 +3401,7 @@ __runner-up__ :two: :shit: _Nadal was the runner-up to Roger Federer in 2006-7._
 __runner-up__ :two: :shit: _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runoff water__  
-__runoff__  
-__runoff__ _Enough votes to force a runoff,_  
+__runoff__ :two::shit: _Enough votes to force a runoff,_  
 __ruse__  
 __ruse__ _n_  
 __rustle__  
@@ -3575,8 +3553,7 @@ __seminoles__
 __sentience__  
 __sequestration__ _Sequestration of the jury._  
 __sequined__ :three: :shit:  
-__sequins__  
-__sequins__  
+__sequins__ :two::shit:  
 __sequiturs__  
 __servicers__  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
@@ -3814,11 +3791,8 @@ __sly__ :four: Having or showing a cunning and deceitful nature. _A sly smile._ 
 __sly__ _They're flicking through their smartphone notifications on the sly._  
 __smallpox__  
 __smashing__  
-__smattering__  
-__smattering__  
-__smattering__ :three: _n_ __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
-__smear__ :two: :shit: _They use social media to smear their opponents._  
-__smear__ _The smear campaign._  
+__smattering__ _n_ :five: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
+__smear__ :three::shit: _They use social media to smear their opponents._ _The smear campaign._  
 __smell test__  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smithereens__  
@@ -3835,16 +3809,15 @@ __smudge__
 __smudges__  
 __smug__ :two: :shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
 __smugness__  
-__snag__ :two: :shit: _v_ _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
-__snag__ _n_ :es: problema  
+__snag<sup>1</sup>__ _n_ :es: problema  
+__snag<sup>2</sup>__ _v_ :two::shit: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snap__ :two: :shit: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._  
 __snaps__ _He took his first snaps with the starters._  
 __snare drums__  
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarl__ (snarling) :two: _v_ (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
-__snarl__ :two: _n_ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
-__snarl__ _v_  
+__snarl<sup>1</sup>__ _n_ :two: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
+__snarl<sup>2</sup>__ _v_ :three: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snazzy__ :two: _Informal_ Stylish and attractive. _Snazzy little silk dresses._  
 __snick__ _v_  
 __snicker__ (snickering) :three: :shit: _v_  
@@ -3936,8 +3909,7 @@ __sprinkle__
 __sprinkle__ _v_  
 __sprinkled__ (sprinkling) :three: :shit:  
 __sprinkler__ :three: _n_ __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
-__spruce up__ _Juliette spruces up her country look and sound._  
-__spruce up__ _v_  
+__spruce up__ _v_ :two::shit: _Juliette spruces up her country look and sound._  
 __spry__ :two: _adj_ Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spur > bone spurs__  
@@ -4201,8 +4173,7 @@ __syrupy__
 __tab__ (tabbed, tabby) :four: __Informal__ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __table tennos__  
 __tableaux__ 
-__tack__ Tactics?  
-__tack__ _The GOP changed its tack._  
+__tack__ :two::shit: Tactics? _The GOP changed its tack._  
 __tag along__ _His old swing has tagged along._  
 __tag along__ _v_  
 __tailspin__  
@@ -4405,8 +4376,7 @@ __trestle__ /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework use
 __trestle__ _Railroad trestle._  
 __treys__  
 __tribute__ _Her fellow tribute and her hunting buddy._  
-__trickle down__ _v_ To pass from high-ranked people to lower-ranked people.  
-__trickle-down__  
+__trickle down__ _v_ :two: To pass from high-ranked people to lower-ranked people.  
 __trickle__ :six: _n_ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._  
 __trickle__ _A trickle of electricity._  
 __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
