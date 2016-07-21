@@ -2,6 +2,34 @@
 
 
 
+__prude__ _n_  
+__bunk__ _n_  
+__skivvies__  
+__prune-o__  
+__scut work__  
+__flak vest__  
+__procure__ _v_  
+__sting__ _n_  
+__gas-guzzler__  
+__muffler__  
+__sharecropper__  
+__stubble__ _n_  
+__mackinaw__  
+__frenzy__  
+__covey__  
+__husk__ _v_  
+__picklock__ _v_  
+__flay__ _v_  
+__succubus__ _n_  
+__obsidian__  
+__outriggers__  
+__collins__  
+__singed__ _v_  
+__fraught__  
+__satyr__  
+__obsequious__  
+__contemptible__  
+
 
 
 
