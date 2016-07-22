@@ -7,6 +7,326 @@
 
 
 
+__striker__ _The match was damp and wouldn't ignite against the striker._
+__piece of work__ _You're a piece of work, Bertrand._  
+__quirt__ _The horse quirt._  
+__emery paper__  
+__welt__ _n_  
+__redbones__ _n_  
+__gas-guzzler__  
+__shill__ _n_  
+__debasing__ _v_  
+__sprinkle__ _v_  
+__wisps__ _Wisps of rain._  
+__trussed__ _v_  
+__manacle__ _n_  
+__snap__ _Snapping dog._  
+__swoop__ _v_  
+__flurry > in a flurry__  
+__pilings__ _A deserted cabin built on pilings._  
+__grandiose__  
+__huckster__  
+__radish__  
+__demeaning__  
+__stubble__ _n_  
+__harrow__ _n_  
+__mire__  
+__zoot__  
+__chartreuse__  
+__chuckholes__ _n_  
+__deep six__ _They gave you the deep six, huh, big mon?_  
+__huh__  
+__reamed__ _v_  
+__grunt__  
+__mutts__  
+__nightmarish__  
+__scrap iron__ :es: chatarra?  
+__ghoul__  
+__chum__ _Fish chum._  
+__miscreants__  
+__stalk__ _n_  
+__oozed__ _v_  
+__evicted__ _v_  
+__trellis__  
+__awe__  
+__reefer__  
+__string knife__  
+__gunbull__  
+__shotput__ _n_  
+__squatting__ _v_  
+__haunch__ _n_  
+__skate__ _v_ _He don't let nobody skate unless it's for money._  
+__gooks__ _n_  
+__shank__ _n_  
+__wadded__ _v_  
+__huffing__ _v_  
+__hunkered__ _v_  
+__scowling__ _v_  
+__seine__ _v_  
+__furled__ _v_  
+__shine off__ _Don't try to shine me off, worm man._  
+__C-rations__  
+__extricate__ _v_  
+__sprig__ _A sprig of mit._  
+__kiddo__  
+__egrets__  
+__octoroons__  
+__quadroons__  
+__derringer__  
+__breech__ _n_  
+__slobbered__ _v_  
+__curlicues__  
+__floodlight__  
+__laddie__  
+__prescient__  
+__latch__ _n_  
+__hump__  
+__churned__ _v_  
+__jetty__  
+__red-eye__ _Catch the red-eye._  
+__treys__  
+__hearse__  
+__rachet__ _I heard the phone booth door rachet back violently on its hinges._  
+__penknife__  
+__wadded__ _v_  
+__licorice__  
+__creosote__  
+__dugout__  
+__treachery__  
+__sling__ _n_  
+__thunk__ _v_ _A thunking sound._  
+__swiveling__ _v_  
+__whanged__ _v_  
+__yawning__ _They dissected the yawning door of a junked Coca-Cola machine._  
+__porridge__  
+__breech__ _n_  
+__gait__ _n_  
+__waded__ _v_  
+__billowing__ _v_  
+__denouement__ _n_  
+__undertow__  
+__rebop__  
+__pry__ _v_  
+__grate__ _n_  
+__muggy__ _The weather was muggy._  
+__hump__ _v_ _Got to get the locals humping for you._  
+__slime__  
+__shushing__ _v_  
+__braying__ _v_  
+__mildewed__ _v_  
+__throbbed__ _v_  
+__wisteria__  
+__gloom__ _n_  
+__swampy__  
+__chippies__  
+__tab__ _Sweet Pea ripped the tab of the beer can._  
+__pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
+__Mercurochrome__  
+__sheathed__  
+__abalone__  
+__queer__ _v_  
+__eighty-six__ _v_  
+__slight__  
+__package deal__  
+__junker__  
+__sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
+__shades__ :es: gafas?  
+__cowboy__ _v_  
+__wadded__ _v_  
+__barge__ _n_ _A wrecked tow barge._  
+__breech__ _n_  
+__sojourner__  
+__desk blotter__  
+__skips__ _n_  
+__pipeyard__  
+__roach paste__  
+__jinx__ _v_  
+__reek__ _n_  
+__churning__  
+__din__  
+__magpies__  
+__that's the breaks__  
+__haunches__ _n_  
+__floater__ _n_  
+__twine__  
+__Gordian knots__  
+__rambling__ _v_  
+__halter__ _n_  
+__crinkly__  
+__ethos__  
+__sluicing__  
+__wigglers__  
+__ice-slick chain__  
+__gars__  
+__buzzards__ n_  
+__con__  
+__purloined__  
+__huffing__  
+__shuck__  
+__gargoyles__  
+__admonition__ _n_  
+__dimpled__  
+__causeway__ _n_  
+__plush__  
+__seersucker__  
+__tasseled__ _v_  
+__marcelled_ _His marcelled hair gleamed like liquid plastic._  
+__hood__ _n_  
+__slops__ _He makes six bucks an hur and tips cleaning slops._  
+__pinion__ _v_  
+__gale__ _n_  
+__crewcut__ _A crewcut man._  
+__BB__ _He tilted more BBs into the tine holes of his game._  
+__mutt__  
+__thrashed__ _v_  
+__maw__ _n_  
+__blunt__ _adj_  
+__lye water__  
+__sheath__  
+__sinew__  
+__Q-Tips__  
+__ball bearings__  
+__Mennonite__  
+__rife__  
+__funk__ _n_  
+__toe-poppers__  
+__wisp__  
+__shrieking__  
+__muzzle__  
+__speck__  
+__ringlets__  
+__run errands__  
+__tallow__  
+__Fart, Barf, and Itch__  
+__baton__ _n_  
+__mush__ _n_  
+__ME__ _The ME dug him out of the ashes and opened him up._  
+__toil__  
+__heirlooms__  
+_emaciated__  
+__bonnie blue flag__  
+__rind__ _n_  
+__flop__ _n_ _You stay at the flop he's got rented for you._  
+__wadded__ _v_ _He wadded up the towel._  
+__shimmering__ _v_  
+__slit__ _v_ _Slitted dorr._  
+__copping__ _v_ _You're copping to a murder beef._  
+__snot rag__  
+__weevil__  
+__squall__  
+__Geronimo wire__   
+__shaggy__  
+__depleted__  
+__supple__  
+__joists__  
+__stray__ _v_  
+__dispel__ _v_  
+__averted__ _v_  
+__linchpin__ _n_  
+__marshmallow__ _n_  
+__deedee__ _v_  
+__slough__ _n_  
+__scours__  
+__clod__ _Dry clods of dirt rattling like rocks under the fender._  
+__cattails__  
+__water seepage__  
+__stubs__  
+__snug__ _v__  
+__rippled__ _v_  
+__iron trellis__  
+__swaths__  
+__laths__  
+__quirt__  
+__celery stalk__  
+__slick__ _It was a slick scam._  
+__slivers__ _Slivers of ice on the quirt._  
+__brittle__ _Clean the peanut brittle out of your mouth._  
+__quirt__ _n_ :two::shit:  
+__cantering__  
+__blimp__ _A blimp hangar._  
+__brander__  
+__barf bag__  
+__pry__ _v_  
+__barf bucket__  
+__eggnog__ _A big eggnog party._  
+__blowtorch__  
+__whanged__ _v_  
+__divots__  
+__caromed__ _v_  
+__darning__  
+__statutory__  
+__churned__  
+__T&A__  
+__canted__ _v_  
+__puds__ _n_  
+__shrivel up__ _v_  
+__gashing__ _v_  
+__lest__  
+__tarp__ _n_  
+__gunnysacks__  
+__creaked__ _v_  
+__privy__ _n_  
+__floor show__  
+__slatted__ _v_ _Slatted sunlight._  
+__bugles__  
+__chaplain__  
+__BAR__ __BAR man._  
+__halter__  
+__flats__ _n_  
+__bumbling__  
+__effete__  
+__mumps__  
+__NCO__  
+__whir__ _n_  
+__graders__ _n_  
+__swaths__  
+__invective__  
+__jelly glass__  
+__privy__  
+__grader__  
+__cattails__  
+__reeds__  
+__husks__ _Cane husks._  
+__stooped__ _v_  
+__slick__ _The slick surface._  
+__set (someone) up__ _v_ _Emile's trying to set you up._  
+__dimpled__  
+__sling__ _The sling wrappred around his forearm._  
+__gars__ _Alligator gars._  
+__slough__ _n_  
+__compelling__ _v_  
+__shank__ _n_  
+__BBs__ _His eyes came together like BBs, then refocused on my face._  
+__bottle fly__ _n_  
+__hardpan__ _Hardpan dirt yards._  
+__hickory__  
+__frayed__ _A frayed suit._  
+__trellis__  
+__crescent__  
+__doilies__  
+__steamer trunk_ _A steamer trunk lay opened by the couch._  
+__camellia__  
+__flagstone__ _Flagstone terraces._  
+__slips__ _Sailboats were rocking in their slips._  
+__ruddy__  
+__gumbo__ _Gumbo appetizer bowls._  
+__crimped__ _v_  
+__stubble__ _n_  
+__dimples__ _They look like dimples in oatmeal now._  
+__milkweed__  
+__trick pad__  
+__gutter__  
+__phlegmy__  
+__kneading__ _v_  
+__BO__  
+__huffed__ _v_  
+__rippled__ _v_  
+__cheesecloth__  
+__wizened__  
+__lynch__  
+__slick__ _adj_  
+__blanched__ _v_  
+__deviled eggs__  
 
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
