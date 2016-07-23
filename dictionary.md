@@ -1,6 +1,188 @@
 
 
-
+__scudding__ _v_  
+__brittle__  
+__dogleg__ _A dogleg twenty-gauge in his hand._  
+__breech__  
+__arcane__  
+__garish__ :open_mouth:  
+__jaded__  
+__stubble__ :two:  
+__quail__ _n_  
+__know better__ _But I knew better._  
+__griff__  
+__rebop__  
+__paean__  
+__emaciated__  
+__cantering__ _v_  
+__wending__ _v_  
+__liege__  
+__overbite__ _n_ :two::shit:  
+__seesaw__ _n_  
+__lackluster_  
+__cowering__ _v_  
+__crank__ :two::shit: _Turning the crank on an ice cream maker._  
+__mattock__  
+__shank__ _n_  
+__mantel__ _The mantel over the small fireplace._  
+__stooped__ _v_  
+__hearth__ _n_  
+__the day's full of spiders__  
+__bream__  
+__thunderheads__  
+__deviled eggs__  
+__causeway__  
+__shell road__  
+__stairwell__ :two::shit:  
+__sap__ _A flat-sided sap stuck out of his back pocket._  
+__funk__ _His breath a fog of funk and decayed shrimp._  
+__pool cues__  
+__pillbox hat__  
+__prizefighter__  
+__bouree__ _Bouree dealer._  
+__tickle__ _v_  
+__rooster__  
+__Rotarian__  
+__rumple__ _v_  
+__shimmer__ _v_  
+__sagging__ _v_  
+__grunt__ _The grunt work._  
+__tester bed__  
+__seaweed__  
+__ordnance__  
+__slippers__  
+__wisps__ _n_  
+__turkey drumstick__  
+__Garden of Gethsemane__  
+__confide__ _v_  
+__hog cracklings__  
+__carrion birds__  
+__riddance__  
+__conwise__  
+__feckless__  
+__moccasins__  
+__contrition__  
+__flop__ _n_  
+__oxblood cowboy boots__  
+__unctuous__  
+__lure__  
+__sharecroppers__  
+__bumbling__  
+__peckerwood__  
+__groundswell__  
+__makeshift__  
+__traps__ _n_  
+__flailed__ _v_  
+__tab__ _n_  
+__vig__ _n_  
+__cooze__ _n_  
+__skein__  
+__cleaver__ _A butcher's cleaver._  
+__stooping__ _v_  
+__dud__ _n_  
+__fudge__  
+__tan__ Color?  
+__shylock__  
+__solder__  
+__primer__ _n_  
+__catfish__ _n_  
+__end over end__ _He tossed the cigarette end over end  into the wastebasket._  
+__jigger__ :two::shit:  
+__skein__  
+__tapered__ _v_  
+__gumball__  
+__brainpan__  
+__etched__ _v_  
+__shale__ _The shale parking lot._  
+__stooping__ _v_  
+__cue ball__  
+__skid marks__  
+__mattock__  
+__inasmuch__  
+__wispy__ _Wispy hair._  
+__wimpling__ _v_  
+__chicken coop__ :two::shit:  
+__heedless__  
+__zoot__  
+__jigger__ _n_ :two::shit:  
+__demeaned__  
+__marshlands__  
+__midriff__  
+__wishbone__  
+__crimped__ _v_  
+__vituperative__  
+__wince__ _v_  
+__recidivist__  
+__haunch__  
+__tag along__ _You want to tag along?_  
+__over-the-hill__ _I'm over-the-hill for Passion._  
+__grit__ _n_  
+__seeped__ _v_  
+__lackluster__  
+__reamed__  
+__nematodes__  
+__prizefighter__  
+__taproot__  
+__maw___n_  
+__stubble__ _Smoke from a distant stubble fire._  
+__hutch__ _The rabbit hutch._  
+__flinging__ _v_  
+__dungarees__  
+__preserves__ _A jar of fig preserves._  
+__dirtdobbers__  
+__privy__ _n_  
+__rife__  
+__stump__  
+__corn fritters__  
+__possum__  
+__gum stump__  
+__concourse__  
+__fangs__ _n_  
+__grazing__ _v_  
+__redress__  
+__abide__  
+__penknife__  
+__chums__ _We're old school chums._  
+__roast__ _n_  
+__mush__  
+__riffraff__  
+__slick__ _The alligators were slick with mud._  
+__stilt house__  
+__pitted__ _v_ _Pitted cherries._  
+__roil__ _v_  
+__welling__ _v_ _His breath welling into my face._  
+__swerving__ _v_  
+__shock-jock__ _n_  
+__julep__ :two::shit:  
+__sloshing__  
+__shale__ _n_  
+__stooped__  
+__greenhouse__  
+__aspersion__ _n_  
+__fretting__ _v_  
+__pate__ _n_  
+__snubbed__ _Snubbed nose._  
+__minstrel__  
+__by and large__  
+__sludge__ _Oil sludge._  
+__orb__ _n_  
+__scut__ _Scut work._  
+__ripe__  
+__lithe__  
+__grand-auto__ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
+__stifle__ _v_  
+__pensive__ _v_  
+__peroxide__  
+__grudge__ _I don't hold any grudges._  
+__snub-nosed__ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
+__hail__ :two::shit: _Raindrops that stung like hail._ _A hail of gunfire._  
+__flare__ _He took an emergency flare from the glove box._  
+__caboose__ _n_  
+__stewed tomatoes__  
+__fortified wine__  
+__pool cues__  
+__solipsistic__  
+__spill__ _v_ _Spilling the coins of a ro
 
 
 
