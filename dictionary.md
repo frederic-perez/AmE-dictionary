@@ -185,6 +185,94 @@ __solipsistic__
 __spill__ _v_ _Spilling the coins of a ro
 
 
+__spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
+__bilge__ _n_  
+__shrapnel__  
+__winch__ _He winched his boat onto his trailer._  
+__hard-boiled egg__  
+__VC__  
+__slick__ _He stole a slick from the ARVN._  
+__frags__ _n_ _They taped frags to the tops of the drums._  
+__dyke__ _n_ _She wasn't a dyke, either._  
+__skell__ _How you like it, skell?_  
+__shutters_ _n_  
+__lolled__ _v_  
+__morsel__  
+__avuncular__  
+__admonition__  
+__muss__ _No fuss, no muss._  
+__wind-up__ _n_  
+__cackling__ _v_  
+__squat__ _Didn't know squat aboit what went on over there._  
+__mantel__ _n_  
+__sawhorses__ _n_  
+__gandy__ _Gandy walkers._  
+__churn__ _v_ _Churning sand._  
+__sluice__ _v_  
+__spittle__ _n_  
+__jigger__ _n_  
+__felt pen__  
+__tendrils__ _n_  
+__carrion bird__  
+__cawed__ _v_  
+__scrofulous__  
+__humped__ _v_  
+__bunch__ _v_  
+__blue string__  
+__flak__ _Flak juice._  
+__jigger__ _n_ _He poured into a jigger._  
+__cadged__ _v_ _Cadged drinks._  
+__bag out__ _v_ Why'd you bag out on me?_  
+__spittle__ _n_  
+__paring knife__ _n_  
+__sublet__ _v_ :es: subalquilado?  
+__skips__ _n_ _One of the skips yelled._  
+__hemmed__ _v_  
+__sinewy__ _adj_ _A sinewy man._  
+__bobber__ _n_  
+__cappie__ _n_  
+__leper__  
+__season__ _v_  
+__syllogism__  
+__scapular__  
+__wiggle__ _The worm that lost its wiggle._  
+__gabled__ _v_  
+__trellis__ _n_  
+__celery__ _n_  
+__buffet__ _v_  
+__gums__ _n_  
+__snuff__  
+__sand spits__  
+__rain slickers__ _n_  
+__curlicued__ _v_  
+__dismal__ _adj_  
+__yoke__ _Egg yoke._  
+__soot__  
+__pith helmet__  
+__screech__  
+__sequined__ _v_  
+__cusp__ _A pale yellow cusp of wstern sun._  
+__pallet__ _n_  
+__flapjack__ _n_  
+__muslin__  
+__roil__ _v_ _The sky was gray and roiling with clouds._  
+__buffed__ _v_  
+__turpentine__ _n_  
+__briers__  
+__brambles__  
+__frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
+__droppings__ _n_  
+__puff__ _n_  
+__crossbeam__ _n_  
+__lace__ _n_  
+__mattock__  
+__pry__ _v_  
+__stintful__  
+__suffused__ _v_  
+__scythe__  
+__cornstarch__  
+
+
 
 
 
