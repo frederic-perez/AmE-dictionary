@@ -1,4 +1,156 @@
 
+__yellow wine__  
+__slung__ _AHis nose broke and slung a string of blood across his shoulder._  
+__jutted__ _v_  
+__garroted__ _v_  
+__snags__ _n_  
+__strayed__ _v_  
+__hoop dress__  
+__arbor__ _An arbor of live oaks._  
+__paucity__  
+__skid row__ _His father would take him to a blind pig on skid row._  
+__tab__ _The old man got drunk on their tab._  
+__dazzling__  
+__hardwood__ _The hardwood floor._  
+__ricochet__  
+__backwoods__  
+__coonasses__  
+__inadvertent__  
+__meltdown__  
+__humps__ _Two green humps in the mist._  
+__depleted__ _v_  
+__spike__ _v_  
+__drag__  
+__shit-canning__  
+__cement bird bath__  
+__flopper__ _n_ _Try keeping your flopper in your pants for a change._  
+__go south__ _This one went south on me._  
+__skillet__  
+__maw__ _n_  
+__scrawled__ _v_  
+__hicks__ _A collection of web-toed hicks._  
+__wade__ _v_  
+__festooned__ _v_  
+__cacophony__  
+__calliopes__  
+__balm__  
+__tink__ _v_  
+__clod__ _A dirt clod._  
+__sassed__ _v_  
+__guffawing__  
+__tout__  
+__vane__ _n_ _A weather vane._   
+__RICO__ _He had been indicted on RICO charges._  
+__juleps__  
+__sprig__ _A sprig of mint._  
+__privy__  
+__tarp__ _n_  
+__revelers__  
+__windshield wipers__  
+__lath__  
+__stamped__  
+__scleroderma__  
+__bleary__  
+__kroop__  
+__funk__ _She breathed the funk that rose from her armpits._  
+__stretch marks__  
+__tallow__  
+__Spanish moss__  
+__overripe__ _An overripe eggplant._  
+__prizefighter__  
+__rosin box__  
+__dustpan__  
+__whisk broom__  
+__bleary__  
+__gullibility__  
+__ordnance__  
+__scudding__  
+__J-strokes__  
+__pisspot__  
+__purse__ _v_ _His lips pursed._  
+__slough__  
+__stock__ _The plastic stock of the rifle._  
+__harangues__  
+__gingerly__ :es: con cautela?  
+__walkups__ (or walk-ups?)  
+__Collins glass__  
+__jet black__ _Her hair was jet black._  
+__piping__ _I saw a man in a pale blue suit with white piping on the lapels._  
+__severance pay__  
+__Geronimo wire__  
+__inarticulate__ _Inarticulate people._ :es: incapaz de expresarse  
+__something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
+__necromancer__  
+__bequeathed__ _v_  
+__tester bed__  
+__imbued__  
+__evening star_ _The evening star was out and the moon rising._  
+__trot line__  
+__mudcat__ _n_  
+__wisps__ _Wisps of her hair had fallen loose from her barrette._  
+__barrette__  
+__sliver__ _n_  
+__small__ _I rubbed the small of her back._  
+__weevil__ _Weevil worms._  
+__stick__ _v_ _She began sticking files in a cabinet._  
+__strap overalls__  
+__okra__  
+__drainboard__  
+__gutter__ _n_ _He turned his head and spit in the gutter._  
+__lath__ _n_  
+__water buffalo__  
+__penned hogs__  
+__rendering plant__  
+__carnie man__ Carnival man?  
+__disarray__ _The room was in disarray._  
+__hooch__  
+__gas-guzzler__  
+__tuck__  
+__locusts__  
+__spigot__ _A water spigot._  
+__shiner bucket__  
+__schooling__ _I could smell trout schooling up in the bay._  
+__lug wrench__  
+__axle__ _n_  
+__sicced__ _v_  
+__jam up__ _v_  
+__muggers__  
+__dagos__  
+__blackjack__  
+__humidor__ _n_  
+__cloying__  
+__martyr__  
+__Gibson glass__  
+__pearl onions__  
+__sway__  
+__profligate__  
+__pliant__  
+__high beams__  
+__bullhorn__  
+__fire retardant__  
+__jaundice__  
+__mamasan__  
+__piano wire__  
+__guppy__  
+__Mace__ _v_  
+__slay__ _v_  
+__good-nature__  
+__shine (someone) on__ _Don't shine me on._  
+__snooty__  
+__stilt__ _Stilt house._  
+__straining__  
+__painter__  
+__tannic__  
+__ruddy__  
+__prissy__  
+__deck railing__  
+__mustache__  
+__tasseled__  
+__zoot__ _Zoot pants._  
+__butcher paper__  
+__besmirched__ _v_  
+
+
 
 __scudding__ _v_  
 __brittle__  
