@@ -2,6 +2,61 @@
 
 
 
+__amassing__ _v_  
+__capstone__ _n_  
+__bracing__ _v_  
+__Texas Panhandle__  
+__shale__  
+__in short order__  
+__caved__ _v_  
+__harking__ _v_  
+__abandon__ _Netflix is spending with abandon._  
+__fare__ _n_  
+__skit__ _n_  
+__shelved__ _v_  
+__endowment__  
+__enshrined__  
+__tyrant__  
+__clobbering__  
+__undue__  
+__trample__ _v_  
+__wretched__  
+__whiff__  
+__hurled__ _v_  
+__odometer__  
+__suffuse__  
+__wayside__  
+__attrition__  
+__chuck out__ _v_  
+__bailouts__  
+__underpin__  
+__tenets__  
+__unfettered__  
+__brainchild__  
+__tap__ _v_  
+__scupper__ _v_  
+__primacy__ _n_  
+__worrywarts__  
+__cog__  
+__wistful__  
+__downbeat__  
+__feuded__  
+__let alone__  
+__veneer__  
+__take one's cut__ _He was finished taking his cuts in batting practice._  
+__bunted__ _v_  
+__tussled__ _v_  
+__burnish__ _v_  
+__scourge__ _n_  
+__vicious__  
+__trickle__ _v_  
+__shopkeeper__  
+__fight club__  
+__hoverboard__  
+__hazard__ _A 465-yard  par with a water hazard._  
+__dumbstruck__  
+
+
 
 
 
