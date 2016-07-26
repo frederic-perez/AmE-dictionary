@@ -3,6 +3,35 @@
 
 
 
+__swoon__ _v_  
+__smattering__  
+__strobe__ _ Writhing in the strobe lights after dark._  
+__smock__ _v_  
+__unapologetic__  
+__kitsch__  
+__alpaca__  
+__bib__ _Midcalf silk dresses came with ruffled bibs and hems._  
+__endowment__  
+__Ivy League__  
+__Sweet 16__ _sports_  
+__livelihoods__  
+__undercutting__  
+__Q__ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work._  
+__paper towels__  
+__turnover__  
+__compel__ _v_  
+__waivers__ _n_  
+__dismal__  
+__buyout__ _n_  
+__penchant__  
+__spat__ _Public spat._  
+__hissy__ _Hissy fit._  
+__licorice__ _Colored licorice candy._  
+__pompadour__  
+
+
+
+
 
 
 
