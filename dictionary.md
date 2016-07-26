@@ -556,9 +556,8 @@ __boisterous__ :two: :shit:
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bolo tie__ _n_  
 __bologna__  
-__bolster__ (bolstered) :seven: _v_  Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
-__bolster__ (bolstered) :two: :shit: _v_  
-__bolster__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
+__bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
+__bolster<sup>2</sup>__ _v_ :nine: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bombast__  
 __bombast__ _Let's drop the bombast and look at the evidence._  
 __bombastic__  
@@ -704,8 +703,8 @@ __bunk__ _n_ :two: A narrow shelf-like bed, typically one of two or more arrange
 __bunkmates__  
 __bunraku__  
 __bunt__ _v_ :two::shit: (bunted) _Hamels batted in the third inning and tried to bunt._  
-__buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoy<sup>1</sup>__ _n_  
+__buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyant__  
 __buoyant__ :three: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __burgundy__ _Burgundy outfit._  
@@ -3795,8 +3794,8 @@ __shady__
 __shaggy hemp__  
 __shaggy__  
 __shah__ _n_  
-__shale__ _n_ :four: A soft kind of rock that splits easily into flat pieces. :es: esquisto, pizarra  
 __shale__ _adj_ _The shale parking lot._  
+__shale__ _n_ :four: A soft kind of rock that splits easily into flat pieces. :es: esquisto, pizarra  
 __shale__ _v_  
 __sham__ _adj_ Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._  
 __shambolic__  
@@ -4120,8 +4119,7 @@ __snub__ _v_ :nine::arrow_up_small::o2: /snʌb/ (snubs, snubbed) Rebuff, ignore,
 __snubbed__ _Snubbed nose._  
 __snuff out__ _v_  
 __snuff__  
-__snug__  
-__snug__ _v__  
+__snug__ _v__ :two::shit:  
 __snuggles__  
 __sociopaths__  
 __sod__ _n_  
@@ -4143,8 +4141,7 @@ __solipsistic__
 __sombreros__  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
 __sooner > sooner rather than later__  
-__soot__  
-__soot__  
+__soot__ :two::shit:  
 __soppy__  
 __sorrel__  
 __sort put__  
@@ -4410,36 +4407,23 @@ __strobe lights__ _The Cubs packed up their fog machine and strobe lights._
 __struck__  
 __strung out__  
 __strut__ :three: :shit: _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
-__stubble__ :two:  
-__stubble__ _Smoke from a distant stubble fire._  
-__stubble__ _n_  
-__stubble__ _n_  
-__stubble__ _n_ :six::shit: _The sugarcane stubble._  
+__stubble__ _n_ :nine::arrow_up_small::o2::shit: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
 __stubby__  
-__stubs__  
-__stubs__  
+__stubs__ :two::shit:  
 __stuck a chord__  
-__stud__ _v_  
-__studded__  
-__studded__ _v_  
+__stud__ _v_ :three::shit: (studded)  
 __studs__  
-__stuffy__  
-__stump__ 
-__stump__  
-__stump__ :four::shit: _Stump speech._  
-__stump__ _Stump fire._  
+__stuffy__   
+__stump__ :seven::shit: _Stump speech._ _Stump fire._  
 __stunned__ :two::shit:  
 __stunner__  
 __stunts__ _Singers emphasoze stunts over music._  
 __stymie__ _v_ (stymied) :seven::shit:  
 __subdue__  
-__sublet__ _v_  
-__sublet__ _v_ :es: subalquilado?  
-__subletting__ _v_  
+__sublet__ _v_ :three::shit: (subletting) :es: subalquilado?  
 __subpoena__ :two::shit:  
 __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
-__subside__  
-__subsided__ _v_  
+__subside__ _v_ :two::shit: (subsided)  
 __subsidy__  
 __substation__  
 __subterfuge__  
@@ -4598,20 +4582,15 @@ __tempestuous__
 __tenants__  
 __tendrils__ _n_  
 __tenets__  
-__tenuous__  
-__tenuous__  
-__tepid__  
-__tepid__  
+__tenuous__ :two::shit:  
+__tepid__ :two::shit:  
 __terrapin__  
-__terry-cloth robe__  
-__terry-cloth__ :two::shit: _A blue terry-cloth pullover._  
-__tester bed__  
-__tester bed__  
+__terry-cloth__ :three::shit: _A blue terry-cloth pullover._  
+__tester bed__ :two::shit:  
 __thankless__ Ungrateful  
 __thashing__  
 __that's the breaks__  
-__thaw__ :two: :shit: _It kept the door open for a possible thaw in relations between the Koreas._  
-__thaw__ _n_  
+__thaw__ _n_ :three::shit: _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__  
 __the "m" word__  
 __the 105's__  
@@ -4743,9 +4722,7 @@ __trawler__
 __treachery__  
 __treading__  
 __treble__ :two::shit: _A treble hook._  
-__trellis__  
-__trellis__  
-__trellis__ _n_  
+__trellis__ _n_ :three::shit:  
 __trepidation__  
 __tresses__ _Blond tresses._  
 __trestle__ /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
