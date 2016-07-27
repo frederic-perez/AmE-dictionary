@@ -388,8 +388,7 @@ __basin__
 __basing__  
 __basket case__  
 __bass__ _Fingerling bass._  
-__bastion__  
-__bastion__ _He tried to soften the National Front's image as a bastion of xenophobes._  
+__bastion__ :two::shit: _He tried to soften the National Front's image as a bastion of xenophobes._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __baton__ _n_  
@@ -619,8 +618,7 @@ __brayed__ _v_ :two::shit: (braying)
 __brazen__ :two::shit: _Brazen lyrics._  
 __brazenly__  
 __brazer__  
-__breach__  
-__breach__ _v_  
+__breach__ _v_ :two::shit:  
 __break-the-china__  
 __breakaway__  
 __breakdown__ _Population breakdown._  
@@ -1505,8 +1503,7 @@ __epicurean__
 __epidemic__ _n_ Notice: _n_!  
 __epithet__  
 __epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
-__epitomize__  
-__epitomize__ (epitomized) :five: _v_ Be a perfect example of.  
+__epitomize__ _v_ :six: (epitomized) Be a perfect example of.  
 __eponymous__ (eponymously) :two: :shit:  
 __equaled__ _v_  
 __equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
@@ -1920,9 +1917,8 @@ __grandiose__
 __grandstand__ _He found rats in his grandstand._  
 __granola__ _n_  
 __grapple__ (grappled, grappling) :nine::arrow_up_small::o2: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
-__grate__  
-__grate__ (grated, grating) :three: _v_ Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
-__grate__ _n_  
+__grate<sup>2</sup>__ _v_ :four: (grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
+__grate<sup>1</sup>__ _n_  
 __grating__ _v_ _A grating sound._  
 __gravely__  
 __gravesite__  
@@ -2500,8 +2496,7 @@ __libation__
 __libel__  
 __lice__ :three: :shit: _Checked him for lice._  
 __lice__ _Nits make lice._  
-__licorice__ :two::shit:  
-__licorice__ _Colored licorice candy._  
+__licorice__ :three::shit: _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __liege__  
 __lifeblood__ :two: The blood, as being necessary to life.  
@@ -2828,6 +2823,7 @@ __nipped__ _The Gaels were nipped at Washington._
 __nitpick__  
 __nitpicked__ _v_  
 __nits__ _Hair filled with nits._  
+__no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __noddies__ _n_  
 __non sequiturs__  
@@ -2900,8 +2896,7 @@ __oomph__
 __ooze__ (oozed, oozing) :four: _v_ __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __oozed__ _v_  
 __oozing__ _v_  
-__op-ed__  
-__op-ed__ :four: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
+__op-ed__ :five: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open-wheel__ :three: :shit: _Open-wheel cars._  
 __orb__  
 __orb__ _n_  
@@ -2929,11 +2924,9 @@ __outlast__ _v_
 __outlay__ _Budget outlays._  
 __outlook__  
 __outmanoeuvred__  
-__outpacing__  
-__outpacing__  
+__outpacing__ :two::shit:  
 __outpatient__  
-__outrage__  
-__outrage__  
+__outrage__ :two::shit:  
 __outrageous__  
 __outriggers__  
 __outré__  
@@ -3156,8 +3149,7 @@ __plucked__
 __plugger__  
 __plum trees__  
 __plum wine__  
-__plum__ _n_  
-__plum__ _n_  
+__plum__ _n_ :two::shit:  
 __plumb__ _v_  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_  
@@ -3440,8 +3432,8 @@ __reeds__
 __reeds__  
 __reefer__ :two::shit: _He was hitting on a reefer._  
 __reefs__  
-__reek<sup>2</sup>__ _v_ :six: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
 __reek<sup>1</sup>__ _n_  
+__reek<sup>2</sup>__ _v_ :six: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
 __reeling__ :four::shit: _Reeling economy._  
 __referenda__  
 __refurbish__  
@@ -4040,19 +4032,13 @@ __slouch__ _Slouch hat._
 __slouching__ _v_  
 __slouchy__  
 __slough__  
-__slough__ :four::shit: _Henry sloughs off questions about his odometer._  
-__slough__ _n_  
-__slough__ _n_  
+__slough<sup>2</sup>__ _v_ :four::shit: _Henry sloughs off questions about his odometer._  
+__slough<sup>1</sup>__ _n_ :two::shit:  
 __slow-as-molases__  
-__sludge__ :two: :shit: _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._  
-__sludge__ _Oil sludge._  
+__sludge__ :three::shit: _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug__ (slugs) :two: :shit:  
 __slugs__  
-__sluice__ _v_  
-__sluice__ _v_  
-__sluicing__  
-__sluicing__ _v_  
-__sluicing__ v_  
+__sluice__ _v_ :five::shit: (sluicing)  
 __slum__ (slums) :five: :shit: _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slumber__ Nap?  
 __slumming__  
@@ -4456,15 +4442,11 @@ __swampy__
 __swank__  
 __swashbuckling__  
 __swatches__  
-__swath__  
-__swath__ (swaths) :three: _n_ __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
-__swathe__ _n_   
-__swathe__ _v_ :two::shit:  
-__swaths__  
-__swaths__  
-__swatted__    
-__sway__  
-__sway__ _n_ (swayed, swaying) :nine::arrow_up_small::o2: Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._  
+__swath__ _n_ :six: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swathe<sup>1</sup>__ _n_   
+__swathe<sup>2</sup>__ _v_ :two::shit:  
+__swatted__  
+__sway__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._  
 __sweat it__ _Don't sweat it._  
 __sweatpants__  
 __sweethearts__  
@@ -4770,15 +4752,14 @@ __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ 
 __turgid__  
 __turkey drumstick__  
 __turnip__ _n_  
-__turnover__  
-__turnover__ :two: _n_ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._  _:es: facturación, volumen de ventas_  
+__turnover__ _n_ :three: The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._  _:es: facturación, volumen de ventas_  
 __turnround__  
 __turnstile__ _n_  
 __turpentine__ _n_  
 __turpitude__  
 __tussle__ _v_ :five::shit: (tussled, tussling)  
-__twang__ _n_  
-__twang__ _v_  
+__twang<sup>1</sup>__ _n_  
+__twang<sup>2</sup>__ _v_  
 __twanger__ _n_  
 __twat__  
 __twine__  
@@ -5157,8 +5138,7 @@ __yarn du jour__
 __yarn__  
 __yawing__ _v_  
 __yawning pit__  
-__yawning__ _They dissected the yawning door of a junked Coca-Cola machine._  
-__yawning__ _Yawning aperture._  
+__yawning__ :two::shit: _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._  
 __yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ :three: :shit:  
 __yellow wine__  
