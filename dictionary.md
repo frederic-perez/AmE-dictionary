@@ -561,8 +561,7 @@ __bolo tie__ _n_
 __bologna__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
-__bombast__  
-__bombast__ _Let's drop the bombast and look at the evidence._  
+__bombast__ :two::shit: _Let's drop the bombast and look at the evidence._  
 __bombastic__  
 __bombsights__  
 __bon ton__  
@@ -705,8 +704,7 @@ __bunraku__
 __bunt__ _v_ :two::shit: (bunted) _Hamels batted in the third inning and tried to bunt._  
 __buoy<sup>1</sup>__ _n_  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
-__buoyant__  
-__buoyant__ :three: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
+__buoyant__ :four: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __burgundy__ _Burgundy outfit._  
 __burlap__ _n_ :two::shit:  
 __burly__ _A burly man._  
@@ -960,8 +958,7 @@ __comfy__
 __comity__  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commendation__ _He earned two commendation medals._  
-__commissioned__  
-__commissioned__ :open_mouth:  
+__commissioned__ :open_mouth::two::shit:  
 __commode__  
 __commoditization__  
 __communiqué__ (communiqués) :two: :shit:  
@@ -1007,8 +1004,7 @@ __construe__ _v_
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __content__  
 __contention__ :seven: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda  
-__contentious__  
-__contentious__ :two: :shit:  
+__contentious__ :three::shit:  
 __contiguous > the contiguous U.S.__  
 __contingency plan__  
 __contingency__  
@@ -1875,8 +1871,7 @@ __gloom__ _n_
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __glowering__  
 __glue > a glue-type player__  
-__glut__  
-__glut__ :two: :shit:  
+__glut__ :three::shit:  
 __gnarled__ _v_  
 __gnat__  
 __gnaw__ (gnawed, gnaw out) :three: /nɔː/ _v_ To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._  
@@ -1917,8 +1912,8 @@ __grandiose__
 __grandstand__ _He found rats in his grandstand._  
 __granola__ _n_  
 __grapple__ (grappled, grappling) :nine::arrow_up_small::o2: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
-__grate<sup>2</sup>__ _v_ :four: (grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
 __grate<sup>1</sup>__ _n_  
+__grate<sup>2</sup>__ _v_ :four: (grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
 __grating__ _v_ _A grating sound._  
 __gravely__  
 __gravesite__  
@@ -2100,8 +2095,7 @@ __hemmed__ _v_
 __hemp__  
 __henchman__ (henchmen) :two: :shit: _The chuckling henchman showed that feeding alligators had its downfalls._  
 __herald__ _v_  
-__heretofore__  
-__heretofore__  
+__heretofore__ :two::shit:  
 __herky__ (herky-jerky driving)  
 __herons__ :two::shit:  
 __hew__ _v_ :five::shit: (hewing, hewn)  
@@ -3095,6 +3089,7 @@ __pinned__
 __pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
 __pinwheel__ _v_  
 __pinwheeling__  
+__pipe down__ _informal_ Stop talking; be less noisy. _Pipe down, will you, I'm on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
 __pipe dream__  
 __pipe tape__  
 __pipehead__  
@@ -3614,8 +3609,8 @@ __salve__
 __salvo__ :two: :shit:  
 __samosas__  
 __sand spits__  
-__sand__ _You got sand._  
-__sand__ _v_ _Sanding the wood._  
+__sand<sup>1</sup>__ _n_ _You got sand._  
+__sand<sup>2</sup>__ _v_ _Sanding the wood._  
 __sandbags__  
 __sandlot__   
 __sandpits__ _n_  
@@ -3820,12 +3815,9 @@ __shelved__ _v_ :three::shit: _The Supreme Court temporarily shelved his Clean P
 __sherbet punch__  
 __shiet__  
 __shift__  
-__shill__ :two: :shit: _v_  
-__shill__ _n_  
-__shimmer__ _Shimmering eyes._  
-__shimmer__ _v_  
-__shimmer__ _v_  
-__shimmering__ _v_  
+__shill<sup>2</sup>__ _v_ :two::shit:  
+__shill<sup>1</sup>__ _n_  
+__shimmer__ _v_ :four::shit: (shimmering) _Shimmering eyes._  
 __shimmying__ :two: :shit:  
 __shinbones__  
 __shindig__  
@@ -3987,27 +3979,23 @@ __slick__ :two: :shit: _He carried me piggyback into the slick._ _They were slic
 __slick__ _He stole a slick from the ARVN._  
 __slick__ _It was a slick scam._  
 __slick__ _The alligators were slick with mud._  
-__slick__ _The slick surface._  
-__slick__ _adj_  
-__slick__ _adj_  
+__slick__ _adj_ :three::shit: _The slick surface._  
 __slick__ _n_  _He flew a slick in Vietnam._  
 __slick__ _v_ :two::shit:  
 __slide__ :two: :shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
-__slider__ :two: :shit: _What's up with someone's slider?_  
-__slider__ _n_  
+__slider__ _n_ :three::shit: _What's up with someone's slider?_  
 __slight__  
 __slighted__  
 __slim jim__ _n_ :two::shit: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__  
-__sling__ _The sling wrappred around his forearm._  
-__sling__ _n_  
-__slip__ _A pink slip._  
-__slip__ _v_ Decrease?  
+__sling__ _n_ :two::shit: _The sling wrappred around his forearm._  
+__slip<sup>1</sup>__ _n_ _A pink slip._  
+__slip<sup>2</sup>__ _v_ Decrease?  
 __slippers__  
 __slips__ _Sailboats were rocking in their slips._  
 __slit > hi-slit dress__  
 __slit__ _n_  
-__slit__ _v_ _Slitted dorr._  
+__slit__ _v_ _Slitted door._  
 __slit__ _v_ _The screen was slit on the back porch door._  
 __slithering__  
 __sliver<sup>1</sup>__ _n_ :two::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._  
@@ -4031,9 +4019,9 @@ __sloth__
 __slouch__ _Slouch hat._  
 __slouching__ _v_  
 __slouchy__  
-__slough__  
-__slough<sup>2</sup>__ _v_ :four::shit: _Henry sloughs off questions about his odometer._  
 __slough<sup>1</sup>__ _n_ :two::shit:  
+__slough<sup>2</sup>__ _v_ :four::shit: _Henry sloughs off questions about his odometer._  
+__slough__  
 __slow-as-molases__  
 __sludge__ :three::shit: _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug__ (slugs) :two: :shit:  
@@ -4071,9 +4059,9 @@ __smugness__
 __snag<sup>1</sup>__ _n_ :es: problema  
 __snag<sup>2</sup>__ _v_ :two::shit: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snags__ _n_  
-__snap__ :two: :shit: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._  
-__snap__ _Snapping dog._  
-__snaps__ _He took his first snaps with the starters._  
+__snap<sup>1</sup>__ _n_ :two::shit: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
+__snap<sup>2</sup>__ _v_  
+__snap<sup>3</sup>__ _adj_ _Snapping dog._  
 __snare drums__  
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
@@ -4148,23 +4136,17 @@ __specs__ Spectacles, glasses.
 __speed demon__  
 __spendolie__  
 __spew__ _v_  
-__spigot__ :two: :shit:  
-__spigot__ _A water spigot._  
+__spigot__ :three::shit: _A water spigot._  
 __spigots__  
-__spike__ :three: :shit: _v_ _The coach spiked his headset during Thursday's loss to the Indiannapolis Colts._  
-__spike__ _v_  
+__spike__ _v_ :four::shit: _The coach spiked his headset during Thursday's loss to the Indiannapolis Colts._  
 __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ :two: :shit:  
 __spindle__ _n_  
 __spinster__  
 __spires__ _n_  
 __spite__  
-__spiteful__  
-__spiteful__  
-__spittle__  
-__spittle__  
-__spittle__ _n_  
-__spittle__ _n_  
+__spiteful__ :two::shit:  
+__spittle__ _n_ :four::shit:  
 __spittoon__  
 __splay__  
 __splayed__ _v_  
@@ -4531,11 +4513,7 @@ __tarpon__
 __tarps__ _n_  
 __tart__ _She'd bitten into something overly tart._  
 __tartan__ _Tartan upholstery._  
-__tasseled__  
-__tasseled__ _Tasseled loafers._  
-__tasseled__ _Tasseled loafers._  
-__tasseled__ _v_  
-__tasseled__ _v_ _Tasseled loafers._  
+__tasseled__ _v_ :four::shit: _Tasseled loafers._  
 __tassels__ _A thong with tassels._  
 __tatter__ (tattered) :four: _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
 __tatters__ _Its reputation is in tatters._  
@@ -4547,10 +4525,8 @@ __taxa__
 __tchotchkes__  
 __teakwood__ :open_mouth:  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
-__teeming__ :two: :shit: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
-__teeming__ _v_  
-__teetering__ :two: :shit:  
-__teetering__ _v_  
+__teeming__ _v_ :three::shit: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
+__teetering__ _v_ :three::shit:  
 __teeters__  
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
