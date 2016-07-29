@@ -710,8 +710,8 @@ __burp__
 __burqa__  
 __burr haircut__  
 __burrhead__ _n_  
-__burrow__ :two::shit:  
-__burrow__ _v_  
+__burrow<sup>1</sup>__ _n_ :two::shit:  
+__burrow<sup>2</sup>__ _v_  
 __busboy__ _n_ A young man who clears tables in a restaurant or cafe.  
 __busker__  
 __bust__ :two::shit: _n_ _A dusty bust of Shakespeare._  
@@ -884,8 +884,7 @@ __clampdown__ :two::shit:
 __clang__ _v_  
 __clanked__  
 __clap__ _n_ :two::shit: _Incurable clap._  
-__clapboard__  
-__clapboard__ _n_  
+__clapboard__ _n_ :two::shit:  
 __clapper__ _He tried to turn somebody into a human bell clapper._  
 __claret__  
 __clarion call__ :two::shit:  
@@ -1264,8 +1263,7 @@ __disgruntlement__
 __disheveled__  
 __disinfectant__ :open_mouth: _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuousness__  
-__dismal__  
-__dismal__ _adj_ :two: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
+__dismal__ _adj_ :three: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
 __dismissive__ _Healthy young adults often are dismissive of health issues._  
 __disparagement__ :two:  
 __disparaging__  
@@ -1458,17 +1456,14 @@ __enact__ :three: _v_ Make (a bill or other proposal) law. _Legislation was enac
 __enamel__  
 __encampment__  
 __encore__ :two::shit:  
-__encroaching__  
-__encroaching__  
-__encroachment__  
-__encroachment__  
+__encroaching__ :two::shit:  
+__encroachment__ :two::shit:  
 __end over end__ _He tossed the cigarette end over end  into the wastebasket._  
 __end run__ :two::shit:  
 __endeared__  
 __endearing__ _adj_ :five: Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endow__ _v_  
-__endowment__  
-__endowment__ :two::shit:  
+__endowment__ :three::shit:  
 __engrossed__  
 __enlivened__  
 __enmity__ :two::shit:  
@@ -1725,8 +1720,7 @@ __forestalled__
 __forfeit__ (forfeited, forfeiting) :four: _v_ Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._  
 __forfeit__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
-__forgo__ :three: _v_ Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
-__forgo__ _v_  
+__forgo__ _v_ :four: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forlorn__ :four: _adj_ __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __fortified wine__  
 __foul play__ :two: Violence, esp. murder.  
@@ -1880,8 +1874,7 @@ __goaltender__
 __gobble up__ :two::shit: _v_  
 __goblins__  
 __gold rush__  
-__gonzo__  
-__gonzo__ :two::shit:  
+__gonzo__ :three::shit:  
 __goo__ _Informal_ Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
 __good sport(s)__  
@@ -1979,8 +1972,7 @@ __gunnysack__ :three::shit: (gunnysacks)
 __gunslinger__ _The speed of a gunslinger._  
 __gunwhale__ :two::shit:  
 __guppy__ :four::shit: _His latest guppy of a girlfriend._  
-__gurney__  
-__gurney__ _n_  
+__gurney__ _n_ :two::shit:  
 __gush__ (gushing) :two::shit: _Kids were dancing in the gushing water._  
 __gusto__  
 __gut-bucket__ _A gut-bucket string band._  
@@ -2982,8 +2974,7 @@ __particle board__
 __party poppers__  
 __pass policy__  
 __pastiche__  
-__pat__  
-__pat__ _The too search engines haven't been standing pat._   
+__pat__ :two::shit: _The too search engines haven't been standing pat._   
 __pate__ _n_ :two::shit: _His grizzled pate shone like tan wax._  
 __patently__ _Patently absurd._  
 __patron__ _n_  
@@ -3100,8 +3091,7 @@ __pk__
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __plaid__ _Plaid shirt._  
 __plaintiff__ :two::shit:  
-__plaintive__  
-__plaintive__ :two::shit:  
+__plaintive__ :three::shit:  
 __plane__  
 __planks__  _Anti-austerity planks._  
 __plate__ _Baseball_  
@@ -3290,8 +3280,7 @@ __quail__ _n_
 __quaint__  
 __quaintly__  
 __qualm__ (qualms) :three: _n_ An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
-__quandary__ :two:  
-__quandary__ :two: Difficult dilemma. _All-Star managers face quandary._  
+__quandary__ :four: Difficult dilemma. _All-Star managers face quandary._  
 __quarters__ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
 __quash__ (quashed) :two::shit: _To quash her subpoena._  
@@ -3319,8 +3308,7 @@ __raccooned__ _v_
 __raccoons__  
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
-__rack up__  
-__rack up__ _v_  
+__rack up__ _v_ :two::shit:  
 __racked__  
 __racket__ :three::shit: _n_ _Extortion rackets._  
 __racket__ _v_  
@@ -3410,8 +3398,7 @@ __redress__ :four::shit:
 __redshirt__  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::shit:  
-__reeds__  
-__reeds__  
+__reeds__ :two::shit:  
 __reefer__ :two::shit: _He was hitting on a reefer._  
 __reefs__  
 __reek<sup>1</sup>__ _n_  
@@ -3748,8 +3735,7 @@ __sellout__ (sold out)
 __seminoles__  
 __sentience__  
 __sequestration__ _Sequestration of the jury._  
-__sequined__ :three::shit:  
-__sequined__ _v_  
+__sequined__ _v_ :four::shit:  
 __sequins__ :two::shit:  
 __sequiturs__  
 __servicers__  
@@ -3845,8 +3831,7 @@ __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started p
 __show runner__ :two::shit:  
 __showdown__ :three: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showtime__  
-__shrapnel__  
-__shrapnel__ :three: _n_ __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ :open_mouth: _Informal_ Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
+__shrapnel__ :four: _n_ __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ :open_mouth: _Informal_ Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
 __shriek__ (shrieked) :two::shit: _v_  
 __shrieking__  
 __shrieks__  
@@ -4112,8 +4097,7 @@ __spearhead__ (spearheaded, spearheading) :four: _v_ Lead (an attack or movement
 __special-team__  
 __specious__ _Specious argument._  
 __speck__  
-__specs__  
-__specs__ Spectacles, glasses.  
+__specs__ :two: Spectacles, glasses.  
 __speed demon__  
 __spendolie__  
 __spew__ _v_  
@@ -4274,26 +4258,11 @@ __stocking-stuffers__
 __stockpile__  
 __stodgy__ _The mainstream may sound too stodgy._  
 __stoke up__  
-__stoke__ _v_  
-__stoke__ _v_  
-__stoke__ _v_  
-__stoked__  
-__stoked__  
-__stoked__ _v_  
-__stoking__  
-__stoking__ :two:  
+__stoke__ _v_ :nine::shit:  
 __stonewall__ :two::shit: _v_  
-__stoop__ _n_  
-__stooped__  
-__stooped__  
-__stooped__ _v_  
-__stooped__ _v_  
-__stooping__ _v_  
-__stooping__ _v_  
-__stop short__  
-__stop short__  
-__stop short__ :three::shit:  
-__stop short__ _v_  
+__stoop<sup>2</sup>__ _n_  
+__stoop<sup>1</sup>__ _v_ :six::shit:  
+__stop short__ :six::shit:  
 __stoplights__ :open_mouth:  
 __stopped short__ :two:  
 __storeful__  
@@ -4458,8 +4427,7 @@ __tank__ (tanked) _The market tanked._
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__  
-__tannic__  
-__tannic__ :two::shit:  
+__tannic__ :three::shit:  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ :three: _adj_ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap__ _v_ :three::shit:  
@@ -4643,12 +4611,11 @@ __trepidation__
 __tresses__ _Blond tresses._  
 __trestle__ /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
 __trestle__ _Railroad trestle._  
-__treys__  
-__treys__  
+__treys__ :two::shit:  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick pad__  
 __trickle down__ _v_ :two: To pass from high-ranked people to lower-ranked people.  
-__trickle__ :six: _n_ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._  
+__trickle__ _n_ :six: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._  
 __trickle__ _n_ _A trickle of electricity._  
 __trickle__ _v_  
 __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
