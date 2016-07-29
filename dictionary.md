@@ -1555,6 +1555,7 @@ __fare<sup>2</sup>__ _v_ :three::shit: (fared, faring)
 __fascia__ 
 __fast and furious__ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fastidious__  
+__fat rolls__ :camera::shit: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fathom__ _v_  
 __fatwa__  
 __fatwa__ Religious edict.   
@@ -2473,7 +2474,7 @@ __libation__
 __libel__  
 __lice__ :three::shit: _Checked him for lice._  
 __lice__ _Nits make lice._  
-__licorice__ :three::shit: _Colored licorice candy._  
+__licorice__ :three::shit::camera::shit: _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __liege__  
 __lifeblood__ :two: The blood, as being necessary to life.  
@@ -4158,8 +4159,8 @@ __squander__
 __square deal__  
 __squat down__ _v_  
 __squat<sup>1</sup>__ _v_ :four: (squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
-__squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squat<sup>2</sup>__ _adj_ :two: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ 	stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
+__squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squawked__ _The walkie-talkie squawked._  
 __squeamish__ Easily ​upset or ​disgusted by things or ​actions you ​find ​unpleasant: _Dad was squeamish about ​killing ​roaches._  
 __squeamishness__  
@@ -4260,8 +4261,8 @@ __stodgy__ _The mainstream may sound too stodgy._
 __stoke up__  
 __stoke__ _v_ :nine::shit:  
 __stonewall__ :two::shit: _v_  
-__stoop<sup>2</sup>__ _n_  
 __stoop<sup>1</sup>__ _v_ :six::shit:  
+__stoop<sup>2</sup>__ _n_  
 __stop short__ :six::shit:  
 __stoplights__ :open_mouth:  
 __stopped short__ :two:  
@@ -4401,8 +4402,8 @@ __swooshing__
 __sycophants__  
 __syllogism__ :two::shit:  
 __syrupy__  
-__tab<sup>2</sup>__ _v_ (tabbed, tabby)  
 __tab<sup>1</sup>__ _n_ :four: __Informal__ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
+__tab<sup>2</sup>__ _v_ (tabbed, tabby)  
 __table tennos__  
 __tableaux__ 
 __tack__ :two::shit: Tactics? _The GOP changed its tack._  
@@ -4645,6 +4646,7 @@ __trusties__
 __tryst__  
 __tubbing up__ _I keep tubbing up._  
 __tube > shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
+__tube socks__ :camera:shit: A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro '70s-'80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tuck away__  
 __tuck__  
 __tucked__  
