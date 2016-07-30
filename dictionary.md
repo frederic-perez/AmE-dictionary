@@ -65,8 +65,7 @@ __Generation Yers__
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo wire__ :two::shit:  
 __Gibson glass__  
-__Gordian knot__  
-__Gordian knots__  
+__Gordian knot__ :two::shit:  
 __Great Dane__  
 __HMOs__  
 __Hedonism__  
@@ -88,8 +87,7 @@ __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._
 __Labrador__  
 __Loot__  
 __M.O.__ Modus operandi?  
-__ME__ :two: Medical Examiner. _The ME said there was a look frozen in their eyes._  
-__ME__ _The ME dug him out of the ashes and opened him up._  
+__ME__ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __MIA__ Missing in Action.  
 __Mace__ _v_  
 __Mach number__ :open_mouth:  
@@ -223,8 +221,7 @@ __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, w
 __alderman__ _n_  
 __alienated__  
 __all that jazz__  
-__allay__ _v_  
-__allay__ _v_  
+__allay__ _v_ :two::shit:  
 __allayed__ _v_  
 __alleged__  
 __allotment__  
@@ -418,13 +415,11 @@ __befitting__
 __befuddled__  
 __beggar-thy-neighbor__  
 __begrudge__ :two::shit:  
-__beguiling__  
-__beguiling__ _The Artist has an utterly beguiling purity._  
+__beguiling__ :two::shit: _The Artist has an utterly beguiling purity._  
 __behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ :two: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ _The wedding ceremony was a joy to behold._  
-__beholden__  
-__beholden__ :two: _adj_ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
+__beholden__ _adj_ :four: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ _Everything's in the eye of the beholder._  
 __beige book__ ?  
 __beignet__ :three::shit:  
@@ -435,15 +430,13 @@ __belate__ _v_
 __belching__  
 __beleaguered__ :five: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belie__ (belies) :three: _v_ __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
-__belittle__ (belittling) :three: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
-__belittled__  
+__belittle__ (belittling) _v_ :four: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bells and whistles__  
 __bellwether__  
 __belly-flop__  
 __belt out__  
 __belting__  
-__bemoan__ _v_ :three::shit: (bemoaning)  
-__bemoaned__  
+__bemoan__ _v_ :four::shit: (bemoaned, bemoaning)  
 __bemused__  
 __bender__ _His mother was on a bender._  
 __bento__ Boxed meals.  
@@ -467,8 +460,7 @@ __bettors__
 __bevy__ :four: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
-__bib__ _Midcalf silk dresses came with ruffled bibs and hems._  
-__bib__ _n_ :two::shit:  
+__bib__ _n_ :three::shit: _Midcalf silk dresses came with ruffled bibs and hems._  
 __bicker__ (bickering) :two: _v_ Argue about petty and trivial matters. _The time for bickering is over._  
 __bid farewell__  
 __bid rigging__  
@@ -496,7 +488,7 @@ __blackjack__ :two::shit:
 __blanched__ _v_  
 __bland__ _He had a bland voice to go with his bland face._  
 __blanket__ :two::shit: _The security blanket._  
-__blanketed__ (blanketing) :two::shit:  
+__blanketed__ _v_ (blanketing) :two::shit:  
 __blather__  
 __blaze of glory__  
 __bleak__ :six: _adj_ __1__ (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ (of the weather) Cold and miserable. _A bleak midwinter's day._ _Syn_ cold, keen, raw, harsh, wintry  
@@ -512,8 +504,7 @@ __blithe__ :two::shit:
 __blitz__ :three: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __bloc__ _n_ :two::shit:  
 __blood-expander__  
-__blooker__  
-__blookers__  
+__blooker__ :two::shit:  
 __bloop__  
 __blotches__ _n_  
 __blotter__ _n_ __1__ :four: Desk pad, a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
@@ -539,8 +530,7 @@ __bluster__
 __blustery__ :five: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._   
 __boaters__  
-__bob__ :two::shit: _v_ _Bald heads bobbed behind them._ _His small head was bobbing._  
-__bobbed__ _v_ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  
+__bob__ _v_ :three::shit: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._  
 __bobber__ _n_ :two::shit:  
 __bobby pin__  
 __bobby socks__  
@@ -576,8 +566,7 @@ __bonobo__
 __booby-trapped 105's__  
 __boogeyman__  
 __boogie__  
-__bookend__  
-__bookends__  
+__bookend__ :two::shit:  
 __bookish__  
 __boom and bust__  
 __boomer chains__  
@@ -619,8 +608,7 @@ __break-the-china__
 __breakaway__  
 __breakdown__ _Population breakdown._  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
-__breakout__  
-__breakout__ :two::shit: _He's a total breakout character._  
+__breakout__ :three::shit: _He's a total breakout character._  
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __breech__ _n_ :four::shit:  
 __brethen__  
@@ -792,7 +780,7 @@ __carpool__
 __carrion bird__ :three::shit:  
 __carry-on bag__  
 __cart__ _v_ _Quincy was carted off the field._  
-__carve out__ (carved out) :six::shit: _v_  
+__carve out__ _v (carved out) :six::shit:  
 __carveouts__  
 __cash rebate__  
 __casket__  
