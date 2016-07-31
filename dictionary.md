@@ -10,7 +10,13 @@ __fudge__ _v_
 __being on the fitz__  
 __spark plugs__  
 __nip__ _There is a nip in the air._  
-
+__spill the beans__  
+__con__ _v_  
+__con__ n_  
+__pompadour__ _n_  
+__finish one's plate__ See "clean your plate." _Finish your plate!_  
+__clean one's plate__ Eat up all the food put on one's plate.
+__pompadour__ _n_ A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
 
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
