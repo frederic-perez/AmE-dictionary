@@ -1,7 +1,19 @@
 
 
 
+__fancy-schmancy__  
+__veneer__ _n_  
+__staves__ n_  
+__rubbings__ _n_  
+__snootiness__  
+__highfalutin__ _adj_  
+__corralling__ _v_  
+__leaf mold__  
+__rite__ _n_  
+__fallow ground__  
+__tarp__  
 
+__trellis__
 
 __recoup__ _v_  
 __cliques__
