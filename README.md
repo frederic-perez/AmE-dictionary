@@ -4,7 +4,7 @@ A simple shared dictionary to be enhanced with flash-like cards (maybe we can wr
 ### Resources
 
 I collect words from multiple sources, including:
-* Tons of printed newspapers: USA Today, The New York Times, The Wall Street Journal, International New York Times, International Herald Tribune, New York Post, San Francisco Chronicle, The Denver Post, The Moscow News, The Moscow Times, etc.
+* Tons of printed newspapers: USA Today, The New York Times, The Wall Street Journal, International New York Times, International Herald Tribune, New York Post, San Francisco Chronicle, The Denver Post, Austin American-Statesman, The Moscow News, The Moscow Times, etc.
 
 <p align="center">
   <img src="https://dl.dropboxusercontent.com/u/1068081/Shared-images/AmE-dictionary--Pile-of-newspapers--256x256.jpg?raw=true" alt="Pile of newspapers"/>
