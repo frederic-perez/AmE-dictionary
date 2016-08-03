@@ -553,8 +553,7 @@ __bombast__ :two::shit: _Let's drop the bombast and look at the evidence._
 __bombastic__  
 __bombsights__  
 __bon ton__  
-__bona fide__  
-__bona fide__ :two::shit:  
+__bona fide__ :three::shit:  
 __bondage__  
 __bone > funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -706,8 +705,7 @@ __busker__
 __bust__ :two::shit: _n_ _A dusty bust of Shakespeare._  
 __busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ _The bustle of daily life._  
-__bustling__ :two::shit:  
-__bustling__ :two::shit: _A bustling tapas bar._ _The bustling dining room scene from the movie._  
+__bustling__ :four::shit: _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
 __butcher paper__  
 __butt crust__  
@@ -1541,8 +1539,7 @@ __fangs__ _n_
 __fannies__  
 __fanny pack__ A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __far cry__  
-__far-flung__  
-__far-flung__  
+__far-flung__ :two::shit:  
 __farce__  
 __fare<sup>1</sup>__ _n_ :four::shit: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._  
 __fare<sup>2</sup>__ _v_ :three::shit: (fared, faring)  
@@ -1823,8 +1820,7 @@ __genuflects__ _v_
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __get-go__  
 __getaway day__  
-__ghoul__  
-__ghoul__  
+__ghoul__ :two::shit:  
 __giddily__  
 __giddiness__  
 __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
@@ -1838,8 +1834,7 @@ __gingerly__ :es: con cautela?
 __gingham__  
 __ginning__  
 __gird__ _v_  
-__girders__  
-__girders__ _n_  
+__girders__ _n_ :two::shit:  
 __giridon__  
 __giveaway__  
 __gladdened__  
@@ -1980,8 +1975,8 @@ __hackneyed__
 __haemophilia__  
 __hagiography__  
 __hags__ _Screaming histerically like Shakespearean hags._  
-__hail__ (hailing) :two::shit: _v_  
-__hail__ :two::shit: _Raindrops that stung like hail._ _A hail of gunfire._  
+__hail<sup>1</sup>__ _v_ :two::shit: (hailing)  
+__hail<sup>2</sup>__ _n_ :two::shit: _Raindrops that stung like hail._ _A hail of gunfire._  
 __haking__  
 __halcyon__ _Halcyon time of romance._  
 __halfback__  
@@ -2236,8 +2231,7 @@ __infighting__
 __influenza__  
 __ingots__  
 __ingrained__ _Speeding is deeply ingrained in American culture._  
-__injuction__  
-__injuction__ :two: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
+__injuction__ :three: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
 __injury time__  
 __inordinate__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
@@ -2643,8 +2637,7 @@ __metronome__
 __mettle__ :two: _n_ The courage to carry on: _It's the first real test of his mettle this season._  
 __mick__ _n_ :three::shit:  
 __midday__ :open_mouth:  
-__midriff__  
-__midriff__  
+__midriff__ :two::shit:  
 __midsize__  
 __midwife__ :open_mouth: Nurse trained to assist women in childbirth.  
 __migrants__  
@@ -3301,8 +3294,8 @@ __rachet__ _I heard the phone booth door rachet back violently on its hinges._
 __racinos__  
 __rack up__ _v_ :two::shit:  
 __racked__  
-__racket__ :three::shit: _n_ _Extortion rackets._  
-__racket__ _v_  
+__racket<sup>1</sup>__ :three::shit: _n_ _Extortion rackets._  
+__racket<sup>2</sup>__ _v_  
 __racketeer__ :two: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeering__  
 __racous__  
@@ -3325,8 +3318,7 @@ __ramming__
 __ramp up__ :two::shit:  
 __rampage__  
 __rampant__  
-__ramparts__  
-__ramparts__  
+__ramparts__ :two::shit:  
 __ramshackle__ :two::shit:  
 __rank and file__  
 __rank-and-file__ :three::shit: _Rank-and-file officers._ _Rank-and-file employees._  
@@ -3467,9 +3459,7 @@ __ricochet__
 __riddance__ :two::shit:  
 __riddle<sup>1</sup>__ _n_ :two::shit:  
 __riddle<sup>2</sup>__ _v_ (riddled)  
-__rife__  
-__rife__  
-__rife__ :three::shit:  
+__rife__ :five::shit:  
 __riffle__ _v_ (riffled) :two::shit: _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
 __rifle__ _v_  
@@ -3580,9 +3570,8 @@ __sandpits__ _n_
 __sandstone__  
 __sandy-haired__  
 __sanitize__ _v_  
-__sap__ (sapped, sapping, sappy) :five: _v_ Gradually weaken or destroy (a person's strength or power).  
-__sap__ _A flat-sided sap stuck out of his back pocket._  
-__sap__ _n_  
+__sap<sup>1</sup>__ _v_ :five: (sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power).  
+__sap<sup>2</sup>__ _n_ :two::shit: _A flat-sided sap stuck out of his back pocket._  
 __saplings__ :two::shit: _Tree saplings._  
 __sarcophagus__  
 __sash__  
@@ -3647,9 +3636,7 @@ __scrap iron__ :es: chatarra?
 __scrap__  
 __scrap__ _n_ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap__ _v_  
-__scrap__ _v_ :two::shit:  
-__scrapped__  
-__scrapped__ _v_  
+__scrap__ _v_ :four::shit: (scrapped)  
 __scrapper__  
 __scrapping__ _v_  
 __scraps__ _v_  
@@ -3788,8 +3775,7 @@ __shoals__
 __shock-jock__ _n_  
 __shoddy__  
 __shogunate__  
-__shooing__  
-__shooing__ _v_  
+__shooing__ _v_ :two::shit:  
 __shoot up__ :two::shit: _The number of homeless families shot up during the recession._  
 __shooting gallery__  
 __shopkeeper__ :two::shit:  
@@ -3866,8 +3852,8 @@ __sitting American president__
 __sitting pretty__  
 __sitting__ _A sitting U.S. president._ In office or actual possession.  
 __sizable__ _Clinton's sizable lead._  
-__sizzle__ :two: _Filming a "sizzle reel."_  
-__sizzle__ :two: _v_ _Rihanna sizzled when she performed in New York._  
+__sizzle<sup>2</sup>__ _n_ :two: _Filming a "sizzle reel."_  
+__sizzle<sup>1</sup>__ _v_ :two: _Rihanna sizzled when she performed in New York._  
 __sizzling__ :two::shit: _The sizzling singer._  
 __skag__  
 __skate__ _v_ :three::shit: _He don't let nobody skate unless it's for money._  
@@ -3905,8 +3891,8 @@ __slant__
 __slapjack__  
 __slapstick__  
 __slash__  
-__slash__ _Basketball_ _He is a lanky gunner who can slash._  
-__slash__ _Slash pines._  
+__slash<sup>1</sup>__ _v_ _Basketball_ _He is a lanky gunner who can slash._  
+__slash<sup>2</sup>__ _n_ _Slash pines._  
 __slat__ _n_  
 __slather__ _To slather on hand lotion._  
 __slats__ _n_ :four::shit: _The slats in the dock._ _Wood slats._  
@@ -4058,8 +4044,7 @@ __spangle__ _v_ :five::shit: (spangled, spangling)
 __spar__ _n_  
 __spark plugs__  
 __spars__ _n_  
-__spat__ :two::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._  
-__spat__ _Public spat._  
+__spat__ _n_ :three::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._  
 __spate__ :three: /speɪt/ _n_ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spay__ _v_  
 __spd__  
@@ -4272,8 +4257,7 @@ __strictures__ :two::shit:
 __strife__ _n_ :four: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._
 __string beans__  
-__string knife__  
-__string knife__  
+__string knife__ :two::shit:  
 __stringent__ (stringently) :four::shit:  
 __stringer__ _n_ :three::shit:  
 __strivers__  
@@ -4358,14 +4342,9 @@ __swindle__
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __switch-blade__ _Switch-blade artists._  
 __swiveling__ _v_  
-__swoon__ :six: _v_ __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swoon__ _v_  
-__swooning__  
-__swoop__ :three::shit:  
-__swoop__ _v_  
-__swooped__ :two:  
-__swooping__  
-__swooping__ _v_  
+__swoon__ :seven: _v_ (swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
+__swoop<sup>1</sup>__ _n_ :three::shit:  
+__swoop<sup>2</sup>__ _v_ :four::shit: (swooped, swooping)  
 __swooshing__  
 __sycophants__  
 __syllogism__ :two::shit:  
@@ -4461,8 +4440,7 @@ __theosophy__
 __there is no denying__  
 __thereof__  
 __thermos__ _A thermos._  
-__thespian__  
-__thespian__  
+__thespian__ :two::shit:  
 __thick and thin__ _Supporters ready to back them through thick and thin._  
 __thicket__  
 __thicket__  
@@ -4472,9 +4450,7 @@ __thoroughfare__
 __thoroughly__  
 __thrall__ :two::shit:  
 __thrash__ _v_ :three::shit: (thrashed)  
-__throbbed__ _v_  
-__throbbing__ _v_  
-__throbs__ _v_  
+__throbbed__ _v_ :three::shit: (throbs, throbbing)  
 __throes__ :two::shit:  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw out the red meat__  
@@ -4488,8 +4464,7 @@ __thwart__ (thwarted) :six: _v_ Prevent (someone) from accomplishing something. 
 __tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __tick prevention__  
 __ticker__  
-__tickle__ _Does that tickle?_  
-__tickle__ _v_  
+__tickle__ _v_ :two::shit: _Does that tickle?_  
 __ticklish__  
 __tie-dye__  
 __tie-up__ _n_  
@@ -4578,8 +4553,7 @@ __treble__ :two::shit: _A treble hook._
 __trellis__ _n_ :four::shit:  
 __trepidation__  
 __tresses__ _Blond tresses._  
-__trestle__ /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
-__trestle__ _Railroad trestle._  
+__trestle__ /ˈtrɛs(ə)l/ :two: Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
 __treys__ :two::shit:  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick pad__  
@@ -4833,8 +4807,8 @@ __wean__ _v_ :four::shit: (weaned)
 __weather vane__  
 __weather__ (weathering) _v_  
 __weave__ _n_  
-__wedge__  
-__wedge__ _v_ :two::shit: (wedged) :es : acuñar  
+__wedge<sup>1</sup>__ _n_  
+__wedge<sup>2</sup>__ _v_ :two::shit: (wedged) :es : acuñar  
 __wedgie__  
 __wedhe issue__  
 __wedlock__ :two::shit:  
@@ -4869,10 +4843,11 @@ __wheel well__ _The Corvette's wheel well._
 __wheeze__  
 __whereabouts__  
 __wherewithal__  
+__wherewithal__  
 __whiff__ :two::shit:  
 __while__ _v_ _To while away the hours drinking vodka._  
-__whimper__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
-__whimper__ _n_  
+__whimper<sup>1</sup>__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
+__whimper<sup>2</sup>__ _n_  
 __whimpering__ _v_  
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
 __whippersnapper__  
