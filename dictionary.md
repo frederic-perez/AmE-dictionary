@@ -447,8 +447,7 @@ __berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She starte
 __bereavement__ _n_ State of sorrow over the death or departure of a loved one.  
 __bereft__  
 __berserk__ _adj_ __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
-__berth__ :two::shit:  
-__berth__ _Sho Sakai secured an Olympic berth._  
+__berth__ :three::shit: _Sho Sakai secured an Olympic berth._  
 __beseechment__  
 __beset__  
 __besmirch__ _v_ :three: (besmirched) To stain; sully: _a reputation that was besmirched by slander._   
@@ -1397,9 +1396,7 @@ __earth-shattering__
 __earthquake drill__  
 __easing__  
 __ebb and floor__  
-__ebb and flow__  
-__ebb and flow__  
-__ebbed and flowed__  
+__ebb and flow__ :three::shit: (ebbed and flowed)  
 __ebullient__ :two::shit:  
 __edgy__  
 __eel__  
@@ -1430,8 +1427,7 @@ __emaciate__ _v_ :three::shit: _Emaciated cancer patient._
 __emancipation__  
 __embark__ _They embark on a motorcade._  
 __embattle__ (embattled) _v_ :todo::shit:  
-__ember__ _n_  
-__ember__ _n_ A small piece of burning or glowing coal or wood in a dying fire.  
+__ember__ _n_ :two: A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzle__ (embezzling, embezzlement) :eight: /ɪmˈbɛz(ə)l,ɛm-/ _v_ Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ :es: malversación  
 __embroil__ (embroiled)  
 __emcee__ :two::shit:  
@@ -1585,8 +1581,8 @@ __fiberglass__
 __fickle__  
 __fiddled__ _v_  
 __fidget__ _v_  
-__fiduciary__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
-__fiduciary__ _n_ A trustee.  
+__fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
+__fiduciary<sup>2</sup>__ _n_ A trustee.  
 __field__ (fielded, fielding) :four: _v_ __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game.  
 __fielding__  
 __fiery__  
@@ -1661,8 +1657,8 @@ __floodgate__
 __floodlamps__  
 __floodlight__  
 __floor show__  
-__flop__ _n_ :two::shit: _You stay at the flop he's got rented for you._  
-__flop__ _v_  
+__flop<sup>1</sup>__ _n_ :two::shit: _You stay at the flop he's got rented for you._  
+__flop<sup>2</sup>__ _v_  
 __flopper__ _n_ :three::shit: _Try keeping your flopper in your pants for a change._  
 __floppy > floppy socks__  
 __florid__  
@@ -1671,8 +1667,8 @@ __flotsam__
 __flounder__ (floundering) _v_  
 __flout__ (flouted, flouting) :three: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
 __flouts__ _v_  
-__flub__ (flubbed) :four: _v_ Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
-__flub__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
+__flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
+__flub<sup>2</sup>__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluke__ :six: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flummox__ _v_  
 __flung__  
@@ -1684,8 +1680,7 @@ __flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under th
 __fly-by-night__
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __flying colors__  
-__fob__  
-__fob__  
+__fob__ :two::shit:  
 __fodder__ :five: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __foible__ :two: _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
 __folded__ _The American Soccer League folded in 1931._  
@@ -2318,8 +2313,7 @@ __junta__ :two::shit:
 __jut out__ _The head juts out of the wall._  
 __jutted__ _v_  
 __kabobs__  
-__kabuki__  
-__kabuki__  
+__kabuki__ :two::shit:  
 __kale__  
 __keel__ (keeled) :two::shit: _v_  
 __keen__ (keening) :two::shit: _v_ _The native digital companies are keen on TV._  
@@ -2547,8 +2541,7 @@ __mackerel__
 __mackinaw__  
 __madrasas__  
 __madrassas__  
-__maelstrom__  
-__maelstrom__  
+__maelstrom__ :two::shit:  
 __maggots__  
 __magpies__  
 __mahogany__ _He took a leather seat at a magohany bar._  
@@ -2707,8 +2700,7 @@ __moth__
 __moth__  
 __mothballed__ :two::shit: _v_  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
-__motley__  
-__motley__ :three::shit: _Motley crew._  
+__motley__ :four::shit: _Motley crew._  
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
@@ -3089,8 +3081,7 @@ __plea__ :two::shit: _A prayerful plea to brek free of alcohol._
 __plead out__  
 __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
 __plethora__  
-__pliant__  
-__pliant__  
+__pliant__ :two::shit:  
 __plight__ _n_ :two: Tough situation.  
 __plod__ _v_ (plodded, plodding) :four::shit: _Plod to the shower._  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._
@@ -3210,8 +3201,7 @@ __prop up__ _But with her leg propped up._
 __propped__ _v_  
 __props__ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
 __proselytize__ :two: :open_mouth: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
-__protean__  
-__protean__  
+__protean__ :two::shit:  
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __providence__ :three::shit: _It was providence._  
@@ -3251,11 +3241,7 @@ __put on a clinic__
 __putbacks__  
 __putdowns__  
 __putting aside__  
-__putty__  
-__putty__ _He had skin the color of putty._  
-__putty__ _His flesh was like wrinkled putty on his bones._  
-__putty__ _Tan putty wrinkling._  
-__putty__ _n_  
+__putty__ _n_ :five::shit: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._  
 __pyrrhic__ :open_mouth_ _adj_ (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __quadroons__  
 __quaffable__  
@@ -3370,8 +3356,7 @@ __recidivist__ _n_ :four::shit:
 __reckon__ (reckons) :two::shit:  
 __reconvene__ _v_ :three::shit: (reconvenes)  
 __recooled__  
-__recoup__ :three::shit: _v_  
-__recoup__ _v_  
+__recoup__ :four::shit: _v_  
 __recuse__ _She recused herself._  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
@@ -3539,8 +3524,7 @@ __run-in__ (run-ins) _A run-in with police._
 __run-of-the-mill__  
 __rung__ _n_  
 __rungs__ _He deserves to be in the lowest rungs of hell._  
-__runner-up__ :two::shit: _Nadal was the runner-up to Roger Federer in 2006-7._  
-__runner-up__ :two::shit: _Nishikori was runner-up here last season._  
+__runner-up__ :four::shit: _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runoff water__  
 __runoff__ :two::shit: _Enough votes to force a runoff,_  
@@ -3633,10 +3617,8 @@ __scowling__ _v_
 __scramble__ (scrambled, scrambling) :four: _v_ __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrambles__ _v_  
 __scrap iron__ :es: chatarra?  
-__scrap__  
-__scrap__ _n_ _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap__ _v_  
-__scrap__ _v_ :four::shit: (scrapped)  
+__scrap<sup>1</sup>__ _n_ :two::shit: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
+__scrap<sup>3</sup>__ _v_ :five::shit: (scrapped)  
 __scrapper__  
 __scrapping__ _v_  
 __scraps__ _v_  
@@ -4105,8 +4087,7 @@ __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking mar
 __squabbling__ _v_ _A squabbling family._  
 __squad__  
 __squalid__:open_mouth: _Squalid home._  
-__squall__  
-__squall__  
+__squall__ :two::shit:  
 __squander__  
 __square deal__  
 __squat down__ _v_  
@@ -4189,13 +4170,8 @@ __stickball__ Stickball is a street game related to baseball, usually formed as 
 __sticker shock__  
 __stickler__ :two::shit:  
 __stiff__ _Working stiffs._  
-__stiffle__ (stifles, stifled, stifling) :five: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
-__stiffle__ _v_  
-__stiffling__  
-__stifle__ _v_  
-__stifling__  
-__stifling__  
-__stifling__ _v_  
+__stifle__ _v_ (stifles, stifled, stifling) :seven: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
+__stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
 __stilt house__  
 __stilt walkers__  
 __stilt__ _Stilt house._  
@@ -4242,9 +4218,7 @@ __stray__ _v_
 __strayed__ _v_  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
-__streamline__ (streamlining)  
-__streamline__ _v_ _Streamlining regulations._  
-__streamlined__ _v_ _Streamlined ship._  
+__streamline__ _v_ :four::shit: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strenuous__  
 __strep > strep throat__ :two::shit: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
@@ -4354,9 +4328,7 @@ __tab<sup>2</sup>__ _v_ (tabbed, tabby)
 __table tennos__  
 __tableaux__ 
 __tack__ :two::shit: Tactics? _The GOP changed its tack._  
-__tag along__ _His old swing has tagged along._  
-__tag along__ _You want to tag along?_  
-__tag along__ _v_  
+__tag along__ _v_ :three::shit: _His old swing has tagged along._ _You want to tag along?_  
 __tailspin__  
 __take a stand__  
 __take by storm__  
@@ -4496,16 +4468,13 @@ __tixker__
 __to his name__ _Bernie died with $1.09 to his name._  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  
-__toe jam__  
-__toe jam__ _n_  
+__toe jam__ _n_ :two::shit:  
 __toe-curling__  
 __toe-poppers__  
 __toe-toppers__  
 __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
-__toil__  
-__toil__  
-__toiled__ _v_  
+__toil__ _v_ :three::shit: (toiled)  
 __toilet bowl__  
 __toilet stool__  
 __toll__ _Church bells tolling._  
@@ -4594,8 +4563,7 @@ __tuck__
 __tucked__  
 __tuk-tuk__  
 __tulle__  _Tulle-covered arch._  
-__tumble__  
-__tumble__ _v_  
+__tumble__ _v_ :two::shit:  
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __turgid__  
@@ -4792,8 +4760,7 @@ __watch caps__
 __watch your six__ _Idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __water buffalo__  
 __water cooler__  
-__water down__  
-__water down__  
+__water down__ :two::shit:  
 __water seepage__  
 __waterfowl__ :two::shit:  
 __waterfront__  
