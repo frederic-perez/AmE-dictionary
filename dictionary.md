@@ -1437,8 +1437,7 @@ __emery paper__
 __emery__ :two::shit: _An emery wheel._  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty-net/power-play/short-handed goal__  
-__enact__  
-__enact__ :three: _v_ Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
+__enact__ :four: _v_ Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enamel__  
 __encampment__  
 __encore__ :two::shit:  
@@ -2494,8 +2493,7 @@ __locust__ :two::shit:
 __loftily__  
 __lofty__  
 __loggerheads__  
-__loins__  
-__loins__ _n_  
+__loins__ _n_ :two::shit:  
 __lolled__ _v_  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__  
@@ -2696,8 +2694,7 @@ __moribund__
 __morning glory__  
 __morsel__  
 __mosques__  
-__moth__  
-__moth__  
+__moth__ :two::shit:  
 __mothballed__ :two::shit: _v_  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motley__ :four::shit: _Motley crew._  
@@ -4009,9 +4006,7 @@ __soldier of fortune__
 __soldiers__ _v_  
 __solid gold__  
 __soliloquy__  
-__solipsistic__  
-__solipsistic__  
-__solipsistic__  
+__solipsistic__ :three::shit:  
 __sombreros__  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
 __sooner > sooner rather than later__  
@@ -4719,9 +4714,7 @@ __wadded__ _v_
 __wadded__ _v_ :two::shit:  
 __wadded__ _v_ _He wadded up the towel._  
 __waddle__ _Two chubby guys waddling around the pool table._  
-__wade__ _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
-__wade__ _v_  
-__waded__ _v_  
+__wade__ _v_ :three::shit: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __waders__ _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
