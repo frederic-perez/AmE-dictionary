@@ -1289,8 +1289,7 @@ __doglegs__ _v_
 __dogsled__  
 __doilies__  
 __doldrums__  
-__dole out__ :six: To give or deliver in small portions. _v_ _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
-__dole out__ _v_  
+__dole out__ _v_ :seven: To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dolirometer__  
 __dollop__ :two::shit:  
 __domicile__  
@@ -1329,8 +1328,7 @@ __dowry__
 __doyenne__  
 __doze__ _v_  
 __drab__ (drabber jobs) :two: _adj_ Dull or commonplace in character; dreary: _a drab personality._  
-__draconian__  
-__draconian__  
+__draconian__ :two::shit:  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag racing__  
 __drag__  
@@ -1875,8 +1873,7 @@ __grace__ _v_
 __grade__ _v_  
 __grader__  
 __graders__ _n_  
-__graft__ _A graft scandal._  
-__graft__ _Usual wealth, the euphemism for suspected graft, is everywhere._  
+__graft__ :two::shit: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._  
 __grand jury__  
 __grand-auto__ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
@@ -2051,8 +2048,7 @@ __heedless__
 __heel__ _A heel who learns how to be a good egg._  
 __hefted up__  
 __hefty__  
-__heinous__  
-__heinous__  
+__heinous__ :two::shit:  
 __heirlooms__  
 __heist capers__  
 __heliograph__  
@@ -2544,8 +2540,7 @@ __maggots__
 __magpies__  
 __mahogany__ _He took a leather seat at a magohany bar._  
 __maiden__ _Maiden flight._  
-__maim__ (maimed) :three: Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
-__maim__ _v_  
+__maim__ _v_ :four: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__  
@@ -2849,8 +2844,7 @@ __oozed__ _v_
 __oozing__ _v_  
 __op-ed__ :five: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open-wheel__ :three::shit: _Open-wheel cars._  
-__orb__  
-__orb__ _n_  
+__orb__ _n_ :two::shit:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordnance__ :two::shit:  
@@ -3111,9 +3105,7 @@ __polarizing__
 __policyholder__  
 __polish__ :two::shit:  
 __politburo__  
-__pompadour__  
-__pompadour__ _n_  
-__pompadour__ _n_ A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
+__pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
 __ponders__  
 __pooch__  
 __pool cues__ :two::shit:  
@@ -3403,8 +3395,8 @@ __repeieve__
 __repent__ _v_  
 __repentance__  
 __repote__ _n_  
-__reprieve__ :four: _n_ A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
-__reprieve__ _v_ Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
+__reprieve<sup>1</sup>__ :four: _n_ A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
+__reprieve<sup>2</sup>__ _v_ Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisal__ (reprisals) :two::shit: _A ban on federal reprisals._  
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
@@ -3623,8 +3615,7 @@ __scrawled__ _v_
 __scrawny__  
 __scream-o-meter__  
 __screaming yellow__  
-__screech__  
-__screech__ _n_  
+__screech__ _n_ :two::shit:  
 __screeching__ :two::shit:  
 __scribes__  
 __scrofulous__  
@@ -3659,8 +3650,7 @@ __sear__ _v_ :three: (searing) __1__ Make very hot and dry: _The heat scorched t
 __searing > searing work__  
 __season__ _v_  
 __seawall__  
-__seaweed__  
-__seaweed__  
+__seaweed__ :two::shit:  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __sedate__ (sedate menswear)  
 __sedition__ :three::shit:  
@@ -3831,8 +3821,8 @@ __sitting American president__
 __sitting pretty__  
 __sitting__ _A sitting U.S. president._ In office or actual possession.  
 __sizable__ _Clinton's sizable lead._  
-__sizzle<sup>2</sup>__ _n_ :two: _Filming a "sizzle reel."_  
 __sizzle<sup>1</sup>__ _v_ :two: _Rihanna sizzled when she performed in New York._  
+__sizzle<sup>2</sup>__ _n_ :two: _Filming a "sizzle reel."_  
 __sizzling__ :two::shit: _The sizzling singer._  
 __skag__  
 __skate__ _v_ :three::shit: _He don't let nobody skate unless it's for money._  
@@ -3869,9 +3859,9 @@ __slander__ _v_ :three::shit: (slandering)
 __slant__  
 __slapjack__  
 __slapstick__  
-__slash__  
 __slash<sup>1</sup>__ _v_ _Basketball_ _He is a lanky gunner who can slash._  
 __slash<sup>2</sup>__ _n_ _Slash pines._  
+__slash__  
 __slat__ _n_  
 __slather__ _To slather on hand lotion._  
 __slats__ _n_ :four::shit: _The slats in the dock._ _Wood slats._  
@@ -3881,14 +3871,10 @@ __sleep deprivation__
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleepwear__ (vs sportswerar, etc.)  
 __sleuthing__  
-__slew__ :six: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._  
-__slick__ :two::shit: _He carried me piggyback into the slick._ _They were slick as hell._  
-__slick__ _He stole a slick from the ARVN._  
-__slick__ _It was a slick scam._  
-__slick__ _The alligators were slick with mud._  
-__slick__ _adj_ :three::shit: _The slick surface._  
-__slick__ _n_  _He flew a slick in Vietnam._  
-__slick__ _v_ :two::shit:  
+__slew__ :six: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._   
+__slick<sup>1</sup>__ _n_ :three::shit: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
+__slick<sup>2</sup>__ _v_ :two::shit:  
+__slick<sup>3</sup>__ _adj_ :five::shit: _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _They were slick as hell._  
 __slide__ :two::shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _n_ :three::shit: _What's up with someone's slider?_  
 __slight__  
@@ -3948,9 +3934,9 @@ __smithereens__
 __smitten__ :two::shit: _He was smitten by the landscape._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
-__smolder__ (smolders, smoldered, smoldering) :five: _v_ Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_  
+__smolder__ (smolders, smoldered, smoldering) :five: _v_ Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smooth operator__  
 __smoothie__ (smothies) :two: A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smothered__  
@@ -4207,10 +4193,8 @@ __stranglehold__
 __strap overalls__  
 __strapped__  
 __stray steeples__  
-__stray__ (strays, strayed) :two::shit: _v_  
-__stray__ :two::shit: _A stray word._ _Stray friends._  
-__stray__ _v_  
-__strayed__ _v_  
+__stray<sup>1</sup>__ _v_ :four::shit: (strays, strayed)  
+__stray<sup>2</sup>__ :two::shit: _A stray word._ _Stray friends._  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
 __streamline__ _v_ :four::shit: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
@@ -4220,8 +4204,7 @@ __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdome
 __stretch__ :two::shit: _An interesting stretch run in the NFC._  
 __strewed__ _v_  
 __strewn__ :four::shit:  
-__stricken__ :two::shit:  
-__stricken__ _v_  
+__stricken__ _v_ :three::shit:  
 __strictures__ :two::shit:  
 __strife__ _n_ :four: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._
@@ -4522,9 +4505,8 @@ __treys__ :two::shit:
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick pad__  
 __trickle down__ _v_ :two: To pass from high-ranked people to lower-ranked people.  
-__trickle__ _n_ :six: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._  
-__trickle__ _n_ _A trickle of electricity._  
-__trickle__ _v_  
+__trickle<sup>1</sup>__ _n_ :seven: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._  
+__trickle<sup>2</sup>__ _v_  
 __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trite__  
@@ -4598,8 +4580,7 @@ __undercut__
 __undercutting__  
 __underpin__  
 __underpinning__  
-__understandably__  
-__understandably__  
+__understandably__ :two::shit:  
 __undertow__  
 __underwhelming__  
 __underwrite__ (underwriting) :two::shit:  
@@ -4708,11 +4689,7 @@ __vying__ :four::shit:
 __wacko__  
 __wad up__ _v_  
 __wad__ _Wads of cash._  
-__wadded__ _v_  
-__wadded__ _v_  
-__wadded__ _v_  
-__wadded__ _v_ :two::shit:  
-__wadded__ _v_ _He wadded up the towel._  
+__wadded__ _v_ :five::shit: _He wadded up the towel._  
 __waddle__ _Two chubby guys waddling around the pool table._  
 __wade__ _v_ :three::shit: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __waders__ _Chest waders._  
@@ -4721,12 +4698,8 @@ __wafer__ _The orange wafer of sun descending into the smoke from the smoldering
 __waffle__ _v_  
 __waft__ :two::shit: _v_ _Fine powder that wafts up from footsteps like flour._  
 __wage__  
-__waifish__  
-__waive__ _v_  
-__waive__ _v_  
-__waive__ _v_  
-__waive__ _v_  
-__waived__  
+__waifish__   
+__waive__ _v_ :five::shit; (waived)  
 __waivers__ _n_  
 __wake__ _n_ _At wakes._  
 __walk on water__  
@@ -4784,9 +4757,7 @@ __welling__ _v_ _His breath welling into my face._
 __wellspring__  
 __welsh__ _v_  
 __welsher__ _n_  
-__welt__  
-__welt__ _n_  
-__welt__ _n_  
+__welt__ _n_ :three::shit:  
 __welted__  
 __welterweight__  
 __welts__ _n_ :four::shit: _A lot of the boys had bumpy welts of acne._  
@@ -4802,8 +4773,7 @@ __wheedling__ _v_
 __wheel well__ _The Corvette's wheel well._  
 __wheeze__  
 __whereabouts__  
-__wherewithal__  
-__wherewithal__  
+__wherewithal__ :two::shit:  
 __whiff__ :two::shit:  
 __while__ _v_ _To while away the hours drinking vodka._  
 __whimper<sup>1</sup>__ /ˈwɪmpə/ _v_ Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
@@ -4940,8 +4910,8 @@ __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean 
 __zero-sum game__  
 __zingers__  
 __zip-line__ (zip-lining)  
-__zip__ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
-__zip__ _v_ _The ISS zips around Earth once every 90 minutes._  
+__zip<sup>1</sup>__ _n_ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
+__zip<sup>2</sup>__ _v_ _The ISS zips around Earth once every 90 minutes._  
 __zonk__ _n_ :two::shit:   
 __zoot__ :four::shit: _Zoot pants._  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
