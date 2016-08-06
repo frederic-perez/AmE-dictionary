@@ -3,6 +3,14 @@
 
 
 
+__put skin__ _Put skin in the game._  __awash__ _Washington is awash with muscleflexors._  __crackdown__ _Generals continued their crackdowns._  __vaunted__ _His vaunted political organization._  __yawning__ _The gap is yawning._  __pelt__ _v_ _Inmates pelting him with objects from above._  __jive__ _This guy is jive._  __stunt__ _v_ _Movement stunted during the dictatorship.)  __security detail__  _He travels with a security detail._  __dabblers__ _He saw the donors as superrich dabblers._  __fallout__ _The Fukushima fallout._  __rumor mill__ _Fighting the rummor mill._  __piecemeal__ _A piecemeal approach._  __affluent__ _In the United States and other affluent nations._  __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  __contention__ A contention disputed by independent experts._  __restrain__ _v_ _Adding competition could restrain prices._  __fold__ _v_ _The newspaper subsequently folded.?  __upscale__ _Upscle hotel._  __lurking__ _Lurking over th
+
+
+
+
+
+
+
 
 
 
