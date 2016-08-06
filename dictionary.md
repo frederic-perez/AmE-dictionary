@@ -6,6 +6,114 @@
 
 
 
+__yield__ _Failing to yield to pedestrians._  
+__charter__ _Charter schools._  
+__quicksand__  
+__muse__ _v_ _He mused on his Facebook page about killing his wife._  
+__fink__ _Family man to some, fink to others._  
+__lemons > dance of the lemons__  
+__taking roll__ _The teacher spent 10 min of class taking roll._  
+__cow__ _v_ _Law makers cowed by powerful unions._  
+__countervail__ _Countervailing evidence._  
+__teeter__ _v_ _Iran is teetering on the brink of a civil war._  
+__clique__ _His clique of Shiite leaders._  
+__apprehend__ _v_  
+__disservice__ _(funny spelling)_  
+__speck__ _A speck of blood._  
+__exonerate__  
+__bungle__ _v_ _Cops badly bungled their attempt to frame a guilty man._  
+__hijinks__ _Adolescent hijinks._  
+__sojourn__ _n_ _The phantasmagorical sojourn along the freeways of LA._   
+__verdict__ _n_  
+__fountain pen__ :two:  
+__gaggle__ _The media gaggle._  
+__tchotchkes__ _Simpson tchotchkes._  
+__headwind__  
+__zig__ _v_ _They tend to zig when markets zag._  
+__lockstep__  
+__bottom out__ _Europe is bottomed out._  
+__triumvirate__  
+__pan__ _v_ _Obama pans republicans._  
+__alum__ _A Vanderbilt alum._  
+__intel__ _The intel value he might offer._  
+__hearsay__  
+__enthrall__ _v_  
+__showstopping__ _A showstopping performance._  
+__clinch__ _v_ _Only two places seem clinched._  
+__not even close__ :target:  
+__lenient__ _Olympic officials will be lenient._  
+__punch__ _v_ _Punching a ticket._  
+__churn__ _v_ _The hype machine churning into overdrive._  
+__wedge__ _(golf) Wedge play._  
+__crack__ _v_ _He cracked 90 mph on the radar gun._  
+__nitpick__ _v_ _They will find something to nitpick at you._  
+__make plays__ _v_ _(football) To make plays._  
+__roam__ _v_ _Dinosaurs roaming the turf in Charlotte._  
+__get-go__ _They wanted him to be Superman from the get-go._  
+__plaudits__  
+__haughty__ __Oscar votters are as haughty as the critics._  
+__offbeat__ _His offbet partner._  
+__anthology__  
+__droll__  There is room for droll comedy._  
+__buff__ _Images of buff biceps._  
+__abs__ _Six-pack abs._  
+__luger__ _Team USA's best lugers._  
+__snarl__ _v_ _Snarled airport._  
+__reach out__ _Reaching out to prevent aids._  
+__emcee__ _An emcee leads them._  
+__bathhouses__  
+__drop-in__ _A drop-in center._  
+__nattily__ _Actor nattily dressed._  
+__exact__ _v_ _Tales of Christie exacting revenge._  
+__inaugurate__ _v_ _He will be inaugurated for second term._  
+__duly__ _Couples duly married._  
+__copter__ _Navi copter._  
+__bowling alley__  
+__spat__ _In a spat over an arrest._  
+__comatose__  
+__average citizens__  
+__horseshoe__  
+__ice house__ _Insulated ice houses._  
+__bore__ _v_ _Boring a tunnel._  
+__revive__ _v_ _To revive unemployment benefits._  
+__tempering__ _A tempering experience_  
+__shopkeeper__  
+__adjourne__ _v_ _The trip was adjourned to Feb. 1._  
+__zero-sum__ _A zero-sum game._  
+__outpace__ _v_  
+__toy breeds__ _(pets)_  
+__dysplasia__ _Canine hip dysplasia._  
+__stentorian__ _Stentorian tones of serious news._  
+__smugly__ _To laugh smugly._  
+__duplicitious__ _A duplicitious cigarette industry._  
+__kiss-and-tell__ _Kiss-and-tell narratives._  
+__parochial__  
+__hypocritical__  
+__scathing__ _His scathing indictment of Congress._  
+__handouts__ _n_  
+__wash up__ _v_ _A washed up player._  
+__poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
+__antic__ _Antiques dealer._  
+__goose chase__ _A global goose chase._  
+__tenements__ _Kids from the tenements._  
+__affluent__   
+__muff__ _She drew from her muff a pistol._  
+__evince__ v_ _To evince an interest in politics._  
+__volley__ _(military attack?)_  
+__fodder__ _Cannon fodder._  
+__dilapidate__ _v_ _Dilapidated yatch._  
+__attack dog__ _n_  
+__dishevel__ _v_ _A disheveled look of a beat poet._  
+__sway__ _Civilian held sway in Siria._  
+__rife__ _Speculation was riive among opposition fugitives._  
+__resumption__ _The resumption of negotiations._  
+__retrenchment__ _An era of American retrenchment._  
+
+
+__nothing but the best__ :target: _I wish her nothing but the best._  __the sky is the limit__  __on top of that__ _On top of that, ..._  __throws__ _n_  __Attn__  __exhaust__ _Exhaust fans._  __chip in__ _v_  __splurge__  __banish__ _v_  __treasure__ _v_  __lantanas__ _n_  __masonry__ __limestone__  __posit__ _v_  
+
+
+
 
 
 __spruce up__ _v_  
