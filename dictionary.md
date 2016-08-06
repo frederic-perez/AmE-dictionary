@@ -65,8 +65,53 @@ __unfazed__ _v_ _They are unfazed by all fof this._
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __brimming__ _v_ _He is brimming with confidence._  
 __greenbacks__ _Green greenbacks._  
-
-
+__tread water__ To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
+__topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
+__riddle__ _n_ _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
+__pall__ _The tragedy casts a pall over Austin._  
+__doorknob hanger__  
+__jobless coverage__ _Jobless coverage expired for 2 million people._  
+__at odds__  
+__fruit basket__ _California's Central Valley, fruit basket to the nation._  
+__snowpack__ _Snowpacking measurements._  
+__paucity__  
+__miffed__ _Complaints from miffed neighbors._  
+__reveler__ _St. Patrick's day revelers._  
+__chided__ _v_ Whe chided the Pentagon._  
+__clout__ _n_  
+__fold__ _Mowcow organized rallies to welcome Crimea into the fold._  
+__uneasy calm__ _People waited to see whether an uneasy calm would last._  
+__oft__ _Thje oft-hated SAT._  
+__provost__ _Vice provost for enrollment._  
+__yardstick__ _Colleges need some standard yardstick._  
+__affluent__ _Affluent parents._ _(wealthy?)_  
+__bells and whistlers__  
+__Pell Grants__ _Young people get cuts in Pell Grants._  
+__preposterous__ _adj_  
+__penny-pinch__ _Penny-pinching conservatives._  
+__britches__ _He got too big for his own britches._  
+__don't tell me it's raining__  
+__rambunctiou__  
+__shyly__ _(funny spelling)_  
+__saunter__ _v_ _Lynn sauntered to the edge of the stage._  
+__spurts__ _It has been raining in spurts._  
+__wily__ _adj_  
+__lam__ _The Bronco is on the lam._  
+__coma__ _Schumacher out of coma._  
+__stoppage__ _A stoppage-time goal._  
+__clutched__ _v_
+__sloth__ _The winter sloth._  
+__over one's head__ _He was over his head._  
+__equalizer__  
+__tiebreaking__ _A tiebreaking goal._  
+__set piece__ _The goal was scored on a set piece._  
+__header__ _He scored with a header._  
+__cordon__ _A wide cordon of police._  
+__jump the gun__ _If I jump the gun I'll need more time to recover._  
+__scathing__  
+__Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
+__potholes__ _n_  
+__from xyz through xyz__ _The meeting takes place from today through Tursday._  
 
 
 
