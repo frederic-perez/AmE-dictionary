@@ -8,6 +8,73 @@
 
 
 
+__spruce up__ _v_  
+__bang-for-the-buck__  
+__backsplash__ _n_ _A new tile backsplash._  
+__Crescent City__  
+__picture-perfect__ _The picture-perfect porch._  
+__rouler__ _Will 'NCIS' roulerinto a new city next year?_  
+__swan song__  
+__edgy__ _adj_ _Aaron has got a style that's humble but edgy._  
+__barrel__ _v_ _Callous barreling against traffic._  
+__sputter__ _v_  
+__sleugh__ _Sassy (TV) sleugh._  
+__hipper__ _adj_ _Hipper Nancy Drew._  
+__sendup__ _v_ _A sendup of the genre._  
+__illustrious__ _An illustrious career._  
+__select__ :two::shit: (vs selected) _Opens today in select cities._ _Free shipping on select items._    
+__avocation__ _Her detective avocation._  
+__cracked eggs__ _Cheering for cracked eggs._  
+__bombast__  
+__Ganjapreneur__  
+__convene__ _v_ _People convened in the lobby._  
+__accoutrements__  
+__tab__ _n_ _The tab is $1,000 per person._  
+__Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
+__trail mix__ _Infused trail mix._  
+__relocate__ _v_ _They plan to relocate to Denver soon._  
+__recreational__ _Recreational marijuana vs medical marijuana._  
+__gumbo__ _Cultural gumbo._  
+__double-decker__ _Double-decker bus._  
+__rally__ _v_ _To rally the troops._  
+__dang__ _adj_ _But, dang marketers go crazy._  
+__gabfest__  
+__wringer__ _Run through the wringer._   
+__luge__ _Olimpic luge team._  
+__beholder__ _Beauty is in the eye of the beholder._  
+__carryover__ _A carryover vehicle._  
+__eking__ _v_ _Eking out a bit more mileage._  
+__suffuse__ _v_ _It suffuses you with mild pleasure._  
+__muck__ _To transfer road muck onto your leg.__
+__also-ran__ _To become an also-ran._  
+__forgo__ _v_  
+__hypertensive__ _To be hypertensive._  
+__standout__ :two::shit: _PGA tour standout._ _A welterweight standout._  
+__field__ _v_ _To field questions._  
+__bracketology__ _Daily bracketology updates._  
+__ruckus__ _The comment caused a ruckus._  
+__die-cast__ _Merchandise and die-cast sales._  
+__grandstand__  
+__sellouts__ _There have been no sellouts._  
+__enthused__ _v_ _It has enthused fans._  
+__mushroom__ _v_ _Traffic mushroomed in Feb._  
+__epitomize__ _v_  
+__hardscrabble__ _Hardscrabble journeys._  
+__unflappable__ _Unflappable team._  
+__unfazed__ _v_ _They are unfazed by all fof this._  
+__loudmout__ _He is a loudmout, but there is nothing personal._  
+__brimming__ _v_ _He is brimming with confidence._  
+__greenbacks__ _Green greenbacks._  
+
+
+
+
+
+
+
+
+
+
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -1384,7 +1451,7 @@ __duress__ :two::shit:
 __dust devils__  
 __dustpan__ :two::shit:  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
-__dwindle__ _v_ :four::shit: (dwindling)  
+__dwindle__ _v_ :five::shit: (dwindling)  
 __dyke__ _n_ :four: _Informal_ A lesbian. _She wasn't a dyke, either._  
 __dysfunction__ (dysfunctional) :open_mouth:  
 __dystopian__  
@@ -4822,7 +4889,7 @@ __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._
 __winch<sup>2</sup>__ _n_ :three::shit:  
 __wind-up__ _n_  
 __winded__    
-__windfall__ :three::shit: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
+__windfall__ :four::shit: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
 __windlass__  
 __window sash__ _n_  
 __windshield wipers__  
