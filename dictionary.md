@@ -7,6 +7,9 @@ __put skin__ _Put skin in the game._  __awash__ _Washington is awash with muscle
 
 
 
+__high and dry__ _His team was left high and dry._  __manhandle__ _v_ _Manhandling the striker around the waist._  __werve__ _Applying swerve and spin to the ball._  __rugged__ _He was red carded for a rugged foul._  __thump__ _v_ _Liverpool thumps United 3-0._  __lunge__ _A reckless lunge at Gerrard._  __lackluster__ _A lackluster 1-0 victory at Malaga._  __foundries__ _Metal foundries._  __Argentine__ _The pope is an Argentine._  __beleaguered__  __wherewithal__  __according to plan__ _If everything goes according to plan._  __default__ _v_ _The Solar Energy company defaulted._  __pat__ _There are more pat solutions._
+  
+
 
 
 
