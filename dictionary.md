@@ -3,19 +3,66 @@
 
 
 
-__put skin__ _Put skin in the game._  __awash__ _Washington is awash with muscleflexors._  __crackdown__ _Generals continued their crackdowns._  __vaunted__ _His vaunted political organization._  __yawning__ _The gap is yawning._  __pelt__ _v_ _Inmates pelting him with objects from above._  __jive__ _This guy is jive._  __stunt__ _v_ _Movement stunted during the dictatorship.)  __security detail__  _He travels with a security detail._  __dabblers__ _He saw the donors as superrich dabblers._  __fallout__ _The Fukushima fallout._  __rumor mill__ _Fighting the rummor mill._  __piecemeal__ _A piecemeal approach._  __affluent__ _In the United States and other affluent nations._  __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  __contention__ A contention disputed by independent experts._  __restrain__ _v_ _Adding competition could restrain prices._  __fold__ _v_ _The newspaper subsequently folded.?  __upscale__ _Upscle hotel._  
-__lurking__ _Lurking over the horizon._  __wholesale__ _Russia stands for wholesale orruption._  __zero-sum__ _A zero-sum relationship._  __rank-and-file__ _Rank-and-file protesters._  __jabber__ _v_ _Mormons return jabbering in Portuguese._  __aside__ _First, a personal aside._  __riddle__ _v_ _Chinese society's riddled with contradictions._  __the Chinese__ _This article was translated from the Chinese._  __founder__ _v_ _The attempt foundered._  __still life__ _Still life painting._  __cavort__ _v_ _Animals cavorting._  __on the docket__  __chuck__ _v_ _I made plans to chuck everything._  __punctured__ _v_ _Punctured his tire._  __overtake__ _n_ _He made overtakes._  __endurance__ _Endurance race._  __simmer__ _v_  __overall standings__ _31 points in the overall standings._  __cap__ _v_ _The most capped player._  __gripping__ _A gripping contest._  __jade__ _v_ _Easily jaded eyes._  __tighten__ _v_ _Tighten your belts._  __happy about it__ _I-m not entirely hap
-
-__high and dry__ _His team was left high and dry._  __manhandle__ _v_ _Manhandling the striker around the waist._  __werve__ _Applying swerve and spin to the ball._  __rugged__ _He was red carded for a rugged foul._  __thump__ _v_ _Liverpool thumps United 3-0._  __lunge__ _A reckless lunge at Gerrard._  __lackluster__ _A lackluster 1-0 victory at Malaga._  __foundries__ _Metal foundries._  __Argentine__ _The pope is an Argentine._  __beleaguered__  __wherewithal__  __according to plan__ _If everything goes according to plan._  __default__ _v_ _The Solar Energy company defaulted._  __pat__ _There are more pat solutions._
-  
 
 
 
 
 
-
-
-
+__put skin__ _Put skin in the game._  
+__awash__ _Washington is awash with muscleflexors._  
+__crackdown__ _Generals continued their crackdowns._  
+__vaunted__ _His vaunted political organization._  
+__yawning__ _The gap is yawning._  
+__pelt__ _v_ _Inmates pelting him with objects from above._  
+__jive__ _This guy is jive._  __stunt__ _v_ _Movement stunted during the dictatorship._  
+__security detail__  _He travels with a security detail._  
+__dabblers__ _He saw the donors as superrich dabblers._  
+__fallout__ _The Fukushima fallout._  
+__rumor mill__ _Fighting the rummor mill._  
+__piecemeal__ _A piecemeal approach._  
+__affluent__ _In the United States and other affluent nations._  
+__afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
+__contention__ A contention disputed by independent experts._  
+__restrain__ _v_ _Adding competition could restrain prices._  
+__fold__ _v_ _The newspaper subsequently folded._  
+__upscale__ _Upscale hotel._  
+__lurking__ _Lurking over the horizon._  
+__wholesale__ _Russia stands for wholesale orruption._  
+__zero-sum__ _A zero-sum relationship._  
+__rank-and-file__ _Rank-and-file protesters._  
+__jabber__ _v_ _Mormons return jabbering in Portuguese._  
+__aside__ _First, a personal aside._  
+__riddle__ _v_ _Chinese society's riddled with contradictions._  
+__the Chinese__ _This article was translated from the Chinese._  
+__founder__ _v_ _The attempt foundered._  
+__still life__ _Still life painting._  
+__cavort__ _v_ _Animals cavorting._  
+__on the docket__  
+__chuck__ _v_ _I made plans to chuck everything._  
+__punctured__ _v_ _Punctured his tire._  
+__overtake__ _n_ _He made overtakes._  
+__endurance__ _Endurance race._  
+__simmer__ _v_  
+__overall standings__ _31 points in the overall standings._  
+__cap__ _v_ _The most capped player._  
+__gripping__ _A gripping contest._  
+__jade__ _v_ _Easily jaded eyes._  
+__tighten__ _v_ _Tighten your belts._  
+__happy about it__ _I'm not entirely happpy about it._  
+__high and dry__ _His team was left high and dry._  
+__manhandle__ _v_ _Manhandling the striker around the waist._  
+__swerve__ _Applying swerve and spin to the ball._  
+__rugged__ _He was red carded for a rugged foul._  
+__thump__ _v_ _Liverpool thumps United 3-0._  
+__lunge__ _A reckless lunge at Gerrard._  
+__lackluster__ _A lackluster 1-0 victory at Malaga._  
+__foundries__ _Metal foundries._  
+__Argentine__ _The pope is an Argentine._  
+__beleaguered__  
+__wherewithal__  
+__according to plan__ _If everything goes according to plan._  
+__default__ _v_ _The Solar Energy company defaulted._  
+__pat__ _There are more pat solutions._  
 __yield__ _Failing to yield to pedestrians._  
 __charter__ _Charter schools._  
 __quicksand__  
@@ -118,14 +165,19 @@ __sway__ _Civilian held sway in Siria._
 __rife__ _Speculation was riive among opposition fugitives._  
 __resumption__ _The resumption of negotiations._  
 __retrenchment__ _An era of American retrenchment._  
-
-
-__nothing but the best__ :target: _I wish her nothing but the best._  __the sky is the limit__  __on top of that__ _On top of that, ..._  __throws__ _n_  __Attn__  __exhaust__ _Exhaust fans._  __chip in__ _v_  __splurge__  __banish__ _v_  __treasure__ _v_  __lantanas__ _n_  __masonry__ __limestone__  __posit__ _v_  
-
-
-
-
-
+__nothing but the best__ :target: _I wish her nothing but the best._  
+__the sky is the limit__  
+__on top of that__ _On top of that, ..._  
+__throws__ _n_  
+__Attn__  
+__exhaust__ _Exhaust fans._  
+__chip in__ _v_  
+__splurge__  
+__banish__ _v_  
+__treasure__ _v_  
+__lantanas__ _n_  
+__masonry__ __limestone__  
+__posit__ _v_  
 __spruce up__ _v_  
 __bang-for-the-buck__  
 __backsplash__ _n_ _A new tile backsplash._  
@@ -229,7 +281,9 @@ __jump the gun__ _If I jump the gun I'll need more time to recover._
 __scathing__  
 __Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __potholes__ _n_  
-__from xyz through xyz__ _The meeting takes place from today through Tursday._  
+__from xyz through xyz__ _The meeting takes place from today through Thursday._  
+
+
 
 
 
