@@ -14,7 +14,8 @@ __crackdown__ _Generals continued their crackdowns._
 __vaunted__ _His vaunted political organization._  
 __yawning__ _The gap is yawning._  
 __pelt__ _v_ _Inmates pelting him with objects from above._  
-__jive__ _This guy is jive._  __stunt__ _v_ _Movement stunted during the dictatorship._  
+__jive__ _This guy is jive._  
+__stunt__ _v_ _Movement stunted during the dictatorship._  
 __security detail__  _He travels with a security detail._  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __fallout__ _The Fukushima fallout._  
@@ -22,7 +23,7 @@ __rumor mill__ _Fighting the rummor mill._
 __piecemeal__ _A piecemeal approach._  
 __affluent__ _In the United States and other affluent nations._  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
-__contention__ A contention disputed by independent experts._  
+__contention__ _A contention disputed by independent experts._  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __fold__ _v_ _The newspaper subsequently folded._  
 __upscale__ _Upscale hotel._  
@@ -108,10 +109,10 @@ __make plays__ _v_ _(football) To make plays._
 __roam__ _v_ _Dinosaurs roaming the turf in Charlotte._  
 __get-go__ _They wanted him to be Superman from the get-go._  
 __plaudits__  
-__haughty__ __Oscar votters are as haughty as the critics._  
+__haughty__ _Oscar votters are as haughty as the critics._  
 __offbeat__ _His offbet partner._  
 __anthology__  
-__droll__  There is room for droll comedy._  
+__droll__ _There is room for droll comedy._  
 __buff__ _Images of buff biceps._  
 __abs__ _Six-pack abs._  
 __luger__ _Team USA's best lugers._  
@@ -155,7 +156,7 @@ __goose chase__ _A global goose chase._
 __tenements__ _Kids from the tenements._  
 __affluent__   
 __muff__ _She drew from her muff a pistol._  
-__evince__ v_ _To evince an interest in politics._  
+__evince__ _v_ _To evince an interest in politics._  
 __volley__ _(military attack?)_  
 __fodder__ _Cannon fodder._  
 __dilapidate__ _v_ _Dilapidated yatch._  
@@ -215,7 +216,7 @@ __beholder__ _Beauty is in the eye of the beholder._
 __carryover__ _A carryover vehicle._  
 __eking__ _v_ _Eking out a bit more mileage._  
 __suffuse__ _v_ _It suffuses you with mild pleasure._  
-__muck__ _To transfer road muck onto your leg.__
+__muck__ _To transfer road muck onto your leg._  
 __also-ran__ _To become an also-ran._  
 __forgo__ _v_  
 __hypertensive__ _To be hypertensive._  
