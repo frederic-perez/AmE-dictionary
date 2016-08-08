@@ -7,7 +7,163 @@
 
 
 
-
+__portend__ _v_ _...may portend a disruption._  
+__Messrs.__ _Messrs. Reagan and Busch..._  
+__caucus__  
+__fallback__ _The fallback option._  
+__fracas__  
+__fritter__ _v_ _To fritter away money._  
+__plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
+__medical discharge__ _A medical discharge._  
+__stoking__ _Stoking tensions._  
+__expedite__ _v_  
+__fray__ _v_  
+__swath__ _n_  
+__bright-orange__ _A bright-orange construction jumpsuit._  
+__drab__ _Drab cities._  
+__cronyism__  
+__Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
+__shale-oil__ _Shale-oil production._  
+__forgear__  
+__pablum__ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
+__rail__ _She is elegantly rail thin._  
+__tall order__  
+__green thumb__ _Not everyone has a green thumb._  
+__gracial pace__ _At a glacial pace._  
+__lackey__ _A political lackey._  
+__strife__ _n_  
+__furnish__ _v_ _To furnish suites of labs._  
+__haywire__ _To go haywire._  
+__well-nigh__ _adverb_ Almost. _A task that is well-nigh impossible._  
+__creaky__ _Creaky infrastructure._  
+__buzz__ _Sending submarines to buzz Europe._  
+__compulsory__ _A compulsory Third World condition._  
+__excise__ _Excise tax._  
+__tenet__ _n_  
+__stealthy__  
+__wheelbarrow-sledges__  
+__clearinghouse__  
+__trellises__ _From his trellises._  
+__storefront__  
+__on__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._  
+__widebody__ _Widebody jet._  
+__impending__ _Impending deadline._ _(vs looming deadline)_  
+__hard-nosed__ _Hard-nosed approach._  
+__jetliners__  
+__get-go__ _The get-go._  
+__divest__ _v_ (divested)  
+__in__ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._  
+__rash__ _A rash of promotions._  
+__prominent__ _Package carrying a prominent warning._  
+__infusion__ _Drug infusions._ _(vs drug injections)_  
+__crash-land__ _v_ _A jet crash-landed in the city._  
+__outsize__ _An outsize risk._  
+__sweepstakes__  
+__screwball__ _The screwball buddy comedy._  
+__impasse__ _At impasse._  
+__mainstay__ _A mainstay of his business._  
+__lifer__ _Craighead is a lifer at Baker Hughes._  
+__of__ _The gas smells of roggen eggs._  
+__awash__ _Market awash with coal._  
+__ton__ _A metric ton._  
+__flat-footed__  
+__cast__ _Votes cast._  
+__dusty__ _A dusty brand._  
+__wunderkind__  
+__miffed__ _v_ _The bond purchases miffed some officials._  
+__sap__ _v_ _Weak demand sapping trade._  
+__Aaa__ _Aaa-rated schools ... are rated Baa._  
+__crummy__ _Crummy Bears vs crummy Vikings._  
+__cutthroat__ :open_mouth: _Cutthroat competition._  
+__bloc__ _The troubled currency bloc._  
+__foothold__ _A foothold._  
+__glut__ _A global glut of cotton._  
+__bale__ _Bales of cotton._  
+__coffers__ _State's coffers._  
+__misfire__ _One misfire in the 2000s._  
+__amusement park__  
+__overboard__ _To go overboard._  
+__lumber__ _A shopper checks out with her lumber._  
+__kickoff__ _The kickoff of the shopping season._  
+__tear__ _The stock has been on a tear._  
+__deluge__ _n_  
+__raves__ _Drawing raves._  
+__straws__ _To stir straws._  
+__decorated__ _A decorated veteran._  
+__shoo-in__  
+__stray__ _Stray dogs._  
+__zaniness__  
+__as it gets__  
+__phenom__  
+__well-heeded__  
+__exhibit A__  
+__ratchet__ _v_  
+__zany__ _A zany zebra._  
+__sucker__ _He is a sucker for anything cute._  
+__binder__ _n_ _My binder._  
+__helpings__ _Second helpings._  
+__baste__ _v_ _To baste, brine and bicker._  
+__philanderer__  
+__slippery slope__  
+__sweat bullets__ _I'll be sweating bullets._  
+__Perkins booth__ _n_  
+__whoop__ _v_ _He can whoop him with a switch._  
+__upscale__ _In an upscale area._  
+__posse__ _A posse clad._  
+__err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
+__fork__ _Gordon at fork in the road._  
+__dicey__ _That's dicey._  
+__flare__ _v_ _The injury flared._  
+__oval__ _Ford oval logo._  
+__faulty__ :dart: _Faulty software._  
+__oppo__ _Oppo researchers._  
+__cutthroat__ _Cutthroat tactics._  
+__biz__ _Hot biz model._  
+__laser wall__  
+__trade-off__ _She has to make trade-offs._  
+__gobble__ _v_ _Gobbling a plate of spaguetti and meatballs._  
+__jinks__  
+__stinky-winky__ _Stinky-winky front-loader._  
+__lopsided__  
+__frayed__ _Frayed nerves._  
+__snafus__  
+__dirt road__ _n_  
+__road salt__ _n_  
+__spinouts__  
+__Mandan man__  
+__deface__ _v_ _Defacing two murals._  
+__on__ _His term ends on Jan. 12, 2015._  
+__leeway__  
+__shills__ _Government shills._  
+__wire-rimmed__ _Wire-rimmed glasses._  
+__flak__ _You're going to get so much (flak)._  
+__smut__ _They want to report smut._  
+__coop__ _To fly the coop._  
+__scuttle__ _v_ _Tried to scuttle at the last minute._  
+__hapless__  
+__shelling out__  
+__grisly__ _A grisly synagogue assault._  
+__forgo__ _To forgo his salary._  
+__raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
+__purloined__  
+__on__ _A woman walks a dog on a street in NYC._  
+__pump__ _n_ _I have seen low gas prices at the pump._  
+__clobber__ _v_ _Uber threatens to clobber the media._  
+__collusion__  
+__buyout__  
+__unfathomable__  
+__gloat__ _I could not gloat._  
+__deluge__ _The deluge is not over._  
+__ordeal__  
+__outpatient__  
+__dollop__ _An extra dollop of drama._  
+__staunch__ _Federer is a staunch patriot._  
+__brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
+__grip-and-grin__ _Grip-and-grin shots._  
+__gantlet__ _A media gantlet._  
+__laminated__ _A laminated cheat sheet._  
+__X's and O's__ _There are the X's and O's._  
+__N/A__ Not available.
 __put skin__ _Put skin in the game._  
 __awash__ _Washington is awash with muscleflexors._  
 __crackdown__ _Generals continued their crackdowns._  
