@@ -6,6 +6,14 @@
 
 
 
+__vesting__ _The vesting date._  __flak__ _Lynch took flak for staying on the bench._  __holdout__ _A weeklong holdout._  __throwback__ _Throwbavck uniform._  __mauling_  _The Broncos can be a mauling group._  __barn__ _Out of the barn._  __whetting__ _Whetting the appetite for next year's Part 2._  __emaciated__  __sagging__ _The sagging hopes of miners._  __buffed__ _v_ _Joel placed the award on his piano and buffed it._  __GWTW__ Gone With The Wind.  __paw__ _v_ _A drunken master paws her._  __bean__ _v_ _She beans him with a decanter._  __clutches__ _Clutches for iPhone._  __fanny pack__  __sudsy__  __salacious__  __mercurial__  __hallowed__ _The hallowed seats of of power._  __glass slipper__ _(Cinderella)_  __racousness__  __swanky__ _Swanky dinner._  
+
+
+
+
+
+
+
 
 __portend__ _v_ _...may portend a disruption._  
 __Messrs.__ _Messrs. Reagan and Busch..._  
