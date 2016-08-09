@@ -1,5 +1,11 @@
 
 
+__retodler__  __big retailer__ (Walmart, Target, Amazon.)  __contretemps__  __figure__ _5-figure price tag._  __balderdash__  __silverplate__ _v_  __Caddy__ Cadillac.  __vituperation__  __recap__ _n_ _The written recap of the meeting._  __retailer__ (Big Lots, discount retailer; Staples, office supplies retailer.) 
+
+ 
+
+
+
 
 __bunch__ _v_ :camera: _Organic bunched carrots, 98¢ per pound._  __thumbnail__ _Here's a thumbnail of the story._  __big-box stores__ :camera::shit:  __chip away__ _v_  __lessen__ _v_  __comps__ _n_ (Competitors?)  __ugh__  __brisk__ _Brisk pace._  __up__ _v_ _We need to up our game._  __head and shoulders__ _Texas is head and shoulders above everybody else with really unique packages for the consumer._  __clout__ _n_  __foreclosure__ _n_  __fawn__ _v_  __upend__ _v_  __smirks__ _n_  __chug along__ _v_  __default__ _v_  __redemptions__ _n_  __outright__ _adj?_ 
 
