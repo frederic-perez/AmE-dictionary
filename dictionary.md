@@ -1,6 +1,6 @@
 
 
-__retodler__  __big retailer__ (Walmart, Target, Amazon.)  __contretemps__  __figure__ _5-figure price tag._  __balderdash__  __silverplate__ _v_  __Caddy__ Cadillac.  __vituperation__  __recap__ _n_ _The written recap of the meeting._  __retailer__ (Big Lots, discount retailer; Staples, office supplies retailer.) 
+__retailer__  __big retailer__ (Walmart, Target, Amazon.)  __contretemps__  __figure__ _5-figure price tag._  __balderdash__  __silverplate__ _v_  __Caddy__ Cadillac.  __vituperation__  __recap__ _n_ _The written recap of the meeting._  __retailer__ (Big Lots, discount retailer; Staples, office supplies retailer.) 
 
  
 
