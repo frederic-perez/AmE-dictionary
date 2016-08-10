@@ -7,9 +7,21 @@ __retailer__  __big retailer__ (Walmart, Target, Amazon.)  __contretemps__  __fi
 
 
 
+
+
+__felled__ _v_ _He felled a giant._  __humdrum__ _A humdrum office building._  __bilking__ _Durham was  guilty of bilking._  __embezzler__ _n_ _Embezzlers are heading to Delaware._  __furnishing__ _Home furnishings._  __sliver__ _A sliver of our time._  __flurry_ _A flurry of new services._  __glimmer__ _A glimmer of hope._  __shell__ _A shell corporation._ _Shell companies are easy to establish in Delaware._  __freewheel__ _v_  __hackles__ _n_  __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  __embezzle__ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._  __galling__ _adj_  __rebuffed__ _The effort has been rebuffed._  __red taoe__ It would add red tape and increasing processing time._  __glum__ _Dell and H.P. Might not be joyful, but should be they be glum?_  __farflung__ _Farflung operations and profits._  __siphon__ _It is fairly easy to syphon profits fr
+
+
+
+
+
+
+
 __bunch__ _v_ :camera: _Organic bunched carrots, 98¢ per pound._  __thumbnail__ _Here's a thumbnail of the story._  __big-box stores__ :camera::shit:  __chip away__ _v_  __lessen__ _v_  __comps__ _n_ (Competitors?)  __ugh__  __brisk__ _Brisk pace._  __up__ _v_ _We need to up our game._  __head and shoulders__ _Texas is head and shoulders above everybody else with really unique packages for the consumer._  __clout__ _n_  __foreclosure__ _n_  __fawn__ _v_  __upend__ _v_  __smirks__ _n_  __chug along__ _v_  __default__ _v_  __redemptions__ _n_  __outright__ _adj?_ 
 
  
+
+
 
 
 
