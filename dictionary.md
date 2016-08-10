@@ -1,42 +1,99 @@
 
 
+
+
+
+
+
+
+
+__roti__ _A roti shop._  
+__outset__ _n_  
+__shellfish__ _Shellfish stewed, jerked._  
+__chutneys__  
+__revelers__ _n_  
+__gab away__ _v_ _The gang was gabbing away._  
+__old hat__  
+__spry__  
+__pithy__ _v_  
+__foodie__ _A foodie and a friend._  
+__sage__ _Sage counsel._  
+__marquee__ _The company dismantled its large marquee._  
+__chug__ _v_ _A cocktail to chug._  
+__trundling__ _v_ _Some employees are trundling in._  
+__queasiness__ _There was queasiness among many residents._  
+__glum__ _Glum news._  
+__vagaries__  
+__accrue__ _Even if banana sales languish, other benefits may accrue._  
+__cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
+__behemoths__  
+__prep schools__  
+__fickle__ _A fickle ally._  
+__grass-routs__ _Grass-routs campaign._  
+__oompah__ _The house oompah band._  
+__tot lots__ _There are tot lots, but there is no place for us._  
+__foosball__ __Foosball table._  
+__grouse__ _v_ _We groused about the uncomfortable seating._  
+__dumpling__ _Bavarian bread dumpling._  
+__smidgen__ _The rosato di petit verdot has a smidgen of complexity._  
+__through__ :four::shit: _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._  
+__encroaching__ _v_ _To protect natural land from encroaching development._  
+__scallop__ _A scallop-shell logo._  
+__co-op__  
+__cursory__ _A cursory glance._  
+__abatement__ _A tax abatement._  
+__egregious__  
+__row house__ _n_  
+__hushed__ _Hushed streets._  
+__appraised__ _The home was appraised in 2007._  
+__ebbs and flows__ _The ebbs and flows of life._  
+__icing__ _Mansions are found on the icing._  
+__abutting__ _Bungalows abutting._  
+__lush__ _Lush wetlands._  
+__boardwalk__  
+__entryway__ _An entryway aquarium._  
+__jumble__ _Hylan has a jumble of strip malls._  
+__mom-and-pop__ _Mom-and-pop shops._  
+__derision__  
+__strictures__ _The strictures on women's behavior were easing._  
+__bellboy__ _n_  
+__mirth__  
+__duffers__ _Wealthy duffers._  
+__Janes and Joes__ :open_mouth: _Regular Janes and Joes._  
+__upstarts__ _The latest models are from upstarts like Tesla and Coda._  
+__hotbed__ _A hotbed of high technology._  
+__gridlock__  
+__fender bender__ _Stranded by a fender bender._  
+__welter__ _A welter of data._  
+__standstill__ _n_  
+__festooned__  
+__wood pellets__  
+__cacophony__  
+__big-gulper__ _America's big-gulpers._
+__rollout__ _n_  
+__nascent__ _The nascent market._  
+__rebates__ _Tax rebates._  
+__moot__ _The zero-emissions mandate was a moot point._  
+__probity__  
+__ethos__ _The D.I.Y. ethos._  
+__swindler__ _The notorious 19th-century swindler Ferdinand Ward._  
+__incumbent__ _An incumbent president._  
+__whisk__ _v_ _To whisk it away._  
+__thwart__  
+__by the book__  
+__feckless__  
+__bleak__ _Looks bleak._  
+__purveyor__  
+__stump__ _Stump style._  
+__roustabout__ _The roustabout Bohemian._ 
+
 __retailer__  __big retailer__ (Walmart, Target, Amazon.)  __contretemps__  __figure__ _5-figure price tag._  __balderdash__  __silverplate__ _v_  __Caddy__ Cadillac.  __vituperation__  __recap__ _n_ _The written recap of the meeting._  __retailer__ (Big Lots, discount retailer; Staples, office supplies retailer.) 
-
- 
-
-
-
-
-
 
 __felled__ _v_ _He felled a giant._  __humdrum__ _A humdrum office building._  __bilking__ _Durham was  guilty of bilking._  __embezzler__ _n_ _Embezzlers are heading to Delaware._  __furnishing__ _Home furnishings._  __sliver__ _A sliver of our time._  __flurry_ _A flurry of new services._  __glimmer__ _A glimmer of hope._  __shell__ _A shell corporation._ _Shell companies are easy to establish in Delaware._  __freewheel__ _v_  __hackles__ _n_  __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  __embezzle__ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._  __galling__ _adj_  __rebuffed__ _The effort has been rebuffed._  __red taoe__ It would add red tape and increasing processing time._  __glum__ _Dell and H.P. Might not be joyful, but should be they be glum?_  __farflung__ _Farflung operations and profits._  __siphon__ _It is fairly easy to syphon profits fr
 
-
-
-
-
-
-
-__bunch__ _v_ :camera: _Organic bunched carrots, 98¢ per pound._  __thumbnail__ _Here's a thumbnail of the story._  __big-box stores__ :camera::shit:  __chip away__ _v_  __lessen__ _v_  __comps__ _n_ (Competitors?)  __ugh__  __brisk__ _Brisk pace._  __up__ _v_ _We need to up our game._  __head and shoulders__ _Texas is head and shoulders above everybody else with really unique packages for the consumer._  __clout__ _n_  __foreclosure__ _n_  __fawn__ _v_  __upend__ _v_  __smirks__ _n_  __chug along__ _v_  __default__ _v_  __redemptions__ _n_  __outright__ _adj?_ 
-
- 
-
-
-
-
-
-
-
-
+__bunch__ _v_ :camera::shit: _Organic bunched carrots, 98¢ per pound._  __thumbnail__ _Here's a thumbnail of the story._  __big-box stores__ :camera::shit:  __chip away__ _v_  __lessen__ _v_  __comps__ _n_ (Competitors?)  __ugh__  __brisk__ _Brisk pace._  __up__ _v_ _We need to up our game._  __head and shoulders__ _Texas is head and shoulders above everybody else with really unique packages for the consumer._  __clout__ _n_  __foreclosure__ _n_  __fawn__ _v_  __upend__ _v_  __smirks__ _n_  __chug along__ _v_  __default__ _v_  __redemptions__ _n_  __outright__ _adj?_ 
 
 __vesting__ _The vesting date._  __flak__ _Lynch took flak for staying on the bench._  __holdout__ _A weeklong holdout._  __throwback__ _Throwbavck uniform._  __mauling_  _The Broncos can be a mauling group._  __barn__ _Out of the barn._  __whetting__ _Whetting the appetite for next year's Part 2._  __emaciated__  __sagging__ _The sagging hopes of miners._  __buffed__ _v_ _Joel placed the award on his piano and buffed it._  __GWTW__ Gone With The Wind.  __paw__ _v_ _A drunken master paws her._  __bean__ _v_ _She beans him with a decanter._  __clutches__ _Clutches for iPhone._  __fanny pack__  __sudsy__  __salacious__  __mercurial__  __hallowed__ _The hallowed seats of of power._  __glass slipper__ _(Cinderella)_  __racousness__  __swanky__ _Swanky dinner._  
-
-
-
-
-
-
-
 
 __portend__ _v_ _...may portend a disruption._  
 __Messrs.__ _Messrs. Reagan and Busch..._  
