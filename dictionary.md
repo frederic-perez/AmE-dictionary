@@ -5,8 +5,7 @@
 
 
 
-
-
+__cadged__ _v_ _He cadged money and bribed guards._  __racked__ _v_  __belabor__  __nefarious__  __ply__ _v_ _It is the perfecting designed environment to ply his trade._  __down-to-earth__ _Down-to-earth approach to life._  __suppleness__ _Mental suppleness._  __purveyor__ _Purveyors of unhelpfully vapid self help._  __vapid__  __jibes__ __His concept of philosophy jibes with American pragmatism._  __hubris__ _Intellectual hubris._   __staples__ _There are staples we've come to expect in the American frontier novel._  __shiver-thin__ _A shiver-thin coverlet of old snow._  __grazing__ _Grazing lands._  __foreboding__  __duped__ _Settlers duped, children abandoned, Indians deported._  __bleak__ _The book is somewhat bleak in its vision._  __dinky__ _A dinky little community._  __toffs__ _Young toffs._  __fief__ _His personal fief._  __buckskins__  __blitheness__  __hailstones__  __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
 
 
 
