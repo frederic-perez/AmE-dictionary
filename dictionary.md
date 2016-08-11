@@ -1,6 +1,26 @@
 
 
 
+__drudgery__  
+__forlon__  
+__tartan__ _Tartan trousers._  
+__rift__ _n_  
+__gaudy__  
+__Oz__ _Iowa would offer the best territory for his American Oz._  
+__hinterland__  
+__mosh__  
+__windfall__ _The new windfall threatened to upset the sectional balance._  
+__rambunctious__  
+__guibble__  
+__wallowed__ _Wallowed in fustian._  
+__victor__ _Seward became the righthand man of the victor, Abraham Lincoln._  
+__tinderbox__  
+__cabin__ _Uncle-s Tom Cabin._  
+__mushy__ _Mushy age._  
+__epaulets__  
+__buffs__ _History buffs._  
+__angst__  
+
 
 
 
