@@ -7,6 +7,18 @@
 
 
 
+
+
+
+
+
+__dispiriting__ _Dispiriting results._  __wardrobe__ _Left Bank wardrobe._  __buff__ _He appears buff._  __gait__ _A pretty boy with a swing in his gait._  __kith and kin__ _To identify kith and kin._  __grudge__  __baffle__ _v_ _Baffled children._  __heirlooms__ _Family heirlooms._  __flurry__ _After Emancipation, a passionate flurry ensued._  __ensued__  __rumpled__ _A rumpled man._  __range__ _Range war._  __dupe__ _A dupe of a president._  __swindler__ _n_ _In the dark space between anticipation and realization, the swindler thrives._  __homestead__  __wayward__ _A wayward boy._  
+
+
+
+
+
+
 __roti__ _A roti shop._  
 __outset__ _n_  
 __shellfish__ _Shellfish stewed, jerked._  
