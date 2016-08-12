@@ -22,6 +22,139 @@ __buffs__ _History buffs._
 __angst__  
 
 
+__Sunday best__ _Rita wanders a highway in her Sunday best._  
+__mash__ _His mash notes._  
+__musket__  
+__blight__ _n_  
+__shamus__  
+__moxie__  
+__mildewed__  
+__infirm__ _adj_  
+__enthuse_  
+__groomed__  
+__photo-op__  
+__ensue__ _Complications ensue._  
+__novella__  
+__bequest__ _n_  
+__sunder__ _v_  
+__harbinger__ _n_  
+__flummoxed__  
+__buff__ _The buff athletes who strutted._  
+__slouch__ _De Coubertin was no slouch._  
+__wordsmith__ 
+__gulf__ _The gulf grew grew wider._  
+__ripe__ _A ripe subject.__  
+__gritty__ _The grutty determination._  
+
+
+
+__Sunday best__ _Rita wanders a highway in her Sunday best._  
+__mash__ _His mash notes._  
+__musket__  
+__blight__ _n_  
+__shamus__  
+__moxie__  
+__mildewed__  
+__infirm__ _adj_  
+__enthuse_  
+__groomed__  
+__photo-op__  
+__ensue__ _Complications ensue._  
+__novella__  
+__bequest__ _n_  
+__sunder__ _v_  
+__harbinger__ _n_  
+__flummoxed__  
+__buff__ _The buff athletes who strutted._  
+__slouch__ _De Coubertin was no slouch._  
+__wordsmith__ 
+__gulf__ _The gulf grew grew wider._  
+__ripe__ _A ripe subject.__  
+__gritty__ _The grutty determination._  
+
+
+
+
+
+__Sunday best__ _Rita wanders a highway in her Sunday best._  
+__mash__ _His mash notes._  
+__musket__  
+__blight__ _n_  
+__shamus__  
+__moxie__  
+__mildewed__  
+__infirm__ _adj_  
+__enthuse_  
+__groomed__  
+__photo-op__  
+__ensue__ _Complications ensue._  
+__novella__  
+__bequest__ _n_  
+__sunder__ _v_  
+__harbinger__ _n_  
+__flummoxed__  
+__buff__ _The buff athletes who strutted._  
+__slouch__ _De Coubertin was no slouch._  
+__wordsmith__ 
+__gulf__ _The gulf grew grew wider._  
+__ripe__ _A ripe subject.__  
+__gritty__ _The grutty determination._  
+
+
+
+
+__Sunday best__ _Rita wanders a highway in her Sunday best._  
+__mash__ _His mash notes._  
+__musket__  
+__blight__ _n_  
+__shamus__  
+__moxie__  
+__mildewed__  
+__infirm__ _adj_  
+__enthuse_  
+__groomed__  
+__photo-op__  
+__ensue__ _Complications ensue._  
+__novella__  
+__bequest__ _n_  
+__sunder__ _v_  
+__harbinger__ _n_  
+__flummoxed__  
+__buff__ _The buff athletes who strutted._  
+__slouch__ _De Coubertin was no slouch._  
+__wordsmith__ 
+__gulf__ _The gulf grew grew wider._  
+__ripe__ _A ripe subject.__  
+__gritty__ _The grutty determination._  
+
+
+
+
+
+
+__Sunday best__ _Rita wanders a highway in her Sunday best._  
+__mash__ _His mash notes._  
+__musket__  
+__blight__ _n_  
+__shamus__  
+__moxie__  
+__mildewed__  
+__infirm__ _adj_  
+__enthuse_  
+__groomed__  
+__photo-op__  
+__ensue__ _Complications ensue._  
+__novella__  
+__bequest__ _n_  
+__sunder__ _v_  
+__harbinger__ _n_  
+__flummoxed__  
+__buff__ _The buff athletes who strutted._  
+__slouch__ _De Coubertin was no slouch._  
+__wordsmith__ 
+__gulf__ _The gulf grew grew wider._  
+__ripe__ _A ripe subject.__  
+__gritty__ _The grutty determination._  
 
 
 
