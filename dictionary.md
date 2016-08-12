@@ -25,7 +25,32 @@ __angst__
 
 
 
-__cadged__ _v_ _He cadged money and bribed guards._  __racked__ _v_  __belabor__  __nefarious__  __ply__ _v_ _It is the perfecting designed environment to ply his trade._  __down-to-earth__ _Down-to-earth approach to life._  __suppleness__ _Mental suppleness._  __purveyor__ _Purveyors of unhelpfully vapid self help._  __vapid__  __jibes__ __His concept of philosophy jibes with American pragmatism._  __hubris__ _Intellectual hubris._   __staples__ _There are staples we've come to expect in the American frontier novel._  __shiver-thin__ _A shiver-thin coverlet of old snow._  __grazing__ _Grazing lands._  __foreboding__  __duped__ _Settlers duped, children abandoned, Indians deported._  __bleak__ _The book is somewhat bleak in its vision._  __dinky__ _A dinky little community._  __toffs__ _Young toffs._  __fief__ _His personal fief._  __buckskins__  __blitheness__  __hailstones__  __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
+__cadged__ _v_ _He cadged money and bribed guards._  __racked__ _v_  __belabor__  __nefarious__  __ply__ _v_ _It is the perfecting designed environment to ply his trade._  __down-to-earth__ _Down-to-earth approach to life._  __suppleness__ _Mental suppleness._  __purveyor__ _Purveyors of unhelpfully vapid self help._  __vapid__  __jibes__ __His concept of philosophy jibes with American pragmatism._  __hubris__ _Intellectual hubris._   __staples__ _There are staples we've come to expect in the American frontier novel._  __shiver-thin__ _A shiver-thin coverlet of old snow._  __grazing__ _Grazing lands._  __foreboding__  __duped__ _Settlers duped, children abandoned, Indians deported._  __bleak__ _The book is somewhat bleak in its vision._  __dinky__ _A dinky little community._  __toffs__ _Young toffs._  __fief__ _His personal fief._  __buckskins__  __blitheness__  __hailstones__  __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  __fandom__  
+__K-pop__  
+__trudge__ _v_  
+__flatbread__  
+__pampling__  
+__bellum__ _Post-bellum years._  
+__yearn__ _v_ _Everhart yearns to make a change._  
+__runaways__  
+__cesspool__ _The journalist cesspool._  
+__rustle__ _v_ _To rustle up a dinner for 12._  
+__heart-in-mouth__ _A heart-in-mouth thriller._  
+
+
+__fandom__  
+__K-pop__  
+__trudge__ _v_  
+__flatbread__  
+__pampling__  
+__bellum__ _Post-bellum years._  
+__yearn__ _v_ _Everhart yearns to make a change._  
+__runaways__  
+__cesspool__ _The journalist cesspool._  
+__rustle__ _v_ _To rustle up a dinner for 12._  
+__heart-in-mouth__ _A heart-in-mouth thriller._  
+
+
 
 
 
@@ -42,7 +67,8 @@ __roti__ _A roti shop._
 __outset__ _n_  
 __shellfish__ _Shellfish stewed, jerked._  
 __chutneys__  
-__revelers__ _n_  
+__revelers
+__ _n_  
 __gab away__ _v_ _The gang was gabbing away._  
 __old hat__  
 __spry__  
