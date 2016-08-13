@@ -13,6 +13,7 @@ __sticker price__
 
 
 
+__abreast__  __upswing__  __dispatch__ _v_  __adhesive__ _Double-stick adhesive strips._  __grumble__ _v_  __upshot__ _n_  __subsided__ _v_ _My headache has subsided._  __impending__  __bumps in the road__  __capped__ _v_  __scarce__  __nest egg__  __swoons__ _v_  __tweaks__ _n_  __stinkers__ _n_  __fared__ _v_  __coleslaw__  
 
 
 
