@@ -1,4 +1,19 @@
 
+__stymied__ _v_  
+__gaffer__ _n_  
+__levied__ _v_  
+__high-tail__ _v_  
+__every so often__  
+__spiked__ _v_  
+__stir__ _v_  
+__checklist__ (single word)  
+__tailor__ _v_ 
+__bow__ _n_ :camera::shit: _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._  
+__sticker price__  
+
+
+
+
 
 
 __drudgery__  
