@@ -12,6 +12,19 @@ __bow__ _n_ :camera::shit: _Lexus (Toyota's luxury brand) put the red bows atop 
 __sticker price__  
 
 
+__Austinites__  
+__duchy__ (duys)  
+__honorary__ _Honorary consul._  __yearning__ _n_  __telling__ _In their telling, the father's experience in Cuba becomes a parable._  __heft__ _n_  __embroidered__  __watershed__  __stomping__ _v_  
+
+
+
+
+
+
+
+
+
+
 
 __abreast__  __upswing__  __dispatch__ _v_  __adhesive__ _Double-stick adhesive strips._  __grumble__ _v_  __upshot__ _n_  __subsided__ _v_ _My headache has subsided._  __impending__  __bumps in the road__  __capped__ _v_  __scarce__  __nest egg__  __swoons__ _v_  __tweaks__ _n_  __stinkers__ _n_  __fared__ _v_  __coleslaw__  
 
