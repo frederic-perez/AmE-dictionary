@@ -21,7 +21,7 @@ __honorary__ _Honorary consul._  __yearning__ _n_  __telling__ _In their telling
 
 
 
-
+__croak__ _v_  __cloakroom__ _n_  __morosely__  __groveling__ _v_  __fusillade__ _n_  __patois__  __inimical__  __schadenfreude__  __colossal__  __business ties__  __thusly__  __giggling__  __vouch__ _v_  __coat of arms__  __mustachioed__  __fizzled__  __imprisoned__  __seaside__  __parted hair__ _Díaz wore parted hair._  __handiwork__  __jaywalking__  __make rounds__  __buzzkill__  __nonstop__  __choppy__ _Choppy waters._  __walk in sunshine__  __louse__ _n_  __provost__  __sleazy__  __lash out__  __foreplay__  __avowed__ _v_  __pith-helmeted__  __ludicrous__  __scrapping__ _A boy spends the next four decades scrapping._  __zero in__  __plies__ _v_  __bereft__  
 
 
 
