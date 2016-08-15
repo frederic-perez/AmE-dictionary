@@ -18,6 +18,26 @@ __honorary__ _Honorary consul._  __yearning__ _n_  __telling__ _In their telling
 
 
 
+__noir__ _A noir novel._  
+__mire__ _v_  
+__sprinkles__ _v_  
+__whackadoodle__  
+__bequeathed__ _v_  
+__whodunit__  
+__seedy__ _A seedy world._  
+__underbelly__  
+__elicit__  
+__pangs__  
+__seedier__  
+__toodles__ _v_  
+__scalper__ _n_  
+__stirring__ _Stirring tales._  
+__hapless__  
+__shambling__  
+__squire__  
+__foreshadow__ _v_  
+
+
 
 
 
@@ -26,7 +46,24 @@ __croak__ _v_  __cloakroom__ _n_  __morosely__  __groveling__ _v_  __fusillade__
 
 
 
-__abreast__  __upswing__  __dispatch__ _v_  __adhesive__ _Double-stick adhesive strips._  __grumble__ _v_  __upshot__ _n_  __subsided__ _v_ _My headache has subsided._  __impending__  __bumps in the road__  __capped__ _v_  __scarce__  __nest egg__  __swoons__ _v_  __tweaks__ _n_  __stinkers__ _n_  __fared__ _v_  __coleslaw__  
+__abreast__  __upswing__  __dispatch__ _v_  __adhesive__ _Double-stick adhesive strips._  __grumble__ _v_  __upshot__ _n_  __subsided__ _v_ _My h__noir__ _A noir novel._  
+__mire__ _v_  
+__sprinkles__ _v_  
+__whackadoodle__  
+__bequeathed__ _v_  
+__whodunit__  
+__seedy__ _A seedy world._  
+__underbelly__  
+__elicit__  
+__pangs__  
+__seedier__  
+__toodles__ _v_  
+__scalper__ _n_  
+__stirring__ _Stirring tales._  
+__hapless__  
+__shambling__  
+__squire__  
+__foreshadow__ _v_  eadache has subsided._  __impending__  __bumps in the road__  __capped__ _v_  __scarce__  __nest egg__  __swoons__ _v_  __tweaks__ _n_  __stinkers__ _n_  __fared__ _v_  __coleslaw__  
 
 
 
