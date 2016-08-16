@@ -3,6 +3,19 @@
 
 
 
+__discharge__ :two::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._  
+__RV__  
+__vilify__ _v_  
+__jaywalker__ _n_  
+__dinged__ _v_ _I am also getting tired of my property taxes being dinged._  
+__encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
+__intervene__ _v_  
+__comptroller__  
+__lame__ _Lame excuse._  
+__appraisal__ _n_ :two::shit:  
+
+
+
 
 
 
