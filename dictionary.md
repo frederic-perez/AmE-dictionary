@@ -7,7 +7,6 @@
 
 
 
-
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -173,8 +172,7 @@ __VA__ _VA medical centers._
 __VC__ :two::shit: _A blindfolded VC suspect._  
 __Whodunit__  
 __Wholly Molly__  
-__X's and O's__  
-__X's and O's__ _There are the X's and O's._  
+__X's and O's__ :two::shit: _There are the X's and O's._  
 __abalone__  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
@@ -1070,8 +1068,7 @@ __coil__
 __coincided__ _v_  
 __colander__  
 __cold duck__  
-__coleslaw__  
-__coleslaw__ _n_ :two::shit:  
+__coleslaw__ _n_ :three::shit:  
 __collapsible__ _Collapsible shutters._  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collusion__  
@@ -1318,6 +1315,7 @@ __dawdled__ _v_
 __day job__   
 __dazzling__ _adj_ :seven: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __dead bolt__ _n_  
+__dead ringer__ An exact duplicate.  
 __deadbeat__ _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __dean__ _n_ :two::shit:  
@@ -3949,8 +3947,7 @@ __restive__
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ :two::shit: _n_  
-__resumption__ :open_mouth: :two::shit: _n_ _A possible resumption of talks between those countries._  
-__resumption__ _The resumption of negotiations._  
+__resumption__ :open_mouth: :three::shit: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __retailer__  
 __retailer__ (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __rethoric__  
@@ -3980,17 +3977,13 @@ __rickets__
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet__  
 __riddance__ :two::shit:  
-__riddle<sup>1</sup>__ _n_ :two::shit:  
-__riddle<sup>2</sup>__ _v_ (riddled)  
-__riddle__ _n_ _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
-__riddle__ _v_ _Chinese society's riddled with contradictions._  
-__rife__ :five::shit:  
-__rife__ _Speculation was riive among opposition fugitives._  
+__riddle<sup>1</sup>__ _n_ :three::shit: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
+__riddle<sup>2</sup>__ _v_ (riddled) :two::shit: _Chinese society is riddled with contradictions._  
+__rife__ :six::shit: _Speculation was riive among opposition fugitives._  
 __riffle__ _v_ (riffled) :two::shit: _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
 __rifle__ _v_  
-__rift__ _n_  
-__rift__ _n_ :four::shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
+__rift__ _n_ :five::shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
 __rigmarole__ _Rigmarole controls._  
 __rile__ (riled) :two: _v_ Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ :es: sacar de quicio  
 __rind__ _n_  
@@ -4908,8 +4901,7 @@ __sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or 
 __sulk<sup>2</sup>__ _v_  
 __sultanate__  
 __sump__ _n_ :two::shit:  
-__sunder__  
-__sunder__ _v_  
+__sunder__ _v_ :two::shit:  
 __sundown, sunup__ :two: _He works sunup to sundown._  
 __suntan__ _n_  
 __superintendent__  
@@ -4947,8 +4939,8 @@ __sweepstakes__
 __sweethearts__  
 __swelled__ (swelling) :two::shit:  
 __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
-__swerve__ (swerves, swerved) :four::shit: _v_  
-__swerve__ _Applying swerve and spin to the ball._  
+__swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
+__swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
 __swerved__  
 __swerving__  
 __swerving__  
