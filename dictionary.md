@@ -3,18 +3,6 @@
 
 
 
-__discharge__ :two::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._  
-__RV__  
-__vilify__ _v_  
-__jaywalker__ _n_  
-__dinged__ _v_ _I am also getting tired of my property taxes being dinged._  
-__encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__intervene__ _v_  
-__comptroller__  
-__lame__ _Lame excuse._  
-__appraisal__ _n_ :two::shit:  
-
-
 
 
 
@@ -150,6 +138,7 @@ __Q__ Character in James Bond films, a quiet genius who understands technology a
 __Quran__  
 __RGA__ _RGA chairman._  
 __RICO__ _He had been indicted on RICO charges._  
+__RV__  
 __Reuben James__  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __Rotarian__  
@@ -326,6 +315,7 @@ __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their dem
 __appetizer__ :open_mouth: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __appraisal__  
+__appraisal__ _n_ :two::shit:  
 __appraised__ _The home was appraised in 2007._  
 __apprehend__ _v_  
 __aquaponic__  
@@ -1110,6 +1100,7 @@ __composite decking__
 __compounding__  _Compounding the situation._  
 __comps__ _n_ (Competitors?)  
 __comptroller__  
+__comptroller__  
 __compulsory school__  
 __compulsory__ _A compulsory Third World condition._  
 __con<sup>1</sup>__ _n_ :two::shit: _A real con man._ _The con artist._  
@@ -1423,6 +1414,7 @@ __dimwits__ _n_ :two::shit:
 __din__ _n_ :nine::arrow_up_small::o2: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_  
 __dinged__  
+__dinged__ _v_ _I am also getting tired of my property taxes being dinged._  
 __dinghy__  
 __dinky__ _A dinky little community._  
 __dips__ _n_  
@@ -1436,6 +1428,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dis__ _n_ :two::shit:  
 __disarray__ :three: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disbar__ _Disbar attorney._  
+__discharge__ :two::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._  
 __discharge__ _His honorable discharge in 1974._  
 __discounter__ _n_  
 __discourse__  
@@ -1666,6 +1659,7 @@ __enact__ :four: _v_ Make (a bill or other proposal) law. _Legislation was enact
 __enamel__  
 __encampment__  
 __encore__ :two::shit:  
+__encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroaching__ :two::shit:  
 __encroaching__ _v_ _To protect natural land from encroaching development._  
 __encroachment__ :two::shit:  
@@ -2002,8 +1996,7 @@ __foul__ _Foul language__
 __founder__ _v_ _The attempt foundered._  
 __foundries__ _Metal foundries._  
 __foundry__  
-__fountain pen__ :two:  
-__fountain pen__ _n_ :two: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
+__fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
 __four-poster beds__  
 __four-wheeler__  
 __foxing stains__  
@@ -2625,6 +2618,7 @@ __interdicting__
 __interlopers__  
 __intermittent__  
 __interspersed__ :two::shit:  
+__intervene__ _v_  
 __invective__ :three::shit:  
 __inveighed__  
 __iron trellis__  
@@ -2649,6 +2643,7 @@ __jarring__
 __jaundice__ _v_ :two::shit:  
 __jaunt__ _n_  
 __jaunty__ :five: _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaywalker__ _n_  
 __jaywalking__  
 __jazzy__  
 __jeering__  
@@ -2787,6 +2782,7 @@ __lam__ _The Bronco is on the lam._
 __lambast__ (lambasted) :three::shit: _v_  
 __lambasted__  
 __lambaster__ :_v_  
+__lame__ _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
 __lampooned__  
 __landfill__ :two::shit:    
@@ -3349,8 +3345,7 @@ __outlook__
 __outmanoeuvred__  
 __outpace__ _v_  
 __outpacing__ :two::shit:  
-__outpatient__  
-__outpatient__  
+__outpatient__ :two::shit:  
 __outrage__ :two::shit:  
 __outrageous__  
 __outriggers__  
@@ -3883,8 +3878,7 @@ __rebate__ :two: _n_ A partial refund to someone who has paid too much for tax, 
 __rebates__ _Tax rebates._  
 __rebop__ :four::shit:  
 __rebuff__  
-__rebuffed__  
-__rebuffed__ _The effort has been rebuffed._  
+__rebuffed__ :two::shit: _The effort has been rebuffed._  
 __rebuke__ _n_  
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap__ _n_ _The written recap of the meeting._  
@@ -4952,8 +4946,8 @@ __sweepstakes__
 __sweethearts__  
 __swelled__ (swelling) :two::shit:  
 __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
-__swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
+__swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
 __swerved__  
 __swerving__  
 __swerving__  
@@ -5401,6 +5395,7 @@ __victor__
 __victor__ _Seward became the righthand man of the victor, Abraham Lincoln._  
 __vie__  
 __vig__ _n_ :three::shit:  
+__vilify__ _v_  
 __vindicate__ _v_  
 __vindication__ :three::shit:  
 __virtually__ :open_mouth: Practically, almost.  
@@ -5548,8 +5543,7 @@ __whodunit__
 __wholesale__  
 __wholesale__ _Russia stands for wholesale orruption._  
 __wholesaler__ :two::shit:  
-__whoop__
-__whoop__ _v_ _He can whoop him with a switch._  
+__whoop__ _v_ :two::shit: _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
 __whoosh__ _He could hear the whoosh of cars speeding past on a expressway._  
