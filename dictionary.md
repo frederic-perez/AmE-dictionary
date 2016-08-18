@@ -3,7 +3,26 @@
 
 
 
+__off-the-cuff__  
 
+__writhing__ _Dirt flies as 2,500 pounds writhing animal charge across the arena._  
+__blustery__ _A blustery Sunday afternoon._  
+__bronc__ _Bull and bronc riding._  
+__buggy__ _n_ _In the early 1900s, guests arrived by horse and buggy._  
+__swerved__ _v_  
+__roaming__ _v_  
+__mystique__ :open_mouth:  
+__crenelated weir__  
+__wickedly__  
+__eh?__ _Impressive, eh?_  
+__bevy__ _A bevy of admirers._  
+__gladed__ _Gladed terrain._  
+__daredevil__ _The daredevils of the group._  
+__peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
+__moonshine__ (spirit)  
+__pitch__ _v_ :camera::shit: _Pitching bowling balls._  
+__neat__ _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._  
+__groomers__  
 
 
 
