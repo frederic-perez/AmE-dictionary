@@ -229,10 +229,8 @@ __adverts__
 __advocacy__  
 __afar__ :three: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
-__affluent__  
-__affluent__   
-__affluent__ _Affluent parents._ _(wealthy?)_  
-__affluent__ _In the United States and other affluent nations._  
+__affluence__ _n_ The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
+__affluent__ _adj_ :four: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __affront__  
 __afloat__  
 __afoot__  
@@ -1099,8 +1097,7 @@ __comply__ _v_
 __composite decking__  
 __compounding__  _Compounding the situation._  
 __comps__ _n_ (Competitors?)  
-__comptroller__  
-__comptroller__  
+__comptroller__ _n_ :two: Variant of controller, used esp as a title of any of various financial executives.  
 __compulsory school__  
 __compulsory__ _A compulsory Third World condition._  
 __con<sup>1</sup>__ _n_ :two::shit: _A real con man._ _The con artist._  
@@ -1232,8 +1229,7 @@ __critters__
 __croak__ _v_  
 __croaked__  
 __crones__ _n_  
-__cronyism__  
-__cronyism__  
+__cronyism__ :two::shit:  
 __crossbeam__ _n_  
 __crossing t's__ _Crossiing our t's and dotting our i's._  
 __crossover__ _Crossover zone._  
@@ -1723,14 +1719,10 @@ __evicted__ _v_ :three::shit:
 __eviction__  
 __evince__ _v_ _To evince an interest in politics._  
 __exacerbate__ (exacerbated, exacerbating) :three: _v_ Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
-__exact__ _v_ :three: (exacting) __2__ To demand and obtain by force or authority: _a harsh leader who exacts obedience._  
-__exact__ _v_ _Tales of Christie exacting revenge._  
+__exact__ _v_ :four: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __excess__ _In excess_  
-__excise__ _Excise tax._  
-__excise__ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
-__excoriate__ _Gay rights advocates excoriated the state's actions._  
-__excoriated__  
-__excoriated__ _v_  
+__excise__ :two::shit: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
+__excoriate__ _v_ :three::shit: (excoriated) _Gay rights advocates excoriated the state's actions._  
 __execs__ Executives?  
 __exerted__  
 __exhaust__ _Exhaust fans._  
@@ -2477,6 +2469,7 @@ __honcho__
 __honeysuckle__  
 __honorary__ _Honorary consul._  
 __honorees__  
+__hoo-ha__ _n_ A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_  
 __hooch__ :two::shit: _Take it easy on the hooch._  
 __hood__ _n_ :two::shit:  
 __hoodlums__  
@@ -2545,8 +2538,7 @@ __idiocracy__ _Frank is sick and tired of how America has become a state of idio
 __iffy__ :two::shit: _Iffy call._  
 __ignition interlocks__  
 __ilk__ _n_ Type or kind: _can't trust people of that ilk._  
-__illustrious__ :open_mouth:  
-__illustrious__ _An illustrious career._  
+__illustrious__ :two::shit::open_mouth: _An illustrious career._  
 __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immigrated__  
 __impairment__  
@@ -4016,8 +4008,7 @@ __roach paste__
 __roach__ _n_ :two::shit: _Roach paste._  
 __road salt__ _n_  
 __roadside__ _Roadside billboards._  
-__roam__ _v_ _Dinosaurs roaming the turf in Charlotte._  
-__roam__ _v_ _To roam the country._  
+__roam__ _v_ :two::shit: _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
 __robin-breasted__  
 __rock the boat__  
@@ -4677,10 +4668,8 @@ __springring clasp__
 __sprinkle__ _v_ (sprinkled, sprinkling) :five::shit:  
 __sprinkler__ :three: _n_ __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkles__ _v_  
-__spruce up__ _v_  
-__spruce up__ _v_ :two::shit: _Juliette spruces up her country look and sound._  
-__spry__  
-__spry__ :two: _adj_ Lively, active, and brisk; vigorous.  
+__spruce up__ _v_ :three::shit: _Juliette spruces up her country look and sound._  
+__spry__ :three: _adj_ Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
