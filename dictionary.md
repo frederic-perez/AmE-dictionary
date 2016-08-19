@@ -3,26 +3,7 @@
 
 
 
-__off-the-cuff__  
 
-__writhing__ _Dirt flies as 2,500 pounds writhing animal charge across the arena._  
-__blustery__ _A blustery Sunday afternoon._  
-__bronc__ _Bull and bronc riding._  
-__buggy__ _n_ _In the early 1900s, guests arrived by horse and buggy._  
-__swerved__ _v_  
-__roaming__ _v_  
-__mystique__ :open_mouth:  
-__crenelated weir__  
-__wickedly__  
-__eh?__ _Impressive, eh?_  
-__bevy__ _A bevy of admirers._  
-__gladed__ _Gladed terrain._  
-__daredevil__ _The daredevils of the group._  
-__peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
-__moonshine__ (spirit)  
-__pitch__ _v_ :camera::shit: _Pitching bowling balls._  
-__neat__ _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._  
-__groomers__  
 
 
 
@@ -548,6 +529,7 @@ __bested__ _v_
 __bestow__ _v_ :nine: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bettors__  
 __bevy__ :four: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
+__bevy__ _A bevy of admirers._  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :three::shit: _Midcalf silk dresses came with ruffled bibs and hems._  
@@ -629,6 +611,7 @@ __blurb__ :es: comentario de sobrecubierta
 __blurt__ (blurting) :two: /bləːt/ _v_  To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster__  
 __blustery__ :five: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
+__blustery__ _A blustery Sunday afternoon._  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._   
 __boardwalk__  
 __boaters__  
@@ -745,6 +728,7 @@ __brogue__
 __broken accent__  
 __broker__ _v_ :four: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::shit:  
+__bronc__ _Bull and bronc riding._  
 __broncobusting__  
 __brooder house__  
 __brooding__ :four: _shit:  
@@ -779,6 +763,7 @@ __bug off__ _Slang_ To leave someone alone; go away.
 __bug__ _v_ _Informal_ Annoy or bother (someone). _A persistent reporter was bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __buggers__  
+__buggy__ _n_ _In the early 1900s, guests arrived by horse and buggy._  
 __bugles__ _n _ :three::shit: _The echo of Chinese bugles._  
 __bugout__  
 __bulk__  
@@ -1229,6 +1214,7 @@ __creaky__ _Creaky infrastructure._
 __creases__ _Knife creases._  
 __creasing__  
 __credence__  
+__crenelated weir__  
 __creosote__  
 __crepe paper bells__  
 __crepe__  
@@ -1324,6 +1310,7 @@ __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper l
 __dappled__ _v_ :three::shit:  
 __dare__  
 __daredevil__  
+__daredevil__ _The daredevils of the group._  
 __darn__  
 __darning__  
 __dart__ (darting) :two::shit: _v_  
@@ -1635,6 +1622,7 @@ __egotists__
 __egregious__  
 __egregious__ :three::shit: _Egregious threats._  
 __egrets__ :five::shit: _Snow egrets._  
+__eh?__ _Impressive, eh?_  
 __eighty-six__ _v_ :two::shit: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
 __eke out__ _v_  
@@ -2147,6 +2135,7 @@ __girders__ _n_ :two::shit:
 __giridon__  
 __giveaway__  
 __gladdened__  
+__gladed__ _Gladed terrain._  
 __glass slipper__ _(Cinderella)_  
 __gleaning__  
 __glib__ _A glib reply to his remark._  
@@ -2247,6 +2236,7 @@ __gritty__ _The grutty determination._
 __grizzled__  
 __grog__  
 __groomed__  
+__groomers__  
 __groove__ _Shaking her groove._  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __ground chuck steak__  
@@ -3130,6 +3120,7 @@ __monkey wrench__
 __monsoon__  
 __monstrosity__ :open_mouth:  
 __moon roof__  
+__moonshine__ (spirit)  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
 __moot__ :four: _adj_ __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._  
 __moot__ _The zero-emissions mandate was a moot point._  
@@ -3199,6 +3190,7 @@ __musty__
 __mutt__ _n_ :five::shit:  
 __muzzle__ :three::shit:  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
+__mystique__ :open_mouth:  
 __nab__ _You can nab bargains before Black Friday._  
 __name-and-likeness__  
 __names and likeness__  
@@ -3212,6 +3204,7 @@ __nascent__ _The nascent market._
 __nattily__  
 __nattily__ _Actor nattily dressed._  
 __navel__ :two::shit:  
+__neat__ _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._  
 __necromancer__  
 __nefarious__  
 __nematodes__  
@@ -3288,6 +3281,7 @@ __of late__ :es: últimamente
 __of__ _The gas smells of roggen eggs._  
 __off-kilter__  
 __off-putting__  
+__off-the-cuff__  
 __offbeat__ _His offbet partner._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __offing__ _A budding rivalry could be in the offing._  
@@ -3466,6 +3460,7 @@ __peat__ _Battling the blazes in peat swamp forests._
 __peckerwood__  
 __pecking order__  
 __peddling__  
+__peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peer__ _Peering into their crystal balls._  
 __peerless__ 
 __pelt__  
@@ -3560,6 +3555,7 @@ __pit<sup>1</sup>__ _n_ _The pit of his stomach._
 __pit<sup>2</sup>__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
 __pitch<sup>1</sup>__ _n_ _We recovered the ball in their side of the pitch after pressing well._  
 __pitch<sup>2</sup>__ _v_ _To pitch a tent._  
+__pitch__ _v_ :camera::shit: _Pitching bowling balls._  
 __pith helmet__ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
 __pithy__  
@@ -4028,6 +4024,7 @@ __roach__ _n_ :two::shit: _Roach paste._
 __road salt__ _n_  
 __roadside__ _Roadside billboards._  
 __roam__ _v_ :two::shit: _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
+__roaming__ _v_  
 __roast__ _n_  
 __robin-breasted__  
 __rock the boat__  
@@ -4957,6 +4954,7 @@ __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
 __swerved__  
+__swerved__ _v_  
 __swerving__  
 __swerving__  
 __swerving__ _v_  
@@ -5556,6 +5554,7 @@ __whoopee__
 __whooping cough__  
 __whoosh__ _He could hear the whoosh of cars speeding past on a expressway._  
 __whorls__  
+__wickedly__  
 __wicker chair__  
 __wicker__  
 __wicket__  
@@ -5645,6 +5644,7 @@ __wrinkle__
 __wrinkling__  
 __writ__  
 __writhe__ (writhing) :two::shit:  
+__writhing__ _Dirt flies as 2,500 pounds writhing animal charge across the arena._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __wunderkind__  
