@@ -12,6 +12,18 @@
 
 
 
+__ooze__ _v_ _You will see the sauce ooze out a bit._  
+__thawed__ _v_ _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
+__gibblets__ _n_  
+__dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
+__twine__ _n_ _Tie the legs of the turkey together with twine._  
+__chalkboard__ _n_  
+__tantalize__ _v_  
+__slight__ _The opera itself is slight._  
+__headdress__ _n_ _The pharaoh's headdress._  
+
+
+
 
 __brim__ _v_ _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._  
 __munch__ _v_  
