@@ -8,6 +8,30 @@
 
 
 
+
+
+
+
+
+__brim__ _v_ _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._  
+__munch__ _v_  
+__produce__ _People value fresh produce._  
+__waterfronts__ _n_  
+__old-timers__ _n_  
+__breakwater__ _n_  
+__dread__ _v_  
+__elbow grease__ _I tend to rely on elbow grease and hotel room sinks._  
+__unwind__ _v_  
+__gab__ _The gift of gab._  
+__blackout__ _Blackout dates._  
+__freebies__ _The tickets come with some bonus freebies._  
+__boon__ _A boon to families who want to ski together._  
+__flying colors__  
+__moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+
+
+
+
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
