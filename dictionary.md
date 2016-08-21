@@ -9,6 +9,10 @@
 
 
 
+__shore up__ _v_  
+__upwardly__  
+__verve__  
+__send to its feet__ _the pop anthem sent the audience to its feet._  
 
 
 
