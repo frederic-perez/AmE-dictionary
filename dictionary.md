@@ -8,46 +8,6 @@
 
 
 
-
-__shore up__ _v_  
-__upwardly__  
-__verve__  
-__send to its feet__ _the pop anthem sent the audience to its feet._  
-
-
-
-__ooze__ _v_ _You will see the sauce ooze out a bit._  
-__thawed__ _v_ _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
-__gibblets__ _n_  
-__dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
-__twine__ _n_ _Tie the legs of the turkey together with twine._  
-__chalkboard__ _n_  
-__tantalize__ _v_  
-__slight__ _The opera itself is slight._  
-__headdress__ _n_ _The pharaoh's headdress._  
-
-
-
-
-__brim__ _v_ _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._  
-__munch__ _v_  
-__produce__ _People value fresh produce._  
-__waterfronts__ _n_  
-__old-timers__ _n_  
-__breakwater__ _n_  
-__dread__ _v_  
-__elbow grease__ _I tend to rely on elbow grease and hotel room sinks._  
-__unwind__ _v_  
-__gab__ _The gift of gab._  
-__blackout__ _Blackout dates._  
-__freebies__ _The tickets come with some bonus freebies._  
-__boon__ _A boon to families who want to ski together._  
-__flying colors__  
-__moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
-
-
-
-
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -603,6 +563,7 @@ __blackening__
 __blackface__  
 __blackheads__ _n_ :three::shit:  
 __blackjack__ :two::shit:  
+__blackout__ _Blackout dates._  
 __blanched__ _v_  
 __bland__ _He had a bland voice to go with his bland face._  
 __blanket__ :two::shit: _The security blanket._  
@@ -697,6 +658,7 @@ __boom and bust__
 __boomer chains__  
 __booms__ _n_ :two::shit:  
 __boon__ /buːn/ :three: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
+__boon__ _A boon to families who want to ski together._  
 __boondoggle__ :two::shit:  
 __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boosters__ _Mississippi boosters._  
@@ -739,6 +701,7 @@ __breakaway__
 __breakdown__ _Population breakdown._  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakout__ :three::shit: _He's a total breakout character._  
+__breakwater__ _n_  
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __breech__ _n_ :four::shit:  
 __brethen__  
@@ -751,8 +714,10 @@ __bridesmaid__
 __briers__  
 __brig__  
 __bright-orange__ _A bright-orange construction jumpsuit._  
+__brim__ _v_ _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._  
 __brimming__  
 __brimming__ _v_ _He is brimming with confidence._  
+__bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __briny__ _adj_  
 __brisk__  
 __brisk__ _Brisk pace._  
@@ -970,6 +935,7 @@ __chafe__ _v_ :five::shit: (chafes, chafed, chafing) _Her bare ankles chafing ag
 __chaffed__ _v_  
 __chagrin__ (chagrined) :four: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._  
 __chaise__  
+__chalkboard__ _n_  
 __champ__ :two::shit: Champion?  
 __chaparral__  
 __chaperones__  
@@ -1578,6 +1544,7 @@ __drape__ (draping) :three::shit: _v_
 __draped__ _v_  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
 __drawl__  
+__dread__ _v_  
 __dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga    
 __dredged__ _Dredged mud._  
@@ -1639,6 +1606,7 @@ __dwindle__ _v_ :five::shit: (dwindling)
 __dyke__ _n_ :four: _Informal_ A lesbian. _She wasn't a dyke, either._  
 __dysfunction__ (dysfunctional) :open_mouth:  
 __dysplasia__ _Canine hip dysplasia._  
+__dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__  
 __early-onset__ _Early-onset Alzheimer's disease._  
 __earnest__  
@@ -1672,6 +1640,7 @@ __el__ :two::shit: _The el tracks._
 __elated__ :two::shit: _They came to be elated and uplifted._  
 __elation__  
 __elbow grease__  
+__elbow grease__ _I tend to rely on elbow grease and hotel room sinks._  
 __elbowing__ _v_ _Elbowing your way through crowds._  
 __elegy__  
 __elicit__  
@@ -1984,6 +1953,7 @@ __flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under th
 __fly-by-night__
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __flying colors__  
+__flying colors__  
 __fob__ :two::shit:  
 __fodder__ :five: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fodder__ _Cannon fodder._  
@@ -2052,6 +2022,7 @@ __frayed__ _Frayed nerves._
 __frayed__ _v_ :two::shit: _A frayed suit._  
 __frazzled__  
 __free lunch__  
+__freebies__ _The tickets come with some bonus freebies._  
 __freebies__ _n_ :two::shit:  
 __freeloading__  
 __freewheel__ _v_  
@@ -2097,6 +2068,7 @@ __futility__ :three::shit:
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __gab away__ _v_ _The gang was gabbing away._  
 __gab__  
+__gab__ _The gift of gab._  
 __gabfest__  
 __gabled__ _v_  
 __gadfly__  
@@ -2157,6 +2129,7 @@ __get-go__ _The get-go._
 __get-go__ _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __ghoul__ :two::shit:  
+__gibblets__ _n_  
 __giddily__  
 __giddiness__  
 __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
@@ -2414,6 +2387,7 @@ __head and shoulders__
 __head and shoulders__ _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head wind__  
 __headdress__  
+__headdress__ _n_ _The pharaoh's headdress._  
 __header__ _He scored with a header._  
 __headwind__  
 __headwind__ (headwinds) :four: A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
@@ -2510,6 +2484,7 @@ __holdout__
 __holdout__ _A weeklong holdout._  
 __hole up__ _v_  
 __holloware bullion__ 
+__holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
 __homestead__  
@@ -3144,6 +3119,7 @@ __moccasin__ :two::shit: (moccasins)
 __mockie__ _n_ :two::shit:  
 __modicum__  
 __mogul__  
+__moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mold__ _n_  
 __moldy__ :two::shit:  
 __molehill__  
@@ -3208,6 +3184,7 @@ __mull__ (mulling) :two::shit: _v_ _Cheney was mulling a Senate bid._
 __mulled__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumps__  
+__munch__ _v_  
 __mundane__  
 __muriatic__  
 __muse__ _v_ _He mused on his Facebook page about killing his wife._  
@@ -3333,6 +3310,7 @@ __oilcloth__
 __okra gumbo__  
 __okra__ :two::shit:  
 __old hat__  
+__old-timers__ _n_  
 __olefin__ _n_  
 __oligarch__  
 __omelets__  
@@ -3357,6 +3335,7 @@ __onus__
 __oompah__ _The house oompah band._  
 __oomph__  
 __ooze__ (oozed, oozing) :four: _v_ __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
+__ooze__ _v_ _You will see the sauce ooze out a bit._  
 __oozed__ _v_  
 __oozing__ _v_  
 __op-ed__ :five: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
@@ -3739,6 +3718,7 @@ __proceeds__ :two: _Proceeds from the sale._ :es: ganancias; ingresos
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::shit: (procuring)  
 __prod__ (prodded) :two::shit: :es: _empujón_  
+__produce__ _People value fresh produce._  
 __proffering__  
 __profiteering__  
 __profligate__  
@@ -4395,6 +4375,7 @@ __shoot up__ :two::shit: _The number of homeless families shot up during the rec
 __shooting gallery__  
 __shopkeeper__  
 __shopkeeper__ :two::shit:  
+__shore up__ _v_  
 __shore up__ _v_ :three::shit: (shoring up)  
 __shorn__ :three::shit: _Shorn head._  
 __short-handed__  
@@ -4532,6 +4513,7 @@ __slick<sup>3</sup>__ _adj_ :five::shit: _The slick surface._ _It was a slick sc
 __slide__ :two::shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _n_ :three::shit: _What's up with someone's slider?_  
 __slight__  
+__slight__ _The opera itself is slight._  
 __slighted__  
 __slim jim__ _n_ :two::shit: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__  
@@ -5043,6 +5025,7 @@ __tanker truck__
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__  
 __tannic__ :three::shit:  
+__tantalize__ _v_  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ :three: _adj_ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap__ _v_ :three::shit:  
@@ -5104,6 +5087,7 @@ __thashing__
 __that's the breaks__  
 __thaw__ _n_ :three::shit: _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__  
+__thawed__ _v_ _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the "m" word__  
 __the 105's__  
 __the 11th hour__  
@@ -5310,6 +5294,7 @@ __twanger__ _n_
 __twat__  
 __tweaks__ _n_  
 __twine__  
+__twine__ _n_ _Tie the legs of the turkey together with twine._  
 __twinge__  
 __twinkle__  
 __twinned towns__  
@@ -5362,6 +5347,7 @@ __unscathed__ :two: _adj_ Without suffering any injury, damage, or harm. _Syn_ u
 __unspooling__ _Unspooling microphone cables._  
 __untidy__  
 __unwilling__ _Unwilling medical director._  
+__unwind__ _v_  
 __unyielding__  
 __up and running__  
 __up-and-comer__  
@@ -5391,6 +5377,7 @@ __upswing__
 __upswing__ :two::shit:  
 __uptake__  
 __uptick__ _n_ :shit::two:  
+__upwardly__  
 __urbanites__  
 __urchin__ _An underprivileged urchin._  
 __usury__
@@ -5430,6 +5417,7 @@ __verdict__ _n_
 __vermicelli__  
 __vermin__  
 __vernacular__  
+__verve__  
 __verve__ :three: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vesting__ _The vesting date._  
@@ -5510,6 +5498,7 @@ __water down__ :two::shit:
 __water seepage__  
 __waterfowl__ :two::shit:  
 __waterfront__  
+__waterfronts__ _n_  
 __watershed__  
 __watershed__ _Dignataries recognized the watershed moment pf his passing._  
 __waterway__  
