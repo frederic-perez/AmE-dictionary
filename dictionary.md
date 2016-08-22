@@ -753,12 +753,9 @@ __buckwheats__
 __budding__  
 __budged__  
 __buff bod__  
-__buff<sup>1</sup>__ :two::shit: _Some folks are movie buffs._ :es: entusiasta  
-__buff<sup>2</sup>__ _v_ :two: (buffed)  
-__buff__ _He appears buff._  
-__buff__ _Images of buff biceps._  
-__buff__ _The buff athletes who strutted._  
-__buffed__ _v_ _Joel placed the award on his piano and buffed it._  
+__buff<sup>1</sup>__ _n_ :three: _informal_ One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
+__buff<sup>2</sup>__ _adj_ :two: _informal_ (of a person or their body) in good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
+__buff<sup>3</sup>__ _v_ :three::shit: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffet__ _v_ :three::shit: (buffeted)  
 __buffoon__  
 __buffs__ _History buffs._  
@@ -1778,8 +1775,7 @@ __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports
 __fandom__  
 __fangs__ _n_  
 __fannies__  
-__fanny pack__  
-__fanny pack__ A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
+__fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __far cry__  
 __far-flung__ :two::shit:  
 __farce__  
@@ -1969,11 +1965,8 @@ __for the ages__ :two::shit: _A comeback for the ages._ _A year for the ages._
 __for the sake of__  
 __foragers__  
 __foray__ :four: /ˈfɒreɪ/ _n_ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
-__fore__  
-__fore__ _n_  
-__forebode__ (foreboding) :three: _v_ __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
-__foreboding__  
-__foreboding__  
+__fore__ _n_ :two::shit:  
+__forebode__ _v_ :five: (foreboding) _v_ __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreclose__ _v_  
 __foreclosure__ _n_  
 __forefathers__  
@@ -2157,8 +2150,7 @@ __gloom__ _n_
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __glowering__  
 __glue > a glue-type player__  
-__glum__ _Dell and H.P. Might not be joyful, but should be they be glum?_  
-__glum__ _Glum news._  
+__glum__ :two::shit: _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
 __glut__ :three::shit:  
 __glut__ _A global glut of cotton._  
 __gnarled__ _v_  
@@ -2262,8 +2254,7 @@ __grudge__ _n_ :four::shit: _I don't hold any grudges._ _Holding a grudge._ :es:
 __grudging__ (grudgingly) :two::shit:  
 __grueling__  
 __gruff__ :three::shit:  
-__grumble__ _v_  
-__grumble__ _v_ :two::shit:  
+__grumble__ _v_ :three::shit:  
 __grunt__ _n_ :four::shit: _The grunt work._ _You'll have as many troopers as you need for the grunt work._  
 __grunts__ :three::shit: _Grunts and generals._  
 __guffaw__ (guffaws) :two::shit:  
@@ -2560,8 +2551,7 @@ __illustrious__ :two::shit::open_mouth: _An illustrious career._
 __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immigrated__  
 __impairment__  
-__impasse__ :two: :open_mouth: Deadlock or stalemate.  
-__impasse__ _At impasse._  
+__impasse__ :three: :open_mouth: Deadlock or stalemate. _At impasse._  
 __impeachment__  
 __impede__ _v_  
 __impending__  
@@ -3475,8 +3465,7 @@ __peddling__
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peer__ _Peering into their crystal balls._  
 __peerless__ 
-__pelt__  
-__pelt__ _v_ _Inmates pelting him with objects from above._  
+__pelt__ _v_ :two::shit: _Inmates pelting him with objects from above._  
 __penchant__ :six: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penknife__ :two::shit:  
 __pennant races__  
@@ -3524,8 +3513,7 @@ __picklock__ _v_
 __pickoff__ _A pickoff throw to first base._  
 __picture-perfect__ _The picture-perfect porch._  
 __piece of work__ _You're a piece of work, Bertrand._  
-__piecemeal__ :three::shit: :es: poco a poco  
-__piecemeal__ _A piecemeal approach._  
+__piecemeal__ :four::shit: _A piecemeal approach._ :es: poco a poco  
 __pig iron__ _n_ :two::shit:  
 __pigboat__ _n_  
 __pileup__  
@@ -4104,8 +4092,7 @@ __running-of-the-mill husband__
 __runoff water__  
 __runoff__ :two::shit: _Enough votes to force a runoff,_  
 __ruse__ _n_ :two::shit:  
-__rustle__  
-__rustle__ _v_ _To rustle up a dinner for 12._  
+__rustle__ _v_ :two::shit: _To rustle up a dinner for 12._  
 __rut__ :two::shit: _Some guy with rut for brains._  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __sac-a-lait__  
