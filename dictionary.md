@@ -4,6 +4,24 @@
 
 
 
+__campground__ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
+__wiggle__ _n_ _A wiggle in Waller Creek._  
+__riparian__ _Riparian woodland._  
+__saplings__ _Twisting saplings._  
+__limestone__ _n_  
+__dean__ _He served as dean._  
+__hail__ _v_ (hailed)  
+__suffragette__  
+__creek__ _An older house on a creek._  
+__acreage__  
+__fabled__  
+__prepping__ _v_  
+
+
+
+
+
+
 
 
 
