@@ -384,8 +384,7 @@ __backwoods__
 __bad blood__ :two::shit:  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
-__baffle__ _v_  
-__baffle__ _v_ _Baffled children._  
+__baffle__ _v_ :two::shit: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__  
@@ -611,8 +610,7 @@ __blunt__ _adj_
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ (blurting) :two: /bləːt/ _v_  To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster__  
-__blustery__ :five: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
-__blustery__ _A blustery Sunday afternoon._  
+__blustery__ :six: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._   
 __boardwalk__  
 __boaters__  
@@ -1282,8 +1280,7 @@ __curlicues__
 __curmudgeon__ :two::shit:  
 __curry__ _v_  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
-__cursory__  
-__cursory__ _A cursory glance._  
+__cursory__ :two::shit: _A cursory glance._  
 __curtail__ _v_ :four: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __curtly__  
@@ -1315,8 +1312,7 @@ __dank__ :three: _adj_ Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ da
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __dappled__ _v_ :three::shit:  
 __dare__  
-__daredevil__  
-__daredevil__ _The daredevils of the group._  
+__daredevil__ :two::shit: _The daredevils of the group._  
 __darn__  
 __darning__  
 __dart__ (darting) :two::shit: _v_  
@@ -1639,8 +1635,7 @@ __eking__ _v_ _Eking out a bit more mileage._
 __el__ :two::shit: _The el tracks._  
 __elated__ :two::shit: _They came to be elated and uplifted._  
 __elation__  
-__elbow grease__  
-__elbow grease__ _I tend to rely on elbow grease and hotel room sinks._  
+__elbow grease__ :two::shit: _I tend to rely on elbow grease and hotel room sinks._  
 __elbowing__ _v_ _Elbowing your way through crowds._  
 __elegy__  
 __elicit__  
@@ -2067,8 +2062,7 @@ __fusillade__ _n_
 __futility__ :three::shit:  
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __gab away__ _v_ _The gang was gabbing away._  
-__gab__  
-__gab__ _The gift of gab._  
+__gab__ :two::shit: _The gift of gab._  
 __gabfest__  
 __gabled__ _v_  
 __gadfly__  
@@ -2964,8 +2958,7 @@ __lurch__ _We lurched around a bend._
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurk__ (lurked) /ləːk/ :three: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lurking__ _Lurking over the horizon._  
-__lush__ :five: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
-__lush__ _Lush wetlands._  
+__lush__ _adj_ :six: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lustre__  
 __lye water__  
 __lynch__ :open_mouth: _v_ :two: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -3334,7 +3327,7 @@ __onslaught__
 __onus__  
 __oompah__ _The house oompah band._  
 __oomph__  
-__ooze__ (oozed, oozing) :four: _v_ __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
+__ooze__ (oozed, oozing) :four: _v_ __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __ooze__ _v_ _You will see the sauce ooze out a bit._  
 __oozed__ _v_  
 __oozing__ _v_  
@@ -4975,11 +4968,7 @@ __swelled__ (swelling) :two::shit:
 __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
-__swerved__  
-__swerved__ _v_  
-__swerving__  
-__swerving__  
-__swerving__ _v_  
+__swerved__ _v_ :five::shit: (swerving)  
 __swift__  
 __swilled__ (swilling) :three::shit: _Swilling wine._  
 __swimabout__  
@@ -5258,8 +5247,7 @@ __trowel__ _n_ :two::shit:
 __troweled__ _v_  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
-__trudge__ :three::shit: _v_  
-__trudge__ _v_  
+__trudge__ _v_ :four::shit:  
 __true to form__  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
@@ -5575,8 +5563,7 @@ __whittle down__ _The overwhelming advantage has been whittled down._
 __whittling down__  
 __whittling__  
 __whodunit__  
-__wholesale__  
-__wholesale__ _Russia stands for wholesale orruption._  
+__wholesale__ :two::shit: _Russia stands for wholesale orruption._  
 __wholesaler__ :two::shit:  
 __whoop__ _v_ :two::shit: _He can whoop him with a switch._  
 __whoopee__  
