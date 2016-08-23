@@ -971,8 +971,7 @@ __chiseled__
 __chivvied__  
 __choker__ _A velvet choker._  
 __chomping__  
-__choppy__ (choppier) :two: (of a sea, lake, or river) Having many small waves. _Before the waters get choppier._  
-__choppy__ _Choppy waters._  
+__choppy__ (choppier) :three: (of a sea, lake, or river) Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n_ :two: _Informal_ A person's or animal's mouth or jaws. _Acting chops._  
 __chuck out__ _v_  
 __chuck__ _v_ _I made plans to chuck everything._  
@@ -1013,8 +1012,7 @@ __clawback__
 __clean his clock__  
 __clean one's plate__ Eat up all the food put on one's plate.  
 __clear air__  
-__clearinghouse__  
-__clearinghouse__  
+__clearinghouse__ :two::shit:  
 __cleat__ _n_ :three::shit:  
 __cleated__ _v_ To get stabbed/slashed/kicked, or in any other way harmed by someone's cleat. _Joe got cleated in soccer and it left an ugly bruise._  
 __cleave__ _v_ _The court often cleaves along predictable lines._  
@@ -3302,10 +3300,7 @@ __ominous__
 __on deck__  
 __on the docket__  
 __on top of that__ _On top of that, ..._  
-__on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__  
-__on__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._  
-__on__ _A woman walks a dog on a street in NYC._  
-__on__ _His term ends on Jan. 12, 2015._  
+__on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
 __once-over__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ _British informal_ Something done, made, or happening only once. _The meeting is a one-off._  
@@ -3495,8 +3490,7 @@ __petroglyphs__ _Ancient Indian petroglyph._
 __petted__  
 __pewter__  
 __phalanx__ :two::shit:  
-__phenom__  
-__phenom__  
+__phenom__ :two::shit:  
 __philanderer__  
 __philandering__  
 __phlegm__  
@@ -4355,8 +4349,7 @@ __shoot up__ :two::shit: _The number of homeless families shot up during the rec
 __shooting gallery__  
 __shopkeeper__  
 __shopkeeper__ :two::shit:  
-__shore up__ _v_  
-__shore up__ _v_ :three::shit: (shoring up)  
+__shore up__ _v_ :five: (shoring up) Support by placing against something solid or rigid.  
 __shorn__ :three::shit: _Shorn head._  
 __short-handed__  
 __shortchange__ _v_  
@@ -4523,8 +4516,7 @@ __sloppy__ _We were a little sloppy in the second half of the game._
 __slops__ _He makes six bucks an hur and tips cleaning slops._  
 __slosh__ (sloshing) :four: _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloshing__  
-__sloth__  
-__sloth__ _The winter sloth._  
+__sloth__ :two::shit: _The winter sloth._  
 __slouch__ _De Coubertin was no slouch._  
 __slouch__ _Slouch hat._  
 __slouching__ _v_  
@@ -5346,8 +5338,7 @@ __upshot__ _n_
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstarts__ :two::shit: _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
-__upswing__  
-__upswing__ :two::shit:  
+__upswing__ :three::shit:  
 __uptake__  
 __uptick__ _n_ :shit::two:  
 __upwardly__  
@@ -5660,12 +5651,9 @@ __yarn du jour__
 __yarn__  
 __yawing__ _v_  
 __yawning pit__  
-__yawning__ :two::shit: _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._  
-__yawning__ _The gap is yawning._  
-__yearn__ _v_ _Everhart yearns to make a change._  
-__yearn__ _v_ __1__ To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
-__yearning__ :three::shit:  
-__yearning__ _n_  
+__yawning__ :three::shit: _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
+__yearn__ _v_ __1__ :two: To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
+__yearning__ _n_ :four: Prolonged unfulfilled desire or need. _Syn_ longing  
 __yellow wine__  
 __yelps__ _Puppy yelps._  
 __yield__ _Failing to yield to pedestrians._  
