@@ -199,8 +199,7 @@ __according to plan__ _If everything goes according to plan._
 __accountant__ :es: contable  
 __accoutrements__  
 __accretion__  
-__accrue__ _Even if banana sales languish, other benefits may accrue._  
-__accrue__ _v_ :four: (accrued) To increase in value or amount gradually as time passes : to grow or build up slowly.  
+__accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquitted__  
@@ -782,8 +781,7 @@ __bumper__
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
 __bumps in the road__  
-__bunch__ _v_ :camera::shit: _Organic bunched carrots, 98¢ per pound._  
-__bunch__ _v_ :three::shit: (bunched)  
+__bunch__ _v_ :camera::four::shit: (bunched) _Organic bunched carrots, 98¢ per pound._  
 __bungee cord__ _n_  
 __bungee rope__  
 __bungle__ _v_ (bungled) :two::shit:  
@@ -1067,8 +1065,7 @@ __cockerel__
 __coddled__ _A coddled creature._  
 __coerced__  
 __coffee-table book__  
-__coffers__ _San Francisco city coffers._  
-__coffers__ _State's coffers._  
+__coffers__ :two::Shit: _San Francisco city coffers._ _State's coffers._  
 __cog__ :four: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __coif__ _Strange coif._  
 __coiffed__  
@@ -1948,8 +1945,7 @@ __fluster__ :two: _v_ Make (someone) agitated or confused. _Syn_ unsettle, make 
 __flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under the water._  
 __fly-by-night__
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
-__flying colors__  
-__flying colors__  
+__flying colors__ :two::shit:  
 __fob__ :two::shit:  
 __fodder__ :five: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fodder__ _Cannon fodder._  
@@ -2507,8 +2503,7 @@ __hoverboard__
 __hubby__  
 __hubcaps__  
 __hubhub__  
-__hubris__  
-__hubris__ _Intellectual hubris._   
+__hubris__ :two::shit: _Intellectual hubris._   
 __huckster__ :four::shit:  
 __huddle__  
 __huff__  
@@ -2663,8 +2658,7 @@ __jettisoning__
 __jetty__ :two::shit:  
 __jibe__  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
-__jibes__ _His concept of philosophy jibes with American pragmatism._  
-__jibes__ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
+__jibes__ :two::shit: _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::shit: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
 __jilt__ _Jilted at the altar._  
@@ -2948,8 +2942,8 @@ __lump__ _v_
 __lumpy__  
 __luncheon__  
 __lunchpail__  
-__lunge__ :three::shit: _v_  
-__lunge__ _A reckless lunge at Gerrard._  
+__lunge<sup>1</sup>__ _v_ :two::shit:  
+__lunge<sup>2</sup>__ _n_ :two::shit: _A reckless lunge at Gerrard._  
 __lupus__  
 __lurch__ _We lurched around a bend._  
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
@@ -3011,8 +3005,7 @@ __marshmallow__ _n_
 __mart__ A place of trade, eg. an auction room or market.  
 __martyr__  
 __marzipan__  
-__mash__ :two::shit: _Cheddar mash._ _We'll drink some mash and talk some trash._  
-__mash__ _His mash notes._  
+__mash__ :three::shit: _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
 __masonry__ __limestone__  
 __matahara__ Maternity harassment.  
 __matchmaking service__  
@@ -3333,7 +3326,6 @@ __open-wheel__ :three::shit: _Open-wheel cars._
 __oppo__ _Oppo researchers._  
 __orb__ _n_ :two::shit:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
-__ordeal__  
 __ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordnance__ :two::shit:  
 __ore__  
@@ -3438,8 +3430,7 @@ __paring__
 __parishioner__  
 __parlay__  
 __parlayed__  
-__parochial__  
-__parochial__  
+__parochial__ :two::shit:  
 __parsnip__  
 __partake__ (partaking) :two::shit: _v_  
 __parted hair__ _Díaz wore parted hair._  
@@ -3726,9 +3717,7 @@ __protean__ :two::shit:
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __providence__ :three::shit: _It was providence._  
-__provost__  
-__provost__  
-__provost__ _Vice provost for enrollment._  
+__provost__ :three::shit: _Vice provost for enrollment._  
 __prowess__ :three::shit:  
 __prowled__ _v_  
 __prude__ _n_  
@@ -5116,8 +5105,7 @@ __thunderheads__
 __thunk__ _v_ _A thunking sound._  
 __thusly__  
 __thwack__ (thwacks) :two::shit:  
-__thwart__  
-__thwart__ (thwarted) :six: _v_ Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
+__thwart__ _v_ :seven: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __tick prevention__  
 __ticker__  
@@ -5319,8 +5307,7 @@ __unearthed__
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unfathomable__  
 __unfathomable__ :two::shit:  
-__unfazed__  
-__unfazed__ _v_ _They are unfazed by all fof this._  
+__unfazed__ _v_ :two::shit: _They are unfazed by all fof this._  
 __unfettered__ :two::shit: _Esxposed to unfettered political advocacy._  
 __unflappable__ _Unflappable team._  
 __unflinching__  
@@ -5357,8 +5344,7 @@ __upscale__ _Upscale hotel._
 __upshot__ _n_  
 __upshot__ _n_  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
-__upstarts__ _The digital upstarts are shifting focus to television._  
-__upstarts__ _The latest models are from upstarts like Tesla and Coda._  
+__upstarts__ :two::shit: _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__  
 __upswing__ :two::shit:  
