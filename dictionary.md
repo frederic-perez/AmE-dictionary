@@ -4,24 +4,6 @@
 
 
 
-__campground__ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
-__wiggle__ _n_ _A wiggle in Waller Creek._  
-__riparian__ _Riparian woodland._  
-__saplings__ _Twisting saplings._  
-__limestone__ _n_  
-__dean__ _He served as dean._  
-__hail__ _v_ (hailed)  
-__suffragette__  
-__creek__ _An older house on a creek._  
-__acreage__  
-__fabled__  
-__prepping__ _v_  
-
-
-
-
-
-
 
 
 
@@ -222,6 +204,7 @@ __accrue__ _v_ :four: (accrued) To increase in value or amount gradually as time
 __acerbic__  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquitted__  
+__acreage__  
 __acreage__  
 __acrimonious__  
 __acrimony__ :two: _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
@@ -882,6 +865,7 @@ __callous__ :two: _adj_ __1__ Having calluses; toughened: _callous skin on the e
 __camellia__  
 __camo__  
 __camper shell__  
+__campground__ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__    
 __campier__ _campier presentations._  
 __campiness__ _Showbiz campiness._  
@@ -1233,6 +1217,7 @@ __creaky__ _Creaky infrastructure._
 __creases__ _Knife creases._  
 __creasing__  
 __credence__  
+__creek__ _An older house on a creek._  
 __crenelated weir__  
 __creosote__  
 __crepe paper bells__  
@@ -1341,6 +1326,7 @@ __dead bolt__ _n_
 __dead ringer__ An exact duplicate.  
 __deadbeat__ _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
+__dean__ _He served as dean._  
 __dean__ _n_ :two::shit:  
 __deathless__  
 __debasing__ _v_  
@@ -1771,6 +1757,7 @@ __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._
 __eyeball__  
 __eyeshades__  
 __eyewash__ _Cuddyer explained the balance between effort and eyewash._  
+__fabled__  
 __face-lift__  
 __facile__  
 __facsimile__  
@@ -2319,6 +2306,7 @@ __hagiography__
 __hags__ _Screaming histerically like Shakespearean hags._  
 __hail<sup>1</sup>__ _v_ :two::shit: (hailing)  
 __hail<sup>2</sup>__ _n_ :two::shit: _Raindrops that stung like hail._ _A hail of gunfire._  
+__hail__ _v_ (hailed)  
 __hailstones__  
 __haking__  
 __halcyon__ _Halcyon time of romance._  
@@ -2889,6 +2877,7 @@ __lightbulb moment__
 __lilac__  
 __limb__ _Tree limb._  
 __limerics__  
+__limestone__ _n_  
 __linchpin__ _n_ :three::shit:  
 __lining__ _My stomach lining._  
 __links__ :two::shit: _The links course._  
@@ -3682,6 +3671,7 @@ __prep__ _v_ :two::shit:
 __preposterous__  
 __preposterous__ _adj_  
 __preppers__  
+__prepping__ _v_  
 __prerogative__  
 __prescient__  
 __preserve__ _A comedy about gorillas in a preserve._  
@@ -3740,6 +3730,7 @@ __provost__
 __provost__  
 __provost__ _Vice provost for enrollment._  
 __prowess__ :three::shit:  
+__prowled__ _v_  
 __prude__ _n_  
 __prune-o__ :two::shit:  
 __pry__ _v_ :six::shit: _To pry the crack open wider and wider._  
@@ -4025,6 +4016,7 @@ __ringlets__
 __ringmaster__  
 __ringside__  
 __rip your wiring out__  
+__riparian__ _Riparian woodland._  
 __ripe__  
 __ripe__ _A ripe subject.__  
 __ripe__ _Ripe material._  
@@ -4142,6 +4134,7 @@ __sap<sup>1</sup>__ _v_ :five: (sapped, sapping, sappy) Gradually weaken or dest
 __sap<sup>2</sup>__ _n_ :two::shit: _A flat-sided sap stuck out of his back pocket._  
 __sap__ _v_ _Weak demand sapping trade._  
 __saplings__ :two::shit: _Tree saplings._  
+__saplings__ _Twisting saplings._  
 __sarcophagus__  
 __sash__  
 __sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
@@ -4926,6 +4919,7 @@ __such-and-such__
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
 __sucker__ _He is a sucker for anything cute._  
 __sudsy__  
+__suffragette__  
 __suffuse__ _v_ :six::shit: (suffused)  
 __suffuse__ _v_ _It suffuses you with mild pleasure._  
 __suitors__ :two::shit:  
@@ -5454,6 +5448,7 @@ __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel
 __wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
 __waffle__ _v_  
 __waft__ :two::shit: _v_ _Fine powder that wafts up from footsteps like flour._  
+__wafting__ _v_  
 __wage__  
 __waifish__   
 __waive__ _v_ :five::shit; (waived)  
@@ -5584,6 +5579,7 @@ __wield__ (wielding) :four: _v_ Hold and use (a weapon or tool): _a masked raide
 __wielded__  
 __wiener dog__  
 __wiggle__ _The worm that lost its wiggle._  
+__wiggle__ _n_ _A wiggle in Waller Creek._  
 __wigglers__  
 __wildling__ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wilful__  
