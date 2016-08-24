@@ -284,8 +284,7 @@ __anew__ :two::shit:
 __angle iron__  
 __anglers__  
 __angling__  
-__angst__  
-__angst__ :three: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
+__angst__ :four: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::shit:  
 __anguish__ :two::shit:  
 __animosity__  
@@ -492,8 +491,7 @@ __belabor__
 __belaboring__  
 __belate__ _v_  
 __belching__  
-__beleaguered__  
-__beleaguered__ :five: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
+__beleaguered__ :six: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belie__ (belies) :three: _v_ __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
 __belittle__ (belittling) _v_ :four: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bellboy__ _n_  
@@ -1190,8 +1188,7 @@ __cowering__ _v_
 __coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crab lice__ _n_  
 __crack__ _v_ _He cracked 90 mph on the radar gun._  
-__crackdown__ :six::shit: _In 2002, Chávez ordered a crackdown on political opponents._  
-__crackdown__ _Generals continued their crackdowns._  
+__crackdown__ :seven::shit: _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._  
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackle__ _v_ (crackling) :two::shit:  
 __crackpot__ _A reputation as a ridiculous crackpot._  
@@ -1680,14 +1677,9 @@ __ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortabl
 __ensconced__  
 __enshrined__  
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
-__ensue__ _Complications ensue._  
-__ensued__  
-__enthrall__ (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthrall__ _v_  
-__enthralling__  
-__enthuse__  
-__enthused__ (enthusing) :two::shit:  
-__enthused__ _v_ _It has enthused fans._  
+__ensue__ _v_ :two::shit: (ensued) _Complications ensue._  
+__enthrall__ _v_ :three: (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
+__enthuse__ _v_ :four::shit: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __entitlement programs__  
 __entitlement__  
@@ -1704,8 +1696,7 @@ __epicurean__
 __epidemic__ _n_ Notice: _n_!  
 __epithet__  
 __epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
-__epitomize__ _v_  
-__epitomize__ _v_ :six: (epitomized) Be a perfect example of.  
+__epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ (eponymously) :two::shit:  
 __equaled__ _v_  
 __equalizer__  
@@ -1882,8 +1873,8 @@ __flaming hair__
 __flanker__ (soccer position)  
 __flapjack__ _n_  
 __flare-ups__  
-__flare__ _He took an emergency flare from the glove box._  
-__flare__ _v_ _The injury flared._  
+__flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
+__flare<sup>2</sup>__ _v_ _The injury flared._  
 __flash point__  
 __flash__  
 __flat-footed__  
@@ -2553,9 +2544,7 @@ __impairment__
 __impasse__ :three: :open_mouth: Deadlock or stalemate. _At impasse._  
 __impeachment__  
 __impede__ _v_  
-__impending__  
-__impending__ :two::shit:  
-__impending__ _Impending deadline._ _(vs looming deadline)_  
+__impending__ :four::shit: _Impending deadline._ _(vs looming deadline)_  
 __imperil__  
 __impermissible__ :two::shit:  
 __impervious__  
@@ -3352,8 +3341,7 @@ __outrageous__
 __outriggers__  
 __outright__ _adj?_  
 __outré__  
-__outset__  
-__outset__ _n_  
+__outset__ _n_ :two::shit:  
 __outsize__  
 __outsize__ _An outsize risk._  
 __outspoken__ :two::shit: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
@@ -4199,6 +4187,7 @@ __screaming yellow__
 __screech__ _n_ :two::shit:  
 __screeching__ :two::shit:  
 __screwball__ _The screwball buddy comedy._  
+__screws > put the screws on someone__ _informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribes__  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
@@ -4932,8 +4921,7 @@ __swank__
 __swanky__ _Swanky dinner._  
 __swashbuckling__  
 __swatches__  
-__swath__ _n_  
-__swath__ _n_ :six: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swath__ _n_ :seven: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_   
 __swathe<sup>2</sup>__ _v_ :two::shit:  
 __swatted__  
@@ -5660,13 +5648,13 @@ __yield__ _Failing to yield to pedestrians._
 __yin and yang__  
 __yips__  
 __yoke__ _Egg yoke._  
+__yoke__ _Egg yoke._  
 __yokels__  
 __yonder__  
 __yore__ _Days of yore._  
 __yule__  
 __zaniness__  
-__zany__ :three: _adj_ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky  
-__zany__ _A zany zebra._  
+__zany__ :four: _adj_ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
 __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero in__  
 __zero-sum game__  
