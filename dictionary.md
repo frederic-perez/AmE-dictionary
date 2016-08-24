@@ -506,10 +506,8 @@ __bemoan__ _v_ :four::shit: (bemoaned, bemoaning)
 __bemused__  
 __bender__ _His mother was on a bender._  
 __bento__ Boxed meals.  
-__bequeathed__ _v_  
-__bequeathed__ _v_ :two::shit:  
-__bequest__ :two::shit: _A dark bequest of Nazism._  
-__bequest__ _n_  
+__bequeathed__ _v_ :three::shit:  
+__bequest__ _n_ :three::shit: _A dark bequest of Nazism._  
 __berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._  
 __bereavement__ _n_ State of sorrow over the death or departure of a loved one.  
 __bereft__  
@@ -575,8 +573,8 @@ __bleary__ :two::shit:
 __bleated__ _v_ :three::shit: (bleating) _His walkie-talkie bleated._  
 __bleed blue__  
 __blemishes__ _n_ :two::shit:  
-__blight__ (blighted) :two::shit:  
-__blight__ _n_  
+__blight<sup>1</sup>__ _n_ :two::shit:  
+__blight<sup>2</sup>__ _v_ (blighted)  
 __blimp__ :two::shit: _A blimp hangar._  
 __bling__  
 __blithe__ :two::shit:  
@@ -630,8 +628,7 @@ __bolo tie__ _n_
 __bologna__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
-__bombast__  
-__bombast__ :two::shit: _Let's drop the bombast and look at the evidence._  
+__bombast__ :three::shit: _Let's drop the bombast and look at the evidence._  
 __bombastic__  
 __bombsights__  
 __bon ton__  
@@ -720,8 +717,7 @@ __brisk__ _Brisk pace._
 __brisket__ _n_ :two::shit:  
 __bristle__ _v_ :seven: (bristled) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristles__ _n_  
-__britches__ _He got too big for his own britches._  
-__britches__ _pl n_ :two: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._  
+__britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __brittle__ :five::shit: _Clean the peanut brittle out of your mouth._  
 __broached__ _v_  
 __brocade__  
@@ -1072,8 +1068,7 @@ __cold duck__
 __coleslaw__ _n_ :three::shit:  
 __collapsible__ _Collapsible shutters._  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
-__collusion__  
-__collusion__  
+__collusion__ :two::shit:  
 __colossal__  
 __coma__ _Medically induced coma._  
 __coma__ _Schumacher out of coma._  
@@ -1480,8 +1475,7 @@ __doilies__
 __doldrums__  
 __dole out__ _v_ :seven: To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dolirometer__  
-__dollop__ :two::shit:  
-__dollop__ _An extra dollop of drama._  
+__dollop__ :three::shit: _An extra dollop of drama._  
 __domicile__  
 __don't count your chickens before they're hatched__ Don't make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
@@ -1616,8 +1610,7 @@ __effigies__
 __effigy__  
 __eggnog__ _n_ :two::shit: _A big eggnog party._  
 __egotists__  
-__egregious__  
-__egregious__ :three::shit: _Egregious threats._  
+__egregious__ :four::shit: _Egregious threats._  
 __egrets__ :five::shit: _Snow egrets._  
 __eh?__ _Impressive, eh?_  
 __eighty-six__ _v_ :two::shit: _I get eighty-sixed out on the street._  
@@ -1811,8 +1804,7 @@ __fern__
 __ferret out__ _v_  
 __ferret__ :two::shit: _n_  
 __fester__  
-__festooned__  
-__festooned__ _v_ :six::shit: _His podium was festooned with a sign._  
+__festooned__ _v_ :seven::shit: _His podium was festooned with a sign._  
 __feted__  
 __fettered__ _v_  
 __feud__  
@@ -2141,8 +2133,7 @@ __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._
 __glowering__  
 __glue > a glue-type player__  
 __glum__ :two::shit: _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
-__glut__ :three::shit:  
-__glut__ _A global glut of cotton._  
+__glut__ :four::shit: _A global glut of cotton._  
 __gnarled__ _v_  
 __gnat__  
 __gnaw__ (gnawed, gnaw out) :three: /nɔː/ _v_ To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._  
@@ -2484,8 +2475,7 @@ __hoss__
 __hot-button__  
 __hot-rodder__  
 __hot-wired__  
-__hotbed__ _A hotbed of high technology._  
-__hotbed__ _n_ :two::shit:  
+__hotbed__ _n_ :three: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __house > take it to the house__  
 __housing__  
 __hoverboard__  
@@ -2782,8 +2772,7 @@ __largely__
 __larger than life__  
 __larger-than-life__ :three: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __laser wall__  
-__lash out__  
-__lash out__  
+__lash out__ :two::shit:  
 __last > next to last__  
 __latch__ _n_  
 __latchkey__  
@@ -2899,8 +2888,7 @@ __lookout__ _Be on the lookout._
 __loophole__ _:es: escapatoria_  
 __loopy__ :two::shit: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
 __loot__ _v_  
-__lopsided__  
-__lopsided__  
+__lopsided__ :two::shit:  
 __lore__ _n_ :three: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __louse__ _n_  
@@ -2913,8 +2901,7 @@ __lowbrow__
 __lowlights__  
 __lowly__  
 __lucifer match__  
-__ludicrous__  
-__ludicrous__  
+__ludicrous__ :two:: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::shit:  
 __lug__ :two::shit: _v_  
@@ -3048,9 +3035,8 @@ __midwife__ :open_mouth: Nurse trained to assist women in childbirth.
 __miffed__ _Complaints from miffed neighbors._  
 __miffed__ _v_ _The bond purchases miffed some officials._  
 __migrants__  
-__mildew__ _v_  
-__mildewed__  
-__mildewed__ _v_  
+__mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter. :moho:  
+__mildew<sup>2</sup>__ _v_ :three::shit: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
 __militias__ :two::shit:  
@@ -3342,8 +3328,7 @@ __outriggers__
 __outright__ _adj?_  
 __outré__  
 __outset__ _n_ :two::shit:  
-__outsize__  
-__outsize__ _An outsize risk._  
+__outsize__ :two::shit: _An outsize risk._  
 __outspoken__ :two::shit: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
@@ -3538,8 +3523,7 @@ __pitch<sup>2</sup>__ _v_ _To pitch a tent._
 __pitch__ _v_ :camera::shit: _Pitching bowling balls._  
 __pith helmet__ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
-__pithy__  
-__pithy__ _v_  
+__pithy__ _adj_ :two: A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
 __pittance__  
 __pitted__ _v_ _Pitted cherries._  
 __pizazz__ :two: An attractive combination of vitality and glamour. :es: dinamismo  
@@ -4627,8 +4611,7 @@ __speargun__
 __spearhead__ (spearheaded, spearheading) :four: _v_ Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specious__ _Specious argument._  
-__speck__  
-__speck__ _A speck of blood._  
+__speck__ :two::shit: _A speck of blood._  
 __specs__ :two: Spectacles, glasses.  
 __speed demon__  
 __spendolie__  
@@ -5248,8 +5231,7 @@ __twang<sup>2</sup>__ _v_
 __twanger__ _n_  
 __twat__  
 __tweaks__ _n_  
-__twine__  
-__twine__ _n_ _Tie the legs of the turkey together with twine._  
+__twine__ _n_ :two::shit: _Tie the legs of the turkey together with twine._  
 __twinge__  
 __twinkle__  
 __twinned towns__  
@@ -5647,7 +5629,6 @@ __yelps__ _Puppy yelps._
 __yield__ _Failing to yield to pedestrians._  
 __yin and yang__  
 __yips__  
-__yoke__ _Egg yoke._  
 __yoke__ _Egg yoke._  
 __yokels__  
 __yonder__  
