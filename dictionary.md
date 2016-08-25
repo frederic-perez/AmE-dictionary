@@ -523,8 +523,7 @@ __bespoke__
 __bested__ _v_  
 __bestow__ _v_ :nine: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bettors__  
-__bevy__ :four: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
-__bevy__ _A bevy of admirers._  
+__bevy__ :five: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :three::shit: _Midcalf silk dresses came with ruffled bibs and hems._  
@@ -839,8 +838,7 @@ __caboose__ _n_
 __cackling__ _v_  
 __cacophony__ :two::shit:  
 __caddish__  
-__cadged__ _v_ _Cadged drinks._  
-__cadged__ _v_ _He cadged money and bribed guards._  
+__cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_  
 __cadres__ _Party cadres._  
 __cajole__ (cajoling) :two::shit: _v_  
@@ -1647,8 +1645,7 @@ __enamel__
 __encampment__  
 __encore__ :two::shit:  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroaching__ :two::shit:  
-__encroaching__ _v_ _To protect natural land from encroaching development._  
+__encroaching__ _v_ :three::shit: _To protect natural land from encroaching development._  
 __encroachment__ :two::shit:  
 __end over end__ _He tossed the cigarette end over end  into the wastebasket._  
 __end run__ :two::shit:  
@@ -1957,9 +1954,7 @@ __forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived o
 __forfeit<sup>2</sup>__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
-__forgo__ _To forgo his salary._  
-__forgo__ _v_  
-__forgo__ _v_ :four: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
+__forgo__ _v_ :six: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __fork__ _Gordon at fork in the road._  
 __forlon__  
 __forlorn__ :four: _adj_ __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
@@ -3004,8 +2999,7 @@ __mendacity__
 __merc__  
 __merch__ Merchandaising?  
 __merchant__  
-__mercurial__  
-__mercurial__  
+__mercurial__ :two: Liable to sudden unpredictable change.  
 __meretricious__ :two::shit:  
 __meringue__ :five::shit: _Meringue pie._  
 __merriment__ :two:  
@@ -3611,8 +3605,7 @@ __preened__
 __prenup__  
 __prep schools__  
 __prep__ _v_ :two::shit:  
-__preposterous__  
-__preposterous__ _adj_  
+__preposterous__ _adj_ :two::shit:  
 __preppers__  
 __prepping__ _v_  
 __prerogative__  
@@ -4727,8 +4720,7 @@ __steep__ :two::shit: _He faces a steep learning curve._
 __steeple__ :two::shit: _n_  
 __steeply__ :two::shit:  
 __stemmed__  
-__stentorian__  
-__stentorian__ _Stentorian tones of serious news._  
+__stentorian__ _adj__ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
 __sterling__ _A sterling example._  
 __stern__ _n_  
@@ -4856,8 +4848,7 @@ __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head agai
 __sucker__ _He is a sucker for anything cute._  
 __sudsy__  
 __suffragette__  
-__suffuse__ _v_ :six::shit: (suffused)  
-__suffuse__ _v_ _It suffuses you with mild pleasure._  
+__suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __suitors__ :two::shit:  
 __sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_  
@@ -5249,8 +5240,7 @@ __undue__
 __unduly__  
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
-__unfathomable__  
-__unfathomable__ :two::shit:  
+__unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :two::shit: _They are unfazed by all fof this._  
 __unfettered__ :two::shit: _Esxposed to unfettered political advocacy._  
 __unflappable__ _Unflappable team._  
@@ -5523,8 +5513,7 @@ __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._
 __winch<sup>2</sup>__ _n_ :three::shit:  
 __wind-up__ _n_  
 __winded__    
-__windfall__ :four::shit: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
-__windfall__ _The new windfall threatened to upset the sectional balance._  
+__windfall__ :six: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
 __windlass__  
 __window sash__ _n_  
 __windshield wipers__  
