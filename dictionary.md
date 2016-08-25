@@ -837,8 +837,7 @@ __c/o__
 __cabin__ _Uncle-s Tom Cabin._  
 __caboose__ _n_  
 __cackling__ _v_  
-__cacophony__  
-__cacophony__  
+__cacophony__ :two::shit:  
 __caddish__  
 __cadged__ _v_ _Cadged drinks._  
 __cadged__ _v_ _He cadged money and bribed guards._  
@@ -1128,8 +1127,7 @@ __constituent__
 __construe__ _v_  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __content__  
-__contention__ :seven: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda  
-__contention__ _A contention disputed by independent experts._  
+__contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__ :three::shit:  
 __contiguous > the contiguous U.S.__  
 __contingency plan__  
@@ -1138,8 +1136,7 @@ __contretemps__
 __contrite__  
 __contrition__ :three::shit:  
 __contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
-__convene__ (convenes) :three: _v_ Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse  
-__convene__ _v_ _People convened in the lobby._  
+__convene__ _v_ :four: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convivial__ :two::shit:  
 __conwise__  
@@ -1420,8 +1417,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dis__ _n_ :two::shit:  
 __disarray__ :three: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disbar__ _Disbar attorney._  
-__discharge__ :two::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._  
-__discharge__ _His honorable discharge in 1974._  
+__discharge__ :three::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._  
 __discounter__ _n_  
 __discourse__  
 __disgorgement__  
@@ -1575,8 +1571,7 @@ __dun__ _Dun-colored hair._
 __dung fork__ _n_  
 __dungarees__ _n_ :five::shit: _The men in black dungarees stood motionless._  
 __dupe__ _A dupe of a president._  
-__duped__ _Settlers duped, children abandoned, Indians deported._  
-__duped__ _v_ :two::shit: _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._  
+__duped__ _v_ :three::shit: _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplicitious__ _A duplicitious cigarette industry._  
 __duplicitous__  
 __durable__ :two::shit: _The end of durable Red John story line is a new beginning._  
@@ -1600,8 +1595,7 @@ __ebb and floor__
 __ebb and flow__ :three::shit: (ebbed and flowed)  
 __ebbs and flows__ _The ebbs and flows of life._  
 __ebullient__ :two::shit:  
-__edgy__  
-__edgy__ _adj_ _Aaron has got a style that's humble but edgy._  
+__edgy__ _adj_ :two::shit: _Aaron has got a style that's humble but edgy._  
 __eel__  
 __eerie__  
 __eerily__  
@@ -2044,8 +2038,7 @@ __gadfly__
 __gaff__ _n_  
 __gaffer__ _n_  
 __gag__ _The cases's gag order._  
-__gaggle__ :two: _n informal_ A disorderly group of people.  _A gaggle of Phillies fans taunted him._  
-__gaggle__ _The media gaggle._  
+__gaggle__ :three: _n informal_ A disorderly group of people.  _A gaggle of Phillies fans taunted him._ _The media gaggle._  
 __gait__ _A pretty boy with a swing in his gait._  
 __gait__ _n_  
 __gal__  
@@ -2184,8 +2177,8 @@ __gravely__
 __gravesite__  
 __gravitate__ _He gravitated toward politics._  
 __graybeards__ _Senate graybeards._  
-__grazing__ _Grazing lands._  
 __grazing__ _v_ :two::shit:  
+__grazing land__ :shit::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __greaseballs__ :two::shit:  
 __green thumb__ _Not everyone has a green thumb._  
 __green-behimd-the-ears__  
@@ -2223,15 +2216,13 @@ __ground chuck steak__
 __ground zero__  
 __groundbreaker__  
 __groundswell__ :three::shit:  
-__grouse__ _v_ :two::shit:  
-__grouse__ _v_ _We groused about the uncomfortable seating._  
+__grouse__ _v_ :three::shit: _We groused about the uncomfortable seating._  
 __grout__ _We clean tile and grout!._  
 __grove__ _n_ :two::shit:  
 __groveling__ _v_  
 __growing pains__ :four: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise.  
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
-__grudge__  
-__grudge__ _n_ :four::shit: _I don't hold any grudges._ _Holding a grudge._ :es: rencor   
+__grudge__ _n_ :five::shit: _I don't hold any grudges._ _Holding a grudge._ :es: rencor   
 __grudging__ (grudgingly) :two::shit:  
 __grueling__  
 __gruff__ :three::shit:  
@@ -2416,8 +2407,7 @@ __hike<sup>2</sup>__ _v_ _Hiked prices._
 __hillbilly__ :two::shit:  
 __hillocks__  
 __hinky__  
-__hinterland__  
-__hinterland__ /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
+__hinterland__ /ˈhɪntəland/ :two: (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hipper__ _adj_ _Hipper Nancy Drew._  
 __hirsutism__  
 __hissy__ _Hissy fit._  
@@ -2488,8 +2478,7 @@ __huddle__
 __huff__  
 __huffed__ _v_ :four::shit: (huffing)  
 __huh__  
-__humdrum__  
-__humdrum__ _A humdrum office building._  
+__humdrum__ :two::shit: _A humdrum office building._  
 __humidor__ _n_  
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
@@ -2805,8 +2794,7 @@ __leer up__
 __leer__ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer__ _n_  
 __leery__ :four: _adj_ _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._  
-__leeway__  
-__leeway__ :two::shit: _Allowing leeway for students who have low scores._  
+__leeway__ :three::shit: _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __legal tack__  
 __legerdemain__  
@@ -3407,16 +3395,14 @@ __particle board__
 __party poppers__  
 __pass policy__  
 __pastiche__  
-__pat__ :two::shit: _The too search engines haven't been standing pat._   
-__pat__ _There are more pat solutions._  
+__pat__ :three::shit: _The too search engines haven't been standing pat._ _There are more pat solutions._  
 __pate__ _n_ :two::shit: _His grizzled pate shone like tan wax._  
 __patently__ _Patently absurd._  
 __patois__  
 __patron__ _n_  
 __patronage__  
 __patsy__ _adj_  
-__paucity__  
-__paucity__ :three::shit: _She was made late by broken trains in Brooklyn and a paucity of taxis._  
+__paucity__ :four::shit: _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __paunch__ _n_  
 __pavilions__  
 __paw__ _v_ _A drunken master paws her._  
@@ -3768,8 +3754,7 @@ __raccoons__
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
 __rack up__ _v_ :two::shit:  
-__racked__  
-__racked__ _v_  
+__racked__ _v_ :two::shit:  
 __racket<sup>1</sup>__ :three::shit: _n_ _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
 __racketeer__ :two: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
@@ -3814,8 +3799,7 @@ __rare news conference__
 __rarefied__    
 __raring__  
 __rascal__  
-__rash__ _A rash of oil problems._  
-__rash__ _A rash of promotions._  
+__rash__ :two::shit: _A rash of oil problems._ _A rash of promotions._  
 __rashes__ _Skin rashes._  
 __rasp__ _v_  
 __rat-fuck__ _v_  
@@ -4068,8 +4052,7 @@ __sagging__ _The sagging hopes of miners._
 __sagging__ _v_ :three::shit: _Sagging gallery._  
 __saggy__  
 __sakura__  
-__salacious__  
-__salacious__ _Salacious music._  
+__salacious__ :two::shit: _Salacious music._  
 __salt away__  
 __salt the shaft__ :two::shit: _Salt the shaft if you have to._  
 __salvage__ _adj_  
@@ -4908,8 +4891,7 @@ __swath__ _n_ :seven: __1__ A row or line of grass, corn, or other crop as it fa
 __swathe<sup>1</sup>__ _n_   
 __swathe<sup>2</sup>__ _v_ :two::shit:  
 __swatted__  
-__sway__ _Civilian held sway in Siria._  
-__sway__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._  
+__sway__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__  Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
 __sweat bullets__ _I'll be sweating bullets._  
 __sweat it__ _Don't sweat it._  
 __sweatpants__  
@@ -5351,8 +5333,7 @@ __verdict__ _n_
 __vermicelli__  
 __vermin__  
 __vernacular__  
-__verve__  
-__verve__ :three: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__ :four: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vesting__ _The vesting date._  
 __vetting__  
