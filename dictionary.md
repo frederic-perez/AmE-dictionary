@@ -311,8 +311,7 @@ __appeal__ _:two::shit: His case is unresolved on appeal._ _Vilma is appealing h
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appetizer__ :open_mouth: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
-__appraisal__  
-__appraisal__ _n_ :two::shit:  
+__appraisal__ _n_ :three::shit:  
 __appraised__ _The home was appraised in 2007._  
 __apprehend__ _v_  
 __aquaponic__  
@@ -364,9 +363,7 @@ __avocation__ _Her detective avocation._
 __avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
 __avuncular__ :three::shit:  
-__awash__ :three: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
-__awash__ _Market awash with coal._  
-__awash__ _Washington is awash with muscleflexors._  
+__awash__ :five: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__  
 __axle__ _n_  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
@@ -579,8 +576,7 @@ __bling__
 __blithe__ :two::shit:  
 __blitheness__  
 __blitz__ :three: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
-__bloc__ _The troubled currency bloc._  
-__bloc__ _n_ :two::shit:  
+__bloc__ _n_ :three::shit: _The troubled currency bloc._  
 __blood-expander__  
 __blooker__ :two::shit:  
 __bloop__  
@@ -1273,8 +1269,7 @@ __cut me a little slack__
 __cut-and-dry task__  
 __cutline__ _n_  
 __cutter__ _A Coast Guard cutter._  
-__cutthroat__ :open_mouth: _Cutthroat competition._  
-__cutthroat__ _Cutthroat tactics._  
+__cutthroat__ _adj_ :open_mouth: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin' a rug__  
 __dabbing__ _v_  
 __dabblers__ _He saw the donors as superrich dabblers._  
@@ -1378,8 +1373,7 @@ __deterrent__ :three::shit:
 __devil-may-care style__  
 __deviled eggs__ :two::shit:  
 __devolve__ _v_ _The party must devolve power._  
-__dicey__  
-__dicey__ _That's dicey._  
+__dicey__ :two::shit: _That's dicey._  
 __dichotomy__  
 __diction__ _The priest diction._  
 __diddle-shit__  
@@ -1693,8 +1687,7 @@ __escrow__ :three: __1__ A deposit or fund held in trust or as a security. _An e
 __estrange__ _v_ __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __etched__ _v_  
 __etchings__  
-__ethos__ :three::shit:  
-__ethos__ _The D.I.Y. ethos._  
+__ethos__ :four::shit: _The D.I.Y. ethos._  
 __evening star__ _The evening star was out and the moon rising._  
 __every so often__  
 __evicted__ _v_ :three::shit:  
@@ -2034,8 +2027,7 @@ __gaff__ _n_
 __gaffer__ _n_  
 __gag__ _The cases's gag order._  
 __gaggle__ :three: _n informal_ A disorderly group of people.  _A gaggle of Phillies fans taunted him._ _The media gaggle._  
-__gait__ _A pretty boy with a swing in his gait._  
-__gait__ _n_  
+__gait__ _n_ :two::shit: _A pretty boy with a swing in his gait._  
 __gal__  
 __galboy__ _n_  
 __gale__ _n_ :two: An extremely strong wind: _the gale blew down hundreds of trees._  
@@ -2347,8 +2339,7 @@ __headwind__ (headwinds) :four: A wind blowing from directly in front, opposing 
 __heady__  
 __hearing__ _law_  
 __hearkened__  
-__hearsay__  
-__hearsay__  
+__hearsay__ :two::shit:  
 __hearse__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __hearth__ _n_  
@@ -3014,8 +3005,7 @@ __midday__ :open_mouth:
 __midriff__ :two::shit:  
 __midsize__  
 __midwife__ :open_mouth: Nurse trained to assist women in childbirth.  
-__miffed__ _Complaints from miffed neighbors._  
-__miffed__ _v_ _The bond purchases miffed some officials._  
+__miffed__ _adj_ When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __migrants__  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter. :moho:  
 __mildew<sup>2</sup>__ _v_ :three::shit: (mildewed) Affect or be affected with mildew. :es: mohoso  
@@ -3156,8 +3146,8 @@ __nary__ _Nary a chance of rain throughout the tournament._
 __nasal passages__  
 __nascent__  
 __nascent__ _The nascent market._  
-__nattily__  
-__nattily__ _Actor nattily dressed._  
+__nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
+__natty__ _adj_ Neat, trim, and smart; dapper.  
 __navel__ :two::shit:  
 __neat__ _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._  
 __necromancer__  
@@ -3269,10 +3259,7 @@ __onslaught__
 __onus__  
 __oompah__ _The house oompah band._  
 __oomph__  
-__ooze__ (oozed, oozing) :four: _v_ __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
-__ooze__ _v_ _You will see the sauce ooze out a bit._  
-__oozed__ _v_  
-__oozing__ _v_  
+__ooze__ _v_ :seven: (oozed, oozing) __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ :five: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open-wheel__ :three::shit: _Open-wheel cars._  
 __oppo__ _Oppo researchers._  
@@ -3780,8 +3767,7 @@ __ramparts__ :two::shit:
 __ramshackle__ :two::shit:  
 __range__ _Range war._  
 __rank and file__  
-__rank-and-file__ :three::shit: _Rank-and-file officers._ _Rank-and-file employees._  
-__rank-and-file__ _Rank-and-file protesters._  
+__rank-and-file__ :four: _n_ (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank__ _v_  
 __rankled__ _v_  
 __rapidly__  
@@ -4064,14 +4050,11 @@ __sanitize__ _v_
 __sap<sup>1</sup>__ _v_ :five: (sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power).  
 __sap<sup>2</sup>__ _n_ :two::shit: _A flat-sided sap stuck out of his back pocket._  
 __sap__ _v_ _Weak demand sapping trade._  
-__saplings__ :two::shit: _Tree saplings._  
-__saplings__ _Twisting saplings._  
+__saplings__ :three::shit: _Tree saplings._ _Twisting saplings._  
 __sarcophagus__  
 __sash__  
 __sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
-__sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
-__sass__
-__sassed__ _v_  
+__sass__ _v_ (sassed)  
 __sassy__  
 __sated__ _v_  
 __satyr__  
@@ -4449,11 +4432,8 @@ __slit > hi-slit dress__
 __slit<sup>1</sup>__ _n_  
 __slit<sup>2</sup>__ _v_ :two::shit: _Slitted door._ _The screen was slit on the back porch door._  
 __slithering__  
-__sliver<sup>1</sup>__ _n_ :two::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._  
+__sliver<sup>1</sup>__ _n_ :five::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._  
 __sliver<sup>2</sup>__ _v_ :three::shit:  
-__sliver__ _A sliver of our time._  
-__sliver__ _n_  
-__slivers__ _Slivers of ice on the quirt._  
 __slob__  
 __slobber__ _v_ :two::shit: (slobbered)  
 __slobs__ _n_  
@@ -4636,8 +4616,7 @@ __spurt__ (spurts) :four: _n_ A sudden gushing stream. _Stanford owned a two-poi
 __spurt__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __spurts__ _It has been raining in spurts._  
 __sputs__  
-__sputter__ (sputtered, sputtering) :sever: _v_ Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
-__sputter__ _v_  
+__sputter__ _v_ :eight: (sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__  
 __sputters__  
 __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
@@ -4821,8 +4800,7 @@ __stuck a chord__
 __stud__ _v_ :three::shit: (studded)  
 __studs__  
 __stuffy__   
-__stump__ :seven::shit: _Stump speech._ _Stump fire._  
-__stump__ _Stump style._  
+__stump__  _v_ :eight: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet.  
 __stunned__ :two::shit:  
 __stunner__  
 __stunt__ _v_ _Movement stunted during the dictatorship._  
@@ -5273,10 +5251,8 @@ __uppercut__
 __uppermost__  
 __uppers__  
 __upping__  
-__upscale__ _In an upscale area._  
-__upscale__ _Upscale hotel._  
-__upshot__ _n_  
-__upshot__ _n_  
+__upscale__ :two: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._  
+__upshot__ _n_ :two::shit:  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstarts__ :two::shit: _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
@@ -5469,9 +5445,7 @@ __whippersnapper__
 __whir__ _n_  
 __whirring__ _v_  
 __whisk broom__  
-__whisk__  
-__whisk__ _v_ _To whisk it away._  
-__whisked__ :two::shit: _v_ _He whisked his wife and 6-year-old daughter back to Afganistan._  
+__whisk__ _v_ :four::shit: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __whiskers__  
 __whistle-blower__  
 __white-knuckle ride__  
