@@ -8,6 +8,26 @@
 
 
 
+
+__rant__ _v_  
+__smootch__  
+__ratched__  
+__blunt__  
+__disparaging__  
+__checker__ _v_ _Checkered history._  
+__burkini__  
+__humble__ _v_  
+__underwriter__  
+__staple__ _n_  
+
+
+
+
+
+
+
+
+
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
