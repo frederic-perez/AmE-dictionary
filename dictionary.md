@@ -6,6 +6,17 @@
 
 
 
+__proceeds__ _Operating funds come from rodeo proceeds._  
+__jambalaya__ _n_  
+__cracklings__ _n_  
+__wares__ _n_ _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
+__ranch hand__ _He works as a ranch at the prison._  
+
+
+
+
+
+
 
 
 
