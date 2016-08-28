@@ -1,6 +1,17 @@
 
 
 
+__lunge__ _v_ _A bull lunges into the pen._  
+__drawl__ _n_ _A Southern drawl._  
+__quaint__ _Quaint town._  
+__belie__ _v_  
+__gouged__ _v_ _Gouged limbs._  
+__buck__ _v_ _Most of the men have never ridden a bucking animal._  
+
+
+
+
+
 
 
 
