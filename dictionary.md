@@ -1,4 +1,25 @@
 
+__humble__ _v_ _Another setbackhumbles NFL's most prolific passer._  
+__hysteric__  
+__stagger__ _v_  
+__scholar__ _Legal scholar._  
+__stand tall__  
+__kosher__ _A kosher supermarket._  
+__roam__ _v_  
+__flinching__  
+__yield__  
+__crusader__  
+__foiled__ _v_  
+__clams__ _Most smartwatches run around 300 clams._  
+__downright__ :dart: _Not to mention, just downright good looking._  
+
+
+
+
+
+
+
+
 
 
 __lunge__ _v_ _A bull lunges into the pen._  
