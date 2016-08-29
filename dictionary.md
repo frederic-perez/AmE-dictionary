@@ -186,8 +186,7 @@ __abide__ _v_ :four::shit: (abiding) _Abiding trepidation._
 __abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
 __abounds__  
 __aboveboard__  
-__abreast__  
-__abreast__ :two: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
+__abreast__ :three: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abs__ _Six-pack abs._  
 __abutted__  
 __abutting__ _Bungalows abutting._  
@@ -702,9 +701,7 @@ __bridesmaid__
 __briers__  
 __brig__  
 __bright-orange__ _A bright-orange construction jumpsuit._  
-__brim__ _v_ _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._  
-__brimming__  
-__brimming__ _v_ _He is brimming with confidence._  
+__brim__ _v_ :three::shit: (brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __briny__ _adj_  
 __brisk__  
@@ -1045,8 +1042,7 @@ __clutches__ _Clutches for iPhone._
 __co-op__  
 __co-op__ :two::shit:  
 __coaster brakes__  
-__coat of arms__  
-__coat of arms__  
+__coat of arms__ :two::shit:  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coattails__  
 __cobweb__ :two::shit:  
@@ -1328,9 +1324,7 @@ __deedee__ _v_
 __deep freezers__  
 __deep-six__ _v_ :two: _informal_ Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deface__ _v_ _Defacing two murals._  
-__default__ _v_  
-__default__ _v_  
-__default__ _v_ _The Solar Energy company defaulted._  
+__default__ _v_ :three::shit: _The Solar Energy company defaulted._  
 __defect__ (defected) :two: _v_ Abandon one's country or cause in favour of an opposing one. _He defected to the Soviet Union after the war._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defected__  
 __defection__ _n: :three::shit: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
@@ -1400,8 +1394,7 @@ __dimply__
 __dimwits__ _n_ :two::shit:  
 __din__ _n_ :nine::arrow_up_small::o2: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_  
-__dinged__  
-__dinged__ _v_ _I am also getting tired of my property taxes being dinged._  
+__dinged__ _v_ :two::shit: _I am also getting tired of my property taxes being dinged._  
 __dinghy__  
 __dinky__ _A dinky little community._  
 __dips__ _n_  
@@ -1630,13 +1623,11 @@ __emancipation__
 __embark__ _They embark on a motorcade._  
 __embattle__ (embattled) _v_ :todo::shit:  
 __ember__ _n_ :two: A small piece of burning or glowing coal or wood in a dying fire.  
-__embezzle__ (embezzling, embezzlement) :eight: /ɪmˈbɛz(ə)l,ɛm-/ _v_ Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ :es: malversación  
-__embezzle__ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._  
+__embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._  _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embroidered__  
 __embroil__ (embroiled)  
-__emcee__ :two::shit:  
-__emcee__ _An emcee leads them._  
+__emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__  
 __emery paper__  
@@ -1780,8 +1771,7 @@ __feast__
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __featuring__  
-__feckless__  
-__feckless__  
+__feckless__ _adj_ :two::shit:  
 __fecklessness__  
 __feint__  
 __feisty__ :two::shit:  
@@ -2291,8 +2281,7 @@ __hangout__ :two::shit:
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ Craving.  
 __hanks__ :open_mouth: _Stringy hanks of blond hair._  
-__hapless__  
-__hapless__ :four::shit:  
+__hapless__ :five::shit:  
 __haplessness__  
 __happy about it__ _I'm not entirely happpy about it._  
 __haps__ _n_ :two::shit: _What's the haps?_  
@@ -2730,8 +2719,7 @@ __labrotories__ ?
 __labrum__  
 __lace__ _n_  
 __lackey__ _A political lackey._  
-__lackluster__ _A lackluster 1-0 victory at Malaga._  
-__lackluster__ _adj_ :eight: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._  
+__lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __lacquered__ _v_  
 __lacrosse games__  
 __lacy__ _Cypress trees that were lacy with new leaf._  
@@ -2803,8 +2791,7 @@ __lemongrass__
 __lemons > dance of the lemons__  
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
 __leniency__  
-__lenient__ (leniently) :two::shit:  
-__lenient__ _Olympic officials will be lenient._  
+__lenient__ :three::shit: (leniently) _Olympic officials will be lenient._  
 __leper__  
 __lepers__  
 __lessen__ _v_  
@@ -3194,7 +3181,6 @@ __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of ho
 __no jive__  
 __noddies__ _n_  
 __noir__ _A noir novel._  
-__noir__ _A noir novel._  
 __non sequiturs__  
 __nonce__  
 __nonchalant__ :two::shit:  
@@ -3344,8 +3330,7 @@ __pail__ _n_ :two::shit: _A lunch pail._
 __painter__  
 __palatable__  
 __pale__ :two: _adj_ Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._  
-__pall__  
-__pall__ _The tragedy casts a pall over Austin._  
+__pall__ :two::shit: _The tragedy casts a pall over Austin._  
 __pallbearer__  
 __pallet__ _n_ :four::shit:  
 __palmettos__ :two::shit:  
@@ -3359,8 +3344,7 @@ __pan__ _v_ _Obama pans republicans._
 __panache__ :two::shit:  
 __pander__ (panders, pandering)  
 __panderer__  
-__pangs__  
-__pangs__  
+__pangs__ :two::shit:  
 __panhandling__  
 __panned out__  
 __panoply__  
@@ -3650,8 +3634,7 @@ __profiteering__
 __profligate__  
 __profligate__  
 __prominence__  
-__prominent__  
-__prominent__ _Package carrying a prominent warning._  
+__prominent__ :two::shit: _Package carrying a prominent warning._  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prongs__ _n_ :two::shit:  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
@@ -3697,9 +3680,7 @@ __puny__ _A puny garden snail._
 __purloin__ _v_ :two::shit: (purloined)  
 __purloined__  
 __purse__ _v_ _His lips pursed._  
-__purveyor__  
-__purveyor__  
-__purveyor__ _Purveyors of unhelpfully vapid self help._  
+__purveyor__ _n_ :three::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ _Pus bags_  
 __pushover__ :two::shit:  
 __pushpins__  
@@ -4460,8 +4441,7 @@ __slops__ _He makes six bucks an hur and tips cleaning slops._
 __slosh__ (sloshing) :four: _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloshing__  
 __sloth__ :two::shit: _The winter sloth._  
-__slouch__ _De Coubertin was no slouch._  
-__slouch__ _Slouch hat._  
+__slouch__ :two::shit: _De Coubertin was no slouch._ _Slouch hat._  
 __slouching__ _v_  
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :three::shit:  
@@ -4674,8 +4654,7 @@ __stand tall__
 __standings__ :two: _Pac-12 Standings_ _:es: clasificación_  
 __standout__ :five: _Informal_ _adj_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout__ :two::shit: _PGA tour standout._ _A welterweight standout._  
-__standstill__ _The car will jump from standstill to 60 mph in 4.4 seconds._  
-__standstill__ _n_  
+__standstill__ _n_ :two::shit: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __staph__ _Staph infections._  
 __staple__ _n_  
 __staples__ _There are staples we've come to expect in the American frontier novel._  
@@ -4992,9 +4971,9 @@ __tester bed__ :two::shit:
 __thankless__ Ungrateful  
 __thashing__  
 __that's the breaks__  
-__thaw__ _n_ :three::shit: _It kept the door open for a possible thaw in relations between the Koreas._  
-__thawed__  
-__thawed__ _v_ _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
+__thaw<sup>1</sup>__ _v_ :three: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
+__thaw<sup>2</sup>__ _n_ __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
+__thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the "m" word__  
 __the 105's__  
 __the 11th hour__  
@@ -5404,8 +5383,7 @@ __waterway__
 __wavering__ _A wavering statement._  
 __wayposts__  
 __wayside__  
-__wayward__ :three::shit: :es: díscolo  
-__wayward__ _A wayward boy._  
+__wayward__ :four::shit: _A wayward boy._ :es: díscolo  
 __wean__ _v_ :four::shit: (weaned)  
 __weather vane__  
 __weather__ (weathering) _v_  
