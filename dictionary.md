@@ -2,6 +2,44 @@
 
 
 
+__pluck__ _v_ _President Obama plucked former Procter & Gamble CEO Bob McDonald to take over.  
+__doled out__ _v_  
+__convene__ _v_  
+__headway > make headway__ :shit::two: _Secetary Kerry has made headway against the odds._   
+__Hail Mary__  
+__codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
+__Humpty Dumpty__  
+__unhinged__ _v_  
+__all-out__ _All-out military battle._  
+__tirade__ _n_  
+__discharge__ _v_ _An officer discharged his weapon._ *Why not 'fired'?  
+__backdrop__  
+__Pacific Rim__  
+__pivot__ _n_  
+__Filipino__  
+__enduring__ _v_  
+__ravaged__ _v_  
+__normalcy__ (Does 'normality' exist?)  
+__trill__ _n_  
+__quash__ _v_  
+__ordeal__  
+__rampage__  
+__aground__  
+__tater tots__ _The refrigerated warehouse holds millions of pounds of tater tots._  
+__jammies__ _n_  
+__exert__ _v_  
+__leverage__ _To exert leverage._  
+__showdown__  
+__raged__ _v_  
+__nihilistic__  
+__rolling back__ _v_  
+__bemoaned__ _v  
+__disenfranchise__  
+__boggles__ _v_  
+
+
+
+
 
 
 
