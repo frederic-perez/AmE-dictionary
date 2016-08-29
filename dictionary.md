@@ -489,8 +489,7 @@ __belaboring__
 __belate__ _v_  
 __belching__  
 __beleaguered__ :six: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
-__belie__ (belies) :three: _v_ __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
-__belie__ _v_  
+__belie__ _v_ :four: (belies) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
 __belittle__ (belittling) _v_ :four: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bellboy__ _n_  
 __bells and whistlers__  
@@ -598,8 +597,7 @@ __blue-collar men__
 __bluegill__  
 __bluff__  
 __blunder__ _I've made a lot of computer blunders over de years._  
-__blunt__  
-__blunt__ _adj_  
+__blunt__ _adj_ :two::shit:  
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ (blurting) :two: /bləːt/ _v_  To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster__  
@@ -2152,9 +2150,7 @@ __gooey__ :three: Soft and sticky. _Gooey butter cake._
 __gooks__ _n_  
 __goose chase__ _A global goose chase._  
 __goosing__ _Goosing the economy._  
-__gouge__ _v_  
-__gouged__ :two::shit: _Consumers gouged by tricks and traps._  
-__gouged__ _v_ _Gouged limbs._  
+__gouge__ _v_ :four::shit: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _Transparency helps patients and exposes gougers._  
 __gout__  
 __grace__ _v_  
@@ -2166,8 +2162,7 @@ __graft__ :two::shit: _A graft scandal._ _Usual wealth, the euphemism for suspec
 __grand jury__  
 __grand-auto__ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
-__grandstand__  
-__grandstand__ _He found rats in his grandstand._  
+__grandstand__ :two::shit: _He found rats in his grandstand._  
 __granola__ _n_  
 __grapple__ (grappled, grappling) :nine::arrow_up_small::o2: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grass-routs__ _Grass-routs campaign._  
@@ -2246,8 +2241,7 @@ __gum stump__
 __gum tree__  
 __gum up__  
 __gumball__  
-__gumbo__ :two::shit: _Gumbo appetizer bowls._  
-__gumbo__ _Cultural gumbo._  
+__gumbo__ :three::shit: _Gumbo appetizer bowls._ _Cultural gumbo._  
 __gumption__  
 __gums__ _n_  
 __gun-shy__  
@@ -2963,8 +2957,7 @@ __markup__ _These U.S. Gov't-Issued Gold Coins are completely free of dealing ma
 __marmalade__  
 __marooned__ _He felt marooned by the silence._  
 __marquee phone__  
-__marquee__ :six: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._  
-__marquee__ _The company dismantled its large marquee._  
+__marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :three: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._  
 __marred__ :four::shit: _v_  
 __marsh__ _n_ :two::shit:  
 __marshal__ _v_  
@@ -3721,8 +3714,7 @@ __quadroons__
 __quaffable__  
 __quagmire__ :two: _n_ __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ :es: atolladero  
 __quail__ _n_  
-__quaint__  
-__quaint__ _Quaint town._  
+__quaint__ :two::shit: _Quaint town._  
 __quaintly__  
 __qualm__ (qualms) :three: _n_ An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ :four: Difficult dilemma. _All-Star managers face quandary._  
@@ -3977,9 +3969,7 @@ __roach paste__
 __roach__ _n_ :two::shit: _Roach paste._  
 __road salt__ _n_  
 __roadside__ _Roadside billboards._  
-__roam__ _v_  
-__roam__ _v_ :two::shit: _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
-__roaming__ _v_  
+__roam__ _v_ :four::shit: (roaming) _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
 __robin-breasted__  
 __rock the boat__  
@@ -4105,12 +4095,9 @@ __scampering__ _v_
 __scant__ :three::shit: _Details were scant._  
 __scapegoated__ _v_  
 __scapular__  
-__scarce__  
-__scarce__  
+__scarce__ :two::shit:  
 __scarlet__  
-__scathing__  
-__scathing__ :four: Bitterly severe.  
-__scathing__ _His scathing indictment of Congress._  
+__scathing__ :five: Bitterly severe. _His scathing indictment of Congress._  
 __scattershot__  
 __schadenfreude__  
 __schism__  
@@ -4584,8 +4571,7 @@ __spangle__ _v_ :five::shit: (spangled, spangling)
 __spar__ _n_  
 __spark plugs__  
 __spars__ _n_  
-__spat__ _In a spat over an arrest._  
-__spat__ _n_ :three::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._  
+__spat__ _n_ :four::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ :three: /speɪt/ _n_ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spay__ _v_  
 __spd__  
@@ -4670,8 +4656,7 @@ __squit__ _Super-soaker squit guns._
 __staffed__ _v_  
 __staffer__ :three: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
-__stagger__ (staggers) :two::shit: _v_ _Walmart will stagger other deals._  
-__stagger__ _v_  
+__stagger__ _v_ :three::shit: (staggers) _Walmart will stagger other deals._  
 __stagnant__  
 __staid__ :three: _adj_ Sedate, respectable, and unadventurous. _Staid law firms._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
 __stairwell__ :two::shit:  
@@ -5396,8 +5381,7 @@ __warble__ _v_
 __wardrobe__ _Left Bank wardrobe._  
 __warehoused__ (warehoused) _v_  
 __warehousing__  
-__wares__  
-__wares__ _n_ _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
+__wares__ _n_ :two::shit: _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
 __wariness__  
 __warrant__ :two::shit: _v_  
 __wary__ _He is wary of the situation._  
