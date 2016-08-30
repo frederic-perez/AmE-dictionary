@@ -6,8 +6,6 @@
 
 
 
-
-
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -126,8 +124,7 @@ __Ole Miss__
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __PO__ Parole officer?  
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
-__Pacific Rim__  
-__Pacific Rim__  
+__Pacific Rim__ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, esp in the context of their developing manufacturing capacity and consumer markets.  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
 __Perkins booth__ _n_  
 __Pharaoh__  
@@ -245,8 +242,7 @@ __agape__ _He stood there with his mouth agape._
 __aggravate__ (aggravated) :two::shit: _v_  
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __agrarian__  
-__aground__  
-__aground__  
+__aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __ailment__  
 __ails__ _v_  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
@@ -914,6 +910,7 @@ __cawed__ _v_ :two::shit: (cawing)
 __ce__  
 __ceasefire__  
 __cede__  
+__cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celery stalk__  
 __celery__ _n_ :two::shit:  
 __cement bird bath__  
@@ -1140,8 +1137,7 @@ __contretemps__
 __contrite__  
 __contrition__ :three::shit:  
 __contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
-__convene__ _v_  
-__convene__ _v_ :four: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
+__convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convivial__ :two::shit:  
 __conwise__  
@@ -1419,8 +1415,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dis__ _n_ :two::shit:  
 __disarray__ :three: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disbar__ _Disbar attorney._  
-__discharge__ :three::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._  
-__discharge__ _v_ _An officer discharged his weapon._ *Why not 'fired'?  
+__discharge__ :four::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ *Why not 'fired'?  
 __discounter__ _n_  
 __discourse__  
 __disenfranchise__  
@@ -3208,8 +3203,7 @@ __nondescript__ :two::shit:
 __nonstaff jobs__  
 __nonstop__  
 __noose__ (nooses) :two::shit:  
-__normalcy__ (Does 'normality' exist?)  
-__normalcy__ :two::shit: _It took me months to get back to normalcy._  
+__normalcy__ :three::shit: _It took me months to get back to normalcy._  
 __nose > running noses__  
 __nosebleeds__  
 __not even close__ :dart:  
@@ -3285,7 +3279,6 @@ __open-wheel__ :three::shit: _Open-wheel cars._
 __oppo__ _Oppo researchers._  
 __orb__ _n_ :two::shit:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
-__ordeal__  
 __ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordnance__ :two::shit:  
 __ore__  
@@ -3582,8 +3575,7 @@ __pork rinds__ :two::shit:
 __porkpie hat__  
 __porkpie__ :two::shit:  
 __porridge__  
-__portend__ :three::shit: _v_  
-__portend__ _v_ _...may portend a disruption._  
+__portend__ _v_ :four::shit: _...may portend a disruption._  
 __portent__  
 __portly__  
 __posh__ :three::shit:  
@@ -3815,8 +3807,7 @@ __rattle__ _v_ :fix::shit: (rattled)
 __rattlers__   
 __raucous__ :five: _adj_ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchy__  
-__ravaged__  
-__ravaged__ _v_  
+__ravaged__ _v_ :two::shit:  
 __ravages__ :two::shit: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_  
@@ -4320,8 +4311,7 @@ __shout-out > give a shout-out__
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
 __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
 __show runner__ :two::shit:  
-__showdown__  
-__showdown__ :three: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
+__showdown__ :four: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showstopping__ _A showstopping performance._  
 __showtime__  
 __shrapnel__ :four: _n_ __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ :open_mouth: _Informal_ Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
@@ -4557,8 +4547,7 @@ __soft-spoken__
 __softly-softly__  
 __soggy__ :four: _adj_ Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
 __soiled__  
-__sojourn__  
-__sojourn__ _n_ _The phantasmagorical sojourn along the freeways of LA._   
+__sojourn__ _n_ :two::shit: _The phantasmagorical sojourn along the freeways of LA._   
 __sojourner__  
 __sojourner__  
 __solder__  
@@ -4866,6 +4855,7 @@ __supple__
 __suppleness__ _Mental suppleness._  
 __supremacist__ _A whote supremacist._  
 __surefire__  
+__surly__ _adj_ Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmount__ _v_  
 __surreptitiously__  
@@ -4928,8 +4918,7 @@ __take one's cut__ _He was finished taking his cuts in batting practice._
 __takeout containers__  
 __taking roll__ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_  
-__tall order__  
-__tall order__  
+__tall order__ :two::shit:  
 __tallow__ :four::shit:  
 __talons__ _The nails were sharp as talons._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
@@ -5075,8 +5064,7 @@ __tink__ _v_
 __tipoff__  
 __tipple__  
 __tipster__  
-__tirade__  
-__tirade__ _n_  
+__tirade__ _n_ :two::shit:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
 __tit for tat__  
 __titlist__ _He is the former bantamweight titlist._  
@@ -5354,8 +5342,7 @@ __vituperative__
 __vocal__ :two: _Critics often are the most vocal._  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __volition__  
-__volley__  _A volley of invective._  
-__volley__ _(military attack?)_  
+__volley__ :two::shit: _A volley of invective._ _(military attack?)_  
 __voltron__  
 __vouch__ _v_  
 __voucher__ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
