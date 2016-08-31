@@ -413,8 +413,7 @@ __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or un
 __bane__ _n_ :two::shit:  
 __bang-for-the-buck__  
 __bangs__ _n_ :two::shit: _informal?_ _She wore her hair in bangs._  
-__banish__ (banished) :es: desterrar    
-__banish__ _v_  
+__banish__ _v_ :two::shit: (banished) :es: desterrar    
 __bankroll__ _v_  
 __bankrollers__  
 __bantamweight__ :two: _Rousey is the women's bantamweight champ._  
@@ -1029,8 +1028,7 @@ __clot__
 __clothesline__  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
-__clout__ :six: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
-__clout__ _n_  
+__clout__ _n_ :seven: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __cloying__ :two::shit: _She is cordial without being cloying._  
 __cluck__  
 __clump__ _n_  
@@ -2037,8 +2035,7 @@ __gait__ _n_ :two::shit: _A pretty boy with a swing in his gait._
 __gal__  
 __galboy__ _n_  
 __gale__ _n_ :two: An extremely strong wind: _the gale blew down hundreds of trees._  
-__galling__ _A galling loss._  
-__galling__ _adj_  
+__galling__ _adj_ :two::shit: _A galling loss._  
 __galvanized__  
 __gambit__  
 __gamine__  
@@ -2109,8 +2106,7 @@ __glib__ _A glib reply to his remark._
 __glimmer__ _A glimmer of hope._  
 __glitz__  
 __gloaming__  
-__gloat__  
-__gloat__ _I could not gloat._  
+__gloat__ :two::shit: _I could not gloat._  
 __gloating__  
 __glob__ :two::shit: _A glob of spit._  
 __gloom__ _n_  
@@ -2322,8 +2318,7 @@ __havoc__
 __hawk__ _v_ _Vendors hawk greeting cards and inexpensive artwork._  
 __hawkish__  
 __haymaker__  
-__haywire__  
-__haywire__ _To go haywire._  
+__haywire__ :two::shit: _To go haywire._  
 __hazard__ _A 465-yard  par with a water hazard._  
 __hazardous__  
 __haze__ (hazing) :two::shit: _v_ _Allegations of hazing and telling._  
@@ -3068,8 +3063,7 @@ __monstrosity__ :open_mouth:
 __moon roof__  
 __moonshine__ (spirit)  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
-__moot__ :four: _adj_ __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._  
-__moot__ _The zero-emissions mandate was a moot point._  
+__moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :two: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __mooted__  
 __moppet__ _A lovable moppet._  
 __mopping up__  
@@ -3749,18 +3743,15 @@ __rain slickers__ _n_
 __rainout__  
 __raked over the coals__  
 __raking__ _v_  
-__rally__ (rallied) :two::shit: _v_ _Economy_ _The euro initially rallied by the most in nearly a month._  
-__rally__ _v_ _To rally the troops._  
+__rally__ _v_ :three::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._  
 __ram__ _v_  
 __ramblers__ _n_  
-__rambling__ :three::shit:  
-__rambling__ _v_  
+__rambling__ _v_ :four::shit:  
 __rambunctious__  
 __ramen restaurant__  
 __ramming__  
 __ramp up__ :two::shit:  
-__rampage__  
-__rampage__  
+__rampage__ :two::shit:  
 __rampant__  
 __ramparts__ :two::shit:  
 __ramshackle__ :two::shit:  
@@ -5097,8 +5088,7 @@ __toy breeds__ _(pets)_
 __tpngue-in-cheek__  
 __tractor-trailer__  
 __trade-off__ _She has to make trade-offs._  
-__trail mix__  
-__trail mix__ _Infused trail mix._  
+__trail mix__ :two::shit: _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trainees__ :es: aprendiz?  
 __traipsing__  
