@@ -950,8 +950,7 @@ __chicken coop__ :two::shit:
 __chicken pox__  
 __chicken wire__  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
-__chided__ _v_  
-__chided__ _v_ Whe chided the Pentagon._  
+__chided__ _v_ :two::shit: _Whe chided the Pentagon._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chip away__ _v_  
@@ -971,9 +970,7 @@ __chuck__ _v_ _I made plans to chuck everything._
 __chucked__  
 __chuckholes__ _n_  
 __chucklers__  
-__chug along__ _v_  
-__chug__ _v_ _A cocktail to chug._  
-__chug__ _v_ _We're chugging along._  
+__chug__ _v_ :three::shit: _A cocktail to chug._ _We're chugging along._  
 __chum__ :two::shit: _Fish chum._  
 __chums__ _We're old school chums._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
@@ -1015,8 +1012,7 @@ __cleft__
 __clench__ _n_ :two::shit:  
 __clenched__  
 __clicking__ _Things seem to be making sense and clicking._  
-__clinch__ _v_ (clinched) :nine::arrow_up_small::o2: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._  
-__clinch__ _v_ _Only two places seem clinched._  
+__clinch__ _v_ (clinched) :nine::arrow_up_small::o2: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
 __clincher__  
 __clique__ (cliques) :two: _n_ A small exclusive group of friends or associates. _:es: camarilla_  
 __clique__ _His clique of Shiite leaders._  
@@ -1812,8 +1808,7 @@ __fidget__ _v_
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ _His personal fief._  
-__field__ (fielded, fielding) :four: _v_ __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game.  
-__field__ _v_ _To field questions._  
+__field__ _v_ (fielded, fielding) __1__ :two: _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ :two: Send out (a team or individual) to play in a game. __3__ :one: Answer adequately or successfully. _To field questions._  
 __fielding__  
 __fiery__  
 __fifth wheels__  
@@ -1864,8 +1859,7 @@ __flare<sup>2</sup>__ _v_ _The injury flared._
 __flash point__  
 __flash__  
 __flat-footed__  
-__flatbread__  
-__flatbread__ _Flatbread sandwiches._  
+__flatbread__ :two::shit: _Flatbread sandwiches._  
 __flats__ _n_  
 __flatware coins__    
 __flaunting__  
@@ -1927,8 +1921,8 @@ __fodder__ :five: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and
 __fodder__ _Cannon fodder._  
 __foible__ :two: _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
 __foiled__ _v_  
-__fold__ _Mowcow organized rallies to welcome Crimea into the fold._  
-__fold__ _v_ _The newspaper subsequently folded._  
+__fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
+__fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __folded__ _The American Soccer League folded in 1931._  
 __follow suit__  
 __folly__ (follies) :four: __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
@@ -2051,8 +2045,7 @@ __gamine__
 __gander__ _Take a dander at the college girls._  
 __gandy__ _Gandy walkers._  
 __gangbangers__  
-__gantlet__  
-__gantlet__ _A media gantlet._  
+__gantlet__ :two::shit: _A media gantlet._  
 __gaping__ _v_  
 __gar__ _n_  
 __garb__  
@@ -2195,8 +2188,7 @@ __grinding__ _Bumping and grinding._
 __grip-and-grin__ _Grip-and-grin shots._  
 __grip__ _v_  
 __gripe__ _Not a single gripe._  
-__gripping__  
-__gripping__ _A gripping contest._  
+__gripping__ :two::shit: _A gripping contest._  
 __grisly__ _A grisly synagogue assault._  
 __grist__ _Plastic wrapping becomes grist for composite decking._  
 __gristle__  
@@ -2368,8 +2360,7 @@ __heft__ _n_
 __hefted up__  
 __hefty__  
 __heinous__ :two::shit:  
-__heirlooms__  
-__heirlooms__ _Family heirlooms._  
+__heirlooms__ :two::shit: _Family heirlooms._  
 __heist capers__  
 __heliograph__  
 __helipad__  
@@ -2490,9 +2481,7 @@ __hurdy-gurdy__
 __hurl__ _v_ :five: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurlers__  
 __husbandry__  
-__hush__ :two::shit: _v_ _The hushed reference desk of the Denver Public Library._ :es: hcer callar  
-__hushed__  
-__hushed__ _Hushed streets._  
+__hush__ _v_ :four::shit: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __husk<sup>1</sup>__ _n_ :four::shit:  
 __husk<sup>2</sup>__ _v_  
 __husks__ _Cane husks._  
@@ -2815,8 +2804,7 @@ __levee__
 __leveled__ :two::shit:  
 __leverage__ _To exert leverage._  
 __leviathan__  
-__levied__ :two: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levied__ _v_  
+__levied__ _v_ :two::shit: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy__  
 __lewd__  
 __liability__ :two::shit:  
@@ -3107,8 +3095,7 @@ __mover and shaker__ A person who wields power and influence; _"a shaker of trad
 __mover__ _n_  
 __mowed__ _v_  
 __moxie__  
-__muck__  
-__muck__ _To transfer road muck onto your leg._  
+__muck__ :two::shit: _To transfer road muck onto your leg._  
 __muckrake__  
 __mudcat__ _n_  
 __muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
@@ -3158,8 +3145,7 @@ __nape__ _n_
 __nappy__  
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
-__nascent__  
-__nascent__ _The nascent market._  
+__nascent__ :two::shit: _The nascent market._  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ Neat, trim, and smart; dapper.  
 __navel__ :two::shit:  
@@ -3538,7 +3524,6 @@ __plopped__ _v_ :two::shit:
 __plot__ _In the same plot of sand._  
 __ploughed__  
 __plowed__ :two::shit: _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
-__pluck__ _A portrait in pluck._  
 __pluck__ _v_ _President Obama plucked former Procter & Gamble CEO Bob McDonald to take over._  
 __plucked__  
 __plugger__  
@@ -3907,8 +3892,7 @@ __restlessness__
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ :two::shit: _n_  
 __resumption__ :open_mouth: :three::shit: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
-__retailer__  
-__retailer__ (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __rethoric__  
 __retrain__ _v_  
 __retread__  
@@ -4087,10 +4071,8 @@ __scabbard__ :two::shit:
 __scabs__ _n_ :two::shit:  
 __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __scallions__  
-__scallop__  
-__scallop__ _A scallop-shell logo._  
-__scalper__ _n_  
-__scalper__ _n_  
+__scallop__ :two::shit: _A scallop-shell logo._  
+__scalper__ _n_ :three::shit:  
 __scam__ (scammed) :two::shit: _v_  
 __scampering__ _v_  
 __scant__ :three::shit: _Details were scant._  
@@ -4294,8 +4276,7 @@ __shoo-in__
 __shooing__ _v_ :two::shit:  
 __shoot up__ :two::shit: _The number of homeless families shot up during the recession._  
 __shooting gallery__  
-__shopkeeper__  
-__shopkeeper__ :two::shit:  
+__shopkeeper__ :three::shit:  
 __shore up__ _v_ :five: (shoring up) Support by placing against something solid or rigid.  
 __shorn__ :three::shit: _Shorn head._  
 __short-handed__  
@@ -4889,9 +4870,7 @@ __swerved__ _v_ :five::shit: (swerving)
 __swift__  
 __swilled__ (swilling) :three::shit: _Swilling wine._  
 __swimabout__  
-__swindle__  
-__swindler__ _The notorious 19th-century swindler Ferdinand Ward._  
-__swindler__ _n_ _In the dark space between anticipation and realization, the swindler thrives._  
+__swindler__ _n_ :three::shit: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __switch-blade__ _Switch-blade artists._  
 __swiveling__ _v_  
@@ -5285,8 +5264,7 @@ __utility__ :three::shit: _Utility bill._ _Utility companies._ _Utility polse._
 __utterly__  
 __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __vacant-eyed__  
-__vagaries__  
-__vagaries__ :two::shit: _The vagaries of economics._  
+__vagaries__ :three::shit: _The vagaries of economics._  
 __vagrants__  
 __valedictorian__  
 __valedictorian__  
