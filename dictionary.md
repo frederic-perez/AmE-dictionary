@@ -7,7 +7,21 @@
 
 
 
-
+__embraced__ _v_  
+__muscling__ _v_  
+__forte__ _n_  
+__atone__ _v_  
+__flop__ _n_  
+_pin__ _v_ (pinned) _Evans pinned a 32-18 loss to the New York Giants._  
+__collarbone__  
+__uptight__ _v_  
+__thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
+__airball__ _n_  
+__pep__ _The Huskies were the ones with pep in their step._  
+__lurk__ _v_  
+__white elephant__ (?)  
+__pit__ _Money pit._  
+__underdog__ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
