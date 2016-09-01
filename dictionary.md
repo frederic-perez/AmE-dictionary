@@ -6,6 +6,8 @@
 
 
 
+
+
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -1032,8 +1034,7 @@ __clutch player__
 __clutch__ _He was a dominant player in the clutch._  
 __clutched__ _v_
 __clutches__ _Clutches for iPhone._  
-__co-op__  
-__co-op__ :two::shit:  
+__co-op__ :three::shit:  
 __coaster brakes__  
 __coat of arms__ :two::shit:  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
@@ -1340,10 +1341,8 @@ __delectable__
 __delivers__  
 __dell__ _n_ A small secluded wooded valley.  
 __deluded__  
-__deluge__ _The deluge is not over._  
-__deluge__ _n_  
-__deluge__ _v_ To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
-__deluged__ _v_  
+__deluge<sup>1</sup>__ _n_ :two: _The deluge is not over._  
+__deluge<sup>2</sup>__ _v_ :two: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __demean__ _v_ :three::shit: (demeaned, demeaning)  
 __demographic__ _n?_  
@@ -1374,7 +1373,6 @@ __diddle-squat__
 __die-cast__ _Merchandise and die-cast sales._  
 __die-hard__ Person who resists change.  
 __diecast__  
-__diffident__  
 __diffident__  
 __digression__  
 __dikes__ :open_mouth:  
@@ -1479,9 +1477,7 @@ __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.
 __double-decker bus__  
 __double-decker__ _Double-decker bus._  
 __douchebag__ (douche bag) :two: _Informal_ An obnoxious or contemptible person, typically a man. :es: gilipollas  
-__dour__  
-__dour__  
-__dour__ :two: _adj_ Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
+__dour__ _adj_ :four: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
 __dovetails__  
 __down to earth__ (down-to-earth) :two: _adj_ With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
@@ -1491,8 +1487,7 @@ __downed__ _v_ _Terrorists had downed a Russian plane in October._
 __downers__ :two::shit:  
 __downhill__ Simple and easy?  
 __downpours__  
-__downright__  
-__downright__ :dart: _Not to mention, just downright good looking._  
+__downright__ :dart::two::shit: _Not to mention, just downright good looking._  
 __downsides__  
 __downtrodden__ :two::shit: _The Clippers were the victims, the downtrodden, the doormats._  
 __downturns__ :two::shit:  
@@ -1757,8 +1752,8 @@ __fatwa__
 __fatwa__ Religious edict.   
 __faulty__ :dart: _Faulty software._  
 __fave__   
-__fawn__ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
-__fawn__ _v_  
+__fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
+__fawn<sup>2</sup>__ _v_  
 __fawning__  
 __faze__ _v_  
 __fazed__  
@@ -1896,9 +1891,7 @@ __flummox__ _v_
 __flummoxed__  
 __flung__  
 __flurry > in a flurry__  
-__flurry__ :three: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
-__flurry__ _A flurry of new services._  
-__flurry__ _After Emancipation, a passionate flurry ensued._  
+__flurry__ __1__ :four: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flushed complexion__  
 __fluster__ :two: _v_ Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under the water._  
@@ -1983,8 +1976,7 @@ __frilled__ _Frilled apron._
 __fringe__  
 __frisson__  
 __frites__ _Steak frites._  
-__fritter__ :two::shit: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._  
-__fritter__ _v_ _To fritter away money._  
+__fritter__ _v_ :three::shit: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
 __fritters__ _Corn fritters._  
 __frolic__  
 __frolic__  
@@ -3156,8 +3148,7 @@ __nimble__ (nimbler, nimbly) :five: _adj_ __1__ Quick and light in movement or a
 __nineloss__ ?  
 __nip__ _There is a nip in the air._  
 __nipped__ _The Gaels were nipped at Washington._  
-__nitpick__  
-__nitpick__ _v_ _They will find something to nitpick at you._  
+__nitpick__ _v_ :two::shit: _They will find something to nitpick at you._  
 __nitpicked__ _v_  
 __nits__ _Hair filled with nits._  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
@@ -3488,7 +3479,6 @@ __platitudes__ :two::shit:
 __platoon__ _v_  
 __platypus__ _Internet platypus pranks._  
 __plaudits__  
-__plaudits__  
 __play havoc__  
 __playbook__ :two::shit:  
 __playwright__ :two::shit:  
@@ -3600,22 +3590,18 @@ __privy__ _n_
 __privy__ _n_  
 __prize purse__ _A prize purse of $1 million._  
 __prize__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
-__prizefighter__  
-__prizefighter__  
-__prizefighter__  
+__prizefighter__ :three::shit:  
 __pro bono consultant__  
 __pro bono__  
 __probity__  
-__proceeds__ :two: _Proceeds from the sale._ :es: ganancias; ingresos  
-__proceeds__ _Operating funds come from rodeo proceeds._  
+__proceeds__ :three: _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::shit: (procuring)  
 __prod__ (prodded) :two::shit: :es: _empujón_  
 __produce__ _People value fresh produce._  
 __proffering__  
 __profiteering__  
-__profligate__  
-__profligate__  
+__profligate__ :two::shit:  
 __prominence__  
 __prominent__ :two::shit: _Package carrying a prominent warning._  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
@@ -3782,8 +3768,7 @@ __razor strop__
 __razz__ (razzing) _v_ To deride, heckle, or tease. _Razzed the teammate who missed the shot._  
 __razzle-dazzle__  
 __reach for the stars__ Have high or ambitious aims.  
-__reach out__  
-__reach out__ _Reaching out to prevent aids._  
+__reach out__ :two::shit: _Reaching out to prevent aids._  
 __readily__  
 __ream__ _v_ :four::shit: (reamed)  
 __reams__ _He watched reams on tape._  
@@ -4287,9 +4272,7 @@ __shunned__
 __shush__ _v_  
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
-__shutout__  
-__shutout__ _Last year, the NL won in a shutout._  
-__shutouts__ _Hockey_  
+__shutout__ :three::shit: _Hockey_ _Last year, the NL won in a shutout._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__ _Just shy of its highest mark._  
@@ -4603,8 +4586,8 @@ __squeamish__ Easily ​upset or ​disgusted by things or ​actions you ​fin
 __squeamishness__  
 __squelch__  
 __squire__  
-__squirm__ :two::shit: _v_ _Five-year-old Katie squirmed in her lap._  
-__squirm__ _n_ _But his mother was holding him tight, ignoring his squirms._  
+__squirm<sup>1</sup>__ _v_ :two::shit: _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squishing__  
 __squit__ _Super-soaker squit guns._  
 __staffed__ _v_  
@@ -4962,9 +4945,7 @@ __thereof__
 __thermos__ _A thermos._  
 __thespian__ :two::shit:  
 __thick and thin__ _Supporters ready to back them through thick and thin._  
-__thicket__  
-__thicket__  
-__thicket__ (thickets)  
+__thicket__ :three::shit: (thickets)  
 __think tank__ :two:  
 __thoroughfare__  
 __thoroughly__  
@@ -5119,8 +5100,7 @@ __trudge__ _v_ :four::shit:
 __true to form__  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
-__trussed__  
-__trussed__ _v_  
+__trussed__ _v_ :two::shit:  
 __trustees__ _Board of Trustees_  
 __trusties__  
 __tryst__  
@@ -5274,8 +5254,7 @@ __vetting__
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicious__  
 __viciously__  
-__victor__  
-__victor__ _Seward became the righthand man of the victor, Abraham Lincoln._  
+__victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __vie__  
 __vig__ _n_ :three::shit:  
 __vilify__ _v_  
@@ -5522,9 +5501,7 @@ __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He
 __wunderkind__  
 __yakuza__  
 __yank__ _v_ To fire?  
-__yardstick__  
-__yardstick__ :two::shit:  
-__yardstick__ _Colleges need some standard yardstick._  
+__yardstick__ :four::shit: _Colleges need some standard yardstick._  
 __yarn du jour__  
 __yarn__  
 __yawing__ _v_  
