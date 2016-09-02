@@ -2879,9 +2879,7 @@ __lunge__ _v_ _A bull lunges into the pen._
 __lupus__  
 __lurch__ _We lurched around a bend._  
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
-__lurk__ (lurked) /ləːk/ :three: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
-__lurk__ _v_  
-__lurking__ _Lurking over the horizon._  
+__lurk__ _v_ /ləːk/ (lurked, lurking) :five: __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _adj_ :six: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lustre__  
 __lye water__  
@@ -3389,8 +3387,7 @@ __penny-pinch__ _Penny-pinching conservatives._
 __pens__ _n_ _Screened pens with rabbits._  
 __pensive__ _v_  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
-__pep__ :two::shit: :open_mouth: _A pep yalk._  
-__pep__ _The Huskies were the ones with pep in their step._  
+__pep__ :three::shit: :open_mouth: _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._  
 __perch<sup>1</sup>__ _n_  
 __perch<sup>2</sup>__ _v_ :three::shit: 
@@ -3435,8 +3432,7 @@ __pillbox hat__ :two::shit:
 __pillbox__ _A plum-colored pillbox hat._  
 __pin-curled__  
 __pin-drop silence__  
-__pin__ _Pin the blame on its inability to develop an economy independent of the United States._  
-__pin__ _v_ (pinned) _Evans pinned a 32-18 loss to the New York Giants._  
+__pin__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
 __pinafore__  
 __pinch > in a pinch__  
 __pinch-hitter__  
@@ -3594,11 +3590,7 @@ __primer__ _n_
 __primly__ :two::shit:  
 __prise__ _n_  
 __prissy__  
-__privy__  
-__privy__  
-__privy__  
-__privy__ _n_  
-__privy__ _n_  
+__privy__ _n_ :five::shit:  
 __prize purse__ _A prize purse of $1 million._  
 __prize__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
 __prizefighter__ :three::shit:  
@@ -4848,6 +4840,7 @@ __swoop<sup>1</sup>__ _n_ :three::shit:
 __swoop<sup>2</sup>__ _v_ :four::shit: (swooped, swooping)  
 __swooshing__  
 __sycophants__  
+__spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __syllogism__ :two::shit:  
 __syrupy__  
 __tab<sup>1</sup>__ _n_ :four: __Informal__ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
@@ -4865,7 +4858,7 @@ __take one's cut__ _He was finished taking his cuts in batting practice._
 __takeout containers__  
 __taking roll__ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_  
-__tall order__ :two::shit:  
+__tall order__ :three::shit:  
 __tallow__ :four::shit:  
 __talons__ _The nails were sharp as talons._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
