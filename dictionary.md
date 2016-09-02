@@ -7,21 +7,7 @@
 
 
 
-__embraced__ _v_  
-__muscling__ _v_  
-__forte__ _n_  
-__atone__ _v_  
-__flop__ _n_  
-_pin__ _v_ (pinned) _Evans pinned a 32-18 loss to the New York Giants._  
-__collarbone__  
-__uptight__ _v_  
-__thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
-__airball__ _n_  
-__pep__ _The Huskies were the ones with pep in their step._  
-__lurk__ _v_  
-__white elephant__ (?)  
-__pit__ _Money pit._  
-__underdog__ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
+
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -261,6 +247,7 @@ __aground__ _adv_ :two: On or into the ground; in a stranded condition or state.
 __ailment__  
 __ails__ _v_  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
+__airball__ _n_  
 __airburst__ _n_  
 __akin__  
 __alabaster__  
@@ -360,6 +347,7 @@ __at odds__
 __at the earliest__  
 __at the very least__  
 __atavistic__ :three::shit:  
+__atone__ _v_  
 __atone__ _v_  
 __attack dog__ _n_  
 __attest__ _v_  
@@ -1069,6 +1057,7 @@ __colander__
 __cold duck__  
 __coleslaw__ _n_ :three::shit:  
 __collapsible__ _Collapsible shutters._  
+__collarbone__  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collusion__ :two::shit:  
 __colossal__  
@@ -1629,6 +1618,7 @@ __embattle__ (embattled) _v_ :todo::shit:
 __ember__ _n_ :two: A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._  _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
+__embraced__ _v_  
 __embroidered__  
 __embroil__ (embroiled)  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
@@ -1890,6 +1880,7 @@ __floodlight__
 __floor show__  
 __flop<sup>1</sup>__ _n_ :two::shit: _You stay at the flop he's got rented for you._  
 __flop<sup>2</sup>__ _v_  
+__flop__ _n_  
 __flopper__ _n_ :three::shit: _Try keeping your flopper in your pants for a change._  
 __floppy > floppy socks__  
 __florid__  
@@ -1953,6 +1944,7 @@ __forgo__ _v_ :six: Go without (something desirable). _Syn_ do without, go witho
 __fork__ _Gordon at fork in the road._  
 __forlon__  
 __forlorn__ :four: _adj_ __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
+__forte__ _n_  
 __fortified wine__  
 __foul play__ :two: Violence, esp. murder.  
 __foul__ _Foul language__   
@@ -2888,6 +2880,7 @@ __lupus__
 __lurch__ _We lurched around a bend._  
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurk__ (lurked) /ləːk/ :three: _v_ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
+__lurk__ _v_  
 __lurking__ _Lurking over the horizon._  
 __lush__ _adj_ :six: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lustre__  
@@ -3104,6 +3097,7 @@ __mumps__
 __munch__ _v_  
 __mundane__  
 __muriatic__  
+__muscling__ _v_  
 __muse__ _v_ _He mused on his Facebook page about killing his wife._  
 __mused__ _v_  
 __mush-mouth__ _The kid with the mush-mouth accent._  
@@ -3396,6 +3390,7 @@ __pens__ _n_ _Screened pens with rabbits._
 __pensive__ _v_  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __pep__ :two::shit: :open_mouth: _A pep yalk._  
+__pep__ _The Huskies were the ones with pep in their step._  
 __pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._  
 __perch<sup>1</sup>__ _n_  
 __perch<sup>2</sup>__ _v_ :three::shit: 
@@ -3441,6 +3436,7 @@ __pillbox__ _A plum-colored pillbox hat._
 __pin-curled__  
 __pin-drop silence__  
 __pin__ _Pin the blame on its inability to develop an economy independent of the United States._  
+__pin__ _v_ (pinned) _Evans pinned a 32-18 loss to the New York Giants._  
 __pinafore__  
 __pinch > in a pinch__  
 __pinch-hitter__  
@@ -3470,6 +3466,7 @@ __pirogue__ _n_ :two::shit:
 __pisspot__ :two::shit:  
 __pit<sup>1</sup>__ _n_ _The pit of his stomach._  
 __pit<sup>2</sup>__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
+__pit__ _Money pit._  
 __pitch<sup>1</sup>__ _n_ _We recovered the ball in their side of the pitch after pressing well._  
 __pitch<sup>2</sup>__ _v_ _To pitch a tent._  
 __pitch__ _v_ :camera::shit: _Pitching bowling balls._  
@@ -4955,6 +4952,7 @@ __then again__
 __theocracy__  
 __theosophy__  
 __there is no denying__  
+__thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
 __thereof__  
 __thermos__ _A thermos._  
 __thespian__ :two::shit:  
@@ -5167,6 +5165,7 @@ __under siege__
 __underbelly__  
 __undercut__  
 __undercutting__  
+__underdog__ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underpin__  
 __underpinning__  
 __understandably__ :two::shit:  
@@ -5222,6 +5221,7 @@ __upstream__
 __upswing__ :three::shit:  
 __uptake__  
 __uptick__ _n_ :shit::two:  
+__uptight__ _v_  
 __upwardly__  
 __urbanites__  
 __urchin__ _An underprivileged urchin._  
@@ -5406,6 +5406,7 @@ __whisk broom__
 __whisk__ _v_ :four::shit: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._  
 __whiskers__  
 __whistle-blower__  
+__white elephant__ (?)  
 __white-knuckle ride__  
 __whitehot__  
 __whiteout__  
