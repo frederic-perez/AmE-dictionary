@@ -3,6 +3,32 @@
 
 
 
+__reel__ _v_ (economy)  
+__rattle__ _v_ _Rattle the world.)_  
+__broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
+__go a long way__ _Go a long way toward minimizing damage._  
+__flex__ _v_  
+__offbeat__ _Offbeat nature._  
+__name-calling__  
+__penchant__ _n_  
+__outfit__  
+__flummoxed__ _v_  
+__expletive__ :open_mouth: _Bombing the expletive oout of its  oil fields._  
+__whiffed__ _v_  
+__ludicrous__  
+__sheer__ _Sheer size._  
+__roll out__ _The retailer will roll out deals two days early._  
+__line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
+__Aha! moment__  
+__upbeat__ _An upbeat approach._  
+
+
+
+
+
+
+
+
 
 
 
