@@ -4,6 +4,24 @@ __disheveled__ _v_
 __heckler__  
 __INRI__  
 
+__bevy__ _A bevy of autos will be on display._  
+__blip__ _Fun cars are a blip._  
+__coupes__ _Coupes, two door models usually sportier than sedans._  
+__cache__ :open_mouth: _Sporty cars haven't lost their cache._ (pronunciation?)  
+__discontinued__ _v_  
+__K-12__ _K-12 students._  
+__rally__ _v_ _The Dow Jones rallied 1.4% Monday._  
+__attainability__  
+
+
+
+
+
+
+
+
+
+
 
 
 
