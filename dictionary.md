@@ -1,6 +1,39 @@
 
 
-__disheveled__ _v_  
+
+
+
+
+__tony__ _A tony housewife._  
+__sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
+__modicum__ _A modicum of timidity._  
+__keen__ _A keen egret._  
+__egret__  
+__cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
+__closeted__ _A closeted life._  
+__rapture__ _The film _Carol_ left critics in rapture._  
+__pen name__  
+__chided__ _v_  
+__pander__ _v_  
+__far cry__ _It is a far cry from yhe 1970s._  
+__outspoken__  
+__llama__  
+__drop by__ _v_  
+__unduly__  
+__smite__  
+
+__di
+
+
+
+
+
+
+
+
+
+
+sheveled__ _v_  
 __heckler__  
 __INRI__  
 
