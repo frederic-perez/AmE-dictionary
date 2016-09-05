@@ -526,8 +526,7 @@ __bespoke__
 __bested__ _v_  
 __bestow__ _v_ :nine: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bettors__  
-__bevy__ :five: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._  
-__bevy__ _A bevy of autos will be on display._  
+__bevy__ :size: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :three::shit: _Midcalf silk dresses came with ruffled bibs and hems._  
@@ -1911,9 +1910,7 @@ __flouts__ _v_
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluke__ :six: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
-__flummox__ _v_  
-__flummoxed__  
-__flummoxed__ _v_  
+__flummox__ _v_ :three::shit: (flummoxed)  
 __flung__  
 __flurry > in a flurry__  
 __flurry__ __1__ :four: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
@@ -2353,8 +2350,7 @@ __heartworm__
 __heat > to catch a lot of heat__  
 __heatedly__ _Clashed heatedly._  
 __heckled__ _v_  
-__heckler__  
-__heckler__  
+__heckler__ :two::shit:  
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedonic__  
 __heed__ :five: _v_ :es: hacer caso de  
@@ -2883,8 +2879,7 @@ __lowbrow__
 __lowlights__  
 __lowly__  
 __lucifer match__  
-__ludicrous__  
-__ludicrous__ :two:: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrous__ :open_mouth: :three:: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::shit:  
 __lug__ :two::shit: _v_  
@@ -3234,8 +3229,7 @@ __of__ _The gas smells of roggen eggs._
 __off-kilter__  
 __off-putting__  
 __off-the-cuff__  
-__offbeat__ _His offbet partner._  
-__offbeat__ _Offbeat nature._  
+__offbeat__ :two::shit: _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __offing__ _A budding rivalry could be in the offing._  
 __offset__ _v_  
@@ -3307,8 +3301,7 @@ __outright__ _adj?_
 __outré__  
 __outset__ _n_ :two::shit:  
 __outsize__ :two::shit: _An outsize risk._  
-__outspoken__  
-__outspoken__ :two::shit: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
+__outspoken__ :open_mouth: :three: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
 __over the moon__ _British Informal_ Extremely happy; delighted. _We are over the moon._  
@@ -3353,8 +3346,7 @@ __pampling__
 __pan out__ :two::shit:  
 __pan__ _v_ _Obama pans republicans._  
 __panache__ :two::shit:  
-__pander__ :two::shit: (panders, pandering)  
-__pander__ _v_  
+__pander__ _v_ :three::shit: (panders, pandering)  
 __panderer__  
 __pangs__ :two::shit:  
 __panhandling__  
@@ -3696,7 +3688,7 @@ __putbacks__
 __putdowns__  
 __putting aside__  
 __putty__ _n_ :five::shit: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._  
-__pyrrhic__ :open_mouth_ _adj_ (of a victory) won at too great a cost to have been worthwhile for the victor.  
+__pyrrhic__ :open_mouth: _adj_ (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __quadroons__  
 __quaffable__  
 __quagmire__ :two: _n_ __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ :es: atolladero  
@@ -5068,8 +5060,7 @@ __tomboy__
 __ton__ _A metric ton._  
 __tong__  
 __tonsure__  
-__tony__ :three: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._  
-__tony__ _A tony housewife._  
+__tony__ :four: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._  
 __toodles__ _v_  
 __toodling__  
 __toom__  
