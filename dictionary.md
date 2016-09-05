@@ -93,8 +93,7 @@ __Janes and Joes__ :open_mouth: _Regular Janes and Joes._
 __Jewry__  
 __Jim Crow__  
 __Jockeys__ _You've probably got him spotting his Jockeys._  
-__K-12__ _K-12 population._  
-__K-12__ _K-12 students._  
+__K-12__ :two::shit: _K-12 population._ _K-12 students._  
 __K-9__ _A K-9 van._  
 __K-pop__  
 __KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxing match; knock out.  
@@ -954,13 +953,11 @@ __chicken coop__ :two::shit:
 __chicken pox__  
 __chicken wire__  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
-__chided__ _v_  
-__chided__ _v_ :two::shit: _Whe chided the Pentagon._  
+__chided__ _v_ :three::shit: _Whe chided the Pentagon._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chip away__ _v_  
-__chip in__ _v_  
-__chip-in__  
+__chip in__ _v_ :two::shit:  
 __chip-off__  
 __chipped__ _v_  
 __chippies__ :two::shit:  
@@ -1421,9 +1418,7 @@ __disenfranchise__
 __disgorgement__  
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
-__dishevel__ _v_ _A disheveled look of a beat poet._  
-__disheveled__  
-__disheveled__ _v_  
+__dishevel__ _v_ :four::shit: (disheveled) _A disheveled look of a beat poet._    
 __disinfectant__ :open_mouth: _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuousness__  
 __dismal__ _adj_ :three: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
@@ -1756,8 +1751,7 @@ __fandom__
 __fangs__ _n_  
 __fannies__  
 __fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
-__far cry__  
-__far cry__ _It is a far cry from yhe 1970s._  
+__far cry__ :two::shit: _It is a far cry from yhe 1970s._  
 __far-flung__ :two::shit:  
 __farce__  
 __fare<sup>1</sup>__ _n_ :four::shit: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._  
@@ -2660,8 +2654,7 @@ __kabobs__
 __kabuki__ :two::shit:  
 __kale__  
 __keel__ (keeled) :two::shit: _v_  
-__keen__ (keening) :two::shit: _v_ _The native digital companies are keen on TV._  
-__keen__ _A keen egret._  
+__keen__ _v_ (keening) :three::shit: _The native digital companies are keen on TV._ _A keen egret._  
 __keep tabs on__ :es: vigilar  
 __keep up__  
 __keepsake__ :two: _n_ A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -3048,8 +3041,7 @@ __mixed bag__
 __moat__  
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
-__modicum__  
-__modicum__ _A modicum of timidity._  
+__modicum__ :two::shit: _A modicum of timidity._  
 __mogul__  
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mold__ _n_  
@@ -3401,8 +3393,7 @@ __peer__ _Peering into their crystal balls._
 __peerless__ 
 __pelt__ _v_ :two::shit: _Inmates pelting him with objects from above._  
 __pen name__  
-__penchant__ :six: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
-__penchant__ _n_  
+__penchant__ :seven: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penknife__ :two::shit:  
 __pennant races__  
 __pennant__ _n_  
@@ -3744,8 +3735,7 @@ __rain slickers__ _n_
 __rainout__  
 __raked over the coals__  
 __raking__ _v_  
-__rally__ _v_ :three::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._  
-__rally__ _v_ _The Dow Jones rallied 1.4% Monday._  
+__rally__ _v_ :four::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._  
 __ram__ _v_  
 __ramblers__ _n_  
 __rambling__ _v_ :four::shit:  
@@ -3782,8 +3772,7 @@ __ratchet (something) up/down__ (ratched up) :six: _v_ To increase, or make some
 __ratchet__ _v_  
 __rattan couch__  
 __rattan__  
-__rattle__ _v_ :fix::shit: (rattled)    
-__rattle__ _v_ _Rattle the world.)_  
+__rattle__ _v_ :six::shit: (rattled) _Rattle the world._  
 __rattlers__   
 __raucous__ :five: _adj_ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchy__  
@@ -5203,8 +5192,7 @@ __underwriter__
 __undies__  
 __undimpled__  
 __undue__  
-__unduly__  
-__unduly__  
+__unduly__ :two::shit:  
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
