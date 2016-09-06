@@ -818,9 +818,7 @@ __button man__
 __buttress__ (buttressed) :four: _v_ Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
 __buybacks__  
-__buyout__  
-__buyout__ (buyouts) :three: _n_ The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
-__buyout__ _n_  
+__buyout__ _n_ :five: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __buzz__ _Sending submarines to buzz Europe._  
 __buzzards__ _n_ :two::shit:  
 __buzzer__ _Durent Durent missed a floater at the buzzer__  
@@ -868,9 +866,7 @@ __cannolis__
 __canted__ _v_ :two::shit:  
 __canteens__  
 __cantering__ _v_ :two::shit:  
-__cap__ _v_ :four: (capped, capping) Provide a fitting climax or conclusion to. _The settlement is not capped._ _To cap the play._  
-__cap__ _v_ _The most capped player._  
-__cap__ _v_ _The wind was capping the water._  
+__cap__ _v_ :six: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capers__  
 __capitulation__  
 __capped__ _v_  
@@ -1738,9 +1734,7 @@ __fait accompli__
 __fall out of love__  
 __fallback__ _The fallback option._  
 __falloff__  
-__fallout__  
-__fallout__ :nine::arrow_up_small::o2: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._  
-__fallout__ _The Fukushima fallout._  
+__fallout__ :nine::arrow_up_small::o2: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
 __fallow__  
 __fame__ _v_  
@@ -1762,8 +1756,7 @@ __fast and furious__ :three: _Cliché_ Very rapidly and with unrestrained energy
 __fastidious__  
 __fat rolls__ :camera::shit: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fathom__ _v_  
-__fatwa__  
-__fatwa__ Religious edict.   
+__fatwa__ :two: Religious edict.   
 __faulty__ :dart: _Faulty software._  
 __fave__   
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
@@ -1974,8 +1967,7 @@ __fray<sup>1</sup>__ _n_
 __fray<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __frazzled__  
 __free lunch__  
-__freebies__ _The tickets come with some bonus freebies._  
-__freebies__ _n_ :two::shit:  
+__freebies__ _n_ :three::shit: _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_  
 __freewheeling__ (freewheeling style) :two::shit:  
@@ -1990,8 +1982,7 @@ __frisson__
 __frites__ _Steak frites._  
 __fritter__ _v_ :three::shit: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
 __fritters__ _Corn fritters._  
-__frolic__  
-__frolic__  
+__frolic__ :two::shit:  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front and center__ :two::shit:  
 __frontrunner__  
@@ -2280,13 +2271,11 @@ __haplessness__
 __happy about it__ _I'm not entirely happpy about it._  
 __haps__ _n_ :two::shit: _What's the haps?_  
 __harangues__  
-__harbinger__  
-__harbinger__ _n_  
+__harbinger__ _n_ :two::shit:  
 __hard hat__  
 __hard-boiled egg__  
 __hard-liners__ :two::shit:  
-__hard-nosed__  
-__hard-nosed__ _Hard-nosed approach._  
+__hard-nosed__ :two::shit: _Hard-nosed approach._  
 __hardpan__ :two::shit: _Hardpan dirt yards._  
 __hardscrabble__ _Hardscrabble journeys._  
 __hardship__ _n_ :five: (hardships) _n_ Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
@@ -2632,8 +2621,7 @@ __juggernaut__ :three::shit:
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::shit:  
 __juleps__  
-__jumble__ :two: An untidy collection or pile of things. _It was a real emotional jumble for me._  
-__jumble__ _Hylan has a jumble of strip malls._  
+__jumble__ :three: An untidy collection or pile of things. _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumpers__  
 __juncture__  
@@ -3185,8 +3173,8 @@ __nothing but the best__ :dart: _I wish her nothing but the best._
 __novella__  
 __noxious__  
 __nozzle__  
-__nuance__ (nuanced) _v_ :two: Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
-__nuance__ _n_ :dart: :two: A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
+__nuance<sup>1</sup>__ _n_ :dart: :two: A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
+__nuance<sup>2</sup>__ _v_ (nuanced) :two: Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nuances__  
 __nub__ _n_ :two::shit: _A punched nub._  
 __nugget__ (nuggets) :two::shit:  
@@ -4464,6 +4452,7 @@ __snags__ _n_
 __snap<sup>1</sup>__ _n_ :two::shit: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
 __snap<sup>2</sup>__ _v_  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
+__snare drum__ :es: tambor militar pequeño  
 __snare drums__  
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
