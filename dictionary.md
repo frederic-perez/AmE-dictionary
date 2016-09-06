@@ -223,7 +223,7 @@ __adenoidal__
 __adhesive__ _Double-stick adhesive strips._  
 __adjourne__ _v_ _The trip was adjourned to Feb. 1._  
 __adjunct__ _Adjunct professors._  
-__admonition__ _n_ :three::shit:  
+__admonition__ _n_ :four: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
 __adroit__  
 __adulation__  
@@ -365,8 +365,7 @@ __autocratic__
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __average citizens__  
 __averted__ _v_  
-__avocation__ _Her detective avocation._  
-__avocation__ _n_ An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
+__avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
 __avuncular__ :three::shit:  
 __awash__ :five: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
@@ -1972,11 +1971,7 @@ __frags__ _n_ _They taped frags to the tops of the drums._
 __frame grab__  
 __fraught__ :five: _adj_ __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_  
-__fray<sup>2</sup>__ _v_ :four: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._  
-__fray__ _v_  
-__frayed__  
-__frayed__ _Frayed nerves._  
-__frayed__ _v_ :two::shit: _A frayed suit._  
+__fray<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __frazzled__  
 __free lunch__  
 __freebies__ _The tickets come with some bonus freebies._  
@@ -2622,10 +2617,7 @@ __jockstrap__
 __joists__  
 __jokesmith__  
 __jolly__ _Jolly handshakes._  
-__jolt__  
-__jolt__ _A spending jolt by the military government._  
-__jolt__ _n_  
-__jolt__ _n_ _It was a jolt of good news._  
+__jolt__ _n_ :four::shit: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jonesing__ _v_  
 __joog__ _v_  
 __jostle anew__  
@@ -2773,8 +2765,8 @@ __lectern__
 __ledge__  
 __ledger__  
 __leer up__  
-__leer__ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
-__leer__ _n_  
+__leer<sup>1</sup>__ _v_ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
+__leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ :four: _adj_ _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._  
 __leeway__ :three::shit: _Allowing leeway for students who have low scores._  
 __lefty buckets__  
@@ -4119,10 +4111,7 @@ __scrub brush__
 __scruffy__ (scruffier) :two::shit:  
 __scrumptious__  
 __scrunched__ (scrunching) :two::shit:  
-__scud__ _v_  
-__scudded__ _v_  
-__scudding__  
-__scudding__ _v_  
+__scud__ _v_ :four::shit: (scudded, scudding)  
 __scuffed boots__  
 __scuffing__ _v_  
 __scuffle__ (scuffled) :four: _v_ Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
@@ -4506,6 +4495,7 @@ __snug__ _v__ :two::shit:
 __snuggles__  
 __sociopaths__  
 __sod__ _n_  
+__soft bread__  
 __soft-spoken__  
 __softly-softly__  
 __soggy__ :four: _adj_ Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
@@ -4589,9 +4579,8 @@ __spuckie__
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
 __spurring__ :three::shit:  
-__spurt__ (spurts) :four: _n_ A sudden gushing stream. _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
-__spurt__ _v_ :es: acelerar; hacer un esfuerzo supremo  
-__spurts__ _It has been raining in spurts._  
+__spurt<sup>1</sup>__ _n_ :five: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
+__spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __sputs__  
 __sputter__ _v_ :eight: (sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__  
@@ -4659,10 +4648,8 @@ __statutory__
 __staunch__ :three: _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __staunch__ _Federer is a staunch patriot._  
 __staunchest__ :two::shit:  
-__stave off__ :two::shit: _v_  
-__stave off__ _v_  
+__stave off__ _v_ :four::shit: (staved off)  
 __stave__ _v_  
-__staved off__  
 __staves__ _n_  
 __stay put__ :two::shit:  
 __stay__ _Granted a stay of execution._  
@@ -4706,8 +4693,7 @@ __stintful__
 __stipend__  
 __stipulate__  
 __stir__ _v_  
-__stirring__  
-__stirring__ _Stirring tales._  
+__stirring__ _adj_ :two::shit: _Stirring tales._  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
 __stocking-stuffers__  
@@ -4905,11 +4891,7 @@ __tardy__
 __target ball__  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ :three::shit: _v_ Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
-__tarp__  
-__tarp__  
-__tarp__ _n_  
-__tarp__ _n_  
-__tarp__ _n_  
+__tarp__ _n_ :five::shit:  
 __tarpon__  
 __tarps__ _n_  
 __tart__ _She'd bitten into something overly tart._  
@@ -5544,8 +5526,7 @@ __yearn__ _v_ __1__ :two: To have a strong, often sad longing: _yearn for a bett
 __yearning__ _n_ :four: Prolonged unfulfilled desire or need. _Syn_ longing  
 __yellow wine__  
 __yelps__ _Puppy yelps._  
-__yield__  
-__yield__ _Failing to yield to pedestrians._  
+__yield__ :two::shit: _Failing to yield to pedestrians._  
 __yin and yang__  
 __yips__  
 __yoke__ _Egg yoke._  
