@@ -85,7 +85,7 @@ __Holy See__
 __Huey__  
 __Humpty Dumpty__  
 __Humpty-Dumpty__ :two::shit:  
-__INRI__Iesu Nazareth, Rex Iudeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
+__INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __Ivy League__  
 __J-strokes__  
 __Jag__ Jaguar (car)  
@@ -848,9 +848,8 @@ __calisthenics__
 __call out__ _v_  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __calling card__  
-__calliopes__  
-__callous__  
-__callous__ :two: _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
+__calliopes__   
+__callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :three::dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __camellia__  
 __camo__  
 __camper shell__  
@@ -898,8 +897,7 @@ __catfish__ _n_ :two::shit:
 __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint 
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__caucus__  
-__caucus__ :two::shit: _Kentucky will hold a Republican caucus on March 5._  
+__caucus__ :three::shit: _Kentucky will hold a Republican caucus on March 5._  
 __causeway__ _n_ :two::shit:  
 __cave__ _v_ :three: Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
 __cavort__ _v_ _Animals cavorting._  
@@ -1837,9 +1835,7 @@ __flah point__
 __flail__ _v_ :three::shit: (flailed, flailing)  
 __flair__ :five: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flak vest__  
-__flak__ :two::shit: _Flak juice._  
-__flak__ _Lynch took flak for staying on the bench._  
-__flak__ _You're going to get so much (flak)._  
+__flak__ :four::shit: _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flameouts__  
 __flaming hair__  
 __flanker__ (soccer position)  
@@ -2061,9 +2057,7 @@ __gentrification__
 __gentry__  
 __genuflects__ _v_  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
-__get-go__  
-__get-go__ _The get-go._  
-__get-go__ _They wanted him to be Superman from the get-go._  
+__get-go__ :three::shit: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __ghoul__ :two::shit:  
 __gibblets__ _n_  
@@ -2498,9 +2492,7 @@ __improvidence__
 __in all likelihood__  
 __in short order__  
 __in the nude__ _Sleeping in the nude._  
-__in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._  
-__in__ _Jubilo scored in injury time__  
-__in__ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._  
+__in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_  
 __inadvertent__  
 __inane__  
 __inarticulate__ :two::shit: _Inarticulate people._ :es: incapaz de expresarse  
@@ -2945,8 +2937,7 @@ __maxim__ :es: máxima
 __mayhem__ :three::shit:  
 __meager__  
 __meandering__  
-__measles__  
-__measles__ Rubeola.  
+__measles__ :two::shit: :es: _Rubeola_  
 __mecca__ :two::shit:  
 __mechanical pencil__  
 __medallions__ _Taxi medallions._  
@@ -2998,9 +2989,7 @@ __minnow__
 __minnow__ (minnows) :two::shit:  
 __minstrel__  
 __mint bank notes__  
-__mire__  
-__mire__ _v_ :open_mouth:  
-__mired__ _v_ :three::shit:  
+__mire__ _v_ :open_mouth::four::shit: (mired)  
 __mirth__ _n_ :two::shit:  
 __miscreant__ :four::shit: (miscreants) :three::shit:  
 __misdemeanor__ :two::shit:  
@@ -3634,8 +3623,7 @@ __pulsating__
 __pummel__ :three::shit: _v_  
 __pump__ _n_ _I have seen low gas prices at the pump._  
 __pun__ :es: juego de palabras  
-__punch__ _v_ _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
-__punch__ _v_ _Punching a ticket._  
+__punch__ _v_ :three::shit: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punctuate__  
 __punctured__ _v_ _Punctured his tire._  
 __pungi__  
@@ -4722,8 +4710,7 @@ __stretch__ :two::shit: _An interesting stretch run in the NFC._
 __strewed__ _v_  
 __strewn__ :four::shit:  
 __stricken__ _v_ :three::shit:  
-__strictures__ :two::shit:  
-__strictures__ _The strictures on women's behavior were easing._  
+__strictures__ :three::shit: _The strictures on women's behavior were easing._  
 __strife__ _n_ :five: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._
 __string beans__  
@@ -4885,8 +4872,7 @@ __taunted__ (taunting)
 __taut__ _adj_  
 __tawdry__ :two: Poor, cheap quality.  
 __taxa__  
-__tchotchkes__  
-__tchotchkes__ _Simpson tchotchkes._  
+__tchotchkes__ :two::shit: _Simpson tchotchkes._  
 __teakwood__ :open_mouth:  
 __tear__ _The stock has been on a tear._  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
