@@ -85,7 +85,7 @@ __Holy See__
 __Huey__  
 __Humpty Dumpty__  
 __Humpty-Dumpty__ :two::shit:  
-__INRI__  
+__INRI__Iesu Nazareth, Rex Iudeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __Ivy League__  
 __J-strokes__  
 __Jag__ Jaguar (car)  
@@ -2388,8 +2388,8 @@ __hobnailed__ _v_
 __hobnailed__ _v_ _Hobnailed boots._  
 __hobnails__  
 __hod__ _n_  
-__hoe__ _n_  
-__hoe__ _v_  
+__hoe<sup>1</sup>__ _n_  
+__hoe<sup>2</sup>__ _v_  
 __hoeing__  
 __hoeing__ _Hoeing soybeans._  
 __hog cracklings__  
@@ -2441,8 +2441,7 @@ __huddle__
 __huff__  
 __huffed__ _v_ :four::shit: (huffing)  
 __huh__  
-__humble__ _v_  
-__humble__ _v_ _Another setbackhumbles NFL's most prolific passer._  
+__humble__ _v_ :two::shit: _Another setbackhumbles NFL's most prolific passer._  
 __humdrum__ :two::shit: _A humdrum office building._  
 __humidor__ _n_  
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
@@ -2638,8 +2637,7 @@ __keen__ _v_ (keening) :three::shit: _The native digital companies are keen on T
 __keep tabs on__ :es: vigilar  
 __keep up__  
 __keepsake__ :two: _n_ A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
-__ken__ _n_  
-__ken__ _n_  
+__ken__ _n_ :two::shit:  
 __kennel__  
 __kerkuffles__  
 __key up__ _He was too keyed up._  
@@ -2824,8 +2822,7 @@ __lob__
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __lockout__ _N.J. residents upset over island lockout._  
 __locks > alcohol ignition locks__  
-__lockstep__  
-__lockstep__  
+__lockstep__ :two::shit:  
 __locust__ :two::shit:  
 __loftily__  
 __lofty__  
@@ -3004,8 +3001,7 @@ __mint bank notes__
 __mire__  
 __mire__ _v_ :open_mouth:  
 __mired__ _v_ :three::shit:  
-__mirth__  
-__mirth__ _n_  
+__mirth__ _n_ :two::shit:  
 __miscreant__ :four::shit: (miscreants) :three::shit:  
 __misdemeanor__ :two::shit:  
 __misfire__ _One misfire in the 2000s._  
@@ -3991,8 +3987,7 @@ __sac-a-lait__
 __safeguard__  
 __sag__ (sagging) :five: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
 __sage__ _Sage counsel._  
-__sagging__ _The sagging hopes of miners._  
-__sagging__ _v_ :three::shit: _Sagging gallery._  
+__sagging__ _adj_ :four::shit: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
 __sakura__  
 __salacious__ :two::shit: _Salacious music._  
@@ -4344,9 +4339,8 @@ __skulking__
 __skullcap__  
 __sky high__  
 __slabs__ _Concrete slabs._  
-__slack__ :two::shit: _His jaw was slack._ _The rain had slackened._
-__slack__ _This is as much slack as you get, Jack._  
-__slacks__ :two::shit: _n_  
+__slack<sup>1</sup>__ _n_ :three::shit: _This is as much slack as you get, Jack._  
+__slack<sup>2</sup>__ _v_ :two::shit: _His jaw was slack._ _The rain had slackened._
 __slander__ _v_ :three::shit: (slandering)  
 __slant__  
 __slapjack__  
@@ -4466,8 +4460,7 @@ __snide__
 __sniffles__  
 __snoodlike__  
 __snootiness__  
-__snooty__  
-__snooty__  
+__snooty__ :two::shit:  
 __snort__  
 __snot rag__  
 __snout__ _n_  
@@ -4489,9 +4482,7 @@ __soft-spoken__
 __softly-softly__  
 __soggy__ :four: _adj_ Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
 __soiled__  
-__sojourn__ _n_ :two::shit: _The phantasmagorical sojourn along the freeways of LA._   
-__sojourner__  
-__sojourner__  
+__sojourn__ _n_ :four::shit: _The phantasmagorical sojourn along the freeways of LA._   
 __solder__  
 __soldier of fortune__  
 __soldiers__ _v_  
@@ -4733,8 +4724,7 @@ __strewn__ :four::shit:
 __stricken__ _v_ :three::shit:  
 __strictures__ :two::shit:  
 __strictures__ _The strictures on women's behavior were easing._  
-__strife__ _n_  
-__strife__ _n_ :four: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__strife__ _n_ :five: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._
 __string beans__  
 __string knife__ :two::shit:  
