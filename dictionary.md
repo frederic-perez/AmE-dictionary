@@ -986,7 +986,7 @@ __claimants__
 __clambering__  
 __clammy__  
 __clampdown__ :two::shit:  
-__clams_ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
+__clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clang__ _v_  
 __clanked__  
 __clap__ _n_ :two::shit: _Incurable clap._  
@@ -1074,6 +1074,7 @@ __commode__
 __commoditization__  
 __communiqué__ (communiqués) :two::shit:  
 __compasionate__  
+__compassionate__  
 __compel__ _v_  
 __compelling__ _v_  
 __compliance__ _Compliance guy._  
@@ -2986,7 +2987,7 @@ __mire__ _v_ :open_mouth::four::shit: (mired)
 __mirth__ _n_ :two::shit:  
 __miscreant__ :four::shit: (miscreants) :three::shit:  
 __misdemeanor__ :two::shit:  
-__misfire__ _One misfire in the 2000s._  
+__misfire__ _v_ (misfiring) :two::shit: _One misfire in the 2000s._  
 __misgivings__  
 __mishap__  
 __mishmash__  
@@ -3397,7 +3398,8 @@ __picklock__ _v_
 __pickoff__ _A pickoff throw to first base._  
 __picture-perfect__ _The picture-perfect porch._  
 __piece of work__ _You're a piece of work, Bertrand._  
-__piecemeal__ :four::shit: _A piecemeal approach._ :es: poco a poco  
+__piecemeal<sup>1</sup>__ _adv_ :two: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
+__piecemeal<sup>2</sup>__ _adj_ :two:  Accomplished or made in stages. _A piecemeal approach._  
 __pig iron__ _n_ :two::shit:  
 __pigboat__ _n_  
 __pileup__  
@@ -3782,8 +3784,7 @@ __reefer__ :two::shit: _He was hitting on a reefer._
 __reefs__  
 __reek<sup>1</sup>__ _n_  
 __reek<sup>2</sup>__ _v_ :six: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
-__reel__ _v_ (economy)  
-__reeling__ :four::shit: _Reeling economy._  
+__reel__ _v_ :five: (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __referenda__  
 __refurbish__  
 __regal__ :three::shit:  
@@ -3922,7 +3923,7 @@ __rouler__ _Will 'NCIS' roulerinto a new city next year?_
 __round out__  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
-__rout__ :four::shit: _n_  
+__rout__ _n_ :four: An overwhelming defeat.  
 __row house__ _n_  
 __rowdy__ :five: /ˈraʊdi/ _adj_ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rub elbows__ _v_  
@@ -3931,7 +3932,7 @@ __rubbings__ _n_
 __rucksack__  
 __ruckus__  
 __ruckus__ _The comment caused a ruckus._  
-__ruddy__ :four::shit: _Until her skin was ruddy._  
+__ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rue__ _v_ _Pa. town rues sacrifice of its war dead._  
 __rueful__ _He gave a rueful smile._  
 __ruffled__ (ruffling) :two::shit: _v_  
