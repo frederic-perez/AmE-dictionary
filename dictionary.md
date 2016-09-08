@@ -1060,8 +1060,7 @@ __collarbone__
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collusion__ :two::shit:  
 __colossal__  
-__coma__ _Medically induced coma._  
-__coma__ _Schumacher out of coma._  
+__coma__ :two::shit: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
 __combines__ _Basketball_  
 __come around__  
@@ -1498,8 +1497,7 @@ __downturns__ :two::shit:
 __dowry__  
 __doyenne__  
 __doze__ _v_  
-__drab__ (drabber jobs) :two: _adj_ Dull or commonplace in character; dreary: _a drab personality._  
-__drab__ _Drab cities._  
+__drab__ _adj: :three: (drabber jobs) _adj_ Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
 __draconian__ :two::shit:  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag racing__  
@@ -1852,8 +1850,7 @@ __flatware coins__
 __flaunting__  
 __flay__ _v_  
 __fleck__ _n_  
-__fledgling__ :six: :open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped.  
-__fledgling__ _fledgling entrepreneurs._  
+__fledgling__ :six: :open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __fleece__ (fleeced) :two::shit:  
 __fleecy__  
 __fleshed out__  
@@ -2041,8 +2038,7 @@ __gash<sup>2</sup>__ _v_ :two::shit: (gashing)
 __gaskets__  
 __gasped__  
 __gat__  
-__gaudy__  
-__gaudy__ :two: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: chillón, hortera  
+__gaudy__ :three: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gaunt__ :four::shit: _Gaunt eyes._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
@@ -2301,11 +2297,9 @@ __hazard__ _A 465-yard  par with a water hazard._
 __hazardous__  
 __haze__ (hazing) :two::shit: _v_ _Allegations of hazing and telling._  
 __hazmat suit__  
-__head and shoulders__  
-__head and shoulders__ _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
+__head and shoulders__ :two::shit: _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head wind__  
-__headdress__  
-__headdress__ _n_ _The pharaoh's headdress._  
+__headdress__ _n_ :two::shit: _The pharaoh's headdress._  
 __header__ _He scored with a header._  
 __headway > make headway__ :shit::two: _Secetary Kerry has made headway against the odds._   
 __headwind__ :five: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
@@ -2506,8 +2500,7 @@ __incidentally__
 __inconsequential__  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incubus__  
-__incumbent__  
-__incumbent__ _An incumbent president._  
+__incumbent__ :two::shit: _An incumbent president._  
 __indefatigable__ :two: :open_mouth: _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
 __indelible__ :two::shit: :open_mouth:  
 __indict__ _v_ :two::shit:  
@@ -3496,8 +3489,7 @@ __plump__ _Plump and juicy hotdogs._
 __plums__ _n_  
 __plunder__  
 __plush__ :three::shit: _To plush cabin amenities._  
-__ply__ _v_  
-__ply__ _v_ _It is the perfecting designed environment to ply his trade._  
+__ply__ _v_ :two::shit: _It is the perfecting designed environment to ply his trade._  
 __po'-boy sandwiches__  
 __poach__ _v_  
 __poaching__ _Poaching has become socially unacceptable._  
@@ -4084,9 +4076,8 @@ __scrumptious__
 __scrunched__ (scrunching) :two::shit:  
 __scud__ _v_ :four::shit: (scudded, scudding)  
 __scuffed boots__  
-__scuffing__ _v_  
-__scuffle__ (scuffled) :four: _v_ Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
-__scuffle__ _n_ _The scuffle and scrape of rubber soles._  
+__scuffle<sup>1</sup>__ _v_ :five: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
+__scuffle<sup>2</sup>__ _n_ _The scuffle and scrape of rubber soles._  
 __scumbags__  
 __scupper__ _v_  
 __scuppers__ _n_ :two::shit:  
@@ -4592,8 +4583,8 @@ __stamped__
 __stance__ :five: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stand tall__  
 __standings__ :two: _Pac-12 Standings_ _:es: clasificación_  
-__standout__ :five: _Informal_ _adj_ Exceptionally good. _He became a standout quarterback in the NFL._  
-__standout__ :two::shit: _PGA tour standout._ _A welterweight standout._  
+__standout<sup>1</sup>__ _adj_ :five: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
+__standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
 __standstill__ _n_ :two::shit: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __staph__ _Staph infections._  
 __staple__ _n_  
