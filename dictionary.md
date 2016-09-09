@@ -2458,6 +2458,7 @@ __idiocracy__ _Frank is sick and tired of how America has become a state of idio
 __iffy__ :two::shit: _Iffy call._  
 __ignition interlocks__  
 __ilk__ _n_ Type or kind: _can't trust people of that ilk._  
+__illiterate__  
 __illustrious__ :two::shit::open_mouth: _An illustrious career._  
 __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immigrated__  
@@ -2782,6 +2783,8 @@ __list > listing boat__
 __listing__  _One current listing is a $30 million property._    
 __listless__  
 __litany__ :three: _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__literacy__  
+__literate__  
 __lithe__  
 __litigation__  
 __live wire__  
@@ -4038,8 +4041,8 @@ __scrambles__ _v_
 __scrap iron__ :es: chatarra?  
 __scrap<sup>1</sup>__ _n_ :two::shit: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>3</sup>__ _v_ :five::shit: (scrapped)  
-__scrapper__  
 __scrap__ _v_ :two: (scraps) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._   
+__scrapper__  
 __scrawled__ _v_  
 __scrawny__  
 __scream-o-meter__  
