@@ -1229,8 +1229,7 @@ __crumb__ _Potato chip crumb._
 __crumbled__  
 __crumbling__ _Crumbling sidewalk._  
 __crumbs__   
-__crummy__ _Crummy Bears vs crummy Vikings._  
-__crummy__ _He had a crummy life._  
+__crummy__ :two::shit: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_  
 __crumpled__ _v_  
 __crumpling__  
@@ -1416,9 +1415,8 @@ __disinfectant__ :open_mouth: _n_ An agent, such as heat, radiation, or a chemic
 __disingenuousness__  
 __dismal__ _adj_ :three: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
 __dismissive__ _Healthy young adults often are dismissive of health issues._  
-__disparagement__ :two:  
-__disparaging__  
-__disparaging__  
+__disparagement__ :two::shit:  
+__disparaging__ :two::shit:  
 __dispatch__ _v_  
 __dispatcher__ _n_  
 __dispel__ _v_ :two::shit: (dispelled)  
@@ -2342,8 +2340,7 @@ __herky__ (herky-jerky driving)
 __herons__ :two::shit:  
 __hew__ _v_ :five::shit: (hewing, hewn)  
 __hex key set__ _Allen key set?_  
-__heyday__  
-__heyday__  
+__heyday__ :two::shit:  
 __hibachi__  
 __hickory shaft__  
 __hickory__  
@@ -2979,8 +2976,7 @@ __mince__ :two: _v_ Cut up (food, especially meat) into very small pieces, typic
 __minder__ :es: guardaespaldas  
 __mindful__  
 __minie balls__  
-__minnow__  
-__minnow__ (minnows) :two::shit:  
+__minnow__ :three::shit: (minnows) :two::shit:  
 __minstrel__  
 __mint bank notes__  
 __mire__ _v_ :open_mouth::four::shit: (mired)  
@@ -3109,8 +3105,7 @@ __nefarious__
 __nematodes__  
 __neoteric__  
 __nepotism__  
-__nest egg__  
-__nest egg__  
+__nest egg__ :two::shit:  
 __nether__  
 __neutered__  
 __news media outlets__  
@@ -4274,8 +4269,7 @@ __silt__ _n_ :three::shit:
 __silver lining__  
 __silverplate__ _v_  
 __simmer down__  
-__simmer__ (simmers, simmering) :four: _v_ (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
-__simmer__ _v_  
+__simmer__ _v_ :five: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __sinew__ :three::shit:  
 __sinewy__ _adj_ :five::shit: _A sinewy man._  
 __singed__ _v_  
@@ -5188,13 +5182,11 @@ __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or d
 __vacant-eyed__  
 __vagaries__ :three::shit: _The vagaries of economics._  
 __vagrants__  
-__valedictorian__  
-__valedictorian__  
+__valedictorian__ :two::shit:  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __vamping__ :two::shit:  
 __vampire squid__  
-__vane__ _A smooth metal weather vane._  
-__vane__ _n_ _A weather vane._   
+__vane__ _n_ :two::shit: _A smooth metal weather vane._ _A weather vane._   
 __vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vapid__  
 __variety store__  
@@ -5295,10 +5287,8 @@ __water cooler__
 __water down__ :two::shit:  
 __water seepage__  
 __waterfowl__ :two::shit:  
-__waterfront__  
-__waterfronts__ _n_  
-__watershed__  
-__watershed__ _Dignataries recognized the watershed moment pf his passing._  
+__waterfront__ _n_ :two::shit:  
+__watershed__ :two::shit: _Dignataries recognized the watershed moment of his passing._  
 __waterway__  
 __wavering__ _A wavering statement._  
 __wayposts__  
@@ -5386,8 +5376,7 @@ __widebody__ _Widebody jet._
 __wield__ (wielding) :four: _v_ Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish  
 __wielded__  
 __wiener dog__  
-__wiggle__ _The worm that lost its wiggle._  
-__wiggle__ _n_ _A wiggle in Waller Creek._  
+__wiggle__ _n_ :two::shit: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wigglers__  
 __wildling__ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wilful__  
