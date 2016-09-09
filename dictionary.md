@@ -1503,11 +1503,9 @@ __drag racing__
 __drag__  
 __dragnet__  
 __drain board__ _n_ :three::shit: (drainboard)  
-__drape__ (draping) :three::shit: _v_  
-__draped__ _v_  
+__drape__ _v_ :four::shit: (draped, draping)  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
-__drawl__  
-__drawl__ _n_ _A Southern drawl._  
+__drawl__ _n_ :two::shit: _A Southern drawl._  
 __dread__ _v_  
 __dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga    
@@ -1899,8 +1897,7 @@ __fly-by-night__
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __flying colors__ :two::shit:  
 __fob__ :two::shit:  
-__fodder__ :five: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
-__fodder__ _Cannon fodder._  
+__fodder__ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __foible__ :two: _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
 __foiled__ _v_  
 __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
@@ -2368,16 +2365,12 @@ __hitherto__
 __ho-hum__  
 __ho__  
 __hoary__ :two::shit:  
-__hobble__ _v_  
-__hobbled__  
-__hobnailed__ _v_  
-__hobnailed__ _v_ _Hobnailed boots._  
+__hobble__ _v_ :two::shit: (hobbled)  
+__hobnailed__ :two::shit: _v_ _Hobnailed boots._  
 __hobnails__  
 __hod__ _n_  
-__hoe<sup>1</sup>__ _n_  
-__hoe<sup>2</sup>__ _v_  
-__hoeing__  
-__hoeing__ _Hoeing soybeans._  
+__hoe<sup>1</sup>__ _n_ A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
+__hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._  
 __hog cracklings__  
 __hog the sofa__  
 __hog__ (hogged) :two: _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To take more than one's share of: _Don't hog the couch._  
@@ -2765,8 +2758,7 @@ __liability__ :two::shit:
 __liaison__ 
 __libation__  
 __libel__  
-__lice__ :three::shit: _Checked him for lice._  
-__lice__ _Nits make lice._  
+__lice__ :four::shit: _Checked him for lice._ _Nits make lice._  
 __licorice__ :three::shit::camera::shit: _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __liege__  
@@ -3267,9 +3259,7 @@ __overtake__ _n_ _He made overtakes._
 __overwrought__ _Overwrought adults_  
 __owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
 __own up__  
-__oxblood cowboy boots__  
-__oxblood__  
-__oxblood__  
+__oxblood__ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
 __pablum__ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
 __package deal__  
 __padlock__  
@@ -3870,10 +3860,8 @@ __ringmaster__
 __ringside__  
 __rip your wiring out__  
 __riparian__ _Riparian woodland._  
-__ripe__  
-__ripe__ _A ripe subject.__  
-__ripe__ _Ripe material._  
-__ripened__ _Ripened peach._  
+__ripe__ :adj: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _Ripe material._  
+__ripened__ _adj_ Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._  
 __riposte__  
 __ripped__ _v_  
 __rippled__ _v_ :two::shit:  
@@ -4051,9 +4039,7 @@ __scrap iron__ :es: chatarra?
 __scrap<sup>1</sup>__ _n_ :two::shit: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>3</sup>__ _v_ :five::shit: (scrapped)  
 __scrapper__  
-__scrapping__ _A boy spends the next four decades scrapping._  
-__scrapping__ _v_  
-__scraps__ _v_  
+__scrap__ _v_ :two: (scraps) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._   
 __scrawled__ _v_  
 __scrawny__  
 __scream-o-meter__  
@@ -4952,8 +4938,7 @@ __tinderbox__
 __tinderdry__  
 __tines__  
 __tinge__  
-__tingled__ (tingling) :two::shit:  
-__tingled__ _v_  
+__tingle__ _v_ :three: (tingled, tingling) Cause a stinging or tingling sensation.  
 __tink__ _v_  
 __tipoff__  
 __tipple__  
@@ -5192,8 +5177,7 @@ __vapid__
 __variety store__  
 __varsity__ :two::shit: _He started dating another varsity athlete._  
 __vastly__  
-__vat__ _My daughters are dipped in a vat of sunscreen every morning._  
-__vat__ _n_ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
+__vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
 __vaunted__ _His vaunted political organization._  
 __velvet rope__  
