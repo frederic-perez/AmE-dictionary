@@ -4,6 +4,23 @@
 
 
 
+__outspoken__  
+__typecast__ :open_mouth: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
+__purported__ _v_ _JFK's purported affairs._  
+__rammed__ _v_ _JFK's PT boat was rammed._  
+__dog__ _v_ :open_mouth: _ Injury concerns still dog Clowney._  
+__dickens__ _Psychosomatic afflictions hurt like the dickens._  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
