@@ -1,6 +1,31 @@
 
 
 
+__medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
+ __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
+__signees__ _Malory was one of four singnees._  
+__gun show__  
+__amassed__ _v_  
+__barring__ _v_  
+__minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
+__outshine__ _v_  
+__Cincy__ Cincinnati?  
+__Katy__ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
+__insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
+__outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
+__Ames__ _Ames, Iowa._  
+__rally__ _v_ _Oklahoma State trailed 24-7 before rallying for a victory._  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
