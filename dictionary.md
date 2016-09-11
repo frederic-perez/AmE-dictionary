@@ -1,3 +1,19 @@
+__avert__  
+__get enough__  
+__holdup__ _v_  
+__mothballed__  
+__broken English__  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
