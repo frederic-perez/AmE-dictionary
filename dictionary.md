@@ -1,73 +1,3 @@
-__avert__  
-__get enough__  
-__holdup__ _v_  
-__mothballed__  
-__broken English__  
-
-
-
-
-
-
-
-
-__shutout__ _It was the Tigers's fifth consecutive shutout._ 
-
-__tip-off__  
-__international friendly_
-
-
-
-
-
-
-
-
-_  
-
-
-
-
-
-__medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
- __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
-__signees__ _Malory was one of four singnees._  
-__gun show__  
-__amassed__ _v_  
-__barring__ _v_  
-__minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
-__outshine__ _v_  
-__Cincy__ Cincinnati?  
-__Katy__ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
-__insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
-__outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
-__Ames__ _Ames, Iowa._  
-__rally__ _v_ _Oklahoma State trailed 24-7 before rallying for a victory._  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-__outspoken__  
-__typecast__ :open_mouth: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
-__purported__ _v_ _JFK's purported affairs._  
-__rammed__ _v_ _JFK's PT boat was rammed._  
-__dog__ _v_ :open_mouth: _ Injury concerns still dog Clowney._  
-__dickens__ _Psychosomatic afflictions hurt like the dickens._  
-
-
-
-
-
 
 
 
@@ -89,6 +19,7 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __Achilles heel__ A weakness or vulnerable point.  
 __Aha! moment__  
+__Ames__ _Ames, Iowa._  
 __Argentine__ _The pope is an Argentine._  
 __Attn__  
 __Austinites__  
@@ -111,6 +42,7 @@ __Chancellor__
 __Chicken Little__ (Chicken Littles) _n_ An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __Chiuaua__  
 __Chugging beers__  
+__Cincy__ Cincinnati?  
 __Collins glass__  
 __Concacaf__  
 __Coptic__  
@@ -167,6 +99,7 @@ __K-12__ :two::shit: _K-12 population._ _K-12 students._
 __K-9__ _A K-9 van._  
 __K-pop__  
 __KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxing match; knock out.  
+__Katy__ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
 __Kodiak__  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __Labrador__  
@@ -342,6 +275,7 @@ __altitude sickness__
 __alum__ :two::shit: _A Vanderbilt alum._  
 __aluminum__  
 __amass__ _v_ (amassed, amassing) :two::shit::open_mouth: :es: amontonar, acumular  
+__amassed__ _v_  
 __amble__ (ambled) :two::shit: _v_ _Giraffes amble along the savannah._  
 __amends__  
 __amenity kits__  
@@ -434,6 +368,7 @@ __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with ab
 __autocratic__  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __average citizens__  
+__avert__  
 __averted__ _v_  
 __avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
@@ -507,6 +442,7 @@ __barre__
 __barrel__ _v_ _Callous barreling against traffic._  
 __barrette__ :two::shit:  
 __barring__  
+__barring__ _v_  
 __basement__  
 __basin__  
 __basing__  
@@ -767,6 +703,7 @@ __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._
 __breakout__ :three::shit: _He's a total breakout character._  
 __breakwater__ _n_  
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
+__breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breech__ _n_ :four::shit:  
 __brethen__  
 __brethren__ _Political brethren._  
@@ -791,6 +728,7 @@ __broached__ _v_
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __brocade__  
 __brogue__  
+__broken English__  
 __broken accent__  
 __broker__ _v_ :four: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::shit:  
@@ -1440,6 +1378,7 @@ __deviled eggs__ :two::shit:
 __devolve__ _v_ _The party must devolve power._  
 __dicey__ :two::shit: _That's dicey._  
 __dichotomy__  
+__dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __diction__ _The priest diction._  
 __diddle-shit__  
 __diddle-squat__  
@@ -1517,6 +1456,7 @@ __doeskin__ _A doeskin wallet._
 __doff__ (doffing) :two::shit: _v_ _Doff his hat._  
 __dog sledding__  
 __dog tag__  
+__dog__ _v_ :open_mouth: _Injury concerns still dog Clowney._  
 __dog__ _v_ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
 __doghouse__  
@@ -2119,6 +2059,7 @@ __gentrification__
 __gentry__  
 __genuflects__ _v_  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
+__get enough__  
 __get-go__ :three::shit: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __ghoul__ :two::shit:  
@@ -2276,6 +2217,7 @@ __gumball__
 __gumbo__ :three::shit: _Gumbo appetizer bowls._ _Cultural gumbo._  
 __gumption__  
 __gums__ _n_  
+__gun show__  
 __gun-shy__  
 __gunbull__ :two::shit:  
 __gung-ho__  
@@ -2451,6 +2393,7 @@ __hold up a fish__
 __hold water__  
 __holding sway__  
 __holdout__ :two::shit: _A weeklong holdout._  
+__holdup__ _v_  
 __hole up__ _v_  
 __holloware bullion__ 
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
@@ -2589,11 +2532,13 @@ __insipid__
 __installment__ :two: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
 __institute__ _v_  
+__insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
 __intel__ _The intel value he might offer._  
 __intemperance__  
 __interdicting__  
 __interlopers__  
 __intermittent__  
+__international friendly__  
 __interspersed__ :two::shit:  
 __intervene__ _v_  
 __invective__ :three::shit:  
@@ -3000,6 +2945,7 @@ __medallions__ _Taxi medallions._
 __medevac helicopter__  
 __medevac__ _v_  
 __medical discharge__ _A medical discharge._  
+__medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __mellow__  
 __meltdown__ :four::shit:  
@@ -3044,6 +2990,7 @@ __minie balls__
 __minnow__ :three::shit: (minnows) :two::shit:  
 __minstrel__  
 __mint bank notes__  
+__minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
 __mire__ _v_ :open_mouth::four::shit: (mired)  
 __mirth__ _n_ :two::shit:  
 __miscreant__ :four::shit: (miscreants) :three::shit:  
@@ -3094,6 +3041,7 @@ __morsel__
 __mosh__  
 __mosques__  
 __moth__ :two::shit:  
+__mothballed__  
 __mothballed__ :two::shit: _v_  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motley__ :four::shit: _Motley crew._  
@@ -3295,6 +3243,7 @@ __outcry__ :six: __1__ An exclamation or shout. __2__ A strong expression of pub
 __outfit__  
 __outfits__ _n_  
 __outfoxed__  
+__outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__  
 __outing__ (outings) :three::shit:  
 __outlandish__ :four: _adj_ Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._  
@@ -3311,7 +3260,9 @@ __outriggers__
 __outright__ _adj?_  
 __outré__  
 __outset__ _n_ :two::shit:  
+__outshine__ _v_  
 __outsize__ :two::shit: _An outsize risk._  
+__outspoken__  
 __outspoken__ :open_mouth: :three: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
@@ -3684,6 +3635,7 @@ __punt__ _Football_
 __puny__ _A puny garden snail._  
 __purloin__ _v_ :two::shit: (purloined)  
 __purloined__  
+__purported__ _v_ _JFK's purported affairs._  
 __purse__ _v_ _His lips pursed._  
 __purveyor__ _n_ :three::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ _Pus bags_  
@@ -3752,11 +3704,13 @@ __rainout__
 __raked over the coals__  
 __raking__ _v_  
 __rally__ _v_ :four::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._  
+__rally__ _v_ _Oklahoma State trailed 24-7 before rallying for a victory._  
 __ram__ _v_  
 __ramblers__ _n_  
 __rambling__ _v_ :four::shit:  
 __rambunctious__  
 __ramen restaurant__  
+__rammed__ _v_ _JFK's PT boat was rammed._  
 __ramming__  
 __ramp up__ :two::shit:  
 __rampage__ :two::shit:  
@@ -4303,6 +4257,7 @@ __shush__ _v_
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
 __shutout__ :three::shit: _Hockey_ _Last year, the NL won in a shutout._  
+__shutout__ _It was the Tigers's fifth consecutive shutout._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__ _Just shy of its highest mark._  
@@ -4321,6 +4276,7 @@ __sieve__
 __sift__ :three: _v_ __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __signage__ Signs collectively.  
 __signee__  
+__signees__ _Malory was one of four singnees._  
 __signet ring__  
 __sill__ :two::shit:  
 __silo__  
@@ -5013,6 +4969,7 @@ __tines__
 __tinge__  
 __tingle__ _v_ :three: (tingled, tingling) Cause a stinging or tingling sensation.  
 __tink__ _v_  
+__tip-off__  
 __tipoff__  
 __tipple__  
 __tipster__  
@@ -5156,6 +5113,7 @@ __twitch<sup>1</sup>__ _n_
 __twitch<sup>2</sup>__ _v_ :two::shit:  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two-timer__  
+__typecast__ :open_mouth: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyrant__ :two::shit:  
 __ugh__  
 __ukuleles__  
