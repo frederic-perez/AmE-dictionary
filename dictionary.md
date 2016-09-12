@@ -48,6 +48,7 @@ __Concacaf__
 __Coptic__  
 __Crescent City__  
 __D-ring inset__  
+__DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __DEA__  
 __DWI__  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
@@ -353,8 +354,7 @@ __at odds__
 __at the earliest__  
 __at the very least__  
 __atavistic__ :three::shit:  
-__atone__ _v_  
-__atone__ _v_  
+__atone__ _v_ :two::shit:  
 __attack dog__ _n_  
 __attainability__  
 __attest__ _v_  
@@ -659,8 +659,8 @@ __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers fo
 __boosters__ _Mississippi boosters._  
 __bop__ _v_  
 __bordello__  
-__bore<sup>2</sup>__ _n_ _She once was into a stone bore._  
 __bore<sup>1</sup>__ _v_ _Boring a tunnel._  
+__bore<sup>2</sup>__ _n_ _She once was into a stone bore._  
 __bosom__  
 __botched__  
 __bottle fly__ _n_  
@@ -2281,8 +2281,8 @@ __harshest__
 __hash__ _I'm gonna cook his hash, man._  
 __hasp__ _The hasp and padlock had been splintered loose from the wood._  
 __hasty__  
-__hatch__ _n_ _Hatch of insects._  
-__hatch__ _v_ (hatched) :two::shit: _Hatching tech secrets._  
+__hatch<sup>1</sup>__ _n_ _Hatch of insects._  
+__hatch<sup>2</sup>__ _v_ (hatched) :two::shit: _Hatching tech secrets._  
 __haughty__ _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
@@ -3930,8 +3930,7 @@ __rub elbows__ _v_
 __rub__ _n_  
 __rubbings__ _n_  
 __rucksack__  
-__ruckus__  
-__ruckus__ _The comment caused a ruckus._  
+__ruckus__ :two::shit: _The comment caused a ruckus._  
 __ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rue__ _v_ _Pa. town rues sacrifice of its war dead._  
 __rueful__ _He gave a rueful smile._  
@@ -4343,8 +4342,7 @@ __slick<sup>2</sup>__ _v_ :two::shit:
 __slick<sup>3</sup>__ _adj_ :five::shit: _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _They were slick as hell._  
 __slide__ :two::shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _n_ :three::shit: _What's up with someone's slider?_  
-__slight__  
-__slight__ _The opera itself is slight._  
+__slight__ :two::shit: _The opera itself is slight._  
 __slighted__  
 __slim jim__ _n_ :two::shit: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__  
@@ -4603,8 +4601,7 @@ __statesman__
 __statesmen__ (notice, not 'statement')  
 __statutory rape__  
 __statutory__  
-__staunch__ :three: _adj_ __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
-__staunch__ _Federer is a staunch patriot._  
+__staunch__ _adj_ :four: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __staunchest__ :two::shit:  
 __stave off__ _v_ :four::shit: (staved off)  
 __stave__ _v_  
