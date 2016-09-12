@@ -3,6 +3,38 @@
 
 
 
+__conduct__ _Suspended two games for violating the league's personal conduct policy._  
+__unsightly__ _Manning looking at unsightly ending._  
+__tarnish__ _v_  
+__bum__ _A bum foot._  
+__groundbreaker__ _n_  
+__smitten__ _He was smitten._  
+__bore__ _She just went full bore._  
+__ha!__  
+__inception__  
+__smug__ _adj_  
+__pariah__ _n_  
+__haughty__  
+__self-righteous__  
+__bravado__   
+__taunts__ _n_  
+__payback__  
+__clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
+__ensuing__  
+__flinging__ _Johnson isn't just flinging it._  
+__audible__ _v_  
+__throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
+__gym-rat__ _He's a gym-rat type of guy._  
+
+
+
+
+
+
+
+
+
+
 
 
 
