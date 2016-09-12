@@ -383,8 +383,7 @@ __back breaker__
 __back out__  
 __back-heel pass__  
 __back-to-back__ :three: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._    
-__backdrop__  
-__backdrop__ :two: _These massacres took place against the backdrop of a war._  
+__backdrop__ :three::shit: _These massacres took place against the backdrop of a war._  
 __backlog__ :two: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backsplash__ _n_ _A new tile backsplash._  
 __backwoods__  
@@ -441,8 +440,7 @@ __barrage__ :four: _n_ __1__ A concentrated discharge or bombardment of artiller
 __barre__  
 __barrel__ _v_ _Callous barreling against traffic._  
 __barrette__ :two::shit:  
-__barring__  
-__barring__ _v_  
+__barring__ _v_ :two::shit:  
 __basement__  
 __basin__  
 __basing__  
@@ -571,9 +569,7 @@ __blanket__ :two::shit: _The security blanket._
 __blanketed__ _v_ (blanketing) :two::shit:  
 __blather__  
 __blaze of glory__  
-__bleak__ :six: _adj_ __1__ (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ (of the weather) Cold and miserable. _A bleak midwinter's day._ _Syn_ cold, keen, raw, harsh, wintry  
-__bleak__ _Looks bleak._  
-__bleak__ _The book is somewhat bleak in its vision._  
+__bleak__ _adj_ __1__ :three: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :two: (of the weather) Cold and miserable. _A bleak midwinter's day._ _Syn_ cold, keen, raw, harsh, wintry   
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleary__ :two::shit:  
 __bleated__ _v_ :three::shit: (bleating) _His walkie-talkie bleated._  
@@ -657,15 +653,14 @@ __bookish__
 __boom and bust__  
 __boomer chains__  
 __booms__ _n_ :two::shit:  
-__boon__ /buːn/ :three: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
-__boon__ _A boon to families who want to ski together._  
+__boon__ /buːn/ :four: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondoggle__ :two::shit:  
 __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boosters__ _Mississippi boosters._  
 __bop__ _v_  
 __bordello__  
-__bore__ _She once was into a stone bore._  
-__bore__ _v_ _Boring a tunnel._  
+__bore<sup>2</sup>__ _n_ _She once was into a stone bore._  
+__bore<sup>1</sup>__ _v_ _Boring a tunnel._  
 __bosom__  
 __botched__  
 __bottle fly__ _n_  
@@ -1456,8 +1451,7 @@ __doeskin__ _A doeskin wallet._
 __doff__ (doffing) :two::shit: _v_ _Doff his hat._  
 __dog sledding__  
 __dog tag__  
-__dog__ _v_ :open_mouth: _Injury concerns still dog Clowney._  
-__dog__ _v_ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
+__dog__ _v_ :two::shit: :open_mouth: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
 __doghouse__  
 __dogleg__ :two::shit: _A dogleg twenty-gauge in his hand._  
@@ -1532,8 +1526,7 @@ __drive__ _The drive by Senate Democrats to change the rules._
 __drivetrains__  
 __drizzle__ :two::shit:  
 __drizzled__  
-__droll__  
-__droll__ _There is room for droll comedy._  
+__droll__ :two::shit: _There is room for droll comedy._  
 __drone__ _The drone of an outboard motor reverberated._  
 __drop by__ _v_  
 __drop-in__ _A drop-in center._  
@@ -3041,8 +3034,7 @@ __morsel__
 __mosh__  
 __mosques__  
 __moth__ :two::shit:  
-__mothballed__  
-__mothballed__ :two::shit: _v_  
+__mothballed__ :three::shit: _v_  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motley__ :four::shit: _Motley crew._  
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
@@ -3262,8 +3254,7 @@ __outré__
 __outset__ _n_ :two::shit:  
 __outshine__ _v_  
 __outsize__ :two::shit: _An outsize risk._  
-__outspoken__  
-__outspoken__ :open_mouth: :three: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
+__outspoken__ :open_mouth: :four: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
 __over the moon__ _British Informal_ Extremely happy; delighted. _We are over the moon._  
@@ -3703,8 +3694,7 @@ __rain slickers__ _n_
 __rainout__  
 __raked over the coals__  
 __raking__ _v_  
-__rally__ _v_ :four::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._  
-__rally__ _v_ _Oklahoma State trailed 24-7 before rallying for a victory._  
+__rally__ _v_ :five::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._  
 __ram__ _v_  
 __ramblers__ _n_  
 __rambling__ _v_ :four::shit:  
@@ -4256,8 +4246,7 @@ __shunned__
 __shush__ _v_  
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
-__shutout__ :three::shit: _Hockey_ _Last year, the NL won in a shutout._  
-__shutout__ _It was the Tigers's fifth consecutive shutout._  
+__shutout__ :four::shit: _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__ _Just shy of its highest mark._  
