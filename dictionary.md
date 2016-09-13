@@ -3,38 +3,6 @@
 
 
 
-__conduct__ _Suspended two games for violating the league's personal conduct policy._  
-__unsightly__ _Manning looking at unsightly ending._  
-__tarnish__ _v_  
-__bum__ _A bum foot._  
-__groundbreaker__ _n_  
-__smitten__ _He was smitten._  
-__bore__ _She just went full bore._  
-__ha!__  
-__inception__  
-__smug__ _adj_  
-__pariah__ _n_  
-__haughty__  
-__self-righteous__  
-__bravado__   
-__taunts__ _n_  
-__payback__  
-__clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
-__ensuing__  
-__flinging__ _Johnson isn't just flinging it._  
-__audible__ _v_  
-__throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
-__gym-rat__ _He's a gym-rat type of guy._  
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -395,6 +363,7 @@ __attrition__ :two::shit:
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __au shops__  
 __auburn__  
+__audible__ _v_  
 __autoclaving__  
 __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocratic__  
@@ -693,6 +662,7 @@ __bop__ _v_
 __bordello__  
 __bore<sup>1</sup>__ _v_ _Boring a tunnel._  
 __bore<sup>2</sup>__ _n_ _She once was into a stone bore._  
+__bore__ _She just went full bore._  
 __bosom__  
 __botched__  
 __bottle fly__ _n_  
@@ -717,7 +687,7 @@ __brander__
 __brash__ _It sounded brash._  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
-__bravado__ _But I went into it with a certain bravado._  
+__bravado__ :two::shit: _But I went into it with a certain bravado._  
 __brayed__ _v_ :two::shit: (braying)  
 __brazen__ :two::shit: _Brazen lyrics._  
 __brazenly__  
@@ -803,7 +773,8 @@ __bullwhip__
 __bultwark__  
 __bulwark__  
 __bum deal__  
-__bum__ _v_  
+__bum<sup>1</sup>__ _A bum foot._  
+__bum<sup>2</sup>__ _v_  
 __bumblebees__  
 __bumbling__ _v_ :six::shit:  
 __bumper__  
@@ -1033,6 +1004,7 @@ __clawback__
 __clean his clock__  
 __clean one's plate__ Eat up all the food put on one's plate.  
 __clear air__  
+__clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
 __clearinghouse__ :two::shit:  
 __cleat__ _n_ :three::shit:  
 __cleated__ _v_ To get stabbed/slashed/kicked, or in any other way harmed by someone's cleat. _Joe got cleated in soccer and it left an ugly bruise._  
@@ -1132,6 +1104,7 @@ __concoction__
 __concourse__  
 __concussion__ :two: _He recovers from the concussion he sustained on June 15._  
 __conducive__ :two::shit: _The vehicle doesn't seem conducive to passing._  
+__conduct__ _Suspended two games for violating the league's personal conduct policy._  
 __conduit__ _n_ :two::shit:  
 __confection__  
 __confederacy__  
@@ -1684,6 +1657,7 @@ __ensconced__
 __enshrined__  
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :two::shit: (ensued) _Complications ensue._  
+__ensuing__  
 __enthrall__ _v_ :three: (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :four::shit: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
@@ -1890,7 +1864,7 @@ __flex__ _v_
 __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flinching__  
-__flinging__ _v_  
+__flinging__ _v_ :two::shit: _Johnson isn't just flinging it._  
 __flint__ _n_  
 __flintlock__  
 __flintlocks__ _n_  
@@ -2208,7 +2182,7 @@ __groove__ _Shaking her groove._
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __ground chuck steak__  
 __ground zero__  
-__groundbreaker__  
+__groundbreaker__ _n_ :two::shit:  
 __groundswell__ :three::shit:  
 __grouse__ _v_ :three::shit: _We groused about the uncomfortable seating._  
 __grout__ _We clean tile and grout!._  
@@ -2260,6 +2234,8 @@ __gutsy__
 __gutter__ _n_ :two::shit: _He turned his head and spit in the gutter._  
 __guzzle__ _v_  
 __guzzler__ :two::shit: _Taxing gas guzzlers._  
+__gym-rat__ _He's a gym-rat type of guy._  
+__ha!__  
 __hackles__ _n_  
 __hackneyed__  
 __haemophilia__  
@@ -2315,7 +2291,7 @@ __hasp__ _The hasp and padlock had been splintered loose from the wood._
 __hasty__  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _v_ (hatched) :two::shit: _Hatching tech secrets._  
-__haughty__ _Oscar votters are as haughty as the critics._  
+__haughty__ :two::shit: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_  
@@ -2524,6 +2500,7 @@ __inasmuch__
 __inaugurate__ _v_ _He will be inaugurated for second term._  
 __inbound__  
 __inbounds pass__  
+__inception__  
 __inching__  
 __inchoate__  
 __incidentally__  
@@ -3345,7 +3322,7 @@ __parasailing__
 __parched__ _The dryness will encompass parched California._  
 __parchment__  
 __pard__  
-__pariah__  
+__pariah__ _n_ :two::shit:  
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
@@ -3371,6 +3348,7 @@ __paucity__ :four::shit: _She was made late by broken trains in Brooklyn and a p
 __paunch__ _n_  
 __pavilions__  
 __paw__ _v_ _A drunken master paws her._  
+__payback__  
 __paywalls__  
 __peal<sup>1</sup>__ _n :two::shit: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ _Pealing bells._  
@@ -4148,6 +4126,7 @@ __seize__ _It is important to seize the opportunity._
 __sekuhata__ Sexual harassment.  
 __select__ :two::shit: (vs selected) _Opens today in select cities._ _Free shipping on select items._    
 __self-effacing__  
+__self-righteous__  
 __selfsame__  
 __sellout__ (sold out)  
 __sellouts__ _There have been no sellouts._  
@@ -4430,7 +4409,7 @@ __smidgen__ _The rosato di petit verdot has a smidgen of complexity._
 __smirks__ _n_  
 __smite__  
 __smithereens__  
-__smitten__ :two::shit: _He was smitten by the landscape._  
+__smitten__ :three::shit: _He was smitten by the landscape._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
 __smolder<sup>1</sup>__ _n_  
@@ -4443,7 +4422,7 @@ __smothered__
 __smothering__  
 __smudge__  
 __smudges__  
-__smug__ :two::shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
+__smug__ _adj_ :three::shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
 __smugly__ _To laugh smugly._  
 __smugness__  
 __smut__ _They want to report smut._  
@@ -4875,7 +4854,7 @@ __taps__ _A bugler played taps._
 __tardy__  
 __target ball__  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
-__tarnish__ :three::shit: _v_ Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
+__tarnish__ _v_ :four::shit: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :five::shit:  
 __tarpon__  
 __tarps__ _n_  
@@ -4888,6 +4867,7 @@ __tatter__ (tattered) :four: _v_ To make or become ragged: _tattered jeans; a ta
 __tatters__ _Its reputation is in tatters._  
 __tattling__  
 __taunted__ (taunting)  
+__taunts__ _n_  
 __taut__ _adj_  
 __tawdry__ :two: Poor, cheap quality.  
 __taxa__  
@@ -4950,6 +4930,7 @@ __throes__ :two::shit:
 __through__ :four::shit: _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw out the red meat__  
+__throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throwback__ _Throwbavck uniform._  
 __throws__ _n_  
 __thrum__  
@@ -5175,6 +5156,7 @@ __unraveling__
 __unrepentant__  
 __unrestrained__  
 __unscathed__ :two: _adj_ Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unsightly__ _Manning looking at unsightly ending._  
 __unspooling__ _Unspooling microphone cables._  
 __untidy__  
 __unwilling__ _Unwilling medical director._  
