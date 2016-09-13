@@ -1180,7 +1180,7 @@ __cowering__ _v_
 __coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crab lice__ _n_  
 __crack__ _v_ _He cracked 90 mph on the radar gun._  
-__crackdown__ :seven::shit: _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._  
+__crackdown__ :seven: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackle__ _v_ (crackling) :two::shit:  
 __cracklings__ _n_  
@@ -2480,7 +2480,7 @@ __impairment__
 __impasse__ :three: :open_mouth: Deadlock or stalemate. _At impasse._  
 __impeachment__  
 __impede__ _v_  
-__impending__ :four::shit: _Impending deadline._ _(vs looming deadline)_  
+__impending__ _adj_ :four: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__  
 __impermissible__ :two::shit:  
 __impervious__  
@@ -2607,7 +2607,7 @@ __jostled anew__
 __jostled__ (jostling) :two::shit: _Cows are jostling for space._  
 __journeyman__  
 __joust__ (jousted) :two::shit: _v_ _Here people jousted with nature._  
-__jowls__ :four::shit:  
+__jowls__ :four: A small focal accumulation of fat on the lower cheek overlying the jaw bone; prominent jowls make a person look old(er) and may be a cosmetic concern for the owner.  
 __jowly__  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
 __juggernaut__ :three::shit:  
