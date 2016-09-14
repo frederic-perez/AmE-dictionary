@@ -1596,9 +1596,8 @@ __effigies__
 __effigy__  
 __eggnog__ _n_ :two::shit: _A big eggnog party._  
 __egotists__  
-__egregious__ :four::shit: _Egregious threats._  
-__egret__  
-__egrets__ :five::shit: _Snow egrets._  
+__egregious__ _adj_ :four: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __eh?__ _Impressive, eh?_  
 __eighty-six__ _v_ :two::shit: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
@@ -2096,7 +2095,7 @@ __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._
 __glowering__  
 __glue > a glue-type player__  
 __glum__ :two::shit: _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
-__glut__ :four::shit: _A global glut of cotton._  
+__glut__ _n_ :four: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
 __gnarled__ _v_  
 __gnat__  
 __gnaw__ (gnawed, gnaw out) :three: /nɔː/ _v_ To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._  
@@ -5079,6 +5078,7 @@ __trussed__ _v_ :two::shit:
 __trustees__ _Board of Trustees_  
 __trusties__  
 __tryst__  
+__tub__ __1__ A low wide open container, typically round, originally one made of wood and used esp for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (esp US and Canadian) for bath  
 __tubbing up__ _I keep tubbing up._  
 __tube > shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
 __tube socks__ :camera:shit: A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro '70s-'80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
