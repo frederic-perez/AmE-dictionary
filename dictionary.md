@@ -20,6 +20,7 @@ __Aaa__ _Aaa-rated schools ... are rated Baa._
 __Achilles heel__ A weakness or vulnerable point.  
 __Aha! moment__  
 __Ames__ _Ames, Iowa._  
+__Angeleno__ _n_ A native or inhabitant of Los Angeles.  
 __Argentine__ _The pope is an Argentine._  
 __Attn__  
 __Austinites__  
@@ -1411,7 +1412,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dis__ _n_ :two::shit:  
 __disarray__ :three: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disbar__ _Disbar attorney._  
-__discharge__ :four::shit: _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ *Why not 'fired'?  
+__discharge__ _v_ :four::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ *Why not 'fired'?  
 __discontinued__ _v_  
 __discounter__ _n_  
 __discourse__  
@@ -3343,7 +3344,7 @@ __patois__
 __patron__ _n_  
 __patronage__  
 __patsy__ _adj_  
-__paucity__ :four::shit: _She was made late by broken trains in Brooklyn and a paucity of taxis._  
+__paucity__ :four: The word paucity means not enough of something. paucity The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space.  _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __paunch__ _n_  
 __pavilions__  
 __paw__ _v_ _A drunken master paws her._  
@@ -4831,7 +4832,7 @@ __takeout containers__
 __taking roll__ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_  
 __tall order__ :three::shit:  
-__tallow__ :four::shit:  
+__tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __talons__ _The nails were sharp as talons._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
 __tamp down__ _v_ :two::shit:  
