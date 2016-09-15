@@ -672,7 +672,7 @@ __bottom out__ _Europe is bottomed out._
 __boudin__ :two::shit: _A length of white boudin in a saucer._  
 __boughs__  
 __bouncy__  
-__bouree__ :four::shit: _I watched some old men playing bouree._ _Bouree dealer._  
+__bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bow__ _n_ :camera::shit: _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._  
 __bowie knife__ :two::shit:  
 __bowling alley__  
@@ -2044,7 +2044,7 @@ __gaskets__
 __gasped__  
 __gat__  
 __gaudy__ :three: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
-__gaunt__ :four::shit: _Gaunt eyes._ :es: demacrado  
+__gaunt__ _adj_ :four: Very thin especially from disease or hunger or cold. _Gaunt eyes._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
 __gauze__ (gauzy) :two::shit: :es: gasa  
@@ -4705,7 +4705,7 @@ __strenuous__
 __strep > strep throat__ :two::shit: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ :two::shit: _An interesting stretch run in the NFC._  
-__strewed__ _v_  
+__strew__ _v_ :five: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __strewn__ :four::shit:  
 __stricken__ _v_ :three::shit:  
 __strictures__ :three::shit: _The strictures on women's behavior were easing._  
