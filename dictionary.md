@@ -812,7 +812,7 @@ __busker__
 __bust__ :two::shit: _n_ _A dusty bust of Shakespeare._  
 __busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ _The bustle of daily life._  
-__bustling__ :four::shit: _A bustling tapas bar._ _The bustling dining room scene from the movie._  
+__bustling__ _adj_ :four::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
 __butcher paper__  
 __butt crust__  
@@ -1689,7 +1689,7 @@ __escrow__ :three: __1__ A deposit or fund held in trust or as a security. _An e
 __estrange__ _v_ __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __etched__ _v_  
 __etchings__  
-__ethos__ :four::shit: _The D.I.Y. ethos._  
+__ethos__ _n_ :four: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The D.I.Y. ethos._ :es: espíritu, escala de valores  
 __evening star__ _The evening star was out and the moon rising._  
 __every so often__  
 __evicted__ _v_ :three::shit:  
@@ -4116,7 +4116,7 @@ __seek out__
 __seep__ (seeped, seeping) :four: _v_ (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Syn_ oze, trickle, exude, drip  
 __seepage__  
 __seeped__ _v_  
-__seersucker__ :five::shit: _Seersucker coat._  
+__seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :two::shit: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
 __seeth__ :two::shit: _v_ _Pujols was left seething._  
@@ -4705,8 +4705,7 @@ __strenuous__
 __strep > strep throat__ :two::shit: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ :two::shit: _An interesting stretch run in the NFC._  
-__strew__ _v_ :five: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
-__strewn__ :four::shit:  
+__strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __stricken__ _v_ :three::shit:  
 __strictures__ :three::shit: _The strictures on women's behavior were easing._  
 __strife__ _n_ :five: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
