@@ -7,7 +7,6 @@
 
 
 
-
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -3873,7 +3872,7 @@ __ricochet__
 __riddance__ :two::shit:  
 __riddle<sup>1</sup>__ _n_ :three::shit: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ (riddled) :two::shit: _Chinese society is riddled with contradictions._  
-__rife__ :six::shit: _Speculation was riive among opposition fugitives._  
+__rife__ _adj_ :six: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it.  
 __riffle__ _v_ (riffled) :two::shit: _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
 __rifle__ _v_  
@@ -5308,7 +5307,7 @@ __waterway__
 __wavering__ _A wavering statement._  
 __wayposts__  
 __wayside__  
-__wayward__ :four::shit: _A wayward boy._ :es: díscolo  
+__wayward__ _adj_ :four: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ :es: díscolo  
 __wean__ _v_ :four::shit: (weaned)  
 __weather vane__  
 __weather__ (weathering) _v_  
@@ -5354,6 +5353,7 @@ __wheeze__
 __whereabouts__  
 __wherewithal__ :three::shit:  
 __whetting__ _Whetting the appetite for next year's Part 2._  
+__whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
 __whiff__ :two::shit:  
 __whiffed__ _v_  
 __while__ _v_ _To while away the hours drinking vodka._  
