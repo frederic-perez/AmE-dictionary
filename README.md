@@ -9,7 +9,8 @@ I collect words from multiple sources, including:
 <p align="center">
   <img src="https://dl.dropboxusercontent.com/u/1068081/Shared-images/AmE-dictionary--Pile-of-newspapers--256x256.jpg?raw=true" alt="Pile of newspapers"/>
 </p>
-* Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/grammargoddess) (don't miss her Tuesday Tricksters!)
++ [The YUNiversity](http://www.theyuniversity.net/)
+* Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/grammargoddess)
 
 ### Emojis
 
