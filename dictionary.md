@@ -2264,7 +2264,7 @@ __hangout__ :two::shit:
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ Craving.  
 __hanks__ :open_mouth: _Stringy hanks of blond hair._  
-__hapless__ :five::shit:  
+__hapless__ _adj_ :five: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.”  
 __haplessness__  
 __happy about it__ _I'm not entirely happpy about it._  
 __haps__ _n_ :two::shit: _What's the haps?_  
@@ -3765,7 +3765,7 @@ __reams__ _He watched reams on tape._
 __reappraise__ :es: valorar  
 __rebate__ :two: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso  
 __rebates__ _Tax rebates._  
-__rebop__ :four::shit:  
+__rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__  
 __rebuffed__ :two::shit: _The effort has been rebuffed._  
 __rebuke__ _n_  
@@ -4320,8 +4320,8 @@ __skirting__
 __skit__ _n_ :three::shit:  
 __skittered__ _v_ :three::shit: (skittering)  
 __skittish__ (skittishness) :four: _adj_ __1__ (of an animal, especially a horse) Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ (of a person) Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
-__skivvies__ :five::shit:  
-__skivvy__ :two::shit:  
+__skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
+__skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulking__  
 __skullcap__  
 __sky high__  
