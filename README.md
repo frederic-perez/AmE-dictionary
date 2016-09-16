@@ -14,9 +14,9 @@ I collect words from multiple sources, including:
 ### Emojis
 
 Meaning of the emojis used in the dictionary:
-- :open_mouth:: Interesting or funny spelling
-- :dart:: Try to learn this particular one!
-- :octocat:: Trick aimed at remembering the meaning
+- :open_mouth: Interesting or funny spelling
+- :dart: Try to learn this particular one!
+- :octocat: Trick aimed at remembering the meaning
 - :es: Translation into Spanish
 
 Note: For help editing with Markdown in GitHub, you can visit [writing on github pages](https://help.github.com/categories/writing-on-github/), and for emojis, visit the [emoji cheat sheet](http://www.emoji-cheat-sheet.com/). By the way, the word emoji comes from Japanese e (絵, "picture") + moji (文字, "character").
