@@ -3,6 +3,52 @@
 
 
 
+__chip__ _n_ _I played with a little chip on my shoulder this year._  
+__stiff__ _Correa had a stiff challenge from shortstop Lindor.__  
+__outpoint__ _v_ _Correa outpointed Lindor 124-109._  
+__hitch__ _v_ _Their clubs had hitched their wagons to the right horse._  
+__consensus__  
+__call out__ _Rodger's best play: Calling out prejudiced fan._  
+__commendable__  
+__bland__ _A politely bland answer._  
+__Branchh Davidians__  
+__ha!__  
+__daffy__  
+__collarbone__  
+__arduous__  
+__rib cage__ _Manning had an MRI on his rib cage._  
+__reconvene__ _v_ _Kubiak and Manning will reconvene next week._  
+__nip__ _v_ _Nip them in the bud._  
+__reps__ _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
+__nobody's doctor__ _I'm nobody's doctor._  
+__clinics__ _Wang conducted hockey clinics through an initiativee called Project Horse._  
+__bantam__ _Playing hockey at the bantam level._  
+__beef__ _He is trying to build some beef and muscle._  
+__self-effacing__  
+__disavowed__ _v_  
+__taunt__ _n_ _Song has heard his share of slurs and taunts._  
+__chirping__ _There's a lot of chirping in hockey, and it can be pretty nasty at times._  
+__groundbreaker__ _n_  
+__figure skates__ _n_  
+__behold__  
+__double dip__  
+__bankroll__  
+__whitehot__ _Gustafson will be at the whitehot center of that quest._  
+__pit wagon__  
+__clinch__ _v_ _To clinch a berth in the four-driver championship field._  
+__plight__ _n_  
+__underscore__ _v_  
+__crapshoot__  
+__melee__ _n_ 
+
+
+
+
+
+
+
+
+ 
 
 
 
