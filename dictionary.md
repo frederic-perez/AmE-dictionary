@@ -70,7 +70,7 @@ __Filipino__
 __Forest Recreation Park__  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __Frappuccino__  
-__French door__ :three::shit: (French doors) _French door fridge._  
+__French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __GED__ (GED exam) :two: The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GWTW__ Gone With The Wind.  
 __Ganjapreneur__  
@@ -558,6 +558,7 @@ __binder__ _n_ _My binder._
 __biopic__  
 __birch__ _Birch and oak in stock._  
 __birdbrain__  
+__birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __bivouac__ :open_mouth:  
 __biz__ _Hot biz model._  
 __black gold__  
