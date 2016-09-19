@@ -426,8 +426,8 @@ __bane__ _n_ :two::shit:
 __bang-for-the-buck__  
 __bangs__ _n_ :two::shit: _informal?_ _She wore her hair in bangs._  
 __banish__ _v_ :two::shit: (banished) :es: desterrar    
-__bankroll__  
-__bankroll__ _v_  
+__bankroll<sup>1</sup>__ _n_  
+__bankroll<sup>2</sup>__ _v_  
 __bankrollers__  
 __bantam__ _Playing hockey at the bantam level._  
 __bantamweight__ :two: _Rousey is the women's bantamweight champ._  
@@ -476,8 +476,7 @@ __bedpan__ _n_
 __bedrock__ :three::shit:  
 __bedrolls__  
 __beef up__ :three: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
-__beef__
-__beef__ _He is trying to build some beef and muscle._  
+__beef__ :two::shit: _He is trying to build some beef and muscle._  
 __beeline__  
 __beep-de-beep__  
 __beet__  
@@ -491,8 +490,7 @@ __beguiling__ :two::shit: _The Artist has an utterly beguiling purity._
 __behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behemoths__  
 __behest__ :two: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
-__behold__  
-__behold__ _The wedding ceremony was a joy to behold._  
+__behold__ :two::shit: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :four: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::shit: _Beauty is in the eye of the beholder._  
 __beige book__ ?  
@@ -572,8 +570,7 @@ __blackheads__ _n_ :three::shit:
 __blackjack__ :two::shit:  
 __blackout__ _Blackout dates._  
 __blanched__ _v_  
-__bland__ _A politely bland answer._  
-__bland__ _He had a bland voice to go with his bland face._  
+__bland__ :two::shit: _A politely bland answer._ _He had a bland voice to go with his bland face._  
 __blanket__ :two::shit: _The security blanket._  
 __blanketed__ _v_ (blanketing) :two::shit:  
 __blather__  
@@ -859,8 +856,7 @@ __cajole__ (cajoling) :two::shit: _v_
 __calf__ _n_  
 __caliph__  
 __calisthenics__  
-__call out__ _Rodger's best play: Calling out prejudiced fan._  
-__call out__ _v_  
+__call out__ _v_ :two::shit: _Rodger's best play: Calling out prejudiced fan._  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __calling card__  
 __calliopes__   
@@ -1026,7 +1022,6 @@ __clench__ _n_ :two::shit:
 __clenched__  
 __clicking__ _Things seem to be making sense and clicking._  
 __clinch__ _v_ (clinched) :nine::arrow_up_small::o2: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
-__clinch__ _v_ _To clinch a berth in the four-driver championship field._  
 __clincher__  
 __clinics__ _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clique__ _n_ (cliques) :three: _n_ A small exclusive group of friends or associates. _:es: camarilla_  
@@ -1076,8 +1071,7 @@ __colander__
 __cold duck__  
 __coleslaw__ _n_ :three::shit:  
 __collapsible__ _Collapsible shutters._  
-__collarbone__  
-__collarbone__  
+__collarbone__ :two::shit:  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collusion__ :two::shit:  
 __colossal__  
@@ -2202,8 +2196,7 @@ __groove__ _Shaking her groove._
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __ground chuck steak__  
 __ground zero__  
-__groundbreaker__ _n_  
-__groundbreaker__ _n_ :two::shit:  
+__groundbreaker__ _n_ :three::shit:  
 __groundswell__ :three::shit:  
 __grouse__ _v_ :three::shit: _We groused about the uncomfortable seating._  
 __grout__ _We clean tile and grout!._  
@@ -2256,8 +2249,7 @@ __gutter__ _n_ :two::shit: _He turned his head and spit in the gutter._
 __guzzle__ _v_  
 __guzzler__ :two::shit: _Taxing gas guzzlers._  
 __gym-rat__ _He's a gym-rat type of guy._  
-__ha!__  
-__ha!__  
+__ha!__ :two::shit:  
 __hackles__ _n_  
 __hackneyed__  
 __haemophilia__  
@@ -2394,8 +2386,8 @@ __hipper__ _adj_ _Hipper Nancy Drew._
 __hirsutism__  
 __hissy__ _Hissy fit._  
 __hit the wall__  
-__hitch__ _n_  
-__hitch__ _v_ _Their clubs had hitched their wagons to the right horse._  
+__hitch<sup>1</sup>__ _n_  
+__hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__  
 __hitherto__  
 __ho-hum__  
@@ -3159,8 +3151,8 @@ __nightmarish__
 __nihilistic__  
 __nimble__ (nimbler, nimbly) :five: _adj_ __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nineloss__ ?  
-__nip__ _There is a nip in the air._  
-__nip__ _v_ _Nip them in the bud._  
+__nip<sup>1</sup>__ _v_ _Nip them in the bud._  
+__nip<sup>2</sup>__ _n_ _There is a nip in the air._  
 __nipped__ _The Gaels were nipped at Washington._  
 __nitpick__ _v_ :two::shit: _They will find something to nitpick at you._  
 __nitpicked__ _v_  
@@ -3510,8 +3502,7 @@ __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A sho
 __plethora__  
 __pliant__ :two::shit:  
 __plies__ _v_  
-__plight__ _n_  
-__plight__ _n_ :two: Tough situation.  
+__plight__ _n_ :three: Tough situation.  
 __plod__ _v_ (plodded, plodding) :four::shit: _Plod to the shower._  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._
 __plop<sup>2</sup>__ _v_ (plopped) Fall or cause to fall with a plop. _The stone plopped into the pond._  
@@ -3804,8 +3795,7 @@ __recap__ _n_ _The written recap of the meeting._
 __receivership__  
 __recidivist__ _n_ :four::shit:  
 __reckon__ (reckons) :two::shit:  
-__reconvene__ _v_ :three::shit: (reconvenes)  
-__reconvene__ _v_ _Kubiak and Manning will reconvene next week._  
+__reconvene__ _v_ :four::shit: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __recoup__ :four::shit: _v_  
 __recreational__ _Recreational marijuana vs medical marijuana._  
@@ -4157,8 +4147,7 @@ __seine__ _v_
 __seize__ _It is important to seize the opportunity._  
 __sekuhata__ Sexual harassment.  
 __select__ :two::shit: (vs selected) _Opens today in select cities._ _Free shipping on select items._    
-__self-effacing__  
-__self-effacing__  
+__self-effacing__ :two::shit:  
 __self-righteous__  
 __selfsame__  
 __sellout__ (sold out)  
@@ -4676,8 +4665,7 @@ __stickball__ Stickball is a street game related to baseball, usually formed as 
 __sticker price__  
 __sticker shock__  
 __stickler__ :two::shit:  
-__stiff__ _Correa had a stiff challenge from shortstop Lindor._  
-__stiff__ _Working stiffs._  
+__stiff__ :two::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._  
 __stifle__ _v_ (stifles, stifled, stifling) :seven: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
 __still life__ _Still life painting._  
@@ -5407,8 +5395,7 @@ __whiskers__
 __whistle-blower__  
 __white elephant__ (?)  
 __white-knuckle ride__  
-__whitehot__  
-__whitehot__ _Gustafson will be at the whitehot center of that quest._  
+__whitehot__ :two::shit: _Gustafson will be at the whitehot center of that quest._  
 __whiteout__  
 __whittle down__ _The overwhelming advantage has been whittled down._  
 __whittling down__  
