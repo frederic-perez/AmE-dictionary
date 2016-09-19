@@ -4,6 +4,49 @@
 
 
 
+__skid__ _Six-game skid._  
+__scrimmage__  
+__turnover__ _n_  
+__Achilles__ _Out for season after tearing his Achilles against San Diego._  
+__streak__ _n_  
+__thump__ _v_ _The Hawks thumped the Maroons._  
+__haul__ _v_ :two::shit: _Jacob and Davis each hauled in 10 passes._  
+__gashed__ _v_ _The Lions gashed the Owls._  
+__muffed__ _v_ _The Ducks muffed a kickoff return._  
+__fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
+__boot__ _v_ _Now the Eagles have a postseason victory to boot._  
+__harping__ _v_  
+__dud__ _n_  
+__rash__ _n_  
+__atoned__ _v_  
+__tardy__  
+__ground game__  
+__perfunctory__  
+__trashing__ _v_  
+__hey__  
+__then again__  
+__modicum__  
+__this and that__  
+__jeers__  
+__texcetera__  
+__upping__ _v_  
+__rally__ _This time Oklahome Staate rallied furiously for a 35-31 victory._  
+__resiliency__  
+__throw in the towel__  
+__bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
+__mired__ _v_  
+__gingerly__ _Walking gingerly behind the pack._  
+__gimpy__ _A gimpy angle._  
+__putt__ _Jason missed a 5-foot par putt._  
+__roll__ _v_ _U.S. rolls in first World Cup qualifier._  
+__ailment__  
+__jumper__ _basketball_  
+__famine__ _It could be feasst or famine._  
+__standings__ _Harvick is third in the standings._  
+__bemoaned__ _v_  
+__regulation__ __Kreider scored the lone goal in regulation (vs in overtime)._  
+
+
 
 
 
