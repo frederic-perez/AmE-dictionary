@@ -4,49 +4,6 @@
 
 
 
-__skid__ _Six-game skid._  
-__scrimmage__  
-__turnover__ _n_  
-__Achilles__ _Out for season after tearing his Achilles against San Diego._  
-__streak__ _n_  
-__thump__ _v_ _The Hawks thumped the Maroons._  
-__haul__ _v_ :two::shit: _Jacob and Davis each hauled in 10 passes._  
-__gashed__ _v_ _The Lions gashed the Owls._  
-__muffed__ _v_ _The Ducks muffed a kickoff return._  
-__fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
-__boot__ _v_ _Now the Eagles have a postseason victory to boot._  
-__harping__ _v_  
-__dud__ _n_  
-__rash__ _n_  
-__atoned__ _v_  
-__tardy__  
-__ground game__  
-__perfunctory__  
-__trashing__ _v_  
-__hey__  
-__then again__  
-__modicum__  
-__this and that__  
-__jeers__  
-__texcetera__  
-__upping__ _v_  
-__rally__ _This time Oklahome Staate rallied furiously for a 35-31 victory._  
-__resiliency__  
-__throw in the towel__  
-__bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
-__mired__ _v_  
-__gingerly__ _Walking gingerly behind the pack._  
-__gimpy__ _A gimpy angle._  
-__putt__ _Jason missed a 5-foot par putt._  
-__roll__ _v_ _U.S. rolls in first World Cup qualifier._  
-__ailment__  
-__jumper__ _basketball_  
-__famine__ _It could be feasst or famine._  
-__standings__ _Harvick is third in the standings._  
-__bemoaned__ _v_  
-__regulation__ __Kreider scored the lone goal in regulation (vs in overtime)._  
-
-
 
 
 
@@ -61,6 +18,7 @@ __ACL__ Anterior cruciate ligament.
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __Achilles heel__ A weakness or vulnerable point.  
+__Achilles__ _Out for season after tearing his Achilles against San Diego._  
 __Aha! moment__  
 __Ames__ _Ames, Iowa._  
 __Angeleno__ _n_ A native or inhabitant of Los Angeles.  
@@ -296,6 +254,7 @@ __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __ailment__  
+__ailment__  
 __ails__ _v_  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __airball__ _n_  
@@ -401,6 +360,7 @@ __at the earliest__
 __at the very least__  
 __atavistic__ :three::shit:  
 __atone__ _v_ :two::shit:  
+__atoned__ _v_  
 __attack dog__ _n_  
 __attainability__  
 __attest__ _v_  
@@ -558,6 +518,7 @@ __belt out__
 __belting__  
 __bemoan__ _v_ :four::shit: (bemoaned, bemoaning)  
 __bemoaned__ _v_  
+__bemoaned__ _v_  
 __bemused__  
 __bender__ _His mother was on a bender._  
 __bento__ Boxed meals.  
@@ -707,6 +668,7 @@ __boon__ /buːn/ :four: A thing that is helpful or beneficial. _The route will b
 __boondoggle__ :two::shit:  
 __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boosters__ _Mississippi boosters._  
+__boot__ _v_ _Now the Eagles have a postseason victory to boot._  
 __bop__ _v_  
 __bordello__  
 __bore<sup>1</sup>__ _v_ _Boring a tunnel._  
@@ -817,6 +779,7 @@ __bugout__
 __bulk__  
 __bulkhead__ _n_ :three::shit: _The bulkhead door._  
 __bull__ Adult large animal (eg. an elephant).  
+__bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullhorn__ :two::shit:  
 __bullwhip__  
 __bultwark__  
@@ -1606,6 +1569,7 @@ __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile
 __duckboards__ :two::shit:  
 __dud<sup>1</sup>__ _n_ :four: _informal_ (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
+__dud__ _n_  
 __duffel bag__  
 __duffer__ _n_ :three: _informal_ An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot  
 __duffers__ _Wealthy duffers._  
@@ -1797,6 +1761,7 @@ __fallout__ :nine::arrow_up_small::o2: _Informal_ Side-effects; secondary conseq
 __fallow ground__  
 __fallow__  
 __fame__ _v_  
+__famine__ _It could be feasst or famine._  
 __fancy-schmancy__  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__  
@@ -2053,6 +2018,7 @@ __fudging__ _Fudging statistics._
 __fulcrum__  
 __full-blown__  
 __full-fledged__  
+__fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumed__ _v_  
 __funk__ _n_ :three::shit: _His breath a fog of funk and decayed shrimp._ _She breathed the funk that rose from her armpits._  
 __furled__ _v_ :two::shit:  
@@ -2098,6 +2064,7 @@ __gars__ _n_ :three::shit: _Alligator gars._
 __gas-guzzler__ :three::shit:  
 __gash<sup>1</sup>__ _n_ :two::shit:  
 __gash<sup>2</sup>__ _v_ :two::shit: (gashing)  
+__gashed__ _v_ _The Lions gashed the Owls._  
 __gaskets__  
 __gasped__  
 __gat__  
@@ -2130,8 +2097,10 @@ __giggling__
 __gills > packed to the gills__ :two: Completely full; teeming; having no room to spare. _I've got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother's Thanksgiving meal._  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
+__gimpy__ _A gimpy angle._  
 __gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __gingerly__ :es: con cautela?  
+__gingerly__ _Walking gingerly behind the pack._  
 __gingham__  
 __ginning__  
 __gird__ _v_  
@@ -2239,6 +2208,7 @@ __groomers__
 __groove__ _Shaking her groove._  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __ground chuck steak__  
+__ground game__  
 __ground zero__  
 __groundbreaker__ _n_ :three::shit:  
 __groundswell__ :three::shit:  
@@ -2339,6 +2309,7 @@ __hardship__ _n_ :five: (hardships) _n_ Severe suffering or privation. _Intolera
 __hardwood__ _The hardwood floor._  
 __hark__ _v_ :two::shit: (harking)  
 __harp__ _v_ _She told her she was always harping on him._  
+__harping__ _v_  
 __harried__ _A harried mom._  
 __harrow__ _n_  
 __harrowing__ _A harrowing oddyssey._  
@@ -2353,6 +2324,7 @@ __haughty__ :two::shit: _Oscar votters are as haughty as the critics._
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_  
+__haul__ _v_ :two::shit: _Jacob and Davis each hauled in 10 passes._  
 __haunch__ _n_ :six::shit: (haunches)  
 __hauteur__  
 __havoc__
@@ -2408,6 +2380,7 @@ __herky__ (herky-jerky driving)
 __herons__ :two::shit:  
 __hew__ _v_ :five::shit: (hewing, hewn)  
 __hex key set__ _Allen key set?_  
+__hey__  
 __heyday__ :two::shit:  
 __hibachi__  
 __hickory shaft__  
@@ -2632,6 +2605,7 @@ __jaywalker__ _n_
 __jaywalking__  
 __jazzy__  
 __jeering__  
+__jeers__  
 __jejune__  
 __jelly doughnuts__  
 __jelly glass__  
@@ -2675,6 +2649,7 @@ __julep__ :two::shit:
 __juleps__  
 __jumble__ :three: An untidy collection or pile of things. _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
+__jumper__ _basketball_  
 __jumpers__  
 __juncture__  
 __junker__  
@@ -3054,6 +3029,7 @@ __minstrel__
 __mint bank notes__  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
 __mire__ _v_ :open_mouth::four::shit: (mired)  
+__mired__ _v_  
 __mirth__ _n_ :two::shit:  
 __miscreant__ :four::shit: (miscreants) :three::shit:  
 __misdemeanor__ :two::shit:  
@@ -3070,6 +3046,7 @@ __mixed bag__
 __moat__  
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
+__modicum__  
 __modicum__ :two::shit: _A modicum of timidity._  
 __mogul__  
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
@@ -3124,6 +3101,7 @@ __muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse
 __mudslide__  
 __muff-diver__ _n_ :two::shit:  
 __muff__ _She drew from her muff a pistol._  
+__muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ (muffled) :two::shit: _v_ :es: amortiguar (sonido)  
 __muffler__  
 __mugger__ _n_  
@@ -3441,6 +3419,7 @@ __pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._
 __perch<sup>1</sup>__ _n_  
 __perch<sup>2</sup>__ _v_ :three::shit: 
 __perennial__  
+__perfunctory__  
 __perfunctory__ :two::shit:  
 __periwinkles__  
 __perjury__  
@@ -3710,6 +3689,7 @@ __put on a clinic__
 __put skin__ _Put skin in the game._  
 __putbacks__  
 __putdowns__  
+__putt__ _Jason missed a 5-foot par putt._  
 __putting aside__  
 __putty__ _n_ :five::shit: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._  
 __pyrrhic__ :open_mouth: _adj_ (of a victory) won at too great a cost to have been worthwhile for the victor.  
@@ -3768,6 +3748,7 @@ __rain slickers__ _n_
 __rainout__  
 __raked over the coals__  
 __raking__ _v_  
+__rally__ _This time Oklahome Staate rallied furiously for a 35-31 victory._  
 __rally__ _v_ :five::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._  
 __ram__ _v_  
 __ramblers__ _n_  
@@ -3798,6 +3779,7 @@ __rarefied__
 __raring__  
 __rascal__  
 __rash__ :two::shit: _A rash of oil problems._ _A rash of promotions._  
+__rash__ _n_  
 __rashes__ _Skin rashes._  
 __rasp__ _v_  
 __rat-fuck__ _v_  
@@ -3867,6 +3849,7 @@ __regal__ :three::shit:
 __regaled__  
 __regrets__ _n_  
 __regular shipping__ (vs _expedited shipping_)  
+__regulation__ _Kreider scored the lone goal in regulation (vs in overtime)._  
 __regulation__ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
 __regulatory muster__  
 __rehash__ _v_  
@@ -3901,6 +3884,7 @@ __reprisal__ (reprisals) :two::shit: _A ban on federal reprisals._
 __reps__ _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
+__resiliency__  
 __resistance__  
 __resolved__ _The issue was resolved._  
 __respite__ :four::shit: _n_  
@@ -3976,6 +3960,7 @@ __roil__ _v_ :eight: (roiled, roiling) US term for rile (make someone annoyed or
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
 __roll out__ _The retailer will roll out deals two days early._  
 __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
+__roll__ _v_ _U.S. rolls in first World Cup qualifier._  
 __rolling back__ _v_  
 __rolling caisson__  
 __rolling__  
@@ -4141,6 +4126,7 @@ __screeching__ :two::shit:
 __screwball__ _The screwball buddy comedy._  
 __screws > put the screws on someone__ _informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribes__  
+__scrimmage__  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
 __scrounge up__ _To scrounge up the funds._  
@@ -4373,6 +4359,7 @@ __skell__ _How you like it, skell?_
 __skewer__ _v_  
 __skid marks__  
 __skid row__ _His father would take him to a blind pig on skid row._  
+__skid__ _Six-game skid._  
 __skid__ _n_ :three: _Informal_ __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
 __skillet__ :four::shit:  
 __skimboard__  
@@ -4657,6 +4644,7 @@ __stamped__
 __stance__ :five: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stand tall__  
 __standings__ :two: _Pac-12 Standings_ _:es: clasificación_  
+__standings__ _Harvick is third in the standings._  
 __standout<sup>1</sup>__ _adj_ :five: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
 __standstill__ _n_ :two::shit: _The car will jump from standstill to 60 mph in 4.4 seconds._  
@@ -4764,6 +4752,7 @@ __stray steeples__
 __stray<sup>1</sup>__ _v_ :four::shit: (strays, strayed)  
 __stray<sup>2</sup>__ :two::shit: _A stray word._ _Stray friends._  
 __stray__ _Stray dogs._  
+__streak__ _n_  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
 __streamline__ _v_ :four::shit: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
@@ -4917,6 +4906,7 @@ __taper<sup>2</sup>__ _v_ :eight::shit: (tapered, tapering) _High schools don't 
 __taproot__  
 __taps__ _A bugler played taps._  
 __tardy__  
+__tardy__  
 __target ball__  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ _v_ :four::shit: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
@@ -4962,6 +4952,7 @@ __tepid__ :two::shit:
 __terrapin__  
 __terry-cloth__ :three::shit: _A blue terry-cloth pullover._  
 __tester bed__ :two::shit:  
+__texcetera__  
 __thankless__ Ungrateful  
 __thashing__  
 __that's the breaks__  
@@ -4977,6 +4968,7 @@ __the skinny__ Confidential information on a particular person or topic. _Net ma
 __the sky is the limit__  
 __thecracy__  
 __then again__  
+__then again__  
 __theocracy__  
 __theosophy__  
 __there is no denying__  
@@ -4987,6 +4979,7 @@ __thespian__ :two::shit:
 __thick and thin__ _Supporters ready to back them through thick and thin._  
 __thicket__ :three::shit: (thickets)  
 __think tank__ :two:  
+__this and that__  
 __thoroughfare__  
 __thoroughly__  
 __thrall__ :two::shit:  
@@ -4995,6 +4988,7 @@ __throbbed__ _v_ :three::shit: (throbs, throbbing)
 __throes__ :two::shit:  
 __through__ :four::shit: _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
+__throw in the towel__  
 __throw out the red meat__  
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throwback__ _Throwbavck uniform._  
@@ -5004,6 +4998,7 @@ __thug__
 __thumb__ _v_ _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ _Liverpool thumps United 3-0._  
+__thump__ _v_ _The Hawks thumped the Maroons._  
 __thunderheads__  
 __thunk__ _v_ _A thunking sound._  
 __thusly__  
@@ -5099,6 +5094,7 @@ __traipsing__
 __trample__ _v_ :seven::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __traps__ _n_  
+__trashing__ _v_  
 __travelogue__  
 __travesty__  
 __trawler__  
@@ -5160,6 +5156,7 @@ __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ 
 __turgid__  
 __turkey drumstick__  
 __turnip__ _n_  
+__turnover__ _n_  
 __turnover__ _n_ :three: The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._  _:es: facturación, volumen de ventas_  
 __turnround__  
 __turnstile__ _n_  
@@ -5247,6 +5244,7 @@ __uppercut__
 __uppermost__  
 __uppers__  
 __upping__  
+__upping__ _v_  
 __upscale__ :two: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._  
 __upshot__ _n_ :two::shit:  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
