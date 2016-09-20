@@ -253,8 +253,7 @@ __aggravate__ (aggravated) :two::shit: _v_
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
-__ailment__  
-__ailment__  
+__ailment__ :two::shit:  
 __ails__ _v_  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __airball__ _n_  
@@ -516,9 +515,7 @@ __bellwether__
 __belly-flop__  
 __belt out__  
 __belting__  
-__bemoan__ _v_ :four::shit: (bemoaned, bemoaning)  
-__bemoaned__ _v_  
-__bemoaned__ _v_  
+__bemoan__ _v_ :six::shit: (bemoaned, bemoaning)  
 __bemused__  
 __bender__ _His mother was on a bender._  
 __bento__ Boxed meals.  
@@ -2099,8 +2096,7 @@ __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by
 __gilt-framed__  
 __gimpy__ _A gimpy angle._  
 __gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
-__gingerly__ :es: con cautela?  
-__gingerly__ _Walking gingerly behind the pack._  
+__gingerly__ :two::shit: _Walking gingerly behind the pack._  
 __gingham__  
 __ginning__  
 __gird__ _v_  
@@ -3046,8 +3042,7 @@ __mixed bag__
 __moat__  
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
-__modicum__  
-__modicum__ :two::shit: _A modicum of timidity._  
+__modicum__ :three::shit: _A modicum of timidity._  
 __mogul__  
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mold__ _n_  
@@ -3419,8 +3414,7 @@ __pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._
 __perch<sup>1</sup>__ _n_  
 __perch<sup>2</sup>__ _v_ :three::shit: 
 __perennial__  
-__perfunctory__  
-__perfunctory__ :two::shit:  
+__perfunctory__ :three::shit:  
 __periwinkles__  
 __perjury__  
 __perks__  
@@ -3748,8 +3742,7 @@ __rain slickers__ _n_
 __rainout__  
 __raked over the coals__  
 __raking__ _v_  
-__rally__ _This time Oklahome Staate rallied furiously for a 35-31 victory._  
-__rally__ _v_ :five::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._  
+__rally__ _v_ :six::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._  
 __ram__ _v_  
 __ramblers__ _n_  
 __rambling__ _v_ :four::shit:  
@@ -3778,8 +3771,7 @@ __rare news conference__
 __rarefied__    
 __raring__  
 __rascal__  
-__rash__ :two::shit: _A rash of oil problems._ _A rash of promotions._  
-__rash__ _n_  
+__rash__ _n_ :three::shit: _A rash of oil problems._ _A rash of promotions._  
 __rashes__ _Skin rashes._  
 __rasp__ _v_  
 __rat-fuck__ _v_  
@@ -3849,8 +3841,7 @@ __regal__ :three::shit:
 __regaled__  
 __regrets__ _n_  
 __regular shipping__ (vs _expedited shipping_)  
-__regulation__ _Kreider scored the lone goal in regulation (vs in overtime)._  
-__regulation__ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
+__regulation__ :two::shit: _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
 __regulatory muster__  
 __rehash__ _v_  
 __reinstate__  
@@ -4359,8 +4350,7 @@ __skell__ _How you like it, skell?_
 __skewer__ _v_  
 __skid marks__  
 __skid row__ _His father would take him to a blind pig on skid row._  
-__skid__ _Six-game skid._  
-__skid__ _n_ :three: _Informal_ __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
+__skid__ _n_ :four: _Informal_ __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
 __skillet__ :four::shit:  
 __skimboard__  
 __skimming__  
@@ -4643,8 +4633,7 @@ __stamp out__ _Policemen took their own steps to stamp out smoking on the railwa
 __stamped__  
 __stance__ :five: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stand tall__  
-__standings__ :two: _Pac-12 Standings_ _:es: clasificación_  
-__standings__ _Harvick is third in the standings._  
+__standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
 __standout<sup>1</sup>__ _adj_ :five: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
 __standstill__ _n_ :two::shit: _The car will jump from standstill to 60 mph in 4.4 seconds._  
@@ -4905,8 +4894,7 @@ __taper<sup>1</sup>__ _n_
 __taper<sup>2</sup>__ _v_ :eight::shit: (tapered, tapering) _High schools don't see athletic trainers as ankle tapers._  
 __taproot__  
 __taps__ _A bugler played taps._  
-__tardy__  
-__tardy__  
+__tardy__ :two::shit:  
 __target ball__  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ _v_ :four::shit: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
@@ -4967,8 +4955,7 @@ __the day's full of spiders__
 __the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__  
 __thecracy__  
-__then again__  
-__then again__  
+__then again__ :two::shit:  
 __theocracy__  
 __theosophy__  
 __there is no denying__  
@@ -4997,8 +4984,7 @@ __thrum__
 __thug__  
 __thumb__ _v_ _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
-__thump__ _v_ _Liverpool thumps United 3-0._  
-__thump__ _v_ _The Hawks thumped the Maroons._  
+__thump__ _v_ :two::shit: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._  
 __thunderheads__  
 __thunk__ _v_ _A thunking sound._  
 __thusly__  
@@ -5156,8 +5142,7 @@ __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ 
 __turgid__  
 __turkey drumstick__  
 __turnip__ _n_  
-__turnover__ _n_  
-__turnover__ _n_ :three: The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._  _:es: facturación, volumen de ventas_  
+__turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ _:es: facturación, volumen de ventas_ __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnround__  
 __turnstile__ _n_  
 __turpentine__ _n_  
@@ -5243,8 +5228,7 @@ __upmarket__
 __uppercut__  
 __uppermost__  
 __uppers__  
-__upping__  
-__upping__ _v_  
+__upping__ _v_ :two::shit:  
 __upscale__ :two: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._  
 __upshot__ _n_ :two::shit:  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
