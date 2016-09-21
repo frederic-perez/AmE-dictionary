@@ -2229,7 +2229,7 @@ __guile__
 __guileless__   
 __gulf__ _The gulf grew grew wider._  
 __gullibility__  
-__gullible__ :two::shit:  
+__gullible__ _adj_ :three: Naive and easily deceived or tricked.  
 __gullies__  
 __gulls__  
 __gulp__  
@@ -4890,8 +4890,8 @@ __tantalize__ _v_
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ :three: _adj_ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap__ _v_ :three::shit:  
-__taper<sup>1</sup>__ _n_  
-__taper<sup>2</sup>__ _v_ :eight::shit: (tapered, tapering) _High schools don't see athletic trainers as ankle tapers._  
+__taper<sup>1</sup>__ _n_ __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone).  
+__taper<sup>2</sup>__ _v_ :eight: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity.  
 __taproot__  
 __taps__ _A bugler played taps._  
 __tardy__ :two::shit:  
@@ -5217,8 +5217,8 @@ __up-and-comer__
 __up-tempo__ _Up-tempo kind of game._  
 __up__ _v_ _We need to up our game._  
 __upbeat__ _An upbeat approach._  
-__upend__ _v_  
-__upended__ _v_ :eight::shit: (upended, upending) _The earthquake upended the nation last week._  
+__upend__ _v_ :four: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
+__upended__ _adj_ :four: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upheaval__ :two::shit:  
 __upheld__ :three::shit:  
