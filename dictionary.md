@@ -2,6 +2,31 @@
 
 
 
+__perch__  
+__lofty__ _His lofty perch._  
+__press box__ _n_  
+__trickle__ _v_  
+__behest__ _n_  
+__yardage__  
+__varsity__ _The junior varsity squad._  
+__rumble__ _v_ _Rumbling 33 yards._  
+__pounced__ _v_  
+__best__ _v_  
+__smashmouth__  
+__gaudy__  
+__fullbacks__ _n_  
+__rainbow pass__ _football_  
+__loft__ _v_  
+__rack up__ _v_  
+__ruptured__ _v_ _He ruptured his Achilles._  
+__wracking__ _v_  
+__gunslinger__ _v_  
+
+
+
+
+
+
 
 
 
