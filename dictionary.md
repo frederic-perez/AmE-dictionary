@@ -491,8 +491,7 @@ __begrudge__ :two::shit:
 __beguiling__ :two::shit: _The Artist has an utterly beguiling purity._  
 __behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behemoths__  
-__behest__ :two: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
-__behest__ _n_  
+__behest__ _n_ :three::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ :two::shit: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :four: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::shit: _Beauty is in the eye of the beholder._  
@@ -2068,8 +2067,7 @@ __gashed__ _v_ _The Lions gashed the Owls._
 __gaskets__  
 __gasped__  
 __gat__  
-__gaudy__  
-__gaudy__ :three: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
+__gaudy__ :four: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gaunt__ _adj_ :four: Very thin especially from disease or hunger or cold. _Gaunt eyes._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
@@ -2251,8 +2249,7 @@ __gung-ho__
 __gunman__ :two::shit:  
 __gunnel__ _The reel clanked once against the aluminium gunnel._  
 __gunnysack__ :three::shit: (gunnysacks)  
-__gunslinger__ _The speed of a gunslinger._  
-__gunslinger__ _v_  
+__gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwhale__ :two::shit:  
 __guppy__ :four::shit: _His latest guppy of a girlfriend._  
 __gurney__ _n_ :two::shit:  
@@ -2856,8 +2853,7 @@ __lockstep__ :two::shit:
 __locust__ :two::shit:  
 __loft__ _v_  
 __loftily__  
-__lofty__  
-__lofty__ _His lofty perch._  
+__lofty__ :two::shit: _His lofty perch._  
 __loggerheads__  
 __loins__ _n_ :two::shit:  
 __lolled__ _v_  
@@ -3733,8 +3729,7 @@ __raccooned__ _v_
 __raccoons__  
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
-__rack up__ _v_  
-__rack up__ _v_ :two::shit:  
+__rack up__ _v_ :three::shit:  
 __racked__ _v_ :two::shit:  
 __racket<sup>1</sup>__ :three::shit: _n_ _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
@@ -4002,8 +3997,8 @@ __ruffled__ (ruffling) :two::shit: _v_
 __rug > sweep it under the rug__  
 __rugged__ _He was red carded for a rugged foul._  
 __rum idea__  
-__rumble__ :three::shit:  
-__rumble__ _v_ _Rumbling 33 yards._  
+__rumble<sup>1</sup>__ _n_ __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
+__rumble<sup>2</sup>__ _v_ :three: Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._  
 __rumblings__ :two::shit: _Rumblings about the trade._  
 __rumdum__  
 __rummage__ :two::shit:  
@@ -5272,8 +5267,7 @@ __vane__ _n_ :two::shit: _A smooth metal weather vane._ _A weather vane._
 __vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vapid__  
 __variety store__  
-__varsity__ :two::shit: _He started dating another varsity athlete._  
-__varsity__ _The junior varsity squad._  
+__varsity__ :three::shit: _He started dating another varsity athlete._ _The junior varsity squad._  
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
