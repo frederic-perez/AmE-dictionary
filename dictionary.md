@@ -2,31 +2,6 @@
 
 
 
-__perch__  
-__lofty__ _His lofty perch._  
-__press box__ _n_  
-__trickle__ _v_  
-__behest__ _n_  
-__yardage__  
-__varsity__ _The junior varsity squad._  
-__rumble__ _v_ _Rumbling 33 yards._  
-__pounced__ _v_  
-__best__ _v_  
-__smashmouth__  
-__gaudy__  
-__fullbacks__ _n_  
-__rainbow pass__ _football_  
-__loft__ _v_  
-__rack up__ _v_  
-__ruptured__ _v_ _He ruptured his Achilles._  
-__wracking__ _v_  
-__gunslinger__ _v_  
-
-
-
-
-
-
 
 
 
@@ -517,6 +492,7 @@ __beguiling__ :two::shit: _The Artist has an utterly beguiling purity._
 __behemoth__ :two: __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behemoths__  
 __behest__ :two: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
+__behest__ _n_  
 __behold__ :two::shit: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :four: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::shit: _Beauty is in the eye of the beholder._  
@@ -557,6 +533,7 @@ __besmirch__ _v_ :three: (besmirched) To stain; sully: _a reputation that was be
 __besotted__  
 __bespectacled__ :two::shit: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke__  
+__best__ _v_  
 __bested__ _v_  
 __bestow__ _v_ :nine: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bettors__  
@@ -2040,6 +2017,7 @@ __fudging__ _Fudging statistics._
 __fulcrum__  
 __full-blown__  
 __full-fledged__  
+__fullbacks__ _n_  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumed__ _v_  
 __funk__ _n_ :three::shit: _His breath a fog of funk and decayed shrimp._ _She breathed the funk that rose from her armpits._  
@@ -2090,6 +2068,7 @@ __gashed__ _v_ _The Lions gashed the Owls._
 __gaskets__  
 __gasped__  
 __gat__  
+__gaudy__  
 __gaudy__ :three: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gaunt__ _adj_ :four: Very thin especially from disease or hunger or cold. _Gaunt eyes._ :es: demacrado  
 __gauntlets__  
@@ -2273,6 +2252,7 @@ __gunman__ :two::shit:
 __gunnel__ _The reel clanked once against the aluminium gunnel._  
 __gunnysack__ :three::shit: (gunnysacks)  
 __gunslinger__ _The speed of a gunslinger._  
+__gunslinger__ _v_  
 __gunwhale__ :two::shit:  
 __guppy__ :four::shit: _His latest guppy of a girlfriend._  
 __gurney__ _n_ :two::shit:  
@@ -2874,8 +2854,10 @@ __lockout__ _N.J. residents upset over island lockout._
 __locks > alcohol ignition locks__  
 __lockstep__ :two::shit:  
 __locust__ :two::shit:  
+__loft__ _v_  
 __loftily__  
 __lofty__  
+__lofty__ _His lofty perch._  
 __loggerheads__  
 __loins__ _n_ :two::shit:  
 __lolled__ _v_  
@@ -3438,6 +3420,7 @@ __pep__ :three::shit: :open_mouth: _A pep talk._ _The Huskies were the ones with
 __pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._  
 __perch<sup>1</sup>__ _n_  
 __perch<sup>2</sup>__ _v_ :three::shit: 
+__perch__  
 __perennial__  
 __perfunctory__ :three::shit:  
 __periwinkles__  
@@ -3601,6 +3584,7 @@ __potatoes__
 __potholes__ _n_  
 __potluck__  Comes from from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary)  
 __pounce__ (pounced) :two::shit: _v_ _Critics pounced on the showiness._  
+__pounced__ _v_  
 __pout__ _v_ (pouts, pouting) :three::shit:  
 __powder blue__ Color?  
 __power bar__  
@@ -3624,6 +3608,7 @@ __prerogative__
 __prescient__  
 __preserve__ _A comedy about gorillas in a preserve._  
 __preserves__ _A jar of fig preserves._  
+__press box__ _n_  
 __press on__  
 __press the pocket__  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
@@ -3748,6 +3733,7 @@ __raccooned__ _v_
 __raccoons__  
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
+__rack up__ _v_  
 __rack up__ _v_ :two::shit:  
 __racked__ _v_ :two::shit:  
 __racket<sup>1</sup>__ :three::shit: _n_ _Extortion rackets._  
@@ -3764,6 +3750,7 @@ __rage__ _n_
 __raged__ _v_  
 __rail__ _She is elegantly rail thin._  
 __rain slickers__ _n_  
+__rainbow pass__ _football_  
 __rainout__  
 __raked over the coals__  
 __raking__ _v_  
@@ -4016,6 +4003,7 @@ __rug > sweep it under the rug__
 __rugged__ _He was red carded for a rugged foul._  
 __rum idea__  
 __rumble__ :three::shit:  
+__rumble__ _v_ _Rumbling 33 yards._  
 __rumblings__ :two::shit: _Rumblings about the trade._  
 __rumdum__  
 __rummage__ :two::shit:  
@@ -4036,6 +4024,7 @@ __runner-up__ :four::shit: _Nadal was the runner-up to Roger Federer in 2006-7._
 __running-of-the-mill husband__  
 __runoff water__  
 __runoff__ :two::shit: _Enough votes to force a runoff,_  
+__ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :two::shit:  
 __rustle__ _v_ :two::shit: _To rustle up a dinner for 12._  
 __rut__ :two::shit: _Some guy with rut for brains._  
@@ -4469,6 +4458,7 @@ __sly__ :four: Having or showing a cunning and deceitful nature. _A sly smile._ 
 __small__ _I rubbed the small of her back._  
 __smallpox__  
 __smashing__  
+__smashmouth__  
 __smattering__ _n_ :six: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
 __smear__ :three::shit: _They use social media to smear their opponents._ _The smear campaign._  
 __smell test__  
@@ -5125,6 +5115,7 @@ __trick pad__
 __trickle down__ _v_ :two: To pass from high-ranked people to lower-ranked people.  
 __trickle<sup>1</sup>__ _n_ :seven: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._  
 __trickle<sup>2</sup>__ _v_  
+__trickle__ _v_  
 __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_  
@@ -5282,6 +5273,7 @@ __vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) 
 __vapid__  
 __variety store__  
 __varsity__ :two::shit: _He started dating another varsity athlete._  
+__varsity__ _The junior varsity squad._  
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
@@ -5532,6 +5524,7 @@ __workforce__
 __worrisome__  
 __worrywarts__  
 __wort__  
+__wracking__ _v_  
 __wraparound season__  
 __wreaked havoc__  
 __wreath-lying__ :open_mouth:  
@@ -5553,6 +5546,7 @@ __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He
 __wunderkind__  
 __yakuza__  
 __yank__ _v_ To fire?  
+__yardage__  
 __yardstick__ :four::shit: _Colleges need some standard yardstick._  
 __yarn du jour__  
 __yarn__  
