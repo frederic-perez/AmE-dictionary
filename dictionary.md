@@ -4,6 +4,16 @@
 
 
 
+__lax__ _adj_ #
+__retreat__ _They volunteered at the retreat._ #
+__deer__ _adj_ _A deer survey._ #
+__tall tales__ #
+__renown__ #
+
+
+
+
+
 
 
 
