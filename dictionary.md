@@ -4,16 +4,6 @@
 
 
 
-__lax__ _adj_ #
-__retreat__ _They volunteered at the retreat._ #
-__deer__ _adj_ _A deer survey._ #
-__tall tales__ #
-__renown__ #
-
-
-
-
-
 
 
 
@@ -1355,6 +1345,7 @@ __deductibles__
 __deedee__ _v_  
 __deep freezers__  
 __deep-six__ _v_ :two: _informal_ Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
+__deer__ _adj_ _A deer survey._  
 __deface__ _v_ _Defacing two murals._  
 __default__ _v_ :three::shit: _The Solar Energy company defaulted._  
 __defect__ (defected) :two: _v_ Abandon one's country or cause in favour of an opposing one. _He defected to the Soviet Union after the war._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
@@ -2770,7 +2761,7 @@ __laughingstock__
 __lavish__ :two::shit:  
 __law of the land__  
 __lawmaker__ (lawmakers) :two::shit:  
-__lax__ (not LAX)  
+__lax__ _adj_ :two::shit: (not LAX)  
 __lay__ _Lay reader._  
 __layover__ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layups__  
@@ -3878,6 +3869,7 @@ __remembrance__ :three: _n_ The action of remembering something. _JFK Remembranc
 __remit__  
 __rendering plant__  
 __renminbi__ :two::shit:  
+__renown__  
 __rent metal__  
 __rents__ _n_  
 __rep__ Reputation?  
@@ -3906,6 +3898,7 @@ __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies 
 __rethoric__  
 __retrain__ _v_  
 __retread__  
+__retreat__ _They volunteered at the retreat._  
 __retrenching__  
 __retrenchment__ _An era of American retrenchment._  
 __returnee__  
@@ -4895,6 +4888,7 @@ __takeout containers__
 __taking roll__ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_  
 __tall order__ :three::shit:  
+__tall tales__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __talons__ _The nails were sharp as talons._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
