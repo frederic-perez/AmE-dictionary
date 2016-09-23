@@ -3081,7 +3081,7 @@ __mosques__
 __moth__ :two::shit:  
 __mothballed__ :three::shit: _v_  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
-__motley__ :four::shit: _Motley crew._  
+__motley__ _adj_ :four: If you've encountered the word motley, it's most likely in the phrase "motley crew," which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. _Motley crew._  
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
@@ -4018,7 +4018,7 @@ __run-of-the-mill__
 __runaways__  
 __rung__ _n_  
 __rungs__ _He deserves to be in the lowest rungs of hell._  
-__runner-up__ :four::shit: _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
+__runner-up__ _n_ :four::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runoff water__  
 __runoff__ :two::shit: _Enough votes to force a runoff,_  
@@ -4728,7 +4728,7 @@ __stomping__ _v_
 __stonewall__ :two::shit: _v_  
 __stoop<sup>1</sup>__ _v_ :six::shit:  
 __stoop<sup>2</sup>__ _n_  
-__stop short__ :six::shit:  
+__stop short__ _v_ :six: (stop-short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stoplights__ :open_mouth:  
 __stoppage__ _A stoppage-time goal._  
 __stopped short__ :two:  
