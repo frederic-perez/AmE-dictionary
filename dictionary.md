@@ -1,5 +1,24 @@
 
 
+__lease__  
+__finalize__ _v_  
+__appeases__ _v_  
+__laureate__  
+__yearnings__  
+__stipend__ _n_  
+__debriefing__ _You must show up at least 15 minutes early for debriefing._  
+__open house__ _Educational open house._  
+__in its own right__  
+__apportioned__ _v_  
+__retreat__ _About 35 firefighters volunteered at the retreat._  
+__beg__ _All of this begs the question of Gallego's own voting record._  
+__portable building__ :es: barracones?  
+__curbs__ _This has created curbs on admission._  
+__advisory__ :two::shit: _Advisory committee meeting._ _To take an advisory period._  
+__elective__ _Other students can take up to four fine arts electives._  
+
+
+
 
 
 
