@@ -1,3 +1,28 @@
+__smitten__ _He was smittenby her red hair._  
+__hall boy__ _n_  
+__come of age__  
+__lump__ _A lump sum for a report._  
+__rack up__ _v_ _He had racked up a criminal record._  
+__smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
+__file suit__ _v_  
+__incumbent__ _Bunker beat incumbeny Mosier 90 votes to 78 votes._  
+__chagrin__ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
+__cribbage__ _game_  
+__daunting__  
+__obituaries__  
+__catalyze__ _v_ :open_mouth:  
+__corpsman__ _He was trained as a medical corpsman._  
+__needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
+
+
+
+
+
+
+
+
+
+
 
 
 __lease__  
