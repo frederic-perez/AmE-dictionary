@@ -18,6 +18,37 @@ __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her fam
 
 
 
+__passel__ _A passel of ducks._  
+__sorority__ _A member of Zeta Tau Alpha sorority._  
+__gallantry___He was awarded the Silver Star Medal for Gallantry in Action._  
+__memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
+__instilled__ _v_ _She instilled an enduring sense of family._  
+__sorely__  
+__upkeep__  
+__blind date__  
+__matriarch__  
+__surveyor__  
+__impish__ _Impish sense of humor._  
+__class act__ _She was a class act through and through._  
+__through and through__ _She was a class act through and through._  
+__indelible__ _An indelible mark._  
+__scrapped__ _v_ _Ship to be scrapped had reactor built on board in 1960s._  
+__shipyard__  
+__mothball__ _v_ _The reactor was shut down in 1976, and it was mothballed in 1978._  
+__consigliere__ _Our family consigliere._  
+__staffers__  
+__ragtag__ _A ragtag group._  
+__galvanize__ _v_  
+__unstoppable__ _She is our unstoppable force of nature._  
+
+
+
+
+
+
+
+
+
 
 
 
