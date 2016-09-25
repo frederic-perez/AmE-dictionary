@@ -14,6 +14,24 @@ __catalyze__ _v_ :open_mouth:
 __corpsman__ _He was trained as a medical corpsman._  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
 
+__GMO__ :three::shit: _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on heathful non-GMO feed._  
+__grocer_ _n_  
+__produce__ _We proudly feature only organic produce._  
+__uncured__ _v_ _Organic grass-fed uncured hot dogs._  
+__yam__ _n_  
+__patties__ _Organic grass-fed hamburger patties._  
+__smooth__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
+ __soften__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
+__harvested fish__ _Fish oil from harvested fish._  
+__elderberry__  
+__trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
+__butter cups__ _organic peanut butter cups._  
+__canister__ _Organic coffee canisters._  
+
+
+
+
+
 
 
 
