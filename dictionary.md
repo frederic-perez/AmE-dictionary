@@ -7,7 +7,6 @@
 
 
 
-
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -2384,6 +2383,7 @@ __heckled__ _v_
 __heckler__ :two::shit:  
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedonic__  
+__heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
 __heed__ :five: _v_ :es: hacer caso de  
 __heedless__  
 __heel__ _A heel who learns how to be a good egg._  
@@ -5609,6 +5609,7 @@ __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He
 __wunderkind__  
 __yakuza__  
 __yam__ _n_  
+__yam__ _n_ In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ To fire?  
 __yardage__  
 __yardstick__ :four::shit: _Colleges need some standard yardstick._  
@@ -5642,4 +5643,5 @@ __zip<sup>1</sup>__ _n_ _Manning threw a couple of darts to Hakeem that had plen
 __zip<sup>2</sup>__ _v_ _The ISS zips around Earth once every 90 minutes._  
 __zonk__ _n_ :two::shit:   
 __zoot__ :four::shit: _Zoot pants._  
+__zucchini__ :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
