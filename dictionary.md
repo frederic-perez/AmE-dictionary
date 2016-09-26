@@ -3,6 +3,15 @@
 
 
 
+__grocer__  
+__transient__  
+__jarring__ _Jarring evidence._  
+__deductibles__ _High deductibles hurt the health care plan._  
+__suicide vests__  
+__as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
+
+
+
 
 
 
