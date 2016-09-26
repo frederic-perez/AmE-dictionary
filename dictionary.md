@@ -7,6 +7,7 @@
 
 
 
+ 
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -480,7 +481,7 @@ __bedfellow__
 __bedpan__ _n_  
 __bedrock__ :three::shit:  
 __bedrolls__  
-__beef up__ :three: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
+__beef up__ :four: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::shit: _He is trying to build some beef and muscle._  
 __beeline__  
 __beep-de-beep__  
@@ -882,8 +883,7 @@ __campiness__ _Showbiz campiness._
 __campy__ _A campy biopic._  
 __cane brakes__  
 __canebrake__ _n_  
-__canister__  
-__canister__ _Organic coffee canisters._  
+__canister__ :two::shit: _Organic coffee canisters._  
 __cannolis__  
 __canted__ _v_ :two::shit:  
 __canteens__  
@@ -940,8 +940,8 @@ __cessation__
 __cesspool__ _The journalist cesspool._  
 __chafe__ _v_ :five::shit: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
 __chaffed__ _v_  
-__chagrin__ (chagrined) :four: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._  
-__chagrin__ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
+__chagrin<sup>1</sup>__ _n_ :five: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
+__chagrin<sup>2</sup>__ _v_ (chagrined) Cause to feel shame; hurt the pride of.  
 __chaise__  
 __chalkboard__ _n_  
 __champ__ :two::shit: Champion?  
@@ -1287,8 +1287,7 @@ __cull__ _Cowboys have to cull a steer from the herd._
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cuppa__  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curbs__ _This has created curbs on admission._  
-__curbs__ _n_ :two::shit: Bans?  
+__curbs__ _n_ :three::shit: Bans? _This has created curbs on admission._  
 __curds__ _n_ _Clouds like curds of smoke._  
 __curfew__ :three: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __curios__  
@@ -1335,8 +1334,7 @@ __darning__
 __dart__ (darting) :two::shit: _v_  
 __dateline__  
 __daubed__ _A swastika was daubed on a science center window._  
-__daunting__  
-__daunting__ :two: Seeming difficult to deal with in prospect; intimidating.  
+__daunting__ :three: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
 __day job__   
 __dazzling__ _adj_ :seven: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
@@ -1347,8 +1345,7 @@ __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._
 __dean__ _n_ :three::shit: _He served as dean._  
 __deathless__  
 __debasing__ _v_  
-__debriefing__  
-__debriefing__ _You must show up at least 15 minutes early for debriefing._  
+__debriefing__ :two::shit: _You must show up at least 15 minutes early for debriefing._  
 __debutante__  
 __decaf__ Decaffeinated coffee.  
 __decals__  
@@ -2567,11 +2564,9 @@ __incidentally__
 __inconsequential__  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incubus__  
-__incumbent__ :two::shit: _An incumbent president._  
-__incumbent__ _Bunker beat incumbeny Mosier 90 votes to 78 votes._  
+__incumbent__ :three::shit: _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __indefatigable__ :two: :open_mouth: _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
-__indelible__ :two::shit: :open_mouth:  
-__indelible__ _An indelible mark._  
+__indelible__ :three::shit: :open_mouth: _An indelible mark._  
 __indict__ _v_ :two::shit:  
 __indictment__ :two::shit:  
 __inducements__  
@@ -2805,8 +2800,7 @@ __lean__ _He is lean fast._
 __leap day__  
 __leap year__  
 __leapfrogging__ _v_  
-__lease__  
-__lease__  
+__lease__ :two::shit:  
 __leaven__ _To leaven the raunch and swagger._  
 __lectern__  
 __ledge__  
@@ -2923,8 +2917,8 @@ __lull__ (lulls) :two::shit: _n_
 __lumber<sup>1</sup>__ _v_ :three::shit: _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ _A shopper checks out with her lumber._  
 __lumberjack__  
-__lump__ _A lump sum for a report._  
-__lump__ _v_  
+__lump<sup>1</sup>__ _n_ __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
+__lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__  
 __luncheon__  
 __lunchpail__  
@@ -3675,8 +3669,7 @@ __proceeds__ :three: _Proceeds from the sale._ _Operating funds come from rodeo 
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::shit: (procuring)  
 __prod__ (prodded) :two::shit: :es: _empujón_  
-__produce__ _People value fresh produce._  
-__produce__ _We proudly feature only organic produce._  
+__produce__ _n_ :two::shit: _People value fresh produce._ _We proudly feature only organic produce._  
 __proffering__  
 __profiteering__  
 __profligate__ :two::shit:  
@@ -3776,8 +3769,7 @@ __raccooned__ _v_
 __raccoons__  
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
-__rack up__ _v_ :three::shit:  
-__rack up__ _v_ _He had racked up a criminal record._  
+__rack up__ _v_ :four::shit: _He had racked up a criminal record._  
 __racked__ _v_ :two::shit:  
 __racket<sup>1</sup>__ :three::shit: _n_ _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
@@ -3946,8 +3938,7 @@ __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies 
 __rethoric__  
 __retrain__ _v_  
 __retread__  
-__retreat__ _About 35 firefighters volunteered at the retreat._  
-__retreat__ _They volunteered at the retreat._  
+__retreat__ :two::shit: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
 __retrenching__  
 __retrenchment__ _An era of American retrenchment._  
 __returnee__  
@@ -4309,8 +4300,7 @@ __shine off__ _Don't try to shine me off, worm man._
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
 __shingles__  
-__shipyard__  
-__shipyard__  
+__shipyard__ :two::shit:  
 __shirk__  
 __shit-canning__  
 __shitcan__ _v_  
@@ -4517,8 +4507,7 @@ __smidgen__ _The rosato di petit verdot has a smidgen of complexity._
 __smirks__ _n_  
 __smite__  
 __smithereens__  
-__smitten__ :three::shit: _He was smitten by the landscape._  
-__smitten__ _He was smittenby her red hair._  
+__smitten__ :four::shit: _He was smitten by the landscape._ _He was smittenby her red hair._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
 __smolder<sup>1</sup>__ _n_  
@@ -4770,8 +4759,7 @@ __stinger__
 __stinkers__ _n_  
 __stinky-winky__ _Stinky-winky front-loader._  
 __stintful__  
-__stipend__  
-__stipend__ _n_  
+__stipend__ _n_ :two::shit:  
 __stipulate__  
 __stir__ _v_  
 __stirring__ _adj_ :two::shit: _Stirring tales._  
@@ -5519,8 +5507,7 @@ __wicker chair__
 __wicker__  
 __wicket__  
 __widebody__ _Widebody jet._  
-__wield__ (wielding) :four: _v_ Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish  
-__wielded__  
+__wield__ _v_ (wielded, wielding) :five: Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish  
 __wiener dog__  
 __wiggle__ _n_ :two::shit: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wigglers__  
@@ -5608,8 +5595,7 @@ __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ _
 __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __wunderkind__  
 __yakuza__  
-__yam__ _n_  
-__yam__ _n_ In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
+__yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ To fire?  
 __yardage__  
 __yardstick__ :four::shit: _Colleges need some standard yardstick._  
