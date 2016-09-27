@@ -3,20 +3,10 @@
 
 
 
-__grocer__  
-__transient__  
-__jarring__ _Jarring evidence._  
-__deductibles__ _High deductibles hurt the health care plan._  
-__suicide vests__  
-__as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 
 
 
 
-
-
-
- 
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -354,6 +344,7 @@ __arms race__
 __arpents__ _n_ :two::shit:  
 __artifacts__  
 __as it gets__  
+__as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __asbestos__ :two: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascot__  
@@ -1364,7 +1355,7 @@ __decommissioned__
 __decommits__  
 __decorated__ _A decorated veteran._  
 __decry__ (decried; decrying) :seven: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
-__deductibles__  
+__deductibles__ :two::shit: _High deductibles hurt the health care plan._  
 __deedee__ _v_  
 __deep freezers__  
 __deep-six__ _v_ :two: _informal_ Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
@@ -2230,7 +2221,7 @@ __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness,
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritty__ _The grutty determination._  
 __grizzled__  
-__grocer__ _n_  
+__grocer__ _n_ :two::shit:  
 __grog__  
 __groomed__  
 __groomers__  
@@ -2632,7 +2623,7 @@ __jamboree__ :two::shit: _v_
 __jammies__ _n_  
 __jams__ _n_  
 __jar__ _v_  
-__jarring__  
+__jarring__ :two::shit: _Jarring evidence._  
 __jaundice__ _v_ :two::shit:  
 __jaunt__ _n_  
 __jaunty__ :five: _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
@@ -4868,6 +4859,7 @@ __sucker__ _He is a sucker for anything cute._
 __sudsy__  
 __suffragette__  
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
+__suicide vests__  
 __suitors__ :two::shit:  
 __sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_  
@@ -5152,6 +5144,7 @@ __trainees__ :es: aprendiz?
 __traipsing__  
 __trample__ _v_ :seven::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
+__transient__  
 __traps__ _n_  
 __trashing__ _v_  
 __travelogue__  
