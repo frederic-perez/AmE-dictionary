@@ -264,6 +264,8 @@ __alabaster__
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __alderman__ _n_  
 __alienated__  
+__all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
+__all over the place<sup>2</sup>__ _adverb_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _ poured a big glass of milk but then it spilled all over the place._  
 __all that jazz__  
 __all-out__ _All-out military battle._  
 __allay__ _v_ :two::shit:  
@@ -910,6 +912,7 @@ __cart__ _v_ _Quincy was carted off the field._
 __carve out__ _v (carved out) :six::shit:  
 __carveouts__  
 __cash rebate__  
+__cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
 __casket__  
 __cast__ _Votes cast._  
 __catalyze__ _v_ :open_mouth:  
@@ -1645,6 +1648,7 @@ __elation__
 __elbow grease__ :two::shit: _I tend to rely on elbow grease and hotel room sinks._  
 __elbowing__ _v_ _Elbowing your way through crowds._  
 __elderberry__  
+__elderly__ :es: tercera edad  
 __elective__ _Other students can take up to four fine arts electives._  
 __elegy__  
 __elicit__  
@@ -3120,6 +3124,7 @@ __motorized scooter__ _Police said they know who stole a motorized scooter that 
 __motormouth__  
 __mouth__ _v_  
 __mouthguard__  
+__mouthwash__ :es: colutorio  
 __mouthwash__ _n_  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __mover__ _n_  
@@ -4004,6 +4009,7 @@ __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated w
 __roll__ _v_ _U.S. rolls in first World Cup qualifier._  
 __rolling back__ _v_  
 __rolling caisson__  
+__rolling hills__ :es: colinas (onduladas)  
 __rolling__  
 __rollout__ _n_  
 __rollouts__  
@@ -4236,6 +4242,7 @@ __sequiturs__
 __servicers__  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
 __set piece__ _The goal was scored on a set piece._  
+__setting > picturesque setting__ :es: entorno picturesco  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __severance pay__  
 __severance__  
