@@ -3124,8 +3124,7 @@ __motorized scooter__ _Police said they know who stole a motorized scooter that 
 __motormouth__  
 __mouth__ _v_  
 __mouthguard__  
-__mouthwash__ :es: colutorio  
-__mouthwash__ _n_  
+__mouthwash__ _n_ :two::shit: :es: colutorio  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __mover__ _n_  
 __mowed__ _v_  
