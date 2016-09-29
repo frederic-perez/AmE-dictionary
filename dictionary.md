@@ -1,6 +1,12 @@
 
 
+__out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
+__deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
 
+
+
+__out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
+__deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
 
 
 
