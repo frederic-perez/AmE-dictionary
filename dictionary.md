@@ -1,12 +1,6 @@
 
 
-__out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
 
-
-
-__out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
 
 
 
@@ -1364,6 +1358,7 @@ __decommissioned__
 __decommits__  
 __decorated__ _A decorated veteran._  
 __decry__ (decried; decrying) :seven: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
+__deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
 __deductibles__ :two::shit: _High deductibles hurt the health care plan._  
 __deedee__ _v_  
 __deep freezers__  
@@ -3318,6 +3313,7 @@ __ornate__
 __ornery__ :two::shit:  
 __ossified__  
 __ottoman__  
+__out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outbound__ _The latest trends in Chinese outbound tourism._  
