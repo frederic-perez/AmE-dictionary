@@ -4,8 +4,20 @@
 
 
 
-
-
+__cot__ _n_ _Ryan chooses to bed down in a cot in his office every night the House is in session._  
+__unfettered__ _v_ _Unfettered by commutes._  
+__benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
+__slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
+__schleps__ _v_ _He schleps to the House gym in workout clothes._  
+__blowup bed__ _n_  
+__deflation__ _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
+__toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
+__slumber__ _Slumber parties._  
+__padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
+__job opening__  
+__advocacy__  
+__nepotism__  
+__sick leave__  
 
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
