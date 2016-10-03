@@ -239,8 +239,7 @@ __adulation__
 __advent__ :two::shit:  
 __adverts__  
 __advisory__ :two::shit: _Advisory committee meeting._ _To take an advisory period._  
-__advocacy__  
-__advocacy__  
+__advocacy__ :two::shit:  
 __afar__ :three: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
@@ -459,8 +458,7 @@ __barnburner__
 __barnstorm__  
 __barrage__ :four: _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barre__  
-__barrel__ _v_ _A truck barreled down the road._  
-__barrel__ _v_ _Callous barreling against traffic._  
+__barrel__ _v_ :two::shit: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrette__ :two::shit:  
 __barring__ _v_ :two::shit:  
 __basement__  
@@ -2004,8 +2002,7 @@ __forgear__
 __forgo__ _v_ :six: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __fork__ _Gordon at fork in the road._  
 __forlon__  
-__forlorn__  
-__forlorn__ :four: _adj_ __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
+__forlorn__ _adj_ :five: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forte__ _n_  
 __fortified wine__  
 __foul play__ :two: Violence, esp. murder.  
@@ -3213,8 +3210,7 @@ __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her fam
 __nefarious__  
 __nematodes__  
 __neoteric__  
-__nepotism__  
-__nepotism__  
+__nepotism__ :two::shit:  
 __nest egg__ :two::shit:  
 __nether__  
 __neutered__  
@@ -3881,8 +3877,7 @@ __readily__
 __ream__ _v_ :four::shit: (reamed)  
 __reams__ _He watched reams on tape._  
 __reappraise__ :es: valorar  
-__rebate__ :two: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso  
-__rebate__ _Amount off MSRP includes all additional available rebate and incentive programs._  
+__rebate__ :three: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._  
 __rebates__ _Tax rebates._  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__  
@@ -3914,8 +3909,7 @@ __reefer__ :two::shit: _He was hitting on a reefer._
 __reefs__  
 __reek<sup>1</sup>__ _n_  
 __reek<sup>2</sup>__ _v_ :six: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
-__reel__ _v_ :five: (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
-__reel__ _v_ Stagger.  
+__reel__ _v_ (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __referenda__  
 __refurbish__  
 __regal__ :three::shit:  
@@ -4401,8 +4395,7 @@ __sick leave__
 __siddle up__ _Chuck siddled up beside his brother._  
 __sidecar shovelhead__  
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
-__sidelines__  
-__sidelines__  
+__sidelines__ :two::shit:  
 __sidestep__ _v_  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sieve__  
@@ -4527,8 +4520,7 @@ __slug__ (slugs) :two::shit:
 __slugs__  
 __sluice__ _v_ :five::shit: (sluicing)  
 __slum__ (slums) :five::shit: _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
-__slumber__ Nap?  
-__slumber__ _Slumber parties._  
+__slumber__ :two::shit: _Slumber parties._  
 __slumming__  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slurp__ _v_ _Whitey sucked his soda through a straw until it slurped against the ice._  
@@ -5305,8 +5297,7 @@ __unearthed__
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :two::shit: _They are unfazed by all fof this._  
-__unfettered__ :two::shit: _Esxposed to unfettered political advocacy._  
-__unfettered__ _v_ _Unfettered by commutes._  
+__unfettered__ _v_ :three::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._  
 __unflappable__ _Unflappable team._  
 __unflinching__  
 __unfurl__ (unfurling) :two::shit:  
