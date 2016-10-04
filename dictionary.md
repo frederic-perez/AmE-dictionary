@@ -1524,7 +1524,7 @@ __doodad__
 __dookie-wookie__  
 __doom and gloom__ :two::shit:  
 __door-to-door dash__  
-__doorbuster__ (door-buster) :three: A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
+__doorbuster__ (door-buster) :four: A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doorknob hanger__  
 __doormat__  
 __doozy__ :two: _Informal_ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
@@ -3728,6 +3728,7 @@ __pud__ _n_ :five::shit:
 __puds__ _n_  
 __puff<sup>1</sup>__ _n_ :two::shit:  
 __puff<sup>2</sup>__ _v_ :two::shit: (puffed) _I could hear the screen door puffing open._  
+__puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
 __puffy__ :two::shit: _Puffy snowflakes._ :es: hinchado  
 __pugil__  
 __pugnacity__  
