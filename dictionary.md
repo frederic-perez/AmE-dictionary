@@ -1,18 +1,6 @@
 
 
 
-__doubting Thomas__  _n_  
-__turning tables__ _Feds turning the tables on ssexual predators._  
-__scrambling__  
-__cull__ _v__ Culling of online images._  
-__predator__ _n_  
-__in-house__ _In-house experts._  
-
-
-
-
-
-
 
 
 
@@ -1308,7 +1296,7 @@ __cudgel__ :two::shit:
 __cudgels__  
 __cue ball__ :two::shit:  
 __cuff links__  
-__cull__ _Cowboys have to cull a steer from the herd._  
+__cull__ _v_ :two::shit: _Cowboys have to cull a steer from the herd._ _Culling of online images._  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cuppa__  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
@@ -1548,6 +1536,7 @@ __double down__ :two::shit:
 __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-decker bus__  
 __double-decker__ _Double-decker bus._  
+__doubting Thomas__ _n_  
 __douchebag__ (douche bag) :two: _Informal_ An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dour__ _adj_ :four: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
@@ -2582,6 +2571,7 @@ __in all likelihood__
 __in its own right__  
 __in short order__  
 __in the nude__ _Sleeping in the nude._  
+__in-house__ _In-house experts._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_  
 __inadvertent__  
 __inane__  
@@ -3668,6 +3658,7 @@ __prance__ _v_ :three::shit: _On the floor exercise, Wieber prances, tumbles and
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __predate__ _v_  
+__predator__ _n_  
 __prediabetes__  
 __preen__ (preening) :two::shit: _She didn't preen for her grandfather._  
 __preened__  
@@ -4196,6 +4187,7 @@ __scowl__ _v_
 __scowling__ _v_  
 __scramble__ (scrambled, scrambling) :four: _v_ __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrambles__ _v_  
+__scrambling__  
 __scrap iron__ :es: chatarra?  
 __scrap<sup>1</sup>__ _n_ :two::shit: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>3</sup>__ _v_ :five::shit: (scrapped)  
@@ -5254,6 +5246,7 @@ __tumblebug__
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __turgid__  
 __turkey drumstick__  
+__turning tables__ _Feds turning the tables on ssexual predators._  
 __turnip__ _n_  
 __turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ _:es: facturación, volumen de ventas_ __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnround__  
