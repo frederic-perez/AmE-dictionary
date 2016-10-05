@@ -7,7 +7,6 @@
 
 
 
-
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -2293,7 +2292,7 @@ __gunnel__ _The reel clanked once against the aluminium gunnel._
 __gunnysack__ :three::shit: (gunnysacks)  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwhale__ :two::shit:  
-__guppy__ :four::shit: _His latest guppy of a girlfriend._  
+__guppy__ _n_ :four:  Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurney__ _n_ :two::shit:  
 __gush__ (gushing) :two::shit: _Kids were dancing in the gushing water._  
 __gusto__  
@@ -2659,6 +2658,7 @@ __jejune__
 __jelly doughnuts__  
 __jelly glass__  
 __jerk around__  
+__jest__  
 __jet black__ _n_ :two::shit: _Her hair was jet black._  
 __jetliners__  
 __jettisoning__  
@@ -3894,7 +3894,7 @@ __recidivist__ _n_ :four::shit:
 __reckon__ (reckons) :two::shit:  
 __reconvene__ _v_ :four::shit: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
-__recoup__ :four::shit: _v_  
+__recoup__ _v_ :four: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.
 __recreational__ _Recreational marijuana vs medical marijuana._  
 __recuse__ _She recused herself._  
 __red taoe__ It would add red tape and increasing processing time._  
@@ -4544,7 +4544,7 @@ __smidgen__ _The rosato di petit verdot has a smidgen of complexity._
 __smirks__ _n_  
 __smite__  
 __smithereens__  
-__smitten__ :four::shit: _He was smitten by the landscape._ _He was smittenby her red hair._  
+__smitten__ _adj_ :four: Smitten means overwhelmed or struck by something, usually love. The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him. __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__  Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
 __smolder<sup>1</sup>__ _n_  
