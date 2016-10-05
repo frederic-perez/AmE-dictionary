@@ -2,6 +2,16 @@
 
 
 
+__make out__ _v_  
+__straddle__ _v_  
+__nabbed__ _v_ _Filipino actor nabbed with 1kg of marijuana._  
+
+
+
+
+
+
+
 
 
 
