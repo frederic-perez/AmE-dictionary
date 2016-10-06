@@ -2,15 +2,6 @@
 
 
 
-__make out__ _v_  
-__straddle__ _v_  
-__nabbed__ _v_ _Filipino actor nabbed with 1kg of marijuana._  
-
-
-
-
-
-
 
 
 
@@ -2980,6 +2971,7 @@ __maiden__ _Maiden flight._
 __maim__ _v_ :four: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __mainstay__ _A mainstay of his business._  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
+__make out__ _v_  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
@@ -3203,7 +3195,7 @@ __mutt__ _n_ :five::shit:
 __muzzle__ :three::shit:  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __mystique__ :open_mouth:  
-__nab__ _You can nab bargains before Black Friday._  
+__nab__ _v_ :two::shit: (nabbed) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._  
 __name-and-likeness__  
 __name-calling__  
 __names and likeness__  
@@ -4834,6 +4826,7 @@ __stove__
 __stovepipe hat__  
 __stow__ _v_  
 __stowaway__  
+__straddle__ _v_  
 __strafing__  
 __straggly__  
 __strain<sup>1</sup>__ _v_ :eight: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
