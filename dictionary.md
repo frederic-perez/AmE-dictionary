@@ -3052,7 +3052,7 @@ __merch__ Merchandaising?
 __merchant__  
 __mercurial__ :two: Liable to sudden unpredictable change.  
 __meretricious__ :two::shit:  
-__meringue__ :five::shit: _Meringue pie._  
+__meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merriment__ :two:  
 __mesh strainer__  
 __metal shavings__  
@@ -3088,7 +3088,7 @@ __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with 
 __mire__ _v_ :open_mouth::four::shit: (mired)  
 __mired__ _v_  
 __mirth__ _n_ :two::shit:  
-__miscreant__ :four::shit: (miscreants) :three::shit:  
+__miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __misdemeanor__ :two::shit:  
 __misfire__ _v_ (misfiring) :two::shit: _One misfire in the 2000s._  
 __misgivings__  
@@ -4389,7 +4389,7 @@ __shunned__
 __shush__ _v_  
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
-__shutout__ :four::shit: _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._  
+__shutout__ _n_ :four: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__ _Just shy of its highest mark._  
