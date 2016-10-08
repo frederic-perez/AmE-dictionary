@@ -1,6 +1,21 @@
 
 
 
+__draw__ _Homeless camps are a draw._  
+__boom box__  
+__strip mall__ _n_  
+__makeshift__  
+__cardiac arrest__  
+__game plan__  
+__health condition__  
+__grave liner__ _Grave liners are stored at the Travis County cemetery._  
+__alienate__ _v_ _Alcoholism and violence alienated him from his family._  
+__established__ _Rstablished 1978._  
+__rumbling__  
+__rolling hills__  
+
+
+
 
 
 
