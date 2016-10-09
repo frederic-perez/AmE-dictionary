@@ -1,3 +1,22 @@
+__slight__ _n_ :two::shit: _Everyday slights and snubs._ _Seemingly minor slights harm student performance._  
+__snub__ _n_  
+__aggrieved__ _v_ _An aggrieved sense of victimhood._  
+__victimhood__  
+__redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
+__carat__  
+__belying__ _v_  
+__hurl__ _v_ _An ethnic slur hurled at her._  
+__precarious__  
+__living quarters__ _Precatious makeshoft living quarters._  
+__holistic__  
+__get ahold__  
+__shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
+
+
+
+
+
+
 
 
 
