@@ -1,37 +1,3 @@
-__slight__ _n_ :two::shit: _Everyday slights and snubs._ _Seemingly minor slights harm student performance._  
-__snub__ _n_  
-__aggrieved__ _v_ _An aggrieved sense of victimhood._  
-__victimhood__  
-__redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
-__carat__  
-__belying__ _v_  
-__hurl__ _v_ _An ethnic slur hurled at her._  
-__precarious__  
-__living quarters__ _Precatious makeshoft living quarters._  
-__holistic__  
-__get ahold__  
-__shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
-
-
-
-
-
-
-
-
-
-__draw__ _Homeless camps are a draw._  
-__boom box__  
-__strip mall__ _n_  
-__makeshift__  
-__cardiac arrest__  
-__game plan__  
-__health condition__  
-__grave liner__ _Grave liners are stored at the Travis County cemetery._  
-__alienate__ _v_ _Alcoholism and violence alienated him from his family._  
-__established__ _Rstablished 1978._  
-__rumbling__  
-__rolling hills__  
 
 
 
@@ -287,6 +253,7 @@ __aftermarket__
 __afterward__  
 __agape__ _He stood there with his mouth agape._  
 __aggravate__ (aggravated) :two::shit: _v_  
+__aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
@@ -299,6 +266,7 @@ __akin__
 __alabaster__  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __alderman__ _n_  
+__alienate__ _v_ _Alcoholism and violence alienated him from his family._  
 __alienated__  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adverb_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _ poured a big glass of milk but then it spilled all over the place._  
@@ -563,6 +531,7 @@ __bellwether__
 __belly-flop__  
 __belt out__  
 __belting__  
+__belying__ _v_  
 __bemoan__ _v_ :six::shit: (bemoaned, bemoaning)  
 __bemused__  
 __bender__ _His mother was on a bender._  
@@ -711,6 +680,7 @@ __boogie__
 __bookend__ :two::shit:  
 __bookish__  
 __boom and bust__  
+__boom box__  
 __boomer chains__  
 __booms__ _n_ :two::shit:  
 __boon__ /buːn/ :four: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
@@ -940,6 +910,8 @@ __capped__ _v_
 __cappie__ _n_  
 __capsized__  
 __capstone__ _n_  
+__carat__  
+__cardiac arrest__  
 __careens__ _v_ :four::shit: (careened, careening)  
 __carnage__ :two::shit:  
 __carnation__ :open_mouth: :two: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
@@ -1598,6 +1570,7 @@ __dragnet__
 __drain board__ _n_ :three::shit: (drainboard)  
 __drape__ _v_ :four::shit: (draped, draping)  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
+__draw__ _Homeless camps are a draw._  
 __drawl__ _n_ :two::shit: _A Southern drawl._  
 __dread__ _v_  
 __dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
@@ -1775,6 +1748,7 @@ __err__ _"The well-being of your child os of paramount concern," he wrote in his
 __erupted__  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __escrow__ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__established__ _Established 1978._  
 __estrange__ _v_ __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __etched__ _v_  
 __etchings__  
@@ -2119,6 +2093,7 @@ __galling__ _adj_ :two::shit: _A galling loss._
 __galvanize__ _v_  
 __galvanized__  
 __gambit__  
+__game plan__  
 __gamine__  
 __gander__ _Take a dander at the college girls._  
 __gandy__ _Gandy walkers._  
@@ -2156,6 +2131,7 @@ __gentrification__
 __gentry__  
 __genuflects__ _v_  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
+__get ahold__  
 __get enough__  
 __get-go__ :three::shit: _They wanted him to be Superman from the get-go._  
 __getaway day__  
@@ -2241,6 +2217,7 @@ __grass-routs__ _Grass-routs campaign._
 __grate<sup>1</sup>__ _n_  
 __grate<sup>2</sup>__ _v_ :four: (grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
 __grating__ _v_ _A grating sound._  
+__grave liner__ _Grave liners are stored at the Travis County cemetery._  
 __gravely__  
 __gravesite__  
 __gravitate__ _He gravitated toward politics._  
@@ -2420,6 +2397,7 @@ __header__ _He scored with a header._
 __headway > make headway__ :shit::two: _Secetary Kerry has made headway against the odds._   
 __headwind__ :five: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__  
+__health condition__  
 __hearing__ _law_  
 __hearkened__  
 __hearsay__ :two::shit:  
@@ -2506,6 +2484,7 @@ __holding sway__
 __holdout__ :two::shit: _A weeklong holdout._  
 __holdup__ _v_  
 __hole up__ _v_  
+__holistic__  
 __holloware bullion__ 
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
 __homebody__  
@@ -2557,7 +2536,7 @@ __hunk__ (hunky) :four: /hʌŋk/ _n_ __1__ _Informal_ A large piece; a chunk: _a
 __hunkered__ _v_  
 __hunky-dory__    
 __hurdy-gurdy__  
-__hurl__ _v_ :five: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
+__hurl__ _v_ :six: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurlers__  
 __hurtling__ _v_  
 __husbandry__  
@@ -2928,6 +2907,7 @@ __live wire__
 __livelihoods__  
 __livery driver__  
 __livid__  
+__living quarters__ _Precatious makeshoft living quarters._  
 __living wills__  
 __llama__  
 __loafered__  
@@ -3010,7 +2990,7 @@ __make plays__ _v_ _(football) To make plays._
 __make rounds__  
 __make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__  
-__makeshift__ _adj_ :five::shit:  
+__makeshift__ _adj_ :six::shit:  
 __makeup game__  
 __making waves__ :two::shit:  
 __malarkey__  
@@ -3693,6 +3673,7 @@ __pram__
 __prance__ _v_ :three::shit: _On the floor exercise, Wieber prances, tumbles and smiles._  
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
+__precarious__  
 __predate__ _v_  
 __predator__ _n_  
 __prediabetes__  
@@ -3936,6 +3917,7 @@ __recuse__ _She recused herself._
 __red taoe__ It would add red tape and increasing processing time._  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
+__redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
 __redemptions__ _n_  
 __redo__  
 __redolent__ _adj_ :four::shit: _His ceremony was redolent with tension._  
@@ -4071,7 +4053,7 @@ __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated w
 __roll__ _v_ _U.S. rolls in first World Cup qualifier._  
 __rolling back__ _v_  
 __rolling caisson__  
-__rolling hills__ :es: colinas (onduladas)  
+__rolling hills__ :two::shit: :es: colinas (onduladas)  
 __rolling__  
 __rollout__ _n_  
 __rollouts__  
@@ -4110,6 +4092,7 @@ __rugged__ _He was red carded for a rugged foul._
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
 __rumble<sup>2</sup>__ _v_ :three: Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._  
+__rumbling__  
 __rumblings__ :two::shit: _Rumblings about the trade._  
 __rumdum__  
 __rummage__ :two::shit:  
@@ -4394,6 +4377,7 @@ __shortchange__ _v_
 __shortchanged__ _I think people will be shortchanged._  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__  
+__shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shotgun cottage__  
 __shotgun house__  
 __shotput__ _n_  
@@ -4521,7 +4505,7 @@ __slick<sup>2</sup>__ _v_ :two::shit:
 __slick<sup>3</sup>__ _adj_ :five::shit: _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _They were slick as hell._  
 __slide__ :two::shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _n_ :three::shit: _What's up with someone's slider?_  
-__slight__ :two::shit: _The opera itself is slight._  
+__slight__ _n_ :four::shit: _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slighted__  
 __slim jim__ _n_ :two::shit: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__  
@@ -4628,7 +4612,8 @@ __snowmobiler__
 __snowpack__ _Snowpacking measurements._  
 __snowshoeing__  
 __snub-nosed__ :two::shit: _ Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
-__snub__ _v_ :nine::arrow_up_small::o2: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
+__snub<sup>2</sup>__ _n_  A deliberate slight or affront.  
+__snub<sup>1</sup>__ _v_ :nine::arrow_up_small::o2: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
 __snubbed__ _Snubbed nose._  
 __snuff out__ _v_  
 __snuff__  
@@ -4893,6 +4878,7 @@ __string beans__
 __string knife__ :two::shit:  
 __stringent__ (stringently) :four::shit:  
 __stringer__ _n_ :three::shit:  
+__strip mall__ _n_  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _Writhing in the strobe lights after dark._  
@@ -5430,6 +5416,7 @@ __vetting__
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicious__  
 __viciously__  
+__victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __vie__  
 __vig__ _n_ :three::shit:  
