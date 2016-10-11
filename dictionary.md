@@ -2,6 +2,37 @@
 
 
 
+__lockdown__ _Paris remained in a state of lockdown._  
+__downtrodden__ _Riots rocked downrodden urban aareas across the country._  
+__vexing__ _Vexing problem._  
+
+
+__raucous__  
+__ghastly__  
+__ornate__ _n_  
+__gentrify__ _v_ (gentrifying)  
+__compounded__ _v__The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
+__benchmark__  
+__devolved__ _v_  
+__scrum__ _Beltway scrum._  
+__flash point__ _The latest flaash point is over the president's push to reduce caaarbon pollution._  
+__trample_ _v_  
+__comforter sets__  
+__averse__  
+__for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
+__open-air bus__  
+__careened__ _An open-air tour bus careened wildly out of control._  
+__extricate__  
+__counts__ _Seven counts of murder._  
+__rolling meadows__  
+__upscale__ _Upsale furnishings._  
+__furnishings__ _Upscale furnishings._  
+__cabana__ _n_  
+__daybeds__ _n_  
+
+
+
+
 
 
 
