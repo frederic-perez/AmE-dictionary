@@ -606,7 +606,7 @@ __blight<sup>1</sup>__ _n_ :two::shit:
 __blight<sup>2</sup>__ _v_ (blighted)  
 __blimp__ :two::shit: _A blimp hangar._  
 __blind date__  
-__bling__  
+__bling__ _n_ :two::shit:  
 __blip__ _Fun cars are a blip._  
 __blithe__ :two::shit:  
 __blitheness__  
@@ -766,7 +766,7 @@ __brooding__ :four: _shit:
 __brouhaha__  
 __bruited__  
 __brush__ _To brush fires in California._  _The goats cleared brush._  
-__bubba__  
+__bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __buck up__  
 __buck__ _v_ _Most of the men have never ridden a bucking animal._  
 __bucked__ _v_  
@@ -1210,6 +1210,7 @@ __corralling__ _v_
 __corsages__  
 __cot__ _n_ _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__  
+__cotton candy__  
 __cotton swabs__  
 __couch-ridden__  
 __cough up__ _v_  
@@ -1600,7 +1601,7 @@ __drum up__
 __drum__ _v_  
 __druthers__  
 __dry spel__  
-__dry wall__ :two::shit: :es: _pladur?_  
+__dry wall__ :three::shit: :es: _pladur?_  
 __duchy__ (duys)  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
 __duckboards__ :two::shit:  
@@ -2306,7 +2307,7 @@ __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es:
 __gunwhale__ :two::shit:  
 __guppy__ _n_ :four:  Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurney__ _n_ :two::shit:  
-__gush__ (gushing) :two::shit: _Kids were dancing in the gushing water._  
+__gush__ _v_ :three::shit: (gushing) _Kids were dancing in the gushing water._  
 __gusto__  
 __gut-bucket__ _A gut-bucket string band._  
 __gutsy__  
