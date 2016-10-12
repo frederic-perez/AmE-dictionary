@@ -1,4 +1,17 @@
 
+__mast__ _n_ _The flag was flown at half mast._  
+__flown__ _v_  _The flag was flown at half mast._  
+__vicious__ _A vicious attack._  
+__eerily__  
+__unsalted__ _Pure Irish butters salted and unsalted._  
+__veggie__ _Holiday veggie roast._  
+__cooktop__  
+__waterfront__  
+
+
+
+
+
 
 
 
