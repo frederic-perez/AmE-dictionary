@@ -1567,8 +1567,7 @@ __downhill__ Simple and easy?
 __downpours__  
 __downright__ :dart::two::shit: _Not to mention, just downright good looking._  
 __downsides__  
-__downtrodden__ :two::shit: _The Clippers were the victims, the downtrodden, the doormats._  
-__downtrodden__ _Riots rocked downrodden urban aareas across the country._  
+__downtrodden__ :three::shit: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban aareas across the country._  
 __downturns__ :two::shit:  
 __dowry__  
 __doyenne__  
@@ -1663,8 +1662,7 @@ __eclampsia__
 __edgy__ _adj_ :two::shit: _Aaron has got a style that's humble but edgy._  
 __eel__  
 __eerie__  
-__eerily__  
-__eerily__  
+__eerily__ :two::shit:  
 __effete__  
 __effigies__  
 __effigy__  
@@ -1793,8 +1791,7 @@ __extoll__
 __extols__  
 __extraneous__  
 __extremes__  
-__extricate__  
-__extricate__ _v_  
+__extricate__ _v_ :two::shit:  
 __extricated__  
 __eye black__ :two::shit: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
 __eye mask__ (to sleep)  
@@ -1929,8 +1926,7 @@ __flapjack__ _n_
 __flare-ups__  
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ _The injury flared._  
-__flash point__  
-__flash point__ _The latest flaash point is over the president's push to reduce caaarbon pollution._  
+__flash point__ :two::shit: _The latest flaash point is over the president's push to reduce caaarbon pollution._  
 __flash__  
 __flat-footed__  
 __flatbread__ :two::shit: _Flatbread sandwiches._  
@@ -3368,8 +3364,7 @@ __ordain__ :two: Order (something) officially. _It was ordained that anyone hunt
 __ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordnance__ :two::shit:  
 __ore__  
-__ornate__  
-__ornate__ _n_  
+__ornate__ _n_ :two::shit:  
 __ornery__ :two::shit:  
 __ossified__  
 __ottoman__  
@@ -3904,8 +3899,7 @@ __rattan couch__
 __rattan__  
 __rattle__ _v_ :six::shit: (rattled) _Rattle the world._  
 __rattlers__   
-__raucous__  
-__raucous__ :five: _adj_ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
+__raucous__ :six: _adj_ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchy__  
 __ravaged__ _v_ :two::shit:  
 __ravages__ :two::shit: _The potential ravages of a man-manipulated virus at a research center._  
@@ -5235,8 +5229,7 @@ __trail mix__ :two::shit: _Infused trail mix._
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trainees__ :es: aprendiz?  
 __traipsing__  
-__trample__ _v_  
-__trample__ _v_ :seven::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
+__trample__ _v_ :eight::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __transient__  
 __traps__ _n_  
@@ -5395,8 +5388,7 @@ __uppercut__
 __uppermost__  
 __uppers__  
 __upping__ _v_ :two::shit:  
-__upscale__ :two: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._  
-__upscale__ _Upsale furnishings._  
+__upscale__ :three: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upshot__ _n_ :two::shit:  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstarts__ :two::shit: _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
@@ -5451,8 +5443,7 @@ __vesting__ _The vesting date._
 __vetting__  
 __vexing__ _Vexing problem._  
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
-__vicious__  
-__vicious__ _A vicious attack._  
+__vicious__ :two::shit: _A vicious attack._  
 __viciously__  
 __victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
@@ -5526,8 +5517,7 @@ __water cooler__
 __water down__ :two::shit:  
 __water seepage__  
 __waterfowl__ :two::shit:  
-__waterfront__  
-__waterfront__ _n_ :two::shit:  
+__waterfront__ _n_ :three::shit:  
 __watershed__ :two::shit: _Dignataries recognized the watershed moment of his passing._  
 __waterway__  
 __wavering__ _A wavering statement._  
