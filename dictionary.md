@@ -1,6 +1,34 @@
 
 
 
+__HIV__  
+__juncture__ _Prep football at critical juncture._  
+__rampage__ 
+__wonk__ _An economic wonk._  
+__undercard__ _Undercard debates._  
+__ante__ _n_ _He upped the ante._  
+__fret__  
+__pollster__ _n_  
+__look down__ _v_  
+__migrant__ _n_  
+__stop short__  
+__guise__  
+__zealotry__  
+__undersecretary__  
+__lambast__ _v_  
+__chagrin__ _n_  
+__obnoxious__  
+__clout__ _n_  
+__cadre__ _The collectible cadre of brands._  
+
+
+
+
+
+
+
+
+
 
 
 
