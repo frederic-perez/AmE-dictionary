@@ -19,7 +19,28 @@ __lambast__ _v_
 __chagrin__ _n_  
 __obnoxious__  
 __clout__ _n_  
-__cadre__ _The collectible cadre of brands._  
+__cadre__ _The collectible cadre of brands.__limo__  
+__show-off__ _n_  
+__caplet__ _n_  
+__wit__ _He was at wit's end._  
+__memento__ _Removing mementos from a national park is illegal._  
+__angler__ _n_ _Fisher?_  
+__space heater__ _n_  
+__max out__ _v_ _He maxed out on the education available to black children._  
+__passersby__ _n_  
+__plaster__ _v_ _Blizzard plastets Denver._  
+__march__ _n_ _Demonstrators ona marchin Athens._  
+__hands-off__ _The hands-off approach._  
+__populace__  
+__Whac-A-Mole__  
+__favor__ :dart: _Would you favor or oppose sending ground troops to Mars?_  
+__caved__ _The FAA caved._  
+__cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
+
+
+
+
+_  
 
 
 
