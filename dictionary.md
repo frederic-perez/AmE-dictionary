@@ -884,9 +884,7 @@ __cackling__ _v_
 __cacophony__ :two::shit:  
 __caddish__  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
-__cadre__ _The collectible cadre of brands.  
-__cadre__ _n_  
-__cadres__ _Party cadres._  
+__cadre__ _n_ :three::shit: _The collectible cadre of brands._ _Party cadres._  
 __cajole__ (cajoling) :two::shit: _v_  
 __calf__ _n_  
 __caliph__  
@@ -1085,8 +1083,7 @@ __clot__
 __clothesline__  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
-__clout__ _n_  
-__clout__ _n_ :seven: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
+__clout__ _n_ :eight: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __cloying__ :two::shit: _She is cordial without being cloying._  
 __cluck__  
 __clump__ _n_  
@@ -2746,8 +2743,7 @@ __jumble__ :three: An untidy collection or pile of things. _It was a real emotio
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumper__ _basketball_  
 __jumpers__  
-__juncture__  
-__juncture__ _Prep football at critical juncture._  
+__juncture__ :two::shit: _Prep football at critical juncture._  
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ :two::shit:  
@@ -2829,8 +2825,7 @@ __laid-back guy__
 __lain__  
 __lair__ _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
-__lambast__ (lambasted) :three::shit: _v_  
-__lambast__ _v_  
+__lambast__ _v_ :four::shit: (lambasted)  
 __lambasted__  
 __lambaster__ :_v_  
 __lame__ _Lame excuse._  
@@ -3077,8 +3072,7 @@ __mauled__ _v_
 __mauling__ _The Broncos can be a mauling group._  
 __maw__ _n_ :three::shit:  
 __mawkish__ Effusively or insincerely emotional.  
-__max out__ _v_  
-__max out__ _v_ _He maxed out on the education available to black children._  
+__max out__ _v_ :two::shit: _He maxed out on the education available to black children._  
 __maxim__ :es: máxima  
 __mayhem__ :three::shit:  
 __meager__  
@@ -3895,8 +3889,7 @@ __ramen restaurant__
 __rammed__ _v_ _JFK's PT boat was rammed._  
 __ramming__  
 __ramp up__ :two::shit:  
-__rampage__ 
-__rampage__ :two::shit:  
+__rampage__ :three::shit:  
 __rampant__  
 __ramparts__ :two::shit:  
 __ramshackle__ :two::shit:  
@@ -4701,6 +4694,7 @@ __sow__ :two::shit: _A drunk sow._
 __space heater__ _n_  
 __spangle__ _v_ :five::shit: (spangled, spangling)  
 __spar__ _n_  
+__spare room__ _n_ (spare-room) Guest room, guestroom (). :es: habitación de invitados, cuarto de invitados  
 __spark plugs__  
 __spars__ _n_  
 __spat__ _n_ :four::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
@@ -4889,8 +4883,7 @@ __stomping__ _v_
 __stonewall__ :two::shit: _v_  
 __stoop<sup>1</sup>__ _v_ :six::shit:  
 __stoop<sup>2</sup>__ _n_  
-__stop short__  
-__stop short__ _v_ :six: (stop-short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
+__stop short__ _v_ :seven: (stop-short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stoplights__ :open_mouth:  
 __stoppage__ _A stoppage-time goal._  
 __stopped short__ :two:  
@@ -5439,6 +5432,7 @@ __utility__ :three::shit: _Utility bill._ _Utility companies._ _Utility polse._
 __utterly__  
 __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
 __vacant-eyed__  
+__vacay__ _Informal_ A holiday. _I'm in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
 __vagaries__ :three::shit: _The vagaries of economics._  
@@ -5688,8 +5682,7 @@ __wogs__ _n_
 __womanizer__  
 __womanizing__  
 __wondrous__  
-__wonk__ _An economic wonk._  
-__wonk__ _n_  
+__wonk__ _n_ :two::shit: _An economic wonk._  
 __wonky__ _Wonky details._  
 __wood pellets__  
 __wood rasp__ _n_  
