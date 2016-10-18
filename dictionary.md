@@ -7,7 +7,6 @@
 
 
 
-
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -1926,7 +1925,7 @@ __flah point__
 __flail__ _v_ :three::shit: (flailed, flailing)  
 __flair__ :five: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flak vest__  
-__flak__ :four::shit: _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
+__flak__ _n_ :four: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flameouts__  
 __flaming hair__  
 __flanker__ (soccer position)  
@@ -3048,7 +3047,7 @@ __marmalade__
 __marooned__ _He felt marooned by the silence._  
 __marquee phone__  
 __marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :three: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._  
-__marred__ :four::shit: _v_  
+__marred__ :four: _adj_ If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence.  
 __marsh__ _n_ :two::shit:  
 __marshal__ _v_  
 __marshland__ :two::shit:  
@@ -5284,6 +5283,7 @@ __trill__ _n_
 __trite__  
 __triumvirate__  
 __trodden__  
+__troglodyte__ _n_  
 __troop__  
 __troopers__  
 __troot__  
@@ -5723,7 +5723,7 @@ __yakuza__
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ To fire?  
 __yardage__  
-__yardstick__ :four::shit: _Colleges need some standard yardstick._  
+__yardstick__ :four: _n_ __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
 __yarn__  
 __yawing__ _v_  
@@ -5754,6 +5754,6 @@ __zip-line__ (zip-lining)
 __zip<sup>1</sup>__ _n_ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
 __zip<sup>2</sup>__ _v_ _The ISS zips around Earth once every 90 minutes._  
 __zonk__ _n_ :two::shit:   
-__zoot__ :four::shit: _Zoot pants._  
+__zoot__ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
