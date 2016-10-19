@@ -621,7 +621,7 @@ __blood-expander__
 __blooker__ :two::shit:  
 __bloop__  
 __blotches__ _n_  
-__blotter__ _n_ __1__ :four: Desk pad, a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
+__blotter__ _n_ __1__ :four: Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
 __blotting__ _v_  
 __bloviate__ _v_  
 __blow it off__  
@@ -1438,7 +1438,7 @@ __deranged__
 __derelict__  
 __derision__  
 __derringer__  
-__desk blotter__ :six::shit:  
+__desk blotter__ _n_ :six: See blotter.  
 __despicable__  
 __despondent__  
 __deterrent__ :three::shit:  
@@ -2545,7 +2545,7 @@ __hubby__
 __hubcaps__  
 __hubhub__  
 __hubris__ :two::shit: _Intellectual hubris._   
-__huckster__ :four::shit:  
+__huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huddle__  
 __huff__  
 __huffed__ _v_ :four::shit: (huffing)  
@@ -3963,7 +3963,8 @@ __redemptions__ _n_
 __redo__  
 __redolent__ _adj_ :four::shit: _His ceremony was redolent with tension._  
 __redoubt__  
-__redress__ :four::shit:  
+__redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
+__redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redshirt__  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::shit:  
@@ -5146,7 +5147,7 @@ __thrash__ _v_ :three::shit: (thrashed)
 __throbbed__ _v_ :three::shit: (throbs, throbbing)  
 __throes__ :two::shit:  
 __through and through__ _She was a class act through and through._  
-__through__ :four::shit: _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._  
+__through__ :four: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw in the towel__  
 __throw out the red meat__  
@@ -5474,7 +5475,7 @@ __vicious__ :two::shit: _A vicious attack._
 __viciously__  
 __victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
-__vie__  
+__vie__ _n_ To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::shit:  
 __vilify__ _v_  
 __vindicate__ _v_  
@@ -5495,7 +5496,7 @@ __voltron__
 __vouch__ _v_  
 __voucher__ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
-__vying__ :four::shit:  
+__vying__ _v_ :four:Present participle of vie.  
 __wacko__  
 __wad up__ _v_  
 __wad__ _Wads of cash._  
