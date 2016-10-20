@@ -755,7 +755,8 @@ __brisket__ _n_ :two::shit:
 __bristle__ _v_ :seven: (bristled) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristles__ _n_  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
-__brittle__ :five::shit: _Clean the peanut brittle out of your mouth._  
+__brittle<sup>1</sup>__ _adj_ :five: Something brittle is easily broken. Do you have brittle bones? Then no football or rugby for you.  
+__brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broached__ _v_  
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __brocade__  
@@ -2902,7 +2903,7 @@ __liability__ :two::shit:
 __liaison__ 
 __libation__  
 __libel__  
-__lice__ :four::shit: _Checked him for lice._ _Nits make lice._  
+__lice__ _n_ :four: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licorice__ :three::shit::camera::shit: _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __liege__  
@@ -3087,7 +3088,7 @@ __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medle
 __meds__  
 __melee__ _n_ 
 __mellow__  
-__meltdown__ :four::shit:  
+__meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __meme__  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo__ _A memo sent to reporters._  
@@ -4018,7 +4019,7 @@ __reputedly__ _He reputedly said, "I could stay here forever."_
 __resiliency__  
 __resistance__  
 __resolved__ _The issue was resolved._  
-__respite__ :four::shit: _n_  
+__respite__ _n_ :four: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__  
 __restive__  
 __restlessness__  
@@ -4505,7 +4506,7 @@ __skewer__ _v_
 __skid marks__  
 __skid row__ _His father would take him to a blind pig on skid row._  
 __skid__ _n_ :four: _Informal_ __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
-__skillet__ :four::shit:  
+__skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skimboard__  
 __skimming__  
 __skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._  
