@@ -3,6 +3,40 @@
 
 
 
+__(sic)__  
+__nonsequitur__  
+__preposterous__  
+__demurred__ _v_  
+__embattled__  
+__peppy__ _Peppy but efficient powertrain options._  
+__retirement__  
+__foolproof__ _A foolproof measure._  
+__housing equity__  
+__motoring__  
+__rosy__ _Predictions of a rosy future._  
+__pricey__  
+__poky__ _Coverage was a little poky._  
+__flailed__ _v_  
+__gaffes__  
+__scattershot__  
+__tin ear__ _Hillary has a political tin ear._  
+__flounder__ _v_  
+__deluge__  
+__homegoods__  
+__vindication__  
+__belatedly__ 
+__likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
+__check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
+
+
+
+
+
+
+
+
+
+
 
 
 
