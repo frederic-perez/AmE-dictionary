@@ -3,44 +3,11 @@
 
 
 
-__(sic)__  
-__nonsequitur__  
-__preposterous__  
-__demurred__ _v_  
-__embattled__  
-__peppy__ _Peppy but efficient powertrain options._  
-__retirement__  
-__foolproof__ _A foolproof measure._  
-__housing equity__  
-__motoring__  
-__rosy__ _Predictions of a rosy future._  
-__pricey__  
-__poky__ _Coverage was a little poky._  
-__flailed__ _v_  
-__gaffes__  
-__scattershot__  
-__tin ear__ _Hillary has a political tin ear._  
-__flounder__ _v_  
-__deluge__  
-__homegoods__  
-__vindication__  
-__belatedly__ 
-__likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
-__check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+__(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __35-degree day__  
@@ -557,6 +524,7 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_  
+__belatedly__  
 __belching__  
 __beleaguered__ :six: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belie__ _v_ :four: (belies) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
@@ -1021,6 +989,7 @@ __chasm__ :two: _n_ __1__ A deep, steep-sided opening in the earth's surface; an
 __chastened__  
 __chastize__ _v_  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
+__check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __checker__ _v_ _Checkered history._  
 __checklist__ (single word)  
 __cheekboned__  _High-cheekboned newbies.;-_  
@@ -1458,12 +1427,14 @@ __dell__ _n_ A small secluded wooded valley.
 __deluded__  
 __deluge<sup>1</sup>__ _n_ :two: _The deluge is not over._  
 __deluge<sup>2</sup>__ _v_ :two: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
+__deluge__  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __demean__ _v_ :three::shit: (demeaned, demeaning)  
 __demographic__ _n?_  
 __demonize__  
 __demonstrate__ :open_mouth:  
 __demurely__ :two::shit:  
+__demurred__ _v_  
 __denizens__ :two::shit:  
 __denouement__ _n_ :three::shit:  
 __dent__ (denting) :three: _v_ __1__ Mark with a dent. _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
@@ -1736,6 +1707,7 @@ __emaciated__
 __emancipation__  
 __embark__ _They embark on a motorcade._  
 __embattle__ (embattled) _v_ :todo::shit:  
+__embattled__  
 __ember__ _n_ :two: A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._  _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
@@ -1958,6 +1930,7 @@ __flagstaff__
 __flagstone__ _Flagstone terraces._  
 __flah point__  
 __flail__ _v_ :three::shit: (flailed, flailing)  
+__flailed__ _v_  
 __flair__ :five: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flak vest__  
 __flak__ _n_ :four: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
@@ -2010,7 +1983,7 @@ __floppy > floppy socks__
 __florid__  
 __flotilla__  
 __flotsam__  
-__flounder__ (floundering) _v_  
+__flounder__ _v_ :two::shit: (floundering) _v_  
 __flout__ (flouted, flouting) :three: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
 __flouts__ _v_  
 __flown__ _v_  _The flag was flown at half mast._  
@@ -2038,6 +2011,7 @@ __follow suit__
 __folly__ (follies) :four: __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __foodie__ _A foodie and a friend._  
 __foolhardy__  
+__foolproof__ _A foolproof measure._  
 __foosball table__  
 __foosball__ __Foosball table._  
 __foot-stomping__  
@@ -2140,6 +2114,7 @@ __gabled__ _v_
 __gadfly__  
 __gaff__ _n_  
 __gaffer__ _n_  
+__gaffes__  
 __gag__ _The cases's gag order._  
 __gaggle__ :three: _n informal_ A disorderly group of people.  _A gaggle of Phillies fans taunted him._ _The media gaggle._  
 __gait__ _n_ :two::shit: _A pretty boy with a swing in his gait._  
@@ -2551,6 +2526,7 @@ __holloware bullion__
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
+__homegoods__  
 __homestead__  
 __homie__ _Homies for life._  
 __honcho__  
@@ -2574,6 +2550,8 @@ __hot-rodder__
 __hot-wired__  
 __hotbed__ _n_ :three: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __house > take it to the house__  
+__house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
+__housing equity__  
 __housing__  
 __hoverboard__  
 __hubby__  
@@ -2945,6 +2923,8 @@ __lifeblood__ :two: The blood, as being necessary to life.
 __lifeline__  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
 __lightbulb moment__  
+__lighting rod__ _n_ __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
+__likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
 __lilac__  
 __limb__ _Tree limb._  
 __limerics__  
@@ -3225,6 +3205,7 @@ __motion sickness__ _For one grandson prone to motion sickness, I took some mecl
 __motley__ _adj_ :four: If you've encountered the word motley, it's most likely in the phrase "motley crew," which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. _Motley crew._  
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
+__motoring__  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mouth__ _v_  
@@ -3329,6 +3310,7 @@ __non sequiturs__
 __nonce__  
 __nonchalant__ :two::shit:  
 __nondescript__ :two::shit:  
+__nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
 __noose__ (nooses) :two::shit:  
@@ -3568,6 +3550,7 @@ __pensive__ _v_
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __pep__ :three::shit: :open_mouth: _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._  
+__peppy__ _Peppy but efficient powertrain options._  
 __perch<sup>1</sup>__ _n_  
 __perch<sup>2</sup>__ _v_ :three::shit: 
 __perch__  
@@ -3706,6 +3689,7 @@ __podjo__
 __podna__ :two::shit:  
 __pointed questions__  
 __poise__  
+__poky__ _Coverage was a little poky._  
 __polarizing__  
 __policyholder__  
 __polish__ :two::shit:  
@@ -3758,7 +3742,7 @@ __premium__ _n_ _People would spend hundreds of dollars a month in premiums._
 __prenup__  
 __prep schools__  
 __prep__ _v_ :two::shit:  
-__preposterous__ _adj_ :two::shit:  
+__preposterous__ _adj_ :three::shit:  
 __preppers__  
 __prepping__ _v_  
 __prerogative__  
@@ -3773,6 +3757,7 @@ __preventative__ _Preventative antibiotics._
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
 __preyed__ _v_   
 __prez__ or __Prez__ :two: _n_ _Informal_ President.  
+__pricey__  
 __pries__ _He pries your buttocks apart._  
 __primacy__ _n_  
 __prime-age__  
@@ -3998,8 +3983,8 @@ __redemptions__ _n_
 __redo__  
 __redolent__ _adj_ :four::shit: _His ceremony was redolent with tension._  
 __redoubt__  
-__redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
+__redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
 __redshirt__  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::shit:  
@@ -4062,6 +4047,7 @@ __restraint__ :two::shit: _n_
 __resumption__ :open_mouth: :three::shit: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __rethoric__  
+__retirement__  
 __retrain__ _v_  
 __retread__  
 __retreat__ :two::shit: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
@@ -4147,6 +4133,7 @@ __rope-a-dope__
 __ropy__  
 __rosin box__  
 __roster__ _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
+__rosy__ _Predictions of a rosy future._  
 __roti__ _A roti shop._  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
@@ -4252,7 +4239,7 @@ __scapular__
 __scarce__ :two::shit:  
 __scarlet__  
 __scathing__ :five: Bitterly severe. _His scathing indictment of Congress._  
-__scattershot__  
+__scattershot__ :two::shit:  
 __schadenfreude__  
 __schism__  
 __schlepping__  
@@ -5218,6 +5205,7 @@ __time frame__
 __timeclock__ _Denver Movie Timeclock._  
 __timetable__  
 __timing bag__  
+__tin ear__ _Hillary has a political tin ear._  
 __tinderbox__  
 __tinderdry__  
 __tines__  
@@ -5514,7 +5502,7 @@ __vie__ _n_ To vie for something means to compete for it. Two teams may vie for 
 __vig__ _n_ :three::shit:  
 __vilify__ _v_  
 __vindicate__ _v_  
-__vindication__ :three::shit:  
+__vindication__ :four::shit:  
 __virtually__ :open_mouth: Practically, almost.  
 __vise__ _n_  
 __visitation__  
