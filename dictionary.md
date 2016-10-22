@@ -1,5 +1,28 @@
 
 
+__buck__ _v_ _Twenty players have bucked the trend by staying with one high school program._  
+__juncture__ _The game is at a critical juncture._  
+__sickle cell__  
+__tribulation__ _n_  
+__sizzle__ _n_  
+__chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious and yummy._  
+__yummy__  
+__apace__ _Concussion concerns continue apace._  
+__roster__ _n_  
+__advent__ _n_  
+__lap__ _v_ _Despite being lapped._  
+__haunt__ _v_  
+__sound__ _A sound investment._  
+__heroics__ _DH David Ortiz will be remembered for his postseason heroics._  
+__enact__  
+__injuction__  
+__throng__ _n_ _A throng of news media members._  
+
+
+
+
+
+
 
 
 
