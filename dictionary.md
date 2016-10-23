@@ -20,6 +20,24 @@ __throng__ _n_ _A throng of news media members._
 
 
 
+__pull__ _(root for?)_  _I can't pull for someone else the same way._  
+__irreplaceable__  
+__crossroads__ _I'm at a crossroads._  
+__midget__ _They both raced midgets with plans to go open-wheel racing._  
+__down the strech__ _Williams scored nine points in five minutes down the stretch._  
+__averse__ _He was not averse to using the news media._  
+__lacrosse__ _A lacrosse team._  
+__implausible__  
+__fist-pumper__  
+
+
+
+
+
+
+
+
+
 
 
 __upbeat__ _He's extremely upbeat during down times._  
