@@ -22,6 +22,43 @@ __throng__ _n_ _A throng of news media members._
 
 
 
+__upbeat__ _He's extremely upbeat during down times._  
+__downtrodden__  
+__stepfather__ _(vs godfather)_  
+__dressing room__ _(vs fitting room)_  
+__empty nester__ _He and wife Bekki areempty nesters._  
+__unflappable__ _Jim was unflappable._ 
+__nurture__ _v_ _Dallas Stars flourish under nurturing Nill._  
+__tuck tail__ _You just don't tuck tail and go someplace else._  
+__varsity__ _He was on the junior varsity team._  
+__stay put__ _Gilbert, Fultz among top playets who stayed put._  
+__boorishness__  
+__chanting__  
+__riled up__ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._  
+__incensed__ _v_  
+__gyrate__ _v_  
+__big deal__  
+__tone-deaf__  
+__ailing__ _It is ailing the NFL._  
+__by all accounts__ :dart:  
+__cringe__ _v_  
+__dab__ _v_  
+__seeth__ _v_  
+__pitchfork__  
+__torches__ _n_  
+__tank__ _v_ :three: _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._  
+__speed-dial__ _v_  
+__pennants__ _n_  
+__teardown__ _n_  
+
+
+
+
+
+
+
+
+
 
 
 
