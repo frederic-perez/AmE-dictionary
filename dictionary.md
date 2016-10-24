@@ -239,8 +239,7 @@ __admonition__ _n_ :four: Bringing a skateboard to school is a great way to get 
 __adoring__  
 __adroit__  
 __adulation__  
-__advent__ :two::shit:  
-__advent__ _n_  
+__advent__ _n_ :three::shit:  
 __adverts__  
 __advisory__ :two::shit: _Advisory committee meeting._ _To take an advisory period._  
 __advocacy__ :two::shit:  
@@ -394,8 +393,7 @@ __autocracy__ /ɔːˈtɒkrəsi/ _n_ A system of government by one person with ab
 __autocratic__  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __average citizens__  
-__averse__  
-__averse__ _He was not averse to using the news media._  
+__averse__ :two::shit: _He was not averse to using the news media._  
 __avert__  
 __averted__ _v_  
 __avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
@@ -783,9 +781,7 @@ __bruited__
 __brush__ _To brush fires in California._  _The goats cleared brush._  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __buck up__  
-__buck__ _v_ _Most of the men have never ridden a bucking animal._  
-__buck__ _v_ _Twenty players have bucked the trend by staying with one high school program._  
-__bucked__ _v_  
+__buck__ _v_ :three::shit: (bucked) _Most of the men have never ridden a bucking animal._ _Twenty players have bucked the trend by staying with one high school program._  
 __buckeyes__  
 __bucking the trend__  
 __bucking__ _v_  
@@ -1293,8 +1289,7 @@ __crib__ :two::shit: _n_
 __cribbage__ _game_  
 __crimp__ _v_ :nine: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimson__ _Crimson cereal._  
-__cringe__ :three: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe > me da horror_  
-__cringe__ _v_  
+__cringe__ :four: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe > me da horror_  
 __crinkle__ _v_ (crinked, crinkling) :five::shit:  
 __crinkly__  
 __crippling__ :two::shit: _Crippling drought._  
@@ -1594,8 +1589,7 @@ __downhill__ Simple and easy?
 __downpours__  
 __downright__ :dart::two::shit: _Not to mention, just downright good looking._  
 __downsides__  
-__downtrodden__  
-__downtrodden__ :three::shit: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban aareas across the country._  
+__downtrodden__ :four::shit: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban aareas across the country._  
 __downturns__ :two::shit:  
 __dowry__  
 __doyenne__  
@@ -1621,8 +1615,7 @@ __dreg__ (dregs) :two::shit: _Away from the dregs and junkies._
 __drench__ (drenched) :two::shit:  
 __drenched__  
 __dressed to the nines__  
-__dressing room__  
-__dressing room__ _(vs fitting room)_  
+__dressing room__ :two::shit: _(vs fitting room)_  
 __drink and use__  
 __drive__ _The drive by Senate Democrats to change the rules._  
 __drivetrains__  
@@ -1739,8 +1732,7 @@ __emery__ :two::shit: _An emery wheel._
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
 __empty-net/power-play/short-handed goal__  
-__enact__  
-__enact__ :four: _v_ Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
+__enact__ :five: _v_ Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enamel__  
 __encampment__  
 __encore__ :two::shit:  
@@ -2683,8 +2675,7 @@ __infusion__ _Drug infusions._ _(vs drug injections)_
 __ingots__  
 __ingrained__ _Speeding is deeply ingrained in American culture._  
 __inimical__  
-__injuction__  
-__injuction__ :three: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
+__injuction__ :four: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
 __injury time__  
 __inordinate__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
@@ -2782,8 +2773,7 @@ __jumble__ :three: An untidy collection or pile of things. _It was a real emotio
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumper__ _basketball_  
 __jumpers__  
-__juncture__ :two::shit: _Prep football at critical juncture._  
-__juncture__ _The game is at a critical juncture._  
+__juncture__ :three::shit: _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ :two::shit:  
@@ -4168,8 +4158,7 @@ __rooting__ _v_ _She was rooting in the Dumpster._
 __rope-a-dope__  
 __ropy__  
 __rosin box__  
-__roster__ _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
-__roster__ _n_  
+__roster__ _n_ :two::shit: _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
 __rosy__ _Predictions of a rosy future._  
 __roti__ _A roti shop._  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
@@ -4371,9 +4360,7 @@ __seeped__ _v_
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :two::shit: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
-__seeth__ :two::shit: _v_ _Pujols was left seething._  
-__seeth__ _v_  
-__seethed__ _v_ :two::shit:  
+__seeth__ :five::shit: _v_ (seethed) _Pujols was left seething._  
 __seine__ _v_  
 __seize__ _It is important to seize the opportunity._  
 __sekuhata__ Sexual harassment.  
@@ -4892,8 +4879,7 @@ __staunchest__ :two::shit:
 __stave off__ _v_ :four::shit: (staved off)  
 __stave__ _v_  
 __staves__ _n_  
-__stay put__ :two::shit:  
-__stay put__ _Gilbert, Fultz among top playets who stayed put._  
+__stay put__ :three::shit: _Gilbert, Fultz among top playets who stayed put._  
 __stay__ _Granted a stay of execution._  
 __staying power__  
 __stead__  
@@ -5120,8 +5106,7 @@ __tamale__ _I'm staying away from that one--that's a hot tamale._
 __tamp down__ _v_ :two::shit:  
 __tan__ Color?  
 __tangle__ _v_  
-__tank__ (tanked) _The market tanked._  
-__tank__ _v_ :three: _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._  
+__tank__ _v_ :three: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._  
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__  
@@ -5453,8 +5438,7 @@ __uneasy calm__ _People waited to see whether an uneasy calm would last._
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :two::shit: _They are unfazed by all fof this._  
 __unfettered__ _v_ :three::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._  
-__unflappable__ _Jim was unflappable._  
-__unflappable__ _Unflappable team._  
+__unflappable__ :two::shit: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
 __unfurl__ (unfurling) :two::shit:  
 __unhindered__  
@@ -5476,8 +5460,7 @@ __up and running__
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
 __up__ _v_ _We need to up our game._  
-__upbeat__ _An upbeat approach._  
-__upbeat__ _He's extremely upbeat during down times._  
+__upbeat__ :two::shit: _An upbeat approach._ _He's extremely upbeat during down times._  
 __upend__ _v_ :four: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :four: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
@@ -5522,8 +5505,7 @@ __vane__ _n_ :two::shit: _A smooth metal weather vane._ _A weather vane._
 __vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vapid__  
 __variety store__  
-__varsity__ :three::shit: _He started dating another varsity athlete._ _The junior varsity squad._  
-__varsity__ _He was on the junior varsity team._  
+__varsity__ :four::shit: _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
