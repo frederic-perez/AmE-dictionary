@@ -1,6 +1,29 @@
 
 
 
+__purportedly__  
+__write off__ _v_ _Don't write off Tiger just yet._  
+__talc__ _An Alabama woman blamed the talk in baby powder._  
+__talcum powder__ :two::shit: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
+__stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
+__dance the night away__  
+__libations__ _Dutch libations, like ciders, gins and liqueurs._  
+__ornate__  
+__grizzled__ _v_ _Grizzled ballroom vets._  
+__whisk__ _v_ _A glass elevator whisks you up to the 22nd floor._  
+__outpost__  
+__ogle__ _v_  
+__swilling__ _Beefy men swilling champagne from magnums._  
+
+
+
+
+
+
+
+
+
+
 
 
 
