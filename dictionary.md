@@ -6,8 +6,6 @@
 
 
 
-
-
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -573,7 +571,7 @@ __bid farewell__
 __bid rigging__  
 __bid__ :two: Offer (a certain price) for something, especially at an auction.  
 __big cat__ :es: felino  
-__big deal__  
+__big deal__ :two::shit: _It's not a big deal._  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big-box stores__ :camera::shit:  
@@ -1934,6 +1932,7 @@ __firehouse__
 __first and foremost__  
 __fist-pumper__  
 __fittingly__  
+__fix__ _A quick fix of French fries._  
 __fizz__ (fizzing) :two::shit:  
 __fizzled__  
 __flag-stop service__  
@@ -2918,6 +2917,7 @@ __lemons > dance of the lemons__
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
 __leniency__  
 __lenient__ :three::shit: (leniently) _Olympic officials will be lenient._  
+__lentils__ :es: lentejas  
 __leper__  
 __lepers__  
 __lessen__ _v_  
@@ -5280,6 +5280,7 @@ __toodling__
 __toom__  
 __toot__  
 __toote__ _v_ _Tooting the horn at their friends._  
+__tooth decay__ (cavity, cavities) :es: caries  
 __tooth-wrecking__  
 __toothless__ _Some consider most of those laws toothless._  
 __top flight__ First division?  
