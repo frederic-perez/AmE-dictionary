@@ -1,27 +1,6 @@
 
 
 
-__purportedly__  
-__write off__ _v_ _Don't write off Tiger just yet._  
-__talc__ _An Alabama woman blamed the talk in baby powder._  
-__talcum powder__ :two::shit: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
-__stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
-__dance the night away__  
-__libations__ _Dutch libations, like ciders, gins and liqueurs._  
-__ornate__  
-__grizzled__ _v_ _Grizzled ballroom vets._  
-__whisk__ _v_ _A glass elevator whisks you up to the 22nd floor._  
-__outpost__  
-__ogle__ _v_  
-__swilling__ _Beefy men swilling champagne from magnums._  
-
-
-
-
-
-
-
-
 
 
 
@@ -1387,6 +1366,7 @@ __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Itali
 __dais__ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dallying__  
 __damp__ _v_ :three::shit: _Damping systems._  
+__dance the night away__  
 __dandelions__  
 __dandruff__  
 __dang__ _adj_ _But, dang marketers go crazy._  
@@ -2319,7 +2299,7 @@ __gristle__
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritty__ _The grutty determination._  
-__grizzled__  
+__grizzled__ _v_ :two::shit: _Grizzled ballroom vets._  
 __grocer__ _n_ :two::shit:  
 __grog__  
 __groomed__  
@@ -2957,6 +2937,7 @@ __lewd__
 __liability__ :two::shit:  
 __liaison__ 
 __libation__  
+__libations__ _Dutch libations, like ciders, gins and liqueurs._  
 __libel__  
 __lice__ _n_ :four: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licorice__ :three::shit::camera::shit: _Colored licorice candy._  
@@ -3405,6 +3386,7 @@ __offing__ _A budding rivalry could be in the offing._
 __offset__ _v_  
 __oft-shouting-sermon__  
 __oft__ _Thje oft-hated SAT._  
+__ogle__ _v_  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
 __okra gumbo__  
@@ -3442,7 +3424,7 @@ __ordain__ :two: Order (something) officially. _It was ordained that anyone hunt
 __ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordnance__ :two::shit:  
 __ore__  
-__ornate__ _n_ :two::shit:  
+__ornate__ _n_ :three::shit:  
 __ornery__ :two::shit:  
 __ossified__  
 __ottoman__  
@@ -3469,6 +3451,7 @@ __outpace__ _v_
 __outpacing__ :two::shit:  
 __outpatient__ :two::shit:  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
+__outpost__  
 __outrage__ :two::shit:  
 __outrageous__  
 __outreach__ _He's an HIV outreach worker._  
@@ -3876,6 +3859,7 @@ __puny__ _A puny garden snail._
 __purloin__ _v_ :two::shit: (purloined)  
 __purloined__  
 __purported__ _v_ _JFK's purported affairs._  
+__purportedly__  
 __purse__ _v_ _His lips pursed._  
 __purveyor__ _n_ :three::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ _Pus bags_  
@@ -4946,6 +4930,7 @@ __stipend__ _n_ :two::shit:
 __stipulate__  
 __stir__ _v_  
 __stirring__ _adj_ :two::shit: _Stirring tales._  
+__stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
 __stocking-stuffers__  
@@ -5093,6 +5078,7 @@ __swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)
 __swerved__ _v_ :five::shit: (swerving)  
 __swift__  
 __swilled__ (swilling) :three::shit: _Swilling wine._  
+__swilling__ _Beefy men swilling champagne from magnums._  
 __swimabout__  
 __swindler__ _n_ :three::shit: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
@@ -5120,7 +5106,8 @@ __take by storm__
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __takeout containers__  
 __taking roll__ _The teacher spent 10 min of class taking roll._  
-__talc__ _n_  
+__talc__ _n_ :two::shit: _An Alabama woman blamed the talk in baby powder._  
+__talcum powder__ :two::shit: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __tall order__ :three::shit:  
 __tall tales__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
@@ -5692,7 +5679,7 @@ __whippersnapper__
 __whir__ _n_  
 __whirring__ _v_  
 __whisk broom__  
-__whisk__ _v_ :four::shit: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._  
+__whisk__ _v_ :five::shit: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _A glass elevator whisks you up to the 22nd floor._  
 __whiskers__  
 __whistle-blower__  
 __white elephant__ (?)  
@@ -5798,6 +5785,7 @@ __wringing__ _v_
 __wrinkle__  
 __wrinkling__  
 __writ__  
+__write off__ _v_ _Don't write off Tiger just yet._  
 __writhe__ (writhing) :two::shit:  
 __writhing__ _Dirt flies as 2,500 pounds writhing animal charge across the arena._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
