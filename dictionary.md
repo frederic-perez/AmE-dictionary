@@ -2,6 +2,27 @@
 
 
 
+__Gitmo__ _Guantanamo?_  
+__stiff__ _Stiff political oposition._  
+__sitting__ _Sitting members of parliment._  
+__turnout__ _n_  
+__foregone__  
+__snub__ _n_  
+__fester__ _v_ _VA's challenges will only fester if they are kept shrouded in secrecy._  
+__staffers__  
+__whisk__ _v_ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
+__rampart__ _Ancient stone ramparts._  
+__edgy__  
+
+
+
+
+
+
+
+
+
+
 
 
 
