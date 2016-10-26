@@ -7,7 +7,6 @@
 
 
 
-
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -3008,6 +3007,7 @@ __louse__ _n_
 __lout__ _n_  
 __lovacore__  
 __lovelorn__ _adj_ Sad because of an unrequited love._  
+__low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __low-key__  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
@@ -3312,6 +3312,7 @@ __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com
 __newsy__  
 __nibble__ _n_  
 __nibbling__  
+__nice and easy__ _Informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nifty__ _adj_ _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __nigh__  
 __nightcap__ (nightcaps) :two::shit: _Whiskey nightcaps._  
@@ -3356,6 +3357,7 @@ __nub__ _n_ :two::shit: _A punched nub._
 __nugget__ (nuggets) :two::shit:  
 __nunchucks__  
 __nurse__ _v_  
+__nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nurture__ _v_ _Dallas Stars flourish under nurturing Nill._  
 __nurtured__  
 __nutmeg__ _n_  
@@ -3771,7 +3773,7 @@ __preened__
 __premium__ _n_ _People would spend hundreds of dollars a month in premiums._  
 __prenup__  
 __prep schools__  
-__prep__ _v_ :two::shit:  
+__prep__ _v_ :three::shit:  
 __preposterous__ _adj_ :three::shit:  
 __preppers__  
 __prepping__ _v_  
