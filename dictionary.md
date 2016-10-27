@@ -2,26 +2,6 @@
 
 
 
-__Gitmo__ _Guantanamo?_  
-__stiff__ _Stiff political oposition._  
-__sitting__ _Sitting members of parliment._  
-__turnout__ _n_  
-__foregone__  
-__snub__ _n_  
-__fester__ _v_ _VA's challenges will only fester if they are kept shrouded in secrecy._  
-__staffers__  
-__whisk__ _v_ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
-__rampart__ _Ancient stone ramparts._  
-__edgy__  
-
-
-
-
-
-
-
-
-
 
 
 
@@ -103,6 +83,7 @@ __Generation Yers__
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo wire__ :two::shit:  
 __Gibson glass__  
+__Gitmo__ _Guantanamo?_  
 __Gordian knot__ :two::shit:  
 __Great Dane__  
 __HIV__  
@@ -1702,7 +1683,7 @@ __ebb and flow__ :three::shit: (ebbed and flowed)
 __ebbs and flows__ _The ebbs and flows of life._  
 __ebullient__ :two::shit:  
 __eclampsia__  
-__edgy__ _adj_ :two::shit: _Aaron has got a style that's humble but edgy._  
+__edgy__ _adj_ :three::shit: _Aaron has got a style that's humble but edgy._  
 __eel__  
 __eerie__  
 __eerily__ :two::shit:  
@@ -1909,7 +1890,7 @@ __feral__ :two::shit: _Feral hogs._
 __fern__  
 __ferret out__ _v_  
 __ferret__ :two::shit: _n_  
-__fester__  
+__fester__ _v_ :two::shit: _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festooned__ _v_ :seven::shit: _His podium was festooned with a sign._  
 __feted__  
 __fettered__ _v_  
@@ -2063,6 +2044,7 @@ __foreclosure__ _n_
 __forefathers__  
 __forefront__  
 __forego__  
+__foregone__  
 __foreman__  
 __foreplay__  
 __foreshadow__ _v_  
@@ -3965,6 +3947,7 @@ __ramming__
 __ramp up__ :two::shit:  
 __rampage__ :three::shit:  
 __rampant__  
+__rampart__ _Ancient stone ramparts._  
 __ramparts__ :two::shit:  
 __ramshackle__ :two::shit:  
 __ranch hand__ _He works as a ranch at the prison._  
@@ -4567,9 +4550,8 @@ __singling out__
 __siphon__ _It is fairly easy to syphon profits fr
 __siphoned__ _v_  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
-__sitting American president__  
 __sitting pretty__  
-__sitting__ _A sitting U.S. president._ In office or actual possession.  
+__sitting__ :three: In office or actual possession. _A sitting U.S. president._ _Sitting members of parliment._  
 __sizable__ _Clinton's sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :two: _Rihanna sizzled when she performed in New York._  
 __sizzle<sup>2</sup>__ _n_ :two: _Filming a "sizzle reel."_  
@@ -4738,6 +4720,7 @@ __snowshoeing__
 __snub-nosed__ :two::shit: _ Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::arrow_up_small::o2: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
 __snub<sup>2</sup>__ _n_  A deliberate slight or affront.  
+__snub__ _n_  
 __snubbed__ _Snubbed nose._  
 __snuff out__ _v_  
 __snuff__  
@@ -4862,8 +4845,7 @@ __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his s
 __squishing__  
 __squit__ _Super-soaker squit guns._  
 __staffed__ _v_  
-__staffer__ :three: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
-__staffers__  
+__staffer__ :five: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
 __stagger__ _v_ :three::shit: (staggers) _Walmart will stagger other deals._  
 __stagnant__  
@@ -4936,7 +4918,7 @@ __stickball__ Stickball is a street game related to baseball, usually formed as 
 __sticker price__  
 __sticker shock__  
 __stickler__ :two::shit:  
-__stiff__ :two::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._  
+__stiff__ :three::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._  
 __stifle__ _v_ (stifles, stifled, stifling) :seven: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
 __still life__ _Still life painting._  
@@ -5415,6 +5397,7 @@ __turgid__
 __turkey drumstick__  
 __turning tables__ _Feds turning the tables on ssexual predators._  
 __turnip__ _n_  
+__turnout__ _n_  
 __turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ _:es: facturación, volumen de ventas_ __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnround__  
 __turnstile__ _n_  
@@ -5702,7 +5685,7 @@ __whippersnapper__
 __whir__ _n_  
 __whirring__ _v_  
 __whisk broom__  
-__whisk__ _v_ :five::shit: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _A glass elevator whisks you up to the 22nd floor._  
+__whisk__ _v_ (whisked) :seven::shit: _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
 __whiskers__  
 __whistle-blower__  
 __white elephant__ (?)  
