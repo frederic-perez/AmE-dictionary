@@ -132,6 +132,7 @@ __N/A__ Not available.
 __NATO__ _North Atlantic Treaty Organization_  
 __NCO__  
 __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
+__Nat Geo__ National Geographic.  
 __New Jerusalem__  
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __Old Dominion__ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
@@ -375,7 +376,7 @@ __at any rate__ Whatever happens or may have happened. _For the moment, at any r
 __at odds__  
 __at the earliest__  
 __at the very least__  
-__atavistic__ :three::shit:  
+__atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn't have to be a feeling; it can be anything that's a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atone__ _v_ :two::shit:  
 __atoned__ _v_  
 __attack dog__ _n_  
@@ -3829,7 +3830,7 @@ __protean__ :two::shit:
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __providence__ :three::shit: _It was providence._  
-__provost__ :three::shit: _Vice provost for enrollment._  
+__provost__ _n_ :three: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ :three::shit:  
 __prowled__ _v_  
 __prude__ _n_  
@@ -4049,7 +4050,7 @@ __relegation__ _Sports_
 __relief teams__  
 __relief__ :two::shit: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
 __reliever__  
-__relinquish__ :three::shit:  
+__relinquish__ _v_ :three: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on.  
 __relish__ :two: Enjoy greatly. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._  
 __relished__  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
