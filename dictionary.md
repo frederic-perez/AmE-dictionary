@@ -13,6 +13,32 @@ __lead solder__
 
 
 
+__lame__  
+__demigod__  
+__impeach__ _v_  
+__perjury__  
+__plea deal__  
+__hoverboard__  
+__elevator control box__  
+__vicious_y  
+__hold a referendum__  
+__make no bones__  
+__stonewall__ _v_  
+__tit for that__  
+__meekly__  
+__roll__ _v_ _A country rolling with anger and fear._  
+__Silver State__  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
