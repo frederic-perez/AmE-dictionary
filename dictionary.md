@@ -1,6 +1,33 @@
 
 
 
+__pride__ _v_ :two::shit: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
+__chiropractor__ _n_  
+__mos.__ (Months?)  
+__ethos__ :two::shit: _Employees helping one another remains strong ethos for 13-year-old software firm._ _The ethos of employees helping one another has stayed strong._  
+__BF__ _One of our core values is: Open company, no BS._  
+__leaps and bounds__ _To grow in leaps and bounds._  
+__gravitate__ _v_  
+__tagline__ _Our big tagline is to help others._  
+__cog__ _You don't just feel like a cog in the machine._  
+__schlep__ _v_  
+__impromptu__ _Some things are impromptu._  
+__bailout__  
+__bean bag chair__  
+__red hot__ _Now the market is red hot._  
+__dog-eat-dog__ _It isnot dog-eat-dog here._  
+__shark tank__ _Our culture is not a "Shark tank."_  
+__short__ _He typically wears shorts to work._  
+__Austinites__  
+
+
+
+
+
+
+
+
+
 
 
 
