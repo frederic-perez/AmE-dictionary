@@ -3,46 +3,6 @@
 
 
 
-__bunker oil__  
-__uphold__ _v_  
-__baby formula__ _Baby formula should be "ready-to-feed" or prepated using only filtered water or bottled water._  
-__leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
-__lead solder__  
-
-
-
-
-
-__lame__  
-__demigod__  
-__impeach__ _v_  
-__perjury__  
-__plea deal__  
-__hoverboard__  
-__elevator control box__  
-__vicious_y  
-__hold a referendum__  
-__make no bones__  
-__stonewall__ _v_  
-__tit for that__  
-__meekly__  
-__roll__ _v_ _A country rolling with anger and fear._  
-__Silver State__  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -205,6 +165,7 @@ __SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical sk
 __Sam Browne belt__  
 __Semper fi__ :two::shit:  
 __Seven Dwarf status__ 
+__Silver State__ Nevada.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.
 __Spanish moss__ :two::shit:  
 __Sped case__  
@@ -447,6 +408,7 @@ __axle__ _n_
 __baboon__  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __baby bump__ _Dressing your baby bump._  
+__baby formula__ _Baby formula should be "ready-to-feed" or prepated using only filtered water or bottled water._  
 __back away__  
 __back breaker__  
 __back out__  
@@ -873,6 +835,7 @@ __bungle__ _v_ (bungled) :three::shit: _Cops badly bungled their attempt to fram
 __bungler__ :two::shit: _Upper-crust bunglers._  
 __bungling__ Spoil by incompetence.  
 __bunk__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
+__bunker oil__  
 __bunkmates__  
 __bunraku__  
 __bunt__ _v_ :two::shit: (bunted) _Hamels batted in the third inning and tried to bunt._  
@@ -1482,6 +1445,7 @@ __deluge<sup>2</sup>__ _v_ :two: (deluged) To overwhelm with a large number or a
 __deluge__  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __demean__ _v_ :three::shit: (demeaned, demeaning)  
+__demigod__  
 __demographic__ _n?_  
 __demonize__  
 __demonstrate__ :open_mouth:  
@@ -1750,6 +1714,7 @@ __elderberry__
 __elderly__ :es: tercera edad  
 __elective__ _Other students can take up to four fine arts electives._  
 __elegy__  
+__elevator control box__  
 __elicit__  
 __elicited__  
 __elite__ (elites) :two::shit:  
@@ -2573,6 +2538,7 @@ __hog cracklings__
 __hog the sofa__  
 __hog__ (hogged) :two: _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To take more than one's share of: _Don't hog the couch._  
 __hoist__ (hoisted) :two::shit: _v_ :es: alzar  
+__hold a referendum__  
 __hold back__  
 __hold off__  
 __hold up a fish__  
@@ -2613,7 +2579,7 @@ __house > take it to the house__
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __housing equity__  
 __housing__  
-__hoverboard__  
+__hoverboard__ :two::shit:  
 __hubby__  
 __hubcaps__  
 __hubhub__  
@@ -2668,6 +2634,7 @@ __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: 
 __immigrated__  
 __impairment__  
 __impasse__ :three: :open_mouth: Deadlock or stalemate. _At impasse._  
+__impeach__ _v_  
 __impeachment__  
 __impede__ _v_  
 __impending__ _adj_ :four: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
@@ -2904,7 +2871,7 @@ __lam__ _The Bronco is on the lam._
 __lambast__ _v_ :four::shit: (lambasted)  
 __lambasted__  
 __lambaster__ :_v_  
-__lame__ _Lame excuse._  
+__lame__ :two::shit: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
 __lampooned__  
 __landfill__ :two::shit:    
@@ -2936,6 +2903,8 @@ __lax__ _adj_ :two::shit: (not LAX)
 __lay__ _Lay reader._  
 __layover__ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layups__  
+__leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
+__lead solder__  
 __leaden__  
 __leaf mold__  
 __lean protein__  
@@ -3098,6 +3067,7 @@ __maiden__ _Maiden flight._
 __maim__ _v_ :four: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __mainstay__ _A mainstay of his business._  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
+__make no bones__  
 __make out__ _v_  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
@@ -3168,6 +3138,7 @@ __medevac__ _v_
 __medical discharge__ _A medical discharge._  
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
+__meekly__  
 __melee__ _n_ 
 __mellow__  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
@@ -3632,7 +3603,7 @@ __perch__
 __perennial__  
 __perfunctory__ :three::shit:  
 __periwinkles__  
-__perjury__  
+__perjury__ :two::shit:  
 __perks__  
 __permafrost__  
 __permit__ _Camping permit fee._   
@@ -3731,6 +3702,7 @@ __plaudits__
 __play havoc__  
 __playbook__ :two::shit:  
 __playwright__ :two::shit:  
+__plea deal__  
 __plea__ :two::shit: _A prayerful plea to brek free of alcohol._  
 __plead out__  
 __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
@@ -4193,7 +4165,7 @@ __roil__ _v_ :eight: (roiled, roiling) US term for rile (make someone annoyed or
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
 __roll out__ _The retailer will roll out deals two days early._  
 __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
-__roll__ _v_ _U.S. rolls in first World Cup qualifier._  
+__roll__ _v_ :two::shit: _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._  
 __rolling back__ _v_  
 __rolling caisson__  
 __rolling hills__ :two::shit: :es: colinas (onduladas)  
@@ -4986,7 +4958,7 @@ __stoke up__
 __stoke__ _v_ :nine::shit:  
 __stoking__ _Stoking tensions._  
 __stomping__ _v_  
-__stonewall__ :two::shit: _v_  
+__stonewall__ _v_ :three::shit:  
 __stoop<sup>1</sup>__ _v_ :six::shit:  
 __stoop<sup>2</sup>__ _n_  
 __stop short__ _v_ :seven: (stop-short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
@@ -5306,7 +5278,7 @@ __tipple__
 __tipster__  
 __tirade__ _n_ :two::shit:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
-__tit for tat__  
+__tit for tat__ :two::shit:  
 __titlist__ _He is the former bantamweight titlist._  
 __tix__ Tickets?  
 __tixker__  
@@ -5525,7 +5497,7 @@ __upfield__
 __upheaval__ :two::shit:  
 __upheld__ :three::shit:  
 __uphill battle__  
-__uphold__  
+__uphold__ _v_ :two::shit:  
 __upkeep__  
 __upmarket__  
 __uppercut__  
@@ -5588,7 +5560,7 @@ __vesting__ _The vesting date._
 __vetting__  
 __vexing__ _Vexing problem._  
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
-__vicious__ :two::shit: _A vicious attack._  
+__vicious__ :three::shit: _A vicious attack._  
 __viciously__  
 __victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
