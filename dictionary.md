@@ -1,3 +1,22 @@
+__muck__ _v_  
+__pronged__  
+__sizable__  
+__cement__ _v_  
+__drubbing__  
+__stunting__ _Acidic oceans are stunting growth of coral reefs._  
+__stewardship__  
+__trickle__ _v_  
+__instability__ :open_mouth:  
+__mussels__ _n_  
+
+
+
+
+
+
+
+
+
 
 
 
