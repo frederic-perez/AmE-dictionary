@@ -14,6 +14,38 @@ __mussels__ _n_
 
 
 
+__stale__  
+__pothole__  
+__vicious__  
+__delisted__ _v_  
+__pummeled__ _v_  
+__compel__ _v_  
+__blunting__ _v_  
+__acumen__  
+__mogul__  
+__locales__  
+__belligerent__  
+__flamboyant__  
+__penchant__  
+__preposterous__  
+__juggernaut__  
+__winnowed__  
+__craft beer money__  
+__bunch__ _v_ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
+__Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
+__en masse__ _Cruz supporters are going to bolt to Rubio en masse._  
+__slice of pie__  
+__indefatigable__ :open_mouth:  
+__dissed__ _v_ _Rubio had dissed the Bible._  
+
+
+
+
+
+
+
+
+
 
 
 
