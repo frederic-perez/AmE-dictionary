@@ -25,8 +25,7 @@ __Ames__ _Ames, Iowa._
 __Angeleno__ _n_ A native or inhabitant of Los Angeles.  
 __Argentine__ _The pope is an Argentine._  
 __Attn__  
-__Austinites__  
-__Austinites__  
+__Austinites__ :two::shit:  
 __B & E__ :two::shit: _Somebody did a B&E on you._  
 __BAR__ _BAR man._  
 __BB__ :three::shit: (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
@@ -231,8 +230,7 @@ __acrimony__ :two: _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, res
 __acrophobia__  
 __actuary__ (actuaries) :two: A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acuity__  
-__acumen__  
-__acumen__ :three: :octocat: acumen/acute/agudo _n_ (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza   
+__acumen__ :four: :octocat: acumen/acute/agudo _n_ (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza   
 __ad-lib__ (ad-libs) :two::shit: _v_  
 __adage__  
 __adamant__  
@@ -432,8 +430,7 @@ __bag out__ _v_ _Why'd you bag out on me?_
 __baggie__  
 __bail skip__  
 __bailiwick__  
-__bailout__  
-__bailout__ _n_ :two::shit:  
+__bailout__ _n_ :three::shit:  
 __balderdash__  
 __bale__ _Bales of cotton._  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
@@ -836,8 +833,7 @@ __bumper__
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
 __bumps in the road__  
-__bunch__ _v_ :camera::four::shit: (bunched) _Organic bunched carrots, 98¢ per pound._  
-__bunch__ _v_ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
+__bunch__ _v_ :camera::five::shit: (bunched) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
 __bungee cord__ _n_  
 __bungee rope__  
 __bungle__ _v_ (bungled) :three::shit: _Cops badly bungled their attempt to frame a guilty man._  
@@ -1132,8 +1128,7 @@ __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gai
 __coerced__  
 __coffee-table book__  
 __coffers__ :two::Shit: _San Francisco city coffers._ _State's coffers._  
-__cog__ :four: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
-__cog__ _You don't just feel like a cog in the machine._  
+__cog__ :five: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__  
@@ -1164,9 +1159,8 @@ __commoditization__
 __communiqué__ (communiqués) :two::shit:  
 __compasionate__  
 __compassionate__  
-__compel__ _v_  
-__compel__ _v_  
-__compelling__ _v_  
+__compel__ _v_ :two::shit: (compelling)  
+__compelling__ _adj_ Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __compliance__ _Compliance guy._  
 __comply__ _v_  
 __composite decking__  
@@ -1815,8 +1809,7 @@ __established__ _Established 1978._
 __estrange__ _v_ __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __etched__ _v_  
 __etchings__  
-__ethos__ :two::shit: _Employees helping one another remains strong ethos for 13-year-old software firm._ _The ethos of employees helping one another has stayed strong._  
-__ethos__ _n_ :four: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The D.I.Y. ethos._ :es: espíritu, escala de valores  
+__ethos__ _n_ :seven: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ :es: espíritu, escala de valores  
 __evening star__ _The evening star was out and the moon rising._  
 __every so often__  
 __evicted__ _v_ :three::shit:  
@@ -2298,8 +2291,7 @@ __grating__ _v_ _A grating sound._
 __grave liner__ _Grave liners are stored at the Travis County cemetery._  
 __gravely__  
 __gravesite__  
-__gravitate__ _He gravitated toward politics._  
-__gravitate__ _v_  
+__gravitate__ _v_ :two::shit: _He gravitated toward politics._  
 __graybeards__ _Senate graybeards._  
 __grazing land__ :shit::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __grazing__ _v_ :two::shit:  
@@ -2693,8 +2685,7 @@ __inconsequential__
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incubus__  
 __incumbent__ :three::shit: _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
-__indefatigable__ :open_mouth:  
-__indefatigable__ :two: :open_mouth: _adj_ Incapable or seemingly incapable of being fatigued; tireless.  
+__indefatigable__ _adj_ :three::open_mouth: Incapable or seemingly incapable of being fatigued; tireless.  
 __indelible__ :three::shit: :open_mouth: _An indelible mark._  
 __indict__ _v_ :two::shit:  
 __indictment__ :two::shit:  
@@ -2802,8 +2793,7 @@ __joust__ (jousted) :two::shit: _v_ _Here people jousted with nature._
 __jowls__ :four: A small focal accumulation of fat on the lower cheek overlying the jaw bone; prominent jowls make a person look old(er) and may be a cosmetic concern for the owner.  
 __jowly__  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
-__juggernaut__  
-__juggernaut__ :three::shit:  
+__juggernaut__ :four::shit:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::shit:  
 __juleps__  
@@ -3235,8 +3225,7 @@ __moat__
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
 __modicum__ :three::shit: _A modicum of timidity._  
-__mogul__  
-__mogul__  
+__mogul__ :two::shit:  
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mold__ _n_  
 __moldy__ :two::shit:  
@@ -3285,8 +3274,8 @@ __mover and shaker__ A person who wields power and influence; _"a shaker of trad
 __mover__ _n_  
 __mowed__ _v_  
 __moxie__  
-__muck__ :two::shit: _To transfer road muck onto your leg._  
-__muck__ _v_  
+__muck<sup>1</sup>__ _n_ :two: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
+__muck<sup>3</sup>__ _v_ __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
 __mudcat__ _n_  
 __muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
@@ -3614,8 +3603,7 @@ __peer__ _Peering into their crystal balls._
 __peerless__ 
 __pelt__ _v_ :two::shit: _Inmates pelting him with objects from above._  
 __pen name__  
-__penchant__  
-__penchant__ :seven: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
+__penchant__ :eight: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penknife__ :two::shit:  
 __pennant races__  
 __pennant__ _n_  
@@ -3824,8 +3812,7 @@ __premium__ _n_ _People would spend hundreds of dollars a month in premiums._
 __prenup__  
 __prep schools__  
 __prep__ _v_ :three::shit:  
-__preposterous__  
-__preposterous__ _adj_ :three::shit:  
+__preposterous__ _adj_ :four::shit:  
 __preppers__  
 __prepping__ _v_  
 __prerogative__  
@@ -4607,8 +4594,7 @@ __siphoned__ _v_
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sitting pretty__  
 __sitting__ :three: In office or actual possession. _A sitting U.S. president._ _Sitting members of parliment._  
-__sizable__  
-__sizable__ _Clinton's sizable lead._  
+__sizable__ :two::shit: _Clinton's sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :two: _Rihanna sizzled when she performed in New York._  
 __sizzle<sup>2</sup>__ _n_ :two: _Filming a "sizzle reel."_  
 __sizzle__ _n_  
@@ -4909,8 +4895,7 @@ __stagnant__
 __staid__ :three: _adj_ Sedate, respectable, and unadventurous. _Staid law firms._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
 __stairwell__ :two::shit:  
 __stale antiperspirant__  
-__stale__  
-__stale__  
+__stale__ :two::shit:  
 __staler__ _The air in the place grew staler._  
 __stalk__ _n_  
 __stalwart__ :nine::arrow_up_small::o2: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
@@ -5411,9 +5396,7 @@ __tribute__ _Her fellow tribute and her hunting buddy._
 __trick pad__  
 __trickle down__ _v_ :two: To pass from high-ranked people to lower-ranked people.  
 __trickle<sup>1</sup>__ _n_ :seven: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._  
-__trickle<sup>2</sup>__ _v_  
-__trickle__ _v_  
-__trickle__ _v_  
+__trickle<sup>2</sup>__ _v_ :three::shit:  
 __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_  
@@ -5609,8 +5592,7 @@ __vesting__ _The vesting date._
 __vetting__  
 __vexing__ _Vexing problem._  
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
-__vicious__  
-__vicious__ :three::shit: _A vicious attack._  
+__vicious__ :four::shit: _A vicious attack._  
 __viciously__  
 __victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
@@ -5795,8 +5777,7 @@ __window sash__ _n_
 __windshield wipers__  
 __wingtips__  
 __winking__ _v_  
-__winnowed__  
-__winnowed__ _Nominations are winnowed down to 10 finalists._  
+__winnowed__ :two::shit: _Nominations are winnowed down to 10 finalists._  
 __winsome__  
 __winterkill__  
 __wintry__ :two: _adj_ :es: invernal  
