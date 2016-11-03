@@ -2981,7 +2981,7 @@ __likened himself to__ _Mark faked his death and likened himself to a werewolf t
 __lilac__  
 __limb__ _Tree limb._  
 __limerics__  
-__limestone__ _n_  
+__limestone__ _n_ :two::shit:  
 __limo__  
 __linchpin__ _n_ :three::shit:  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -3126,8 +3126,9 @@ __marshmallow__ _n_
 __mart__ A place of trade, eg. an auction room or market.  
 __martyr__  
 __marzipan__  
-__mash__ :three::shit: _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
-__masonry__ __limestone__  
+__mash<sup>1</sup>__ _v_ When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it.  
+__mash<sup>2</sup>__ _n_ A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
+__masonry__  
 __mast__ _n_ _The flag was flown at half mast._  
 __matahara__ Maternity harassment.  
 __matchmaking service__  
@@ -4689,7 +4690,7 @@ __slouchy__
 __slough<sup>1</sup>__ _n_ :three::shit:  
 __slough<sup>2</sup>__ _v_ :four::shit: _Henry sloughs off questions about his odometer._  
 __slow-as-molases__  
-__sludge__ :three::shit: _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
+__sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug__ (slugs) :two::shit:  
 __slugs__  
 __sluice__ _v_ :five::shit: (sluicing)  
@@ -5541,7 +5542,7 @@ __upshot__ _n_ :two::shit:
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstarts__ :two::shit: _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
-__upswing__ :three::shit:  
+__upswing__ _n_ :three: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__  
 __uptick__ _n_ :shit::two:  
 __uptight__ _v_  
@@ -5851,7 +5852,8 @@ __yarn du jour__
 __yarn__  
 __yawing__ _v_  
 __yawning pit__  
-__yawning__ :three::shit: _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
+__yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively opes your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
+__yawning<sup>2</sup>__ _adj_ With the mouth wide open indicating boredom or sleepiness.  
 __yearn__ _v_ __1__ :two: To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :four: Prolonged unfulfilled desire or need. _Syn_ longing  
 __yearnings__  
