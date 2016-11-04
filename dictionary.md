@@ -1207,7 +1207,7 @@ __construe__ _v_
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __content__  
 __contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
-__contentious__ :three::shit:  
+__contentious__ _adj_ :three: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contiguous > the contiguous U.S.__  
 __contingency plan__  
 __contingency__  
@@ -1571,7 +1571,7 @@ __doldrums__
 __dole out__ _v_ :seven: To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __doled out__ _v_  
 __dolirometer__  
-__dollop__ :three::shit: _An extra dollop of drama._  
+__dollop__ :three: A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
 __domicile__  
 __don't count your chickens before they're hatched__ Don't make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
@@ -2969,7 +2969,7 @@ __libation__
 __libations__ _Dutch libations, like ciders, gins and liqueurs._  
 __libel__  
 __lice__ _n_ :four: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
-__licorice__ :three::shit::camera::shit: _Colored licorice candy._  
+__licorice__ :three::camera: If you've ever had a long, sweet, chewy, black candy, you've probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __liege__  
 __lifeblood__ :two: The blood, as being necessary to life.  
@@ -3604,6 +3604,7 @@ __peer__ _Peering into their crystal balls._
 __peerless__ 
 __pelt__ _v_ :two::shit: _Inmates pelting him with objects from above._  
 __pen name__  
+__pen__ _v_ :three: (penned) To write or compose. _I penned a letter._  
 __penchant__ :eight: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penknife__ :two::shit:  
 __pennant races__  
@@ -3611,7 +3612,6 @@ __pennant__ _n_
 __pennants__ _n_  
 __penned hogs__  
 __penned up__  
-__penned__ :three::shit:  
 __penny-pinch__ _Penny-pinching conservatives._  
 __pens__ _n_ _Screened pens with rabbits._  
 __pensive__ _v_  
@@ -4517,7 +4517,7 @@ __shoot up__ :two::shit: _The number of homeless families shot up during the rec
 __shooting gallery__  
 __shopkeeper__ :three::shit:  
 __shore up__ _v_ :five: (shoring up) Support by placing against something solid or rigid.  
-__shorn__ :three::shit: _Shorn head._  
+__shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short-handed__  
 __short__ _He typically wears shorts to work._  
 __shortchange__ _v_  
