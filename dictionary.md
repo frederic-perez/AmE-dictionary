@@ -1,6 +1,31 @@
 
 
 
+__wry__  
+__hokum__ :two::shit: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
+__trite__  
+__carol__ _v_ (caroling) (vs Christmas carol)  
+__wholesome__ :two::shit:  
+__feel for__  
+__alecky__ _Smart-alecky wit._  
+__goody-goody__ _Goody-goody expressions._  
+__unscathed._  
+__this time around__ :dart::shit:  
+__woodwork__ _n_ (casket?)  
+__sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
+__get set__ _v_  
+__bubbly__ _Bubbly breatlessness._  
+__call out__ _Lee called out Hollywood for lacking diversity._  
+
+
+
+
+
+
+
+
+
+
 
 
 
