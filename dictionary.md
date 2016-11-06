@@ -1,3 +1,19 @@
+__epitome__ _n_  
+__brogue_y _n_  
+__ho-hum__  
+__wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
+__nest egg__  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
