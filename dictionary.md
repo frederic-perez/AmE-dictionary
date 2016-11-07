@@ -1,44 +1,3 @@
-__epitome__ _n_  
-__brogue_y _n_  
-__ho-hum__  
-__wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
-__nest egg__  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-__wry__  
-__hokum__ :two::shit: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
-__trite__  
-__carol__ _v_ (caroling) (vs Christmas carol)  
-__wholesome__ :two::shit:  
-__feel for__  
-__alecky__ _Smart-alecky wit._  
-__goody-goody__ _Goody-goody expressions._  
-__unscathed._  
-__this time around__ :dart::shit:  
-__woodwork__ _n_ (casket?)  
-__sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
-__get set__ _v_  
-__bubbly__ _Bubbly breatlessness._  
-__call out__ _Lee called out Hollywood for lacking diversity._  
-
-
-
-
-
-
-
 
 
 
@@ -316,6 +275,7 @@ __akin__
 __alabaster__  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __alderman__ _n_  
+__alecky__ _Smart-alecky wit._  
 __alienate__ _v_ _Alcoholism and violence alienated him from his family._  
 __alienated__  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
@@ -818,6 +778,7 @@ __broached__ _v_
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __brocade__  
 __brogue__  
+__brogue__ _n_  
 __broken English__  
 __broken accent__  
 __broker__ _v_ :four: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
@@ -830,6 +791,7 @@ __brouhaha__
 __bruited__  
 __brush__ _To brush fires in California._  _The goats cleared brush._  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
+__bubbly__ _Bubbly breatlessness._  
 __buck up__  
 __buck__ _v_ :three::shit: (bucked) _Most of the men have never ridden a bucking animal._ _Twenty players have bucked the trend by staying with one high school program._  
 __buckeyes__  
@@ -947,6 +909,7 @@ __cajole__ (cajoling) :two::shit: _v_
 __calf__ _n_  
 __caliph__  
 __calisthenics__  
+__call out__ _Spike Lee called out Hollywood for lacking diversity._  
 __call out__ _v_ :two::shit: _Rodger's best play: Calling out prejudiced fan._  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __calling card__  
@@ -982,6 +945,7 @@ __careens__ _v_ :four::shit: (careened, careening)
 __carnage__ :two::shit:  
 __carnation__ :open_mouth: :two: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
+__carol__ _v_ (caroling) (vs Christmas carol)  
 __caromed__ _v_ :three::shit: (caroming)  
 __carpet bombing__  
 __carping__ _v_  
@@ -1836,6 +1800,7 @@ __epicurean__
 __epidemic__ _n_ Notice: _n_!  
 __epithet__  
 __epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
+__epitome__ _n_  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ (eponymously) :two::shit:  
 __equaled__ _v_  
@@ -1937,6 +1902,7 @@ __feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A ne
 __featuring__  
 __feckless__ _adj_ :two::shit:  
 __fecklessness__  
+__feel for__  
 __feint__  
 __feisty__ :two::shit:  
 __felled__ _v_ _He felled a giant._  
@@ -2244,6 +2210,7 @@ __genuflects__ _v_
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __get ahold__  
 __get enough__  
+__get set__ _v_  
 __get-go__ :three::shit: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __ghastly__  
@@ -2306,6 +2273,7 @@ __goo__ _Informal_ Sticky substance.
 __good egg__ _A heel who learns how to be a good egg._  
 __good sport(s)__  
 __good-nature__  
+__goody-goody__ _Goody-goody expressions._  
 __gooey__ :three: Soft and sticky. _Gooey butter cake._  
 __gooks__ _n_  
 __goose chase__ _A global goose chase._  
@@ -2581,6 +2549,7 @@ __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right hor
 __hither__  
 __hitherto__  
 __ho-hum__  
+__ho-hum__  
 __ho__  
 __hoary__ :two::shit:  
 __hobble__ _v_ :two::shit: (hobbled)  
@@ -2593,6 +2562,7 @@ __hog cracklings__
 __hog the sofa__  
 __hog__ (hogged) :two: _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To take more than one's share of: _Don't hog the couch._  
 __hoist__ (hoisted) :two::shit: _v_ :es: alzar  
+__hokum__ :two::shit: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__  
 __hold off__  
@@ -3382,6 +3352,7 @@ __nefarious__
 __nematodes__  
 __neoteric__  
 __nepotism__ :two::shit:  
+__nest egg__  
 __nest egg__ :two::shit:  
 __nether__  
 __neutered__  
@@ -4835,6 +4806,7 @@ __sorely__
 __sorority__ _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sort put__  
+__sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __sound__ _A sound investment._  
 __souping up__ _v_  
 __southpaw__ :two: _n_ A left-handed boxer who leads with the right hand. _To fight a southpaw._ _Informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ _:es: zurdo_  
@@ -5296,6 +5268,7 @@ __thick and thin__ _Supporters ready to back them through thick and thin._
 __thicket__ :three::shit: (thickets)  
 __think tank__ :two:  
 __this and that__  
+__this time around__ :dart::shit:  
 __thoroughfare__  
 __thoroughly__  
 __thrall__ :two::shit:  
@@ -5443,6 +5416,7 @@ __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) 
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_  
 __trite__  
+__trite__  
 __triumvirate__  
 __trodden__  
 __troglodyte__ _n_  
@@ -5552,6 +5526,7 @@ __unraveling__
 __unrepentant__  
 __unrestrained__  
 __unsalted__ _Pure Irish butters salted and unsalted._  
+__unscathed__  
 __unscathed__ :two: _adj_ Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unsightly__ _Manning looking at unsightly ending._  
 __unspooling__ _Unspooling microphone cables._  
@@ -5698,6 +5673,7 @@ __wariness__
 __warrant__ :two::shit: _v_  
 __wary__ _He is wary of the situation._  
 __wash up__ _v_ _A washed up player._  
+__wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
 __washtub__  
 __washwoman__  
 __wastrel__  
@@ -5785,6 +5761,7 @@ __whittling__
 __whodunit__  
 __wholesale__ :two::shit: _Russia stands for wholesale orruption._  
 __wholesaler__ :two::shit:  
+__wholesome__ :two::shit:  
 __whoop__ _v_ :two::shit: _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
@@ -5852,6 +5829,7 @@ __wood pellets__
 __wood rasp__ _n_  
 __woodstove__ _n_  
 __woodwork__  
+__woodwork__ _n_ (casket?)  
 __wooly__  
 __woomb__  
 __woozy__ :two::shit:  
@@ -5882,6 +5860,7 @@ __write off__ _v_ _Don't write off Tiger just yet._
 __writhe__ (writhing) :two::shit:  
 __writhing__ _Dirt flies as 2,500 pounds writhing animal charge across the arena._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
+__wry__  
 __wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __wunderkind__  
 __yakuza__  
