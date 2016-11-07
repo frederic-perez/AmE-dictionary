@@ -777,8 +777,7 @@ __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the 
 __broached__ _v_  
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __brocade__  
-__brogue__  
-__brogue__ _n_  
+__brogue__ _n_ :two::shit:  
 __broken English__  
 __broken accent__  
 __broker__ _v_ :four: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
@@ -909,8 +908,7 @@ __cajole__ (cajoling) :two::shit: _v_
 __calf__ _n_  
 __caliph__  
 __calisthenics__  
-__call out__ _Spike Lee called out Hollywood for lacking diversity._  
-__call out__ _v_ :two::shit: _Rodger's best play: Calling out prejudiced fan._  
+__call out__ _v_ :three: __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __2__  Challenge to a duel. _Aaron Burr called out Alexander Hamilton._  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __calling card__  
 __calliopes__   
@@ -1799,8 +1797,7 @@ __ephemeral__
 __epicurean__  
 __epidemic__ _n_ Notice: _n_!  
 __epithet__  
-__epitome__ :two: _n_ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
-__epitome__ _n_  
+__epitome__ _n_ :three: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ (eponymously) :two::shit:  
 __equaled__ _v_  
@@ -2548,8 +2545,7 @@ __hitch<sup>1</sup>__ _n_
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__  
 __hitherto__  
-__ho-hum__  
-__ho-hum__  
+__ho-hum__ _adj_ _Informal_ :two: So lacking in interest as to cause mental weariness; dull; mediocre. _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._  
 __ho__  
 __hoary__ :two::shit:  
 __hobble__ _v_ :two::shit: (hobbled)  
@@ -3352,8 +3348,7 @@ __nefarious__
 __nematodes__  
 __neoteric__  
 __nepotism__ :two::shit:  
-__nest egg__  
-__nest egg__ :two::shit:  
+__nest egg__ :three::shit:  
 __nether__  
 __neutered__  
 __news media outlets__  
@@ -5415,8 +5410,7 @@ __trickle<sup>2</sup>__ _v_ :three::shit:
 __trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_  
-__trite__  
-__trite__  
+__trite__ _adj_ :two: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
 __trodden__  
 __troglodyte__ _n_  
@@ -5526,8 +5520,7 @@ __unraveling__
 __unrepentant__  
 __unrestrained__  
 __unsalted__ _Pure Irish butters salted and unsalted._  
-__unscathed__  
-__unscathed__ :two: _adj_ Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unscathed__ _adj_ :three: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unsightly__ _Manning looking at unsightly ending._  
 __unspooling__ _Unspooling microphone cables._  
 __unstoppable__ _She is our unstoppable force of nature._  
@@ -5828,8 +5821,7 @@ __wonky__ _Wonky details._
 __wood pellets__  
 __wood rasp__ _n_  
 __woodstove__ _n_  
-__woodwork__  
-__woodwork__ _n_ (casket?)  
+__woodwork__ _n_ :two::shit:  
 __wooly__  
 __woomb__  
 __woozy__ :two::shit:  
@@ -5860,8 +5852,7 @@ __write off__ _v_ _Don't write off Tiger just yet._
 __writhe__ (writhing) :two::shit:  
 __writhing__ _Dirt flies as 2,500 pounds writhing animal charge across the arena._  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
-__wry__  
-__wry__ :three: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
+__wry__ _adj_ :four: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __wunderkind__  
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
