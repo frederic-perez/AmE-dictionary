@@ -681,8 +681,8 @@ __bolo tie__ _n_
 __bologna__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
-__bombast__ :three::shit: _Let's drop the bombast and look at the evidence._  
-__bombastic__  
+__bombast__ _n_ :three: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
+__bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombsights__  
 __bon ton__  
 __bona fide__ :three::shit:  
@@ -1637,6 +1637,7 @@ __drench__ (drenched) :two::shit:
 __drenched__  
 __dressed to the nines__  
 __dressing room__ :two::shit: _(vs fitting room)_  
+__drill__ _v_ __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables."  
 __drink and use__  
 __drive__ _The drive by Senate Democrats to change the rules._  
 __drivetrains__  
@@ -1953,6 +1954,7 @@ __finish one's plate__ See "clean your plate." _Finish your plate!_
 __fink__ _Family man to some, fink to others._  
 __fintech__  
 __fir__  
+__fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire retardant__  
 __fire sale__  
 __firehouse__  
@@ -2351,8 +2353,7 @@ __grudging__ (grudgingly) :two::shit:
 __grueling__  
 __gruff__ :three::shit:  
 __grumble__ _v_ :three::shit:  
-__grunt__ _n_ :four::shit: _The grunt work._ _You'll have as many troopers as you need for the grunt work._  
-__grunts__ :three::shit: _Grunts and generals._  
+__grunt__ _n_ __1__ :two: A deep guttural sound. __2__ :two: _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ :three: _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __guffaw__ (guffaws) :two::shit:  
 __guffawing__  
 __guibble__  
@@ -4470,8 +4471,7 @@ __shank<sup>2</sup>__ _v_ :two: To be stabbed by a homemade knife. _You shanked 
 __shanties__  
 __shantytown__  
 __shaping the bullet__  
-__sharecropper__ :three::shit:  
-__sharecroppers__  
+__sharecropper__ _n_ :four: A sharecropper is a tenant farmer, someone who works land that's rented from its owner. Typically, a sharecropper will pay the landowner with part of the harvest, rather than money.  
 __shark tank__ _Our culture is not a "Shark tank."_  
 __sharpshooter__ :two::shit:  
 __shaved ice__  
@@ -5560,9 +5560,9 @@ __urbanites__
 __urchin__ _An underprivileged urchin._  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __usury__
-__utility__ :three::shit: _Utility bill._ _Utility companies._ _Utility polse._  
+__utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utterly__  
-__uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much ​love for ​your ​wife: _The most ​openly uxorious ​husband is ​almost always the one who is having an ​affair._  
+__uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __vacant-eyed__  
 __vacay__ _Informal_ A holiday. _I'm in France right now, on vacay._  
 __vaccination__  
