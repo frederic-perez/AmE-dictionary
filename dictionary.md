@@ -1475,7 +1475,7 @@ __derringer__
 __desk blotter__ _n_ :six: See blotter.  
 __despicable__  
 __despondent__  
-__deterrent__ :three::shit:  
+__deterrent__ _n_ :three: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __devil-may-care style__  
 __deviled eggs__ :two::shit:  
 __devolve__ _v_ _The party must devolve power._  
@@ -1552,7 +1552,7 @@ __dives__ _v_
 __divest__ _v_ (divested)  
 __divestiture__  
 __divine__ _v_  
-__divots__ :three::shit:  
+__divot__ _n_ :three:   A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
 __divvy up__ _v_  
 __do it by the numbers__  
 __doctored__ _v_ _A photograph doctored by his aides._  
@@ -2946,7 +2946,7 @@ __leer up__
 __leer<sup>1</sup>__ _v_ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ :four: _adj_ _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._  
-__leeway__ :three::shit: _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :three: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __legal tack__  
 __legerdemain__  
@@ -3876,7 +3876,7 @@ __protestation__
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __providence__ :three::shit: _It was providence._  
 __provost__ _n_ :three: A provost is an administrator at a college or university. The provost is very important to the school.  
-__prowess__ :three::shit:  
+__prowess__ _n_ :three: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
 __prude__ _n_  
 __prune-o__ :two::shit:  
@@ -4828,7 +4828,7 @@ __speed demon__
 __speed-dial__ _v_  
 __spendolie__  
 __spew__ _v_  
-__spigot__ :three::shit: _A water spigot._  
+__spigot__ _n_ :three: A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
 __spigots__  
 __spike__ _v_ :four::shit: _The coach spiked his headset during Thursday's loss to the Indiannapolis Colts._  
 __spiked__ _v_  
