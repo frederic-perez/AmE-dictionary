@@ -2267,7 +2267,7 @@ __gobble up__ :two::shit: _v_
 __gobble__ _v_ _Gobbling a plate of spaguetti and meatballs._  
 __goblins__  
 __gold rush__  
-__gonzo__ :three::shit:  
+__gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _Informal_ Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
 __good sport(s)__  
@@ -3586,7 +3586,10 @@ __pass policy__
 __passel__ _A passel of ducks._  
 __passersby__ _n_  
 __pastiche__  
-__pat__ :three::shit: _The too search engines haven't been standing pat._ _There are more pat solutions._  
+__pat<sup>1</sup>__ _v_ Hit lightly. _Pat him on the shoulder._  
+__pat<sup>2</sup>__ _n_ A light touch or stroke.  
+__pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
+__pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
 __pate__ _n_ :two::shit: _His grizzled pate shone like tan wax._  
 __patently__ _Patently absurd._  
 __patois__  
@@ -3757,7 +3760,7 @@ __plumb__ _v_
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_  
 __plunder__  
-__plush__ :three::shit: _To plush cabin amenities._  
+__plush__ _adj_ :three: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __ply__ _v_ :two::shit: _It is the perfecting designed environment to ply his trade._  
 __po'-boy sandwiches__  
 __poach__ _v_  
@@ -3916,6 +3919,7 @@ __purse__ _v_ _His lips pursed._
 __purveyor__ _n_ :three::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ _Pus bags_  
 __pushover__ :two::shit:  
+__pushover__ _n_ A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __put on a clinic__  
 __put skin__ _Put skin in the game._  
@@ -4082,7 +4086,7 @@ __reek<sup>2</sup>__ _v_ :six: (reeks, reeked) Smell strongly and unpleasantly; 
 __reel__ _v_ (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __referenda__  
 __refurbish__  
-__regal__ :three::shit:  
+__regal__ _n_ :three: Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country.  
 __regaled__  
 __regrets__ _n_  
 __regular shipping__ (vs _expedited shipping_)  
