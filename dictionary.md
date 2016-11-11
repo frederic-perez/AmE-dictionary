@@ -28,7 +28,7 @@ __Attn__
 __Austinites__ :two::shit:  
 __B & E__ :two::shit: _Somebody did a B&E on you._  
 __BAR__ _BAR man._  
-__BB__ :three::shit: (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
+__BB__ :three: _n_ A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BO__ :two::shit:  
 __BS__ _One of our core values is: Open company, no BS._  
 __Big C__ Cancer?  
@@ -75,7 +75,7 @@ __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)
 __Frappuccino__  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __GED__ (GED exam) :two: The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
-__GMO__ :three::shit: _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on heathful non-GMO feed._  
+__GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on heathful non-GMO feed._  
 __GWTW__ Gone With The Wind.  
 __Ganjapreneur__  
 __Garden of Gethsemane__  
@@ -948,7 +948,7 @@ __caromed__ _v_ :three::shit: (caroming)
 __carpet bombing__  
 __carping__ _v_  
 __carpool__  
-__carrion bird__ :three::shit:  
+__carrion__ _n_ :dart::three: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry-on bag__  
 __carryover__ _A carryover vehicle._  
 __cart__ _v_ _Quincy was carted off the field._  
@@ -3722,7 +3722,7 @@ __pk__
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __plaid__ _Plaid shirt._  
 __plaintiff__ :two::shit:  
-__plaintive__ :three::shit:  
+__plaintive__ _adj_ :three: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
 __plane__  
 __planks__  _Anti-austerity planks._  
@@ -3792,7 +3792,7 @@ __portable building__ :es: barracones?
 __portend__ _v_ :four::shit: _...may portend a disruption._  
 __portent__  
 __portly__  
-__posh__ :three::shit:  
+__posh__ _adj_ :three: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_  
 __posse__ _A posse clad._  
 __possum__ _n_ :seven::shit: _To play possum._ _He'd been playing possum._  
@@ -3918,8 +3918,7 @@ __purportedly__
 __purse__ _v_ _His lips pursed._  
 __purveyor__ _n_ :three::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ _Pus bags_  
-__pushover__ :two::shit:  
-__pushover__ _n_ A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
+__pushover__ _n_ :three: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __put on a clinic__  
 __put skin__ _Put skin in the game._  
