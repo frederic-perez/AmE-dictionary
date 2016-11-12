@@ -1,5 +1,33 @@
 
 
+__blunt__  
+__dissing__ _v_  
+__recoup__ _v_  
+__stiffer__ _Unleasing stiffer penalties._  
+__tussling__ _v_  
+__enmity__  
+__grappling__  
+__faint__ _Faint irony._  
+__purported__ _The purported attack._  
+__dissimilarly__  
+__nuttily__  
+__agit__  
+__K-12__  
+__solidify__ _v_  
+__headwind__  
+__housing starts__  
+__uptick__ _n_  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
