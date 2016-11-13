@@ -19,6 +19,33 @@ __housing starts__
 __uptick__ _n_  
 
 
+__Philly__  
+__expedite__ :dart: _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__overhead bins__ (airplane) :two::shit:  
+__stunt__ _n_  
+__dearth__ _n_  
+__undergarments__  
+__attaining__ :open_mouth: _I wish you success in attaining your dreams._  
+__layover__ :dart: _To minimize the risk of missing a connection, never book a layover of less than two hours._  
+__check a bag__ :two::shit::open_mouth: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
+__pack__ _v_  
+__valuable__ _n_ :open_mouth_  
+__hassle-free__  
+__walking trail__  
+__baggies__  
+__dibs__ _n_  
+__misprint__ :open_mouth:  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
