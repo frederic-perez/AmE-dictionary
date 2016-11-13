@@ -1,3 +1,50 @@
+__toast__ _A champagne toast._  
+__ho-hum__ _The Panthers won again. 9-0. Ho-hum._  
+__mulligan__ _n_  
+__non-call__ _He complained about non-calls._  
+__mettle__ _This was a game to test his mettle._  
+__gridiron__ _n_  
+__chippy__  
+__blemish__ _n_  
+__pylon__ _n_  
+__roiling__ _v_  
+__growin pains__ _Teams are expecting short-term growing pains._  
+__overarching__  
+__buildup__ _n_  
+__cloak__  
+__bristling__  
+__tirade__ _n_  
+__boon__ _n_  
+__figurehead__  
+__juggernaut__  
+__pop__ _It is not easy to persuade viewers to cough up $60 a pop._  
+__bravado__  
+__oddsmakers__  
+__rally__ _v_ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
+__as good as it gets__ _Right now, Djokovic is about as good as it gets on a tennis court._  
+__forsake__ _v_  
+__stunned__ _v_  
+__trite__  
+__snipe__ _v_  
+__hit and miss__  
+__quash__ _v_  
+__stunning__  
+__stagnant__  
+__in the pocket__ :two::shit: (football) _Standing tall in the pocket._  
+__curt__ _His curt answer._  
+__funk__ _The Packers offense are infull-fledged funk._  
+__relinquish__ _v_  
+__willy-nilly__  
+__premier__ _adj_  
+
+
+
+
+
+
+
+
+
 
 
 __blunt__  
