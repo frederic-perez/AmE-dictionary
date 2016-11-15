@@ -308,7 +308,7 @@ __amped-up__ (amped up) :four: _Informal_ Filled with intense energy and excitem
 __ample__ :two: Enough or more than enough; plentiful. _There is ample time for discussion._ _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amusement park__  
 __analyst__ :open_mouth:  
-__anathema__ :three::shit:  
+__anathema__ _n_ :three: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __ancillary__  
 __andirons__  
 __anew__ :two::shit:  
@@ -533,7 +533,7 @@ __behold__ :two::shit: _The wedding ceremony was a joy to behold._
 __beholden__ _adj_ :four: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::shit: _Beauty is in the eye of the beholder._  
 __beige book__ ?  
-__beignet__ :three::shit:  
+__beignet__ _n_ :three: A deep-fried, yeast-raised doughnut dusted with confectioners' sugar. A square doughnut with no hole.  
 __being let go__ _His mother was let go at the plant in 2006._  
 __being on the fitz__  
 __bejeweled__ _v_  
@@ -745,7 +745,7 @@ __brander__
 __brash__ _It sounded brash._  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
-__bravado__ :three::shit: _But I went into it with a certain bravado._  
+__bravado__ _n_ :three: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning "bragging and boasting," and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: "It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners." _But I went into it with a certain bravado._  
 __brayed__ _v_ :two::shit: (braying)  
 __brazen__ :two::shit: _Brazen lyrics._  
 __brazenly__  
@@ -3175,7 +3175,7 @@ __maw__ _n_ :three::shit:
 __mawkish__ Effusively or insincerely emotional.  
 __max out__ _v_ :two::shit: _He maxed out on the education available to black children._  
 __maxim__ :es: máxima  
-__mayhem__ :three::shit:  
+__mayhem__ _n_ :three: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale.  
 __meager__  
 __meandering__  
 __measles__ :two::shit: :es: _Rubeola_  
@@ -5097,7 +5097,7 @@ __stud__ _v_ :three::shit: (studded)
 __studs__  
 __stuffy__   
 __stump__  _v_ :eight: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet.  
-__stunned__ :four::shit:  
+__stunned__ _adj_ :four: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__  
 __stunt<sup>1</sup>__ _n_  
@@ -5219,7 +5219,8 @@ __tank__ _v_ :three: (tanked) _The Braves are being accussed of losing on purpos
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__  
-__tannic__ :three::shit:  
+__tannic__ _adj_ :three: Derived from tannin.  
+__tannin__ _n_ Any of various complex phenolic substances of plant origin; used in tanning and in medicine.  
 __tantalize__ _v_  
 __tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ :three: _adj_ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
