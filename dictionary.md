@@ -1671,7 +1671,7 @@ __drum up__
 __drum__ _v_  
 __druthers__  
 __dry spel__  
-__dry wall__ :three::shit: :es: _pladur?_  
+__dry wall__ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
 __drywall__ _n_  A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __duchy__ (duys)  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
@@ -3543,7 +3543,7 @@ __over-the-hill__ :two::shit: _I'm over-the-hill for Passion._
 __over-under__  
 __overachieve__  
 __overall standings__ _31 points in the overall standings._  
-__overarching__ :three::shit:  
+__overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
 __overbite__ _n_ :two::shit:  
 __overboard__ _To go overboard._  
 __overflight__  
@@ -4330,7 +4330,7 @@ __sanitize__ _v_
 __sap<sup>1</sup>__ _v_ :five: (sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power).  
 __sap<sup>2</sup>__ _n_ :two::shit: _A flat-sided sap stuck out of his back pocket._  
 __sap__ _v_ _Weak demand sapping trade._  
-__saplings__ :three::shit: _Tree saplings._ _Twisting saplings._  
+__sapling__ _n :three: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __sarcophagus__  
 __sash__  
 __sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
@@ -4445,7 +4445,7 @@ __seaweed__ :two::shit:
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__  _He travels with a security detail._  
 __sedate__ (sedate menswear)  
-__sedition__ :three::shit:  
+__sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
 __seedier__  
 __seediness__  
 __seedy__ _A seedy world._  
@@ -4644,7 +4644,7 @@ __sizzling__ :two::shit: _The sizzling singer._
 __skag__  
 __skate__ _v_ :three::shit: _He don't let nobody skate unless it's for money._  
 __skeet__ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
-__skein__ :three::shit:  
+__skein__ _n_ :three: A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_  
 __skell__ _How you like it, skell?_  
 __skewer__ _v_  
 __skid marks__  
@@ -5580,9 +5580,8 @@ __upend__ _v_ :four: (upended, upending) Become turned or set on end. _The earth
 __upended__ _adj_ :four: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upheaval__ :two::shit:  
-__upheld__ :three::shit:  
 __uphill battle__  
-__uphold__ _v_ :two::shit:  
+__uphold__ _v_ :five: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__  
 __upmarket__  
 __uppercut__  
@@ -5646,7 +5645,7 @@ __vesting__ _The vesting date._
 __vetting__  
 __vexing__ _Vexing problem._  
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
-__vicious__ :four::shit: _A vicious attack._  
+__vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
 __victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
