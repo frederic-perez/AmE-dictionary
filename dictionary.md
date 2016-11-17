@@ -511,7 +511,7 @@ __bedeck__ (bedecked) _v_
 __bedevil__ (bedeviled) :three: _v_ __1__ (of something bad) Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ (of a person) Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedpan__ _n_  
-__bedrock__ :three::shit:  
+__bedrock__ _n_ :three: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __beef up__ :four: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::shit: _He is trying to build some beef and muscle._  
@@ -2089,7 +2089,7 @@ __foregone__
 __foreman__  
 __foreplay__  
 __foreshadow__ _v_  
-__forestall__ :three::shit:  
+__forestall__ _v_ :three: It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
 __forestalled__  
 __forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._  
 __forfeit<sup>2</sup>__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
@@ -3663,7 +3663,7 @@ __perch<sup>1</sup>__ _n_
 __perch<sup>2</sup>__ _v_ :three::shit: 
 __perch__  
 __perennial__  
-__perfunctory__ :three::shit:  
+__perfunctory__ _adj_ :three: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __periwinkles__  
 __perjury__ :two::shit:  
 __perks__  
@@ -4354,7 +4354,7 @@ __scallop__ :two::shit: _A scallop-shell logo._
 __scalper__ _n_ :three::shit:  
 __scam__ (scammed) :two::shit: _v_  
 __scampering__ _v_  
-__scant__ :three::shit: _Details were scant._  
+__scant__ _adj_ :three:Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scapegoated__ _v_  
 __scapular__  
 __scarce__ :two::shit:  
@@ -4426,7 +4426,7 @@ __scuffle<sup>2</sup>__ _n_ _The scuffle and scrape of rubber soles._
 __scumbags__  
 __scupper__ _v_  
 __scuppers__ _n_ :two::shit:  
-__scut work__ :three::shit:  
+__scut work__ :three::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scut__ _Scut work._  
 __scuttle__ _v_ :seven: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuzzy__  
@@ -4456,7 +4456,7 @@ __seeped__ _v_
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :two::shit: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
-__seeth__ :five::shit: _v_ (seethed) _Pujols was left seething._  
+__seethe__ :five::dart: _v_ (seethed)If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
 __seine__ _v_  
 __seize__ _It is important to seize the opportunity._  
 __sekuhata__ Sexual harassment.  
@@ -4979,7 +4979,7 @@ __staunchest__ :two::shit:
 __stave off__ _v_ :four::shit: (staved off)  
 __stave__ _v_  
 __staves__ _n_  
-__stay put__ :three::shit: _Gilbert, Fultz among top playets who stayed put._  
+__stay put__ _v_ :three: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
 __stay__ _Granted a stay of execution._  
 __staying power__  
 __stead__  
