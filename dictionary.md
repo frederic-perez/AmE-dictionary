@@ -2823,7 +2823,7 @@ __joust__ (jousted) :two::shit: _v_ _Here people jousted with nature._
 __jowls__ :four: A small focal accumulation of fat on the lower cheek overlying the jaw bone; prominent jowls make a person look old(er) and may be a cosmetic concern for the owner.  
 __jowly__  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
-__juggernaut__ :five::shit:  
+__juggernaut__ _n_ :five::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one.  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::shit:  
 __juleps__  
@@ -3350,7 +3350,7 @@ __mustachioed__
 __muster__ _v_ To assemble or gather: _mustering for inspection._  
 __musty__  
 __mutt__ _n_ :five::shit:  
-__muzzle__ :three::shit:  
+__muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __mystique__ :open_mouth:  
 __nab__ _v_ :two::shit: (nabbed) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._  
@@ -3656,7 +3656,7 @@ __penny-pinch__ _Penny-pinching conservatives._
 __pens__ _n_ _Screened pens with rabbits._  
 __pensive__ _v_  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
-__pep__ :three::shit: :open_mouth: _A pep talk._ _The Huskies were the ones with pep in their step._  
+__pep__ _n_ :three::open_mouth: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pepper__ _v_ _Five bullet holes peppered the side of one rental town-house._  
 __peppy__ _Peppy but efficient powertrain options._  
 __perch<sup>1</sup>__ _n_  
@@ -3907,7 +3907,7 @@ __proselytize__ :two: :open_mouth: Convert or attempt to convert (someone) from 
 __protean__ :two::shit:  
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
-__providence__ :three::shit: _It was providence._  
+__providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
 __provost__ _n_ :three: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :three: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
@@ -4966,7 +4966,7 @@ __stardom__
 __stargazing__  
 __stark__ :two::shit:  
 __startling__  
-__stately__ :three::shit: _A stately ballroom._ _Stately homes._  
+__stately__ _adj_ :three: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
 __stateroom__ _n_ A private cabin or compartment with sleeping accommodations on a ship or train.  
