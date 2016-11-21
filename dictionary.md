@@ -408,7 +408,7 @@ __avert__
 __averted__ _v_  
 __avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
-__avuncular__ :three::shit:  
+__avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __awash__ :five: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__  
 __axle__ _n_  
@@ -1784,7 +1784,7 @@ __end run__ :two::shit:
 __endeared__  
 __endearing__ _adj_ :five: Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endow__ _v_  
-__endowment__ :three::shit:  
+__endowment__ _n_ :three: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.    
 __endurance__ _Endurance race._  
 __enduring__ _v_  
 __engrossed__  
@@ -2200,7 +2200,7 @@ __garland__ _Garland motifs on carved oak paneling._
 __garner__ _v_ :eight: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garroted__ _v_  
 __gars__ _n_ :three::shit: _Alligator gars._  
-__gas-guzzler__ :three::shit:  
+__gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gash<sup>1</sup>__ _n_ :two::shit:  
 __gash<sup>2</sup>__ _v_ :two::shit: (gashing)  
 __gashed__ _v_ _The Lions gashed the Owls._  
@@ -2389,7 +2389,7 @@ __gum stump__
 __gum tree__  
 __gum up__  
 __gumball__  
-__gumbo__ :three::shit: _Gumbo appetizer bowls._ _Cultural gumbo._  
+__gumbo__ _n_ :three: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
 __gumption__  
 __gums__ _n_  
 __gun show__  
@@ -2398,7 +2398,7 @@ __gunbull__ :two::shit:
 __gung-ho__  
 __gunman__ :two::shit:  
 __gunnel__ _The reel clanked once against the aluminium gunnel._  
-__gunnysack__ :three::shit: (gunnysacks)  
+__gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwhale__ :two::shit:  
 __guppy__ _n_ :four:  Small freshwater fish of South America and the West Indies; often kept in aquariums.  
@@ -5854,7 +5854,7 @@ __wit__ _He was at wit's end._
 __witchcraft__ _A 1958 witchcraft comedy._  
 __wither__ _v_ :two::shit: (withers)  
 __withhold__  
-__wizened__ :three::shit:  
+__wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __woe__ _n_ Misfortune; calamity: _economic and political woes._  
 __wogs__ _n_  
 __womanizer__  
@@ -5862,6 +5862,7 @@ __womanizing__
 __wondrous__  
 __wonk__ _n_ :two::shit: _An economic wonk._  
 __wonky__ _Wonky details._  
+__woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood pellets__  
 __wood rasp__ _n_  
 __woodstove__ _n_  
