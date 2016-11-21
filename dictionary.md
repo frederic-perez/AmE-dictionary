@@ -169,7 +169,7 @@ __Semper fi__ :two::shit:
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
 __Seven Dwarf status__ 
 __Silver State__ Nevada.  
-__Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.
+__Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Spanish moss__ :two::shit:  
 __Sped case__  
 __St. Bernard__  
@@ -591,7 +591,7 @@ __big deal__ :two::shit: _It's not a big deal._
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big-box stores__ :camera::shit:  
-__big-gulper__ _America's big-gulpers._
+__big-gulper__ _America's big-gulpers._  
 __bigot__ /ˈbɪɡət/ _n_ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bilge__ _n_  
 __bilking__ _Durham was  guilty of bilking._  
@@ -792,7 +792,7 @@ __bromance__ :two::shit:
 __bronc__ _Bull and bronc riding._  
 __broncobusting__  
 __brooder house__  
-__brooding__ :four: _shit:  
+__brooding__ :four::shit:  
 __brouhaha__  
 __bruited__  
 __brush__ _To brush fires in California._  _The goats cleared brush._  
