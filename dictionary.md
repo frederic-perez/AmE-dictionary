@@ -6,8 +6,6 @@
 
 
 
-
-
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -216,6 +214,7 @@ __abutting__ _Bungalows abutting._
 __abuzz__  
 __accoitrements__  
 __accolade__ :two: _n_ An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
+__accommodation__ _n_ :open_mouth: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accord__ _Postponed the signing of an accord._  
 __according to plan__ _If everything goes according to plan._  
 __accountant__ :es: contable  
@@ -1603,7 +1602,8 @@ __doorknob hanger__
 __doormat__  
 __doozy__ :two: _Informal_ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
 __dopey__ _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
-__doted__ _v_  
+__dot__ _v_ (dotted) Mark with a dot.  
+__dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __double bill__  
 __double dip__  
 __double down__ :two::shit:  
@@ -1879,6 +1879,7 @@ __fallout__ :nine::arrow_up_small::o2: _Informal_ Side-effects; secondary conseq
 __fallow ground__  
 __fallow__  
 __fame__ _v_  
+__famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's famed brownies are the highlight of every bake sale in town.  
 __famine__ _It could be feasst or famine._  
 __fancy-schmancy__  
 __fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
@@ -5273,6 +5274,8 @@ __tenet__ _n_
 __tenets__  
 __tenuous__ :two::shit:  
 __tepid__ :two::shit:  
+__terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
+__terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
 __terry-cloth__ :three::shit: _A blue terry-cloth pullover._  
 __tester bed__ :two::shit:  
