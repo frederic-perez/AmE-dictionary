@@ -754,7 +754,8 @@ __break-the-china__
 __breakaway__  
 __breakdown__ _Population breakdown._  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
-__breakout__ :three::shit: _He's a total breakout character._  
+__breakout<sup>1</sup>__ _n_ :three: An escape from jail.
+__breakout<sup>2</sup>__ _adj_ :three: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._  
 __breakwater__ _n_  
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
@@ -791,7 +792,7 @@ __bromance__ :two::shit:
 __bronc__ _Bull and bronc riding._  
 __broncobusting__  
 __brooder house__  
-__brooding__ :four::shit:  
+__brooding__ _adj, n_:four: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brouhaha__  
 __bruited__  
 __brush__ _To brush fires in California._  _The goats cleared brush._  
@@ -3167,7 +3168,7 @@ __matchstick__ _n_
 __maternity leave__  
 __matriarch__  
 __matsuri__  
-__mattock__ :three::shit:  
+__mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturities__ _List of maturities._  
 __maudlin__  
 __mauled__ _v_  
@@ -3411,7 +3412,7 @@ __nonsequitur__
 __nonstaff jobs__  
 __nonstop__  
 __noose__ (nooses) :two::shit:  
-__normalcy__ :three::shit: _It took me months to get back to normalcy._  
+__normalcy__ _n_ :three::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy," about getting back to normal life after the war. Since then, the word has been used often instead of "normality." _It took me months to get back to normalcy._  
 __nose > running noses__  
 __nosebleeds__  
 __not even close__ :dart:  
@@ -5623,7 +5624,7 @@ __vane__ _n_ :two::shit: _A smooth metal weather vane._ _A weather vane._
 __vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vapid__  
 __variety store__  
-__varsity__ :four::shit: _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
+__varsity__ _n_ :four: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
