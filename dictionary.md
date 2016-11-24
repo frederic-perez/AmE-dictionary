@@ -6,6 +6,7 @@
 
 
 
+
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -102,7 +103,7 @@ __Janes and Joes__ :open_mouth: _Regular Janes and Joes._
 __Jewry__  
 __Jim Crow__  
 __Jockeys__ _You've probably got him spotting his Jockeys._  
-__K-12__ :three::shit: _K-12 population._ _K-12 students._  
+__K-12__ _n_ :three: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-9__ _A K-9 van._  
 __K-pop__  
 __KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxing match; knock out.  
@@ -690,7 +691,7 @@ __bombast__ _n_ :three: __1__ Grandiloquent, pompous speech or writing. __2__ _O
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombsights__  
 __bon ton__  
-__bona fide__ :three::shit:  
+__bona fide__ __adj__ :three: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
 __bondage__  
 __bone > funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -2861,7 +2862,8 @@ __kike__ _Kike names._
 __kiki__  
 __kill clock__ _v_  
 __kilter__ :two::shit: _Out of kilter with the times._ _Off-kilter_  
-__kindergartners__ :open_mouth::two::shit:  
+__kindergarten__ _n_ :open_mouth: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
+__kindergartner__ :open_mouth::two: A child who attends a preschool or kindergarten.  
 __kindling__  
 __kindred spirits__ :es: almas gemelas  
 __king of the hill__  
@@ -3258,7 +3260,7 @@ __mixed bag__
 __moat__  
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
-__modicum__ :three::shit: _A modicum of timidity._  
+__modicum__ _n_ :three: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __mogul__ :two::shit:  
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mold__ _n_  
@@ -5292,6 +5294,7 @@ __the 105's__
 __the 11th hour__  
 __the Chinese__ _This article was translated from the Chinese._  
 __the day's full of spiders__  
+__the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
 __the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__  
 __thecracy__  
@@ -5622,6 +5625,7 @@ __vamping__ :two::shit:
 __vampire squid__  
 __vane__ _n_ :two::shit: _A smooth metal weather vane._ _A weather vane._   
 __vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vapid__  
 __variety store__  
 __varsity__ _n_ :four: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
@@ -5856,6 +5860,7 @@ __wistful__
 __wistfulness__  
 __wit__ _He was at wit's end._  
 __witchcraft__ _A 1958 witchcraft comedy._  
+__withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
 __wither__ _v_ :two::shit: (withers)  
 __withhold__  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
