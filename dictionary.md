@@ -210,6 +210,7 @@ __abounds__
 __aboveboard__  
 __abreast__ :three: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abs__ _Six-pack abs._  
+__absenteeism__ _n_ :open_mouth: Habitual absence from work.  
 __abutted__  
 __abutting__ _Bungalows abutting._  
 __abuzz__  
@@ -1149,6 +1150,7 @@ __coil__
 __coincided__ _v_  
 __colander__  
 __cold duck__  
+__cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __coleslaw__ _n_ :three::shit:  
 __collapsible__ _Collapsible shutters._  
 __collarbone__ :two::shit:  
@@ -2834,7 +2836,7 @@ __jumble__ :three: An untidy collection or pile of things. _It was a real emotio
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumper__ _basketball_  
 __jumpers__  
-__juncture__ :three::shit: _Prep football at critical juncture._ _The game is at a critical juncture._  
+__juncture__ _n_ :three: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ :two::shit:  
@@ -2982,7 +2984,7 @@ __lemongrass__
 __lemons > dance of the lemons__  
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
 __leniency__  
-__lenient__ :three::shit: (leniently) _Olympic officials will be lenient._  
+__lenient__ _adj_ :three:(leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
 __lentils__ :es: lentejas  
 __leper__  
 __lepers__  
@@ -5269,6 +5271,7 @@ __telling__ _In their telling, the father's experience in Cuba becomes a parable
 __telltale__  
 __temp__ (temps) _n_ :two: Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __tempering__ _A tempering experience_  
+__tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempestuous__  
 __tenants__  
 __tendrils__ _n_  
