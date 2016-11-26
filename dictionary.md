@@ -1,5 +1,25 @@
 
 
+__boon__  
+__roll the dice__  
+__naturalize__ _A naturalized British citizen._  
+__gaping__ _A gaping hole._  
+__hopeful_ _n_ _Shanice Williams beat outhundr{ds of hopefuls to take lead role in 'The Wiz Live!'_  
+__dump__ _A munitions dump._  
+__peal__ _v_ _The bells of Notre Dame pealed._  
+__normalcy__  
+__run-in__ _He ha]d several run-ins with the law._  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
