@@ -1,39 +1,4 @@
 
-__get away with__  
-__on edge__  
-__boon__  
-__roll the dice__  
-__naturalize__ _A naturalized British citizen._  
-__gaping__ _A gaping hole._  
-__hopeful__ _n_ _Shanice Williams beat outhundr{ds of hopefuls to take lead role in 'The Wiz Live!'_  
-__dump__ _A munitions dump._  
-__peal__ _v_ _The bells of Notre Dame pealed._  
-__normalcy__  
-__run-in__ _He ha]d several run-ins with the law._  
-
-
-
-
-
-
-__mat__ _I'm not going to the mat for her._  
-__footwork__  
-__peaks and valleys__  
-__vexing__  
-__misnomer__ _n_  
-__psychopathic__  
-__zeal__ _n_  
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -747,7 +712,7 @@ __boom and bust__
 __boom box__  
 __boomer chains__  
 __booms__ _n_ :two::shit:  
-__boon__ _n_ /buːn/ :five: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
+__boon__ _n_ /buːn/ :six: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondoggle__ :two::shit:  
 __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boorishness__  
@@ -1727,7 +1692,8 @@ __dully__
 __duly__ _Couples duly married._  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas
 __dumbstruck__  
-__dump__ _They walkes to the trash can and dumped their cups._  
+__dump<sup>1</sup>__ _n_ _A munitions dump._  
+__dump<sup>2</sup>__ _v_ _They walkes to the trash can and dumped their cups._  
 __dumpling__ _Bavarian bread dumpling._  
 __dumplings__  
 __dun__ _Dun-colored hair._  
@@ -2113,6 +2079,7 @@ __foosball table__
 __foosball__ __Foosball table._  
 __foot-stomping__  
 __foothold__ _A foothold._  
+__footwork__  
 __for a bit__  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for the ages__ :two::shit: _A comeback for the ages._ _A year for the ages._  
@@ -2231,7 +2198,7 @@ __gander__ _Take a dander at the college girls._
 __gandy__ _Gandy walkers._  
 __gangbangers__  
 __gantlet__ :two::shit: _A media gantlet._  
-__gaping__ _v_  
+__gaping__ :two::shit: _A gaping hole._  
 __gar__ _n_  
 __garb__  
 __gargantuan__  
@@ -2265,6 +2232,7 @@ __gentry__
 __genuflects__ _v_  
 __gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __get ahold__  
+__get away with__  
 __get enough__  
 __get set__ _v_  
 __get-go__ :three::shit: _They wanted him to be Superman from the get-go._  
@@ -2649,6 +2617,7 @@ __hoodlums__
 __hooky__ _A kid playing hooky._    
 __hoop dress__  
 __hoopla__ :three: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
+__hopeful__ _n_ _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __hopefuls__  
 __horse race__  
 __horseshoe__  
@@ -3202,6 +3171,7 @@ __mash<sup>1</sup>__ _v_ When you mash something, you crush it. You might, for e
 __mash<sup>2</sup>__ _n_ A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
 __mast__ _n_ _The flag was flown at half mast._  
+__mat__ _I'm not going to the mat for her._  
 __matahara__ Maternity harassment.  
 __matchmaking service__  
 __matchstick__ _n_  
@@ -3288,7 +3258,7 @@ __misfire__ _v_ (misfiring) :two::shit: _One misfire in the 2000s._
 __misgivings__  
 __mishap__  
 __mishmash__  
-__misnomer__ :four: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ :five: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __misprint__ :open_mouth:  
 __misstated__ _v_  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
@@ -3407,6 +3377,7 @@ __nasal passages__
 __nascent__ :two::shit: _The nascent market._  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ Neat, trim, and smart; dapper.  
+__naturalize__ _A naturalized British citizen._  
 __navel__ :two::shit:  
 __neat__ _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._  
 __necromancer__  
@@ -3452,7 +3423,7 @@ __nonsequitur__
 __nonstaff jobs__  
 __nonstop__  
 __noose__ (nooses) :two::shit:  
-__normalcy__ _n_ :three::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy," about getting back to normal life after the war. Since then, the word has been used often instead of "normality." _It took me months to get back to normalcy._  
+__normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy," about getting back to normal life after the war. Since then, the word has been used often instead of "normality." _It took me months to get back to normalcy._  
 __nose > running noses__  
 __nosebleeds__  
 __not even close__ :dart:  
@@ -3515,6 +3486,7 @@ __omelets__
 __omen__ :two::shit:  
 __ominous__  
 __on deck__  
+__on edge__  
 __on the docket__  
 __on top of that__ _On top of that, ..._  
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
@@ -3674,8 +3646,10 @@ __pavilions__
 __paw__ _v_ _A drunken master paws her._  
 __payback__  
 __paywalls__  
+__peaks and valleys__  
 __peal<sup>1</sup>__ _n :two::shit: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ _Pealing bells._  
+__peal__ _v_ _The bells of Notre Dame pealed._  
 __pearl onions__  
 __peat__ _Battling the blazes in peat swamp forests._  
 __peckerwood__  
@@ -3957,6 +3931,7 @@ __prude__ _n_
 __prune-o__ :two::shit:  
 __pry__ _v_ :six::shit: _To pry the crack open wider and wider._  
 __psyche__  
+__psychopathic__  
 __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
 __pud__ _n_ :five::shit:  
 __puds__ _n_  
@@ -4276,6 +4251,7 @@ __roiling__ _v_
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
 __roll out__ _The retailer will roll out deals two days early._  
 __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
+__roll the dice__  
 __roll__ _v_ :two::shit: _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._  
 __rolling back__ _v_  
 __rolling caisson__  
@@ -4332,7 +4308,7 @@ __rumple__ _v_ :four::shit: (rumpled)
 __rumpled__ _A rumpled man._  
 __rumpus__  
 __run errands__  
-__run-in__ (run-ins) _A run-in with police._  
+__run-in__ :two::shit: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__  
 __runaways__  
 __rung__ _n_  
@@ -5690,7 +5666,7 @@ __verve__ :four: :dart: /vəːv/ _n_ (from French, ‘vigour’) Great ​energy
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vesting__ _The vesting date._  
 __vetting__  
-__vexing__ _Vexing problem._  
+__vexing__ :two::shit: _Vexing problem._  
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
@@ -5974,6 +5950,7 @@ __yule__
 __yummy__  
 __zaniness__  
 __zany__ :four: _adj_ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
+__zeal__ _n_  
 __zealotry__  
 __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero in__  
