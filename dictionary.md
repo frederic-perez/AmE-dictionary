@@ -7,7 +7,6 @@
 
 
 
-
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -90,6 +89,8 @@ __Great Dane__
 __HIV__  
 __HMOs__  
 __Hail Mary__  
+__Hawaiian<sup>1</sup>__ _adj_ :open_mouth: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
+__Hawaiian<sup>1</sup>__ _n_ :open_mouth: A native or resident of Hawaii.  
 __Hedonism__  
 __His Majesty the Sultan__  
 __Holy See__  
@@ -5407,6 +5408,7 @@ __tomboy__
 __ton__ _A metric ton._  
 __tone-deaf__  
 __tong__  
+__tongue-in-cheek__ In a way that is not serious, although it appears to be. _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tonsure__  
 __tony__ :four: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._  
 __toodles__ _v_  
