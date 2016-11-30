@@ -2846,6 +2846,7 @@ __juncture__ _n_ :three: A juncture is a crucial point in time when a decision m
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ :two::shit:  
+__just saying__ _idiom_ (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __jut out__ _The head juts out of the wall._  
 __jutted__ _v_  
 __kabobs__  
