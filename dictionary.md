@@ -90,7 +90,7 @@ __HIV__
 __HMOs__  
 __Hail Mary__  
 __Hawaiian<sup>1</sup>__ _adj_ :open_mouth: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
-__Hawaiian<sup>1</sup>__ _n_ :open_mouth: A native or resident of Hawaii.  
+__Hawaiian<sup>2</sup>__ _n_ :open_mouth: A native or resident of Hawaii.  
 __Hedonism__  
 __His Majesty the Sultan__  
 __Holy See__  
@@ -739,7 +739,7 @@ __bowling alley__
 __box score__  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __bozos__ _n_  
-__brace__ _v_ :six::shit: (braces, braced, bracing) _Online media companies are bracing for change._  
+__brace__ _v_ :six: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._  
 __bracketology__ _Daily bracketology updates._  
 __brainchild__  
 __brainpan__  
@@ -1444,6 +1444,7 @@ __deep freezers__
 __deep-six__ _v_ :two: _informal_ Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
 __deface__ _v_ _Defacing two murals._  
+__defamation__ _n_ :dart::open_mouth: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __default__ _v_ :three::shit: _The Solar Energy company defaulted._  
 __defect__ (defected) :two: _v_ Abandon one's country or cause in favour of an opposing one. _He defected to the Soviet Union after the war._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defected__  
@@ -4768,7 +4769,8 @@ __smart meter__ _n_ _Customers do not want to make the switch from old mechanica
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :six: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
-__smear__ :three::shit: _They use social media to smear their opponents._ _The smear campaign._  
+__smear<sup>1</sup>__ _v_ __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :three: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
+__smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
 __smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smidgen__ _The rosato di petit verdot has a smidgen of complexity._  
@@ -5108,7 +5110,7 @@ __strobe lights__ _The Cubs packed up their fog machine and strobe lights._
 __strobe__ _Writhing in the strobe lights after dark._  
 __struck__  
 __strung out__  
-__strut__ :three::shit: _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
+__strut__ _v_ :three: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stubble__ _n_ :nine::arrow_up_small::o2::shit: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
 __stubby__  
 __stubs__ :two::shit:  
@@ -5227,7 +5229,7 @@ __takeout containers__
 __taking roll__ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_ :two::shit: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ :two::shit: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
-__tall order__ :three::shit:  
+__tall order__ _n_ :three::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
 __tall tales__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __talons__ _The nails were sharp as talons._  
