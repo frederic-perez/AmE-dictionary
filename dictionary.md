@@ -694,7 +694,7 @@ __bombast__ _n_ :three: __1__ Grandiloquent, pompous speech or writing. __2__ _O
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombsights__  
 __bon ton__  
-__bona fide__ __adj__ :three: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
+__bona fide__ _adj_ :three: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
 __bondage__  
 __bone > funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -758,7 +758,7 @@ __break-the-china__
 __breakaway__  
 __breakdown__ _Population breakdown._  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
-__breakout<sup>1</sup>__ _n_ :three: An escape from jail.
+__breakout<sup>1</sup>__ _n_ :three: An escape from jail.  
 __breakout<sup>2</sup>__ _adj_ :three: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._  
 __breakwater__ _n_  
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
@@ -827,7 +827,7 @@ __bug__ _v_ _Informal_ Annoy or bother (someone). _A persistent reporter was bug
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __buggers__  
 __buggy__ _n_ _In the early 1900s, guests arrived by horse and buggy._  
-__bugles__ _n _ :three::shit: _The echo of Chinese bugles._  
+__bugles__ _n_ :three::shit: _The echo of Chinese bugles._  
 __bugout__  
 __buildup__ _n_  
 __bulk__  
@@ -964,7 +964,7 @@ __carrion__ _n_ :dart::three: The noun carrion refers to the dead and rotting fl
 __carry-on bag__  
 __carryover__ _A carryover vehicle._  
 __cart__ _v_ _Quincy was carted off the field._  
-__carve out__ _v (carved out) :six::shit:  
+__carve out__ _v_ (carved out) :six::shit:  
 __carveouts__  
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
@@ -1109,7 +1109,7 @@ __clincher__
 __clinics__ _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clique__ _n_ (cliques) :three: _n_ A small exclusive group of friends or associates. _:es: camarilla_  
 __cliques__
-__cloak__ :two::shit: :es: capa, manto
+__cloak__ :two::shit: :es: capa, manto  
 __cloakroom__ _n_  
 __clobber__ _v_ _Uber threatens to clobber the media._  
 __clobbering__  
