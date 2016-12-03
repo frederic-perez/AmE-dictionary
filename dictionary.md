@@ -1,20 +1,19 @@
 
+__snarky__ _Snarky remarks._  
+__inkling__  
+__flat-footed__  
+__underbellies__  
+__injuction__  
 
 
-
-
-
-
-
-
-__(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
-__105s__  
-__18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
-__35-degree day__  
-__4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  _
+__105s__  _
+__18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.   f
+__35-degree day__  _
+__4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __AB__ _Guys in the AB._  
-__ACK__  
-__ACL__ Anterior cruciate ligament.  
+__ACK__  
+__ACL__ Anterior cruciate ligament.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __Achilles heel__ A weakness or vulnerable point.  
