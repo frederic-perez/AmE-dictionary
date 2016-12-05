@@ -1,9 +1,10 @@
-Hydra  heinous  gsrb_n_  stamina  overblown  worshiper  listening session  prayer book  longstandingelicit _v_  make our bones  exonerate  assert _v_  
-__snarky__ _Snarky remarks._  
-__inkling__  
-__flat-footed__  
-__underbellies__  
-__injuction__  
+
+
+
+
+
+
+
 
 
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  _
@@ -96,6 +97,7 @@ __Holy See__
 __Huey__  
 __Humpty Dumpty__  
 __Humpty-Dumpty__ :two::shit:  
+__Hydra__  
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __Ivy League__  
 __J-strokes__  
@@ -379,6 +381,7 @@ __asp__ _n_
 __aspersion__ _n_  
 __assail__ :two: /əˈseɪl/ _v_ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
+__assert__ _v_  
 __assets__  
 __assists__ _Green had 14 rebounds and nine assists._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
@@ -1753,8 +1756,7 @@ __elderly__ :es: tercera edad
 __elective__ _Other students can take up to four fine arts electives._  
 __elegy__  
 __elevator control box__  
-__elicit__  
-__elicited__  
+__elicit__ _v_ :three::shit: (elicited)  
 __elite__ (elites) :two::shit:  
 __elope__ :four: :dart: _v_ Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __elude__ :open_mouth:  
@@ -1851,7 +1853,7 @@ __exert__ _v_
 __exerted__  
 __exhaust__ _Exhaust fans._  
 __exhibit A__  
-__exonerate__  
+__exonerate__ :two::shit:  
 __expat__ _Baroque debut for Moscow expat choir._  
 __expedite__ _v_ :two::shit::dart: _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
@@ -2007,7 +2009,7 @@ __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._
 __flare<sup>2</sup>__ _v_ _The injury flared._  
 __flash point__ :two::shit: _The latest flaash point is over the president's push to reduce caaarbon pollution._  
 __flash__  
-__flat-footed__  
+__flat-footed__ :two::shit:  
 __flatbread__ :two::shit: _Flatbread sandwiches._  
 __flats__ _n_  
 __flatware coins__    
@@ -2201,7 +2203,7 @@ __gangbangers__
 __gantlet__ :two::shit: _A media gantlet._  
 __gaping__ :two::shit: _A gaping hole._  
 __gar__ _n_  
-__garb__  
+__garb__ _n_ :two::shit:  
 __gargantuan__  
 __gargoyles__ :two::shit:  
 __garish__ :two::shit: :open_mouth: _They are charming and garish at the same time._  
@@ -2531,7 +2533,7 @@ __heel__ _A heel who learns how to be a good egg._
 __heft__ _n_  
 __hefted up__  
 __hefty__  
-__heinous__ :two::shit:  
+__heinous__ :three::shit:  
 __heirlooms__ :two::shit: _Family heirlooms._  
 __heist capers__  
 __heliograph__  
@@ -2743,8 +2745,9 @@ __infusion__ _Drug infusions._ _(vs drug injections)_
 __ingots__  
 __ingrained__ _Speeding is deeply ingrained in American culture._  
 __inimical__  
-__injuction__ :four: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
+__injuction__ :five: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
 __injury time__  
+__inkling__  
 __inordinate__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inroads__ :two::shit:  
@@ -3035,6 +3038,7 @@ __lip service__ :two::shit: _We often only pay lip service._
 __liquefied__  
 __liquefy__  
 __list > listing boat__  
+__listening session__  
 __listing__  _One current listing is a $30 million property._    
 __listless__  
 __litany__ :three: _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
@@ -3068,7 +3072,7 @@ __loins__ _n_ :two::shit:
 __lolled__ _v_  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__  
-__longstanding__  
+__longstanding__ :two::shit:  
 __look down__ _v_  
 __lookout__ _Be on the lookout._  
 __loophole__ _:es: escapatoria_  
@@ -3129,6 +3133,7 @@ __maim__ _v_ :four: (maimed) Wound or injure (a person or animal) so that part o
 __mainstay__ _A mainstay of his business._  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __make no bones__  
+__make our bones__  
 __make out__ _v_  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
@@ -3561,6 +3566,7 @@ __overachieve__
 __overall standings__ _31 points in the overall standings._  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
 __overbite__ _n_ :two::shit:  
+__overblown__  
 __overboard__ _To go overboard._  
 __overflight__  
 __overhead bins__ (airplane) :two::shit:  
@@ -3861,6 +3867,7 @@ __pram__
 __prance__ _v_ :three::shit: _On the floor exercise, Wieber prances, tumbles and smiles._  
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
+__prayer book__  
 __precarious__  
 __predate__ _v_  
 __predator__ _n_  
@@ -4805,6 +4812,7 @@ __snare drum__ :es: tambor militar pequeño
 __snare drums__  
 __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
+__snarky__ _Snarky remarks._  
 __snarl<sup>1</sup>__ _n_ :two: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl<sup>2</sup>__ _v_ :three: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarl__ _v_ _Snarled airport._  
@@ -4965,7 +4973,7 @@ __stale__ :two::shit:
 __staler__ _The air in the place grew staler._  
 __stalk__ _n_  
 __stalwart__ :nine::arrow_up_small::o2: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
-__stamina__  
+__stamina__ :two::shit:  
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamped__  
@@ -5555,6 +5563,7 @@ __unctuous__
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __under one's belt__  
 __under siege__  
+__underbellies__  
 __underbelly__  
 __undercard__ _Undercard debates._  
 __undercut__  
@@ -5905,6 +5914,7 @@ __workaday__
 __workforce__  
 __worrisome__  
 __worrywarts__  
+__worshiper__  
 __wort__  
 __wracking__ _v_  
 __wraparound season__  
