@@ -11,6 +11,7 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __Achilles heel__ A weakness or vulnerable point.  
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
+__Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __Aha! moment__  
 __Ames__ _Ames, Iowa._  
 __Angeleno__ _n_ A native or inhabitant of Los Angeles.  
@@ -1014,7 +1015,7 @@ __casket__
 __cast-iron__  
 __cast__ _Votes cast._  
 __catalyze__ _v_ :open_mouth:  
-__cataract__  
+__cataract__ _n_ :es: cataratas  
 __catcalls__ _A pack of men on motorbikes left a wake of catcalls._  
 __catch-up schedule__  
 __catechism__ :open_mouth:  
@@ -2387,6 +2388,7 @@ __gobble__ _v_ _Gobbling a plate of spaguetti and meatballs._
 __goblins__  
 __godsend__ _n_  
 __gold rush__  
+__goldfinch__ _n_ :es: jilguero  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _Informal_ Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
@@ -2961,7 +2963,8 @@ __julep__ :two::shit:
 __juleps__  
 __jumble__ :four: An untidy collection or pile of things. _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
-__jumper__ _basketball_  
+__jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
+__jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
 __jumpers__  
 __juncture__ _n_ :three: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junker__  
@@ -3835,6 +3838,7 @@ __penned hogs__
 __penned up__  
 __penny-pinch__ _Penny-pinching conservatives._  
 __pens__ _n_ _Screened pens with rabbits._  
+__pensionary__ :es: jubilado  
 __pensive__ _v_  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __peoples__ (?)  
@@ -4375,6 +4379,7 @@ __restraint__ :two::shit: _n_
 __resumption__ :open_mouth: :three::shit: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __rethoric__  
+__retiree__ :es: jubilado  
 __retirement__  
 __retrain__ _v_  
 __retread__  
