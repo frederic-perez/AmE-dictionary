@@ -370,8 +370,7 @@ __apprehend__ _v_
 __aquaponic__  
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::shit: _An arbor of live oaks._  
-__arcane__  
-__arcane__  
+__arcane__ :two::shit:  
 __arch__ _Her character is arch and fake._  
 __archipelago__ :two::shit::open_mouth: _Archipelago nation._  
 __archivist__  
@@ -1006,8 +1005,7 @@ __carrion__ _n_ :dart::three: The noun carrion refers to the dead and rotting fl
 __carry-on bag__  
 __carryover__ _A carryover vehicle._  
 __cart__ _v_ _Quincy was carted off the field._  
-__cartel__  
-__cartel__ _n_  
+__cartel__ _n_ :two::shit:  
 __carve out__ _v_ (carved out) :six::shit:  
 __carveouts__  
 __cash rebate__  
@@ -1268,8 +1266,7 @@ __consensual__
 __consensus__  
 __conservancies__  
 __consigliere__ _Our family consigliere._  
-__conspicuous__  
-__conspicuous__ (conspicuously) _adj_ __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
+__conspicuous__ _adj_ :two: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constituencies__  
 __constituency__  
 __constituent__  
@@ -1420,8 +1417,7 @@ __cudgels__
 __cue ball__ :two::shit:  
 __cued__ _v_ _Newman cued the clip again._  
 __cuff links__  
-__cull__ _v_ :two::shit: _Cowboys have to cull a steer from the herd._ _Culling of online images._  
-__cull__ _v_ _The prefectural government began culling all the 230.000 chickens on the farm._  
+__cull__ _v_ :three::shit: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cupboards__ :camera: _My father rebuilt cupboards._  
 __cuppa__  
@@ -2122,8 +2118,7 @@ __flip-flops__
 __flipper__  
 __flitting__  
 __flitty__  
-__float__  
-__float__ _n_ _People pull a huge traditional float during the Yamahoko parade._  
+__float__ _n_ :two::shit: _People pull a huge traditional float during the Yamahoko parade._  
 __floater__ _n_ :two::shit:  
 __floaters__ _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
@@ -2166,8 +2161,7 @@ __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __folded__ _The American Soccer League folded in 1931._  
 __follow suit__  
-__folly__ (follies) :four: __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
-__folly__ _n_  
+__folly__ _n_ :five: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __foodie__ _A foodie and a friend._  
 __foodstuffs__  
 __foolhardy__  
@@ -2193,8 +2187,7 @@ __forego__
 __foregone__  
 __foreman__  
 __foreplay__  
-__foreshadow__ _v_  
-__foreshadow__ _v_  
+__foreshadow__ _v_ :two::shit:  
 __forestall__ _v_ :three: It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
 __forestalled__  
 __forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._  
@@ -2457,8 +2450,7 @@ __grist__ _Plastic wrapping becomes grist for composite decking._
 __gristle__  
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
-__gritty__ :two::shit: _The gritty determination._  
-__gritty__ _A gritty victory._  
+__gritty__ :three::shit: _The gritty determination._ _A gritty victory._  
 __grizzled__ _v_ :two::shit: _Grizzled ballroom vets._  
 __grocer__ _n_ :two::shit:  
 __grog__  
@@ -2492,8 +2484,7 @@ __guidet__ _Two guidettes._
 __guile__  
 __guileless__   
 __guise__  
-__gulf__ _A gulf between campaign methodic and actual plans._  
-__gulf__ _The gulf grew grew wider._  
+__gulf__ _n_ :two::shit: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._  
 __gullibility__  
 __gullible__ _adj_ :three: Naive and easily deceived or tricked.  
 __gullies__  
@@ -3422,8 +3413,7 @@ __mistruths__
 __mitzvah__  
 __mix-up__ _n_  
 __mixed bag__  
-__moat__  
-__moat__  
+__moat__ :two::shit:  
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
 __modicum__ _n_ :four: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
@@ -4347,8 +4337,7 @@ __reliant__
 __relief teams__  
 __relief__ :two::shit: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
 __reliever__  
-__relinquish__ _v_ :four: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on.  
-__relinquish__ _v_ :two::shit: _To relinquish the throne._  
+__relinquish__ _v_ :five: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on. _To relinquish the throne._  
 __relish__ :two: Enjoy greatly. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._  
 __relished__  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
@@ -4485,8 +4474,8 @@ __rouler__ _Will 'NCIS' roulerinto a new city next year?_
 __round out__  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
-__rout__ _n_ :four: An overwhelming defeat.  
-__rout__ _v_  
+__rout<sup>1</sup>__ _n_ :four: An overwhelming defeat.  
+__rout<sup>2</sup>__ _v_  Defeat disastrously.  
 __row house__ _n_  
 __rowdy__ :five: /ˈraʊdi/ _adj_ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rub elbows__ _v_  
@@ -4919,15 +4908,13 @@ __slather__ _To slather on hand lotion._
 __slats__ _n_ :four::shit: _The slats in the dock._ _Wood slats._  
 __slatted__ _v_ :two::shit: _Slatted sunlight._  
 __slay__ _v_ ;two::shit: (slain) JFK was slain.  
-__sleazy__  
-__sleazy__  
+__sleazy__ :two::shit:  
 __sleep deprivation__  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleepwear__ (vs sportswerar, etc.)  
 __sleugh__ _Sassy (TV) sleugh._  
 __sleuthing__  
-__slew__ :six: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._   
-__slew__ _A slew of appearances by comic book artists._  
+__slew__ :seven: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :three::shit: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::shit:  
@@ -5112,8 +5099,7 @@ __speed demon__
 __speed-dial__ _v_  
 __spendolie__  
 __spent rocket stages__ :camera:  
-__spew__ _v_  
-__spew__ _v_ _Carbon-spewing coal power plants._  
+__spew__ _v_ :two::shit: _Carbon-spewing coal power plants._  
 __spigot__ _n_ :three: A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
 __spigots__  
 __spike__ _v_ :four::shit: _The coach spiked his headset during Thursday's loss to the Indiannapolis Colts._  
@@ -5242,8 +5228,7 @@ __staying power__
 __stead__  
 __steadfast__ :five: _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steady-eddy__  
-__steady__ :two::shit:  
-__steady__ _A steady economic growth._  
+__steady__ :three::shit: _A steady economic growth._  
 __stealthy__  
 __steamer trunk__ _A steamer trunk lay opened by the couch._  
 __steep__ :three::shit: _He faces a steep learning curve._ _A steep increase._  
@@ -5348,8 +5333,7 @@ __strip mall__ _n_
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _Writhing in the strobe lights after dark._  
-__struck__  
-__struck__ _The Paris climate was struck almost a year ago._  
+__struck__ :two::shit: _The Paris climate was struck almost a year ago._  
 __strung out__  
 __strut__ _v_ :three: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stubble__ _n_ :nine::arrow_up_small::o2::shit: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
@@ -5495,8 +5479,7 @@ __tanner__
 __tannic__ _adj_ :three: Derived from tannin.  
 __tannin__ _n_ Any of various complex phenolic substances of plant origin; used in tanning and in medicine.  
 __tantalize__ _v_  
-__tantalizing__  
-__tantalizing__ _The revelations are a tantalizing indication of how much we still have to learn._  
+__tantalizing__ :two::shit: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ :three: _adj_ Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap__ _v_ :three::shit:  
 __taper<sup>1</sup>__ _n_ __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone).  
