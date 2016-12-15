@@ -1385,7 +1385,7 @@ __croaked__
 __crones__ _n_  
 __cronies__ _n_  
 __crony__  
-__cronyism__ :four::shit:  
+__cronyism__ _n_ :dart::four: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
 __crooked__ _Crooked media._  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
 __crossbeam__ _n_  
@@ -1940,7 +1940,7 @@ __expat__ _Baroque debut for Moscow expat choir._
 __expedite__ _v_ :two::shit::dart: _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
 __expeditiously__  
-__expenditure__ :three::shit: (expenditures)  
+__expenditure__ _n_ :three: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time.  
 __expletive__ :open_mouth: _Bombing the expletive oout of its  oil fields._  
 __extol__ :two::shit: _v_ _But he extols running as what helps him stay clean._  
 __extoll__  
@@ -4403,7 +4403,7 @@ __rhyming__ :open_mouth:
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_  
 __ribbing__ :two::shit:  
-__riches__ :three::shit: _Cultural riches._  
+__riches__ _n_ :three: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet__  
@@ -6005,7 +6005,8 @@ __warehoused__ (warehoused) _v_
 __warehousing__  
 __wares__ _n_ :two::shit: _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
 __wariness__  
-__warrant__ :three::shit: _v_  
+__warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a certain amount of time). 
+__warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.
 __wary__ _He is wary of the situation._  
 __wash up__ _v_ _A washed up player._  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
@@ -6099,7 +6100,7 @@ __whittle down__ _The overwhelming advantage has been whittled down._
 __whittling down__  
 __whittling__  
 __whodunit__  
-__wholesale__ :three::shit: _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
+__wholesale__ _adj_ :three: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::shit:  
 __wholesome__ :two::shit:  
 __whoop__ _v_ :two::shit: _He can whoop him with a switch._  
