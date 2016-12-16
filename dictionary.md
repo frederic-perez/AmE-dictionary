@@ -284,8 +284,7 @@ __aground__ _adv_ :two: On or into the ground; in a stranded condition or state.
 __aide__ _n_  
 __ailing__ _It is ailing the NFL._  
 __ailment__ :two::shit:  
-__ails__ _v_  
-__ails__ _v_  
+__ails__ _v_ :two::shit:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __airball__ _n_  
 __airburst__ _n_  
@@ -654,8 +653,7 @@ __blanketed__ _v_ (blanketing) :two::shit:
 __blatant__  
 __blather__  
 __blaze of glory__  
-__bleak__ _adj_ _She paints a bleak picture of the future._  
-__bleak__ _adj_ __1__ :four: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :two: (of the weather) Cold and miserable. _A bleak midwinter's day._ _Syn_ cold, keen, raw, harsh, wintry   
+__bleak__ _adj_ __1__ :four: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :three: (of the weather) Cold and miserable. _A bleak midwinter's day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry   
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleary__ :two::shit:  
 __bleated__ _v_ :three::shit: (bleating) _His walkie-talkie bleated._  
@@ -786,8 +784,7 @@ __bratty__
 __bravado__ _n_ :three: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning "bragging and boasting," and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: "It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners." _But I went into it with a certain bravado._  
 __brayed__ _v_ :two::shit: (braying)  
 __brazen__ :two::shit: _Brazen lyrics._  
-__brazenly__  
-__brazenly__  
+__brazenly__ :two::shit:  
 __brazer__  
 __breach__ _v_ :two::shit:  
 __break-the-china__  
@@ -1285,8 +1282,7 @@ __content__
 __contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__ _adj_ :three: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contiguous > the contiguous U.S.__  
-__contingency plan__  
-__contingency plan__  
+__contingency plan__ :two::shit:  
 __contingency__  
 __contretemps__  
 __contrite__  
@@ -1507,8 +1503,7 @@ __decommissioned__
 __decommits__  
 __deconstruct__ _v_  
 __decorated__ _A decorated veteran._  
-__decry__  
-__decry__ (decried; decrying) :seven: _v_ Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
+__decry__ _v_ :eight: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
 __deductibles__ :two::shit: _High deductibles hurt the health care plan._  
 __deedee__ _v_  
@@ -1817,9 +1812,7 @@ __eel__
 __eerie__  
 __eerily__ :two::shit:  
 __effete__  
-__effigies__  
-__effigy__  
-__effigy__ _n_ :two::shit:  
+__effigy__ _n_ :three::shit: (effigies)  
 __eggnog__ _n_ :two::shit: _A big eggnog party._  
 __egotists__  
 __egregious__ _adj_ :four: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
@@ -2457,8 +2450,7 @@ __grip-and-grin__ _Grip-and-grin shots._
 __grip__ _v_  
 __gripe__ _Not a single gripe._  
 __gripping__ :two::shit: _A gripping contest._  
-__grisly__  
-__grisly__ _A grisly synagogue assault._  
+__grisly__ :two::shit: _A grisly synagogue assault._  
 __grist__ _Plastic wrapping becomes grist for composite decking._  
 __gristle__  
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
@@ -2486,8 +2478,7 @@ __growing pains__ :four: __1__ Neuralgic pains which occur in the limbs of some 
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grudge__ _n_ :five::shit: _I don't hold any grudges._ _Holding a grudge._ :es: rencor   
 __grudging__ (grudgingly) :two::shit:  
-__grueling__  
-__grueling__  
+__grueling__ :two::shit:  
 __gruff__ :three::shit:  
 __grumble__ _v_ :three::shit:  
 __grunt__ _n_ __1__ :two: A deep guttural sound. __2__ :two: _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ :three: _Slang_ One who performs routine or mundane tasks. _The grunt work._  
@@ -2855,8 +2846,7 @@ __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are inc
 __incubus__  
 __incumbent__ :three::shit: _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __indefatigable__ _adj_ :three::open_mouth: Incapable or seemingly incapable of being fatigued; tireless.  
-__indelible__  
-__indelible__ :three::shit: :open_mouth: _An indelible mark._  
+__indelible__ :four::shit::open_mouth: _An indelible mark._  
 __indict__ _v_ :two::shit:  
 __indictment__ :two::shit:  
 __inducements__  
@@ -3628,8 +3618,7 @@ __obituaries__
 __oblige__ (obliged) :three: __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliged__ _v_  
 __obligue__ _v_  
-__obnoxious__  
-__obnoxious__  
+__obnoxious__ :two::shit:  
 __obo__ :two: (abbreviation) Or best offer.  
 __obsequious__  
 __obsidian__  
@@ -3662,8 +3651,7 @@ __olefin__ _n_
 __oligarch__  
 __omelets__  
 __omen__ :two::shit:  
-__ominous__  
-__ominous__  
+__ominous__ :two::shit:  
 __on deck__  
 __on edge__  
 __on the docket__  
@@ -3876,8 +3864,7 @@ __permafrost__
 __permit__ _Camping permit fee._   
 __peroxide__  
 __pertussis__  
-__pervasive__  
-__pervasive__ :two::shit:  
+__pervasive__ :three::shit:  
 __peter out__  
 __petite__  
 __petroglyphs__ _Ancient Indian petroglyph._  
@@ -4246,9 +4233,7 @@ __ram__ _v_ :two::shit:
 __ramblers__ _n_  
 __rambling__ _v_ :four::shit:  
 __rambunctious__  
-__ramen restaurant__  
-__ramen__ :three::shit: _Ramen shops._ _Ramen bowls._  
-__ramen__ _n_  
+__ramen__ _n_ :four::shit: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __rammed__ _v_ _JFK's PT boat was rammed._  
 __ramming__  
 __ramp up__ :two::shit:  
@@ -4408,8 +4393,7 @@ __retrenching__
 __retrenchment__ _An era of American retrenchment._  
 __returnee__  
 __reunion__ An instance of two or more people coming together again after a period of separation.  
-__reveler__ _n_  
-__reveler__ _n_ :five::shit: _St. Patrick's day revelers._  
+__reveler__ _n_ :six::shit: _St. Patrick's day revelers._  
 __reveling__ :two::shit:  
 __revelled__  
 __revenant__  
@@ -4536,8 +4520,7 @@ __run-of-the-mill__
 __runaways__  
 __rung__ _n_  
 __rungs__ _n_ :two::shit: _He deserves to be in the lowest rungs of hell._  
-__runner-up__  
-__runner-up__ _n_ :four::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
+__runner-up__ _n_ :five::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runoff water__  
 __runoff__ :two::shit: _Enough votes to force a runoff,_  
@@ -4964,10 +4947,8 @@ __slit > hi-slit dress__
 __slit<sup>1</sup>__ _n_  
 __slit<sup>2</sup>__ _v_ :two::shit: _Slitted door._ _The screen was slit on the back porch door._  
 __slithering__  
-__sliver<sup>1</sup>__ _n_ :five::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._  
-__sliver<sup>2</sup>__ _v_ :three::shit:  
-__sliver__  
-__sliver__ _Some sliver of light._  
+__sliver<sup>1</sup>__ _n_ :six::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
+__sliver<sup>2</sup>__ _v_ :four::shit:  
 __slob__  
 __slobber__ _v_ :two::shit: (slobbered)  
 __slobs__ _n_  
@@ -4995,8 +4976,7 @@ __slum__ (slums) :five::shit: _A black slum area off the Loreauville Road._ _The
 __slumber__ :two::shit: _Slumber parties._  
 __slumming__ _v_ :two::shit:  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
-__slurp__ _v_  
-__slurp__ _v_ _Whitey sucked his soda through a straw until it slurped against the ice._  
+__slurp__ _v_ :two::shit: _Whitey sucked his soda through a straw until it slurped against the ice._  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ :four: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
 __small__ _I rubbed the small of her back._  
@@ -5181,8 +5161,7 @@ __sputter__ _v_ :eight: (sputtered, sputtering) Make a series of soft explosive 
 __sputtering__  
 __sputters__  
 __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
-__squabbling__  
-__squabbling__ _v_ _A squabbling family._  
+__squabbling__ _v_ :two::shit: _A squabbling family._  
 __squad__  
 __squalid__:open_mouth: _Squalid home._  
 __squall__ :two::shit:  
@@ -5259,8 +5238,7 @@ __staying power__
 __stead__  
 __steadfast__ :five: _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steady-eddy__  
-__steady__ :three::shit: _A steady economic growth._  
-__steady__ _Steady jobs._  
+__steady__ :four::shit: _A steady economic growth._ _Steady jobs._  
 __stealthy__  
 __steamer trunk__ _A steamer trunk lay opened by the couch._  
 __steep__ :three::shit: _He faces a steep learning curve._ _A steep increase._  
