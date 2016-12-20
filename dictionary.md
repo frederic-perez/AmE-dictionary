@@ -97,6 +97,7 @@ __Humpty Dumpty__
 __Humpty-Dumpty__ :two::shit:  
 __Hydra__  
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
+__IRS__ _Internal Revenue Service_  
 __Ivy League__  
 __J-strokes__  
 __Jag__ Jaguar (car)  
@@ -238,6 +239,7 @@ __accretion__
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ :two::shit:  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
+__acquaintances__ :open_mouth:  
 __acquitted__  
 __acreage__ :two::shit:  
 __acrimonious__  
@@ -385,6 +387,7 @@ __archivist__
 __ardent__ _He was one of her most ardemt suitors._  
 __arduous__  
 __arguably__  
+__armory__  
 __arms embargo__  
 __arms race__  
 __arpents__ _n_ :two::shit:  
@@ -525,6 +528,7 @@ __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal
 __bathhouses__  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __baton__ _n_  
+__battered__ _Her pride remains battered but intact._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bauble__  
 __bawdy__  
@@ -1049,6 +1053,7 @@ __catcalls__ _A pack of men on motorbikes left a wake of catcalls._
 __catch-up schedule__  
 __catechism__ :open_mouth:  
 __catfish__ _n_ :two::shit:  
+__catharsis__  
 __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint 
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
@@ -1056,7 +1061,7 @@ __caucus__ :three::shit: _Kentucky will hold a Republican caucus on March 5._
 __causeway__ _n_ :two::shit:  
 __cave__ _v_ :three: Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caved__ _v_ :two::shit: _The FAA caved._  
-__cavort__ _v_ _Animals cavorting._  
+__cavort__ _v_ :two::shit: _Animals cavorting._  
 __caw__ (caws) :two::shit: _A rattling caw._  
 __cawed__ _v_ :two::shit: (cawing)  
 __ce__  
@@ -1260,7 +1265,7 @@ __compasionate__
 __compassionate__  
 __compel__ _v_ :two::shit: (compelling)  
 __compelling__ _adj_ Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
-__compliance__ _Compliance guy._  
+__compliance__ :two::shit: _Compliance guy._  
 __comply__ _v_  
 __composite decking__  
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
@@ -1910,7 +1915,7 @@ __empty nester__ _He and wife Bekki areempty nesters._
 __empty-net/power-play/short-handed goal__  
 __en masse__ _Cruz supporters are going to bolt to Rubio en masse._  
 __en-suite bath__  
-__enact__ _v_ :six: Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
+__enact__ _v_ :seven: Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enacted__  
 __enactment__  
 __enamel__  
@@ -2163,7 +2168,7 @@ __flatware coins__
 __flaunting__  
 __flay__ _v_  
 __fleck__ _n_  
-__fledgling__ :six: :open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
+__fledgling__ :seven::open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __fleece__ (fleeced) :two::shit:  
 __fleecy__  
 __fleshed out__  
@@ -2556,7 +2561,7 @@ __guileless__
 __guise__  
 __gulf__ _n_ :two::shit: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._  
 __gullibility__  
-__gullible__ _adj_ :three: Naive and easily deceived or tricked.  
+__gullible__ _adj_ :four: Naive and easily deceived or tricked.  
 __gullies__  
 __gulls__  
 __gulp__  
@@ -2757,6 +2762,7 @@ __ho-hum__ _adj_ :three: _Informal_ So lacking in interest as to cause mental we
 __ho__  
 __hoary__ :two::shit:  
 __hobble__ _v_ :two::shit: (hobbled)  
+__hobbled__ _v_ _A few shops were hobbled in 2015._  
 __hobnailed__ :two::shit: _v_ _Hobnailed boots._  
 __hobnails__  
 __hod__ _n_  
@@ -2905,7 +2911,7 @@ __inane__
 __inarticulate__ :two::shit: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
 __inaugurate__ _v_ _He will be inaugurated for second term._  
-__inbound__  
+__inbound__ :two::shit: _Inbound trip._  
 __inbounds pass__  
 __incensed__ _v_  
 __inception__  
@@ -2957,7 +2963,7 @@ __interdicting__
 __interlopers__  
 __intermittent__  
 __international friendly__  
-__interspersed__ :two::shit:  
+__interspersed__ _v_ :three::shit:  
 __intervene__ _v_  
 __invective__ :four::shit:  
 __inveighed__  
@@ -3198,7 +3204,7 @@ __ledger__
 __leer up__  
 __leer<sup>1</sup>__ _v_ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
-__leery__ :four: _adj_ _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._  
+__leery__ _adj_ :six: _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
 __leeway__ _n_ :three: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __legal tack__  
@@ -3290,6 +3296,7 @@ __lofty__ :two::shit: _His lofty perch._
 __loggerheads__  
 __loins__ _n_ :two::shit:  
 __lolled__ _v_  
+__long shot__  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__  
 __longstanding__ :two::shit:  
@@ -3545,8 +3552,7 @@ __mos.__ (Months?)
 __mosh__  
 __mosques__  
 __moth__ :two::shit:  
-__mothball__ _v_ _The reactor was shut down in 1976, and it was mothballed in 1978._  
-__mothballed__ :three::shit: _v_  
+__mothball__ _v_ :six:shit: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motley__ _adj_ :four: If you've encountered the word motley, it's most likely in the phrase "motley crew," which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. _Motley crew._  
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
@@ -3580,6 +3586,7 @@ __mulberry__
 __mull__ (mulling) :two::shit: _v_ _Cheney was mulling a Senate bid._  
 __mulled__  
 __mulligan__ _n_  
+__mulling__ _v_  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumps__  
 __munch__ _v_  
@@ -3772,12 +3779,13 @@ __ornate__ _n_ :three::shit:
 __ornery__ :two::shit:  
 __ossified__  
 __other than that,__  
+__otherness__  
 __otherworldly__  
 __ottoman__  
 __out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
-__outbound__ _The latest trends in Chinese outbound tourism._  
+__outbound__ :two::shit: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbreaks__  
 __outburst__  
 __outcast__ _n_  
@@ -4148,6 +4156,7 @@ __precarious__
 __predate__ _v_  
 __predator__ _n_  
 __prediabetes__  
+__preempt__ _v_  
 __preen__ :three::shit: (preening) _She didn't preen for her grandfather._  
 __preened__  
 __premier__ _adj_  
@@ -4180,6 +4189,7 @@ __primacy__ _n_
 __prime-age__  
 __primed__  
 __primer__ _n_  
+__priming__ _v_  
 __primly__ :two::shit:  
 __princes__ :open_mouth: _The New Hollywood princesa embraces Kurosawa as their master._  
 __prise__ _n_  
@@ -4403,7 +4413,7 @@ __recantation__ :two: A statement that one no longer holds a particular opinion 
 __recap__ _n_ _The written recap of the meeting._  
 __receivership__  
 __recidivist__ _n_ :four::shit:  
-__reckon__ (reckons) :two::shit:  
+__reckon__ (reckons) :three::shit:  
 __reconvene__ _v_ :four::shit: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __recoup__ _v_ :five: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.
@@ -4541,6 +4551,7 @@ __ripe__ :adj: __1__ When a fruit is ripe, it is time to pick it and eat it. If 
 __ripened__ _adj_ Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._  
 __riposte__  
 __ripped__ _v_  
+__ripple__ _v_  
 __rippled__ _v_ :two::shit:  
 __risers__  
 __risible__  
@@ -4687,7 +4698,7 @@ __scallions__
 __scallop__ :two::shit: _A scallop-shell logo._  
 __scalp bounties__  
 __scalper__ _n_ :three::shit:  
-__scam__ (scammed) :two::shit: _v_  
+__scam__ _v_ :four::shit: (scammed)  
 __scampering__ _v_  
 __scant__ _adj_ :three:Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scapegoated__ _v_  
@@ -4859,7 +4870,7 @@ __shedder__ _A tree shedder._
 __shedding__ _v_  
 __sheelling__  
 __sheen__ _The sheen on his hair when he removed his hat._  
-__sheer__ _Sheer size._  
+__sheer__ :two::shit: _Sheer size._ _The sheer scale of the operations surprised many._  
 __sheik__ :two: :open_mouth: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
 __shell company__  
@@ -4870,6 +4881,7 @@ __shellfish__ _Shellfish stewed, jerked._
 __shelling out__  
 __shelved__ _v_ :three::shit: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __sherbet punch__  
+__shied__ _v_  
 __shiet__  
 __shift__  
 __shill<sup>1</sup>__ _n_  
@@ -4911,6 +4923,7 @@ __shortchanged__ _I think people will be shortchanged._
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::shit:  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
+__shot in the arm__  
 __shotgun cottage__  
 __shotgun house__  
 __shotput__ _n_  
@@ -4923,6 +4936,7 @@ __show runner__ :two::shit:
 __show-off__ _n_  
 __showboat__ _v_  
 __showdown__ :four: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
+__showdowns__  
 __showrunner__  
 __showstopping__ _A showstopping performance._  
 __showtime__  
@@ -5092,7 +5106,7 @@ __slugs__
 __sluice__ _v_ :five::shit: (sluicing)  
 __sluiced__ _v_  
 __slum__ (slums) :five::shit: _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
-__slumber__ :two::shit: _Slumber parties._  
+__slumber__ :three::shit: _Slumber parties._  
 __slumming__ _v_ :two::shit:  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slurp__ _v_ :two::shit: _Whitey sucked his soda through a straw until it slurped against the ice._  
@@ -5554,6 +5568,7 @@ __swathe<sup>2</sup>__ _v_ :two::shit:
 __swaths__ _n_  
 __swatted__  
 __sway__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__  Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
+__swayed__  
 __swear jar__  
 __sweat bullets__ _I'll be sweating bullets._  
 __sweat it__ _Don't sweat it._  
@@ -5625,8 +5640,7 @@ __taproot__
 __taps__ _A bugler played taps._  
 __tardy__ :two::shit:  
 __target ball__  
-__tariff__  
-__tariffs__ _n_ :two::shit:  
+__tariffs__ _n_ :four::shit: (tariffs)  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ _v_ :four::shit: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :five::shit:  
@@ -5704,7 +5718,7 @@ __thermos__ _A thermos._
 __thespian__ :two::shit:  
 __thick and thin__ _Supporters ready to back them through thick and thin._  
 __thicket__ :four::shit: (thickets)  
-__think tank__ :three::shit:  
+__think tank__ _n_ :four::shit:  
 __this and that__  
 __this time around__ :dart::shit:  
 __thoroughfare__  
@@ -5931,6 +5945,7 @@ __twanger__ _n_
 __twat__  
 __tweak__ _n_  
 __tweaks__ _n_  
+__twin rooms__  
 __twine__ _n_ :two::shit: _Tie the legs of the turkey together with twine._  
 __twinge__  
 __twinkle__  
@@ -6008,7 +6023,7 @@ __up-tempo__ _Up-tempo kind of game._
 __up__ _v_ _We need to up our game._  
 __upbeat__ :two::shit: _An upbeat approach._ _He's extremely upbeat during down times._  
 __updend__ _v_  
-__upend__ _v_ :six: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
+__upend__ _v_ :seven: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upheaval__ :four::shit:  
@@ -6082,6 +6097,7 @@ __veto__ _v_
 __vetting__  
 __vexing__ :two::shit: _Vexing problem._  
 __vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
+__vicarious__  
 __vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
 __victimhood__  
