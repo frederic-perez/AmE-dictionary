@@ -3285,6 +3285,7 @@ __lob__
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
 __lockdown__ _Paris remained in a state of lockdown._  
+__locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
 __lockout__ _N.J. residents upset over island lockout._  
 __locks > alcohol ignition locks__  
 __lockstep__ :two::shit:  
@@ -3521,6 +3522,8 @@ __mogul__ :two::shit:
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mold__ _n_  
 __moldy__ :two::shit:  
+__mole grip__ :camera: Locking pliers.  
+__mole wrench__ :camera: Locking pliers.  
 __molehill__  
 __moles__ _n_  
 __mollify__ _v_ :four::shit:  
@@ -3891,6 +3894,7 @@ __parishioner__
 __parlay__  
 __parlayed__  
 __parochial__ :two::shit:  
+__parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
 __parsnip__  
 __partake__ _v_ :three::shit: (partaking)  
@@ -4816,6 +4820,7 @@ __self-righteous__
 __selfsame__  
 __sellout__ (sold out)  
 __sellouts__ _There have been no sellouts._  
+__semester__ A semester is half of a school year. In September of your first year of high school, you could describe yourself as "a first-semester freshman." The noun semester comes up often when you're in high school and college. It's an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant "six months," from the Latin root of the same meaning, semestris.  
 __seminoles__  
 __sendup__ _v_ _A sendup of the genre._  
 __sentience__  
