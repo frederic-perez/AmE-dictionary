@@ -3,6 +3,7 @@ __105s__
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.   
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__800-pound gorilla__  
 __A-list__  
 __AB__ _Guys in the AB._  
 __ACK__  
@@ -377,6 +378,7 @@ __apportioned__ _v_
 __appraisal__ _n_ :three::shit:  
 __appraised__ _The home was appraised in 2007._  
 __apprehend__ _v_  
+__approval rating__ _Park's approval rating has plummeted._  
 __aquaponic__  
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::shit: _An arbor of live oaks._  
@@ -649,6 +651,7 @@ __binder__ _n_ _My binder._
 __biopic__  
 __birch__ _Birch and oak in stock._  
 __birdbrain__  
+__birds of the same feather__  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __bivouac__ :open_mouth:  
 __biz__ _Hot biz model._  
@@ -711,6 +714,7 @@ __blue-collar men__
 __bluegill__  
 __blueprint__ :two::shit:  
 __bluff__  
+__bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
 __blunt<sup>1</sup>__ _adj_ :three: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears.  
 __blunt<sup>2</sup>__ _v_ :two::shit: (blunting)  
@@ -779,6 +783,7 @@ __bordello__
 __bore<sup>1</sup>__ _v_ _Boring a tunnel._  
 __bore<sup>2</sup>__ _n_ _She once was into a stone bore._  
 __bore__ _She just went full bore._  
+__boredom__  
 __bosom__  
 __botched__  
 __bothersome__  
@@ -1177,6 +1182,7 @@ __clean his clock__
 __clean one's plate__ Eat up all the food put on one's plate.  
 __clear air__  
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
+__clearances__ _n_  
 __clearinghouse__ :two::shit:  
 __cleat__ _n_ :three::shit:  
 __cleated__ _v_ To get stabbed/slashed/kicked, or in any other way harmed by someone's cleat. _Joe got cleated in soccer and it left an ugly bruise._  
@@ -1293,11 +1299,12 @@ __conduit__ _n_ :two::shit:
 __confection__  
 __confederacy__  
 __conference call__  
-__confidante__  
+__confidante__ :two::shit:  
 __confide__ _v_  
 __conflate__ _v_  
 __confound__ _v_ :three::shit: (confounded, confounding)  
 __congenial__ :two::shit:  
+__conglomerate__  
 __conglomerates__  
 __conjecture__  
 __conjure__  
@@ -1938,7 +1945,7 @@ __enduring__ _v_
 __engrossed__  
 __engulf__ _v_  
 __enlivened__  
-__enmity__ :three::shit:  
+__enmity__ :four::shit:  
 __ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensconced__  
 __enshrined__  
@@ -2112,7 +2119,7 @@ __figurehead__ :two::shit:
 __file a case__ _v_  
 __file suit__ _v_  
 __file__ _v_  
-__filibuster__  
+__filibuster__ :two::shit:  
 __filings__  
 __fill out__  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
@@ -2241,6 +2248,7 @@ __foothold__ _A foothold._
 __footwork__  
 __for a bit__  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
+__for starters,__  
 __for the ages__ :two::shit: _A comeback for the ages._ _A year for the ages._  
 __for the sake of__  
 __foragers__  
@@ -2587,6 +2595,7 @@ __gurney__ _n_ :two::shit:
 __gush__ _v_ :three::shit: (gushing) _Kids were dancing in the gushing water._  
 __gusto__  
 __gut-bucket__ _A gut-bucket string band._  
+__gut__ _v_ _Trump could gut the agency's budget._  
 __gutsy__  
 __gutter__ _n_ :two::shit: _He turned his head and spit in the gutter._  
 __guzzle__ _v_  
@@ -2683,7 +2692,7 @@ __headdress__ _n_ :two::shit: _The pharaoh's headdress._
 __header__ _He scored with a header._  
 __headway > make headway__ :shit::two: _Secetary Kerry has made headway against the odds._   
 __headwind__ :six: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
-__heady__  
+__heady__ :two::shit:  
 __health condition__  
 __hearing__ _law_  
 __hearkened__  
@@ -2936,7 +2945,7 @@ __infamous__ _Princess Leia's infamous dual-bun hairstyle._
 __infamy__  
 __infighting__  
 __infirm__ _adj_  
-__influence-peddling__ :two::shit:  
+__influence-peddling__ :three::shit:  
 __influenza__  
 __infusion__ _Drug infusions._ _(vs drug injections)_  
 __ingots__  
@@ -2951,6 +2960,7 @@ __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treat
 __inroads__ :two::shit:  
 __inscrutable__  
 __insipid__  
+__insofar__  
 __instability__ :open_mouth:  
 __installment__ :two: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
@@ -2964,6 +2974,7 @@ __interlopers__
 __intermittent__  
 __international friendly__  
 __interspersed__ _v_ :three::shit:  
+__intertwined__  
 __intervene__ _v_  
 __invective__ :four::shit:  
 __inveighed__  
@@ -3175,8 +3186,9 @@ __lathes__
 __laths__  
 __laughingstock__  
 __laureate__  
-__lavish__ :two::shit:  
+__lavish__ :three::shit: _Lavish fees._  
 __lavished__  
+__lavishly__  
 __law of the land__  
 __law-and-order__ _The law-and-order prime minister._  
 __lawmaker__ (lawmakers) :two::shit:  
@@ -3249,6 +3261,7 @@ __lighting rod__ _n_ __1__ A metallic conductor that is attached to a high point
 __lightning rod__  
 __lightning-rod__  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
+__likewise__  
 __lilac__  
 __limb__ _Tree limb._  
 __limerics__  
@@ -3472,6 +3485,7 @@ __midriff__ :two::shit:
 __midsize__  
 __midwife__ :open_mouth: Nurse trained to assist women in childbirth.  
 __miffed__ _adj_ When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
+__might__ _China's economic might._  
 __migrant__ _n_  
 __migrants__  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter. :moho:  
@@ -3707,6 +3721,7 @@ __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take 
 __nurture__ _v_ _Dallas Stars flourish under nurturing Nill._  
 __nurtured__  
 __nutmeg__ _n_  
+__nuttery__  
 __nuttily__  
 __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._  
 __oatmeal__  
@@ -3800,7 +3815,7 @@ __outfoxed__
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__  
 __outing__ (outings) :three::shit:  
-__outlandish__ :four: _adj_ Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._  
+__outlandish__ :five: _adj_ Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._  
 __outlast__ _v_  
 __outlay__ _Budget outlays._  
 __outlook__  
@@ -4094,6 +4109,7 @@ __plum trees__
 __plum wine__  
 __plum__ _n_ :two::shit:  
 __plumb__ _v_  
+__plummeting__  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_  
 __plunder__  
@@ -4171,7 +4187,7 @@ __prep__ _v_ :three::shit:
 __preposterous__ _adj_ :four::shit:  
 __preppers__  
 __prepping__ _v_  
-__prerogative__  
+__prerogative__ :two::shit:  
 __prescience__ _n_  
 __prescient__ :two::shit:  
 __preserve__ _A comedy about gorillas in a preserve._  
@@ -4270,7 +4286,7 @@ __purloin__ _v_ :three::shit: (purloined)
 __purported__ _v_ :two::shit: _The purported attack._ _JFK's purported affairs._  
 __purportedly__  
 __purse__ _v_ _His lips pursed._  
-__purveyor__ _n_ :three::shit: _Purveyors of unhelpfully vapid self help._  
+__purveyor__ _n_ :four::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ _Pus bags_  
 __pushover__ _n_ :three: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
@@ -4406,6 +4422,7 @@ __readily__
 __readout__ _n_  
 __ream__ _v_ :four::shit: (reamed)  
 __reams__ _He watched reams on tape._  
+__reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
 __rebate__ :three: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._  
 __rebates__ _Tax rebates._  
@@ -4622,6 +4639,7 @@ __rueful__ _He gave a rueful smile._
 __ruffled__ (ruffling) :two::shit: _v_  
 __rug > sweep it under the rug__  
 __rugged__ _He was red carded for a rugged foul._  
+__rule of law__  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
 __rumble<sup>2</sup>__ _v_ :three: Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._  
@@ -5042,6 +5060,7 @@ __sky high__
 __slabs__ _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::shit: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::shit: _His jaw was slack._ _The rain had slackened._
+__slack__ _n_  
 __slake__ _v_  
 __slander__ _v_ :three::shit: (slandering)  
 __slant__  
@@ -5166,6 +5185,7 @@ __snarl<sup>1</sup>__ _n_ :two: An act or sound of snarling. _The cat drew its m
 __snarl<sup>2</sup>__ _v_ :three: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarl__ _v_ _Snarled airport._  
 __snazzy__ :two: _Informal_ Stylish and attractive. _Snazzy little silk dresses._  
+__sneer__ _v_  
 __snick__ _v_  
 __snicker__ (snickering) :three::shit: _v_  
 __snickered__ _v_  
@@ -5553,7 +5573,7 @@ __surefire__
 __surly__ _adj_ Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmount__ _v_  
-__surreptitiously__  
+__surreptitiously__ :two::shit:  
 __surveyor__  
 __suspensers__ _Firehouse suspenders_  
 __svelte__ :two::shit:  
@@ -5645,7 +5665,7 @@ __taproot__
 __taps__ _A bugler played taps._  
 __tardy__ :two::shit:  
 __target ball__  
-__tariffs__ _n_ :four::shit: (tariffs)  
+__tariffs__ _n_ :five::shit: (tariffs)  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ _v_ :four::shit: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :five::shit:  
@@ -5723,7 +5743,7 @@ __thermos__ _A thermos._
 __thespian__ :two::shit:  
 __thick and thin__ _Supporters ready to back them through thick and thin._  
 __thicket__ :four::shit: (thickets)  
-__think tank__ _n_ :four::shit:  
+__think tank__ _n_ :five::shit:  
 __this and that__  
 __this time around__ :dart::shit:  
 __thoroughfare__  
@@ -5943,6 +5963,7 @@ __turpentine__ _n_
 __turpitude__  
 __tussle<sup>1</sup>__ :two::shit: (tussles)  
 __tussle<sup>2</sup>__ :five::shit: (tussled, tussling)  
+__tussle__ _A trade tussle._  
 __tussling__ _v_  
 __twang<sup>1</sup>__ _n_  
 __twang<sup>2</sup>__ _v_  
@@ -5966,6 +5987,7 @@ __ugh__
 __ukuleles__  
 __umpteenth__ :two::shit:  
 __unabated__  
+__unalienable__  
 __unanimous__  
 __unapologetic__  
 __unapologetically__  
@@ -6330,7 +6352,7 @@ __wither__ _v_ :two::shit: (withers)
 __withhold__  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __woe__ _n_ Misfortune; calamity: _economic and political woes._  
-__woefully__ :two::shit: _Her hand landed woefully on her forehead._  
+__woefully__ :three::shit: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
 __womanizer__  
 __womanizing__  
