@@ -288,6 +288,7 @@ __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __aide__ _n_  
+__aides__  
 __ailing__ _It is ailing the NFL._  
 __ailment__ :two::shit:  
 __ails__ _v_ :two::shit:  
@@ -310,6 +311,7 @@ __all that jazz__
 __all-out__ _All-out military battle._  
 __allay__ _v_ :four::shit: (allayed)  
 __alleged__  
+__allies__ _n_  
 __allotment__  
 __allotted__  
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
@@ -358,7 +360,6 @@ __antique__
 __anvil__ :two::shit:  
 __anything goes__  
 __apace__ _Concussion concerns continue apace._  
-__apalling__ _adj_ :es: espantoso _(awful)_ pésimo  
 __ape__ _v_  
 __aphorism__  
 __aping__  
@@ -367,6 +368,7 @@ __apocryphal__ :open_mouth:
 __apologist__  
 __apostasy__  
 __appall__ (appalled) _v_ :open_mouth: :es: horrorizar, espantar  
+__appalling__ _adj_ :two: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __appeal__ _:two::shit: His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
@@ -574,6 +576,7 @@ __behest__ _n_ :three::dart: A person's orders or command. _They had assembled a
 __behold__ :two::shit: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :six: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::shit: _Beauty is in the eye of the beholder._  
+__behoove__  
 __beige book__ ?  
 __beignet__ _n_ :three: A deep-fried, yeast-raised doughnut dusted with confectioners' sugar. A square doughnut with no hole.  
 __being let go__ _His mother was let go at the plant in 2006._  
@@ -641,6 +644,7 @@ __big retailer__ (Walmart, Target, Amazon.)
 __big-box stores__ :camera::shit:  
 __big-gulper__ _America's big-gulpers._  
 __bigot__ /ˈbɪɡət/ _n_ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
+__bigotry__  
 __bilge__ _n_  
 __bilking__ _Durham was  guilty of bilking._  
 __billfold__ _n_  
@@ -804,6 +808,7 @@ __bozos__ _n_
 __brace__ _v_ :six: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._  
 __bracing__ _v_  
 __bracketology__ _Daily bracketology updates._  
+__brain drain__  
 __brainchild__  
 __brainpan__  
 __brambles__ :two::shit:  
@@ -1619,6 +1624,7 @@ __desk blotter__ _n_ :six: See blotter.
 __despicable__  
 __despondent__  
 __deterrent__ _n_ :three: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__detractor__  
 __devil-may-care style__  
 __deviled eggs__ :two::shit:  
 __devolve__ _v_ _The party must devolve power._  
@@ -1675,6 +1681,7 @@ __disingenuousness__
 __disinterest__  
 __dismal__ _adj_ :three: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
 __dismissive__ _Healthy young adults often are dismissive of health issues._  
+__disparaged__ _v_  
 __disparagement__ :two::shit:  
 __disparaging__ :two::shit:  
 __dispatch__ _v_  
@@ -2024,6 +2031,7 @@ __eyed__ _v_ :two::shit: _Pay hikes eyed nonregular workers._
 __eyeshades__  
 __eyewash__ _Cuddyer explained the balance between effort and eyewash._  
 __fabled__  
+__fabricate__ _v_ _Fabricated stories._  
 __face-lift__  
 __facile__  
 __facsimile__  
@@ -2408,6 +2416,7 @@ __get ahold__
 __get away with__  
 __get enough__  
 __get set__ _v_  
+__get the middle finger__  
 __get-go__ :three::shit: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __getaways__ _n_ _Weekend getaways._  
@@ -3054,6 +3063,7 @@ __judgmental__ :open_mouth:
 __judgments__ _Legal judgments._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
 __juggernaut__ _n_ :six::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one.  
+__juice boxes__ :camera:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::shit:  
 __juleps__  
@@ -3191,7 +3201,7 @@ __lavished__
 __lavishly__  
 __law of the land__  
 __law-and-order__ _The law-and-order prime minister._  
-__lawmaker__ (lawmakers) :two::shit:  
+__lawmaker__ :three::shit: (lawmakers)  
 __lax__ _adj_ :two::shit: (not LAX)  
 __lay__ _Lay reader._  
 __layover__ :two::shit::dart: _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
@@ -3600,8 +3610,7 @@ __muggers__
 __muggles__  
 __muggy__ _The weather was muggy._  
 __mulberry__  
-__mull__ (mulling) :two::shit: _v_ _Cheney was mulling a Senate bid._  
-__mulled__  
+__mull__ _v_ (mulled, mulling) :four::shit: _Cheney was mulling a Senate bid._  
 __mulligan__ _n_  
 __mulling__ _v_  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
@@ -3884,7 +3893,7 @@ __pampling__
 __pan out__ :two::shit:  
 __pan__ _v_ _Obama pans republicans._  
 __panache__ :two::shit:  
-__pander__ _v_ :three::shit: (panders, pandering)  
+__pander__ _v_ :four::shit: (panders, pandering)  
 __panderer__  
 __pandering__ _v_  
 __pangs__ :two::shit:  
@@ -4363,6 +4372,7 @@ __raked over the coals__
 __raking__ _v_  
 __rally<sup>1</sup>__ _v_ :seven::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>2</sup>__ _n_  
+__rally__ _v_  
 __ram__ _v_ :two::shit:  
 __ramblers__ _n_  
 __rambling__ _v_ :four::shit:  
@@ -5587,10 +5597,9 @@ __swank__
 __swanky__ _Swanky dinner._  
 __swashbuckling__  
 __swatches__  
-__swath__ _n_ :seven: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swath__ _n_ :nine: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_   
 __swathe<sup>2</sup>__ _v_ :two::shit:  
-__swaths__ _n_  
 __swatted__  
 __sway__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__  Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
 __swayed__  
@@ -5687,11 +5696,12 @@ __tawdry__ :two: Poor, cheap quality.
 __tax breaks__ _n_  
 __taxa__  
 __tchotchkes__ :two::shit: _Simpson tchotchkes._  
+__tea party__ :two::shit: _Tea party groups._ _Tea party rallies._  
 __teakwood__ :open_mouth:  
 __tear__ _The stock has been on a tear._  
 __teardown__ _n_  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
-__teeming__ _v_ :three::shit: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
+__teeming__ _v_ :four::shit: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ _Iran is teetering on the brink of a civil war._  
 __teetering__ _v_ :four::shit:  
 __teeters__  
@@ -5737,6 +5747,7 @@ __then again__ :two::shit:
 __theocracy__  
 __theosophy__  
 __there is no denying__  
+__there is no way around it/that__ :dart: :es: no hay más remedio, no queda otro remedio  
 __thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
 __thereof__  
 __thermos__ _A thermos._  
@@ -5768,6 +5779,7 @@ __thug__
 __thumb__ _v_ _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :two::shit: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._  
+__thundered__ _v_  
 __thunderheads__  
 __thunk__ _v_ _A thunking sound._  
 __thusly__  
@@ -6029,7 +6041,7 @@ __unflinching__
 __unfold__ _v_  
 __unfurl__ (unfurling) :two::shit:  
 __unhindered__  
-__unhinged__ _v_  
+__unhinged__ :two::shit: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
 __unkempt__ _Unkempt beards._  
 __unraveling__  
 __unrepentant__  
