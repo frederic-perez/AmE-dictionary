@@ -947,6 +947,7 @@ __burr haircut__
 __burrhead__ _n_  
 __burrow<sup>1</sup>__ _n_ :two::shit:  
 __burrow<sup>2</sup>__ _v_  
+__bursting__  
 __busboy__ _n_ A young man who clears tables in a restaurant or cafe.  
 __business ties__  
 __busker__  
@@ -1245,6 +1246,7 @@ __coif__ _Strange coif._
 __coiffed__  
 __coil__  
 __coincided__ _v_  
+__coincidental__  
 __colander__  
 __cold duck__  
 __cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
@@ -1576,6 +1578,7 @@ __defection__ _n: :three::shit: Withdrawing support or help despite allegiance o
 __defector__ Baseball position? _Army defectors._  
 __defectors__ :two::shit:  
 __defer__ _v_  
+__deference__  
 __deferentially__  
 __deferment__  
 __deferral__  
@@ -2937,6 +2940,7 @@ __inching__
 __inchoate__  
 __incidentally__  
 __incongruities__ _n_  
+__incongruously__  
 __inconsequential__  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incubus__  
@@ -3411,7 +3415,7 @@ __manicured landscape__
 __mannered__  
 __mantel__ _n_ :four::shit: _Fireplace mantels._ _The mantel over the small fireplace._  
 __mantle__ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
-__mar__ _v_  
+__mar__ _v_ :two::shit: (mars)  
 __marathon__ _This is more of a marathon than a sprint._  
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
@@ -4181,6 +4185,7 @@ __prance__ _v_ :three::shit: _On the floor exercise, Wieber prances, tumbles and
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
+__pre-emptive__  
 __precarious__  
 __predate__ _v_  
 __predator__ _n_  
@@ -5473,6 +5478,7 @@ __stopped short__ :two:
 __storefront__  
 __storeful__  
 __storied__ _Storied market._  
+__storm surge__  
 __storm__ _v_  
 __stove__  
 __stovepipe hat__  
@@ -5568,6 +5574,7 @@ __sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or 
 __sulk<sup>2</sup>__ _v_  
 __sultanate__  
 __sultry__  
+__sump pump__  
 __sump__ _n_ :two::shit:  
 __sunder__ _v_ :two::shit:  
 __sundown, sunup__ :two: _He works sunup to sundown._  
@@ -6067,7 +6074,7 @@ __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical
 __upfield__  
 __upheaval__ :four::shit:  
 __uphill battle__  
-__uphold__ _v_ :five: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
+__uphold__ _v_ :six: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__  
 __upmarket__  
 __uppercut__  
@@ -6218,7 +6225,7 @@ __water cooler__
 __water down__ :two::shit:  
 __water seepage__  
 __waterfowl__ :two::shit:  
-__waterfront__ _n_ :three::shit:  
+__waterfront__ _n_ :four::shit: _Waterfront real state._  
 __watershed__ :two::shit: _Dignataries recognized the watershed moment of his passing._  
 __waterway__  
 __wavering__ _A wavering statement._  
