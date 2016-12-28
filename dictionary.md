@@ -917,7 +917,7 @@ __bulldozing__ _v_ _Henry was bulldozing for 201 yards._
 __bullhorn__ :two::shit:  
 __bullwhip__  
 __bultwark__  
-__bulwark__ _n_ :four::shit:  
+__bulwark__ _n_ :five::shit:  
 __bum deal__  
 __bum<sup>1</sup>__ _A bum foot._  
 __bum<sup>2</sup>__ _v_  
@@ -1486,7 +1486,7 @@ __crystal meth__
 __crystal__ _Meth?_  
 __cuckolded__  
 __cuddly__ :two::shit: _Cuddly teddy bear._  
-__cudgel__ :four::shit: (cudgels)  
+__cudgel__ _n_ :five::shit: (cudgels)  
 __cue ball__ :two::shit:  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -1586,8 +1586,7 @@ __deer__ _adj_ _A deer survey._
 __deface__ _v_ _Defacing two murals._  
 __defamation__ _n_ :dart::open_mouth: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __default__ _v_ :three::shit: _The Solar Energy company defaulted._  
-__defect__ (defected) :two: _v_ Abandon one's country or cause in favour of an opposing one. _He defected to the Soviet Union after the war._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
-__defected__  
+__defect__ _v_ :four: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n: :three::shit: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defector__ Baseball position? _Army defectors._  
 __defectors__ :two::shit:  
@@ -2680,6 +2679,7 @@ __harbinger__ _n_ :two::shit:
 __hard hat__ :two::shit: _Workers in hard hats._  
 __hard-boiled egg__  
 __hard-core__ _Hard-core misogyny._  
+__hard-line__ _A more hard-line position._  
 __hard-liners__ :two::shit:  
 __hard-nosed__ :two::shit: _Hard-nosed approach._  
 __hardpan__ :two::shit: _Hardpan dirt yards._  
@@ -3918,7 +3918,7 @@ __pail__ _n_ :two::shit: _A lunch pail._
 __painter__  
 __palatable__  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
-__pall__ :three::shit: _The tragedy casts a pall over Austin._  
+__pall__ _n_ :four::shit: _The tragedy casts a pall over Austin._  
 __pallbearer__  
 __pallet__ _n_ :four::shit:  
 __palliative__ _Palliative care._  
@@ -3939,6 +3939,7 @@ __panhandling__
 __panned out__  
 __panoply__  
 __pant__ (panting) _v_ To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._  
+__panted__ _v_  
 __pantry__ _n_  
 __pants-on-fire__  
 __paper towels__  
@@ -4120,6 +4121,7 @@ __plaintive__ _adj_ :three: Plaintive is an adjective for describing someone or 
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
 __plane__  
 __planks__  _Anti-austerity planks._  
+__planter__ _My sidewalk planter._  
 __plaster__ _v_ _Blizzard plasters Denver._  
 __plate__ _Baseball_  
 __platitudes__ :two::shit:  
@@ -4179,6 +4181,7 @@ __pointed questions__
 __poise__  
 __poky__ _Coverage was a little poky._  
 __polarizing__  
+__police state__ _A society log run as a police state._  
 __policyholder__  
 __polish__ :two::shit:  
 __politburo__  
@@ -4218,6 +4221,7 @@ __power strip__
 __powerhouse__  
 __powwows__ _n_  
 __ppg__ _Sanders is averaging 13.3 ppg._  
+__practice__ _n_ _A pediatrics practice._  
 __pram__  
 __prance__ _v_ :three::shit: _On the floor exercise, Wieber prances, tumbles and smiles._  
 __prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
@@ -4577,6 +4581,7 @@ __restraint__ :two::shit: _n_
 __resumption__ :open_mouth: :four::shit: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __rethoric__  
+__retinues__ _n_  
 __retiree__ _n_ :two::shit: :es: jubilado  
 __retirement__  
 __retrain__ _v_  
@@ -4625,7 +4630,7 @@ __ringmaster__
 __ringside__  
 __rip your wiring out__  
 __riparian__ _Riparian woodland._  
-__ripe__ :adj: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _Ripe material._  
+__ripe__ :adj: :two: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _Ripe material._  
 __ripened__ _adj_ Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._  
 __riposte__  
 __ripped__ _v_  
@@ -5864,6 +5869,7 @@ __tiller__
 __time and again__
 __time frame__  
 __timeclock__ _Denver Movie Timeclock._  
+__timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable__  
 __timing bag__  
 __tin ear__ _Hillary has a political tin ear._  
@@ -6140,8 +6146,7 @@ __uproot__ _v_
 __upscale__ :four: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upshot__ _n_ :two::shit:  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
-__upstart__ _n_  
-__upstarts__ :two::shit: _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
+__upstart__ _n_ :four::shit: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :three: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__  
@@ -6455,6 +6460,7 @@ __wreath-lying__ :open_mouth:
 __wreath__ (wreaths) :three: _Funeral wreath._ :es: corona  
 __wreathed__ _A wreathed sword._  
 __wrecking ball__  
+__wrench__ _v_ _My mother reached up and wrenched my ear._  
 __wretched__  
 __wrethes__  
 __wriggling__  
