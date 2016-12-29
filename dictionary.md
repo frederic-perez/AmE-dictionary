@@ -227,6 +227,7 @@ __aboveboard__
 __abreast__ :three: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abs__ _Six-pack abs._  
 __absenteeism__ _n_ :open_mouth: Habitual absence from work.  
+__absenteeism__ _n_ Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __abutted__  
 __abutting__ _Bungalows abutting._  
 __abuzz__  
@@ -1035,7 +1036,7 @@ __capitulation__
 __caplet__ _n_  
 __capped__ _v_  
 __cappie__ _n_  
-__capsized__  
+__capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.  
 __capstone__ _n_  
 __carat__  
 __cardiac arrest__  
@@ -4248,6 +4249,7 @@ __prepping__ _v_
 __prerogative__ :two::shit:  
 __prescience__ _n_  
 __prescient__ :two::shit:  
+__presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
 __preserve__ _A comedy about gorillas in a preserve._  
 __preserves__ _A jar of fig preserves._  
 __president-elect__ :four::shit:  
@@ -4818,7 +4820,7 @@ __scones__ _n_
 __scooter__ _Motorized scooter._  
 __scope out__ _v_  
 __scorching__  
-__score__ :two: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
+__score__ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scour__ _v_ :six: (scoured) __1__ __a__ To clean, polish, or wash by scrubbing vigorously: scour a dirty oven. __b__ To remove by scrubbing: scour grease from a pan. __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.
 __scourge__ _n_ :six: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
