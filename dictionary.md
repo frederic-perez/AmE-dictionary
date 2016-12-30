@@ -825,7 +825,7 @@ __brassy__ _She is brassy, funny, and smart._
 __bratty__  
 __bravado__ _n_ :three: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning "bragging and boasting," and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: "It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners." _But I went into it with a certain bravado._  
 __brayed__ _v_ :two::shit: (braying)  
-__brazen__ :three::shit: _Brazen lyrics._  
+__brazen__ _adj_ :three: With brazen disregard for the sign that said "no cellphones please" the woman took a long call in the doctor's office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ :two::shit:  
 __brazer__  
 __breach__ _v_ :two::shit:  
@@ -2479,7 +2479,7 @@ __gloom__ _n_
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __glowering__  
 __glue > a glue-type player__  
-__glum__ :three::shit: _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
+__glum__ :three: _adj_ To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
 __glut__ _n_ :four: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
 __gnarled__ _v_  
 __gnat__  
@@ -4854,7 +4854,7 @@ __scrolled-iron__ _Scrolled-iron bench._
 __scrounge up__ _To scrounge up the funds._  
 __scrub brush__  
 __scrub__ _v_ :two::shit:  
-__scruffy__ :three::shit: (scruffier)  
+__scruffy__ :three: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrumptious__  
 __scrunched__ (scrunching) :two::shit:  
@@ -6258,6 +6258,7 @@ __walk on water__
 __walkabout__  
 __walking trail__ :two::shit: _Many airports are upping their game, adding walking trails._  
 __walkups__ (or walk-ups?)  
+__wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wallflower__  
 __wallop__ _v_ :two: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
 __wallow__ (wallows, wallowing) _v_ :four: __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
