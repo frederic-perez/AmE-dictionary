@@ -287,8 +287,7 @@ __advocacy__ :two::shit:
 __aegis__  
 __afar__ :three: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
-__affluence__  
-__affluence__ _n_ The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
+__affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :four: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __affront__  
 __afloat__  
@@ -710,8 +709,7 @@ __blackheads__ _n_ :three::shit:
 __blackjack__ :two::shit:  
 __blackout__ _Blackout dates._  
 __blanched__ _v_  
-__bland__  
-__bland__ :two::shit: _A politely bland answer._ _He had a bland voice to go with his bland face._  
+__bland__ :three::shit: _A politely bland answer._ _He had a bland voice to go with his bland face._  
 __blanket__ :two::shit: _The security blanket._  
 __blanketed__ _v_ (blanketing) :two::shit:  
 __blasé__  
@@ -1527,8 +1525,7 @@ __croaked__
 __crones__ _n_ :two::shit:  
 __cronies__ _n_ :two::shit: _Military cronies._  
 __crony__  
-__cronyism__  
-__cronyism__ _n_ :dart::four: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
+__cronyism__ _n_ :dart::five: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
 __crooked__ _Crooked media._  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
 __crossbar__ _n_  
@@ -1579,8 +1576,7 @@ __curios__
 __curlicued__ _v_  
 __curlicues__  
 __curmudgeon__ :two::shit:  
-__curry__ _v_  
-__curry__ _v_ :three::shit: _A blatant effort to curry favor._  
+__curry__ _v_ :four::shit: _A blatant effort to curry favor._  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ :two::shit: _A cursory glance._  
 __curt__ _His curt answer._  
@@ -1672,8 +1668,7 @@ __deferentially__
 __deferment__  
 __deferral__  
 __deferred__ _v_  
-__deflation__  
-__deflation__ _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
+__deflation__ :two::shit: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
 __deflection__ :two::shit:  
 __defrock__ _v_  
 __defrost__  
@@ -1986,9 +1981,7 @@ __earth-shattering__
 __earthquake drill__  
 __easing__  
 __ebb and floor__  
-__ebb and flow__ :four::shit: (ebbed and flowed)  
-__ebbs and flows__  
-__ebbs and flows__ _The ebbs and flows of life._  
+__ebb and flow__ :six::shit: (ebbed and flowed, ebbs and flows) _The ebbs and flows of life._  
 __ebullient__ :two::shit:  
 __eclampsia__  
 __edgy__ _adj_ :three::shit: _Aaron has got a style that's humble but edgy._  
@@ -2312,8 +2305,7 @@ __flapjack__ _n_
 __flare-ups__  
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ _The injury flared._  
-__flash point__  
-__flash point__ :two::shit: _The latest flaash point is over the president's push to reduce caaarbon pollution._  
+__flash point__ :three::shit: _The latest flaash point is over the president's push to reduce caaarbon pollution._  
 __flash__  
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-footed__ :three::shit: _I have never been caught flat-footed by any situation._  
@@ -2360,10 +2352,7 @@ __florid__
 __flotilla__  
 __flotsam__  
 __flounder__ _v_ :two::shit: (floundering) _v_  
-__flout__ (flouted, flouting) :three: /flaʊt/ _v_ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._  
-__flout__ _v_  
-__flouting__ _The hypocrisy of a candidate who built a casino empire while floating morality._  
-__flouts__ _v_ :two::shit:  
+__flout__ _v_ :seven: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
 __flown__ _v_  _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
@@ -2450,8 +2439,7 @@ __free lunch__
 __freebies__ _n_ :three::shit: _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_ :three::shit: (freewheeling) _Freewheeling style._ _Freewheeling phone calls._  
-__freewheeling__  
-__freewheeling__ _A freewheeling conversation._  
+__freewheeling__ :two::shit: _A freewheeling conversation._  
 __frenzy__  
 __fret__  
 __fretful__  
@@ -3163,8 +3151,7 @@ __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._
 __intel__ _The intel value he might offer._  
 __intemperance__  
 __interdicting__  
-__interlopers__  
-__interlopers__ _n_  
+__interlopers__ _n_  :two::shit:  
 __intermittent__  
 __international friendly__  
 __interspersed__ _v_ :three::shit:  
@@ -3368,10 +3355,8 @@ __laminated__ _A laminated cheat sheet._
 __lampooned__  
 __landfill__ :two::shit:    
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
-__landslide__ _n_  
-__landslide__ _n_ :three::shit: _I will win the game by a near landslide._  
-__lanky__  
-__lanky__ _adj_  
+__landslide__ _n_ :four::shit: _I will win the game by a near landslide._  
+__lanky__ _adj_ :two::shit:  
 __lantanas__ _n_  
 __lap__ _v_ _Despite being lapped._  
 __laped pin__  
@@ -3734,8 +3719,7 @@ __minstrel__
 __mint bank notes__  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
 __mire__ _v_ :open_mouth::seven::shit: (mired)  
-__mired__ _v_  
-__mired__ _v_ :two::shit: _Britain is now mired in crisis._  
+__mired__ _v_ :three::shit: _Britain is now mired in crisis._  
 __mirth__ _n_ :two::shit:  
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __misdemeanor__ :two::shit:  
@@ -3978,8 +3962,7 @@ __oddball__ :three: _Informal_ A strange or eccentric person. :es: bicho raro
 __oddsmakers__  
 __oddyssey__ :open_mouth: _A harrowing oddyssey._  
 __odometer__ :two::shit:  
-__of late__ :es: últimamente 
-__of late__ _Their number have, indeed, been dropping of late._  
+__of late__ :two::shit: _Their number have, indeed, been dropping of late._ :es: últimamente  
 __of__ _The gas smells of roggen eggs._  
 __off-kilter__  
 __off-kilter__  
@@ -4155,8 +4138,7 @@ __paring__
 __parishioner__  
 __parlay__  
 __parlayed__  
-__parliament__  
-__parliament__ :open_mouth:  
+__parliament__ :open_mouth::two::shit:  
 __parochial__ :two::shit:  
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
@@ -4465,8 +4447,7 @@ __prescience__ _n_
 __prescient__ :two::shit:  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
 __preserve__ _A comedy about gorillas in a preserve._  
-__preserves__ _A jar of fig preserves._  
-__preserves__ _n_  
+__preserves__ _n_ :two::shit: _A jar of fig preserves._  
 __president-elect__ :four::shit:  
 __press box__ _n_  
 __press on__  
@@ -4718,10 +4699,8 @@ __rebate__ :three: _n_ A partial refund to someone who has paid too much for tax
 __rebates__ _Tax rebates._  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__  
-__rebuffed__ :two::shit: _The effort has been rebuffed._  
-__rebuffed__ _v_  
-__rebuke__ _n_  
-__rebuke__ _n_ :two::shit:  
+__rebuffed__ :three::shit: _The effort has been rebuffed._  
+__rebuke__ _n_ :three::shit:  
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recanted__ _v_  
 __recap__ _n_ _The written recap of the meeting._  
@@ -5341,8 +5320,7 @@ __siege__ _An overnight siege shocked the country._
 __sieve__  
 __sift__ _v_ :four: __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sifted__ _Empty packets of it sifted around at our feet._  
-__signage__ Signs collectively.  
-__signage__ _The neon signage._  
+__signage__ :two: Signs collectively. _The neon signage._  
 __signee__  
 __signees__ _Malory was one of four singnees._  
 __signet ring__  
