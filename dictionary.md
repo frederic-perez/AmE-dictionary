@@ -488,8 +488,7 @@ __backdrop__ _n_ :four::shit: _These massacres took place against the backdrop o
 __backlash__  
 __backlog__ :two: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backsplash__ _n_ _A new tile backsplash._  
-__backwater__  
-__backwater__ _An academic backwater._  
+__backwater__ :two::shit: _An academic backwater._  
 __backwoods__  
 __bad blood__ :two::shit:  
 __bad-hair__ _Arnold can have a bad-hair movie._  
@@ -957,8 +956,7 @@ __build a future__ :es: labrarse un futuro
 __buildup play__  
 __buildup__ _n_  
 __bulk__  
-__bulkhead__  
-__bulkhead__ _n_ :three::shit: _The bulkhead door._  
+__bulkhead__ _n_ :four::shit: _The bulkhead door._  
 __bull in a china shop__  
 __bull__ Adult large animal (eg. an elephant).  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
@@ -1471,9 +1469,7 @@ __cowering__ _v_
 __coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crab lice__ _n_  
 __crack__ _v_ _He cracked 90 mph on the radar gun._  
-__crackdown__ :nine::arrow_up_small::o2: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
-__crackdown__ _n_  
-__crackdown__ _n_  
+__crackdown__ _n_ :nine::arrow_up_small::o2: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackle__ _v_ (crackling) :two::shit:  
 __cracklings__ _n_  
@@ -2069,8 +2065,7 @@ __enshrined__
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :two::shit: (ensued) _Complications ensue._  
 __ensuing__  
-__enthrall__ _v_  
-__enthrall__ _v_ :three: (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
+__enthrall__ _v_ :four: (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :four::shit: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __entitlement programs__  
@@ -2125,9 +2120,7 @@ __excoriation__
 __execs__ Executives?  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
-__exert__ _v_  
-__exert__ _v_ _To exert due diligence._  
-__exerted__  
+__exert__ _v_ :three::shit: (exerted) _To exert due diligence._  
 __exhaust__ _Exhaust fans._  
 __exhibit A__  
 __exonerate__ :two::shit:  
@@ -2922,8 +2915,7 @@ __hillbilly__ :two::shit:
 __hillocks__  
 __hinky__  
 __hinterland__ /ˈhɪntəland/ :two: (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
-__hipper__  
-__hipper__ _adj_ _Hipper Nancy Drew._  
+__hipper__ _adj_ :two::shit: _Hipper Nancy Drew._  
 __hirsutism__  
 __hissy__ _Hissy fit._  
 __hit and miss__  
@@ -3170,9 +3162,7 @@ __jab<sup>2</sup>__ _v_ :four: (jabbing) Poke roughly or quickly, especially wit
 __jabber__ _v_ _Mormons return jabbering in Portuguese._  
 __jack-o'-lantern__  
 __jackhammer__  
-__jade__ _v_ _Easily jaded eyes._  
-__jaded__ _Jaded gamer._  
-__jaded__ _v_ :three::shit:  
+__jade__ _v_ (jaded) :five::shit: _Easily jaded eyes._ _Jaded gamer._  
 __jagged__ :two::shit:  
 __jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.    
 __jam up__ _v_  
@@ -3591,8 +3581,7 @@ __make-or-break__
 __makeshift__ _adj_ :six::shit:  
 __makeup game__  
 __making waves__ :two::shit:  
-__malaise__ :two::shit: _Postcolonial malaise._ _The general economic malaise._  
-__malaise__ _Economic malaise._  
+__malaise__ :three::shit: _Postcolonial malaise._ _The general economic malaise._  
 __malarkey__  
 __malevolent__  
 __malfeasance__ :two::shit:  
@@ -4005,8 +3994,7 @@ __onus__
 __oompah__ _The house oompah band._  
 __oomph__  
 __ooze__ _v_ :eight: (oozed, oozing) __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
-__op-ed__ :five: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
-__op-ed__ _n_  
+__op-ed__ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open house__ _Educational open house._  
 __open-air bus__  
 __open-wheel__ :three::shit: _Open-wheel cars._  
@@ -4056,9 +4044,7 @@ __outreach__ _He's an HIV outreach worker._
 __outriggers__  
 __outright__ _adj?_  
 __outré__  
-__outset__ _The outset of his campaign._  
-__outset__ _n_  
-__outset__ _n_ :two::shit:  
+__outset__ _n_ :four::shit: _The outset of his campaign._  
 __outshine__ _v_  
 __outsize__ :two::shit: _An outsize risk._  
 __outspoken__ :open_mouth: :four: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
@@ -4639,8 +4625,7 @@ __rammed__ _v_ _JFK's PT boat was rammed._
 __ramming__  
 __ramp up__ :three::shit: _Official decisions ramped up activity._  
 __rampage__ :three::shit:  
-__rampant__  
-__rampant__  
+__rampant__ :two::shit:  
 __rampart__ _Ancient stone ramparts._  
 __ramparts__ :two::shit:  
 __ramshackle__ :two::shit:  
@@ -4652,8 +4637,7 @@ __rankled__ _v_
 __rant__ _v_  
 __rapidly__  
 __rapiers__  
-__rapprochement__  
-__rapprochement__ :two::shit:  
+__rapprochement__ :three::shit:  
 __rapt__ :two::shit: _Robert C. Cone had a rapt audience._  
 __rapture__ _The film _Carol_ left critics in rapture._  
 __rare news conference__  
@@ -4721,8 +4705,7 @@ __redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._
 __redemptions__ _n_  
 __redo__  
 __redolent__ _adj_ :four::shit: _His ceremony was redolent with tension._  
-__redoubt__  
-__redoubt__  
+__redoubt__ :two::shit:  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
 __redshirt__  
@@ -4961,10 +4944,8 @@ __run-in__ :two::shit: (run-ins) _A run-in with police._ _He had several run-ins
 __run-of-the-mill__  
 __runaways__  
 __rung__ _n_  
-__rungs__ _n_  
-__rungs__ _n_ :two::shit: _He deserves to be in the lowest rungs of hell._  
-__runner-up__ _n_  
-__runner-up__ _n_ :five::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
+__rungs__ _n_ :three::shit: _He deserves to be in the lowest rungs of hell._  
+__runner-up__ _n_ :six::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runoff water__  
 __runoff__ _n_ :five::shit: _Enough votes to force a runoff._ _A runoff vote._ _Sediment runoff._  
@@ -5048,8 +5029,7 @@ __school desk__
 __schooling__ _I could smell trout schooling up in the bay._  
 __schooner__ (schooners) :five::shit: _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
-__scion__  
-__scion__  
+__scion__ :two::shit:  
 __scissor lift__  
 __scleroderma__  
 __scoff__ (scoffed) :three: _v_ Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
@@ -5869,9 +5849,7 @@ __stunting__ _Acidic oceans are stunting growth of coral reefs._
 __stunts__ _Singers emphasoze stunts over music._  
 __stupas__  
 __stutter__ _v_  
-__stymie__ _v_ (stymied) :seven::shit:  
-__stymied__ _v_  
-__stymied__ _v_  
+__stymie__ _v_ (stymied) :nine::shit:  
 __suave__ :two::shit: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subdue__  
@@ -5937,9 +5915,7 @@ __swanky__ _Swanky dinner._
 __sward__ _n_  
 __swashbuckling__  
 __swatches__  
-__swath__  
-__swath__  
-__swath__ _n_ :nine: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swath__ _n_ :nine::arrow_up_small::o2: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_   
 __swathe<sup>2</sup>__ _v_ :two::shit:  
 __swatted__  
@@ -6322,8 +6298,7 @@ __tulle__  _Tulle-covered arch._
 __tumble__ _v_ :two::shit:  
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
-__turgid__  
-__turgid__ :two::shit:  
+__turgid__ :three::shit:  
 __turkey drumstick__  
 __turning tables__ _Feds turning the tables on ssexual predators._  
 __turnip__ _n_  
@@ -6613,8 +6588,7 @@ __wee hours__
 __wee__ _Comes out of prison with a wee bit of a chemical dependency problem._  
 __weevil__ :two::shit: _Weevil worms._  
 __weigh__ _v_ :es: sopesar?  
-__welfare__  
-__welfare__ :two: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
+__welfare__ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
 __well-heeded__  
 __well-nigh__ _adverb_ Almost. _A task that is well-nigh impossible._  
