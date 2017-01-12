@@ -237,8 +237,7 @@ __abounds__
 __about-face__  
 __aboveboard__  
 __abreast__ :three: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
-__abrogation__  
-__abrogation__  
+__abrogation__ :two::shit:  
 __abs__ _Six-pack abs._  
 __absenteeism__ _n_ :open_mouth: Habitual absence from work.  
 __absenteeism__ _n_ Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
@@ -523,8 +522,7 @@ __bandanna__
 __bandit__ _n_  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
-__bane__ _n_  
-__bane__ _n_ :two::shit:  
+__bane__ _n_ :three::shit:  
 __bang-for-the-buck__  
 __bangs__ _n_ :two::shit: _informal?_ _She wore her hair in bangs._  
 __banish__ _v_ :two::shit: (banished) :es: desterrar    
@@ -1348,8 +1346,7 @@ __commoditization__
 __communiqué__ (communiqués) :two::shit:  
 __compasionate__  
 __compassionate__  
-__compel__ _v_  
-__compel__ _v_ :two::shit: (compelling)  
+__compel__ _v_ :three::shit:  
 __compelling__ _adj_ Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __compliance__ :two::shit: _Compliance guy._  
 __comply__ _v_  
@@ -1475,7 +1472,6 @@ __cowering__ _v_
 __coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crab lice__ _n_  
 __crack__ _v_ _He cracked 90 mph on the radar gun._  
-__crackdown__  
 __crackdown__ _n_ :nine::arrow_up_small::o2: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackle__ _v_ (crackling) :two::shit:  
@@ -1663,8 +1659,7 @@ __deface__ _v_ _Defacing two murals._
 __defamation__ _n_ :dart::open_mouth: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __default__ _v_ :three::shit: _The Solar Energy company defaulted._  
 __defect__ _v_ :four: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
-__defection__ _n: :three::shit: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
-__defection__ _n_ :two::shit:  
+__defection__ _n: :five: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defector__ Baseball position? _Army defectors._  
 __defectors__ :two::shit:  
 __defer__ _v_  
@@ -1904,8 +1899,8 @@ __dressed to the nines__
 __dressing room__ :two::shit: _(vs fitting room)_  
 __drifter__  
 __driftwood__ :two::shit: _Driftwood logs._  
-__drill__ _n_ _An evacuation drill._  
-__drill__ _v_ __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables."  
+__drill<sup>1</sup>__ _n_ _An evacuation drill._  
+__drill<sup>2</sup>__ _v_ __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables."  
 __drink and use__  
 __drip-drying__  
 __drive__ _The drive by Senate Democrats to change the rules._  
@@ -2669,8 +2664,7 @@ __greenback__ _n_ Dollar?
 __greenbacks__ _Green greenbacks._  
 __greenhouse__  
 __griddle__  
-__gridiron__  
-__gridiron__ _n_ :three::shit:  
+__gridiron__ _n_ :four::shit:  
 __gridlock__  
 __grievance__ _n_ :two::shit:  
 __grievously__  
@@ -2834,8 +2828,7 @@ __hasty__ :two::shit:
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _v_ (hatched) :two::shit: _Hatching tech secrets._  
 __hatched__ _v_ _The Play hatched plans at picnics._  
-__haughty__  
-__haughty__ :two::shit: _Oscar votters are as haughty as the critics._  
+__haughty__ :three::shit: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_  
@@ -3001,8 +2994,7 @@ __hot-button__
 __hot-rodder__  
 __hot-wire__ _Hot-wire cars._  
 __hot-wired__  
-__hotbed__ _n_  
-__hotbed__ _n_ :three: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
+__hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hourlong__ _The hourlong meeting._  
 __house > take it to the house__  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
@@ -3049,8 +3041,7 @@ __hutch__ _n_ :two::shit: _The rabbit hutch._
 __hymnal__ _The party hymnal._  
 __hyperbole__  
 __hypertensive__ _To be hypertensive._  
-__hypocritical__  
-__hypocritical__  
+__hypocritical__ :two::shit::open_mouth:  
 __hysteric__  
 __ice cream cone__  
 __ice house__ _Insulated ice houses._  
@@ -3076,10 +3067,8 @@ __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: 
 __immigrated__  
 __impairment__  
 __impasse__ :three: :open_mouth: Deadlock or stalemate. _At impasse._  
-__impeach__ _v_  
-__impeach__ _v_  
-__impeachment__  
-__impeachment__  
+__impeach__ _v_ :two::shit:  
+__impeachment__ :two::shit:  
 __impede__ _v_  
 __impending__ _adj_ :six: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__  
@@ -3138,8 +3127,7 @@ __influenza__
 __infusion__ _Drug infusions._ _(vs drug injections)_  
 __ingots__  
 __ingrained__ _Speeding is deeply ingrained in American culture._  
-__ingratiate__ _v_  
-__ingratiate__ _v_  
+__ingratiate__ _v_ :two::shit:  
 __inimical__  
 __injuction__ :five: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
 __injury time__  
@@ -4361,8 +4349,7 @@ __plumb__ _v_
 __plummeting__  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_  
-__plunder__  
-__plunder__  
+__plunder__ :two::shit:  
 __plush__ _adj_ :three: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __ply__ _v_ :three::shit: _It is the perfecting designed environment to ply his trade._  
 __po'-boy sandwiches__  
@@ -4502,16 +4489,13 @@ __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_
 __prop up__ _But with her leg propped up._  
 __propped__ _v_  
 __props__ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
-__proselytize__ :open_mouth::dart:  
-__proselytize__ :three::open_mouth: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
+__proselytize__ :four::open_mouth::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __protean__ :two::shit:  
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
 __provost__ _n_ :three: A provost is an administrator at a college or university. The provost is very important to the school.  
-__prowess__  
-__prowess__ _n_  
-__prowess__ _n_ :three: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
+__prowess__ _n_ :five: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
 __prude__ _n_  
 __prune-o__ :two::shit:  
@@ -4666,8 +4650,7 @@ __rare news conference__
 __rarefied__    
 __raring__  
 __rascal__  
-__rash__ :two::shit: _The rash of incidents._  
-__rash__ _n_ :three::shit: _A rash of oil problems._ _A rash of promotions._  
+__rash__ _n_ :five::shit: _A rash of oil problems._ _A rash of promotions._  
 __rashes__ _Skin rashes._  
 __rasp__ _v_  
 __rat-fuck__ _v_  
@@ -5628,8 +5611,7 @@ __spool tables__
 __spool__ _n_  
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __sprawl__  
-__sprawling__  
-__sprawling__  
+__sprawling__ :two::shit:  
 __sprig__ :three::shit: _A sprig of mint._  
 __sprigs__  
 __springboard__  
@@ -5728,8 +5710,7 @@ __stay put__ _v_ :three: _Syn_ stay, stick, stay around _Gilbert, Fultz among to
 __stay__ _Granted a stay of execution._  
 __staying power__  
 __stead__  
-__steadfast__ :five: _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
-__steadfast__ _n_  
+__steadfast__ :six: _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steady-eddy__  
 __steady__ :five::shit: _A steady economic growth._ _Steady jobs._  
 __stealthy__  
@@ -6389,8 +6370,7 @@ __undergarments__ _n_ :two::shit:
 __underpin__  
 __underpinning__  
 __underprivileged__  
-__underscore__ _v_  
-__underscore__ _v_  
+__underscore__ _v_ :two::shit:  
 __undersecretary__  
 __understandably__ :two::shit:  
 __undertow__  
@@ -6416,8 +6396,7 @@ __unhindered__
 __unhinged__ :two::shit: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
 __unkempt__ _Unkempt beards._  
 __unraveling__  
-__unrepentant__  
-__unrepentant__  
+__unrepentant__ :two::shit:  
 __unrestrained__  
 __unruly__ :two::shit:  
 __unruly__ _Unruly campaign speeches._  
