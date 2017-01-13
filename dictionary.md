@@ -417,6 +417,7 @@ __arguably__
 __armory__  
 __arms embargo__  
 __arms race__  
+__around the clock__  
 __arpents__ _n_ :two::shit:  
 __artifacts__  
 __as good as it gets__ _Right now, Djokovic is about as good as it gets on a tennis court._  
@@ -524,6 +525,7 @@ __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band i
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::shit:  
 __bang-for-the-buck__  
+__banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::shit: _informal?_ _She wore her hair in bangs._  
 __banish__ _v_ :two::shit: (banished) :es: desterrar    
 __bank__ _Fillon can beat Le Pen, but don't bank on it._  
@@ -1206,6 +1208,7 @@ __chiropractor__ _n_
 __chirping__ _There's a lot of chirping in hockey, and it can be pretty nasty at times._  
 __chiseled__  
 __chivvied__  
+__choke__ _A team of choke artists._  
 __choker__ _A velvet choker._  
 __chomping__  
 __choppy__ (choppier) :three: (of a sea, lake, or river) Having many small waves. _Before the waters get choppier._ _Choppy waters._  
@@ -1472,6 +1475,7 @@ __cowering__ _v_
 __coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crab lice__ _n_  
 __crack__ _v_ _He cracked 90 mph on the radar gun._  
+__crackdown__  
 __crackdown__ _n_ :nine::arrow_up_small::o2: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackle__ _v_ (crackling) :two::shit:  
@@ -2522,6 +2526,7 @@ __garish__ :two::shit: :open_mouth: _They are charming and garish at the same ti
 __garland__ _Garland motifs on carved oak paneling._  
 __garment__  
 __garner__ _v_ :eight: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
+__garnered__ _v_  
 __garnering__ 
 __garroted__ _v_  
 __gars__ _n_ :three::shit: _Alligator gars._  
@@ -3351,6 +3356,7 @@ __laminated__ _A laminated cheat sheet._
 __lampooned__  
 __landfill__ :two::shit:    
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
+__landslide__  
 __landslide__ _n_ :four::shit: _I will win the game by a near landslide._  
 __lanky__ _adj_ :two::shit:  
 __lantanas__ _n_  
@@ -4188,6 +4194,7 @@ __penchant__ :nine: (from French, ‘leaning, inclining’, present participle o
 __penitents__ _n_  
 __penknife__ :two::shit:  
 __pennant races__  
+__pennant__  
 __pennant__ _n_  
 __pennants__ _n_  
 __penned hogs__  
@@ -6427,6 +6434,7 @@ __uppercut__
 __uppermost__  
 __uppers__  
 __upping__ _v_ :two::shit:  
+__upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproot__ _v_  
 __upscale__ :four: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upshot__ _n_ :two::shit:  
