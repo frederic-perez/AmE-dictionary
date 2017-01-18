@@ -127,6 +127,7 @@ __Loot__
 __M.O.__ Modus operandi?  
 __ME__ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __MIA__ Missing in Action.  
+__MLK__  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __Mace__ _v_  
 __Mach number__ :open_mouth:  
@@ -211,6 +212,7 @@ __Texas Panhandle__
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
 __Tijuana special__  
 __Tokyoites__  
+__Tudor__  
 __Turkey day__  
 __UA-ed__ _v_ :two::shit:  
 __Unesco__ _United Nations Educational, Scientific and Cultural Organization._  
@@ -228,6 +230,7 @@ __abalone__
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
 __abatement__ _A tax abatement._  
+__abating__  
 __abetting__ _v_ :two::shit:  
 __abeyance__ :two::shit:  
 __abhorrent__  
@@ -444,6 +447,7 @@ __atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite
 __atolls__ _n_  
 __atone__ _v_ :two::shit:  
 __atoned__ _v_  
+__atrium__  
 __atrocious__  
 __attack dog__ _n_  
 __attain__ _I wish you success in attaining your dream._  
@@ -694,6 +698,7 @@ __birch__ _Birch and oak in stock._
 __birdbrain__  
 __birds of the same feather__  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
+__bishop's benches__  
 __bivouac__ :open_mouth:  
 __biz__ _Hot biz model._  
 __bizarre__  
@@ -812,6 +817,7 @@ __bonobo__
 __booby-trapped 105's__  
 __boogeyman__  
 __boogie__  
+__bookcases__  
 __bookend__ :two::shit:  
 __bookish__  
 __boom and bust__  
@@ -1449,6 +1455,7 @@ __coulee__
 __councilor__ _n_  
 __counsel__  
 __count your blessings__ _T�o be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things._  
+__countered__ _Countered kitchen._  
 __counterfeit__ :es: falsificación  
 __counterpoint__ _n_  
 __countervail__ _Countervailing evidence._  
@@ -1685,6 +1692,7 @@ __demonizing__
 __demonstrate__ :open_mouth:  
 __demurely__ :two::shit:  
 __demurred__ _v_  
+__den__  
 __dengue__  
 __denizen__  
 __denizens__ :two::shit:  
@@ -2272,7 +2280,7 @@ __flagstone__ _Flagstone terraces._
 __flah point__  
 __flail__ _v_ :three::shit: (flailed, flailing)  
 __flailed__ _v_  
-__flair__ :five: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
+__flair__ :six: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flak vest__  
 __flak__ _n_ :four: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flamboyant__ :three::shit:  
@@ -3710,6 +3718,7 @@ __mogul__ :two::shit:
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __molasses__  
 __mold__ _n_  
+__moldings__  
 __moldy__ :two::shit:  
 __mole grip__ :camera: Locking pliers.  
 __mole wrench__ :camera: Locking pliers.  
@@ -4162,6 +4171,7 @@ __penny-pinch__ _Penny-pinching conservatives._
 __pens__ _n_ _Screened pens with rabbits._  
 __pensionary__ :es: jubilado  
 __pensive__ _v_  
+__pent-up__  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __peoples__ (?)  
 __pep__ _n_ :three::open_mouth: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
@@ -4589,6 +4599,7 @@ __raking__ _v_
 __rally<sup>1</sup>__ _v_ :nine::arrow_up_small::o2::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._ :es: manifestarse?  
 __rally<sup>2</sup>__ _n_  
 __ram__ _v_ :two::shit:  
+__rambler__ :two::shit:  
 __ramblers__ _n_  
 __rambling__ _v_ :four::shit:  
 __rambunctious__ :two::shit:  
@@ -4921,6 +4932,7 @@ __ruse__ _n_ :two::shit:
 __rustle__ _v_ :two::shit: _To rustle up a dinner for 12._  
 __rut__ :two::shit: _Some guy with rut for brains._  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
+__s/s__ Stainless steel. _s/s appliances._  
 __sac-a-lait__  
 __safeguard__  
 __sag__ (sagging) :five: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
@@ -6406,6 +6418,7 @@ __variety store__
 __varsity__ _n_ :four: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
+__vaulted__ _Vaulted ceilings._  
 __vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
 __vaunted__ _His vaunted political organization._  
 __veggie__ _Holiday veggie roast._  
@@ -6477,6 +6490,7 @@ __waft__ :two::shit: _v_ _Fine powder that wafts up from footsteps like flour._
 __wafting__ _v_  
 __wage__  
 __waifish__   
+__wainscoting__  
 __waive__ _v_ :five::shit; (waived)  
 __waivers__ _n_  
 __wake__ _n_ _At wakes._  
@@ -6667,6 +6681,7 @@ __wizened__ _adj_ :three: "You're looking quite wizened today," is a something y
 __woe__ _n_ Misfortune; calamity: _economic and political woes._  
 __woefully__ :three::shit: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
+__wolfe range__  
 __womanizer__  
 __womanizing__  
 __wondrous__ :two::shit:  
