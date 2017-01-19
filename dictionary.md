@@ -857,7 +857,7 @@ __bowling alley__
 __box score__  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __bozos__ _n_  
-__brace__ _v_ :six: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._  
+__brace__ _v_ :seven: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._  
 __bracing__ _v_  
 __bracketology__ _Daily bracketology updates._  
 __brain drain__  
@@ -1504,6 +1504,7 @@ __creosote__
 __crepe paper bells__  
 __crepe__  
 __crescent__  
+__crestfallen__  
 __crevice__ :three: _n_ A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
@@ -1581,6 +1582,7 @@ __curt__ _His curt answer._
 __curtail__ _v_ :five: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __curtly__  
+__curveball__ _Informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
 __cusp__ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :three::shit: _Other kids cussed in front of their parents._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
@@ -1604,6 +1606,7 @@ __dallying__
 __damp__ _v_ :three::shit: _Damping systems._  
 __damsel__ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
+__dandelion thistle__  
 __dandelions__  
 __dandruff__  
 __dang__ _adj_ _But, dang marketers go crazy._  
@@ -1692,7 +1695,7 @@ __demonizing__
 __demonstrate__ :open_mouth:  
 __demurely__ :two::shit:  
 __demurred__ _v_  
-__den__  
+__den__ :four::shit:  
 __dengue__  
 __denizen__  
 __denizens__ :two::shit:  
@@ -2055,7 +2058,7 @@ __endowed__
 __endowment__ _n_ :three: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.    
 __endurance__ _Endurance race._  
 __enduring__ _v_  
-__engrossed__  
+__engross__ _v_ :two::shit::dart: (engrossed)  
 __engulf__ _v_  
 __enlivened__  
 __enmity__ _n_ :five::shit:  
@@ -2338,7 +2341,7 @@ __floppy > floppy socks__
 __florid__  
 __flotilla__  
 __flotsam__  
-__flounder__ _v_ :two::shit: (floundering) _v_  
+__flounder__ _v_ :three::shit: (floundering)  
 __flout__ _v_ :seven: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
 __flown__ _v_  _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
@@ -2629,6 +2632,7 @@ __grandstand__ :two::shit: _He found rats in his grandstand._
 __granola__ _n_  
 __grapple__ _v_ (grappled, grappling) :dart::nine::arrow_up_small::o2: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grass-routs__ _Grass-routs campaign._  
+__grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_  
 __grate<sup>2</sup>__ _v_ :four: (grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
 __grates__ _v_  
@@ -2868,7 +2872,7 @@ __heft__ _n_ :two::shit:
 __hefted up__  
 __hefty__  
 __heinous__ :three::shit:  
-__heirlooms__ :two::shit: _Family heirlooms._  
+__heirlooms__ :three::shit: _Family heirlooms._  
 __heist capers__  
 __heliograph__  
 __helipad__  
@@ -3291,6 +3295,7 @@ __knockusing__
 __knoll__ _n_ :three::shit:  
 __knotty__  
 __know better__ _But I knew better._  
+__knowll__ _n_ A small hill or mound. _A grassy knoll._  
 __knuckleball__ :two::shit:  
 __knuckler__  
 __knucklers__  
@@ -3680,6 +3685,7 @@ __milled about__ _v_
 __milling__ :two::shit: _To avoid disrespectful milling._  
 __milquetoast__ _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mince__ :two: _v_ Cut up (food, especially meat) into very small pieces, typically in a machine. Minced beef._  
+__mincemeat__  
 __minder__ :es: guardaespaldas  
 __mindful__  
 __minie balls__  
@@ -3960,6 +3966,7 @@ __omission__
 __on deck__  
 __on edge__  
 __on the docket__  
+__on the sly__ _Stealing kisses from me on the slide._  
 __on top of that__ _On top of that, ..._  
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
 __once-over__  
@@ -4584,7 +4591,8 @@ __racous__
 __racousness__  
 __racy__ :two::shit: _A racy line from a popular song._  
 __radish__  
-__raffle__  
+__raffle<sup>1</sup>__ _n_  
+__raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :three: A large collection or quantity. _A raft of reforms._  
 __rage__ _n_  
 __raged__ _v_  
@@ -4786,6 +4794,7 @@ __revelled__
 __revelry__ :two::shit:  
 __revenant__  
 __revered__  
+__revile__ _v_  
 __revisit__ _v_  
 __revive__ _v_ _To revive unemployment benefits._  
 __revue__ _n_ A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. :es: revista, show  
@@ -5114,6 +5123,7 @@ __sequins__ :two::shit:
 __sequiturs__  
 __servicers__  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
+__set out__ _v_  
 __set piece__ _The goal was scored on a set piece._  
 __setbacks__ _n_  
 __setting > picturesque setting__ :es: entorno picturesco  
@@ -5200,6 +5210,7 @@ __shoestring__ _A shoestring budget._
 __shogunate__ :two::shit: _A local shogunate office._  
 __shoo-in__  
 __shooing__ _v_ :two::shit:  
+__shoot the breeze__ _Informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
 __shoot up__ :two::shit: _The number of homeless families shot up during the recession._  
 __shootaround__ (basketball)  
 __shooting gallery__  
@@ -5410,6 +5421,7 @@ __slurp__ _v_ :two::shit: _Whitey sucked his soda through a straw until it slurp
 __slush__ _n_ _The offshore ice and slush._  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :five: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
+__small potatoes__ _Informal_ Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small__ _I rubbed the small of her back._  
 __smallpox__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
@@ -5489,10 +5501,12 @@ __snuff out__ _v_
 __snuff__  
 __snug__ _v__ :two::shit:  
 __snuggles__  
+__snugly__  
 __soap opera__  
 __societal__  
 __sociopaths__  
 __sod__ _n_  
+__soffit__  
 __soft bread__  
 __soft-spoken__  
 __soften__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
@@ -5893,7 +5907,7 @@ __sweat it__ _Don't sweat it._
 __sweatpants__  
 __sweepstakes__  
 __sweethearts__  
-__swell__ _The swell of people from war-torn countries._  
+__swell__ _n_ :two::shit: _The swell of people from war-torn countries._  
 __swelled__ (swelling) :two::shit:  
 __sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
@@ -5936,6 +5950,7 @@ __take a stand__
 __take by storm__  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __takeout containers__  
+__takeout__ _Maybe you have Chinese takeout the night before Thanksgiving._  
 __taking roll__ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_ :two::shit: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ :two::shit: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
@@ -6140,6 +6155,7 @@ __tomboy__
 __ton__ _A metric ton._  
 __tone-deaf__  
 __tong__  
+__tongue in cheek__ _adj and adverb_ :two::dart: (tongue-in-cheek) In an ironic or insincere way. _Her delightful tongue-in-cheek humour._  
 __tongue-in-cheek__ In a way that is not serious, although it appears to be. _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tonsure__  
 __tony__ :four: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._  
@@ -6502,8 +6518,7 @@ __walkups__ (or walk-ups?)
 __wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wallflower__  
 __wallop__ _v_ :two: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
-__wallow__ (wallows, wallowing) _v_ :four: __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
-__wallowed__ _Wallowed in fustian._  
+__wallow__ _v_ :six: (wallows, wallowing) _1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::shit: _A wan reception._  
 __waning__  
 __wanly__ _She droppedand egg on the floor and looked at it wanly._  
@@ -6773,6 +6788,7 @@ __zingers__
 __zip-line__ (zip-lining)  
 __zip<sup>1</sup>__ _n_ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
 __zip<sup>2</sup>__ _v_ _The ISS zips around Earth once every 90 minutes._  
+__zit__ _n_ _Informal_ A spot on the skin.  
 __zonk__ _n_ :two::shit:   
 __zoot__ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ :es: calabacín  
