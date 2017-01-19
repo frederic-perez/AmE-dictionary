@@ -8,6 +8,7 @@ __A-list__
 __AB__ _Guys in the AB._  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
+__ACT__ A college entrance exam, competitor to the SAT.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __Achilles heel__ A weakness or vulnerable point.  
@@ -77,6 +78,7 @@ __Frappuccino__
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __GED__ (GED exam) :two: The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on heathful non-GMO feed._  
+__GRE__ A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __GWTW__ Gone With The Wind.  
 __Ganjapreneur__  
 __Garden of Gethsemane__  
@@ -183,6 +185,7 @@ __Reuben James__
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __Rotarian__  
 __Roto-Rooter__  
+__SAT__ A standardized test widely used for college admissions in the United States, competitor to the ACT.  
 __SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges.  
 __Sam Browne belt__  
 __Semper fi__ :two::shit:  
@@ -204,6 +207,7 @@ __Sunday best__ _Rita wanders a highway in her Sunday best._
 __Sweepstakes__ _Your Sweepstakes._  
 __Sweet 16__ _sports_  
 __T&A__  
+__TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
 __T__ _v_ _His car shit the bed so he's going to have to T it._  
 __Tea partyers__ :open_mouth:  
 __Teamster__ _n_ :two::shit:  
@@ -845,6 +849,7 @@ __botched__ _v_ :two::shit:
 __bothersome__  
 __botnet__  
 __bottle fly__ _n_  
+__bottle opener__ :camera:  
 __bottle rocket__ (Mentos-propelled?)  
 __bottom out__ _Europe is bottomed out._  
 __boudin__ :two::shit: _A length of white boudin in a saucer._  
@@ -3889,6 +3894,7 @@ __nonce__
 __nonchalant__ :two::shit:  
 __nondescript__ :two::shit:  
 __nonpliable__ _Nonpliable products._  
+__nonplussed__ _adj_  
 __nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
