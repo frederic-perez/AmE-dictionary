@@ -185,8 +185,7 @@ __Reuben James__
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __Rotarian__  
 __Roto-Rooter__  
-__SAT__ A standardized test widely used for college admissions in the United States, competitor to the ACT.  
-__SAT__ _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges.  
+__SAT__ :two: _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __Sam Browne belt__  
 __Semper fi__ :two::shit:  
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
@@ -717,7 +716,7 @@ __blackheads__ _n_ :three::shit:
 __blackjack__ :two::shit:  
 __blackout__ _Blackout dates._  
 __blanched__ _v_  
-__bland__ :three::shit: _A politely bland answer._ _He had a bland voice to go with his bland face._  
+__bland__ _adj_ :three::shit: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2__ __a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blanket__ :two::shit: _The security blanket._  
 __blanketed__ _v_ (blanketing) :two::shit:  
 __blasé__  
@@ -2299,7 +2298,7 @@ __flapjack__ _n_
 __flare-ups__  
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ _The injury flared._  
-__flash point__ :three::shit: _The latest flaash point is over the president's push to reduce caaarbon pollution._  
+__flash point__ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
 __flash__  
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-footed__ :three::shit: _I have never been caught flat-footed by any situation._  
@@ -4680,8 +4679,7 @@ __reappraise__ :es: valorar
 __rebate__ :three: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._  
 __rebates__ _Tax rebates._  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
-__rebuff__  
-__rebuffed__ :three::shit: _The effort has been rebuffed._  
+__rebuff__ _v_ :four: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
 __rebuke__ _n_ :four::shit:  
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recanted__ _v_  
@@ -5701,7 +5699,7 @@ __staying power__
 __stead__  
 __steadfast__ :six: _adj_ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steady-eddy__  
-__steady__ :five::shit: _A steady economic growth._ _Steady jobs._  
+__steady__ _adj_ :five:__1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
 __stealthy__  
 __steamer trunk__ _A steamer trunk lay opened by the couch._  
 __steamrolled__ _v_  
