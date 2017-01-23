@@ -1,33 +1,5 @@
 
 
 
-__effort__ _n_ :dart: _Activists launched an effort._  
-__Utans__  
-__taunted__ _v_  
-__stand strong__  
-__shoulders__ _The shoulders of the freeway will be wider._  
-__condone__ _v_  
-__wanton__ _adj_  
-__poaching__  
-__colic__ _n_  
-__bum__ _v_  
-__heist__ _A true-life heist drama._  
-__parolee__ _n_  
-__zest__  
-__quell__ _v_  
-__forfeit__ _v_  
-__tabulate__ _v_  
-__ruckus__ _n_  
-__pantsed__ _v_  
-__deface__ _v_  
-__stuck-up__  
-__ides__ _n_  
-__onset__  
-__lilac tree__  
-__velvet rose__ :camera:  
-__aspen__  
-__wallow__ _v_  
-__cussed__  
-__placard__ _n_  
-__bindles__ _Drug bindles._  
-__fore and aft__  
+
+

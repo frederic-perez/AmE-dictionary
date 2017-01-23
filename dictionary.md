@@ -1,3 +1,7 @@
+
+
+
+
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.   
@@ -219,6 +223,7 @@ __Tudor__
 __Turkey day__  
 __UA-ed__ _v_ :two::shit:  
 __Unesco__ _United Nations Educational, Scientific and Cultural Organization._  
+__Utans__  
 __V-E Day__  
 __V-J Day__ :two::shit:  
 __VA__ _VA medical centers._  
@@ -435,6 +440,7 @@ __ascribe__ _v_
 __ashen__ _His face turned ashen._  
 __aside__ _First, a personal aside._  
 __asp__ _n_  
+__aspen__  
 __aspersion__ _n_  
 __assail__ :two: /əˈseɪl/ _v_ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
@@ -694,6 +700,7 @@ __billing__ _Now, the women's contest will take second billing._
 __billow<sup>1</sup>__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_  
 __binder__ _n_ _My binder._  
+__bindles__ _Drug bindles._  
 __biomass__  
 __biopic__  
 __bipartisan__  
@@ -973,6 +980,7 @@ __bulwark__ _n_ :six::shit: _Acting as a bulwark against mass deportations._
 __bum deal__  
 __bum<sup>1</sup>__ _A bum foot._  
 __bum<sup>2</sup>__ _v_  
+__bum__ _v_  
 __bumblebees__  
 __bumbling__ _v_ :six::shit:  
 __bumper__  
@@ -1326,6 +1334,7 @@ __cold duck__
 __cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
 __coleslaw__ _n_ :three::shit:  
+__colic__ _n_  
 __collapsible__ _Collapsible shutters._  
 __collarbone__ :two::shit:  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
@@ -1375,6 +1384,7 @@ __concoction__
 __concomitant__  
 __concourse__  
 __concussion__ :two: _He recovers from the concussion he sustained on June 15._  
+__condone__ _v_  
 __conducive__ :two::shit: _The vehicle doesn't seem conducive to passing._  
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
 __conduit__ _n_ :two::shit:  
@@ -1589,6 +1599,7 @@ __curtly__
 __curveball__ _Informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
 __cusp__ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :three::shit: _Other kids cussed in front of their parents._  
+__cussed__  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __cut me a little slack__  
 __cut-and-dry task__  
@@ -1660,7 +1671,7 @@ __deedee__ _v_
 __deep freezers__  
 __deep-six__ _v_ :two: _informal_ Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
-__deface__ _v_ _Defacing two murals._  
+__deface__ _v_ :two::shit: _Defacing two murals._  
 __defamation__ _n_ :dart::open_mouth: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __default__ _v_ :three::shit: _The Solar Energy company defaulted._  
 __defect__ _v_ :four: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
@@ -1993,6 +2004,7 @@ __eerie__
 __eerily__ :three::shit:  
 __effete__  
 __effigy__ _n_ :three::shit: (effigies)  
+__effort__ _n_ :dart: _Activists launched an effort._  
 __eggnog__ _n_ :two::shit: _A big eggnog party._  
 __egotists__  
 __egregious__ _adj_ :four: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
@@ -2388,6 +2400,7 @@ __for the ages__ :two::shit: _A comeback for the ages._ _A year for the ages._
 __for the sake of__  
 __foragers__  
 __foray__ :four: /ˈfɒreɪ/ _n_ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
+__fore and aft__  
 __fore__ _n_ :three::shit:  
 __forebode__ _v_ :five: (foreboding) _v_ __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreclose__ _v_  
@@ -2403,6 +2416,7 @@ __forestall__ _v_ :three: It takes a bit of planning to forestall something, mea
 __forestalled__  
 __forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._  
 __forfeit<sup>2</sup>__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
+__forfeit__ _v_  
 __forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
 __forgo__ _v_ :six: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
@@ -2878,6 +2892,7 @@ __hefty__
 __heinous__ :three::shit:  
 __heirlooms__ :three::shit: _Family heirlooms._  
 __heist capers__  
+__heist__ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
 __hellbent__ :two::shit:  
@@ -3044,6 +3059,7 @@ __icing__ _Mansions are found on the icing._
 __iconoclasm__  
 __iconoclast__  
 __id__ _The ramblings of a sleepless I'd._  
+__ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __idolatry__  
 __if you will__ :open_mouth:  
@@ -3445,6 +3461,7 @@ __lightning rod__
 __lightning-rod__  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
 __likewise__  
+__lilac tree__  
 __lilac__  
 __limb__ _Tree limb._  
 __limerics__  
@@ -3982,6 +3999,7 @@ __one-offs__
 __onerous__  
 __onesie__ _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlookers__  
+__onset__  
 __onslaught__  
 __onus__  
 __oompah__ _The house oompah band._  
@@ -4104,6 +4122,7 @@ __pant__ (panting) _v_ To breathe quickly with short breaths, usually with your 
 __panted__ _v_  
 __pantry__ _n_  
 __pants-on-fire__  
+__pantsed__ _v_  
 __paper towels__  
 __pappy__  
 __paragon__  
@@ -4122,6 +4141,7 @@ __parlay__
 __parlayed__  
 __parliament__ :open_mouth::two::shit:  
 __parochial__ :two::shit:  
+__parolee__ _n_  
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
 __parsnip__  
@@ -4285,7 +4305,7 @@ __pitted__ _v_ _Pitted cherries._
 __pivot__ _n_  
 __pizazz__ :two: An attractive combination of vitality and glamour. :es: dinamismo  
 __pk__  
-__placard__ _n_ :camera:  
+__placard__ _n_ :two::shit::camera:  
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __placemats__ _n_  
 __plaid__ _Plaid shirt._  
@@ -4345,7 +4365,7 @@ __ply__ _v_ :three::shit: _It is the perfecting designed environment to ply his 
 __po'-boy sandwiches__  
 __poach__ _v_  
 __poachers__ _n_ :two::shit: _A chimpanzee that lost its mother to poachers._  
-__poaching__ _Poaching has become socially unacceptable._  
+__poaching__ :two::shit: _Poaching has become socially unacceptable._  
 __pockmarks__  
 __podjo__  
 __podna__ :two::shit:  
@@ -4560,7 +4580,7 @@ __quay__ _n_
 __queasiness__ _There was queasiness among many residents._  
 __queasy__ :two: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __queer__ _v_  
-__quell__ (quelled) :eight: _v_ Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
+__quell__ _v_ :nine:(quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quench__  
 __quenches__ _v_  
 __quibble__ _v_  
@@ -4904,7 +4924,7 @@ __rub elbows__ _v_
 __rub__ _n_  
 __rubbings__ _n_  
 __rucksack__  
-__ruckus__ :two::shit: _The comment caused a ruckus._  
+__ruckus__ _n_ :three::shit: _The comment caused a ruckus._  
 __ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rue__ _v_ _Pa. town rues sacrifice of its war dead._  
 __rueful__ _He gave a rueful smile._  
@@ -5234,6 +5254,7 @@ __shotgun cottage__
 __shotgun house__  
 __shotput__ _n_  
 __shoulder__ _v_  
+__shoulders__ :camera: _The shoulders of the freeway will be wider._  
 __shout-out > give a shout-out__  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
 __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
@@ -5660,6 +5681,7 @@ __stamp out__ _Policemen took their own steps to stamp out smoking on the railwa
 __stamped__  
 __stance__ :five: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_  
+__stand strong__  
 __stand tall__  
 __standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
 __standoff__ _n_  
@@ -5817,6 +5839,7 @@ __stubble__ _n_ :nine::arrow_up_small::o2::shit: _The sugarcane stubble._ _Smoke
 __stubby__  
 __stubs__ :two::shit:  
 __stuck a chord__  
+__stuck-up__  
 __stud__ _v_ :three::shit: (studded)  
 __studded__ _Customers gathered for his star-studded celebration in Manila._  
 __studs__  
@@ -5942,6 +5965,7 @@ __tab<sup>2</sup>__ _v_ (tabbed, tabby)
 __tab__ _n_ _The tab is $1,000 per person._  
 __table tennos__  
 __tableaux__ 
+__tabulate__ _v_  
 __tabulated__ _Tabulated scientific data._  
 __tabulator__ :open_mouth: _Tabulators are being paid $25 for each half day they work._  
 __taciturn__  
@@ -5998,6 +6022,7 @@ __tatters__ _Its reputation is in tatters._
 __tattling__  
 __taunt<sup>1</sup>__ _n_ :two::shit: (taunts) _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _v_ :two::shit: (taunted, taunting)  
+__taunted__ _v_  
 __taut__ _adj_  
 __tawdry__ :two: Poor, cheap quality.  
 __tax breaks__ _n_  
@@ -6443,6 +6468,7 @@ __vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially e
 __vaunted__ _His vaunted political organization._  
 __veggie__ _Holiday veggie roast._  
 __velvet rope__  
+__velvet rose__ :camera:  
 __venal__  
 __venality__  
 __veneer__ _n_ :four::shit:  
@@ -6522,11 +6548,11 @@ __walkups__ (or walk-ups?)
 __wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wallflower__  
 __wallop__ _v_ :two: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
-__wallow__ _v_ :six: (wallows, wallowing) _1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
+__wallow__ _v_ :seven: (wallows, wallowing) _1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::shit: _A wan reception._  
 __waning__  
 __wanly__ _She droppedand egg on the floor and looked at it wanly._  
-__wanton__ :three: _adj_ __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
+__wanton__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __warble__ _v_  
 __wardrobe__ _Left Bank wardrobe._  
 __warehoused__ (warehoused) _v_  
@@ -6787,6 +6813,7 @@ __zealous__
 __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero in__  
 __zero-sum__ :three::shit: _A zero-sum game._ _A zero-sum relationship._  
+__zest__  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zingers__  
 __zip-line__ (zip-lining)  
