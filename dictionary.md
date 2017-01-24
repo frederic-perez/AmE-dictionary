@@ -1,7 +1,3 @@
-
-
-
-
 __(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.   
@@ -891,6 +887,7 @@ __breakdown__ _Population breakdown._
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakout<sup>1</sup>__ _n_ :three: An escape from jail.  
 __breakout<sup>2</sup>__ _adj_ :three: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._  
+__breakout__ _Primed for a breakout season with the Utes._  
 __breakwater__ _n_  
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
@@ -901,6 +898,7 @@ __brethren__ _Political brethren._
 __briar__ :two::shit:  
 __bric-a-brac stores__  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
+__brick__ _n_ _basketball_  
 __brickbats__  
 __bridesmaid__  
 __briers__  
@@ -2670,7 +2668,7 @@ __green-behimd-the-ears__
 __greenback__ _n_ :three::shit: Dollar? _Green greenbacks._  
 __greenhouse__  
 __griddle__  
-__gridiron__ _n_ :four::shit:  
+__gridiron__ _n_ :five::shit:  
 __gridlock__  
 __grievance__ _n_ :two::shit:  
 __grievously__  
@@ -2693,6 +2691,7 @@ __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness,
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritty__ :four::shit: _The gritty determination._ _A gritty victory._  
 __grizzled__ _v_ :two::shit: _Grizzled ballroom vets._  
+__groan__  
 __grocer__ _n_ :two::shit:  
 __grog__  
 __groomed__  
@@ -2716,7 +2715,7 @@ __growling__
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grudge__ _n_ :five::shit: _I don't hold any grudges._ _Holding a grudge._ :es: rencor   
 __grudging__ (grudgingly) :two::shit:  
-__grueling__ :two::shit:  
+__grueling__ :three::shit:  
 __gruff__ :three::shit:  
 __grumble__ _v_ :three::shit:  
 __grunt__ _n_ __1__ :two: A deep guttural sound. __2__ :two: _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ :three: _Slang_ One who performs routine or mundane tasks. _The grunt work._  
@@ -2974,7 +2973,7 @@ __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
-__homestand__  
+__homestand__ :two::shit:  
 __homestead__ :two::shit:  
 __homie__ _Homies for life._  
 __honcho__  
@@ -2987,6 +2986,7 @@ __hood__ _n_ :two::shit:
 __hoodlums__  
 __hooky__ _A kid playing hooky._    
 __hoop dress__  
+__hoop__ _v_  
 __hoopla__ :three: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoot__ _You know, it's a hell of a hoot._  
 __hopeful__ _n_ _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
@@ -6745,6 +6745,7 @@ __wordplay__
 __wordsmith__ 
 __workaday__  
 __workforce__  
+__workmanlike__  
 __worrisome__  
 __worrywarts__  
 __worshiper__  
