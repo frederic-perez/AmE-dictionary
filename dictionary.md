@@ -1160,7 +1160,7 @@ __censure motion__
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cessation__  
-__cesspool__ _The journalist cesspool._  
+__cesspool__ :two::shit: _The journalist cesspool._  
 __chads__ _n_  
 __chafe__ _v_ :six::shit: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
 __chaffed__ _v_  
@@ -1708,7 +1708,7 @@ __demonizing__
 __demonstrate__ :open_mouth:  
 __demurely__ :two::shit:  
 __demurred__ _v_  
-__den__ :four::shit:  
+__den__ :five: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dengue__  
 __denizen__  
 __denizens__ :two::shit:  
@@ -3118,7 +3118,7 @@ __inconsequential__
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incubus__  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
-__incumbent<sup>2</sup>__ _n_ :three::shit: _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
+__incumbent<sup>2</sup>__ _n_ :three: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __indefatigable__ _adj_ :three::open_mouth: Incapable or seemingly incapable of being fatigued; tireless.  
 __indelible__ :four::shit::open_mouth: _An indelible mark._  
 __indict__ _v_ :three::shit:  
@@ -3353,6 +3353,7 @@ __lambaste__ _v_
 __lambasted__  
 __lambaster__ :_v_  
 __lambasting__  
+__lame duck__ _n_ __1__ __a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::shit: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
 __lampooned__  
@@ -5912,6 +5913,7 @@ __suspensers__ _Firehouse suspenders_
 __svelte__ :two::shit:  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada a un bebé_  
 __swagger__ :two::shit:  
+__swain__ _n_ A young male suitor or lover.  
 __swamp__ _n_ :two: __1__ __a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
 __swamped__ _v_ :three::shit:  
 __swampy__  
