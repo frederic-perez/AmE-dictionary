@@ -373,7 +373,8 @@ __angling__
 __angst__ :six: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::shit:  
 __anguish__ :two::shit:  
-__animosity__ :two::shit:  
+__animosity__ _n_ :four:  __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
+__animus__ _n_  
 __annuity__ (annuities) :two::shit:  
 __anomic__  
 __anorak__  
@@ -1566,7 +1567,7 @@ __cry foul__ _But alcohol-safety groups cry foul, saying alcohol makers take cre
 __crystal meth__  
 __crystal__ _Meth?_  
 __cuckolded__  
-__cuddly__ :two::shit: _Cuddly teddy bear._  
+__cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::shit: (cudgels)  
 __cue ball__ :two::shit:  
 __cued__ _v_ _Newman cued the clip again._  
@@ -2467,6 +2468,7 @@ __front-runner__ _n_
 __frontrunner__  
 __frosh__  
 __frostbite__ :two::shit:  
+__frugal__ _adj_  __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __fruit basket__ _California's Central Valley, fruit basket to the nation._  
 __fruition__ The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
@@ -2564,6 +2566,7 @@ __getaway day__
 __getaways__ _n_ _Weekend getaways._  
 __ghastly__ :two::shit:  
 __ghoul__ :two::shit:  
+__gibbet__ _n_  
 __gibblets__ _n_  
 __giddily__  
 __giddiness__ :two::shit:  
@@ -3187,7 +3190,7 @@ __jambalaya__ _n_
 __jamboree__ :two::shit: _v_  
 __jammies__ _n_  
 __jams__ _n_  
-__jar__ _v_  
+__jar__ _v_ :two::shit:  
 __jarring__ :two::shit: _Jarring evidence._  
 __jaundice__ _v_ :two::shit:  
 __jaunt__ _n_  
@@ -3415,7 +3418,7 @@ __leer up__
 __leer<sup>1</sup>__ _v_ (leering) :four: :open_mouth: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj_ :six: _Informal_ Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :three: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :four: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __legal tack__  
 __legerdemain__  
@@ -3984,7 +3987,7 @@ __olefin__ _n_
 __oligarch__  
 __omelets__  
 __omen__ :two::shit:  
-__ominous__ :five::shit:  
+__ominous__ _adj_ :six: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __omission__  
 __on deck__  
 __on edge__  
@@ -4368,6 +4371,7 @@ __poach__ _v_
 __poachers__ _n_ :two::shit: _A chimpanzee that lost its mother to poachers._  
 __poaching__ :two::shit: _Poaching has become socially unacceptable._  
 __pockmarks__  
+__podge__ _n_ _informal_ A short chubby person.  
 __podjo__  
 __podna__ :two::shit:  
 __pogrom__  
@@ -4518,6 +4522,7 @@ __psyche__
 __psychopathic__  
 __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
 __pud__ _n_ :five::shit:  
+__pudge__ _n_ _informal_ A variant spelling (esp US) of podge.  
 __pudgy__ _A pudgy boy._  
 __puds__ _n_  
 __puff<sup>1</sup>__ _n_ :two::shit:  
@@ -5907,6 +5912,7 @@ __surefire__
 __surly__ _adj_ Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmount__ _v_  
+__surplice__ _n_  
 __surreptitiously__ :two::shit:  
 __surveyor__  
 __suspensers__ _Firehouse suspenders_  
@@ -6356,6 +6362,7 @@ __unapologetically__
 __unassuming__ _Hollande, an unassuming and bespectacled Socialist._  
 __uncouth__  
 __uncrating__  
+__unction__ _n_  
 __unctuous__  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __under (someone's) watch__  
