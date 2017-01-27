@@ -625,7 +625,7 @@ __being on the fitz__
 __bejeweled__ _v_  
 __belabor__  
 __belaboring__  
-__belate__ _v_  
+__belate__ _v_ :two::shit: (belated)  
 __belatedly__  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
@@ -4824,7 +4824,7 @@ __revelled__
 __revelry__ :two::shit:  
 __revenant__  
 __revered__  
-__revile__ _v_  
+__revile__ _v_ :two::shit:  
 __revisit__ _v_  
 __revive__ _v_ _To revive unemployment benefits._  
 __revue__ _n_ A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. :es: revista, show  
@@ -6125,6 +6125,7 @@ __thumbnail__ _Here's a thumbnail of the story._
 __thump__ _v_ :two::shit: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._  
 __thundered__ _v_  
 __thunderheads__  
+__thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
 __thunk__ _v_ _A thunking sound._  
 __thusly__  
 __thwack__ (thwacks) :two::shit:  
