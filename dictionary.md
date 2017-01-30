@@ -758,7 +758,7 @@ __bloviate__ _v_
 __blow it off__  
 __blowgun__ _n_  
 __blown call__  
-__blowout__ _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+__blowout__ :two::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
 __blowtorch__  
 __blowup bed__ _n_  
@@ -910,7 +910,7 @@ __bring (one) to one's feet__ To make someone or an audience rise up applauding 
 __briny__ _adj_  
 __brisk__ :two::shit: _Brisk pace._  
 __brisket__ _n_ :two::shit:  
-__bristle__ _v_ :seven: (bristled) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
+__bristle__ _v_ :eight: (bristled) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristles__ _n_  
 __bristling__  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
@@ -1208,8 +1208,10 @@ __childbirth__
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chip away__ _v_  
 __chip in__ _v_ :two::shit:  
+__chip on his shoulder__  
 __chip-off__  
-__chip__ _n_ _I played with a little chip on my shoulder this year._  
+__chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
+__chip<sup>2</sup>__ _v_ _We had to chip and be patient._  
 __chipped__ _v_  
 __chippies__ :two::shit:  
 __chippy__  
@@ -1404,6 +1406,7 @@ __connived__
 __conscripted__  
 __consensual__  
 __consensus__  
+__consequently__  
 __conservancies__  
 __consigliere__ _Our family consigliere._  
 __conspicuous__ _adj_ :three: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
@@ -1454,6 +1457,7 @@ __corn fritters__
 __cornstarch__  
 __corps__ _n_ _Japan's deep corps of talented skaters._  
 __corpsman__ _He was trained as a medical corpsman._  
+__corralled__ _v_  
 __corralling__ _v_  
 __corsages__  
 __cosseted__  
@@ -1540,6 +1544,7 @@ __cronies__ _n_ :three::shit: _Military cronies._
 __crony__  
 __cronyism__ _n_ :dart::five: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
 __crooked__ _Crooked media._  
+__crosbar__ _n_ _soccer_  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
 __crossbar__ _n_  
 __crossbeam__ _n_  
@@ -1678,6 +1683,7 @@ __defection__ _n: :five: Withdrawing support or help despite allegiance or respo
 __defector__ :four::shit: _Army defectors._  
 __defer__ _v_  
 __deference__  
+__deferential__  
 __deferentially__  
 __deferment__  
 __deferral__  
@@ -1770,6 +1776,7 @@ __dirtdobbers__
 __dirty boogie__  
 __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
 __dis__ _n_ :two::shit:  
+__disallow__ _v_ :dart: _The goal was disallowed._  
 __disarray__ :three: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disavowed__ _v_  
 __disbar__ _Disbar attorney._  
@@ -1875,7 +1882,7 @@ __down-to-earth__ _Down-to-earth approach to life._
 __downbeat__ :two::shit:  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downers__ :two::shit:  
-__downhill__ :camera::two::shit: Simple and easy? _David Bowie dead, and it was all downhill from there._  
+__downhill__ :camera::three::shit: Simple and easy? _David Bowie dead, and it was all downhill from there._  
 __downpours__  
 __downright__ :dart::two::shit: _Not to mention, just downright good looking._  
 __downsides__  
@@ -3112,6 +3119,7 @@ __inbound__ :two::shit: _Inbound trip._
 __inbounds pass__  
 __incensed__ _v_  
 __inception__  
+__inch__ _v_ _They'll just inch their way down the field._  
 __inching__  
 __inchoate__  
 __incidentally__  
@@ -3163,6 +3171,7 @@ __intel__ _The intel value he might offer._
 __intemperance__  
 __interdicting__  
 __interlopers__ _n_  :two::shit:  
+__intermission__ :two::shit:  
 __intermittent__  
 __international friendly__  
 __interspersed__ _v_ :three::shit:  
@@ -3269,6 +3278,7 @@ __kabuki__ :three::shit:
 __kale__  
 __keel__ (keeled) :two::shit: _v_  
 __keen__ _adj_ :four: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._  
+__keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tabs on__ :es: vigilar  
 __keep up__  
 __keepsake__ :two: _n_ A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -3474,6 +3484,7 @@ __limo__
 __linchpin__ _n_ :three::shit:  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
 __lineages__  
+__linemen__ _n_  
 __lining__ _My stomach lining._  
 __links__ :two::shit: _The links course._  
 __lint__ _n_ :three::shit: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
@@ -4062,6 +4073,7 @@ __outright__ _adj?_
 __outré__  
 __outset__ _n_ :four::shit: _The outset of his campaign._  
 __outshine__ _v_  
+__outshoot__ _v_  
 __outsize__ :two::shit: _An outsize risk._  
 __outspoken__ :open_mouth: :four: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
 __oval__ _Ford oval logo._  
@@ -4330,6 +4342,7 @@ __play ball__
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play havoc__  
 __play it safe__  
+__play the tails off__ _I'm proud of our defense. They played their tails off._  
 __playbook__ :two::shit:  
 __playoff pairings__ _The final rankings and playoff pairings will be released Sunday._  
 __playwright__ :two::shit:  
@@ -4420,6 +4433,7 @@ __potholed__ _The island's potholed highways._
 __potholes__ _n_  
 __potluck__  Comes from from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary)  
 __pounce__ :four::shit: _v_ (pounced) _Critics pounced on the showiness._  
+__pounced__ _v_  
 __pout__ _v_ (pouts, pouting) :three::shit:  
 __powder blue__ Color?  
 __power bar__  
@@ -4474,6 +4488,7 @@ __pride__ _v_ :two::shit: _We pride ourselves in providing the best car shopping
 __pries__ _He pries your buttocks apart._  
 __priestesses__ _n_  
 __primacy__ _n_  
+__primal__ _adj_ _He let out a primal scream._  
 __prime-age__  
 __primed__  
 __primer__ _n_  
@@ -4680,7 +4695,7 @@ __rattan couch__
 __rattan__  
 __rattle__ _v_ :six::shit: (rattled) _Rattle the world._  
 __rattlers__   
-__raucous__ :six: _adj_ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
+__raucous__ _adj_ :seven: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchy__  
 __ravaged__ _v_ :two::shit:  
 __ravages__ :two::shit: _The potential ravages of a man-manipulated virus at a research center._  
@@ -4719,7 +4734,7 @@ __recooled__
 __recoup__ _v_ :five: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.
 __recreational__ _Recreational marijuana vs medical marijuana._  
 __recuse__ _She recused herself._  
-__red hot__ _Now the market is red hot._  
+__red hot__ :two::shit: _Now the market is red hot._  
 __red taoe__ It would add red tape and increasing processing time._  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
@@ -4919,7 +4934,7 @@ __rot-and-branch__ _Root-and-branch reforms._
 __roti__ _A roti shop._  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
-__round out__  
+__round out__ _v_ :two::shit:  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
 __rout<sup>1</sup>__ _n_ :four: An overwhelming defeat.  
@@ -5084,7 +5099,7 @@ __screwball__ _The screwball buddy comedy._
 __screws > put the screws on someone__ _informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribe__ _n_  
 __scribes__  
-__scrimmage__  
+__scrimmage__ :two::shit:  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
 __scrounge up__ _To scrounge up the funds._  
@@ -5155,6 +5170,7 @@ __servicers__
 __set (someone) up__ _v_ _Emile's trying to set you up._  
 __set out__ _v_  
 __set piece__ _The goal was scored on a set piece._  
+__setback__  
 __setbacks__ _n_  
 __setting > picturesque setting__ :es: entorno picturesco  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
@@ -5292,7 +5308,7 @@ __shunned__
 __shush__ _v_  
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
-__shutout__ _n_ :five: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
+__shutout__ _n_ :six: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__ _Just shy of its highest mark._  
@@ -5628,6 +5644,7 @@ __sprawling__ :two::shit:
 __sprig__ :three::shit: _A sprig of mint._  
 __sprigs__  
 __springboard__  
+__springing__ _v_ _The T-birds are capabke of springing the upset._  
 __springring clasp__  
 __sprinkle__ _v_ (sprinkled, sprinkling) :five::shit:  
 __sprinkler__ :three: _n_ __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
@@ -5659,6 +5676,7 @@ __squat<sup>2</sup>__ _adj_ :two: Short and thickset; disproportionately broad o
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squawked__ _The walkie-talkie squawked._  
 __squeak__ _v_  
+__squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
 __squeamish__ Easily ​upset or ​disgusted by things or ​actions you ​find ​unpleasant: _Dad was squeamish about ​killing ​roaches._  
 __squeamishness__  
 __squelch__  
@@ -5709,6 +5727,7 @@ __starfish__
 __stargazing__  
 __stark__ _adj_ :three::shit:  
 __startling__  
+__stat sheet__ _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
 __stately__ _adj_ :three: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
@@ -5852,7 +5871,7 @@ __studded__ _Customers gathered for his star-studded celebration in Manila._
 __studs__  
 __stuffy__   
 __stump__  _v_ :eight: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet.  
-__stunned__ _adj_ :four: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
+__stunned__ _adj_ :five: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__  
 __stunt<sup>1</sup>__ _n_  
@@ -6176,7 +6195,7 @@ __to his name__ _Bernie died with $1.09 to his name._
 __to that end,__  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  
-__toast__ _A champagne toast._  
+__toast__ _adj_ :two::shit: _I'm just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toe jam__ _n_ :two::shit:  
 __toe-curling__  
@@ -6268,7 +6287,7 @@ __trickle<sup>2</sup>__ _v_ :three::shit:
 __trickle__ _n_  
 __trickling down__  
 __tricksy__  
-__trifecta__ :three: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
+__trifecta__ :four: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_  
 __trinkets__  
@@ -6437,6 +6456,7 @@ __upping__ _v_ :two::shit:
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproot__ _v_  
 __upscale__ :four: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
+__upset__ _n_ :two::shit: _He scored 15 points to lead Syracuse to the upset._  
 __upshot__ _n_ :two::shit:  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstart__ _n_ :four::shit: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
@@ -6475,8 +6495,8 @@ __varsity__ _n_ :four: The word varsity identifies the starting team in a sport 
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _Vaulted ceilings._  
-__vaunt__  (vaunted) :three: _v_ Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
-__vaunted__ _His vaunted political organization._  
+__vaunt__  _v_ :three: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
+__vaunted__ :three::shit: _His vaunted political organization._  
 __veggie__ _Holiday veggie roast._  
 __velvet rope__  
 __velvet rose__ :camera:  
