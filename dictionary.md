@@ -404,6 +404,7 @@ __appeal__ _:two::shit: His case is unresolved on appeal._ _Vilma is appealing h
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
 __appeases__ _v_  
+__appellate__  
 __appetizer__ :open_mouth: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __apportioned__ _v_  
@@ -618,7 +619,7 @@ __behest__ _n_ :four::dart: A person's orders or command. _They had assembled at
 __behold__ :two::shit: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :seven: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::shit: _Beauty is in the eye of the beholder._  
-__behoove__  
+__behoove__ _v_ :two::shit:  
 __beige book__ ?  
 __beignet__ _n_ :three: A deep-fried, yeast-raised doughnut dusted with confectioners' sugar. A square doughnut with no hole.  
 __being let go__ _His mother was let go at the plant in 2006._  
@@ -748,7 +749,7 @@ __blip__ _Fun cars are a blip._
 __blithe__ :four::shit:  
 __blitheness__  
 __blitz__ :three: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
-__bloc__ _n_ :three::shit: _The troubled currency bloc._  
+__bloc__ _n_ :four::shit: _The troubled currency bloc._  
 __blood-expander__  
 __blooker__ :two::shit:  
 __bloop__  
@@ -1002,6 +1003,7 @@ __bunt__ _v_ :two::shit: (bunted) _Hamels batted in the third inning and tried t
 __buoy<sup>1</sup>__ _n_  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyant__ :four: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
+__burgeoning__  
 __burgundy__ _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :two::shit:  
@@ -1311,6 +1313,7 @@ __clutch__ _He was a dominant player in the clutch._
 __clutched__ _v_
 __clutches__ _Clutches for iPhone._  
 __co-op__ :three::shit:  
+__coalesce__ _v_ (coalescing) :es: fundirse  
 __coaster brakes__  
 __coat of arms__ :three::shit: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
@@ -1514,7 +1517,7 @@ __creakings__ _Door creakings._
 __creaky__ _Creaky infrastructure._  
 __creases__ _Knife creases._  
 __creasing__  
-__credence__  
+__credence__ :two::shit:  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
 __creek__ _An older house on a creek._  
 __crenelated weir__  
@@ -1569,7 +1572,7 @@ __crunchtime__
 __crusader__  
 __crusty__  
 __crux__ _n_ :two::shit: _The crux of the matter._  
-__cry foul__ _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
+__cry foul__ :two::shit: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __crystal meth__  
 __crystal__ _Meth?_  
 __cuckolded__  
@@ -1804,12 +1807,13 @@ __disparagement__ :two::shit:
 __disparaging__ :two::shit:  
 __dispatch__ _v_  
 __dispatcher__ _n_  
-__dispel__ _v_ :three::shit: (dispelled)  
+__dispel__ _v_ :four::shit: (dispelled)  
 __dispirited__  
 __dispiriting__ _Dispiriting results._  
 __disquiet__  
 __disrupt__  
 __dissatisfaction__  
+__dissatisfy__ _v_  
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissent__ _n_ :two::shit:  
 __disservice__ _(funny spelling)_  
@@ -3143,7 +3147,7 @@ __inequitable__
 __inextricably__  
 __infamous__ _Princess Leia's infamous dual-bun hairstyle._  
 __infamy__  
-__infighting__  
+__infighting__ :two::shit:  
 __infirm__ _adj_  
 __influence-peddling__ :three::shit:  
 __influenza__  
@@ -4570,7 +4574,7 @@ __punk__
 __punt__ _Football_  
 __puny__ _A puny garden snail._  
 __purloin__ _v_ :three::shit: (purloined)  
-__purported__ _v_ :two::shit: _The purported attack._ _JFK's purported affairs._  
+__purported__ _v_ :three::shit: _The purported attack._ _JFK's purported affairs._  
 __purportedly__  
 __purse__ _v_ _His lips pursed._  
 __purveyor__ _n_ :four::shit: _Purveyors of unhelpfully vapid self help._  
@@ -4593,7 +4597,7 @@ __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._
 __quagmire__ :two: _n_ __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ :es: atolladero  
 __quail__ _n_  
 __quaint__ :two::shit: _Quaint town._  
-__quaintly__  
+__quaintly__ :two::shit:  
 __qualm__ (qualms) :three: _n_ An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ :six: Difficult dilemma. _All-Star managers face quandary._  
 __quarters__ _To return to their quarters._  
