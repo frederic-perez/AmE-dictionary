@@ -45,6 +45,7 @@ __Chicken Little__ (Chicken Littles) _n_ An alarmist or person who panics easily
 __Chiuaua__  
 __Chugging beers__  
 __Cincy__ Cincinnati?  
+__Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __Collins glass__  
 __Concacaf__  
 __Coptic__  
@@ -2928,6 +2929,7 @@ __hicks__ _A collection of web-toed hicks._
 __hidebound__ :two::shit:  
 __high and dry__ _His team was left high and dry._  
 __high beams__  
+__high road__ __1__ __a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_  
@@ -3843,6 +3845,7 @@ __mush__ _n_ :four::shit: _A mush brain._
 __mushers__  
 __mushroom__ _v_ _Traffic mushroomed in Feb._  
 __mushy__ _Mushy age._  
+__musing__ _n_ (musings) Contemplation; reflection.  
 __musket__  
 __muskmelon__ _n_ :two::shit:  
 __muskrat__ _The muskrat season._  
@@ -5883,7 +5886,7 @@ __stunts__ _Singers emphasoze stunts over music._
 __stupas__  
 __stutter__ _v_  
 __stymie__ _v_ (stymied) :nine::shit:  
-__suave__ :two::shit: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
+__suave__ :three::shit: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subdue__  
 __subjugate__ _v_  
