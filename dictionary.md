@@ -931,7 +931,7 @@ __broncobusting__
 __brooder house__  
 __brooding__ _adj, n_ :five: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brook__ _v_  
-__brouhaha__  
+__brouhaha__ :two::shit:  
 __brownstones__ _n_  
 __bruited__  
 __brush__ _To brush fires in California._  _The goats cleared brush._  
@@ -2834,6 +2834,7 @@ __harebrained__
 __hark__ _v_ :two::shit: (harking)  
 __harp__ _v_ _She told her she was always harping on him._  
 __harping__ _v_  
+__harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago_  
 __harried__ _A harried mom._  
 __harrow__ _n_  
 __harrowing__ _A harrowing oddyssey._  
@@ -5074,6 +5075,7 @@ __scissor lift__
 __scleroderma__  
 __scoff__ (scoffed) :three: _v_ Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scoffed__ _v_  
+__scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
 __scooter__ _Motorized scooter._  
@@ -5297,6 +5299,7 @@ __showrunner__
 __showstopping__ _A showstopping performance._  
 __showtime__  
 __shrapnel__ :four: _n_ __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ :open_mouth: _Informal_ Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
+__shrew__ _n_  __1__ Any of various small, chiefly insectivorous mammals of the family Soricidae, resembling a mouse but having a long pointed snout and small eyes and ears. Also called shrewmouse. :es: musaraña __2__ _pejorative_ A woman regarded as an ill-tempered scold or nag. _Syn_ harridan, harpy, scold, termagant, virago  
 __shriek__ (shrieked) :two::shit: _v_  
 __shrieking__  
 __shrieks__  
@@ -6089,6 +6092,7 @@ __tenet__ _n_
 __tenets__  
 __tenuous__ :two::shit:  
 __tepid__ :two::shit:  
+__termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
@@ -6220,7 +6224,7 @@ __tomboy__
 __ton__ _A metric ton._  
 __tone-deaf__  
 __tong__  
-__tongue in cheek__ _adj and adverb_ :two::dart: (tongue-in-cheek) In an ironic or insincere way. _Her delightful tongue-in-cheek humour._  
+__tongue in cheek__ _adj and adverb_ :three::dart: (tongue-in-cheek) In an ironic or insincere way. _Her delightful tongue-in-cheek humour._  
 __tongue-in-cheek__ In a way that is not serious, although it appears to be. _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tonsure__  
 __tony__ :four: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._  
