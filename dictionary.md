@@ -481,7 +481,7 @@ __averted__ _v_
 __avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
-__awash__ :five: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ :six: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__  
 __awry__  
 __axle__ _n_  
@@ -1358,7 +1358,7 @@ __comity__
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commendable__  
 __commendation__ _He earned two commendation medals._  
-__commissioned__ :open_mouth::three::shit:  
+__commissioned__ :open_mouth::four::shit:  
 __commode__  
 __commoditization__  
 __communiqué__ (communiqués) :two::shit:  
@@ -1717,6 +1717,7 @@ __demographic__ _n?_
 __demonize__  
 __demonizing__  
 __demonstrate__ :open_mouth:  
+__demonstration__ _n_  
 __demurely__ :two::shit:  
 __demurred__ _v_  
 __den__ :five: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
@@ -2246,7 +2247,7 @@ __fern__
 __ferret out__ _v_  
 __ferret__ :two::shit: _n_  
 __ferreting out__ _v_  
-__fester__ _v_ :two::shit: _VA's challenges will only fester if they are kept shrouded in secrecy._  
+__fester__ _v_ :three::shit: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festooned__ _v_ :seven::shit: _His podium was festooned with a sign._  
 __feted__ _v_ :two::shit:  
 __fettered__ _v_  
@@ -3789,7 +3790,7 @@ __monstrosity__ :open_mouth:
 __moon roof__  
 __moonshine__ :two::shit: (spirit)  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
-__moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :two: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :three: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __mooted__  
 __moppet__ _A lovable moppet._  
 __mopping up__  
@@ -4169,7 +4170,7 @@ __parolee__ _n_
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
 __parsnip__  
-__partake__ _v_ :three::shit: (partaking)  
+__partake__ _v_ :four::shit: (partaking)  
 __parted hair__ _Díaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __particle board__  
@@ -4572,7 +4573,9 @@ __punctuate__
 __punctured__ _v_ _Punctured his tire._  
 __pungi__  
 __punk__  
-__punt__ _Football_  
+__punt<sup>1</sup>__ _n_ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
+__punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
+__punt<sup>3</sup>__ _v.intr._ __1__ To execute a punt. __2__ _Informal_ To cease doing something; give up: _Let's punt on this and try something else._  
 __puny__ _A puny garden snail._  
 __purloin__ _v_ :three::shit: (purloined)  
 __purported__ _v_ :three::shit: _The purported attack._ _JFK's purported affairs._  
