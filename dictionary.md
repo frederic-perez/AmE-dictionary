@@ -1326,7 +1326,7 @@ __coddled__ _A coddled creature._
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerced__  
 __coffee-table book__  
-__coffers__ _n_ :three::shit: _San Francisco city coffers._ _State's coffers._  
+__coffers__ _n_ :four::shit: _San Francisco city coffers._ _State's coffers._  
 __cog__ :five: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cognizant__  
 __coif__ _Strange coif._  
@@ -1872,7 +1872,7 @@ __dot__ _v_ (dotted) Mark with a dot.
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __double bill__  
 __double dip__  
-__double down__ :three::shit: _Doubling down on sanctions._  
+__double down__ :four::shit: _Doubling down on sanctions._  
 __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-decker bus__  
 __double-decker__ _Double-decker bus._  
@@ -2313,7 +2313,7 @@ __flail__ _v_ :three::shit: (flailed, flailing)
 __flailed__ _v_  
 __flair__ :six: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flak vest__  
-__flak__ _n_ :four: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
+__flak__ _n_ :five: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flamboyant__ :three::shit:  
 __flameouts__  
 __flaming hair__  
@@ -2370,7 +2370,7 @@ __florid__
 __flotilla__  
 __flotsam__  
 __flounder__ _v_ :three::shit: (floundering)  
-__flout__ _v_ :seven: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
+__flout__ _v_ :eight: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
 __flown__ _v_  _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
