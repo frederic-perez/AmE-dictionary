@@ -43,6 +43,7 @@ __Catch-22__ _It's a real Catch-22 situation._
 __Chancellor__  
 __Chicken Little__ (Chicken Littles) _n_ An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __Chiuaua__  
+__Christmas fly__  
 __Chugging beers__  
 __Cincy__ Cincinnati?  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
@@ -169,6 +170,7 @@ __Pharaoh__
 __Philly__ :two::shit:  
 __Picayune__  
 __Podunk town__  
+__Point is,__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
 __Ponzi scheme__ _n_ A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __Prep__  
@@ -299,7 +301,7 @@ __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A si
 __affluent__ _adj_ :four: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __affront__  
 __afloat__  
-__afoot__  
+__afoot__ :two::shit:  
 __afoul__ :two::shit:  
 __aft__  
 __aftermarket__  
@@ -698,6 +700,7 @@ __billfold__ _n_
 __billing__ _Now, the women's contest will take second billing._  
 __billow<sup>1</sup>__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_  
+__bind__ _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
 __bindles__ _Drug bindles._  
 __biomass__  
@@ -744,6 +747,7 @@ __blight<sup>2</sup>__ _v_ (blighted)
 __blight__ _v_  
 __blimp__ :two::shit: _A blimp hangar._  
 __blind date__  
+__blindside__ _Blindside blocks._  
 __bling__ _n_ :two::shit:  
 __blip__ _Fun cars are a blip._  
 __blithe__ :four::shit:  
@@ -1075,6 +1079,7 @@ __calisthenics__
 __call out__ _v_ :three: __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __2__  Challenge to a duel. _Aaron Burr called out Alexander Hamilton._  
 __call the shots__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
+__call__ _n_ _It would've been a difficult call to eject Landry._  
 __calling card__  
 __calliopes__   
 __callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :three::dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
@@ -1834,6 +1839,7 @@ __diving__ _v_ _Pogba received a yellow card for diving in the first half of the
 __divot__ _n_ :three:   A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
 __divvy up__ _v_  
 __do it by the numbers__  
+__docked__ _v_  
 __doctored__ _v_ _A photograph doctored by his aides._  
 __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__  
@@ -2366,6 +2372,7 @@ __flop<sup>1</sup>__ _n_ :three::shit: _You stay at the flop he's got rented for
 __flop<sup>2</sup>__ _v_ :two::shit:  
 __flopper__ _n_ :three::shit: _Try keeping your flopper in your pants for a change._  
 __floppy > floppy socks__  
+__florets__  
 __florid__  
 __flotilla__  
 __flotsam__  
@@ -2806,6 +2813,7 @@ __handiwork__
 __handoff__  
 __handout__ (handouts) :two::shit:  
 __handouts__ _n_  
+__hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _The hands-off approach._  
 __handyman__  
@@ -3012,6 +3020,7 @@ __hopefuls__
 __hopped cars__  
 __horse race__  
 __horseshoe__  
+__horseshoes__  
 __horsetails__ _n_  
 __hoss__  
 __hot-button__  
@@ -3146,7 +3155,7 @@ __inducements__
 __induct__  
 __induction__ :two::shit:  
 __inequitable__  
-__inextricably__  
+__inextricably__ :two::shit:  
 __infamous__ _Princess Leia's infamous dual-bun hairstyle._  
 __infamy__  
 __infighting__ :two::shit:  
@@ -3174,6 +3183,7 @@ __installment__ :two: _Customers can pay monthly installments of $15._ _In final
 __instating__  
 __instilled__ _v_ _She instilled an enduring sense of family._  
 __institute__ _v_  
+__insular__ _His small, insular group of loyalists._  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
 __intel__ _The intel value he might offer._  
 __intemperance__  
@@ -3685,6 +3695,7 @@ __meds__
 __meek__ _Blessed are the meek._  
 __meekly__  
 __megalomania__  
+__meh__  
 __melee__ _n_ 
 __mellow__  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
@@ -3988,6 +3999,7 @@ __odometer__ :two::shit:
 __of late__ :two::shit: _Their number have, indeed, been dropping of late._ :es: últimamente  
 __of__ _The gas smells of roggen eggs._  
 __off-kilter__ :two::shit:  
+__off-price stores__  
 __off-putting__  
 __off-the-cuff__  
 __offbeat__ :two::shit: _His offbet partner._ _Offbeat nature._  
@@ -4021,7 +4033,7 @@ __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only o
 __one-off<sup>2</sup>__ _n_ _British informal_ Something done, made, or happening only once. _The meeting is a one-off._  
 __one-offs__  
 __onerous__  
-__onesie__ _The actor in the Lycra onesie is stealing the 'Avengers' show._  
+__onesie__ _n_ :three::shit: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlookers__  
 __onset__  
 __onslaught__  
@@ -4037,7 +4049,7 @@ __oppo__ _Oppo researchers._
 __orb__ _n_ :two::shit:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
-__ordnance__ :two::shit:  
+__ordnance__ :three::shit:  
 __ore__  
 __ornament__  
 __ornate__ _n_ :three::shit:  
@@ -4577,13 +4589,14 @@ __punt<sup>1</sup>__ _n_ A kick in which the ball is dropped from the hands and 
 __punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
 __punt<sup>3</sup>__ _v.intr._ __1__ To execute a punt. __2__ _Informal_ To cease doing something; give up: _Let's punt on this and try something else._  
 __puny__ _A puny garden snail._  
+__pups__ _n_  
 __purloin__ _v_ :three::shit: (purloined)  
 __purported__ _v_ :three::shit: _The purported attack._ _JFK's purported affairs._  
 __purportedly__  
 __purse__ _v_ _His lips pursed._  
 __purveyor__ _n_ :four::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ _Pus bags_  
-__pushover__ _n_ :three: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
+__pushover__ _n_ :four: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __put on a clinic__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
@@ -4806,7 +4819,8 @@ __renown__
 __rent metal__  
 __rents__ _n_  
 __rep__ Reputation?  
-__repeal__ _v_  
+__repeal<sup>1</sup>__ _n_  
+__repeal<sup>2</sup>__ _v_  
 __repealing__  
 __repeieve__  
 __repent__ _v_ :two::shit: (repented)  
@@ -5062,7 +5076,7 @@ __scattershot__ :two::shit:
 __schadenfreude__  
 __schism__  
 __schlep__ _v_  
-__schlepping__  
+__schlepping__ :two::shit:  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
 __schlocky__  
 __schmooze__  
@@ -6011,6 +6025,7 @@ __tabulated__ _Tabulated scientific data._
 __tabulator__ :open_mouth: _Tabulators are being paid $25 for each half day they work._  
 __taciturn__  
 __tack__ :two::shit: Tactics? _The GOP changed its tack._  
+__tad__  
 __tag along__ _v_ :three::shit: _His old swing has tagged along._ _You want to tag along?_  
 __tagline__ _Our big tagline is to help others._  
 __tailor__ _v_  
@@ -6018,6 +6033,7 @@ __tailspin__
 __take a stand__  
 __take by storm__  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
+__take over__ _Kyle took over in the first half and finished with 23 points._  
 __takeout containers__  
 __takeout__ _Maybe you have Chinese takeout the night before Thanksgiving._  
 __taking roll__ _The teacher spent 10 min of class taking roll._  
@@ -6039,7 +6055,7 @@ __tannic__ _adj_ :three: Derived from tannin.
 __tannin__ _n_ Any of various complex phenolic substances of plant origin; used in tanning and in medicine.  
 __tantalize__ _v_  
 __tantalizing__ :two::shit: _The revelations are a tantalizing indication of how much we still have to learn._  
-__tantamount__ _adj_ :five: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
+__tantamount__ _adj_ :six: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap__ _v_ :three::shit:  
 __taper<sup>1</sup>__ _n_ __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone).  
 __taper<sup>2</sup>__ _v_ :eight: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity.  
@@ -6067,6 +6083,7 @@ __taunted__ _v_
 __taut__ _adj_  
 __tawdry__ :two: Poor, cheap quality.  
 __tax breaks__ _n_  
+__tax levy__  
 __taxa__  
 __tchotchkes__ :two::shit: _Simpson tchotchkes._  
 __tea party__ :two::shit: _Tea party groups._ _Tea party rallies._  
@@ -6099,6 +6116,7 @@ __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and s
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
+__terry cloth__  
 __terry-cloth__ :three::shit: _A blue terry-cloth pullover._  
 __terse__   
 __tester bed__ :two::shit:  
@@ -6169,7 +6187,7 @@ __tick prevention__
 __ticker__  
 __tickle__ _v_ :two::shit: _Does that tickle?_  
 __ticklish__  
-__tidbits__  
+__tidbits__ :two::shit:  
 __tie-dye__  
 __tie-up__ _n_  
 __tiebreaking__ _A tiebreaking goal._  
