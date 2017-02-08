@@ -156,6 +156,7 @@ __OTL__ Emoticon/term used to express a situation where you are so upset that yo
 __Old Dominion__ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __Old Hickory bat__  
 __Ole Miss__  
+__Other than that,__  
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __PC__ _They're so PC that they end up writing sanctified characters._  
 __PO__ Parole officer?  
@@ -1322,7 +1323,7 @@ __coalesce__ _v_ (coalescing) :es: fundirse
 __coaster brakes__  
 __coat of arms__ :three::shit: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
-__coattails__  
+__coattails__ _n_ :two::shit: _I think we're going to be riding his coattails a little bit._  
 __cobweb__ :two::shit:  
 __cobwebs__  
 __cockerel__  
@@ -1542,7 +1543,7 @@ __cringe__ :four: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe w
 __crinkle__ _v_ (crinked, crinkling) :five::shit:  
 __crinkly__  
 __crippling__ :four::shit: _Crippling drought._ _Crippling strikes and violence._  
-__crisp__ _A crisp white tunic._  
+__crisp__ :two::shit: _A crisp white tunic._  
 __crisper__ _Our dishes and crisper trays._  
 __criticize__ _v_  
 __critters__  
@@ -1743,6 +1744,7 @@ __desecration__ _n_ :two::shit:
 __desk blotter__ _n_ :six: See blotter.  
 __despicable__  
 __despondent__  
+__deterrence__  
 __deterrent__ _n_ :three: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detractor__  
 __devil-may-care style__  
@@ -2139,6 +2141,7 @@ __etched__ _v_
 __etchings__  
 __ethos__ _n_ :seven: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ :es: espíritu, escala de valores  
 __evening star__ _The evening star was out and the moon rising._  
+__every man for himself__ :dart:  
 __every so often__  
 __evict__ _v_ :five::shit: (evicted)  
 __eviction__ :two::shit:  
@@ -2220,6 +2223,7 @@ __fast and furious__ :three: _Cliché_ Very rapidly and with unrestrained energy
 __fastidious__  
 __fat rolls__ :camera::shit: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fathom__ _v_ :two::shit:  
+__fatigue__  
 __fatwa__ :two: Religious edict.   
 __faulty__ :dart: _Faulty software._  
 __fave__   
@@ -2809,6 +2813,7 @@ __hamdbill__ _n_
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ (hampered) :two::shit: _v_  
+__hamstring__ _n_  
 __handiwork__  
 __handoff__  
 __handout__ (handouts) :two::shit:  
@@ -3189,7 +3194,7 @@ __intel__ _The intel value he might offer._
 __intemperance__  
 __interdicting__  
 __interlopers__ _n_  :two::shit:  
-__intermission__ :two::shit:  
+__intermission__ _n_ :three::shit::dart:  
 __intermittent__  
 __international friendly__  
 __interspersed__ _v_ :three::shit:  
@@ -3572,7 +3577,7 @@ __lowlights__
 __lowly__  
 __lucifer match__  
 __ludicrous__ :open_mouth: :three:: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
-__lug nut__ _NASCAR's lug nut policy irks Stewart._  
+__lug nut__ _n_ :two::shit: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::shit:  
 __lug__ _v_ :three::shit:  
 __luge__ _Olimpic luge team._  
@@ -4895,6 +4900,7 @@ __rigmarole__ _Rigmarole controls._
 __rile__ (riled) :two: _v_ Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ :es: sacar de quicio  
 __riled up__ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._  
 __riles__ _v_  
+__rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rind__ _n_  
 __ringleader__  
 __ringlets__  
@@ -5002,7 +5008,7 @@ __run-of-the-mill__
 __runaways__  
 __rung__ _n_  
 __rungs__ _n_ :three::shit: _He deserves to be in the lowest rungs of hell._  
-__runner-up__ _n_ :six::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
+__runner-up__ _n_ :seven::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runoff water__  
 __runoff__ _n_ :five::shit: _Enough votes to force a runoff._ _A runoff vote._ _Sediment runoff._  
@@ -5290,7 +5296,7 @@ __shopkeeper__ :three::shit:
 __shore up__ _v_ :six: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shoring up__ _v_  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
-__short-handed__ :two::shit:  
+__short-handed__ :four::shit: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short__ _He typically wears shorts to work._  
 __shortchange__ _v_  
 __shortchanged__ _I think people will be shortchanged._  
@@ -5310,7 +5316,7 @@ __show of hands__
 __show runner__ :two::shit:  
 __show-off__ _n_  
 __showboat__ _v_  
-__showdown__ :four: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
+__showdown__ :five: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showdowns__  
 __showrunner__  
 __showstopping__ _A showstopping performance._  
@@ -5837,6 +5843,7 @@ __stopgap__ :two::shit:
 __stoplights__ :open_mouth:  
 __stoppage__ _A stoppage-time goal._  
 __stopped short__ :two:  
+__stops__ _n_ :three::shit: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __storefront__  
 __storeful__  
 __storied__ _Storied market._  
@@ -5851,6 +5858,7 @@ __strafing__
 __straggly__  
 __strain<sup>1</sup>__ _v_ :eight: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
 __strain<sup>2</sup>__ _n_  
+__strain__ _v_ (strained) _A strained thumb._  
 __strained__   
 __straits__  
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
@@ -6211,8 +6219,7 @@ __tines__
 __tinge__  
 __tingle__ _v_ :three: (tingled, tingling) Cause a stinging or tingling sensation.  
 __tink__ _v_  
-__tip-off__  
-__tipoff__  
+__tipoff__ _n_ :two::shit: (tip-off)  
 __tipple__  
 __tipster__  
 __tirade__ _n_ :three::shit:  
@@ -6819,6 +6826,7 @@ __wreaked havoc__
 __wreath-lying__ :open_mouth:  
 __wreath__ (wreaths) :three: _Funeral wreath._ :es: corona  
 __wreathed__ _A wreathed sword._  
+__wreck__ _v_  
 __wrecking ball__  
 __wrench__ _v_ _My mother reached up and wrenched my ear._  
 __wrenching__ _A wrenching prospect._  
