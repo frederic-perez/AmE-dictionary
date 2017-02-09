@@ -153,6 +153,7 @@ __Nat Geo__ National Geographic.
 __New Jerusalem__  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
+__OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __Old Dominion__ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __Old Hickory bat__  
 __Ole Miss__  
@@ -320,6 +321,7 @@ __aides__
 __ailing__ _It is ailing the NFL._  
 __ailment__ :two::shit:  
 __ails__ _v_ :two::shit:  
+__air cast__ _n_ :camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __airball__ _n_  
 __airburst__ _n_  
@@ -588,6 +590,7 @@ __beanie__ _n_ :camera::dart:
 __beanstalks__  
 __bear__ _v_ :two::shit: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _It does not have a bearing on whether or not he will be our coach next year._  
+__beat__ _ESPN never employed a beat writer for each team in the league._  
 __beau__ :three: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __bebop__ _v_  
 __beck > at your beck__ _Stacks of books at your beck._  
@@ -765,7 +768,7 @@ __bloviate__ _v_
 __blow it off__  
 __blowgun__ _n_  
 __blown call__  
-__blowout__ :two::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+__blowout__ :three::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
 __blowtorch__  
 __blowup bed__ _n_  
@@ -2391,7 +2394,7 @@ __flung__ _v_ :two::shit:
 __flurry > in a flurry__  
 __flurry__ __1__ :four: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flushed complexion__  
-__fluster__ :two: _v_ Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
+__fluster__ _v_ :three: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under the water._  
 __fly-by-night__
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
@@ -2558,7 +2561,7 @@ __garroted__ _v_
 __gars__ _n_ :three::shit: _Alligator gars._  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gash<sup>1</sup>__ _n_ :two::shit:  
-__gash<sup>2</sup>__ _v_ :two::shit: (gashing)  
+__gash<sup>2</sup>__ _v_ :three::shit: (gashed, gashing) _He gashed the Hokies' defense._  
 __gashed__ _v_ _The Lions gashed the Owls._  
 __gaskets__  
 __gasped__  
@@ -2813,7 +2816,7 @@ __hamdbill__ _n_
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ (hampered) :two::shit: _v_  
-__hamstring__ _n_  
+__hamstring__ _n_ :two::shit:  
 __handiwork__  
 __handoff__  
 __handout__ (handouts) :two::shit:  
@@ -2988,7 +2991,7 @@ __hoist__ (hoisted) :two::shit: _v_ :es: alzar
 __hokum__ :two::shit: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__  
-__hold off__  
+__hold off__ _v_ :two::shit:  
 __hold up a fish__  
 __hold water__  
 __holder__ _n_  
@@ -3730,7 +3733,7 @@ __midget__ _They both raced midgets with plans to go open-wheel racing._
 __midriff__ :two::shit:  
 __midsize__  
 __midwife__ :open_mouth: Nurse trained to assist women in childbirth.  
-__miffed__ _adj_ :two: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
+__miffed__ _adj_ :three: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __might__ _China's economic might._  
 __migrant__ _n_  
 __migrants__  
@@ -4513,6 +4516,7 @@ __prick__ _v_ _To prick consciences._
 __pride__ _v_ :two::shit: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
 __pries__ _He pries your buttocks apart._  
 __priestesses__ _n_  
+__prima facie__  
 __primacy__ _n_  
 __primal__ _adj_ _He let out a primal scream._  
 __prime-age__  
@@ -5080,7 +5084,7 @@ __scarlet__
 __scathing__ _adj_ :six: Bitterly severe. _His scathing indictment of Congress._  
 __scattershot__ :two::shit:  
 __schadenfreude__  
-__schism__  
+__schism__ :two::shit:  
 __schlep__ _v_  
 __schlepping__ :two::shit:  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
@@ -5292,6 +5296,7 @@ __shoot the breeze__ _Informal_ Have a casual conversation. _We've been shooting
 __shoot up__ :two::shit: _The number of homeless families shot up during the recession._  
 __shootaround__ (basketball)  
 __shooting gallery__  
+__shootout__ _n_ __1__ __a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
 __shopkeeper__ :three::shit:  
 __shore up__ _v_ :six: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shoring up__ _v_  
@@ -5341,7 +5346,7 @@ __shunned__
 __shush__ _v_  
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
-__shutout__ _n_ :six: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
+__shutout__ _n_ :seven: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__ _Just shy of its highest mark._  
@@ -5426,6 +5431,7 @@ __slake__ _v_
 __slander__ _v_ :three::shit: (slandering)  
 __slant__  
 __slapjack__  
+__slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
 __slash<sup>1</sup>__ _v_ _Basketball_ _He is a lanky gunner who can slash._  
 __slash<sup>2</sup>__ _n_ _Slash pines._  
@@ -5904,9 +5910,10 @@ __stuck-up__
 __stud__ _v_ :three::shit: (studded)  
 __studded__ _Customers gathered for his star-studded celebration in Manila._  
 __studs__  
+__stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._  
 __stuffy__   
 __stump__  _v_ :eight: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet.  
-__stunned__ _adj_ :five: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
+__stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__  
 __stunt<sup>1</sup>__ _n_  
