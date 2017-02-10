@@ -548,6 +548,7 @@ __bank__ _Fillon can beat Le Pen, but don't bank on it._
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_  
 __bankrollers__  
+__banshee__ _n_  
 __bantam__ _Playing hockey at the bantam level._  
 __bantamweight__ :two: _Rousey is the women's bantamweight champ._  
 __bar top__  
@@ -1080,7 +1081,9 @@ __cake-and-punch__ _The cake-and-punch reception._
 __calf__ _n_  
 __caliph__  
 __calisthenics__  
+__call for__  
 __call out__ _v_ :three: __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __2__  Challenge to a duel. _Aaron Burr called out Alexander Hamilton._  
+__call someone out__  
 __call the shots__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call__ _n_ _It would've been a difficult call to eject Landry._  
@@ -1892,7 +1895,7 @@ __douchebag__ (douche bag) :two: _Informal_ An obnoxious or contemptible person,
 __dour__ _adj_ :four: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
 __dovetails__  
-__down payment__ _A down payment for his role as a recruitment of muscle for the operation._  
+__down payment__ :two::shit: _A down payment for his role as a recruitment of muscle for the operation._  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down to earth__ (down-to-earth) :two: _adj_ With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
 __down-to-earth__ _Down-to-earth approach to life._  
@@ -2342,6 +2345,7 @@ __flat-footed__ :three::shit: _I have never been caught flat-footed by any situa
 __flatbread__ :two::shit: _Flatbread sandwiches._  
 __flats__ _n_  
 __flatware coins__    
+__flatware__ _n_  
 __flaunt__ _v_  
 __flaunting__  
 __flay__ _v_  
@@ -2714,7 +2718,7 @@ __grip__ _v_
 __gripe__ _Not a single gripe._  
 __griping__ _v_  
 __gripping__ :two::shit: _A gripping contest._  
-__grisly__ :two::shit: _A grisly synagogue assault._  
+__grisly__ :three::shit: _A grisly synagogue assault._  
 __grist__ _Plastic wrapping becomes grist for composite decking._  
 __gristle__  
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
@@ -2732,6 +2736,7 @@ __ground chuck steak__
 __ground game__  
 __ground zero__  
 __groundbreaker__ _n_ :three::shit:  
+__groundnut__ _n_  
 __groundswell__ :three::shit:  
 __groundwater__  
 __groundwork__  
