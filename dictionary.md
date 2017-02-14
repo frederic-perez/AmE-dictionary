@@ -48,6 +48,7 @@ __Chugging beers__
 __Cincy__ Cincinnati?  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __Collins glass__  
+__Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __Concacaf__  
 __Coptic__  
 __Crescent City__  
@@ -1094,6 +1095,7 @@ __call the shots__
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call__ _n_ _It would've been a difficult call to eject Landry._  
 __calling card__  
+__calling__ _n_ :two: __1__ A strong inner urge to follow an occupation, etc; vocation. _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliopes__   
 __callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :three::dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __callousness__  
@@ -3358,7 +3360,7 @@ __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to 
 __kinks__  
 __kiosk > pharmacy kiosk__  
 __kischy__  
-__kismet__  
+__kismet__ _n_ :two: Fate, fortune.  
 __kiss-and-tell__ _Kiss-and-tell narratives._  
 __kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
 __kith and kin__ _To identify kith and kin._  
@@ -4090,6 +4092,7 @@ __ornament__
 __ornate__ _n_ :three::shit:  
 __ornery__ :two::shit:  
 __ossified__  
+__osteoarthritis__ _n_ A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __other than that,__  
 __otherness__  
 __otherworldly__  
@@ -4201,7 +4204,7 @@ __pappy__
 __paragon__  
 __paragons__ _n_  
 __paralyzed__ _v_ :open_mouth:  
-__paraphernalia__ :open_mouth:  
+__paraphernalia__ :open_mouth::two::shit: _Star Wars paraphernalia._  
 __parasailing__  
 __parcel__  
 __parched__ _The dryness will encompass parched California._  
@@ -5630,6 +5633,7 @@ __soap opera__
 __societal__  
 __sociopaths__  
 __sod__ _n_  
+__soda jerk__ _n_ _Informal_ One who works at a soda fountain.  
 __soffit__  
 __soft bread__  
 __soft-spoken__  
