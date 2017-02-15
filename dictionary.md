@@ -124,7 +124,7 @@ __KO__ _n_ A knockout in boxing. _v_ To knock unconscious, especially in a boxin
 __Katy__ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
 __Kodiak__  
 __Kool-Aid__  
-__LDS__ Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
+__LDS__ :two: (LDS Church) Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __Labrador__  
 __Latino__ :open_mouth: _In Los Angeles half of the city's residents are Latino._  
@@ -194,6 +194,7 @@ __Rotarian__
 __Roto-Rooter__  
 __SAT__ :two: _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __Sam Browne belt__  
+__Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __Semper fi__ :two::shit:  
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
 __Seven Dwarf status__ 
@@ -686,6 +687,7 @@ __bestowed__
 __betray__ _v_  
 __better known as__ _Miyazaki, better known as Aska._  
 __bettors__  
+__bevel__  
 __bevy__ :size: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
@@ -961,7 +963,7 @@ __bucking the trend__
 __bucking__ _v_  
 __buckle down (to something)__ _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__  
-__buckle__ _v_ :seven: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
+__buckle__ _v_ :eight: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
 __buckshot__ :two::shit:  
 __buckskins__  
 __buckwheats__  
@@ -1131,6 +1133,7 @@ __careens__ _v_ :four::shit: (careened, careening)
 __caresses__ _v_  
 __caretaker__ _A caretaker government._  
 __caribou__  
+__carjack__ _v_ To commit forcible theft of (a vehicle) from its users.  
 __carnage__ :two::shit:  
 __carnation__ :open_mouth: :two: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
@@ -1478,6 +1481,7 @@ __cord blood__
 __cordite__ _n_  
 __cordon__ _n_ :two::shit: _A wide cordon of police._  
 __cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
+__corduroy pants__  
 __core-dump__ _The book goes on like this, a chronological core-dump of facts._  
 __corgi__  
 __cork sun helmet__ :two: Pith helmet.  
@@ -1567,6 +1571,7 @@ __criticize__ _v_
 __critters__  
 __croak__ _v_  
 __croaked__  
+__crochet__ _v_  
 __crones__ _n_ :two::shit:  
 __cronies__ _n_ :three::shit: _Military cronies._  
 __crony__  
@@ -1812,7 +1817,7 @@ __disallow__ _v_ :dart: _The goal was disallowed._
 __disarray__ :three: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disavowed__ _v_  
 __disbar__ _Disbar attorney._  
-__discharge__ _v_ :four::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ *Why not 'fired'?  
+__discharge__ _v_ :five::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ *Why not 'fired'?  
 __discontinued__ _v_  
 __discounter__ _n_  
 __discourse__  
@@ -2118,6 +2123,7 @@ __engross__ _v_ :two::shit::dart: (engrossed)
 __engulf__ _v_  
 __enlivened__  
 __enmity__ _n_ :five::shit:  
+__enraptured__  
 __ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensconced__  
 __enshrined__  
@@ -4321,6 +4327,7 @@ __photo-op__
 __piano wire__  
 __pick on__  
 __pick up__ _His turnover-prone play doesn't pick up._  
+__pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __picklock__ _v_  
@@ -4494,7 +4501,7 @@ __potatoes__
 __pothole__  
 __potholed__ _The island's potholed highways._  
 __potholes__ _n_  
-__potluck__  Comes from from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary)  
+__potluck__  :two: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary)  
 __pounce__ :four::shit: _v_ (pounced) _Critics pounced on the showiness._  
 __pounced__ _v_  
 __pout__ _v_ (pouts, pouting) :three::shit:  
@@ -5716,6 +5723,7 @@ __splurge__ _v_ :two::shit:
 __splurging__ :two::shit:  
 __splutter__ (splutters) :two::shit:  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
+__spoil__ _v_ _She loved spoining her grandkids._  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __sponge bulllets__  
 __sponsor__ _Sponsorong countries._  
@@ -5734,6 +5742,7 @@ __sprinkler__ :three: _n_ __1__ A device that sprays water. __2__ A device used 
 __sprinkles__ _v_  
 __sprinkling__ _A sprinkling of luck._  
 __spruce up__ _v_ :three::shit: _Juliette spruces up her country look and sound._  
+__spruce__ _n_  
 __spry__ :three: _adj_ Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spur > bone spurs__  
@@ -5822,7 +5831,7 @@ __statutory rape__
 __statutory__  
 __staunch__ _adj_ :nine::arrow_up_small::o2: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __staunchest__ :two::shit:  
-__stave off__ _v_ :five::shit: (staved off)  
+__stave off__ _v_ :six::shit: (staved off)  
 __stave__ _v_  
 __staves__ _n_  
 __stay put__ _v_ :three: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
@@ -5843,6 +5852,7 @@ __steeply__ :two::shit:
 __stein__ _n_  
 __stem__ _v_ _The country is trying to stem the spread of the avian influenza._  
 __stemmed__  
+__stenographer__  
 __stentorian__ _adj__ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __stepfather__ _(vs godfather)_  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
@@ -6469,7 +6479,7 @@ __tyrant__ :two::shit:
 __ugh__  
 __ukuleles__  
 __umpteenth__ :two::shit:  
-__unabashedly__  
+__unabashed__ _adj_ :two: Not ashamed, disconcerted, or apologetic; boldly certain of one's position.  
 __unabated__  
 __unalienable__  
 __unanimous__  
@@ -6577,6 +6587,7 @@ __vaccine__
 __vagaries__ :three::shit: _The vagaries of economics._  
 __vagrants__  
 __valedictorian__ :two::shit:  
+__valiant__  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __valuable__ _n_ :open_mouth:  
 __vamping__ :two::shit:  
@@ -6631,7 +6642,7 @@ __vindication__ :six::shit:
 __vinyasa__ _n_  
 __virtually__ :open_mouth: Practically, almost.  
 __vise__ _n_  
-__visitation__  
+__visitation__ :two::shit:  
 __vistas__  
 __vitriol__ :three: /ˈvɪtrɪəl/ _n_ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._    
 __vitriolic__ :two::shit:  
