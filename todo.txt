@@ -3,13 +3,14 @@
 
 
 
-__simper__  
-__pithy__  
-__squalor__  
-__stilted__  
-__livelihood__  
+__simper<sup>v</sup>__ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
+__simper<sup>n</sup>__ A simpering smile; smirk.  
+__pithy__ _adj_ Terse and full of meaning or substance.  
+__squalor__ _n_ The condition or quality of being squalid; disgusting dirt and filth.  
+__stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._    
+__livelihood__ _n_ :dart: Occupation or employment.  
 __dormer__ _n_ :camera:  
-__slumber party__  
+__slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
 __wax__ _v_ _Moon waxing and waning._  
 __wane__ _v_  
 __tightly wound__ Chronically tense, unable to relax, highly reactive.  
