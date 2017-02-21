@@ -770,6 +770,7 @@ __bloc__ _n_ :four::shit: _The troubled currency bloc._
 __blood-expander__  
 __blooker__ :two::shit:  
 __bloop__  
+__blooper__ _n_ :dart: Informal A clumsy mistake, especially one made in public; a faux pas.
 __blotches__ _n_  
 __blotter__ _n_ __1__ :four: Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
 __blotting__ _v_  
@@ -816,7 +817,7 @@ __bog__ _n_ :two::shit:
 __boggles__ _v_  
 __bogs__  
 __boilermaker__ :two::shit:  
-__boilerplate__ _n_  
+__boilerplate__ _n_ :two::shit:  
 __boilers__    
 __boisterous__ :two::shit:  
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
@@ -899,6 +900,7 @@ __brash__ :two::shit: _Brash talk._ _It sounded brash._
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
 __bravado__ _n_ :three: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning "bragging and boasting," and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: "It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners." _But I went into it with a certain bravado._  
+__brawn__ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __brayed__ _v_ :two::shit: (braying)  
 __brazen__ _adj_ :three: With brazen disregard for the sign that said "no cellphones please" the woman took a long call in the doctor's office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ :two::shit:  
@@ -2116,7 +2118,7 @@ __encampment__
 __encompass__ _v_ :three::shit: (encompasses)  
 __encore__ :two::shit:  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroaching__ _v_ :three::shit: _To protect natural land from encroaching development._  
+__encroach__ _v_ :four::shit: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ :three::shit:  
 __end over end__ _He tossed the cigarette end over end  into the wastebasket._  
 __end run__ :two::shit:  
@@ -2132,7 +2134,7 @@ __engross__ _v_ :two::shit::dart: (engrossed)
 __engulf__ _v_  
 __enlivened__  
 __enmity__ _n_ :five::shit:  
-__enraptured__  
+__enrapture__ _v_ :two: To fill with rapture or delight.  
 __ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensconced__  
 __enshrined__  
@@ -3619,6 +3621,7 @@ __low and slow__ Low and slow is a term used when discussing food cooked over a 
 __low-key__  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
+__lowdown__ _n_ _Slang_  The whole truth: _gave us the lowdown on what happened at the party._  
 __lowlights__  
 __lowly__  
 __lucifer match__  
@@ -5262,8 +5265,8 @@ __seminoles__
 __sendup__ _v_ _A sendup of the genre._  
 __sentience__  
 __sequestration__ _Sequestration of the jury._  
+__sequin__ _n_ :four::shit: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::shit:  
-__sequins__ :two::shit:  
 __sequiturs__  
 __servicers__  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
@@ -5444,6 +5447,7 @@ __simmer down__
 __simmer__ _v_ :five: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __simper<sup>n</sup>__ A simpering smile; smirk.  
 __simper<sup>v</sup>__ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
+__sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
 __sinew__ :three::shit:  
 __sinewy__ _adj_ :five::shit: _A sinewy man._  
 __singed__ _v_  
