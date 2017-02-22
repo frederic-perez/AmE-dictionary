@@ -3060,6 +3060,7 @@ __hoo-ha__ _n_ A disorderly outburst or tumult. _Syn_ commotion, disturbance :es
 __hooch__ :two::shit: _Take it easy on the hooch._  
 __hood__ _n_ :two::shit:  
 __hoodlums__  
+__hoodwink__ _v_ To deceive or trick.  
 __hooky__ _A kid playing hooky._    
 __hoop dress__  
 __hoop__ _v_  
@@ -3976,6 +3977,7 @@ __nibbles__ _n_
 __nibbling__  
 __nice and easy__ _Informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nifty__ _adj_ _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__niggardly__ _adj_  __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __nigh__  
 __nightcap__ (nightcaps) :two::shit: _Whiskey nightcaps._  
 __nightie__  
@@ -6795,6 +6797,7 @@ __wheeze__
 __wheezing__ _Wheezing economy._  
 __whereabouts__  
 __wherewithal__ :three::shit:  
+__whet__ _v_ __1__ To sharpen (a knife, for example); hone. __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._  
 __whetted__ _v_  
 __whetting__ _Whetting the appetite for next year's Part 2._  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
