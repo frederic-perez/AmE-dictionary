@@ -1239,6 +1239,7 @@ __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily
 __chided__ _v_ :three::shit: _Whe chided the Pentagon._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
+__chin-up__ _n_ The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __chip away__ _v_  
 __chip in__ _v_ :two::shit:  
 __chip on his shoulder__  
@@ -1480,7 +1481,7 @@ __coonasses__
 __coop__ _To fly the coop._  
 __coops__ _Chicken coops._  
 __cooze__ _n_ :two::shit:  
-__copacetic__ :four: _adj_ _informal_ In excellent order. _He said to tell you everything is copacetic._  
+__copacetic__ _adj_ :five: _informal_ In excellent order. _He said to tell you everything is copacetic._  
 __copper-bottom hit__  
 __copping__ _v_ :two::shit: _You're copping to a murder beef._  
 __copter__ _Navi copter._  
@@ -6789,6 +6790,7 @@ __whanged__ _v_ :two::shit:
 __whanging__  
 __what's the haps?__  
 __whee!__  
+__wheedle__ _v_ To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
 __wheedling__ _v_  
 __wheee!__  
 __wheel well__ _The Corvette's wheel well._  
