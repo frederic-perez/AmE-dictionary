@@ -1532,7 +1532,7 @@ __crackdown__ _n_ :nine::arrow_up_small::o2: Severely repressive actions. _In 20
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackle__ _v_ (crackling) :two::shit:  
 __cracklings__ _n_  
-__crackpot__ _A reputation as a ridiculous crackpot._  
+__crackpot__ _n_ :two: An eccentric person, especially one with bizarre ideas. _A reputation as a ridiculous crackpot._  
 __craft beer money__  
 __craft__ _Craft sake._  
 __cragginess__  
@@ -2568,6 +2568,7 @@ __gaffer__ _n_
 __gaffes__  
 __gag__ _The cases's gag order._  
 __gaggle__ :three: _n informal_ A disorderly group of people.  _A gaggle of Phillies fans taunted him._ _The media gaggle._  
+__gah!__  An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
 __gait__ _n_ :two::shit: _A pretty boy with a swing in his gait._  
 __gal__  
 __galboy__ _n_  
@@ -4001,7 +4002,7 @@ __nobody's doctor__ _I'm nobody's doctor._
 __noddies__ _n_  
 __noir__ _A noir novel._  
 __nom de guerre__  
-__non sequiturs__  
+__non sequitur__ _n_ :two: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__  A statement that does not follow logically from what preceded it. :es: incongruencia  
 __non-call__ _He complained about non-calls._  
 __nonce__  
 __nonchalant__ :two::shit:  
