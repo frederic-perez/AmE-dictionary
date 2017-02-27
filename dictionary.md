@@ -19,6 +19,7 @@ __Aleut__ _n_
 __Ames__ _Ames, Iowa._  
 __Angeleno__ _n_ A native or inhabitant of Los Angeles.  
 __Argentine__ _The pope is an Argentine._  
+__Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Attn__  
 __Austinites__ :two::shit:  
 __B & E__ :two::shit: _Somebody did a B&E on you._  
@@ -845,7 +846,7 @@ __booby-trapped 105's__
 __boogeyman__  
 __boogie__  
 __bookcases__  
-__bookend__ :two::shit:  
+__bookend__ _v_  :three::shit:  
 __bookends__  
 __bookish__  
 __boom and bust__  
@@ -1010,6 +1011,7 @@ __bumper__
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
 __bumps in the road__  
+__bumpy__  
 __bunch__ _v_ :camera::five::shit: (bunched) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
 __bunching socks__ :camera:  
 __bungee cord__ _n_  
@@ -1037,6 +1039,7 @@ __burr haircut__
 __burrhead__ _n_  
 __burrow<sup>1</sup>__ _n_ :two::shit:  
 __burrow<sup>2</sup>__ _v_  
+__burrow__  
 __burrs__ _n_  
 __bursting__  
 __busboy__ _n_ :two: A young man who clears tables in a restaurant or cafe.  
@@ -1390,6 +1393,7 @@ __comity__
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commendable__  
 __commendation__ _He earned two commendation medals._  
+__commission__ _v_  
 __commissioned__ :open_mouth::four::shit:  
 __commode__  
 __commoditization__  
@@ -1416,6 +1420,7 @@ __conceded__ _A total of 44 goals scored and 48 conceded last year._
 __conceit__ _v_  
 __concertina wire__  
 __concertina__  
+__concertmaster__  
 __concertmistress__ _The orchestra concertmistress._  
 __conch__ _A conch farm._  
 __concoct__ (concocted) :three: :open_mouth: _v_ Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
@@ -1439,7 +1444,7 @@ __congenial__ :two::shit:
 __conglomerate__  
 __conglomerates__  
 __conjecture__  
-__conjure__  
+__conjure__ :two::shit:  
 __connived__  
 __conscripted__  
 __consensual__  
@@ -1455,6 +1460,7 @@ __construe__ _v_
 __construed__ :two::shit:  
 __contagion__  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
+__contend__ _v_  
 __content__  
 __contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__ _adj_ :three: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
@@ -1915,7 +1921,7 @@ __dot__ _v_ (dotted) Mark with a dot.
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __double bill__  
 __double dip__  
-__double down__ :four::shit: _Doubling down on sanctions._  
+__double down__ _v_ :five::shit: _Doubling down on sanctions._  
 __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-decker bus__  
 __double-decker__ _Double-decker bus._  
@@ -2142,6 +2148,7 @@ __enshrined__
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :two::shit: (ensued) _Complications ensue._  
 __ensuing__  
+__entail__ _v_  
 __enthrall__ _v_ :four: (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :four::shit: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
@@ -2224,7 +2231,7 @@ __fabled__
 __fabricate__ _v_ _Fabricated stories._  
 __face-lift__  
 __facetious__ _adj_ :open_mouth:  
-__facile__  
+__facile__ :two::shit: _She's an extremely facile actress._  
 __facsimile__  
 __fact sheet__  
 __faction__ _n_  
@@ -2301,7 +2308,7 @@ __fester__ _v_ :three::shit: (festering) _VA's challenges will only fester if th
 __festooned__ _v_ :seven::shit: _His podium was festooned with a sign._  
 __feted__ _v_ :two::shit:  
 __fettered__ _v_  
-__feud__  
+__feud__ :two::shit:  
 __feuded__  
 __fiat__ _Military fiat._  
 __fiberglass__  
@@ -2851,7 +2858,7 @@ __halcyon__ _Halcyon time of romance._
 __halfback__  
 __hall boy__ _n_  
 __hallmark__ _n_ :two::shit:  
-__hallowed__ :three::shit: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
+__hallowed__ :four::shit: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :four::shit: _The black woman wore a halter and a pair of shorts._  
 __ham hocks__ _n_  
 __hamdbill__ _n_  
@@ -2897,7 +2904,7 @@ __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ sh
 __harried__ _A harried mom._  
 __harrow__ _n_  
 __harrowing__ _A harrowing oddyssey._  
-__harry__ _v_ _The weather will continue to harry firefighters._  
+__harry__ _v_ :two::shit: _The weather will continue to harry firefighters._  
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
 __hash out__ _v_  
@@ -3011,6 +3018,7 @@ __hirsutism__
 __hissy__ _Hissy fit._  
 __hit and miss__  
 __hit out__ _v_  
+__hit parade__  
 __hit the wall__  
 __hitch<sup>1</sup>__ _n_  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
@@ -3242,10 +3250,10 @@ __intel__ _The intel value he might offer._
 __intemperance__  
 __interdicting__  
 __interlopers__ _n_  :two::shit:  
-__intermission__ _n_ :three::shit::dart:  
+__intermission__ _n_ :four::shit::dart:  
 __intermittent__  
 __international friendly__  
-__interspersed__ _v_ :three::shit:  
+__interspersed__ _v_ :four::shit:  
 __intertwined__  
 __intervene__ _v_  
 __invective__ :four::shit:  
@@ -3450,6 +3458,7 @@ __lantanas__ _n_
 __lap__ _v_ _Despite being lapped._  
 __laped pin__  
 __larceny__ :three: _n_ Theft of personal property. :es: hurto  
+__larder__  
 __largely__  
 __larger than life__  
 __larger-than-life__ :three: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
@@ -3739,7 +3748,7 @@ __mawkish__ Effusively or insincerely emotional.
 __max out__ _v_ :two::shit: _He maxed out on the education available to black children._  
 __maxim__ :es: máxima  
 __mayhem__ _n_ :three: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale.  
-__meager__ :two::shit: _The meager wages._  
+__meager__ :three::shit: _The meager wages._  
 __meandering__  
 __measles__ :two::shit: :es: _Rubeola_  
 __mecca__ :three::shit: _Shopping mecca._  
@@ -3803,6 +3812,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __minie balls__  
 __minnow__ :three::shit: (minnows) :two::shit:  
+__minor__ _n_  
 __minstrel__  
 __mint bank notes__  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
@@ -4361,6 +4371,7 @@ __piecemeal<sup>2</sup>__ _adj_ :two:  Accomplished or made in stages. _A piecem
 __pieds-à-terre__  
 __pig iron__ _n_ :two::shit:  
 __pigboat__ _n_  
+__pike__ _You can handle whatever comes down the pike._  
 __pileup__  
 __pilfering__  
 __pilings__ _A deserted cabin built on pilings._  
@@ -4507,6 +4518,7 @@ __porkpie hat__
 __porkpie__ :two::shit:  
 __porridge__  
 __portable building__ :es: barracones?  
+__portal__  
 __portend__ _v_ :four::shit: _...may portend a disruption._  
 __portent__  
 __portents__ _n_  
@@ -4529,6 +4541,7 @@ __pounced__ _v_
 __pout__ _v_ (pouts, pouting) :three::shit:  
 __powder blue__ Color?  
 __power bar__  
+__power play__  
 __power strip__  
 __powerhouse__  
 __powermongers__ _n_  
@@ -5079,6 +5092,7 @@ __run errands__
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::shit: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__  
+__runaway__  
 __runaways__  
 __rung__ _n_  
 __rungs__ _n_ :three::shit: _He deserves to be in the lowest rungs of hell._  
@@ -5245,6 +5259,7 @@ __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. St
 __security detail__  _He travels with a security detail._  
 __sedate__ (sedate menswear)  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
+__sedulous__  
 __seedier__  
 __seediness__  
 __seedy__ _A seedy world._  
@@ -5759,7 +5774,7 @@ __spool tables__
 __spool__ _n_  
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __sprawl__  
-__sprawling__ :two::shit:  
+__sprawling__ :three::shit:  
 __sprig__ :three::shit: _A sprig of mint._  
 __sprigs__  
 __springboard__  
@@ -5773,6 +5788,7 @@ __spruce up__ _v_ :three::shit: _Juliette spruces up her country look and sound.
 __spruce__ _n_  
 __spry__ :three: _adj_ Lively, active, and brisk; vigorous.  
 __spuckie__  
+__spunky__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
 __spurious__ 1590-1600; < Latin _spurius_ bastard  __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
@@ -5931,6 +5947,7 @@ __stoop<sup>2</sup>__ _n_
 __stop short__ _v_ :nine: (stop-short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stopgap__ :two::shit:  
 __stoplights__ :open_mouth:  
+__stopover__  
 __stoppage__ _A stoppage-time goal._  
 __stopped short__ :two:  
 __stops__ _n_ :three::shit: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
@@ -6387,6 +6404,7 @@ __toy breeds__ _(pets)_
 __tpngue-in-cheek__  
 __trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
 __tractor-trailer__  
+__trade paperback__  
 __trade-off__ _She has to make trade-offs._  
 __trail mix__ :two::shit: _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
@@ -6537,6 +6555,7 @@ __underprivileged__
 __underscore__ _v_ :two::shit:  
 __undersecretary__  
 __understandably__ :two::shit:  
+__understudy__ _v_  
 __undertow__  
 __underwhelming__  
 __underwrite__ (underwriting) :two::shit:  
@@ -6623,7 +6642,7 @@ __valuable__ _n_ :open_mouth:
 __vamping__ :two::shit:  
 __vampire squid__  
 __vane__ _n_ :two::shit: _A smooth metal weather vane._ _A weather vane._   
-__vanquish__ (vanquished) :three: (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vanquish__ _v_ :four::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vapid__  
 __variety store__  
@@ -6850,13 +6869,14 @@ __wiggle__ _n_ :two::shit: _The worm that lost its wiggle._ _A wiggle in Waller 
 __wigglers__  
 __wildling__ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wilful__  
+__willful__  
 __willy-nilly__ _adv_ :two: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
 __wilted__ _v_ :five::shit: (wilting) _He'd wilted under it._  
 __wily__ _adj_ :two::shit:  
 __wimp out__  
 __wimpiness__  
 __wimpling__ _v_  
-__wimpy__ _adj_  
+__wimpy__ _adj_ :two::shit:  
 __wince__ _v_ :four::shit: (winced)  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::shit:  
@@ -6924,6 +6944,7 @@ __worrywarts__
 __worshiper__  
 __wort__  
 __wracking__ _v_  
+__wraith__  
 __wraparound season__  
 __wreak havoc__  
 __wreaked havoc__  
@@ -6996,6 +7017,7 @@ __zip-line__ (zip-lining)
 __zip<sup>1</sup>__ _n_ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
 __zip<sup>2</sup>__ _v_ _The ISS zips around Earth once every 90 minutes._  
 __zip__ _Bouncing back from that 13-zip deficit._  
+__zippy__ _A zippy hit parade._  
 __zit__ _n_ _Informal_ A spot on the skin.  
 __zonk__ _n_ :two::shit:   
 __zoot__ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
