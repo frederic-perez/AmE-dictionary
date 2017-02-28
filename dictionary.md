@@ -1121,6 +1121,7 @@ __cane brakes__
 __canebrake__ _n_  
 __canister__ :two::shit: _Organic coffee canisters._  
 __cannolis__  
+__cantata__  
 __canted__ _v_ :two::shit:  
 __canteens__  
 __cantering__ _v_ :two::shit:  
@@ -1517,7 +1518,7 @@ __cough up__ _v_
 __coulee__  
 __councilor__ _n_  
 __counsel__  
-__count your blessings__ _T�o be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things._  
+__count your blessings__ :two: To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __countered__ _Countered kitchen._  
 __counterfeit__ :es: falsificación  
 __counterpoint__ _n_  
@@ -1661,6 +1662,7 @@ __cutthroat__ _adj_ :open_mouth: Ruthless in competition. _Cutthroat competition
 __cuttin' a rug__  
 __dab__ _v_  
 __dabbing__ _v_  
+__dabbled__ _v_  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _Cinematic dada._  
@@ -3059,6 +3061,7 @@ __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
+__homespun__  
 __homestand__ :two::shit:  
 __homestead__ :two::shit:  
 __homie__ _Homies for life._  
@@ -3652,7 +3655,7 @@ __luminary__ _Hollywood luminaries._
 __lump<sup>1</sup>__ _n_ __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__  
-__luncheon__  
+__luncheon__ :three::shit:  
 __lunchpail__  
 __lunge<sup>1</sup>__ _v_ :two::shit:  
 __lunge<sup>2</sup>__ _n_ :two::shit: _A reckless lunge at Gerrard._  
@@ -3868,6 +3871,7 @@ __monkey wrench__
 __monogramming__  
 __monsoon__  
 __monstrosity__ :open_mouth:  
+__moody__  
 __moon roof__  
 __moonshine__ :two::shit: (spirit)  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
@@ -4752,7 +4756,7 @@ __racous__
 __racousness__  
 __racy__ :two::shit: _A racy line from a popular song._  
 __radish__  
-__raffle<sup>1</sup>__ _n_  
+__raffle<sup>1</sup>__ _n_ :two::shit:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :three: A large collection or quantity. _A raft of reforms._  
 __rage__ _n_  
@@ -5027,6 +5031,7 @@ __roll out__ :two::shit: _The retailer will roll out deals two days early._
 __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
 __roll__ _v_ :two::shit: _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._  
+__rollicking__  
 __rolling back__ _v_  
 __rolling caisson__  
 __rolling hills__ :two::shit: :es: colinas (onduladas)  
@@ -5699,6 +5704,7 @@ __solid gold__
 __solidify__ _v_  
 __soliloquy__  
 __solipsistic__ :three::shit:  
+__soloist__ _n_  
 __sombreros__  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
 __sonogram__  
@@ -6581,6 +6587,7 @@ __unrepentant__ :two::shit:
 __unrestrained__  
 __unruly__ :three::shit: _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
+__unsavory__  
 __unscathed__ _adj_ :three: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unsightly__ _Manning looking at unsightly ending._  
 __unspooling__ _Unspooling microphone cables._  
