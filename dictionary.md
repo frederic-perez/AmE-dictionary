@@ -229,6 +229,7 @@ __Tudor__
 __Turkey day__  
 __UA-ed__ _v_ :two::shit:  
 __Unesco__ _United Nations Educational, Scientific and Cultural Organization._  
+__Utahns__  
 __Utans__  
 __V-E Day__  
 __V-J Day__ :two::shit:  
@@ -410,6 +411,7 @@ __apologist__
 __apostasy__  
 __appall__ (appalled) _v_ :open_mouth: :es: horrorizar, espantar  
 __appalling__ _adj_ :two: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
+__appalls__ _v_  
 __apparatchiks__  
 __appeal__ _:two::shit: His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
@@ -493,7 +495,7 @@ __averted__ _v_
 __avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
-__awash__ :six: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ :seven: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__  
 __awry__  
 __axle__ _n_  
@@ -646,6 +648,7 @@ __belate__ _v_ :two::shit: (belated)
 __belatedly__  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
+__beleaguer__ _v_  
 __beleaguered__ :six: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belie__ _v_ :four: (belies) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
 __belied__ _v_  
@@ -696,7 +699,7 @@ __bevy__ :size: A large group of people or things of a particular kind. _He was 
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :three::shit: _Midcalf silk dresses came with ruffled bibs and hems._  
-__bicker__ _v_ :four: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
+__bicker__ _v_ :five: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bid farewell__  
 __bid rigging__  
 __bid__ :three: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _I bid you farewell._  
@@ -1219,7 +1222,7 @@ __charter<sup>1</sup>__ _n_ :two::shit:
 __charter<sup>2</sup>__ _v_  
 __charter__ _Charter schools._  
 __chartreuse__  
-__chasm__ :two: _n_ __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :three: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chastened__  
 __chastize__ _v_  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
@@ -1446,6 +1449,7 @@ __conglomerate__
 __conglomerates__  
 __conjecture__  
 __conjure__ :two::shit:  
+__conman__  
 __connived__  
 __conscripted__  
 __consensual__  
@@ -1894,6 +1898,7 @@ __dog tag__
 __dog-eat-dog__ _It is not dog-eat-dog here._  
 __dog__ _v_ :two::shit: :open_mouth: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
+__doggedly__  
 __doghouse__ :two::shit: _Russia will stay stuck in track and field's doghouse._  
 __dogleg__ :two::shit: _A dogleg twenty-gauge in his hand._  
 __doglegs__ _v_  
@@ -3161,6 +3166,7 @@ __ilk__ _n_ Type or kind: _can't trust people of that ilk._
 __illiterate__  
 __illustrious__ :two::shit::open_mouth: _An illustrious career._  
 __imam__  
+__imbalance__ _n_  
 __imbibing__  
 __imbroglio__  
 __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
@@ -3174,7 +3180,7 @@ __impeded__ _v_
 __impending__ _adj_ :six: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__  
 __impermissible__ :two::shit:  
-__impervious__  
+__impervious__ :two::shit:  
 __impetus__  
 __impinge__  
 __impish__ _Impish sense of humor._  
@@ -3964,7 +3970,7 @@ __nappy__
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascent__ :two::shit: _The nascent market._  
-__nativism__  
+__nativism__ :two::shit:  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ Neat, trim, and smart; dapper.  
 __naturalization__  
@@ -4459,6 +4465,7 @@ __plead out__
 __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
 __pledge__ _n_  
 __plethora__ :two::shit:  
+__pliable__ _The pliable GOP._  
 __pliant__ :two::shit:  
 __plied__ _v_  
 __plies__ _v_  
@@ -4569,6 +4576,7 @@ __prediabetes__
 __preempt__ _v_  
 __preen__ :three::shit: (preening) _She didn't preen for her grandfather._  
 __preened__  
+__preening__  
 __prefab__ _Prefab vacations._  
 __premier__ _adj_  
 __premium__ _n_ _People would spend hundreds of dollars a month in premiums._  
@@ -4615,6 +4623,7 @@ __prize__ _v_ _The deadbolt was prized out of the jamb on the door to the kitche
 __prizefighter__ :three::shit:  
 __pro bono consultant__  
 __pro bono__  
+__pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __probity__  
 __proceeds__ :three: _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proctor__ University officer (for student discipline)  
@@ -5570,6 +5579,7 @@ __sliver<sup>2</sup>__ _v_ :four::shit:
 __slivers__ _n_  
 __slob__  
 __slobber__ _v_ :two::shit: (slobbered)  
+__slobbering__  
 __slobs__ _n_  
 __slog<sup>1</sup>__ :two: _v_ __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._    
@@ -5685,6 +5695,7 @@ __snug__ _v__ :two::shit:
 __snuggles__  
 __snugly__  
 __soap opera__  
+__sobering__  
 __societal__  
 __sociopaths__  
 __sod__ _n_  
@@ -5910,6 +5921,7 @@ __sterling__ _A sterling example._
 __stern__ _n_  
 __stew-bums__ _n_  
 __stew__ _n_ :two::shit: _It captures the stew of hate._  
+__stewards__ _Concerned stewards of the Earth._  
 __stewardship__  
 __stewed tomatoes__  
 __stick > turnaround stick__  
@@ -6569,7 +6581,7 @@ __underwriter__
 __undies__  
 __undimpled__  
 __undue__  
-__unduly__ :two::shit:  
+__unduly__ :three::shit:  
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
@@ -6588,7 +6600,7 @@ __unrestrained__
 __unruly__ :three::shit: _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
-__unscathed__ _adj_ :three: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unscathed__ _adj_ :four: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unsightly__ _Manning looking at unsightly ending._  
 __unspooling__ _Unspooling microphone cables._  
 __unstoppable__ _She is our unstoppable force of nature._  
@@ -6724,6 +6736,7 @@ __waders__ _Chest waders._
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
 __waffle__ _v_  
+__waffled__ _v_  
 __waffling__  
 __waft__ :two::shit: _v_ _Fine powder that wafts up from footsteps like flour._  
 __wafting__ _v_  
@@ -6772,6 +6785,7 @@ __waterfowl__ :two::shit:
 __waterfront__ _n_ :four::shit: _Waterfront real state._  
 __watershed__ :two::shit: _Dignataries recognized the watershed moment of his passing._  
 __waterway__  
+__waver__ _v_ _He was wavering on whether to support fellow Republican Donald Trump for president._  
 __wavering__ _A wavering statement._  
 __wax__ _v_ _Moon waxing and waning._  
 __wayposts__  
