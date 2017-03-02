@@ -1945,6 +1945,7 @@ __downbeat__ :two::shit:
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downers__ :two::shit:  
 __downhill__ :camera::three::shit: Simple and easy? _David Bowie dead, and it was all downhill from there._  
+__downline__ _n_  
 __downpours__  
 __downright__ :dart::two::shit: _Not to mention, just downright good looking._  
 __downsides__  
@@ -2195,6 +2196,7 @@ __ethos__ _n_ :seven: The disposition, character, or fundamental values peculiar
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
 __every man for himself__ :dart:  
+__every other__ _A new cartoon will be published every other Sunday._  
 __every so often__  
 __evict__ _v_ :five::shit: (evicted)  
 __eviction__ :two::shit:  
@@ -2488,6 +2490,7 @@ __forefront__
 __forego__  
 __foregone__  
 __foreman__  
+__forensice__  
 __foreplay__  
 __foreshadow__ _v_ :two::shit:  
 __forestall__ _v_ :three: It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
@@ -3543,7 +3546,7 @@ __leveled__ :two::shit:
 __leverage__ _To exert leverage._  
 __leviathan__  
 __levied__ _v_ :three::shit: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levy__  
+__levy__ :two::shit:  
 __lewd__  
 __liability__ :two::shit:  
 __liaison__ 
@@ -3916,7 +3919,7 @@ __muckrake__
 __mudcat__ _n_  
 __muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __mudslide__  
-__mudslinging__  
+__mudslinging__ :two::shit:  
 __muff-diver__ _n_ :two::shit:  
 __muff__ _She drew from her muff a pistol._  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
@@ -5791,7 +5794,7 @@ __spool tables__
 __spool__ _n_  
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __sprawl__  
-__sprawling__ :three::shit:  
+__sprawling__ :four::shit:  
 __sprig__ :three::shit: _A sprig of mint._  
 __sprigs__  
 __springboard__  
@@ -5858,7 +5861,7 @@ __stamina__ :two::shit:
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamped__  
-__stance__ :five: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
+__stance__ :six: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_  
 __stand strong__  
 __stand tall__  
@@ -5930,7 +5933,8 @@ __stickball__ Stickball is a street game related to baseball, usually formed as 
 __sticker price__  
 __sticker shock__  
 __stickler__ :two::shit:  
-__stiff__ :three::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._  
+__stiff<sup>1</sup>__ _adj_ :three::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._  
+__stiff<sup>2</sup>__ _v_ _Trump is known for stiffing people he owes._  
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
 __stiffer__ _Unleasing stiffer penalties._  
 __stifle__ _v_ (stifles, stifled, stifling) :seven: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
@@ -5993,7 +5997,7 @@ __strap overalls__
 __strapped__  
 __straws__ _To stir straws._  
 __stray steeples__  
-__stray<sup>1</sup>__ _v_ :four::shit: (strays, strayed)  
+__stray<sup>1</sup>__ _v_ :five::shit: (strays, strayed)  
 __stray<sup>2</sup>__ :two::shit: _A stray word._ _Stray friends._  
 __stray__ _Stray dogs._  
 __streak__ _n_  
@@ -6223,6 +6227,7 @@ __tawdry__ :two: Poor, cheap quality.
 __tax breaks__ _n_  
 __tax levy__  
 __taxa__  
+__taxpayer__ _n_  
 __tchotchkes__ :two::shit: _Simpson tchotchkes._  
 __tea party__ :two::shit: _Tea party groups._ _Tea party rallies._  
 __teakwood__ :open_mouth:  
@@ -6937,7 +6942,7 @@ __withdrawal__ _n_ Withdrawal is when you take something out, like making a with
 __wither__ _v_ :two::shit: (withers)  
 __withhold__  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
-__woe__ _n_ Misfortune; calamity: _economic and political woes._  
+__woe__ _n_ :two: Misfortune; calamity: _economic and political woes._  
 __woefully__ :three::shit: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
 __wolfe range__  
