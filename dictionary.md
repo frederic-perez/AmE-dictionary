@@ -276,6 +276,7 @@ __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time
 __acerbic__ :two::shit:  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquaintances__ :open_mouth:  
+__acquittal__  
 __acquitted__  
 __acreage__ :two::shit:  
 __acrimonious__  
@@ -3209,7 +3210,7 @@ __inbound__ :two::shit: _Inbound trip._
 __inbounds pass__  
 __incensed__ _v_  
 __inception__  
-__inch__ _v_ _They'll just inch their way down the field._  
+__inch__ _v_ :two::shit: _They'll just inch their way down the field._  
 __inching__  
 __inchoate__  
 __incidentally__  
@@ -3532,7 +3533,7 @@ __lemongrass__
 __lemons > dance of the lemons__  
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
 __leniency__ :two::shit:  
-__lenient__ _adj_ :three:(leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
+__lenient__ _adj_ :four: (leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
 __lentils__ :es: lentejas  
 __leper__  
 __lepers__  
@@ -3846,6 +3847,7 @@ __misspell__ _v_
 __misstate__ _v_  
 __misstated__ _v_  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
+__mistrial__ _n_  
 __mistruths__  
 __mitzvah__  
 __mix-up__ _n_  
@@ -4643,6 +4645,7 @@ __pronged__
 __prongs__ _n_ :two::shit:  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
 __prop up__ _But with her leg propped up._  
+__proper__ _They have pushed into the city proper._  
 __propped up__ _v_  
 __propped__ _v_ :two::shit:  
 __props__ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
@@ -5698,6 +5701,7 @@ __snug__ _v__ :two::shit:
 __snuggles__  
 __snugly__  
 __soap opera__  
+__soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __sobering__  
 __societal__  
 __sociopaths__  
@@ -5794,7 +5798,7 @@ __spool tables__
 __spool__ _n_  
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __sprawl__  
-__sprawling__ :four::shit:  
+__sprawling__ :five::shit:  
 __sprig__ :three::shit: _A sprig of mint._  
 __sprigs__  
 __springboard__  
@@ -6010,6 +6014,7 @@ __strep > strep throat__ :two::shit: _Maybe strepsils is derived from strep (thr
 __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ :two::shit: _An interesting stretch run in the NFC._  
 __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
+__strewn__  
 __stricken__ _v_ :three::shit:  
 __strictures__ :three::shit: _The strictures on women's behavior were easing._  
 __strife__ _n_ :six: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
@@ -6040,7 +6045,7 @@ __stuffy__
 __stump__  _v_ :eight: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet.  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
-__stunning__  
+__stunning__ :two::shit:  
 __stunt<sup>1</sup>__ _n_  
 __stunt<sup>2</sup>__ _v_ _Movement stunted during the dictatorship._  
 __stunt__ _n_  
