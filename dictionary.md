@@ -656,6 +656,7 @@ __belie__ _v_ :four: (belies) __1__ (of an appearance) fail to give a true impre
 __belied__ _v_  
 __belittle__ (belittling) _v_ :four: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bellboy__ _n_  
+__bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
 __bellowed__ _v_  
 __bells and whistlers__  
@@ -784,7 +785,7 @@ __bloviate__ _v_
 __blow it off__  
 __blowgun__ _n_  
 __blown call__  
-__blowout__ :four::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+__blowout__ :five::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
 __blowtorch__  
 __blowup bed__ _n_  
@@ -3362,6 +3363,7 @@ __jump the gun__ _If I jump the gun I'll need more time to recover._
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
 __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
 __jumpers__  
+__jumping jacks__  
 __juncture__ _n_ :four: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __junker__  
@@ -3639,7 +3641,7 @@ __lookup__ _n_
 __loophole__ _:es: escapatoria_  
 __loopy__ :two::shit: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
 __loot__ _v_  
-__lopsided__ :two::shit:  
+__lopsided__ :three::shit: _A lopsided 100-38 victory._  
 __lore__ _n_ :four: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __louse__ _n_  
@@ -3772,6 +3774,7 @@ __meandering__
 __measles__ :two::shit: :es: _Rubeola_  
 __mecca__ :three::shit: _Shopping mecca._  
 __mechanical pencil__  
+__medal__ _v_  
 __medallions__ _Taxi medallions._  
 __medevac helicopter__  
 __medevac__ _v_  
@@ -4049,8 +4052,8 @@ __nose > running noses__
 __nose-thumbing__ :camera:  
 __nosebleeds__  
 __not even close__ :dart:  
+__notch__ :two::shit:  
 __notched__ _v_ :two::shit:  
-__notches__  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
 __notwithstanding__  
 __novella__  
@@ -4103,6 +4106,7 @@ __offbeat__ :two::shit: _His offbet partner._ _Offbeat nature._
 __office drones__ _Sara and I met as office drones in 1999._  
 __offing__ _A budding rivalry could be in the offing._  
 __offset__ _v_  
+__offsets__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __oft-shouting-sermon__  
 __oft__ _Thje oft-hated SAT._  
 __ogle__ _v_  
@@ -4956,7 +4960,7 @@ __reputedly__ _He reputedly said, "I could stay here forever."_
 __rescinded__ _v_   
 __resiliency__  
 __resistance__  
-__resolved__ _The issue was resolved._  
+__resolve__ _v_ :two::shit: (resolved) _The issue was resolved._  
 __respite__ _n_ :four: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :two::shit:  
 __respondents__ _n_  
@@ -5071,6 +5075,7 @@ __room gear__ _Dorm room gear._
 __roomed__ _v_  
 __rooster__ :twoo::shit:  
 __root beer__  
+__rootered__ _v_  
 __rooting__ _v_ _She was rooting in the Dumpster._  
 __rope-a-dope__ :two::shit:  
 __ropy__  
@@ -5085,7 +5090,7 @@ __round out__ _v_ :two::shit:
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
 __rout<sup>1</sup>__ _n_ :four: An overwhelming defeat.  
-__rout<sup>2</sup>__ _v_  Defeat disastrously.  
+__rout<sup>2</sup>__ _v_ :two: Defeat disastrously.  
 __row house__ _n_  
 __rowdy__ :five: /ˈraʊdi/ _adj_ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rub elbows__ _v_  
@@ -5899,7 +5904,7 @@ __starfish__
 __stargazing__  
 __stark__ _adj_ :three::shit:  
 __startling__  
-__stat sheet__ _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
+__stat sheet__ :two::shit: _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
 __stately__ _adj_ :three: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
@@ -6414,7 +6419,7 @@ __tony__ :four: _Informal adj_ Fashionable among wealthy or stylish people. _A t
 __toodles__ _v_  
 __toodling__  
 __toom__  
-__toot__  
+__toot__ :two::shit:  
 __toote__ _v_ _Tooting the horn at their friends._  
 __tooth decay__ (cavity, cavities) :es: caries  
 __tooth-wrecking__  
