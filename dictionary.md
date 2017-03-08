@@ -507,6 +507,7 @@ __baby bump__ _Dressing your baby bump._
 __baby formula__ _Baby formula should be "ready-to-feed" or prepated using only filtered water or bottled water._  
 __back away__  
 __back breaker__  
+__back end__ _Dante Exi, started two games at the back end of the trip._  
 __back out__  
 __back-heel pass__  
 __back-to-back__ :three: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._    
@@ -2946,7 +2947,7 @@ __hawk__ _v_ _Vendors hawk greeting cards and inexpensive artwork._
 __hawkish__ :three::shit: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __haymaker__  
-__haywire__ :two::shit: _To go haywire._  
+__haywire__ :three::shit: _To go haywire._  
 __hazard__ _A 465-yard  par with a water hazard._  
 __hazardous__  
 __haze__ (hazing) :two::shit: _v_ _Allegations of hazing and telling._  
@@ -5769,7 +5770,7 @@ __spear chucker__
 __speargun__  
 __spearhead__ (spearheaded, spearheading) :four: _v_ Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
-__specious__ _Specious argument._  
+__specious__ :two::shit: _Specious argument._  
 __speck__ :two::shit: _A speck of blood._  
 __specs__ :two: Spectacles, glasses.  
 __speed demon__  
@@ -5805,14 +5806,14 @@ __splurge__ _v_ :two::shit:
 __splurging__ :two::shit:  
 __splutter__ (splutters) :two::shit:  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
-__spoil__ _v_ _She loved spoining her grandkids._  
+__spoil__ _v_ :two::shit: _She loved spoining her grandkids._  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __sponge bulllets__  
 __sponsor__ _Sponsorong countries._  
 __spool tables__  
 __spool__ _n_  
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
-__sprained__ _v_  
+__sprained__ _v_ :two::shit: _A sprained thumb._  
 __sprawl__  
 __sprawling__ :five::shit:  
 __sprig__ :three::shit: _A sprig of mint._  
@@ -6573,7 +6574,7 @@ __ugh__
 __ukuleles__  
 __umpteenth__ :two::shit:  
 __unabashed__ _adj_ :two: Not ashamed, disconcerted, or apologetic; boldly certain of one's position.  
-__unabated__  
+__unabated__ :two::shit:  
 __unalienable__  
 __unanimous__  
 __unapologetic__  
@@ -6946,7 +6947,7 @@ __wire > getting down to the wire__
 __wire book stand__  
 __wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
 __wire-rimmed__ _Wire-rimmed glasses._  
-__wire-to-wire__ :two: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
+__wire-to-wire__ :three: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wisdom tooth__  
 __wisecracks__  
 __wish list__ _The community's wish list._  
