@@ -52,6 +52,7 @@ __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English
 __Collins glass__  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __Concacaf__  
+__Confederate flag__  
 __Coptic__  
 __Crescent City__  
 __D-ring inset__  
@@ -280,7 +281,7 @@ __acquaintances__ :open_mouth:
 __acquittal__  
 __acquitted__  
 __acreage__ :two::shit:  
-__acrimonious__  
+__acrimonious__ :two::shit:  
 __acrimony__ :two: _n_ Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
 __actuary__ (actuaries) :two: A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
@@ -428,6 +429,7 @@ __appraised__ _The home was appraised in 2007._
 __apprehend__ _v_  
 __approval rating__ _Park's approval rating has plummeted._  
 __aquaponic__  
+__aquifer__ _n_  
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::shit: _An arbor of live oaks._  
 __arcane__ :two::shit:  
@@ -514,6 +516,7 @@ __back-to-back__ :three: Consecutive. _His back-to-back victories in the Hungari
 __backache__ _n_ :dart:  
 __backdrop__ _n_ :four::shit: _These massacres took place against the backdrop of a war._  
 __backlash__  
+__backlit__  
 __backlog__ :two: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backsplash__ _n_ _A new tile backsplash._  
 __backwater__ :two::shit: _An academic backwater._  
@@ -708,7 +711,7 @@ __bid farewell__
 __bid rigging__  
 __bid__ :three: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _I bid you farewell._  
 __big cat__ :es: felino  
-__big deal__ :dart::four::shit: _It's not a big deal._  
+__big deal__ :dart::five::shit: _It's not a big deal._ _Big deal._  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big-box stores__ :camera::shit:  
@@ -1247,7 +1250,7 @@ __chicken pox__
 __chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious and yummy._  
 __chicken wire__  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
-__chided__ _v_ :three::shit: _Whe chided the Pentagon._  
+__chided__ _v_ :four::shit: _Whe chided the Pentagon._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
@@ -1365,6 +1368,7 @@ __cobweb__ :two::shit:
 __cobwebs__  
 __cockerel__  
 __cocoon__ _n_  
+__coda__ _n_  
 __coddled__ _A coddled creature._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerced__  
@@ -1435,7 +1439,7 @@ __concoction__
 __concomitant__  
 __concourse__  
 __concussion__ :two: _He recovers from the concussion he sustained on June 15._  
-__condone__ _v_  
+__condone__ _v_ :two::shit:  
 __conducive__ :two::shit: _The vehicle doesn't seem conducive to passing._  
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
 __conduit__ _n_ :two::shit:  
@@ -2068,6 +2072,7 @@ __earrings__
 __earth-shattering__  
 __earthquake drill__  
 __easing__  
+__eatery__ _n_ (eateries) _Informal_ A restaurant.  
 __ebb and floor__  
 __ebb and flow__ :six::shit: (ebbed and flowed, ebbs and flows) _The ebbs and flows of life._  
 __ebb__ _v_  
@@ -2270,7 +2275,7 @@ __fandom__
 __fangs__ _n_  
 __fannies__  
 __fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
-__far cry__ :two::shit: _It is a far cry from yhe 1970s._  
+__far cry__ :three::shit: _It is a far cry from yhe 1970s._  
 __far-flung__ :two::shit:  
 __farce__  
 __fare<sup>1</sup>__ _n_ :four::shit: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._  
@@ -2847,7 +2852,7 @@ __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es:
 __gunwhale__ :two::shit:  
 __guppy__ _n_ :four:  Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurney__ _n_ :two::shit:  
-__gush__ _v_ :three::shit: (gushing) _Kids were dancing in the gushing water._  
+__gush__ _v_ :four::shit: (gushing) _Kids were dancing in the gushing water._  
 __gushed__ _v_  
 __gusto__  
 __gut-bucket__ _A gut-bucket string band._  
@@ -3302,7 +3307,7 @@ __jar__ _v_ :two::shit:
 __jarring__ :two::shit: _Jarring evidence._  
 __jaundice__ _v_ :two::shit:  
 __jaunt__ _n_  
-__jaunty__ :five: _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaunty__ :six: _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jaywalker__ _n_  
 __jaywalking__  
 __jazzy__  
@@ -4655,6 +4660,7 @@ __profligate__ :two::shit:
 __prominence__  
 __prominent__ :two::shit: _Package carrying a prominent warning._  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
+__prompt__ _v_ :two::shit: (prompting)  
 __pronged__  
 __prongs__ _n_ :two::shit:  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
@@ -5076,6 +5082,7 @@ __room gear__ _Dorm room gear._
 __roomed__ _v_  
 __rooster__ :twoo::shit:  
 __root beer__  
+__rooter__  
 __rootered__ _v_  
 __rooting__ _v_ _She was rooting in the Dumpster._  
 __rope-a-dope__ :two::shit:  
@@ -5427,6 +5434,7 @@ __shortchange__ _v_
 __shortchanged__ _I think people will be shortchanged._  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::shit:  
+__shortlist__ _n_  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shot in the arm__  
 __shotgun cottage__  
@@ -5878,7 +5886,7 @@ __staler__ _The air in the place grew staler._
 __stalk__ _n_  
 __stalward__  
 __stalwart__ :nine::arrow_up_small::o2: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
-__stamina__ :two::shit:  
+__stamina__ :three::shit:  
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamped__  
