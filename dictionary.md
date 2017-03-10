@@ -1353,7 +1353,7 @@ __clue__ :dart:
 __clump__ _n_  
 __clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
-__clunky__  
+__clunky__ :two::shit:  
 __clutch player__  
 __clutch__ _He was a dominant player in the clutch._  
 __clutched__ _v_
@@ -5677,7 +5677,7 @@ __smugly__ _To laugh smugly._
 __smugness__  
 __smut__ _They want to report smut._  
 __snafus__  
-__snag<sup>1</sup>__ _n_ :es: problema  
+__snag<sup>1</sup>__ _n_ :two::shit: :es: problema  
 __snag<sup>2</sup>__ _v_ :two::shit: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snags__ _n_  
 __snap<sup>1</sup>__ _n_ :two::shit: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
