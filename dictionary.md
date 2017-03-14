@@ -355,6 +355,7 @@ __alleged__
 __allies__ _n_  
 __allotment__  
 __allotted__  
+__almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ :two::shit: _Dwayane Wade raised three fingers aloft._  
 __aloof__ :two: /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
@@ -929,7 +930,7 @@ __breakwater__ _n_
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breech__ _n_ :four::shit:  
-__breezy__ :two::shit: _The breezy tone of the readout._  
+__breezy__ :three::shit: _The breezy tone of the readout._  
 __brethen__  
 __brethren__ _Political brethren._  
 __briar__ :two::shit:  
@@ -3772,6 +3773,7 @@ __mat__ _I'm not going to the mat for her._
 __matahara__ Maternity harassment.  
 __matchmaking service__  
 __matchstick__ _n_  
+__materiel__ _n_ Equipment and supplies of a military force.  
 __maternity leave__  
 __matriarch__  
 __matsuri__  
@@ -3930,6 +3932,7 @@ __motley__ _adj_ :six: If you've encountered the word motley, it's most likely i
 __motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
 __motoring__  
+__motorist__ _n_ A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mouth__ _v_  
@@ -5816,6 +5819,7 @@ __spin bike__ _n_ :camera:
 __spindle__ _n_  
 __spinouts__  
 __spinster__  
+__spire__ _n_ A tapering roof or analogous pyramidal construction surmounting a tower.  
 __spires__ _n_  
 __spite__  
 __spiteful__ :two::shit:  
@@ -5957,6 +5961,8 @@ __steeds__ _n_.
 __steep__ :four::shit: _He faces a steep learning curve._ _A steep increase._ _Steep decline._  
 __steeped__ _v_ _Tea steeped in teapots._  
 __steeple__ :two::shit: _n_  
+__steeple__ _n_ A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town.  
+__steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeply__ :two::shit:  
 __stein__ _n_  
 __stem__ _v_ _The country is trying to stem the spread of the avian influenza._  
