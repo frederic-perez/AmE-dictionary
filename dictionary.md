@@ -140,6 +140,7 @@ __MLK__
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __Mace__ _v_  
 __Mach number__ :open_mouth:  
+__Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __Main Street__  
 __Mandan man__  
 __Mariel felons__  
@@ -470,6 +471,7 @@ __at odds__ :two::shit:
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the earliest__  
 __at the very least__  
+__at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn't have to be a feeling; it can be anything that's a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atolls__ _n_  
 __atone__ _v_ :two::shit:  
@@ -602,6 +604,7 @@ __batting cage__ _The rookie suffered an injury while taking swings in the batti
 __bauble__  
 __bawdy__  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
+__beaming__ _adj._ Smilingly happy; showing happy emotion.  
 __bean bag chair__  
 __bean__ _v_ _She beans him with a decanter._  
 __beanie__ _n_ :camera::dart:  
@@ -907,6 +910,7 @@ __bracing__ _v_
 __bracketology__ _Daily bracketology updates._  
 __brain drain__  
 __brainchild__  
+__brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
 __brambles__ :two::shit:  
 __brander__  
@@ -2526,7 +2530,7 @@ __forlorn__ _adj_ :five: __1__ Pitifully sad and abandoned or lonely. _Forlorn f
 __forsake__ _v_  
 __forte__ _n_  
 __fortified wine__  
-__foul play__ :two: Violence, esp. murder.  
+__foul play__ :three::dart: Violence, esp. murder.  
 __foul__ _Foul language__   
 __founder__ _v_ _The attempt foundered._  
 __foundries__ _Metal foundries._  
@@ -2699,6 +2703,7 @@ __glib__ _A glib reply to his remark._
 __glimmer__ _A glimmer of hope._  
 __glimpse__  
 __glitz__  
+__glitzy__  
 __gloaming__  
 __gloat__ :two::shit: _I could not gloat._  
 __gloating__  
@@ -2767,7 +2772,7 @@ __gravely__
 __gravesite__  
 __gravitate__ _v_ :two::shit: _He gravitated toward politics._  
 __graybeards__ _Senate graybeards._  
-__graze__ _v_ :five::shit: (grazing) _Some species can graze on the extra algae._    
+__graze__ _v_ :six::shit: (grazing) _Some species can graze on the extra algae._    
 __grazing land__ :shit::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __greaseballs__ :two::shit:  
 __greater area__ _Greater Tokyo area._  
@@ -3820,6 +3825,7 @@ __meretricious__ :two::shit:
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merriment__ :two:  
 __mesh strainer__  
+__metal flashing__  
 __metal shavings__  
 __meted out__ _v_ :two::shit: _All the suspensions have been meted out._  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
@@ -4838,6 +4844,7 @@ __rampart__ _Ancient stone ramparts._
 __ramparts__ :two::shit:  
 __ramshackle__ :two::shit:  
 __ranch hand__ _He works as a ranch at the prison._  
+__rancher__ _n_ :two: One that owns or manages a ranch.  
 __range__ _Range war._  
 __rank-and-file__ :six: _n_ (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank__ _v_  
@@ -4882,7 +4889,7 @@ __razor strop__
 __razz__ (razzing) _v_ To deride, heckle, or tease. _Razzed the teammate who missed the shot._  
 __razzle-dazzle__  
 __reach for the stars__ Have high or ambitious aims.  
-__reach out__ :two::shit: _Reaching out to prevent aids._  
+__reach out__ _v_ :three::shit: _Reaching out to prevent aids._  
 __readily__  
 __readout__ _n_  
 __ream__ _v_ :four::shit: (reamed)  
@@ -6013,6 +6020,7 @@ __stodgy__ _The mainstream may sound too stodgy._
 __stoke__ _v_ :nine::arrow_up_small::o2::shit: (stoked, stoking, stoke up) _Stoking tensions._  
 __stoking__ _n_  
 __stomping__ _v_  
+__stonemasons__ _n_  
 __stonewall__ _v_ :three::shit:  
 __stonewalling__ _v_  
 __stoop<sup>1</sup>__ _v_ :eight::shit: _Jean stoops to pick cranberries for preserves._  
