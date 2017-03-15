@@ -5967,8 +5967,7 @@ __steamrolled__ _v_
 __steeds__ _n_. 
 __steep__ :four::shit: _He faces a steep learning curve._ _A steep increase._ _Steep decline._  
 __steeped__ _v_ _Tea steeped in teapots._  
-__steeple__ :two::shit: _n_  
-__steeple__ _n_ A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town.  
+__steeple__ _n_ :two: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town.  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeply__ :two::shit:  
 __stein__ _n_  
