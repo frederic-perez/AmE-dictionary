@@ -3,3 +3,9 @@
 
 
 
+__camper__ _n_  
+__stun gun__ _n_  
+__hillside__ _n_  
+__vintner__ _n_  
+__bench__ _Snow will dust the benches and valleys._  
+__encore__ _A rainy encore._  
