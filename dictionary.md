@@ -157,6 +157,7 @@ __NCO__
 __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
 __Nat Geo__ National Geographic.  
 __New Jerusalem__  
+__NorCal__ Northern California.  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
@@ -206,6 +207,7 @@ __Seven Dwarf status__
 __Silver State__ Nevada.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
+__SoCal__ Southern California.  
 __Spanish moss__ :two::shit:  
 __Sped case__  
 __St. Bernard__  
@@ -527,6 +529,7 @@ __backwoods__
 __bad blood__ :two::shit:  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
+__badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __baffle__ _v_ :two::shit: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __bag out__ _v_ _Why'd you bag out on me?_  
@@ -604,6 +607,7 @@ __batting cage__ _The rookie suffered an injury while taking swings in the batti
 __bauble__  
 __bawdy__  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
+__beam__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
 __bean bag chair__  
 __bean__ _v_ _She beans him with a decanter._  
@@ -1597,7 +1601,7 @@ __crib__ :two::shit: _n_
 __cribbage__ _game_  
 __crimp__ _v_ :nine: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimson__ _Crimson cereal._  
-__cringe__ :four: _v_ __1__ To shrink back, as in fear; cower. _:es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe > me da horror_  
+__cringe__ _v_ :five: __1__ To shrink back, as in fear; cower. _:es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe > me da horror_  
 __crinkle__ _v_ (crinked, crinkling) :five::shit:  
 __crinkly__  
 __crippling__ :four::shit: _Crippling drought._ _Crippling strikes and violence._  
@@ -1677,6 +1681,7 @@ __cussed__
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __cut me a little slack__  
 __cut-and-dry task__  
+__cutlass__ _n_  A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutline__ _n_  
 __cutter__ _A Coast Guard cutter._  
 __cutthroat__ _adj_ :open_mouth: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
@@ -2716,7 +2721,7 @@ __glum__ :three: _adj_ To be glum is to be sad. Glum is a word for being depress
 __glut__ _n_ :four: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
 __gnarled__ _v_  
 __gnat__  
-__gnaw__ _v_ :four: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
+__gnaw__ _v_ :five: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __go a long way__ _Go a long way toward minimizing damage._  
 __go awry__ :two::shit:  
 __go native__ _You going native on me, Supercop?_  
@@ -3359,6 +3364,7 @@ __jockstrap__
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
 __joists__  
 __jokesmith__  
+__jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollof rice__  
 __jolly__ _Jolly handshakes._  
 __jolt__ _n_ :four::shit: _A spending jolt by the military government._ _It was a jolt of good news._  
@@ -3387,6 +3393,7 @@ __jumpers__
 __jumping jacks__  
 __juncture__ _n_ :four: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
+__juniper__  
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ :three::shit:  
@@ -3908,7 +3915,7 @@ __mom-and-pop__ _Mom-and-pop shops._
 __momentous__ :two: _adj_ Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
 __money on the hoof__  
 __moneyed__  
-__monger__ (mongering) :three::shit:  
+__monger__ _v_ (mongering) :four::shit:  
 __mongering__  
 __monkey wrench__  
 __monogramming__  
@@ -6421,6 +6428,7 @@ __tipoff__ _n_ :two::shit: (tip-off)
 __tipple__  
 __tipster__  
 __tirade__ _n_ :four::shit:  
+__tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
 __tit for tat__ :two::shit:  
 __titlist__ _He is the former bantamweight titlist._  
