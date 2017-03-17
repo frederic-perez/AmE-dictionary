@@ -683,6 +683,7 @@ __beltway__ _n_ :dart:
 __belying__ _v_  
 __bemoan__ _v_ :six::shit: (bemoaned, bemoaning)  
 __bemused__  
+__bench__ _Snow will dust the benches and valleys._  
 __benchmark__  
 __bender__ _His mother was on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
@@ -1132,7 +1133,7 @@ __callousness__
 __camellia__  
 __camo__  
 __camper shell__  
-__camper__ _adj_  
+__camper__ :two::shit:  
 __campground__ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__    
 __campier__ _campier presentations._  
@@ -2155,7 +2156,7 @@ __enactment__
 __enamel__  
 __encampment__  
 __encompass__ _v_ :three::shit: (encompasses)  
-__encore__ :two::shit:  
+__encore__ :three::shit: _A rainy encore._  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :four::shit: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ :three::shit:  
@@ -3053,6 +3054,7 @@ __hike<sup>1</sup>__ _n_ _A hike in base wages._
 __hike<sup>2</sup>__ _v_ _Hiked prices._  
 __hillbilly__ :two::shit:  
 __hillocks__  
+__hillside__ _n_  
 __hinky__  
 __hinterland__ /ˈhɪntəland/ :two: (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hipper__ _adj_ :two::shit: _Hipper Nancy Drew._  
@@ -6106,6 +6108,7 @@ __stuff sacks__ _n_
 __stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._  
 __stuffy__   
 __stump__  _v_ :eight: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet.  
+__stun gun__ _n_  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__ :four::shit:  
@@ -6782,6 +6785,7 @@ __villainy__ :open_mouth:
 __vindicate__ _v_  
 __vindicated__ _v_  
 __vindication__ :six::shit:  
+__vintner__ _n_  
 __vinyasa__ _n_  
 __virtually__ :open_mouth: Practically, almost.  
 __vise__ _n_  
