@@ -229,6 +229,7 @@ __Teamster__ _n_ :two::shit:
 __Tennesse Honey__ Honey liqueur blended with less than 20% whiskey.  
 __Texas Panhandle__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
+__Tico__ _n_ A native or inhabitant of Costa Rica.  
 __Tijuana special__  
 __Tokyoites__  
 __Tudor__  
@@ -802,6 +803,7 @@ __blow it off__
 __blowgun__ _n_  
 __blown call__  
 __blowout__ :five::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+__blowouts__  
 __blowsy__  
 __blowtorch__  
 __blowup bed__ _n_  
@@ -1390,7 +1392,7 @@ __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gai
 __coerced__  
 __coffee-table book__  
 __coffers__ _n_ :four::shit: _San Francisco city coffers._ _State's coffers._  
-__cog__ :five: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
+__cog__ _n_ :six: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cognizant__  
 __coif__ _Strange coif._  
 __coiffed__  
@@ -2706,7 +2708,7 @@ __ginning__
 __gird__ _v_  
 __girders__ _n_ :two::shit:  
 __giridon__  
-__giveaway__ _n_ :three::shit: _Holiday giveaway._  
+__giveaway__ _n_ :four::shit: _Holiday giveaway._  
 __gladdened__  
 __gladed__ _Gladed terrain._  
 __glass slipper__ _(Cinderella)_  
@@ -3006,6 +3008,7 @@ __heat > to catch a lot of heat__
 __heatedly__ _Clashed heatedly._  
 __heave__ _v_  
 __heavy-handed__  
+__heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
 __heckler__ :two::shit:  
 __heckling__  
@@ -5520,7 +5523,7 @@ __shush__ _v_
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
 __shut out__ _v_  
-__shutout__ _n_ :eight: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
+__shutout__ _n_ :nine::arrow_up_small::o2: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__ _Just shy of its highest mark._  
@@ -5921,6 +5924,7 @@ __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his s
 __squishing__  
 __squit__ _Super-soaker squit guns._  
 __stab__ _n_  
+__stable__  
 __staffed__ _v_  
 __staffer__ :five: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
@@ -6142,6 +6146,7 @@ __sublet__ _v_ :three::shit: (subletting) :es: subalquilado?
 __sublimate__ _v_  
 __subpoena__ :two::shit:  
 __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
+__subsequently__   
 __subside__ _v_ :two::shit: (subsided)  
 __subsided__ _v_ _My headache has subsided._  
 __subsidy__  
@@ -6267,6 +6272,7 @@ __talc__ _n_ :two::shit: _An Alabama woman blamed the talk in baby powder._
 __talcum powder__ :two::shit: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __tall order__ _n_ :three::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
 __tall tales__  
+__tallied__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __talons__ _The nails were sharp as talons._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
@@ -6764,7 +6770,7 @@ __vastly__
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _Vaulted ceilings._  
 __vaunt__  _v_ :three: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
-__vaunted__ :three::shit: _His vaunted political organization._  
+__vaunted__ :four::shit: _His vaunted political organization._  
 __veggie__ _Holiday veggie roast._  
 __velvet rope__  
 __velvet rose__ :camera:  
