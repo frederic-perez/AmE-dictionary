@@ -507,6 +507,7 @@ __averted__ _v_
 __avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
+__aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awash__ :seven: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__  
 __awry__  
@@ -5205,6 +5206,7 @@ __sakura__
 __salacious__ :two::shit: _Salacious music._  
 __salient__  
 __salt away__  
+__salt of the Earth__  
 __salt the shaft__ :two::shit: _Salt the shaft if you have to._  
 __salutary__  
 __salvage__ _adj_  
