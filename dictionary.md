@@ -1,4 +1,4 @@
-_(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
+__(sic)__ _adverb_ _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.   
 __35-degree day__  
@@ -523,6 +523,7 @@ __back out__
 __back-heel pass__  
 __back-to-back__ :three: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._    
 __backache__ _n_ :dart:  
+__backburner__ _n_  
 __backdrop__ _n_ :four::shit: _These massacres took place against the backdrop of a war._  
 __backlash__  
 __backlit__  
@@ -546,7 +547,7 @@ __balderdash__
 __bale__ _Bales of cotton._  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk__ /bɔːlk,bɔːk/ _v_ :six: (balked) _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
-__balky__ (balking) :three: /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
+__balky__ (balking) :four: /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ball bearings__  
 __balladeer__  
 __ballasr__  
@@ -1129,7 +1130,8 @@ __call out__ _v_ :three: __1__ Utter aloud; often with surprise, horror, or joy.
 __call someone out__  
 __call the shots__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
-__call__ _n_ _It would've been a difficult call to eject Landry._  
+__call<sup>1</sup>__ _n_ _It would've been a difficult call to eject Landry._  
+__call<sup>2</sup>__ _v_ _Allen has called Oregon games for 29 years._  
 __calling card__  
 __calling__ _n_ :two: __1__ A strong inner urge to follow an occupation, etc; vocation. _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliopes__   
@@ -2509,6 +2511,7 @@ __foot-stomping__
 __foothold__ _A foothold._  
 __footwork__  
 __for a bit__  
+__for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for starters,__  
 __for the ages__ :two::shit: _A comeback for the ages._ _A year for the ages._  
@@ -3045,6 +3048,7 @@ __heroics__ _DH David Ortiz will be remembered for his postseason heroics._
 __herons__ :two::shit:  
 __hew__ _v_ :seven::shit: (hewing, hewn) _The council then tweaked its own proposal so that it would hew to the LDP version._  
 __hex key set__ _Allen key set?_  
+__hex-breaking__ _Looking for a hex-breaking sign._  
 __hey__  
 __heyday__ :three::shit:  
 __hibachi__  
@@ -4596,7 +4600,7 @@ __porkpie__ :two::shit:
 __porridge__  
 __portable building__ :es: barracones?  
 __portal__  
-__portend__ _v_ :four::shit: _...may portend a disruption._  
+__portend__ _v_ :five::shit: (portended) _...may portend a disruption._  
 __portent__  
 __portents__ _n_  
 __portly__  
@@ -5164,9 +5168,9 @@ __rugged__ _He was red carded for a rugged foul._
 __rule of law__ :two::shit:  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
-__rumble<sup>2</sup>__ _v_ :three: Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._  
+__rumble<sup>2</sup>__ _v_ :four: (rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._  
 __rumbling__  
-__rumblings__ :two::shit: _Rumblings about the trade._  
+__rumblings__ :twi::shit: _Rumblings about the trade._  
 __rumdum__  
 __rummage__ :two::shit:  
 __rummaging__ _v_  
@@ -5951,7 +5955,7 @@ __stand strong__
 __stand tall__  
 __standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
 __standoff__ _n_  
-__standout<sup>1</sup>__ _adj_ :five: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
+__standout<sup>1</sup>__ _adj_ :six: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
 __standstill__ _n_ :two::shit: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __staph__ _Staph infections._  
@@ -6688,7 +6692,7 @@ __uneasy calm__ _People waited to see whether an uneasy calm would last._
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :two::shit: _They are unfazed by all fof this._  
 __unfettered__ _v_ :eight::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
-__unflappable__ :three::shit: _Jim was unflappable._ _Unflappable team._  
+__unflappable__ :four::shit: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
 __unfold__ _v_  
 __unfurl__ (unfurling) :two::shit:  
