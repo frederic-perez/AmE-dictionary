@@ -1621,6 +1621,7 @@ __crinkly__
 __crippling__ :four::shit: _Crippling drought._ _Crippling strikes and violence._  
 __crisp__ :two::shit: _A crisp white tunic._  
 __crisper__ _Our dishes and crisper trays._  
+__critical condition__ _Critical to serious condition, fair condition._  
 __criticize__ _v_  
 __critique__ _v_  
 __critters__  
@@ -2041,6 +2042,7 @@ __drowns__ _v_
 __drub__  
 __drubbing__  
 __drudgery__  
+__drugwise__  
 __drum up__  
 __drum__ _v_  
 __druthers__  
@@ -2294,6 +2296,7 @@ __factual__
 __fad__ _n_  
 __faint__ :two::shit: _Faint irony._ _Not for the faint of heart._  
 __fair and square__  
+__fair condition__ _Critical to serious condition, fair condition._  
 __fair shake__  
 __fait accompli__  
 __fall into place__  
@@ -3434,7 +3437,7 @@ __kabobs__
 __kabuki__ :three::shit:  
 __kale__  
 __keel__ (keeled) :two::shit: _v_  
-__keen__ _adj_ :five: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._  
+__keen__ _adj_ :six: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tabs on__ :es: vigilar  
 __keep up__  
@@ -3801,7 +3804,8 @@ __marquee phone__
 __marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :three: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._  
 __marred__ :four: _adj_ If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence.  
 __marsh__ _n_ :two::shit:  
-__marshal__ _v_ :two::shit: _The community will marshal its resources to help undocumented immigrants._  
+__marshal<sup>1</sup>__ _n_  
+__marshal<sup>2</sup>__ _v_ :two::shit: _The community will marshal its resources to help undocumented immigrants._  
 __marshland__ :two::shit:  
 __marshmallow__ _n_  
 __mart__ A place of trade, eg. an auction room or market.  
@@ -4785,7 +4789,7 @@ __puny__ _A puny garden snail._
 __pups__ _n_  
 __puree__ _v_  
 __purloin__ _v_ :three::shit: (purloined)  
-__purported__ _v_ :three::shit: _The purported attack._ _JFK's purported affairs._  
+__purported__ _v_ :four::shit: _The purported attack._ _JFK's purported affairs._  
 __purportedly__  
 __purse__ _v_ _His lips pursed._  
 __purveyor__ _n_ :four::shit: _Purveyors of unhelpfully vapid self help._  
@@ -4883,7 +4887,7 @@ __ramen__ _n_ :four::shit: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._
 __rammed__ _v_ _JFK's PT boat was rammed._  
 __ramming__  
 __ramp up__ :three::shit: _Official decisions ramped up activity._  
-__rampage__ :three::shit:  
+__rampage__ :four::shit:  
 __rampant__ :two::shit:  
 __rampart__ _Ancient stone ramparts._  
 __ramparts__ :two::shit:  
@@ -5405,6 +5409,7 @@ __sequestration__ _Sequestration of the jury._
 __sequin__ _n_ :four::shit: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::shit:  
 __sequiturs__  
+__serious condition__ _Critical to serious condition, fair condition._  
 __servicers__  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
 __set out__ _v_  
@@ -5512,6 +5517,7 @@ __shortfall__ _n_ _Syn_ deficit, shortage
 __shorthand__ :two::shit:  
 __shortlist__ _n_  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
+__shortly__ _Shortly before 8 a.m. Tuesday._  
 __shot in the arm__  
 __shotgun cottage__  
 __shotgun house__  
@@ -6101,6 +6107,7 @@ __stowaway__
 __straddle__ _v_  
 __strafing__  
 __straggly__  
+__straight-A student__  
 __straight__ _Their second straight win._  
 __strain<sup>1</sup>__ _v_ :eight: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
 __strain<sup>2</sup>__ _n_  
@@ -6172,11 +6179,11 @@ __stutter__ _v_
 __stymie__ _v_ (stymied) :nine::shit:  
 __suave__ :three::shit: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
-__subdue__  
+__subdue__ _v_ :two::shit:  
 __subjugate__ _v_  
 __sublet__ _v_ :three::shit: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
-__subpoena__ :two::shit:  
+__subpoena__ :three::shit:  
 __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__   
 __subside__ _v_ :two::shit: (subsided)  
