@@ -2834,7 +2834,7 @@ __grist__ _Plastic wrapping becomes grist for composite decking._
 __gristle__  
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
-__gritty__ :six::shit: _The gritty determination._ _A gritty victory._  
+__gritty__ _adj_ :six::shit: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzled__ _v_ :two::shit: _Grizzled ballroom vets._  
 __groan__  
 __grocer__ _n_ :two::shit:  
@@ -3703,7 +3703,7 @@ __lookup__ _n_
 __loophole__ _:es: escapatoria_  
 __loopy__ :two::shit: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
 __loot__ _v_  
-__lopsided__ :five::shit: _A lopsided 100-38 victory._ _Lopsided losses._  
+__lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __lore__ _n_ :four: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __louse__ _n_  
@@ -5909,7 +5909,7 @@ __sporadically__
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __sprained__ _v_ :five::shit: _A sprained thumb._  
 __sprawl__  
-__sprawling__ :five::shit:  
+__sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __sprig__ :three::shit: _A sprig of mint._  
 __sprigs__  
 __springboard__  
