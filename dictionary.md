@@ -538,7 +538,7 @@ __bad blood__ :two::shit:
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
-__baffle__ _v_ :two::shit: _Baffled children._  
+__baffle__ _v_ :three::shit: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ :three::shit: (baggies) _Take baggies for the extra goodies._  
@@ -3450,6 +3450,7 @@ __key up__ _He was too keyed up._
 __keystrokes__  
 __khakis__ _n_  
 __kibbutz__  
+__kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children's game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::shit: _Kicking the can down the road._  
 __kickback schemes__  
 __kickbacks__ _n_  
@@ -6141,7 +6142,7 @@ __strife__ _n_ :six: Angry or bitter disagreement over fundamental issues; confl
 __striker__ _The match was damp and wouldn't ignite against the striker._
 __string beans__  
 __string knife__ :two::shit:  
-__stringent__ :five::shit: (stringently)  
+__stringent__ _adj_ :five: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :three::shit:  
 __strip mall__ _n_  
 __strivers__  
@@ -6656,8 +6657,8 @@ __turnround__
 __turnstile__ _n_  
 __turpentine__ _n_  
 __turpitude__  
-__tussle<sup>1</sup>__ :two::shit: (tussles)  
-__tussle<sup>2</sup>__ :five::shit: (tussled, tussling)  
+__tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
+__tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuffle.  
 __tussle__ _A trade tussle._  
 __tussles__ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussling__ _v_  
