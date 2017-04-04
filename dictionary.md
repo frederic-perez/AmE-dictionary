@@ -562,8 +562,7 @@ __bakeware__
 __balderdash__  
 __bale__ _Bales of cotton._  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
-__balk__ /bɔːlk,bɔːk/ _v_ :six: (balked) _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
-__balk__ _v_  
+__balk__ /bɔːlk,bɔːk/ _v_ :seven: (balked) _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
 __balky__ (balking) :four: /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
 __ball bearings__  
 __balladeer__  
@@ -796,8 +795,7 @@ __bleached__ _Warm waters bleached the coral._
 __bleaching__ :two::shit: _Steven called the bleaching a tragedy._  
 __bleak__ _adj_ __1__ :six: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: (of the weather) Cold and miserable. _A bleak midwinter's day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry   
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
-__bleary__  
-__bleary__ :two::shit:  
+__bleary__ :three::shit:  
 __bleated__ _v_ :three::shit: (bleating) _His walkie-talkie bleated._  
 __bled__ _v_  
 __bleed blue__  
@@ -1660,8 +1658,7 @@ __cringe__ _v_ :five: __1__ To shrink back, as in fear; cower. _:es: to cringe w
 __crinkle__ _v_ (crinked, crinkling) :five::shit:  
 __crinkly__  
 __crippling__ :four::shit: _Crippling drought._ _Crippling strikes and violence._  
-__crisp__  
-__crisp__ :two::shit: _A crisp white tunic._  
+__crisp__ :three::shit: _A crisp white tunic._  
 __crisper__ _Our dishes and crisper trays._  
 __critical condition__ _Critical to serious condition, fair condition._  
 __criticize__ _v_  
@@ -1866,8 +1863,7 @@ __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up
 __deposition__ _n_  
 __depress__ _v_ _Depressing a company's value._  
 __derail__ _v_  
-__deranged__  
-__deranged__ _A deranged man._  
+__deranged__ :two::shit: _A deranged man._  
 __derelict__  
 __derision__  
 __derringer__  
@@ -2074,10 +2070,8 @@ __dressed to the nines__
 __dressing room__ :two::shit: _(vs fitting room)_  
 __drifter__  
 __driftwood__ :two::shit: _Driftwood logs._  
-__drill<sup>1</sup>__ _n_ _An evacuation drill._  
+__drill<sup>1</sup>__ _n_ :three::shit: _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables."  
-__drill__ _n_  
-__drill__ _n_  
 __drink and use__  
 __drip-drying__  
 __drive__ _The drive by Senate Democrats to change the rules._  
@@ -2580,8 +2574,7 @@ __folly__ _n_ :six: (follies) __1__ Lack of good sense; foolishness. _An act of 
 __food-handler's permit__  
 __foodie__ _A foodie and a friend._  
 __foodstuffs__  
-__foolhardy__  
-__foolhardy__  
+__foolhardy__ :two::shit:  
 __foolproof__ _A foolproof measure._  
 __foosball table__  
 __foosball__ __Foosball table._  
@@ -3118,8 +3111,7 @@ __heist capers__
 __heist__ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
-__hellbent__  
-__hellbent__ :two::shit:  
+__hellbent__ :three::shit:  
 __helm__ _n_  
 __helpings__ _Second helpings._  
 __hemmed__ _v_ :two::shit:  
@@ -3518,8 +3510,7 @@ __jut out__ _The head juts out of the wall._
 __jutted__ _v_  
 __kabobs__  
 __kabuki__ :three::shit:  
-__kale__  
-__kale__  
+__kale__ :two::shit:  
 __keel__ (keeled) :two::shit: _v_  
 __keen__ _His keen wit._  
 __keen__ _adj_ :six: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._  
@@ -4058,8 +4049,7 @@ __monsoon__
 __monstrosity__ :open_mouth:  
 __moody__  
 __moon roof__  
-__moonshine__ :two::shit: (spirit)  
-__moonshine__ _People suspected of brewing moonshine._  
+__moonshine__ :three::shit: (spirit) _People suspected of brewing moonshine._  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
 __moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :three: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __mooted__  
@@ -4659,12 +4649,10 @@ __playoff pairings__ _The final rankings and playoff pairings will be released S
 __playthings__ _n_  
 __playwright__ :two::shit:  
 __plea deal__  
-__plea__ :two::shit: _A prayerful plea to brek free of alcohol._  
-__plea__ _n_ :two::shit:  
+__plea__ _n_ :four::shit: _A prayerful plea to brek free of alcohol._  
 __plead out__  
 __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
-__pledge__  
-__pledge__ _n_  
+__pledge__ _n_ :two::shit:  
 __plethora__ :two::shit:  
 __pliable__ _The pliable GOP._  
 __pliant__ :two::shit:  
@@ -5311,8 +5299,7 @@ __ruckus__ _n_ :three::shit: _The comment caused a ruckus._
 __ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rue__ _v_ _Pa. town rues sacrifice of its war dead._  
 __rueful__ _He gave a rueful smile._  
-__ruefully__  
-__ruefully__  
+__ruefully__ :two::shit:  
 __ruffled__ (ruffling) :two::shit: _v_  
 __rug > sweep it under the rug__  
 __rugged__ _He was red carded for a rugged foul._  
@@ -5503,8 +5490,7 @@ __seahawk__ ?
 __sear__ _v_ :three: (searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar_  
 __searing > searing work__  
 __seaside__  
-__season__ _v_  
-__season__ _v_ _Season to taste with salt and pepper._ :es: sazonar?  
+__season__ _v_ :two::shit: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
 __seaweed__ :two::shit:  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
@@ -5567,11 +5553,9 @@ __shaggy hemp__
 __shaggy__  
 __shah__ _n_  
 __shale-oil__ _Shale-oil production._  
-__shale<sup>1</sup>__ _adj_ _The shale parking lot._  
-__shale<sup>2</sup>__ _n_ :four: A soft kind of rock that splits easily into flat pieces. :es: esquisto, pizarra  
-__shale<sup>3</sup>__ _v_  
-__shale__ _A vast field of shale rock._  
-__shale__ _Shale energy._  
+__shale<sup>1</sup>__ _adj_ :two::shit: _The shale parking lot._ _Shale energy._  
+__shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
+__shale<sup>3</sup>__ _v_   
 __sham__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
 __shambling__  
 __shambolic__  
@@ -6274,10 +6258,8 @@ __straggly__
 __straight-A student__  
 __straight__ _Their second straight win._  
 __strain<sup>1</sup>__ _v_ :eight: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
-__strain<sup>2</sup>__ _n_  
-__strain__ _n_  
-__strain__ _v_ (strained) _A strained thumb._  
-__strained__   
+__strain<sup>2</sup>__ _n_ :two::shit:  
+__strained__ :two::shit: _A strained thumb._  
 __straits__  
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ :es: estrangular  
