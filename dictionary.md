@@ -323,8 +323,7 @@ __advisory__ :two::shit: _Advisory committee meeting._ _To take an advisory peri
 __advocacy__ :two::shit:  
 __aegis__  
 __afar__ :three: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
-__affidavit__  
-__affidavit__ _n_ :four::shit:  
+__affidavit__ _n_ :five::shit:  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :four: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
@@ -736,8 +735,7 @@ __betray__ _v_
 __better known as__ _Miyazaki, better known as Aska._  
 __bettors__  
 __bevel__  
-__bevy__  
-__bevy__ :size: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
+__bevy__ :seven: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :three::shit: _Midcalf silk dresses came with ruffled bibs and hems._  
@@ -901,9 +899,7 @@ __boom box__
 __boomer chains__  
 __booms__ _n_ :two::shit:  
 __boon__ _n_ /buːn/ :six: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
-__boondoggle__  
-__boondoggle__ :two::shit:  
-__boondoggles__  
+__boondoggle__ :four::shit: (boondoggles)  
 __boonies__  
 __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boorishness__  
@@ -1799,8 +1795,7 @@ __decommissioned__
 __decommissioning__ :two::shit: _Decommissioning process._  
 __decommits__  
 __deconstruct__ _v_  
-__decorated__ _A decorated veteran._  
-__decorated__ _He is one of Seattle's most decorated chefs._  
+__decorated__ :two::shit: _A decorated veteran._ _He is one of Seattle's most decorated chefs._  
 __decrepit__  
 __decry__ _v_ :nine: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
@@ -2290,8 +2285,7 @@ __established__ _Established 1978._
 __estrange__ _v_ __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __etched__ _v_  
 __etchings__  
-__ethos__ _The militaristic ethos of SWAT._  
-__ethos__ _n_ :seven: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ :es: espíritu, escala de valores  
+__ethos__ _n_ :eight: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
 __every man for himself__ :dart:  
@@ -2611,8 +2605,7 @@ __forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived o
 __forfeit<sup>2</sup>__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeit__ _v_  
 __forfeited__  
-__forfeiture__  
-__forfeiture__ _n_ The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
+__forfeiture__ _n_ :two: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
 __forgo__ _v_ :seven: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgone__  
@@ -3624,9 +3617,7 @@ __larger-than-life__ :three: More interesting and more exciting than an ordinary
 __laser wall__  
 __lash out__ :two::shit:  
 __last > next to last__  
-__last-ditch effort__  
-__last-ditch__ _Last-ditch effort._  
-__last-ditch__ _Last-ditch retaliation._  
+__last-ditch__ :three::shit: _Last-ditch effort._ _Last-ditch retaliation._  
 __latch__ _n_  
 __latching__  
 __latchkey__  
@@ -5390,8 +5381,7 @@ __sawhorses__ _n_
 __scabbard__ :two::shit:  
 __scabs__ _n_ :two::shit:  
 __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__scallions__  
-__scallions__  
+__scallions__ :two::shit:  
 __scallop__ :two::shit: _A scallop-shell logo._  
 __scalp bounties__  
 __scalper__ _n_ :three::shit:  
@@ -6160,8 +6150,7 @@ __staunchest__ :two::shit:
 __stave off__ _v_ :six::shit: (staved off)  
 __stave__ _v_  
 __staves__ _n_  
-__stay put__ _v_  
-__stay put__ _v_ :three: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
+__stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
 __stay__ _Granted a stay of execution._  
 __staying power__  
 __stead__  
@@ -7212,8 +7201,7 @@ __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._
 __winch<sup>2</sup>__ _n_ :three::shit:  
 __wind-up__ _n_  
 __winded__    
-__windfall__ :six: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
-__windfall__ _adj_  
+__windfall__ :seven::open_mouth: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
 __windlass__  
 __window sash__ _n_  
 __windshield wipers__  
