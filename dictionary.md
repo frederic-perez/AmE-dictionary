@@ -284,7 +284,7 @@ __accoitrements__
 __accolade__ _n_ :three: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodation__ _n_ :open_mouth: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accord__ _Postponed the signing of an accord._  
-__according to plan__ _If everything goes according to plan._  
+__according to plan__ :two::shit: _If everything goes according to plan._  
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
 __accoutrements__  
@@ -315,8 +315,7 @@ __admonition__ _n_ :four: Bringing a skateboard to school is a great way to get 
 __adoring__  
 __adroit__  
 __adulation__  
-__advent__  
-__advent__ _n_ :three::shit:  
+__advent__ _n_ :four::shit:  
 __advert__ _n_ (advertisement?)  
 __adverts__  
 __advisory__ :two::shit: _Advisory committee meeting._ _To take an advisory period._  
@@ -501,6 +500,7 @@ __attack dog__ _n_
 __attain__ _v_ :two::shit: _I wish you success in attaining your dream._  
 __attainability__  
 __attaining__ :open_mouth: _I wish you success in attaining your dreams._  
+__attendee__ _n_  
 __attest__ _v_  
 __attire__ :two::shit:  
 __attrition__ :four::shit:  
@@ -541,8 +541,7 @@ __backburner__ _n_
 __backdrop__ _n_ :four::shit: _These massacres took place against the backdrop of a war._  
 __backlash__  
 __backlit__  
-__backlog__ :two: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
-__backlog__ _n_  
+__backlog__ _n_ :three: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backsplash__ _n_ _A new tile backsplash._  
 __backwater__ :two::shit: _An academic backwater._  
 __backwoods__  
@@ -1558,6 +1557,7 @@ __coonasses__
 __coop__ _To fly the coop._  
 __coops__ _Chicken coops._  
 __cooze__ _n_ :two::shit:  
+__cop out__  
 __copacetic__ _adj_ :five: _informal_ In excellent order. _He said to tell you everything is copacetic._  
 __copper-bottom hit__  
 __copping__ _v_ :two::shit: _You're copping to a murder beef._  
@@ -1662,8 +1662,7 @@ __critique__ _v_
 __critters__  
 __croak__ _v_  
 __croaked__  
-__crochet__ _v_  
-__crochet__ _v_ (crocheting) :two::shit:  
+__crochet__ _v_ :three::shit: (crocheting)  
 __crones__ _n_ :two::shit:  
 __cronies__ _n_ :three::shit: _Military cronies._  
 __crony__  
@@ -2808,7 +2807,7 @@ __go a long way__ _Go a long way toward minimizing damage._
 __go awry__ :two::shit:  
 __go native__ _You going native on me, Supercop?_  
 __go over the top__  
-__go south__ _This one went south on me._  
+__go south__ :two::shit: _This one went south on me._  
 __go to the dogs__  
 __go-ahead goal__  
 __go-for-broke__  
@@ -5249,8 +5248,7 @@ __rolling caisson__
 __rolling hills__ :two::shit: :es: colinas (onduladas)  
 __rolling meadows__  
 __rolling__  
-__rollout__  
-__rollout__ _n_  
+__rollout__ _n_ :two::shit:  
 __rollouts__  
 __rollovers__  
 __romp__ :three::shit:  
@@ -5643,8 +5641,7 @@ __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he near
 __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
 __show of hands__  
 __show runner__ :two::shit:  
-__show-off__ (or showoff?)  
-__show-off__ _n_  
+__show-off__ _n_ :two::shit: (or showoff?)  
 __showboat__ _v_  
 __showdown__ :five: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showdowns__  
@@ -5927,7 +5924,7 @@ __snuff__
 __snug__ _v__ :two::shit:  
 __snuggles__  
 __snugly__  
-__so to speak__ :two::dart::shit:  
+__so to speak__ :three::dart::shit:  
 __soap opera__  
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __sobering__  
@@ -5978,8 +5975,7 @@ __spark plugs__
 __sparred__ _v_  
 __spars__ _n_  
 __spat__ _n_ :four::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
-__spate__  
-__spate__ _n_ :five: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
+__spate__ _n_ :six: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spay__ _v_  
 __spd__  
 __speakeasy__  
@@ -6205,8 +6201,7 @@ __stinkers__ _n_
 __stinky-winky__ _Stinky-winky front-loader._  
 __stintful__  
 __stipend__ _n_ :two::shit:  
-__stipulate__  
-__stipulate__ _v_  
+__stipulate__ _v_ :two::shit:  
 __stir__ _v_  
 __stirring__ _adj_ :two::shit: _Stirring tales._  
 __stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
@@ -6711,8 +6706,7 @@ __traipsing__
 __trample__ _v_ :eight::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __transient__  
-__trappings__  
-__trappings__ _He has all the trappings of a New York insider._  
+__trappings__ :two::shit: _He has all the trappings of a New York insider._  
 __traps__ _n_  
 __trashing__ _v_  
 __travails__  
@@ -6734,8 +6728,7 @@ __treys__ :two::shit:
 __tribulation__ _n_  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick pad__  
-__trickle down__  
-__trickle down__ _v_ :three: To pass from high-ranked people to lower-ranked people.  
+__trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
 __trickle-down__ _n_ :four::shit: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._  
 __trickle<sup>1</sup>__ _n_ :eight: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._  
@@ -7246,8 +7239,7 @@ __womanizer__
 __womanizing__  
 __wondrous__ :two::shit:  
 __wonk__ _n_ :three::shit: _An economic wonk._ _A telegenic policy wonk._  
-__wonky__  
-__wonky__ _Wonky details._  
+__wonky__ :two::shit: _Wonky details._  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood pellets__  
 __wood rasp__ _n_  
