@@ -991,7 +991,7 @@ __broached__ _v_
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __brocade__  
 __brogue__ _n_ :two::shit:  
-__broken English__  
+__broken English__ :two::dart:  
 __broken accent__  
 __broker__ _v_ :six::shit: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::shit:  
@@ -1718,7 +1718,7 @@ __curfew__ :three: _n_ A regulation requiring people to remain indoors between s
 __curios__  
 __curlicued__ _v_  
 __curlicues__  
-__curmudgeon__ :two::shit:  
+__curmudgeon__ _n_ :three: An ill-tempered person full of resentment and stubborn notions.  
 __curry__ _v_ :four::shit: _A blatant effort to curry favor._  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ :two::shit: _A cursory glance._  
@@ -2012,7 +2012,7 @@ __dot__ _v_ (dotted) Mark with a dot.
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __double bill__  
 __double dip__  
-__double down__ _v_ :five::shit: _Doubling down on sanctions._  
+__double down__ _v_ :six: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
 __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-decker bus__  
 __double-decker__ _Double-decker bus._  
@@ -4631,7 +4631,7 @@ __plaudits__
 __play ball__  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play havoc__  
-__play it safe__  
+__play safe__ :two::shit: (play it safe)  
 __play short__  
 __play the tails off__ _I'm proud of our defense. They played their tails off._  
 __playbook__ :three::shit: _The industry's playbook._  
@@ -5709,7 +5709,7 @@ __sinew__ :three::shit:
 __sinewy__ _adj_ :five::shit: _A sinewy man._  
 __singed__ _v_  
 __singletree__ _Singletree plow._  
-__singling out__  
+__single out__ _v_ :two: To select one from a group and treat differently.  
 __siphon__ _It is fairly easy to syphon profits fr
 __siphoned__ _v_  
 __siphoning__ _v_  
