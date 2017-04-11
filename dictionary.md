@@ -28,8 +28,7 @@ __B & E__ :two::shit: _Somebody did a B&E on you._
 __BAR__ _BAR man._  
 __BB__ :three: _n_ A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BO__ :two::shit:  
-__BS__  
-__BS__ _One of our core values is: Open company, no BS._  
+__BS__ :two::shit: _One of our core values is: Open company, no BS._  
 __Big C__ Cancer?  
 __Big Pharma__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
@@ -835,8 +834,7 @@ __blue string__
 __blue-blood__  
 __blue-collar men__  
 __bluegill__  
-__blueprint__  
-__blueprint__ :two::shit:  
+__blueprint__ :three::shit:  
 __blueprints__  
 __bluff__  
 __bluffing__ _v_  
@@ -2593,8 +2591,7 @@ __for the sake of__
 __foraged__  
 __foragers__  
 __foray__ :four: /ˈfɒreɪ/ _n_ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
-__forcible__  
-__forcible__ :two::shit:  
+__forcible__ :three::shit:  
 __fore and aft__  
 __fore__ _n_ :three::shit:  
 __forebode__ _v_ :five: (foreboding) _v_ __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
@@ -3362,8 +3359,7 @@ __incubus__
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :three: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __indefatigable__ _adj_ :three::open_mouth: Incapable or seemingly incapable of being fatigued; tireless.  
-__indelible__  
-__indelible__ :four::shit::open_mouth: _An indelible mark._  
+__indelible__ :five::shit::open_mouth: _An indelible mark._  
 __indentured__  
 __indict__ _v_ :three::shit:  
 __indictment__ :two::shit:  
@@ -3388,8 +3384,7 @@ __injury time__
 __injury-marred__ _Federer had an injury-marred season._  
 __inkling__ _n_ :two::shit:  
 __innumerate__  
-__inordinate__  
-__inordinate__  
+__inordinate__ :two::shit:  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inroads__ :two::shit:  
 __inscrutable__  
@@ -3875,8 +3870,7 @@ __mamasan__
 __manacle__ _n_  
 __mandalas__ _n_  
 __mangy__  
-__manhandle__ _v_  
-__manhandle__ _v_ _Manhandling the striker around the waist._  
+__manhandle__ _v_ :two::shit: _Manhandling the striker around the waist._  
 __manhole cover__  
 __manhung__ _n_  
 __manicured landscape__  
@@ -4935,8 +4929,7 @@ __quandary__ :six: Difficult dilemma. _All-Star managers face quandary._
 __quarter__ _The team's front office is respected in many quarters._  
 __quarters__ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
-__quash__ _v_  
-__quash__ _v_ :five::shit: (quashed) _To quash her subpoena._  
+__quash__ _v_ :six::shit: (quashed) _To quash her subpoena._  
 __quavering__  
 __quay__ _n_  
 __queasiness__ _There was queasiness among many residents._  
@@ -5446,8 +5439,7 @@ __score__ :three: A group or set of twenty or about twenty. _Five score years ag
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scour__ _v_ :six: (scoured) __1__ __a__ To clean, polish, or wash by scrubbing vigorously: scour a dirty oven. __b__ To remove by scrubbing: scour grease from a pan. __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.
 __scoured__ _v_  
-__scourge__  
-__scourge__ _n_ :six: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
+__scourge__ _n_ :seven: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scours__  
 __scowl__ _v_  
 __scowling__ _v_  
@@ -5963,8 +5955,7 @@ __soft bread__
 __soft-spoken__  
 __soften__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
-__soggy__  
-__soggy__ :four: _adj_ Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
+__soggy__ _adj_ :five: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
 __soiled__  
 __sojourn__ _n_ :six::shit: _The phantasmagorical sojourn along the freeways of LA._   
 __solder__  
@@ -6342,8 +6333,7 @@ __subdue__ _v_ :two::shit:
 __subjugate__ _v_  
 __sublet__ _v_ :three::shit: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
-__subpoena__ :three::shit:  
-__subpoena__ _v_  
+__subpoena__ :four::shit:  
 __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__   
 __subside__ _v_ :two::shit: (subsided)  
