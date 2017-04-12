@@ -623,8 +623,7 @@ __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal
 __bath tissue__  
 __bathhouses__  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
-__baton__  
-__baton__ _n_  
+__baton__ _n_ :two::shit:  
 __battered__ _Her pride remains battered but intact._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __bauble__  
@@ -2412,8 +2411,7 @@ __felt pen__
 __fence-mending__  
 __fend off__ _v_ :two::shit:  
 __fender bender__ _Stranded by a fender bender._  
-__feral__  
-__feral__ :three::shit: _Feral hogs._ _Feral cats._  
+__feral__ :four::shit: _Feral hogs._ _Feral cats._  
 __fern__  
 __ferret out__ _v_  
 __ferret__ :two::shit: _n_  
@@ -3328,8 +3326,7 @@ __implausible__
 __impound__ _v_  
 __imprint__ _n_  
 __imprisoned__  
-__impromptu__  
-__impromptu__ _Some things are impromptu._  
+__impromptu__ :two::shit: _Some things are impromptu._  
 __improvidence__  
 __in all likelihood__  
 __in its own right__  
@@ -3782,8 +3779,7 @@ __longing__
 __longstanding__ :two::shit:  
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
-__lookout__  
-__lookout__ _Be on the lookout._  
+__lookout__ :two::shit: _Be on the lookout._  
 __lookup__ _n_  
 __loophole__ _:es: escapatoria_  
 __loopy__ :two::shit: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
@@ -3847,8 +3843,7 @@ __maggots__
 __magpies__  
 __mahogany__ _He took a leather seat at a magohany bar._  
 __maiden__ _Maiden flight._  
-__maim__ _v_ (maimed)  
-__maim__ _v_ :four: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
+__maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __mainstay__ _A mainstay of his business._  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __make no bones__  
@@ -4230,8 +4225,8 @@ __noxious__
 __nozzle__  
 __nuance<sup>1</sup>__ _n_ :dart::three: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
-__nub__ _Nubby sole design._  
 __nub__ _n_ :two::shit: _A punched nub._  
+__nubby__ _adj_ _Nubby sole design._  
 __nugget__ (nuggets) :two::shit:  
 __nuisance__  
 __nullified__ _v_  
@@ -4326,8 +4321,7 @@ __ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience
 __ordnance__ :three::shit:  
 __ore__  
 __ornament__  
-__ornate__  
-__ornate__ _n_ :three::shit:  
+__ornate__ _n_ :four::shit:  
 __ornery__ :two::shit:  
 __ossified__  
 __osteoarthritis__ _n_ A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
@@ -7009,9 +7003,7 @@ __vig__ _n_ :three::shit:
 __vilify__ _v_  
 __villa__ _n_  
 __villainy__ :open_mouth:  
-__vindicate__ _v_  
-__vindicate__ _v_  
-__vindicated__ _v_  
+__vindicate__ _v_ :three::shit: (vindicated)  
 __vindication__ :six::shit:  
 __vintner__ _n_  
 __vinyasa__ _n_  
@@ -7149,8 +7141,7 @@ __wheelbarrow-sledges__
 __wheeze__  
 __wheezing__ _Wheezing economy._  
 __whereabouts__  
-__wherewithal__  
-__wherewithal__ :three::shit:  
+__wherewithal__ :four::shit:  
 __whet__ _v_ __1__ To sharpen (a knife, for example); hone. __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._  
 __whetted__ _v_  
 __whetting__ _Whetting the appetite for next year's Part 2._  
@@ -7348,8 +7339,7 @@ __zealous__
 __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero in__  
 __zero-sum__ :three::shit: _A zero-sum game._ _A zero-sum relationship._  
-__zest__  
-__zest__ :two::shit: _The zest of one orange._ _Stir in orange zest and orange juice._  
+__zest__ :three::shit: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zingers__  
 __zip-line__ (zip-lining)  
