@@ -1250,8 +1250,7 @@ __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated 
 __celery stalk__  
 __celery__ _n_ :two::shit:  
 __cement bird bath__  
-__cement__ _v_  
-__cement__ _v_ _He quickly cemented votes for the top job._  
+__cement__ _v_ :two::shit: _He quickly cemented votes for the top job._  
 __censure motion__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
@@ -1597,8 +1596,7 @@ __countered__ _Countered kitchen._
 __counterfeit__ :es: falsificación  
 __counterpoint__ _n_  
 __countervail__ _Countervailing evidence._  
-__counts__ _Seven counts of murder._  
-__counts__ _n_ :two::shit: _He was charged with multiple crimes, including counts of money laundering._  
+__counts__ _n_ :three::shit: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coupes__ _Coupes, two door models usually sportier than sedans._  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
@@ -4929,8 +4927,7 @@ __quay__ _n_
 __queasiness__ _There was queasiness among many residents._  
 __queasy__ :two: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __queer__ _v_  
-__quell__ _v_  
-__quell__ _v_ :nine:(quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
+__quell__ _v_ :nine::arrow_up_small::o2: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quench__  
 __quenches__ _v_  
 __quibble__ _v_  
@@ -5117,9 +5114,8 @@ __relief teams__
 __relief__ :two::shit: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
 __reliever__  
 __relinquish__ _v_ :six: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on. _To relinquish the throne._  
-__relish__ :two: Enjoy greatly. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._  
-__relish__ _Aunts were canning peaches and zucchini relish._  
-__relished__  
+__relish<sup>1</sup>__ :three: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
+__relish<sup>2</sup>__ _v_ __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
 __remanded__ _v_  
 __remembrance__ :three: _n_ The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
@@ -6841,8 +6837,7 @@ __unabashed__ _adj_ :two: Not ashamed, disconcerted, or apologetic; boldly certa
 __unabated__ :two::shit:  
 __unalienable__  
 __unanimous__  
-__unapologetic__  
-__unapologetic__  
+__unapologetic__ :two::shit:  
 __unapologetically__  
 __unassuming__ _Hollande, an unassuming and bespectacled Socialist._  
 __uncouth__  
