@@ -1124,10 +1124,8 @@ __buzz<sup>2</sup>__ _v_ :two::shit: _Sending submarines to buzz Europe._ _For 1
 __buzzards__ _n_ :two::shit:  
 __buzzer__ _Durent Durent missed a floater at the buzzer__  
 __buzzkill__  
-__by all accounts,__  
-__by all accounts__ :dart:  
-__by and large__  
-__by and large__ :two::shit: :es: en líneas generales, en general  
+__by all accounts__ :dart::two::shit:  
+__by and large__ :three::shit: :es: en líneas generales, en general  
 __by storm__  
 __by the book__  
 __by the same token__  
@@ -2025,8 +2023,7 @@ __doorbuster__ (door-buster) :four: A doorbuster is a marketing and sales strate
 __doorknob hanger__  
 __doormat__  
 __doozy__ :two: _Informal_ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
-__dopey__ _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
-__dopey__ _adj_  
+__dopey__ _adj_ :two::shit: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __dormer__ _n_ :camera:  
 __dot__ _v_ (dotted) Mark with a dot.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
@@ -2162,8 +2159,7 @@ __détente__ :two::shit: _Can the détente be rolled back?_ _The recent détente
 __e-blasts__  
 __earbuds__ :camera:  
 __early-onset__ _Early-onset Alzheimer's disease._  
-__earmark__ _v_  
-__earmark__ _v_  
+__earmark__ _v_ :two::shit:  
 __earmuffs__  
 __earnest__ :two::shit:  
 __earrings__  
@@ -2372,8 +2368,7 @@ __fair shake__
 __fait accompli__  
 __fall into place__  
 __fall out of love__  
-__fall short__  
-__fall short__  
+__fall short__ :two::shit:  
 __fallback__ _The fallback option._  
 __falloff__  
 __fallout__ :nine::arrow_up_small::o2: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
@@ -3381,8 +3376,7 @@ __indefatigable__ _adj_ :three::open_mouth: Incapable or seemingly incapable of 
 __indelible__ :five::shit::open_mouth: _An indelible mark._  
 __indentured__  
 __indict__ _v_ :three::shit:  
-__indictment__  
-__indictment__ :two::shit:  
+__indictment__ :three::shit:  
 __inducements__  
 __induct__  
 __induction__ :two::shit:  
@@ -4075,8 +4069,7 @@ __monsoon__
 __monstrosity__ :open_mouth:  
 __moody__  
 __moon roof__  
-__moonshine__ :es: alambique?  
-__moonshine__ :three::shit: (spirit) _People suspected of brewing moonshine._  
+__moonshine__ :four::shit: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
 __moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :three: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __mooted__  
@@ -5677,8 +5670,8 @@ __shot in the arm__
 __shotgun cottage__  
 __shotgun house__  
 __shotput__ _n_  
-__shoulder__ _Even pulling onto shoulder causes huge jams._  
-__shoulder__ _v_  
+__shoulder<sup>1</sup>__ _n_ _Even pulling onto shoulder causes huge jams._  
+__shoulder<sup>2</sup>__ _v_  
 __shoulders__ :camera: _The shoulders of the freeway will be wider._  
 __shout-out > give a shout-out__  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
@@ -5824,8 +5817,7 @@ __sleepwalking__
 __sleepwear__ (vs sportswerar, etc.)  
 __sleugh__ _Sassy (TV) sleugh._  
 __sleuthing__  
-__slew__  
-__slew__ :seven: /sluː/ :octocat: !few _n_ A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
+__slew__ _n_ :eight: /sluː/ :octocat: !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ :dart:  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :three::shit: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
@@ -6205,8 +6197,7 @@ __stealthy__
 __steamer trunk__ _A steamer trunk lay opened by the couch._  
 __steamrolled__ _v_  
 __steeds__ _n_. 
-__steep__ :four::shit: _He faces a steep learning curve._ _A steep increase._ _Steep decline._  
-__steep__ :two::shit: _A steep battle._  
+__steep__ :six::shit: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
 __steeped__ _v_ _Tea steeped in teapots._  
 __steeple__ _n_ :two: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town.  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
@@ -7359,8 +7350,7 @@ __yearning__ _n_ :four: Prolonged unfulfilled desire or need. _Syn_ longing
 __yearnings__  
 __yellow wine__  
 __yelps__ _Puppy yelps._  
-__yesteryear__  
-__yesteryear__  
+__yesteryear__ :two::shit:  
 __yield__ :two::shit: _Failing to yield to pedestrians._  
 __yin and yang__  
 __yips__  
