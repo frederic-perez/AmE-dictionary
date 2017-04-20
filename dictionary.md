@@ -1955,8 +1955,7 @@ __disparaged__ _v_
 __disparagement__ :two::shit:  
 __disparaging__ :two::shit:  
 __dispatch__ _v_  
-__dispatcher__  
-__dispatcher__ _n_  
+__dispatcher__ _n_ :two::shit:  
 __dispel__ _v_ :four::shit: (dispelled)  
 __dispirited__  
 __dispiriting__ _Dispiriting results._  
@@ -2424,8 +2423,7 @@ __felony__ _n_ A crime regarded in the US and many other judicial systems as mor
 __felt pen__  
 __fence-mending__  
 __fend off__ _v_ :two::shit:  
-__fender bender__  
-__fender bender__ _Stranded by a fender bender._  
+__fender bender__ :two::shit: _Stranded by a fender bender._  
 __feral__ :four::shit: _Feral hogs._ _Feral cats._  
 __fern__  
 __ferret out__ _v_  
@@ -4017,8 +4015,7 @@ __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––w
 __misdemeanor__ :two::shit:  
 __miserable__ _We are miserable._  
 __misfire__ _v_ (misfiring) :two::shit: _One misfire in the 2000s._  
-__misgivings__  
-__misgivings__  
+__misgivings__ :two::shit:  
 __mishap__  
 __mishmash__  
 __misnomer__ :five: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
@@ -4426,8 +4423,7 @@ __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's ju
 __pageboy__  
 __pail__ _n_ :two::shit: _A lunch pail._  
 __painter__  
-__palatable__  
-__palatable__  
+__palatable__ :two::shit:  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
 __paleo__  
 __pall__ _n_ :four::shit: _The tragedy casts a pall over Austin._  
@@ -5127,8 +5123,7 @@ __regulation__ :two::shit: _Kreider scored the lone goal in regulation (vs in ov
 __regulatory muster__  
 __regulatory__  
 __rehash__ _v_  
-__reinstate__  
-__reinstate__ _v_  
+__reinstate__ _v_ :two::shit:  
 __rejiggered__  
 __rejoice__ _v_  
 __rekindle__ _v_ :two::shit: _We must rekindle the fire of idealism in this country._  
