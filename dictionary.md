@@ -670,6 +670,7 @@ __beet__
 __befall__  
 __befit__ (befits, befitting) :two::shit: _v_  
 __befitting__  
+__before you know it__  
 __befuddled__  
 __befuddling__  
 __beg__ _All of this begs the question of Gallego's own voting record._  
@@ -1623,8 +1624,7 @@ __coveted__ _v_ :two::shit:
 __covey__  
 __cow__ _v_ _Law makers cowed by powerful unions._  
 __cowboy__ _v_ :two::shit:  
-__cowering__ _v_  
-__cowering__ _v_  
+__cowering__ _v_ :two::shit:  
 __coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __crab lice__ _n_  
 __crack__ _v_ _He cracked 90 mph on the radar gun._  
@@ -2674,8 +2674,7 @@ __freeloading__
 __freewheel__ _v_ :three::shit: (freewheeling) _Freewheeling style._ _Freewheeling phone calls._  
 __freewheeling__ :two::shit: _A freewheeling conversation._  
 __frenzy__  
-__fret__  
-__fret__ _v_  
+__fret__ _v_ :two::shit:  
 __fretful__  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretting__ _v_ :three::shit:  
@@ -3131,8 +3130,7 @@ __hectic__ _adj_
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedonic__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
-__heed__ :five: _v_ :es: hacer caso de  
-__heed__ _Trump supporters should heed calls from Democrats to limit executive power._  
+__heed__ :six: _v_ _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__  
 __heedlessly__  
 __heel__ _A heel who learns how to be a good egg._  
@@ -3142,8 +3140,7 @@ __hefty__
 __heinous__ :three::shit:  
 __heirlooms__ :three::shit: _Family heirlooms._  
 __heist capers__  
-__heist__ _A jewelry heist._  
-__heist__ _A true-life heist drama._  
+__heist__ :two::shit: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
 __hellbent__ :three::shit:  
@@ -3733,8 +3730,7 @@ __leveled__ :two::shit:
 __leverage__ _To exert leverage._  
 __leviathan__  
 __levied__ _v_ :four::shit: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levy__  
-__levy__ :two::shit:  
+__levy__ :thre::shit:  
 __lewd__ :two::shit:  
 __liability__ :two::shit:  
 __liaison__ 
@@ -3873,8 +3869,7 @@ __lurk__ _v_ /ləːk/ (lurked, lurking) :five: __1__ Be or remain hidden so as t
 __lush__ _adj_ :six: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lustre__  
 __lye water__  
-__lynch__ :open_mouth: _v_ :two: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
-__lynch__ _v_  
+__lynch__ _v_ :three::open_mouth: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __macaroon__  
 __mackerel__  
 __mackinaw__  
@@ -4323,6 +4318,7 @@ __oft__ :two::shit: _The oft-hated SAT._
 __ogle__ _v_  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
+__okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okra gumbo__  
 __okra__ :two::shit:  
 __old hat__  
@@ -4351,8 +4347,7 @@ __onlookers__
 __onset__  
 __onslaught__ :two::shit:  
 __onus__  
-__oompah__  
-__oompah__ _The house oompah band._  
+__oompah__ :two::shit: _The house oompah band._  
 __oomph__  
 __ooze__ _v_ :eight: (oozed, oozing) __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
@@ -5389,8 +5384,7 @@ __s/s__ Stainless steel. _s/s appliances._
 __sac-a-lait__  
 __safeguard__  
 __sag__ (sagging) :five: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
-__sage__ _Sage counsel._  
-__sage__ _Toss with sage and cranberries._  
+__sage__ :two::shit: _Sage counsel._ _Toss with sage and cranberries._  
 __sagging__ _adj_ :four::shit: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
 __sahib__  
@@ -6255,8 +6249,7 @@ __stiff<sup>1</sup>__ _adj_ :three::shit: _Correa had a stiff challenge from sho
 __stiff<sup>2</sup>__ _v_ _Trump is known for stiffing people he owes._  
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
 __stiffer__ _Unleasing stiffer penalties._  
-__stifle__  
-__stifle__ _v_ (stifles, stifled, stifling) :seven: _v_ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
+__stifle__ _v_ :eight::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifled__ _v_  
 __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
 __still life__ _Still life painting._  
@@ -7067,8 +7060,7 @@ __vig__ _n_ :three::shit:
 __vilify__ _v_  
 __villa__ _n_  
 __villainy__ :open_mouth:  
-__vindicate__ _v_  
-__vindicate__ _v_ :three::shit: (vindicated)  
+__vindicate__ _v_ :four::shit: (vindicated)  
 __vindication__ :six::shit:  
 __vintner__ _n_  
 __vinyasa__ _n_  
@@ -7393,7 +7385,7 @@ __yoke__ _Egg yoke._
 __yokels__  
 __yonder__  
 __yore__ _Days of yore._  
-__you name it__ :dart:  
+__you name it__ :dart::two::shit:  
 __your face sounds familiar__ :es: _tu cara me suena_  
 __yowza__  
 __yule__ :two::shit: _If you believe, yule receive!_  
