@@ -3327,8 +3327,7 @@ __iconoclast__
 __id__ _The ramblings of a sleepless I'd._  
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
-__idolatry__  
-__idolatry__  
+__idolatry__ :two::shit:  
 __if you will__ :open_mouth:  
 __iffy__ :two::shit: _Iffy call._  
 __ignition interlocks__  
@@ -6179,9 +6178,7 @@ __standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly 
 __standout__ :two::shit:  
 __standstill__ _n_ :two::shit: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __staph__ _Staph infections._  
-__staple__ _n_  
-__staple__ _n_  
-__staples__ _There are staples we've come to expect in the American frontier novel._  
+__staple__ _n_ :three::shit: (staples) _There are staples we've come to expect in the American frontier novel._  
 __star-69ing__ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
 __star__ _v_  
 __starboard__ _n_  
@@ -6231,8 +6228,7 @@ __stentorian__ _adj__ :two: A booming voice. If you're teaching a group of unrul
 __stepfather__ _(vs godfather)_  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
 __sterling__ _A sterling example._  
-__stern__  
-__stern__ _n_  
+__stern__ _n_ :two::shit:  
 __stew-bums__ _n_  
 __stew__ _n_ :two::shit: _It captures the stew of hate._  
 __stewards__ _Concerned stewards of the Earth._  
@@ -6419,8 +6415,7 @@ __superintendent__
 __superpooch__  
 __supping__ _v_  
 __supplant__  
-__supple__  
-__supple__  
+__supple__ :two::shit:  
 __suppleness__ _Mental suppleness._  
 __supremacist__ _A whote supremacist._  
 __surefire__  
@@ -6973,8 +6968,7 @@ __upfield__
 __upheaval__ :four::shit:  
 __uphill battle__  
 __uphold__ _v_ :seven: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
-__upkeep__  
-__upkeep__ _n_  
+__upkeep__ _n_ :two: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __upmarket__  
 __uppercut__  
 __uppermost__  
