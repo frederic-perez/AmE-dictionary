@@ -947,8 +947,7 @@ __box score__
 __box__ _soccer_ :es: portería?  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __bozos__ _n_  
-__brace__ _v_  
-__brace__ _v_ :seven: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._  
+__brace__ _v_ :eight: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._  
 __bracing__ _v_  
 __bracketology__ _Daily bracketology updates._  
 __brain drain__  
@@ -1292,8 +1291,7 @@ __charter<sup>1</sup>__ _n_ :two::shit:
 __charter<sup>2</sup>__ _v_  
 __charter__ _Charter schools._  
 __chartreuse__  
-__chasm__  
-__chasm__ _n_ :three: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :four: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chastened__  
 __chastize__ _v_  
 __chattel__  
@@ -1667,8 +1665,8 @@ __crewcats__
 __crewcut__ _A crewcut man._  
 __crib__ :two::shit: _n_  
 __cribbage__ _game_  
-__crimp__  
-__crimp__ _v_ :nine: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
+__crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
+__crimp<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimson__ _Crimson cereal._  
 __cringe__ _v_ :five: __1__ To shrink back, as in fear; cower. _:es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe > me da horror_  
 __crinkle__ _v_ (crinked, crinkling) :five::shit:  
@@ -2644,8 +2642,7 @@ __forgone__
 __fork__ _Gordon at fork in the road._  
 __forlon__  
 __forlorn__ _adj_ :five: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
-__forsake__ _v_  
-__forsake__ _v_  
+__forsake__ _v_ :two::shit:  
 __forte<sup>1</sup>__ _n_ Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __fortified wine__  
@@ -6880,8 +6877,7 @@ __twitch<sup>1</sup>__ _n_
 __twitch<sup>2</sup>__ _v_ :two::shit:  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two-timer__  
-__tycoon__  
-__tycoon__ :two::shit:  
+__tycoon__ :three::shit:  
 __typecast__ :open_mouth: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyranny__  
 __tyrant__ :two::shit:  
