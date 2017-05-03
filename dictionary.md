@@ -357,6 +357,7 @@ __ahead of time__ _I apology ahead of time._
 __ahem__  
 __aide__ _n_  
 __aides__  
+__ailing__  
 __ailing__ _It is ailing the NFL._  
 __ailment__ :two::shit:  
 __ails__ _v_ :two::shit:  
@@ -974,6 +975,7 @@ __brain drain__
 __brainchild__  
 __brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
+__braised__ _Braised turkey and gravy stuffing._  
 __brambles__ :two::shit:  
 __brander__  
 __brash__ :two::shit: _Brash talk._ _It sounded brash._  
@@ -1113,6 +1115,7 @@ __burgeoning__
 __burgundy__ _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :two::shit:  
+__burly__  
 __burly__ :two::shit: _A burly man._  
 __burnish__ _v_ :six::shit: (burnishing)  
 __burp__ :two::shit:  
@@ -1529,7 +1532,7 @@ __comps__ _n_ (Competitors?)
 __comptroller__ _n_ :two: Variant of controller, used esp as a title of any of various financial executives.  
 __compulsory school__  
 __compulsory__ _A compulsory Third World condition._  
-__con artist__ :two::shit: _A pair of con artists target a noblewoman._  
+__con artist__ :three::shit: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
 __con<sup>1</sup>__ _n_ :two::shit: _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :two::shit:  
@@ -3264,6 +3267,7 @@ __hither__ :two::shit: _He was flinging the ball hither and thither, chucking it
 __hitherto__  
 __ho-hum__ _adj_ :three: _Informal_ So lacking in interest as to cause mental weariness; dull; mediocre. _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __ho__  
+__hoagie__  
 __hoary__ :two::shit:  
 __hobble__ _v_ :four::shit: (hobbled)  
 __hobbled__ _v_ _A few shops were hobbled in 2015._  
@@ -3433,6 +3437,7 @@ __in short order__
 __in the fold__ _They kept the devious students in the fold._  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::shit: (football) _Standing tall in the pocket._  
+__in the thick__ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in-house__ _In-house experts._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_  
 __inadvertent__  
@@ -3535,6 +3540,7 @@ __jamboree__ :two::shit: _v_
 __jammies__ _n_  
 __jams__ _n_  
 __jar__ _v_ :two::shit:  
+__jarring__  
 __jarring__ :two::shit: _Jarring evidence._  
 __jaundice__ _v_ :two::shit:  
 __jaunt__ _n_  
@@ -4660,6 +4666,7 @@ __peppy__ _adj_ :two::shit: _Peppy but efficient powertrain options._
 __perch<sup>1</sup>__ _n_  
 __perch<sup>2</sup>__ _v_ :three::shit: 
 __perch__  
+__perch__ _His perch for 14 years._  
 __perennial__ :two::shit:  
 __perfidious__  
 __perfunctory__ _adj_ :four: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
@@ -4792,6 +4799,7 @@ __playwright__ :two::shit:
 __plea deal__  
 __plea__ _n_ :four::shit: _A prayerful plea to brek free of alcohol._  
 __plead out__  
+__plead__ _v_ _Lee is pleading with viewers to watch hthe film with an open mind._  
 __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
 __pledge__ _n_ :two::shit:  
 __plethora__ :two::shit:  
@@ -4964,6 +4972,7 @@ __pro bono__
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __probity__  
 __proceeds__ :three: _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
+__proceeds__ :two::shit:  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::shit: (procuring)  
 __prod__ (prodded) :two::shit: :es: _empujón_  
@@ -5181,6 +5190,7 @@ __rattan__
 __rattle__ _v_ :six::shit: (rattled) _Rattle the world._  
 __rattlers__   
 __raucous__ _adj_ :seven: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
+__raunchy__  
 __raunchy__  
 __ravaged__ _v_ :two::shit:  
 __ravages__ :two::shit: _The potential ravages of a man-manipulated virus at a research center._  
@@ -5966,6 +5976,7 @@ __slice of pie__
 __slick<sup>1</sup>__ _n_ :three::shit: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::shit:  
 __slick<sup>3</sup>__ _adj_ :five::shit: _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _They were slick as hell._  
+__slick__ _adj_  
 __slide__ :two::shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _n_ :three::shit: _What's up with someone's slider?_  
 __slight__ _n_ :four::shit: _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
@@ -6112,6 +6123,7 @@ __snuff__
 __snug__ _v__ :two::shit:  
 __snuggles__  
 __snugly__  
+__so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ :three::dart::shit:  
 __soap opera__  
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
@@ -6708,6 +6720,7 @@ __telegenic__
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
 __telling__ _In their telling, the father's experience in Cuba becomes a parable._  
+__telling__ _n_ _A sensitive telling of the case of Richard and Mildred Loving._  
 __telltale__  
 __temp__ (temps) _n_ :two: Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __tempered__ _v_  
@@ -6767,6 +6780,7 @@ __thorny__ _adj_
 __thoroughfare__  
 __thoroughly__  
 __thrall__ :four::shit:  
+__thrall__ _n_  
 __thrash__ _v_ :four::shit: (thrashed) _Toronto thrashed New York City F.C._  
 __throbbed__ _v_ :three::shit: (throbs, throbbing)  
 __throes__ :three::shit:  
