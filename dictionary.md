@@ -910,7 +910,7 @@ __bombast__ _n_ :four: __1__ Grandiloquent, pompous speech or writing. __2__ _Ob
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombsights__  
 __bon ton__  
-__bona fide__ _adj_ :three: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
+__bona fide__ _adj_ :four: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
 __bondage__  
 __bone > funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -1572,6 +1572,7 @@ __conjure__ :two::shit:
 __conman__  
 __connived__  
 __conscripted__  
+__consecutive__  
 __consensual__  
 __consensus__  
 __consequently__  
@@ -1827,6 +1828,7 @@ __darn__
 __darned__  
 __darning__  
 __dart__ (darting) :two::shit: _v_  
+__dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dateline__  
 __daubed__ _A swastika was daubed on a science center window._  
 __daunting__ :three: Seeming difficult to deal with in prospect; intimidating.  
@@ -1895,6 +1897,7 @@ __deking__
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__  
 __delisted__ _v_  
+__delivered__ _On Thursday the No. 4-ranked Cougars delivered._  
 __delivers__  
 __dell__ _n_ A small secluded wooded valley.  
 __deluded__  
@@ -2989,7 +2992,7 @@ __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness,
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritty__ _adj_ :six::shit: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzled__ _v_ :two::shit: _Grizzled ballroom vets._  
-__groan__  
+__groan__ _v_ :two::shit:  
 __grocer__ _n_ :two::shit:  
 __grog__  
 __groomed__  
@@ -4503,7 +4506,7 @@ __outright__ _adj?_
 __outré__  
 __outset__ _n_ :four::shit: _The outset of his campaign._  
 __outshine__ _v_  
-__outshoot__ _v_  
+__outshoot__ _v_ :two::shit: _The Cougars outshot the Sooners 14-6._  
 __outsize__ :two::shit: _An outsize risk._  
 __outspoken__  
 __outspoken__ :six::open_mouth: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
@@ -4667,7 +4670,7 @@ __perch<sup>1</sup>__ _n_
 __perch<sup>2</sup>__ _v_ :three::shit: 
 __perch__  
 __perch__ _His perch for 14 years._  
-__perennial__ :two::shit:  
+__perennial__ :three::shit:  
 __perfidious__  
 __perfunctory__ _adj_ :four: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
@@ -4877,6 +4880,7 @@ __portents__ _n_
 __portly__  
 __posh__ _adj_ :three: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_  
+__posited__ _v_ :open_mouth: _BYU has posited themselves well._  
 __posse__ _n_ :two::shit: _A posse clad._  
 __possum__ _n_ :seven::shit: _To play possum._ _He'd been playing possum._  
 __poster boy__  
@@ -5683,7 +5687,7 @@ __seesaw<sup>2</sup>__ _v_
 __seethe__ :eight::dart: _v_ (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
 __segue__  
 __seine__ _v_  
-__seize__ _It is important to seize the opportunity._  
+__seize__ _v_ :two::shit: _Seizing an opportunity._  
 __seizing__ :three::shit:  
 __sekuhata__ Sexual harassment.  
 __select__ :two::shit: (vs selected) _Opens today in select cities._ _Free shipping on select items._    
@@ -6565,6 +6569,7 @@ __supplant__
 __supple__ :two::shit:  
 __suppleness__ _Mental suppleness._  
 __supremacist__ _A whote supremacist._  
+__sure enough,__ _Sure enough, that's what happened._  
 __surefire__  
 __surly__ _adj_ Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
@@ -6608,6 +6613,7 @@ __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._
 __swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
 __swerved__ _v_ :five::shit: (swerving)  
 __swift__ _adj_ :three::shit: _A swift response._  
+__swiftly__  
 __swilled__ (swilling) :three::shit: _Swilling wine._  
 __swilling__ _Beefy men swilling champagne from magnums._  
 __swim tube__  
@@ -6620,9 +6626,8 @@ __switch-blade__ _Switch-blade artists._
 __swiveling__ _v_  
 __swoon__ _v_ :nine: (swoons, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swooned__ _v_  
-__swoop<sup>1</sup>__ _n_ :three::shit:  
-__swoop<sup>2</sup>__ _v_ :four::shit: (swooped, swooping)  
-__swoop__ _v_  
+__swoop<sup>1</sup>__ _n_ :four::shit:  
+__swoop<sup>2</sup>__ _v_ :five::shit: (swooped, swooping)  
 __swooshing__  
 __sycophants__  
 __sycophants__  
@@ -6946,7 +6951,7 @@ __tribulation__ _n_
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
-__trickle out__ _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
+__trickle out__ _v_ :two::shit: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
 __trickle-down__ _n_ :four::shit: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._  
 __trickle<sup>1</sup>__ _n_ :eight: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._  
 __trickle<sup>2</sup>__ _v_ :four::shit:  
@@ -7084,7 +7089,7 @@ __unduly__ :three::shit:
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__ _v_ :two::shit: _They are unfazed by all fof this._  
+__unfazed__ _v_ :three::shit: _They are unfazed by all fof this._  
 __unfettered__ _v_ :eight::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflappable__ :four::shit: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
