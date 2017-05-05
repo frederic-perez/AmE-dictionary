@@ -395,6 +395,7 @@ __also-ran__ _To become an also-ran._
 __also-run__  
 __altar boy__  
 __altitude sickness__  
+__altogether__ _Coach Rose was not altogether pleased with the effort._  
 __alum__ :two::shit: _A Vanderbilt alum._  
 __aluminum__  
 __amass__ _v_ (amassed, amassing) :two::shit::open_mouth: :es: amontonar, acumular  
@@ -442,6 +443,7 @@ __apace__ _Concussion concerns continue apace._
 __ape__ _v_  
 __aphorism__  
 __aping__  
+__aplenty__  
 __aplomb__ :two: _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apocryphal__ :open_mouth:  
 __apologist__  
@@ -924,7 +926,8 @@ __booby-trapped 105's__
 __boogeyman__  
 __boogie__  
 __bookcases__  
-__bookend__ _v_  :three::shit:  
+__bookend<sup>1</sup>__ _n_  
+__bookend<sup>2</sup>__ _v_  :three::shit:  
 __bookends__  
 __bookish__  
 __boom and bust__  
@@ -1256,7 +1259,8 @@ __carpool__
 __carrion__ _n_ :dart::three: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry-on bag__  
 __carryover__ _A carryover vehicle._  
-__cart__ _v_ _Quincy was carted off the field._  
+__cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
+__cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
 __cartel__ _n_ :two::shit:  
 __carve out__ _v_ (carved out) :six::shit:  
 __carveouts__  
@@ -1372,6 +1376,7 @@ __choppy__ (choppier) :three: (of a sea, lake, or river) Having many small waves
 __chops__ _n_ :two: _Informal_ A person's or animal's mouth or jaws. _Acting chops._  
 __chuck out__ _v_  
 __chuck__ _v_ :three::shit: (chucked) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._  
+__chuck__ _v_ _When the quarterback chucks a pass with the game on the line._  
 __chuckholes__ _n_  
 __chucking__ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chucklers__  
@@ -1997,7 +2002,7 @@ __disfavor__
 __disgorgement__  
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
-__dish out__ _v_ _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
+__dish out__ _v_ :two::shit: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dishevel__ _v_ :four::shit: (disheveled) _A disheveled look of a beat poet._    
 __dishwasher__ _I worked as a dishwasher._  
 __disillusionment__  
@@ -2236,7 +2241,7 @@ __ebb and flow__ :six::shit: (ebbed and flowed, ebbs and flows) _The ebbs and fl
 __ebb__ _v_  
 __ebullient__ :two::shit:  
 __eclampsia__  
-__edge__ _v_ :two::shit:  
+__edge__ _v_ :three::shit: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :three::shit: _Aaron has got a style that's humble but edgy._  
 __eel__  
 __eerie__  
@@ -2509,6 +2514,7 @@ __feuded__
 __fiat__ _Military fiat._  
 __fiberglass__  
 __fickle__ :two::shit: _A fickle ally._  
+__fiddle-faddle__  
 __fiddled__ _v_  
 __fidget__ _v_  
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
@@ -3506,6 +3512,7 @@ __instilled__ _v_ _She instilled an enduring sense of family._
 __institute__ _v_  
 __insular__ _His small, insular group of loyalists._  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
+__intangible__  
 __intel__ _The intel value he might offer._  
 __intemperance__  
 __interdicting__  
@@ -4015,7 +4022,7 @@ __marmalade__
 __marooned__ _He felt marooned by the silence._  
 __marquee phone__  
 __marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :three: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._  
-__marred__ :four: _adj_ If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence.  
+__mar__ :five: _v_ :open_mouth: (marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marsh__ _n_ :two::shit:  
 __marshal<sup>1</sup>__ _n_  
 __marshal<sup>2</sup>__ _v_ :two::shit: _The community will marshal its resources to help undocumented immigrants._  
@@ -4130,6 +4137,7 @@ __mire__ _v_ :open_mouth::seven::shit: (mired)
 __mired__ _v_ :three::shit: _Britain is now mired in crisis._  
 __mirth__ _n_ :two::shit:  
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
+__miscues__ _n_  
 __misdemeanor__ :two::shit:  
 __miserable__ _We are miserable._  
 __misfire__ _v_ (misfiring) :two::shit: _One misfire in the 2000s._  
@@ -4263,7 +4271,7 @@ __mussed__ _v_
 __mussels__ _n_  
 __mustache__  
 __mustachioed__  
-__muster__ _v_ To assemble or gather: _mustering for inspection._  
+__muster__ _v_ :two: To assemble or gather: _mustering for inspection._  
 __musty__  
 __mutt__ _n_ :five::shit:  
 __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
@@ -4273,6 +4281,7 @@ __mystique__ :open_mouth:
 __mythos__  
 __mélange__ _n_  
 __nab__ _v_ :two::shit: (nabbed) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._  
+__nadir__  
 __name-and-likeness__  
 __name-calling__  
 __names and likeness__  
@@ -4448,7 +4457,7 @@ __onset__
 __onslaught__ :two::shit:  
 __onus__  
 __oompah__ :two::shit: _The house oompah band._  
-__oomph__  
+__oomph__ :two::shit:  
 __ooze__ _v_ :eight: (oozed, oozing) __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open house__ _Educational open house._  
@@ -5191,7 +5200,7 @@ __ratchet__ _v_
 __ratchets__  
 __rattan couch__  
 __rattan__  
-__rattle__ _v_ :six::shit: (rattled) _Rattle the world._  
+__rattle__ _v_ :seven::shit: (rattled) _Rattle the world._  
 __rattlers__   
 __raucous__ _adj_ :seven: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchy__  
@@ -5211,7 +5220,7 @@ __razed__ _v_
 __razor sharp__  
 __razor strop__  
 __razz__ (razzing) _v_ To deride, heckle, or tease. _Razzed the teammate who missed the shot._  
-__razzle-dazzle__  
+__razzle-dazzle__ :two::shit:  
 __reach for the stars__ Have high or ambitious aims.  
 __reach out__ _v_ :four::shit: _Reaching out to prevent aids._  
 __readily__  
@@ -5261,6 +5270,7 @@ __reel__ _v_ (reeling) __1__ To be thrown off balance or fall back. _Reeled from
 __reeling__  
 __referenda__  
 __reffing__  
+__refrain__ _n_  
 __refurbish__  
 __refurbishment__  
 __regal__ _n_ :three: Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country.  
@@ -5317,6 +5327,7 @@ __rescinded__ _v_
 __resiliency__  
 __resistance__  
 __resolve__ _v_ :two::shit: (resolved) _The issue was resolved._  
+__resounding__  
 __respite__  
 __respite__ _n_ :four: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :two::shit:  
@@ -5426,7 +5437,7 @@ __roll on__ _He rolled on the guy who'd hired him for the trucking job._
 __roll out__ :two::shit: _The retailer will roll out deals two days early._  
 __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
-__roll__ _v_ :two::shit: _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._  
+__roll__ _v_ :three::shit: _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
 __rollicking__  
 __rolling back__ _v_  
 __rolling caisson__  
@@ -5500,7 +5511,7 @@ __run errands__
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::shit: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__  
-__runaway__  
+__runaway__ :two::shit: _Bryant was a runaway winner._  
 __runaways__  
 __rung__ _n_  
 __rungs__ _n_ :three::shit: _He deserves to be in the lowest rungs of hell._  
@@ -5572,7 +5583,7 @@ __scallop__ :two::shit: _A scallop-shell logo._
 __scalp bounties__  
 __scalper__ _n_ :three::shit:  
 __scam__ _v_ :four::shit: (scammed)  
-__scampering__ _v_  
+__scamper__ _v_ (scampered, scampering)  
 __scant__ _adj_ :three:Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scapegoated__ _v_  
 __scapular__  
