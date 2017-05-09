@@ -1320,6 +1320,7 @@ __chagrin<sup>2</sup>__ _v_ (chagrined) Cause to feel shame; hurt the pride of.
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk it up__  
+__chalk__ _v_  
 __chalkboard__ _n_  
 __champ__ :two::shit: Champion?  
 __chanting__  
@@ -1467,8 +1468,8 @@ __clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or m
 __clunking__  
 __clunky__ :two::shit:  
 __clutch player__  
-__clutch<sup>v</sup>__ :two::shit: _Butler and Wade were both clutch._  
 __clutch<sup>n</sup>__ :two::shit: _He was a dominant player in the clutch._ _Clutches for iPhone._  
+__clutch<sup>v</sup>__ :two::shit: _Butler and Wade were both clutch._  
 __co-op__ :three::shit:  
 __co-opted__ _v_  
 __coalesce__ _v_ (coalescing) :es: fundirse  
@@ -2739,6 +2740,7 @@ __fray<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (frayed) (of a person's nerv
 __fray__ _n_  
 __frazzled__  
 __free lunch__  
+__free ride__  
 __freebies__ _n_ :three::shit: _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_ :three::shit: (freewheeling) _Freewheeling style._ _Freewheeling phone calls._  
@@ -3314,9 +3316,11 @@ __holler__
 __hollow__ _n_ :two::shit: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__ 
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
+__home-delivery__  
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
+__homeowner__  
 __homespun__  
 __homestand__ :three::shit:  
 __homestead__ :two::shit:  
@@ -3451,7 +3455,7 @@ __in short order__
 __in the fold__ _They kept the devious students in the fold._  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::shit: (football) _Standing tall in the pocket._  
-__in the thick__ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick__ :two::shit: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in-house__ _In-house experts._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_  
 __inadvertent__  
@@ -3551,7 +3555,7 @@ __jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.
 __jam up__ _v_  
 __jamb__ :two::shit: _Window jamb._  
 __jambalaya__ _n_  
-__jamboree__ :two::shit: _v_  
+__jamboree__ :three::shit: _A campfire jamboree._  
 __jammies__ _n_  
 __jams__ _n_  
 __jar__ _v_ :two::shit:  
@@ -4318,7 +4322,7 @@ __nematodes__
 __neorealist__  
 __neoteric__  
 __nepotism__ :three::shit:  
-__nervy__  
+__nervy__ :open_mouth::two::shit:  
 __nest egg__ :three::shit:  
 __nether__  
 __neutered__  
@@ -4712,6 +4716,7 @@ __petulance__
 __pew__ _Church pews._  
 __pewter__  
 __phalanx__ :two::shit:  
+__phase out__  
 __phenom__ :two::shit:  
 __philanderer__  
 __philandering__  
@@ -5241,8 +5246,7 @@ __ream__ _v_ :four::shit: (reamed)
 __reams__ _He watched reams on tape._  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
-__rebate__ :three: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._  
-__rebates__ _Tax rebates._  
+__rebate__ :five: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__ _v_ :four: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
 __rebuke__ _n_ :four::shit:  
@@ -5265,7 +5269,7 @@ __redbones__ _n_
 __redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
 __redemptions__ _n_  
 __redo__ :two::shit:  
-__redolent__ _adj_ :four::shit: _His ceremony was redolent with tension._  
+__redolent__ _adj_ :five::shit: _His ceremony was redolent with tension._  
 __redoubt__ :two::shit:  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
@@ -6117,8 +6121,8 @@ __snare__ _n_ __1__ A trapping device, often consisting of a noose, used for cap
 __snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
 __snarky__ _Snarky remarks._  
 __snarl<sup>1</sup>__ _n_ :two: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
-__snarl<sup>2</sup>__ _v_ :three: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
-__snarl__ _v_ _Snarled airport._  
+__snarl<sup>2</sup>__ _v_ :five: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
+__snarl__ _adj_ _Snarled airport._  
 __snazzy__ :two: _Informal_ Stylish and attractive. _Snazzy little silk dresses._  
 __sneer__ _v_  
 __snick__ _v_  
@@ -6614,6 +6618,7 @@ __swampy__
 __swan song__  
 __swank__  
 __swanky__ _Swanky dinner._  
+__swap__ _n_  
 __sward__ _n_  
 __swashbuckling__  
 __swatches__  
@@ -6815,7 +6820,7 @@ __thrall__ :four::shit:
 __thrall__ _n_  
 __thrash__ _v_ :four::shit: (thrashed) _Toronto thrashed New York City F.C._  
 __throbbed__ _v_ :three::shit: (throbs, throbbing)  
-__throes__ :three::shit:  
+__throes__ :four::shit:  
 __throng__ _n_ _A throng of news media members._  
 __throttle__ _v_  
 __through and through__ _She was a class act through and through._  
@@ -7238,8 +7243,7 @@ __vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmfu
 __viciously__  
 __victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
-__vie__  
-__vie__ _v_ :two: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
+__vie__ _v_ :four: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::shit:  
 __vilify__ _v_  
 __villa__ _n_  
