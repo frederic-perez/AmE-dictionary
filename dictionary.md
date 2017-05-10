@@ -140,6 +140,7 @@ __Katy__ _Got to figure the Red Rifle extracts some revenge on the team he follo
 __Kodiak__  
 __Kool-Aid__  
 __LDS__ :two: (LDS Church) Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
+__LGBTQ+__  
 __LGBTQ__ _Lesbian, gay, bisexual, transgender, queer._  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __Labrador__  
@@ -304,6 +305,7 @@ __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time
 __acerbic__ :two::shit:  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquaintances__ :open_mouth:  
+__acquiesce__  
 __acquittal__  
 __acquitted__  
 __acreage__ :two::shit:  
@@ -509,6 +511,7 @@ __assets__
 __assists__ _Green had 14 rebounds and nine assists._  
 __assuage__ _v_  
 __asthma__ _n_  
+__astute__  
 __asunder__ _A world torn asunder by evil and hate._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at odds__ :two::shit:  
@@ -2256,6 +2259,7 @@ __eerily__ :three::shit:
 __effete__  
 __effigy__ _n_ :three::shit: (effigies)  
 __effort__ _n_ :dart: _Activists launched an effort._  
+__effusive__  
 __eggnog__ _n_ :two::shit: _A big eggnog party._  
 __egotists__  
 __egregious__ _adj_ :four: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
@@ -2411,6 +2415,7 @@ __exhaust__ _Exhaust fans._
 __exhibit A__  
 __exonerate__ :two::shit:  
 __expat__ _Baroque debut for Moscow expat choir._  
+__expediency__  
 __expedient__  
 __expedite__ _v_ :dart::three::shit: _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
@@ -2466,6 +2471,7 @@ __fandom__
 __fangs__ _n_  
 __fannies__  
 __fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
+__far and away__ :open_mouth:  
 __far cry__ :three::shit: _It is a far cry from yhe 1970s._  
 __far-flung__ :two::shit:  
 __farce__  
@@ -2688,7 +2694,7 @@ __for the ages__ :two::shit: _A comeback for the ages._ _A year for the ages._
 __for the sake of__  
 __foraged__  
 __foragers__  
-__foray__ :four: /ˈfɒreɪ/ _n_ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
+__foray__ _n_ :five: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
 __forcible__ :three::shit:  
 __fore and aft__  
 __fore__ _n_ :three::shit:  
@@ -2909,6 +2915,7 @@ __gloating__
 __glob__ :two::shit: _A glob of spit._  
 __gloom__ _n_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
+__gloss__ _v_ _We mustn't gloss over disagreements._  
 __glowering__  
 __glue > a glue-type player__  
 __glum__ :three: _adj_ To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
@@ -3368,7 +3375,7 @@ __hubcaps__
 __hubhub__  
 __hubris__ :three::shit: _Intellectual hubris._   
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
-__huddle__  
+__huddle__ _v_ :two::shit:  
 __huff__  
 __huffed__ _v_ :four::shit: (huffing)  
 __huh__  
@@ -3489,6 +3496,7 @@ __inducements__
 __induct__  
 __induction__ :two::shit:  
 __inequitable__  
+__inequities__  
 __inextricably__ :two::shit:  
 __infamous__  
 __infamous__ _Princess Leia's infamous dual-bun hairstyle._  
@@ -4177,6 +4185,7 @@ __moats__ _n_
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
 __modicum__ _n_ :four: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
+__mogrify__ _v_  
 __mogul__  
 __mogul__ :two::shit:  
 __moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
@@ -4326,6 +4335,7 @@ __nervy__ :open_mouth::two::shit:
 __nest egg__ :three::shit:  
 __nether__  
 __neutered__  
+__newly__ _The newly elected leader of the Senate Democrats._  
 __news media outlets__  
 __news outlet__  
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
@@ -4410,6 +4420,7 @@ __obituary__
 __oblige__ _v_ :five: (obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliges__ _v_  
 __obligue__ _v_  
+__obliterate__ _v_  
 __oblivious__  
 __obnoxious__ :two::shit:  
 __obo__ :two: (abbreviation) Or best offer.  
@@ -5189,6 +5200,7 @@ __ramshackle__ :two::shit:
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :two: One that owns or manages a ranch.  
 __ranchers__ _n_ :two::shit:  
+__rancor__ _n_  
 __range__ _Range war._  
 __rank-and-file__ :six: _n_ (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank__ _v_  
@@ -5750,7 +5762,7 @@ __sewage__ _n_ :two::shit: :es: aguas residuales
 __sewer gas__  
 __sewer grate__ :two::shit:  
 __sewer__ _A sewer pipe._  
-__shack__  
+__shack__ :two::shit:  
 __shackles__ _A bed with built-in shackles._  
 __shades__ :es: gafas?  
 __shady__  
@@ -6030,9 +6042,8 @@ __slit > hi-slit dress__
 __slit<sup>1</sup>__ _n_  
 __slit<sup>2</sup>__ _v_ :two::shit: _Slitted door._ _The screen was slit on the back porch door._  
 __slithering__ :two::shit:  
-__sliver<sup>1</sup>__ _n_ :six::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
+__sliver<sup>1</sup>__ _n_ :seven::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :four::shit:  
-__slivers__ _n_  
 __slob__  
 __slobber__ _v_ :two::shit: (slobbered)  
 __slobbering__  
@@ -6851,7 +6862,9 @@ __tick prevention__
 __ticker__  
 __tickle__ _v_ :two::shit: _Does that tickle?_  
 __ticklish__  
+__ticky-tacky__ _The ticky-tacky plan._  
 __tidbits__ :two::shit:  
+__tidy__ _A tidy plan._  
 __tie-dye__  
 __tie-up__ _n_  
 __tiebreaking__ _A tiebreaking goal._  
@@ -7552,6 +7565,7 @@ __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ _
 __wry__ _adj_ :four: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __wunderkind__  
 __wussification__  
+__ya'__ _Ya' think?_  
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ To fire?  
