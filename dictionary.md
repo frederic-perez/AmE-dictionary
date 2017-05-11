@@ -29,7 +29,7 @@ __BAR__ _BAR man._
 __BB__ :three: _n_ A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BO__ :two::shit:  
 __BS__ :two::shit: _One of our core values is: Open company, no BS._  
-__Beehive State__ :two::shit:  
+__Beehive State__ _n_ :three: Utah.  
 __Big C__ Cancer?  
 __Big Pharma__  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
@@ -1064,7 +1064,7 @@ __bucking the trend__
 __bucking__ _v_  
 __buckle down (to something)__ _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle down__ _v_  
-__buckle up__  
+__buckle up__ :two::shit: _Bucking up a seat belt._  
 __buckle__ _v_ :eight: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
 __buckshot__ :two::shit:  
 __buckskins__  
@@ -2202,7 +2202,7 @@ __duffle bag__ :camera:
 __dugout__  
 __dulcet icing__  
 __dully__  
-__duly__ _Couples duly married._  
+__duly__ :two::shit: _Couples duly married._  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas
 __dumbfounded__ _v_  
 __dumbstruck__  
@@ -3268,9 +3268,8 @@ __highfalutin__ _adj_
 __hijab__ _n_ :camera:  
 __hijabs__  
 __hijinks__ _Adolescent hijinks._  
-__hike<sup>1</sup>__ _n_ _A hike in base wages._  
-__hike<sup>2</sup>__ _v_ _Hiked prices._  
-__hike__ _v_  
+__hike<sup>1</sup>__ _n_ :two::shit: _A hike in base wages._  
+__hike<sup>2</sup>__ _v_ :two::shit: _Hiked prices._  
 __hillbilly__ :two::shit:  
 __hillocks__  
 __hillside__ _n_  
@@ -3498,8 +3497,7 @@ __induction__ :two::shit:
 __inequitable__  
 __inequities__  
 __inextricably__ :two::shit:  
-__infamous__  
-__infamous__ _Princess Leia's infamous dual-bun hairstyle._  
+__infamous__ :three::shit: _Princess Leia's infamous dual-bun hairstyle._  
 __infamy__  
 __infighting__ :two::shit:  
 __infirm__ _adj_  
@@ -3756,6 +3754,7 @@ __lanky__ _adj_ :three::shit:
 __lantanas__ _n_  
 __lap__ _v_ _Despite being lapped._  
 __laped pin__  
+__lapse__  
 __larceny__ :four: _n_ Theft of personal property. :es: hurto  
 __larder__  
 __largely__  
@@ -4220,11 +4219,13 @@ __moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether 
 __mooted__  
 __moppet__ _A lovable moppet._  
 __mopping up__  
+__moratorium__  
 __morcellator__  
 __moribund__  
 __morning glory__  
 __morosely__  
 __morsel__  
+__mortar shell__  
 __mortuaries__  
 __mos.__ (Months?)  
 __mosh__  
@@ -4682,6 +4683,7 @@ __pedestrian__
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peer__ _Peering into their crystal balls._  
 __peerless__ 
+__pegged__ _v_  
 __pelt__ _v_ :two::shit: _Inmates pelting him with objects from above._  
 __pelts__ _n_  
 __pen name__  
@@ -6517,7 +6519,7 @@ __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdome
 __stretch__ :three::shit: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __strewn__  
-__stricken__ _v_ :three::shit:  
+__stricken__ :four::shit: _Stricken people._  
 __strictures__ :three::shit: _The strictures on women's behavior were easing._  
 __strife__ _n_ :six: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._
@@ -6612,6 +6614,7 @@ __suppleness__ _Mental suppleness._
 __supremacist__ _A whote supremacist._  
 __sure enough,__ _Sure enough, that's what happened._  
 __surefire__  
+__surge__ _v_  
 __surly__ _adj_ Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmount__ _v_  
@@ -6997,7 +7000,7 @@ __tribute__ _Her fellow tribute and her hunting buddy._
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::shit: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
-__trickle-down__ _n_ :four::shit: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._  
+__trickle-down__ _n_ :six::shit: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._  
 __trickle<sup>1</sup>__ _n_ :eight: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._  
 __trickle<sup>2</sup>__ _v_ :four::shit:  
 __tricksy__  
@@ -7239,6 +7242,7 @@ __venom__
 __venomous__  
 __ventilator__ :open_mouth: _med_  
 __veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._
+__verdant__ _Verdant hills._  
 __verdict__ _n_ :two::shit::open_mouth:  
 __vermicelli__  
 __vermillion__  
