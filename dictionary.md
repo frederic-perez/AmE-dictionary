@@ -3026,7 +3026,7 @@ __ground game__
 __ground zero__  
 __groundbreaker__ _n_ :three::shit:  
 __groundnut__ _n_  
-__groundswell__ :three::shit:  
+__groundswell__ :four::shit:  
 __groundwater__  
 __groundwork__  
 __grouse__ _v_ :three::shit: _We groused about the uncomfortable seating._  
@@ -3765,7 +3765,8 @@ __laser wall__
 __lash out__ :two::shit:  
 __last > next to last__  
 __last-ditch__ :three::shit: _Last-ditch effort._ _Last-ditch retaliation._  
-__latch__ _n_  
+__latch<sup>1</sup>__ _n_  
+__latch<sup>2</sup>__ _v_  
 __latching__  
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
@@ -5264,10 +5265,12 @@ __rebate__ :five: _n_ A partial refund to someone who has paid too much for tax,
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__ _v_ :four: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
 __rebuke__ _n_ :four::shit:  
+__recall__ _n_  
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recanted__ _v_  
 __recap__ _n_ _The written recap of the meeting._  
 __receivership__  
+__recess__ _The deepest recesses of the brain._  
 __recidivist__ _n_ :four::shit:  
 __reckon__ (reckons) :three::shit:  
 __reckoning__  
@@ -5556,6 +5559,7 @@ __ruse__ _n_ :two::shit:
 __rustle__ _v_ :two::shit: _To rustle up a dinner for 12._  
 __rut__ :two::shit: _Some guy with rut for brains._  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
+__s&h__ _Every penny will be returned to you (except s&h)._  
 __s/s__ Stainless steel. _s/s appliances._  
 __sac-a-lait__  
 __safeguard__  
@@ -7138,7 +7142,7 @@ __unearthed__
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :three::shit: _They are unfazed by all fof this._  
-__unfettered__ _v_ :eight::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
+__unfettered__ _v_ :nine::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflappable__ :four::shit: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
 __unfold__ _v_  
