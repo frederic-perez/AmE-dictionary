@@ -436,6 +436,7 @@ __anglers__
 __angling__  
 __angling__ _v_ _Giuliani seemed to be angling for secretary of state._  
 __angst__  
+__angst__  
 __angst__ :six: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::shit:  
 __anguish__ :two::shit:  
@@ -585,6 +586,7 @@ __backdrop__ _n_ :four::shit: _These massacres took place against the backdrop o
 __backlash__ _n_ :three::shit:  
 __backlit__  
 __backlog__ _n_ :three: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
+__backslid__ _v_  
 __backsplash__ _n_ _A new tile backsplash._  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
 __backwater__ :two::shit: _An academic backwater._  
@@ -752,6 +754,7 @@ __belted__ _v_ _An old woman belted out, "We are tired!"_
 __belting__  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
+__bemoan__ _v_  
 __bemoan__ _v_ :six::shit: (bemoaned, bemoaning)  
 __bemused__  
 __bench__ _Snow will dust the benches and valleys._  
@@ -795,6 +798,7 @@ __bid farewell__
 __bid rigging__  
 __bid__ :three: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _I bid you farewell._  
 __big cat__ :es: felino  
+__big deal__  
 __big deal__ :dart::five::shit: _It's not a big deal._ _Big deal._  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
@@ -1280,6 +1284,7 @@ __caroms__
 __carpet bombing__  
 __carping__ _v_  
 __carpool__  
+__carpool__ _v_  
 __carrion__ _n_ :dart::three: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry-on bag__  
 __carryover__ _A carryover vehicle._  
@@ -1292,6 +1297,7 @@ __case in point__
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
 __casket__  
+__cassocks__ _n_  
 __cast a pall__  
 __cast-iron__  
 __cast__ _Votes cast._  
@@ -1353,6 +1359,7 @@ __charter<sup>2</sup>__ _v_
 __charter__ _Charter schools._  
 __chartreuse__  
 __chasm__ _n_ :four: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chassis__  
 __chastened__  
 __chastize__ _v_  
 __chattel__  
@@ -1382,6 +1389,7 @@ __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially
 __chip away__ _v_  
 __chip in__ _v_ :two::shit:  
 __chip on his shoulder__  
+__chip shots__ _The golfer was hitting some horrible chip shots._  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
 __chip<sup>2</sup>__ _v_ _We had to chip and be patient._  
@@ -2474,6 +2482,7 @@ __eyeshades__
 __eyewash__ _Cuddyer explained the balance between effort and eyewash._  
 __fabled__  
 __fabricate__ _v_ _Fabricated stories._  
+__fabricator__  
 __face-lift__  
 __facetious__ _adj_ :open_mouth:  
 __facile__ :two::shit: _She's an extremely facile actress._  
@@ -2696,6 +2705,7 @@ __flurry > in a flurry__
 __flurry__ __1__ :four: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flushed complexion__  
 __fluster__ _v_ :three: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
+__flustered__ _v_  
 __flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under the water._  
 __flutter__ _Two pieces of paper fluttered to the floor._  
 __fly-by-night__
@@ -4179,6 +4189,7 @@ __metal shavings__
 __meted out__ _v_ :two::shit: _All the suspensions have been meted out._  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
+__mettle__  
 __mettle__ _n_ :three::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mick__ _n_ :three::shit:  
 __midafternoon__  
@@ -4382,6 +4393,7 @@ __nape__ _n_
 __nappy__  
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
+__nascence__  
 __nascent__ :two::shit: _The nascent market._  
 __nativism__ :two::shit:  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
@@ -5217,6 +5229,7 @@ __quay__ _n_
 __queasiness__ _There was queasiness among many residents._  
 __queasy__ :two: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __queer__ _v_  
+__quell__ _v_  
 __quell__ _v_ :nine::arrow_up_small::o2: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quench__  
 __quenches__ _v_  
@@ -5293,6 +5306,7 @@ __range__ _Range war._
 __rank-and-file__ :six: _n_ (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank__ _v_  
 __rankled__ _v_  
+__ransack__ _v_  
 __ransack__ _v_ :two::shit: (ransacked)  
 __rant__ _v_  
 __rapidly__  
@@ -5639,6 +5653,7 @@ __runaway__ :two::shit: _Bryant was a runaway winner._
 __runaways__  
 __rung__ _n_  
 __rungs__ _n_ :three::shit: _He deserves to be in the lowest rungs of hell._  
+__runner-up__  
 __runner-up__ _n_ :seven::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runoff water__  
@@ -6471,6 +6486,7 @@ __stanch__ _v_
 __stanch__ _v_  
 __stand strong__  
 __stand tall__  
+__stand to reason__  
 __standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
 __standoff__ _n_  
 __standout<sup>1</sup>__ _adj_ :six: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
@@ -6679,6 +6695,7 @@ __subjugate__ _v_
 __sublet__ _v_ :three::shit: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
 __subpoena__ :four::shit:  
+__subpoenaed__ _v_  
 __subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__   
 __subside__ _v_ :two::shit: (subsided)  
@@ -7184,6 +7201,7 @@ __tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuff
 __tussle__ _A trade tussle._  
 __tussles__ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussling__ _v_  
+__tutelage__  
 __twang<sup>1</sup>__ _n_  
 __twang<sup>2</sup>__ _v_  
 __twang__ :two::shit:  

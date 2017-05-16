@@ -7,21 +7,4 @@
 
 
 
-__bemoan__ _v_  
-__stand to reason__  
-__big deal__  
-__cassocks__ _n_  
-__nascence__  
-__chassis__  
-__fabricator__  
-__mettle__  
-__tutelage__  
-__carpool__ _v_  
-__runner-up__  
-__angst__  
-__ransack__ _v_  
-__chip shots__ _The golfer was hitting some horrible chip shots._  
-__flustered__ _v_  
-__quell__ _v_  
-__backslid__ _v_  
-__subpoenaed__ _v_  
+
