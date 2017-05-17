@@ -761,6 +761,7 @@ __bench__ _Snow will dust the benches and valleys._
 __benchmark__  
 __bender__ _His mother was on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
+__benevolent__  
 __bent__ _n_  
 __bento__ Boxed meals.  
 __bequeathed__ _v_ :three::shit:  
@@ -1264,6 +1265,7 @@ __capped__ _v_
 __cappie__ _n_  
 __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.  
 __capstone__ _n_  
+__captaincy__  
 __carabiner__ _n_ :camera::two::shit:  
 __carat__  
 __cardiac arrest__  
@@ -1530,7 +1532,7 @@ __cold-calling__ _He started cold-calling people in New York._
 __coleslaw__ _n_ :three::shit:  
 __colic__ _n_  
 __collapsible__ _Collapsible shutters._  
-__collarbone__ :two::shit:  
+__collarbone__ :three::shit:  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collusion__ :two::shit:  
 __colossal__  
@@ -1601,7 +1603,7 @@ __confederacy__
 __conference call__  
 __confidant__  
 __confidante__ :two::shit:  
-__confide__ _v_  
+__confide__ _v_ :two::shit: (confided)  
 __conflate__ _v_  
 __confound__ _v_ :three::shit: (confounded, confounding)  
 __confounding__  
@@ -1733,6 +1735,7 @@ __creakings__ _Door creakings._
 __creaky__ _Creaky infrastructure._  
 __creases__ _Knife creases._  
 __creasing__  
+__cred__  
 __credence__ :two::shit:  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
 __creek__ _An older house on a creek._  
@@ -2163,7 +2166,7 @@ __downline__ _n_
 __downpours__  
 __downright__ :dart::two::shit: _Not to mention, just downright good looking._  
 __downsides__  
-__downtrodden__ :five::shit: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban aareas across the country._  
+__downtrodden__ :six::shit: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban aareas across the country._  
 __downturns__ :two::shit:  
 __downward__ _A downward spiral._  
 __dowry__  
@@ -2422,7 +2425,7 @@ __equinox__
 __equipped__  
 __equity__  
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
-__erupted__  
+__erupt__ _v_ :two::shit: (erupted)  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
 __escrow__ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -2787,6 +2790,7 @@ __fracas__
 __fracking__ Hydraulic  fracturing.  
 __frags__ _n_ _They taped frags to the tops of the drums._  
 __frame grab__  
+__franchise__ _Romo is the Cowboys franchise quarterback._  
 __fraught__ :five: _adj_ __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_  
 __fray<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
@@ -3858,6 +3862,7 @@ __lawmaker__ _n_ :four::shit: (lawmakers)
 __lawsuit__  
 __lax__ _adj_ :two::shit: (not LAX)  
 __lay__ _Lay reader._  
+__layoff__  
 __layover__ :dart::two::shit: _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_  
 __layups__  
@@ -4085,6 +4090,7 @@ __malaise__ :three::shit: _Postcolonial malaise._ _The general economic malaise.
 __malarkey__  
 __malevolent__  
 __malfeasance__ :two::shit:  
+__maligned__  
 __mallards__  
 __malnourished__  
 __mamasan__  
@@ -4914,7 +4920,7 @@ __plaster__ _v_ _Blizzard plasters Denver._
 __plastered__ _v_  
 __plate__ _Baseball_  
 __plateau__  
-__platitudes__ :two::shit:  
+__platitudes__ :three::shit:  
 __platoon__ _v_ :two::shit:  
 __platypus__ _Internet platypus pranks._  
 __plaudits__  
@@ -5379,6 +5385,7 @@ __reconvene__ _v_ :four::shit: (reconvenes) _Kubiak and Manning will reconvene n
 __recooled__  
 __recoup__ _v_ :five: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.
 __recreational__ _Recreational marijuana vs medical marijuana._  
+__rector__  
 __recuse__ _She recused herself._  
 __red hot__ :two::shit: _Now the market is red hot._  
 __red taoe__ It would add red tape and increasing processing time._  
@@ -5402,7 +5409,7 @@ __reek<sup>2</sup>__ _v_ :six: (reeks, reeked) Smell strongly and unpleasantly; 
 __reek__ _v_  
 __reel off__ _v_  
 __reel__ _v_ (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
-__reeling__  
+__reeling__ :two::shit:  
 __referenda__  
 __reffing__  
 __refrain__ _n_  
@@ -5712,6 +5719,7 @@ __satyr__
 __saucerful__  
 __saunter__ _v_ _Lynn sauntered to the edge of the stage._  
 __savagery__  
+__save the day__  
 __savior__  
 __sawed-off__  
 __sawgrass__ :two::shit:  
@@ -6457,7 +6465,7 @@ __squirm<sup>1</sup>__ _v_ :two::shit: _Five-year-old Katie squirmed in her lap.
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squishing__  
 __squit__ _Super-soaker squit guns._  
-__stab__ _n_  
+__stab__ _n_ :two::shit:  
 __stable condition__  
 __stable__  
 __staffed__ _v_  
