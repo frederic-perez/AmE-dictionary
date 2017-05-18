@@ -898,6 +898,7 @@ __bluegill__
 __blueprint__ :three::shit:  
 __blueprints__  
 __bluff__  
+__bluff__ _n_  
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
 __blunt<sup>1</sup>__ _adj_ :three: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears.  
@@ -953,9 +954,8 @@ __booby-trapped 105's__
 __boogeyman__  
 __boogie__  
 __bookcases__  
-__bookend<sup>1</sup>__ _n_  
-__bookend<sup>2</sup>__ _v_  :three::shit:  
-__bookends__  
+__bookend<sup>1</sup>__ _n_ :two::shit:  
+__bookend<sup>2</sup>__ _v_ :four::shit:  
 __bookish__  
 __boom and bust__  
 __boom box__  
@@ -2256,6 +2256,7 @@ __dumplings__
 __dun__ _Dun-colored hair._  
 __dung fork__ _n_  
 __dungarees__ _n_ :five::shit: _The men in black dungarees stood motionless._  
+__duo__  
 __dupe__ _A dupe of a president._  
 __duped__ _v_ :three::shit: _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplicitious__ _A duplicitious cigarette industry._  
@@ -2641,6 +2642,7 @@ __flamboyant__ :three::shit:
 __flameouts__  
 __flaming hair__  
 __flanker__ (soccer position)  
+__flap__ _There have been flaps over allowing scouts in press boxes._  
 __flapjack__ _n_  
 __flare-ups__  
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
@@ -2740,7 +2742,7 @@ __for a bit__
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for starters,__  
-__for the ages__ :two::shit: _A comeback for the ages._ _A year for the ages._  
+__for the ages__ :three::shit: _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the sake of__  
 __foraged__  
 __foragers__  
@@ -3062,7 +3064,7 @@ __grimly__
 __grinding__ _Bumping and grinding._  
 __grip-and-grin__ _Grip-and-grin shots._  
 __grip__ _v_  
-__gripe__ _Not a single gripe._  
+__gripe__ _n_ :two::shit: _Not a single gripe._  
 __griping__ _v_  
 __gripping__ :two::shit: _A gripping contest._  
 __grisly__ :three::shit: _A grisly synagogue assault._  
@@ -4116,8 +4118,7 @@ __markup__ :two::shit: _A huge markup._ _These U.S. Gov't-Issued Gold Coins are 
 __markups__ :two::shit: _Factory-direct with no middle-man markups._  
 __marmalade__  
 __marooned__ _He felt marooned by the silence._  
-__marquee phone__  
-__marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :three: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._  
+__marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :five: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._  
 __marsh__ _n_ :two::shit:  
 __marshal<sup>1</sup>__ _n_  
 __marshal<sup>2</sup>__ _v_ :two::shit: _The community will marshal its resources to help undocumented immigrants._  
@@ -4186,6 +4187,7 @@ __mercantile__
 __merch__ Merchandaising?  
 __merchant__  
 __mercurial__ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
+__mere__  
 __meretricious__ :two::shit:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merriment__ :two:  
@@ -4493,6 +4495,7 @@ __nugget__ (nuggets) :two::shit:
 __nuisance__  
 __nullified__ _v_  
 __nullify__ _v_  
+__number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __numbered__ :dart: _I hope those days are numbered._  
 __nunchucks__  
 __nurse__ _v_  
@@ -5830,6 +5833,7 @@ __seaside__
 __season__ _v_ :two::shit: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
 __seaweed__ :two::shit:  
+__second-guessing__  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secular__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
@@ -7060,7 +7064,7 @@ __toed__ _v_
 __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
 __toffs__ _Young toffs._  
-__toil__ _v_ :three::shit: (toiled)  
+__toil__ _v_ :four::shit: (toiled) _Each toiled for at least four years in the minors._  
 __toilet bowl__  
 __toilet stool__  
 __toll__ _Church bells tolling._  
@@ -7118,7 +7122,7 @@ __transient__
 __trappings__ :two::shit: _He has all the trappings of a New York insider._  
 __traps__ _n_  
 __trashing__ _v_  
-__travails__  
+__travails__ _n_ :two::shit:  
 __travelogue__  
 __travesty__  
 __trawler__  
