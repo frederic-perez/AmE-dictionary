@@ -245,6 +245,7 @@ __Sunday best__ _Rita wanders a highway in her Sunday best._
 __Sweepstakes__ _Your Sweepstakes._  
 __Sweet 16__ _sports_  
 __T&A__  
+__TBD__  
 __TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
 __T__ _v_ _His car shit the bed so he's going to have to T it._  
 __Tea partyers__ :open_mouth:  
@@ -1605,6 +1606,7 @@ __confidant__
 __confidante__ :two::shit:  
 __confide__ _v_ :two::shit: (confided)  
 __conflate__ _v_  
+__confound__ _v_  
 __confound__ _v_ :three::shit: (confounded, confounding)  
 __confounding__  
 __congenial__ :two::shit:  
@@ -2456,6 +2458,7 @@ __excruciate__
 __execs__ Executives?  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
+__exemption__ _Dru earned an exemption into the tournament._  
 __exert__ _v_ :four::shit: (exerted) _To exert due diligence._  
 __exhaust__ _Exhaust fans._  
 __exhibit A__  
@@ -3062,6 +3065,7 @@ __grim__ _adj_
 __grimed__ _v_ :two::shit: _Her pink shorts were grimed with dirt._  
 __grimly__  
 __grinding__ _Bumping and grinding._  
+__gring__ _The grind of life on the road._  
 __grip-and-grin__ _Grip-and-grin shots._  
 __grip__ _v_  
 __gripe__ _n_ :two::shit: _Not a single gripe._  
@@ -4235,6 +4239,7 @@ __minstrel__
 __mint bank notes__  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
 __mire__ _v_ :open_mouth::seven::shit: (mired)  
+__mired__ _v_  
 __mired__ _v_ :three::shit: _Britain is now mired in crisis._  
 __mirth__ _n_ :two::shit:  
 __mischievous__  
@@ -4561,6 +4566,7 @@ __on edge__
 __on the docket__  
 __on the sly__ _Stealing kisses from me on the slide._  
 __on top of that__ _On top of that, ..._  
+__on track__ _He appears to be on track to play._  
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
 __once-over__  
 __one too many__ _We drank one too many._  
@@ -4783,6 +4789,7 @@ __pegged__ _v_
 __pelt__ _v_ :two::shit: _Inmates pelting him with objects from above._  
 __pelts__ _n_  
 __pen name__  
+__pen__ _v_  
 __pen__ _v_ _The team pens hundreds of scientific papers._  
 __penchant__ :nine: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penitents__ _n_  
@@ -5923,6 +5930,7 @@ __sheaf__
 __sheath__ :two::shit: :es: vaina? 
 __sheathed__ _v_ :five::shit: _Poster of Sharon Stone, sheathed in white._  
 __shed__ _v_ Park (a vehicle) in a depot.  
+__shed__ _v_ _The rookie has shed his walking boot and says he'll be fine._  
 __shedder__ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
@@ -6442,6 +6450,7 @@ __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo
 __sputs__  
 __sputter__ _v_ :eight: (sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__  
+__sputtering__ _adj_  
 __sputters__  
 __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squabbling__ _v_ :two::shit: _A squabbling family._  
@@ -7116,6 +7125,7 @@ __trail mix__ :two::shit: _Infused trail mix._
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trainees__ :two::shit: :es: aprendiz?  
 __traipsing__  
+__trample__ _v_  
 __trample__ _v_ :eight::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __transient__  
@@ -7267,6 +7277,7 @@ __undergarments__ _n_ :two::shit:
 __underpin__  
 __underpinning__  
 __underprivileged__  
+__underrated__ :open_mouth:  
 __underscore__ _v_ :two::shit:  
 __undersecretary__  
 __understandably__ :two::shit:  
