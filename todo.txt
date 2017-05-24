@@ -21,3 +21,29 @@ __unflappable__
 __fizzled__ _v_  
 __ballyhooed__  
 
+__placard__ _n_  
+__unruly__  
+__bethren__ _n_  
+__fidget__ _v_  
+__twitch__ _v_  
+__frisk__  
+__whiff__  
+__lore__  
+__loped__ _v_  
+__grim__  
+__slick__ _adj_  
+__barrage__ _v_  
+__grungy__  
+__drawl__  
+__twangy__  
+__quack__ _n_  
+__humdrum__  
+__frazzled__  
+__budge__ _v_  
+__huffed__ _v_  
+__smugly__  
+__on the run__  
+__nitpicking__  
+__stooped__ _v_  
+__braggadocio__  
+__quirk__ _n_  
