@@ -64,4 +64,39 @@ __squelched__ _v_
 __bristle__ _v_  
 __penchant__  
 __dissension__  
+__trite__  
+__ebb__ _A noticeable ebb of despair._  
+__hick__  
+__snub__  
+__pester__ _v_  
+__black-eyed peas__  
+__ham hocks__  
+__haphazardly__  
+__squack__  
+__eerie__  
+__trampled__  
+__foldaway__ _Foldaway cot._  
+__EKG__  
+__throng__  
+__clout__  
+__dingy__  
+__lurch__ _The clock was lurching and stopping._  
+__repentance__  
+__flunky__  
+__stanza__  
+__nosy__  
+__flogging__  
+__scamper__ _v_ _Scampered into the van._  
+__sputter__ _v_  
+__barge__ _v_  
+__luster__  
+__gasket__  
+__seared__ _His lungs seared with burning poison._  
+__gulp__ _v_  
+__venom__  
+__glint__  
+__headstone__  
+__gravestone__  
+__puttered__  
+__backhoe__  
 
