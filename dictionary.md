@@ -2195,22 +2195,14 @@ __dilutive__
 __dime > on the dime__  
 __dimed__ (dimed) :two::shit: _v_ _I'm going to roust Jimmy Sty and tell him you dimed him._  
 __dimpled__ _v_ :four::shit:  
-__dimples__  
-__dimples__ _They look like dimples in oatmeal now._  
-__dimples__ _n_  
+__dimples__ _n_ :three::shit: _They look like dimples in oatmeal now._  
 __dimply__  
 __dimwits__ _n_ :two::shit:  
 __din__ _n_ :nine::arrow_up_small::o2: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::shit:  
 __dinged__ _v_ :two::shit: _I am also getting tired of my property taxes being dinged._  
-__dinghy__  
-__dinghy__  
-__dingy__  
-__dingy__  
-__dingy__  
-__dingy__  
-__dinky__  
-__dinky__ _A dinky little community._  
+__dinghy__ _n_ :six: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (esp formerly): dingy or dingey.  
+__dinky__ :two::shit: _A dinky little community._  
 __dip__ _v_ :open_mouth: _Unemployment dipped to 5%._  
 __dips__ _n_  
 __dipsomania__  
@@ -4882,14 +4874,8 @@ __news outlet__
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
 __newspaper rack__  
 __newsy__  
-__nibble__ _n_  
-__nibble__ _v_  
-__nibble__ _v_  
-__nibbles__ _n_  
-__nibbling__  
-__nibbling__  
-__nibbling__ _v_  
-__nibbling__ _v_  
+__nibble<sup>1</sup>__ _n_ (nibbles) :two::shit:  
+__nibble<sup>2</sup>__ _v_ (nibbling) :six::shit:  
 __nice and easy__ _Informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __niche__  
 __nifty__  
@@ -5358,9 +5344,7 @@ __pigboat__ _n_
 __pike__ _You can handle whatever comes down the pike._  
 __pile__ _A bridge pile._  
 __pileup__  
-__pilfer__ _v_  
-__pilfer__ _v_  
-__pilfering__  
+__pilfer__ _v_ :three::shit: (pilfering)  
 __piling__ _v_ _There's a lot of investors piling in._  
 __pilings__ _A deserted cabin built on pilings._  
 __pillbox hat__ :two::shit:  
@@ -5759,8 +5743,7 @@ __quaffable__
 __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ :two: _n_ __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ :es: atolladero  
 __quail__ _n_  
-__quaint__ :two::shit: _Quaint town._  
-__quaint__ _adj_ :three::shit:  
+__quaint__ _adj_ :five::shit: _Quaint town._  
 __quaintly__ :two::shit:  
 __qualm__ (qualms) :three: _n_ An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ :six: Difficult dilemma. _All-Star managers face quandary._  
@@ -5809,8 +5792,7 @@ __racked__ _v_ :two::shit:
 __racket<sup>1</sup>__ :three::shit: _n_ _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
 __racket__ _n_  
-__racketeer__  
-__racketeer__ :two: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
+__racketeer__ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeering__  
 __racous__  
 __racousness__  
@@ -6044,8 +6026,7 @@ __restive__
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ :two::shit: _n_  
-__resumption__ :open_mouth: :four::shit: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
-__resumption__ :two::shit:  
+__resumption__ _n_ :six::shit::open_mouth: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __retelling__  
 __rethoric__  
@@ -6397,8 +6378,7 @@ __scrolled-iron__ _Scrolled-iron bench._
 __scrounge up__ _To scrounge up the funds._  
 __scrub brush__  
 __scrub__ _v_ :two::shit:  
-__scruffy__  
-__scruffy__ :three: (scruffier) Shabby and untidy.  
+__scruffy__ _adj_ :four: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrumptious__  
 __scrunched__ (scrunching) :two::shit:  
@@ -6574,8 +6554,7 @@ __shoal__ :two: Shallow.
 __shoals__  
 __shock-jock__ _n_  
 __shoddily__  
-__shoddy__  
-__shoddy__  
+__shoddy__ :two::shit:  
 __shoestring__ _A shoestring budget._  
 __shogunate__ :two::shit: _A local shogunate office._  
 __shoo-in__  
@@ -7165,8 +7144,7 @@ __staggering__
 __stagnant__ :two::shit:  
 __staid__ :four: _adj_ Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
 __staid__ _v_  
-__stairwell__  
-__stairwell__ :two::shit:  
+__stairwell__ :three::shit:  
 __stakeholder__  
 __stakeouts__ :two::shit:  
 __stale antiperspirant__  
@@ -7247,8 +7225,8 @@ __steeple__ _n_ :two: A steeple is a very tall tower that gets smaller and small
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeply__ :two::shit:  
 __stein__ _n_  
-__stem__ _n_ _Biting a stem._  
-__stem__ _v_ :two::shit: _The country is trying to stem the spread of the avian influenza._  
+__stem<sup>1</sup>__ _n_ _Biting a stem._  
+__stem<sup>2</sup>__ _v_ :two::shit: _The country is trying to stem the spread of the avian influenza._  
 __stemmed__  
 __stenographer__  
 __stenographer__  
@@ -7499,8 +7477,6 @@ __swats__ _n_
 __swatted__  
 __sway<sup>1</sup>__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__  Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
-__swayed__  
-__swayed__ _v_  
 __swear jar__  
 __sweat bullets__ _I'll be sweating bullets._  
 __sweat it__ _Don't sweat it._  
@@ -7510,8 +7486,7 @@ __sweet spot__ _We got very lucky and found a site right in the sweet spot._
 __sweethearts__  
 __swell__ _n_ :two::shit: _The swell of people from war-torn countries._  
 __swelled__ (swelling) :two::shit:  
-__sweltering__  
-__sweltering__ :six: _adj_ Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
+__sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
 __swerved__ _v_ :five::shit: (swerving)  
