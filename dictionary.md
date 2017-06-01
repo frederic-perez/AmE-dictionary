@@ -831,9 +831,7 @@ __berating__ _v_
 __bereavement__ _n_ State of sorrow over the death or departure of a loved one.  
 __bereft__ :two::shit:  
 __berm__ _n_  
-__berserk__  
-__berserk__  
-__berserk__ _adj_ __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
+__berserk__ _adj_ :three: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__  
 __berth__ :three::shit: _Sho Sakai secured an Olympic berth._  
 __beseechment__  
@@ -902,9 +900,7 @@ __blackheads__ _n_ :three::shit:
 __blackjack__ :two::shit:  
 __blackout__ _Blackout dates._  
 __blanched__ _v_  
-__bland__  
-__bland__ _adj_  
-__bland__ _adj_ :three::shit: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2__ __a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
+__bland__ _adj_ :five: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2__ __a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blanket__ :two::shit: _The security blanket._  
 __blanketed__ _v_ (blanketing) :two::shit:  
 __blasé__  
@@ -1161,8 +1157,7 @@ __bubbly__ _Bubbly breatlessness._
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__  
-__buck__ _v_  
-__buck__ _v_ :three::shit: (bucked) _Most of the men have never ridden a bucking animal._ _Twenty players have bucked the trend by staying with one high school program._  
+__buck__ _v_ :four::shit: (bucked) _Most of the men have never ridden a bucking animal._ _Twenty players have bucked the trend by staying with one high school program._  
 __buckeyes__  
 __bucking the trend__  
 __bucking__ _v_  
@@ -2068,9 +2063,7 @@ __dazzling__
 __dazzling__ _adj_ :seven: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __dead bolt__ _n_  
 __dead ringer__ An exact duplicate.  
-__deadbeat__  
-__deadbeat__ _A union deadbeat._  
-__deadbeat__ _adj_  
+__deadbeat__ _adj_ :three::shit: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __dean__ _n_ :three::shit: _He served as dean._  
 __dearth__ _n_ :dart::two::shit:  
@@ -2960,8 +2953,7 @@ __flow__ _Three people in flowing black robes._
 __flown__ _v_  _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
-__fluke__  
-__fluke__ :six: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluke__ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flummox__ _v_ :three::shit: (flummoxed)  
 __flung__ _v_ :two::shit:  
 __flunk__  
@@ -4221,12 +4213,7 @@ __laidback__ :two::shit: _Australia's laid back lifestyle._
 __lain__  
 __lair__ _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
-__lambast__ _v_ :four::shit: (lambasted)  
-__lambaste__ _v_  
-__lambasted__  
-__lambaster__ :_v_  
-__lambasting__  
-__lambasting__ _v_  
+__lambast__ (also __lambaste__) _v_ :nine: (lambasted, lambasting) _Informal_  __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lame duck__ _n_ __1__ __a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::shit: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
@@ -5480,8 +5467,7 @@ __pliant__ :two::shit:
 __pliant__ _adj_ _A pliant young waitress._  
 __plied__ _v_  
 __plies__ _v_  
-__plight__  
-__plight__ _n_ :four: Tough situation.  
+__plight__ _n_ :five: Tough situation.  
 __plinks__  
 __plinths__ _n_  
 __plod__ _v_  
@@ -6423,8 +6409,7 @@ __scrolled-iron__ _Scrolled-iron bench._
 __scrounge up__ _To scrounge up the funds._  
 __scrub brush__  
 __scrub__ _v_ :two::shit:  
-__scruffy__  
-__scruffy__ _adj_ :four: (scruffier) Shabby and untidy.  
+__scruffy__ _adj_ :five: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrumptious__  
 __scrunched__ (scrunching) :two::shit:  
@@ -6752,11 +6737,8 @@ __skin parlor__
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ :two::shit:  
 __skips__ _n_ :two::shit: _One of the skips yelled._  
-__skirmish__  
-__skirmish__  
-__skirmish__  
-__skirmish__  
-__skirmishes__  
+__skirmish<sup>1</sup>__ :three::shit:  
+__skirmish<sup>2</sup>__ :two::shit:  
 __skirting__  
 __skit__ _n_ :three::shit:  
 __skittered__ _v_ :three::shit: (skittering)  
@@ -6992,8 +6974,7 @@ __snuff__
 __snuff__ _v_ _He quickly snuffed it out._  
 __snug__ _v__ :two::shit:  
 __snuggles__  
-__snugly__  
-__snugly__  
+__snugly__ :two::shit:  
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ :three::dart::shit:  
 __soap opera__  
