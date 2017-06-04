@@ -98,6 +98,17 @@ __hailed__ _v_
 __springboard__  
 __buck__ _The Seahawks have history to buck._  
 
+__bookies__ _n_  
+__unheralded__  
+__undercard__ _n_  
+__blizzard__ _n_  
+__makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
+__stemming__ _v_  
+__reinstatement__  
+__switch__ (twitch?)  
+__deactivate__ _v_ _The team deactivated Peterson for a game._  
+__paddled__ _v_ _I got paddled at school._  
+__swats__ _n_  
 
 
 
