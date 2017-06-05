@@ -110,6 +110,11 @@ __deactivate__ _v_ _The team deactivated Peterson for a game._
 __paddled__ _v_ _I got paddled at school._  
 __swats__ _n_  
 
+__flop__ _Kevin Bell was a flop._  
+__fire sale__  
+__carousel__  
+__set the pace__  
+__face off__ _v_  
 
 
 
