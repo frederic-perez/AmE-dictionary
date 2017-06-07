@@ -437,7 +437,7 @@ __altitude sickness__
 __alto voice__  
 __altogether__ _Coach Rose was not altogether pleased with the effort._  
 __alum__ :two::shit: _A Vanderbilt alum._  
-__aluminum__  
+__aluminum__ _n_ :open_mouth::two::shit:  
 __amass__ _v_ :three::shit::open_mouth: (amassed, amassing) :es: amontonar, acumular  
 __amble__ :five::shit: (ambled) _v_ _Giraffes amble along the savannah._  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
@@ -771,7 +771,7 @@ __befall__
 __befit__ (befits, befitting) :two::shit: _v_  
 __befitting__  
 __before you know it__  
-__befuddled__  
+__befuddled__ :two::shit:  
 __befuddling__  
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar-thy-neighbor__  
@@ -1473,8 +1473,7 @@ __chagrin<sup>1</sup>__ _n_ :seven: A feeling of vexation, marked by disappointm
 __chagrin<sup>2</sup>__ _v_ (chagrined) Cause to feel shame; hurt the pride of.  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
-__chalk it up__  
-__chalk__ _v_  
+__chalk__ _v_ :three::shit: (chalked) _Chalk it up._  
 __chalkboard__ _n_  
 __chalky__ _Chalky skin._  
 __champ__ :two::shit: Champion?  
@@ -2177,7 +2176,7 @@ __demonstration__ _n_
 __demonstrators__  
 __demured__ _v_  
 __demurely__ :two::shit:  
-__demurred__ _v_  
+__demurred__ _v_ :two::shit:  
 __den__ :five: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __den__ _n_  
 __dengue fever__  
@@ -2484,10 +2483,8 @@ __duchy__ (duys)
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
 __duckboards__ :two::shit:  
-__dud<sup>1</sup>__ _n_ :four: _informal_ (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
+__dud<sup>1</sup>__ _n_ :six: _informal_ (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
-__dud__  
-__dud__ _n_  
 __due diligence__ :two::shit:  
 __duffel bag__  
 __duffer__ _n_ :three: _informal_ An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot  
@@ -2689,6 +2686,7 @@ __equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second
 __equinox__  
 __equipped__  
 __equity__  
+__er__ _It does look, er, distinctive._  
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
 __errand__ _n_ _He had an errand to run._  
 __erupt__ _v_ :two::shit: (erupted)  
@@ -2721,7 +2719,7 @@ __excise__ :two::shit: _Excise tax._ _The new law imposes an excise tax of 2.3% 
 __excoriate__ _v_ :three::shit: (excoriated) _Gay rights advocates excoriated the state's actions._  
 __excoriation__  
 __excruciate__  
-__execs__ Executives?  
+__exec__ :two::shit: (execs, executive?)  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
 __exemption__ _Dru earned an exemption into the tournament._  
@@ -3460,6 +3458,7 @@ __grog__
 __groomed__  
 __groomers__  
 __groove__ :two::shit: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._  
+__groove__ _Stocks have found their groove._  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __ground chuck steak__  
 __ground game__  
@@ -3644,6 +3643,7 @@ __hasty__ :two::shit:
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _v_ (hatched) :two::shit: _Hatching tech secrets._  
 __hatcheck girl__  
+__hatched__ _v_  
 __hatched__ _v_ _The Play hatched plans at picnics._  
 __haughty__ :three::shit: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
@@ -3826,6 +3826,7 @@ __homeowner__
 __homespun__  
 __homestand__ :three::shit:  
 __homestead__ :two::shit:  
+__homestretch__ _n_  
 __homie__ _Homies for life._  
 __honcho__  
 __honchos__  
@@ -3982,6 +3983,7 @@ __in the nude__ _Sleeping in the nude._
 __in the pocket__ :two::shit: (football) _Standing tall in the pocket._  
 __in the thick__ :two::shit: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the water__ _There's nothing in the water here._  
+__in-depth__ _He will conduct an in-depth review._  
 __in-house__ _In-house experts._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_  
 __in__ _It was Lucas Mann, in aviator sunglasses._  
@@ -4324,6 +4326,7 @@ __lath__ _n_ :two::shit:
 __lathered__ _v_ :two::shit: (lathering)  
 __lathes__  
 __laths__  
+__latitude__ _The firms have a lot of latitude as long as they comply with their own policies._  
 __lauded__ _v_  
 __laughingstock__  
 __laureate__  
@@ -4774,6 +4777,7 @@ __miscegenation__
 __mischievous__  
 __misconduct__  
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
+__miscue__  
 __miscues__ _n_  
 __misdemeanor__ :two::shit:  
 __miserable__ _We are miserable._  
@@ -5235,7 +5239,9 @@ __overpass__ _n_
 __overripe__ _An overripe eggplant._  
 __overseas__  
 __oversee__ _Oversee compliance._  
+__oversee__ _v_  
 __oversight__ _An oversight board._  
+__oversight__ _n_  
 __overt__  
 __overtake__ _n_ _He made overtakes._  
 __overwrought__ _Overwrought adults_  
@@ -6044,6 +6050,7 @@ __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop e
 __rebuff__ _v_ :four: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
 __rebuffed__ _v_  
 __rebuke__ _n_ :four::shit:  
+__rebut__ _v_  
 __recall__ _n_  
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recanted__ _v_  
@@ -6629,6 +6636,7 @@ __sewage__ _n_ :two::shit: :es: aguas residuales
 __sewer gas__  
 __sewer grate__ :two::shit:  
 __sewer__ _A sewer pipe._  
+__shabby__  
 __shack__ :two::shit:  
 __shackles__ _A bed with built-in shackles._  
 __shackles__ _n_  
@@ -7623,6 +7631,7 @@ __sundry__
 __suntan__ _n_  
 __superintendent__  
 __superpooch__  
+__supervise__ _v_  
 __supping__ _v_  
 __supplant__  
 __supple__ :two::shit:  
@@ -7718,6 +7727,7 @@ __tabulated__ _Tabulated scientific data._
 __tabulator__ :open_mouth: _Tabulators are being paid $25 for each half day they work._  
 __taciturn__  
 __tack__ :two::shit: Tactics? _The GOP changed its tack._  
+__tacky__  
 __tacky__  
 __tad__  
 __tad__  
@@ -7910,6 +7920,7 @@ __thwart__ _v_ :seven: (thwarted) Prevent (someone) from accomplishing something
 __thwarted__ _v_  
 __tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __tick prevention__  
+__tick__ _v_ _Prices ticked up 0.2%._  
 __ticker__  
 __tickle__ _v_ :two::shit: _Does that tickle?_  
 __ticklish__  
@@ -7972,6 +7983,7 @@ __toe-poppers__
 __toe-toppers__  
 __toe__ _v_  
 __toed__ _v_  
+__toehold__  _n_  
 __toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
 __toffs__ _Young toffs._  
@@ -8124,6 +8136,7 @@ __tuck tail__ _You just don't tuck tail and go someplace else._
 __tuck__  
 __tucked__  
 __tucked__ _v_  
+__tufted__  
 __tuk-tuk__  
 __tulle__  _Tulle-covered arch._  
 __tumble__  
@@ -8157,7 +8170,8 @@ __twang__ :two::shit:
 __twanger__ _n_  
 __twangy__  
 __twat__  
-__tweak__ _n_ :two::shit: (tweaks)  
+__tweak<sup>1</sup>__ _n_ :three::shit: (tweaks)  
+__tweak<sup>2</sup>__ _v_  
 __tweed__  
 __tweeny-weeny__  
 __twin rooms__  
@@ -8176,7 +8190,7 @@ __tycoon__ :three::shit:
 __typecast__ :open_mouth: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyranny__  
 __tyrant__ :two::shit:  
-__ugh__  
+__ugh__ :two::shit:  
 __ukuleles__  
 __umpteenth__ :two::shit:  
 __unabashed__ _An unabashed fan._  
@@ -8209,6 +8223,7 @@ __undergarments__ _n_ :two::shit:
 __underpin__  
 __underpin__ _v_  
 __underpinning__  
+__underpinning__ _n_  
 __underprivileged__  
 __underrated__ :open_mouth:  
 __underscore__ _v_ :two::shit:  
@@ -8309,6 +8324,7 @@ __urchin__ _An underprivileged urchin._
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __usury__
+__utes__ _n_ (cars?)  
 __utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utmost__  
 __utterance__  
@@ -8469,6 +8485,7 @@ __wastebasket__
 __wastrel__  
 __watch caps__  
 __watch your six__ _Idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
+__watchdog__ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
 __water buffalo__  
 __water cooler__  
 __water down__ :two::shit:  
