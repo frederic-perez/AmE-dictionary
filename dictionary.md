@@ -949,6 +949,7 @@ __blither__
 __blithering__  
 __blitz__  
 __blitz__ :three: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
+__blitz__ _n_  
 __blitz__ _v_ :two::shit: (blitzed, blitzing)  
 __blizzard__  
 __blizzard__ _n_  
@@ -1120,6 +1121,7 @@ __breakwater__ _n_
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __bream__ :two::shit: _Fishing for bream._  
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
+__breather__  
 __breech__ _n_ :four::shit:  
 __breezy__ :three::shit: _The breezy tone of the readout._  
 __brethen__  
@@ -1530,6 +1532,7 @@ __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially
 __chinos__ _n_  
 __chinos__ _n_ :open_mouth::two::shit: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chip away__ _v_  
+__chip away__ _v_  
 __chip in__ _v_ :two::shit:  
 __chip on his shoulder__  
 __chip on one's shoulder__  
@@ -1881,8 +1884,10 @@ __countervail__ _Countervailing evidence._
 __country store__  
 __counts__ _n_ :three::shit: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coupes__ _Coupes, two door models usually sportier than sedans._  
+__coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
+__covenant__ :two::shit: _He generally doesn't buy so-called "covenant lite" deals._  
 __cover charge__  
 __coverup__ _n_  
 __coveted__ _v_ :two::shit:  
@@ -2498,6 +2503,7 @@ __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile
 __duckboards__ :two::shit:  
 __dud<sup>1</sup>__ _n_ :six: _informal_ (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
+__due diligence__  
 __due diligence__ :two::shit:  
 __duffel bag__  
 __duffer__ _n_ :three: _informal_ An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot  
@@ -2725,6 +2731,7 @@ __evicted__ _v_
 __eviction__ :two::shit:  
 __evince__ _v_ :two::shit: _To evince an interest in politics._  
 __eviscerate__ _v_  
+__exacerbate__  
 __exacerbate__ (exacerbated, exacerbating) :three: _v_ Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :five: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __excess__ _In excess_  
@@ -2791,6 +2798,7 @@ __falloff__
 __fallout__ :nine::arrow_up_small::o2: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
 __fallow__  
+__falter__ _v_  
 __fame__ _v_  
 __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's famed brownies are the highlight of every bake sale in town.  
 __famine__ _It could be feasst or famine._  
@@ -3319,6 +3327,7 @@ __ginning__
 __gins__ _He passed cotton gins._  
 __gird__ _v_  
 __gird__ _v_  
+__girded__  
 __girders__ _n_ :two::shit:  
 __girding__  
 __giridon__  
@@ -3655,6 +3664,7 @@ __harshest__
 __harvested fish__ _Fish oil from harvested fish._  
 __hash out__ _v_  
 __hash__ _I'm gonna cook his hash, man._  
+__hash__ _v_  
 __hasp__ _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ :two::shit:  
 __hasten__ _v_  
@@ -4099,6 +4109,7 @@ __irreplaceable__
 __islet__ _Transplanting islet cells into the liver._  
 __issuance__  
 __issuance__  
+__issuance__  
 __ivy__ :two::shit: :es: hiedra  
 __jab<sup>1</sup>__ _n_ :two: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :four: (jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod   
@@ -4180,6 +4191,7 @@ __jostled__ :four::shit: (jostling) _Cows are jostling for space._
 __jostling__  
 __journeyman__  
 __joust__ (jousted) :two::shit: _v_ _Here people jousted with nature._  
+__jovial__  
 __jowls__ :four: A small focal accumulation of fat on the lower cheek overlying the jaw bone; prominent jowls make a person look old(er) and may be a cosmetic concern for the owner.  
 __jowly__  
 __judgmental__ :open_mouth:  
@@ -4264,6 +4276,7 @@ __kneading__ _v_ :three::shit:
 __knee-jerk hawk__  
 __knee-jerk reaction__  
 __knee-jerk response__  
+__knee-jerk__  
 __kneecap__  
 __knell__  
 __knit tie__  
@@ -5231,6 +5244,7 @@ __outpost__
 __outrage__ :two::shit:  
 __outrageous__ :two::shit:  
 __outreach__ :three::shit: _He's an HIV outreach worker._  
+__outreach__ _n_  
 __outriggers__  
 __outright__ _adj?_  
 __outré__  
@@ -5437,6 +5451,7 @@ __perch<sup>2</sup>__ _v_ :three::shit:
 __perch__  
 __perch__ _His perch for 14 years._  
 __perennial__ :three::shit:  
+__perfect storm__  
 __perfidious__  
 __perfunctory__ _adj_ :four: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
@@ -6655,6 +6670,7 @@ __set out__ _v_
 __set piece__ _The goal was scored on a set piece._  
 __set the pace__  
 __setback__  
+__setback__ _It has suffered several setbacks._  
 __setbacks__ _n_  
 __setting > picturesque setting__ :es: entorno picturesco  
 __seventh heaven__ :open_mouth:  
@@ -6817,6 +6833,7 @@ __shudders__ _v_ :two::shit:
 __shuffle off__  
 __shuffling__  
 __shuffling__ _v_  
+__shun__ _v_  
 __shun__ _v_  
 __shunned__  
 __shush__ _v_  
@@ -7024,6 +7041,7 @@ __slow-as-molases__
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
 __slug__ (slugs) :two::shit:  
+__slug__ _n_  
 __slugs__  
 __sluice__ _v_ :five::shit: (sluicing)  
 __sluiced__ _v_  
@@ -7446,6 +7464,7 @@ __steeply__ :two::shit:
 __stein__ _n_  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :two::shit: _The country is trying to stem the spread of the avian influenza._  
+__stem__ _v_  
 __stemmed__  
 __stemming__ _v_  
 __stenographer__  
@@ -7496,6 +7515,7 @@ __stock__ _The plastic stock of the rifle._
 __stocking-stuffers__  
 __stockpile__  
 __stodgy__ _The mainstream may sound too stodgy._  
+__stoke__ _v_  
 __stoke__ _v_  
 __stoke__ _v_ :nine::arrow_up_small::o2::shit: (stoked, stoking, stoke up) _Stoking tensions._  
 __stoking__ _n_  
@@ -8119,6 +8139,7 @@ __trickle<sup>1</sup>__ _n_ :eight: A small group or number of people or things 
 __trickle<sup>1</sup>__ _n_ _A trickle of sunlight._  
 __trickle<sup>2</sup>__ _v_ :four::shit:  
 __trickle<sup>2</sup>__ _v_ _The money trickled in._  
+__trickle__ _n_  
 __tricksy__  
 __trifecta__ :four: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle__ _v_  
@@ -8146,6 +8167,7 @@ __trounced__
 __trounced__  
 __trowel__ _n_ :two::shit:  
 __troweled__ _v_  
+__troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
 __trudge__ _v_  
@@ -8177,6 +8199,7 @@ __tuition__ _n_
 __tuk-tuk__  
 __tulle__  _Tulle-covered arch._  
 __tumble__  
+__tumble__ _Socks tumble._  
 __tumble__ _v_ :two::shit:  
 __tumblebug__  
 __tumbler__ _A glass tumbler._  
@@ -8276,6 +8299,7 @@ __underwhelm__ _v_ To fail to excite, stimulate, or impress.
 __underwhelming__ _adj_ :dart::two::shit: Failing to make a positive impact or impression; disappointing.  
 __underwrite__ (underwriting) :two::shit:  
 __underwriter__  
+__underwriting__  
 __underwriting__  
 __undies__  
 __undimpled__  
@@ -8816,6 +8840,7 @@ __yore__ _Days of yore._
 __you name it__ :dart::two::shit:  
 __your face sounds familiar__ :es: _tu cara me suena_  
 __yowza__  
+__yuan__ _n_  
 __yule__ :two::shit: _If you believe, yule receive!_  
 __yummy__  
 __yurts__ _n_  
