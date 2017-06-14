@@ -633,8 +633,7 @@ __backache__ _n_ :dart:
 __backburner__ _n_  
 __backcountry__ _Utah ski resorts offering backcountry adventures._  
 __backdrop__ _n_ :four::shit: _These massacres took place against the backdrop of a war._  
-__backhoe__  
-__backhoe__ _n_  
+__backhoe__ _n_ :two::shit:  
 __backlash__ _n_ :three::shit:  
 __backlit__  
 __backlog__  
@@ -841,8 +840,7 @@ __bemoan__ _v_
 __bemoan__ _v_ :seven::shit: (bemoaned, bemoaning)  
 __bemused__  
 __bench__ _Snow will dust the benches and valleys._  
-__benchmark__  
-__benchmark__  
+__benchmark__ :two::shit:  
 __bender__ _His mother was on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
@@ -1203,13 +1201,9 @@ __bubbly__ _Bubbly breatlessness._
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__  
-__buck__ _The Seahawks have history to buck._  
-__buck__ _v_ :four::shit: (bucked) _Most of the men have never ridden a bucking animal._ _Twenty players have bucked the trend by staying with one high school program._  
+__buck__ _v_ :seven::shit: (bucked, bucking) _Most of the men have never ridden a bucking animal._ _The Seahawks have history to buck._ _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._  
 __buckeyes__  
-__bucking the trend__  
-__bucking__ _v_  
-__buckle down (to something)__ _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
-__buckle down__ _v_  
+__buckle down (to something)__ _v_ :two: _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::shit: _Bucking up a seat belt._  
 __buckle__ _My knees buckle with fright._  
 __buckle__ _v_  
@@ -1371,8 +1365,7 @@ __call for__
 __call on someone__ _He called on me._  
 __call out__ _It was real weird to have someone call you out._  
 __call out__ _v_ :three: __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __2__  Challenge to a duel. _Aaron Burr called out Alexander Hamilton._  
-__call someone out__  
-__call someone out__  
+__call someone out__ :two::shit:  
 __call the shots__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call<sup>1</sup>__ _n_ _It would've been a difficult call to eject Landry._  
@@ -1974,8 +1967,7 @@ __creasing__
 __cred__  
 __credence__ :two::shit:  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
-__creek__ _An older house on a creek._  
-__creek__ _n_  
+__creek__ _n_ :two::shit: _An older house on a creek._  
 __crenelated weir__  
 __creosote__  
 __crepe paper bells__  
@@ -2591,8 +2583,7 @@ __earbuds__ :camera:
 __early-onset__ _Early-onset Alzheimer's disease._  
 __earmark__ _v_ :three::shit:  
 __earmuffs__  
-__earnest__  
-__earnest__ :two::shit:  
+__earnest__ :three::shit:  
 __earrings__  
 __earth-shattering__  
 __earthquake drill__  
@@ -2770,10 +2761,8 @@ __evicted__ _v_
 __eviction__ :two::shit:  
 __evince__ _v_ :two::shit: _To evince an interest in politics._  
 __eviscerate__ _v_  
-__exacerbate__  
-__exacerbate__ (exacerbated, exacerbating) :three: _v_ Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
-__exact__ _v_  
-__exact__ _v_ :five: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
+__exacerbate__ _v_ (exacerbated, exacerbating) :four: Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__exact__ _v_ :six: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __excess__ _In excess_  
 __excise__ :two::shit: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excoriate__ _v_ :three::shit: (excoriated) _Gay rights advocates excoriated the state's actions._  
@@ -3162,9 +3151,8 @@ __fort__ Fortification(?)
 __forte<sup>1</sup>__ _n_ Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __fortified wine__  
-__foul play__  
-__foul play__ :three::dart: Violence, esp. murder.  
-__foul__ _Foul language__   
+__foul play__ :five::dart: Violence, esp. murder.  
+__foul__ _Foul language.__   
 __founder__ _v_ _The attempt foundered._  
 __foundries__ _Metal foundries._  
 __foundry__  
@@ -4244,8 +4232,7 @@ __joists__
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollof rice__  
-__jolly__  
-__jolly__ _Jolly handshakes._  
+__jolly__ :two::shit: _Jolly handshakes._  
 __jolt__ _n_ :four::shit: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jonesing__ _v_  
 __joog__ _v_  
@@ -6012,8 +5999,7 @@ __putting aside__
 __putty__ _n_ :five::shit: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._  
 __pylon__ _n_  
 __pyrrhic__ _adj_ :three::open_mouth: (of a victory) won at too great a cost to have been worthwhile for the victor.  
-__quack__ _n_  
-__quack__ _n_  
+__quack__ _n_ :two::shit:  
 __quadroons__  
 __quaffable__  
 __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
@@ -6155,8 +6141,7 @@ __raunchy__
 __raunchy__  
 __raunchy__  
 __raunchy__ _A raunchy comedy._  
-__ravaged__ _v_  
-__ravaged__ _v_ :two::shit:  
+__ravaged__ _v_ :three::shit:  
 __ravages__ :two::shit: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :three: __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_ :three: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
@@ -6252,8 +6237,7 @@ __regulation__ :two::shit: _Kreider scored the lone goal in regulation (vs in ov
 __regulator__ _n_  
 __regulatory muster__  
 __regulatory__  
-__rehash__  
-__rehash__ _v_  
+__rehash__ _v_ :two::shit:  
 __reinstate__ _v_ :two::shit:  
 __reinstatement__  
 __rejiggered__  
@@ -6412,8 +6396,7 @@ __roach paste__
 __roach__ _n_ :two::shit: _Roach paste._  
 __road salt__ _n_  
 __roadside__ _Roadside billboards._  
-__roam__ _v_  
-__roam__ _v_ :four::shit: (roaming) _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
+__roam__ _v_ :five::shit: (roaming) _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
 __roasted tea__ :camera:  
 __rob__ _Crimson-robed nuns._  
@@ -7658,9 +7641,7 @@ __stopgag__
 __stopgap__ :two::shit:  
 __stoplights__ :open_mouth:  
 __stopover__  
-__stoppage__  
-__stoppage__ _A stoppage-time goal._  
-__stoppage__ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ :three::shit: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stopped short__ :two:  
 __stops__ _n_ :three::shit: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __storefront__  
@@ -8413,10 +8394,8 @@ __undercut__ _v_
 __undercutting__  
 __underdog__ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::shit:  
-__underpin__  
-__underpin__ _v_  
-__underpinning__  
-__underpinning__ _n_  
+__underpin__ _v_ :two::shit:  
+__underpinning__ _n_ :two::shit:  
 __underprivileged__  
 __underrated__ :open_mouth:  
 __underscore__ _v_ :two::shit:  
@@ -8623,10 +8602,8 @@ __wad up__ _v_
 __wad__ _Wads of cash._  
 __wadded__ _v_  
 __wadded__ _v_ :five::shit: _He wadded up the towel._  
-__waddle__ _Two chubby guys waddling around the pool table._  
-__waddle__ _v_  
-__wade__ _v_  
-__wade__ _v_ :four::shit: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
+__waddle__ _v_ :two::shit: (waddling) _Two chubby guys waddling around the pool table._  
+__wade__ _v_ :five::shit: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __waders__ _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
@@ -8659,8 +8636,7 @@ __wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his h
 __wallow__ _v_ :nine: (wallows, wallowing) _1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::shit: _A wan reception._  
 __wane__ _v_  
-__waning__  
-__waning__ _The waning hours._  
+__waning__ :two::shit: _The waning hours._  
 __wanly__ _She droppedand egg on the floor and looked at it wanly._  
 __wanton__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __warble__ _v_  
