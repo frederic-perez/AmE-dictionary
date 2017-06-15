@@ -531,8 +531,7 @@ __arch__ _Her character is arch and fake._
 __archipelago__ :two::shit::open_mouth: _Archipelago nation._  
 __archivist__  
 __archrival__ _n_  
-__ardent__  
-__ardent__ _He was one of her most ardemt suitors._  
+__ardent__ :two::shit: _He was one of her most ardemt suitors._  
 __arduous__  
 __arguably__  
 __armload__  
@@ -650,8 +649,7 @@ __bad-hair__ _Arnold can have a bad-hair movie._
 __baddie__ _It's just what Bond fans want in a baddie._  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__  
-__baffle__ _v_  
-__baffle__ _v_ :four::shit: _Baffled children._  
+__baffle__ _v_ :five::shit: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __baffling__ _Baffling season._  
 __bag out__ _v_ _Why'd you bag out on me?_  
@@ -1203,8 +1201,7 @@ __bubbly__ _Bubbly breatlessness._
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__  
-__buck__ _v_  
-__buck__ _v_ :seven::shit: (bucked, bucking) _Most of the men have never ridden a bucking animal._ _The Seahawks have history to buck._ _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._  
+__buck__ _v_ :eight::shit: (bucked, bucking) _Most of the men have never ridden a bucking animal._ _The Seahawks have history to buck._ _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._  
 __buckeyes__  
 __buckle down (to something)__ _v_ :two: _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::shit: _Bucking up a seat belt._  
@@ -4325,10 +4322,8 @@ __kin__
 __kindergarten__ _n_ :open_mouth: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
 __kindergartner__ :open_mouth::two: A child who attends a preschool or kindergarten.  
 __kindling__  
-__kindred spirits__ :es: almas gemelas  
-__kindred__  
-__kindred__  
-__kindred__ _A kindred spirit._  
+__kindred spirits__ :two::shit: _A kindred spirit._ :es: almas gemelas  
+__kindred__ :three::shit:  
 __king of the hill__  
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kinks__  
@@ -4675,10 +4670,8 @@ __lupus__
 __lurch__ _The clock was lurching and stopping._  
 __lurch__ _We lurched around a bend._  
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
-__lurk__ _v_  
-__lurk__ _v_ /ləːk/ (lurked, lurking) :five: __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
-__lush__  
-__lush__ _adj_ :six: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
+__lurk__ _v_ :six: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
+__lush__ _adj_ :seven: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lushnes__  
 __luster__  
 __lustre__  
@@ -6707,8 +6700,7 @@ __scrolled-iron__ _Scrolled-iron bench._
 __scrounge up__ _To scrounge up the funds._  
 __scrub brush__  
 __scrub__ _v_ :two::shit:  
-__scruffy__  
-__scruffy__ _adj_ :five: (scruffier) Shabby and untidy.  
+__scruffy__ _adj_ :six::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrumptious__  
 __scrunched__ (scrunching) :two::shit:  
@@ -6761,9 +6753,7 @@ __seesaw<sup>1</sup>__ _n_ :two::shit: _Playing on a swing or seesaw._
 __seesaw<sup>2</sup>__ _v_  
 __seethe__ :eight::dart: _v_ (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
 __segue__  
-__seine__ _v_  
-__seize__ _v_  
-__seize__ _v_ :two::shit: _Seizing an opportunity._  
+__seize__ _v_ :four::shit: (seizing) _Seizing an opportunity._  
 __seizing__ :three::shit:  
 __sekuhata__ Sexual harassment.  
 __select__ :two::shit: (vs selected) _Opens today in select cities._ _Free shipping on select items._    
@@ -7517,9 +7507,7 @@ __stairwell__ :three::shit:
 __stakeholder__  
 __stakeouts__ :two::shit:  
 __stale antiperspirant__  
-__stale__  
-__stale__ :two::shit:  
-__stale__ _The stale remains of a cup of coffee._  
+__stale__ :four::shit: _The stale remains of a cup of coffee._  
 __staler__ _The air in the place grew staler._  
 __stalk__ _n_  
 __stalk__ _v_  
@@ -7971,8 +7959,7 @@ __tardy__ :two::shit:
 __target ball__  
 __tariffs__ _n_ :five::shit: (tariffs)  
 __tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
-__tarnish__ _v_  
-__tarnish__ _v_ :four::shit: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
+__tarnish__ _v_ :five::camera::shit: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::shit:  
 __tarpon__  
 __tarps__ _n_  
@@ -8317,8 +8304,7 @@ __troweled__ _v_
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
-__trudge__ _v_  
-__trudge__ _v_ :four::shit:  
+__trudge__ _v_ :five::shit:  
 __trudging__ _v_  
 __true to form__  
 __truffles__ _n_  
