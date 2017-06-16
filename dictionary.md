@@ -1,4 +1,5 @@
 __(sic)__ _adverb_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
+__, to say the least.__  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.   
 __35-degree day__  
@@ -885,6 +886,7 @@ __bicker__ _v_ :five: (bickering) Argue about petty and trivial matters. _The ti
 __bid farewell__  
 __bid rigging__  
 __bid__ :three: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _I bid you farewell._  
+__big brother__  
 __big cat__ :es: felino  
 __big deal__  
 __big deal__ :dart::five::shit: _It's not a big deal._ _Big deal._  
@@ -1005,6 +1007,7 @@ __bluffing__ _v_
 __blunder__ _I've made a lot of computer blunders over de years._  
 __blunt<sup>1</sup>__ _adj_ :three: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears.  
 __blunt<sup>2</sup>__ _v_ :two::shit: (blunting)  
+__bluntly__  
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ _v_ :three: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster__ :two::shit:  
@@ -1393,6 +1396,7 @@ __campy__ _A campy biopic._
 __can__ _v_ :two::shit: _Butler canned a long 3-pointer._  
 __cane brakes__  
 __canebrake__ _n_  
+__canister__  
 __canister__  
 __canister__ :two::shit: _Organic coffee canisters._  
 __cannolis__  
@@ -2291,6 +2295,7 @@ __dinged__ _v_ :two::shit: _I am also getting tired of my property taxes being d
 __dinghy__ _n_ :six: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (esp formerly): dingy or dingey.  
 __dinky__ :two::shit: _A dinky little community._  
 __dip__ _v_ :open_mouth: _Unemployment dipped to 5%._  
+__dip__ _v_ _Sales dip during the summer months._  
 __dips__ _n_  
 __dipsomania__  
 __dire__ :four: _adj_ (of a situation or event) Extremely serious or urgent. Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal  
@@ -2514,6 +2519,7 @@ __drone__ _The drone of an outboard motor reverberated._
 __drop by__ _v_  
 __drop in the bucket__  
 __drop-in__ _A drop-in center._  
+__drop__ _n_  
 __dropout__ _n_  
 __droppings__ _n_  
 __drought__ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
@@ -3377,6 +3383,7 @@ __gins__ _He passed cotton gins._
 __gird__ _v_  
 __gird__ _v_  
 __girded__  
+__girded__ _v_  
 __girders__ _n_ :two::shit:  
 __girding__  
 __giridon__  
@@ -4050,6 +4057,7 @@ __impeach__ _v_ :two::shit:
 __impeachment__ :two::shit:  
 __impeccable__  
 __impeccably__  
+__impeccably__  
 __impede__ _v_  
 __impeded__ _v_  
 __impending__  
@@ -4382,6 +4390,7 @@ __laden__
 __laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
 __ladyfinger cookies__  
 __lag__ :two::shit: _v_  
+__laggard__  
 __laggard__ :two::shit:  
 __lagged__  
 __laid back__  
@@ -5262,6 +5271,7 @@ __onset__
 __onset__ _n_  
 __onslaught__ :two::shit:  
 __onus__  
+__oofs__  
 __oompah__ :two::shit: _The house oompah band._  
 __oomph__ :two::shit:  
 __ooze__ _v_  
@@ -5509,6 +5519,7 @@ __peep__ _n_
 __peer__ _Peering into their crystal balls._  
 __peerless__ 
 __pegged__ _v_  
+__pegged__ _v_  
 __pelt__ _v_ :two::shit: _Inmates pelting him with objects from above._  
 __pelts__ _n_  
 __pen name__  
@@ -5580,6 +5591,7 @@ __piano wire__
 __pick on__  
 __pick up__ :two::shit: _You could use it when picking up cards at the supermarket's kiosk._  
 __pick up__ _His turnover-prone play doesn't pick up._  
+__pick up__ _v_  
 __pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
@@ -5873,6 +5885,7 @@ __preyed__ _v_
 __prez__ or __Prez__ :two: _n_ _Informal_ President.  
 __price tag__  
 __pricey__  
+__prick__ _v_  
 __prick__ _v_ _Pricking their finger to do a blood test._  
 __prick__ _v_ _To prick consciences._  
 __prickly__  
@@ -6399,6 +6412,7 @@ __ringside__
 __rink__ _n_  
 __rip your wiring out__  
 __riparian__ _Riparian woodland._  
+__ripe__  
 __ripe__ :adj: :six: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
 __ripened__ _adj_ Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._  
 __riposte__  
@@ -6588,6 +6602,7 @@ __sap__ _v_ _Weak demand sapping trade._
 __sapling__ _n :three: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __saplings__  
 __sapping__  
+__sapping__ _v_  
 __sapping__ _v_  
 __sappy__ _Sappy smile._  
 __sarcophagus__  
@@ -7032,6 +7047,7 @@ __skim__ _v_
 __skimboard__  
 __skimming__  
 __skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._  
+__skimp__ _v_  
 __skimpy__  
 __skin parlor__  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
@@ -7099,6 +7115,7 @@ __slick<sup>3</sup>__ _adj_ :five::shit: _The slick surface._ _It was a slick sc
 __slick__  
 __slick__ _adj_  
 __slick__ _adj_  
+__slid__ _v_  
 __slid__ _v_  
 __slide__ :two::shit: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slider__ _n_ :three::shit: _What's up with someone's slider?_  
@@ -7168,6 +7185,7 @@ __slum__ _v_
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
 __slumber__ :three::shit: _Slumber parties._  
 __slumming__ _v_ :two::shit:  
+__slumped__ _v_  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__  
 __slur__ _n_  
@@ -7229,6 +7247,7 @@ __snafus__
 __snag<sup>1</sup>__ _n_ :two::shit: :es: problema  
 __snag<sup>2</sup>__ _v_ :two::shit: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snag__  
+__snags__ _n_  
 __snags__ _n_  
 __snap<sup>1</sup>__ _n_ :two::shit: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
 __snap<sup>2</sup>__ _v_  
@@ -7313,6 +7332,7 @@ __solemnize__ _v_
 __solid gold__  
 __solidify__ _v_  
 __soliloquy__  
+__solipsistic__  
 __solipsistic__ :three::shit:  
 __soloist__ _n_  
 __sombreros__  
@@ -7720,6 +7740,7 @@ __striker__ _The match was damp and wouldn't ignite against the striker._
 __string beans__  
 __string knife__ :two::shit:  
 __stringent__  
+__stringent__  
 __stringent__ _adj_ :five: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :three::shit:  
 __strip mall__ _n_  
@@ -7990,6 +8011,7 @@ __taxpayer__ _n_
 __tchotchkes__ :two::shit: _Simpson tchotchkes._  
 __tea party__ :two::shit: _Tea party groups._ _Tea party rallies._  
 __teakwood__ :open_mouth:  
+__tear gas__  
 __tear__ _The stock has been on a tear._  
 __teardown__ _n_  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
@@ -8178,6 +8200,7 @@ __toil__ _v_ :four::shit: (toiled) _Each toiled for at least four years in the m
 __toilet bowl__  
 __toilet stool__  
 __toll__ _Church bells tolling._  
+__tolls__ _v_ _The bell tolls kor Ukraine._  
 __tomboy__  
 __ton__ _A metric ton._  
 __tone-deaf__  
@@ -8489,6 +8512,7 @@ __upbeat__ :two::shit: _An upbeat approach._ _He's extremely upbeat during down 
 __updend__ _v_  
 __upend__ _v_ :seven: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
+__upended__ _v_  
 __upfield__  
 __upheaval__ :four::shit:  
 __uphill battle__  
@@ -8784,6 +8808,7 @@ __white-knuckle ride__
 __whitehot__ :two::shit: _Gustafson will be at the whitehot center of that quest._  
 __whiteout__  
 __whitewash__  
+__whitewash__ _v_  
 __whithered__  
 __whittle down__ _The overwhelming advantage has been whittled down._  
 __whittle__ _v_  
