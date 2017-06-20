@@ -948,6 +948,7 @@ __blasé__
 __blatant__  
 __blather__  
 __blaze of glory__  
+__bleached blonde hair__  
 __bleached__ _Warm waters bleached the coral._  
 __bleaching__ :two::shit: _Steven called the bleaching a tragedy._  
 __bleak__  
@@ -1309,9 +1310,7 @@ __burrows__
 __burrs__ _n_  
 __burst__ _v_  
 __bursting__  
-__bus boy__  
-__busboy__  
-__busboy__ _n_ :two: A young man who clears tables in a restaurant or cafe.  
+__busboy__ _n_ :four: A young man who clears tables in a restaurant or cafe.  
 __business ties__  
 __busker__  
 __busload__  
@@ -1395,6 +1394,7 @@ __call<sup>2</sup>__ _v_ _Allen has called Oregon games for 29 years._
 __call__ _n_ _It was a very questionable call._  
 __call__ _v_ :two::shit: _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._  
 __calling card__  
+__calling hours__  
 __calling__ _n_ :two: __1__ A strong inner urge to follow an occupation, etc; vocation. _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __callings__ :three::shit: _She served in many callings._  
 __calliopes__   
@@ -1585,7 +1585,7 @@ __chinos__ _n_
 __chinos__ _n_ :open_mouth::two::shit: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chip away__ _v_  
 __chip away__ _v_  
-__chip in__ _v_ :two::shit:  
+__chip in__ _v_ :three::shit: (chipped in)  
 __chip on his shoulder__  
 __chip on one's shoulder__  
 __chip shots__ _The golfer was hitting some horrible chip shots._  
@@ -1660,7 +1660,7 @@ __clap__ _n_ :two::shit: _Incurable clap._
 __clapboard__ _n_ :two::shit:  
 __clapper__ _He tried to turn somebody into a human bell clapper._  
 __claret__  
-__clarion call__ :three::shit:  
+__clarion call__ :four::shit:  
 __class act__ _She was a class act through and through._  
 __class action__  
 __claw__  
@@ -2944,6 +2944,7 @@ __fence-mending__
 __fend off__ _v_ :two::shit:  
 __fender bender__ :two::shit: _Stranded by a fender bender._  
 __feral__ :four::shit: _Feral hogs._ _Feral cats._  
+__fern garden__  
 __fern__  
 __ferns__  
 __ferret out__ _v_  
@@ -4206,7 +4207,7 @@ __innumerate__
 __inordinate__ :two::shit:  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__  
-__inroads__ :two::shit:  
+__inroads__ _n_ :three::shit:  
 __inscrutable__  
 __insipid__  
 __insofar__  
@@ -5730,9 +5731,8 @@ __piques__ _Focusing his energy on whatever piques his curiosity._
 __pirogue__ _n_ :two::shit:  
 __pisspot__ :two::shit:  
 __pit wagon__  
-__pit<sup>1</sup>__ _n_ _The pit of his stomach._  
-__pit<sup>2</sup>__ _v_ _The special election pits Ed Marley against Gabriel Gomez._  
-__pit__ _Money pit._  
+__pit<sup>1</sup>__ _n_ :two::shit: _The pit of his stomach._ _Money pit._  
+__pit<sup>2</sup>__ _v_ :two::shit: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
 __pitch-perfect__  
 __pitch<sup>1</sup>__ _n_ _We recovered the ball in their side of the pitch after pressing well._  
 __pitch<sup>2</sup>__ _v_ _To pitch a tent._  
@@ -7689,9 +7689,6 @@ __stationery__
 __statute__  
 __statutory rape__  
 __statutory__  
-__staunch__  
-__staunch__  
-__staunch__  
 __staunch__ _adj_ :nine::arrow_up_small::o2: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __staunchest__ :two::shit:  
 __stave off__ _v_ :six::shit: (staved off)  
@@ -7762,7 +7759,7 @@ __stinker__
 __stinkers__ _n_  
 __stinky-winky__ _Stinky-winky front-loader._  
 __stintful__  
-__stipend__ _n_ :two::shit:  
+__stipend__ _n_ :three::shit: (stipends)  
 __stipulate__ _v_ :two::shit:  
 __stir__ _v_  
 __stirring__ _adj_ :two::shit: _Stirring tales._  
@@ -8738,7 +8735,7 @@ __vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmfu
 __viciously__  
 __victimhood__  
 __victor__ :two::shit: _Seward became the righthand man of the victor, Abraham Lincoln._  
-__vie__ _v_ :four: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
+__vie__ _v_ :five: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::shit:  
 __vilify__ _v_  
 __villa__ _n_  
