@@ -505,6 +505,7 @@ __aphorism__
 __aping__  
 __aplenty__  
 __aplomb__ :two: _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
+__apnea__ _n_  
 __apocryphal__ :open_mouth:  
 __apologist__  
 __apostasy__  
@@ -1339,6 +1340,7 @@ __buybacks__
 __buyout__ _n_ :five: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __buzz<sup>1</sup>__ _n_ :two::shit: _The buzz is really high now._ 
 __buzz<sup>2</sup>__ _v_ :two::shit: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
+__buzz__ _n_  
 __buzz__ _v_  
 __buzzard__ _n_  
 __buzzards__ _n_ :two::shit:  
@@ -1871,6 +1873,7 @@ __contend__ _v_
 __contend__ _v_  
 __content__  
 __contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
+__contentious__  
 __contentious__ _adj_ :three: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contiguous > the contiguous U.S.__  
 __continence__  
@@ -1971,6 +1974,7 @@ __cracklings__ _n_
 __crackpot__ _n_ :two: An eccentric person, especially one with bizarre ideas. _A reputation as a ridiculous crackpot._  
 __craft beer money__  
 __craft__ _Craft sake._  
+__crafts__ :two::shit:  
 __crafty__  
 __cragginess__  
 __craggy__  
@@ -2036,6 +2040,7 @@ __criticize__ _v_
 __critique__ _v_  
 __critters__  
 __critters__ _Garden critters._  
+__critters__ _n_  
 __croak__ _v_  
 __croaked__  
 __crochet__  
@@ -2783,7 +2788,7 @@ __epicurean__
 __epidemic__ _n_ Notice: _n_!  
 __epiphany__  
 __epithet__  
-__epitome__ _n_ :four: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
+__epitome__ _n_ :five: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ (eponymously) :two::shit:  
 __equaled__ _v_  
@@ -3323,6 +3328,7 @@ __gal__
 __galboy__ _n_  
 __gale__ _n_ :two: An extremely strong wind: _the gale blew down hundreds of trees._  
 __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._  
+__galleys__ _n_  
 __galling__ _adj_ :two::shit: _A galling loss._  
 __galloping__  
 __galvanize__ _v_  
@@ -3382,6 +3388,7 @@ __gavel__
 __gavel__  
 __gavel__ _n_ :two::shit:  
 __gaze__  
+__gaze__ _v_  
 __gazebo__  
 __gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
@@ -3544,6 +3551,7 @@ __gravesite__
 __gravestone__  
 __gravitas__  
 __gravitate__ _v_ :two::shit: _He gravitated toward politics._  
+__gravy__  
 __gravy__ _n_  
 __graybeards__ _Senate graybeards._  
 __graze__ _v_ :six::shit: (grazing) _Some species can graze on the extra algae._    
@@ -3916,6 +3924,7 @@ __hike<sup>2</sup>__ _v_ :two::shit: _Hiked prices._
 __hillbilly__ :two::shit:  
 __hillocks__  
 __hillside__ _n_  
+__hinder__ _v_  
 __hinky__  
 __hinterland__ /ˈhɪntəland/ :three: (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hipper__ _adj_ :two::shit: _Hipper Nancy Drew._  
@@ -4728,12 +4737,11 @@ __lumber<sup>2</sup>__ _n_ _A shopper checks out with her lumber._
 __lumber__ _Lumber & home improvement._  
 __lumberjack__ _n_ :two::shit:  
 __luminary__ _Hollywood luminaries._  
-__lump<sup>1</sup>__ _n_ __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
+__lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
-__lumpy__  
-__lumpy__ _Lumpy headlights._  
+__lumpy__ :two::shit: _Lumpy headlights._  
 __lunch lady__ _She worked as a lunch lady._  
-__luncheon__ :three::shit:  
+__luncheon__ :five::shit:  
 __lunchpail__  
 __lunge<sup>1</sup>__ _v_ :two::shit:  
 __lunge<sup>2</sup>__ _n_ :two::shit: _A reckless lunge at Gerrard._  
@@ -5203,6 +5211,7 @@ __nitpicking__
 __nitpicking__  
 __nitpicking__ _Nitpicking rules._  
 __nits__ _Hair filled with nits._  
+__nitty gritty__  
 __no early birds!__ (?)  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
@@ -5337,6 +5346,7 @@ __one-note__
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ _British informal_ Something done, made, or happening only once. _The meeting is a one-off._  
 __one-offs__  
+__one-run__ _One-run games._  
 __onerous__  
 __onesie__ _n_ :three::shit: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlookers__  
@@ -5474,6 +5484,7 @@ __paisley__
 __paisley__  
 __paisley__ _A green paisley bow tie._  
 __palatable__ :two::shit:  
+__palate__ _Soft palate._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
 __paleo__  
 __pall__ _n_ :four::shit: _The tragedy casts a pall over Austin._  
@@ -6382,6 +6393,7 @@ __relocate__ _v_ _They plan to relocate to Denver soon._
 __remanded__ _v_  
 __remembrance__  
 __remembrance__ :three: _n_ The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
+__reminiscent__  
 __remit__  
 __remittances__ :two::shit:  
 __remorse__ _n_  
@@ -7007,6 +7019,7 @@ __shore up__ _v_ :six: (shoring up) Support by placing against something solid o
 __shoring up__ _v_  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short-handed__ :four::shit: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
+__short-lived__  
 __short__ _He typically wears shorts to work._  
 __shortchange__ _v_  
 __shortchanged__ _I think people will be shortchanged._  
@@ -7612,6 +7625,7 @@ __squeamish__
 __squeamish__ Easily  upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squelch__  
+__squelch__ _v_  
 __squelched__ _v_  
 __squire__ :two::shit: _Is he her consort or her squire?_  
 __squirm<sup>1</sup>__ _v_ :two::shit: _Five-year-old Katie squirmed in her lap._  
@@ -7854,6 +7868,7 @@ __stringent__
 __stringent__ _adj_ :five: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :three::shit:  
 __strip mall__ _n_  
+__strive__ _v_  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _Writhing in the strobe lights after dark._  
@@ -8083,7 +8098,7 @@ __tannin__ _n_ Any of various complex phenolic substances of plant origin; used 
 __tantalize__ _v_  
 __tantalizing__ :two::shit: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :six: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
-__tap__ _v_ :three::shit:  
+__tap__ _v_ :four::shit:  
 __taper<sup>1</sup>__ _n_ __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone).  
 __taper<sup>2</sup>__ _v_ :nine: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity.  
 __taproot__  
@@ -8706,7 +8721,7 @@ __velvet rope__
 __velvet rose__ :camera:  
 __venal__  
 __venality__  
-__vendor__  
+__vendor__ _n_ :two::shit:  
 __veneer__ _n_ :four::shit:  
 __venial__ _adj_  
 __venom__  
