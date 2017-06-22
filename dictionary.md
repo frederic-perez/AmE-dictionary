@@ -1787,7 +1787,7 @@ __commendation__ _He earned two commendation medals._
 __commendations__ _n_  
 __commingled__ :two::shit:  
 __commission__ _v_  
-__commissioned__ :open_mouth::four::shit:  
+__commissioned__ :open_mouth::five::shit:  
 __commode__  
 __commoditization__  
 __communiqué__ (communiqués) :two::shit:  
@@ -1925,6 +1925,7 @@ __corpsman__ _He was trained as a medical corpsman._
 __corral__ _v_  
 __corralled__ _v_  
 __corralling__ _v_  
+__corridor__  
 __corsages__  
 __cosseted__  
 __cot__ _n_  
@@ -2183,6 +2184,7 @@ __dazzling__ _adj_ :seven: (dazzlingly) __1__ Extremely bright, especially so as
 __dazzling__ _v_  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
+__dead on__  
 __dead ringer__ An exact duplicate.  
 __deadbeat__ _adj_ :three::shit: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
@@ -2836,6 +2838,7 @@ __exempt__ _v_
 __exemption__ _Dru earned an exemption into the tournament._  
 __exert__ _v_  
 __exert__ _v_ :four::shit: (exerted) _To exert due diligence._  
+__exertion__  
 __exhaust__ _Exhaust fans._  
 __exhibit A__  
 __exonerate__ :two::shit:  
@@ -5567,6 +5570,7 @@ __pate__ _n_ :two::shit: _His grizzled pate shone like tan wax._
 __patently__ _Patently absurd._  
 __pathogenic__  
 __pathos__ _Ms. Merkel is known to be allergic to pathos and big words._  
+__patinated__ _v_  
 __patois__  
 __patron__ _n_ :four::shit: _China, North Korea's patron._  
 __patronage__  
@@ -5879,6 +5883,7 @@ __pool cues__ :two::shit:
 __pop__ :two::shit: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._  
 __pop__ The deep price cut made a first day pop much more likely._  
 __pop__ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._  
+__pop__ _She hit .357 and she has some pop._  
 __pops__ (parents?}  
 __populace__  
 __poring__ _v_  
@@ -6612,7 +6617,7 @@ __ruckus__
 __ruckus__ _n_ :three::shit: _The comment caused a ruckus._  
 __rudderless__  
 __ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
-__rue__ _v_ _Pa. town rues sacrifice of its war dead._  
+__rue__ _v_ :two::shit::open_mouth: (rues) _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _He gave a rueful smile._  
 __ruefully__ :two::shit:  
 __ruffled__ (ruffling) :two::shit: _v_  
@@ -7590,7 +7595,7 @@ __spur of the moment__ _The administrators mada a "spur of the moment" decision 
 __spurious__ 1590-1600; < Latin _spurius_ bastard  __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
 __spurred__ _v_  
 __spurring__ :three::shit:  
-__spurt<sup>1</sup>__ _n_ :five: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
+__spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __sputs__  
 __sputter__ _v_  
@@ -7776,7 +7781,7 @@ __stintful__
 __stipend__ _n_ :three::shit: (stipends)  
 __stipulate__ _v_ :two::shit:  
 __stir__ _v_  
-__stirring__ _adj_ :two::shit: _Stirring tales._  
+__stirring__ _adj_ :three::shit: _Stirring tales._  
 __stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
