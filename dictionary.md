@@ -693,6 +693,7 @@ __balm__
 __balmy__ _The air was sweet and balmy._  
 __balogna__ _n_  
 __balustrades__  
+__bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bandanna__  
 __bandit__ _n_  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
@@ -755,6 +756,7 @@ __bauble__ :two::shit:
 __baubles__  
 __bawdy__  
 __bays__ _n_  
+__bazillion__  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __beam__ _A wooden beam._  
 __beam__ _v_ To smile radiantly or happily.  
@@ -808,6 +810,7 @@ __beguile__
 __beguiling__  
 __beguiling__ :two::shit: _The Artist has an utterly beguiling purity._  
 __behemoth__ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
+__behest__  
 __behest__ _n_ :four::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ :two::shit: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :seven: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
@@ -2361,6 +2364,7 @@ __disavowed__ _v_
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::shit: (disbarred)  
 __discharge__ _v_ :five::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ *Why not 'fired'?  
+__discombobulate__ _v_ :open_mouth:  
 __discontinued__ _v_  
 __discounter__ _n_  
 __discourse__  
@@ -2469,6 +2473,7 @@ __doorbuster__ (door-buster) :four: A doorbuster is a marketing and sales strate
 __doorknob hanger__  
 __doorman building__ _n_  
 __doormat__  
+__doozy__  
 __doozy__ :two: _Informal_ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
 __dopey__ _adj_ :two::shit: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __dork__ __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
@@ -3937,6 +3942,7 @@ __hit and miss__
 __hit man__  
 __hit out__ _v_  
 __hit parade__  
+__hit the sack__  
 __hit the wall__  
 __hitch<sup>1</sup>__ _n_  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
