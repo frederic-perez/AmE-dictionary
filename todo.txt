@@ -95,4 +95,13 @@ __pop__ _v_
 __placket__  
 __gusseted__ _Gusseted underarms._  
 __horn buttons__ :camera:  
+__red tape__  
+__freewheel__ _v_ _Freewheeling style._  
+__dwindle__ _v_  
+__con artist__  
+__pastimes__ _n_  
+__lean and mean__ _Companies are running lean and mean these days._  
+__forfeit__ _v_ We actually had to forfeit a game or two for not having enough players._  
+__due diligence__  
+__stepping stone__  
 
