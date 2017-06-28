@@ -746,7 +746,8 @@ __basing__
 __basket case__  
 __bass__ (fish)  
 __bass__ _Fingerling bass._  
-__baste__ _v_ :camera::three::shit: _To baste, brine and bicker._  
+__baste__ _v_ :camera::five::shit: (basting) _To baste, brine and bicker._  
+__baster__ _n_  
 __bastion__ _n_ :three::shit: _He tried to soften the National Front's image as a bastion of xenophobes._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bath tissue__  
@@ -1156,6 +1157,7 @@ __brazenly__ :two::shit:
 __brazer__  
 __breach__ _v_ :two::shit:  
 __breached__  
+__breadcrumbs__ :two::open_mouth::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break-the-china__  
 __breakaway__ :two::shit:  
 __breakdown__ _Population breakdown._  
@@ -1289,8 +1291,8 @@ __bungee rope__
 __bungle__ _v_ (bungled) :three::shit: _Cops badly bungled their attempt to frame a guilty man._  
 __bungler__ :two::shit: _Upper-crust bunglers._  
 __bungling__ Spoil by incompetence.  
-__bunk__  
-__bunk__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
+__bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
+__bunk<sup>2</sup>__ _v_ :two: (bunked) __1__ __a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend's house._ __2__ To go to bed: _bunked down early._  
 __bunker oil__  
 __bunkmates__  
 __bunraku__  
@@ -1439,7 +1441,7 @@ __cantering__ _v_ :two::shit:
 __cantilevered__  
 __cap__ _v_ :six: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __cape__ _n_ (housing)  
-__capers__  
+__caper__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
 __capitulation__  
 __caplet__ _n_  
 __caplets__ _n_  
@@ -1481,6 +1483,7 @@ __carryover__ _A carryover vehicle._
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
 __cartel__ _n_ :two::shit:  
+__carton__ _n_ :two::shit_ _A carton of eggs._ :camera: _A carton of milk._ :camera:  
 __carve out__ _v_ (carved out) :six::shit:  
 __carveouts__  
 __case in point__  
@@ -1528,9 +1531,7 @@ __ce__
 __ceasefire__  
 __cede__  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
-__celery stalk__  
-__celery__ (food)  
-__celery__ _n_ :two::shit:  
+__celery__ _n_ :six: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __cellist__  
 __cement bird bath__  
 __cement__ _v_ :two::shit: _He quickly cemented votes for the top job._  
@@ -1560,6 +1561,7 @@ __chaparral__ _n_
 __chaperones__  
 __chaplain__  
 __charade__  
+__chard__  
 __charging__ Accuse formally.  
 __charted__  
 __charter<sup>1</sup>__ _n_ :two::shit:  
@@ -1733,6 +1735,7 @@ __clout__
 __clout__  
 __clout__  
 __clout__ _n_ :nine: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
+__clove__ _n_ __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__  One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._ :open_mouth::dart::camera:  
 __cloying__ :two::shit: _She is cordial without being cloying._  
 __cluck__  
 __clucking__ _Clucking chickens._  
@@ -2487,11 +2490,11 @@ __dole out__ _v_ :seven: To give or deliver in small portions. _Pringles will do
 __dole out__ _v_ :two::shit:  
 __doled out__ _v_  
 __dolirometer__  
-__dollop__ :three: A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
-__dollops__  
+__dollop__ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
 __domicile__  
 __don't count your chickens before they're hatched__ Don't make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
+__doneness__ :open_mouth:  
 __doo-dah__  
 __doodad__  
 __dookie-wookie__  
@@ -2990,6 +2993,7 @@ __felt pen__
 __fence-mending__  
 __fend off__ _v_ :two::shit:  
 __fender bender__ :two::shit: _Stranded by a fender bender._  
+__fennel__  
 __feral__ :four::shit: _Feral hogs._ _Feral cats._  
 __fern garden__  
 __fern__  
@@ -4632,6 +4636,7 @@ __legion__ _The reasons you can't sleep well inflight are legion._
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
 __lemme__ _Lemme see._  
+__lemon wedges__ :camera: _Lemon wedges for serving._  
 __lemongrass__  
 __lemons > dance of the lemons__  
 __lemony__  
@@ -4963,6 +4968,7 @@ __megalomania__
 __meh__  
 __melee__ _n_ 
 __mellow__  
+__mellowed__  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __meme__  
 __memento__ _Removing mementos from a national park is illegal._  
@@ -5040,6 +5046,7 @@ __mire__ _v_ :open_mouth::seven::shit: (mired)
 __mired__ _v_  
 __mired__ _v_ :three::shit: _Britain is now mired in crisis._  
 __mirth__ _n_ :two::shit:  
+__mirthful__  
 __miscegenation__  
 __mischievous__  
 __misconduct__  
@@ -5260,7 +5267,7 @@ __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com
 __newspaper rack__  
 __newsy__  
 __nibble<sup>1</sup>__ _n_ (nibbles) :two::shit:  
-__nibble<sup>2</sup>__ _v_ (nibbling) :six::shit:  
+__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::shit:  
 __nice and easy__ _Informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __niche__  
 __nifty__  
@@ -5580,6 +5587,7 @@ __paltry__ _adj_ :seven: Very small or inadequate in amount; negligible: _was pa
 __pamper__ :two::shit: _v_  
 __pampered__  
 __pampling__  
+__pan drippings__ :two::shit:  
 __pan out__ :two::shit:  
 __pan__ _v_ _Obama pans republicans._  
 __panache__ :two::shit:  
@@ -5638,6 +5646,7 @@ __passage__ _n_ _The passage of three supplementary budgets this year._
 __passel__ _A passel of ducks._  
 __passersby__ _n_  
 __pastiche__  
+__pastime__  
 __pastimes__ _n_  
 __pasty__  
 __pasty__ _adj_  
@@ -6496,6 +6505,7 @@ __remit__
 __remittances__ :two::shit:  
 __remorse__ _n_  
 __remoulade__  
+__render__ _v_ _Cook bacon until about half the fat is rendered._  
 __rendering plant__  
 __renminbi__ :three::shit:  
 __renown__  
@@ -6820,6 +6830,7 @@ __sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to imp
 __sashayed__ _v_  
 __sass__ _v_ (sassed)  
 __sassy__  
+__satchel__ _n_  
 __sated__ _v_  
 __satyr__  
 __saucerful__  
@@ -8630,6 +8641,7 @@ __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ 
 __tumbling__  
 __turgid__ :three::shit:  
 __turkey drumstick__  
+__turkey stock__ :camera:  
 __turmoil__  
 __turning tables__ _Feds turning the tables on ssexual predators._  
 __turnip greens__  
@@ -9124,6 +9136,7 @@ __wilful__
 __willful__  
 __willfully__  
 __willy-nilly__ _adv_ :two: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
+__wilted__ _v_  
 __wilted__ _v_ :six::shit: (wilting) _He'd wilted under it._  
 __wily__ _adj_ :two::shit:  
 __wimp out__  
