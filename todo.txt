@@ -142,5 +142,6 @@ __townhouses__ _n_
 __triplex__ _A triplex penthouse._  
 __condo__  
 
-
+__catwalk__
+__Eskimo__  
 
