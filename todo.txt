@@ -8,7 +8,9 @@ __trampolines__ _n_
 __bestow__ _v_  
 __exposures__ (?) _Penthouse features include multiple exposures._  
 
-
+__guitar case__ :camera:  
+__duffel bag__  
+__grazed__ _Grazed by a bullet._  
 __peep__ _n_  
 __tatters__ _It is in tatters._ :camera:  
 __fliddle__ _v_  
