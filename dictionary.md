@@ -2644,7 +2644,7 @@ __dispatch__ _v_
 __dispatcher__ _n_ :two::shit:  
 __dispel__ _v_  
 __dispel__ _v_ :four::shit: (dispelled)  
-__dispirited__  
+__dispirited__ _v_ :two::shit:  
 __dispiriting__ _Dispiriting results._  
 __disposable__ _adj_ _A disposable lighter._  
 __disquiet__  
@@ -3691,7 +3691,7 @@ __garbed__
 __gargantuan__  
 __gargoyle__  
 __gargoyles__ :two::shit:  
-__garish__ :four::shit::open_mouth: _They are charming and garish at the same time._  
+__garish__ :five::shit::open_mouth: _They are charming and garish at the same time._  
 __garland__ _Garland motifs on carved oak paneling._  
 __garlands__ :camera: _Evergreen garlands._  
 __garment__  
@@ -3996,6 +3996,7 @@ __growl__ _n_
 __growl__ _v_  
 __growling__  
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
+__grubbing__ _v_  
 __grudge__ _n_ :five::shit: _I don't hold any grudges._ _Holding a grudge._ :es: rencor   
 __grudges__ _n_  
 __grudging__ (grudgingly) :two::shit:  
@@ -6523,8 +6524,7 @@ __pram__
 __prance__ _v_  
 __prance__ _v_ :three::shit: _On the floor exercise, Wieber prances, tumbles and smiles._  
 __prancing__ _Prancing reindeer._  
-__prattle__ _v_  
-__prattle__ _v_ To talk or chatter idly or meaninglessly; babble or prate.  
+__prattle__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
 __prayer wheel__  
@@ -7679,6 +7679,7 @@ __shell-shocked__ :two::shit:
 __shell__ _A shell corporation._ _Shell companies are easy to establish in Delaware._  
 __shellfish__ _Shellfish stewed, jerked._  
 __shelling out__  
+__shelling__ _v_  
 __shelved__ _v_ :three::shit: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shenanigans__  
 __shenanigans__  
@@ -7785,11 +7786,7 @@ __shudders__ _v_ :two::shit:
 __shuffle off__  
 __shuffling__  
 __shuffling__ _v_  
-__shun__  
-__shun__ _v_  
-__shun__ _v_  
-__shunned__  
-__shunned__ _v_  
+__shun__ _v_ :six::shit: (shunned)  
 __shush__ _v_  
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
@@ -8060,7 +8057,7 @@ __smart__ _Smart riding-clothes._
 __smart__ _Smart tailored jackets.__  
 __smashing__  
 __smashmouth__  
-__smattering__ _n_ :seven: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
+__smattering__ _n_ :eight: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
 __smear<sup>1</sup>__ _v_ __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :three: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
@@ -9008,8 +9005,7 @@ __thankless__ Ungrateful
 __thashing__  
 __that's the breaks__  
 __thaw<sup>1</sup>__ _v_ :four: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
-__thaw<sup>2</sup>__ _n_ :four: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
-__thaw__ _n_  
+__thaw<sup>2</sup>__ _n_ :five: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the "m" word__  
 __the 105's__  
@@ -9292,6 +9288,7 @@ __triumvirate__
 __trodden__  
 __troglodyte__ _n_  
 __troll__ _Kim may see these dual transitions as an opening to troll world powers._  
+__trollop__  
 __troop__  
 __trooper__ _n_ :two::shit:  
 __troot__  
@@ -10046,6 +10043,7 @@ __years old__ _Malone started playing guitar at 5 years old. (He got his first d
 __yellow wine__  
 __yelp__ _v_ (?)  
 __yelps__ _Puppy yelps._  
+__yeoman__  
 __yesteryear__ :two::shit:  
 __yew__  
 __yield__ :two::shit: _Failing to yield to pedestrians._  
