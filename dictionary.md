@@ -2084,8 +2084,7 @@ __contend__ _v_
 __contend__ _v_  
 __content__  
 __contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
-__contentious__  
-__contentious__ _adj_ :three: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
+__contentious__ _adj_ :five: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contiguous > the contiguous U.S.__  
 __continence__  
 __contingencies__  
@@ -2504,9 +2503,9 @@ __demonize__ _v_ :three::shit: (demonizing)
 __demonstrate__ :open_mouth:  
 __demonstration__ _n_  
 __demonstrators__  
-__demured__ _v_  
+__demur__ _v_ (demurred) :two::shit:  
+__demure__ _adj_ :two::shit:  
 __demurely__ :two::shit:  
-__demurred__ _v_ :two::shit:  
 __den__ :five: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __den__ _n_  
 __dengue fever__  
@@ -3105,8 +3104,7 @@ __evict__ _v_ :five::shit: (evicted)
 __evicted__  
 __evicted__ _v_  
 __eviction__ :two::shit:  
-__evince__ _v_  
-__evince__ _v_ :two::shit: _To evince an interest in politics._  
+__evince__ _v_ :four::shit: _To evince an interest in politics._ _She didn't evince surprise._  
 __eviscerate__ _v_  
 __exacerbate__ _v_ (exacerbated, exacerbating) :four: Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_  
@@ -4123,8 +4121,9 @@ __handyman__ :two::shit:
 __hangnail__ :two::shit:  
 __hangout__ :two::shit:  
 __hangout__ _This was a hangout._  
+__hank__   
 __hanker__ _v_ To have a strong, often restless desire.  
-__hankering__ Craving.  
+__hankering__ :two: (hankerings) Craving.  
 __hankies__ _n_  
 __hanks__ :open_mouth: _Stringy hanks of blond hair._  
 __hanky-panky__  
@@ -5184,7 +5183,7 @@ __lowlife__
 __lowlights__  
 __lowly__  
 __lucifer match__  
-__ludicrous__ :open_mouth: :three:: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrous__ :open_mouth::four: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::shit: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::shit:  
 __lug__ _v_ :three::shit:  
@@ -5913,6 +5912,7 @@ __otherworldly__
 __ottoman__  
 __ouboros__ _n_  
 __ouster__ _n_  
+__out of hand__  
 __out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
@@ -7945,6 +7945,7 @@ __sleep deprivation__
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleepwalking__  
 __sleepwear__ (vs sportswerar, etc.)  
+__slender__  
 __sleugh__ _Sassy (TV) sleugh._  
 __sleuthing__  
 __sleuthing__  
@@ -9593,8 +9594,7 @@ __vanilla-flavored__ _He is cautious about every step, to the point of seeming v
 __vanquish__ _v_  
 __vanquish__ _v_ :four::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
-__vapid__  
-__vapid__  
+__vapid__ :three::shit:  
 __variety store__  
 __varmints__  
 __varsity__  
