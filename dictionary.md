@@ -1602,8 +1602,7 @@ __cardinal__ _Breaking cardinal rules of marketing._
 __careen__ _v_  
 __careened__ _An open-air tour bus careened wildly out of control._  
 __careened__ _v_  
-__careening__  
-__careening__  
+__careening__ :three::shit::camera:  
 __careens__ _v_ :four::shit: (careened, careening)  
 __caresses__ _v_  
 __caretaker__  
@@ -1970,7 +1969,7 @@ __come around__
 __come of age__  
 __come to grips__  
 __come together__  
-__comely__ _A comely smile._  
+__comely__ :two::shit: _A comely smile._  
 __comeuppance__  
 __comforter sets__  
 __comforters__  
@@ -2264,7 +2263,7 @@ __croak__ _v_
 __croaked__  
 __crochet__  
 __crochet__ _v_ :three::shit: (crocheting)  
-__crones__ _n_ :two::shit:  
+__crone__ _n_ :three: A witchlike old woman.  
 __cronies__  
 __cronies__ _n_ :three::shit: _Military cronies._  
 __crony__  
@@ -2740,6 +2739,7 @@ __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.
 __double-cross__ _n_  
 __double-decker bus__  
 __double-decker__ _Double-decker bus._  
+__doublet__ _n_ :camera:  
 __doubly__  
 __doubting Thomas__ _n_  
 __douchebag__ (douche bag) :two: _Informal_ An obnoxious or contemptible person, typically a man. :es: gilipollas  
@@ -2789,6 +2789,7 @@ __drawingrooms__
 __drawl__  
 __drawl__  
 __drawl__ _n_ :two::shit: _A Southern drawl._  
+__drayman__  
 __dread__ _n_  
 __dread__ _v_  
 __dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
@@ -3284,6 +3285,7 @@ __field__ _v_ (fielded, fielding) __1__ :two: _cricket, baseball_ Attempt to cat
 __fierce__  
 __fierce__  
 __fiery__  
+__fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
 __fifth column__ :open_mouth: _A fifth column preparing to rise up and join the security forces._  
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
@@ -4202,6 +4204,7 @@ __havoc__
 __hawing__  
 __hawk__ _v_  
 __hawk__ _v_ _Vendors hawk greeting cards and inexpensive artwork._  
+__hawked__ _v_  
 __hawkish__  
 __hawkish__  
 __hawkish__ :four::shit: _Hawkish views._ _Hawkish national security team._  
@@ -5862,7 +5865,7 @@ __on edge__
 __on the docket__  
 __on the hoof__  
 __on the run__  
-__on the sly__ _Stealing kisses from me on the slide._  
+__on the sly__ :two::shit: _Stealing kisses from me on the slide._  
 __on top of that__ _On top of that, ..._  
 __on track__ _He appears to be on track to play._  
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
@@ -6242,6 +6245,7 @@ __phlegm__
 __phlegmy__ :three::shit:  
 __photo-op__  
 __piano wire__  
+__pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick on__  
 __pick up__ :two::shit: _You could use it when picking up cards at the supermarket's kiosk._  
 __pick up__ _His turnover-prone play doesn't pick up._  
@@ -6776,6 +6780,7 @@ __quell__ _v_ :nine::arrow_up_small::o2: (quelled) Put an end to (a rebellion or
 __quelled__ _v_  
 __quench__  
 __quenches__ _v_  
+__querulous__  
 __quibble__ _v_  
 __quibbled__ (quibbling) :two::shit: _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
@@ -6797,7 +6802,7 @@ __quivering__
 __quixotic__  
 __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __rabble-rouser__  
-__rabble__  
+__rabble__ :two::shit:  
 __rabies__ _A squirrel with rabies._  
 __raccooned__ _v_  
 __raccoons__  
@@ -8562,6 +8567,7 @@ __stipulate__ _v_ :two::shit:
 __stir__ _v_  
 __stirring__ _adj_ :three::shit: _Stirring tales._  
 __stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
+__stitch__ _n_ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
 __stocking-stuffers__  
@@ -8736,6 +8742,7 @@ __succumb__ :open_mouth:
 __such-and-such__  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
 __sucker__ _He is a sucker for anything cute._  
+__suckle__ _v_  
 __suds__  
 __sudsy__  
 __suffragette__  
@@ -8771,8 +8778,7 @@ __surge__ _v_
 __surge__ _v_  
 __surge__ _v_  
 __surliness__  
-__surly__  
-__surly__ _adj_ Unfriendly and rude. _A waiter with a surly attitude._  
+__surly__ _adj_ :three: Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmount__ _v_  
 __surplice__ _n_  
@@ -8926,6 +8932,7 @@ __tarnish__ _v_ :five::camera::shit: Lose or cause to lose lustre, especially as
 __tarp__ _n_ :six::shit:  
 __tarpon__  
 __tarps__ _n_  
+__tarred__  
 __tart__  
 __tart__ _She'd bitten into something overly tart._  
 __tartan__ :two::shit: _Tartan trousers._ _Tartan upholstery._  
@@ -9804,6 +9811,7 @@ __whackadoodle__
 __whammy__ :two::shit: _A double whammy of injuries._  
 __whanged__ _v_ :two::shit:  
 __whanging__  
+__wharf__  
 __what's the haps?__  
 __whee!__  
 __wheedle__ _v_ To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
@@ -9822,6 +9830,7 @@ __whetstone__
 __whetted__ _v_  
 __whetting__ _Whetting the appetite for next year's Part 2._  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
+__whickering__  
 __whiff__  
 __whiff__ :two::shit:  
 __whiffed__ _v_  
@@ -9938,6 +9947,7 @@ __withdrawal__ _n_ Withdrawal is when you take something out, like making a with
 __withe down__ _v_  
 __wither__ _v_ :two::shit: (withers)  
 __withered__ _v_  
+__withes__ _n_  
 __withhold__  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobbly__  
