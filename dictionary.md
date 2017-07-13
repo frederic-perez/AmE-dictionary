@@ -1660,7 +1660,7 @@ __catcalls__
 __catcalls__ _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
 __catch-up schedule__  
-__catechism__ :open_mouth:  
+__catechism__ :two::shit::open_mouth:  
 __caterwauling__  
 __catfish__  
 __catfish__ _n_ :two::shit:  
@@ -5190,7 +5190,7 @@ __lug wrench__ :two::shit:
 __lug__ _v_ :three::shit:  
 __luge__ _Olimpic luge team._  
 __luger__ _Team USA's best lugers._  
-__lugging__  
+__lugging__ _v_ :two::shit:  
 __lull__  
 __lull__ (lulls) :two::shit: _n_  
 __lull__ _n_  
@@ -5903,6 +5903,7 @@ __ore__
 __ornament__  
 __ornate__ _n_ :four::shit:  
 __ornery__ :two::shit:  
+__orphrery__  
 __oscillating fan__  
 __ossified__  
 __osteoarthritis__  
@@ -6263,7 +6264,7 @@ __piecemeal__
 __pied-à-terre__ _Use as pied-à-terre is allowed._  
 __pied__  
 __pieds-à-terre__  
-__pig iron__ _n_ :two::shit:  
+__pig iron__ _n_ :three::shit: _Pigs of iron._  
 __pigboat__ _n_  
 __pigs in a blanket__ (food?) :camera:  
 __pike__ _You can handle whatever comes down the pike._  
@@ -7501,9 +7502,8 @@ __scrawny__ _Two scrawny containers of grape jelly._
 __scream-o-meter__  
 __screaming yellow__  
 __screech__ _n_ :two::shit:  
-__screeched__ _v_  
-__screeching__  
-__screeching__ :three::shit:  
+__screeched__ _v_ :two::shit:  
+__screeching__ :four::shit:  
 __screwball__  
 __screwball__ _A classic screwball comedy._  
 __screwball__ _The screwball buddy comedy._  
