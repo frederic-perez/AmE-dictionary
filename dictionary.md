@@ -2037,6 +2037,7 @@ __conducive__ :two::shit: _The vehicle doesn't seem conducive to passing._
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
 __conduit__ _n_  
 __conduit__ _n_ :two::shit:  
+__coneys__  
 __confection__  
 __confederacy__  
 __conference call__  
@@ -2318,6 +2319,7 @@ __cue ball__ :two::shit:
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
 __cuff links__  
+__cuffed__ _v_  
 __cull__ _v_ :four::shit: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
@@ -4329,6 +4331,7 @@ __hillside__ _n_
 __hinder__ _v_  
 __hinky__  
 __hinterland__ /ˈhɪntəland/ :three: (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
+__hip flask__ :camera:  
 __hipper__ _adj_ :two::shit: _Hipper Nancy Drew._  
 __hirsutism__  
 __hissy__ _Hissy fit._  
@@ -6040,6 +6043,7 @@ __palladium__
 __pallbearer__  
 __pallbearer__  
 __pallet__ _n_ :four::shit:  
+__pallholder__ _n_  
 __palliative__ _Palliative care._  
 __palmettos__ :two::shit:  
 __palomas__  
@@ -6108,6 +6112,7 @@ __parted__ _Slightly parted lips._
 __particle board__  
 __partisan__ _A partisan atmosphere._  
 __partisans__ _n_  
+__partridge__  
 __party poppers__  
 __parvenu__  
 __pass policy__  
@@ -6753,7 +6758,7 @@ __quaffable__
 __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ :two: _n_ __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ :es: atolladero  
 __quagmire__ _Local journalists are caught in the quagmire._  
-__quail__ _n_  
+__quail__ _n_ :two::shit:  
 __quaint__  
 __quaint__ _Quaint streets._  
 __quaint__ _adj_ :five::shit: _Quaint town._  
@@ -7103,6 +7108,7 @@ __restraint__ :two::shit: _n_
 __resumption__ _n_ :six::shit::open_mouth: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retched__ _v_  
 __retelling__  
 __rethoric__  
 __retinues__ _n_  
@@ -8620,7 +8626,7 @@ __straight__ _Their second straight win._
 __strain<sup>1</sup>__ _v_ :eight: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
 __strain<sup>2</sup>__ _n_ :two::shit:  
 __strain__ _v_  
-__strained__ :two::shit: _A strained thumb._  
+__strained__ :three::shit: _A strained thumb._  
 __straining__  
 __strains__  
 __straits__  
@@ -9095,6 +9101,7 @@ __tickle__ _v_ :two::shit: _Does that tickle?_
 __ticklish__  
 __ticklish__  
 __ticky-tacky__ _The ticky-tacky plan._  
+__tidbit__ :left_right_arrow::open_mouth:  
 __tidbits__ :two::shit:  
 __tidy__ _A tidy plan._  
 __tie-dye__  
@@ -9289,6 +9296,7 @@ __trinkets__
 __trinkets__ _n_  
 __triple__  
 __triplex__ _A triplex penthouse._  
+__triptych__  
 __trite__  
 __trite__ _adj_ :five: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
@@ -9340,6 +9348,7 @@ __tuck away__
 __tuck tail__ _You just don't tuck tail and go someplace else._  
 __tuck__  
 __tucked__  
+__tucked__ _v_  
 __tucked__ _v_  
 __tufted__  
 __tug of war__  
@@ -10055,6 +10064,7 @@ __yelp__ _v_ (?)
 __yelps__ _Puppy yelps._  
 __yeoman__  
 __yesteryear__ :two::shit:  
+__yew tree__  
 __yew__  
 __yield__ :two::shit: _Failing to yield to pedestrians._  
 __yin and yang__  
