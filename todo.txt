@@ -23,6 +23,30 @@ __dole out__ _v_
 __tall order__  
 __bid__ :left_right_arrow: _She didn't bid him farewell._  
 
+__herring__ _n_  
+__heathen__   
+__damp__ _adj_ _Damp, dirty labor._  
+__fen__ _n_  
+__bpgs__ _n_  
+__sacristy__ _n_  
+__chapter__ _To the east was the chapter house._  
+__refectory__  
+__cowl__  
+__tonsure__  
+__pallet__  
+__shrill__ _v_ _Crickets shrilled._  
+__clambered__ _v_  
+__oars__ _n_  
+__whooped__ _v_  
+__cap__ _n_ (hat?)  
+__necromancy__  
+__indenture__ _v_  
+__clysters__ _n_  
+__bidding__  
+__carousing__ _v_  
+__awestruct__  
+__injuction__  
+
 __plundered__  
 __frizzled__ _Frizzled beard._  
 __daubed__  
@@ -44,3 +68,4 @@ __pelts__ _n_
 __thong_f  
 __haunches__ _n_  
 __berserkers__ _n_  
+
