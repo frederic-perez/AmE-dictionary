@@ -35,6 +35,27 @@ __jaundice__
 __grumbled__  
 __turnip__  
 __provender__  
+__keep__ _n_ :es: torreón  
+__moat__ _n_  
+__fastness__  
+__gable__ _n_  
+__redolent__  
+__festered__ _v_ :es: ulcerarse  
+__bitch__ _n_ :es: perra  
+__yipped__ _v_  
+__listless__  
+__maggot__ :dart::camera:  
+__shun__ _v_ :es: esquivar, rehuir  
+__flayed__ _v_  
+__hawked__ _v_  
+__shambled__  
+__harry__ _v_  
+__dolt__  
+__out of sorts__ :two::shit:  
+__singe__ _v_ :open_mouth:  
+__barded__ _v_  
+__flaxen__ _Flaxen cord._  
+__cord__ _n_ :camera:  
 
 __muck__  
 __wharves__  
