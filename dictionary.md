@@ -200,6 +200,7 @@ __Motor City__ Detroit.
 __Mr Goodwrench__  
 __Mr. Such and Such__  
 __Muni bus__  
+__N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
 __NATO__ _North Atlantic Treaty Organization_  
 __NCO__  
@@ -327,7 +328,6 @@ __Whodunit__
 __Wholly Molly__  
 __X's and O's__ :two::shit: _There are the X's and O's._  
 __X-factor__ _Terry could become Ryukyu's X-factor._  
-___N_-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __abalone__  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
@@ -3839,8 +3839,7 @@ __gentrification__ :three::shit:
 __gentrify__ _v_ (gentrifying)  
 __gentry__  
 __genuflects__ _v_  
-__gerry[-?]mandering__  
-__gerrymander__ :two: Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
+__gerrymander__ :three: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __get a grip__  
 __get a jump__ _Get a jump on things._  
 __get ahold__  
@@ -5836,7 +5835,7 @@ __nematodes__
 __neorealist__  
 __neoteric__  
 __nepotism__ :three::shit:  
-__nerve_racking__  
+__nerve-racking__  
 __nervy__ :open_mouth::two::shit:  
 __nest egg__ :three::shit:  
 __nestle__ _v_ :two::shit:  
