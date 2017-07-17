@@ -7597,7 +7597,7 @@ __sap<sup>1</sup>__ _v_ :five: (sapped, sapping, sappy) Gradually weaken or dest
 __sap<sup>2</sup>__ _n_ :two::shit: _A flat-sided sap stuck out of his back pocket._  
 __sap__  
 __sap__ _v_ _Weak demand sapping trade._  
-__sapling__ _n :three: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
+__sapling__ _n_ :three: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __saplings__  
 __sapped__ _v_  
 __sapping__  
@@ -8385,9 +8385,9 @@ __snowpack__ _Snowpacking measurements._
 __snowpack__ _n_  
 __snowplows__ _n_  
 __snowshoeing__ :two::shit:  
-__snub-nosed__ :two::shit: _ Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
+__snub-nosed__ :two::shit: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::arrow_up_small::o2: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
-__snub<sup>2</sup>__ _n_  A deliberate slight or affront.  
+__snub<sup>2</sup>__ _n_ A deliberate slight or affront.  
 __snub__  
 __snub__  
 __snub__ _n_  
