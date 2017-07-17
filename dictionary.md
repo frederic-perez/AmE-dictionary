@@ -2511,7 +2511,7 @@ __default__ _v_ :three::shit: _The Solar Energy company defaulted._
 __defect__ _v_ :four: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defected__ _v_  
 __defection__  
-__defection__ _n: :six: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
+__defection__ _n_ :six: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defector__ :four::shit: _Army defectors._  
 __defer__ _v_  
 __deference__  
@@ -2645,7 +2645,7 @@ __dipping__ _v_ (ebbing?)
 __dips__ _n_  
 __dipsomania__  
 __dire__  
-__dire__ :four: _adj_ (of a situation or event) Extremely serious or urgent. Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal  
+__dire__ :four: _adj_ (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal  
 __dire__ _After showing some improvement, Howe's health again appeared dire last weekend._  
 __dirge__  
 __dirges__ _n_  
@@ -2833,7 +2833,7 @@ __downward__ _A downward spiral._
 __dowry__  
 __doyenne__  
 __doze__ _v_  
-__drab__ _adj: :four: (drabber jobs) _adj_ Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
+__drab__ _adj_ :four: (drabber jobs) _adj_ Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
 __draconian__ :two::shit:  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag racing__  
@@ -3140,7 +3140,7 @@ __eponymous__
 __eponymous__ (eponymously) :two::shit:  
 __equaled__ _v_  
 __equalizer__  
-__equalizing__  equalize__ _v_ _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
+__equalize__ _v_ :two::shit: (equalizing) _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
 __equinox__  
 __equipped__  
 __equity__  
@@ -3569,7 +3569,7 @@ __foodstuffs__
 __foolhardy__ :two::shit:  
 __foolproof__ _A foolproof measure._  
 __foosball table__  
-__foosball__ __Foosball table._  
+__foosball__ _Foosball table._  
 __foot-stomping__  
 __foot__ _v_  
 __foothold__ _A foothold._  
@@ -3612,7 +3612,7 @@ __forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived o
 __forfeit<sup>2</sup>__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeit__  
 __forfeit__ _v_  
-__forfeit__ _v_ We actually had to forfeit a game or two for not having enough players._  
+__forfeit__ _v_ _We actually had to forfeit a game or two for not having enough players._  
 __forfeited__  
 __forfeited__ _v_  
 __forfeiture__ _n_ :two: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
@@ -6029,7 +6029,7 @@ __on the run__
 __on the sly__ :two::shit: _Stealing kisses from me on the slide._  
 __on top of that__ _On top of that, ..._  
 __on track__ _He appears to be on track to play._  
-__on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ __All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
+__on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
 __on__ _The plans are described on ots website._  
 __once-over__  
 __one too many__ _We drank one too many._  
@@ -6675,7 +6675,7 @@ __poster child__ _The building had been called a poster child for gentrification
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
 __postmark__ _v_  
 __pot bunkers__  
-__pot__ _ A pot of assets._  
+__pot__ _A pot of assets._  
 __potatoes__  
 __pothole__  
 __potholed__ _The island's potholed highways._  
@@ -6759,7 +6759,7 @@ __preventative__ _Preventative antibiotics._
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
 __preyed__ _v_   
 __prez__ or __Prez__ :two: _n_ _Informal_ President.  
-__price point__ __The best in price point._  
+__price point__ _The best in price point._  
 __price tag__  
 __pricey__  
 __prick__ _v_  
@@ -7163,7 +7163,7 @@ __recreational__ _Recreational marijuana vs medical marijuana._
 __rector__  
 __recuse__ _She recused herself._  
 __red hot__ :two::shit: _Now the market is red hot._  
-__red taoe__ It would add red tape and increasing processing time._  
+__red taoe__ _It would add red tape and increasing processing time._  
 __red tape__  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
@@ -8068,7 +8068,7 @@ __singed__ _v_
 __single out__ _v_ :two: To select one from a group and treat differently.  
 __singletree__ _Singletree plow._  
 __sinkhole__ _n_  
-__siphon__ _It is fairly easy to syphon profits fr
+__siphon__ _It is fairly easy to syphon profits._  
 __siphoned__ _v_  
 __siphoning__ _v_  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
@@ -8277,7 +8277,7 @@ __small__ _I rubbed the small of her back._
 __smallpox__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ _Smart riding-clothes._  
-__smart__ _Smart tailored jackets.__  
+__smart__ _Smart tailored jackets._  
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :eight: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
@@ -8317,7 +8317,7 @@ __smug__
 __smug__ _He was sort of smug about it._  
 __smug__ _Pour yourself a whiskey and feel smug about your incredible preparedness._  
 __smug__ _adj_  
-__smug__ _adj_ :three::shit: _Smug belief.___Their smug belief in some form of American exceptionalism._  
+__smug__ _adj_ :three::shit: _Smug belief._ _Their smug belief in some form of American exceptionalism._  
 __smugly__  
 __smugly__  
 __smugly__  
@@ -8742,7 +8742,7 @@ __stemmed__
 __stemming__ _v_  
 __stenographer__  
 __stenographer__  
-__stentorian__ _adj__ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
+__stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __stepfather__ _(vs godfather)_  
 __steppes__ _n_  
 __stepping stone__  
@@ -8900,7 +8900,7 @@ __strobe lights__ _The Cubs packed up their fog machine and strobe lights._
 __strobe__ _Writhing in the strobe lights after dark._  
 __strongman__  
 __struck__ :two::shit: _The Paris climate was struck almost a year ago._  
-__strummed__ _v_ _He then strummed out a string of hits, including "Message in a Bottle."  
+__strummed__ _v_ _He then strummed out a string of hits, including "Message in a Bottle."_  
 __strung out__  
 __strut__ _v_  
 __strut__ _v_ :three: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
@@ -9969,7 +9969,7 @@ __wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a
 __wallboard__  
 __wallflower__  
 __wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
-__wallow__ _v_ :nine: (wallows, wallowing) _1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
+__wallow__ _v_ :nine: (wallows, wallowing) __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::shit: _A wan reception._  
 __wane__ _v_  
 __waning__ :two::shit: _The waning hours._  
