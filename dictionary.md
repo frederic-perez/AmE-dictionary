@@ -6316,7 +6316,7 @@ __paydirt__
 __payoffs__ _n_  
 __paywalls__  
 __peaks and valleys__  
-__peal<sup>1</sup>__ _n :two::shit: _Jimmy could hear the peal of bells._  
+__peal<sup>1</sup>__ _n_ :two::shit: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ _Pealing bells._  
 __peal__ _v_ _The bells of Notre Dame pealed._  
 __pear martinis__  
@@ -6644,7 +6644,7 @@ __pooch__
 __poofy__ :open_mouth:  
 __pool cues__ :two::shit:  
 __pop__ :two::shit: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._  
-__pop__ The deep price cut made a first day pop much more likely._  
+__pop__ _The deep price cut made a first day pop much more likely._  
 __pop__ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._  
 __pop__ _She hit .357 and she has some pop._  
 __pop__ _v_  
