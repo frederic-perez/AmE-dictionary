@@ -1702,8 +1702,7 @@ __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy cat
 __caucus__ :three::shit: _Kentucky will hold a Republican caucus on March 5._  
 __cauliflower steaks__ :camera:  
 __caulking__  
-__causeway__ _n_  
-__causeway__ _n_ :two::shit:  
+__causeway__ _n_ :four::shit:  
 __cavalry__  
 __cave__ _v_ :three: Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caved__ _v_ :two::shit: _The FAA caved._  
@@ -1740,6 +1739,7 @@ __chalkboard__ _n_
 __chalky__ _Chalky skin._  
 __champ__ :two::shit: Champion?  
 __champagne flutes__ _n_ :camera:  
+__chandler__  
 __chant__ _v_ (vs sing?)  
 __chanticleer__ _n_  
 __chanting__  
@@ -2439,6 +2439,7 @@ __dank__
 __dank__  
 __dank__ :three: _adj_ Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__  
+__dankness__  
 __dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __dapper__ :two::shit:  
 __dappled__  
@@ -2717,6 +2718,7 @@ __disservice__ _(funny spelling)_
 __dissimilarly__  
 __dissing__ _v_  
 __dissolution__  
+__dissuaded__  
 __distemper__ _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__  
 __distinctly__  
@@ -3139,8 +3141,8 @@ __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.
 __eponymous__  
 __eponymous__ (eponymously) :two::shit:  
 __equaled__ _v_  
-__equalizer__  
 __equalize__ _v_ :two::shit: (equalizing) _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
+__equalizer__  
 __equinox__  
 __equipped__  
 __equity__  
@@ -3601,6 +3603,7 @@ __forefinger__
 __forefront__  
 __forego__  
 __foregone__  
+__foreman__  
 __foreman__  
 __forensice__  
 __foreplay__  
@@ -4105,9 +4108,7 @@ __grungy__
 __grunt__ _n_ __1__ :two: A deep guttural sound. __2__ :two: _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ :three: _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__  
 __grunted__ _v_  
-__guffaw__ (guffaws) :two::shit:  
-__guffawing__  
-__guffaws__  
+__guffaw__ _v_ :five::shit: (guffaws, guffawed, guffawing)  
 __guibble__  
 __guidet__ _Two guidettes._  
 __guile__ :two::shit:  
@@ -4259,6 +4260,7 @@ __hardship__ _n_ :five: (hardships) _n_ Severe suffering or privation. _Intolera
 __hardwood__ :two::shit: _The hardwood floor._  
 __hardy__  
 __harebrained__  
+__hares__ _n_  
 __hark__ _v_ :two::shit: (harking)  
 __harmonize__ _v_  
 __harness__ _v_ _Harnessing big data._  
@@ -4392,7 +4394,7 @@ __hemmed__ _v_ :two::shit:
 __hemming__  
 __hemp__  
 __hemp__  
-__henchman__ (henchmen) :two::shit: _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ :three::shit: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __herald__ _v_  
 __heralded__  
 __heralded__ _v_  
@@ -5027,6 +5029,7 @@ __lacrosse games__
 __lacrosse__  
 __lacrosse__ _A lacrosse team._  
 __lacy__ _Cypress trees that were lacy with new leaf._  
+__lad__ _n_  
 __laddie__  
 __laden__  
 __laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
@@ -5134,6 +5137,7 @@ __lectern__
 __ledge__  
 __ledge__ _Adam turned and sat on the ledge._  
 __ledger__  
+__ledger__  
 __leech__ _n_  
 __leeks__ _n_  
 __leer up__  
@@ -5199,6 +5203,7 @@ __lifeline__ :two::shit: _China has long been North Korea's lifeline._
 __lifer__ _Craighead is a lifer at Baker Hughes._  
 __light up__ _v_ _Megatron looks to light up scoreboard._  
 __lightbulb moment__  
+__lightermen__  
 __lighthearted__  
 __lighting rod__ _n_ __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning rod__  
@@ -5279,7 +5284,7 @@ __lofty__ _adj_ :three::shit: _His lofty perch._
 __loggerheads__  
 __loins__ _n_ :two::shit:  
 __loitered__ _v_  
-__lolled__ _v_  
+__loll__ _v_ (lolled, lolling) :two::shit::open_mouth:  
 __lone wolf__ _They are lone wolf attacks._  
 __long haul__ _She's in for the long haul._  
 __long shot__  
@@ -5443,6 +5448,7 @@ __marooned__ _He felt marooned by the silence._
 __marquee events__  
 __marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :five: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._  
 __marred__ _v_  
+__marsh__  
 __marsh__ _n_ :two::shit:  
 __marshal<sup>1</sup>__ _n_  
 __marshal<sup>2</sup>__ _v_ :two::shit: _The community will marshal its resources to help undocumented immigrants._  
@@ -5681,6 +5687,7 @@ __moonshine__ :four::shit: (spirit) _People suspected of brewing moonshine._ :es
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
 __moonshot__ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::shit:  
+__mooring__ _n_  
 __moot__  
 __moot__  
 __moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :three: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
@@ -5858,6 +5865,7 @@ __niche__
 __niche__ _n_  
 __nifty__  
 __nifty__ _adj_ _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__niggardly__  
 __niggardly__ _adj_  __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __nigh__  
 __nightcap__ :three::shit: (nightcaps) _Whiskey nightcaps._  
@@ -6607,6 +6615,7 @@ __poachers__ _n_ :two::shit: _A chimpanzee that lost its mother to poachers._
 __poaching__ :two::shit: _Poaching has become socially unacceptable._  
 __poaching__ _v_  
 __pocket change__  
+__pockmarked__ :camera:  
 __pockmarked__ _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
@@ -6644,9 +6653,9 @@ __pooch__
 __poofy__ :open_mouth:  
 __pool cues__ :two::shit:  
 __pop__ :two::shit: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._  
-__pop__ _The deep price cut made a first day pop much more likely._  
 __pop__ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._  
 __pop__ _She hit .357 and she has some pop._  
+__pop__ _The deep price cut made a first day pop much more likely._  
 __pop__ _v_  
 __pop__ _v_ _Cheyenne popped a 43'3 on her first throw._  
 __pops__ (parents?}  
@@ -6699,6 +6708,7 @@ __powerhouse__
 __powerhouse__  
 __powermongers__ _n_  
 __powwows__ _n_  
+__pox__  
 __ppg__ _Sanders is averaging 13.3 ppg._  
 __practice__ _n_ _A pediatrics practice._  
 __pram__  
@@ -7553,6 +7563,7 @@ __s&h__ _Every penny will be returned to you (except s&h)._
 __s/s__ Stainless steel. _s/s appliances._  
 __sac-a-lait__  
 __sackful__  
+__sacristan__  
 __sacristy__ _n_  
 __safeguard__  
 __sag__ (sagging) :five: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
@@ -7690,6 +7701,7 @@ __scores__ A large number of something. _Syn_ a great many, a lot, a great/good 
 __scour__ _v_  
 __scour__ _v_ :six: (scoured) __1__ __a__ To clean, polish, or wash by scrubbing vigorously: scour a dirty oven. __b__ To remove by scrubbing: scour grease from a pan. __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.
 __scoured__ _v_  
+__scourge__  
 __scourge__  
 __scourge__  
 __scourge__ _n_ :seven: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
@@ -8294,6 +8306,7 @@ __smirking__
 __smirks__ _n_  
 __smite__  
 __smithereens__  
+__smitten__  
 __smitten__  
 __smitten__ _adj_ :six: Smitten means overwhelmed or struck by something, usually love. The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him. __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__  Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
 __smock<sup>1</sup>__ _n_  
@@ -8981,6 +8994,7 @@ __suit up__ _v_
 __suitors__ :two::shit:  
 __sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_  
+__sulky__  
 __sultanate__  
 __sultry__  
 __summary__ :two::shit: _Summary deaths._ _Summary killings._  
@@ -9092,6 +9106,7 @@ __séance__
 __tab<sup>1</sup>__ _n_ :four: __Informal__ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __tab<sup>2</sup>__ _v_ (tabbed, tabby)  
 __tab__ _n_ _The tab is $1,000 per person._  
+__tabby__  
 __table tennis__  
 __table tennos__  
 __tableau__  
@@ -10318,6 +10333,7 @@ __yeoman__
 __yeoman__  
 __yesteryear__ :two::shit:  
 __yew root__  _Yew root would help a pregnant woman to hold back her fetus._  
+__yew tree__  
 __yew tree__  
 __yew__  
 __yield__ :two::shit: _Failing to yield to pedestrians._  
