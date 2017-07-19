@@ -868,6 +868,7 @@ __bedrock__
 __bedrock__ _n_ :three: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedstead__  
+__beech__ _n_  
 __beef up__ :four: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef up__ _v_  
 __beef__ :two::shit: _He is trying to build some beef and muscle._  
@@ -2836,6 +2837,7 @@ __dowry__
 __doyenne__  
 __doze__ _v_  
 __drab__ _adj_ :four: (drabber jobs) _adj_ Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
+__drab__ _n_  
 __draconian__ :two::shit:  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag racing__  
@@ -3561,6 +3563,7 @@ __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
+__folk__ (plural)  
 __folk__ _n_  
 __follow suit__  
 __follow suit__  
@@ -3575,6 +3578,7 @@ __foosball__ _Foosball table._
 __foot-stomping__  
 __foot__ _v_  
 __foothold__ _A foothold._  
+__footloose__ :open_mouth:  
 __footwork__  
 __for a bit__  
 __for better or worse__  
@@ -4168,6 +4172,7 @@ __gyrate__ _v_
 __gyrate__ _v_  
 __ha!__ :two::shit:  
 __hack__ _v_ _Coughing and hacking while shuffling around._  
+__hackles__ _n_  
 __hackles__ _n_  
 __hackneyed__  
 __hacksaws__ _n_  
@@ -4790,6 +4795,7 @@ __intervene__ _v_
 __interviewees__ _n_ :open_mouth:  
 __into the fold__ _It brought many viewers into the fold._  
 __intramural__  
+__inured__ _v_  
 __inurnment__  
 __invective__ :four::shit:  
 __inveighed__  
@@ -6346,6 +6352,7 @@ __peel off__ _v_ _After chatting with the vets, we peel off and head out to expl
 __peep__ _n_  
 __peep__ _n_  
 __peer__ _Peering into their crystal balls._  
+__peered__ _v_  
 __peerless__ 
 __pegged__ _v_  
 __pegged__ _v_  
@@ -6464,6 +6471,7 @@ __pin-curled__
 __pin-drop silence__  
 __pin__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
 __pinafore__  
+__pincers__ _n_  
 __pinch > in a pinch__  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ _School could face budget pinch._  
@@ -6642,6 +6650,7 @@ __pollster__ _n_
 __pols__ _n_  
 __polymath__  
 __pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
+__ponder__ _v_  
 __ponder__ _v_ _Sam pondered his yellow fingernails._  
 __ponders__  
 __pong__ Drinking game?  
@@ -7565,6 +7574,7 @@ __sac-a-lait__
 __sackful__  
 __sacristan__  
 __sacristy__ _n_  
+__saddle__ _A saddle of meat._  
 __safeguard__  
 __sag__ (sagging) :five: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
 __sag__ _v_  
@@ -7637,6 +7647,7 @@ __sawgrass__ :two::shit:
 __sawhorse__ _n_ :four::shit:  
 __sawhorses__ _n_  
 __sawyer__ _n_ :open_mouth:  
+__scabbard__  
 __scabbard__ :two::shit:  
 __scabies__  
 __scabs__ _n_ :two::shit:  
@@ -7645,6 +7656,7 @@ __scallions__ :two::shit:
 __scallop__ :two::shit: _A scallop-shell logo._  
 __scalp bounties__  
 __scalp__  
+__scalpel__  
 __scalper__ _n_ :three::shit:  
 __scam__ _v_ :four::shit: (scammed)  
 __scamper__ _v_ (scampered, scampering)  
@@ -8438,6 +8450,7 @@ __soldier of fortune__
 __soldiers__ _v_  
 __solemnize__ _v_  
 __solid gold__  
+__solid__ _It rained for a solid week._  
 __solidify__ _v_  
 __soliloquy__  
 __solipsistic__  
@@ -9047,6 +9060,7 @@ __swap__ _n_
 __sward__ _n_  
 __swashbuckling__  
 __swatches__  
+__swath__  
 __swath__ _n_ :nine::arrow_up_small::o2: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_   
 __swathe<sup>2</sup>__ _v_ :two::shit:  
@@ -9084,6 +9098,7 @@ __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans 
 __swishing__ _Swishing sound._  
 __switch-blade__ _Switch-blade artists._  
 __switch__ (twitch?)  
+__swive__ _v_  
 __swiveling__ _v_  
 __swoon__ _v_ :nine: (swoons, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swooned__ _v_  
@@ -9322,6 +9337,7 @@ __throws__ _n_
 __thrum__  
 __thrums__ _v_  
 __thrust__  
+__thrust__ _n_  
 __thud__ _n_  
 __thud__ _n_  
 __thudding__  
@@ -9937,6 +9953,7 @@ __vituperative__
 __vocal__ :two: _Critics often are the most vocal._  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __volition__  
+__volition__  
 __volley__ :two::shit: _A volley of invective._ _(military attack?)_  
 __voltron__  
 __vouch__ _v_  
@@ -10071,6 +10088,7 @@ __welter__ _A welter of data._
 __welterweight__  
 __welts__ _n_ :four::shit: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_  
+__wen__ _n_ :camera:  
 __wend__ _v_ :four: /wɛnd/ (wending) To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
 __wet a line__  
 __wetbacks__  

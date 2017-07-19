@@ -1,20 +1,3 @@
 
 
-__solid__ _It rained for a solid week._  
-__footloose__ :open_mouth:  
-__folk__ (plural)  
-__thrust__ _n_  
-__scalpel__  
-__scabbard__  
-__volition__  
-__swath__  
-__hackles__ fn_  
-__peered__ _v_  
-__beech__ _n_  
-__inured__ _v_  
-__wen__ _n_ :camera:  
-__saddle__ _A saddle of meat._  
-__ponder__ _v_  
-__pincers__ _n_  
-__drab__ _n_  
-__swive__ _v_  
+
