@@ -511,6 +511,7 @@ __analyst__ :open_mouth:
 __anathema__ _n_ :three: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchovies__  
 __ancillary__ :two::shit:  
+__and how!__  
 __andirons__  
 __anew__ :three::shit:  
 __angle iron__  
@@ -2350,6 +2351,7 @@ __crumpling__
 __crunchtime__  
 __crusader__  
 __crusty__  
+__crutch word__  
 __crutch__ _Diabetes isn't a crutch or an anchor._  
 __crutch__ _It became an escape, then it became a crutch._  
 __crux__ _n_ :two::shit: _The crux of the matter._  
@@ -2464,6 +2466,7 @@ __daunting__ :three: Seeming difficult to deal with in prospect; intimidating.
 __dawdled__ _v_  
 __day job__   
 __daybeds__ _n_  
+__dayglow__  
 __dazzle__ _v_  
 __dazzling__  
 __dazzling__ _adj_ :seven: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
@@ -2752,8 +2755,11 @@ __doe__
 __doe__ _n_ :open_mouth: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doeskin__ _A doeskin wallet._  
 __doff__ (doffing) :two::shit: _v_ _Doff his hat._  
+__dog days__  
 __dog sledding__  
 __dog tag__  
+__dog-and-pony show__  
+__dog-ear__  
 __dog-eat-dog__ _It is not dog-eat-dog here._  
 __dog__ _v_  
 __dog__ _v_ :two::shit: :open_mouth: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
@@ -4112,6 +4118,7 @@ __grungy__
 __grunt__ _n_ __1__ :two: A deep guttural sound. __2__ :two: _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ :three: _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__  
 __grunted__ _v_  
+__grunted__ _v_  
 __guffaw__ _v_ :five::shit: (guffaws, guffawed, guffawing)  
 __guibble__  
 __guidet__ _Two guidettes._  
@@ -4150,6 +4157,7 @@ __guppy__ _n_ :four:  Small freshwater fish of South America and the West Indies
 __gurney__  
 __gurney__  
 __gurney__ _n_ :two::shit:  
+__gush__ _n_  
 __gush__ _v_  
 __gush__ _v_ :four::shit: (gushing) _Kids were dancing in the gushing water._  
 __gushed__ _v_  
@@ -4539,9 +4547,11 @@ __hoop__ _v_
 __hoopla__ :three: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoot__ _You know, it's a hell of a hoot._  
 __hooted__ _v_  
+__hooting__ _v_  
 __hopeful__ _n_ _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __hopefuls__  
 __hopped cars__  
+__hopscotch__  
 __horn buttons__ :camera:  
 __horse race__  
 __horselaugh__  
@@ -4809,6 +4819,7 @@ __islet__ _Transplanting islet cells into the liver._
 __issuance__  
 __issuance__  
 __issuance__  
+__it's a dog's life__ :dart::open_mouth:  
 __ivy__ :two::shit: :es: hiedra  
 __jab<sup>1</sup>__ _n_ :two: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :four: (jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod   
@@ -5156,6 +5167,7 @@ __lefty buckets__
 __legal tack__  
 __legerdemain__  
 __legerdemain__  
+__legerdemain__  
 __legion__ _The reasons you can't sleep well inflight are legion._  
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
@@ -5264,6 +5276,7 @@ __living quarters__ _Precatious makeshoft living quarters._
 __living wills__  
 __llama__  
 __llilacs__ _n_  
+__lo and behold__  
 __loafered__  
 __loafers__  
 __loafers__ :two::shit:  
@@ -5358,6 +5371,7 @@ __lunchpail__
 __lunge<sup>1</sup>__ _v_ :two::shit:  
 __lunge<sup>2</sup>__ _n_ :two::shit: _A reckless lunge at Gerrard._  
 __lunge__ _v_ _A bull lunges into the pen._  
+__lunged__ _v_  
 __lunges__ _n_ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
@@ -6228,6 +6242,7 @@ __paltry__
 __paltry__ _adj_ :seven: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ :two::shit: _v_  
 __pampered__  
+__pampered__ _v_  
 __pampling__  
 __pan drippings__ :two::shit:  
 __pan out__ :two::shit:  
@@ -7212,6 +7227,7 @@ __reel__ _n_
 __reel__ _v_ (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reeling__ :two::shit:  
 __reels__ _n_ _The world reels from a series of horrifying terror attacks._  
+__reeve__ _n_  
 __reeve__ _n_ :open_mouth:  
 __reeve__ _n_ :two::shit:  
 __refectory__  
@@ -7317,6 +7333,7 @@ __restraint__ :two::shit: _n_
 __resumption__ _n_ :six::shit::open_mouth: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retched__ _v_  
 __retched__ _v_  
 __retelling__  
 __rethoric__  
@@ -7566,6 +7583,7 @@ __ruptured__ _v_ _He ruptured his Achilles._
 __ruse__ _n_ :two::shit:  
 __rustle up__ _v_  
 __rustle__ _v_ :two::shit: _To rustle up a dinner for 12._  
+__rustling__  
 __rut__ :two::shit: _Some guy with rut for brains._  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __s&h__ _Every penny will be returned to you (except s&h)._  
@@ -7950,6 +7968,7 @@ __shitless__ _They were scared shitless._
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
 __shoal__ :two: Shallow.  
 __shoals__  
+__shoat__ _n_  
 __shock-jock__ _n_  
 __shoddily__  
 __shoddy__ :two::shit:  
@@ -8375,6 +8394,7 @@ __snarky__ _Snarky remarks._
 __snarl<sup>1</sup>__ _n_ :two: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl<sup>2</sup>__ _v_ :five: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarl__ _adj_ _Snarled airport._  
+__snarl__ _v_  
 __snarled__ _v_  
 __snarling__  
 __snatch__ _v_  
@@ -9010,6 +9030,7 @@ __sulk<sup>2</sup>__ _v_
 __sulky__  
 __sultanate__  
 __sultry__  
+__sultry__  
 __summary__ :two::shit: _Summary deaths._ _Summary killings._  
 __sump pump__  
 __sump__ _n_ :two::shit:  
@@ -9117,6 +9138,7 @@ __syndicated__
 __syringe__  
 __syrupy__  
 __systemic__  
+__syzygy__  
 __séance__  
 __tab<sup>1</sup>__ _n_ :four: __Informal__ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __tab<sup>2</sup>__ _v_ (tabbed, tabby)  
@@ -9650,6 +9672,7 @@ __turnout__ :two::shit: _The turnout rate._
 __turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ _:es: facturación, volumen de ventas_ __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
+__turnsole__ :open_mouth:  
 __turnstile__ _n_  
 __turpentine__ _n_  
 __turpitude__  
@@ -10378,6 +10401,7 @@ __zany__ :four: _adj_ Amusingly unconventional and idiosyncratic. _His zany humo
 __zeal__ _n_  
 __zealotry__  
 __zealous__  
+__zeightgeist__  
 __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero in__  
 __zero-sum__ :three::shit: _A zero-sum game._ _A zero-sum relationship._  
