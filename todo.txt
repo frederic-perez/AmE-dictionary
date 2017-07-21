@@ -1,3 +1,12 @@
 
-
+__fastening__ _n_  
+__pitmaster__  
+__dug__ _n_  
+__wriggle__  
+__rent__ _v_ _The elkhound's hound was rent._  
+__snarling__ _n_  
+__addled__ _He's addled and we shall tend him._  
+__bellows__ _Barber's breathing sounded like a bellows._  
+__pelt__ _n_  
+__belied__  
 
