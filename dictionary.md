@@ -2120,6 +2120,7 @@ __constituent__
 __constituents__ _n_  
 __construe__ _v_  
 __construed__ :four::shit:  
+__consumption__ (ailment?)  
 __contagion__  
 __contempt__  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
@@ -5155,6 +5156,7 @@ __ledge__
 __ledge__ _Adam turned and sat on the ledge._  
 __ledger__  
 __ledger__  
+__ledger__  
 __leech__ _n_  
 __leeks__ _n_  
 __leer up__  
@@ -5455,6 +5457,7 @@ __mantel__ _n_ :four::shit: _Fireplace mantels._ _The mantel over the small fire
 __mantle__ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
 __mar__ _v_ :seven::open_mouth: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
+__marauder__  
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
@@ -6884,6 +6887,7 @@ __pry__ _v_ :six::shit: _To pry the crack open wider and wider._
 __psyche__  
 __psychopathic__  
 __public housing__  
+__publican__  
 __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
 __pud__ _n_ :five::shit:  
 __pudge__ _n_ _informal_ A variant spelling (esp US) of podge.  
@@ -7988,6 +7992,7 @@ __shore up__ _v_
 __shore up__ _v_ :six: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shoring up__ _v_  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
+__short-charge__  
 __short-handed__ :four::shit: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__  
 __short__ _He typically wears shorts to work._  
@@ -8028,6 +8033,7 @@ __shrew__ _n_  __1__ Any of various small, chiefly insectivorous mammals of the 
 __shriek__ (shrieked) :two::shit: _v_  
 __shrieking__  
 __shrieks__  
+__shrift__  
 __shrift__ :three::shit:  
 __shrill__  
 __shrill__  
@@ -8660,6 +8666,7 @@ __squat down__ _v_
 __squat<sup>1</sup>__ _v_ :four: (squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
 __squat<sup>2</sup>__ _adj_ :two: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ 	stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
+__squat__ _adj_  
 __squatted__ _v_  
 __squawked__ _The walkie-talkie squawked._  
 __squeak__ _v_ :two::shit:  
@@ -10037,6 +10044,7 @@ __warehouse__
 __warehoused__ (warehoused) _v_  
 __warehousing__  
 __wares__ _n_ :two::shit: _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
+__warily__  
 __wariness__  
 __warlocks__  
 __warmer__ _Fragance warmer._  
