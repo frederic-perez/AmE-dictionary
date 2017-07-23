@@ -1,5 +1,24 @@
 
 
+__gruel__  
+__kirtles__  
+__lore__  
+__sloshing__ _v_  
+__avails__ _v_  
+__leavings__ _n_  
+__taunting__  
+__litany__  
+__snot__  
+__leech__ (physician?)  
+__cross__ _v_ _They paled and crossed themselves._  
+__heartening__ _A heartening supper._  
+__publican__ _n_  
+__coppice__ _n_  
+__caftans__ _n_  
+__coracle__  
+__salves__ _n_ _Salves, poultices, and plasters._  
+__poultices__ _n_ _Salves, poultices, and plasters._  
+__plasters__ _n_ _Salves, poultices, and plasters._  
 __astride__  
 __fealty__  
 __muttering__ _n_  
