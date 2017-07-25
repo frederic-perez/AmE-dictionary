@@ -1910,6 +1910,7 @@ __clapboard__ _n_ :two::shit:
 __clapper__ _He tried to turn somebody into a human bell clapper._  
 __claret__  
 __clarion call__ :four::shit:  
+__clasped__ _v_  
 __class act__ _She was a class act through and through._  
 __class action__  
 __clatter__ _n_  
@@ -3446,6 +3447,7 @@ __finicky__ :two: shit:
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
 __fink__ _Family man to some, fink to others._  
 __fintech__  
+__fir__  
 __fir__  
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire irons__  
@@ -4986,7 +4988,7 @@ __jostled__ :four::shit: (jostling) _Cows are jostling for space._
 __jostling__  
 __journeyman__  
 __journeyman__  
-__joust__ (jousted) :two::shit: _v_ _Here people jousted with nature._  
+__joust__ _v_ :thre::shit: (jousted) _Here people jousted with nature._  
 __jovial__  
 __jovial__  
 __jowls__ :four: A small focal accumulation of fat on the lower cheek overlying the jaw bone; prominent jowls make a person look old(er) and may be a cosmetic concern for the owner.  
@@ -5191,13 +5193,9 @@ __lauded__ _v_
 __lauds__ _Barber was buried after lauds._  
 __laughingstock__  
 __laureate__  
-__lavish<sup>1</sup>__ _adj_ :four::shit: _Lavish fees._  
-__lavish<sup>2</sup>__ _v_  
-__lavish__  
-__lavish__  
-__lavished__  
-__lavishly__  
-__lavishly__  
+__lavish<sup>1</sup>__ _adj_ :seven::shit: _Lavish fees._  
+__lavish<sup>2</sup>__ _v_ :two::shit: (lavished)  
+__lavishly__ :two::shit:  
 __law of the land__  
 __law-and-order__ :three::shit: _The law-and-order prime minister._  
 __lawmaker__ _n_ :four::shit: (lawmakers)  
@@ -6669,6 +6667,7 @@ __plane__
 __plank__ _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._  
 __planks__  _Anti-austerity planks._  
 __planter__ _My sidewalk planter._  
+__plashed__ _v_  
 __plaster__ _v_ _Blizzard plasters Denver._  
 __plastered__ _v_  
 __plasters__ _n_ _Salves, poultices, and plasters._  
@@ -8762,10 +8761,8 @@ __sprinkles__ _v_
 __sprinkling__ _A sprinkling of luck._  
 __sprouting__  
 __spruce up__ _v_ :three::shit: _Juliette spruces up her country look and sound._  
-__spruce__ _n_  
-__spry__  
-__spry__  
-__spry__ :three: _adj_ Lively, active, and brisk; vigorous.  
+__spruce__ _n_ :two::shit:  
+__spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spud-faced__ :camera:  
 __spunk__  
@@ -9562,6 +9559,7 @@ __tiki torches__ _n_ :camera:
 __tiki__ :two::shit: _Tiki sensibility._  
 __tilapia__  
 __tiller__  
+__tiltyard__  
 __time and again__ :two::shit::dart:  
 __time frame__  
 __timeclock__ _Denver Movie Timeclock._  
@@ -10153,6 +10151,7 @@ __volition__
 __volition__  
 __volley__ :two::shit: _A volley of invective._ _(military attack?)_  
 __voltron__  
+__voluble__  
 __vouch__ _v_  
 __voucher__ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
