@@ -967,6 +967,7 @@ __benchmark__ _The price of benchmark West Texas Intermediate crude has dropped.
 __bender__ _His mother was on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
+__benison__ _n_  
 __bent__ _Apple wasn't known for his altruistic bent._  
 __bent__ _n_  
 __bento__ Boxed meals.  
@@ -1037,7 +1038,7 @@ __bilge__ _n_
 __bilking__ _Durham was  guilty of bilking._  
 __billfold__ _n_  
 __billing__ _Now, the women's contest will take second billing._  
-__billow<sup>1</sup>__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
+__billow<sup>1</sup>__ _n_ :two: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_  
 __bind__ _n_ :two::shit: _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
@@ -1346,6 +1347,7 @@ __briskly__
 __bristle__ _v_  
 __bristle__ _v_  
 __bristle__ _v_ :eight: (bristled) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
+__bristled__ _v_  
 __bristles__ _n_  
 __bristling__  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
@@ -2901,6 +2903,7 @@ __drawl__
 __drawl__ _n_ :two::shit: _A Southern drawl._  
 __dray__ _Dray horse._  
 __drayman__  
+__drays__ _n_  
 __dread__ _n_  
 __dread__ _v_  
 __dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
@@ -2936,6 +2939,7 @@ __drizzle__ :two::shit:
 __drizzled__  
 __drizzly__  
 __droit du seigneur__  
+__droll__  
 __droll__  
 __droll__ :two::shit: _There is room for droll comedy._  
 __droll__ _Droll comic moments._  
@@ -4849,6 +4853,7 @@ __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treat
 __inquest__  
 __inroads__ _n_ :three::shit:  
 __inscrutable__  
+__inscrutable__  
 __insipid__  
 __insofar__  
 __instability__ :two::shit::open_mouth:  
@@ -5556,6 +5561,7 @@ __marsh__ _n_ :two::shit:
 __marshal<sup>1</sup>__ _n_  
 __marshal<sup>2</sup>__ _v_ :two::shit: _The community will marshal its resources to help undocumented immigrants._  
 __marshal__ _v_  
+__marshalling__ _v_  
 __marshals__ _v_  
 __marshland__ :two::shit:  
 __marshmallow__ _n_  
@@ -5865,6 +5871,7 @@ __mulch__
 __mulching__ _v_  
 __mull__ _v_ (mulled, mulling) :four::shit: _Cheney was mulling a Senate bid._  
 __mullah__ _n_  
+__mulled__ _v_ _His mug of mulled cider._  
 __mulligan__ _n_  
 __mulling__ _v_  
 __mulling__ _v_  
@@ -6584,6 +6591,7 @@ __pin__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _
 __pinafore__  
 __pincers__ _n_  
 __pinch > in a pinch__  
+__pinch-faced__  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :three::shit: (pinched) _He smoked his cigarettes down to pinched ends._  
@@ -6729,6 +6737,7 @@ __plundered__
 __plush__  
 __plush__  
 __plush__ _adj_ :three: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
+__ply__ _v_  
 __ply__ _v_  
 __ply__ _v_ :three::shit: _It is the perfecting designed environment to ply his trade._  
 __po'-boy sandwiches__  
@@ -6987,6 +6996,7 @@ __pry__ _v_
 __pry__ _v_ :six::shit: _To pry the crack open wider and wider._  
 __psyche__  
 __psychopathic__  
+__public house__  
 __public house__ :four::shit: :es: taberna  
 __public housing__  
 __publican__  
@@ -7007,6 +7017,7 @@ __puffy__ _His eyes were red and puffy._
 __pugil__  
 __pugnacity__  
 __pugs__  
+__pukingly__ _He was pukingly ill._  
 __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
 __pull away__ :two::shit:  
 __pull strings__  
@@ -7512,6 +7523,7 @@ __rifle__ _v_
 __rift__ _n_  
 __rift__ _n_ :eight::shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
 __rifts__ _n_  
+__rig__ _Horse and the red wagon were a good rig._  
 __right__ :two::dart::shit: _Exactly right._ _Absolutely right._  
 __rigmarole__ _Rigmarole controls._  
 __rile__ (riled) :two: _v_ Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ :es: sacar de quicio  
@@ -7644,7 +7656,9 @@ __rudderless__
 __ruddy__ :five::shit:  
 __ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rue__ _v_ :two::shit::open_mouth: (rues) _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rued__ _v_  
 __rueful__ _He gave a rueful smile._  
+__ruefully__  
 __ruefully__ :two::shit:  
 __ruffled__ (ruffling) :two::shit: _v_  
 __ruffles__  
@@ -8014,6 +8028,7 @@ __shamrock__
 __shamus__  
 __shank<sup>1</sup>__ _n_ :five::shit: _Roasted pork shanks._  
 __shank<sup>2</sup>__ _v_ :two: To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
+__shanks__ _He had thin shanks and a skeletal frame._  
 __shanties__  
 __shanty__  
 __shantytown__  
@@ -8234,6 +8249,7 @@ __sinkhole__ _n_
 __siphon__ _It is fairly easy to syphon profits._  
 __siphoned__ _v_  
 __siphoning__ _v_  
+__sire__  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sitting pretty__  
 __sitting pretty__  
@@ -8566,6 +8582,7 @@ __snuff out__ _v_
 __snuff__  
 __snuff__  
 __snuff__ _v_ _He quickly snuffed it out._  
+__snug__  
 __snug__ _v__ :two::shit:  
 __snuggles__  
 __snugly__ :two::shit:  
@@ -9162,6 +9179,7 @@ __sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or 
 __sulk<sup>2</sup>__ _v_  
 __sulky__  
 __sullenly__  
+__sully__ _v_  
 __sultanate__  
 __sultry__  
 __sultry__  
@@ -9529,6 +9547,7 @@ __ticklish__
 __ticklish__  
 __ticky-tacky__ _The ticky-tacky plan._  
 __tidbit__ :left_right_arrow::open_mouth:  
+__tidbit__ _He fed the cat tidbits._  
 __tidbits__ :two::shit:  
 __tidy__ _A tidy plan._  
 __tie-dye__  
@@ -9564,6 +9583,7 @@ __tinkled__ _Cocktail music tinkled in the background._
 __tinkling__  
 __tip over__ _v_  
 __tipoff__ _n_ :two::shit: (tip-off)  
+__tipple__  
 __tipple__  
 __tipple__  
 __tipple__  
@@ -9608,6 +9628,7 @@ __toilet stool__
 __toiletries__  
 __toll__ _Church bells tolling._  
 __tolls__ _v_ _The bell tolls kor Ukraine._  
+__tom__ (cat?)  
 __tomboy__  
 __tomcat__  
 __ton__ _A metric ton._  
@@ -10227,8 +10248,7 @@ __wayward__
 __wayward__  
 __wayward__ _Wayward corporations._  
 __wayward__ _adj_ :five: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ :es: díscolo  
-__wean__ _v_  
-__wean__ _v_ :five::shit: (weaned)  
+__wean__ _v_ :seven::shit: (weaned)  
 __weary__  
 __weather vane__  
 __weather__ (weathering) _v_  
@@ -10379,6 +10399,7 @@ __windfall__ :seven::open_mouth: A large amount of money that is won or received
 __windlass__  
 __window sash__ _n_  
 __windshield wipers__  
+__windstorm__  
 __windup__ _It was a cheap, windup alarm clock._  
 __winging__ _v_  
 __wingtips__  
