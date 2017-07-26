@@ -1629,6 +1629,7 @@ __cantankerous__
 __cantata__  
 __canted__ _v_ :two::shit:  
 __canteens__  
+__cantered__ _v_  
 __cantering__ _v_ :two::shit:  
 __cantilevered__  
 __canvass__ :open_mouth:  
@@ -4042,7 +4043,7 @@ __goose__ _v_
 __goosing__ _Goosing the economy._  
 __gorging__  
 __gory__  
-__gouge__ _v_ :four::shit: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
+__gouge__ _v_ :five::shit: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _Transparency helps patients and exposes gougers._  
 __gout__  
 __grace__ _v_  
@@ -4090,6 +4091,7 @@ __grazed__ _Grazed by a bullet._
 __grazed__ _v_ _A third person was grazed by a bullit._  
 __grazing land__ :shit::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __grazing__  
+__grazing__ _v_  
 __greaseballs__ :two::shit:  
 __greater area__ _Greater Tokyo area._  
 __green card wedding__  
@@ -4598,6 +4600,7 @@ __homegoods__
 __homeowner__  
 __homesick__  
 __homespun__  
+__homespun__  
 __homestand__  
 __homestand__ :three::shit:  
 __homestead__ :two::shit:  
@@ -4912,6 +4915,7 @@ __jagged__ :two::shit:
 __jakelegs__  
 __jalopy__ _n_ A dilapidated old vehicle or aircraft. _Informal_ Old car.    
 __jam up__ _v_  
+__jam__ _v_  
 __jamb__ :two::shit: _Window jamb._  
 __jambalaya__ _n_  
 __jamboree__ :three::shit: _A campfire jamboree._  
@@ -7700,7 +7704,7 @@ __rungs__ _n_ :three::shit: _He deserves to be in the lowest rungs of hell._
 __runner-up__  
 __runner-up__ _n_ :seven::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
-__runny nose__  
+__runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
 __runoff water__  
 __runoff__  
 __runoff__ _n_ :five::shit: _Enough votes to force a runoff._ _A runoff vote._ _Sediment runoff._  
@@ -8980,6 +8984,7 @@ __stipend__ _n_ :three::shit: (stipends)
 __stipulate__ _v_ :two::shit:  
 __stir__ _v_  
 __stirring__ _adj_ :three::shit: _Stirring tales._  
+__stirrups__  
 __stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stitch__ _n_ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato  
 __stock car__ _Stock car racing._  
