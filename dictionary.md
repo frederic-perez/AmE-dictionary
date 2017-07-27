@@ -1472,6 +1472,7 @@ __buoyant__ :four: _adj_ __1__ Able or tending to keep afloat or rise to the top
 __buoyed__  
 __burgeoning__  
 __burgeoning__  
+__burgeoning__  
 __burgermeister__  
 __burgundy__  
 __burgundy__ _Burgundy outfit._  
@@ -1568,6 +1569,7 @@ __cadre__ _A cadre of layers._
 __cadre__ _n_ :four::shit: _The collectible cadre of brands._ _Party cadres._  
 __caftan__  
 __caftans__  
+__caftans__ _n_  
 __caftans__ _n_  
 __cagey__ _adj_  
 __cajole__ (cajoling) :two::shit: _v_  
@@ -1787,6 +1789,7 @@ __chasm__ _n_ :four: __1__ A deep, steep-sided opening in the earth's surface; a
 __chassis__  
 __chastened__  
 __chastize__ _v_  
+__chasuble__  
 __chattel__  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __check a bag__ :two::shit::open_mouth: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
@@ -2192,6 +2195,7 @@ __cop out__
 __cop out__  
 __copacetic__ _adj_ :five: _informal_ In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
+__cope__ _A grey cope._  
 __copper-bottom hit__  
 __coppice__ _n_  
 __copping__ _v_ :two::shit: _You're copping to a murder beef._  
@@ -2515,6 +2519,7 @@ __dead ringer__ An exact duplicate.
 __deadbeat__ _adj_ :three::shit: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __dean__ _n_ :three::shit: _He served as dean._  
+__dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__  Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :dart::two::shit:  
 __deathless__  
 __debacle__  
@@ -2609,6 +2614,7 @@ __den__ :five: __1__ The shelter or retreat of a wild animal; a lair. __2__ A ca
 __den__ _n_  
 __dengue fever__  
 __dengue__  
+__denier__ _n_ A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denizen__  
 __denizens__ :two::shit:  
 __denouement__ _n_ :three::shit:  
@@ -2641,6 +2647,7 @@ __detractor__
 __devil-may-care style__  
 __deviled eggs__ :camera: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
 __deviled eggs__ :two::shit:  
+__deviltry__  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
 __dialysis__  
@@ -3230,6 +3237,7 @@ __evicted__ _v_
 __eviction__ :two::shit:  
 __evince__ _v_ :four::shit: _To evince an interest in politics._ _She didn't evince surprise._  
 __eviscerate__ _v_  
+__ewes__ _n_  
 __exacerbate__ _v_ (exacerbated, exacerbating) :four: Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_  
 __exact__ _v_ :six: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
@@ -3386,6 +3394,7 @@ __fern garden__
 __fern__  
 __ferns__  
 __ferret out__ _v_  
+__ferret-faced__  
 __ferret__ :two::shit: _n_  
 __ferreting out__ _v_  
 __fester__  
@@ -5077,6 +5086,7 @@ __kiosk > pharmacy kiosk__
 __kiosk__ _Automated Passport Control kiosks._ :camera:  
 __kiosk__ _Target's in-store registry kiosks._ :camera:  
 __kirtle__  
+__kirtle__ _n_  
 __kirtles__  
 __kischy__  
 __kismet__ _n_ :two: Fate, fortune.  
@@ -6373,6 +6383,7 @@ __pappy__
 __paragon__  
 __paragons__ _n_  
 __paralyzed__ _v_ :open_mouth:  
+__paraphernalia__  
 __paraphernalia__ :open_mouth::two::shit: _Star Wars paraphernalia._  
 __parasailing__  
 __parcel__  
@@ -7003,6 +7014,7 @@ __public house__
 __public house__ :four::shit: :es: taberna  
 __public housing__  
 __publican__  
+__publican__ _n_  
 __publican__ _n_  
 __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
 __pud__ _n_ :five::shit:  
@@ -7797,6 +7809,7 @@ __sawhorse__ _n_ :four::shit:
 __sawhorses__ _n_  
 __sawyer__ _n_ :open_mouth:  
 __scabbard__  
+__scabbard__  
 __scabbard__ :two::shit:  
 __scabies__  
 __scabs__ _n_ :two::shit:  
@@ -8564,6 +8577,7 @@ __snorting__ _v_
 __snot rag__  
 __snot__  
 __snot__  
+__snot__ _n_  
 __snout__ _n_  
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::shit: _Snowcat ride._  
@@ -9233,6 +9247,7 @@ __swank__
 __swanky__ _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_  
+__swarthiness__  
 __swashbuckling__  
 __swatches__  
 __swath__  
@@ -9666,9 +9681,8 @@ __torrid__
 __torte__ _A torre was named after her._  
 __toss out__ _One student tossed out expletives._  
 __toss-ups__  
-__toss__ _v_  
-__tossuo__  
-__tossup__ _Diabetes study is a tossup._  
+__toss__ _v_ :two::shit: (tossing)  
+__tossup__ :two::shit::open_mouth: _Diabetes study is a tossup._  
 __tot lots__ _There are tot lots, but there is no place for us._  
 __tots__  
 __totter__ _v_  
@@ -10110,6 +10124,7 @@ __verge__
 __vermicelli__  
 __vermillion__  
 __vermin__  
+__vermin__  
 __vermin__ _n_  
 __vernacular__  
 __verve__  
@@ -10157,6 +10172,7 @@ __volition__
 __volley__ :two::shit: _A volley of invective._ _(military attack?)_  
 __voltron__  
 __voluble__  
+__votaries__  
 __vouch__ _v_  
 __voucher__ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
