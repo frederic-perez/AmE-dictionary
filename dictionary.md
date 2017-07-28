@@ -736,6 +736,8 @@ __backwoods__
 __bad blood__ :two::shit:  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
+__bade__ _v_ _He bade them goodnight._  
+__badger__ _n_ _Felix was thrown when his horse shied a a badger._  
 __badinage__  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__  
@@ -821,6 +823,7 @@ __barrel bombs__
 __barrel__ _v_ :two::shit: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrette__ :two::shit:  
 __barring__ _v_ :two::shit:  
+__barter__ _v_  
 __bartered__  
 __base__ _This film is base, moronic, insulting, and vulgar._  
 __basement__  
@@ -856,6 +859,7 @@ __beaming__ _adj._ Smilingly happy; showing happy emotion.
 __bean bag chair__  
 __bean__ _v_ _She beans him with a decanter._  
 __beanie__ _n_ :camera::dart:  
+__beanpole__  
 __beanstalks__  
 __bear__ _v_ :two::shit: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _It does not have a bearing on whether or not he will be our coach next year._  
@@ -1057,6 +1061,7 @@ __bitch__ _n_ :es: perra
 __bivouac__ :open_mouth:  
 __biz__ _Hot biz model._  
 __bizarre__  
+__bizarre__ _adj_ _The bizarre markings on the wagon._  
 __black gold__  
 __black powder__  
 __black smoke__  
@@ -1880,6 +1885,7 @@ __churning__ _Stomach churning._
 __chutneys__  
 __cigarillos__  
 __cigarillos__ :open_mouth::camera:  
+__cinch__  
 __cinch__ _n_  
 __cinder-block town__  
 __cinder__  
@@ -2043,6 +2049,7 @@ __come around__
 __come of age__  
 __come to grips__  
 __come together__  
+__comely__  
 __comely__  
 __comely__ :two::shit: _A comely smile._  
 __comeuppance__  
@@ -3535,6 +3542,7 @@ __flayed__ _v_
 __fleck__ _n_  
 __fledging__  
 __fledgling__ :seven::open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
+__fleece__  
 __fleece__ (fleeced) :two::shit:  
 __fleecy__  
 __fleeting__  
@@ -3751,6 +3759,7 @@ __freewheel__ _v_ _Freewheeling style._
 __freewheeling__ :two::shit: _A freewheeling conversation._  
 __freezer__ :two::shit: _Chest/Upright freezer._ :camera:  
 __frenzy__  
+__fret__ _v_  
 __fret__ _v_ (fretted)  
 __fret__ _v_ :two::shit:  
 __fretful__  
@@ -4391,6 +4400,7 @@ __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._
 __haul<sup>2</sup>__ _v_  
 __haul__ _v_ :two::shit: _Jacob and Davis each hauled in 10 passes._  
 __haunch__ _n_ :six::shit: (haunches)  
+__haunches__ _n_  
 __haunches__ _n_  
 __haunches__ _n_  
 __haunt__ _v_  
@@ -7137,6 +7147,7 @@ __quibble__ _v_
 __quibbled__ (quibbling) :two::shit: _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
 __quickening__  
+__quickening__ _He felt a quickening within him._  
 __quicksand__  
 __quicksand__ _I've just signed a quicksand employment contract._  
 __quicksilver__  
@@ -7588,6 +7599,7 @@ __rock the boat__
 __rock the boat__  
 __rock__ _v_ _A teen is rocket when her perfect brother starts dating her best friend._  
 __rock__ _v_ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
+__rods__ _A few rods away._  
 __roebuck__  
 __rogue__ :two::shit: _Rogue behavior._  
 __roil__ _v_ :eight: (roiled, roiling) US term for rile (make someone annoyed or irritated). _v_ _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._  
@@ -7670,6 +7682,7 @@ __rudder__ (airplane)
 __rudderless__  
 __ruddy__ :five::shit:  
 __ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
+__rue__  
 __rue__ _v_ :two::shit::open_mouth: (rues) _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rued__ _v_  
 __rueful__ _He gave a rueful smile._  
@@ -8056,6 +8069,7 @@ __sharp elbows__
 __sharps collector__ :camera:  
 __sharpshooter__ :two::shit:  
 __shaved ice__  
+__shawls__ _Prayer shawls._  
 __shea oil__  
 __sheaf__  
 __sheath__ :two::shit: :es: vaina? 
@@ -8090,6 +8104,7 @@ __shenanigans__
 __shenanigans__  
 __sherbet punch__  
 __shied__ _v_  
+__shied__ _v_ _Felix was thrown when his horse shied a a badger._  
 __shiet__  
 __shift__  
 __shill<sup>1</sup>__ _n_  
@@ -8783,6 +8798,7 @@ __spruce__ _n_ :two::shit:
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spud-faced__ :camera:  
+__spun__ _v_ :open_mouth: (see homespun)  
 __spunk__  
 __spunky__  
 __spur > bone spurs__  
@@ -9259,7 +9275,7 @@ __swats__ _n_
 __swatted__  
 __sway<sup>1</sup>__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__  Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
-__sway__ _v_ :two::shit:  
+__sway__ _v_ :three::shit: (swayed) _They stood together and swayed._  
 __swear jar__  
 __sweat bullets__ _I'll be sweating bullets._  
 __sweat it__ _Don't sweat it._  
@@ -10416,6 +10432,7 @@ __winch<sup>2</sup>__ _n_ :three::shit:
 __wind-up__ _n_  
 __winded__    
 __windfall__ :seven::open_mouth: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
+__windfall__ _n_  
 __windlass__  
 __window sash__ _n_  
 __windshield wipers__  
@@ -10446,6 +10463,7 @@ __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one 
 __wishlist__ _A $100 million wish list._  
 __wisk__ _v_  
 __wisp__ _n_ :seven::shit: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
+__wispy__  
 __wispy__ _adj_ :three::shit: _Wispy hair._  
 __wisteria__  
 __wistful__  
