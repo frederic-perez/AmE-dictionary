@@ -16,7 +16,26 @@ __weevils__
 __stubs__ _The stubs of cold-withered grass._  
 __dewlaps__ _n_  
 
-
+__jabbered__ _v_  
+__yearn__ _v_  
+__mucking__  
+__lowing__  
+__oozed__ _v_  
+__covenant__ _It has nothing to do with the covenant of Abraham._  
+__heathenish__  
+__shawl__  
+__rungs__ _n_  
+__milch__  
+__rippled__ _v_  
+__tautened__  
+__doorpost__  
+__ripe-smelling__ _The ripe-smelling barn._  
+__betrothed__  
+__hearth__ _n_  
+__lavish__  
+__loll__ _v_  
+__steel__ _v_  
+__gnaw__ _v_  
 __panoply__  
 __bellowed__ _v_  
 __wallowed__ _v_  
