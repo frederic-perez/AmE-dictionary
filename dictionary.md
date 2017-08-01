@@ -1667,6 +1667,7 @@ __capstone__ _n_
 __captaincy__  
 __carabiner__ _n_ :camera::two::shit:  
 __carat__  
+__caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carbuncle__ _n_  
 __cardiac arrest__  
 __cardinal__ _Breaking cardinal rules of marketing._  
@@ -1813,6 +1814,7 @@ __check off__ _Thanksgiving weekend is a great time to check off some items from
 __check__ _v_ :two::shit: _With a few extra bucks to check a bag, you can avoid stress._  
 __checker__ _v_ _Checkered history._  
 __checklist__ (single word)  
+__cheek by jowl__  
 __cheek by jowl__  
 __cheekboned__  _High-cheekboned newbies.;-_  
 __cheekier__  
@@ -2990,6 +2992,7 @@ __dropout__ _n_
 __droppings__ _n_  
 __drought__ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drover__ _n_  
+__drover__ _n_  
 __drowns__ _v_  
 __drub__  
 __drubbing__ :two::shit: _The Knights have improved since receiving a drubbing from the Miners._  
@@ -3722,6 +3725,7 @@ __foretell__
 __forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._  
 __forfeit<sup>2</sup>__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeit__  
+__forfeit__ _I cannot believe my soul will be forfeit._  
 __forfeit__ _v_  
 __forfeit__ _v_ _We actually had to forfeit a game or two for not having enough players._  
 __forfeited__  
@@ -4680,6 +4684,7 @@ __hoop__ _v_
 __hoopla__ :three: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoot__ _You know, it's a hell of a hoot._  
 __hooted__ _v_  
+__hooted__ _v_  
 __hooting__ _v_  
 __hopeful__ _n_ _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __hopefuls__  
@@ -4758,6 +4763,7 @@ __husky__
 __husky__  
 __husky__ _Husky voice._  
 __hutch__ _n_ :two::shit: _The rabbit hutch._  
+__hyacinth__  
 __hymnal__ _The party hymnal._  
 __hymnals__  
 __hyperbole__  
@@ -4953,6 +4959,7 @@ __islet__ _Transplanting islet cells into the liver._
 __issuance__  
 __issuance__  
 __issuance__  
+__isthmus__  
 __it's a dog's life__ :dart::open_mouth:  
 __ivy__ :two::shit: :es: hiedra  
 __jab<sup>1</sup>__ _n_ :two: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod  
@@ -5529,8 +5536,7 @@ __lunged__ _v_
 __lunges__ _n_ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ _The clock was lurching and stopping._  
-__lurch__ _We lurched around a bend._  
+__lurch__ :three::shit: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurk__  
 __lurk__ _v_ :six: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
@@ -5822,9 +5828,7 @@ __mix-up__ _n_
 __mixed bag__  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __mo__ (mo., mos.) :three: Month.  
-__moat__ _n_  
-__moat__ _n_ :three::shit:  
-__moats__ _n_  
+__moat__ _n_ :six::shit:  
 __moccasin__ :two::shit: (moccasins)  
 __mockie__ _n_ :two::shit:  
 __modicum__ _n_ :four: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
@@ -6885,6 +6889,7 @@ __pork pie hat__ :camera:
 __pork rinds__ :two::shit:  
 __porkpie hat__  
 __porkpie__ :two::shit:  
+__porphyry__ _n_ :open_mouth: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
 __porridge__  
 __portable building__ :es: barracones?  
 __portal__  
@@ -7289,6 +7294,7 @@ __ramp up__ :three::shit: _Official decisions ramped up activity._
 __ramp up__ _v_  
 __rampage__ :four::shit:  
 __rampant__ :two::shit:  
+__rampantly__  
 __rampart__ _Ancient stone ramparts._  
 __ramparts__ :two::shit:  
 __ramshackle__ :two::shit:  
@@ -8046,6 +8052,7 @@ __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._
 __secular__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__  _He travels with a security detail._  
+__sedan chair__ _n_  
 __sedate__ (sedate menswear)  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
 __sedulous__  
@@ -8536,6 +8543,7 @@ __slouching__ _v_
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :three::shit:  
 __slough<sup>2</sup>__ _v_ :four::shit: _Henry sloughs off questions about his odometer._  
+__slovenly__  
 __slovenly__  
 __slow-as-molases__  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
@@ -9166,6 +9174,7 @@ __strangling__
 __strap overalls__  
 __strapless__ _Strapless black dress._  
 __strapped__  
+__straw__  
 __straws__ _To stir straws._  
 __stray steeples__  
 __stray<sup>1</sup>__ _v_ :five::shit: (strays, strayed)  
@@ -9450,6 +9459,7 @@ __talons__ _The nails were sharp as talons._
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
 __tamp down__ _v_ :two::shit:  
 __tan__ Color?  
+__tang__  
 __tang__  
 __tang__ _Dory, the little blue tang fish._  
 __tangle__ _v_  
