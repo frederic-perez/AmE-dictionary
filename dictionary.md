@@ -346,7 +346,7 @@ __abjure__ _v_
 __abounds__  
 __about-face__  
 __aboveboard__  
-__abreast__ :three: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
+__abreast__ :four: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abrogation__ :two::shit:  
 __abs__ _Six-pack abs._  
 __absconded__ _v_  
@@ -403,7 +403,7 @@ __adhesive__ _Double-stick adhesive strips._
 __adjourne__ _v_ _The trip was adjourned to Feb. 1._  
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
-__admonition__ _n_ :four: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
+__admonition__ _n_ :five: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
 __adroit__  
 __adulation__  
@@ -436,6 +436,7 @@ __agave__ _n_
 __agency__ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
 __aggravate__ (aggravated) :two::shit: _v_  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
+__aghast__  
 __aghast__  
 __agit__  
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
@@ -1762,6 +1763,7 @@ __celery__ _n_ :six: A biennial European plant _(Apium graveolens var. dulce)_ i
 __cellist__  
 __cement bird bath__  
 __cement__ _v_ :two::shit: _He quickly cemented votes for the top job._  
+__censer__ _n_  
 __censure motion__  
 __centennial__  
 __centerpiece__  
@@ -1806,7 +1808,7 @@ __chasm__ _n_ :four: __1__ A deep, steep-sided opening in the earth's surface; a
 __chassis__  
 __chastened__  
 __chastize__ _v_  
-__chasuble__  
+__chasuble__ _n_ :two::shit:  
 __chattel__  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __check a bag__ :two::shit::open_mouth: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
@@ -1994,6 +1996,7 @@ __clout__
 __clout__ _n_ :nine: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout__ _v_  
 __clove__ _n_ __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__  One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._ :open_mouth::dart::camera:  
+__cloying__  
 __cloying__ :two::shit: _She is cordial without being cloying._  
 __cluck__  
 __clucking__ _Clucking chickens._  
@@ -2826,6 +2829,7 @@ __docket__
 __docket__  
 __docket__ _n_ :two::shit:  
 __doctored__ _v_ _A photograph doctored by his aides._  
+__doddering__  
 __dodges__ _n_  
 __dodgy__  
 __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
@@ -3069,6 +3073,7 @@ __dystopian__
 __détente__ :two::shit: _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
 __e-blasts__  
 __earbuds__ :camera:  
+__earlocks__ _n_  
 __early-onset__ _Early-onset Alzheimer's disease._  
 __earmark__ _v_ :three::shit:  
 __earmuffs__  
@@ -3742,6 +3747,7 @@ __forlorn__
 __forlorn__ _adj_ :five: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
+__forsake__ _v_  
 __forsake__ _v_  
 __forsake__ _v_ :two::shit:  
 __fort__ Fortification(?)  
@@ -5104,6 +5110,7 @@ __kelp__
 __ken__ _n_ :two::shit:  
 __kennel__  
 __keno__ _n_  
+__kerchief__ _n_   
 __kerkuffles__  
 __key up__ _He was too keyed up._  
 __keystrokes__  
@@ -6515,6 +6522,7 @@ __patron__ _n_ _Patrons who eat before 6 p.m._
 __patronage__  
 __patronize__ _v_  
 __patronizing__  
+__patronymic__  
 __patsy__ _adj_  
 __patter__  
 __patties__ _Organic grass-fed hamburger patties._  
@@ -6633,6 +6641,7 @@ __phlegm__
 __phlegm__  
 __phlegmy__ :three::shit:  
 __photo-op__  
+__phylacteries__  
 __piano wire__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick on__  
@@ -7622,6 +7631,7 @@ __rift__ _n_ :eight::shit: _Political rift._ _With deal of troops in danger, Afg
 __rifts__ _n_  
 __rig__ _Horse and the red wagon were a good rig._  
 __right__ :two::dart::shit: _Exactly right._ _Absolutely right._  
+__righteous__  
 __rigmarole__ _Rigmarole controls._  
 __rile__ (riled) :two: _v_ Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ :es: sacar de quicio  
 __riled up__ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._  
@@ -7840,6 +7850,7 @@ __salient__
 __salient__  
 __salivating__ _v_  
 __sallow__  
+__sallow__ _adj_  
 __salt away__  
 __salt of the Earth__  
 __salt the shaft__ :two::shit: _Salt the shaft if you have to._  
@@ -9164,6 +9175,7 @@ __strain__ _v_
 __strained__ :three::shit: _A strained thumb._  
 __straining__  
 __strains__  
+__strait__  
 __straits__  
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ :es: estrangular  
@@ -9870,6 +9882,7 @@ __trickle<sup>2</sup>__ _v_ _The money trickled in._
 __trickle__ _n_  
 __tricksy__  
 __trifecta__ :four: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
+__trifle__  
 __trifle__ _v_  
 __trifled__ _v_ _Never to be trifled with._  
 __trifles__ _n_  
@@ -10506,6 +10519,7 @@ __wicker__
 __wicker__ _They sat in wicker rockers._  
 __wicket__  
 __wicking__ :two::shit: _Moisture wicking._ __High-wicking polyester._  
+__wicks__ _n_  
 __widebody__ _Widebody jet._  
 __wield__ _v_ :eight: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
