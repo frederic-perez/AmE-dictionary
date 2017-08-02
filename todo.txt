@@ -1,5 +1,16 @@
 
 
+__exert__ _v_  
+__oars__ _n_  
+__ponderous__ _He shouldered his ponderous bundle._  
+__lest__  
+__homely__  
+__cowls__ _Their cowls were filthy rags._  
+__scabby__  
+__loincloths__  
+__keseboy__  
+__bellow__  
+
 __maelstrom__  
 __taper__ _v_  
 __bale__ _n_ _He sat on a bale of prayer rugs._  
