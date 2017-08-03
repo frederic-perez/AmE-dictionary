@@ -758,6 +758,7 @@ __bailout__ _n_ :three::shit:
 __bakeware__  
 __balderdash__  
 __bale__ _Bales of cotton._  
+__bale__ _n_ _He sat on a bale of prayer rugs._  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk__ /bɔːlk,bɔːk/ _v_ :seven: (balked) _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
 __balk__ _v_  
@@ -810,6 +811,7 @@ __barded__ _v_
 __bare-bones__ _A bare-bones lab._  
 __barf bag__  
 __barf bucket__  
+__bargain__ _He poured red wine to seal their bargain._  
 __barge<sup>1</sup>__ _n_ :two::shit: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::shit:  
 __barked area__  
@@ -952,6 +954,7 @@ __belittle__ (belittling) _v_ :four: Dismiss (someone or something) as unimporta
 __bellboy__ _n_  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
+__bellow__  
 __bellowed__ _v_  
 __bellowed__ _v_  
 __bellowing__ _n_  
@@ -2285,7 +2288,7 @@ __covey__
 __cow__ _v_ _Law makers cowed by powerful unions._  
 __cowboy__ _v_ :two::shit:  
 __cowering__ _v_ :two::shit:  
-__cowl__  
+__cowl__ :two::shit: _Their cowls were filthy rags._  
 __coy__  
 __coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __cozened__ _v_  
@@ -2529,6 +2532,7 @@ __darning__
 __dart__ (darting) :two::shit: _v_  
 __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
+__date__ :open_mouth: _It would be like eating a single date._  
 __dateline__  
 __daubed__  
 __daubed__ _A swastika was daubed on a science center window._  
@@ -3291,6 +3295,7 @@ __exec__ :two::shit: (execs, executive?)
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
 __exemption__ _Dru earned an exemption into the tournament._  
+__exert__ _v_  
 __exert__ _v_  
 __exert__ _v_ :four::shit: (exerted) _To exert due diligence._  
 __exertion__  
@@ -4661,6 +4666,7 @@ __homebody__
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
 __homely__  
+__homely__  
 __homeowner__  
 __homesick__  
 __homespun__  
@@ -5112,6 +5118,7 @@ __kennel__
 __keno__ _n_  
 __kerchief__ _n_   
 __kerkuffles__  
+__keseboy__  
 __key up__ _He was too keyed up._  
 __keystrokes__  
 __khakis__  
@@ -5205,6 +5212,7 @@ __lad__ _n_
 __laddie__  
 __laden__  
 __laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
+__lading__ _Checking bills of lading._  
 __ladyfinger cookies__  
 __lag__ :two::shit: _v_  
 __laggard__  
@@ -5350,6 +5358,7 @@ __lest__
 __lest__  
 __lest__  
 __lest__  
+__lest__  
 __lest__ :four: _Conjuction Formal_ __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__  
 __let alone__ :three::shit:  
@@ -5464,6 +5473,7 @@ __lofty__
 __lofty__  
 __lofty__ _adj_ :three::shit: _His lofty perch._  
 __loggerheads__  
+__loincloths__  
 __loins__ _n_ :two::shit:  
 __loitered__ _v_  
 __loll__ _v_  
@@ -5563,6 +5573,7 @@ __madcap__
 __madrasas__  
 __madrassas__  
 __madrigals__ _n_ :open_mouth:  
+__maelstrom__  
 __maelstrom__ :two::shit:  
 __maggot__  
 __maggot__ :dart::camera:  
@@ -5776,6 +5787,7 @@ __milk__ _v_
 __milk__ _v_ _Milk the clock__  
 __milkweed__  
 __milled about__ _v_  
+__millet__ _He had eaten millet gruel._  
 __milling__ :two::shit: _To avoid disrespectful milling._  
 __million__ _The project willl cost around $10 million._ (not ending with 's')  
 __milquetoast__ :two::shit: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
@@ -6162,6 +6174,7 @@ __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._
 __oaf__  
 __oafish__  
 __oafish__  
+__oars__ _n_  
 __oars__ _n_  
 __oatmeal__  
 __obit__ :two::shit:  
@@ -6875,6 +6888,7 @@ __pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back fro
 __ponder__ _v_  
 __ponder__ _v_ _Sam pondered his yellow fingernails._  
 __ponderous__  
+__ponderous__ _He shouldered his ponderous bundle._  
 __ponders__  
 __pong__ Drinking game?  
 __pontiff__  
@@ -7190,7 +7204,8 @@ __quaffable__
 __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ :two: _n_ __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ :es: atolladero  
 __quagmire__ _Local journalists are caught in the quagmire._  
-__quail__ _n_ :two::shit:  
+__quail<sup>1</sup>__ _n_ :two::shit:  
+__quail<sup>2</sup>__ _v_ (quailed)  
 __quaint__  
 __quaint__ _Quaint streets._  
 __quaint__ _adj_ :five::shit: _Quaint town._  
@@ -7912,6 +7927,7 @@ __sawyer__ _n_ :open_mouth:
 __scabbard__  
 __scabbard__  
 __scabbard__ :two::shit:  
+__scabby__  
 __scabies__  
 __scabs__ _n_ :two::shit:  
 __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
@@ -8334,6 +8350,7 @@ __sidelines__ :three::shit: _Investors retreated to the sidelines._
 __sidestep__ _v_  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
+__sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
 __sieve__  
 __sift__ _v_  
@@ -9497,6 +9514,7 @@ __tap__ _v_ _Entrepreneurs tap neighbors for funding._
 __taper<sup>1</sup>__ _n_ __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone).  
 __taper<sup>2</sup>__ _v_ :nine: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity.  
 __taper__ :es: cirio  
+__taper__ _v_  
 __tapered__ :two::shit:  
 __tapers__ _n_  
 __taproot__  

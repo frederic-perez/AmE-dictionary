@@ -1,22 +1,3 @@
 
 
-__exert__ _v_  
-__oars__ _n_  
-__ponderous__ _He shouldered his ponderous bundle._  
-__lest__  
-__homely__  
-__cowls__ _Their cowls were filthy rags._  
-__scabby__  
-__loincloths__  
-__keseboy__  
-__bellow__  
 
-__maelstrom__  
-__taper__ _v_  
-__bale__ _n_ _He sat on a bale of prayer rugs._  
-__quailed__ _v_  
-__lading__ _Checking bills of lading._  
-__sidled__ _v_  
-__millet__ _He had eaten millet gruel._  
-__date__ :open_mouth: _It would be like eating a single date._  
-__bargain__ _He poured red wine to seal their bargain._  
