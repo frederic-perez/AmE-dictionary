@@ -2667,6 +2667,7 @@ __derelict__
 __dereliction__  
 __derision__  
 __derringer__  
+__dervish__ _n_  
 __desecrate__ _v_ _Desecrating the flag._  
 __desecration__ _n_ :two::shit:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
@@ -4514,6 +4515,7 @@ __heather__
 __heathy__  
 __heave__ _She produced a school-record heave of 43'6.25 in taking the title._  
 __heave__ _v_  
+__heaving__ _He walked over the heaving earth away from the hated sea._  
 __heavy-handed__  
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
@@ -4631,6 +4633,7 @@ __hobbled__ _v_ _A few shops were hobbled in 2015._
 __hobbled__ _v_ _He hobbled on a sore ankle._  
 __hobnailed__ :two::shit: _v_ _Hobnailed boots._  
 __hobnails__  
+__hocks__ _n_  
 __hod__ _n_  
 __hoe<sup>1</sup>__ _n_ A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
 __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._  
@@ -4842,6 +4845,7 @@ __impish__ _Impish sense of humor._
 __implausible__  
 __impound__ _The Ponticac was impounded._  
 __impound__ _v_  
+__imprecation__  
 __imprint__ _n_  
 __imprisoned__  
 __impromptu__ :two::shit: _Some things are impromptu._  
@@ -5550,6 +5554,7 @@ __lunge<sup>1</sup>__ _v_ :two::shit:
 __lunge<sup>2</sup>__ _n_ :two::shit: _A reckless lunge at Gerrard._  
 __lunge__ _v_ _A bull lunges into the pen._  
 __lunged__ _v_  
+__lunged__ _v_  
 __lunges__ _n_ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
@@ -6187,6 +6192,7 @@ __obliges__ _v_
 __obligue__ _v_  
 __obliterate__ _v_  
 __oblivious__  
+__oblivious__  
 __obnoxious__  
 __obnoxious__ :two::shit:  
 __obo__ :two: (abbreviation) Or best offer.  
@@ -6575,6 +6581,7 @@ __peep__ _n_
 __peer__ _Peering into their crystal balls._  
 __peered__ _v_  
 __peerless__ 
+__peeved__ _v_  
 __pegged__ _v_  
 __pegged__ _v_  
 __pelt__ _n_  
@@ -6654,6 +6661,7 @@ __phlegm__
 __phlegm__  
 __phlegmy__ :three::shit:  
 __photo-op__  
+__phylacteries__  
 __phylacteries__  
 __piano wire__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
@@ -6816,9 +6824,7 @@ __plies__ _v_
 __plight__ _n_ :five: Tough situation.  
 __plinks__  
 __plinths__ _n_  
-__plod__  
-__plod__ _v_  
-__plod__ _v_ (plodded, plodding) :four::shit: _Plod to the shower._  
+__plod__ _v_ :seven::shit: (plodded, plodding) _Plod to the shower._  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._
 __plop<sup>2</sup>__ _v_ (plopped) Fall or cause to fall with a plop. _The stone plopped into the pond._  
 __plopped__ _v_ :two::shit:  
@@ -6913,6 +6919,7 @@ __pork rinds__ :two::shit:
 __porkpie hat__  
 __porkpie__ :two::shit:  
 __porphyry__ _n_ :open_mouth: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
+__porpoises__ _n_  
 __porridge__  
 __portable building__ :es: barracones?  
 __portal__  
@@ -7094,6 +7101,7 @@ __props__ :two::shit: _Barton got props from his quarterback in his second caree
 __prosaic__  
 __proselytize__ :four::open_mouth::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prospectus__  
+__prostrate__ _v_  
 __protean__ :two::shit:  
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
@@ -7618,6 +7626,7 @@ __ribbed__ _v_
 __ribbing__ :two::shit:  
 __riches__ _n_ :three: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
+__rickety__  
 __rickety__  
 __rickety__  
 __rickety__  
@@ -8472,6 +8481,7 @@ __slather__ _v_ :three::shit: _To slather on hand lotion._
 __slathered__ _v_  
 __slats__ _n_ :four::shit: _The slats in the dock._ _Wood slats._  
 __slatted__ _v_ :two::shit: _Slatted sunlight._  
+__slatternly__  
 __slay__ _v_ ;two::shit: (slain) JFK was slain.  
 __sleaziest__  
 __sleazy__  
@@ -9203,6 +9213,7 @@ __strangling__
 __strap overalls__  
 __strapless__ _Strapless black dress._  
 __strapped__  
+__strapping__ _Two strapping sons._  
 __straw__  
 __straws__ _To stir straws._  
 __stray steeples__  
@@ -9403,6 +9414,7 @@ __sweatpants__
 __sweeping staircase__ :camera:  
 __sweepstakes__  
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
+__sweet water__  
 __sweethearts__  
 __swell__ _n_ :two::shit: _The swell of people from war-torn countries._  
 __swelled__ (swelling) :two::shit:  
@@ -10359,6 +10371,7 @@ __walk-through__ :es: precalentamiento (?)
 __walkabout__  
 __walking trail__ :two::shit: _Many airports are upping their game, adding walking trails._  
 __walkups__ (or walk-ups?)  
+__wall-eyed__  
 __wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wallboard__  
 __wallflower__  
@@ -10475,6 +10488,7 @@ __wheelbarrow__
 __wheeze__  
 __wheezing__ _Wheezing economy._  
 __whelp__  
+__whence__  
 __whereabouts__  
 __whereby__  
 __wherewithal__ :four::shit:  
