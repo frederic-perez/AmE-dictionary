@@ -1,4 +1,34 @@
 
+__longbow__ _n_  
+__midst__  
+__pampered__  
+__limber__ _Limber stick._  
+__crook__ _n_  
+__cantered__ _v_  
+__sward__  
+__hock__ _n_ _The horse struggled to stand on a broken hock._  
+__neighing__ _v_  
+__shrilly__  
+__wheel__ _v_  
+__careen__ _v_  
+__jangled__ _v_  
+__henna__  
+__sort__ :dart: _Bread of four sorts was brought._  
+__haunches__ _n_ _Haunches of antelope._  
+__carapaces__ _n_  
+__porringer__  
+__sodden__  
+__lyre__  
+__straggler__ _n_  
+__burgeoning__  
+__locusts__ _n_  
+__doubtless__  
+__camphor__ _n_  
+__foreboding__  
+__leech__ _n_  
+__jocular__  
+__defile__ _n_  
+
 __roiled__ _v_  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
 __hemp__ _n_  
