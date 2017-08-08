@@ -37,6 +37,7 @@ __BB__ :three: _n_ A small pellet fired from an air rifle or BB gun. (BBs) _He t
 __BLT__ (food?)  
 __BO__ :two::shit:  
 __BS__ :two::shit: _One of our core values is: Open company, no BS._  
+__Bedouin__  
 __Beehive State__ _n_ :three: Utah.  
 __Big C__ Cancer?  
 __Big Pharma__  
@@ -1116,6 +1117,7 @@ __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._
 __bleary__ :three::shit:  
 __bleated__ _v_ :three::shit: (bleating) _His walkie-talkie bleated._  
 __bleating__  
+__bleating__ _n_ _The bleating of a few sheep._  
 __bled__ _v_  
 __bleed blue__  
 __bleeding heart__ _A radical Jewish lawyer with a beard and a bleeding heart._  
@@ -1846,6 +1848,7 @@ __cheek by jowl__
 __cheek by jowl__  
 __cheekboned__  _High-cheekboned newbies.;-_  
 __cheekier__  
+__cheerfully__  
 __cheesecloth__  
 __cheesecloth__ :two::shit:  
 __cheesy__ :two: _Informal_ Cheap and of low quality. _Cheesy motel rooms._    
@@ -3699,6 +3702,7 @@ __flushed complexion__
 __fluster__ _v_ :three: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __flustered__ _v_  
 __flustered__ _v_  
+__fluted__ _v_  
 __flutist__  
 __flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under the water._  
 __flutter__ _Two pieces of paper fluttered to the floor._  
@@ -4609,6 +4613,7 @@ __hemmed__ _v_ :two::shit:
 __hemming__  
 __hemp__  
 __hemp__  
+__hemp__ _Hemp plant._  
 __hemp__ _n_  
 __henchman__ :three::shit: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
@@ -4905,6 +4910,7 @@ __implausible__
 __impound__ _The Ponticac was impounded._  
 __impound__ _v_  
 __imprecation__  
+__imprecation__ _n_ A curse.  
 __imprint__ _n_  
 __imprisoned__  
 __impromptu__ :two::shit: _Some things are impromptu._  
@@ -10012,6 +10018,7 @@ __trample__ _v_
 __trample__ _v_  
 __trample__ _v_  
 __trample__ _v_ :eight::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
+__trampled__  
 __trampled__  
 __trampling__ _v_  
 __trampolines__ _n_  
