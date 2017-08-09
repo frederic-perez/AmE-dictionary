@@ -694,7 +694,8 @@ __autoclaving__
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocratic__ :two::shit:  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
-__avails__ _v_  
+__avail__ _v_ _Nothing avails against the Death._  
+__avail__ _v_  
 __aver__ _v_  
 __average citizens__  
 __averse__ :two::shit: _He was not averse to using the news media._  
@@ -1826,6 +1827,7 @@ __chapter__ _To the east was the chapter house._
 __charade__  
 __chard__  
 __charging__ Accuse formally.  
+__charnel__ :two::shit: _The charnel wagon._  
 __charted__  
 __charter<sup>1</sup>__ _n_ :two::shit:  
 __charter<sup>2</sup>__ _v_  
@@ -2479,6 +2481,7 @@ __cummerbund__
 __cupboards__ :camera: _My father rebuilt cupboards._  
 __cupolas__ _n_  
 __cuppa__  
+__cupping__ _n_ :open_mouth:  
 __cur__ _A brindle cur._  
 __cur__ _n_  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
@@ -2987,6 +2990,7 @@ __drawingrooms__
 __drawl__  
 __drawl__  
 __drawl__ _n_ :two::shit: _A Southern drawl._  
+__drawled__ _v_  
 __dray__ _Dray horse._  
 __drayman__  
 __drays__ _n_  
@@ -5078,6 +5082,7 @@ __jaywalker__ _n_
 __jaywalking__  
 __jazz up__ _v_  
 __jazzy__  
+__jeered__ _v_  
 __jeering__  
 __jeers__  
 __jejune__  
@@ -5742,6 +5747,7 @@ __marshalling__ _v_
 __marshals__ _v_  
 __marshland__ :two::shit:  
 __marshmallow__ _n_  
+__marshy__  
 __mart__ A place of trade, eg. an auction room or market.  
 __martyr__  
 __martyrdom__  
@@ -6738,6 +6744,7 @@ __peruse__ _v_
 __pervasive__ :three::shit:  
 __pesky__  
 __pester__ _v_  
+__pestilence__ _n_  
 __peter out__  
 __petite__  
 __petroglyphs__ _Ancient Indian petroglyph._  
@@ -7047,6 +7054,7 @@ __potholed__ _The island's potholed highways._
 __potholes__ _n_  
 __potluck__  :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __poultices__ _n_  
+__poultices__ _n_  
 __poultices__ _n_ _Salves, poultices, and plasters._  
 __pounce__ :four::shit: _v_ (pounced) _Critics pounced on the showiness._  
 __pounce__ _v_  
@@ -7307,6 +7315,7 @@ __puttered__
 __putting aside__  
 __putty__ _n_ :five::shit: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._  
 __pylon__ _n_  
+__pyres__ _n_  
 __pyrrhic__ _adj_ :three::open_mouth: (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __quack__ _n_ :two::shit:  
 __quadrennial__  
@@ -8486,6 +8495,7 @@ __sideways__ _I'm not interested in getting sideways with anyone at Augusta_
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
 __sieve__  
+__sieve__ _n_  
 __sift__ _v_  
 __sift__ _v_  
 __sift__ _v_ :four: __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
@@ -8586,6 +8596,7 @@ __slabs__ _Concrete slabs._
 __slack<sup>1</sup>__ _n_ :three::shit: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::shit: _His jaw was slack._ _The rain had slackened._
 __slack__ _Now he couldn't drive with slack reins._  
+__slack__ _adj_  
 __slack__ _n_  
 __slackened__ _v_  
 __slacker__  
@@ -8967,6 +8978,7 @@ __special-team__
 __specialty__ _Specialty apparel sellers._  
 __specious__ :two::shit: _Specious argument._  
 __speck__ :two::shit: _A speck of blood._  
+__speckled__ _v_  
 __specs__ :two: Spectacles, glasses.  
 __speculate__ _v_  
 __speed demon__  
@@ -9504,6 +9516,7 @@ __supple__
 __supple__ :open_mouth: :es: flexible  
 __supple__ :two::shit:  
 __suppleness__ _Mental suppleness._  
+__suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
 __surcease__  
 __sure enough,__ _Sure enough, that's what happened._  
@@ -10719,6 +10732,7 @@ __wigglers__
 __wild card__ _The wildcard was an expected weekend warmup with rain._  
 __wilderness__  
 __wildling__ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
+__wildness__  
 __wilful__  
 __willful__  
 __willfully__  
