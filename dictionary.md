@@ -694,8 +694,8 @@ __autoclaving__
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocratic__ :two::shit:  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
-__avail__ _v_ _Nothing avails against the Death._  
 __avail__ _v_  
+__avail__ _v_ _Nothing avails against the Death._  
 __aver__ _v_  
 __average citizens__  
 __averse__ :two::shit: _He was not averse to using the news media._  
@@ -1827,6 +1827,7 @@ __chapter__ _To the east was the chapter house._
 __charade__  
 __chard__  
 __charging__ Accuse formally.  
+__charnel__  
 __charnel__ :two::shit: _The charnel wagon._  
 __charted__  
 __charter<sup>1</sup>__ _n_ :two::shit:  
@@ -3561,6 +3562,7 @@ __fissile__ _Fissile material._
 __fist-pumper__  
 __fit__ :two::shit:  
 __fitful__  
+__fitful__  
 __fits__ _The cathedral has been built in fits._  
 __fittingly__ :two::shit:  
 __fivesomes__  
@@ -3852,6 +3854,7 @@ __freewheel__ _v_ :three::shit: (freewheeling) _Freewheeling style._ _Freewheeli
 __freewheel__ _v_ _Freewheeling style._  
 __freewheeling__ :two::shit: _A freewheeling conversation._  
 __freezer__ :two::shit: _Chest/Upright freezer._ :camera:  
+__frenzy__  
 __frenzy__  
 __fret__ _v_  
 __fret__ _v_ (fretted)  
@@ -4647,6 +4650,7 @@ __hickory__
 __hicks__ _A collection of web-toed hicks._  
 __hidebound__  
 __hidebound__ :two::shit:  
+__hideous__  
 __high and dry__ _His team was left high and dry._  
 __high beams__  
 __high road__ __1__ __a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
@@ -4999,6 +5003,7 @@ __inkling__
 __inkling__ _n_ :two::shit:  
 __innumerate__  
 __inordinate__ :two::shit:  
+__inordinately__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__  
 __inroads__ _n_ :three::shit:  
@@ -7053,6 +7058,7 @@ __pothole__
 __potholed__ _The island's potholed highways._  
 __potholes__ _n_  
 __potluck__  :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
+__poultices__  
 __poultices__ _n_  
 __poultices__ _n_  
 __poultices__ _n_ _Salves, poultices, and plasters._  
@@ -9388,6 +9394,7 @@ __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you
 __strewn__  
 __strewn__ _v_  
 __stricken__  
+__stricken__  
 __stricken__ :four::shit: _Stricken people._  
 __strictures__ :three::shit: _The strictures on women's behavior were easing._  
 __strife__ _n_  
@@ -9825,6 +9832,7 @@ __thrash__ _v_ :four::shit: (thrashed) _Toronto thrashed New York City F.C._
 __thrashing__ _v_  
 __thrifty__  
 __throbbed__ _v_ :three::shit: (throbs, throbbing)  
+__throbbingly__  
 __throes__ :four::shit:  
 __throng__  
 __throng__  
@@ -10715,6 +10723,7 @@ __whoopee__
 __whooping cough__  
 __whoosh__ :two::shit: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whorls__  
+__wick__ _n_  
 __wicked__  
 __wickedly__  
 __wicker chair__  
@@ -10875,8 +10884,7 @@ __writhing__ _v_
 __writs__ _n_  
 __wrongdoing__  
 __wrought__ _v_ A past tense and a past participle of work. _Syn_ worked _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
-__wry__  
-__wry__ _adj_ :four: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
+__wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco  
 __wryly__  
 __wryly__  
 __wunderkind__  
