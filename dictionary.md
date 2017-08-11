@@ -3039,8 +3039,7 @@ __dugout__
 __dugout__  
 __dulcet icing__  
 __dully__  
-__duly__  
-__duly__ :two::shit: _Couples duly married._  
+__duly__ :four::shit: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas
 __dumbfounded__ _v_  
 __dumbstruck__  
@@ -8768,6 +8767,7 @@ __soldier of fortune__
 __soldiers__ _v_  
 __solemnize__ _v_  
 __solid gold__  
+__solid__ _It lasted a solid week._  
 __solid__ _It rained for a solid week._  
 __solidify__ _v_  
 __soliloquy__  
