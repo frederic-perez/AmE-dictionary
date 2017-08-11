@@ -2846,6 +2846,7 @@ __dissent__ _n_ :two::shit:
 __disservice__ _(funny spelling)_  
 __dissimilarly__  
 __dissing__ _v_  
+__dissipation__  
 __dissolution__  
 __dissuaded__  
 __distemper__ _An outbreak of canine distemper has killed a 12-year-old tiger._  
@@ -5261,6 +5262,7 @@ __knell__
 __knell__  
 __knit tie__  
 __knit__  
+__knit__ _v_ To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knock-knock joke__  
 __knock__ _n_  
 __knockusing__  
@@ -6007,6 +6009,7 @@ __moribund__
 __morning glory__  
 __morosely__  
 __morosely__  
+__morsel__  
 __morsel__  
 __mortar shell__  
 __mortar__ _n_ :two::shit: _Militants fired mortar rounds._  
@@ -9096,6 +9099,7 @@ __sputtering__
 __sputtering__ _adj_  
 __sputters__  
 __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
+__squabbling__ _v_  
 __squabbling__ _v_ :two::shit: _A squabbling family._  
 __squack__  
 __squad__ _n_ :two::shit:  
