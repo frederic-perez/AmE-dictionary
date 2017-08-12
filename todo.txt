@@ -6,6 +6,13 @@ __gibed__ _v_
 __quail__ _v_  
 __defer__ _v_  
 
+__pallet__  
+__bade__ _She bade me bring you here._  
+__splayed__ _v_  
+__furrow__ _n_  
+__whorls__  
+__decreed__ _v_  
+
 __fawningly__  
 __distemper__ _n_  
 __hooted__ _v_  
