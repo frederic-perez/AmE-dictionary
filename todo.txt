@@ -1,4 +1,9 @@
 
+__locks__ _n_ _The thick locks of black hair._  
+__salve__ _n_ _Karim's skin needed the yellow salve._  
+__swerved__ _v_  
+__lurching__ _v_  
+__squat__ _adj_ _A squat man._  
 
 __squire__ _n_  
 __kneaded__ _v_  
