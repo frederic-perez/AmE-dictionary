@@ -1,4 +1,19 @@
 
+__abrade__ _v_  
+__sprawl__ _v_  
+__nattering__  
+__partaken__ _v_  
+__smitten__  
+__knave__  
+__appraisingly__  
+__apostate__  
+__delectable__  
+__relic__ _n_  
+__atone__ _v_  
+__raiment__  
+__curtail__ _v_  
+__stringent__  
+
 __locks__ _n_ _The thick locks of black hair._  
 __salve__ _n_ _Karim's skin needed the yellow salve._  
 __swerved__ _v_  
