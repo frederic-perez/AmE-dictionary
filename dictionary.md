@@ -2684,7 +2684,6 @@ __deking__
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__  
 __delectable__  
-__delectable__  
 __deli__  
 __delisted__ _v_  
 __deliverance__  
@@ -3109,8 +3108,7 @@ __dugout__
 __dugout__  
 __dulcet icing__  
 __dully__  
-__duly__  
-__duly__ :two::shit: _Couples duly married._  
+__duly__ :four::shit: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas
 __dumbfounded__ _v_  
 __dumbstruck__  
@@ -3241,6 +3239,7 @@ __emeritus__
 __emerity__ _Faculty emerity._  
 __emery paper__  
 __emery__ :two::shit: _An emery wheel._  
+__emo__ :two::shit: (emotional?)  
 __emphasize__ _v_ :two::shit:  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
@@ -5588,6 +5587,7 @@ __living wills__
 __llama__  
 __llilacs__ _n_  
 __lo and behold__  
+__loaded question__  
 __loafered__  
 __loafers__  
 __loafers__ :two::shit:  
@@ -5669,6 +5669,7 @@ __lowlights__
 __lowly__  
 __lucifer match__  
 __ludicrous__ :open_mouth::four: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrous__ :three::shit:  
 __lug nut__ _n_ :two::shit: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::shit:  
 __lug__ _v_ :three::shit:  
@@ -9003,6 +9004,7 @@ __soldier of fortune__
 __soldiers__ _v_  
 __solemnize__ _v_  
 __solid gold__  
+__solid__ _It lasted a solid week._  
 __solid__ _It rained for a solid week._  
 __solidify__ _v_  
 __soliloquy__  
@@ -10515,6 +10517,7 @@ __vacuum__ :two::shit: _Upright/Canister vacuum._ :camera:
 __vagaries__ :three::shit: _The vagaries of economics._  
 __vagrant__  
 __vagrants__  
+__valedictorian__ :two::shit:  
 __valedictorian__ :two::shit:  
 __valedictorians__ :two::shit:  
 __valentine__  
