@@ -1,4 +1,9 @@
-
+__ropy__ _The camel spat ropy globs at him._  
+__globs__ _n_ _The camel spat ropy globs at him._  
+__cur__  
+__forager__  
+__squawking__  
+__malingerer__ _n_  
 __smouldering__  
 __welling__ _Rob felt a welling of affection._  
 __plied__ _v_ _She had been plied with opiates and wine._  
