@@ -348,6 +348,7 @@ __abjure__ _v_
 __abounds__  
 __about-face__  
 __aboveboard__  
+__abrade__ _v_  
 __abreast__ :four: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abrogation__ :two::shit:  
 __abs__ _Six-pack abs._  
@@ -571,6 +572,7 @@ __apologist__
 __apoplectic__  
 __apostasy__  
 __apostate__  
+__apostate__  
 __apostates__  
 __appall__ _v_ (appalled) :two::shit::open_mouth: :es: horrorizar, espantar  
 __appalling__ _adj_ :two: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
@@ -590,6 +592,7 @@ __apportioned__ _v_
 __appraisal__ _n_ :five::shit: _An insurance appraisal._  
 __appraisals__ _n_ _Free appraisals._  
 __appraised__ _The home was appraised in 2007._  
+__appraisingly__  
 __apprehend__ _v_  
 __apprehension__  
 __approval rating__ _Park's approval rating has plummeted._  
@@ -668,6 +671,7 @@ __atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite
 __athwart__  
 __atlatl__  
 __atolls__ _n_  
+__atone__ _v_  
 __atone__ _v_ :two::shit:  
 __atoned__ _v_  
 __atrium__  
@@ -1815,6 +1819,7 @@ __chaffed__ _v_
 __chafing__ _v_  
 __chagrin<sup>1</sup>__ _n_ :seven: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
 __chagrin<sup>2</sup>__ _v_ (chagrined) Cause to feel shame; hurt the pride of.  
+__chagrin__  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :three::shit: (chalked) _Chalk it up._  
@@ -2476,6 +2481,7 @@ __cry foul__ :two::shit: _But alcohol-safety groups cry foul, saying alcohol mak
 __crystal meth__  
 __crystal__ _Meth?_  
 __cubbyhole__  
+__cuckold__  
 __cuckold__ :two::shit:  
 __cuckolded__  
 __cuckolded__ _adj_  
@@ -2513,6 +2519,7 @@ __curry__ _v_ :four::shit: _A blatant effort to curry favor._
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ :two::shit: _A cursory glance._  
 __curt__ _His curt answer._  
+__curtail__ _v_  
 __curtail__ _v_ :five: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailed__ _v_  
 __curtailment__  
@@ -2677,6 +2684,7 @@ __deking__
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__  
 __delectable__  
+__delectable__  
 __deli__  
 __delisted__ _v_  
 __deliverance__  
@@ -2722,6 +2730,7 @@ __dereliction__
 __derision__  
 __derringer__  
 __dervish__ _n_  
+__desecrate__ _v_  
 __desecrate__ _v_ _Desecrating the flag._  
 __desecration__ _n_ :two::shit:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
@@ -4049,6 +4058,7 @@ __geezer__ _A lightsaber battle where two old geezers poke at each other._
 __geezers__  
 __gelding__  
 __gelding__ _n_  
+__gelding__ _n_  
 __gelled__ _His hair was neatly gelled._  
 __gelt__  
 __genealogist__  
@@ -5049,6 +5059,7 @@ __insofar__
 __instability__ :two::shit::open_mouth:  
 __installment__ :two: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
+__instil__ _v_  
 __instilled__ _v_ _She instilled an enduring sense of family._  
 __institute__ _v_  
 __insular__ _His small, insular group of loyalists._  
@@ -5288,7 +5299,9 @@ __kitsch__
 __kleptocracy__  
 __klutz__  
 __knack__ _n_  
+__knave__  
 __knavish__  
+__kneaded__ _v_  
 __kneading__ _v_ :three::shit:  
 __knee-jerk hawk__  
 __knee-jerk reaction__  
@@ -5588,6 +5601,7 @@ __lockdown__ _The school was under lockdown for about two hours after the episod
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
 __lockout__ _N.J. residents upset over island lockout._  
 __locks > alcohol ignition locks__  
+__locks__ _n_ _The thick locks of black hair._  
 __lockstep__ :two::shit:  
 __locust__ :two::shit:  
 __locusts__ _n_  
@@ -5614,6 +5628,7 @@ __longbow__ _n_
 __longbow__ _n_  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__  
+__longing__ _n_ :dart:  
 __longstanding__ :two::shit:  
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
@@ -5684,6 +5699,7 @@ __lunges__ _n_ _An amputee did lunges with Mr. Obama._
 __lupine__  
 __lupus__  
 __lurch__ :three::shit: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
+__lurching__ _v_  
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurk__  
 __lurk__ _v_ :six: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
@@ -6169,11 +6185,13 @@ __nape__ _n_
 __nappy__  
 __narrative__  
 __narrow escape__  
+__narrowly__ _I narrowly escaped execution._  
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
 __nascent__ :two::shit: _The nascent market._  
 __nativism__ :two::shit:  
+__nattering__  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__  
 __natty__ _adj_ Neat, trim, and smart; dapper.  
@@ -6307,6 +6325,7 @@ __nullify__ _v_
 __numb__  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __numbered__ :dart: _I hope those days are numbered._  
+__numbered__ _His days are numbered as Vizier._  
 __numbly__  
 __nunchucks__  
 __nurse__ _v_  
@@ -6565,6 +6584,7 @@ __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's ju
 __pageboy__  
 __pail__ _n_  
 __pail__ _n_ :two::shit: _A lunch pail._  
+__painstaking__ _Painstaking patience._  
 __painter__  
 __paisley__  
 __paisley__  
@@ -6656,7 +6676,8 @@ __parrot nose pliers__ :es: Mordaza pico de loro
 __parroting__ _v_  
 __parsnip__  
 __partake__ _v_ :four::shit: (partaking)  
-__parted hair__ _Díaz wore parted hair._  
+__partaken__ _v_  
+__parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __particle board__  
 __partisan__ _A partisan atmosphere._  
@@ -7419,6 +7440,7 @@ __quickening__ _He felt a quickening within him._
 __quicksand__  
 __quicksand__ _I've just signed a quicksand employment contract._  
 __quicksilver__  
+__quill__ _n_  
 __quilt__  
 __quilting__ _Quilting bee._  
 __quince__ :open_mouth: _Quince preserves._  
@@ -7467,6 +7489,7 @@ __ragtag__ _A ragtag group._
 __rail__ _She is elegantly rail thin._  
 __rail__ _v_ _He is railing against Medicaid._  
 __railed__ _v_  
+__raiment__  
 __rain slickers__ _n_  
 __rainbow pass__ _football_  
 __rainmaker__  
@@ -7688,6 +7711,7 @@ __relegation__ _Sports_
 __relent__ _v_  
 __relented__ _v_  
 __reliant__  
+__relic__ _n_  
 __relief teams__  
 __relief__ :two::shit: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
 __reliever__  
@@ -7872,6 +7896,7 @@ __ritziest__ _One of the ritziest restaurants._
 __rived__ _v_  
 __riven__  
 __river outfitter__  
+__rivulets__  
 __roach paste__  
 __roach__ _n_ :two::shit: _Roach paste._  
 __road salt__ _n_  
@@ -8068,6 +8093,7 @@ __salutary__
 __salute__ _n_  
 __salvage__ _adj_  
 __salve__  
+__salve__ _n_ _Karim's skin needed the yellow salve._  
 __salves__ _n_ _Salves, poultices, and plasters._  
 __salvo__  
 __salvo__ :two::shit:  
@@ -8514,6 +8540,7 @@ __shrill__ _v_ _Crickets shrilled._
 __shrilly__  
 __shrimp__  
 __shrines__ _n_  
+__shrivel up__ _v_  
 __shrivel up__ _v_ :two::shit:  
 __shrivel__ _v_ :three::shit: (shriveled)  
 __shriveled__ _v_  
@@ -8524,6 +8551,7 @@ __shrubbery__
 __shtick__ or __shtik__ :three: _n_ _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::shit: (shucked, shucking)  
 __shucking__ _Portraits of a man shucking corn._  
+__shudderings__ _n_  
 __shudders__ _v_ :two::shit:  
 __shuffle off__  
 __shuffling__  
@@ -8834,6 +8862,7 @@ __smite__
 __smithereens__  
 __smitten__  
 __smitten__  
+__smitten__  
 __smitten__ _adj_ :six: Smitten means overwhelmed or struck by something, usually love. The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him. __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__  Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
 __smitten__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
@@ -9115,6 +9144,7 @@ __sportcoat__
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __sprained__ _v_ :five::shit: _A sprained thumb._  
 __sprawl__  
+__sprawl__ _v_  
 __sprawled__ _v_  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
@@ -9175,6 +9205,7 @@ __squat<sup>1</sup>__ _v_ :four: (squatting) Crouch or sit with one's knees bent
 __squat<sup>2</sup>__ _adj_ :two: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ 	stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squat__ _adj_  
+__squat__ _adj_ _A squat man._  
 __squatted__ _v_  
 __squawked__ _The walkie-talkie squawked._  
 __squawking__ _v_  
@@ -9190,6 +9221,7 @@ __squelch__
 __squelch__ _v_  
 __squelched__ _v_  
 __squire__ :two::shit: _Is he her consort or her squire?_  
+__squire__ _n_  
 __squire__ _v_ :open_mouth:  
 __squirm<sup>1</sup>__ _v_ :two::shit: _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
@@ -9317,6 +9349,7 @@ __sterling__ _A sterling example._
 __stern__ _n_ :two::shit:  
 __stew-bums__ _n_  
 __stew__ _n_ :two::shit: _It captures the stew of hate._  
+__stew__ _v_ _I have no desire to stew in politics._  
 __steward__  
 __steward__  
 __stewards__ _Concerned stewards of the Earth._  
@@ -9472,6 +9505,7 @@ __string knife__ :two::shit:
 __stringent__  
 __stringent__  
 __stringent__  
+__stringent__  
 __stringent__ _adj_ :five: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :three::shit:  
 __strip mall__ _n_  
@@ -9602,6 +9636,7 @@ __surge__ _v_
 __surge__ _v_  
 __surge__ _v_  
 __surliness__  
+__surly__  
 __surly__ _adj_ :three: Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmount__ _v_  
@@ -9654,6 +9689,7 @@ __swelled__ (swelling) :two::shit:
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ ::four::shit: (swerves, swerved)  
+__swerved__ _v_  
 __swerved__ _v_ :five::shit: (swerving)  
 __swift__ _adj_ :three::shit: _A swift response._  
 __swiftly__  
@@ -9681,6 +9717,7 @@ __swoop__ _v_
 __swoop__ _v_  
 __swoopy__  
 __swooshing__  
+__sycophant__  
 __sycophants__  
 __sycophants__  
 __syllogism__ :two::shit:  
@@ -10570,6 +10607,7 @@ __vitriol__ :three: /ˈvɪtrɪəl/ _n_ Bitter criticism or malice. _Chávez's an
 __vitriolic__ :two::shit:  
 __vituperation__  
 __vituperative__  
+__vizier__  
 __vocal__ :two: _Critics often are the most vocal._  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __volition__  
