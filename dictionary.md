@@ -3170,6 +3170,7 @@ __emeritus__
 __emerity__ _Faculty emerity._  
 __emery paper__  
 __emery__ :two::shit: _An emery wheel._  
+__emo__ :two::shit: (emotional?)  
 __emphasize__ _v_ :two::shit:  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
@@ -5452,6 +5453,7 @@ __living wills__
 __llama__  
 __llilacs__ _n_  
 __lo and behold__  
+__loaded question__  
 __loafered__  
 __loafers__  
 __loafers__ :two::shit:  
@@ -5528,6 +5530,7 @@ __lowlights__
 __lowly__  
 __lucifer match__  
 __ludicrous__ :open_mouth::four: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrous__ :three::shit:  
 __lug nut__ _n_ :two::shit: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::shit:  
 __lug__ _v_ :three::shit:  
@@ -10231,6 +10234,7 @@ __vacuum__ :two::shit: _Upright/Canister vacuum._ :camera:
 __vagaries__ :three::shit: _The vagaries of economics._  
 __vagrant__  
 __vagrants__  
+__valedictorian__ :two::shit:  
 __valedictorian__ :two::shit:  
 __valedictorians__ :two::shit:  
 __valentine__  
