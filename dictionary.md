@@ -630,6 +630,7 @@ __as much as__ _Inside today's Stateman as much as $215 in coupon savings._
 __asbestos__  
 __asbestos__ :two: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
+__ascetic__  
 __ascot__  
 __ascribe__ _v_  
 __ascribe__ _v_  
@@ -1655,6 +1656,7 @@ __calliopes__
 __callous__  
 __callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :three::dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __callousness__  
+__cameleer__  
 __camellia__  
 __camo__  
 __camp__  
@@ -2486,6 +2488,7 @@ __cuckold__ :two::shit:
 __cuckolded__  
 __cuckolded__ _adj_  
 __cud__ _n_  
+__cud__ _n_  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::shit: (cudgels)  
 __cue ball__ :two::shit:  
@@ -2500,6 +2503,7 @@ __cupboards__ :camera: _My father rebuilt cupboards._
 __cupolas__ _n_  
 __cuppa__  
 __cupping__ _n_ :open_mouth:  
+__cur__  
 __cur__ _A brindle cur._  
 __cur__ _The barking of cur dogs._  
 __cur__ _n_  
@@ -3107,6 +3111,7 @@ __dug__ _n_
 __dugout__  
 __dugout__  
 __dulcet icing__  
+__dullard__  
 __dully__  
 __duly__ :four::shit: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas
@@ -3476,6 +3481,7 @@ __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground tro
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
 __fawn<sup>2</sup>__ _v_  
 __fawning__  
+__fawning__  
 __fawningly__  
 __faze__ _v_  
 __faze__ _v_  
@@ -3795,6 +3801,7 @@ __for the sake of__
 __for-profit__  
 __forage__ _v_  
 __foraged__  
+__forager__  
 __foragers__  
 __foray__ _n_  
 __foray__ _n_ :five: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
@@ -4138,8 +4145,7 @@ __gloaming__
 __gloat__ :two::shit: _I could not gloat._  
 __gloat__ _v_  
 __gloating__  
-__glob__ :two::shit: _A glob of spit._  
-__glob__ _A glob of chicken salad._  
+__glob__ _n_ :four::shit: _A glob of spit._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __gloom__ _n_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ _We mustn't gloss over disagreements._  
@@ -4670,6 +4676,7 @@ __henna__
 __herald__ _v_  
 __heralded__  
 __heralded__ _v_  
+__herdsman__ _n_  
 __heretofore__ :two::shit:  
 __herky__ (herky-jerky driving)  
 __hermit__  
@@ -4952,6 +4959,7 @@ __impending__ _adj_ :six: If something is impending, it is about to happen. If y
 __imperil__  
 __imperil__ _v_  
 __imperiled__  
+__imperious__  
 __impermissible__ :two::shit:  
 __impervious__ :two::shit:  
 __impetus__  
@@ -5735,6 +5743,7 @@ __mahogany__
 __mahogany__  
 __mahogany__ _He took a leather seat at a magohany bar._  
 __maiden__ _Maiden flight._  
+__mail__ _Elephants covered in mail._  
 __mail__ _n_ _When we go into battle, the elephant wears his own mail._  
 __mailed__ :open_mouth: _Two great, mailed figures circling each other in the desert._  
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
@@ -5762,6 +5771,7 @@ __malarkey__
 __malevolent__  
 __malfeasance__ :two::shit:  
 __maligned__  
+__malingerer__ _n_  
 __mallards__  
 __mallow__ :open_mouth:  
 __malnourished__  
@@ -5857,7 +5867,7 @@ __meager__ :three::shit: _The meager wages._
 __meager__ :two::shit:  
 __meandering__  
 __meannes__ :open_mouth:  
-__measles__ :two::shit: :es: _Rubeola_  
+__measles__ :three::shit: :es: _Rubeola_  
 __mecca__ :three::shit: _Shopping mecca._  
 __mechanical pencil__  
 __medal__ _v_  
@@ -6755,6 +6765,7 @@ __peer__ _Peering into their crystal balls._
 __peered__ _v_  
 __peerless__ 
 __peeved__ _v_  
+__peevishly__  
 __pegged__ _v_  
 __pegged__ _v_  
 __pelt__ _n_  
@@ -6999,6 +7010,7 @@ __pliable__ _The pliable GOP._
 __pliant__ :two::shit:  
 __pliant__ _adj_ _A pliant young waitress._  
 __plied__ _v_  
+__plied__ _v_ _She had been plied with opiates and wine._  
 __plies__ _v_  
 __plight__ _n_ :five: Tough situation.  
 __plinks__  
@@ -7958,6 +7970,7 @@ __rooting__ _v_ _She was rooting in the Dumpster._
 __rope in__ _v_  
 __rope-a-dope__ :two::shit:  
 __ropy__  
+__ropy__ _The camel spat ropy globs at him._  
 __rosin box__  
 __roster__ _n_ :two::shit: _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
 __rosy__  
@@ -8084,6 +8097,7 @@ __salient__
 __salient__  
 __salivating__ _v_  
 __sallow__  
+__sallow__ _A sallow face._  
 __sallow__ _adj_  
 __salt away__  
 __salt of the Earth__  
@@ -8262,10 +8276,12 @@ __scrub brush__
 __scrub__ _v_ :two::shit:  
 __scrubbers__ _n_  
 __scruffy__  
+__scruffy__  
 __scruffy__ _adj_ :six::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrumptious__  
 __scrunched__ (scrunching) :two::shit:  
+__scrupulously__  
 __scrutiny__  
 __scud<sup>1</sup>__ _n_  _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::shit: (scudded, scudding)  
@@ -8517,6 +8533,7 @@ __shove off__ _v_
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
 __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
 __show of hands__  
+__show off__ _v_  
 __show runner__ :two::shit:  
 __show-off__ _n_ :two::shit: (or showoff?)  
 __showboat__ _v_  
@@ -8841,6 +8858,7 @@ __smack__ _v_ _He smacked his lips._
 __small potatoes__ _Informal_ Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small__ _I rubbed the small of her back._  
 __smallpox__  
+__smallpox__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ _Smart riding-clothes._  
 __smart__ _Smart tailored jackets._  
@@ -8880,6 +8898,7 @@ __smoothie__ (smothies) :two: A thick, smooth drink of fresh fruit pureed with m
 __smorgasbord__  
 __smothered__  
 __smothering__  
+__smouldering__  
 __smudge__  
 __smudges__  
 __smug__  
@@ -8982,6 +9001,7 @@ __soap opera__
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __soar__ _v_  
 __sobering__  
+__sobriquet__  
 __soccage__  
 __societal__  
 __sociopaths__  
@@ -9210,6 +9230,7 @@ __squat__ _adj_
 __squat__ _adj_ _A squat man._  
 __squatted__ _v_  
 __squawked__ _The walkie-talkie squawked._  
+__squawking__  
 __squawking__ _v_  
 __squeak__ _v_ :two::shit:  
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
@@ -9632,6 +9653,7 @@ __supremacist__ _A whote supremacist._
 __surcease__  
 __sure enough,__ _Sure enough, that's what happened._  
 __surefire__  
+__surety__  
 __surfeit__ _n_  
 __surge__ _n_  
 __surge__ _v_  
@@ -10233,6 +10255,7 @@ __troy ounce__ :two::shit:
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
+__truculent__  
 __trudge__ _v_ :five::shit:  
 __trudging__ _v_  
 __true to form__  
@@ -10745,6 +10768,7 @@ __well-nigh__ _adverb_ Almost. _A task that is well-nigh impossible._
 __well-rounded__  
 __wellhead__  
 __welling up__  
+__welling__ _Rob felt a welling of affection._  
 __welling__ _n_  
 __welling__ _v_ _His breath welling into my face._  
 __wellspring__  
