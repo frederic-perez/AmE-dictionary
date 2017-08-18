@@ -540,6 +540,7 @@ __angst__
 __angst__ :six: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::shit:  
 __anguish__ :two::shit:  
+__animosity__  
 __animosity__ _n_ :four:  __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
 __animus__ _The animus between the Yankees and Red Sox._  
 __animus__ _n_  
@@ -718,6 +719,7 @@ __awe__ _Rob regarded the complex systems with awe._
 __awestruct__  
 __awry__  
 __axle__ _n_  
+__azure__  
 __baboon__  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __baby bump__ _Dressing your baby bump._  
@@ -988,6 +990,7 @@ __belying__ _v_
 __bemoan__ _v_  
 __bemoan__ _v_ :seven::shit: (bemoaned, bemoaning)  
 __bemused__  
+__bemused__  
 __bench__ _Snow will dust the benches and valleys._  
 __benchmark__ :two::shit:  
 __benchmark__ _The price of benchmark West Texas Intermediate crude has dropped._  
@@ -1103,6 +1106,7 @@ __blackjack__ :two::shit:
 __blackout__ _Blackout dates._  
 __blah story__  
 __blanched__ _v_  
+__bland__  
 __bland__ _adj_ :five: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2__ __a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blanket__ :two::shit: _The security blanket._  
 __blanketed__ _v_  
@@ -1491,6 +1495,7 @@ __bum__ _A bum knee._
 __bum__ _v_  
 __bumblebees__  
 __bumbling__  
+__bumbling__  
 __bumbling__ _v_ :six::shit:  
 __bumper__  
 __bumping__ _Bumping and grinding._  
@@ -1848,6 +1853,7 @@ __charter<sup>1</sup>__ _n_ :two::shit:
 __charter<sup>2</sup>__ _v_  
 __charter__ _Charter schools._  
 __chartreuse__  
+__chased__ _v_ _A beautiful chased golden bowl._  
 __chasm__ _n_  
 __chasm__ _n_ :four: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
@@ -3111,6 +3117,7 @@ __dug__ _n_
 __dugout__  
 __dugout__  
 __dulcet icing__  
+__dulcimers__ _n_  
 __dullard__  
 __dully__  
 __duly__ :four::shit: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
@@ -3799,6 +3806,7 @@ __for starters,__
 __for the ages__ :three::shit: _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the sake of__  
 __for-profit__  
+__forage__ _n_  
 __forage__ _v_  
 __foraged__  
 __forager__  
@@ -5744,6 +5752,7 @@ __mahogany__
 __mahogany__ _He took a leather seat at a magohany bar._  
 __maiden__ _Maiden flight._  
 __mail__ _Elephants covered in mail._  
+__mail__ _Some elephants were laden with bundles of war mail._  
 __mail__ _n_ _When we go into battle, the elephant wears his own mail._  
 __mailed__ :open_mouth: _Two great, mailed figures circling each other in the desert._  
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
@@ -5797,6 +5806,7 @@ __mantle__ :three: An important role or responsibility that passes from one pers
 __mar__ _v_ :seven::open_mouth: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
 __marauder__  
+__marauding__  
 __marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
@@ -6353,6 +6363,7 @@ __oafish__
 __oafish__  
 __oars__ _n_  
 __oars__ _n_  
+__oases__ _n_  
 __oat__ _n_  
 __oatmeal__  
 __obit__ :two::shit:  
@@ -7081,6 +7092,7 @@ __politburo__
 __pollster__ _n_  
 __pols__ _n_  
 __polymath__  
+__pomegranates__ _n_  
 __pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
 __ponder__ _v_  
 __ponder__ _v_ _Sam pondered his yellow fingernails._  
@@ -10255,6 +10267,7 @@ __troy ounce__ :two::shit:
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
+__truculent__  
 __truculent__  
 __trudge__ _v_ :five::shit:  
 __trudging__ _v_  
