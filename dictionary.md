@@ -251,7 +251,7 @@ __Prohibitionists__
 __Purple Hearts__  
 __Q&A__ _The gathering will feature question-and-answer sessions._  
 __Q-tips__ _n_ :three::shit:  
-__Q__ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work._  
+__Q__ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __Quran__  
 __RGA__ _RGA chairman._  
 __RICO__ _He had been indicted on RICO charges._  
@@ -1555,7 +1555,7 @@ __bust__ :two::shit: _n_ _A dusty bust of Shakespeare._
 __bust__ _n_ _Painful housing busts._  
 __bustiers__ _n_  
 __busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
-__busting__ _v_ __Busting out ideas._  
+__busting__ _v_ _Busting out ideas._  
 __bustle__ _The bustle of daily life._  
 __bustling__ _adj_ :six::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
