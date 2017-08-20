@@ -1,3 +1,15 @@
+__shriving__ _n_  
+__wretch__ _The lowliest wretch among them._  
+__sort__ _n_ :dart: _Men of every sort._  
+__flagged__ _v_ _His appetite had flagged._  
+__tarried__ _v_  
+__fluttering__ _n_  
+__garner__ _v_  
+__smelting__ _A smelting furnace._  
+__bellows__ _n_  
+__ore__  
+__slag__  
+__crucible__ _n_  
 
 __jeered__ _v_  
 __prickled__ _v_ _Rob's skin prickled._  
