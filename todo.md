@@ -1,3 +1,27 @@
+__quenched__ _v_  
+__anvils__ _n_  
+__etched__  
+__supple__ _A supple weapon._  
+__canter up__ _v_  
+__dribbled__ _v_  
+__pounce__ _v_  
+__cuckold__  
+__crock__  
+__catarrh__ :open_mouth:  
+__steeped__ _v_  
+__bereft__  
+__kneaded__ _v_  
+__snuffling__ _v_  
+__fumitory__  
+__festooned__ _v_  
+__cramming__ _v_  
+__fleece__  
+__rapt__ _adj (?)_  
+__adroitly__  
+__miser__ _n_  
+__cowled__ _v_  
+__cooing__ _n_  
+
 __asses__ _n_ :two::shit:  
 __bawl__ _v_  
 __bearings__ _n_  
