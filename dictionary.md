@@ -1,3 +1,4 @@
+__(sic)__ _adverb_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __, so why [even] bother?__  
 __, to say the least.__  
 __-year-old__ _A 56-year-old retiree._  
@@ -11099,7 +11100,7 @@ __wrecking ball__
 __wrench__ _v_ _My mother reached up and wrenched my ear._  
 __wrenched__ _Kristof had a wrenched thumb from the fight._  
 __wrenching__ _A wrenching prospect._  
-__wretch__ _The lowliest wretch among them._  __(sic)__ _adverb_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
+__wretch__ _The lowliest wretch among them._  
 __wretched__  
 __wrethes__  
 __wriggle__  
