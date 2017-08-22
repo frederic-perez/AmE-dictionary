@@ -1406,6 +1406,7 @@ __bristle__ _v_
 __bristle__ _v_ :eight: (bristled) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristled__ _v_  
 __bristles__ _n_  
+__bristles__ _n_  
 __bristling__  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __brittle<sup>1</sup>__ _adj_ :seven: Something brittle is easily broken. Do you have brittle bones? Then no football or rugby for you.  
@@ -1556,6 +1557,7 @@ __burrhead__ _n_
 __burrow<sup>1</sup>__ _n_ :two::shit:  
 __burrow<sup>2</sup>__ _v_  
 __burrow__  
+__burrow__ _v_  
 __burrows__  
 __burrs__ _n_  
 __burst__ _v_  
@@ -1570,6 +1572,7 @@ __bustiers__ _n_
 __busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __busting__ _v_ _Busting out ideas._  
 __bustle__ _The bustle of daily life._  
+__bustling__  
 __bustling__ _adj_ :six::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
 __butcher paper__  
@@ -1861,6 +1864,7 @@ __chapter__ _To the east was the chapter house._
 __charade__  
 __chard__  
 __charging__ Accuse formally.  
+__charnel house__ _It served as the hospital's charnel house._  
 __charnel__  
 __charnel__ :two::shit: _The charnel wagon._  
 __charted__  
@@ -2761,6 +2765,7 @@ __derision__
 __derringer__  
 __dervish__ _n_  
 __desecrate__ _v_  
+__desecrate__ _v_  
 __desecrate__ _v_ _Desecrating the flag._  
 __desecration__ _n_ :two::shit:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
@@ -2905,6 +2910,7 @@ __dissipation__
 __dissolution__  
 __dissuaded__  
 __distemper__ _An outbreak of canine distemper has killed a 12-year-old tiger._  
+__distemper__ _n_  
 __distemper__ _n_  
 __distinct__  
 __distinctly__  
@@ -3389,6 +3395,7 @@ __evicted__ _v_
 __eviction__ :two::shit:  
 __evince__ _v_ :four::shit: _To evince an interest in politics._ _She didn't evince surprise._  
 __eviscerate__ _v_  
+__ewer__ _n_  
 __ewes__ _n_  
 __exacerbate__ _v_ (exacerbated, exacerbating) :four: Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_  
@@ -3610,6 +3617,7 @@ __filly__ A young female horse, especially one less than four years old. _The fi
 __finalize__ _v_  
 __fine print__  
 __fine-tune__ _v_  
+__finery__  
 __finesse__ _v_  
 __finest hour__ :open_mouth:  
 __finger prick__ :camera::two::shit: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
@@ -4000,6 +4008,7 @@ __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._
 __fuselage__  
 __fusillade__  
 __fusillade__ _n_  
+__fuss__ _v_  
 __fussed__ _v_  
 __fussing__ _v_  
 __futility__ :three::shit:  
@@ -4019,6 +4028,7 @@ __gaffes__ _n_
 __gag__ _The cases's gag order._  
 __gaggle__  
 __gaggle__ :three: _n informal_ A disorderly group of people.  _A gaggle of Phillies fans taunted him._ _The media gaggle._  
+__gaggle__ _A gaggle of students._  
 __gah!__  An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
 __gait__ _n_ :two::shit: _A pretty boy with a swing in his gait._  
 __gal__  
@@ -4385,6 +4395,7 @@ __growled__ _v_
 __growling__  
 __grub__ _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_  
+__grubbing__ _v_  
 __grudge__ _n_ :five::shit: _I don't hold any grudges._ _Holding a grudge._ :es: rencor   
 __grudges__ _n_  
 __grudging__ (grudgingly) :two::shit:  
@@ -4444,6 +4455,7 @@ __gunships__ _Helicopter gunships._
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwhale__ :two::shit:  
 __guppy__ _n_ :four:  Small freshwater fish of South America and the West Indies; often kept in aquariums.  
+__gurgling__ _v_  
 __gurney__  
 __gurney__  
 __gurney__ _n_ :two::shit:  
@@ -4899,6 +4911,7 @@ __housing equity__
 __housing starts__  
 __housing unit__  
 __housing__  
+__hovels__ _n_  
 __hoverboard__ :two::shit:  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
 __hubby__  
@@ -4984,6 +4997,7 @@ __imbalance__ _n_
 __imbibe__ _v_  
 __imbibing__  
 __imbroglio__  
+__imbrued__ _Imbrued ground._  
 __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immigrated__  
 __immobile__  
@@ -5438,6 +5452,7 @@ __landslide victory__ :two::shit: _Kasich scored a landslide victory in a swing 
 __landslide__ _A landslide election victory._  
 __landslide__ _A landslide victory._  
 __landslide__ _n_ :five::shit: _I will win the game by a near landslide._  
+__lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::shit:  
 __lantanas__ _n_  
 __lap__ _The project's amenities include two lap pools._  
@@ -5960,6 +5975,7 @@ __memos__
 __menagerie__  
 __mendacity__  
 __mending__ _Mending flesh._  
+__menial__ _n_  
 __menology__  
 __mental memo__ _n_ :camera:  
 __mentees__  
@@ -6681,6 +6697,8 @@ __pallbearer__
 __pallet__  
 __pallet__  
 __pallet__  
+__pallet__  
+__pallet__  
 __pallet__ _n_ :four::shit:  
 __pallet__ _n_ :two::shit: _Rob rented a pallet._  
 __pallets__ _Sleeping pallets._  
@@ -6862,6 +6880,7 @@ __pens__ _n_ _Screened pens with rabbits._
 __pensionary__ :es: jubilado  
 __pensive__  
 __pensive__ _v_  
+__pensively__  
 __pent-up__  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __peoples__ (?)  
@@ -7026,6 +7045,7 @@ __pivot__ _n_
 __pivotal__ :two::shit:  
 __pixie__  
 __pizazz__ :two: An attractive combination of vitality and glamour. :es: dinamismo  
+__pizzle__ _n_ :two::shit: (penis?)  
 __pk__  
 __placard__ _n_  
 __placard__ _n_ :two::shit::camera:  
@@ -7120,6 +7140,7 @@ __plush__
 __plush__ _adj_ :three: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __ply__ _v_  
 __ply__ _v_  
+__ply__ _v_  
 __ply__ _v_ :three::shit: _It is the perfecting designed environment to ply his trade._  
 __po'-boy sandwiches__  
 __poach__ _v_  
@@ -7158,6 +7179,7 @@ __pomegranates__ _n_
 __pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
 __ponder__ _v_  
 __ponder__ _v_ _Sam pondered his yellow fingernails._  
+__ponderous__  
 __ponderous__  
 __ponderous__ _He shouldered his ponderous bundle._  
 __ponders__  
@@ -7582,6 +7604,7 @@ __rail__ _She is elegantly rail thin._
 __rail__ _v_ _He is railing against Medicaid._  
 __railed__ _v_  
 __raiment__  
+__raiment__ _n_  
 __rain slickers__ _n_  
 __rainbow pass__ _football_  
 __rainmaker__  
@@ -7726,6 +7749,7 @@ __recitalist__
 __reckon__ (reckons) :three::shit:  
 __reckoning__  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
+__reconvene__ _v_  
 __reconvene__ _v_ :four::shit: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
@@ -7752,6 +7776,7 @@ __redshirt__
 __redshirt__ _v_ :two::shit:  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::shit:  
+__reed__ _A reed basket._  
 __reeds__ :two::shit:  
 __reeds__ _n_  
 __reefer__ :two::shit: _He was hitting on a reefer._  
@@ -7877,6 +7902,7 @@ __restraint__ :two::shit: _n_
 __resumption__ _n_ :six::shit::open_mouth: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __retailer__ :two::shit: (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retched__ _v_  
 __retched__ _v_  
 __retched__ _v_  
 __retelling__  
@@ -8265,6 +8291,7 @@ __scapegoated__ _v_
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man's psyche for years._  
 __scarce__ :two::shit:  
+__scarcely__ :open_mouth: _The executioner seemed scarcely older than Rob._  
 __scarlet__  
 __scathing__  
 __scathing__ _adj_ :six: Bitterly severe. _His scathing indictment of Congress._  
@@ -8981,6 +9008,7 @@ __smooth operator__
 __smooth__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
 __smoothie__ (smothies) :two: A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__  
+__smote__ _v_  
 __smothered__  
 __smothering__  
 __smouldering__  
@@ -9297,6 +9325,7 @@ __sputtering__
 __sputtering__ _adj_  
 __sputters__  
 __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
+__squabbling__  
 __squabbling__ _v_  
 __squabbling__ _v_ :two::shit: _A squabbling family._  
 __squack__  
@@ -9703,6 +9732,7 @@ __such-and-such__
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
 __sucker__ _He is a sucker for anything cute._  
 __suckle__ _v_  
+__suckled__ _v_ :two::shit:  
 __sucklings__ _n_  
 __suds__  
 __sudsy__  
@@ -9726,6 +9756,7 @@ __summary__ :two::shit: _Summary deaths._ _Summary killings._
 __sump pump__  
 __sump__ _n_ :two::shit:  
 __sunder__ _v_ :two::shit:  
+__sundered__ _v_  
 __sundown, sunup__ :two: _He works sunup to sundown._  
 __sundry__  
 __suntan__ _n_  
@@ -10010,6 +10041,7 @@ __terse__
 __tester bed__ :two::shit:  
 __testy__  
 __texcetera__  
+__thane__ _v_  
 __thang__  
 __thankless__ Ungrateful  
 __thashing__  
@@ -10401,6 +10433,7 @@ __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ 
 __tumbling__  
 __tumbling__ _Tumbling gasoline prices._  
 __tunnel vision__  
+__tuppence__  
 __turgid__ :three::shit:  
 __turkey drumstick__  
 __turkey stock__ :camera:  
@@ -10910,6 +10943,7 @@ __wherewithal__ :four::shit:
 __whet__ _v_ __1__ To sharpen (a knife, for example); hone. __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._  
 __whetstone__  
 __whetted__ _v_  
+__whetted__ _v_ _The keenest whetted blades._  
 __whetting__ _Whetting the appetite for next year's Part 2._  
 __whetting__ _v_  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
