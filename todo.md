@@ -1,4 +1,11 @@
 
+__gurgling__ _v_  
+__sundered__ _v_  
+__menial__ _n_  
+__pallet__  
+__distemper__ _n_  
+__charnel house__ _It served as the hospital's charnel house._  
+
 __bristles__ _n_  
 __burrow__ _v_  
 __bustling__  
