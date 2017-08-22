@@ -1,3 +1,15 @@
+__reed__ _A reed basket._  
+__desecrate__ _v_  
+__squabbling__  
+__suckled__ _v_ :two::shit:  
+__hovels__ _n_  
+__tuppence__  
+__finery__  
+__ponderous__  
+__raiment__ _n_  
+__thane__ _v_  
+__ply__ _v_  
+__ewer__ _n_  
 
 __gurgling__ _v_  
 __sundered__ _v_  
