@@ -35,3 +35,29 @@ __warren__ _n_ _A warren of hares._
 __pang__ _n_  
 __surmised__ _v_ :two::shit:  
 __damnation__  
+__standard__ _n_ :camera: :es: estandarte (?)  
+__of late__  
+__pitted__ _v_  
+__clambered__ _v_ _He clambered to his feet._  
+__strung__ _v_  
+__eerie___n_  
+__stirrups__ _n_  
+__impedimenta__ _n_  
+__ashen__ :open_mouth:  
+__yipping__ _v_  
+__vermin__ _n_  
+__anvils__ _n_  
+__squalor__  
+__wharves__ _n_  
+__seamstress__ _n_  
+__kirtle__ _n_  
+__haggling__ _n_  
+__jakes__ _n_ _The flattery was seldom more than sheep jakes._  
+__tarts__ _n_ (whore)  
+__palled__ _v_  
+__steeples__ _n_  
+__knell__ _n_  
+__stooped__ _He was a stooped man._  
+__sniffed__ _v_  
+__rabble__ _n_  
+
