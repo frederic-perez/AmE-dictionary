@@ -1,4 +1,32 @@
 
+__metheglin__  
+__festering__ _n_  
+__fenny__ _A fenny marsh._  
+__whetted__  
+__sot__ :two::shit: _A surly sot._  
+__wharf__ _n_  
+__drays__  
+__pallor__ _n_  
+__girded__ _v_  
+__hawser__ _n_  
+__housecarls__  
+__henchmen__  
+__mead__ _n_  
+__purslane__ _n_  
+__slushy__  
+__heed__  
+__joshed__ _v_  
+__hooted__ _v_  
+__steeped__ _v_  
+__gargle__ _n_  
+__wharf__  
+__kirtle__ _n_  
+__sniffed__ _v_  
+__despondent__ _n_  
+__tonsure__  
+__oblate__ _n_  
+__burrow__ _v_  
+
 __beseechingly__  
 __inured__ _v_  
 __kindle__ _v_ _To kindle a fire._  
