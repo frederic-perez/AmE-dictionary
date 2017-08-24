@@ -68,7 +68,7 @@ __of late__
 __pitted__ _v_  
 __clambered__ _v_ _He clambered to his feet._  
 __strung__ _v_  
-__eerie___n_  
+__eerie__ _n_  
 __stirrups__ _n_  
 __impedimenta__ _n_  
 __ashen__ :open_mouth:  
