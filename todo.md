@@ -89,3 +89,36 @@ __stooped__ _He was a stooped man._
 __sniffed__ _v_  
 __rabble__ _n_  
 
+__compurgator__ _n_  
+__bleakness__  
+__muck__  
+__husbanded__ _v_ _Rob husbanded his money._  
+__squat__ _adj_  
+__flounder__ _v_  
+__faze__ _v_  
+__queasy__  
+__croft__ _n_ :two::shit::open_mouth:  
+__cur__ _n_  
+__appraise__ _v_  
+__craftman__  
+__clough__ _n_ :three::shit:  
+__pelts__ _n_ :two::shit:  
+__whet__ _v_  
+__gonads__ _n_  
+__catarrh__  
+__chilblains__  
+__quinsy__  
+__venison__  
+__catamounts__  
+__whittling__ _v_  
+__steeping__ _v_  
+__wagered__ _v_ :open_mouth: _I'd have wagered so._  
+__shanked__ _v_  
+__floundering__ _v_ _Floundering in and out of deep pools._  
+__shank__ _n_ _He grasped the shank of he lure._  
+__roeskin__ _A roeskin belt._  
+__taproots__ _n_  
+__flinty__ _Flinty soil._  
+__shear__ _v_  
+__pallor__ _n_  
+__hewing__ _v_ _Hewing firewood._  
