@@ -1,3 +1,17 @@
+__gripe__ _n_ :open_mouth:  
+__pothole__ _n_  
+__darnedest__  
+__frothy__  
+__forgo__ _v_  
+__dotting__  
+__trudge__ _v_  
+__outlays__ _n_  
+__shell out__ _v_  
+__calves__  
+__garter__  
+__upscale__  
+__step up__ _v_  
+
 __bevy__  
 __antics__  
 __runs me off__  
