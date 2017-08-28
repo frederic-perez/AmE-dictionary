@@ -1,3 +1,9 @@
+__smoldering__  
+__simmering__  
+__storks__  
+__squalor__  
+__sanitation__ _Sanitation systems._  
+
 __gripe__ _n_ :open_mouth:  
 __pothole__ _n_  
 __darnedest__  
