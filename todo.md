@@ -1,3 +1,9 @@
+
+__drumbeat__ _Their drumbeat of criticism._  
+__monies__ _n_ :open_mouth: _Taxpayer monies._  
+__foot__ _v_  
+__nos__ _They got nos._  
+
 __smoldering__  
 __simmering__  
 __storks__  
