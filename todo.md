@@ -59,3 +59,7 @@ __trudge__ _v_
 __tying__ _v_ :open_mouth:  
 __unflappable__  
 __upscale__  
+__hailing__ _v_ _She was hailing a ride home._  
+__step up__ _v_  
+__deterrent__  
+__silo__ _n_ _A silo-launched missile._  
