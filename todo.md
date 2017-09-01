@@ -11,6 +11,7 @@ __chumps__ _n_
 __crumble__ _v_  
 __dallied__ _v_  
 __darnedest__  
+__deterrent__  
 __dotting__  
 __drumbeat__ _Their drumbeat of criticism._  
 __flip [me] the bird__  
@@ -21,6 +22,7 @@ __forgo__ _v_
 __frothy__  
 __garter__  
 __gripe__ _n_ :open_mouth:  
+__hailing__ _v_ _She was hailing a ride home._  
 __hampered__ _v_ :open_mouth:  
 __honcho__  
 __juggernaut__ _Jinx-killing juggernaut._  
@@ -47,10 +49,12 @@ __sashayed__ _v_
 __scuffle__ _n_  
 __shell out__ _v_  
 __shimmy__ _v_  
+__silo__ _n_ _A silo-launched missile._  
 __simmering__  
 __smoldering__  
 __squalor__  
 __squiffy__  
+__step up__ _v_  
 __step up__ _v_  
 __stiffled__ _v_  
 __storks__  
@@ -59,7 +63,14 @@ __trudge__ _v_
 __tying__ _v_ :open_mouth:  
 __unflappable__  
 __upscale__  
-__hailing__ _v_ _She was hailing a ride home._  
-__step up__ _v_  
-__deterrent__  
-__silo__ _n_ _A silo-launched missile._  
+__biz__ _n_  
+__collusion__ :two::shit:  
+__make-or-break__  
+__preventable__  
+__shoulder__ _v_  
+__stand to reason__ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
+__subsumed__ _v_  
+__swimming hole__ :two::shit:  
+__the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
+__thorough__ :open_mouth: _It's a very serious matter that needs thorough investigation._  
+__underwrite__ _v_  
