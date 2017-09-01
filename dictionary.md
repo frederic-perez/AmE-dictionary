@@ -71,6 +71,7 @@ __Concacaf__
 __Confederate flag__  
 __Coptic__  
 __Crescent City__  
+__Croat__  
 __D-ring inset__  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __DEA__  
@@ -478,7 +479,7 @@ __alienate__ _v_ :five::shit: (alienated, alienating) _Alcoholism and violence a
 __alighted__ _v_  
 __all in all,__ :three::shit:  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
-__all over the place<sup>2</sup>__ _adverb_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _ poured a big glass of milk but then it spilled all over the place._  
+__all over the place<sup>2</sup>__ _adverb_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all that jazz__  
 __all-out__ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
@@ -554,6 +555,7 @@ __antebellum__
 __anthology__  
 __anti-Semitism__  
 __antic__ _Antiques dealer._  
+__antics__  
 __antics__ :three: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__  
 __antiquated__ :two::shit:  
@@ -592,6 +594,7 @@ __appellate__
 __appellate__  
 __appetizer__ :open_mouth: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
+__apportion__ _v_  
 __apportioned__ _v_  
 __appraisal__ _n_ :five::shit: _An insurance appraisal._  
 __appraisals__ _n_ _Free appraisals._  
@@ -928,6 +931,7 @@ __beers on tap__ :camera:
 __beet__  
 __beeves__ _n_  
 __befall__  
+__befalls__ _v_  
 __befit__ (befits, befitting) :two::shit: _v_  
 __befitting__  
 __before you know it__  
@@ -1055,6 +1059,7 @@ __betrothed__ _v_
 __better known as__ _Miyazaki, better known as Aska._  
 __bettors__  
 __bevel__  
+__bevy__  
 __bevy__ :seven: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
@@ -1105,6 +1110,7 @@ __bitch__ _n_ :es: perra
 __bitingly__  
 __bivouac__ :open_mouth:  
 __biz__ _Hot biz model._  
+__biz__ _n_  
 __bizarre__  
 __bizarre__ _adj_ _The bizarre markings on the wagon._  
 __black gold__  
@@ -1264,6 +1270,7 @@ __bolt__ _v_ _The windows were closed and bolted._
 __bombast__ _n_ :four: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombing__ _v_  
+__bombshell__ _n_  
 __bombsights__  
 __bon ton__  
 __bona fide__ _adj_ :four: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
@@ -1482,6 +1489,7 @@ __buff<sup>2</sup>__ _adj_ :three: _informal_ (of a person or their body) in goo
 __buff<sup>3</sup>__ _v_ :three::shit: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffet__ _v_ :three::shit: (buffeted)  
 __buffeted__ _The country has been buffeted by civil unrest._  
+__buffeted__ _v_  
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
@@ -1686,6 +1694,7 @@ __callous__
 __callous__  
 __callous__ _adj_ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ :three::dart: Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __callousness__  
+__calves__  
 __cameleer__  
 __camellia__  
 __camo__  
@@ -1941,6 +1950,7 @@ __chip__ _v_
 __chipped__ _v_  
 __chipper__  
 __chippies__ :two::shit:  
+__chipping__ _v_  
 __chippy__  
 __chiropractor__ _n_  
 __chirp away__ _v_  
@@ -1969,6 +1979,7 @@ __chucklers__
 __chug__ _v_ :three::shit: _A cocktail to chug._ _We're chugging along._  
 __chum__ :two::shit: _Fish chum._  
 __chum__ _Two college chums._  
+__chumps__ _n_  
 __chums__ _We're old school chums._  
 __churn out__ _v_  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
@@ -2144,6 +2155,7 @@ __colic__ _n_
 __collapsible__ _Collapsible shutters._  
 __collarbone__ :three::shit:  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
+__collusion__ :two::shit:  
 __collusion__ :two::shit:  
 __colossal__  
 __coma__ :two::shit: _Medically induced coma._ _Schumacher out of coma._  
@@ -2512,6 +2524,7 @@ __crude__ _Crude humor._
 __crude__ _adj_  
 __cruel__ _His body looked cruel._  
 __crumb__ _Potato chip crumb._  
+__crumble__ _v_  
 __crumbled__  
 __crumbling__ _Crumbling sidewalk._  
 __crumbs__  
@@ -2609,6 +2622,7 @@ __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Itali
 __daguerreotypes__  
 __dais__ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
+__dallied__ _v_  
 __dallying__  
 __damnation__  
 __damp__ _adj_ _Damp, dirty labor._  
@@ -2638,6 +2652,7 @@ __dark horse__
 __darn__  
 __darn__ _That's pretty darn good._  
 __darned__  
+__darnedest__  
 __darning__  
 __dart__ (darting) :two::shit: _v_  
 __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
@@ -2798,6 +2813,7 @@ __despondent__
 __despondent__  
 __despondent__ _n_  
 __deterrence__ :two::shit:  
+__deterrent__  
 __deterrent__ _n_ :three: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detractor__  
 __devil-may-care style__  
@@ -3011,6 +3027,7 @@ __dork__ __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of
 __dormer__ _n_ :camera:  
 __dot__ _v_ (dotted) Mark with a dot.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
+__dotting__  
 __double bill__  
 __double dip__  
 __double down__ _v_  
@@ -3142,6 +3159,7 @@ __drugstore__
 __drugwise__  
 __drum up__  
 __drum__ _v_  
+__drumbeat__ _Their drumbeat of criticism._  
 __druthers__  
 __dry goods__ _Dry goods store._  
 __dry spel__  
@@ -3758,6 +3776,7 @@ __flintily__
 __flintlock__  
 __flintlocks__ _n_  
 __flinty__ _Flinty soil._  
+__flip [me] the bird__  
 __flip the bird__  
 __flip-flops__  
 __flipper__  
@@ -3797,6 +3816,7 @@ __flourish__
 __flourish__ _A flourish of drums and cymbals._  
 __flourish__ _n_ :open_mouth::camera:  
 __flout__  
+__flout__ _v_  
 __flout__ _v_ :eight: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
 __flow__ _Three people in flowing black robes._  
 __flown__ _v_  _The flag was flown at half mast._  
@@ -3861,6 +3881,7 @@ __foosball table__
 __foosball__ _Foosball table._  
 __foot-stomping__  
 __foot__ _v_  
+__foot__ _v_  
 __foothill__  
 __foothold__ _A foothold._  
 __footloose__ :open_mouth:  
@@ -3896,6 +3917,7 @@ __forefinger__
 __forefront__  
 __forego__  
 __foregone__  
+__foregone__  
 __foreman__  
 __foreman__  
 __forensice__  
@@ -3914,6 +3936,7 @@ __forfeited__
 __forfeited__ _v_  
 __forfeiture__ _n_ :two: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
+__forgo__ _v_  
 __forgo__ _v_ :seven: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgoes__ _v_  
 __forgone__  
@@ -4006,6 +4029,7 @@ __frontrunner__
 __frosh__  
 __frostbite__ :two::shit:  
 __frosted silver__  
+__frothy__  
 __frugal__ _adj_  __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __fruit basket__ _California's Central Valley, fruit basket to the nation._  
 __fruition__ The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
@@ -4109,6 +4133,7 @@ __garnish__ _v_
 __garrison__ _n_  
 __garroted__ _v_  
 __gars__ _n_ :three::shit: _Alligator gars._  
+__garter__  
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gash<sup>1</sup>__ _n_ :two::shit:  
@@ -4374,6 +4399,7 @@ __gring__ _The grind of life on the road._
 __grip-and-grin__ _Grip-and-grin shots._  
 __grip__ _v_  
 __gripe__ _n_  
+__gripe__ _n_ :open_mouth:  
 __gripe__ _n_ :two::shit: _Not a single gripe._  
 __gripe__ _v_  
 __griping__ _v_  
@@ -4533,6 +4559,7 @@ __hail<sup>1</sup>__ _v_ :four::shit: (hailed, hailing)
 __hail<sup>2</sup>__ _n_ :three::shit: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._  
 __hailed__ _v_  
 __hailed__ _v_  
+__hailing__ _v_ _She was hailing a ride home._  
 __hails__ _Mr. Tucker hails from St. Louis._  
 __hailstones__  
 __hair clippers__ _n_ :camera:  
@@ -4556,6 +4583,7 @@ __hammam__ _n_
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ (hampered) :two::shit: _v_  
 __hamper__ _v_  
+__hampered__ _v_ :open_mouth:  
 __hamstring__ _n_ :two::shit:  
 __handiwork__  
 __handiwork__  
@@ -4897,6 +4925,7 @@ __homestead__ :two::shit:
 __homestretch__ _n_  
 __homestretch__ _n_  
 __homie__ _Homies for life._  
+__honcho__  
 __honcho__  
 __honchos__  
 __honeysuckle__  
@@ -5321,6 +5350,7 @@ __jowly__
 __judgmental__ :open_mouth:  
 __judgments__ _Legal judgments._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
+__juggernaut__ _Jinx-killing juggernaut._  
 __juggernaut__ _n_ :seven::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one.  
 __juice boxes__ :camera:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
@@ -5335,6 +5365,7 @@ __jumpers__
 __jumping jacks__  
 __jumpstart__ _v_  
 __jumpsuit__ _n_  
+__juncture__  
 __juncture__ _n_ :four: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __juniper berries__  
@@ -5461,6 +5492,7 @@ __labrotories__ ?
 __labrum__  
 __lace up__ _v_ _Adam laced up his Nikes._  
 __lace__ _n_  
+__lackadaisical__  
 __lackey__ _n_ :two::shit: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __lacquered__ _v_  
@@ -5886,6 +5918,7 @@ __make strides__
 __make strides__ _The GOP nominee will need to make huge strides with Latino voters._  
 __make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__  
+__make-or-break__  
 __makeshift__  
 __makeshift__ _adj_ :six::shit:  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
@@ -5903,6 +5936,7 @@ __malnourished__
 __mamasan__  
 __manacle__ _n_  
 __mandalas__ _n_  
+__mane__ :two::shit:  
 __mane__ _n_  
 __maneuver__  
 __maneuver__  
@@ -6178,6 +6212,7 @@ __moneyed__
 __monger__ _v_ (mongering) :four::shit:  
 __mongering__  
 __mongering__  
+__monies__ _n_ :open_mouth: _Taxpayer monies._  
 __monkey business__  
 __monkey suit__  
 __monkey wrench__  
@@ -6276,6 +6311,7 @@ __mulching__ _v_
 __mull__ _v_ (mulled, mulling) :four::shit: _Cheney was mulling a Senate bid._  
 __mullah__ _n_  
 __mulled__ _v_ _His mug of mulled cider._  
+__mullet__ :two::shit:  
 __mulligan__ _n_  
 __mulling__ _v_  
 __mulling__ _v_  
@@ -6364,6 +6400,7 @@ __nematodes__
 __neorealist__  
 __neoteric__  
 __nepotism__ :three::shit:  
+__nepotism__ The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
 __nerve-racking__  
 __nervy__ :open_mouth::two::shit:  
 __nest egg__ :three::shit:  
@@ -6445,6 +6482,7 @@ __noose__ _n_ :three::shit: (noses)
 __noose__ _v_  
 __normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy," about getting back to normal life after the war. Since then, the word has been used often instead of "normality." _It took me months to get back to normalcy._  
 __north__ _The owners are seeking north of $20 billion for the company._  
+__nos__ _They got nos._  
 __nose > running noses__  
 __nose-thumbing__ :camera:  
 __nosebleeds__  
@@ -6657,9 +6695,11 @@ __outing__
 __outing__ (outings) :three::shit:  
 __outlandish__  
 __outlandish__  
+__outlandish__  
 __outlandish__ _adj_ :six: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlay__ _Budget outlays._  
+__outlays__ _n_  
 __outlook__  
 __outmanned__ _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
@@ -6911,6 +6951,7 @@ __peck away__ _v_
 __peck__ _v_ _Pecking away at the piano keys._  
 __peckerwood__  
 __pecking order__  
+__peddle__ _v_  
 __peddling__  
 __pedestrian__  
 __pediatrician__  
@@ -7299,6 +7340,7 @@ __pot bunkers__
 __pot__ _A pot of assets._  
 __potatoes__  
 __pothole__  
+__pothole__ _n_  
 __potholed__ _The island's potholed highways._  
 __potholes__ _n_  
 __potluck__  :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
@@ -7382,6 +7424,7 @@ __press on__
 __press the pocket__  
 __pretense__  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
+__preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
 __preyed__ _v_   
@@ -7526,6 +7569,7 @@ __pun__ :es: juego de palabras
 __punch__ _v_ :three::shit: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
 __punctuate__  
+__puncture__ _n_  
 __punctured__ _v_ _Punctured his tire._  
 __pundit__ :two::shit:  
 __pungi__  
@@ -7588,6 +7632,7 @@ __quail__ _v_
 __quailed__ _v_  
 __quaint__  
 __quaint__ _Quaint streets._  
+__quaint__ _adj_  
 __quaint__ _adj_ :five::shit: _Quaint town._  
 __quaintly__ :two::shit:  
 __quakes__ _v_  
@@ -7769,6 +7814,7 @@ __ravages__ :two::shit: _The potential ravages of a man-manipulated virus at a r
 __rave<sup>1</sup>__ _n_ :three: __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_ :three: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
 __rave__ _adj_  
+__rave__ _v_  
 __raven-haired__  
 __ravenous__  
 __ravenous__  
@@ -7797,7 +7843,7 @@ __reams__ :open_mouth:
 __reams__ _He watched reams on tape._  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
-__rebate__ :five: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ 	refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._  
+__rebate__ :five: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._  
 __rebate__ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :open_mouth:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
@@ -8249,6 +8295,7 @@ __runoff__
 __runoff__ _The runoff waters of spring._  
 __runoff__ _n_ :five::shit: _Enough votes to force a runoff._ _A runoff vote._ _Sediment runoff._  
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
+__runs me off__  
 __runt__  
 __ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :two::shit:  
@@ -8292,11 +8339,13 @@ __salutary__
 __salute__ _n_  
 __salvage__ _adj_  
 __salve__  
+__salve__ _n_  
 __salve__ _n_ _Karim's skin needed the yellow salve._  
 __salves__ _n_ _Salves, poultices, and plasters._  
 __salvo__  
 __salvo__ :two::shit:  
 __salvo__ _n_  
+__salvos__ _n_  
 __samosas__  
 __sanctuary city__ :two::shit: _Mayor Rahm Emanuel of Chicago has declared that it "will always be a sanctuary city."_  
 __sand spits__  
@@ -8308,6 +8357,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandy-haired__  
 __sanguine__  
+__sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sap<sup>1</sup>__ _v_ :five: (sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power).  
 __sap<sup>2</sup>__ _n_ :two::shit: _A flat-sided sap stuck out of his back pocket._  
@@ -8319,12 +8369,14 @@ __sapped__ _v_
 __sapping__  
 __sapping__ _v_  
 __sapping__ _v_  
+__sapping__ _v_  
 __sappy__ _Sappy smile._  
 __saps__ _v_  
 __sarcophagus__  
 __sartorial__  
 __sash__  
 __sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
+__sashayed__ _v_  
 __sashayed__ _v_  
 __sass__ _v_ (sassed)  
 __sassy__  
@@ -8475,6 +8527,7 @@ __scuffed boots__
 __scuffed__  
 __scuffle<sup>1</sup>__ _v_ :five: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle<sup>2</sup>__ _n_ _The scuffle and scrape of rubber soles._  
+__scuffle__ _n_  
 __scuffle__ _n_  
 __scuffle__ _n_  
 __scuffled__ _v_  
@@ -8638,6 +8691,7 @@ __sheik__ :two: :open_mouth: __1__ An Arab leader, in particular the chief or he
 __sheikhs__  
 __shell company__  
 __shell out__ _v_  
+__shell out__ _v_  
 __shell road__  
 __shell-shocked__ :two::shit:  
 __shell__ _A shell corporation._ _Shell companies are easy to establish in Delaware._  
@@ -8658,6 +8712,7 @@ __shill<sup>1</sup>__ _n_
 __shill<sup>2</sup>__ _v_ :two::shit:  
 __shills__ _Government shills._  
 __shimmer__ _v_ :four::shit: (shimmering) _Shimmering eyes._  
+__shimmy__ _v_  
 __shimmying__ :two::shit:  
 __shinbones__  
 __shindig__  
@@ -8718,6 +8773,7 @@ __shotgun house__
 __shotput__ _n_  
 __shoulder<sup>1</sup>__ _n_ _Even pulling onto shoulder causes huge jams._  
 __shoulder<sup>2</sup>__ _v_  
+__shoulder__ _v_  
 __shoulders__ :camera: _The shoulders of the freeway will be wider._  
 __shout-out > give a shout-out__  
 __shove off__ _v_  
@@ -8811,6 +8867,7 @@ __signet ring__
 __siitting duck__  
 __sill__ :two::shit:  
 __silo__  
+__silo__ _n_ _A silo-launched missile._  
 __silt__ _n_ :three::shit:  
 __silver lining__  
 __silverplate__ _v_  
@@ -8819,6 +8876,7 @@ __simmer__ _v_
 __simmer__ _v_  
 __simmer__ _v_  
 __simmer__ _v_ :five: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
+__simmering__  
 __simper<sup>n</sup>__ A simpering smile; smirk.  
 __simper<sup>v</sup>__ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
@@ -9086,6 +9144,7 @@ __smog__
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_  
 __smolder__ (smolders, smoldered, smoldering) :five: _v_ Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
+__smoldering__  
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
@@ -9422,6 +9481,7 @@ __squalid__:open_mouth: _Squalid home._
 __squall__ :two::shit:  
 __squalor__  
 __squalor__  
+__squalor__  
 __squalor__ _n_ :two: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander__  
 __square deal__  
@@ -9429,7 +9489,7 @@ __square dsncing__
 __squarely__  
 __squat down__ _v_  
 __squat<sup>1</sup>__ _v_ :four: (squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
-__squat<sup>2</sup>__ _adj_ :two: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ 	stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
+__squat<sup>2</sup>__ _adj_ :two: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squat__ _adj_  
 __squat__ _adj_  
@@ -9449,6 +9509,7 @@ __squeamishness__
 __squelch__  
 __squelch__ _v_  
 __squelched__ _v_  
+__squiffy__  
 __squire__ :two::shit: _Is he her consort or her squire?_  
 __squire__ _n_  
 __squire__ _v_ :open_mouth:  
@@ -9496,6 +9557,7 @@ __stand out__ _The dragons are notoriously varied in phisique--they'd stand out 
 __stand strong__  
 __stand tall__  
 __stand to reason__  
+__stand to reason__ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __standard__ _n_ :camera: :es: estandarte (?)  
 __standby__ _The old standby._  
 __standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
@@ -9576,6 +9638,8 @@ __stemming__ _v_
 __stenographer__  
 __stenographer__  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
+__step up__ _v_  
+__step up__ _v_  
 __stepfather__ _(vs godfather)_  
 __steppes__ _n_  
 __stepping stone__  
@@ -9605,6 +9669,7 @@ __stiff__ _Amazon faces stiff competition from Spotify._
 __stiff__ _Stiff criticism._  
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
 __stiffer__ _Unleasing stiffer penalties._  
+__stiffled__ _v_  
 __stiffly__  
 __stifle__ _v_  
 __stifle__ _v_ :eight::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
@@ -9676,6 +9741,7 @@ __stops__ _n_ :three::shit: _The last five-six minutes of the first half, we mad
 __storefront__  
 __storeful__  
 __storied__ _Storied market._  
+__storks__  
 __storm surge__ :two::shit:  
 __storm__ _v_  
 __stoup__  
@@ -9817,6 +9883,7 @@ __subsided__ _v_ _My headache has subsided._
 __subsidy__  
 __substation__  
 __subsumed__ _v_  
+__subsumed__ _v_  
 __subterfuge__  
 __subtle__ :es: sutil  
 __suburbanites__ _n_  
@@ -9947,6 +10014,7 @@ __swilled__ (swilling) :three::shit: _Swilling wine._
 __swilling__ _Beefy men swilling champagne from magnums._  
 __swim tube__  
 __swimabout__  
+__swimming hole__ :two::shit:  
 __swindle__  
 __swindle__ _v_  
 __swindler__ _n_ :three::shit: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
@@ -10043,6 +10111,7 @@ __tap__ _A good way to tap into their wallets._
 __tap__ _To tap into the millions of dollars to be made from apps._  
 __tap__ _v_ :four::shit:  
 __tap__ _v_ _Entrepreneurs tap neighbors for funding._  
+__taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone).  
 __taper<sup>2</sup>__ _v_ :nine: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity.  
 __taper__ :es: cirio  
@@ -10158,6 +10227,7 @@ __the 105's__
 __the 11th hour__  
 __the Chinese__ _This article was translated from the Chinese._  
 __the day's full of spiders__  
+__the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
 __the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
 __the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__  
@@ -10185,6 +10255,7 @@ __thobbing__
 __thong__  
 __thong__ _n_  
 __thorny__ _adj_  
+__thorough__ :open_mouth: _It's a very serious matter that needs thorough investigation._  
 __thoroughfare__  
 __thoroughly__  
 __thrall__ :four::shit:  
@@ -10491,6 +10562,7 @@ __truant__
 __truck__ _v_ _They will not truck with terrorists._  
 __truculent__  
 __truculent__  
+__trudge__ _v_  
 __trudge__ _v_ :five::shit:  
 __trudging__ _v_  
 __true to form__  
@@ -10595,6 +10667,7 @@ __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy w
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
 __tycoon__ :three::shit:  
+__tying__ _v_ :open_mouth:  
 __type-A personalities__  
 __typecast__ :open_mouth: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyranny__  
@@ -10651,6 +10724,7 @@ __undertow__
 __underwhelm__ _v_ To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::two::shit: Failing to make a positive impact or impression; disappointing.  
 __underwrite__ (underwriting) :two::shit:  
+__underwrite__ _v_  
 __underwriter__  
 __underwriting__  
 __underwriting__  
@@ -10670,6 +10744,7 @@ __unfettered__ _v_
 __unfettered__ _v_ :nine::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__  
 __unflagging__  
+__unflappable__  
 __unflappable__  
 __unflappable__ :four::shit: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
@@ -10740,6 +10815,7 @@ __uppers__
 __upping__ _v_ :two::shit:  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproot__ _v_  
+__upscale__  
 __upscale__ :four: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upset__ _n_ :two::shit: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
