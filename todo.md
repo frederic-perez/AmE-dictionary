@@ -30,3 +30,8 @@ __genteel__
 __moody__  
 __squire__  
 __snuffed out__ _v_ _Her life snuffed out at 41._  
+
+__beckons__ _v_  
+__firsthand__  
+__groundskeeper__  
+
