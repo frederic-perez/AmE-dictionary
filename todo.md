@@ -1,3 +1,14 @@
+
+__old saying__  
+__shell out__ _v_  
+__pry__ _v_  
+__snark__  
+__wringing__  
+__adage__  
+__breakneck__ _They are on a breakneck pace._  
+__hurler__  
+__stranglehold__  
+
 __voguish__  
 __foibles__  
 __sly__  
