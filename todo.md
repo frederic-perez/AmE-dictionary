@@ -1,4 +1,16 @@
 
+__relieve__ _v_ _Dave had been relieved of his duties._  
+__cap__ _v_  
+__dearth__  
+__figments__  
+__impasse__  
+__wrought__ _v_  
+__nitpick__ _n_  
+__shifty__  
+__unrelenting__  
+__paddock__ _n_  
+__grandstands__ _n_  
+
 __old saying__  
 __shell out__ _v_  
 __pry__ _v_  
