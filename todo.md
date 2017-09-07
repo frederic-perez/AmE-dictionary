@@ -1,4 +1,14 @@
 
+__lavish__  
+__abundant__  
+__mope__ _v_  
+__monkey off one's back__ _The win did remove the major monkey off his back._  
+__fairly__  
+__swale__  
+__pot__ _Where are the pot bunkers?_  
+__upheaval__  
+__retooled__ _v_  
+
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __cap__ _v_  
 __dearth__  
