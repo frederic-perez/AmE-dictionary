@@ -1,4 +1,13 @@
 
+__head butt__ _n_ _His rival was trying to touch gloves to apologize for a head butt._  
+__head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
+__infamous__  
+__camp__ _The Pacquiao camp did not object._  
+__clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
+__imprisoned__ _v_ _Simpson has been imprisoned for almost nine years._  
+__write-up__ _n_ :two::shit:  
+__write up__ _v_ :two::shit:  
+
 __lavish__  
 __abundant__  
 __mope__ _v_  
