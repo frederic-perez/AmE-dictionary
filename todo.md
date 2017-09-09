@@ -1,3 +1,9 @@
+__markup__ _n_  
+__e-commerce__  
+__cratering__ _Cratering car sales._  
+__tailspin__ _n_  
+__souped-up__ _v_  
+
 
 __head butt__ _n_ _His rival was trying to touch gloves to apologize for a head butt._  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
