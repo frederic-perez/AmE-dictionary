@@ -1,3 +1,24 @@
+__pore__ _v_  
+__kaflooey__ _On a few occasions the screen went a bit kaflooney._  
+__relent__ _v_  
+__dissuade__ _v_ :open_mouth:  
+__bevy__  
+__shortchange__ _v_  
+__systemic__  
+__ransomware__  
+__unimpeded__ _v_  
+__depressed__ _Depressed wages._  
+__conducive__  
+__liftgate__  
+__make perfect sense__ _It makes perfect sense._  
+__berated__ _v_  
+__flying colors__ _In these respects, Delta Air Lines passed with flying colors._  
+__"duh" department__ :open_mouth: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
+__stem__ _v_  
+__AAA__ _(cars)_  
+__insure__ _v_  
+__haggling__ _n_  
+
 __markup__ _n_  
 __e-commerce__  
 __cratering__ _Cratering car sales._  
