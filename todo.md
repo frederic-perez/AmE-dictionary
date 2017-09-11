@@ -19,6 +19,33 @@ __AAA__ _(cars)_
 __insure__ _v_  
 __haggling__ _n_  
 
+__fool's gold__  
+__miscarry__ _v_  
+__derelict__ _adj_  
+__rowhouse__ _n_  
+__weed__ _v_ _It's like weeding a garden._  
+__abatement__  
+__beset__ _v_  
+__on__ _The shooting happened late on a Saturday night._  
+__hit on all eight__ _So far it's not hitting on all eight._  
+__gushing__ _v_  
+__confidante__  
+__shoot-from-the-hip__  
+__Manhattanite__  
+__maiden__  
+__creep__ _n_ _The upward creep._  
+__far cry__  
+__shucking__ _v_ _I know when you're shuckin' and jivin' me._  
+__jiving__ _v_ _I know when you're shuckin' and jivin' me._  
+__teeming__  
+__shunned__ _v_  
+__quell__ _v_  
+__marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
+__bulwark__  
+__spin__ _n_ _But don't believe the spin._  
+__quaint__  
+__obtuseness__  
+
 __markup__ _n_  
 __e-commerce__  
 __cratering__ _Cratering car sales._  
