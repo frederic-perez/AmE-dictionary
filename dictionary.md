@@ -1059,9 +1059,7 @@ __bespoke__ :six::shit: _Bespoke clothing._
 __bespoke__ _v_  
 __best__ _v_  
 __bested__ _v_  
-__bestow__ _v_  
-__bestow__ _v_ :nine: /bɪˈstəʊ/ Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
-__bestowed__  
+__bestow__ _v_ :nine: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bethren__ _n_  
 __betray__ _v_  
 __betray__ _v_  
@@ -4639,8 +4637,7 @@ __handouts__ _n_
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _The hands-off approach._  
-__handyman__  
-__handyman__ :two::shit:  
+__handyman__ :three::shit:  
 __hangnail__ :two::shit:  
 __hangout__ :two::shit:  
 __hangout__ _This was a hangout._  
@@ -5064,9 +5061,7 @@ __hunky-dory__
 __hurdy-gurdy__  
 __hurl__ _v_  
 __hurl__ _v_ :six: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
-__hurler__  
-__hurler__ (baseball)  
-__hurlers__  
+__hurler__ :three::shit: _(baseball)_  
 __hurtling__ _v_  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__  
@@ -7605,8 +7600,7 @@ __pry__ _v_
 __pry__ _v_ :six::shit: _To pry the crack open wider and wider._  
 __psyche__  
 __psychopathic__  
-__public house__  
-__public house__ :four::shit: :es: taberna  
+__public house__ :five::shit: :es: taberna  
 __public housing__  
 __publican__  
 __publican__ _n_  
@@ -10106,8 +10100,7 @@ __sweatpants__
 __sweeping staircase__ :camera:  
 __sweepstakes__  
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
-__sweet water__  
-__sweet water__  
+__sweet water__ :two::shit:  
 __sweethearts__  
 __swell__ _n_ :two::shit: _The swell of people from war-torn countries._  
 __swelled__ (swelling) :two::shit:  
