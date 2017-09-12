@@ -266,6 +266,7 @@ __RV__
 __Rashomon effect__ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __Reuben James__  
 __Reuben__ (A type of sandwich?)  
+__Revolutionary War__  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __Rotarian__  
 __Roto-Rooter__  
@@ -634,6 +635,7 @@ __arpents__ _n_ :two::shit:
 __arrears__ _n_ :open_mouth:  
 __arrowroot__  
 __arson__ _n_  
+__artifact__ _n_  
 __artifacts__  
 __artistry__  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
@@ -648,6 +650,7 @@ __ascetic__
 __ascot__  
 __ascribe__ _v_  
 __ascribe__ _v_  
+__ash borers__ _Emerald ash borers._  
 __ashen__ :open_mouth:  
 __ashen__ _His face turned ashen._  
 __aside__ _First, a personal aside._  
@@ -944,6 +947,7 @@ __befalls__ _v_
 __befit__ (befits, befitting) :two::shit: _v_  
 __befitting__  
 __before you know it__  
+__beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
 __befuddled__ :two::shit:  
 __befuddling__  
@@ -1025,6 +1029,7 @@ __bent__ _Apple wasn't known for his altruistic bent._
 __bent__ _n_  
 __bento__ Boxed meals.  
 __bequeathed__ _v_  
+__bequeathed__ _v_  
 __bequeathed__ _v_ :three::shit:  
 __bequest__ _n_ :five::shit: _A dark bequest of Nazism._  
 __berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._  
@@ -1048,6 +1053,7 @@ __beseechment__
 __beset__  
 __beset__  
 __beset__  
+__beset__ _v_  
 __beset__ _v_  
 __besmeared__ _v_  
 __besmirch__ _v_ :three: (besmirched) To stain; sully: _a reputation that was besmirched by slander._   
@@ -1607,6 +1613,7 @@ __bustling__ _adj_ :six::dart: Full of energetic and noisy activity. _A bustling
 __busybody__  
 __butcher paper__  
 __butt crust__  
+__butt out__ _v_  
 __butt out__ _v_  
 __butt-fumble__  
 __butter cups__ _organic peanut butter cups._  
@@ -2374,6 +2381,7 @@ __corridor__
 __corsages__  
 __cosset__ _v_  
 __cosseted__  
+__costliest__ :two::shit:  
 __cot__ _n_  
 __cot__ _n_ _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__  
@@ -3088,6 +3096,7 @@ __downhill__ :camera::three::shit: Simple and easy? _David Bowie dead, and it wa
 __downline__ _n_  
 __downplay__ _v_  
 __downplay__ _v_  
+__downplayed__ _v_  
 __downpours__  
 __downright__ :dart::two::shit: _Not to mention, just downright good looking._  
 __downright__ _Downright goofy._  
@@ -3240,6 +3249,7 @@ __dustpan__ :two::shit:
 __dusty__ _A dusty brand._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::shit:  
+__dwelling__ _n_  
 __dwindle__ _v_  
 __dwindle__ _v_ :five::shit: (dwindling)  
 __dwindled__ _v_  
@@ -3344,6 +3354,7 @@ __embroidered__
 __embroil__ (embroiled)  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
+__emerald__ _Emerald ash borers._  
 __emerald__ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__  
 __emeritus__  
@@ -3633,6 +3644,7 @@ __fern garden__
 __fern__  
 __ferns__  
 __ferny__  
+__ferocious__  
 __ferret out__ _v_  
 __ferret-faced__  
 __ferret__ :two::shit: _n_  
@@ -3759,6 +3771,7 @@ __flamboyant__ :three::shit:
 __flameouts__  
 __flaming hair__  
 __flanker__ (soccer position)  
+__flap__  
 __flap__ _There have been flaps over allowing scouts in press boxes._  
 __flapjack__ _n_  
 __flaps__ _The sound of paper flaps on bicycle spokes._  
@@ -4343,6 +4356,7 @@ __godsend__ _n_
 __gold rush__  
 __goldfinch__ _n_ :es: jilguero  
 __gonads__ _n_  
+__gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _Informal_ Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
@@ -4600,11 +4614,13 @@ __hagiography__
 __hags__ _Screaming histerically like Shakespearean hags._  
 __hail<sup>1</sup>__ _v_ :four::shit: (hailed, hailing)  
 __hail<sup>2</sup>__ _n_ :three::shit: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._  
+__hail__ _n_ :two::shit: _In an average year hail causes more losses than tornadoes._  
 __hailed__ _v_  
 __hailed__ _v_  
 __hailing__ _v_ _She was hailing a ride home._  
 __hails__ _Mr. Tucker hails from St. Louis._  
 __hailstones__  
+__hailstorm__ _n_  
 __hair clippers__ _n_ :camera:  
 __haking__  
 __halcyon__ _Halcyon time of romance._  
@@ -4647,6 +4663,7 @@ __hankering__ :two: (hankerings) Craving.
 __hankies__ _n_  
 __hanks__ :open_mouth: _Stringy hanks of blond hair._  
 __hanky-panky__  
+__hantavirus__  
 __haphazardly__  
 __haphazardly__  
 __hapless__  
@@ -5200,6 +5217,7 @@ __indelible__ :five::shit::open_mouth: _An indelible mark._
 __indenture__ _v_  
 __indentured__  
 __indict__ _v_ :three::shit:  
+__indicted__ _v_  
 __indictment__  
 __indictment__ :three::shit:  
 __indomitable__  
@@ -6278,6 +6296,7 @@ __monkey suit__
 __monkey wrench__  
 __monogramming__  
 __mononyms__  
+__monsoon__  
 __monsoon__  
 __monsoon__  
 __monstrosity__ :open_mouth:  
@@ -7767,6 +7786,7 @@ __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazi
 __rabble-rouser__  
 __rabble__ :two::shit:  
 __rabble__ _n_  
+__rabies__ :open_mouth: _A wild groundhog found at The Maryland Zoo had rabies._  
 __rabies__ _A squirrel with rabies._  
 __raccooned__ _v_  
 __raccoons__  
@@ -8118,6 +8138,7 @@ __retrenching__
 __retrenchment__ :two::shit: _An era of American retrenchment._  
 __returnee__  
 __reunion__ An instance of two or more people coming together again after a period of separation.  
+__reunite__ _v_  
 __revel__ _v_  
 __reveler__  
 __reveler__ _Mardi Gras revelers._  
@@ -8433,6 +8454,7 @@ __sanctuary city__ :two::shit: _Mayor Rahm Emanuel of Chicago has declared that 
 __sand spits__  
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ _Sanding the wood._  
+__sandbag__  
 __sandbags__  
 __sandlot__   
 __sandpits__ _n_  
@@ -8938,6 +8960,7 @@ __sided__ _Installed in all sided (vs brick) homes._
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidelines__ :three::shit: _Investors retreated to the sidelines._  
 __sidestep__ _v_  
+__sidestep__ _v_  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
@@ -9440,6 +9463,7 @@ __spate__
 __spate__ _n_ :six: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spatter__ _n_  
 __spay__ _v_  
+__spayed__ _v_  
 __spd__  
 __speak out__  
 __speakeasy__  
@@ -9479,6 +9503,7 @@ __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the c
 __spillover__ :two::shit:  
 __spin bike__ _n_ :camera:  
 __spin__ _n_ _But don't believe the spin._  
+__spin__ _v_ _She spins the truth for whoever is paying her._  
 __spindle__  
 __spindle__ _n_  
 __spindly__  
@@ -9543,6 +9568,7 @@ __sprinkles__ _v_
 __sprinkling__ _A sprinkling of luck._  
 __sprouting__  
 __spruce up__ _v_ :three::shit: _Juliette spruces up her country look and sound._  
+__spruce__  
 __spruce__ _n_ :two::shit:  
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
@@ -9659,6 +9685,7 @@ __standard__ _n_ :camera: :es: estandarte (?)
 __standby__ _The old standby._  
 __standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
 __standof__ _n_  
+__standoff__ _n_  
 __standoff__ _n_  
 __standout<sup>1</sup>__ _adj_ :six: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
@@ -9838,6 +9865,7 @@ __stopped short__
 __stopped short__ :two:  
 __stops__ _n_ :three::shit: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __storefront__  
+__storefront__ _n_  
 __storeful__  
 __storied__ _Storied market._  
 __storks__  
@@ -10028,6 +10056,7 @@ __sundown, sunup__ :two: _He works sunup to sundown._
 __sundry__  
 __sunken__  
 __suntan__ _n_  
+__supercell thunderstorm__  
 __superintendent__  
 __superpooch__  
 __supervise__ _v_  
@@ -11040,6 +11069,7 @@ __vig__ _n_ :three::shit:
 __vilify__ _v_  
 __villa__ _n_  
 __villainy__ :open_mouth:  
+__vindicate__ _v_  
 __vindicate__ _v_ :four::shit: (vindicated)  
 __vindicated__  
 __vindicated__ _v_  
