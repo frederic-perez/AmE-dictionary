@@ -231,6 +231,7 @@ __Oz__ _Iowa would offer the best territory for his American Oz._
 __Ozzies__ (Australians?)  
 __PC__ _They're so PC that they end up writing sanctified characters._  
 __PE__ _There were a lot of students in there ready for a PE class._  
+__POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __PO__ Parole officer?  
 __PPD__ Postponed. _(sporting events)_   
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
@@ -549,6 +550,7 @@ __angst__
 __angst__ :six: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::shit:  
 __anguish__ :two::shit:  
+__anguishes__ _v_  
 __animosity__  
 __animosity__ _n_ :four:  __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
 __animus__ _The animus between the Yankees and Red Sox._  
@@ -3482,7 +3484,7 @@ __exacerbate__ _v_ (exacerbated, exacerbating) :four: Make (a problem, bad situa
 __exact__ _v_  
 __exact__ _v_ :six: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceedingly__  
-__excess__ _In excess_  
+__excess__ :two::shit: _He's raised or spent in excess of $5,000 on political activity._  
 __excise__ :two::shit: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excommunication__  
 __excoriate__ _v_ :three::shit: (excoriated) _Gay rights advocates excoriated the state's actions._  
@@ -3634,7 +3636,7 @@ __felt__ _n_
 __fen__ _n_  
 __fence-mending__  
 __fencers__ _n_  
-__fend off__ _v_ :two::shit:  
+__fend off__ _v_ :three::shit:  
 __fender bender__ :two::shit: _Stranded by a fender bender._  
 __fennel__  
 __fennel__  
@@ -6088,8 +6090,7 @@ __maturations__
 __maturities__ _List of maturities._  
 __maudlin__ :two::shit:  
 __maul__ _v_ :three::shit: (mauled, mauling) _The Broncos can be a mauling group._  
-__maven__  
-__maven__ _n_  
+__maven__ _n_ :three::shit:  
 __maw__ _n_ :three::shit:  
 __mawkish__ Effusively or insincerely emotional.  
 __max out__ _v_ :two::shit: _He maxed out on the education available to black children._  
@@ -6110,6 +6111,7 @@ __mecca__ :three::shit: _Shopping mecca._
 __mechanical pencil__  
 __medal__ _v_  
 __medallions__ _Taxi medallions._  
+__meddling__ _adj_  
 __medevac helicopter__  
 __medevac__ _v_  
 __medical discharge__ _A medical discharge._  
@@ -6899,7 +6901,7 @@ __pallor__ _n_
 __palmettos__ :two::shit:  
 __palomas__  
 __palpably__  
-__palsy__ :two::shit: _Mild cerebral palsy._  
+__palsy__ :three::shit: _Mild cerebral palsy._  
 __paltry__  
 __paltry__  
 __paltry__ _adj_ :seven: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
@@ -9309,7 +9311,7 @@ __snarky__ _Snarky remarks._
 __snarl<sup>1</sup>__ _n_ :two: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl<sup>2</sup>__ _v_ :five: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarl__ _adj_ _Snarled airport._  
-__snarl__ _n_ _A permanent snarl._  
+__snarl__ _n_ :two::shit: _A permanent snarl._  
 __snarl__ _v_  
 __snarled__ _v_  
 __snarled__ _v_  
@@ -9488,6 +9490,7 @@ __spew__ _v_
 __spew__ _v_ :two::shit: _Carbon-spewing coal power plants._  
 __spewed__ _v_  
 __spewed__ _v_  
+__spiel__  
 __spiffy__  
 __spiffy__  
 __spigot__  
@@ -9912,7 +9915,7 @@ __stray__ _Stray canines._
 __stray__ _Stray dogs._  
 __stray__ _Stray goats._  
 __stray__ _v_ _Every individual who strays will be punished._  
-__straying__  
+__straying__ _v_ :two::shit:  
 __streak__ _n_  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
