@@ -27,3 +27,12 @@ __burgeoning__
 __sturdy__  
 __prospect__ _n_ (sports)  
 __imperil__ _v_  
+__altercation__  
+__breather__  
+__pot bunkers__ (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
+__gorse__  
+__super duper__  
+__glut__ _n_  
+__reportedly__  
+__impetus__  
+__for the most part__  
