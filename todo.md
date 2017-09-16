@@ -10,3 +10,20 @@ __sage__ _Sage advice._
 __egregious__  
 __mantle__ _v_  
 __cipher__ _They often cipher._  
+__haymaker__  
+__detente__  
+__goosing__ _v_  
+__backdrop__  
+__poached__ _v_  
+__trickle-down__ :two::shit: _A trickle-down effect._  
+__tall order__  
+__riches__  
+__fallout__ _n_  
+__trinkets__ _n_  
+__clambake__ _n_  
+__rung__ _n_  
+__assiduously__ :open_mouth:  
+__burgeoning__  
+__sturdy__  
+__prospect__ _n_ (sports)  
+__imperil__ _v_  
