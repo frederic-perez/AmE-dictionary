@@ -1,3 +1,21 @@
+
+__onus__ _The onus for change._  
+__rabble__ _They were once considered rabble-rousers._  
+__bail out__  
+__shoddy__  
+__temperament__  
+__curtail__ _v_ _He must curtail the mistakes._  
+__dinking__ _v_  
+__deep ball__ _Tyron Taylor throws a nice deep ball._  
+__belated__ _v_  
+__ding__ _v_  
+__tenable__ _adj_  
+__moxie__  
+__retooled__ _v_  
+__smitten__  
+__flop__ _v_ (flops)  
+
+
 __bonkers__  
 __unflappable__  
 __protégé__  
