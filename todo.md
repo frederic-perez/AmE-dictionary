@@ -19,3 +19,9 @@ __robe__ _n_ _The judge's robe._
 __snit__ _President Trump responded with a typical Twitter-snit._  
 __tellingly__  
 __torpedo__ _v_  
+
+__befallen__ _The unthinkable has befallen President._  
+__startling__  
+__through__ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._  
+__unthinkable__ _The unthinkable has befallen President._  
+__usher__  
