@@ -25,3 +25,11 @@ __startling__
 __through__ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._  
 __unthinkable__ _The unthinkable has befallen President._  
 __usher__  
+
+__around the corner__  
+__ballistic__  
+__colorful__ _The colorful lawyer is up for the challenges of the task._  
+__dilapidate__ _v_  
+__far-flung__ _He represented a far-flung roster of clients in bribery and corruption cases._  
+__myriad__  
+__undercut__ _v_  
