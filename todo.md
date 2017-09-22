@@ -33,3 +33,17 @@ __dilapidate__ _v_
 __far-flung__ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __myriad__  
 __undercut__ _v_  
+
+__attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
+__constituents__ _n_  
+__deferment__  
+__eligibility__  
+__fathom__ _v_  
+__florets__ _Your dinner is two florets of broccoli._  
+__forbearance__  
+__hard sell__  
+__petulant__  
+__rude__  
+__strains__ _n_  
+__undeterred__  
+__Latinas__  
