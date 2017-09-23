@@ -1,4 +1,16 @@
-
+__angling__ _v_  
+__swish__ _To swish a three-pointer._  
+__zinger__ _I've made a few blunders, but had a few zingers too._  
+__dart__ _v_  
+__sentiment__ _n_  
+__tucks__ _v_ _The quarterback tucks the ball._  
+__Ohioans__  
+__Wisconsinites__  
+__stringer__ _He has climbed from a fifth stringer to a team leader._  
+__Caucasian__  
+__meager__ :dart:  
+__stem__ _v_ :open_mouth: _They redesigned their stores in an effort to stem declining sales._  
+__sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 
 __pulled pork sandwitch__  
 __spotless__  
