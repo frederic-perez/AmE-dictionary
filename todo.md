@@ -1,4 +1,18 @@
 
+
+__pulled pork sandwitch__  
+__spotless__  
+__scuffling__  
+__tendinitis__  
+__mitt__ _n_  
+__faux__ _Three faux tombstones._  
+__outfield__ _(baseball)_  
+__sophomore__  
+__claret jug__ :two: _The champion returning the claret jug used to be a mere formality._  
+__grandstand__  
+__atop__  
+__franchise tag__ :three: _Pittsburg placed the franchise tag on Bell in March._  
+
 __disarray__  
 __frazzled__ _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fumbling__ _Sexist ads banned: No fumbling dads, frazzled wives._  
