@@ -1,3 +1,30 @@
+__stave off__ _v_  
+__tap__ _v_ _It's possible that a new loan wouldn't have to be tapped into immediately._  
+__sit__ _v_ _Stop sitting on the bull._  
+__excised__ _v_  
+__inebriated__  
+__stirred__ _v_  
+__hijinks__  
+__Los Angelino__  
+__Illini__ :three::shit:  
+__flex__ _v_  
+__stiffer__ _In adult court, murder, a Class M felony, carries a much stiffer penalty._  
+__bungee cord__ :camera:  
+__along with__  
+__HVAC__  
+__fireworks display__ _A fireworks display will be held on Sunday._  
+__amply__  
+__tentative__  
+__superintendent__  
+__self-steem__  
+__tuition__ _The tuition for the workshops is on a sliding scale._  
+__alderman__  
+__dirt bike__ :camera:  
+__property owner__ _Watch out for scammers trying to exploit property owners._  
+__defer__ _v_  
+__parsonage__ :open_mouth:  
+__couch-surfing__ :open_mouth:  
+
 __angling__ _v_  
 __swish__ _To swish a three-pointer._  
 __zinger__ _I've made a few blunders, but had a few zingers too._  
