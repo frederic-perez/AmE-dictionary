@@ -100,3 +100,62 @@ __rude__
 __strains__ _n_  
 __undeterred__  
 __Latinas__  
+
+__ETA__ _I believe we have an ETA of six days._  
+__PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
+__albatross__  
+__avid__ :three:  
+__brace__ _v_ :open_mouth: _Residents brace themselves for more rain._  
+__cast__ _n_ :two: :open_mouth: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
+__charred__ _v_  
+__churning__ _A surge of churning water._  
+__committal__ _A committal graveside service will be held for the family._  
+__contended__ _v_  
+__crest__ _v_ _The Fox River is expected to crest Tuesday._  
+__cyclone__ _n_  
+__dirt roads__  
+__divisive__ _He is more interested in spouting divisive sound bites._  
+__downpour__ _n_ _Heavy downpours can cause flash flooding._  
+__duct__ _They damaged a very large AT&T phone duct._  
+__entails__ _v_  
+__family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
+__felon__ _n_  
+__from the git-go__  
+__handily__  
+__hypothermia__  
+__in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
+__indicted__ _v_  
+__infusion__ _n_  
+__insolvency__  
+__irate__ _v_  
+__kibitz__ _v_  
+__lineman__  
+__mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
+__nationwide__ _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
+__nuder__ _Officers found a small sliver handgun nuder the passenger seat._  
+__orneriness__  
+__overtures__ _n_  
+__protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
+__punting__ _v_  
+__razzing__ _Jim loved razzing people._  
+__recede__ _v_  
+__reprieve__  
+__ridership__  
+__rife__  
+__roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
+__rumbling__ _v_  
+__scampered__ _v_  
+__shunting__ _v_ _With a PDA, there is continous shunting of blood through the lungs._  
+__sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
+__sound bites__ _n_  
+__spout__ _v_ _He is more interested in spouting divisive sound bites._  
+__stem__ _v_ _Three dozen towns are debating how to stem the flow of needles._  
+__struck__ _v_  
+__surly__  
+__syndicated__  
+__trails__ _n_  
+__troubleshooter__  
+__upcoming__  
+__visitation__ _n_ :three:  
+__whooshed__ _v_  
+__wrought__ _v_  
