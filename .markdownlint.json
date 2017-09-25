@@ -3,7 +3,7 @@
     "MD013": false,
     "MD033": {
         "allowed_elements": [
-            "sup"
+            "img", "p", "sup"
         ]
     },
     "MD041": false
