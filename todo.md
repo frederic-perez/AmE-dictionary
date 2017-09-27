@@ -16,3 +16,13 @@ __mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishe
 __from the rooter to the rooter__  
 __grub__  
 __cutlets__ _Chicken cutlets._  
+
+__gully__ _We had a real gully washer in the forenoon._  
+__forenoon__ _We had a real gully washer in the forenoon._  
+__sermon__  
+__bobbled__ _v_ _The flowers bobbled and swayed._  
+__swayed__ _v_ _The flowers bobbled and swayed._  
+__take wing__ _Then again, my thoughts took wing._  
+__wee tot__ _My niece was just a wee tot and was lost in a cornfield._  
+__puree__ _v_  
+__food processor__  
