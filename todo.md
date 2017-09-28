@@ -26,3 +26,10 @@ __take wing__ _Then again, my thoughts took wing._
 __wee tot__ _My niece was just a wee tot and was lost in a cornfield._  
 __puree__ _v_  
 __food processor__  
+
+__non-exempt__ _Non-exempt position._  
+__reliable__ _Must have reliable transportation._  
+__dependable__ _Applicants are required to have a dependable vehicle._  
+__clerical__ :two::shit: _Clerical duties._ _Basic computer skills and clerical skills required._  
+__#s__ :two::shit: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
+__contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
