@@ -33,3 +33,21 @@ __dependable__ _Applicants are required to have a dependable vehicle._
 __clerical__ :two::shit: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __#s__ :two::shit: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
+
+__CDs__ :two::shit: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
+__S'mores__ _S'mores season!_  
+__broached__ _v_  
+__clear-cut__  
+__comfy__ _The Comfy Cow ice cream._  
+__detergent__ _Liquid laundry detergent._  
+__dog__ _v_  
+__fall short__  
+__flare__ _v_  
+__if nothing else__ _And if nothing else, Selig will be watching._  
+__lb.__ _Sold in pkgs. of 3 lbs. or more._  
+__marinades__  
+__oz.__  
+__patties__ _Falafel patties._  
+__register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
+__rifts__ _Rifts reopen after friendly trade summit._  
+__stodgiest__  
