@@ -51,3 +51,20 @@ __patties__ _Falafel patties._
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
 __rifts__ _Rifts reopen after friendly trade summit._  
 __stodgiest__  
+
+__Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
+__attrition__  
+__consensus__ _Hinton is a consensus three-star recruit._  
+__daily basis__ (on a daily basis) _They work with the team on a daily basis._  
+__miscues__ _n_  
+__pin__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
+__planta fasciitis__ _(typo?)_ :camera: _John was sidelined with planta fasciitis in his right foot._  
+__preceded__ _v_  
+__redshirting__ _v_  
+__seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
+__shoddy__ _adj_  
+__shutout__ _n_  
+__steadily__  
+__tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
+__tight-knit__ _We are a tight-knit family._  
+__unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
