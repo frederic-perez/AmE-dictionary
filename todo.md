@@ -93,3 +93,10 @@ __superintendent__
 __timeline__  
 __timely__  
 __travelogue__  
+
+__corpsman__ _He served in the U.S. Navy as a hospital corpsman._  
+__great-grandchildren__  
+__great-granddaughters__ :open_mouth:  
+__great-grandsons__  
+__host__ _A host of grandchildren and great-grandchildren._  
+__infamous__  
