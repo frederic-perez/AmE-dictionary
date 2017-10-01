@@ -68,3 +68,28 @@ __steadily__
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tight-knit__ _We are a tight-knit family._  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
+
+__On top of that,__  
+__advisory__  
+__afoot__ _There is a mystery afoot at Bement Elementary._  
+__allergens__  
+__arched doorway__ :camera:  
+__averse__ _We are not averse to moving._  
+__bluntly__ _"We haven't got the money," Ingold responded bluntly._  
+__breakup__ _n_  
+__cash bar__ :camera: _The cost is $30 per person with a cash bar._  
+__fracas__ _n_  
+__grinding half__ _"The people's business had come to a grinding half, and nothing was going to happen," he said._  
+__hush money__ _A hush money case._  
+__incumbency__  
+__incumbent__ _n_  
+__leg up__ _Area's 2 reigning congressmen have leg up on funding._  
+__malarkey__  
+__motifs__ _n_  
+__pedestrians__  
+__sake__ _For comparison's sake, it hit 90 twice here all of last July._  
+__specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
+__superintendent__  
+__timeline__  
+__timely__  
+__travelogue__  
