@@ -20,3 +20,10 @@ __recycler__ _n_ _Gilliland admitted stealing the copper and taking it to a recy
 __signage__ _Family upset his individual feat isn't honored with signage._  
 __toubleshoot__ _v_  
 __trounces__ _v_ _Drama trounces trauma!_  
+
+__spots__ :three::shit: _Partly sunny; a shower and thunderstorm in spots early and late._  
+__bang for our buck__ _We need to get all the bang for our buck._  
+__hairline__  
+__tipsters__ _n_  
+__consensus__ _I've learned to build consensus and work with the other side._  
+__bone__ _Another bone of contention._  
