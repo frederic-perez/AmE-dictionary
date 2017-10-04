@@ -27,3 +27,30 @@ __hairline__
 __tipsters__ _n_  
 __consensus__ _I've learned to build consensus and work with the other side._  
 __bone__ _Another bone of contention._  
+
+__account__ _n_ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
+__advisedly__  
+__being at odds__ _They are at odds over the details of legislation._  
+__bejeezus__ _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._  
+__cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,400 pairs of lines._  
+__castigation__ _n_  
+__donned__ _v_ _They donned masks._  
+__heartily__ _A sentiment which I heartily applaud._  
+__impending__ _The impending political battle._  
+__jarring__  
+__mongering__ _Hate-mongering._  
+__namesake__  
+__pander__ _v_  
+__poster child__ _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._  
+__pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
+__refurbished__  
+__rub__ _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
+__rumble__ _n_  
+__sentiment__ _A sentiment which I heartily applaud._  
+__sitdown__ _n_ :two::shit:  
+__squad car__ :four::shit: _The squad car camera was not activated._  
+__stunted__ _v_  
+__telling__ _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._  
+__unsound__  
+__vilifies__ _v_  
+__wholly__ :open_mouth: _A problem that is wholly unnecessary._  
