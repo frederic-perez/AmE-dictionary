@@ -54,3 +54,14 @@ __telling__ _In her telling, this "they" of hers is scaring the bejeezus out of 
 __unsound__  
 __vilifies__ _v_  
 __wholly__ :open_mouth: _A problem that is wholly unnecessary._  
+
+__DOA__ _Repeal likely DOA._  
+__alledgedly__  
+__crattering__ _n_  
+__deliver__ _v_ _Republicans apparently cannot deliver._  
+__forfeiture__  
+__naysayer__ _n_  
+__p_roceeds__ _n_  
+__ripe__ _It was ripe for abuse._  
+__shut out__ _v_  
+__sign-off__ _n_  
