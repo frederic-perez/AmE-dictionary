@@ -16,9 +16,9 @@ __on three__ _On three: One, two, three!_
 __pedestrian__ _n_  
 __probation__ _A person has ben sentenced to probation._  
 __quid pro quo__ _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
-__recycler__ _n_ _Gilliland admitted stealing the copper and taking it to a recycler to get cash for it._  
+__recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __signage__ _Family upset his individual feat isn't honored with signage._  
-__toubleshoot__ _v_  
+__troubleshoot__ _v_  
 __trounces__ _v_ _Drama trounces trauma!_  
 
 __spots__ :three::shit: _Partly sunny; a shower and thunderstorm in spots early and late._  
@@ -56,12 +56,12 @@ __vilifies__ _v_
 __wholly__ :open_mouth: _A problem that is wholly unnecessary._  
 
 __DOA__ _Repeal likely DOA._  
-__alledgedly__  
-__crattering__ _n_  
+__allegedly__  
+__cratering__ _n_  
 __deliver__ _v_ _Republicans apparently cannot deliver._  
 __forfeiture__  
 __naysayer__ _n_  
-__p_roceeds__ _n_  
+__proceeds__ _n_  
 __ripe__ _It was ripe for abuse._  
 __shut out__ _v_  
 __sign-off__ _n_  
