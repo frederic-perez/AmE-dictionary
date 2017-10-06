@@ -65,3 +65,7 @@ __p_roceeds__ _n_
 __ripe__ _It was ripe for abuse._  
 __shut out__ _v_  
 __sign-off__ _n_  
+
+__haymaker__ _n_ _Slang_ A powerful blow with the fist.  
+__brittle__ _adj_ :es: frágil  
+__cop out__ Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
