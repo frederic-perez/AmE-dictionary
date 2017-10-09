@@ -11,3 +11,19 @@ __downpour__
 __marksman__ _n_  
 __confided__ _v_  
 __compassionate__  
+
+__at odds__  
+__autocratic__  
+__beseech__  
+__boast__ _v_ _I can boast about it for eternity._  
+__daft__ _adj_  
+__gimmicks__ _No "get in the door" gimmicks._  
+__grudgingly__  
+__hindsight__  
+__mixed bag__ _It's a mixed bag, really._  
+__nosebleed__ _n_  
+__pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
+__slobby__  
+__warble__ _v_  
+__whisk__ _v_  
+__yarn__  
