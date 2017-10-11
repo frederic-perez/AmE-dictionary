@@ -33,3 +33,8 @@ __erstwhile__
 __barren__  
 __sinkhole__ _n_  
 __getaways__  
+
+__hankering__  
+__unassuming__ _adj_  
+__jingoism__  
+__fluff__  
