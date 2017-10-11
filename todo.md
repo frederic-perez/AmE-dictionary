@@ -27,3 +27,9 @@ __slobby__
 __warble__ _v_  
 __whisk__ _v_  
 __yarn__  
+
+__ruses__ _n_  
+__erstwhile__  
+__barren__  
+__sinkhole__ _n_  
+__getaways__  
