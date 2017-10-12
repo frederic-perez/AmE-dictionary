@@ -38,3 +38,9 @@ __hankering__
 __unassuming__ _adj_  
 __jingoism__  
 __fluff__  
+
+__shortlisted__ _v_  
+__come into play__ _Other factors inevitably come into play._  
+__enrol__ _v_  
+__straddles__ _v_  
+__grime__  
