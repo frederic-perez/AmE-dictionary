@@ -324,7 +324,7 @@ __T__ _v_ _His car shit the bed so he's going to have to T it._
 __Taser__ _A Taser stun gun._  
 __Tea partyers__ :open_mouth:  
 __Teamster__ _n_ :two::shit:  
-__Tennesse Honey__ Honey liqueur blended with less than 20% whiskey.  
+__Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.  
 __Texas Panhandle__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
 __Then again,__  
@@ -368,7 +368,7 @@ __abetting__ _v_ :two::shit:
 __abeyance__ :two::shit:  
 __abhorrent__  
 __abide__ _v_ :four::shit: (abiding) _Abiding trepidation._  
-__abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behaviour) Completely without pride or dignity; self-abasing. _An abject apology._  
+__abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behavior) Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__  
 __abjure__ _v_  
 __abounds__  
