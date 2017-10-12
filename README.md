@@ -6,7 +6,7 @@ A simple shared dictionary to be enhanced with flash-like cards (maybe we can wr
 
 I collect words from multiple sources, including:
 
-- Tons of printed newspapers: USA Today, The New York Times, The Wall Street Journal, International New York Times (and The New York Times International Edition), The Japan Times, International Herald Tribune, New York Post, San Francisco Chronicle, The Denver Post, Austin American-Statesman, The Salt Lake Tribune, The Moscow News, The Moscow Times, Town Topics(R) (Princeton's Weekly Community Newspaper Since 1946), The News-Gazette (Champaign-Urbana, Danville and East Central Illinois), etc.
+- Tons of printed newspapers: USA Today, The New York Times, The Wall Street Journal, International New York Times (and The New York Times International Edition), The Japan Times, International Herald Tribune, New York Post, San Francisco Chronicle, The Denver Post, Austin American-Statesman, The Salt Lake Tribune, The Moscow News, The Moscow Times, Town Topics(R) (Princeton's Weekly Community Newspaper Since 1946), The News-Gazette (Champaign-Urbana, Danville and East Central Illinois), Metro (The world's most popular free newspaper), etc.
 
 <p align="center">
   <img src="images/AmE-dictionary--Pile-of-newspapers--256x256.jpg?raw=true" alt="Pile of newspapers"/>
