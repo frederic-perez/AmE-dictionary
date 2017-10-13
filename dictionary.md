@@ -310,8 +310,7 @@ __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.
 __Stasi__  
 __State Bar__ _A State Bar judge._  
 __Step 'n' Fetch It routine__  
-__Styrofoam__  
-__Styrofoam__  _A large Styrofoam cup of coffee._  
+__Styrofoam__ :two::shit: _A large Styrofoam cup of coffee._  
 __Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __Sunday best__ _Rita wanders a highway in her Sunday best._  
 __Sweepstakes__ _Your Sweepstakes._  
@@ -793,10 +792,7 @@ __back-to-back__ :four: Consecutive. _His back-to-back victories in the Hungaria
 __backache__ _n_ :dart:  
 __backburner__ _n_  
 __backcountry__ _Utah ski resorts offering backcountry adventures._  
-__backdrop__  
-__backdrop__ _n_  
-__backdrop__ _n_  
-__backdrop__ _n_ :four::shit: _These massacres took place against the backdrop of a war._  
+__backdrop__ _n_ :seven::shit: _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::shit:  
 __backlash__ _n_ :three::shit:  
@@ -3126,8 +3122,7 @@ __doddering__
 __dodges__ _n_  
 __dodgy__  
 __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
-__doe__  
-__doe__ _n_ :open_mouth: _The young doe will be moved to the E.L. Johnson Nature Center._  
+__doe__ _n_ :two::shit::open_mouth: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doeskin__ _A doeskin wallet._  
 __doff__ (doffing) :two::shit: _v_ _Doff his hat._  
 __dog days__  
@@ -4729,8 +4724,7 @@ __gum stump__
 __gum tree__  
 __gum up__  
 __gumball__  
-__gumbo__ _n_  
-__gumbo__ _n_ :three: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
+__gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
 __gumption__  
 __gums__ _n_  
 __gun show__  
@@ -4899,8 +4893,7 @@ __hash out__ _v_
 __hash__ _I'm gonna cook his hash, man._  
 __hash__ _v_  
 __hashish__  
-__hasp__ _The hasp and padlock had been splintered loose from the wood._  
-__hasp__ _n_  
+__hasp__ _n_ :two::shit: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ :two::shit:  
 __hasten__  
 __hasten__ _v_  
@@ -6617,9 +6610,7 @@ __mullah__ _n_
 __mulled__ _v_ _His mug of mulled cider._  
 __mullet__ :two::shit:  
 __mulligan__ _n_  
-__mulling__ _v_  
-__mulling__ _v_  
-__mulling__ _v_  
+__mulling__ _v_ :three:shit:  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumps__  
 __munch__ _v_  
@@ -7579,8 +7570,7 @@ __pluckiest__
 __plugger__  
 __plum trees__  
 __plum wine__  
-__plum__ _Plum-and-onion stuffing._  
-__plum__ _n_ :two::shit:  
+__plum__ _n_ :three::shit: _Plum-and-onion stuffing._  
 __plumb__ _v_ :two::shit:  
 __plummeted__ _v_  
 __plummeting__  
@@ -10874,8 +10864,7 @@ __tixker__
 __tizzy__  
 __to be in the clear__  
 __to date__ :two::shit: _To date, no winners have attended._  
-__to hell and back__  
-__to hell and back__  
+__to hell and back__ :two::shit:  
 __to his name__ _Bernie died with $1.09 to his name._  
 __to taste__ :three::shit: _Add more vinegar to taste._ :es: al gusto (?)  
 __to that end,__  
@@ -11669,14 +11658,8 @@ __whence__
 __whereabouts__  
 __whereby__  
 __wherewithal__ :four::shit:  
-__whet__ _v_  
-__whet__ _v_ __1__ To sharpen (a knife, for example); hone. __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._  
+__whet__ _v_ :seven: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year's Part 2._  
 __whetstone__  
-__whetted__  
-__whetted__ _v_  
-__whetted__ _v_ _The keenest whetted blades._  
-__whetting__ _Whetting the appetite for next year's Part 2._  
-__whetting__ _v_  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
 __whickering__  
 __whiff__  
