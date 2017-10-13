@@ -409,6 +409,7 @@ __acolytes__
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquaintances__ :open_mouth:  
 __acquiesce__  
+__acquiescence__  
 __acquit__ _v_ :three::shit: (acquitted) _If it doesn't fit, you must acquit._  
 __acquittal__  
 __acquittal__  
@@ -1059,6 +1060,7 @@ __belted__ _v_ _He belted his new tunes into the hallway._
 __belting__  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
+__bemoan__ _v_  
 __bemoan__ _v_  
 __bemoan__ _v_ :seven::shit: (bemoaned, bemoaning)  
 __bemused__  
@@ -1843,6 +1845,7 @@ __careens__ _v_ :four::shit: (careened, careening)
 __caresses__ _v_  
 __caretaker__  
 __caretaker__ _A caretaker government._  
+__cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
 __carjack__ _v_ To commit forcible theft of (a vehicle) from its users.  
 __carnage__ :two::shit:  
@@ -2634,6 +2637,7 @@ __crotchety__
 __crouch__ :two::shit:  
 __crowbar__ _n_ :two::shit:  
 __crowing__ _v_  
+__crucible__  
 __crucible__ _n_  
 __crucible__ _n_ :three::shit:  
 __crud__  
@@ -2816,6 +2820,7 @@ __debutante__
 __decaf__ Decaffeinated coffee.  
 __decals__  
 __decamped__ _v_  
+__decant__ _v_  
 __decanter__  
 __decanter__ _n_  
 __deck railing__  
@@ -3532,6 +3537,7 @@ __enthrall__ _v_ :four: (enthralling) To hold spellbound; captivate: _The magic 
 __enthuse__ _v_  
 __enthuse__ _v_ :four::shit: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
+__entitled__ :two::shit; _We are soft, entitled, and scared of conflict._  
 __entitlement__ :four::shit: _Entitlement programs._  
 __entourage__  
 __entrant__ :open_mouth:  
@@ -3673,6 +3679,7 @@ __fait accompli__
 __fall into place__  
 __fall out of love__  
 __fall short__ :four::shit:  
+__fallacy__  
 __fallback__ _The fallback option._  
 __fallible__  
 __falloff__  
@@ -5399,6 +5406,7 @@ __incubus__
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
+__indefatigable__  
 __indefatigable__ _adj_ :three::open_mouth: Incapable or seemingly incapable of being fatigued; tireless.  
 __indefinite__  
 __indelible__ :five::shit::open_mouth: _An indelible mark._  
@@ -7031,6 +7039,7 @@ __outpacing__ :two::shit:
 __outpatient__ :two::shit:  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
+__outpouring__  
 __outrage__ :two::shit:  
 __outrage__ :two::shit:  
 __outrageous__ :two::shit:  
@@ -8803,6 +8812,7 @@ __scamper__ _v_ _Scampered into the van._
 __scampered__ _v_  
 __scant__  
 __scant__  
+__scant__  
 __scant__ _adj_ :three:Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scapegoated__ _v_  
 __scapular__  
@@ -9362,6 +9372,7 @@ __skullcap__
 __skunworks__  
 __sky high__  
 __skylight__  
+__skyrocket__ _v_  
 __skyrocket__ _v_  
 __skyrocket__ _v_  
 __slabs__ _Concrete slabs._  
@@ -10106,6 +10117,7 @@ __stickball__ Stickball is a street game related to baseball, usually formed as 
 __sticker price__  
 __sticker shock__  
 __stickers__  
+__stickler__  
 __stickler__ :two::shit:  
 __stiff<sup>1</sup>__ _adj_ :three::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._  
 __stiff<sup>2</sup>__ _v_ _Trump is known for stiffing people he owes._  
@@ -10320,6 +10332,7 @@ __stupas__
 __sturdy__  
 __stutter__ _v_  
 __stutter__ _v_  
+__stymie__ _v_  
 __stymie__ _v_ (stymied) :nine::shit:  
 __suave__ :three::shit: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
@@ -10349,6 +10362,7 @@ __suburbanites__ _n_
 __suburbs__  
 __succinctly__ :open_mouth:  
 __succint__  
+__succor__  
 __succor__ :two::shit:  
 __succubus__  
 __succubus__ _n_ :two::shit:  
@@ -11000,6 +11014,7 @@ __tresses__ _Blond tresses._
 __trestle__  
 __trestle__ /ˈtrɛs(ə)l/ :two: Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
 __treys__ :two::shit:  
+__trial__ _n_  
 __tribulation__ _n_  
 __tribulations__  
 __tribute__ _Her fellow tribute and her hunting buddy._  
@@ -11151,6 +11166,7 @@ __tweak<sup>1</sup>__ _n_ :three::shit: (tweaks)
 __tweak<sup>2</sup>__ _v_  
 __tweed__  
 __tweeny-weeny__  
+__twice as good__ _They took "twice as good as a challenge._  
 __twin rooms__  
 __twine__ _n_ :two::shit: _Tie the legs of the turkey together with twine._  
 __twinge__ _n_ :two::shit:  
@@ -11353,6 +11369,7 @@ __utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A fac
 __utmost__  
 __utmost__  
 __utterance__  
+__utterly__  
 __utterly__  
 __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __vacant-eyed__  
@@ -11736,6 +11753,7 @@ __wilderness__
 __wildling__ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
 __wilful__  
+__will__ _v_  
 __willful__  
 __willfully__  
 __willy-nilly__ _adv_ :two: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
