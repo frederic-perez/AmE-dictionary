@@ -950,21 +950,15 @@ __beau__ :three: _n_ A rich, fashionable young man; a dandy. _Executive beau Ric
 __bebop__ _v_  
 __beck > at your beck__ _Stacks of books at your beck._  
 __beck__  
-__beckon__ (beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
-__beckons__  
-__beckons__ _v_  
+__beckon__ :three: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
 __bedeck__ (bedecked) _v_  
 __bedevil__  _v_ :four: (bedeviled) __1__ (of something bad) Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ (of a person) Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
-__bedlam__  
-__bedlam__  
+__bedlam__ :two::shit:  
 __bedpan__ _n_  
-__bedridden__  
-__bedridden__  
-__bedridden__ _She was practically bedridden._  
-__bedrock__  
-__bedrock__ _n_ :three: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
+__bedridden__ :three::shit: _She was practically bedridden._  
+__bedrock__ _n_ :four: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedspreads__ _n_  
 __bedstead__  
@@ -1241,14 +1235,10 @@ __blithely__
 __blitheness__  
 __blither__  
 __blithering__  
-__blitz__  
-__blitz__ :three: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
-__blitz__ _n_  
-__blitz__ _v_ :two::shit: (blitzed, blitzing)  
-__blizzard__  
-__blizzard__ _n_  
-__bloc__  
-__bloc__ _n_ :four::shit: _The troubled currency bloc._  
+__blitz<sup>1</sup>__ _n_ :five: _Informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
+__blitz<sup>2</sup>__ _v_ :two::shit: (blitzed, blitzing)  
+__blizzard__ _n_ :two::shit:  
+__bloc__ _n_ :five::shit: _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood-expander__  
 __blooker__ :two::shit:  
@@ -4688,8 +4678,7 @@ __grumble__ _v_ :three::shit:
 __grumbled__  
 __grumbling__  
 __grumblings__  
-__grungy__  
-__grungy__  
+__grungy__ :two::shit:  
 __grunt__ _n_ __1__ :two: A deep guttural sound. __2__ :two: _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ :three: _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__  
 __grunted__ _v_  
@@ -4723,8 +4712,7 @@ __gums__ _n_
 __gun show__  
 __gun-shy__  
 __gunbull__ :two::shit:  
-__gung-ho__  
-__gung-ho__ :five::shit:  
+__gung-ho__ :six::shit:  
 __gunman__ :two::shit:  
 __gunnel__ _The reel clanked once against the aluminium gunnel._  
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
@@ -6739,13 +6727,8 @@ __nipped__ _The Gaels were nipped at Washington._
 __nipping__ _v_  
 __nipping__ _v_  
 __niqab__ _v_  
-__nitpick__ _n_  
-__nitpick__ _v_  
-__nitpick__ _v_ :two::shit: _They will find something to nitpick at you._  
-__nitpicked__ _v_  
-__nitpicking__  
-__nitpicking__  
-__nitpicking__ _Nitpicking rules._  
+__nitpick<sup>1</sup>__ _n_  
+__nitpick<sup>2</sup>__ _v_ :seven::shit: (nitpicked, nitpicking)_They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
 __nitty gritty__  
@@ -11540,8 +11523,7 @@ __wastrel__
 __wastrel__  
 __watch caps__  
 __watch your six__ _Idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
-__watchdog__ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
-__watchdog__ _n_  
+__watchdog__ _n_ :two::shit: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
 __water buffalo__  
 __water cooler__  
 __water down__ :two::shit:  
@@ -11581,8 +11563,8 @@ __wedlock__ :two::shit:
 __wee hours__  
 __wee tot__ _My niece was just a wee tot and was lost in a cornfield._  
 __wee__ _Comes out of prison with a wee bit of a chemical dependency problem._  
-__weed__ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
-__weed__ _v_ _It's like weeding a garden._  
+__weed<sup>1</sup>__ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
+__weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
 __weevil__ :two::shit: _Weevil worms._  
 __weevils__  
@@ -11671,14 +11653,8 @@ __whiteout__
 __whitewash__  
 __whitewash__ _v_  
 __whithered__  
-__whittle down__ _The overwhelming advantage has been whittled down._  
-__whittle__ _v_  
-__whittle__ _v_  
-__whittled__ _v_  
-__whittled__ _v_  
-__whittling down__  
-__whittling__  
-__whittling__ _v_  
+__whittle down__ _v_ :two::shit: _The overwhelming advantage has been whittled down._  
+__whittle__ _v_ :five::shit: (whittled, whittling)  
 __whizzing__  
 __whodunit__  
 __whole milk__  
@@ -11687,20 +11663,16 @@ __wholesaler__ :two::shit:
 __wholesome__ :two::shit:  
 __wholly__ :open_mouth: _A problem that is wholly unnecessary._  
 __whoop__ _n_  
-__whoop__ _v_ :two::shit: _He can whoop him with a switch._  
-__whooped__ _v_  
+__whoop__ _v_ :three::shit: (whooped) _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
 __whoosh__ :two::shit: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whooshed__ _v_  
-__whorls__  
-__whorls__  
+__whorls__ :two::shit:  
 __wick__ _n_  
 __wicked__  
 __wickedly__  
-__wicker chair__  
-__wicker__  
-__wicker__ _They sat in wicker rockers._  
+__wicker__ :three::shit: _Wicker chair._ _They sat in wicker rockers._  
 __wicket__  
 __wicking__ :two::shit: _Moisture wicking._ __High-wicking polyester._  
 __wicks__ _Linen wicks._  
