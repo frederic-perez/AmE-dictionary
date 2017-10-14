@@ -470,8 +470,7 @@ __agave__ _n_
 __agency__ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
 __aggravate__ (aggravated) :two::shit: _v_  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
-__aghast__  
-__aghast__  
+__aghast__ :two::shit:  
 __agit__  
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __agrarian__  
@@ -480,13 +479,11 @@ __ague__ _n_ :two::shit: (agues)
 __ahead of time__ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
-__aide__ _n_  
-__aides__  
+__aide__ _n_ :two::shit: (aides)  
 __ailerons__  
 __ailing__  
 __ailing__ _It is ailing the NFL._  
-__ailment__  
-__ailment__ :two::shit:  
+__ailment__ :three::shit:  
 __ails__ _v_ :two::shit:  
 __air cast__ _n_ :two::shit::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
@@ -623,7 +620,7 @@ __appalling__ _adj_ :two: Something that is appalling is awful or horrible, caus
 __appalls__ _v_  
 __apparatchiks__  
 __apparatus__  
-__appeal__ _:two::shit: His case is unresolved on appeal._ _Vilma is appealing his suspension._  
+__appeal__ :two::shit: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
 __appeases__ _v_  
@@ -3568,12 +3565,9 @@ __espouse__ _v_
 __espousing__ _v_ _Espousing warm ties with Russia._  
 __established__ _Established 1978._  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
-__etched__  
-__etched__ _v_  
+__etched__ _v_ :two::shit:  
 __etchings__  
-__ethos__  
-__ethos__  
-__ethos__ _n_ :eight: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
+__ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __eunuch__ _n_  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
@@ -3582,9 +3576,7 @@ __every man for himself__ :dart:
 __every other week__ _We don't win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
 __every so often__  
-__evict__ _v_ :five::shit: (evicted)  
-__evicted__  
-__evicted__ _v_  
+__evict__ _v_ :seven::shit: (evicted)  
 __eviction__ :two::shit:  
 __evince__ _v_ :four::shit: _To evince an interest in politics._ _She didn't evince surprise._  
 __eviscerate__ _v_  
@@ -5040,14 +5032,12 @@ __hick__
 __hickory shaft__  
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
-__hidebound__  
-__hidebound__ :two::shit:  
+__hidebound__ :three::shit:  
 __hideous__  
 __high and dry__ _His team was left high and dry._  
 __high beams__  
 __high road__ __1__ __a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
-__high-rise__ _n_  
-__high-rise__ _n_ _The building was a showy high-rise._  
+__high-rise__ _n_ :two::shit: _The building was a showy high-rise._  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_  
@@ -8002,23 +7992,15 @@ __quilting__ _Quilting bee._
 __quince__ :open_mouth: _Quince preserves._  
 __quinoa__ :two::shit:  
 __quinsy__  
-__quintessential__  
-__quintessential__  
+__quintessential__ :two::shit:  
 __quip__ (quipped, quippy) :six: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
-__quirk__ (quirky, quirkier) :seven: /kwəːk/ _n_ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
-__quirk__ _n_  
+__quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::shit: _The horse quirt._  
-__quiver__  
-__quiver__  
-__quiver__ _v_  
-__quivering__  
-__quivering__ _adj_  
+__quiver__ _v_ :five::shit: (quivering)  
 __quixotic__  
 __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __rabble-rouser__  
-__rabble__ :two::shit:  
-__rabble__ _They were once considered rabble-rousers._  
-__rabble__ _n_  
+__rabble__ _n_ :four::shit: _They were once considered rabble-rousers._  
 __rabies__ :open_mouth: _A wild groundhog found at The Maryland Zoo had rabies._  
 __rabies__ _A squirrel with rabies._  
 __raccooned__ _v_  
@@ -8026,12 +8008,10 @@ __raccoons__
 __racetrack__ _Racetrack cars._  
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
-__rack up__ _v_ :four::shit: _He had racked up a criminal record._  
-__rack up__ _v_ _Racking up 88 yards and two TDs._  
+__rack up__ _v_ :five::shit: _He had racked up a criminal record._ _Racking up 88 yards and two TDs._  
 __racked__ _v_ :two::shit:  
-__racket<sup>1</sup>__ :three::shit: _n_ _Extortion rackets._  
+__racket<sup>1</sup>__ :four::shit: _n_ _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
-__racket__ _n_  
 __racketeer__ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeering__  
 __racous__  
@@ -9414,8 +9394,7 @@ __slip<sup>1</sup>__ _n_ _A pink slip._
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__  
 __slippage__ _n_  
-__slipper__ (bag?)  
-__slipper__ _n_  
+__slipper__ _n_ :two::shit: (bag?)  
 __slippers__  
 __slippery slope__  
 __slips__ _Sailboats were rocking in their slips._  
@@ -10866,8 +10845,7 @@ __tonsure__
 __tonsure__  
 __tonsure__  
 __tonsure__ _The pate of a monk with a wet red tonsure._  
-__tony__ :four: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._  
-__tony__ _It was a tony place._  
+__tony__ :five: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
 __toodling__  
 __toom__  
