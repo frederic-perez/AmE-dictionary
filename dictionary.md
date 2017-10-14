@@ -4321,15 +4321,8 @@ __garland__ _Garland motifs on carved oak paneling._
 __garland__ _n_  
 __garlands__ :camera: _Evergreen garlands._  
 __garment__  
-__garner__ _v_  
-__garner__ _v_  
-__garner__ _v_ :eight: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
-__garnered__ _v_  
-__garnered__ _v_  
-__garnering__ 
-__garnering__  
-__garnish__  
-__garnish__ _v_  
+__garner__ _v_ :nine::arrow_up_small::o2: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
+__garnish__ _v_ :two::shit:  
 __garrison__ _n_  
 __garroted__ _v_  
 __gars__ _n_ :three::shit: _Alligator gars._  
@@ -9478,33 +9471,20 @@ __sloppy seconds__
 __sloppy__ _We were a little sloppy in the second half of the game._  
 __slops__ _He makes six bucks an hur and tips cleaning slops._  
 __slops__ _n_ :two::shit: _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
-__slosh__ (sloshing) :four: _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
-__sloshed__ _v_  
-__sloshed__ _v_  
-__sloshes__ _v_  
-__sloshing__  
-__sloshing__  
-__sloshing__ _v_  
-__sloth__  
-__sloth__ :two::shit: _The winter sloth._  
-__slouch__  
-__slouch__  
-__slouch__  
-__slouch__ :two::shit: _De Coubertin was no slouch._ _Slouch hat._  
+__slosh__ :nine::arrow_up_small::o2: (sloshed, sloshing) _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
+__sloth__ :three::shit: _The winter sloth._  
+__slouch__ :five::shit: _De Coubertin was no slouch._ _Slouch hat._  
 __slouching__ _v_  
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :three::shit:  
 __slough<sup>2</sup>__ _v_ :four::shit: _Henry sloughs off questions about his odometer._  
-__slovenly__  
-__slovenly__  
+__slovenly__ :two::shit:  
 __slow-as-molases__  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
-__slug__ (slugs) :two::shit:  
+__slug__ _v_ :three::shit: (slugs)  
 __slug__ _n_  
-__slugs__  
-__sluice__ _v_ :five::shit: (sluicing)  
-__sluiced__ _v_  
+__sluice__ _v_ :six::shit: (sluiced, sluicing)  
 __slum__ (slums) :five::shit: _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
