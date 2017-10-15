@@ -2052,16 +2052,8 @@ __chumps__ _n_
 __chums__ _We're old school chums._  
 __churn out__ _v_  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
-__churn<sup>1</sup>__ _n_ The time when a consumer switches his/her service provider.  
-__churn<sup>1</sup>__ _n_ __1__ _A machine for making butter by shaking milk or cream._ __2__ Short for churn rate.  
-__churn<sup>2</sup>__ _v_  
-__churn<sup>2</sup>__ _v_ :six::shit: (churned, churning) _Churning sand._  
-__churn__ _v_  
-__churn__ _v_  
-__churn__ _v_ _The hype machine churning into overdrive._  
-__churned__ _His stomach churned._  
-__churning__ _A surge of churning water._  
-__churning__ _Stomach churning._  
+__churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
+__churn<sup>2</sup>__ _v_ :nine::m::shit: (churned, churning) _Churning sand._ _His stomach churned._ _A surge of churning water._ _Stomach churning._ _The hype machine churning into overdrive._  
 __chutneys__  
 __cigarillos__  
 __cigarillos__ :open_mouth::camera:  
@@ -2456,8 +2448,7 @@ __councilor__ _n_
 __counsel__  
 __count your blessings__ :two: To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::shit: _He entered guilty pleas to two manslaughter counts._  
-__countenance__  
-__countenance__ _His countenance was pale and sunken._  
+__countenance__ :two::shit: _His countenance was pale and sunken._  
 __counter-depth fridge__ :camera:  
 __countered__ _Countered kitchen._  
 __counterfeit__ :es: falsificación  
@@ -3328,13 +3319,7 @@ __dusty__ _A dusty brand._
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::shit:  
 __dwelling__ _n_  
-__dwindle__ _v_  
-__dwindle__ _v_ :five::shit: (dwindling)  
-__dwindled__ _v_  
-__dwindled__ _v_  
-__dwindling__  
-__dwindling__  
-__dwindling__ _v_  
+__dwindle__ _v_ :nine::m::shit: (dwindled, dwindling)  
 __dyke__ _n_ :four: _Informal_ A lesbian. _She wasn't a dyke, either._  
 __dysfunction__ (dysfunctional) :open_mouth:  
 __dysplasia__ _Canine hip dysplasia._  
@@ -3348,8 +3333,7 @@ __earlocks__ _n_
 __early-onset__ _Early-onset Alzheimer's disease._  
 __earmark__ _v_ :three::shit:  
 __earmuffs__  
-__earnest__  
-__earnest__ :three::shit:  
+__earnest__ :four::shit:  
 __earrings__  
 __earth-shattering__  
 __earthquake drill__  
@@ -6928,8 +6912,7 @@ __ouboros__ _n_
 __ouster__ _n_  
 __out of hand__  
 __out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sorts__ :two::shit:  
-__out of sorts__ __1__ Somewhat ill. __2__ Grouching; irritable.  
+__out of sorts__ :three: __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outback__  
 __outbound__ :two::shit: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
@@ -9388,20 +9371,13 @@ __slobber__ _v_ :two::shit: (slobbered)
 __slobbering__  
 __slobby__  
 __slobs__ _n_  
-__slog<sup>1</sup>__ :two: _v_ __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
-__slog<sup>2</sup>__ _n_ __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._    
-__slog__  
-__slog__  
-__slog__ _n_  
-__slog__ _v_  
-__slogging__  
-__slogs__ _n_  
+__slog<sup>1</sup>__ :six: _v_ (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
+__slog<sup>2</sup>__ _n_ :three: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._    
 __slop__ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
 __sloppy__ _We were a little sloppy in the second half of the game._  
-__slops__ _He makes six bucks an hur and tips cleaning slops._  
-__slops__ _n_ :two::shit: _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
+__slops__ _n_ :three::shit: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ :nine::m: (sloshed, sloshing) _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ :three::shit: _The winter sloth._  
 __slouch__ :five::shit: _De Coubertin was no slouch._ _Slouch hat._  
@@ -9911,8 +9887,7 @@ __standard__ _n_ :camera: :es: estandarte (?)
 __standby__ _The old standby._  
 __standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
 __standof__ _n_  
-__standoff__ _n_  
-__standoff__ _n_  
+__standoff__ _n_ :two::shit:  
 __standout<sup>1</sup>__ _adj_ :six: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
 __standout__ :two::shit:  
