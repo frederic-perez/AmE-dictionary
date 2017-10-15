@@ -1042,19 +1042,13 @@ __bellwether__
 __bellwether__  
 __belly-flop__  
 __belt out__  
-__belted__ _v_ _An old woman belted out, "We are tired!"_  
-__belted__ _v_ _He belted his new tunes into the hallway._  
-__belting__  
+__belted__ _v_ :three::shit: (belting) _An old woman belted out, "We are tired!"_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
-__bemoan__ _v_  
-__bemoan__ _v_  
-__bemoan__ _v_ :seven::shit: (bemoaned, bemoaning)  
-__bemused__  
-__bemused__  
+__bemoan__ _v_ :nine::shit: (bemoaned, bemoaning)  
+__bemused__ :two::shit:  
 __bench__ _Snow will dust the benches and valleys._  
-__benchmark__ :two::shit:  
-__benchmark__ _The price of benchmark West Texas Intermediate crude has dropped._  
+__benchmark__ :three::shit: _The price of benchmark West Texas Intermediate crude has dropped._  
 __bender__ _His mother was on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
@@ -2358,15 +2352,9 @@ __consensus__ :three::shit: _Hinton is a consensus three-star recruit._ _I've le
 __consequently__  
 __conservancies__  
 __consigliere__ _Our family consigliere._  
-__conspicuous__  
-__conspicuous__ _adj_ :three: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
-__constituencies__  
-__constituency__  
-__constituency__ :two::shit:  
-__constituency__ _n_  
-__constituent__  
-__constituents__ _n_  
-__constituents__ _n_  
+__conspicuous__ _adj_ :four: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
+__constituency__ _n_ :five::shit: (constituencies)  
+__constituent__ _n_ :three::shit: (constituents)  
 __construe__ _v_  
 __construed__ :four::shit:  
 __consumption__ (ailment?)  
@@ -10905,21 +10893,12 @@ __trails__ _n_
 __trainees__ :two::shit: :es: aprendiz?  
 __traipsing__  
 __tramp__ _adj_  
-__trample__ _v_  
-__trample__ _v_  
-__trample__ _v_  
-__trample__ _v_ :eight::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
-__trampled__  
-__trampled__  
-__trampled__  
-__trampled__ _v_  
-__trampling__ _v_  
+__trample__ _v_ :nine::m::shit: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._   
 __trampolines__ _n_  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __transient__  
 __trap question__ :open_mouth: _That's a trap question._  
-__trappings__ :two::shit: _He has all the trappings of a New York insider._  
-__trappings__ _n_ _The stallions trappings._  
+__trappings__ _n_ :three::shit: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
 __trashing__ _v_  
 __travail__  
