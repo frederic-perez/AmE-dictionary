@@ -1315,7 +1315,7 @@ __bolo tie__ _n_
 __bologna__  
 __bolony__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
-__bolster<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
+__bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolster__ _v_  
 __bolstered__ _v_  
 __bolt__ _v_ _The windows were closed and bolted._  
@@ -2140,7 +2140,7 @@ __clenched__
 __clergy__  
 __clerical__ :two::shit: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __clicking__ _Things seem to be making sense and clicking._  
-__clinch__ _v_ (clinched) :nine::arrow_up_small::o2: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
+__clinch__ _v_ (clinched) :nine::m: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
 __clinched__ _v_  
 __clincher__ _n_ :two::shit:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
@@ -2500,7 +2500,7 @@ __cozened__ _v_
 __cozy__  
 __crab lice__ _n_  
 __crack__ _v_ _He cracked 90 mph on the radar gun._  
-__crackdown__ _n_ :nine::arrow_up_small::o2: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
+__crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackers__  
 __crackle__ _v_ (crackling) :two::shit:  
@@ -2567,7 +2567,7 @@ __crewcut__ _A crewcut man._
 __crib__ :two::shit: _n_  
 __cribbage__ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
-__crimp<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
+__crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._ _n_ Something made by or as if by crimping, as: __a__ Hair that has been tightly curled or waved. __b__ A series of curls, as of wool fibers. __c__ A crease or bend.  
 __crimped__ _v_  
 __crimson__ _Crimson cereal._  
 __cringe__ _v_  
@@ -2984,7 +2984,7 @@ __dimwits__ _n_ :two::shit:
 __dimwitted__  
 __din__ _Those voices are lost in the din._  
 __din__ _n_  
-__din__ _n_ :nine::arrow_up_small::o2: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
+__din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::shit:  
 __ding__ _v_  
 __dinged__ _v_ :two::shit: _I am also getting tired of my property taxes being dinged._  
@@ -3660,7 +3660,7 @@ __fallacy__
 __fallback__ _The fallback option._  
 __fallible__  
 __falloff__  
-__fallout__ :nine::arrow_up_small::o2: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
+__fallout__ :nine::m: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
 __fallout__ _n_  
 __fallow ground__  
 __fallow__  
@@ -4154,7 +4154,7 @@ __franchisees__
 __frats__ _n_  
 __fraught__ :five: _adj_ __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_  
-__fray<sup>2</sup>__ _v_ :nine::arrow_up_small::o2: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
+__fray<sup>2</sup>__ _v_ :nine::m: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __fray__ _n_  
 __fray__ _v_  
 __frayed__ _v_  
@@ -4303,7 +4303,7 @@ __garland__ _Garland motifs on carved oak paneling._
 __garland__ _n_  
 __garlands__ :camera: _Evergreen garlands._  
 __garment__  
-__garner__ _v_ :nine::arrow_up_small::o2: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
+__garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnish__ _v_ :two::shit:  
 __garrison__ _n_  
 __garroted__ _v_  
@@ -4530,7 +4530,7 @@ __granola__ _n_
 __graphic sexuality__ (for movie ratings)  
 __grapple__ _A thin cord hooked to a grapple._  
 __grapple__ _v_  
-__grapple__ _v_ (grappled, grappling) :dart::nine::arrow_up_small::o2: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
+__grapple__ _v_ (grappled, grappling) :dart::nine::m: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapples__ _v_  
 __grappling__ _v_  
 __grapplings__ _n_  
@@ -5217,7 +5217,7 @@ __humidor__ _n_
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __humor__ _v_ _Just humor me._  
-__hump__ _v_ :nine::arrow_up_small::o2::shit: _Got to get the locals humping for you._  
+__hump__ _v_ :nine::m::shit: _Got to get the locals humping for you._  
 __humps__ _Two green humps in the mist._  
 __humpty-dumpty__  
 __hunched__ _v_ :two::shit: _This poor guy was hunched over 12 hours a day._  
@@ -6928,7 +6928,7 @@ __oppo__ _Oppo researchers._
 __opulent__  
 __orb__ _n_ :two::shit:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
-__ordeal__ :nine::arrow_up_small::o2: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
+__ordeal__ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordinance__ :three::shit: _Ordinance worker._  
 __ordnance__ :three::shit:  
 __ore__  
@@ -7970,7 +7970,7 @@ __quell__ _v_
 __quell__ _v_  
 __quell__ _v_  
 __quell__ _v_  
-__quell__ _v_ :nine::arrow_up_small::o2: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
+__quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quelled__ _v_  
 __quench__  
 __quenched__ _v_  
@@ -8040,7 +8040,7 @@ __raked over the coals__
 __raking__ _v_  
 __rakish__  
 __rakish__  
-__rally<sup>1</sup>__ _v_ :nine::arrow_up_small::o2::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._ :es: manifestarse?  
+__rally<sup>1</sup>__ _v_ :nine::m::shit: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._ :es: manifestarse?  
 __rally<sup>2</sup>__ _n_  
 __rally__ (stock market)  
 __ram__ _v_ :two::shit:  
@@ -9187,7 +9187,7 @@ __shush__ _v_
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
 __shut out__ _v_ :two::shit:  
-__shutout__ _n_ :nine::arrow_up_small::o2: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
+__shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _The finest selection of custom shutters since 1973._  
 __shutters__ _n_  
 __shy of__  
@@ -9433,7 +9433,7 @@ __sloppy seconds__
 __sloppy__ _We were a little sloppy in the second half of the game._  
 __slops__ _He makes six bucks an hur and tips cleaning slops._  
 __slops__ _n_ :two::shit: _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
-__slosh__ :nine::arrow_up_small::o2: (sloshed, sloshing) _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
+__slosh__ :nine::m: (sloshed, sloshing) _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ :three::shit: _The winter sloth._  
 __slouch__ :five::shit: _De Coubertin was no slouch._ _Slouch hat._  
 __slouching__ _v_  
@@ -9601,7 +9601,7 @@ __snowpack__ _n_
 __snowplows__ _n_  
 __snowshoeing__ :two::shit:  
 __snub-nosed__ :two::shit: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
-__snub<sup>1</sup>__ _v_ :nine::arrow_up_small::o2: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
+__snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
 __snub<sup>2</sup>__ _n_ A deliberate slight or affront.  
 __snub__  
 __snub__  
@@ -9922,7 +9922,7 @@ __stalk__ _n_
 __stalk__ _v_  
 __stallion__  
 __stalward__  
-__stalwart__ :nine::arrow_up_small::o2: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
+__stalwart__ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stamina__ :three::shit:  
 __stammer__ _n_  
 __stammer__ _v_  
@@ -9979,7 +9979,7 @@ __stationery__
 __statute__  
 __statutory rape__  
 __statutory__  
-__staunch__ _adj_ :nine::arrow_up_small::o2: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
+__staunch__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
 __staunch__ _v_  
 __staunchest__ :two::shit:  
 __stave off__ _v_  
@@ -10099,7 +10099,7 @@ __stodgy__ _The mainstream may sound too stodgy._
 __stoke__ _v_  
 __stoke__ _v_  
 __stoke__ _v_  
-__stoke__ _v_ :nine::arrow_up_small::o2::shit: (stoked, stoking, stoke up) _Stoking tensions._  
+__stoke__ _v_ :nine::m::shit: (stoked, stoking, stoke up) _Stoking tensions._  
 __stoking__ _n_  
 __stoking__ _v_  
 __stolid__  
@@ -10228,7 +10228,7 @@ __strung__ _v_
 __strut__ _v_  
 __strut__ _v_ :three: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stubble__  
-__stubble__ _n_ :nine::arrow_up_small::o2::shit: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
+__stubble__ _n_ :nine::m::shit: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
 __stubby__  
 __stubby__ _Stubby fingers._  
 __stubs__ :two::shit:  
@@ -10392,13 +10392,13 @@ __swarthy__ _Swarthy skin._
 __swashbuckling__  
 __swatches__  
 __swath__  
-__swath__ _n_ :nine::arrow_up_small::o2: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swath__ _n_ :nine::m: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_   
 __swathe<sup>2</sup>__ _v_ :two::shit:  
 __swats__ _n_  
 __swats__ _n_  
 __swatted__  
-__sway<sup>1</sup>__ _v_ :nine::arrow_up_small::o2: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__  Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
+__sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__  Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __sway__ _v_ :four::shit: (swayed) _They stood together and swayed._ _The flowers bobbled and swayed._  
 __swear jar__  
