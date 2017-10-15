@@ -2502,16 +2502,8 @@ __crafty__
 __cragginess__  
 __craggy__  
 __craggy__  
-__cram__ _v_  
-__cram__ _v_  
-__cram__ _v_  
-__cram__ _v_ _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
-__crammed__ :two::shit:  
-__crammed__ _v_  
-__cramming__  
-__cramming__ _v_  
-__cramp__ _n_  
-__cramp__ _n_  
+__cram__ _v_ :nine::shit: (crammed, cramming) _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
+__cramp__ _n_ :two::shit:  
 __cramped__ _v_ :two::shit:  
 __crank out__  
 __crank<sup>1</sup>__ _n_ :three::shit: _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
@@ -2519,8 +2511,7 @@ __crank<sup>2</sup>__ _v_ _Cranked the engine._
 __crappie__  
 __crapshoot__  
 __crash-land__ _v_ _A jet crash-landed in the city._  
-__crass__  
-__crass__  
+__crass__ :two::shit:  
 __crate__ _n_  
 __cratering__ _n_ :two::shit: _Cratering car sales._  
 __craven__ _A craven political figure._  
@@ -2528,9 +2519,7 @@ __crawl__ _n_
 __crawl__ _v_ _They pretty much crawled my ass._  
 __crayon__ _n_  
 __crazed__  
-__creak__ _v_  
-__creak__ _v_  
-__creaked__ _v_  
+__creak__ _v_ :three::shit: (creaked)  
 __creakings__ _Door creakings._  
 __creaky__ _Creaky infrastructure._  
 __creased__  
@@ -8831,11 +8820,8 @@ __scrawny__ _Two scrawny containers of grape jelly._
 __scream-o-meter__  
 __screaming yellow__  
 __screech__ _n_ :two::shit:  
-__screeched__ _v_ :two::shit:  
-__screeching__ :four::shit:  
-__screwball__  
-__screwball__ _A classic screwball comedy._  
-__screwball__ _The screwball buddy comedy._  
+__screeched__ _v_ :six::shit: (screeching)  
+__screwball__ :three::shit: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screws > put the screws on someone__ _informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribe__ _n_  
 __scribes__  
@@ -8846,9 +8832,7 @@ __scrounge up__ _To scrounge up the funds._
 __scrub brush__  
 __scrub__ _v_ :two::shit:  
 __scrubbers__ _n_  
-__scruffy__  
-__scruffy__  
-__scruffy__ _adj_ :six::camera: (scruffier) Shabby and untidy.  
+__scruffy__ _adj_ :eight::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrumptious__  
 __scrunched__ (scrunching) :two::shit:  
@@ -9289,12 +9273,9 @@ __skipper__ :two::shit:
 __skips__ _n_ :two::shit: _One of the skips yelled._  
 __skirmish<sup>1</sup>__ :three::shit:  
 __skirmish<sup>2</sup>__ :two::shit:  
-__skirting__  
-__skirting__ _v_  
+__skirting__ _v_ :two::shit:  
 __skit__ _n_ :three::shit:  
-__skittered__ _v_ :three::shit: (skittering)  
-__skittered__ _v_ _Neymar's kick skittered through the hands of the goalkeeper._  
-__skittering__ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
+__skittered__ _v_ :five::shit: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
 __skittish__  
 __skittish__  
 __skittish__ (skittishness) :four: _adj_ __1__ (of an animal, especially a horse) Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ (of a person) Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
