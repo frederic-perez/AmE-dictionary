@@ -979,20 +979,15 @@ __before you know it__
 __beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
 __befuddled__ :two::shit:  
-__befuddling__  
-__befuddling__  
+__befuddling__ :two::shit:  
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar-thy-neighbor__  
 __beggar__ _n_  
 __begrudge__ :thre::shit:  
-__beguile__  
-__beguiled__ _v_  
-__beguiling__  
-__beguiling__  
-__beguiling__ :two::shit: _The Artist has an utterly beguiling purity._  
+__beguile__ _v_ :four::shit: (beguiled, beguiling)  
+__beguiling__ _adj_ :two::shit: _The Artist has an utterly beguiling purity._  
 __behemoth__ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
-__behest__  
-__behest__ _n_ :four::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
+__behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ :two::shit: _The wedding ceremony was a joy to behold._  
 __beholden__  
 __beholden__ _adj_ :seven: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
@@ -2114,9 +2109,8 @@ __clear-bag__ _Ohio State will have a clear-bag policy Saturday._
 __clear-cut__  
 __clearances__ _n_  
 __clearinghouse__ :two::shit:  
-__cleat__ _n_ :three::shit:  
-__cleated__ _Cleated horseshoes._  
-__cleated__ _v_ To get stabbed/slashed/kicked, or in any other way harmed by someone's cleat. _Joe got cleated in soccer and it left an ugly bruise._  
+__cleat<sup>1</sup>__ _n_ :three::shit:  
+__cleat<sup>2</sup>__ _v_ :two::shit: (cleated) _Cleated horseshoes._ To get stabbed/slashed/kicked, or in any other way harmed by someone's cleat. _Joe got cleated in soccer and it left an ugly bruise._  
 __cleave__ _v_ _The court often cleaves along predictable lines._  
 __cleaver__ _Meat cleaver._  
 __cleaver__ _n_ :two::shit: _A butcher's cleaver._  
@@ -2174,8 +2168,8 @@ __clunking__
 __clunky__  
 __clunky__ :two::shit:  
 __clutch player__  
-__clutch<sup>n</sup>__ :two::shit: _He was a dominant player in the clutch._ _Clutches for iPhone._  
-__clutch<sup>v</sup>__ :two::shit: _Butler and Wade were both clutch._  
+__clutch<sup>1</sup>__ _n_ :two::shit: _He was a dominant player in the clutch._ _Clutches for iPhone._  
+__clutch<sup>2</sup>__ _v_ :two::shit: _Butler and Wade were both clutch._  
 __clutching__  
 __clyster__  
 __clysters__ _n_  
@@ -5992,9 +5986,7 @@ __long haul__ _She's in for the long haul._
 __long shot__  
 __long__ :dart::two::shit: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._  
 __long__ :open_mouth: _Anthony has long said that he intends to opt out of his current deal._  
-__longbow__  
-__longbow__ _n_  
-__longbow__ _n_  
+__longbow__ _n_ :three::shit:  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__  
 __longing__ _n_ :dart:  
@@ -7123,9 +7115,7 @@ __pariah__ _n_ :two::shit:
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
-__parlay__  
-__parlayed__  
-__parlayed__ _v_  
+__parlay__ _v_ :three::shit: (parlayed)  
 __parliament__ :open_mouth::two::shit:  
 __parlor__  
 __parochial__ :two::shit:  
@@ -7142,8 +7132,7 @@ __parted__ _Slightly parted lips._
 __particle board__  
 __partisan__ _A partisan atmosphere._  
 __partisans__ _n_  
-__partridge__  
-__partridge__ _n_  
+__partridge__ _n_ :two::shit:  
 __party poppers__  
 __party__ _n_  
 __parvenu__  
@@ -9188,43 +9177,29 @@ __silt__ _n_ :three::shit:
 __silver lining__  
 __silverplate__ _v_  
 __simmer down__  
-__simmer__ _v_  
-__simmer__ _v_  
-__simmer__ _v_  
-__simmer__ _v_ :five: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
-__simmering__  
-__simper<sup>n</sup>__ A simpering smile; smirk.  
-__simper<sup>v</sup>__ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
+__simmer__ _v_ :nine: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
+__simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
+__simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
-__sinew__  
-__sinew__ :three::shit:  
-__sinew__ _n_  
+__sinew__ _n_ :five::shit:  
 __sinewy__ _adj_ :five::shit: _A sinewy man._  
 __sing along__  
-__singe__ _v_ :open_mouth:  
-__singe__ _v_ :open_mouth:  
-__singed__ _v_  
+__singe__ _v_ :open_mouth::three::shit: (singed)  
 __single out__ _v_ :two: To select one from a group and treat differently.  
 __singletree__ _Singletree plow._  
-__sinkhole__ _n_  
-__sinkhole__ _n_  
-__siphon__ _It is fairly easy to syphon profits._  
-__siphoned__ _v_  
-__siphoning__ _v_  
+__sinkhole__ _n_ :two::shit:  
+__siphon__ _v_ :three::shit: (siphoned, siphoning) _It is fairly easy to syphon profits._  
 __sire__  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sitdown__ _n_ :two::shit:  
-__sitting pretty__  
-__sitting pretty__  
+__sitting pretty__ :two::shit:  
 __sitting__ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __sivvied__ _v_ (?)  
 __sizable__ :two::shit: _Clinton's sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :two: _Rihanna sizzled when she performed in New York._  
-__sizzle<sup>2</sup>__ _n_ :two: _Filming a "sizzle reel."_  
+__sizzle<sup>2</sup>__ _n_ :four: _Filming a "sizzle reel."_  
 __sizzle__  
-__sizzle__ _n_  
-__sizzle__ _n_  
 __sizzling__ :three::shit: _The sizzling singer._  
 __skag__  
 __skank__ _v_ (?)  
@@ -10462,19 +10437,12 @@ __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanki
 __tanner__  
 __tanner__ _n_  
 __tannery__  
-__tannic__ :two::shit:  
-__tannic__ _adj_ :three: Derived from tannin.  
+__tannic__ _adj_ :five::shit: Derived from tannin.  
 __tannin__ _n_ Any of various complex phenolic substances of plant origin; used in tanning and in medicine.  
-__tantalize__ _v_  
-__tantalizing__  
-__tantalizing__ :two::shit: _The revelations are a tantalizing indication of how much we still have to learn._  
-__tantamount__ :dart:  
-__tantamount__ _adj_ :six: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
-__tap__ _A good way to tap into their wallets._  
-__tap__ _To tap into the millions of dollars to be made from apps._  
-__tap__ _v_ :four::shit:  
-__tap__ _v_ _Entrepreneurs tap neighbors for funding._  
-__tap__ _v_ _It's possible that a new loan wouldn't have to be tapped into immediately._  
+__tantalize__ _v_ (tantalizing)  
+__tantalizing__ _adj_ :three::shit: _The revelations are a tantalizing indication of how much we still have to learn._  
+__tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
+__tap__ _v_ :eight::shit: _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _Entrepreneurs tap neighbors for funding._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
 __taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone).  
 __taper<sup>2</sup>__ _v_ :nine: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity.  
