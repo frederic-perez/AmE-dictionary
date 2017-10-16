@@ -567,46 +567,32 @@ __angler__ _n_
 __angler__ _n_ (fishing?)  
 __angler__ _n_ _Fisher?_  
 __anglers__  
-__angling__  
-__angling__ _v_  
-__angling__ _v_ _Giuliani seemed to be angling for secretary of state._  
-__angst__  
-__angst__  
-__angst__  
-__angst__ :six: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
+__angling__ _v_ :three::shit: _Giuliani seemed to be angling for secretary of state._  
+__angst__ :nine: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::shit:  
 __anguish__ :two::shit:  
 __anguishes__ _v_  
-__animosity__  
-__animosity__ _n_ :four:  __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
-__animus__ _The animus between the Yankees and Red Sox._  
-__animus__ _n_  
+__animosity__ _n_ :five:  __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
+__animus__ _n_ :two::shit: _The animus between the Yankees and Red Sox._  
 __annuity__ (annuities) :two::shit:  
 __anomic__  
 __anorak__  
-__ante__ _n_ :two::shit: _He upped the ante._  
-__ante__ _n_ :two::shit: _The new Hero4 Black ups the ante in a big way._  
+__ante__ _n_ :four::shit: _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
 __anthology__  
 __anti-Semitism__  
-__antic__ _Antiques dealer._  
-__antics__  
-__antics__ :three: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
-__antiquated__  
-__antiquated__ :two::shit:  
-__antique__  
-__anvil__ :two::shit:  
-__anvils__ _n_  
-__anvils__ _n_  
+__antic__   
+__antics__ :four: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
+__antiquated__ :three::shit:  
+__antique__ _Antiques dealer._  
+__anvil__ _n_ :four::shit: (anvils)  
 __anything goes__  
 __apace__ _Concussion concerns continue apace._  
 __ape__ _v_  
-__aphorism__  
-__aphorism__  
+__aphorism__ :two::shit:  
 __aping__  
-__aplenty__  
-__aplomb__  
-__aplomb__ :two: _n_ Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
+__aplenty__   
+__aplomb__ _n_ :three: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ :open_mouth:  
 __apologist__  
