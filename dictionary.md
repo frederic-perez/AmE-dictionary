@@ -924,8 +924,7 @@ __beanie__ _n_ :camera::dart:
 __beanpole__  
 __beanstalks__  
 __bear__ _v_ :two::shit: _Second Amendment: The right of the people to keep and bear arms._  
-__bearing__ _It does not have a bearing on whether or not he will be our coach next year._  
-__bearings__ _n_  
+__bearing__ _n_ :three::shit: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
@@ -1026,7 +1025,7 @@ __belt out__
 __belted__ _v_ :three::shit: (belting) _An old woman belted out, "We are tired!"_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
-__bemoan__ _v_ :nine::shit: (bemoaned, bemoaning)  
+__bemoan__ _v_ :nine::m::shit: (bemoaned, bemoaning)  
 __bemused__ :two::shit:  
 __bench__ _Snow will dust the benches and valleys._  
 __benchmark__ :three::shit: _The price of benchmark West Texas Intermediate crude has dropped._  
@@ -2578,7 +2577,8 @@ __cruel__ _His body looked cruel._
 __crumb__ _Potato chip crumb._  
 __crumble__ _v_  
 __crumbled__  
-__crumbling__ _Crumbling sidewalk._  
+__crumbling<sup>1</sup>__ _adj_ _Crumbling sidewalk._  
+__crumbling<sup>2</sup>__ _v_  
 __crumbs__  
 __crumbs__   
 __crummy__ :two::shit: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
@@ -2878,9 +2878,7 @@ __desk blotter__ _n_ :six: See blotter.
 __despicable__  
 __despoiling__  
 __despondency__  
-__despondent__  
-__despondent__  
-__despondent__ _n_  
+__despondent__ _n_ :four::shit:  
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::shit:  
@@ -7473,8 +7471,7 @@ __plum trees__
 __plum wine__  
 __plum__ _n_ :three::shit: _Plum-and-onion stuffing._  
 __plumb__ _v_ :two::shit:  
-__plummeted__ _v_  
-__plummeting__  
+__plummeted__ _v_ :three::shit: (plummeting)  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_  
 __plums__ _n_ :two::shit:  
@@ -7686,7 +7683,7 @@ __pries__ _He pries your buttocks apart._
 __priestesses__ _n_  
 __prima facie__  
 __primacy__ _n_  
-__primal__ _adj_ _He let out a primal scream._  
+__primal__ _adj_ :two::shit: _He let out a primal scream._ _Primal feelings._  
 __prime-age__  
 __prime__ _Their master bedroom has a prime view of the green wall._  
 __primed__  
@@ -7750,7 +7747,7 @@ __proselytize__ :four::open_mouth::dart: Convert or attempt to convert (someone)
 __prospect__ _n_ (sports)  
 __prospectus__  
 __prostrate__ _v_  
-__protean__ :two::shit:  
+__protean__ :three::shit:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
@@ -8633,6 +8630,7 @@ __sandlot__
 __sandpits__ _n_  
 __sandstone__  
 __sandy-haired__  
+__sangfroid__  
 __sanguine__  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
@@ -9350,8 +9348,8 @@ __slovenly__ :two::shit:
 __slow-as-molases__  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
-__slug__ _v_ :three::shit: (slugs)  
 __slug__ _n_  
+__slug__ _v_ :three::shit: (slugs)  
 __sluice__ _v_ :six::shit: (sluiced, sluicing)  
 __slum__ (slums) :five::shit: _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum__ _v_  
