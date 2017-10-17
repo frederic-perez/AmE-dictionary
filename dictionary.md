@@ -1033,28 +1033,18 @@ __bender__ _His mother was on a bender._
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
 __benison__ _n_  
-__bent__ _Apple wasn't known for his altruistic bent._  
-__bent__ _n_  
+__bent__ _n_ :two::shit: _Apple wasn't known for his altruistic bent._  
 __bento__ Boxed meals.  
-__bequeathed__ _v_  
-__bequeathed__ _v_  
-__bequeathed__ _v_ :three::shit:  
+__bequeathed__ _v_ :five::shit:  
 __bequest__ _n_ :five::shit: _A dark bequest of Nazism._  
 __berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._  
-__berate__ _v_ _Sam's lawyer berated Dogan for half a day._  
-__berated__ _v_  
-__berated__ _v_  
-__berating__ _v_  
+__berate__ _v_ :four::shit: (berated, berating) _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_  
-__bereavement__  
-__bereavement__  
-__bereavement__ _n_ State of sorrow over the death or departure of a loved one.  
-__bereft__  
-__bereft__ :two::shit:  
+__bereavement__ _n_ :three::shit: State of sorrow over the death or departure of a loved one.  
+__bereft__ :three::shit:  
 __berm__ _n_  
 __berserk__ _adj_ :three: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
-__berserkers__  
-__berserkers__ _n_  
+__berserkers__ _n_ :two::shit:  
 __berth__ :three::shit: _Sho Sakai secured an Olympic berth._  
 __beseech__  
 __beseechingly__  
@@ -1458,10 +1448,8 @@ __bristles__ _n_
 __bristles__ _n_  
 __bristling__  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
-__brittle<sup>1</sup>__ _adj_ :eight: Something brittle is easily broken. Do you have brittle bones? Then no football or rugby for you. :es: frágil  
+__brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. Do you have brittle bones? Then no football or rugby for you. :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__brittle__  
-__brittle__  
 __broach__ _v_ (broached) :three::shit:  
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  
@@ -1584,11 +1572,7 @@ __buoy<sup>1</sup>__ _n_
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyant__ :four: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
-__burgeoning__  
-__burgeoning__  
-__burgeoning__  
-__burgeoning__  
-__burgeoning__  
+__burgeoning__ :five::shit:  
 __burgermeister__  
 __burgundy__  
 __burgundy__ _Burgundy outfit._  
@@ -1598,8 +1582,7 @@ __burlap__ _n_ :two::shit:
 __burly__  
 __burly__  
 __burly__  
-__burly__ :two::shit:  
-__burly__ :two::shit: _A burly man._  
+__burly__ :four::shit: _A burly man._  
 __burners__ (gas cooktop) :camera:  
 __burnish__ _v_ :six::shit: (burnishing)  
 __burp__ :two::shit:  
@@ -2215,9 +2198,7 @@ __come into play__ _Other factors inevitably come into play._
 __come of age__  
 __come to grips__  
 __come together__  
-__comely__  
-__comely__  
-__comely__ :two::shit: _A comely smile._  
+__comely__ :four::shit: _A comely smile._  
 __comeuppance__  
 __comforter sets__  
 __comforters__  
@@ -2958,8 +2939,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dis__ _n_ :two::shit:  
 __disaffected__ _adj_  
 __disallow__ _v_ :dart: _The goal was disallowed._  
-__disarray__  
-__disarray__ :three: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
+__disarray__ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disastrous__  
 __disavowed__ _v_  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
@@ -8231,12 +8211,10 @@ __repealing__
 __repeat__ _n_ :dart: _CBS is filling this spot with a_ Big Bang _repeat today._  
 __repeieve__  
 __repent__ _v_ :two::shit: (repented)  
-__repentance__  
-__repentance__  
+__repentance__ :two::shit:  
 __repercussion__ _n_ :dart:  
 __repertoire__  
-__reportedly__  
-__reportedly__ _Apparently his cellphone battery reportedly died._  
+__reportedly__ :two::shit: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
 __reprieve<sup>1</sup>__ :four: _n_ A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
@@ -9708,20 +9686,16 @@ __spray charts__
 __spree__  
 __sprig__ :three::shit: _A sprig of mint._  
 __sprigs__  
-__springboard__  
-__springboard__  
+__springboard__ :two::shit:  
 __springing__ _v_ _The T-birds are capabke of springing the upset._  
 __springring clasp__  
-__sprinkle__ _v_ :seven::shit: (sprinkled, sprinkling)  
-__sprinkled__  
-__sprinkled__ _v_  
+__sprinkle__ _v_ :nine::shit: (sprinkled, sprinkling)  
 __sprinkler__ :three: _n_ __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkles__ _v_  
 __sprinkling__ _A sprinkling of luck._  
 __sprouting__  
 __spruce up__ _v_ :three::shit: _Juliette spruces up her country look and sound._  
-__spruce__  
-__spruce__ _n_ :two::shit:  
+__spruce__ _n_ :three::shit:  
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spud-faced__ :camera:  
