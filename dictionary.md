@@ -7894,14 +7894,8 @@ __quavered__
 __quavering__  
 __quay__ _n_  
 __queasiness__ _There was queasiness among many residents._  
-__queasy__  
-__queasy__  
-__queasy__ :two: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
+__queasy__ :four: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
 __queer__ _v_  
-__quell__ _v_  
-__quell__ _v_  
-__quell__ _v_  
-__quell__ _v_  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quelled__ _v_  
 __quench__  
@@ -11138,20 +11132,13 @@ __up__ _v_ _We need to up our game._
 __upbeat__  
 __upbeat__ :two::shit: _An upbeat approach._ _He's extremely upbeat during down times._  
 __upcoming__  
-__updend__ _v_  
-__upend__ _v_  
-__upend__ _v_ :seven: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
-__upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
-__upended__ _v_  
-__upended__ _v_  
+__upend__ _v_ :nine::m_ (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
+__upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical   
 __upfield__  
-__upheaval__  
-__upheaval__ :four::shit:  
+__upheaval__ :five::shit:  
 __uphill battle__  
-__uphold__ _v_  
-__uphold__ _v_ :seven: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
-__upkeep__  
-__upkeep__ _n_ :two: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
+__uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
+__upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __upmarket__  
 __upped__ _v_  
 __uppercut__  
@@ -11160,12 +11147,10 @@ __uppers__
 __upping__ _v_ :two::shit:  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproot__ _v_  
-__upscale__  
-__upscale__ :four: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
+__upscale__ :five: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upset__ _n_ :two::shit: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
-__upshot__ _n_  
-__upshot__ _n_ :two::shit:  
+__upshot__ _n_ :three::shit:  
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstart__ _n_ :four::shit: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
