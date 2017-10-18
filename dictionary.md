@@ -1,7 +1,7 @@
 __"duh" department__ :open_mouth: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
 __#s__ :two::shit: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __(sic)__ _adverb_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
-__, so why [even] bother?__  
+__, so why (even) bother?__  
 __, to say the least.__  
 __-year-old__ _A 56-year-old retiree._  
 __105s__  
@@ -1064,24 +1064,18 @@ __bespoke__ :six::shit: _Bespoke clothing._
 __bespoke__ _v_  
 __best__ _v_  
 __bested__ _v_  
-__bestow__ _v_ :nine: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
-__bestowed__ _v_  
+__bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bethren__ _n_  
-__betray__ _v_  
-__betray__ _v_  
-__betrothed__  
-__betrothed__ _v_  
+__betray__ _v_ :two::shit:  
+__betrothed__ _v_ :two::shit:  
 __better known as__ _Miyazaki, better known as Aska._  
 __bettors__  
 __bevel__  
-__bevy__  
-__bevy__  
-__bevy__ :seven: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
+__bevy__ :nine: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :three::shit: _Midcalf silk dresses came with ruffled bibs and hems._  
-__bicker__ _v_  
-__bicker__ _v_ :five: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
+__bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bicyclist__  
 __bid farewell__  
 __bid rigging__  
@@ -1091,9 +1085,7 @@ __bidding__
 __bier__ _n_ :open_mouth:  
 __big brother__  
 __big cat__ :es: felino  
-__big deal__  
-__big deal__  
-__big deal__ :dart::five::shit: _It's not a big deal._ _Big deal._  
+__big deal__ :dart::seven::shit: _It's not a big deal._ _Big deal._  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big time__  
@@ -1121,14 +1113,12 @@ __birds of the same feather__
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::shit:  
 __bishop's benches__  
-__bitch__ _n_ (female dog?)  
-__bitch__ _n_ :es: perra  
+__bitch__ _n_ :two::shit: :es: perra  
 __bitingly__  
 __bivouac__ :open_mouth:  
 __biz__ _Hot biz model._  
 __biz__ _n_  
-__bizarre__  
-__bizarre__ _adj_ _The bizarre markings on the wagon._  
+__bizarre__ _adj_ :two::shit: _The bizarre markings on the wagon._  
 __black gold__  
 __black powder__  
 __black smoke__  
@@ -1983,24 +1973,16 @@ __choker__ _A velvet choker._
 __chomp__ _v_  
 __chomping__  
 __choppy__ (choppier) :three: (of a sea, lake, or river) Having many small waves. _Before the waters get choppier._ _Choppy waters._  
-__chops__ _Truly pro-level video chops._  
-__chops__ _n_ :two: _Informal_ A person's or animal's mouth or jaws. _Acting chops._  
-__chops__ _n_ _In six months inmates will have the coding chops to land work as entry-level Web developers._  
-__chops__ _n_ _Nichols honed his comedy chops._  
-__chops__ _n_ _Their songwriting chops._  
+__chops__ _n_ :six::shit: _Informal_ A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chortles__ _v_  
 __chuck out__ _v_  
-__chuck__ _v_ :three::shit: (chucked) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._  
-__chuck__ _v_ _When the quarterback chucks a pass with the game on the line._  
+__chuck__ _v_ :five::shit: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckholes__ _n_  
-__chucking__ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckle__ _v_  
 __chucklers__  
 __chug__ _v_ :three::shit: _A cocktail to chug._ _We're chugging along._  
-__chum__ :two::shit: _Fish chum._  
-__chum__ _Two college chums._  
+__chum__ :four::shit: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
 __chumps__ _n_  
-__chums__ _We're old school chums._  
 __churn out__ _v_  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
@@ -2521,7 +2503,7 @@ __crooked__ _Crooked media._
 __crooks__ _n_ _They carried long crooks._  
 __crop-duster__ _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
-__cross [oneself]__ :es: santiguarse  
+__cross (oneself)__ :es: santiguarse  
 __cross word__ _No one heard her say a cross word about anyone else._  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
 __cross__ _v_ _They paled and crossed themselves._  
@@ -3845,7 +3827,7 @@ __flintily__
 __flintlock__  
 __flintlocks__ _n_  
 __flinty__ _Flinty soil._  
-__flip [me] the bird__  
+__flip (me) the bird__  
 __flip the bird__  
 __flip-flops__  
 __flipper__  
@@ -7264,9 +7246,8 @@ __pie in the sky__ :two::shit:
 __piece of work__ _You're a piece of work, Bertrand._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
 __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
-__pied-à-terre__ _Use as pied-à-terre is allowed._  
+__pied-à-terre__ :two::shit: (pieds-à-terre) _Use as pied-à-terre is allowed._  
 __pied__  
-__pieds-à-terre__  
 __pietist__  
 __pig iron__ _n_ :three::shit: _Pigs of iron._  
 __pigboat__ _n_  
