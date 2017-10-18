@@ -1577,24 +1577,16 @@ __burgermeister__
 __burgundy__  
 __burgundy__ _Burgundy outfit._  
 __burkini__  
-__burlap__  
-__burlap__ _n_ :two::shit:  
-__burly__  
-__burly__  
-__burly__  
-__burly__ :four::shit: _A burly man._  
+__burlap__ _n_ :three::shit:  
+__burly__ :seven::shit: _A burly man._  
 __burners__ (gas cooktop) :camera:  
 __burnish__ _v_ :six::shit: (burnishing)  
 __burp__ :two::shit:  
 __burqa__  
 __burr haircut__  
 __burrhead__ _n_  
-__burrow<sup>1</sup>__ _n_ :two::shit:  
-__burrow<sup>2</sup>__ _v_  
-__burrow__  
-__burrow__ _v_  
-__burrow__ _v_  
-__burrows__  
+__burrow<sup>1</sup>__ _n_ :four::shit:  
+__burrow<sup>2</sup>__ _v_ :three::shit:  
 __burrs__ _n_  
 __burst__ _v_  
 __bursting__  
@@ -1603,19 +1595,15 @@ __business ties__
 __busker__  
 __busload__  
 __bust out__ _She clearly has something busting out._  
-__bust__ :two::shit: _n_ _A dusty bust of Shakespeare._  
-__bust__ _n_ _Painful housing busts._  
+__bust__ _n_ :three::shit: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bustiers__ _n_  
-__busting__ _All I can tell you is as a 49er, he's busting his tail on everything._  
-__busting__ _v_ _Busting out ideas._  
+__busting__ _v_ :two::shit: _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ _The bustle of daily life._  
-__bustling__  
-__bustling__ _adj_ :six::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
+__bustling__ _adj_ :seven::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
 __butcher paper__  
 __butt crust__  
-__butt out__ _v_  
-__butt out__ _v_  
+__butt out__ _v_ :two::shit:  
 __butt-fumble__  
 __butter cups__ _organic peanut butter cups._  
 __buttercups__  
@@ -7254,19 +7242,14 @@ __philanderer__
 __philandering__  
 __philtre__  
 __phlebotomy__  
-__phlegm__  
-__phlegm__  
-__phlegm__  
+__phlegm__ :three::shit:  
 __phlegmy__ :three::shit:  
 __photo-op__  
-__phylacteries__  
-__phylacteries__  
+__phylacteries__ :two::shit:  
 __piano wire__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick on__  
-__pick up__ :two::shit: _You could use it when picking up cards at the supermarket's kiosk._  
-__pick up__ _His turnover-prone play doesn't pick up._  
-__pick up__ _v_  
+__pick up__ _v_ :four::shit: _You could use it when picking up cards at the supermarket's kiosk._ _His turnover-prone play doesn't pick up._  
 __pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
@@ -7279,10 +7262,8 @@ __piddle__ _v_
 __piddling__ _He had killed several hours with footless piddling._  
 __pie in the sky__ :two::shit:  
 __piece of work__ _You're a piece of work, Bertrand._  
-__piecemeal<sup>1</sup>__ _adv_ :two: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
-__piecemeal<sup>2</sup>__ _adj_ :two:  Accomplished or made in stages. _A piecemeal approach._  
-__piecemeal__  
-__piecemeal__  
+__piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
+__piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
 __pied-à-terre__ _Use as pied-à-terre is allowed._  
 __pied__  
 __pieds-à-terre__  
@@ -8007,9 +7988,7 @@ __rat-fuck__ _v_
 __ratched__  
 __ratchet (something) up/down__ (ratched up) :six: _v_ To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __ratchet up__ _v_  
-__ratchet__  
-__ratchet__ _v_  
-__ratcheted__ _v_  
+__ratchet__ _v_ :three::shit: (ratcheted)  
 __ratchets__  
 __rattan couch__  
 __rattan__  
@@ -11128,8 +11107,7 @@ __upshot__ _n_ :three::shit:
 __upside__ :two::shit: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstart__ _n_ :four::shit: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
-__upswing__ _n_  
-__upswing__ _n_ :three: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
+__upswing__ _n_ :four: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__  
 __uptick__ _n_ :three::shit:  
 __uptight__ _v_  
@@ -11142,11 +11120,9 @@ __usher__
 __usury__
 __utes__ _n_ (cars?)  
 __utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
-__utmost__  
-__utmost__  
+__utmost__ :two::shit:  
 __utterance__  
-__utterly__  
-__utterly__  
+__utterly__ :two::shit:  
 __uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __vacant-eyed__  
 __vacant__ _Adam parked in a vacant spot._  
