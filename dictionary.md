@@ -4626,8 +4626,7 @@ __guzzle__ _v_
 __guzzler__ :two::shit: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
 __gym-rat__ _He's a gym-rat type of guy._  
-__gyrate__ _v_  
-__gyrate__ _v_  
+__gyrate__ _v_ :two::shit:  
 __ha!__ :two::shit:  
 __hack__ _v_ _Coughing and hacking while shuffling around._  
 __hackles__ _n_  
@@ -4636,9 +4635,7 @@ __hackneyed__
 __hacksaws__ _n_  
 __haemophilia__  
 __haft sin__  
-__haggard__  
-__haggard__  
-__haggard__  
+__haggard__ :three::shit:  
 __haggle__ _v_  
 __haggling__  
 __haggling__ _n_  
@@ -4679,8 +4676,7 @@ __hamper__ _v_
 __hampered__ _v_ :open_mouth:  
 __hamstring__ _n_ :two::shit:  
 __handily__  
-__handiwork__  
-__handiwork__  
+__handiwork__ :two::shit:  
 __handoff__  
 __handout__ (handouts) :two::shit:  
 __handouts__  
@@ -4690,38 +4686,26 @@ __hands-free__ (Especially of a telephone) Designed to be operated without using
 __hands-off__ _The hands-off approach._  
 __handyman__ :three::shit:  
 __hangnail__ :two::shit:  
-__hangout__ :two::shit:  
-__hangout__ _This was a hangout._  
+__hangout__ :three::shit: _This was a hangout._  
 __hank__   
 __hanker__ _v_ To have a strong, often restless desire.  
-__hankering__  
-__hankering__ :two: (hankerings) Craving.  
+__hankering__ :three: (hankerings) Craving.  
 __hankies__ _n_  
 __hanks__ :open_mouth: _Stringy hanks of blond hair._  
 __hanky-panky__  
 __hantavirus__  
-__haphazardly__  
-__haphazardly__  
-__hapless__  
-__hapless__  
-__hapless__  
-__hapless__ _Hapless sound._  
-__hapless__ _The Pentagon is hap)ess and helpless._  
-__hapless__ _adj_ :five: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.”  
+__haphazardly__ :two::shit:  
+__hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._  
 __haplessness__  
 __happy about it__ _I'm not entirely happpy about it._  
 __haps__ _n_ :two::shit: _What's the haps?_  
 __harangues__  
-__haranguing__  
-__haranguing__ _v_  
-__harbinger__  
-__harbinger__ _n_ :two::shit:  
-__hard ass__  
-__hard hat__ :two::shit: _Workers in hard hats._  
+__haranguing__ _v_ :two::shit:  
+__harbinger__ _n_ :three::shit:  
+__hard hat__ :three::shit: _Workers in hard hats._  
 __hard sell__  
 __hard-boiled egg__  
-__hard-core__ _Hard-core misogyny._  
-__hard-core__ _The department will take a hard-core look into keys._  
+__hard-core__ :two::shit: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
 __hard-line__ _A more hard-line position._  
 __hard-liners__ :two::shit:  
 __hard-nose__  
