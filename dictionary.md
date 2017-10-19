@@ -9438,20 +9438,11 @@ __snowplows__ _n_
 __snowshoeing__ :two::shit:  
 __snub-nosed__ :two::shit: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
-__snub<sup>2</sup>__ _n_ A deliberate slight or affront.  
-__snub__  
-__snub__  
-__snub__ _n_  
-__snub__ _n_  
+__snub<sup>2</sup>__ _n_ :four: A deliberate slight or affront.  
 __snubbed__ _Snubbed nose._  
-__snuff out__ _v_  
-__snuff__  
-__snuff__  
-__snuff__ _v_ _He quickly snuffed it out._  
-__snuffed out__ _v_ _Her life snuffed out at 41._  
-__snuffling__ _v_  
-__snug__  
-__snug__ _v__ :two::shit:  
+__snuff out__ _v_ :two::shit: (snuffed out) _Her life snuffed out at 41._  
+__snuff__ _v_ :four::shit: (snuffling) _He quickly snuffed it out._  
+__snug__ _v__ :three::shit:  
 __snuggles__  
 __snugly__ :two::shit:  
 __so much so__ _So much so that working with animals has become one of his passions._  
@@ -9472,8 +9463,7 @@ __soft bread__
 __soft-spoken__  
 __soften__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
-__soggy__  
-__soggy__ _adj_ :five: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
+__soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
 __soignée__  
 __soiled__  
 __sojourn__ _n_ :six::shit: _The phantasmagorical sojourn along the freeways of LA._   
@@ -9483,15 +9473,11 @@ __soldier of fortune__
 __soldiers__ _v_  
 __solemnize__ _v_  
 __solid gold__  
-__solid__ _It lasted a solid week._  
-__solid__ _It rained for a solid week._  
+__solid__ :dart::two::shit _It lasted a solid week._ _It rained for a solid week._  
 __solidify__ _v_  
 __soliloquy__  
-__solipsistic__  
-__solipsistic__ :three::shit:  
-__soloist__  
-__soloist__  
-__soloist__ _n_  
+__solipsistic__ :four::shit:  
+__soloist__ _n_ :three::shit:  
 __sombreros__  
 __someone's hair__ _He built the shop to get his hobby out of his wife's hair._  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
@@ -10878,12 +10864,9 @@ __turkey stock__ :camera:
 __turmoil__  
 __turning tables__ _Feds turning the tables on ssexual predators._  
 __turnip greens__  
-__turnip__  
-__turnip__  
-__turnip__ _n_  
+__turnip__ _n_ :three::shit:  
 __turnkey__  
-__turnout__  
-__turnout__ :two::shit: _The turnout rate._  
+__turnout__ :three::shit: _The turnout rate._  
 __turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ _:es: facturación, volumen de ventas_ __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
@@ -10893,9 +10876,7 @@ __turpentine__ _n_
 __turpitude__  
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
 __tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuffle.  
-__tussle__ _A trade tussle._  
-__tussle__ _n_  
-__tussles__ _Tusless with German lawmakers are nothing new for Facebook._  
+__tussle__ _n_ :three::shit: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussling__ _v_  
 __tut-tutting__  
 __tutelage__  
