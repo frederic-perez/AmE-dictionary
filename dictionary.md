@@ -1641,32 +1641,23 @@ __cabinet__ _A top cabinet job._
 __cabinetry__  
 __cable bookers__  
 __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,400 pairs of lines._  
-__caboose__ _n_  
-__caboose__ _n_ :camera: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
+__caboose__ _n_ :camera::two::shit: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :open_mouth: _Sporty cars haven't lost their cache._ (pronunciation?)  
 __cackle__  
-__cackling__  
-__cackling__ _v_  
+__cackling__ _v_ :two::shit:  
 __cacophony__ :two::shit:  
 __cacti__ _n_  
 __caddish__ :two::shit:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
-__cadre__ _A cadre of layers._  
-__cadre__ _n_ :four::shit: _The collectible cadre of brands._ _Party cadres._  
-__caftan__  
-__caftans__  
-__caftans__ _n_  
-__caftans__ _n_  
+__cadre__ _n_ :five::shit: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
+__caftan__ _n_ :four::shit: (caftans)  
 __cagey__ _adj_  
-__cajole__ (cajoling) :two::shit: _v_  
-__cajole__ _v_  
-__cajoled__ _v_  
+__cajole__ _v_ :four::shit: (cajoled, cajoling)  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
 __calf__ _n_  
-__calico__  
-__calico__ _A plain calico coat._  
+__calico__ :two::shit: _A plain calico coat._  
 __caliph__  
 __caliphate__  
 __calisthenics__  
@@ -1780,16 +1771,14 @@ __carping__ _v_
 __carpool__  
 __carpool__ _v_  
 __carrel__  
-__carrion__  
-__carrion__ _n_ :dart::three: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
+__carrion__ _n_ :dart::four: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry-on bag__  
 __carryout__ _A Chinese carryout._  
 __carryover__ _A carryover vehicle._  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
 __carted__ _v_  
-__cartel__ _n_  
-__cartel__ _n_ :two::shit:  
+__cartel__ _n_ :three::shit:  
 __carton__ _n_ :two::shit_ _A carton of eggs._ :camera: _A carton of milk._ :camera:  
 __carve out__ _v_ (carved out) :six::shit:  
 __carveouts__  
@@ -8261,15 +8250,11 @@ __rip your wiring out__
 __riparian__ _Riparian woodland._  
 __ripe-smelling__ _The ripe-smelling barn._  
 __ripe__  
-__ripe__ :adj: :seven: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
-__ripe__ _It was ripe for abuse._  
-__ripened__ _Ripened rice._  
-__ripened__ _adj_ Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._  
+__ripe__ :adj::eight: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
+__ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
 __riposte__ _n_ :three::shit: (ripostes)  
 __ripped__ _v_  
-__ripple__ _v_  
-__rippled__ _v_  
-__rippled__ _v_ :two::shit:  
+__ripple__ _v_ :four::shit: (rippled)  
 __rise__ _v_  
 __risers__  
 __risible__  
