@@ -2690,8 +2690,7 @@ __deadbeat__ _adj_ :three::shit: _A union deadbeat._
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __dean__ _n_ :three::shit: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__  Highly valued; greatly beloved; cherished; precious.  
-__dearth__  
-__dearth__ _n_ :dart::two::shit:  
+__dearth__ _n_ :dart::three::shit:  
 __deathless__  
 __debacle__  
 __debasing__ _v_  
@@ -2703,12 +2702,9 @@ __decaf__ Decaffeinated coffee.
 __decals__  
 __decamped__ _v_  
 __decant__ _v_  
-__decanter__  
-__decanter__ _n_  
+__decanter__ _n_ :two::shit:  
 __deck railing__  
-__deck__ Decorate?  
-__deck__ _v_  
-__deck__ _v_ _Those are just a few of the things that deck the halls of the raunchy comedy._  
+__deck__ _v_ :three::shit: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
 __decline__ _n_  
 __decommissioned__  
@@ -2718,10 +2714,8 @@ __deconstruct__ _v_
 __decorated__ :two::shit: _A decorated veteran._ _He is one of Seattle's most decorated chefs._  
 __decreed__ _v_  
 __decrepit__  
-__decry__ _v_  
-__decry__ _v_ :nine: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
-__deductible__ _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._  
-__deductibles__ :two::shit: _High deductibles hurt the health care plan._  
+__decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
+__deductible__ :three::shit: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
 __deep freezers__  
@@ -5583,12 +5577,11 @@ __knock__ _n_
 __knockout__ _adj_  
 __knockusing__  
 __knoll__ _n_ :three::shit:  
+__knoll__ _n_ A small hill or mound. _A grassy knoll._  
 __knotty__  
 __know better__ _But I knew better._  
-__knowll__ _n_ A small hill or mound. _A grassy knoll._  
 __knuckleball__ :two::shit:  
-__knuckler__  
-__knucklers__  
+__knuckler__ :two::shit: (knucklers)  
 __knurled__ _v_ :two::shit:  
 __koi__ _v_  
 __kook__ (kooky) :two::shit:  
@@ -5607,14 +5600,11 @@ __lackadaisical__
 __lackey__ _n_ :two::shit: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __lacquered__ _v_  
-__lacrosse games__  
-__lacrosse__  
-__lacrosse__ _A lacrosse team._  
+__lacrosse__ :three::shit: _A lacrosse team._ _Lacrosse games._  
 __lacy__ _Cypress trees that were lacy with new leaf._  
 __lad__ _n_  
-__laddie__  
-__laden__  
-__laden__ :two: _adj_ Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
+__laddie__   
+__laden__ _adj_ :three: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
 __lading__ _Checking bills of lading._  
 __ladyfinger cookies__  
 __lag__ :two::shit: _v_  
@@ -6077,10 +6067,8 @@ __mantle__ :three: An important role or responsibility that passes from one pers
 __mantle__ _v_  
 __mar__ _v_ :seven::open_mouth: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
-__marauder__  
-__marauder__  
-__marauding__  
-__marauding__ _adj_ (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
+__marauder__ :two::shit:  
+__marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
 __margarine__ _n_  
@@ -6365,25 +6353,20 @@ __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project 
 __moonshot__ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::shit:  
 __mooring__ _n_  
-__moot__  
-__moot__  
-__moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :three: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
-__mooted__  
-__mooted__ _A mooted rebellion._  
+__moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :five: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__mooted__ :two::shit: _A mooted rebellion._  
 __mope__ _v_  
 __moppet__ _A lovable moppet._  
 __mopping up__  
 __morasses__ _Morasses of salt._  
-__moratorium__  
-__moratorium__  
+__moratorium__ :two::shit:    
 __morcellator__  
 __morels__ _n_  
 __moribund__  
 __morning glory__  
 __morosely__  
 __morosely__  
-__morsel__  
-__morsel__  
+__morsel__ :two::shit:  
 __mortar shell__  
 __mortar__ _n_ :two::shit: _Militants fired mortar rounds._  
 __mortice__  
@@ -8234,32 +8217,19 @@ __rheumy__
 __rhinestone cowboy hat__  
 __rhyming__ :open_mouth:  
 __rib cage__ _Manning had an MRI on his rib cage._  
-__ribbed__  
-__ribbed__ _v_  
+__ribbed__ _v_ :two::shit:  
 __ribbing__ :two::shit:  
-__riches__  
-__riches__ _n_ :three: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
+__riches__ _n_ :four: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
-__rickety__  
-__rickety__  
-__rickety__  
-__rickety__  
-__rickety__  
-__rickety__ _Rickety chair._  
+__rickety__ :six::shit: _Rickety chair._  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
-__ricochet__  
-__ricochet__ _v_  
+__ricochet__ _v_ :two::shit:  
 __riddance__ :three::shit:  
 __riddle<sup>1</sup>__ _n_ :three::shit: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
-__riddle<sup>2</sup>__ _v_ (riddled) :two::shit: _Chinese society is riddled with contradictions._  
-__riddled__ _v_  
-__riddled__ _v_  
-__riddling__  
-__ridership__  
-__ridership__  
-__rife__  
-__rife__ _adj_ :nine: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
+__riddle<sup>2</sup>__ _v_ :five::shit: (riddled, riddling) _Chinese society is riddled with contradictions._  
+__ridership__ :two::shit:  
+__rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff__ _n_  
 __riffing__ _v_  
 __riffle__ _v_ (riffled) :two::shit: _Annabeth riffled the medicine cabinet for the toothpaste._  
@@ -8267,10 +8237,7 @@ __riffraff__
 __riffs__  
 __riffs__ _v_  
 __rifle__ _v_  
-__rift__ _n_  
-__rift__ _n_ :eight::shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._  
-__rifts__ _Rifts reopen after friendly trade summit._  
-__rifts__ _n_  
+__rift__ _n_ :nine::m::shit: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
 __right__ :two::dart::shit: _Exactly right._ _Absolutely right._  
 __righteous__  
