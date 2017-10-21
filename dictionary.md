@@ -1663,10 +1663,7 @@ __caliphate__
 __calisthenics__  
 __call for__  
 __call on someone__ _He called on me._  
-__call out__ _It was real weird to have someone call you out._  
-__call out__ _The National Guard was called out when the governor declared a state of emergency._  
-__call out__ _v_ :three: __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __2__  Challenge to a duel. _Aaron Burr called out Alexander Hamilton._  
-__call someone out__ :two::shit:  
+__call out__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon someone__ _It's nice when they call upon you and you're able to go out there and show them._  
@@ -6656,16 +6653,10 @@ __obit__ :two::shit:
 __obituaries__  
 __obituary__  
 __oblate__ _n_  
-__oblige__  
-__oblige__ _v_ :five: (obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
-__obliged__  
-__obliges__ _v_  
-__obligue__ _v_  
+__oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
-__oblivious__  
-__oblivious__  
-__obnoxious__  
-__obnoxious__ :two::shit:  
+__oblivious__ :two::shit:  
+__obnoxious__ :three::shit:  
 __obo__ :two: (abbreviation) Or best offer.  
 __obsequious__  
 __obsidian__  
@@ -10030,27 +10021,20 @@ __sublet__ _v_ :three::shit: (subletting) :es: subalquilado?
 __sublimate__ _v_  
 __subpoena__ :four::shit:  
 __subpoenaed__ _v_  
-__subsequent__  
-__subsequent__ _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
-__subsequently__   
-__subsequently__ :dart:  
-__subside__ _v_  
-__subside__ _v_ :two::shit: (subsided)  
-__subsided__ _v_ _My headache has subsided._  
+__subsequent__ :two::shit: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
+__subsequently__ :dart::two::shit:  
+__subside__ _v_ :dart::four::shit: (subsided) _My headache has subsided._  
 __subsidy__  
 __substation__  
-__subsumed__ _v_  
-__subsumed__ _v_  
+__subsumed__ _v_ :two::shit:  
 __subterfuge__  
 __subtle__ :es: sutil  
 __suburbanites__ _n_  
 __suburbs__  
 __succinctly__ :open_mouth:  
 __succint__  
-__succor__  
-__succor__ :two::shit:  
-__succubus__  
-__succubus__ _n_ :two::shit:  
+__succor__ :three::shit:  
+__succubus__ _n_ :three::shit:  
 __succumb__ :open_mouth:  
 __such-and-such__  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
