@@ -1134,13 +1134,9 @@ __blackout__ _Blackout dates._
 __blackpool__  
 __blah story__  
 __blanched__ _v_  
-__bland__  
-__bland__ _adj_ :five: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2__ __a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
+__bland__ _adj_ :six: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2__ __a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blanket__ :two::shit: _The security blanket._  
-__blanketed__ _v_  
-__blanketed__ _v_  
-__blanketed__ _v_  
-__blanketed__ _v_ (blanketing) :two::shit:  
+__blanketed__ _v_ :five::shit: (blanketing)  
 __blasé__  
 __blatant__  
 __blather__  
@@ -1148,27 +1144,19 @@ __blaze of glory__
 __bleached blonde hair__  
 __bleached__ _Warm waters bleached the coral._  
 __bleaching__ :two::shit: _Steven called the bleaching a tragedy._  
-__bleak__  
-__bleak__  
-__bleak__ _Bleak areas._  
-__bleak__ _This bleak and hostile environment._  
-__bleak__ _adj_ __1__ :six: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: (of the weather) Cold and miserable. _A bleak midwinter's day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry   
+__bleak__ _adj_ __1__ :nine::m: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _This bleak and hostile environment._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: (of the weather) Cold and miserable. _A bleak midwinter's day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry   
 __bleakness__  
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleary__ :three::shit:  
 __bleated__ _v_ :three::shit: (bleating) _His walkie-talkie bleated._  
-__bleating__  
-__bleating__ _n_ _The bleating of a few sheep._  
+__bleating__ _n_ :Two::shit: _The bleating of a few sheep._  
 __bled__ _v_  
 __bleed blue__  
 __bleeding heart__ _A radical Jewish lawyer with a beard and a bleeding heart._  
-__blemish__  
-__blemish__ _n_  
-__blemishes__ _n_ :two::shit:  
+__blemish__ _n_ :four::shit: (blemishes)  
 __blends__ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :two::shit:  
-__blight<sup>2</sup>__ _v_ (blighted)  
-__blight__ _v_  
+__blight<sup>2</sup>__ _v_ :two::shit: (blighted)  
 __blimp__ :two::shit: _A blimp hangar._  
 __blind date__  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
@@ -1176,13 +1164,9 @@ __blindside<sup>2</sup>__ _v_ To catch off guard; to take by surprise.
 __bling__  
 __bling__ _n_ :two::shit:  
 __blink__ _v_ _There is no reason to blink._  
-__blip__  
-__blip__ :two::shit: _Fun cars are a blip._  
-__blithe__  
-__blithe__ :four::shit:  
-__blithely__  
-__blithely__  
-__blithely__  
+__blip__ :three::shit: _Fun cars are a blip._  
+__blithe__ :five::shit:  
+__blithely__ :three::shit:  
 __blitheness__  
 __blither__  
 __blithering__  
@@ -1197,16 +1181,14 @@ __bloop__
 __blooper__ _n_ :dart: Informal A clumsy mistake, especially one made in public; a faux pas.
 __blotched__ _v_  
 __blotches__ _n_  
-__blotter__  
-__blotter__ _n_ __1__ :four: Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
+__blotter__ _n_ :five: __1__ Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
 __blotting__ _v_  
 __bloviate__ _v_  
 __blow it off__  
 __blowflies__ _n_  
 __blowgun__ _n_  
 __blown call__  
-__blowout__  
-__blowout__ :five::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+__blowout__ :six::shit: _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowouts__  
 __blowsy__  
 __blowtorch__  
