@@ -883,17 +883,14 @@ __barrel__ _v_ :two::shit: _A truck barreled down the road._ _Callous barreling 
 __barren__  
 __barrette__ :two::shit:  
 __barring__ _v_ :two::shit:  
-__barter__ _v_  
-__bartered__  
+__barter__ _v_ :two::shit: (bartered)  
 __base__ _This film is base, moronic, insulting, and vulgar._  
 __basement__  
-__bash__ _A company anniversary bash._  
-__bash__ _A pre-movie bash of magical proportions._  
+__bash__ :two::shit: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __basin__  
 __basing__  
 __basket case__  
-__bass__ (fish)  
-__bass__ _Fingerling bass._  
+__bass__ :two::shit: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::shit: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
 __bastion__ _n_ :three::shit: _He tried to soften the National Front's image as a bastion of xenophobes._  
@@ -915,8 +912,8 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
-__beam__ _A wooden beam._  
-__beam__ _v_ To smile radiantly or happily.  
+__beam<sup>1</sup>__ _n_ _A wooden beam._  
+__beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
 __bean bag chair__  
 __bean__ _v_ _She beans him with a decanter._  
@@ -7750,15 +7747,12 @@ __quelled__ _v_
 __quench__  
 __quenched__ _v_  
 __quenches__ _v_  
-__querulous__  
-__querulous__  
+__querulous__ :two::shit:  
 __quibble__ _v_  
 __quibbled__ (quibbling) :two::shit: _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
-__quickening__  
-__quickening__ _He felt a quickening within him._  
-__quicksand__  
-__quicksand__ _I've just signed a quicksand employment contract._  
+__quickening__ :two::shit: _He felt a quickening within him._  
+__quicksand__ :two::shit: _I've just signed a quicksand employment contract._  
 __quicksilver__  
 __quid pro quo__ _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quill__ _n_  
@@ -7776,8 +7770,7 @@ __quixotic__
 __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __rabble-rouser__  
 __rabble__ _n_ :four::shit: _They were once considered rabble-rousers._  
-__rabies__ :open_mouth: _A wild groundhog found at The Maryland Zoo had rabies._  
-__rabies__ _A squirrel with rabies._  
+__rabies__ :open_mouth::two::shit: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
 __raccooned__ _v_  
 __raccoons__  
 __racetrack__ _Racetrack cars._  
@@ -7799,13 +7792,10 @@ __raffle<sup>2</sup>__ _v_ (raffling)
 __raft__ _n_ :three: A large collection or quantity. _A raft of reforms._  
 __rage__ _n_  
 __raged__ _v_  
-__ragtag__  
-__ragtag__ _A ragtag group._  
-__rail__ _She is elegantly rail thin._  
-__rail__ _v_ _He is railing against Medicaid._  
-__railed__ _v_  
-__raiment__  
-__raiment__ _n_  
+__ragtag__ :two::shit: _A ragtag group._  
+__rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
+__rail<sup>2</sup>__ _v_ :two::shit: (railed) _He is railing against Medicaid._  
+__raiment__ _n_ :two::shit:  
 __rain slickers__ _n_  
 __rainbow pass__ _football_  
 __rainmaker__  
