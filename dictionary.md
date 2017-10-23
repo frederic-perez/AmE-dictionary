@@ -2901,30 +2901,23 @@ __disinfectant__ :open_mouth: _n_ An agent, such as heat, radiation, or a chemic
 __disingenuousness__  
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
-__dismal__  
-__dismal__ _adj_ :four: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
+__dismal__ _adj_ :five: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._  _Syn_ dark and drepressing, gloomy, somber  
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _Healthy young adults often are dismissive of health issues._  
-__disparage__ _v_  
-__disparage__ _v_  
-__disparaged__ _v_  
+__disparage__ _v_ :five::shit: (disparaged, disparaging)  
 __disparagement__ :two::shit:  
-__disparaging__ :two::shit:  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::shit:  
-__dispel__ _v_  
-__dispel__ _v_ :four::shit: (dispelled)  
-__dispirited__  
-__dispirited__ _v_ :two::shit:  
+__dispel__ _v_ :five::shit: (dispelled)  
+__dispirited__ _v_ :three::shit:  
 __dispiriting__ _Dispiriting results._  
 __disposable__ _adj_ _A disposable lighter._  
 __disquiet__  
 __disquisitition__ :open_mouth:  
 __disrupt__  
 __dissatisfaction__ :two::shit:  
-__dissatisfied__ _v_  
-__dissatisfy__ _v_  
+__dissatisfy__ _v_ :two::shit: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissension__  
 __dissent__ _n_ :two::shit:  
@@ -2935,9 +2928,7 @@ __dissipation__
 __dissolution__  
 __dissuade__ _v_ :open_mouth:  
 __dissuaded__  
-__distemper__ _An outbreak of canine distemper has killed a 12-year-old tiger._  
-__distemper__ _n_  
-__distemper__ _n_  
+__distemper__ _n_ :three::shit: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__  
 __distinctly__  
 __distraught__  
@@ -5506,18 +5497,13 @@ __kinks__
 __kinks__ _I was getting the kinks out._  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
-__kiosk__ _Automated Passport Control kiosks._ :camera:  
-__kiosk__ _Target's in-store registry kiosks._ :camera:  
-__kirtle__  
-__kirtle__ _n_  
-__kirtle__ _n_  
-__kirtle__ _n_  
-__kirtles__  
+__kiosk__ _n_ :camera::two::shit: _Automated Passport Control kiosks._ _Target's in-store registry kiosks._  
+__kirtle__ _n_ :five::shit: (kirtles)  
 __kischy__  
 __kismet__ _n_ :two: Fate, fortune.  
 __kiss-and-tell__ _Kiss-and-tell narratives._  
 __kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
-__kites__ _n_ (bird?)  
+__kites__ _n_  
 __kith and kin__ _To identify kith and kin._  
 __kitsch__  
 __kleptocracy__  
@@ -5525,20 +5511,12 @@ __klutz__
 __knack__ _n_  
 __knave__  
 __knavish__  
-__kneaded__ _v_  
-__kneaded__ _v_  
-__kneading__ _v_ :three::shit:  
-__knee-jerk hawk__  
-__knee-jerk reaction__  
-__knee-jerk response__  
-__knee-jerk__  
+__kneaded__ _v_ :five::shit: (kneading)  
+__knee-jerk hawk__ :four::shit: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
-__knell__  
-__knell__  
-__knell__ _n_  
+__knell__ _n_ :three::shit:  
 __knit tie__  
-__knit__  
-__knit__ _v_ To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
+__knit__ _v_ :two: To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
 __knock-knock joke__  
 __knock__ _n_  
