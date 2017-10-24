@@ -2074,34 +2074,26 @@ __clutch player__
 __clutch<sup>1</sup>__ _n_ :two::shit: _He was a dominant player in the clutch._ _Clutches for iPhone._  
 __clutch<sup>2</sup>__ _v_ :two::shit: _Butler and Wade were both clutch._  
 __clutching__  
-__clyster__  
-__clysters__ _n_  
-__co-op__ :five::shit: _The co-op received loans of $73 million._ _Co-op spokeswoman._  
-__co-op__ :three::shit:  
-__co-op__ _n_  
+__clyster__ _n_ :two::shit: (clysters)  
+__co-op__ _n_ :nine::shit: _The co-op received loans of $73 million._ _Co-op spokeswoman._  
 __co-opted__ _v_  
 __coach cabin__ _A standard coach cabin._  
 __coach__ _You're flying coach._  
-__coalesce__ _v_ (coalescing) :es: fundirse  
-__coalesce__ _v_ :two::shit:  
+__coalesce__ _v_ :open_mouth::three::shit: (coalescing) :es: fundirse
 __coaster brakes__  
 __coat of arms__ :three::shit: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coattails__ _n_ :three::shit: _I think we're going to be riding his coattails a little bit._  
-__cobweb__ :two::shit:  
-__cobwebs__  
-__cobwebs__  
+__cobweb__ :four::shit: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
 __coda__ _n_  
-__coddled__  
 __coddled__ _A coddled creature._  
-__coddled__ _v_  
+__coddled__ _v_ :two::shit:  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerced__  
 __coffee-table book__  
-__coffers__ _n_  
-__coffers__ _n_ :four::shit: _San Francisco city coffers._ _State's coffers._  
+__coffers__ _n_ :five::shit: _San Francisco city coffers._ _State's coffers._  
 __cog__ _n_ :six: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cognizant__  
 __cohesive__  
@@ -2274,24 +2266,18 @@ __convened__ _v_
 __convenience store__  
 __convivial__ :two::shit:  
 __conwise__  
-__coo__ _v_  
-__coo__ _v_ :four: (cooed) __1__ (of a pigeon or dove) Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ (of a person) Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
-__cooed__  
+__coo__ _v_ :six: (cooed) __1__ (of a pigeon or dove) Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ (of a person) Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook-off__  
-__cooktop__  
-__cooktop__ :three::shit: _Ceramic/Electric/Gas cooktop._  
+__cooktop__ :foor::shit: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
-__coonass__  
-__coonasses__  
+__coonass__ :two::shit: (coonasses)  
 __coop__ _To fly the coop._  
 __cooper__ _n_ :open_mouth:  
 __coops__ _Chicken coops._  
 __coos__ _v_  
 __cooze__ _n_ :two::shit:  
-__cop out__  
-__cop out__  
-__cop out__ Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop out__ :three: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __copacetic__ _adj_ :five: _informal_ In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
 __cope__ _A grey cope._  
@@ -3422,8 +3408,7 @@ __eviscerate__ _v_
 __ewer__ _n_  
 __ewes__ _n_  
 __exacerbate__ _v_ (exacerbated, exacerbating) :four: Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
-__exact__ _v_  
-__exact__ _v_ :six: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
+__exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceedingly__  
 __excess__ :two::shit: _He's raised or spent in excess of $5,000 on political activity._  
 __excise__ :two::shit: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
@@ -4696,37 +4681,22 @@ __hasten__ _v_
 __hastily__ _A hastily arranged news conference._  
 __hasty__ :two::shit:  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
-__hatch<sup>2</sup>__ _v_ (hatched) :two::shit: _Hatching tech secrets._  
+__hatch<sup>2</sup>__ _v_ :five::shit: (hatches, hatched) _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
-__hatched__ _v_  
-__hatched__ _v_ _The Play hatched plans at picnics._  
 __hatchery__ _A fish hatchery._  
-__hatches__ _v_  
 __hatchet__  
-__haughty__  
-__haughty__ :three::shit: _Oscar votters are as haughty as the critics._  
+__haughty__ :four::shit: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
-__haul<sup>2</sup>__ _v_  
-__haul__ _v_ :two::shit: _Jacob and Davis each hauled in 10 passes._  
-__haunch__ _n_ :six::shit: (haunches)  
-__haunches__ _n_  
-__haunches__ _n_  
-__haunches__ _n_  
-__haunches__ _n_ _Haunches of antelope._  
+__haul<sup>2</sup>__ _v_ :three::shit: _Jacob and Davis each hauled in 10 passes._  
+__haunch__ _n_ :nine::m::shit: (haunches) _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
 __havoc__
 __hawing__  
-__hawk__ _v_  
-__hawk__ _v_ _Vendors hawk greeting cards and inexpensive artwork._  
-__hawk__ _v_ __2__ To clear or attempt to clear the throat by or as if by coughing up phlegm.  
-__hawked__ _v_  
-__hawked__ _v_  
-__hawkish__  
-__hawkish__  
-__hawkish__ :four::shit: _Hawkish views._ _Hawkish national security team._  
+__hawk__ _v_ :six::shit: (hawked) _Vendors hawk greeting cards and inexpensive artwork._ __2__ To clear or attempt to clear the throat by or as if by coughing up phlegm.  
+__hawkish__ :six::shit: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
@@ -5888,12 +5858,9 @@ __lug wrench__ :two::shit:
 __lug__ _v_ :three::shit:  
 __luge__ _Olimpic luge team._  
 __luger__ _Team USA's best lugers._  
-__lugging__  
-__lugging__ _v_ :two::shit:  
-__lull__  
-__lull__ (lulls) :two::shit: _n_  
-__lull__ _n_  
-__lull__ _v_  
+__lugging__ _v_ :three::shit:  
+__lull<sup>1</sup>__ _n_ :three::shit: (lulls)  
+__lull<sup>2</sup>__ _v_  
 __lumber<sup>1</sup>__ _v_ :three::shit: _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ _A shopper checks out with her lumber._  
 __lumber__ _Lumber & home improvement._  
@@ -9228,18 +9195,8 @@ __smothering__
 __smouldering__  
 __smudge__  
 __smudges__  
-__smug__  
-__smug__  
-__smug__ _He was sort of smug about it._  
-__smug__ _Pour yourself a whiskey and feel smug about your incredible preparedness._  
-__smug__ _adj_  
-__smug__ _adj_ :three::shit: _Smug belief._ _Their smug belief in some form of American exceptionalism._  
-__smugly__  
-__smugly__  
-__smugly__  
-__smugly__  
-__smugly__  
-__smugly__ _To laugh smugly._  
+__smug__ _adj_ :eight::shit: _Smug belief._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
+__smugly__ :six::shit: _To laugh smugly._  
 __smugness__  
 __smut__ _They want to report smut._  
 __snafus__  
@@ -11001,13 +10958,10 @@ __velvet rose__ :camera:
 __venal__  
 __venality__  
 __vendor__ _n_ :two::shit:  
-__veneer__ _n_ :four::shit:  
-__veneers__  
+__veneer__ _n_ :five::shit: (veneers)  
 __venial__ _adj_  
-__venison__  
-__venison__ _n_  
-__venom__  
-__venom__  
+__venison__ _n_ :two::shit:  
+__venom__ :two::shit:  
 __venomous__  
 __venomous__ _adj_  
 __ventilator__ :open_mouth: _med_  
