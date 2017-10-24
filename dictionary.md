@@ -1436,14 +1436,11 @@ __bronco__ _n_ :camera:
 __broncobusting__  
 __brood__ _n_  
 __brooder house__  
-__brooding__  
-__brooding__  
-__brooding__ _adj, n_ :five: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
+__brooding__ _adj, n_ :seven: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brook__ _v_  
 __broth__  
 __brothers in arms__  
-__brouhaha__  
-__brouhaha__ :two::shit:  
+__brouhaha__ :three::shit:  
 __brownstones__ _n_  
 __bruin__  
 __bruited__  
@@ -1456,18 +1453,11 @@ __bubbly__ _Bubbly breatlessness._
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__  
-__buck__ _v_  
-__buck__ _v_ :eight::shit: (bucked, bucking) _Most of the men have never ridden a bucking animal._ _The Seahawks have history to buck._ _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._  
-__bucked__ _v_  
-__bucked__ _v_ _A wagon was overturned as horses bucked and shied._  
-__bucked__ _v_ _Many officers bucked the chain of command._  
+__buck__ _v_ :nine::m::shit: (bucked, bucking) _Most of the men have never ridden a bucking animal._ _The Seahawks have history to buck._ _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _A wagon was overturned as horses bucked and shied._ _Many officers bucked the chain of command._  
 __buckeyes__  
 __buckle down (to something)__ _v_ :two: _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::shit: _Bucking up a seat belt._  
-__buckle__ _My knees buckle with fright._  
-__buckle__ _v_  
-__buckle__ _v_  
-__buckle__ _v_ :eight: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _Syn_ warp, bend  
+__buckle__ _v_ :nine::m: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::shit:  
 __buckskins__  
 __buckwheats__  
@@ -1478,9 +1468,7 @@ __budged__
 __buff<sup>1</sup>__ _n_ :six: _informal_ One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj_ :three: _informal_ (of a person or their body) in good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::shit: (buffed) _Joel placed the award on his piano and buffed it._  
-__buffet__ _v_ :three::shit: (buffeted)  
-__buffeted__ _The country has been buffeted by civil unrest._  
-__buffeted__ _v_  
+__buffet__ _v_ :five::shit: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
@@ -1492,8 +1480,7 @@ __bugles__ _n_ :three::shit: _The echo of Chinese bugles._
 __bugout__  
 __build a future__ :es: labrarse un futuro  
 __buildup play__  
-__buildup__ _n_  
-__buildup__ _n_  
+__buildup__ _n_ :two::shit:  
 __bulk up__ _v_  
 __bulk__  
 __bulkhead__ _n_ :four::shit: _The bulkhead door._  
@@ -1504,19 +1491,11 @@ __bullhorn__ :two::shit:
 __bullion__  
 __bullpen__ _n_  
 __bullwhip__  
-__bultwark__  
-__bulwark__  
-__bulwark__ _n_  
-__bulwark__ _n_ :six::shit: _Acting as a bulwark against mass deportations._  
-__bum deal__  
-__bum<sup>1</sup>__ _A bum foot._  
-__bum<sup>2</sup>__ _v_  
-__bum__ _A bum knee._  
-__bum__ _v_  
+__bulwark__ _n_ :nine::shit: _Acting as a bulwark against mass deportations._  
+__bum<sup>1</sup>__ :three::shit: _A bum foot._ _A bum deal._ _A bum knee._  
+__bum<sup>2</sup>__ _v_ :two::shit:  
 __bumblebees__  
-__bumbling__  
-__bumbling__  
-__bumbling__ _v_ :six::shit:  
+__bumbling__ _v_ :eight::shit:  
 __bumper__  
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
