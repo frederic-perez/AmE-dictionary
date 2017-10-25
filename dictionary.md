@@ -3563,17 +3563,11 @@ __ferret out__ _v_
 __ferret-faced__  
 __ferret__ :two::shit: _n_  
 __ferreting out__ _v_  
-__fester__  
-__fester__ _v_  
-__fester__ _v_ :three::shit: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
+__fester__ _v_ :five::shit: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festered__ _v_ :es: ulcerarse  
-__festering__  
-__festering__ _n_  
-__festooned__ _v_  
-__festooned__ _v_ :seven::shit: _His podium was festooned with a sign._  
-__feted__ _v_  
-__feted__ _v_  
-__feted__ _v_ :two::shit:  
+__festering__ _n_ :two::shit:  
+__festooned__ _v_ :eight::shit: _His podium was festooned with a sign._  
+__feted__ _v_ :four::shit:  
 __fettered__ _v_  
 __feud__  
 __feud__ :two::shit:  
@@ -3583,13 +3577,10 @@ __fiberglass__
 __fickle__ :two::shit: _A fickle ally._  
 __fiddle-faddle__  
 __fiddled__ _v_  
-__fidget__ _v_  
-__fidget__ _v_  
-__fidget__ _v_  
+__fidget__ _v_ :three::shit:  
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
-__fief__  
-__fief__ _His personal fief._  
+__fief__ :two::shit: _His personal fief._  
 __fiefdom__  
 __field__ _v_ (fielded, fielding) __1__ :two: _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ :two: Send out (a team or individual) to play in a game. __3__ :three: Answer adequately or successfully. _To field questions._ _Fielding emails._  
 __fierce__  
@@ -3661,39 +3652,28 @@ __fizzled__
 __fizzled__ _v_  
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
 __flag-stop service__  
-__flag__ :two::shit: _v_  
-__flag__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
-__flagged__ _v_  
-__flagged__ _v_ _His appetite had flagged._  
-__flagon__ _A flagon of ale._  
-__flagon__ _A flagon of wine._  
-__flagons__ _n_  
+__flag<sup>1</sup>__ _v_ :two::shit:  
+__flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
+__flagged__ _v_ :two::shit: _His appetite had flagged._  
+__flagon__ _n_ :three::shit: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _A flagrant foul._  
 __flagship__  
 __flagstaff__  
 __flagstone__ _Flagstone terraces._  
 __flah point__  
-__flail__ _v_  
-__flail__ _v_ :three::shit: (flailed, flailing)  
-__flailed__ _v_  
-__flair__  
-__flair__  
-__flair__  
-__flair__ :six: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
+__flail__ _v_ :five::shit: (flailed, flailing)  
+__flair__ :nine: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flak vest__  
-__flak__ _n_  
-__flak__ _n_ :five: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
+__flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flaky__  
 __flamboyant__ :three::shit:  
 __flameouts__  
 __flaming hair__  
 __flanker__ (soccer position)  
-__flap__  
-__flap__ _There have been flaps over allowing scouts in press boxes._  
+__flap__ :two::shit: _There have been flaps over allowing scouts in press boxes._  
 __flapjack__ _n_  
 __flaps__ _The sound of paper flaps on bicycle spokes._  
-__flare-up__  
-__flare-ups__  
+__flare-up__ :two::shit: (flare-ups)  
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ :two::shit: _The injury flared._  
 __flash point__ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
@@ -3775,16 +3755,9 @@ __florets__ _Your dinner is two florets of broccoli._
 __florid__  
 __flotilla__  
 __flotsam__  
-__flounder__ _v_  
-__flounder__ _v_  
-__flounder__ _v_ :four::shit: (floundering)  
-__floundering__ _v_ _Floundering in and out of deep pools._  
-__flourish__  
-__flourish__ _A flourish of drums and cymbals._  
-__flourish__ _n_ :open_mouth::camera:  
-__flout__  
-__flout__ _v_  
-__flout__ _v_ :eight: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
+__flounder__ _v_ :seven::shit: (floundering) _Floundering in and out of deep pools._  
+__flourish__ _n_ :three::shit::open_mouth::camera: _A flourish of drums and cymbals._  
+__flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
 __flow__ _Three people in flowing black robes._  
 __flown__ _v_  _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
@@ -3796,8 +3769,7 @@ __fluke__ :seven: An unlikely chance occurrence, especially a surprising piece o
 __flummox__ _v_ :three::shit: (flummoxed)  
 __flung__ _v_ :two::shit:  
 __flunk__  
-__flunkie__  
-__flunkie__ _You"re just another flunkie for the state._  
+__flunkie__ :two::shit: _You"re just another flunkie for the state._  
 __flunkies__  
 __flunky__  
 __flurry > in a flurry__  
@@ -4209,11 +4181,8 @@ __gingerly__ :three::shit: _Walking gingerly behind the pack._
 __gingham__  
 __ginning__  
 __gins__ _He passed cotton gins._  
-__gird__ _v_  
-__gird__ _v_  
-__girded__  
-__girded__ _v_  
-__girded__ _v_  
+__gird__ _v_ :two::shit:  
+__girded__ _v_ :three::shit:  
 __girders__ _n_ :two::shit:  
 __girding__  
 __girds__ _v_  
@@ -4233,9 +4202,7 @@ __glinting__ _v_
 __glitz__  
 __glitzy__  
 __gloaming__  
-__gloat__ :two::shit: _I could not gloat._  
-__gloat__ _v_  
-__gloating__  
+__gloat__ _v_ :three::shit: (gloating) _I could not gloat._  
 __glob__ _n_ :four::shit: _A glob of spit._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __gloom__ _n_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
