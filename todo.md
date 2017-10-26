@@ -14,3 +14,9 @@ __meat grinder__
 __ounce__  
 __parse__ _v_  
 __Serenity Prayer__  
+
+__quivering__  
+__flinch__ _v_ :two::shit:  
+__flummox__  
+__flabbergasted__  
+__quid pro quo__  
