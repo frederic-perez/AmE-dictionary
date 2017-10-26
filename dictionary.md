@@ -295,6 +295,7 @@ __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting u
 __Scrooge__  
 __Semper fi__ :two::shit:  
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
+__Serenity Prayer__  
 __Seven Dwarf status__ 
 __Sikh__  
 __Silver State__ Nevada.  
@@ -468,9 +469,10 @@ __afterward__
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
 __agency__ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
+__agendum__  
 __aggravate__ (aggravated) :two::shit: _v_  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
-__aghast__ :two::shit:  
+__aghast__ :three::shit:  
 __agit__  
 __agonistic__ :open_mouth: _adj_ Striving to overcome in argument.  
 __agrarian__  
@@ -914,6 +916,7 @@ __bean__ _v_ _She beans him with a decanter._
 __beanie__ _n_ :camera::dart:  
 __beanpole__  
 __beanstalks__  
+__bear down__ _v_  
 __bear__ _v_ :two::shit: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _n_ :three::shit: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
@@ -2018,6 +2021,7 @@ __clock__ _v_ _He was clocked at 95 mph in a 55-mph construction zone._
 __clod__ :three::shit: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __clod__ _n_  
 __close > not even close__  
+__close call__  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ _A closeted life._  
 __clot__  
@@ -2657,6 +2661,7 @@ __defector__ :four::shit: _Army defectors._
 __defer__ _v_  
 __defer__ _v_  
 __defer__ _v_  
+__defer__ _v_  
 __deference__  
 __deference__  
 __deference__  
@@ -2667,6 +2672,7 @@ __deferment__
 __deferment__  
 __deferral__  
 __deferred__ _v_  
+__defiance__  
 __defile__  
 __defile__ _n_  
 __defile__ _n_  
@@ -3645,6 +3651,7 @@ __fizzle__ _v_
 __fizzled__  
 __fizzled__ _v_  
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
+__flabbergasted__  
 __flag-stop service__  
 __flag<sup>1</sup>__ _v_ :two::shit:  
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
@@ -3706,6 +3713,7 @@ __fliddle__ _v_
 __flight__ _n_ _He climbed four flights of stairs._  
 __flimsy__  
 __flinch__ _n_  
+__flinch__ _v_ :two::shit:  
 __flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flinching__  
 __fling__ _v_  
@@ -3760,6 +3768,7 @@ __flubs__ _n_
 __fluff__  
 __fluffy__  
 __fluke__ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__flummox__  
 __flummox__ _v_ :three::shit: (flummoxed)  
 __flung__ _v_ :two::shit:  
 __flunk__  
@@ -3933,6 +3942,7 @@ __frazzled__
 __frazzled__ _Sexist ads banned: No fumbling dads, frazzled wives._  
 __frazzled__ _adj_  
 __frazzled__ _v_  
+__freak-out__  
 __free estimate__ :three::shit: _Call now for your free estimate._  
 __free lunch__  
 __free ride__  
@@ -4364,12 +4374,9 @@ __gripe__ _v_
 __griping__ _v_  
 __gripped__ _v_ _That 1995 murder trial gripped USA._  
 __gripping__ :two::shit: _A gripping contest._  
-__grisly__  
-__grisly__ :three::shit: _A grisly synagogue assault._  
-__grist__ _Grist mill._  
-__grist__ _Plastic wrapping becomes grist for composite decking._  
-__gristle__  
-__gristle__  
+__grisly__ :four::shit: _A grisly synagogue assault._  
+__grist__ :two::shit: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
+__gristle__ :two:  
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
@@ -4405,6 +4412,7 @@ __grouse__ _v_ :three::shit: _We groused about the uncomfortable seating._
 __groused__ _v_  
 __grout__ _n_ :two::shit: _Tile and grout cleaning._  
 __grove__ _n_ :two::shit:  
+__grovel__ _v_  
 __groveling__ _v_  
 __growin pains__ _Teams are expecting short-term growing pains._  
 __growing pains__ :four: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise.  
@@ -5060,6 +5068,7 @@ __imprisoned__ _v_ _Simpson has been imprisoned for almost nine years._
 __impromptu__ :two::shit: _Some things are impromptu._  
 __improvidence__  
 __in all likelihood__  
+__in check__ _Keep those emotions in check._  
 __in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
 __in its own right__  
@@ -5994,6 +6003,7 @@ __meager__ :two::shit:
 __meandering__  
 __meannes__ :open_mouth:  
 __measles__ :three::shit: :es: _Rubeola_  
+__meat grinder__  
 __mecca__ :three::shit: _Shopping mecca._  
 __mechanical pencil__  
 __medal__ _v_  
@@ -6646,6 +6656,7 @@ __otherness__
 __otherworldly__  
 __ottoman__  
 __ouboros__ _n_  
+__ounce__  
 __ouster__ _n_  
 __out of hand__  
 __out of pocket__ :two::shit: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
@@ -6868,6 +6879,7 @@ __parolee__ _n_
 __parried__ _v_  
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
+__parse__ _v_  
 __parsnip__  
 __parsonage__ :open_mouth:  
 __partake__ _v_ :four::shit: (partaking)  
@@ -7661,6 +7673,7 @@ __quick__ _His nails bitten to the quick._
 __quickening__ :two::shit: _He felt a quickening within him._  
 __quicksand__ :two::shit: _I've just signed a quicksand employment contract._  
 __quicksilver__  
+__quid pro quo__  
 __quid pro quo__ _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quill__ _n_  
 __quilt__  
@@ -7673,6 +7686,7 @@ __quip__ (quipped, quippy) :six: _n, v_  A clever or witty remark or comment. _R
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::shit: _The horse quirt._  
 __quiver__ _v_ :five::shit: (quivering)  
+__quivering__  
 __quixotic__  
 __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __rabble-rouser__  
@@ -9736,6 +9750,7 @@ __straight-A student__
 __straight__ _Their second straight win._  
 __strain<sup>1</sup>__ _v_ :eight: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
 __strain<sup>2</sup>__ _n_ :two::shit:  
+__strain__ _Can you keep an even strain?_  
 __strain__ _v_  
 __strained__ :three::shit: _A strained thumb._  
 __straining__  
