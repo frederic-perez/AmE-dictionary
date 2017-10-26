@@ -664,14 +664,12 @@ __asbestos__ :two: :es: asbesto, amianto
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascetic__  
 __ascot__  
-__ascribe__ _v_  
-__ascribe__ _v_  
+__ascribe__ _v_ :two::shit:  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :open_mouth:  
 __ashen__ _His face turned ashen._  
 __aside__ _First, a personal aside._  
-__asinine__ :open_mouth: _To have him not get his chances is asinine for us._  
-__asinine__ _adj_ _Asinine questions._  
+__asinine__ _adj_ :open_mouth::two::shit: _To have him not get his chances is asinine for us._ _Asinine questions._  
 __asp__ _n_  
 __aspen__  
 __aspersion__ _n_  
@@ -681,17 +679,13 @@ __assault__ :two::shit:
 __assert__ _v_  
 __asses__ _n_ :two::shit:  
 __assets__  
-__assiduously__ :open_mouth:  
-__assiduously__ :open_mouth:  
+__assiduously__ :open_mouth::two::shit:  
 __assists__ _Green had 14 rebounds and nine assists._  
-__assuage__ _v_  
-__assuage__ _v_  
+__assuage__ _v_ :two::shit:  
 __asthma__ _n_  
 __astir__  
 __astraddle__  
-__astride__  
-__astride__  
-__astride__  
+__astride__ :three::shit:  
 __astute__  
 __asunder__ _A world torn asunder by evil and hate._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
@@ -8103,8 +8097,7 @@ __rink__ _n_
 __rip your wiring out__  
 __riparian__ _Riparian woodland._  
 __ripe-smelling__ _The ripe-smelling barn._  
-__ripe__  
-__ripe__ :adj::eight: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
+__ripe__ :adj::nine: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
 __riposte__ _n_ :three::shit: (ripostes)  
 __ripped__ _v_  
@@ -9104,32 +9097,23 @@ __smattering__ _n_ :eight: __1__ A slight superficial knowledge of a language or
 __smear<sup>1</sup>__ _v_ __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :three: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
-__smelt__ (smelting) :two: _v_ Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
-__smelter__  
-__smelters__ _n_  
-__smelting__  
-__smelting__ _A smelting furnace._  
-__smidgen__  
-__smidgen__ _The rosato di petit verdot has a smidgen of complexity._  
+__smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
+__smelter__ _n_ :two::shit: (smelters)  
+__smelting__ :two::shit: _A smelting furnace._  
+__smidgen__ :two::shit: _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__  
 __smirking__  
 __smirks__ _n_  
 __smite__  
 __smithereens__  
-__smitten__  
-__smitten__  
-__smitten__  
-__smitten__  
-__smitten__ _adj_ :six: Smitten means overwhelmed or struck by something, usually love. The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him. __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__  Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
-__smitten__ _v_ _He was smitten by his ignorance._  
+__smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him. __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__  Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
+__smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
-__smog__  
-__smog__  
+__smog__ :two::shit:  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_  
-__smolder__ (smolders, smoldered, smoldering) :five: _v_ Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
-__smoldering__  
+__smolder__ _v_ :six: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
