@@ -7908,25 +7908,16 @@ __reel__ _n_
 __reel__ _v_ (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reeling__ :two::shit:  
 __reels__ _n_ _The world reels from a series of horrifying terror attacks._  
-__reeve__ _n_  
-__reeve__ _n_ :open_mouth:  
-__reeve__ _n_ :two::shit:  
-__refectory__  
-__refectory__ _n_  
+__reeve__ _n_ :four::shit::open_mouth:  
+__refectory__ _n_ :two::shit:  
 __referenda__  
 __reffing__  
-__refrain__ _n_  
-__refrain__ _n_  
-__refrain__ _n_ :open_mouth:  
-__refurbish__  
-__refurbished__  
-__refurbished__ _v_  
+__refrain__ _n_ :three::shit::open_mouth:  
+__refurbish__ _v_ :three::shit: (refurbished)  
 __refurbishment__  
-__regal__ _Despite his homely perch Robert felt regal._  
-__regal__ _n_ :three: Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country.  
+__regal__ _n_ :four: Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country. _Despite his homely perch Robert felt regal._  
 __regaled__  
-__regalia__  
-__regalia__ _n_  
+__regalia__ _n_ :two::shit:  
 __regents__ _n_  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
 __regrets__ _n_  
@@ -7946,9 +7937,7 @@ __rejoiced__ _v_
 __rekindle__ _v_ :two::shit: _We must rekindle the fire of idealism in this country._  
 __relatable__ :two::shit:  
 __relegation__ _Sports_  
-__relent__ _v_  
-__relent__ _v_  
-__relented__ _v_  
+__relent__ _v_ :three::shit: (relented)  
 __reliable__ _Must have reliable transportation._  
 __reliant__  
 __relic__ _n_  
@@ -7957,23 +7946,17 @@ __relief__ :two::shit: _Iran continues to insist on instant and total relief fro
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __reliever__  
 __relinquish__ _v_ :six: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on. _To relinquish the throne._  
-__relish<sup>1</sup>__ :three: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
-__relish<sup>2</sup>__ _v_ __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
-__relish__ _n_  
-__relish__ _v_  
-__relish__ _v_  
-__relish__ _v_  
+__relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
+__relish<sup>2</sup>__ _v_ :four: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
 __remanded__ _v_  
-__remembrance__  
-__remembrance__ :three: _n_ The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
+__remembrance__ _n_ :four: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
 __reminiscent__  
 __remit__  
 __remittances__ :two::shit:  
 __remorse__ _n_  
 __remoulade__  
-__render__ _v_ _Cook bacon until about half the fat is rendered._  
-__render__ _v_ _Electronic banking has rendered the system unnecessary for consumer goods._  
+__render__ _v_ :two::shit::open_mouth: _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
 __rendering plant__  
