@@ -1376,15 +1376,10 @@ __breakwater__ _n_
 __bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
 __bream__ :two::shit: _Fishing for bream._  
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
-__breather__  
-__breather__  
+__breather__ :two::shit:  
 __breech__ _n_ :four::shit:  
-__breezy__ :three::shit: _The breezy tone of the readout._  
-__breezy__ _Breezy confidence._  
-__brethen__  
-__brethren__  
-__brethren__  
-__brethren__ _Political brethren._  
+__breezy__ :four::shit: _The breezy tone of the readout._ _Breezy confidence._  
+__brethren__ :three::shit: _Political brethren._  
 __briar__ :two::shit:  
 __bric-a-brac stores__  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
@@ -1395,24 +1390,17 @@ __bridle__ _n_
 __briers__  
 __brig__  
 __bright-orange__ _A bright-orange construction jumpsuit._  
-__brim__ _v_ :three::shit: (brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
-__brimmed__ _v_  
+__brim__ _v_ :four::shit: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __briny__ _adj_  
 __brisk__  
 __brisk__ :two::shit: _Brisk pace._  
 __brisker__  
-__brisket__  
-__brisket__ _n_ :two::shit:  
+__brisket__ _n_ :three::shit:  
 __briskly__  
-__bristle__ _v_  
-__bristle__ _v_  
-__bristle__ _v_ :eight: (bristled) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
-__bristled__ _v_  
-__bristles__ _n_  
-__bristles__ _n_  
-__bristling__  
+__bristle__ _v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
+__bristles__ _n_ :two::shit:  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. Do you have brittle bones? Then no football or rugby for you. :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
@@ -5409,8 +5397,7 @@ __kine__ _n_
 __king of the hill__  
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kinked__ _v_  
-__kinks__  
-__kinks__ _I was getting the kinks out._  
+__kinks__ :two::shit: _I was getting the kinks out._  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
 __kiosk__ _n_ :camera::two::shit: _Automated Passport Control kiosks._ _Target's in-store registry kiosks._  
@@ -5438,8 +5425,7 @@ __knock-knock joke__
 __knock__ _n_  
 __knockout__ _adj_  
 __knockusing__  
-__knoll__ _n_ :three::shit:  
-__knoll__ _n_ A small hill or mound. _A grassy knoll._  
+__knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
 __knotty__  
 __know better__ _But I knew better._  
 __knuckleball__ :two::shit:  
@@ -8299,22 +8285,17 @@ __safeguard__
 __safekeeping__  
 __sag__ (sagging) :five: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
 __sag__ _v_  
-__sage__ :two::shit: _Sage counsel._ _Toss with sage and cranberries._  
-__sage__ _Sage advice._  
+__sage__ :three::shit: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::shit: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
 __sahib__  
 __sake__ _For comparison's sake, it hit 90 twice here all of last July._  
 __sakura__  
-__salacious__  
-__salacious__ :two::shit: _Salacious music._  
+__salacious__ :three::shit: _Salacious music._  
 __sales force__  
-__salient__  
-__salient__  
+__salient__ :two::shit:  
 __salivating__ _v_  
-__sallow__  
-__sallow__ _A sallow face._  
-__sallow__ _adj_  
+__sallow__ _adj_ :three::shit: _A sallow face._  
 __salt away__  
 __salt of the Earth__  
 __salt the shaft__ :two::shit: _Salt the shaft if you have to._  
@@ -8323,21 +8304,14 @@ __saltines__ _n_
 __salutary__  
 __salute__ _n_  
 __salvage__ _adj_  
-__salve__  
-__salve__ _n_  
-__salve__ _n_ _Karim's skin needed the yellow salve._  
-__salves__ _n_ _Salves, poultices, and plasters._  
-__salvo__  
-__salvo__ :two::shit:  
-__salvo__ _n_  
-__salvos__ _n_  
+__salve__ _n_ :four::shit: (salves) _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._  
+__salvo__ _n_ :four::shit: (salvos)  
 __samosas__  
 __sanctuary city__ :two::shit: _Mayor Rahm Emanuel of Chicago has declared that it "will always be a sanctuary city."_  
 __sand spits__  
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ _Sanding the wood._  
-__sandbag__  
-__sandbags__  
+__sandbag__ :two::shit: (sandbags)  
 __sandlot__   
 __sandpits__ _n_  
 __sandstone__  
@@ -8346,31 +8320,20 @@ __sangfroid__
 __sanguine__  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
-__sap<sup>1</sup>__ _v_ :five: (sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power).  
-__sap<sup>2</sup>__ _n_ :two::shit: _A flat-sided sap stuck out of his back pocket._  
-__sap__  
-__sap__ _v_ _Weak demand sapping trade._  
-__sapling__ _n_ :three: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
-__saplings__  
-__sapped__ _v_  
-__sapping__  
-__sapping__ _v_  
-__sapping__ _v_  
-__sapping__ _v_  
+__sap<sup>1</sup>__ _v_ :nine::m: (sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._  
+__sap<sup>2</sup>__ _n_ :three::shit: _A flat-sided sap stuck out of his back pocket._  
+__sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __sappy__ _Sappy smile._  
 __saps__ _v_  
 __sarcophagus__  
 __sartorial__  
 __sash__  
-__sashay__ :two: _v_ To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
-__sashayed__ _v_  
-__sashayed__ _v_  
+__sashay__ _v_ :four: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sass__ _v_ (sassed)  
 __sassy__  
 __satchel__ _n_  
 __sated__ _v_  
-__saturnine__  
-__saturnine__  
+__saturnine__ :two::shit:  
 __satyr__  
 __saucerful__  
 __saunter__ _v_ _Lynn sauntered to the edge of the stage._  
@@ -8380,13 +8343,9 @@ __save the day__
 __savior__  
 __sawed-off__  
 __sawgrass__ :two::shit:  
-__sawhorse__ _n_ :four::shit:  
-__sawhorses__ _n_  
+__sawhorse__ _n_ :five::shit: (sawhorses)  
 __sawyer__ _n_ :open_mouth:  
-__scabbard__  
-__scabbard__  
-__scabbard__ :two::shit:  
-__scabbard__ _n_  
+__scabbard__ _n_ :five::shit:  
 __scabby__  
 __scabies__  
 __scabs__ _n_ :two::shit:  
@@ -8480,19 +8439,15 @@ __scrap<sup>3</sup>__ _v_ :eight::shit: (scraps, scrapped) Cause a stinging or t
 __scrap__ _v_ :four::shit: (scrapped, scrapping) _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrapper__  
 __scrappy__ _A scrappy industrial city._  
-__scrawl__ _v_  
-__scrawled__ _v_  
-__scrawny__  
-__scrawny__  
-__scrawny__ _Two scrawny containers of grape jelly._  
+__scrawl__ _v_ :two::shit: (scrawled)  
+__scrawny__ :two::shit: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
 __screech__ _n_ :two::shit:  
 __screeched__ _v_ :six::shit: (screeching)  
 __screwball__ :three::shit: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screws > put the screws on someone__ _informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
-__scribe__ _n_  
-__scribes__  
+__scribe__ _n_ :two::shit: (scribes)  
 __scrimmage__ :three::shit:  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
