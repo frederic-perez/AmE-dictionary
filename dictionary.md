@@ -3186,9 +3186,7 @@ __edgy__ _adj_ :three::shit: _Aaron has got a style that's humble but edgy._
 __edict__  
 __educated guess__  
 __eel__  
-__eerie__  
-__eerie__  
-__eerie__ _n_  
+__eerie__ _n_ :three::shit:  
 __eerily__ :three::shit:  
 __effete__  
 __effigy__ _n_ :three::shit: (effigies)  
@@ -3198,22 +3196,18 @@ __egg roll__
 __egghead__ _n_  
 __eggnog__ _n_ :two::shit: _A big eggnog party._  
 __egotists__  
-__egregious__  
-__egregious__ _adj_ :four: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egregious__ _adj_ :five: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __eh?__ _Impressive, eh?_  
 __eighty-six__ _v_ :two::shit: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
-__eke out__ _v_  
-__eke__ _v_  
-__eked out__  
-__eking__ _v_ _Eking out a bit more mileage._  
+__eke out__ _v_ :two::shit: (eked out)  
+__eke__ _v_ :two::shit: (eking) _Eking out a bit more mileage._  
 __el__ :two::shit: _The el tracks._  
 __elated__ :two::shit: _They came to be elated and uplifted._  
-__elation__  
-__elation__  
+__elation__ :two::shit:  
 __elbow grease__ :two::shit: _I tend to rely on elbow grease and hotel room sinks._  
-__elbowing__ _v_ _Elbowing your way through crowds._  
+__elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
 __elderly__ :es: tercera edad  
 __eldest__ (is this right?)  
@@ -3223,60 +3217,46 @@ __elevator boy__
 __elevator control box__  
 __elevator operator__ :camera:  
 __elevators__ (airplane)  
-__elicit__ _v_ :three::shit: (elicited)  
-__elicited__  
+__elicit__ _v_ :four::shit: (elicited)  
 __eligibility__  
 __elite__ (elites) :two::shit:  
-__elope__ :four: :dart: _v_ Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
-__eloped__ _v_  
-__elopes__ _v_  
+__elope__ :six::dart: _v_ (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __elude__ :open_mouth:  
 __elusive__  
 __emaciate__ _v_ :five::shit: (emaciated) _Emaciated cancer patient._  
 __emancipation__  
 __embankment__  
 __embark__ _They embark on a motorcade._  
-__embattle__ (embattled) _v_ :todo::shit:  
-__embattled__  
-__ember__ _n_ :two: A small piece of burning or glowing coal or wood in a dying fire.  
-__embers__  
+__embattle__ _v_ :three::shit: (embattled)  
+__ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._  _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embolden__  
-__embrace__  
-__embraced__ _v_  
+__embrace__ _v_ :two::shit: (embraced)  
 __embroidered__  
 __embroil__ (embroiled)  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
-__emerald__ _Emerald ash borers._  
-__emerald__ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
-__emeritus__  
-__emeritus__  
+__emerald__ :two::shit: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
+__emeritus__ :two::shit:  
 __emerity__ _Faculty emerity._  
-__emery paper__  
-__emery__ :two::shit: _An emery wheel._  
+__emery__ :four::shit: _An emery wheel._ _Emery paper._  
 __emo__ :two::shit: (emotional?)  
 __emphasize__ _v_ :two::shit:  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
 __empty-net/power-play/short-handed goal__  
-__en masse__  
-__en masse__ _Cruz supporters are going to bolt to Rubio en masse._  
+__en masse__ :two::shit: _Cruz supporters are going to bolt to Rubio en masse._  
 __en-suite bath__  
-__enact__ _v_ :seven: Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
-__enacted__  
+__enact__ _v_ :eight: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enactment__  
-__enamel__  
-__enamel__  
+__enamel__ :two::shit:  
 __enamored__  
 __encampment__ _n_ :two::shit:  
 __encompass__ _v_ :four::shit: (encompasses)  
-__encore__ _An encore performance._  
-__encore__ _n_ :four::shit:  
+__encore__ _n_ :five::shit: _An encore performance._  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroach__  
-__encroach__ _v_ :four::shit: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
+__encroach__ _v_ :five::shit: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ :three::shit:  
 __end over end__ _He tossed the cigarette end over end  into the wastebasket._  
 __end run__ :two::shit:  
@@ -3285,8 +3265,7 @@ __endeared__
 __endearing__ _adj_ :six: Inspiring affection. _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endow__ _v_  
 __endowed__  
-__endowment__  
-__endowment__ _n_ :three: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.    
+__endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.    
 __endurance__ _Endurance race._  
 __enduring__ _v_  
 __engross__ _v_ :two::shit::dart: (engrossed)  
@@ -9565,15 +9544,12 @@ __stepfather__ _(vs godfather)_
 __steppes__ _n_  
 __stepping stone__  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
-__sterling__  
-__sterling__ _A sterling example._  
+__sterling__ :two::shit: _A sterling example._  
 __stern__ _n_ :two::shit:  
 __stew-bums__ _n_  
-__stew__ _n_ :two::shit: _It captures the stew of hate._  
-__stew__ _v_ _I have no desire to stew in politics._  
-__steward__  
-__steward__  
-__stewards__ _Concerned stewards of the Earth._  
+__stew<sup>1</sup>__ _n_ :two::shit: _It captures the stew of hate._  
+__stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._  
+__steward__ :three::shit: (stewards) _Concerned stewards of the Earth._  
 __stewardship__  
 __stewed tomatoes__  
 __stick > turnaround stick__  
@@ -9582,25 +9558,14 @@ __stickball__ Stickball is a street game related to baseball, usually formed as 
 __sticker price__  
 __sticker shock__  
 __stickers__  
-__stickler__  
-__stickler__ :two::shit:  
-__stiff<sup>1</sup>__ _adj_ :three::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._  
+__stickler__ :three::shit:  
+__stiff<sup>1</sup>__ _adj_ :six::shit: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._  
 __stiff<sup>2</sup>__ _v_ _Trump is known for stiffing people he owes._  
-__stiff__ _A stiff drink._  
-__stiff__ _Amazon faces stiff competition from Spotify._  
-__stiff__ _Stiff criticism._  
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
-__stiffer__ _In adult court, murder, a Class M felony, carries a much stiffer penalty._  
-__stiffer__ _Unleasing stiffer penalties._  
-__stiffled__ _v_  
+__stiffer__ :two::shit: _In adult court, murder, a Class M felony, carries a much stiffer penalty._ _Unleasing stiffer penalties._  
 __stiffly__  
-__stifle__ _v_  
-__stifle__ _v_  
-__stifle__ _v_  
-__stifle__ _v_ :eight::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
-__stifled__ _v_  
+__stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
-__stifling__ _v_  
 __still life__ _Still life painting._  
 __stilt__ _n_ :six::shit: (stilts) _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
@@ -9611,62 +9576,37 @@ __stinker__
 __stinkers__ _n_  
 __stinky-winky__ _Stinky-winky front-loader._  
 __stintful__  
-__stipend__  
-__stipend__  
-__stipend__ _n_ :three::shit: (stipends)  
+__stipend__ _n_ :five::shit: (stipends)  
 __stipulate__ _v_ :two::shit:  
-__stir__ _v_  
-__stirred__ _v_  
+__stir__ _v_ :two::shit: (stirred)  
 __stirring__ _adj_ :three::shit: _Stirring tales._  
-__stirrups__  
-__stirrups__ _n_  
-__stitch__ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
-__stitch__ _n_ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato  
-__stitches__ :es: puntos?  
+__stirrups__ _n_ :two::shit:  
+__stitch__ _n_ :three::shit: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
 __stocking-stuffers__  
 __stockpile__  
 __stodgiest__  
 __stodgy__ _The mainstream may sound too stodgy._  
-__stoke__ _v_  
-__stoke__ _v_  
-__stoke__ _v_  
 __stoke__ _v_ :nine::m::shit: (stoked, stoking, stoke up) _Stoking tensions._  
 __stoking__ _n_  
-__stoking__ _v_  
-__stolid__  
-__stolid__  
+__stolid__ :two::shit:  
 __stomping__ _v_  
 __stone-walling__  
 __stonemasons__ _n_  
-__stonewall__ _v_ :three::shit:  
-__stonewalling__ _v_  
-__stoop<sup>1</sup>__ _v_ :eight::shit: _Jean stoops to pick cranberries for preserves._  
+__stonewall__ _v_ :four::shit: (stonewalling)  
+__stoop<sup>1</sup>__ _v_ :nine::m::shit: (stooped) _Jean stoops to pick cranberries for preserves._  
 __stoop<sup>2</sup>__ _n_  
-__stoop__ _v_  
-__stooped__  
-__stooped__  
-__stooped__ _He was a stooped man._  
-__stooped__ _Stooped shoulders._  
-__stooped__ _v_  
-__stop short__  
-__stop short__ _v_ :nine: (stop-short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
+__stooped__ _adj_ :two::shit: _He was a stooped man._ _Stooped shoulders._  
+__stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop-and-go__ _Stop-and-go traffic jams._  
-__stopgag__  
-__stopgag__  
-__stopgag__ _n_  
+__stopgag__ _n_ :three::shit:  
 __stopgap__ :two::shit:  
 __stoplights__ :open_mouth:  
 __stopover__  
-__stoppage__  
-__stoppage__  
-__stoppage__ :three::shit: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
-__stopped short__  
-__stopped short__ :two:  
+__stoppage__ :five::shit: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::shit: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
-__storefront__  
-__storefront__ _n_  
+__storefront__ _n_ :two::shit:  
 __storeful__  
 __storied__ _Storied market._  
 __storks__  
@@ -9677,32 +9617,22 @@ __stove__
 __stovepipe hat__  
 __stow__ _v_  
 __stowaway__  
-__straddle__ _v_  
-__straddles__ _v_  
-__straddles__ _v_  
+__straddle__ _v_ :three::shit: (straddles)  
 __strafes__ _v_  
 __strafing__  
 __straggler__ _n_  
 __straggly__  
 __straight-A student__  
 __straight__ _Their second straight win._  
-__strain<sup>1</sup>__ _v_ :eight: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
-__strain<sup>2</sup>__ _n_ :two::shit:  
-__strain__ _Can you keep an even strain?_  
-__strain__ _v_  
-__strained__ :three::shit: _A strained thumb._  
-__straining__  
-__strains__  
-__strains__ _n_  
+__strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar    
+__strain<sup>2</sup>__ _n_ :three::shit: _Can you keep an even strain?_  
+__strained__ _adj_ :three::shit: _A strained thumb._  
+__strains__ _n_ :two::shit:  
 __strait__  
 __straits__  
 __strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
-__strangle__ :es: estrangular  
-__strangled__ _v_  
-__stranglehold__  
-__stranglehold__  
-__stranglehold__  
-__strangling__  
+__strangle__ _v_ :three::shit: (strangled, strangling) :es: estrangular  
+__stranglehold__ :three::shit:  
 __strap overalls__  
 __strapless__ _Strapless black dress._  
 __strapped__  
@@ -9710,43 +9640,27 @@ __strapping__ _Two strapping sons._
 __straw__  
 __straws__ _To stir straws._  
 __stray steeples__  
-__stray<sup>1</sup>__ _v_ :five::shit: (strays, strayed)  
-__stray<sup>2</sup>__ :two::shit: _A stray word._ _Stray friends._  
-__stray__ _Stray canines._  
-__stray__ _Stray dogs._  
-__stray__ _Stray goats._  
-__stray__ _v_ _Every individual who strays will be punished._  
-__straying__ _v_ :two::shit:  
+__stray<sup>1</sup>__ _v_ :eight::shit: (strays, strayed, straying) _Every individual who strays will be punished._  
+__stray<sup>2</sup>__ :five::shit: _A stray word._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
 __streak__ _n_  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
-__streamline__ _v_ :four::shit: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
-__streamlining__ _v_  
+__streamline__ _v_ :five::shit: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strech__ _He was awake for long streches of time._  
 __strenuous__  
 __strep > strep throat__ :two::shit: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ :three::shit: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
-__strewn__  
-__strewn__ _v_  
-__stricken__  
-__stricken__  
-__stricken__ :four::shit: _Stricken people._  
+__strewn__ _v_ :two::shit:  
+__stricken__ :six::shit: _Stricken people._  
 __strictures__ :three::shit: _The strictures on women's behavior were easing._  
-__strife__ _n_  
-__strife__ _n_  
-__strife__ _n_ :six: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._
 __string beans__  
 __string knife__ :two::shit:  
-__stringent__  
-__stringent__  
-__stringent__  
-__stringent__  
-__stringent__ _adj_ :five: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
-__stringer__ _He has climbed from a fifth stringer to a team leader._  
-__stringer__ _n_ :three::shit:  
+__stringent__ _adj_ :nine: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
+__stringer__ _n_ :four::shit: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
 __stripling__ _n_  
 __strive__ _v_  
@@ -9754,58 +9668,41 @@ __strivers__
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _Writhing in the strobe lights after dark._  
 __strongman__  
-__struck__ :two::shit: _The Paris climate was struck almost a year ago._  
-__struck__ _v_  
+__struck__ _v_ :three::shit: _The Paris climate was struck almost a year ago._  
 __strummed__ _v_ _He then strummed out a string of hits, including "Message in a Bottle."_  
 __strung out__  
 __strung__ _v_  
-__strut__ _v_  
-__strut__ _v_ :three: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
-__stubble__  
+__strut__ _v_ :four: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stubble__ _n_ :nine::m::shit: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
-__stubby__  
-__stubby__ _Stubby fingers._  
-__stubs__ :two::shit:  
-__stubs__ _The stubs of cold-withered grass._  
+__stubby__ :two::shit: _Stubby fingers._  
+__stubs__ :three::shit: _The stubs of cold-withered grass._  
 __stuck a chord__  
 __stuck-up__  
-__stud<sup>1</sup>__ _n_  
+__stud<sup>1</sup>__ _n_ :two::shit:  
 __stud<sup>2</sup>__ _v_ :three::shit: (studded)  
-__studded__ :two::shit: _Customers gathered for his star-studded celebration in Manila._  
-__studs__  
+__studded__ _adj_ :two::shit: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
 __stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._  
 __stuffer__  
 __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
-__stuffy__  
-__stuffy__  
-__stuffy__   
-__stump__  _v_ :eight: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet.  
-__stumped__ _v_ :dart: _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
+__stuffy__ :three::shit:  
+__stump__  _v_ :nine::dart: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__ :four::shit:  
-__stunt<sup>1</sup>__ _n_  
-__stunt<sup>2</sup>__ _v_ _Movement stunted during the dictatorship._  
-__stunt__  
-__stunt__ _n_  
-__stunted__ _v_  
+__stunt<sup>1</sup>__ _n_ :four::shit: (stunts) _Singers emphasize stunts over music._  
+__stunt<sup>2</sup>__ _v_ :two::shit: (stunted) _Movement stunted during the dictatorship._  
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
-__stunts__ _Singers emphasoze stunts over music._  
 __stupas__  
 __sturdy__  
-__stutter__ _v_  
-__stutter__ _v_  
-__stymie__ _v_  
-__stymie__ _v_ (stymied) :nine::shit:  
+__stutter__ _v_ :two::shit:  
+__stymie__ _v_ :nine::m::shit: (stymied)  
 __suave__ :three::shit: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subcompact__ (car?)  
-__subdue__ _v_  
-__subdue__ _v_ :two::shit:  
-__subdued__  
+__subdue__ _v_ :four::shit: (subdued)  
 __subjugate__ _v_  
 __sublet__ _v_ :three::shit: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
