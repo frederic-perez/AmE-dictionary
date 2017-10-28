@@ -10692,29 +10692,19 @@ __unduly__ :three::shit:
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__  
-__unfazed__ _v_ :three::shit: _They are unfazed by all fof this._  
-__unfettered__  
-__unfettered__ _v_  
-__unfettered__ _v_ :nine::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
-__unflagging__  
-__unflagging__  
-__unflappable__  
-__unflappable__  
-__unflappable__  
-__unflappable__ :four::shit: _Jim was unflappable._ _Unflappable team._  
+__unfazed__ _v_ :four::shit: _They are unfazed by all fof this._  
+__unfettered__ _v_ :nine::m::shit: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
+__unflagging__ :two::shit:  
+__unflappable__ :seven::shit: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
 __unfold__ _v_  
 __unfurl__ (unfurling) :two::shit:  
-__unheralded__  
-__unheralded__  
-__unhindered__  
-__unhindered__  
+__unheralded__ :two::shit:  
+__unhindered__ :two::shit:  
 __unhinged__ :two::shit: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
 __unicorn__ Start-up valued at more than $1 billion.  
 __unimpeded__ _v_  
-__unkempt__  
-__unkempt__ _Unkempt beards._  
+__unkempt__ :two::shit: _Unkempt beards._  
 __unnerving__  
 __unquestioned__  
 __unraveling__  
@@ -10723,9 +10713,7 @@ __unremitting__ _v_
 __unrepentant__ :two::shit:  
 __unrestrained__  
 __unruly__  
-__unruly__  
-__unruly__  
-__unruly__ :three::shit: _Unruly campaign speeches._  
+__unruly__ :six::shit: _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
 __unscathed__  
@@ -10747,15 +10735,13 @@ __unwielding__
 __unwieldy__  
 __unwilling__ _Unwilling medical director._  
 __unwind__ _v_  
-__unwittingly__  
-__unwittingly__  
+__unwittingly__ :two::shit:  
 __unyielding__ :two::shit:  
 __up and running__  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
 __up__ _v_ _We need to up our game._  
-__upbeat__  
-__upbeat__ :two::shit: _An upbeat approach._ _He's extremely upbeat during down times._  
+__upbeat__ :three::shit: _An upbeat approach._ _He's extremely upbeat during down times._  
 __upcoming__  
 __upend__ _v_ :nine::m_ (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical   
@@ -10806,9 +10792,7 @@ __vacuum__ :two::shit: _Upright/Canister vacuum._ :camera:
 __vagaries__ :three::shit: _The vagaries of economics._  
 __vagrant__  
 __vagrants__  
-__valedictorian__ :two::shit:  
-__valedictorian__ :two::shit:  
-__valedictorians__ :two::shit:  
+__valedictorian__ :six::shit: (valedictorians)  
 __valentine__  
 __valiant__  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
