@@ -4058,49 +4058,32 @@ __garter__
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gash<sup>1</sup>__ _n_ :two::shit:  
-__gash<sup>2</sup>__ _v_ :three::shit: (gashed, gashing) _He gashed the Hokies' defense._  
-__gashed__ _v_  
-__gashed__ _v_ _The Lions gashed the Owls._  
+__gash<sup>2</sup>__ _v_ :five::shit: (gashed, gashing) _He gashed the Hokies' defense._ _The Lions gashed the Owls._  
 __gasket__  
 __gaskets__  
-__gasolene__ :open_mouth:  
-__gasoline__  
-__gasped__  
-__gasped__ _v_ :two::shit:  
+__gasolene__ :two::shit::open_mouth:  
+__gasped__ _v_ :three::shit:  
 __gat__  
-__gaudy__  
-__gaudy__ :four: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
-__gaunt__  
-__gaunt__ _Gaunt drifter._  
-__gaunt__ _adj_  
-__gaunt__ _adj_ :four: Very thin especially from disease or hunger or cold. _Gaunt eyes._ :es: demacrado  
+__gaudy__ :five: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
+__gaunt__ _adj_ :seven: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
-__gauze__  
-__gauze__ (gauzy) :two::shit: :es: gasa  
-__gauzy__  
-__gavel__  
-__gavel__  
-__gavel__  
-__gavel__ _n_ :two::shit:  
-__gaze__  
-__gaze__ _v_  
+__gauze__ :three::shit: :es: gasa  
+__gauzy__ :two::shit:  
+__gavel__ _n_ :five::shit:  
+__gaze<sup>1</sup>__ _n_  
+__gaze<sup>2</sup>__ _v_  
 __gazebo__  
 __gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __geek out__ _v_ _Idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don't have time to explain: "Pardon me while I geek out for a moment."  
-__geezer__  
-__geezer__ _A lightsaber battle where two old geezers poke at each other._  
-__geezers__  
-__gelding__  
-__gelding__ _n_  
-__gelding__ _n_  
+__geezer__ :three::shit: (geezers) _A lightsaber battle where two old geezers poke at each other._  
+__gelding__ _n_ :three:shit:  
 __gelled__ _His hair was neatly gelled._  
 __gelt__  
 __genealogist__  
 __generic__ _A generic diet cola._  
-__genteel__  
-__genteel__  
+__genteel__ :two::shit:  
 __gentrification__ :three::shit:  
 __gentrify__ _v_ (gentrifying)  
 __gentry__  
@@ -4117,14 +4100,9 @@ __get stops__ :two::shit:
 __get the middle finger__  
 __get-go__ :three::shit: _They wanted him to be Superman from the get-go._  
 __getaway day__  
-__getaways__  
-__getaways__ _n_ _Weekend getaways._  
-__ghastly__  
-__ghastly__  
-__ghastly__  
-__ghastly__ :two::shit:  
-__ghoul__  
-__ghoul__ :two::shit:  
+__getaways__ _n_ :two::shit: _Weekend getaways._  
+__ghastly__ :five::shit:  
+__ghoul__ :three::shit:  
 __gibbet__ _n_  
 __gibblets__ _n_  
 __gibed__ _v_  
@@ -4132,12 +4110,7 @@ __gibes__
 __giddily__  
 __giddiness__ :two::shit:  
 __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
-__giddy__  
-__giddy__  
-__giddy__  
-__giddy__  
-__giddy__  
-__giddy__ :four: _adj_ Having a sensation of whirling and a tendency to fall or stagger; dizzy. _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
+__giddy__ _adj_ :nine: Having a sensation of whirling and a tendency to fall or stagger; dizzy. _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __gigging__ _v_  
 __giggling__  
 __gills > packed to the gills__ :two: Completely full; teeming; having no room to spare. _I've got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother's Thanksgiving meal._  
@@ -4145,18 +4118,14 @@ __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by
 __gilt-framed__  
 __gimmicks__ _No "get in the door" gimmicks._  
 __gimmicky__  
-__gimpy__ _A gimpy angle._  
-__gimpy__ _Gimpy gait._  
+__gimpy__ :two::shit: _A gimpy angle._ _Gimpy gait._  
 __gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __gingerly__ :three::shit: _Walking gingerly behind the pack._  
 __gingham__  
 __ginning__  
 __gins__ _He passed cotton gins._  
-__gird__ _v_ :two::shit:  
-__girded__ _v_ :three::shit:  
+__gird__ _v_ :seven::shit: (girds, girded, girding)  
 __girders__ _n_ :two::shit:  
-__girding__  
-__girds__ _v_  
 __giridon__  
 __giveaway__ _n_ :four::shit: _Holiday giveaway._  
 __gladdened__  
@@ -4177,28 +4146,16 @@ __gloat__ _v_ :three::shit: (gloating) _I could not gloat._
 __glob__ _n_ :four::shit: _A glob of spit._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __gloom__ _n_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
-__gloss__  
-__gloss__ _v_ _We mustn't gloss over disagreements._  
-__glossing__ _v_  
-__glower__ _v_  
-__glowered__ _v_  
-__glowered__ _v_  
-__glowering__  
+__gloss__ _v_ :three::shit: (glossing) _We mustn't gloss over disagreements._  
+__glower__ _v_ :three::shit: (glowered, glowering)  
 __glue > a glue-type player__  
-__glum__  
-__glum__  
-__glum__ :three: _adj_ To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
-__glut__ _n_  
-__glut__ _n_  
-__glut__ _n_ :four: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
+__glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
+__glut__ _n_ :six: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
 __glycemic__  
 __gnarled__ _v_  
 __gnashing__  
-__gnat__  
-__gnats__  
-__gnats__ _n_ (insect?)  
-__gnaw__ _v_  
-__gnaw__ _v_ :five: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
+__gnat__ _n_ :three::shit: (insect?)  
+__gnaw__ _v_ :six: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __go a long way__ _Go a long way toward minimizing damage._  
 __go awry__ :two::shit:  
 __go dutch__  
@@ -4210,17 +4167,14 @@ __go to the dogs__
 __go-ahead goal__  
 __go-for-broke__  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
-__goad__ :two::shit: _v_  
-__goad__ _v_  
+__goad__ _v_ :three::shit:  
 __goads__ _n_  
 __goahead__  
 __goalie__  
 __goaltender__  
 __goatee__ _Sagging goatee._  
-__gobble up__ :two::shit: _v_  
-__gobble up__ _v_ :two::shit: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
-__gobble__ _v_  
-__gobble__ _v_ _Gobbling a plate of spaguetti and meatballs._  
+__gobble up__ _v_ :four::shit: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
+__gobble__ _v_ :two::shit: _Gobbling a plate of spaguetti and meatballs._  
 __goblin__  
 __goblins__  
 __godsend__ _n_  
@@ -4237,14 +4191,11 @@ __good-nature__
 __goodliest__ :two::shit:  
 __goodly__  
 __goody-goody__ _Goody-goody expressions._  
-__gooey__  
-__gooey__ :three: Soft and sticky. _Gooey butter cake._  
+__gooey__ :four: Soft and sticky. _Gooey butter cake._  
 __gooks__ _n_  
 __goomey__  
 __goose chase__ _A global goose chase._  
-__goose__ _v_  
-__goosing__ _Goosing the economy._  
-__goosing__ _v_  
+__goose__ _v_ :three::shit: (goosing) _Goosing the economy._  
 __gorging__  
 __gorse__  
 __gory__  
@@ -4254,36 +4205,29 @@ __gougers__ _Transparency helps patients and exposes gougers._
 __gout__  
 __grace__ _v_  
 __gracial pace__ _At a glacial pace._  
-__gracious__  
-__gracious__ _adj_  
+__gracious__ _adj_ :two::shit:  
 __grade__ _v_  
-__grader__  
-__graders__ _n_  
+__grader__ _n_ :two::shit: (graders)  
 __graft__ :thre::shit: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._  
 __gramps__  
 __grand jury__  
 __grand-auto__ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
-__grandstand__  
-__grandstand__ :two::shit: _He found rats in his grandstand._  
-__grandstands__ _n_  
+__grandstand__ :four::shit: (grandstands) _He found rats in his grandstand._  
 __granola__ _n_  
 __graphic sexuality__ (for movie ratings)  
-__grapple__ _A thin cord hooked to a grapple._  
-__grapple__ _v_  
-__grapple__ _v_ (grappled, grappling) :dart::nine::m: _v_ __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
+__grapple<sup>1</sup>__ _v_ :dart::nine::m: (grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
+__grapple<sup>2</sup>__ _n_ _A thin cord hooked to a grapple._  
 __grapples__ _v_  
-__grappling__ _v_  
 __grapplings__ _n_  
 __grass-routs__ _Grass-routs campaign._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_  
-__grate<sup>2</sup>__ _v_ :four: (grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
-__grates__ _Cast iron grates._ :camera:  
-__grates__ _v_  
+__grate<sup>2</sup>__ _v_ :four: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
+__grates__ :camera: _Cast iron grates._  
 __gratin__ _Sweet potato gratin._  
-__grating__ _n_ :two::shit: _A bright green screen of thick metal grating sat solidly on the counter._  
-__grating__ _v_ _A grating sound._  
+__grating<sup>1</sup>__ _n_ :two::shit: _A bright green screen of thick metal grating sat solidly on the counter._  
+__grating<sup>2</sup>__ _adj_ _A grating sound._  
 __grave liner__ _Grave liners are stored at the Travis County cemetery._  
 __grave__  
 __gravely__  
@@ -4291,8 +4235,7 @@ __gravesite__
 __gravestone__  
 __gravitas__  
 __gravitate__ _v_ :two::shit: _He gravitated toward politics._  
-__gravy__  
-__gravy__ _n_  
+__gravy__ _n_ :two::shit:  
 __graybeards__ _Senate graybeards._  
 __grayling__  
 __graze__ _v_ :six::shit: (grazing) _Some species can graze on the extra algae._    
@@ -7110,18 +7053,14 @@ __pith-helmeted__
 __pithy__ _adj_ :three: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
 __pitmaster__  
 __pittance__  
-__pitted__ _v_  
-__pitted__ _v_ _Pitted cherries._  
-__pitting__ _v_  
-__pitting__ _v_  
+__pitted__ _v_ :four::shit: (pitting) _Pitted cherries._  
 __pivot__ _n_  
 __pivotal__ :two::shit:  
 __pixie__  
 __pizazz__ :two: An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzle__ _n_ :two::shit: (penis?)  
 __pk__  
-__placard__ _n_  
-__placard__ _n_ :two::shit::camera:  
+__placard__ _n_ :three::shit::camera:  
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
 __placemats__ _n_  
@@ -7336,11 +7275,7 @@ __pox__
 __ppg__ _Sanders is averaging 13.3 ppg._  
 __practice__ _n_ _A pediatrics practice._  
 __pram__  
-__prance__ _v_  
-__prance__ _v_ :three::shit: _On the floor exercise, Wieber prances, tumbles and smiles._  
-__prance__ _v_ _The horse pranced._  
-__pranced__ _v_  
-__prancing__ _Prancing reindeer._  
+__prance__ _v_ :five::shit: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
 __prattle__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
@@ -7356,30 +7291,19 @@ __predator__ _n_
 __prediabetes__  
 __preeminent__  
 __preempt__ _v_  
-__preen__ :three::shit: (preening) _She didn't preen for her grandfather._  
-__preened__  
-__preening__  
+__preen__ _v_ :five::shit: (preened, preening) _She didn't preen for her grandfather._  
 __prefab__ _Prefab vacations._  
 __premier__ _adj_  
-__premium__ _Pay the premiums._  
-__premium__ _To pay a premium for a larger-but-lighter vehicle._  
-__premium__ _n_ _People would spend hundreds of dollars a month in premiums._  
-__premiums__ _Health premiums._  
-__premiums__ _Individuals have paid their premiums._  
+__premium__ _n_ :five::shit: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
 __prenup__  
 __prep schools__  
-__prep__ (preparatory?)  
-__prep__ _v_  
-__prep__ _v_ :three::shit:  
-__preposterous__  
-__preposterous__  
-__preposterous__ _adj_ :four::shit:  
+__prep__ _n_? (preparatory?)  
+__prep__ _v_ :five::shit: (prepped)  
+__preposterous__ _adj_ :six::shit:  
 __preposterously__  
-__prepped__ _v_  
 __preppers__  
 __prepping__ _v_  
-__prerogative__  
-__prerogative__ :two::shit:  
+__prerogative__ :three::shit:  
 __prescience__ _n_  
 __prescient__ :three::shit:  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
@@ -7399,15 +7323,11 @@ __prez__ or __Prez__ :two: _n_ _Informal_ President.
 __price point__ _The best in price point._  
 __price tag__  
 __pricey__  
-__prick__ _He already had the prick for it._  
-__prick__ _v_  
-__prick__ _v_ _Pricking their finger to do a blood test._  
-__prick__ _v_ _To prick consciences._  
-__pricked__ _v_ _Horse pricked up her ears and pranced._  
+__prick<sup>1</sup>__ _v_ :four::shit: (pricked) _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
+__prick<sup>2</sup>__ _n_ _He already had the prick for it._ 
 __prickled__ _v_ _Rob's skin prickled._  
 __prickling__  
-__prickly__  
-__prickly__  
+__prickly__ :two::shit:  
 __pride__ _v_ :two::shit: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
 __pries__ _He pries your buttocks apart._  
 __priestesses__ _n_  
@@ -7416,25 +7336,20 @@ __primacy__ _n_
 __primal__ _adj_ :two::shit: _He let out a primal scream._ _Primal feelings._  
 __prime-age__  
 __prime__ _Their master bedroom has a prime view of the green wall._  
-__primed__  
-__primed__  
+__primed__ :two::shit:  
 __primer__ _n_  
 __priming__ _v_  
 __primly__ :two::shit:  
 __princes__ :open_mouth: _The New Hollywood princesa embraces Kurosawa as their master._  
-__prior__ _Continued from the prior page._  
-__prior__ _His data show 30% fewer arrest citations compared to the 15 months prior._  
-__prior__ _Make sure that flight controls move prior to flight._  
+__prior__ :three::shit: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
 __prise__ _n_  
 __prissy__ _adj_ :two::shit:  
 __privy__ _n_ :five::shit:  
 __prix__ _A $40 prix fixe meal._  
-__prize purse__ _A prize purse of $1 million._  
-__prize__ _A notorious outlaw has stolen his prize rifle._  
-__prize__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
+__prize<sup>1</sup>__ :two::shit: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
+__prize<sup>2</sup>__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
 __prizefighter__ :three::shit:  
-__pro bono consultant__  
-__pro bono__  
+__pro bono__ :two::shit: _Pro bono consultant._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __probation__ _A person has ben sentenced to probation._  
 __probity__  
@@ -7447,16 +7362,12 @@ __profanely__
 __professed__ _v_  
 __proffering__  
 __profiteering__  
-__profligate__  
-__profligate__  
-__profligate__ :two::shit:  
+__profligate__ :four::shit:  
 __profusion__  
 __prohibit__  
-__promenade__  
-__promenade__ _n_  
+__promenade__ _n_ :two::shit:  
 __prominence__  
-__prominent__ :two::shit: _Package carrying a prominent warning._  
-__prominent__ _adj_  
+__prominent__ _adj_ :three::shit: _Package carrying a prominent warning._  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prompt__ _v_ :two::shit: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
@@ -9197,8 +9108,7 @@ __sot__ :two::shit: _A surly sot._
 __sound bite__ :four::shit::open_mouth: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound bites__ _n_  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
-__sound__ _A sound investment._  
-__sound__ _A sound sleep._  
+__sound__ :two::shit: _A sound investment._ _A sound sleep._  
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
@@ -9207,9 +9117,7 @@ __soused__ _v_
 __southpaw__ :two: _n_ A left-handed boxer who leads with the right hand. _To fight a southpaw._ _Informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ _:es: zurdo_  
 __sovereign__  
 __sovereignty__ :open_mouth:  
-__sow__ :two::shit: _A drunk sow._  
-__sow__ _n_  
-__sow__ _n_  
+__sow__ _n_ :four::shit: _A drunk sow._  
 __soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a soybean bin._  
 __space heater__ _n_  
 __spackle__ :two::shit:  
