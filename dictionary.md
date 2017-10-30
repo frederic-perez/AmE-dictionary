@@ -3843,30 +3843,19 @@ __foreshadow__ _v_ :two::shit:
 __forestall__ _v_ :three: It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
 __forestalled__  
 __foretell__  
-__forfeit<sup>1</sup>__ _v_ :four: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._  
-__forfeit<sup>2</sup>__ _n_ A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
-__forfeit__  
-__forfeit__ _I cannot believe my soul will be forfeit._  
-__forfeit__ _v_  
-__forfeit__ _v_ _We actually had to forfeit a game or two for not having enough players._  
-__forfeited__  
-__forfeited__ _v_  
+__forfeit<sup>1</sup>__ _v_ :nine: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
+__forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
-__forgo__ _v_  
-__forgo__ _v_ :seven: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
+__forgo__ _v_ :eight: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgoes__ _v_  
 __forgone__  
 __fork__ _Gordon at fork in the road._  
 __forlon__  
-__forlorn__  
-__forlorn__  
-__forlorn__ _adj_ :five: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
+__forlorn__ _adj_ :seven: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
-__forsake__ _v_  
-__forsake__ _v_  
-__forsake__ _v_ :two::shit:  
+__forsake__ _v_ :four::shit:  
 __fort__ Fortification(?)  
 __forte<sup>1</sup>__ _n_ Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
@@ -3874,8 +3863,7 @@ __forthright__
 __fortified wine__  
 __foul play__ :five::dart: Violence, esp. murder.  
 __foul__ _Foul language.__   
-__founder__ _v_  
-__founder__ _v_ _The attempt foundered._  
+__founder__ _v_ :two::shit: (foundered) _The attempt foundered._  
 __foundries__ _Metal foundries._  
 __foundry__  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
@@ -3883,9 +3871,7 @@ __four hundred__ _This room has four hundred doors!_ :es: tropecientos?
 __four-poster beds__  
 __four-wheeler__  
 __fourth wall__ :open_mouth:  
-__fowl__  
-__fowl__  
-__fowl__ _Access to public lands and water fowl._  
+__fowl__ :three::shit: _Access to public lands and water fowl._  
 __fowler__  
 __foxing stains__  
 __foyer__ _n_  
@@ -3898,17 +3884,10 @@ __franchise__ _Romo is the Cowboys franchise quarterback._
 __franchisees__  
 __frats__ _n_  
 __fraught__ :five: _adj_ __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
-__fray<sup>1</sup>__ _n_  
-__fray<sup>2</sup>__ _v_ :nine::m: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
-__fray__ _n_  
-__fray__ _v_  
-__frayed__ _v_  
-__frazzled__  
-__frazzled__  
-__frazzled__  
-__frazzled__ _Sexist ads banned: No fumbling dads, frazzled wives._  
-__frazzled__ _adj_  
-__frazzled__ _v_  
+__fray<sup>1</sup>__ _n_ :two::shit:  
+__fray<sup>2</sup>__ _v_ :nine::m: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._    
+__frazzled<sup>1</sup>__ _adj_ :five::shit: _Sexist ads banned: No fumbling dads, frazzled wives._  
+__frazzled<sup>2</sup>__ _v_  
 __freak-out__  
 __free estimate__ :three::shit: _Call now for your free estimate._  
 __free lunch__  
@@ -3919,24 +3898,15 @@ __freewheel__ _v_ :three::shit: (freewheeling) _Freewheeling style._ _Freewheeli
 __freewheel__ _v_ _Freewheeling style._  
 __freewheeling__ :two::shit: _A freewheeling conversation._  
 __freezer__ :two::shit: _Chest/Upright freezer._ :camera:  
-__frenzy__  
-__frenzy__  
-__fret__ _v_  
-__fret__ _v_ (fretted)  
-__fret__ _v_ :two::shit:  
+__frenzy__ :two::shit:  
+__fret__ _v_ :nine::shit: (fretted, fretting)  
 __fretful__  
 __fretful__  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
-__fretted__ _v_  
-__fretting__ _v_  
-__fretting__ _v_ :three::shit:  
 __frigid__ (frigid winds) Extremely cold.  
 __frilled__ _Frilled apron._  
 __fringe__  
-__frisk__  
-__frisk__  
-__frisk__ _v_  
-__frisk__ _v_ _I have to frisk you._  
+__frisk__ _v_ :four::shit: _I have to frisk you._  
 __frisson__  
 __frites__ _Steak frites._  
 __fritter__ _v_  
@@ -4277,10 +4247,8 @@ __grinding__ _Bumping and grinding._
 __gring__ _The grind of life on the road._  
 __grip-and-grin__ _Grip-and-grin shots._  
 __grip__ _v_  
-__gripe__ _n_  
-__gripe__ _n_ :open_mouth:  
-__gripe__ _n_ :two::shit: _Not a single gripe._  
-__gripe__ _v_  
+__gripe<sup>1</sup>__ _n_ :open_mouth::four::shit: _Not a single gripe._  
+__gripe<sup>2</sup>__ _v_  
 __griping__ _v_  
 __gripped__ _v_ _That 1995 murder trial gripped USA._  
 __gripping__ :two::shit: _A gripping contest._  
@@ -7510,25 +7478,16 @@ __quadrennial__
 __quadroons__  
 __quaffable__  
 __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
-__quagmire__ :two: _n_ __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ :es: atolladero  
-__quagmire__ _Local journalists are caught in the quagmire._  
+__quagmire__ _n_ :three: __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::shit:  
-__quail<sup>2</sup>__ _v_ (quailed)  
-__quail__ _v_  
-__quailed__ _v_  
-__quaint__  
-__quaint__  
-__quaint__ _Quaint streets._  
-__quaint__ _adj_  
-__quaint__ _adj_ :five::shit: _Quaint town._  
+__quail<sup>2</sup>__ _v_ :three::shit: (quailed)  
+__quaint__ _adj_ :nine::shit: _Quaint town._ _Quaint streets._  
 __quaintly__ :two::shit:  
 __quakes__ _v_  
-__qualm__  
-__qualm__ (qualms) :three: _n_ An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
+__qualm__ _n_ :four: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ :six: Difficult dilemma. _All-Star managers face quandary._  
 __quarry__  
-__quarter__ _The team's front office is respected in many quarters._  
-__quarters__ _To return to their quarters._  
+__quarter__ :two::shit: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
 __quash__ _v_ :six::shit: (quashed) _To quash her subpoena._  
 __quavered__  
@@ -7549,8 +7508,7 @@ __quick__ _His nails bitten to the quick._
 __quickening__ :two::shit: _He felt a quickening within him._  
 __quicksand__ :two::shit: _I've just signed a quicksand employment contract._  
 __quicksilver__  
-__quid pro quo__  
-__quid pro quo__ _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
+__quid pro quo__ :two::shit: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quill__ _n_  
 __quilt__  
 __quilting__ _Quilting bee._  
@@ -7561,8 +7519,7 @@ __quintessential__ :two::shit:
 __quip__ (quipped, quippy) :six: _n, v_  A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::shit: _The horse quirt._  
-__quiver__ _v_ :five::shit: (quivering)  
-__quivering__  
+__quiver__ _v_ :six::shit: (quivering)  
 __quixotic__  
 __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __rabble-rouser__  
@@ -7773,17 +7730,12 @@ __reed__ _A reed basket._
 __reeds__ :two::shit:  
 __reeds__ _n_  
 __reefer__ :two::shit: _He was hitting on a reefer._  
-__reefs__  
-__reefs__ _n_  
+__reefs__ _n_ :two::shit:  
 __reek<sup>1</sup>__ _n_  
-__reek<sup>2</sup>__ _v_ :six: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
-__reek__ _v_  
-__reek__ _v_  
+__reek<sup>2</sup>__ _v_ :eight: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
 __reel off__ _v_  
-__reel__ _n_  
-__reel__ _v_ (reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
-__reeling__ :two::shit:  
-__reels__ _n_ _The world reels from a series of horrifying terror attacks._  
+__reel<sup>1</sup>__ _n_  
+__reel<sup>2</sup>__ _v_ :four: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reeve__ _n_ :four::shit::open_mouth:  
 __refectory__ _n_ :two::shit:  
 __referenda__  
@@ -9648,13 +9600,11 @@ __suitors__ :two::shit:
 __sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_  
 __sulky__  
-__sullen__  
-__sullen__  
+__sullen__ :two::shit:  
 __sullenly__  
 __sully__ _v_  
 __sultanate__  
-__sultry__  
-__sultry__  
+__sultry__ :two::shit:  
 __summary__ :two::shit: _Summary deaths._ _Summary killings._  
 __sump pump__  
 __sump__ _n_ :two::shit:  
@@ -9671,11 +9621,7 @@ __superpooch__
 __supervise__ _v_  
 __supping__ _v_  
 __supplant__  
-__supple__  
-__supple__ :open_mouth: :es: flexible  
-__supple__ :two::shit:  
-__supple__ :two::shit:  
-__supple__ _A supple weapon._  
+__supple__ :open_mouth::seven::shit: _A supple weapon._ :es: flexible  
 __suppleness__ _Mental suppleness._  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
@@ -10695,8 +10641,7 @@ __vizier__
 __vocal__ :two: _Critics often are the most vocal._  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __voguish__  
-__volition__  
-__volition__  
+__volition__ :two::shit:  
 __volley__ :two::shit: _A volley of invective._ _(military attack?)_  
 __voltron__  
 __voluble__  
@@ -10705,22 +10650,17 @@ __vouch__ _v_
 __voucher__ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __vow__ _v_  
-__vying__  
-__vying__ _v_ :six: Present participle of vie.  
+__vying__ _v_ :seven: Present participle of vie.  
 __wacko__  
 __wad up__ _v_  
 __wad__ _Wads of cash._  
-__wadded__ _v_  
-__wadded__ _v_ :five::shit: _He wadded up the towel._  
+__wadded__ _v_ :six::shit: _He wadded up the towel._  
 __waddle__ _v_ :two::shit: (waddling) _Two chubby guys waddling around the pool table._  
 __wade__ _v_ :five::shit: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __waders__ _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.    
 __wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
-__waffle__ _v_  
-__waffled__ _v_  
-__waffling__  
-__waffling__  
+__waffle__ _v_ :four::shit: (waffled, waffling)  
 __waft__ :two::shit: _v_ _Fine powder that wafts up from footsteps like flour._  
 __wafted__ _v_  
 __wafting__ _v_  
@@ -10748,16 +10688,13 @@ __wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a
 __wallboard__  
 __wallflower__  
 __wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
-__wallow__ _v_ :nine: (wallows, wallowing) __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
-__wallowed__ _v_  
-__wallowed__ _v_  
+__wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::shit: _A wan reception._  
 __wane__ _v_  
 __waning__ :two::shit: _The waning hours._  
 __wanly__ _She droppedand egg on the floor and looked at it wanly._  
 __wanton__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
-__warble__ _v_  
-__warble__ _v_  
+__warble__ _v_ :two::shit:  
 __warblers__  
 __wardrobe__ _Left Bank wardrobe._  
 __warehouse__  
