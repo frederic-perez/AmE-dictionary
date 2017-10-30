@@ -20,3 +20,7 @@ __slog__ _v_
 __stirrups__ _n_ _Ramming your feet into the stirrups._  
 __stop short__ _v_  
 __timid__  
+
+__fend__ _v_ (fending)  
+__parcel__ _It is part and parcel of overturning obstacles._  
+__overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
