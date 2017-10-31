@@ -4535,8 +4535,7 @@ __hazing__ _The college hazing policy._
 __hazmat suit__  
 __head and shoulders__  
 __head and shoulders__ :two::shit: _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
-__head butt__ _n_ _His rival was trying to touch gloves to apologize for a head butt._  
-__head butts__  
+__head butt__ _n_ :two::shit: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _Giving them a head start on finding a job._  
 __head wind__  
@@ -4551,65 +4550,49 @@ __heady__ :two::shit:
 __health condition__  
 __hearing__ _law_  
 __hearkened__  
-__hearsay__  
-__hearsay__  
-__hearsay__ :two::shit:  
+__hearsay__ :four::shit:  
 __hearse__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
 __heartfelt__  
-__hearth__  
-__hearth__ _n_  
-__hearth__ _n_  
-__hearth__ _n_  
+__hearth__ _n_ :four::shit:  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ :two: _n_ The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartthrob__ :four::shit::open_mouth:  
 __heartworm__  
 __heat > to catch a lot of heat__  
 __heatedly__ _Clashed heatedly._  
-__heathen__  
-__heathen__   
-__heathen__ :es: pagano  
-__heathen__ _They were declared guilty of heathen practice._  
+__heathen__ :four::shit: _They were declared guilty of heathen practice._ :es: pagano  
 __heathenish__  
 __heathenism__  
 __heather__  
 __heathy__  
-__heave__ _She produced a school-record heave of 43'6.25 in taking the title._  
-__heave__ _v_  
-__heaving__ _He walked over the heaving earth away from the hated sea._  
+__heave__ _v_ (heaving) :three::shit: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavy-handed__  
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
 __heckler__ :two::shit:  
 __heckling__  
-__hectic__  
-__hectic__  
-__hectic__  
-__hectic__ _adj_  
+__hectic__ _adj_ :four::shit:  
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedonic__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
-__heed__  
-__heed__ :six: _v_ _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
+__heed__ _v_ :seven::shit: _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__  
 __heedlessly__  
-__heel__ _A heel who learns how to be a good egg._  
-__heel__ _v_  
+__heel<sup>1</sup>__ _A heel who learns how to be a good egg._  
+__heel<sup>2</sup>__ _v_  
 __heft__ _n_ :two::shit:  
 __hefted up__  
 __hefty__  
 __heinous__ :three::shit:  
-__heirlooms__  
-__heirlooms__ :three::shit: _Family heirlooms._  
+__heirlooms__ :four::shit: _Family heirlooms._  
 __heist capers__  
 __heist__ :two::shit: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
-__hellbent__  
-__hellbent__ :three::shit:  
+__hellbent__ :four::shit:  
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __helluva__ _A helluva year._  
 __helm__ _n_  
@@ -4618,33 +4601,23 @@ __hem__ _n_ :es: dobladillo
 __hemlock__  
 __hemmed__ _v_ :two::shit:  
 __hemming__  
-__hemp__  
-__hemp__  
-__hemp__ _Hemp plant._  
-__hemp__ _n_  
-__henchman__ :three::shit: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
-__henchmen__  
+__hemp__ _n_ :four::shit: _Hemp plant._  
+__henchman__ :four::shit: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
-__herald__ _v_  
-__heralded__  
-__heralded__ _v_  
+__herald__ _v_ :three::shit: (heralded)  
 __herdsman__ _n_  
 __heretofore__ :two::shit:  
 __herky__ (herky-jerky driving)  
 __hermit__  
 __heroics__ _DH David Ortiz will be remembered for his postseason heroics._  
-__heron__ _n_  
-__herons__ :two::shit:  
-__herring__ _n_  
-__herring__ _n_  
+__heron__ _n_ :three::shit: (herons)  
+__herring__ _n_ :two::shit:  
 __herringbone__ _Basketball shoes with herringbone designs._  
-__hew__ _v_ :seven::shit: (hewing, hewn) _The council then tweaked its own proposal so that it would hew to the LDP version._  
-__hewing__ _v_ _Hewing firewood._  
+__hew__ _v_ :eight::shit: (hewing, hewn) _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key set__ _Allen key set?_  
 __hex-breaking__ _Looking for a hex-breaking sign._  
 __hey__  
-__heyday__  
-__heyday__ :three::shit:  
+__heyday__ :four::shit:  
 __hi-rail truck__ _n_ :camera:  
 __hibachi__  
 __hick__  
@@ -4662,8 +4635,7 @@ __highballs__ _The passengers were sipping highballs at the bar._
 __highfalutin__ _adj_  
 __hijab__ _n_ :camera:  
 __hijabs__  
-__hijinks__  
-__hijinks__ _Adolescent hijinks._  
+__hijinks__ :two::shit: _Adolescent hijinks._  
 __hike<sup>1</sup>__ _n_ :two::shit: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::shit: _Hiked prices._  
 __hike__ _n_ :two::shit: (surge?)  
@@ -4688,31 +4660,21 @@ __hit the wall__
 __hitch<sup>1</sup>__ _n_  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither and thither__ :two::shit::open_mouth:  
-__hither__  
-__hither__ :two::shit: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
-__hitherto__  
-__hitherto__  
-__hitherto__  
+__hither__ :three::shit: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__hitherto__ :three::shit:  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __ho-hum__ _adj_ :three: _Informal_ So lacking in interest as to cause mental weariness; dull; mediocre. _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __ho__  
 __hoagie__  
 __hoarsely__  
 __hoary__ :two::shit:  
-__hobble__ _v_ :four::shit: (hobbled)  
-__hobbled__ _v_  
-__hobbled__ _v_  
-__hobbled__ _v_  
-__hobbled__ _v_ _A few shops were hobbled in 2015._  
-__hobbled__ _v_ _He hobbled on a sore ankle._  
+__hobble__ _v_ :nine::shit: (hobbled) _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
 __hobnailed__ :two::shit: _v_ _Hobnailed boots._  
 __hobnails__  
-__hock__ _n_ _The horse struggled to stand on a broken hock._  
-__hocks__ _n_  
+__hock__ _n_ :two::shit: (hocks) _The horse struggled to stand on a broken hock._  
 __hod__ _n_  
-__hoe<sup>1</sup>__ _n_ A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
+__hoe<sup>1</sup>__ _n_ :two: A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
 __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._  
-__hoe__ _n_  
 __hog cracklings__  
 __hog the sofa__  
 __hog__ (hogged) :two: _n_ _Slang_ A big, heavy motorcycle. _v_ _Informal_ To take more than one's share of: _Don't hog the couch._  
@@ -4720,8 +4682,7 @@ __hogslop__
 __hoist__ _v_ :three::shit: (hoisted) :es: alzar  
 __hokum__ :two::shit: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold a referendum__  
-__hold back__  
-__hold back__ _v_ _Yew root would help a pregnant woman to hold back her fetus._  
+__hold back__ _v_ :two::shit: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold off__ _v_ :two::shit:  
 __hold true__ _v_  
 __hold up a fish__  
@@ -4743,15 +4704,12 @@ __home-delivery__
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
-__homely__  
-__homely__  
-__homely__  
+__homely__ :three::shit:  
 __homeowner__  
 __homesick__  
 __homespun__  
 __homespun__  
-__homestand__  
-__homestand__ :three::shit:  
+__homestand__ :four::shit:  
 __homestead__ :two::shit:  
 __homestretch__ _n_  
 __homestretch__ _n_  
