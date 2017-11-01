@@ -4693,8 +4693,7 @@ __holdings__ _n_
 __holdout__ :two::shit: _A weeklong holdout._  
 __holdover__  
 __holdup__ _v_  
-__hole up__ _v_  
-__holed up__ _v_  
+__hole up__ _v_ :two::shit: (holed up)  
 __holistic__  
 __holler__  
 __hollow__ _n_ :two::shit: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
@@ -4707,24 +4706,19 @@ __homegoods__
 __homely__ :three::shit:  
 __homeowner__  
 __homesick__  
-__homespun__  
-__homespun__  
+__homespun__ :two::shit:  
 __homestand__ :four::shit:  
 __homestead__ :two::shit:  
-__homestretch__ _n_  
-__homestretch__ _n_  
+__homestretch__ _n_ :two::shit:  
 __homie__ _Homies for life._  
-__honcho__  
-__honcho__  
-__honchos__  
+__honcho__ _n_ :three::shit: (honchos)  
 __honeysuckle__  
 __honorary__ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_  
 __hooch__ :two::shit: _Take it easy on the hooch._  
 __hood__ _n_ :two::shit:  
-__hoodlums__  
-__hoodlums__  
+__hoodlums__ :two::shit:  
 __hoods__ _n_  
 __hoodwink__ _v_ To deceive or trick.  
 __hoofer__  
@@ -4759,8 +4753,7 @@ __hot-rodder__
 __hot-wire__ _Hot-wire cars._  
 __hot-wired__  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
-__hounding__  
-__hounding__ _v_  
+__hounding__ _v_ :two::shit:  
 __hounds__ _n_  
 __hourlong__ _The hourlong meeting._  
 __house > take it to the house__  
@@ -4782,32 +4775,26 @@ __hubhub__
 __hubris__ :three::shit: _Intellectual hubris._   
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huddle__ _v_ :two::shit:  
-__huff__  
-__huff__  
-__huffed__ _v_  
-__huffed__ _v_ :four::shit: (huffing)  
+__huff__ :two::shit:  
+__huffed__ _v_ :five::shit: (huffing)  
 __huh__  
 __humble__ _v_ :two::shit: _Another setbackhumbles NFL's most prolific passer._  
-__humdrum__  
-__humdrum__ :four::shit: _A humdrum office building._  
+__humdrum__ :five::shit: _A humdrum office building._  
 __humidor__ _n_  
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __humor__ _v_ _Just humor me._  
-__hump__ _v_ :nine::m::shit: _Got to get the locals humping for you._  
-__humps__ _Two green humps in the mist._  
+__hump<sup>1</sup>__ _v_ :nine::m::shit: _Got to get the locals humping for you._  
+__hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
 __humpty-dumpty__  
 __hunched__ _v_ :two::shit: _This poor guy was hunched over 12 hours a day._  
 __hungup__ _Informal?_ _What's rhe hungup?_  
 __hunk__ (hunky) :four: /hʌŋk/ _n_ __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
-__hunker__ _v_  
-__hunkered__  
-__hunkered__ _v_  
+__hunker__ _v_ :three::shit: (hunkered)  
 __hunky-dory__    
 __hurdle__  
 __hurdy-gurdy__  
-__hurl__ _v_  
-__hurl__ _v_ :six: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
+__hurl__ _v_ :seven: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ :three::shit: _(baseball)_  
 __hurtling__ _v_  
 __husbanded__ _v_ _Rob husbanded his money._  
@@ -4815,18 +4802,14 @@ __husbandry__
 __hush money__ _A hush money case._  
 __hush up__ _v_  
 __hush__ _v_ :four::shit: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
-__husk<sup>1</sup>__ _n_ :four::shit:  
-__husk<sup>2</sup>__ _v_  
-__husks__ _Cane husks._  
-__husky__  
-__husky__  
-__husky__ _Husky voice._  
+__husk<sup>1</sup>__ _n_ :five::shit: (husks) _Cane husks._  
+__husk<sup>2</sup>__ _v_   
+__husky__ :three::shit: _Husky voice._  
 __hutch__ _n_ :two::shit: _The rabbit hutch._  
 __hyacinth__  
 __hymnal__ _The party hymnal._  
 __hymnals__  
-__hyperbole__  
-__hyperbole__  
+__hyperbole__ :two::shit:  
 __hypertensive__ _To be hypertensive._  
 __hypocritical__ :two::shit::open_mouth:  
 __hypoglycemia__  
@@ -4852,16 +4835,13 @@ __if you will__ :open_mouth:
 __iffy__ :two::shit: _Iffy call._  
 __ignition interlocks__  
 __ignominious__  
-__ilk__  
-__ilk__ _n_ Type or kind: _can't trust people of that ilk._  
+__ilk__ _n_ :two: Type or kind: _can't trust people of that ilk._  
 __ill__  
 __illiterate__  
-__illustrious__  
-__illustrious__ :two::shit::open_mouth: _An illustrious career._  
+__illustrious__ :three::shit::open_mouth: _An illustrious career._  
 __imam__  
 __imbalance__ _n_  
-__imbibe__ _v_  
-__imbibing__  
+__imbibe__ _v_ :two::shit: (imbibing)  
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
 __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
@@ -4870,34 +4850,24 @@ __immobile__
 __imp__ _Its imp genius._  
 __impairment__  
 __impartible__  
-__impasse__  
-__impasse__ :three: :open_mouth: Deadlock or stalemate. _At impasse._  
+__impasse__ :four::open_mouth: Deadlock or stalemate. _At impasse._  
 __impeach__ _v_ :two::shit:  
 __impeachment__ :two::shit:  
 __impeccable__  
-__impeccably__  
-__impeccably__  
-__impede__ _v_  
-__impeded__ _v_  
+__impeccably__ :two::shit:  
+__impede__ _v_ :two::shit: (impeded)  
 __impedimenta__ _n_  
 __impending__ _adj_ :eight: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
-__imperil__  
-__imperil__ _v_  
-__imperil__ _v_  
-__imperiled__  
+__imperil__ _v_ :four::shit: (imperiled)  
 __imperious__  
 __impermissible__ :two::shit:  
 __impervious__ :two::shit:  
-__impetus__  
-__impetus__  
-__impetus__  
+__impetus__ :three::shit:  
 __impinge__  
 __impish__ _Impish sense of humor._  
 __implausible__  
-__impound__ _The Ponticac was impounded._  
-__impound__ _v_  
-__imprecation__  
-__imprecation__ _n_ A curse.  
+__impound___v_ :two::shit: _The Ponticac was impounded._  
+__imprecation__ _n_ :two: A curse.  
 __imprint__ _n_  
 __imprisoned__  
 __imprisoned__ _v_ _Simpson has been imprisoned for almost nine years._  
