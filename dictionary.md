@@ -8517,20 +8517,14 @@ __shrew__ _n_  __1__ Any of various small, chiefly insectivorous mammals of the 
 __shriek__ (shrieked) :two::shit: _v_  
 __shrieking__  
 __shrieks__  
-__shrift__  
-__shrift__ :three::shit:  
-__shrill__  
-__shrill__  
+__shrift__ :four::shit:  
 __shrill__ :three::shit: _Increasing shrill chorus._  
-__shrill__ _v_ _Crickets shrilled._  
+__shrill__ _v_ :three::shit: _Crickets shrilled._  
 __shrilly__  
 __shrimp__  
 __shrines__ _n_  
-__shrivel up__ _v_  
-__shrivel up__ _v_ :two::shit:  
-__shrivel__ _v_ :three::shit: (shriveled)  
-__shriveled__ _v_  
-__shriveled__ _v_  
+__shrivel up__ _v_ :three::shit:  
+__shrivel__ _v_ :five::shit: (shriveled)  
 __shriven__ _v_  
 __shriving__  
 __shriving__ _n_  
@@ -8903,16 +8897,12 @@ __snit__ _President Trump responded with a typical Twitter-snit._
 __snoodlike__  
 __snoop__ _v_  
 __snootiness__  
-__snooty__  
-__snooty__ :two::shit:  
-__snooty__ _adj_  
+__snooty__ _adj_ :four::shit:  
 __snort__  
 __snorted__ _v_  
 __snorting__ _v_  
 __snot rag__  
-__snot__  
-__snot__  
-__snot__ _n_  
+__snot__ _n_ :three::shit:  
 __snout__ _n_  
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::shit: _Snowcat ride._  
@@ -10979,32 +10969,20 @@ __yarn__
 __yarn__ _n_ :two::shit:  
 __yawing__ _v_  
 __yawn__ _n_ _The sound of yawns and crickets._  
-__yawning pit__  
-__yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively opes your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
-__yawning<sup>2</sup>__ _adj_ With the mouth wide open indicating boredom or sleepiness.  
-__yawning__  
-__yawning__ _He felt a yawning loneliness._  
-__yawning__ _adj_  
+__yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
+__yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay__ _Yay, Giants!_  
-__yearn__ _v_  
-__yearn__ _v_  
-__yearn__ _v_ _Mr. Schneider once yearned to be an astronaut._  
-__yearn__ _v_ __1__ :two: To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
-__yearning__ _n_ :four: Prolonged unfulfilled desire or need. _Syn_ longing  
-__yearning__ _v_  
-__yearnings__  
+__yearn__ _v_ __1__ :six: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
+__yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __years old__ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __yellow wine__  
 __yelp__ _v_ (?)  
 __yelped__ _v_  
 __yelps__ _Puppy yelps._  
-__yeoman__  
-__yeoman__  
-__yeoman__  
+__yeoman__ :three::shit:  
 __yesteryear__ :two::shit:  
 __yew root__  _Yew root would help a pregnant woman to hold back her fetus._  
-__yew tree__  
-__yew tree__  
+__yew tree__ :two::shit:  
 __yew__  
 __yield__ :two::shit: _Failing to yield to pedestrians._  
 __yin and yang__  
