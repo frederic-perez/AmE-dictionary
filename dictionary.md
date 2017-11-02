@@ -8734,33 +8734,23 @@ __sling__ _n_ :two::shit: _The sling wrappred around his forearm._
 __slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slip<sup>1</sup>__ _n_ _A pink slip._  
 __slip<sup>2</sup>__ _v_ Decrease?  
-__slippage__  
-__slippage__ _n_  
+__slippage__ _n_ :two::shit:  
 __slipper__ _n_ :two::shit: (bag?)  
 __slippers__  
 __slippery slope__  
 __slips__ _Sailboats were rocking in their slips._  
 __slit > hi-slit dress__  
-__slit<sup>1</sup>__ _n_  
-__slit<sup>2</sup>__ _v_ :two::shit: _Slitted door._ _The screen was slit on the back porch door._  
-__slit__ _adj_ :two::shit:  
+__slit<sup>1</sup>__ _n_ :three::shit:  
+__slit<sup>2</sup>__ _v_ :four::shit: (slitting) _Slitted door._ _The screen was slit on the back porch door._  
 __slither__ _v_  
 __slithering__ :two::shit:  
-__slitting__ _v_  
-__slitting__ _v_  
 __sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
 __sliver<sup>1</sup>__ _n_ :seven::shit: _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :four::shit:  
-__sliver__  
-__sliver__ _A sliver of chicken._  
-__sliver__ _Slivers of salmon._  
-__sliver__ _n_  
-__slob__  
-__slob__ _n_  
-__slobber__ _v_ :two::shit: (slobbered)  
-__slobbering__  
+__sliver__ _n_ :four::shit: _A sliver of chicken._ _Slivers of salmon._  
+__slob__ _n_ :three::shit: (slobs)  
+__slobber__ _v_ :three::shit: (slobbered, slobbering)  
 __slobby__  
-__slobs__ _n_  
 __slog<sup>1</sup>__ :six: _v_ (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :three: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._    
 __slop__ :two: Residual waste, such as cafeteria food slop.  
@@ -8779,34 +8769,28 @@ __slovenly__ :two::shit:
 __slow-as-molases__  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
-__slug__ _n_  
-__slug__ _v_ :three::shit: (slugs)  
+__slug<sup>1</sup>__ _n_  
+__slug<sup>2</sup>__ _v_ :three::shit: (slugs)  
 __sluice__ _v_ :six::shit: (sluiced, sluicing)  
-__slum__ (slums) :five::shit: _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
-__slum__ _v_  
+__slum<sup>1</sup>__ _n_ :five::shit: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
+__slum<sup>2</sup>__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
 __slumber__ :three::shit: _Slumber parties._  
 __slumming__ _v_ :two::shit:  
 __slumped__ _v_  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
-__slur__  
-__slur__ _n_  
+__slur__ _n_ :two::shit:  
 __slurp__ _v_ :two::shit: _Whitey sucked his soda through a straw until it slurped against the ice._  
-__slush__  
-__slush__ _n_ _The offshore ice and slush._  
+__slush__ _n_ :two::shit: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
-__sly__  
-__sly__  
-__sly__ _adj_ :six: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
+__sly__ _adj_ :eight: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
 __smack__ _v_ _He smacked his lips._  
 __small potatoes__ _Informal_ Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small__ _I rubbed the small of her back._  
-__smallpox__  
-__smallpox__  
+__smallpox__ :two::shit:  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
-__smart__ _Smart riding-clothes._  
-__smart__ _Smart tailored jackets._  
+__smart__ :two::shit: _Smart riding-clothes._ _Smart tailored jackets._  
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :eight: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
@@ -8828,8 +8812,7 @@ __smock<sup>1</sup>__ _n_
 __smock<sup>2</sup>__ _v_  
 __smog__ :two::shit:  
 __smolder<sup>1</sup>__ _n_  
-__smolder<sup>2</sup>__ _v_  
-__smolder__ _v_ :six: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
+__smolder<sup>2</sup>__ _v_ :seven: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
@@ -8846,36 +8829,21 @@ __smugly__ :six::shit: _To laugh smugly._
 __smugness__  
 __smut__ _They want to report smut._  
 __snafus__  
-__snag<sup>1</sup>__ _n_ :two::shit: :es: problema  
-__snag<sup>2</sup>__ _v_ :two::shit: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
-__snag__  
-__snag__ _v_  
-__snags__ _n_  
-__snags__ _n_  
-__snags__ _n_ (glitches?)  
+__snag<sup>1</sup>__ _n_ :five::shit: (snags) :es: problema  
+__snag<sup>2</sup>__ _v_ :four::shit: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snap<sup>1</sup>__ _n_ :two::shit: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
-__snap<sup>2</sup>__ _v_  
+__snap<sup>2</sup>__ _v_ :two::shit:  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
-__snap__ _v_  
 __snappier__  
 __snapping__  
-__snare drum__ :es: tambor militar pequeño  
-__snare drums__  
-__snare__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
-__snare__ _v_  
-__snare__ _v_  
-__snared__ _v_  
-__snark__  
-__snark__ (snarky) :three: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
+__snare drum__ :two::shit: (snare drums) :es: tambor militar pequeño  
+__snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
+__snare<sup>2</sup>__ _v_ :three::shit: (snared)  
+__snark__ :four::dart: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
 __snarky__ _Snarky remarks._  
-__snarl<sup>1</sup>__ _n_ :two: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
-__snarl<sup>2</sup>__ _v_ :five: (snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
+__snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
+__snarl<sup>2</sup>__ _v_ :nine: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarl__ _adj_ _Snarled airport._  
-__snarl__ _n_ :two::shit: _A permanent snarl._  
-__snarl__ _v_  
-__snarled__ _v_  
-__snarled__ _v_  
-__snarling__  
 __snarling__ _n_  
 __snatch__ _v_  
 __snazzy__ :two: _Informal_ Stylish and attractive. _Snazzy little silk dresses._  
@@ -8885,10 +8853,8 @@ __snick__ _v_
 __snicker<sup>1</sup>__ _v_ :seven::shit: (snickers, snickered, snickering)  
 __snicker<sup>2</sup>__ _n_ _The first question set off snickers on the audience._  
 __snide__  
-__sniffed__ _v_  
-__sniffed__ _v_  
-__sniffle__ _v_  
-__sniffles__  
+__sniffed__ _v_ :two::shit:  
+__sniffle__ _v_ (sniffles)  
 __snifter__ _n_ :dart:  
 __snigger__ _n_  
 __sniggering__  
@@ -8908,8 +8874,8 @@ __snowbank__ _He was driving and crashed into a snowbank._
 __snowcat__ _n_ :two::shit: _Snowcat ride._  
 __snowdrifts__  
 __snowmobiler__  
-__snowpack__ _Snowpacking measurements._  
-__snowpack__ _n_  
+__snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
+__snowpack<sup>2</sup>__ _n_  
 __snowplows__ _n_  
 __snowshoeing__ :two::shit:  
 __snub-nosed__ :two::shit: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
