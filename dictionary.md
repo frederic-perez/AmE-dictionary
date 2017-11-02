@@ -3441,27 +3441,20 @@ __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _It could be feasst or famine._  
 __fancy-schmancy__  
-__fancy__ _n_  
-__fancy__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
+__fancy<sup>1</sup>__ _n_  
+__fancy<sup>2</sup>__ _v_ __1__ __a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__  
 __fang__ _n_ :open_mouth:  
 __fangs__ _n_  
 __fannies__  
 __fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __far and away__ :open_mouth:  
-__far cry__  
-__far cry__  
-__far cry__ :three::shit: _It is a far cry from yhe 1970s._  
+__far cry__ :five::shit: _It is a far cry from yhe 1970s._  
 __far-fetched__  
-__far-flung__ :two::shit:  
-__far-flung__ _He represented a far-flung roster of clients in bribery and corruption cases._  
-__farce__  
-__farce__  
-__fare<sup>1</sup>__ _n_ :four::shit: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._  
-__fare<sup>2</sup>__ _v_ :five::shit: (fared, faring) _Mrs. Clinton fared well in California._  
-__fare__ _n_ :two::shit: _A dinner different from our usual fare._  
-__fared__ _v_ _Investment banks have fared particularly well._  
-__fares__ _v_  
+__far-flung__ :three::shit: _He represented a far-flung roster of clients in bribery and corruption cases._  
+__farce__ :two::shit:  
+__fare<sup>1</sup>__ _n_ :six::shit: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
+__fare<sup>2</sup>__ _v_ :seven::shit: (fares, fared, faring) _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._  
 __farflung__ _Farflung operations and profits._  
 __fascia__ 
 __fast and furious__ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
@@ -3469,9 +3462,7 @@ __fastening__ _n_
 __fastidious__  
 __fastness__  
 __fat rolls__ :camera::shit: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
-__fathom__  
-__fathom__ _v_  
-__fathom__ _v_ :two::shit:  
+__fathom__ _v_ :four::shit:  
 __fatigue__  
 __fatwa__ :two: Religious edict.   
 __faulty__ :dart: _Faulty software._  
@@ -3480,23 +3471,16 @@ __fave__
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
 __fawn<sup>2</sup>__ _v_  
-__fawning__  
-__fawning__  
+__fawning__ :two::shit:  
 __fawningly__  
-__faze__ _v_  
-__faze__ _v_  
-__faze__ _v_  
-__fazed__  
-__fealty__  
-__fealty__  
+__faze__ _v_ :four::shit: (fazed)  
+__fealty__ :two::shit:  
 __fearl__ _A fearl youngster._  
-__feast__  
-__feast__ _v_  
+__feast__ _v_ :two::shit:  
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __featuring__  
-__feckless__  
-__feckless__ _adj_ :two::shit:  
+__feckless__ _adj_ :three::shit:  
 __fecklessness__  
 __feel for__  
 __feint__  
@@ -8526,31 +8510,24 @@ __shrines__ _n_
 __shrivel up__ _v_ :three::shit:  
 __shrivel__ _v_ :five::shit: (shriveled)  
 __shriven__ _v_  
-__shriving__  
-__shriving__ _n_  
+__shriving__ _n_ :two::shit:  
 __shrubbery__  
 __shtick__ or __shtik__ :three: _n_ _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::shit: (shucked, shucking)  
-__shucking__ _Portraits of a man shucking corn._  
-__shucking__ _v_ _I know when you're shuckin' and jivin' me._  
+__shucking__ _v_ :two::shit: _I know when you're shuckin' and jivin' me._ _Portraits of a man shucking corn._  
 __shudderings__ _n_  
 __shudders__ _v_ :two::shit:  
 __shuffle off__  
-__shuffling__  
-__shuffling__ _v_  
-__shun__ _v_ :es: esquivar, rehuir  
-__shun__ _v_ :six::shit: (shunned)  
-__shunned__ _v_  
+__shuffling__ _v_ :two::shit:  
+__shun__ _v_ :eight::shit: (shunned) :es: esquivar, rehuir  
 __shunting__ _v_ _With a PDA, there is continous shunting of blood through the lungs._  
 __shush__ _v_  
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah  for its fourth straight road victory._  
 __shut out__ _v_ :two::shit:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
-__shutter__ _The finest selection of custom shutters since 1973._  
-__shutters__ _n_  
-__shy of__  
-__shy of__ _Just shy of its highest mark._  
+__shutter__ _n_ :two::shit: (shutters) _The finest selection of custom shutters since 1973._  
+__shy of__ :two::shit::open_mouth: _Just shy of its highest mark._  
 __shy__ _He might be a ticket or two shy._  
 __shylock rackets__  
 __shylock__  
@@ -8566,28 +8543,20 @@ __sidecar shovelhead__
 __sided__ _Installed in all sided (vs brick) homes._  
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidelines__ :three::shit: _Investors retreated to the sidelines._  
-__sidestep__ _v_  
-__sidestep__ _v_  
+__sidestep__ _v_ :two::shit:  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
-__sieve__  
-__sieve__ _n_  
-__sift__ _v_  
-__sift__ _v_  
-__sift__ _v_ :four: __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
-__sifted__ _Empty packets of it sifted around at our feet._  
+__sieve__ _n_ :two::shit:  
+__sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sign-off__ _n_  
-__signage__  
-__signage__ :three: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
-__signee__  
-__signees__ _Malory was one of four singnees._  
+__signage__ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
+__signee__ _n_ :two::shit: (signees) _Malory was one of four singnees._  
 __signet ring__  
 __siitting duck__  
 __sill__ :two::shit:  
-__silo__  
-__silo__ _n_ _A silo-launched missile._  
+__silo__ _n_ :two::shit: _A silo-launched missile._  
 __silt__ _n_ :three::shit:  
 __silver lining__  
 __silverplate__ _v_  
