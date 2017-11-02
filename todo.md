@@ -24,3 +24,8 @@ __timid__
 __fend__ _v_ (fending)  
 __parcel__ _It is part and parcel of overturning obstacles._  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
+
+__cops and robbers__ (play)  
+__treat__ _n_  
+__flashback__  
+__flash-forward__ _Syn_ analepsis  
