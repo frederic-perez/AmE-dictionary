@@ -7588,19 +7588,14 @@ __rebate__ :five: _n_ A partial refund to someone who has paid too much for tax,
 __rebate__ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :open_mouth:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
-__rebuff__ _v_ :four: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
-__rebuffed__ _v_  
-__rebuffed__ _v_  
-__rebuffed__ _v_  
+__rebuff__ _v_ :seven: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
 __rebuke__ _n_ :four::shit:  
 __rebut__ _v_  
 __rec__ _Damonika has worked as youth and rec leader._  
 __recall__ _n_  
-__recant__ _v_  
+__recant__ _v_ :two::shit: (recanted)  
 __recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
-__recanted__ _v_  
-__recap__ _n_  
-__recap__ _n_ _The written recap of the meeting._  
+__recap__ _n_ :two::shit: _The written recap of the meeting._  
 __recede__ _v_  
 __receivership__  
 __recess__ _The deepest recesses of the brain._  
@@ -7610,8 +7605,7 @@ __recitalist__
 __reckon__ (reckons) :three::shit:  
 __reckoning__  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
-__reconvene__ _v_  
-__reconvene__ _v_ :four::shit: (reconvenes) _Kubiak and Manning will reconvene next week._  
+__reconvene__ _v_ :five::shit: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
 __recoup__ _v_ :five: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.
@@ -7620,27 +7614,23 @@ __rector__
 __recuse__ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red hot__ :two::shit: _Now the market is red hot._  
-__red taoe__ _It would add red tape and increasing processing time._  
-__red tape__  
+__red tape__ :two::shit: _It would add red tape and increasing processing time._  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
 __redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
 __redemptions__ _n_  
 __redo__ :two::shit:  
-__redolent__  
-__redolent__ _adj_ :five::shit: _His ceremony was redolent with tension._  
+__redolent__ _adj_ :six::shit: _His ceremony was redolent with tension._  
 __redos__  
 __redoubt__ :two::shit:  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
 __redress__ _To seek redress._  
-__redshirt__  
-__redshirt__ _v_ :three::shit: (redshirting)  
+__redshirt__ _v_ :four::shit: (redshirting)  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::shit:  
 __reed__ _A reed basket._  
-__reeds__ :two::shit:  
-__reeds__ _n_  
+__reeds__ _n_ :three::shit:  
 __reefer__ :two::shit: _He was hitting on a reefer._  
 __reefs__ _n_ :two::shit:  
 __reek<sup>1</sup>__ _n_  
@@ -8156,9 +8146,7 @@ __scion__
 __scion__ :two::shit:  
 __scissor lift__  
 __scleroderma__  
-__scoff__ (scoffed) :three: _v_ Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
-__scoffed__ _v_  
-__scoffed__ _v_  
+__scoff__ _v_ :five: (scoffed)  Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
@@ -8168,25 +8156,10 @@ __scope out__ _v_
 __scorching__  
 __score__ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
-__scour__ _v_  
-__scour__ _v_ :six: (scoured) __1__ __a__ To clean, polish, or wash by scrubbing vigorously: scour a dirty oven. __b__ To remove by scrubbing: scour grease from a pan. __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.
-__scoured__ _v_  
-__scourge__  
-__scourge__  
-__scourge__  
-__scourge__  
-__scourge__ _n_ :seven: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
-__scouring__ _v_  
-__scours__  
-__scowl__ _v_  
-__scowl__ _v_  
-__scowl__ _v_  
-__scowled__ _v_  
-__scowling__ _v_  
-__scrabble__ _v_  
-__scramble__ (scrambled, scrambling) :four: _v_ __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
-__scrambles__ _v_  
-__scrambling__  
+__scour__ _v_ :nine::m: (scours, scoured, scouring) __1__ __a__ To clean, polish, or wash by scrubbing vigorously: scour a dirty oven. __b__ To remove by scrubbing: scour grease from a pan. __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.
+__scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
+__scowl__ _v_ :five::shit: (scowled, scowling)  
+__scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap iron__ :es: chatarra?  
 __scrap<sup>1</sup>__ _n_ :two::shit: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>3</sup>__ _v_ :eight::shit: (scraps, scrapped) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._   
