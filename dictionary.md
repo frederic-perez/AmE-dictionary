@@ -4423,9 +4423,7 @@ __hamstring__ _n_ :two::shit:
 __handily__  
 __handiwork__ :two::shit:  
 __handoff__  
-__handout__ (handouts) :two::shit:  
-__handouts__  
-__handouts__ _n_  
+__handout__ _n_ :four::shit: (handouts)  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _The hands-off approach._  
@@ -4459,8 +4457,7 @@ __hardball__
 __hardliner__  
 __hardpan__ :two::shit: _Hardpan dirt yards._  
 __hardscrabble__ _Hardscrabble journeys._  
-__hardship__  
-__hardship__ _n_ :five: (hardships) _n_ Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
+__hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hardwood__ :two::shit: _The hardwood floor._  
 __hardy__  
 __harebrained__  
@@ -4471,23 +4468,19 @@ __harness__ _v_ _Harnessing big data._
 __harp__ _v_ _She told her she was always harping on him._  
 __harping__ _v_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago_  
-__harried__ :two::shit: _A harried mom._  
-__harried__ _Harried souls._  
-__harried__ _v_  
+__harried__ :four::shit: _A harried mom._ _Harried souls._  
 __harrow__ _n_  
 __harrowing__ _A harrowing oddyssey._  
-__harry__ _v_  
-__harry__ _v_ :two::shit: _The weather will continue to harry firefighters._  
+__harry__ _v_ :three::shit: _The weather will continue to harry firefighters._  
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
 __hash out__ _v_  
-__hash__ _I'm gonna cook his hash, man._  
-__hash__ _v_  
+__hash<sup>1</sup>__ _I'm gonna cook his hash, man._  
+__hash<sup>2</sup>__ _v_  
 __hashish__  
 __hasp__ _n_ :two::shit: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ :two::shit:  
-__hasten__  
-__hasten__ _v_  
+__hasten__ _v_ :two::shit:  
 __hastily__ _A hastily arranged news conference._  
 __hasty__ :two::shit:  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
@@ -6240,40 +6233,29 @@ __non-call__ _He complained about non-calls._
 __non-denominational__ _Non-denominational services._  
 __non-exempt__ _Non-exempt position._  
 __nonce__  
-__nonchalant__  
-__nonchalant__ :two::shit:  
+__nonchalant__ :three::shit:  
 __nonchalantly__  
-__noncommittal__  
-__noncommittal__ :two::shit:  
+__noncommittal__ :three::shit:  
 __nondescript__ :two::shit:  
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_  
 __nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
-__noose__ _n_  
-__noose__ _n_ :three::shit: (noses)  
-__noose__ _v_  
+__noose<sup>1</sup>__ _n_ :four::shit: (noses)  
+__noose<sup>2</sup>__ _v_  
 __normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy," about getting back to normal life after the war. Since then, the word has been used often instead of "normality." _It took me months to get back to normalcy._  
 __norovirus__  
 __north__ _The owners are seeking north of $20 billion for the company._  
 __nos__ _They got nos._  
 __nose > running noses__  
 __nose-thumbing__ :camera:  
-__nosebleed__ _n_  
-__nosebleeds__  
-__nosy__  
-__nosy__ _adj_ _He's nosy as hell._  
+__nosebleed__ _n_ :two::shit: (nosebleeds)  
+__nosy__ _adj_ :two::shit: _He's nosy as hell._  
 __not even close__ :dart:  
-__notch__ :two::shit:  
-__notch__ _v_  
-__notch__ _v_  
-__notch__ _v_  
-__notched__ _v_ :four::shit:  
+__notch__ _v_ :nine::shit: (notched)  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
-__notwithstanding__  
-__notwithstanding__  
-__notwithstanding__  
+__notwithstanding__ :three::shit:  
 __novella__  
 __noxious__  
 __nozzle__  
@@ -6288,15 +6270,12 @@ __nullified__ _v_
 __nullify__ _v_  
 __numb__  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
-__numbered__ :dart: _I hope those days are numbered._  
-__numbered__ _His days are numbered as Vizier._  
+__numbered__ :dart::two::shit: _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbly__  
 __nunchucks__  
-__nurse__ _v_  
-__nurse__ _v_  
+__nurse__ _v_ :two::shit:  
 __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
-__nurture__ _v_ _Dallas Stars flourish under nurturing Nill._  
-__nurtured__  
+__nurture__ _v_ :two::shit: (nurtured) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nutmeg__ _n_  
 __nuttery__  
@@ -6304,10 +6283,8 @@ __nuttily__
 __nuzzled__ _v_  
 __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._  
 __oaf__  
-__oafish__  
-__oafish__  
-__oars__ _n_  
-__oars__ _n_  
+__oafish__ :two::shit:  
+__oars__ _n_ :two::shit:  
 __oases__ _n_  
 __oat__ _n_  
 __oatmeal__  
@@ -6328,9 +6305,7 @@ __obverse__ _The obverse hub of a coin._
 __occurr__ :open_mouth:  
 __octogenarians__  
 __octoroons__  
-__oddball__  
-__oddball__  
-__oddball__ :three: _Informal_ A strange or eccentric person. :es: bicho raro  
+__oddball__ :five: _Informal_ A strange or eccentric person. :es: bicho raro  
 __oddsmakers__  
 __oddyssey__ :open_mouth: _A harrowing oddyssey._  
 __odometer__ :two::shit:  
@@ -6347,14 +6322,12 @@ __offbeat__ :two::shit: _His offbet partner._ _Offbeat nature._
 __office drones__ _Sara and I met as office drones in 1999._  
 __offing__ _A budding rivalry could be in the offing._  
 __offramp__  
-__offset__ _v_  
-__offset__ _v_  
-__offsets__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
+__offset<sup>1</sup>__ _v_ :two::shit:  
+__offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __oft-shouting-sermon__  
 __oft__ :two::shit: _The oft-hated SAT._  
 __oftentimes__  
-__ogle__ _v_  
-__ogle__ _v_  
+__ogle__ _v_ :two::shit:  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
@@ -6364,8 +6337,7 @@ __old hat__
 __old saying__  
 __old-timers__ _n_  
 __olefin__ _n_  
-__oligarch__  
-__oligarch__ _n_  
+__oligarch__ _n_ :two::shit:  
 __omelets__  
 __omen__  
 __omen__ :two::shit:  
