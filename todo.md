@@ -29,3 +29,11 @@ __cops and robbers__ (play)
 __treat__ _n_  
 __flashback__  
 __flash-forward__ _Syn_ analepsis  
+
+__blips__ _n_ _Put the blips and bumps in proper proportion._  
+__exertion__  
+__fretting__ _v_  
+__heckler__ _n_  
+__jawing__ _v_ _Stop jawing and get to work._  
+__shy__ _v_  
+__strain__ _n_  
