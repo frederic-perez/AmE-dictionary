@@ -940,8 +940,7 @@ __bedspreads__ _n_
 __bedstead__  
 __beech__  
 __beech__ _n_  
-__beef up__ :four: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
-__beef up__ _v_  
+__beef up__ :five: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::shit: _He is trying to build some beef and muscle._  
 __beeline__  
 __beep-de-beep__  
@@ -3736,10 +3735,8 @@ __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
-__folk__ (plural)  
-__folk__ _n_  
-__follow suit__  
-__follow suit__  
+__folk__ _n_ :two::shit: (plural)  
+__follow suit__ :two::shit:  
 __folly__ _n_ :six: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __food processor__  
 __food-handler's permit__  
@@ -3748,11 +3745,9 @@ __foodstuffs__
 __fool's gold__  
 __foolhardy__ :two::shit:  
 __foolproof__ _A foolproof measure._  
-__foosball table__  
-__foosball__ _Foosball table._  
+__foosball__ :two::shit: _Foosball table._  
 __foot-stomping__  
-__foot__ _v_  
-__foot__ _v_  
+__foot__ _v_ :two::shit:  
 __foothill__  
 __foothold__ _A foothold._  
 __footloose__ :open_mouth:  
@@ -3768,48 +3763,38 @@ __for the ages__ :three::shit: _A comeback for the ages._ _A year for the ages._
 __for the most part__  
 __for the sake of__  
 __for-profit__  
-__forage__ _n_  
-__forage__ _v_  
-__foraged__  
-__forager__  
-__foragers__  
-__foray__ _n_  
-__foray__ _n_ :five: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
+__forage<sup>1</sup>__ _n_  
+__forage<sup>2</sup>__ _v_ :two::shit: (foraged)  
+__forager__ _n_ :two::shit: (foragers)  
+__foray__ _n_ :six: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
 __forbearance__  
 __forceful__  _A forceful pitch._  
 __forcible__ :three::shit:  
 __fore and aft__  
-__fore__  
-__fore__ _n_ :three::shit:  
-__forebode__ _v_ :five: (foreboding) _v_ __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
-__foreboding__  
+__fore__ _n_ :four::shit:  
+__forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreclose__ _v_  
 __foreclosure__ _n_ :two::shit:  
 __forefathers__  
 __forefinger__  
 __forefront__  
 __forego__  
-__foregone__  
-__foregone__  
-__foreman__  
-__foreman__  
+__foregone__ :two::shit:  
+__foreman__ :two::shit:  
 __forenoon__ _We had a real gully washer in the forenoon._  
 __forensice__  
 __foreplay__  
 __foreshadow__ _v_ :two::shit:  
-__forestall__ _v_ :three: It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
-__forestalled__  
+__forestall__ _v_ :four: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
 __foretell__  
 __forfeit<sup>1</sup>__ _v_ :nine: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
-__forgo__ _v_ :eight: Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
-__forgoes__ _v_  
+__forgo__ _v_ :nine: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgone__  
 __fork__ _Gordon at fork in the road._  
-__forlon__  
-__forlorn__ _adj_ :seven: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
+__forlorn__ _adj_ :eight: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
 __forsake__ _v_ :four::shit:  
@@ -3851,14 +3836,11 @@ __free lunch__
 __free ride__  
 __freebies__ _n_ :three::shit: _The tickets come with some bonus freebies._  
 __freeloading__  
-__freewheel__ _v_ :three::shit: (freewheeling) _Freewheeling style._ _Freewheeling phone calls._  
-__freewheel__ _v_ _Freewheeling style._  
-__freewheeling__ :two::shit: _A freewheeling conversation._  
+__freewheel__ _v_ :six::shit: (freewheeling) _Freewheeling style._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._  
 __freezer__ :two::shit: _Chest/Upright freezer._ :camera:  
 __frenzy__ :two::shit:  
 __fret__ _v_ :nine::shit: (fretted, fretting)  
-__fretful__  
-__fretful__  
+__fretful__ :two::shit:  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __frigid__ (frigid winds) Extremely cold.  
 __frilled__ _Frilled apron._  
@@ -3866,8 +3848,7 @@ __fringe__
 __frisk__ _v_ :four::shit: _I have to frisk you._  
 __frisson__  
 __frites__ _Steak frites._  
-__fritter__ _v_  
-__fritter__ _v_ :three::shit: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
+__fritter__ _v_ :four::shit: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
 __fritters__ _Corn fritters._  
 __frizzled__ _Frizzled beard._  
 __frock__  
@@ -3901,25 +3882,18 @@ __fumed__ _v_
 __fumitory__  
 __fun house__ _n_  
 __funereal__ _Funereal tone._  
-__funk__  
-__funk__ _n_  
-__funk__ _n_ :five::shit: _His breath a fog of funk and decayed shrimp._ _She breathed the funk that rose from her armpits._ _The Packers offense are in full-fledged funk._ _I started to emerge from my Catholic funk._  
+__funk__ _n_ :seven::shit: _His breath a fog of funk and decayed shrimp._ _She breathed the funk that rose from her armpits._ _The Packers offense are in full-fledged funk._ _I started to emerge from my Catholic funk._  
 __furled__ _v_ :two::shit:  
 __furlong__ _n_ :two: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __furnish__ _v_ _To furnish suites of labs._  
-__furnishing__ _Home furnishings._  
-__furnishings__ _Upscale furnishings._  
+__furnishing__ :two::shit: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
-__furrow__ _n_  
-__furrow__ _n_ :three::shit:  
+__furrow__ _n_ :four::shit:  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
-__fusillade__  
-__fusillade__ _n_  
-__fuss__ _v_  
-__fussed__ _v_  
-__fussing__ _v_  
+__fusillade__ _n_ :two::shit:  
+__fuss__ _v_ :three::shit: (fussed, fussing)  
 __futility__ :three::shit:  
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __gab away__ _v_ _The gang was gabbing away._  
@@ -3932,12 +3906,9 @@ __gadfly__
 __gaff__ _n_  
 __gaffe__ _n_  
 __gaffer__ _n_  
-__gaffes__  
-__gaffes__ _n_  
+__gaffes__ _n_ :two::shit:  
 __gag__ _The cases's gag order._  
-__gaggle__  
-__gaggle__ :three: _n informal_ A disorderly group of people.  _A gaggle of Phillies fans taunted him._ _The media gaggle._  
-__gaggle__ _A gaggle of students._  
+__gaggle__ _n_ :five: _informal_ A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._  
 __gah!__  An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
 __gait__ _n_ :two::shit: _A pretty boy with a swing in his gait._  
 __gal__  
@@ -3947,11 +3918,9 @@ __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._
 __galleys__ _n_  
 __galling__ _adj_ :two::shit: _A galling loss._  
 __galloping__  
-__galvanize__ _v_  
-__galvanized__  
+__galvanize__ _v_ :two::shit: (galvanized)  
 __gambit__  
-__game plan__  
-__game plan__  
+__game plan__ :two::shit:  
 __game-changing__  
 __game__ (hunting)  
 __gamely__  
@@ -3962,9 +3931,7 @@ __gangbangers__
 __gantlet__ :two::shit: _A media gantlet._  
 __gaping__ :two::shit: _A gaping hole._  
 __gar__ _n_  
-__garb__ _In a prison garb._  
-__garb__ _n_ :two::shit:  
-__garb__ _n_ _They wore medical garb of some variety._  
+__garb__ _n_ :four::shit: _They wore medical garb of some variety._ _In a prison garb._  
 __garbage chute__ :camera:  
 __garbed__  
 __gargantuan__  
@@ -3972,9 +3939,7 @@ __gargle__ _n_
 __gargoyle__  
 __gargoyles__ :two::shit:  
 __garish__ :five::shit::open_mouth: _They are charming and garish at the same time._  
-__garland__ _Garland motifs on carved oak paneling._  
-__garland__ _n_  
-__garlands__ :camera: _Evergreen garlands._  
+__garland__ _n_ :three::camera::shit:_Garland motifs on carved oak paneling._ _Evergreen garlands._  
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnish__ _v_ :two::shit:  
