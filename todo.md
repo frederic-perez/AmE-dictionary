@@ -37,3 +37,20 @@ __heckler__ _n_
 __jawing__ _v_ _Stop jawing and get to work._  
 __shy__ _v_  
 __strain__ _n_  
+
+__bikeshed<sup>1</sup>__ _n_  
+__bikeshed<sup>2</sup>__ _v_  
+__bikeshedding__ _n_ :dart:  
+__bog__ _v_  
+__buck off__ _v_  
+__conniving__  
+__jousting__ _adj_ _Jousting egos._  
+__lore__  
+__outspend__ _v_  
+__pinpricks__ _n_  
+__pitched__ _If not from pitched battles, where do we find victory?_  
+__pontoon__ _n_  
+__solace__  
+__straining__ _v_ :two::shit:  
+__waffling__  
+__wily__  
