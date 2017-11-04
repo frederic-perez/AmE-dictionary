@@ -3647,32 +3647,24 @@ __flayed__ _v_
 __fleck__ _n_  
 __fledging__  
 __fledgling__ :seven::open_mouth: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
-__fleece__  
-__fleece__  
-__fleece__ (fleeced) :two::shit:  
+__fleece__ _v_ :four::shit: (fleeced)  
 __fleecy__  
 __fleeting__  
 __fleetingly__  
 __fleshed out__  
-__flex__ _Flex time and equal pay are important._  
-__flex__ _v_  
-__flex__ _v_  
-__flex__ _v_ :open_mouth: _Broncos flex muscle to win._  
+__flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
+__flex__ _v_ :open_mouth::three::shit: _Broncos flex muscle to win._  
 __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
 __flight__ _n_ _He climbed four flights of stairs._  
 __flimsy__  
-__flinch__ _n_  
-__flinch__ _v_ :two::shit:  
-__flinch__ _v_ __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
-__flinching__  
-__fling__ _v_  
-__fling__ _v_ :four::shit: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__flinch<sup>1</sup>__ _n_  
+__flinch<sup>2</sup>__ _v_ :four: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
+__fling__ _v_ :five::shit: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __flint__ _n_  
 __flintily__  
-__flintlock__  
-__flintlocks__ _n_  
+__flintlock__ _n_ :two::shit: (flintlocks)  
 __flinty__ _Flinty soil._  
 __flip (me) the bird__  
 __flip the bird__  
@@ -3683,8 +3675,7 @@ __flit__
 __flitting__  
 __flitty__  
 __float__ _n_ :two::shit: _People pull a huge traditional float during the Yamahoko parade._  
-__floater__ _n_ :two::shit:  
-__floaters__ _(Basketball)_ _I wonder how I missed so many floaters._  
+__floater__ _n_ :three::shit: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
 __flodaway__ _Foldaway bed._  
 __floe__ _n_  
@@ -3696,15 +3687,12 @@ __floodlamps__
 __floodlight__  
 __floor show__  
 __floor vote__ _n_  
-__flop<sup>1</sup>__ _n_ :four::shit: _You stay at the flop he's got rented for you._ _One of the most expensive flop in Broadway history._  
-__flop<sup>2</sup>__ _v_ :two::shit:  
-__flop__ _Kevin Bell was a flop._  
-__flop__ _v_ (flops)  
+__flop<sup>1</sup>__ _n_ :five::shit: _You stay at the flop he's got rented for you._ _One of the most expensive flop in Broadway history._ _Kevin Bell was a flop._  
+__flop<sup>2</sup>__ _v_ :three::shit: (flops)  
 __flopper__ _n_ :three::shit: _Try keeping your flopper in your pants for a change._  
 __flopping__ _Flopping--pretending to have been fouled by an opponent--is an unfortunate aspect of many sports._  
 __floppy > floppy socks__  
-__florets__  
-__florets__ _Your dinner is two florets of broccoli._  
+__florets__ :open_mouth::two::shit: _Your dinner is two florets of broccoli._  
 __florid__  
 __flotilla__  
 __flotsam__  
@@ -3714,13 +3702,11 @@ __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a
 __flow__ _Three people in flowing black robes._  
 __flown__ _v_  _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
-__flub<sup>2</sup>__ _n_ A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
-__flubs__ _n_  
+__flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluff__  
 __fluffy__  
 __fluke__ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
-__flummox__  
-__flummox__ _v_ :three::shit: (flummoxed)  
+__flummox__ _v_ :four::shit: (flummoxed)  
 __flung__ _v_ :two::shit:  
 __flunk__  
 __flunkie__ :two::shit: _You"re just another flunkie for the state._  
@@ -3732,33 +3718,20 @@ __flurry__ _Neymar took a flurry of short steps before unleasing a kick to the r
 __flurry__ __1__ :four: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
-__fluster__ _v_ :three: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
-__flustered__ _v_  
-__flustered__ _v_  
+__fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
-__flutter__ (flutters, fluttering) :two::shit: _v_ _One hand fluttering under the water._  
-__flutter__ _Two pieces of paper fluttered to the floor._  
-__flutter__ _v_  
-__flutter__ _v_  
-__flutter__ _v_  
-__flutter__ _v_  
+__flutter__ _v_ :seven::shit: (fluttered, flutters, fluttering) _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._  
 __fluttering__ _n_  
 __fly on the wall__  
 __fly-by-night__
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
-__flying colors__ :two::shit:  
-__flying colors__ _In these respects, Delta Air Lines passed with flying colors._  
+__flying colors__ :three::shit: _In these respects, Delta Air Lines passed with flying colors._  
 __fob__ :two::shit:  
 __fodder__ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
-__foible__ :two: _n_ A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
-__foibles__  
-__foil<sup>1</sup>__ _n_ _He lost in the round of 32 in individual foil._  
-__foil<sup>2</sup>__ _v_  
-__foil__ _n_  
-__foil__ _v_ _The story's comic foils along with King's mother._  
-__foiled__ _v_  
-__foiled__ _v_ _As many as five terror plots were foiled last year._  
+__foible__ :two: _n_ (foibles) A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
+__foil<sup>1</sup>__ _n_ :two::shit: _He lost in the round of 32 in individual foil._  
+__foil<sup>2</sup>__ _v_ :four::shit: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
 __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
@@ -4366,34 +4339,25 @@ __gut__ _v_ _Trump could gut the agency's budget._
 __gutsy__  
 __gutter__ _n_  
 __gutter__ _n_ :two::shit: _He turned his head and spit in the gutter._  
-__guzzle__ _Guzzling ice water._  
-__guzzle__ _v_  
+__guzzle__ _v_ :two::shit: _Guzzling ice water._  
 __guzzler__ :two::shit: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
 __gym-rat__ _He's a gym-rat type of guy._  
 __gyrate__ _v_ :two::shit:  
 __ha!__ :two::shit:  
 __hack__ _v_ _Coughing and hacking while shuffling around._  
-__hackles__ _n_  
-__hackles__ _n_  
+__hackles__ _n_ :two::shit:  
 __hackneyed__  
 __hacksaws__ _n_  
 __haemophilia__  
 __haft sin__  
 __haggard__ :three::shit:  
-__haggle__ _v_  
-__haggling__  
-__haggling__ _n_  
-__haggling__ _n_  
+__haggle__ _v_ :two::shit: (haggling)  
+__haggling__ _n_ :two::shit:  
 __hagiography__  
 __hags__ _Screaming histerically like Shakespearean hags._  
-__hail<sup>1</sup>__ _v_ :four::shit: (hailed, hailing)  
-__hail<sup>2</sup>__ _n_ :three::shit: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._  
-__hail__ _n_ :two::shit: _In an average year hail causes more losses than tornadoes._  
-__hailed__ _v_  
-__hailed__ _v_  
-__hailing__ _v_ _She was hailing a ride home._  
-__hails__ _Mr. Tucker hails from St. Louis._  
+__hail<sup>1</sup>__ _v_ :eight::shit: (hails, hailed, hailing) _She was hailing a ride home._ _Mr. Tucker hails from St. Louis._  
+__hail<sup>2</sup>__ _n_ :five::shit: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstones__  
 __hailstorm__ _n_  
 __hair clippers__ _n_ :camera:  
@@ -4405,20 +4369,15 @@ __half-baked__ _A half-baked plan to launch a start-up._
 __half-wits__  
 __halfback__  
 __hall boy__ _n_  
-__hallmark__ _n_  
-__hallmark__ _n_ :two::shit:  
+__hallmark__ _n_ :three::shit:  
 __hallowed__ :four::shit: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
-__halter__ _n_  
-__halter__ _n_ :four::shit: _The black woman wore a halter and a pair of shorts._  
-__ham hocks__  
-__ham hocks__ _n_  
+__halter__ _n_ :five::shit: _The black woman wore a halter and a pair of shorts._  
+__ham hocks__ _n_ :two::shit:  
 __ham-and-egg__ _A ham-and-egg lawyer._  
 __hamdbill__ _n_  
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
-__hamper__ (hampered) :two::shit: _v_  
-__hamper__ _v_  
-__hampered__ _v_ :open_mouth:  
+__hamper__ _v_ :open_mouth::four::shit: (hampered)  
 __hamstring__ _n_ :two::shit:  
 __handily__  
 __handiwork__ :two::shit:  
