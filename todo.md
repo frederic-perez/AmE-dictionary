@@ -54,3 +54,31 @@ __solace__
 __straining__ _v_ :two::shit:  
 __waffling__  
 __wily__  
+
+__acquiescence__  
+__agency__ :open_mouth: _We still have some agency over our situation._  
+__apologist__ _n_  
+__arrested__ _v_ :open_mouth: _While others are arrested by discouragement, we are not._  
+__as it happens,__  
+__bawdy__ _Bawdy humor._  
+__bear__ _v_  
+__bluster__  
+__bottled up__ _v_  
+__contextualize__ _v_ :dart:  
+__dormant__  
+__dove__ _v_  
+__emulsified__ _v_  
+__forbear__ _v_  
+__girded__ _v_  
+__glower__  
+__jarred__ _v_  
+__marshal__ _v_  
+__onerous__ _adj_ :open_mouth: _Onerous task._  
+__portended__ _v_  
+__sanguine__ _adj_ :open_mnouth:  
+__sentient__  
+__shirking__ _v_  
+__shy__ _v_  
+__swashbuckling__ _n_  
+__unencumbered__ _v_ _Now you can travel unencumbered._  
+__unravel__  
