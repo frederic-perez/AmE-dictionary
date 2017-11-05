@@ -112,8 +112,7 @@ __Faustian__ _Faustian device._
 __Fibbies__  
 __Filipino__  
 __Foosball__  
-__For starters,__  
-__For starters,__  
+__For starters,__ :three::shit:  
 __Forest Recreation Park__  
 __Fourth Estate__  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
@@ -668,8 +667,7 @@ __ascetic__
 __ascot__  
 __ascribe__ _v_ :two::shit:  
 __ash borers__ _Emerald ash borers._  
-__ashen__ :open_mouth:  
-__ashen__ _His face turned ashen._  
+__ashen__ :two::shit::open_mouth: _His face turned ashen._  
 __aside__ _First, a personal aside._  
 __asinine__ _adj_ :open_mouth::two::shit: _To have him not get his chances is asinine for us._ _Asinine questions._  
 __asp__ _n_  
@@ -691,10 +689,7 @@ __astride__ :three::shit:
 __astute__  
 __asunder__ _A world torn asunder by evil and hate._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
-__at odds__  
-__at odds__ :two::shit:  
-__at odds__ _The overhaul have put Pemex and the Energy Ministry at odds._  
-__at odds__ _They're often at odds._  
+__at odds__ :four::shit: _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the door__ _The cost to attend is $35 in advance and $40 at the door._  
 __at the earliest__  
@@ -705,16 +700,13 @@ __atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite
 __athwart__  
 __atlatl__  
 __atolls__ _n_  
-__atone__ _v_  
-__atone__ _v_ :two::shit:  
-__atoned__ _v_  
+__atone__ _v_ :three::shit: (atoned)  
 __atop__  
 __atrium__  
 __atrocious__  
 __attack dog__ _n_  
-__attain__ _v_ :two::shit: _I wish you success in attaining your dream._  
+__attain__ _v_ :three::shit::open_mouth: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
-__attaining__ :open_mouth: _I wish you success in attaining your dreams._  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_  
 __attest__ _v_  
@@ -731,26 +723,20 @@ __aum__
 __autoclaving__  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__  
-__autocratic__  
-__autocratic__ :two::shit:  
+__autocratic__ :three::shit:  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
-__avail__ _v_  
-__avail__ _v_ _Nothing avails against the Death._  
+__avail__ _v_ :two::shit: _Nothing avails against the Death._  
 __aver__ _v_  
 __average citizens__  
 __averse__ :three::shit: _He was not averse to using the news media._ _We are not averse to moving._  
-__avert__  
-__averted__ _v_  
+__avert__ _v_ :two::shit: (averted)  
 __avid__ :three:  
-__avocation__  
-__avocation__ _n_ :open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
+__avocation__ _n_ :two::open_mouth: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
-__awash__  
-__awash__ :seven: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
-__awe__  
-__awe__ _Rob regarded the complex systems with awe._  
+__awash__ :eight: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awe__ :two::shit: _Rob regarded the complex systems with awe._  
 __awestruct__  
 __awry__  
 __axle__ _n_  
@@ -786,12 +772,9 @@ __backwoods__
 __bad blood__ :two::shit:  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
-__bade__ _She bade me bring you here._  
-__bade__ _v_ _He bade them goodnight._  
-__bade__ _v_ _The brothers bade him welcome._  
+__bade__ _v_ :three::shit: _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ _Felix was thrown when his horse shied a a badger._  
-__badinage__  
-__badinage__ _n_  
+__badinage__ _n_ :two::shit:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__  
 __baffle__ _v_ :five::shit: _Baffled children._  
@@ -967,8 +950,7 @@ __beguiling__ _adj_ :two::shit: _The Artist has an utterly beguiling purity._
 __behemoth__ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ :two::shit: _The wedding ceremony was a joy to behold._  
-__beholden__  
-__beholden__ _adj_ :seven: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
+__beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::shit: _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :two::shit:  
 __beige book__ ?  
@@ -3758,7 +3740,6 @@ __for days to come__ :dart: _It was a highlight that would be looped on SportsCe
 __for good measure__  
 __for good__ _Leadville's only hospital is preparing to close for good in March._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
-__for starters,__  
 __for the ages__ :three::shit: _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the most part__  
 __for the sake of__  
@@ -5746,8 +5727,7 @@ __menial__ _n_
 __menology__  
 __mental memo__ _n_ :camera:  
 __mentees__  
-__merc__  
-__merc__  
+__merc__ :two::shit:  
 __mercantile__  
 __merch__ Merchandaising?  
 __merchant__  
@@ -5762,13 +5742,10 @@ __metal flashing__
 __metal shavings__  
 __meted out__ _v_ :two::shit: _All the suspensions have been meted out._  
 __meteor__  
-__metheglin__  
-__metheglin__ _n_  
+__metheglin__ _n_ :two::shit:  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
-__mettle__  
-__mettle__  
-__mettle__ _n_ :three::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
+__mettle__ _n_ :five::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
 __mick__ _n_ :three::shit:  
 __mid-afternoon__  
@@ -5781,23 +5758,16 @@ __midst__
 __midswing__  
 __midwife__ :open_mouth: Nurse trained to assist women in childbirth.  
 __mien__  
-__miffed__ _adj_ :three: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
-__miffed__ _v_  
+__miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __might__ _China's economic might._  
-__migrant__  
-__migrant__ _n_  
-__migrants__  
-__milch__  
-__milch__ _A milch cow._  
+__migrant__ _n_ :three::shit: (migrants)  
+__milch__ :two::shit: _A milch cow._  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter. :moho:  
-__mildew<sup>2</sup>__ _v_ :three::shit: (mildewed) Affect or be affected with mildew. :es: mohoso  
-__mildewed__  
-__mildewed__  
+__mildew<sup>2</sup>__ _v_ :five::shit: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
 __militias__ :two::shit:  
-__milk__ _v_  
-__milk__ _v_ _Milk the clock__  
+__milk__ _v_ :two::shit: _Milk the clock__  
 __milkweed__  
 __milled about__ _v_  
 __millet__ _He had eaten millet gruel._  
