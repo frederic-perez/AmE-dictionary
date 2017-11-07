@@ -1269,8 +1269,8 @@ __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers fo
 __boorishness__  
 __boorishness__  
 __boosters__ _Mississippi boosters._  
-__boot__ _The boot is a still-generous 17.7 cubic feet._  
-__boot__ _v_ _Now the Eagles have a postseason victory to boot._  
+__boot<sup>1</sup>__ _n_ _The boot is a still-generous 17.7 cubic feet._  
+__boot<sup>2</sup>__ _v_ _Now the Eagles have a postseason victory to boot._  
 __bootlegger__  
 __bop__ _v_  
 __bordello__  
@@ -1869,11 +1869,9 @@ __chip-off__
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
 __chip<sup>2</sup>__ _v_ _We had to chip and be patient._  
 __chip__ _Let's walk into that meeting tomorrow with a chip on our shoulders._  
-__chip__ _v_  
-__chipped__ _v_  
+__chip__ _v_ :three::shit: (chipped, chipping)  
 __chipper__  
 __chippies__ :two::shit:  
-__chipping__ _v_  
 __chippy__  
 __chiropractor__ _n_  
 __chirp away__ _v_  
@@ -1886,8 +1884,7 @@ __choker__ _A velvet choker._
 __chomp__ _v_  
 __chomping__  
 __choppy__ (choppier) :three: (of a sea, lake, or river) Having many small waves. _Before the waters get choppier._ _Choppy waters._  
-__chops__ _n_  
-__chops__ _n_ :six::shit: _Informal_ A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
+__chops__ _n_ :seven::shit: _Informal_ A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chortles__ _v_  
 __chuck out__ _v_  
 __chuck__ _v_ :five::shit: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
@@ -3362,12 +3359,8 @@ __exec__ :two::shit: (execs, executive?)
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
 __exemption__ _Dru earned an exemption into the tournament._  
-__exert__ _v_  
-__exert__ _v_  
-__exert__ _v_ :four::shit: (exerted) _To exert due diligence._  
-__exertion__  
-__exertion__  
-__exertion__ _Her face was bright with exertion._  
+__exert__ _v_ :six::shit: (exerted) _To exert due diligence._  
+__exertion__ :three::shit: _Her face was bright with exertion._  
 __exhaust__ _Exhaust fans._  
 __exhibit A__  
 __exonerate__ :two::shit:  
@@ -3376,8 +3369,7 @@ __expediency__
 __expedient__  
 __expedite__ _v_ :dart::three::shit: _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
-__expedited__  
-__expedited__  
+__expedited__ :two::shit:  
 __expediting__ _v_  
 __expeditiously__  
 __expenditure__ _n_ :three: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time.  
@@ -5329,14 +5321,8 @@ __leper__
 __lepers__  
 __lese majeste__ (lèse-majesté) _n_ _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
-__lest__  
-__lest__  
-__lest__  
-__lest__  
-__lest__  
-__lest__ :four: _Conjuction Formal_ __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
-__let alone__  
-__let alone__ :three::shit:  
+__lest__ :nine: _Conjuction Formal_ __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
+__let alone__ :four::shit:  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __levee__  
 __leveled__ :two::shit:  
@@ -5345,15 +5331,12 @@ __leviathan__
 __levied__ _v_ :four::shit: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy__ :thre::shit:  
 __levy__ _v_  
-__lewd__  
-__lewd__ :two::shit:  
-__liability__  
-__liability__ :two::shit:  
+__lewd__ :three::shit:  
+__liability__ :three::shit:  
 __liaison__ 
 __libation__  
 __libations__ _Dutch libations, like ciders, gins and liqueurs._  
-__libel__ :three::shit: _Libel laws._  
-__libel__ _n_  
+__libel__ _n_ :four::shit: _Libel laws._  
 __liberalization__  
 __lice__ _n_ :four: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __lick-spittle__ _A lick-spittle role._  
@@ -5728,23 +5711,19 @@ __medical discharge__ _A medical discharge._
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __meek__ _Blessed are the meek._  
-__meekly__  
-__meekly__  
-__meekly__  
+__meekly__ :three::shit:  
 __meekness__  
 __meet__ _n_ :two::shit: _I started going to international meets._  
 __megalomania__  
 __meh__  
 __melee__ _n_ 
-__mellow__  
-__mellow__ _v_  
+__mellow__ _v_ :two::shit:  
 __mellowed__  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __meme__  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo__ _A memo sent to reporters._  
-__memorandum__  
-__memorandum__  
+__memorandum__ :two::shit:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __memos__  
 __menagerie__  
@@ -7846,21 +7825,15 @@ __rub__ _v_
 __rubbings__ _n_  
 __rubble__ _n_  
 __rucksack__  
-__ruckus__  
-__ruckus__  
-__ruckus__ _n_ :three::shit: _The comment caused a ruckus._  
+__ruckus__ _n_ :five::shit: _The comment caused a ruckus._  
 __rudder__ (airplane)  
 __rudderless__  
-__ruddy__ :five::shit:  
-__ruddy__ _adj_ :four: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
+__ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
-__rue__  
-__rue__ _v_ :two::shit::open_mouth: (rues) _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rue__ _v_ :three::shit::open_mouth: (rues) _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rued__ _v_  
 __rueful__ _He gave a rueful smile._  
-__ruefully__  
-__ruefully__  
-__ruefully__ :two::shit:  
+__ruefully__ :four::shit:  
 __ruffled__ (ruffling) :two::shit: _v_  
 __ruffles__  
 __rug > sweep it under the rug__  
@@ -8383,8 +8356,7 @@ __shriek__ (shrieked) :two::shit: _v_
 __shrieking__  
 __shrieks__  
 __shrift__ :four::shit:  
-__shrill__ :three::shit: _Increasing shrill chorus._  
-__shrill__ _v_ :three::shit: _Crickets shrilled._  
+__shrill__ _v_ :six::shit: _Increasing shrill chorus._ _Crickets shrilled._  
 __shrilly__  
 __shrimp__  
 __shrines__ _n_  
@@ -9035,21 +9007,17 @@ __stamp out__ _Policemen took their own steps to stamp out smoking on the railwa
 __stamp__ _Additional stamp duties went into effect last year._  
 __stamped__  
 __stance__ :six: _n_ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
-__stanch__ _v_  
-__stanch__ _v_  
+__stanch__ _v_ :two::shit:  
 __stand out__ _The dragons are notoriously varied in phisique--they'd stand out in the Mos Eisley Cantina._  
 __stand strong__  
 __stand tall__  
-__stand to reason__  
-__stand to reason__ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
+__stand to reason__ :two::shit: _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __standard__ _n_ :camera: :es: estandarte (?)  
 __standby__ _The old standby._  
 __standings__ _n_ :three::shit: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
-__standof__ _n_  
-__standoff__ _n_ :two::shit:  
-__standout<sup>1</sup>__ _adj_ :six: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
-__standout<sup>2</sup>__ _n_ :two: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
-__standout__ :two::shit:  
+__standoff__ _n_ :three::shit:  
+__standout<sup>1</sup>__ _adj_ :seven: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
+__standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
 __standstill__ _n_ :two::shit: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __stanza__  
 __staph__ _Staph infections._  
