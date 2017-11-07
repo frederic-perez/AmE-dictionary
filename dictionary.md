@@ -6347,14 +6347,8 @@ __outgoing__
 __outgrowth__  
 __outgunned__  
 __outhouse__  
-__outing__  
-__outing__  
-__outing__ (outings) :three::shit:  
-__outings__ _n_  
-__outlandish__  
-__outlandish__  
-__outlandish__  
-__outlandish__ _adj_ :six: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
+__outing__ :six::shit: (outings)  
+__outlandish__ _adj_ :nine: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlay__ _Budget outlays._  
 __outlays__ _n_  
@@ -6367,25 +6361,19 @@ __outpatient__ :two::shit:
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
 __outpouring__  
-__outrage__ :two::shit:  
-__outrage__ :two::shit:  
+__outrage__ :four::shit:  
 __outrageous__ :two::shit:  
-__outreach__  
-__outreach__ :three::shit: _He's an HIV outreach worker._  
-__outreach__ _n_  
+__outreach__ _n_ :four::shit: _He's an HIV outreach worker._  
 __outriggers__  
 __outright__ _adj?_  
 __outré__  
-__outset__ _n_  
-__outset__ _n_  
-__outset__ _n_ :four::shit: _The outset of his campaign._  
+__outset__ _n_ :six::shit: _The outset of his campaign._  
 __outshine__ _v_  
 __outshoot__ _v_ :two::shit: _The Cougars outshot the Sooners 14-6._  
 __outsize__ :two::shit: _An outsize risk._  
 __outsmart__ _v_  
 __outspend__ _v_  
-__outspoken__  
-__outspoken__ :six::open_mouth: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
+__outspoken__ :seven::shit::open_mouth: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
 __outstripped__ _v_  
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
@@ -6405,20 +6393,12 @@ __overflight__
 __overhead bin__ :two::shit: (airplane) _Overhead bin space._  
 __overhead bins__ (airplane) :two::shit:  
 __overlay__ _n_  
-__overly__  
-__overly__  
-__overly__ :dart:  
-__overly__ :five: _adv_ Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
+__overly__ _adv_ :dart::eight: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __overpass__ _n_  
 __overripe__ _An overripe eggplant._  
 __overseas__  
-__oversee__ _Oversee compliance._  
-__oversee__ _v_  
-__oversee__ _v_  
-__oversee__ _v_  
-__oversight__ _An oversight board._  
-__oversight__ _Oversight committee._  
-__oversight__ _n_  
+__oversee__ _v_ :four::shit: _Oversee compliance._  
+__oversight__ _n_ :three::shit: _An oversight board._ _Oversight committee._  
 __overstating__ _v_  
 __overt__  
 __overtake__ _n_ _He made overtakes._  
@@ -6437,38 +6417,25 @@ __pachinko__ (game)
 __pack__ _v_ :two::shit: _Never pack items like medicine or valuables._  
 __package deal__  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
-__paddle__ _v_  
-__paddled__ _v_ _I got paddled at school._  
+__paddle__ _v_ :two::shit: (paddled) _I got paddled at school._  
 __paddock__ _n_  
 __padlock__  
 __paean__ _n_ :four::shit: (paeans) :two::shit:  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __pageboy__  
-__pail__ _n_  
-__pail__ _n_ :two::shit: _A lunch pail._  
+__pail__ _n_ :three::shit: _A lunch pail._  
 __painstaking__ _Painstaking patience._  
 __painter__  
-__paisley__  
-__paisley__  
-__paisley__ _A green paisley bow tie._  
+__paisley__ :three::shit: _A green paisley bow tie._  
 __palatable__ :two::shit:  
 __palate__ _Soft palate._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
 __paleo__  
-__pall__ _n_  
-__pall__ _n_ :four::shit: _The tragedy casts a pall over Austin._  
+__pall__ _n_ :five::shit: _The tragedy casts a pall over Austin._  
 __palladium__  
-__pallbearer__  
-__pallbearer__  
+__pallbearer__ :two::shit:  
 __palled__ _v_  
-__pallet__  
-__pallet__  
-__pallet__  
-__pallet__  
-__pallet__  
-__pallet__ _n_ :four::shit:  
-__pallet__ _n_ :two::shit: _Rob rented a pallet._  
-__pallets__ _Sleeping pallets._  
+__pallet__ _n_ :nine::m::shit: (pallets) _Rob rented a pallet._ _Sleeping pallets._  
 __pallholder__ _n_  
 __palliative__ _Palliative care._  
 __pallor__ _n_  
@@ -6477,13 +6444,8 @@ __palmettos__ :two::shit:
 __palomas__  
 __palpably__  
 __palsy__ :three::shit: _Mild cerebral palsy._  
-__paltry__  
-__paltry__  
-__paltry__ _adj_ :seven: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
-__pamper__ :two::shit: _v_  
-__pampered__  
-__pampered__  
-__pampered__ _v_  
+__paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
+__pamper__ _v_ :five::shit: (pampered)  
 __pampling__  
 __pan drippings__ :two::shit:  
 __pan out__ :two::shit:  
@@ -6497,16 +6459,9 @@ __pangs__ :two::shit:
 __panhandle__ _v_  
 __panhandling__  
 __panned out__  
-__panoply__  
-__panoply__  
-__pant__ (panting) _v_ To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._  
-__pant__ _v_ _Breathless and panting into the microphone._  
-__panted__ _v_  
-__panted__ _v_  
-__panted__ _v_ _In his pain he panted like a dog._  
-__pantry__  
-__pantry__ _n_  
-__pantry__ _n_  
+__panoply__ :two::shit:  
+__pant__ _v_ :five: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
+__pantry__ _n_ :three::shit:  
 __pants down__ :camera: _You might get caught with your pants down._  
 __pants-on-fire__  
 __pantsed__ _v_  
