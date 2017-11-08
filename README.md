@@ -20,6 +20,7 @@ I collect words from multiple sources, including:
 Meaning of the emojis used in the dictionary:
 
 - :open_mouth: Interesting or funny spelling
+- :mega: Interesting or funny pronunciation
 - :dart: Try to learn this particular one!
 - :octocat: Trick aimed at remembering the meaning
 - :es: Translation into Spanish
