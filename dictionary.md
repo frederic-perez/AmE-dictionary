@@ -5516,22 +5516,15 @@ __lumpy__ :two::shit: _Lumpy headlights._
 __lunch lady__ _She worked as a lunch lady._  
 __luncheon__ :five::shit:  
 __lunchpail__  
-__lunge<sup>1</sup>__ _v_ :two::shit:  
-__lunge<sup>2</sup>__ _n_ :two::shit: _A reckless lunge at Gerrard._  
-__lunge__ _v_ _A bull lunges into the pen._  
-__lunged__ _v_  
-__lunged__ _v_  
-__lunges__ _n_ _An amputee did lunges with Mr. Obama._  
+__lunge<sup>2</sup>__ _n_ :three::shit: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
+__lunge<sup>1</sup>__ _v_ :five::shit: (lunges, lunged) _A bull lunges into the pen._  
 __lupine__  
 __lupus__  
 __lurch__ :three::shit: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lurching__ _v_  
 __lure__ :two::shit: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
-__lurk__  
-__lurk__ _v_ :six: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
-__lurked__ _v_  
-__lush__  
-__lush__ _adj_ :seven: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
+__lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
+__lush__ _adj_ :eight: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
 __lushnes__  
 __luster__  
 __lustre__  
@@ -5541,30 +5534,22 @@ __lynch__ _v_ :three::open_mouth: To punish (a person) without legal process or 
 __lyre__  
 __mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __macaroon__  
-__mackerel__  
-__mackerel__  
+__mackerel__ :two::shit:  
 __mackinaw__  
 __madcap__  
 __madrasas__  
 __madrassas__  
 __madrigals__ _n_ :open_mouth:  
-__maelstrom__  
-__maelstrom__  
-__maelstrom__ :two::shit:  
+__maelstrom__ :four::shit:  
 __magazine__ _n_ _They were pledged to keep the castle's magazines full of millet and rice._  
 __maggot__  
 __maggot__ :dart::camera:  
 __maggots__  
 __magpied__ _v_  
 __magpies__  
-__mahogany__  
-__mahogany__  
-__mahogany__ _He took a leather seat at a magohany bar._  
-__maiden__  
-__maiden__ _Maiden flight._  
-__mail__ _Elephants covered in mail._  
-__mail__ _Some elephants were laden with bundles of war mail._  
-__mail__ _n_ _When we go into battle, the elephant wears his own mail._  
+__mahogany__ :three::shit: _He took a leather seat at a magohany bar._  
+__maiden__ :two::shit: _Maiden flight._  
+__mail__ _n_ :three::shit: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ :open_mouth: _Two great, mailed figures circling each other in the desert._  
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __maimed__  
@@ -5578,13 +5563,10 @@ __make out__ _v_
 __make perfect sense__ _It makes perfect sense._  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
-__make strides__  
-__make strides__ _The GOP nominee will need to make huge strides with Latino voters._  
+__make strides__ :two::shit: _The GOP nominee will need to make huge strides with Latino voters._  
 __make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
-__make-or-break__  
-__make-or-break__  
-__makeshift__  
-__makeshift__ _adj_ :six::shit:  
+__make-or-break__ :two::shit:  
+__makeshift__ _adj_ :seven::shit:  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
 __making waves__ :two::shit:  
@@ -6044,8 +6026,7 @@ __nationwide__ _Venezuelan opposition leaders callled Monday for a 24-hour natio
 __nativism__ :two::shit:  
 __nattering__  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
-__natty__  
-__natty__ _adj_ Neat, trim, and smart; dapper.  
+__natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
 __naturalize__ _A naturalized British citizen._  
 __naturalized__ _A naturalized American citizen._  
@@ -6060,21 +6041,17 @@ __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her fam
 __needless to say,__  
 __needlestick__ :open_mouth:  
 __needy__  
-__nefarious__  
-__nefarious__ :two::shit:  
+__nefarious__ :three::shit:  
 __neighed__ _v_  
 __neighing__ _v_  
 __nematodes__  
 __neorealist__  
 __neoteric__  
-__nepotism__ :three::shit:  
-__nepotism__ The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
+__nepotism__ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
 __nerve-racking__  
 __nervy__ :open_mouth::two::shit:  
 __nest egg__ :three::shit:  
-__nestle__ _v_ :two::shit:  
-__nestled__ _v_  
-__nestled__ _v_  
+__nestle__ _v_ :four::shit: (nestled)  
 __nether__  
 __neuroblastoma__  
 __neutered__  
@@ -6089,28 +6066,21 @@ __nibbed__ _v_ (?)
 __nibble<sup>1</sup>__ _n_ (nibbles) :two::shit:  
 __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::shit:  
 __nice and easy__ _Informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
-__niche__  
-__niche__ _n_  
+__niche__ _n_ :two::shit:  
 __nickel__ _n_ _A nickel mine._  
-__nifty__  
-__nifty__ _adj_ _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
-__niggardly__  
-__niggardly__ _adj_  __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
+__nifty__ _adj_ :two: _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __nigh__  
 __nightcap__ :three::shit: (nightcaps) _Whiskey nightcaps._  
 __nightie__  
-__nightmarish__  
-__nightmarish__  
+__nightmarish__ :two::shit:  
 __nihilistic__  
 __nimble__ (nimbler, nimbly) :five: _adj_ __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimble__ _adj_  
 __nineloss__ ?  
 __nip-and-tuck__  
-__nip<sup>1</sup>__ _v_ _Nip them in the bud._  
+__nip<sup>1</sup>__ _v_ :four::shit: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ _There is a nip in the air._  
-__nipped__ _The Gaels were nipped at Washington._  
-__nipping__ _v_  
-__nipping__ _v_  
 __niqab__ _v_  
 __nitpick<sup>1</sup>__ _n_  
 __nitpick<sup>2</sup>__ _v_ :seven::shit: (nitpicked, nitpicking)_They will find something to nitpick at you._ _Nitpicking rules._  
