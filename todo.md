@@ -23,3 +23,7 @@ __strive__ _v_
 __smattering__ _I see just a smattering of raised hands._  
 __by trade__ _I'm an engineer by trade._  
 __sensible__ _This C++ contructor has sensible default values._  
+
+__tribulations__  
+__indomitable__ _Indomitable will._  
+__mope__ _v_ :pencil2:  
