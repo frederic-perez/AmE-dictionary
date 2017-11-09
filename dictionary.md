@@ -48,7 +48,7 @@ __Big Three__ _(automobile manufacturers)_ The three major American automotive c
 __Bouncing Betty__  
 __Branch Davidians__  
 __Britons__  
-__Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute_  
+__Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __C-rations__  
 __CDs__ :two::shit: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
@@ -2414,26 +2414,18 @@ __crossbeam__ _n_
 __crossing t's__ _Crossiing our t's and dotting our i's._  
 __crossover__ _Crossover zone._  
 __crossroad__ _At a crossroad._  
-__crossroads__ _I'm at a crossroads._  
-__crossroads__ _n_ :dart: _We're at a crossroads._ (notice the trailing 's')  
+__crossroads__ _n_ :dart::two::shit::pencil2: _We're at a crossroads._ _I'm at a crossroads._ (notice the trailing 's')  
 __crotchety__  
 __crouch__ :two::shit:  
 __crowbar__ _n_ :two::shit:  
 __crowing__ _v_  
-__crucible__  
-__crucible__ _n_  
-__crucible__ _n_ :three::shit:  
+__crucible__ _n_ :five::shit:  
 __crud__  
-__crude__ _Crude humor._  
-__crude__ _adj_  
+__crude__ _adj_ :two::shit: _Crude humor._  
 __cruel__ _His body looked cruel._  
-__crumb__ _Potato chip crumb._  
-__crumble__ _v_  
-__crumbled__  
-__crumbling<sup>1</sup>__ _adj_ _Crumbling sidewalk._  
-__crumbling<sup>2</sup>__ _v_  
-__crumbs__  
-__crumbs__   
+__crumb__ :three::shit: (crumbs) _Potato chip crumb._  
+__crumble__ _v_ :three::shit: (crumbled, crumbling)  
+__crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::shit: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_  
 __crumpled__ _v_  
@@ -2441,9 +2433,7 @@ __crumpling__
 __crunchtime__  
 __crusader__  
 __crusty__  
-__crutch word__  
-__crutch__ _Diabetes isn't a crutch or an anchor._  
-__crutch__ _It became an escape, then it became a crutch._  
+__crutch__ :three::shit: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :two::shit: _The crux of the matter._  
 __cry foul__ :two::shit: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __crystal meth__  
@@ -2470,11 +2460,7 @@ __cupboards__ :camera: _My father rebuilt cupboards._
 __cupolas__ _n_  
 __cuppa__  
 __cupping__ _n_ :pencil2:  
-__cur__  
-__cur__ _A brindle cur._  
-__cur__ _The barking of cur dogs._  
-__cur__ _n_  
-__cur__ _n_  
+__cur__ _n_ :five::shit: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curb__ _v_  
 __curbs__ _n_ :three::shit: Bans? _This has created curbs on admission._  
@@ -2485,27 +2471,20 @@ __curfew__ :three: _n_ A regulation requiring people to remain indoors between s
 __curios__  
 __curlicued__ _v_  
 __curlicues__  
-__curmudgeon__  
-__curmudgeon__ _n_ :three: An ill-tempered person full of resentment and stubborn notions.  
+__curmudgeon__ _n_ :four: An ill-tempered person full of resentment and stubborn notions.  
 __curry__ _v_ :four::shit: _A blatant effort to curry favor._  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__  
 __cursory__ :two::shit: _A cursory glance._  
 __curt__ _His curt answer._  
-__curtail__ _v_  
-__curtail__ _v_ :five: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ :es: hacer restringir  
-__curtail__ _v_ _He must curtail the mistakes._  
-__curtailed__ _v_  
+__curtail__ _v_ :eight: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
 __curtailment__  
 __curtly__  
 __curveball__ _Informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
 __cusp__ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
-__cuss__ _v_  
-__cuss__ _v_ :four::shit: (cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
-__cussed__  
+__cuss__ _v_ :six::shit: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
-__cut eyes__ _Carmen cut her eyes at her brother, but he ignored her._  
-__cut eyes__ _Miss Birdie cut her eyes._  
+__cut eyes__ :two::shit: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut me a little slack__  
 __cut-and-dry task__  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
@@ -2516,18 +2495,13 @@ __cutthroat__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ 
 __cuttin' a rug__  
 __cyclone__ _n_  
 __cynical__  
-__dab__ _v_  
-__dab__ _v_ :four::shit: (dabbing)  
-__dabble__ _v_  
-__dabble__ _v_ :two::shit: (dabbled)  
+__dab__ _v_ :six::shit: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
+__dabble__ _v_ :three::shit: (dabbled)  
 __dabblers__ _He saw the donors as superrich dabblers._  
-__dabs__ _v_ _He dab his eyes with the back of his left hand._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _Cinematic dada._  
 __daffy__  
-__daft__  
-__daft__  
-__daft__ _adj_  
+__daft__ _adj_ :three::shit:  
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daily basis__ (on a daily basis) _They work with the team on a daily basis._  
@@ -2538,7 +2512,7 @@ __dally__ _v_
 __dallying__  
 __damnation__  
 __damp__ _adj_ _Damp, dirty labor._  
-__damp__ _v_ :three::shit: _Damping systems._  
+__damping__ _adj_ :three::shit: _Damping systems._  
 __dampness__  
 __damsel__ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
@@ -2546,28 +2520,20 @@ __dandelion thistle__
 __dandelions__  
 __dandruff__  
 __dang__ _adj_ _But, dang marketers go crazy._  
-__dangle__ _v_ _Garret seems to be dangling by a thread._  
-__dangling__  
-__dank__  
-__dank__  
-__dank__ :three: _adj_ Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
-__dankness__  
-__dankness__  
-__dapper__ :two: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
-__dapper__ :two::shit:  
-__dappled__  
-__dappled__ _v_ :four::shit:  
+__dangle__ _v_ :two::shit: (dangling) _Garret seems to be dangling by a thread._  
+__dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
+__dankness__ :two::shit:  
+__dapper__ :four: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
+__dappled__ _v_ :five::shit:  
 __dare__  
 __daredevil__ :two::shit: _The daredevils of the group._  
 __daring__ _A daring quality._  
 __dark horse__  
-__darn__  
-__darn__ _That's pretty darn good._  
+__darn__ :two::shit: _That's pretty darn good._  
 __darned__  
 __darnedest__  
 __darning__  
-__dart__ (darting) :two::shit: _v_  
-__dart__ _v_  
+__dart__ _v_ :three::shit: (darting)  
 __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
 __date__ :pencil2: _It would be like eating a single date._  
