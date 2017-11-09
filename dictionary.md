@@ -5415,15 +5415,13 @@ __llilacs__ _n_
 __lo and behold__  
 __loaded question__  
 __loafered__  
-__loafers__  
-__loafers__ :two::shit:  
+__loafers__ :three::shit:  
 __loans__  
 __lob__  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
 __loch__ _n_  
-__lockdown__ _Paris remained in a state of lockdown._  
-__lockdown__ _The school was under lockdown for about two hours after the episode._  
+__lockdown__ :two::shit: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
 __lockout__ _N.J. residents upset over island lockout._  
 __locks > alcohol ignition locks__  
@@ -5436,24 +5434,19 @@ __lodging__
 __lodgings__  
 __loft__ _v_  
 __loftily__  
-__lofty__  
-__lofty__  
-__lofty__ _adj_ :three::shit: _His lofty perch._  
+__lofty__ _adj_ :five::shit: _His lofty perch._  
 __loggerheads__  
 __loincloths__  
 __loins__ _n_ :two::shit:  
 __loitered__ _v_  
-__loll__ _v_  
-__loll__ _v_ (lolled, lolling) :two::shit::pencil2:  
+__loll__ _v_ :three::shit::pencil2: (lolled, lolling)  
 __lone wolf__ _They are lone wolf attacks._  
 __long haul__ _She's in for the long haul._  
 __long shot__  
-__long__ :dart::two::shit: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._  
-__long__ :astonished: _Anthony has long said that he intends to opt out of his current deal._  
+__long__ :dart::three::shit::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longbow__ _n_ :three::shit:  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
-__longing__  
-__longing__ _n_ :dart:  
+__longing__ _n_ :dart::two::shit:  
 __longstanding__ :two::shit:  
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
@@ -5469,12 +5462,7 @@ __loot__ _v_
 __lope__ _v_  
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
-__lore__  
-__lore__  
-__lore__  
-__lore__  
-__lore__ _n_  
-__lore__ _n_ :four: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
+__lore__ _n_ :nine: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __lothario__ _The second verse of_ You're So Vain _is about one-time Hollywood lothario Warren Beatty._  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __louse__ _n_  
@@ -5487,7 +5475,7 @@ __low key__
 __low-key__  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
-__lowdown__ _n_ _Slang_  The whole truth: _gave us the lowdown on what happened at the party._  
+__lowdown__ _n_ _Slang_ The whole truth: _gave us the lowdown on what happened at the party._  
 __lowing__  
 __lowing__ _v_  
 __lowkey__  
@@ -5506,8 +5494,7 @@ __lugging__ _v_ :three::shit:
 __lull<sup>1</sup>__ _n_ :three::shit: (lulls)  
 __lull<sup>2</sup>__ _v_  
 __lumber<sup>1</sup>__ _v_ :three::shit: _Two elephants lumber out of the bush to drink._  
-__lumber<sup>2</sup>__ _n_ _A shopper checks out with her lumber._  
-__lumber__ _Lumber & home improvement._  
+__lumber<sup>2</sup>__ _n_ :two::shit: _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :two::shit:  
 __luminary__ _Hollywood luminaries._  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
@@ -7093,16 +7080,12 @@ __prude__ _n_
 __prudent__  
 __prune-o__ :two::shit:  
 __prurient__ _adj_  
-__pry__ _v_  
-__pry__ _v_  
-__pry__ _v_ :six::shit: _To pry the crack open wider and wider._  
+__pry__ _v_ :eight::shit: _To pry the crack open wider and wider._  
 __psyche__  
 __psychopathic__  
 __public house__ :five::shit: :es: taberna  
 __public housing__  
-__publican__  
-__publican__ _n_  
-__publican__ _n_  
+__publican__ _n_ :three::shit:  
 __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
 __puckering__ _A flat, mouth-puckering taste._  
 __pud__ _n_ :five::shit:  
@@ -7114,10 +7097,7 @@ __puff<sup>1</sup>__ _n_ :two::shit:
 __puff<sup>2</sup>__ _v_ :two::shit: (puffed) _I could hear the screen door puffing open._  
 __puff__ _n_  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
-__puffy__  
-__puffy__ :two::shit:  
-__puffy__ :two::shit: _Puffy snowflakes._ :es: hinchado  
-__puffy__ _His eyes were red and puffy._  
+__puffy__ :six::shit: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pugil__  
 __pugnacity__  
 __pugs__  
@@ -7130,14 +7110,12 @@ __pull__ _(root for?)_  _I can't pull for someone else the same way._
 __pullback__ :two::shit:  
 __pulled pork sandwitch__  
 __pullout__ _Pullout couches._  
-__pulpit__  
-__pulpit__  
+__pulpit__ :two::shit:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ :three::shit: _v_  
 __pummeled__ _v_  
-__pump__ (gas?) _Attractive prices at the pump._  
-__pump__ _n_ _I have seen low gas prices at the pump._  
+__pump__ _n_ :two::shit: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pun__ :es: juego de palabras  
 __punch__ _v_ :three::shit: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
@@ -7147,8 +7125,7 @@ __punctured__ _v_ _Punctured his tire._
 __pundit__ :two::shit:  
 __pungent__  
 __pungi__  
-__punk__  
-__punt<sup>1</sup>__ _n_ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
+__punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
 __punt<sup>3</sup>__ _v.intr._ __1__ To execute a punt. __2__ _Informal_ To cease doing something; give up: _Let's punt on this and try something else._  
 __punted__ _Obama punted until after the election._  
@@ -7164,12 +7141,8 @@ __purported__ _v_ :four::shit: _The purported attack._ _JFK's purported affairs.
 __purportedly__  
 __purr__  
 __purse__ _v_ _His lips pursed._  
-__purslane__  
-__purslane__ :two::shit:  
-__purslane__ _n_  
-__purveyor__  
-__purveyor__  
-__purveyor__ _n_ :four::shit: _Purveyors of unhelpfully vapid self help._  
+__purslane__ _n_ :four::shit:  
+__purveyor__ _n_ :six::shit: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ /pʌs/ :pencil2: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue.  
 __pus__ _n_ _Pus bags_  
 __pushcart__ _A pushcart vendor._  
@@ -7186,9 +7159,7 @@ __put up__ _We're not going to put up with this anymore._
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
-__putter__ _v_  
-__putter__ _v_  
-__puttered__  
+__putter__ _v_ :three::shit: (puttered)  
 __putting aside__  
 __putty__ _n_ :five::shit: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._  
 __pylon__ _n_  
@@ -8675,18 +8646,14 @@ __sop__ _A wine sop._
 __sophomore__  
 __sopping__ _v_  
 __soppy__  
-__sorely__  
-__sorely__  
+__sorely__ :two::shit:  
 __sorghum__  
 __sorority__ :two::shit: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sort put__  
-__sort__ :dart: _Bread of four sorts was brought._  
-__sort__ :two::shit: _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man.  
-__sort__ _n_ :dart: _Men of every sort._  
+__sort__ _n_ :dart::four::shit: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sot__ :two::shit: _A surly sot._  
-__sound bite__ :four::shit::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
-__sound bites__ _n_  
+__sound bite__ _n_ :five::shit::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __sound__ :two::shit: _A sound investment._ _A sound sleep._  
 __soup kitchen__ _n_  
@@ -8702,8 +8669,7 @@ __soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a 
 __space heater__ _n_  
 __spackle__ :two::shit:  
 __spade-bearded__  
-__spangle__ _v_ :five::shit: (spangled, spangling)  
-__spangled__  
+__spangle__ _v_ :six::shit: (spangled, spangling)  
 __spar__ _n_  
 __spar__ _v_  
 __spare room__ _n_ (spare-room) Guest room, guestroom (). :es: habitación de invitados, cuarto de invitados  
@@ -8711,18 +8677,13 @@ __spark plugs__
 __sparklers__ _n_  
 __sparred__ _v_  
 __spars__ _n_  
-__spat__ _n_  
-__spat__ _n_ :four::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
-__spate__  
-__spate__ _n_ :six: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
+__spat__ _n_ :five::shit: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
+__spate__ _n_ :seven: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spatter__ _n_  
-__spay__ _v_  
-__spayed__ _v_  
+__spay__ _v_ :two::shit: (spayed)  
 __spd__  
 __speak out__  
-__speakeasy__  
-__speakeasy__  
-__speakeasy__ :es: taberna clandestina  
+__speakeasy__ :three::shit: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
 __spearhead__ (spearheaded, spearheading) :four: _v_ Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
@@ -10515,7 +10476,7 @@ __wilful__
 __will__ _v_  
 __willful__  
 __willfully__  
-__willy-nilly__ _adv_ :two: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
+__willy-nilly__ _adv_ :three: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
 __wilted__ _v_ :seven::shit: (wilting) _He'd wilted under it._  
 __wily__ _adj_ :four::shit:  
 __wimp out__  
