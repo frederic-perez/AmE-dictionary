@@ -4789,21 +4789,17 @@ __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They
 __in__ _It was Lucas Mann, in aviator sunglasses._  
 __inadvertent__  
 __inadvertent__  
-__inane__  
-__inane__  
-__inane__  
+__inane__ :three::shit:  
 __inarguably__ :pencil2:  
 __inarticulate__ :two::shit: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
 __inaugurate__ _v_ _He will be inaugurated for second term._  
-__inbound__ :two::shit: _Inbound trip._  
-__inbounds pass__  
+__inbound__ :three::shit: _Inbound trip._ _Inbounds pass._  
 __incarcerate__ _v_  
 __incensed__ _v_  
 __inception__  
 __incessantly__  
-__inch__ _v_ :three::shit: _They'll just inch their way down the field._  
-__inching__  
+__inch__ _v_ :four::shit: (inching) _They'll just inch their way down the field._  
 __inchoate__  
 __incident__ _A stroke incident to pancreatic cancer._  
 __incidentally__  
@@ -4816,17 +4812,13 @@ __incubus__
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
-__indefatigable__  
-__indefatigable__ _adj_ :three::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
+__indefatigable__ _adj_ :four::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
 __indefinite__  
 __indelible__ :five::shit::pencil2: _An indelible mark._  
 __indenture__ _v_  
 __indentured__  
-__indict__ _v_ :three::shit:  
-__indicted__ _v_  
-__indicted__ _v_  
-__indictment__  
-__indictment__ :three::shit:  
+__indict__ _v_ :five::shit: (indicted)  
+__indictment__ :four::shit:  
 __indomitable__  
 __inducements__  
 __induct__  
@@ -4846,28 +4838,22 @@ __infirm__ _adj_
 __influence-peddling__ :three::shit:  
 __influenza__  
 __infotainment system__  
-__infusion__ _Drug infusions._ _(vs drug injections)_  
-__infusion__ _n_  
-__ingots__  
-__ingots__ _n_ :pencil2:  
-__ingrained__  
-__ingrained__ _Speeding is deeply ingrained in American culture._  
+__infusion__ _n_ :two::shit: _Drug infusions._ _(vs drug injections)_  
+__ingots__ _n_ :two::shit::pencil2::  
+__ingrained__ :two::shit: _Speeding is deeply ingrained in American culture._  
 __ingratiate__ _v_ :two::shit:  
 __inimical__  
-__injuction__  
-__injuction__ :five: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
+__injuction__ :six: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injuction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
-__inkling__  
-__inkling__ _n_ :two::shit:  
+__inkling__ _n_ :three::shit:  
 __innumerate__  
 __inordinate__ :two::shit:  
 __inordinately__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__  
 __inroads__ _n_ :three::shit:  
-__inscrutable__  
-__inscrutable__  
+__inscrutable__ :two::shit:  
 __insipid__  
 __insofar__  
 __insolvency__  
@@ -4881,9 +4867,7 @@ __insular__ _His small, insular group of loyalists._
 __insure__ _v_  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
 __intangible__  
-__intel__  
-__intel__ _The intel value he might offer._  
-__intel__ _n_ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
+__intel__ _n_ :three::shit: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__  
 __interdicting__  
 __interlopers__ _n_  :two::shit:  
@@ -4891,46 +4875,34 @@ __interment__ _n_ :three::shit:
 __intermission__ _n_ :four::shit::dart:  
 __intermittent__  
 __international friendly__  
-__intersperse__ _v_  
-__interspersed__ _v_ :four::shit:  
+__intersperse__ _v_ :five::shit: (interspersed)  
 __intertwined__  
 __intervene__ _v_  
 __interviewees__ _n_ :pencil2:  
 __into the fold__ _It brought many viewers into the fold._  
 __intramural__  
-__inured__ _v_  
-__inured__ _v_  
+__inured__ _v_ :two::shit:  
 __inurnment__  
 __invective__ :four::shit:  
 __inveighed__  
 __inveterate__  
 __irate__ _v_  
-__ire__  
-__ire__ _n_  
+__ire__ _n_ :two::shit:  
 __irksome__  
 __iron trellis__  
 __ironclad commitment__  
 __irreplaceable__  
 __islet__ _Transplanting islet cells into the liver._  
-__issuance__  
-__issuance__  
-__issuance__  
+__issuance__ :three::shit:  
 __isthmus__  
 __it's a dog's life__ :dart::astonished:  
 __ivy__ :two::shit: :es: hiedra  
-__jab<sup>1</sup>__ _n_ :two: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod  
-__jab<sup>2</sup>__ _v_ :four: (jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod   
-__jab__ :two::shit: _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
-__jab__ _v_  
-__jab__ _v_  
-__jabbed__ _v_  
-__jabber__ _v_ _Mormons return jabbering in Portuguese._  
-__jabbered__ _v_  
-__jabbering__ _v_  
+__jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
+__jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
+__jabber__ _v_ :three::shit: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
 __jack-o'-lantern__  
 __jackhammer__  
-__jade__ _v_ (jaded) :five::shit: _Easily jaded eyes._ _Jaded gamer._  
-__jaded__ _v_  
+__jade__ _v_ :six::shit: (jaded) _Easily jaded eyes._ _Jaded gamer._  
 __jagged__ :two::shit:  
 __jakelegs__  
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
@@ -4944,18 +4916,10 @@ __jammies__ _n_
 __jams__ _n_  
 __jangled__ _v_  
 __jape__ _v_  
-__jar__ _v_ :two::shit:  
-__jarred__ _v_  
-__jarred__ _v_  
-__jarred__ _v_ _His right foot jarred against the road._  
-__jarring__ :four::shit: _Jarring evidence._  
-__jarring__ _v_  
-__jaundice__  
-__jaundice__ _v_ :two::shit:  
-__jaunt__  
-__jaunt__ _n_  
-__jaunty__  
-__jaunty__ :six: _adj_ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jar__ _v_ :nine::m::shit: (jarred, jarring) _His right foot jarred against the road._ _Jarring evidence._  
+__jaundice__ _v_ :three::shit:  
+__jaunt__ _n_ :two::shit:   
+__jaunty__ _adj_ :seven: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jawing__ _v_ _Stop jawing and get to work._  
 __jaywalker__ _n_  
 __jaywalking__  
@@ -6785,10 +6749,8 @@ __pledge__ _n_ :two::shit:
 __plethora__  
 __plethora__ :two::shit:  
 __pliable__ _The pliable GOP._  
-__pliant__ :two::shit:  
-__pliant__ _adj_ _A pliant young waitress._  
-__plied__ _v_  
-__plied__ _v_ _She had been plied with opiates and wine._  
+__pliant__ _adj_ :three::shit: _A pliant young waitress._  
+__plied__ _v_ :two::shit: _She had been plied with opiates and wine._  
 __plies__ _v_  
 __plight__ _n_ :five: Tough situation.  
 __plinks__  
@@ -6804,8 +6766,7 @@ __ploughed__
 __plovers__  
 __plowed__ :two::shit: _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
 __pluck__ :two::shit: _The story celebrates the pluck and determination of this young woman._  
-__pluck__ _v_ _President Obama plucked former Procter & Gamble CEO Bob McDonald to take over._  
-__plucked__  
+__pluck__ _v_ :two::shit: (plucked) _President Obama plucked former Procter & Gamble CEO Bob McDonald to take over._  
 __pluckiest__  
 __plugger__  
 __plum trees__  
@@ -6818,23 +6779,14 @@ __plums__ _n_
 __plums__ _n_ :two::shit:  
 __plunder__ :two::shit:  
 __plundered__  
-__plush__  
-__plush__  
-__plush__ _adj_ :three: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
-__ply__ _v_  
-__ply__ _v_  
-__ply__ _v_  
-__ply__ _v_ :three::shit: _It is the perfecting designed environment to ply his trade._  
+__plush__ _adj_ :five: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
+__ply__ _v_ :six::shit: _It is the perfecting designed environment to ply his trade._  
 __po'-boy sandwiches__  
-__poach__ _v_  
-__poached__ _v_  
-__poacher__  
-__poachers__ _n_ :two::shit: _A chimpanzee that lost its mother to poachers._  
+__poach__ _v_ :three::shit: (poached, poaching)  
+__poacher__ _n_ :three::shit: (poachers) _A chimpanzee that lost its mother to poachers._  
 __poaching__ :two::shit: _Poaching has become socially unacceptable._  
-__poaching__ _v_  
 __pocket change__  
-__pockmarked__ :camera:  
-__pockmarked__ _His pockmarked face._  
+__pockmarked__ :camera::two::shit: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
 __podge__ _n_ _informal_ A short chubby person.  
@@ -6844,50 +6796,37 @@ __podna__ :two::shit:
 __pogrom__  
 __pogroms__ _n_  
 __poignant__  
-__poinsettia__  
+__poinsettia__ :pencil2:  
 __point-and-shoot camera__  
 __pointed questions__  
 __poise__  
-__poky__  
-__poky__ _Coverage was a little poky._  
+__poky__ :two::shit: _Coverage was a little poky._  
 __polarizing__  
 __police state__ _A society log run as a police state._  
 __policyholder__  
-__polish__ :two::shit:  
-__polish__ _Polish woman with experience; good references._  
+__polish__ :three::shit: _Polish woman with experience; good references._  
 __politburo__  
 __pollster__ _n_  
 __pols__ _n_  
 __polymath__  
 __pomegranates__ _n_  
 __pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
-__ponder__ _v_  
-__ponder__ _v_ _Sam pondered his yellow fingernails._  
-__ponderous__  
-__ponderous__  
-__ponderous__ _He shouldered his ponderous bundle._  
-__ponderous__ _adj_  
-__ponders__  
+__ponder__ _v_ :three::shit: (ponders) _Sam pondered his yellow fingernails._  
+__ponderous__ _adj_ :four::shit: _He shouldered his ponderous bundle._  
 __pong__ Drinking game?  
 __pontiff__  
-__pontoon__ _n_  
-__pontoons__ _The building floated on pontoons._  
+__pontoon__ _n_ :two::shit: (pontoon) _The building floated on pontoons._  
 __pony__ _v_  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
 __pooch__  
 __poofy__ :pencil2:  
 __pool cues__ :two::shit:  
-__pop__ :two::shit: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._  
-__pop__ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._  
-__pop__ _She hit .357 and she has some pop._  
-__pop__ _The deep price cut made a first day pop much more likely._  
-__pop__ _v_  
-__pop__ _v_ _Cheyenne popped a 43'3 on her first throw._  
+__pop<sup>1</sup>__ _n_ :four::shit: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
+__pop<sup>2</sup>__ _v_ :three::shit: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._  
 __pops__ (parents?}  
 __populace__  
 __pore__ _v_  
-__poring__ _v_  
-__poring__ _v_  
+__poring__ _v_ :two::shit:  
 __pork pie hat__ :camera:  
 __pork rinds__ :two::shit:  
 __porkpie hat__  
@@ -9971,23 +9910,14 @@ __ugh__ :two::shit:
 __ukuleles__  
 __umpteen__  
 __umpteenth__ :two::shit:  
-__unabashed__ _An unabashed fan._  
-__unabashed__ _adj_ :two: Not ashamed, disconcerted, or apologetic; boldly certain of one's position.  
-__unabashed__ _v_  
-__unabated__  
-__unabated__ :two::shit:  
+__unabashed__ _adj_ :four: Not ashamed, disconcerted, or apologetic; boldly certain of one's position. _An unabashed fan.  
+__unabated__ :three::shit:  
 __unalienable__  
 __unanimous__  
-__unapologetic__  
-__unapologetic__  
-__unapologetic__  
-__unapologetic__ :two::shit:  
-__unapologetically__  
-__unapologetically__  
-__unapologetically__ _Union Kitchen is unapologetically for-profit._  
+__unapologetic__ :five::shit:  
+__unapologetically__ :three::shit: _Union Kitchen is unapologetically for-profit._  
 __unassailable__  
-__unassuming__ _Hollande, an unassuming and bespectacled Socialist._  
-__unassuming__ _adj_  
+__unassuming__ _adj_ :two::shit: _Hollande, an unassuming and bespectacled Socialist._  
 __uncouth__  
 __uncrating__  
 __unction__ _n_  
@@ -9996,10 +9926,8 @@ __uncured__ _v_ _Organic grass-fed uncured hot dogs._
 __under (someone's) watch__  
 __under one's belt__  
 __under siege__  
-__underbellies__  
-__underbelly__  
-__undercard__ _Undercard debates._  
-__undercard__ _n_  
+__underbelly__ :two::shit: (underbellies)  
+__undercard__ _n_ :two::shit: _Undercard debates._  
 __undercurrent__  
 __undercut__  
 __undercut__ _v_  
@@ -10020,11 +9948,8 @@ __understudy__ _v_
 __undertow__  
 __underwhelm__ _v_ To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::two::shit: Failing to make a positive impact or impression; disappointing.  
-__underwrite__ (underwriting) :two::shit:  
-__underwrite__ _v_  
+__underwrite__ _v_ :five::shit: (underwriting)  
 __underwriter__  
-__underwriting__  
-__underwriting__  
 __undeterred__  
 __undies__  
 __undimpled__  
