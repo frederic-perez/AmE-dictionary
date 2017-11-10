@@ -1311,15 +1311,12 @@ __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and 
 __boycott__  
 __bozos__ _n_  
 __bpgs__ _n_  
-__brace__ _v_ :eight: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._  
-__brace__ _v_ :astonished: _Residents brace themselves for more rain._  
-__bracing__ _v_  
+__brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _I want to break into that world-class bracket._  
 __bracketology__ _Daily bracketology updates._  
 __braggadocio__  
 __brain drain__  
-__brainchild__  
-__brainchild__ _n_  
+__brainchild__ _n_ :two::shit:  
 __brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
 __braised__ _Braised turkey and gravy stuffing._  
@@ -1470,8 +1467,7 @@ __bumpy__
 __bunch__ _v_ :camera::five::shit: (bunched) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
 __bunching socks__ :camera:  
 __bungalow__  
-__bungee cord__ :camera:  
-__bungee cord__ _n_  
+__bungee cord__ _n_ :camera::two::shit:  
 __bungee rope__  
 __bungle__ _v_ (bungled) :three::shit: _Cops badly bungled their attempt to frame a guilty man._  
 __bungler__ :two::shit: _Upper-crust bunglers._  
@@ -1752,18 +1748,15 @@ __cauliflower steaks__ :camera:
 __caulking__  
 __causeway__ _n_ :four::shit:  
 __cavalry__  
-__cave__ _v_ :three: Short for cave in below. _The tunnel walls cave in._ _Syn_ Collapse, fall in, give, give way, crumble  
-__caved__ _v_ :two::shit: _The FAA caved._  
-__cavort__ _v_  
-__cavort__ _v_ :two::shit: _Animals cavorting._  
+__cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
+__cavort__ _v_ :three::shit: _Animals cavorting._  
 __caw__ (caws) :two::shit: _A rattling caw._  
 __cawed__ _v_ :two::shit: (cawing)  
 __ce__  
 __ceasefire__  
 __cede__  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
-__celery__  
-__celery__ _n_ :six: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
+__celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __cellist__  
 __cement bird bath__  
 __cement__ _v_ :two::shit: _He quickly cemented votes for the top job._  
@@ -1774,8 +1767,7 @@ __centerpiece__
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cessation__  
-__cesspool__  
-__cesspool__ :two::shit: _The journalist cesspool._  
+__cesspool__ :three::shit: _The journalist cesspool._  
 __chads__ _n_  
 __chafe__ _v_ :six::shit: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafed__ _v_  
@@ -1806,8 +1798,7 @@ __chard__
 __charging__ Accuse formally.  
 __charily__  
 __charnel house__ _It served as the hospital's charnel house._  
-__charnel__  
-__charnel__ :two::shit: _The charnel wagon._  
+__charnel__ :three::shit: _The charnel wagon._  
 __charred__ _v_  
 __charted__  
 __charter<sup>1</sup>__ _n_ :two::shit:  
@@ -1815,11 +1806,9 @@ __charter<sup>2</sup>__ _v_
 __charter__ _Charter schools._  
 __chartreuse__  
 __chased__ _v_ _A beautiful chased golden bowl._  
-__chasm__ _n_  
-__chasm__ _n_ :four: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :five: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
-__chastened__  
-__chastened__  
+__chastened__ :two::shit:  
 __chastize__ _v_  
 __chasuble__ _n_ :two::shit:  
 __chattel__  
@@ -1899,18 +1888,15 @@ __churn rate__ _n_ The annual percentage rate at which customers stop subscribin
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m::shit: (churned, churning) _Churning sand._ _His stomach churned._ _A surge of churning water._ _Stomach churning._ _The hype machine churning into overdrive._  
 __chutneys__  
-__cigarillos__  
-__cigarillos__ :pencil2::camera:  
-__cinch__  
-__cinch__ _n_  
+__cigarillos__ :pencil2::camera::two::shit:  
+__cinch__ _n_ :two::shit:  
 __cinder-block town__  
 __cinder__  
 __cineplex__ _Sequels ruled the cineplex this weekend._  
 __cipher__ _They often cipher._  
 __circadian__ :three::shit:  
 __circumambulate__ :pencil2:  
-__cistern__  
-__cistern__ _More than a hundred households depend on cisterns and wells._  
+__cistern__ _n_ :two::shit: _More than a hundred households depend on cisterns and wells._  
 __citadel__ _n_  
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_    
@@ -7657,45 +7643,29 @@ __rummaging__ _v_
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
 __rump__ :two::shit:  
-__rumple__ _v_ :four::shit: (rumpled)  
-__rumpled__ _A rumpled man._  
-__rumpled__ _adj_  
+__rumple__ _v_ :five::shit: (rumpled)  
+__rumpled__ _adj_ _A rumpled man._  
 __rumpus__  
 __run afoul__  
-__run amok__  
-__run amok__  
+__run amok__ :two::shit:  
 __run errands__  
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::shit: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
-__run-of-the-mill__  
-__run-of-the-mill__  
+__run-of-the-mill__ :two::shit:  
 __runaway__ :two::shit: _Bryant was a runaway winner._  
 __runaways__  
-__rung__ _She is striving to reach that too rung again._  
-__rung__ _n_  
-__rung__ _n_  
-__rungs__ _n_  
-__rungs__ _n_  
-__rungs__ _n_ :three::shit: _He deserves to be in the lowest rungs of hell._  
-__runner-up__  
-__runner-up__ (runners-up) _They are runners-up to Real Madrid._  
-__runner-up__ _n_ :seven::dart: The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _Nishikori was runner-up here last season._  
+__rung__ _n_ :eight::shit: (rungs) _He deserves to be in the lowest rungs of hell._  
+__runner-up__ _n_ :nine::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
-__runoff water__  
-__runoff__  
-__runoff__ _The runoff waters of spring._  
-__runoff__ _n_ :five::shit: _Enough votes to force a runoff._ _A runoff vote._ _Sediment runoff._  
+__runoff__ _n_ :eight::shit: _The runoff waters of spring._ _Enough votes to force a runoff._ _A runoff vote._ _Sediment runoff._  
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
 __runt__  
 __ruptured__ _v_ _He ruptured his Achilles._  
-__ruse__ _n_ :two::shit:  
-__ruses__ _n_  
+__ruse__ _n_ :three::shit: (ruses)  
 __rustle up__ _v_  
-__rustle__ _v_ :two::shit: _To rustle up a dinner for 12._  
-__rustled__ _v_  
-__rustling__  
+__rustle__ _v_ :four::shit: (rustled, rustling) _To rustle up a dinner for 12._  
 __rut__ :two::shit: _Some guy with rut for brains._  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __s&h__ _Every penny will be returned to you (except s&h)._  
@@ -7707,8 +7677,7 @@ __sacristy__ _n_
 __saddle__ _A saddle of meat._  
 __safeguard__  
 __safekeeping__  
-__sag__ (sagging) :five: _v_ __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
-__sag__ _v_  
+__sag__ _v_ :six: (sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
 __sage__ :three::shit: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::shit: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
@@ -7744,11 +7713,10 @@ __sangfroid__
 __sanguine__ _adj_ :two::shit::open_mnouth:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
-__sap<sup>1</sup>__ _v_ :nine::m: (sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._  
+__sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._  
 __sap<sup>2</sup>__ _n_ :three::shit: _A flat-sided sap stuck out of his back pocket._  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __sappy__ _Sappy smile._  
-__saps__ _v_  
 __sarcophagus__  
 __sartorial__  
 __sash__  
