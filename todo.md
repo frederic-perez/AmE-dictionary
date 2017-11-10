@@ -27,3 +27,17 @@ __sensible__ _This C++ contructor has sensible default values._
 __tribulations__  
 __indomitable__ _Indomitable will._  
 __mope__ _v_ :pencil2:  
+
+__crucible__ _n_  
+__crunch__ _n_  
+__downer__ _n_  
+__exhilarating__ :two::shit: _It is an exhilarating thought._  
+__graciousness__  
+__impervious__  
+__martyr__ _v_  
+__myopia__ :pencil2:  
+__rattled__  
+__reign__ _n_  
+__relinquish__ _v_  
+__tribulations__  
+__watchword__  
