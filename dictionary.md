@@ -518,8 +518,7 @@ __aloft__ :two::shit: _Dwayane Wade raised three fingers aloft._
 __along with__  
 __aloof__ :two: /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __aloofness__  
-__alpaca__  
-__alpaca__ _n_ :two::shit:  
+__alpaca__ _n_ :three::shit:  
 __also-ran__ _To become an also-ran._  
 __also-run__  
 __altar boy__  
@@ -527,11 +526,9 @@ __altercation__
 __altitude sickness__  
 __alto voice__  
 __altogether__ _Coach Rose was not altogether pleased with the effort._  
-__alum__  
-__alum__ :two::shit: _A Vanderbilt alum._  
+__alum__ :three::shit: _A Vanderbilt alum._  
 __aluminum__ _n_ :pencil2::two::shit:  
-__alumni__  
-__alumni__  
+__alumni__ :two::shit:  
 __amass__ _v_ :three::shit::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __ambitious__  
 __amble__ :five::shit: (ambled) _v_ _Giraffes amble along the savannah._  
@@ -1266,8 +1263,7 @@ __boon__ _n_ /buːn/ :six: A thing that is helpful or beneficial. _The route wil
 __boondoggle__ :four::shit: (boondoggles)  
 __boonies__  
 __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
-__boorishness__  
-__boorishness__  
+__boorishness__ :two::shit:  
 __boosters__ _Mississippi boosters._  
 __boot<sup>1</sup>__ _n_ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ _Now the Eagles have a postseason victory to boot._  
@@ -1279,14 +1275,9 @@ __bore<sup>2</sup>__ _n_ _She once was into a stone bore._
 __bore__ _She just went full bore._  
 __boredom__  
 __boring__ _v_ _He began throwing two touchdown passes, boring through traffic._  
-__borne__  
-__borne__  
-__borne__ _v_  
-__borne__ _v_  
-__borne__ _v_  
+__borne__ _v_ :five::shit:  
 __bosom__  
-__botched__  
-__botched__ _v_ :two::shit:  
+__botched__ _v_ :three::shit:  
 __bothersome__  
 __botnet__  
 __bottle fly__ _n_  
@@ -6119,52 +6110,36 @@ __ominous__ _adj_ :six: Menacing; threatening: _ominous black clouds; ominous ru
 __ominously__  
 __omission__  
 __omnibus__ _n_  
-__on a roll__  
-__on a roll__ _I'm on a roll._  
+__on a roll__ :two::shit: _I'm on a roll._  
 __on a tear__ _The U.K. labor market is on a tear._  
 __on deck__  
 __on edge__  
 __on the docket__  
 __on the hoof__  
 __on the run__  
-__on the sly__  
-__on the sly__ :two::shit: _Stealing kisses from me on the slide._  
+__on the sly__ :three::shit: _Stealing kisses from me on the slide._  
 __on three__ _On three: One, two, three!_  
 __on top of that__ _On top of that, ..._  
 __on track__ _He appears to be on track to play._  
-__on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ __Spy on someone.__ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._  
-__on__ _The plans are described on ots website._  
-__on__ _The shooting happened late on a Saturday night._  
+__on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
 __once-over__  
 __one too many__ _We drank one too many._  
 __one-note__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
-__one-off<sup>2</sup>__ _n_ _British informal_ Something done, made, or happening only once. _The meeting is a one-off._  
-__one-offs__  
+__one-off<sup>2</sup>__ _n_ _British informal_ :two: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-run__ _One-run games._  
-__onerous__  
-__onerous__  
-__onerous__ _adj_ :pencil2: _Onerous task._  
+__onerous__ _adj_ :three::shit::pencil2: _Onerous task._  
 __onesie__ _n_ :three::shit: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlookers__  
-__onset__  
-__onset__ _n_  
+__onset__ _n_ :two::shit:  
 __onslaught__ :two::shit:  
-__onus__  
-__onus__ _The onus for change._  
+__onus__ :two::shit: _The onus for change._  
 __oofs__  
 __oompah__ :two::shit: _The house oompah band._  
 __oomph__ :two::shit:  
-__ooze__  
-__ooze__ _v_  
-__ooze__ _v_  
-__ooze__ _v_ :eight: (oozed, oozing) __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
-__oozed__ _v_  
-__oozes__ _v_  
-__oozing__ _v_  
+__ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
-__open house__  
-__open house__ _Educational open house._  
+__open house__ :two::shit: _Educational open house._  
 __open-air bus__  
 __open-wheel__ :three::shit: _Open-wheel cars._  
 __oppo__ _Oppo researchers._  
@@ -6174,8 +6149,7 @@ __ordain__ :two: Order (something) officially. _It was ordained that anyone hunt
 __ordeal__ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordinance__ :three::shit: _Ordinance worker._  
 __ordnance__ :three::shit:  
-__ore__  
-__ore__  
+__ore__ :two::shit:  
 __ornament__  
 __ornate__ _n_ :four::shit:  
 __orneriness__  
@@ -6789,52 +6763,34 @@ __porridge__
 __porringer__  
 __portable building__ :es: barracones?  
 __portal__  
-__portend__ _v_ :five::shit: (portended) _...may portend a disruption._  
-__portended__ _v_  
-__portent__  
-__portents__ _n_  
+__portend__ _v_ :six::shit: (portended) _...may portend a disruption._  
+__portent__ _n_ :two::shit: (portends)  
 __portly__  
 __posh__ _adj_ :three: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
-__posit__ _v_  
-__posited__ _v_ :pencil2: _BYU has posited themselves well._  
+__posit__ _v_ :two::shit::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::shit: _A posse clad._  
 __possum__ _n_ :seven::shit: _To play possum._ _He'd been playing possum._  
 __post hoc__  
-__poster boy__  
-__poster boy__  
+__poster boy__ :two::shit:  
 __poster child__ :three::shit: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
 __postmark__ _v_  
-__pot bunkers__  
-__pot bunkers__ (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
-__pot__ _A pot of assets._  
-__pot__ _Where are the pot bunkers?_  
-__potatoes__  
-__pothole__  
-__pothole__ _n_  
+__pot bunkers__ :two::shit: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
+__pot__ :two::shit: _A pot of assets._ _Where are the pot bunkers?_  
+__potatoes__ :pencil2:  
+__pothole__ _n_ :three::shit: (potholes)  
 __potholed__ _The island's potholed highways._  
-__potholes__ _n_  
 __potluck__  :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
-__poultices__  
-__poultices__ _n_  
-__poultices__ _n_  
-__poultices__ _n_ _Salves, poultices, and plasters._  
-__pounce__ :four::shit: _v_ (pounced) _Critics pounced on the showiness._  
-__pounce__ _v_  
-__pounce__ _v_  
-__pounced__ _v_  
+__poultices__ _n_ :four::shit: _Salves, poultices, and plasters._  
+__pounce__ :seven::shit: _v_ (pounced) _Critics pounced on the showiness._  
 __pounding__ _v_ _Pounding the Jaguars._  
-__pout__  
-__pout__ _v_ (pouts, pouting) :three::shit:  
-__pouting__  
-__pouting__ _Pouting session._  
+__pout__ _v_ :six::shit: (pouts, pouting) :three::shit: _Pouting session._  
 __powder blue__ Color?  
 __powder keg__  
 __power bar__  
 __power play__  
 __power strip__  
-__powerhouse__  
-__powerhouse__  
+__powerhouse__ :two::shit:  
 __powermongers__ _n_  
 __powwows__ _n_  
 __pox__  
@@ -6864,8 +6820,8 @@ __premier__ _adj_
 __premium__ _n_ :five::shit: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
 __prenup__  
 __prep schools__  
-__prep__ _n_? (preparatory?)  
-__prep__ _v_ :five::shit: (prepped)  
+__prep<sup>1</sup>__ _n_? (preparatory?)  
+__prep<sup>2</sup>__ _v_ :five::shit: (prepped)  
 __preposterous__ _adj_ :six::shit:  
 __preposterously__  
 __preppers__  
@@ -8832,32 +8788,18 @@ __steamrolled__ _v_
 __steeds__ _n_. 
 __steel__ _v_  
 __steep__ :six::shit: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
-__steeped__ :two::shit:  
-__steeped__ _v_  
-__steeped__ _v_  
-__steeped__ _v_  
-__steeped__ _v_ _Tea steeped in teapots._  
-__steeping__ _v_  
-__steeple__ _They took their pews and songbooks, and even their steeple._  
-__steeple__ _n_ :two: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town.  
+__steeped__ _v_ :seven::shit: (steeping) _Tea steeped in teapots._  
+__steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
 __steeplechase__  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeples__ _n_  
 __steeply__ :two::shit:  
 __stein__ _n_  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
-__stem<sup>2</sup>__ _v_ :two::shit: _The country is trying to stem the spread of the avian influenza._  
-__stem__ _v_  
-__stem__ _v_  
-__stem__ _v_ :astonished: _They redesigned their stores in an effort to stem declining sales._  
-__stem__ _v_ _Three dozen towns are debating how to stem the flow of needles._  
-__stemmed__  
-__stemming__ _v_  
-__stenographer__  
-__stenographer__  
+__stem<sup>2</sup>__ _v_ :eight::shit::astonished: (stemmed, stemming) _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._ _Three dozen towns are debating how to stem the flow of needles._  
+__stenographer__ :two::shit:  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
-__step up__ _v_  
-__step up__ _v_  
+__step up__ _v_ :two::shit:  
 __stepfather__ _(vs godfather)_  
 __steppes__ _n_  
 __stepping stone__  
