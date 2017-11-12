@@ -1804,13 +1804,11 @@ __check off__ _Thanksgiving weekend is a great time to check off some items from
 __check__ _v_ :two::hammer: _With a few extra bucks to check a bag, you can avoid stress._  
 __checker__ _v_ _Checkered history._  
 __checklist__ (single word)  
-__cheek by jowl__  
-__cheek by jowl__  
+__cheek by jowl__ :two::hammer:  
 __cheekboned__  _High-cheekboned newbies.;-_  
 __cheekier__  
 __cheerfully__  
-__cheesecloth__  
-__cheesecloth__ :two::hammer:  
+__cheesecloth__ :three::hammer:  
 __cheesy__ :two: _Informal_ Cheap and of low quality. _Cheesy motel rooms._    
 __chenier__  
 __cherry blossoms__ _n_  
@@ -2105,34 +2103,26 @@ __conch__ _A conch farm._
 __concoct__ (concocted) :three: :pencil2: _v_ Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__  
 __concomitant__  
-__concourse__  
-__concourse__  
+__concourse__ :two::hammer:  
 __concussion__ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
 __conditional discharge__ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__  
 __condominium__ _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
-__conducive__  
-__conducive__ :two::hammer: _The vehicle doesn't seem conducive to passing._  
+__conducive__ :three::hammer: _The vehicle doesn't seem conducive to passing._  
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
-__conduit__ _n_  
-__conduit__ _n_ :two::hammer:  
+__conduit__ _n_ :three::hammer:  
 __coneys__  
 __confection__  
 __confederacy__  
 __conference call__  
 __conferred__ _v_  
-__confidant__  
-__confidant__  
-__confidante__  
-__confidante__ :two::hammer:  
-__confide__ _v_ :two::hammer: (confided)  
-__confided__ _v_  
+__confidant__ :two::hammer:  
+__confidante__ :three::hammer:  
+__confide__ _v_ :three::hammer: (confided)  
 __conflate__ _v_  
-__confound__ _v_  
-__confound__ _v_ :three::hammer: (confounded, confounding)  
-__confounding__  
+__confound__ _v_ :five::hammer: (confounded, confounding)  
 __congenial__ :two::hammer:  
 __conglomerate__  
 __conglomerates__  
@@ -2140,12 +2130,8 @@ __conjecture__
 __conjunction__  
 __conjure__ :two::hammer:  
 __conman__  
-__connive__ _v_  
-__connived__  
-__conniving__  
-__conniving__  
-__conscripted__  
-__conscripted__ _v_  
+__connive__ _v_ :four::hammer: (connived, conniving)  
+__conscripted__ _v_ :two::hammer:  
 __consecutive__  
 __consensual__  
 __consensus__ :three::hammer: _Hinton is a consensus three-star recruit._ _I've learned to build consensus and work with the other side._  
@@ -2161,9 +2147,7 @@ __consumption__ (ailment?)
 __contagion__  
 __contempt__  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
-__contend__ _v_  
-__contend__ _v_  
-__contended__ _v_  
+__contend__ _v_ :three::hammer: (contended)  
 __content__  
 __contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__  
@@ -2921,10 +2905,7 @@ __downline__ _n_
 __downplay__ _v_  
 __downplay__ _v_  
 __downplayed__ _v_  
-__downpour__  
-__downpour__ _n_ (downpours)  
-__downpour__ _n_ _Heavy downpours can cause flash flooding._  
-__downpours__  
+__downpour__ _n_ :four::hammer: (downpours) _Heavy downpours can cause flash flooding._  
 __downright__ :dart::two::hammer: _Not to mention, just downright good looking._  
 __downright__ _Downright goofy._  
 __downsides__  
@@ -5098,8 +5079,8 @@ __landslide__ _n_ :five::hammer: _I will win the game by a near landslide._
 __lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::hammer:  
 __lantanas__ _n_  
-__lap__ _The project's amenities include two lap pools._  
-__lap__ _v_ _Despite being lapped._  
+__lap<sup>1</sup>__ _n_ _The project's amenities include two lap pools._  
+__lap<sup>2</sup>__ _v_ _Despite being lapped._  
 __laped pin__  
 __lapse__  
 __larceny__  
@@ -8226,11 +8207,9 @@ __sleepwalking__
 __sleepwear__ (vs sportswerar, etc.)  
 __sleety__  
 __slender__  
-__sleugh__ _Sassy (TV) sleugh._  
-__sleuthing__  
-__sleuthing__  
-__slew__  
-__slew__ _n_ :eight: /sluː/ :octocat: !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
+__sleugh__ _n_ _informal_ A detective. _Sassy (TV) sleugh._  
+__sleuth__ _v_ _informal_ :two: (sleuthing) To act as a detective.  
+__slew__ _n_ :nine: /sluː/ :octocat: !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ :dart:  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
@@ -8570,9 +8549,7 @@ __spotless__
 __spots__ :three::hammer: _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spout__ _v_ _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
-__sprawl__  
-__sprawl__ _v_  
-__sprawled__ _v_  
+__sprawl__ _v_ :three::hammer:  (sprawled)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
 __spree__  
@@ -8713,10 +8690,8 @@ __staple__ _n_ :three::hammer: (staples) _There are staples we've come to expect
 __star-69ing__ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
 __star__ _v_  
 __starboard__ _n_  
-__starch__ _Altitude sickness can take more than the starch out of a person._  
-__starch__ _n_ _The starch crackled gently in his chinos._  
-__starched__ :two::hammer:  
-__starched__ _v_  
+__starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chinos._ _Altitude sickness can take more than the starch out of a person._  
+__starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
 __starchitect__  
 __stardom__  
 __starfish__  
