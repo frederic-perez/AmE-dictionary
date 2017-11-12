@@ -1889,22 +1889,14 @@ __claim__ _The White Sox claimed the 2005 title._
 __claimants__  
 __clam up__ _v_  
 __clambake__ _n_  
-__clamber__ _v_  
-__clamber__ _v_  
-__clambered__ _v_  
-__clambered__ _v_  
-__clambered__ _v_  
-__clambered__ _v_ _He clambered to his feet._  
-__clambering__  
-__clammy__  
-__clammy__  
+__clamber__ _v_ :seven::hammer: (clambered, clambering) _He clambered to his feet._  
+__clammy__ :two::hammer:  
 __clampdown__ :two::hammer:  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clang__ _v_  
 __clanging__ :astonished:  
-__clank__ _v_  
-__clanked__  
+__clank__ _v_ :two::hammer: (clanked)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
 __clapper__ _He tried to turn somebody into a human bell clapper._  
@@ -2239,8 +2231,7 @@ __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts
 __countenance__ :two::hammer: _His countenance was pale and sunken._  
 __counter-depth fridge__ :camera:  
 __countered__ _Countered kitchen._  
-__counterfeit__ :es: falsificación  
-__counterfeit__ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._  
+__counterfeit__ :two::hammer: _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __counterpoint__ _n_  
 __countervail__ _Countervailing evidence._  
 __country store__  
@@ -2249,8 +2240,7 @@ __coupes__ _Coupes, two door models usually sportier than sedans._
 __coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
-__covenant__ :two::hammer: _He generally doesn't buy so-called "covenant lite" deals._  
-__covenant__ _It has nothing to do with the covenant of Abraham._  
+__covenant__ :three::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
 __cover charge__  
 __coverup__ _n_  
 __coveted__ _v_ :two::hammer:  
@@ -2261,8 +2251,7 @@ __cowboy__ _v_ :two::hammer:
 __cowering__ _v_ :two::hammer:  
 __cowl__ :two::hammer: _Their cowls were filthy rags._  
 __cowled__ _v_  
-__coy__  
-__coy__ :five: _adj_ __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
+__coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __cozened__ _v_  
 __cozy__  
 __crab lice__ _n_  
@@ -4043,12 +4032,8 @@ __gravitate__ _v_ :two::hammer: _He gravitated toward politics._
 __gravy__ _n_ :two::hammer:  
 __graybeards__ _Senate graybeards._  
 __grayling__  
-__graze__ _v_ :six::hammer: (grazing) _Some species can graze on the extra algae._    
-__grazed__ _Grazed by a bullet._  
-__grazed__ _v_ _A third person was grazed by a bullit._  
+__graze__ _v_ :nine::m::hammer: (grazed, grazing) _Some species can graze on the extra algae._ _Grazed by a bullet._ _A third person was grazed by a bullit._  
 __grazing land__ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
-__grazing__  
-__grazing__ _v_  
 __greaseballs__ :two::hammer:  
 __great-grandchildren__  
 __great-granddaughters__ :pencil2:  
@@ -4060,8 +4045,7 @@ __green thumb__ _Not everyone has a green thumb._
 __green-behimd-the-ears__  
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
 __greenhorn__  
-__greenhouse__  
-__greenhouse__  
+__greenhouse__ :two::hammer:  
 __griddle__  
 __gridiron__ _n_ :seven::hammer:  
 __gridlock__  
@@ -8665,8 +8649,8 @@ __stallion__
 __stalward__  
 __stalwart__ _n_ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stamina__ :three::hammer:  
-__stammer__ _n_  
-__stammer__ _v_  
+__stammer<sup>1</sup>__ _n_  
+__stammer<sup>2</sup>__ _v_  
 __stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp__ _Additional stamp duties went into effect last year._  
