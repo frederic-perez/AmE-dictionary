@@ -463,7 +463,7 @@ __agency__ _A young man slowly realizing his own trauma and agency over the cour
 __agendum__  
 __aggravate__ (aggravated) :two::hammer: _v_  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
-__aghast__ :three::hammer:  
+__aghast__ _adj_ :three::hammer:  
 __agit__  
 __agonistic__ :pencil2: _adj_ Striving to overcome in argument.  
 __agrarian__  
@@ -558,7 +558,7 @@ __angler__ _n_ (fishing?)
 __angler__ _n_ _Fisher?_  
 __anglers__  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
-__angst__ :nine: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
+__angst__ _n_ :nine: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::hammer:  
 __anguish__ :two::hammer:  
 __anguishes__ _v_  
@@ -1035,7 +1035,7 @@ __betrothed__ _v_ :two::hammer:
 __better known as__ _Miyazaki, better known as Aska._  
 __bettors__  
 __bevel__  
-__bevy__ :nine: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada _A bevy of admirers._ _A bevy of autos will be on display._  
+__bevy__ _n_ :nine: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :three::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
@@ -1713,14 +1713,9 @@ __catalyze__ _v_ :pencil2:
 __catamounts__  
 __catapulted__ _v_  
 __cataract__ _n_ :es: cataratas  
-__catarrh__  
-__catarrh__ :pencil2:  
+__catarrh__ :two::hammer::pencil2:  
 __catcall__ _v_  
-__catcalls__  
-__catcalls__  
-__catcalls__  
-__catcalls__ _A pack of men on motorbikes left a wake of catcalls._  
-__catcalls__ _n_  
+__catcalls__ _n_ :five::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
 __catch-up schedule__  
 __catechism__ :two::hammer::pencil2:  
@@ -2968,8 +2963,8 @@ __dray__ _Dray horse._
 __drayman__  
 __drays__  
 __drays__ _n_  
-__dread__ _n_  
-__dread__ _v_  
+__dread<sup>1</sup>__ _n_  
+__dread<sup>2</sup>__ _v_  
 __dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga    
 __dredged__ _Dredged mud._  
@@ -3360,8 +3355,7 @@ __fallacy__
 __fallback__ _The fallback option._  
 __fallible__  
 __falloff__  
-__fallout__ :nine::m: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
-__fallout__ _n_  
+__fallout__ _n_ :nine::m: _Informal_ Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._   
 __fallow ground__  
 __fallow__  
 __falter__ _v_  
@@ -3379,8 +3373,7 @@ __fangs__ _n_
 __fannies__  
 __fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __far and away__ :astonished:  
-__far cry__  
-__far cry__ :five::hammer: _It is a far cry from yhe 1970s._  
+__far cry__ :six::hammer: _It is a far cry from the 1970s._  
 __far-fetched__  
 __far-flung__ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
@@ -3546,7 +3539,7 @@ __flagstaff__
 __flagstone__ _Flagstone terraces._  
 __flah point__  
 __flail__ _v_ :five::hammer: (flailed, flailing)  
-__flair__ :nine: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
+__flair__ _n_ :nine: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._    
 __flak vest__  
 __flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flaky__  
@@ -4568,28 +4561,21 @@ __hoop dress__
 __hoop__ _v_  
 __hoopla__ :three: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoot__ _You know, it's a hell of a hoot._  
-__hooted__ _v_  
-__hooted__ _v_  
-__hooted__ _v_  
-__hooted__ _v_  
-__hooting__ _v_  
-__hopeful__ _n_ _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
-__hopefuls__  
+__hooted__ _v_ :five::hammer: (hooting)  
+__hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __hopped cars__  
 __hopscotch__  
 __horn buttons__ :camera:  
 __horse race__  
 __horselaugh__  
 __horseradish__  
-__horseshoe__  
-__horseshoes__  
+__horseshoe__ :two::hammer: (horseshoes)  
 __horsetails__ _n_  
 __horticulture__  
 __hoss__  
 __host__ _A host of grandchildren and great-grandchildren._  
 __hot glue__  
-__hot-button__  
-__hot-button__ _Hot-button political issues._  
+__hot-button__ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
 __hot-wire__ _Hot-wire cars._  
 __hot-wired__  
@@ -5092,8 +5078,7 @@ __laidback__ :two::hammer: _Australia's laid back lifestyle._
 __lain__  
 __lair__ _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
-__lambast__ (also __lambaste__) _v_ :nine: (lambasted, lambasting) _Informal_  __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
-__lambasted__ _v_  
+__lambast__ _v_ :nine: (also __lambaste__) (lambasted, lambasting) _Informal_  __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lame duck__ _n_ __1__ __a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::hammer: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
@@ -5228,7 +5213,7 @@ __leper__
 __lepers__  
 __lese majeste__ (lèse-majesté) _n_ _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
-__lest__ :nine: _Conjuction Formal_ __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
+__lest__ _conj_ :nine: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ :four::hammer:  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __levee__  
@@ -5410,8 +5395,8 @@ __lumpy__ :two::hammer: _Lumpy headlights._
 __lunch lady__ _She worked as a lunch lady._  
 __luncheon__ :five::hammer:  
 __lunchpail__  
-__lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into the pen._  
+__lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
 __lurch__ :three::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
@@ -6146,9 +6131,9 @@ __oppo__ _Oppo researchers._
 __opulent__  
 __orb__ _n_ :two::hammer:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
-__ordeal__ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
+__ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordinance__ :three::hammer: _Ordinance worker._  
-__ordnance__ :three::hammer:  
+__ordnance__ :three::pencil2::hammer:  
 __ore__ :two::hammer:  
 __ornament__  
 __ornate__ _n_ :four::hammer:  
@@ -6443,8 +6428,7 @@ __pen name__
 __pen__ _v_  
 __pen__ _v_ _The team pens hundreds of scientific papers._  
 __pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
-__penchant__  
-__penchant__ :nine: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
+__penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penitents__ _n_  
 __penknife__ :two::hammer:  
 __pennant races__  
@@ -7152,9 +7136,7 @@ __rare__
 __rarefied__    
 __raring__  
 __rascal__  
-__rash__ _n_ :five::hammer: _A rash of oil problems._ _A rash of promotions._  
-__rash__ _n_ _Discussing diaper rashes whith fifteen-year-old mothers._  
-__rashes__ _Skin rashes._  
+__rash__ _n_ :seven::hammer: (rashes) _A rash of oil problems._ _A rash of promotions._ _Discussing diaper rashes whith fifteen-year-old mothers._ _Skin rashes._  
 __rasp__ _v_  
 __rat-fuck__ _v_  
 __ratched__  
@@ -7167,35 +7149,26 @@ __rattan__
 __rattle__ _v_ :seven::hammer: (rattled) _Rattle the world._  
 __rattlers__   
 __rattlesnake__  
-__rattling__ _n_  
-__rattling__ _v_  
-__raucous__  
-__raucous__ _adj_ :seven: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
+__rattling<sup>1</sup>__ _n_  
+__rattling<sup>2</sup>__ _v_  
+__raucous__ _adj_ :eight: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
-__raunchy__  
-__raunchy__  
-__raunchy__  
-__raunchy__ _A raunchy comedy._  
+__raunchy__ :four::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :three::hammer:  
 __ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :three: __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
-__rave<sup>2</sup>__ _v_ :three: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
+__rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
 __rave__ _adj_  
-__rave__ _v_  
 __raven-haired__  
-__ravenous__  
-__ravenous__  
-__ravenous__  
+__ravenous__ :three::hammer:  
 __raving__ _v_ :two::hammer:  
 __ravish__  
 __ravishing__ :two::hammer:  
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
-__raze__ (razed, razing) :two: _v_ To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
-__razed__ _v_  
+__raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
 __razor sharp__  
 __razor strop__  
-__razz__ (razzing) _v_ To deride, heckle, or tease. _Razzed the teammate who missed the shot._  
-__razzing__ _Jim loved razzing people._  
+__razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
 __razzle-dazzle__ :two::hammer:  
 __reach for the stars__ Have high or ambitious aims.  
 __reach out__ _v_ :four::hammer: _Reaching out to prevent aids._  
@@ -7452,7 +7425,7 @@ __rink__ _n_
 __rip your wiring out__  
 __riparian__ _Riparian woodland._  
 __ripe-smelling__ _The ripe-smelling barn._  
-__ripe__ :adj::nine: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
+__ripe__ _adj_ :nine: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
 __riposte__ _n_ :three::hammer: (ripostes)  
 __ripped__ _v_  
@@ -8301,7 +8274,7 @@ __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is ma
 __sloppy seconds__  
 __sloppy__ _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
-__slosh__ :nine::m: (sloshed, sloshing) _v_ __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
+__slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ :three::hammer: _The winter sloth._  
 __slouch__ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouching__ _v_  
@@ -8713,7 +8686,7 @@ __stalk__ _n_
 __stalk__ _v_  
 __stallion__  
 __stalward__  
-__stalwart__ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
+__stalwart__ _n_ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stamina__ :three::hammer:  
 __stammer__ _n_  
 __stammer__ _v_  
@@ -9271,18 +9244,14 @@ __teardown__ _n_
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
 __techie__ _Facebook's techie in chief._  
 __tee up__ _v_  
-__teeing up__ _v_  
-__teeming__  
-__teeming__ _v_ :four::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
-__teeter__ _v_ (teetering)  
-__teeter__ _v_ :seven::hammer: (teeters, teetering) _Iran is teetering on the brink of a civil war._  
+__teeing up__ _v_   
+__teeming__ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
+__teeter__ _v_ :eight::hammer: (teeters, teetering) _Iran is teetering on the brink of a civil war._  
 __telegenic__  
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
 __tell-tale__  
-__telling__ _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._  
-__telling__ _In their telling, the father's experience in Cuba becomes a parable._  
-__telling__ _n_ _A sensitive telling of the case of Richard and Mildred Loving._  
+__telling__ _n_ :three::hammer: _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father's experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale__  
 __telltale__  
@@ -9358,25 +9327,19 @@ __this and that__
 __this time around__ :dart::hammer:  
 __thither__ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __thobbing__  
-__thong__  
-__thong__ _n_  
+__thong__ _n_ :two::hammer:  
 __thorny__ _adj_  
 __thorough__ :astonished: _It's a very serious matter that needs thorough investigation._  
 __thoroughfare__  
 __thoroughly__  
-__thrall__ :four::hammer:  
-__thrall__ _n_  
+__thrall__ _n_ :five::hammer:  
 __thrash__ _v_ :four::hammer: (thrashed) _Toronto thrashed New York City F.C._  
 __thrashing__ _v_  
 __thrifty__  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
 __throes__ :four::hammer:  
-__throng__  
-__throng__  
-__throng__  
-__throng__  
-__throng__ _n_ _A throng of news media members._  
+__throng__ _n_ :five::hammer: _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ _It's a flagship through and through._  
@@ -9597,13 +9560,12 @@ __travesties__
 __travesty__  
 __trawler__  
 __treachery__  
-__treacly__  
-__treacly__  
+__treacly__ :two::hammer:  
 __tread water__ To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
 __treading__  
 __treasure__ _v_  
-__treat__ _n_  
-__treat__ _v_  
+__treat<sup>1</sup>__ _v_  
+__treat<sup>2</sup>__ _n_  
 __treble__ :two::hammer: _A treble hook._  
 __trellis__ _n_ :four::hammer:  
 __trellises__ _From his trellises._  
