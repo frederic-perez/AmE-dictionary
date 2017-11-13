@@ -959,13 +959,7 @@ __belatedly__
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
 __beleaguer__ _v_  
-__beleaguered__  
-__beleaguered__  
-__beleaguered__  
-__beleaguered__  
-__beleaguered__  
-__beleaguered__  
-__beleaguered__ :six: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
+__beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belie__ _v_ :four: (belies) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar    
 __belied__  
 __belied__ _v_  
@@ -4907,8 +4901,7 @@ __jumpers__
 __jumping jacks__  
 __jumpstart__ _v_  
 __jumpsuit__ _n_  
-__juncture__  
-__juncture__ _n_ :four: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
+__juncture__ _n_ :five: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __juniper berries__  
 __juniper__  
@@ -5606,32 +5599,23 @@ __millet__ _He had eaten millet gruel._
 __milling__ :two::hammer: _To avoid disrespectful milling._  
 __million__ _The project willl cost around $10 million._ (not ending with 's')  
 __milquetoast__ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
-__mince__ :two: _v_ Cut up (food, especially meat) into very small pieces, typically in a machine. Minced beef._  
-__minced__ _v_  
+__mince__ _v_ :three: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. Minced beef._  
 __mincemeat__  
 __minder__ :es: guardaespaldas  
 __mindful__  
 __minie balls__  
-__minion__ _n_  
-__minions__  
+__minion__ _n_ :two::hammer: (minions)  
 __minnow__ :three::hammer: (minnows) :two::hammer:  
 __minor__ _n_  
-__minstrel__  
-__minstrel__  
+__minstrel__ :two::hammer:  
 __mint bank notes__  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
-__mire__ _v_ :pencil2::seven::hammer: (mired)  
-__mired__ _v_  
-__mired__ _v_  
-__mired__ _v_ :three::hammer: _Britain is now mired in crisis._  
-__mirth__  
-__mirth__  
-__mirth__ _n_ :two::hammer:  
+__mire__ _v_ :pencil2::nine::m::hammer: (mired) _Britain is now mired in crisis._  
+__mirth__ _n_ :four::hammer:  
 __mirthful__  
 __miscarry__ _v_  
 __miscegenation__  
-__mischief__  
-__mischief__  
+__mischief__ :two::hammer:  
 __mischievous__  
 __misconduct__  
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
@@ -5644,8 +5628,7 @@ __misfit__
 __misfits__  
 __misgivings__ :two::hammer:  
 __mishap__  
-__mishmash__  
-__mishmash__  
+__mishmash__ :two::hammer:  
 __misnomer__ :five: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __misogynist__  
 __misogyny__ :pencil2:  
@@ -5731,8 +5714,7 @@ __morcellator__
 __morels__ _n_  
 __moribund__  
 __morning glory__  
-__morosely__  
-__morosely__  
+__morosely__ :two::hammer:  
 __morsel__ :two::hammer:  
 __mortar shell__  
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
@@ -6106,10 +6088,8 @@ __orneriness__
 __ornery__ :two::hammer:  
 __orphrery__  
 __oscillating fan__  
-__ossified__  
-__ossified__ _v_  
-__osteoarthritis__  
-__osteoarthritis__ _n_ A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
+__ossified__ _v_ :two::hammer:  
+__osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __other than that,__  
 __otherness__  
 __otherworldly__  
@@ -6401,8 +6381,7 @@ __pennant__ _n_ :three::hammer: (pennants)
 __penned hogs__  
 __penned up__  
 __penny-pinch__ _Penny-pinching conservatives._  
-__pens__ _n_ _Horse corrals and elephant pens._  
-__pens__ _n_ _Screened pens with rabbits._  
+__pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens with rabbits._  
 __pensionary__ :es: jubilado  
 __pensive__  
 __pensive__ _v_  
@@ -7886,8 +7865,7 @@ __shea oil__
 __sheaf__  
 __shear__ _v_  
 __sheath__ :two::hammer: :es: vaina? 
-__sheathed__ _v_  
-__sheathed__ _v_ :five::hammer: _Poster of Sharon Stone, sheathed in white._  
+__sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
 __shed__ _v_ Park (a vehicle) in a depot.  
 __shed__ _v_ _The rookie has shed his walking boot and says he'll be fine._  
 __shedder__ _A tree shedder._  
@@ -8592,32 +8570,21 @@ __square deal__
 __square dsncing__  
 __squarely__  
 __squat down__ _v_  
-__squat<sup>1</sup>__ _v_ :four: (squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
-__squat<sup>2</sup>__ _adj_ :two: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
+__squat<sup>1</sup>__ _v_ :five: (squatted, squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
+__squat<sup>2</sup>__ _adj_ :five: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
-__squat__ _adj_  
-__squat__ _adj_  
-__squat__ _adj_ _A squat man._  
-__squatted__ _v_  
-__squawked__ _The walkie-talkie squawked._  
-__squawking__  
-__squawking__ _v_  
-__squeak__ _v_ :two::hammer:  
+__squawk__ _v_ :three::hammer: (squawked, squawking) _The walkie-talkie squawked._  
+__squeak__ _v_ :three::hammer: (squeaking)  
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
-__squeaking__  
 __squeaky__ :two::hammer:  
 __squeal__ _v_  
-__squeamish__  
-__squeamish__ Easily  upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
+__squeamish__ :two::hammer: Easily  upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
-__squelch__  
-__squelch__ _v_  
+__squelch__ _v_ :two::hammer:  
 __squelched__ _v_  
 __squiffy__  
-__squire__  
-__squire__ :two::hammer: _Is he her consort or her squire?_  
-__squire__ _n_  
-__squire__ _v_ :pencil2:  
+__squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
+__squire<sup>2</sup>__ _v_ :pencil2:  
 __squirm<sup>1</sup>__ _v_ :two::hammer: _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirm__ _v_  
@@ -8630,8 +8597,7 @@ __staffed__ _v_
 __staffer__ :five: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
 __stag__ _I'm an old stag._  
-__stagflation__  
-__stagflation__  
+__stagflation__ :two::hammer:  
 __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
 __staggering__  
 __stagnant__ :two::hammer:  
@@ -9481,19 +9447,15 @@ __touchline__
 __tough cookie__  
 __tough luck__  
 __tourney__  
-__tousled__  
-__tousled__ :two::hammer:  
-__tout__  
-__tout__ _v_  
-__touted__ _v_  
+__tousled__ :three::hammer:  
+__tout__ _v_ :three::hammer: (touted)  
 __tow__ :two::hammer: _Cameras in tow._  
 __townhouses__ _n_  
 __toy breeds__ _(pets)_  
 __tpngue-in-cheek__  
 __trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
 __track__ _n_ :camera:  
-__tractor trailer__ :camera:  
-__tractor-trailer__  
+__tractor trailer__ :two::hammer::camera: (tractor-trailer)  
 __trade paperback__  
 __trade-off__ _She has to make trade-offs._  
 __traffickers__  
