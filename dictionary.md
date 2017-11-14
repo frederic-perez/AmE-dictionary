@@ -723,7 +723,7 @@ __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regul
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
-__awash__ :eight: _adj_ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ __adj__ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__ :two::hammer: _Rob regarded the complex systems with awe._  
 __awestruct__  
 __awry__  
@@ -782,10 +782,8 @@ __balderdash__
 __bale__ _Bales of cotton._  
 __bale__ _n_ _He sat on a bale of prayer rugs._  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
-__balk__ /bɔːlk,bɔːk/ _v_ :seven: (balked) _v_ Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
-__balk__ _v_  
-__balked__ _v_  
-__balky__ (balking) :four: /ˈbɔːlki,ˈbɔːki/ :octocat: balky donkey _adj_ Awkward; uncooperative. _He was trying to get his balky donkey to move._  
+__balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
+__balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :octocat: balky donkey _He was trying to get his balky donkey to move._  
 __ball bearings__  
 __balladeer__  
 __ballasr__  
@@ -1174,9 +1172,9 @@ __blunt<sup>2</sup>__ _v_ :two::hammer: (blunting)
 __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly._  
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ _v_ :three: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
-__bluster__  
-__bluster__ :two::hammer:  
-__blustery__ :seven: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
+__bluster<sup>1</sup>__ _v_  
+__bluster<sup>2</sup>__ _n_  
+__blustery__ _adj_ :seven: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __board__ _n_ _(basketball)_ Rebound?  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardrooms__  
@@ -1194,9 +1192,7 @@ __bobby pin__
 __bobby socks__  
 __bod__ :two::hammer:  
 __bodacious__  
-__bode__ :seven: _v_ (bodes) Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
-__bodes__  
-__boding__ _v_  
+__bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._    
 __bog__ _n_ :two::hammer:  
 __bog__ _v_  
 __boggles__ _v_  
@@ -1471,7 +1467,7 @@ __burgundy__
 __burgundy__ _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :three::hammer:  
-__burly__ :seven::hammer: _A burly man._  
+__burly__ _adj_ :seven::hammer: _A burly man._  
 __burners__ (gas cooktop) :camera:  
 __burnish__ _v_ :six::hammer: (burnishing)  
 __burp__ :two::hammer:  
@@ -2128,7 +2124,7 @@ __contempt__
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contend__ _v_ :three::hammer: (contended)  
 __content__  
-__contention__ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
+__contention__ _n_ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__  
 __contentious__ _adj_ :five: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contextualize__ _v_ :dart:  
@@ -3523,7 +3519,7 @@ __flay__ _v_
 __flayed__ _v_  
 __fleck__ _n_  
 __fledging__  
-__fledgling__ :seven::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
+__fledgling__ _adj_ :seven::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __fleece__ _v_ :four::hammer: (fleeced)  
 __fleecy__  
 __fleeting__  
@@ -3582,7 +3578,7 @@ __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glan
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluff__  
 __fluffy__  
-__fluke__ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluke__ _n_ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flummox__ _v_ :four::hammer: (flummoxed)  
 __flung__ _v_ :two::hammer:  
 __flunk__  
@@ -4702,7 +4698,7 @@ __inequitable__
 __inequities__  
 __inextricably__ :two::hammer:  
 __infallibity__  
-__infamous__ :seven::hammer: _Princess Leia's infamous dual-bun hairstyle._  
+__infamous__ _adj_ :seven::hammer: _Princess Leia's infamous dual-bun hairstyle._  
 __infamy__  
 __infant__ _n_  
 __infighting__ :two::hammer:  
@@ -6094,8 +6090,7 @@ __outburst__
 __outburst__ _n_  
 __outcast__ _n_  
 __outcroppings__  
-__outcry__ :seven: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
-__outcry__ _n_  
+__outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdoor__ _8 pork sausages from British outdoor bred pigs (454g)._  
 __outfield__ _(baseball)_  
 __outfit__  
@@ -6134,7 +6129,7 @@ __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._
 __outsize__ :two::hammer: _An outsize risk._  
 __outsmart__ _v_  
 __outspend__ _v_  
-__outspoken__ :seven::hammer::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
+__outspoken__ _adj_ :seven::hammer::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest   
 __outstripped__ _v_  
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
@@ -6694,7 +6689,8 @@ __pothole__ _n_ :three::hammer: (potholes)
 __potholed__ _The island's potholed highways._  
 __potluck__  :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
-__pounce__ :seven::hammer: _v_ (pounced) _Critics pounced on the showiness._  
+__pounce__ :three::hammer: _v_ (pounced) 
+__pounce on__ :four::hammer: _Critics pounced on the showiness._  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pout__ _v_ :six::hammer: (pouts, pouting) :three::hammer: _Pouting session._  
 __powder blue__ Color?  
@@ -7746,8 +7742,7 @@ __seepage__
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :two::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
-__seethe__ :eight::dart: _v_ (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
-__seethed__  
+__seethe__ _v_ :nine::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
 __segue__  
 __seize__ _v_ :four::hammer: (seizing) _Seizing an opportunity._  
 __seizing__ :three::hammer:  
@@ -8902,7 +8897,7 @@ __superpooch__
 __supervise__ _v_  
 __supping__ _v_  
 __supplant__  
-__supple__ :pencil2::seven::hammer: _A supple weapon._ :es: flexible  
+__supple__ _adj_ :pencil2::seven::hammer: _A supple weapon._ :es: flexible  
 __suppleness__ _Mental suppleness._  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
@@ -9688,7 +9683,7 @@ __unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring un
 __unfazed__ _v_ :four::hammer: _They are unfazed by all fof this._  
 __unfettered__ _v_ :nine::m::hammer: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
-__unflappable__ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
+__unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
 __unfold__ _v_  
 __unfurl__ (unfurling) :two::hammer:  
@@ -10138,8 +10133,7 @@ __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind-up__ _n_  
 __winded__    
-__windfall__ :seven::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
-__windfall__ _n_  
+__windfall__ _n_ :eight::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
 __windlass__  
 __window sash__ _n_  
 __windshield wipers__  
