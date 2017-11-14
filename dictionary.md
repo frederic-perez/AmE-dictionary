@@ -24,8 +24,7 @@ __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured so
 __Aha! moment__  
 __Aleut__ _n_  
 __Ames__ _Ames, Iowa._  
-__Angeleno__  
-__Angeleno__ _n_ A native or inhabitant of Los Angeles.  
+__Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.  
 __Apart from that,__  
 __Argentine__ _The pope is an Argentine._  
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
@@ -976,8 +975,7 @@ __bellows__ _Barber's breathing sounded like a bellows._
 __bellows__ _n_  
 __bells and whistles__ :three::hammer:  
 __bellum__ _Post-bellum years._  
-__bellwether__  
-__bellwether__  
+__bellwether__ _n_ :two::hammer:  
 __belly-flop__  
 __belt out__  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, "We are tired!"_ _He belted his new tunes into the hallway._  
@@ -1917,29 +1915,24 @@ __clearinghouse__ :two::hammer:
 __cleat<sup>1</sup>__ _n_ :three::hammer:  
 __cleat<sup>2</sup>__ _v_ :two::hammer: (cleated) _Cleated horseshoes._ To get stabbed/slashed/kicked, or in any other way harmed by someone's cleat. _Joe got cleated in soccer and it left an ugly bruise._  
 __cleave__ _v_ _The court often cleaves along predictable lines._  
-__cleaver__ _Meat cleaver._  
-__cleaver__ _n_ :two::hammer: _A butcher's cleaver._  
+__cleaver__ _n_ :three::hammer: _A butcher's cleaver._ _Meat cleaver._  
 __cleft__  
 __clench__ _n_ :two::hammer:  
 __clenched__  
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __clicking__ _Things seem to be making sense and clicking._  
-__clinch__ _v_ (clinched) :nine::m: Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
-__clinched__ _v_  
+__clinch__ _v_ :nine::m: (clinched) Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
 __clincher__ _n_ :two::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clinics__ _n_  
 __clip__ _A better newspaper clip._  
 __clipped grass__  
-__clique__  
-__clique__ _n_ (cliques) :three: _n_ A small exclusive group of friends or associates. _:es: camarilla_  
-__cliques__
+__clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. _:es: camarilla_  
 __cloak__ :two::hammer: :es: capa, manto  
 __cloakroom__ _n_  
-__clobber__ _v_ _Uber threatens to clobber the media._  
-__clobbered__ _v_  
+__clobber__ _v_ :two::hammer:: (clobbered) _Uber threatens to clobber the media._  
 __clobbering__  
 __clock him__  
 __clock in__ _v_  
@@ -2979,10 +2972,8 @@ __drover__ _n_
 __drover__ _n_  
 __drowns__ _v_  
 __drub__  
-__drubbing__ :two::hammer: _The Knights have improved since receiving a drubbing from the Miners._  
-__drubbings__  
-__drudgery__  
-__drudgery__  
+__drubbing__ :three::hammer: (drubbings) _The Knights have improved since receiving a drubbing from the Miners._  
+__drudgery__ :two::hammer:  
 __drugstore__  
 __drugwise__  
 __drum up__  
@@ -3169,19 +3160,14 @@ __enmity__
 __enmity__ _n_ :five::hammer:  
 __enrapture__ _v_ :two: To fill with rapture or delight.  
 __enrol__ _v_  
-__ensconce__ (ensconced) :two: _v_ Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
-__ensconced__  
-__ensconced__ _v_  
+__ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __enshrined__  
 __ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
-__ensue__ _v_ :two::hammer: (ensued) _Complications ensue._  
-__ensuing__  
-__ensuing__ _v_  
+__ensue__ _v_ :four::hammer: (ensued, ensuing) _Complications ensue._  
 __entail__ _v_  
 __entails__ _v_  
 __enthrall__ _v_ :four: (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthuse__ _v_  
-__enthuse__ _v_ :four::hammer: (enthused, enthusing) _It has enthused fans._  
+__enthuse__ _v_ :five::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __entitled__ :two::shit; _We are soft, entitled, and scared of conflict._  
 __entitlement__ :four::hammer: _Entitlement programs._  
@@ -4851,12 +4837,10 @@ __jiving__ _v_ _I know when you're shuckin' and jivin' me._
 __job opening__  
 __jobbing__ _v_  
 __jobless coverage__ _Jobless coverage expired for 2 million people._  
-__jock__  
-__jock__ _n_ _informal US_ :four: An athlete. _You act like I got jock odor or something._  
+__jock__ _n_ _informal US_ :five: An athlete. _You act like I got jock odor or something._  
 __jockeying__  
 __jockeying__ _Fierce political jokeying._  
-__jockstrap__  
-__jockstrap__  
+__jockstrap__ :two::hammer:  
 __jocular__  
 __jody__ _He often complained about his wife's jody._  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
@@ -5179,8 +5163,8 @@ __leveled__ :two::hammer:
 __leverage__ _To exert leverage._  
 __leviathan__  
 __levied__ _v_ :four::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levy__ :thre::hammer:  
-__levy__ _v_  
+__levy<sup>1</sup>__ _v_  
+__levy<sup>2</sup>__ _n_ :three::hammer:  
 __lewd__ :three::hammer:  
 __liability__ :three::hammer:  
 __liaison__ 
@@ -7622,13 +7606,8 @@ __scalp__
 __scalpel__  
 __scalper__ _n_ :three::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
-__scamper__ _v_ (scampered, scampering)  
-__scamper__ _v_ _Scampered into the van._  
-__scampered__ _v_  
-__scant__  
-__scant__  
-__scant__  
-__scant__ _adj_ :three:Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
+__scamper__ _v_ :three::hammer: (scampered, scampering) _Scampered into the van._  
+__scant__ _adj_ :six: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scapegoated__ _v_  
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man's psyche for years._  
@@ -8995,9 +8974,7 @@ __swell__ _n_ :two::hammer: _The swell of people from war-torn countries._
 __swelled__ (swelling) :two::hammer:  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
-__swerve<sup>2</sup>__ _v_ ::four::hammer: (swerves, swerved)  
-__swerved__ _v_  
-__swerved__ _v_ :five::hammer: (swerving)  
+__swerve<sup>2</sup>__ _v_ :nine::m::hammer: (swerves, swerved)  
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swilled__ (swilling) :three::hammer: _Swilling wine._  
@@ -9584,29 +9561,17 @@ __tube socks__ :camera:hammer: A type of knee-high sports sock; usually white wi
 __tubthumping__  
 __tuck away__  
 __tuck tail__ _You just don't tuck tail and go someplace else._  
-__tuck__  
-__tucked__  
-__tucked__ _v_  
-__tucked__ _v_  
-__tucks__ _v_ _The quarterback tucks the ball._  
+__tuck<sup>2</sup>__ _n_  
+__tuck<sup>1</sup>__ _v_ :three::hammer: (tucks, tucked) _The quarterback tucks the ball._  
 __tufted__  
-__tug of war__  
-__tug of war__  
-__tuition__ _The tuition for the workshops is on a sliding scale._  
-__tuition__ _n_  
+__tug of war__ :three::hammer:  
+__tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  
 __tuk-tuk__  
 __tulip__  
 __tulle__  _Tulle-covered arch._  
-__tumble__  
-__tumble__ _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._  
-__tumble__ _Socks tumble._  
-__tumble__ _v_ :two::hammer:  
+__tumble__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._ _Socks tumble._ _Discovery of the guidelines soon tumbled into the local paper._ _Tumbling gasoline prices._  
 __tumblebug__  
-__tumbled__ _Discovery of the guidelines soon tumbled into the local paper._  
-__tumbler__ _A glass tumbler._  
-__tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
-__tumbling__  
-__tumbling__ _Tumbling gasoline prices._  
+__tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2__ __a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tunnel vision__  
 __tuppence__  
 __turgid__ :three::hammer:  
