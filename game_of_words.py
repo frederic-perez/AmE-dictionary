@@ -2,6 +2,9 @@
 
 import random # WIP
 
+def line_contains_tag_of_number(line):
+    return line.find(':nine:') > -1 or line.find(':eight:') > -1 or line.find(':seven:') > -1
+
 def check_dictionary():
     """Looking for mistakes in the dictionary
 
@@ -10,39 +13,48 @@ def check_dictionary():
     """
     filename = 'dictionary.md'
     input_file = open(filename, 'r')
-    num_problems_found = 0
+    number_of_lines_with_tag_shit = 0
+    number_of_lines_missing_part_of_speech = 0
+    number_of_lines_with_wrong_part_of_speech = 0
 
     for line in input_file:
-        if line.find(":shit:") > -1:
+        if line.find(':shit:') > -1:
             tokens = line.split()
             word = tokens[0]
             part_of_speech = tokens[1]
-            print word + ' ' + part_of_speech + ' <<< FIX tag (use :hammer:) in the dictionary'
-            num_problems_found += 1
-        elif line.find(":nine:") > -1:
+            print word + ' ' + part_of_speech + ' <<< :shit: found; use :hammer: instead'
+            number_of_lines_with_tag_shit += 1
+        elif line_contains_tag_of_number(line):
             tokens = line.split()
-            word = tokens[0]
-            part_of_speech = tokens[1]
-            if part_of_speech.find("_") == -1:
-                print word + ' ' + part_of_speech + ' <<< FIX part of speech in the dictionary!'
-                num_problems_found += 1
+            if len(tokens) == 1:
+                print line + ' <<< Wrong line: Missing part of speech'
+                number_of_lines_missing_part_of_speech += 1
+            else:
+                word = tokens[0]
+                part_of_speech = tokens[1]
+                if part_of_speech.find('_') == -1:
+                    print word + ' ' + part_of_speech + ' <<< Wrong part of speech'
+                    number_of_lines_with_wrong_part_of_speech += 1
 
     input_file.close()
-    succeeded = bool(num_problems_found == 0)
+    succeeded = bool(number_of_lines_with_tag_shit + number_of_lines_missing_part_of_speech + number_of_lines_with_wrong_part_of_speech == 0)
     if succeeded:
         print 'No problems were found in file \'' + filename + '\''
     else:
-        print 'num_problems_found = ' + str(num_problems_found)
+        print '\nSummary of problems found:'
+        print '  #lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
+        print '  #lines missing part of speech = ' + str(number_of_lines_missing_part_of_speech)
+        print '  #lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech)
     return succeeded
 
 def use_random(number):
     "This is a WIP function"
     # We should sort the words to study randomly--in other words, shuffle them
     if number > 0:
-        print 'Random integer between 1 and', number, ":",
+        print '\nRandom integer between 1 and', number, ":",
         print random.randint(1, number)
     else:
-        print 'Input number =', number, 'is not positive'
+        print '\nInput number =', number, 'is not positive'
 
 check_dictionary()
 use_random(100)
