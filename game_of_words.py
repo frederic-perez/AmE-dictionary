@@ -2,6 +2,18 @@
 
 import random # WIP
 
+# From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
+#
+#
+HEADER = '\033[95m'
+OKBLUE = '\033[94m'
+OKGREEN = '\033[92m'
+WARNING = '\033[93m'
+FAIL = '\033[91m'
+ENDC = '\033[0m'
+BOLD = '\033[1m'
+UNDERLINE = '\033[4m'
+
 def line_contains_tag_of_number(line):
     return line.find(':nine:') > -1 or line.find(':eight:') > -1 or line.find(':seven:') > -1 or line.find(':six:') > -1
 
@@ -22,29 +34,31 @@ def check_dictionary():
             tokens = line.split()
             word = tokens[0]
             part_of_speech = tokens[1]
-            print word + ' ' + part_of_speech + ' <<< :shit: found; use :hammer: instead'
+            print word + ' ' + part_of_speech + FAIL + ' <<< :shit: found; use :hammer: instead' + ENDC
             number_of_lines_with_tag_shit += 1
         elif line_contains_tag_of_number(line):
             tokens = line.split()
             if len(tokens) == 1:
-                print line + ' <<< Wrong line: Missing part of speech'
+                print line + FAIL + ' <<< Wrong line: Missing part of speech' + ENDC
                 number_of_lines_missing_part_of_speech += 1
             else:
                 word = tokens[0]
                 part_of_speech = tokens[1]
                 if part_of_speech.find('_') == -1:
-                    print word + ' ' + part_of_speech + ' <<< Wrong part of speech'
+                    print word + ' ' + part_of_speech + FAIL + ' <<< Wrong part of speech' + ENDC
                     number_of_lines_with_wrong_part_of_speech += 1
 
     input_file.close()
     succeeded = bool(number_of_lines_with_tag_shit + number_of_lines_missing_part_of_speech + number_of_lines_with_wrong_part_of_speech == 0)
     if succeeded:
-        print 'No problems were found in file \'' + filename + '\''
+        print OKGREEN + 'No problems were found in file \'' + filename + '\'' + ENDC
     else:
+        print FAIL,
         print '\nSummary of problems found:'
         print '  #lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
         print '  #lines missing part of speech = ' + str(number_of_lines_missing_part_of_speech)
-        print '  #lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech)
+        print '  #lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech),
+        print ENDC
     return succeeded
 
 def use_random(number):
