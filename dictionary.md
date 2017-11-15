@@ -552,10 +552,7 @@ __and how!__
 __andirons__  
 __anew__ :three::hammer:  
 __angle iron__  
-__angler__ _n_  
-__angler__ _n_ (fishing?)  
-__angler__ _n_ _Fisher?_  
-__anglers__  
+__angler__ _n_ :four::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::hammer:  
@@ -1568,13 +1565,8 @@ __call out__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surpri
 __call the shots__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon someone__ _It's nice when they call upon you and you're able to go out there and show them._  
-__call<sup>1</sup>__ _n_ _It would've been a difficult call to eject Landry._  
-__call<sup>2</sup>__ _v_ _Allen has called Oregon games for 29 years._  
-__call__ _The group calls on its members to consider the risks._  
-__call__ _n_ (order?) :two::hammer: _Adam made a deal with starter Anderson: Gain at least 4 yards, and he'd call another run play._  
-__call__ _n_ _It was a very questionable call._  
-__call__ _v_ :two::hammer: _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._  
-__call__ _v_ _Union calls off strike in Brazil before Cup._  
+__call<sup>1</sup>__ _n_ :four::hammer: _It would've been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he'd call another run play._ _It was a very questionable call._  
+__call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __calling card__  
 __calling hours__  
 __calling__ _n_ :two: __1__ A strong inner urge to follow an occupation, etc; vocation. _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
@@ -1708,11 +1700,9 @@ __catch hell__ _I'd catch hell for it._
 __catch-up schedule__  
 __catechism__ :two::hammer::pencil2:  
 __caterwauling__  
-__catfish__  
-__catfish__ _n_ :two::hammer:  
+__catfish__ _n_ :three::hammer:  
 __catharsis__  
-__cathedral ceiling__  
-__cathedral ceiling__ :camera:  
+__cathedral ceiling__ :camera::two::hammer:  
 __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint 
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__
@@ -2878,15 +2868,13 @@ __downplay__ _v_
 __downplay__ _v_  
 __downplayed__ _v_  
 __downpour__ _n_ :four::hammer: (downpours) _Heavy downpours can cause flash flooding._  
-__downright__ :dart::two::hammer: _Not to mention, just downright good looking._  
-__downright__ _Downright goofy._  
+__downright__ _adv_ :dart::three::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downsides__  
 __downtrodden__ :six::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban aareas across the country._  
 __downturn__ _n_  
 __downturns__ :two::hammer:  
 __downward__ _A downward spiral._  
-__dowry__  
-__dowry__  
+__dowry__ :two::hammer:  
 __doyenne__  
 __doze__ _v_  
 __drab__ _adj_ :four: (drabber jobs) _adj_ Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
@@ -3183,14 +3171,10 @@ __ephemeral__
 __epicurean__  
 __epidemic__ _n_ Notice: _n_!  
 __epiphany__  
-__epithet__  
-__epithet__ _Walmart removed the racial epithet from the headline._  
-__epithets__ _n_ :two::hammer:  
+__epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :five: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._   
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponymous__  
-__eponymous__  
-__eponymous__ (eponymously) :two::hammer:  
+__eponymous__ :four::hammer: (eponymously)  
 __equaled__ _v_  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
 __equalizer__  
@@ -5313,8 +5297,7 @@ __lowlife__
 __lowlights__  
 __lowly__  
 __lucifer match__  
-__ludicrous__ :pencil2::four: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
-__ludicrous__ :three::hammer:  
+__ludicrous__ _adj_ :pencil2::seven: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
 __lug__ _v_ :three::hammer:  
@@ -6230,17 +6213,11 @@ __paralyzed__ _v_ :pencil2:
 __paraphernalia__  
 __paraphernalia__ :pencil2::two::hammer: _Star Wars paraphernalia._  
 __parasailing__  
-__parcel__  
-__parcel__  
-__parcel__  
-__parcel__ _It is part and parcel of overturning obstacles._  
-__parcel__ _n_  
+__parcel<sup>1</sup>__ _n_ :three::hammer: _It is part and parcel of overturning obstacles._  
+__parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _The dryness will encompass parched California._  
 __parchment paper__ :camera:  
-__parchment__  
-__parchment__  
-__parchment__ _A parchment chart._  
-__parchment__ _n_ :three::hammer:  
+__parchment__ _n_ :six::hammer: _A parchment chart._  
 __pard__  
 __pared__ _v_  
 __pares__ _v_  
@@ -8575,8 +8552,7 @@ __stagflation__ :two::hammer:
 __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
 __staggering__  
 __stagnant__ :two::hammer:  
-__staid__ :four: _adj_ Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
-__staid__ _v_  
+__staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
 __stairwell__ :three::hammer:  
 __stakeholder__  
 __stakeouts__ :two::hammer:  
@@ -8731,7 +8707,6 @@ __stonewall__ _v_ :four::hammer: (stonewalling)
 __stoop<sup>1</sup>__ _v_ :nine::m::hammer: (stooped) _Jean stoops to pick cranberries for preserves._  
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :two::hammer: _He was a stooped man._ _Stooped shoulders._  
-__stop short__ _v_  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop-and-go__ _Stop-and-go traffic jams._  
 __stopgag__ _n_ :three::hammer:  
@@ -9111,17 +9086,13 @@ __tassels__ _A thong with tassels._
 __tassled__ _Tassled loafers._  
 __tat__ (tattoo?)  
 __tater tots__ _The refrigerated warehouse holds millions of pounds of tater tots._  
-__tatter__ (tattered) :four: _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
-__tatters__ _It is in tatters._ :camera:  
-__tatters__ _Its reputation is in tatters._  
+__tatter__ _v_ :four: (tattered) _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
+__tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
 __tattling__  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _v_ :two::hammer: (taunted, taunting)  
-__taunt__  
-__taunt__ _v_  
-__taunted__ _v_  
-__taunting__  
+__taunt__ _v_ :four::hammer: (taunted, taunting)  
 __taupe__  
 __taut__ _adj_  
 __tautened__  
@@ -9499,8 +9470,7 @@ __trinkets__ _n_
 __triple__  
 __triplex__ _A triplex penthouse._  
 __triptych__  
-__trite__  
-__trite__ _adj_ :five: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
+__trite__ _adj_ :six: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
 __trodden__  
 __troglodyte__ _n_  
