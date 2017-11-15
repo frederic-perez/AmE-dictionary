@@ -3,7 +3,7 @@
 import random # WIP
 
 def line_contains_tag_of_number(line):
-    return line.find(':nine:') > -1 or line.find(':eight:') > -1 or line.find(':seven:') > -1
+    return line.find(':nine:') > -1 or line.find(':eight:') > -1 or line.find(':seven:') > -1 or line.find(':six:') > -1
 
 def check_dictionary():
     """Looking for mistakes in the dictionary
