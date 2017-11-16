@@ -798,8 +798,7 @@ __balogna__ _n_
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bamboozle__ _v_  
-__bandanna__  
-__bandanna__  
+__bandanna__ :two::hammer:  
 __bandit__ _n_  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
@@ -1036,7 +1035,7 @@ __bidding__
 __bier__ _n_ :pencil2:  
 __big brother__  
 __big cat__ :es: felino  
-__big deal__ :dart::seven::hammer: _It's not a big deal._ _Big deal._  
+__big deal__ _n_ :dart::seven::hammer: _It's not a big deal._ _Big deal._  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big time__  
@@ -2951,8 +2950,7 @@ __drop__ _n_
 __dropout__ _n_  
 __droppings__ _n_  
 __drought__ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
-__drover__ _n_  
-__drover__ _n_  
+__drover__ _n_ :two::hammer:  
 __drowns__ _v_  
 __drub__  
 __drubbing__ :three::hammer: (drubbings) _The Knights have improved since receiving a drubbing from the Miners._  
@@ -2976,8 +2974,7 @@ __duckweed__
 __duct__ _They damaged a very large AT&T phone duct._  
 __dud<sup>1</sup>__ _n_ :six: _informal_ (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
-__due diligence__ :six::hammer: _These types of investment require lots of due diligence._  
-__due diligence__ _Siemens has completed due diligence of Alstom._  
+__due diligence__ _n_ :seven::hammer: _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due__ :two::hammer: _They travelled due south._  
 __duffel bag__  
 __duffel bag__  
@@ -3040,8 +3037,7 @@ __easygoing__ _Easygoing people._
 __eatery__  
 __eatery__ _n_ (eateries) _Informal_ A restaurant.  
 __ebb and floor__  
-__ebb and flow__  
-__ebb and flow__ :six::hammer: (ebbed and flowed, ebbs and flows) _The ebbs and flows of life._  
+__ebb and flow__ _n_ :seven::hammer: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb__ _A noticeable ebb of despair._  
 __ebb__ _v_  
 __ebullient__ :two::hammer:  
@@ -3302,7 +3298,7 @@ __fangs__ _n_
 __fannies__  
 __fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __far and away__ :astonished:  
-__far cry__ :six::hammer: _It is a far cry from the 1970s._  
+__far cry__ _n_ :six::hammer: _It is a far cry from the 1970s._  
 __far-fetched__  
 __far-flung__ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
@@ -4077,8 +4073,7 @@ __growl__ _v_
 __growled__ _v_  
 __growling__  
 __grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
-__grubbing__ _v_  
-__grubbing__ _v_  
+__grubbing__ _v_ :two::hammer:  
 __grudge__ _n_ :five::hammer: _I don't hold any grudges._ _Holding a grudge._ :es: rencor   
 __grudges__ _n_  
 __grudging__  
@@ -5202,20 +5197,16 @@ __list > listing boat__
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listening session__  
 __listing__  _One current listing is a $30 million property._    
-__listless__  
-__listless__  
-__litany__  
-__litany__ :three: _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__listless__ :two::hammer:  
+__litany__ :four: _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate__  
-__lithe__  
-__lithe__  
+__lithe__ :two::hammer:  
 __litigation__  
 __litigator__  
 __litter__ _n_ :camera::pencil2:  
 __live wire__  
-__livelihood__ _n_ :dart: Occupation or employment.  
-__livelihoods__  
+__livelihood__ _n_ :dart::two: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
 __livid__  
@@ -5649,16 +5640,13 @@ __monkey suit__
 __monkey wrench__  
 __monogramming__  
 __mononyms__  
-__monsoon__  
-__monsoon__  
-__monsoon__  
-__monstrosity__ :pencil2:  
-__monstrosity__ :pencil2:  
+__monsoon__ :three::hammer:  
+__monstrosity__ :pencil2::two::hammer:  
 __moody__  
 __moody__  
 __moon roof__  
-__moonshine__ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
-__moonshine__ _v_  
+__moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
+__moonshine<sup>2</sup>__ _v_  
 __moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
 __moonshot__ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::hammer:  
@@ -6343,9 +6331,7 @@ __pent-up__
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __peoples__ (?)  
 __pep__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
-__pepper__ _v_ :three::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._  
-__pepper__ _v_ _Ivy peppered him with questions._  
-__peppered__ _v_  
+__pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __perch<sup>1</sup>__ _n_  
@@ -7600,18 +7586,14 @@ __schmoozed__ _v_
 __schmoozing__  
 __schmuck__  
 __schnapps__  
-__scholar__  
-__scholar__ _Legal scholar._  
+__scholar__ :two::hammer: _Legal scholar._  
 __school > charter school__  
 __school desk__  
 __schooling__ _I could smell trout schooling up in the bay._  
-__schooner__  
-__schooner__ (schooners) :five::hammer: _A frosted schooner of draft._ _A schooner of beer._  
+__schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
-__scimitar__  
-__scimitar__ _n_  
-__scion__  
-__scion__ :two::hammer:  
+__scimitar__ _n_ :two::hammer:  
+__scion__ :three::hammer:  
 __scissor lift__  
 __scleroderma__  
 __scoff__ _v_ :five: (scoffed)  Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
@@ -7748,25 +7730,19 @@ __set (someone) up__ _v_ _Emile's trying to set you up._
 __set out__ _v_  
 __set piece__ _The goal was scored on a set piece._  
 __set the pace__  
-__setback__  
-__setback__ _It has suffered several setbacks._  
-__setbacks__ _n_  
+__setback__ _n_ :two::hammer: (setbacks) _It has suffered several setbacks._  
 __setting > picturesque setting__ :es: entorno picturesco  
 __seventh heaven__ :astonished:  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
-__severance pay__  
-__severance__  
-__severance__  
+__severance__ :three::hammer: _Severance pay._  
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
 __sewer gas__  
 __sewer grate__ :two::hammer:  
 __sewer__ _A sewer pipe._  
-__shabby__  
-__shabby__  
+__shabby__ :two::hammer:  
 __shack__ :two::hammer:  
-__shackles__ _A bed with built-in shackles._  
-__shackles__ _n_  
+__shackles__ _n_ :two::hammer: _A bed with built-in shackles._  
 __shades__ :es: gafas?  
 __shady__  
 __shag__ _Orange shag carpeting._  
@@ -7782,17 +7758,13 @@ __sham__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, fa
 __sham__ _n_  
 __shambled__  
 __shambled__ _v_  
-__shambles__ _By 1984, our dreams were a shambles._  
-__shambles__ _It was in shambles._  
+__shambles__ :two::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
 __shambolic__  
 __shamrock__  
 __shamus__  
-__shank<sup>1</sup>__ _n_ :five::hammer: _Roasted pork shanks._  
-__shank<sup>2</sup>__ _v_ :two: To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
-__shank__ _n_ _He grasped the shank of he lure._  
-__shanked__ _v_  
-__shanks__ _He had thin shanks and a skeletal frame._  
+__shank<sup>1</sup>__ _n_ :seven::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
+__shank<sup>2</sup>__ _v_ :three: (shanked) To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
 __shanties__  
 __shanty__  
 __shantytown__  
@@ -8050,8 +8022,7 @@ __skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on some
 __skimp__ _v_  
 __skimp__ _v_ _Don't skimp on the turkey._  
 __skimped__ _v_  
-__skimpy__  
-__skimpy__  
+__skimpy__ :two::hammer:  
 __skin parlor__  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ :two::hammer:  
@@ -9612,9 +9583,7 @@ __under siege__
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
-__undercut__  
-__undercut__ _v_  
-__undercut__ _v_  
+__undercut__ _v_ :three::hammer:  
 __undercutting__  
 __underdog__ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
@@ -9638,8 +9607,7 @@ __undies__
 __undimpled__  
 __undue__  
 __undulating__ _v_  
-__unduly__  
-__unduly__ :three::hammer:  
+__unduly__ :four::hammer:  
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
@@ -10145,19 +10113,15 @@ __withes__ _n_
 __withes__ _n_  
 __withhold__  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
-__wobbly__  
-__wobbly__ _Wobbly dome of yolk._  
-__woe__ _n_ :two: Misfortune; calamity: _economic and political woes._  
+__wobbly__ :two::hammer: _Wobbly dome of yolk._  
+__woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
 __woeful__  
 __woefully__ :four::hammer: _Her hand landed woefully on her forehead._  
-__woes__  
 __wogs__ _n_  
 __wolfe range__  
-__womanizer__  
-__womanizer__  
+__womanizer__ :two::hammer:  
 __womanizing__  
-__wondrous__  
-__wondrous__ :two::hammer:  
+__wondrous__ :three::hammer:  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ :two::hammer: _Wonky details._  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
