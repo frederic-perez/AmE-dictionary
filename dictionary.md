@@ -530,8 +530,7 @@ __aluminum__ _n_ :pencil2::two::hammer:
 __alumni__ :two::hammer:  
 __amass__ _v_ :three::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __ambitious__  
-__amble__ :five::hammer: (ambled) _v_ _Giraffes amble along the savannah._  
-__amble__ _v_  
+__amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
 __amends__  
 __amenity kits__  
@@ -7067,7 +7066,7 @@ __reams__ :pencil2:
 __reams__ _He watched reams on tape._  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
-__rebate__ :five: _n_ A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._  
+__rebate__ _n_ :five: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._  
 __rebate__ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
@@ -7195,7 +7194,7 @@ __reprieve<sup>2</sup>__ _v_ Cancel or postpone the punishment of (someone, espe
 __reprieve__  
 __reprieve__  
 __reprieve__  
-__reprisal__ :five::hammer: (reprisals) _A ban on federal reprisals._  
+__reprisal__ _n_ :five::hammer: (reprisals) _A ban on federal reprisals._  
 __reps__ _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __reps__ _n_  
 __repudiate__ _v_  
@@ -7902,8 +7901,7 @@ __show off__ _v_
 __show runner__ :two::hammer:  
 __show-off__ _n_ :two::hammer: (or showoff?)  
 __showboat__ _v_  
-__showdown__ :five: A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
-__showdowns__  
+__showdown__ _n_ :six: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showhouse__  
 __showrunner__  
 __showstopping__ _A showstopping performance._  
@@ -8133,8 +8131,8 @@ __sloppy__ _We were a little sloppy in the second half of the game._
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ :three::hammer: _The winter sloth._  
-__slouch__ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
-__slouching__ _v_  
+__slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
+__slouch<sup>2</sup>__ _v_ (slouching)  
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :three::hammer:  
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
@@ -8510,7 +8508,7 @@ __stab__ _n_ :two::hammer:
 __stable condition__  
 __stable__  
 __staffed__ _v_  
-__staffer__ :five: _n_ A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
+__staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
 __stag__ _I'm an old stag._  
 __stagflation__ :two::hammer:  
@@ -8678,7 +8676,7 @@ __stopgag__ _n_ :three::hammer:
 __stopgap__ :two::hammer:  
 __stoplights__ :pencil2:  
 __stopover__  
-__stoppage__ :five::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ _n_ :five::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __storefront__ _n_ :two::hammer:  
 __storeful__  
@@ -8717,7 +8715,8 @@ __straw__
 __straws__ _To stir straws._  
 __stray steeples__  
 __stray<sup>1</sup>__ _v_ :eight::hammer: (strays, strayed, straying) _Every individual who strays will be punished._  
-__stray<sup>2</sup>__ :five::hammer: _A stray word._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
+__stray<sup>2</sup>__ _adj_ :five::hammer: _A stray word._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
+__stray<sup>3</sup>__ _n_  
 __streak__ _n_  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
@@ -9078,7 +9077,7 @@ __tearing__ _Her idea of taking a day off is tearing around a golf course._
 __techie__ _Facebook's techie in chief._  
 __tee up__ _v_  
 __teeing up__ _v_   
-__teeming__ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
+__teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :eight::hammer: (teeters, teetering) _Iran is teetering on the brink of a civil war._  
 __telegenic__  
 __televised__  
@@ -9318,7 +9317,7 @@ __tonsure__
 __tonsure__  
 __tonsure__  
 __tonsure__ _The pate of a monk with a wet red tonsure._  
-__tony__ :five: _Informal adj_ Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
+__tony__ _Informal adj_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
 __toodling__  
 __toom__  
@@ -9568,7 +9567,7 @@ __unabashed__ _adj_ :four: Not ashamed, disconcerted, or apologetic; boldly cert
 __unabated__ :three::hammer:  
 __unalienable__  
 __unanimous__  
-__unapologetic__ :five::hammer:  
+__unapologetic__ _adj_ :five::hammer:  
 __unapologetically__ :three::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
@@ -9666,7 +9665,7 @@ __upcoming__
 __upend__ _v_ :nine::m_ (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical   
 __upfield__  
-__upheaval__ :five::hammer:  
+__upheaval__ _n_ :five::hammer:  
 __uphill battle__  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
@@ -9678,7 +9677,9 @@ __uppers__
 __upping__ _v_ :two::hammer:  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproot__ _v_  
-__upscale__ :five: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
+__upscale<sup>1</sup>__ _adj_ :five: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
+__upscale<sup>2</sup>__ _v_  
+__upscale<sup>3</sup>__ _n_  
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
 __upshot__ _n_ :three::hammer:  
