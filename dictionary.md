@@ -4033,19 +4033,13 @@ __grittier___ _It makes the queso a bit grittier._
 __gritty__  
 __gritty__  
 __gritty__ _adj_ :six::hammer: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
-__grizzled__  
-__grizzled__  
-__grizzled__ _A grizzled scout._  
-__grizzled__ _adj_  
-__grizzled__ _v_ :two::hammer: _Grizzled ballroom vets._  
-__groan__ _v_  
-__groan__ _v_ :two::hammer:  
+__grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
+__groan__ _v_ :three::hammer:  
 __grocer__ _n_ :two::hammer:  
 __grog__  
 __groomed__  
 __groomers__  
-__groove__ :two::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._  
-__groove__ _Stocks have found their groove._  
+__groove__ :three::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._ _Stocks have found their groove._  
 __grope (somebody)__ _v_ _Informal_ To touch somebody sexually, especially when they do not want you to.  
 __ground chuck steak__  
 __ground game__  
@@ -6171,8 +6165,7 @@ __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was pai
 __pamper__ _v_ :five::hammer: (pampered)  
 __pampling__  
 __pan drippings__ :two::hammer:  
-__pan out__ :two::hammer:  
-__pan out__ _v_  
+__pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
 __panache__ :two::hammer:  
 __pander__ _v_ :seven::hammer: (panders, pandering)  
@@ -6493,25 +6486,19 @@ __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men
 __placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
 __placemats__ _n_  
 __placket__  
-__plaid__ _Plaid number._  
-__plaid__ _Plaid shirt._  
-__plain and simple__  
-__plain and simple__ :astonished: _This was our mistake, plain and simple._  
-__plaintiff__ :two::hammer:  
-__plaintiffs__  
+__plaid__ :two::hammer: _Plaid number._ _Plaid shirt._  
+__plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
+__plaintiff__ _n_ (plaintiffs) :three::hammer:  
 __plaintive__ _adj_ :three: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
 __plaiting__ _Tshanyi earns money plaiting hair._  
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
-__plane__  
-__plane__ _It was a place full of plane trees._  
+__plane__ :two::hammer: _It was a place full of plane trees._  
 __plangent__  
-__plank__ _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._  
-__planks__  _Anti-austerity planks._  
+__plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._  
 __planta fasciitis__ _(typo?)_ :camera: _John was sidelined with planta fasciitis in his right foot._  
 __planter__ _My sidewalk planter._  
 __plashed__ _v_  
-__plaster__ _v_ _Blizzard plasters Denver._  
-__plastered__ _v_  
+__plaster__ _v_ :two::hammer: (plastered) _Blizzard plasters Denver._  
 __plasters__ _n_ _Salves, poultices, and plasters._  
 __plate__ _Baseball_  
 __plateau__  
@@ -7057,13 +7044,10 @@ __readily__
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
 __reaffirming__  
-__realist__  
-__realist__ _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
-__realtor__  
-__realtor__ _n_  
+__realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
+__realtor__ _n_ :two::hammer:  
 __ream__ _v_ :four::hammer: (reamed)  
-__reams__ :pencil2:  
-__reams__ _He watched reams on tape._  
+__reams__ _n_ :pencil2::two::hammer: _He watched reams on tape._  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
 __rebate__ _n_ :five: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._  
@@ -8368,10 +8352,7 @@ __spigot__
 __spigot__ _n_ :three: A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
 __spigots__  
 __spike<sup>1</sup>__ _n_  
-__spike<sup>2</sup>__ _v_ :six::hammer: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _Informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._  
-__spike__ _v_  
-__spike__ _v_  
-__spiked__ _He sipped spiked colas._  
+__spike<sup>2</sup>__ _v_ :nine::hammer: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _Informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
 __spill the beans__  
 __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ :two::hammer:  
@@ -8383,8 +8364,7 @@ __spindle__ _n_
 __spindly__  
 __spinet piano__ :camera:  
 __spinouts__  
-__spinster__  
-__spinster__  
+__spinster__ :two::hammer:  
 __spiny lobsters__ :camera:  
 __spire__ _n_ A tapering roof or analogous pyramidal construction surmounting a tower.  
 __spires__ _n_  
@@ -9044,19 +9024,17 @@ __tart__ _She'd bitten into something overly tart._
 __tartan__ :two::hammer: _Tartan trousers._ _Tartan upholstery._  
 __tarts__ _n_ (whore)  
 __tasked__ _v_  
-__tasseled__ _Tasseled loafers._  
-__tasseled__ _v_ :four::hammer: _Tasseled loafers._  
+__tasseled__ _v_ :five::hammer: _Tasseled loafers._  
 __tassels__ _A thong with tassels._  
 __tassled__ _Tassled loafers._  
 __tat__ (tattoo?)  
 __tater tots__ _The refrigerated warehouse holds millions of pounds of tater tots._  
-__tatter__ _v_ :four: (tattered) _v_ To make or become ragged: _tattered jeans; a tattered reputation._  
+__tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
 __tattling__  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
-__taunt<sup>2</sup>__ _v_ :two::hammer: (taunted, taunting)  
-__taunt__ _v_ :four::hammer: (taunted, taunting)  
+__taunt<sup>2</sup>__ _v_ :six::hammer: (taunted, taunting)  
 __taupe__  
 __taut__ _adj_  
 __tautened__  
@@ -9069,8 +9047,7 @@ __taxpayer__ _n_
 __tchotchkes__ :two::hammer: _Simpson tchotchkes._  
 __tea party__ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __teakwood__ :pencil2:  
-__tear gas__  
-__tear gas__  
+__tear gas__ :two::hammer:  
 __tear__ _The stock has been on a tear._  
 __teardown__ _n_  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
@@ -9419,18 +9396,14 @@ __trickle<sup>2</sup>__ _v_ _The money trickled in._
 __trickle__ _n_  
 __tricksy__  
 __trifecta__ :four: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
-__trifle__  
-__trifle__ _v_  
-__trifled__ _v_ _Never to be trifled with._  
+__trifle__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trifles__ _n_  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_  
 __trilling__  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ _Stainless interior trim._  
-__trinkets__  
-__trinkets__ _n_  
-__trinkets__ _n_  
+__trinkets__ _n_ :three::hammer:  
 __triple__  
 __triplex__ _A triplex penthouse._  
 __triptych__  
@@ -10023,8 +9996,8 @@ __wholesale__ _adj_ :four: Use the adjective wholesale to describe something tha
 __wholesaler__ :two::hammer:  
 __wholesome__ :two::hammer:  
 __wholly__ :pencil2: _A problem that is wholly unnecessary._  
-__whoop__ _n_  
-__whoop__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
+__whoop<sup>1</sup>__ _n_  
+__whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
 __whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
@@ -10036,13 +10009,12 @@ __wickedly__
 __wicker__ :three::hammer: _Wicker chair._ _They sat in wicker rockers._  
 __wicket__  
 __wicking__ :two::hammer: _Moisture wicking._ __High-wicking polyester._  
-__wicks__ _Linen wicks._  
-__wicks__ _n_  
+__wicks__ _n_ :two::hammer: _Linen wicks._  
 __widebody__ _Widebody jet._  
 __wield__ _v_ :eight: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
-__wiggle__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
-__wiggle__ _v_  
+__wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
+__wiggle<sup>2</sup>__ _v_  
 __wigglers__  
 __wild card__ _The wildcard was an expected weekend warmup with rain._  
 __wilderness__  
