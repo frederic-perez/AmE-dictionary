@@ -30,7 +30,8 @@ def line_contains_tag_of_number(line):
         or line.find(':eight:') > -1 \
         or line.find(':seven:') > -1 \
         or line.find(':six:') > -1 \
-        or line.find(':five') > -1
+        or line.find(':five') > -1 \
+        or line.find(':four:') > -1
 
 def check_dictionary():
     """Looking for mistakes in the dictionary
@@ -85,9 +86,9 @@ def check_dictionary():
     else:
         print FAIL,
         print '\nSummary of problems found:'
-        print '  #lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
-        print '  #lines missing part of speech = ' + str(number_of_lines_missing_part_of_speech)
-        print '  #lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech),
+        print '  Lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
+        print '  Lines missing part of speech = ' + str(number_of_lines_missing_part_of_speech)
+        print '  Lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech),
         print ENDC
     return succeeded
 
