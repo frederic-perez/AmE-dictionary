@@ -15,6 +15,16 @@ ENDC = '\033[0m'
 BOLD = '\033[1m'
 UNDERLINE = '\033[4m'
 
+number_of_lines_with_tag_shit = 0
+
+def treat_shit_tag(line):
+    global number_of_lines_with_tag_shit
+    tokens = line.split()
+    word = tokens[0]
+    part_of_speech = tokens[1]
+    print word + ' ' + part_of_speech + FAIL + ' <<< :shit: found; use :hammer: instead' + ENDC
+    number_of_lines_with_tag_shit += 1
+
 def line_contains_tag_of_number(line):
     return line.find(':nine:') > -1 or line.find(':eight:') > -1 or line.find(':seven:') > -1 or line.find(':six:') > -1
 
@@ -24,19 +34,15 @@ def check_dictionary():
     Reads the contents of dictionary.md searching for :shit:,
     or :nine: without part of the speech defined
     """
+    global number_of_lines_with_tag_shit
     filename = 'dictionary.md'
     input_file = open(filename, 'r')
-    number_of_lines_with_tag_shit = 0
     number_of_lines_missing_part_of_speech = 0
     number_of_lines_with_wrong_part_of_speech = 0
 
     for line in input_file:
         if line.find(':shit:') > -1:
-            tokens = line.split()
-            word = tokens[0]
-            part_of_speech = tokens[1]
-            print word + ' ' + part_of_speech + FAIL + ' <<< :shit: found; use :hammer: instead' + ENDC
-            number_of_lines_with_tag_shit += 1
+            treat_shit_tag(line)
         elif line_contains_tag_of_number(line):
             tokens = line.split()
             num_tokens = len(tokens)
