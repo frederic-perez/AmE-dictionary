@@ -26,7 +26,11 @@ def treat_shit_tag(line):
     number_of_lines_with_tag_shit += 1
 
 def line_contains_tag_of_number(line):
-    return line.find(':nine:') > -1 or line.find(':eight:') > -1 or line.find(':seven:') > -1 or line.find(':six:') > -1
+    return line.find(':nine:') > -1 \
+        or line.find(':eight:') > -1 \
+        or line.find(':seven:') > -1 \
+        or line.find(':six:') > -1 \
+        or line.find(':five') > -1
 
 def check_dictionary():
     """Looking for mistakes in the dictionary
