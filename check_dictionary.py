@@ -42,6 +42,7 @@ def check_dictionary():
     global number_of_lines_with_tag_shit
     filename = 'dictionary.md'
     input_file = open(filename, 'r')
+    number_of_composite_words = 0
     number_of_lines_missing_part_of_speech = 0
     number_of_lines_with_wrong_part_of_speech = 0
 
@@ -52,8 +53,9 @@ def check_dictionary():
             tokens = line.split()
             NUM_TOKENS = len(tokens)
             if NUM_TOKENS == 1:
-                print line + FAIL + ' <<< Missing part of speech' + ENDC
                 number_of_lines_missing_part_of_speech += 1
+                print line + FAIL + ' <<< Missing part of speech #' \
+                    + str(number_of_lines_missing_part_of_speech) + ENDC
             else:
                 word = tokens[0]
                 word_completed = word.count('__') == 2
@@ -67,24 +69,26 @@ def check_dictionary():
                         if word.count('__') == 2:
                             word_completed = True
                 if i > 0:
-                    print word + GRAY + ' <<< Composite word' + ENDC
+                    number_of_composite_words += 1
+                    print OKBLUE + word + GRAY + ' <<< Composite word #' \
+                        + str(number_of_composite_words) + ENDC
                 i += 1
                 part_of_speech = tokens[i]
                 if part_of_speech.find('_') == -1:
-                    print word + ' ' + part_of_speech + FAIL + ' <<< Wrong part of speech' + ENDC
                     number_of_lines_with_wrong_part_of_speech += 1
+                    print FAIL + word + ' ' + part_of_speech + ENDC \
+                        + ' <<< Wrong part of speech #' \
+                        + str(number_of_lines_with_wrong_part_of_speech)
 
     input_file.close()
     succeeded = bool(number_of_lines_with_tag_shit + number_of_lines_missing_part_of_speech + number_of_lines_with_wrong_part_of_speech == 0)
     if succeeded:
         print OKGREEN + 'No problems were found in file \'' + filename + '\'' + ENDC
     else:
-        print FAIL,
         print '\nSummary of problems found:'
         print '  Lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
         print '  Lines missing part of speech = ' + str(number_of_lines_missing_part_of_speech)
-        print '  Lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech),
-        print ENDC
+        print '  Lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech)
     return succeeded
 
 def use_random(number):
