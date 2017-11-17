@@ -396,8 +396,7 @@ __accretion__
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__  
 __acerbic__ :two::hammer:  
-__acolytes__  
-__acolytes__  
+__acolytes__ :two::hammer:  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquaintances__ :pencil2:  
 __acquiesce__  
@@ -943,11 +942,8 @@ __bejeezus__ _In her telling, this "they" of hers is scaring the bejeezus out of
 __bejeweled__ _v_  
 __belabor__  
 __belaboring__  
-__belate__ _v_ :two::hammer: (belated)  
-__belated__  
-__belated__ _v_  
-__belatedly__  
-__belatedly__  
+__belate__ _v_ (belated) :four::hammer:  
+__belatedly__ :two::hammer:  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
 __beleaguer__ _v_  
@@ -1937,17 +1933,14 @@ __clout__
 __clout__ _n_ :nine: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout__ _v_  
 __clove__ _n_ :astonished::dart::camera: __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__  One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
-__cloying__  
-__cloying__  
-__cloying__ :two::hammer: _She is cordial without being cloying._  
+__cloying__ :four::hammer: _She is cordial without being cloying._  
 __cluck__  
 __clucking__ _Clucking chickens._  
 __clue__ :dart:  
 __clump__ _n_  
 __clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
-__clunky__  
-__clunky__ :two::hammer:  
+__clunky__ :three::hammer:  
 __clutch player__  
 __clutch<sup>1</sup>__ _n_ :two::hammer: _He was a dominant player in the clutch._ _Clutches for iPhone._  
 __clutch<sup>2</sup>__ _v_ :two::hammer: _Butler and Wade were both clutch._  
@@ -2815,8 +2808,7 @@ __doorknob hanger__
 __doorman building__ _n_  
 __doormat__  
 __doorpost__  
-__doozy__  
-__doozy__ :two: _Informal_ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
+__doozy__ _adj_ _Informal_ :three: Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __dork__ __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dormant__  
@@ -3328,10 +3320,7 @@ __feckless__ _adj_ :three::hammer:
 __fecklessness__  
 __feel for__  
 __feint__  
-__feisty__  
-__feisty__  
-__feisty__  
-__feisty__ :two::hammer:  
+__feisty__ :five::hammer:  
 __felled__ _v_ _He felled a giant._  
 __felon__ _n_ :eight: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
@@ -5034,11 +5023,8 @@ __lauded__ _v_
 __lauds__ _Barber was buried after lauds._  
 __laughingstock__  
 __laureate__  
-__lavish<sup>1</sup>__ _adj_ :seven::hammer: _Lavish fees._  
+__lavish<sup>1</sup>__ _adj_ :nine::m::hammer: _Lavish fees._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
-__lavish__  
-__lavish__  
-__lavish__ _adj_  
 __lavishly__  
 __lavishly__ :two::hammer:  
 __law of the land__  
@@ -5164,8 +5150,7 @@ __limerics__
 __limestone__ _n_ :two::hammer:  
 __limned__  
 __limo__  
-__limp__ _Limp spinoff._  
-__limp__ _Limp wrists._  
+__limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
 __linchpin__ _n_ :four::hammer:  
 __line up__ _v_  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -8543,10 +8528,8 @@ __stat sheet__ :two::hammer: _The stat sheet for him will be ugly--he missed 10 
 __stately__ _adj_ :three: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
-__stateroom__ _The ocean liner "stateroom scene."_  
-__stateroom__ _n_ A private cabin or compartment with sleeping accommodations on a ship or train.  
-__statesman__  
-__statesman__ _The elder statesman of the group._  
+__stateroom__ _n_ :two: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_  
+__statesman__ :two::hammer: _The elder statesman of the group._  
 __statesmen__ (notice, not 'statement')  
 __stationery__  
 __statute__  
