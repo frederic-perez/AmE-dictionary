@@ -904,7 +904,7 @@ __bedspreads__ _n_
 __bedstead__  
 __beech__  
 __beech__ _n_  
-__beef up__ :five: _v_ __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
+__beef up__ _v_ :five: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
 __beeline__  
 __beep-de-beep__  
@@ -1118,7 +1118,7 @@ __bling__ _n_ :two::hammer:
 __blink__ _v_ _There is no reason to blink._  
 __blip__ :three::hammer: _Fun cars are a blip._  
 __blips__ _n_ _Put the blips and bumps in proper proportion._  
-__blithe__ :five::hammer:  
+__blithe__ _adj_ :five::hammer:  
 __blithely__ :three::hammer:  
 __blitheness__  
 __blither__  
@@ -1323,8 +1323,7 @@ __breakout__
 __breakout__  
 __breakup__ _n_  
 __breakwater__ _n_  
-__bream__ :five: A greenish-bronze deep-bodied freshwater fish native to Europe.  
-__bream__ :two::hammer: _Fishing for bream._  
+__bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breather__ :two::hammer:  
 __breech__ _n_ :four::hammer:  
@@ -1455,7 +1454,7 @@ __buoy<sup>1</sup>__ _n_
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyant__ :four: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
-__burgeoning__ :five::hammer:  
+__burgeoning__ _adj_ :five::hammer:  
 __burgermeister__  
 __burgundy__  
 __burgundy__ _Burgundy outfit._  
@@ -2018,9 +2017,7 @@ __commendation__ _He earned two commendation medals._
 __commendations__ _n_  
 __commentary__  
 __commingled__ :two::hammer:  
-__commission__ _v_  
-__commissioned__ :astonished::five::hammer:  
-__commissioned__ _Commissioned portraits._  
+__commission__ _v_ :astonished::seven::hammer: (commissioned) _Commissioned portraits._  
 __committal__ _A committal graveside service will be held for the family._  
 __commode__  
 __commodious__  
@@ -2575,8 +2572,7 @@ __demur__ _v_ (demurred) :two::hammer:
 __demure__ _adj_ :two::hammer:  
 __demurely__ :two::hammer:  
 __demurred__ _v_  
-__den__ :five: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
-__den__ _n_  
+__den__ _n_ :six: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dengue fever__  
 __dengue__  
 __denier__ _n_ A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
@@ -2801,7 +2797,7 @@ __dole out__ _v_ :two::hammer:
 __dole out__ _v_ _He's still finding his way in terms of doling out minutes._  
 __doled out__ _v_  
 __dolirometer__  
-__dollop__ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
+__dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
 __dolt__  
 __dolt__  
 __domicile__  
@@ -3152,7 +3148,7 @@ __entitlement__ :four::hammer: _Entitlement programs._
 __entourage__  
 __entrant__ :astonished:  
 __entrench__ _v_ :six: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
-__entrenched__ :five: _adj_ (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
+__entrenched__ _adj_ :five: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
 __entwined__  
@@ -3654,7 +3650,7 @@ __forte<sup>1</sup>__ _n_ Something in which a person excels.
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthright__  
 __fortified wine__  
-__foul play__ :five::dart: Violence, esp. murder.  
+__foul play__ _n_ :five::dart: Violence, esp. murder.  
 __foul__ _Foul language.__   
 __founder__ _v_ :two::hammer: (foundered) _The attempt foundered._  
 __foundries__ _Metal foundries._  
@@ -3676,7 +3672,7 @@ __franchise tag__ :three: _Pittsburg placed the franchise tag on Bell in March._
 __franchise__ _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
 __frats__ _n_  
-__fraught__ :five: _adj_ __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :five: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer:  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._    
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -3790,7 +3786,7 @@ __gargantuan__
 __gargle__ _n_  
 __gargoyle__  
 __gargoyles__ :two::hammer:  
-__garish__ :five::hammer::astonished: _They are charming and garish at the same time._  
+__garish__ _adj_ :five::hammer::astonished: _They are charming and garish at the same time._  
 __garland__ _n_ :three::camera::hammer:_Garland motifs on carved oak paneling._ _Evergreen garlands._  
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
@@ -3808,7 +3804,7 @@ __gaskets__
 __gasolene__ :two::hammer::pencil2:  
 __gasped__ _v_ :three::hammer:  
 __gat__  
-__gaudy__ :five: _adj_ Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
+__gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gaunt__ _adj_ :seven: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
@@ -3845,7 +3841,7 @@ __get the middle finger__
 __get-go__ :three::hammer: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __getaways__ _n_ :two::hammer: _Weekend getaways._  
-__ghastly__ :five::hammer:  
+__ghastly__ _adj_ :five::hammer:  
 __ghoul__ :three::hammer:  
 __gibbet__ _n_  
 __gibblets__ _n_  
@@ -4516,7 +4512,7 @@ __huff__ :two::hammer:
 __huffed__ _v_ :five::hammer: (huffing)  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
-__humdrum__ :five::hammer: _A humdrum office building._  
+__humdrum__ _adj_ :five::hammer: _A humdrum office building._  
 __humidor__ _n_  
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
@@ -4653,7 +4649,7 @@ __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definit
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __indefatigable__ _adj_ :four::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
 __indefinite__  
-__indelible__ :five::hammer::pencil2: _An indelible mark._  
+__indelible__ _adj_ :five::hammer::pencil2: _An indelible mark._  
 __indenture__ _v_  
 __indentured__  
 __indict__ _v_ :five::hammer: (indicted)  
@@ -5295,7 +5291,7 @@ __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protubera
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ :two::hammer: _Lumpy headlights._  
 __lunch lady__ _She worked as a lunch lady._  
-__luncheon__ :five::hammer:  
+__luncheon__ _n_ :five::hammer: Lunch.  
 __lunchpail__  
 __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into the pen._  
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
@@ -5573,7 +5569,7 @@ __misfits__
 __misgivings__ :two::hammer:  
 __mishap__  
 __mishmash__ :two::hammer:  
-__misnomer__ :five: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ _n_ :five: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __misogynist__  
 __misogyny__ :pencil2:  
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
@@ -5842,7 +5838,7 @@ __nightcap__ :three::hammer: (nightcaps) _Whiskey nightcaps._
 __nightie__  
 __nightmarish__ :two::hammer:  
 __nihilistic__  
-__nimble__ (nimbler, nimbly) :five: _adj_ __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
+__nimble__ _adj_ :five: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimble__ _adj_  
 __nineloss__ ?  
 __nip-and-tuck__  
@@ -5942,7 +5938,7 @@ __obverse__ _The obverse hub of a coin._
 __occurr__ :pencil2:  
 __octogenarians__  
 __octoroons__  
-__oddball__ :five: _Informal_ A strange or eccentric person. :es: bicho raro  
+__oddball__ _n_ _Informal_ :five: A strange or eccentric person. :es: bicho raro  
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odometer__ :two::hammer:  
@@ -6784,7 +6780,7 @@ __prurient__ _adj_
 __pry__ _v_ :eight::hammer: _To pry the crack open wider and wider._  
 __psyche__  
 __psychopathic__  
-__public house__ :five::hammer: :es: taberna  
+__public house__ _n_ :five::hammer: :es: taberna  
 __public housing__  
 __publican__ _n_ :three::hammer:  
 __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) Tightly gather or contract into wrinkles or small folds. _The child's face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
@@ -9185,7 +9181,7 @@ __thwart__ _v_
 __thwart__ _v_ :seven: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thwarted__ _v_  
 __thyme__ _n_ :three::hammer:  
-__tiara__ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
+__tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
 __tick prevention__  
 __tick__ _v_ _Prices ticked up 0.2%._  
 __ticker__  
@@ -9387,15 +9383,11 @@ __tribute__ _Her fellow tribute and her hunting buddy._
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
-__trickle-down__ :two::hammer: _A trickle-down effect._  
-__trickle-down__ _n_ :six::hammer: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._  
-__trickle<sup>1</sup>__ _n_ :eight: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._  
-__trickle<sup>1</sup>__ _n_ _A trickle of sunlight._  
-__trickle<sup>2</sup>__ _v_ :four::hammer:  
-__trickle<sup>2</sup>__ _v_ _The money trickled in._  
-__trickle__ _n_  
+__trickle-down__ _n_ :eight::hammer: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._ _A trickle-down effect._  
+__trickle<sup>1</sup>__ _n_ :nine::m: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
+__trickle<sup>2</sup>__ _v_ :five::hammer: _The money trickled in._  
 __tricksy__  
-__trifecta__ :four: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
+__trifecta__ _n_ :four: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trifles__ _n_  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
@@ -9579,7 +9571,7 @@ __undies__
 __undimpled__  
 __undue__  
 __undulating__ _v_  
-__unduly__ :four::hammer:  
+__unduly__ _adv_ :four::hammer:  
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
@@ -9709,9 +9701,7 @@ __varsity__ _n_ :five: The word varsity identifies the starting team in a sport 
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _Vaulted ceilings._  
-__vaunt__  _v_ :three: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._  
-__vaunted__ :four::hammer: _His vaunted political organization._  
-__vaunted__ _His vaunted negotiation skills._  
+__vaunt__  _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __veggie__ _Holiday veggie roast._  
 __vellum__  
 __velvet rope__  
@@ -9785,7 +9775,7 @@ __voltron__
 __voluble__  
 __votaries__  
 __vouch__ _v_  
-__voucher__ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
+__voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __vow__ _v_  
 __vying__ _v_ :seven: Present participle of vie.  
@@ -9953,7 +9943,7 @@ __whelp__
 __whence__  
 __whereabouts__  
 __whereby__  
-__wherewithal__ :four::hammer:  
+__wherewithal__ _n_ :four::hammer:  
 __whet__ _v_ :seven: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year's Part 2._  
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
@@ -10089,7 +10079,7 @@ __wizened__ _adj_ :three: "You're looking quite wizened today," is a something y
 __wobbly__ :two::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
 __woeful__  
-__woefully__ :four::hammer: _Her hand landed woefully on her forehead._  
+__woefully__ _adv_ :four::hammer: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
 __wolfe range__  
 __womanizer__ :two::hammer:  
@@ -10175,7 +10165,7 @@ __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, a
 __yank__ _v_ To fire?  
 __yank__ _v_ _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __yardage__  
-__yardstick__ :four: _n_ __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
+__yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
 __yarn__  
 __yarn__  
@@ -10217,10 +10207,8 @@ __yuan__ _n_
 __yule__ :two::hammer: _If you believe, yule receive!_  
 __yummy__  
 __yurts__ _n_  
-__zaniness__  
-__zaniness__  
-__zany__  
-__zany__ :four: _adj_ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
+__zaniness__ :two::hammer:  
+__zany__ _adj_ :five: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
 __zeal__ _n_  
 __zealotry__  
 __zealous__  
@@ -10239,6 +10227,6 @@ __zip__ _Bouncing back from that 13-zip deficit._
 __zippy__ _A zippy hit parade._  
 __zit__ _n_ _Informal_ A spot on the skin.  
 __zonk__ _n_ :two::hammer:   
-__zoot__ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
+__zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ :two::hammer: :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
