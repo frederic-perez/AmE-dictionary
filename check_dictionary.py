@@ -15,7 +15,24 @@ ENDC = '\033[0m'
 BOLD = '\033[1m'
 UNDERLINE = '\033[4m'
 
+number_of_lines_with_too_many_double_spaces = 0
+number_of_lines_with_triple_spaces = 0
 number_of_lines_with_tag_shit = 0
+
+def treat_too_many_double_spaces(line):
+    global number_of_lines_with_too_many_double_spaces
+    tokens = line.split()
+    word = tokens[0]
+    part_of_speech = tokens[1]
+    print word + ' ' + part_of_speech + FAIL + ' <<< Too many double spaces' + ENDC
+    number_of_lines_with_too_many_double_spaces += 1
+
+def treat_triple_spaces(line):
+    global number_of_lines_with_triple_spaces
+    tokens = line.split()
+    word = tokens[0]
+    print word + ' ' + FAIL + ' <<< Triple spaces' + ENDC
+    number_of_lines_with_triple_spaces += 1
 
 def treat_shit_tag(line):
     global number_of_lines_with_tag_shit
@@ -47,6 +64,10 @@ def check_dictionary():
     number_of_lines_with_wrong_part_of_speech = 0
 
     for line in input_file:
+        if line.count('  ') > 2:
+            treat_too_many_double_spaces(line)
+        if line.count('   ') > 0:
+            treat_triple_spaces(line)
         if line.find(':shit:') > -1:
             treat_shit_tag(line)
         if line_contains_tag_of_number(line):
@@ -86,6 +107,8 @@ def check_dictionary():
         print OKGREEN + 'No problems were found in file \'' + filename + '\'' + ENDC
     else:
         print '\nSummary of problems found:'
+        print '  Lines with triple spaces = ' + str(number_of_lines_with_triple_spaces)
+        print '  Lines with too many double spaces = ' + str(number_of_lines_with_too_many_double_spaces)
         print '  Lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
         print '  Lines missing part of speech = ' + str(number_of_lines_missing_part_of_speech)
         print '  Lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech)
