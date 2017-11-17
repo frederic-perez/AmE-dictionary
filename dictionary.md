@@ -592,9 +592,7 @@ __appeal__ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
 __appeases__ _v_  
-__appellate__  
-__appellate__  
-__appellate__  
+__appellate__ :three::hammer:  
 __appetizer__ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __apportion__ _v_  
@@ -1791,19 +1789,14 @@ __chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious 
 __chicken wire__  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chicklit__ _A chicklit satire._  
-__chided__ _v_ :four::hammer: _Whe chided the Pentagon._  
-__chiding__ _v_  
-__chiding__ _v_  
+__chided__ _v_ :six::hammer: (chiding) _Whe chided the Pentagon._  
 __chilblains__  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
-__chiming__  
-__chiming__  
+__chiming__ :two::hammer:  
 __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
-__chinos__ _n_  
-__chinos__ _n_ :pencil2::two::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
-__chip away__ _v_  
-__chip away__ _v_  
+__chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
+__chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :three::hammer: (chipped in)  
 __chip on his shoulder__  
 __chip on one's shoulder__  
@@ -1926,12 +1919,8 @@ __clothesline__
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __clough__ _n_ :three::hammer:  
-__clout__  
-__clout__  
-__clout__  
-__clout__  
-__clout__ _n_ :nine: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
-__clout__ _v_  
+__clout<sup>1</sup>__ _n_ :nine::m: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
+__clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera: __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__  One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
 __cloying__ :four::hammer: _She is cordial without being cloying._  
 __cluck__  
@@ -2379,8 +2368,7 @@ __curlicues__
 __curmudgeon__ _n_ :four: An ill-tempered person full of resentment and stubborn notions.  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
-__cursory__  
-__cursory__ :two::hammer: _A cursory glance._  
+__cursory__ :three::hammer: _A cursory glance._  
 __curt__ _His curt answer._  
 __curtail__ _v_ :eight: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
 __curtailment__  
@@ -3663,7 +3651,7 @@ __franchisees__
 __frats__ _n_  
 __fraught__ _adj_ :five: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer:  
-__fray<sup>2</sup>__ _v_ :nine::m: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._  _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._    
+__fray<sup>2</sup>__ _v_ :nine::m: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._    
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __frazzled<sup>2</sup>__ _v_  
 __freak-out__  
@@ -5170,7 +5158,7 @@ __liquefy__
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listening session__  
-__listing__  _One current listing is a $30 million property._    
+__listing__  _One current listing is a $30 million property._  
 __listless__ :two::hammer:  
 __litany__ :four: _n_ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
@@ -6617,7 +6605,7 @@ __potholed__ _The island's potholed highways._
 __potluck__  :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
 __pounce__ :three::hammer: _v_ (pounced) 
-__pounce on__ :four::hammer: _Critics pounced on the showiness._  
+__pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pout__ _v_ :six::hammer: (pouts, pouting) :three::hammer: _Pouting session._  
 __powder blue__ Color?  
@@ -6667,7 +6655,7 @@ __prescient__ :three::hammer:
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
 __preserve__ _A comedy about gorillas in a preserve._  
 __preserves__ _n_ :two::hammer: _A jar of fig preserves._  
-__president-elect__ :four::hammer:  
+__president-elect__ _n_ :four::hammer:  
 __press box__ _n_  
 __press on__  
 __press the pocket__  
@@ -6720,7 +6708,8 @@ __profanely__
 __professed__ _v_  
 __proffering__  
 __profiteering__  
-__profligate__ :four::hammer:  
+__profligate<sup>1</sup>__ _adj_ :two::hammer:  
+__profligate<sup>2</sup>__ _n_ :two::hammer:  
 __profusion__  
 __prohibit__  
 __promenade__ _n_ :two::hammer:  
@@ -6742,7 +6731,7 @@ __propped up__ _v_
 __propped__ _v_ :two::hammer:  
 __props__ :two::hammer: _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
 __prosaic__  
-__proselytize__ :four::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
+__proselytize__ _v_ :four::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prospect__ _n_ (sports)  
 __prospectus__  
 __prostrate__ _v_  
@@ -6868,7 +6857,7 @@ __quavered__
 __quavering__  
 __quay__ _n_  
 __queasiness__ _There was queasiness among many residents._  
-__queasy__ :four: _adj_ Causing or suffering from nausea: _feeling queasy after a meal._  
+__queasy__ _adj_ :four: Causing or suffering from nausea: _feeling queasy after a meal._  
 __queer__ _v_  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quelled__ _v_  
@@ -6906,7 +6895,7 @@ __rachet__ _I heard the phone booth door rachet back violently on its hinges._
 __racinos__  
 __rack up__ _v_ :five::hammer: _He had racked up a criminal record._ _Racking up 88 yards and two TDs._  
 __racked__ _v_ :two::hammer:  
-__racket<sup>1</sup>__ :four::hammer: _n_ _Extortion rackets._  
+__racket<sup>1</sup>__ _n_ :four::hammer: _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
 __racketeer__ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeering__  
@@ -6952,11 +6941,11 @@ __ramming__ _v_
 __ramming__ _v_ _Ramming your feet into the stirrups._  
 __ramp up__ :three::hammer: _Official decisions ramped up activity._  
 __ramp up__ _v_  
-__rampage__ :four::hammer:  
+__rampage<sup>1</sup>__ _v_ :two::hammer:  
+__rampage<sup>2</sup>__ _n_ :two::hammer:  
 __rampant__ :two::hammer:  
 __rampantly__  
-__rampart__ _Ancient stone ramparts._  
-__ramparts__ :two::hammer:  
+__rampart__ :three::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ :two::hammer:  
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :two: One that owns or manages a ranch.  
@@ -7002,7 +6991,7 @@ __rattling<sup>1</sup>__ _n_
 __rattling<sup>2</sup>__ _v_  
 __raucous__ _adj_ :eight: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
-__raunchy__ :four::hammer: _A raunchy comedy._  
+__raunchy__ _adj_ _informal_ :four::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :three::hammer:  
 __ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :three: __1__ _Informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _Informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
@@ -7154,14 +7143,10 @@ __repercussion__ _n_ :dart:
 __repertoire__  
 __reportedly__ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
-__reprieve<sup>1</sup>__ :four: _n_ A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
-__reprieve<sup>2</sup>__ _v_ Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
-__reprieve__  
-__reprieve__  
-__reprieve__  
+__reprieve<sup>1</sup>__ _n_ :six: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
+__reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisal__ _n_ :five::hammer: (reprisals) _A ban on federal reprisals._  
-__reps__ _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
-__reps__ _n_  
+__reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __rescinded__ _v_   
@@ -7298,8 +7283,7 @@ __robe__ _n_ _The judge's robe._
 __robin-breasted__  
 __rock the boat__  
 __rock the boat__  
-__rock__ _v_ _A teen is rocket when her perfect brother starts dating her best friend._  
-__rock__ _v_ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
+__rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rods__ _A few rods away._  
 __roe__ _A roe deer._  
 __roebuck__  
@@ -7395,7 +7379,7 @@ __rude__
 __rue__ _v_ :three::hammer::pencil2: (rues) _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rued__ _v_  
 __rueful__ _He gave a rueful smile._  
-__ruefully__ :four::hammer:  
+__ruefully__ _adv_ :four::hammer:  
 __ruffled__ (ruffling) :two::hammer: _v_  
 __ruffles__  
 __rug > sweep it under the rug__  
@@ -7404,17 +7388,11 @@ __rugged__ _He was red carded for a rugged foul._
 __rule of law__ :two::hammer:  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ :two: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
-__rumble<sup>2</sup>__ _v_ :five: (rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._  
-__rumbled__ _v_ _Thunder rumbled._  
-__rumbling__  
-__rumbling__ _v_  
-__rumblings__ :twi::hammer: _Rumblings about the trade._  
+__rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._  
+__rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ :two::hammer:  
-__rummaged__ _v_  
-__rummaging__  
-__rummaging__ _v_  
+__rummage__ _v_ :five::hammer: (rummaged, rummaging)  
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
 __rump__ :two::hammer:  
@@ -7834,12 +7812,10 @@ __shore up__ _v_ :six: (shoring up) Support by placing against something solid o
 __shoring up__ _v_  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short-charge__  
-__short-handed__ :four::hammer: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
+__short-handed__ _adj_ :four::hammer: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__  
 __short__ _He typically wears shorts to work._  
-__shortchange__ _v_  
-__shortchange__ _v_  
-__shortchanged__ _I think people will be shortchanged._  
+__shortchanged__ _v_ :three::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
@@ -7871,13 +7847,13 @@ __showhouse__
 __showrunner__  
 __showstopping__ _A showstopping performance._  
 __showtime__  
-__shrapnel__ :four: _n_ __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ :pencil2: _Informal_ Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
+__shrapnel__ _n_ :four: __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ :pencil2: _Informal_ Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
 __shred__ _n_ _I sat in their place, headed to the front lines of a war without a shred of experience._  
-__shrew__ _n_  __1__ Any of various small, chiefly insectivorous mammals of the family Soricidae, resembling a mouse but having a long pointed snout and small eyes and ears. Also called shrewmouse. :es: musaraña __2__ _pejorative_ A woman regarded as an ill-tempered scold or nag. _Syn_ harridan, harpy, scold, termagant, virago  
+__shrew__ _n_ __1__ Any of various small, chiefly insectivorous mammals of the family Soricidae, resembling a mouse but having a long pointed snout and small eyes and ears. Also called shrewmouse. :es: musaraña __2__ _pejorative_ A woman regarded as an ill-tempered scold or nag. _Syn_ harridan, harpy, scold, termagant, virago  
 __shriek__ (shrieked) :two::hammer: _v_  
 __shrieking__  
 __shrieks__  
-__shrift__ :four::hammer:  
+__shrift__ _n_ :four::hammer:  
 __shrill__ _v_ :six::hammer: _Increasing shrill chorus._ _Crickets shrilled._  
 __shrilly__  
 __shrimp__  
@@ -8037,12 +8013,7 @@ __slatted__ _v_ :two::hammer: _Slatted sunlight._
 __slatternly__  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __sleaziest__  
-__sleazy__  
-__sleazy__  
-__sleazy__  
-__sleazy__ :two::hammer:  
-__sleazy__ :two::hammer:  
-__sleazy__ _adj_  
+__sleazy__ _adj_ :eight::hammer:  
 __sleep deprivation__  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleepwalking__  
@@ -8308,7 +8279,7 @@ __speak out__
 __speakeasy__ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
-__spearhead__ (spearheaded, spearheading) :four: _v_ Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead__ _v_ :four: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specialty__ _Specialty apparel sellers._  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
@@ -8427,19 +8398,13 @@ __sputtering__
 __sputtering__ _adj_  
 __sputters__  
 __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
-__squabbling__  
-__squabbling__ _v_  
-__squabbling__ _v_ :two::hammer: _A squabbling family._  
+__squabbling__ _v_ :four::hammer: _A squabbling family._  
 __squack__  
-__squad car__ :four::hammer: _The squad car camera was not activated._  
+__squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :two::hammer:  
-__squalid__  
-__squalid__:pencil2: _Squalid home._  
+__squalid__:pencil2::two::hammer: _Squalid home._  
 __squall__ :two::hammer:  
-__squalor__  
-__squalor__  
-__squalor__  
-__squalor__ _n_ :two: The condition or quality of being squalid; disgusting dirt and filth.  
+__squalor__ _n_ :five: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander__  
 __square deal__  
 __square dsncing__  
@@ -8481,10 +8446,10 @@ __stairwell__ :three::hammer:
 __stakeholder__  
 __stakeouts__ :two::hammer:  
 __stale antiperspirant__  
-__stale__ :four::hammer: _The stale remains of a cup of coffee._  
+__stale__ _adj_ :four::hammer: _The stale remains of a cup of coffee._  
 __staler__ _The air in the place grew staler._  
-__stalk__ _n_  
-__stalk__ _v_  
+__stalk<sup>1</sup>__ _n_  
+__stalk<sup>2</sup>__ _v_  
 __stallion__  
 __stalward__  
 __stalwart__ _n_ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
@@ -8522,8 +8487,7 @@ __starfish__
 __stargazing__  
 __stark__ _adj_ :three::hammer:  
 __starlings__ _n_  
-__startling__  
-__startling__  
+__startling__ :two::hammer:  
 __stat sheet__ :two::hammer: _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
 __stately__ _adj_ :three: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
@@ -8663,7 +8627,8 @@ __straining__ _v_ :two::hammer:
 __strains__ _n_ :two::hammer:  
 __strait__  
 __straits__  
-__strand__ (stranded) :four: _adj_ Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
+__strand__ _n_ :two::hammer:  
+__stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ _v_ :three::hammer: (strangled, strangling) :es: estrangular  
 __stranglehold__ :three::hammer:  
 __strap overalls__  
@@ -8724,7 +8689,7 @@ __stump__  _v_ :nine::dart: There are three ways to stump: you can ask someone a
 __stun gun__ _n_  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
-__stunning__ :four::hammer:  
+__stunning__ _adj_ :four::hammer:  
 __stunt<sup>1</sup>__ _n_ :four::hammer: (stunts) _Singers emphasize stunts over music._  
 __stunt<sup>2</sup>__ _v_ :two::hammer: (stunted) _Movement stunted during the dictatorship._  
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
@@ -8740,8 +8705,8 @@ __subdue__ _v_ :four::hammer: (subdued)
 __subjugate__ _v_  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
-__subpoena__ :four::hammer:  
-__subpoenaed__ _v_  
+__subpoena<sup>1</sup>__ _n_ :four::hammer:  
+__subpoena<sup>2</sup>__ _v_ (subpoenaed)  
 __subsequent__ :two::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ :dart::two::hammer:  
 __subside__ _v_ :dart::four::hammer: (subsided) _My headache has subsided._  
@@ -9107,8 +9072,7 @@ __thereof__
 __thermos__ _A thermos._  
 __thespian__ :two::hammer:  
 __thick and thin__ _Supporters ready to back them through thick and thin._  
-__thicket__  
-__thicket__ :four::hammer: (thickets)  
+__thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
 __think tank__ _n_ :five::hammer:  
 __this and that__  
@@ -9126,13 +9090,13 @@ __thrashing__ _v_
 __thrifty__  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
-__throes__ :four::hammer:  
+__throes__ _n_ :four::hammer:  
 __throng__ _n_ :five::hammer: _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ _It's a flagship through and through._  
 __through and through__ _She was a class act through and through._  
-__through__ :four: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._  
+__through__ _adj, adv, prep_ :four: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._  
 __through__ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
