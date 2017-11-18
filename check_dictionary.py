@@ -4,7 +4,6 @@ import random # WIP
 
 # From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
 #
-#
 HEADER = '\033[95m'
 OKBLUE = '\033[94m'
 OKGREEN = '\033[92m'
@@ -78,7 +77,6 @@ def check_dictionary():
     Reads the contents of dictionary.md searching for :shit:,
     or :nine: without part of the speech defined
     """
-    global number_of_lines_missing_part_of_speech
     filename = 'dictionary.md'
     input_file = open(filename, 'r')
     number_of_lines_with_wrong_part_of_speech = 0
@@ -96,7 +94,7 @@ def check_dictionary():
             part_of_speech = tokens[idx]
             if part_of_speech.find('_') == -1:
                 number_of_lines_with_wrong_part_of_speech += 1
-                print FAIL + headword + ' ' + part_of_speech + ENDC \
+                print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
                     + ' <<< Wrong part of speech #' \
                     + str(number_of_lines_with_wrong_part_of_speech)
 
