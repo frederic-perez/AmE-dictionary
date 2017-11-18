@@ -483,8 +483,7 @@ __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, w
 __albatross__  
 __albatross__ _n_ :pencil2:  
 __alder__ :pencil2:  
-__alderman__  
-__alderman__ _n_  
+__alderman__ _n_ :two::hammer:  
 __alecky__ _Smart-alecky wit._  
 __algae__ _n_  
 __alienate__ _v_ :five::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
@@ -1295,10 +1294,8 @@ __breakaway__ :two::hammer:
 __breakdown__ _Population breakdown._  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakneck__ _They are on a breakneck pace._  
-__breakout<sup>1</sup>__ _n_ :three: An escape from jail.  
-__breakout<sup>2</sup>__ _adj_ :five: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._  
-__breakout__  
-__breakout__  
+__breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
+__breakout<sup>2</sup>__ _adj_ :six: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._  
 __breakup__ _n_  
 __breakwater__ _n_  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
@@ -2487,16 +2484,12 @@ __defrock__ _v_
 __defrost__  
 __defry__  
 __deft__ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
-__defuse__ _v_  
-__defuse__ _v_ :two::hammer:  
-__defuses__ _v_  
-__defusing__ _v_  
+__defuse__ _v_ :five::hammer: (defuses, defusing)  
 __deigned__ _v_  
 __dejected__  
 __deking__  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
-__delectable__  
-__delectable__  
+__delectable__ :two::hammer:  
 __deli__  
 __delisted__ _v_  
 __deliver__ _v_ _Republicans apparently cannot deliver._  
@@ -2568,15 +2561,11 @@ __deviled eggs__ :two::hammer:
 __deviltry__  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
-__dewlaps__  
-__dewlaps__ _n_  
+__dewlaps__ _n_ :two::hammer:  
 __dialysis__  
 __diaspora__  
 __dibs__ _n_ :two::hammer:  
-__dicey__  
-__dicey__  
-__dicey__  
-__dicey__ :three::hammer: _That's dicey._ _The women's situation is a bit more dicey._  
+__dicey__ :six::hammer: _That's dicey._ _The women's situation is a bit more dicey._  
 __dichotomy__  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __diction__ :two::hammer: _The priest diction._  
@@ -2740,15 +2729,10 @@ __doglegs__ _v_
 __dogsled__  
 __doilies__  
 __doldrums__  
-__dole out__ _v_  
-__dole out__ _v_ :seven: To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
-__dole out__ _v_ :two::hammer:  
-__dole out__ _v_ _He's still finding his way in terms of doling out minutes._  
-__doled out__ _v_  
+__dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._ _He's still finding his way in terms of doling out minutes._  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
-__dolt__  
-__dolt__  
+__dolt__ :two::hammer:  
 __domicile__  
 __don't count your chickens before they're hatched__ Don't make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
@@ -2791,8 +2775,7 @@ __dourly__
 __douse__ _v_  
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
 __dove__ _v_  
-__dovetails__  
-__dovetails__ _v_  
+__dovetails__ _v_ :two::hammer:  
 __down payment__ :two::hammer: _A down payment for his role as a recruitment of muscle for the operation._  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
@@ -3302,8 +3285,7 @@ __festering__ _n_ :two::hammer:
 __festooned__ _v_ :eight::hammer: _His podium was festooned with a sign._  
 __feted__ _v_ :four::hammer:  
 __fettered__ _v_  
-__feud__  
-__feud__ :two::hammer:  
+__feud__ :three::hammer:  
 __feuded__  
 __fiat__ _Military fiat._  
 __fiberglass__  
@@ -3316,8 +3298,7 @@ __fiduciary<sup>2</sup>__ _n_ A trustee.
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__  
 __field__ _v_ (fielded, fielding) __1__ :two: _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ :two: Send out (a team or individual) to play in a game. __3__ :three: Answer adequately or successfully. _To field questions._ _Fielding emails._  
-__fierce__  
-__fierce__  
+__fierce__ :two::hammer:  
 __fiery__  
 __fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
 __fifer__  
@@ -3497,9 +3478,7 @@ __flunkie__ :two::hammer: _You"re just another flunkie for the state._
 __flunkies__  
 __flunky__  
 __flurry > in a flurry__  
-__flurry__  
-__flurry__ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._  
-__flurry__ __1__ :four: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
+__flurry__ __1__ :six: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
 __fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
@@ -4994,15 +4973,9 @@ __lecher__
 __lectern__  
 __ledge__  
 __ledge__ _Adam turned and sat on the ledge._  
-__ledger__  
-__ledger__  
-__ledger__  
-__ledger__ _A heavy account ledger._  
+__ledger__ :four::hammer: _A heavy account ledger._  
 __lee__ _In the lee of the wagon._  
-__leech__ (physician?)  
-__leech__ _n_  
-__leech__ _n_  
-__leech__ _n_  
+__leech__ _n_ :four::hammer:  
 __leeks__ _n_  
 __leer up__  
 __leer<sup>1</sup>__ _v_ (leering) :four: :pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
@@ -5314,14 +5287,9 @@ __marooned__ _He felt marooned by the silence._
 __marquee events__  
 __marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :five: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._  
 __marred__ _v_  
-__marsh__  
-__marsh__ _n_ :two::hammer:  
+__marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
-__marshal<sup>2</sup>__ _v_ :two::hammer: _The community will marshal its resources to help undocumented immigrants._  
-__marshal__ _v_  
-__marshal__ _v_  
-__marshalling__ _v_  
-__marshals__ _v_  
+__marshal<sup>2</sup>__ _v_ :six::hammer: (marshals, marshalling) _The community will marshal its resources to help undocumented immigrants._  
 __marshland__ :two::hammer:  
 __marshmallow__ _n_  
 __marshy__  
@@ -5646,8 +5614,7 @@ __mush-mouth__ _The kid with the mush-mouth accent._
 __mush__ _n_ :four::hammer: _A mush brain._  
 __mushers__  
 __mushroom__ _v_ _Traffic mushroomed in Feb._  
-__mushy__  
-__mushy__ _Mushy age._  
+__mushy__ :two::hammer: _Mushy age._  
 __musing__ _n_ (musings) Contemplation; reflection.  
 __musket__  
 __muskmelon__ _n_ :two::hammer:  
@@ -6333,8 +6300,7 @@ __pinch__ (:es: pellizco?)
 __pinched shut__  
 __pinched__ _v_  
 __pincushion__  
-__pined__ _It was only in movies that people pined for the dead._  
-__pined__ _v_  
+__pined__ _v_ :two::hammer: _It was only in movies that people pined for the dead._  
 __ping__ _v_ _Pinging with heat._  
 __pinion__ _v_  
 __pinioned__ _v_  
@@ -6889,11 +6855,10 @@ __ranchers__ _n_ :two::hammer:
 __rancor__ _n_  
 __range__ _Range war._  
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
-__rank__ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
-__rank__ _v_  
+__rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
+__rank<sup>2</sup>__ _v_  
 __rankled__ _v_  
-__ransack__ _v_  
-__ransack__ _v_ :two::hammer: (ransacked)  
+__ransack__ _v_ :three::hammer: (ransacked)  
 __ransacked__  
 __ransomware__  
 __rant__ _v_  
@@ -6904,8 +6869,7 @@ __rapprochement__ :three::hammer:
 __rapt__ :two::hammer: _Robert C. Cone had a rapt audience._  
 __rapt__ _adj (?)_  
 __rapt__ _v_  
-__rapture__  
-__rapture__ _The film _Carol_ left critics in rapture._  
+__rapture__ :two::hammer: _The film _Carol_ left critics in rapture._  
 __rapturous__  
 __rare news conference__  
 __rare__  
@@ -7116,21 +7080,17 @@ __retinue__ _n_
 __retinues__ _n_  
 __retiree__ _n_ :two::hammer: :es: jubilado  
 __retirement__  
-__retooled__ _v_  
-__retooled__ _v_  
+__retooled__ _v_ :two::hammer:  
 __retracement__  
 __retrain__ _v_  
-__retread__  
-__retreat__ :two::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
+__retreat__ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
 __retrenching__  
 __retrenchment__ :two::hammer: _An era of American retrenchment._  
 __returnee__  
 __reunion__ An instance of two or more people coming together again after a period of separation.  
 __reunite__ _v_  
 __revel__ _v_  
-__reveler__  
-__reveler__ _Mardi Gras revelers._  
-__reveler__ _n_ :seven::hammer: _St. Patrick's day revelers._  
+__reveler__ _n_ :nine::hammer: _St. Patrick's day revelers._ _Mardi Gras revelers._  
 __reveling__ :two::hammer:  
 __revelled__  
 __revelling__  
@@ -8252,26 +8212,18 @@ __spite__
 __spiteful__ :two::hammer:  
 __spittle__ _n_ :four::hammer:  
 __spittoon__  
-__splay__  
-__splayed__ _v_  
-__splayed__ _v_  
-__splayed__ _v_  
-__splaying__ :two::hammer:  
+__splay__ _v_ :six::hammer: (splahed, splaying)  
 __spliced__ _v_  
-__splint__ _n_  
-__splint__ _v_  
+__splint<sup>1</sup>__ _n_  
+__splint<sup>2</sup>__ _v_  
 __split__ _n_  
 __splotched__ _v_  
 __splotches__ _n_  
-__splurge__ _v_ :two::hammer:  
-__splurged__ _v_  
-__splurged__ _v_  
-__splurging__ :two::hammer:  
+__splurge__ _v_ :six::hammer: (splurged, splurging)  
 __splutter__ (splutters) :two::hammer:  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
-__spoil__ _v_ :two::hammer: _She loved spoining her grandkids._  
+__spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
 __spoilage__ :dart:  
-__spoiled__  
 __spoilers__ (airplane) :camera:  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __sponge bulllets__  
@@ -9701,8 +9653,7 @@ __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._
 __washtub__  
 __washwoman__  
 __wastebasket__  
-__wastrel__  
-__wastrel__  
+__wastrel__ :two::hammer:  
 __watch caps__  
 __watch your six__ _Idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
@@ -9758,9 +9709,8 @@ __well-nigh__ _adverb_ Almost. _A task that is well-nigh impossible._
 __well-rounded__  
 __wellhead__  
 __welling up__  
-__welling__ _Rob felt a welling of affection._  
-__welling__ _n_  
-__welling__ _v_ _His breath welling into my face._  
+__welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
+__welling<sup>2</sup>__ _v_ _His breath welling into my face._  
 __wellspring__  
 __welsh__ _v_  
 __welsher__ _n_  
@@ -9779,11 +9729,7 @@ __whackadoodle__
 __whammy__ :two::hammer: _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
-__wharf__  
-__wharf__  
-__wharf__ _n_  
-__wharves__  
-__wharves__ _n_  
+__wharf__ _n_ :five::hammer: (wharves)  
 __what's the haps?__  
 __whee!__  
 __wheedle__ _v_ To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
