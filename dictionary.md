@@ -3417,7 +3417,7 @@ __flash__
 __flashback__  
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _Flat-chested bodies._  
-__flat-footed__ :four::hammer: _I have never been caught flat-footed by any situation._  
+__flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
 __flat__ _Kaufusi's jump to BYU football proves critics flat wrong._  
 __flatbread__ :two::hammer: _Flatbread sandwiches._  
 __flats__ _n_  
@@ -3894,7 +3894,7 @@ __gramps__
 __grand jury__  
 __grand-auto__ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
-__grandstand__ :four::hammer: (grandstands) _He found rats in his grandstand._  
+__grandstand__ _n_ :four::hammer: (grandstands) _He found rats in his grandstand._  
 __granola__ _n_  
 __graphic sexuality__ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
@@ -3958,7 +3958,7 @@ __gripe<sup>2</sup>__ _v_
 __griping__ _v_  
 __gripped__ _v_ _That 1995 murder trial gripped USA._  
 __gripping__ :two::hammer: _A gripping contest._  
-__grisly__ :four::hammer: _A grisly synagogue assault._  
+__grisly__ _adj_ :four::hammer: _A grisly synagogue assault._  
 __grist__ :two::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ :two:  
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
@@ -4162,10 +4162,9 @@ __harness__ _v_ _Harnessing big data._
 __harp__ _v_ _She told her she was always harping on him._  
 __harping__ _v_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago_  
-__harried__ :four::hammer: _A harried mom._ _Harried souls._  
 __harrow__ _n_  
 __harrowing__ _A harrowing oddyssey._  
-__harry__ _v_ :three::hammer: _The weather will continue to harry firefighters._  
+__harry__ _v_ :seven::hammer: (harried) _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
 __hash out__ _v_  
@@ -4220,7 +4219,7 @@ __heady__ :two::hammer:
 __health condition__  
 __hearing__ _law_  
 __hearkened__  
-__hearsay__ :four::hammer:  
+__hearsay__ _n_ :four::hammer:  
 __hearse__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __hearten__ _v_  
@@ -4229,7 +4228,7 @@ __heartfelt__
 __hearth__ _n_ :four::hammer:  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ :two: _n_ The central or most important part of a country, area, or field of activity. _The nation's heartland._  
-__heartthrob__ :four::hammer::pencil2:  
+__heartthrob__ _n_ :four::hammer::pencil2: (heart-throb)  
 __heartworm__  
 __heat > to catch a lot of heat__  
 __heatedly__ _Clashed heatedly._  
@@ -4258,12 +4257,12 @@ __heft__ _n_ :two::hammer:
 __hefted up__  
 __hefty__  
 __heinous__ :three::hammer:  
-__heirlooms__ :four::hammer: _Family heirlooms._  
+__heirloom__ _n_ :four::hammer: _Family heirlooms._  
 __heist capers__  
 __heist__ :two::hammer: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
-__hellbent__ :four::hammer:  
+__hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __helluva__ _A helluva year._  
 __helm__ _n_  
@@ -4273,7 +4272,7 @@ __hemlock__
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemp__ _n_ :four::hammer: _Hemp plant._  
-__henchman__ :four::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :four::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __herald__ _v_ :three::hammer: (heralded)  
 __herdsman__ _n_  
@@ -4379,7 +4378,7 @@ __homeowner__
 __homesick__  
 __homespun__ :two::hammer:  
 __homestand__ :four::hammer:  
-__homestead__ :two::hammer:  
+__homestead__ _n_ :two::hammer:  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
 __honcho__ _n_ :three::hammer: (honchos)  
@@ -4647,7 +4646,7 @@ __into the fold__ _It brought many viewers into the fold._
 __intramural__  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
-__invective__ :four::hammer:  
+__invective__ _n_ :four::hammer:  
 __inveighed__  
 __inveterate__  
 __irate__ _v_  
