@@ -15,9 +15,23 @@ BOLD = '\033[1m'
 UNDERLINE = '\033[4m'
 
 number_of_composite_headwords = 0
+number_of_lines_with_invalid_ending = 0
 number_of_lines_with_tag_shit = 0
 number_of_lines_with_too_many_double_spaces = 0
 number_of_lines_with_triple_spaces = 0
+
+def valid_line_ending(line):
+    clean_line = line.replace('\n','')
+    valid = clean_line.endswith('  ')
+    return valid
+
+def treat_invalid_line_ending(line):
+    global number_of_lines_with_invalid_ending
+    number_of_lines_with_invalid_ending += 1
+    tokens = line.split()
+    headword = tokens[0]
+    print headword + ' ' + FAIL + ' <<< Incorrect line ending #'\
+        + str(number_of_lines_with_invalid_ending) + ENDC
 
 def treat_too_many_double_spaces(line):
     global number_of_lines_with_too_many_double_spaces
@@ -82,6 +96,8 @@ def check_dictionary():
     number_of_lines_with_wrong_part_of_speech = 0
 
     for line in input_file:
+        if not valid_line_ending(line):
+            treat_invalid_line_ending(line)
         if line.count('  ') > 2:
             treat_too_many_double_spaces(line)
         if line.count('   ') > 0:
@@ -99,12 +115,14 @@ def check_dictionary():
                     + str(number_of_lines_with_wrong_part_of_speech)
 
     input_file.close()
+    global number_of_lines_with_invalid_ending
     global number_of_lines_with_tag_shit
-    succeeded = bool(number_of_lines_with_tag_shit + number_of_lines_with_wrong_part_of_speech == 0)
+    succeeded = bool(number_of_lines_with_invalid_ending + number_of_lines_with_tag_shit + number_of_lines_with_wrong_part_of_speech == 0)
     if succeeded:
         print OKGREEN + 'No problems were found in file \'' + filename + '\'' + ENDC
     else:
         print '\nSummary of problems found:'
+        print '  Lines with invalid ending = ' + str(number_of_lines_with_invalid_ending)
         print '  Lines with triple spaces = ' + str(number_of_lines_with_triple_spaces)
         print '  Lines with too many double spaces = ' + str(number_of_lines_with_too_many_double_spaces)
         print '  Lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
