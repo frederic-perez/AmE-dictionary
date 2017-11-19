@@ -41,3 +41,17 @@ __reign__ _n_
 __relinquish__ _v_  
 __tribulations__  
 __watchword__  
+
+__law and order__  
+__Monday__ :mega: /'möndi, -deI/  
+__Tuesday__ :mega: /'tuzdi, -deI/  
+__Wednesday__ :mega: /'wEnzdi, -deI/  
+__Thursday__ :mega: /'θøzdi, -deI/  
+__Friday__ :mega: /'fraIdi, -deI/  
+__Saturday__ :mega: /'sæÔødi, -deI/  
+__Sunday__ :mega: /'söndi, -deI/  
+__onboarding__ (?)  
+__upsale__ _n_ (?)  
+__upsell__ _v_ (?)  
+__Gatling gun__ _n_  
+__mandatory__ _adj_ :mega:  
