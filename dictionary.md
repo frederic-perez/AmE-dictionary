@@ -931,9 +931,7 @@ __belches__ _v_ _Steam belches from the nuclear power plant._
 __belching__  
 __beleaguer__ _v_  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
-__belie__ _v_ :four: (belies) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
-__belied__  
-__belied__ _v_  
+__belie__ _v_ :six: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ (belittling) _v_ :four: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
 __bellboy__ _n_  
@@ -977,21 +975,14 @@ __berth__ :three::hammer: _Sho Sakai secured an Olympic berth._
 __beseech__  
 __beseechingly__  
 __beseechment__  
-__beset__  
-__beset__  
-__beset__  
-__beset__ _v_  
-__beset__ _v_  
+__beset__ _v_ :five::hammer:  
 __besmeared__ _v_  
-__besmirch__ _v_ :three: (besmirched) To stain; sully: _a reputation that was besmirched by slander._  
-__besmirching__ _v_  
-__besotted__  
-__besotted__  
+__besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
+__besotted__ :two::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :six::hammer: Custom-made. _Bespoke clothing._  
 __bespoke<sup>2</sup>__ _v_ Past tense and a past participle of bespeak.  
-__best__ _v_  
-__bested__ _v_  
+__best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bethren__ _n_  
 __betray__ _v_ :two::hammer:  
@@ -1133,11 +1124,8 @@ __blue-chip__ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones ind
 __blue-collar men__  
 __bluegill__  
 __bluegrass__  
-__blueprint__ :three::hammer:  
-__blueprints__  
-__blueprints__  
-__bluff__  
-__bluff__ _n_  
+__blueprint__ :five::hammer: (blueprints)  
+__bluff__ _n_ :two::hammer:  
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
 __blunt<sup>1</sup>__ _adj_ :three: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears.  
@@ -1251,8 +1239,7 @@ __bouncy__
 __bountiful__  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
-__bow__ (gift bow)  
-__bow__ _n_ :camera::hammer: _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._  
+__bow__ _n_ :two::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._  
 __bowie knife__ :two::hammer:  
 __bowling alley__  
 __box score__  
@@ -1260,7 +1247,7 @@ __box__ _soccer_ :es: portería?
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boycott__  
 __bozos__ _n_  
-__bpgs__ _n_  
+__bog__ _n_  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _I want to break into that world-class bracket._  
 __bracketology__ _Daily bracketology updates._  
@@ -2069,15 +2056,12 @@ __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptibl
 __contend__ _v_ :three::hammer: (contended)  
 __content__  
 __contention__ _n_ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
-__contentious__  
-__contentious__ _adj_ :five: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
+__contentious__ _adj_ :six: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contextualize__ _v_ :dart:  
 __contiguous > the contiguous U.S.__  
 __continence__  
-__contingencies__  
 __contingency plan__ :two::hammer:  
-__contingency__  
-__contingency__  
+__contingency__ :three::hammer: (contingencies)  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_  
@@ -2405,19 +2389,14 @@ __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._
 __dashing__ _I think I look rather dashing._  
 __date__ :pencil2: _It would be like eating a single date._  
 __dateline__  
-__daubed__  
-__daubed__ _A swastika was daubed on a science center window._  
-__daunting__  
-__daunting__ :three: Seeming difficult to deal with in prospect; intimidating.  
+__daubed__ :two::hammer:_A swastika was daubed on a science center window._  
+__daunting__ :four: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
 __day job__  
 __daybeds__ _n_  
 __dayglow__  
-__dazzle__  
-__dazzle__ _v_  
-__dazzling__  
-__dazzling__ _adj_ :seven: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
-__dazzling__ _v_  
+__dazzle__ _v_ :two::hammer:  
+__dazzling__ _adj_ :nine: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
 __dead on__  
@@ -2472,9 +2451,7 @@ __deferment__ :two::hammer:
 __deferral__  
 __deferred__ _v_  
 __defiance__  
-__defile__  
-__defile__ _n_  
-__defile__ _n_  
+__defile__ _n_ :three::hammer:  
 __deflated__ _v_  
 __deflation__ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
 __deflect__ _v_  
@@ -5264,8 +5241,8 @@ __manifest__ _A manifest of olive oil._
 __mannered__  
 __manor__ _A medieval manor house._  
 __mantel__ _n_ :four::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
-__mantle__ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
-__mantle__ _v_  
+__mantle<sup>1</sup>__ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
+__mantle<sup>2</sup>__ _v_  
 __mar__ _v_ :seven::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
 __marauder__ :two::hammer:  
@@ -5279,9 +5256,7 @@ __markdown__
 __markdowns__  
 __marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
 __marksman__ _n_  
-__markup__ :two::hammer: _A huge markup._ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._  
-__markup__ _n_  
-__markups__ :two::hammer: _Factory-direct with no middle-man markups._  
+__markup__ _n_ :five::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
 __marmalade__  
 __marooned__ _He felt marooned by the silence._  
 __marquee events__  
@@ -6145,10 +6120,8 @@ __peal<sup>2</sup>__ _v_ _Pealing bells._
 __peal__ _v_ _The bells of Notre Dame pealed._  
 __pear martinis__  
 __pearl onions__  
-__peat__  
-__peat__ _Battling the blazes in peat swamp forests._  
-__pecan__  
-__pecan__ _Pecan pie._  
+__peat__ :two::hammer: _Battling the blazes in peat swamp forests._  
+__pecan__ :two::hammer: _Pecan pie._  
 __peccadillo__ _n_ _(pl. peccadilloes or peccadillos)_ A small sin or fault.  
 __peccant__  
 __peck away__ _v_  
@@ -6159,8 +6132,7 @@ __peddle__ _v_
 __peddling__  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
-__peep__ _n_  
-__peep__ _n_  
+__peep__ _n_ :two::hammer:  
 __peer__ _Peering into their crystal balls._  
 __peered__ _v_  
 __peerless__ 
@@ -6168,15 +6140,10 @@ __peeved__ _v_
 __peevishly__  
 __pegged__ _v_  
 __pegged__ _v_  
-__pelt__ _n_  
-__pelt__ _v_ :two::hammer: _Inmates pelting him with objects from above._  
-__pelted__ _v_  
-__pelts__ _n_  
-__pelts__ _n_  
-__pelts__ _n_ :two::hammer:  
+__pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
+__pelt<sup>2</sup>__ _v_ :three::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
 __pen name__  
-__pen__ _v_  
-__pen__ _v_ _The team pens hundreds of scientific papers._  
+__pen__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penitents__ _n_  
@@ -6188,8 +6155,7 @@ __penned up__
 __penny-pinch__ _Penny-pinching conservatives._  
 __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens with rabbits._  
 __pensionary__ :es: jubilado  
-__pensive__  
-__pensive__ _v_  
+__pensive__ _v_ :two::hammer:  
 __pensively__  
 __pent-up__  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
@@ -6916,12 +6882,11 @@ __readout__ _n_
 __reaffirming__  
 __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
 __realtor__ _n_ :two::hammer:  
-__ream__ _v_ :four::hammer: (reamed)  
-__reams__ _n_ :pencil2::two::hammer: _He watched reams on tape._  
+__ream<sup>1</sup>__ _v_ :four::hammer: (reamed)  
+__ream<sup>2</sup>__ _n_ :pencil2::two::hammer: (reams) _He watched reams on tape._  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
-__rebate__ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
-__rebate__ _n_ :five: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._  
+__rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__ _v_ :seven: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
@@ -7185,27 +7150,19 @@ __roe__ _A roe deer._
 __roebuck__  
 __roeskin__ _A roeskin belt._  
 __rogue__ :two::hammer: _Rogue behavior._  
-__roil__ _v_ :eight: (roiled, roiling) US term for rile (make someone annoyed or irritated). _v_ _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._  
-__roiled__ _Roiled water._  
-__roiled__ _v_  
-__roiled__ _v_  
-__roiled__ _v_  
-__roiling__ _v_  
+__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _v_ _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ _Roiled water._  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
-__roll out__ :two::hammer: _The retailer will roll out deals two days early._  
-__roll out__ _v_  
+__roll out__ _v_ :three::hammer: _The retailer will roll out deals two days early._  
 __roll over__ :two: _Informal_ To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
-__roll__ _A deli where I buy a morning paper, roll and coffee._  
-__roll__ _v_  
-__roll__ _v_ :three::hammer: _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
+__roll<sup>1</sup>__ _n_ _A deli where I buy a morning paper, roll and coffee._  
+__roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
 __rollicking__  
 __rolling back__ _v_  
 __rolling caisson__  
 __rolling hills__ :two::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
-__rolling__  
 __rollout__ _n_ :three::hammer: (rollouts)  
 __rollovers__  
 __romp__ _v_ :six::hammer:  
@@ -7869,9 +7826,7 @@ __skullcap__
 __skunworks__  
 __sky high__  
 __skylight__  
-__skyrocket__ _v_  
-__skyrocket__ _v_  
-__skyrocket__ _v_  
+__skyrocket__ _v_ :three::hammer:  
 __slabs__ _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._
@@ -8197,10 +8152,9 @@ __spill the beans__
 __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ :two::hammer:  
 __spin bike__ _n_ :camera:  
-__spin__ _n_ _But don't believe the spin._  
-__spin__ _v_ _She spins the truth for whoever is paying her._  
-__spindle__  
-__spindle__ _n_  
+__spin<sup>1</sup>__ _n_ _But don't believe the spin._  
+__spin<sup>2</sup>__ _v_ _She spins the truth for whoever is paying her._  
+__spindle__ _n_ :two::hammer:  
 __spindly__  
 __spinet piano__ :camera:  
 __spinouts__  
@@ -9863,8 +9817,7 @@ __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one 
 __wishlist__ _A $100 million wish list._  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
-__wispy__  
-__wispy__ _adj_ :three::hammer: _Wispy hair._  
+__wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__  
 __wistful__ :two::hammer:  
 __wistfulness__  
