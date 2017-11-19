@@ -1700,10 +1700,8 @@ __chandler__
 __chant__ _v_ (vs sing?)  
 __chanticleer__ _n_  
 __chanting__  
-__chaparral__  
-__chaparral__ _n_  
-__chaperones__  
-__chaperones__ _n_  
+__chaparral__ _n_ :two::hammer:  
+__chaperones__ _n_ :two::hammer:  
 __chaplain__  
 __chapter__ _To the east was the chapter house._  
 __charade__  
@@ -1989,8 +1987,7 @@ __con artist__ :three::hammer: _A pair of con artists target a noblewoman._ _Fou
 __con man__  
 __con<sup>1</sup>__ _n_ :two::hammer: _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :two::hammer:  
-__con__ Short for convention. _Comic con._  
-__con__ _Con game with many surprises._  
+__con__ :two: Short for convention. _Comic con._ _Con game with many surprises._  
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
 __conceit__ _v_  
 __concerted__  
@@ -2117,10 +2114,8 @@ __corsages__
 __cosset__ _v_  
 __cosseted__  
 __costliest__ :two::hammer:  
-__cot__ _n_  
-__cot__ _n_ _Ryan chooses to bed down in a cot in his office every night the House is in session._  
-__coterie__  
-__coteries__ _n_  
+__cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
+__coterie__ _n_ :two::hammer: (coteries)  
 __cottage__  
 __cotton candy__  
 __cotton swabs__  
@@ -2561,29 +2556,21 @@ __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._
 __dimply__  
 __dimwits__ _n_ :two::hammer:  
 __dimwitted__  
-__din__ _Those voices are lost in the din._  
-__din__ _n_  
-__din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
+__din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
-__ding__ _v_  
-__dinged__ _v_ :two::hammer: _I am also getting tired of my property taxes being dinged._  
+__ding__ _v_ :three::hammer: (dinged) _I am also getting tired of my property taxes being dinged._  
 __dinghy__ _n_ :six: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (esp formerly): dingy or dingey.  
 __dinking__ _v_  
 __dinky__ :two::hammer: _A dinky little community._  
-__dip__ _v_ :astonished: _Unemployment dipped to 5%._  
-__dip__ _v_ _Sales dip during the summer months._  
-__dipping__ _v_ (ebbing?)  
+__dip__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
 __dips__ _n_  
 __dipsomania__  
-__dire__  
-__dire__ :four: _adj_ (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal  
-__dire__ _After showing some improvement, Howe's health again appeared dire last weekend._  
+__dire__ _adj_ :six: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
 __dirge__  
 __dirges__ _n_  
 __dirigiste__  
 __dirt bike__ :camera:  
-__dirt road__ _n_  
-__dirt roads__  
+__dirt road__ _n_ :two::hammer: (dirt roads)  
 __dirtbag__  
 __dirtdobbers__  
 __dirty boogie__  
@@ -3226,8 +3213,7 @@ __fencers__ _n_
 __fend off__ _v_ :three::hammer:  
 __fend__ _v_ (fending)  
 __fender bender__ :two::hammer: _Stranded by a fender bender._  
-__fennel__  
-__fennel__  
+__fennel__ :two::hammer:  
 __fenny__ _A fenny marsh._  
 __fenugreek__  
 __feral__ _adj_ :four::hammer: _Feral hogs._ _Feral cats._  
@@ -4620,8 +4606,7 @@ __jaywalker__ _n_
 __jaywalking__  
 __jazz up__ _v_  
 __jazzy__  
-__jeered__ _v_  
-__jeered__ _v_  
+__jeered__ _v_ :two::hammer:  
 __jeering__  
 __jeers__  
 __jejune__  
@@ -4841,14 +4826,10 @@ __lance__ _v_ :astonished:
 __lanced__ _v_  
 __lancet__ _n_  
 __lancing irons__  
-__landfill__ :two::hammer:  
-__landfill__ _n_  
+__landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
-__landslide victory__ :two::hammer: _Kasich scored a landslide victory in a swing state._  
-__landslide__ _A landslide election victory._  
-__landslide__ _A landslide victory._  
-__landslide__ _n_ :five::hammer: _I will win the game by a near landslide._  
+__landslide__ _n_ :nine::hammer: _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._  
 __lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::hammer:  
 __lantanas__ _n_  
@@ -5518,8 +5499,7 @@ __move the needle__
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __mover__ _n_  
 __mowed__ _v_  
-__moxie__  
-__moxie__  
+__moxie__ :two::hammer:  
 __muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
 __muck<sup>3</sup>__ _v_ :two: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
@@ -5776,8 +5756,7 @@ __offset<sup>1</sup>__ _v_ :two::hammer:
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __oft-shouting-sermon__  
 __oft__ :two::hammer: _The oft-hated SAT._  
-__oftentimes__  
-__oftentimes__  
+__oftentimes__ :two::hammer:  
 __ogle__ _v_ :two::hammer:  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
@@ -5790,8 +5769,7 @@ __old-timers__ _n_
 __olefin__ _n_  
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
-__omen__  
-__omen__ :two::hammer:  
+__omen__ :three::hammer:  
 __ominous__ _adj_ :six: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
@@ -6046,8 +6024,7 @@ __pastiche__
 __pastiche__  
 __pastime__  
 __pastimes__ _n_  
-__pasty__  
-__pasty__ _adj_  
+__pasty__ _adj_ :two::hammer:  
 __pat<sup>1</sup>__ _v_ Hit lightly. _Pat him on the shoulder._  
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
@@ -6105,8 +6082,7 @@ __peered__ _v_
 __peerless__  
 __peeved__ _v_  
 __peevishly__  
-__pegged__ _v_  
-__pegged__ _v_  
+__pegged__ _v_ :two::hammer:  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :three::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
 __pen name__  
@@ -6139,8 +6115,7 @@ __peremptory__
 __perennial__ :three::hammer:  
 __perfect storm__  
 __perfidious__  
-__perfunctory__ :dart:  
-__perfunctory__ _adj_ :four: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
+__perfunctory__ _adj_ :five::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
 __periwinkles__  
 __perjury__ :two::hammer:  
@@ -6344,8 +6319,8 @@ __plough__ _v_
 __ploughed__  
 __plovers__  
 __plowed__ :two::hammer: _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
-__pluck__ :two::hammer: _The story celebrates the pluck and determination of this young woman._  
-__pluck__ _v_ :two::hammer: (plucked) _President Obama plucked former Procter & Gamble CEO Bob McDonald to take over._  
+__pluck<sup>1</sup>__ _n_ :two::hammer: _The story celebrates the pluck and determination of this young woman._  
+__pluck<sup>2</sup>__ _v_ :two::hammer: (plucked) _President Obama plucked former Procter & Gamble CEO Bob McDonald to take over._  
 __pluckiest__  
 __plugger__  
 __plum trees__  
@@ -6644,8 +6619,7 @@ __purr__
 __purse__ _v_ _His lips pursed._  
 __purslane__ _n_ :four::hammer:  
 __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._  
-__pus__ _n_ /pʌs/ :pencil2: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue.  
-__pus__ _n_ _Pus bags_  
+__pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __pushcart__ _A pushcart vendor._  
 __pushover__ _n_ :five: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
@@ -7052,8 +7026,7 @@ __riff__ _n_
 __riffing__ _v_  
 __riffle__ _v_ (riffled) :two::hammer: _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
-__riffs__  
-__riffs__ _v_  
+__riffs__ _v_ :two::hammer:  
 __rifle__ _v_  
 __rift__ _n_ :nine::m::hammer: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
@@ -7150,23 +7123,16 @@ __rot-and-branch__ _Root-and-branch reforms._
 __roti__ _A roti shop._  
 __rototiling__  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
-__roughly__  
-__roughly__  
-__roughshod__  
-__roughshod__  
-__roughshod__  
-__roughshod__  
-__roughshotd__  
+__roughly__ :two::hammer:  
+__roughshod__ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
 __round out__ _v_ :two::hammer:  
 __round-trip__  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
 __rousted__ _v_  
-__rout<sup>1</sup>__ _n_ :four: An overwhelming defeat.  
-__rout<sup>2</sup>__ _v_ :two: Defeat disastrously.  
-__rout__  
-__rout__ _v_  
+__rout<sup>1</sup>__ _n_ :five: An overwhelming defeat.  
+__rout<sup>2</sup>__ _v_ :three: Defeat disastrously.  
 __row house__ _n_  
 __rowdy__ _adj_ :six: /ˈraʊdi/ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rowhouse__ _n_  
@@ -7439,8 +7405,7 @@ __seedy__ _A seedy world._
 __seek out__  
 __seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
 __seep__ _v_ :five: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Syn_ oze, trickle, exude, drip  
-__seepage__  
-__seepage__  
+__seepage__ :two::hammer:  
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :two::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
@@ -7796,8 +7761,7 @@ __slacker__
 __slag__  
 __slake__ _v_  
 __slam__ _v_ _LeBron slams Phil Jackson for comment._  
-__slander__ _v_  
-__slander__ _v_ :three::hammer: (slandering)  
+__slander__ _v_ :four::hammer: (slandering)  
 __slant__  
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
@@ -8360,8 +8324,7 @@ __stipend__ _n_ :five::hammer: (stipends)
 __stipulate__ _v_ :two::hammer:  
 __stir__ _v_ :two::hammer: (stirred)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
-__stirrups__ _n_ :two::hammer:  
-__stirrups__ _n_ _Ramming your feet into the stirrups._  
+__stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
 __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
@@ -8638,10 +8601,8 @@ __swoon__ _v_ :nine: (swoons, swooning) __1__ _literary_ Faint, especially from 
 __swooned__ _v_  
 __swooned__ _v_  
 __swoop<sup>1</sup>__ _n_ :four::hammer:  
-__swoop<sup>2</sup>__ _v_ :five::hammer: (swooped, swooping)  
+__swoop<sup>2</sup>__ _v_ :seven::hammer: (swooped, swooping)  
 __swoop__ _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
-__swoop__ _v_  
-__swoop__ _v_  
 __swoops__  
 __swoopy__  
 __swooshing__  
@@ -9445,10 +9406,7 @@ __vilify__ _v_
 __villa__ _n_  
 __villainy__ :pencil2:  
 __villas__ _n_  
-__vindicate__ _v_  
-__vindicate__ _v_ :four::hammer: (vindicated)  
-__vindicated__  
-__vindicated__ _v_  
+__vindicate__ _v_ :seven::hammer: (vindicated)  
 __vindication__ _n_ :six::hammer:  
 __vintner__ _n_  
 __vinyasa__ _n_  
@@ -9733,8 +9691,7 @@ __winnowed__ :two::hammer: _Nominations are winnowed down to 10 finalists._
 __winnowing__ _v_  
 __winsome__  
 __winterkill__  
-__wintry__  
-__wintry__ :two: _adj_ :es: invernal  
+__wintry__ _adj_ :three: :es: invernal  
 __wire > getting down to the wire__  
 __wire book stand__  
 __wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
