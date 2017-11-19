@@ -15,54 +15,57 @@ BOLD = '\033[1m'
 UNDERLINE = '\033[4m'
 
 number_of_composite_headwords = 0
-number_of_lines_with_invalid_ending = 0
-number_of_lines_with_tag_shit = 0
-number_of_lines_with_too_many_double_spaces = 0
-number_of_lines_with_triple_spaces = 0
+number_of_entries_with_invalid_ending = 0
+number_of_entries_with_tag_shit = 0
+number_of_entries_with_too_many_double_spaces = 0
+number_of_entries_with_triple_spaces = 0
 
-def valid_line_ending(line):
-    clean_line = line.replace('\n','')
-    valid = clean_line.endswith('  ')
+def valid_entry_ending(entry):
+    valid = entry.endswith('  ')
     return valid
 
-def treat_invalid_line_ending(line):
-    global number_of_lines_with_invalid_ending
-    number_of_lines_with_invalid_ending += 1
-    tokens = line.split()
+def treat_invalid_entry_ending(entry):
+    global number_of_entries_with_invalid_ending
+    number_of_entries_with_invalid_ending += 1
+    tokens = entry.split()
     headword = tokens[0]
-    print headword + ' ' + FAIL + ' <<< Incorrect line ending #'\
-        + str(number_of_lines_with_invalid_ending) + ENDC
+    print headword + ' ' + FAIL + ' <<< Incorrect entry ending #' \
+        + str(number_of_entries_with_invalid_ending) + ENDC
 
-def treat_too_many_double_spaces(line):
-    global number_of_lines_with_too_many_double_spaces
-    tokens = line.split()
-    headword = tokens[0]
-    part_of_speech = tokens[1]
-    print headword + ' ' + part_of_speech + FAIL + ' <<< Too many double spaces' + ENDC
-    number_of_lines_with_too_many_double_spaces += 1
-
-def treat_triple_spaces(line):
-    global number_of_lines_with_triple_spaces
-    tokens = line.split()
-    headword = tokens[0]
-    print headword + ' ' + FAIL + ' <<< Triple spaces' + ENDC
-    number_of_lines_with_triple_spaces += 1
-
-def treat_shit_tag(line):
-    global number_of_lines_with_tag_shit
-    tokens = line.split()
+def treat_too_many_double_spaces(entry):
+    global number_of_entries_with_too_many_double_spaces
+    number_of_entries_with_too_many_double_spaces += 1
+    tokens = entry.split()
     headword = tokens[0]
     part_of_speech = tokens[1]
-    print headword + ' ' + part_of_speech + FAIL + ' <<< :shit: found; use :hammer: instead' + ENDC
-    number_of_lines_with_tag_shit += 1
+    print headword + ' ' + part_of_speech + FAIL \
+        + ' <<< Too many double spaces #' \
+        + str(number_of_entries_with_too_many_double_spaces) + ENDC
 
-def line_contains_tag_of_number(line):
-    return line.find(':nine:') > -1 \
-        or line.find(':eight:') > -1 \
-        or line.find(':seven:') > -1 \
-        or line.find(':six:') > -1 \
-        or line.find(':five:') > -1 \
-        or line.find(':four:') > -1
+def treat_triple_spaces(entry):
+    global number_of_entries_with_triple_spaces
+    number_of_entries_with_triple_spaces += 1
+    tokens = entry.split()
+    headword = tokens[0]
+    print headword + ' ' + FAIL + ' <<< Triple spaces #' \
+        + str(number_of_entries_with_triple_spaces) + ENDC
+
+def treat_shit_tag(entry):
+    global number_of_entries_with_tag_shit
+    number_of_entries_with_tag_shit += 1
+    tokens = entry.split()
+    headword = tokens[0]
+    part_of_speech = tokens[1]
+    print headword + ' ' + part_of_speech + FAIL \
+        + ' <<< :shit: found; use :hammer: instead' + ENDC
+
+def entry_contains_tag_of_number(entry):
+    return entry.find(':nine:') > -1 \
+        or entry.find(':eight:') > -1 \
+        or entry.find(':seven:') > -1 \
+        or entry.find(':six:') > -1 \
+        or entry.find(':five:') > -1 \
+        or entry.find(':four:') > -1
 
 def get_headword_and_next_token_index(tokens):
     NUM_TOKENS = len(tokens)
@@ -93,40 +96,41 @@ def check_dictionary():
     """
     filename = 'dictionary.md'
     input_file = open(filename, 'r')
-    number_of_lines_with_wrong_part_of_speech = 0
+    number_of_entries_with_wrong_part_of_speech = 0
 
     for line in input_file:
-        if not valid_line_ending(line):
-            treat_invalid_line_ending(line)
-        if line.count('  ') > 2:
-            treat_too_many_double_spaces(line)
-        if line.count('   ') > 0:
-            treat_triple_spaces(line)
-        if line.find(':shit:') > -1:
-            treat_shit_tag(line)
-        if line_contains_tag_of_number(line):
-            tokens = line.split()
+        entry = line.replace('\n','')
+        if not valid_entry_ending(entry):
+            treat_invalid_entry_ending(entry)
+        if entry.count('  ') > 2:
+            treat_too_many_double_spaces(entry)
+        if entry.count('   ') > 0:
+            treat_triple_spaces(entry)
+        if entry.find(':shit:') > -1:
+            treat_shit_tag(entry)
+        if entry_contains_tag_of_number(entry):
+            tokens = entry.split()
             headword, idx = get_headword_and_next_token_index(tokens)
             part_of_speech = tokens[idx]
             if part_of_speech.find('_') == -1:
-                number_of_lines_with_wrong_part_of_speech += 1
+                number_of_entries_with_wrong_part_of_speech += 1
                 print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
                     + ' <<< Wrong part of speech #' \
-                    + str(number_of_lines_with_wrong_part_of_speech)
+                    + str(number_of_entries_with_wrong_part_of_speech)
 
     input_file.close()
-    global number_of_lines_with_invalid_ending
-    global number_of_lines_with_tag_shit
-    succeeded = bool(number_of_lines_with_invalid_ending + number_of_lines_with_tag_shit + number_of_lines_with_wrong_part_of_speech == 0)
+    global number_of_entries_with_invalid_ending
+    global number_of_entries_with_tag_shit
+    succeeded = bool(number_of_entries_with_invalid_ending + number_of_entries_with_tag_shit + number_of_entries_with_wrong_part_of_speech == 0)
     if succeeded:
         print OKGREEN + 'No problems were found in file \'' + filename + '\'' + ENDC
     else:
-        print '\nSummary of problems found:'
-        print '  Lines with invalid ending = ' + str(number_of_lines_with_invalid_ending)
-        print '  Lines with triple spaces = ' + str(number_of_lines_with_triple_spaces)
-        print '  Lines with too many double spaces = ' + str(number_of_lines_with_too_many_double_spaces)
-        print '  Lines with tag :shit: = ' + str(number_of_lines_with_tag_shit)
-        print '  Lines with wrong part of speech = ' + str(number_of_lines_with_wrong_part_of_speech)
+        print '\nSummary of issues found:'
+        print '  Entries with invalid ending = ' + str(number_of_entries_with_invalid_ending)
+        print '  Entries with triple spaces = ' + str(number_of_entries_with_triple_spaces)
+        print '  Entries with too many double spaces = ' + str(number_of_entries_with_too_many_double_spaces)
+        print '  Entries with tag :shit: = ' + str(number_of_entries_with_tag_shit)
+        print '  Entries with wrong part of speech = ' + str(number_of_entries_with_wrong_part_of_speech)
     return succeeded
 
 def use_random(number):
