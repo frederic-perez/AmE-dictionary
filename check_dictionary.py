@@ -88,6 +88,13 @@ def get_headword_and_next_token_index(tokens):
             + str(number_of_composite_headwords) + ENDC
     return headword, idx
 
+def print_colored(label, number):
+    message = label + ' = ' + str(number)
+    if number == 0:
+        print OKGREEN + message + ENDC
+    else:
+        print FAIL + message + ENDC
+
 def check_dictionary():
     """Looking for mistakes in the dictionary
 
@@ -125,12 +132,13 @@ def check_dictionary():
     if succeeded:
         print OKGREEN + 'No problems were found in file \'' + filename + '\'' + ENDC
     else:
-        print '\nSummary of issues found:'
-        print '  Entries with invalid ending = ' + str(number_of_entries_with_invalid_ending)
-        print '  Entries with triple spaces = ' + str(number_of_entries_with_triple_spaces)
-        print '  Entries with too many double spaces = ' + str(number_of_entries_with_too_many_double_spaces)
-        print '  Entries with tag :shit: = ' + str(number_of_entries_with_tag_shit)
-        print '  Entries with wrong part of speech = ' + str(number_of_entries_with_wrong_part_of_speech)
+        print '\nSummary of issues found'
+        print '-----------------------'        
+        print_colored('Entries with invalid ending', number_of_entries_with_invalid_ending)
+        print_colored('Entries with triple spaces', number_of_entries_with_triple_spaces)
+        print_colored('Entries with too many double spaces', number_of_entries_with_too_many_double_spaces)
+        print_colored('Entries with tag :shit:', number_of_entries_with_tag_shit)
+        print_colored('Entries with wrong part of speech', number_of_entries_with_wrong_part_of_speech)
     return succeeded
 
 def use_random(number):
