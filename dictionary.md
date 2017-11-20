@@ -2038,8 +2038,7 @@ __consigliere__ _Our family consigliere._
 __conspicuous__ _adj_ :four: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constituency__ _n_ :five::hammer: (constituencies)  
 __constituent__ _n_ :three::hammer: (constituents)  
-__construe__ _v_  
-__construed__ :four::hammer:  
+__construe__ _v_ :five::hammer: (construed)  
 __consumption__ (ailment?)  
 __contagion__  
 __contempt__  
@@ -2219,8 +2218,8 @@ __cringe__ _v_ :six: __1__ To shrink back, as in fear; cower. _:es: to cringe wi
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__  
-__crippling__ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
-__crisp__ :five::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
+__crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
+__crisp__ _adj_ :five::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
 __crisper__ _Our dishes and crisper trays._  
 __crisply__ _Nuggent greeted him crisply._  
 __crisscross__  
@@ -2280,7 +2279,8 @@ __cry foul__ :two::hammer: _But alcohol-safety groups cry foul, saying alcohol m
 __crystal meth__  
 __crystal__ _Meth?_  
 __cubbyhole__  
-__cuckold__ :four::hammer:  
+__cuckold<sup>1</sup>__ _n_ :two::hammer:  
+__cuckold<sup>2</sup>__ _v_ :two::hammer:  
 __cuckolded__ _adj_ :two::hammer:  
 __cud__ _n_ :two::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
@@ -2341,7 +2341,7 @@ __daft__ _adj_ :three::hammer:
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daily basis__ (on a daily basis) _They work with the team on a daily basis._  
-__dais__ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
+__dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
 __dallied__ _v_  
 __dally__ _v_  
@@ -2359,7 +2359,7 @@ __dang__ _adj_ _But, dang marketers go crazy._
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ :two::hammer:  
-__dapper__ :four: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
+__dapper__ _adj_ :four: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
 __dappled__ _v_ :five::hammer:  
 __dare__  
 __daredevil__ :two::hammer: _The daredevils of the group._  
@@ -2375,7 +2375,7 @@ __dashing__ _I think I look rather dashing._
 __date__ :pencil2: _It would be like eating a single date._  
 __dateline__  
 __daubed__ :two::hammer:_A swastika was daubed on a science center window._  
-__daunting__ :four: Seeming difficult to deal with in prospect; intimidating.  
+__daunting__ _adj_ :four: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
 __day job__  
 __daybeds__ _n_  
@@ -2427,7 +2427,7 @@ __defanging__ _n_
 __default__ _v_ :three::hammer: _The Solar Energy company defaulted._  
 __defect__ _v_ :five: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
-__defector__ :four::hammer: _Army defectors._  
+__defector__ _n_ :four::hammer: _Army defectors._  
 __defer__ _v_ :four::hammer:  
 __deference__ _n_ :four::hammer:  
 __deferential__  
@@ -2445,7 +2445,7 @@ __defray__ _v_
 __defrock__ _v_  
 __defrost__  
 __defry__  
-__deft__ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
+__deft__ _adj_ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __defuse__ _v_ :five::hammer: (defuses, defusing)  
 __deigned__ _v_  
 __dejected__  
@@ -2527,7 +2527,7 @@ __dewlaps__ _n_ :two::hammer:
 __dialysis__  
 __diaspora__  
 __dibs__ _n_ :two::hammer:  
-__dicey__ :six::hammer: _That's dicey._ _The women's situation is a bit more dicey._  
+__dicey__ _adj_ :six::hammer: _That's dicey._ _The women's situation is a bit more dicey._  
 __dichotomy__  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __diction__ :two::hammer: _The priest diction._  
@@ -2578,7 +2578,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dis__ _n_ :two::hammer:  
 __disaffected__ _adj_  
 __disallow__ _v_ :dart: _The goal was disallowed._  
-__disarray__ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
+__disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disastrous__  
 __disavowed__ _v_  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
@@ -2697,7 +2697,7 @@ __doodad__
 __dookie-wookie__  
 __doom and gloom__ :two::hammer:  
 __door-to-door dash__  
-__doorbuster__ (door-buster) :four: A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
+__doorbuster__ _n_ :four: (door-buster) A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doorknob hanger__  
 __doorman building__ _n_  
 __doormat__  
@@ -2779,12 +2779,10 @@ __dray__ _n_ :two::hammer: (drays) _Dray horse._
 __drayman__  
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_  
-__dredge up__ (dredging) :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
-__dredge__ _n_ An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
-__dredged__ _Dredged mud._  
-__dredged__ _v_  
-__dredgers__  
-__dredges__ _n_  
+__dredge up__ _phrasal v_ :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
+__dredge<sup>1</sup>__ _v_ :three::hammer: _They dredged mud._  
+__dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
+__dredger__  
 __dreg__ (dregs) :two::hammer: _Away from the dregs and junkies._  
 __dregs__ :two::hammer: _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
 __drench__ :three::hammer: (drenched)  
@@ -2859,8 +2857,9 @@ __dugout__ :two::hammer:
 __dulcet icing__  
 __dulcimers__ _n_  
 __dullard__  
-__dully__  
-__duly__ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
+__dull__ _adj_  
+__dully__ _adv_  
+__duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_  
 __dumbstruck__  
@@ -2897,7 +2896,7 @@ __earlocks__ _n_
 __early-onset__ _Early-onset Alzheimer's disease._  
 __earmark__ _v_ :three::hammer:  
 __earmuffs__  
-__earnest__ :four::hammer:  
+__earnest__ _adj_ :four::hammer:  
 __earrings__  
 __earth-shattering__  
 __earthquake drill__  
@@ -2971,7 +2970,7 @@ __emceed__ _v_
 __emerald__ :two::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__ :two::hammer:  
 __emerity__ _Faculty emerity._  
-__emery__ :four::hammer: _An emery wheel._ _Emery paper._  
+__emery__ _n_ :four::hammer: _An emery wheel._ _Emery paper._  
 __emo__ :two::hammer: (emotional?)  
 __emphasize__ _v_ :two::hammer:  
 __empty box__ _The Etihad is the last empty box on his list._  
@@ -3010,7 +3009,7 @@ __enrapture__ _v_ :two: To fill with rapture or delight.
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __enshrined__  
-__ensnare__ :four: /ɪnˈsnɛː,ɛn-/ _v_ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
+__ensnare__ _v_ :four: /ɪnˈsnɛː,ɛn-/ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :four::hammer: (ensued, ensuing) _Complications ensue._  
 __entail__ _v_  
 __entails__ _v_  
@@ -3018,7 +3017,7 @@ __enthrall__ _v_ :four: (enthralling) To hold spellbound; captivate: _The magic 
 __enthuse__ _v_ :five::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __entitled__ :two::shit; _We are soft, entitled, and scared of conflict._  
-__entitlement__ :four::hammer: _Entitlement programs._  
+__entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__  
 __entrant__ :astonished:  
 __entrench__ _v_ :six: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
@@ -3038,7 +3037,7 @@ __epiphany__
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :five: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponymous__ :four::hammer: (eponymously)  
+__eponymous__ _adj_ :four::hammer: (eponymously)  
 __equaled__ _v_  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  ness or vulnerable point.  
 __equalizer__  
@@ -3137,7 +3136,7 @@ __factual__
 __fad__ _n_  
 __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
 __fair and square__  
-__fair condition__ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
+__fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
 __fairly__  
 __fait accompli__  
@@ -3906,7 +3905,7 @@ __ground zero__
 __groundbreaker__ _n_ :three::hammer:  
 __groundnut__ _n_  
 __groundskeeper__  
-__groundswell__ :four::hammer:  
+__groundswell__ _n_ :four::hammer:  
 __groundwater__  
 __groundwork__  
 __groupies__ _n_  
@@ -3917,7 +3916,7 @@ __grove__ _n_ :two::hammer:
 __grovel__ _v_  
 __groveling__ _v_  
 __growin pains__ _Teams are expecting short-term growing pains._  
-__growing pains__ :four: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise.  
+__growing pains__ _n_ :four: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise.  
 __growl__  
 __growl__ _He spoke in a growl._  
 __growl__ _n_  
@@ -4295,7 +4294,7 @@ __homely__ :three::hammer:
 __homeowner__  
 __homesick__  
 __homespun__ :two::hammer:  
-__homestand__ :four::hammer:  
+__homestand__ _n_ :four: A series of games played at a team's home field.  
 __homestead__ _n_ :two::hammer:  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
@@ -4905,7 +4904,7 @@ __lecher__
 __lectern__  
 __ledge__  
 __ledge__ _Adam turned and sat on the ledge._  
-__ledger__ :four::hammer: _A heavy account ledger._  
+__ledger__ _n_ :four::hammer: _A heavy account ledger._  
 __lee__ _In the lee of the wagon._  
 __leech__ _n_ :four::hammer:  
 __leeks__ _n_  
@@ -7124,7 +7123,7 @@ __roti__ _A roti shop._
 __rototiling__  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __roughly__ :two::hammer:  
-__roughshod__ :five::hammer:  
+__roughshod__ _adv_ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
 __round out__ _v_ :two::hammer:  
 __round-trip__  
@@ -8861,7 +8860,7 @@ __ticker__
 __tickle__ _v_ :two::hammer: _Does that tickle?_  
 __ticklish__ :two::hammer:  
 __ticky-tacky__ _The ticky-tacky plan._  
-__tidbit__ :pencil2::four::hammer: (tidbits) _He fed the cat tidbits._  
+__tidbit__ _n_ :pencil2::four::hammer: (tidbits) _He fed the cat tidbits._  
 __tidy__ _A tidy plan._  
 __tie-dye__  
 __tie-up__ _n_  
