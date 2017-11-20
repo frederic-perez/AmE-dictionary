@@ -1554,24 +1554,19 @@ __cantata__
 __canted__ _v_ :two::hammer:  
 __canteens__  
 __canter up__ _v_  
-__canter__ _n_  
-__cantered__ _v_  
-__cantered__ _v_  
-__cantering__ _v_ :two::hammer:  
+__canter<sup>1</sup>__ _n_  
+__canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)  
 __cantilevered__  
 __canvass__ :astonished:  
-__cap__ _n_ (hat?)  
-__cap__ _v_  
-__cap__ _v_ :six: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
+__cap<sup>1</sup>__ _n_ (hat?)  
+__cap<sup>2</sup>__ _v_ :eight: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
 __capful__  
 __capitulation__  
-__caplet__ _n_  
-__caplets__ _n_  
+__caplet__ _n_ :two::hammer: (caplets)  
 __capons__  
-__capped__ _v_  
 __cappie__ _n_  
 __caprice__  
 __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.  
@@ -1584,15 +1579,9 @@ __caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large cour
 __carbuncle__ _n_  
 __cardiac arrest__  
 __cardinal__ _Breaking cardinal rules of marketing._  
-__careen__ _v_  
-__careen__ _v_  
-__careened__ _An open-air tour bus careened wildly out of control._  
-__careened__ _v_  
-__careening__ :three::hammer::camera:  
-__careens__ _v_ :four::hammer: (careened, careening)  
+__careen__ _v_ :nine::m::hammer::camera: (careens, careened, careening) _An open-air tour bus careened wildly out of control._  
 __caresses__ _v_  
-__caretaker__  
-__caretaker__ _A caretaker government._  
+__caretaker__ :two::hammer: _A caretaker government._  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
 __carjack__ _v_ To commit forcible theft of (a vehicle) from its users.  
@@ -1607,8 +1596,7 @@ __carousel__
 __carousing__ _v_  
 __carpet bombing__  
 __carping__ _v_  
-__carpool__  
-__carpool__ _v_  
+__carpool__ _v_ :two::hammer:  
 __carrel__  
 __carrion__ _n_ :dart::four: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry-on bag__  
@@ -1929,8 +1917,7 @@ __colic__ _n_
 __collapsible__ _Collapsible shutters._  
 __collarbone__ :three::hammer:  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
-__collusion__ :two::hammer:  
-__collusion__ :two::hammer:  
+__collusion__ :four::hammer:  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
@@ -1964,8 +1951,7 @@ __commoditization__
 __communiqué__ (communiqués) :two::hammer:  
 __comp<sup>1</sup>__ _n_ _Workers' comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
-__compassionate__  
-__compassionate__ :two::hammer:  
+__compassionate__ :three::hammer:  
 __compel__ _v_ :three::hammer:  
 __compelling__ _adj_ Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
@@ -2597,9 +2583,7 @@ __disgorgement__
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
 __dish out__ _v_ :two::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
-__dishevel__ _v_ :four::hammer: (disheveled) _A disheveled look of a beat poet._  
-__disheveled__  
-__disheveled__  
+__dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
 __dishing__ _v_  
 __dishwasher__ _I worked as a dishwasher._  
 __dishy__  
@@ -4449,8 +4433,7 @@ __implausible__
 __impound___v_ :two::hammer: _The Ponticac was impounded._  
 __imprecation__ _n_ :two: A curse.  
 __imprint__ _n_  
-__imprisoned__  
-__imprisoned__ _v_ _Simpson has been imprisoned for almost nine years._  
+__imprisoned__ _v_ :two::hammer: _Simpson has been imprisoned for almost nine years._  
 __impromptu__ :two::hammer: _Some things are impromptu._  
 __improvidence__  
 __in all likelihood__  
@@ -4854,10 +4837,9 @@ __latching__
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __latecommer__ _I'm somewhat of a latecomer._  
-__lath__ _n_ :two::hammer:  
+__lath__ _n_ :three::hammer: (laths)  
 __lathered__ _v_ :two::hammer: (lathering)  
 __lathes__  
-__laths__  
 __latitude__ _The firms have a lot of latitude as long as they comply with their own policies._  
 __lauded__ _v_  
 __lauds__ _Barber was buried after lauds._  
@@ -4865,8 +4847,7 @@ __laughingstock__
 __laureate__  
 __lavish<sup>1</sup>__ _adj_ :nine::m::hammer: _Lavish fees._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
-__lavishly__  
-__lavishly__ :two::hammer:  
+__lavishly__ :three::hammer:  
 __law of the land__  
 __law-and-order__ :three::hammer: _The law-and-order prime minister._  
 __lawmaker__ _n_ :four::hammer: (lawmakers)  
@@ -5399,8 +5380,7 @@ __misuse__
 __mitt__ _n_  
 __mitzvah__  
 __mix-up__ _n_  
-__mixed bag__  
-__mixed bag__ _It's a mixed bag, really._  
+__mixed bag__ :two::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __mo__ (mo., mos.) :three: Month.  
 __moat__ _n_ :six::hammer:  
@@ -5408,9 +5388,7 @@ __moccasin__ :two::hammer: (moccasins)
 __mockie__ _n_ :two::hammer:  
 __modicum__ _n_ :four: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __mogrify__ _v_  
-__mogul__  
-__mogul__ :two::hammer:  
-__moguls__ _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+__mogul__ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __molasses__  
 __molasses__  
@@ -5503,8 +5481,7 @@ __muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal ma
 __muck<sup>3</sup>__ _v_ :two: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
 __mudcat__ _n_  
-__muddle__ :three: _v_ Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
-__muddle__ _v_  
+__muddle__ _v_ :four: Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __mudslide__  
 __mudslinging__ :two::hammer:  
 __muff-diver__ _n_ :two::hammer:  
@@ -5555,16 +5532,14 @@ __musty__
 __mutt__ _n_ :five::hammer:  
 __muttering__ _n_  
 __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
-__myriad__  
-__myriad__  
+__myriad__ :two::hammer:  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __mysteries__ _n_ :pencil2:  
 __mysterious__ :pencil2:  
 __mystery train__  
 __mystique__ :pencil2:  
-__mythos__  
-__mythos__  
+__mythos__ :two::hammer:  
 __mélange__ _n_  
 __nab__ _v_ :five::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nadir__  
@@ -6019,26 +5994,21 @@ __pass policy__
 __passage__ _n_ _The passage of three supplementary budgets this year._  
 __passel__ _A passel of ducks._  
 __passersby__ _n_  
-__pastiche__  
-__pastiche__  
-__pastime__  
-__pastimes__ _n_  
+__pastiche__ :two::hammer:  
+__pastime__ _n_ :two::pencil2::hammer: (pastimes)  
 __pasty__ _adj_ :two::hammer:  
 __pat<sup>1</sup>__ _v_ Hit lightly. _Pat him on the shoulder._  
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
-__pate__ _The pate of a monk with a wet red tonsure._  
-__pate__ _n_ :two::hammer: _His grizzled pate shone like tan wax._  
+__pate__ _n_ :three::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._  
 __patently__ _Patently absurd._  
 __pathogenic__  
 __pathogens__ _n_  
-__pathos__  
-__pathos__ _Ms. Merkel is known to be allergic to pathos and big words._  
+__pathos__ :two::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patinated__ _v_  
 __patois__  
-__patron__ _n_ :four::hammer: _China, North Korea's patron._  
-__patron__ _n_ _Patrons who eat before 6 p.m._  
+__patron__ _n_ :five::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._  
 __patronage__  
 __patronize__ _v_  
 __patronizing__  
@@ -6236,12 +6206,8 @@ __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._
 __pit<sup>2</sup>__ _v_ :two::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
 __pitch in__ _v_  
 __pitch-perfect__  
-__pitch<sup>1</sup>__ _n_ _We recovered the ball in their side of the pitch after pressing well._  
-__pitch<sup>2</sup>__ _v_ _To pitch a tent._  
-__pitch__ _n_  
-__pitch__ _n_ _There was a jar of hot pitch [in case it was required for the amputation]._  
-__pitch__ _v_ :camera::hammer: _Pitching bowling balls._  
-__pitched__ _If not from pitched battles, where do we find victory?_  
+__pitch<sup>1</sup>__ _n_ :three::hammer: _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
+__pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitchfork__  
 __pith helmet__ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
@@ -7503,23 +7469,17 @@ __shedding__ _v_
 __sheelling__  
 __sheen__ _The sheen on his hair when he removed his hat._  
 __sheep__ _(plural?)_ _She killed 38 sheep in a hit-and-run accident._  
-__sheer fabric__  
-__sheer fabric__  
+__sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
-__sheer__  
-__sheer__  
-__sheer__ :three::hammer: _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer__ :five::hammer: _Sheer size._ _The sheer scale of the operations surprised many._  
 __sheet rock__ :two:  
 __sheeting__  
 __sheik__ :two: :pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
-__shell company__  
-__shell out__ _v_  
-__shell out__ _v_  
-__shell out__ _v_  
+__shell out__ _v_ :three::hammer:  
 __shell road__  
 __shell-shocked__ :two::hammer:  
-__shell__ _A shell corporation._ _Shell companies are easy to establish in Delaware._  
+__shell__ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
 __shellfish__ _Shellfish stewed, jerked._  
 __shelling out__  
 __shelling__ _v_  
@@ -7719,9 +7679,7 @@ __skewer__ _v_
 __skews__ _v_  
 __skid marks__  
 __skid row__ _His father would take him to a blind pig on skid row._  
-__skid__  
-__skid__ _The European car market hit a multiyear skid._  
-__skid__ _n_ :five: _Informal_ __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
+__skid__ _n_ _Informal_ :seven: __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skim__ _v_  
 __skim__ _v_ _Skim fat from chilled pan juices and finish making gravy._  
@@ -8027,8 +7985,8 @@ __space heater__ _n_
 __spackle__ :two::hammer:  
 __spade-bearded__  
 __spangle__ _v_ :six::hammer: (spangled, spangling)  
-__spar__ _n_  
-__spar__ _v_  
+__spar<sup>1</sup>__ _n_  
+__spar<sup>2</sup>__ _v_  
 __spare room__ _n_ (spare-room) Guest room, guestroom (). :es: habitación de invitados, cuarto de invitados  
 __spark plugs__  
 __sparklers__ _n_  
@@ -8931,29 +8889,22 @@ __toe-poppers__
 __toe-toppers__  
 __toe__ _v_  
 __toed__ _v_  
-__toehold__  _n_  
-__toehold__ :two: _n_ __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
-__toehold__ _n_  
+__toehold__ :two: _n_ :four: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
 __toffs__ _Young toffs._  
 __toil__ _v_ :four::hammer: (toiled) _Each toiled for at least four years in the minors._  
 __toilet bowl__  
 __toilet stool__  
 __toiletries__  
-__toll__ _Church bells tolling._  
-__tolls__ _v_ _The bell tolls kor Ukraine._  
+__toll__ _v_ :two::hammer: (tolls, tolling) _Church bells tolling._ _The bell tolls for Ukraine._  
 __tom__ (cat?)  
 __tomboy__  
 __tomcat__  
 __ton__ _A metric ton._  
 __tone-deaf__  
 __tong__  
-__tongue in cheek__ _adj and adverb_ :three::dart: (tongue-in-cheek) In an ironic or insincere way. _Her delightful tongue-in-cheek humour._  
-__tongue-in-cheek__ In a way that is not serious, although it appears to be. _Karl explained, tongue in cheek, that he was busy with housecleaning._  
-__tonsure__  
-__tonsure__  
-__tonsure__  
-__tonsure__ _The pate of a monk with a wet red tonsure._  
+__tongue in cheek__ _adj and adverb_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
+__tonsure__ :four::hammer: _The pate of a monk with a wet red tonsure._  
 __tony__ _Informal adj_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
 __toodling__  
@@ -9564,8 +9515,7 @@ __welted__
 __welter__ _A welter of data._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
-__wen__ _n_  
-__wen__ _n_ :camera:  
+__wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :four: /wɛnd/ (wending) To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
 __wet a line__  
 __wetbacks__  
