@@ -67,7 +67,7 @@ def entry_contains_tag_of_number(entry):
         or entry.find(':five:') > -1 \
         or entry.find(':four:') > -1
 
-def get_headword_and_next_token_index(tokens):
+def get_headword_and_next_token_index(tokens, do_print=False):
     NUM_TOKENS = len(tokens)
     headword = tokens[0]
     headword_completed = headword.count('__') == 2
@@ -84,8 +84,9 @@ def get_headword_and_next_token_index(tokens):
     if idx > 1:
         global number_of_composite_headwords
         number_of_composite_headwords += 1
-        print OKBLUE + headword + GRAY + ' <<< Composite headword #' \
-            + str(number_of_composite_headwords) + ENDC
+        if do_print:
+            print OKBLUE + headword + GRAY + ' <<< Composite headword #' \
+                + str(number_of_composite_headwords) + ENDC
     return headword, idx
 
 def print_colored(label, number):
@@ -95,8 +96,8 @@ def print_colored(label, number):
     else:
         print FAIL + message + ENDC
 
-def check_dictionary():
-    """Looking for mistakes in the dictionary
+def check_dictionary_entries():
+    """Looking for mistakes in the entries of the dictionary
 
     Reads the contents of dictionary.md searching for :shit:,
     or :nine: without part of the speech defined
@@ -117,7 +118,8 @@ def check_dictionary():
             treat_shit_tag(entry)
         if entry_contains_tag_of_number(entry):
             tokens = entry.split()
-            headword, idx = get_headword_and_next_token_index(tokens)
+            do_print = True
+            headword, idx = get_headword_and_next_token_index(tokens, do_print)
             part_of_speech = tokens[idx]
             if part_of_speech.find('_') == -1:
                 number_of_entries_with_wrong_part_of_speech += 1
@@ -141,6 +143,25 @@ def check_dictionary():
         print_colored('Entries with wrong part of speech', number_of_entries_with_wrong_part_of_speech)
     return succeeded
 
+def check_dictionary_duplicates():
+    filename = 'dictionary.md'
+    input_file = open(filename, 'r')
+
+    for line in input_file:
+        entry = line.replace('\n','')
+        tokens = entry.split()
+        do_print = False
+        headword, idx = get_headword_and_next_token_index(tokens, do_print)
+      #
+      # WIP: Pseudo-code
+      # ----------------
+      # if (headword in dictionary)
+      #     repeated[headword] = 1
+      # dictionary[headword] = 1
+      #
+
+    input_file.close()
+
 def use_random(number):
     "This is a WIP function"
     # We should sort the words to study randomly--in other words, shuffle them
@@ -150,5 +171,6 @@ def use_random(number):
     else:
         print '\nInput number =', number, 'is not positive'
 
-check_dictionary()
+check_dictionary_entries()
+check_dictionary_duplicates()
 use_random(100)
