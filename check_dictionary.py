@@ -132,7 +132,7 @@ def check_dictionary_entries():
     global number_of_entries_with_tag_shit
     succeeded = bool(number_of_entries_with_invalid_ending + number_of_entries_with_tag_shit + number_of_entries_with_wrong_part_of_speech == 0)
     if succeeded:
-        print OKGREEN + 'No problems were found in file \'' + filename + '\'' + ENDC
+        print OKGREEN + 'No entries-related problems were found in file \'' + filename + '\'' + ENDC
     else:
         print '\nSummary of issues found'
         print '-----------------------'        
@@ -141,26 +141,39 @@ def check_dictionary_entries():
         print_colored('Entries with too many double spaces', number_of_entries_with_too_many_double_spaces)
         print_colored('Entries with tag :shit:', number_of_entries_with_tag_shit)
         print_colored('Entries with wrong part of speech', number_of_entries_with_wrong_part_of_speech)
+    print
     return succeeded
 
 def check_dictionary_duplicates():
     filename = 'dictionary.md'
     input_file = open(filename, 'r')
 
+    repeated = {}
+    dictionary = {}
+
     for line in input_file:
         entry = line.replace('\n','')
         tokens = entry.split()
         do_print = False
         headword, idx = get_headword_and_next_token_index(tokens, do_print)
-      #
-      # WIP: Pseudo-code
-      # ----------------
-      # if (headword in dictionary)
-      #     repeated[headword] = 1
-      # dictionary[headword] = 1
-      #
+        if (dictionary.get(headword) == 1):
+            repeated[headword] = 1
+        dictionary[headword] = 1
 
     input_file.close()
+
+    N = len(repeated)
+    if N > 0:
+        repeated_sorted = sorted(repeated)
+        print 'Duplicated keywords (N=' + str(N) + ') include (sorted alphabetically):'
+        i = 0
+        for headword in repeated_sorted:
+            print '  ' + FAIL + headword + ENDC
+            i += 1
+            if i == 10:
+                break
+    else:
+        print OKGREEN + 'No duplicated headwords were found' + ENDC
 
 def use_random(number):
     "This is a WIP function"
