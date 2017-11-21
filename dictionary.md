@@ -198,8 +198,8 @@ __ME__ :three: Medical Examiner. _The ME said there was a look frozen in their e
 __MIA__ Missing in Action.  
 __MLK__  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
-__Mace__ _A can of Mace._  
-__Mace__ _v_  
+__Mace<sup>1</sup>__ _n_ _A can of Mace._  
+__Mace<sup>2</sup>__ _v_  
 __Mach number__ :pencil2:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __Main Street__  
@@ -464,8 +464,7 @@ __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._
 __ahem__  
 __aide__ _n_ :two::hammer: (aides)  
 __ailerons__  
-__ailing__  
-__ailing__ _It is ailing the NFL._  
+__ailing__ :two::hammer: _It is ailing the NFL._  
 __ailment__ :three::hammer:  
 __ails__ _v_ :two::hammer:  
 __air cast__ _n_ :two::hammer::camera:  
@@ -478,8 +477,7 @@ __akin__ :two::hammer:
 __al fresco__  
 __alabaster__  
 __alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
-__albatross__  
-__albatross__ _n_ :pencil2:  
+__albatross__ _n_ :pencil2::two::hammer:  
 __alder__ :pencil2:  
 __alderman__ _n_ :two::hammer:  
 __alecky__ _Smart-alecky wit._  
@@ -630,8 +628,7 @@ __as it gets__
 __as it happens,__  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
-__asbestos__  
-__asbestos__ :two: :es: asbesto, amianto  
+__asbestos__ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascetic__  
 __ascot__  
@@ -795,9 +792,7 @@ __bankrollers__
 __banshee__ _n_  
 __bantam__ _Playing hockey at the bantam level._  
 __bantamweight__ :two: _Rousey is the women's bantamweight champ._  
-__banter__  
-__banter__  
-__banter__ _n_  
+__banter__ _n_ :three::hammer:  
 __bar top__  
 __barbecue__ _Barbecue sauce._  
 __barbells__  
@@ -814,8 +809,8 @@ __barn__ _Out of the barn._
 __barnburner__ _n_ :two::hammer:  
 __barnstorm__  
 __barnyard__ :pencil2:  
-__barrage__ _n_ :four: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
-__barrage__ _v_  
+__barrage<sup>1</sup>__ _n_ :four: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage<sup>2</sup>__ _v_  
 __barre__  
 __barrel bombs__  
 __barrel__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
@@ -880,8 +875,7 @@ __bedrock__ _n_ :four: Bedrock is the hard layer of rock beneath looser rocks an
 __bedrolls__  
 __bedspreads__ _n_  
 __bedstead__  
-__beech__  
-__beech__ _n_  
+__beech__ _n_ :two::hammer:  
 __beef up__ _v_ :five: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
 __beeline__  
@@ -934,11 +928,9 @@ __bellboy__ _n_
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
 __bellow__  
-__bellowed__ _v_  
-__bellowed__ _v_  
+__bellowed__ _v_ :two::hammer:  
 __bellowing__ _n_  
-__bellows__ _Barber's breathing sounded like a bellows._  
-__bellows__ _n_  
+__bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._  
 __bells and whistles__ :three::hammer:  
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
@@ -959,8 +951,7 @@ __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._
 __bento__ Boxed meals.  
 __bequeathed__ _v_ :five::hammer:  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
-__berate__ (berated) :two: _v_ Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._  
-__berate__ _v_ :four::hammer: (berated, berating) _Sam's lawyer berated Dogan for half a day._  
+__berate__ _v_ six: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_  
 __bereavement__ _n_ :three::hammer: State of sorrow over the death or departure of a loved one.  
 __bereft__ :three::hammer:  
