@@ -408,7 +408,7 @@ __acrophobia__
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ (actuaries) :two: A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acuity__  
-__acumen__ :four: :octocat: acumen/acute/agudo _n_ (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad-lib__ (ad-libs) :two::hammer: _v_  
 __adage__ :two::hammer:  
 __adamant__  
@@ -527,7 +527,7 @@ __amenity kits__
 __amity__  
 __ammassed__ _v_  
 __amnesty player__  
-__amped-up__ (amped up) :four: _Informal_ Filled with intense energy and excitement.  
+__amped-up__ _adj_ _Informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ample__ :two: Enough or more than enough; plentiful. _There is ample time for discussion._ _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
@@ -557,7 +557,7 @@ __antebellum__
 __anthology__  
 __anti-Semitism__  
 __antic__  
-__antics__ :four: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
+__antics__ _n_ _(plural)_ :four: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ :three::hammer:  
 __antique__ _Antiques dealer._  
 __anvil__ _n_ :four::hammer: (anvils)  
@@ -661,7 +661,7 @@ __astride__ :three::hammer:
 __astute__  
 __asunder__ _A world torn asunder by evil and hate._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
-__at odds__ :four::hammer: _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
+__at odds__ _v_ :four: (be at odds) To disagree. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the door__ _The cost to attend is $35 in advance and $40 at the door._  
 __at the earliest__  
@@ -725,7 +725,7 @@ __back out__ _v_ :two::hammer:
 __back up__ _v_ _Traffic will back up as if two lanes were blocked._  
 __back-heel pass__  
 __back-office__ _Back-office analytics._  
-__back-to-back__ :four: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
+__back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backburner__ _n_  
 __backcountry__ _Utah ski resorts offering backcountry adventures._  
@@ -786,7 +786,7 @@ __bandit__ _n_
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ (bandied) _v_ Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::hammer:  
-__bang for our buck__ :four::hammer: (bang for your buck, bang-for-the-buck) _We need to get all the bang for our buck._  
+__bang for our buck__ _v_ _informal_ :four::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::hammer: _informal?_ _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
@@ -816,7 +816,7 @@ __barn__ _Out of the barn._
 __barnburner__ _n_ :two::hammer:  
 __barnstorm__  
 __barnyard__ :pencil2:  
-__barrage__ :four: _n_ __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage__ _n_ :four: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage__ _v_  
 __barre__  
 __barrel bombs__  
@@ -908,7 +908,7 @@ __beggar__ _n_
 __begrudge__ :thre::hammer:  
 __beguile__ _v_ :four::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
-__behemoth__ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
+__behemoth__ _n_ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ :two::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
@@ -930,7 +930,7 @@ __belching__
 __beleaguer__ _v_  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belie__ _v_ :six: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
-__belittle__ (belittling) _v_ :four: Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
+__belittle__ _v_ :four: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
 __bellboy__ _n_  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
@@ -1118,11 +1118,11 @@ __bludgeoned__ _v_
 __blue streak__ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __blue string__  
 __blue-blood__  
-__blue-chip__ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones industrial aberage._  
+__blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones industrial aberage._  
 __blue-collar men__  
 __bluegill__  
 __bluegrass__  
-__blueprint__ :five::hammer: (blueprints)  
+__blueprint__ _n_ :five::hammer: (blueprints)  
 __bluff__ _n_ :two::hammer:  
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
@@ -1206,7 +1206,7 @@ __boom box__
 __boomer chains__  
 __booms__ _n_ :two::hammer:  
 __boon__ _n_ /buːn/ :six: A thing that is helpful or beneficial. _The route will be a boon to many travellers._  _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
-__boondoggle__ :four::hammer: (boondoggles)  
+__boondoggle__ _n_ _informal_ :four::hammer: (boondoggles)  
 __boonies__  
 __boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boorishness__ :two::hammer:  
@@ -1287,7 +1287,7 @@ __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Eu
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breather__ :two::hammer:  
 __breech__ _n_ :four::hammer:  
-__breezy__ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
+__breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ :three::hammer: _Political brethren._  
 __briar__ :two::hammer:  
 __bric-a-brac stores__  
@@ -1412,7 +1412,7 @@ __bunraku__
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
 __buoy<sup>1</sup>__ _n_  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
-__buoyant__ :four: _adj_ __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
+__buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __burgeoning__ _adj_ :five::hammer:  
 __burgermeister__  
@@ -1773,7 +1773,7 @@ __chuckholes__ _n_
 __chuckle__ _v_  
 __chucklers__  
 __chug__ _v_ :three::hammer: _A cocktail to chug._ _We're chugging along._  
-__chum__ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
+__chum__ _n_ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
 __chumps__ _n_  
 __churn out__ _v_  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
@@ -1810,7 +1810,7 @@ __clapboard__ _n_ :two::hammer:
 __clapper__ _He tried to turn somebody into a human bell clapper._  
 __claret jug__ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
-__clarion call__ :four::hammer:  
+__clarion call__ _n_ :four::hammer:  
 __clasped__ _v_  
 __class act__ _She was a class act through and through._  
 __class action__  
@@ -1867,12 +1867,12 @@ __clough__ _n_ :three::hammer:
 __clout<sup>1</sup>__ _n_ :nine::m: _Informal_ Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera: __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__  One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
-__cloying__ :four::hammer: _She is cordial without being cloying._  
+__cloying__ _adj_ :four::hammer: _She is cordial without being cloying._  
 __cluck__  
 __clucking__ _Clucking chickens._  
 __clue__ :dart:  
 __clump__ _n_  
-__clunker__ (clunkers) :four: _n_ _Informal_ __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
+__clunker__ _n_ _Informal_ :four: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
 __clunky__ :three::hammer:  
 __clutch player__  
@@ -1889,7 +1889,7 @@ __coaster brakes__
 __coat of arms__ :three::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattails a little bit._  
-__cobweb__ :four::hammer: (cobwebs)  
+__cobweb__ _n_ :four::hammer: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
 __coda__ _n_  
@@ -1917,7 +1917,7 @@ __colic__ _n_
 __collapsible__ _Collapsible shutters._  
 __collarbone__ :three::hammer:  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
-__collusion__ :four::hammer:  
+__collusion__ _n_ :four::hammer:  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
@@ -1929,7 +1929,7 @@ __come into play__ _Other factors inevitably come into play._
 __come of age__  
 __come to grips__  
 __come together__  
-__comely__ :four::hammer: _A comely smile._  
+__comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
 __comeuppance__  
 __comforter sets__  
 __comforters__  
@@ -5388,7 +5388,7 @@ __moccasin__ :two::hammer: (moccasins)
 __mockie__ _n_ :two::hammer:  
 __modicum__ _n_ :four: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __mogrify__ _v_  
-__mogul__ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+__mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __molasses__  
 __molasses__  
@@ -7471,7 +7471,9 @@ __sheen__ _The sheen on his hair when he removed his hat._
 __sheep__ _(plural?)_ _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
-__sheer__ :five::hammer: _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer<sup>1</sup>__ _adj_ :five::hammer: _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer<sup>2</sup>__ _adv_  
+__sheer<sup>3</sup>__ _v_  
 __sheet rock__ :two:  
 __sheeting__  
 __sheik__ :two: :pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
@@ -8887,9 +8889,8 @@ __toe jam__ _n_ :two::hammer:
 __toe-curling__  
 __toe-poppers__  
 __toe-toppers__  
-__toe__ _v_  
-__toed__ _v_  
-__toehold__ :two: _n_ :four: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
+__toe__ _v_ :two::hammer: (toed)  
+__toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
 __toffs__ _Young toffs._  
 __toil__ _v_ :four::hammer: (toiled) _Each toiled for at least four years in the minors._  
@@ -8904,7 +8905,7 @@ __ton__ _A metric ton._
 __tone-deaf__  
 __tong__  
 __tongue in cheek__ _adj and adverb_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
-__tonsure__ :four::hammer: _The pate of a monk with a wet red tonsure._  
+__tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
 __tony__ _Informal adj_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
 __toodling__  
