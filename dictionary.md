@@ -446,12 +446,10 @@ __afoul__ :two::hammer:
 __aft__  
 __aftereffects__  
 __aftermarket__  
-__afterward__  
-__afterward__  
+__afterward__ :two::hammer:  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
-__agency__ :astonished: _We still have some agency over our situation._  
-__agency__ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
+__agency__ :two::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
 __agendum__  
 __aggravate__ (aggravated) :two::hammer: _v_  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
@@ -1113,8 +1111,7 @@ __blowout__ _n_ :seven::hammer: _Informal_ A lopsided victory or thorough defeat
 __blowsy__  
 __blowtorch__  
 __blowup bed__ _n_  
-__bludgeoned__ _v_  
-__bludgeoned__ _v_  
+__bludgeoned__ _v_ :two::hammer:  
 __blue streak__ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __blue string__  
 __blue-blood__  
@@ -2748,9 +2745,7 @@ __dragnet__
 __drain board__ _n_ :three::hammer: (drainboard)  
 __dramedy__  
 __drape<sup>1</sup>__ _n_ _Silk drape._  
-__drape<sup>2</sup>__ _v_ :four::hammer: (draped, draping)  
-__drape__ _v_  
-__drape__ _v_  
+__drape<sup>2</sup>__ _v_ :six::hammer: (draped, draping)  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
 __draw up__ _v_ :three::hammer:  
 __draw__ _Homeless camps are a draw._  
@@ -3911,13 +3906,9 @@ __grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop 
 __grubbing__ _v_ :two::hammer:  
 __grudge__ _n_ :five::hammer: _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
 __grudges__ _n_  
-__grudging__  
-__grudging__ (grudgingly) :two::hammer:  
-__grudgingly__  
-__grudgingly__  
-__gruel__  
-__gruel__  
-__gruel__ _n_  
+__grudging__ :three::hammer: (grudgingly)  
+__grudgingly__ :two::hammer:  
+__gruel__ _n_ :three::hammer:  
 __grueling__ :three::hammer:  
 __gruelling__  
 __gruff__ :three::hammer:  
@@ -5205,26 +5196,21 @@ __marshmallow__ _n_
 __marshy__  
 __mart__ A place of trade, eg. an auction room or market.  
 __martyr__  
-__martyrdom__  
-__martyrdom__  
+__martyrdom__ :two::hammer:  
 __marzipan__  
 __mascot__ (vs pet)  
-__mash<sup>1</sup>__ _v_ When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it.  
-__mash<sup>2</sup>__ _n_ A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
-__mash__ _n_  
-__mashed potatoes__  
+__mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
+__mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
 __mast__ _n_ _The flag was flown at half mast._  
 __mat__ _I'm not going to the mat for her._  
 __matahara__ Maternity harassment.  
 __matchmaking service__  
 __matchstick__ _n_  
-__matchup__ _n_  
-__matchups__  
+__matchup__ _n_ :two::hammer: (matchups)  
 __materiel__ _n_ Equipment and supplies of a military force.  
 __maternity leave__  
-__matinee__  
-__matinees__  
+__matinee__ _n_ :two::hammer: (matinees)  
 __matriarch__ :two::hammer:  
 __matron__  
 __matsuri__  
@@ -6076,10 +6062,8 @@ __pep__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a l
 __pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
-__perch<sup>1</sup>__ _n_  
+__perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :three::hammer:  
-__perch__  
-__perch__ _His perch for 14 years._  
 __peremptory__  
 __perennial__ :three::hammer:  
 __perfect storm__  
@@ -6265,8 +6249,7 @@ __plead out__
 __plead__ _v_ _Lee is pleading with viewers to watch hthe film with an open mind._  
 __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
 __pledge__ _n_ :two::hammer:  
-__plethora__  
-__plethora__ :two::hammer:  
+__plethora__ :three::hammer:  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
@@ -7255,8 +7238,7 @@ __scenic__
 __scented__  
 __schadenfreude__  
 __schism__ :two::hammer:  
-__schlep__ _v_  
-__schlep__ _v_  
+__schlep__ _v_ :two::hammer:  
 __schlepping__ :two::hammer:  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
 __schlocky__  
@@ -7683,15 +7665,10 @@ __skid marks__
 __skid row__ _His father would take him to a blind pig on skid row._  
 __skid__ _n_ _Informal_ :seven: __a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
-__skim__ _v_  
-__skim__ _v_ _Skim fat from chilled pan juices and finish making gravy._  
+__skim__ _v_ :three::hammer: (skimming) _Skim fat from chilled pan juices and finish making gravy._  
 __skimboard__  
-__skimming__  
-__skimp__ (skimpy) :two: _v_ Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._  
-__skimp__ _v_  
-__skimp__ _v_ _Don't skimp on the turkey._  
-__skimped__ _v_  
-__skimpy__ :two::hammer:  
+__skimp__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
+__skimpy__ :three::hammer:  
 __skin parlor__  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ :two::hammer:  
@@ -7752,8 +7729,8 @@ __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He f
 __slick<sup>2</sup>__ _v_ :two::hammer:  
 __slick<sup>3</sup>__ _adj_ :nine::hammer: _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _They were slick as hell._  
 __slid__ _v_ :two::hammer:  
-__slide__ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
-__slide__ _v_  
+__slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
+__slide<sup>2</sup>__ _v_  
 __slider__ _n_ :three::hammer: _What's up with someone's slider?_  
 __slight__ _n_ :seven::hammer: _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slighted__ _v_ :two::hammer:  
@@ -8497,9 +8474,7 @@ __svelte__ :two::hammer:
 __swadding__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada a un bebé_  
 __swage__ _adj_  
-__swagger__  
-__swagger__ :two::hammer:  
-__swagger__ _v_  
+__swagger__ _v_ :four::hammer:  
 __swain__ _n_ A young male suitor or lover.  
 __swale__  
 __swamp__ _n_ :two: __1__ __a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
@@ -8509,8 +8484,7 @@ __swan song__
 __swank__  
 __swanky__ _Swanky dinner._  
 __swap__ _n_  
-__sward__  
-__sward__ _n_  
+__sward__ _n_ :two::hammer:  
 __swarthiness__  
 __swarthy__ :two::hammer: _Swarthy skin._  
 __swashbuckling__ _n_ :two::hammer:  
@@ -9566,19 +9540,16 @@ __whirred__ _v_
 __whirring__ _v_  
 __whisk broom__  
 __whisk out__ _v_  
-__whisk__ _v_  
-__whisk__ _v_ :nine::hammer: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
+__whisk__ _v_ :nine::m::hammer: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
 __whiskers__  
 __whistle-blower__  
 __white elephant__ (?)  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
 __whiteout__  
-__whitewash__  
-__whitewash__ _v_  
+__whitewash__ _v_ :two::hammer:  
 __whithered__  
-__whittle down__ _v_ :two::hammer: _The overwhelming advantage has been whittled down._  
-__whittle__ _v_ :five::hammer: (whittled, whittling)  
+__whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizzing__  
 __whodunit__  
 __whole milk__  
@@ -9647,8 +9618,7 @@ __wire book stand__
 __wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
 __wire-rimmed__ _Wire-rimmed glasses._  
 __wire-to-wire__ :three: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
-__wiry__ _He's wiry, strong and fast._  
-__wiry__ _adj_  
+__wiry__ _adj_ :two::hammer: _He's wiry, strong and fast._  
 __wisdom tooth__  
 __wisecracks__  
 __wish list__ _The community's wish list._  
@@ -9726,13 +9696,8 @@ __wriggle__
 __wriggling__  
 __wring out__ _She finished wringing out the jeans and shut off the water._  
 __wringer__ :two::hammer: _Run through the wringer._  
-__wringing__  
-__wringing__  
-__wringing__ _The Feds just keeps wr8nging its hands._  
-__wringing__ _v_  
-__wrinkle__  
-__wrinkled__ _v_  
-__wrinkling__  
+__wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
+__wrinkle__ _v_ :three::hammer: (wrinkled, wrinkling)  
 __writ__  
 __write off__ _v_ _Don't write off Tiger just yet._  
 __write up__ _v_ :two::hammer:  
