@@ -21,6 +21,9 @@ number_of_entries_with_too_many_double_spaces = 0
 number_of_entries_with_triple_spaces = 0
 
 def valid_entry_ending(entry):
+    """
+    Self-explanatory
+    """
     valid = entry.endswith('  ')
     return valid
 
@@ -113,7 +116,7 @@ def check_dictionary_entries():
     number_of_entries_with_wrong_part_of_speech = 0
 
     for line in input_file:
-        entry = line.replace('\n','')
+        entry = line.replace('\n', '')
         if not valid_entry_ending(entry):
             treat_invalid_entry_ending(entry)
         if entry.count('  ') > 2:
@@ -136,17 +139,21 @@ def check_dictionary_entries():
     input_file.close()
     global number_of_entries_with_invalid_ending
     global number_of_entries_with_tag_shit
-    succeeded = bool(number_of_entries_with_invalid_ending + number_of_entries_with_tag_shit + number_of_entries_with_wrong_part_of_speech == 0)
+    succeeded = bool(number_of_entries_with_invalid_ending \
+        + number_of_entries_with_tag_shit \
+        + number_of_entries_with_wrong_part_of_speech == 0)
     if succeeded:
         print OKGREEN + 'No entries-related problems were found in file \'' + filename + '\'' + ENDC
     else:
         print '\nSummary of issues found'
-        print '-----------------------'        
+        print '-----------------------'
         print_colored('Entries with invalid ending', number_of_entries_with_invalid_ending)
         print_colored('Entries with triple spaces', number_of_entries_with_triple_spaces)
-        print_colored('Entries with too many double spaces', number_of_entries_with_too_many_double_spaces)
+        print_colored('Entries with too many double spaces', \
+            number_of_entries_with_too_many_double_spaces)
         print_colored('Entries with tag :shit:', number_of_entries_with_tag_shit)
-        print_colored('Entries with wrong part of speech', number_of_entries_with_wrong_part_of_speech)
+        print_colored('Entries with wrong part of speech', \
+            number_of_entries_with_wrong_part_of_speech)
     print
     return succeeded
 
@@ -158,11 +165,11 @@ def check_dictionary_duplicated_headwords():
     dictionary = {}
 
     for line in input_file:
-        entry = line.replace('\n','')
+        entry = line.replace('\n', '')
         tokens = entry.split()
         do_print = False
         headword, idx = get_headword_and_next_token_index(tokens, do_print)
-        if (dictionary.get(headword) == 1):
+        if dictionary.get(headword) == 1:
             repeated[headword] = 1
         dictionary[headword] = 1
 
@@ -188,7 +195,7 @@ def check_dictionary_undefined_high_frequency_keywords():
     undefined = {}
 
     for line in input_file:
-        entry = line.replace('\n','')
+        entry = line.replace('\n', '')
         if entry_contains_tag_of_high_number(entry):
             if entry_contains_tag_hammer(entry):
                 tokens = entry.split()
