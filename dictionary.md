@@ -2121,8 +2121,7 @@ __craftman__
 __crafts__ :two::hammer:  
 __crafty__  
 __cragginess__  
-__craggy__  
-__craggy__  
+__craggy__ :two::hammer:  
 __cram__ _v_ :nine::hammer: (crammed, cramming) _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
 __cramp__ _n_ :two::hammer:  
 __cramped__ _v_ :two::hammer:  
@@ -2183,20 +2182,15 @@ __critique__ _v_
 __critters__ _n_ :three::hammer: _Garden critters._  
 __croak__ _v_  
 __croaked__  
-__crochet__  
-__crochet__ _v_ :three::hammer: (crocheting)  
+__crochet__ _v_ :four::hammer: (crocheting)  
 __crock__  
 __croft__ _n_ :two::hammer::pencil2:  
 __crone__ _n_ :three: A witchlike old woman.  
-__cronies__  
-__cronies__ _n_ :three::hammer: _Military cronies._  
-__crony__  
-__crony__  
+__cronies__ _n_ :four::hammer: _Military cronies._  
+__crony__ :two::hammer:  
 __cronyism__ _n_ :dart::five: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
-__crook__ _n_  
-__crooked__  
-__crooked__ _Crooked media._  
-__crooks__ _n_ _They carried long crooks._  
+__crook__ _n_ :two::hammer: (crooks) _They carried long crooks._  
+__crooked__ :two::hammer: _Crooked media._  
 __crop-duster__ _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
 __cross (oneself)__ :es: santiguarse  
@@ -2442,21 +2436,17 @@ __dent__ (denting) :three: _v_ __1__ Mark with a dent. _He hit a concrete bollar
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
-__deposition__  
-__deposition__ _n_  
+__deposition__ _n_ :two::hammer:  
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
 __derail__ _v_  
 __deranged__ :two::hammer: _A deranged man._  
-__derelict__  
-__derelict__ _adj_  
+__derelict__ _adj_ :two::hammer:  
 __dereliction__  
 __derision__  
 __derringer__  
 __dervish__ _n_  
-__desecrate__ _v_  
-__desecrate__ _v_  
-__desecrate__ _v_ _Desecrating the flag._  
+__desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
 __desist__ _Desist from the practice of medicine._  
@@ -2468,12 +2458,10 @@ __despondent__ _n_ :four::hammer:
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
-__deterrent__  
-__deterrent__ _n_ :three: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__deterrent__ _n_ :four: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detractor__  
 __devil-may-care style__  
-__deviled eggs__ :camera: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
-__deviled eggs__ :two::hammer:  
+__deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
 __deviltry__  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
@@ -2497,8 +2485,7 @@ __digit__ (finger?)
 __digression__  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dikes__ :pencil2:  
-__dilapidate__ _v_  
-__dilapidate__ _v_ _Dilapidated yatch._  
+__dilapidate__ _v_ :two::hammer: _Dilapidated yatch._  
 __dill__ _A dill pickle._  
 __dill__ _n_  
 __dilutive__  
@@ -2608,10 +2595,7 @@ __do it by the numbers__
 __do-gooder__  
 __docents__  
 __docked__ _v_  
-__docket__  
-__docket__  
-__docket__  
-__docket__ _n_ :two::hammer:  
+__docket__ _n_ :five::hammer:  
 __doctored__ _v_ _A photograph doctored by his aides._  
 __doddering__  
 __dodges__ _n_  
@@ -2664,8 +2648,7 @@ __dote__ _v_ (doted) To show excessive fondness or love: doted on their only chi
 __dotting__  
 __double bill__  
 __double dip__  
-__double down__ _v_  
-__double down__ _v_ :six: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
+__double down__ _v_ :seven: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
 __double take__ _n_ :two::hammer:  
 __double up__ _phrasal v_  To bend suddenly, as in pain or laughter.  
 __double-cross__ _n_  
@@ -2693,9 +2676,7 @@ __downed__ _v_ _Terrorists had downed a Russian plane in October._
 __downers__ :two::hammer:  
 __downhill__ :camera::three::hammer: Simple and easy? _David Bowie dead, and it was all downhill from there._  
 __downline__ _n_  
-__downplay__ _v_  
-__downplay__ _v_  
-__downplayed__ _v_  
+__downplay__ _v_ :three::hammer: (downplayed)  
 __downpour__ _n_ :four::hammer: (downpours) _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::three::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downsides__  
@@ -2706,8 +2687,8 @@ __downward__ _A downward spiral._
 __dowry__ :two::hammer:  
 __doyenne__  
 __doze__ _v_  
-__drab__ _adj_ :four: (drabber jobs) _adj_ Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
-__drab__ _n_  
+__drab<sup>1</sup>__ _adj_ :four: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
+__drab<sup>2</sup>__ _n_  
 __draconian__ :two::hammer:  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag racing__  
@@ -2743,8 +2724,7 @@ __dressing room__ :two::hammer: _(vs fitting room)_
 __dressing__ _It's going to take longer to get to that turkey and dressing._  
 __dribble__ _v_ :es: regatear?  
 __dribbled__ _v_  
-__drifter__  
-__drifter__  
+__drifter__ :two::hammer:  
 __driftwood__ :two::hammer: _Driftwood logs._  
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables."  
@@ -2753,18 +2733,14 @@ __drip-dry__ _Cotton drip-dry._
 __drip-drying__  
 __drive-up__ _Drive-up motels._  
 __drive__ _The drive by Senate Democrats to change the rules._  
-__drivel__  
-__drivel__ _n_  
+__drivel__ _n_ :two::hammer:  
 __drivetrains__  
 __driveway__  
 __drizzle__ :two::hammer:  
 __drizzled__  
 __drizzly__  
 __droit du seigneur__  
-__droll__  
-__droll__  
-__droll__ :two::hammer: _There is room for droll comedy._  
-__droll__ _Droll comic moments._  
+__droll__ _adj_ :four::hammer: _There is room for droll comedy._ _Droll comic moments._  
 __drone__ _The drone of an outboard motor reverberated._  
 __drop by__ _v_  
 __drop in the bucket__  
@@ -2953,8 +2929,7 @@ __engross__ _v_ :two::hammer::dart: (engrossed)
 __engulf__ _v_  
 __enjambments__  
 __enlivened__  
-__enmity__  
-__enmity__ _n_ :five::hammer:  
+__enmity__ _n_ :six::hammer:  
 __enrapture__ _v_ :two: To fill with rapture or delight.  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
@@ -3229,8 +3204,7 @@ __finicky__ :two: shit:
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
 __fink__ _Family man to some, fink to others._  
 __fintech__  
-__fir__  
-__fir__  
+__fir__ :two::hammer:  
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire irons__  
 __fire retardant__  
