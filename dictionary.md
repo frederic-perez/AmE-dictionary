@@ -1720,13 +1720,13 @@ __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :three::hammer: (chipped in)  
+__chip on (someone) shoulders__ _Let's walk into that meeting tomorrow with a chip on our shoulders._  
 __chip on his shoulder__  
 __chip on one's shoulder__  
 __chip shots__ _The golfer was hitting some horrible chip shots._  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
 __chip<sup>2</sup>__ _v_ _We had to chip and be patient._  
-__chip on (someone) shoulders__ _Let's walk into that meeting tomorrow with a chip on our shoulders._  
 __chip__ _v_ :three::hammer: (chipped, chipping)  
 __chipper__  
 __chippies__ :two::hammer:  
@@ -2486,8 +2486,7 @@ __digression__
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dikes__ :pencil2:  
 __dilapidate__ _v_ :two::hammer: _Dilapidated yatch._  
-__dill__ _A dill pickle._  
-__dill__ _n_  
+__dill__ _n_ :two::hammer: _A dill pickle._  
 __dilutive__  
 __dim__ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
 __dime > on the dime__  
@@ -2782,8 +2781,8 @@ __dug__ _n_
 __dugout__ :two::hammer:  
 __dulcet icing__  
 __dulcimers__ _n_  
-__dullard__  
 __dull__ _adj_  
+__dullard__  
 __dully__ _adv_  
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
@@ -3208,9 +3207,7 @@ __fir__ :two::hammer:
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire irons__  
 __fire retardant__  
-__fire sale__  
-__fire sale__  
-__fire sale__  
+__fire sale__ :three::hammer:  
 __firebrand__  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
@@ -3219,8 +3216,7 @@ __firsthand__
 __fissile__ _Fissile material._  
 __fist-pumper__  
 __fit__ :two::hammer:  
-__fitful__  
-__fitful__  
+__fitful__ :two::hammer:  
 __fits__ _The cathedral has been built in fits._  
 __fittingly__ :two::hammer:  
 __fivesomes__  
@@ -3228,8 +3224,7 @@ __fix__ _A quick fix of French fries._
 __fixable__ _A lot of that is fixable._  
 __fixe__ _A $40 prix fixe meal._  
 __fixer-upper__ _Don't be afraid to take on a fixer-upper._  
-__fixture__ _n_ :two::hammer: _A Premier League fixture._  
-__fixture__ _n_ _He had been a fixture and a legend._  
+__fixture__ _n_ :three::hammer: _A Premier League fixture._ _He had been a fixture and a legend._  
 __fizz__ :three::hammer: (fizzing) _Pepsi Strong 5.0 GV has extra fizz._  
 __fizzle__ _v_ :three::hammer: (fizzled)  
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
@@ -3674,8 +3669,7 @@ __glob__ _n_ :four::hammer: _A glob of spit._ _A glob of chicken salad._ _The ca
 __gloom__ _n_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
-__glower__  
-__glower__ _v_ :three::hammer: (glowered, glowering)  
+__glower__ _v_ :four::hammer: (glowered, glowering)  
 __glue > a glue-type player__  
 __glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
 __glut__ _n_ :six: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
@@ -3788,9 +3782,7 @@ __grievously__
 __griff__  
 __grifter__ _n_ :two::hammer:  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
-__grim__  
-__grim__  
-__grim__ _adj_  
+__grim__ _adj_ :three::hammer:  
 __grime__  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
@@ -3812,9 +3804,7 @@ __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness,
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
 __grittier___ _It makes the queso a bit grittier._  
-__gritty__  
-__gritty__  
-__gritty__ _adj_ :six::hammer: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
+__gritty__ _adj_ :eight::hammer: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
 __groan__ _v_ :three::hammer:  
 __grocer__ _n_ :two::hammer:  
@@ -3841,12 +3831,8 @@ __grovel__ _v_
 __groveling__ _v_  
 __growin pains__ _Teams are expecting short-term growing pains._  
 __growing pains__ _n_ :four: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise.  
-__growl__  
-__growl__ _He spoke in a growl._  
-__growl__ _n_  
-__growl__ _v_  
-__growled__ _v_  
-__growling__  
+__growl<sup>1</sup>__ _n_ :two::hammer: _He spoke in a growl._  
+__growl<sup>2</sup>__ _v_ :four::hammer: (growled, growling)  
 __grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
 __grudge__ _n_ :five::hammer: _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
@@ -3858,8 +3844,7 @@ __grueling__ :three::hammer:
 __gruelling__  
 __gruff__ :three::hammer:  
 __gruffly__  
-__grumble__ _v_ :three::hammer:  
-__grumbled__  
+__grumble__ _v_ :four::hammer: (grumbled)  
 __grumbling__  
 __grumblings__  
 __grungy__ :two::hammer:  
@@ -3878,9 +3863,7 @@ __gullible__ _adj_ :four: Naive and easily deceived or tricked.
 __gullies__  
 __gulls__  
 __gully__ _We had a real gully washer in the forenoon._  
-__gulp__  
-__gulp__ _v_  
-__gulp__ _v_ _They gulped their soft drinks._  
+__gulp__ _v_ :three::hammer: _They gulped their soft drinks._  
 __gum stump__  
 __gum tree__  
 __gum up__  
@@ -3910,8 +3893,7 @@ __gusto__
 __gut-bucket__ _A gut-bucket string band._  
 __gut__ _v_ _Trump could gut the agency's budget._  
 __gutsy__  
-__gutter__ _n_  
-__gutter__ _n_ :two::hammer: _He turned his head and spit in the gutter._  
+__gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
 __guzzle__ _v_ :two::hammer: _Guzzling ice water._  
 __guzzler__ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
@@ -4547,17 +4529,14 @@ __jigs__ _n_
 __jigsaw__  
 __jilt__ _Jilted at the altar._  
 __jimmied__ _v_  
-__jingoism__  
-__jingoism__  
-__jingoism__  
+__jingoism__ :three::hammer:  
 __jinks__  
-__jinx__  
-__jinx__ _v_  
+__jinx<sup>1</sup>__ _v_  
+__jinx<sup>2</sup>__ _n_  
 __jitters__ _n_  
 __jittery__ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
-__jive__  
-__jive__ _This guy is jive._  
-__jiving__ _v_ _I know when you're shuckin' and jivin' me._  
+__jive<sup>1</sup>__ _v_ :two::hammer: (jiving) _I know when you're shuckin' and jivin' me._  
+__jive<sup>2</sup>__ _n_ _This guy is jive._  
 __job opening__  
 __jobbing__ _v_  
 __jobless coverage__ _Jobless coverage expired for 2 million people._  
@@ -4587,8 +4566,7 @@ __jowly__
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
-__juggernaut__ _Jinx-killing juggernaut._  
-__juggernaut__ _n_ :seven::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one.  
+__juggernaut__ _n_ :eight::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice boxes__ :camera:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::hammer:  
@@ -4636,8 +4614,7 @@ __kerkuffles__
 __keseboy__  
 __key up__ _He was too keyed up._  
 __keystrokes__  
-__khakis__  
-__khakis__ _n_  
+__khakis__ _n_ :two::hammer:  
 __kibbutz__  
 __kibitz__ _v_  
 __kick board__ _n_ (swimming) :camera:  
@@ -4656,8 +4633,7 @@ __kill__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._
 __killer bees__  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
-__kindergarten__  
-__kindergarten__ _n_ :pencil2: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
+__kindergarten__ _n_ :pencil2::two: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
 __kindergartner__ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
@@ -4798,16 +4774,13 @@ __lb.__ _Sold in pkgs. of 3 lbs. or more._
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
 __leaden__  
-__leadoff__  
-__leadoff__ _n_  
+__leadoff__ _n_ :two::hammer:  
 __leaf mold__  
 __leafy__  
 __lean and mean__ _Companies are running lean and mean these days._  
 __lean protein__  
-__lean__  
-__lean__ _He is lean fast._  
-__lean__ _Lean food._  
-__lean__ _adj_ _A lean face._  
+__lean<sup>1</sup>__ _adj_ :three::hammer: _He is lean fast._ _Lean food._ _A lean face._  
+__lean<sup>2</sup>__ _v_  
 __leap day__  
 __leap year__  
 __leapfrogging__ _v_  
@@ -4819,8 +4792,7 @@ __leaven__ _To leaven the raunch and swagger._
 __leavings__ _n_  
 __lecher__  
 __lectern__  
-__ledge__  
-__ledge__ _Adam turned and sat on the ledge._  
+__ledge__ :two::hammer: _Adam turned and sat on the ledge._  
 __ledger__ _n_ :four::hammer: _A heavy account ledger._  
 __lee__ _In the lee of the wagon._  
 __leech__ _n_ :four::hammer:  
@@ -5003,8 +4975,7 @@ __low-key__
 __low-slung__ _Low-slung school._  
 __lowbrow__  
 __lowdown__ _n_ _Slang_ The whole truth: _gave us the lowdown on what happened at the party._  
-__lowing__  
-__lowing__ _v_  
+__lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__  
 __lowlights__  
