@@ -67,6 +67,12 @@ def entry_contains_tag_of_number(entry):
         or entry.find(':five:') > -1 \
         or entry.find(':four:') > -1
 
+def entry_contains_tag_of_high_number(entry):
+    return entry.find(':nine:') > -1
+
+def entry_contains_tag_hammer(entry):
+    return entry.find(':hammer:') > -1
+
 def get_headword_and_next_token_index(tokens, do_print=False):
     NUM_TOKENS = len(tokens)
     headword = tokens[0]
@@ -144,7 +150,7 @@ def check_dictionary_entries():
     print
     return succeeded
 
-def check_dictionary_duplicates():
+def check_dictionary_duplicated_headwords():
     filename = 'dictionary.md'
     input_file = open(filename, 'r')
 
@@ -165,7 +171,7 @@ def check_dictionary_duplicates():
     N = len(repeated)
     if N > 0:
         repeated_sorted = sorted(repeated)
-        print 'Duplicated keywords (N=' + str(N) + ') include (sorted alphabetically):'
+        print 'Found ' + str(N) + ' duplicated headwords, the very first being:'
         i = 0
         for headword in repeated_sorted:
             print '  ' + FAIL + headword + ENDC
@@ -175,15 +181,48 @@ def check_dictionary_duplicates():
     else:
         print OKGREEN + 'No duplicated headwords were found' + ENDC
 
+def check_dictionary_undefined_high_frequency_keywords():
+    filename = 'dictionary.md'
+    input_file = open(filename, 'r')
+
+    undefined = {}
+
+    for line in input_file:
+        entry = line.replace('\n','')
+        if entry_contains_tag_of_high_number(entry):
+            if entry_contains_tag_hammer(entry):
+                tokens = entry.split()
+                do_print = False
+                headword, idx = get_headword_and_next_token_index(tokens, do_print)
+                undefined[headword] = 1
+
+    input_file.close()
+
+    N = len(undefined)
+    if N > 0:
+        undefined_sorted = sorted(undefined)
+        print 'Found ' + str(N) + ' undefined high frequency headwords, the very first being:'
+        i = 0
+        for headword in undefined_sorted:
+            print '  ' + FAIL + headword + ENDC
+            i += 1
+            if i == 10:
+                break
+    else:
+        print OKGREEN + 'No undefined high frequency headwords were found' + ENDC
+
 def use_random(number):
     "This is a WIP function"
     # We should sort the words to study randomly--in other words, shuffle them
     if number > 0:
-        print '\nRandom integer between 1 and', number, ":",
+        print 'Random integer between 1 and', number, ":",
         print random.randint(1, number)
     else:
-        print '\nInput number =', number, 'is not positive'
+        print 'Input number =', number, 'is not positive'
 
 check_dictionary_entries()
-check_dictionary_duplicates()
+check_dictionary_duplicated_headwords()
+print
+check_dictionary_undefined_high_frequency_keywords()
+print
 use_random(100)
