@@ -1025,8 +1025,7 @@ __bishop's benches__
 __bitch__ _n_ :two::hammer: :es: perra  
 __bitingly__  
 __bivouac__ :pencil2:  
-__biz__ _Hot biz model._  
-__biz__ _n_  
+__biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black gold__  
 __black powder__  
@@ -1070,8 +1069,7 @@ __blimp__ :two::hammer: _A blimp hangar._
 __blind date__  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
 __blindside<sup>2</sup>__ _v_ To catch off guard; to take by surprise.  
-__bling__  
-__bling__ _n_ :two::hammer:  
+__bling__ _n_ :three::hammer:  
 __blink__ _v_ _There is no reason to blink._  
 __blip__ :three::hammer: _Fun cars are a blip._  
 __blips__ _n_ _Put the blips and bumps in proper proportion._  
@@ -1140,9 +1138,8 @@ __bobby socks__
 __bod__ :two::hammer:  
 __bodacious__  
 __bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
-__bog__ _n_  
-__bog__ _n_ :two::hammer:  
-__bog__ _v_  
+__bog<sup>1</sup>__ _n_ :three::hammer:  
+__bog<sup>2</sup>__ _v_  
 __boggles__ _v_  
 __bogs__  
 __boil__ _n_ _An ugly purple boil on the right cheek of his arse._  
@@ -1257,9 +1254,7 @@ __brazen__ _adj_ :three: With brazen disregard for the sign that said "no cellph
 __brazenly__ :two::hammer:  
 __brazer__  
 __brazier__  
-__breach__ _v_  
-__breach__ _v_ :two::hammer:  
-__breached__  
+__breach__ _v_ :four::hammer: (breached)  
 __breadcrumbs__ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break wind__ _v_  
 __break-the-china__  
@@ -1291,8 +1286,7 @@ __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersbur
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __briny__ _adj_  
-__brisk__  
-__brisk__ :two::hammer: _Brisk pace._  
+__brisk__ :three::hammer: _Brisk pace._  
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
@@ -1306,8 +1300,7 @@ __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't f
 __broadsided__  
 __brocade__  
 __brogue__ _n_ :two::hammer:  
-__broil__ _v_  
-__broil__ _v_  
+__broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
 __broken English__ :two::dart:  
 __broken accent__  
@@ -1404,8 +1397,7 @@ __buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top
 __buoyed__  
 __burgeoning__ _adj_ :five::hammer:  
 __burgermeister__  
-__burgundy__  
-__burgundy__ _Burgundy outfit._  
+__burgundy__ :two::hammer: _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :three::hammer:  
 __burly__ _adj_ :seven::hammer: _A burly man._  
@@ -1523,8 +1515,7 @@ __camper shell__
 __camper__ :two::hammer:  
 __campers__ _Cars, trailers, boats & campers $45/month._  
 __campground__ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
-__camphor__  
-__camphor__ _n_  
+__camphor__ _n_ :two::hammer:  
 __campier__ _Campier presentations._  
 __campiest__ _Birdcage was probably Nichol's campiest comedy._  
 __campiness__ _Showbiz campiness._  
@@ -1533,9 +1524,7 @@ __campy__ _A campy biopic._
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __cane brakes__  
 __canebrake__ _n_  
-__canister__  
-__canister__  
-__canister__ :two::hammer: _Organic coffee canisters._  
+__canister__ _n_ :four::hammer: _Organic coffee canisters._  
 __cannolis__  
 __cantankerous__  
 __cantata__  
@@ -1605,8 +1594,8 @@ __casket__
 __cassocks__ _n_  
 __cast a pall__  
 __cast-iron__  
-__cast__ _Votes cast._  
-__cast__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
+__cast<sup>1</sup>__ _v_ _Votes cast._  
+__cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
 __castigation__ _n_  
 __castoff__ _n_  
 __casualties__  
@@ -1737,7 +1726,7 @@ __chip shots__ _The golfer was hitting some horrible chip shots._
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
 __chip<sup>2</sup>__ _v_ _We had to chip and be patient._  
-__chip__ _Let's walk into that meeting tomorrow with a chip on our shoulders._  
+__chip on (someone) shoulders__ _Let's walk into that meeting tomorrow with a chip on our shoulders._  
 __chip__ _v_ :three::hammer: (chipped, chipping)  
 __chipper__  
 __chippies__ :two::hammer:  
@@ -1804,8 +1793,8 @@ __class act__ _She was a class act through and through._
 __class action__  
 __clatter__ _n_  
 __claw back__ _v_  
-__claw__  
-__claw__ _v_  
+__claw<sup>1</sup>__ _n_  
+__claw<sup>2</sup>__ _v_  
 __clawback__  
 __clawed__ _v_  
 __clean his clock__  
@@ -1829,8 +1818,7 @@ __clicking__ _Things seem to be making sense and clicking._
 __clinch__ _v_ :nine::m: (clinched) Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
 __clincher__ _n_ :two::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
-__clinics__ _Wang conducted hockey clinics through an initiativee called Project Horse._  
-__clinics__ _n_  
+__clinics__ _n_ :two::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _A better newspaper clip._  
 __clipped grass__  
 __clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. _:es: camarilla_  
@@ -1841,8 +1829,7 @@ __clobbering__
 __clock him__  
 __clock in__ _v_  
 __clock__ _v_ _He was clocked at 95 mph in a 55-mph construction zone._  
-__clod__ :three::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
-__clod__ _n_  
+__clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __close > not even close__  
 __close call__  
 __closely__ _Obama's words are being watched closely by world leaders._  
@@ -1881,16 +1868,14 @@ __cobweb__ _n_ :four::hammer: (cobwebs)
 __cockerel__  
 __cocoon__ _n_  
 __coda__ _n_  
-__coddled__ _A coddled creature._  
-__coddled__ _v_ :two::hammer:  
+__coddled__ _v_ :three::hammer: _A coddled creature._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerced__  
 __coffee-table book__  
 __coffers__ _n_ :five::hammer: _San Francisco city coffers._ _State's coffers._  
 __cog__ _n_ :six: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cognizant__  
-__cohesive__  
-__cohesive__ :dart: _A more cohesive layout._  
+__cohesive__ :dart::two::hammer: _A more cohesive layout._  
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__  
@@ -1951,13 +1936,11 @@ __composting__ _There's a brown bin for organic waste, which goes for composting
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__  _Compounding the situation._  
 __comps__ _n_ (Competitors?)  
-__comptroller__  
-__comptroller__ _n_ :two: Variant of controller, used esp as a title of any of various financial executives.  
+__comptroller__ _n_ :three: Variant of controller, used esp as a title of any of various financial executives.  
 __compulsory school__  
 __compulsory__ _A compulsory Third World condition._  
 __compurgator__ _n_  
-__con artist__  
-__con artist__ :three::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
+__con artist__ _n_ _informal_ :four::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
 __con<sup>1</sup>__ _n_ :two::hammer: _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :two::hammer:  
@@ -2058,9 +2041,7 @@ __copper-bottom hit__
 __coppice__ _n_  
 __copping__ _v_ :two::hammer: _You're copping to a murder beef._  
 __cops and robbers__ (play)  
-__copse__  
-__copse__  
-__copse__ _A brushy copse._  
+__copse__ :three::hammer: _A brushy copse._  
 __copter__ _Navi copter._  
 __coracle__  
 __cord blood__  
@@ -2075,8 +2056,7 @@ __cork sun helmet__ :two: Pith helmet.
 __corn fritters__  
 __cornstarch__  
 __coronet__ _n_  
-__corps__ _An inconsistent running back corps._  
-__corps__ _n_ :two::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._  
+__corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
 __corral__ _v_  
 __corralled__ _v_  
