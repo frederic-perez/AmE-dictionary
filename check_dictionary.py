@@ -49,28 +49,28 @@ class Checker(object):
     def __init__(self, filename):
         self.filename = filename
         self.num_composite_headwords = 0
-        self.num_entries_with_invalid_ending = 0
-        self.num_entries_with_tag_shit = 0
-        self.num_entries_with_too_many_double_spaces = 0
+        self.num_invalid_endings = 0
+        self.num_tag_shit = 0
+        self.num_too_many_double_spaces = 0
         self.num_entries_with_triple_spaces = 0
 
     def treat_invalid_entry_ending(self, entry):
         """Self-explanatory"""
-        self.num_entries_with_invalid_ending += 1
+        self.num_invalid_endings += 1
         tokens = entry.split()
         headword = tokens[0]
         print headword + ' ' + FAIL + ' <<< Incorrect entry ending #' \
-            + str(self.num_entries_with_invalid_ending) + ENDC
+            + str(self.num_invalid_endings) + ENDC
 
     def treat_too_many_double_spaces(self, entry):
         """Self-explanatory"""
-        self.num_entries_with_too_many_double_spaces += 1
+        self.num_too_many_double_spaces += 1
         tokens = entry.split()
         headword = tokens[0]
         part_of_speech = tokens[1]
         print headword + ' ' + part_of_speech + FAIL \
             + ' <<< Too many double spaces #' \
-            + str(self.num_entries_with_too_many_double_spaces) + ENDC
+            + str(self.num_too_many_double_spaces) + ENDC
 
     def treat_triple_spaces(self, entry):
         """Self-explanatory"""
@@ -82,7 +82,7 @@ class Checker(object):
 
     def treat_shit_tag(self, entry):
         """Self-explanatory"""
-        self.num_entries_with_tag_shit += 1
+        self.num_tag_shit += 1
         tokens = entry.split()
         headword = tokens[0]
         part_of_speech = tokens[1]
@@ -111,14 +111,14 @@ class Checker(object):
                     + str(self.num_composite_headwords) + ENDC
         return headword, idx
 
-    def check_dictionary_entries(self):
+    def check_entries(self):
         """Looking for mistakes in the entries of the dictionary
 
         Reads the contents of self.dictionary searching for :shit:,
         or :nine: without part of the speech defined
         """
         input_file = open(self.filename, 'r')
-        num_entries_with_wrong_part_of_speech = 0
+        num_wrong_part_of_speech = 0
 
         for line in input_file:
             entry = line.replace('\n', '')
@@ -136,32 +136,32 @@ class Checker(object):
                 headword, idx = self.get_headword_and_next_token_idx(tokens, do_print)
                 part_of_speech = tokens[idx]
                 if part_of_speech.find('_') == -1:
-                    num_entries_with_wrong_part_of_speech += 1
+                    num_wrong_part_of_speech += 1
                     print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
                         + ' <<< Wrong part of speech #' \
-                        + str(num_entries_with_wrong_part_of_speech)
+                        + str(num_wrong_part_of_speech)
 
         input_file.close()
-        succeeded = bool(self.num_entries_with_invalid_ending \
-            + self.num_entries_with_tag_shit \
-            + num_entries_with_wrong_part_of_speech == 0)
+        succeeded = bool(self.num_invalid_endings \
+            + self.num_tag_shit \
+            + num_wrong_part_of_speech == 0)
         if succeeded:
             print OKGREEN + 'No entries-related problems were found in file \'' \
                 + self.filename + '\'' + ENDC
         else:
             print '\nSummary of issues found'
             print '-----------------------'
-            print_colored('Entries with invalid ending', self.num_entries_with_invalid_ending)
+            print_colored('Entries with invalid ending', self.num_invalid_endings)
             print_colored('Entries with triple spaces', self.num_entries_with_triple_spaces)
             print_colored('Entries with too many double spaces', \
-                self.num_entries_with_too_many_double_spaces)
-            print_colored('Entries with tag :shit:', self.num_entries_with_tag_shit)
+                self.num_too_many_double_spaces)
+            print_colored('Entries with tag :shit:', self.num_tag_shit)
             print_colored('Entries with wrong part of speech', \
-                num_entries_with_wrong_part_of_speech)
+                num_wrong_part_of_speech)
         print
         return succeeded
 
-    def check_dictionary_duplicated_headwords(self):
+    def check_duplicated_headwords(self):
         """Self-explanatory"""
         input_file = open(self.filename, 'r')
 
@@ -172,7 +172,7 @@ class Checker(object):
             entry = line.replace('\n', '')
             tokens = entry.split()
             do_print = False
-            headword, idx = self.get_headword_and_next_token_idx(tokens, do_print)
+            headword, _ = self.get_headword_and_next_token_idx(tokens, do_print)
             if dictionary.get(headword) == 1:
                 repeated[headword] = 1
             dictionary[headword] = 1
@@ -192,7 +192,7 @@ class Checker(object):
         else:
             print OKGREEN + 'No duplicated headwords were found' + ENDC
 
-    def check_dictionary_undefined_high_frequency_keywords(self):
+    def check_undef_high_freq_keywords(self):
         """Self-explanatory"""
         input_file = open(self.filename, 'r')
 
@@ -204,7 +204,7 @@ class Checker(object):
                 if entry_has_tag_hammer(entry):
                     tokens = entry.split()
                     do_print = False
-                    headword, idx = self.get_headword_and_next_token_idx(tokens, do_print)
+                    headword, _ = self.get_headword_and_next_token_idx(tokens, do_print)
                     undefined[headword] = 1
 
         input_file.close()
@@ -233,10 +233,10 @@ def use_random(number):
         print 'Input number =', number, 'is not positive'
 
 CHECKER = Checker('dictionary.md')
-CHECKER.check_dictionary_entries()
-CHECKER.check_dictionary_duplicated_headwords()
+CHECKER.check_entries()
+CHECKER.check_duplicated_headwords()
 print
-CHECKER.check_dictionary_undefined_high_frequency_keywords()
+CHECKER.check_undef_high_freq_keywords()
 print
 
 use_random(100)
