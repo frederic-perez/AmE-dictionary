@@ -5127,8 +5127,8 @@ __marshland__ :two::hammer:
 __marshmallow__ _n_  
 __marshy__  
 __mart__ A place of trade, eg. an auction room or market.  
-__martyr__  
-__martyr__ _v_  
+__martyr<sup>1</sup>__ _n_ :pencil2:  
+__martyr<sup>2</sup>__ _v_  
 __martyrdom__ :two::hammer:  
 __marzipan__  
 __mascot__ (vs pet)  
@@ -5335,14 +5335,12 @@ __moody__ :two::hammer:
 __moon roof__  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
 __moonshine<sup>2</sup>__ _v_  
-__moonshot__ _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_  
-__moonshot__ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
+__moonshot__ :two: _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
 __moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :five: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __mooted__ :two::hammer: _A mooted rebellion._  
-__mope__ _v_  
-__mope__ _v_ :pencil2:  
+__mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
 __mopping up__  
 __morasses__ _Morasses of salt._  
@@ -5415,9 +5413,7 @@ __mulligan__ _n_
 __mulling__ _v_ :three:hammer:  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumps__  
-__munch__ _v_  
-__munches__  
-__munches__ _v_  
+__munch__ _v_ :three:hammer: (munches)  
 __mundane__  
 __muriatic__  
 __muscling__ _v_  
@@ -5476,9 +5472,7 @@ __nattering__
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
-__naturalize__ _A naturalized British citizen._  
-__naturalized__ _A naturalized American citizen._  
-__naturalized__ _A naturalized American citizen._  
+__naturalized__ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
 __navel__ :two::hammer:  
 __naysayer__ _n_  
@@ -5537,8 +5531,7 @@ __nitty gritty__
 __no early birds!__ (?)  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
-__no strings attached__  
-__no strings attached__ _The goodwill compensation comes with no strings attached._  
+__no strings attached__ :two::hammer: _The goodwill compensation comes with no strings attached._  
 __no-holds-barred__  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -5722,19 +5715,15 @@ __out of sorts__ :three: __1__ Somewhat ill. __2__ Grouching; irritable.
 __out of the woods__  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
-__outbreak__ _n_  
-__outbreak__ _n_  
-__outbreaks__  
-__outburst__  
-__outburst__ _n_  
+__outbreak__ _n_ :three::hammer: (outbreaks)  
+__outburst__ _n_ :two::hammer:  
 __outcast__ _n_  
 __outcroppings__  
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdoor__ _8 pork sausages from British outdoor bred pigs (454g)._  
 __outfield__ _(baseball)_  
-__outfit__  
-__outfit__ _v_  
-__outfits__ _n_  
+__outfit<sup>1</sup>__ _n_ :two::hammer: (outfits)  
+__outfit<sup>2</sup>__ _v_  
 __outfitter__  
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
@@ -5834,8 +5823,7 @@ __palled__ _v_
 __pallet__ _n_ :nine::m::hammer: (pallets) _Rob rented a pallet._ _Sleeping pallets._  
 __pallholder__ _n_  
 __palliative__ _Palliative care._  
-__pallor__ _n_  
-__pallor__ _n_  
+__pallor__ _n_ :two::hammer:  
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
@@ -5866,8 +5854,7 @@ __pappy__
 __paragon__  
 __paragons__ _n_  
 __paralyzed__ _v_ :pencil2:  
-__paraphernalia__  
-__paraphernalia__ :pencil2::two::hammer: _Star Wars paraphernalia._  
+__paraphernalia__ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :three::hammer: _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
@@ -5936,14 +5923,12 @@ __pavilions__
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
 __payback__  
-__paydirt__  
-__paydirt__  
+__paydirt__ :two::hammer:  
 __payoffs__ _n_  
 __paywalls__  
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
-__peal<sup>2</sup>__ _v_ _Pealing bells._  
-__peal__ _v_ _The bells of Notre Dame pealed._  
+__peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame pealed._  
 __pear martinis__  
 __pearl onions__  
 __peat__ :two::hammer: _Battling the blazes in peat swamp forests._  
@@ -6001,8 +5986,7 @@ __periwinkles__
 __perjury__ :two::hammer:  
 __perk__ _v_ _The mint perks everything up._  
 __perks__  
-__permafrost__  
-__permafrost__  
+__permafrost__ :two::hammer:  
 __permed__  
 __permit__ _Camping permit fee._  
 __pernicious__  
@@ -6022,14 +6006,12 @@ __petroglyphs__ _Ancient Indian petroglyph._
 __petroleum jelly__  
 __petted__  
 __petulance__  
-__petulant__  
-__petulant__  
+__petulant__ :two::hammer:  
 __pew__ _Church pews._  
 __pewter__  
 __phalanx__ :two::hammer:  
 __phase out__  
-__phenom__  
-__phenom__ :two::hammer:  
+__phenom__ :three::hammer:  
 __philanderer__  
 __philandering__  
 __philtre__  
@@ -6075,18 +6057,15 @@ __pillbox hat__ :two::hammer:
 __pillbox__ _A plum-colored pillbox hat._  
 __pin-curled__  
 __pin-drop silence__  
-__pin__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
-__pin__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
+__pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
+__pin<sup>2</sup>__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
 __pinafore__  
 __pincers__ _n_  
 __pinch > in a pinch__  
 __pinch-faced__  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ _School could face budget pinch._  
-__pinch<sup>2</sup>__ _v_ :three::hammer: (pinched) _He smoked his cigarettes down to pinched ends._  
-__pinch__ (:es: pellizco?)  
-__pinched shut__  
-__pinched__ _v_  
+__pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
 __pincushion__  
 __pined__ _v_ :two::hammer: _It was only in movies that people pined for the dead._  
 __ping__ _v_ _Pinging with heat._  
@@ -6205,8 +6184,7 @@ __plum__ _n_ :three::hammer: _Plum-and-onion stuffing._
 __plumb__ _v_ :two::hammer:  
 __plummeted__ _v_ :three::hammer: (plummeting)  
 __plump__ _Plump and juicy hotdogs._  
-__plums__ _n_  
-__plums__ _n_ :two::hammer:  
+__plums__ _n_ :three::hammer:  
 __plunder__ :two::hammer:  
 __plundered__  
 __plush__ _adj_ :five: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
@@ -6491,8 +6469,7 @@ __purloined__ _A purloined Indian blanket._
 __purple__ _A hint of purple._  
 __purport__ _v_  
 __purported__ _v_ :four::hammer: _The purported attack._ _JFK's purported affairs._  
-__purportedly__  
-__purportedly__  
+__purportedly__ :two::hammer:  
 __purr__  
 __purse__ _v_ _His lips pursed._  
 __purslane__ _n_ :four::hammer:  
@@ -6602,8 +6579,7 @@ __rainout__
 __raise eyebrows__  
 __raked over the coals__  
 __raking__ _v_  
-__rakish__  
-__rakish__  
+__rakish__ :two::hammer:  
 __rally<sup>1</sup>__ _v_ :nine::m::hammer: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._ :es: manifestarse?  
 __rally<sup>2</sup>__ _n_  
 __rally__ (stock market)  
@@ -6612,8 +6588,7 @@ __ramble__ _v_
 __rambler__ :three::hammer:  
 __ramblers__ _n_  
 __rambling__ _v_ :four::hammer:  
-__rambunctious__  
-__rambunctious__ :two::hammer:  
+__rambunctious__ :three::hammer:  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __rammed__ _v_  
