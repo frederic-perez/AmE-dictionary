@@ -939,7 +939,7 @@ __belt out__
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, "We are tired!"_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
-__bemoan__ _v_ :nine::m::hammer: (bemoaned, bemoaning)  
+__bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemused__ :two::hammer:  
 __bench__ _Snow will dust the benches and valleys._  
 __benchmark__ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
@@ -1367,7 +1367,7 @@ __bullhorn__ :two::hammer:
 __bullion__  
 __bullpen__ _n_  
 __bullwhip__  
-__bulwark__ _n_ :nine::hammer: _Acting as a bulwark against mass deportations._  
+__bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ :three::hammer: _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bumblebees__  
@@ -1556,7 +1556,7 @@ __caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large cour
 __carbuncle__ _n_  
 __cardiac arrest__  
 __cardinal__ _Breaking cardinal rules of marketing._  
-__careen__ _v_ :nine::m::hammer::camera: (careens, careened, careening) _An open-air tour bus careened wildly out of control._  
+__careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ (nautical) To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ (nautical) To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __caresses__ _v_  
 __caretaker__ :two::hammer: _A caretaker government._  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
@@ -1855,7 +1855,7 @@ __clutch<sup>1</sup>__ _n_ :two::hammer: _He was a dominant player in the clutch
 __clutch<sup>2</sup>__ _v_ :two::hammer: _Butler and Wade were both clutch._  
 __clutching__  
 __clyster__ _n_ :two::hammer: (clysters)  
-__co-op__ _n_ :nine::hammer: _The co-op received loans of $73 million._ _Co-op spokeswoman._  
+__co-op__ _n_ :nine: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
 __co-opted__ _v_  
 __coach cabin__ _A standard coach cabin._  
 __coach__ _You're flying coach._  
@@ -4157,7 +4157,7 @@ __ho__
 __hoagie__  
 __hoarsely__  
 __hoary__ :two::hammer:  
-__hobble__ _v_ :nine::hammer: (hobbled) _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
+__hobble__ _v_ :nine: (hobbled) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
 __hobnailed__ :two::hammer: _v_ _Hobnailed boots._  
 __hobnails__  
 __hock__ _n_ :two::hammer: (hocks) _The horse struggled to stand on a broken hock._  
