@@ -6,6 +6,7 @@ import random # WIP
 #
 HEADER = '\033[95m'
 OKBLUE = '\033[94m'
+OKCYAN = '\033[96m'
 OKGREEN = '\033[92m'
 WARNING = '\033[93m'
 GRAY = '\033[90m'
@@ -111,7 +112,8 @@ class Checker(object):
         if idx > 1:
             self.num_composite_headwords += 1
             if do_print:
-                print OKBLUE + headword + GRAY + ' <<< Composite headword #' \
+                print OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
+                    + ' <<< Composite headword #' \
                     + str(self.num_composite_headwords) + ENDC
         return headword, part_of_speech
 
@@ -222,7 +224,7 @@ class Checker(object):
                 + ' undefined high frequency headwords, the very first being:'
             i = 0
             for headword in undefined_sorted:
-                print '  ' + FAIL + headword + ' ' + undefined[headword] + ENDC
+                print '  ' + FAIL + headword + ' ' + OKCYAN + undefined[headword] + ENDC
                 i += 1
                 if i == 10:
                     break
