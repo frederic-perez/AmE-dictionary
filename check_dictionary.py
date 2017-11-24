@@ -144,6 +144,8 @@ class Checker(object):
         input_file.close()
         succeeded = bool(self.num_invalid_endings \
             + self.num_tag_shit \
+            + self.num_too_many_double_spaces \
+            + self.num_entries_with_triple_spaces \
             + num_wrong_part_of_speech == 0)
         if succeeded:
             print OKGREEN + 'No entries-related problems were found in file \'' \
@@ -152,10 +154,10 @@ class Checker(object):
             print '\nSummary of issues found'
             print '-----------------------'
             print_colored('Entries with invalid ending', self.num_invalid_endings)
-            print_colored('Entries with triple spaces', self.num_entries_with_triple_spaces)
+            print_colored('Entries with tag :shit:', self.num_tag_shit)
             print_colored('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)
-            print_colored('Entries with tag :shit:', self.num_tag_shit)
+            print_colored('Entries with triple spaces', self.num_entries_with_triple_spaces)
             print_colored('Entries with wrong part of speech', \
                 num_wrong_part_of_speech)
         print
