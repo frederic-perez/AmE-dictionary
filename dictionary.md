@@ -1337,8 +1337,8 @@ __bubbly__ _Bubbly breatlessness._
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __buck off__ _v_  
 __buck private__ _He served his country as a buck private in Korea._  
-__buck up__  
-__buck__ _v_ :nine::m::hammer: (bucked, bucking) _Most of the men have never ridden a bucking animal._ _The Seahawks have history to buck._ _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _A wagon was overturned as horses bucked and shied._ _Many officers bucked the chain of command._  
+__buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
+__buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: The horse bucked in fright. _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _Many officers bucked the chain of command._  
 __buckeyes__  
 __buckle down (to something)__ _v_ :two: _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
@@ -1762,10 +1762,10 @@ __chucklers__
 __chug__ _v_ :three::hammer: _A cocktail to chug._ _We're chugging along._  
 __chum__ _n_ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
 __chumps__ _n_  
-__churn out__ _v_  
+__churn out__ _phrasal v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
-__churn<sup>2</sup>__ _v_ :nine::m::hammer: (churned, churning) _Churning sand._ _His stomach churned._ _A surge of churning water._ _Stomach churning._ _The hype machine churning into overdrive._  
+__churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __chutneys__  
 __cigarillos__ :pencil2::camera::two::hammer:  
 __cinch__ _n_ :two::hammer:  
@@ -2133,7 +2133,7 @@ __crafts__ :two::hammer:
 __crafty__  
 __cragginess__  
 __craggy__ :two::hammer:  
-__cram__ _v_ :nine::hammer: (crammed, cramming) _On the weekends, she crams in as much physical activity as she can._ _A cram year._  
+__cram__ _v_ :nine: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ __2__ To eat or cause to eat more than necessary __3__ (Education) _informal_ To study or cause to study (facts, etc), esp for an examination, by hastily memorizing.  
 __cramp__ _n_ :two::hammer:  
 __cramped__ _v_ :two::hammer:  
 __crank out__  
@@ -2821,7 +2821,7 @@ __dusty__ _A dusty brand._
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::hammer:  
 __dwelling__ _n_  
-__dwindle__ _v_ :nine::m::hammer: (dwindled, dwindling)  
+__dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, diminish, reduce in size. __2__ To fall away in quality; degenerate, sink.  
 __dyke__ _n_ :four: _Informal_ A lesbian. _She wasn't a dyke, either._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dysplasia__ _Canine hip dysplasia._  
@@ -4518,7 +4518,7 @@ __jammies__ _n_
 __jams__ _n_  
 __jangled__ _v_  
 __jape__ _v_  
-__jar__ _v_ :nine::m::hammer: (jarred, jarring) _His right foot jarred against the road._ _Jarring evidence._  
+__jar__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen). __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jaundice__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
 __jaunty__ _adj_ :seven: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
