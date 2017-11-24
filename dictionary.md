@@ -6583,7 +6583,8 @@ __rakish__ :two::hammer:
 __rally<sup>1</sup>__ _v_ :nine::m::hammer: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._ :es: manifestarse?  
 __rally<sup>2</sup>__ _n_  
 __rally__ (stock market)  
-__ram__ _v_ :two::hammer:  
+__ram<sup>1</sup>__ _v_ :seven::hammer: (rammed, ramming) _JFK's PT boat was rammed._ _Ramming your feet into the stirrups._  
+__ram<sup>2</sup>__ _n_  
 __ramble__ _v_  
 __rambler__ :three::hammer:  
 __ramblers__ _n_  
@@ -6591,13 +6592,7 @@ __rambling__ _v_ :four::hammer:
 __rambunctious__ :three::hammer:  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
-__rammed__ _v_  
-__rammed__ _v_ _JFK's PT boat was rammed._  
-__ramming__  
-__ramming__ _v_  
-__ramming__ _v_ _Ramming your feet into the stirrups._  
-__ramp up__ :three::hammer: _Official decisions ramped up activity._  
-__ramp up__ _v_  
+__ramp up__ _v_ :four::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v_ :two::hammer:  
 __rampage<sup>2</sup>__ _n_ :two::hammer:  
 __rampant__ :two::hammer:  
@@ -6605,8 +6600,7 @@ __rampantly__
 __rampart__ :three::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ :two::hammer:  
 __ranch hand__ _He works as a ranch at the prison._  
-__rancher__ _n_ :two: One that owns or manages a ranch.  
-__ranchers__ _n_ :two::hammer:  
+__rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
 __rancor__ _n_  
 __range__ _Range war._  
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
@@ -6766,8 +6760,7 @@ __relief teams__
 __relief__ :two::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __reliever__  
-__relinquish__ _v_  
-__relinquish__ _v_ :six: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on. _To relinquish the throne._  
+__relinquish__ _v_ :seven: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on. _To relinquish the throne._  
 __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
 __relish<sup>2</sup>__ _v_ :four: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
@@ -6813,27 +6806,21 @@ __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._
 __resounding__  
 __respite__ _n_ :six: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __resplendent__  
-__respondent__ _n_ :two::hammer:  
-__respondents__ _n_  
+__respondent__ _n_ :three::hammer: (respondents)  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
-__restive__  
-__restive__  
-__restive__  
+__restive__ :three::hammer:  
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ :two::hammer: _n_  
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __retailer__ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
-__retched__ _v_  
-__retched__ _v_  
-__retched__ _v_  
+__retched__ _v_ :three::hammer:  
 __retelling__  
 __retention__  
 __rethoric__  
-__retinue__ _n_  
-__retinues__ _n_  
+__retinue__ _n_ :two::hammer: (retinues)  
 __retiree__ _n_ :two::hammer: :es: jubilado  
 __retirement__  
 __retooled__ _v_ :two::hammer:  
@@ -6932,8 +6919,7 @@ __roasted tea__ :camera:
 __rob__ _Crimson-robed nuns._  
 __robe__ _n_ _The judge's robe._  
 __robin-breasted__  
-__rock the boat__  
-__rock the boat__  
+__rock the boat__ :two::hammer:  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rods__ _A few rods away._  
 __roe__ _A roe deer._  
@@ -6959,8 +6945,7 @@ __romp__ _v_ :six::hammer:
 __rondo__ _n_ (music)  
 __rood__ _n_ :two::hammer:  
 __roofrack__  
-__rooftop__ _Rooftop terrace._  
-__rooftop__ _n_ :three::hammer: _A rooftop bar._ _A rooftop garden._  
+__rooftop__ _n_ :four::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._  
 __room gear__ _Dorm room gear._  
 __roomed__ _v_  
 __rooster__ :twoo::hammer:  
@@ -6993,9 +6978,8 @@ __row house__ _n_
 __rowdy__ _adj_ :six: /ˈraʊdi/ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rowhouse__ _n_  
 __rub elbows__ _v_  
-__rub__ _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
-__rub__ _n_  
-__rub__ _v_  
+__rub<sup>1</sup>__ _n_ :two::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
+__rub<sup>2</sup>__ _v_  
 __rubbings__ _n_  
 __rubble__ _n_  
 __rucksack__  
@@ -7138,9 +7122,7 @@ __scar__ _v_ _CIA to=ture scarred man's psyche for years._
 __scarce__ :two::hammer:  
 __scarcely__ :astonished: _The executioner seemed scarcely older than Rob._  
 __scarlet__  
-__scathing__  
-__scathing__ _adj_ :six: Bitterly severe. _His scathing indictment of Congress._  
-__scathing__ _v_  
+__scathing__ _adj_ :eight: Bitterly severe. _His scathing indictment of Congress._  
 __scattershot__ :two::hammer:  
 __scenic__  
 __scented__  
@@ -7151,8 +7133,7 @@ __schlepping__ :two::hammer:
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
 __schlocky__  
 __schmooze__  
-__schmoozed__ _v_  
-__schmoozing__  
+__schmoozed__ _v_ :two::hammer: (schmoozing)  
 __schmuck__  
 __schnapps__  
 __scholar__ :two::hammer: _Legal scholar._  
@@ -7211,13 +7192,8 @@ __scud<sup>1</sup>__ _n_  _Scud work._
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
 __scuffed boots__  
 __scuffed__  
-__scuffle<sup>1</sup>__ _v_ :five: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
-__scuffle<sup>2</sup>__ _n_ _The scuffle and scrape of rubber soles._  
-__scuffle__ _n_  
-__scuffle__ _n_  
-__scuffle__ _n_  
-__scuffled__ _v_  
-__scuffling__  
+__scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
+__scuffle<sup>2</sup>__ _n_ :four::hammer: _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
 __scum__  
 __scumbags__  
@@ -7323,10 +7299,9 @@ __shale-oil__ _Shale-oil production._
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
 __shale<sup>3</sup>__ _v_  
-__sham__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
-__sham__ _n_  
-__shambled__  
-__shambled__ _v_  
+__sham<sup>1</sup>__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
+__sham<sup>2</sup>__ _n_  
+__shambled__ _v_ :two::hammer:  
 __shambles__ :two::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
 __shambolic__  
@@ -7353,8 +7328,7 @@ __sheaf__
 __shear__ _v_  
 __sheath__ :two::hammer: :es: vaina?  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
-__shed__ _v_ Park (a vehicle) in a depot.  
-__shed__ _v_ _The rookie has shed his walking boot and says he'll be fine._  
+__shed__ _v_ :two::hammer: Park (a vehicle) in a depot. _The rookie has shed his walking boot and says he'll be fine._  
 __shedder__ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
@@ -7377,13 +7351,9 @@ __shellfish__ _Shellfish stewed, jerked._
 __shelling out__  
 __shelling__ _v_  
 __shelved__ _v_ :three::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
-__shenanigans__  
-__shenanigans__  
+__shenanigans__ :two::hammer:  
 __sherbet punch__  
-__shied__ _v_  
-__shied__ _v_  
-__shied__ _v_ _A wagon was overturned as horses bucked and shied._  
-__shied__ _v_ _Felix was thrown when his horse shied a a badger._  
+__shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
 __shiet__  
 __shift__  
 __shifty__  
@@ -7404,9 +7374,8 @@ __shiner__ _He answered the door with a shiner on one eye from a wrestling match
 __shingle__  
 __shingles__ _n_ :two::hammer:  
 __shipyard__ :two::hammer:  
-__shirk__  
-__shirk__ _v_  
-__shirking__ _v_  
+__shirk<sup>1</sup>__ _n_  
+__shirk<sup>2</sup>__ _v_ (shirking)  
 __shirttail__ _n_  
 __shit-canning__  
 __shitcan__ _v_  
@@ -7430,10 +7399,7 @@ __shootaround__ _n_ :four::hammer: (basketball)
 __shooting gallery__  
 __shootout__ _n_ __1__ __a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
 __shopkeeper__ :three::hammer:  
-__shore up__  
-__shore up__ _v_  
-__shore up__ _v_ :six: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
-__shoring up__ _v_  
+__shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short-charge__  
 __short-handed__ _adj_ :four::hammer: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
@@ -7710,8 +7676,7 @@ __smart meter__ _n_ _Customers do not want to make the switch from old mechanica
 __smart__ :two::hammer: _Smart riding-clothes._ _Smart tailored jackets._  
 __smashing__  
 __smashmouth__  
-__smattering__ _I see just a smattering of raised hands._  
-__smattering__ _n_ :eight: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._  
+__smattering__ _n_ :nine: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
 __smear<sup>1</sup>__ _v_ __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :three: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
@@ -7985,15 +7950,8 @@ __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been r
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __spurted__ _v_  
 __sputs__  
-__sputter__ _v_  
-__sputter__ _v_  
-__sputter__ _v_ :eight: (sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
-__sputtered__ _v_  
-__sputtered__ _v_  
-__sputtering__  
-__sputtering__  
+__sputter__ _v_ :nine::m: (sputters, sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__ _adj_  
-__sputters__  
 __squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squabbling__ _v_ :four::hammer: _A squabbling family._  
 __squack__  
@@ -8022,10 +7980,8 @@ __squelched__ _v_
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2:  
-__squirm<sup>1</sup>__ _v_ :two::hammer: _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :four::hammer: _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
-__squirm__ _v_  
-__squirm__ _v_  
 __squishing__  
 __squit__ _Super-soaker squit guns._  
 __stab__ _n_ :two::hammer:  
@@ -8097,11 +8053,10 @@ __stationery__
 __statute__  
 __statutory rape__  
 __statutory__  
-__staunch__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
-__staunch__ _v_  
+__staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
+__staunch<sup>2</sup>__ _v_  
 __staunchest__ :two::hammer:  
-__stave off__ _v_  
-__stave off__ _v_ :six::hammer: (staved off)  
+__stave off__ _v_ :seven::hammer: (staved off)  
 __stave__ _v_  
 __staves__ _n_  
 __stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
@@ -8259,8 +8214,7 @@ __stringent__ _adj_ :nine: (stringently) __1__ Imposing rigorous standards of pe
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
 __stripling__ _n_  
-__strive__ _v_  
-__strive__ _v_  
+__strive__ _v_ :two::hammer:  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _Writhing in the strobe lights after dark._  
@@ -8367,14 +8321,10 @@ __sure enough,__ _Sure enough, that's what happened._
 __surefire__  
 __surety__  
 __surfeit__ _n_  
-__surge__ _n_  
-__surge__ _v_  
-__surge__ _v_  
-__surge__ _v_  
+__surge<sup>1</sup>__ _v_ :three::hammer:  
+__surge<sup>2</sup>__ _n_  
 __surliness__  
-__surly__  
-__surly__  
-__surly__ _adj_ :three: Unfriendly and rude. _A waiter with a surly attitude._  
+__surly__ _adj_ :five: Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmised__ _v_ :two::hammer:  
 __surmount__ _v_  
@@ -8427,13 +8377,11 @@ __swerve<sup>2</sup>__ _v_ :nine::m::hammer: (swerves, swerved)
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swilled__ (swilling) :three::hammer: _Swilling wine._  
-__swilling__  
-__swilling__ _Beefy men swilling champagne from magnums._  
+__swilling__ :two::hammer: _Beefy men swilling champagne from magnums._  
 __swim tube__  
 __swimabout__  
 __swimming hole__ :two::hammer:  
-__swindle__  
-__swindle__ _v_  
+__swindle__ _v_ :two::hammer:  
 __swindler__ _n_ :three::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
 __swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
@@ -9690,9 +9638,8 @@ __zesty__
 __zig__ _v_ _They tend to zig when markets zag._  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
 __zip-line__ (zip-lining)  
-__zip<sup>1</sup>__ _n_ _Manning threw a couple of darts to Hakeem that had plenty of zip._  
+__zip<sup>1</sup>__ _n_ :two::hammer: _Manning threw a couple of darts to Hakeem that had plenty of zip._ _Bouncing back from that 13-zip deficit._  
 __zip<sup>2</sup>__ _v_ _The ISS zips around Earth once every 90 minutes._  
-__zip__ _Bouncing back from that 13-zip deficit._  
 __zippy__ _A zippy hit parade._  
 __zit__ _n_ _Informal_ A spot on the skin.  
 __zonk__ _n_ :two::hammer:  
