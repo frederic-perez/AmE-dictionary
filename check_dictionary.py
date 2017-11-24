@@ -89,7 +89,7 @@ class Checker(object):
         print headword + ' ' + part_of_speech + FAIL \
             + ' <<< :shit: found; use :hammer: instead' + ENDC
 
-    def get_headword_and_next_token_idx(self, tokens, do_print=False):
+    def get_headword_and_part_of_speech(self, tokens, do_print=False):
         """Self-explanatory"""
         num_tokens = len(tokens)
         headword = tokens[0]
@@ -104,12 +104,16 @@ class Checker(object):
                 if headword.count('__') == 2:
                     headword_completed = True
         idx += 1
+        if idx < num_tokens:
+            part_of_speech = tokens[idx]
+        else:
+            part_of_speech = ''
         if idx > 1:
             self.num_composite_headwords += 1
             if do_print:
                 print OKBLUE + headword + GRAY + ' <<< Composite headword #' \
                     + str(self.num_composite_headwords) + ENDC
-        return headword, idx
+        return headword, part_of_speech
 
     def check_entries(self):
         """Looking for mistakes in the entries of the dictionary
@@ -133,8 +137,7 @@ class Checker(object):
             if entry_has_tag_of_number(entry):
                 tokens = entry.split()
                 do_print = True
-                headword, idx = self.get_headword_and_next_token_idx(tokens, do_print)
-                part_of_speech = tokens[idx]
+                headword, part_of_speech = self.get_headword_and_part_of_speech(tokens, do_print)
                 if part_of_speech.find('_') == -1:
                     num_wrong_part_of_speech += 1
                     print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
@@ -174,9 +177,9 @@ class Checker(object):
             entry = line.replace('\n', '')
             tokens = entry.split()
             do_print = False
-            headword, _ = self.get_headword_and_next_token_idx(tokens, do_print)
+            headword, part_of_speech = self.get_headword_and_part_of_speech(tokens, do_print)
             if dictionary.get(headword) == 1:
-                repeated[headword] = 1
+                repeated[headword] = part_of_speech
             dictionary[headword] = 1
 
         input_file.close()
@@ -187,7 +190,7 @@ class Checker(object):
             print 'Found ' + str(size) + ' duplicated headwords, the very first being:'
             i = 0
             for headword in repeated_sorted:
-                print '  ' + FAIL + headword + ENDC
+                print '  ' + FAIL + headword + ' ' + repeated[headword] + ENDC
                 i += 1
                 if i == 10:
                     break
@@ -206,8 +209,9 @@ class Checker(object):
                 if entry_has_tag_hammer(entry):
                     tokens = entry.split()
                     do_print = False
-                    headword, _ = self.get_headword_and_next_token_idx(tokens, do_print)
-                    undefined[headword] = 1
+                    headword, part_of_speech = \
+                        self.get_headword_and_part_of_speech(tokens, do_print)
+                    undefined[headword] = part_of_speech
 
         input_file.close()
 
@@ -218,7 +222,7 @@ class Checker(object):
                 + ' undefined high frequency headwords, the very first being:'
             i = 0
             for headword in undefined_sorted:
-                print '  ' + FAIL + headword + ENDC
+                print '  ' + FAIL + headword + ' ' + undefined[headword] + ENDC
                 i += 1
                 if i == 10:
                     break
