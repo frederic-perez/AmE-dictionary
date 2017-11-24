@@ -8391,25 +8391,17 @@ __switch-blade__ _Switch-blade artists._
 __switch__ (twitch?)  
 __swive__ _v_  
 __swiveling__ _v_  
-__swoon__ _v_ :nine: (swoons, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swooned__ _v_  
-__swooned__ _v_  
-__swoop<sup>1</sup>__ _n_ :four::hammer:  
+__swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
+__swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
 __swoop<sup>2</sup>__ _v_ :seven::hammer: (swooped, swooping)  
-__swoop__ _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
-__swoops__  
 __swoopy__  
 __swooshing__  
-__sycophant__  
-__sycophants__  
-__sycophants__  
+__sycophant__ :three::hammer: (sycophants)  
 __syllogism__ :two::hammer:  
-__syndicated__  
-__syndicated__  
+__syndicated__ :two::hammer:  
 __syringe__  
 __syrupy__  
-__systemic__  
-__systemic__  
+__systemic__ :two::hammer:  
 __syzygy__  
 __séance__  
 __tab<sup>1</sup>__ _n_ :four: __Informal__ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
@@ -8426,17 +8418,14 @@ __tabulated__ _Tabulated scientific data._
 __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they work._  
 __taciturn__  
 __tack__ :two::hammer: Tactics? _The GOP changed its tack._  
-__tacky__  
-__tacky__  
-__tad__  
-__tad__  
+__tacky__ :two::hammer:  
+__tad__ :two::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ _Our big tagline is to help others._  
 __tailgate__  
 __tailor__ _v_  
-__tailspin__  
-__tailspin__ _n_  
+__tailspin__ _n_ :two::hammer:  
 __take a stand__  
 __take by storm__  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
@@ -8457,17 +8446,13 @@ __talons__ _The nails were sharp as talons._
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
 __tamp down__ _v_ :two::hammer:  
 __tan__ Color?  
-__tang__  
-__tang__  
-__tang__ _Dory, the little blue tang fish._  
+__tang__ :three::hammer: _Dory, the little blue tang fish._  
 __tangle__ _v_  
 __tangled__ _Cousin and Horford tangled in the first quarter Wednesday._  
-__tank__ _v_ :five: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._  
-__tanked__ _v_  
+__tank__ _v_ :six::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._  
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
-__tanner__  
-__tanner__ _n_  
+__tanner__ _n_ :two::hammer:  
 __tannery__  
 __tannic__ _adj_ :five::hammer: Derived from tannin.  
 __tannin__ _n_ Any of various complex phenolic substances of plant origin; used in tanning and in medicine.  
@@ -8489,11 +8474,8 @@ __tarp__ _n_ :six::hammer:
 __tarpon__  
 __tarps__ _n_  
 __tarred__  
-__tarried__ _v_  
-__tarry__  
-__tarry__ _v_  
-__tart__  
-__tart__ _She'd bitten into something overly tart._  
+__tarry__ _v_ :three::hammer: (tarried)  
+__tart__ :two::hammer: _She'd bitten into something overly tart._  
 __tartan__ :two::hammer: _Tartan trousers._ _Tartan upholstery._  
 __tarts__ _n_ (whore)  
 __tasked__ _v_  
@@ -8555,9 +8537,7 @@ __tenon__
 __tentative__  
 __tenuous__ :two::hammer:  
 __tenure__  
-__tepid__  
-__tepid__  
-__tepid__ :two::hammer:  
+__tepid__ _adj_ :four::hammer:  
 __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
@@ -8685,8 +8665,7 @@ __tin ear__ _Hillary has a political tin ear._
 __tinderbox__  
 __tinderdry__  
 __tines__  
-__tinge__  
-__tinge__  
+__tinge__ :two::hammer:  
 __tingle__ _v_ :three: (tingled, tingling) Cause a stinging or tingling sensation.  
 __tingles__ _I'm all tingles and shakes._  
 __tink__ _v_  
@@ -8714,8 +8693,7 @@ __to hell and back__ :two::hammer:
 __to his name__ _Bernie died with $1.09 to his name._  
 __to taste__ :three::hammer: _Add more vinegar to taste._ :es: al gusto (?)  
 __to that end,__  
-__to this day__  
-__to this day__  
+__to this day__ :two::hammer:  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  
 __toast__ _adj_ :two::hammer: _I'm just toast every day._ _A champagne toast._  
@@ -8824,14 +8802,10 @@ __trellises__ _From his trellises._
 __trepidation__ :three::hammer:  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
-__trestle__  
-__trestle__ /ˈtrɛs(ə)l/ :two: Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
+__trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
 __treys__ :two::hammer:  
 __trial__ _n_  
-__tribulation__ _n_  
-__tribulations__  
-__tribulations__  
-__tribulations__  
+__tribulation__ _n_ :four::hammer: (tribulations)  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
@@ -8869,20 +8843,15 @@ __troubleshoot__ _v_
 __troubleshooter__  
 __trough__ _Showers will continue for one more day as a low-pressure trough spins through the region._  
 __troughs__ _The daily peaks and troughs._  
-__trounce__  
-__trounced__  
-__trounced__  
-__trounces__ _v_ _Drama trounces trauma!_  
+__trounce__ _v_ :four::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
 __troy ounce__ :two::hammer:  
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
-__truculent__  
-__truculent__  
-__trudge__ _v_  
-__trudge__ _v_ :five::hammer:  
+__truculent__ :two::hammer:  
+__trudge__ _v_ :six::hammer:  
 __trudging__ _v_  
 __true to form__  
 __truffles__ _n_  
@@ -8891,8 +8860,7 @@ __trumpet__ _v_
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
 __trussed up__ _v_  
-__trussed__  
-__trussed__ _v_ :two::hammer:  
+__trussed__ _v_ :three::hammer:  
 __trust company__  
 __trustees__ :two::hammer: _Board of Trustees_  
 __trusties__  
@@ -9047,8 +9015,7 @@ __unrestrained__
 __unruly__ _adj_ :seven::hammer: _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
-__unscathed__  
-__unscathed__ _adj_ :four: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unscathed__ _adj_ :five: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
 __unsettling__ _The old man's unsettling eyes._  
 __unshackle__ _The two guards unshackled Sam at the door._  
@@ -9137,16 +9104,12 @@ __vampire squid__
 __vandals__  
 __vane__ _n_ :two::hammer: _A smooth metal weather vane._ _A weather vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
-__vanquish__ _v_  
-__vanquish__ _v_ :four::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vapid__ :three::hammer:  
 __variety store__  
 __varmints__  
-__varsity__  
-__varsity__  
-__varsity__ _Varsity athletes._  
-__varsity__ _n_ :five: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
+__varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vastly__  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _Vaulted ceilings._  
@@ -9162,8 +9125,7 @@ __veneer__ _n_ :five::hammer: (veneers)
 __venial__ _adj_  
 __venison__ _n_ :two::hammer:  
 __venom__ :two::hammer:  
-__venomous__  
-__venomous__ _adj_  
+__venomous__ _adj_ :two::hammer:  
 __ventilator__ :pencil2: _med_  
 __veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
 __verdant__ _Verdant hills._  
@@ -9203,11 +9165,9 @@ __vinyasa__ _n_
 __viper__ _n_  
 __virtually__ :astonished: Practically, almost.  
 __vise__ _n_  
-__visitation__ :two::hammer:  
-__visitation__ _n_ :three:  
+__visitation__ _n_ :five::hammer:  
 __vistas__  
-__vitriol__  
-__vitriol__ :three: /ˈvɪtrɪəl/ _n_ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
+__vitriol__ _n_ :four: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
 __vituperation__  
 __vituperative__  
@@ -9310,13 +9270,8 @@ __wax__ _v_ _Moon waxing and waning._
 __waxed__  
 __wayposts__  
 __wayside__ _n_ :two::hammer:  
-__wayward__  
-__wayward__  
-__wayward__  
-__wayward__ _Wayward corporations._  
-__wayward__ _adj_ :five: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ :es: díscolo  
-__wean__ _v_ :seven::hammer: (weaned)  
-__weaned__ _v_  
+__wayward__ _adj_ :nine: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
+__wean__ _v_ :eight::hammer: (weaned)  
 __weary__  
 __weather vane__  
 __weather__ (weathering) _v_  
@@ -9388,8 +9343,7 @@ __whet__ _v_ :seven: (whetted, whetting) __1__ To sharpen (a knife, for example)
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
 __whickering__  
-__whiff__  
-__whiff__ :two::hammer:  
+__whiff__ :three::hammer:  
 __whiffed__ _v_  
 __while__ _v_ _To while away the hours drinking vodka._  
 __whimper<sup>1</sup>__ /ˈwɪmpə/ _v_ :three: (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
@@ -9500,8 +9454,7 @@ __wisteria__
 __wistful__ :two::hammer:  
 __wistfulness__  
 __wit__ _He was at wit's end._  
-__witchcraft__  
-__witchcraft__ _A 1958 witchcraft comedy._  
+__witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
 __withe down__ _v_  
 __wither__ _v_ :three::hammer: (withers, withered)  
@@ -9611,8 +9564,7 @@ __yipping__ _v_
 __yips__  
 __yo-yoing__  
 __yoke__ _Egg yoke._  
-__yokels__  
-__yokels__  
+__yokels__ :two::hammer:  
 __yonder__  
 __yore__ _Days of yore._  
 __you name it__ :dart::two::hammer:  
