@@ -43,7 +43,8 @@ def entry_has_tag_of_number(entry):
         or entry.find(':seven:') > -1 \
         or entry.find(':six:') > -1 \
         or entry.find(':five:') > -1 \
-        or entry.find(':four:') > -1
+        or entry.find(':four:') > -1 \
+        or entry.find(':three:') > -1
 
 def entry_has_tag_of_high_number(entry):
     """Self-explanatory"""
