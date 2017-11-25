@@ -906,7 +906,7 @@ __befuddling__ :two::hammer:
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar-thy-neighbor__  
 __beggar__ _n_  
-__begrudge__ :thre::hammer:  
+__begrudge__ :three::hammer:  
 __beguile__ _v_ :four::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
@@ -994,7 +994,7 @@ __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The tim
 __bicyclist__  
 __bid farewell__  
 __bid rigging__  
-__bid<sup>1</sup>__ _v_ :five::left_right_arrow: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn't bid him farewell._  
+__bid<sup>1</sup>__ _v_ :five: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn't bid him farewell._  
 __bid<sup>2</sup>__ _n_ :two::hammer: _The highest ranked team earns an automatic bid to one of the New Year's six bowls._  
 __bidding__  
 __bier__ _n_ :pencil2:  
@@ -1066,7 +1066,7 @@ __bleakness__
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleary__ :three::hammer:  
 __bleated__ _v_ :three::hammer: (bleating) _His walkie-talkie bleated._  
-__bleating__ _n_ :Two::hammer: _The bleating of a few sheep._  
+__bleating__ _n_ :two::hammer: _The bleating of a few sheep._  
 __bled__ _v_  
 __bleed blue__  
 __bleeding heart__ _A radical Jewish lawyer with a beard and a bleeding heart._  
@@ -1916,7 +1916,7 @@ __comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._
 __comeuppance__  
 __comforter sets__  
 __comforters__  
-__comfy__ :three::config: _The Comfy Cow ice cream._  
+__comfy__ :three::hammer: _The Comfy Cow ice cream._  
 __coming down the pipe__ :dart:  
 __coming-of-age__ _A coming-of-age story._  
 __comity__  
@@ -2036,7 +2036,7 @@ __conwise__
 __coo__ _v_ :six: (cooed) __1__ (of a pigeon or dove) Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ (of a person) Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook-off__  
-__cooktop__ :foor::hammer: _Ceramic/Electric/Gas cooktop._  
+__cooktop__ _n_ :four::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __coonass__ :two::hammer: (coonasses)  
 __coop__ _To fly the coop._  
@@ -3749,7 +3749,7 @@ __gracious__ _adj_ :two::hammer:
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
-__graft__ :thre::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._  
+__graft__ :three::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._  
 __gramps__  
 __grand jury__  
 __grand-auto__ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
@@ -4579,7 +4579,7 @@ __joshed__ _v_ :two::hammer:
 __jostle anew__ :two::hammer: (jostled anew)  
 __jostle__ _v_ :five::hammer::camera: (jostled, jostling) _Cows are jostling for space._  
 __journeyman__ :two::hammer:  
-__joust__ _v_ :thre::hammer: (jousted) _Here people jousted with nature._  
+__joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ :two::hammer:  
 __jowls__ _n_ _plural_ :four::hammer::camera:  
@@ -5235,7 +5235,7 @@ __miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would
 __might__ _China's economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
 __milch__ :two::hammer: _A milch cow._  
-__mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter. :moho:  
+__mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
@@ -5320,7 +5320,7 @@ __momentous__ :two: _adj_ Of great importance or significance, especially in hav
 __money on the hoof__  
 __moneyed__  
 __monger__ _v_ (mongering) :four::hammer:  
-__mongering__ :thre::hammer: _Hate-mongering._  
+__mongering__ :three::hammer: _Hate-mongering._  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
 __monkey business__  
@@ -6948,7 +6948,7 @@ __roofrack__
 __rooftop__ _n_ :four::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._  
 __room gear__ _Dorm room gear._  
 __roomed__ _v_  
-__rooster__ :twoo::hammer:  
+__rooster__ :two::hammer:  
 __root beer__  
 __rooter__  
 __rootered__ _v_  
@@ -7075,7 +7075,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandy-haired__  
 __sangfroid__  
-__sanguine__ _adj_ :two::hammer::open_mnouth:  
+__sanguine__ _adj_ :two::hammer::astonished:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._  
@@ -8785,7 +8785,7 @@ __traps__ _n_
 __trashing__ _v_  
 __travail__  
 __travails__ _n_ :two::hammer:  
-__travelogue__ _n_ :twp::hammer:  
+__travelogue__ _n_ :two::hammer:  
 __travesties__  
 __travesty__  
 __trawler__  
