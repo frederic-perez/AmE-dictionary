@@ -8991,7 +8991,7 @@ __unduly__ _adv_ :four::hammer:
 __unearthed__  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
-__unfathomable__ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
+__unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :four::hammer: _They are unfazed by all fof this._  
 __unfettered__ _v_ :nine::m::hammer: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
@@ -9040,7 +9040,7 @@ __up and running__
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
 __up__ _v_ _We need to up our game._  
-__upbeat__ :three::hammer: _An upbeat approach._ _He's extremely upbeat during down times._  
+__upbeat__ _adj_ :three::hammer: _An upbeat approach._ _He's extremely upbeat during down times._  
 __upcoming__  
 __upend__ _v_ :nine::m_ (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
@@ -9092,7 +9092,7 @@ __vacay__ _Informal_ A holiday. _I'm in France right now, on vacay._
 __vaccination__  
 __vaccine__  
 __vacuum__ :two::hammer: _Upright/Canister vacuum._ :camera:  
-__vagaries__ :three::hammer: _The vagaries of economics._  
+__vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
 __vagrant__  
 __vagrants__  
 __valedictorian__ _n_ :six::hammer: (valedictorians)  
@@ -9107,7 +9107,7 @@ __vane__ _n_ :two::hammer: _A smooth metal weather vane._ _A weather vane._
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
-__vapid__ :three::hammer:  
+__vapid__ _adj_ :three::hammer:  
 __variety store__  
 __varmints__  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
@@ -9295,7 +9295,7 @@ __weedeater__
 __weevil__ :two::hammer: _Weevil worms._  
 __weevils__  
 __weigh__ _v_ :es: sopesar?  
-__welfare__ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
+__welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
 __well-heeded__  
 __well-nigh__ _adverb_ Almost. _A task that is well-nigh impossible._  
@@ -9344,12 +9344,12 @@ __whet__ _v_ :seven: (whetted, whetting) __1__ To sharpen (a knife, for example)
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
 __whickering__  
-__whiff__ :three::hammer:  
+__whiff<sup>1</sup>__ _n_ :three::hammer:  
+__whiff<sup>2</sup>__ _v_  
 __whiffed__ _v_  
 __while__ _v_ _To while away the hours drinking vodka._  
-__whimper<sup>1</sup>__ /ˈwɪmpə/ _v_ :three: (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
-__whimper<sup>2</sup>__ _n_  
-__whimpering__ _v_  
+__whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
+__whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine.  
 __whinnied__ _v_  
 __whip__ _Mr. Roskam was appointed deputy whip after the 2010 elections._  
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
@@ -9388,7 +9388,7 @@ __whorls__ :two::hammer:
 __wick__ _n_  
 __wicked__  
 __wickedly__  
-__wicker__ :three::hammer: _Wicker chair._ _They sat in wicker rockers._  
+__wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  
 __wicket__  
 __wicking__ :two::hammer: _Moisture wicking._ __High-wicking polyester._  
 __wicks__ _n_ :two::hammer: _Linen wicks._  
@@ -9439,7 +9439,7 @@ __wire > getting down to the wire__
 __wire book stand__  
 __wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
 __wire-rimmed__ _Wire-rimmed glasses._  
-__wire-to-wire__ :three: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
+__wire-to-wire__ _adj_ :three: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wiry__ _adj_ :two::hammer: _He's wiry, strong and fast._  
 __wisdom tooth__  
 __wisecracks__  
@@ -9470,7 +9470,8 @@ __wogs__ _n_
 __wolfe range__  
 __womanizer__ :two::hammer:  
 __womanizing__  
-__wondrous__ :three::hammer:  
+__wondrous<sup>1</sup>__ _adj_ :three::hammer:  
+__wondrous<sup>2</sup>__ _adv_  (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ :two::hammer: _Wonky details._  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
@@ -9503,7 +9504,7 @@ __wraparound season__
 __wreak havoc__  
 __wreaked havoc__  
 __wreath-lying__ :pencil2:  
-__wreath__ (wreaths) :three: _Funeral wreath._ :es: corona  
+__wreath__ _n_ :three: (wreaths) _Funeral wreath._ :es: corona  
 __wreathed__ _A wreathed sword._  
 __wreck__ _v_  
 __wrecking ball__  
@@ -9553,7 +9554,7 @@ __yellow wine__
 __yelp__ _v_ (?)  
 __yelped__ _v_  
 __yelps__ _Puppy yelps._  
-__yeoman__ :three::hammer:  
+__yeoman__ _n_ :three::hammer:  
 __yesteryear__ :two::hammer:  
 __yew root__  _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ :two::hammer:  
@@ -9585,8 +9586,8 @@ __zealous__
 __zeightgeist__  
 __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero in__  
-__zero-sum__ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
-__zest__ :three::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
+__zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
+__zest__ _n_ :three::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
