@@ -3484,7 +3484,8 @@ __freeloading__
 __freewheel__ _v_ :six::hammer: (freewheeling) _Freewheeling style._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._  
 __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:  
 __frenzy__ :two::hammer:  
-__fret__ _v_ :nine::hammer: (fretted, fretting)  
+__fret<sup>1</sup>__ _v_ :nine: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
+__fret<sup>2</sup>__ _n_ A state of irritation or anxiety.  
 __fretful__ :two::hammer:  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretting__ _v_  
@@ -3780,7 +3781,7 @@ __gravity__ _n_
 __gravy__ _n_ :two::hammer:  
 __graybeards__ _Senate graybeards._  
 __grayling__  
-__graze__ _v_ :nine::m::hammer: (grazed, grazing) _Some species can graze on the extra algae._ _Grazed by a bullet._ _A third person was grazed by a bullit._  
+__graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Grazed by a bullet._ _A third person was grazed by a bullit._ __3__ To break the skin of (a part of the body) by scraping.  
 __grazing land__ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __greaseballs__ :two::hammer:  
 __great-grandchildren__  
@@ -3905,7 +3906,7 @@ __guppy__ _n_ :four:  Small freshwater fish of South America and the West Indies
 __gurgling__ _v_  
 __gurney__ _n_ :four::hammer:  
 __gush<sup>1</sup>__ _n_  
-__gush<sup>2</sup>__ _v_ :nine::hammer: (gushes, gushed, gushing) _Kids were dancing in the gushing water._  
+__gush<sup>2</sup>__ _v_ :nine: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
 __gushy__  
 __gusseted__ _Gusseted underarms._  
 __gussets__  
@@ -4025,7 +4026,7 @@ __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :three::hammer: _Jacob and Davis each hauled in 10 passes._  
-__haunch__ _n_ :nine::m::hammer: (haunches) _Haunches of antelope._  
+__haunch__ _n_ :nine::m::camera: (haunches) __1__ (Anatomy) the human hip or fleshy hindquarter of an animal, esp a horse or similar quadruped. __2__ (Cookery) the leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
@@ -4286,7 +4287,7 @@ __humidor__ _n_
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __humor__ _v_ _Just humor me._  
-__hump<sup>1</sup>__ _v_ :nine::m::hammer: _Got to get the locals humping for you._  
+__hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2__ (Slang) __a__ To exert (oneself). __b__ To carry, especially on the back. __3__ (Vulgar Slang) To engage in sexual intercourse with._  
 __hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
 __humpty-dumpty__  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
