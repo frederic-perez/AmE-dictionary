@@ -1,6 +1,7 @@
 'module docstring should be here'
 
 import random # WIP
+import re
 
 # From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
 #
@@ -19,6 +20,21 @@ def valid_entry_ending(entry):
     """Self-explanatory"""
     valid = entry.endswith('  ')
     return valid
+
+VALID_TAGS = ['three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
+    'hammer', 'm', 'mega', 'nine', 'octocat', 'pencil2', 'seven', 'six']
+
+def valid_tag(tag):
+    """Returns True when tag is an allowed one; False otherwise"""
+    return tag in VALID_TAGS
+
+def valid_entry_tags(entry):
+    """Self-explanatory"""
+    tags = re.findall(r':(\w+):', entry)
+    for tag in tags:
+        if not valid_tag(tag):
+            return False, tag
+    return True, ''
 
 def entry_has_tag_of_number(entry):
     """Self-explanatory"""
@@ -51,6 +67,7 @@ class Checker(object):
         self.filename = filename
         self.num_composite_headwords = 0
         self.num_invalid_endings = 0
+        self.num_invalid_tags = 0
         self.num_tag_shit = 0
         self.num_too_many_double_spaces = 0
         self.num_entries_with_triple_spaces = 0
@@ -62,6 +79,14 @@ class Checker(object):
         headword = tokens[0]
         print headword + ' ' + FAIL + ' <<< Incorrect entry ending #' \
             + str(self.num_invalid_endings) + ENDC
+
+    def treat_invalid_entry_tags(self, entry, tag):
+        """Self-explanatory"""
+        self.num_invalid_tags += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        print FAIL + headword + ' ' + BOLD + ':' + tag + ':' + ENDC \
+             + ' <<< Invalid tag #' + str(self.num_invalid_tags) + ENDC
 
     def treat_too_many_double_spaces(self, entry):
         """Self-explanatory"""
@@ -130,6 +155,9 @@ class Checker(object):
             entry = line.replace('\n', '')
             if not valid_entry_ending(entry):
                 self.treat_invalid_entry_ending(entry)
+            succeeded, invalid_tag = valid_entry_tags(entry)
+            if not succeeded:
+                self.treat_invalid_entry_tags(entry, invalid_tag)
             if entry.count('  ') > 2:
                 self.treat_too_many_double_spaces(entry)
             if entry.count('   ') > 0:
@@ -148,6 +176,7 @@ class Checker(object):
 
         input_file.close()
         succeeded = bool(self.num_invalid_endings \
+            + self.num_invalid_tags \
             + self.num_tag_shit \
             + self.num_too_many_double_spaces \
             + self.num_entries_with_triple_spaces \
@@ -159,6 +188,7 @@ class Checker(object):
             print '\nSummary of issues found'
             print '-----------------------'
             print_colored('Entries with invalid ending', self.num_invalid_endings)
+            print_colored('Entries with invalid tags', self.num_invalid_tags)
             print_colored('Entries with tag :shit:', self.num_tag_shit)
             print_colored('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)
