@@ -1265,6 +1265,7 @@ __brazer__
 __brazier__  
 __breach__ _v_ :four::hammer: (breached)  
 __breadcrumbs__ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
+__break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
 __break-the-china__  
 __breakaway__ :two::hammer:  
@@ -1655,7 +1656,7 @@ __centerpiece__
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cessation__  
-__cesspool__ :three::hammer: _The journalist cesspool._  
+__cesspool__ _n_ :four::hammer: _The journalist cesspool._  
 __chads__ _n_  
 __chafe__ _v_ :six::hammer: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafed__ _v_  
@@ -7929,7 +7930,7 @@ __springboard__ :two::hammer:
 __springing__ _v_ _The T-birds are capabke of springing the upset._  
 __springring clasp__  
 __sprinkle__ _v_ :nine::hammer: (sprinkled, sprinkling)  
-__sprinkler__ :three: _n_ __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
+__sprinkler__ _n_ :three::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkles__ _v_  
 __sprinkling__ _A sprinkling of luck._  
 __sprouting__  
@@ -7944,16 +7945,15 @@ __spunky__
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
 __spurious__ 1590-1600; < Latin _spurius_ bastard  __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
-__spurred__ _v_  
-__spurring__ :three::hammer:  
+__spur__ _v_ :four::hammer: (spurred, spurring)  
 __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __spurted__ _v_  
 __sputs__  
 __sputter__ _v_ :nine::m: (sputters, sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__ _adj_  
-__squabble__ :three: _n_ A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
-__squabbling__ _v_ :four::hammer: _A squabbling family._  
+__squabble<sup>1</sup>__ _v_ :four::hammer: (squabbling) _A squabbling family._  
+__squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :two::hammer:  
@@ -7996,7 +7996,7 @@ __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._
 __staggering__  
 __stagnant__ :two::hammer:  
 __staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
-__stairwell__ :three::hammer:  
+__stairwell__ _n_:three::camera::hammer:  
 __stakeholder__  
 __stakeouts__ :two::hammer:  
 __stale antiperspirant__  
@@ -8007,7 +8007,7 @@ __stalk<sup>2</sup>__ _v_
 __stallion__  
 __stalward__  
 __stalwart__ _n_ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
-__stamina__ :three::hammer:  
+__stamina__ _n_ :three::hammer:  
 __stammer<sup>1</sup>__ _n_  
 __stammer<sup>2</sup>__ _v_  
 __stammers__ _The consensus was shrugs and stammers._  
@@ -8096,7 +8096,7 @@ __stern__ _n_ :two::hammer:
 __stew-bums__ _n_  
 __stew<sup>1</sup>__ _n_ :two::hammer: _It captures the stew of hate._  
 __stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._  
-__steward__ :three::hammer: (stewards) _Concerned stewards of the Earth._  
+__steward__ _n_ :three::hammer: (stewards) _Concerned stewards of the Earth._  
 __stewardship__  
 __stewed tomatoes__  
 __stick > turnaround stick__  
@@ -8105,7 +8105,7 @@ __stickball__ Stickball is a street game related to baseball, usually formed as 
 __sticker price__  
 __sticker shock__  
 __stickers__  
-__stickler__ :three::hammer:  
+__stickler__ _n_ :three::hammer:  
 __stiff<sup>1</sup>__ _adj_ :six::hammer: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._  
 __stiff<sup>2</sup>__ _v_ _Trump is known for stiffing people he owes._  
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
@@ -8182,7 +8182,7 @@ __straits__
 __strand__ _n_ :two::hammer:  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ _v_ :three::hammer: (strangled, strangling) :es: estrangular  
-__stranglehold__ :three::hammer:  
+__stranglehold__ _n_ :three::hammer:  
 __strap overalls__  
 __strapless__ _Strapless black dress._  
 __strapped__  
@@ -8201,7 +8201,7 @@ __strech__ _He was awake for long streches of time._
 __strenuous__  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
-__stretch__ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
+__stretch__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __strewn__ _v_ :two::hammer:  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
@@ -8224,9 +8224,9 @@ __strummed__ _v_ _He then strummed out a string of hits, including "Message in a
 __strung out__  
 __strung__ _v_  
 __strut__ _v_ :four: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
+__stub__ _n_ :three::hammer: _The stubs of cold-withered grass._  
 __stubble__ _n_ :nine::m::hammer: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
 __stubby__ :two::hammer: _Stubby fingers._  
-__stub__ _n_ :three::hammer: _The stubs of cold-withered grass._  
 __stuck a chord__  
 __stuck-up__  
 __stud<sup>1</sup>__ _n_ :two::hammer:  
@@ -8314,6 +8314,7 @@ __supping__ _v_
 __supplant__  
 __supple__ _adj_ :pencil2::seven::hammer: _A supple weapon._ :es: flexible  
 __suppleness__ _Mental suppleness._  
+__supply and demand__  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
 __surcease__  
@@ -9157,6 +9158,7 @@ __vilify__ _v_
 __villa__ _n_  
 __villainy__ :pencil2:  
 __villas__ _n_  
+__vim__ _n_ _(informal)_ Robust energy and enthusiasm.  
 __vindicate__ _v_ :seven::hammer: (vindicated)  
 __vindication__ _n_ :six::hammer:  
 __vintner__ _n_  
@@ -9583,6 +9585,7 @@ __zealotry__
 __zealous__  
 __zeightgeist__  
 __zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+__zero hour__  
 __zero in__  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :three::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
@@ -9590,8 +9593,8 @@ __zesty__
 __zig__ _v_ _They tend to zig when markets zag._  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
 __zip-line__ (zip-lining)  
-__zip<sup>1</sup>__ _n_ :two::hammer: _Manning threw a couple of darts to Hakeem that had plenty of zip._ _Bouncing back from that 13-zip deficit._  
-__zip<sup>2</sup>__ _v_ _The ISS zips around Earth once every 90 minutes._  
+__zip<sup>1</sup>__ _n_ :three: __1__ _(informal)_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
+__zip<sup>2</sup>__ _v_ :two: _(informal)_ To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
 __zippy__ _A zippy hit parade._  
 __zit__ _n_ _Informal_ A spot on the skin.  
 __zonk__ _n_ :two::hammer:  
