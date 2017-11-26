@@ -36,15 +36,23 @@ def valid_entry_tags(entry):
             return False, tag
     return True, ''
 
+NUMBER_TO_TAG = [':two:', ':three:', ':four:', ':five:', ':six:', ':seven:', ':eight:', ':nine:', \
+    ':nine::m:']
+
+def get_tag(number):
+    """"Given an input number, an index is set to access a list to get the corresponding tag"""
+    index = number - 2
+    return NUMBER_TO_TAG[index]
+
 def entry_has_tag_of_number(entry):
-    """Self-explanatory"""
-    return entry.find(':nine:') > -1 \
-        or entry.find(':eight:') > -1 \
-        or entry.find(':seven:') > -1 \
-        or entry.find(':six:') > -1 \
-        or entry.find(':five:') > -1 \
-        or entry.find(':four:') > -1 \
-        or entry.find(':three:') > -1
+    """Self-explanatory""" # TODO Simplify this function
+    return entry.find(get_tag(9)) > -1 \
+        or entry.find(get_tag(8)) > -1 \
+        or entry.find(get_tag(7)) > -1 \
+        or entry.find(get_tag(6)) > -1 \
+        or entry.find(get_tag(5)) > -1 \
+        or entry.find(get_tag(4)) > -1 \
+        or entry.find(get_tag(3)) > -1
 
 def entry_has_tag_of_high_number(entry):
     """Self-explanatory"""
