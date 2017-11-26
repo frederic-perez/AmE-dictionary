@@ -8205,7 +8205,7 @@ __stretch__ :three::hammer: _An interesting stretch run in the NFC._ _Second-hal
 __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __strewn__ _v_ :two::hammer:  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
-__strictures__ :three::hammer: _The strictures on women's behavior were easing._  
+__stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
@@ -8226,7 +8226,7 @@ __strung__ _v_
 __strut__ _v_ :four: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stubble__ _n_ :nine::m::hammer: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
 __stubby__ :two::hammer: _Stubby fingers._  
-__stubs__ :three::hammer: _The stubs of cold-withered grass._  
+__stub__ _n_ :three::hammer: _The stubs of cold-withered grass._  
 __stuck a chord__  
 __stuck-up__  
 __stud<sup>1</sup>__ _n_ :two::hammer:  
@@ -8236,7 +8236,7 @@ __stuff sacks__ _n_
 __stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._  
 __stuffer__  
 __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
-__stuffy__ :three::hammer:  
+__stuffy__ _adj_ :three::hammer:  
 __stump__  _v_ :nine::dart: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
@@ -8250,7 +8250,7 @@ __stupas__
 __sturdy__  
 __stutter__ _v_ :two::hammer:  
 __stymie__ _v_ :nine::m::hammer: (stymied)  
-__suave__ :three::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
+__suave__ _adj_ :three::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subcompact__ (car?)  
 __subdue__ _v_ :four::hammer: (subdued)  
@@ -8271,7 +8271,7 @@ __suburbanites__ _n_
 __suburbs__  
 __succinctly__ :pencil2:  
 __succint__  
-__succor__ :three::hammer:  
+__succor__ _n_ :three::hammer:  
 __succubus__ _n_ :three::hammer:  
 __succumb__ :pencil2:  
 __such-and-such__  
@@ -8307,7 +8307,7 @@ __sunken__
 __suntan__ _n_  
 __super duper__  
 __supercell thunderstorm__  
-__superintendent__ :three::hammer:  
+__superintendent__ _n_ :three::hammer:  
 __superpooch__  
 __supervise__ _v_  
 __supping__ _v_  
@@ -8376,8 +8376,7 @@ __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._
 __swerve<sup>2</sup>__ _v_ :nine::m::hammer: (swerves, swerved)  
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
-__swilled__ (swilling) :three::hammer: _Swilling wine._  
-__swilling__ :two::hammer: _Beefy men swilling champagne from magnums._  
+__swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
 __swim tube__  
 __swimabout__  
 __swimming hole__ :two::hammer:  
@@ -8396,7 +8395,7 @@ __swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop o
 __swoop<sup>2</sup>__ _v_ :seven::hammer: (swooped, swooping)  
 __swoopy__  
 __swooshing__  
-__sycophant__ :three::hammer: (sycophants)  
+__sycophant__ _n_ :three::hammer: (sycophants)  
 __syllogism__ :two::hammer:  
 __syndicated__ :two::hammer:  
 __syringe__  
@@ -8446,7 +8445,7 @@ __talons__ _The nails were sharp as talons._
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
 __tamp down__ _v_ :two::hammer:  
 __tan__ Color?  
-__tang__ :three::hammer: _Dory, the little blue tang fish._  
+__tang__ _n_ :three::hammer: _Dory, the little blue tang fish._  
 __tangle__ _v_  
 __tangled__ _Cousin and Horford tangled in the first quarter Wednesday._  
 __tank__ _v_ :six::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._  
@@ -8542,8 +8541,7 @@ __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and s
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
-__terry cloth__  
-__terry-cloth__ :three::hammer: _A blue terry-cloth pullover._  
+__terry-cloth__ _n, adj_ :four::hammer: (terry cloth) _A blue terry-cloth pullover._  
 __terse__  
 __tester bed__ :two::hammer:  
 __testy__  
@@ -8691,7 +8689,7 @@ __to be in the clear__
 __to date__ :two::hammer: _To date, no winners have attended._  
 __to hell and back__ :two::hammer:  
 __to his name__ _Bernie died with $1.09 to his name._  
-__to taste__ :three::hammer: _Add more vinegar to taste._ :es: al gusto (?)  
+__to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that end,__  
 __to this day__ :two::hammer:  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
@@ -8739,7 +8737,7 @@ __topsy-turvy__
 __torches__ _n_  
 __tore__ _v_  
 __torpedo__ _v_  
-__torpor__ :three: _n_ A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _Syn_ lethargy  
+__torpor__ _n_ :three: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _Syn_ lethargy  
 __torrid__  
 __torte__ _A torre was named after her._  
 __toss out__ _One student tossed out expletives._  
@@ -8756,7 +8754,8 @@ __touchline__
 __tough cookie__  
 __tough luck__  
 __tourney__  
-__tousled__ :three::hammer:  
+__tousle__ _v_  
+__tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _v_ :three::hammer: (touted)  
 __tow__ :two::hammer: _Cameras in tow._  
 __townhouses__ _n_  
@@ -8799,7 +8798,7 @@ __treat<sup>2</sup>__ _n_
 __treble__ :two::hammer: _A treble hook._  
 __trellis__ _n_ :four::hammer:  
 __trellises__ _From his trellises._  
-__trepidation__ :three::hammer:  
+__trepidation__ _n_ :three::hammer:  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
 __trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
@@ -8876,7 +8875,7 @@ __tuck tail__ _You just don't tuck tail and go someplace else._
 __tuck<sup>1</sup>__ _v_ :three::hammer: (tucks, tucked) _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
 __tufted__  
-__tug of war__ :three::hammer:  
+__tug of war__ _n_ :three::hammer:  
 __tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  
 __tuk-tuk__  
 __tulip__  
@@ -8886,7 +8885,7 @@ __tumblebug__
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tunnel vision__  
 __tuppence__  
-__turgid__ :three::hammer:  
+__turgid__ _adj_ :three::hammer:  
 __turkey drumstick__  
 __turkey stock__ :camera:  
 __turmoil__  
@@ -8894,7 +8893,7 @@ __turning tables__ _Feds turning the tables on ssexual predators._
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
 __turnkey__  
-__turnout__ :three::hammer: _The turnout rate._  
+__turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ _:es: facturación, volumen de ventas_ __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
@@ -8933,7 +8932,7 @@ __twitch<sup>2</sup>__ _v_ :six::hammer: (twitched)
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
-__tycoon__ :three::hammer:  
+__tycoon__ _n_ :three::hammer:  
 __tying__ _v_ :pencil2:  
 __type-A personalities__  
 __typecast__ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
@@ -8944,11 +8943,11 @@ __ukuleles__
 __umpteen__  
 __umpteenth__ :two::hammer:  
 __unabashed__ _adj_ :four: Not ashamed, disconcerted, or apologetic; boldly certain of one's position. _An unabashed fan.  
-__unabated__ :three::hammer:  
+__unabated__ _adj_ :three::hammer:  
 __unalienable__  
 __unanimous__  
 __unapologetic__ _adj_ :five::hammer:  
-__unapologetically__ :three::hammer: _Union Kitchen is unapologetically for-profit._  
+__unapologetically__ _adv_ :three::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __uncouth__  
