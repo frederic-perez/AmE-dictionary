@@ -6015,7 +6015,7 @@ __philanderer__
 __philandering__  
 __philtre__  
 __phlebotomy__  
-__phlegm__ :three::hammer:  
+__phlegm__ _n_ :three::hammer:  
 __phlegmy__ :three::hammer:  
 __photo-op__  
 __phylacteries__ :two::hammer:  
@@ -6309,9 +6309,9 @@ __preposterous__ _adj_ :six::hammer:
 __preposterously__  
 __preppers__  
 __prepping__ _v_  
-__prerogative__ :three::hammer:  
+__prerogative__ _n_ :three::hammer:  
 __prescience__ _n_  
-__prescient__ :three::hammer:  
+__prescient__ _adj_ :three::hammer:  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
 __preserve__ _A comedy about gorillas in a preserve._  
 __preserves__ _n_ :two::hammer: _A jar of fig preserves._  
@@ -6395,7 +6395,7 @@ __proselytize__ _v_ :four::pencil2::dart: Convert or attempt to convert (someone
 __prospect__ _n_ (sports)  
 __prospectus__  
 __prostrate__ _v_  
-__protean__ :three::hammer:  
+__protean__ _adj_ :three::hammer:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protestation__  
 __protract__ _v_  To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
@@ -6443,8 +6443,7 @@ __pullout__ _Pullout couches._
 __pulpit__ :two::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
-__pummel__ :three::hammer: _v_  
-__pummeled__ _v_  
+__pummel__ _v_ :four::hammer: (pummeled)  
 __pump__ _n_ :two::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pun__ :es: juego de palabras  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
@@ -6555,7 +6554,7 @@ __rack up__ _v_ :five::hammer: _He had racked up a criminal record._ _Racking up
 __racked__ _v_ :two::hammer:  
 __racket<sup>1</sup>__ _n_ :four::hammer: _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
-__racketeer__ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
+__racketeer__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeering__  
 __racous__  
 __racousness__  
@@ -6588,7 +6587,7 @@ __ramble__ _v_
 __rambler__ :three::hammer:  
 __ramblers__ _n_  
 __rambling__ _v_ :four::hammer:  
-__rambunctious__ :three::hammer:  
+__rambunctious__ _adj_ :three::hammer:  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramp up__ _v_ :four::hammer: _Official decisions ramped up activity._  
@@ -6596,7 +6595,7 @@ __rampage<sup>1</sup>__ _v_ :two::hammer:
 __rampage<sup>2</sup>__ _n_ :two::hammer:  
 __rampant__ :two::hammer:  
 __rampantly__  
-__rampart__ :three::hammer: (ramparts) _Ancient stone ramparts._  
+__rampart__ _n_ :three::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ :two::hammer:  
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
@@ -6613,7 +6612,7 @@ __rant__ _v_
 __rapidly__  
 __rapiers__  
 __rapping__ _v_  
-__rapprochement__ :three::hammer:  
+__rapprochement__ _n_ :three::hammer:  
 __rapt<sup>1</sup>__ _adj (?)_ :three::hammer: _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
 __rapture__ :two::hammer: _The film _Carol_ left critics in rapture._  
@@ -6646,7 +6645,7 @@ __rave<sup>1</sup>__ _n_ :three: __1__ _Informal_ An extremely enthusiastic reco
 __rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
 __rave__ _adj_  
 __raven-haired__  
-__ravenous__ :three::hammer:  
+__ravenous__ _adj_ :three::hammer:  
 __raving__ _v_ :two::hammer:  
 __ravish__  
 __ravishing__ :two::hammer:  
@@ -6774,7 +6773,7 @@ __render__ _v_ :two::hammer::astonished: _Cook bacon until about half the fat is
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
 __rendering plant__  
-__renminbi__ :three::hammer:  
+__renminbi__ _n_ :three: The official currency of the People's Republic of China.  
 __renown__  
 __rent metal__  
 __rent__ _v_ _The elkhound's hound was rent._  
@@ -6808,7 +6807,7 @@ __resplendent__
 __respondent__ _n_ :three::hammer: (respondents)  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
-__restive__ :three::hammer:  
+__restive__ _adj_ :three::hammer:  
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ :two::hammer: _n_  
@@ -6859,7 +6858,7 @@ __rickety__ _adj_ :six::hammer: _Rickety chair._
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet__ _v_ :two::hammer:  
-__riddance__ :three::hammer:  
+__riddance__ _n_ :three::hammer:  
 __riddle<sup>1</sup>__ _n_ :three::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
 __ridership__ :two::hammer:  
@@ -7048,7 +7047,7 @@ __saggy__
 __sahib__  
 __sake__ _For comparison's sake, it hit 90 twice here all of last July._  
 __sakura__  
-__salacious__ :three::hammer: _Salacious music._  
+__salacious__ _adj_ :three::hammer: _Salacious music._  
 __sales force__  
 __salient__ :two::hammer:  
 __salivating__ _v_  
@@ -7142,7 +7141,7 @@ __schooling__ _I could smell trout schooling up in the bay._
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
 __scimitar__ _n_ :two::hammer:  
-__scion__ :three::hammer:  
+__scion__ _n_ :three::hammer:  
 __scissor lift__  
 __scleroderma__  
 __scoff__ _v_ :five: (scoffed)  Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
@@ -7171,7 +7170,8 @@ __scream-o-meter__
 __screaming yellow__  
 __screech__ _n_ :two::hammer:  
 __screeched__ _v_ :six::hammer: (screeching)  
-__screwball__ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
+__screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
+__screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribe__ _n_ :two::hammer: (scribes)  
 __scrimmage__ :three::hammer:  
@@ -7199,8 +7199,7 @@ __scumbags__
 __scupper__ _v_  
 __scuppers__ _n_ :two::hammer:  
 __scurry__ _v_  
-__scut work__ :three::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
-__scut__ _Scut work._  
+__scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuzzy__  
 __scythe__  
@@ -7278,7 +7277,7 @@ __setback__ _n_ :two::hammer: (setbacks) _It has suffered several setbacks._
 __setting > picturesque setting__ :es: entorno picturesco  
 __seventh heaven__ :astonished:  
 __severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
-__severance__ :three::hammer: _Severance pay._  
+__severance__ _n_ :three::hammer: _Severance pay._  
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
 __sewer gas__  
@@ -7345,7 +7344,7 @@ __sheikhs__
 __shell out__ _v_ :three::hammer:  
 __shell road__  
 __shell-shocked__ :two::hammer:  
-__shell__ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
+__shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
 __shellfish__ _Shellfish stewed, jerked._  
 __shelling out__  
 __shelling__ _v_  
@@ -7397,7 +7396,7 @@ __shoot-from-the-hip__
 __shootaround__ _n_ :four::hammer: (basketball)  
 __shooting gallery__  
 __shootout__ _n_ __1a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
-__shopkeeper__ :three::hammer:  
+__shopkeeper__ _n_ :three::hammer:  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short-charge__  
