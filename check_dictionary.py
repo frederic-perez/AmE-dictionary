@@ -44,15 +44,24 @@ def get_tag(number):
     index = number - 2
     return NUMBER_TO_TAG[index]
 
-def entry_has_tag_of_number(entry):
+def entry_has_tag_of_number_3_to_9(entry):
     """Self-explanatory""" # TODO Simplify this function
-    return entry.find(get_tag(9)) > -1 \
-        or entry.find(get_tag(8)) > -1 \
-        or entry.find(get_tag(7)) > -1 \
-        or entry.find(get_tag(6)) > -1 \
-        or entry.find(get_tag(5)) > -1 \
+    return entry.find(get_tag(3)) > -1 \
         or entry.find(get_tag(4)) > -1 \
-        or entry.find(get_tag(3)) > -1
+        or entry.find(get_tag(5)) > -1 \
+        or entry.find(get_tag(6)) > -1 \
+        or entry.find(get_tag(7)) > -1 \
+        or entry.find(get_tag(8)) > -1 \
+        or entry.find(get_tag(9)) > -1
+
+def entry_has_tag_of_number_2_to_9(entry):
+    """Self-explanatory""" # TODO Simplify this function
+    return entry.find(get_tag(2)) > -1 \
+        or entry_has_tag_of_number_3_to_9(entry)
+
+def entry_has_tag_of_number(entry, number):
+    """Self-explanatory"""
+    return entry.find(get_tag(number)) > -1
 
 def entry_has_tag_of_high_number(entry):
     """Self-explanatory"""
@@ -80,6 +89,15 @@ class Checker(object):
         self.num_tag_shit = 0
         self.num_too_many_double_spaces = 0
         self.num_entries_with_triple_spaces = 0
+        self.list_9_m = []
+        self.list_9 = []
+        self.list_8 = []
+        self.list_7 = []
+        self.list_6 = []
+        self.list_5 = []
+        self.list_4 = []
+        self.list_3 = []
+        self.list_2 = []
 
     def treat_invalid_entry_ending(self, entry):
         """Self-explanatory"""
@@ -173,7 +191,7 @@ class Checker(object):
                 self.treat_triple_spaces(entry)
             if entry.find(':shit:') > -1:
                 self.treat_shit_tag(entry)
-            if entry_has_tag_of_number(entry):
+            if entry_has_tag_of_number_3_to_9(entry):
                 tokens = entry.split()
                 do_print = True
                 headword, part_of_speech = self.get_headword_and_part_of_speech(tokens, do_print)
@@ -206,6 +224,49 @@ class Checker(object):
                 num_wrong_part_of_speech)
         print
         return succeeded
+
+    def gather_high_frequency_headwords(self):
+        """Searching for the entries of the dictionary with higher frequency"""
+        input_file = open(self.filename, 'r')
+
+        for line in input_file:
+            entry = line.replace('\n', '')
+            if entry_has_tag_of_number_2_to_9(entry):
+                tokens = entry.split()
+                do_print = False
+                headword, _ = self.get_headword_and_part_of_speech(tokens, do_print)
+                if entry_has_tag_of_number(entry, 10):
+                    self.list_9_m += [headword]
+                elif entry_has_tag_of_number(entry, 9):
+                    self.list_9 += [headword]
+                elif entry_has_tag_of_number(entry, 8):
+                    self.list_8 += [headword]
+                elif entry_has_tag_of_number(entry, 7):
+                    self.list_7 += [headword]
+                elif entry_has_tag_of_number(entry, 6):
+                    self.list_6 += [headword]
+                elif entry_has_tag_of_number(entry, 5):
+                    self.list_5 += [headword]
+                elif entry_has_tag_of_number(entry, 4):
+                    self.list_4 += [headword]
+                elif entry_has_tag_of_number(entry, 3):
+                    self.list_3 += [headword]
+                elif entry_has_tag_of_number(entry, 2):
+                    self.list_2 += [headword]
+
+        input_file.close()
+        print OKCYAN + '\nSummary of high frequency headwords'
+        print '-----------------------------------'
+        print 'Entries with ' + str(get_tag(10)) + ' = ' + str(len(self.list_9_m))
+        print 'Entries with ' + str(get_tag(9)) + ' = ' + str(len(self.list_9))
+        print 'Entries with ' + str(get_tag(8)) + ' = ' + str(len(self.list_8))
+        print 'Entries with ' + str(get_tag(7)) + ' = ' + str(len(self.list_7))
+        print 'Entries with ' + str(get_tag(6)) + ' = ' + str(len(self.list_6))
+        print 'Entries with ' + str(get_tag(5)) + ' = ' + str(len(self.list_5))
+        print 'Entries with ' + str(get_tag(4)) + ' = ' + str(len(self.list_4))
+        print 'Entries with ' + str(get_tag(3)) + ' = ' + str(len(self.list_3))
+        print 'Entries with ' + str(get_tag(2)) + ' = ' + str(len(self.list_2))
+        print ENDC
 
     def check_duplicated_headwords(self):
         """Self-explanatory"""
@@ -285,5 +346,6 @@ CHECKER.check_duplicated_headwords()
 print
 CHECKER.check_undef_high_freq_keywords()
 print
+CHECKER.gather_high_frequency_headwords()
 
 use_random(100)
