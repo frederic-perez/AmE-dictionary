@@ -1731,9 +1731,7 @@ __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :three::hammer: (chipped in)  
-__chip on (someone) shoulders__ _Let's walk into that meeting tomorrow with a chip on our shoulders._  
-__chip on his shoulder__  
-__chip on one's shoulder__  
+__chip on (someone) shoulders__ :four::hammer: (chip on his shoulder, chip on one's shoulder) _Let's walk into that meeting tomorrow with a chip on our shoulders._  
 __chip shots__ _The golfer was hitting some horrible chip shots._  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
@@ -7454,7 +7452,7 @@ __shrivel__ _v_ :five::hammer: (shriveled)
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __shrubbery__  
-__shtick__ or __shtik__ :three: _n_ _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
+__shtick__ _n_ :three: (also shtik) _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
 __shucking__ _v_ :two::hammer: _I know when you're shuckin' and jivin' me._ _Portraits of a man shucking corn._  
 __shudderings__ _n_  
@@ -7485,7 +7483,7 @@ __sidearm__
 __sidecar shovelhead__  
 __sided__ _Installed in all sided (vs brick) homes._  
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
-__sidelines__ :three::hammer: _Investors retreated to the sidelines._  
+__sidelines__ _n_ :three: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
 __sidestep__ _v_ :two::hammer:  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
@@ -7529,7 +7527,7 @@ __sizable__ :two::hammer: _Clinton's sizable lead._
 __sizzle<sup>1</sup>__ _v_ :two: _Rihanna sizzled when she performed in New York._  
 __sizzle<sup>2</sup>__ _n_ :four: _Filming a "sizzle reel."_  
 __sizzle__  
-__sizzling__ :three::hammer: _The sizzling singer._  
+__sizzling__ _adj_ :three: __1__ Exciting and intensely emotional. _The sizzling singer._ __2__ Hot enough to make a hissing sound. __3__ Brought to the table in the metal dish it has been cooked in, making such a sound.  
 __skag__  
 __skank__ _v_ (?)  
 __skate__ _v_ :three::hammer: _He don't let nobody skate unless it's for money._  
@@ -7545,13 +7543,13 @@ __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan
 __skim__ _v_ :three::hammer: (skimming) _Skim fat from chilled pan juices and finish making gravy._  
 __skimboard__  
 __skimp__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
-__skimpy__ :three::hammer:  
+__skimpy__ _adj_ :three::hammer:  
 __skin parlor__  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
-__skirmish<sup>1</sup>__ :three::hammer:  
-__skirmish<sup>2</sup>__ :two::hammer:  
+__skirmish<sup>1</sup>__ _n_ :three::hammer:  
+__skirmish<sup>2</sup>__ _v_ :two::hammer:  
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
 __skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
@@ -7643,7 +7641,7 @@ __sloppy seconds__
 __sloppy__ _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
-__sloth__ :three::hammer: _The winter sloth._  
+__sloth__ _n_ :three: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ (slouching)  
 __slouchy__  
@@ -7659,7 +7657,7 @@ __sluice__ _v_ :six::hammer: (sluiced, sluicing)
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
-__slumber__ :three::hammer: _Slumber parties._  
+__slumber__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
 __slumming__ _v_ :two::hammer:  
 __slumped__ _v_  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
@@ -7773,7 +7771,7 @@ __snug__ _v__ :three::hammer:
 __snuggles__  
 __snugly__ :two::hammer:  
 __so much so__ _So much so that working with animals has become one of his passions._  
-__so to speak__ :three::dart::hammer:  
+__so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __soap opera__  
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __soar__ _v_  
@@ -7854,7 +7852,7 @@ __spatter__ _n_
 __spay__ _v_ :two::hammer: (spayed)  
 __spd__  
 __speak out__  
-__speakeasy__ :three::hammer: :es: taberna clandestina  
+__speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
 __spearhead__ _v_ :four: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
@@ -7916,15 +7914,15 @@ __spool__ _n_
 __sporadically__  
 __sportcoat__  
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
+__spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spotless__  
-__spots__ :three::hammer: _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spout__ _v_ _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
 __sprawl__ _v_ :three::hammer:  (sprawled)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
 __spree__  
-__sprig__ :three::hammer: _A sprig of mint._  
+__sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
 __springboard__ :two::hammer:  
 __springing__ _v_ _The T-birds are capabke of springing the upset._  
@@ -8948,7 +8946,7 @@ __unabated__ _adj_ :three::hammer:
 __unalienable__  
 __unanimous__  
 __unapologetic__ _adj_ :five::hammer:  
-__unapologetically__ _adv_ :three::hammer: _Union Kitchen is unapologetically for-profit._  
+__unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __uncouth__  
