@@ -5204,7 +5204,7 @@ __merc__ :two::hammer:
 __mercantile__  
 __merch__ Merchandaising?  
 __merchant__  
-__mercurial__ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
+__mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __mere__  
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
@@ -5253,7 +5253,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
-__minnow__ :three::hammer: (minnows) :two::hammer:  
+__minnow__ _n_ :three::hammer: (minnows) :two::hammer:  
 __minor__ _n_  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
@@ -5304,7 +5304,7 @@ __modicum__ _n_ :four: If you want to describe a small amount of something, try 
 __mogrify__ _v_  
 __mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
-__molasses__ :three::hammer:  
+__molasses__ _n_ :three::hammer:  
 __mold__ _n_  
 __moldings__  
 __moldy__ :two::hammer:  
@@ -5329,7 +5329,7 @@ __monkey suit__
 __monkey wrench__  
 __monogramming__  
 __mononyms__  
-__monsoon__ :three::hammer:  
+__monsoon__ _n_ :three::hammer:  
 __monstrosity__ :pencil2::two::hammer:  
 __moody__ :two::hammer:  
 __moon roof__  
@@ -5483,7 +5483,7 @@ __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her fam
 __needless to say,__  
 __needlestick__ :pencil2:  
 __needy__  
-__nefarious__ :three::hammer:  
+__nefarious__ _adj_ :three::hammer:  
 __neighed__ _v_  
 __neighing__ _v_  
 __nematodes__  
@@ -5492,7 +5492,7 @@ __neoteric__
 __nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
 __nerve-racking__  
 __nervy__ :pencil2::two::hammer:  
-__nest egg__ :three::hammer:  
+__nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :four::hammer: (nestled)  
 __nether__  
 __neuroblastoma__  
@@ -5513,7 +5513,7 @@ __nickel__ _n_ _A nickel mine._
 __nifty__ _adj_ :two: _Informal_ __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __nigh__  
-__nightcap__ :three::hammer: (nightcaps) _Whiskey nightcaps._  
+__nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__  
 __nightmarish__ :two::hammer:  
 __nihilistic__  
@@ -5543,9 +5543,9 @@ __non-call__ _He complained about non-calls._
 __non-denominational__ _Non-denominational services._  
 __non-exempt__ _Non-exempt position._  
 __nonce__  
-__nonchalant__ :three::hammer:  
+__nonchalant__ _adj_ :three::hammer:  
 __nonchalantly__  
-__noncommittal__ :three::hammer:  
+__noncommittal__ _adj_ :three::hammer:  
 __nondescript__ :two::hammer:  
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_  
@@ -5566,7 +5566,7 @@ __not even close__ :dart:
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _Informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _Informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
-__notwithstanding__ :three::hammer:  
+__notwithstanding__ _prep_ :three::hammer:  
 __novella__  
 __noxious__  
 __nozzle__  
@@ -5606,7 +5606,7 @@ __oblate__ _n_
 __oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
 __oblivious__ :two::hammer:  
-__obnoxious__ :three::hammer:  
+__obnoxious__ _adj_ :three::hammer:  
 __obo__ :two: (abbreviation) Or best offer.  
 __obsequious__  
 __obsidian__  
@@ -5649,7 +5649,7 @@ __old-timers__ _n_
 __olefin__ _n_  
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
-__omen__ :three::hammer:  
+__omen__ _n_ :three::hammer:  
 __ominous__ _adj_ :six: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
@@ -5692,8 +5692,8 @@ __opulent__
 __orb__ _n_ :two::hammer:  
 __ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
-__ordinance__ :three::hammer: _Ordinance worker._  
-__ordnance__ :three::pencil2::hammer:  
+__ordinance__ _n_ :three::hammer: _Ordinance worker._  
+__ordnance__ _n_ :three::pencil2::hammer:  
 __ore__ :two::hammer:  
 __ornament__  
 __ornate__ _n_ :four::hammer:  
@@ -5795,7 +5795,7 @@ __overwrought__ _Overwrought adults_
 __owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
 __own goal__ _Mikael Lustig scored an own goal._  
 __own up__  
-__oxblood__ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
+__oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
 __oyster__  
 __oz.__  
 __pablum__ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
@@ -6585,8 +6585,7 @@ __rally__ (stock market)
 __ram<sup>1</sup>__ _v_ :seven::hammer: (rammed, ramming) _JFK's PT boat was rammed._ _Ramming your feet into the stirrups._  
 __ram<sup>2</sup>__ _n_  
 __ramble__ _v_  
-__rambler__ :three::hammer:  
-__ramblers__ _n_  
+__rambler__ _n_ :three::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
 __rambunctious__ _adj_ :three::hammer:  
 __ramen shop__  
@@ -7155,7 +7154,7 @@ __scoot__ _v_
 __scooter__ _Motorized scooter._  
 __scope out__ _v_  
 __scorching__  
-__score__ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
+__score__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: scour a dirty oven. __b__ To remove by scrubbing: scour grease from a pan. __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
@@ -7177,7 +7176,8 @@ __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _T
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribe__ _n_ :two::hammer: (scribes)  
-__scrimmage__ :three::hammer:  
+__scrimmage<sup>1</sup>__ _n_ :three::hammer:  
+__scrimmage<sup>2</sup>__ _v_  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
 __scrounge up__ _To scrounge up the funds._  
@@ -7244,7 +7244,7 @@ __seesaw<sup>2</sup>__ _v_
 __seethe__ _v_ :nine::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
 __segue__  
 __seize__ _v_ :four::hammer: (seizing) _Seizing an opportunity._  
-__seizing__ :three::hammer:  
+__seizing__ _n_ :three::hammer:  
 __sekuhata__ Sexual harassment.  
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
