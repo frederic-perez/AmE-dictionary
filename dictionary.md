@@ -265,6 +265,7 @@ __Picayune__
 __Podunk town__  
 __Point is,__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
+__Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __Prep__  
 __President-elect__ _n_ :six::hammer: (also president-elect)  
@@ -6133,7 +6134,7 @@ __plasters__ _n_ _Salves, poultices, and plasters._
 __plate__ _Baseball_  
 __plateau__  
 __plating__ _It's your armor plating._  
-__platitudes__ :three::hammer:  
+__platitude__ _n_ :three::hammer: (platitudes)  
 __platoon__ _v_ :two::hammer:  
 __platypus__ _Internet platypus pranks._  
 __plaudits__  
@@ -6143,7 +6144,7 @@ __play havoc__
 __play it safe__ _v_ :four::hammer: (play safe)  
 __play short__  
 __play the tails off__ _I'm proud of our defense. They played their tails off._  
-__playbook__ :three::hammer: _The industry's playbook._  
+__playbook__ _n_ :three::hammer: _The industry's playbook._  
 __playmaker__ _n_  
 __playmaking__ _His playmaking ability._  
 __playoff pairings__ _The final rankings and playoff pairings will be released Sunday._  
@@ -6156,7 +6157,7 @@ __plead out__
 __plead__ _v_ _Lee is pleading with viewers to watch hthe film with an open mind._  
 __pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
 __pledge__ _n_ :two::hammer:  
-__plethora__ :three::hammer:  
+__plethora__ _n_ :three::hammer:  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
@@ -6212,7 +6213,6 @@ __poky__ :two::hammer: _Coverage was a little poky._
 __polarizing__  
 __police state__ _A society log run as a police state._  
 __policyholder__  
-__polish__ :three::hammer: _Polish woman with experience; good references._  
 __politburo__  
 __pollster__ _n_  
 __pols__ _n_  
@@ -6262,10 +6262,10 @@ __pot__ :two::hammer: _A pot of assets._ _Where are the pot bunkers?_
 __potatoes__ :pencil2:  
 __pothole__ _n_ :three::hammer: (potholes)  
 __potholed__ _The island's potholed highways._  
-__potluck__  :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
+__potluck__  :three:  Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
-__pounce__ :three::hammer: _v_ (pounced)  
+__pounce__ _v_ :three::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pout__ _v_ :six::hammer: (pouts, pouting) :three::hammer: _Pouting session._  
 __powder blue__ Color?  
@@ -6348,14 +6348,14 @@ __primer__ _n_
 __priming__ _v_  
 __primly__ :two::hammer:  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
-__prior__ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
+__prior__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
 __prise__ _n_  
 __prissy__ _adj_ :two::hammer:  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
 __prize<sup>2</sup>__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
-__prizefighter__ :three::hammer:  
+__prizefighter__ _n_ :three::hammer:  
 __pro bono__ :two::hammer: _Pro bono consultant._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __probation__ _A person has ben sentenced to probation._  
@@ -6685,8 +6685,8 @@ __recess__ _The deepest recesses of the brain._
 __recidivism__  
 __recidivist__ _n_ :four::hammer:  
 __recitalist__  
-__reckon__ (reckons) :three::hammer:  
-__reckoning__  
+__reckon__ _v_ :three::hammer:  
+__reckoning__ _n_  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
@@ -6825,7 +6825,8 @@ __retirement__
 __retooled__ _v_ :two::hammer:  
 __retracement__  
 __retrain__ _v_  
-__retreat__ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
+__retreat<sup>1</sup>__ _v_  
+__retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
 __retrenching__  
 __retrenchment__ :two::hammer: _An era of American retrenchment._  
 __returnee__  
@@ -7042,7 +7043,8 @@ __saddle__ _A saddle of meat._
 __safeguard__  
 __safekeeping__  
 __sag__ _v_ :six: (sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
-__sage__ :three::hammer: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
+__sage<sup>1</sup>__ _n_  
+__sage<sup>2</sup>__ _adj_ :three::hammer: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
 __sahib__  
@@ -7942,8 +7944,8 @@ __spunk__
 __spunky__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
-__spurious__ 1590-1600; < Latin _spurius_ bastard  __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
 __spur__ _v_ :four::hammer: (spurred, spurring)  
+__spurious__ 1590-1600; < Latin _spurius_ bastard  __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
 __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __spurted__ _v_  
