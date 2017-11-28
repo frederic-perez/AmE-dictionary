@@ -79,6 +79,35 @@ def print_colored(label, number):
     else:
         print FAIL + message + ENDC
 
+def get_headword_and_part_of_speech(tokens, do_print=False):
+    """Self-explanatory"""
+    num_tokens = len(tokens)
+    headword = tokens[0]
+    headword_completed = headword.count('__') == 2
+    idx = 0
+    while not headword_completed:
+        idx += 1
+        if idx == num_tokens:
+            headword_completed = True
+        else:
+            headword += ' ' + tokens[idx]
+            if headword.count('__') == 2:
+                headword_completed = True
+    idx += 1
+    if idx < num_tokens:
+        part_of_speech = tokens[idx]
+    else:
+        part_of_speech = ''
+    if idx > 1:
+        # self.num_composite_headwords += 1
+        if do_print:
+            print OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
+                + ' <<< Composite headword #' \
+                + ENDC
+                #+ str(self.num_composite_headwords)
+                #+ ENDC
+    return headword, part_of_speech
+
 class Checker(object):
     """The class Checker encapsulates all functionalities to check the dictionary"""
     def __init__(self, filename):
@@ -89,15 +118,6 @@ class Checker(object):
         self.num_tag_shit = 0
         self.num_too_many_double_spaces = 0
         self.num_entries_with_triple_spaces = 0
-        self.list_9_m = []
-        self.list_9 = []
-        self.list_8 = []
-        self.list_7 = []
-        self.list_6 = []
-        self.list_5 = []
-        self.list_4 = []
-        self.list_3 = []
-        self.list_2 = []
 
     def treat_invalid_entry_ending(self, entry):
         """Self-explanatory"""
@@ -142,33 +162,6 @@ class Checker(object):
         print headword + ' ' + part_of_speech + FAIL \
             + ' <<< :shit: found; use :hammer: instead' + ENDC
 
-    def get_headword_and_part_of_speech(self, tokens, do_print=False):
-        """Self-explanatory"""
-        num_tokens = len(tokens)
-        headword = tokens[0]
-        headword_completed = headword.count('__') == 2
-        idx = 0
-        while not headword_completed:
-            idx += 1
-            if idx == num_tokens:
-                headword_completed = True
-            else:
-                headword += ' ' + tokens[idx]
-                if headword.count('__') == 2:
-                    headword_completed = True
-        idx += 1
-        if idx < num_tokens:
-            part_of_speech = tokens[idx]
-        else:
-            part_of_speech = ''
-        if idx > 1:
-            self.num_composite_headwords += 1
-            if do_print:
-                print OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
-                    + ' <<< Composite headword #' \
-                    + str(self.num_composite_headwords) + ENDC
-        return headword, part_of_speech
-
     def check_entries(self):
         """Looking for mistakes in the entries of the dictionary
 
@@ -194,7 +187,7 @@ class Checker(object):
             if entry_has_tag_of_number_3_to_9(entry):
                 tokens = entry.split()
                 do_print = True
-                headword, part_of_speech = self.get_headword_and_part_of_speech(tokens, do_print)
+                headword, part_of_speech = get_headword_and_part_of_speech(tokens, do_print)
                 if part_of_speech.find('_') == -1:
                     num_wrong_part_of_speech += 1
                     print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
@@ -225,49 +218,6 @@ class Checker(object):
         print
         return succeeded
 
-    def gather_high_frequency_headwords(self):
-        """Searching for the entries of the dictionary with higher frequency"""
-        input_file = open(self.filename, 'r')
-
-        for line in input_file:
-            entry = line.replace('\n', '')
-            if entry_has_tag_of_number_2_to_9(entry):
-                tokens = entry.split()
-                do_print = False
-                headword, _ = self.get_headword_and_part_of_speech(tokens, do_print)
-                if entry_has_tag_of_number(entry, 10):
-                    self.list_9_m += [headword]
-                elif entry_has_tag_of_number(entry, 9):
-                    self.list_9 += [headword]
-                elif entry_has_tag_of_number(entry, 8):
-                    self.list_8 += [headword]
-                elif entry_has_tag_of_number(entry, 7):
-                    self.list_7 += [headword]
-                elif entry_has_tag_of_number(entry, 6):
-                    self.list_6 += [headword]
-                elif entry_has_tag_of_number(entry, 5):
-                    self.list_5 += [headword]
-                elif entry_has_tag_of_number(entry, 4):
-                    self.list_4 += [headword]
-                elif entry_has_tag_of_number(entry, 3):
-                    self.list_3 += [headword]
-                elif entry_has_tag_of_number(entry, 2):
-                    self.list_2 += [headword]
-
-        input_file.close()
-        print OKCYAN + '\nSummary of high frequency headwords'
-        print '-----------------------------------'
-        print 'Entries with ' + str(get_tag(10)) + ' = ' + str(len(self.list_9_m))
-        print 'Entries with ' + str(get_tag(9)) + ' = ' + str(len(self.list_9))
-        print 'Entries with ' + str(get_tag(8)) + ' = ' + str(len(self.list_8))
-        print 'Entries with ' + str(get_tag(7)) + ' = ' + str(len(self.list_7))
-        print 'Entries with ' + str(get_tag(6)) + ' = ' + str(len(self.list_6))
-        print 'Entries with ' + str(get_tag(5)) + ' = ' + str(len(self.list_5))
-        print 'Entries with ' + str(get_tag(4)) + ' = ' + str(len(self.list_4))
-        print 'Entries with ' + str(get_tag(3)) + ' = ' + str(len(self.list_3))
-        print 'Entries with ' + str(get_tag(2)) + ' = ' + str(len(self.list_2))
-        print ENDC
-
     def check_duplicated_headwords(self):
         """Self-explanatory"""
         input_file = open(self.filename, 'r')
@@ -279,7 +229,7 @@ class Checker(object):
             entry = line.replace('\n', '')
             tokens = entry.split()
             do_print = False
-            headword, part_of_speech = self.get_headword_and_part_of_speech(tokens, do_print)
+            headword, part_of_speech = get_headword_and_part_of_speech(tokens, do_print)
             if dictionary.get(headword) == 1:
                 repeated[headword] = part_of_speech
             dictionary[headword] = 1
@@ -312,7 +262,7 @@ class Checker(object):
                     tokens = entry.split()
                     do_print = False
                     headword, part_of_speech = \
-                        self.get_headword_and_part_of_speech(tokens, do_print)
+                        get_headword_and_part_of_speech(tokens, do_print)
                     undefined[headword] = part_of_speech
 
         input_file.close()
@@ -331,6 +281,38 @@ class Checker(object):
         else:
             print OKGREEN + 'No undefined high frequency headwords were found' + ENDC
 
+class Gamer(object):
+    """The class Gamer encapsulates all functionalities to play games with the dictionary"""
+    def __init__(self, filename):
+        self.filename = filename
+        self.list = [[], [], [], [], [], [], [], [], []]
+
+    def get_index(self, tag_as_number):
+        """Returns the appropriate index to use in list, skipping 1 (we start at :two:)"""
+        return tag_as_number - 2
+
+    def gather_high_frequency_headwords(self):
+        """Searching for the entries of the dictionary with higher frequency"""
+        input_file = open(self.filename, 'r')
+
+        for line in input_file:
+            entry = line.replace('\n', '')
+            if entry_has_tag_of_number_2_to_9(entry):
+                tokens = entry.split()
+                do_print = False
+                headword, _ = get_headword_and_part_of_speech(tokens, do_print)
+                finished = False
+                for i in range(10, 1, -1):
+                    if entry_has_tag_of_number(entry, i):
+                        self.list[self.get_index(i)] += [headword]
+
+        input_file.close()
+        print OKCYAN + '\nSummary of high frequency headwords'
+        print '-----------------------------------'
+        for i in range(10, 1, -1):
+            print 'Entries with ' + str(get_tag(i)) + ' = ' + str(len(self.list[self.get_index(i)]))
+        print ENDC
+
 def use_random(number):
     "This is a WIP function"
     # We should sort the words to study randomly--in other words, shuffle them
@@ -345,7 +327,8 @@ CHECKER.check_entries()
 CHECKER.check_duplicated_headwords()
 print
 CHECKER.check_undef_high_freq_keywords()
-print
-CHECKER.gather_high_frequency_headwords()
+
+GAMER = Gamer('dictionary.md')
+GAMER.gather_high_frequency_headwords()
 
 use_random(100)
