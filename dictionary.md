@@ -4743,7 +4743,7 @@ __lancing irons__
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
-__landslide__ _n_ :nine::hammer: _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._  
+__landslide__ _n_ :nine: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
 __lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::hammer:  
 __lantanas__ _n_  
@@ -4777,7 +4777,7 @@ __lauded__ _v_
 __lauds__ _Barber was buried after lauds._  
 __laughingstock__  
 __laureate__  
-__lavish<sup>1</sup>__ _adj_ :nine::m::hammer: _Lavish fees._  
+__lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
 __lavishly__ :three::hammer:  
 __law and order__  
@@ -4788,7 +4788,7 @@ __lawsuit__
 __lax__ _adj_ :two::hammer: (not LAX)  
 __lay__ _Lay reader._  
 __layoff__  
-__layover__ :dart::two::hammer: _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
+__layover__ _n_ :dart::two: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_  
 __layups__  
 __lb.__ _Sold in pkgs. of 3 lbs. or more._  
@@ -5257,7 +5257,7 @@ __minor__ _n_
 __minstrel__ :two::hammer:  
 __mint bank notes__  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
-__mire__ _v_ :pencil2::nine::m::hammer: (mired) _Britain is now mired in crisis._  
+__mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :four::hammer:  
 __mirthful__  
 __miscarry__ _v_  
@@ -5562,7 +5562,8 @@ __nose-thumbing__ :camera:
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nosy__ _adj_ :two::hammer: _He's nosy as hell._  
 __not even close__ :dart:  
-__notch__ _v_ :nine::hammer: (notched)  
+__notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _Informal_ A level or degree: _a notch or two higher in quality._  
+__notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _Informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
 __notwithstanding__ :three::hammer:  
 __novella__  
@@ -5819,7 +5820,7 @@ __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._
 __palladium__  
 __pallbearer__ :two::hammer:  
 __palled__ _v_  
-__pallet__ _n_ :nine::m::hammer: (pallets) _Rob rented a pallet._ _Sleeping pallets._  
+__pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or moving cargo or freight. _Rob rented a pallet._ _Sleeping pallets (makeshift beds)._  
 __pallholder__ _n_  
 __palliative__ _Palliative care._  
 __pallor__ _n_ :two::hammer:  
