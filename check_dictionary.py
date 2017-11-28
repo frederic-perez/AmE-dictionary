@@ -178,7 +178,7 @@ class Checker(object):
             succeeded, invalid_tag = valid_entry_tags(entry)
             if not succeeded:
                 self.treat_invalid_entry_tags(entry, invalid_tag)
-            if entry.count('  ') > 2:
+            if entry.count('  ') >= 2:
                 self.treat_too_many_double_spaces(entry)
             if entry.count('   ') > 0:
                 self.treat_triple_spaces(entry)
