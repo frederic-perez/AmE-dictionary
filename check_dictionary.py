@@ -44,20 +44,12 @@ def get_tag(number):
     index = number - 2
     return NUMBER_TO_TAG[index]
 
-def entry_has_tag_of_number_3_to_9(entry):
-    """Self-explanatory""" # TODO Simplify this function
-    return entry.find(get_tag(3)) > -1 \
-        or entry.find(get_tag(4)) > -1 \
-        or entry.find(get_tag(5)) > -1 \
-        or entry.find(get_tag(6)) > -1 \
-        or entry.find(get_tag(7)) > -1 \
-        or entry.find(get_tag(8)) > -1 \
-        or entry.find(get_tag(9)) > -1
-
-def entry_has_tag_of_number_2_to_9(entry):
-    """Self-explanatory""" # TODO Simplify this function
-    return entry.find(get_tag(2)) > -1 \
-        or entry_has_tag_of_number_3_to_9(entry)
+def entry_has_tag_of_any_number(entry, number_min, number_max):
+    """Self-explanatory"""
+    for number in range(number_min, number_max + 1):
+        if entry.find(get_tag(number)) > -1:
+            return True
+    return False
 
 def entry_has_tag_of_number(entry, number):
     """Self-explanatory"""
@@ -184,7 +176,7 @@ class Checker(object):
                 self.treat_triple_spaces(entry)
             if entry.find(':shit:') > -1:
                 self.treat_shit_tag(entry)
-            if entry_has_tag_of_number_3_to_9(entry):
+            if entry_has_tag_of_any_number(entry, 3, 9):
                 tokens = entry.split()
                 do_print = True
                 headword, part_of_speech = get_headword_and_part_of_speech(tokens, do_print)
@@ -248,6 +240,7 @@ class Checker(object):
                     break
         else:
             print OKGREEN + 'No duplicated headwords were found' + ENDC
+        print
 
     def check_undef_high_freq_keywords(self):
         """Self-explanatory"""
@@ -297,11 +290,10 @@ class Gamer(object):
 
         for line in input_file:
             entry = line.replace('\n', '')
-            if entry_has_tag_of_number_2_to_9(entry):
+            if entry_has_tag_of_any_number(entry, 2, 9):
                 tokens = entry.split()
                 do_print = False
-                headword, _ = get_headword_and_part_of_speech(tokens, do_print)
-                finished = False
+                headword = get_headword_and_part_of_speech(tokens, do_print)[0]
                 for i in range(10, 1, -1):
                     if entry_has_tag_of_number(entry, i):
                         self.list[self.get_index(i)] += [headword]
@@ -313,22 +305,19 @@ class Gamer(object):
             print 'Entries with ' + str(get_tag(i)) + ' = ' + str(len(self.list[self.get_index(i)]))
         print ENDC
 
-def use_random(number):
-    "This is a WIP function"
-    # We should sort the words to study randomly--in other words, shuffle them
-    if number > 0:
-        print 'Random integer between 1 and', number, ":",
-        print random.randint(1, number)
-    else:
-        print 'Input number =', number, 'is not positive'
+    def play(self):
+        index_9m = self.get_index(10)
+        question = 1
+        for i in range(1, 6):
+            index = random.randint(1, len(self.list[index_9m]) - 1)
+            print 'Q' + str(question) + ': ' + self.list[index_9m][index]
+            question += 1
 
 CHECKER = Checker('dictionary.md')
 CHECKER.check_entries()
 CHECKER.check_duplicated_headwords()
-print
 CHECKER.check_undef_high_freq_keywords()
 
 GAMER = Gamer('dictionary.md')
 GAMER.gather_high_frequency_headwords()
-
-use_random(100)
+GAMER.play()
