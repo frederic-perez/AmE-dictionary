@@ -403,16 +403,16 @@ __accounts__ _n_ _By some accounts._
 __accoutrements__  
 __accretion__  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
-__acerbic__ :three::hammer:  
+__acerbic__ _adj_ :three::hammer:  
 __acolytes__ :two::hammer:  
 __acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
 __acquaintances__ :pencil2:  
 __acquiesce__  
-__acquiescence__ :three::hammer:  
+__acquiescence__ _n_ :three::hammer:  
 __acquit__ _v_ :three::hammer: (acquitted) _If it doesn't fit, you must acquit._  
 __acquittal__ :two::hammer:  
 __acreage__ :two::hammer:  
-__acrimonious__ :three::hammer:  
+__acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
@@ -437,10 +437,10 @@ __adulation__
 __advent__ _n_ :four::hammer:  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advisedly__  
-__advisory__ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
+__advisory__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advocacy__ :two::hammer:  
 __aegis__  
-__afar__ :three: _adverb_ At or to a distance. _I've been watching his magnificent season from afar._ :es: lejos  
+__afar__ _adv_ :three: _adverb_ From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affidavit__ _n_ :five::hammer:  
 __affiliate__  
 __affix__ _v_  
@@ -451,7 +451,7 @@ __affordable__ :pencil2:
 __affront__  
 __afield__  
 __afloat__  
-__afoot__ :three::hammer: _There is a mystery afoot at Bement Elementary._  
+__afoot__ _adv and adj_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ _2__ On foot.  
 __afoul__ :two::hammer:  
 __aft__  
 __aftereffects__  
@@ -475,7 +475,7 @@ __ahem__
 __aide__ _n_ :two::hammer: (aides)  
 __ailerons__  
 __ailing__ :two::hammer: _It is ailing the NFL._  
-__ailment__ :three::hammer:  
+__ailment__ _n_ :three: Mild illness.  
 __ails__ _v_ :two::hammer:  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
@@ -494,7 +494,7 @@ __alecky__ _Smart-alecky wit._
 __algae__ _n_  
 __alienate__ _v_ :five::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
-__all in all,__ :three::hammer:  
+__all in all,__ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adverb_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all that jazz__  
@@ -509,7 +509,7 @@ __allotment__ :two::hammer:
 __allotted__  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
-__aloft__ :three::hammer: _Dwayane Wade raised three fingers aloft._  
+__aloft__ _adv_ :three::hammer: _Dwayane Wade raised three fingers aloft._  
 __along with__  
 __aloof__ :two: /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __aloofness__  
@@ -521,7 +521,7 @@ __altercation__
 __altitude sickness__  
 __alto voice__  
 __altogether__ _Coach Rose was not altogether pleased with the effort._  
-__alum__ :three::hammer: _A Vanderbilt alum._  
+__alum__ _n_ :three::hammer: _A Vanderbilt alum._  
 __aluminum__ _n_ :pencil2::two::hammer:  
 __alumni__ :two::hammer:  
 __amass__ _v_ :three::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
@@ -545,7 +545,7 @@ __anchovies__
 __ancillary__ :two::hammer:  
 __and how!__  
 __andirons__  
-__anew__ :three::hammer:  
+__anew__ _adv_ :three::hammer:  
 __angle iron__  
 __angler__ _n_ :four::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
@@ -564,7 +564,7 @@ __anthology__
 __anti-Semitism__  
 __antic__  
 __antics__ _n_ _(plural)_ :four: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
-__antiquated__ :three::hammer:  
+__antiquated__ _adj_ :three::hammer:  
 __antique__ _Antiques dealer._  
 __anvil__ _n_ :four::hammer: (anvils)  
 __anything goes__  
@@ -579,7 +579,7 @@ __apocryphal__ :pencil2:
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apostasy__  
-__apostate__ :three::hammer: (apostates)  
+__apostate__ _n_ :three::hammer: (apostates)  
 __appall__ _v_ (appalled) :two::hammer::pencil2: :es: horrorizar, espantar  
 __appalling__ _adj_ :two: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __appalls__ _v_  
@@ -589,7 +589,7 @@ __appeal__ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing
 __appease__ :two: _v_ __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
 __appeases__ _v_  
-__appellate__ :three::hammer:  
+__appellate__ _adj_ :three::hammer:  
 __appetizer__ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __apportion__ _v_  
@@ -638,7 +638,7 @@ __as it gets__
 __as it happens,__  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
-__asbestos__ :three::hammer: :es: asbesto, amianto  
+__asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascetic__  
 __ascot__  
@@ -662,7 +662,7 @@ __assuage__ _v_ :two::hammer:
 __asthma__ _n_  
 __astir__  
 __astraddle__  
-__astride__ :three::hammer:  
+__astride__ _adv_ :three::hammer:  
 __astute__  
 __asunder__ _A world torn asunder by evil and hate._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
@@ -700,14 +700,14 @@ __aum__
 __autoclaving__  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__  
-__autocratic__ :three::hammer:  
+__autocratic__ _adj_ :three::hammer:  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
 __aver__ _v_  
 __average citizens__  
-__averse__ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
+__averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :two::hammer: (averted)  
-__avid__ :three:  
+__avid__ _adj_ :three::hammer:  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
@@ -847,7 +847,7 @@ __battered__ _Her pride remains battered but intact._
 __battery__ _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __batty__  
-__bauble__ :three::hammer: (baubles)  
+__bauble__ _n_ :three::hammer: (baubles)  
 __bawdiness__  
 __bawdy__ :two::hammer: _Bawdy humor._  
 __bawl__ _v_  
@@ -869,7 +869,7 @@ __bearing__ _n_ :three::hammer: (bearings) _It does not have a bearing on whethe
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
-__beau__ :three: _n_ A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
+__beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __bebop__ _v_  
 __beck > at your beck__ _Stacks of books at your beck._  
 __beck__  
@@ -8811,7 +8811,7 @@ __trick pad__
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
 __trickle-down__ _n_ :eight::hammer: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._ _A trickle-down effect._  
-__trickle<sup>1</sup>__ _n_ :nine::m: A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero _v_ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
+__trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
 __trickle<sup>2</sup>__ _v_ :five::hammer: _The money trickled in._  
 __tricksy__  
 __trifecta__ _n_ :four: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
