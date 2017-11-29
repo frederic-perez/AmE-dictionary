@@ -14,6 +14,7 @@ GRAY = '\033[90m'
 FAIL = '\033[91m'
 ENDC = '\033[0m'
 BOLD = '\033[1m'
+ITALIC = '\33[3m'
 UNDERLINE = '\033[4m'
 
 def valid_entry_ending(entry):
@@ -237,7 +238,7 @@ class Checker(object):
                 print '  ' + FAIL + headword + ' ' + repeated[headword] + ENDC
                 i += 1
                 if i == 10:
-                    break
+                    break # exit loop
         else:
             print OKGREEN + 'No duplicated headwords were found' + ENDC
         print
@@ -274,8 +275,8 @@ class Checker(object):
         else:
             print OKGREEN + 'No undefined high frequency headwords were found' + ENDC
 
-class Gamer(object):
-    """The class Gamer encapsulates all functionalities to play games with the dictionary"""
+class Game(object):
+    """The class Game encapsulates all functionalities to play games with the dictionary"""
     def __init__(self, filename):
         self.filename = filename
         self.list = [[], [], [], [], [], [], [], [], []]
@@ -291,12 +292,9 @@ class Gamer(object):
         for line in input_file:
             entry = line.replace('\n', '')
             if entry_has_tag_of_any_number(entry, 2, 9):
-                tokens = entry.split()
-                do_print = False
-                headword = get_headword_and_part_of_speech(tokens, do_print)[0]
                 for i in range(10, 1, -1):
                     if entry_has_tag_of_number(entry, i):
-                        self.list[self.get_index(i)] += [headword]
+                        self.list[self.get_index(i)] += [entry]
 
         input_file.close()
         print OKCYAN + '\nSummary of high frequency headwords'
@@ -306,11 +304,20 @@ class Gamer(object):
         print ENDC
 
     def play(self):
+        """WIP""" # TODO Fill method docstring
         index_9m = self.get_index(10)
         question = 1
-        for i in range(1, 6):
+        for _ in range(1, 6):
             index = random.randint(1, len(self.list[index_9m]) - 1)
-            print 'Q' + str(question) + ': ' + self.list[index_9m][index]
+            entry = self.list[index_9m][index]
+            tokens = entry.split()
+            do_print = False
+            headword, part_of_speech = get_headword_and_part_of_speech(tokens, do_print)
+            clean_headword = headword.replace('__', '')
+            clean_part_of_speech = part_of_speech.replace('_', '')
+            print FAIL + 'Q' + ENDC + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' \
+                + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC
+            print OKCYAN + '  ' + entry + ENDC
             question += 1
 
 CHECKER = Checker('dictionary.md')
@@ -318,6 +325,6 @@ CHECKER.check_entries()
 CHECKER.check_duplicated_headwords()
 CHECKER.check_undef_high_freq_keywords()
 
-GAMER = Gamer('dictionary.md')
-GAMER.gather_high_frequency_headwords()
-GAMER.play()
+GAME = Game('dictionary.md')
+GAME.gather_high_frequency_headwords()
+GAME.play()
