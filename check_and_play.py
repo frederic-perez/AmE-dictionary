@@ -275,15 +275,15 @@ class Checker(object):
         else:
             print OKGREEN + 'No undefined high frequency headwords were found' + ENDC
 
+def get_index(tag_as_number):
+    """Returns the appropriate index to use in list, skipping 1 (we start at :two:)"""
+    return tag_as_number - 2
+
 class Game(object):
     """The class Game encapsulates all functionalities to play games with the dictionary"""
     def __init__(self, filename):
         self.filename = filename
         self.list = [[], [], [], [], [], [], [], [], []]
-
-    def get_index(self, tag_as_number):
-        """Returns the appropriate index to use in list, skipping 1 (we start at :two:)"""
-        return tag_as_number - 2
 
     def gather_high_frequency_headwords(self):
         """Searching for the entries of the dictionary with higher frequency"""
@@ -294,20 +294,21 @@ class Game(object):
             if entry_has_tag_of_any_number(entry, 2, 9):
                 for i in range(10, 1, -1):
                     if entry_has_tag_of_number(entry, i):
-                        self.list[self.get_index(i)] += [entry]
+                        self.list[get_index(i)] += [entry]
 
         input_file.close()
         print OKCYAN + '\nSummary of high frequency headwords'
         print '-----------------------------------'
         for i in range(10, 1, -1):
-            print 'Entries with ' + str(get_tag(i)) + ' = ' + str(len(self.list[self.get_index(i)]))
+            print 'Entries with ' + str(get_tag(i)) + ' = ' + str(len(self.list[get_index(i)]))
         print ENDC
 
     def play(self):
-        """WIP""" # TODO Fill method docstring
-        index_9m = self.get_index(10)
+        """Method aimed at learning definitions"""
+        index_9m = get_index(10)
         question = 1
-        for _ in range(1, 6):
+        do_quit = False
+        while not do_quit:
             index = random.randint(1, len(self.list[index_9m]) - 1)
             entry = self.list[index_9m][index]
             tokens = entry.split()
@@ -319,6 +320,9 @@ class Game(object):
                 + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC
             print OKCYAN + '  ' + entry + ENDC
             question += 1
+            user_response = raw_input(OKBLUE + 'Quit (q)? ' + ENDC)
+            if user_response == 'q':
+                do_quit = True
 
 CHECKER = Checker('dictionary.md')
 CHECKER.check_entries()
