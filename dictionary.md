@@ -1301,7 +1301,9 @@ __brisk__ :three::hammer: _Brisk pace._
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
-__bristle__ _v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
+__bristle<sup>1</sup>__ _n_  
+__bristle<sup>2</sup>__ _v_ :five: To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
+__bristle with something__ _phrasal v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristles__ _n_ :two::hammer:  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. Do you have brittle bones? Then no football or rugby for you. :es: frágil  
@@ -1825,7 +1827,7 @@ __clenched__
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __clicking__ _Things seem to be making sense and clicking._  
-__clinch__ _v_ :nine::m: (clinched) Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
+__clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. __b__ To make sure of winning; win conclusively. __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
 __clincher__ _n_ :two::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :two::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
@@ -3803,7 +3805,7 @@ __griff__
 __grifter__ _n_ :two::hammer:  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
 __grim__ _adj_ :three::hammer:  
-__grime__  
+__grime__ _n_ :two::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
 __grind__ _Most of us are more focused on the daily grind._  
@@ -5026,8 +5028,7 @@ __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into th
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ :three::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
-__lurching__ _v_  
+__lurch__ _v_ :four::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _adj_ :eight: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
@@ -5048,10 +5049,10 @@ __madrassas__
 __madrigals__ _n_ :pencil2:  
 __maelstrom__ _n_ :four::hammer:  
 __magazine__ _n_ _They were pledged to keep the castle's magazines full of millet and rice._  
-__maggot__ :dart::camera::three::hammer: (maggots)  
+__maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __magpied__ _v_  
 __magpies__  
-__mahogany__ :three::hammer: _He took a leather seat at a magohany bar._  
+__mahogany__ _n_ :three::hammer: _He took a leather seat at a magohany bar._  
 __maiden__ :two::hammer: _Maiden flight._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ :pencil2: _Two great, mailed figures circling each other in the desert._  
@@ -5074,7 +5075,7 @@ __makeshift__ _adj_ :seven::hammer:
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
 __making waves__ :two::hammer:  
-__malaise__ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
+__malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
 __malarkey__ :two::hammer:  
 __malevolent__  
 __malfeasance__ :two::hammer:  
@@ -5167,7 +5168,7 @@ __meandering__
 __meannes__ :pencil2:  
 __measles__ :three::hammer: :es: _Rubeola_  
 __meat grinder__  
-__mecca__ :three::hammer: _Shopping mecca._  
+__mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts many visitors. _Shopping mecca._  
 __mechanical pencil__  
 __medal__ _v_  
 __medallions__ _Taxi medallions._  
@@ -5296,7 +5297,7 @@ __mitzvah__
 __mix-up__ _n_  
 __mixed bag__ :two::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
-__mo__ (mo., mos.) :three: Month.  
+__mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :six::hammer:  
 __moccasin__ :two::hammer: (moccasins)  
 __mockie__ _n_ :two::hammer:  
@@ -5319,8 +5320,7 @@ __mom-and-pop__ _Mom-and-pop shops._
 __momentous__ :two: _adj_ Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
 __money on the hoof__  
 __moneyed__  
-__monger__ _v_ (mongering) :four::hammer:  
-__mongering__ :three::hammer: _Hate-mongering._  
+__monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
 __monkey business__  
@@ -5472,7 +5472,7 @@ __nattering__
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
-__naturalized__ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
+__naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
 __navel__ :two::hammer:  
 __naysayer__ _n_  
@@ -5620,7 +5620,7 @@ __oddball__ _n_ _Informal_ :five: A strange or eccentric person. :es: bicho raro
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odometer__ :two::hammer:  
-__of late__ :three::hammer: _Their number have, indeed, been dropping of late._ :es: últimamente  
+__of late__ _phrase with cl_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
 __of sorts__ _"The 13 clocks" is a poem of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off-kilter__ :two::hammer:  
@@ -5661,7 +5661,7 @@ __on edge__
 __on the docket__  
 __on the hoof__  
 __on the run__  
-__on the sly__ :three::hammer: _Stealing kisses from me on the slide._  
+__on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
 __on three__ _On three: One, two, three!_  
 __on top of that__ _On top of that, ..._  
 __on track__ _He appears to be on track to play._  
@@ -5686,7 +5686,7 @@ __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ (of a fluid) Slowly trickle 
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open house__ :two::hammer: _Educational open house._  
 __open-air bus__  
-__open-wheel__ :three::hammer: _Open-wheel cars._  
+__open-wheel car__ _n_ :three::camera::hammer:  
 __oppo__ _Oppo researchers._  
 __opulent__  
 __orb__ _n_ :two::hammer:  
@@ -5712,7 +5712,7 @@ __ounce__
 __ouster__ _n_  
 __out of hand__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sorts__ :three: __1__ Somewhat ill. __2__ Grouching; irritable.  
+__out of sorts__ _verb-link phrase_ :three: __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
@@ -5812,7 +5812,7 @@ __pageboy__
 __pail__ _n_ :three::hammer: _A lunch pail._  
 __painstaking__ _Painstaking patience._  
 __painter__  
-__paisley__ :three::hammer: _A green paisley bow tie._  
+__paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __palatable__ :two::hammer:  
 __palate__ _Soft palate._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
@@ -5828,7 +5828,7 @@ __pallor__ _n_ :two::hammer:
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
-__palsy__ :three::hammer: _Mild cerebral palsy._  
+__palsy__ _n_ :three::hammer: _Mild cerebral palsy._  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :five::hammer: (pampered)  
 __pampling__  
@@ -5855,7 +5855,7 @@ __pappy__
 __paragon__  
 __paragons__ _n_  
 __paralyzed__ _v_ :pencil2:  
-__paraphernalia__ :pencil2::three::hammer: _Star Wars paraphernalia._  
+__paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :three::hammer: _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
@@ -5978,7 +5978,7 @@ __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :three::hammer:  
 __peremptory__  
-__perennial__ :three::hammer:  
+__perennial__ _adj_ :three::hammer:  
 __perfect storm__  
 __perfidious__  
 __perfunctory__ _adj_ :five::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
@@ -5997,7 +5997,7 @@ __perspiration__
 __pertussis__  
 __perusal__ _n_  
 __peruse__ _v_  
-__pervasive__ :three::hammer:  
+__pervasive__ _adj_ :three::hammer:  
 __pesky__  
 __pester__ _v_  
 __pestilence__ _n_  
@@ -6012,13 +6012,13 @@ __pew__ _Church pews._
 __pewter__  
 __phalanx__ :two::hammer:  
 __phase out__  
-__phenom__ :three::hammer:  
+__phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
 __philanderer__  
 __philandering__  
 __philtre__  
 __phlebotomy__  
 __phlegm__ _n_ :three::hammer:  
-__phlegmy__ :three::hammer:  
+__phlegmy__ _adj_ :three: Charged with phlegm.  
 __photo-op__  
 __phylacteries__ :two::hammer:  
 __piano wire__  
@@ -6254,7 +6254,7 @@ __posse__ _n_ :two::hammer: _A posse clad._
 __possum__ _n_ :seven::hammer: _To play possum._ _He'd been playing possum._  
 __post hoc__  
 __poster boy__ :two::hammer:  
-__poster child__ :three::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
+__poster child__ _n_ :three::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
 __postmark__ _v_  
 __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
