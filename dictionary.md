@@ -35,7 +35,7 @@ __Au.D__ Doctor of audiology.
 __Austinites__ :two::hammer:  
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
 __BAR__ _BAR man._  
-__BB__ :three: _n_ A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
+__BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BLT__ (food?)  
 __BO__ :two::hammer:  
 __BS__ :two::hammer: _One of our core values is: Open company, no BS._  
@@ -112,7 +112,7 @@ __Faustian__ _Faustian device._
 __Fibbies__  
 __Filipino__  
 __Foosball__  
-__For starters,__ :three::hammer:  
+__For starters,__ _phrase_ :three: _informal_ You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
 __Forest Recreation Park__  
 __Fourth Estate__  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
@@ -165,7 +165,7 @@ __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __IRS__ _Internal Revenue Service_  
 __IT Band__  
-__Illini__ :three::hammer:  
+__Illini__ _n_ :three::hammer:  
 __In retrospect,__ (?)  
 __Ivy League__  
 __J-strokes__  
@@ -197,7 +197,7 @@ __Latinos__ _n_
 __Loot__  
 __Los Angelino__  
 __M.O.__ Modus operandi?  
-__ME__ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
+__ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __MIA__ Missing in Action.  
 __MLK__  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
@@ -479,7 +479,7 @@ __ailment__ _n_ :three: Mild illness.
 __ails__ _v_ :two::hammer:  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
-__airball__ :three::hammer: _Shooting airballs._  
+__airball__ _n_ :three: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airburst__ _n_  
 __airy__ _The master bedroom is airy._  
 __akin to__  
@@ -494,7 +494,7 @@ __alecky__ _Smart-alecky wit._
 __algae__ _n_  
 __alienate__ _v_ :five::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
-__all in all,__ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
+__all in all,__ _phrase_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adverb_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all that jazz__  
@@ -757,7 +757,7 @@ __baffle__ _v_ :five::hammer: _Baffled children._
 __bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
 __baffling__ _Baffling season._  
 __bag out__ _v_ _Why'd you bag out on me?_  
-__baggie__ :three::hammer: (baggies) _Take baggies for the extra goodies._  
+__baggie__ _n_ :three: (baggies) _Informal_ Any small bag or packet. _Take baggies for the extra goodies._  
 __bail out__  
 __bail skip__  
 __bailiff__ :two::hammer:  
@@ -873,14 +873,14 @@ __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Ric
 __bebop__ _v_  
 __beck > at your beck__ _Stacks of books at your beck._  
 __beck__  
-__beckon__ :three: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) _v_ __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
+__beckon__ _v_ :three: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
 __bedeck__ (bedecked) _v_  
 __bedevil__ _v_ :four: (bedeviled) __1__ (of something bad) Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ (of a person) Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedlam__ :two::hammer:  
 __bedpan__ _n_  
-__bedridden__ :three::hammer: _She was practically bedridden._  
+__bedridden__ _adj_ :three::hammer: _She was practically bedridden._  
 __bedrock__ _n_ :four: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedspreads__ _n_  
@@ -907,7 +907,7 @@ __befuddling__ :two::hammer:
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar-thy-neighbor__  
 __beggar__ _n_  
-__begrudge__ :three::hammer:  
+__begrudge__ _v_ :three::hammer:  
 __beguile__ _v_ :four::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
@@ -941,7 +941,7 @@ __bellow__
 __bellowed__ _v_ :two::hammer:  
 __bellowing__ _n_  
 __bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._  
-__bells and whistles__ :three::hammer:  
+__bells and whistles__ _plural n_ :three: Additional features or accessories which are nonessential but very attractive.  
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
 __belly-flop__  
@@ -952,7 +952,7 @@ __belying__ _v_
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemused__ :two::hammer:  
 __bench__ _Snow will dust the benches and valleys._  
-__benchmark__ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
+__benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __bender__ _His mother was on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
@@ -964,11 +964,12 @@ __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._
 __berate__ _v_ six: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_  
 __bereavement__ _n_ :three::hammer: State of sorrow over the death or departure of a loved one.  
-__bereft__ :three::hammer:  
+__bereft<sup>1</sup>__ _adj_ :three::hammer:  
+__bereft<sup>2</sup>__ _v_  
 __berm__ _n_  
 __berserk__ _adj_ :three: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
-__berth__ :three::hammer: _Sho Sakai secured an Olympic berth._  
+__berth__ _n_ :three::hammer: _Sho Sakai secured an Olympic berth._  
 __beseech__  
 __beseechingly__  
 __beseechment__  
@@ -1065,7 +1066,7 @@ __bleaching__ :two::hammer: _Steven called the bleaching a tragedy._
 __bleak__ _adj_ __1__ :nine::m: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _This bleak and hostile environment._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: (of the weather) Cold and miserable. _A bleak midwinter's day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry  
 __bleakness__  
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
-__bleary__ :three::hammer:  
+__bleary__ _adj_ :three::hammer:  
 __bleated__ _v_ :three::hammer: (bleating) _His walkie-talkie bleated._  
 __bleating__ _n_ :two::hammer: _The bleating of a few sheep._  
 __bled__ _v_  
@@ -1081,10 +1082,9 @@ __blindside<sup>1</sup>__ _n_ _Blindside blocks._
 __blindside<sup>2</sup>__ _v_ To catch off guard; to take by surprise.  
 __bling__ _n_ :three::hammer:  
 __blink__ _v_ _There is no reason to blink._  
-__blip__ :three::hammer: _Fun cars are a blip._  
-__blips__ _n_ _Put the blips and bumps in proper proportion._  
+__blip__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blithe__ _adj_ :five::hammer:  
-__blithely__ :three::hammer:  
+__blithely__ _adv_ :three::hammer:  
 __blitheness__  
 __blither__  
 __blithering__  
@@ -1203,7 +1203,7 @@ __booms__ _n_ :two::hammer:
 __boon__ _n_ /buːn/ :six: A thing that is helpful or beneficial. _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondoggle__ _n_ _informal_ :four::hammer: (boondoggles)  
 __boonies__  
-__boorish__ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
+__boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boorishness__ :two::hammer:  
 __boosters__ _Mississippi boosters._  
 __boot<sup>1</sup>__ _n_ _The boot is a still-generous 17.7 cubic feet._  
@@ -1282,7 +1282,7 @@ __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual
 __breather__ :two::hammer:  
 __breech__ _n_ :four::hammer:  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
-__brethren__ :three::hammer: _Political brethren._  
+__brethren__ _n_ :three::hammer: _Political brethren._  
 __briar__ :two::hammer:  
 __bric-a-brac stores__  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
@@ -1297,7 +1297,7 @@ __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersbur
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __briny__ _adj_  
-__brisk__ :three::hammer: _Brisk pace._  
+__brisk__ _adj_ :three::hammer: _Brisk pace._  
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
