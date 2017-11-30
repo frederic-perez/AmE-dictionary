@@ -72,7 +72,7 @@ def print_colored(label, number):
     else:
         print FAIL + message + ENDC
 
-def get_headword_and_part_of_speech(tokens, do_print=False):
+def get_headword_part_of_speech_etc(tokens, do_print=False):
     """Self-explanatory"""
     num_tokens = len(tokens)
     headword = tokens[0]
@@ -99,7 +99,7 @@ def get_headword_and_part_of_speech(tokens, do_print=False):
                 + ENDC
                 #+ str(self.num_composite_headwords)
                 #+ ENDC
-    return headword, part_of_speech
+    return headword, part_of_speech, tokens[idx+1:]
 
 class Checker(object):
     """The class Checker encapsulates all functionalities to check the dictionary"""
@@ -180,7 +180,7 @@ class Checker(object):
             if entry_has_tag_of_any_number(entry, 3, 9):
                 tokens = entry.split()
                 do_print = True
-                headword, part_of_speech = get_headword_and_part_of_speech(tokens, do_print)
+                headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
                 if part_of_speech.find('_') == -1:
                     num_wrong_part_of_speech += 1
                     print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
@@ -222,7 +222,7 @@ class Checker(object):
             entry = line.replace('\n', '')
             tokens = entry.split()
             do_print = False
-            headword, part_of_speech = get_headword_and_part_of_speech(tokens, do_print)
+            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
             if dictionary.get(headword) == 1:
                 repeated[headword] = part_of_speech
             dictionary[headword] = 1
@@ -255,8 +255,8 @@ class Checker(object):
                 if entry_has_tag_hammer(entry):
                     tokens = entry.split()
                     do_print = False
-                    headword, part_of_speech = \
-                        get_headword_and_part_of_speech(tokens, do_print)
+                    headword, part_of_speech, _ = \
+                        get_headword_part_of_speech_etc(tokens, do_print)
                     undefined[headword] = part_of_speech
 
         input_file.close()
@@ -278,6 +278,31 @@ class Checker(object):
 def get_index(tag_as_number):
     """Returns the appropriate index to use in list, skipping 1 (we start at :two:)"""
     return tag_as_number - 2
+
+def format_to_print(entry):
+    """Returns a str with the formatted version of the input"""
+    tokens = entry.split()
+    do_print = False
+    headword, part_of_speech, rest = get_headword_part_of_speech_etc(tokens, do_print)
+    clean_headword = headword.replace('__', '')
+    clean_part_of_speech = part_of_speech.replace('_', '')
+    clean_rest = ''
+    for token in rest:
+        if token.find('__') > -1:
+            clean_rest += BOLD + token.replace('__', '') + ENDC + ' '
+        else:
+            num_underscores = len(re.findall('_', token))
+            if num_underscores == 1:
+                if token.find('_') == 0:
+                    clean_rest += ITALIC + token.replace('_', '') + ' '
+                else:
+                    clean_rest += token.replace('_', '') + ENDC+ ' '
+            elif num_underscores == 2:
+                clean_rest += ITALIC + token.replace('_', '') + ENDC + ' '
+            else:
+                clean_rest += token + ' '
+    return FAIL + BOLD + clean_headword + ' ' \
+        + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC + ' ' + clean_rest
 
 class Game(object):
     """The class Game encapsulates all functionalities to play games with the dictionary"""
@@ -313,12 +338,13 @@ class Game(object):
             entry = self.list[index_9m][index]
             tokens = entry.split()
             do_print = False
-            headword, part_of_speech = get_headword_and_part_of_speech(tokens, do_print)
+            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
             clean_headword = headword.replace('__', '')
             clean_part_of_speech = part_of_speech.replace('_', '')
             print FAIL + 'Q' + ENDC + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' \
                 + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC
             print OKCYAN + '  ' + entry + ENDC
+            print format_to_print(entry)
             question += 1
             user_response = raw_input(OKBLUE + 'Quit (q)? ' + ENDC)
             if user_response == 'q':
