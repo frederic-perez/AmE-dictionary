@@ -1328,7 +1328,7 @@ __brooding__ _adj, n_ :seven: When you're dwelling on something, you're brooding
 __brook__ _v_  
 __broth__  
 __brothers in arms__  
-__brouhaha__ :three::hammer:  
+__brouhaha__ _n_ :three::hammer:  
 __brownstones__ _n_  
 __bruin__  
 __bruited__  
@@ -1381,7 +1381,7 @@ __bullion__
 __bullpen__ _n_  
 __bullwhip__  
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
-__bum<sup>1</sup>__ :three::hammer: _A bum foot._ _A bum deal._ _A bum knee._  
+__bum<sup>1</sup>__ _adj_ :three: _informal_ Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bumblebees__  
 __bumbling__ _v_ :eight::hammer:  
@@ -1515,8 +1515,7 @@ __call<sup>1</sup>__ _n_ :four::hammer: _It would've been a difficult call to ej
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __calling card__  
 __calling hours__  
-__calling__ _n_ :two: __1__ A strong inner urge to follow an occupation, etc; vocation. _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
-__callings__ :three::hammer: _She served in many callings._  
+__calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliopes__  
 __callous__ _adj_ :five::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
 __callousness__  
@@ -1635,7 +1634,7 @@ __catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted w
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__caucus__ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
+__caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
 __cauliflower steaks__ :camera:  
 __caulking__  
 __causeway__ _n_ :four::hammer:  
@@ -1687,8 +1686,7 @@ __charade__
 __chard__  
 __charging__ Accuse formally.  
 __charily__  
-__charnel house__ _It served as the hospital's charnel house._  
-__charnel__ :three::hammer: _The charnel wagon._  
+__charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
 __charred__ _v_  
 __charted__  
 __charter<sup>1</sup>__ _n_ :two::hammer:  
@@ -1712,7 +1710,7 @@ __cheek by jowl__ :two::hammer:
 __cheekboned__ _High-cheekboned newbies.;-_  
 __cheekier__  
 __cheerfully__  
-__cheesecloth__ :three::hammer:  
+__cheesecloth__ _n_ :three::hammer:  
 __cheesy__ :two: _Informal_ Cheap and of low quality. _Cheesy motel rooms._  
 __chenier__  
 __cherry blossoms__ _n_  
@@ -4966,7 +4964,7 @@ __loll__ _v_ :three::hammer::pencil2: (lolled, lolling)
 __lone wolf__ _They are lone wolf attacks._  
 __long haul__ _She's in for the long haul._  
 __long shot__  
-__long__ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
+__long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longbow__ _n_ :three::hammer:  
 __longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
@@ -5100,7 +5098,7 @@ __manifest__ _A manifest of olive oil._
 __mannered__  
 __manor__ _A medieval manor house._  
 __mantel__ _n_ :four::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
-__mantle<sup>1</sup>__ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
+__mantle<sup>1</sup>__ _n_ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
 __mantle<sup>2</sup>__ _v_  
 __mar__ _v_ :seven::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
@@ -5166,7 +5164,7 @@ __mead__ _n_
 __meager__ _adj_ :dart::seven::hammer: _The meager wages._  
 __meandering__  
 __meannes__ :pencil2:  
-__measles__ :three::hammer: :es: _Rubeola_  
+__measles__ _n_ :three::pencil2::hammer: :es: _Rubeola_  
 __meat grinder__  
 __mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts many visitors. _Shopping mecca._  
 __mechanical pencil__  
@@ -5179,7 +5177,7 @@ __medical discharge__ _A medical discharge._
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __meek__ _Blessed are the meek._  
-__meekly__ :three::hammer:  
+__meekly__ _adv_ :three::hammer:  
 __meekness__  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
 __megalomania__  
@@ -6870,7 +6868,7 @@ __riffle__ _v_ (riffled) :two::hammer: _Annabeth riffled the medicine cabinet fo
 __riffraff__  
 __riffs__ _v_ :two::hammer:  
 __rifle__ _v_  
-__rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc.  _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
+__rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
 __right__ :two::dart::hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
