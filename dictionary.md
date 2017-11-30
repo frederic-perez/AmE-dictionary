@@ -6502,7 +6502,7 @@ __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._
 __quagmire__ _n_ :three: __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :three::hammer: (quailed)  
-__quaint__ _adj_ :nine::hammer: _Quaint town._ _Quaint streets._  
+__quaint__ _adj_ :nine: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
 __quaintly__ :two::hammer:  
 __quakes__ _v_  
 __qualm__ _n_ :four: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
@@ -6870,7 +6870,7 @@ __riffle__ _v_ (riffled) :two::hammer: _Annabeth riffled the medicine cabinet fo
 __riffraff__  
 __riffs__ _v_ :two::hammer:  
 __rifle__ _v_  
-__rift__ _n_ :nine::m::hammer: _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
+__rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc.  _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
 __right__ :two::dart::hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
@@ -7604,7 +7604,7 @@ __slice and dice__ :dart:
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
-__slick<sup>3</sup>__ _adj_ :nine::hammer: _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _They were slick as hell._  
+__slick<sup>3</sup>__ _adj_ :nine: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._  
 __slid__ _v_ :two::hammer:  
 __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slide<sup>2</sup>__ _v_  
@@ -8249,7 +8249,7 @@ __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._
 __stupas__  
 __sturdy__  
 __stutter__ _v_ :two::hammer:  
-__stymie__ _v_ :nine::m::hammer: (stymied)  
+__stymie__ _v_ :nine::m: (stymied) To present an obstacle to (somebode or something); to thwart.  
 __suave__ _adj_ :three::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subcompact__ (car?)  
@@ -8992,7 +8992,7 @@ __uneasy calm__ _People waited to see whether an uneasy calm would last._
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :four::hammer: _They are unfazed by all fof this._  
-__unfettered__ _v_ :nine::m::hammer: _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
+__unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
