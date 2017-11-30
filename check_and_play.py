@@ -294,11 +294,11 @@ def format_to_print(entry):
             num_underscores = len(re.findall('_', token))
             if num_underscores == 1:
                 if token.find('_') == 0:
-                    clean_rest += ITALIC + token.replace('_', '') + ' '
+                    clean_rest += GRAY + ITALIC + token.replace('_', '') + ' '
                 else:
-                    clean_rest += token.replace('_', '') + ENDC+ ' '
+                    clean_rest += token.replace('_', '') + ENDC + ' '
             elif num_underscores == 2:
-                clean_rest += ITALIC + token.replace('_', '') + ENDC + ' '
+                clean_rest += OKGREEN + ITALIC + token.replace('_', '') + ENDC + ' '
             else:
                 clean_rest += token + ' '
     return FAIL + BOLD + clean_headword + ' ' \
@@ -344,7 +344,7 @@ class Game(object):
             print FAIL + 'Q' + ENDC + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' \
                 + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC
             print OKCYAN + '  ' + entry + ENDC
-            print format_to_print(entry)
+            print '  ' + format_to_print(entry)
             question += 1
             user_response = raw_input(OKBLUE + 'Quit (q)? ' + ENDC)
             if user_response == 'q':
