@@ -4715,7 +4715,7 @@ __lackadaisical__
 __lackey__ _n_ :two::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __lacquered__ _v_  
-__lacrosse__ :three::hammer: _A lacrosse team._ _Lacrosse games._  
+__lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacy__ _Cypress trees that were lacy with new leaf._  
 __lad__ _n_  
 __laddie__  
@@ -4723,7 +4723,8 @@ __laden__ _adj_ :three: Heavily loaded or weighed down. _A suicide attack rammed
 __lading__ _Checking bills of lading._  
 __ladyfinger cookies__  
 __lag__ :two::hammer: _v_  
-__laggard__ :three::hammer:  
+__laggard<sup>1</sup>__ _adj_ :three::hammer:  
+__laggard<sup>2</sup>__ _n_  
 __lagged__  
 __laid back attitude__  
 __laid back__  
@@ -4763,7 +4764,7 @@ __lashing out__ _v_
 __lassitude__  
 __lassos__ _v_  
 __last > next to last__  
-__last-ditch__ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
+__last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __latch<sup>1</sup>__ _n_  
 __latch<sup>2</sup>__ _v_  
 __latching__  
@@ -4780,10 +4781,10 @@ __laughingstock__
 __laureate__  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
-__lavishly__ :three::hammer:  
+__lavishly__ _adv_ :three::hammer:  
 __law and order__  
 __law of the land__  
-__law-and-order__ :three::hammer: _The law-and-order prime minister._  
+__law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._  
 __lawmaker__ _n_ :four::hammer: (lawmakers)  
 __lawsuit__  
 __lax__ _adj_ :two::hammer: (not LAX)  
@@ -4828,7 +4829,7 @@ __leeway__ _n_ :four: Leeway is a term used to describe the amount of freedom av
 __lefty buckets__  
 __leg up__ _Area's 2 reigning congressmen have leg up on funding._  
 __legal tack__  
-__legerdemain__ :three::hammer:  
+__legerdemain__ _n_ :three::hammer:  
 __legion__ _The reasons you can't sleep well inflight are legion._  
 __legit__  
 __legwork__ _n_  
@@ -4857,8 +4858,8 @@ __leviathan__
 __levied__ _v_ :four::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy<sup>1</sup>__ _v_  
 __levy<sup>2</sup>__ _n_ :three::hammer:  
-__lewd__ :three::hammer:  
-__liability__ :three::hammer:  
+__lewd__ _adj_ :three::hammer:  
+__liability__ _n_ :three::hammer:  
 __liaison__  
 __libation__  
 __libations__ _Dutch libations, like ciders, gins and liqueurs._  
@@ -4867,7 +4868,7 @@ __liberalization__
 __lice__ _n_ :four: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __lick-spittle__ _A lick-spittle role._  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
-__licorice__ :three::camera: If you've ever had a long, sweet, chewy, black candy, you've probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
+__licorice__ _n_ :three::camera: If you've ever had a long, sweet, chewy, black candy, you've probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
@@ -4936,7 +4937,7 @@ __llilacs__ _n_
 __lo and behold__  
 __loaded question__  
 __loafered__  
-__loafers__ :three::hammer:  
+__loafers__ _n_ :three::hammer:  
 __loans__  
 __lob__  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
@@ -5710,7 +5711,7 @@ __ounce__
 __ouster__ _n_  
 __out of hand__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sorts__ _verb-link phrase_ :three: __1__ Somewhat ill. __2__ Grouching; irritable.  
+__out of sorts__ _verb-link phrase_ :four: __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
@@ -7688,7 +7689,7 @@ __smirking__
 __smirks__ _n_  
 __smite__  
 __smithereens__  
-__smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him. __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
+__smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
 __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
