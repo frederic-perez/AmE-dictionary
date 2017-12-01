@@ -130,7 +130,7 @@ __Garden of Gethsemane__
 __Gatling gun__ _n_  
 __Generation Xers__  
 __Generation Yers__  
-__Generation Z__ :two::hammer: Label given to those born since 1995.  
+__Generation Z__ :two: Label given to those born since 1995.  
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo wire__ :two::hammer:  
 __Gibson glass__  
@@ -254,7 +254,7 @@ __PPD__ Postponed. _(sporting events)_
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __Pacific Basin__ _Pacific Basin nations._  
 __Pacific Rim__ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, esp in the context of their developing manufacturing capacity and consumer markets.  
-__Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi.__  
+__Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._  
 __Paulistano__  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
 __Pepe the frog__ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
@@ -451,7 +451,7 @@ __affordable__ :pencil2:
 __affront__  
 __afield__  
 __afloat__  
-__afoot__ _adv and adj_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ _2__ On foot.  
+__afoot__ _adv and adj_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __afoul__ :two::hammer:  
 __aft__  
 __aftereffects__  
@@ -897,7 +897,7 @@ __beeves__ _n_
 __befall__  
 __befallen__ _The unthinkable has befallen President._  
 __befalls__ _v_  
-__befit__ (befits, befitting) :two::hammer: _v_  
+__befit__ _v_ :two::hammer: (befits, befitting)  
 __befitting__  
 __before you know it__  
 __beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
@@ -963,7 +963,7 @@ __bequeathed__ _v_ :five::hammer:
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ six: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_  
-__bereavement__ _n_ :three::hammer: State of sorrow over the death or departure of a loved one.  
+__bereavement__ _n_ :three: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_  
 __berm__ _n_  
@@ -978,7 +978,7 @@ __besmeared__ _v_
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ :two::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
-__bespoke<sup>1</sup>__ _adj_ :six::hammer: Custom-made. _Bespoke clothing._  
+__bespoke<sup>1</sup>__ _adj_ :six: Custom-made. _Bespoke clothing._  
 __bespoke<sup>2</sup>__ _v_ Past tense and a past participle of bespeak.  
 __best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
