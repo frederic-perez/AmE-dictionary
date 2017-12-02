@@ -1459,7 +1459,7 @@ __buyout__ _n_ :five: (buyouts) The purchase of a controlling share in a company
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
-__buzzer__ _Durent Durent missed a floater at the buzzer__  
+__buzzer__ _Durent Durent missed a floater at the buzzer._  
 __buzzkill__  
 __by all accounts__ :dart::two::hammer:  
 __by all means,__  
@@ -1596,7 +1596,7 @@ __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
 __carted__ _v_  
 __cartel__ _n_ :three::hammer:  
-__carton__ _n_ :two::shit_ _A carton of eggs._ :camera: _A carton of milk._ :camera:  
+__carton__ _n_ :two::camera::hammer: _A carton of eggs._ _A carton of milk._ :camera:  
 __carve out__ _v_ (carved out) :six::hammer:  
 __carveouts__  
 __case in point__  
@@ -2535,7 +2535,7 @@ __disastrous__
 __disavowed__ _v_  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
-__discharge__ _v_ :five::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ *Why not 'fired'?  
+__discharge__ _v_ :five::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?)  
 __discombobulate__ _v_ :pencil2:  
 __discontinued__ _v_  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
@@ -3270,7 +3270,7 @@ __flare-up__ :two::hammer: (flare-ups)
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
 __flash point__ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
-__flash-bang__ _n_ :three::hammer: The SWAT team broke down doors and detonated flash-bangs._  
+__flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
 __flash-forward__ _Syn_ analepsis  
 __flash__  
 __flashback__  
@@ -3447,7 +3447,7 @@ __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direct
 __forthright__  
 __fortified wine__  
 __foul play__ _n_ :five::dart: Violence, esp. murder.  
-__foul__ _Foul language.__  
+__foul__ _Foul language._  
 __founder__ _v_ :two::hammer: (foundered) _The attempt foundered._  
 __foundries__ _Metal foundries._  
 __foundry__  
@@ -3823,7 +3823,7 @@ __gristle__ :two:
 __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
-__grittier___ _It makes the queso a bit grittier._  
+__grittier__ _It makes the queso a bit grittier._  
 __gritty__ _adj_ :eight::hammer: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
 __groan__ _v_ :three::hammer:  
