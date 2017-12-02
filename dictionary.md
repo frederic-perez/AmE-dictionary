@@ -4001,7 +4001,7 @@ __harmonize__ _v_
 __harness__ _v_ _Harnessing big data._  
 __harp__ _v_ _She told her she was always harping on him._  
 __harping__ _v_  
-__harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago_  
+__harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
 __harrowing__ _A harrowing oddyssey._  
 __harry__ _v_ :seven::hammer: (harried) _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
@@ -4286,7 +4286,7 @@ __humidor__ _n_
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __humor__ _v_ _Just humor me._  
-__hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2__ (Slang) __a__ To exert (oneself). __b__ To carry, especially on the back. __3__ (Vulgar Slang) To engage in sexual intercourse with._  
+__hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2__ (Slang) __a__ To exert (oneself). __b__ To carry, especially on the back. __3__ (Vulgar Slang) To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
 __humpty-dumpty__  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
@@ -4518,7 +4518,7 @@ __jammies__ _n_
 __jams__ _n_  
 __jangled__ _v_  
 __jape__ _v_  
-__jar__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen). __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
+__jar__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jaundice__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
 __jaunty__ _adj_ :seven: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
