@@ -4991,7 +4991,7 @@ __louse__ _n_
 __lout__ _n_  
 __lovacore__  
 __love-in__  
-__lovelorn__ _adj_ Sad because of an unrequited love._  
+__lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __low key__  
 __low-key__  
@@ -5240,14 +5240,14 @@ __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with 
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
 __militias__ :two::hammer:  
-__milk__ _v_ :two::hammer: _Milk the clock__  
+__milk__ _v_ :two::hammer: _Milk the clock._  
 __milkweed__  
 __milled about__ _v_  
 __millet__ _He had eaten millet gruel._  
 __milling__ :two::hammer: _To avoid disrespectful milling._  
 __million__ _The project willl cost around $10 million._ (not ending with 's')  
 __milquetoast__ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
-__mince__ _v_ :three: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. Minced beef._  
+__mince__ _v_ :three: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._  
 __mincemeat__  
 __minder__ :es: guardaespaldas  
 __mindful__  
@@ -7106,7 +7106,7 @@ __scabby__
 __scabies__  
 __scabs__ _n_ :two::hammer:  
 __scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__scallions__ _n :three::hammer:  
+__scallions__ _n_ :three::hammer:  
 __scallop__ :two::hammer: _A scallop-shell logo._  
 __scalp bounties__  
 __scalp__  
