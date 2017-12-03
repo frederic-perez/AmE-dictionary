@@ -7768,7 +7768,7 @@ __snub<sup>2</sup>__ _n_ :four: A deliberate slight or affront.
 __snubbed__ _Snubbed nose._  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
-__snug__ _v__ :three::hammer:  
+__snug__ _v_ :three::hammer:  
 __snuggles__  
 __snugly__ :two::hammer:  
 __so much so__ _So much so that working with animals has become one of his passions._  
@@ -8942,7 +8942,7 @@ __ugh__ :two::hammer:
 __ukuleles__  
 __umpteen__  
 __umpteenth__ :two::hammer:  
-__unabashed__ _adj_ :four: Not ashamed, disconcerted, or apologetic; boldly certain of one's position. _An unabashed fan.  
+__unabashed__ _adj_ :four: Not ashamed, disconcerted, or apologetic; boldly certain of one's position. _An unabashed fan._  
 __unabated__ _adj_ :three::hammer:  
 __unalienable__  
 __unanimous__  
@@ -9040,7 +9040,7 @@ __up-tempo__ _Up-tempo kind of game._
 __up__ _v_ _We need to up our game._  
 __upbeat__ _adj_ :three::hammer: _An upbeat approach._ _He's extremely upbeat during down times._  
 __upcoming__  
-__upend__ _v_ :nine::m_ (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
+__upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upheaval__ _n_ :five::hammer:  
@@ -9389,7 +9389,7 @@ __wicked__
 __wickedly__  
 __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  
 __wicket__  
-__wicking__ :two::hammer: _Moisture wicking._ __High-wicking polyester._  
+__wicking__ :two::hammer: _Moisture wicking._ _High-wicking polyester._  
 __wicks__ _n_ :two::hammer: _Linen wicks._  
 __widebody__ _Widebody jet._  
 __wield__ _v_ :eight: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
