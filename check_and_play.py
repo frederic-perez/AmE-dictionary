@@ -22,6 +22,18 @@ def valid_entry_ending(entry):
     valid = entry.endswith('  ')
     return valid
 
+def valid_use_of_underscores(entry):
+    num_hits = \
+        len(re.findall('__[a-zA-Z0-9]+_[^_]', entry)) \
+        + len(re.findall('[^_]_[a-zA-Z0-9]+__', entry))
+    if num_hits > 0:
+        return False
+    if entry.count('___') > 0:
+        return False
+    if entry.count('_') % 2 != 0:
+        return False
+    return True
+
 VALID_TAGS = ['three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
     'hammer', 'm', 'mega', 'nine', 'octocat', 'pencil2', 'seven', 'six']
 
@@ -107,6 +119,7 @@ class Checker(object):
         self.filename = filename
         self.num_composite_headwords = 0
         self.num_invalid_endings = 0
+        self.num_invalid_use_of_underscores = 0
         self.num_invalid_tags = 0
         self.num_tag_shit = 0
         self.num_too_many_double_spaces = 0
@@ -116,9 +129,21 @@ class Checker(object):
         """Self-explanatory"""
         self.num_invalid_endings += 1
         tokens = entry.split()
+        if len(tokens) > 0:
+            headword = tokens[0]
+            print headword + FAIL + ' <<< Incorrect entry ending #' \
+                + str(self.num_invalid_endings) + ENDC
+        else:
+            print '(empty)' + FAIL + ' <<< Incorrect entry ending #' \
+                + str(self.num_invalid_endings) + ENDC
+
+    def treat_invalid_use_of_underscores(self, entry):
+        """Self-explanatory"""
+        self.num_invalid_use_of_underscores += 1
+        tokens = entry.split()
         headword = tokens[0]
-        print headword + ' ' + FAIL + ' <<< Incorrect entry ending #' \
-            + str(self.num_invalid_endings) + ENDC
+        print headword + FAIL + ' <<< Incorrect use of underscores #' \
+            + str(self.num_invalid_use_of_underscores) + ENDC
 
     def treat_invalid_entry_tags(self, entry, tag):
         """Self-explanatory"""
@@ -143,7 +168,7 @@ class Checker(object):
         self.num_entries_with_triple_spaces += 1
         tokens = entry.split()
         headword = tokens[0]
-        print headword + ' ' + FAIL + ' <<< Triple spaces #' \
+        print headword + FAIL + ' <<< Triple spaces #' \
             + str(self.num_entries_with_triple_spaces) + ENDC
 
     def treat_shit_tag(self, entry):
@@ -168,6 +193,8 @@ class Checker(object):
             entry = line.replace('\n', '')
             if not valid_entry_ending(entry):
                 self.treat_invalid_entry_ending(entry)
+            if not valid_use_of_underscores(entry):
+                self.treat_invalid_use_of_underscores(entry)
             succeeded, invalid_tag = valid_entry_tags(entry)
             if not succeeded:
                 self.treat_invalid_entry_tags(entry, invalid_tag)
@@ -201,6 +228,8 @@ class Checker(object):
             print '\nSummary of issues found'
             print '-----------------------'
             print_colored('Entries with invalid ending', self.num_invalid_endings)
+            print_colored('Entries with invalid use of underscores', \
+                self.num_invalid_use_of_underscores)
             print_colored('Entries with invalid tags', self.num_invalid_tags)
             print_colored('Entries with tag :shit:', self.num_tag_shit)
             print_colored('Entries with too many double spaces', \
