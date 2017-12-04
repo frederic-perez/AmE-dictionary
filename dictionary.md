@@ -4390,12 +4390,13 @@ __in-depth__ _He will conduct an in-depth review._
 __in-house__ _In-house experts._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._  
 __inadvertent__ :two::hammer:  
-__inane__ :three::hammer:  
+__inane__ _adj_ :three::hammer:  
 __inarguably__ :pencil2:  
 __inarticulate__ :two::hammer: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
 __inaugurate__ _v_ _He will be inaugurated for second term._  
-__inbound__ :three::hammer: _Inbound trip._ _Inbounds pass._  
+__inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
+__inbound<sup>2</sup>__ _v_  
 __incarcerate__ _v_  
 __incensed__ _v_  
 __inception__  
@@ -4436,7 +4437,7 @@ __infighting__ :two::hammer:
 __infinity pool__ :camera:  
 __infinity-edge__ _An infinity-edge swimming pool._  
 __infirm__ _adj_  
-__influence-peddling__ :three::hammer:  
+__influence-peddling__ _n_ :three::hammer:  
 __influenza__  
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
@@ -4495,7 +4496,7 @@ __iron trellis__
 __ironclad commitment__  
 __irreplaceable__  
 __islet__ _Transplanting islet cells into the liver._  
-__issuance__ :three::hammer:  
+__issuance__ _n_ :three::hammer:  
 __isthmus__  
 __it's a dog's life__ :dart::astonished:  
 __ivy__ :two::hammer: :es: hiedra  
@@ -4513,7 +4514,7 @@ __jam up__ _v_
 __jam__ _v_  
 __jamb__ :two::hammer: _Window jamb._  
 __jambalaya__ _n_  
-__jamboree__ :three::hammer: _A campfire jamboree._  
+__jamboree__ _n_ :three::hammer: _A campfire jamboree._  
 __jammies__ _n_  
 __jams__ _n_  
 __jangled__ _v_  
@@ -4550,7 +4551,7 @@ __jigs__ _n_
 __jigsaw__  
 __jilt__ _Jilted at the altar._  
 __jimmied__ _v_  
-__jingoism__ :three::hammer:  
+__jingoism__ _n_ :three::hammer:  
 __jinks__  
 __jinx<sup>1</sup>__ _v_  
 __jinx<sup>2</sup>__ _n_  
@@ -4571,7 +4572,7 @@ __joists__
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollof rice__  
-__jolly__ :three::hammer: _Jolly handshakes._  
+__jolly__ _adj_ :three::hammer: _Jolly handshakes._  
 __jolt__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jonesing__ _v_  
 __joog__ _v_  
@@ -4608,13 +4609,13 @@ __juniper__
 __junk__ _The "don't touch my junk" uproar over intrusive TSA pat-downs._  
 __junker__  
 __junket__ _The championship game junket._  
-__junta__ :three::hammer:  
+__junta__ _n_ :three::hammer:  
 __just saying__ _idiom_ (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __jut out__ _The head juts out of the wall._  
 __jutted__ _v_  
 __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __kabobs__  
-__kabuki__ :three::hammer:  
+__kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ :two::hammer:  
 __keel__ (keeled) :two::hammer: _v_  
@@ -4659,7 +4660,8 @@ __kindergartner__ :pencil2::two: A child who attends a preschool or kindergarten
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
 __kindred spirits__ :two::hammer: _A kindred spirit._ :es: almas gemelas  
-__kindred__ :three::hammer:  
+__kindred<sup>1</sup>__ _n_ :three::hammer:  
+__kindred<sup>2</sup>__ _adj_  
 __kine__ _n_  
 __king of the hill__  
 __kingdom come__ _Informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
