@@ -4368,7 +4368,7 @@ __impetus__ :three::hammer:
 __impinge__  
 __impish__ _Impish sense of humor._  
 __implausible__  
-__impound___v_ :two::hammer: _The Ponticac was impounded._  
+__impound__ _v_ :two::hammer: _The Ponticac was impounded._  
 __imprecation__ _n_ :two: A curse.  
 __imprint__ _n_  
 __imprisoned__ _v_ :two::hammer: _Simpson has been imprisoned for almost nine years._  
