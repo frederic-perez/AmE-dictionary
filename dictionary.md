@@ -6580,8 +6580,9 @@ __raise eyebrows__
 __raked over the coals__  
 __raking__ _v_  
 __rakish__ :two::hammer:  
-__rally<sup>1</sup>__ _v_ :nine::m::hammer: _Economy_ _The euro initially rallied by the most in nearly a month._ _To rally the troops._ _The Dow Jones rallied 1.4% Monday._ _Oklahoma State trailed 24-7 before rallying for a victory._ _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._ :es: manifestarse?  
-__rally<sup>2</sup>__ _n_  
+__rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._ _To rally the troops._ _Oklahoma State trailed 24-7 before rallying for a victory._  
+__rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings" (Garrett Mattingly)._ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
+__rally<sup>3</sup>__ _n_  
 __rally__ (stock market)  
 __ram<sup>1</sup>__ _v_ :seven::hammer: (rammed, ramming) _JFK's PT boat was rammed._ _Ramming your feet into the stirrups._  
 __ram<sup>2</sup>__ _n_  
@@ -6833,7 +6834,7 @@ __returnee__
 __reunion__ An instance of two or more people coming together again after a period of separation.  
 __reunite__ _v_  
 __revel__ _v_  
-__reveler__ _n_ :nine::hammer: _St. Patrick's day revelers._ _Mardi Gras revelers._  
+__reveler__ _n_ :nine: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick's day revelers._ _Mardi Gras revelers._  
 __reveling__ :two::hammer:  
 __revelled__  
 __revelling__  
@@ -7928,9 +7929,10 @@ __spree__
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
 __springboard__ :two::hammer:  
-__springing__ _v_ _The T-birds are capabke of springing the upset._  
+__springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
-__sprinkle__ _v_ :nine::hammer: (sprinkled, sprinkling)  
+__sprinkle<sup>1</sup>__ _v tr_ :nine: (sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
+__sprinkle<sup>2</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
 __sprinkler__ _n_ :three::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkles__ _v_  
 __sprinkling__ _A sprinkling of luck._  
@@ -8226,7 +8228,7 @@ __strung out__
 __strung__ _v_  
 __strut__ _v_ :four: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stub__ _n_ :three::hammer: _The stubs of cold-withered grass._  
-__stubble__ _n_ :nine::m::hammer: _The sugarcane stubble._ _Smoke from a distant stubble fire._  
+__stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving. _The sugarcane stubble._ _Smoke from a distant stubble fire._  
 __stubby__ :two::hammer: _Stubby fingers._  
 __stuck a chord__  
 __stuck-up__  
@@ -9362,7 +9364,8 @@ __whirred__ _v_
 __whirring__ _v_  
 __whisk broom__  
 __whisk out__ _v_  
-__whisk__ _v_ :nine::m::hammer: (whisked) _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
+__whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
+__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: whisked crumbs off the table; whisked the children away. __2__ To whip (eggs or cream). 
 __whiskers__  
 __whistle-blower__  
 __white elephant__ (?)  
