@@ -7878,7 +7878,7 @@ __spiel__
 __spiffy__ :two::hammer:  
 __spigot__ _n_ :four: (spigots) A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
 __spike<sup>1</sup>__ _n_  
-__spike<sup>2</sup>__ _v_ :nine::hammer: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _Informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
+__spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _Informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
 __spill the beans__  
 __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ :two::hammer:  
@@ -8138,14 +8138,14 @@ __stocking-stuffers__
 __stockpile__  
 __stodgiest__  
 __stodgy__ _The mainstream may sound too stodgy._  
-__stoke__ _v_ :nine::m::hammer: (stoked, stoking, stoke up) _Stoking tensions._  
+__stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
 __stolid__ :two::hammer:  
 __stomping__ _v_  
 __stone-walling__  
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
-__stoop<sup>1</sup>__ _v_ :nine::m::hammer: (stooped) _Jean stoops to pick cranberries for preserves._  
+__stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ (also stoop down) To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :two::hammer: _He was a stooped man._ _Stooped shoulders._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
@@ -8377,7 +8377,7 @@ __swell__ _n_ :two::hammer: _The swell of people from war-torn countries._
 __swelled__ (swelling) :two::hammer:  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
-__swerve<sup>2</sup>__ _v_ :nine::m::hammer: (swerves, swerved)  
+__swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ [usually in negatives] _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
@@ -8778,7 +8778,7 @@ __trails__ _n_
 __trainees__ :two::hammer: :es: aprendiz?  
 __traipsing__  
 __tramp__ _adj_  
-__trample__ _v_ :nine::m::hammer: (trampled, trampling) _They trample the weeds heading for the park._ _Stadium trampling._  
+__trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._  
 __trampolines__ _n_  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __transient__  
@@ -9365,7 +9365,7 @@ __whirring__ _v_
 __whisk broom__  
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
-__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: whisked crumbs off the table; whisked the children away. __2__ To whip (eggs or cream). 
+__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: whisked crumbs off the table; whisked the children away. __2__ To whip (eggs or cream).  
 __whiskers__  
 __whistle-blower__  
 __white elephant__ (?)  
