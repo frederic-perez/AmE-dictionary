@@ -4154,7 +4154,7 @@ __hillside__ _n_
 __hinder__ _v_  
 __hindsight__  
 __hinky__  
-__hinterland__ /ˈhɪntəland/ :three: (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
+__hinterland__ _n_ :three: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hirsutism__  
@@ -4169,8 +4169,8 @@ __hit the wall__
 __hitch<sup>1</sup>__ _n_  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither and thither__ :two::hammer::pencil2:  
-__hither__ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
-__hitherto__ :three::hammer:  
+__hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__hitherto__ _adv_ :three::hammer:  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __ho-hum__ _adj_ :three: _Informal_ So lacking in interest as to cause mental weariness; dull; mediocre. _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __ho__  
@@ -4212,7 +4212,7 @@ __home-delivery__
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
-__homely__ :three::hammer:  
+__homely__ _adj_ :three::hammer:  
 __homeowner__  
 __homesick__  
 __homespun__ :two::hammer:  
@@ -4234,7 +4234,7 @@ __hoofer__
 __hooky__ _A kid playing hooky._  
 __hoop dress__  
 __hoop__ _v_  
-__hoopla__ :three: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
+__hoopla__ _n_ :three: _Informal_ Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoot__ _You know, it's a hell of a hoot._  
 __hooted__ _v_ :five::hammer: (hooting)  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
@@ -4297,7 +4297,7 @@ __hunky-dory__
 __hurdle__  
 __hurdy-gurdy__  
 __hurl__ _v_ :seven: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
-__hurler__ :three::hammer: _(baseball)_  
+__hurler__ _n_ :three::hammer: _(baseball)_  
 __hurtling__ _v_  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__  
@@ -4306,7 +4306,7 @@ __hush up__ _v_
 __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
-__husky__ :three::hammer: _Husky voice._  
+__husky__ _adj_ :three::hammer: _Husky voice._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __hyacinth__  
 __hymnal__ _The party hymnal._  
@@ -4340,7 +4340,7 @@ __ignominious__
 __ilk__ _n_ :two: Type or kind: _can't trust people of that ilk._  
 __ill__  
 __illiterate__  
-__illustrious__ :three::hammer::pencil2: _An illustrious career._  
+__illustrious__ _adj_ :three::hammer::pencil2: _An illustrious career._  
 __imam__  
 __imbalance__ _n_  
 __imbibe__ _v_ :two::hammer: (imbibing)  
@@ -4363,8 +4363,8 @@ __impending__ _adj_ :eight: If something is impending, it is about to happen. If
 __imperil__ _v_ :four::hammer: (imperiled)  
 __imperious__  
 __impermissible__ :two::hammer:  
-__impervious__ :three::hammer:  
-__impetus__ :three::hammer:  
+__impervious__ _adj_ :three::hammer:  
+__impetus__ _n_ :three::hammer:  
 __impinge__  
 __impish__ _Impish sense of humor._  
 __implausible__  
