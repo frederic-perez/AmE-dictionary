@@ -1306,7 +1306,7 @@ __bristle<sup>2</sup>__ _v_ :five: To behave in a way that shows you are very an
 __bristle with something__ _phrasal v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristles__ _n_ :two::hammer:  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
-__brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. Do you have brittle bones? Then no football or rugby for you. :es: frágil  
+__brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broach__ _v_ (broached) :three::hammer:  
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
@@ -4025,7 +4025,7 @@ __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :three::hammer: _Jacob and Davis each hauled in 10 passes._  
-__haunch__ _n_ :nine::m::camera: (haunches) __1__ (Anatomy) the human hip or fleshy hindquarter of an animal, esp a horse or similar quadruped. __2__ (Cookery) the leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
+__haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, esp a horse or similar quadruped. __2__ _Cookery_ the leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
@@ -5683,7 +5683,7 @@ __onus__ :two::hammer: _The onus for change._
 __oofs__  
 __oompah__ :two::hammer: _The house oompah band._  
 __oomph__ :two::hammer:  
-__ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ (of a fluid) Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
+__ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open house__ :two::hammer: _Educational open house._  
 __open-air bus__  
@@ -5957,7 +5957,7 @@ __pelt<sup>2</sup>__ _v_ :three::hammer: (pelted, pelting) _Inmates pelting him 
 __pen name__  
 __pen__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
-__penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb _pencher_) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
+__penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb "pencher") A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __penitents__ _n_  
 __penknife__ :two::hammer:  
 __pennant races__  
@@ -7692,7 +7692,7 @@ __smirking__
 __smirks__ _n_  
 __smite__  
 __smithereens__  
-__smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ (used in combination) Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
+__smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
 __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
@@ -8228,7 +8228,7 @@ __strung out__
 __strung__ _v_  
 __strut__ _v_ :four: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stub__ _n_ :three::hammer: _The stubs of cold-withered grass._  
-__stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving. _The sugarcane stubble._ _Smoke from a distant stubble fire._  
+__stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. _The sugarcane stubble._ _Smoke from a distant stubble fire._ __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving.  
 __stubby__ :two::hammer: _Stubby fingers._  
 __stuck a chord__  
 __stuck-up__  
@@ -8377,7 +8377,7 @@ __swell__ _n_ :two::hammer: _The swell of people from war-torn countries._
 __swelled__ (swelling) :two::hammer:  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
-__swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ [usually in negatives] _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
+__swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ _[usually in negatives]_ _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
@@ -8465,7 +8465,7 @@ __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the s
 __tap__ _v_ :eight::hammer: _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _Entrepreneurs tap neighbors for funding._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
 __taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
-__taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity.  
+__taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _A bugler played taps._  
 __tardy__ :two::hammer:  
@@ -9227,7 +9227,7 @@ __wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a
 __wallboard__  
 __wallflower__  
 __wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
-__wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ (chiefly of large mammals) Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ (of a person) Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
+__wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wane__ _v_  
 __waning__ :two::hammer: _The waning hours._  
