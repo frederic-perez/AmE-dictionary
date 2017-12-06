@@ -374,7 +374,7 @@ __abetting__ _v_ :two::hammer:
 __abeyance__ :two::hammer:  
 __abhorrent__  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
-__abject__ /ˈabdʒɛkt/ __1__ (of something bad) Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ (of a person or their behavior) Completely without pride or dignity; self-abasing. _An abject apology._  
+__abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__  
 __abjure__ _v_  
 __abounds__  
@@ -876,7 +876,7 @@ __beck__
 __beckon__ _v_ :three: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
 __bedeck__ (bedecked) _v_  
-__bedevil__ _v_ :four: (bedeviled) __1__ (of something bad) Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ (of a person) Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
+__bedevil__ _v_ :four: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedlam__ :two::hammer:  
 __bedpan__ _n_  
@@ -1241,7 +1241,7 @@ __box__ _soccer_ :es: portería?
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boycott__  
 __bozos__ _n_  
-__brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. So brace yourself for that impromptu meeting with your boss if you haven't been performing well. _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
+__brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven't been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _I want to break into that world-class bracket._  
 __bracketology__ _Daily bracketology updates._  
 __braggadocio__  
@@ -1355,7 +1355,7 @@ __buddy__
 __budge__ _v_  
 __budged__  
 __buff<sup>1</sup>__ _n_ :six: _informal_ One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
-__buff<sup>2</sup>__ _adj_ :three: _informal_ (of a person or their body) in good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
+__buff<sup>2</sup>__ _adj_ :three: _informal_ _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__  
@@ -2033,7 +2033,7 @@ __convened__ _v_
 __convenience store__  
 __convivial__ :two::hammer:  
 __conwise__  
-__coo__ _v_ :six: (cooed) __1__ (of a pigeon or dove) Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ (of a person) Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
+__coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook-off__  
 __cooktop__ _n_ :four::hammer: _Ceramic/Electric/Gas cooktop._  
@@ -3471,7 +3471,7 @@ __franchisees__
 __frats__ _n_  
 __fraught__ _adj_ :five: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer:  
-__fray<sup>2</sup>__ _v_ :nine::m: (frayed) (of a person's nerves or temper) Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
+__fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __frazzled<sup>2</sup>__ _v_  
 __freak-out__  
@@ -4286,7 +4286,7 @@ __humidor__ _n_
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __humor__ _v_ _Just humor me._  
-__hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2__ (Slang) __a__ To exert (oneself). __b__ To carry, especially on the back. __3__ (Vulgar Slang) To engage in sexual intercourse with.  
+__hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
 __humpty-dumpty__  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
@@ -7557,7 +7557,7 @@ __skirmish<sup>2</sup>__ _v_ :two::hammer:
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
 __skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
-__skittish__ _adj_ (skittishness) :six: _adj_ __1__ (of an animal, especially a horse) Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ (of a person) Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
+__skittish__ _adj_ (skittishness) :six: _adj_ __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulk__ _Jessica makes both friends and enemies skulking around in the night._  
@@ -7644,7 +7644,7 @@ __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is ma
 __sloppy seconds__  
 __sloppy__ _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
-__slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ (of liquid in a container) Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ (of a person) Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
+__slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ _n_ :three: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ (slouching)  
@@ -7692,7 +7692,7 @@ __smirking__
 __smirks__ _n_  
 __smite__  
 __smithereens__  
-__smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smittenby her red hair._  
+__smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  

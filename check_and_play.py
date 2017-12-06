@@ -64,6 +64,14 @@ def get_tag(number):
     index = number - 2
     return NUMBER_TO_TAG[index]
 
+def tag_to_number(tag):
+    """Given a tag like :seven:, returns the corresponding number, 7"""
+    if tag in NUMBER_TO_TAG:
+        index = NUMBER_TO_TAG.index(tag)
+        return index + 2
+    else:
+        return None
+
 def entry_has_tag_of_any_number(entry, number_min, number_max):
     """Self-explanatory"""
     for number in range(number_min, number_max + 1):
@@ -337,6 +345,14 @@ def format_to_print(entry):
                 clean_rest += OKGREEN + ITALIC + token.replace('_', '') + ENDC + ' '
             else:
                 clean_rest += token + ' '
+
+    # Final retouches to clean_rest
+    for tag in NUMBER_TO_TAG:
+        number = tag_to_number(tag)
+        number_str_xt = MAGENTA + '[' + str(number) + ']' + ENDC
+        clean_rest = clean_rest.replace(tag, number_str_xt)
+    clean_rest = clean_rest.replace(':m:', MAGENTA + '(+)' + ENDC)
+
     return FAIL + BOLD + clean_headword + ' ' \
         + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC + ' ' + clean_rest
 
