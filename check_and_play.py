@@ -10,6 +10,13 @@ OKBLUE = '\033[94m'
 OKCYAN = '\033[96m'
 OKGREEN = '\033[92m'
 WARNING = '\033[93m'
+RED = '\033[31m'
+GREEN = '\033[32m'
+YELLOW = '\033[33m'
+BLUE = '\033[34m'
+MAGENTA = '\033[35m'
+CYAN = '\033[36m'
+WHITE = '\033[37m'
 GRAY = '\033[90m'
 FAIL = '\033[91m'
 ENDC = '\033[0m'
@@ -318,12 +325,12 @@ def format_to_print(entry):
     clean_rest = ''
     for token in rest:
         if token.find('__') > -1:
-            clean_rest += BOLD + token.replace('__', '') + ENDC + ' '
+            clean_rest += '\n' + CYAN + BOLD + token.replace('__', '') + ENDC + ' '
         else:
             num_underscores = len(re.findall('_', token))
             if num_underscores == 1:
                 if token.find('_') == 0:
-                    clean_rest += GRAY + ITALIC + token.replace('_', '') + ' '
+                    clean_rest += YELLOW + ITALIC + token.replace('_', '') + ' '
                 else:
                     clean_rest += token.replace('_', '') + ENDC + ' '
             elif num_underscores == 2:
@@ -372,8 +379,8 @@ class Game(object):
             clean_part_of_speech = part_of_speech.replace('_', '')
             print FAIL + 'Q' + ENDC + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' \
                 + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC
-            print OKCYAN + '  ' + entry + ENDC
-            print '  ' + format_to_print(entry)
+            # print OKCYAN + '  ' + entry + ENDC
+            print format_to_print(entry)
             question += 1
             user_response = raw_input(OKBLUE + 'Quit (q)? ' + ENDC)
             if user_response == 'q':
