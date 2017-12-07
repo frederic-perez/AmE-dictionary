@@ -253,7 +253,7 @@ __PO__ Parole officer?
 __PPD__ Postponed. _(sporting events)_  
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __Pacific Basin__ _Pacific Basin nations._  
-__Pacific Rim__ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, esp in the context of their developing manufacturing capacity and consumer markets.  
+__Pacific Rim__ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
 __Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._  
 __Paulistano__  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
@@ -1342,7 +1342,7 @@ __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._
 __buck off__ _v_  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
-__buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: The horse bucked in fright. _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _Many officers bucked the chain of command._  
+__buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _Many officers bucked the chain of command._  
 __buckeyes__  
 __buckle down (to something)__ _v_ :two: _Informal_ To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
@@ -1946,7 +1946,7 @@ __composting__ _There's a brown bin for organic waste, which goes for composting
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__ _Compounding the situation._  
 __comps__ _n_ (Competitors?)  
-__comptroller__ _n_ :three: Variant of controller, used esp as a title of any of various financial executives.  
+__comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
 __compulsory__ _A compulsory Third World condition._  
 __compurgator__ _n_  
@@ -2133,7 +2133,7 @@ __crafts__ :two::hammer:
 __crafty__  
 __cragginess__  
 __craggy__ :two::hammer:  
-__cram__ _v_ :nine: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ __2__ To eat or cause to eat more than necessary __3__ (Education) _informal_ To study or cause to study (facts, etc), esp for an examination, by hastily memorizing.  
+__cram__ _v_ :nine: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ __2__ To eat or cause to eat more than necessary __3__ (Education) _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :two::hammer:  
 __cramped__ _v_ :two::hammer:  
 __crank out__  
@@ -2511,7 +2511,7 @@ __dimwitted__
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :three::hammer: (dinged) _I am also getting tired of my property taxes being dinged._  
-__dinghy__ _n_ :six: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (esp formerly): dingy or dingey.  
+__dinghy__ _n_ :six: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinking__ _v_  
 __dinky__ :two::hammer: _A dinky little community._  
 __dip__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
@@ -3446,7 +3446,7 @@ __forte<sup>1</sup>__ _n_ Something in which a person excels.
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthright__  
 __fortified wine__  
-__foul play__ _n_ :five::dart: Violence, esp. murder.  
+__foul play__ _n_ :five::dart: Violence, _esp_ murder.  
 __foul__ _Foul language._  
 __founder__ _v_ :two::hammer: (foundered) _The attempt foundered._  
 __foundries__ _Metal foundries._  
@@ -4025,7 +4025,7 @@ __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :three::hammer: _Jacob and Davis each hauled in 10 passes._  
-__haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, esp a horse or similar quadruped. __2__ _Cookery_ the leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
+__haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ the leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
@@ -5032,7 +5032,7 @@ __lupus__
 __lurch__ _v_ :four::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _Informal_ Read the postings in an Internet forum without actively contributing.  
-__lush__ _adj_ :eight: _adj_ __1__ (of vegetation) abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ (esp of fruits) succulent and fleshy __3__ luxurious, elaborate, or opulent __4__ _slang_ very attractive or pleasing  
+__lush__ _adj_ :eight: _adj_ __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lushnes__  
 __luster__  
 __lustre__  
@@ -6422,7 +6422,7 @@ __pucker__ _v_ :five: (puckered) (especially with reference to a person's face) 
 __puckering__ _A flat, mouth-puckering taste._  
 __pud__ _n_ :five::hammer:  
 __pudenda__ _n_  
-__pudge__ _n_ _informal_ A variant spelling (esp US) of podge.  
+__pudge__ _n_ _informal_ A variant spelling (_esp_ US) of podge.  
 __pudgy__ _A pudgy boy._  
 __puds__ _n_  
 __puff<sup>1</sup>__ _n_ :two::hammer:  
@@ -8869,7 +8869,7 @@ __trustees__ :two::hammer: _Board of Trustees_
 __trusties__  
 __tryouts__ :two::hammer:  
 __tryst__  
-__tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used esp for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (esp US and Canadian) for bath  
+__tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tubbing up__ _I keep tubbing up._  
 __tube > shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
 __tube socks__ :camera:hammer: A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro '70s-'80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
@@ -9365,7 +9365,7 @@ __whirring__ _v_
 __whisk broom__  
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
-__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: whisked crumbs off the table; whisked the children away. __2__ To whip (eggs or cream).  
+__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
 __whiskers__  
 __whistle-blower__  
 __white elephant__ (?)  
