@@ -353,8 +353,8 @@ def format_to_print(entry):
         clean_rest = clean_rest.replace(tag, number_str_xt)
     clean_rest = clean_rest.replace(':m:', MAGENTA + '(+)' + ENDC)
 
-    return FAIL + BOLD + clean_headword + ' ' \
-        + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC + ' ' + clean_rest
+    return CYAN + BOLD + clean_headword + ' ' \
+        + ENDC + CYAN + ITALIC + clean_part_of_speech + ENDC + ' ' + clean_rest
 
 class Game(object):
     """The class Game encapsulates all functionalities to play games with the dictionary"""
