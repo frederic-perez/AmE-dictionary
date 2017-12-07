@@ -932,7 +932,7 @@ __belches__ _v_ _Steam belches from the nuclear power plant._
 __belching__  
 __beleaguer__ _v_  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
-__belie__ _v_ :six: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
+__belie__ _v_ :seven: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ _v_ :four: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
 __bellboy__ _n_  
@@ -1302,9 +1302,9 @@ __brisk__ _adj_ :three::hammer: _Brisk pace._
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
+__bristle with something__ _phrasal v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristle<sup>1</sup>__ _n_  
 __bristle<sup>2</sup>__ _v_ :five: To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
-__bristle with something__ _phrasal v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristles__ _n_ :two::hammer:  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
@@ -2805,6 +2805,7 @@ __dump<sup>1</sup>__ _n_ _A munitions dump._
 __dump<sup>2</sup>__ _v_ _They walkes to the trash can and dumped their cups._  
 __dumpling__ :two::hammer: (dumplings) _Bavarian bread dumpling._  
 __dun__ _Dun-colored hair._  
+__dunces__ _We are complete dunces at self-perfection._  
 __dung fork__ _n_  
 __dungarees__ _n_ :five::hammer: _The men in black dungarees stood motionless._  
 __duo__  
@@ -3081,7 +3082,7 @@ __fairly__
 __fait accompli__  
 __fall into place__  
 __fall out of love__  
-__fall short__ _v_ :four::hammer:  
+__fall short__ _v_ :five::hammer:  
 __fallacy__  
 __fallback__ _The fallback option._  
 __fallible__  
@@ -4186,7 +4187,7 @@ __hoe<sup>1</sup>__ _n_ :two: A hoe is a gardening tool made up of a long handle
 __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._  
 __hog cracklings__  
 __hog the sofa__  
-__hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.
+__hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.  
 __hog<sup>2</sup>__ _v_ _Informal_ To take more than one's share of: _Don't hog the couch._  
 __hogslop__  
 __hoist__ _v_ :three::hammer: (hoisted) :es: alzar  
@@ -6659,7 +6660,7 @@ __razor strop__
 __razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
 __razzle-dazzle__ :two::hammer:  
 __reach for the stars__ Have high or ambitious aims.  
-__reach out__ _v_ :four::hammer: _Reaching out to prevent aids._  
+__reach out__ _v_ :five::hammer: _Reaching out to prevent aids._  
 __readily__  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
@@ -6817,6 +6818,7 @@ __restraint__ :two::hammer: _n_
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __retailer__ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retaliate__ _v_  
 __retched__ _v_ :three::hammer:  
 __retelling__  
 __retention__  
@@ -7042,6 +7044,8 @@ __sackful__
 __sacristan__  
 __sacristy__ _n_  
 __saddle__ _A saddle of meat._  
+__sadism__ _n_  
+__sadistic__ _adj_  
 __safeguard__  
 __safekeeping__  
 __sag__ _v_ :six: (sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
@@ -8374,7 +8378,7 @@ __sweepstakes__
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
 __sweet water__ :two::hammer:  
 __sweethearts__  
-__swell__ _n_ :two::hammer: _The swell of people from war-torn countries._  
+__swell__ _n_ :three::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
 __swelled__ (swelling) :two::hammer:  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
@@ -9237,8 +9241,7 @@ __wanton__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unpr
 __warble__ _v_ :two::hammer:  
 __warblers__  
 __wardrobe__ _Left Bank wardrobe._  
-__warehouse__  
-__warehouse__ _v_ (warehoused)  
+__warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
 __wares__ _n_ :two::hammer: _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
 __warily__  
@@ -9473,8 +9476,10 @@ __woeful__
 __woefully__ _adv_ :four::hammer: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
 __wolfe range__  
+__woman__ _n_ /ˈwʊmən/ :mega:  
 __womanizer__ :two::hammer:  
 __womanizing__  
+__women__ _n_ /ˈwɪmɪn/ :mega:  
 __wondrous<sup>1</sup>__ _adj_ :three::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
