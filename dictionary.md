@@ -1064,7 +1064,7 @@ __blaze of glory__
 __bleached blonde hair__  
 __bleached__ _Warm waters bleached the coral._  
 __bleaching__ :two::hammer: _Steven called the bleaching a tragedy._  
-__bleak__ _adj_ __1__ :nine::m: (of an area of land) Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _This bleak and hostile environment._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: (of a building or room) Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: (of the weather) Cold and miserable. _A bleak midwinter's day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry  
+__bleak__ _adj_ __1__ :nine::m: _(of an area of land)_ Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _This bleak and hostile environment._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: _(of a building or room)_ Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: _(of the weather)_ Cold and miserable. _A bleak midwinter's day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry  
 __bleakness__  
 __bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
 __bleary__ _adj_ :three::hammer:  
@@ -1465,7 +1465,7 @@ __buzzkill__
 __by all accounts__ :dart::two::hammer:  
 __by all means,__  
 __by and by__  
-__by and large__ :three::hammer: :es: en líneas generales, en general  
+__by and large__ _adv_ :three::hammer: :es: en líneas generales, en general  
 __by storm__  
 __by the book__  
 __by the same token__  
@@ -1733,7 +1733,7 @@ __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :three::hammer: (chipped in)  
-__chip on (someone) shoulders__ :four::hammer: (chip on his shoulder, chip on one's shoulder) _Let's walk into that meeting tomorrow with a chip on our shoulders._  
+__chip on (someone) shoulders__ _idiom_ :five::dart: (chip on his shoulder, chip on one's shoulder) A disposition to quarrel. _Let's walk into that meeting tomorrow with a chip on our shoulders._  
 __chip shots__ _The golfer was hitting some horrible chip shots._  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
@@ -1984,7 +1984,7 @@ __confection__
 __confederacy__  
 __conference call__  
 __conferred__ _v_  
-__confidant__ :five::hammer: (also confidante)  
+__confidant__ _n_ :five::hammer: (also confidante)  
 __confide__ _v_ :three::hammer: (confided)  
 __conflate__ _v_  
 __confound__ _v_ :five::hammer: (confounded, confounding)  
@@ -1999,7 +1999,7 @@ __connive__ _v_ :four::hammer: (connived, conniving)
 __conscripted__ _v_ :two::hammer:  
 __consecutive__  
 __consensual__  
-__consensus__ :three::hammer: _Hinton is a consensus three-star recruit._ _I've learned to build consensus and work with the other side._  
+__consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I've learned to build consensus and work with the other side._  
 __consequently__  
 __conservancies__  
 __consigliere__ _Our family consigliere._  
@@ -2019,14 +2019,14 @@ __contextualize__ _v_ :dart:
 __contiguous > the contiguous U.S.__  
 __continence__  
 __contingency plan__ :two::hammer:  
-__contingency__ :three::hammer: (contingencies)  
+__contingency__ _n_ :three::hammer: (contingencies)  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_  
 __contrarian__  
 __contretemps__  
 __contrite__  
-__contrition__ :three::hammer:  
+__contrition__ _n_ :three::hammer:  
 __contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
@@ -2044,7 +2044,7 @@ __cooper__ _n_ :pencil2:
 __coops__ _Chicken coops._  
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
-__cop out__ :three: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop out__ _v_ :three: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __copacetic__ _adj_ :five: _informal_ In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
 __cope__ _A grey cope._  
@@ -2052,7 +2052,7 @@ __copper-bottom hit__
 __coppice__ _n_  
 __copping__ _v_ :two::hammer: _You're copping to a murder beef._  
 __cops and robbers__ (play)  
-__copse__ :three::hammer: _A brushy copse._  
+__copse__ _n_ :three::hammer: _A brushy copse._  
 __copter__ _Navi copter._  
 __coracle__  
 __cord blood__  
@@ -2104,7 +2104,7 @@ __coupes__ _Coupes, two door models usually sportier than sedans._
 __coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
-__covenant__ :three::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
+__covenant__ _n_ :three::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
 __cover charge__  
 __coverup__ _n_  
 __coveted__ _v_ :two::hammer:  
@@ -2169,7 +2169,7 @@ __crepe__
 __crescent__  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__  
-__crevice__ :three: _n_ A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
+__crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
 __crib__ :two::hammer: _n_  
@@ -2221,7 +2221,7 @@ __crucible__ _n_ :six::hammer:
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
 __cruel__ _His body looked cruel._  
-__crumb__ :three::hammer: (crumbs) _Potato chip crumb._  
+__crumb__ _n_ :three::hammer: (crumbs) _Potato chip crumb._  
 __crumble__ _v_ :three::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
@@ -2232,7 +2232,7 @@ __crunch__ _n_
 __crunchtime__  
 __crusader__  
 __crusty__  
-__crutch__ :three::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
+__crutch__ _n_ :three::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :two::hammer: _The crux of the matter._  
 __cry foul__ :two::hammer: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __crystal meth__  
@@ -2263,21 +2263,21 @@ __curbs__ _n_ :three::hammer: Bans? _This has created curbs on admission._
 __curdle__  
 __curdled__ _There has always been a curdled heart at pop's center._  
 __curds__ _n_ _Clouds like curds of smoke._  
-__curfew__ :three: _n_ A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
+__curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __curios__  
 __curlicued__ _v_  
 __curlicues__  
 __curmudgeon__ _n_ :four: An ill-tempered person full of resentment and stubborn notions.  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
-__cursory__ :three::hammer: _A cursory glance._  
+__cursory__ _adj_ :three: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _His curt answer._  
 __curtail__ _v_ :eight: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
 __curtailment__  
 __curtly__  
 __curveball__ _Informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
 __cushy__ _A cushy modern life._  
-__cusp__ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
+__cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :six::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
@@ -2375,7 +2375,7 @@ __decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle's most 
 __decreed__ _v_  
 __decrepit__  
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
-__deductible__ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
+__deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
 __deep freezers__  
@@ -2679,14 +2679,15 @@ __dovetails__ _v_ :two::hammer:
 __down payment__ :two::hammer: _A down payment for his role as a recruitment of muscle for the operation._  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
-__down to earth__ (down-to-earth) :three: _adj_ With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
+__down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
 __down-low__  
 __downbeat__ :two::hammer:  
 __downdrafts__ _n_  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_  
 __downers__ :two::hammer:  
-__downhill__ :camera::three::hammer: Simple and easy? _David Bowie dead, and it was all downhill from there._  
+__downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic's health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
+__downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
 __downplay__ _v_ :three::hammer: (downplayed)  
 __downpour__ _n_ :four::hammer: (downpours) _Heavy downpours can cause flash flooding._  
@@ -2728,7 +2729,7 @@ __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects 
 __dredger__  
 __dreg__ (dregs) :two::hammer: _Away from the dregs and junkies._  
 __dregs__ :two::hammer: _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
-__drench__ :three::hammer: (drenched)  
+__drench__ _v_ :three::hammer: (drenched)  
 __drenched__ _adj_  
 __drenches__ _v_  
 __dressed to the nines__  
@@ -2763,8 +2764,8 @@ __droppings__ _n_
 __drought__ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drover__ _n_ :two::hammer:  
 __drowns__ _v_  
-__drub__  
-__drubbing__ :three::hammer: (drubbings) _The Knights have improved since receiving a drubbing from the Miners._  
+__drub__ _v_  
+__drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudgery__ :two::hammer:  
 __drugstore__  
 __drugwise__  
@@ -4292,7 +4293,7 @@ __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2
 __hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
 __humpty-dumpty__  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
-__hungup__ _Informal?_ _What's rhe hungup?_  
+__hungup__ _Informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _Informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__  
@@ -4310,8 +4311,8 @@ __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
-__hyacinth__  
-__hymnal__ _The party hymnal._  
+__hyacinth__ :pencil2:  
+__hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
 __hyperbole__ :two::hammer:  
 __hypertensive__ _To be hypertensive._  
@@ -6930,7 +6931,7 @@ __roe__ _A roe deer._
 __roebuck__  
 __roeskin__ _A roeskin belt._  
 __rogue__ :two::hammer: _Rogue behavior._  
-__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _v_ _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ _Roiled water._  
+__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ _Roiled water._  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
 __roll out__ _v_ :three::hammer: _The retailer will roll out deals two days early._  
