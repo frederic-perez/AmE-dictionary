@@ -2775,7 +2775,7 @@ __drumbeat__ _Their drumbeat of criticism._
 __druthers__  
 __dry goods__ _Dry goods store._  
 __dry spel__  
-__dry wall__ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
+__dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
 __dryly__  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __duchy__ (duys)  
@@ -2857,7 +2857,7 @@ __edict__
 __educated guess__  
 __eel__  
 __eerie__ _n_ :three::hammer:  
-__eerily__ :three::hammer:  
+__eerily__ _adv_ :three::hammer:  
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
 __effort__ _n_ :dart: _Activists launched an effort._  
@@ -2928,7 +2928,7 @@ __encompass__ _v_ :four::hammer: (encompasses)
 __encore__ _n_ :five::hammer: _An encore performance._  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :five::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
-__encroachment__ :three::hammer:  
+__encroachment__ _n_ :three::hammer:  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end run__ :two::hammer:  
 __endangerment__  
@@ -2993,7 +2993,7 @@ __erupt__ _v_ :two::hammer: (erupted)
 __erupted__ _v_  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
-__escrow__ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __espouse__ _v_  
 __espousing__ _v_ _Espousing warm ties with Russia._  
 __established__ _Established 1978._  
@@ -3108,7 +3108,7 @@ __fanny pack__ :two: A small pouch on a belt, for money and other valuables, wor
 __far and away__ :astonished:  
 __far cry__ _n_ :six::hammer: _It is a far cry from the 1970s._  
 __far-fetched__  
-__far-flung__ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
+__far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v_ :seven::hammer: (fares, fared, faring) _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._  
@@ -3172,7 +3172,8 @@ __festering__ _n_ :two::hammer:
 __festooned__ _v_ :eight::hammer: _His podium was festooned with a sign._  
 __feted__ _v_ :four::hammer:  
 __fettered__ _v_  
-__feud__ :three::hammer:  
+__feud<sup>1</sup>__ _n_ :three::hammer:  
+__feud<sup>2</sup>__ _v_  
 __feuded__  
 __fiat__ _Military fiat._  
 __fiberglass__  
@@ -3224,7 +3225,7 @@ __fir__ :two::hammer:
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire irons__  
 __fire retardant__  
-__fire sale__ :three::hammer:  
+__fire sale__ _n_ :three::hammer:  
 __firebrand__  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
@@ -3242,7 +3243,8 @@ __fixable__ _A lot of that is fixable._
 __fixe__ _A $40 prix fixe meal._  
 __fixer-upper__ _Don't be afraid to take on a fixer-upper._  
 __fixture__ _n_ :three::hammer: _A Premier League fixture._ _He had been a fixture and a legend._  
-__fizz__ :three::hammer: (fizzing) _Pepsi Strong 5.0 GV has extra fizz._  
+__fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
+__fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle__ _v_ :three::hammer: (fizzled)  
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
 __flabbergasted__  
@@ -3261,7 +3263,7 @@ __flair__ _n_ :nine: __1__ A special or instinctive aptitude or ability for doin
 __flak vest__  
 __flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flaky__  
-__flamboyant__ :three::hammer:  
+__flamboyant__ _adj_ :three::hammer:  
 __flameouts__  
 __flaming hair__  
 __flanker__ (soccer position)  
@@ -3271,7 +3273,7 @@ __flaps__ _The sound of paper flaps on bicycle spokes._
 __flare-up__ :two::hammer: (flare-ups)  
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
-__flash point__ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
+__flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
 __flash-forward__ _Syn_ analepsis  
 __flash__  
