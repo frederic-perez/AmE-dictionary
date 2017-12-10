@@ -399,7 +399,7 @@ class Game(object):
         question = 1
         do_quit = False
         while not do_quit:
-            index = random.randint(1, len(self.list[index_9m]) - 1)
+            index = random.randint(0, len(self.list[index_9m]) - 1)
             entry = self.list[index_9m][index]
             tokens = entry.split()
             do_print = False
