@@ -651,6 +651,7 @@ __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asi
 __asp__ _n_  
 __aspen__  
 __aspersion__ _n_  
+__asphalt__ The word "chapapote" means sticky oil or asphalt on the sand. _Asphalt rafts floating in the shore._ :es: chapapote  
 __assail__ _v_ :two: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
 __assault__ :two::hammer:  
@@ -4511,6 +4512,7 @@ __jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, espec
 __jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
 __jack-o'-lantern__  
 __jackhammer__  
+__jackpot__  
 __jade__ _v_ :six::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._  
 __jagged__ :two::hammer:  
 __jakelegs__  
@@ -6571,7 +6573,7 @@ __racy__ :two::hammer: _A racy line from a popular song._
 __radish__  
 __raffle<sup>1</sup>__ _n_ :two::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
-__raft__ _n_ :three: A large collection or quantity. _A raft of reforms._  
+__raft__ _n_ :four: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
 __rage__ _n_  
 __raged__ _v_  
 __ragtag__ :two::hammer: _A ragtag group._  
@@ -7232,7 +7234,7 @@ __seaside__
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
 __seaweed__ :two::hammer:  
-__second-guessing__  
+__second-guess__ _v_ :three::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secular__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
@@ -7896,6 +7898,7 @@ __spin<sup>1</sup>__ _n_ _But don't believe the spin._
 __spin<sup>2</sup>__ _v_ _She spins the truth for whoever is paying her._  
 __spindle__ _n_ :two::hammer:  
 __spindly__  
+__spinel__ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin "spina." Balas ruby is an old name for a rose-tinted variety of spinel.  
 __spinet piano__ :camera:  
 __spinouts__  
 __spinster__ :two::hammer:  
