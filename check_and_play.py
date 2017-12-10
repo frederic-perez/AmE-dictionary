@@ -116,6 +116,15 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
     idx += 1
     if idx < num_tokens:
         part_of_speech = tokens[idx]
+        part_of_speech_completed = part_of_speech.count('_') == 2
+        while not part_of_speech_completed:
+            idx += 1
+            if idx == num_tokens:
+                part_of_speech_completed = True
+            else:
+                part_of_speech += ' ' + tokens[idx]
+                if part_of_speech.count('_') == 2:
+                    part_of_speech_completed = True
     else:
         part_of_speech = ''
     if idx > 1:
@@ -154,7 +163,7 @@ class Checker(object):
             print '(empty)' + FAIL + ' <<< Incorrect entry ending #' \
                 + str(self.num_invalid_endings) + ENDC
 
-    def treat_invalid_use_of_underscores(self, entry):
+    def treat_invalid_underscores_use(self, entry):
         """Self-explanatory"""
         self.num_invalid_use_of_underscores += 1
         tokens = entry.split()
@@ -202,7 +211,7 @@ class Checker(object):
         if not valid_entry_ending(entry):
             self.treat_invalid_entry_ending(entry)
         if not valid_use_of_underscores(entry):
-            self.treat_invalid_use_of_underscores(entry)
+            self.treat_invalid_underscores_use(entry)
         succeeded, invalid_tag = valid_entry_tags(entry)
         if not succeeded:
             self.treat_invalid_entry_tags(entry, invalid_tag)
@@ -406,11 +415,14 @@ class Game(object):
             if user_response == 'q':
                 do_quit = True
 
-CHECKER = Checker('dictionary.md')
+# DICTIONARY = 'fleeting/pre-todo.md'
+DICTIONARY = 'dictionary.md'
+
+CHECKER = Checker(DICTIONARY)
 CHECKER.check_entries()
 CHECKER.check_duplicated_headwords()
 CHECKER.check_undef_high_freq_keywords()
 
-GAME = Game('dictionary.md')
+GAME = Game(DICTIONARY)
 GAME.gather_high_frequency_headwords()
 GAME.play()
