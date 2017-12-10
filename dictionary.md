@@ -1178,7 +1178,7 @@ __bombsights__
 __bon ton__  
 __bona fide__ _adj_ :four: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
 __bondage__  
-__bone > funny bone__ (funny bones) :two: _n Informal_ The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
+__bone > funny bone__ _n Informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
 __bone spurs__  
 __bone__ :two::hammer: _Another bone of contention._ _I have a bone to pick with Clete Purcel._  
@@ -7557,7 +7557,8 @@ __skid__ _n_ _Informal_ :seven: __1a__ A period of sharp decline or repeated los
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skim__ _v_ :three::hammer: (skimming) _Skim fat from chilled pan juices and finish making gravy._  
 __skimboard__  
-__skimp__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
+__skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
+__skimp<sup>2</sup>__ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
 __skimpy__ _adj_ :three::hammer:  
 __skin parlor__  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
