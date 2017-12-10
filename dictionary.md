@@ -3114,7 +3114,7 @@ __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse 
 __fare<sup>2</sup>__ _v_ :seven::hammer: (fares, fared, faring) _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._  
 __farflung__ _Farflung operations and profits._  
 __fascia__  
-__fast and furious__ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
+__fast and furious__ _adj_ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fastening__ _n_  
 __fastidious__  
 __fastness__  
@@ -3371,7 +3371,7 @@ __fluttering__ _n_
 __fly on the wall__  
 __fly-by-night__  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
-__flying colors__ :three::hammer: _In these respects, Delta Air Lines passed with flying colors._  
+__flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __fob__ :two::hammer:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __foible__ :two: _n_ (foibles) A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
@@ -3405,7 +3405,7 @@ __for days to come__ :dart: _It was a highlight that would be looped on SportsCe
 __for good measure__  
 __for good__ _Leadville's only hospital is preparing to close for good in March._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
-__for the ages__ :three::hammer: _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
+__for the ages__ _idiom_ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the most part__  
 __for the sake of__  
 __for-profit__  
@@ -3416,7 +3416,7 @@ __foray__ _n_ :six: /ˈfɒreɪ/ A venture or an initial attempt, especially outs
 __forbear__ _v_  
 __forbearance__  
 __forceful__ _A forceful pitch._  
-__forcible__ :three::hammer:  
+__forcible__ _adj_ :three::hammer:  
 __fore and aft__  
 __fore__ _n_ :four::hammer:  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
@@ -3460,7 +3460,8 @@ __four hundred__ _This room has four hundred doors!_ :es: tropecientos?
 __four-poster beds__  
 __four-wheeler__  
 __fourth wall__ :astonished:  
-__fowl__ :three::hammer: _Access to public lands and water fowl._  
+__fowl<sup>1</sup>__ _n_ :three::hammer: _Access to public lands and water fowl._  
+__fowl<sup>2</sup>__ _v_  
 __fowler__  
 __foxing stains__  
 __foyer__ _n_  
@@ -3469,7 +3470,7 @@ __fracking__ Hydraulic fracturing.
 __frags__ _n_ _They taped frags to the tops of the drums._  
 __frail__  
 __frame grab__  
-__franchise tag__ :three: _Pittsburg placed the franchise tag on Bell in March._  
+__franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
 __franchise__ _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
 __frats__ _n_  
@@ -3479,7 +3480,7 @@ __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ S
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __frazzled<sup>2</sup>__ _v_  
 __freak-out__  
-__free estimate__ :three::hammer: _Call now for your free estimate._  
+__free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free lunch__  
 __free ride__  
 __freebies__ _n_ :three::hammer: _The tickets come with some bonus freebies._  
@@ -3502,8 +3503,8 @@ __fritter__ _v_ :four::hammer: _Parents worried that their kids off at college w
 __fritters__ _Corn fritters._  
 __frizzled__ _Frizzled beard._  
 __frock__  
-__frolic__ :three::hammer:  
-__frolicked__ _v_  
+__frolic<sup>1</sup>__ _n_ :three::hammer:  
+__frolic<sup>2</sup>__ _v_ (frolicked)  
 __from the git-go__  
 __from the rooter to the rooter__  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
@@ -3544,7 +3545,7 @@ __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
 __fuss__ _v_ :three::hammer: (fussed, fussing)  
-__futility__ :three::hammer:  
+__futility__ _n_ :three::hammer:  
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __gab away__ _v_ _The gang was gabbing away._  
 __gab__ :two::hammer: _The gift of gab._  
@@ -3611,7 +3612,7 @@ __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; ga
 __gaunt__ _adj_ :seven: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
-__gauze__ :three::hammer: :es: gasa  
+__gauze__ _n_ :three::hammer: :es: gasa  
 __gauzy__ :two::hammer:  
 __gavel__ _n_ :five::hammer:  
 __gaze<sup>1</sup>__ _n_  
