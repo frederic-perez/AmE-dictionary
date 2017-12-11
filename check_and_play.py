@@ -83,10 +83,6 @@ def entry_has_tag_of_number(entry, number):
     """Self-explanatory"""
     return entry.find(get_tag(number)) > -1
 
-def entry_has_tag_of_high_number(entry):
-    """Self-explanatory"""
-    return entry.find(':nine:') > -1
-
 def entry_has_tag_hammer(entry):
     """Self-explanatory"""
     return entry.find(':hammer:') > -1
@@ -131,7 +127,7 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
         # self.num_composite_headwords += 1
         if do_print:
             print OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
-                + ' <<< Composite headword #' \
+                + ' <<< Composite headword' \
                 + ENDC
                 #+ str(self.num_composite_headwords)
                 #+ ENDC
@@ -308,7 +304,7 @@ class Checker(object):
 
         for line in input_file:
             entry = line.replace('\n', '')
-            if entry_has_tag_of_high_number(entry):
+            if entry_has_tag_of_any_number(entry, 8, 9):
                 if entry_has_tag_hammer(entry):
                     tokens = entry.split()
                     do_print = False
