@@ -1869,6 +1869,7 @@ __clutching__
 __clyster__ _n_ :two::hammer: (clysters)  
 __co-op__ _n_ :nine: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
 __co-opted__ _v_  
+__co-pilot__ _n_ A relief pilot on an airplane.  
 __coach cabin__ _A standard coach cabin._  
 __coach__ _You're flying coach._  
 __coalesce__ _v_ :pencil2::three::hammer: (coalescing) :es: fundirse  
@@ -7867,6 +7868,7 @@ __spatter__ _n_
 __spay__ _v_ :two::hammer: (spayed)  
 __spd__  
 __speak out__  
+__speak up__ _v_  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
