@@ -3629,7 +3629,7 @@ __gelt__
 __genealogist__  
 __generic__ _A generic diet cola._  
 __genteel__ :two::hammer:  
-__gentrification__ :three::hammer:  
+__gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
 __gentry__  
 __genuflects__ _v_  
@@ -3647,7 +3647,7 @@ __get-go__ :three::hammer: _They wanted him to be Superman from the get-go._
 __getaway day__  
 __getaways__ _n_ :two::hammer: _Weekend getaways._  
 __ghastly__ _adj_ :five::hammer:  
-__ghoul__ :three::hammer:  
+__ghoul__ _n_ :three::hammer:  
 __gibbet__ _n_  
 __gibblets__ _n_  
 __gibed__ _v_  
@@ -3861,14 +3861,13 @@ __growl<sup>1</sup>__ _n_ :two::hammer: _He spoke in a growl._
 __growl<sup>2</sup>__ _v_ :four::hammer: (growled, growling)  
 __grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
-__grudge__ _n_ :five::hammer: _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
-__grudges__ _n_  
-__grudging__ :three::hammer: (grudgingly)  
-__grudgingly__ :two::hammer:  
+__grudge<sup>1</sup>__ _v_ :three: (grudging)  
+__grudge<sup>2</sup>__ _n_ :six: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
+__grudgingly__ _adv_ :three::hammer:  
 __gruel__ _n_ :three::hammer:  
-__grueling__ :three::hammer:  
+__grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
 __gruelling__  
-__gruff__ :three::hammer:  
+__gruff__ _adj_ :three::hammer:  
 __gruffly__  
 __grumble__ _v_ :four::hammer: (grumbled)  
 __grumbling__  
@@ -3932,7 +3931,7 @@ __hackneyed__
 __hacksaws__ _n_  
 __haemophilia__  
 __haft sin__  
-__haggard__ :three::hammer:  
+__haggard__ _adj_ :three::hammer:  
 __haggle__ _v_ :two::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
@@ -3967,12 +3966,12 @@ __handout__ _n_ :four::hammer: (handouts)
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _The hands-off approach._  
-__handyman__ :three::hammer:  
+__handyman__ _n_ :three::hammer:  
 __hangnail__ :two::hammer:  
 __hangout__ :three::hammer: _This was a hangout._  
 __hank__  
 __hanker__ _v_ To have a strong, often restless desire.  
-__hankering__ :three: (hankerings) Craving.  
+__hankering__ _n_ :three: (hankerings) Craving.  
 __hankies__ _n_  
 __hanks__ :pencil2: _Stringy hanks of blond hair._  
 __hanky-panky__  
@@ -4101,7 +4100,7 @@ __heel<sup>2</sup>__ _v_
 __heft__ _n_ :two::hammer:  
 __hefted up__  
 __hefty__  
-__heinous__ :three::hammer:  
+__heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heirloom__ _n_ :four::hammer: _Family heirlooms._  
 __heist capers__  
 __heist__ :two::hammer: _A jewelry heist._ _A true-life heist drama._  
@@ -4139,7 +4138,7 @@ __hick__
 __hickory shaft__  
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
-__hidebound__ :three::hammer:  
+__hidebound__ _adj_ :three::hammer:  
 __hideous__  
 __high and dry__ _His team was left high and dry._  
 __high beams__  
