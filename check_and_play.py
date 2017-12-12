@@ -339,7 +339,10 @@ def format_to_print(entry):
     clean_rest = ''
     for token in rest:
         if token.find('__') > -1:
-            clean_rest += '\n' + CYAN + BOLD + token.replace('__', '') + ENDC + ' '
+            leading_text = '\n'
+            if re.search('__[a-z]__', token) != None:
+                leading_text += ' '
+            clean_rest += leading_text + CYAN + BOLD + token.replace('__', '') + ENDC + ' '
         else:
             num_underscores = len(re.findall('_', token))
             if num_underscores == 1:
