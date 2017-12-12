@@ -1726,7 +1726,7 @@ __chicken wire__
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chicklit__ _A chicklit satire._  
 __chided__ _v_ :six::hammer: (chiding) _Whe chided the Pentagon._  
-__chilblains__  
+__chilblain__ _n_ :two: (chilblains) An inflammation followed by itchy irritation on the hands, feet, or ears, resulting from exposure to moist cold. :es: sabañones  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chiming__ :two::hammer:  
@@ -2316,7 +2316,7 @@ __damsel__ _The damsel in distress Snow White in 1937._
 __dance the night away__  
 __dandelion thistle__  
 __dandelions__  
-__dandruff__  
+__dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dang__ _adj_ _But, dang marketers go crazy._  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
@@ -3985,7 +3985,7 @@ __haps__ _n_ :two::hammer: _What's the haps?_
 __harangues__  
 __haranguing__ _v_ :two::hammer:  
 __harbinger__ _n_ :three::hammer:  
-__hard hat__ :three::hammer: _Workers in hard hats._  
+__hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard sell__  
 __hard-boiled egg__  
 __hard-core__ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
@@ -4049,7 +4049,7 @@ __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._
 __hazel__  
 __hazing__ _The college hazing policy._  
 __hazmat suit__  
-__head and shoulders__ :three::hammer: _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
+__head and shoulders [above the rest/others]__ _phrase informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _Giving them a head start on finding a job._  
@@ -7393,6 +7393,7 @@ __shirk<sup>2</sup>__ _v_ (shirking)
 __shirttail__ _n_  
 __shit-canning__  
 __shitcan__ _v_  
+__shitfaced__ _adj Vulgar Slang_ :two: Intoxicated; drunk.  
 __shitless__ _They were scared shitless._  
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
 __shoal__ :two: Shallow.  
