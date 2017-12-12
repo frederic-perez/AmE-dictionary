@@ -123,14 +123,11 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
                     part_of_speech_completed = True
     else:
         part_of_speech = ''
-    if idx > 1:
-        # self.num_composite_headwords += 1
-        if do_print:
+    if do_print:
+        if ' ' in headword:
             print OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
                 + ' <<< Composite headword' \
                 + ENDC
-                #+ str(self.num_composite_headwords)
-                #+ ENDC
     return headword, part_of_speech, tokens[idx+1:]
 
 class Checker(object):
@@ -411,7 +408,7 @@ class Game(object):
             if user_response == 'q':
                 do_quit = True
 
-# DICTIONARY = 'fleeting/pre-todo.md'
+# DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
 DICTIONARY = 'dictionary.md'
 
 CHECKER = Checker(DICTIONARY)
