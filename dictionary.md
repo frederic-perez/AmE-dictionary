@@ -1827,7 +1827,7 @@ __clenched__
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __clicking__ _Things seem to be making sense and clicking._  
-__clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. __b__ To make sure of winning; win conclusively. __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other _A 45-yarder clinched the game._ _Only two places seem clinched._  
+__clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _A 45-yarder clinched the game._ _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :two::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :two::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
@@ -4032,7 +4032,7 @@ __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :three::hammer: _Jacob and Davis each hauled in 10 passes._  
-__haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ the leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
+__haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
@@ -8161,7 +8161,7 @@ __stomping__ _v_
 __stone-walling__  
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
-__stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ (also stoop down) To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
+__stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :two::hammer: _He was a stooped man._ _Stooped shoulders._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
