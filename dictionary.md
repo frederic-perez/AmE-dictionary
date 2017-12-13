@@ -9162,7 +9162,7 @@ __vetted__ _v_ :two::hammer:
 __vetting__  
 __vexed__ _v_  
 __vexing__ :two::hammer: _Vexing problem._  
-__vial__ /ˈvʌɪəl/ _n_ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
+__vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicarious__  
 __vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
@@ -9366,8 +9366,8 @@ __whiff<sup>1</sup>__ _n_ :three::hammer:
 __whiff<sup>2</sup>__ _v_  
 __whiffed__ _v_  
 __while__ _v_ _To while away the hours drinking vodka._  
-__whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._ _n_ A whimpering sound. _She gave a little whimper of protest._ _:es: sollozo_  
-__whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine.  
+__whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
+__whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ _:es: sollozo_  
 __whinnied__ _v_  
 __whip__ _Mr. Roskam was appointed deputy whip after the 2010 elections._  
 __whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
@@ -9605,7 +9605,7 @@ __zeal__ _n_
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ (zeistgeisty) _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+__zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
 __zero hour__  
 __zero in__  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
