@@ -2834,6 +2834,7 @@ __détente__ :two::hammer: _Can the détente be rolled back?_ _The recent déten
 __e-blasts__  
 __e-commerce__  
 __earbuds__ :camera:  
+__earlier__ _adv_ :three:  
 __earlocks__ _n_  
 __early-onset__ _Early-onset Alzheimer's disease._  
 __earmark__ _v_ :three::hammer:  
@@ -3831,7 +3832,7 @@ __grit__ _n_ :six: (gritty, grittier) _Informal_ Indomitable courage, toughness,
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
 __grittier__ _It makes the queso a bit grittier._  
-__gritty__ _adj_ :eight::hammer: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
+__gritty__ _adj_ :eight: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
 __groan__ _v_ :three::hammer:  
 __grocer__ _n_ :two::hammer:  
@@ -4128,7 +4129,7 @@ __heroics__ _DH David Ortiz will be remembered for his postseason heroics._
 __heron__ _n_ :three::hammer: (herons)  
 __herring__ _n_ :two::hammer:  
 __herringbone__ _Basketball shoes with herringbone designs._  
-__hew__ _v_ :eight::hammer: (hewing, hewn) _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
+__hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key set__ _Allen key set?_  
 __hex-breaking__ _Looking for a hex-breaking sign._  
 __hey__  
@@ -7029,7 +7030,7 @@ __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-i
 __run-of-the-mill__ :two::hammer:  
 __runaway__ :two::hammer: _Bryant was a runaway winner._  
 __runaways__  
-__rung__ _n_ :eight::hammer: (rungs) _He deserves to be in the lowest rungs of hell._  
+__rung__ _n_ :eight: (rungs) _informal_ A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
 __runner-up__ _n_ :nine::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
@@ -7605,7 +7606,7 @@ __slatted__ _v_ :two::hammer: _Slatted sunlight._
 __slatternly__  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __sleaziest__  
-__sleazy__ _adj_ :eight::hammer:  
+__sleazy__ _adj_ :eight: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
 __sleep deprivation__  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleepwalking__  
@@ -7723,7 +7724,7 @@ __smothering__
 __smouldering__  
 __smudge__  
 __smudges__  
-__smug__ _adj_ :eight::hammer: _Smug belief._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
+__smug__ _adj_ :eight: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
 __smugly__ _adv_ :six: In a self-satisfied manner. _To laugh smugly._  
 __smugness__  
 __smut__ _They want to report smut._  
