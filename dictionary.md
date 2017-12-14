@@ -106,7 +106,7 @@ __F-bomb__
 __FOMO__  
 __FT__ _Sports_ Full-time.  
 __Fab Four__ The Beatles.  
-__Fart, Barf, and Itch__ :two::hammer: FBI?  
+__Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __Father Time__  
 __Faustian__ _Faustian device._  
 __Fibbies__  
@@ -1674,7 +1674,7 @@ __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed.
 __chalk__ _v_ :three::hammer: (chalked) _Chalk it up._  
 __chalkboard__ _n_  
 __chalky__ _Chalky skin._  
-__champ__ :two::hammer: Champion?  
+__champ__ _n_ :two: _informal_ Champion.  
 __champagne flutes__ _n_ :camera:  
 __chandler__  
 __chant__ _v_ (vs sing?)  
@@ -2830,7 +2830,7 @@ __dysfunction__ (dysfunctional) :pencil2:
 __dysplasia__ _Canine hip dysplasia._  
 __dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__  
-__détente__ :two::hammer: _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
+__détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
 __e-blasts__  
 __e-commerce__  
 __earbuds__ :camera:  
@@ -2914,7 +2914,7 @@ __emerald__ :two::hammer: _Emerald ash borers._ _Thousands of emerald and green 
 __emeritus__ :two::hammer:  
 __emerity__ _Faculty emerity._  
 __emery__ _n_ :four::hammer: _An emery wheel._ _Emery paper._  
-__emo__ :two::hammer: (emotional?)  
+__emo__ _adj_ :two::hammer:  
 __emphasize__ _v_ :two::hammer:  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
@@ -3029,7 +3029,7 @@ __excoriate__ _v_ :three::hammer: (excoriated) _Gay rights advocates excoriated 
 __excoriation__  
 __excruciate__  
 __excruciating__  
-__exec__ :two::hammer: (execs, executive?)  
+__exec__ :two::hammer: (execs) _informal_ An executive.  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
 __exemption__ _Dru earned an exemption into the tournament._  
@@ -6624,7 +6624,7 @@ __rapidly__
 __rapiers__  
 __rapping__ _v_  
 __rapprochement__ _n_ :three::hammer:  
-__rapt<sup>1</sup>__ _adj (?)_ :three::hammer: _Robert C. Cone had a rapt audience._  
+__rapt<sup>1</sup>__ _adj_ :three::hammer: _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
 __rapture__ :two::hammer: _The film _Carol_ left critics in rapture._  
 __rapturous__  
@@ -7341,7 +7341,7 @@ __shawls__ _Prayer shawls._
 __shea oil__  
 __sheaf__  
 __shear__ _v_  
-__sheath__ :two::hammer: :es: vaina?  
+__sheath__ :two::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
 __shed__ _v_ :two::hammer: Park (a vehicle) in a depot. _The rookie has shed his walking boot and says he'll be fine._  
 __shedder__ _A tree shedder._  
@@ -8436,7 +8436,7 @@ __tabulate__ _v_
 __tabulated__ _Tabulated scientific data._  
 __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they work._  
 __taciturn__  
-__tack__ :two::hammer: Tactics? _The GOP changed its tack._  
+__tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
 __tacky__ :two::hammer:  
 __tad__ :two::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
@@ -8791,7 +8791,7 @@ __trail mix__ :two::hammer: _Infused trail mix._
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailing plants__  
 __trails__ _n_  
-__trainees__ :two::hammer: :es: aprendiz?  
+__trainee__ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __traipsing__  
 __tramp__ _adj_  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._  
