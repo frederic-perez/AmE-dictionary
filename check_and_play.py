@@ -218,7 +218,7 @@ class Checker(object):
             tokens = entry.split()
             do_print = True
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-            if part_of_speech.find('_') == -1:
+            if part_of_speech.find('_') == -1 or part_of_speech.find('?') > 0:
                 self.num_wrong_part_of_speech += 1
                 print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
                     + ' <<< Wrong part of speech #' \
