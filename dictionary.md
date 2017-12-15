@@ -163,7 +163,7 @@ __Humvee__ _n_ :two::hammer:
 __Hydra__  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
-__IRS__ _Internal Revenue Service_  
+__IRS__ _n_ :five: _Internal Revenue Service_  
 __IT Band__  
 __Illini__ _n_ :three::hammer:  
 __In retrospect,__ (?)  
@@ -3635,7 +3635,8 @@ __gentrification__ _n_ :three: Gentrification is a process of renovation of dete
 __gentrify__ _v_ (gentrifying)  
 __gentry__  
 __genuflects__ _v_  
-__gerrymander__ :three: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
+__gerrymander<sup>1</sup>__ _v_ :five: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
+__gerrymander<sup>2</sup>__ _n_  
 __get a grip__  
 __get a jump__ _Get a jump on things._  
 __get ahold__  
@@ -4756,7 +4757,7 @@ __lancing irons__
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
-__landslide__ _n_ :nine: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
+__landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
 __lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::hammer:  
 __lantanas__ _n_  
@@ -7765,7 +7766,7 @@ __snoodlike__
 __snoop__ _v_  
 __snootiness__  
 __snooty__ _adj_ :four::hammer:  
-__snort__  
+__snort__ _n_ :two: _Slang_ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile.  
 __snorted__ _v_  
 __snorting__ _v_  
 __snot rag__  
