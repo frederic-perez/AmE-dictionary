@@ -466,7 +466,7 @@ __aggravate__ _v_ (aggravated) :two::hammer:
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aghast__ _adj_ :three::hammer:  
 __agit__  
-__agonistic__ :pencil2: _adj_ Striving to overcome in argument.  
+__agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __ague__ _n_ :two::hammer: (agues)  
@@ -512,7 +512,7 @@ __almanac__ _n_ An annual publication devoted to the facts and statistics of a g
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :three::hammer: _Dwayane Wade raised three fingers aloft._  
 __along with__  
-__aloof__ :two: /əˈluːf/ _adj_ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
+__aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
 __also-ran__ _To become an also-ran._  
@@ -714,7 +714,7 @@ __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regul
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
-__awash__ __adj__ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__ :two::hammer: _Rob regarded the complex systems with awe._  
 __awestruct__  
 __awry__  
@@ -2029,7 +2029,7 @@ __contrarian__
 __contretemps__  
 __contrite__  
 __contrition__ _n_ :three::hammer:  
-__contrived__ :two: _adj_ Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
+__contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convenience store__  
@@ -2271,7 +2271,7 @@ __curlicued__ _v_
 __curlicues__  
 __curmudgeon__ _n_ :four: An ill-tempered person full of resentment and stubborn notions.  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
-__cursive__ /ˈkəːsɪv/ _adj_ (from Latin curs, ‘run’) Written with the characters joined.  
+__cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :three: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _His curt answer._  
 __curtail__ _v_ :eight: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
