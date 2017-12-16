@@ -130,11 +130,17 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
                 + ENDC
     return headword, part_of_speech, tokens[idx+1:]
 
+def entry_has_displaced_part_of_speech(entry):
+    if entry.count('_adj_') == 1:
+        return entry.count('__ _adj_') != 1
+    return False
+
 class Checker(object):
     """The class Checker encapsulates all functionalities to check the dictionary"""
     def __init__(self, filename):
         self.filename = filename
         self.num_composite_headwords = 0
+        self.num_displaced_part_of_speech = 0
         self.num_entries_with_triple_spaces = 0
         self.num_invalid_endings = 0
         self.num_invalid_tags = 0
@@ -199,6 +205,12 @@ class Checker(object):
         print headword + ' ' + part_of_speech + FAIL \
             + ' <<< :shit: found; use :hammer: instead' + ENDC
 
+    def treat_displaced_part_of_speech(self, headword, part_of_speech):
+        """Self-explanatory"""
+        self.num_displaced_part_of_speech += 1
+        print headword + ' ' + part_of_speech + FAIL \
+            + ' <<< displaced part of speech found' + ENDC
+
     def check_entry(self, entry):
         """Looking and tallying mistakes in a particular entry of the dictionary"""
         if not valid_entry_ending(entry):
@@ -214,6 +226,11 @@ class Checker(object):
             self.treat_triple_spaces(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
+        if entry_has_displaced_part_of_speech(entry):
+            tokens = entry.split()
+            do_print = False
+            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+            self.treat_displaced_part_of_speech(headword, part_of_speech)
         if entry_has_tag_of_any_number(entry, 3, 9):
             tokens = entry.split()
             do_print = True
@@ -236,7 +253,8 @@ class Checker(object):
             self.check_entry(entry)
 
         input_file.close()
-        succeeded = bool(self.num_invalid_endings \
+        succeeded = bool(self.num_displaced_part_of_speech \
+            + self.num_invalid_endings \
             + self.num_invalid_tags \
             + self.num_tag_shit \
             + self.num_too_many_double_spaces \
@@ -248,6 +266,7 @@ class Checker(object):
         else:
             print '\nSummary of issues found'
             print '-----------------------'
+            print_colored("Entries with displaced part of speech", self.num_displaced_part_of_speech)
             print_colored('Entries with invalid ending', self.num_invalid_endings)
             print_colored('Entries with invalid use of underscores', \
                 self.num_invalid_use_of_underscores)
