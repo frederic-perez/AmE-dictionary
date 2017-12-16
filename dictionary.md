@@ -5328,7 +5328,7 @@ __mollify__ _v_ :four::hammer:
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _Mom-and-pop shops._  
-__momentous__ :two: _adj_ Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
+__momentous__ _adj_ :two: Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
 __money on the hoof__  
 __moneyed__  
 __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
@@ -8026,7 +8026,8 @@ __stalk<sup>1</sup>__ _n_
 __stalk<sup>2</sup>__ _v_  
 __stallion__  
 __stalward__  
-__stalwart__ _n_ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
+__stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
+__stalwart<sup>2</sup>__ _n_  
 __stamina__ _n_ :three::hammer:  
 __stammer<sup>1</sup>__ _n_  
 __stammer<sup>2</sup>__ _v_  
@@ -9103,7 +9104,7 @@ __utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A fac
 __utmost__ :two::hammer:  
 __utterance__  
 __utterly__ :two::hammer:  
-__uxorious__ /ŭk-sôr′ē-əs, ŭg-zôr′-/ _adj_ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
+__uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __vacant-eyed__  
 __vacant__ _Adam parked in a vacant spot._  
 __vacate__ _v_  
@@ -9550,7 +9551,8 @@ __write-up__ _n_ :two::hammer:
 __writhe__ _v_ :six::hammer: (writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._  
 __writs__ _n_  
 __wrongdoing__  
-__wrought__ _v_ :three: A past tense and a past participle of work. _Syn_ worked _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
+__wrought<sup>1</sup>__ _v_ :three: A past tense and a past participle of work. _Syn_ worked  
+__wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
 __wryly__ :two::hammer:  
 __wunderkind__  
