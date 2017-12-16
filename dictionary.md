@@ -1188,6 +1188,8 @@ __bonked__ _v_ _The stadium lights bonked out._
 __bonkers__ :two::hammer:  
 __bonnie blue flag__  
 __bonobo__  
+__boo<sup>1</sup>__ _v_ :es: abuchear  
+__boo<sup>2</sup>__ _interj_  
 __booby-trapped 105's__  
 __boogeyman__  
 __boogie__  
@@ -4201,7 +4203,7 @@ __hoist__ _v_ :three::hammer: (hoisted) :es: alzar
 __hokum__ :two::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
-__hold off__ _v_ :two::hammer:  
+__hold off__ _v_ :three::hammer: _If the rain holds off._ :es: Si no llueve.  
 __hold true__ _v_  
 __hold up a fish__  
 __hold water__  
@@ -4221,6 +4223,7 @@ __home-delivery__
 __homebody__  
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
+__homeground__ _adj_ (home-ground) __1__ Grown or produced in one's own garden or country. :es: de cosecha propia __2__ Belonging to one's own particular locality or country. _Home-grown talent._  
 __homely__ _adj_ :three::hammer:  
 __homeowner__  
 __homesick__  
@@ -4251,6 +4254,7 @@ __hopped cars__
 __hopscotch__  
 __horn buttons__ :camera:  
 __horse race__  
+__horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
 __horseradish__  
 __horseshoe__ :two::hammer: (horseshoes)  
@@ -4631,7 +4635,7 @@ __kale__ :two::hammer:
 __keel__ _v_ (keeled) :two::hammer:  
 __keen__ _adj_ :seven: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
-__keep tabs on__ :es: vigilar  
+__keep tabs on__ :two::hammer: :es: vigilar  
 __keep up__  
 __keep__ _n_ :es: torreón  
 __keepsake__ :two: _n_ A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -6708,7 +6712,7 @@ __rector__
 __recuse__ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red hot__ :two::hammer: _Now the market is red hot._  
-__red tape__ :two::hammer: _It would add red tape and increasing processing time._  
+__red tape__ _n_ :dart::three: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
 __redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
@@ -9584,6 +9588,7 @@ __yew root__ _Yew root would help a pregnant woman to hold back her fetus._
 __yew tree__ :two::hammer:  
 __yew__  
 __yield__ :two::hammer: _Failing to yield to pedestrians._  
+__yikes__ _interjection_ An exclamation of surprise or alarm.  
 __yin and yang__  
 __yipped__ _v_  
 __yipping__ _v_  
@@ -9599,6 +9604,7 @@ __yowl__ _n_ _His yowl of pain_
 __yowled__ _v_  
 __yowza__  
 __yuan__ _n_  
+__yuck__ _interjection slang_ Used as an expression of disgust or repugnance. _Yuck, it's spinach again!_  
 __yule__ :two::hammer: _If you believe, yule receive!_  
 __yummy__  
 __yurts__ _n_  
