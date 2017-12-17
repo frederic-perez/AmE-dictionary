@@ -62,7 +62,7 @@ __Catch-22__ _It's a real Catch-22 situation._
 __Caucasian__  
 __Cessna__  
 __Chancellor__  
-__Chicken Little__ (Chicken Littles) _n_ An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
+__Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __Chiuaua__  
 __Christmas fly__  
 __Chugging beers__  
@@ -406,7 +406,7 @@ __accretion__
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
 __acolytes__ :two::hammer:  
-__acorn__ :two: _n_ _The acorn don't fall far from the tree._ :es: bellota  
+__acorn__ _n_ :two: _The acorn don't fall far from the tree._ :es: bellota  
 __acquaintances__ :pencil2:  
 __acquiesce__  
 __acquiescence__ _n_ :three::hammer:  
@@ -487,7 +487,7 @@ __akin to__
 __akin__ :two::hammer:  
 __al fresco__  
 __alabaster__  
-__alacrity__ /əˈlakrɪti/ _n_ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
+__alacrity__ _n_ /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __albatross__ _n_ :pencil2::two::hammer:  
 __alder__ :pencil2:  
 __alderman__ _n_ :two::hammer:  
@@ -1011,7 +1011,7 @@ __big time__
 __big-box stores__ :camera::hammer:  
 __big-gulper__ _America's big-gulpers._  
 __bigger than life__  
-__bigot__ /ˈbɪɡət/ _n_ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
+__bigot__ _n_ /ˈbɪɡət/ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bigotry__  
 __bikeshed<sup>1</sup>__ _n_  
 __bikeshed<sup>2</sup>__ _v_  
@@ -2176,7 +2176,7 @@ __crestfallen__
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
-__crib__ :two::hammer: _n_  
+__crib__ _n_ :two::hammer:  
 __cribbage__ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
@@ -2558,7 +2558,7 @@ __dishing__ _v_
 __dishwasher__ _I worked as a dishwasher._  
 __dishy__  
 __disillusionment__  
-__disinfectant__ :pencil2: _n_ An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
+__disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuousness__  
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
@@ -3169,7 +3169,7 @@ __ferny__
 __ferocious__  
 __ferret out__ _v_  
 __ferret-faced__  
-__ferret__ :two::hammer: _n_  
+__ferret__ _n_ :two::hammer:  
 __ferreting out__ _v_  
 __fester__ _v_ :five::hammer: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festered__ _v_ :es: ulcerarse  
@@ -3379,7 +3379,7 @@ __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __fob__ :two::hammer:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
-__foible__ :two: _n_ (foibles) A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
+__foible__ _n_ :two: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
 __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
@@ -4077,7 +4077,7 @@ __heartening__ _A heartening supper._
 __heartfelt__  
 __hearth__ _n_ :four::hammer:  
 __heartily__ _A sentiment which I heartily applaud._  
-__heartland__ :two: _n_ The central or most important part of a country, area, or field of activity. _The nation's heartland._  
+__heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartthrob__ _n_ :four::hammer::pencil2: (heart-throb)  
 __heartworm__  
 __heat > to catch a lot of heat__  
@@ -4638,7 +4638,7 @@ __keep in check__ _Devils keep Hawks' high-flying offense in check._
 __keep tabs on__ :two::hammer: :es: vigilar  
 __keep up__  
 __keep__ _n_ :es: torreón  
-__keepsake__ :two: _n_ A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
+__keepsake__ _n_ :two: A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keepsakes__  
 __keg__ _n_ :two::hammer:  
 __kelp__  
@@ -4862,7 +4862,7 @@ __lenient__ _adj_ :six: (leniently) If you're not overly strict, and you show to
 __lentils__ :es: lentejas  
 __leper__  
 __lepers__  
-__lese majeste__ (lèse-majesté) _n_ _A number of senior officials were charged with lese majeste._  
+__lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
 __lest__ _conj_ :nine: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :four::hammer:  
@@ -6341,7 +6341,7 @@ __preventable__
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
 __preyed__ _v_  
-__prez__ or __Prez__ :two: _n_ _Informal_ President.  
+__prez__ _n_ _Informal_ (Prez) President.  
 __price point__ _The best in price point._  
 __price tag__  
 __pricey__  
@@ -6826,7 +6826,7 @@ __restitution__ _Pierucci must pay $928 in restitution._
 __restive__ _adj_ :three::hammer:  
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
-__restraint__ :two::hammer: _n_  
+__restraint__ _n_ :two::hammer:  
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __retailer__ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
@@ -7060,7 +7060,8 @@ __sadism__ _n_
 __sadistic__ _adj_  
 __safeguard__  
 __safekeeping__  
-__sag__ _v_ :six: (sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._ _n_ A decline, especially a temporary one.  
+__sag<sup>1</sup>__ _v_ :six: (sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
+__sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __sage<sup>1</sup>__ _n_  
 __sage<sup>2</sup>__ _adj_ :three::hammer: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
@@ -7853,7 +7854,7 @@ __souped-up__ _v_
 __souping up__ _v_  
 __soured__ _v_  
 __soused__ _v_  
-__southpaw__ :two: _n_ A left-handed boxer who leads with the right hand. _To fight a southpaw._ _Informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ _:es: zurdo_  
+__southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _Informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ _:es: zurdo_  
 __sovereign__  
 __sovereignty__ :pencil2:  
 __sow__ _n_ :four::hammer: _A drunk sow._  
@@ -8313,9 +8314,9 @@ __sugar beet__
 __suicide vests__  
 __suit up__ _v_  
 __suitors__ :two::hammer:  
-__sulk<sup>1</sup>__ (sulky) :two: _n_ A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
+__sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_  
-__sulky__  
+__sulky__ :two::hammer:  
 __sullen__ :two::hammer:  
 __sullenly__  
 __sully__ _v_  
