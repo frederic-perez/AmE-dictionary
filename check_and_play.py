@@ -133,6 +133,10 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
 def entry_has_displaced_part_of_speech(entry):
     if entry.count('_adj_') == 1:
         return entry.count('__ _adj_') != 1
+    if entry.count('_adv_') == 1:
+        return entry.count('__ _adv_') != 1
+    if entry.count('_n_') == 1:
+        return entry.count('__ _n_') != 1
     return False
 
 class Checker(object):
