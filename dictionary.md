@@ -145,6 +145,7 @@ __HMOs__
 __HVAC__  
 __Hail Mary__  
 __Halligan__ _They had Halligan bars for smashing windows._  
+__Hannukah__ (Chanukah)  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
 __Hedonism__  
@@ -1254,7 +1255,7 @@ __brainchild__ _n_ :two::hammer:
 __brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
 __braised__ _Braised turkey and gravy stuffing._  
-__brambles__ :two::hammer:  
+__brambles__ _n_ :three::hammer:  
 __brander__  
 __branding iron__ _n_ :camera:  
 __brash__ :two::hammer: _Brash talk._ _It sounded brash._  
@@ -4370,7 +4371,7 @@ __impeach__ _v_ :two::hammer:
 __impeachment__ :two::hammer:  
 __impeccable__  
 __impeccably__ :two::hammer:  
-__impede__ _v_ :two::hammer: (impeded)  
+__impede__ _v_ :three::hammer: (impeded)  
 __impedimenta__ _n_  
 __impending__ _adj_ :eight: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :four::hammer: (imperiled)  
@@ -5358,7 +5359,7 @@ __mooted__ :two::hammer: _A mooted rebellion._
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
 __mopping up__  
-__morasses__ _Morasses of salt._  
+__morass__ _n_ :two::hammer: (morasses) _Morasses of salt._  
 __moratorium__ :two::hammer:  
 __morcellator__  
 __morels__ _n_  
@@ -7396,7 +7397,7 @@ __shingle__
 __shingles__ _n_ :two::hammer:  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
-__shirk<sup>2</sup>__ _v_ (shirking)  
+__shirk<sup>2</sup>__ _v_ :two::dart: (shirking) To avoid work or duty.  
 __shirttail__ _n_  
 __shit-canning__  
 __shitcan__ _v_  
@@ -7595,7 +7596,7 @@ __slackened__ _v_
 __slacker__  
 __slag__  
 __slake__ _v_  
-__slam__ _v_ _LeBron slams Phil Jackson for comment._  
+__slam__ _v_ :two::hammer: _LeBron slams Phil Jackson for comment._  
 __slander__ _v_ :four::hammer: (slandering)  
 __slant__  
 __slapjack__  
@@ -7657,7 +7658,7 @@ __sliver__ _n_ :four::hammer: _A sliver of chicken._ _Slivers of salmon._
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
 __slobby__  
-__slog<sup>1</sup>__ _v_ :seven: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
+__slog<sup>1</sup>__ _v_ :eight: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :three: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slop__ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n_ _Informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
@@ -7711,7 +7712,7 @@ __smirk__
 __smirking__  
 __smirks__ _n_  
 __smite__  
-__smithereens__  
+__smithereens__ _n Informal_ :two: Fragments or splintered pieces; bits: _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
@@ -9217,7 +9218,7 @@ __wad up__ _v_
 __wad__ _Wads of cash._  
 __wadded__ _v_ :six::hammer: _He wadded up the towel._  
 __waddle__ _v_ :two::hammer: (waddling) _Two chubby guys waddling around the pool table._  
-__wade__ _v_ :five::hammer: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
+__wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __waders__ _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
 __wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
@@ -9432,7 +9433,7 @@ __wilful__
 __will__ _v_  
 __willful__  
 __willfully__  
-__willy-nilly__ _adv_ :three: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
+__willy-nilly__ _adv_ :four: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
 __wilt__ _v_  
 __wilted__ _v_ :seven::hammer: (wilting) _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
