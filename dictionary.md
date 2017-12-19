@@ -3751,12 +3751,12 @@ __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._
 __gorging__  
 __gorse__  
 __gory__  
-__gosling__ _An errant gosling._  
+__gosling__ _?_ _An errant gosling._  
 __gouge__ _v_ :five::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
-__gougers__ _Transparency helps patients and exposes gougers._  
+__gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __gout__  
 __grace__ _v_  
-__gracial pace__ _At a glacial pace._  
+__gracial pace__ _?_ _At a glacial pace._  
 __gracious__ _adj_ :two::hammer:  
 __graciousness__  
 __grade__ _v_  
@@ -3764,21 +3764,21 @@ __grader__ _n_ :two::hammer: (graders)
 __graft__ :three::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._  
 __gramps__  
 __grand jury__  
-__grand-auto__ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
+__grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
 __grandstand__ _n_ :four::hammer: (grandstands) _He found rats in his grandstand._  
 __granola__ _n_  
-__graphic sexuality__ (for movie ratings)  
+__graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapple<sup>2</sup>__ _n_ _A thin cord hooked to a grapple._  
 __grapples__ _v_  
 __grapplings__ _n_  
-__grass-routs__ _Grass-routs campaign._  
+__grass-routs__ _?_ _Grass-routs campaign._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_  
 __grate<sup>2</sup>__ _v_ :four: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
-__grates__ :camera: _Cast iron grates._  
-__gratin__ _Sweet potato gratin._  
+__grates__ _?_ :camera: _Cast iron grates._  
+__gratin__ _?_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :two::hammer: _A bright green screen of thick metal grating sat solidly on the counter._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __grave liner__ _Grave liners are stored at the Travis County cemetery._  
@@ -4114,9 +4114,9 @@ __heliograph__
 __helipad__  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
-__helluva__ _A helluva year._  
+__helluva__ _?_ _A helluva year._  
 __helm__ _n_  
-__helpings__ _Second helpings._  
+__helpings__ _?_ _Second helpings._  
 __hem__ _n_ :es: dobladillo  
 __hemlock__  
 __hemmed__ _v_ :two::hammer:  
@@ -9539,13 +9539,13 @@ __wreck__ _v_
 __wrecking ball__  
 __wrench__ _v_ _My mother reached up and wrenched my ear._  
 __wrenched__ _Kristof had a wrenched thumb from the fight._  
-__wrenching__ _A wrenching prospect._  
-__wretch__ _The lowliest wretch among them._  
+__wrenching__ _?_ _A wrenching prospect._  
+__wretch__ _?_ _The lowliest wretch among them._  
 __wretched__  
 __wrethes__  
 __wriggle__  
 __wriggling__  
-__wring out__ _She finished wringing out the jeans and shut off the water._  
+__wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
 __wringer__ :two::hammer: _Run through the wringer._  
 __wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
 __wrinkle__ _v_ :three::hammer: (wrinkled, wrinkling)  
@@ -9563,7 +9563,7 @@ __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour.
 __wryly__ :two::hammer:  
 __wunderkind__  
 __wussification__  
-__ya'__ _Ya' think?_  
+__ya'__ _?_ _Ya' think?_  
 __yada yada yada__  
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
@@ -9576,17 +9576,17 @@ __yawing__ _v_
 __yawn__ _n_ _The sound of yawns and crickets._  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
-__yay__ _Yay, Giants!_  
+__yay__ _?_ _Yay, Giants!_  
 __yearn__ _v_ __1__ :six: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
-__years old__ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
+__years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __yellow wine__  
 __yelp__ _v_ (?)  
 __yelped__ _v_  
-__yelps__ _Puppy yelps._  
+__yelps__ _?_ _Puppy yelps._  
 __yeoman__ _n_ :three::hammer:  
 __yesteryear__ :two::hammer:  
-__yew root__ _Yew root would help a pregnant woman to hold back her fetus._  
+__yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ :two::hammer:  
 __yew__  
 __yield__ :two::hammer: _Failing to yield to pedestrians._  
@@ -9596,12 +9596,12 @@ __yipped__ _v_
 __yipping__ _v_  
 __yips__  
 __yo-yoing__  
-__yoke__ _Egg yoke._  
+__yoke__ _n_ _Egg yoke._  
 __yokels__ :two::hammer:  
 __yonder__  
-__yore__ _Days of yore._  
+__yore__ _?_ _Days of yore._  
 __you name it__ :dart::two::hammer:  
-__your face sounds familiar__ :es: _tu cara me suena_  
+__your face sounds familiar__ _?_ :es: _tu cara me suena_  
 __yowl__ _n_ _His yowl of pain_  
 __yowled__ _v_  
 __yowza__  
@@ -9624,10 +9624,10 @@ __zest__ _n_ :three::hammer: _The zest of one orange._ _Stir in orange zest and 
 __zesty__  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
-__zip-line__ (zip-lining)  
+__zip-line__ _?_ (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _(informal)_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
 __zip<sup>2</sup>__ _v_ :two: _(informal)_ To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
-__zippy__ _A zippy hit parade._  
+__zippy__ _?_ _A zippy hit parade._  
 __zit__ _n_ _Informal_ A spot on the skin.  
 __zonk__ _n_ :two::hammer:  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
