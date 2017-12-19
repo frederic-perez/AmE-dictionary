@@ -130,6 +130,25 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
                 + ENDC
     return headword, part_of_speech, tokens[idx+1:]
 
+def entry_misses_part_of_speech(entry):
+    tokens = entry.split()
+    do_print = False
+    headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+    # TODO: Improve this
+    if part_of_speech != '' and \
+        part_of_speech != '_?_' and \
+        part_of_speech != '_adj_' and \
+        part_of_speech != '_adv_' and \
+        part_of_speech != '_interjection_' and \
+        part_of_speech != '_interjection slang_' and \
+        part_of_speech != '_n_' and \
+        part_of_speech != '_v_' and \
+        part_of_speech != '_v intr_' and \
+        part_of_speech != '_v tr_' and \
+        part_of_speech.count(':hammer:') < 1:
+        return True
+    return False
+
 def entry_has_displaced_part_of_speech(entry):
     if entry.count('_adj_') == 1:
         return entry.count('__ _adj_') != 1
@@ -137,6 +156,8 @@ def entry_has_displaced_part_of_speech(entry):
         return entry.count('__ _adv_') != 1
     if entry.count('_n_') == 1:
         return entry.count('__ _n_') != 1
+    if entry.count('_v_') == 1:
+        return entry.count('__ _v_') != 1    
     return False
 
 class Checker(object):
@@ -149,6 +170,7 @@ class Checker(object):
         self.num_invalid_endings = 0
         self.num_invalid_tags = 0
         self.num_invalid_use_of_underscores = 0
+        self.num_missing_part_of_speech = 0
         self.num_tag_shit = 0
         self.num_too_many_double_spaces = 0
         self.num_wrong_part_of_speech = 0
@@ -209,6 +231,15 @@ class Checker(object):
         print headword + ' ' + part_of_speech + FAIL \
             + ' <<< :shit: found; use :hammer: instead' + ENDC
 
+    def treat_missing_part_of_speech(self, headword, part_of_speech):
+        """Self-explanatory"""
+        self.num_missing_part_of_speech += 1
+        if part_of_speech != '' and \
+            part_of_speech != '_?_' and \
+            part_of_speech.count(':hammer:') < 1:
+            print headword + ' ' + part_of_speech + FAIL \
+            + ' <<< missing part of speech found' + ENDC
+
     def treat_displaced_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_displaced_part_of_speech += 1
@@ -230,6 +261,11 @@ class Checker(object):
             self.treat_triple_spaces(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
+        if entry_misses_part_of_speech(entry):
+            tokens = entry.split()
+            do_print = False
+            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+            self.treat_missing_part_of_speech(headword, part_of_speech)
         if entry_has_displaced_part_of_speech(entry):
             tokens = entry.split()
             do_print = False
@@ -263,6 +299,7 @@ class Checker(object):
             + self.num_tag_shit \
             + self.num_too_many_double_spaces \
             + self.num_entries_with_triple_spaces \
+            + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
             print OKGREEN + 'No entries-related problems were found in file \'' \
@@ -279,6 +316,7 @@ class Checker(object):
             print_colored('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)
             print_colored('Entries with triple spaces', self.num_entries_with_triple_spaces)
+            print_colored('Entries missing part of speech', self.num_missing_part_of_speech)
             print_colored('Entries with wrong part of speech', \
                 self.num_wrong_part_of_speech)
         print
