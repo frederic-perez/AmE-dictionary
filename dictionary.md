@@ -3036,7 +3036,7 @@ __exec__ :two::hammer: (execs) _informal_ An executive.
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
 __exemption__ _Dru earned an exemption into the tournament._  
-__exert__ _v_ :six::hammer: (exerted) _To exert due diligence._  
+__exert__ _v_ :seven::hammer: (exerted) _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
 __exhaust__ _Exhaust fans._  
 __exhibit A__  
@@ -8474,8 +8474,8 @@ __tamale__ _I'm staying away from that one--that's a hot tamale._
 __tamp down__ _v_ :two::hammer:  
 __tan__ Color?  
 __tang__ _n_ :three::hammer: _Dory, the little blue tang fish._  
-__tangle__ _v_  
-__tangled__ _Cousin and Horford tangled in the first quarter Wednesday._  
+__tangle<sup>1</sup>__ _n_ (tangles)  
+__tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tank__ _v_ :six::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._  
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
