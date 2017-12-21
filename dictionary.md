@@ -9452,36 +9452,33 @@ __windlass__
 __window sash__ _n_  
 __windshield wipers__  
 __windstorm__  
-__windup__ _It was a cheap, windup alarm clock._  
+__windup__ _adj_ _It was a cheap, windup alarm clock._  
 __winging__ _v_  
 __wingtips__  
 __winking__ _v_  
-__winnow__ _That is why we have the school, to winnow the chaff from the wheat._  
-__winnowed__ :two::hammer: _Nominations are winnowed down to 10 finalists._  
-__winnowing__ _v_  
+__winnow__ _v_ :four::hammer: (winnowed, winnowing) _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
 __winsome__  
 __winterkill__  
 __wintry__ _adj_ :three: :es: invernal  
 __wire > getting down to the wire__  
 __wire book stand__  
-__wire grass__ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
-__wire-rimmed__ _Wire-rimmed glasses._  
+__wire grass__ _n_ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
+__wire-rimmed__ _adj_ _Wire-rimmed glasses._  
 __wire-to-wire__ _adj_ :three: _Informal_ From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wiry__ _adj_ :two::hammer: _He's wiry, strong and fast._  
 __wisdom tooth__  
 __wisecracks__  
-__wish list__ _The community's wish list._  
+__wish list__ _n_ :two::hammer: _The community's wish list._ _A $100 million wish list._  
 __wishbone__  
 __wishful thinking__  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
-__wishlist__ _A $100 million wish list._  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__  
 __wistful__ :two::hammer:  
 __wistfulness__  
-__wit__ _He was at wit's end._  
+__wit__ _n_ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
 __withe down__ _v_  
@@ -9532,14 +9529,13 @@ __wrangling__ _v_
 __wraparound season__  
 __wreak havoc__  
 __wreaked havoc__  
-__wreath-lying__ :pencil2:  
-__wreath__ _n_ :three: (wreaths) _Funeral wreath._ :es: corona  
-__wreathed__ _A wreathed sword._  
+__wreath-lying__ _?_ :pencil2:  
+__wreath<sup>1</sup>__ _n_ :three: (wreaths) _Funeral wreath._ :es: corona  
+__wreath<sup>2</sup>__ _v_ _A wreathed sword._  
 __wreck__ _v_  
 __wrecking ball__  
-__wrench__ _v_ _My mother reached up and wrenched my ear._  
-__wrenched__ _Kristof had a wrenched thumb from the fight._  
-__wrenching__ _?_ _A wrenching prospect._  
+__wrench__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
+__wrenching__ _adj_ _A wrenching prospect._  
 __wretch__ _?_ _The lowliest wretch among them._  
 __wretched__  
 __wrethes__  
