@@ -711,7 +711,7 @@ __average citizens__
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :two::hammer: (averted)  
 __avid__ _adj_ :three::hammer:  
-__avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ _:es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación_  
+__avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación  
 __avowed__ _v_  
 __avuncular__ _adj_ :three: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
@@ -757,7 +757,7 @@ __badinage__ _n_ :two::hammer:
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__  
 __baffle__ _v_ :five::hammer: _Baffled children._  
-__bafflement__ _n_ Confusion resulting from failure to understand. _:es: desconcierto, perplejidad_  
+__bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffling__ _Baffling season._  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ _n_ :three: (baggies) _Informal_ Any small bag or packet. _Take baggies for the extra goodies._  
@@ -1522,7 +1522,7 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliopes__  
-__callous__ _adj_ :five::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _:es: insensible, cruel_  
+__callous__ _adj_ :five::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
 __calves__  
 __cameleer__  
@@ -1784,7 +1784,7 @@ __cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns
 __citadel__ _n_  
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
-__cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. _:es: revestimiento_  
+__cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _The White Sox claimed the 2005 title._  
 __claimants__  
 __clam up__ _v_  
@@ -1836,7 +1836,7 @@ __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his 
 __clinics__ _n_ :two::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _A better newspaper clip._  
 __clipped grass__  
-__clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. _:es: camarilla_  
+__clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. :es: camarilla  
 __cloak__ :two::hammer: :es: capa, manto  
 __cloakroom__ _n_  
 __clobber__ _v_ :two::hammer:: (clobbered) _Uber threatens to clobber the media._  
@@ -2182,7 +2182,7 @@ __cribbage__ _game_
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ _Crimson cereal._  
-__cringe__ _v_ :six: __1__ To shrink back, as in fear; cower. _:es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza_ __2__ To behave in a servile way; fawn. _:es: it makes me cringe > me da horror_  
+__cringe__ _v_ :six: __1__ To shrink back, as in fear; cower. :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__  
@@ -3214,7 +3214,7 @@ __filings__
 __fill out__  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ :two::hammer:  
-__filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ _:es: potra_  
+__filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __finalize__ _v_  
 __fine print__  
 __fine-tune__ _v_  
@@ -3380,7 +3380,7 @@ __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __fob__ :two::hammer:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
-__foible__ _n_ :two: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. _:es: manía_  
+__foible__ _n_ :two: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
 __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
@@ -3418,7 +3418,7 @@ __for-profit__
 __forage<sup>1</sup>__ _n_  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
 __forager__ _n_ :two::hammer: (foragers)  
-__foray__ _n_ :six: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ _:es: incursión_  
+__foray__ _n_ :six: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ :es: incursión  
 __forbear__ _v_  
 __forbearance__  
 __forceful__ _A forceful pitch._  
@@ -4993,7 +4993,7 @@ __lookout__ :two::hammer: _Be on the lookout._
 __lookup__ _n_  
 __loony bin__ _The Count's plot to drive her straight to the loony bin._  
 __loony__  
-__loophole__ _:es: escapatoria_  
+__loophole__ :es: escapatoria  
 __loopy__ :two::hammer: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
 __loose cannon__  
 __loose ends__  
@@ -7049,7 +7049,7 @@ __ruse__ _n_ :three::hammer: (ruses)
 __rustle up__ _v_  
 __rustle__ _v_ :four::hammer: (rustled, rustling) _To rustle up a dinner for 12._  
 __rut__ :two::hammer: _Some guy with rut for brains._  
-__rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. _:es: centeno_ __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
+__rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. :es: centeno __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __s&h__ _Every penny will be returned to you (except s&h)._  
 __s/s__ Stainless steel. _s/s appliances._  
 __sac-a-lait__  
@@ -7235,7 +7235,7 @@ __seagulls__ _n_
 __seahawk__ ?  
 __seal__ _Lacy gained 27 yards to seal their fourth division win._  
 __seamstress__ _n_  
-__sear__ _v_ :three: (searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ _:es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar_  
+__sear__ _v_ :three: (searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar  
 __seared__ _His lungs seared with burning poison._  
 __searing > searing work__  
 __seaside__  
@@ -7855,7 +7855,7 @@ __souped-up__ _v_
 __souping up__ _v_  
 __soured__ _v_  
 __soused__ _v_  
-__southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _Informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ _:es: zurdo_  
+__southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _Informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
 __sovereign__  
 __sovereignty__ :pencil2:  
 __sow__ _n_ :four::hammer: _A drunk sow._  
@@ -8049,7 +8049,7 @@ __stand tall__
 __stand to reason__ :two::hammer: _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __standard__ _n_ :camera: :es: estandarte (?)  
 __standby__ _The old standby._  
-__standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the standings._ _:es: clasificación_  
+__standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
 __standoff__ _n_ :three::hammer:  
 __standout<sup>1</sup>__ _adj_ :seven: _Informal_ Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
@@ -8363,7 +8363,7 @@ __suspensers__ _Firehouse suspenders_
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __svelte__ :two::hammer:  
 __swadding__  
-__swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. _:es: envolver con ropa apretada a un bebé_  
+__swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. :es: envolver con ropa apretada a un bebé  
 __swage__ _adj_  
 __swagger__ _v_ :four::hammer:  
 __swain__ _n_ A young male suitor or lover.  
@@ -8654,7 +8654,7 @@ __thusly__
 __thwack__ (thwacks) :two::hammer:  
 __thwart__ _v_ :nine: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :three::hammer:  
-__tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _:es: diadema_  
+__tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
 __tick prevention__  
 __tick__ _v_ _Prices ticked up 0.2%._  
 __ticker__  
@@ -8829,7 +8829,7 @@ __trellises__ _From his trellises._
 __trepidation__ _n_ :three::hammer:  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
-__trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _:es: caballete; bastidor_  
+__trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
 __treys__ :two::hammer:  
 __trial__ _n_  
 __tribulation__ _n_ :four::hammer: (tribulations)  
@@ -8922,7 +8922,7 @@ __turnip greens__
 __turnip__ _n_ :three::hammer:  
 __turnkey__  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
-__turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ _:es: facturación, volumen de ventas_ __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
+__turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
 __turnsole__ :pencil2:  
@@ -9250,7 +9250,7 @@ __wall-eyed__
 __wall__ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wallboard__  
 __wallflower__  
-__wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ _:es: golpear_  
+__wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wane__ _v_  
@@ -9314,8 +9314,8 @@ __wedhe issue__
 __wedlock__ :two::hammer:  
 __wee hours__  
 __wee tot__ _My niece was just a wee tot and was lost in a cornfield._  
-__wee__ _Comes out of prison with a wee bit of a chemical dependency problem._  
-__weed<sup>1</sup>__ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
+__wee__ _adj_ _chiefly Scot_ Very small. _Comes out of prison with a wee bit of a chemical dependency problem._  
+__weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
 __weevil__ :two::hammer: _Weevil worms._  
@@ -9335,7 +9335,7 @@ __welsh__ _v_
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
 __welted__  
-__welter__ _A welter of data._  
+__welter__ _n_ _A welter of data._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
@@ -9359,8 +9359,7 @@ __wheelbarrow-sledges__
 __wheelbarrow__  
 __wheeled__ _v_ _Shallows dipped and wheeled._  
 __wheelwright__ _n_  
-__wheeze__  
-__wheezing__ _Wheezing economy._  
+__wheeze__ _v_ :two::hammer: (wheezing) _Wheezing economy._  
 __whelp__  
 __whence__  
 __whereabouts__  
@@ -9375,10 +9374,11 @@ __whiff<sup>2</sup>__ _v_
 __whiffed__ _v_  
 __while__ _v_ _To while away the hours drinking vodka._  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
-__whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ _:es: sollozo_  
+__whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whinnied__ _v_  
-__whip__ _Mr. Roskam was appointed deputy whip after the 2010 elections._  
-__whiplash__ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _:es: latigazo_  
+__whip<sup>1</sup>__ _v_  
+__whip<sup>2</sup>__ _n_ _Mr. Roskam was appointed deputy whip after the 2010 elections._  
+__whiplash__ _n_ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
 __whippersnapper__  
 __whir__ _n_  
 __whirled__ _v_  
@@ -9391,7 +9391,7 @@ __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _
 __whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
 __whiskers__  
 __whistle-blower__  
-__white elephant__ (?)  
+__white elephant__ _n_  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
 __whiteout__  
@@ -9404,7 +9404,7 @@ __whole milk__
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::hammer:  
 __wholesome__ :two::hammer:  
-__wholly__ :pencil2: _A problem that is wholly unnecessary._  
+__wholly__ _adv_ :pencil2: _A problem that is wholly unnecessary._  
 __whoop<sup>1</sup>__ _n_  
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
@@ -9425,15 +9425,15 @@ __wiener dog__
 __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wiggle<sup>2</sup>__ _v_  
 __wigglers__  
-__wild card__ _The wildcard was an expected weekend warmup with rain._  
+__wild card__ _n_ _The wild card was an expected weekend warmup with rain._  
 __wilderness__  
-__wildling__ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
+__wildling__ _n_ _Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
 __wilful__  
 __will__ _v_  
 __willful__  
 __willfully__  
-__willy-nilly__ _adv_ :four: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ _:es: a la fuerza_  
+__willy-nilly__ _adv_ :four: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __wilt__ _v_  
 __wilted__ _v_ :seven::hammer: (wilting) _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
