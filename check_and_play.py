@@ -34,11 +34,10 @@ def valid_use_of_underscores(entry):
     num_hits = \
         len(re.findall('__[a-zA-Z0-9]+_[^_]', entry)) \
         + len(re.findall('[^_]_[a-zA-Z0-9]+__', entry))
-    if num_hits > 0:
-        return False
-    if entry.count('___') > 0:
-        return False
-    if entry.count('_') % 2 != 0:
+    if num_hits > 0 or \
+        entry.count('___') > 0 or \
+        entry.count('_') % 2 != 0 or \
+        entry.count('_:es:') > 0:
         return False
     return True
 
