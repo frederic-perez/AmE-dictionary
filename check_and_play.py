@@ -149,15 +149,12 @@ def entry_misses_part_of_speech(entry):
         return True
     return False
 
+PARTS_OF_SPEECH = ['_adj_', '_adv_', '_n_', '_v_']
+
 def entry_has_displaced_part_of_speech(entry):
-    if entry.count('_adj_') == 1:
-        return entry.count('__ _adj_') != 1
-    if entry.count('_adv_') == 1:
-        return entry.count('__ _adv_') != 1
-    if entry.count('_n_') == 1:
-        return entry.count('__ _n_') != 1
-    if entry.count('_v_') == 1:
-        return entry.count('__ _v_') != 1    
+    for part_of_speech in PARTS_OF_SPEECH:
+        if entry.count(part_of_speech) == 1:
+            return entry.count('__ ' + part_of_speech) != 1
     return False
 
 class Checker(object):
