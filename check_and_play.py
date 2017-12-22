@@ -138,10 +138,12 @@ def entry_misses_part_of_speech(entry):
         part_of_speech != '_?_' and \
         part_of_speech != '_adj_' and \
         part_of_speech != '_adv_' and \
-        part_of_speech != '_interjection_' and \
-        part_of_speech != '_interjection slang_' and \
+        part_of_speech != '_interj_' and \
+        part_of_speech != '_interj slang_' and \
         part_of_speech != '_n_' and \
+        part_of_speech != '_n informal_' and \
         part_of_speech != '_v_' and \
+        part_of_speech != '_v informal_' and \
         part_of_speech != '_v intr_' and \
         part_of_speech != '_v tr_' and \
         part_of_speech.count(':hammer:') < 1:
