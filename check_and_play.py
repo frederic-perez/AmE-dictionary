@@ -137,11 +137,14 @@ def entry_misses_part_of_speech(entry):
     if part_of_speech != '' and \
         part_of_speech != '_?_' and \
         part_of_speech != '_adj_' and \
+        part_of_speech != '_adj informal_' and \
         part_of_speech != '_adv_' and \
         part_of_speech != '_interj_' and \
         part_of_speech != '_interj slang_' and \
         part_of_speech != '_n_' and \
         part_of_speech != '_n informal_' and \
+        part_of_speech != '_phr_' and \
+        part_of_speech != '_phr idiom_' and \
         part_of_speech != '_v_' and \
         part_of_speech != '_v informal_' and \
         part_of_speech != '_v intr_' and \
