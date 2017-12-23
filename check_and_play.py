@@ -137,14 +137,25 @@ def entry_misses_part_of_speech(entry):
     if part_of_speech != '' and \
         part_of_speech != '_?_' and \
         part_of_speech != '_adj_' and \
+        part_of_speech != '_adj, adv_' and \
+        part_of_speech != '_adj, adv, prep_' and \
+        part_of_speech != '_adj, n_' and \
         part_of_speech != '_adj informal_' and \
         part_of_speech != '_adv_' and \
+        part_of_speech != '_conj_' and \
+        part_of_speech != '_fig_' and \
+        part_of_speech != '_idiom_' and \
         part_of_speech != '_interj_' and \
         part_of_speech != '_interj slang_' and \
         part_of_speech != '_n_' and \
+        part_of_speech != '_n, adj_' and \
+        part_of_speech != '_n, v_' and \
         part_of_speech != '_n informal_' and \
         part_of_speech != '_phr_' and \
         part_of_speech != '_phr idiom_' and \
+        part_of_speech != '_phr informal_' and \
+        part_of_speech != '_phr v_' and \
+        part_of_speech != '_prep_' and \
         part_of_speech != '_v_' and \
         part_of_speech != '_v informal_' and \
         part_of_speech != '_v intr_' and \
@@ -262,7 +273,8 @@ class Checker(object):
             self.treat_triple_spaces(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
-        if entry_misses_part_of_speech(entry):
+        if entry_has_tag_of_any_number(entry, 3, 9) and \
+           entry_misses_part_of_speech(entry):
             tokens = entry.split()
             do_print = False
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
