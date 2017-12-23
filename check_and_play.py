@@ -32,8 +32,8 @@ def valid_entry_ending(entry):
 def valid_use_of_underscores(entry):
     """Returns False when finding a bad usage of underscores"""
     num_hits = \
-        len(re.findall('__[a-zA-Z0-9]+_[^_]', entry)) \
-        + len(re.findall('[^_]_[a-zA-Z0-9]+__', entry))
+        len(re.findall('__[a-zA-Z0-9>]+_[^_]', entry)) \
+        + len(re.findall('[^_]_[a-zA-Z0-9>]+__', entry))
     if num_hits > 0 or \
         entry.count('___') > 0 or \
         entry.count('_') % 2 != 0 or \
@@ -136,6 +136,7 @@ def entry_misses_part_of_speech(entry):
     # TODO: Improve this
     if part_of_speech != '' and \
         part_of_speech != '_?_' and \
+        part_of_speech != '_abbr_' and \
         part_of_speech != '_adj_' and \
         part_of_speech != '_adj, adv_' and \
         part_of_speech != '_adj, adv, prep_' and \
@@ -155,6 +156,7 @@ def entry_misses_part_of_speech(entry):
         part_of_speech != '_phr idiom_' and \
         part_of_speech != '_phr informal_' and \
         part_of_speech != '_phr v_' and \
+        part_of_speech != '_pl n_' and \
         part_of_speech != '_prep_' and \
         part_of_speech != '_v_' and \
         part_of_speech != '_v informal_' and \
