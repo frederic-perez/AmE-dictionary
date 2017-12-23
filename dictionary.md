@@ -1306,7 +1306,7 @@ __brisk__ _adj_ :three::hammer: _Brisk pace._
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
-__bristle with something__ _phrasal v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
+__bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristle<sup>1</sup>__ _n_  
 __bristle<sup>2</sup>__ _v_ :five: To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
 __bristles__ _n_ :two::hammer:  
@@ -1767,7 +1767,7 @@ __chucklers__
 __chug__ _v_ :three::hammer: _A cocktail to chug._ _We're chugging along._  
 __chum__ _n_ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
 __chumps__ _n_  
-__churn out__ _phrasal v_ To produce in an abundant and regular manner: _churns out four novels a year._  
+__churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
@@ -2666,7 +2666,7 @@ __double bill__
 __double dip__  
 __double down__ _v_ :seven: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
 __double take__ _n_ :two::hammer:  
-__double up__ _phrasal v_ To bend suddenly, as in pain or laughter.  
+__double up__ _phr v_ To bend suddenly, as in pain or laughter.  
 __double-cross__ _n_  
 __double-decker bus__  
 __double-decker__ _Double-decker bus._  
@@ -2728,7 +2728,7 @@ __dray__ _n_ :two::hammer: (drays) _Dray horse._
 __drayman__  
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_  
-__dredge up__ _phrasal v_ :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
+__dredge up__ _phr v_ :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :three::hammer: _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
@@ -2971,7 +2971,7 @@ __entrenched__ _adj_ :five: (of an attitude, habit, or belief) Firmly establishe
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
 __entwined__  
-__envelope > push the envelope__ _Idiom_ To go beyond established limits; to pioneer.  
+__envelope > push the envelope__ _phr idiom_ To go beyond established limits; to pioneer.  
 __envisage__ _v_  
 __envision__  
 __epaulets__  
@@ -3626,7 +3626,7 @@ __gaze<sup>2</sup>__ _v_
 __gazebo__  
 __gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
-__geek out__ _v_ _Idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don't have time to explain: "Pardon me while I geek out for a moment."  
+__geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don't have time to explain: "Pardon me while I geek out for a moment."  
 __geezer__ :three::hammer: (geezers) _A lightsaber battle where two old geezers poke at each other._  
 __gelding__ _n_ :three:hammer:  
 __gelled__ _His hair was neatly gelled._  
@@ -4054,7 +4054,7 @@ __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._
 __hazel__  
 __hazing__ _The college hazing policy._  
 __hazmat suit__  
-__head and shoulders [above the rest/others]__ _phrase informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
+__head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _Giving them a head start on finding a job._  
@@ -4304,7 +4304,7 @@ __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2
 __hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
 __humpty-dumpty__  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
-__hungup__ _Informal?_ _What's the hungup?_  
+__hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__  
@@ -5085,7 +5085,7 @@ __make perfect sense__ _It makes perfect sense._
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
-__make waves__ (making waves) _Idiom_ Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
+__make waves__ _phr idiom_ (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
 __makeshift__ _adj_ :seven::hammer:  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
@@ -5135,7 +5135,7 @@ __markup__ _n_ :five::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issue
 __marmalade__  
 __marooned__ _He felt marooned by the silence._  
 __marquee events__  
-__marquee__ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :five: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._  
+__marquee__ _n_ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :five: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._  
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
@@ -5780,7 +5780,7 @@ __outstripped__ _v_
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
-__over the moon__ _British Informal_ Extremely happy; delighted. _We are over the moon._  
+__over the moon__ _British informal_ Extremely happy; delighted. _We are over the moon._  
 __over-ear headphones__  
 __over-the-hill__ :two::hammer: _I'm over-the-hill for Passion._  
 __over-under__  
@@ -7567,7 +7567,7 @@ __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan
 __skim__ _v_ :three::hammer: (skimming) _Skim fat from chilled pan juices and finish making gravy._  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
-__skimp<sup>2</sup>__ _n Informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
+__skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
 __skimpy__ _adj_ :three::hammer:  
 __skin parlor__  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
@@ -7712,7 +7712,7 @@ __smirk__
 __smirking__  
 __smirks__ _n_  
 __smite__  
-__smithereens__ _n Informal_ :two: Fragments or splintered pieces; bits: _The fragile dish broke into smithereens._  
+__smithereens__ _n informal_ :two: Fragments or splintered pieces; bits: _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
@@ -8743,9 +8743,9 @@ __tomcat__
 __ton__ _A metric ton._  
 __tone-deaf__  
 __tong__  
-__tongue in cheek__ _adj and adverb_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
+__tongue in cheek__ _adj, adv_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
-__tony__ _adj Informal_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
+__tony__ _adj informal_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
 __toodling__  
 __toom__  
@@ -8992,7 +8992,7 @@ __undercard__ _n_ :two::hammer: _Undercard debates._
 __undercurrent__  
 __undercut__ _v_ :three::hammer:  
 __undercutting__  
-__underdog__ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
+__underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :two::hammer:  
@@ -9153,7 +9153,7 @@ __venial__ _adj_
 __venison__ _n_ :two::hammer:  
 __venom__ :two::hammer:  
 __venomous__ _adj_ :two::hammer:  
-__ventilator__ :pencil2: _med_  
+__ventilator__ _n_ :pencil2: _med_  
 __veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :two::hammer::pencil2:  
@@ -9185,7 +9185,7 @@ __vilify__ _v_
 __villa__ _n_  
 __villainy__ :pencil2:  
 __villas__ _n_  
-__vim__ _n Informal_ Robust energy and enthusiasm.  
+__vim__ _n informal_ Robust energy and enthusiasm.  
 __vindicate__ _v_ :seven::hammer: (vindicated)  
 __vindication__ _n_ :six::hammer:  
 __vintner__ _n_  
@@ -9220,7 +9220,7 @@ __waddle__ _v_ :two::hammer: (waddling) _Two chubby guys waddling around the poo
 __wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
-__wafer__ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
+__wafer__ _n_ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
 __waffle__ _v_ :four::hammer: (waffled, waffling)  
 __waffling__  
 __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
@@ -9276,7 +9276,7 @@ __washwoman__
 __wastebasket__  
 __wastrel__ :two::hammer:  
 __watch caps__  
-__watch your six__ _Idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
+__watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
 __watchword__  
 __water buffalo__  
@@ -9301,8 +9301,7 @@ __weary__
 __weather vane__  
 __weather__ _v_ (weathering)  
 __weave<sup>1</sup>__ _n_  
-__weave<sup>2</sup>__ _v_  
-__weaving__ _He was weaving through traffic._  
+__weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
 __wedding band__  
 __wedge<sup>1</sup>__ _n_  
 __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar  
@@ -9423,7 +9422,7 @@ __wiggle<sup>2</sup>__ _v_
 __wigglers__  
 __wild card__ _n_ _The wild card was an expected weekend warmup with rain._  
 __wilderness__  
-__wildling__ _n Informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
+__wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
 __wilful__  
 __will__ _v_  
