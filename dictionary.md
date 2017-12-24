@@ -112,7 +112,7 @@ __Faustian__ _Faustian device._
 __Fibbies__  
 __Filipino__  
 __Foosball__  
-__For starters,__ _phrase informal_ :three: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
+__For starters,__ _phr informal_ :three: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
 __Forest Recreation Park__  
 __Fourth Estate__  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
@@ -453,7 +453,7 @@ __affordable__ :pencil2:
 __affront__  
 __afield__  
 __afloat__  
-__afoot__ _adv and adj_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
+__afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __afoul__ :two::hammer:  
 __aft__  
 __aftereffects__  
@@ -496,7 +496,7 @@ __alecky__ _Smart-alecky wit._
 __algae__ _n_  
 __alienate__ _v_ :five::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
-__all in all,__ _phrase_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
+__all in all,__ _phr_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all that jazz__  
@@ -944,7 +944,7 @@ __bellow__
 __bellowed__ _v_ :two::hammer:  
 __bellowing__ _n_  
 __bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._  
-__bells and whistles__ _plural n_ :three: Additional features or accessories which are nonessential but very attractive.  
+__bells and whistles__ _pl n_ :three: Additional features or accessories which are nonessential but very attractive.  
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
 __belly-flop__  
@@ -2962,7 +2962,7 @@ __entails__ _v_
 __enthrall__ _v_ :four: (enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :five::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
-__entitled__ :two::shit; _We are soft, entitled, and scared of conflict._  
+__entitled__ :two::hammer: _We are soft, entitled, and scared of conflict._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__  
 __entrant__ :astonished:  
@@ -3223,7 +3223,7 @@ __finesse__ _v_
 __finest hour__ :astonished:  
 __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger-waggers__  
-__finicky__ :two: shit:  
+__finicky__ :two:hammer:  
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
 __fink__ _Family man to some, fink to others._  
 __fintech__  
@@ -4598,7 +4598,7 @@ __journeyman__ :two::hammer:
 __joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ :two::hammer:  
-__jowls__ _n_ _plural_ :four::hammer::camera:  
+__jowls__ _pl n_ :four::hammer::camera:  
 __jowly__  
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
@@ -7195,7 +7195,7 @@ __screech__ _n_ :two::hammer:
 __screeched__ _v_ :six::hammer: (screeching)  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
-__screws > put the screws on someone__ _phrase informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
+__screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribe__ _n_ :two::hammer: (scribes)  
 __scrimmage<sup>1</sup>__ _n_ :three::hammer:  
 __scrimmage<sup>2</sup>__ _v_  
@@ -7723,7 +7723,7 @@ __smolder<sup>2</sup>__ _v_ :seven: (smolders, smoldered, smoldering) Burn slowl
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
-__smoothie__ (smothies) :two: A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
+__smoothie__ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__  
 __smote__ _v_  
 __smothered__  
@@ -7754,7 +7754,7 @@ __snarl<sup>2</sup>__ _v_ :nine: (snarled, snarling) (of an animal such as a dog
 __snarl__ _adj_ _Snarled airport._  
 __snarling__ _n_  
 __snatch__ _v_  
-__snazzy__ _informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
+__snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
 __sneaker__ _Sneaker companies._  
 __sneer__ _v_  
 __snick__ _v_  
@@ -7824,7 +7824,7 @@ __soldier of fortune__
 __soldiers__ _v_  
 __solemnize__ _v_  
 __solid gold__  
-__solid__ :dart::two::shit _It lasted a solid week._ _It rained for a solid week._  
+__solid__ _adj_ :dart::two: _It lasted a solid week._ _It rained for a solid week._  
 __solidify__ _v_  
 __soliloquy__  
 __solipsistic__ _adj_ :four::hammer:  
@@ -7888,7 +7888,7 @@ __specifics__ _The new project lacks many specifics at this point, including a d
 __specious__ :two::hammer: _Specious argument._  
 __speck__ :two::hammer: _A speck of blood._  
 __speckled__ _v_  
-__specs__ :two: Spectacles, glasses.  
+__specs__ _n_ :two: Spectacles, glasses.  
 __speculate__ _v_  
 __speed demon__  
 __speed-dial__ _v_  
@@ -7983,7 +7983,7 @@ __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _S
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :two::hammer:  
-__squalid__:pencil2::two::hammer: _Squalid home._  
+__squalid__ _adj_ :pencil2::two::hammer: _Squalid home._  
 __squall__ :two::hammer:  
 __squalor__ _n_ :five: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander__  
@@ -8227,7 +8227,7 @@ __streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regu
 __strech__ _He was awake for long streches of time._  
 __strenuous__  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
-__stretch marks__ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
+__stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __strewn__ _v_ :two::hammer:  
@@ -8328,7 +8328,7 @@ __sump pump__
 __sump__ _n_ :two::hammer:  
 __sunder__ _v_ :two::hammer:  
 __sundered__ _v_  
-__sundown, sunup__ :two: _He works sunup to sundown._  
+__sundown, sunup__ _n_ :two: Sunset, sunrise. _He works sunup to sundown._  
 __sundry__  
 __sunken__  
 __suntan__ _n_  
@@ -8495,7 +8495,7 @@ __taps__ _A bugler played taps._
 __tardy__ :two::hammer:  
 __target ball__  
 __tariffs__ _n_ :five::hammer: (tariffs)  
-__tarmac__ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
+__tarmac__ _n_ :two: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ _v_ :five::camera::hammer: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
 __tarpon__  
@@ -8521,7 +8521,7 @@ __taupe__
 __taut__ _adj_  
 __tautened__  
 __tautly__  
-__tawdry__ :two: Poor, cheap quality.  
+__tawdry__ _adj_ :two: Poor, cheap quality.  
 __tax breaks__ _n_  
 __tax levy__  
 __taxa__  
@@ -8799,7 +8799,7 @@ __trail mix__ :two::hammer: _Infused trail mix._
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailing plants__  
 __trails__ _n_  
-__trainee__ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
+__trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __traipsing__  
 __tramp__ _adj_  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._  
@@ -9200,7 +9200,8 @@ __vitriolic__ :two::hammer:
 __vituperation__  
 __vituperative__  
 __vizier__  
-__vocal__ :two: _Critics often are the most vocal._  
+__vocal<sup>1</sup>__ _adj_ :two: _Critics often are the most vocal._  
+__vocal<sup>2</sup>__ _n_  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __voguish__  
 __volition__ :two::hammer:  
@@ -9234,7 +9235,7 @@ __wagon__
 __waifish__  
 __wainscoting__  
 __waist band__  
-__waive__ _v_ :five::shit; (waived)  
+__waive__ _v_ :five::hammer: (waived)  
 __waiver__  
 __waivers__ _n_  
 __wake__ _n_ _At wakes._  
