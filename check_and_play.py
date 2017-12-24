@@ -275,7 +275,7 @@ class Checker(object):
             self.treat_triple_spaces(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
-        if entry_has_tag_of_any_number(entry, 3, 9) and \
+        if entry_has_tag_of_any_number(entry, 2, 9) and \
            entry_misses_part_of_speech(entry):
             tokens = entry.split()
             do_print = False
