@@ -4984,7 +4984,7 @@ __long haul__ _She's in for the long haul._
 __long shot__  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longbow__ _n_ :three::hammer:  
-__longhand__ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
+__longhand__ _n_ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
 __longstanding__ :two::hammer:  
 __longtime__ _The longtime dictator._  
@@ -5706,7 +5706,7 @@ __open-wheel car__ _n_ :three::camera::hammer:
 __oppo__ _Oppo researchers._  
 __opulent__  
 __orb__ _n_ :two::hammer:  
-__ordain__ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
+__ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :three::pencil2::hammer:  
@@ -6125,7 +6125,7 @@ __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._
 __pivot__ _n_  
 __pivotal__ :two::hammer:  
 __pixie__  
-__pizazz__ :two: An attractive combination of vitality and glamour. :es: dinamismo  
+__pizazz__ _n_ :two: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzle__ _n_ :two::hammer: (penis?)  
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
@@ -6693,7 +6693,7 @@ __rebut__ _v_
 __rec__ _Damonika has worked as youth and rec leader._  
 __recall__ _n_  
 __recant__ _v_ :two::hammer: (recanted)  
-__recantation__ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
+__recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap__ _n_ :two::hammer: _The written recap of the meeting._  
 __recede__ _v_  
 __receivership__  
@@ -7300,7 +7300,7 @@ __set the pace__
 __setback__ _n_ :two::hammer: (setbacks) _It has suffered several setbacks._  
 __setting > picturesque setting__ :es: entorno picturesco  
 __seventh heaven__ :astonished:  
-__severance (severance contract)__ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
+__severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __severance__ _n_ :three::hammer: _Severance pay._  
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
@@ -7361,9 +7361,9 @@ __sheer yoga pants__ :camera:
 __sheer<sup>1</sup>__ _adj_ :five::hammer: _Sheer size._ _The sheer scale of the operations surprised many._  
 __sheer<sup>2</sup>__ _adv_  
 __sheer<sup>3</sup>__ _v_  
-__sheet rock__ :two:  
+__sheet__ _n_ :two: _Sheet rock._  
 __sheeting__  
-__sheik__ :two: :pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
+__sheik__ _n_ :two::pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
 __shell out__ _v_ :three::hammer:  
 __shell road__  
@@ -7404,8 +7404,7 @@ __shitcan__ _v_
 __shitfaced__ _adj Vulgar Slang_ :two: Intoxicated; drunk.  
 __shitless__ _They were scared shitless._  
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
-__shoal__ :two: Shallow.  
-__shoals__  
+__shoal__ _n_ :three: (shoals) An area of shallow water.  
 __shoat__ _n_  
 __shock-jock__ _n_  
 __shoddily__  
@@ -7660,7 +7659,7 @@ __slobber__ _v_ :three::hammer: (slobbered, slobbering)
 __slobby__  
 __slog<sup>1</sup>__ _v_ :eight: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :three: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
-__slop__ :two: Residual waste, such as cafeteria food slop.  
+__slop__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
 __sloppy__ _We were a little sloppy in the second half of the game._  
@@ -7723,7 +7722,7 @@ __smolder<sup>2</sup>__ _v_ :seven: (smolders, smoldered, smoldering) Burn slowl
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
-__smoothie__ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
+__smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__  
 __smote__ _v_  
 __smothered__  
