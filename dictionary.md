@@ -4609,7 +4609,7 @@ __juke__ _I was looking in my mirror and saw him juke to the right._
 __julep__ :two::hammer:  
 __juleps__  
 __jumble__ _n_ :four: An untidy collection or pile of things. _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
-__jumbo__ :two: _A jumbo loan._  
+__jumbo__ _n, adj_ :two: _A jumbo loan._  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
 __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
@@ -4671,7 +4671,7 @@ __killer bees__
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
 __kindergarten__ _n_ :pencil2::two: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
-__kindergartner__ :pencil2::two: A child who attends a preschool or kindergarten.  
+__kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
 __kindred spirits__ :two::hammer: _A kindred spirit._ :es: almas gemelas  
@@ -4890,7 +4890,7 @@ __lid__ _It should keep a lid on the yen._
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
 __lieu__ _In lieu of flowers._  
-__lifeblood__ :two: The blood, as being necessary to life.  
+__lifeblood__ _n_ :two: The blood, as being necessary to life.  
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
 __liftgate__  
@@ -5225,7 +5225,7 @@ __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercuria
 __mere__  
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
-__merriment__ :two:  
+__merriment__ _n_ :two:  
 __mesh strainer__  
 __metal casement windows__ :camera:  
 __metal flashing__  
@@ -5384,7 +5384,7 @@ __motifs__ _n_
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motion__ _Defense attorneys had filed motions._  
 __motley__ _adj_ :six: If you've encountered the word motley, it's most likely in the phrase "motley crew," which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. _Motley crew._ _A motley collection._  
-__motor coaches__ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
+__motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
 __motoring__  
 __motorist__ _n_ A person who drives or travels in a privately owned automobile.  
@@ -5623,7 +5623,7 @@ __oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally
 __obliterate__ _v_  
 __oblivious__ :two::hammer:  
 __obnoxious__ _adj_ :three::hammer:  
-__obo__ :two: (abbreviation) Or best offer.  
+__obo__ _abbr_ :two: Or best offer.  
 __obsequious__  
 __obsidian__  
 __obstreperousness__  
@@ -5679,7 +5679,7 @@ __on the hoof__
 __on the run__  
 __on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
 __on three__ _On three: One, two, three!_  
-__on top of that__ :two: _On top of that, ..._  
+__on top of that__ _phr_ :two: _On top of that, ..._  
 __on track__ _He appears to be on track to play._  
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
 __onboarding__ (?)  
@@ -5728,7 +5728,7 @@ __ounce__
 __ouster__ _n_  
 __out of hand__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sorts__ _verb-link phrase_ :four: __1__ Somewhat ill. __2__ Grouching; irritable.  
+__out of sorts__ _v-link phr_ :four: __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
@@ -6116,7 +6116,7 @@ __pitch-perfect__
 __pitch<sup>1</sup>__ _n_ :three::hammer: _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitchfork__  
-__pith helmet__ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
+__pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
 __pithy__ _adj_ :three: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
 __pitmaster__  
@@ -7401,7 +7401,7 @@ __shirk<sup>2</sup>__ _v_ :two::dart: (shirking) To avoid work or duty.
 __shirttail__ _n_  
 __shit-canning__  
 __shitcan__ _v_  
-__shitfaced__ _adj Vulgar Slang_ :two: Intoxicated; drunk.  
+__shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
 __shitless__ _They were scared shitless._  
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
