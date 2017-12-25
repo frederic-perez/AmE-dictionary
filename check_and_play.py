@@ -142,6 +142,7 @@ def entry_misses_part_of_speech(entry):
         part_of_speech != '_adj, adv, prep_' and \
         part_of_speech != '_adj, n_' and \
         part_of_speech != '_adj informal_' and \
+        part_of_speech != '_adj vulgar slang_' and \
         part_of_speech != '_adv_' and \
         part_of_speech != '_conj_' and \
         part_of_speech != '_fig_' and \
@@ -162,6 +163,7 @@ def entry_misses_part_of_speech(entry):
         part_of_speech != '_v informal_' and \
         part_of_speech != '_v intr_' and \
         part_of_speech != '_v tr_' and \
+        part_of_speech != '_v-link phr_' and \
         part_of_speech.count(':hammer:') < 1:
         return True
     return False
