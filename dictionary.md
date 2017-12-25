@@ -1960,7 +1960,7 @@ __con artist__ _n informal_ :four::hammer: _A pair of con artists target a noble
 __con man__  
 __con<sup>1</sup>__ _n_ :two::hammer: _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :two::hammer:  
-__con__ :two: Short for convention. _Comic con._ _Con game with many surprises._  
+__con__ _n_ :two::dart: Short for convention. _Comic con._ _Con game with many surprises._  
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
 __conceit__ _v_  
 __conceited__ _Conceited delusion._  
@@ -1975,7 +1975,7 @@ __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan).
 __concoction__  
 __concomitant__  
 __concourse__ :two::hammer:  
-__concussion__ :two: _He recovers from the concussion he sustained on June 15._  
+__concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
 __conditional discharge__ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__  
@@ -2068,7 +2068,7 @@ __cordonef off__ _v_ _The police had cordonex off the site of the bombing._
 __corduroy pants__  
 __core-dump__ _The book goes on like this, a chronological core-dump of facts._  
 __corgi__  
-__cork sun helmet__ :two: Pith helmet.  
+__cork sun helmet__ _n_ :two: Pith helmet.  
 __corn fritters__  
 __cornstarch__  
 __coronet__ _n_  
@@ -2766,7 +2766,7 @@ __drop-in__ _A drop-in center._
 __drop__ _n_  
 __dropout__ _n_  
 __droppings__ _n_  
-__drought__ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
+__drought__ _n_ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drover__ _n_ :two::hammer:  
 __drowns__ _v_  
 __drub__ _v_  
@@ -3110,7 +3110,7 @@ __fandom__
 __fang__ _n_ :pencil2:  
 __fangs__ _n_  
 __fannies__  
-__fanny pack__ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
+__fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __far and away__ :astonished:  
 __far cry__ _n_ :six::hammer: _It is a far cry from the 1970s._  
 __far-fetched__  
@@ -3127,7 +3127,7 @@ __fastness__
 __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fathom__ _v_ :four::hammer:  
 __fatigue__  
-__fatwa__ :two: Religious edict.  
+__fatwa__ _n_ :two: Religious edict.  
 __faulty__ :dart: _Faulty software._  
 __faux__ _Three faux tombstones._  
 __fave__  
@@ -3366,7 +3366,7 @@ __flunkie__ :two::hammer: _You"re just another flunkie for the state._
 __flunkies__  
 __flunky__  
 __flurry > in a flurry__  
-__flurry__ __1__ :six: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
+__flurry__ _n_ __1__ :six: An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ :two: A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
 __fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
@@ -3831,7 +3831,7 @@ __gripped__ _v_ _That 1995 murder trial gripped USA._
 __gripping__ :two::hammer: _A gripping contest._  
 __grisly__ _adj_ :four::hammer: _A grisly synagogue assault._  
 __grist__ :two::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
-__gristle__ :two:  
+__gristle__ _n_ :two:  
 __grit__ _n informal_ :six: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
@@ -4475,7 +4475,7 @@ __insipid__
 __insofar__  
 __insolvency__  
 __instability__ :two::hammer::pencil2:  
-__installment__ :two: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
+__installment__ _n_ :two::dart: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
 __instill__ _v_ :four::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
 __institute__ _v_  
@@ -5351,7 +5351,7 @@ __moody__ :two::hammer:
 __moon roof__  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
 __moonshine<sup>2</sup>__ _v_  
-__moonshot__ :two: _Technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
+__moonshot__ _n_ :two: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
 __moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :five: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
