@@ -418,7 +418,7 @@ __acrimonious__ _adj_ :three::hammer:
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
-__actuary__ (actuaries) :two: A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
+__actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acuity__  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad-lib__ _v_ (ad-libs) :two::hammer:  
@@ -536,7 +536,7 @@ __amity__
 __ammassed__ _v_  
 __amnesty player__  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
-__ample__ :two: Enough or more than enough; plentiful. _There is ample time for discussion._ _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
+__ample__ _adj_ :two: Enough or more than enough; plentiful. _There is ample time for discussion._ _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __amusement park__  
@@ -804,7 +804,7 @@ __bankroll<sup>2</sup>__ _v_ :two::hammer:
 __bankrollers__  
 __banshee__ _n_  
 __bantam__ _Playing hockey at the bantam level._  
-__bantamweight__ :two: _Rousey is the women's bantamweight champ._  
+__bantamweight__ _n_ :two: _Rousey is the women's bantamweight champ._  
 __banter__ _n_ :three::hammer:  
 __bar top__  
 __barbecue__ _Barbecue sauce._  
@@ -1270,7 +1270,7 @@ __brazenly__ :two::hammer:
 __brazer__  
 __brazier__  
 __breach__ _v_ :four::hammer: (breached)  
-__breadcrumbs__ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
+__breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
 __break-the-china__  
@@ -1320,7 +1320,7 @@ __brocade__
 __brogue__ _n_ :two::hammer:  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
-__broken English__ :two::dart:  
+__broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broken accent__  
 __broker__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::hammer:  
@@ -1581,7 +1581,7 @@ __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._
 __caribou__  
 __carjack__ _v_ To commit forcible theft of (a vehicle) from its users.  
 __carnage__ :two::hammer:  
-__carnation__ :pencil2: :two: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
+__carnation__ _n_ :pencil2: :two: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
 __carol__ _v_ (caroling) (vs Christmas carol)  
 __carom__ _v_  
@@ -1635,7 +1635,7 @@ __caterwauling__
 __catfish__ _n_ :three::hammer:  
 __catharsis__  
 __cathedral ceiling__ :camera::two::hammer:  
-__catnip__ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint  
+__catnip__ _n_ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint  
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
@@ -1716,7 +1716,7 @@ __cheekboned__ _High-cheekboned newbies.;-_
 __cheekier__  
 __cheerfully__  
 __cheesecloth__ _n_ :three::hammer:  
-__cheesy__ :two: _informal_ Cheap and of low quality. _Cheesy motel rooms._  
+__cheesy__ _adj informal_ :two: Cheap and of low quality. _Cheesy motel rooms._  
 __chenier__  
 __cherry blossoms__ _n_  
 __chewed up__  
@@ -1800,7 +1800,7 @@ __clank__ _v_ :two::hammer: (clanked)
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
 __clapper__ _He tried to turn somebody into a human bell clapper._  
-__claret jug__ :two: _The champion returning the claret jug used to be a mere formality._  
+__claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
 __clarion call__ _n_ :four::hammer:  
 __clasped__ _v_  
@@ -2674,7 +2674,7 @@ __doublet__ _n_ :camera:
 __doubly__  
 __doubting Thomas__ _n_  
 __doubtless__  
-__douchebag__ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
+__douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dour__ _adj_ :four: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_  
