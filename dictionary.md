@@ -255,7 +255,7 @@ __PO__ Parole officer?
 __PPD__ Postponed. _(sporting events)_  
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __Pacific Basin__ _Pacific Basin nations._  
-__Pacific Rim__ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
+__Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
 __Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._  
 __Paulistano__  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
@@ -292,7 +292,7 @@ __Rotarian__
 __Roto-Rooter__  
 __S&L__ _An S&L swinger._  
 __S'mores__ _S'mores season!_  
-__SAT__ :two: _Trademark_ (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
+__SAT__ _trademark_ :two: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __SEAL__ _It is something U.S. Navy SEALs do._  
 __Sam Browne belt__  
 __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
@@ -2095,7 +2095,7 @@ __cough up__ _v_
 __coulee__  
 __councilor__ _n_  
 __counsel__  
-__count your blessings__ :two: To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
+__count your blessings__ _idiom_ :two: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance__ :two::hammer: _His countenance was pale and sunken._  
 __counter-depth fridge__ :camera:  
@@ -2971,7 +2971,7 @@ __entrenched__ _adj_ :five: (of an attitude, habit, or belief) Firmly establishe
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
 __entwined__  
-__envelope > push the envelope__ _phr idiom_ To go beyond established limits; to pioneer.  
+__envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
 __envisage__ _v_  
 __envision__  
 __epaulets__  
@@ -3664,7 +3664,7 @@ __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘G
 __giddy__ _adj_ :nine: Having a sensation of whirling and a tendency to fall or stagger; dizzy. _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __gigging__ _v_  
 __giggling__  
-__gills > packed to the gills__ :two: Completely full; teeming; having no room to spare. _I've got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother's Thanksgiving meal._  
+__gills > packed to the gills__ _idiom_ :two: Completely full; teeming; having no room to spare. _I've got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother's Thanksgiving meal._  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
 __gimmicks__ _No "get in the door" gimmicks._  
@@ -5085,7 +5085,7 @@ __make perfect sense__ _It makes perfect sense._
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
-__make waves__ _phr idiom_ (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
+__make waves__ _idiom_ (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
 __makeshift__ _adj_ :seven::hammer:  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
@@ -5636,7 +5636,7 @@ __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odometer__ :two::hammer:  
-__of late__ _phrase with cl_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
+__of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
 __of sorts__ _"The 13 clocks" is a poem of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off-kilter__ :two::hammer:  
