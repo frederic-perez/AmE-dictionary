@@ -11,3 +11,6 @@ __thrash__ _v_
 __timely__ _adj_  
 __trounce__ _v_  
 __vapid__ _adj_ __1__ LLacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
+__nuts and bolts__ _n informal_ (the nuts and bolts of something)  
+__showcase__ _v_  
+__fabric__ _n_  
