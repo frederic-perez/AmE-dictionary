@@ -155,11 +155,11 @@ def entry_misses_part_of_speech(entry):
         part_of_speech != '_n informal_' and \
         part_of_speech != '_n phr_' and \
         part_of_speech != '_phr_' and \
-        part_of_speech != '_phr idiom_' and \
         part_of_speech != '_phr informal_' and \
         part_of_speech != '_phr v_' and \
         part_of_speech != '_pl n_' and \
         part_of_speech != '_prep_' and \
+        part_of_speech != '_trademark_' and \
         part_of_speech != '_v_' and \
         part_of_speech != '_v informal_' and \
         part_of_speech != '_v intr_' and \
