@@ -14,3 +14,10 @@ __vapid__ _adj_ __1__ LLacking liveliness, animation, or interest; dull: _vapid 
 __nuts and bolts__ _n informal_ (the nuts and bolts of something)  
 __showcase__ _v_  
 __fabric__ _n_  
+__20/20 vision__ _n_  
+__BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
+__ameliorate__ _v_  
+__cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
+__creep somebody out__ _phr v informal_ To make someone feel nervous, uncomfortable, and slightly frightened.  
+__misfit__ _n_  
+__platinum__ _n_ :mega: /ˈplætənəm/  
