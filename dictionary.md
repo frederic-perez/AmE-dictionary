@@ -106,7 +106,7 @@ __F-bomb__
 __FOMO__  
 __FT__ _Sports_ Full-time.  
 __Fab Four__ The Beatles.  
-__Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
+__Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
 __Father Time__  
 __Faustian__ _Faustian device._  
 __Fibbies__  
@@ -120,7 +120,7 @@ __Frappuccino__
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Friday__ :mega: /'fraIdi, -deI/  
 __G-Man__  
-__GED__ (GED exam) :two: The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
+__GED__ _abbr_ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
 __GOP__  
 __GRE__ A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
@@ -130,7 +130,7 @@ __Garden of Gethsemane__
 __Gatling gun__ _n_  
 __Generation Xers__  
 __Generation Yers__  
-__Generation Z__ :two: Label given to those born since 1995.  
+__Generation Z__ _n_ :two: Label given to those born since 1995.  
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo wire__ :two::hammer:  
 __Gibson glass__  
@@ -187,7 +187,7 @@ __Katy__ _Got to figure the Red Rifle extracts some revenge on the team he follo
 __Kodiak__  
 __Kool-Aid__  
 __Kosher salt__  
-__LDS__ :two: (LDS Church) Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
+__LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __LGBTQ+__  
 __LGBTQ__ _Lesbian, gay, bisexual, transgender, queer._  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
@@ -239,7 +239,7 @@ __OK__ _v_ _Lower House panel OKs casino legalization bill._
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __Ohioans__  
-__Old Dominion__ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
+__Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __Old Hickory bat__  
 __Old Sol__  
 __Ole Miss__  
