@@ -5,3 +5,9 @@ __vagrant<sup>2</sup>__ _adj_
 __portmanteau__  
 __fidget spinner__ _n_  
 __howl__ _v_  
+__genie__ _n_  
+__feasible__ _adj_  
+__opening hours__  
+__scabbard__ _n_ A sheath for a sword, dagger, or bayonet.  
+__must have__  
+__mint__ _adj_ Unspoilt, as if fresh from a mint.  
