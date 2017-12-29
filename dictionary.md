@@ -6,6 +6,7 @@ __, to say the least.__
 __-year-old__ _A 56-year-old retiree._  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
+__20/20 vision__ _n_  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __800-pound gorilla__  
@@ -38,6 +39,7 @@ __BAR__ _BAR man._
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BLT__ (food?)  
 __BO__ :two::hammer:  
+__BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ :two::hammer: _One of our core values is: Open company, no BS._  
 __Bedouin__  
 __Beehive State__ _n_ :three: Utah.  
@@ -530,6 +532,7 @@ __amass__ _v_ :three::hammer::pencil2: (amassed, amassing) :es: amontonar, acumu
 __ambitious__  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
+__ameliorate__ _v_  
 __amends__  
 __amenity kits__  
 __amity__  
@@ -884,7 +887,7 @@ __bedfellow__
 __bedlam__ :two::hammer:  
 __bedpan__ _n_  
 __bedridden__ _adj_ :three::hammer: _She was practically bedridden._  
-__bedrock__ _n_ :four: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
+__bedrock__ _n_ :five: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedspreads__ _n_  
 __bedstead__  
@@ -1320,8 +1323,8 @@ __brocade__
 __brogue__ _n_ :two::hammer:  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
-__broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broken accent__  
+__broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::hammer:  
 __bronc__ _Bull and bronc riding._  
@@ -1691,6 +1694,7 @@ __charade__
 __chard__  
 __charging__ Accuse formally.  
 __charily__  
+__charlatan__ _n_  
 __charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
 __charred__ _v_  
 __charted__  
@@ -2050,6 +2054,7 @@ __coops__ _Chicken coops._
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
 __cop out__ _v_ :three: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :five: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
 __cope__ _A grey cope._  
@@ -2166,6 +2171,7 @@ __credence__ :two::hammer:
 __credenza__ _n_  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
+__creep somebody out__ _phr v informal_ To make someone feel nervous, uncomfortable, and slightly frightened.  
 __creep__ _n_ _The upward creep._  
 __crenelated weir__  
 __creosote__  
@@ -2546,6 +2552,7 @@ __discontinued__ _v_
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
 __discourse__  
+__discretion__ _n_  
 __discus__ _n_  
 __disenfranchise__  
 __disenfranchised__  
@@ -3070,6 +3077,7 @@ __eyed__ _v_ :two::hammer: _Pay hikes eyed nonregular workers._
 __eyeshades__  
 __eyewash__ _Cuddyer explained the balance between effort and eyewash._  
 __fabled__  
+__fabric__ _n_  
 __fabricate__ _v_ _Fabricated stories._  
 __fabricator__  
 __face off__ _v_  
@@ -4283,6 +4291,7 @@ __housing unit__
 __housing__  
 __hovels__ _n_  
 __hoverboard__ :two::hammer:  
+__howl__ _v_  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
 __hubbub__ _n_  
 __hubby__  
@@ -5289,8 +5298,7 @@ __misdemeanor__ :two::hammer:
 __miser__ _n_  
 __miserable__ _We are miserable._  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
-__misfit__  
-__misfits__  
+__misfit__ _n_ :three::hammer: (misfits)  
 __misgivings__ :two::hammer:  
 __mishap__  
 __mishmash__ :two::hammer:  
@@ -5303,6 +5311,7 @@ __misspell__ _v_
 __misstate__ _v_  
 __misstated__ _v_  
 __missteps__  
+__mistletoe__ _n_  
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mistrial__ _n_ :two::hammer:  
@@ -5605,6 +5614,7 @@ __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take 
 __nurture__ _v_ :two::hammer: (nurtured) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nutmeg__ _n_  
+__nuts and bolts__ _n informal_ (the nuts and bolts of something)  
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
@@ -5727,6 +5737,7 @@ __ouboros__ _n_
 __ounce__  
 __ouster__ _n_  
 __out of hand__  
+__out of order__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ _v-link phr_ :four: __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the woods__  
@@ -6086,9 +6097,8 @@ __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down
 __pincushion__  
 __pined__ _v_ :two::hammer: _It was only in movies that people pined for the dead._  
 __ping__ _v_ _Pinging with heat._  
-__pinion__ _v_  
-__pinioned__ _v_  
-__pink eye__  
+__pinion__ _v_ :two::hammer: (pinioned)  
+__pink eye__ _n_ :two::hammer:  
 __pink slime__  
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He's all pinkified for halloween._  
@@ -6150,6 +6160,7 @@ __plasters__ _n_ _Salves, poultices, and plasters._
 __plate__ _Baseball_  
 __plateau__  
 __plating__ _It's your armor plating._  
+__platinum__ _n_ :mega: /ˈplætənəm/  
 __platitude__ _n_ :three::hammer: (platitudes)  
 __platoon__ _v_ :two::hammer:  
 __platypus__ _Internet platypus pranks._  
@@ -6205,6 +6216,7 @@ __plums__ _n_ :three::hammer:
 __plunder__ :two::hammer:  
 __plundered__  
 __plush__ _adj_ :five: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
+__plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :six::hammer: _It is the perfecting designed environment to ply his trade._  
 __po'-boy sandwiches__  
 __poach__ _v_ :three::hammer: (poached, poaching)  
@@ -6296,7 +6308,7 @@ __pox__
 __ppg__ _Sanders is averaging 13.3 ppg._  
 __practice__ _n_ _A pediatrics practice._  
 __pram__  
-__prance__ _v_ :five::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
+__prance__ _v_ :six::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
 __prattle__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
@@ -7454,6 +7466,7 @@ __show off__ _v_
 __show runner__ :two::hammer:  
 __show-off__ _n_ :two::hammer: (or showoff?)  
 __showboat__ _v_  
+__showcase__ _v_  
 __showdown__ _n_ :six: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showhouse__  
 __showrunner__  
@@ -8617,8 +8630,7 @@ __thorough__ :astonished: _It's a very serious matter that needs thorough invest
 __thoroughfare__  
 __thoroughly__  
 __thrall__ _n_ :five::hammer:  
-__thrash__ _v_ :four::hammer: (thrashed) _Toronto thrashed New York City F.C._  
-__thrashing__ _v_  
+__thrash__ _v_ :six::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._  
 __thrifty__  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
@@ -8680,7 +8692,7 @@ __time and again__ :two::hammer::dart:
 __time frame__  
 __timeclock__ _Denver Movie Timeclock._  
 __timeline__  
-__timely__  
+__timely__ _adj_ :two::hammer:  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable__  
 __timid__  
@@ -8870,7 +8882,7 @@ __troubleshoot__ _v_
 __troubleshooter__  
 __trough__ _Showers will continue for one more day as a low-pressure trough spins through the region._  
 __troughs__ _The daily peaks and troughs._  
-__trounce__ _v_ :four::hammer: (trounces, trounced) _Drama trounces trauma!_  
+__trounce__ _v_ :five::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
 __troy ounce__ :two::hammer:  
@@ -9133,7 +9145,7 @@ __vane__ _n_ :two::hammer: _A smooth metal weather vane._ _A weather vane._
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
-__vapid__ _adj_ :three::hammer:  
+__vapid__ _adj_ :four: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __variety store__  
 __varmints__  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
