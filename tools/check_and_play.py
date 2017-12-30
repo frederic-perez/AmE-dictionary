@@ -493,7 +493,7 @@ class Game(object):
                 do_quit = True
 
 # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
-DICTIONARY = 'dictionary.md'
+DICTIONARY = '../data/dictionary.md'
 
 CHECKER = Checker(DICTIONARY)
 CHECKER.check_entries()
