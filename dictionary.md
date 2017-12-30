@@ -2483,6 +2483,7 @@ __detergent__ _Liquid laundry detergent._
 __deterrence__ :two::hammer:  
 __deterrent__ _n_ :four: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detractor__  
+__detritus__ _n_  
 __devil-may-care style__  
 __deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
 __deviltry__  
@@ -2884,6 +2885,7 @@ __egret__ _n_ :five: Any of various usually white herons having long plumes duri
 __eh?__ _Impressive, eh?_  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
+__ejecta__ _n_ Ejected matter, as that from an erupting volcano.  
 __eke out__ _v_ :two::hammer: (eked out)  
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
 __el__ :two::hammer: _The el tracks._  
@@ -3147,6 +3149,7 @@ __fawningly__
 __faze__ _v_ :four::hammer: (fazed)  
 __fealty__ :two::hammer:  
 __fearl__ _A fearl youngster._  
+__feasible__ _adj_  
 __feast__ _v_ :two::hammer:  
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
@@ -3194,6 +3197,7 @@ __fiberglass__
 __fickle__ :two::hammer: _A fickle ally._  
 __fiddle-faddle__  
 __fiddled__ _v_  
+__fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
@@ -3641,6 +3645,7 @@ __gelled__ _His hair was neatly gelled._
 __gelt__  
 __genealogist__  
 __generic__ _A generic diet cola._  
+__genie__ _n_  
 __genteel__ :two::hammer:  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
@@ -4291,7 +4296,7 @@ __housing unit__
 __housing__  
 __hovels__ _n_  
 __hoverboard__ :two::hammer:  
-__howl__ _v_  
+__howl__ _v_ :two::hammer:  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
 __hubbub__ _n_  
 __hubby__  
@@ -5283,6 +5288,7 @@ __minnow__ _n_ :three::hammer: (minnows) :two::hammer:
 __minor__ _n_  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
+__mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :four::hammer:  
@@ -5457,6 +5463,7 @@ __muslin__
 __muss__ _No fuss, no muss._  
 __mussed__ _v_  
 __mussels__ _n_  
+__must have__  
 __mustache__  
 __mustachioed__  
 __muster__ _v_ :two: To assemble or gather: _mustering for inspection._  
@@ -5713,6 +5720,7 @@ __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted t
 __open house__ :two::hammer: _Educational open house._  
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
+__opening hours__  
 __oppo__ _Oppo researchers._  
 __opulent__  
 __orb__ _n_ :two::hammer:  
@@ -6276,6 +6284,7 @@ __portal__
 __portend__ _v_ :six::hammer: (portended) _...may portend a disruption._  
 __portent__ _n_ :two::hammer: (portends)  
 __portly__  
+__portmanteau__  
 __posh__ _adj_ :three: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
@@ -7135,7 +7144,7 @@ __sawed-off__
 __sawgrass__ :two::hammer:  
 __sawhorse__ _n_ :five::hammer: (sawhorses)  
 __sawyer__ _n_ :astonished:  
-__scabbard__ _n_ :five::hammer:  
+__scabbard__ _n_ :six: A sheath for a sword, dagger, or bayonet.  
 __scabby__  
 __scabies__  
 __scabs__ _n_ :two::hammer:  
@@ -9131,6 +9140,8 @@ __vaccination__
 __vaccine__  
 __vacuum__ :two::hammer: _Upright/Canister vacuum._ :camera:  
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
+__vagrant<sup>1</sup>__ _n_ __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
+__vagrant<sup>2</sup>__ _adj_  
 __vagrant__  
 __vagrants__  
 __valedictorian__ _n_ :six::hammer: (valedictorians)  
