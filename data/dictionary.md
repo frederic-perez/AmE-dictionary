@@ -95,6 +95,7 @@ __Doc__
 __ED prescription__  
 __EKG__  
 __ELIA5__ Explain Like I Am 5.  
+__ENT__ _ENT doctor._  
 __ETA__ _I believe we have an ETA of six days._  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
@@ -1029,6 +1030,7 @@ __billow<sup>2</sup>__ _v_
 __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
 __bindles__ _Drug bindles._  
+__bio__ _n_  
 __biomass__  
 __biopic__  
 __bipartisan__  
@@ -1241,6 +1243,7 @@ __bouncy__
 __bountiful__  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
+__bovine__ _n?_ Cow or bull (neutral). (?)  
 __bow__ _n_ :two::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._  
 __bowie knife__ :two::hammer:  
 __bowling alley__  
@@ -1499,6 +1502,7 @@ __cackle__
 __cackling__ _v_ :two::hammer:  
 __cacophony__ :two::hammer:  
 __cacti__ _n_  
+__cadaver__ _n_ :mega:  
 __caddish__ :two::hammer:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :five::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
@@ -1620,6 +1624,7 @@ __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing
 __castigation__ _n_  
 __castoff__ _n_  
 __casualties__  
+__cat fish__ _(?)_  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
 __catacombs__  
 __catalog__ _n_  
@@ -1948,6 +1953,7 @@ __compassionate__ _adj_ :three::hammer:
 __compel__ _v_ :three::hammer:  
 __compelling__ _adj_ Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
+__completion__ _n_  
 __compliance__ :two::hammer: _Compliance guy._  
 __complicit__  
 __comply__ _v_  
@@ -2786,6 +2792,7 @@ __drum up__
 __drum__ _v_  
 __drumbeat__ _Their drumbeat of criticism._  
 __druthers__  
+__dry age__ _v_  
 __dry goods__ _Dry goods store._  
 __dry spel__  
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
@@ -3814,6 +3821,7 @@ __great-grandsons__
 __greater area__ _Greater Tokyo area._  
 __greaves__ _n_  
 __green card wedding__  
+__green day__  
 __green thumb__ _Not everyone has a green thumb._  
 __green-behimd-the-ears__  
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
@@ -4102,6 +4110,7 @@ __heathenism__
 __heather__  
 __heathy__  
 __heave__ _v_ (heaving) :three::hammer: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heavy-duty__ _adj_  
 __heavy-handed__  
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
@@ -5866,6 +5875,7 @@ __palpably__
 __palsy__ _n_ :three::hammer: _Mild cerebral palsy._  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :five::hammer: (pampered)  
+__pamphlet__ _n_  
 __pampling__  
 __pan drippings__ :two::hammer:  
 __pan out__ _v_ :three::hammer:  
@@ -7636,6 +7646,7 @@ __slay__ _v_ ;two::hammer: (slain) JFK was slain.
 __sleaziest__  
 __sleazy__ _adj_ :eight: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
 __sleep deprivation__  
+__sleep in__ _v_  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleepwalking__  
 __sleepwear__ (vs sportswerar, etc.)  
