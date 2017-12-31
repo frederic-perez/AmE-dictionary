@@ -1395,7 +1395,7 @@ __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or saf
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bumblebees__  
-__bumbling__ _v_ :eight::hammer:  
+__bumble__ _v_ :eight: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumper__  
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
@@ -3193,7 +3193,7 @@ __ferreting out__ _v_
 __fester__ _v_ :five::hammer: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festered__ _v_ :es: ulcerarse  
 __festering__ _n_ :two::hammer:  
-__festooned__ _v_ :eight::hammer: _His podium was festooned with a sign._  
+__festoon__ _v_ :eight: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __feted__ _v_ :four::hammer:  
 __fettered__ _v_  
 __feud<sup>1</sup>__ _n_ :three::hammer:  
@@ -6458,7 +6458,7 @@ __prude__ _n_
 __prudent__  
 __prune-o__ :two::hammer:  
 __prurient__ _adj_  
-__pry__ _v_ :eight::hammer: _To pry the crack open wider and wider._  
+__pry__ _v_ :eight: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
 __psyche__  
 __psychopathic__  
 __public house__ _n_ :five::hammer: :es: taberna  
@@ -7055,11 +7055,6 @@ __rumhead__ _n_ An alcoholic.
 __rummage__ _v_ :five::hammer: (rummaged, rummaging)  
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
-__rump__ :two::hammer:  
-__rumple__ _v_ :five::hammer: (rumpled)  
-__rumpled__ _adj_ _A rumpled man._  
-__rumpus__  
-__run afoul__  
 __run amok__ :two::hammer:  
 __run errands__  
 __run-and-gun__ _A run-and-gun platform game._  
@@ -7071,7 +7066,7 @@ __rung__ _n informal_ :eight: (rungs) A particular level or position in an organ
 __runner-up__ _n_ :nine::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
-__runoff__ _n_ :eight::hammer: _The runoff waters of spring._ _Enough votes to force a runoff._ _A runoff vote._ _Sediment runoff._  
+__runoff__ _n_ :eight: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
 __runt__  
@@ -7514,7 +7509,7 @@ __shudderings__ _n_
 __shudders__ _v_ :two::hammer:  
 __shuffle off__  
 __shuffling__ _v_ :two::hammer:  
-__shun__ _v_ :eight::hammer: (shunned) :es: esquivar, rehuir  
+__shun__ _v_ :eight: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
 __shunting__ _v_ _With a PDA, there is continous shunting of blood through the lungs._  
 __shush__ _v_  
 __shushing__ _v_  
