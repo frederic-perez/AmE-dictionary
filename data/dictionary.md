@@ -95,7 +95,7 @@ __Doc__
 __ED prescription__  
 __EKG__  
 __ELIA5__ Explain Like I Am 5.  
-__ENT__ _ENT doctor._  
+__ENT__ _abbr_ :two: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __ETA__ _I believe we have an ETA of six days._  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
@@ -1260,6 +1260,7 @@ __brain drain__
 __brainchild__ _n_ :two::hammer:  
 __brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
+__brainwash__ _v_  
 __braised__ _Braised turkey and gravy stuffing._  
 __brambles__ _n_ :three::hammer:  
 __brander__  
@@ -1394,8 +1395,8 @@ __bullwhip__
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
-__bumblebees__  
 __bumble__ _v_ :eight: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
+__bumblebees__  
 __bumper__  
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
@@ -1502,7 +1503,7 @@ __cackle__
 __cackling__ _v_ :two::hammer:  
 __cacophony__ :two::hammer:  
 __cacti__ _n_  
-__cadaver__ _n_ :mega:  
+__cadaver__ _n_ :four::mega:  
 __caddish__ :two::hammer:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :five::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
@@ -1640,7 +1641,7 @@ __catch hell__ _I'd catch hell for it._
 __catch-up schedule__  
 __catechism__ :two::hammer::pencil2:  
 __caterwauling__  
-__catfish__ _n_ :three::hammer:  
+__catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
 __cathedral ceiling__ :camera::two::hammer:  
 __catnip__ _n_ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint  
@@ -2884,6 +2885,7 @@ __effigy__ _n_ :three::hammer: (effigies)
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effusive__  
 __egg roll__  
+__egg__ _v_  
 __egghead__ _n_  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egotists__  
@@ -3821,7 +3823,7 @@ __great-grandsons__
 __greater area__ _Greater Tokyo area._  
 __greaves__ _n_  
 __green card wedding__  
-__green day__  
+__green day__ :two::hammer:  
 __green thumb__ _Not everyone has a green thumb._  
 __green-behimd-the-ears__  
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
@@ -4110,7 +4112,7 @@ __heathenism__
 __heather__  
 __heathy__  
 __heave__ _v_ (heaving) :three::hammer: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
-__heavy-duty__ _adj_  
+__heavy-duty__ _adj_ :two::hammer:  
 __heavy-handed__  
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
@@ -6113,6 +6115,7 @@ __pinch-hitter__
 __pinch<sup>1</sup>__ _n_ _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
 __pincushion__  
+__pine (for)__ _v_  
 __pined__ _v_ :two::hammer: _It was only in movies that people pined for the dead._  
 __ping__ _v_ _Pinging with heat._  
 __pinion__ _v_ :two::hammer: (pinioned)  
@@ -6320,6 +6323,7 @@ __powder keg__
 __power bar__  
 __power play__  
 __power strip__  
+__power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _"He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
 __powerhouse__ :two::hammer:  
 __powermongers__ _n_  
 __powwows__ _n_  
@@ -7871,6 +7875,7 @@ __sorely__ :two::hammer:
 __sorghum__  
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
+__sort out__ _v_  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sot__ :two::hammer: _A surly sot._  
@@ -8704,6 +8709,7 @@ __tilapia__
 __tiller__  
 __tiltyard__  
 __time and again__ :two::hammer::dart:  
+__time capsule__ _n_  
 __time frame__  
 __timeclock__ _Denver Movie Timeclock._  
 __timeline__  
