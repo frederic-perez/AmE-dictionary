@@ -3965,7 +3965,7 @@ __haggle__ _v_ :two::hammer: (haggling)
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
 __hags__ _Screaming histerically like Shakespearean hags._  
-__hail<sup>1</sup>__ _v_ :eight::hammer: (hails, hailed, hailing) _She was hailing a ride home._ _Mr. Tucker hails from St. Louis._  
+__hail<sup>1</sup>__ _v_ :eight: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :five::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstones__  
 __hailstorm__ _n_  
@@ -5429,7 +5429,7 @@ __mover__ _n_
 __mowed__ _v_  
 __moxie__ :two::hammer:  
 __muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
-__muck<sup>3</sup>__ _v_ :two: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
+__muck<sup>2</sup>__ _v_ :two: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
 __mudcat__ _n_  
 __muddle__ _v_ :four: Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
@@ -7213,7 +7213,7 @@ __scowl__ _v_ :five::hammer: (scowled, scowling)
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap iron__ :es: chatarra?  
 __scrap<sup>1</sup>__ _n_ :two::hammer: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap<sup>3</sup>__ _v_ :eight::hammer: (scraps, scrapped) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._  
+__scrap<sup>2</sup>__ _v_ :eight: (scraps, scrapped) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._  
 __scrap__ _v_ :four::hammer: (scrapped, scrapping) _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrapper__  
 __scrappy__ _A scrappy industrial city._  
