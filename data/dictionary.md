@@ -256,6 +256,7 @@ __PE__ _There were a lot of students in there ready for a PE class._
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __PO__ Parole officer?  
 __PPD__ Postponed. _(sporting events)_  
+__PTSD__  
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __Pacific Basin__ _Pacific Basin nations._  
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
@@ -445,6 +446,7 @@ __advisedly__
 __advisory__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advocacy__ :two::hammer:  
 __aegis__  
+__afantasia__ _n_  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affidavit__ _n_ :five::hammer:  
 __affiliate__  
@@ -474,6 +476,7 @@ __agonistic__ _adj_ :pencil2: Striving to overcome in argument.
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __ague__ _n_ :two::hammer: (agues)  
+__ahead of the curve__ _idiom_ :two:  
 __ahead of time__ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
@@ -1580,6 +1583,7 @@ __carapaces__ _n_
 __carat__  
 __caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carbuncle__ _n_  
+__card__ _v_  
 __cardiac arrest__  
 __cardinal__ _Breaking cardinal rules of marketing._  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ (nautical) To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ (nautical) To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
@@ -1694,7 +1698,7 @@ __chanticleer__ _n_
 __chanting__  
 __chaparral__ _n_ :two::hammer:  
 __chaperones__ _n_ :two::hammer:  
-__chaplain__  
+__chaplain__ _n_ :four::mega:  
 __chapter__ _To the east was the chapter house._  
 __charade__  
 __chard__  
@@ -1861,6 +1865,7 @@ __closely__ _Obama's words are being watched closely by world leaders._
 __closeted__ _A closeted life._  
 __clot__  
 __clothesline__  
+__clothespin__ _n_ :camera:  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __clough__ _n_ :three::hammer:  
@@ -1927,10 +1932,12 @@ __come around__
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
 __come to grips__  
+__come to terms__  
 __come together__  
 __comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
 __comeuppance__  
 __comforter sets__  
+__comforter__ _n_ A quilt.  
 __comforters__  
 __comfy__ _adj informal_ :four: Comfortable. _The Comfy Cow ice cream._  
 __coming down the pipe__ :dart:  
@@ -1988,6 +1995,7 @@ __concomitant__
 __concourse__ :two::hammer:  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
+__condition__ _n_  
 __conditional discharge__ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__  
 __condominium__ _First-floor condominium._  
@@ -2366,6 +2374,7 @@ __dead on__
 __dead ringer__ An exact duplicate.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
+__deal breaker__  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :dart::three::hammer:  
@@ -2724,8 +2733,9 @@ __drab<sup>1</sup>__ _adj_ :four: (drabber jobs) Dull or commonplace in characte
 __drab<sup>2</sup>__ _n_  
 __draconian__ :two::hammer:  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
+__drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag racing__  
-__drag__  
+__drag__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
 __dramedy__  
@@ -3182,7 +3192,7 @@ __fender bender__ :two::hammer: _Stranded by a fender bender._
 __fennel__ :two::hammer:  
 __fenny__ _A fenny marsh._  
 __fenugreek__  
-__feral__ _adj_ :four::hammer: _Feral hogs._ _Feral cats._  
+__feral__ _adj_ :five::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __fern garden__  
 __fern__  
 __ferns__  
@@ -4197,6 +4207,7 @@ __hissy__ _Hissy fit._
 __hit and miss__  
 __hit man__  
 __hit on all eight__ _So far it's not hitting on all eight._  
+__hit or miss__  
 __hit out__ _v_  
 __hit parade__  
 __hit the sack__  
@@ -5733,6 +5744,7 @@ __open-air bus__
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
 __oppo__ _Oppo researchers._  
+__opt out__ _v_  
 __opulent__  
 __orb__ _n_ :two::hammer:  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
@@ -6278,6 +6290,7 @@ __poo-pooked__ _A poo-pooked (poo-poohed) its properties._
 __pooch__  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
+__poorly__ _This is going to end very poorly._  
 __pop<sup>1</sup>__ _n_ :four::hammer: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :three::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._  
 __pops__ (parents?}  
@@ -6748,7 +6761,7 @@ __rector__
 __recuse__ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red hot__ :two::hammer: _Now the market is red hot._  
-__red tape__ _n_ :dart::three: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
+__red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
 __redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
@@ -7009,6 +7022,7 @@ __rope in__ _v_
 __rope-a-dope__ :two::hammer:  
 __ropes__ _They need to learn the ropes._  
 __ropy__ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
+__rosary__ _n_ (rosaries)  
 __rosin box__  
 __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
 __rosy__ _adj_ :four::hammer: _A rosy picture._ _Predictions of a rosy future._  
@@ -7723,7 +7737,7 @@ __slush__ _n_ :two::hammer: _The offshore ice and slush._
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :eight: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
-__smack__ _v_ _He smacked his lips._  
+__smack__ _v_ :two::hammer: _He smacked his lips._  
 __small potatoes__ _informal_ Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small__ _I rubbed the small of her back._  
 __smallpox__ :two::hammer:  
@@ -8485,6 +8499,7 @@ __tagline__ _Our big tagline is to help others._
 __tailgate__  
 __tailor__ _v_  
 __tailspin__ _n_ :two::hammer:  
+__take a shit__ _v_  
 __take a stand__  
 __take by storm__  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
@@ -8776,6 +8791,7 @@ __ton__ _A metric ton._
 __tone-deaf__  
 __tong__  
 __tongue in cheek__ _adj, adv_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
+__tonsil__ _n_ _A tonsil infection._  
 __tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
 __tony__ _adj informal_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
@@ -9188,6 +9204,7 @@ __venison__ _n_ :two::hammer:
 __venom__ :two::hammer:  
 __venomous__ _adj_ :two::hammer:  
 __ventilator__ _n_ :pencil2: _med_  
+__venue__ _n_  
 __veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :two::hammer::pencil2:  
