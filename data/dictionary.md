@@ -8148,7 +8148,7 @@ __steamrolled__ _v_
 __steeds__ _n_  
 __steel__ _v_  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
-__steep<sup>2</sup>__ _v_ :eight::hammer: (steeped, steeping) _Tea steeped in teapots._  
+__steep<sup>2</sup>__ _v_ :eight: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
 __steeplechase__  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
@@ -8156,7 +8156,7 @@ __steeples__ _n_
 __steeply__ :two::hammer:  
 __stein__ _n_  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
-__stem<sup>2</sup>__ _v_ :eight::hammer::astonished: (stemmed, stemming) _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._ _Three dozen towns are debating how to stem the flow of needles._  
+__stem<sup>2</sup>__ _v_ :eight::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stenographer__ :two::hammer:  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __step up__ _v_ :two::hammer:  
