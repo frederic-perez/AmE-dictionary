@@ -8264,11 +8264,9 @@ __strap overalls__
 __strapless__ _Strapless black dress._  
 __strapped__  
 __strapping__ _Two strapping sons._  
-__straw__  
-__straws__ _To stir straws._  
-__stray steeples__  
-__stray<sup>1</sup>__ _v_ :eight::hammer: (strays, strayed, straying) _Every individual who strays will be punished._  
-__stray<sup>2</sup>__ _adj_ :five::hammer: _A stray word._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
+__straw__ _n_ :two::hammer: (straws) _To stir straws._  
+__stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
+__stray<sup>2</sup>__ _adj_ :six::hammer: _A stray word._ _Stray steeples._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
 __stray<sup>3</sup>__ _n_  
 __streak__ _n_  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
@@ -8537,7 +8535,8 @@ __tannin__ _n_ Any of various complex phenolic substances of plant origin; used 
 __tantalize__ _v_ (tantalizing)  
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
-__tap__ _v_ :eight::hammer: _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _Entrepreneurs tap neighbors for funding._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
+__tap__ _v_ :four: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
+__tap into__ _idiom_ :four: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
 __taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
