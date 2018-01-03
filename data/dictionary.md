@@ -90,6 +90,7 @@ __Deep South__
 __Dem__ A member of the Democratic Party.  
 __Diaspora__  
 __Dickensian__  
+__Do your magic__ _idiom_  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __Doc__  
 __ED prescription__  
@@ -575,6 +576,7 @@ __antic__
 __antics__ _n_ _(plural)_ :four: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _Antiques dealer._  
+__antsy__ _adj_  
 __anvil__ _n_ :four::hammer: (anvils)  
 __anything goes__  
 __apace__ _Concussion concerns continue apace._  
@@ -6248,6 +6250,7 @@ __plump__ _Plump and juicy hotdogs._
 __plums__ _n_ :three::hammer:  
 __plunder__ :two::hammer:  
 __plundered__  
+__plunge__ _v_  
 __plush__ _adj_ :five: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :six::hammer: _It is the perfecting designed environment to ply his trade._  
@@ -7574,6 +7577,7 @@ __simmer__ _v_ :nine: (simmers, simmering) (of water or food that is being heate
 __simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
+__sinestesia__ _n_ (?)  
 __sinew__ _n_ :five::hammer:  
 __sinews__ _n_  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
@@ -9255,6 +9259,7 @@ __vocal<sup>1</sup>__ _adj_ :two: _Critics often are the most vocal._
 __vocal<sup>2</sup>__ _n_  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __voguish__  
+__voicemail call__ _n_ (?)  
 __volition__ :two::hammer:  
 __volley__ :two::hammer: _A volley of invective._ _(military attack?)_  
 __voltron__  
