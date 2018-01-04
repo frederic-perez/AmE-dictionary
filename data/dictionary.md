@@ -8592,7 +8592,7 @@ __techie__ _Facebook's techie in chief._
 __tee up__ _v_  
 __teeing up__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
-__teeter__ _v_ :eight::hammer: (teeters, teetering) _Iran is teetering on the brink of a civil war._  
+__teeter__ _v_ :eight: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __telegenic__  
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
@@ -8894,7 +8894,7 @@ __tribute__ _Her fellow tribute and her hunting buddy._
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
-__trickle-down__ _n_ :eight::hammer: _Trickle-down racism._ _Trickle-down economics._ _Trickle-down tax cut._ _A trickle-down effect._  
+__trickle-down__ _adj_ :eight: __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
 __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
 __trickle<sup>2</sup>__ _v_ :five::hammer: _The money trickled in._  
 __tricksy__  
