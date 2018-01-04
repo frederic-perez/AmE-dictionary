@@ -320,6 +320,7 @@ __St. Bernard__
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __Stasi__  
 __State Bar__ _A State Bar judge._  
+__Staten Islander__ _n_  
 __Step 'n' Fetch It routine__  
 __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._  
 __Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
@@ -737,6 +738,7 @@ __baby formula__ _Baby formula should be "ready-to-feed" or prepated using only 
 __back away__  
 __back breaker__  
 __back burner__  
+__back country__ _n_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back out__ _v_ :two::hammer:  
 __back up__ _v_ _Traffic will back up as if two lanes were blocked._  
@@ -2856,6 +2858,7 @@ __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.
 __dwell__ _v_ :two::hammer:  
 __dwelling__ _n_  
 __dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, diminish, reduce in size. __2__ To fall away in quality; degenerate, sink.  
+__dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
 __dyke__ _n informal_ :four: A lesbian. _She wasn't a dyke, either._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dysplasia__ _Canine hip dysplasia._  
@@ -2888,7 +2891,7 @@ __econ__ _The econ professor._
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
 __edict__  
-__educated guess__  
+__educated guess__ _n_ :two::hammer:  
 __eel__  
 __eerie__ _n_ :three::hammer:  
 __eerily__ _adv_ :three::hammer:  
@@ -4968,6 +4971,7 @@ __lipped__ _v_
 __lippy__ _adj_  
 __liquefied__ _v_ :two::hammer: _Liquefied natural gas._  
 __liquefy__  
+__lisp__ _n_  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listening session__  
@@ -6442,7 +6446,7 @@ __profusion__
 __prohibit__  
 __promenade__ _n_ :two::hammer:  
 __prominence__  
-__prominent__ _adj_ :three::hammer: _Package carrying a prominent warning._  
+__prominent__ _adj_ :four::hammer: _Package carrying a prominent warning._  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prompt__ _v_ :two::hammer: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
@@ -7015,6 +7019,7 @@ __rood__ _n_ :two::hammer:
 __roofrack__  
 __rooftop__ _n_ :four::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._  
 __room gear__ _Dorm room gear._  
+__room temperature__ _n_  
 __roomed__ _v_  
 __rooster__ :two::hammer:  
 __root beer__  
@@ -8535,8 +8540,8 @@ __tannin__ _n_ Any of various complex phenolic substances of plant origin; used 
 __tantalize__ _v_ (tantalizing)  
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
-__tap__ _v_ :four: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __tap into__ _idiom_ :four: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
+__tap__ _v_ :four: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
@@ -8907,6 +8912,7 @@ __triplex__ _A triplex penthouse._
 __triptych__  
 __trite__ _adj_ :six: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
+__trivet__ _n_  
 __trodden__  
 __troglodyte__ _n_  
 __troll__ _Kim may see these dual transitions as an opening to troll world powers._  
