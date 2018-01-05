@@ -76,6 +76,7 @@ __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used
 __Concacaf__  
 __Confederate flag__  
 __Coptic__  
+__Courtney Cox moment__ _A Courtney Cox moment (Dancing in the Dark with Bruce Springsteen)._  
 __Crescent City__  
 __Croat__  
 __D-ring inset__  
@@ -414,6 +415,7 @@ __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time
 __acerbic__ _adj_ :three::hammer:  
 __acolytes__ :two::hammer:  
 __acorn__ _n_ :two: _The acorn don't fall far from the tree._ :es: bellota  
+__acqua boots (or Acqua boots or something similar?)__ _n_  
 __acquaintances__ :pencil2:  
 __acquiesce__  
 __acquiescence__ _n_ :three::hammer:  
@@ -1111,7 +1113,7 @@ __block letters__ _She wrote something in block letters._
 __blood-expander__  
 __blooker__ :two::hammer:  
 __bloop__  
-__blooper__ _n informal_ :dart: A clumsy mistake, especially one made in public; a faux pas.  
+__blooper__ _n informal_ :two::dart: A clumsy mistake, especially one made in public; a faux pas.  
 __blotched__ _v_  
 __blotches__ _n_  
 __blotter__ _n_ :five: __1__ Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
@@ -1180,8 +1182,6 @@ __bologna__
 __bolony__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
-__bolster__ _v_  
-__bolstered__ _v_  
 __bolt__ _v_ _The windows were closed and bolted._  
 __bombast__ _n_ :four: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
@@ -1826,6 +1826,7 @@ __class act__ _She was a class act through and through._
 __class action__  
 __clatter__ _n_  
 __claw back__ _v_  
+__claw machine__ _n_ :camera:  
 __claw<sup>1</sup>__ _n_  
 __claw<sup>2</sup>__ _v_  
 __clawback__  
@@ -3071,7 +3072,8 @@ __exempt__ _v_
 __exemption__ _Dru earned an exemption into the tournament._  
 __exert__ _v_ :seven::hammer: (exerted) _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
-__exhaust__ _Exhaust fans._  
+__exhaust<sup>1</sup>__ _v_ _Exhaust fans._  
+__exhaust<sup>2</sup>__ _n_ _Car exhaust._  
 __exhibit A__  
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exonerate__ :two::hammer:  
@@ -3111,6 +3113,7 @@ __face-lift__
 __facetious__ _adj_ :pencil2:  
 __facile__ :two::hammer: _She's an extremely facile actress._  
 __facsimile__  
+__fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
 __fact sheet__  
 __faction__ _n_  
 __factual__  
@@ -3751,7 +3754,7 @@ __go dutch__
 __go great lenghts__  
 __go native__ _You going native on me, Supercop?_  
 __go over the top__  
-__go south__ :two::hammer: _This one went south on me._  
+__go south__ _idiom_ :three::hammer: _You've got a career there, if all this goes south._ _This one went south on me._  
 __go to the dogs__  
 __go-ahead goal__  
 __go-for-broke__  
@@ -6749,7 +6752,8 @@ __rec__ _Damonika has worked as youth and rec leader._
 __recall__ _n_  
 __recant__ _v_ :two::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
-__recap__ _n_ :two::hammer: _The written recap of the meeting._  
+__recap<sup>1</sup>__ _n informal_ :two::hammer: _The written recap of the meeting._  
+__recap<sup>2</sup>__ _v informal_ Recapitulate.  
 __recede__ _v_  
 __receivership__  
 __recess__ _The deepest recesses of the brain._  
@@ -6955,6 +6959,7 @@ __riles__ _v_
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rind__ _n_  
 __ring finger__ :two::hammer:  
+__ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
 __ring up__ _Ringing up sales._  
 __ring__ _A narcotics ring._  
 __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._  
@@ -7714,6 +7719,7 @@ __slobber__ _v_ :three::hammer: (slobbered, slobbering)
 __slobby__  
 __slog<sup>1</sup>__ _v_ :eight: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :three: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
+__slog__ _v_  
 __slop__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
