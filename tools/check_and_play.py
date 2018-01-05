@@ -382,7 +382,7 @@ class Checker(object):
 
         for line in input_file:
             entry = line.replace('\n', '')
-            if entry_has_tag_of_any_number(entry, 8, 9):
+            if entry_has_tag_of_any_number(entry, 7, 9):
                 if entry_has_tag_hammer(entry):
                     tokens = entry.split()
                     do_print = False
