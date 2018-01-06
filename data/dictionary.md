@@ -138,6 +138,7 @@ __Generation Yers__
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo wire__ :two::hammer:  
+__Get outta here!__ _idiom_  
 __Gibson glass__  
 __Gitmo__ _Guantanamo?_  
 __Goodyear, Charles__  
@@ -1725,6 +1726,7 @@ __chasuble__ _n_ :two::hammer:
 __chattel__  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
+__check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __check__ _v_ :two::hammer: _With a few extra bucks to check a bag, you can avoid stress._  
 __checker__ _v_ _Checkered history._  
@@ -2456,6 +2458,7 @@ __deluge<sup>1</sup>__ _n_ :three: _The deluge is not over._
 __deluge<sup>2</sup>__ _v_ :three: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __deluge__ _v_  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
+__deluxe__ _Deluxe album._  
 __demagogy__  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
 __demigod__  
@@ -4440,6 +4443,7 @@ __in fold__
 __in its own right__  
 __in short order__  
 __in the fold__ _They kept the devious students in the fold._  
+__in the lurch__ _The TV series was left in the lurch._  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the thick__ :two::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
@@ -5137,7 +5141,7 @@ __makeup date__ _Today's game has been postponed; no makeup date has been snnoun
 __makeup game__  
 __making waves__ :two::hammer:  
 __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
-__malarkey__ :two::hammer:  
+__malarkey__ _n_ :dart::three::mega::hammer:  
 __malevolent__  
 __malfeasance__ :two::hammer:  
 __maligned__  
@@ -5275,6 +5279,7 @@ __mesh strainer__
 __metal casement windows__ :camera:  
 __metal flashing__  
 __metal shavings__  
+__metal__ _adj_ :five::hammer:  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
 __metheglin__ _n_ :two::hammer:  
@@ -5337,7 +5342,7 @@ __miserable__ _We are miserable._
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
 __misgivings__ :two::hammer:  
-__mishap__  
+__mishap__ :mega::two::hammer:  
 __mishmash__ :two::hammer:  
 __misnomer__ _n_ :five: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __misogynist__  
@@ -5722,6 +5727,7 @@ __on a roll__ :two::hammer: _I'm on a roll._
 __on a tear__ _The U.K. labor market is on a tear._  
 __on deck__  
 __on edge__  
+__on every level__ _idiom_ _That was a bad idea on every level._  
 __on the docket__  
 __on the hoof__  
 __on the run__  
@@ -6771,6 +6777,7 @@ __recreational__ _Recreational marijuana vs medical marijuana._
 __rector__  
 __recuse__ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
+__red flag__ _Red flag day._  
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-eye__ _Catch the red-eye._  
@@ -6997,6 +7004,7 @@ __rob__ _Crimson-robed nuns._
 __robe__ _n_ _The judge's robe._  
 __robin-breasted__  
 __rock the boat__ :two::hammer:  
+__rock-paper-scissors__ _Is this rock-paper-scissors?_  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rods__ _A few rods away._  
 __roe__ _A roe deer._  
@@ -7586,6 +7594,7 @@ __simmer down__
 __simmer__ _v_ :nine: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
+__since forever__  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
 __sinestesia__ _n_ (?)  
 __sinew__ _n_ :five::hammer:  
@@ -8665,7 +8674,7 @@ __thereafter__ _Texas took the lead on Javan Felix's two free throws shortly the
 __thereof__  
 __thermos__ _A thermos._  
 __thespian__ :two::hammer:  
-__thick and thin__ _Supporters ready to back them through thick and thin._  
+__thick and thin__ :two::hammer: _Supporters ready to back them through thick and thin._  
 __thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
 __think tank__ _n_ :five::hammer:  
@@ -9320,6 +9329,7 @@ __wallflower__
 __wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::hammer: _A wan reception._  
+__wand__ _n_  
 __wane__ _v_ :three::hammer: (waning) _The waning hours._  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
