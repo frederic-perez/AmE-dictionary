@@ -1124,7 +1124,7 @@ __blow it off__
 __blowflies__ _n_  
 __blowgun__ _n_  
 __blown call__  
-__blowout__ _n informal_ :seven::hammer: A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
+__blowout__ _n informal_ :seven: A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
 __blowtorch__  
 __blowup bed__ _n_  
@@ -1433,7 +1433,7 @@ __burgermeister__
 __burgundy__ :two::hammer: _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :three::hammer:  
-__burly__ _adj_ :seven::hammer: _A burly man._  
+__burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
 __burners__ (gas cooktop) :camera:  
 __burnish__ _v_ :six::hammer: (burnishing)  
 __burp__ :two::hammer:  
@@ -1777,7 +1777,7 @@ __choker__ _A velvet choker._
 __chomp__ _v_  
 __chomping__  
 __choppy__ _adj_ :three: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
-__chops__ _n informal_ :seven::hammer: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
+__chops__ _n informal_ :seven: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chortles__ _v_  
 __chuck out__ _v_  
 __chuck__ _v_ :five::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
@@ -3391,7 +3391,7 @@ __florets__ :pencil2::two::hammer: _Your dinner is two florets of broccoli._
 __florid__  
 __flotilla__  
 __flotsam__  
-__flounder__ _v_ :seven::hammer: (floundering) _Floundering in and out of deep pools._  
+__flounder__ _v_ :seven: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
 __flow__ _Three people in flowing black robes._  
