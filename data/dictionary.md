@@ -697,6 +697,7 @@ __atone__ _v_ :three::hammer: (atoned)
 __atop__  
 __atrium__  
 __atrocious__  
+__atrophied__ _v_  
 __attack dog__ _n_  
 __attain__ _v_ :three::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
@@ -1097,7 +1098,7 @@ __blight<sup>2</sup>__ _v_ :two::hammer: (blighted)
 __blimp__ :two::hammer: _A blimp hangar._  
 __blind date__  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
-__blindside<sup>2</sup>__ _v_ To catch off guard; to take by surprise.  
+__blindside<sup>2</sup>__ _v_ :two: (blindsided) To catch off guard; to take by surprise.  
 __bling__ _n_ :three::hammer:  
 __blink__ _v_ _There is no reason to blink._  
 __blip__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
@@ -1207,7 +1208,7 @@ __boo<sup>2</sup>__ _interj_
 __booby-trapped 105's__  
 __boogeyman__  
 __boogie__  
-__bookcases__  
+__bookcases__ _n_ :two::hammer:  
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
 __bookies__ _n_  
@@ -2018,7 +2019,7 @@ __conferred__ _v_
 __confidant__ _n_ :five::hammer: (also confidante)  
 __confide__ _v_ :three::hammer: (confided)  
 __conflate__ _v_  
-__confound__ _v_ :five::hammer: (confounded, confounding)  
+__confound__ _v_ :six::hammer: (confounded, confounding)  
 __congenial__ :two::hammer:  
 __conglomerate__  
 __conglomerates__  
@@ -2106,6 +2107,7 @@ __corralled__ _v_
 __corralling__ _v_  
 __correspondent__ _Our journalists are not experienced war correspondents._  
 __corridor__  
+__corrugated__  
 __corsages__  
 __cosset__ _v_  
 __cosseted__  
@@ -2505,7 +2507,7 @@ __despondent__ _n_ :four::hammer:
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
-__deterrent__ _n_ :four: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__deterrent__ _n_ :five: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detractor__  
 __detritus__ _n_  
 __devil-may-care style__  
@@ -2579,6 +2581,7 @@ __discounter__ _n_
 __discourse__  
 __discretion__ _n_  
 __discus__ _n_  
+__disembodied__ _v_  
 __disenfranchise__  
 __disenfranchised__  
 __disfavor__  
@@ -3747,7 +3750,7 @@ __glue > a glue-type player__
 __glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
 __glut__ _n_ :six: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
 __glycemic__  
-__gnarled__ _v_  
+__gnarled__ _v_ :two::hammer: _Gnarled fingers._  
 __gnashing__  
 __gnat__ _n_ :three::hammer: (insect?)  
 __gnaw__ _v_ :six: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
@@ -3818,11 +3821,10 @@ __grapples__ _v_
 __grapplings__ _n_  
 __grass-routs__ _?_ _Grass-routs campaign._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
-__grate<sup>1</sup>__ _n_  
+__grate<sup>1</sup>__ _n_ :two::hammer: (grates) :camera: _Cast iron grates._  
 __grate<sup>2</sup>__ _v_ :four: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
-__grates__ _?_ :camera: _Cast iron grates._  
 __gratin__ _?_ _Sweet potato gratin._  
-__grating<sup>1</sup>__ _n_ :two::hammer: _A bright green screen of thick metal grating sat solidly on the counter._  
+__grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __grave liner__ _Grave liners are stored at the Travis County cemetery._  
 __grave__  
@@ -4344,6 +4346,7 @@ __huh__
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
 __humidor__ _n_  
+__hummed__ _v_  
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __humor__ _v_ _Just humor me._  
@@ -4425,6 +4428,7 @@ __impending__ _adj_ :eight: If something is impending, it is about to happen. If
 __imperil__ _v_ :four::hammer: (imperiled)  
 __imperious__  
 __impermissible__ :two::hammer:  
+__impersonation__  
 __impervious__ _adj_ :three::hammer:  
 __impetus__ _n_ :three::hammer:  
 __impinge__  
@@ -4440,7 +4444,7 @@ __in all likelihood__
 __in check__ _Keep those emotions in check._  
 __in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
-__in its own right__  
+__in its own right__ :two::hammer: (in my own right)  
 __in short order__  
 __in the fold__ _They kept the devious students in the fold._  
 __in the lurch__ _The TV series was left in the lurch._  
@@ -4692,7 +4696,7 @@ __keepsakes__
 __keg__ _n_ :two::hammer:  
 __kelp__  
 __ken__ _n_ :two::hammer:  
-__kennel__  
+__kennel__ _n_ :two::hammer:  
 __keno__ _n_  
 __kerchief__ _n_  
 __kerkuffles__  
@@ -5263,6 +5267,7 @@ __menagerie__
 __mendacity__  
 __mending__ _Mending flesh._  
 __menial__ _n_  
+__meniscus__  
 __menology__  
 __mental memo__ _n_ :camera:  
 __mentees__  
@@ -5544,7 +5549,7 @@ __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A natura
 __naught__  
 __navel__ :two::hammer:  
 __naysayer__ _n_  
-__neat__ _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._  
+__neat__ :two::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That's a neat idea, Jupe._  
 __necromancer__  
 __necromancy__  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
@@ -5614,7 +5619,7 @@ __nonce__
 __nonchalant__ _adj_ :three::hammer:  
 __nonchalantly__  
 __noncommittal__ _adj_ :three::hammer:  
-__nondescript__ :two::hammer:  
+__nondescript__ _adj_ :three::hammer:  
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_  
 __nonsequitur__  
@@ -6939,7 +6944,7 @@ __ribbed__ _v_ :two::hammer:
 __ribbing__ :two::hammer:  
 __riches__ _n_ :four: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
-__rickety__ _adj_ :six::hammer: _Rickety chair._  
+__rickety__ _adj_ :seven::hammer: _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet__ _v_ :two::hammer:  
@@ -7884,6 +7889,7 @@ __soften__ _v_ _Smooths and softens dry skin with nourishing plant oils._
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
 __soignée__  
+__soil__ _v_  
 __soiled__  
 __sojourn__ _n_ :six::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __solace__  
@@ -7998,7 +8004,7 @@ __split__ _n_
 __splotched__ _v_  
 __splotches__ _n_  
 __splurge__ _v_ :six::hammer: (splurged, splurging)  
-__splutter__ (splutters) :two::hammer:  
+__splutter__ :three::hammer: (splutters, spluttered)  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
 __spoilage__ :dart:  
@@ -8013,6 +8019,7 @@ __sportcoat__
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spotless__  
+__spotted__ _v_  
 __spout__ _v_ _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
 __sprawl__ _v_ :three::hammer: (sprawled)  
@@ -8332,7 +8339,7 @@ __stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._
 __stuffer__  
 __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :three::hammer:  
-__stump__ _v_ :nine::dart: There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
+__stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
@@ -8647,8 +8654,9 @@ __texcetera__
 __thane__ _v_  
 __thang__  
 __thankless__ Ungrateful  
-__thashing__  
+__thrashing__  
 __that being said__  
+__that much__ _I'll tell you that much._  
 __that's the breaks__  
 __thaw<sup>1</sup>__ _v_ :four: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
 __thaw<sup>2</sup>__ _n_ :five: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
@@ -8662,6 +8670,7 @@ __the final frontier__ (Space?) There is a turf war brewing in the final frontie
 __the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
 __the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__  
+__the writing on the wall__  
 __thecracy__  
 __then again,__  
 __then again__ :two::hammer:  
@@ -9349,6 +9358,7 @@ __warren__ _n_ _A warren of hares._
 __wary__ _adj_ _He is wary of the situation._  
 __wash up__ _v_ _A washed up player._  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
+__washroom__ _n_  
 __washtub__  
 __washwoman__  
 __wastebasket__  
