@@ -1810,7 +1810,7 @@ __claim__ _The White Sox claimed the 2005 title._
 __claimants__  
 __clam up__ _v_  
 __clambake__ _n_  
-__clamber__ _v_ :seven::hammer: (clambered, clambering) _He clambered to his feet._  
+__clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
 __clammy__ :two::hammer:  
 __clampdown__ :two::hammer:  
 __clamped__ _v_  
@@ -3055,7 +3055,7 @@ __every man for himself__ :dart:
 __every other week__ _We don't win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
 __every so often__  
-__evict__ _v_ :seven::hammer: (evicted)  
+__evict__ _v_ :seven: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ :two::hammer:  
 __evince__ _v_ :four::hammer: _To evince an interest in politics._ _She didn't evince surprise._  
 __eviscerate__ _v_  
@@ -8004,7 +8004,7 @@ __split__ _n_
 __splotched__ _v_  
 __splotches__ _n_  
 __splurge__ _v_ :six::hammer: (splurged, splurging)  
-__splutter__ :three::hammer: (splutters, spluttered)  
+__splutter__ _v_ :three::hammer: (splutters, spluttered)  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
 __spoilage__ :dart:  
