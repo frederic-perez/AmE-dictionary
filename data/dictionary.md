@@ -29,6 +29,7 @@ __Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.
 __Apart from that,__  
 __Argentine__ _The pope is an Argentine._  
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
+__Arkansas__ _n_ :mega:  
 __As it happens,__  
 __Atta boy__  
 __Attn__  
@@ -1287,6 +1288,7 @@ __brazer__
 __brazier__  
 __breach__ _v_ :four::hammer: (breached)  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
+__break a leg__ _idiom_  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
 __break-the-china__  
@@ -1793,6 +1795,7 @@ __churn rate__ _n_ The annual percentage rate at which customers stop subscribin
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __chutneys__  
+__cigar__ _n_ :mega:  
 __cigarillos__ :pencil2::camera::two::hammer:  
 __cinch__ _n_ :two::hammer:  
 __cinder-block town__  
@@ -3304,7 +3307,7 @@ __flag<sup>1</sup>__ _v_ :two::hammer:
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
-__flagrant__ _A flagrant foul._  
+__flagrant__ _adj_ :two::hammer: _A flagrant foul._  
 __flagship__  
 __flagstaff__  
 __flagstone__ _Flagstone terraces._  
@@ -3651,6 +3654,7 @@ __garroted__ _v_
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__  
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
+__gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gash<sup>1</sup>__ _n_ :two::hammer:  
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies' defense._ _The Lions gashed the Owls._  
@@ -4373,6 +4377,7 @@ __husk<sup>2</sup>__ _v_
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __hyacinth__ :pencil2:  
+__hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
 __hyperbole__ :two::hammer:  
@@ -4442,6 +4447,7 @@ __impromptu__ :two::hammer: _Some things are impromptu._
 __improvidence__  
 __in all likelihood__  
 __in check__ _Keep those emotions in check._  
+__in droves__ _They will come in droves._  
 __in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
 __in its own right__ :two::hammer: (in my own right)  
@@ -7218,6 +7224,7 @@ __scattershot__ :two::hammer:
 __scenic__  
 __scented__  
 __schadenfreude__  
+__schemer__ _n_ (?)  
 __schism__ :two::hammer:  
 __schlep__ _v_ :two::hammer:  
 __schlepping__ :two::hammer:  
@@ -7772,6 +7779,7 @@ __small__ _I rubbed the small of her back._
 __smallpox__ :two::hammer:  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ :two::hammer: _Smart riding-clothes._ _Smart tailored jackets._  
+__smash song__ _n_ _That was a smash song._  
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :nine: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
@@ -8188,6 +8196,7 @@ __steeply__ :two::hammer:
 __stein__ _n_  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :eight::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
+__stem__ _v_  
 __stenographer__ :two::hammer:  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __step up__ _v_ :two::hammer:  
@@ -8654,7 +8663,6 @@ __texcetera__
 __thane__ _v_  
 __thang__  
 __thankless__ Ungrateful  
-__thrashing__  
 __that being said__  
 __that much__ _I'll tell you that much._  
 __that's the breaks__  
@@ -8698,6 +8706,7 @@ __thoroughfare__
 __thoroughly__  
 __thrall__ _n_ :five::hammer:  
 __thrash__ _v_ :six::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._  
+__thrashing__  
 __thrifty__  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
@@ -8965,6 +8974,7 @@ __trudging__ _v_
 __true to form__  
 __truffles__ _n_  
 __trull__  
+__truly__ _We truly appreciate it._  
 __trumpet__ _v_  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
