@@ -3587,7 +3587,7 @@ __fumed__ _v_
 __fumitory__  
 __fun house__ _n_  
 __funereal__ _Funereal tone._  
-__funk__ _n_ :seven::hammer: _His breath a fog of funk and decayed shrimp._ _She breathed the funk that rose from her armpits._ _The Packers offense are in full-fledged funk._ _I started to emerge from my Catholic funk._  
+__funk__ _n_ :seven::hammer: _I started to emerge from my Catholic funk._ _informal_ __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _The Packers offense are in full-fledged funk._  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :two: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
@@ -3725,9 +3725,8 @@ __gingerly__ :three::hammer: _Walking gingerly behind the pack._
 __gingham__  
 __ginning__  
 __gins__ _He passed cotton gins._  
-__gird__ _v_ :seven::hammer: (girds, girded, girding)  
-__girded__ _v_  
-__girders__ _n_ :two::hammer:  
+__gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
+__girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __giridon__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __gladdened__  
@@ -3857,7 +3856,7 @@ __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._
 __greenhorn__  
 __greenhouse__ :two::hammer:  
 __griddle__  
-__gridiron__ _n_ :seven::hammer:  
+__gridiron__ _n_ :seven: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
 __gridlock__  
 __grievance__ _n_ :two::hammer:  
 __grievously__  
