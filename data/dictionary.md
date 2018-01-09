@@ -1446,9 +1446,8 @@ __burrhead__ _n_
 __burrow<sup>1</sup>__ _n_ :four::hammer:  
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
 __burrs__ _n_  
-__burst__ _v_  
-__bursting__  
-__busboy__ _n_ :four: A young man who clears tables in a restaurant or cafe.  
+__burst__ _v_ :two::hammer: (bursting)  
+__busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __business ties__  
 __busker__  
 __busload__  
@@ -1861,6 +1860,7 @@ __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his 
 __clinics__ _n_ :two::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _A better newspaper clip._  
 __clipped grass__  
+__clippings__ _n_  
 __clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. :es: camarilla  
 __cloak__ :two::hammer: :es: capa, manto  
 __cloakroom__ _n_  
@@ -3263,6 +3263,7 @@ __fill out__
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ :two::hammer:  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
+__film maker__ _n_ ?  
 __finalize__ _v_  
 __fine print__  
 __fine-tune__ _v_  
@@ -4588,6 +4589,7 @@ __jamb__ :two::hammer: _Window jamb._
 __jambalaya__ _n_  
 __jamboree__ _n_ :three::hammer: _A campfire jamboree._  
 __jammies__ _n_  
+__jampacked__ _v_  
 __jams__ _n_  
 __jangled__ _v_  
 __jape__ _v_  
