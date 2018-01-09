@@ -2892,7 +2892,7 @@ __easing__
 __easygoing__ _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
 __ebb and floor__  
-__ebb and flow__ _n_ :seven::hammer: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
+__ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
 __ebullient__ :two::hammer:  
@@ -3931,7 +3931,7 @@ __grumblings__
 __grungy__ :two::hammer:  
 __grunt__ _n_ __1__ :two: A deep guttural sound. __2__ :two: _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ :three: _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
-__guffaw__ _v_ :seven::hammer: (guffaws, guffawed, guffawing)  
+__guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guidet__ _Two guidettes._  
 __guile__ :two::hammer:  
@@ -4065,7 +4065,7 @@ __harping__ _v_
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
 __harrowing__ _A harrowing oddyssey._  
-__harry__ _v_ :seven::hammer: (harried) _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
+__harry__ _v_ :seven: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To harass or torment. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
 __hash out__ _v_  
