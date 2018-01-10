@@ -2288,6 +2288,7 @@ __cues__ _n_
 __cuff links__  
 __cuffed__ _v_  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
+__cult__ _n_  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
 __cupboards__ :camera: _My father rebuilt cupboards._  
@@ -4129,7 +4130,7 @@ __heartfelt__
 __hearth__ _n_ :four::hammer:  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation's heartland._  
-__heartthrob__ _n_ :four::hammer::pencil2: (heart-throb)  
+__heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
 __heat > to catch a lot of heat__  
 __heatedly__ _Clashed heatedly._  
@@ -4841,6 +4842,7 @@ __lassitude__
 __lassos__ _v_  
 __last > next to last__  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
+__lastly__ _adv_  
 __latch<sup>1</sup>__ _n_  
 __latch<sup>2</sup>__ _v_  
 __latching__  
@@ -6868,6 +6870,7 @@ __render__ _v_ :two::hammer::astonished: _Cook bacon until about half the fat is
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
 __rendering plant__  
+__rendition__ _n_ An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People's Republic of China.  
 __renown__  
 __rent metal__  
@@ -7610,10 +7613,10 @@ __simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a sill
 __since forever__  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
 __sinestesia__ _n_ (?)  
-__sinew__ _n_ :five::hammer:  
-__sinews__ _n_  
+__sinew__ _n_ :six::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
-__sing along__  
+__sing along<sup>1</sup>__ _n_ :two: A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
+__sing along<sup>2</sup>__ _v_ To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :two: To select one from a group and treat differently.  
 __singletree__ _Singletree plow._  
@@ -9128,6 +9131,7 @@ __unnerving__
 __unquestioned__  
 __unravel__  
 __unraveling__  
+__unreasonable__ _adj_  
 __unrelenting__  
 __unremitting__ _v_  
 __unrepentant__ :two::hammer:  
@@ -9616,6 +9620,7 @@ __worrisome__
 __worrywarts__  
 __worshiper__  
 __wort__  
+__worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, effort, or interest.  
 __wracking__ _v_  
 __wraith__  
 __wrangle__ _v_  
