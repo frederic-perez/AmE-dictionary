@@ -753,7 +753,7 @@ __back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hu
 __backache__ _n_ :dart:  
 __backburner__ _n_  
 __backcountry__ _Utah ski resorts offering backcountry adventures._  
-__backdrop__ _n_ :seven::hammer: _These massacres took place against the backdrop of a war._  
+__backdrop__ _n_ :seven: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
 __backlash__ _n_ :three::hammer:  
@@ -1021,7 +1021,8 @@ __bidding__
 __bier__ _n_ :pencil2:  
 __big brother__  
 __big cat__ :es: felino  
-__big deal__ _n_ :dart::seven::hammer: _It's not a big deal._ _Big deal._  
+__big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It's not a big deal._ __2__ An important person: She was a big deal in local politics.  
+__big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big time__  
