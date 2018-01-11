@@ -380,10 +380,11 @@ __abasement__
 __abashed__  
 __abatement__ :two::hammer: _A tax abatement._  
 __abating__  
+__aberrant__ _adj_  
 __abetted__ _v_  
 __abetting__ _v_ :two::hammer:  
 __abeyance__ :two::hammer:  
-__abhorrent__  
+__abhorrent__ _adj_ :two::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__  
@@ -1629,6 +1630,8 @@ __cash bar__ :camera: _The cost is $30 per person with a cash bar._
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
 __casket__  
+__casserole<sup>1</sup>__ _n_  
+__casserole<sup>2</sup>__ _v_  
 __cassocks__ _n_  
 __cast a pall__  
 __cast-iron__  
@@ -6974,11 +6977,8 @@ __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A dis
 __rig__ _Horse and the red wagon were a good rig._  
 __right__ :two::dart::hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
-__rigmarole__ _Rigmarole controls._  
-__rile__ _v_ (riled) :two: Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ :es: sacar de quicio  
-__riled up__ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._  
-__riled__  
-__riles__ _v_  
+__rigmarole__ _n_ :two::hammer: _Rigmarole controls._  
+__rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rind__ _n_  
 __ring finger__ :two::hammer:  
@@ -7603,6 +7603,7 @@ __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._
 __signet ring__  
 __siitting duck__  
 __sill__ :two::hammer:  
+__silly boy__  
 __silo__ _n_ :two::hammer: _A silo-launched missile._  
 __silt__ _n_ :three::hammer:  
 __silver lining__  
