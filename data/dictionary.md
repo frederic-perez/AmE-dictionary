@@ -5153,7 +5153,7 @@ __make rounds__
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
 __make waves__ _idiom_ (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
-__makeshift__ _adj_ :seven::hammer:  
+__makeshift__ _adj_ :seven: Being a crude and temporary expedient.  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
 __making waves__ :two::hammer:  
@@ -5245,7 +5245,7 @@ __maxim__ :es: máxima
 __mayhem__ _n_ :four: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mea culpa__  
 __mead__ _n_  
-__meager__ _adj_ :dart::seven::hammer: _The meager wages._  
+__meager__ _adj_ :dart::seven: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
 __meandering__  
 __meannes__ :pencil2:  
 __measles__ _n_ :three::pencil2::hammer: :es: _Rubeola_  
