@@ -3170,7 +3170,7 @@ __far-fetched__
 __far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
-__fare<sup>2</sup>__ _v_ :seven::hammer: (fares, fared, faring) _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._  
+__fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
 __farflung__ _Farflung operations and profits._  
 __fascia__  
 __fast and furious__ _adj_ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
@@ -3597,7 +3597,7 @@ __fumed__ _v_
 __fumitory__  
 __fun house__ _n_  
 __funereal__ _Funereal tone._  
-__funk__ _n_ :seven::hammer: _I started to emerge from my Catholic funk._ _informal_ __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _The Packers offense are in full-fledged funk._  
+__funk__ _n informal_ :seven: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :two: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
