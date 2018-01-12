@@ -473,6 +473,7 @@ __aftermarket__
 __afterward__ :two::hammer:  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
+__ageless__  
 __agency__ :two::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
 __agendum__  
 __aggravate__ _v_ (aggravated) :two::hammer:  
@@ -1222,7 +1223,7 @@ __boom and bust__
 __boom box__  
 __boomer chains__  
 __booms__ _n_ :two::hammer:  
-__boon__ _n_ /buːn/ :six: A thing that is helpful or beneficial. _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
+__boon__ _n_ :seven: /buːn/ A thing that is helpful or beneficial. _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
 __boonies__  
 __boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
@@ -1313,6 +1314,7 @@ __bric-a-brac stores__
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __brick__ _n_ _basketball_  
 __brickbats__  
+__bridal gown__ _n_  
 __bridesmaid__  
 __bridle__ _n_  
 __briers__  
@@ -2809,6 +2811,7 @@ __drop in the bucket__
 __drop-in__ _A drop-in center._  
 __drop__ _n_  
 __dropout__ _n_  
+__dropping hands__  
 __droppings__ _n_  
 __drought__ _n_ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drover__ _n_ :two::hammer:  
@@ -3158,8 +3161,7 @@ __fancy-schmancy__
 __fancy<sup>1</sup>__ _n_  
 __fancy<sup>2</sup>__ _v_ __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__  
-__fang__ _n_ :pencil2:  
-__fangs__ _n_  
+__fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __far and away__ :astonished:  
@@ -3178,6 +3180,7 @@ __fastness__
 __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fathom__ _v_ :four::hammer:  
 __fatigue__  
+__fatso__  
 __fatwa__ _n_ :two: Religious edict.  
 __faulty__ :dart: _Faulty software._  
 __faux__ _Three faux tombstones._  
@@ -3365,6 +3368,7 @@ __flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashe
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
 __flight__ _n_ _He climbed four flights of stairs._  
+__flimflam__ _n_ :dart::two::hammer:  
 __flimsy__  
 __flinch<sup>1</sup>__ _n_  
 __flinch<sup>2</sup>__ _v_ :four: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
@@ -3910,15 +3914,13 @@ __groundswell__ _n_ :four::hammer:
 __groundwater__  
 __groundwork__  
 __groupies__ _n_  
-__grouse__ _v_ :three::hammer: _We groused about the uncomfortable seating._  
-__groused__ _v_  
+__grouse__ _v_ :four::hammer: (groused) _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
 __grovel__ _v_  
 __groveling__ _v_  
-__growin pains__ _Teams are expecting short-term growing pains._  
-__growing pains__ _n_ :four: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise.  
-__growl<sup>1</sup>__ _n_ :two::hammer: _He spoke in a growl._  
+__growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
+__growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
 __growl<sup>2</sup>__ _v_ :four::hammer: (growled, growling)  
 __grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
@@ -4995,7 +4997,8 @@ __lipped__ _v_
 __lippy__ _adj_  
 __liquefied__ _v_ :two::hammer: _Liquefied natural gas._  
 __liquefy__  
-__lisp__ _n_  
+__lisp<sup>1</sup>__ _n_  
+__lisp<sup>2</sup>__ _v_  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listening session__  
@@ -5776,6 +5779,7 @@ __open house__ :two::hammer: _Educational open house._
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
+__ophthalmologist__ _n_  
 __oppo__ _Oppo researchers._  
 __opt out__ _v_  
 __opulent__  
@@ -6345,6 +6349,7 @@ __portend__ _v_ :six::hammer: (portended) _...may portend a disruption._
 __portent__ _n_ :two::hammer: (portends)  
 __portly__  
 __portmanteau__  
+__portray__ _v_  
 __posh__ _adj_ :three: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
@@ -9291,7 +9296,7 @@ __vindicate__ _v_ :seven::hammer: (vindicated)
 __vindication__ _n_ :six::hammer:  
 __vintner__ _n_  
 __vinyasa__ _n_  
-__viper__ _n_  
+__viper__ _n_ :two::hammer: (vipers)  
 __virtually__ _adv_ :astonished: Practically, almost.  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
@@ -9623,10 +9628,10 @@ __worrywarts__
 __worshiper__  
 __wort__  
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, effort, or interest.  
+__wow__ _v_  
 __wracking__ _v_  
 __wraith__  
-__wrangle__ _v_  
-__wrangling__ _v_  
+__wrangle__ _v_ :two::hammer: (wrangling)  
 __wraparound season__  
 __wreak havoc__  
 __wreaked havoc__  
