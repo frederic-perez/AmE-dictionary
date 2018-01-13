@@ -514,6 +514,7 @@ __all in all,__ _phr_ :three: __1__ Generally; taking everything into account. _
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all that jazz__  
+__all that said,__  
 __all-out__ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
 __allay__ _v_ :four::hammer: (allayed)  
@@ -1528,6 +1529,7 @@ __cake-and-punch__ _The cake-and-punch reception._
 __cakewalk__  
 __calamity__  
 __calf__ _n_  
+__caliber__ _n_  
 __calico__ :two::hammer: _A plain calico coat._  
 __caliph__  
 __caliphate__  
@@ -5941,6 +5943,7 @@ __panhandling__
 __panned out__  
 __panoply__ :two::hammer:  
 __pant__ _v_ :five: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
+__pantalons__ _n_  
 __pantry__ _n_ :three::hammer:  
 __pants down__ :camera: _You might get caught with your pants down._  
 __pants-on-fire__  
@@ -6802,6 +6805,7 @@ __recuse__ _She recused herself._
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red flag__ _Red flag day._  
 __red hot__ :two::hammer: _Now the market is red hot._  
+__red rover__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-eye__ _Catch the red-eye._  
 __redbones__ _n_  
@@ -7053,7 +7057,7 @@ __rood__ _n_ :two::hammer:
 __roofrack__  
 __rooftop__ _n_ :four::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._  
 __room gear__ _Dorm room gear._  
-__room temperature__ _n_  
+__room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
 __rooster__ :two::hammer:  
 __root beer__  
@@ -7350,7 +7354,7 @@ __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, com
 __seesaw<sup>1</sup>__ _n_ :two::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
 __seethe__ _v_ :nine::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
-__segue__  
+__segue__ _v_ :four::pencil2::mega::hammer:  
 __seize__ _v_ :four::hammer: (seizing) _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
 __sekuhata__ Sexual harassment.  
@@ -8926,6 +8930,7 @@ __treat<sup>2</sup>__ _n_
 __treble__ :two::hammer: _A treble hook._  
 __trellis__ _n_ :four::hammer:  
 __trellises__ _From his trellises._  
+__trench coat__ _n_  
 __trepidation__ _n_ :three::hammer:  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
