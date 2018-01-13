@@ -41,7 +41,8 @@ def valid_use_of_underscores(entry):
         return False
     return True
 
-VALID_TAGS = ['three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
+VALID_TAGS = [ \
+    'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
     'hammer', 'm', 'mega', 'nine', 'octocat', 'pencil2', 'seven', 'six']
 
 def valid_tag(tag):
@@ -129,42 +130,46 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
                 + ENDC
     return headword, part_of_speech, tokens[idx+1:]
 
+VALID_PARTS_OF_SPEECH = [ \
+    '', \
+    '_?_', \
+    '_abbr_', \
+    '_adj_', \
+    '_adj, adv_', \
+    '_adj, adv, prep_', \
+    '_adj, n_', \
+    '_adj informal_', \
+    '_adj vulgar slang_', \
+    '_adv_', \
+    '_conj_', \
+    '_fig_', \
+    '_idiom_', \
+    '_interj_', \
+    '_interj slang_', \
+    '_n_', \
+    '_n, adj_', \
+    '_n, v_', \
+    '_n informal_', \
+    '_n phr_', \
+    '_phr_', \
+    '_phr informal_', \
+    '_phr v_', \
+    '_pl n_', \
+    '_prep_', \
+    '_trademark_', \
+    '_v_', \
+    '_v informal_', \
+    '_v intr_', \
+    '_v tr_', \
+    '_v-link phr_' \
+]
+
 def entry_misses_part_of_speech(entry):
+    """This should be called instead entry_including_hammer_tag_misses_part_of_speech"""
     tokens = entry.split()
     do_print = False
-    headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-    # TODO: Improve this
-    if part_of_speech != '' and \
-        part_of_speech != '_?_' and \
-        part_of_speech != '_abbr_' and \
-        part_of_speech != '_adj_' and \
-        part_of_speech != '_adj, adv_' and \
-        part_of_speech != '_adj, adv, prep_' and \
-        part_of_speech != '_adj, n_' and \
-        part_of_speech != '_adj informal_' and \
-        part_of_speech != '_adj vulgar slang_' and \
-        part_of_speech != '_adv_' and \
-        part_of_speech != '_conj_' and \
-        part_of_speech != '_fig_' and \
-        part_of_speech != '_idiom_' and \
-        part_of_speech != '_interj_' and \
-        part_of_speech != '_interj slang_' and \
-        part_of_speech != '_n_' and \
-        part_of_speech != '_n, adj_' and \
-        part_of_speech != '_n, v_' and \
-        part_of_speech != '_n informal_' and \
-        part_of_speech != '_n phr_' and \
-        part_of_speech != '_phr_' and \
-        part_of_speech != '_phr informal_' and \
-        part_of_speech != '_phr v_' and \
-        part_of_speech != '_pl n_' and \
-        part_of_speech != '_prep_' and \
-        part_of_speech != '_trademark_' and \
-        part_of_speech != '_v_' and \
-        part_of_speech != '_v informal_' and \
-        part_of_speech != '_v intr_' and \
-        part_of_speech != '_v tr_' and \
-        part_of_speech != '_v-link phr_' and \
+    _, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+    if (part_of_speech not in VALID_PARTS_OF_SPEECH) and \
         part_of_speech.count(':hammer:') < 1:
         return True
     return False
@@ -172,6 +177,7 @@ def entry_misses_part_of_speech(entry):
 PARTS_OF_SPEECH = ['_adj_', '_adv_', '_n_', '_v_']
 
 def entry_has_displaced_part_of_speech(entry):
+    """Self-explanatory"""
     for part_of_speech in PARTS_OF_SPEECH:
         if entry.count(part_of_speech) == 1:
             return entry.count('__ ' + part_of_speech) != 1
@@ -327,7 +333,8 @@ class Checker(object):
         else:
             print '\nSummary of issues found'
             print '-----------------------'
-            print_colored("Entries with displaced part of speech", self.num_displaced_part_of_speech)
+            print_colored("Entries with displaced part of speech", \
+                self.num_displaced_part_of_speech)
             print_colored('Entries with invalid ending', self.num_invalid_endings)
             print_colored('Entries with invalid use of underscores', \
                 self.num_invalid_use_of_underscores)
