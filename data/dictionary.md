@@ -2164,7 +2164,7 @@ __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially a
 __cozened__ _v_  
 __cozy__  
 __crab lice__ _n_  
-__crack__ _v_ _He cracked 90 mph on the radar gun._  
+__crack__ _v_ :two::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
 __crackers__  
@@ -3600,6 +3600,7 @@ __fumitory__
 __fun house__ _n_  
 __funereal__ _Funereal tone._  
 __funk__ _n informal_ :seven: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
+__funny stomach__  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :two: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
@@ -4472,7 +4473,7 @@ __in-depth__ _He will conduct an in-depth review._
 __in-house__ _In-house experts._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._  
 __inadvertent__ :two::hammer:  
-__inane__ _adj_ :three::hammer:  
+__inane__ _adj_ :four::hammer:  
 __inarguably__ :pencil2:  
 __inarticulate__ :two::hammer: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
@@ -5829,7 +5830,7 @@ __outgoing__
 __outgrowth__  
 __outgunned__  
 __outhouse__  
-__outing__ _n_ :six::hammer: (outings)  
+__outing__ _n_ :seven::hammer: (outings)  
 __outlandish__ _adj_ :nine: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlay__ _Budget outlays._  
@@ -8427,7 +8428,7 @@ __sump pump__
 __sump__ _n_ :two::hammer:  
 __sunder__ _v_ :two::hammer:  
 __sundered__ _v_  
-__sundown, sunup__ _n_ :two: Sunset, sunrise. _He works sunup to sundown._  
+__sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
 __sundry__  
 __sunken__  
 __suntan__ _n_  
