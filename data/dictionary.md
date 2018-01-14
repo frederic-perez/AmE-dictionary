@@ -4513,7 +4513,7 @@ __inequitable__
 __inequities__  
 __inextricably__ :two::hammer:  
 __infallibity__  
-__infamous__ _adj_ :seven::hammer: _Princess Leia's infamous dual-bun hairstyle._  
+__infamous__ _adj_ :seven: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__  
 __infant__ _n_  
 __infighting__ :two::hammer:  
@@ -5857,7 +5857,7 @@ __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._
 __outsize__ :two::hammer: _An outsize risk._  
 __outsmart__ _v_  
 __outspend__ _v_  
-__outspoken__ _adj_ :seven::hammer::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
+__outspoken__ _adj_ :seven::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstripped__ _v_  
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
