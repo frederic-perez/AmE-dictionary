@@ -1940,7 +1940,8 @@ __colic__ _n_
 __collapsible__ _Collapsible shutters._  
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
-__collusion__ _n_ :four::hammer:  
+__collude__ _v_  
+__collusion__ _n_ :five::hammer:  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
@@ -3599,7 +3600,7 @@ __fumed__ _v_
 __fumitory__  
 __fun house__ _n_  
 __funereal__ _Funereal tone._  
-__funk__ _n informal_ :seven: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
+__funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funny stomach__  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :two: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
@@ -4198,7 +4199,7 @@ __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting to
 __hex key set__ _Allen key set?_  
 __hex-breaking__ _Looking for a hex-breaking sign._  
 __hey__  
-__heyday__ _n_ :four::hammer:  
+__heyday__ _n_ :five::hammer:  
 __hi-rail truck__ _n_ :camera:  
 __hibachi__  
 __hick__  
