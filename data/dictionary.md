@@ -5617,7 +5617,7 @@ __nip<sup>1</sup>__ _v_ :four::hammer: (nipped, nipping) _Nip them in the bud._ 
 __nip<sup>2</sup>__ _n_ _There is a nip in the air._  
 __niqab__ _v_  
 __nitpick<sup>1</sup>__ _n_  
-__nitpick<sup>2</sup>__ _v_ :seven::hammer: (nitpicked, nitpicking)_They will find something to nitpick at you._ _Nitpicking rules._  
+__nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
 __nitty gritty__  
@@ -5936,7 +5936,7 @@ __pan drippings__ :two::hammer:
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
 __panache__ :two::hammer:  
-__pander__ _v_ :seven::hammer: (panders, pandering)  
+__pander__ _v_ :seven: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__  
 __pang__ _n_  
 __pangs__ :two::hammer:  
