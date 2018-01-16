@@ -1969,7 +1969,8 @@ __commendation__ _He earned two commendation medals._
 __commendations__ _n_  
 __commentary__  
 __commingled__ :two::hammer:  
-__commission__ _v_ :astonished::seven::hammer: (commissioned) _Commissioned portraits._  
+__commission<sup>2</sup>__ _n_  
+__commission<sup>1</sup>__ _v_ :astonished::seven: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __committal__ _A committal graveside service will be held for the family._  
 __commode__  
 __commodious__  
@@ -3433,7 +3434,7 @@ __flushed complexion__
 __fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
-__flutter__ _v_ :seven::hammer: (fluttered, flutters, fluttering) _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._  
+__flutter__ _v_ :seven: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
 __fluttering__ _n_  
 __fly on the wall__  
 __fly-by-night__  
