@@ -260,7 +260,7 @@ __PE__ _There were a lot of students in there ready for a PE class._
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __PO__ Parole officer?  
 __PPD__ Postponed. _(sporting events)_  
-__PTSD__  
+__PTSD__ _abbr_ :two: Post-traumatic stress disorder.  
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __Pacific Basin__ _Pacific Basin nations._  
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
@@ -497,6 +497,7 @@ __air cast__ _n_ :two::hammer::camera:
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __airball__ _n_ :three: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airburst__ _n_  
+__airtight__ _adj_ __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
 __akin to__  
 __akin__ :two::hammer:  
@@ -1578,7 +1579,7 @@ __canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)
 __cantilevered__  
 __canvass__ :astonished:  
 __cap<sup>1</sup>__ _n_ (hat?)  
-__cap<sup>2</sup>__ _v_ :eight: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
+__cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
@@ -1969,8 +1970,8 @@ __commendation__ _He earned two commendation medals._
 __commendations__ _n_  
 __commentary__  
 __commingled__ :two::hammer:  
-__commission<sup>2</sup>__ _n_  
 __commission<sup>1</sup>__ _v_ :astonished::seven: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
+__commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
 __commode__  
 __commodious__  
@@ -2587,7 +2588,7 @@ __disastrous__
 __disavowed__ _v_  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
-__discharge__ _v_ :five::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?)  
+__discharge__ _v_ :six::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?)  
 __discombobulate__ _v_ :pencil2:  
 __discontinued__ _v_  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
@@ -2915,7 +2916,7 @@ __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._
 __edict__  
 __educated guess__ _n_ :two::hammer:  
 __eel__  
-__eerie__ _n_ :three::hammer:  
+__eerie__ _n_ :four::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
@@ -4127,7 +4128,7 @@ __header__ _He scored with a header._
 __headiest__  
 __headstone__  
 __headway > make headway__ :hammer::two: _Secetary Kerry has made headway against the odds._  
-__headwind__ _n_ :six: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
+__headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ :two::hammer:  
 __health condition__  
 __hearing__ _law_  
@@ -4171,6 +4172,7 @@ __hefted up__
 __hefty__  
 __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heirloom__ _n_ :four::hammer: _Family heirlooms._  
+__heisenbug__ _n_  
 __heist capers__  
 __heist__ :two::hammer: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
@@ -6158,6 +6160,7 @@ __piling__ _v_ _There's a lot of investors piling in._
 __pilings__ _A deserted cabin built on pilings._  
 __pillbox hat__ :two::hammer:  
 __pillbox__ _A plum-colored pillbox hat._  
+__pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pin-curled__  
 __pin-drop silence__  
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
@@ -6973,7 +6976,7 @@ __rickets__
 __rickety__ _adj_ :seven::hammer: _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
-__ricochet__ _v_ :two::hammer:  
+__ricochet__ _v_ :mega::three::hammer:  
 __riddance__ _n_ :three::hammer:  
 __riddle<sup>1</sup>__ _n_ :three::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
@@ -7848,7 +7851,7 @@ __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, 
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :four::dart: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarky__ _Snarky remarks._  
+__snarky__ _adj informal_ :dart::two: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
 __snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl<sup>2</sup>__ _v_ :nine: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarl__ _adj_ _Snarled airport._  
@@ -8128,6 +8131,7 @@ __staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms.
 __stairwell__ _n_:three::camera::hammer:  
 __stakeholder__  
 __stakeouts__ :two::hammer:  
+__stakes__ _n_  
 __stale antiperspirant__  
 __stale__ _adj_ :four::hammer: _The stale remains of a cup of coffee._  
 __staler__ _The air in the place grew staler._  
@@ -8355,6 +8359,7 @@ __strung__ _v_
 __strut__ _v_ :four: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
 __stub__ _n_ :three::hammer: _The stubs of cold-withered grass._  
 __stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. _The sugarcane stubble._ _Smoke from a distant stubble fire._ __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving.  
+__stubborn__ _adj_  
 __stubby__ :two::hammer: _Stubby fingers._  
 __stuck a chord__  
 __stuck-up__  
@@ -9378,6 +9383,7 @@ __wardrobe__ _n_ s_Left Bank wardrobe._
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
 __wares__ _n_ :two::hammer: _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
+__warhead__ _n_  
 __warily__  
 __wariness__  
 __warlocks__  
