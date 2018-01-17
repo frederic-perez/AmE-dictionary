@@ -6362,7 +6362,7 @@ __portray__ _v_
 __posh__ _adj_ :three: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
-__possum__ _n_ :seven::hammer: _To play possum._ _He'd been playing possum._  
+__possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
 __post hoc__  
 __poster boy__ :two::hammer:  
 __poster child__ _n_ :three::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
@@ -6735,7 +6735,8 @@ __rare__
 __rarefied__  
 __raring__  
 __rascal__  
-__rash__ _n_ :seven::hammer: (rashes) _A rash of oil problems._ _A rash of promotions._ _Discussing diaper rashes whith fifteen-year-old mothers._ _Skin rashes._  
+__rash<sup>2</sup>__ _adj_  
+__rash<sup>1</sup>__ _n_ :seven: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
 __rasp__ _v_  
 __rat-fuck__ _v_  
 __ratched__  
