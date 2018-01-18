@@ -969,6 +969,7 @@ __bellum__ _Post-bellum years._
 __bellwether__ _n_ :two::hammer:  
 __belly-flop__  
 __belt out__  
+__belt socket__ _n_  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, "We are tired!"_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
@@ -3185,6 +3186,7 @@ __fastness__
 __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fathom__ _v_ :four::hammer:  
 __fatigue__  
+__fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
 __fatwa__ _n_ :two: Religious edict.  
 __faulty__ :dart: _Faulty software._  
@@ -6735,13 +6737,13 @@ __rare__
 __rarefied__  
 __raring__  
 __rascal__  
-__rash<sup>2</sup>__ _adj_  
 __rash<sup>1</sup>__ _n_ :seven: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
+__rash<sup>2</sup>__ _adj_  
 __rasp__ _v_  
 __rat-fuck__ _v_  
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
-__ratchet__ _n_  
+__ratchet__ _n_ :two::hammer:  
 __rattan couch__  
 __rattan__  
 __rattle__ _v_ :seven::hammer: (rattled) _Rattle the world._  
@@ -7620,8 +7622,7 @@ __signet ring__
 __siitting duck__  
 __sill__ :two::hammer:  
 __silly boy__  
-__silo__ _n_ :two::hammer: _A silo-launched missile._  
-__silt__ _n_ :three::hammer:  
+__silo__ _n_ :six::hammer: _A silo-launched missile._  
 __silver lining__  
 __silverplate__ _v_  
 __simmer down__  
@@ -9655,7 +9656,8 @@ __wreath<sup>1</sup>__ _n_ :three: (wreaths) _Funeral wreath._ :es: corona
 __wreath<sup>2</sup>__ _v_ _A wreathed sword._  
 __wreck__ _v_  
 __wrecking ball__  
-__wrench__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
+__wrench<sup>2</sup>__ _n_ (monkey wrench)  
+__wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
 __wrenching__ _adj_ _A wrenching prospect._  
 __wretch__ _?_ _The lowliest wretch among them._  
 __wretched__  
