@@ -395,6 +395,7 @@ __aboveboard__
 __abrade__ _v_  
 __abreast__ _adv_ :four: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abrogation__ :two::hammer:  
+__abruptly__  
 __abs__ _Six-pack abs._  
 __absconded__ _v_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
@@ -433,6 +434,7 @@ __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics 
 __acuity__  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad-lib__ _v_ (ad-libs) :two::hammer:  
+__ad__ _n informal_ Advertisement.  
 __adage__ :two::hammer:  
 __adamant__  
 __add up__  
@@ -1031,6 +1033,7 @@ __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that 
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big time__  
+__big yes__  
 __big-box stores__ :camera::hammer:  
 __big-gulper__ _America's big-gulpers._  
 __bigger than life__  
@@ -2062,7 +2065,7 @@ __contend__ _v_ :three::hammer: (contended)
 __content__  
 __contention__ _n_ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__ _adj_ :six: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
-__contextualize__ _v_ :dart:  
+__contextualize__ _v_ :dart::two:  
 __contiguous > the contiguous U.S.__  
 __continence__  
 __contingency plan__ :two::hammer:  
@@ -3203,6 +3206,7 @@ __fearl__ _A fearl youngster._
 __feasible__ _adj_  
 __feast__ _v_ :two::hammer:  
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
+__feature-length__ _A feature-length animation._  
 __feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __featuring__  
 __feckless__ _adj_ :three::hammer:  
@@ -3297,6 +3301,7 @@ __fire irons__
 __fire retardant__  
 __fire sale__ _n_ :three::hammer:  
 __firebrand__  
+__firebug__ _n_  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __first and foremost__  
@@ -4417,6 +4422,7 @@ __ides__ _n_
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __idolatry__ :two::hammer:  
 __idylic__ :pencil2:  
+__ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if you will__ :astonished:  
 __iffy__ :two::hammer: _Iffy call._  
@@ -6772,7 +6778,7 @@ __razor strop__
 __razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
 __razzle-dazzle__ :two::hammer:  
 __reach for the stars__ Have high or ambitious aims.  
-__reach out__ _v_ :five::hammer: _Reaching out to prevent aids._  
+__reach out__ _v_ :six::hammer: _Reaching out to prevent aids._  
 __readily__  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
@@ -9656,8 +9662,8 @@ __wreath<sup>1</sup>__ _n_ :three: (wreaths) _Funeral wreath._ :es: corona
 __wreath<sup>2</sup>__ _v_ _A wreathed sword._  
 __wreck__ _v_  
 __wrecking ball__  
-__wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
+__wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrenching__ _adj_ _A wrenching prospect._  
 __wretch__ _?_ _The lowliest wretch among them._  
 __wretched__  
