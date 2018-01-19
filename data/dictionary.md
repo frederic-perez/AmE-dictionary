@@ -4169,10 +4169,10 @@ __hectic__ _adj_ :four::hammer:
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedonic__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
-__heed__ _v_ :seven::hammer: _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
+__heed__ _v_ :seven: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__  
 __heedlessly__  
-__heel<sup>1</sup>__ _A heel who learns how to be a good egg._  
+__heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
 __heel<sup>2</sup>__ _v_  
 __heft__ _n_ :two::hammer:  
 __hefted up__  
@@ -5842,7 +5842,7 @@ __outgoing__
 __outgrowth__  
 __outgunned__  
 __outhouse__  
-__outing__ _n_ :seven::hammer: (outings)  
+__outing__ _n_ :seven: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
 __outlandish__ _adj_ :nine: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlay__ _Budget outlays._  
