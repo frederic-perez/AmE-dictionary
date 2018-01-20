@@ -1377,7 +1377,7 @@ __buck private__ _He served his country as a buck private in Korea._
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
 __buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _Many officers bucked the chain of command._  
 __buckeyes__  
-__buckle down (to something)__ _v informal_ :two: To start to do something seriously: _I'd better buckle down to those reports._  
+__buckle down (to something)__ _v informal_ :three: To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
 __buckle__ _v_ :nine::m: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::hammer:  
@@ -1797,7 +1797,7 @@ __chortles__ _v_
 __chuck out__ _v_  
 __chuck__ _v_ :five::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckholes__ _n_  
-__chuckle__ _v_  
+__chuckle__ _v_ :two::hammer:  
 __chucklers__  
 __chug__ _v_ :three::hammer: _A cocktail to chug._ _We're chugging along._  
 __chum__ _n_ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
@@ -2985,7 +2985,7 @@ __empty-net/power-play/short-handed goal__
 __emulsified__ _v_  
 __en masse__ :two::hammer: _Cruz supporters are going to bolt to Rubio en masse._  
 __en-suite bath__  
-__enact__ _v_ :eight: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
+__enact__ _v_ :nine: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enactment__  
 __enamel__ :two::hammer:  
 __enamored__  
@@ -3079,6 +3079,7 @@ __evict__ _v_ :seven: (evicted) To force out or expel, especially to remove (a t
 __eviction__ :two::hammer:  
 __evince__ _v_ :four::hammer: _To evince an interest in politics._ _She didn't evince surprise._  
 __eviscerate__ _v_  
+__evolve__ _v_  
 __ewer__ _n_  
 __ewes__ _n_  
 __exacerbate__ _v_ (exacerbated, exacerbating) :four: Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
@@ -4742,10 +4743,12 @@ __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, 
 __kickback schemes__  
 __kickbacks__ _n_  
 __kickoff__ _The kickoff of the shopping season._  
+__kid__ _n_ _I was a Nintendo kid._  
 __kiddo__  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
 __kike__ _Kike names._  
 __kiki__  
+__kill a mockingbird__ _It was like killing a mockingbird._  
 __kill clock__ _v_  
 __kill__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
@@ -6035,6 +6038,7 @@ __pavilion__ _n_
 __pavilions__  
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
+__pay off__ _v_  
 __payback__  
 __paydirt__ :two::hammer:  
 __payoffs__ _n_  
@@ -6931,6 +6935,7 @@ __resounding__
 __respite__ _n_ :six: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __resplendent__  
 __respondent__ _n_ :three::hammer: (respondents)  
+__responsibility__ _With great power comes great responsibility._  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :three::hammer:  
@@ -7384,6 +7389,7 @@ __sellout__ (sold out)
 __sellouts__ _There have been no sellouts._  
 __sellsworth__ _n_  
 __semester__ A semester is half of a school year. In September of your first year of high school, you could describe yourself as "a first-semester freshman." The noun semester comes up often when you're in high school and college. It's an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant "six months," from the Latin root of the same meaning, semestris.  
+__seminal__ _adj_ _That was a seminal game._  
 __seminoles__  
 __sendup__ _v_ _A sendup of the genre._  
 __sensible__ _This C++ contructor has sensible default values._  
@@ -7526,6 +7532,7 @@ __shoot-from-the-hip__
 __shootaround__ _n_ :four::hammer: (basketball)  
 __shooting gallery__  
 __shootout__ _n_ __1a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
+__shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
@@ -8752,6 +8759,7 @@ __throw a monkey off his back__
 __throw in the towel__ :two::hammer:  
 __throw out the red meat__  
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
+__throw up__ _I might throw up._  
 __throwback__ _Throwbavck uniform._  
 __throws__ _n_  
 __thrum__  
@@ -9102,6 +9110,7 @@ __unapologetic__ _adj_ :five::hammer:
 __unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__uncanny valley__  
 __uncouth__  
 __uncrating__  
 __unction__ _n_  
