@@ -7748,8 +7748,8 @@ __slid__ _v_ :two::hammer:
 __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slide<sup>2</sup>__ _v_  
 __slider__ _n_ :three::hammer: _What's up with someone's slider?_  
-__slight__ _n_ :seven::hammer: _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
-__slighted__ _v_ :two::hammer:  
+__slight<sup>1</sup>__ _v_ :two: (slighted) To treat with disdain or indifference; to snub.  
+__slight<sup>2</sup>__ _n_ :seven: A humiliating affront. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slightly-built__ _The slightly-built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__  
@@ -7768,9 +7768,8 @@ __slit<sup>2</sup>__ _v_ :four::hammer: (slitting) _Slitted door._ _The screen w
 __slither__ _v_  
 __slithering__ :two::hammer:  
 __sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
-__sliver<sup>1</sup>__ _n_ :seven::hammer: _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
+__sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :four::hammer:  
-__sliver__ _n_ :four::hammer: _A sliver of chicken._ _Slivers of salmon._  
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
 __slobby__  
