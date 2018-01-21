@@ -1032,7 +1032,7 @@ __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or conse
 __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
-__big time__  
+__big time__ :two::hammer:  
 __big yes__  
 __big-box stores__ :camera::hammer:  
 __big-gulper__ _America's big-gulpers._  
@@ -2430,6 +2430,7 @@ __decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle's most 
 __decreed__ _v_  
 __decrepit__  
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
+__dedication__  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
@@ -4040,6 +4041,7 @@ __handily__
 __handiwork__ :two::hammer:  
 __handoff__  
 __handout__ _n_ :four::hammer: (handouts)  
+__hands down__ _Hands down, best episode ever._  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _The hands-off approach._  
@@ -4397,6 +4399,7 @@ __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Libr
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
+__hustle__ _v_  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __hyacinth__ :pencil2:  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
@@ -4535,6 +4538,7 @@ __infinity-edge__ _An infinity-edge swimming pool._
 __infirm__ _adj_  
 __influence-peddling__ _n_ :three::hammer:  
 __influenza__  
+__infomercial__ _n_  
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
@@ -6908,7 +6912,7 @@ __renown__
 __rent metal__  
 __rent__ _v_ _The elkhound's hound was rent._  
 __rents__ _n_  
-__rep__ Reputation?  
+__rep__ _abbr_ :two::hammer: _You have to do thousands of reps to reach such level._  
 __repeal<sup>1</sup>__ _n_  
 __repeal<sup>2</sup>__ _v_  
 __repealing__  
@@ -6927,8 +6931,10 @@ __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __rescinded__ _v_  
+__residency__ _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resiliency__  
+__resilient__ _adj_  
 __resistance__  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__  
@@ -7385,6 +7391,7 @@ __self-righteous__
 __self-steem__  
 __selfless__  
 __selfsame__  
+__sell out__  
 __sellout__ (sold out)  
 __sellouts__ _There have been no sellouts._  
 __sellsworth__ _n_  
@@ -9377,6 +9384,7 @@ __waivers__ _n_
 __wake__ _n_ _At wakes._  
 __walk in sunshine__  
 __walk on water__  
+__walk the walk__  
 __walk-on__ :two::hammer:  
 __walk-through__ :es: precalentamiento (?)  
 __walkabout__  
