@@ -2849,7 +2849,7 @@ __duckweed__
 __duct__ _They damaged a very large AT&T phone duct._  
 __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
-__due diligence__ _n_ :seven::hammer: _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
+__due diligence__ _n_ :seven: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due__ :two::hammer: _They travelled due south._  
 __duffel bag__ :two::hammer:  
 __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
@@ -7882,7 +7882,7 @@ __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dres
 __sneaker__ _Sneaker companies._  
 __sneer__ _v_  
 __snick__ _v_  
-__snicker<sup>1</sup>__ _v_ :seven::hammer: (snickers, snickered, snickering)  
+__snicker<sup>1</sup>__ _v_ :seven: (snickers, snickered, snickering) To laugh quietly and in a way that is not nice at something which is not supposed to be funny.  
 __snicker<sup>2</sup>__ _n_ _The first question set off snickers on the audience._  
 __snide__  
 __sniffed__ _v_ :two::hammer:  
