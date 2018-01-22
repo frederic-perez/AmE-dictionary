@@ -234,6 +234,7 @@ __N-fold__ _It provides a 20-fold increase in device lifetime than what is curre
 __N/A__ Not available.  
 __NATO__ _North Atlantic Treaty Organization_  
 __NCO__  
+__NDA__ _abbr_  
 __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
 __Narcan__ _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
 __Nat Geo__ National Geographic.  
@@ -669,6 +670,7 @@ __ash borers__ _Emerald ash borers._
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __aside__ _First, a personal aside._  
 __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asinine for us._ _Asinine questions._  
+__ask out__ _v_  
 __asp__ _n_  
 __aspen__  
 __aspersion__ _n_  
@@ -750,6 +752,7 @@ __back away__
 __back breaker__  
 __back burner__  
 __back country__ _n_  
+__back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back out__ _v_ :two::hammer:  
 __back up__ _v_ _Traffic will back up as if two lanes were blocked._  
@@ -1088,7 +1091,7 @@ __blanketed__ _v_ :five::hammer: (blanketing)
 __blasé__  
 __blatant__  
 __blather__  
-__blaze of glory__  
+__blaze of glory__ :two::hammer:  
 __bleached blonde hair__  
 __bleached__ _Warm waters bleached the coral._  
 __bleaching__ :two::hammer: _Steven called the bleaching a tragedy._  
@@ -1595,6 +1598,7 @@ __cappie__ _n_
 __caprice__  
 __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.  
 __capstone__ _n_  
+__captain__ _v_  
 __captaincy__  
 __carabiner__ _n_ :camera::two::hammer:  
 __carapaces__ _n_  
@@ -1700,6 +1704,7 @@ __cesspool__ _n_ :four::hammer: _The journalist cesspool._
 __chads__ _n_  
 __chafe__ _v_ :six::hammer: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafed__ _v_  
+__chafer__ _n_  
 __chaffed__ _v_  
 __chafing__ _v_  
 __chagrin<sup>1</sup>__ _n_ :seven: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
@@ -3386,7 +3391,7 @@ __flimflam__ _n_ :dart::two::hammer:
 __flimsy__  
 __flinch<sup>1</sup>__ _n_  
 __flinch<sup>2</sup>__ _v_ :four: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
-__fling__ _v_ :five::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__fling__ _v_ :six::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __flint__ _n_  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
@@ -4602,6 +4607,7 @@ __ivy__ :two::hammer: :es: hiedra
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
+__jack it up__ _v_  
 __jack-o'-lantern__  
 __jackhammer__  
 __jackpot__  
@@ -4768,8 +4774,8 @@ __kindred<sup>2</sup>__ _adj_
 __kine__ _n_  
 __king of the hill__  
 __kingdom come__ _informal_ __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
+__kink__ _n_ :three::hammer (kinks) _I was getting the kinks out._  
 __kinked__ _v_  
-__kinks__ :two::hammer: _I was getting the kinks out._  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
 __kiosk__ _n_ :camera::two::hammer: _Automated Passport Control kiosks._ _Target's in-store registry kiosks._  
@@ -6143,6 +6149,7 @@ __photo-op__
 __phylacteries__ :two::hammer:  
 __piano wire__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
+__pick me out__  
 __pick on__  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket's kiosk._ _His turnover-prone play doesn't pick up._  
 __pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
@@ -8585,6 +8592,7 @@ __take a shit__ _v_
 __take a stand__  
 __take by storm__  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
+__take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
 __take wing__ _Then again, my thoughts took wing._  
 __takeout containers__  
@@ -9201,6 +9209,7 @@ __unwieldy__
 __unwilling__ _Unwilling medical director._  
 __unwind__ _v_  
 __unwittingly__ :two::hammer:  
+__unyield__ _v_  
 __unyielding__ :two::hammer:  
 __up and running__  
 __up-and-comer__  
