@@ -466,9 +466,16 @@ class Game(object):
         for line in input_file:
             entry = line.replace('\n', '')
             if entry_has_tag_of_any_number(entry, 2, 9):
+                num_additions = 0
                 for i in range(10, 1, -1):
                     if entry_has_tag_of_number(entry, i):
                         self.list[get_index(i)] += [entry]
+                        if i == 10:
+                            break # to avoid adding to lists :nine::m: and :nine:
+                        num_additions += 1
+                        if num_additions > 1:
+                            print FAIL + entry \
+                                + ' <<< Too many numeric tags' + ENDC
 
         input_file.close()
         print OKCYAN + '\nSummary of high frequency headwords'
