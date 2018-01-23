@@ -3269,7 +3269,7 @@ __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with reg
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__  
-__field__ _v_ (fielded, fielding) __1__ :two: _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ :two: Send out (a team or individual) to play in a game. __3__ :three: Answer adequately or successfully. _To field questions._ _Fielding emails._  
+__field__ _v_ :seven: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._  
 __fierce__ :two::hammer:  
 __fiery__  
 __fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
@@ -3379,7 +3379,7 @@ __flay__ _v_
 __flayed__ _v_  
 __fleck__ _n_  
 __fledging__  
-__fledgling__ _adj_ :seven::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ :two: A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
+__fledgling__ _adj_ :nine::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __fleece__ _v_ :four::hammer: (fleeced)  
 __fleecy__  
 __fleeting__  
