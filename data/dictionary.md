@@ -418,6 +418,7 @@ __accoutrements__
 __accretion__  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
+__acetate__ _n_  
 __acolytes__ :two::hammer:  
 __acorn__ _n_ :two: _The acorn don't fall far from the tree._ :es: bellota  
 __acqua boots (or Acqua boots or something similar?)__ _n_  
@@ -445,6 +446,7 @@ __adhesive__ _Double-stick adhesive strips._
 __adjourne__ _v_ _The trip was adjourned to Feb. 1._  
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
+__adjuvant__ _adj_ _The adjuvant setting._  
 __admonition__ _n_ :five: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
 __adroit__  
@@ -1618,6 +1620,7 @@ __carnage__ :two::hammer:
 __carnation__ _n_ :pencil2: :two: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
 __carol__ _v_ (caroling) (vs Christmas carol)  
+__carolers__ _n_  
 __carom__ _v_  
 __caromed__ _v_ :three::hammer: (caroming)  
 __caroms__  
@@ -1769,7 +1772,7 @@ __chicken wire__
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chicklit__ _A chicklit satire._  
 __chided__ _v_ :six::hammer: (chiding) _Whe chided the Pentagon._  
-__chilblain__ _n_ :two: (chilblains) An inflammation followed by itchy irritation on the hands, feet, or ears, resulting from exposure to moist cold. :es: sabañones  
+__chilblain__ _n_ :three: (chilblains) An inflammation followed by itchy irritation on the hands, feet, or ears, resulting from exposure to moist cold. :es: sabañones  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chiming__ :two::hammer:  
@@ -1811,6 +1814,7 @@ __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out 
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
+__churn__ _v_  
 __chutneys__  
 __cigar__ _n_ :mega:  
 __cigarillos__ :pencil2::camera::two::hammer:  
@@ -2070,7 +2074,7 @@ __contend__ _v_ :three::hammer: (contended)
 __content__  
 __contention__ _n_ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__ _adj_ :six: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
-__contextualize__ _v_ :dart::two:  
+__contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
 __continence__  
 __contingency plan__ :two::hammer:  
@@ -3553,6 +3557,7 @@ __fracking__ Hydraulic fracturing.
 __frags__ _n_ _They taped frags to the tops of the drums._  
 __frail__  
 __frame grab__  
+__frame__ _v_ _He framed Roger Rabbit._  
 __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
 __franchise__ _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
@@ -3758,6 +3763,7 @@ __gins__ _He passed cotton gins._
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __giridon__  
+__give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __gladdened__  
 __gladed__ _Gladed terrain._  
@@ -5604,6 +5610,7 @@ __nefarious__ _adj_ :three::hammer:
 __neighed__ _v_  
 __neighing__ _v_  
 __nematodes__  
+__neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._  
 __neorealist__  
 __neoteric__  
 __nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
@@ -6625,7 +6632,8 @@ __putdowns__
 __putt__ _Jason missed a 5-foot par putt._  
 __putter__ _v_ :three::hammer: (puttered)  
 __putting aside__  
-__putty__ _n_ :five::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._  
+__putty knife__ :es: espátula  
+__putty__ _n_ :six::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __pylon__ _n_  
 __pyres__ _n_  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
@@ -6765,6 +6773,7 @@ __rat-fuck__ _v_
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __ratchet__ _n_ :two::hammer:  
+__rationales__ _n_ _It has four main rationales._  
 __rattan couch__  
 __rattan__  
 __rattle__ _v_ :seven::hammer: (rattled) _Rattle the world._  
