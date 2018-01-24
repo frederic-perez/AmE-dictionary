@@ -95,6 +95,7 @@ __Dickensian__
 __Do your magic__ _idiom_  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __Doc__  
+__Draconian__ _adj_  
 __ED prescription__  
 __EKG__  
 __ELIA5__ Explain Like I Am 5.  
@@ -725,6 +726,7 @@ __audacity__
 __audible__ _v_  
 __august__ _adj_  
 __aum__  
+__austere__  
 __autoclaving__  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__  
@@ -940,7 +942,7 @@ __beggar__ _n_
 __begrudge__ _v_ :three::hammer:  
 __beguile__ _v_ :four::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
-__behemoth__ _n_ :four: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
+__behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ :two::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
@@ -955,7 +957,7 @@ __bejeezus__ _In her telling, this "they" of hers is scaring the bejeezus out of
 __bejeweled__ _v_  
 __belabor__  
 __belaboring__  
-__belate__ _v_ (belated) :four::hammer:  
+__belate__ _v_ :five::hammer: (belated)  
 __belatedly__ :two::hammer:  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
@@ -2335,7 +2337,7 @@ __curry__ _v_ :four::hammer: _A blatant effort to curry favor._
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :three: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _His curt answer._  
-__curtail__ _v_ :eight: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
+__curtail__ _v_ :nine: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
 __curtailment__  
 __curtly__  
 __curveball__ _informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
@@ -2537,6 +2539,7 @@ __detente__
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
 __deterrent__ _n_ :five: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__detour__  
 __detractor__  
 __detritus__ _n_  
 __devil-may-care style__  
@@ -3840,6 +3843,7 @@ __gosling__ _?_ _An errant gosling._
 __gouge__ _v_ :five::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __gout__  
+__grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_  
 __gracial pace__ _?_ _At a glacial pace._  
 __gracious__ _adj_ :two::hammer:  
@@ -4093,7 +4097,7 @@ __harebrained__
 __hares__ _n_  
 __hark__ _v_ :two::hammer: (harking)  
 __harmonize__ _v_  
-__harness__ _v_ _Harnessing big data._  
+__harness__ _v_ :two::hammer: _Harnessing big data._  
 __harp__ _v_ _She told her she was always harping on him._  
 __harping__ _v_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
@@ -4561,7 +4565,7 @@ __injury time__
 __injury-marred__ _Federer had an injury-marred season._  
 __inkling__ _n_ :three::hammer:  
 __innumerate__  
-__inordinate__ :two::hammer:  
+__inordinate__ _adj_ :three::hammer:  
 __inordinately__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__  
@@ -7009,7 +7013,7 @@ __ribbed__ _v_ :two::hammer:
 __ribbing__ :two::hammer:  
 __riches__ _n_ :four: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
-__rickety__ _adj_ :seven::hammer: _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._  
+__rickety__ _adj_ :eight::hammer: _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet__ _v_ :mega::three::hammer:  
@@ -9133,7 +9137,7 @@ __unapologetic__ _adj_ :five::hammer:
 __unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
-__uncanny valley__  
+__uncanny valley__ :two::hammer:  
 __uncouth__  
 __uncrating__  
 __unction__ _n_  
