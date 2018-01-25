@@ -5243,8 +5243,7 @@ __marksman__ _n_
 __markup__ _n_ :five::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
 __marmalade__  
 __marooned__ _He felt marooned by the silence._  
-__marquee events__  
-__marquee__ _n_ __1__ :four: A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ :five: Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._  
+__marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
@@ -5381,7 +5380,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
-__minnow__ _n_ :three::hammer: (minnows) :two::hammer:  
+__minnow__ _n_ :five::hammer: (minnows)  
 __minor__ _n_  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
