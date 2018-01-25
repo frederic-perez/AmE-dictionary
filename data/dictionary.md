@@ -348,6 +348,7 @@ __Then again,__
 __Thursday__ :mega: /'θøzdi, -deI/  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __Tijuana special__  
+__Tirolean__  
 __To this day,__  
 __Tokyoites__  
 __Tribeca__  
@@ -4915,6 +4916,7 @@ __layoff__
 __layover__ _n_ :dart::two: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_  
 __layups__  
+__laziness__ :pencil2:  
 __lb.__ _Sold in pkgs. of 3 lbs. or more._  
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
@@ -5571,7 +5573,7 @@ __myriad__ :two::hammer:
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __mysteries__ _n_ :pencil2:  
-__mysterious__ :pencil2:  
+__mysterious__ _adj_ :two::pencil2:  
 __mystery train__  
 __mystique__ :pencil2:  
 __mythos__ :two::hammer:  
@@ -6506,7 +6508,7 @@ __pro bono__ :two::hammer: _Pro bono consultant._
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __probation__ _A person has ben sentenced to probation._  
 __probity__  
-__proceeds__ _n_ :six::hammer: _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
+__proceeds__ _n_ :seven::hammer: _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod__ (prodded) :two::hammer: :es: _empujón_  
@@ -7461,7 +7463,7 @@ __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
 __shale<sup>3</sup>__ _v_  
 __sham<sup>1</sup>__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
-__sham<sup>2</sup>__ _n_  
+__sham<sup>2</sup>__ _n_ :two::hammer:  
 __shambled__ _v_ :two::hammer:  
 __shambles__ :two::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
@@ -8036,6 +8038,7 @@ __speck__ :two::hammer: _A speck of blood._
 __speckled__ _v_  
 __specs__ _n_ :two: Spectacles, glasses.  
 __speculate__ _v_  
+__speculoos__ _Speculoss Belgian biscuits._  
 __speed demon__  
 __speed-dial__ _v_  
 __spell__  
