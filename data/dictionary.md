@@ -473,6 +473,7 @@ __affront__
 __afield__  
 __afloat__  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
+__aforemention__ _v_  
 __afoul__ :two::hammer:  
 __aft__  
 __aftereffects__  
@@ -4551,7 +4552,7 @@ __infant__ _n_
 __infighting__ :two::hammer:  
 __infinity pool__ :camera:  
 __infinity-edge__ _An infinity-edge swimming pool._  
-__infirm__ _adj_  
+__infirm__ _adj_ :two::hammer:  
 __influence-peddling__ _n_ :three::hammer:  
 __influenza__  
 __infomercial__ _n_  
@@ -7913,6 +7914,7 @@ __snigger__ _n_
 __sniggering__  
 __snipe__ _v_  
 __snit__ _President Trump responded with a typical Twitter-snit._  
+__snitch__  
 __snoodlike__  
 __snoop__ _v_  
 __snootiness__  
@@ -9282,6 +9284,7 @@ __vacay__ _informal_ A holiday. _I'm in France right now, on vacay._
 __vaccination__  
 __vaccine__  
 __vacuum__ :two::hammer: _Upright/Canister vacuum._ :camera:  
+__vagaries__ _n_  
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
 __vagrant<sup>1</sup>__ _n_ __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_  
