@@ -5466,7 +5466,7 @@ __moonshine<sup>2</sup>__ _v_
 __moonshot__ _n_ :two: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
-__moot__ _adj_ __1__ :two: Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ :five: Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot__ _adj_ :seven: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __mooted__ :two::hammer: _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
@@ -5942,7 +5942,7 @@ __padding__ _v_ _Those who imagine slumber parties and members padding in their 
 __paddle__ _v_ :two::hammer: (paddled) _I got paddled at school._  
 __paddock__ _n_  
 __padlock__  
-__paean__ _n_ :four::hammer: (paeans) :two::hammer:  
+__paean__ _n_ :six::hammer: (paeans)  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pail__ _n_ :three::hammer: _A lunch pail._  
