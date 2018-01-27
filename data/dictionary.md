@@ -31,6 +31,7 @@ __Argentine__ _The pope is an Argentine._
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :mega:  
 __As it happens,__  
+__At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __Atta boy__  
 __Attn__  
 __Au.D__ Doctor of audiology.  
@@ -8026,7 +8027,7 @@ __spatter__ _n_
 __spay__ _v_ :two::hammer: (spayed)  
 __spd__  
 __speak out__  
-__speak up__ _v_  
+__speak up__ _v_ :two::hammer:  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
