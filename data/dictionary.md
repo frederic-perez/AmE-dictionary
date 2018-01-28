@@ -2922,7 +2922,7 @@ __earth-shattering__
 __earthquake drill__  
 __easement__  
 __easing__  
-__easygoing__ _Easygoing people._  
+__easygoing__ _adj_ :two::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
 __ebb and floor__  
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
@@ -4505,6 +4505,7 @@ __in the water__ _There's nothing in the water here._
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _In-house experts._  
+__in-laws__ _A room for the in-laws._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._  
 __inadvertent__ :two::hammer:  
 __inane__ _adj_ :four::hammer:  
@@ -6055,7 +6056,7 @@ __patronizing__
 __patronymic__  
 __patsy__ _adj_  
 __patter__  
-__patties__ _n_ :two::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._  
+__patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
 __paucity__ _n_ :four: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __paunch__ _n_  
 __pavilion__ _n_  
@@ -6954,7 +6955,7 @@ __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __rescinded__ _v_  
-__residency__ _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
+__residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resiliency__  
 __resilient__ _adj_  
@@ -9075,7 +9076,7 @@ __tulle__ _Tulle-covered arch._
 __tumble__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._ _Socks tumble._ _Discovery of the guidelines soon tumbled into the local paper._ _Tumbling gasoline prices._  
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
-__tunnel vision__  
+__tunnel vision__ :two::hammer:  
 __tuppence__  
 __turgid__ _adj_ :three::hammer:  
 __turkey drumstick__  
