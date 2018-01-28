@@ -6416,7 +6416,7 @@ __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :three::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
-__pout__ _v_ :six::hammer: (pouts, pouting) :three::hammer: _Pouting session._  
+__pout__ _v_ :nine::hammer: (pouts, pouting) _Pouting session._  
 __powder blue__ Color?  
 __powder keg__  
 __power bar__  
@@ -6876,7 +6876,7 @@ __reek<sup>1</sup>__ _n_
 __reek<sup>2</sup>__ _v_ :eight: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
 __reel off__ _v_  
 __reel<sup>1</sup>__ _n_  
-__reel<sup>2</sup>__ _v_ :four: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ :six: To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
+__reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reeve__ _n_ :four::hammer::pencil2:  
 __refectory__ _n_ :two::hammer:  
 __referenda__  
