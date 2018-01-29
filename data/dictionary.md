@@ -2078,7 +2078,7 @@ __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptibl
 __contend__ _v_ :three::hammer: (contended)  
 __content__  
 __contention__ _n_ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
-__contentious__ _adj_ :six: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
+__contentious__ _adj_ :seven: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
 __continence__  
@@ -2678,6 +2678,7 @@ __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug o
 __divvy up__ _v_  
 __divvy__ _v_  
 __do it by the numbers__  
+__do math__  
 __do-gooder__  
 __docents__  
 __docked__ _v_  
@@ -3971,6 +3972,7 @@ __grumblings__
 __grungy__ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
+__gues[s?]timation__  
 __guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guidet__ _Two guidettes._  
@@ -4739,7 +4741,7 @@ __kabobs__
 __kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ :two::hammer:  
-__keel__ _v_ (keeled) :two::hammer:  
+__keel__ _v_ :three::hammer: (keeled)  
 __keen__ _adj_ :seven: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tabs on__ :two::hammer: :es: vigilar  
@@ -5983,7 +5985,7 @@ __panhandle__ _v_
 __panhandling__  
 __panned out__  
 __panoply__ :two::hammer:  
-__pant__ _v_ :five: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
+__pant__ _v_ :six: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
 __pantry__ _n_ :three::hammer:  
 __pants down__ :camera: _You might get caught with your pants down._  
@@ -6781,6 +6783,7 @@ __rat-fuck__ _v_
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __ratchet__ _n_ :two::hammer:  
+__rathole__  
 __rationales__ _n_ _It has four main rationales._  
 __rattan couch__  
 __rattan__  
@@ -7450,7 +7453,7 @@ __sewage__ _n_ :two::hammer: :es: aguas residuales
 __sewer gas__  
 __sewer grate__ :two::hammer:  
 __sewer__ _A sewer pipe._  
-__shabby__ :two::hammer:  
+__shabby__ _adj_ :three::hammer:  
 __shack__ :two::hammer:  
 __shackles__ _n_ :two::hammer: _A bed with built-in shackles._  
 __shades__ :es: gafas?  
@@ -9334,6 +9337,7 @@ __vermillion__
 __vermin__ _n_ :four::hammer:  
 __vernacular__  
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__very__ _We were in this very room._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vesting__ _The vesting date._  
 __veto__ _v_  
