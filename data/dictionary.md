@@ -42,7 +42,7 @@ __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He t
 __BLT__ (food?)  
 __BO__ :two::hammer:  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
-__BS__ :two::hammer: _One of our core values is: Open company, no BS._  
+__BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __Bedouin__  
 __Beehive State__ _n_ :three: Utah.  
 __Big C__ Cancer?  
@@ -1099,6 +1099,7 @@ __blasé__
 __blatant__  
 __blather__  
 __blaze of glory__ :two::hammer:  
+__bleach__ _n_  
 __bleached blonde hair__  
 __bleached__ _Warm waters bleached the coral._  
 __bleaching__ :two::hammer: _Steven called the bleaching a tragedy._  
@@ -1376,6 +1377,7 @@ __brownstones__ _n_
 __bruin__  
 __bruited__  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
+__brussels sprout__ _n_  
 __brutalized__ _v_  
 __brutish__  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
@@ -1553,6 +1555,7 @@ __call for__
 __call on someone__ _He called on me._  
 __call out__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
+__call to action__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon someone__ _It's nice when they call upon you and you're able to go out there and show them._  
 __call<sup>1</sup>__ _n_ :four::hammer: _It would've been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he'd call another run play._ _It was a very questionable call._  
@@ -2410,6 +2413,7 @@ __daybeds__ _n_
 __dayglow__  
 __dazzle__ _v_ :two::hammer:  
 __dazzling__ _adj_ :nine: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
+__de-escalate__ _v_  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
 __dead on__  
@@ -3972,7 +3976,8 @@ __grumblings__
 __grungy__ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
-__gues[s?]timation__  
+__guesstimate__ _n informal_ An estimate based on conjecture.  
+__guesstimation__ does not exist  
 __guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guidet__ _Two guidettes._  
@@ -6443,7 +6448,7 @@ __preceded__ _v_
 __preceptor__ :two::hammer:  
 __precint__  
 __precisely__ _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
-__predate__ _v_  
+__predate__ _v_ :two::hammer:  
 __predator__ _n_  
 __prediabetes__  
 __predicament__  
@@ -7407,7 +7412,7 @@ __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, com
 __seesaw<sup>1</sup>__ _n_ :two::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
 __seethe__ _v_ :nine::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
-__segue__ _v_ :four::pencil2::mega::hammer:  
+__segue__ _v_ :five::pencil2::mega::hammer:  
 __seize__ _v_ :four::hammer: (seizing) _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
 __sekuhata__ Sexual harassment.  
