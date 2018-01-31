@@ -117,6 +117,8 @@ __Fab Four__ The Beatles.
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
 __Father Time__  
 __Faustian__ _Faustian device._  
+__Ferberization__  
+__Ferberizing__  
 __Fibbies__  
 __Filipino__  
 __Foosball__  
@@ -474,7 +476,7 @@ __affront__
 __afield__  
 __afloat__  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
-__aforemention__ _v_  
+__aforemention__ _v_ :two::hammer: (aforementioned)  
 __afoul__ :two::hammer:  
 __aft__  
 __aftereffects__  
@@ -5793,6 +5795,7 @@ __omen__ _n_ :three::hammer:
 __ominous__ _adj_ :six: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
+__omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
 __omnibus__ _n_  
 __on a roll__ :two::hammer: _I'm on a roll._  
 __on a tear__ _The U.K. labor market is on a tear._  
@@ -6385,7 +6388,8 @@ __pool cues__ :two::hammer:
 __poorly__ _This is going to end very poorly._  
 __pop<sup>1</sup>__ _n_ :four::hammer: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :three::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._  
-__pops__ (parents?}  
+__pop__ _n informal_ Father.  
+__pops__ _n informal_ :two: Father.  
 __populace__  
 __pore__ _v_  
 __poring__ _v_ :two::hammer:  
@@ -8178,6 +8182,7 @@ __staffed__ _v_
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
 __stag__ _I'm an old stag._  
+__stage name__  
 __stagflation__ :two::hammer:  
 __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
 __staggering__  
@@ -9334,6 +9339,7 @@ __venomous__ _adj_ :two::hammer:
 __ventilator__ _n_ :pencil2: _med_  
 __venue__ _n_  
 __veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
+__verberize__  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :two::hammer::pencil2:  
 __verge__  
@@ -9626,7 +9632,7 @@ __wimpy__ _adj_ :two::hammer:
 __wince__ _v_ :four::hammer: (winced)  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
-__wind-up__ _n_  
+__wind up__ :two::hammer: (wind-up) _It's a wind-up toy._  
 __winded__  
 __windfall__ _n_ :eight::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
 __windlass__  
