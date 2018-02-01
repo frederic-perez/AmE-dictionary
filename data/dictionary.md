@@ -1049,6 +1049,7 @@ __big yes__
 __big-box stores__ :camera::hammer:  
 __big-gulper__ _America's big-gulpers._  
 __bigger than life__  
+__bigness__ _n_ __1__ The characteristic of being big. __2__ Size.  
 __bigot__ _n_ /ˈbɪɡət/ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bigotry__  
 __bikeshed<sup>1</sup>__ _n_  
@@ -6481,6 +6482,7 @@ __president-elect__ _n_ :four::hammer:
 __press box__ _n_  
 __press on__  
 __press the pocket__  
+__pressure cooker__ _n_  
 __pretense__  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __preventable__  
@@ -6768,8 +6770,7 @@ __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
 __rankled__ _v_  
-__ransack__ _v_ :three::hammer: (ransacked)  
-__ransacked__  
+__ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
 __rant__ _v_  
 __rapidly__  
@@ -8147,7 +8148,7 @@ __squabble<sup>1</sup>__ _v_ :four::hammer: (squabbling) _A squabbling family._
 __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
-__squad__ _n_ :two::hammer:  
+__squad__ _n_ :three::hammer:  
 __squalid__ _adj_ :pencil2::two::hammer: _Squalid home._  
 __squall__ :two::hammer:  
 __squalor__ _n_ :five: The condition or quality of being squalid; disgusting dirt and filth.  
@@ -8703,7 +8704,7 @@ __tear gas__ :two::hammer:
 __tear__ _The stock has been on a tear._  
 __teardown__ _n_  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
-__techie__ _Facebook's techie in chief._  
+__techie__ _n informal_ :two: (techies) One who studies or is highly interested or proficient in a technical field, especially electronics. _Facebook's techie in chief._  
 __tee up__ _v_  
 __teeing up__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
