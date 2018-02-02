@@ -1261,6 +1261,7 @@ __boredom__
 __boring__ _v_ _He began throwing two touchdown passes, boring through traffic._  
 __borne__ _v_ :five::hammer:  
 __bosom__  
+__bossy__ _adj_  
 __botched__ _v_ :three::hammer:  
 __bothersome__  
 __botnet__  
@@ -1508,7 +1509,7 @@ __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _F
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
 __buzzer__ _Durent Durent missed a floater at the buzzer._  
 __buzzkill__  
-__by all accounts__ :dart::two::hammer:  
+__by all accounts__ :dart::three::hammer:  
 __by all means,__  
 __by and by__  
 __by and large__ _adv_ :three::hammer: :es: en líneas generales, en general  
@@ -2712,6 +2713,7 @@ __dogleg__ :two::hammer: _A dogleg twenty-gauge in his hand._
 __doglegs__ _v_  
 __dogsled__  
 __doilies__  
+__doings__ _n_  
 __doldrums__  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._ _He's still finding his way in terms of doling out minutes._  
 __dolirometer__  
@@ -3834,7 +3836,7 @@ __goldfinch__ _n_ :es: jilguero
 __gonads__ _n_  
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
-__goo__ _informal_ Sticky substance.  
+__goo__ _n informal_ :two: Sticky substance.  
 __good Samaritan__  
 __good egg__ _A heel who learns how to be a good egg._  
 __good sport(s)__  
@@ -5355,6 +5357,7 @@ __metal shavings__
 __metal__ _adj_ :five::hammer:  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
+__meter__ _n_ _The cab driver waited with the meter running._  
 __metheglin__ _n_ :two::hammer:  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
@@ -6543,6 +6546,7 @@ __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-
 __prompt__ _v_ :two::hammer: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
 __prone__ _v_  
+__prong__ _A two-prong whatnot._  
 __pronged__  
 __prongs__ _n_ :two::hammer:  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
@@ -7052,6 +7056,7 @@ __righteous__
 __rigmarole__ _n_ :two::hammer: _Rigmarole controls._  
 __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
+__rimless__ _Rimless glasses._  
 __rind__ _n_  
 __ring finger__ :two::hammer:  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
@@ -7781,7 +7786,7 @@ __sleepwear__ (vs sportswerar, etc.)
 __sleety__  
 __slender__  
 __sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
-__sleuth__ _v informal_ :two: (sleuthing) To act as a detective.  
+__sleuth__ _v informal_ :three: (sleuthing) To act as a detective.  
 __slew__ _n_ :nine: /sluː/ :octocat: !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ :dart:  
 __slice of pie__  
@@ -8276,6 +8281,7 @@ __steeplechase__
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeples__ _n_  
 __steeply__ :two::hammer:  
+__steer__ _v_  
 __stein__ _n_  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :eight::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
@@ -9338,7 +9344,7 @@ __venison__ _n_ :two::hammer:
 __venom__ :two::hammer:  
 __venomous__ _adj_ :two::hammer:  
 __ventilator__ _n_ :pencil2: _med_  
-__venue__ _n_  
+__venue__ _n_ :two::hammer: _What's the venue?_  
 __veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
 __verberize__  
 __verdant__ _Verdant hills._  
