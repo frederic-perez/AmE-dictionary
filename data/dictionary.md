@@ -1296,7 +1296,7 @@ __brainiac__ _Slang_ A highly intelligent person.
 __brainpan__  
 __brainwash__ _v_  
 __braised__ _Braised turkey and gravy stuffing._  
-__brambles__ _n_ :three::hammer:  
+__brambles__ _n_ :four::hammer:  
 __brander__  
 __branding iron__ _n_ :camera:  
 __brash__ :two::hammer: _Brash talk._ _It sounded brash._  
@@ -1509,7 +1509,7 @@ __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _F
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
 __buzzer__ _Durent Durent missed a floater at the buzzer._  
 __buzzkill__  
-__by all accounts__ :dart::three::hammer:  
+__by all accounts__ _idiom_ :dart::three::hammer: From all the reports [that are available]; according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means,__  
 __by and by__  
 __by and large__ _adv_ :three::hammer: :es: en líneas generales, en general  
@@ -2543,6 +2543,7 @@ __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
 __despicable__  
+__despoil__ _v_  
 __despoiling__  
 __despondency__  
 __despondent__ _n_ :four::hammer:  
@@ -3088,6 +3089,7 @@ __eschews__ _v_
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __espouse__ _v_  
 __espousing__ _v_ _Espousing warm ties with Russia._  
+__essentials__ _n_  
 __established__ _Established 1978._  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __etched__ _v_ :two::hammer:  
@@ -5694,6 +5696,7 @@ __noncommittal__ _adj_ :three::hammer:
 __nondescript__ _adj_ :three::hammer:  
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_  
+__nonsense__ _n_ _Nonsense!_  
 __nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
@@ -6060,7 +6063,7 @@ __pate__ _n_ :three::hammer: _The pate of a monk with a wet red tonsure._ _His g
 __patently__ _Patently absurd._  
 __pathogenic__  
 __pathogens__ _n_  
-__pathos__ :two::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
+__pathos__ _n_ :three::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patinated__ _v_  
 __patois__  
 __patron__ _n_ :five::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._  
@@ -6257,6 +6260,7 @@ __pitch-perfect__
 __pitch<sup>1</sup>__ _n_ :three::hammer: _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitchfork__  
+__pitfalls__ _n_  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
 __pithy__ _adj_ :three: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
@@ -7141,6 +7145,7 @@ __rosin box__
 __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
 __rosy__ _adj_ :four::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot-and-branch__ _Root-and-branch reforms._  
+__rot__ _v_  
 __roti__ _A roti shop._  
 __rototiling__  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
@@ -8327,6 +8332,7 @@ __stinky-winky__ _Stinky-winky front-loader._
 __stintful__  
 __stipend__ _n_ :five::hammer: (stipends)  
 __stipulate__ _v_ :two::hammer:  
+__stir up a hornet's nest__ _fig_ To create a lot of trouble.  
 __stir__ _v_ :two::hammer: (stirred)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
 __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
@@ -8401,7 +8407,8 @@ __strech__ _He was awake for long streches of time._
 __strenuous__  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
-__stretch__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
+__stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
+__stretch<sup>2</sup>__ _v_ :pencil2: _But then the release cycles began to stretch._  
 __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __strewn__ _v_ :two::hammer:  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
@@ -8831,7 +8838,7 @@ __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.
 __thunk__ _v_ _A thunking sound._  
 __thusly__  
 __thwack__ (thwacks) :two::hammer:  
-__thwart__ _v_ :nine: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
+__thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :three::hammer:  
 __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
 __tick prevention__  
@@ -9278,7 +9285,7 @@ __upscale<sup>3</sup>__ _n_
 __upsell__ _v_ (?)  
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
-__upshot__ _n_ :three::hammer:  
+__upshot__ _n_ :four::hammer:  
 __upside__ :two::hammer: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
@@ -9717,6 +9724,7 @@ __worrywarts__
 __worshiper__  
 __wort__  
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, effort, or interest.  
+__wow factor__  
 __wow__ _v_  
 __wracking__ _v_  
 __wraith__  
