@@ -952,7 +952,7 @@ __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at
 __behold__ :two::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
-__behoove__ _v_ :two::hammer:  
+__behoove__ _v_ :three::hammer:  
 __beige book__ ?  
 __beignet__ _n_ :three: A deep-fried, yeast-raised doughnut dusted with confectioners' sugar. A square doughnut with no hole.  
 __being at odds__ _They are at odds over the details of legislation._  
@@ -1623,6 +1623,7 @@ __card__ _v_
 __cardiac arrest__  
 __cardinal__ _Breaking cardinal rules of marketing._  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ (nautical) To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ (nautical) To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
+__carefully__ _It pays to consider his words carefully._  
 __caresses__ _v_  
 __caretaker__ :two::hammer: _A caretaker government._  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
@@ -2005,6 +2006,7 @@ __communiqué__ (communiqués) :two::hammer:
 __comp<sup>1</sup>__ _n_ _Workers' comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
 __compassionate__ _adj_ :three::hammer:  
+__compatriot__  
 __compel__ _v_ :three::hammer:  
 __compelling__ _adj_ Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
@@ -2824,6 +2826,7 @@ __dressing room__ :two::hammer: _(vs fitting room)_
 __dressing__ _It's going to take longer to get to that turkey and dressing._  
 __dribble__ _v_ :es: regatear?  
 __dribbled__ _v_  
+__drift__ _n_ _You get the drift._  
 __drifter__ :two::hammer:  
 __driftwood__ :two::hammer: _Driftwood logs._  
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
@@ -3362,7 +3365,7 @@ __flagship__
 __flagstaff__  
 __flagstone__ _Flagstone terraces._  
 __flah point__  
-__flail__ _v_ :five::hammer: (flailed, flailing)  
+__flail__ _v_ :six::hammer: (flailed, flailing)  
 __flair__ _n_ :nine: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
 __flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
@@ -5415,6 +5418,7 @@ __misconduct__
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ :two::hammer:  
+__misdirection__  
 __miser__ _n_  
 __miserable__ _We are miserable._  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
@@ -5829,7 +5833,7 @@ __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'A
 __onlookers__  
 __onset__ _n_ :two::hammer:  
 __onslaught__ :two::hammer:  
-__onus__ :two::hammer: _The onus for change._  
+__onus__ _n_ :three::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
 __oompah__ :two::hammer: _The house oompah band._  
 __oomph__ :two::hammer:  
@@ -5846,6 +5850,7 @@ __opulent__
 __orb__ _n_ :two::hammer:  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
+__orderly__ _Someone has taken the time to keep the code simple and orderly._  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :three::pencil2::hammer:  
 __ore__ :two::hammer:  
@@ -6081,6 +6086,7 @@ __pavilions__
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
 __pay off__ _v_  
+__pay__ _v_ _It pays to consider his words carefully._  
 __payback__  
 __paydirt__ :two::hammer:  
 __payoffs__ _n_  
@@ -8070,7 +8076,7 @@ __speed-dial__ _v_
 __spell__  
 __spendolie__  
 __spent rocket stages__ :camera:  
-__spew__ _v_ :five::hammer: (spewed) _Carbon-spewing coal power plants._  
+__spew__ _v_ :six::hammer: (spewed) _Carbon-spewing coal power plants._  
 __spiel__  
 __spiffy__ :two::hammer:  
 __spigot__ _n_ :four: (spigots) A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
@@ -8413,6 +8419,7 @@ __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you
 __strewn__ _v_ :two::hammer:  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
+__stridence__  
 __strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
