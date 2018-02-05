@@ -1243,7 +1243,7 @@ __boom and bust__
 __boom box__  
 __boomer chains__  
 __booms__ _n_ :two::hammer:  
-__boon__ _n_ :seven: /buːn/ A thing that is helpful or beneficial. _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
+__boon__ _n_ :eight: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
 __boonies__  
 __boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
@@ -1578,7 +1578,7 @@ __camp__ :two::hammer: _The Pacquiao camp did not object._
 __camper shell__  
 __camper__ :two::hammer:  
 __campers__ _Cars, trailers, boats & campers $45/month._  
-__campground__ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
+__campground__ _n_ :two: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
 __campier__ _Campier presentations._  
 __campiest__ _Birdcage was probably Nichol's campiest comedy._  
@@ -2100,6 +2100,7 @@ __contrarian__
 __contretemps__  
 __contrite__  
 __contrition__ _n_ :three::hammer:  
+__contrivance__ _n_  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
@@ -4255,7 +4256,7 @@ __hickory shaft__
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
 __hidebound__ _adj_ :three::hammer:  
-__hideous__  
+__hideous__ _adj_ :two: _A hideous practice._  
 __high and dry__ _His team was left high and dry._  
 __high beams__  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
