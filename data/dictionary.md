@@ -2956,6 +2956,7 @@ __eerily__ _adv_ :three::hammer:
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
 __effort__ _n_ :dart: _Activists launched an effort._  
+__effortless__ _adj_  
 __effusive__  
 __egg roll__  
 __egg__ _v_  
@@ -3793,7 +3794,7 @@ __glades__ _n_ _Heathy glades._
 __glass slipper__ _(Cinderella)_  
 __glean__  
 __gleaning__  
-__glib__ :two::hammer: _A glib reply to his remark._  
+__glib__ _adj_ :three::hammer: _A glib reply to his remark._  
 __glimmer__ _A glimmer of hope._  
 __glimpse__  
 __glint__  
@@ -6178,6 +6179,7 @@ __pewter__
 __phalanx__ :two::hammer:  
 __phase out__  
 __phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
+__phenomena__ _pl n_  
 __philanderer__  
 __philandering__  
 __philtre__  
@@ -6994,6 +6996,7 @@ __respite__ _n_ :six: A respite is a break from something that's difficult or un
 __resplendent__  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ _With great power comes great responsibility._  
+__responsibly__ _adv_ In a responsible manner.  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :three::hammer:  
@@ -8913,6 +8916,7 @@ __to date__ :two::hammer: _To date, no winners have attended._
 __to hell and back__ :two::hammer:  
 __to his name__ _Bernie died with $1.09 to his name._  
 __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
+__to that effect__  
 __to that end,__  
 __to this day__ :two::hammer:  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
