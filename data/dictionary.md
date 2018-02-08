@@ -39,7 +39,7 @@ __Austinites__ :two::hammer:
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
 __BAR__ _BAR man._  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
-__BLT__ (food?)  
+__BLT sandwich__ _n_ :two: Sandwich filled with slices of bacon and tomato with lettuce.  
 __BO__ :two::hammer:  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
@@ -395,6 +395,7 @@ __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__  
 __abjure__ _v_  
+__abomination__ _n_ _I've written several nasty 3,000-line abominations._  
 __abounds__  
 __about-face__  
 __aboveboard__  
@@ -420,6 +421,7 @@ __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democrati
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
 __accoutrements__  
+__accrete__ _v_  
 __accretion__  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
@@ -638,7 +640,7 @@ __aquifer__ _n_
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
-__arcane__ :two::hammer:  
+__arcane__ :three::hammer: _This function appends arcane strings._  
 __arch__ _Her character is arch and fake._  
 __arched doorway__ :camera:  
 __archenemy__ :pencil2:  
@@ -2493,6 +2495,7 @@ __dejected__
 __deking__  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ :two::hammer:  
+__deleterious__  
 __deli__  
 __delisted__ _v_  
 __deliver__ _v_ _Republicans apparently cannot deliver._  
@@ -2683,7 +2686,7 @@ __diverted__ _diverted flights_
 __dives__ _v_  
 __divest__ _v_ :two::hammer: (divested)  
 __divestiture__ :two::hammer:  
-__divine__ _v_  
+__divine__ _v_ :two: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
 __divisive__ _He is more interested in spouting divisive sound bites._  
 __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
@@ -2916,6 +2919,7 @@ __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.
 __dwell__ _v_ :two::hammer:  
 __dwelling__ _n_  
 __dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, diminish, reduce in size. __2__ To fall away in quality; degenerate, sink.  
+__dyadic__  
 __dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
 __dyke__ _n informal_ :four: A lesbian. _She wasn't a dyke, either._  
 __dysfunction__ (dysfunctional) :pencil2:  
@@ -3837,6 +3841,7 @@ __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former c
 __gobble__ _v_ :two::hammer: _Gobbling a plate of spaguetti and meatballs._  
 __goblin__  
 __goblins__  
+__godmother__ _n_  
 __godsend__ _n_  
 __gold rush__  
 __goldfinch__ _n_ :es: jilguero  
@@ -4621,6 +4626,7 @@ __intervene__ _v_
 __interviewees__ _n_ :pencil2:  
 __into the fold__ _It brought many viewers into the fold._  
 __intramural__  
+__intuit__ _v_ To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
 __invective__ _n_ :four::hammer:  
@@ -5670,6 +5676,7 @@ __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._
 __nightie__  
 __nightmarish__ :two::hammer:  
 __nihilistic__  
+__niladic__  
 __nimble__ _adj_ :six: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nineloss__ ?  
 __nip-and-tuck__  
@@ -6389,6 +6396,7 @@ __policyholder__
 __politburo__  
 __pollster__ _n_  
 __pols__ _n_  
+__polyadic__  
 __polymath__  
 __pomegranates__ _n_  
 __pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
@@ -6619,7 +6627,7 @@ __pull strings__
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
 __pull__ _(root for?)_ _I can't pull for someone else the same way._  
 __pullback__ :two::hammer:  
-__pulled pork sandwitch__  
+__pulled pork sandwich__  
 __pullout__ _Pullout couches._  
 __pulpit__ :two::hammer:  
 __pulsating__  
@@ -7300,7 +7308,7 @@ __scabbard__ _n_ :six: A sheath for a sword, dagger, or bayonet.
 __scabby__  
 __scabies__  
 __scabs__ _n_ :two::hammer:  
-__scads__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
+__scads__ _n_ :two: A large number of quantity. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __scallions__ _n_ :three::hammer:  
 __scallop__ :two::hammer: _A scallop-shell logo._  
 __scalp bounties__  
@@ -7690,7 +7698,7 @@ __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
-__sieve__ _n_ :two::hammer:  
+__sieve__ _n_ :three::hammer:  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sign-off__ _n_  
 __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
@@ -8680,7 +8688,7 @@ __tannin__ _n_ Any of various complex phenolic substances of plant origin; used 
 __tantalize__ _v_ (tantalizing)  
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
-__tap into__ _idiom_ :four: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
+__tap into__ _idiom_ :five: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
 __tap__ _v_ :four: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
