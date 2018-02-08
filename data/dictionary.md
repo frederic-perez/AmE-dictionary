@@ -4428,7 +4428,7 @@ __hungup__ _informal?_ _What's the hungup?_
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__  
-__hurdle__  
+__hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
 __hurl__ _v_ :seven: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
@@ -4626,6 +4626,7 @@ __intervene__ _v_
 __interviewees__ _n_ :pencil2:  
 __into the fold__ _It brought many viewers into the fold._  
 __intramural__  
+__intricacies__  
 __intuit__ _v_ To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
@@ -4788,6 +4789,7 @@ __kibitz__ _v_
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick the bucket__  
+__kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children's game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
 __kickback schemes__  
 __kickbacks__ _n_  
@@ -6477,7 +6479,7 @@ __preceded__ _v_
 __preceptor__ :two::hammer:  
 __precint__  
 __precisely__ _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
-__predate__ _v_ :two::hammer:  
+__predate__ _v_ :three::hammer:  
 __predator__ _n_  
 __prediabetes__  
 __predicament__  
@@ -8100,6 +8102,7 @@ __spillover__ :two::hammer:
 __spin bike__ _n_ :camera:  
 __spin<sup>1</sup>__ _n_ _But don't believe the spin._  
 __spin<sup>2</sup>__ _v_ _She spins the truth for whoever is paying her._  
+__spinal tap__  
 __spindle__ _n_ :two::hammer:  
 __spindly__  
 __spinel__ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin "spina." Balas ruby is an old name for a rose-tinted variety of spinel.  
