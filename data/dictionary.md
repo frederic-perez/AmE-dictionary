@@ -1773,6 +1773,7 @@ __cheek by jowl__ :two::hammer:
 __cheekboned__ _High-cheekboned newbies.;-_  
 __cheekier__  
 __cheerfully__  
+__cheese-eater__  
 __cheesecloth__ _n_ :three::hammer:  
 __cheesy__ _adj informal_ :two: Cheap and of low quality. _Cheesy motel rooms._  
 __chenier__  
@@ -2998,6 +2999,7 @@ __elusive__
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
 __emancipation__  
 __embankment__  
+__embargo__ _n_  
 __embark__ _They embark on a motorcade._  
 __embattle__ _v_ :three::hammer: (embattled)  
 __ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood in a dying fire.  
@@ -3851,6 +3853,7 @@ __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn
 __goo__ _n informal_ :two: Sticky substance.  
 __good Samaritan__  
 __good egg__ _A heel who learns how to be a good egg._  
+__good for you__  
 __good sport(s)__  
 __good-nature__  
 __goodliest__ :two::hammer:  
@@ -4210,7 +4213,7 @@ __heck__ _He's doing a heck of a job._
 __heckled__ _v_  
 __heckler__ _n_ :three::hammer:  
 __heckling__  
-__hectic__ _adj_ :four::hammer:  
+__hectic__ _adj_ :five::hammer:  
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedonic__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
@@ -5046,7 +5049,7 @@ __lilac tree__
 __lilac__  
 __limb__ _Tree limb._  
 __limber__ _Limber stick._  
-__limerics__  
+__limerick__ _n_ :two::hammer: (limericks) _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
 __limned__  
 __limo__  
