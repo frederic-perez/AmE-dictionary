@@ -3136,7 +3136,7 @@ __exec__ _n informal_ :two::hammer: (execs) An executive.
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
 __exemption__ _Dru earned an exemption into the tournament._  
-__exert__ _v_ :seven::hammer: (exerted) _To exert due diligence._  
+__exert__ _v_ :seven: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ _Exhaust fans._  
 __exhaust<sup>2</sup>__ _n_ _Car exhaust._  
@@ -6552,7 +6552,7 @@ __pro bono__ :two::hammer: _Pro bono consultant._
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __probation__ _A person has ben sentenced to probation._  
 __probity__  
-__proceeds__ _n_ :seven::hammer: _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
+__proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod__ (prodded) :two::hammer: :es: _empujón_  
