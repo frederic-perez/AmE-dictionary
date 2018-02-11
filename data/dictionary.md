@@ -256,6 +256,7 @@ __Old Hickory bat__
 __Old Sol__  
 __Ole Miss__  
 __On top of that,__  
+__On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __Other than that,__  
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __Ozzies__ (Australians?)  
@@ -3206,6 +3207,7 @@ __fame__ _v_
 __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's famed brownies are the highlight of every bake sale in town.  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _It could be feasst or famine._  
+__fanciful__  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
 __fancy<sup>2</sup>__ _v_ __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
@@ -9138,7 +9140,7 @@ __turmoil__
 __turning tables__ _Feds turning the tables on ssexual predators._  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
-__turnkey__  
+__turnkey__ :two::hammer: _Turnkey property._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
@@ -9482,6 +9484,7 @@ __wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his h
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
+__wander__ _v_ _Let's wander slowly through the fields, the fields of joy._  
 __wane__ _v_ :three::hammer: (waning) _The waning hours._  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
