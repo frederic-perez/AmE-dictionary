@@ -2025,7 +2025,7 @@ __compounding__ _Compounding the situation._
 __comps__ _n_ (Competitors?)  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
-__compulsory__ _A compulsory Third World condition._  
+__compulsory__ :two::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._  
 __compurgator__ _n_  
 __con artist__ _n informal_ :four::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
@@ -2340,7 +2340,7 @@ __cuppa__
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curb__ _v_  
+__curb__ _v_ :two::hammer: _Curb drug resistance._  
 __curbs__ _n_ :three::hammer: Bans? _This has created curbs on admission._  
 __curdle__  
 __curdled__ _There has always been a curdled heart at pop's center._  
@@ -3078,6 +3078,7 @@ __epee__
 __ephemeral__  
 __epicurean__  
 __epidemic__ _n_ Notice: _n_!  
+__epilepsy__ _Risks of cerebral palsy and epilepsy._  
 __epiphany__  
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :five: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
@@ -3794,6 +3795,7 @@ __gins__ _He passed cotton gins._
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __giridon__  
+__give it out__ _Give it out for my friend Adam!_  
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __gladdened__  
@@ -6004,7 +6006,7 @@ __pallor__ _n_ :two::hammer:
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
-__palsy__ _n_ :three::hammer: _Mild cerebral palsy._  
+__palsy__ _n_ :four::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :five::hammer: (pampered)  
 __pamphlet__ _n_  
@@ -6484,6 +6486,7 @@ __preceded__ _v_
 __preceptor__ :two::hammer:  
 __precint__  
 __precisely__ _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
+__precision__ _Precision medicine._  
 __predate__ _v_ :three::hammer:  
 __predator__ _n_  
 __prediabetes__  
@@ -8496,7 +8499,7 @@ __subpoena<sup>1</sup>__ _n_ :four::hammer:
 __subpoena<sup>2</sup>__ _v_ (subpoenaed)  
 __subsequent__ :two::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ :dart::two::hammer:  
-__subside__ _v_ :dart::four::hammer: (subsided) _My headache has subsided._  
+__subside__ _v_ :dart::five::hammer: (subsided) _My headache has subsided._  
 __subsidy__  
 __substation__  
 __subsumed__ _v_ :two::hammer:  
@@ -8766,6 +8769,7 @@ __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm
 __tempestuous__  
 __tenable__ _adj_  
 __tenants__  
+__tenderizze__ _v_  
 __tendinitis__  
 __tendrils__ _n_  
 __tenements__ _Kids from the tenements._  
@@ -9360,6 +9364,7 @@ __vanilla-flavored__ _He is cautious about every step, to the point of seeming v
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vapid__ _adj_ :four: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
+__vaping__ _v_ _Smokers are switching to vaping._  
 __variety store__  
 __varmints__  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
