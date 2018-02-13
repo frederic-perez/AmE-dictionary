@@ -146,6 +146,7 @@ __Geronimo wire__ :two::hammer:
 __Get outta here!__ _idiom_  
 __Gibson glass__  
 __Gitmo__ _Guantanamo?_  
+__Give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __Goodyear, Charles__  
 __Gordian knot__ :two::hammer:  
 __Great Dane__  
@@ -2022,6 +2023,7 @@ __composite decking__
 __composting__ _There's a brown bin for organic waste, which goes for composting._  
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__ _Compounding the situation._  
+__comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
 __comps__ _n_ (Competitors?)  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
@@ -3795,7 +3797,7 @@ __gins__ _He passed cotton gins._
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __giridon__  
-__give it out__ _Give it out for my friend Adam!_  
+__give or take__ _idiom_ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __gladdened__  
@@ -5125,6 +5127,7 @@ __loincloths__
 __loins__ _n_ :two::hammer:  
 __loitered__ _v_  
 __loll__ _v_ :three::hammer::pencil2: (lolled, lolling)  
+__lollipop__ _n_ (lollypop)  
 __lone wolf__ _They are lone wolf attacks._  
 __long haul__ _She's in for the long haul._  
 __long shot__  
@@ -8390,6 +8393,7 @@ __stoplights__ :pencil2:
 __stopover__  
 __stoppage__ _n_ :five::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
+__stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
 __storeful__  
 __storied__ _Storied market._  
@@ -9347,10 +9351,8 @@ __vaccine__
 __vacuum__ :two::hammer: _Upright/Canister vacuum._ :camera:  
 __vagaries__ _n_  
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
-__vagrant<sup>1</sup>__ _n_ __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
+__vagrant<sup>1</sup>__ _n_ :five: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_  
-__vagrant__  
-__vagrants__  
 __valedictorian__ _n_ :six::hammer: (valedictorians)  
 __valentine__  
 __valiant__  
