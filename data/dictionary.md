@@ -102,6 +102,7 @@ __EKG__
 __ELIA5__ Explain Like I Am 5.  
 __ENT__ _abbr_ :two: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __ETA__ _I believe we have an ETA of six days._  
+__Earthling__ _n_  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __Election Day__  
@@ -544,6 +545,7 @@ __almanac__ _n_ An annual publication devoted to the facts and statistics of a g
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :three::hammer: _Dwayane Wade raised three fingers aloft._  
 __along with__  
+__alongside__  
 __aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
@@ -2755,7 +2757,7 @@ __dote__ _v_ (doted) To show excessive fondness or love: doted on their only chi
 __dotting__  
 __double bill__  
 __double dip__  
-__double down__ _v_ :seven: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
+__double down__ _v_ :eight: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
 __double take__ _n_ :two::hammer:  
 __double up__ _phr v_ To bend suddenly, as in pain or laughter.  
 __double-cross__ _n_  
@@ -3052,6 +3054,7 @@ __enjambments__
 __enlivened__  
 __enmity__ _n_ :six::hammer:  
 __ennui__ _n_  
+__enquiry__  
 __enrapture__ _v_ :two: To fill with rapture or delight.  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
@@ -3074,7 +3077,7 @@ __entryway__ _An entryway aquarium._
 __entwined__  
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
 __envisage__ _v_  
-__envision__  
+__envision__ _v_ :two::hammer:  
 __epaulets__  
 __epee__  
 __ephemeral__  
@@ -3797,6 +3800,7 @@ __gins__ _He passed cotton gins._
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __giridon__  
+__give and take__ _Love don't come easy. It's a game of give and take._  
 __give or take__ _idiom_ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
@@ -5921,6 +5925,7 @@ __outlays__ _n_
 __outlook__  
 __outmanned__ _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
+__outnumber__ _v_  
 __outpace__ _v_  
 __outpacing__ :two::hammer:  
 __outpatient__ :two::hammer:  
@@ -6110,7 +6115,7 @@ __pay off__ _v_
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__  
 __paydirt__ :two::hammer:  
-__payoffs__ _n_  
+__payoff__ _n_ :two::hammer: (payoffs)  
 __paywalls__  
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
@@ -6725,6 +6730,7 @@ __quench__
 __quenched__ _v_  
 __quenches__ _v_  
 __querulous__ :two::hammer:  
+__questioner__ _n_  
 __quibble__ _v_  
 __quibbled__ (quibbling) :two::hammer: _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
@@ -8066,6 +8072,7 @@ __sovereignty__ :pencil2:
 __sow__ _n_ :four::hammer: _A drunk sow._  
 __soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a soybean bin._  
 __space heater__ _n_  
+__spaceling__ _v_  
 __spackle__ :two::hammer:  
 __spade-bearded__  
 __spangle__ _v_ :six::hammer: (spangled, spangling)  
@@ -8941,7 +8948,7 @@ __to hell and back__ :two::hammer:
 __to his name__ _Bernie died with $1.09 to his name._  
 __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that effect__  
-__to that end,__  
+__to that end__ :two::hammer (to that end,)  
 __to this day__ :two::hammer:  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  
