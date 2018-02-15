@@ -2113,7 +2113,7 @@ __contrived__ _adj_ :two: Deliberately created rather than arising naturally or 
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convenience store__  
-__convivial__ :two::hammer:  
+__convivial__ _adj_ :three::hammer:  
 __conwise__  
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
@@ -2180,6 +2180,7 @@ __countenance__ :two::hammer: _His countenance was pale and sunken._
 __counter-depth fridge__ :camera:  
 __countered__ _Countered kitchen._  
 __counterfeit__ :two::hammer: _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
+__countermand__ _v_  
 __counterpoint__ _n_  
 __countervail__ _Countervailing evidence._  
 __country store__  
@@ -2999,6 +3000,7 @@ __elicit__ _v_ :four::hammer: (elicited)
 __eligibility__  
 __elite__ (elites) :two::hammer:  
 __elope__ _v_ :six::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
+__elucidate__ _v_  
 __elude__ :astonished:  
 __elusive__  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
@@ -4656,6 +4658,7 @@ __islet__ _Transplanting islet cells into the liver._
 __issuance__ _n_ :three::hammer:  
 __isthmus__  
 __it's a dog's life__ :dart::astonished:  
+__it's one of those things__ _idiom_  
 __ivy__ :two::hammer: :es: hiedra  
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
@@ -5714,7 +5717,7 @@ __noddies__ _n_
 __noir__ _A noir novel._  
 __nom de guerre__  
 __nomadic__  
-__non sequitur__ _n_ :two: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
+__non sequitur__ _n_ :three: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
 __non-call__ _He complained about non-calls._  
 __non-denominational__ _Non-denominational services._  
 __non-exempt__ _Non-exempt position._  
@@ -6171,7 +6174,7 @@ __peremptory__
 __perennial__ _adj_ :three::hammer:  
 __perfect storm__  
 __perfidious__  
-__perfunctory__ _adj_ :five::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
+__perfunctory__ _adj_ :six::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
 __periwinkles__  
 __perjury__ :two::hammer:  
@@ -6737,7 +6740,7 @@ __quick__ _His nails bitten to the quick._
 __quickening__ :two::hammer: _He felt a quickening within him._  
 __quicksand__ :two::hammer: _I've just signed a quicksand employment contract._  
 __quicksilver__  
-__quid pro quo__ :two::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
+__quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quill__ _n_  
 __quilt__  
 __quilting__ _Quilting bee._  
@@ -6748,6 +6751,7 @@ __quintessential__ :two::hammer:
 __quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
+__quitessential__ _adj_  
 __quiver__ _v_ :six::hammer: (quivering)  
 __quixotic__  
 __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
@@ -7365,6 +7369,7 @@ __schooling__ _I could smell trout schooling up in the bay._
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
 __scimitar__ _n_ :two::hammer:  
+__scintillating__ _adj_  
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
 __scleroderma__  
@@ -7496,6 +7501,7 @@ __sere__ _The sere terrain._
 __serious condition__ _Critical to serious condition, fair condition._  
 __sermon__  
 __servicers__  
+__serving__ _n_ (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
 __set out__ _v_  
 __set piece__ _The goal was scored on a set piece._  
@@ -8645,7 +8651,7 @@ __swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop o
 __swoop<sup>2</sup>__ _v_ :seven::hammer: (swooped, swooping)  
 __swoopy__  
 __swooshing__  
-__sycophant__ _n_ :three::hammer: (sycophants)  
+__sycophant__ _n_ :dart::four::hammer: (sycophants)  
 __syllogism__ :two::hammer:  
 __syndicated__ :two::hammer:  
 __syringe__  
@@ -8948,7 +8954,7 @@ __to hell and back__ :two::hammer:
 __to his name__ _Bernie died with $1.09 to his name._  
 __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that effect__  
-__to that end__ :two::hammer (to that end,)  
+__to that end__ :two::hammer: (to that end,)  
 __to this day__ :two::hammer:  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  
@@ -9381,7 +9387,8 @@ __vastly__
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
-__veggie__ _n_ _Holiday veggie roast._  
+__veg__ _n_ Vegetable. _Eat five servings of fruit or veg each day._  
+__veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__  
@@ -9437,7 +9444,7 @@ __virtually__ _adv_ :astonished: Practically, almost.
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
 __vistas__  
-__vitriol__ _n_ :four: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
+__vitriol__ _n_ :five: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
 __vituperation__  
 __vituperative__  
