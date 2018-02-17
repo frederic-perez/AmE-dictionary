@@ -10,3 +10,13 @@ __debris__
 __gravy__  
 __cabbage__  
 __the name of the game__  
+
+__monad__  
+__dyad__  
+__triad__  
+__double-take__ :two::hammer:  
+__manifesto__ _n_  
+__pug__  
+__time line__ _Can it be done in that time line?_  
+__corrugate__ _v_  
+__the sky is the limit__  
