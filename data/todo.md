@@ -20,3 +20,13 @@ __pug__
 __time line__ _Can it be done in that time line?_  
 __corrugate__ _v_  
 __the sky is the limit__  
+__baloney__ _n informal_ Nonsense.  
+__boloney__ Baloney.  
+__applesauce__  
+__malarkey__  
+__defective__ _adj_  
+__faulty__ _adj_  
+__counter__ _n_ _A lot of counter space._ :es: encimera  
+__this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
+__hollow__ _n_  
+__please__ (Use it at the end of a request/question.)  
