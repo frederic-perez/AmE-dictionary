@@ -30,3 +30,12 @@ __counter__ _n_ _A lot of counter space._ :es: encimera
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
 __hollow__ _n_  
 __please__ (Use it at the end of a request/question.)  
+
+__false friend__  
+__wine list__ _The wine list._ :es: la carta de vinos  
+__set menu__  
+__occasionally__ :pencil2:  
+__hardly ever__  
+__inland__  
+__on foot__ _I work to work on foot._  
+__keen__ _We are keen walkers._  
