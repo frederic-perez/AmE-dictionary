@@ -39,3 +39,16 @@ __hardly ever__
 __inland__  
 __on foot__ _I work to work on foot._  
 __keen__ _We are keen walkers._  
+
+__myopia__ _n_  
+__hyperopia__ _n_  
+__presbyopia__ _n_  
+__crystalline__ _Cristalline lens._  
+__emmetropia__ (?)  
+__pupil__ _n_  
+__astigmatism__ _n_  
+__ophthalmic__ _adj_  
+__binocular__ :mega: (?)  
+__acuity__  
+__eyewear__  
+__spectacles__ _pl n_  
