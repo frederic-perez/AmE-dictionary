@@ -52,3 +52,12 @@ __binocular__ :mega: (?)
 __acuity__  
 __eyewear__  
 __spectacles__ _pl n_  
+__acuity__ _Visual acuity._ :es: agudeza  
+__Rx lab__  
+__ametropy__ _n_  
+__corridor__ _n_  
+__optometry__ _n_  
+__iris__  
+__humor__  
+__diopter__ _n_ A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
+__fovea__ _n_  
