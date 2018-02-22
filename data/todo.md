@@ -61,3 +61,8 @@ __iris__
 __humor__  
 __diopter__ _n_ A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
 __fovea__ _n_  
+__eyesight__ _n_ :es: vista  
+__aberration__ _n_  
+__prescription__ _n_  
+__salad spinner__ _n_  
+__kale__ _n_  
