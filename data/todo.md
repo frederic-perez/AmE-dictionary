@@ -66,3 +66,11 @@ __aberration__ _n_
 __prescription__ _n_  
 __salad spinner__ _n_  
 __kale__ _n_  
+
+__aspherical__ _adj_  
+__long hours__ _The long hours you're putting in may not help._  
+__overly__  
+__incognito__  
+__talktative__  
+__rendition__ _n_  
+__relentless__  
