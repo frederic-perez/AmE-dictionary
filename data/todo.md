@@ -74,3 +74,13 @@ __incognito__
 __talktative__  
 __rendition__ _n_  
 __relentless__  
+__bookend__ _n_  
+__leek__ _n_  
+__trough__ _n_ Lowest point of a wave._  
+__toric__ _adj_ _Toric lens._  
+__eyeglasses__ _n_  
+__polish__ _v_  
+__smooth__ _v_  
+__essential__ _Special K - 8 essential vitamins._  
+__berserk__ _v_  
+__memo pad__ _n_  
