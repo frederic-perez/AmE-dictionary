@@ -84,3 +84,19 @@ __smooth__ _v_
 __essential__ _Special K - 8 essential vitamins._  
 __berserk__ _v_  
 __memo pad__ _n_  
+__Alaskan__  
+__fretwork__  
+__straight__ _Five weeks straight._  
+__prescription__ :two::hammer: _Prescription pills._  
+__diminishing returns__  
+__freak out__ _n_  
+__comforters__ _Sheets and comforters._  
+__hoard__ _v_  
+__AA__  
+__disclaimer__ _n_  
+__tranquilizer__ _n_ :mega:  
+__shrink__ _n_  
+__safety net__  
+__manic__ _I was manic._  
+__That being said,__  
+__pro bono__ _Some pro bono work._  
