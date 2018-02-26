@@ -100,3 +100,9 @@ __safety net__
 __manic__ _I was manic._  
 __That being said,__  
 __pro bono__ _Some pro bono work._  
+__heads up__  
+__rate__ _v_  
+__biggie__ _Pearl Harbor was a biggie._  
+__pitiful__  
+__then again__  
+
