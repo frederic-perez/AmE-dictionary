@@ -106,3 +106,13 @@ __biggie__ _Pearl Harbor was a biggie._
 __pitiful__  
 __then again__  
 
+__flat out__  
+__more than meets the eye__  
+__recap__  
+__naïveté__  
+__yo__  
+__sucker__  
+__airtight__  
+__tonsils__  
+__fucking A__  
+
