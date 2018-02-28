@@ -116,3 +116,10 @@ __airtight__
 __tonsils__  
 __fucking A__  
 
+__matt__  
+__matte__  
+__semi-finished__ _Semi-finished lens._  
+__gusto__  
+__gender gap__  
+__nasion__ _n_  
+__linger__  
