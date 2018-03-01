@@ -123,3 +123,13 @@ __gusto__
 __gender gap__  
 __nasion__ _n_  
 __linger__  
+
+__orthokeratology__  
+__lens__ _Lens design._  
+__lenses__ _n pl_  
+__prep__ (prepping) _I was prepping for the show._  
+__ultimately__  
+__spectacular__  
+__bug__ _Bug me not!_  
+__evince__ _v_  
+__burgeoning__  
