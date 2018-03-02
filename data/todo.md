@@ -133,3 +133,13 @@ __spectacular__
 __bug__ _Bug me not!_  
 __evince__ _v_  
 __burgeoning__  
+
+__catalog__ _n_  
+__catalogue__ _n_  
+__diversion__ _n_  
+__eyedrop__ _A natural lubricating eyedrop._  
+__portentous__  
+__Snellen chart__  
+__burning glass__  
+__opticks__ _Obsolete form of optics._  
+__stagnant__ _adj_  
