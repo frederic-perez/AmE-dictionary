@@ -143,3 +143,15 @@ __Snellen chart__
 __burning glass__  
 __opticks__ _Obsolete form of optics._  
 __stagnant__ _adj_  
+
+__legit__  
+__tarmac__  
+__drove__ _They buy tickets in droves._  
+__the bandwagon__ _n phr_ _Jump on the bandwagon._  
+__cryotherapy__  
+__misnomer__  
+__and so it goes__  
+__otter__  
+__Gabor__ :mega:  
+__helm__ _n_  
+__once in a while__  
