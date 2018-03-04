@@ -155,3 +155,21 @@ __otter__
 __Gabor__ :mega:  
 __helm__ _n_  
 __once in a while__  
+
+__catch__ _n_ (game)  
+__amethyst__ _n_  
+__trilobite__ _n_ :mega:  
+__either__ :mega:  
+__coerce__ _v_  
+__impression__ _n_  
+__trellis__ _n_  
+__drill__ _v_  
+__eye-socket__ :es: órbita del ojo  
+__derrick__ _n_  
+__percolate__ _v_  
+__percolator__ _n_  
+__kill__ _Kill the music._  
+__inappropriate__ _What the heck is that? Inappropriate toys!_  
+__pop__ _v_ _Pop the pimples._  
+__pimple__ _n_ _Pop the pimples._  
+__blackhead__ _n_  
