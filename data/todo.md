@@ -173,3 +173,12 @@ __inappropriate__ _What the heck is that? Inappropriate toys!_
 __pop__ _v_ _Pop the pimples._  
 __pimple__ _n_ _Pop the pimples._  
 __blackhead__ _n_  
+
+__surname__  
+__blurt__ _v_  
+__backlog__ _n_  
+__Mohs hardness__ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
+__subsequent__ _adj_  
+__glossiness__  
+__translucent__ _adj_  
+__juicy__  
