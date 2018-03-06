@@ -182,3 +182,12 @@ __subsequent__ _adj_
 __glossiness__  
 __translucent__ _adj_  
 __juicy__  
+
+__condition__ _n_  
+__rabbit hole__  
+__same old, same old__  
+__try on__  
+__pantoscopic__ _Pantoscopic tilt._  
+__retroscopic__  
+__accompany__ _v_  
+__bun__ _n_  
