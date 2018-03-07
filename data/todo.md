@@ -191,3 +191,16 @@ __pantoscopic__ _Pantoscopic tilt._
 __retroscopic__  
 __accompany__ _v_  
 __bun__ _n_  
+
+__plunge__ _v_ _Plunge the toilet._  
+__pop the cherries__  
+__legit__  
+__working title__  
+__tittle__ _n_ :pencil2: A very small part.  
+__title__ _n_ :pencil2:  
+__bootleg__ _The bootleg Lennon._  
+__fucking A__  
+__IIRC__ If I recall correctly.  
+__combat__ _n_  
+__corn beef__ (?)  
+__ludicrous__  
