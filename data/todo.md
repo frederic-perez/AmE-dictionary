@@ -204,3 +204,11 @@ __IIRC__ If I recall correctly.
 __combat__ _n_  
 __corn beef__ (?)  
 __ludicrous__  
+
+__epistaxis__ _n_ A nosebleed.  
+__randy__  
+__scoundrel__  
+__scumbag__  
+__entourage__ :es: séquito  
+__venom__ _n_  
+__nurse__ _n_  
