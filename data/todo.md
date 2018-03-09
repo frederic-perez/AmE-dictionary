@@ -212,3 +212,16 @@ __scumbag__
 __entourage__ :es: séquito  
 __venom__ _n_  
 __nurse__ _n_  
+
+__stomp__ _v_  
+__pigtails__  
+__lickety-split__ (lickety split)  
+__stat__ An abbreviation of the Latin _statim_, "immediately," often used in medical contexts.  
+__circumradius__  
+__circumsphere__  
+__circumcircle__  
+__um__  
+__ah__  
+__er__  
+__uh__  
+__crutch words__  
