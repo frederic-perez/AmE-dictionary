@@ -225,3 +225,22 @@ __ah__
 __er__  
 __uh__  
 __crutch words__  
+
+__hash browns__ _n pl_  
+__arrange__ _v_  
+__chips on their shoulders__  
+__razzmatazz__ _n_  
+__happy feet__  
+__harangue__ _v_  
+__double crossing__  
+__surprise surprise__  
+__hearth__ _Hearth repair._  
+__prowess__  
+__gentry__  
+__disparage__ _v_  
+__stationary bike__  
+__son of a biscuit__  
+__lustrous__  
+__quitter__ _Are you calling me a quitter?_  
+__sweet on someone__ _adj phr_  
+__man__ _Oh, man!_  
