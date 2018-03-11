@@ -244,3 +244,17 @@ __lustrous__
 __quitter__ _Are you calling me a quitter?_  
 __sweet on someone__ _adj phr_  
 __man__ _Oh, man!_  
+
+__check something out__  
+__chip on our shoulders__  
+__crash course__  
+__jagging__  
+__buckle down__  
+__spreading hairs__ (?)  
+__fill someone in__ _Thank you for filling us in._  
+__ragpicker__ _n_ _The ragpicker's dream._  
+__sine die__ 
+__open house__  
+__top dollars__  
+__countertop__  
+__cloakroom__  
