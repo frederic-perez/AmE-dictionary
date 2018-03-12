@@ -258,3 +258,15 @@ __open house__  
 __top dollars__  
 __countertop__  
 __cloakroom__  
+
+__besotted__  
+__gristle__ _n_  
+__jolly__ _adj_  
+__rhabdomancy__  
+__doe__ _n_  
+__playwright__  
+__dramatist__  
+__milling machine__ _n_  
+__bill__ _v_  
+__invoice__ _v_  
+__delivery note__  
