@@ -270,3 +270,19 @@ __milling machine__ _n_
 __bill__ _v_  
 __invoice__ _v_  
 __delivery note__  
+
+__bidding war__  
+__neophyte__  
+__the order of the day__  
+__asset__  
+__trough__  
+__cursory__  
+__incidentally__  
+__unlike__ _preposition_  
+__unlike__ _adj_  
+__primer__ _n_  
+__blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
+__onus__  
+__intertwine__  
+__mayoketchup__  
+__juicy__ 
