@@ -286,3 +286,11 @@ __onus__
 __intertwine__  
 __mayoketchup__  
 __juicy__ 
+
+__tux__ _n informal_ A tuxedo.  
+__try on__  
+__picky__  
+__qualm__  
+__for starters__  
+__toy__ _v_  
+__slurp__ _v_  
