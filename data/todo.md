@@ -294,3 +294,27 @@ __qualm__
 __for starters__  
 __toy__ _v_  
 __slurp__ _v_  
+
+__nappy__ _n_ (chiefly British)  
+__yay!__ _interj_  
+__up and under__ A basketball move.  
+__elate__ _v_  
+__ad hoc__  
+__gig__  
+__headstone__ _n_  
+__felon__  
+__control freak__  
+__decimate__ _v_ _It decimated their relationship._  
+__ambivalence__  
+__drop out__  
+__evicted__  
+__Mayan__ :mega:  
+__nail it down__  
+__recollection__ :two::hammer:  
+__stretch__ _n_ _We worked for stretches of 6 or 8 hours._  
+__inane__  
+__tequila poppers__  
+__sport__  
+__call someone names__ _I wouldn't call you names._  
+__loudmouth__ _I was a loudmouth._  
+__stand tall__  
