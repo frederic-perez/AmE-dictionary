@@ -318,3 +318,15 @@ __sport__
 __call someone names__ _I wouldn't call you names._  
 __loudmouth__ _I was a loudmouth._  
 __stand tall__  
+
+__croft__ _n_  
+__groove__  
+__maple__  
+__gospel__ _n_ :es: evangelio  
+__totally__  
+__pimple__ _n_  
+__tingle__ _v_  
+__chip apart__  
+__IP__ Intelectual property.  
+__rosy__  
+__lilac__  
