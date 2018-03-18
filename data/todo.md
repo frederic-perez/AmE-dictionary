@@ -347,3 +347,13 @@ __tigress__ _n_
 __cabinet__  
 __floor__ _The floor is closed._  
 __deck__  
+
+__highly__ _I highly recommend it._  
+__template__ :mega:  
+__yap__ _v_ _The dog was yapping._  
+__abyss__ :mega:  
+__definitely__  
+__embrace__ _v_ _The best role models embrace their flaws._  
+__role model__ _The best role models embrace their flaws._  
+__tribulation__ _n_  
+__flyboard__  
