@@ -357,3 +357,14 @@ __embrace__ _v_ _The best role models embrace their flaws._
 __role model__ _The best role models embrace their flaws._  
 __tribulation__ _n_  
 __flyboard__  
+
+__clicky__  
+__enormous__ :mega:  
+__corned beef__  
+__rickshaw__ _n_  
+__freak out__ _v_  
+__aficionado__  
+__pummel__ _v_  
+__debunk__ _v_  
+__stave off__ _v_  
+__implement__ _n_ A utensil or tool, especially one with a specific purpose.  
