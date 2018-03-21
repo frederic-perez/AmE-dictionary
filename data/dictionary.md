@@ -4679,8 +4679,7 @@ __incessantly__
 __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the field._  
 __inchoate__  
 __incident__ _A stroke incident to pancreatic cancer._  
-__incidentally__  
-__incidentally__  
+__incidentally__ :two::hammer:  
 __incognito__  
 __incongruities__ _n_  
 __incongruously__  
@@ -4861,8 +4860,7 @@ __joists__
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollof rice__  
-__jolly__ _adj_  
-__jolly__ _adj_ :three::hammer: _Jolly handshakes._  
+__jolly__ _adj_ :four::hammer: _Jolly handshakes._  
 __jolt__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jonesing__ _v_  
 __joog__ _v_  
@@ -4908,11 +4906,9 @@ __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into t
 __kabobs__  
 __kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
-__kale__ :two::hammer:  
-__kale__ _n_  
+__kale__ _n_ :three::hammer:  
 __keel__ _v_ :three::hammer: (keeled)  
-__keen__ _We are keen walkers._  
-__keen__ _adj_ :seven: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._  
+__keen__ _adj_ :eight: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tabs on__ :two::hammer: :es: vigilar  
 __keep up__  
@@ -4947,8 +4943,8 @@ __kike__ _Kike names._
 __kiki__  
 __kill a mockingbird__ _It was like killing a mockingbird._  
 __kill clock__ _v_  
-__kill__ _Kill the music._  
-__kill__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
+__kill<sup>1</sup>__ _v_ _Kill the music._  
+__kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
@@ -5133,9 +5129,7 @@ __leg up__ _Area's 2 reigning congressmen have leg up on funding._
 __legal tack__  
 __legerdemain__ _n_ :three::hammer:  
 __legion__ _The reasons you can't sleep well inflight are legion._  
-__legit__  
-__legit__  
-__legit__  
+__legit__ _adj_ _Slang_ :three: Legitimate.  
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
@@ -5196,8 +5190,7 @@ __likelier__
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
 __likewise__  
 __lilac tree__  
-__lilac__  
-__lilac__  
+__lilac__ :two::hammer:  
 __limb__ _Tree limb._  
 __limber__ _Limber stick._  
 __limerick__ _n_ :two::hammer: (limericks) _Even more usage limericks._  
@@ -5318,8 +5311,7 @@ __lowlife__
 __lowlights__  
 __lowly__  
 __lucifer match__  
-__ludicrous__  
-__ludicrous__ _adj_ :pencil2::seven: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrous__ _adj_ :pencil2::eight: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
 __lug__ _v_ :three::hammer:  
@@ -5391,8 +5383,7 @@ __makeup date__ _Today's game has been postponed; no makeup date has been snnoun
 __makeup game__  
 __making waves__ :two::hammer:  
 __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
-__malarkey__  
-__malarkey__ _n_ :dart::three::mega::hammer:  
+__malarkey__ _n_ :dart::four::mega::hammer:  
 __malevolent__  
 __malfeasance__ :two::hammer:  
 __maligned__  
@@ -5418,8 +5409,7 @@ __manifest__ _A manifest of olive oil._
 __manifesto__ _n_  
 __mannered__  
 __manor__ _A medieval manor house._  
-__mantel__  
-__mantel__ _n_ :four::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
+__mantel__ _n_ :five::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
 __mantle<sup>1</sup>__ _n_ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
 __mantle<sup>2</sup>__ _v_  
 __maple__  
@@ -5607,8 +5597,7 @@ __misfit__ _n_ :three::hammer: (misfits)
 __misgivings__ :two::hammer:  
 __mishap__ :mega::two::hammer:  
 __mishmash__ :two::hammer:  
-__misnomer__  
-__misnomer__ _n_ :five: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ _n_ :six: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __misogynist__  
 __misogyny__ :pencil2:  
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
@@ -5773,8 +5762,7 @@ __musty__
 __mutt__ _n_ :five::hammer:  
 __muttering__ _n_  
 __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
-__myopia__ :pencil2:  
-__myopia__ _n_  
+__myopia__ _n_ :pencil2::two::hammer:  
 __myriad__ :two::hammer:  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
@@ -5794,8 +5782,7 @@ __names and likeness__
 __namesake__  
 __nana__ _Her nana._  
 __nape__ _n_  
-__nappy__  
-__nappy__ _n_ (chiefly British)  
+__nappy__ _n_ :two::hammer: (chiefly British)  
 __narrative__  
 __narrow escape__  
 __narrowly__ _I narrowly escaped execution._  
@@ -5927,8 +5914,8 @@ __number of years__ _Winning the first playoff game in the organization in a num
 __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbly__  
 __nunchucks__  
-__nurse__ _n_  
-__nurse__ _v_ :two::hammer:  
+__nurse<sup>1</sup>__ _n_  
+__nurse<sup>2</sup>__ _v_ :two::hammer:  
 __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nurture__ _v_ :two::hammer: (nurtured) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
@@ -6028,8 +6015,7 @@ __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'A
 __onlookers__  
 __onset__ _n_ :two::hammer:  
 __onslaught__ :two::hammer:  
-__onus__  
-__onus__ _n_ :three::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
+__onus__ _n_ :four::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
 __oompah__ :two::hammer: _The house oompah band._  
 __oomph__ :two::hammer:  
@@ -6141,8 +6127,7 @@ __overflight__
 __overhead bin__ :two::hammer: (airplane) _Overhead bin space._  
 __overhead bins__ (airplane) :two::hammer:  
 __overlay__ _n_  
-__overly__  
-__overly__ _adv_ :dart::eight: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
+__overly__ _adv_ :dart::nine: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __overpass__ _n_  
 __overripe__ _An overripe eggplant._  
 __overseas__  
@@ -6431,8 +6416,7 @@ __pilings__ _A deserted cabin built on pilings._
 __pillbox hat__ :two::hammer:  
 __pillbox__ _A plum-colored pillbox hat._  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
-__pimple__ _n_  
-__pimple__ _n_ _Pop the pimples._  
+__pimple__ _n_ :two::hammer: _Pop the pimples._  
 __pin-curled__  
 __pin-drop silence__  
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
@@ -6530,8 +6514,7 @@ __playmaking__ _His playmaking ability._
 __playoff pairings__ _The final rankings and playoff pairings will be released Sunday._  
 __playpen__ _A portable paypen._  
 __playthings__ _n_  
-__playwright__  
-__playwright__ :two::hammer:  
+__playwright__ _n_ :three::hammer:  
 __plea deal__  
 __plea__ _n_ :four::hammer: _A prayerful plea to brek free of alcohol._  
 __plead out__  
@@ -6570,8 +6553,7 @@ __plump__ _Plump and juicy hotdogs._
 __plums__ _n_ :three::hammer:  
 __plunder__ :two::hammer:  
 __plundered__  
-__plunge__ _v_  
-__plunge__ _v_ _Plunge the toilet._  
+__plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plush__ _adj_ :five: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :six::hammer: _It is the perfecting designed environment to ply his trade._  
@@ -6618,10 +6600,8 @@ __poofy__ :pencil2:
 __pool cues__ :two::hammer:  
 __poorly__ _This is going to end very poorly._  
 __pop the cherries__  
-__pop<sup>1</sup>__ _n_ :four::hammer: _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
-__pop<sup>2</sup>__ _v_ :three::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._  
-__pop__ _n informal_ Father.  
-__pop__ _v_ _Pop the pimples._  
+__pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
+__pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
 __pops__ _n informal_ :two: Father.  
 __populace__  
 __pore__ _v_  
@@ -6711,8 +6691,7 @@ __prerogative__ _n_ :three::hammer:
 __presbyopia__ _n_  
 __prescience__ _n_  
 __prescient__ _adj_ :three::hammer:  
-__prescription__ :two::hammer: _Prescription pills._  
-__prescription__ _n_  
+__prescription__ _n_ :three::hammer: _Prescription pills._  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
 __preserve__ _A comedy about gorillas in a preserve._  
 __preserves__ _n_ :two::hammer: _A jar of fig preserves._  
@@ -6745,8 +6724,7 @@ __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._
 __prime-age__  
 __prime__ _Their master bedroom has a prime view of the green wall._  
 __primed__ :two::hammer:  
-__primer__ _n_  
-__primer__ _n_  
+__primer__ _n_ :two::hammer:  
 __priming__ _v_  
 __primly__ :two::hammer:  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
@@ -6758,8 +6736,7 @@ __prix__ _A $40 prix fixe meal._
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
 __prize<sup>2</sup>__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
 __prizefighter__ _n_ :three::hammer:  
-__pro bono__ :two::hammer: _Pro bono consultant._  
-__pro bono__ _Some pro bono work._  
+__pro bono__ :three::hammer: _Pro bono consultant._ _Some pro bono work._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __probation__ _A person has ben sentenced to probation._  
 __probity__  
@@ -6809,8 +6786,7 @@ __protégé__
 __provender__  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
 __provost__ _n_ :four: A provost is an administrator at a college or university. The provost is very important to the school.  
-__prowess__  
-__prowess__ _n_ :five: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
+__prowess__ _n_ :six: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
 __prude__ _n_  
 __prudent__  
@@ -6850,8 +6826,7 @@ __pullout__ _Pullout couches._
 __pulpit__ :two::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
-__pummel__ _v_  
-__pummel__ _v_ :four::hammer: (pummeled)  
+__pummel__ _v_ :five::hammer: (pummeled)  
 __pump__ _n_ :two::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pun__ :es: juego de palabras  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
