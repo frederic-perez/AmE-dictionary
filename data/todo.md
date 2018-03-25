@@ -25,3 +25,13 @@ __go for it!__
 __open mike__ :two::hammer: _When are you going to do an open mike?_  
 __sing along__  
 __keep an eye__ _Keep an eye on the Twitter._  
+
+__catch wind__ _I don't know if you caught wond of it._  
+__gauge__  
+__concerned__  
+__BMX__  
+__hood fan__  
+__afford__ _v_ _We can't afford it._  
+__suppository__ _n_  
+__popcorn__ :es: gotelé?  
+__impression__ _n_  
