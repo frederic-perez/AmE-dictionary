@@ -35,3 +35,13 @@ __afford__ _v_ _We can't afford it._
 __suppository__ _n_  
 __popcorn__ :es: gotelé?  
 __impression__ _n_  
+
+__preeminent__  
+__get out of here__  
+__go through the roof__  
+__endpiece__ _n_  
+__butt-strap__ _n_  
+__clasp__ _n_  
+__lining__ _n_  
+ __ID window__  
+__easy-to-use__ _An easy-to-use disposable camera._  
