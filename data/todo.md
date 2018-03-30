@@ -15,3 +15,13 @@ __impending__
 __nonsense__ _Pure nonsense!_  
 __thrash__ _v_ _Thrash talk._  
 __deep cut__  
+
+__expose__ _v_  
+__self-fulfilling__ _Self-fulfilling prophecy._  
+__fulfilling__  
+__eerie__  
+__authorative__  
+__wilfull__  
+__capers__ _n pl_  
+__delight__ _v_ _It delighted me even though I expected it._  
+__eye patch__  
