@@ -25,3 +25,11 @@ __wilfull__
 __capers__ _n pl_  
 __delight__ _v_ _It delighted me even though I expected it._  
 __eye patch__  
+
+__acorn__ _Mighty oaks from little acorns grow._  
+__fine__ _That's a very fine line._  
+__metal__ _I don't know if I'm metal enough to do that._  
+__saw__ _n_ A maxim or proverb.  
+__prodigal__  
+__emphasis__  
+__security__ :mega:  
