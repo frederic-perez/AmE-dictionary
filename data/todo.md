@@ -33,3 +33,15 @@ __saw__ _n_ A maxim or proverb.
 __prodigal__  
 __emphasis__  
 __security__ :mega:  
+
+__compelling__  
+__reversible__  
+__heirloom__ _n_  
+__antics__  
+__payoff__ _n_ _The third part of this book is the payoff._  
+__adorn__ _v_ _The pictures adorn the innards of each chapter._  
+__innards__ _v_ _The pictures adorn the innards of each chapter._  
+__firstborn__  
+__artifact__  
+__maw__ _n_  
+__toboggan__ _n_  
