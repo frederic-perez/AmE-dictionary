@@ -45,3 +45,20 @@ __firstborn__
 __artifact__  
 __maw__ _n_  
 __toboggan__ _n_  
+
+__cryptojacking__  
+__cryptomining__  
+__query__ :mega:  
+__readily__  
+__worrisome__  
+__windfall__ _Windfall bounties._  
+__massive__  
+__gracious__ _adj_  
+__genuine__  
+__clutch__ _v_ _She was clutching her hands._  
+__acne__  
+__come across__  
+__commission__ _v_  
+__canoe__ (?) :mega:  
+__poorly__ _I sleep poorly._  
+__trampoline__  
