@@ -62,3 +62,12 @@ __commission__ _v_
 __canoe__ (?) :mega:  
 __poorly__ _I sleep poorly._  
 __trampoline__  
+
+__construction paper__ _A heart made of construction paper._  
+__percentile__ :mega;  
+__vouch__ _v_  
+__upshot__ _n_  
+__admonition__ _n_  
+__pathos__ _n_  
+__crisp__ _adj_  
+__literate__  
