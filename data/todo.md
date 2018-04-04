@@ -71,3 +71,15 @@ __admonition__ _n_
 __pathos__ _n_  
 __crisp__ _adj_  
 __literate__  
+
+__hobo__ _n_  
+__chop__ _v_  
+__overarching__ _An overarching quality._  
+__orderly__ _Someone has taken the time to keep the code simple and orderly._  
+__reasonable__  
+__tangled__  
+__misdirection__  
+__rail__ _v_  
+__stridence__  
+__behoove__  
+__drift__ _You get the drift._  
