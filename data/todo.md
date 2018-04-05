@@ -83,3 +83,14 @@ __rail__ _v_
 __stridence__  
 __behoove__  
 __drift__ _You get the drift._  
+
+__qualify__ _v_  
+__nozzle__ _n_  
+__prequel__  
+__tucked__ _v_ _The violin was tucked under his wrm._  
+__coin__ _v_  
+__entrenched__  
+__copious__  
+__contrivance__  
+__pronounceable__  
+__regret__ _We violated this rule with regret._  
