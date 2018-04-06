@@ -254,6 +254,7 @@ __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._
 __Narcan__ _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
 __Nat Geo__ National Geographic.  
 __National Guard__  
+__Neutron Jack__  
 __New Jerseyan__  
 __New Jerusalem__  
 __NorCal__ Northern California.  
@@ -286,6 +287,7 @@ __Paulistano__
 __Pell Grants__ _Young people get cuts in Pell Grants._  
 __Pepe the frog__ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
 __Perkins booth__ _n_  
+__Petry dish__ :mega:  
 __Pharaoh__  
 __Philly__ :two::hammer:  
 __Picayune__  
@@ -445,8 +447,9 @@ __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time
 __acerbic__ _adj_ :three::hammer:  
 __acetate__ _n_  
 __acme__  
+__acne__  
 __acolytes__ :two::hammer:  
-__acorn__ _n_ :two: _The acorn don't fall far from the tree._ :es: bellota  
+__acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acqua boots (or Acqua boots or something similar?)__ _n_  
 __acquaintances__ :pencil2:  
 __acquiesce__  
@@ -474,8 +477,9 @@ __adjourne__ _v_ _The trip was adjourned to Feb. 1._
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
 __adjuvant__ _adj_ _The adjuvant setting._  
-__admonition__ _n_ :five: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
+__admonition__ _n_ :six: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
+__adorn__ _v_ _The pictures adorn the innards of each chapter._  
 __adroit__  
 __adroitly__  
 __adulation__  
@@ -623,7 +627,7 @@ __antebellum__
 __anthology__  
 __anti-Semitism__  
 __antic__  
-__antics__ _n_ _(plural)_ :four: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
+__antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _Antiques dealer._  
 __antsy__ _adj_  
@@ -692,7 +696,7 @@ __arrears__ _n_ :pencil2:
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrowroot__  
 __arson__ _n_  
-__artifact__ _n_  
+__artifact__ _n_ :two::hammer:  
 __artifacts__  
 __artistry__  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
@@ -767,6 +771,7 @@ __audible__ _v_
 __august__ _adj_  
 __aum__  
 __austere__  
+__authorative__  
 __autoclaving__  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__  
@@ -989,7 +994,7 @@ __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at
 __behold__ :two::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
-__behoove__ _v_ :three::hammer:  
+__behoove__ _v_ :four::hammer:  
 __beige book__ ?  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _"a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners' sugar.  
 __being at odds__ _They are at odds over the details of legislation._  
@@ -1644,6 +1649,7 @@ __cane brakes__
 __canebrake__ _n_  
 __canister__ _n_ :four::hammer: _Organic coffee canisters._  
 __cannolis__  
+__canoe__ (?) :mega:  
 __cantankerous__  
 __cantata__  
 __canted__ _v_ :two::hammer:  
@@ -1658,6 +1664,7 @@ __cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow 
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
+__capers__ _n pl_  
 __capful__  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
@@ -1874,6 +1881,7 @@ __choke__ _A team of choke artists._
 __choker__ _A velvet choker._  
 __chomp__ _v_  
 __chomping__  
+__chop__ _v_  
 __choppy__ _adj_ :three: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :seven: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chortles__ _v_  
@@ -1993,7 +2001,7 @@ __clunking__
 __clunky__ _adj_ :three::hammer:  
 __clutch player__  
 __clutch<sup>1</sup>__ _n_ :two::hammer: _He was a dominant player in the clutch._ _Clutches for iPhone._  
-__clutch<sup>2</sup>__ _v_ :two::hammer: _Butler and Wade were both clutch._  
+__clutch<sup>2</sup>__ _v_ :three::hammer: _Butler and Wade were both clutch._ _She was clutching her hands._  
 __clutching__  
 __clyster__ _n_ :two::hammer: (clysters)  
 __co-op__ _n_ :nine: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
@@ -2022,6 +2030,7 @@ __cohesive__ :dart::two::hammer: _A more cohesive layout._
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__  
+__coin__ _v_  
 __coincided__ _v_  
 __coincidental__  
 __colander__  
@@ -2042,6 +2051,7 @@ __comatose__
 __combat__ _n_  
 __combines__ _Basketball_  
 __combs__ _n_ _The hens had red combs, wattles, and earlobes._  
+__come across__  
 __come around__  
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
@@ -2062,7 +2072,7 @@ __commendation__ _He earned two commendation medals._
 __commendations__ _n_  
 __commentary__  
 __commingled__ :two::hammer:  
-__commission<sup>1</sup>__ _v_ :astonished::seven: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
+__commission<sup>1</sup>__ _v_ :astonished::eight: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
 __commode__  
@@ -2074,7 +2084,7 @@ __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
 __compel__ _v_ :three::hammer:  
-__compelling__ _adj_ Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
+__compelling__ _adj_ :two: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
 __completion__ _n_  
 __compliance__ :two::hammer: _Compliance guy._  
@@ -2149,6 +2159,7 @@ __conspicuous__ _adj_ :four: (conspicuously) __1__ Obvious or easy to notice. _A
 __constituency__ _n_ :five::hammer: (constituencies)  
 __constituent__ _n_ :three::hammer: (constituents)  
 __constituents__  
+__construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :five::hammer: (construed)  
 __consumption__ (ailment?)  
 __contagion__  
@@ -2170,7 +2181,7 @@ __contrarian__
 __contretemps__  
 __contrite__  
 __contrition__ _n_ :three::hammer:  
-__contrivance__ _n_  
+__contrivance__ _n_ :two::hammer:  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__  
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
@@ -2194,6 +2205,7 @@ __cop-out__ _n informal_ Something you do or say in order to avoid doing or acce
 __copacetic__ _adj informal_ :five: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
 __cope__ _A grey cope._  
+__copious__  
 __copper-bottom hit__  
 __coppice__ _n_  
 __copping__ _v_ :two::hammer: _You're copping to a murder beef._  
@@ -2338,7 +2350,7 @@ __cringingly__
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
-__crisp__ _adj_ :five::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
+__crisp__ _adj_ :six::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
 __crisper__ _Our dishes and crisper trays._  
 __crisply__ _Nuggent greeted him crisply._  
 __crisscross__  
@@ -2377,6 +2389,7 @@ __crucible__ _n_ :six::hammer:
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
 __cruel__ _His body looked cruel._  
+__crufty__  
 __crumb__ _n_ :three::hammer: (crumbs) _Potato chip crumb._  
 __crumble__ _v_ :three::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
@@ -2393,6 +2406,8 @@ __crutch__ _n_ :three::hammer: _Diabetes isn't a crutch or an anchor._ _It becam
 __crux__ _n_ :two::hammer: _The crux of the matter._  
 __cry foul__ :two::hammer: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cryotherapy__  
+__cryptojacking__  
+__cryptomining__  
 __crystal meth__  
 __crystal__ _Meth?_  
 __crystalline__ _Cristalline lens._  
@@ -2544,6 +2559,7 @@ __dedication__
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
+__deep cut__  
 __deep freezers__  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
@@ -2582,6 +2598,7 @@ __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._
 __delectable__ :two::hammer:  
 __deleterious__  
 __deli__  
+__delight__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
 __deliver__ _v_ _Republicans apparently cannot deliver._  
 __deliverance__  
@@ -2925,7 +2942,7 @@ __dressing room__ :two::hammer: _(vs fitting room)_
 __dressing__ _It's going to take longer to get to that turkey and dressing._  
 __dribble__ _v_ :es: regatear?  
 __dribbled__ _v_  
-__drift__ _n_ _You get the drift._  
+__drift__ _n_ :two::hammer: _You get the drift._  
 __drifter__ :two::hammer:  
 __driftwood__ :two::hammer: _Driftwood logs._  
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
@@ -3055,7 +3072,7 @@ __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._
 __edict__  
 __educated guess__ _n_ :two::hammer:  
 __eel__  
-__eerie__ _n_ :four::hammer:  
+__eerie__ _n_ :five::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
@@ -3119,6 +3136,7 @@ __emerity__ _Faculty emerity._
 __emery__ _n_ :four::hammer: _An emery wheel._ _Emery paper._  
 __emmetropia__ (?)  
 __emo__ _adj_ :two::hammer:  
+__emphasis__  
 __emphasize__ _v_ :two::hammer:  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
@@ -3171,7 +3189,7 @@ __entitlement__ _n_ :four::hammer: _Entitlement programs._
 __entourage__ :two::hammer: :es: séquito  
 __entrant__ :astonished:  
 __entrench__ _v_ :six: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
-__entrenched__ _adj_ :five: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
+__entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
 __entwined__  
@@ -3262,6 +3280,7 @@ __expediting__ _v_
 __expeditiously__  
 __expenditure__ _n_ :three: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time.  
 __expletive__ :pencil2: _Bombing the expletive oout of its oil fields._  
+__expose__ _v_  
 __exposures__ (?) _Penthouse features include multiple exposures._  
 __extent__ _To the same extent._  
 __extol__ _v_ :two::hammer: _But he extols running as what helps him stay clean._  
@@ -3274,6 +3293,7 @@ __extremes__
 __extricate__ _v_ :five::hammer: (extricated) _Rescue crews extricated him from the car._  
 __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
 __eye mask__ (to sleep)  
+__eye patch__  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
 __eye-socket__ :es: órbita del ojo  
 __eyeball__  
@@ -3443,6 +3463,7 @@ __film maker__ _n_ ?
 __finalize__ _v_  
 __fine print__  
 __fine-tune__ _v_  
+__fine__ _That's a very fine line._  
 __finery__  
 __finesse__ _v_  
 __finest hour__ :astonished:  
@@ -3462,6 +3483,7 @@ __firebug__ _n_
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __first and foremost__  
+__firstborn__  
 __firsthand__  
 __fissile__ _Fissile material._  
 __fist-pumper__  
@@ -3765,6 +3787,7 @@ __fuddy-duddy__
 __fudge__ _v_ :two::hammer:  
 __fudging__ _Fudging statistics._  
 __fulcrum__ :two::hammer:  
+__fulfilling__  
 __full-blown__  
 __full-bodied__ :two::hammer:  
 __full-fledged__ :two::hammer: _Full-fledged work._  
@@ -3880,6 +3903,7 @@ __gentrification__ _n_ :three: Gentrification is a process of renovation of dete
 __gentrify__ _v_ (gentrifying)  
 __gentry__ :two::hammer:  
 __genuflects__ _v_  
+__genuine__  
 __gerrymander<sup>1</sup>__ _v_ :five: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __get a grip__  
@@ -3911,6 +3935,7 @@ __giggling__
 __gills > packed to the gills__ _idiom_ :two: Completely full; teeming; having no room to spare. _I've got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother's Thanksgiving meal._  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
+__gimmick__  
 __gimmicks__ _No "get in the door" gimmicks._  
 __gimmicky__  
 __gimpy__ :two::hammer: _A gimpy angle._ _Gimpy gait._  
@@ -4010,7 +4035,7 @@ __gout__
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_  
 __gracial pace__ _?_ _At a glacial pace._  
-__gracious__ _adj_ :two::hammer:  
+__gracious__ _adj_ :three::hammer:  
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
@@ -4367,7 +4392,7 @@ __heft__ _n_ :two::hammer:
 __hefted up__  
 __hefty__  
 __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
-__heirloom__ _n_ :four::hammer: _Family heirlooms._  
+__heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
 __heist__ :two::hammer: _A jewelry heist._ _A true-life heist drama._  
@@ -4456,6 +4481,7 @@ __hoary__ :two::hammer:
 __hobble__ _v_ :nine: (hobbled) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
+__hobo__ _n_  
 __hock__ _n_ :two::hammer: (hocks) _The horse struggled to stand on a broken hock._  
 __hod__ _n_  
 __hoe<sup>1</sup>__ _n_ :two: A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
@@ -4647,7 +4673,7 @@ __impeccable__
 __impeccably__ :two::hammer:  
 __impede__ _v_ :three::hammer: (impeded)  
 __impedimenta__ _n_  
-__impending__ _adj_ :eight: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
+__impending__ _adj_ :nine: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :four::hammer: (imperiled)  
 __imperious__  
 __impermissible__ :two::hammer:  
@@ -4657,7 +4683,7 @@ __impetus__ _n_ :three::hammer:
 __impinge__  
 __impish__ _Impish sense of humor._  
 __implausible__  
-__implement__ _n_ A utensil or tool, especially one with a specific purpose.  
+__implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __impound__ _v_ :two::hammer: _The Ponticac was impounded._  
 __imprecation__ _n_ :two: A curse.  
 __impression__ _n_ :two::hammer:  
@@ -4748,6 +4774,7 @@ __injury time__
 __injury-marred__ _Federer had an injury-marred season._  
 __inkling__ _n_ :three::hammer:  
 __inland__  
+__innards__ _v_ _The pictures adorn the innards of each chapter._  
 __innumerate__  
 __inordinate__ _adj_ :three::hammer:  
 __inordinately__  
@@ -5245,7 +5272,7 @@ __listing__ _One current listing is a $30 million property._
 __listless__ :two::hammer:  
 __litany__ _n_ :four: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
-__literate__  
+__literate__ :two::hammer:  
 __lithe__ :two::hammer:  
 __litigation__  
 __litigator__  
@@ -5468,6 +5495,7 @@ __mascot__ (vs pet)
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
+__massive__  
 __mast__ _n_ _The flag was flown at half mast._  
 __mat__ _I'm not going to the mat for her._  
 __matahara__ Maternity harassment.  
@@ -5488,7 +5516,7 @@ __maturities__ _List of maturities._
 __maudlin__ :two::hammer:  
 __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling group._  
 __maven__ _n_ :three::hammer:  
-__maw__ _n_ :three::hammer:  
+__maw__ _n_ :four::hammer:  
 __mawkish__ Effusively or insincerely emotional.  
 __max out__ _v_ :two::hammer: _He maxed out on the education available to black children._  
 __maxed__ _v_  
@@ -5551,7 +5579,7 @@ __mesh strainer__
 __metal casement windows__ :camera:  
 __metal flashing__  
 __metal shavings__  
-__metal__ _adj_ :five::hammer:  
+__metal__ _adj_ :six::hammer: _I don't know if I'm metal enough to do that._  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
 __meter__ _n_ _The cab driver waited with the meter running._  
@@ -5611,7 +5639,7 @@ __misconduct__
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ :two::hammer:  
-__misdirection__  
+__misdirection__ :two::hammer:  
 __miser__ _n_  
 __miserable__ _We are miserable._  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
@@ -5900,7 +5928,7 @@ __noncommittal__ _adj_ :three::hammer:
 __nondescript__ _adj_ :three::hammer:  
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_  
-__nonsense__ _n_ _Nonsense!_  
+__nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
@@ -5921,7 +5949,7 @@ __nothing but the best__ :dart: _I wish her nothing but the best._
 __notwithstanding__ _prep_ :three::hammer:  
 __novella__  
 __noxious__  
-__nozzle__  
+__nozzle__ _n_ :two::hammer:  
 __nuance<sup>1</sup>__ _n_ :dart::three: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _n_ :two::hammer: _A punched nub._  
@@ -6059,7 +6087,7 @@ __opulent__
 __orb__ _n_ :two::hammer:  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
-__orderly__ _Someone has taken the time to keep the code simple and orderly._  
+__orderly__ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :three::pencil2::hammer:  
 __ore__ :two::hammer:  
@@ -6144,6 +6172,7 @@ __over-under__
 __overachieve__  
 __overall standings__ _31 points in the overall standings._  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
+__overarching__ _An overarching quality._  
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overboard__ _To go overboard._  
@@ -6282,7 +6311,7 @@ __pate__ _n_ :three::hammer: _The pate of a monk with a wet red tonsure._ _His g
 __patently__ _Patently absurd._  
 __pathogenic__  
 __pathogens__ _n_  
-__pathos__ _n_ :three::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
+__pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patinated__ _v_  
 __patois__  
 __patron__ _n_ :five::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._  
@@ -6303,7 +6332,7 @@ __pay off__ _v_
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__  
 __paydirt__ :two::hammer:  
-__payoff__ _n_ :two::hammer: (payoffs)  
+__payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywalls__  
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
@@ -6354,6 +6383,7 @@ __pep__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a l
 __pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
+__percentile__ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :three::hammer:  
 __percolate__ _v_  
@@ -6574,6 +6604,7 @@ __plum trees__
 __plum wine__  
 __plum__ _n_ :three::hammer: _Plum-and-onion stuffing._  
 __plumb__ _v_ :two::hammer:  
+__plumbing__  
 __plummeted__ _v_ :three::hammer: (plummeting)  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
@@ -6624,7 +6655,7 @@ __poo-pooked__ _A poo-pooked (poo-poohed) its properties._
 __pooch__  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
-__poorly__ _This is going to end very poorly._  
+__poorly__ :two::hammer: _I sleep poorly._ _This is going to end very poorly._  
 __pop the cherries__  
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
@@ -6714,6 +6745,7 @@ __preposterous__ _adj_ :six::hammer:
 __preposterously__  
 __preppers__  
 __prepping__ _v_  
+__prequel__  
 __prerogative__ _n_ :three::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_  
@@ -6772,6 +6804,7 @@ __proceeds__ _n_ :seven: The money that has been gained from doing something or 
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod__ (prodded) :two::hammer: :es: _empujón_  
+__prodigal__  
 __produce__ _n_ :two::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
 __profanely__  
 __professed__ _v_  
@@ -6792,6 +6825,7 @@ __prong__ _A two-prong whatnot._
 __pronged__  
 __prongs__ _n_ :two::hammer:  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
+__pronounceable__  
 __prop up__ _But with her leg propped up._  
 __prop__ _v_  
 __propaganda__ _n_ :astonished:  
@@ -6917,6 +6951,7 @@ __quail<sup>2</sup>__ _v_ :three::hammer: (quailed)
 __quaint__ _adj_ :nine: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
 __quaintly__ :two::hammer:  
 __quakes__ _v_  
+__qualify__ _v_  
 __qualm__ _n_ :five: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ _n_ :six: Difficult dilemma. _All-Star managers face quandary._  
 __quarry__  
@@ -6935,6 +6970,7 @@ __quench__
 __quenched__ _v_  
 __quenches__ _v_  
 __querulous__ :two::hammer:  
+__query__ :mega:  
 __questioner__ _n_  
 __quibble__ _v_  
 __quibbled__ (quibbling) :two::hammer: _Their word choice gets quibbled with._  
@@ -6977,6 +7013,7 @@ __racous__
 __racousness__  
 __racquet__  
 __racy__ :two::hammer: _A racy line from a popular song._  
+__radical candor__  
 __radish__  
 __raffle<sup>1</sup>__ _n_ :two::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
@@ -6986,7 +7023,7 @@ __raged__ _v_
 __ragpicker__ _n_ _The ragpicker's dream._  
 __ragtag__ :two::hammer: _A ragtag group._  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
-__rail<sup>2</sup>__ _v_ :two::hammer: (railed) _He is railing against Medicaid._  
+__rail<sup>2</sup>__ _v_ :three::hammer: (railed) _He is railing against Medicaid._  
 __raiment__ _n_ :two::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _football_  
@@ -7080,7 +7117,7 @@ __razzle-dazzle__ :two::hammer:
 __razzmatazz__ _n_  
 __reach for the stars__ Have high or ambitious aims.  
 __reach out__ _v_ :six::hammer: _Reaching out to prevent aids._  
-__readily__  
+__readily__ :two::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
 __reaffirming__  
@@ -7090,6 +7127,7 @@ __ream<sup>1</sup>__ _v_ :four::hammer: (reamed)
 __ream<sup>2</sup>__ _n_ :pencil2::two::hammer: (reams) _He watched reams on tape._  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
+__reasonable__  
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
@@ -7139,7 +7177,7 @@ __redress__ _To seek redress._
 __redshirt__ _v_ :four::hammer: (redshirting)  
 __redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::hammer:  
-__reed__ _A reed basket._  
+__reed__ :two::hammer: _A reed basket._  
 __reeds__ _n_ :three::hammer:  
 __reefer__ :two::hammer: _He was hitting on a reefer._  
 __reefs__ _n_ :two::hammer:  
@@ -7160,6 +7198,7 @@ __regaled__
 __regalia__ _n_ :two::hammer:  
 __regents__ _n_  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
+__regret__ _We violated this rule with regret._  
 __regrets__ _n_  
 __regular shipping__ (vs _expedited shipping_)  
 __regulation__ :two::hammer: _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
@@ -7275,6 +7314,7 @@ __revelling__
 __revelry__ :two::hammer:  
 __revenant__  
 __revered__  
+__reversible__  
 __revile__ _v_ :two::hammer:  
 __revisionist__  
 __revisit__ _v_  
@@ -7542,6 +7582,7 @@ __sautoir__ _Sautoir necklace._
 __savagery__  
 __save the day__  
 __savior__  
+__saw__ _n_ A maxim or proverb.  
 __sawed-off__  
 __sawgrass__ :two::hammer:  
 __sawhorse__ _n_ :five::hammer: (sawhorses)  
@@ -7559,7 +7600,7 @@ __scalpel__
 __scalper__ _n_ :three::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
 __scamper__ _v_ :three::hammer: (scampered, scampering) _Scampered into the van._  
-__scant__ _adj_ :six: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
+__scant__ _adj_ :seven: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scapegoated__ _v_  
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man's psyche for years._  
@@ -7669,11 +7710,12 @@ __seaside__
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
 __seaweed__ :two::hammer:  
-__second-guess__ _v_ :three::dart: (second-guessing)  
+__second-guess__ _v_ :four::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secular__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__ _He travels with a security detail._  
+__security__ :mega:  
 __sedan chair__ _n_  
 __sedate__ (sedate menswear)  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
@@ -7697,6 +7739,7 @@ __sekuhata__ Sexual harassment.
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-effacing__ :two::hammer:  
+__self-fulfilling__ _Self-fulfilling prophecy._  
 __self-righteous__  
 __self-steem__  
 __selfless__  
@@ -8694,12 +8737,12 @@ __strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you
 __strewn__ _v_ :two::hammer:  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
-__stridence__  
+__stridence__ :two::hammer:  
 __strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __striker__ _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
 __string knife__ :two::hammer:  
-__stringent__ _adj_ :nine: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
+__stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
 __stripling__ _n_  
@@ -8946,6 +8989,7 @@ __tan__ Color?
 __tang__ _n_ :three::hammer: _Dory, the little blue tang fish._  
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
+__tangled__  
 __tank__ _v_ :six::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._  
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
@@ -9096,7 +9140,7 @@ __thorough__ :astonished: _It's a very serious matter that needs thorough invest
 __thoroughfare__  
 __thoroughly__  
 __thrall__ _n_ :five::hammer:  
-__thrash__ _v_ :eight::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._  
+__thrash__ _v_ :nine::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._ _Thrash talk._  
 __thrifty__  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
@@ -9208,6 +9252,7 @@ __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the 
 __toast > French toast__  
 __toast__ _adj_ :two::hammer: _I'm just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
+__toboggan__ _n_  
 __toe jam__ _n_ :two::hammer:  
 __toe-curling__  
 __toe-poppers__  
@@ -9294,6 +9339,7 @@ __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendi
 __traipsing__  
 __tramp__ _adj_  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._  
+__trampoline__  
 __trampolines__ _n_  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __tranquilizer__ _n_ :mega:  
@@ -9399,7 +9445,7 @@ __tube socks__ :camera:hammer: A type of knee-high sports sock; usually white wi
 __tubthumping__  
 __tuck away__  
 __tuck tail__ _You just don't tuck tail and go someplace else._  
-__tuck<sup>1</sup>__ _v_ :three::hammer: (tucks, tucked) _The quarterback tucks the ball._  
+__tuck<sup>1</sup>__ _v_ :four::hammer: (tucks, tucked) _The violin was tucked under his arm._ _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
 __tufted__  
 __tug of war__ _n_ :three::hammer:  
@@ -9581,6 +9627,7 @@ __upcoming__
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
+__upfront__ _adj_  
 __upheaval__ _n_ :five::hammer:  
 __uphill battle__  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
@@ -9601,7 +9648,7 @@ __upscale__
 __upsell__ _v_ (?)  
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
-__upshot__ _n_ :four::hammer:  
+__upshot__ _n_ :five::hammer:  
 __upside__ :two::hammer: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
@@ -9726,7 +9773,7 @@ __volley__ :two::hammer: _A volley of invective._ _(military attack?)_
 __voltron__  
 __voluble__  
 __votaries__  
-__vouch__ _v_  
+__vouch__ _v_ :two::hammer:  
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __vow__ _v_  
@@ -9949,6 +9996,7 @@ __wilderness__
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
 __wilful__  
+__wilfull__  
 __will__ _v_  
 __willful__  
 __willfully__  
@@ -9966,7 +10014,7 @@ __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind up__ :two::hammer: (wind-up) _It's a wind-up toy._  
 __winded__  
-__windfall__ _n_ :eight::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ :es: ganancia inesperada  
+__windfall__ _n_ :nine::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ _Windfall bounties._ :es: ganancia inesperada  
 __windlass__  
 __window sash__ _n_  
 __windshield wipers__  
@@ -10039,7 +10087,7 @@ __working title__
 __workmanlike__  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
-__worrisome__  
+__worrisome__ :two::hammer:  
 __worrywarts__  
 __worshiper__  
 __wort__  
