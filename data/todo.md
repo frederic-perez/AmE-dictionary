@@ -25,3 +25,15 @@ __double step__ _v_
 __water down__ _v_  
 __persona__ _That's my stage persona._  
 __willy-nilly__  
+
+__gig__ _v_ (gigging)  
+__aerials__  
+__kiwi__  
+__concoction__  
+__strong accent__  
+__diehard__  
+__super-duper__ _Super-duper crisp chicken wings._  
+__poor-boy__ _Poor-boy sandwich._  
+__sliders__ (food)  
+__pass out__ _v_  
+__signature__ _That's their signature meal._  
