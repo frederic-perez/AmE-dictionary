@@ -28,3 +28,12 @@ __reach for the sky__
 __situation__ _We've got a situation in there!_  
 __Gee!__  
 
+__abomination__ _I’ve written several nasty 3,000-line abominations._  
+__sieve__  
+__accrete__ _v_ _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
+__dork__  
+__deleterious__  
+__double-take__ _Output arguments often cause us to do a double-take._  
+__top the bill__ _I'll top the bill, I'll overkill._  
+__overkill__ _v_ _I'll top the bill, I'll overkill._  
+__give in__ _I'm never giving in._  
