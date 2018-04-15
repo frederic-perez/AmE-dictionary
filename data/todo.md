@@ -37,3 +37,11 @@ __double-take__ _Output arguments often cause us to do a double-take._
 __top the bill__ _I'll top the bill, I'll overkill._  
 __overkill__ _v_ _I'll top the bill, I'll overkill._  
 __give in__ _I'm never giving in._  
+
+__whereas__  
+__double-take__ _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._  
+__gyroscopic__ :mega: _Gyroscopic effect._  
+__swiftness__ _The days of our lives have flown in the swiftness of time._  
+__daffodils__  
+__shilling__ _I'm not quite the shilling._  
+__top bill__ _I'm not my usual top billing._  
