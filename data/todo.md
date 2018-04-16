@@ -11,3 +11,11 @@ __nefarious__
 __secret weapon__  
 __tower__ _v_ _Towering over our heads._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
+
+__sign up__ _v_  
+__set someone apart__  
+__capuchin monkey__ :mega:  
+__flabbergasted__  
+__oxymoron__ :mega:  
+__contention__  
+__ins and outs__  
