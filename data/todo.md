@@ -1,43 +1,13 @@
-__Gee!__ _exclamation_ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy.  
-__Quaker__  
-__abomination__ _I’ve written several nasty 3,000-line abominations._  
-__accrete__ _v_ _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
-__chances are__  
-__compulsory__  
-__crumple<sup>1</sup>__ _v_ _Is that my suit crumpled in a ball?_  
-__crumple<sup>2</sup>__ _n_  
-__daffodils__  
-__deleterious__  
-__deliverance__  
-__diopter__  
-__divine__ _v_  
-__dork__  
-__double-take__ _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._  
-__double-take__ _Output arguments often cause us to do a double-take._  
-__dreamy__  
-__endowed__  
-__exec__ _I'm a retired tech exec._  
-__give in__ _I'm never giving in._  
-__gyroscopic__ :mega: _Gyroscopic effect._  
-__handglider__  
-__inadvertently__  
-__intuit__ _v_  
-__limerick__ _n_ (poetry)  
-__mill__ _n_ A million dollards.  
-__mouth-watering__  
-__only problem is__  
-__outshit__ _v_  
-__overkill__ _v_ _I'll top the bill, I'll overkill._  
-__reach for the sky__  
-__red eye__  
-__riffle__ _v_  
-__scour__ _v_  
-__shilling__ _I'm not quite the shilling._  
-__sieve__  
-__situation__ _We've got a situation in there!_  
-__swiftness__ _The days of our lives have flown in the swiftness of time._  
-__tap__ _v_ (dance)  
-__top bill__ _I'm not my usual top billing._  
-__top the bill__ _I'll top the bill, I'll overkill._  
-__wheelie__  
-__whereas__  
+__big dog__ _n_ _informal_ A notably prominent, important, or powerful person, organization, etc.  
+__botched__ _adj_ Used to describe something, usually a job, that is done badly. _A botched deal._  
+__chicken run__  
+__deranged__ _adj_  
+__flabbergast__ _v_ (flabbergasted)  
+__flash rust__ :camera:  
+__get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
+__glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
+__glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
+__nefarious__  
+__secret weapon__  
+__tower__ _v_ _Towering over our heads._  
+__turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
