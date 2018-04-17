@@ -1087,6 +1087,7 @@ __big brother__
 __big cat__ :es: felino  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It's not a big deal._ __2__ An important person: She was a big deal in local politics.  
 __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
+__big dog__ _n_ _informal_ A notably prominent, important, or powerful person, organization, etc.  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __big time__ :two::hammer:  
@@ -1315,7 +1316,7 @@ __boring__ _v_ _He began throwing two touchdown passes, boring through traffic._
 __borne__ _v_ :five::hammer:  
 __bosom__  
 __bossy__ _adj_  
-__botched__ _v_ :three::hammer:  
+__botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
 __bothersome__  
 __botnet__  
 __bottle fly__ _n_  
@@ -1632,6 +1633,7 @@ __calliopes__
 __callous__ _adj_ :five::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
 __calves__  
+__camaraderie__  
 __cameleer__  
 __camellia__  
 __camo__  
@@ -1677,6 +1679,7 @@ __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats
 __capstone__ _n_  
 __captain__ _v_  
 __captaincy__  
+__capuchin monkey__ :mega:  
 __carabiner__ _n_ :camera::two::hammer:  
 __carapaces__ _n_  
 __carat__  
@@ -1718,7 +1721,7 @@ __carton__ _n_ :two::camera::hammer: _A carton of eggs._ _A carton of milk._ :ca
 __carve out__ _v_ (carved out) :six::hammer:  
 __carveouts__  
 __case at hand__  
-__case in point__  
+__case in point__ :two::hammer: _Those comments are a case in point._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
@@ -1845,11 +1848,13 @@ __cheesecloth__ _n_ :three::hammer:
 __cheesy__ _adj informal_ :two: Cheap and of low quality. _Cheesy motel rooms._  
 __chenier__  
 __cherry blossoms__ _n_  
+__cherry pick__ _v_ (cherrypick)  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
 __chicken > game of chicken__  
 __chicken coop__ :two::hammer:  
 __chicken pox__  
+__chicken run__  
 __chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious and yummy._  
 __chicken wire__  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
@@ -2170,7 +2175,7 @@ __contempt__
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contend__ _v_ :three::hammer: (contended)  
 __content__  
-__contention__ _n_ :eight: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
+__contention__ _n_ :nine: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
 __contentious__ _adj_ :seven: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
@@ -2393,7 +2398,7 @@ __crud__
 __crude__ _adj_ :two::hammer: _Crude humor._  
 __crudity__ _"Please, excuse the crudity of the model," said Dr. Brown._  
 __cruel__ _His body looked cruel._  
-__crufty__  
+__crufty__ :two::hammer: _A crufty comment._  
 __crumb__ _n_ :three::hammer: (crumbs) _Potato chip crumb._  
 __crumble__ _v_ :three::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
@@ -2469,7 +2474,8 @@ __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used 
 __cutlets__ _Chicken cutlets._  
 __cutline__ _n_  
 __cutter__ _A Coast Guard cutter._  
-__cutthroat__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
+__cutthroat<sup>1</sup>__ _n_  
+__cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin' a rug__  
 __cyclone__ _n_  
 __cynical__  
@@ -2647,7 +2653,7 @@ __deposition__ _n_ :two::hammer:
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
 __derail__ _v_  
-__deranged__ :two::hammer: _A deranged man._  
+__deranged__ _adj_ :three::hammer: _A deranged man._  
 __derelict__ _adj_ :two::hammer:  
 __dereliction__  
 __derision__  
@@ -2886,7 +2892,7 @@ __dourly__
 __douse__ _v_  
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
 __dove__ _v_  
-__dovetails__ _v_ :two::hammer:  
+__dovetail__ _v_ (dovetails) :three::hammer:  
 __down payment__ :two::hammer: _A down payment for his role as a recruitment of muscle for the operation._  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
@@ -3511,7 +3517,7 @@ __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._
 __fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle__ _v_ :three::hammer: (fizzled)  
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
-__flabbergasted__  
+__flabbergast__ _v_ :three::hammer: (flabbergasted)  
 __flag-stop service__  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
@@ -3538,6 +3544,7 @@ __flare-up__ :two::hammer: (flare-ups)
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
+__flash rust__ :camera:  
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
 __flash-forward__ _Syn_ analepsis  
 __flash__  
@@ -3582,6 +3589,7 @@ __flinty__ _Flinty soil._
 __flip (me) the bird__  
 __flip the bird__  
 __flip-flops__  
+__flippant__  
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__  
@@ -3923,6 +3931,7 @@ __get ahold__
 __get away with__  
 __get enough__  
 __get looks__ _v_ :two::hammer:  
+__get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
 __get out of here__  
 __get set__ _v_  
 __get stops__ :two::hammer:  
@@ -3966,6 +3975,8 @@ __giveaway__ _n_ :four::hammer: _Holiday giveaway._
 __gladdened__  
 __gladed__ _Gladed terrain._  
 __glades__ _n_ _Heathy glades._  
+__glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
+__glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _(Cinderella)_  
 __glean__  
 __gleaning__  
@@ -4047,7 +4058,7 @@ __gout__
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_  
 __gracial pace__ _?_ _At a glacial pace._  
-__gracious__ _adj_ :three::hammer:  
+__gracious__ _adj_ :four::hammer: _He was very gracious._  
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
@@ -4796,6 +4807,7 @@ __inordinately__
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__  
 __inroads__ _n_ :three::hammer:  
+__ins and outs__  
 __inscrutable__ :two::hammer:  
 __insipid__  
 __insofar__  
@@ -5879,7 +5891,7 @@ __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her fam
 __needless to say,__  
 __needlestick__ :pencil2:  
 __needy__  
-__nefarious__ _adj_ :three::hammer:  
+__nefarious__ _adj_ :four::hammer:  
 __neglected__ _I don't feel neglected._  
 __neighed__ _v_  
 __neighing__ _v_  
@@ -6222,6 +6234,7 @@ __owing__ _Owing to the agitation, supplies of certain components have neen disr
 __own goal__ _Mikael Lustig scored an own goal._  
 __own up__  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
+__oxymoron__ :mega:  
 __oyster__  
 __oz.__  
 __pablum__ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
@@ -7746,6 +7759,7 @@ __seawall__
 __seaweed__ :two::hammer:  
 __second-guess__ _v_ :four::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
+__secret weapon__  
 __secular__  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__ _He travels with a security detail._  
@@ -7805,6 +7819,7 @@ __set (someone) up__ _v_ _Emile's trying to set you up._
 __set menu__  
 __set out__ _v_  
 __set piece__ _The goal was scored on a set piece._  
+__set someone apart__  
 __set the pace__  
 __setback__ _n_ :two::hammer: (setbacks) _It has suffered several setbacks._  
 __setting > picturesque setting__ :es: entorno picturesco  
@@ -8028,6 +8043,7 @@ __sidled__ _v_
 __siege__ _An overnight siege shocked the country._  
 __sieve__ _n_ :four::hammer:  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
+__sign up__ _v_  
 __sign-off__ _n_  
 __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
 __signature__ _That's their signature meal._  
@@ -9365,6 +9381,7 @@ __tousle__ _v_
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _v_ :three::hammer: (touted)  
 __tow__ :two::hammer: _Cameras in tow._  
+__tower__ _v_ _Towering over our heads._  
 __townhouses__ _n_  
 __toy breeds__ _(pets)_  
 __toy__ _v_  
@@ -9510,6 +9527,7 @@ __turning tables__ _Feds turning the tables on ssexual predators._
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
 __turnkey__ :two::hammer: _Turnkey property._  
+__turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :two: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
@@ -9674,6 +9692,7 @@ __upfield__
 __upfront__ _adj_  
 __upheaval__ _n_ :five::hammer:  
 __uphill battle__  
+__uphill__ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __upmarket__  
@@ -10025,7 +10044,7 @@ __whooping cough__
 __whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whooshed__ _v_  
 __whorls__ :two::hammer:  
-__wick__ _n_  
+__wick__ _n_ :two::hammer: _Curiosity is the wick in the candle of learning._  
 __wicked__  
 __wickedly__  
 __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  
