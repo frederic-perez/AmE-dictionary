@@ -19,3 +19,14 @@ __flabbergasted__
 __oxymoron__ :mega:  
 __contention__  
 __ins and outs__  
+
+__flippant__  
+__crufty__ _A crufty comment._  
+__case in point__ _Those comments are a case in point._  
+__dovetail__ _v_  
+__cherry pick__ _v_ (cherrypick)  
+__camaraderie__  
+__cutthroat__ _n_  
+__uphill__ _I didn't have to fight uphill._  
+__gracious__ _He was very gracious._  
+__wick__ _n_ _Curiosity is the wick in the candle of learning._  
