@@ -30,3 +30,16 @@ __toy__ _v_ (toying)
 __portrayal__ _n_ :mega:  
 __mandate__ _v_  
 __chime in__ _phr v_  
+
+__assuage__ _v_  
+__laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
+__vodka__ :mega:  
+__rosy__  
+__tug of war__  
+__anguish__  
+__limerick__ _I remember a limerick I wrote._  
+__cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
+__succinct__ :pencil2::mega:  
+__pharmaceutical__ :mega: (fär′mə-so͞o′tĭ-kəl)  
+__relentless__  
+__freewheel__ (free wheel) _The listener expects a freewheeling conversation._  
