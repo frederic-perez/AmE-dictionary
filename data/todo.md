@@ -10,3 +10,15 @@ __just saying__
 __Archimedes__ :mega:  
 __momentum__  
 __aisle__ :mega: (īl)  
+
+__tenet__ _n_  
+__blithely__ _The worst option is to blithely add getters and setters._  
+__complimentary__ :pencil2: _Notice the complimentary nature of the two deﬁnitions._  
+__dichotomy__  
+__train wreck__ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
+__admixture__  
+__stub__  
+__liability__  
+__ad infinitum__ _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
+__business logic__  
+__foist__ _v_  
