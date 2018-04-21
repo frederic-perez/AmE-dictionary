@@ -22,3 +22,16 @@ __liability__
 __ad infinitum__ _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __business logic__  
 __foist__ _v_  
+
+__misuse__ _v_ _It results in code that is easier to understand and harder to misuse._  
+__wind up__ _We eventually wind up with that code._  
+__lest__  
+__strive__ _v_  
+__liability__ _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
+__coast__ _v_  
+__catalog<sup>1</sup>__ _n_ (_BrE_ catalogue)  
+__catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
+__impassioned__ _adj_  
+__earnestly__  
+__clarion<sup>1</sup>__ _n_  
+__clarion<sup>2</sup>__ _adj_  
