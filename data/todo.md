@@ -35,3 +35,11 @@ __impassioned__ _adj_
 __earnestly__  
 __clarion<sup>1</sup>__ _n_  
 __clarion<sup>2</sup>__ _adj_  
+
+__PC__ :dart: _I wanted to be all PC about it._  
+__troglodyte__  
+__paradox__  
+__super-duper__ _We've got super-duper telescopes._  
+__oddly enough__  
+__lumberjack__  
+__shame__ _v_ _He shamed me._  
