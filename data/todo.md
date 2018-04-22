@@ -43,3 +43,12 @@ __super-duper__ _We've got super-duper telescopes._
 __oddly enough__  
 __lumberjack__  
 __shame__ _v_ _He shamed me._  
+
+__collapse__ _v_ :pencil2:  
+__resist<sup>1</sup>__ _v_  
+__resist<sup>2</sup>__ _n_ _Water resist wristwatch._  
+__peloton__ _n_ The main group of riders in a cycle race.  
+__cobble__ _v_ _I cobbled together a simple driver program that listened to the keyboard._  
+__sheer__ _ The sheer bulk of those tests can present a daunting management problem._  
+__watchword__ _“Quick and dirty” was the watchword._  
+__liability__  
