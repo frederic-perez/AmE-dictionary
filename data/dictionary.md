@@ -29,6 +29,7 @@ __Aleut__ _n_
 __Ames__ _Ames, Iowa._  
 __Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.  
 __Apart from that,__  
+__Archimedes__ :mega:  
 __Argentine__ _The pope is an Argentine._  
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :mega:  
@@ -272,7 +273,7 @@ __On your marks, get ready, go!__ (On your mark, get ready, go!)
 __Other than that,__  
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __Ozzies__ (Australians?)  
-__PC__ _They're so PC that they end up writing sanctified characters._  
+__PC__ _abbr_ :dart::two: Politically correct. _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
@@ -466,6 +467,7 @@ __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics 
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
+__ad infinitum__ _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad-lib__ _v_ (ad-libs) :two::hammer:  
 __ad__ _n informal_ Advertisement.  
 __adage__ :two::hammer:  
@@ -478,6 +480,7 @@ __adjourne__ _v_ _The trip was adjourned to Feb. 1._
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
 __adjuvant__ _adj_ _The adjuvant setting._  
+__admixture__  
 __admonition__ _n_ :six: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
@@ -541,6 +544,7 @@ __airball__ _n_ :three: _basketball_ A shot which misses the backboard, rim and 
 __airburst__ _n_  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
+__aisle__ :mega: (īl)  
 __akin to__  
 __akin__ :two::hammer:  
 __al fresco__  
@@ -1177,7 +1181,7 @@ __bling__ _n_ :three::hammer:
 __blink__ _v_ _There is no reason to blink._  
 __blip__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blithe__ _adj_ :six::hammer:  
-__blithely__ _adv_ :four::hammer:  
+__blithely__ _adv_ :five::hammer: _The worst option is to blithely add getters and setters._  
 __blitheness__  
 __blither__  
 __blithering__  
@@ -1533,6 +1537,7 @@ __burrow<sup>2</sup>__ _v_ :three::hammer:
 __burrs__ _n_  
 __burst__ _v_ :two::hammer: (bursting)  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
+__business logic__  
 __business ties__  
 __busker__  
 __busload__  
@@ -1741,8 +1746,8 @@ __casualties__
 __cat fish__ _(?)_  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
 __catacombs__  
-__catalog__ _n_ :two::hammer:  
-__catalogue__ _n_  
+__catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
+__catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
 __catalyst__  
 __catalyze__ _v_ :pencil2:  
 __catamounts__  
@@ -1945,6 +1950,8 @@ __clapper__ _He tried to turn somebody into a human bell clapper._
 __claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
 __clarion call__ _n_ :four::hammer:  
+__clarion<sup>1</sup>__ _n_  
+__clarion<sup>2</sup>__ _adj_  
 __clasp__ _n_  
 __clasped__ _v_  
 __class act__ _She was a class act through and through._  
@@ -2021,10 +2028,12 @@ __co-pilot__ _n_ A relief pilot on an airplane.
 __coach cabin__ _A standard coach cabin._  
 __coach__ _You're flying coach._  
 __coalesce__ _v_ :pencil2::three::hammer: (coalescing) :es: fundirse  
+__coast__ _v_  
 __coaster brakes__  
 __coat of arms__ _n_ :three::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattails a little bit._  
+__cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobweb__ _n_ :four::hammer: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
@@ -2050,6 +2059,7 @@ __cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs 
 __cold-calling__ _He started cold-calling people in New York._  
 __coleslaw__ _n_ :three::hammer:  
 __colic__ _n_  
+__collapse__ _v_ :pencil2:  
 __collapsible__ _Collapsible shutters._  
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
@@ -2100,6 +2110,7 @@ __complacency__
 __completion__ _n_  
 __compliance__ :two::hammer: _Compliance guy._  
 __complicit__  
+__complimentary__ :pencil2: _Notice the complimentary nature of the two deﬁnitions._  
 __comply__ _v_  
 __composite decking__  
 __composting__ _There's a brown bin for organic waste, which goes for composting._  
@@ -2693,7 +2704,7 @@ __dialysis__
 __diaspora__  
 __dibs__ _n_ :two::hammer:  
 __dicey__ _adj_ :six::hammer: _That's dicey._ _The women's situation is a bit more dicey._  
-__dichotomy__  
+__dichotomy__ :two::hammer:  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __diction__ :two::hammer: _The priest diction._  
 __diddle-shit__  
@@ -3073,6 +3084,7 @@ __early-onset__ _Early-onset Alzheimer's disease._
 __earmark__ _v_ :three::hammer:  
 __earmuffs__  
 __earnest__ _adj_ :four::hammer:  
+__earnestly__  
 __earrings__  
 __earth-shattering__  
 __earthquake drill__  
@@ -3300,6 +3312,7 @@ __expedited shipping__ (vs _regular shipping_)
 __expediting__ _v_  
 __expeditiously__  
 __expenditure__ _n_ :three: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time.  
+__expertise__  
 __expletive__ :pencil2: _Bombing the expletive oout of its oil fields._  
 __expose__ _v_  
 __exposures__ (?) _Penthouse features include multiple exposures._  
@@ -3659,6 +3672,7 @@ __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle 
 __foible__ _n_ :two: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
+__foist__ _v_  
 __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __fold__ _v_ (card games)  
@@ -4333,7 +4347,7 @@ __harrowing__ _A harrowing oddyssey._
 __harry__ _v_ :seven: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To harass or torment. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
-__hash browns__ _n pl_  
+__hash browns__ _pl n_ :two::hammer:  
 __hash out__ _v_  
 __hash<sup>1</sup>__ _n_ _I'm gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
@@ -4580,6 +4594,7 @@ __hopped cars__
 __hopscotch__  
 __horn buttons__ :camera:  
 __horse race__  
+__horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word "horse" is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
 __horseradish__  
@@ -4642,7 +4657,7 @@ __hurl__ _v_ :seven: (hurled, hurling) Throw (an object) with great force. _Riot
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurtling__ _v_  
 __husbanded__ _v_ _Rob husbanded his money._  
-__husbandry__  
+__husbandry__ :two::hammer:  
 __hush money__ _A hush money case._  
 __hush up__ _v_  
 __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
@@ -4700,6 +4715,7 @@ __imp__ _Its imp genius._
 __impairment__  
 __impartible__  
 __impasse__ _n_ :four::pencil2: Deadlock or stalemate. _At impasse._  
+__impassioned__ _adj_  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ :two::hammer:  
 __impeccable__  
@@ -4753,6 +4769,7 @@ __inaugurate__ _v_ _He will be inaugurated for second term._
 __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
 __inbound<sup>2</sup>__ _v_  
 __incarcerate__ _v_  
+__incarnation__  
 __incensed__ _v_  
 __inception__  
 __incessantly__  
@@ -4784,6 +4801,7 @@ __induction__ :two::hammer:
 __inebriated__  
 __inequitable__  
 __inequities__  
+__inexplicable__ _adj_  
 __inextricably__ :two::hammer:  
 __infallibity__  
 __infamous__ _adj_ :seven: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
@@ -4981,7 +4999,7 @@ __junk__ _The "don't touch my junk" uproar over intrusive TSA pat-downs._
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ _n_ :three::hammer:  
-__just saying__ _idiom_ (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
+__just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __jut out__ _The head juts out of the wall._  
 __jutted__ _v_  
 __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
@@ -5234,7 +5252,7 @@ __leper__
 __lepers__  
 __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
-__lest__ _conj_ :nine: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
+__lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :four::hammer:  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __levee__  
@@ -5245,7 +5263,7 @@ __levied__ _v_ :four::hammer: _The NFL has levied $50,000 in fines to Sanders fo
 __levy<sup>1</sup>__ _v_  
 __levy<sup>2</sup>__ _n_ :three::hammer:  
 __lewd__ _adj_ :three::hammer:  
-__liability__ _n_ :three::hammer:  
+__liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
 __liaison__  
 __libation__  
 __libations__ _Dutch libations, like ciders, gins and liqueurs._  
@@ -5410,7 +5428,7 @@ __lull<sup>1</sup>__ _n_ :three::hammer: (lulls)
 __lull<sup>2</sup>__ _v_  
 __lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :two::hammer: _A shopper checks out with her lumber._ _Lumber & home improvement._  
-__lumberjack__ _n_ :two::hammer:  
+__lumberjack__ _n_ :three::hammer:  
 __luminary__ _Hollywood luminaries._  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
@@ -5703,7 +5721,7 @@ __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe f
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mistrial__ _n_ :two::hammer:  
 __mistruths__  
-__misuse__  
+__misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __mitt__ _n_  
 __mitzvah__  
 __mix-up__ _n_  
@@ -5730,6 +5748,7 @@ __mollusks__
 __molten lava__  
 __mom-and-pop__ _Mom-and-pop shops._  
 __momentous__ _adj_ :two: Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
+__momentum__  
 __monad__  
 __money on the hoof__  
 __moneyed__  
@@ -5991,6 +6010,7 @@ __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keepi
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
 __notwithstanding__ _prep_ :three::hammer:  
+__nova__  
 __novella__  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
@@ -6044,6 +6064,7 @@ __occurr__ :pencil2:
 __octogenarians__  
 __octoroons__  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
+__oddly enough__  
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odometer__ :two::hammer:  
@@ -6238,6 +6259,7 @@ __oversight__ _n_ :three::hammer: _An oversight board._ _Oversight committee._
 __overstating__ _v_  
 __overt__  
 __overtake__ _n_ _He made overtakes._  
+__overtime__ :es: horas extras  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overwheening__  
@@ -6306,6 +6328,7 @@ __pantsed__ _v_
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
 __paper towels__  
 __pappy__  
+__paradox__  
 __paragon__ _n_ :three::hammer: (paragons) _A paragon of redundancy._  
 __paralyzed__ _v_ :pencil2:  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
@@ -6408,6 +6431,7 @@ __peerless__
 __peeved__ _v_  
 __peevishly__  
 __pegged__ _v_ :two::hammer:  
+__peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :three::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
 __pen name__  
@@ -7332,6 +7356,8 @@ __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; ticket
 __resident__ _n_  
 __resiliency__  
 __resilient__ _adj_  
+__resist<sup>1</sup>__ _v_  
+__resist<sup>2</sup>__ _n_ _Water resist wristwatch._  
 __resistance__  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__  
@@ -7866,6 +7892,7 @@ __shambled__ _v_ :two::hammer:
 __shambles__ :two::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
 __shambolic__  
+__shame__ _v_ _He shamed me._  
 __shamrock__  
 __shamus__  
 __shank<sup>1</sup>__ _n_ :seven::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
@@ -7897,10 +7924,10 @@ __sheen__ _The sheen on his hair when he removed his hat._
 __sheep__ _(plural?)_ _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
-__sheer<sup>1</sup>__ _adj_ :five::hammer: _Sheer size._ _The sheer scale of the operations surprised many._  
-__sheer<sup>2</sup>__ _adv_  
+__sheer<sup>1</sup>__ _adj_ :seven::hammer: _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
-__sheet__ _n_ :two: _Sheet rock._  
+__sheet__ _n_ :two:  
 __sheeting__  
 __sheik__ _n_ :two::pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
@@ -8815,7 +8842,7 @@ __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
 __stripling__ _n_  
-__strive__ _v_ :two::hammer:  
+__strive__ _v_ :three::hammer:  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _Writhing in the strobe lights after dark._  
@@ -8826,7 +8853,7 @@ __strummed__ _v_ _He then strummed out a string of hits, including "Message in a
 __strung out__  
 __strung__ _v_  
 __strut__ _v_ :four: When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
-__stub__ _n_ :three::hammer: _The stubs of cold-withered grass._  
+__stub__ _n_ :four::hammer: _The stubs of cold-withered grass._  
 __stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. _The sugarcane stubble._ _Smoke from a distant stubble fire._ __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving.  
 __stubborn__ _adj_  
 __stubby__ :two::hammer: _Stubby fingers._  
@@ -8909,8 +8936,7 @@ __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._
 __sundry__  
 __sunken__  
 __suntan__ _n_  
-__super duper__  
-__super-duper__ _Super-duper crisp chicken wings._  
+__super-duper__ :three::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
 __supercell thunderstorm__  
 __superintendent__ _n_ :three::hammer:  
 __superpooch__  
@@ -9148,7 +9174,7 @@ __tenderizze__ _v_
 __tendinitis__  
 __tendrils__ _n_  
 __tenements__ _Kids from the tenements._  
-__tenet__ _n_  
+__tenet__ _n_ :two::hammer:  
 __tenets__  
 __tenon__  
 __tentative__  
@@ -9412,6 +9438,7 @@ __trail mix__ :two::hammer: _Infused trail mix._
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailing plants__  
 __trails__ _n_  
+__train wreck__ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __traipsing__  
 __tramp__ _adj_  
@@ -9477,7 +9504,7 @@ __trite__ _adj_ :six: When you want to indicate that something is silly or overu
 __triumvirate__  
 __trivet__ _n_  
 __trodden__  
-__troglodyte__ _n_  
+__troglodyte__ _n_ :two::hammer:  
 __troll__ _Kim may see these dual transitions as an opening to troll world powers._  
 __trollop__  
 __troop__  
@@ -9932,7 +9959,7 @@ __wastrel__ :two::hammer:
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
-__watchword__  
+__watchword__ :two::hammer: _“Quick and dirty” was the watchword._  
 __water buffalo__  
 __water cooler__  
 __water down__ _v_ :three::hammer:  
@@ -10098,7 +10125,7 @@ __wimpy__ _adj_ :two::hammer:
 __wince__ _v_ :four::hammer: (winced)  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
-__wind up__ :two::hammer: (wind-up) _It's a wind-up toy._  
+__wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
 __winded__  
 __windfall__ _n_ :nine::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ _Windfall bounties._ :es: ganancia inesperada  
 __windlass__  
