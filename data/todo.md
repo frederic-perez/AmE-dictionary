@@ -14,3 +14,12 @@ __lethargic__ _adj_
 __lieu__ _In lieu of actual payments._  
 __crimson__ _Her face went crimson._  
 __chin ups__ _n_ (gimnastics)  
+
+__recoup__ _v_  
+__manna__ _n_  
+__Hopi__ _n_  
+__bachelor party__  
+__lichen__ _n_ :mega:  
+__aero-hydroponics__  
+__factor in__ _v_  
+__vertical farm__  
