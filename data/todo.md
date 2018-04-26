@@ -12,3 +12,14 @@ __bedding__ _n_ Bedclothes. _A bedding brand._
 __comforters__ _n_ A quilted bedcover.  
 __household__ _Household chores to keep your house tidy._  
 __sham__ _The novelty effect isn't a sham._  
+
+__frat__ _A frat house._  
+__Philly__  
+__Jeez__  
+__hit the brakes__  
+__shoddy__  
+__awfully__ :mega:  
+__loose cannon__  
+__classy__  
+__test the waters__ _We're testing the waters._  
+__callback__ _That was a callback to a previous episode._  
