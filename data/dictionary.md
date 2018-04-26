@@ -174,6 +174,7 @@ __Holy Rood__
 __Holy See__  
 __Hong Kong__ _"Fragrant harbor" is the literal translation of Hong Kong._  
 __Hoosiers__  
+__Hopi__ _n_  
 __Horn of Africa__ :camera: Somalia.  
 __Huey__  
 __Humpty Dumpty__  
@@ -494,6 +495,7 @@ __advisory__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an adv
 __advocacy__ :two::hammer:  
 __aegis__  
 __aerials__  
+__aero-hydroponics__  
 __afantasia__ _n_  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affidavit__ _n_ :five::hammer:  
@@ -804,6 +806,7 @@ __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally
 __baby bump__ _Dressing your baby bump._  
 __baby formula__ _Baby formula should be "ready-to-feed" or prepated using only filtered water or bottled water._  
 __babysit__ _v_  
+__bachelor party__  
 __back away__  
 __back breaker__  
 __back burner__  
@@ -1757,6 +1760,7 @@ __catarrh__ :two::hammer::pencil2:
 __catcall__ _v_  
 __catcalls__ _n_ :five::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
+__catch up__ _v_  
 __catch wind__ _I don't know if you caught wond of it._  
 __catch-up schedule__  
 __catch__ _n_ (game)  
@@ -1874,6 +1878,7 @@ __chime in__ _phr v_
 __chiming__ :two::hammer:  
 __chin-up__ _n_ The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
+__chin-up__ _n_ (gimnastics; also known as a chin or chinup)  
 __chip apart__  
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :three::hammer: (chipped in)  
@@ -2367,7 +2372,7 @@ __crib__ _n_ :two::hammer:
 __cribbage__ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
-__crimson__ _Crimson cereal._  
+__crimson__ :two::hammer: _Crimson cereal._ _Her face went crimson._  
 __cringe__ _v_ :six: __1__ To shrink back, as in fear; cower. :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
@@ -2726,6 +2731,7 @@ __dilutive__
 __dim__ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
 __dime > on the dime__  
 __dimed__ _v_ (dimed) :two::hammer: _I'm going to roust Jimmy Sty and tell him you dimed him._  
+__diminish__ _v_  
 __diminishing returns__  
 __dimpled__ _v_ :four::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
@@ -2740,6 +2746,7 @@ __dinking__ _v_
 __dinky__ :two::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
 __dip__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
+__diplomat__ :mega:  
 __dips__ _n_  
 __dipsomania__  
 __dire__ _adj_ :six: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
@@ -3021,6 +3028,7 @@ __dry spel__
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
 __dryly__  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
+__dubious__  
 __duchy__ (duys)  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
@@ -3351,6 +3359,7 @@ __facsimile__
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
 __fact sheet__  
 __faction__ _n_  
+__factor in__ _v_  
 __factual__  
 __fad__ _n_  
 __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
@@ -3479,6 +3488,7 @@ __fifth wheels__
 __fig leaf__ _Seeking a "big leaf."_  
 __fight club__  
 __figments__  
+__figure out__ _v_  
 __figure skates__ _n_  
 __figure__ _5-figure price tag._  
 __figurehead__ :two::hammer:  
@@ -5025,6 +5035,7 @@ __kerchief__ _n_
 __kerkuffles__  
 __keseboy__  
 __key up__ _He was too keyed up._  
+__keystone__ :es: piedra angular  
 __keystrokes__  
 __khakis__ _n_ :two::hammer:  
 __kibbutz__  
@@ -5254,6 +5265,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :four::hammer:  
+__lethargic__ _adj_  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __levee__  
 __leveled__ :two::hammer:  
@@ -5270,6 +5282,7 @@ __libations__ _Dutch libations, like ciders, gins and liqueurs._
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
 __lice__ _n_ :four: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__lichen__ _n_ :mega:  
 __lick-spittle__ _A lick-spittle role._  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
 __lickety-split__ (lickety split)  
@@ -5277,7 +5290,7 @@ __licorice__ _n_ :three::camera: If you've ever had a long, sweet, chewy, black 
 __lid__ _It should keep a lid on the yen._  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
-__lieu__ _In lieu of flowers._  
+__lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __life preserver__ _n_ _Marty McFly's life preserver._  
 __lifeblood__ _n_ :two: The blood, as being necessary to life.  
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
@@ -5398,6 +5411,7 @@ __loped__ _v_
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __lore__ _n_ :nine: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __lothario__ _The second verse of_ You're So Vain _is about one-time Hollywood lothario Warren Beatty._  
+__lotto__ _n_ Lottery.  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
@@ -5514,6 +5528,7 @@ __manic__ _I was manic._
 __manicured landscape__  
 __manifest__ _A manifest of olive oil._  
 __manifesto__ _n_  
+__manna__ _n_  
 __mannered__  
 __manor__ _A medieval manor house._  
 __mantel__ _n_ :five::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
@@ -6240,7 +6255,7 @@ __over-under__
 __overachieve__  
 __overall standings__ _31 points in the overall standings._  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
-__overarching__ _An overarching quality._  
+__overarching__ :two::hammer: _An overarching quality._  
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overboard__ _To go overboard._  
@@ -6592,6 +6607,7 @@ __pitch in__ _v_
 __pitch-perfect__  
 __pitch<sup>1</sup>__ _n_ :three::hammer: _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
+__pitch__ _n_  
 __pitchfork__  
 __pitfalls__ _n_  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
@@ -7237,7 +7253,7 @@ __recollection__ :two::hammer:
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
-__recoup__ _v_ :five: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
+__recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
 __recreational__ _Recreational marijuana vs medical marijuana._  
 __rector__  
@@ -9315,6 +9331,7 @@ __tin ear__ _Hillary has a political tin ear._
 __tinderbox__  
 __tinderdry__  
 __tines__  
+__tinfoil hat__  
 __tinge__ :two::hammer:  
 __tingle__ _v_ :four: (tingled, tingling) Cause a stinging or tingling sensation.  
 __tingles__ _I'm all tingles and shakes._  
@@ -9416,6 +9433,7 @@ __totter__ _v_
 __tottered__  
 __touch and go__  
 __touchline__  
+__touchy__  
 __tough cookie__  
 __tough luck__  
 __tourney__  
@@ -9832,6 +9850,7 @@ __vermicelli__
 __vermillion__  
 __vermin__ _n_ :four::hammer:  
 __vernacular__  
+__vertical farm__  
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very__ _We were in this very room._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
