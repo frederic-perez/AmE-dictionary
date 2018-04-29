@@ -17,3 +17,12 @@ __decathlon__
 __dunno__  
 __dilemma__  
 __hypocrisy__  
+
+__magnanimous__  
+__q-tip__  
+__grime__ _n_  
+__zeppelin__ _n_  
+__baking soda__ _n_ Sodium bicarbonate.  
+__cellist__ _n_  
+__mind__ _v_ _Mind the gap._  
+__Peruvian__  
