@@ -26,3 +26,14 @@ __baking soda__ _n_ Sodium bicarbonate.
 __cellist__ _n_  
 __mind__ _v_ _Mind the gap._  
 __Peruvian__  
+
+__beer tap__ _A beer tap that was brought from England._  
+__induction__ _Induction hall._  
+__boil__ _n_ (pathology)  
+__blackhead__  
+__confidant__ _n_ (confidante)  
+__clinch__ _v_  
+__jive__ _n_ _You can jive having the time of your life._  
+__break down__ _The Disney World ride broke down._  
+__reenactment__ _n_  
+__all over__ _Dick jokes all over._  
