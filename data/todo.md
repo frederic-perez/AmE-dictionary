@@ -17,3 +17,22 @@ __scourge__ _n_
 __rampage__  
 __rodeo__ :mega:  
 __genuine__ :mega:  
+
+__shit list__ _n phr_ One's fancied or real list of persons who are hated, not trusterd, to be avoided, etc.  
+__cascading__  
+__presentation__ :mega:  
+__tutor__ _n_  
+__one-liner__ :dart: A quick joke or quip; a funny observation.  
+__debunk__ _v_  
+__concomitant__  
+__further__  
+__sentient__ _adj_ :two::hammer:  
+__viable__  
+__invoke__  
+__rationalize__ _v_  
+__fiber__  
+__inculcate__ _v_  
+__unearth__ _v_  
+__fervent__  
+__explicate__ _v_  
+__explication__ _n_  
