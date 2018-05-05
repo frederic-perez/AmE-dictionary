@@ -36,3 +36,12 @@ __unearth__ _v_
 __fervent__  
 __explicate__ _v_  
 __explication__ _n_  
+
+__farther__  
+__fill'er up__ (gas station)  
+__cram__ _v_ _Cramming new tests into the suite._  
+__impunity__  
+__succinct__  
+__timely__ _The tests need to be written in a timely fashion._  
+__delve__ _v_ :dart:  
+__comprise__ _v_  
