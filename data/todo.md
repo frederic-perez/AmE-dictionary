@@ -45,3 +45,11 @@ __succinct__
 __timely__ _The tests need to be written in a timely fashion._  
 __delve__ _v_ :dart:  
 __comprise__ _v_  
+
+__trifecta__ :mega:  
+__look out__ _v_ _Look out for those beauties._  
+__splendor__  
+__anything but__ _It is anything but sweet._  
+__launch__ _v_ _Launching the projectile/friend._  
+__friction__ _The coefficient of friction._  
+__show off__ _v_  
