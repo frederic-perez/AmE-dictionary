@@ -31,3 +31,14 @@ __façade__ _n_
 __ponder__ _v_  
 __compel__ _v_  
 __fabric__ _n_ _The fabric of time and space._  
+
+__cross-eyed__ _An infamous cros-eyed burglar._  
+__boycott<sup>1</sup>__ _n_ :astonished:  
+__boycott<sup>2</sup>__ _n_ :astonished:  
+__curmudgeon__  
+__begrudgingly__  
+__round__ _v_  
+__interrelate__ _v_ :astonished:  
+__loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
+__concise__  
+__weasel__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
