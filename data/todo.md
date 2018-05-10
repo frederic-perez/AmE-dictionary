@@ -42,3 +42,25 @@ __interrelate__ _v_ :astonished:
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __concise__  
 __weasel__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
+
+__hedge fund__ _n_  
+__memoirs__ _n_  
+__remarkably__ _adv_ :two::hammer:  
+__digress__ _v_  
+__articulate<sup>1</sup>__ _adj_  
+__articulate<sup>2</sup>__ _v_  
+__aspire__ _v_  
+__overarching__ _adj_ _An overarching principle._  
+__hedge<sup>1</sup>__ _n_  
+__hedge<sup>2</sup>__ _v_  
+__attain__ _v_  
+__pick__ _v_ _Pick your choice._  
+__choice__ _v_ _Pick your choice._  
+__poorly__ _Was that handled poorly?_  
+__spin__ _v_  
+__weaknesses__ _What are your personal strengths and weaknesses?_  
+__saying__ _n_  
+__proxy__ _I'm a proxy for the listener._  
+__sensible__  
+__adhere__ _v_  
+__mutism__ _n_  
