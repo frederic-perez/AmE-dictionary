@@ -19,3 +19,10 @@ __chaotic__ _adj_ :mega:
 __abyss__ _n_ :astonished::mega:  
 __villa__ _n_  
 __money pit__  
+__hanger__ _n_ _You left some hangers at my place._  
+__rule out__ _v_  
+__heavy-duty__ _Heavy-duty stapler._  
+__buckle down__ _v_  
+__supplier__ _n_  
+__breakthrough__ _n_  
+__squatter__  
