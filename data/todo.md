@@ -26,3 +26,13 @@ __buckle down__ _v_
 __supplier__ _n_  
 __breakthrough__ _n_  
 __squatter__  
+
+__vermouth__ _n_  
+__advent__ _n_  
+__look out__  
+__talent__ _A specific set of talents._  
+__eulogy__  
+__translate__ _That doesn't always translate, believe me._  
+__unstoppable__  
+__duckling__ _n_ (ducklings) A young duck.  
+__animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
