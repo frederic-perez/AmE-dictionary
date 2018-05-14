@@ -36,3 +36,18 @@ __translate__ _That doesn't always translate, believe me._
 __unstoppable__  
 __duckling__ _n_ (ducklings) A young duck.  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
+
+__raging bull__ _The strength of a raging bull._  
+__rage<sup>1</sup>__ _n_  
+__rage<sup>2</sup>__ _v_  
+__nail it__  
+__gargle<sup>1</sup>__ _n_  
+__gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
+__niche__ :mega:  
+__incidentally__  
+__smug__ :dart: _I'm so smug I can't hardly believe it._  
+__shoot__ _n_ _Panda bears eat only bamboo shoots._  
+__fence-sitter__ _n_  
+__Sinai__ _n_ (Mount Sinai) :mega:  
+__double down__ _v_  
+__unfold__ _Mysteries unfold._  
