@@ -51,3 +51,13 @@ __fence-sitter__ _n_
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __double down__ _v_  
 __unfold__ _Mysteries unfold._  
+
+__back out__ _v_  
+__hell bound__ (?)  
+__televangelist__ _n_  
+__cross someone's mind__ _It never crossed my mind._  
+__secular__  
+__coincidentally__  
+__crackpot<sup>1</sup>__ _n_  
+__crackpot<sup>2</sup>__ _adj_  
+__TM__ _abbr_ Trascendental meditation.  
