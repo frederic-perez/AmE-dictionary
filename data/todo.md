@@ -14,3 +14,16 @@ __dull__ _Never a dull moment._
 __salient__ _That is a salient fact._  
 __upheaval__  
 __writing on the wall, the__ An omen of impending disaster or ruin. _I've seen the writing on the wall._  
+
+__whole nine yards, the__  
+__catwalk__  
+__looker__ _n_  
+__overdrive__ _Cruising overdrive._  
+__outta__ _Straight outta Tahoe._  
+__cleanliness__  
+__Yuletide__ _n_ (archaic) Christmas.  
+__gum__ _n_ :es: encía  
+__outtakes__ _n_  
+__summertime__  
+__closure__  
+__tushie__ _n_ :two::hammer:  
