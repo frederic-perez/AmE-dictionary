@@ -27,3 +27,17 @@ __outtakes__ _n_
 __summertime__  
 __closure__  
 __tushie__ _n_ :two::hammer:  
+
+__fair__ _To be fair to Jim, he didn't cause the problem but inherited it._  
+__through__ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
+__sigh__ :mega:  
+__surcharge__ _Additional hotel surcharge of $5.00 per order._  
+__sleepwear__  
+__necktie__ _n_
+__brassiere__ _n_  
+__housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
+__assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__guest claim__ _Guess claim 170374._  
+__in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._ 
