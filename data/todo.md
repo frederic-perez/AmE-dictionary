@@ -41,3 +41,15 @@ __pastries__ _Items available on the buffet include assorted pastries, fresh fru
 __fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __guest claim__ _Guess claim 170374._  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._ 
+
+__continual__ _For most systems, change is continual._  
+__anorak__ _n_  
+__gnaw__ _v_  
+__coming up__  
+__far fetched__ (?)  
+__Curie__ :mega:  
+__no offense__  
+__frozen yogurt__  
+__excruciatingly__ _The code in each class becomes excruciatingly simple._  
+__muck__ _v_  
+__lookup__ _n_  
