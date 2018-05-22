@@ -53,3 +53,16 @@ __frozen yogurt__
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __muck__ _v_  
 __lookup__ _n_  
+
+__raffle__ _n_  
+__vizier__ _n_  
+__backpedal__ _v_  
+__queasy__  
+__controversial__  
+__consumer electronics__  
+__miscellany__ :mega:  
+__mixed bag__ _It's a mixed bag._  
+__fly on the ointment__ (?)  
+__wrap one's head around it__  
+__in the thick of it__  
+__suggar daddy__ _A sugar daddy relationship._  
