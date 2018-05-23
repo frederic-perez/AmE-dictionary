@@ -85,6 +85,7 @@ __Coptic__
 __Courtney Cox moment__ _A Courtney Cox moment (Dancing in the Dark with Bruce Springsteen)._  
 __Crescent City__  
 __Croat__  
+__Curie__ :mega:  
 __D-ring inset__  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __DEA__  
@@ -408,6 +409,7 @@ __X's and O's__ :two::hammer: _There are the X's and O's._
 __X-factor__ _Terry could become Ryukyu's X-factor._  
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __YOLO__ You only live once.  
+__Yuletide__ _n_ (archaic) Christmas.  
 __abalone__  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
@@ -640,7 +642,7 @@ __animosity__ _n_ :five: __1__ Bitter hostility or open enmity; active hatred. _
 __animus__ _n_ :two::hammer: _The animus between the Yankees and Red Sox._  
 __annuity__ (annuities) :two::hammer:  
 __anomic__  
-__anorak__  
+__anorak__ _n_ :two::hammer:  
 __ante__ _n_ :four::hammer: _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
 __anthology__  
@@ -756,6 +758,7 @@ __assets__
 __assiduously__ :pencil2::two::hammer:  
 __assign__ _n_ _A cover assign._  
 __assists__ _Green had 14 rebounds and nine assists._  
+__assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :three::hammer:  
 __asthma__ _n_  
 __astigmatism__ _n_  
@@ -766,7 +769,7 @@ __astronomical unit__ _n_ A unit of length used in measuring astronomical distan
 __astute__  
 __asunder__ _A world torn asunder by evil and hate._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
-__at odds__ _v_ :four: (be at odds) To disagree. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
+__at odds__ _v_ :five: (be at odds) To disagree. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the door__ _The cost to attend is $35 in advance and $40 at the door._  
 __at the earliest__  
@@ -848,6 +851,7 @@ __backhoe__ _n_ :two::hammer:
 __backlash__ _n_ :three::hammer:  
 __backlit__  
 __backlog__ _n_ :five: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
+__backpedal__ _v_  
 __backslid__ _v_  
 __backsplash__ _n_ _A new tile backsplash._  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
@@ -1392,6 +1396,7 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brash__ :two::hammer: _Brash talk._ _It sounded brash._  
 __brass__  
+__brassiere__ _n_  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
 __bravado__ _n_ :three: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning "bragging and boasting," and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: "It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners." _But I went into it with a certain bravado._  
@@ -1504,7 +1509,7 @@ __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
-__bug__ _v informal_ :two: Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_  
+__bug__ _v informal_ :three: Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __buggers__  
 __buggy__ _n_ _In the early 1900s, guests arrived by horse and buggy._  
@@ -1769,7 +1774,7 @@ __case in point__ :two::hammer: _Those comments are a case in point._
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
-__casket__  
+__casket__ _n_ :two::hammer: _Closed casket, that's right._  
 __casserole<sup>1</sup>__ _n_  
 __casserole<sup>2</sup>__ _v_  
 __cassocks__ _n_  
@@ -1805,7 +1810,7 @@ __catharsis__
 __cathedral ceiling__ :camera::two::hammer:  
 __catnip__ _n_ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint  
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
-__catwalk__  
+__catwalk__ _n_ :two::hammer:  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
 __cauliflower steaks__ :camera:  
@@ -2008,6 +2013,7 @@ __clawback__
 __clawed__ _v_  
 __clean his clock__  
 __clean one's plate__ Eat up all the food put on one's plate.  
+__cleanliness__  
 __cleanse__ _v_  
 __clear air__  
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
@@ -2043,6 +2049,7 @@ __close > not even close__
 __close call__  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
+__closure__  
 __clot__  
 __clothesline__  
 __clothespin__ _n_ :camera:  
@@ -2130,6 +2137,7 @@ __comforter sets__
 __comforter__ _n_ :four: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :four: Comfortable. _The Comfy Cow ice cream._  
 __coming down the pipe__ :dart:  
+__coming up__  
 __coming-of-age__ _A coming-of-age story._  
 __comity__  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
@@ -2233,6 +2241,7 @@ __constituent__ _n_ :three::hammer: (constituents)
 __constituents__  
 __construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :five::hammer: (construed)  
+__consumer electronics__  
 __consumption__ (ailment?)  
 __contagion__  
 __contempt__  
@@ -2247,6 +2256,7 @@ __continence__
 __contingency plan__ :two::hammer:  
 __contingency__ _n_ :three::hammer: (contingencies)  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
+__continual__ _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_  
 __contrarian__  
@@ -2256,6 +2266,7 @@ __contrition__ _n_ :three::hammer:
 __contrivance__ _n_ :two::hammer:  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__  
+__controversial__  
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convenience store__  
@@ -2431,7 +2442,8 @@ __crisply__ _Nuggent greeted him crisply._
 __crisscross__  
 __critical condition__ _Critical to serious condition, fair condition._  
 __criticize__ _v_  
-__critique__ _v_  
+__critique<sup>1</sup>__ _n_ :mega:  
+__critique<sup>2</sup>__ _v_  
 __critters__ _n_ :three::hammer: _Garden critters._  
 __croak__ _v_  
 __croaked__  
@@ -3107,7 +3119,7 @@ __dug__ _n_
 __dugout__ :two::hammer:  
 __dulcet icing__  
 __dulcimers__ _n_  
-__dull__ _adj_  
+__dull__ _adj_ :two::hammer: _Never a dull moment._  
 __dullard__  
 __dully__ _adv_  
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
@@ -3365,6 +3377,7 @@ __excoriate__ _v_ :three::hammer: (excoriated) _Gay rights advocates excoriated 
 __excoriation__  
 __excruciate__  
 __excruciating__  
+__excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __exec__ _n informal_ :three: (execs) An executive. _I'm a retired tech exec._  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_  
@@ -3433,6 +3446,7 @@ __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
+__fair__ _To be fair to Jim, he didn't cause the problem but inherited it._  
 __fairly__  
 __fait accompli__  
 __fall into place__  
@@ -3450,6 +3464,7 @@ __falter__ _v_
 __faltered__ _v_  
 __fame__ _v_  
 __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's famed brownies are the highlight of every bake sale in town.  
+__familiar__ _No, I'm not familiar._  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _It could be feasst or famine._  
 __fanciful__  
@@ -3468,10 +3483,12 @@ __far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of client
 __farce__ :two::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
+__farfetch__ _v_ (farfetched)  
 __farflung__ _Farflung operations and profits._  
 __farther__  
 __fascia__  
 __fast and furious__ _adj_ :three: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
+__fast food__ :mega:  
 __fastening__ _n_  
 __fastidious__  
 __fastness__  
@@ -3749,6 +3766,7 @@ __fluted__ _v_
 __flutist__  
 __flutter__ _v_ :seven: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
 __fluttering__ _n_  
+__fly in the ointment__ A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly on the wall__  
 __fly-by-night__  
 __flyboard__  
@@ -3905,8 +3923,10 @@ __frosh__
 __frostbite__ :two::hammer:  
 __frosted silver__  
 __frothy__  
+__frozen yogurt__  
 __frugal__ _adj_ __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __fruit basket__ _California's Central Valley, fruit basket to the nation._  
+__fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruition__ The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
 __fucking A__ :two::hammer:  
@@ -4116,7 +4136,7 @@ __gnarled__ _v_ :two::hammer: _Gnarled fingers._
 __gnash__ _Gnasing teeth._  
 __gnashing__  
 __gnat__ _n_ :three::hammer: (insect?)  
-__gnaw__ _v_ :six: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
+__gnaw__ _v_ :seven: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __go a long way__ _Go a long way toward minimizing damage._  
 __go awry__ :two::hammer:  
 __go dutch__  
@@ -4298,6 +4318,7 @@ __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman 
 __grunted__ _v_ :four::hammer:  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
 __guesstimation__ does not exist  
+__guest claim__ _Guest claim no. 170374._  
 __guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guidet__ _Two guidettes._  
@@ -4315,6 +4336,7 @@ __gulp__ _v_ :three::hammer: _They gulped their soft drinks._
 __gum stump__  
 __gum tree__  
 __gum up__  
+__gum__ _n_ :es: encía  
 __gumball__  
 __gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
 __gumption__  
@@ -4722,6 +4744,7 @@ __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappear
 __houseboats__ _n_  
 __housecarls__  
 __household__ _Household chores to keep your house tidy._  
+__housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housing equity__  
 __housing starts__  
 __housing unit__  
@@ -4795,6 +4818,7 @@ __icing on the cake__ :two::hammer:
 __icing__ _Mansions are found on the icing._  
 __iconoclasm__  
 __iconoclast__  
+__iconoclastic__  
 __id__ _n_  
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
@@ -4817,6 +4841,7 @@ __imbibe__ _v_ :two::hammer: (imbibing)
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
 __imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__immerse__ _v_  
 __immigrated__  
 __immobile__  
 __imp__ _Its imp genius._  
@@ -4857,11 +4882,12 @@ __in excess__ _Roper hadn't slept for a period in excess of 24 hours._
 __in fold__  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in short order__  
+__in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
 __in the lurch__ _The TV series was left in the lurch._  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
-__in the thick__ :two::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick (of it)__ :three::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the water__ _There's nothing in the water here._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in-depth__ _He will conduct an in-depth review._  
@@ -5507,8 +5533,9 @@ __longstanding__ :two::hammer:
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
+__looker__ _n_  
 __lookout__ :two::hammer: _Be on the lookout._  
-__lookup__ _n_  
+__lookup__ _n_ :two::hammer:  
 __loony bin__ _The Count's plot to drive her straight to the loony bin._  
 __loony__  
 __loophole__ :es: escapatoria  
@@ -5827,6 +5854,7 @@ __mirth__ _n_ :four::hammer:
 __mirthful__  
 __miscarry__ _v_  
 __miscegenation__  
+__miscellany__ :mega:  
 __mischief__ :two::hammer:  
 __mischievous__  
 __misconduct__  
@@ -5859,7 +5887,7 @@ __misuse__ _v_ :two::hammer: _It results in code that is easier to understand an
 __mitt__ _n_  
 __mitzvah__  
 __mix-up__ _n_  
-__mixed bag__ :two::hammer: _It's a mixed bag, really._  
+__mixed bag__ :three::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :six::hammer:  
@@ -5957,7 +5985,7 @@ __mover__ _n_
 __mowed__ _v_  
 __moxie__ :two::hammer:  
 __muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
-__muck<sup>2</sup>__ _v_ :two: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
+__muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
 __mudcat__ _n_  
 __muddle__ _v_ :four: Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
@@ -6054,6 +6082,7 @@ __navel__ :two::hammer:
 __naysayer__ _n_  
 __naïveté__  
 __neat__ :two::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That's a neat idea, Jupe._  
+__necktie__ _n_  
 __necromancer__  
 __necromancy__  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
@@ -6112,6 +6141,7 @@ __nitty-gritty__ :two::hammer:
 __no early birds!__ (?)  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
+__no offense__  
 __no strings attached__ :two::hammer: _The goodwill compensation comes with no strings attached._  
 __no-holds-barred__  
 __nobody's doctor__ _I'm nobody's doctor._  
@@ -6143,6 +6173,7 @@ __nos__ _They got nos._
 __nose > running noses__  
 __nose-thumbing__ :camera:  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
+__nostalgia__  
 __nosy__ _adj_ :two::hammer: _He's nosy as hell._  
 __not even close__ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
@@ -6372,6 +6403,8 @@ __outsmart__ _v_
 __outspend__ _v_  
 __outspoken__ _adj_ :seven::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstripped__ _v_  
+__outta__ _Straight outta Tahoe._  
+__outtakes__ _n_  
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
@@ -6386,7 +6419,7 @@ __overarching__ _adj_ :three::hammer: _An overarching quality._ _An overarching 
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overboard__ _To go overboard._  
-__overdrive__ _It's a 1984 Volvo DL, four speed with overdrive._  
+__overdrive__ _n_ :two::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
 __overflight__  
 __overhead bin__ :two::hammer: (airplane) _Overhead bin space._  
 __overhead bins__ (airplane) :two::hammer:  
@@ -6504,6 +6537,7 @@ __partake__ _v_ :four::hammer: (partaking)
 __partaken__ _v_  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
+__participatory__ _I wanted to be a participatory father._  
 __particle board__  
 __partisan__ _A partisan atmosphere._  
 __partisans__ _n_  
@@ -6518,6 +6552,7 @@ __passel__ _A passel of ducks._
 __passersby__ _n_  
 __pastiche__ :two::hammer:  
 __pastime__ _n_ :two::pencil2::hammer: (pastimes)  
+__pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pasty__ _adj_ :two::hammer:  
 __pat<sup>1</sup>__ _v_ Hit lightly. _Pat him on the shoulder._  
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
@@ -7202,7 +7237,7 @@ __quavered__
 __quavering__  
 __quay__ _n_  
 __queasiness__ _There was queasiness among many residents._  
-__queasy__ _adj_ :four: Causing or suffering from nausea: _feeling queasy after a meal._  
+__queasy__ _adj_ :five: Causing or suffering from nausea: _feeling queasy after a meal._  
 __queer__ _v_  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quelled__ _v_  
@@ -7256,7 +7291,7 @@ __racquet__
 __racy__ :two::hammer: _A racy line from a popular song._  
 __radical candor__  
 __radish__  
-__raffle<sup>1</sup>__ _n_ :two::hammer:  
+__raffle<sup>1</sup>__ _n_ :three::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :four: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
 __rage<sup>1</sup>__ _n_  
@@ -7532,7 +7567,7 @@ __resounding__
 __respite__ _n_ :six: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __resplendent__  
 __respondent__ _n_ :three::hammer: (respondents)  
-__responsibility__ _With great power comes great responsibility._  
+__responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
@@ -7793,7 +7828,7 @@ __sakura__
 __salacious__ _adj_ :three::hammer: _Salacious music._  
 __salad spinner__ _n_  
 __sales force__  
-__salient__ :two::hammer:  
+__salient__ :three::hammer: _That is a salient fact._  
 __salivating__ _v_  
 __sallow__ _adj_ :three::hammer: _A sallow face._  
 __salt away__  
@@ -8261,6 +8296,7 @@ __sidled__ _v_
 __siege__ _An overnight siege shocked the country._  
 __sieve__ _n_ :four::hammer:  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
+__sigh__ :mega:  
 __sign up__ _v_  
 __sign-off__ _n_  
 __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
@@ -8373,7 +8409,7 @@ __sleep deprivation__
 __sleep in__ _v_  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleepwalking__  
-__sleepwear__ (vs sportswerar, etc.)  
+__sleepwear__ :two::hammer: (vs sportswerar, etc.)  
 __sleety__  
 __slender__  
 __sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
@@ -9101,6 +9137,7 @@ __sudsy__
 __suffragette__  
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
+__sugar daddy__ _A sugar daddy relationship._  
 __suicide vests__  
 __suit up__ _v_  
 __suitors__ :two::hammer:  
@@ -9113,6 +9150,7 @@ __sully__ _v_
 __sultanate__  
 __sultry__ :two::hammer:  
 __summary__ :two::hammer: _Summary deaths._ _Summary killings._  
+__summertime__  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
 __sunder__ _v_ :two::hammer:  
@@ -9136,6 +9174,7 @@ __suppository__ _n_
 __suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
 __surcease__  
+__surcharge__ _Additional hotel surcharge of $5.00 per order._  
 __sure enough,__ _Sure enough, that's what happened._  
 __surefire__  
 __surety__  
@@ -9439,7 +9478,7 @@ __throng__ _n_ :five::hammer: _A throng of news media members._
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
-__through__ _adj, adv, prep_ :five: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._  
+__through__ _adj, adv, prep_ :six: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
 __throw in the towel__ :two::hammer:  
@@ -9778,6 +9817,7 @@ __turnsole__ :pencil2:
 __turnstile__ _n_  
 __turpentine__ _n_  
 __turpitude__  
+__tushie__ _n_ :two::hammer:  
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
 __tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuffle.  
 __tussle__ _n_ :three::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
@@ -9880,7 +9920,7 @@ __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to
 __unflagging__ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__  
-__unfold__ _v_ :three::hammer: _Mysteries unfold._  
+__unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unfurl__ (unfurling) :two::hammer:  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
@@ -9936,7 +9976,7 @@ __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The ea
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upfront__ _adj_  
-__upheaval__ _n_ :five::hammer:  
+__upheaval__ _n_ :six::hammer:  
 __uphill battle__  
 __uphill__ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
@@ -10077,7 +10117,7 @@ __vitriol__ _n_ :five: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's ant
 __vitriolic__ :two::hammer:  
 __vituperation__  
 __vituperative__  
-__vizier__  
+__vizier__ _n_ :two::hammer:  
 __vocal<sup>1</sup>__ _adj_ :two: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
@@ -10289,6 +10329,7 @@ __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantag
 __whizzing__  
 __whodunit__  
 __whole milk__  
+__whole nine yards, the__  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::hammer:  
 __wholesome__ :two::hammer:  
@@ -10419,6 +10460,7 @@ __wow__ _v_
 __wracking__ _v_  
 __wraith__  
 __wrangle__ _v_ :two::hammer: (wrangling)  
+__wrap one's head around it__  
 __wraparound season__  
 __wreak havoc__  
 __wreaked havoc__  
@@ -10445,6 +10487,7 @@ __write up__ _v_ :two::hammer:
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
 __writhe__ _v_ :six::hammer: (writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._  
+__writing on the wall, the__ An omen of impending disaster or ruin. _I've seen the writing on the wall._  
 __writs__ _n_  
 __wrongdoing__  
 __wrought<sup>1</sup>__ _v_ :three: A past tense and a past participle of work. _Syn_ worked  
