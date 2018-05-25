@@ -542,7 +542,7 @@ __agrarian__
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __ague__ _n_ :two::hammer: (agues)  
 __ah__  
-__ahead of the curve__ _idiom_ :two:  
+__ahead of the curve__ _idiom_ :three:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
@@ -1410,7 +1410,7 @@ __brazier__
 __breach__ _v_ :four::hammer: (breached)  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break a leg__ _idiom_  
-__break down__ _The Disney World ride broke down._  
+__break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
 __break-the-china__  
@@ -2025,6 +2025,7 @@ __cleat<sup>2</sup>__ _v_ :two::hammer: (cleated) _Cleated horseshoes._ To get s
 __cleave__ _v_ _The court often cleaves along predictable lines._  
 __cleaver__ _n_ :three::hammer: _A butcher's cleaver._ _Meat cleaver._  
 __cleft__  
+__clemency__  
 __clench__ _n_ :two::hammer:  
 __clenched__  
 __clergy__  
@@ -2141,7 +2142,7 @@ __coming up__
 __coming-of-age__ _A coming-of-age story._  
 __comity__  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
-__commendable__  
+__commendable__ _adj_ :two: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _He earned two commendation medals._  
 __commendations__ _n_  
 __commentary__  
@@ -2761,7 +2762,7 @@ __despondent__ _n_ :four::hammer:
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
-__deterrent__ _n_ :five: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__deterrent__ _n_ :six: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__  
 __detritus__ _n_  
@@ -3000,7 +3001,7 @@ __downers__ :two::hammer:
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic's health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
-__downplay__ _v_ :three::hammer: (downplayed)  
+__downplay__ _v_ :four::hammer: (downplayed)  
 __downpour__ _n_ :four::hammer: (downpours) _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::three::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downsides__  
@@ -3224,6 +3225,7 @@ __elevator control box__
 __elevator operator__ :camera:  
 __elevators__ (airplane)  
 __elicit__ _v_ :four::hammer: (elicited)  
+__elide__ _v_  
 __eligibility__  
 __elite__ (elites) :two::hammer:  
 __elope__ _v_ :six::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
@@ -3917,6 +3919,7 @@ __from the git-go__
 __from the rooter to the rooter__  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front and center__ :two::hammer:  
+__front man__  
 __front-runner__ _n_  
 __frontrunner__  
 __frosh__  
@@ -4495,7 +4498,7 @@ __hawkish__ _adj_ :six::hammer: _Hawkish views._ _Hawkish national security team
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
-__haywire__ :three::hammer: _To go haywire._  
+__haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _A 465-yard par with a water hazard._  
 __hazardous__  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
@@ -4729,6 +4732,7 @@ __horticulture__
 __hoss__  
 __host__ _A host of grandchildren and great-grandchildren._  
 __hot glue__  
+__hot seat__  
 __hot-button__ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
 __hot-wire__ _Hot-wire cars._  
@@ -4760,9 +4764,8 @@ __hubcaps__
 __hubhub__  
 __hubris__ _n_ :four::hammer: _Intellectual hubris._  
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
-__huddle<sup>1</sup>__ _n_ __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
-__huddle<sup>2</sup>__ _v_ __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
-__huddle__ _v_ :two::hammer:  
+__huddle<sup>1</sup>__ _n_ :two: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
+__huddle<sup>2</sup>__ _v_ :three: __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
 __huff__ :two::hammer:  
 __huffed__ _v_ :five::hammer: (huffing)  
 __huh__  
@@ -5576,7 +5579,7 @@ __lug__ _v_ :three::hammer:
 __luge__ _Olimpic luge team._  
 __luger__ _Team USA's best lugers._  
 __lugging__ _v_ :three::hammer:  
-__lull<sup>1</sup>__ _n_ :three::hammer: (lulls)  
+__lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_  
 __lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :two::hammer: _A shopper checks out with her lumber._ _Lumber & home improvement._  
@@ -7343,6 +7346,7 @@ __rankled__ _v_
 __ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
 __rant__ _v_  
+__rap__ _South has a bad rap._  
 __rapidly__  
 __rapiers__  
 __rapping__ _v_  
@@ -7711,6 +7715,7 @@ __rolling hills__ :two::hammer: :es: colinas (onduladas)
 __rolling meadows__  
 __rollout__ _n_ :three::hammer: (rollouts)  
 __rollovers__  
+__romanticize__ _v_ :pencil2:  
 __romp__ _v_ :six::hammer:  
 __rondo__ _n_ (music)  
 __rood__ _n_ :two::hammer:  
@@ -8035,6 +8040,7 @@ __seizing__ _n_ :three::hammer:
 __sekuhata__ Sexual harassment.  
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
+__self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-fulfilling__ _Self-fulfilling prophecy._  
 __self-righteous__  
@@ -9259,6 +9265,7 @@ __swoopy__
 __swooshing__  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
 __syllogism__ :two::hammer:  
+__syncing__ _Syncing up over coffee._  
 __syndicated__ :two::hammer:  
 __syringe__  
 __syrupy__  
@@ -9315,7 +9322,7 @@ __tang__ _n_ :three::hammer: _Dory, the little blue tang fish._
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
-__tank__ _v_ :six::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._  
+__tank__ _v_ :seven::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_  
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__ _n_ :two::hammer:  
@@ -9652,6 +9659,7 @@ __touch and go__
 __touchline__  
 __touchy__  
 __tough cookie__  
+__tough love__ _n_ :three::hammer:  
 __tough luck__  
 __tourney__  
 __tousle__ _v_  
@@ -9885,8 +9893,7 @@ __under siege__
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
-__undercut__ _v_ :three::hammer:  
-__undercutting__  
+__undercut__ _v_ :five::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
 __underpin__ _v_ :two::hammer:  
