@@ -21,3 +21,18 @@ __non-committal__
 __kinky__  
 __tall order__  
 __surrogate__ _n_  
+
+__kale__  
+__Doritos__ :mega: _A bag of Doritos (corn chips)._  
+__junction__ _Conjunction junctions._  
+__spree__ _A killing spree._  
+__homesick__  
+__diploma__  
+__bad words__ _Cat says bad words._  
+__devoid__  
+__clear__ _v_ _Clearing the hurdle._  
+__public eye__  
+__double down__ _v_  
+__smash hit__  
+__big time__  
+__cramp__ _n_ (cramps)  
