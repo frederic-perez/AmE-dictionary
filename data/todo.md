@@ -36,3 +36,17 @@ __double down__ _v_
 __smash hit__  
 __big time__  
 __cramp__ _n_ (cramps)  
+
+__cinephile__ :mega: (?)  
+__guillotine__ _n_ :mega:  
+__spellbound__ _adj_  
+__show runner__  
+__horticulturist__ _n_ :mega:  
+__roller derby__  
+__fertil__ :mega:  
+__photography__ _n_ :mega:  
+__hawk__ _v_  
+__incarnation__  
+__remarkable__  
+__knockout__ _A knockout series._  
+__corned beef__  
