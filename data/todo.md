@@ -50,3 +50,19 @@ __incarnation__
 __remarkable__  
 __knockout__ _A knockout series._  
 __corned beef__  
+
+__onset__ _Early onset dementia._  
+__redoubtable__ _adj_ :astonished:  
+__spectacles__ _Spectacles or sunglasses?_  
+__plano__ _Plano sunglasses._  
+__newborn__ _n_  
+__carry a torch__  
+__fatherland__ :astonished:  
+__cursory__ _A cursory glance._  
+__thick and thin__  
+__scab__ _n_  
+__banquet__ :mega:  
+__squeamish__  
+__tailgate__ _v_  
+__monopoly__ :mega: (?)  
+__guinea pig__ :mega:  
