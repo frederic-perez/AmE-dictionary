@@ -18,3 +18,17 @@ __case__ _XML tags are case sensitive._
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __case__ _Pascal case means only upper Camel case._  
 __Rottweiler__  
+
+__tap into__  
+__subsequently__ _adv_  
+__enticing__  
+__appealing__  
+__Nobel__ :mega:  
+__double-edged__ _adj_ _Double-edged sword._  
+__wonder buttons__ (?)  
+__intervene__ _v_  
+__countless__  
+__beleaguered__ _v_  
+__vestibule__ :mega:  
+__outlander__  
+__outlandish__  
