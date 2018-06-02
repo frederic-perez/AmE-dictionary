@@ -32,3 +32,12 @@ __beleaguered__ _v_
 __vestibule__ :mega:  
 __outlander__  
 __outlandish__  
+
+__outlook__ _n_  
+__kingdom come__  
+__torn__ _v_  
+__rip__ _The bullets rip._  
+__fortnight__  
+__pen__ _Cricket pen._  
+__dispenser__  
+__plush__ _Plush toy._  
