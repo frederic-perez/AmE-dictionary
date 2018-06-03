@@ -41,3 +41,12 @@ __fortnight__
 __pen__ _Cricket pen._  
 __dispenser__  
 __plush__ _Plush toy._  
+
+__drifting__  
+__drifter__  
+__bee eater__ _n_ :es: abejaruco  
+__clinics__  
+__moral__  
+__floored__ _v_  
+__close the loops__  
+__the haves and the have nots__  
