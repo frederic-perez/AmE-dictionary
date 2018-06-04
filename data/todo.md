@@ -50,3 +50,18 @@ __moral__
 __floored__ _v_  
 __close the loops__  
 __the haves and the have nots__  
+
+__echo chamber__  
+__alienate__ _v_  
+__fists bumping__  
+__scorn__  
+__volatile__ _adj_  
+__incrementally__ _Make it incrementally better._  
+__flawless__ _It is not flawless._  
+__Truetown__ (?)  
+__lizard brain__  
+__bomb__ _v_  
+__mimicker__  
+__tickle__ _v_  
+__TM__  
+__fret__ _n_  
