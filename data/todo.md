@@ -13,3 +13,16 @@ __moniker__ _n_
 __thwart__ _v_  
 __roundup__  
 __honeypot__  
+
+__mischief__ _n_  
+__potent__ _adj_  
+__profoundly__  
+__turnover__ _n_  
+__compliance__ _n_  
+__for what is worth__  
+__transient__ :mega: _A transient log._  
+__worrisome__  
+__shy__ _Shy of one thousand pages._  
+__in the clear__  
+__necessary__ :mega:  
+__yay__  
