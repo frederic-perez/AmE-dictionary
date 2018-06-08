@@ -26,3 +26,13 @@ __shy__ _Shy of one thousand pages._
 __in the clear__  
 __necessary__ :mega:  
 __yay__  
+
+__chafe__ _v_  
+__toe-curling__  
+__apropos__ _prep_ :mega:  
+__ail__ _v_  
+__biggie__  
+__far fetched__  
+__config__ :mega: _A config file._  
+__get a kick out of__ _You'll get a kick out of this!_  
+__bespoke__  
