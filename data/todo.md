@@ -36,3 +36,17 @@ __far fetched__
 __config__ :mega: _A config file._  
 __get a kick out of__ _You'll get a kick out of this!_  
 __bespoke__  
+
+__leech__ _n_ :es: sanguijuela  
+__breach__ _v_ To fail to keep. _Syn_ violate  
+__misguided__ _adj_  
+__pigheaded__ _adj_ Obstinate.  
+__crony__ _n_  
+__small fry__ _adj_ (small-fry) Lacking importance.  
+__barrow__ _n_  
+__sleazy__  
+__cesspool__ _n_  
+__narrow-minded__ _adj_  
+__hubcap__ _n_ :es: tapacubos  
+__radial__ _Such a thrill when your radials squeal._  
+__run-of-the-mill__ Ordinary, average.  
