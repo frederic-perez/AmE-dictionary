@@ -50,3 +50,21 @@ __narrow-minded__ _adj_
 __hubcap__ _n_ :es: tapacubos  
 __radial__ _Such a thrill when your radials squeal._  
 __run-of-the-mill__ Ordinary, average.  
+
+__stroll__ _v_  
+__commendable__  
+__jolly__  
+__jollification__ _n_  
+__reminisce__ _v_ (reminiscing)  
+__omnibus__  
+__seer__ _n_  
+__quicken__  
+__bough__ _n_  
+__wretch__ _n_  
+__dandle__ _v_  
+__plead__ _v_  
+__bow__ _I've taken my bows and my curtain calls._  
+__inarticulate__  
+__farthing__  
+__pull yourself together__  
+__sickly__ :es: enfermizo  
