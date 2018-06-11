@@ -68,3 +68,20 @@ __inarticulate__
 __farthing__  
 __pull yourself together__  
 __sickly__ :es: enfermizo  
+
+__sonny__  
+__rat race__  
+__bookplate__  
+__transient__  
+__dire__  
+__exploit<sup>1</sup>__ _n_ :mega:  
+__exploit<sup>2</sup>__ _v_ :mega:  
+__masterpiece__  
+__in a nutshell__  
+__mull__ _v_  
+__leverage__ _v_  
+__platitude__  
+__fledgling__  
+__salty__  
+__salient__  
+__compliant__  
