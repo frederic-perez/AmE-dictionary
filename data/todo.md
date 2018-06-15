@@ -20,3 +20,22 @@ __soapbox__
 __unabashedly__  
 __dragging__ _v_  
 __yikes__  
+
+__lip service__  
+__nefarious__  
+__scaffold__  
+__solicit__ _v_ (solicited) _We solicited questions to our fanbase._  
+__fanbase__ _n_ :astonished:  
+__squeamish__  
+__shoddy__  
+__constituents__ _n_  
+__sentient__  
+__Ada__ :mega:  
+__seesaw__ _n_  
+__forensics__  
+__valedictorian__  
+__nerve__  
+__jumpstart__  
+__wake__ _n_  
+__upshot__ _n_  
+__zip-line__ _v_ (zip-lining)  
