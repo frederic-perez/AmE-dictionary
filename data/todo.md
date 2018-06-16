@@ -39,3 +39,14 @@ __jumpstart__
 __wake__ _n_  
 __upshot__ _n_  
 __zip-line__ _v_ (zip-lining)  
+
+__discharge__ _v_ _He was discharged from the hospital._  
+__outpatient__  
+__quash__ _v_  
+__refrain__ _v_  
+__eulogy__  
+__frog man__ Navy seal.  
+__fatigues__ _n_  
+__layman > in layman terms__  
+__shoftlift__ _v_  
+__wake__ _n_  
