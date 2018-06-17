@@ -50,3 +50,18 @@ __fatigues__ _n_
 __layman > in layman terms__  
 __shoftlift__ _v_  
 __wake__ _n_  
+
+__duplex__ :mega:  
+__news breaker__ (?)  
+__bot__ _n_  
+__surrogate__  
+__uncanny valley__  
+__subtle__ :mega:  
+__shush__ _interj_  
+__mandate__ :mega:  
+__corpus__ _A big corpus of examples._  
+__eye raiser__ (?)  
+__reach out__ _v_  
+__sucker__ _n_ (of a plant)  
+__loss one's marbles__ _They were losing their marbles._  
+__succumb__ _v_  
