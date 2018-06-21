@@ -21,3 +21,12 @@ __bug__ _v_ (bugging) _You're bugging me._
 __uptick__ _n_  
 __develop__ _v_ :mega:  
 __hoo-ha__ _n_ _Marketing hoo-ha._  
+
+__tedious__  
+__reset__ _v_ :mega:  
+__roll out__ _v_  
+__OEM__ _abbr_ :two::hammer: _OEMs._  
+__comfy__ _Comfy clothes._  
+__meteoroid__ _n_  
+__unearth__ _v_  
+__solicit__ _v_ (solicited) _We solicited questions._  
