@@ -31,7 +31,7 @@ __meteoroid__ _n_
 __unearth__ _v_  
 __solicit__ _v_ (solicited) _We solicited questions._  
 
-__pull off__ _v_ To achieve (something difficult or unexpected).  
+__pull off__ _v_ :astonishing: To achieve (something difficult or unexpected).  
 __foible__ _n_ (foibles)  
 __PR__ _abbr_ _The PR version of my life._  
 __bullet points__ :two::hammer: _Give me the bullet points._  
@@ -40,3 +40,13 @@ __ever since__ _I've been a fan ever since._
 __pollen__ _n_ :astonished:  
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
 __touchy__ _adj_  
+
+__secret weapon__  
+__housing__  
+__refurbish__ _v_  
+__forklift__  
+__chip on the shoulder__  
+__institutionalize__ _v_  
+__cotton dry__  
+__breathing room__  
+__goblin__ _n_  
