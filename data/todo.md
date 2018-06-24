@@ -50,3 +50,13 @@ __institutionalize__ _v_
 __cotton dry__  
 __breathing room__  
 __goblin__ _n_  
+
+__lifelong__ _adj_  
+__quote-unquote__ (?)  
+__head-spinning__ _A head-spinning thing._  
+__to be in someone's shoes__ _Nobody has been in my shoes._  
+__playful__ _A playful aside._  
+__aside__ _n_ _A playful aside._  
+__meat at the bones__ (?)  
+__in the clear__ _She is in the clear._  
+__exacerbate__ _v_ :two::hammer:  
