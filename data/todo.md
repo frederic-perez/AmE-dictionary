@@ -56,3 +56,38 @@ __upward__
 __rummaging__  
 __unabashed__  
 __treachery__  
+
+__overly__  
+__foundered__ _v_  
+__kybosh__ _v_  
+__fundraiser__ _They were at a fundraiser._  
+__gloating__  
+__deprived__ _A very deprived area._  
+__untapped__ _Untapped talent._  
+__scuffle__ _n_  
+__petty__ _A petty argument resulted in her son's murder._  
+__pendant__ _n_  
+__utterly__ :two::hammer: _An utterly trivial dispute._  
+__goading__ _v_  
+__twiddle__ _v_  
+__barbs__ _His sharp barbs._  
+__lacerate__ _v_  
+__vape__ _I'm with a beer smoking on my vape._  
+__sloth__ _A baby sloth._  
+__zeitgeist__  
+__case in point__  
+__heed__  
+__crackdown__ _n_  
+__clampdown__ _An immigration clampdown._  
+__concrete__ _n_ :two::hammer: _A concrete wall._  
+__inset__  
+__grappling__  
+__gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
+__bursary__  
+__mooted__  
+__trespass__ _v_  
+__tirade__ _n_  
+__shy__ _Rob killed himself six months shy of his 40th birthday._  
+__stifle__ _v_  
+__alienate__ _v_  
+__chargrilled__ _Chargrilled chicken._  
