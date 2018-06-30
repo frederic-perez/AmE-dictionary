@@ -134,3 +134,37 @@ __setback__ _n_
 __haul__ _v_ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __swoop__  
 __goalkeeper__  
+
+__outlandish__  
+__hubbub__ _n_  
+__fluffy slippers__ _n_ :camera:  
+__cleanser__ _n_  
+__astringent__  
+__verbotem__  
+__wreak havoc__  
+__expenditure__ _Going to the theater is our number one expenditure._  
+__dumbbells__ _n_  
+__wringer__ _n_  
+__dingy__  
+__ethos__  
+__shortlist__ _n_  
+__backdrop__ _n_  
+__ululations__  
+__cantatas__ _Batch cantatas._  
+__plaintively__  
+__toast marshmallows__ :camera:  
+__LGBT+__  
+__penchant__ _A penchant for photography._  
+__sick leave__ _The UK's biggest reason for sick leave._  
+__snort__ _A lifestyle of snorting and scrapping._  
+__scrapping__ _A lifestyle of snorting and scrapping._  
+__harrowing__  
+__stooped__ _v_ _He stooped to unplug his laptop._  
+__clutch bag__  
+__eponymous__  
+__shanks__ _n_  
+__COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
+__citadel__ _This glass citadel of capitalism._  
+__egregious__  
+__assuage__ _v_  
+__shelved__ _v_  
