@@ -91,3 +91,46 @@ __shy__ _Rob killed himself six months shy of his 40th birthday._
 __stifle__ _v_  
 __alienate__ _v_  
 __chargrilled__ _Chargrilled chicken._  
+
+__atrocity__  
+__Prime Minister__  
+__red-letter day__  
+__minnows__  
+__au pair__  
+__fez__ _n_  
+__fall from the sky__ _This trust doesn't fall from the sky._  
+__bequeathed__ _v_  
+__battery__ _Counts of a domestic battery by strangulation._  
+__breach__ _n_  
+__utterly__  
+__appalling__  
+__crackdown__  
+__revelled__ _v_  
+__furrow__  
+__pundit__  
+__frontman__  
+__egregious__  
+__contrite__  
+__progeny__  
+__showpiece__  
+__runner-up__  
+__hallmark__  
+__beset__ _Chelsea are beset with uncertainty._  
+__marshalled__ _v_  
+__onlooker__ _n_  
+__header__ _n_ :two::hammer:  
+__adjudge__ _v_  
+__box__ _n_ :two::hammer: (soccer) _Kyle fouled Ben in the box._  
+__contrive__ _v_ (contriving)  
+__VAR__ _abbr_ Video Assistant Referee.  
+__vindication__  
+__set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
+__sapping__ _The sapping heat._  
+__readying__ _v_ :astonished:  
+__stoppage time__  
+__Golden Boot__ _The race for the Golden Boot._  
+__striker__ :two::hammer:  
+__setback__ _n_  
+__haul__ _v_ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
+__swoop__  
+__goalkeeper__  
