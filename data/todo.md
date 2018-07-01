@@ -168,3 +168,53 @@ __citadel__ _This glass citadel of capitalism._
 __egregious__  
 __assuage__ _v_  
 __shelved__ _v_  
+
+__woeful__  
+__pow-wow__  
+__intricate__  
+__flair__  
+__onus__  
+__woefully__  
+__prime__  
+__shirk__ _v_  
+__keen__ :two::hammer:  
+__nonchalantly__  
+__last-gasp__ _He scored the last-gasp winner._  
+__stake__ _n_  
+__earnest__  
+__cloud__ _v_ _To cloud my judgement._  
+__enthused__ _v_  
+__earmarked__ _v_  
+__dampen__ _v_  
+__hobble__ _n_  
+__treble__  
+__unassailable__  
+__catalyst__  
+__Down Under__  
+__gorge__ _v_  
+__subsequent__  
+__haul__ _n_  
+__mare__ _n_  
+__dire__  
+__dabbling__ _v_  
+__peripheral__  
+__ramp up__ _v_  
+__rife__  
+__turnover__  
+__bespoke__  
+__float__ _v_ :three::hammer:  
+__float__ _n_  
+__pastime__  
+__bludgeoned__  
+__eponymous__  
+__minnows__  
+__tit-for-tat__  
+__inaugural__  
+__squeamish__  
+__levyying__ _v_  
+__soured__ _v_  
+__City__  
+__bonanza__  
+__Frenchman__  
+__rankles__  
+__torpor__ _The economy is in a torpor._  
