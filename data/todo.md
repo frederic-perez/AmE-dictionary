@@ -285,3 +285,15 @@ __legerdemain__
 __ripe__  
 __mooted__ _v_  
 __nappy__  
+
+__uptick__ _n_  
+__bleak__  
+__far-fetched__ _That isn't as far-fetched as it sounds._  
+__saffron__  
+__golliwog__  
+__palsy__ _Cerebral palsy._  
+__laudable__  
+__clampdown__ _n_  
+__caveat emptor__  
+__bespoke__  
+__small print__  
