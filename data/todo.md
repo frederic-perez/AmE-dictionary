@@ -218,3 +218,25 @@ __bonanza__
 __Frenchman__  
 __rankles__  
 __torpor__ _The economy is in a torpor._  
+
+__tad__  
+__knackered__  
+__stymieing__  
+__endgame__  
+__deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
+__hectored__ _v_  
+__fret__ _v_  
+__lengthy__ _A lengthy period._  
+__keen__ _A keen strategist._  
+__wobbly__  
+__upskirting__ _n_  
+__mastermind__ _v_ :two::hammer: (masterminding)  
+__remembrance__  
+__poignant__ _A poignant ceremony._  
+__vile__  
+__wary__  
+__flinch__ _v_  
+__ploughed__ _v_  
+__frieze__ _n_  
+__speak out__ (spoke out)  
+__cuneiform__  
