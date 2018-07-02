@@ -240,3 +240,48 @@ __ploughed__ _v_
 __frieze__ _n_  
 __speak out__ (spoke out)  
 __cuneiform__  
+
+__regal__ _A black West Indian with regal manners._  
+__inquisitiveness__  
+__sudden__  
+__exempt__  
+__amenity__  
+__dinghies__  
+__seagulls__  
+__offload__ _v_  
+__back-of-house__ __Back-of-house technology._  
+__earmark__ _v_ :two::hammer: (earmarked)  
+__pinning__ _v_  
+__flog__ _v_  
+__wobble__ _v_ (wobbling)  
+__scrap__ _v_  
+__weighty__ _His weighty agenda._  
+__omen__ _n_  
+__swipe__ _n_  
+__intricacies__  
+__morale__ _n_  
+__plough__ _It wanted to plough cash into the business._  
+__unfazed__  
+__turn__ _v_ :astonished: _Clive turned 60 last month._  
+__reliant__  
+__damning__ :astonished: _A damning veredict._  
+__excoriating__  
+__dish up__ _v_  
+__windfall__ _The dividend windfall._  
+__roadblock__ _n_  
+__Commonwealth__  
+__shortlist__ _We look at the shortlist's biggest beasts._  
+__choppy__  
+__ore__ _Iron ore._  
+__prominent__  
+__parcel__ _n_  
+__strangle__ _v_  
+__tit-for-tat__  
+__skirmishes__ _n_  
+__tycoon__ _n_  
+__lurid__  
+__float__ _n_ _The float of the firm._  
+__legerdemain__  
+__ripe__  
+__mooted__ _v_  
+__nappy__  
