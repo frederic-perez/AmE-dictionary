@@ -297,3 +297,71 @@ __clampdown__ _n_
 __caveat emptor__  
 __bespoke__  
 __small print__  
+
+__Club Med__ _Club Med countries._  
+__languish__ _v_ (languishing)  
+__meek__  
+__burgeoning__  
+__marzipan__  
+__sketchy__  
+__myriad__  
+__blunt__ _A really blunt tool._  
+__ailing__  
+__scrap__ _v_ (scrapping)  
+__commentator__ _n_  
+__lurid__  
+__commandeered__ _v_  
+__cabanas__ _n_  
+__slew__  
+__overdrive__ _n_  
+__sterling__ _n_  
+__City__  
+__wildcard__ _n_  
+__contrite__ _adj_  
+__sanguine__ _adj_  
+__groundstroke__ _n_  
+__unduly__  
+__hobble__ _v_ (hobbling)  
+__shorn__  
+__callow__  
+__captaincy__  
+__goad__ _v_ (goading)  
+__sired__ _v_ _Another colt sired by him._  
+__fancied__ _v_  
+__blight__ _v_ :hammer::two: (blighted)  
+__build-up__ _n_ :two::hammer:  
+__belatedly__  
+__bid__ _v_  
+__buck__ _v_  
+__dismal__  
+__meek__  
+__stoppage time__  
+__pitch__ _n_ :three::hammer:  
+__flair__ _He provided flair._  
+__faze__ _v_  
+__lowdown__ _n_  
+__wayward__  
+__banter__ _n_  
+__swoop__ _v_ :two::hammer: (swooped)  
+__crossroads__ _He is at a significant crossroads in his career._  
+__detail__ _n_ _A member of the team's security detail._  
+__keen__  
+__lambasted__ _v_  
+__unequivocally__  
+__hardline__ _The US hardline policy on illegal immigration._  
+__go over the wire__  
+__cobble__ _v_  
+__diplodocus__ _n_  
+__haul__ _n_  
+__trawled__ _v_  
+__Angler Fish__ _n_ :camera:  
+__christening__ _n_  
+__beetroot__ _n_  
+__haul__ _A record haul of assets seized by Scotland Yard._  
+__rucksack__ _n_  
+__spat__ _n_  
+__stop short__  
+__unamerican__  
+__crackdown__ _The crackdown on illegal immigrants._  
+__clampdown__  
+__abhorrent__  
