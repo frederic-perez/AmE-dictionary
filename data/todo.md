@@ -426,3 +426,32 @@ __cajole__ _v_ (cajoling)
 __contingency__ _Contingency plan._  
 __rite__  
 __roundabout__  
+
+__relay__ _A relay race._  
+__folly__  
+__overtake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
+__undertake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
+__manoeuvre__ _n_ _The Addison Lean manoeuvre._  
+__clutch__ _n_ _The clutches of the Brussels bureaucrats._  
+__ludicrous__  
+__woeful__ _Our woeful train system._  
+__appalling__  
+__unfazed__  
+__refurbishment__  
+__languish__ _v_  
+__stipulation__ _n_  
+__homophobic__  
+__cesspool__  
+__backbencher__ :three::hammer: _A Tory backbencher._  
+__modicum__  
+__unswervingly__  
+__meme__ _n_  
+__upskirt__ _v_ (upskirted)  
+__erstwhile__  
+__yowl__ _n_  
+__prurient__  
+__mane__ _n_  
+__nonchalant__  
+__fallacy__  
+__defuse__ _v_ (defusing)  
+__pop-up__  
