@@ -365,3 +365,64 @@ __unamerican__
 __crackdown__ _The crackdown on illegal immigrants._  
 __clampdown__  
 __abhorrent__  
+
+__flagship__  
+__preposterously__  
+__ornate__  
+__inveterate__  
+__ornateness__  
+__pendant__ _The pendant lamps._  
+__fiery__ :two::hammer: _A fiery Tabasco-ish sauce._  
+__jus__  
+__loquat__  
+__zesty__  
+__harissa__  
+__sturdy__  
+__parsley__  
+__customs__ _n_ (at airport)  
+__disaffected__  
+__elegy__  
+__nonchalance__  
+__paroxysm__  
+__cathartic__  
+__laurels__  
+__hayfever__  
+__stone__ _n_ :two::hammer: _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
+__run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
+__discharge__ _v_ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
+__foray__  
+__revocation__  
+__clear-cut__ _Adam's guilt isn't so clear-cut._  
+__riotous__  
+__angle__ _v_  
+__smug__ _adj_  
+__tench__ _n_  
+__yurt__ _n_  
+__declutter__ _v_  
+__range__ _v_ _This ranges from clearing out cupboards to limming down your diary._  
+__tactful__  
+__range__ _n_ _A range of details._  
+__ratchet__  
+__induction__ _n_  
+__scathing__  
+__tirade__  
+__baloney__  
+__shy__ _v_ (shied)  
+__colossus__  
+__leapfrog__ _v_ (leapfrogging)  
+__shun__ _v_  
+__coracles__  
+__mar__ _v_ (marred)  
+__jigsaws__  
+__stately__  
+__outing__ _n_  
+__strobe__ _Strobe lighting._  
+__dusters__ _n_ _My grandad sold dusters._  
+__gnaw__ _v_  
+__lurch__ _v_ (lurched)  
+__sashayed__ _v_  
+__tumbleweed__ _n_  
+__cajole__ _v_ (cajoling)  
+__contingency__ _Contingency plan._  
+__rite__  
+__roundabout__  
