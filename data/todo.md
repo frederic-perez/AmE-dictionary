@@ -1,3 +1,71 @@
+
+
+__treble__ _v_  
+__shy__ :two::hammer: _Shy of leaders._  
+__flutter__ _n_  
+__floodlight__ _n_  
+__haul__ _n_  
+__fail__ _v_ _I'm trying--and failing--to work out the logic of this._  
+__shortlist__ _n_  
+__bookrunner__  
+__doldrums__  
+__mettle__ _n_  
+__bore__ _n_ :es: aburrido (?)  
+__sniggering__ _v_  
+__be in a pickle__  
+__cadence__ _n_  
+__turn the table__  
+__showpiece__  
+__furlong__  
+__callow__  
+__whitewash__  
+__whisker__ _n_  
+__victor__ _n_  
+__high-fly__ _v_  
+__bristle__  
+__flare up__ _v_  
+__lunchtime__  
+__preening__ _His preening performance._  
+__winger__ _n_ (soccer)  
+__madness__  
+__sloppy__  
+__step up__  
+__underwhelming__ :astonished:  
+__then again__  
+__utmost__  
+__breather__  
+__pitch__ _n_ (soccer)  
+__draw__ _v_ _We win, lose and draw together._  
+__scintillating__  
+__hatched__ _v_ _A plan hatched during a road trip._  
+__contention__ _Rashford is in contention to start England's second group game._  
+__equalizer__  
+__despondent__  
+__nullify__ _v_  
+__clutch__ _v_ :astonished: _Steve was clutching notes outlining possible line-ups._  
+__fretting__ _v_  
+__impact__ _Sterling struggled to make an impact in the second half._  
+__cap__ _n_ (soccer)  
+__here's looking at you__  
+__teetotaller__  
+__riotous__  
+__shambles__  
+__one-off__  
+__damning__  
+__bereaved__ _v_  
+__barrister__ _n_  
+__squirmy__  
+__gnaw__ _v_  
+__build-up__ _n_  
+__frill__ _v_  
+__frilly__  
+__gingivitis__ _n_  
+__periodontal__ _Periodontal health._  
+__heath__ _n_  
+__covenant__  
+__hay fever__  
+__evict__  
+
 __brace yourself__ _idiom_ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __from afar__  
 __dunce__ _n_  
