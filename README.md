@@ -12,7 +12,7 @@ I collect words from multiple sources, including:
   <img src="images/AmE-dictionary--Pile-of-newspapers--256x256.jpg?raw=true" alt="Pile of newspapers"/>
 </p>
 
-- [The YUNiversity](http://www.theyuniversity.net/) | [@The_YUNiversity](https://twitter.com/The_YUNiversity)
+- [The YUNiversity](http://www.theyuniversity.net/) | [@The_YUNiversity](https://twitter.com/The_YUNiversity) | [tumblr](https://TheYUNiversity.tumblr.com) | [Instagram](https://www.instagram.com/the_yuniversity/)
 - Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/grammargoddess)
 
 ## Emojis
