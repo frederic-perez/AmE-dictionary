@@ -455,3 +455,31 @@ __nonchalant__
 __fallacy__  
 __defuse__ _v_ (defusing)  
 __pop-up__  
+
+__pittance__  
+__tussle__ _n_ :two::shit:  
+__haulier__  
+__whinge__  
+__screech__ _v_ (screeched)  
+__squirm__ _v_  
+__huff__ _v_  
+__puff__ _v_  
+__hapless__  
+__minnows__  
+__vitriol__  
+__reams__  
+__scantily__  
+__flurry__  
+__outing__  
+__appalling__  
+__tip-off__  
+__winger__ (soccer)  
+__top-flight__  
+__hard-ball__  
+__bristle__ _v_  
+__levied__ _v_  
+__blueprint__  
+__backtrack__  
+__step up__ _v_  
+__damning__ _A damning independent inquiry._  
+__sling__ _n_ _The sling for his dislocated shoulder._  
