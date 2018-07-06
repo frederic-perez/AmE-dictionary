@@ -1,4 +1,27 @@
 
+__riff__  
+__extolling__ _v_  
+__posh__  
+__ethos__  
+__abashed__  
+__palate__ _n_ _I add a few spices to educate their palates._  
+__house husband__ _Karl is a house hisband._  
+__harissa__  
+__molasses__ _Pomegranate molasses._  
+__saffron__  
+__accidental__ _Ottolenghi is an acvidental chef._  
+__restaurateur__  
+__conspicuous__  
+__bona fide__ _They are bona fide superstars._  
+__fly high__  
+__heavily__ _He was drinking heavily._  
+__slog__  
+__shortlist__  
+__heralded__ _v_  
+__blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
+__venison__  
+__goulash__  
+__housebound__  
 
 __ethos__  
 __hurling__ _v_  
