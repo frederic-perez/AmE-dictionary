@@ -1,4 +1,54 @@
 
+__squad__ _n_ _The Olympics squad._  
+__discharge__ _v_ _The patient was discharged the day after the operation._  
+__sought-after__  
+__sleek__  
+__en suite bathroom__ (or ensuite?)  
+__plinths__ _n_  
+__derelict__ _Derelict buildings._  
+__disused__  
+__rooftop__ _n_ _The rooftop can seat 800 people._  
+__dinghy__  
+__barrister__  
+__bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
+__alfresco__ _It had two small terraces for alfresco dining._  
+__regatta__  
+__shingle__  
+__nestled__  
+__keen__ _Recent graduates are keen on Brixton's nightlife._  
+__hamlet__ _n_  
+__rummage__  
+__marquetry__ :astonished: _Marketry doors._ :es: marquetería (?)  
+__pop-up__ :two::hammer: _Hip brand Pynta is holding a pop-up in the East Gallery._  
+__jaunty__  
+__pleated__ _The lamp is available with stretched or pleated shade._  
+__bespoke__  
+__emerald__  
+__amalgam__  
+__yews__ _n_  
+__topiary__  
+__unruly__  
+__paperwork__  
+__berth__  
+__appraisal__ _n_  
+__downpour__ _n_  
+__ensue__ _v_  
+__showroom__ _n_  
+__superbly__  
+__eponymous__  
+__brise-soleil__ _Brise-soleil shading._  
+__development__ _Choose your home from 8 new developments across London._  
+__ensnare__ _v_ (ensnaring)  
+__elderflower__  
+__chamomille__  
+__mulberry__  
+__cruffy__  
+__lark__  
+__trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
+__provenance__  
+__lashings__ _n_ _Gooey cheese and lashings of sour cream._  
+__tagline__  
+
 __riff__  
 __extolling__ _v_  
 __posh__  
