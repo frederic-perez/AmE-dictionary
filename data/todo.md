@@ -1,4 +1,40 @@
 
+__banter__ _n_  
+__pop-up__ _A pop-up kitchen._  
+__veritable__  
+__scintillating__  
+__sturdy__  
+__tawny__  
+__naevus__  
+__surmounted__  
+__cupboard__  
+__gravel__ _The car was parked on the gravel drive._  
+__ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
+__affluent__  
+__culprit__ _n_  
+__lurch__ _v_  
+__lashings__ _n_  
+__dab__  
+__nonplussed__ _His celebrations have nonplussed commentators._  
+__high street__ :three::hammer:  
+__commended__  
+__escalation__ _n_  
+__larceny__ _n_  
+__hardline__  
+__keen__  
+__catcalling__ _Some catcalling builders shouted abuse at him._  
+__nestled__  
+__stockist__ _n_ :two::hammer:  
+__unticked__ :dart: _Checking an unticked box on my to-do list._  
+__unapologetic__ :two::hammer:  
+__zeitgeist__  
+__eerie__  
+__glazing__  
+__fiendish__  
+__rollicking__  
+__caper__ _v_  
+__unflinching__  
+
 __squad__ _n_ _The Olympics squad._  
 __discharge__ _v_ _The patient was discharged the day after the operation._  
 __sought-after__  
