@@ -1,4 +1,41 @@
 
+__short fuse__  
+__callous__  
+__uncongenial__  
+__raffle__  
+__hearsay__  
+__swamp__ _v_ _The team feels swamped with work._  
+__disloyal__  
+__stove__  
+__dustman__  
+__learn the ropes__  
+__enthralled__  
+__trick of the light__  
+__scathing__  
+__fall over__ _v_  
+__effrontery__  
+__plinth__ _n_  
+__refectory__  
+__baby blue__ _n_ :camera:  
+__fern__  
+__den__  
+__H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
+__bona fide__  
+__bespoke__ :two::hammer: _Its beautiful bespoke designs._  
+__glazing__ _A full range of door furniture and glazing._  
+__beckon__ _v_  
+__pedestrianized__ _v_  
+__veg__  
+__non-perishables__  
+__duplexes__ :two::hammer:  
+__development__  
+__yield__ _n_  
+__unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
+__covemant__  
+__townhouse__ _n_  
+__stucco__  
+__Juliette balcony__  
+
 __banter__ _n_  
 __pop-up__ _A pop-up kitchen._  
 __veritable__  
