@@ -666,11 +666,12 @@ __anvil__ _n_ :four::hammer: (anvils)
 __anything but__ _It is anything but sweet._  
 __anything goes__  
 __apace__ _Concussion concerns continue apace._  
+__apalled__ _v_  
 __ape__ _v_  
 __aphorism__ :two::hammer:  
 __aping__  
 __aplenty__  
-__aplomb__ _n_ :three: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
+__aplomb__ _n_ :four: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ :pencil2:  
 __apologetic__ _That's what I call apologetic hand raise._  
@@ -2246,7 +2247,7 @@ __confide__ _v_ :three::hammer: (confided)
 __config__ :mega: _A config file._  
 __conflate__ _v_  
 __confound__ _v_ :six::hammer: (confounded, confounding)  
-__congenial__ :two::hammer:  
+__congenial__ :three::hammer:  
 __conglomerate__  
 __conglomerates__  
 __congrats__ _Congrats on your wedding._  
@@ -2267,7 +2268,7 @@ __conspicuously__
 __constituency__ _n_ :five::hammer: (constituencies)  
 __constituent__ _n_ :five::hammer: (constituents)  
 __construction paper__ _A heart made of construction paper._  
-__construe__ _v_ :five::hammer: (construed)  
+__construe__ _v_ :six::hammer: (construed)  
 __consumer electronics__  
 __consumption__ (ailment?)  
 __contagion__  
@@ -2929,7 +2930,7 @@ __dissipation__
 __dissolution__  
 __dissuade__ _v_ :pencil2:  
 __dissuaded__  
-__distemper__ _n_ :three::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
+__distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__  
 __distinctly__  
 __distraught__  
@@ -3312,7 +3313,7 @@ __encampment__ _n_ :two::hammer:
 __encompass__ _v_ :four::hammer: (encompasses)  
 __encore__ _n_ :five::hammer: _An encore performance._  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroach__ _v_ :five::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
+__encroach__ _v_ :six::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :three::hammer:  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end run__ :two::hammer:  
@@ -3904,7 +3905,7 @@ __forgo__ _v_ :nine: (forgoes) Go without (something desirable). _Syn_ do withou
 __forgone__  
 __fork__ _Gordon at fork in the road._  
 __forklift__  
-__forlorn__ _adj_ :eight: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
+__forlorn__ _adj_ :nine: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
 __forsake__ _v_ :four::hammer:  
@@ -4608,6 +4609,7 @@ __heathy__
 __heave__ _v_ (heaving) :three::hammer: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
+__hecatombs__  
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
 __heckler__ _n_ :three::hammer:  
@@ -4973,7 +4975,7 @@ __inadvertently__
 __inane__ _adj_ :five::hammer:  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
 __inarguably__ :pencil2:  
-__inarticulate__ :three::hammer: _Inarticulate people._ :es: incapaz de expresarse  
+__inarticulate__ :four::hammer: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
 __inaugurate__ _v_ _He will be inaugurated for second term._  
 __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
@@ -5085,7 +5087,7 @@ __inured__ _v_ :two::hammer:
 __inurnment__  
 __invective__ _n_ :four::hammer:  
 __inveighed__  
-__inveterate__  
+__inveterate__ :two::hammer:  
 __invoice__ _v_  
 __invoke__  
 __irate__ _v_  
@@ -5376,7 +5378,8 @@ __lantanas__ _n_
 __lap<sup>1</sup>__ _n_ _The project's amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
 __laped pin__  
-__lapse__  
+__lapse<sup>1</sup>__ _v_  
+__lapse<sup>2</sup>__ _n_  
 __larceny__ _n_ :five: Theft of personal property. :es: hurto  
 __larder__  
 __largely__  
@@ -5845,7 +5848,7 @@ __medical discharge__ _A medical discharge._
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ :mega:  
-__meek__ _Blessed are the meek._  
+__meek__ :two::hammer: _Blessed are the meek._  
 __meekly__ _adv_ :three::hammer:  
 __meekness__  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
@@ -6225,6 +6228,7 @@ __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ 
 __nigh__  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__  
+__nightingale__ _n_  
 __nightmarish__ :two::hammer:  
 __nihilistic__  
 __niladic__  
@@ -6250,7 +6254,7 @@ __noddies__ _n_
 __noir__ _A noir novel._  
 __nom de guerre__  
 __nomadic__  
-__non sequitur__ _n_ :three: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
+__non sequitur__ _n_ :four: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
 __non-call__ _He complained about non-calls._  
 __non-committal__  
 __non-denominational__ _Non-denominational services._  
@@ -6533,7 +6537,7 @@ __overkill__ _v_ _I'll top the bill, I'll overkill._
 __overlay__ _n_  
 __overly__ _adv_ :dart::nine: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __overpass__ _n_  
-__overripe__ _An overripe eggplant._  
+__overripe__ :two::hammer::camera: _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :four::hammer: _Oversee compliance._  
 __oversight__ _n_ :three::hammer: _An oversight board._ _Oversight committee._  
@@ -6595,8 +6599,7 @@ __pan__ _v_ _Obama pans republicans._
 __panache__ :two::hammer:  
 __pander__ _v_ :seven: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__  
-__pang__ _n_  
-__pangs__ :two::hammer:  
+__pang__ _n_ (pangs) :four::hammer:  
 __panhandle__ _v_  
 __panhandling__  
 __panned out__  
@@ -6661,7 +6664,7 @@ __pastiche__ :two::hammer:
 __pastime__ _n_ :two::pencil2::hammer: (pastimes)  
 __pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pasty__ _adj_ :two::hammer:  
-__pat<sup>1</sup>__ _v_ Hit lightly. _Pat him on the shoulder._  
+__pat<sup>1</sup>__ _v_ :camera::dart: (patted) Hit lightly. _She patted the sofa cushion next to her._ _Pat him on the shoulder._  
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
@@ -6907,6 +6910,7 @@ __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men
 __placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
 __placeholder__  
 __placemats__ _n_  
+__placid__  
 __placket__  
 __plaid__ :two::hammer: _Plaid number._ _Plaid shirt._  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
@@ -6979,6 +6983,7 @@ __plum trees__
 __plum wine__  
 __plum__ _n_ :three::hammer: _Plum-and-onion stuffing._  
 __plumb__ _v_ :two::hammer:  
+__plumbago__ _n_  
 __plumbing__  
 __plummeted__ _v_ :three::hammer: (plummeting)  
 __plump__ _Plump and juicy hotdogs._  
@@ -6988,7 +6993,7 @@ __plundered__
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
-__ply__ _v_ :six::hammer: _It is the perfecting designed environment to ply his trade._  
+__ply__ _v_ :seven::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._  
 __po'-boy sandwiches__  
 __poach__ _v_ :three::hammer: (poached, poaching)  
 __poacher__ _n_ :three::hammer: (poachers) _A chimpanzee that lost its mother to poachers._  
@@ -7484,7 +7489,7 @@ __rare__
 __rarefied__  
 __raring__  
 __rascal__  
-__rash<sup>1</sup>__ _n_ :seven: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
+__rash<sup>1</sup>__ _n_ :eight: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
 __rash<sup>2</sup>__ _adj_  
 __rasp__ _v_  
 __rat race__  
@@ -7514,6 +7519,7 @@ __rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're t
 __rave__ _adj_  
 __raven-haired__  
 __ravenous__ _adj_ :four::hammer:  
+__ravine__ _n_  
 __raving__ _v_ :two::hammer:  
 __ravish__  
 __ravishing__ :two::hammer:  
@@ -7630,6 +7636,7 @@ __rejigged__ _v_
 __rejiggered__  
 __rejoice__ _v_  
 __rejoiced__ _v_  
+__rejoinder__ _n_  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ :two::hammer:  
 __relegation__ _Sports_  
@@ -7759,7 +7766,7 @@ __rickety__ _adj_ :eight::hammer: _Rickety chair._ _Pete pointed to some rickety
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet__ _v_ :mega::three::hammer:  
-__riddance__ _n_ :three::hammer:  
+__riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :three::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
 __ridership__ :two::hammer:  
@@ -8070,7 +8077,7 @@ __scintillating__ _adj_
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
 __scleroderma__  
-__scoff__ _v_ :five: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scoff__ _v_ :six: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
@@ -8119,7 +8126,7 @@ __scrutiny__
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
 __scuffed boots__  
-__scuffed__  
+__scuffed__ _v_ :two::hammer:  
 __scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle<sup>2</sup>__ _n_ :four::hammer: _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
@@ -8734,7 +8741,7 @@ __snowplows__ _n_
 __snowshoeing__ :two::hammer:  
 __snub-nosed__ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
-__snub<sup>2</sup>__ _n_ :four: A deliberate slight or affront.  
+__snub<sup>2</sup>__ _n_ :five: A deliberate slight or affront.  
 __snubbed__ _Snubbed nose._  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
@@ -9256,7 +9263,7 @@ __stupas__
 __sturdy__  
 __stutter__ _v_ :two::hammer:  
 __stymie__ _v_ :nine::m: (stymied) To present an obstacle to (somebode or something); to thwart.  
-__suave__ _adj_ :three::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
+__suave__ _adj_ :four::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subcompact__ (car?)  
 __subdue__ _v_ :four::hammer: (subdued)  
@@ -10317,6 +10324,7 @@ __wafting__ _v_
 __wage__  
 __waged__ _v_  
 __wagered__ _v_ :astonished: _I'd have wagered so._  
+__wagging__ _v_ _Wagging their tails._  
 __waging__ _v_  
 __wagon__  
 __waifish__  

@@ -1,36 +1,4 @@
 
-__ravine__ _n_  
-__nightingale__ _n_  
-__meek__  
-__plying__ _v_ _He was playing a broom._  
-__construed__ _v_  
-__congenial__  
-__patted__ _v_ :camera::dart: _She patted the sofa cushion next to her._  
-__forlorn__  
-__hecatombs__  
-__placid__  
-__riddance__  
-__non sequitur__  
-__wagging__ _v_ _Wagging their tails._  
-__distemper__ _n_  
-__inarticulate__  
-__overripe banana__ :camera:  
-__snub__ _n_  
-__aplomb__  
-__suave__  
-__lapse__ _v_  
-__scuffed__ _v_  
-__frayed__ _v_  
-__inveterate__  
-__encroaching__  
-__apalled__ _v_  
-__trickle__ _n_  
-__plumbago__ _n_  
-__pang__  
-__scoffed__ _v_  
-__rash__ _n_  
-__rejoinder__ _n_  
-
 __bevy__  
 __heyday__  
 __egghead__  
