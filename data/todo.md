@@ -1,34 +1,3 @@
-
-__bevy__  
-__heyday__  
-__egghead__  
-__shred__ _A shred of evidence._  
-__strutted__ _v_  
-__acquittal__  
-__boarding kennels__ _Mike was running a boarding kennels._  
-__expostulate__ _v_  
-__tarmac__  
-__rave__ _n_  
-__narcissistic__  
-__ostrasized__ _v_ (?)  
-__fuchsia__  
-
-__short fuse__  
-__callous__  
-__uncongenial__  
-__raffle__  
-__hearsay__  
-__swamp__ _v_ _The team feels swamped with work._  
-__disloyal__  
-__stove__  
-__dustman__  
-__learn the ropes__  
-__enthralled__  
-__trick of the light__  
-__scathing__  
-__fall over__ _v_  
-__effrontery__  
-__plinth__ _n_  
 __refectory__  
 __baby blue__ _n_ :camera:  
 __fern__  
