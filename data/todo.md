@@ -1,3 +1,14 @@
+
+__saucy__  
+__crochet__ _v_  
+__BMX__ _BMX bike._  
+__drag__ _n_  
+__triskel__ (?)  
+__prance__ _v_  
+__aircraft hold__ _n_ :es: bodega (de avión)  
+__early__ _I always get off the bus a stop early on the way to work._  
+__get off__ _I always get off the bus a stop early on the way to work._  
+
 __refectory__  
 __baby blue__ _n_ :camera:  
 __fern__  
