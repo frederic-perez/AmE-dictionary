@@ -1,4 +1,18 @@
 
+__oblivion__  
+__surname__ :mega:  
+__mortified__ _v_  
+__make waves__ _Making waves._  
+__jumpsuit__  
+__bread and butter__  
+__galleon__ _n_  
+__enrapture__ _v_ (enraptured)  
+__rate__ _I was falling at the same rate as the feathers._  
+__rooftop__  
+__spitting image__  
+__any longer__  
+__very true__  
+
 __saucy__  
 __crochet__ _v_  
 __BMX__ _BMX bike._  
