@@ -44,7 +44,7 @@ __B & E__ :two::hammer: _Somebody did a B&E on you._
 __BAR__ _BAR man._  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BLT sandwich__ _n_ :two: Sandwich filled with slices of bacon and tomato with lettuce.  
-__BMX__  
+__BMX__ :two::hammer: _BMX bike._  
 __BO__ :two::hammer:  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
@@ -161,6 +161,7 @@ __Gordian knot__ :two::hammer:
 __Great Dane__  
 __Great War__  
 __Greek__ :astonished: _It's in Greek and almost impossible to decode._  
+__H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __HIV__  
 __HMOs__  
 __HVAC__  
@@ -565,6 +566,7 @@ __air cast__ _n_ :two::hammer::camera:
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __airball__ _n_ :three: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airburst__ _n_  
+__aircraft hold__ _n_ :es: bodega (de avión)  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
 __aisle__ :mega: (īl)  
@@ -663,6 +665,7 @@ __antiquated__ _adj_ :three::hammer:
 __antique__ _Antiques dealer._  
 __antsy__ _adj_  
 __anvil__ _n_ :four::hammer: (anvils)  
+__any longer__  
 __anything but__ _It is anything but sweet._  
 __anything goes__  
 __apace__ _Concussion concerns continue apace._  
@@ -840,6 +843,7 @@ __axle__ _n_
 __azure__  
 __baboon__  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
+__baby blue__ _n_ :camera:  
 __baby bump__ _Dressing your baby bump._  
 __baby formula__ _Baby formula should be "ready-to-feed" or prepated using only filtered water or bottled water._  
 __babysit__ _v_  
@@ -1324,7 +1328,7 @@ __bombing__ _v_
 __bombshell__ _n_  
 __bombsights__  
 __bon ton__  
-__bona fide__ _adj_ :four: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
+__bona fide__ _adj_ :five: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -1429,6 +1433,7 @@ __brazenly__ :two::hammer:
 __brazer__  
 __brazier__  
 __breach__ _v_ :five: (breached) To fail to keep. _Syn_ violate  
+__bread and butter__  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break a leg__ _idiom_  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
@@ -2479,7 +2484,7 @@ __critique<sup>2</sup>__ _v_
 __critters__ _n_ :three::hammer: _Garden critters._  
 __croak__ _v_  
 __croaked__  
-__crochet__ _v_ :four::hammer: (crocheting)  
+__crochet__ _v_ :five::hammer: (crocheting)  
 __crock__  
 __croft__ _n_ :three::hammer::pencil2:  
 __crone__ _n_ :three: A witchlike old woman.  
@@ -2760,7 +2765,7 @@ __demur__ _v_ (demurred) :two::hammer:
 __demure__ _adj_ :two::hammer:  
 __demurely__ :two::hammer:  
 __demurred__ _v_  
-__den__ _n_ :six: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
+__den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dengue fever__  
 __dengue__  
 __denier__ _n_ A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
@@ -3060,8 +3065,9 @@ __draconian__ :two::hammer:
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag racing__  
-__drag__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
-__dragging__ _v_  
+__drag__<sup>1</sup> _v_ (dragging)  
+__drag__<sup>2</sup> _n_  
+__drag__<sup>3</sup> _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
 __drain<sup>1</sup>__ _v_  
@@ -3209,6 +3215,7 @@ __earbuds__ :camera:
 __earlier__ _adv_ :three:  
 __earlocks__ _n_  
 __early-onset__ _Early-onset Alzheimer's disease._  
+__early__ _I always get off the bus a stop early on the way to work._  
 __earmark__ _v_ :three::hammer:  
 __earmuffs__  
 __earnest__ _adj_ :four::hammer:  
@@ -3338,7 +3345,7 @@ __enmity__ _n_ :six::hammer:
 __ennui__ _n_  
 __enormous__ :mega:  
 __enquiry__  
-__enrapture__ _v_ :two: To fill with rapture or delight.  
+__enrapture__ _v_ :three: (enraptured) To fill with rapture or delight.  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __enshrined__  
@@ -3599,9 +3606,7 @@ __fennel__ :two::hammer:
 __fenny__ _A fenny marsh._  
 __fenugreek__  
 __feral__ _adj_ :five::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
-__fern garden__  
-__fern__  
-__ferns__  
+__fern__ _n_ :three::hammer: (ferns) _Fern garden._ :es: helecho  
 __ferny__  
 __ferocious__  
 __ferret out__ _v_  
@@ -4054,6 +4059,7 @@ __galboy__ _n_
 __gale__ _n_ :two: An extremely strong wind: _the gale blew down hundreds of trees._  
 __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
+__galleon__ _n_  
 __galleys__ _n_  
 __galling__ _adj_ :two::hammer: _A galling loss._  
 __galloping__  
@@ -4137,6 +4143,7 @@ __get ahold__
 __get away with__  
 __get enough__  
 __get looks__ _v_ :two::hammer:  
+__get off__ _I always get off the bus a stop early on the way to work._  
 __get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
 __get out of here__  
 __get set__ _v_  
@@ -5220,7 +5227,7 @@ __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.
 __jumpers__  
 __jumping jacks__  
 __jumpstart__ _v_ :two::hammer:  
-__jumpsuit__ _n_  
+__jumpsuit__ _n_ :two::hammer:  
 __junction__ _Conjunction junctions._  
 __juncture__ _n_ :five: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
@@ -5734,7 +5741,7 @@ __make perfect sense__ _It makes perfect sense._
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
-__make waves__ _idiom_ (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
+__make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
 __makeshift__ _adj_ :seven: Being a crude and temporary expedient.  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
@@ -6057,8 +6064,7 @@ __mortar shell__
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
 __mortice__  
 __mortification__  
-__mortified__ _v_  
-__mortify__ _v_  
+__mortify__ _v_ :three::hammer: (mortified)  
 __mortuaries__  
 __mos.__ (Months?)  
 __mosh__  
@@ -6336,6 +6342,7 @@ __oblate__ _n_
 __obligation__  
 __oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
+__oblivion__  
 __oblivious__ _adj_ :three::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obo__ _abbr_ :two: Or best offer.  
@@ -7109,7 +7116,7 @@ __ppg__ _Sanders is averaging 13.3 ppg._
 __practice__ _n_ _A pediatrics practice._  
 __pram suit__ _n_  
 __pram__  
-__prance__ _v_ :seven::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
+__prance__ _v_ :eight::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
 __prattle__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
@@ -7506,7 +7513,8 @@ __rat-fuck__ _v_
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __ratchet__ _n_ :two::hammer:  
-__rate__ _v_  
+__rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
+__rate<sup>2</sup>__ _v_  
 __rathole__  
 __rationales__ _n_ _It has four main rationales._  
 __rationalize__ _v_  
@@ -7617,7 +7625,7 @@ __reel<sup>1</sup>__ _n_
 __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reenactment__ _n_  
 __reeve__ _n_ :four::hammer::pencil2:  
-__refectory__ _n_ :two::hammer:  
+__refectory__ _n_ :three::hammer:  
 __referenda__  
 __reffing__  
 __refrain<sup>1</sup>__ _n_ :four::hammer::astonished:  
@@ -7867,7 +7875,7 @@ __romp__ _v_ :six::hammer:
 __rondo__ _n_ (music)  
 __rood__ _n_ :two::hammer:  
 __roofrack__  
-__rooftop__ _n_ :four::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._  
+__rooftop__ _n_ :five::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._  
 __room gear__ _Dorm room gear._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
@@ -8026,6 +8034,7 @@ __sated__ _v_
 __saturnine__ :two::hammer:  
 __satyr__  
 __saucerful__  
+__saucy__  
 __saunter__ _v_ _Lynn sauntered to the edge of the stage._  
 __sautoir__ _Sautoir necklace._  
 __savagery__  
@@ -8895,6 +8904,7 @@ __spire__ _n_ A tapering roof or analogous pyramidal construction surmounting a 
 __spires__ _n_  
 __spite__  
 __spiteful__ :two::hammer:  
+__spitting image__  
 __spittle__ _n_ :four::hammer:  
 __spittoon__  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
@@ -9360,7 +9370,7 @@ __surly__ _adj_ :five: Unfriendly and rude. _A waiter with a surly attitude._
 __surmise__  
 __surmised__ _v_ :two::hammer:  
 __surmount__ _v_  
-__surname__  
+__surname__ :two::mega::hammer:  
 __surplice__ _n_  
 __surprise surprise__  
 __surreptitiously__ :two::hammer:  
@@ -9921,6 +9931,7 @@ __trinkets__ _n_ :three::hammer:
 __triple__  
 __triplex__ _A triplex penthouse._  
 __triptych__  
+__triskelion__ _n_ (triskele)  
 __trite__ _adj_ :seven: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
 __trivet__ _n_  
@@ -10262,6 +10273,7 @@ __vermouth__ _n_
 __vernacular__  
 __vertical farm__  
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__very true__  
 __very__ _We were in this very room._  
 __vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ :mega:  

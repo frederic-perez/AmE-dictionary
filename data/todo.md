@@ -1,34 +1,3 @@
-
-__oblivion__  
-__surname__ :mega:  
-__mortified__ _v_  
-__make waves__ _Making waves._  
-__jumpsuit__  
-__bread and butter__  
-__galleon__ _n_  
-__enrapture__ _v_ (enraptured)  
-__rate__ _I was falling at the same rate as the feathers._  
-__rooftop__  
-__spitting image__  
-__any longer__  
-__very true__  
-
-__saucy__  
-__crochet__ _v_  
-__BMX__ _BMX bike._  
-__drag__ _n_  
-__triskel__ (?)  
-__prance__ _v_  
-__aircraft hold__ _n_ :es: bodega (de avión)  
-__early__ _I always get off the bus a stop early on the way to work._  
-__get off__ _I always get off the bus a stop early on the way to work._  
-
-__refectory__  
-__baby blue__ _n_ :camera:  
-__fern__  
-__den__  
-__H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
-__bona fide__  
 __bespoke__ :two::hammer: _Its beautiful bespoke designs._  
 __glazing__ _A full range of door furniture and glazing._  
 __beckon__ _v_  
