@@ -1,33 +1,9 @@
-__Juliette balcony__  
-__affluent__  
-__banter__ _n_  
-__beckon__ _v_  
-__bespoke__ :two::hammer: _Its beautiful bespoke designs._  
-__covemant__  
-__culprit__ _n_  
-__cupboard__  
-__dab__ _n_ A small amount.  
-__development__  
-__ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
-__duplexes__ :two::hammer:  
-__glazing__ _A full range of door furniture and glazing._  
-__gravel__ _The car was parked on the gravel drive._  
-__lashings__ _n_  
-__lurch__ _v_  
-__naevus__ _n_ (nevus)  
-__non-perishables__  
-__pedestrianized__ _v_  
-__pop-up__ _A pop-up kitchen._  
-__scintillating__  
-__stucco__  
-__sturdy__  
-__surmounted__  
-__tawny__  
-__townhouse__ _n_  
-__unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
-__veg__  
-__veritable__  
-__yield__ _n_  
+__close call__ _n_ _Informal_ An outcome in which a bad result is narrowly averted.  
+__cronyism__ _n_  
+__dab__ _n_  
+__ectopic__ _adj_ _Ectopic pregnancy._  
+__host__ _n_ _It provides a host of vaccines._  
+__racketeer__ _v_  
 
 __nonplussed__ _His celebrations have nonplussed commentators._  
 __high street__ :three::hammer:  
