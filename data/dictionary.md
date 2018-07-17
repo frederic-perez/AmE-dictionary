@@ -204,6 +204,7 @@ __Jewry__
 __Jim Crow__  
 __Jockeys__ _You've probably got him spotting his Jockeys._  
 __John Doe__  
+__Juliette balcony__  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-9__ _A K-9 van._  
 __K-pop__  
@@ -524,7 +525,7 @@ __affiliate__
 __affix__ _v_  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
-__affluent__ _adj_ :four: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
+__affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ _We can't afford it._  
 __affordable__ :pencil2:  
 __affront__  
@@ -935,7 +936,7 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_  
 __bantam__ _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women's bantamweight champ._  
-__banter__ _n_ :three::hammer:  
+__banter__ _n_ :four::hammer:  
 __bar top__  
 __barbecue__ _Barbecue sauce._  
 __barbells__  
@@ -1007,7 +1008,7 @@ __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Ric
 __bebop__ _v_  
 __beck > at your beck__ _Stacks of books at your beck._  
 __beck__  
-__beckon__ _v_ :three: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
+__beckon__ _v_ :four: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
 __bedeck__ _v_ (bedecked)  
@@ -1117,7 +1118,7 @@ __besmeared__ _v_
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
-__bespoke<sup>1</sup>__ _adj_ :six: Custom-made. _Bespoke clothing._  
+__bespoke<sup>1</sup>__ _adj_ :eight: Custom-made. _Bespoke clothing._  
 __bespoke<sup>2</sup>__ _v_ :two: Past tense and a past participle of bespeak.  
 __best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
@@ -2390,7 +2391,7 @@ __coupes__ _Coupes, two door models usually sportier than sedans._
 __coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
-__covenant__ _n_ :three::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
+__covenant__ _n_ :four::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
 __cover all bases__  
 __cover charge__  
 __coverup__ _n_  
@@ -2558,10 +2559,11 @@ __cuffed__ _v_
 __cul-de-sac__  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __culpable__ _adj_ :astonished:  
+__culprit__ _n_  
 __cult__ _n_  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
-__cupboards__ :camera: _My father rebuilt cupboards._  
+__cupboard__ _n_ :two::hammer::camera: (cupboards) _My father rebuilt cupboards._  
 __cupolas__ _n_  
 __cuppa__  
 __cupping__ _n_ :pencil2:  
@@ -2601,7 +2603,8 @@ __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat co
 __cuttin' a rug__  
 __cyclone__ _n_  
 __cynical__  
-__dab__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
+__dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
+__dab<sup>2</sup>__ _n_ A small amount.  
 __dabble__ _v_ :three::hammer: (dabbled)  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
@@ -2806,6 +2809,7 @@ __detour__
 __detractor__  
 __detritus__ _n_  
 __develop__ _v_ :mega:  
+__development__  
 __devil-may-care style__  
 __deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
 __deviltry__  
@@ -2941,6 +2945,7 @@ __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 1
 __distinct__  
 __distinctly__  
 __distraught__  
+__ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
 __dithered__ _v_  
 __ditsy__ _Ditsy nanny._  
 __ditty bags__ _n_  
@@ -3065,9 +3070,9 @@ __draconian__ :two::hammer:
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag racing__  
-__drag__<sup>1</sup> _v_ (dragging)  
-__drag__<sup>2</sup> _n_  
-__drag__<sup>3</sup> _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
+__drag<sup>1</sup>__ _v_ (dragging)  
+__drag<sup>2</sup>__ _n_  
+__drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
 __drain<sup>1</sup>__ _v_  
@@ -3188,6 +3193,7 @@ __dunno__
 __duo__  
 __dupe__ _A dupe of a president._  
 __duped__ _v_ :three::hammer: _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
+__duplexes__ :two::hammer:  
 __duplicitious__ _A duplicitious cigarette industry._  
 __duplicitous__  
 __durable__ :two::hammer: _The end of durable Red John story line is a new beginning._  
@@ -4192,6 +4198,7 @@ __glades__ _n_ _Heathy glades._
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _(Cinderella)_  
+__glazing__ _A full range of door furniture and glazing._  
 __glean__  
 __gleaning__  
 __glib__ _adj_ :three::hammer: _A glib reply to his remark._  
@@ -4298,6 +4305,7 @@ __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick meta
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __grave liner__ _Grave liners are stored at the Travis County cemetery._  
 __grave__  
+__gravel__ _The car was parked on the gravel drive._  
 __gravely__  
 __gravesite__  
 __gravestone__  
@@ -5402,6 +5410,7 @@ __lark__
 __laser wall__  
 __lash out__ :two::hammer:  
 __lashing out__ _v_  
+__lashings__ _n_  
 __lassitude__  
 __lassos__ _v_  
 __last > next to last__  
@@ -5697,7 +5706,7 @@ __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into th
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ _v_ :four::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
+__lurch__ _v_ :five::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _adj_ :eight: _adj_ __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
@@ -6163,6 +6172,7 @@ __mythos__ :two::hammer:
 __mélange__ _n_  
 __nab__ _v_ :five::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nadir__  
+__naevus__ _n_ (nevus)  
 __nagging__ :two::hammer: _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
 __nail it__  
@@ -6273,6 +6283,7 @@ __non-call__ _He complained about non-calls._
 __non-committal__  
 __non-denominational__ _Non-denominational services._  
 __non-exempt__ _Non-exempt position._  
+__non-perishables__  
 __nonce__  
 __nonchalant__ _adj_ :three::hammer:  
 __nonchalantly__  
@@ -6728,6 +6739,7 @@ __pedagogue__ _n_ :mega:
 __peddle__ _v_  
 __peddling__  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
+__pedestrianized__ _v_  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peep__ _n_ :two::hammer:  
 __peer__ _Peering into their crystal balls._  
@@ -7055,6 +7067,7 @@ __pool cues__ :two::hammer:
 __poor-boy__ _Poor-boy sandwich._  
 __poorly__ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __pop the cherries__  
+__pop-up__ _A pop-up kitchen._  
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
 __pop__ _v_ _Kids popping balloons._  
@@ -8091,7 +8104,7 @@ __schooling__ _I could smell trout schooling up in the bay._
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
 __scimitar__ _n_ :two::hammer:  
-__scintillating__ _adj_  
+__scintillating__ _adj_ :two::hammer:  
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
 __scleroderma__  
@@ -9260,6 +9273,7 @@ __stub__ _n_ :four::hammer: _The stubs of cold-withered grass._
 __stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. _The sugarcane stubble._ _Smoke from a distant stubble fire._ __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving.  
 __stubborn__ _adj_  
 __stubby__ :two::hammer: _Stubby fingers._  
+__stucco__  
 __stuck a chord__  
 __stuck-up__  
 __stud<sup>1</sup>__ _n_ :two::hammer:  
@@ -9280,7 +9294,7 @@ __stunt<sup>2</sup>__ _v_ :two::hammer: (stunted) _Movement stunted during the d
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
-__sturdy__  
+__sturdy__ :two::hammer:  
 __stutter__ _v_ :two::hammer:  
 __stymie__ _v_ :nine::m: (stymied) To present an obstacle to (somebode or something); to thwart.  
 __suave__ _adj_ :four::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
@@ -9369,7 +9383,7 @@ __surliness__
 __surly__ _adj_ :five: Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__  
 __surmised__ _v_ :two::hammer:  
-__surmount__ _v_  
+__surmount__ _v_ :two::hammer: (surmounted)  
 __surname__ :two::mega::hammer:  
 __surplice__ _n_  
 __surprise surprise__  
@@ -9549,6 +9563,7 @@ __taut__ _adj_
 __tautened__  
 __tautly__  
 __tawdry__ _adj_ :two: Poor, cheap quality.  
+__tawny__  
 __tax breaks__ _n_  
 __tax levy__  
 __taxa__  
@@ -9850,7 +9865,7 @@ __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled cloth
 __tout__ _v_ :three::hammer: (touted)  
 __tow__ :two::hammer: _Cameras in tow._  
 __tower__ _v_ _Towering over our heads._  
-__townhouses__ _n_  
+__townhouse__ _n_ :two::hammer: (townhouses)  
 __toy breeds__ _(pets)_  
 __toy__ _v_ :two::hammer: (toying)  
 __tpngue-in-cheek__  
@@ -10117,6 +10132,7 @@ __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._
 __unflinching__  
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unfurl__ (unfurling) :two::hammer:  
+__unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
 __unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
@@ -10246,7 +10262,7 @@ __vastly__
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
-__veg__ _n_ Vegetable. _Eat five servings of fruit or veg each day._  
+__veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
@@ -10266,6 +10282,7 @@ __verberize__
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :two::hammer::pencil2:  
 __verge__  
+__veritable__  
 __vermicelli__  
 __vermillion__  
 __vermin__ _n_ :four::hammer:  
@@ -10723,7 +10740,8 @@ __yesteryear__ :two::hammer:
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ :two::hammer:  
 __yew__  
-__yield__ :two::hammer: _Failing to yield to pedestrians._  
+__yield<sup>1</sup>__ _v_ :two::hammer: _Failing to yield to pedestrians._  
+__yield<sup>2</sup>__ _n_  
 __yikes__ _interj_ :two: An exclamation of surprise or alarm.  
 __yin and yang__  
 __yipped__ _v_  
