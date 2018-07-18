@@ -1,34 +1,3 @@
-__close call__ _n_ _Informal_ An outcome in which a bad result is narrowly averted.  
-__cronyism__ _n_  
-__dab__ _n_  
-__ectopic__ _adj_ _Ectopic pregnancy._  
-__host__ _n_ _It provides a host of vaccines._  
-__racketeer__ _v_  
-
-__nonplussed__ _His celebrations have nonplussed commentators._  
-__high street__ :three::hammer:  
-__commended__  
-__escalation__ _n_  
-__larceny__ _n_  
-__hardline__  
-__keen__  
-__catcalling__ _Some catcalling builders shouted abuse at him._  
-__nestled__  
-__stockist__ _n_ :two::hammer:  
-__unticked__ :dart: _Checking an unticked box on my to-do list._  
-__unapologetic__ :two::hammer:  
-__zeitgeist__  
-__eerie__  
-__glazing__  
-__fiendish__  
-__rollicking__  
-__caper__ _v_  
-__unflinching__  
-
-__squad__ _n_ _The Olympics squad._  
-__discharge__ _v_ _The patient was discharged the day after the operation._  
-__sought-after__  
-__sleek__  
 __en suite bathroom__ (or ensuite?)  
 __plinths__ _n_  
 __derelict__ _Derelict buildings._  

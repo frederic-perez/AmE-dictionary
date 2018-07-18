@@ -1744,7 +1744,8 @@ __cap<sup>1</sup>__ _n_ (hat?)
 __cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
-__caper__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
+__caper<sup>1</sup>__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
+__caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
 __capitulation__  
@@ -1828,6 +1829,7 @@ __catapulted__ _v_
 __cataract__ _n_ :es: cataratas  
 __catarrh__ :two::hammer::pencil2:  
 __catcall__ _v_  
+__catcalling__ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :five::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
 __catch up__ _v_  
@@ -2080,7 +2082,7 @@ __clock in__ _v_
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
 __clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __close > not even close__  
-__close call__  
+__close call__ _n_ _Informal_ :two: An outcome in which a bad result is narrowly averted.  
 __close the loops__  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
@@ -2179,6 +2181,7 @@ __command__ _Those who graduate with degrees in STEM fields are expected to comm
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _He earned two commendation medals._  
 __commendations__ _n_  
+__commend__ _v_ (commended)  
 __commentary__  
 __commingled__ :two::hammer:  
 __commiserate__ _v_  
@@ -2491,7 +2494,7 @@ __croft__ _n_ :three::hammer::pencil2:
 __crone__ _n_ :three: A witchlike old woman.  
 __cronies__ _n_ :four::hammer: _Military cronies._  
 __crony__ _n_ :three::hammer:  
-__cronyism__ _n_ :dart::five: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
+__cronyism__ _n_ :dart::six: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
 __crook__ _n_ :two::hammer: (crooks) _They carried long crooks._  
 __crooked__ :two::hammer: _Crooked media._  
 __crop-duster__ _The crop-duster attack in North by Northwest._  
@@ -2604,7 +2607,7 @@ __cuttin' a rug__
 __cyclone__ _n_  
 __cynical__  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
-__dab<sup>2</sup>__ _n_ A small amount.  
+__dab<sup>2</sup>__ _n_ :two: A small amount.  
 __dabble__ _v_ :three::hammer: (dabbled)  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
@@ -2884,7 +2887,7 @@ __disastrous__
 __disavowed__ _v_  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
-__discharge__ _v_ :seven::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _He was discharged from the hospital._  
+__discharge__ _v_ :eight::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
 __disclaimer__ _n_  
 __discombobulate__ _v_ :pencil2:  
 __discontinued__ _v_  
@@ -3242,12 +3245,13 @@ __ebullient__ :two::hammer:
 __echo chamber__  
 __eclampsia__  
 __econ__ _The econ professor._  
+__ectopic__ _adj_ _Ectopic pregnancy._  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
 __edict__  
 __educated guess__ _n_ :three::hammer:  
 __eel__  
-__eerie__ _n_ :five::hammer:  
+__eerie__ _n_ :six::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
@@ -3400,6 +3404,7 @@ __errata__
 __erstwhile__  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
+__escalation__ _n_  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -3643,6 +3648,7 @@ __fiduciary<sup>2</sup>__ _n_ A trustee.
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__  
 __field__ _v_ :seven: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._  
+__fiendish__  
 __fierce__ :two::hammer:  
 __fiery__  
 __fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
@@ -4198,7 +4204,7 @@ __glades__ _n_ _Heathy glades._
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _(Cinderella)_  
-__glazing__ _A full range of door furniture and glazing._  
+__glazing__ :two::hammer: _A full range of door furniture and glazing._  
 __glean__  
 __gleaning__  
 __glib__ _adj_ :three::hammer: _A glib reply to his remark._  
@@ -4535,6 +4541,7 @@ __hard-liners__ :two::hammer:
 __hard-nose__  
 __hard-nosed__ :two::hammer: _Hard-nosed approach._  
 __hardball__  
+__hardline__  
 __hardliner__  
 __hardly ever__  
 __hardpan__ :two::hammer: _Hardpan dirt yards._  
@@ -4699,6 +4706,7 @@ __hideous__ _adj_ :three::hammer: _A hideous practice._
 __high and dry__ _His team was left high and dry._  
 __high beams__  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
+__high street__ _n_ _British informal_ :three::hammer:  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
@@ -4821,7 +4829,7 @@ __horsetails__ _n_
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hoss__  
-__host__ _A host of grandchildren and great-grandchildren._  
+__host__ _n_ :two: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._  
 __hot glue__  
 __hot seat__  
 __hot-button__ :two::hammer: _Hot-button political issues._  
@@ -5254,7 +5262,7 @@ __kabuki__ _n_ :three::hammer:
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :four::hammer:  
 __keel__ _v_ :three::hammer: (keeled)  
-__keen__ _adj_ :eight: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
+__keen__ _adj_ :nine: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tabs on__ :two::hammer: :es: vigilar  
@@ -5402,7 +5410,7 @@ __lap<sup>2</sup>__ _v_ _Despite being lapped._
 __laped pin__  
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
-__larceny__ _n_ :five: Theft of personal property. :es: hurto  
+__larceny__ _n_ :six: Theft of personal property. :es: hurto  
 __larder__  
 __largely__  
 __larger-than-life__ _fig_ :four: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
@@ -6228,7 +6236,7 @@ __nerve-racking__
 __nerve__ :two::hammer: _He's got nerve._  
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :four::hammer: (nestled)  
+__nestle__ _v_ :five::hammer: (nestled)  
 __nether__  
 __neuroblastoma__  
 __neutered__  
@@ -6290,7 +6298,7 @@ __nonchalantly__
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :three::hammer:  
 __nonpliable__ _Nonpliable products._  
-__nonplussed__ _adj_  
+__nonplussed__ _adj_ :two::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsequitur__  
 __nonstaff jobs__  
@@ -7441,7 +7449,8 @@ __rack up__ _v_ :six::hammer: _He had racked up a criminal record._ _Racking up 
 __racked__ _v_ :two::hammer:  
 __racket<sup>1</sup>__ _n_ :four::hammer: _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
-__racketeer__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
+__racketeer<sup>1</sup>__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
+__racketeer<sup>2</sup>__ _v_  
 __racketeering__  
 __racous__  
 __racousness__  
@@ -7876,7 +7885,7 @@ __roll<sup>1</sup>__ _n_ _A deli where I buy a morning paper, roll and coffee._
 __roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
 __roll__ _v_ :two::hammer: _Roll the video, please._ _You rolled 6, you go 6._  
 __roller derby__  
-__rollicking__  
+__rollicking__ :two::hammer:  
 __rolling back__ _v_  
 __rolling caisson__  
 __rolling hills__ :two::hammer: :es: colinas (onduladas)  
@@ -8593,6 +8602,7 @@ __slatternly__
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __sleaziest__  
 __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
+__sleek__  
 __sleep deprivation__  
 __sleep in__ _v_  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
@@ -8838,6 +8848,7 @@ __sort out__ _v_
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sot__ :two::hammer: _A surly sot._  
+__sought-after__  
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __sound__ :two::hammer: _A sound investment._ _A sound sleep._  
@@ -8986,7 +8997,7 @@ __squabble<sup>1</sup>__ _v_ :four::hammer: (squabbling) _A squabbling family._
 __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
-__squad__ _n_ :three::hammer:  
+__squad__ _n_ :four::hammer: _The Olympics squad._  
 __squalid__ _adj_ :pencil2::two::hammer: _Squalid home._  
 __squall__ :two::hammer:  
 __squalor__ _n_ :five: The condition or quality of being squalid; disgusting dirt and filth.  
@@ -9172,6 +9183,7 @@ __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, espe
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
 __stocking-stuffers__  
+__stockist__ _n_ :two::hammer:  
 __stockpile__  
 __stodgiest__  
 __stodgy__ _The mainstream may sound too stodgy._  
@@ -10079,7 +10091,7 @@ __unabashedly__
 __unabated__ _adj_ :three::hammer:  
 __unalienable__  
 __unanimous__  
-__unapologetic__ _adj_ :five::hammer:  
+__unapologetic__ _adj_ :seven::hammer:  
 __unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
@@ -10129,7 +10141,7 @@ __unfeasible__ _adj_ _Syn_ infeasible
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
-__unflinching__  
+__unflinching__ :two::hammer:  
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unfurl__ (unfurling) :two::hammer:  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
@@ -10166,6 +10178,7 @@ __unsung__
 __untenable__  
 __unthawed__ _Unthawed croissant._  
 __unthinkable__ _The unthinkable has befallen President._  
+__unticked__ :dart: _Checking an unticked box on my to-do list._  
 __untidy__  
 __untuck__ _v_  
 __unwarranted__  
@@ -10770,7 +10783,7 @@ __zeal__ _n_
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ _n_ A German word meaning time spirit, used to mean the spirit of the age.  
+__zeitgeist__ _n_ :two: A German word meaning time spirit, used to mean the spirit of the age.  
 __zeppelin__ _n_  
 __zero hour__  
 __zero in__  
