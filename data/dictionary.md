@@ -580,6 +580,7 @@ __albatross__ _n_ :pencil2::two::hammer:
 __alder__ :pencil2:  
 __alderman__ _n_ :two::hammer:  
 __alecky__ _Smart-alecky wit._  
+__alfresco__ _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __alienate__ _v_ :six::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
@@ -616,6 +617,7 @@ __altogether__ _Coach Rose was not altogether pleased with the effort._
 __alum__ _n_ :three::hammer: _A Vanderbilt alum._  
 __aluminum__ _n_ :pencil2::two::hammer:  
 __alumni__ :two::hammer:  
+__amalgam__  
 __amass__ _v_ :three::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __ambitious__  
 __ambivalence__  
@@ -699,8 +701,7 @@ __apple cart__
 __applesauce__  
 __apportion__ _v_  
 __apportioned__ _v_  
-__appraisal__ _n_ :five::hammer: _An insurance appraisal._  
-__appraisals__ _n_ _Free appraisals._  
+__appraisal__ _n_ :seven::hammer: (appraisals) _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_  
 __appraised__ _The home was appraised in 2007._  
 __appraisingly__  
@@ -961,6 +962,7 @@ __barrel__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barrelin
 __barren__  
 __barrette__ :two::hammer:  
 __barring__ _v_ :two::hammer:  
+__barrister__  
 __barrow__ _n_  
 __barter__ _v_ :two::hammer: (bartered)  
 __base__ _This film is base, moronic, insulting, and vulgar._  
@@ -1109,7 +1111,7 @@ __bereft<sup>2</sup>__ _v_
 __berm__ _n_  
 __berserk__ _adj_ :four: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
-__berth__ _n_ :three::hammer: _Sho Sakai secured an Olympic berth._  
+__berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
 __beseech__  
 __beseechingly__  
 __beseechment__  
@@ -1118,7 +1120,7 @@ __besmeared__ _v_
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
-__bespoke<sup>1</sup>__ _adj_ :eight: Custom-made. _Bespoke clothing._  
+__bespoke<sup>1</sup>__ _adj_ :nine: Custom-made. _Bespoke clothing._  
 __bespoke<sup>2</sup>__ _v_ :two: Past tense and a past participle of bespeak.  
 __best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
@@ -1520,6 +1522,7 @@ __buck off__ _v_
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
 __buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _Many officers bucked the chain of command._  
+__bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
 __buckeyes__  
 __buckle down (to something)__ _v informal_ :five: To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
@@ -2178,10 +2181,9 @@ __coming up__
 __coming-of-age__ _A coming-of-age story._  
 __comity__  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
-__commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
-__commendation__ _He earned two commendation medals._  
-__commendations__ _n_  
 __commend__ _v_ (commended)  
+__commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
+__commendation__ _n_ :two::hammer: (commendations) _He earned two commendation medals._  
 __commentary__  
 __commingled__ :two::hammer:  
 __commiserate__ _v_  
@@ -2788,7 +2790,7 @@ __depress__ _v_ _Depressing a company's value._
 __depressed__ _Depressed wages._  
 __derail__ _v_  
 __deranged__ _adj_ :three::hammer: _A deranged man._  
-__derelict__ _adj_ :two::hammer:  
+__derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__  
 __derision__  
 __derrick__ _n_  
@@ -2859,7 +2861,7 @@ __dimwitted__
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :three::hammer: (dinged) _I am also getting tired of my property taxes being dinged._  
-__dinghy__ _n_ :six: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
+__dinghy__ _n_ :seven: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinking__ _v_  
 __dinky__ :two::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
@@ -2948,6 +2950,7 @@ __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 1
 __distinct__  
 __distinctly__  
 __distraught__  
+__disused__  
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
 __dithered__ _v_  
 __ditsy__ _Ditsy nanny._  
@@ -3057,7 +3060,7 @@ __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. _
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
 __downplay__ _v_ :four::hammer: (downplayed)  
-__downpour__ _n_ :four::hammer: (downpours) _Heavy downpours can cause flash flooding._  
+__downpour__ _n_ :five::hammer: (downpours) _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::three::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downsides__  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
@@ -3312,7 +3315,7 @@ __embroidered__
 __embroil__ (embroiled)  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
-__emerald__ :two::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
+__emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__ :two::hammer:  
 __emerity__ _Faculty emerity._  
 __emery__ _n_ :four::hammer: _An emery wheel._ _Emery paper._  
@@ -3325,7 +3328,7 @@ __empty nester__ _He and wife Bekki areempty nesters._
 __empty-net/power-play/short-handed goal__  
 __emulsified__ _v_  
 __en masse__ :two::hammer: _Cruz supporters are going to bolt to Rubio en masse._  
-__en-suite bath__  
+__en-suite bath(room)__ :two::hammer:  
 __enact__ _v_ :nine: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enactment__  
 __enamel__ :two::hammer:  
@@ -3360,7 +3363,7 @@ __enrol__ _v_
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __enshrined__  
 __ensnare__ _v_ :four: /ɪnˈsnɛː,ɛn-/ To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
-__ensue__ _v_ :four::hammer: (ensued, ensuing) _Complications ensue._  
+__ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
 __entail__ _v_ :three::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :five::hammer: (enthused, enthusing) _It has enthused fans._  
@@ -4498,6 +4501,7 @@ __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of short
 __ham hocks__ _n_ :two::hammer:  
 __ham-and-egg__ _A ham-and-egg lawyer._  
 __hamdbill__ _n_  
+__hamlet__ _n_  
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ _v_ :astonished::five::hammer: (hampered)  
@@ -5160,7 +5164,7 @@ __jape__ _v_
 __jar__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jaundice__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
-__jaunty__ _adj_ :seven: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaunty__ _adj_ :eight: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jawing__ _v_ _Stop jawing and get to work._  
 __jaywalker__ _n_  
 __jaywalking__  
@@ -5262,7 +5266,7 @@ __kabuki__ _n_ :three::hammer:
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :four::hammer:  
 __keel__ _v_ :three::hammer: (keeled)  
-__keen__ _adj_ :nine: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
+__keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tabs on__ :two::hammer: :es: vigilar  
@@ -5814,6 +5818,7 @@ __markup__ _n_ :five::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issue
 __marmalade__  
 __marooned__ _He felt marooned by the silence._  
 __marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
+__marquetry__ :astonished: _Marketry doors._ :es: marquetería (?)  
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
@@ -6236,7 +6241,7 @@ __nerve-racking__
 __nerve__ :two::hammer: _He's got nerve._  
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :five::hammer: (nestled)  
+__nestle__ _v_ :six::hammer: (nestled)  
 __nether__  
 __neuroblastoma__  
 __neutered__  
@@ -6648,6 +6653,7 @@ __pants-on-fire__
 __pantsed__ _v_  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
 __paper towels__  
+__paperwork__  
 __pappy__  
 __paradox__  
 __paragon__ _n_ :three::hammer: (paragons) _A paragon of redundancy._  
@@ -6990,7 +6996,7 @@ __plea__ _n_ :four::hammer: _A prayerful plea to brek free of alcohol._
 __plead out__  
 __plead__ _v_ :two::hammer: _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ (Use it at the end of a request/question.)  
-__pleat__ _v_ :four: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._  
+__pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pledge__ _n_ :two::hammer:  
 __plethora__ _n_ :three::hammer:  
 __pliable__ _The pliable GOP._  
@@ -6998,8 +7004,7 @@ __pliant__ _adj_ :three::hammer: _A pliant young waitress._
 __plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
 __plies__ _v_  
 __plight__ _n_ :five: Tough situation.  
-__plinth__ _n_ :two::hammer: (plinths)  
-__plinths__ _n_  
+__plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :seven::hammer: (plodded, plodding) _Plod to the shower._  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ (plopped) Fall or cause to fall with a plop. _The stone plopped into the pond._  
@@ -7075,7 +7080,8 @@ __pool cues__ :two::hammer:
 __poor-boy__ _Poor-boy sandwich._  
 __poorly__ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __pop the cherries__  
-__pop-up__ _A pop-up kitchen._  
+__pop-up<sup>1</sup>__ _adj_ :two::hammer: _Hip brand Pynta is holding a pop-up in the East Gallery._  
+__pop-up<sup>2</sup>__ _n_ _A pop-up kitchen._  
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
 __pop__ _v_ _Kids popping balloons._  
@@ -7657,6 +7663,7 @@ __refurbishment__
 __regal__ _n_ :four: Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country. _Despite his homely perch Robert felt regal._  
 __regaled__  
 __regalia__ _n_ :two::hammer:  
+__regatta__  
 __regents__ _n_  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
 __regret__ _We violated this rule with regret._  
@@ -7897,7 +7904,7 @@ __romp__ _v_ :six::hammer:
 __rondo__ _n_ (music)  
 __rood__ _n_ :two::hammer:  
 __roofrack__  
-__rooftop__ _n_ :five::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._  
+__rooftop__ _n_ :six::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
 __room gear__ _Dorm room gear._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
@@ -7963,7 +7970,7 @@ __rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? 
 __rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :five::hammer: (rummaged, rummaging)  
+__rummage__ _v_ :six::hammer: (rummaged, rummaging)  
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
 __run amok__ :two::hammer:  
@@ -8361,8 +8368,7 @@ __shine a light__
 __shine off__ _Don't try to shine me off, worm man._  
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
-__shingle__  
-__shingles__ _n_ :two::hammer:  
+__shingle__ _n_ :four::hammer: (shingles)  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :two::dart: (shirking) To avoid work or duty.  
@@ -8429,6 +8435,7 @@ __showboat__ _v_
 __showcase__ _v_  
 __showdown__ _n_ :six: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showhouse__  
+__showroom__ _n_  
 __showrunner__ _n_ :three::hammer: (show runner)  
 __showstopping__ _A showstopping performance._  
 __showtime__  
@@ -9843,6 +9850,7 @@ __top flight__ First division?
 __top the bill__ _I'll top the bill, I'll overkill._  
 __top-dog__  
 __top-of-mind__  
+__topiary__  
 __topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __topple__ _v_ _Warriors topple Raptors for fifth straight story._  
 __topsy-turvy__  
@@ -10163,7 +10171,7 @@ __unrelenting__ _adj_ :four::hammer:
 __unremitting__ _v_  
 __unrepentant__ :two::hammer:  
 __unrestrained__  
-__unruly__ _adj_ :seven::hammer: _Unruly campaign speeches._  
+__unruly__ _adj_ :eight::hammer: _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
 __unscathed__ _adj_ :five: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
@@ -10752,7 +10760,7 @@ __yeoman__ _n_ :three::hammer:
 __yesteryear__ :two::hammer:  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ :two::hammer:  
-__yew__  
+__yew__ _n_ :two::hammer: (yews)  
 __yield<sup>1</sup>__ _v_ :two::hammer: _Failing to yield to pedestrians._  
 __yield<sup>2</sup>__ _n_  
 __yikes__ _interj_ :two: An exclamation of surprise or alarm.  
