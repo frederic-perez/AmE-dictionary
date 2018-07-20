@@ -1,5 +1,21 @@
+
+__upswing__ _n_  
+__gritty__  
+__utterly__  
+__shoot from the hip__ _idiom_  
+__chip on someone"s shoulder__  
+__fatigues__ _n_ Camouflage uniforms.  
+__on cloud nine__  
+__squalid__  
+__low key__  
+__ply__ _v_  
+__partake__ _v_  
+__nibble__ (?)  
+__nonchalant__  
+__oversee__ _v_  
+
 __superbly__  
-__eponymous__  
+__ponymous__  
 __brise-soleil__ _Brise-soleil shading._  
 __development__ _Choose your home from 8 new developments across London._  
 __ensnare__ _v_ (ensnaring)  
