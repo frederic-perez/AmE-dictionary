@@ -1,4 +1,16 @@
 
+__sheer__ _A sheer number of ways._  
+__board__ _Encouraging Amazon's board (member) diversity._  
+__you name it__ _Foo, bar, baz--you name it._  
+__deterrent__  
+__leverage__ _v_  
+__ballpark__  
+__merit__  
+__initiative__  
+__epitome__  
+__manifesto__ _My own workplace manifesto._  
+__appreciate__ _I appreciate it._  
+
 __upswing__ _n_  
 __gritty__  
 __utterly__  
