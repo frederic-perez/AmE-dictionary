@@ -1,4 +1,15 @@
 
+__ramp up__ _v_  
+__dizzy__  
+__slinger__  
+__lookalike__ _These lookalike domains are used for scams._  
+__scammer__  
+__con artist__  
+__high and dry__ _adj_ Abandoned, helpless. _The consumer is left high and dry._  
+__unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._  
+__miss the point__  
+__urban legend__  
+
 __sheer__ _A sheer number of ways._  
 __board__ _Encouraging Amazon's board (member) diversity._  
 __you name it__ _Foo, bar, baz--you name it._  
