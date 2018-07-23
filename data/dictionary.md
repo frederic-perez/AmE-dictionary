@@ -705,6 +705,7 @@ __appraisal__ _n_ :seven::hammer: (appraisals) _An insurance appraisal._ _Free a
 __appraise__ _v_  
 __appraised__ _The home was appraised in 2007._  
 __appraisingly__  
+__appreciate__ _I appreciate it._  
 __apprehend__ _v_  
 __apprehension__  
 __approval rating__ _Park's approval rating has plummeted._  
@@ -911,7 +912,7 @@ __ballistic__
 __balloon-lined__ _Balloon-lined car dealership._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __ballpark figure__  
-__ballpark__  
+__ballpark__ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__  
 __balmy__ _The air was sweet and balmy._  
@@ -1286,7 +1287,7 @@ __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without 
 __bluster<sup>1</sup>__ _v_  
 __bluster<sup>2</sup>__ _n_  
 __blustery__ _adj_ :seven: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
-__board__ _n_ _(basketball)_ Rebound?  
+__board__ _n_ :two::hammer: _(basketball)_ Rebound? _Encouraging Amazon's board (member) diversity._  
 __boarding kennels__ _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardrooms__  
@@ -1958,7 +1959,7 @@ __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gen
 __chip apart__  
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :three::hammer: (chipped in)  
-__chip on (someone) shoulders__ _idiom_ :eight::dart: (chip on his shoulder, chip on one's shoulder) A disposition to quarrel. _Let's walk into that meeting tomorrow with a chip on our shoulders._  
+__chip on (someone) shoulders__ _idiom_ :nine::dart: (chip on his shoulder, chip on one's shoulder) A disposition to quarrel. _Let's walk into that meeting tomorrow with a chip on our shoulders._  
 __chip shots__ _The golfer was hitting some horrible chip shots._  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
@@ -2218,7 +2219,7 @@ __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any 
 __compulsory school__  
 __compulsory__ :three::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._  
 __compurgator__ _n_  
-__con artist__ _n informal_ :four::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
+__con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
 __con<sup>1</sup>__ _n_ :five::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :two::hammer:  
@@ -2809,7 +2810,7 @@ __despondent__ _n_ :four::hammer:
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
-__deterrent__ _n_ :six: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__deterrent__ _n_ :seven: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__  
 __detritus__ _n_  
@@ -2966,6 +2967,7 @@ __divisive__ _He is more interested in spouting divisive sound bites._
 __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
 __divvy up__ _v_  
 __divvy__ _v_  
+__dizzy__  
 __do it by the numbers__  
 __do math__  
 __do-gooder__  
@@ -3390,7 +3392,7 @@ __epilepsy__ _Risks of cerebral palsy and epilepsy._
 __epiphany__  
 __epistaxis__ _n_ A nosebleed.  
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
-__epitome__ _n_ :five: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
+__epitome__ _n_ :six: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ _adj_ :four::hammer: (eponymously)  
 __equaled__ _v_  
@@ -3576,7 +3578,7 @@ __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it dro
 __fatherland__ :astonished:  
 __fathom__ _v_ :four::hammer:  
 __fatigue__  
-__fatigues__ _n_ :two: Clothing worn by military personnel for labor or for field duty.  
+__fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
 __fatwa__ _n_ :two: Religious edict.  
@@ -4369,7 +4371,7 @@ __grit__ _n informal_ :six: (gritty, grittier) Indomitable courage, toughness, o
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
 __grittier__ _It makes the queso a bit grittier._  
-__gritty__ _adj_ :nine: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
+__gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
 __groan__ _v_ :three::hammer:  
 __grocer__ _n_ :two::hammer:  
@@ -4707,7 +4709,7 @@ __hickory__
 __hicks__ _A collection of web-toed hicks._  
 __hidebound__ _adj_ :three::hammer:  
 __hideous__ _adj_ :three::hammer: _A hideous practice._  
-__high and dry__ _His team was left high and dry._  
+__high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high street__ _n_ _British informal_ :three::hammer:  
@@ -5071,6 +5073,7 @@ __ingots__ _n_ :two::hammer::pencil2::
 __ingrained__ :two::hammer: _Speeding is deeply ingrained in American culture._  
 __ingratiate__ _v_ :two::hammer:  
 __inimical__  
+__initiative__  
 __injunction__ _n_ :six: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
@@ -5526,7 +5529,7 @@ __letter__ _v_ _I'm currently lettering the forthcoming comic book._
 __levee__  
 __leveled__ :two::hammer:  
 __leverage<sup>1</sup>__ _n_ _To exert leverage._  
-__leverage<sup>2</sup>__ _v_  
+__leverage<sup>2</sup>__ _v_ :two::hammer:  
 __leviathan__  
 __levied__ _v_ :four::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy<sup>1</sup>__ _v_  
@@ -5656,6 +5659,7 @@ __longstanding__ :two::hammer:
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
+__lookalike__ _These lookalike domains are used for scams._  
 __looker__ _n_  
 __lookout__ :two::hammer: _Be on the lookout._  
 __lookup__ _n_ :two::hammer:  
@@ -5793,7 +5797,7 @@ __manhung__ _n_
 __manic__ _I was manic._  
 __manicured landscape__  
 __manifest__ _A manifest of olive oil._  
-__manifesto__ _n_  
+__manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
 __manna__ _n_  
 __mannered__  
 __manor__ _A medieval manor house._  
@@ -5920,6 +5924,7 @@ __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercuria
 __mere__  
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
+__merit__  
 __merriment__ _n_ :two:  
 __mesh strainer__  
 __metal casement windows__ :camera:  
@@ -6004,7 +6009,7 @@ __misnomer__ _n_ :seven: __1__ A wrong or inaccurate name or designation. _“Ki
 __misogynist__  
 __misogyny__ :pencil2:  
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
-__miss the point__  
+__miss the point__ :two::hammer:  
 __misspell__ _v_  
 __misstate__ _v_  
 __misstated__ _v_  
@@ -7498,7 +7503,7 @@ __rambling__ _v_ :four::hammer:
 __rambunctious__ _adj_ :three::hammer:  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
-__ramp up__ _v_ :four::hammer: _Official decisions ramped up activity._  
+__ramp up__ _v_ :five::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v_ :two::hammer:  
 __rampage<sup>2</sup>__ _n_ :four::hammer:  
 __rampant__ :two::hammer:  
@@ -8090,6 +8095,7 @@ __scalp__
 __scalpel__  
 __scalper__ _n_ :three::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
+__scammer__  
 __scamper__ _v_ :three::hammer: (scampered, scampering) _Scampered into the van._  
 __scant__ _adj_ :seven: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scapegoated__ _v_  
@@ -8332,7 +8338,7 @@ __sheen__ _The sheen on his hair when he removed his hat._
 __sheep__ _(plural?)_ _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
-__sheer<sup>1</sup>__ _adj_ :seven::hammer: _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer<sup>1</sup>__ _adj_ :eight::hammer: _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
 __sheet__ _n_ :two:  
@@ -8390,6 +8396,7 @@ __shogunate__ :two::hammer: _A local shogunate office._
 __shoo-in__  
 __shoo__ _v_ :three::hammer: (shooing)  
 __shooing__ _v_  
+__shoot from the hip__ _idiom_  
 __shoot the breeze__ _informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
 __shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
 __shoot-from-the-hip__  
@@ -8636,6 +8643,7 @@ __slightly-built__ _The slightly-built, 27-year-old man._
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__  
 __sling__ _n_ :two::hammer: _The sling wrappred around his forearm._  
+__slinger__  
 __slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slip<sup>1</sup>__ _n_ _A pink slip._  
 __slip<sup>2</sup>__ _v_ Decrease?  
@@ -10179,6 +10187,7 @@ __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an
 __unsettling__ _The old man's unsettling eyes._  
 __unshackle__ _The two guards unshackled Sam at the door._  
 __unsightly__ _Manning looking at unsightly ending._  
+__unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._  
 __unsound__  
 __unspooling__ _Unspooling microphone cables._  
 __unstoppable__ :two::hammer: _She is our unstoppable force of nature._  
@@ -10232,11 +10241,12 @@ __upshot__ _n_ :six::hammer:
 __upside__ :two::hammer: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
-__upswing__ _n_ :four: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
+__upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__  
 __uptick__ _n_ :four::hammer:  
 __uptight__ _v_  
 __upwardly__  
+__urban legend__  
 __urbanites__  
 __urchin__ _An underprivileged urchin._  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
@@ -10248,7 +10258,7 @@ __utilitarian__
 __utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utmost__ :two::hammer:  
 __utterance__  
-__utterly__ :two::hammer:  
+__utterly__ _adv_ :three::hammer:  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __vacant-eyed__  
 __vacant__ _Adam parked in a vacant spot._  
@@ -10774,7 +10784,7 @@ __yoke__ _n_ _Egg yoke._
 __yokels__ :two::hammer:  
 __yonder__  
 __yore__ _?_ _Days of yore._  
-__you name it__ :dart::two::hammer:  
+__you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  
 __your mileage may vary__  
 __yowl__ _n_ _His yowl of pain_  
