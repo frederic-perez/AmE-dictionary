@@ -1,4 +1,13 @@
 
+__patronize__ _v_  
+__weaponize__ _v_  
+__ascertain__ _v_  
+__pep__ _v_ (pepping)  
+__that will do__  
+__lay the table__  
+__it so happens__  
+__peristaltic__ _adj_  
+__dress up__ _v_  
 
 __on cloud nine__  
 __squalid__  
