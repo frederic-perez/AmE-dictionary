@@ -1,38 +1,4 @@
 
-__patronize__ _v_  
-__weaponize__ _v_  
-__ascertain__ _v_  
-__pep__ _v_ (pepping)  
-__that will do__  
-__lay the table__  
-__it so happens__  
-__peristaltic__ _adj_  
-__dress up__ _v_  
-
-__on cloud nine__  
-__squalid__  
-__low key__  
-__ply__ _v_  
-__partake__ _v_  
-__nibble__ (?)  
-__nonchalant__  
-__oversee__ _v_  
-
-__superbly__  
-__ponymous__  
-__brise-soleil__ _Brise-soleil shading._  
-__development__ _Choose your home from 8 new developments across London._  
-__ensnare__ _v_ (ensnaring)  
-__elderflower__  
-__chamomille__  
-__mulberry__  
-__cruffy__  
-__lark__  
-__trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
-__provenance__  
-__lashings__ _n_ _Gooey cheese and lashings of sour cream._  
-__tagline__  
-
 __riff__  
 __extolling__ _v_  
 __posh__  
