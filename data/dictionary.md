@@ -424,7 +424,7 @@ __Yuletide__ _n_ (archaic) Christmas.
 __abalone__  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
-__abashed__  
+__abashed__ :two::hammer:  
 __abatement__ :two::hammer: _A tax abatement._  
 __abating__  
 __aberrant__ _adj_  
@@ -454,6 +454,7 @@ __abutting__ _Bungalows abutting._
 __abuzz__ :two::hammer:  
 __abysmal__  
 __abyss__ _n_ :astonished::mega::four:  
+__accidental__ _Ottolenghi is an accidental chef._  
 __accoitrements__  
 __accolade__ _n_ :four: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
@@ -1251,6 +1252,7 @@ __bloc__ _n_ :five::hammer: _The troubled currency bloc._
 __block letters__ _She wrote something in block letters._  
 __blood-expander__  
 __blooker__ :two::hammer:  
+__blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
 __blooper__ _n informal_ :two::dart: A clumsy mistake, especially one made in public; a faux pas.  
 __blotched__ _v_  
@@ -1333,7 +1335,7 @@ __bombing__ _v_
 __bombshell__ _n_  
 __bombsights__  
 __bon ton__  
-__bona fide__ _adj_ :five: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. __2__ Undertaken in good faith.  
+__bona fide__ _adj_ :six: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith.  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -1593,7 +1595,7 @@ __buoy<sup>1</sup>__ _n_
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
-__burgeoning__ _adj_ :six::hammer:  
+__burgeoning__ _adj_ :seven::hammer:  
 __burgermeister__  
 __burgundy__ :two::hammer: _Burgundy outfit._  
 __burkini__  
@@ -2279,7 +2281,7 @@ __consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I
 __consequently__  
 __conservancies__  
 __consigliere__ _Our family consigliere._  
-__conspicuous__ _adj_ :four: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
+__conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __conspicuously__  
 __constituency__ _n_ :five::hammer: (constituencies)  
 __constituent__ _n_ :five::hammer: (constituents)  
@@ -2858,7 +2860,7 @@ __dime > on the dime__
 __dimed__ _v_ (dimed) :two::hammer: _I'm going to roust Jimmy Sty and tell him you dimed him._  
 __diminish__ _v_  
 __diminishing returns__  
-__dimpled__ _v_ :four::hammer:  
+__dimpled__ _v_ :five::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
 __dimply__  
 __dimwits__ _n_ :two::hammer:  
@@ -3488,10 +3490,8 @@ __expose__ _v_
 __expostulate__ _v_  
 __exposures__ (?) _Penthouse features include multiple exposures._  
 __extent__ _To the same extent._  
-__extol__ _v_ :two::hammer: _But he extols running as what helps him stay clean._  
-__extoll__  
-__extolled__ _v_  
-__extols__  
+__extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
+__extoll__ _v_ :three::hammer: (extolled, extolling)  
 __extort__ _v_  
 __extraneous__  
 __extremes__  
@@ -3860,6 +3860,7 @@ __fluted__ _v_
 __flutist__  
 __flutter__ _v_ :seven: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
 __fluttering__ _n_  
+__fly high__  
 __fly in the ointment__ A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly on the wall__  
 __fly-by-night__  
@@ -4293,6 +4294,7 @@ __gosling__ _?_ _An errant gosling._
 __gospel__ _n_ :es: evangelio  
 __gouge__ _v_ :five::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
+__goulash__  
 __gout__  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_  
@@ -4563,6 +4565,7 @@ __hardwood__ :two::hammer: _The hardwood floor._
 __hardy__  
 __harebrained__  
 __hares__ _n_  
+__harissa__  
 __hark__ _v_ :two::hammer: (harking)  
 __harmonize__ _v_  
 __harness__ _v_ :two::hammer: _Harnessing big data._  
@@ -4603,6 +4606,7 @@ __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensi
 __hawkish__ _adj_ :six::hammer: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
+__hay fever__ _I suffer from hay fever congestions._  
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _A 465-yard par with a water hazard._  
@@ -4648,6 +4652,7 @@ __heathenism__
 __heather__  
 __heathy__  
 __heave__ _v_ (heaving) :three::hammer: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heavily__ _He was drinking heavily._  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
 __hecatombs__  
@@ -4691,7 +4696,7 @@ __hemming__
 __hemp__ _n_ :four::hammer: _Hemp plant._  
 __henchman__ _n_ :four::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
-__herald__ _v_ :three::hammer: (heralded)  
+__herald__ _v_ :four::hammer: (heralded)  
 __herdsman__ _n_  
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
@@ -4854,9 +4859,11 @@ __hounding__ _v_ :two::hammer:
 __hounds__ _n_  
 __hourlong__ _The hourlong meeting._  
 __house > take it to the house__  
+__house husband__ _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __houseboats__ _n_  
+__housebound__  
 __housecarls__  
 __household__ _Household chores to keep your house tidy._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
@@ -4898,7 +4905,7 @@ __hunker__ _v_ :three::hammer: (hunkered)
 __hunky-dory__  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
-__hurl__ _v_ :seven: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
+__hurl__ _v_ :eight: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurtling__ _v_  
 __husbanded__ _v_ _Rob husbanded his money._  
@@ -5631,7 +5638,7 @@ __loaded question__
 __loafered__  
 __loafers__ _n_ :three::hammer:  
 __loans__  
-__lob__  
+__lob__ _v_ :two::hammer:  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
 __loch__ _n_  
@@ -6042,7 +6049,7 @@ __modicum__ _n_ :four: If you want to describe a small amount of something, try 
 __mogrify__ _v_  
 __mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
-__molasses__ _n_ :three::hammer:  
+__molasses__ _n_ :four::hammer: _Pomegranate molasses._  
 __mold__ _n_  
 __moldings__  
 __moldy__ :two::hammer:  
@@ -6628,7 +6635,7 @@ __painstaking__ _Painstaking patience._
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __palatable__ :two::hammer:  
-__palate__ _Soft palate._  
+__palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
 __paleo__  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
@@ -7123,7 +7130,7 @@ __portly__
 __portmanteau__  
 __portray__ _v_  
 __portrayal__ _n_ :mega:  
-__posh__ _adj_ :three: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
+__posh__ _adj_ :four: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
@@ -7771,6 +7778,7 @@ __resplendent__
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
+__restaurateur__  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :three::hammer:  
@@ -7834,7 +7842,7 @@ __riddle<sup>1</sup>__ _n_ :three::hammer: _The Mad Tea-Party in Alice's Adventu
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
 __ridership__ :two::hammer:  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
-__riff__ _n_  
+__riff__ _n_ :two::hammer:  
 __riffing__ _v_  
 __riffle__ _v_ :three::hammer: (riffled) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
@@ -8023,6 +8031,7 @@ __sadistic__ _adj_
 __safeguard__  
 __safekeeping__  
 __safety net__  
+__saffron__  
 __sag<sup>1</sup>__ _v_ :six: (sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __sage<sup>1</sup>__ _n_  
@@ -8429,7 +8438,7 @@ __shortchanged__ _v_ :three::hammer: (shortchanged) _I think people will be shor
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
-__shortlist__ _n_  
+__shortlist__ _n_ :two::hammer:  
 __shortlisted__ _v_  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ _Shortly before 8 a.m. Tuesday._  
@@ -8675,9 +8684,8 @@ __sliver<sup>2</sup>__ _v_ :four::hammer:
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
 __slobby__  
-__slog<sup>1</sup>__ _v_ :eight: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
-__slog<sup>2</sup>__ _n_ :three: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
-__slog__ _v_  
+__slog<sup>1</sup>__ _v_ :nine: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
+__slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slop__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
@@ -10317,7 +10325,7 @@ __venality__
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :five::hammer: (veneers)  
 __venial__ _adj_  
-__venison__ _n_ :two::hammer:  
+__venison__ _n_ :three::hammer:  
 __venom__ _n_ :three::hammer:  
 __venomous__ _adj_ :two::hammer:  
 __vent__ _v_  
