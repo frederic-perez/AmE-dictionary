@@ -583,7 +583,7 @@ __alderman__ _n_ :two::hammer:
 __alecky__ _Smart-alecky wit._  
 __alfresco__ _It had two small terraces for alfresco dining._  
 __algae__ _n_  
-__alienate__ _v_ :six::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
+__alienate__ _v_ :seven::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
 __all in all,__ _phr_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
@@ -629,6 +629,7 @@ __amends__
 __amenity kits__  
 __amethyst__ _n_  
 __ametropy__ _n_  
+__amiss__ _adj_  
 __amity__  
 __ammassed__ _v_  
 __amnesty player__  
@@ -711,6 +712,7 @@ __apprehend__ _v_
 __apprehension__  
 __approval rating__ _Park's approval rating has plummeted._  
 __apropos__ _prep_ :mega:  
+__apt__  
 __aquaponic__  
 __aquifer__ _n_  
 __arbitration__ _Arbitration clause._  
@@ -2133,7 +2135,7 @@ __cobble together__ _v_ Put together hastily. _I cobbled together a simple drive
 __cobweb__ _n_ :four::hammer: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
-__coda__ _n_  
+__coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
 __coddled__ _v_ :three::hammer: _A coddled creature._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerce__ _v_  
@@ -2141,6 +2143,7 @@ __coerced__
 __coffee-table book__  
 __coffers__ _n_ :five::hammer: _San Francisco city coffers._ _State's coffers._  
 __cog__ _n_ :six: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
+__cogency__  
 __cognizant__  
 __cohesive__ :dart::two::hammer: _A more cohesive layout._  
 __coif__ _Strange coif._  
@@ -2275,6 +2278,7 @@ __conjure__ :two::hammer:
 __conman__  
 __connive__ _v_ :four::hammer: (connived, conniving)  
 __conscripted__ _v_ :two::hammer:  
+__conscription__  
 __consecutive__  
 __consensual__  
 __consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I've learned to build consensus and work with the other side._  
@@ -2444,7 +2448,7 @@ __crappie__
 __crapshoot__  
 __crash course__  
 __crash-land__ _v_ _A jet crash-landed in the city._  
-__crass__ :two::hammer:  
+__crass__ _adj_ :three::hammer: _Crass attitudes._  
 __crate__ _n_  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
 __craven__ _A craven political figure._  
@@ -2662,7 +2666,7 @@ __dashing__ _I think I look rather dashing._
 __date__ :pencil2: _It would be like eating a single date._  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
-__daubed__ :two::hammer:_A swastika was daubed on a science center window._  
+__daub__ _v_ :three::hammer: (daubed) _A swastika was daubed on a science center window._  
 __daunting__ _adj_ :four: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
 __day job__  
@@ -3977,7 +3981,7 @@ __franchise__ _Romo is the Cowboys franchise quarterback._
 __franchisees__  
 __frat__ _A frat house._  
 __frats__ _n_  
-__fraught__ _adj_ :five: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :six: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer:  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -5109,7 +5113,7 @@ __installment__ _n_ :two::dart: _Customers can pay monthly installments of $15._
 __instating__  
 __instill__ _v_ :four::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
 __institute__ _v_  
-__institutionalize__ _v_  
+__institutionalize__ _v_ :two::hammer:  
 __insular__ _His small, insular group of loyalists._  
 __insure__ _v_  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
@@ -5162,7 +5166,7 @@ __jack it up__ _v_
 __jack-o'-lantern__  
 __jackhammer__  
 __jackpot__  
-__jade__ _v_ :six::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._  
+__jade__ _v_ :seven::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._  
 __jagged__ :two::hammer:  
 __jagging__  
 __jakelegs__  
@@ -5172,7 +5176,7 @@ __jam up__ _v_
 __jam__ _v_  
 __jamb__ :two::hammer: _Window jamb._  
 __jambalaya__ _n_  
-__jamboree__ _n_ :three::hammer: _A campfire jamboree._  
+__jamboree__ _n_ :four::hammer: _A campfire jamboree._  
 __jammies__ _n_  
 __jampacked__ _v_  
 __jams__ _n_  
@@ -5521,6 +5525,7 @@ __legit__ _adj_ _Slang_ :three: Legitimate.
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
+__leitmotif__  
 __lemme__ _Lemme see._  
 __lemon wedges__ :camera: _Lemon wedges for serving._  
 __lemongrass__  
@@ -5864,6 +5869,7 @@ __matchstick__ _n_
 __matchup__ _n_ :two::hammer: (matchups)  
 __materiel__ _n_ Equipment and supplies of a military force.  
 __maternity leave__  
+__matey__  
 __matinee__ _n_ :two::hammer: (matinees)  
 __matriarch__ :two::hammer:  
 __matron__  
@@ -6437,7 +6443,7 @@ __olefin__ _n_
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
 __omen__ _n_ :three::hammer:  
-__ominous__ _adj_ :six: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
+__ominous__ _adj_ :seven: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
@@ -6891,7 +6897,7 @@ __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piece
 __pied-à-terre__ :two::hammer: (pieds-à-terre) _Use as pied-à-terre is allowed._  
 __pied__  
 __pietist__  
-__pig iron__ _n_ :three::hammer: _Pigs of iron._  
+__pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
 __piggish__  
 __pigheaded__ _adj_ Obstinate.  
@@ -7130,7 +7136,7 @@ __portly__
 __portmanteau__  
 __portray__ _v_  
 __portrayal__ _n_ :mega:  
-__posh__ _adj_ :four: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
+__posh__ _adj_ :five: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
@@ -8375,6 +8381,7 @@ __shelling out__
 __shelling__ _v_  
 __shelved__ _v_ :three::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shenanigans__ :two::hammer:  
+__shepherdless__ _n_  
 __sherbet punch__  
 __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
 __shiet__  
@@ -8463,6 +8470,7 @@ __showboat__ _v_
 __showcase__ _v_  
 __showdown__ _n_ :six: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showhouse__  
+__showpiece__  
 __showroom__ _n_  
 __showrunner__ _n_ :three::hammer: (show runner)  
 __showstopping__ _A showstopping performance._  
@@ -8503,7 +8511,7 @@ __shutter__ _n_ :two::hammer: (shutters) _The finest selection of custom shutter
 __shy of__ :two::hammer::astonished: _Just shy of its highest mark._  
 __shy<sup>1</sup>__ _n_ _He might be a ticket or two shy._  
 __shy<sup>2</sup>__ _v_ :two::hammer:  
-__shy__ _Shy of one thousand pages._  
+__shy__ :two::hammer: _Edgerton does not shy away from cultural observations._ _Shy of one thousand pages._  
 __shylock rackets__  
 __shylock__  
 __shylocking__  
@@ -9057,7 +9065,7 @@ __squelched__ _v_
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2:  
-__squirm<sup>1</sup>__ _v_ :four::hammer: _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :five::hammer: _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squishing__  
 __squit__ _Super-soaker squit guns._  
@@ -9148,6 +9156,7 @@ __stead__
 __steadfast__ _adj_ :six: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
 __steadily__  
+__steadiness__  
 __steady-eddy__  
 __steady__ _adj_ :five:__1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
 __stealth van__ _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you're a plumber or whatever and no one would notice._  
@@ -9506,6 +9515,7 @@ __swoopy__
 __swooshing__  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
 __syllogism__ :two::hammer:  
+__sympathetic__  
 __syncing__ _Syncing up over coffee._  
 __syndicated__ :two::hammer:  
 __syringe__  
@@ -9633,7 +9643,7 @@ __telegenic__
 __televangelist__ _n_  
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
-__tell-tale__  
+__tell-tale__ :two::hammer: _Tell-tale sings._  
 __telling__ _n_ :three::hammer: _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father's experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale__ :two::hammer:  
@@ -10603,8 +10613,8 @@ __whole nine yards, the__
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::hammer:  
 __wholesome__ :two::hammer:  
-__wholly__ _adv_ :pencil2: _A problem that is wholly unnecessary._  
-__whoop<sup>1</sup>__ _n_  
+__wholly__ _adv_ :pencil2::two::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
+__whoop<sup>1</sup>__ _n_ :two::hammer:  
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
@@ -10719,6 +10729,7 @@ __workaday__
 __workforce__  
 __working title__  
 __workmanlike__  
+__workshop__ _v_ :astonished: (workshopped)  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
 __worrisome__ _adj_ :three::hammer:  
@@ -10776,14 +10787,14 @@ __yap__ _v_ _The dog was yapping._
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
-__yarn__ _n_ :four::hammer:  
+__yarn__ _n_ :five::hammer: _Political yarns._  
 __yawing__ _v_  
 __yawn__ _n_ _The sound of yawns and crickets._  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay!__ _interj_  
 __yay__ _interj_ :two::hammer: _Yay, Giants!_  
-__yearn__ _v_ __1__ :six: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
+__yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __yellow wine__  

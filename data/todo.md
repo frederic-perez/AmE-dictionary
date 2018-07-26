@@ -1,34 +1,3 @@
-__squirm__ _v_  
-__amiss__  
-__tell-tale__ _Tell-tale sings._  
-__wholly__ _Something wholly different._  
-__daubed__ _v_  
-__showpiece__  
-__jamboree__  
-__apt__  
-__workshopped__ _v_ :astonished:  
-__trickle__  
-__whoop__  
-__crass__ _Crass attitudes._  
-__shepherdless__ _n_  
-__institutionalize__ _v_  
-__steadiness__  
-__yarns__ _Political yarns._  
-__ominous__  
-__leitmotif__  
-__coda__ _The novel ends with a wordless coda._  
-__yearn__ _v_  
-__alienated__  
-__hapless__  
-__fraught__ _A fraught tale._  
-__sympathetic__  
-__posh__  
-__matey__  
-__cogency__  
-__jaded__  
-__pig-iron__ _Edgerton is a pig-iron and power station historian._  
-__shy__ _Edgerton does not shy away from cultural observations._  
-__conscription__  
 __abattoirs__  
 __paean__  
 __intuit__  
