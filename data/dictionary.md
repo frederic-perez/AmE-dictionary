@@ -427,6 +427,7 @@ __abasement__
 __abashed__ :two::hammer:  
 __abatement__ :two::hammer: _A tax abatement._  
 __abating__  
+__abattoir__ _n_ Slaughterhouse.  
 __aberrant__ _adj_  
 __aberration__ _n_  
 __abetted__ _v_  
@@ -546,6 +547,7 @@ __ageless__
 __agency__ :two::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
 __agendum__  
 __aggravate__ _v_ (aggravated) :two::hammer:  
+__aggravation__  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aghast__ _adj_ :three::hammer:  
 __agit__  
@@ -648,7 +650,7 @@ __and so it goes__
 __andirons__  
 __anew__ _adv_ :three::hammer:  
 __angle iron__  
-__angler__ _n_ :four::hammer: (anglers) _Fisher?_  
+__angler__ _n_ :five::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::hammer:  
@@ -1405,7 +1407,7 @@ __bountiful__
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovine__ _n?_ Cow or bull (neutral). (?)  
-__bow__ _n_ :three::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._  
+__bow__ _n_ :four::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._  
 __bowie knife__ :two::hammer:  
 __bowling alley__  
 __box score__  
@@ -1494,6 +1496,7 @@ __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeche
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broach__ _v_ (broached) :three::hammer:  
+__broad daylight__ _A sniper who prays on victims in broad daylight._  
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  
 __brocade__  
@@ -1858,7 +1861,7 @@ __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy cat
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
 __cauliflower steaks__ :camera:  
 __caulking__  
-__causeway__ _n_ :four::hammer:  
+__causeway__ _n_ :five::hammer:  
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __cavort__ _v_ :three::hammer: _Animals cavorting._  
@@ -2620,7 +2623,7 @@ __cuttin' a rug__
 __cyclone__ _n_  
 __cynical__  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
-__dab<sup>2</sup>__ _n_ :two: A small amount.  
+__dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :three::hammer: (dabbled)  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
@@ -2855,7 +2858,7 @@ __digress__ _v_
 __digression__  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dikes__ :pencil2:  
-__dilapidate__ _v_ :two::hammer: _Dilapidated yatch._  
+__dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
 __dilemma__  
 __dill__ _n_ :two::hammer: _A dill pickle._  
 __dilutive__  
@@ -3262,6 +3265,7 @@ __echo chamber__
 __eclampsia__  
 __econ__ _The econ professor._  
 __ectopic__ _adj_ _Ectopic pregnancy._  
+__ecumenical__  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
 __edict__  
@@ -3561,7 +3565,7 @@ __fanbase__ _n_ :astonished:
 __fanciful__  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
-__fancy<sup>2</sup>__ _v_ __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
+__fancy<sup>2</sup>__ _v_ :two: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__ _n_ :two::hammer:  
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
@@ -4650,6 +4654,7 @@ __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)
 __heartworm__  
 __heat > to catch a lot of heat__  
 __heatedly__ _Clashed heatedly._  
+__heath__ _Heath land._  
 __heathen__ _n_ :four::hammer: _They were declared guilty of heathen practice._ :es: pagano  
 __heathenish__  
 __heathenism__  
@@ -5136,7 +5141,7 @@ __interviewees__ _n_ :pencil2:
 __into the fold__ _It brought many viewers into the fold._  
 __intramural__  
 __intricacies__  
-__intuit__ _v_ :two: To know or understand by intuition.  
+__intuit__ _v_ :three: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
 __invective__ _n_ :four::hammer:  
@@ -5144,7 +5149,7 @@ __inveighed__
 __inveterate__ :two::hammer:  
 __invoice__ _v_  
 __invoke__  
-__irate__ _v_  
+__irate__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
 __iris__  
 __irksome__  
@@ -5187,6 +5192,7 @@ __jaundice__ _v_ :three::hammer:
 __jaunt__ _n_ :two::hammer:  
 __jaunty__ _adj_ :eight: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jawing__ _v_ _Stop jawing and get to work._  
+__jay__ _n_  
 __jaywalker__ _n_  
 __jaywalking__  
 __jazz up__ _v_  
@@ -5652,6 +5658,7 @@ __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can 
 __lockout__ _N.J. residents upset over island lockout._  
 __locks > alcohol ignition locks__  
 __locks__ _n_ _The thick locks of black hair._  
+__locksmith__  
 __lockstep__ :two::hammer:  
 __locust__ :two::hammer:  
 __locusts__ _n_  
@@ -5749,7 +5756,7 @@ __lush__ _adj_ :eight: _adj_ __1__ _(of vegetation)_ Abounding in lavish growth.
 __lushnes__  
 __luster__  
 __lustre__  
-__lustrous__  
+__lustrous__ :two::hammer:  
 __luxe__ _People were accustomed to creating luxe interiors._  
 __lye water__  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -5818,6 +5825,7 @@ __manic__ _I was manic._
 __manicured landscape__  
 __manifest__ _A manifest of olive oil._  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
+__manipulation__  
 __manna__ _n_  
 __mannered__  
 __manor__ _A medieval manor house._  
@@ -5888,7 +5896,7 @@ __max out__ _v_ :two::hammer: _He maxed out on the education available to black 
 __maxed__ _v_  
 __maxes__ _v_  
 __maxim__ :es: máxima  
-__mayhem__ _n_ :five: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
+__mayhem__ _n_ :six: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mayoketchup__  
 __mea culpa__  
 __mead__ _n_  
@@ -6633,7 +6641,7 @@ __padding__ _v_ _Those who imagine slumber parties and members padding in their 
 __paddle__ _v_ :two::hammer: (paddled) _I got paddled at school._  
 __paddock__ _n_  
 __padlock__  
-__paean__ _n_ :six::hammer: (paeans)  
+__paean__ _n_ :seven::hammer: (paeans)  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pail__ _n_ :three::hammer: _A lunch pail._  
@@ -7201,7 +7209,7 @@ __prep schools__
 __prep<sup>1</sup>__ _n_? (preparatory?)  
 __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
 __prep__ (prepping) _I was prepping for the show._  
-__preposterous__ _adj_ :six::hammer:  
+__preposterous__ _adj_ :seven::hammer:  
 __preposterously__  
 __preppers__  
 __prepping__ _v_  
@@ -7226,7 +7234,7 @@ __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a ta
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
-__preyed__ _v_  
+__prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
 __price point__ _The best in price point._  
 __price tag__  
@@ -8330,7 +8338,7 @@ __shale<sup>3</sup>__ _v_
 __sham<sup>1</sup>__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
 __sham<sup>2</sup>__ _n_ :three::hammer: _The novelty effect isn't a sham._  
 __shambled__ _v_ :two::hammer:  
-__shambles__ :two::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
+__shambles__ _n_ :three::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
 __shambolic__  
 __shame__ _v_ _He shamed me._  
@@ -8442,6 +8450,7 @@ __short-handed__ _adj_ :four::hammer: _The short-handed Blue Devils._ _The Bulls
 __short-lived__  
 __short__ _He typically wears shorts to work._  
 __shortchanged__ _v_ :three::hammer: (shortchanged) _I think people will be shortchanged._  
+__shortcomings__ _n_  
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
@@ -8528,7 +8537,7 @@ __sided__ _Installed in all sided (vs brick) homes._
 __sideline__  
 __sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidelines__ _n_ :three: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
-__sidestep__ _v_ :two::hammer:  
+__sidestep__ _v_ :four::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
@@ -9237,6 +9246,7 @@ __stolid__ :two::hammer:
 __stomp__ _v_  
 __stomping__ _v_  
 __stone-walling__  
+__stone__ _Lose a stone in four weeks._  
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
@@ -9532,6 +9542,7 @@ __table tennos__
 __tableau__  
 __tableaux__  
 __tablet__ :astonished: _Hair tablet._  
+__tabs__ _n_ _Is May keeping nervous tabs on her rivals?_  
 __tabulate__ _v_  
 __tabulated__ _Tabulated scientific data._  
 __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they work._  
@@ -9548,6 +9559,7 @@ __tailspin__ _n_ :two::hammer:
 __take a shit__ _v_  
 __take a stand__  
 __take by storm__  
+__take heart__  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
@@ -9797,7 +9809,7 @@ __time frame__
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
 __timeline__  
-__timely__ _adj_ :three::hammer: _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :four::hammer: _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable__  
 __timid__  
@@ -9964,14 +9976,15 @@ __travelogue__ _n_ :two::hammer:
 __travesties__  
 __travesty__  
 __trawler__  
-__treachery__  
+__treachery__ :two::hammer:  
 __treacly__ :two::hammer:  
 __tread water__ To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
 __treading__  
 __treasure__ _v_ :two::hammer:  
 __treat<sup>1</sup>__ _v_  
 __treat<sup>2</sup>__ _n_  
-__treble__ :two::hammer: _A treble hook._  
+__treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
+__treble<sup>2</sup>__ _v_  
 __trellis__ _n_ :five::hammer:  
 __trellises__ _From his trellises._  
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  

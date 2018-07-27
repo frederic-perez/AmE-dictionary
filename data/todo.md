@@ -1,34 +1,4 @@
-__abattoirs__  
-__paean__  
-__intuit__  
-__stone__ _Lose a stone in four weeks._  
-__prey__ _v_ _A sniper who prays on victims in broad daylight._  
-__broad daylight__ _A sniper who prays on victims in broad daylight._  
-__fancy__ _v_  
-__preposterous__  
-__timely__ _A timely story._  
-__take heart__  
-__sidestep__ _v_ :two::hammer: (sidestepped)  
-__manipulation__  
-__shortcomings__ _n_  
-__jay__ _n_  
-__angler__ _n_  
-__dilapidate__ _v_  
-__locksmith__  
-__bow__ _n_ _Violins, violas, cellos and bows._  
-__treachery__  
-__shambles__  
-__aggravation__  
-__irate__  
-__heath__ _Heath land._  
-__lustrous__  
-__dab__  
-__tabs__ _n_ _Is May keeping nervous tabs on her rivals?_  
-__causeway__ _n_  
-__mayhem__  
-__ecumenical__  
 
-__treble__ _v_  
 __shy__ :two::hammer: _Shy of leaders._  
 __flutter__ _n_  
 __floodlight__ _n_  
