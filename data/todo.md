@@ -1,4 +1,15 @@
 
+__beef up__ _v_  
+__poke__ _v_  
+__shepherd__ _v_ (shepherded)  
+__nimble__  
+__garish__  
+__bug__ _v_  
+__mere__ _From mere $200._  
+__fast and furious__  
+__snappier__ _Everything will be snappier._  
+__smarter than the average bear__  
+
 __shy__ :two::hammer: _Shy of leaders._  
 __flutter__ _n_  
 __floodlight__ _n_  
