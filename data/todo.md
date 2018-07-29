@@ -1,4 +1,18 @@
 
+__every other week__  
+__put up__ _v_ _People put up with it._  
+__ROI__ Return of investment. (?)  
+__check__ _v_ _Point checked._  
+__realtor__  
+__prospector__  
+__sanity check__  
+__scooter__  
+__souschef__ _n_ :mega: (?)  
+__disembodied__  
+__pictogram__  
+__pipe dream__ (?)  
+__ingraciate__ (?)  
+
 __beef up__ _v_  
 __poke__ _v_  
 __shepherd__ _v_ (shepherded)  
