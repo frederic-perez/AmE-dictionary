@@ -1,4 +1,13 @@
 
+__cotton candy__  
+__scarlet__ (color)  
+__Scarlett__ (name)  
+__day in and day out__  
+__royalties__  
+__smoke__ _v_ _This person smokes me._  
+__bookie man__ (?)  
+__lithotripsy__ _n_  
+__lithotripter__ _n_  
 
 __shortlist__ _n_  
 __bookrunner__  
