@@ -1,34 +1,5 @@
 
-__every other week__  
-__put up__ _v_ _People put up with it._  
-__ROI__ Return of investment. (?)  
-__check__ _v_ _Point checked._  
-__realtor__  
-__prospector__  
-__sanity check__  
-__scooter__  
-__souschef__ _n_ :mega: (?)  
-__disembodied__  
-__pictogram__  
-__pipe dream__ (?)  
-__ingraciate__ (?)  
 
-__beef up__ _v_  
-__poke__ _v_  
-__shepherd__ _v_ (shepherded)  
-__nimble__  
-__garish__  
-__bug__ _v_  
-__mere__ _From mere $200._  
-__fast and furious__  
-__snappier__ _Everything will be snappier._  
-__smarter than the average bear__  
-
-__shy__ :two::hammer: _Shy of leaders._  
-__flutter__ _n_  
-__floodlight__ _n_  
-__haul__ _n_  
-__fail__ _v_ _I'm trying--and failing--to work out the logic of this._  
 __shortlist__ _n_  
 __bookrunner__  
 __doldrums__  
