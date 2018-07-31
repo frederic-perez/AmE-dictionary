@@ -1,34 +1,4 @@
 
-__cotton candy__  
-__scarlet__ (color)  
-__Scarlett__ (name)  
-__day in and day out__  
-__royalties__  
-__smoke__ _v_ _This person smokes me._  
-__bookie man__ (?)  
-__lithotripsy__ _n_  
-__lithotripter__ _n_  
-
-__shortlist__ _n_  
-__bookrunner__  
-__doldrums__  
-__mettle__ _n_  
-__bore__ _n_ :es: aburrido (?)  
-__sniggering__ _v_  
-__be in a pickle__  
-__cadence__ _n_  
-__turn the table__  
-__showpiece__  
-__furlong__  
-__callow__  
-__whitewash__  
-__whisker__ _n_  
-__victor__ _n_  
-__high-fly__ _v_  
-__bristle__  
-__flare up__ _v_  
-__lunchtime__  
-__preening__ _His preening performance._  
 __winger__ _n_ (soccer)  
 __madness__  
 __sloppy__  

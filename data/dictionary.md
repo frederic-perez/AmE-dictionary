@@ -343,6 +343,7 @@ __SEAL__ _It is something U.S. Navy SEALs do._
 __Sam Browne belt__  
 __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __Saturday__ :mega: /'sæÔødi, -deI/  
+__Scarlett__ (vs scarlet) A female given name transferred from the surname; in general use since 1936.  
 __Scrooge__  
 __Semper fi__ :two::hammer:  
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
@@ -1000,6 +1001,7 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
+__be in a pickle__ _slang_ To be in a troublesome situation.  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
@@ -1361,11 +1363,12 @@ __bookcases__ _n_ :two::hammer:
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
 __bookend__ _n_  
-__bookies__ _n_  
+__bookie__ _n_ _informal_ (bookies) :two: Short for bookmaker.  
 __bookish__  
 __bookmaker__ _n_  
 __bookmobile__  
 __bookplate__  
+__bookrunner__  
 __boom and bust__  
 __boom box__  
 __boomer chains__  
@@ -1383,8 +1386,7 @@ __bootlegger__
 __bop__ _v_  
 __bordello__  
 __bore<sup>1</sup>__ _v_ _Boring a tunnel._  
-__bore<sup>2</sup>__ _n_ _She once was into a stone bore._  
-__bore__ _She just went full bore._  
+__bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
 __boredom__  
 __boring__ _v_ _He began throwing two touchdown passes, boring through traffic._  
 __borne__ _v_ :five::hammer:  
@@ -1490,9 +1492,8 @@ __brisker__
 __brisket__ _n_ :three::hammer:  
 __briskly__  
 __bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
-__bristle<sup>1</sup>__ _n_  
+__bristle<sup>1</sup>__ _n_ :four::hammer: (bristles)  
 __bristle<sup>2</sup>__ _v_ :five: To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
-__bristles__ _n_ :two::hammer:  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
@@ -1691,6 +1692,7 @@ __cacophony__ :two::hammer:
 __cacti__ _n_  
 __cadaver__ _n_ :four::mega:  
 __caddish__ :two::hammer:  
+__cadence__ _n_  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :five::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
@@ -1723,6 +1725,7 @@ __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupat
 __calliopes__  
 __callous__ _adj_ :six::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
+__callow__  
 __calves__  
 __camaraderie__  
 __cameleer__  
@@ -2382,7 +2385,7 @@ __costliest__ :two::hammer:
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
 __cottage__  
-__cotton candy__  
+__cotton candy__ :two::hammer:  
 __cotton dry__  
 __cotton swabs__  
 __couch-ridden__  
@@ -2673,6 +2676,7 @@ __dateline__
 __daub__ _v_ :three::hammer: (daubed) _A swastika was daubed on a science center window._  
 __daunting__ _adj_ :four: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
+__day in and day out__  
 __day job__  
 __daybeds__ _n_  
 __dayglow__  
@@ -3011,7 +3015,7 @@ __doglegs__ _v_
 __dogsled__  
 __doilies__  
 __doings__ _n_  
-__doldrums__  
+__doldrums__ :two::hammer:  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._ _He's still finding his way in terms of doling out minutes._  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
@@ -3765,7 +3769,7 @@ __flanker__ (soccer position)
 __flap__ :two::hammer: _There have been flaps over allowing scouts in press boxes._  
 __flapjack__ _n_  
 __flaps__ _The sound of paper flaps on bicycle spokes._  
-__flare-up__ :two::hammer: (flare-ups)  
+__flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
 __flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
@@ -3868,8 +3872,8 @@ __flushed complexion__
 __fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
-__flutter<sup>2</sup>__ _n_  
 __flutter<sup>1</sup>__ _v_ :seven: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
+__flutter<sup>2</sup>__ _n_  
 __fluttering__ _n_  
 __fly high__  
 __fly in the ointment__ A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
@@ -4061,7 +4065,7 @@ __funereal__ _Funereal tone._
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funny stomach__  
 __furled__ _v_ :two::hammer:  
-__furlong__ _n_ :two: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
+__furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __furnish__ _v_ _To furnish suites of labs._  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
@@ -4736,6 +4740,7 @@ __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and
 __high beams__  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high street__ _n_ _British informal_ :three::hammer:  
+__high-fly__ _v_  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
@@ -5634,6 +5639,8 @@ __litany__ _n_ :four: __1__ _Christianity_ A liturgical prayer consisting of a s
 __literacy__  
 __literate__ :two::hammer:  
 __lithe__ :two::hammer:  
+__lithotripsy__ _n_  
+__lithotripter__ _n_  
 __litigation__  
 __litigator__  
 __litter__ _n_ :camera::pencil2:  
@@ -5748,6 +5755,7 @@ __lunacy__ _n_
 __lunch lady__ _She worked as a lunch lady._  
 __luncheon__ _n_ :five::hammer: Lunch.  
 __lunchpail__  
+__lunchtime__  
 __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into the pen._  
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
@@ -5970,7 +5978,7 @@ __meter__ _n_ _The cab driver waited with the meter running._
 __metheglin__ _n_ :two::hammer:  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
-__mettle__ _n_ :five::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
+__mettle__ _n_ :six::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
 __mick__ _n_ :three::hammer:  
 __mid-afternoon__  
@@ -7204,7 +7212,7 @@ __predicament__
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
-__preen__ _v_ :five::hammer: (preened, preening) _She didn't preen for her grandfather._  
+__preen__ _v_ :six::hammer: (preened, preening) _She didn't preen for her grandfather._  
 __prefab__ _Prefab vacations._  
 __premier__ _adj_  
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
@@ -7987,6 +7995,7 @@ __route__ _n_ :mega:
 __row house__ _n_  
 __rowdy__ _adj_ :six: /ˈraʊdi/ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rowhouse__ _n_  
+__royalties__  
 __rub elbows__ _v_  
 __rub<sup>1</sup>__ _n_ :two::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
 __rub<sup>2</sup>__ _v_  
@@ -8145,7 +8154,7 @@ __scapular__
 __scar__ _v_ _CIA to=ture scarred man's psyche for years._  
 __scarce__ :two::hammer:  
 __scarcely__ :astonished: _The executioner seemed scarcely older than Rob._  
-__scarlet__  
+__scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.  
 __scathing__ _adj_ :nine: Bitterly severe. _His scathing indictment of Congress._  
 __scattershot__ :two::hammer:  
 __scenic__  
@@ -8462,7 +8471,7 @@ __shortcomings__ _n_
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
-__shortlist__ _n_ :two::hammer:  
+__shortlist__ _n_ :three::hammer:  
 __shortlisted__ _v_  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ _Shortly before 8 a.m. Tuesday._  
@@ -8487,7 +8496,7 @@ __showboat__ _v_
 __showcase__ _v_  
 __showdown__ _n_ :six: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showhouse__  
-__showpiece__  
+__showpiece__ :two::hammer:  
 __showroom__ _n_  
 __showrunner__ _n_ :three::hammer: (show runner)  
 __showstopping__ _A showstopping performance._  
@@ -8772,6 +8781,7 @@ __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
 __smog__ :two::hammer:  
+__smoke__ _v_ _This person smokes me._  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_ :seven: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
@@ -8819,7 +8829,7 @@ __sniffed__ _v_ :two::hammer:
 __sniffle__ _v_ (sniffles)  
 __snifter__ _n_ :dart:  
 __snigger__ _n_  
-__sniggering__  
+__sniggering__ _v_ :two::hammer:  
 __snipe__ _v_  
 __snit__ _President Trump responded with a typical Twitter-snit._  
 __snitch__  
@@ -10096,7 +10106,7 @@ __turgid__ _adj_ :three::hammer:
 __turkey drumstick__  
 __turkey stock__ :camera:  
 __turmoil__  
-__turning tables__ _Feds turning the tables on ssexual predators._  
+__turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
 __turnkey__ :two::hammer: _Turnkey property._  
@@ -10392,7 +10402,7 @@ __vicarious__
 __vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
 __victimhood__  
-__victor__ :two::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
+__victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victualling__  
 __victuals__ :two::hammer:  
 __vie__ _v_ :five: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
@@ -10619,13 +10629,13 @@ __whisk broom__
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
 __whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
-__whiskers__  
+__whisker__ _n_ :two::hammer: (whiskers)  
 __whistle-blower__  
 __white elephant__ _n_  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
 __whiteout__  
-__whitewash__ _v_ :two::hammer:  
+__whitewash__ _v_ :three::hammer:  
 __whithered__  
 __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizzing__  
