@@ -1,4 +1,13 @@
 
+__vein__ _Gold vein._  
+__volcano__  
+__hot spring__ (?)  
+__drench__ _v_  
+__cross that bridge__  
+__floored__ _I was completely floored._  
+__bonkers__ _That's bonkers!_  
+__hookup__ _n_  
+
 __winger__ _n_ (soccer)  
 __madness__  
 __sloppy__  
