@@ -1,34 +1,4 @@
 
-__vein__ _Gold vein._  
-__volcano__  
-__hot spring__ (?)  
-__drench__ _v_  
-__cross that bridge__  
-__floored__ _I was completely floored._  
-__bonkers__ _That's bonkers!_  
-__hookup__ _n_  
-
-__winger__ _n_ (soccer)  
-__madness__  
-__sloppy__  
-__step up__  
-__underwhelming__ :astonished:  
-__then again__  
-__utmost__  
-__breather__  
-__pitch__ _n_ (soccer)  
-__draw__ _v_ _We win, lose and draw together._  
-__scintillating__  
-__hatched__ _v_ _A plan hatched during a road trip._  
-__contention__ _Rashford is in contention to start England's second group game._  
-__equalizer__  
-__despondent__  
-__nullify__ _v_  
-__clutch__ _v_ :astonished: _Steve was clutching notes outlining possible line-ups._  
-__fretting__ _v_  
-__impact__ _Sterling struggled to make an impact in the second half._  
-__cap__ _n_ (soccer)  
-__here's looking at you__  
 __teetotaller__  
 __riotous__  
 __shambles__  
