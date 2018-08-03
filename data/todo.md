@@ -1,4 +1,15 @@
 
+__comforters__ _n_  
+__awakening__ _n_  
+__flatter__ _v_ (flattered)  
+__in the works__ _We've got a couple life tapings in the works._  
+__blindsight__ _v_ (blindsighted) (?)  
+__blindfold__ _n_  
+__free fall__ _n_  
+__come to terms__  
+__animosity__  
+__NA__ Narcotics Anonymous. _Go to an NA meeting._  
+
 __teetotaller__  
 __riotous__  
 __shambles__  
