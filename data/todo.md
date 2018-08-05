@@ -1,11 +1,19 @@
 
+__rah-rah__  
+__grumble__ _v_ (?)  
+__emoji__ _n pl_  
+__eye dropper__ _n_  
+__quintessential__  
+__case in point__  
+__abyss__ :mega:  
+
 __reiterate__ _v_  
 __prolog__ _n_  
 __expat__ _n_  
 __segregate__ _v_ _Same building, but segregated schools._  
 __nonchalant__  
 __Irish twins__ _There is real twins and Irish twins._ (?)  
-__scoff_ _v_  
+__scoff__ _v_  
 
 __comforters__ _n_  
 __awakening__ _n_  
