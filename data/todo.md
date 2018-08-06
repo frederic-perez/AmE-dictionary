@@ -1,33 +1,4 @@
 
-__rah-rah__  
-__grumble__ _v_ (?)  
-__emoji__ _n pl_  
-__eye dropper__ _n_  
-__quintessential__  
-__case in point__  
-__abyss__ :mega:  
-
-__reiterate__ _v_  
-__prolog__ _n_  
-__expat__ _n_  
-__segregate__ _v_ _Same building, but segregated schools._  
-__nonchalant__  
-__Irish twins__ _There is real twins and Irish twins._ (?)  
-__scoff__ _v_  
-
-__comforters__ _n_  
-__awakening__ _n_  
-__flatter__ _v_ (flattered)  
-__in the works__ _We've got a couple life tapings in the works._  
-__blindsight__ _v_ (blindsighted) (?)  
-__blindfold__ _n_  
-__free fall__ _n_  
-__come to terms__  
-__animosity__  
-__NA__ Narcotics Anonymous. _Go to an NA meeting._  
-
-__teetotaller__  
-__riotous__  
 __shambles__  
 __one-off__  
 __damning__  

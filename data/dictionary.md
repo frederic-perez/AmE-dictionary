@@ -194,6 +194,7 @@ __IRS__ _n_ :five: _Internal Revenue Service_
 __IT Band__  
 __Illini__ _n_ :three::hammer:  
 __In retrospect,__ (?)  
+__Irish twins__ _There is real twins and Irish twins._  
 __Ivy League__  
 __J-strokes__  
 __Jag__ Jaguar (car)  
@@ -256,6 +257,7 @@ __Muni bus__
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
 __NATO__ _North Atlantic Treaty Organization_  
+__NA__ Narcotics Anonymous. _Go to an NA meeting._  
 __NCO__  
 __NDA__ _abbr_  
 __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
@@ -456,7 +458,7 @@ __abutted__
 __abutting__ _Bungalows abutting._  
 __abuzz__ :two::hammer:  
 __abysmal__  
-__abyss__ _n_ :astonished::mega::four:  
+__abyss__ _n_ :astonished::mega::five:  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accoitrements__  
 __accolade__ _n_ :four: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
@@ -659,7 +661,7 @@ __angsty__ :two::hammer:
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
-__animosity__ _n_ :five: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
+__animosity__ _n_ :six: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :two::hammer: _The animus between the Yankees and Red Sox._  
 __annuity__ (annuities) :two::hammer:  
 __anomic__  
@@ -845,6 +847,7 @@ __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regul
 __avowed__ _v_  
 __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
+__awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__ :two::hammer: _Rob regarded the complex systems with awe._  
 __awestruct__  
@@ -1241,8 +1244,9 @@ __blight<sup>1</sup>__ _n_ :two::hammer:
 __blight<sup>2</sup>__ _v_ :two::hammer: (blighted)  
 __blimp__ :two::hammer: _A blimp hangar._  
 __blind date__  
+__blindfold__ _n_  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
-__blindside<sup>2</sup>__ _v_ :two: (blindsided) To catch off guard; to take by surprise.  
+__blindside<sup>2</sup>__ _v_ :three: (blind side, blindsided) To catch off guard; to take by surprise.  
 __bling__ _n_ :three::hammer:  
 __blink__ _v_ _There is no reason to blink._  
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
@@ -1818,7 +1822,7 @@ __carve out__ _v_ (carved out) :six::hammer:
 __carveouts__  
 __cascading__  
 __case at hand__  
-__case in point__ :two::hammer: _Those comments are a case in point._  
+__case in point__ :three::hammer: _Those comments are a case in point._  
 __case__ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash rebate__  
@@ -2184,12 +2188,12 @@ __come around__
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
 __come to grips__  
-__come to terms__  
+__come to terms__ :two::hammer:  
 __come together__  
 __comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
 __comeuppance__  
 __comforter sets__  
-__comforter__ _n_ :four: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
+__comforter__ _n_ :five: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
 __coming down the pipe__ :dart:  
 __coming up__  
@@ -3344,6 +3348,7 @@ __emerity__ _Faculty emerity._
 __emery__ _n_ :four::hammer: _An emery wheel._ _Emery paper._  
 __emmetropia__ (?)  
 __emo__ _adj_ :two::hammer:  
+__emoji__ _n pl_  
 __emphasis__  
 __emphasize__ _v_ :two::hammer:  
 __empty box__ _The Etihad is the last empty box on his list._  
@@ -3485,7 +3490,7 @@ __exhibit A__
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exodus__  
 __exonerate__ :two::hammer:  
-__expat__ _Baroque debut for Moscow expat choir._  
+__expat__ _n_ :two::hammer: _Baroque debut for Moscow expat choir._  
 __expediency__  
 __expedient__  
 __expedite__ _v_ :dart::six::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
@@ -3510,6 +3515,7 @@ __extraneous__
 __extremes__  
 __extricate__ _v_ :five::hammer: (extricated) _Rescue crews extricated him from the car._  
 __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
+__eye dropper__ _n_  
 __eye mask__ (to sleep)  
 __eye patch__  
 __eye raiser__  
@@ -3785,6 +3791,7 @@ __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by an
 __flat__ _Kaufusi's jump to BYU football proves critics flat wrong._  
 __flatbread__ :two::hammer: _Flatbread sandwiches._  
 __flats__ _n_  
+__flatter__ _v_ (flattered)  
 __flatware coins__  
 __flatware__ _n_  
 __flaunt__ _v_  
@@ -4000,6 +4007,7 @@ __frazzled<sup>2</sup>__ _v_
 __freak out<sup>1</sup>__ _n_ :two: (freak-out)  
 __freak out<sup>2</sup>__ _v_  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
+__free fall__ _n_  
 __free lunch__  
 __free ride__  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
@@ -4431,8 +4439,7 @@ __grueling__ _adj_ :three: Physically or mentally demanding to the point of exha
 __gruelling__  
 __gruff__ _adj_ :three::hammer:  
 __gruffly__  
-__grumble__ _v_ :four::hammer: (grumbled)  
-__grumbling__  
+__grumble__ _v_ :six::hammer: (grumbled, grumbling)  
 __grumblings__  
 __grungy__ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
@@ -5034,6 +5041,7 @@ __in the nude__ _Sleeping in the nude._
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the thick (of it)__ :three::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the water__ _There's nothing in the water here._  
+__in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _In-house experts._  
@@ -6347,7 +6355,7 @@ __non-denominational__ _Non-denominational services._
 __non-exempt__ _Non-exempt position._  
 __non-perishables__  
 __nonce__  
-__nonchalant__ _adj_ :four::hammer:  
+__nonchalant__ _adj_ :five::hammer:  
 __nonchalantly__  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :three::hammer:  
@@ -7300,7 +7308,7 @@ __profligate<sup>2</sup>__ _n_ :two::hammer:
 __profoundly__  
 __profusion__  
 __prohibit__  
-__prolog__ _n_  
+__prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __prominence__  
 __prominent__ _adj_ :four::hammer: _Package carrying a prominent warning._  
@@ -7485,7 +7493,7 @@ __quilting__ _Quilting bee._
 __quince__ :pencil2: _Quince preserves._  
 __quinoa__ :two::hammer:  
 __quinsy__  
-__quintessential__ _adj_ :three::hammer:  
+__quintessential__ _adj_ :four::hammer:  
 __quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
@@ -7529,6 +7537,7 @@ __raged__ _v_
 __raging bull__ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker's dream._  
 __ragtag__ :two::hammer: _A ragtag group._  
+__rah-rah__  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
 __rail<sup>2</sup>__ _v_ :three::hammer: (railed) _He is railing against Medicaid._  
 __raiment__ _n_ :two::hammer:  
@@ -7732,6 +7741,7 @@ __reign__ _n_
 __reimagining__ _n_  
 __reinstate__ _v_ :two::hammer:  
 __reinstatement__  
+__reiterate__ _v_  
 __rejigged__ _v_  
 __rejiggered__  
 __rejoice__ _v_  
@@ -7898,6 +7908,7 @@ __ringlets__
 __ringmaster__  
 __ringside__  
 __rink__ _n_  
+__riotous__  
 __rip your wiring out__  
 __rip__ _The bullets rip._  
 __riparian__ _Riparian woodland._  
@@ -8183,7 +8194,7 @@ __scintillating__ _adj_ :three::hammer:
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
 __scleroderma__  
-__scoff__ _v_ :six: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scoff__ _v_ :seven: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
@@ -8286,6 +8297,7 @@ __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, com
 __seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
 __seethe__ _v_ :nine::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
+__segregate__ _v_ _Same building, but segregated schools._  
 __segue__ _v_ :five::pencil2::mega::hammer:  
 __seize__ _v_ :four::hammer: (seizing) _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
@@ -9672,6 +9684,7 @@ __tee up__ _v_
 __teeing up__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :eight: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
+__teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
 __telegenic__  
 __televangelist__ _n_  
 __televised__  
