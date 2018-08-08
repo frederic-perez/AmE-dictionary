@@ -1,33 +1,4 @@
 
-__cop out__ (?)  
-__compost__ _v_  
-__uproar__ _n_  
-__co-sleeping__ (?)  
-__frolic__ _v_  
-__cavort__ (?)  
-__buzzkill__  
-__expat__ (?)  
-__blooper__ _n_  
-__thingy__  
-__chide__ _v_  
-
-__parcel__ _n_ _Never miss a visitor or parcel._  
-__spell__ _Dry with clear spells, but cloudy later._  
-__despair__ _n_  
-__undermine__ _v_  
-__go to the wire__  
-__mooted__  
-__Three Lions__ _A message to the Three Lions._  
-__send-of__  
-__scrappy__ _They are young, scrapoyband hungry._  
-__clampdown__  
-__frontrunner__ _n_  
-__bookmarker__ _n_  
-__shortlist__ _A women-only shortlist._  
-__partisan__  
-__unfazed__  
-__half sibling__  
-__beanstalk__ _Jack and the Beanstalk._  
 __animosity__  
 __tracksuit__ _n_  
 __knuckle duster__ _Thugs armed with a knuckle duster._  

@@ -391,6 +391,7 @@ __Texas Panhandle__
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
 __That being said,__  
 __Then again,__  
+__Three Lions__ _A message to the Three Lions._  
 __Thursday__ :mega: /'θøzdi, -deI/  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __Tijuana special__  
@@ -1013,7 +1014,7 @@ __bean bag chair__
 __bean__ _v_ _She beans him with a decanter._  
 __beanie__ _n_ :camera::dart:  
 __beanpole__  
-__beanstalks__  
+__beanstalk__ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _n_ :three::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
@@ -1266,7 +1267,7 @@ __blood-expander__
 __blooker__ :two::hammer:  
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
-__blooper__ _n informal_ :two::dart: A clumsy mistake, especially one made in public; a faux pas.  
+__blooper__ _n informal_ :three::dart: A clumsy mistake, especially one made in public; a faux pas.  
 __blotched__ _v_  
 __blotches__ _n_  
 __blotter__ _n_ :five: __1__ Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
@@ -1371,6 +1372,7 @@ __bookend__ _n_
 __bookie__ _n_ _informal_ (bookies) :two: Short for bookmaker.  
 __bookish__  
 __bookmaker__ _n_  
+__bookmarker__ _n_  
 __bookmobile__  
 __bookplate__  
 __bookrunner__  
@@ -1664,7 +1666,7 @@ __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
 __buzzer__ _Durent Durent missed a floater at the buzzer._  
-__buzzkill__  
+__buzzkill__ :two::hammer:  
 __buzzword__  
 __by all accounts__ _idiom_ :dart::three::hammer: From all the reports [that are available]; according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means,__  
@@ -1875,7 +1877,7 @@ __caulking__
 __causeway__ _n_ :five::hammer:  
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
-__cavort__ _v_ :three::hammer: _Animals cavorting._  
+__cavort__ _v_ :four::hammer: _Animals cavorting._  
 __caw__ (caws) :two::hammer: _A rattling caw._  
 __cawed__ _v_ :two::hammer: (cawing)  
 __ce__  
@@ -1970,7 +1972,7 @@ __chicken wire__
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chicklit__ _A chicklit satire._  
 __chickpea__ _n_ :two::hammer: (chickpeas) _A handful of chickpeas._  
-__chided__ _v_ :six::hammer: (chiding) _Whe chided the Pentagon._  
+__chide__ _v_ :seven::hammer: (chided, chiding) _Whe chided the Pentagon._  
 __chilblain__ _n_ :three: (chilblains) An inflammation followed by itchy irritation on the hands, feet, or ears, resulting from exposure to moist cold. :es: sabañones  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
@@ -2044,7 +2046,7 @@ __clam up__ _v_
 __clambake__ _n_  
 __clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
 __clammy__ :two::hammer:  
-__clampdown__ :two::hammer:  
+__clampdown__ _n_ :three::hammer:  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clang__ _v_  
@@ -2137,6 +2139,7 @@ __clyster__ _n_ :two::hammer: (clysters)
 __co-op__ _n_ :nine: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
 __co-opted__ _v_  
 __co-pilot__ _n_ A relief pilot on an airplane.  
+__co-sleeping__  
 __coach cabin__ _A standard coach cabin._  
 __coach__ _You're flying coach._  
 __coalesce__ _v_ :pencil2::three::hammer: (coalescing) :es: fundirse  
@@ -2231,6 +2234,7 @@ __complicit__
 __complimentary__ :pencil2: _Notice the complimentary nature of the two deﬁnitions._  
 __comply__ _v_  
 __composite decking__  
+__compost__ _v_  
 __composting__ _There's a brown bin for organic waste, which goes for composting._  
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__ _Compounding the situation._  
@@ -2347,7 +2351,7 @@ __cooper__ _n_ :pencil2:
 __coops__ _Chicken coops._  
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
-__cop out__ _v_ :three: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop out__ _v_ :four: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :five: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
@@ -2829,6 +2833,7 @@ __desecration__ _n_ :two::hammer:
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
+__despair__ _n_  
 __despicable__  
 __despoil__ _v_  
 __despoiling__  
@@ -3495,7 +3500,7 @@ __exhibit A__
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exodus__  
 __exonerate__ :two::hammer:  
-__expat__ _n_ :two::hammer: _Baroque debut for Moscow expat choir._  
+__expat__ _n_ _Chiefly British_ :three: An expatriate. _Baroque debut for Moscow expat choir._  
 __expediency__  
 __expedient__  
 __expedite__ _v_ :dart::six::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
@@ -4041,15 +4046,14 @@ __frizzled__ _Frizzled beard._
 __frock__  
 __frogman__ _n_  
 __frolic<sup>1</sup>__ _n_ :three::hammer:  
-__frolic<sup>2</sup>__ _v_ (frolicked)  
+__frolic<sup>2</sup>__ _v_ :two::hammer: (frolicked)  
 __from afar__  
 __from the git-go__  
 __from the rooter to the rooter__  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front and center__ :two::hammer:  
 __front man__  
-__front-runner__ _n_  
-__frontrunner__  
+__front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
 __frostbite__ :two::hammer:  
 __frosted silver__  
@@ -4284,6 +4288,7 @@ __go over the top__
 __go south__ _idiom_ :three::hammer: _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
 __go to the dogs__  
+__go to the wire__  
 __go-ahead goal__  
 __go-for-broke__  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
@@ -4531,6 +4536,7 @@ __hairline__
 __haking__  
 __halcyon__ _Halcyon time of romance._  
 __hale__ _A real hale-and-hearty type with a warm smile._  
+__half sibling__  
 __half-baked__ _A half-baked plan to launch a start-up._  
 __half-wits__  
 __halfback__  
@@ -6134,8 +6140,8 @@ __moonshine<sup>2</sup>__ _v_
 __moonshot__ _n_ :two: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
-__moot__ _adj_ :seven: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
-__mooted__ :two::hammer: _A mooted rebellion._  
+__moot<sup>1</sup>__ _adj_ :seven: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot<sup>2</sup>__ _v_ :three::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
 __mopping up__  
@@ -6728,7 +6734,7 @@ __paralysis__ _n_ :mega:
 __paralyzed__ _v_ :pencil2:  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __parasailing__  
-__parcel<sup>1</sup>__ _n_ :three::hammer: _It is part and parcel of overturning obstacles._  
+__parcel<sup>1</sup>__ _n_ :four::hammer: _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _The dryness will encompass parched California._  
 __parchment paper__ :camera:  
@@ -6757,8 +6763,7 @@ __parted hair__ _Diaz wore parted hair._
 __parted__ _Slightly parted lips._  
 __participatory__ _I wanted to be a participatory father._  
 __particle board__  
-__partisan__ _A partisan atmosphere._  
-__partisans__ _n_  
+__partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
 __partridge__ _n_ :two::hammer:  
 __party poppers__  
 __party__ _n_  
@@ -8227,7 +8232,7 @@ __scrap<sup>1</sup>__ _n_ :two::hammer: _He might have to look beyond the 125-po
 __scrap<sup>2</sup>__ _v_ :eight: (scraps, scrapped) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._  
 __scrap__ _v_ :four::hammer: (scrapped, scrapping) _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrapper__  
-__scrappy__ _A scrappy industrial city._  
+__scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scrawl__ _v_ :two::hammer: (scrawled)  
 __scrawny__ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
@@ -8332,6 +8337,7 @@ __semester__ A semester is half of a school year. In September of your first yea
 __semi-finished__ _Semi-finished lens._  
 __seminal__ _adj_ _That was a seminal game._  
 __seminoles__  
+__send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __sensible__ :two::hammer: _This C++ contructor has sensible default values._  
 __sentience__  
@@ -8498,7 +8504,7 @@ __shortcomings__ _n_
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
-__shortlist__ _n_ :three::hammer:  
+__shortlist__ _n_ :four::hammer: _A women-only shortlist._  
 __shortlisted__ _v_  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ _Shortly before 8 a.m. Tuesday._  
@@ -8997,7 +9003,7 @@ __speculate__ _v_
 __speculoos__ _Speculoss Belgian biscuits._  
 __speed demon__  
 __speed-dial__ _v_  
-__spell__  
+__spell__ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbound__ _adj_  
 __spendolie__  
 __spent rocket stages__ :camera:  
@@ -9779,6 +9785,7 @@ __thespian__ :two::hammer:
 __thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
 __thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
+__thingy__  
 __think tank__ _n_ :five::hammer:  
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
@@ -10221,6 +10228,7 @@ __undercurrent__
 __undercut__ _v_ :five::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
+__undermine__ _v_  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  
@@ -10246,7 +10254,7 @@ __unearth__ _v_ :three::hammer: (unearthed)
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__ _v_ :four::hammer: _They are unfazed by all fof this._  
+__unfazed__ _v_ :five::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
@@ -10323,6 +10331,7 @@ __uppermost__
 __uppers__  
 __upping__ _v_ :two::hammer:  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
+__uproar__ _n_  
 __uproot__ _v_  
 __upsale__ _n_ (?)  
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
