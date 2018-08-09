@@ -1,33 +1,4 @@
 
-__animosity__  
-__tracksuit__ _n_  
-__knuckle duster__ _Thugs armed with a knuckle duster._  
-__fetch__ _v_ _The drawing is expected to fetch £500,000._  
-__hail__ _v_ (hailed)  
-__inset__  
-__inquest__ _n_  
-__disrupt__ _v_ _A Trump supporter disrupted a Broadway musical._  
-__cormorants__  
-__tat__ _n_  
-__afterglow__  
-__jettison__ _v_  
-__topsy-turvy__ _adj_  
-__paean__ _n_  
-__upward__  
-__rummaging__  
-__unabashed__  
-__treachery__  
-
-__overly__  
-__foundered__ _v_  
-__kybosh__ _v_  
-__fundraiser__ _They were at a fundraiser._  
-__gloating__  
-__deprived__ _A very deprived area._  
-__untapped__ _Untapped talent._  
-__scuffle__ _n_  
-__petty__ _A petty argument resulted in her son's murder._  
-__pendant__ _n_  
 __utterly__ :two::hammer: _An utterly trivial dispute._  
 __goading__ _v_  
 __twiddle__ _v_  
