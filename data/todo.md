@@ -1,4 +1,15 @@
 
+__ding__ _v_ _They were dinging me on their way out._  
+__finger in the pulse__ _But then my finger is in the pulse._  
+__riff__ _v_  
+__newbie__ _n_ (newbies)  
+__elope__ _v_  
+__pelt__ _v_  
+__dreamy__  
+__handsy__ (?)  
+__nerve-racking__ _adj_  
+__abs__ _n_  
+
 __utterly__ :two::hammer: _An utterly trivial dispute._  
 __goading__ _v_  
 __twiddle__ _v_  
