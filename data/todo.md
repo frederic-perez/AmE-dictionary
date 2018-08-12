@@ -1,4 +1,13 @@
 
+__issue__ _v_  
+__of a kind__ _You are two of a kind._  
+__sorbet__ _n_ :mega:  
+__egg white__  
+__bunch__ _n_ _Bunches of grapes._  
+__hauler__ _n_  
+__roost__ _v_  
+__peek-a-view__  
+
 __thick accent__ _Arnold's accent is getting thicker._  
 __sprinkle__ _v_ _Sprinkling his ashes._  
 __sprinkler__ _n_  
