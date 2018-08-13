@@ -1,4 +1,12 @@
 
+__lemon__ _n_ _This house is a lemon, honey._  
+__sacrosanct__  
+__C-suite__ _C-suite staff._  
+__outtatime__ (?)  
+__prioritize__ _v_  
+__Tempranillo__  
+__trespass__ _v_ _No trespassing._  
+
 __issue__ _v_  
 __of a kind__ _You are two of a kind._  
 __sorbet__ _n_ :mega:  
