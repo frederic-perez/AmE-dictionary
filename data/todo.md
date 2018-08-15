@@ -1,4 +1,12 @@
 
+__admin__ _I was doing just admin stuff._  
+__scale up__ _v_ _That's the challenge of scaling up._  
+__toil__ _n_  
+__vernacular__  
+__minutia__ (?)  
+__reinstate__ _n_  
+__quibble__ _n_ :dart: A small objection or criticism.  
+
 __slander__ _v_  
 __traduce__ _v_ :astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __devastate__ _v_  
