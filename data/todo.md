@@ -1,4 +1,13 @@
 
+__cubbyhole__ _n_ (cubby-hole)  
+__appalled__  
+__gaunt__ _adj_  
+__enunciation__  
+__garnets__ _n_  
+__slip__ _A slip of paper._  
+__mild__ _A mild day in October._  
+__indigenous__ _Indigenous people._  
+
 __admin__ _I was doing just admin stuff._  
 __scale up__ _v_ _That's the challenge of scaling up._  
 __toil__ _n_  
