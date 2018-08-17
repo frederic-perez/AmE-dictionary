@@ -1,4 +1,15 @@
 
+__lift__ _n_ _I could give you a lift home._  
+__pathologist__ _n_  
+__gulp__ _n_ _Sobs and gulps._  
+__tingle__ _v_  
+__sash__ _A sash cord._  
+__arm bands__ _n_ :es: manguitos  
+__obi__ _n_  
+__cottage__  
+__impassively__  
+__gruff__  
+
 __cubbyhole__ _n_ (cubby-hole)  
 __appalled__  
 __gaunt__ _adj_  
