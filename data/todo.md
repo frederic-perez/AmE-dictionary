@@ -1,4 +1,13 @@
 
+__wag__ _v_ _The puppy was wagging its tail._  
+__sequins__ _n_  
+__keep tabs__ _I don't keep tabs on him._  
+__yapping__ _v_  
+__haggis__  
+__preen__  
+__encumbrance__  
+__callous__  
+
 __lift__ _n_ _I could give you a lift home._  
 __pathologist__ _n_  
 __gulp__ _n_ _Sobs and gulps._  
