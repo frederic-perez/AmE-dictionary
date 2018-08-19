@@ -1,4 +1,13 @@
 
+__queer as folk__ _There's newt so queer as folk._  
+__cavorted__ _v_  
+__snub__ _n_  
+__mosque__ _n_  
+__Swahili__  
+__soul__ _n_ :mega:  
+__hackneyed__ _The hackneyed metaphor made him smile._  
+__supercilious__  
+
 __wag__ _v_ _The puppy was wagging its tail._  
 __sequins__ _n_  
 __keep tabs__ _I don't keep tabs on him._  
