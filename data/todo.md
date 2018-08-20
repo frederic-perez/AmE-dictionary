@@ -1,4 +1,14 @@
 
+__cud__ _n_  
+__rejoinder__ _n_  
+__galoshes__ _n_  
+__add up__ _The whole thing doesn't add up._  
+__spire__ _n_ _A church spire._  
+__verge__ _n_  
+__watchword__ _n_  
+__apostrophe__  
+__accord__ _Its own accord._  
+
 __queer as folk__ _There's newt so queer as folk._  
 __cavorted__ _v_  
 __snub__ _n_  
