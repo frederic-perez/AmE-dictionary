@@ -1,4 +1,25 @@
 
+__sauntered__ _v_  
+__seared__ _v_  
+__grapple__ _v_  
+__buyout__ _n_  
+__demurely__  
+__transient__ _One of the more transient jobs at the paper._  
+__unethically__ _He had acted unethically and for that I could never trust him as editor._  
+__venison__ _n_  
+__denizens__ _n_  
+__profanity__  
+__chasm__ _n_  
+__lowly__ _The lowly news reporter._  
+__berated__ _v_  
+__pushover__ _He wasn't a pushover._  
+__nonchalantly__  
+__notwithstanding__  
+__tarps__ _n_ _Blue tarps tied over leaky roofs._  
+__commiserate__ _v_  
+__the big three-oh__  
+__bogart__ _v_  
+
 __cud__ _n_  
 __rejoinder__ _n_  
 __galoshes__ _n_  
