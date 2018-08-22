@@ -1,4 +1,23 @@
 
+__prescient__  
+__caliper__ _n_  
+__abasiophilia__ _n_  
+__wistful__  
+__ominous__  
+__Salvation Army__  
+__trip wire__ _You hit a trip wire._  
+__Magic Marker__  
+__cellophane__  
+__begrudgingly__  
+__intently__  
+__custody__ _Finally my house returned to my custody._  
+__parlayed__ _v_  
+__cool your jets__  
+__wander__ _v_  
+__far-fetched__  
+__etch__ _v_  
+__acolyte__  
+
 __sauntered__ _v_  
 __seared__ _v_  
 __grapple__ _v_  
