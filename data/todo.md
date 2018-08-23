@@ -1,4 +1,18 @@
 
+__maxed out__ _v_ _The suitcase was maxed out._  
+__duffel bag__  
+__outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
+__bustling__ _A bustling place._  
+__headway__ _n_ _Yesterday I made a lot of headway._  
+__undisturbed__ _v_  
+__trudging in__ _v_  
+__squiring__ _v_  
+__hapless__  
+__gallon jug__ _Gallon jugs of water._  
+__paraphilia__  
+__zero in__ _v_ _I zeroed in on the first item._  
+__expunged__ _v_  
+
 __prescient__  
 __caliper__ _n_  
 __abasiophilia__ _n_  
