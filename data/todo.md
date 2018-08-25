@@ -1,4 +1,24 @@
 
+__dog and pony show__  
+__surreptitiously__  
+__commingled__ _v_  
+__safe and sound__  
+__impregnable__  
+__rebar__ _n_  
+__respirator__ (breathing mask?)  
+__to be at sea__  
+__capitulated__ _v_  
+__sly__ _Sometimes it takes a sly fox to catch a sly fox._  
+__vetted__ _v_  
+__wishful thinking__  
+__curtly__ _"I don't know," she said curtly._  
+__finesse__  
+__indispensable__  
+__kick sand in the air__  
+__famished__  
+__punch out__ _v_  
+__squirming__ _v_ _Squirming like a toad._  
+
 __data colocation__  
 __ruse__ _n_  
 __round-trip__ _A round-trip ticket._  
