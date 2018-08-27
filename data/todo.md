@@ -1,23 +1,4 @@
 
-__motocyclist__ _n_  
-__full-mask helmet__ _n_  
-__lashed__ _v_  
-__bungee cord__ _n_  
-__refuse__ _n_  
-__Geiger__ _A Geiger counter._  
-__slyly__ :astonished: _She smiled slyly._  
-__riffed__ _v_  
-__getaway__ _n_  
-__entitle__ _v_ _They are entitled to know that._  
-__commandeered__ _v_ :astonished:  
-__hedging__ _n_  
-__second-guess__ _v_  
-__per diem__  
-__nine yards__ (the whole nine yards)  
-
-__dog and pony show__  
-__surreptitiously__  
-__commingled__ _v_  
 __safe and sound__  
 __impregnable__  
 __rebar__ _n_  

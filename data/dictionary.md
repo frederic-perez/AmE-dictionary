@@ -148,6 +148,7 @@ __Gabor__ :mega:
 __Ganjapreneur__  
 __Garden of Gethsemane__  
 __Gatling gun__ _n_  
+__Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __Generation Xers__  
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
@@ -1597,7 +1598,7 @@ __bun__ _n_
 __bunch__ _v_ :camera::five::hammer: (bunched) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
 __bunching socks__ :camera:  
 __bungalow__  
-__bungee cord__ _n_ :camera::two::hammer:  
+__bungee cord__ _n_ :camera::three::hammer:  
 __bungee rope__  
 __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to frame a guilty man._  
 __bungler__ :two::hammer: _Upper-crust bunglers._  
@@ -2208,11 +2209,12 @@ __coming up__
 __coming-of-age__ _A coming-of-age story._  
 __comity__  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
+__commandeered__ _v_ :astonished:  
 __commend__ _v_ (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :two::hammer: (commendations) _He earned two commendation medals._  
 __commentary__  
-__commingled__ :two::hammer:  
+__commingled__ _v_ :three::hammer:  
 __commiserate__ _v_  
 __commission<sup>1</sup>__ _v_ :astonished::eight: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
@@ -3020,7 +3022,7 @@ __doff__ _v_ (doffing) :two::hammer: _Doff his hat._
 __dog days__  
 __dog sledding__  
 __dog tag__  
-__dog-and-pony show__  
+__dog-and-pony show__ _idiom_ :two::hammer: (dog and pony show)  
 __dog-ear__  
 __dog-eat-dog__ _It is not dog-eat-dog here._  
 __dog__ _v_ :four::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
@@ -3411,7 +3413,7 @@ __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate:
 __enthuse__ _v_ :five::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __enticing__  
-__entitled__ :two::hammer: _We are soft, entitled, and scared of conflict._  
+__entitle__ _v_ :three::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ :two::hammer: :es: séquito  
 __entrant__ :astonished:  
@@ -4078,6 +4080,7 @@ __fulfilling__
 __full-blown__  
 __full-bodied__ :two::hammer:  
 __full-fledged__ :two::hammer: _Full-fledged work._  
+__full-mask helmet__ _n_  
 __fullbacks__ _n_  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumbling__ _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -4214,7 +4217,7 @@ __get stops__ :two::hammer:
 __get the middle finger__  
 __get-go__ :three::hammer: _They wanted him to be Superman from the get-go._  
 __getaway day__  
-__getaways__ _n_ :two::hammer: _Weekend getaways._  
+__getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :five::hammer:  
 __ghoul__ _n_ :three::hammer:  
 __gibbet__ _n_  
@@ -4706,7 +4709,7 @@ __hectic__ _adj_ :five::hammer:
 __hector__ _v_ _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
-__hedge<sup>2</sup>__ _v_  
+__hedge<sup>2</sup>__ _v_ :two::hammer: (hedging)  
 __hedonic__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
 __heed__ _v_ :seven: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
@@ -5490,6 +5493,7 @@ __larger-than-life__ _fig_ :four: More interesting and more exciting than an ord
 __lark__ :two::hammer:  
 __laser wall__  
 __lash out__ :two::hammer:  
+__lashed__ _v_  
 __lashing out__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
 __lassitude__  
@@ -6179,6 +6183,7 @@ __motifs__ _n_
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motion__ _Defense attorneys had filed motions._  
 __motley__ _adj_ :six: If you've encountered the word motley, it's most likely in the phrase "motley crew," which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. _Motley crew._ _A motley collection._  
+__motocyclist__ _n_  
 __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
 __motoring__  
@@ -6351,6 +6356,7 @@ __nightmarish__ :two::hammer:
 __nihilistic__  
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
+__nine yards__ (the whole nine yards)  
 __nineloss__ ?  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :four::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
@@ -6870,6 +6876,7 @@ __pep<sup>2</sup>__ _v_ (pepping)
 __pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
+__per diem__  
 __percentile__ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :three::hammer:  
@@ -7749,6 +7756,7 @@ __refrain<sup>1</sup>__ _n_ :four::hammer::astonished:
 __refrain<sup>2</sup>__ _v_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__  
+__refuse__ _n_  
 __regal__ _n_ :four: Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country. _Despite his homely perch Robert felt regal._  
 __regaled__  
 __regalia__ _n_ :two::hammer:  
@@ -7908,8 +7916,8 @@ __riddle<sup>1</sup>__ _n_ :three::hammer: _The Mad Tea-Party in Alice's Adventu
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
 __ridership__ :two::hammer:  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
-__riff__ _n_ :two::hammer:  
-__riffing__ _v_  
+__riff<sup>1</sup>__ _n_ :two::hammer:  
+__riff<sup>2</sup>__ _v_ :two::hammer: (rif, riffed, riffing)  
 __riffle__ _v_ :three::hammer: (riffled) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
 __riffs__ _v_ :two::hammer:  
@@ -8298,7 +8306,7 @@ __seaside__
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
 __seaweed__ :two::hammer:  
-__second-guess__ _v_ :four::dart: (second-guessing)  
+__second-guess__ _v_ :five::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ :two::hammer:  
 __secular__ :two::hammer:  
@@ -8793,6 +8801,7 @@ __slush__ _n_ :two::hammer: _The offshore ice and slush._
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :eight: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
+__slyly__ :astonished: _She smiled slyly._  
 __smack__ _v_ :two::hammer: _He smacked his lips._  
 __small fry__ _adj_ (small-fry) Lacking importance.  
 __small potatoes__ _informal_ Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
@@ -9516,7 +9525,7 @@ __surmount__ _v_ :two::hammer: (surmounted)
 __surname__ :two::mega::hammer:  
 __surplice__ _n_  
 __surprise surprise__  
-__surreptitiously__ :two::hammer:  
+__surreptitiously__ _adj_ :three::hammer:  
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  
 __suspensers__ _Firehouse suspenders_  
