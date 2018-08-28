@@ -1776,6 +1776,7 @@ __caper<sup>1</sup>__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous e
 __caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
+__capitulated__ _v_  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
 __capons__  
@@ -2184,6 +2185,7 @@ __collarbone__ _n_ :three: The clavicle.
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collude__ _v_  
 __collusion__ _n_ :five::hammer:  
+__colocation > data colocation__  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
@@ -2624,7 +2626,7 @@ __cursory__ _adj_ :five: Performed with haste and scant attention to detail: _a 
 __curt__ _His curt answer._  
 __curtail__ _v_ :nine: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
 __curtailment__  
-__curtly__  
+__curtly__ :two::hammer: _"I don't know," she said curtly._  
 __curveball__ _informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
 __cushy__ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
@@ -3588,6 +3590,7 @@ __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's
 __familiar__ _No, I'm not familiar._  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _It could be feasst or famine._  
+__famished__  
 __fanbase__ _n_ :astonished:  
 __fanciful__  
 __fancy-schmancy__  
@@ -3728,7 +3731,8 @@ __fine print__
 __fine-tune__ _v_  
 __fine__ _That's a very fine line._  
 __finery__  
-__finesse__ _v_  
+__finesse<sup>1</sup>__ _n_  
+__finesse<sup>2</sup>__ _v_  
 __finest hour__ :astonished:  
 __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger-waggers__  
@@ -5041,6 +5045,7 @@ __implausible__
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __impound__ _v_ :two::hammer: _The Ponticac was impounded._  
 __imprecation__ _n_ :two: A curse.  
+__impregnable__ _adj_ Immune to attack; incapable of being tampered with.  
 __impression__ _n_ :two::hammer:  
 __imprint<sup>1</sup>__ _n_  
 __imprint<sup>2</sup>__ _v_  
@@ -5109,6 +5114,7 @@ __indenture__ _v_
 __indentured__  
 __indict__ _v_ :five::hammer: (indicted)  
 __indictment__ _n_ :four::hammer:  
+__indispensable__  
 __indomitable__ :two::hammer: _Indomitable will._  
 __inducements__  
 __induct__  
@@ -5360,6 +5366,7 @@ __kibbutz__
 __kibitz__ _v_  
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
+__kick sand in the air__  
 __kick the bucket__  
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children's game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
@@ -7426,6 +7433,7 @@ __pulse__ _n_ _A basket of pulse._
 __pummel__ _v_ :five::hammer: (pummeled)  
 __pump__ _n_ :two::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pun__ :es: juego de palabras  
+__punch out__ _v_  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
 __punctuate__  
@@ -7685,6 +7693,7 @@ __ream<sup>2</sup>__ _n_ :pencil2::two::hammer: (reams) _He watched reams on tap
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
 __reasonable__  
+__rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a grid of such bars.  
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
@@ -7847,6 +7856,7 @@ __resist<sup>2</sup>__ _n_ _Water resist wristwatch._
 __resistance__  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__  
+__respirator__ _n_  
 __respite__ _n_ :six: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __resplendent__  
 __respondent__ _n_ :three::hammer: (respondents)  
@@ -8090,7 +8100,7 @@ __runs from (date) to (date)__ _The 45-day review period runs from November 16, 
 __runs me off__  
 __runt__  
 __ruptured__ _v_ _He ruptured his Achilles._  
-__ruse__ _n_ :three::hammer: (ruses)  
+__ruse__ _n_ :four::hammer: (ruses)  
 __rustle up__ _v_  
 __rustle__ _v_ :four::hammer: (rustled, rustling) _To rustle up a dinner for 12._  
 __rut__ :two::hammer: _Some guy with rut for brains._  
@@ -8104,6 +8114,7 @@ __sacristy__ _n_
 __saddle__ _A saddle of meat._  
 __sadism__ _n_  
 __sadistic__ _adj_  
+__safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safeguard__  
 __safekeeping__  
 __safety net__  
@@ -8800,7 +8811,7 @@ __slurp__ _v_ :three::hammer: _Whitey sucked his soda through a straw until it s
 __slush__ _n_ :two::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
-__sly__ _adj_ :eight: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ :es: astuto; malicioso  
+__sly__ _adj_ :nine: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyly__ :astonished: _She smiled slyly._  
 __smack__ _v_ :two::hammer: _He smacked his lips._  
 __small fry__ _adj_ (small-fry) Lacking importance.  
@@ -9144,7 +9155,7 @@ __squelched__ _v_
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2:  
-__squirm<sup>1</sup>__ _v_ :five::hammer: _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :six::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squishing__  
@@ -9918,6 +9929,7 @@ __tittle__ _n_ :pencil2: A very small part.
 __tix__ Tickets?  
 __tixker__  
 __tizzy__  
+__to be at sea__  
 __to be in someone's shoes__ _Nobody has been in my shoes._  
 __to be in the clear__  
 __to date__ :two::hammer: _To date, no winners have attended._  
@@ -10451,7 +10463,7 @@ __vested interest__ A ​strong ​personal ​interest in something because you
 __vestibule__ :mega:  
 __vesting__ _The vesting date._  
 __veto__ _v_  
-__vetted__ _v_ :two::hammer:  
+__vetted__ _v_ :three::hammer:  
 __vetting__  
 __vexed__ _v_  
 __vexing__ :two::hammer: _Vexing problem._  
@@ -10775,7 +10787,7 @@ __wisdom tooth__
 __wisecracks__  
 __wish list__ _n_ :two::hammer: _The community's wish list._ _A $100 million wish list._  
 __wishbone__  
-__wishful thinking__  
+__wishful thinking__ :two::hammer:  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
