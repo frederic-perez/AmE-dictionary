@@ -1,4 +1,21 @@
 
+__vicious__ _He's a gifted hacker and vicious troll._  
+__troll__ _He's a gifted hacker and vicious troll._  
+__primer__  
+__yada, yada, yada__  
+__terry__ _A terry cloth belt._  
+__sconce__ _v_  
+__yelped__ _v_  
+__caroming__ _v_  
+__inanity__ _n_  
+__saying__ _n_  
+__fielding__ _v_ _Fielding offers._  
+__pastures__ _n_  
+__nondescript__  
+__case in point__  
+__brooding__ _v_ _I was brooding._  
+__deluge__  
+
 __round-trip__ _A round-trip ticket._  
 __roller bag__  
 __charade__ _n_  
