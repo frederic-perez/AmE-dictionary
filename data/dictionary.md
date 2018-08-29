@@ -1524,7 +1524,8 @@ __bronco__ _n_ :camera:
 __broncobusting__  
 __brood__ _n_  
 __brooder house__  
-__brooding__ _adj, n_ :seven: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
+__brooding<sup>1</sup>__ _adj, n_ :seven: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
+__brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
 __broth__  
 __brothers in arms__  
@@ -1807,9 +1808,8 @@ __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove 
 __carnie man__ Carnival man?  
 __carol__ _v_ (caroling) (vs Christmas carol)  
 __carolers__ _n_  
-__carom__ _v_  
-__caromed__ _v_ :three::hammer: (caroming)  
-__caroms__  
+__carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
+__carom<sup>2</sup>__ _n_ (caroms)  
 __carousel__  
 __carousing__ _v_  
 __carpet bombing__  
@@ -1830,7 +1830,7 @@ __carve out__ _v_ (carved out) :six::hammer:
 __carveouts__  
 __cascading__  
 __case at hand__  
-__case in point__ :three::hammer: _Those comments are a case in point._  
+__case in point__ _n_ :four::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case__ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash rebate__  
@@ -2793,9 +2793,8 @@ __delivery note__
 __dell__ _n_ A small secluded wooded valley.  
 __delude__ _v_  
 __deluded__  
-__deluge<sup>1</sup>__ _n_ :three: _The deluge is not over._  
-__deluge<sup>2</sup>__ _v_ :three: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
-__deluge__ _v_  
+__deluge<sup>1</sup>__ _n_ :four: _The deluge is not over._  
+__deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _Deluxe album._  
 __delve__ _v_ :dart:  
@@ -3697,7 +3696,7 @@ __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with reg
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__  
-__field__ _v_ :seven: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._  
+__field__ _v_ :eight: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
 __fierce__ :two::hammer:  
 __fiery__  
@@ -5078,6 +5077,7 @@ __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They
 __inadvertent__ :two::hammer:  
 __inadvertently__  
 __inane__ _adj_ :five::hammer:  
+__inanity__ _n_  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
 __inarguably__ :pencil2:  
 __inarticulate__ :four::hammer: _Inarticulate people._ :es: incapaz de expresarse  
@@ -6395,7 +6395,7 @@ __nonce__
 __nonchalant__ _adj_ :five::hammer:  
 __nonchalantly__  
 __noncommittal__ _adj_ :three::hammer:  
-__nondescript__ _adj_ :three::hammer:  
+__nondescript__ _adj_ :four::hammer:  
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_ :two::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
@@ -6797,6 +6797,7 @@ __passersby__ _n_
 __pastiche__ :two::hammer:  
 __pastime__ _n_ :two::pencil2::hammer: (pastimes)  
 __pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__pastures__ _n_  
 __pasty__ _adj_ :two::hammer:  
 __pat<sup>1</sup>__ _v_ :camera::dart: (patted) Hit lightly. _She patted the sofa cushion next to her._ _Pat him on the shoulder._  
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
@@ -7316,7 +7317,7 @@ __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._
 __prime-age__  
 __prime__ _Their master bedroom has a prime view of the green wall._  
 __primed__ :two::hammer:  
-__primer__ _n_ :three:hammer:  
+__primer__ _n_ :four:hammer:  
 __priming__ _v_  
 __primly__ :two::hammer:  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
@@ -8001,6 +8002,7 @@ __roll the dice__
 __roll<sup>1</sup>__ _n_ _A deli where I buy a morning paper, roll and coffee._  
 __roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
 __roll__ _v_ :two::hammer: _Roll the video, please._ _You rolled 6, you go 6._  
+__roller bag__  
 __roller derby__  
 __rollicking__ :two::hammer:  
 __rolling back__ _v_  
@@ -8040,7 +8042,7 @@ __roughly__ :two::hammer:
 __roughshod__ _adv_ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
 __round out__ _v_ :two::hammer:  
-__round-trip__  
+__round-trip__ :two::hammer: _A round-trip ticket._  
 __round__ _v_  
 __roundup__  
 __roustabout__ _The roustabout Bohemian._  
@@ -8188,7 +8190,7 @@ __sawed-off__
 __sawgrass__ :two::hammer:  
 __sawhorse__ _n_ :five::hammer: (sawhorses)  
 __sawyer__ _n_ :astonished:  
-__saying__ _n_  
+__saying__ _n_ :two::hammer:  
 __scab__ _n_  
 __scabbard__ _n_ :six: A sheath for a sword, dagger, or bayonet.  
 __scabby__  
@@ -8241,6 +8243,7 @@ __scissor lift__
 __scleroderma__  
 __scoff__ _v_ :seven: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
+__sconce__ _v_  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
 __scoot__ _v_  
@@ -9770,7 +9773,7 @@ __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and s
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
-__terry-cloth__ _n, adj_ :four::hammer: (terry cloth) _A blue terry-cloth pullover._  
+__terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
 __terse__  
 __test the waters__ _We're testing the waters._  
 __tester bed__ :two::hammer:  
@@ -10111,7 +10114,8 @@ __triumvirate__
 __trivet__ _n_  
 __trodden__  
 __troglodyte__ _n_ :two::hammer:  
-__troll__ _Kim may see these dual transitions as an opening to troll world powers._  
+__troll<sup>2</sup>__ _n_ _He's a gifted hacker and vicious troll._  
+__troll<sup>1</sup>__ _v_ _Kim may see these dual transitions as an opening to troll world powers._  
 __trollop__  
 __troop__  
 __trooper__ _n_ :two::hammer:  
@@ -10470,7 +10474,7 @@ __vexing__ :two::hammer: _Vexing problem._
 __viable__  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicarious__  
-__vicious__ _adj_ :four: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
+__vicious__ _adj_ :five: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
@@ -10884,7 +10888,7 @@ __wryly__ :two::hammer:
 __wunderkind__  
 __wussification__  
 __ya'__ _?_ _Ya' think?_  
-__yada yada yada__  
+__yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)  
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
@@ -10903,7 +10907,7 @@ __yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yea
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __yellow wine__  
-__yelp__ _v_ (?)  
+__yelp__ _v_ :two::hammer: (yelped)  
 __yelped__ _v_  
 __yelps__ _?_ _Puppy yelps._  
 __yeoman__ _n_ :three::hammer:  
