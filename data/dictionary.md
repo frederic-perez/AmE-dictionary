@@ -361,6 +361,7 @@ __Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of 
 __Sisyphean__  
 __Snellen chart__  
 __SoCal__ Southern California.  
+__Sonora cacti__ _n_ :camera:  
 __South of the Border__  
 __Spanish moss__ :two::hammer:  
 __Spanx__  
@@ -1641,7 +1642,7 @@ __bust__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing bus
 __bustiers__ _n_  
 __busting__ _v_ :two::hammer: _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ _The bustle of daily life._  
-__bustling__ _adj_ :seven::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
+__bustling__ _adj_ :eight::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
 __butcher paper__  
 __butt crust__  
@@ -1701,7 +1702,7 @@ __cache__ :mega: _Sporty cars haven't lost their cache._
 __cackle__  
 __cackling__ _v_ :two::hammer:  
 __cacophony__ :two::hammer:  
-__cacti__ _n_  
+__cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
 __caddish__ :two::hammer:  
 __cadence__ _n_  
@@ -1831,6 +1832,7 @@ __carveouts__
 __cascading__  
 __case at hand__  
 __case in point__ _n_ :four::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
+__case the joint__  
 __case__ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash rebate__  
@@ -1926,7 +1928,7 @@ __chaparral__ _n_ :two::hammer:
 __chaperones__ _n_ :two::hammer:  
 __chaplain__ _n_ :four::mega:  
 __chapter__ _To the east was the chapter house._  
-__charade__  
+__charade__ _n_ :two::hammer:  
 __chard__  
 __charging__ Accuse formally.  
 __charily__  
@@ -2063,7 +2065,8 @@ __claret__
 __clarion call__ _n_ :four::hammer:  
 __clarion<sup>1</sup>__ _n_  
 __clarion<sup>2</sup>__ _adj_  
-__clasp__ _n_  
+__clasp<sup>1</sup>__ _n_  
+__clasp<sup>2</sup>__ _v_ _I clasped the chain around her neck._  
 __clasped__ _v_  
 __class act__ _She was a class act through and through._  
 __class action__  
@@ -2308,6 +2311,7 @@ __consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I
 __consequently__  
 __conservancies__  
 __consigliere__ _Our family consigliere._  
+__consoled__ _v_  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __conspicuously__  
 __constituency__ _n_ :five::hammer: (constituencies)  
@@ -3063,6 +3067,7 @@ __dormer__ _n_ :camera:
 __dot__ _v_ (dotted) Mark with a dot.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
+__double back__ _v_  
 __double bill__  
 __double crossing__  
 __double dip__  
@@ -3215,7 +3220,7 @@ __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to
 __dud<sup>2</sup>__ _v_  
 __due diligence__ _n_ :seven: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due__ :two::hammer: _They travelled due south._  
-__duffel bag__ :two::hammer:  
+__duffel bag__ _n_ :three::hammer:  
 __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ :camera:  
 __dug__ _n_  
@@ -3653,7 +3658,7 @@ __felled__ _v_ _He felled a giant._
 __felon__ _n_ :nine: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __felt pen__  
-__felt__ _n_  
+__felt__ _n_ :two::hammer: _A black felt pouch from a jewelry store._  
 __fen__ _n_  
 __fence-mending__  
 __fence-sitter__ _n_  
@@ -4181,7 +4186,7 @@ __gauntlets__
 __gauntness__  
 __gauze__ _n_ :three::hammer: :es: gasa  
 __gauzy__ :two::hammer:  
-__gavel__ _n_ :five::hammer:  
+__gavel__ _n_ :six::hammer: _The judge's gavel._  
 __gaze<sup>1</sup>__ _n_  
 __gaze<sup>2</sup>__ _v_  
 __gazebo__  
@@ -5889,6 +5894,7 @@ __manor__ _A medieval manor house._
 __mantel__ _n_ :five::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
 __mantle<sup>1</sup>__ _n_ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
 __mantle<sup>2</sup>__ _v_  
+__mantrap__ _n_  
 __maple__  
 __mar__ _v_ :seven::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
@@ -5949,7 +5955,7 @@ __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling gro
 __maven__ _n_ :three::hammer:  
 __maw__ _n_ :four::hammer:  
 __mawkish__ Effusively or insincerely emotional.  
-__max out__ _v_ :two::hammer: _He maxed out on the education available to black children._  
+__max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
 __maxed__ _v_  
 __maxes__ _v_  
 __maxim__ :es: máxima  
@@ -6604,6 +6610,7 @@ __outburst__ _n_ :two::hammer:
 __outcast__ _n_  
 __outcroppings__  
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
+__outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
 __outdoor__ _8 pork sausages from British outdoor bred pigs (454g)._  
 __outfield__ _(baseball)_  
 __outfit<sup>1</sup>__ _n_ :two::hammer: (outfits)  
@@ -7571,7 +7578,7 @@ __radical candor__
 __radish__  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
-__raft__ _n_ :four: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
+__raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
 __rage<sup>1</sup>__ _n_  
 __rage<sup>2</sup>__ _v_  
 __rage__ _n_  
@@ -8892,7 +8899,7 @@ __snicker<sup>2</sup>__ _n_ _The first question set off snickers on the audience
 __snide__  
 __sniffed__ _v_ :two::hammer:  
 __sniffle__ _v_ (sniffles)  
-__snifter__ _n_ :dart:  
+__snifter__ _n_ :two::camera::dart::hammer:  
 __snigger__ _n_  
 __sniggering__ _v_ :two::hammer:  
 __snipe__ _v_  
@@ -9087,8 +9094,8 @@ __sponsor__ _Sponsorong countries._
 __spool tables__  
 __spool__ _n_  
 __sporadically__  
+__sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__  
-__sportcoat__  
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spotless__  
@@ -10114,8 +10121,8 @@ __triumvirate__
 __trivet__ _n_  
 __trodden__  
 __troglodyte__ _n_ :two::hammer:  
-__troll<sup>2</sup>__ _n_ _He's a gifted hacker and vicious troll._  
 __troll<sup>1</sup>__ _v_ _Kim may see these dual transitions as an opening to troll world powers._  
+__troll<sup>2</sup>__ _n_ _He's a gifted hacker and vicious troll._  
 __trollop__  
 __troop__  
 __trooper__ _n_ :two::hammer:  
@@ -10383,6 +10390,7 @@ __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in 
 __uptake__  
 __uptick__ _n_ :four::hammer:  
 __uptight__ _v_  
+__uptime__  
 __upward__  
 __upwardly__  
 __urban legend__  

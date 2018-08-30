@@ -1,23 +1,4 @@
 
-__charade__ _n_  
-__case the joint__  
-__cacti__  
-__Sonora cacti__ _n_ :camera:  
-__felt__ _A black felt pouch from a jewelry store._  
-__clasp__ _v_ _I clasped the chain around her neck._  
-__snifter__ _n_ :camera:  
-__consoled__ _v_  
-__double back__ _v_  
-__sport coat__ _n_ :camera:  
-__raft__ _A full raft of services._  
-__uptime__  
-__gavel__ _The judge's gavel._  
-__mantrap__ _n_  
-
-__maxed out__ _v_ _The suitcase was maxed out._  
-__duffel bag__  
-__outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
-__bustling__ _A bustling place._  
 __headway__ _n_ _Yesterday I made a lot of headway._  
 __undisturbed__ _v_  
 __trudging in__ _v_  
