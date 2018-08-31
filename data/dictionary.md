@@ -238,6 +238,7 @@ __Mace<sup>1</sup>__ _n_ _A can of Mace._
 __Mace<sup>2</sup>__ _v_  
 __Mach number__ :pencil2:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
+__Magic Marker__  
 __Main Street__  
 __Mandan man__  
 __Manhattanite__  
@@ -344,6 +345,7 @@ __S&L__ _An S&L swinger._
 __S'mores__ _S'mores season!_  
 __SAT__ _trademark_ :two: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __SEAL__ _It is something U.S. Navy SEALs do._  
+__Salvation Army__  
 __Sam Browne belt__  
 __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __Saturday__ :mega: /'sæÔødi, -deI/  
@@ -433,6 +435,7 @@ __abalone__
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
 __abashed__ :two::hammer:  
+__abasiophilia__ _n_  
 __abatement__ :two::hammer: _A tax abatement._  
 __abating__  
 __abattoir__ _n_ Slaughterhouse.  
@@ -1718,6 +1721,7 @@ __calamity__
 __calf__ _n_  
 __caliber__ _n_  
 __calico__ :two::hammer: _A plain calico coat._  
+__caliper__ _n_  
 __caliph__  
 __caliphate__  
 __calisthenics__  
@@ -1891,6 +1895,7 @@ __cede__
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __cellist__ _n_ :two::hammer:  
+__cellophane__  
 __cement bird bath__  
 __cement__ _v_ :two::hammer: _He quickly cemented votes for the top job._  
 __censer__ _n_  
@@ -3528,6 +3533,7 @@ __exploit<sup>2</sup>__ _v_ :mega:
 __expose__ _v_  
 __expostulate__ _v_  
 __exposures__ (?) _Penthouse features include multiple exposures._  
+__expunged__ _v_  
 __extent__ _To the same extent._  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :three::hammer: (extolled, extolling)  
@@ -4136,6 +4142,7 @@ __gallbladder__
 __galleon__ _n_  
 __galleys__ _n_  
 __galling__ _adj_ :two::hammer: _A galling loss._  
+__gallon jug__ _Gallon jugs of water._  
 __galloping__  
 __galvanize__ _v_ :two::hammer: (galvanized)  
 __gambit__  
@@ -4679,7 +4686,7 @@ __header__ _He scored with a header._
 __headiest__  
 __heads up__  
 __headstone__ _n_ :two::hammer:  
-__headway > make headway__ :hammer::two: _Secetary Kerry has made headway against the odds._  
+__headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ :two::hammer:  
 __health condition__  
@@ -6516,7 +6523,7 @@ __olefin__ _n_
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
 __omen__ _n_ :three::hammer:  
-__ominous__ _adj_ :seven: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
+__ominous__ _adj_ :eight: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
@@ -6761,6 +6768,7 @@ __paragon__ _n_ :three::hammer: (paragons) _A paragon of redundancy._
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
+__paraphilia__  
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :four::hammer: _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
@@ -7288,7 +7296,7 @@ __prequel__
 __prerogative__ _n_ :three::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_  
-__prescient__ _adj_ :three::hammer:  
+__prescient__ _adj_ :four::hammer:  
 __prescribe__ _v_  
 __prescription__ _n_ :three::hammer: _Prescription pills._  
 __presentation__ :mega:  
@@ -9164,7 +9172,7 @@ __squelch__ _v_ :two::hammer:
 __squelched__ _v_  
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
-__squire<sup>2</sup>__ _v_ :pencil2:  
+__squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
 __squirm<sup>1</sup>__ _v_ :six::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
@@ -10112,6 +10120,7 @@ __trilobite__ _n_ :mega:
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ _Stainless interior trim._  
 __trinkets__ _n_ :three::hammer:  
+__trip wire__ _You hit a trip wire._  
 __triple__  
 __triplex__ _A triplex penthouse._  
 __triptych__  
@@ -10142,8 +10151,8 @@ __troy__
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
 __truculent__ :two::hammer:  
-__trudge__ _v_ :six::hammer:  
-__trudging__ _v_  
+__trudge__ _v_ :seven::hammer: (trudging)  
+__trudging in__ _v_  
 __true to form__  
 __truffles__ _n_  
 __trull__  
@@ -10288,6 +10297,7 @@ __underwriter__
 __undeterred__  
 __undies__  
 __undimpled__  
+__undisturbed__ _v_  
 __undue__  
 __undulating__ _v_  
 __unduly__ _adv_ :four::hammer:  
@@ -10805,7 +10815,7 @@ __wisk__ _v_
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__  
-__wistful__ :two::hammer:  
+__wistful__ _adj_ :three::hammer:  
 __wistfulness__  
 __wit__ _n_ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
@@ -10956,7 +10966,7 @@ __zeightgeist__
 __zeitgeist__ _n_ :two: A German word meaning time spirit, used to mean the spirit of the age.  
 __zeppelin__ _n_  
 __zero hour__  
-__zero in__  
+__zero in__ _v_ :two::hammer: _I zeroed in on the first item._  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :three::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__  

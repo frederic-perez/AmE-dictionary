@@ -1,23 +1,4 @@
 
-__headway__ _n_ _Yesterday I made a lot of headway._  
-__undisturbed__ _v_  
-__trudging in__ _v_  
-__squiring__ _v_  
-__hapless__  
-__gallon jug__ _Gallon jugs of water._  
-__paraphilia__  
-__zero in__ _v_ _I zeroed in on the first item._  
-__expunged__ _v_  
-
-__prescient__  
-__caliper__ _n_  
-__abasiophilia__ _n_  
-__wistful__  
-__ominous__  
-__Salvation Army__  
-__trip wire__ _You hit a trip wire._  
-__Magic Marker__  
-__cellophane__  
 __begrudgingly__  
 __intently__  
 __custody__ _Finally my house returned to my custody._  
