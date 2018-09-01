@@ -1,4 +1,24 @@
 
+__oh__ _You went oh for two._  
+__stir__ _n_  
+__lore__  
+__same old, same old__  
+__trill__ _n_ :two::hammer: _I felt a trill of excitement._  
+__figures__ _It figures._  
+__alcove__ _The elevator alcove._  
+__burlap__ _A burlap bag._  
+__festooned__ _v_  
+__authorial__  
+__strafed__ _v_  
+__housemother__ _n_  
+__costumier__ _n_  
+__dismal__ _adj_  
+__call out__ _n_ :two::hammer:  
+__truffle__ _n_  
+__pate__ _n_ _A balding pate._  
+__gum__ _Racks of gum and candy._  
+__Formica__  
+
 __begrudgingly__  
 __intently__  
 __custody__ _Finally my house returned to my custody._  
