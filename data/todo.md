@@ -1,4 +1,15 @@
 
+__mane__ _n_ _A lion's mane._  
+__flit__  
+__scrouching__ _v_  
+__nameplate__ _n_  
+__at a loss__ _They sat inside the car, at a loss for what to do next._  
+__disparaging__  
+__come to her senses__  
+__manta__ _n_  
+__carrion__ _n_  
+__birches__ _n_  
+
 __oh__ _You went oh for two._  
 __stir__ _n_  
 __lore__  
