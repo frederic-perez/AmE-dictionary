@@ -1,4 +1,19 @@
 
+__tawny__  _n_ A light brown to brownish orange.  
+__cagily__ _adv_  
+__in any event,__  In any case: _In any event, the audience seemed pleased with your performance._  
+__scouring__ _v_  
+__far cry__  
+__indiscreet__  
+__daft__  
+__dafter__  
+__wistfully__  
+__cahoots__  
+__subdued__ _v_  
+__cob__  
+__cobweb__  
+__swathed__ _v_  
+
 __festooned__ _v_  
 __authorial__  
 __strafed__ _v_  
