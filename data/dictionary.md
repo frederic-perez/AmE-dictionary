@@ -592,6 +592,7 @@ __al fresco__
 __alabaster__  
 __alacrity__ _n_ /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __albatross__ _n_ :pencil2::two::hammer:  
+__alcove__ _The elevator alcove._  
 __alder__ :pencil2:  
 __alderman__ _n_ :two::hammer:  
 __alecky__ _Smart-alecky wit._  
@@ -805,6 +806,7 @@ __astride__ _adv_ :three::hammer:
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
 __asunder__ _A world torn asunder by evil and hate._  
+__at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at odds__ _v_ :five: (be at odds) To disagree. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
@@ -1198,7 +1200,7 @@ __bio__ _n_
 __biomass__  
 __biopic__  
 __bipartisan__  
-__birch__ _Birch and oak in stock._  
+__birch__ _n_ (birches) _Birch and oak in stock._  
 __bird__ _v_ (?)  
 __birdbrain__  
 __birds of the same feather__  
@@ -1622,7 +1624,7 @@ __burgeoning__ _adj_ :seven::hammer:
 __burgermeister__  
 __burgundy__ :two::hammer: _Burgundy outfit._  
 __burkini__  
-__burlap__ _n_ :three::hammer:  
+__burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
 __burners__ (gas cooktop) :camera:  
 __burning glass__  
@@ -1821,7 +1823,7 @@ __carpet bombing__
 __carping__ _v_  
 __carpool__ _v_ :two::hammer:  
 __carrel__  
-__carrion__ _n_ :dart::four: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
+__carrion__ _n_ :dart::five: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry a torch__  
 __carry-on bag__  
 __carryout__ _A Chinese carryout._  
@@ -2207,6 +2209,7 @@ __come around__
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
 __come to grips__  
+__come to her senses__  
 __come to terms__ :two::hammer:  
 __come together__  
 __comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
@@ -2969,7 +2972,7 @@ __dismal__ _adj_ :five: Causing gloom or depression; dreary: _dismal weather; to
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _Healthy young adults often are dismissive of health issues._  
-__disparage__ _v_ :six::hammer: (disparaged, disparaging)  
+__disparage__ _v_ :seven::hammer: (disparaged, disparaging)  
 __disparagement__ :two::hammer:  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
@@ -3722,7 +3725,7 @@ __figure out__ _v_
 __figure skates__ _n_  
 __figure__ _5-figure price tag._  
 __figurehead__ :two::hammer:  
-__figures__  
+__figures__ :two::hammer: _It figures._  
 __filched__  
 __file a case__ _v_  
 __file suit__ _v_  
@@ -3859,7 +3862,7 @@ __flip-flops__
 __flippant__  
 __flipper__  
 __flippers__ _n_ :camera:  
-__flit__  
+__flit__ :two::hammer:  
 __flitting__  
 __flitty__  
 __float__ _n_ :two::hammer: _People pull a huge traditional float during the Yamahoko parade._  
@@ -5768,7 +5771,7 @@ __loot__ _v_
 __lope__ _v_  
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
-__lore__ _n_ :nine: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
+__lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __loss one's marbles__ _idiom_ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
 __lothario__ _The second verse of_ You're So Vain _is about one-time Hollywood lothario Warren Beatty._  
@@ -5883,7 +5886,7 @@ __manacle__ _n_
 __mandalas__ _n_  
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
-__mane__ _n_ :three::hammer:  
+__mane__ _n_ :four::hammer: _A lion's mane._  
 __maneuver__ :two::hammer:  
 __manger__  
 __mangy__ _adj_ :three::hammer:  
@@ -5898,6 +5901,7 @@ __manipulation__
 __manna__ _n_  
 __mannered__  
 __manor__ _A medieval manor house._  
+__manta__ _n_  
 __mantel__ _n_ :five::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
 __mantle<sup>1</sup>__ _n_ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
 __mantle<sup>2</sup>__ _v_  
@@ -6297,6 +6301,7 @@ __nail it down__
 __nail it__  
 __name-and-likeness__  
 __name-calling__  
+__nameplate__ _n_  
 __names and likeness__  
 __namesake__  
 __nana__ _Her nana._  
@@ -6511,6 +6516,7 @@ __oft-shouting-sermon__
 __oft__ :two::hammer: _The oft-hated SAT._  
 __oftentimes__ :two::hammer:  
 __ogle__ _v_ :two::hammer:  
+__oh__ _You went oh for two._  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
@@ -8162,7 +8168,7 @@ __salute__ _n_
 __salvage__ _adj_  
 __salve__ _n_ :four::hammer: (salves) _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._  
 __salvo__ _n_ :four::hammer: (salvos)  
-__same old, same old__ :two::hammer:  
+__same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
 __samosas__  
 __sanctuary city__ :two::hammer: _Mayor Rahm Emanuel of Chicago has declared that it "will always be a sanctuary city."_  
 __sand spits__  
@@ -8293,6 +8299,7 @@ __scrimmage<sup>1</sup>__ _n_ :three::hammer:
 __scrimmage<sup>2</sup>__ _v_  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
+__scrouching__ _v_  
 __scrounge up__ _To scrounge up the funds._  
 __scrub brush__  
 __scrub__ _v_ :two::hammer:  
@@ -9329,7 +9336,8 @@ __stintful__
 __stipend__ _n_ :five::hammer: (stipends)  
 __stipulate__ _v_ :two::hammer:  
 __stir up a hornet's nest__ _fig_ To create a lot of trouble.  
-__stir__ _v_ :two::hammer: (stirred)  
+__stir<sup>1</sup>__ _n_  
+__stir<sup>2</sup>__ _v_ :two::hammer: (stirred)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
 __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
 __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
@@ -10114,7 +10122,7 @@ __trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + pe
 __trifle__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trifles__ _n_  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
-__trill__ _n_  
+__trill__ _n_ :three::hammer: _I felt a trill of excitement._  
 __trilling__  
 __trilobite__ _n_ :mega:  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  

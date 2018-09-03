@@ -1,23 +1,22 @@
-
-__mane__ _n_ _A lion's mane._  
-__flit__  
-__scrouching__ _v_  
-__nameplate__ _n_  
-__at a loss__ _They sat inside the car, at a loss for what to do next._  
-__disparaging__  
-__come to her senses__  
-__manta__ _n_  
-__carrion__ _n_  
-__birches__ _n_  
-
-__oh__ _You went oh for two._  
-__stir__ _n_  
-__lore__  
-__same old, same old__  
-__trill__ _n_ :two::hammer: _I felt a trill of excitement._  
-__figures__ _It figures._  
 __alcove__ _The elevator alcove._  
+__at a loss__ _They sat inside the car, at a loss for what to do next._  
+__birches__ _n_  
 __burlap__ _A burlap bag._  
+__carrion__ _n_  
+__come to her senses__  
+__disparaging__  
+__figures__ _It figures._  
+__flit__  
+__lore__  
+__mane__ _n_ _A lion's mane._  
+__manta__ _n_  
+__nameplate__ _n_  
+__oh__ _You went oh for two._  
+__same old, same old__  
+__scrouching__ _v_  
+__stir__ _n_  
+__trill__ _n_ :two::hammer: _I felt a trill of excitement._  
+
 __festooned__ _v_  
 __authorial__  
 __strafed__ _v_  
