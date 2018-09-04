@@ -842,6 +842,7 @@ __august__ _adj_
 __aum__  
 __austere__  
 __authorative__  
+__authorial__  
 __autoclaving__  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__  
@@ -1716,6 +1717,8 @@ __cadre__ _n_ :five::hammer: _The collectible cadre of brands._ _Party cadres._ 
 __cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_  
+__cagily__ _adv_  
+__cahoots__  
 __cajole__ _v_ :four::hammer: (cajoled, cajoling)  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
@@ -2161,8 +2164,9 @@ __coaster brakes__
 __coat of arms__ _n_ :three::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattails a little bit._  
+__cob__  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
-__cobweb__ _n_ :four::hammer: (cobwebs)  
+__cobweb__ _n_ :five::hammer: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
 __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
@@ -2664,7 +2668,8 @@ __dacha__ _Molecular engineering will make wonders possible, such as luminescent
 __dada__ _Cinematic dada._  
 __daffodils__  
 __daffy__  
-__daft__ _adj_ :three::hammer:  
+__daft__ _adj_ :four::hammer:  
+__dafter__  
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daily basis__ (on a daily basis) _They work with the team on a daily basis._  
@@ -3615,7 +3620,7 @@ __fannies__
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
-__far cry__ _n_ :six::hammer: _It is a far cry from the 1970s._  
+__far cry__ _n_ :seven::hammer: _It is a far cry from the 1970s._  
 __far fetched__ :two::hammer: (far-fetched)  
 __far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
@@ -3691,7 +3696,7 @@ __fervent__
 __fester__ _v_ :five::hammer: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festered__ _v_ :es: ulcerarse  
 __festering__ _n_ :two::hammer:  
-__festoon__ _v_ :eight: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
+__festoon__ _v_ :nine: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __feted__ _v_ :four::hammer:  
 __fettered__ _v_  
@@ -4934,6 +4939,7 @@ __housebound__
 __housecarls__  
 __household__ _Household chores to keep your house tidy._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
+__housemother__ _n_  
 __housing equity__  
 __housing starts__  
 __housing unit__  
@@ -5069,6 +5075,7 @@ __improvidence__
 __impunity__  
 __in a nutshell__  
 __in all likelihood__  
+__in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
 __in check__ _Keep those emotions in check._  
 __in droves__ _They will come in droves._  
 __in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
@@ -5129,6 +5136,7 @@ __indenture__ _v_
 __indentured__  
 __indict__ _v_ :five::hammer: (indicted)  
 __indictment__ _n_ :four::hammer:  
+__indiscreet__  
 __indispensable__  
 __indomitable__ :two::hammer: _Indomitable will._  
 __inducements__  
@@ -9381,6 +9389,7 @@ __stovepipe hat__
 __stow__ _v_  
 __stowaway__  
 __straddle__ _v_ :three::hammer: (straddles)  
+__strafed__ _v_  
 __strafes__ _v_  
 __strafing__  
 __straggler__ _n_  
@@ -9474,7 +9483,7 @@ __stymie__ _v_ :nine::m: (stymied) To present an obstacle to (somebode or someth
 __suave__ _adj_ :four::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subcompact__ (car?)  
-__subdue__ _v_ :four::hammer: (subdued)  
+__subdue__ _v_ :five::hammer: (subdued)  
 __subjugate__ _v_  
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
@@ -9588,7 +9597,7 @@ __swashbuckling__ _n_ :two::hammer:
 __swatches__  
 __swath__ _n_ :nine::m: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_  
-__swathe<sup>2</sup>__ _v_ :two::hammer:  
+__swathe<sup>2</sup>__ _v_ :three::hammer: (swathed)  
 __swats__ _n_ :two::hammer:  
 __swatted__  
 __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__ Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
@@ -9741,7 +9750,7 @@ __taut__ _adj_
 __tautened__  
 __tautly__  
 __tawdry__ _adj_ :two: Poor, cheap quality.  
-__tawny__  
+__tawny__ _n_ :two: A light brown to brownish orange.  
 __tax breaks__ _n_  
 __tax levy__  
 __taxa__  
@@ -10824,6 +10833,7 @@ __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fa
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__  
 __wistful__ _adj_ :three::hammer:  
+__wistfully__  
 __wistfulness__  
 __wit__ _n_ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
