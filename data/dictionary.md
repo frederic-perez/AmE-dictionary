@@ -133,6 +133,7 @@ __Filipino__
 __Foosball__  
 __For starters,__ _phr informal_ :three: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
 __Forest Recreation Park__  
+__Formica__  
 __Fourth Estate__  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __Frappuccino__  
@@ -485,7 +486,7 @@ __acerbic__ _adj_ :three::hammer:
 __acetate__ _n_  
 __acme__  
 __acne__  
-__acolytes__ :two::hammer:  
+__acolyte__ _n_ :three::hammer: (acolytes)  
 __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acqua boots (or Acqua boots or something similar?)__ _n_  
 __acquaintances__ :pencil2:  
@@ -1072,7 +1073,7 @@ __beg__ _All of this begs the question of Gallego's own voting record._
 __beggar-thy-neighbor__  
 __beggar__ _n_  
 __begrudge__ _v_ :three::hammer:  
-__begrudgingly__  
+__begrudgingly__ :two::hammer:  
 __beguile__ _v_ :four::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
@@ -1732,7 +1733,8 @@ __caliphate__
 __calisthenics__  
 __call for__  
 __call on someone__ _He called on me._  
-__call out__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
+__call out<sup>1</sup>__ _n_ :two::hammer:  
+__call out<sup>2</sup>__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call someone names__ _I wouldn't call you names._  
 __call the shots__  
 __call to action__  
@@ -2366,6 +2368,7 @@ __cooing__ _n_
 __cook-off__  
 __cooktop__ _n_ :four::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
+__cool your jets__  
 __coonass__ :two::hammer: (coonasses)  
 __coop__ _To fly the coop._  
 __cooper__ _n_ :pencil2:  
@@ -2415,6 +2418,7 @@ __cortisol__ _Cortisol is the primary stress hormone._
 __cosset__ _v_  
 __cosseted__  
 __costliest__ :two::hammer:  
+__costumier__ _n_  
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
 __cottage__  
@@ -2647,6 +2651,7 @@ __curveball__ _informal_ Something which is unexpected, surprising, or disruptiv
 __cushy__ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :six::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
+__custody__ _Finally my house returned to my custody._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut me a little slack__  
@@ -2973,7 +2978,7 @@ __disingenuousness__
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __disloyal__  
-__dismal__ _adj_ :five: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
+__dismal__ _adj_ :six: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _Healthy young adults often are dismissive of health issues._  
@@ -3480,7 +3485,7 @@ __essential__ _Special K - 8 essential vitamins._
 __essentials__ _n_  
 __established__ _Established 1978._  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
-__etched__ _v_ :two::hammer:  
+__etch__ _v_ :three::hammer: (etched)  
 __etchings__  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __eulogy__ _n_ :two::hammer:  
@@ -3621,7 +3626,7 @@ __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables,
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
 __far cry__ _n_ :seven::hammer: _It is a far cry from the 1970s._  
-__far fetched__ :two::hammer: (far-fetched)  
+__far fetched__ _adj_ :three::hammer: (far-fetched)  
 __far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
@@ -4511,7 +4516,7 @@ __gulp__ _v_ :three::hammer: _They gulped their soft drinks._
 __gum stump__  
 __gum tree__  
 __gum up__  
-__gum__ _n_ :es: encía  
+__gum__ _n_ :two::hammer: _Racks of gum and candy._ :es: encía  
 __gumball__  
 __gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
 __gumption__  
@@ -5198,6 +5203,7 @@ __intangible__
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __intel__ _n_ :three::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__  
+__intently__  
 __interdicting__  
 __interlopers__ _n_ :two::hammer:  
 __interment__ _n_ :three::hammer:  
@@ -6796,7 +6802,7 @@ __pariah__ _n_ :three::hammer:
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
-__parlay__ _v_ :three::hammer: (parlayed)  
+__parlay__ _v_ :four::hammer: (parlayed)  
 __parliament__ :pencil2::two::hammer:  
 __parlor__  
 __parochial__ :two::hammer:  
@@ -6832,7 +6838,7 @@ __pat<sup>1</sup>__ _v_ :camera::dart: (patted) Hit lightly. _She patted the sof
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
-__pate__ _n_ :three::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._  
+__pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
 __pathogenic__  
 __pathogens__ _n_  
@@ -8209,7 +8215,7 @@ __saturnine__ :two::hammer:
 __satyr__  
 __saucerful__  
 __saucy__  
-__saunter__ _v_ _Lynn sauntered to the edge of the stage._  
+__saunter__ _v_ :two::hammer: (sauntered) _Lynn sauntered to the edge of the stage._  
 __sautoir__ _Sautoir necklace._  
 __savagery__  
 __save the day__  
@@ -10171,7 +10177,7 @@ __truculent__ :two::hammer:
 __trudge__ _v_ :seven::hammer: (trudging)  
 __trudging in__ _v_  
 __true to form__  
-__truffles__ _n_  
+__truffle__ _n_ :two::hammer: (truffles)  
 __trull__  
 __truly__ _We truly appreciate it._  
 __trumpet__ _v_  
@@ -10598,7 +10604,7 @@ __wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his h
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
-__wander__ _v_ _Let's wander slowly through the fields, the fields of joy._  
+__wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
 __wane__ _v_ :three::hammer: (waning) _The waning hours._  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton<sup>1</sup>__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  

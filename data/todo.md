@@ -1,23 +1,4 @@
 
-__costumier__ _n_  
-__dismal__ _adj_  
-__call out__ _n_ :two::hammer:  
-__truffle__ _n_  
-__pate__ _n_ _A balding pate._  
-__gum__ _Racks of gum and candy._  
-__Formica__  
-
-__begrudgingly__  
-__intently__  
-__custody__ _Finally my house returned to my custody._  
-__parlayed__ _v_  
-__cool your jets__  
-__wander__ _v_  
-__far-fetched__  
-__etch__ _v_  
-__acolyte__  
-
-__sauntered__ _v_  
 __seared__ _v_  
 __grapple__ _v_  
 __buyout__ _n_  
