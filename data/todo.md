@@ -1,4 +1,15 @@
 
+__shawl__ _n_  
+__chimera__ _n_  
+__abomination__  
+__mantel piece__ _n_ :three::hammer:  
+__dryly__ _adv_ :astonished:  
+__menagerie__ _n_  
+__inquisitive__ _adj_  
+__vapid__  
+__disservice__ _n_ :astonished:  
+__maroon__ _v_  
+
 __seared__ _v_  
 __grapple__ _v_  
 __buyout__ _n_  
