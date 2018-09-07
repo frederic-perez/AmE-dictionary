@@ -1,23 +1,4 @@
 
-__shawl__ _n_  
-__chimera__ _n_  
-__abomination__  
-__mantel piece__ _n_ :three::hammer:  
-__dryly__ _adv_ :astonished:  
-__menagerie__ _n_  
-__inquisitive__ _adj_  
-__vapid__  
-__disservice__ _n_ :astonished:  
-__maroon__ _v_  
-
-__seared__ _v_  
-__grapple__ _v_  
-__buyout__ _n_  
-__demurely__  
-__transient__ _One of the more transient jobs at the paper._  
-__unethically__ _He had acted unethically and for that I could never trust him as editor._  
-__venison__ _n_  
-__denizens__ _n_  
 __profanity__  
 __chasm__ _n_  
 __lowly__ _The lowly news reporter._  

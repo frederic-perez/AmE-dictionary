@@ -450,7 +450,7 @@ __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__  
 __abjure__ _v_  
-__abomination__ _n_ :two::hammer: _I've written several nasty 3,000-line abominations._  
+__abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
 __abounds__  
 __about-face__  
 __aboveboard__  
@@ -1672,7 +1672,7 @@ __buy out__ _v_
 __buy-in__ _n_ :two::hammer: _He has tried different tactics to accelerate the buy-in._  
 __buy__ _I didn't buy his explanations._  
 __buybacks__  
-__buyout__ _n_ :five: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
+__buyout__ _n_ :six: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
@@ -1994,6 +1994,7 @@ __chilblain__ _n_ :three: (chilblains) An inflammation followed by itchy irritat
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_  
+__chimera__ _n_  
 __chiming__ :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
@@ -2830,14 +2831,13 @@ __demonstration__ _n_
 __demonstrators__  
 __demur__ _v_ (demurred) :two::hammer:  
 __demure__ _adj_ :two::hammer:  
-__demurely__ :two::hammer:  
+__demurely__ _adv_ :three::hammer:  
 __demurred__ _v_  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dengue fever__  
 __dengue__  
 __denier__ _n_ A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
-__denizen__  
-__denizens__ :two::hammer:  
+__denizen__ _n_ :four::hammer: (denizens)  
 __denouement__ _n_ :three::hammer:  
 __denoument__  
 __dent__ _v_ (denting) :three: __1__ Mark with a dent. _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
@@ -2999,7 +2999,7 @@ __dissatisfy__ _v_ :two::hammer: (dissatisfied)
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissension__  
 __dissent__ _n_ :two::hammer:  
-__disservice__ _(funny spelling)_  
+__disservice__ _n_ :two::hammer::astonished:  
 __dissimilar__ _adj_  
 __dissimilarly__  
 __dissing__ _v_  
@@ -3224,7 +3224,7 @@ __dry age__ _v_
 __dry goods__ _Dry goods store._  
 __dry spel__  
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
-__dryly__  
+__dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __dubious__  
 __duchy__ (duys)  
@@ -4383,9 +4383,8 @@ __grandiose__
 __grandstand__ _n_ :four::hammer: (grandstands) _He found rats in his grandstand._  
 __granola__ _n_  
 __graphic sexuality__ _?_ (for movie ratings)  
-__grapple<sup>1</sup>__ _v_ :dart::nine::m: (grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
+__grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapple<sup>2</sup>__ _n_ _A thin cord hooked to a grapple._  
-__grapples__ _v_  
 __grapplings__ _n_  
 __grass-routs__ _?_ _Grass-routs campaign._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
@@ -5183,6 +5182,7 @@ __inordinate__ _adj_ :three::hammer:
 __inordinately__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
+__inquisitive__ _adj_  
 __inroads__ _n_ :three::hammer:  
 __ins and outs__  
 __inscrutable__ :two::hammer:  
@@ -5916,6 +5916,7 @@ __manna__ _n_
 __mannered__  
 __manor__ _A medieval manor house._  
 __manta__ _n_  
+__mantel piece__ _n_ :three::hammer:  
 __mantel__ _n_ :five::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
 __mantle<sup>1</sup>__ _n_ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
 __mantle<sup>2</sup>__ _v_  
@@ -5936,7 +5937,7 @@ __marks__ _n_ _The prime minister has won high marks for his even-handed helmsma
 __marksman__ _n_  
 __markup__ _n_ :five::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
 __marmalade__  
-__marooned__ _He felt marooned by the silence._  
+__maroon__ _v_ :two::hammer: _He felt marooned by the silence._  
 __marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
 __marquetry__ :astonished: _Marketry doors._ :es: marquetería (?)  
 __marred__ _v_  
@@ -6025,7 +6026,7 @@ __memoirs__ _n_
 __memorandum__ :two::hammer:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __memos__  
-__menagerie__  
+__menagerie__ _n_ :two::hammer:  
 __mendacity__  
 __mending__ _Mending flesh._  
 __menial__ _n_  
@@ -8349,8 +8350,7 @@ __seagulls__ _n_
 __seahawk__ ?  
 __seal__ _Lacy gained 27 yards to seal their fourth division win._  
 __seamstress__ _n_  
-__sear__ _v_ :three: (searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar  
-__seared__ _His lungs seared with burning poison._  
+__sear__ _v_ :five: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
 __searing > searing work__  
 __seaside__  
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
@@ -8474,8 +8474,7 @@ __sharps collector__ :camera:
 __sharpshooter__ :two::hammer:  
 __shat__ _v_ _In its fright the baby lion shat upon the gold and silk carpet._  
 __shaved ice__  
-__shawl__  
-__shawls__ _Prayer shawls._  
+__shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
 __shea oil__  
 __sheaf__  
 __shear__ _v_  
@@ -10089,7 +10088,7 @@ __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or 
 __tranquilizer__ _n_ :mega:  
 __transceiver__  
 __transfixed__ _I was transfixed by it._  
-__transient__ _adj_ :three::hammer::mega: _A transient log._  
+__transient__ _adj_ :four::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
 __translate__ _That doesn't always translate, believe me._  
 __translucent__ _adj_  
 __trap question__ :astonished: _That's a trap question._  
@@ -10327,6 +10326,7 @@ __unduly__ _adv_ :four::hammer:
 __unearth__ _v_ :three::hammer: (unearthed)  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
+__unethically__ _He had acted unethically and for that I could never trust him as editor._  
 __unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :five::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
@@ -10464,7 +10464,7 @@ __vane__ _n_ :two::hammer: _A smooth metal weather vane._ _A weather vane._
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
-__vapid__ _adj_ :four: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
+__vapid__ _adj_ :five: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
 __variety store__  
 __varmints__  
@@ -10483,7 +10483,7 @@ __venality__
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :five::hammer: (veneers)  
 __venial__ _adj_  
-__venison__ _n_ :three::hammer:  
+__venison__ _n_ :four::hammer:  
 __venom__ _n_ :three::hammer:  
 __venomous__ _adj_ :two::hammer:  
 __vent__ _v_  
