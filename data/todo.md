@@ -1,4 +1,14 @@
 
+__petulant__  
+__recesses__ _n_  
+__credence__  
+__twitch__ _v_ (twitched) _The curtain was twitched._  
+__partake__ _v_  
+__portents__ _n_  
+__catcalls__ _n_  
+__pink slip__  
+__commiserate__ _v_  
+
 __profanity__  
 __chasm__ _n_  
 __lowly__ _The lowly news reporter._  
