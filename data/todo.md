@@ -1,4 +1,15 @@
 
+__pry__ _v_  
+__have someone pegged__ _She had me pegged on that, too._  
+__brass__ _She'll be manipulated by the police brass._  
+__full swing__ _The conference was in full swing when I arrived._  
+__elucidate__ _v_  
+__perfunctory__  
+__likelihood__ _n_ :astonished: Probability.  
+__dimwit__  
+__backlash__ _n_  
+__diction__ _n_ :astonished:  
+
 __petulant__  
 __recesses__ _n_  
 __credence__  
