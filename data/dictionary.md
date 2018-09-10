@@ -891,7 +891,7 @@ __backcountry__ _Utah ski resorts offering backcountry adventures._
 __backdrop__ _n_ :seven: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
-__backlash__ _n_ :three::hammer:  
+__backlash__ _n_ :four::hammer:  
 __backlit__  
 __backlog__ _n_ :five: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backpedal__ _v_  
@@ -1452,7 +1452,7 @@ __brambles__ _n_ :four::hammer:
 __brander__  
 __branding iron__ _n_ :camera:  
 __brash__ :two::hammer: _Brash talk._ _It sounded brash._  
-__brass__  
+__brass__ :two::hammer: _She'll be manipulated by the police brass._  
 __brassiere__ _n_  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
@@ -1872,7 +1872,7 @@ __cataract__ _n_ :es: cataratas
 __catarrh__ :two::hammer::pencil2:  
 __catcall__ _v_  
 __catcalling__ _Some catcalling builders shouted abuse at him._  
-__catcalls__ _n_ :five::hammer: _A pack of men on motorbikes left a wake of catcalls._  
+__catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
 __catch up__ _v_  
 __catch wind__ _I don't know if you caught wond of it._  
@@ -2235,7 +2235,7 @@ __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirabl
 __commendation__ _n_ :two::hammer: (commendations) _He earned two commendation medals._  
 __commentary__  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_  
+__commiserate__ _v_ :two::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::eight: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
@@ -2508,7 +2508,7 @@ __creased__
 __creases__ _Knife creases._  
 __creasing__  
 __cred__  
-__credence__ :two::hammer:  
+__credence__ _n_ :three::hammer:  
 __credenza__ _n_  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
@@ -2890,7 +2890,7 @@ __dibs__ _n_ :two::hammer:
 __dicey__ _adj_ :seven::hammer: _A dicey tiny building._ _That's dicey._ _The women's situation is a bit more dicey._  
 __dichotomy__ :two::hammer:  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
-__diction__ :two::hammer: _The priest diction._  
+__diction__ _n_ :three::hammer: _The priest diction._  
 __diddle-shit__  
 __diddle-squat__  
 __die-cast__ _Merchandise and die-cast sales._  
@@ -2917,7 +2917,7 @@ __diminishing returns__
 __dimpled__ _v_ :five::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
 __dimply__  
-__dimwits__ _n_ :two::hammer:  
+__dimwit__ _n_ :three::hammer: (dimwits)  
 __dimwitted__  
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
@@ -3362,7 +3362,7 @@ __elide__ _v_
 __eligibility__  
 __elite__ (elites) :two::hammer:  
 __elope__ _v_ :six::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
-__elucidate__ _v_  
+__elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
 __elusive__  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
@@ -4104,6 +4104,7 @@ __fudge__ _v_ :two::hammer:
 __fudging__ _Fudging statistics._  
 __fulcrum__ :two::hammer:  
 __fulfilling__  
+__full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
 __full-bodied__ :two::hammer:  
 __full-fledged__ :two::hammer: _Full-fledged work._  
@@ -4671,6 +4672,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
+__have someone pegged__ _She had me pegged on that, too._  
 __havoc__  
 __hawing__  
 __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensive artwork._ __2__ To clear or attempt to clear the throat by or as if by coughing up phlegm.  
@@ -5674,6 +5676,7 @@ __lightning rod__
 __lightning-rod__  
 __like hell__  
 __likelier__  
+__likelihood__ _n_ :astonished: Probability.  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
 __likewise__  
 __lilac tree__  
@@ -6814,8 +6817,7 @@ __parroting__ _v_
 __parse__ _v_  
 __parsnip__  
 __parsonage__ :pencil2:  
-__partake__ _v_ :five::hammer: (partaking)  
-__partaken__ _v_  
+__partake__ _v_ :seven::hammer: (partaken, partaking)  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __participatory__ _I wanted to be a participatory father._  
@@ -6930,7 +6932,7 @@ __peremptory__
 __perennial__ _adj_ :three::hammer:  
 __perfect storm__  
 __perfidious__  
-__perfunctory__ _adj_ :six::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
+__perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
 __periodontal__ _Periodontal health._  
 __peristaltic__ _adj_  
@@ -6961,7 +6963,7 @@ __petroleum jelly__
 __petted__  
 __petty__ _A petty argument resulted in her son's murder._  
 __petulance__  
-__petulant__ :two::hammer:  
+__petulant__ _adj_ :three::mega::hammer:  
 __pew__ _Church pews._  
 __pewter__  
 __phalanx__ :two::hammer:  
@@ -7042,6 +7044,7 @@ __ping__ _v_ _Pinging with heat._
 __pinion__ _v_ :two::hammer: (pinioned)  
 __pink eye__ _n_ :two::hammer:  
 __pink slime__  
+__pink slip__  
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He's all pinkified for halloween._  
 __pinned__  
@@ -7238,7 +7241,7 @@ __porringer__
 __portable building__ :es: barracones?  
 __portal__  
 __portend__ _v_ :six::hammer: (portended) _...may portend a disruption._  
-__portent__ _n_ :two::hammer: (portends)  
+__portent__ _n_ :three::hammer: (portents)  
 __portentous__  
 __portly__  
 __portmanteau__  
@@ -7430,7 +7433,7 @@ __prude__ _n_
 __prudent__  
 __prune-o__ :two::hammer:  
 __prurient__ _adj_  
-__pry__ _v_ :eight: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
+__pry__ _v_ :nine: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
 __psyche__  
 __psychopathic__  
 __public eye__  
@@ -7746,7 +7749,8 @@ __recap<sup>2</sup>__ _v informal_ Recapitulate.
 __recap__  
 __recede__ _v_  
 __receivership__  
-__recess__ _The deepest recesses of the brain._  
+__recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
+__recess<sup>2</sup>__ _v_  
 __recidivism__  
 __recidivist__ _n_ :four::hammer:  
 __recitalist__  
@@ -10258,7 +10262,7 @@ __twinned towns__
 __twirl__ _v_ _Goodman twirled is spectacles._  
 __twit__ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_  
-__twitch<sup>2</sup>__ _v_ :six::hammer: (twitched)  
+__twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
