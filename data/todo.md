@@ -1,23 +1,4 @@
 
-__budget line__ _I had already sent my editor a budget line on the story._  
-__doable__ _It was not a lot of time but it was doable._  
-__elicit__ _v_  
-__copped__ _v_ _He copped to the crime._  
-__pouty__ _adj_  
-__outbox__ _n_  
-__as good as it gets__  
-__buyout__ _n_ _He worked until he took one of the early buyouts._  
-__lurid__  
-
-__profanity__  
-__chasm__ _n_  
-__lowly__ _The lowly news reporter._  
-__berated__ _v_  
-__pushover__ _He wasn't a pushover._  
-__nonchalantly__  
-__notwithstanding__  
-__tarps__ _n_ _Blue tarps tied over leaky roofs._  
-__commiserate__ _v_  
 __the big three-oh__  
 __bogart__ _v_  
 

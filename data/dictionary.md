@@ -764,7 +764,7 @@ __artifacts__
 __artistry__  
 __artsy__ _adj_  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
-__as good as it gets__ _Right now, Djokovic is about as good as it gets on a tennis court._  
+__as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it gets__ :two::hammer:  
 __as it happens,__  
 __as many as__ _As many as five terror plots were foiled last year._  
@@ -1128,7 +1128,7 @@ __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._
 __bento__ Boxed meals.  
 __bequeathed__ _v_ :five::hammer:  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
-__berate__ _v_ six: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
+__berate__ _v_ :seven: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_ :two::hammer:  
 __bereavement__ _n_ :three: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
@@ -1565,6 +1565,7 @@ __budding__
 __buddy__  
 __budge__ _v_  
 __budged__  
+__budget line__ _I had already sent my editor a budget line on the story._  
 __buff<sup>1</sup>__ _n informal_ :six: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
@@ -1672,7 +1673,7 @@ __buy out__ _v_
 __buy-in__ _n_ :two::hammer: _He has tried different tactics to accelerate the buy-in._  
 __buy__ _I didn't buy his explanations._  
 __buybacks__  
-__buyout__ _n_ :six: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._  
+__buyout__ _n_ :seven: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
@@ -1953,7 +1954,7 @@ __charter<sup>2</sup>__ _v_
 __charter__ _Charter schools._  
 __chartreuse__  
 __chased__ _v_ _A beautiful chased golden bowl._  
-__chasm__ _n_ :five: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :six: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
 __chastened__ :two::hammer:  
 __chastize__ _v_  
@@ -2235,7 +2236,7 @@ __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirabl
 __commendation__ _n_ :two::hammer: (commendations) _He earned two commendation medals._  
 __commentary__  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :two::hammer:  
+__commiserate__ _v_ :three::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::eight: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
@@ -2382,6 +2383,7 @@ __copacetic__ _adj informal_ :five: In excellent order. _He said to tell you eve
 __copay__ _v_ (co-pay)  
 __cope__ _A grey cope._  
 __copious__  
+__copped__ _v_ _He copped to the crime._  
 __copper-bottom hit__  
 __coppice__ _n_  
 __copping__ _v_ :two::hammer: _You're copping to a murder beef._  
@@ -3031,6 +3033,7 @@ __dizzy__
 __do it by the numbers__  
 __do math__  
 __do-gooder__  
+__doable__ _It was not a lot of time but it was doable._  
 __docents__  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
@@ -3357,7 +3360,7 @@ __elevator boy__
 __elevator control box__  
 __elevator operator__ :camera:  
 __elevators__ (airplane)  
-__elicit__ _v_ :four::hammer: (elicited)  
+__elicit__ _v_ :five::hammer: (elicited)  
 __elide__ _v_  
 __eligibility__  
 __elite__ (elites) :two::hammer:  
@@ -5810,7 +5813,7 @@ __lowing__ _v_ :two::hammer:
 __lowkey__  
 __lowlife__  
 __lowlights__  
-__lowly__  
+__lowly__ :two::hammer: _The lowly news reporter._  
 __lucifer match__  
 __ludicrous__ _adj_ :pencil2::eight: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
@@ -5839,6 +5842,7 @@ __lupine__
 __lupus__  
 __lurch__ _v_ :five::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
+__lurid__  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _adj_ :eight: _adj_ __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lushnes__  
@@ -6429,7 +6433,7 @@ __non-exempt__ _Non-exempt position._
 __non-perishables__  
 __nonce__  
 __nonchalant__ _adj_ :five::hammer:  
-__nonchalantly__  
+__nonchalantly__ :two::hammer:  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
 __nonpliable__ _Nonpliable products._  
@@ -6453,7 +6457,7 @@ __not even close__ :dart:
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
-__notwithstanding__ _prep_ :three::hammer:  
+__notwithstanding__ _prep_ :four::hammer:  
 __nova__  
 __novella__  
 __noxious__  
@@ -6636,6 +6640,7 @@ __out of the blue__
 __out of the woods__  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
+__outbox__ _n_  
 __outbreak__ _n_ :three::hammer: (outbreaks)  
 __outburst__ _n_ :two::hammer:  
 __outcast__ _n_  
@@ -7268,6 +7273,7 @@ __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._
 __pounce__ _v_ :three::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pout__ _v_ :nine::hammer: (pouts, pouting) _Pouting session._  
+__pouty__ _adj_  
 __powder blue__ Color?  
 __powder keg__  
 __power bar__  
@@ -7380,6 +7386,7 @@ __prod__ (prodded) :two::hammer: :es: _empujón_
 __prodigal__  
 __produce__ _n_ :two::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
 __profanely__  
+__profanity__  
 __professed__ _v_  
 __proffering__  
 __profiteering__  
@@ -7506,7 +7513,7 @@ __purée__
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push puppet__ _n_ :camera:  
 __pushcart__ _A pushcart vendor._  
-__pushover__ _n_ :five: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
+__pushover__ _n_ :six: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy sales__  
 __pushy__ _I guess I was a little pushy._  
@@ -9735,7 +9742,7 @@ __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor a
 __tarnish__ _v_ :five::camera::hammer: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
 __tarpon__  
-__tarps__ _n_  
+__tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
 __tarry__ _v_ :three::hammer: (tarried)  
 __tart__ :two::hammer: _She'd bitten into something overly tart._  
