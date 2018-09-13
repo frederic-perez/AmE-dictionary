@@ -379,6 +379,7 @@ __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._
 __Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __Sunday best__ _Rita wanders a highway in her Sunday best._  
 __Sunday__ :mega: /'söndi, -deI/  
+__Swahili__  
 __Sweepstakes__ _Your Sweepstakes._  
 __Sweet 16__ _sports_  
 __T&A__  
@@ -473,7 +474,7 @@ __accolade__ _n_ :four: An award or privilege granted as a special honour or as 
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
-__accord__ :two::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._  
+__accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
 __according to plan__ :two::hammer: _If everything goes according to plan._  
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ :es: contable  
@@ -508,7 +509,7 @@ __ad-lib__ _v_ (ad-libs) :two::hammer:
 __ad__ _n informal_ Advertisement.  
 __adage__ :two::hammer:  
 __adamant__  
-__add up__  
+__add up__ :two::hammer: _The whole thing doesn't add up._  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __adenoidal__  
 __adhere__ _v_  
@@ -703,6 +704,7 @@ __apologist__ _n_ :two::hammer:
 __apoplectic__  
 __apostasy__  
 __apostate__ _n_ :three::hammer: (apostates)  
+__apostrophe__  
 __appall__ _v_ (appalled) :two::hammer::pencil2: :es: horrorizar, espantar  
 __appalling__ _adj_ :two: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __appalls__ _v_  
@@ -1334,6 +1336,7 @@ __bodacious__
 __bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
 __bog<sup>1</sup>__ _n_ :three::hammer:  
 __bog<sup>2</sup>__ _v_  
+__bogart__ _v_  
 __boggles__ _v_  
 __bogs__  
 __boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek of his arse._  
@@ -1894,7 +1897,7 @@ __caulking__
 __causeway__ _n_ :five::hammer:  
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
-__cavort__ _v_ :four::hammer: _Animals cavorting._  
+__cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw__ (caws) :two::hammer: _A rattling caw._  
 __cawed__ _v_ :two::hammer: (cawing)  
 __ce__  
@@ -2611,7 +2614,7 @@ __cubbyhole__
 __cuckold<sup>1</sup>__ _n_ :two::hammer:  
 __cuckold<sup>2</sup>__ _v_ :two::hammer:  
 __cuckolded__ _adj_ :two::hammer:  
-__cud__ _n_ :two::hammer:  
+__cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::hammer: (cudgels)  
 __cue ball__ :two::hammer:  
@@ -4161,6 +4164,7 @@ __galleys__ _n_
 __galling__ _adj_ :two::hammer: _A galling loss._  
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
+__galoshes__ _n_  
 __galvanize__ _v_ :two::hammer: (galvanized)  
 __gambit__  
 __game plan__ :two::hammer:  
@@ -4557,7 +4561,7 @@ __ha!__ :two::hammer:
 __habituate__ _v_  
 __hack__ _v_ _Coughing and hacking while shuffling around._  
 __hackles__ _n_ :two::hammer:  
-__hackneyed__  
+__hackneyed__ :two::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
 __haemophilia__  
 __haft sin__  
@@ -6221,7 +6225,7 @@ __mortify__ _v_ :three::hammer: (mortified)
 __mortuaries__  
 __mos.__ (Months?)  
 __mosh__  
-__mosques__  
+__mosque__ _n_ :two::hammer: (mosques)  
 __moth__ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
@@ -7558,6 +7562,7 @@ __quavering__
 __quay__ _n_  
 __queasiness__ _There was queasiness among many residents._  
 __queasy__ _adj_ :five: Causing or suffering from nausea: _feeling queasy after a meal._  
+__queer as folk__ _There's newt so queer as folk._  
 __queer__ _v_  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quelled__ _v_  
@@ -7837,7 +7842,7 @@ __rejigged__ _v_
 __rejiggered__  
 __rejoice__ _v_  
 __rejoiced__ _v_  
-__rejoinder__ _n_  
+__rejoinder__ _n_ :two::hammer:  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ :two::hammer:  
 __relegation__ _Sports_  
@@ -8963,9 +8968,8 @@ __snowpack<sup>2</sup>__ _n_
 __snowplows__ _n_  
 __snowshoeing__ :two::hammer:  
 __snub-nosed__ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
-__snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ :es: _desaire, repulsa_  
-__snub<sup>2</sup>__ _n_ :five: A deliberate slight or affront.  
-__snubbed__ _Snubbed nose._  
+__snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ _Snubbed nose._ :es: _desaire, repulsa_  
+__snub<sup>2</sup>__ _n_ :six: A deliberate slight or affront.  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snug__ _v_ :three::hammer:  
@@ -9030,6 +9034,7 @@ __sort put__
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sot__ :two::hammer: _A surly sot._  
 __sought-after__  
+__soul__ _n_ :mega:  
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __sound__ :two::hammer: _A sound investment._ _A sound sleep._  
@@ -9106,8 +9111,7 @@ __spinouts__
 __spinster__ :two::hammer:  
 __spiny lobsters__ :camera:  
 __spiraling__  
-__spire__ _n_ A tapering roof or analogous pyramidal construction surmounting a tower.  
-__spires__ _n_  
+__spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __spite__  
 __spiteful__ :two::hammer:  
 __spitting image__  
@@ -9559,6 +9563,7 @@ __suntan__ _n_
 __super-duper__ :three::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
 __superbly__  
 __supercell thunderstorm__  
+__supercilious__  
 __superintendent__ _n_ :three::hammer:  
 __superpooch__  
 __supervise__ _v_  
@@ -9842,6 +9847,7 @@ __the 105's__
 __the 11th hour__  
 __the Chinese__ _This article was translated from the Chinese._  
 __the bandwagon__ _n phr_ _Jump on the bandwagon._  
+__the big three-oh__  
 __the day's full of spiders__  
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
 __the haves and the have nots__  
@@ -10504,7 +10510,7 @@ __veranda__ _n_ :two: A roofed platform along the outside of a house, level with
 __verberize__  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :two::hammer::pencil2:  
-__verge__  
+__verge__ _n_ :two::hammer:  
 __veritable__  
 __vermicelli__  
 __vermillion__  
@@ -10645,7 +10651,7 @@ __wastrel__ :two::hammer:
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
-__watchword__ :two::hammer: _“Quick and dirty” was the watchword._  
+__watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._  
 __water buffalo__  
 __water cooler__  
 __water down__ _v_ :three::hammer:  
