@@ -747,6 +747,7 @@ __archrival__ _n_
 __ardent__ :two::hammer: _He was one of her most ardemt suitors._  
 __arduous__  
 __arguably__  
+__arm bands__ _n_ :es: manguitos  
 __armload__  
 __armory__  
 __arms embargo__  
@@ -1751,7 +1752,7 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliopes__  
-__callous__ _adj_ :six::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
+__callous__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
 __callow__  
 __calves__  
@@ -2427,7 +2428,7 @@ __costliest__ :two::hammer:
 __costumier__ _n_  
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
-__cottage__  
+__cottage__ :two::hammer:  
 __cotton candy__ :two::hammer:  
 __cotton dry__  
 __cotton swabs__  
@@ -3412,6 +3413,7 @@ __encore__ _n_ :five::hammer: _An encore performance._
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :six::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :three::hammer:  
+__encumbrance__  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end run__ :two::hammer:  
 __endangerment__  
@@ -4494,7 +4496,7 @@ __grudgingly__ _adv_ :three::hammer:
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
 __gruelling__  
-__gruff__ _adj_ :three::hammer:  
+__gruff__ _adj_ :four::hammer:  
 __gruffly__  
 __grumble__ _v_ :six::hammer: (grumbled, grumbling)  
 __grumblings__  
@@ -4519,7 +4521,8 @@ __gullible__ _adj_ :five: Naive and easily deceived or tricked.
 __gullies__  
 __gulls__  
 __gully__ _We had a real gully washer in the forenoon._  
-__gulp__ _v_ :three::hammer: _They gulped their soft drinks._  
+__gulp<sup>1</sup>__ _n_ _Sobs and gulps._  
+__gulp<sup>2</sup>__ _v_ :three::hammer: _They gulped their soft drinks._  
 __gum stump__  
 __gum tree__  
 __gum up__  
@@ -4566,6 +4569,7 @@ __hacksaws__ _n_
 __haemophilia__  
 __haft sin__  
 __haggard__ _adj_ :three::hammer:  
+__haggis__  
 __haggle__ _v_ :two::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
@@ -5059,6 +5063,7 @@ __impairment__
 __impartible__  
 __impasse__ _n_ :four::pencil2: Deadlock or stalemate. _At impasse._  
 __impassioned__ _adj_  
+__impassively__  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ :two::hammer:  
 __impeccable__  
@@ -5383,7 +5388,7 @@ __keel__ _v_ :three::hammer: (keeled)
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
-__keep tabs on__ :two::hammer: :es: vigilar  
+__keep tab(s) (on someone or something)__ _idiom_ :three::hammer: :es: vigilar _I don't keep tabs on him._  
 __keep up__  
 __keep__ _n_ :es: torreón  
 __keepsake__ _n_ :two: A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -5673,6 +5678,7 @@ __lifeblood__ _n_ :two: The blood, as being necessary to life.
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
 __lifelong__ _adj_  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
+__lift__ _n_ _I could give you a lift home._  
 __liftgate__  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __lightbulb moment__  
@@ -6496,6 +6502,7 @@ __oars__ _n_ :two::hammer:
 __oases__ _n_  
 __oat__ _n_  
 __oatmeal__  
+__obi__ _n_  
 __obit__ :two::hammer:  
 __obituaries__  
 __obituary__  
@@ -6854,6 +6861,7 @@ __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His gr
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
 __pathogenic__  
 __pathogens__ _n_  
+__pathologist__ _n_  
 __pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patinated__ _v_  
 __patois__  
@@ -7312,7 +7320,7 @@ __predicament__
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
-__preen__ _v_ :six::hammer: (preened, preening) _She didn't preen for her grandfather._  
+__preen__ _v_ :seven::hammer: (preened, preening) _She didn't preen for her grandfather._  
 __prefab__ _Prefab vacations._  
 __premier__ _adj_  
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
@@ -8222,7 +8230,7 @@ __sapphire lidar__
 __sappy__ _Sappy smile._  
 __sarcophagus__  
 __sartorial__  
-__sash__  
+__sash__ _n_ :two::hammer: _A sash cord._  
 __sashay__ _v_ :four: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sass__ _v_ (sassed)  
 __sassy__  
@@ -8428,7 +8436,7 @@ __sentient__ _adj_ :four::hammer:
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sequestered__ _v_  
 __sequestration__ _Sequestration of the jury._  
-__sequin__ _n_ :four::hammer: (sequins) :es: lentejuela  
+__sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
 __sere__ _The sere terrain._  
@@ -9962,7 +9970,7 @@ __tinderdry__
 __tines__  
 __tinfoil hat__  
 __tinge__ :two::hammer:  
-__tingle__ _v_ :four: (tingled, tingling) Cause a stinging or tingling sensation.  
+__tingle__ _v_ :five: (tingled, tingling) Cause a stinging or tingling sensation.  
 __tingles__ _I'm all tingles and shakes._  
 __tink__ _v_  
 __tinker__ _v_  
@@ -10592,10 +10600,10 @@ __waffling__
 __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
 __wafted__ _v_  
 __wafting__ _v_  
+__wag__ _v_ :two::hammer: _The puppy was wagging its tail._  
 __wage__  
 __waged__ _v_  
 __wagered__ _v_ :astonished: _I'd have wagered so._  
-__wagging__ _v_ _Wagging their tails._  
 __waging__ _v_  
 __wagon__  
 __waifish__  
@@ -10951,7 +10959,7 @@ __yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
-__yap__ _v_ _The dog was yapping._  
+__yap__ _v_ :two::hammer: (yapping) _The dog was yapping._  
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
