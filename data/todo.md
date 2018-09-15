@@ -1,4 +1,15 @@
 
+__ghastly__  
+__histamine__ _n_  
+__stew__ _A stew of drugs and gang crime._  
+__ropes__ _He's teaching her the ropes._  
+__lode__ _n_  
+__prospective__ _Prospective clients._  
+__salacious__ _adj_  
+__short hand__  
+__slayer__  
+__keyed up__ _I was too keyed up to sleep._  
+
 __cubbyhole__ _n_ (cubby-hole)  
 __appalled__  
 __gaunt__ _adj_  
