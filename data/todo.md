@@ -1,4 +1,13 @@
 
+__bob__ _v_ _They had bobbed noses._  
+__for the better__ _My luck did not change for the better upon arrival at the bank._  
+__foul language__  
+__keep tabs__  
+__rebuff__ _v_ (rebuffed)  
+__petty__ _Don't be so petty._  
+__penchant__  
+__blinders__ _n_  
+
 __ghastly__  
 __histamine__ _n_  
 __stew__ _A stew of drugs and gang crime._  
