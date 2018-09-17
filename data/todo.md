@@ -1,24 +1,4 @@
 
-__bob__ _v_ _They had bobbed noses._  
-__for the better__ _My luck did not change for the better upon arrival at the bank._  
-__foul language__  
-__keep tabs__  
-__rebuff__ _v_ (rebuffed)  
-__petty__ _Don't be so petty._  
-__penchant__  
-__blinders__ _n_  
-
-__ghastly__  
-__histamine__ _n_  
-__stew__ _A stew of drugs and gang crime._  
-__ropes__ _He's teaching her the ropes._  
-__lode__ _n_  
-__prospective__ _Prospective clients._  
-__salacious__ _adj_  
-__short hand__  
-__slayer__  
-__keyed up__ _I was too keyed up to sleep._  
-
 __cubbyhole__ _n_ (cubby-hole)  
 __appalled__  
 __gaunt__ _adj_  

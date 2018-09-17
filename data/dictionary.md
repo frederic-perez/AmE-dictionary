@@ -1259,6 +1259,7 @@ __blight<sup>1</sup>__ _n_ :two::hammer:
 __blight<sup>2</sup>__ _v_ :two::hammer: (blighted)  
 __blimp__ :two::hammer: _A blimp hangar._  
 __blind date__  
+__blinders__ _n_  
 __blindfold__ _n_  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
 __blindside<sup>2</sup>__ _v_ :three: (blind side, blindsided) To catch off guard; to take by surprise.  
@@ -1325,7 +1326,7 @@ __boardwalk__
 __boast__ _v_ _I can boast about it for eternity._  
 __boaters__  
 __boatswain__  
-__bob__ _v_ :four::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._  
+__bob__ _v_ :five::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ _They had bobbed noses._  
 __bobbed__ _v_  
 __bobber__ _n_ :two::hammer:  
 __bobbing__ _Bags bobbing in the water._  
@@ -3976,6 +3977,7 @@ __for good__ _Leadville's only hospital is preparing to close for good in March.
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for starters__  
 __for the ages__ _idiom_ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
+__for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the most part__  
 __for the sake of__  
 __for what is worth__  
@@ -4023,6 +4025,7 @@ __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direct
 __forthright__  
 __fortified wine__  
 __fortnight__  
+__foul language__  
 __foul play__ _n_ :five::dart: Violence, _esp_ murder.  
 __foul__ _Foul language._  
 __founder__ _v_ :three::hammer: (foundered) _The attempt foundered._  
@@ -4256,7 +4259,7 @@ __get the middle finger__
 __get-go__ :three::hammer: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
-__ghastly__ _adj_ :five::hammer:  
+__ghastly__ _adj_ :six::hammer:  
 __ghoul__ _n_ :three::hammer:  
 __gibbet__ _n_  
 __gibblets__ _n_  
@@ -4833,6 +4836,7 @@ __hip flask__ :camera:
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hirsutism__  
 __hissy__ _Hissy fit._  
+__histamine__ _n_  
 __hit and miss__  
 __hit man__  
 __hit on all eight__ _So far it's not hitting on all eight._  
@@ -5388,7 +5392,7 @@ __keel__ _v_ :three::hammer: (keeled)
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
-__keep tab(s) (on someone or something)__ _idiom_ :three::hammer: :es: vigilar _I don't keep tabs on him._  
+__keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
 __keep up__  
 __keep__ _n_ :es: torreón  
 __keepsake__ _n_ :two: A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -5401,7 +5405,7 @@ __keno__ _n_
 __kerchief__ _n_  
 __kerkuffles__  
 __keseboy__  
-__key up__ _He was too keyed up._  
+__key up__ :two::hammer: _He was too keyed up._ _I was too keyed up to sleep._  
 __keystone__ :es: piedra angular  
 __keystrokes__  
 __khakis__ _n_ :two::hammer:  
@@ -5762,6 +5766,7 @@ __locksmith__
 __lockstep__ :two::hammer:  
 __locust__ :two::hammer:  
 __locusts__ _n_  
+__lode__ _n_  
 __lodges__ _Fishing lodges._  
 __lodging__  
 __lodgings__  
@@ -6978,7 +6983,7 @@ __petite__
 __petroglyphs__ _Ancient Indian petroglyph._  
 __petroleum jelly__  
 __petted__  
-__petty__ _A petty argument resulted in her son's murder._  
+__petty__ :two::hammer: _A petty argument resulted in her son's murder._ _Don't be so petty._  
 __petulance__  
 __petulant__ _adj_ :three::mega::hammer:  
 __pew__ _Church pews._  
@@ -7432,6 +7437,7 @@ __prosaic__
 __proselytism__ :astonished:  
 __proselytize__ _v_ :four::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prospect__ _n_ (sports)  
+__prospective__ _Prospective clients._  
 __prospector__  
 __prospectus__  
 __prostrate__ _v_  
@@ -7757,7 +7763,7 @@ __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a g
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
-__rebuff__ _v_ :seven: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
+__rebuff__ _v_ :eight: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
 __rebuke__ _n_ :four::hammer:  
 __rebut__ _v_  
 __rec__ _Damonika has worked as youth and rec leader._  
@@ -8087,7 +8093,7 @@ __rootered__ _v_
 __rooting__ _v_ _She was rooting in the Dumpster._  
 __rope in__ _v_  
 __rope-a-dope__ :two::hammer:  
-__ropes__ _They need to learn the ropes._  
+__ropes__ :two::hammer: _He's teaching her the ropes._ _They need to learn the ropes._  
 __ropy__ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosary__ _n_ (rosaries)  
 __rosin box__  
@@ -8190,7 +8196,7 @@ __saggy__
 __sahib__  
 __sake__ _For comparison's sake, it hit 90 twice here all of last July._  
 __sakura__  
-__salacious__ _adj_ :three::hammer: _Salacious music._  
+__salacious__ _adj_ :four::hammer: _Salacious music._  
 __salad spinner__ _n_  
 __sales force__  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
@@ -8585,6 +8591,7 @@ __shopkeeper__ _n_ :three::hammer:
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short fuse__  
+__short hand__  
 __short-charge__  
 __short-handed__ _adj_ :four::hammer: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__  
@@ -8791,6 +8798,7 @@ __slats__ _n_ :four::hammer: _The slats in the dock._ _Wood slats._
 __slatted__ _v_ :two::hammer: _Slatted sunlight._  
 __slatternly__  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
+__slayer__  
 __sleaziest__  
 __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
 __sleek__  
@@ -9339,7 +9347,7 @@ __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's 
 __sterling__ :two::hammer: _A sterling example._  
 __stern__ _n_ :two::hammer:  
 __stew-bums__ _n_  
-__stew<sup>1</sup>__ _n_ :two::hammer: _It captures the stew of hate._  
+__stew<sup>1</sup>__ _n_ :three::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
 __stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._  
 __steward__ _n_ :three::hammer: (stewards) _Concerned stewards of the Earth._  
 __stewardship__  
