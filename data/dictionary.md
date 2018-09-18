@@ -518,6 +518,7 @@ __adjourne__ _v_ _The trip was adjourned to Feb. 1._
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
 __adjuvant__ _adj_ _The adjuvant setting._  
+__admin__ _I was doing just admin stuff._  
 __admixture__  
 __admonition__ _n_ :six: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
@@ -705,7 +706,7 @@ __apoplectic__
 __apostasy__  
 __apostate__ _n_ :three::hammer: (apostates)  
 __apostrophe__  
-__appall__ _v_ (appalled) :two::hammer::pencil2: :es: horrorizar, espantar  
+__appall__ _v_ (appalled) :three::hammer::pencil2: :es: horrorizar, espantar  
 __appalling__ _adj_ :two: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __appalls__ _v_  
 __apparatchiks__  
@@ -2612,7 +2613,7 @@ __cryptomining__
 __crystal meth__  
 __crystal__ _Meth?_  
 __crystalline__ _Cristalline lens._  
-__cubbyhole__  
+__cubbyhole__ _n_ (cubby-hole) :two::hammer:  
 __cuckold<sup>1</sup>__ _n_ :two::hammer:  
 __cuckold<sup>2</sup>__ _v_ :two::hammer:  
 __cuckolded__ _adj_ :two::hammer:  
@@ -3455,6 +3456,7 @@ __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
 __entwined__  
+__enunciation__  
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
 __envisage__ _v_  
 __envision__ _v_ :two::hammer:  
@@ -4197,6 +4199,7 @@ __garish__ _adj_ :six::hammer::astonished: _They are charming and garish at the 
 __garland__ _n_ :three::camera::hammer:_Garland motifs on carved oak paneling._ _Evergreen garlands._  
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
+__garnets__ _n_  
 __garnish__ _v_ :two::hammer:  
 __garrison__ _n_  
 __garroted__ _v_  
@@ -4214,7 +4217,7 @@ __gasped__ _v_ :three::hammer:
 __gat__  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__  
-__gaunt__ _adj_ :seven: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
+__gaunt__ _adj_ :eight: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
 __gauze__ _n_ :three::hammer: :es: gasa  
@@ -5158,6 +5161,7 @@ __indenture__ _v_
 __indentured__  
 __indict__ _v_ :five::hammer: (indicted)  
 __indictment__ _n_ :four::hammer:  
+__indigenous__ _Indigenous people._  
 __indiscreet__  
 __indispensable__  
 __indomitable__ :two::hammer: _Indomitable will._  
@@ -6096,6 +6100,7 @@ __miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would
 __might__ _China's economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
 __milch__ :two::hammer: _A milch cow._  
+__mild__ _A mild day in October._  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mile-a-minute__ _A mile-a-minute talker._  
@@ -6124,7 +6129,7 @@ __minstrel__ :two::hammer:
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
-__minutia__  
+__minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :four::hammer:  
 __mirthful__  
@@ -7586,8 +7591,8 @@ __quenches__ _v_
 __querulous__ :two::hammer:  
 __query__ :mega:  
 __questioner__ _n_  
-__quibble__ _v_  
-__quibbled__ (quibbling) :two::hammer: _Their word choice gets quibbled with._  
+__quibble<sup>1</sup>__ _n_ :dart: A small objection or criticism.  
+__quibble<sup>2</sup>__ _v_ :three::hammer: (quibbled, quibbling) _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
 __quicken__  
 __quickening__ :two::hammer: _He felt a quickening within him._  
@@ -7849,8 +7854,8 @@ __regulatory__
 __rehash__ _v_ :two::hammer:  
 __reign__ _n_  
 __reimagining__ _n_  
-__reinstate__ _v_ :two::hammer:  
-__reinstatement__  
+__reinstate__ _v_ :three::hammer:  
+__reinstatement__ _n_  
 __reiterate__ _v_  
 __rejigged__ _v_  
 __rejiggered__  
@@ -8265,6 +8270,7 @@ __scabs__ _n_ :two::hammer:
 __scads__ _n_ :two: A large number of quantity. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __scaffold__  
 __scaffolding__ _n_  
+__scale up__ _v_ _That's the challenge of scaling up._  
 __scallions__ _n_ :three::hammer:  
 __scallop__ :two::hammer: _A scallop-shell logo._  
 __scalp bounties__  
@@ -8783,7 +8789,7 @@ __slacker__ :two::hammer: _Do you, George McFly, want to be a slacker for the re
 __slag__  
 __slake__ _v_  
 __slam__ _v_ :two::hammer: _LeBron slams Phil Jackson for comment._  
-__slander__ _v_ :four::hammer: (slandering)  
+__slander__ _v_ :five::hammer: (slandering)  
 __slant__  
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
@@ -8830,7 +8836,7 @@ __slime__
 __sling__ _n_ :two::hammer: _The sling wrappred around his forearm._  
 __slinger__  
 __slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
-__slip<sup>1</sup>__ _n_ _A pink slip._  
+__slip<sup>1</sup>__ _n_ :two::hammer: _A pink slip._ _A slip of paper._  
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__ _n_ :two::hammer:  
 __slipper__ _n_ :two::hammer: (bag?)  
@@ -10027,7 +10033,8 @@ __toe<sup>2</sup>__ _v_ :two::hammer: (toed)
 __toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
 __toffs__ _Young toffs._  
-__toil__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
+__toil<sup>1</sup>__ _n_ Hard unpleasant work done over a long period.  
+__toil<sup>2</sup>__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
 __toilet bowl__  
 __toilet stool__  
 __toiletries__  
@@ -10105,6 +10112,7 @@ __tracksuit__ _n_ :two: A loose-fitting jacket and pants worn by athletes and ex
 __tractor trailer__ :two::hammer::camera: (tractor-trailer)  
 __trade paperback__  
 __trade-off__ _She has to make trade-offs._  
+__traduce__ _v_ :astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
 __trail mix__ :two::hammer: _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
@@ -10532,7 +10540,7 @@ __vermicelli__
 __vermillion__  
 __vermin__ _n_ :four::hammer:  
 __vermouth__ _n_  
-__vernacular__  
+__vernacular__ _n_ :two::hammer:  
 __vertical farm__  
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
