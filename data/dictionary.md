@@ -59,6 +59,7 @@ __Britons__
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __C-rations__  
+__C-suite__ _C-suite staff._  
 __CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
 __CFL__ _Compact fluorescent lamp._  
 __CID__  
@@ -392,6 +393,7 @@ __Taser__ _A Taser stun gun._
 __Tea partyers__ :pencil2:  
 __Teamster__ _n_ :two::hammer:  
 __Tecnetium__  
+__Tempranillo__  
 __Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.  
 __Texas Panhandle__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
@@ -1604,7 +1606,7 @@ __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or saf
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bumble__ _v_ :eight: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
-__bumblebees__  
+__bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bumper__  
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
@@ -1629,6 +1631,7 @@ __buoy<sup>1</sup>__ _n_
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
+__bureaucracy__  
 __burgeoning__ _adj_ :seven::hammer:  
 __burgermeister__  
 __burgundy__ :two::hammer: _Burgundy outfit._  
@@ -2882,6 +2885,7 @@ __deterrent__ _n_ :seven: A deterrent makes you not want to do something. Let's 
 __detour__  
 __detractor__  
 __detritus__ _n_  
+__devastate__ _v_  
 __develop__ _v_ :mega:  
 __development__ :two::hammer: _Choose your home from 8 new developments across London._  
 __devil-may-care style__  
@@ -3171,7 +3175,7 @@ __drawstring__ _n_
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
 __drayman__  
 __dread<sup>1</sup>__ _n_  
-__dread<sup>2</sup>__ _v_  
+__dread<sup>2</sup>__ _v_ :two::hammer:  
 __dreamy__  
 __dredge up__ _phr v_ :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :three::hammer: _They dredged mud._  
@@ -3921,6 +3925,7 @@ __fluff__
 __fluffy__  
 __fluke__ _n_ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flummox__ _v_ :four::hammer: (flummoxed)  
+__flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__  
 __flunkie__ :two::hammer: _You"re just another flunkie for the state._  
@@ -5259,6 +5264,7 @@ __irrefutable__ _adj_ _Irrefutable evidence._
 __irreplaceable__  
 __islet__ _Transplanting islet cells into the liver._  
 __issuance__ _n_ :three::hammer:  
+__issue__ _v_  
 __isthmus__  
 __it so happens__  
 __it's a dog's life__ :dart::astonished:  
@@ -5638,6 +5644,7 @@ __leis__ _Scented leis._
 __leitmotif__  
 __lemme__ _Lemme see._  
 __lemon wedges__ :camera: _Lemon wedges for serving._  
+__lemon__ _n_ _This house is a lemon, honey._  
 __lemongrass__  
 __lemons > dance of the lemons__  
 __lemony__  
@@ -6539,6 +6546,7 @@ __oddly enough__
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odometer__ :two::hammer:  
+__of a kind__ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
 __of sorts__ _"The 13 clocks" is a poem of sorts._  
 __of__ _The gas smells of roggen eggs._  
@@ -6711,7 +6719,7 @@ __outsmart__ _v_
 __outspend__ _v_  
 __outspoken__ _adj_ :seven::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstripped__ _v_  
-__outta__ _Straight outta Tahoe._  
+__outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "out of." _Straight outta Tahoe._  
 __outtakes__ _n_  
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
@@ -7164,6 +7172,7 @@ __plead__ _v_ :two::hammer: _Lee is pleading with viewers to watch hthe film wit
 __please__ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pledge__ _n_ :two::hammer:  
+__plenty of (something)__  
 __plethora__ _n_ :three::hammer:  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
@@ -7222,6 +7231,7 @@ __pointed questions__
 __poise__  
 __poke__ _v_  
 __poky__ :two::hammer: _Coverage was a little poky._  
+__polarity__ _n_ :mega:  
 __polarizing__  
 __police state__ _A society log run as a police state._  
 __policyholder__  
@@ -7389,6 +7399,7 @@ __priming__ _v_
 __primly__ :two::hammer:  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
 __prior__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
+__prioritize__ _v_  
 __prise__ _n_  
 __prissy__ _adj_ :two::hammer:  
 __privy__ _n_ :five::hammer:  
@@ -8184,6 +8195,7 @@ __sac-a-lait__
 __sackful__  
 __sacristan__  
 __sacristy__ _n_  
+__sacrosanct__  
 __saddle__ _A saddle of meat._  
 __sadism__ _n_  
 __sadistic__ _adj_  
@@ -9182,6 +9194,7 @@ __sprinkle<sup>2</sup>__ _v intr_ :nine: __1__ To scatter something in drops or 
 __sprinkler__ _n_ :three::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkles__ _v_  
 __sprinkling__ _A sprinkling of luck._  
+__sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprouting__  
 __spruce up__ _v_ :three::hammer: _Juliette spruces up her country look and sound._  
 __spruce__ _n_ :three::hammer:  
@@ -10156,6 +10169,7 @@ __trellises__ _From his trellises._
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
 __trench coat__ _n_  
 __trepidation__ _n_ :three::hammer:  
+__trespass__ _v_ _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
 __trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  

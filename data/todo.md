@@ -1,23 +1,4 @@
 
-__devastate__ _v_  
-__polarity__ _n_ :mega:  
-__bureaucracy__  
-__dread__ _v_  
-__plenty of (something)__  
-__sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
-__bumblebee__  
-__flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
-
-__lemon__ _n_ _This house is a lemon, honey._  
-__sacrosanct__  
-__C-suite__ _C-suite staff._  
-__outtatime__ (?)  
-__prioritize__ _v_  
-__Tempranillo__  
-__trespass__ _v_ _No trespassing._  
-
-__issue__ _v_  
-__of a kind__ _You are two of a kind._  
 __sorbet__ _n_ :mega:  
 __egg white__  
 __bunch__ _n_ _Bunches of grapes._  
