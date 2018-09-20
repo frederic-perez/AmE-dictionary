@@ -1475,6 +1475,7 @@ __brazier__
 __breach__ _v_ :five: (breached) To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
+__break (one's) neck__  
 __break a leg__ _idiom_  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
@@ -1613,7 +1614,8 @@ __bumpkin__
 __bumps in the road__  
 __bumpy__  
 __bun__ _n_  
-__bunch__ _v_ :camera::five::hammer: (bunched) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
+__bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
+__bunch<sup>2</sup>__ _v_ :camera::five::hammer: (bunched) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
 __bunching socks__ :camera:  
 __bungalow__  
 __bungee cord__ _n_ :camera::three::hammer:  
@@ -2933,7 +2935,7 @@ __dimwit__ _n_ :three::hammer: (dimwits)
 __dimwitted__  
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
-__ding__ _v_ :three::hammer: (dinged) _I am also getting tired of my property taxes being dinged._  
+__ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
 __dinghy__ _n_ :seven: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinking__ _v_  
 __dinky__ :two::hammer: _A dinky little community._  
@@ -3164,6 +3166,7 @@ __dramedy__
 __drape<sup>1</sup>__ _n_ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :six::hammer: (draped, draping)  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
+__draw a blank__ _idiom_  
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
 __draw<sup>2</sup>__ _v_ :two::hammer: _I'll draw some blood to be sure._ _We win, lose and draw together._  
@@ -3341,6 +3344,7 @@ __effortless__ _adj_
 __effrontery__  
 __effusive__  
 __egg roll__  
+__egg white__  
 __egg__ _v_  
 __egghead__ _n_ :two::hammer:  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
@@ -3772,6 +3776,7 @@ __finery__
 __finesse<sup>1</sup>__ _n_  
 __finesse<sup>2</sup>__ _v_  
 __finest hour__ :astonished:  
+__finger on the pulse__ _idiom_  
 __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger-waggers__  
 __finicky__ :two:hammer:  
@@ -4690,6 +4695,7 @@ __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ :two::hammer: _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :three::hammer: _Jacob and Davis each hauled in 10 passes._  
+__hauler__ _n_  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
@@ -5480,6 +5486,7 @@ __knell__ _n_ :three::hammer:
 __knit tie__  
 __knit__ _v_ :two: To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
+__knock someone's socks off__  
 __knock-knock joke__  
 __knock__ _n_  
 __knockout<sup>1</sup>__ _n_  
@@ -6244,7 +6251,7 @@ __mortar shell__
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
 __mortice__  
 __mortification__  
-__mortify__ _v_ :three::hammer: (mortified)  
+__mortify__ _v_ :four::hammer: (mortified)  
 __mortuaries__  
 __mos.__ (Months?)  
 __mosh__  
@@ -6921,6 +6928,7 @@ __peddle__ _v_
 __peddling__  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
 __pedestrianized__ _v_  
+__peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peep__ _n_ :two::hammer:  
 __peer__ _Peering into their crystal balls._  
@@ -8102,6 +8110,7 @@ __rooftop__ _n_ :six::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terr
 __room gear__ _Dorm room gear._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
+__roost__ _v_  
 __rooster__ :two::hammer:  
 __root beer__  
 __rooter__  
@@ -8895,7 +8904,7 @@ __slumming__ _v_ :two::hammer:
 __slumped__ _v_  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__ _n_ :two::hammer:  
-__slurp__ _v_ :three::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
+__slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
 __slush__ _n_ :two::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
@@ -9059,6 +9068,7 @@ __sop__ _A wine sop._
 __sophomore__  
 __sopping__ _v_  
 __soppy__  
+__sorbet__ _n_ :mega:  
 __sorely__ :two::hammer:  
 __sorghum__  
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
@@ -9189,10 +9199,9 @@ __sprigs__
 __springboard__ :two::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
-__sprinkle<sup>1</sup>__ _v tr_ :nine: (sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
+__sprinkle<sup>1</sup>__ _v tr_ :nine::m: (sprinkles, sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
 __sprinkle<sup>2</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
-__sprinkler__ _n_ :three::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
-__sprinkles__ _v_  
+__sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkling__ _A sprinkling of luck._  
 __sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprouting__  
@@ -9903,6 +9912,7 @@ __thereafter__ _Texas took the lead on Javan Felix's two free throws shortly the
 __thereof__  
 __thermos__ _A thermos._  
 __thespian__ :two::hammer:  
+__thick accent__ _Arnold's accent is getting thicker._  
 __thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
 __thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
@@ -9920,7 +9930,7 @@ __thoroughfare__
 __thoroughly__  
 __thrall__ _n_ :five::hammer:  
 __thrash__ _v_ :nine::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._ _Thrash talk._  
-__thrifty__  
+__thrifty__ _adj_ :two::hammer:  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
 __throes__ _n_ :four::hammer:  

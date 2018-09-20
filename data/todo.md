@@ -1,23 +1,4 @@
 
-__sorbet__ _n_ :mega:  
-__egg white__  
-__bunch__ _n_ _Bunches of grapes._  
-__hauler__ _n_  
-__roost__ _v_  
-__peek-a-view__  
-
-__thick accent__ _Arnold's accent is getting thicker._  
-__sprinkle__ _v_ _Sprinkling his ashes._  
-__sprinkler__ _n_  
-__draw a blank__ (?)  
-__mortify__ _v_ (mortified)  
-__thrifty__ _adj_  
-__break (one's) neck__  
-__knock someone's socks off__  
-__slurp__ _v_  
-
-__ding__ _v_ _They were dinging me on their way out._  
-__finger in the pulse__ _But then my finger is in the pulse._  
 __riff__ _v_  
 __newbie__ _n_ (newbies)  
 __elope__ _v_  
