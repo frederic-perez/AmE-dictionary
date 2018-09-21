@@ -1,23 +1,4 @@
 
-__riff__ _v_  
-__newbie__ _n_ (newbies)  
-__elope__ _v_  
-__pelt__ _v_  
-__dreamy__  
-__handsy__ (?)  
-__nerve-racking__ _adj_  
-__abs__ _n_  
-
-__utterly__ :two::hammer: _An utterly trivial dispute._  
-__goading__ _v_  
-__twiddle__ _v_  
-__barbs__ _His sharp barbs._  
-__lacerate__ _v_  
-__vape__ _I'm with a beer smoking on my vape._  
-__sloth__ _A baby sloth._  
-__zeitgeist__  
-__case in point__  
-__heed__  
 __crackdown__ _n_  
 __clampdown__ _An immigration clampdown._  
 __concrete__ _n_ :two::hammer: _A concrete wall._  

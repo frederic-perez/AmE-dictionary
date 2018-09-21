@@ -461,7 +461,7 @@ __abrade__ _v_
 __abreast__ _adv_ :four: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abrogation__ :two::hammer:  
 __abruptly__  
-__abs__ _Six-pack abs._  
+__abs__ _n_ :two::hammer: _Six-pack abs._  
 __absconded__ _v_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __abundant__  
@@ -971,7 +971,7 @@ __banter__ _n_ :four::hammer:
 __bar top__  
 __barbecue__ _Barbecue sauce._  
 __barbells__  
-__barbs__  
+__barbs__ _n_ :two::hammer: _His sharp barbs._  
 __barded__ _v_  
 __bare-bones__ _A bare-bones lab._  
 __barf bag__  
@@ -1854,7 +1854,7 @@ __carve out__ _v_ (carved out) :six::hammer:
 __carveouts__  
 __cascading__  
 __case at hand__  
-__case in point__ _n_ :four::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
+__case in point__ _n_ :five::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case the joint__  
 __case__ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
@@ -3179,7 +3179,7 @@ __dray__ _n_ :two::hammer: (drays) _Dray horse._
 __drayman__  
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_ :two::hammer:  
-__dreamy__  
+__dreamy__ :two::hammer:  
 __dredge up__ _phr v_ :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :three::hammer: _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
@@ -3378,7 +3378,7 @@ __elicit__ _v_ :five::hammer: (elicited)
 __elide__ _v_  
 __eligibility__  
 __elite__ (elites) :two::hammer:  
-__elope__ _v_ :six::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
+__elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
 __elusive__  
@@ -4354,7 +4354,7 @@ __go to the wire__
 __go-ahead goal__  
 __go-for-broke__  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
-__goad__ _v_ :three::hammer:  
+__goad__ _v_ :four::hammer: (goading)  
 __goads__ _n_  
 __goahead__  
 __goalie__  
@@ -4624,6 +4624,7 @@ __hands down__ _Hands down, best episode ever._
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _The hands-off approach._  
+__handsy__ _adj_ Prone to touching other people with one's hands, especially inappropriately.  
 __handyman__ _n_ :three::hammer:  
 __hanger__ _n_ _You left some hangers at my place._  
 __hangnail__ :two::hammer:  
@@ -4769,7 +4770,7 @@ __hedge<sup>1</sup>__ _n_
 __hedge<sup>2</sup>__ _v_ :two::hammer: (hedging)  
 __hedonic__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
-__heed__ _v_ :seven: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
+__heed__ _v_ :eight: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__  
 __heedlessly__  
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
@@ -5514,6 +5515,7 @@ __labrotories__ ?
 __labrum__  
 __lace up__ _v_ _Adam laced up his Nikes._  
 __lace__ _n_  
+__lacerate__ _v_  
 __lackadaisical__  
 __lackey__ _n_ :two::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
@@ -6403,8 +6405,7 @@ __neophyte__
 __neorealist__  
 __neoteric__  
 __nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
-__nerve racking__  
-__nerve-racking__  
+__nerve-racking__ _adj_ :three::hammer: (nerve racking)  
 __nerve__ :two::hammer: _He's got nerve._  
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
@@ -6413,6 +6414,7 @@ __nether__
 __neuroblastoma__  
 __neutered__  
 __neutrinos__ _n_  
+__newbie__ _n_ (newbies)  
 __newborn__ _n_  
 __newly__ _The newly elected leader of the Senate Democrats._  
 __news media outlets__  
@@ -6939,7 +6941,7 @@ __peevishly__
 __pegged__ _v_ :two::hammer:  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
-__pelt<sup>2</sup>__ _v_ :three::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
+__pelt<sup>2</sup>__ _v_ :four::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
 __pen name__  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
@@ -8018,10 +8020,9 @@ __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society i
 __ridership__ :two::hammer:  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff<sup>1</sup>__ _n_ :two::hammer:  
-__riff<sup>2</sup>__ _v_ :two::hammer: (rif, riffed, riffing)  
+__riff<sup>2</sup>__ _v_ :five::hammer: (rif, riffs, riffed, riffing)  
 __riffle__ _v_ :three::hammer: (riffled) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
-__riffs__ _v_ :two::hammer:  
 __rifle__ _v_  
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
@@ -8883,7 +8884,7 @@ __sloppy seconds__
 __sloppy__ :two::hammer: _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
-__sloth__ _n_ :three: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
+__sloth__ _n_ :four: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ (slouching)  
 __slouchy__  
@@ -10314,6 +10315,7 @@ __tweak<sup>2</sup>__ _v_
 __tweed__  
 __tweeny-weeny__  
 __twice as good__ _They took "twice as good as a challenge._  
+__twiddle__ _v_  
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
 __twine__ _n_ :two::hammer: _Tie the legs of the turkey together with twine._  
@@ -10503,7 +10505,7 @@ __utilitarian__
 __utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utmost__ _adj_ :three::hammer:  
 __utterance__  
-__utterly__ _adv_ :three::hammer:  
+__utterly__ _adv_ :five::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __vacant-eyed__  
 __vacant__ _Adam parked in a vacant spot._  
@@ -10529,6 +10531,7 @@ __vane__ _n_ :two::hammer: _A smooth metal weather vane._ _A weather vane._
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
+__vape__ _I'm with a beer smoking on my vape._  
 __vapid__ _adj_ :five: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
 __variety store__  
@@ -11052,7 +11055,7 @@ __zeal__ _n_
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ _n_ :two: A German word meaning time spirit, used to mean the spirit of the age.  
+__zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
 __zeppelin__ _n_  
 __zero hour__  
 __zero in__ _v_ :two::hammer: _I zeroed in on the first item._  
