@@ -1,4 +1,15 @@
 
+__ascribe__  
+__paraphilia__ _n_  
+__get off on__  
+__onerous__  
+__wane__ _v_  
+__expletive__  
+__ungulate__  
+__soundly__ _Sleep soundly._  
+__goodness gracious__  
+__ilk__  
+
 __crackdown__ _n_  
 __clampdown__ _An immigration clampdown._  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
