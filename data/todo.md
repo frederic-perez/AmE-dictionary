@@ -1,4 +1,15 @@
 
+__cloud nine__  
+__choke__ _v_ _Why do we choke under pressure?_  
+__demur__ _v_  
+__anecdotal__ :mega:  
+__scooter__ _n_ :es: patinete  
+__spigot__  
+__dismisive__  
+__recollection__  
+__curmudgeon__  
+__TMI__ Too much information.  
+
 __ascribe__  
 __paraphilia__ _n_  
 __get off on__  
