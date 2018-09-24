@@ -1,4 +1,17 @@
 
+__paperclip__ _n_  
+__ostracism__ _n_  
+__shun__ _v_ 
+__cooktop__ _n_  
+__?__ _n_ :es: terminatriz  
+__sentient__  
+__ooze__  
+__boo hoo man__ (?)  
+__burpee__ _n_  
+__voiceover__  
+__sitter__ (Babysitter?)  
+__outlandish__  
+
 __cloud nine__  
 __choke__ _v_ _Why do we choke under pressure?_  
 __demur__ _v_  
