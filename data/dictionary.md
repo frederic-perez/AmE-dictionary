@@ -666,6 +666,7 @@ __ancillary__ :two::hammer:
 __and how!__  
 __and so it goes__  
 __andirons__  
+__anecdotal__ :mega:  
 __anew__ _adv_ :three::hammer:  
 __angle iron__  
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
@@ -1383,6 +1384,7 @@ __boo<sup>2</sup>__ _interj_
 __booby-trapped 105's__  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
+__boohoo__ _v_  
 __bookcases__ _n_ :two::hammer:  
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
@@ -1644,6 +1646,7 @@ __burners__ (gas cooktop) :camera:
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
 __burp__ :two::hammer:  
+__burpee__ _n_  
 __burqa__  
 __burr haircut__  
 __burrhead__ _n_  
@@ -2029,7 +2032,8 @@ __chiseled__
 __chive__ _n_  
 __chivvied__  
 __choice__ _v_ _Pick your choice._  
-__choke__ _A team of choke artists._  
+__choke<sup>1</sup>__ _n_ _A team of choke artists._  
+__choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
 __choker__ _A velvet choker._  
 __chomp__ _v_  
 __chomping__  
@@ -2151,6 +2155,7 @@ __clothesline__
 __clothespin__ _n_ :camera:  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
+__cloud nine__  
 __clough__ _n_ :three::hammer:  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
@@ -2379,7 +2384,7 @@ __conwise__
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook-off__  
-__cooktop__ _n_ :four::hammer: _Ceramic/Electric/Gas cooktop._  
+__cooktop__ _n_ :five::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __cool your jets__  
 __coonass__ :two::hammer: (coonasses)  
@@ -2842,10 +2847,9 @@ __demonize__ _v_ :three::hammer: (demonizing)
 __demonstrate__ :pencil2:  
 __demonstration__ _n_  
 __demonstrators__  
-__demur__ _v_ (demurred) :two::hammer:  
+__demur__ _v_ (demurred) :four::hammer: (demurred)  
 __demure__ _adj_ :two::hammer:  
 __demurely__ _adv_ :three::hammer:  
-__demurred__ _v_  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dengue fever__  
 __dengue__  
@@ -6661,6 +6665,7 @@ __orthokeratology__
 __oscillating fan__  
 __ossified__ _v_ :two::hammer:  
 __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
+__ostracism__ _n_  
 __ostracize__ _v_  
 __other than that,__  
 __otherness__  
@@ -6828,6 +6833,7 @@ __pants-on-fire__
 __pantsed__ _v_  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
 __paper towels__  
+__paperclip__ _n_  
 __paperwork__  
 __pappy__  
 __paradox__  
@@ -8341,7 +8347,7 @@ __sconce__ _v_
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
 __scoot__ _v_  
-__scooter__ :two::hammer: _Motorized scooter._  
+__scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
 __score__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
@@ -8466,7 +8472,7 @@ __send-of__
 __sendup__ _v_ _A sendup of the genre._  
 __sensible__ :two::hammer: _This C++ contructor has sensible default values._  
 __sentience__  
-__sentient__ _adj_ :four::hammer:  
+__sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sequestered__ _v_  
 __sequestration__ _Sequestration of the jury._  
@@ -8683,7 +8689,7 @@ __shudderings__ _n_
 __shudders__ _v_ :two::hammer:  
 __shuffle off__  
 __shuffling__ _v_ :two::hammer:  
-__shun__ _v_ :eight: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
+__shun__ _v_ :nine: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
 __shunting__ _v_ _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>1</sup>__ _interj_  
 __shush<sup>2</sup>__ _v_  
@@ -8752,6 +8758,7 @@ __sire__
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sitdown__ _n_ :two::hammer:  
+__sitter__ _n_  
 __sitting pretty__ :two::hammer:  
 __sitting<sup>1</sup>__ _n_  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
@@ -9138,7 +9145,7 @@ __spent rocket stages__ :camera:
 __spew__ _v_ :six::hammer: (spewed) _Carbon-spewing coal power plants._  
 __spiel__  
 __spiffy__ :two::hammer:  
-__spigot__ _n_ :four: (spigots) A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
+__spigot__ _n_ :five: (spigots) A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
 __spike<sup>1</sup>__ _n_  
 __spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
 __spill the beans__  
@@ -10616,6 +10623,7 @@ __vocal<sup>2</sup>__ _n_
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __vodka__ :mega:  
 __voguish__  
+__voice over__ _n_ (voice-over)  
 __voicemail call__ _n_ (?)  
 __volatile__ _adj_  
 __volcano__  
