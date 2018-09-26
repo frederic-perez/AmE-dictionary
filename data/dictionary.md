@@ -386,6 +386,7 @@ __Sweet 16__ _sports_
 __T&A__  
 __T-ball__  
 __TBD__  
+__TMI__ Too much information.  
 __TM__ _abbr_ :two: Trascendental meditation.  
 __TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
 __T__ _v_ _His car shit the bed so he's going to have to T it._  
@@ -781,7 +782,7 @@ __ascendancy__ _Walt is in ascendancy in his criminal enterprise._
 __ascertain__ _v_  
 __ascetic__  
 __ascot__  
-__ascribe__ _v_ :two::hammer:  
+__ascribe__ _v_ :three::hammer:  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
@@ -2080,7 +2081,7 @@ __clam up__ _v_
 __clambake__ _n_  
 __clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
 __clammy__ :two::hammer:  
-__clampdown__ _n_ :three::hammer:  
+__clampdown__ _n_ :four::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clang__ _v_  
@@ -2306,6 +2307,7 @@ __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan).
 __concoction__ :two::hammer:  
 __concomitant__ :two::hammer:  
 __concourse__ :two::hammer:  
+__concrete__ _n_ :two::hammer: _A concrete wall._  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
 __condition__ _n_ :two::hammer:  
@@ -2658,7 +2660,7 @@ __curfew__ _n_ :three: A regulation requiring people to remain indoors between s
 __curios__  
 __curlicued__ _v_  
 __curlicues__  
-__curmudgeon__ _n_ :five: An ill-tempered person full of resentment and stubborn notions.  
+__curmudgeon__ _n_ :six: An ill-tempered person full of resentment and stubborn notions.  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :five: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
@@ -2999,7 +3001,7 @@ __disloyal__
 __dismal__ _adj_ :six: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
-__dismissive__ _Healthy young adults often are dismissive of health issues._  
+__dismissive__ _adj_ :two::hammer: _Healthy young adults often are dismissive of health issues._  
 __disparage__ _v_ :seven::hammer: (disparaged, disparaging)  
 __disparagement__ :two::hammer:  
 __dispatch__ _v_  
@@ -3561,7 +3563,7 @@ __expediting__ _v_
 __expeditiously__  
 __expenditure__ _n_ :three: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time.  
 __expertise__  
-__expletive__ :pencil2: _Bombing the expletive oout of its oil fields._  
+__expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
 __explicate__ _v_  
 __explication__ _n_  
 __exploit<sup>1</sup>__ _n_ :mega:  
@@ -4267,6 +4269,7 @@ __get ahold__
 __get away with__  
 __get enough__  
 __get looks__ _v_ :two::hammer:  
+__get off on (something)__  
 __get off__ _I always get off the bus a stop early on the way to work._  
 __get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
 __get out of here__  
@@ -4382,6 +4385,7 @@ __good sport(s)__
 __good-nature__  
 __goodliest__ :two::hammer:  
 __goodly__  
+__goodness gracious__  
 __goody-goody__ _Goody-goody expressions._  
 __gooey__ _adj_ :four: Soft and sticky. _Gooey butter cake._  
 __goof__ _v_ _Goofing around._  
@@ -5067,7 +5071,7 @@ __iffy__ :two::hammer: _Iffy call._
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __ignominious__  
-__ilk__ _n_ :two: Type or kind: _can't trust people of that ilk._  
+__ilk__ _n_ :three: Type or kind: _can't trust people of that ilk._  
 __ill__  
 __illiterate__  
 __illustrious__ _adj_ :three::hammer::pencil2: _An illustrious career._  
@@ -6623,7 +6627,7 @@ __one-note__
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-run__ _One-run games._  
-__onerous__ _adj_ :three::hammer::pencil2: _Onerous task._  
+__onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlookers__  
 __only problem is__  
@@ -6841,7 +6845,7 @@ __paragon__ _n_ :three::hammer: (paragons) _A paragon of redundancy._
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
-__paraphilia__  
+__paraphilia__ _n_ :two::hammer:  
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :four::hammer: _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
@@ -7815,7 +7819,7 @@ __recitalist__
 __reckon__ _v_ :three::hammer:  
 __reckoning__ _n_  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
-__recollection__ :two::hammer:  
+__recollection__ _n_ :three::hammer:  
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
@@ -9090,6 +9094,7 @@ __soul__ _n_ :mega:
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __sound__ :two::hammer: _A sound investment._ _A sound sleep._  
+__soundly__ _Sleep soundly._  
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
@@ -10411,6 +10416,7 @@ __unflinching__ :two::hammer:
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unfurl__ (unfurling) :two::hammer:  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
+__ungulate__  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
 __unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
@@ -10681,7 +10687,7 @@ __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
 __wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
-__wane__ _v_ :three::hammer: (waning) _The waning hours._  
+__wane__ _v_ :four::hammer: (waning) _The waning hours._  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton<sup>1</sup>__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
