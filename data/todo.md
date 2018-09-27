@@ -1,23 +1,4 @@
 
-__inset__  
-__grappling__  
-__gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
-__bursary__  
-__mooted__  
-__trespass__ _v_  
-__tirade__ _n_  
-__shy__ _Rob killed himself six months shy of his 40th birthday._  
-__stifle__ _v_  
-__alienate__ _v_  
-__chargrilled__ _Chargrilled chicken._  
-
-__atrocity__  
-__Prime Minister__  
-__red-letter day__  
-__minnows__  
-__au pair__  
-__fez__ _n_  
-__fall from the sky__ _This trust doesn't fall from the sky._  
 __bequeathed__ _v_  
 __battery__ _Counts of a domestic battery by strangulation._  
 __breach__ _n_  

@@ -319,6 +319,7 @@ __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references.
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __Prep__  
 __President-elect__ _n_ :six::hammer: (also president-elect)  
+__Prime Minister__  
 __Prohibitionists__  
 __Purple Hearts__  
 __Q&A__ _The gathering will feature question-and-answer sessions._  
@@ -604,7 +605,7 @@ __alderman__ _n_ :two::hammer:
 __alecky__ _Smart-alecky wit._  
 __alfresco__ _It had two small terraces for alfresco dining._  
 __algae__ _n_  
-__alienate__ _v_ :seven::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
+__alienate__ _v_ :eight::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
 __all in all,__ _phr_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
@@ -832,6 +833,7 @@ __atone__ _v_ :three::hammer: (atoned)
 __atop__  
 __atrium__  
 __atrocious__  
+__atrocity__  
 __atrophied__ _v_  
 __attack dog__ _n_  
 __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
@@ -842,6 +844,7 @@ __attest__ _v_
 __attire__ _n_ :four::hammer: _Casual attire is requested._  
 __attrition__ _n_ :six::hammer:  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
+__au pair__  
 __au shops__  
 __auburn__  
 __auction > silent auction__  
@@ -1654,6 +1657,7 @@ __burrhead__ _n_
 __burrow<sup>1</sup>__ _n_ :four::hammer:  
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
 __burrs__ _n_  
+__bursary__  
 __burst__ _v_ :two::hammer: (bursting)  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __business logic__  
@@ -1959,6 +1963,7 @@ __chapter__ _To the east was the chapter house._
 __charade__ _n_ :two::hammer:  
 __chard__  
 __charging__ Accuse formally.  
+__chargrilled__ _Chargrilled chicken._  
 __charily__  
 __charlatan__ _n_  
 __charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
@@ -3619,6 +3624,7 @@ __fair shake__
 __fair__ _To be fair to Jim, he didn't cause the problem but inherited it._  
 __fairly__  
 __fait accompli__  
+__fall from the sky__ _This trust doesn't fall from the sky._  
 __fall into place__  
 __fall out of love__  
 __fall over__ _v_  
@@ -3733,6 +3739,7 @@ __fettered__ _v_
 __feud<sup>1</sup>__ _n_ :three::hammer:  
 __feud<sup>2</sup>__ _v_  
 __feuded__  
+__fez__ _n_  
 __fiat__ _Military fiat._  
 __fiber__  
 __fiberglass__  
@@ -4375,6 +4382,7 @@ __godsend__ _n_
 __gold rush__  
 __goldfinch__ _n_ :es: jilguero  
 __gonads__ _n_  
+__gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
@@ -5228,7 +5236,7 @@ __inquisitive__ _adj_
 __inroads__ _n_ :three::hammer:  
 __ins and outs__  
 __inscrutable__ :two::hammer:  
-__inset__  
+__inset__ :two::hammer:  
 __insipid__  
 __insofar__  
 __insolvency__  
@@ -6147,7 +6155,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
-__minnow__ _n_ :five::hammer: (minnows)  
+__minnow__ _n_ :six::hammer: (minnows)  
 __minor__ _n_  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
@@ -6243,7 +6251,7 @@ __moonshot__ _n_ :two: _technology_ An ambitious, exploratory and ground-breakin
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
 __moot<sup>1</sup>__ _adj_ :seven: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
-__moot<sup>2</sup>__ _v_ :three::hammer: (mooted) _A mooted rebellion._  
+__moot<sup>2</sup>__ _v_ :four::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
 __mopping up__  
@@ -7836,6 +7844,7 @@ __red hot__ :two::hammer: _Now the market is red hot._
 __red rover__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-eye__ _Catch the red-eye._  
+__red-letter day__  
 __redbones__ _n_  
 __redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
 __redemptions__ _n_  
@@ -8703,7 +8712,7 @@ __shut out__ _v_ :two::hammer:
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :two::hammer: (shutters) _The finest selection of custom shutters since 1973._  
 __shy of__ :two::hammer::astonished: _Just shy of its highest mark._  
-__shy<sup>1</sup>__ _adj_ :four::hammer: _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
+__shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :three::hammer: _Edgerton does not shy away from cultural observations._  
 __shylock rackets__  
 __shylock__  
@@ -10031,7 +10040,7 @@ __tipoff__ _n_ :two::hammer: (tip-off)
 __tipple__ _v_ :five::hammer: (tippled)  
 __tipster__ _n_ :two::hammer: (tipsters)  
 __tiptoe__ _v_ To walk or move quietly on one's toes.  
-__tirade__ _n_ :four::hammer:  
+__tirade__ _n_ :five::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
 __tit for tat__ :two::hammer:  
@@ -10192,7 +10201,7 @@ __trellises__ _From his trellises._
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
 __trench coat__ _n_  
 __trepidation__ _n_ :three::hammer:  
-__trespass__ _v_ _No trespassing._  
+__trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
 __trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
