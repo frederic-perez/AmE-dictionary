@@ -1,24 +1,4 @@
 
-__bequeathed__ _v_  
-__battery__ _Counts of a domestic battery by strangulation._  
-__breach__ _n_  
-__utterly__  
-__appalling__  
-__crackdown__  
-__revelled__ _v_  
-__furrow__  
-__pundit__  
-__frontman__  
-__egregious__  
-__contrite__  
-__progeny__  
-__showpiece__  
-__runner-up__  
-__hallmark__  
-__beset__ _Chelsea are beset with uncertainty._  
-__marshalled__ _v_  
-__onlooker__ _n_  
-__header__ _n_ :two::hammer:  
 __adjudge__ _v_  
 __box__ _n_ :two::hammer: (soccer) _Kyle fouled Ben in the box._  
 __contrive__ _v_ (contriving)  

@@ -711,9 +711,8 @@ __apoplectic__
 __apostasy__  
 __apostate__ _n_ :three::hammer: (apostates)  
 __apostrophe__  
-__appall__ _v_ (appalled) :three::hammer::pencil2: :es: horrorizar, espantar  
-__appalling__ _adj_ :two: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
-__appalls__ _v_  
+__appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
+__appalling__ _adj_ :three: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__  
 __appeal__ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
@@ -1016,7 +1015,7 @@ __bathhouses__
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __baton__ _n_ :two::hammer:  
 __battered__ _Her pride remains battered but intact._  
-__battery__ _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
+__battery__ :two::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __batty__  
 __bauble__ _n_ :three::hammer: (baubles)  
@@ -1137,7 +1136,7 @@ __benevolent__
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._  
 __bento__ Boxed meals.  
-__bequeathed__ _v_ :five::hammer:  
+__bequeathed__ _v_ :six::hammer:  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :seven: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_ :two::hammer:  
@@ -1151,7 +1150,7 @@ __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._
 __beseech__  
 __beseechingly__  
 __beseechment__  
-__beset__ _v_ :five::hammer:  
+__beset__ _v_ :six::hammer: _Chelsea are beset with uncertainty._  
 __besmeared__ _v_  
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
@@ -1478,7 +1477,8 @@ __brazen__ _adj_ :three: With brazen disregard for the sign that said "no cellph
 __brazenly__ :two::hammer:  
 __brazer__  
 __brazier__  
-__breach__ _v_ :five: (breached) To fail to keep. _Syn_ violate  
+__breach<sup>1</sup>__ _n_  
+__breach<sup>2</sup>__ _v_ :five: (breached) To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one's) neck__  
@@ -2377,7 +2377,7 @@ __contract__ _v_ _Contract the disease._
 __contractor__ _n_  
 __contrarian__  
 __contretemps__  
-__contrite__  
+__contrite__ :two::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :two::hammer:  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
@@ -3360,7 +3360,7 @@ __egg__ _v_
 __egghead__ _n_ :two::hammer:  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egotists__  
-__egregious__ _adj_ :five: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egregious__ _adj_ :six: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __eh?__ _Impressive, eh?_  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
@@ -4121,7 +4121,7 @@ __from the git-go__
 __from the rooter to the rooter__  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front and center__ :two::hammer:  
-__front man__  
+__front man__ _n_ :two::hammer: (frontman)  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
 __frostbite__ :two::hammer:  
@@ -4161,7 +4161,7 @@ __furlough__ _n_ :three: Leave of absence, especially that granted to a member o
 __furnish__ _v_ _To furnish suites of labs._  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
-__furrow__ _n_ :four::hammer:  
+__furrow__ _n_ :five::hammer:  
 __further__  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
@@ -4620,7 +4620,7 @@ __half-baked__ _A half-baked plan to launch a start-up._
 __half-wits__  
 __halfback__  
 __hall boy__ _n_  
-__hallmark__ _n_ :three::hammer:  
+__hallmark__ _n_ :four::hammer:  
 __hallowed__ _adj_ :four::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
 __ham hocks__ _n_ :two::hammer:  
@@ -4741,7 +4741,7 @@ __head wind__
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
 __head-spinning__ _A head-spinning thing._  
 __headdress__ _n_ :two::hammer: _The pharaoh's headdress._  
-__header__ _He scored with a header._  
+__header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
 __heads up__  
 __headstone__ _n_ :two::hammer:  
@@ -6001,7 +6001,7 @@ __marquetry__ :astonished: _Marketry doors._ :es: marquetería (?)
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
-__marshal<sup>2</sup>__ _v_ :six::hammer: (marshals, marshalling) _The community will marshal its resources to help undocumented immigrants._  
+__marshal<sup>2</sup>__ _v_ :seven::hammer: (marshals, marshalled, marshalling) _The community will marshal its resources to help undocumented immigrants._  
 __marshland__ :two::hammer:  
 __marshmallow__ _n_  
 __marshy__  
@@ -6637,7 +6637,7 @@ __one-off<sup>2</sup>__ _n_ _British informal_ :three: (one-offs) Something done
 __one-run__ _One-run games._  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
-__onlookers__  
+__onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :three::hammer: _Early onset dementia._  
 __onslaught__ :two::hammer:  
@@ -7455,6 +7455,7 @@ __profligate<sup>1</sup>__ _adj_ :two::hammer:
 __profligate<sup>2</sup>__ _n_ :two::hammer:  
 __profoundly__  
 __profusion__  
+__progeny__  
 __prohibit__  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
@@ -7548,7 +7549,7 @@ __punching bag__ _The firm was a regular punching bag._
 __punctuate__  
 __puncture__ _n_  
 __punctured__ _v_ _Punctured his tire._  
-__pundit__ :two::hammer:  
+__pundit__ _n_ :three::hammer:  
 __pungent__  
 __pungi__  
 __punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
@@ -8006,7 +8007,7 @@ __reunite__ _v_
 __revel__ _v_  
 __reveler__ _n_ :nine: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick's day revelers._ _Mardi Gras revelers._  
 __reveling__ :two::hammer:  
-__revelled__  
+__revelled__ _v_ :two::hammer:  
 __revelling__  
 __revelry__ :two::hammer:  
 __revenant__  
@@ -8205,7 +8206,7 @@ __run-of-the-mill__ _adj_ :three: Ordinary, average.
 __runaway__ :two::hammer: _Bryant was a runaway winner._  
 __runaways__  
 __rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
-__runner-up__ _n_ :nine::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
+__runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
 __runoff__ _n_ :eight: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
@@ -8673,7 +8674,7 @@ __showboat__ _v_
 __showcase__ _v_  
 __showdown__ _n_ :six: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
 __showhouse__  
-__showpiece__ :two::hammer:  
+__showpiece__ _n_ :three::hammer:  
 __showroom__ _n_  
 __showrunner__ _n_ :three::hammer: (show runner)  
 __showstopping__ _A showstopping performance._  
@@ -10527,7 +10528,7 @@ __utilitarian__
 __utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utmost__ _adj_ :three::hammer:  
 __utterance__  
-__utterly__ _adv_ :five::hammer: _An utterly trivial dispute._  
+__utterly__ _adv_ :six::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __vacant-eyed__  
 __vacant__ _Adam parked in a vacant spot._  
