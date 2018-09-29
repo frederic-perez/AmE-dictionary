@@ -1,4 +1,21 @@
 
+__portent__ _n_  
+__apologetic__  
+__elated__  
+__cloves__ _n_  
+__seppuku__  
+__dappled__ _v_ (?) _A dappled horse._  
+__dumbfounded__ _v_  
+__shogun__ _n_  
+__blemished_f _v_  
+__confederate__ _adj_ (?)  
+__grasp at straws__ (?)  
+__paucity__  
+__pitiful__  
+__lustered__ _v_ (?)  
+__partake__ _v_  
+__meekness__  
+
 __adjudge__ _v_  
 __box__ _n_ :two::hammer: (soccer) _Kyle fouled Ben in the box._  
 __contrive__ _v_ (contriving)  
