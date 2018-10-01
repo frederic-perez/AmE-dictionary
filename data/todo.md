@@ -1,23 +1,4 @@
 
-__go-pills__ _n_  
-__T-storm__ _abrev_ Thunderstorm.  
-__free ride__  
-__thick skin__  
-__pep talk__ _Giving Chris Gethard a pep talk._  
-__jaded__  
-__hailstorm__ _n_  
-__phytoplankton__ _n_  
-__nowcasting__  
-__kambucha__ (?) _Ginger flavor kambucha._  
-
-__portent__ _n_  
-__apologetic__  
-__elated__  
-__cloves__ _n_  
-__seppuku__  
-__dappled__ _v_ (?) _A dappled horse._  
-__dumbfounded__ _v_  
-__shogun__ _n_  
 __blemished__ _v_  
 __confederate__ _adj_ (?)  
 __grasp at straws__ (?)  

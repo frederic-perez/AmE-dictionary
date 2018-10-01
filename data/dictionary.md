@@ -386,6 +386,7 @@ __Sweepstakes__ _Your Sweepstakes._
 __Sweet 16__ _sports_  
 __T&A__  
 __T-ball__  
+__T-storm__ _abrev_ Thunderstorm.  
 __TBD__  
 __TMI__ Too much information.  
 __TM__ _abbr_ :two: Trascendental meditation.  
@@ -705,7 +706,7 @@ __aplenty__
 __aplomb__ _n_ :four: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ :pencil2:  
-__apologetic__ _That's what I call apologetic hand raise._  
+__apologetic__ :two::hammer: _That's what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apostasy__  
@@ -2165,7 +2166,7 @@ __cloud nine__
 __clough__ _n_ :three::hammer:  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
-__clove__ _n_ :astonished::dart::camera: __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
+__clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
 __cloying__ _adj_ :four::hammer: _She is cordial without being cloying._  
 __cluck__  
 __clucking__ _Clucking chickens._  
@@ -2725,7 +2726,7 @@ __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ :two::hammer:  
 __dapper__ _adj_ :four: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
-__dappled__ _v_ :five::hammer:  
+__dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
 __daredevil__ :two::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
@@ -3277,7 +3278,7 @@ __dullard__
 __dully__ _adv_  
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
-__dumbfounded__ _v_  
+__dumbfounded__ _v_ :two::hammer:  
 __dumbstruck__  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
 __dump<sup>2</sup>__ _v_ _They walkes to the trash can and dumped their cups._  
@@ -3370,8 +3371,7 @@ __ejecta__ _n_ Ejected matter, as that from an erupting volcano.
 __eke out__ _v_ :two::hammer: (eked out)  
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
 __el__ :two::hammer: _The el tracks._  
-__elate__ _v_  
-__elated__ :two::hammer: _They came to be elated and uplifted._  
+__elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
 __elation__ :two::hammer:  
 __elbow grease__ :two::hammer: _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
@@ -4088,7 +4088,7 @@ __freak out<sup>2</sup>__ _v_
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
 __free lunch__  
-__free ride__  
+__free ride__ :two::hammer:  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __freebies__ _n_ :three::hammer: _The tickets come with some bonus freebies._  
 __freeloading__  
@@ -4367,6 +4367,7 @@ __go to the dogs__
 __go to the wire__  
 __go-ahead goal__  
 __go-for-broke__  
+__go-pills__ _n_  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
 __goad__ _v_ :four::hammer: (goading)  
 __goads__ _n_  
@@ -4609,7 +4610,7 @@ __hags__ _Screaming histerically like Shakespearean hags._
 __hail<sup>1</sup>__ _v_ :nine: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :five::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstones__  
-__hailstorm__ _n_  
+__hailstorm__ _n_ :two::hammer:  
 __hair clippers__ _n_ :camera:  
 __hairline__  
 __haking__  
@@ -5300,7 +5301,7 @@ __jack it up__ _v_
 __jack-o'-lantern__  
 __jackhammer__  
 __jackpot__  
-__jade__ _v_ :seven::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._  
+__jade__ _v_ :eight::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._  
 __jagged__ :two::hammer:  
 __jagging__  
 __jakelegs__  
@@ -5518,6 +5519,7 @@ __knuckleball__ :two::hammer:
 __knuckler__ :two::hammer: (knucklers)  
 __knurled__ _v_ :two::hammer:  
 __koi__ _v_  
+__kombucha__ _n_ _Ginger flavor kambucha._  
 __kook__ (kooky) :two::hammer:  
 __kooky__  
 __kosher__ _A kosher supermarket._  
@@ -6512,6 +6514,7 @@ __nothing but the best__ :dart: _I wish her nothing but the best._
 __notwithstanding__ _prep_ :four::hammer:  
 __nova__  
 __novella__  
+__nowcasting__  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
 __nuance<sup>1</sup>__ _n_ :dart::three: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
@@ -6980,6 +6983,7 @@ __pensively__
 __pent-up__  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
 __peoples__ (?)  
+__pep talk__ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pep<sup>2</sup>__ _v_ (pepping)  
 __pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
@@ -7044,6 +7048,7 @@ __photo-op__
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
 __phylacteries__ :two::hammer:  
+__phytoplankton__ _n_  
 __piano wire__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick a fight__  
@@ -7306,7 +7311,7 @@ __porringer__
 __portable building__ :es: barracones?  
 __portal__  
 __portend__ _v_ :six::hammer: (portended) _...may portend a disruption._  
-__portent__ _n_ :three::hammer: (portents)  
+__portent__ _n_ :four::hammer: (portents)  
 __portentous__  
 __portly__  
 __portmanteau__  
@@ -8488,6 +8493,7 @@ __sensible__ :two::hammer: _This C++ contructor has sensible default values._
 __sentience__  
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
+__seppuku__ _n_  
 __sequestered__ _v_  
 __sequestration__ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
@@ -8622,6 +8628,7 @@ __shoddily__
 __shoddy__ _adj_ :six::hammer:  
 __shoestring__ _A shoestring budget._  
 __shoftlift__ _v_  
+__shogun__ _n_  
 __shogunate__ :two::hammer: _A local shogunate office._  
 __shoo-in__  
 __shoo__ _v_ :three::hammer: (shooing)  
@@ -9937,6 +9944,7 @@ __thermos__ _A thermos._
 __thespian__ :two::hammer:  
 __thick accent__ _Arnold's accent is getting thicker._  
 __thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
+__thick skin__  
 __thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
 __thingy__  
