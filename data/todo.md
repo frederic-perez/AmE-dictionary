@@ -1,23 +1,4 @@
 
-__blemished__ _v_  
-__confederate__ _adj_ (?)  
-__grasp at straws__ (?)  
-__paucity__  
-__pitiful__  
-__lustered__ _v_ (?)  
-__partake__ _v_  
-__meekness__  
-
-__adjudge__ _v_  
-__box__ _n_ :two::hammer: (soccer) _Kyle fouled Ben in the box._  
-__contrive__ _v_ (contriving)  
-__VAR__ _abbr_ Video Assistant Referee.  
-__vindication__  
-__set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
-__sapping__ _The sapping heat._  
-__readying__ _v_ :astonished:  
-__stoppage time__  
-__Golden Boot__ _The race for the Golden Boot._  
 __striker__ :two::hammer:  
 __setback__ _n_  
 __haul__ _v_ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  

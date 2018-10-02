@@ -160,6 +160,7 @@ __Get outta here!__ _idiom_
 __Gibson glass__  
 __Gitmo__ _Guantanamo?_  
 __Give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
+__Golden Boot__ _The race for the Golden Boot._  
 __Goodyear, Charles__  
 __Gordian knot__ :two::hammer:  
 __Great Dane__  
@@ -421,6 +422,7 @@ __Utahns__
 __Utans__  
 __V-E Day__  
 __V-J Day__ :two::hammer:  
+__VAR__ _abbr_ Video Assistant Referee.  
 __VA__ _VA medical centers._  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
 __Venn__ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
@@ -520,6 +522,7 @@ __adenoidal__
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
 __adjourne__ _v_ _The trip was adjourned to Feb. 1._  
+__adjudge__ _v_  
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
 __adjuvant__ _adj_ _The adjuvant setting._  
@@ -1262,6 +1265,7 @@ __bleed blue__
 __bleeding heart__ _A radical Jewish lawyer with a beard and a bleeding heart._  
 __bleep__ _v_ _We'll bleep your name out._  
 __blemish__ _n_ :four::hammer: (blemishes)  
+__blemished__ _v_  
 __blends__ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :two::hammer:  
 __blight<sup>2</sup>__ _v_ :two::hammer: (blighted)  
@@ -1445,7 +1449,7 @@ __bow__ _n_ :four::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) 
 __bowie knife__ :two::hammer:  
 __bowling alley__  
 __box score__  
-__box__ _soccer_ :es: portería?  
+__box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boycott<sup>1</sup>__ _n_ :astonished:  
 __boycott<sup>2</sup>__ _n_ :astonished:  
@@ -2327,6 +2331,8 @@ __conduit__ _n_ :three::hammer:
 __coneys__  
 __confection__  
 __confederacy__  
+__confederate<sup>1</sup>__ _adj_  
+__confederate<sup>2</sup>__ _n_  
 __conference call__  
 __conferred__ _v_  
 __confidant__ _n_ :six::hammer: (also confidante)  
@@ -2381,6 +2387,7 @@ __contretemps__
 __contrite__ :two::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :two::hammer:  
+__contrive__ _v_ (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__  
 __controversial__  
@@ -4429,6 +4436,7 @@ __graphic sexuality__ _?_ (for movie ratings)
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapple<sup>2</sup>__ _n_ _A thin cord hooked to a grapple._  
 __grapplings__ _n_  
+__grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
 __grass-routs__ _?_ _Grass-routs campaign._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :two::hammer: (grates) :camera: _Cast iron grates._  
@@ -5899,7 +5907,8 @@ __lurid__
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _adj_ :eight: _adj_ __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lushnes__  
-__luster__  
+__luster<sup>1</sup>__ _n_  
+__luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
 __lustrous__ :two::hammer:  
 __luxe__ _People were accustomed to creating luxe interiors._  
@@ -6069,7 +6078,7 @@ __meds__
 __medulla__ :mega:  
 __meek__ :two::hammer: _Blessed are the meek._  
 __meekly__ _adv_ :three::hammer:  
-__meekness__  
+__meekness__ :two::hammer:  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
 __megalomania__  
 __meh__  
@@ -6881,7 +6890,7 @@ __parroting__ _v_
 __parse__ _v_  
 __parsnip__  
 __parsonage__ :pencil2:  
-__partake__ _v_ :seven::hammer: (partaken, partaking)  
+__partake__ _v_ :eight::hammer: (partaken, partaking)  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __participatory__ _I wanted to be a participatory father._  
@@ -6921,7 +6930,7 @@ __patronymic__
 __patsy__ _adj_  
 __patter__  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
-__paucity__ _n_ :four: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
+__paucity__ _n_ :five: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __paunch__ _n_  
 __pavilion__ _n_  
 __pavilions__  
@@ -7143,7 +7152,7 @@ __pitfalls__ _n_
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
 __pithy__ _adj_ :three: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
-__pitiful__  
+__pitiful__ :two::hammer:  
 __pitmaster__  
 __pittance__  
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
@@ -7801,6 +7810,7 @@ __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._
 __readily__ :two::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
+__readying__ _v_ :astonished:  
 __reaffirming__  
 __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
 __realtor__ _n_ :three::hammer:  
@@ -8510,6 +8520,7 @@ __set out__ _v_
 __set piece__ _The goal was scored on a set piece._  
 __set someone apart__  
 __set the pace__  
+__set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
 __setback__ _n_ :two::hammer: (setbacks) _It has suffered several setbacks._  
 __setting > picturesque setting__ :es: entorno picturesco  
 __seventh heaven__ :astonished:  
@@ -9468,7 +9479,7 @@ __stopgag__ _n_ :three::hammer:
 __stopgap__ :two::hammer:  
 __stoplights__ :pencil2:  
 __stopover__  
-__stoppage__ _n_ :five::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ _n_ :six::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
@@ -10629,7 +10640,7 @@ __villainy__ :pencil2:
 __villas__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
 __vindicate__ _v_ :seven::hammer: (vindicated)  
-__vindication__ _n_ :six::hammer:  
+__vindication__ _n_ :seven::hammer:  
 __vintner__ _n_  
 __vinyasa__ _n_  
 __viper__ _n_ :two::hammer: (vipers)  
