@@ -816,6 +816,7 @@ __astigmatism__ _n_
 __astir__  
 __astraddle__  
 __astride__ _adv_ :three::hammer:  
+__astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
 __asunder__ _A world torn asunder by evil and hate._  
@@ -2122,6 +2123,7 @@ __clean his clock__
 __clean one's plate__ Eat up all the food put on one's plate.  
 __cleanliness__  
 __cleanse__ _v_  
+__cleanser__ _n_  
 __clear air__  
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
 __clear-cut__  
@@ -2955,7 +2957,7 @@ __dimwitted__
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
-__dinghy__ _n_ :seven: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
+__dinghy__ _n_ :eight: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinking__ _v_  
 __dinky__ :two::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
@@ -3284,7 +3286,7 @@ __dull__ _adj_ :two::hammer: _Never a dull moment._
 __dullard__  
 __dully__ _adv_  
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
-__dumbbells__ (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
+__dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
 __dumbstruck__  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
@@ -3573,7 +3575,7 @@ __expedite__ _v_ :dart::six::hammer: (expedited) _Wear easy on/off shoes to expe
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
-__expenditure__ _n_ :three: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time.  
+__expenditure__ _n_ :four: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
 __expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
 __explicate__ _v_  
@@ -3947,6 +3949,7 @@ __flown__ _v_ _The flag was flown at half mast._
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluff__  
+__fluffy slippers__ _n_ :camera:  
 __fluffy__  
 __fluke__ _n_ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flummox__ _v_ :four::hammer: (flummoxed)  
@@ -4380,6 +4383,7 @@ __goad__ _v_ :four::hammer: (goading)
 __goads__ _n_  
 __goahead__  
 __goalie__  
+__goalkeeper__  
 __goaltender__  
 __goatee__ _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
@@ -4720,7 +4724,7 @@ __hatchet__
 __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ :two::hammer: _It's a small haul for such a high-profile program._  
-__haul<sup>2</sup>__ _v_ :three::hammer: _Jacob and Davis each hauled in 10 passes._  
+__haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
 __haunt__ _v_  
@@ -5010,7 +5014,7 @@ __hover__ _v_
 __hoverboard__ :two::hammer:  
 __howl__ _v_ :two::hammer:  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
-__hubbub__ _n_  
+__hubbub__ _n_ :two::hammer:  
 __hubby__  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
@@ -8521,7 +8525,7 @@ __set piece__ _The goal was scored on a set piece._
 __set someone apart__  
 __set the pace__  
 __set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
-__setback__ _n_ :two::hammer: (setbacks) _It has suffered several setbacks._  
+__setback__ _n_ :three::hammer: (setbacks) _It has suffered several setbacks._  
 __setting > picturesque setting__ :es: entorno picturesco  
 __seventh heaven__ :astonished:  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
@@ -8667,7 +8671,7 @@ __shortcomings__ _n_
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
-__shortlist__ _n_ :four::hammer: _A women-only shortlist._  
+__shortlist__ _n_ :five::hammer: _A women-only shortlist._  
 __shortlisted__ _v_  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ _Shortly before 8 a.m. Tuesday._  
@@ -9538,7 +9542,7 @@ __stricken__ _adj_ :six::hammer: _Stricken people._
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
 __strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
-__striker__ _The match was damp and wouldn't ignite against the striker._  
+__striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
 __string knife__ :two::hammer:  
 __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
@@ -9743,7 +9747,7 @@ __swive__ _v_
 __swiveling__ _v_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
-__swoop<sup>2</sup>__ _v_ :seven::hammer: (swooped, swooping)  
+__swoop<sup>2</sup>__ _v_ :eight::hammer: (swooped, swooping)  
 __swoopy__  
 __swooshing__  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
@@ -10601,6 +10605,7 @@ __ventilator__ _n_ :pencil2: _med_
 __venue__ _n_ :two::hammer: _What's the venue?_  
 __veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
 __verberize__  
+__verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :two::hammer::pencil2:  
 __verge__ _n_ :two::hammer:  
@@ -11006,7 +11011,7 @@ __wraith__
 __wrangle__ _v_ :two::hammer: (wrangling)  
 __wrap one's head around it__ :two::hammer: _I'm trying to wrap my head around it._  
 __wraparound season__  
-__wreak havoc__  
+__wreak havoc__ :two::hammer:  
 __wreaked havoc__  
 __wreath-lying__ _?_ :pencil2:  
 __wreath<sup>1</sup>__ _n_ :three: (wreaths) _Funeral wreath._ :es: corona  
@@ -11022,7 +11027,7 @@ __wrethes__
 __wriggle__  
 __wriggling__  
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
-__wringer__ :two::hammer: _Run through the wringer._  
+__wringer__ _n_ :three::hammer: _Run through the wringer._  
 __wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
 __wrinkle__ _v_ :three::hammer: (wrinkled, wrinkling)  
 __writ__  

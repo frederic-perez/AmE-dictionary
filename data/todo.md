@@ -1,23 +1,4 @@
 
-__striker__ :two::hammer:  
-__setback__ _n_  
-__haul__ _v_ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
-__swoop__  
-__goalkeeper__  
-
-__outlandish__  
-__hubbub__ _n_  
-__fluffy slippers__ _n_ :camera:  
-__cleanser__ _n_  
-__astringent__  
-__verbotem__  
-__wreak havoc__  
-__expenditure__ _Going to the theater is our number one expenditure._  
-__dumbbells__ _n_  
-__wringer__ _n_  
-__dingy__  
-__ethos__  
-__shortlist__ _n_  
 __backdrop__ _n_  
 __ululations__  
 __cantatas__ _Batch cantatas._  
