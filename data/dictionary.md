@@ -222,7 +222,7 @@ __Kodiak__
 __Kool-Aid__  
 __Kosher salt__  
 __LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
-__LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
+__LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __Labrador__  
 __Laotian__  
