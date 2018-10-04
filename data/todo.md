@@ -1,25 +1,6 @@
 
-__backdrop__ _n_  
-__ululations__  
-__cantatas__ _Batch cantatas._  
-__plaintively__  
-__toast marshmallows__ :camera:  
-__LGBT+__  
-__penchant__ _A penchant for photography._  
-__sick leave__ _The UK's biggest reason for sick leave._  
-__snort__ _A lifestyle of snorting and scrapping._  
-__scrapping__ _A lifestyle of snorting and scrapping._  
-__harrowing__  
-__stooped__ _v_ _He stooped to unplug his laptop._  
-__clutch bag__  
-__eponymous__  
-__shanks__ _n_  
-__COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
-__citadel__ _This glass citadel of capitalism._  
-__egregious__  
 __assuage__ _v_  
 __shelved__ _v_  
-
 __woeful__  
 __pow-wow__  
 __intricate__  

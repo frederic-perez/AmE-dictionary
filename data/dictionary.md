@@ -63,6 +63,7 @@ __C-suite__ _C-suite staff._
 __CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
 __CFL__ _Compact fluorescent lamp._  
 __CID__  
+__COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
 __CO__ Carbon monoxide, "the silent killer."  
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
 __Caddy__ Cadillac.  
@@ -221,8 +222,7 @@ __Kodiak__
 __Kool-Aid__  
 __Kosher salt__  
 __LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
-__LGBTQ+__  
-__LGBTQ__ _Lesbian, gay, bisexual, transgender, queer._  
+__LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __Labrador__  
 __Laotian__  
@@ -903,7 +903,7 @@ __back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hu
 __backache__ _n_ :dart:  
 __backburner__ _n_  
 __backcountry__ _Utah ski resorts offering backcountry adventures._  
-__backdrop__ _n_ :seven: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
+__backdrop__ _n_ :eight: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
 __backlash__ _n_ :four::hammer:  
@@ -1799,7 +1799,7 @@ __canister__ _n_ :four::hammer: _Organic coffee canisters._
 __cannolis__  
 __canoe__ (?) :mega:  
 __cantankerous__  
-__cantata__  
+__cantata__ _n_ :two::hammer: _Batch cantatas._  
 __canted__ _v_ :two::hammer:  
 __canteens__  
 __canter up__ _v_  
@@ -2082,7 +2082,7 @@ __circumcircle__
 __circumradius__  
 __circumsphere__  
 __cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
-__citadel__ _n_  
+__citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
@@ -2181,6 +2181,7 @@ __clump__ _n_
 __clunker__ _n informal_ :four: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
 __clunky__ _adj_ :three::hammer:  
+__clutch bag__  
 __clutch player__  
 __clutch<sup>1</sup>__ _n_ :two::hammer: _He was a dominant player in the clutch._ _Clutches for iPhone._  
 __clutch<sup>2</sup>__ _v_ :five::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
@@ -3370,7 +3371,7 @@ __egg__ _v_
 __egghead__ _n_ :two::hammer:  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egotists__  
-__egregious__ _adj_ :six: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egregious__ _adj_ :seven: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __eh?__ _Impressive, eh?_  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
@@ -3499,7 +3500,7 @@ __epistaxis__ _n_ A nosebleed.
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :six: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponymous__ _adj_ :five::hammer: (eponymously)  
+__eponymous__ _adj_ :six::hammer: (eponymously)  
 __equaled__ _v_  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ :two::hammer:  
@@ -4702,7 +4703,7 @@ __harp__ _v_ _She told her she was always harping on him._
 __harping__ _v_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
-__harrowing__ _A harrowing oddyssey._  
+__harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
 __harry__ _v_ :seven: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To harass or torment. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
@@ -7178,6 +7179,7 @@ __plaid__ :two::hammer: _Plaid number._ _Plaid shirt._
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
 __plaintive__ _adj_ :three: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
+__plaintively__  
 __plaiting__ _Tshanyi earns money plaiting hair._  
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
 __plane__ :two::hammer: _It was a place full of plane trees._  
@@ -8396,6 +8398,7 @@ __scrap<sup>1</sup>__ _n_ :two::hammer: _He might have to look beyond the 125-po
 __scrap<sup>2</sup>__ _v_ :eight: (scraps, scrapped) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._  
 __scrap__ _v_ :four::hammer: (scrapped, scrapping) _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrapper__  
+__scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scrawl__ _v_ :two::hammer: (scrawled)  
 __scrawny__ :two::hammer: _Two scrawny containers of grape jelly._  
@@ -8559,7 +8562,7 @@ __shambolic__
 __shame__ _v_ _He shamed me._  
 __shamrock__  
 __shamus__  
-__shank<sup>1</sup>__ _n_ :seven::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
+__shank<sup>1</sup>__ _n_ :eight::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
 __shank<sup>2</sup>__ _v_ :three: (shanked) To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
 __shanties__  
 __shanty__  
@@ -8743,7 +8746,7 @@ __shylocking__
 __shyly__ _(funny spelling)_  
 __shyster__  
 __sicced__ _v_  
-__sick leave__  
+__sick leave__ :two::hammer: _The UK's biggest reason for sick leave._  
 __sickle cell__  
 __sickly__ :es: enfermizo  
 __siddle up__ _Chuck siddled up beside his brother._  
@@ -9040,7 +9043,7 @@ __snoodlike__
 __snoop__ _v_  
 __snootiness__  
 __snooty__ _adj_ :four::hammer:  
-__snort__ _n_ :two: _Slang_ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile.  
+__snort__ _n_ :two: _Slang_ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. _A lifestyle of snorting and scrapping._  
 __snorted__ _v_  
 __snorting__ _v_  
 __snot rag__  
@@ -10090,6 +10093,7 @@ __to that end__ :two::hammer: (to that end,)
 __to this day__ _idiom_ :three::hammer: _I don't know if they still do it to this day._  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  
+__toast marshmallows__ :camera:  
 __toast__ _adj_ :two::hammer: _I'm just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toboggan__ _n_  
@@ -10384,6 +10388,7 @@ __ugh__ :two::hammer:
 __uh__  
 __ukuleles__  
 __ultimately__  
+__ululations__  
 __um__  
 __umpteen__  
 __umpteenth__ :two::hammer:  
