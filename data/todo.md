@@ -1,4 +1,42 @@
 
+__abalone__ _n_  
+__follow suit__  
+__resplendent__ (?)  
+__tsuifuku__  
+__pelted__ _v_  
+__ravine__ _n_  
+__lapel__ _n_  
+__toil__ _n_  
+__outline__ _n_ (?)  
+__plunder__ _v_ (?)  
+__dumb struck__  
+__ronin__  
+__palanquin__ _n_  
+__sluggard__  
+__mettle__  
+__acolyte.__  
+__bate__ _v_ (bated) _They watched with bated breath._  
+__groan__ _v_  
+__imbued__ _v_  
+__forsaken__ _v_  
+__thrash__ _v_  
+__trample__ _v_  
+__headstrong__ _adj_ (?)  
+__liable__ _He is liable to be mistaken._  
+__coup de grace__ :two::hammer:  
+__abet__ _v_  
+__loquacious__  
+__veranda__  
+__chestnut__  
+__hearth__ _n_ :two::hammer:  
+__masseuse__ _n_  
+__sutra__ _Reafing a sutra._  
+__connivance__  
+__lice__ _n_  
+__badger__ _n_  
+__spittle__ _n_  
+__unsheat__ _v_ (unsheathed) _He unsheathed his sword._  
+
 __assuage__ _v_  
 __shelved__ _v_  
 __woeful__  
