@@ -1,4 +1,20 @@
 
+__vassal__ _n_  
+__awry__  
+__eminent__  
+__ineffectual.__  
+__etiquette__  
+__ennui__  
+__pledge__ _n_  
+__inchworm__ _n_  
+__grim__ _adj_  
+__detail__ _n_ :mega: (?)  
+__get over someone's head__ _They're getting over their heads._  
+__savvy<sup>1</sup>__ _v_  
+__savvy<sup>2</sup>__ _n_  
+__savvy<sup>3</sup>__ _adj_  
+__dicey__ _adj_ _informal_ :dart: Risky; unpredictable.  
+
 __abalone__ _n_  
 __follow suit__  
 __resplendent__ (?)  
