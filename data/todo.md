@@ -1,4 +1,14 @@
 
+__perch__ _v_  
+__to date__  
+__say the world__  
+__bad actor__  
+__payload__ _n_ :two::hammer:  
+__graveyard orbit__ (?)  
+__vastly__  
+__bunching__ _Placing the satellites at safe intervals to avoid bunching._  
+__bolted__ _v_ _Bolted onto the ISS._  
+
 __vassal__ _n_  
 __awry__  
 __eminent__  
