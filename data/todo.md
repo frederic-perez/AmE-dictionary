@@ -1,4 +1,14 @@
 
+__orographic__ _Winter orographic clouds._  
+__put to the test__  
+__nowcasting__ _Nowcasting system._  
+__sheath__  
+__Day Zero__ (?)  
+__lessons learned__  
+__stark__ _A stark reminder._  
+__exacerbate__ _v_  
+__buoyancy__  
+
 __perch__ _v_  
 __to date__  
 __say the world__  
