@@ -98,6 +98,7 @@ __DOA__ _Repeal likely DOA._
 __DSLR__  
 __DWI__  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
+__Day Zero__  
 __Deep South__  
 __Dem__ A member of the Democratic Party.  
 __Diaspora__  
@@ -915,6 +916,7 @@ __backsplash__ _n_ _A new tile backsplash._
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
 __backwater__ :two::hammer: _An academic backwater._  
 __backwoods__  
+__bad actor__  
 __bad blood__ :two::hammer:  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
@@ -1368,7 +1370,7 @@ __boloney__ Baloney.
 __bolony__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
-__bolt__ _v_ _The windows were closed and bolted._  
+__bolt__ _v_ :two::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb__ _v_  
 __bombast__ _n_ :four: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
@@ -1627,7 +1629,7 @@ __bumps in the road__
 __bumpy__  
 __bun__ _n_  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
-__bunch<sup>2</sup>__ _v_ :camera::five::hammer: (bunched) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._  
+__bunch<sup>2</sup>__ _v_ :camera::six::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._  
 __bunching socks__ :camera:  
 __bungalow__  
 __bungee cord__ _n_ :camera::three::hammer:  
@@ -1643,6 +1645,7 @@ __bunraku__
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
 __buoy<sup>1</sup>__ _n_  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
+__buoyancy__  
 __buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __bureaucracy__  
@@ -3545,7 +3548,7 @@ __eviscerate__ _v_
 __evolve__ _v_  
 __ewer__ _n_  
 __ewes__ _n_  
-__exacerbate__ _v_ :six: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__exacerbate__ _v_ :seven: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceedingly__  
 __excess__ :two::hammer: _He's raised or spent in excess of $5,000 on political activity._  
@@ -4455,6 +4458,7 @@ __gravel__ _The car was parked on the gravel drive._
 __gravely__  
 __gravesite__  
 __gravestone__  
+__graveyard orbit__  
 __gravitas__  
 __gravitate__ _v_ :two::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
@@ -5698,6 +5702,7 @@ __leper__
 __lepers__  
 __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
+__lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :four::hammer:  
 __lethargic__ _adj_  
@@ -6528,7 +6533,7 @@ __nothing but the best__ :dart: _I wish her nothing but the best._
 __notwithstanding__ _prep_ :four::hammer:  
 __nova__  
 __novella__  
-__nowcasting__  
+__nowcasting__ :two::hammer: _Nowcasting system._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
 __nuance<sup>1</sup>__ _n_ :dart::three: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
@@ -6689,6 +6694,7 @@ __ornament__
 __ornate__ _n_ :four::hammer:  
 __orneriness__  
 __ornery__ :two::hammer:  
+__orographic__ _Winter orographic clouds._  
 __orphrery__  
 __orthokeratology__  
 __oscillating fan__  
@@ -6945,6 +6951,7 @@ __pay off__ _v_
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__  
 __paydirt__ :two::hammer:  
+__payload__ _n_ :two::hammer:  
 __payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywalls__  
 __peaks and valleys__  
@@ -7006,7 +7013,7 @@ __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._
 __per diem__  
 __percentile__ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
-__perch<sup>2</sup>__ _v_ :three::hammer:  
+__perch<sup>2</sup>__ _v_ :four::hammer:  
 __percolate__ _v_  
 __percolator__ _n_  
 __peremptory__  
@@ -7606,6 +7613,7 @@ __put on a clinic__
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
+__put to the test__  
 __put up__ _v_ :two::hammer: _We're not going to put up with this anymore._ _People put up with it._  
 __putbacks__  
 __putdowns__  
@@ -8324,6 +8332,7 @@ __sawed-off__
 __sawgrass__ :two::hammer:  
 __sawhorse__ _n_ :five::hammer: (sawhorses)  
 __sawyer__ _n_ :astonished:  
+__say the world__  
 __saying__ _n_ :two::hammer:  
 __scab__ _n_  
 __scabbard__ _n_ :six: A sheath for a sword, dagger, or bayonet.  
@@ -8580,7 +8589,7 @@ __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._
 __shea oil__  
 __sheaf__  
 __shear__ _v_  
-__sheath__ :two::hammer: :es: vaina  
+__sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
 __shed__ _v_ :two::hammer: Park (a vehicle) in a depot. _The rookie has shed his walking boot and says he'll be fine._  
 __shedder__ _A tree shedder._  
@@ -9363,7 +9372,7 @@ __starchitect__
 __stardom__  
 __starfish__  
 __stargazing__  
-__stark__ _adj_ :three::hammer:  
+__stark__ _adj_ :four::hammer: _A stark reminder._  
 __starlings__ _n_  
 __startling__ :two::hammer:  
 __stat sheet__ :two::hammer: _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
@@ -10083,7 +10092,7 @@ __tizzy__
 __to be at sea__  
 __to be in someone's shoes__ _Nobody has been in my shoes._  
 __to be in the clear__  
-__to date__ :two::hammer: _To date, no winners have attended._  
+__to date__ _idiom_ :three: Until now. _To date, no winners have attended._  
 __to hell and back__ :two::hammer:  
 __to hell__  
 __to his name__ _Bernie died with $1.09 to his name._  
@@ -10588,7 +10597,7 @@ __vaping__ _v_ _Smokers are switching to vaping._
 __variety store__  
 __varmints__  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
-__vastly__  
+__vastly__ :two::hammer:  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
