@@ -441,7 +441,7 @@ __X-factor__ _Terry could become Ryukyu's X-factor._
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __YOLO__ You only live once.  
 __Yuletide__ _n_ (archaic) Christmas.  
-__abalone__  
+__abalone__ _n_ :two::hammer:  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
 __abashed__ :two::hammer:  
@@ -880,7 +880,7 @@ __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater
 __awe__ :two::hammer: _Rob regarded the complex systems with awe._  
 __awestruct__  
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
-__awry__  
+__awry__ :two::hammer:  
 __axle__ _n_  
 __azure__  
 __baboon__  
@@ -2905,6 +2905,7 @@ __despoil__ _v_
 __despoiling__  
 __despondency__  
 __despondent__ _n_ :five::hammer:  
+__detail__ _n_ :mega:  
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
@@ -2926,7 +2927,7 @@ __dewlaps__ _n_ :two::hammer:
 __dialysis__  
 __diaspora__  
 __dibs__ _n_ :two::hammer:  
-__dicey__ _adj_ :seven::hammer: _A dicey tiny building._ _That's dicey._ _The women's situation is a bit more dicey._  
+__dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women's situation is a bit more dicey._  
 __dichotomy__ :two::hammer:  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __diction__ _n_ :three::hammer: _The priest diction._  
@@ -3426,6 +3427,7 @@ __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and 
 __emeritus__ :two::hammer:  
 __emerity__ _Faculty emerity._  
 __emery__ _n_ :four::hammer: _An emery wheel._ _Emery paper._  
+__eminent__  
 __emmetropia__ (?)  
 __emo__ _adj_ :two::hammer:  
 __emoji__ _n pl_  
@@ -3465,7 +3467,7 @@ __engulf__ _v_
 __enjambments__  
 __enlivened__  
 __enmity__ _n_ :six::hammer:  
-__ennui__ _n_  
+__ennui__ _n_ :two::hammer:  
 __enormous__ :mega:  
 __enquiry__  
 __enrapture__ _v_ :three: (enraptured) To fill with rapture or delight.  
@@ -3531,6 +3533,7 @@ __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate
 __etch__ _v_ :three::hammer: (etched)  
 __etchings__  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
+__etiquette__  
 __eulogy__ _n_ :two::hammer:  
 __eunuch__ _n_  
 __evened__ _v_  
@@ -3992,7 +3995,7 @@ __fold__ _v_ (card games)
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
 __folk__ _n_ :two::hammer: (plural)  
-__follow suit__ :two::hammer:  
+__follow suit__ _idiom_ :three: To do as another has done; follow an example.  
 __folly__ _n_ :six: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __food processor__  
 __food-handler's permit__  
@@ -4294,6 +4297,7 @@ __get off on (something)__
 __get off__ _I always get off the bus a stop early on the way to work._  
 __get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
 __get out of here__  
+__get over someone's head__ _They're getting over their heads._  
 __get set__ _v_  
 __get stops__ :two::hammer:  
 __get the middle finger__  
@@ -4488,7 +4492,7 @@ __grievously__
 __griff__  
 __grifter__ _n_ :two::hammer:  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
-__grim__ _adj_ :three::hammer:  
+__grim__ _adj_ :four::hammer:  
 __grime__ _n_ :three::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
@@ -5185,6 +5189,7 @@ __inception__
 __incessantly__  
 __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the field._  
 __inchoate__  
+__inchworm__ _n_  
 __incident__ _A stroke incident to pancreatic cancer._  
 __incidentally__ _adv_ :three::hammer:  
 __inclined__ _adj_  
@@ -5215,6 +5220,7 @@ __inducements__
 __induct__  
 __induction__ :three::hammer: _Induction hall._  
 __inebriated__  
+__ineffectual.__  
 __inequitable__  
 __inequities__  
 __inexplicable__ _adj_  
@@ -7226,7 +7232,7 @@ __plead out__
 __plead__ _v_ :two::hammer: _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
-__pledge__ _n_ :two::hammer:  
+__pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
 __plethora__ _n_ :three::hammer:  
 __pliable__ _The pliable GOP._  
@@ -8000,7 +8006,6 @@ __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._
 __resounding__  
 __respirator__ _n_  
 __respite__ _n_ :six: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
-__resplendent__  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
@@ -8327,6 +8332,9 @@ __sautoir__ _Sautoir necklace._
 __savagery__  
 __save the day__  
 __savior__  
+__savvy<sup>1</sup>__ _v_  
+__savvy<sup>2</sup>__ _n_  
+__savvy<sup>3</sup>__ _adj_  
 __saw__ _n_ A maxim or proverb.  
 __sawed-off__  
 __sawgrass__ :two::hammer:  
@@ -10597,6 +10605,7 @@ __vaping__ _v_ _Smokers are switching to vaping._
 __variety store__  
 __varmints__  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
+__vassal__ _n_  
 __vastly__ :two::hammer:  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _adj_ _Vaulted ceilings._  
