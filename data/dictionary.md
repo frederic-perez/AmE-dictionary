@@ -495,7 +495,7 @@ __acerbic__ _adj_ :three::hammer:
 __acetate__ _n_  
 __acme__  
 __acne__  
-__acolyte__ _n_ :three::hammer: (acolytes)  
+__acolyte__ _n_ :four::hammer: (acolytes)  
 __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acqua boots (or Acqua boots or something similar?)__ _n_  
 __acquaintances__ :pencil2:  
@@ -1017,6 +1017,7 @@ __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._
 __baster__ _n_  
 __bastion__ _n_ :three::hammer: _He tried to soften the National Front's image as a bastion of xenophobes._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
+__bate__ _v_ (bated) _They watched with bated breath._  
 __bath tissue__  
 __bathhouses__  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
@@ -3291,9 +3292,9 @@ __dull__ _adj_ :two::hammer: _Never a dull moment._
 __dullard__  
 __dully__ _adv_  
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
+__dumb struck__ :two::hammer: (dumbstruck)  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
-__dumbstruck__  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
 __dump<sup>2</sup>__ _v_ _They walkes to the trash can and dumped their cups._  
 __dumpling__ :two::hammer: (dumplings) _Bavarian bread dumpling._  
@@ -4060,7 +4061,8 @@ __forklift__
 __forlorn__ _adj_ :nine: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
-__forsake__ _v_ :four::hammer:  
+__forsake__ _v_ :five::hammer: (forsaken)  
+__forsaken__ _adj_  
 __fort__ Fortification(?)  
 __forte<sup>1</sup>__ _n_ Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
@@ -4516,7 +4518,7 @@ __gritted__ _v_
 __grittier__ _It makes the queso a bit grittier._  
 __gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
-__groan__ _v_ :three::hammer:  
+__groan__ _v_ :four::hammer:  
 __grocer__ _n_ :two::hammer:  
 __grog__  
 __groomed__  
@@ -5110,7 +5112,7 @@ __imbalance__ _n_
 __imbibe__ _v_ :two::hammer: (imbibing)  
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
-__imbue__ _v_ :two: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__imbue__ _v_ :three: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immerse__ _v_  
 __immigrated__  
 __immobile__  
@@ -5598,6 +5600,7 @@ __lantanas__ _n_
 __lap<sup>1</sup>__ _n_ _The project's amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
 __laped pin__  
+__lapel__ _n_  
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
 __larceny__ _n_ :six: Theft of personal property. :es: hurto  
@@ -6142,7 +6145,7 @@ __meter__ _n_ _The cab driver waited with the meter running._
 __metheglin__ _n_ :two::hammer:  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
-__mettle__ _n_ :six::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
+__mettle__ _n_ :seven::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
 __mick__ _n_ :three::hammer:  
 __mid-afternoon__  
@@ -6748,6 +6751,7 @@ __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva
 __outlast__ _v_  
 __outlay__ _Budget outlays._  
 __outlays__ _n_  
+__outline__ _n_  
 __outlook__ _n_ :two::hammer:  
 __outmanned__ _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
@@ -6834,6 +6838,7 @@ __pail__ _n_ :three::hammer: _A lunch pail._
 __painstaking__ _Painstaking patience._  
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
+__palanquin__ _n_  
 __palatable__ :two::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
@@ -6989,7 +6994,7 @@ __peevishly__
 __pegged__ _v_ :two::hammer:  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
-__pelt<sup>2</sup>__ _v_ :four::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
+__pelt<sup>2</sup>__ _v_ :five::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
 __pen name__  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
@@ -7265,8 +7270,7 @@ __plumbing__
 __plummeted__ _v_ :three::hammer: (plummeting)  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
-__plunder__ :two::hammer:  
-__plundered__  
+__plunder__ _v_ :four::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
@@ -7813,7 +7817,7 @@ __rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're t
 __rave<sup>3</sup>__ _adj_  
 __raven-haired__  
 __ravenous__ _adj_ :four::hammer:  
-__ravine__ _n_  
+__ravine__ _n_ :two::hammer:  
 __raving__ _v_ :two::hammer:  
 __ravish__  
 __ravishing__ :two::hammer:  
@@ -8159,6 +8163,7 @@ __rollovers__
 __romanticize__ _v_ :pencil2:  
 __romp__ _v_ :six::hammer:  
 __rondo__ _n_ (music)  
+__ronin__  
 __rood__ _n_ :two::hammer:  
 __roofrack__  
 __rooftop__ _n_ :six::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
@@ -8959,6 +8964,7 @@ __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your frien
 __slug down__ _v_ _He slugged down four martinis._  
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v_ :three::hammer: (slugs)  
+__sluggard__  
 __sluice__ _v_ :six::hammer: (sluiced, sluicing)  
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
@@ -9995,7 +10001,7 @@ __thorough__ :astonished: _It's a very serious matter that needs thorough invest
 __thoroughfare__  
 __thoroughly__  
 __thrall__ _n_ :five::hammer:  
-__thrash__ _v_ :nine::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._ _Thrash talk._  
+__thrash__ _v_ :nine::m::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._ _Thrash talk._  
 __thrifty__ _adj_ :two::hammer:  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
@@ -10123,7 +10129,7 @@ __toe<sup>2</sup>__ _v_ :two::hammer: (toed)
 __toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
 __toffs__ _Young toffs._  
-__toil<sup>1</sup>__ _n_ Hard unpleasant work done over a long period.  
+__toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
 __toil<sup>2</sup>__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
 __toilet bowl__  
 __toilet stool__  
@@ -10322,6 +10328,7 @@ __trusties__
 __try on__ :two::hammer:  
 __tryouts__ :two::hammer:  
 __tryst__  
+__tsuifuku__  
 __tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tubbing up__ _I keep tubbing up._  
 __tube > shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  

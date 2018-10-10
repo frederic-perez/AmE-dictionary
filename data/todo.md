@@ -1,23 +1,4 @@
 
-__tsuifuku__  
-__pelted__ _v_  
-__ravine__ _n_  
-__lapel__ _n_  
-__toil__ _n_  
-__outline__ _n_ (?)  
-__plunder__ _v_ (?)  
-__dumb struck__  
-__ronin__  
-__palanquin__ _n_  
-__sluggard__  
-__mettle__  
-__acolyte.__  
-__bate__ _v_ (bated) _They watched with bated breath._  
-__groan__ _v_  
-__imbued__ _v_  
-__forsaken__ _v_  
-__thrash__ _v_  
-__trample__ _v_  
 __headstrong__ _adj_ (?)  
 __liable__ _He is liable to be mistaken._  
 __coup de grace__ :two::hammer:  
