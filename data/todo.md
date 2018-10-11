@@ -1,4 +1,15 @@
 
+__auspices__  
+__walk on eggshells__  
+__datalogger__  
+__vane__ _A wind vane._  
+__timely__  
+__boast__ _v_  
+__field__ _v_  
+__lidar__  
+__seize__ _Seize him!_  
+__scaffold__  
+
 __pow-wow__  
 __intricate__  
 __flair__  
