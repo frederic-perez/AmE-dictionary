@@ -451,9 +451,7 @@ __abating__
 __abattoir__ _n_ Slaughterhouse.  
 __aberrant__ _adj_  
 __aberration__ _n_  
-__abet__ _v_  
-__abetted__ _v_  
-__abetting__ _v_ :two::hammer:  
+__abet__ _v_ :four: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ :two::hammer:  
 __abhorrent__ _adj_ :three::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
@@ -812,8 +810,7 @@ __assiduously__ :pencil2::two::hammer:
 __assign__ _n_ _A cover assign._  
 __assists__ _Green had 14 rebounds and nine assists._  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
-__assuage__ _v_  
-__assuage__ _v_ :three::hammer:  
+__assuage__ _v_ :four::hammer:  
 __asthma__ _n_  
 __astigmatism__ _n_  
 __astir__  
@@ -924,8 +921,7 @@ __bad words__ _Cat says bad words._
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bade__ _v_ :three::hammer: _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
-__badger__ _n_  
-__badger__ _n_ _Felix was thrown when his horse shied a a badger._  
+__badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__  
@@ -4788,8 +4784,7 @@ __heart-in-mouth__ _A heart-in-mouth thriller._
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
 __heartfelt__  
-__hearth__ _n_ :five::hammer: _Hearth repair._  
-__hearth__ _n_ :two::hammer:  
+__hearth__ _n_ :seven::hammer: _Hearth repair._  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
@@ -5741,8 +5736,7 @@ __libation__
 __libations__ _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
-__lice__ _n_  
-__lice__ _n_ :four: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__lice__ _n_ :five: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __lichen__ _n_ :mega:  
 __lick-spittle__ _A lick-spittle role._  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -8638,8 +8632,7 @@ __shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy t
 __shellfish__ _Shellfish stewed, jerked._  
 __shelling out__  
 __shelling__ _v_  
-__shelved__ _v_  
-__shelved__ _v_ :three::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
+__shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shenanigans__ :two::hammer:  
 __shepherd__ _v_ (shepherded)  
 __shepherdless__ _n_  
@@ -9243,8 +9236,7 @@ __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmou
 __spite__  
 __spiteful__ :two::hammer:  
 __spitting image__  
-__spittle__ _n_  
-__spittle__ _n_ :four::hammer:  
+__spittle__ _n_ :five::hammer:  
 __spittoon__  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
 __splendor__  
@@ -10519,7 +10511,7 @@ __unscathed__ _adj_ :five: Without suffering any injury, damage, or harm. _Syn_ 
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
 __unsettling__ _The old man's unsettling eyes._  
 __unshackle__ _The two guards unshackled Sam at the door._  
-__unsheat__ _v_ (unsheathed) _He unsheathed his sword._  
+__unsheathe__ _v_ (unsheathed) _He unsheathed his sword._  
 __unsightly__ _Manning looking at unsightly ending._  
 __unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._  
 __unsound__  
@@ -10649,8 +10641,7 @@ __venomous__ _adj_ :two::hammer:
 __vent__ _v_  
 __ventilator__ _n_ :pencil2: _med_  
 __venue__ _n_ :two::hammer: _What's the venue?_  
-__veranda__  
-__veranda__ _n_ :two: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
+__veranda__ _n_ :three: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
 __verberize__  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
@@ -11014,8 +11005,7 @@ __withhold__
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobbly__ :two::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
-__woeful__  
-__woeful__  
+__woeful__ :two::hammer:  
 __woefully__ _adv_ :four::hammer: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
 __wolfe range__  
