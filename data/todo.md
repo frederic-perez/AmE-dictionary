@@ -1,23 +1,4 @@
 
-__headstrong__ _adj_ (?)  
-__liable__ _He is liable to be mistaken._  
-__coup de grace__ :two::hammer:  
-__abet__ _v_  
-__loquacious__  
-__veranda__  
-__chestnut__  
-__hearth__ _n_ :two::hammer:  
-__masseuse__ _n_  
-__sutra__ _Reafing a sutra._  
-__connivance__  
-__lice__ _n_  
-__badger__ _n_  
-__spittle__ _n_  
-__unsheat__ _v_ (unsheathed) _He unsheathed his sword._  
-
-__assuage__ _v_  
-__shelved__ _v_  
-__woeful__  
 __pow-wow__  
 __intricate__  
 __flair__  
