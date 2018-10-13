@@ -1,4 +1,15 @@
 
+__transpose__ _v_ _Someone might have transposed digits._  
+__impediment__  
+__bearing__ _n_  
+__encroaching__ _v_  
+__guesswork__ _n_  
+__hail__ _n_  
+__ceilometer__ _n_  
+__rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
+__katabatic__ _Katabatic drainage._  
+__datalogger__ _n_  
+
 __pilcrow__  
 __thingy__  
 __philtrum__  
