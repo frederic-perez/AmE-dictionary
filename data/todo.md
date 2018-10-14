@@ -1,4 +1,20 @@
 
+__vane__ _n_ _A ground-based wind vane._  
+__undulation__ _n_  
+__foolproof__ _adj_ Unable to fail. _A foolproof method._  
+__shed__ _v_ _Wing de-icing systems are designed to shed the moisture._  
+__rotorcraft__  
+__gimbal__ _A sensor on a pivoting gimbal._  
+__etymology__ _n_ :astonished: Study of the sources and development of words.  
+__minute__ :mega: (?)  
+__make up one's mind__ _Too much love will kill you if you can't make up your mind._  
+__pendant__ _n_ :es: colgante  
+__merit__  
+__noun__ _n_  
+__boon__  
+__pun__ _v_  
+__listing__ _n_ _Consider the code in Listing 3-1._  
+
 __transpose__ _v_ _Someone might have transposed digits._  
 __impediment__  
 __bearing__ _n_  
