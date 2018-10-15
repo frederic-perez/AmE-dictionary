@@ -1044,7 +1044,7 @@ __beanpole__
 __beanstalk__ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
-__bearing__ _n_ :three::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
+__bearing__ _n_ :four::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
@@ -1411,7 +1411,7 @@ __boom and bust__
 __boom box__  
 __boomer chains__  
 __booms__ _n_ :two::hammer:  
-__boon__ _n_ :nine: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
+__boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
 __boonies__  
 __boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
@@ -1928,6 +1928,7 @@ __cawed__ _v_ :two::hammer: (cawing)
 __ce__  
 __ceasefire__  
 __cede__  
+__ceilometer__ _n_  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __cellist__ _n_ :two::hammer:  
@@ -2754,6 +2755,7 @@ __darning__
 __dart__ _v_ :three::hammer: (darting)  
 __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
+__datalogger__ _n_  
 __date__ :pencil2: _It would be like eating a single date._  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
@@ -3450,7 +3452,7 @@ __encampment__ _n_ :two::hammer:
 __encompass__ _v_ :four::hammer: (encompasses)  
 __encore__ _n_ :five::hammer: _An encore performance._  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroach__ _v_ :six::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
+__encroach__ _v_ :seven::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :three::hammer:  
 __encumbrance__  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
@@ -3537,6 +3539,7 @@ __etch__ _v_ :three::hammer: (etched)
 __etchings__  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiquette__  
+__etymology__ _n_ :astonished: Study of the sources and development of words.  
 __eulogy__ _n_ :two::hammer:  
 __eunuch__ _n_  
 __evened__ _v_  
@@ -4006,7 +4009,7 @@ __foodie__ _A foodie and a friend._
 __foodstuffs__  
 __fool's gold__  
 __foolhardy__ :two::hammer:  
-__foolproof__ _A foolproof measure._  
+__foolproof__ _adj_ :two: Unable to fail. _A foolproof method._  
 __foosball__ :two::hammer: _Foosball table._  
 __foot-stomping__  
 __foot__ _v_ :two::hammer:  
@@ -4324,6 +4327,7 @@ __giggling__
 __gills > packed to the gills__ _idiom_ :two: Completely full; teeming; having no room to spare. _I've got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother's Thanksgiving meal._  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
+__gimbal__ _A sensor on a pivoting gimbal._  
 __gimmick__  
 __gimmicks__ _No "get in the door" gimmicks._  
 __gimmicky__  
@@ -4563,6 +4567,7 @@ __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman 
 __grunted__ _v_ :four::hammer:  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
 __guesstimation__ does not exist  
+__guesswork__ _n_  
 __guest claim__ _Guest claim no. 170374._  
 __guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
@@ -4633,7 +4638,7 @@ __haggling__ _n_ :two::hammer:
 __hagiography__  
 __hags__ _Screaming histerically like Shakespearean hags._  
 __hail<sup>1</sup>__ _v_ :nine: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
-__hail<sup>2</sup>__ _n_ :five::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
+__hail<sup>2</sup>__ _n_ :six::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstones__  
 __hailstorm__ _n_ :two::hammer:  
 __hair clippers__ _n_ :camera:  
@@ -5131,6 +5136,7 @@ __impeachment__ :two::hammer:
 __impeccable__  
 __impeccably__ :two::hammer:  
 __impede__ _v_ :three::hammer: (impeded)  
+__impediment__  
 __impedimenta__ _n_  
 __impending__ _adj_ :nine: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :four::hammer: (imperiled)  
@@ -5450,6 +5456,7 @@ __kabobs__
 __kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :four::hammer:  
+__katabatic__ _Katabatic drainage._  
 __keel__ _v_ :three::hammer: (keeled)  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep an eye__ _Keep an eye on the Twitter._  
@@ -5796,7 +5803,7 @@ __lisp<sup>2</sup>__ _v_
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listening session__  
-__listing__ _One current listing is a $30 million property._  
+__listing__ _n_ :two::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
 __litany__ _n_ :four: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
@@ -5972,6 +5979,7 @@ __make perfect sense__ _It makes perfect sense._
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
+__make up one's mind__ _Too much love will kill you if you can't make up your mind._  
 __make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
 __makeshift__ _adj_ :seven: Being a crude and temporary expedient.  
@@ -6137,7 +6145,7 @@ __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercuria
 __mere__ :two::hammer: _From mere $200._  
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
-__merit__  
+__merit__ :two::hammer:  
 __merriment__ _n_ :two:  
 __mesh strainer__  
 __metal casement windows__ :camera:  
@@ -6197,6 +6205,7 @@ __minstrel__ :two::hammer:
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
+__minute__ :mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :four::hammer:  
@@ -6546,6 +6555,7 @@ __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keepi
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
 __notwithstanding__ _prep_ :four::hammer:  
+__noun__ _n_  
 __nova__  
 __novella__  
 __nowcasting__ :two::hammer: _Nowcasting system._  
@@ -7006,7 +7016,7 @@ __pen<sup>1</sup>__ _n_ _Cricket pen._
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb "pencher") A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
-__pendant__ _n_ :two::hammer:  
+__pendant__ _n_ :three::hammer: :es: colgante  
 __penitents__ _n_  
 __penknife__ :two::hammer:  
 __pennant races__  
@@ -7078,6 +7088,7 @@ __phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstand
 __phenomena__ _pl n_  
 __philanderer__  
 __philandering__  
+__philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
 __phlebotomy__  
 __phlegm__ _n_ :three::hammer:  
@@ -7585,7 +7596,8 @@ __pulsating__
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :five::hammer: (pummeled)  
 __pump__ _n_ :two::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
-__pun__ :es: juego de palabras  
+__pun<sup>1</sup>__ _n_ :es: juego de palabras  
+__pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
@@ -8138,6 +8150,7 @@ __roasted tea__ :camera:
 __rob__ _Crimson-robed nuns._  
 __robe__ _n_ _The judge's robe._  
 __robin-breasted__  
+__rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
 __rock the boat__ :two::hammer:  
 __rock-paper-scissors__ _Is this rock-paper-scissors?_  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
@@ -8193,6 +8206,7 @@ __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._
 __rot-and-branch__ _Root-and-branch reforms._  
 __rot__ _v_  
 __roti__ _A roti shop._  
+__rotorcraft__  
 __rototiling__  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __roughly__ :two::hammer:  
@@ -8610,7 +8624,7 @@ __sheaf__
 __shear__ _v_  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
-__shed__ _v_ :two::hammer: Park (a vehicle) in a depot. _The rookie has shed his walking boot and says he'll be fine._  
+__shed__ _v_ :three::hammer: Park (a vehicle) in a depot. _The rookie has shed his walking boot and says he'll be fine._ _Wing de-icing systems are designed to shed the moisture._  
 __shedder__ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
@@ -10235,6 +10249,7 @@ __transfixed__ _I was transfixed by it._
 __transient__ _adj_ :four::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
 __translate__ _That doesn't always translate, believe me._  
 __translucent__ _adj_  
+__transpose__ _v_ _Someone might have transposed digits._  
 __trap question__ :astonished: _That's a trap question._  
 __trappings__ _n_ :three::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
@@ -10470,6 +10485,7 @@ __undimpled__
 __undisturbed__ _v_  
 __undue__  
 __undulating__ _v_  
+__undulation__ _n_  
 __unduly__ _adv_ :four::hammer:  
 __unearth__ _v_ :three::hammer: (unearthed)  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
@@ -10610,7 +10626,7 @@ __vamping__ :two::hammer:
 __vampire squid__  
 __vandalize__ _v_  
 __vandals__  
-__vane__ _n_ :two::hammer: _A smooth metal weather vane._ _A weather vane._  
+__vane__ _n_ :three::hammer: _A smooth metal weather vane._ _A weather vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
