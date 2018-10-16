@@ -45,6 +45,7 @@ __BAR__ _BAR man._
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BLT sandwich__ _n_ :two: Sandwich filled with slices of bacon and tomato with lettuce.  
 __BMX__ :two::hammer: _BMX bike._  
+__BM__ Bowel movement (take a dump).  
 __BO__ :two::hammer:  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
@@ -673,6 +674,7 @@ __and how!__
 __and so it goes__  
 __andirons__  
 __anecdotal__ :mega:  
+__anemometer__ _n_  
 __anew__ _adv_ :three::hammer:  
 __angle iron__  
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
@@ -856,6 +858,7 @@ __audacity__
 __audible__ _v_  
 __august__ _adj_  
 __aum__  
+__auspices__  
 __austere__  
 __authorative__  
 __authorial__  
@@ -3467,6 +3470,7 @@ __endpiece__ _n_
 __ends__ _n_ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _Endurance race._  
 __enduring__ _v_  
+__enervate__ _v_ To weaken.  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engulf__ _v_  
 __enjambments__  
@@ -5325,6 +5329,7 @@ __issuance__ _n_ :three::hammer:
 __issue__ _v_  
 __isthmus__  
 __it so happens__  
+__it takes two to tango__ _idiom_  
 __it's a dog's life__ :dart::astonished:  
 __it's one of those things__ _idiom_  
 __ivy__ :two::hammer: :es: hiedra  
@@ -5456,7 +5461,7 @@ __kabobs__
 __kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :four::hammer:  
-__katabatic__ _Katabatic drainage._  
+__katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __keel__ _v_ :three::hammer: (keeled)  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep an eye__ _Keep an eye on the Twitter._  
@@ -5562,6 +5567,7 @@ __kowtow__
 __krauts__  
 __krinkled__  
 __kroop__  
+__kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
 __kybosh__ _v_  
 __labor bureaus__  
 __labrotories__ ?  
@@ -5724,6 +5730,7 @@ __lessen__ _v_
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :four::hammer:  
+__let your hair down__  
 __lethargic__ _adj_  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I'm currently lettering the forthcoming comic book._  
@@ -5764,9 +5771,8 @@ __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._
 __lightbulb moment__  
 __lightermen__  
 __lighthearted__  
-__lighting rod__ _n_ __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
-__lightning rod__  
-__lightning-rod__  
+__lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
+__lightning__ _n_  
 __like hell__  
 __likelier__  
 __likelihood__ _n_ :astonished: Probability.  
@@ -6751,6 +6757,7 @@ __outcroppings__
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
 __outdoor__ _8 pork sausages from British outdoor bred pigs (454g)._  
+__outer space__  
 __outfield__ _(baseball)_  
 __outfit<sup>1</sup>__ _n_ :two::hammer: (outfits)  
 __outfit<sup>2</sup>__ _v_  
@@ -6812,8 +6819,8 @@ __overblown__
 __overboard__ _To go overboard._  
 __overdrive__ _n_ :two::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
 __overflight__  
-__overhead bin__ :two::hammer: (airplane) _Overhead bin space._  
-__overhead bins__ (airplane) :two::hammer:  
+__overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
+__overhead__  
 __overkill__ _v_ _I'll top the bill, I'll overkill._  
 __overlay__ _n_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
@@ -7090,6 +7097,7 @@ __philanderer__
 __philandering__  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
+__philtrum__  
 __phlebotomy__  
 __phlegm__ _n_ :three::hammer:  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
@@ -7132,6 +7140,7 @@ __pigs in a blanket__ (food?) :camera:
 __pigtails__  
 __pike__ _You can handle whatever comes down the pike._  
 __pilaf__ _Chickenpilaf._  
+__pilcrow__  
 __pile__ _A bridge pile._  
 __pileup__  
 __pilfer__ _v_ :three::hammer: (pilfering)  
@@ -8373,7 +8382,7 @@ __scabby__
 __scabies__  
 __scabs__ _n_ :two::hammer:  
 __scads__ _n_ :two: A large number of quantity. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__scaffold__  
+__scaffold__ :mega::two::hammer:  
 __scaffolding__ _n_  
 __scale up__ _v_ _That's the challenge of scaling up._  
 __scallions__ _n_ :three::hammer:  
@@ -10009,7 +10018,7 @@ __thick and thin__ :three::hammer: _Supporters ready to back them through thick 
 __thick skin__  
 __thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
-__thingy__  
+__thingy__ :two::hammer:  
 __think tank__ _n_ :five::hammer:  
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
@@ -10628,6 +10637,7 @@ __vandalize__ _v_
 __vandals__  
 __vane__ _n_ :three::hammer: _A smooth metal weather vane._ _A weather vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
+__vanity plate__ _n_  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _I'm with a beer smoking on my vape._  
@@ -10759,6 +10769,7 @@ __waiver__
 __waivers__ _n_  
 __wake__ _n_ :four::hammer: _At wakes._ _Irish wake._  
 __walk in sunshine__  
+__walk on eggshells__  
 __walk on water__  
 __walk the walk__  
 __walk-on__ :two::hammer:  
@@ -10979,6 +10990,7 @@ __winded__
 __windfall__ _n_ :nine::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ _Windfall bounties._ :es: ganancia inesperada  
 __windlass__  
 __window sash__ _n_  
+__windshear__ _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
 __windstorm__  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  

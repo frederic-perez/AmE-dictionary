@@ -1,23 +1,4 @@
 
-__pilcrow__  
-__thingy__  
-__philtrum__  
-__let your hair down__  
-__enervate__ _v_ To weaken.  
-__it takes two to tango__ _idiom_  
-__scaffold__ :mega:  
-__BM__ Bowel movement (take a dump).  
-__vanity plate__  
-__outer space__  
-__overhead__  
-__lightning__ _n_  
-__windshear__ _Windshear phenomena have caused more than 1,400 deaths in aviation._  
-__katabatic__ _Katabatic wind._  
-__kts__ (units?)  
-__anemometer__ _n_  
-
-__auspices__  
-__walk on eggshells__  
 __datalogger__  
 __vane__ _A wind vane._  
 __timely__  
