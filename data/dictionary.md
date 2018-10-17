@@ -1341,7 +1341,7 @@ __boarding school__ _n_ :dart: A school that provides meals and lodging.
 __boardrooms__  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._  
 __boardwalk__  
-__boast__ _v_ _I can boast about it for eternity._  
+__boast__ _v_ :two::hammer: _I can boast about it for eternity._  
 __boaters__  
 __boatswain__  
 __bob__ _v_ :five::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ _They had bobbed noses._  
@@ -2758,7 +2758,7 @@ __darning__
 __dart__ _v_ :three::hammer: (darting)  
 __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
-__datalogger__ _n_  
+__datalogger__ _n_ :two::hammer:  
 __date__ :pencil2: _It would be like eating a single date._  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
@@ -3778,7 +3778,7 @@ __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with reg
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__  
-__field__ _v_ :eight: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
+__field__ _v_ :nine: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
 __fierce__ :two::hammer:  
 __fiery__  
@@ -3864,7 +3864,7 @@ __flagstaff__
 __flagstone__ _Flagstone terraces._  
 __flah point__  
 __flail__ _v_ :six::hammer: (flailed, flailing)  
-__flair__ _n_ :nine: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
+__flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
 __flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flaky__  
@@ -5308,6 +5308,7 @@ __interviewees__ _n_ :pencil2:
 __into the fold__ _It brought many viewers into the fold._  
 __intramural__  
 __intricacies__  
+__intricate__  
 __intuit__ _v_ :three: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
@@ -5633,6 +5634,7 @@ __lassitude__
 __lassos__ _v_  
 __last > next to last__  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
+__last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
 __latch<sup>1</sup>__ _n_  
 __latch<sup>2</sup>__ _v_  
@@ -5757,6 +5759,7 @@ __lick__ _v_ _Fires licked the edges of cars and buildings._
 __lickety-split__ (lickety split)  
 __licorice__ _n_ :three::camera: If you've ever had a long, sweet, chewy, black candy, you've probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
+__lidar__  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
 __lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
@@ -6535,8 +6538,8 @@ __non-denominational__ _Non-denominational services._
 __non-exempt__ _Non-exempt position._  
 __non-perishables__  
 __nonce__  
-__nonchalant__ _adj_ :five::hammer:  
-__nonchalantly__ :two::hammer:  
+__nonchalant__ _adj_ :five: Behaving calmly and not seeming interested in anything or worried about anything.  
+__nonchalantly__ _adv_ :three: In a nonchalant manner.  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
 __nonpliable__ _Nonpliable products._  
@@ -6694,7 +6697,7 @@ __onlooker__ _n_ :two::hammer: (onlookers)
 __only problem is__  
 __onset__ _n_ :three::hammer: _Early onset dementia._  
 __onslaught__ :two::hammer:  
-__onus__ _n_ :four::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
+__onus__ _n_ :five::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
 __oompah__ :two::hammer: _The house oompah band._  
 __oomph__ :two::hammer:  
@@ -7397,6 +7400,7 @@ __pounce__ _v_ :three::hammer: (pounced)
 __pounding__ _v_ _Pounding the Jaguars._  
 __pout__ _v_ :nine::hammer: (pouts, pouting) _Pouting session._  
 __pouty__ _adj_  
+__pow-wow__  
 __powder blue__ Color?  
 __powder keg__  
 __power bar__  
@@ -7483,7 +7487,7 @@ __prima facie__
 __primacy__ _n_  
 __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._  
 __prime-age__  
-__prime__ _Their master bedroom has a prime view of the green wall._  
+__prime__ :two::hammer: _Their master bedroom has a prime view of the green wall._  
 __primed__ :two::hammer:  
 __primer__ _n_ :four:hammer:  
 __priming__ _v_  
@@ -8534,7 +8538,7 @@ __seesaw<sup>2</sup>__ _v_
 __seethe__ _v_ :nine::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
 __segregate__ _v_ _Same building, but segregated schools._  
 __segue__ _v_ :five::pencil2::mega::hammer:  
-__seize__ _v_ :four::hammer: (seizing) _Seizing an opportunity._  
+__seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
 __sekuhata__ Sexual harassment.  
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
@@ -8682,7 +8686,7 @@ __shiner__ _He answered the door with a shiner on one eye from a wrestling match
 __shingle__ _n_ :four::hammer: (shingles)  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
-__shirk<sup>2</sup>__ _v_ :two::dart: (shirking) To avoid work or duty.  
+__shirk<sup>2</sup>__ _v_ :three::dart: (shirking) To avoid work or duty.  
 __shirttail__ _n_  
 __shit list__ _n phr_ One's fancied or real list of persons who are hated, not trusterd, to be avoided, etc.  
 __shit-canning__  
@@ -9371,6 +9375,7 @@ __staggering__
 __stagnant__ _adj_ :three::hammer:  
 __staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
 __stairwell__ _n_:three::camera::hammer:  
+__stake__ _n_  
 __stakeholder__  
 __stakeouts__ :two::hammer:  
 __stakes__ _n_  
@@ -10097,7 +10102,7 @@ __time frame__
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
 __timeline__  
-__timely__ _adj_ :four::hammer: _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :five::hammer: _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable__  
 __timid__  
@@ -10635,7 +10640,7 @@ __vamping__ :two::hammer:
 __vampire squid__  
 __vandalize__ _v_  
 __vandals__  
-__vane__ _n_ :three::hammer: _A smooth metal weather vane._ _A weather vane._  
+__vane__ _n_ :four::hammer: _A smooth metal weather vane._ _A weather vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanity plate__ _n_  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
@@ -11034,7 +11039,7 @@ __wizened__ _adj_ :three: "You're looking quite wizened today," is a something y
 __wobbly__ :two::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
 __woeful__ :two::hammer:  
-__woefully__ _adv_ :four::hammer: _Her hand landed woefully on her forehead._  
+__woefully__ _adv_ :five::hammer: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  

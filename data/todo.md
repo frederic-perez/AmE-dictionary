@@ -1,23 +1,4 @@
 
-__datalogger__  
-__vane__ _A wind vane._  
-__timely__  
-__boast__ _v_  
-__field__ _v_  
-__lidar__  
-__seize__ _Seize him!_  
-
-__pow-wow__  
-__intricate__  
-__flair__  
-__onus__  
-__woefully__  
-__prime__  
-__shirk__ _v_  
-__keen__ :two::hammer:  
-__nonchalantly__  
-__last-gasp__ _He scored the last-gasp winner._  
-__stake__ _n_  
 __earnest__  
 __cloud__ _v_ _To cloud my judgement._  
 __enthused__ _v_  
