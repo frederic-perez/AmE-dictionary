@@ -108,6 +108,7 @@ __Do your magic__ _idiom_
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __Doc__  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
+__Down Under__  
 __Draconian__ _adj_  
 __ED prescription__  
 __EKG__  
@@ -1896,7 +1897,7 @@ __cat's horn__ _North Korean markets have everything but a cat's horn._
 __catacombs__  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
-__catalyst__  
+__catalyst__ :two::hammer:  
 __catalyze__ _v_ :pencil2:  
 __catamounts__  
 __catapulted__ _v_  
@@ -2177,6 +2178,7 @@ __clothespin__ _n_ :camera:
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __cloud nine__  
+__cloud__ _v_ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
@@ -2714,7 +2716,7 @@ __cyclone__ _n_
 __cynical__  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
-__dabble__ _v_ :three::hammer: (dabbled)  
+__dabble__ _v_ :four::hammer: (dabbled, dabbling)  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _Cinematic dada._  
@@ -2733,6 +2735,7 @@ __dallying__
 __damnation__  
 __damning__  
 __damp__ _adj_ _Damp, dirty labor._  
+__dampen__ _v_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
 __dampness__  
 __damsel__ _The damsel in distress Snow White in 1937._  
@@ -2979,7 +2982,7 @@ __diploma__
 __diplomat__ :mega:  
 __dips__ _n_  
 __dipsomania__  
-__dire__ _adj_ :seven: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
+__dire__ _adj_ :eight: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
 __dirge__  
 __dirges__ _n_  
 __dirigiste__  
@@ -3342,9 +3345,9 @@ __earlier__ _adv_ :three:
 __earlocks__ _n_  
 __early-onset__ _Early-onset Alzheimer's disease._  
 __early__ _I always get off the bus a stop early on the way to work._  
-__earmark__ _v_ :three::hammer:  
+__earmark__ _v_ :four::hammer: (earmarked)  
 __earmuffs__  
-__earnest__ _adj_ :four::hammer:  
+__earnest__ _adj_ :five::hammer:  
 __earnestly__  
 __earrings__  
 __earth-shattering__  
@@ -3487,7 +3490,7 @@ __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as 
 __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
 __entail__ _v_ :three::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthuse__ _v_ :five::hammer: (enthused, enthusing) _It has enthused fans._  
+__enthuse__ _v_ :six::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __enticing__  
 __entitle__ _v_ :three::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._  
@@ -4433,7 +4436,7 @@ __gooks__ _n_
 __goomey__  
 __goose chase__ _A global goose chase._  
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
-__gorging__  
+__gorge__ _v_ :two::hammer: (gorging)  
 __gorse__  
 __gory__  
 __gosling__ _?_ _An errant gosling._  
@@ -4745,7 +4748,7 @@ __hatchery__ _A fish hatchery._
 __hatchet__  
 __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
-__haul<sup>1</sup>__ _n_ :two::hammer: _It's a small haul for such a high-profile program._  
+__haul<sup>1</sup>__ _n_ :three::hammer: _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
@@ -4925,7 +4928,8 @@ __hoagie__
 __hoard__ _v_  
 __hoarsely__  
 __hoary__ :two::hammer:  
-__hobble__ _v_ :nine: (hobbled) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
+__hobble<sup>2</sup>__ _n_  
+__hobble<sup>1</sup>__ _v_ :nine: (hobbled) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
 __hobo__ _n_  
@@ -6038,6 +6042,7 @@ __marauder__ :two::hammer:
 __marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
+__mare__ _n_  
 __margarine__ _n_  
 __marijuana__  
 __marinades__  
@@ -7060,6 +7065,7 @@ __perfidious__
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
 __periodontal__ _Periodontal health._  
+__peripheral__  
 __peristaltic__ _adj_  
 __periwinkles__  
 __perjury__ :two::hammer:  
@@ -7782,7 +7788,7 @@ __rambling__ _v_ :four::hammer:
 __rambunctious__ _adj_ :three::hammer:  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
-__ramp up__ _v_ :five::hammer: _Official decisions ramped up activity._  
+__ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v_ :two::hammer:  
 __rampage<sup>2</sup>__ _n_ :four::hammer:  
 __rampant__ :two::hammer:  
@@ -9659,7 +9665,7 @@ __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?
 __sublimate__ _v_  
 __subpoena<sup>1</sup>__ _n_ :four::hammer:  
 __subpoena<sup>2</sup>__ _v_ (subpoenaed)  
-__subsequent__ _adj_ :three::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
+__subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
 __subside__ _v_ :dart::five::hammer: (subsided) _My headache has subsided._  
 __subsidy__  
@@ -10282,7 +10288,7 @@ __treasure__ _v_ :two::hammer:
 __treat<sup>1</sup>__ _v_  
 __treat<sup>2</sup>__ _n_  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
-__treble<sup>2</sup>__ _v_  
+__treble<sup>2</sup>__ _v_ :two::hammer:  
 __trellis__ _n_ :five::hammer:  
 __trellises__ _From his trellises._  
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
@@ -10459,7 +10465,7 @@ __unalienable__
 __unanimous__  
 __unapologetic__ _adj_ :seven::hammer:  
 __unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for-profit._  
-__unassailable__  
+__unassailable__ :two::hammer:  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __uncanny valley__ _idiom_ :three::hammer:  
 __uncongenial__  

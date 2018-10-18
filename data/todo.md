@@ -1,23 +1,4 @@
 
-__earnest__  
-__cloud__ _v_ _To cloud my judgement._  
-__enthused__ _v_  
-__earmarked__ _v_  
-__dampen__ _v_  
-__hobble__ _n_  
-__treble__  
-__unassailable__  
-__catalyst__  
-__Down Under__  
-__gorge__ _v_  
-__subsequent__  
-__haul__ _n_  
-__mare__ _n_  
-__dire__  
-__dabbling__ _v_  
-__peripheral__  
-__ramp up__ _v_  
-__rife__  
 __turnover__  
 __bespoke__  
 __float__ _v_ :three::hammer:  
