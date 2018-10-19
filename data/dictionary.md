@@ -81,6 +81,7 @@ __Christmas fly__
 __Chugging beers__  
 __Cincy__ Cincinnati?  
 __Cisternian__ :pencil2: _Cisternian monks._  
+__City__  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __Collins glass__  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
@@ -143,6 +144,7 @@ __Fourth Estate__
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __Frappuccino__  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
+__Frenchman__  
 __Friday__ :mega: /'fraIdi, -deI/  
 __G-Man__  
 __GED__ _abbr_ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
@@ -1167,7 +1169,7 @@ __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation
 __besotted__ _adj_ :three::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine: Custom-made. _Bespoke clothing._  
-__bespoke<sup>2</sup>__ _v_ :two: Past tense and a past participle of bespeak.  
+__bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __bethren__ _n_  
@@ -1316,7 +1318,7 @@ __blowout__ _n informal_ :seven: A lopsided victory or thorough defeat. _The Ori
 __blowsy__  
 __blowtorch__  
 __blowup bed__ _n_  
-__bludgeoned__ _v_ :two::hammer:  
+__bludgeoned__ _v_ :three::hammer:  
 __blue streak__ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __blue string__  
 __blue-blood__  
@@ -1383,6 +1385,7 @@ __bombshell__ _n_
 __bombsights__  
 __bon ton__  
 __bona fide__ _adj_ :six: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith.  
+__bonanza__  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -3517,7 +3520,7 @@ __epistaxis__ _n_ A nosebleed.
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :six: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponymous__ _adj_ :six::hammer: (eponymously)  
+__eponymous__ _adj_ :seven::hammer: (eponymously)  
 __equaled__ _v_  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ :two::hammer:  
@@ -3937,7 +3940,8 @@ __flippers__ _n_ :camera:
 __flit__ :two::hammer:  
 __flitting__  
 __flitty__  
-__float__ _n_ :two::hammer: _People pull a huge traditional float during the Yamahoko parade._  
+__float<sup>1</sup>__ _n_ :three::hammer: _People pull a huge traditional float during the Yamahoko parade._  
+__float<sup>2</sup>__ _v_ :three::hammer:  
 __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
 __flodaway__ _Foldaway bed._  
@@ -4928,8 +4932,8 @@ __hoagie__
 __hoard__ _v_  
 __hoarsely__  
 __hoary__ :two::hammer:  
-__hobble<sup>2</sup>__ _n_  
 __hobble<sup>1</sup>__ _v_ :nine: (hobbled) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
+__hobble<sup>2</sup>__ _n_  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
 __hobo__ _n_  
@@ -5198,6 +5202,7 @@ __inappropriate__ _What the heck is that? Inappropriate toys!_
 __inarguably__ :pencil2:  
 __inarticulate__ :four::hammer: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
+__inaugural__  
 __inaugurate__ _v_ _He will be inaugurated for second term._  
 __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
 __inbound<sup>2</sup>__ _v_  
@@ -5746,7 +5751,7 @@ __leverage<sup>1</sup>__ _n_ _To exert leverage._
 __leverage<sup>2</sup>__ _v_ :two::hammer:  
 __leviathan__  
 __levied__ _v_ :four::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levy<sup>1</sup>__ _v_  
+__levy<sup>1</sup>__ _v_ :two::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :three::hammer:  
 __lewd__ _adj_ :three::hammer:  
 __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
@@ -6213,7 +6218,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
-__minnow__ _n_ :six::hammer: (minnows)  
+__minnow__ _n_ :seven::hammer: (minnows)  
 __minor__ _n_  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
@@ -6959,7 +6964,7 @@ __passage__ _n_ _The passage of three supplementary budgets this year._
 __passel__ _A passel of ducks._  
 __passersby__ _n_  
 __pastiche__ :two::hammer:  
-__pastime__ _n_ :two::pencil2::hammer: (pastimes)  
+__pastime__ _n_ :three::pencil2::hammer: (pastimes)  
 __pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
 __pasty__ _adj_ :two::hammer:  
@@ -7804,6 +7809,7 @@ __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
 __rankled__ _v_  
+__rankles__  
 __ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
 __rant__ _v_  
@@ -9195,7 +9201,7 @@ __soundly__ _Sleep soundly._
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
-__soured__ _v_  
+__soured__ _v_ :two::hammer:  
 __sous-chef__ _n_ :mega:  
 __soused__ _v_  
 __southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
@@ -9355,7 +9361,7 @@ __squeak__ _v_ :three::hammer: (squeaking)
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
 __squeaky__ :two::hammer:  
 __squeal__ _v_  
-__squeamish__ _adj_ :four: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
+__squeamish__ _adj_ :five: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squelch__ _v_ :two::hammer:  
 __squelched__ _v_  
@@ -10134,7 +10140,7 @@ __tiptoe__ _v_ To walk or move quietly on one's toes.
 __tirade__ _n_ :five::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
-__tit for tat__ :two::hammer:  
+__tit for tat__ _n_ :three::hammer:  
 __tite__  
 __title__ _n_ :pencil2:  
 __titlist__ _He is the former bantamweight titlist._  
@@ -10214,7 +10220,7 @@ __toric__ _adj_ _Toric lens._
 __tormentor__ _n_  
 __torn__ _v_  
 __torpedo__ _v_  
-__torpor__ _n_ :three: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _Syn_ lethargy  
+__torpor__ _n_ :four: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__  
 __torte__ _A torre was named after her._  
 __toss out__ _One student tossed out expletives._  
@@ -10401,7 +10407,7 @@ __turnip__ _n_ :three::hammer:
 __turnkey__ :two::hammer: _Turnkey property._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
-__turnover__ _n_ :three: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
+__turnover__ _n_ :four: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
 __turnsole__ :pencil2:  

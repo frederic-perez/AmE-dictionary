@@ -1,23 +1,4 @@
 
-__turnover__  
-__bespoke__  
-__float__ _v_ :three::hammer:  
-__float__ _n_  
-__pastime__  
-__bludgeoned__  
-__eponymous__  
-__minnows__  
-__tit-for-tat__  
-__inaugural__  
-__squeamish__  
-__levyying__ _v_  
-__soured__ _v_  
-__City__  
-__bonanza__  
-__Frenchman__  
-__rankles__  
-__torpor__ _The economy is in a torpor._  
-
 __tad__  
 __knackered__  
 __stymieing__  
