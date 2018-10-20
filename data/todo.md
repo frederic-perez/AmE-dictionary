@@ -1,4 +1,19 @@
 
+__hearsay__ _n_ Hearsay suggests that green apples can induce such a predicament.  
+__predicament__ Hearsay suggests that green apples can induce such a predicament.  
+__meat and potatoes__  
+__eye candy__  
+__blind as a bat__  
+__trophy wife__  
+__pyrheliometer__ _n_  
+__clockwork__ _adj?_  
+__contingency__ _The contingency response missions._  
+__rigors__ _n_  
+__subsea__ _n_  
+__annum__ _n_  
+__winward__  
+__cypress__ _n_  
+
 __tad__  
 __knackered__  
 __stymieing__  
