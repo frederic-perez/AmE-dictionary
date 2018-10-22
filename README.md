@@ -4,7 +4,9 @@ A simple shared dictionary to be enhanced with flash-like cards (maybe we can wr
 
 ## Resources
 
-I collect words from multiple sources, including:
+### Written Resources
+
+I collect words and expressions from multiple (written) sources, including:
 
 - Tons of printed newspapers: USA Today, The New York Times, The Wall Street Journal, International New York Times (and The New York Times International Edition), The Japan Times, International Herald Tribune, New York Post, San Francisco Chronicle, The Denver Post, Austin American-Statesman, The Salt Lake Tribune, The Moscow News, The Moscow Times, Town Topics(R) (Princeton's Weekly Community Newspaper Since 1946), The News-Gazette (Champaign-Urbana, Danville and East Central Illinois), Metro (The world's most popular free newspaper), (London) Evening Standard, etc.
 
@@ -14,6 +16,17 @@ I collect words from multiple sources, including:
 
 - [The YUNiversity](http://www.theyuniversity.net/) | [@The_YUNiversity](https://twitter.com/The_YUNiversity) | [Tumblr](https://TheYUNiversity.tumblr.com) :mag: | [Instagram](https://www.instagram.com/the_yuniversity/)
 - Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/grammargoddess)
+
+### Audio Resources
+
+I also gather interesting stuff from a myriad of podcasts, including:
+- Beautiful Anonymous, hosted by Chris Gethard
+- Comedy Bang! Bang!, hosted by Scott Aukerman
+- Freakonomics Radio, hosted by Stephen Dubner
+- Hollywood Babble-On, with Ralph Garman and Kevin Smith
+- I Am Rapaport, hosted by Michael Rapaport
+- StartTalk, hosted by Neil deGrasse Tyson, with various comic and celebrity co-hosts 
+- This American Life, hosted by Ira Glass
 
 ## Emojis
 
