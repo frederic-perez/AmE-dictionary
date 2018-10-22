@@ -608,7 +608,7 @@ __alabaster__
 __alacrity__ _n_ /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __albatross__ _n_ :pencil2::two::hammer:  
 __alcove__ _The elevator alcove._  
-__alder__ :pencil2:  
+__alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
 __alecky__ _Smart-alecky wit._  
 __alfresco__ _It had two small terraces for alfresco dining._  
@@ -1279,6 +1279,7 @@ __blends__ _I go to a coffee bar with bagels and blends of the day._
 __blight<sup>1</sup>__ _n_ :two::hammer:  
 __blight<sup>2</sup>__ _v_ :two::hammer: (blighted)  
 __blimp__ :two::hammer: _A blimp hangar._  
+__blind as a bat__  
 __blind date__  
 __blinders__ _n_  
 __blindfold__ _n_  
@@ -1935,7 +1936,7 @@ __cawed__ _v_ :two::hammer: (cawing)
 __ce__  
 __ceasefire__  
 __cede__  
-__ceilometer__ _n_  
+__ceilometer__ _n_ :two::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __cellist__ _n_ :two::hammer:  
@@ -2145,7 +2146,7 @@ __clearinghouse__ :two::hammer:
 __cleat<sup>1</sup>__ _n_ :three::hammer:  
 __cleat<sup>2</sup>__ _v_ :two::hammer: (cleated) _Cleated horseshoes._ To get stabbed/slashed/kicked, or in any other way harmed by someone's cleat. _Joe got cleated in soccer and it left an ugly bruise._  
 __cleave__ _v_ _The court often cleaves along predictable lines._  
-__cleaver__ _n_ :three::hammer: _A butcher's cleaver._ _Meat cleaver._  
+__cleaver__ _n_ :four::hammer: _A butcher's cleaver._ _Meat cleaver._  
 __cleft__  
 __clemency__  
 __clench__ _n_ :two::hammer:  
@@ -2717,6 +2718,8 @@ __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat co
 __cuttin' a rug__  
 __cyclone__ _n_  
 __cynical__  
+__cypress__ _n_ :astonished:  
+__cytometry__  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :four::hammer: (dabbled, dabbling)  
@@ -3051,6 +3054,7 @@ __disrupt__ _v_ :two::hammer: _A Trump supporter disrupted a Broadway musical._
 __dissatisfaction__ :two::hammer:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
+__disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :two::hammer:  
 __disservice__ _n_ :two::hammer::astonished:  
@@ -3507,6 +3511,7 @@ __entryway__ _An entryway aquarium._
 __entwined__  
 __enunciation__  
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
+__environs__ _n pl_  
 __envisage__ _v_  
 __envision__ _v_ :two::hammer:  
 __epaulets__  
@@ -3617,6 +3622,7 @@ __extraneous__
 __extremes__  
 __extricate__ _v_ :five::hammer: (extricated) _Rescue crews extricated him from the car._  
 __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
+__eye candy__  
 __eye dropper__ _n_  
 __eye mask__ (to sleep)  
 __eye patch__  
@@ -4561,6 +4567,8 @@ __groveling__ _v_
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
 __growl<sup>2</sup>__ _v_ :four::hammer: (growled, growling)  
+__grown-up<sup>1</sup>__ _adj_  
+__grown-up<sup>2</sup>__ _n_  
 __grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
@@ -4794,7 +4802,7 @@ __heady__ :two::hammer:
 __health condition__  
 __hearing__ _law_  
 __hearkened__  
-__hearsay__ _n_ :five::hammer:  
+__hearsay__ _n_ :six::hammer: _Hearsay suggests that green apples can induce such a predicament._  
 __hearse__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __hearten__ _v_  
@@ -6115,6 +6123,7 @@ __meandering__
 __meannes__ :pencil2:  
 __meant to be__ _idiom_ _It was meant to be made in heaven._  
 __measles__ _n_ :three::pencil2::hammer: :es: _Rubeola_  
+__meat and potatoes__  
 __meat at the bone__  
 __meat grinder__  
 __mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts many visitors. _Shopping mecca._  
@@ -6167,6 +6176,7 @@ __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that
 __merit__ :two::hammer:  
 __merriment__ _n_ :two:  
 __mesh strainer__  
+__mesosphere__  
 __metal casement windows__ :camera:  
 __metal flashing__  
 __metal shavings__  
@@ -6922,6 +6932,7 @@ __paradox__
 __paragon__ _n_ :three::hammer: (paragons) _A paragon of redundancy._  
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
+__paramount__ _The reliability of the weather station is paramount._  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __parasailing__  
@@ -7442,7 +7453,7 @@ __precision__ _Precision medicine._
 __predate__ _v_ :three::hammer:  
 __predator__ _n_  
 __prediabetes__  
-__predicament__  
+__predicament__ :two::hammer: _Hearsay suggests that green apples can induce such a predicament._  
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
@@ -10114,7 +10125,7 @@ __time frame__
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
 __timeline__  
-__timely__ _adj_ :five::hammer: _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :six::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable__  
 __timid__  
@@ -10345,6 +10356,8 @@ __troop__
 __trooper__ _n_ :two::hammer:  
 __troot__  
 __tropes__ :two::hammer:  
+__trophy wife__  
+__troposphere__  
 __trot line__  
 __trot out__  
 __trot__  

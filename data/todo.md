@@ -1,25 +1,6 @@
 
-__cypress__ _n_ :astonished:  
-__alder__ _n_  
-__mesosphere__  
-__troposphere__  
-__paramount__ _The reliability of the weather station is paramount._  
-__ceilometer__ _n_  
-__timely__ _Providing timely information._  
-__cytometry__  
-__disseminate__ _v_  
-__environs__ _n_  
-__cleaver__ _n_ (knife?)  
-__grownup__ (or grown up?)  
-
-__hearsay__ _n_ Hearsay suggests that green apples can induce such a predicament.  
-__predicament__ Hearsay suggests that green apples can induce such a predicament.  
-__meat and potatoes__  
-__eye candy__  
-__blind as a bat__  
-__trophy wife__  
 __pyrheliometer__ _n_  
-__clockwork__ _adj?_  
+__clockwork__ _n_  
 __contingency__ _The contingency response missions._  
 __rigors__ _n_  
 __subsea__ _n_  
