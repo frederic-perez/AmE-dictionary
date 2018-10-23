@@ -690,6 +690,7 @@ __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is 
 __animosity__ _n_ :seven: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :two::hammer: _The animus between the Yankees and Red Sox._  
 __annuity__ (annuities) :two::hammer:  
+__annum__ _n_  
 __anomic__  
 __anorak__ _n_ :two::hammer:  
 __ante__ _n_ :four::hammer: _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
@@ -1195,10 +1196,10 @@ __big brother__
 __big cat__ :es: felino  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It's not a big deal._ __2__ An important person: She was a big deal in local politics.  
 __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
-__big dog__ _n_ _informal_ A notably prominent, important, or powerful person, organization, etc.  
+__big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
 __big mon__  
 __big retailer__ (Walmart, Target, Amazon.)  
-__big time__ _n_ _informal_ :three::hammer:  
+__big time__ _n informal_ :three::hammer:  
 __big yes__  
 __big-box stores__ :camera::hammer:  
 __big-gulper__ _America's big-gulpers._  
@@ -1408,7 +1409,7 @@ __bookcases__ _n_ :two::hammer:
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
 __bookend__ _n_  
-__bookie__ _n_ _informal_ (bookies) :two: Short for bookmaker.  
+__bookie__ _n informal_ (bookies) :two: Short for bookmaker.  
 __bookish__  
 __bookmaker__ _n_  
 __bookmarker__ _n_  
@@ -2169,9 +2170,10 @@ __cloakroom__ _n_ :two::hammer:
 __clobber__ _v_ :three::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
 __clock in__ _v_  
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
+__clockwork__ _n_  
 __clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __close > not even close__  
-__close call__ _n_ _Informal_ :two: An outcome in which a bad result is narrowly averted.  
+__close call__ _n informal_ :two: An outcome in which a bad result is narrowly averted.  
 __close the loops__  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
@@ -2395,7 +2397,7 @@ __contextualize__ _v_ :dart::three:
 __contiguous > the contiguous U.S.__  
 __continence__  
 __contingency plan__ :two::hammer:  
-__contingency__ _n_ :three::hammer: (contingencies)  
+__contingency__ _n_ :four::hammer: (contingencies) _The contingency response missions._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
@@ -2930,6 +2932,7 @@ __deterrent__ _n_ :seven: A deterrent makes you not want to do something. Let's 
 __detour__  
 __detractor__  
 __detritus__ _n_  
+__deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
 __devastate__ _v_  
 __develop__ _v_ :mega:  
 __development__ :two::hammer: _Choose your home from 8 new developments across London._  
@@ -3171,7 +3174,7 @@ __down payment__ :two::hammer: _A down payment for his role as a recruitment of 
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
-__down under__ _n_ _informal_ _Best regards from down under._  
+__down under__ _n informal_ _Best regards from down under._  
 __down-low__  
 __downbeat__ :two::hammer:  
 __downdrafts__ _n_  
@@ -3473,6 +3476,7 @@ __end run__ :two::hammer:
 __endangerment__  
 __endeared__  
 __endearing__ _adj_ :seven: Inspiring affection. _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
+__endgame__  
 __endow__ _v_  
 __endowed__ :two::hammer:  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
@@ -4831,7 +4835,7 @@ __heckled__ _v_
 __heckler__ _n_ :three::hammer:  
 __heckling__  
 __hectic__ _adj_ :five::hammer:  
-__hector__ _v_ _Chávez hectored the United States often._  
+__hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
 __hedge<sup>2</sup>__ _v_ :two::hammer: (hedging)  
@@ -5419,7 +5423,7 @@ __jive<sup>2</sup>__ _n_ :two::astonished::hammer: _This guy is jive._ _You can 
 __job opening__  
 __jobbing__ _v_  
 __jobless coverage__ _Jobless coverage expired for 2 million people._  
-__jock__ _n_ _informal US_ :five: An athlete. _You act like I got jock odor or something._  
+__jock__ _n informal_ :five: An athlete. _You act like I got jock odor or something._  
 __jockeying__ :two::hammer: _Fierce political jokeying._  
 __jockstrap__ :two::hammer:  
 __jocular__  
@@ -5553,6 +5557,7 @@ __kiwi__
 __kleptocracy__  
 __klutz__  
 __knack__ _n_  
+__knackered__  
 __knave__  
 __knavish__  
 __kneaded__ _v_ :five::hammer: (kneading)  
@@ -5737,6 +5742,7 @@ __lemongrass__
 __lemons > dance of the lemons__  
 __lemony__  
 __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
+__lengthy__ _A lengthy period._  
 __leniency__ :two::hammer:  
 __lenient__ _adj_ :six: (leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
 __lens__ _Lens design._  
@@ -7687,6 +7693,7 @@ __putty knife__ :es: espátula
 __putty__ _n_ :six::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __pylon__ _n_  
 __pyres__ _n_  
+__pyrheliometer__ _n_  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __q-tip__  
 __quack__ _n_ :two::hammer:  
@@ -8142,6 +8149,7 @@ __right__ :two::dart::hammer: _Exactly right._ _Absolutely right._
 __righteous__  
 __rightfully__ _Rightfully so._  
 __rigmarole__ _n_ :two::hammer: _Rigmarole controls._  
+__rigors__ _n_  
 __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rimless__ _Rimless glasses._  
@@ -9671,7 +9679,7 @@ __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._
 __stupas__  
 __sturdy__ :two::hammer:  
 __stutter__ _v_ :two::hammer:  
-__stymie__ _v_ :nine::m: (stymied) To present an obstacle to (somebode or something); to thwart.  
+__stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart.  
 __suave__ _adj_ :four::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subcompact__ (car?)  
@@ -9682,6 +9690,7 @@ __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?
 __sublimate__ _v_  
 __subpoena<sup>1</sup>__ _n_ :four::hammer:  
 __subpoena<sup>2</sup>__ _v_ (subpoenaed)  
+__subsea__ _n_  
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
 __subside__ _v_ :dart::five::hammer: (subsided) _My headache has subsided._  
@@ -9860,7 +9869,7 @@ __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they wo
 __taciturn__  
 __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
 __tacky__ :two::hammer:  
-__tad__ :two::hammer:  
+__tad__ _n informal_ :three::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ :two::hammer: _Our big tagline is to help others._  
@@ -10622,6 +10631,7 @@ __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._
 __upsetting__  
 __upshot__ _n_ :six::hammer:  
 __upside__ :two::hammer: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
+__upskirting__ _n_  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
@@ -11034,6 +11044,7 @@ __winnow__ _v_ :four::hammer: (winnowed, winnowing) _That is why we have the sch
 __winsome__  
 __winterkill__  
 __wintry__ _adj_ :three: :es: invernal  
+__winward__  
 __wire > getting down to the wire__  
 __wire book stand__  
 __wire grass__ _n_ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
@@ -11061,7 +11072,7 @@ __wither__ _v_ :three::hammer: (withers, withered)
 __withes__ _n_ :two::hammer:  
 __withhold__  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
-__wobbly__ :two::hammer: _Wobbly dome of yolk._  
+__wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
 __woeful__ :two::hammer:  
 __woefully__ _adv_ :five::hammer: _Her hand landed woefully on her forehead._  

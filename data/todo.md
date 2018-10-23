@@ -1,23 +1,4 @@
 
-__pyrheliometer__ _n_  
-__clockwork__ _n_  
-__contingency__ _The contingency response missions._  
-__rigors__ _n_  
-__subsea__ _n_  
-__annum__ _n_  
-__winward__  
-
-__tad__  
-__knackered__  
-__stymieing__  
-__endgame__  
-__deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
-__hectored__ _v_  
-__fret__ _v_  
-__lengthy__ _A lengthy period._  
-__keen__ _A keen strategist._  
-__wobbly__  
-__upskirting__ _n_  
 __mastermind__ _v_ :two::hammer: (masterminding)  
 __remembrance__  
 __poignant__ _A poignant ceremony._  
