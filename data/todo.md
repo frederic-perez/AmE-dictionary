@@ -1,23 +1,4 @@
 
-__mastermind__ _v_ :two::hammer: (masterminding)  
-__remembrance__  
-__poignant__ _A poignant ceremony._  
-__vile__  
-__wary__  
-__flinch__ _v_  
-__ploughed__ _v_  
-__frieze__ _n_  
-__speak out__ (spoke out)  
-__cuneiform__  
-
-__regal__ _A black West Indian with regal manners._  
-__inquisitiveness__  
-__sudden__  
-__exempt__  
-__amenity__  
-__dinghies__  
-__seagulls__  
-__offload__ _v_  
 __back-of-house__ __Back-of-house technology._  
 __earmark__ _v_ :two::hammer: (earmarked)  
 __pinning__ _v_  

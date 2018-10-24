@@ -656,7 +656,7 @@ __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
 __ameliorate__ _v_  
 __amends__  
-__amenity kits__  
+__amenity__ :two::hammer: _Amenity kits._  
 __amethyst__ _n_  
 __ametropy__ _n_  
 __amiss__ _adj_  
@@ -2679,6 +2679,7 @@ __culprit__ _n_
 __cult__ _n_  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
+__cuneiform__  
 __cupboard__ _n_ :two::hammer::camera: (cupboards) _My father rebuilt cupboards._  
 __cupolas__ _n_  
 __cuppa__  
@@ -2982,7 +2983,7 @@ __dimwitted__
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
-__dinghy__ _n_ :eight: (dingy, dingey; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
+__dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinking__ _v_  
 __dinky__ :two::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
@@ -3590,7 +3591,7 @@ __excruciating__
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __exec__ _n informal_ :three: (execs) An executive. _I'm a retired tech exec._  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
-__exempt__ _v_  
+__exempt__ _v_ :two::hammer:  
 __exemption__ _Dru earned an exemption into the tournament._  
 __exert__ _v_ :seven: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
@@ -3935,7 +3936,7 @@ __flight__ _n_ _He climbed four flights of stairs._
 __flimflam__ _n_ :dart::two::hammer:  
 __flimsy__  
 __flinch<sup>1</sup>__ _n_  
-__flinch<sup>2</sup>__ _v_ :four: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
+__flinch<sup>2</sup>__ _v_ :five: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __fling__ _v_ :six::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __flint__ _n_  
 __flintily__  
@@ -4146,6 +4147,7 @@ __fretful__ :two::hammer:
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretwork__  
 __friction__ _The coefficient of friction._  
+__frieze__ _n_  
 __frigid__ (frigid winds) Extremely cold.  
 __frill__ _v_  
 __frilled__ _Frilled apron._  
@@ -5293,6 +5295,7 @@ __inordinately__
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
 __inquisitive__ _adj_  
+__inquisitiveness__  
 __inroads__ _n_ :three::hammer:  
 __ins and outs__  
 __inscrutable__ :two::hammer:  
@@ -6093,6 +6096,7 @@ __masonry__
 __masseuse__ _n_  
 __massive__  
 __mast__ _n_ _The flag was flown at half mast._  
+__mastermind__ _v_ :two::hammer: (masterminding)  
 __masterpiece__  
 __mat__ _I'm not going to the mat for her._  
 __matahara__ Maternity harassment.  
@@ -6666,6 +6670,7 @@ __off-the-cuff__
 __offbeat__ :two::hammer: _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __offing__ _A budding rivalry could be in the offing._  
+__offload__ _v_  
 __offramp__  
 __offset<sup>1</sup>__ _v_ :two::hammer:  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
@@ -7310,8 +7315,7 @@ __plop__ _v_
 __plopped__ _v_ :two::hammer:  
 __plops__ _v_  
 __plot__ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
-__plough__ _v_  
-__ploughed__  
+__plough__ _v_ :three::hammer: (ploughed)  
 __plovers__  
 __plowed__ :two::hammer: _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
 __pluck<sup>1</sup>__ _n_ :two::hammer: _The story celebrates the pluck and determination of this young woman._  
@@ -7346,7 +7350,7 @@ __podjo__
 __podna__ :two::hammer:  
 __pogrom__  
 __pogroms__ _n_  
-__poignant__ :two::hammer: _This is another, more poignant example._  
+__poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ :pencil2:  
 __point-and-shoot camera__  
 __pointed questions__  
@@ -7979,7 +7983,7 @@ __refrain<sup>2</sup>__ _v_
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__  
 __refuse__ _n_  
-__regal__ _n_ :four: Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country. _Despite his homely perch Robert felt regal._  
+__regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country._ _Despite his homely perch Robert felt regal._  
 __regaled__  
 __regalia__ _n_ :two::hammer:  
 __regatta__  
@@ -8022,7 +8026,7 @@ __relocate__ _v_ _They plan to relocate to Denver soon._
 __remanded__ _v_  
 __remarkable__  
 __remarkably__ _adv_ :two::hammer:  
-__remembrance__ _n_ :four: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
+__remembrance__ _n_ :five: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
 __reminisce__ _v_ (reminiscing)  
 __reminiscent__  
 __remit__  
@@ -8532,7 +8536,7 @@ __scythes__ _n_
 __seabed__  
 __seafarer__  
 __seafaring__  
-__seagulls__ _n_  
+__seagulls__ _n_ :two::hammer:  
 __seahawk__ ?  
 __seal__ _Lacy gained 27 yards to seal their fourth division win._  
 __seamstress__ _n_  
@@ -9246,7 +9250,7 @@ __spate__ _n_ :seven: /speɪt/ A large number of similar things coming in quick 
 __spatter__ _n_  
 __spay__ _v_ :two::hammer: (spayed)  
 __spd__  
-__speak out__  
+__speak out__ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
@@ -9713,6 +9717,7 @@ __sucker__ _n_ :three::hammer: (of a plant) _He is a sucker for anything cute._
 __suckle__ _v_  
 __suckled__ _v_ :two::hammer:  
 __sucklings__ _n_  
+__sudden__  
 __suds__  
 __sudsy__  
 __suffragette__  
@@ -10742,6 +10747,7 @@ __victualling__
 __victuals__ :two::hammer:  
 __vie__ _v_ :five: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::hammer:  
+__vile__  
 __vilifies__ _v_  
 __vilify__ _v_  
 __villa__ _n_ :two::hammer:  
@@ -10844,7 +10850,7 @@ __warmer__ _n_ _Fragance warmer._
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a certain amount of time).  
 __warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
 __warren__ _n_ _A warren of hares._  
-__wary__ _adj_ _He is wary of the situation._  
+__wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wash up__ _v_ _A washed up player._  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
 __washroom__ _n_  
