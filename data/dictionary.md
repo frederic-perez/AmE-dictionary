@@ -905,6 +905,7 @@ __back end__ _Dante Exi, started two games at the back end of the trip._
 __back out__ _v_ :three::hammer:  
 __back up__ _v_ _Traffic will back up as if two lanes were blocked._  
 __back-heel pass__  
+__back-of-house__ _Back-of-house technology._  
 __back-office__ _Back-office analytics._  
 __back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
@@ -2742,7 +2743,7 @@ __dallied__ _v_
 __dally__ _v_  
 __dallying__  
 __damnation__  
-__damning__  
+__damning__ :two::astonished::hammer: _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
 __dampen__ _v_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
@@ -3028,6 +3029,7 @@ __disgorgement__
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
 __dish out__ _v_ :two::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
+__dish up__ _v_  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
 __dishing__ _v_  
 __dishonest__  
@@ -3356,7 +3358,7 @@ __earlier__ _adv_ :three:
 __earlocks__ _n_  
 __early-onset__ _Early-onset Alzheimer's disease._  
 __early__ _I always get off the bus a stop early on the way to work._  
-__earmark__ _v_ :four::hammer: (earmarked)  
+__earmark__ _v_ :six::hammer: (earmarked)  
 __earmuffs__  
 __earnest__ _adj_ :five::hammer:  
 __earnestly__  
@@ -3584,7 +3586,7 @@ __excess__ :two::hammer: _He's raised or spent in excess of $5,000 on political 
 __excise__ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excised__ _v_  
 __excommunication__  
-__excoriate__ _v_ :three::hammer: (excoriated) _Gay rights advocates excoriated the state's actions._  
+__excoriate__ _v_ :four::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state's actions._  
 __excoriation__  
 __excruciate__  
 __excruciating__  
@@ -3957,9 +3959,7 @@ __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed
 __floaties__  
 __flodaway__ _Foldaway bed._  
 __floe__ _n_  
-__flog__ _v_  
-__flogged__ _v_  
-__flogging__  
+__flog__ _v_ :four::hammer: (flogged, flogging)  
 __floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
 __floodlamps__  
 __floodlight__ _n_ :two::hammer:  
@@ -5331,7 +5331,7 @@ __intervene__ _v_ :two::hammer:
 __interviewees__ _n_ :pencil2:  
 __into the fold__ _It brought many viewers into the fold._  
 __intramural__  
-__intricacies__  
+__intricacies__ :two::hammer:  
 __intricate__  
 __intuit__ _v_ :three: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
@@ -6340,6 +6340,7 @@ __mope__ _v_ :pencil2::two::hammer:
 __moppet__ _A lovable moppet._  
 __mopping up__  
 __moral__  
+__morale__ _n_  
 __morass__ _n_ :two::hammer: (morasses) _Morasses of salt._  
 __moratorium__ :two::hammer:  
 __morcellator__  
@@ -6691,7 +6692,7 @@ __old-timers__ _n_
 __olefin__ _n_  
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
-__omen__ _n_ :three::hammer:  
+__omen__ _n_ :four::hammer:  
 __ominous__ _adj_ :eight: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
@@ -7210,6 +7211,7 @@ __pink slip__
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He's all pinkified for halloween._  
 __pinned__  
+__pinning__ _v_  
 __pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
 __pinpricks__ _n_  
 __pinwheel__ _v_  
@@ -7315,7 +7317,7 @@ __plop__ _v_
 __plopped__ _v_ :two::hammer:  
 __plops__ _v_  
 __plot__ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
-__plough__ _v_ :three::hammer: (ploughed)  
+__plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
 __plovers__  
 __plowed__ :two::hammer: _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
 __pluck<sup>1</sup>__ _n_ :two::hammer: _The story celebrates the pluck and determination of this young woman._  
@@ -8013,7 +8015,7 @@ __relegation__ _Sports_
 __relent__ _v_ :three::hammer: (relented)  
 __relentless__ :three::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _Must have reliable transportation._  
-__reliant__  
+__reliant__ :two::hammer:  
 __relic__ _n_  
 __relief teams__  
 __relief__ :two::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
@@ -8485,8 +8487,7 @@ __scowl__ _v_ :five::hammer: (scowled, scowling)
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap iron__ :es: chatarra?  
 __scrap<sup>1</sup>__ _n_ :two::hammer: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap<sup>2</sup>__ _v_ :eight: (scraps, scrapped) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._  
-__scrap__ _v_ :four::hammer: (scrapped, scrapping) _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
+__scrap<sup>2</sup>__ _v_ :nine::m: (scraps, scrapped, scrapping) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrapper__  
 __scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
@@ -9836,7 +9837,7 @@ __swimming hole__ :two::hammer:
 __swindle__ _v_ :two::hammer:  
 __swindler__ _n_ :three::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
-__swipe__ _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
+__swipe__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swish__ _To swish a three-pointer._  
 __swishing__ _Swishing sound._  
 __switch-blade__ _Switch-blade artists._  
@@ -10428,6 +10429,7 @@ __turgid__ _adj_ :three::hammer:
 __turkey drumstick__  
 __turkey stock__ :camera:  
 __turmoil__  
+__turn__ _v_ :astonished: _Clive turned 60 last month._  
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
@@ -10545,7 +10547,7 @@ __uneasy calm__ _People waited to see whether an uneasy calm would last._
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unethically__ _He had acted unethically and for that I could never trust him as editor._  
 __unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__ _v_ :five::hammer: _They are unfazed by all fof this._  
+__unfazed__ _v_ :six::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
@@ -10903,6 +10905,7 @@ __weevil__ :two::hammer: _Weevil worms._
 __weevils__  
 __weigh__ _v_ :es: sopesar?  
 __weight__ _You took some weight off your shoulders._  
+__weighty__ _His weighty agenda._  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
 __well-heeded__  
@@ -11033,7 +11036,6 @@ __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
 __winded__  
-__windfall__ _n_ :nine::astonished: A large amount of money that is won or received unexpectedly. _A commercial renovation is no guarantee of a windfall._ _Windfall bounties._ :es: ganancia inesperada  
 __windlass__  
 __window sash__ _n_  
 __windshear__ _Windshear phenomena have caused more than 1,400 deaths in aviation._  
@@ -11078,6 +11080,7 @@ __wither__ _v_ :three::hammer: (withers, withered)
 __withes__ _n_ :two::hammer:  
 __withhold__  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
+__wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
 __woeful__ :two::hammer:  

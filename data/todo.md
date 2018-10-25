@@ -1,23 +1,4 @@
 
-__back-of-house__ __Back-of-house technology._  
-__earmark__ _v_ :two::hammer: (earmarked)  
-__pinning__ _v_  
-__flog__ _v_  
-__wobble__ _v_ (wobbling)  
-__scrap__ _v_  
-__weighty__ _His weighty agenda._  
-__omen__ _n_  
-__swipe__ _n_  
-__intricacies__  
-__morale__ _n_  
-__plough__ _It wanted to plough cash into the business._  
-__unfazed__  
-__turn__ _v_ :astonished: _Clive turned 60 last month._  
-__reliant__  
-__damning__ :astonished: _A damning veredict._  
-__excoriating__  
-__dish up__ _v_  
-__windfall__ _The dividend windfall._  
 __roadblock__ _n_  
 __Commonwealth__  
 __shortlist__ _We look at the shortlist's biggest beasts._  
