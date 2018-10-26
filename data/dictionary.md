@@ -84,6 +84,7 @@ __Cisternian__ :pencil2: _Cisternian monks._
 __City__  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __Collins glass__  
+__Commonwealth__  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __Concacaf__  
 __Confederate flag__  
@@ -2065,7 +2066,7 @@ __choker__ _A velvet choker._
 __chomp__ _v_  
 __chomping__  
 __chop__ _v_  
-__choppy__ _adj_ :three: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
+__choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :seven: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chortles__ _v_  
 __chuck out__ _v_  
@@ -3953,7 +3954,7 @@ __flippers__ _n_ :camera:
 __flit__ :two::hammer:  
 __flitting__  
 __flitty__  
-__float<sup>1</sup>__ _n_ :three::hammer: _People pull a huge traditional float during the Yamahoko parade._  
+__float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
 __float<sup>2</sup>__ _v_ :three::hammer:  
 __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
@@ -5731,7 +5732,7 @@ __leeway__ _n_ :four: Leeway is a term used to describe the amount of freedom av
 __lefty buckets__  
 __leg up__ _Area's 2 reigning congressmen have leg up on funding._  
 __legal tack__  
-__legerdemain__ _n_ :three::hammer:  
+__legerdemain__ _n_ :four::hammer:  
 __legion__ _The reasons you can't sleep well inflight are legion._  
 __legit__ _adj_ _Slang_ :three: Legitimate.  
 __legwork__ _n_  
@@ -5969,7 +5970,7 @@ __lupine__
 __lupus__  
 __lurch__ _v_ :five::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
-__lurid__  
+__lurid__ :two::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _adj_ :eight: _adj_ __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lushnes__  
@@ -6335,7 +6336,7 @@ __moonshot__ _n_ :two: _technology_ An ambitious, exploratory and ground-breakin
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
 __moot<sup>1</sup>__ _adj_ :seven: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
-__moot<sup>2</sup>__ _v_ :four::hammer: (mooted) _A mooted rebellion._  
+__moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
 __mopping up__  
@@ -6465,7 +6466,7 @@ __names and likeness__
 __namesake__  
 __nana__ _Her nana._  
 __nape__ _n_  
-__nappy__ _n_ :two::hammer: (chiefly British)  
+__nappy__ _n_ :three::hammer: (chiefly British)  
 __narcissistic__  
 __narrative__  
 __narrow escape__  
@@ -6754,7 +6755,7 @@ __orderliness__ _n_ __1__ The quality of appreciating method and system. __2__ A
 __orderly__ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :three::pencil2::hammer:  
-__ore__ :two::hammer:  
+__ore__ _n_ :three::hammer: _Iron ore._  
 __organization__ _n_ :mega:  
 __ornament__  
 __ornate__ _n_ :four::hammer:  
@@ -6948,7 +6949,7 @@ __paramount__ _The reliability of the weather station is paramount._
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __parasailing__  
-__parcel<sup>1</sup>__ _n_ :four::hammer: _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
+__parcel<sup>1</sup>__ _n_ :five::hammer: _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _The dryness will encompass parched California._  
 __parchment paper__ :camera:  
@@ -7561,7 +7562,7 @@ __prohibit__
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __prominence__  
-__prominent__ _adj_ :four::hammer: _Package carrying a prominent warning._  
+__prominent__ _adj_ :five::hammer: _Package carrying a prominent warning._  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prompt__ _v_ :two::hammer: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
@@ -8175,7 +8176,7 @@ __rip your wiring out__
 __rip__ _The bullets rip._  
 __riparian__ _Riparian woodland._  
 __ripe-smelling__ _The ripe-smelling barn._  
-__ripe__ _adj_ :nine: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
+__ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
 __riposte__ _n_ :three::hammer: (ripostes)  
 __ripped__ _v_  
@@ -8193,6 +8194,7 @@ __rivulets__
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road salt__ _n_  
+__roadblock__ _n_  
 __roadside__ _Roadside billboards._  
 __roam__ _v_ :five::hammer: (roaming) _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
@@ -8765,8 +8767,8 @@ __shortcomings__ _n_
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
-__shortlist__ _n_ :five::hammer: _A women-only shortlist._  
-__shortlisted__ _v_  
+__shortlist<sup>1</sup>__ _n_ :six::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
+__shortlist<sup>2</sup>__ _v_ (shortlisted)  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ _Shortly before 8 a.m. Tuesday._  
 __shot in the arm__ :two::hammer:  
@@ -8922,7 +8924,7 @@ __skin parlor__
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
-__skirmish<sup>1</sup>__ _n_ :three::hammer:  
+__skirmish<sup>1</sup>__ _n_ :four::hammer: (skirmishes)  
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
@@ -9611,7 +9613,7 @@ __strait__
 __straits__  
 __strand__ _n_ :two::hammer:  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
-__strangle__ _v_ :three::hammer: (strangled, strangling) :es: estrangular  
+__strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
 __stranglehold__ _n_ :three::hammer:  
 __strap overalls__  
 __strapless__ _Strapless black dress._  
@@ -10166,7 +10168,7 @@ __tiptoe__ _v_ To walk or move quietly on one's toes.
 __tirade__ _n_ :five::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
-__tit for tat__ _n_ :three::hammer:  
+__tit for tat__ _n_ :four::hammer:  
 __tite__  
 __title__ _n_ :pencil2:  
 __titlist__ _He is the former bantamweight titlist._  
@@ -10479,7 +10481,7 @@ __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched.
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
-__tycoon__ _n_ :three::hammer:  
+__tycoon__ _n_ :four::hammer:  
 __tying__ _v_ :pencil2:  
 __type-A personalities__  
 __typecast__ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
@@ -10643,7 +10645,7 @@ __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting foc
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__  
-__uptick__ _n_ :four::hammer:  
+__uptick__ _n_ :five::hammer:  
 __uptight__ _v_  
 __uptime__  
 __upward__  
