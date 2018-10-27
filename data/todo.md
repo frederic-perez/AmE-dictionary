@@ -1,4 +1,15 @@
 
+__riddle__ _n_  
+__thrall__ _n_  
+__catnip__ _He's catnip to women._  
+__untenable__  
+__runoff__ _The runoff vote._  
+__tenet__  
+__quandary__  
+__riddle__ _n_  
+__landscape__ _Landscape gardening._  
+__tipsily__  
+
 __sagging__ _v_  
 __crumbling__ _v_  
 __easygoing__ _adj_  
