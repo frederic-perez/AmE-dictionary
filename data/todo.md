@@ -1,4 +1,19 @@
 
+__sagging__ _v_  
+__crumbling__ _v_  
+__easygoing__ _adj_  
+__composure__  
+__nestlings__ _n_  
+__tempered__  
+__catchall__ _A catchcall phrase._  
+__uptight__  
+__soured__ _v_  
+__altogether__  
+__encroachment__ _n_  
+__sapped__ _v_  
+__courtyards__ _n_  
+__forthcoming__  
+
 __bleak__  
 __far-fetched__ _That isn't as far-fetched as it sounds._  
 __saffron__  
