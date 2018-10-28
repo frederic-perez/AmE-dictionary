@@ -1,4 +1,16 @@
 
+__tall tales__  
+__buckskin__  
+__string tie__  
+__reveler__ _n_  
+__mother-of-pearl__ _Mother-of-pearl inlays._  
+__inlays__ _n_ _Mother-of-pearl inlays._  
+__singalongs__ _n_  
+__cowpoke__  
+__buckaroo__ :two::hammer:  
+__rawhide__ _Attendees can learn how to braid rawhide._  
+__barrelhouse__ _Barrelhouse piano._  
+
 __riddle__ _n_  
 __thrall__ _n_  
 __catnip__ _He's catnip to women._  
