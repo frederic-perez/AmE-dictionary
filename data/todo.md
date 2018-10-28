@@ -1,4 +1,16 @@
 
+__backstop__ _n_ (baseball)  
+__poached__ _v_ _Their signs will not be electronically poached._  
+__and-a-one, and-a-two...__  
+__underscoring__ _v_  
+__galvanized__ _v_  
+__inscrutable__  
+__crackdown__ _n_  
+__undercutting__ _v_  
+__hawkish__  
+__shoestring__ _A shoestring operation._  
+__loan__ _n_  
+
 __tall tales__  
 __buckskin__  
 __string tie__  
