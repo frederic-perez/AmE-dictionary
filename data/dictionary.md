@@ -676,6 +676,7 @@ __anchovies__
 __ancillary__ :two::hammer:  
 __and how!__  
 __and so it goes__  
+__and-a-one, and-a-two...__  
 __andirons__  
 __anecdotal__ :mega:  
 __anemometer__ _n_  
@@ -921,6 +922,7 @@ __backlog__ _n_ :five: An accumulation of uncompleted work or matters needing to
 __backpedal__ _v_  
 __backslid__ _v_  
 __backsplash__ _n_ _A new tile backsplash._  
+__backstop__ _n_ (baseball)  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
 __backwater__ :two::hammer: _An academic backwater._  
 __backwoods__  
@@ -1593,7 +1595,7 @@ __buckle down (to something)__ _v informal_ :five: To start to do something seri
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
 __buckle__ _v_ :nine::m: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::hammer:  
-__buckskins__  
+__buckskin__ _n_ :two::hammer: (buckskins)  
 __buckwheats__  
 __budding__  
 __buddy__  
@@ -4243,7 +4245,7 @@ __galling__ _adj_ :two::hammer: _A galling loss._
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
 __galoshes__ _n_  
-__galvanize__ _v_ :two::hammer: (galvanized)  
+__galvanize__ _v_ :three::hammer: (galvanized)  
 __gambit__  
 __game plan__ :two::hammer:  
 __game-changing__  
@@ -4778,7 +4780,7 @@ __have someone pegged__ _She had me pegged on that, too._
 __havoc__  
 __hawing__  
 __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensive artwork._ __2__ To clear or attempt to clear the throat by or as if by coughing up phlegm.  
-__hawkish__ _adj_ :six::hammer: _Hawkish views._ _Hawkish national security team._  
+__hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
 __hay fever__ :two::hammer: _I suffer from hay fever congestions._  
@@ -5289,6 +5291,7 @@ __injury time__
 __injury-marred__ _Federer had an injury-marred season._  
 __inkling__ _n_ :three::hammer:  
 __inland__  
+__inlays__ _n_ _Mother-of-pearl inlays._  
 __innards__ _v_ _The pictures adorn the innards of each chapter._  
 __innumerate__  
 __inordinate__ _adj_ :three::hammer:  
@@ -5299,7 +5302,7 @@ __inquisitive__ _adj_
 __inquisitiveness__  
 __inroads__ _n_ :three::hammer:  
 __ins and outs__  
-__inscrutable__ :two::hammer:  
+__inscrutable__ _adj_ :three::hammer:  
 __inset__ :two::hammer:  
 __insipid__  
 __insofar__  
@@ -5864,7 +5867,7 @@ __lo and behold__
 __loaded question__  
 __loafered__  
 __loafers__ _n_ :three::hammer:  
-__loans__  
+__loan__ _n_ :two::hammer: (loans)  
 __lob__ _v_ :two::hammer:  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
@@ -6363,6 +6366,7 @@ __mosque__ _n_ :two::hammer: (mosques)
 __moth__ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
+__mother-of-pearl__ _Mother-of-pearl inlays._  
 __motifs__ _n_  
 __motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motion__ _Defense attorneys had filed motions._  
@@ -7340,7 +7344,7 @@ __plush__ _adj_ :six: Things that are plush are luxurious and a little over the 
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :eight::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._  
 __po'-boy sandwiches__  
-__poach__ _v_ :three::hammer: (poached, poaching)  
+__poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
 __poacher__ _n_ :three::hammer: (poachers) _A chimpanzee that lost its mother to poachers._  
 __poaching__ :two::hammer: _Poaching has become socially unacceptable._  
 __pocket change__  
@@ -8111,7 +8115,7 @@ __returnee__
 __reunion__ An instance of two or more people coming together again after a period of separation.  
 __reunite__ _v_  
 __revel__ _v_  
-__reveler__ _n_ :nine: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick's day revelers._ _Mardi Gras revelers._  
+__reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick's day revelers._ _Mardi Gras revelers._  
 __reveling__ :two::hammer:  
 __revelled__ _v_ :two::hammer:  
 __revelling__  
@@ -8737,7 +8741,8 @@ __shoat__ _n_
 __shock-jock__ _n_  
 __shoddily__  
 __shoddy__ _adj_ :six::hammer:  
-__shoestring__ _A shoestring budget._  
+__shoestring<sup>1</sup>__ _n_  
+__shoestring<sup>2</sup>__ _adj_ :two::hammer: _A shoestring budget._ _A shoestring operation._  
 __shoftlift__ _v_  
 __shogun__ _n_  
 __shogunate__ :two::hammer: _A local shogunate office._  
@@ -8879,7 +8884,7 @@ __sinecure__ _n_ A position or office that requires little or no work but provid
 __sinestesia__ _n_ (?)  
 __sinew__ _n_ :six::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
-__sing along<sup>1</sup>__ _n_ :two: A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
+__sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :two: To select one from a group and treat differently.  
@@ -9643,6 +9648,7 @@ __strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; con
 __striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
 __string knife__ :two::hammer:  
+__string tie__  
 __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
@@ -9901,7 +9907,7 @@ __talent__ _A specific set of talents._
 __talking head__ :astonished:  
 __talktative__  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
-__tall tales__  
+__tall tales__ :two::hammer:  
 __tallied__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __tally__ _v_  
@@ -10517,7 +10523,7 @@ __under siege__
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
-__undercut__ _v_ :five::hammer: (undercutting) _Why do you undercut yourself so much?_  
+__undercut__ _v_ :six::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
 __undermine__ _v_  
@@ -10525,7 +10531,7 @@ __underpin__ _v_ :two::hammer:
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  
 __underrated__ :pencil2:  
-__underscore__ _v_ :two::hammer:  
+__underscore__ _v_ :three::hammer: (underscoring)  
 __undersecretary__  
 __understandably__ :two::hammer:  
 __understated__ _adj_  
