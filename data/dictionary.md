@@ -1010,6 +1010,7 @@ __barrage<sup>2</sup>__ _v_
 __barre__  
 __barrel bombs__  
 __barrel__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
+__barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__  
 __barrette__ :two::hammer:  
 __barring__ _v_ :two::hammer:  
@@ -1589,6 +1590,7 @@ __buck off__ _v_
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
 __buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _Many officers bucked the chain of command._  
+__buckaroo__ _n_ :two: A cowboy – used especially when talking to children. The iconic figure of the cowboy has gone by many other names in American English, including buckaroo, cowhand, cowman, cowpoke, cowpuncher, vaquero, and waddy, and two of these words, buckaroo and vaquero, come from Spanish. In California, however, the Spanish word vaquero was Anglicized to buckaroo.  
 __bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
 __buckeyes__  
 __buckle down (to something)__ _v informal_ :five: To start to do something seriously: _I'd better buckle down to those reports._  
@@ -1925,7 +1927,7 @@ __caterwauling__
 __catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
 __cathedral ceiling__ :camera::two::hammer:  
-__catnip__ _n_ :two: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _Syn_ catmint  
+__catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He's catnip to women._ _Syn_ catmint  
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__ _n_ :two::hammer:  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
@@ -2521,6 +2523,7 @@ __cowboy__ _v_ :two::hammer:
 __cowering__ _v_ :two::hammer:  
 __cowl__ :two::hammer: _Their cowls were filthy rags._  
 __cowled__ _v_  
+__cowpoke__ _n_ _old-fashioned_ A cowboy or cowgirl.  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __cozened__ _v_  
 __cozy__  
@@ -2640,7 +2643,7 @@ __cruffy__
 __cruft__ _n_  
 __crufty__ :two::hammer: _A crufty comment._  
 __crumb__ _n_ :three::hammer: (crumbs) _Potato chip crumb._  
-__crumble__ _v_ :three::hammer: (crumbled, crumbling)  
+__crumble__ _v_ :four::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_  
@@ -3371,7 +3374,7 @@ __earthquake drill__
 __easement__  
 __easing__  
 __easy-to-use__ _An easy-to-use disposable camera._  
-__easygoing__ _adj_ :two::hammer: (easy-going) _Easygoing people._  
+__easygoing__ _adj_ :three::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
 __ebb and floor__  
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
@@ -5639,6 +5642,7 @@ __lancing irons__
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
+__landscape__ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
 __lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::hammer:  
@@ -7720,7 +7724,7 @@ __quaintly__ :two::hammer:
 __quakes__ _v_  
 __qualify__ _v_  
 __qualm__ _n_ :five: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
-__quandary__ _n_ :six: Difficult dilemma. _All-Star managers face quandary._  
+__quandary__ _n_ :seven: Difficult dilemma. _All-Star managers face quandary._  
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
@@ -7894,6 +7898,7 @@ __raving__ _v_ :two::hammer:
 __ravish__  
 __ravishing__ :two::hammer:  
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
+__rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
 __razor sharp__  
 __razor strop__  
@@ -8145,7 +8150,7 @@ __ricking__ _v_ _Ricking their fingers for blood six or more times a day._
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet__ _v_ :mega::three::hammer:  
 __riddance__ _n_ :four::hammer:  
-__riddle<sup>1</sup>__ _n_ :three::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
+__riddle<sup>1</sup>__ _n_ :five::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
 __ridership__ :two::hammer:  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
@@ -8324,7 +8329,7 @@ __rung__ _n informal_ :eight: (rungs) A particular level or position in an organ
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
-__runoff__ _n_ :eight: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
+__runoff__ _n_ :nine: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
 __runt__  
@@ -8349,7 +8354,7 @@ __safeguard__
 __safekeeping__  
 __safety net__  
 __saffron__  
-__sag<sup>1</sup>__ _v_ :six: (sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
+__sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __sage<sup>1</sup>__ _n_  
 __sage<sup>2</sup>__ _adj_ :three::hammer: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
@@ -10009,8 +10014,7 @@ __tenderizze__ _v_
 __tendinitis__  
 __tendrils__ _n_  
 __tenements__ _Kids from the tenements._  
-__tenet__ _n_ :two::hammer:  
-__tenets__  
+__tenet__ _n_ :four::hammer: (tenets) :es: principio  
 __tenon__  
 __tense__ _adj_  
 __tentative__  
@@ -10081,7 +10085,7 @@ __thorny__ _adj_
 __thorough__ :astonished: _It's a very serious matter that needs thorough investigation._  
 __thoroughfare__  
 __thoroughly__  
-__thrall__ _n_ :five::hammer:  
+__thrall__ _n_ :six::hammer:  
 __thrash__ _v_ :nine::m::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._ _Thrash talk._  
 __thrifty__ _adj_ :two::hammer:  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
@@ -10169,6 +10173,7 @@ __tinkling__ _n_ :two::hammer:
 __tip over__ _v_  
 __tipoff__ _n_ :two::hammer: (tip-off)  
 __tipple__ _v_ :five::hammer: (tippled)  
+__tipsily__  
 __tipster__ _n_ :two::hammer: (tipsters)  
 __tiptoe__ _v_ To walk or move quietly on one's toes.  
 __tirade__ _n_ :five::hammer:  
@@ -10598,7 +10603,7 @@ __unspooling__ _Unspooling microphone cables._
 __unstoppable__ :two::hammer: _She is our unstoppable force of nature._  
 __unsung__  
 __untapped__ _Untapped talent._  
-__untenable__  
+__untenable__ :two::hammer:  
 __unthawed__ _Unthawed croissant._  
 __unthinkable__ _The unthinkable has befallen President._  
 __unticked__ :dart: _Checking an unticked box on my to-do list._  
