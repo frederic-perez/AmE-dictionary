@@ -645,7 +645,7 @@ __altar boy__
 __altercation__  
 __altitude sickness__  
 __alto voice__  
-__altogether__ _Coach Rose was not altogether pleased with the effort._  
+__altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
 __alum__ _n_ :three::hammer: _A Vanderbilt alum._  
 __aluminum__ _n_ :pencil2::two::hammer:  
 __alumni__ :two::hammer:  
@@ -1922,6 +1922,7 @@ __catch up__ _v_
 __catch wind__ _I don't know if you caught wond of it._  
 __catch-up schedule__  
 __catch__ _n_ (game)  
+__catchall__ _n_ _A catchall phrase._  
 __catechism__ :two::hammer::pencil2:  
 __caterwauling__  
 __catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
@@ -2112,7 +2113,7 @@ __clam up__ _v_
 __clambake__ _n_  
 __clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
 __clammy__ :two::hammer:  
-__clampdown__ _n_ :four::hammer: _An immigration clampdown._  
+__clampdown__ _n_ :five::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clang__ _v_  
@@ -2312,6 +2313,7 @@ __comply__ _v_
 __composite decking__  
 __compost__ _v_  
 __composting__ _There's a brown bin for organic waste, which goes for composting._  
+__composure__  
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__ _Compounding the situation._  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
@@ -2511,6 +2513,7 @@ __coupes__ _Coupes, two door models usually sportier than sedans._
 __coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
+__courtyards__ _n_  
 __covenant__ _n_ :five::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
 __cover all bases__  
 __cover charge__  
@@ -3478,7 +3481,7 @@ __encompass__ _v_ :four::hammer: (encompasses)
 __encore__ _n_ :five::hammer: _An encore performance._  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :seven::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
-__encroachment__ _n_ :three::hammer:  
+__encroachment__ _n_ :four::hammer:  
 __encumbrance__  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end run__ :two::hammer:  
@@ -3708,7 +3711,7 @@ __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables,
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
 __far cry__ _n_ :seven::hammer: _It is a far cry from the 1970s._  
-__far fetched__ _adj_ :three::hammer: (far-fetched)  
+__far fetched__ _adj_ :four::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
@@ -4099,6 +4102,7 @@ __forsaken__ _adj_
 __fort__ Fortification(?)  
 __forte<sup>1</sup>__ _n_ Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
+__forthcoming__  
 __forthright__  
 __fortified wine__  
 __fortnight__  
@@ -4438,6 +4442,7 @@ __godmother__ _n_
 __godsend__ _n_  
 __gold rush__  
 __goldfinch__ _n_ :es: jilguero  
+__golliwog__ _n_  
 __gonads__ _n_  
 __gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
 __gonorrhea__  
@@ -5679,6 +5684,7 @@ __lath__ _n_ :three::hammer: (laths)
 __lathered__ _v_ :two::hammer: (lathering)  
 __lathes__  
 __latitude__ _The firms have a lot of latitude as long as they comply with their own policies._  
+__laudable__  
 __lauded__ _v_  
 __lauds__ _Barber was buried after lauds._  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
@@ -6520,6 +6526,7 @@ __nerve__ :two::hammer: _He's got nerve._
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :six::hammer: (nestled)  
+__nestlings__ _n_  
 __nether__  
 __neuroblastoma__  
 __neutered__  
@@ -6921,7 +6928,7 @@ __pallor__ _n_ :two::hammer:
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
-__palsy__ _n_ :four::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
+__palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :five::hammer: (pampered)  
 __pamphlet__ _n_  
@@ -8353,7 +8360,7 @@ __safe and sound__ _adj_ Having come to no harm, especially after being exposed 
 __safeguard__  
 __safekeeping__  
 __safety net__  
-__saffron__  
+__saffron__ _n_ :two::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __sage<sup>1</sup>__ _n_  
@@ -9237,7 +9244,7 @@ __soundly__ _Sleep soundly._
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
-__soured__ _v_ :two::hammer:  
+__soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  
 __soused__ _v_  
 __southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
@@ -10001,9 +10008,8 @@ __tellingly__
 __telltale__ :two::hammer:  
 __temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
-__temper__ _v_  
+__temper__ _v_ :four::hammer: (tempered)  
 __temperament__  
-__tempered__ _v_ :two::hammer:  
 __tempering__ _adj_ _A tempering experience_  
 __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempestuous__  
@@ -10657,7 +10663,7 @@ __upstream__
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__  
 __uptick__ _n_ :five::hammer:  
-__uptight__ _v_  
+__uptight__ _adj_ :two::dart::hammer:  
 __uptime__  
 __upward__  
 __upwardly__  

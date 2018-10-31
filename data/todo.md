@@ -1,23 +1,4 @@
 
-__composure__  
-__nestlings__ _n_  
-__tempered__  
-__catchall__ _A catchcall phrase._  
-__uptight__  
-__soured__ _v_  
-__altogether__  
-__encroachment__ _n_  
-__sapped__ _v_  
-__courtyards__ _n_  
-__forthcoming__  
-
-__bleak__  
-__far-fetched__ _That isn't as far-fetched as it sounds._  
-__saffron__  
-__golliwog__  
-__palsy__ _Cerebral palsy._  
-__laudable__  
-__clampdown__ _n_  
 __caveat emptor__  
 __bespoke__  
 __small print__  
