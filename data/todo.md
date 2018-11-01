@@ -1,4 +1,23 @@
 
+__apparatus__ _Campaign apparatus._  
+__stem-winding__ _Stem-winding speeches by Mr. Trump._  
+__veer__ _v_  
+__tossup__  
+__fool's errand__ _It would be a fool's errand for anyone inside the party to primary him._  
+__undermine__ _v_  
+__dismissive__  
+__intel__ _n_  
+__travesty__ _n_  
+__dispensed__ _v_  
+__perfidy__  
+__disavow__ _v_  
+__animosity__  
+__convalescing__ _v_  
+__runoff__ _n_  
+__recollection__ _n_  
+__footing__ _n_ _Last year a student died after losing her footing here._  
+__refrain__ _n_  
+
 __caveat emptor__  
 __bespoke__  
 __small print__  
