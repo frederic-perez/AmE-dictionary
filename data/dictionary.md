@@ -689,7 +689,7 @@ __angsty__ :two::hammer:
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
-__animosity__ _n_ :seven: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
+__animosity__ _n_ :eight: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :two::hammer: _The animus between the Yankees and Red Sox._  
 __annuity__ (annuities) :two::hammer:  
 __annum__ _n_  
@@ -726,7 +726,7 @@ __apostrophe__
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalling__ _adj_ :three: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
-__apparatus__  
+__apparatus__ :two::hammer: _Campaign apparatus._  
 __appeal__ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appealing__  
 __appease__ _v_ :two: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
@@ -2419,6 +2419,7 @@ __contrive__ _v_ (contriving)
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__  
 __controversial__  
+__convalescing__ _v_  
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convenience store__  
@@ -3018,7 +3019,7 @@ __disaffected__ _adj_
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disastrous__  
-__disavowed__ _v_  
+__disavow__ _v_ :two::hammer: (disavowed)  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
 __discharge__ _v_ :eight::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
@@ -3053,12 +3054,13 @@ __disloyal__
 __dismal__ _adj_ :six: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
-__dismissive__ _adj_ :two::hammer: _Healthy young adults often are dismissive of health issues._  
+__dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
 __disparage__ _v_ :seven::hammer: (disparaged, disparaging)  
 __disparagement__ :two::hammer:  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
 __dispel__ _v_ :five::hammer: (dispelled)  
+__dispensed__ _v_  
 __dispenser__  
 __dispirited__ _v_ :three::hammer:  
 __dispiriting__ _Dispiriting results._  
@@ -4038,6 +4040,7 @@ __food processor__
 __food-handler's permit__  
 __foodie__ _A foodie and a friend._  
 __foodstuffs__  
+__fool's errand__ _It would be a fool's errand for anyone inside the party to primary him._  
 __fool's gold__  
 __foolhardy__ :two::hammer:  
 __foolproof__ _adj_ :two: Unable to fail. _A foolproof method._  
@@ -4046,6 +4049,7 @@ __foot-stomping__
 __foot__ _v_ :two::hammer:  
 __foothill__  
 __foothold__ _A foothold._  
+__footing__ _n_ _Last year a student died after losing her footing here._  
 __footloose__ :pencil2:  
 __footwork__  
 __for a bit__  
@@ -5326,7 +5330,7 @@ __insure__ _v_
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
 __intangible__  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
-__intel__ _n_ :three::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
+__intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__  
 __intently__  
 __interdicting__  
@@ -7106,6 +7110,7 @@ __peremptory__
 __perennial__ _adj_ :three::hammer:  
 __perfect storm__  
 __perfidious__  
+__perfidy__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
 __periodontal__ _Periodontal health._  
@@ -7951,7 +7956,7 @@ __recitalist__
 __reckon__ _v_ :three::hammer:  
 __reckoning__ _n_  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
-__recollection__ _n_ :three::hammer:  
+__recollection__ _n_ :four::hammer:  
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
@@ -7997,7 +8002,7 @@ __reeve__ _n_ :four::hammer::pencil2:
 __refectory__ _n_ :three::hammer:  
 __referenda__  
 __reffing__  
-__refrain<sup>1</sup>__ _n_ :four::hammer::astonished:  
+__refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__  
@@ -8336,7 +8341,7 @@ __rung__ _n informal_ :eight: (rungs) A particular level or position in an organ
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
-__runoff__ _n_ :nine: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
+__runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
 __runt__  
@@ -9522,9 +9527,9 @@ __steeples__ _n_
 __steeply__ :two::hammer:  
 __steer__ _v_  
 __stein__ _n_  
+__stem-winding__ _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
-__stem<sup>2</sup>__ _v_ :eight::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
-__stem__ _v_  
+__stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stenographer__ :two::hammer:  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __step up__ _v_ :three::hammer:  
@@ -10272,7 +10277,7 @@ __toss out__ _One student tossed out expletives._
 __toss-ups__  
 __toss__ _v_ :two::hammer: (tossing)  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
-__tossup__ :two::hammer::pencil2: _Diabetes study is a tossup._  
+__tossup__ _n_ :three::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lots__ _There are tot lots, but there is no place for us._  
 __totally__ _adv_ :two: Entirely; wholly; completely.  
 __tots__  
@@ -10328,8 +10333,7 @@ __trashing__ _v_
 __travail__  
 __travails__ _n_ :two::hammer:  
 __travelogue__ _n_ :two::hammer:  
-__travesties__  
-__travesty__  
+__travesty__ _n_ :three::hammer: (travesties)  
 __trawler__  
 __treachery__ _n_ :three::hammer:  
 __treacly__ :two::hammer:  
@@ -10537,7 +10541,7 @@ __undercurrent__
 __undercut__ _v_ :six::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_  
+__undermine__ _v_ :two::hammer:  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  
@@ -10717,6 +10721,7 @@ __vastly__ :two::hammer:
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
+__veer__ _v_  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __vein__ _Gold vein._  
