@@ -1,4 +1,23 @@
 
+__strike__ _v_ :two::hammer: The United States is looking to strike trade deals in countries like Vietnam._  
+__tailored__ _v_  
+__retribution__  
+__undercutting__ _v_  
+__eager__  
+__rescind__ _v_  
+__parcels__ _Delivering mail and small parcels to countries around the world._  
+__flurry__  
+__offsetting__  
+__bake in__ _v_  
+__scrutiny__  
+__formidable__  
+__in__ _The ball is in their court._  
+__contentious__  
+__pariah__  
+__grapples__ _v_  
+__commensurate__  
+__balk__ _v_ _Many researchers balk at the idea._  
+
 __caveat emptor__  
 __bespoke__  
 __small print__  
