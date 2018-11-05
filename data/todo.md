@@ -1,4 +1,16 @@
 
+__nerve agent__  
+__ludicrous__  
+__kick ass__  
+__zest__ _n_  
+__page__ _n_  
+__muskmelon__ _n_  
+__strudel__ _n_  
+__longan__ _n_  
+__trampoline__ _n_  
+__exert__ _v_  
+__pass out__ _phr v_ To become unconscious.  
+
 __strike__ _v_ :two::hammer: The United States is looking to strike trade deals in countries like Vietnam._  
 __tailored__ _v_  
 __retribution__  
