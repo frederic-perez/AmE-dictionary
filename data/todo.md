@@ -1,4 +1,24 @@
 
+__homestead__  
+__markups__ _n_  
+__undermined__ _v_  
+__deterrent__  
+__foster care__ :three::hammer:  
+__incarcerated__ _v_  
+__misnomer__  
+__big-box__ :two::hammer: _Big-box stores._ _Big-box merchandisers._  
+__sliminess__  
+__anew__  
+__foundered__ _v_ _His plan foundered._  
+__licentiousness__  
+__kowtowing__ _v_ :astonished:  
+__whitewash__  
+__brazen__  
+__moniker__  
+__madrasas__  
+__duped__ _v_  
+__unctuous__  
+
 __nerve agent__  
 __ludicrous__  
 __kick ass__  
