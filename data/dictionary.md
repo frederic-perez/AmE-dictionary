@@ -870,7 +870,7 @@ __authorative__
 __authorial__  
 __autoclaving__  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
-__autocrat__  
+__autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
@@ -2028,6 +2028,7 @@ __cherry pick__ _v_ (cherrypick)
 __chestnut__  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
+__chicanery__ The use of clever plans or actions to deceive people.  
 __chicken > game of chicken__  
 __chicken coop__ :two::hammer:  
 __chicken pox__  
@@ -2364,6 +2365,7 @@ __conference call__
 __conferred__ _v_  
 __confidant__ _n_ :six::hammer: (also confidante)  
 __confide__ _v_ :three::hammer: (confided)  
+__confidence__  
 __config__ :mega: _A config file._  
 __conflate__ _v_  
 __confound__ _v_ :six::hammer: (confounded, confounding)  
@@ -2397,6 +2399,7 @@ __consumption__ (ailment?)
 __contagion__  
 __contempt__  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
+__contemptuous__  
 __contend__ _v_ :three::hammer: (contended)  
 __content__  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
@@ -2958,6 +2961,7 @@ __devote__ _v_ _We're devoting this episode to his paintings._
 __dewlaps__ _n_ :two::hammer:  
 __dialysis__  
 __diaspora__  
+__diatribes__ _n_  
 __dibs__ _n_ :two::hammer:  
 __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women's situation is a bit more dicey._  
 __dichotomy__ :two::hammer:  
@@ -3028,6 +3032,7 @@ __discombobulate__ _v_ :pencil2:
 __discontinued__ _v_  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
+__discouraging__  
 __discourse__  
 __discretion__ _n_  
 __discus__ _n_  
@@ -3447,7 +3452,7 @@ __emancipation__
 __embankment__  
 __embargo__ _n_  
 __embark__ _They embark on a motorcade._  
-__embattle__ _v_ :three::hammer: (embattled)  
+__embattle__ _v_ :four::hammer: (embattled)  
 __ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
@@ -4518,6 +4523,7 @@ __grayling__
 __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Grazed by a bullet._ _A third person was grazed by a bullit._ __3__ To break the skin of (a part of the body) by scraping.  
 __grazing land__ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __greaseballs__ :two::hammer:  
+__great strides__ _He made great strides during his presidency._  
 __great-grandchildren__  
 __great-granddaughters__ :pencil2:  
 __great-grandsons__  
@@ -5186,7 +5192,7 @@ __impermissible__ :two::hammer:
 __impersonation__  
 __impervious__ _adj_ :three::hammer:  
 __impetus__ _n_ :three::hammer:  
-__impinge__  
+__impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impish__ _Impish sense of humor._  
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
@@ -5573,7 +5579,7 @@ __kith and kin__ _To identify kith and kin._
 __kitsch__  
 __kitten__  
 __kiwi__  
-__kleptocracy__  
+__kleptocracy__ :two::hammer:  
 __klutz__  
 __knack__ _n_  
 __knackered__  
@@ -6687,7 +6693,7 @@ __off-kilter__ :two::hammer:
 __off-price stores__  
 __off-putting__  
 __off-street__ _Off-street parking._  
-__off-the-cuff__  
+__off-the-cuff__ :two::hammer: _It was just an off-the-cuff remark._  
 __offbeat__ :two::hammer: _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __offing__ _A budding rivalry could be in the offing._  
@@ -9086,7 +9092,7 @@ __smash song__ _n_ _That was a smash song._
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :nine: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
-__smear<sup>1</sup>__ _v_ __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :three: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
+__smear<sup>1</sup>__ _v_ :two: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :three: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
@@ -9570,7 +9576,7 @@ __stinker__
 __stinkers__ _n_  
 __stinky-winky__ _Stinky-winky front-loader._  
 __stintful__  
-__stipend__ _n_ :five::hammer: (stipends)  
+__stipend__ _n_ :six::hammer: (stipends)  
 __stipulate__ _v_ :two::hammer:  
 __stir up a hornet's nest__ _fig_ To create a lot of trouble.  
 __stir<sup>1</sup>__ _n_  
@@ -9703,7 +9709,7 @@ __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by
 __stunner__  
 __stunning__ _adj_ :four::hammer:  
 __stunt<sup>1</sup>__ _n_ :four::hammer: (stunts) _Singers emphasize stunts over music._  
-__stunt<sup>2</sup>__ _v_ :two::hammer: (stunted) _Movement stunted during the dictatorship._  
+__stunt<sup>2</sup>__ _v_ :three::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._  
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
@@ -9859,7 +9865,8 @@ __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swi
 __swim tube__  
 __swimabout__  
 __swimming hole__ :two::hammer:  
-__swindle__ _v_ :two::hammer:  
+__swindle<sup>1</sup>__ _n_  
+__swindle<sup>2</sup>__ _v_ :two::hammer:  
 __swindler__ _n_ :three::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
 __swipe__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
@@ -10025,7 +10032,7 @@ __tenderizze__ _v_
 __tendinitis__  
 __tendrils__ _n_  
 __tenements__ _Kids from the tenements._  
-__tenet__ _n_ :four::hammer: (tenets) :es: principio  
+__tenet__ _n_ :five::hammer: (tenets) :es: principio  
 __tenon__  
 __tense__ _adj_  
 __tentative__  
@@ -10329,6 +10336,7 @@ __transpose__ _v_ _Someone might have transposed digits._
 __trap question__ :astonished: _That's a trap question._  
 __trappings__ _n_ :three::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
+__trascends__ _v_  
 __trashing__ _v_  
 __travail__  
 __travails__ _n_ :two::hammer:  

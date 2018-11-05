@@ -1,23 +1,4 @@
 
-__diatribes__ _n_  
-__autocrat__ _adj_  
-__embattled__  
-__confidance__  
-__off-the-cuff__ _It was just an off-the-cuff remark._  
-__great strides__ _He made great strides during his presidency._  
-__kleptocracy__  
-__tenets__  
-__outlandish__  
-__swindle__ _n_  
-__chicanery__  
-__stunted__ _v_ _The boys were underweight and stunted._  
-__stipend__  
-__discouraging__  
-__trascends__ _v_  
-__smearing__ _v_  
-__impinging__ _v_  
-__contemptuous__  
-
 __strike__ _v_ :two::hammer: The United States is looking to strike trade deals in countries like Vietnam._  
 __tailored__ _v_  
 __retribution__  
