@@ -660,6 +660,7 @@ __amends__
 __amenity__ :two::hammer: _Amenity kits._  
 __amethyst__ _n_  
 __ametropy__ _n_  
+__amid__  
 __amiss__ _adj_  
 __amity__  
 __ammassed__ _v_  
@@ -913,7 +914,7 @@ __back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hu
 __backache__ _n_ :dart:  
 __backburner__ _n_  
 __backcountry__ _Utah ski resorts offering backcountry adventures._  
-__backdrop__ _n_ :eight: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
+__backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
 __backlash__ _n_ :four::hammer:  
@@ -1206,7 +1207,7 @@ __big mon__
 __big retailer__ (Walmart, Target, Amazon.)  
 __big time__ _n informal_ :three::hammer:  
 __big yes__  
-__big-box stores__ :camera::hammer:  
+__big-box__ _adj_ :three: Of, relating to, or being a large chain store having a boxlike structure. _Big-box stores._ _Big-box merchandisers._  
 __big-gulper__ _America's big-gulpers._  
 __bigger than life__  
 __biggie__ _n_ _Slang_ :three::hammer: _Pearl Harbor was a biggie._  
@@ -1511,7 +1512,7 @@ __break up__ _v_ Of a telephone conversation, to cease to be understandable beca
 __break wind__ _v_  
 __break-the-china__  
 __breakaway__ :two::hammer:  
-__breakdown__ _Population breakdown._  
+__breakdown__ _n_ :two::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakneck__ _They are on a breakneck pace._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
@@ -1709,7 +1710,7 @@ __butting__ _v_
 __buttinski__  
 __button man__  
 __button-down__ _She was wearing faded jeans and a button-down._  
-__buttress__ _v_ :five: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
+__buttress__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
 __buxom__  
 __buy out__ _v_  
@@ -2426,6 +2427,7 @@ __convalescing__ _v_
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convenience store__  
+__conveyed__ _v_  
 __convivial__ _adj_ :three::hammer:  
 __conwise__  
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
@@ -2943,7 +2945,7 @@ __detail__ _n_ :mega:
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
-__deterrent__ _n_ :seven: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__deterrent__ _n_ :eight: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__  
 __detritus__ _n_  
@@ -3080,6 +3082,7 @@ __disseminate__ _v_
 __dissension__  
 __dissent__ _n_ :two::hammer:  
 __disservice__ _n_ :two::hammer::astonished:  
+__dissident__  
 __dissimilar__ _adj_  
 __dissimilarly__  
 __dissing__ _v_  
@@ -3643,7 +3646,7 @@ __extoll__ _v_ :three::hammer: (extolled, extolling)
 __extort__ _v_  
 __extraneous__  
 __extremes__  
-__extricate__ _v_ :five::hammer: (extricated) _Rescue crews extricated him from the car._  
+__extricate__ _v_ :six::hammer: (extricated) _Rescue crews extricated him from the car._  
 __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
 __eye candy__  
 __eye dropper__ _n_  
@@ -4115,6 +4118,7 @@ __forthcoming__
 __forthright__  
 __fortified wine__  
 __fortnight__  
+__foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :five::dart: Violence, _esp_ murder.  
 __foul__ _Foul language._  
@@ -5011,7 +5015,7 @@ __homeowner__
 __homesick__ :two::hammer:  
 __homespun__ :two::hammer:  
 __homestand__ _n_ :four: A series of games played at a team's home field.  
-__homestead__ _n_ :two::hammer:  
+__homestead__ _n_ :three::hammer:  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
 __honcho__ _n_ :three::hammer: (honchos)  
@@ -5241,7 +5245,7 @@ __inaugural__
 __inaugurate__ _v_ _He will be inaugurated for second term._  
 __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
 __inbound<sup>2</sup>__ _v_  
-__incarcerate__ _v_  
+__incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ :two::hammer:  
 __incensed__ _v_  
 __inception__  
@@ -5885,6 +5889,7 @@ __llama__
 __llilacs__ _n_  
 __lo and behold__  
 __loaded question__  
+__loaf__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
 __loafered__  
 __loafers__ _n_ :three::hammer:  
 __loan__ _n_ :two::hammer: (loans)  
@@ -6096,7 +6101,7 @@ __markdown__
 __markdowns__  
 __marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
 __marksman__ _n_  
-__markup__ _n_ :five::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
+__markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
 __marmalade__  
 __maroon__ _v_ :two::hammer: _He felt marooned by the silence._  
 __marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
@@ -6291,7 +6296,7 @@ __misgivings__ :two::hammer:
 __misguided__ _adj_  
 __mishap__ :mega::two::hammer:  
 __mishmash__ :two::hammer:  
-__misnomer__ _n_ :seven: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __misogynist__  
 __misogyny__ :pencil2:  
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
@@ -6827,7 +6832,7 @@ __outfoxed__
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__  
 __outgrowth__  
-__outgunned__  
+__outgunned__ _v_ :two::hammer:  
 __outhouse__  
 __outing__ _n_ :seven: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
 __outlander__  
@@ -9022,6 +9027,7 @@ __slight<sup>2</sup>__ _n_ :seven: A humiliating affront. _Everyday slights and 
 __slightly-built__ _The slightly-built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__  
+__sliminess__  
 __sling__ _n_ :two::hammer: _The sling wrappred around his forearm._  
 __slinger__  
 __slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
@@ -10549,7 +10555,7 @@ __undercurrent__
 __undercut__ _v_ :six::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_ :two::hammer:  
+__undermine__ _v_ :three::hammer: (undermined)  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  

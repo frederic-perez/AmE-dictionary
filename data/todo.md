@@ -1,23 +1,4 @@
 
-__dissident__  
-__amid__  
-__conveyed__ _v_  
-__extricate__ _v_  
-__backdrop__ _n_ :two::hammer:  
-__buttressed__ _v_ :astonished:  
-__breakdowns__ _n_ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
-__loaf__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
-__outgunned__ _v_  
-
-__homestead__  
-__markups__ _n_  
-__undermined__ _v_  
-__deterrent__  
-__foster care__ :three::hammer:  
-__incarcerated__ _v_  
-__misnomer__  
-__big-box__ :two::hammer: _Big-box stores._ _Big-box merchandisers._  
-__sliminess__  
 __anew__  
 __foundered__ _v_ _His plan foundered._  
 __licentiousness__  
