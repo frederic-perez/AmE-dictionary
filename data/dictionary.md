@@ -681,7 +681,7 @@ __and-a-one, and-a-two...__
 __andirons__  
 __anecdotal__ :mega:  
 __anemometer__ _n_  
-__anew__ _adv_ :three::hammer:  
+__anew__ _adv_ :four::hammer:  
 __angle iron__  
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
@@ -1496,7 +1496,7 @@ __bravado__ _n_ :three: If you act with bravado, you are making a bold showy sta
 __bravura__  
 __brawn__ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __bray__ _v_ :three::hammer: (brayed, braying) _Donkey's braying._  
-__brazen__ _adj_ :three: With brazen disregard for the sign that said "no cellphones please" the woman took a long call in the doctor's office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
+__brazen__ _adj_ :four: With brazen disregard for the sign that said "no cellphones please" the woman took a long call in the doctor's office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ :two::hammer:  
 __brazer__  
 __brazier__  
@@ -3347,7 +3347,7 @@ __dungarees__ _n_ :five::hammer: _The men in black dungarees stood motionless._
 __dunno__  
 __duo__  
 __dupe__ _A dupe of a president._  
-__duped__ _v_ :three::hammer: _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
+__duped__ _v_ :four::hammer: _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplexes__ :two::hammer:  
 __duplicitious__ _A duplicitious cigarette industry._  
 __duplicitous__  
@@ -4122,7 +4122,7 @@ __foster care__ _n_ :three::hammer:
 __foul language__  
 __foul play__ _n_ :five::dart: Violence, _esp_ murder.  
 __foul__ _Foul language._  
-__founder__ _v_ :three::hammer: (foundered) _The attempt foundered._  
+__founder__ _v_ :four::hammer: (foundered) _The attempt foundered._ _His plan foundered._  
 __foundries__ _Metal foundries._  
 __foundry__  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
@@ -5536,6 +5536,7 @@ __keystrokes__
 __khakis__ _n_ :two::hammer:  
 __kibbutz__  
 __kibitz__ _v_  
+__kick ass__  
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick sand in the air__  
@@ -5615,7 +5616,7 @@ __kombucha__ _n_ _Ginger flavor kambucha._
 __kook__ (kooky) :two::hammer:  
 __kooky__  
 __kosher__ _A kosher supermarket._  
-__kowtow__  
+__kowtow__ _v_ :two::astonished: (kowtowing) To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
 __kroop__  
@@ -5807,6 +5808,7 @@ __libations__ _Dutch libations, like ciders, gins and liqueurs._
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
 __lice__ _n_ :five: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__licentiousness__  
 __lichen__ _n_ :mega:  
 __lick-spittle__ _A lick-spittle role._  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -5924,6 +5926,7 @@ __long haul__ _She's in for the long haul._
 __long hours__ _The long hours you're putting in may not help._  
 __long shot__  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
+__longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longbow__ _n_ :three::hammer:  
 __longhand__ _n_ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
@@ -5971,7 +5974,7 @@ __lowlife__
 __lowlights__  
 __lowly__ :two::hammer: _The lowly news reporter._  
 __lucifer match__  
-__ludicrous__ _adj_ :pencil2::eight: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrous__ _adj_ :pencil2::nine: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
 __lug__ _v_ :three::hammer:  
@@ -6016,8 +6019,7 @@ __mackerel__ :two::hammer:
 __mackinaw__  
 __madcap__  
 __madness__  
-__madrasas__  
-__madrassas__  
+__madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigals__ _n_ :pencil2:  
 __maelstrom__ _n_ :four::hammer:  
 __magazine__ _n_ _They were pledged to keep the castle's magazines full of millet and rice._  
@@ -6346,7 +6348,7 @@ __moneyed__
 __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
-__moniker__ _n_  
+__moniker__ _n_ :two::hammer:  
 __monkey business__  
 __monkey off one's back__ _The win did remove the major monkey off his back._  
 __monkey suit__  
@@ -6456,7 +6458,7 @@ __mushroom__ _v_ _Traffic mushroomed in Feb._
 __mushy__ :two::hammer: _Mushy age._  
 __musing__ _n_ (musings) Contemplation; reflection.  
 __musket__  
-__muskmelon__ _n_ :two::hammer:  
+__muskmelon__ _n_ :three::hammer:  
 __muskrat__ _The muskrat season._  
 __muslin__  
 __muss__ _No fuss, no muss._  
@@ -6536,6 +6538,7 @@ __neophyte__
 __neorealist__  
 __neoteric__  
 __nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
+__nerve agent__  
 __nerve-racking__ _adj_ :three::hammer: (nerve racking)  
 __nerve__ :two::hammer: _He's got nerve._  
 __nervy__ :pencil2::two::hammer:  
@@ -6921,6 +6924,7 @@ __paddle__ _v_ :two::hammer: (paddled) _I got paddled at school._
 __paddock__ _n_  
 __padlock__  
 __paean__ _n_ :eight::hammer: (paeans)  
+__page__ _n_  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pail__ _n_ :three::hammer: _A lunch pail._  
@@ -9690,6 +9694,7 @@ __stroll__ _v_
 __strong accent__  
 __strongman__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
+__strudel__ _n_  
 __strummed__ _v_ _He then strummed out a string of hits, including "Message in a Bottle."_  
 __strung out__  
 __strung__ _v_  
@@ -10544,7 +10549,7 @@ __uncongenial__
 __uncouth__  
 __uncrating__  
 __unction__ _n_  
-__unctuous__  
+__unctuous__ :two::hammer:  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __under (someone's) watch__  
 __under one's belt__  
@@ -11020,7 +11025,7 @@ __white elephant__ _n_
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
 __whiteout__  
-__whitewash__ _v_ :three::hammer:  
+__whitewash__ _v_ :four::hammer:  
 __whithered__  
 __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizzing__  
@@ -11262,7 +11267,7 @@ __zeppelin__ _n_
 __zero hour__  
 __zero in__ _v_ :two::hammer: _I zeroed in on the first item._  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
-__zest__ _n_ :three::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
+__zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
