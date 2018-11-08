@@ -947,6 +947,7 @@ __bail skip__
 __bailiff__ :two::hammer:  
 __bailiwick__  
 __bailout__ _n_ :four::hammer:  
+__bake in__ _v_  
 __bakeware__  
 __baking soda__ _n_ Sodium bicarbonate.  
 __balderdash__  
@@ -2404,7 +2405,7 @@ __contemptuous__
 __contend__ _v_ :three::hammer: (contended)  
 __content__  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
-__contentious__ _adj_ :seven: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
+__contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
 __continence__  
@@ -3372,6 +3373,7 @@ __dystopian__
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
 __e-blasts__  
 __e-commerce__  
+__eager__  
 __earbuds__ :camera:  
 __earlier__ _adv_ :three:  
 __earlocks__ _n_  
@@ -3614,7 +3616,7 @@ __exec__ _n informal_ :three: (execs) An executive. _I'm a retired tech exec._
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _Dru earned an exemption into the tournament._  
-__exert__ _v_ :seven: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
+__exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ _Exhaust fans._  
 __exhaust<sup>2</sup>__ _n_ _Car exhaust._  
@@ -4014,7 +4016,7 @@ __flunkie__ :two::hammer: _You"re just another flunkie for the state._
 __flunkies__  
 __flunky__  
 __flurry > in a flurry__  
-__flurry__ _n_ :eight: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
+__flurry__ _n_ :nine: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
 __fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
@@ -4109,6 +4111,7 @@ __forklift__
 __forlorn__ _adj_ :nine: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
+__formidable__  
 __forsake__ _v_ :five::hammer: (forsaken)  
 __forsaken__ _adj_  
 __fort__ Fortification(?)  
@@ -5232,7 +5235,7 @@ __in their own right__ _Children finding the (discarded) needles can be sickenin
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _In-house experts._  
 __in-laws__ _A room for the in-laws._  
-__in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._  
+__in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __inadvertent__ :two::hammer:  
 __inadvertently__  
 __inane__ _adj_ :five::hammer:  
@@ -6707,7 +6710,7 @@ __office drones__ _Sara and I met as office drones in 1999._
 __offing__ _A budding rivalry could be in the offing._  
 __offload__ _v_  
 __offramp__  
-__offset<sup>1</sup>__ _v_ :two::hammer:  
+__offset<sup>1</sup>__ _v_ :three::hammer: (offsetting)  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __offshoot__ _n_  
 __oft-shouting-sermon__  
@@ -6983,7 +6986,7 @@ __paramount__ _The reliability of the weather station is paramount._
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __parasailing__  
-__parcel<sup>1</sup>__ _n_ :five::hammer: _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
+__parcel<sup>1</sup>__ _n_ :six::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _The dryness will encompass parched California._  
 __parchment paper__ :camera:  
@@ -6991,7 +6994,7 @@ __parchment__ _n_ :six::hammer: _A parchment chart._
 __pard__  
 __pared__ _v_  
 __pares__ _v_  
-__pariah__ _n_ :three::hammer:  
+__pariah__ _n_ :four::hammer:  
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
@@ -7016,7 +7019,7 @@ __partridge__ _n_ :two::hammer:
 __party poppers__  
 __party__ _n_  
 __parvenu__  
-__pass out__ _v_  
+__pass out__ _phr v_ :two: To become unconscious.  
 __pass policy__  
 __passage__ _n_ _The passage of three supplementary budgets this year._  
 __passel__ _A passel of ducks._  
@@ -8101,7 +8104,7 @@ __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __rerun__ _n_ _Of course I've seen it! It's a rerun._  
-__rescinded__ _v_  
+__rescind__ _v_ :two::hammer: (rescinded)  
 __reset__ _v_ :mega::two::hammer:  
 __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
@@ -8142,6 +8145,7 @@ __retreat<sup>1</sup>__ _v_
 __retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
 __retrenching__  
 __retrenchment__ :two::hammer: _An era of American retrenchment._  
+__retribution__  
 __retroscopic__  
 __returnee__  
 __reunion__ An instance of two or more people coming together again after a period of separation.  
@@ -8553,7 +8557,7 @@ __scrum__ _Beltway scrum._
 __scrumptious__  
 __scrunched__ (scrunching) :two::hammer:  
 __scrupulously__  
-__scrutiny__  
+__scrutiny__ :two::hammer:  
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
 __scuffed boots__  
@@ -9678,6 +9682,7 @@ __stricken__ _adj_ :six::hammer: _Stricken people._
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
 __strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__strike__ _v_ :two::hammer: The United States is looking to strike trade deals in countries like Vietnam._  
 __striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
 __string knife__ :two::hammer:  
@@ -9923,7 +9928,7 @@ __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ :two::hammer: _Our big tagline is to help others._  
 __tailgate__ _v_ :two::hammer:  
-__tailor__ _v_  
+__tailor__ _v_ :two::hammer: (tailored)  
 __tailspin__ _n_ :two::hammer:  
 __take a shit__ _v_  
 __take a stand__  
@@ -10334,7 +10339,7 @@ __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendi
 __traipsing__  
 __tramp__ _adj_  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._  
-__trampoline__  
+__trampoline__ _n_ :two::hammer:  
 __trampolines__ _n_  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __tranquilizer__ _n_ :mega:  
@@ -10557,7 +10562,7 @@ __under siege__
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
-__undercut__ _v_ :six::hammer: (undercutting) _Why do you undercut yourself so much?_  
+__undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
 __undermine__ _v_ :three::hammer: (undermined)  
