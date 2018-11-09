@@ -82,6 +82,7 @@ __Chugging beers__
 __Cincy__ Cincinnati?  
 __Cisternian__ :pencil2: _Cisternian monks._  
 __City__  
+__Club Med__ _Club Med countries._  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __Collins glass__  
 __Commonwealth__  
@@ -591,7 +592,7 @@ __ahem__
 __aide__ _n_ :two::hammer: (aides)  
 __ail__ _v_  
 __ailerons__  
-__ailing__ :two::hammer: _It is ailing the NFL._  
+__ailing__ :three::hammer: _It is ailing the NFL._  
 __ailment__ _n_ :three: Mild illness.  
 __ails__ _v_ :two::hammer:  
 __air cast__ _n_ :two::hammer::camera:  
@@ -1176,7 +1177,7 @@ __besmeared__ _v_
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
-__bespoke<sup>1</sup>__ _adj_ :nine: Custom-made. _Bespoke clothing._  
+__bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
@@ -1339,7 +1340,7 @@ __blueprint__ _n_ :five::hammer: (blueprints)
 __bluff__ _n_ :two::hammer:  
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
-__blunt<sup>1</sup>__ _adj_ :three: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears.  
+__blunt<sup>1</sup>__ _adj_ :four: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :two::hammer: (blunting)  
 __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly._  
 __blurb__ :es: comentario de sobrecubierta  
@@ -1666,7 +1667,7 @@ __buoyancy__
 __buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __bureaucracy__  
-__burgeoning__ _adj_ :seven::hammer:  
+__burgeoning__ _adj_ :eight::hammer:  
 __burgermeister__  
 __burgundy__ :two::hammer: _Burgundy outfit._  
 __burkini__  
@@ -1940,6 +1941,7 @@ __caulking__
 __causeway__ _n_ :five::hammer:  
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
+__caveat emptor__  
 __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw__ (caws) :two::hammer: _A rattling caw._  
 __cawed__ _v_ :two::hammer: (cawing)  
@@ -2290,7 +2292,9 @@ __commandeered__ _v_ :astonished:
 __commend__ _v_ (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :two::hammer: (commendations) _He earned two commendation medals._  
+__commensurate__  
 __commentary__  
+__commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
 __commiserate__ _v_ :three::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::eight: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
@@ -5667,6 +5671,7 @@ __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
+__languish__ _v_ (languishing)  
 __lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::hammer:  
 __lantanas__ _n_  
@@ -6122,7 +6127,7 @@ __mart__ A place of trade, eg. an auction room or market.
 __martyr<sup>1</sup>__ _n_ :pencil2:  
 __martyr<sup>2</sup>__ _v_  
 __martyrdom__ :two::hammer:  
-__marzipan__  
+__marzipan__ _n_ :two::hammer: :es: mazapán  
 __mascot__ (vs pet)  
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
@@ -6181,7 +6186,7 @@ __medical discharge__ _A medical discharge._
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ :mega:  
-__meek__ :two::hammer: _Blessed are the meek._  
+__meek__ _adj_ :three: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ :two::hammer:  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
@@ -6477,7 +6482,7 @@ __mutt__ _n_ :five::hammer:
 __muttering__ _n_  
 __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
 __myopia__ _n_ :pencil2::two::hammer:  
-__myriad__ :two::hammer:  
+__myriad__ _adj_ :three: Very many.  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __mysteries__ _n_ :pencil2:  
@@ -8949,6 +8954,7 @@ __skate__ _v_ :three::hammer: _He don't let nobody skate unless it's for money._
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
 __skein__ _n_ :three: A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_  
 __skell__ _How you like it, skell?_  
+__sketchy__  
 __skewer__ _v_  
 __skews__ _v_  
 __skid marks__  
@@ -9096,6 +9102,7 @@ __slyly__ :astonished: _She smiled slyly._
 __smack__ _v_ :two::hammer: _He smacked his lips._  
 __small fry__ _adj_ (small-fry) Lacking importance.  
 __small potatoes__ _informal_ Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
+__small print__  
 __small__ _I rubbed the small of her back._  
 __smallpox__ :two::hammer:  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  

@@ -1,23 +1,4 @@
 
-__grapples__ _v_  
-__commensurate__  
-__balk__ _v_ _Many researchers balk at the idea._  
-
-__caveat emptor__  
-__bespoke__  
-__small print__  
-
-__Club Med__ _Club Med countries._  
-__languish__ _v_ (languishing)  
-__meek__  
-__burgeoning__  
-__marzipan__  
-__sketchy__  
-__myriad__  
-__blunt__ _A really blunt tool._  
-__ailing__  
-__scrap__ _v_ (scrapping)  
-__commentator__ _n_  
 __lurid__  
 __commandeered__ _v_  
 __cabanas__ _n_  
