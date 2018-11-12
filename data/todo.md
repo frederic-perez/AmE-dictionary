@@ -1,23 +1,4 @@
 
-__lush__  
-__whisked__ _v_  
-__habitation__ :astonished:  
-__impoverished__ _v_  
-__catchpenny__  
-__C.E.__ _A Jewish revolt against Rome ended in defeat in 135 C.E._  
-__foul-ups__  
-__sappers__ _n_  
-__doctored__ _Imagine if a doctored video of a politician appeared the day before an election._  
-__dipstick__  
-__ominous__  
-__deep fakes__ :two::hammer:  
-__snark__  
-__berserk__  
-__gobbledygook__  
-__nether__  
-__spleen__ _Interned-stoked spleen._  
-
-__strife__  
 __underscored__ _v_  
 __impervious__  
 __overshadowed__ _v_  

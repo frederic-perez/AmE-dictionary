@@ -61,6 +61,7 @@ __Brownie__ A member of a Guiding organization for girls aged seven years old to
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __C-rations__  
 __C-suite__ _C-suite staff._  
+__C.E.__ (CE) Of the period coinciding with the Christian era; preferred by some writers who are not Christians; "in 200 CE." _A Jewish revolt against Rome ended in defeat in 135 C.E._  
 __CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
 __CFL__ _Compact fluorescent lamp._  
 __CID__  
@@ -1166,7 +1167,7 @@ __bereavement__ _n_ :three: State of sorrow over the death or departure of a lov
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_  
 __berm__ _n_  
-__berserk__ _adj_ :four: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
+__berserk__ _adj_ :five: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
 __beseech__  
@@ -1926,6 +1927,7 @@ __catch wind__ _I don't know if you caught wond of it._
 __catch-up schedule__  
 __catch__ _n_ (game)  
 __catchall__ _n_ _A catchall phrase._  
+__catchpenny__  
 __catechism__ :two::hammer::pencil2:  
 __caterwauling__  
 __catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
@@ -2848,6 +2850,7 @@ __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a 
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
 __deep cut__  
+__deep fakes__ :two::hammer:  
 __deep freezers__  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
@@ -3014,6 +3017,7 @@ __diploma__
 __diplomat__ :mega:  
 __dips__ _n_  
 __dipsomania__  
+__dipstick__  
 __dire__ _adj_ :eight: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
 __dirge__  
 __dirges__ _n_  
@@ -3123,7 +3127,7 @@ __doable__ _It was not a lot of time but it was doable._
 __docents__  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
-__doctored__ _v_ _A photograph doctored by his aides._  
+__doctor__ _v_ :two::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doddering__  
 __dodges__ _n_  
 __dodgy__  
@@ -4128,6 +4132,7 @@ __fortnight__
 __foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :five::dart: Violence, _esp_ murder.  
+__foul-ups__  
 __foul__ _Foul language._  
 __founder__ _v_ :four::hammer: (foundered) _The attempt foundered._ _His plan foundered._  
 __foundries__ _Metal foundries._  
@@ -4457,6 +4462,7 @@ __goaltender__
 __goatee__ _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
 __gobble__ _v_ :two::hammer: _Gobbling a plate of spaguetti and meatballs._  
+__gobbledygook__  
 __goblin__ _n_ :three::hammer: (goblins)  
 __godmother__ _n_  
 __godsend__ _n_  
@@ -4681,6 +4687,7 @@ __gym-rat__ _He's a gym-rat type of guy._
 __gyrate__ _v_ :two::hammer:  
 __gyroscopic__ :mega: _Gyroscopic effect._  
 __ha!__ :two::hammer:  
+__habitation__ :astonished:  
 __habituate__ _v_  
 __hack__ _v_ _Coughing and hacking while shuffling around._  
 __hackles__ _n_ :two::hammer:  
@@ -5208,6 +5215,7 @@ __impish__ _Impish sense of humor._
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __impound__ _v_ :two::hammer: _The Ponticac was impounded._  
+__impoverished__ _v_  
 __imprecation__ _n_ :two: A curse.  
 __impregnable__ _adj_ Immune to attack; incapable of being tampered with.  
 __impression__ _n_ :two::hammer:  
@@ -6011,8 +6019,8 @@ __lurch__ _v_ :five::hammer: (lurched, lurching) _We lurched around a bend._ _Th
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ :two::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
-__lush__ _adj_ :eight: _adj_ __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
-__lushnes__  
+__lush__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
+__lushness__  
 __luster<sup>1</sup>__ _n_  
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
@@ -6553,7 +6561,7 @@ __nervy__ :pencil2::two::hammer:
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :six::hammer: (nestled)  
 __nestlings__ _n_  
-__nether__  
+__nether__ :two::hammer:  
 __neuroblastoma__  
 __neutered__  
 __neutrinos__ _n_  
@@ -6735,7 +6743,7 @@ __olefin__ _n_
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
 __omen__ _n_ :four::hammer:  
-__ominous__ _adj_ :eight: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
+__ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
@@ -8435,6 +8443,7 @@ __sanity check__
 __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._  
 __sap<sup>2</sup>__ _n_ :three::hammer: _A flat-sided sap stuck out of his back pocket._  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
+__sappers__ _n_  
 __sapphire lidar__  
 __sappy__ _Sappy smile._  
 __sarcophagus__  
@@ -9160,7 +9169,7 @@ __snare drum__ :two::hammer: (snare drums) :es: tambor militar pequeño
 __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
 __snark<sup>1</sup>__ _v_  
-__snark<sup>2</sup>__ _n_ :four::dart: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
+__snark<sup>2</sup>__ _n_ :five::dart: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
 __snarky__ _adj informal_ :dart::two: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
 __snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl<sup>2</sup>__ _v_ :nine: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
@@ -9353,6 +9362,7 @@ __spitting image__
 __spittle__ _n_ :five::hammer:  
 __spittoon__  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
+__spleen__ _Interned-stoked spleen._  
 __splendor__  
 __spliced__ _v_  
 __splint<sup>1</sup>__ _n_  
@@ -9688,7 +9698,7 @@ __strewn__ _v_ :two::hammer:
 __stricken__ _adj_ :six::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
-__strife__ _n_ :eight: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__strife__ _n_ :nine: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __strike__ _v_ :two::hammer: The United States is looking to strike trade deals in countries like Vietnam._  
 __striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
