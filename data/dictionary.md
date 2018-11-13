@@ -590,6 +590,7 @@ __ahead of the curve__ _idiom_ :three:
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
+__ahold__  
 __aide__ _n_ :two::hammer: (aides)  
 __ail__ _v_  
 __ailerons__  
@@ -772,6 +773,7 @@ __armload__
 __armory__  
 __arms embargo__  
 __arms race__  
+__arose__ _v_  
 __around the clock__  
 __around the corner__  
 __arpents__ _n_ :two::hammer:  
@@ -1963,6 +1965,8 @@ __centennial__
 __centerpiece__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
+__cesarean<sup>1</sup>__ _adj_  
+__cesarean<sup>2</sup>__ _n_  
 __cessation__  
 __cesspool__ _n_ :five::hammer: _The journalist cesspool._  
 __chads__ _n_  
@@ -2434,6 +2438,7 @@ __convalescing__ _v_
 __convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convened__ _v_  
 __convenience store__  
+__conversely__  
 __conveyed__ _v_  
 __convivial__ _adj_ :three::hammer:  
 __conwise__  
@@ -2723,7 +2728,7 @@ __curry__ _v_ :four::hammer: _A blatant effort to curry favor._
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :five: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _His curt answer._  
-__curtail__ _v_ :nine: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
+__curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
 __curtailment__  
 __curtly__ :two::hammer: _"I don't know," she said curtly._  
 __curveball__ _informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
@@ -2840,6 +2845,7 @@ __declaim__ _v_
 __decline__ _n_  
 __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommissioning process._  
 __decommits__  
+__decongestant__  
 __deconstruct__ _v_  
 __decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle's most decorated chefs._  
 __decreed__ _v_  
@@ -2881,7 +2887,7 @@ __defrock__ _v_
 __defrost__  
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
-__defuse__ _v_ :five::hammer: (defuses, defusing)  
+__defuse__ _v_ :six::hammer: (defuses, defusing)  
 __deigned__ _v_  
 __dejected__  
 __deking__  
@@ -3242,7 +3248,7 @@ __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.
 __dramatist__  
 __dramedy__  
 __drape<sup>1</sup>__ _n_ _Silk drape._  
-__drape<sup>2</sup>__ _v_ :six::hammer: (draped, draping)  
+__drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
 __drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
 __draw a blank__ _idiom_  
 __draw up__ _v_ :three::hammer:  
@@ -4052,7 +4058,7 @@ __fold__ _v_ (card games)
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
 __folk__ _n_ :two::hammer: (plural)  
-__follow suit__ _idiom_ :three: To do as another has done; follow an example.  
+__follow suit__ _idiom_ :four: To do as another has done; follow an example.  
 __folly__ _n_ :six: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __food processor__  
 __food-handler's permit__  
@@ -4159,7 +4165,7 @@ __franchise__ _Romo is the Cowboys franchise quarterback._
 __franchisees__  
 __frat__ _A frat house._  
 __frats__ _n_  
-__fraught__ _adj_ :six: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :seven: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer:  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -5204,11 +5210,11 @@ __impede__ _v_ :three::hammer: (impeded)
 __impediment__  
 __impedimenta__ _n_  
 __impending__ _adj_ :nine: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
-__imperil__ _v_ :four::hammer: (imperiled)  
+__imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__  
 __impermissible__ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :three::hammer:  
+__impervious__ _adj_ :four::hammer:  
 __impetus__ _n_ :three::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impish__ _Impish sense of humor._  
@@ -5501,7 +5507,7 @@ __juicy__ :two::hammer:
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::hammer:  
 __juleps__  
-__jumble__ _n_ :four: An untidy collection or pile of things. _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
+__jumble__ _n_ :five: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
@@ -6820,7 +6826,7 @@ __ostracism__ _n_
 __ostracize__ _v_  
 __other than that,__  
 __otherness__  
-__otherworldly__  
+__otherworldly__ :astonished::two::hammer:  
 __otter__  
 __ottoman__  
 __ouboros__ _n_  
@@ -6884,7 +6890,7 @@ __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._
 __outsize__ :two::hammer: _An outsize risk._  
 __outsmart__ _v_  
 __outspend__ _v_  
-__outspoken__ _adj_ :seven::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
+__outspoken__ _adj_ :eight::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstripped__ _v_  
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "out of." _Straight outta Tahoe._  
 __outtakes__ _n_  
@@ -6913,6 +6919,7 @@ __overpass__ _n_
 __overripe__ :two::hammer::camera: _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
+__overshadowed__ _v_  
 __oversight__ _n_ :three::hammer: _An oversight board._ _Oversight committee._  
 __overstating__ _v_  
 __overt__ _adj_ :two::hammer:  
@@ -7553,6 +7560,7 @@ __press the pocket__
 __pressure cooker__ _n_  
 __pretense__  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
+__prevails__ _v_  
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -8180,7 +8188,7 @@ __revue__ _n_ A light theatrical entertainment consisting of a series of short s
 __rezoning__  
 __rhabdomancy__  
 __rhapsodize__  
-__rhetoric__ :two::hammer: _From divisive rhetoric to civil dialogue._  
+__rhetoric__ :astonished::three::hammer: _From divisive rhetoric to civil dialogue._  
 __rheumy__  
 __rhinestone cowboy hat__  
 __rhyming__ :pencil2:  

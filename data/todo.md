@@ -1,27 +1,8 @@
 
-__underscored__ _v_  
-__impervious__  
-__overshadowed__ _v_  
-__defuse__ _v_  
 __stardom__ _n_  
-__ahold__  
-__tailspin__ _n_  
-__prevails__ _v_  
-__outspoken__  
-__draped__ _v_  
-
-__follow suit__  
-__cesarean__ _n_ (?)  
-__otherworldly__ :astonished:  
-__arose__ _v_  
-__imperiled__ _v_  
 __strenuous__  
-__jumble__ _He swallowed a jumble of unmarked pills._  
-__curtailed__ _v_  
-__rhetoric__ :astonished:  
-__conversely__  
-__fraught__  
-__decongestant__  
+__tailspin__ _n_  
+__underscored__ _v_  
 
 __acne__ _n_ :mega:  
 __mayonnaise__ _n_ :astonished::mega:  
