@@ -500,7 +500,7 @@ __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time
 __acerbic__ _adj_ :three::hammer:  
 __acetate__ _n_  
 __acme__  
-__acne__  
+__acne__ _n_ :mega::two::hammer:  
 __acolyte__ _n_ :four::hammer: (acolytes)  
 __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acqua boots (or Acqua boots or something similar?)__ _n_  
@@ -683,7 +683,7 @@ __and so it goes__
 __and-a-one, and-a-two...__  
 __andirons__  
 __anecdotal__ :mega:  
-__anemometer__ _n_  
+__anemometer__ _n_ :two::hammer:  
 __anew__ _adv_ :four::hammer:  
 __angle iron__  
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
@@ -796,7 +796,7 @@ __as many as__ _As many as five terror plots were foiled last year._
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
-__ascertain__ _v_  
+__ascertain__ _v_ :two::hammer:  
 __ascetic__  
 __ascot__  
 __ascribe__ _v_ :three::hammer:  
@@ -1244,7 +1244,8 @@ __birds of the same feather__
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
 __bishop's benches__  
-__bitch__ _n_ :two::hammer: :es: perra  
+__bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
+__bitch<sup>2</sup>__ _v_  
 __bitingly__  
 __bivouac__ :pencil2:  
 __biz__ _n_ :two::hammer: _Hot biz model._  
@@ -5251,7 +5252,7 @@ __in the water__ _There's nothing in the water here._
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in-depth__ _He will conduct an in-depth review._  
-__in-house__ _In-house experts._  
+__in-house__ _adj_ :two::hammer: _In-house experts._  
 __in-laws__ _A room for the in-laws._  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __inadvertent__ :two::hammer:  
@@ -5981,6 +5982,7 @@ __loudmout__ _He is a loudmout, but there is nothing personal._
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
 __lout__ _n_  
+__louver__ _n_ :camera: _Louver shutters._ _Louver window._  
 __lovacore__  
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
@@ -6023,7 +6025,7 @@ __lupine__
 __lupus__  
 __lurch__ _v_ :five::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
-__lurid__ :two::hammer:  
+__lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lushness__  
@@ -6179,6 +6181,7 @@ __maxes__ _v_
 __maxim__ :es: máxima  
 __mayhem__ _n_ :six: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mayoketchup__  
+__mayonnaise__ _n_ :astonished::mega:  
 __mea culpa__  
 __mead__ _n_  
 __meager__ _adj_ :dart::seven: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
@@ -8094,6 +8097,7 @@ __reminisce__ _v_ (reminiscing)
 __reminiscent__  
 __remit__  
 __remittances__ :two::hammer:  
+__remnants__  
 __remorse__ _n_  
 __remoulade__  
 __render__ _v_ :two::hammer::astonished: _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
@@ -8907,6 +8911,7 @@ __sickle cell__
 __sickly__ :es: enfermizo  
 __siddle up__ _Chuck siddled up beside his brother._  
 __sidearm__  
+__sidebar__ _n_  
 __sidecar shovelhead__  
 __sided__ _Installed in all sided (vs brick) homes._  
 __sideline__  
@@ -9214,7 +9219,7 @@ __snowcat__ _n_ :two::hammer: _Snowcat ride._
 __snowdrifts__  
 __snowmobiler__  
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
-__snowpack<sup>2</sup>__ _n_  
+__snowpack<sup>2</sup>__ _n_ :two: A seasonal accumulation of slow-melting packed snow.  
 __snowplows__ _n_  
 __snowshoeing__ :two::hammer:  
 __snub-nosed__ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
@@ -9469,6 +9474,7 @@ __squit__ _Super-soaker squit guns._
 __stab__ _n_ :two::hammer:  
 __stable condition__  
 __stable__  
+__staff__ _n_ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
@@ -9522,7 +9528,7 @@ __starboard__ _n_
 __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chinos._ _Altitude sickness can take more than the starch out of a person._  
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
 __starchitect__  
-__stardom__  
+__stardom__ _n_ :two::hammer:  
 __starfish__  
 __stargazing__  
 __stark__ _adj_ :four::hammer: _A stark reminder._  
@@ -9695,7 +9701,7 @@ __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol
 __streaming__ _Streaming eyes._  
 __streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strech__ _He was awake for long streches of time._  
-__strenuous__ _adj_ :astonished::two::hammer:  
+__strenuous__ _adj_ :astonished::three::hammer:  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
@@ -9954,7 +9960,7 @@ __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweepin
 __tagline__ :two::hammer: _Our big tagline is to help others._  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :two::hammer: (tailored)  
-__tailspin__ _n_ :two::hammer:  
+__tailspin__ _n_ :three::hammer:  
 __take a shit__ _v_  
 __take a stand__  
 __take by storm__  
@@ -10502,6 +10508,7 @@ __turkey drumstick__
 __turkey stock__ :camera:  
 __turmoil__  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
+__turnaround__ _n_  
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
@@ -10595,7 +10602,7 @@ __underpin__ _v_ :two::hammer:
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  
 __underrated__ :pencil2:  
-__underscore__ _v_ :three::hammer: (underscoring)  
+__underscore__ _v_ :four::hammer: (underscored, underscoring)  
 __undersecretary__  
 __understandably__ :two::hammer:  
 __understated__ _adj_  

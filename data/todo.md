@@ -1,23 +1,4 @@
 
-__stardom__ _n_  
-__strenuous__  
-__tailspin__ _n_  
-__underscored__ _v_  
-
-__acne__ _n_ :mega:  
-__mayonnaise__ _n_ :astonished::mega:  
-__sidebar__ _n_ (?)  
-__bitch__ _v_  
-__turmaround__ _n_  
-__ascertain__ _v_  
-__staff__ _n_ (plural?)  
-__in-house__ (?)  
-__anemometer__  
-__remnants__  
-__louvers__ _n_  
-__snowpack__ (?)  
-
-__lurid__  
 __commandeered__ _v_  
 __cabanas__ _n_  
 __slew__  
