@@ -82,7 +82,7 @@ __Christmas fly__
 __Chugging beers__  
 __Cincy__ Cincinnati?  
 __Cisternian__ :pencil2: _Cisternian monks._  
-__City__  
+__City__ :two::hammer:  
 __Club Med__ _Club Med countries._  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __Collins glass__  
@@ -1290,7 +1290,7 @@ __blemish__ _n_ :four::hammer: (blemishes)
 __blemished__ _v_  
 __blends__ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :two::hammer:  
-__blight<sup>2</sup>__ _v_ :two::hammer: (blighted)  
+__blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
 __blimp__ :two::hammer: _A blimp hangar._  
 __blind as a bat__  
 __blind date__  
@@ -1747,7 +1747,7 @@ __byline__ _n_ :three::hammer: (bylines)
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
-__cabana__ _n_  
+__cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__  
 __cabbages__ _n_  
 __cabin__ _Uncle-s Tom Cabin._  
@@ -1800,7 +1800,7 @@ __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupat
 __calliopes__  
 __callous__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
-__callow__  
+__callow__ :two::hammer:  
 __calves__  
 __camaraderie__  
 __cameleer__  
@@ -1849,7 +1849,7 @@ __caprice__
 __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.  
 __capstone__ _n_  
 __captain__ _v_  
-__captaincy__  
+__captaincy__ :two::hammer:  
 __capuchin monkey__ :mega:  
 __carabiner__ _n_ :camera::two::hammer:  
 __carapaces__ _n_  
@@ -2295,7 +2295,7 @@ __coming up__
 __coming-of-age__ _A coming-of-age story._  
 __comity__  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
-__commandeered__ _v_ :astonished:  
+__commandeered__ _v_ :astonished::two::hammer:  
 __commend__ _v_ (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :two::hammer: (commendations) _He earned two commendation medals._  
@@ -2428,7 +2428,7 @@ __contract__ _v_ _Contract the disease._
 __contractor__ _n_  
 __contrarian__  
 __contretemps__  
-__contrite__ :two::hammer:  
+__contrite__ _adj_ :three::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :two::hammer:  
 __contrive__ _v_ (contriving)  
@@ -3727,6 +3727,7 @@ __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cem
 __famine__ _It could be feasst or famine._  
 __famished__  
 __fanbase__ _n_ :astonished:  
+__fancied__ _v_  
 __fanciful__  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
@@ -4460,7 +4461,7 @@ __go-ahead goal__
 __go-for-broke__  
 __go-pills__ _n_  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
-__goad__ _v_ :four::hammer: (goading)  
+__goad__ _v_ :five::hammer: (goading)  
 __goads__ _n_  
 __goahead__  
 __goalie__  
@@ -4606,6 +4607,7 @@ __ground zero__
 __groundbreaker__ _n_ :three::hammer:  
 __groundnut__ _n_  
 __groundskeeper__  
+__groundstroke__ _n_  
 __groundswell__ _n_ :four::hammer:  
 __groundwater__  
 __groundwork__  
@@ -4992,7 +4994,7 @@ __hoagie__
 __hoard__ _v_  
 __hoarsely__  
 __hoary__ :two::hammer:  
-__hobble<sup>1</sup>__ _v_ :nine: (hobbled) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
+__hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
 __hobble<sup>2</sup>__ _n_  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
@@ -6911,7 +6913,7 @@ __overarching__ _adj_ :three::hammer: _An overarching quality._ _An overarching 
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overboard__ _To go overboard._  
-__overdrive__ _n_ :two::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
+__overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
 __overflight__  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__  
@@ -8448,7 +8450,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandy-haired__  
 __sangfroid__  
-__sanguine__ _adj_ :two::hammer::astonished:  
+__sanguine__ _adj_ :three::hammer::astonished:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
@@ -8822,7 +8824,7 @@ __shootout__ _n_ __1a__ A gun fight. __b__ A battle between military forces. __2
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
-__shorn__ _adj_ :three: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
+__shorn__ _adj_ :four: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short fuse__  
 __short hand__  
 __short-charge__  
@@ -8954,7 +8956,7 @@ __single out__ _v_ :two: To select one from a group and treat differently.
 __singletree__ _Singletree plow._  
 __sinkhole__ _n_ :two::hammer:  
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
-__sire__  
+__sire__ _v_ :two::hammer: (sired) _Another colt sired by him._  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sitdown__ _n_ :two::hammer:  
@@ -9047,7 +9049,7 @@ __sleety__
 __slender__  
 __sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
 __sleuth__ _v informal_ :three: (sleuthing) To act as a detective.  
-__slew__ _n_ :nine: /sluː/ :octocat: !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
+__slew__ _n_ :nine::m::octocat: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ :dart:  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
@@ -9588,7 +9590,7 @@ __stepfather__ _(vs godfather)_
 __steppes__ _n_  
 __stepping stone__  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
-__sterling__ :two::hammer: _A sterling example._  
+__sterling__ _n_ :three::hammer: _A sterling example._  
 __stern__ _n_ :two::hammer:  
 __stew-bums__ _n_  
 __stew<sup>1</sup>__ _n_ :three::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
@@ -10620,7 +10622,7 @@ __undisturbed__ _v_
 __undue__  
 __undulating__ _v_  
 __undulation__ _n_  
-__unduly__ _adv_ :four::hammer:  
+__unduly__ _adv_ :five::hammer:  
 __unearth__ _v_ :three::hammer: (unearthed)  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
@@ -11093,7 +11095,7 @@ __wiener dog__
 __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wiggle<sup>2</sup>__ _v_  
 __wigglers__  
-__wild card__ _n_ _The wild card was an expected weekend warmup with rain._  
+__wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wilderness__  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  

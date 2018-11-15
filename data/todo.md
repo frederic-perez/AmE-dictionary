@@ -1,23 +1,4 @@
 
-__commandeered__ _v_  
-__cabanas__ _n_  
-__slew__  
-__overdrive__ _n_  
-__sterling__ _n_  
-__City__  
-__wildcard__ _n_  
-__contrite__ _adj_  
-__sanguine__ _adj_  
-__groundstroke__ _n_  
-__unduly__  
-__hobble__ _v_ (hobbling)  
-__shorn__  
-__callow__  
-__captaincy__  
-__goad__ _v_ (goading)  
-__sired__ _v_ _Another colt sired by him._  
-__fancied__ _v_  
-__blight__ _v_ :hammer::two: (blighted)  
 __build-up__ _n_ :two::hammer:  
 __belatedly__  
 __bid__ _v_  
