@@ -494,7 +494,7 @@ __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democrati
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
 __accoutrements__  
-__accrete__ _v_ :two::hammer: _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
+__accrete__ _v_ :three: (accretes) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
@@ -525,6 +525,7 @@ __adage__ :two::hammer:
 __adamant__  
 __add up__ :two::hammer: _The whole thing doesn't add up._  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
+__address__ _v_  
 __adenoidal__  
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
@@ -600,6 +601,7 @@ __ails__ _v_ :two::hammer:
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __airball__ _n_ :three: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
+__airborne__ _adj_ _An airborne radar._  
 __airburst__ _n_  
 __aircraft hold__ _n_ :es: bodega (de avión)  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
@@ -753,7 +755,7 @@ __approval rating__ _Park's approval rating has plummeted._
 __apropos__ _prep_ :mega:  
 __apt__  
 __aquaponic__  
-__aquifer__ _n_  
+__aquifer__ _n_ :two::hammer:  
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
@@ -1127,7 +1129,7 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_ :five::hammer: (belated)  
-__belatedly__ :two::hammer:  
+__belatedly__ _adv_ :three::hammer:  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
 __beleaguer__ _v_  
@@ -1198,7 +1200,7 @@ __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The tim
 __bicyclist__  
 __bid farewell__  
 __bid rigging__  
-__bid<sup>1</sup>__ _v_ :five: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn't bid him farewell._  
+__bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn't bid him farewell._  
 __bid<sup>2</sup>__ _n_ :two::hammer: _The highest ranked team earns an automatic bid to one of the New Year's six bowls._  
 __bidding war__  
 __bidding__  
@@ -1625,9 +1627,7 @@ __buggy__ _n_ _In the early 1900s, guests arrived by horse and buggy._
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
 __bugout__  
 __build a future__ :es: labrarse un futuro  
-__build-up__ _n_  
-__buildup play__  
-__buildup__ _n_ :two::hammer:  
+__build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
 __bulk up__ _v_  
 __bulk__  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
@@ -2923,6 +2923,7 @@ __demur__ _v_ (demurred) :four::hammer: (demurred)
 __demure__ _adj_ :two::hammer:  
 __demurely__ _adv_ :three::hammer:  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
+__dendrites__ _n_  
 __dengue fever__  
 __dengue__  
 __denier__ _n_ A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
@@ -3074,7 +3075,7 @@ __disingenuousness__
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __disloyal__  
-__dismal__ _adj_ :six: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
+__dismal__ _adj_ :seven: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
@@ -3698,6 +3699,7 @@ __factor in__ _v_
 __factual__  
 __fad__ _n_  
 __fail__ _v_ _I'm trying--and failing--to work out the logic of this._  
+__failover__ _n_  
 __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
@@ -4712,8 +4714,8 @@ __hagiography__
 __hags__ _Screaming histerically like Shakespearean hags._  
 __hail<sup>1</sup>__ _v_ :nine: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :six::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
-__hailstones__  
-__hailstorm__ _n_ :two::hammer:  
+__hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
+__hailstorm__ _n_ :three::hammer:  
 __hair clippers__ _n_ :camera:  
 __hairline__  
 __haking__  
@@ -6205,7 +6207,7 @@ __medical discharge__ _A medical discharge._
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ :mega:  
-__meek__ _adj_ :three: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek__ _adj_ :four: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ :two::hammer:  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
@@ -7084,7 +7086,7 @@ __pay off__ _v_
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__  
 __paydirt__ :two::hammer:  
-__payload__ _n_ :two::hammer:  
+__payload__ _n_ :three::hammer:  
 __payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywalls__  
 __peaks and valleys__  
@@ -8076,7 +8078,7 @@ __rejoice__ _v_
 __rejoiced__ _v_  
 __rejoinder__ _n_ :two::hammer:  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
-__relatable__ :two::hammer:  
+__relatable__ _adj_ :three::hammer:  
 __relegation__ _Sports_  
 __relent__ _v_ :three::hammer: (relented)  
 __relentless__ :three::hammer: _I relentlessly go to YouTube to watch all new footage._  
@@ -8898,7 +8900,7 @@ __shushing__ _v_
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
-__shutter__ _n_ :two::hammer: (shutters) _The finest selection of custom shutters since 1973._  
+__shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
 __shy of__ :two::hammer::astonished: _Just shy of its highest mark._  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :three::hammer: _Edgerton does not shy away from cultural observations._  
@@ -9715,7 +9717,7 @@ __stricken__ _adj_ :six::hammer: _Stricken people._
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
 __strife__ _n_ :nine: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
-__strike__ _v_ :two::hammer: The United States is looking to strike trade deals in countries like Vietnam._  
+__strike__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
 __striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
 __string knife__ :two::hammer:  
@@ -10847,6 +10849,7 @@ __virtually__ _adv_ :astonished: Practically, almost.
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
 __vistas__  
+__vital__ _adj_  
 __vitriol__ _n_ :five: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
 __vituperation__  

@@ -1,23 +1,4 @@
 
-__aquifer__ _n_  
-__hailstorm__ _n_  
-__payload__ _n_  
-__relatable__ _adj_  
-__failover__ _n_  
-__vital__ _adj_  
-__address__ _v_  
-__airborne__ _adj_ _An airborne radar._  
-__accrete__ _v_ (accretes) To make larger or greater, as by increased growth.  
-__dendrites__ _n_  
-__hailstone__ _n_ A small ball of frozen rain. _Hailstones damaged windows._  
-__shutters__ _n_  
-
-__build-up__ _n_ :two::hammer:  
-__belatedly__  
-__bid__ _v_  
-__buck__ _v_  
-__dismal__  
-__meek__  
 __stoppage time__  
 __pitch__ _n_ :three::hammer:  
 __flair__ _He provided flair._  
