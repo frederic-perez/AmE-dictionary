@@ -1,4 +1,18 @@
 
+__go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
+__fall short__ _v_ To fail to achieve a goal or target.  
+__pellet__ _n_  
+__ensemble__ _n_  
+__mitigate__ _v_  
+__airship__ _n_ _Tethered airships._  
+__slabs__  
+__mudslide__ _n_  
+__onset__ _n_  
+__smolder__ _v_ (???)  
+__host__ _n_ _A host of data._  
+__allocation__ _Allocation of resources._  
+__reset__ _v_ :mega:  
+
 __stoppage time__  
 __pitch__ _n_ :three::hammer:  
 __flair__ _He provided flair._  
