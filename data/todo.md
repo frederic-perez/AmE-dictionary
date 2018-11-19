@@ -1,23 +1,4 @@
 
-__slime__ _n_  
-__go south__ _That's when things start going south._  
-__apathetic__  
-__flabbergast__ _v_ _informal_ (flabbergasted)  
-__dubious__  
-__hold one's pose__  
-__spinning wheels__  
-__qualm__ _n_  
-__signify__ _v_  
-__aquanaut__ _n_  
-
-__go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
-__fall short__ _v_ To fail to achieve a goal or target.  
-__pellet__ _n_  
-__ensemble__ _n_  
-__mitigate__ _v_  
-__airship__ _n_ _Tethered airships._  
-__slabs__  
-__mudslide__ _n_  
 __onset__ _n_  
 __smolder__ _v_ (???)  
 __host__ _n_ _A host of data._  

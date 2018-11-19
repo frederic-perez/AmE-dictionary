@@ -604,6 +604,7 @@ __airball__ _n_ :three: _basketball_ A shot which misses the backboard, rim and 
 __airborne__ _adj_ _An airborne radar._  
 __airburst__ _n_  
 __aircraft hold__ _n_ :es: bodega (de avión)  
+__airship__ _n_ _Tethered airships._  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
 __aisle__ :mega: (īl)  
@@ -716,6 +717,7 @@ __anything but__ _It is anything but sweet._
 __anything goes__  
 __apace__ _Concussion concerns continue apace._  
 __apalled__ _v_  
+__apathetic__  
 __ape__ _v_  
 __aphorism__ :two::hammer:  
 __aping__  
@@ -754,6 +756,7 @@ __apprehension__
 __approval rating__ _Park's approval rating has plummeted._  
 __apropos__ _prep_ :mega:  
 __apt__  
+__aquanaut__ _n_  
 __aquaponic__  
 __aquifer__ _n_ :two::hammer:  
 __arbitration__ _Arbitration clause._  
@@ -3328,7 +3331,7 @@ __dry spel__
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
 __dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
-__dubious__  
+__dubious__ :two::hammer:  
 __duchy__ (duys)  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
@@ -3536,6 +3539,7 @@ __enquiry__
 __enrapture__ _v_ :three: (enraptured) To fill with rapture or delight.  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
+__ensemble__ _n_  
 __enshrined__  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
@@ -3711,7 +3715,7 @@ __fall from the sky__ _This trust doesn't fall from the sky._
 __fall into place__  
 __fall out of love__  
 __fall over__ _v_  
-__fall short__ _v_ :five::hammer:  
+__fall short__ _v_ :six: To fail to achieve a goal or target.  
 __fallacy__ :two::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
 __fallible__  
@@ -3909,7 +3913,7 @@ __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._
 __fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle__ _v_ :three::hammer: (fizzled)  
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
-__flabbergast__ _v_ :three::hammer: (flabbergasted)  
+__flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
 __flaccid__ _adj_  
 __flag-stop service__  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
@@ -4454,8 +4458,9 @@ __go dutch__
 __go for it!__  
 __go great lenghts__  
 __go native__ _You going native on me, Supercop?_  
+__go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go over the top__  
-__go south__ _idiom_ :three::hammer: _You've got a career there, if all this goes south._ _This one went south on me._  
+__go south__ _idiom_ :four::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
 __go to the dogs__  
 __go to the wire__  
@@ -5015,6 +5020,7 @@ __hokum__ :two::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._
 __hold a referendum__  
 __hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold off__ _v_ :three::hammer: _If the rain holds off._ :es: Si no llueve.  
+__hold one's pose__  
 __hold true__ _v_  
 __hold up a fish__  
 __hold water__  
@@ -6342,6 +6348,7 @@ __mistrel__ _A popular minstrel show, such as "Jim Crow."_
 __mistrial__ _n_ :two::hammer:  
 __mistruths__  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
+__mitigate__ _v_  
 __mitt__ _n_  
 __mitzvah__  
 __mix-up__ _n_  
@@ -6452,7 +6459,7 @@ __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, a
 __muckrake__  
 __mudcat__ _n_  
 __muddle__ _v_ :four: Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
-__mudslide__  
+__mudslide__ _n_ :two::hammer:  
 __mudslinging__ :two::hammer:  
 __muff-diver__ _n_ :two::hammer:  
 __muff__ _She drew from her muff a pistol._  
@@ -7116,6 +7123,7 @@ __peerless__
 __peeved__ _v_  
 __peevishly__  
 __pegged__ _v_ :two::hammer:  
+__pellet__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :five::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
@@ -7781,7 +7789,7 @@ __quaint__ _adj_ :nine: __1__ Pleasingly or strikingly old-fashioned or unusual.
 __quaintly__ :two::hammer:  
 __quakes__ _v_  
 __qualify__ _v_  
-__qualm__ _n_ :five: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
+__qualm__ _n_ :six: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ _n_ :seven: Difficult dilemma. _All-Star managers face quandary._  
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
@@ -8935,6 +8943,7 @@ __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his
 __signature__ _That's their signature meal._  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
 __signet ring__  
+__signify__ _v_  
 __siitting duck__  
 __sill__ :two::hammer:  
 __silly boy__  
@@ -9014,7 +9023,7 @@ __sky high__
 __skylight__  
 __skyrocket__ _v_ :three::hammer:  
 __skywriting__  
-__slabs__ _Concrete slabs._  
+__slabs__ :two::hammer: _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
 __slack<sup>3</sup>__ _adj_ (?) :two::hammer: _Now he couldn't drive with slack reins._  
@@ -9066,7 +9075,7 @@ __slight<sup>1</sup>__ _v_ :two: (slighted) To treat with disdain or indifferenc
 __slight<sup>2</sup>__ _n_ :seven: A humiliating affront. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slightly-built__ _The slightly-built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
-__slime__  
+__slime__ _n_ :two::hammer:  
 __sliminess__  
 __sling__ _n_ :two::hammer: _The sling wrappred around his forearm._  
 __slinger__  
@@ -9368,6 +9377,7 @@ __spindle__ _n_ :three::hammer:
 __spindly__  
 __spinel__ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin "spina." Balas ruby is an old name for a rose-tinted variety of spinel.  
 __spinet piano__ :camera:  
+__spinning wheels__  
 __spinouts__  
 __spinster__ :two::hammer:  
 __spiny lobsters__ :camera:  
