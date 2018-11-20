@@ -10165,7 +10165,7 @@ __thorough__ :astonished: _It's a very serious matter that needs thorough invest
 __thoroughfare__  
 __thoroughly__  
 __thrall__ _n_ :six::hammer:  
-__thrash__ _v_ :nine::m::hammer: (thrashed, thrashing) _Toronto thrashed New York City F.C._ _Thrash talk._  
+__thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __thrifty__ _adj_ :two::hammer:  
 __throbbed__ _v_ :three::hammer: (throbs, throbbing)  
 __throbbingly__  
