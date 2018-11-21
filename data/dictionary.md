@@ -635,6 +635,7 @@ __alleged__
 __allegedly__  
 __allergens__  
 __allies__ _n_  
+__allocation__ _Allocation of resources._  
 __allotment__ :two::hammer:  
 __allotted__  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
@@ -999,7 +1000,7 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_  
 __bantam__ _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women's bantamweight champ._  
-__banter__ _n_ :four::hammer:  
+__banter__ _n_ :five::hammer:  
 __bar top__  
 __barbecue__ _Barbecue sauce._  
 __barbells__  
@@ -2654,7 +2655,7 @@ __crossbeam__ _n_
 __crossing t's__ _Crossiing our t's and dotting our i's._  
 __crossover__ _Crossover zone._  
 __crossroad__ _At a crossroad._  
-__crossroads__ _n_ :dart::two::hammer::pencil2: _We're at a crossroads._ _I'm at a crossroads._ (notice the trailing 's')  
+__crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We're at a crossroads._ _I'm at a crossroads._ (notice the trailing 's')  
 __crotchety__  
 __crouch__ :two::hammer:  
 __crowbar__ _n_ :two::hammer:  
@@ -2960,7 +2961,7 @@ __despoil__ _v_
 __despoiling__  
 __despondency__  
 __despondent__ _n_ :five::hammer:  
-__detail__ _n_ :mega:  
+__detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
 __detergent__ _Liquid laundry detergent._  
 __deterrence__ :two::hammer:  
@@ -3776,7 +3777,7 @@ __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-mon
 __fawn<sup>2</sup>__ _v_  
 __fawning__ :two::hammer:  
 __fawningly__  
-__faze__ _v_ :four::hammer: (fazed)  
+__faze__ _v_ :five::hammer: (fazed)  
 __façade__ _n_  
 __fealty__ :two::hammer:  
 __fearl__ _A fearl youngster._  
@@ -5083,7 +5084,7 @@ __horsetails__ _n_
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hoss__  
-__host__ _n_ :two: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._  
+__host__ _n_ :three: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hot glue__  
 __hot seat__  
 __hot spring__ _n_  
@@ -5682,7 +5683,7 @@ __laidback__ :two::hammer: _Australia's laid back lifestyle._
 __lain__  
 __lair__ _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
-__lambast__ _v informal_ :nine: (also __lambaste__) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
+__lambast__ _v informal_ :nine::m: (also __lambaste__) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::hammer: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
@@ -6001,7 +6002,7 @@ __low key__ :two::hammer:
 __low-key__  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
-__lowdown__ _n_ _Slang_ The whole truth: _gave us the lowdown on what happened at the party._  
+__lowdown__ _n_ _Slang_ :two: The whole truth: _gave us the lowdown on what happened at the party._  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__  
@@ -6797,7 +6798,7 @@ __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
-__onset__ _n_ :three::hammer: _Early onset dementia._  
+__onset__ _n_ :four::hammer: _Early onset dementia._  
 __onslaught__ :two::hammer:  
 __onus__ _n_ :five::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
@@ -7306,7 +7307,7 @@ __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._
 __pit<sup>2</sup>__ _v_ :two::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
 __pitch in__ _v_  
 __pitch-perfect__  
-__pitch<sup>1</sup>__ _n_ :five::hammer: (soccer) _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
+__pitch<sup>1</sup>__ _n_ :eight::hammer: (soccer) _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitchfork__  
 __pitfalls__ _n_  
@@ -8142,7 +8143,7 @@ __repudiate__ _v_
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __rerun__ _n_ _Of course I've seen it! It's a rerun._  
 __rescind__ _v_ :two::hammer: (rescinded)  
-__reset__ _v_ :mega::two::hammer:  
+__reset__ _v_ :three::mega::hammer:  
 __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resiliency__  
@@ -9167,7 +9168,7 @@ __smock<sup>2</sup>__ _v_
 __smog__ :two::hammer:  
 __smoke__ _v_ _This person smokes me._  
 __smolder<sup>1</sup>__ _n_  
-__smolder<sup>2</sup>__ _v_ :seven: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
+__smolder<sup>2</sup>__ _v_ :eight: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
@@ -9668,7 +9669,7 @@ __stopgag__ _n_ :three::hammer:
 __stopgap__ :two::hammer:  
 __stoplights__ :pencil2:  
 __stopover__  
-__stoppage__ _n_ :six::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ _n_ :seven::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
@@ -9939,7 +9940,7 @@ __swive__ _v_
 __swiveling__ _v_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
-__swoop<sup>2</sup>__ _v_ :eight::hammer: (swooped, swooping)  
+__swoop<sup>2</sup>__ _v_ :nine::m::hammer: (swooped, swooping)  
 __swoopy__  
 __swooshing__  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
@@ -10638,6 +10639,7 @@ __unduly__ _adv_ :five::hammer:
 __unearth__ _v_ :three::hammer: (unearthed)  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
+__unequivocally__  
 __unethically__ _He had acted unethically and for that I could never trust him as editor._  
 __unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :six::hammer: _They are unfazed by all fof this._  
@@ -10975,7 +10977,7 @@ __wax__ _v_ _Moon waxing and waning._
 __waxed__  
 __wayposts__  
 __wayside__ _n_ :two::hammer:  
-__wayward__ _adj_ :nine: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
+__wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
 __wean__ _v_ :eight::hammer: (weaned)  
 __weaponize__ _v_  

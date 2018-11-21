@@ -1,23 +1,4 @@
 
-__onset__ _n_  
-__smolder__ _v_ (???)  
-__host__ _n_ _A host of data._  
-__allocation__ _Allocation of resources._  
-__reset__ _v_ :mega:  
-
-__stoppage time__  
-__pitch__ _n_ :three::hammer:  
-__flair__ _He provided flair._  
-__faze__ _v_  
-__lowdown__ _n_  
-__wayward__  
-__banter__ _n_  
-__swoop__ _v_ :two::hammer: (swooped)  
-__crossroads__ _He is at a significant crossroads in his career._  
-__detail__ _n_ _A member of the team's security detail._  
-__keen__  
-__lambasted__ _v_  
-__unequivocally__  
 __hardline__ _The US hardline policy on illegal immigration._  
 __go over the wire__  
 __cobble__ _v_  
