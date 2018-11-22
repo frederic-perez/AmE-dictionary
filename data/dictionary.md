@@ -460,7 +460,7 @@ __aberrant__ _adj_
 __aberration__ _n_  
 __abet__ _v_ :four: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ :two::hammer:  
-__abhorrent__ _adj_ :three::hammer:  
+__abhorrent__ _adj_ :four::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__  
@@ -690,6 +690,7 @@ __anecdotal__ :mega:
 __anemometer__ _n_ :two::hammer:  
 __anew__ _adv_ :four::hammer:  
 __angle iron__  
+__angler fish__ _n_ :camera:  
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
@@ -1099,6 +1100,7 @@ __beer gut__
 __beer tap__ _A beer tap that was brought from England._  
 __beers on tap__ :camera:  
 __beet__  
+__beetroot__ _n_  
 __beeves__ _n_  
 __befall__  
 __befallen__ _The unthinkable has befallen President._  
@@ -2090,6 +2092,7 @@ __chop__ _v_
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :seven: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chortles__ _v_  
+__christening__ _n_  
 __chuck out__ _v_  
 __chuck__ _v_ :five::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckholes__ _n_  
@@ -2129,7 +2132,7 @@ __clam up__ _v_
 __clambake__ _n_  
 __clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
 __clammy__ :two::hammer:  
-__clampdown__ _n_ :five::hammer: _An immigration clampdown._  
+__clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clang__ _v_  
@@ -2239,6 +2242,7 @@ __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat
 __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattails a little bit._  
 __cob__  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
+__cobble__ _v_  
 __cobweb__ _n_ :five::hammer: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
@@ -3025,6 +3029,7 @@ __dinking__ _v_
 __dinky__ :two::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
 __dip__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
+__diplodocus__ _n_  
 __diploma__  
 __diplomat__ :mega:  
 __dips__ _n_  
@@ -4461,6 +4466,7 @@ __go great lenghts__
 __go native__ _You going native on me, Supercop?_  
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go over the top__  
+__go over the wire__  
 __go south__ _idiom_ :four::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
 __go to the dogs__  
@@ -4783,7 +4789,7 @@ __hard-liners__ :two::hammer:
 __hard-nose__  
 __hard-nosed__ :two::hammer: _Hard-nosed approach._  
 __hardball__  
-__hardline__  
+__hardline__ :two::hammer: _The US hardline policy on illegal immigration._  
 __hardliner__  
 __hardly ever__  
 __hardpan__ :two::hammer: _Hardpan dirt yards._  
@@ -4822,7 +4828,7 @@ __hatchery__ _A fish hatchery._
 __hatchet__  
 __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
-__haul<sup>1</sup>__ _n_ :three::hammer: _It's a small haul for such a high-profile program._  
+__haul<sup>1</sup>__ _n_ :five::hammer: _A record haul of assets seized by Scotland Yard._ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
@@ -8361,7 +8367,7 @@ __rub<sup>1</sup>__ _n_ :two::hammer: _By "evidence" I mean hard facts, as defin
 __rub<sup>2</sup>__ _v_  
 __rubbings__ _n_  
 __rubble__ _n_  
-__rucksack__  
+__rucksack__ _n_ :two::hammer:  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __rudder__ (airplane)  
 __rudderless__  
@@ -9333,7 +9339,7 @@ __spark plugs__
 __sparklers__ _n_  
 __sparred__ _v_  
 __spars__ _n_  
-__spat__ _n_ :five::hammer: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
+__spat__ _n_ :six::hammer: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ _n_ :seven: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spatter__ _n_  
 __spay__ _v_ :two::hammer: (spayed)  
@@ -9940,7 +9946,7 @@ __swive__ _v_
 __swiveling__ _v_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
-__swoop<sup>2</sup>__ _v_ :nine::m::hammer: (swooped, swooping)  
+__swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swooshing__  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
@@ -10404,6 +10410,7 @@ __travail__
 __travails__ _n_ :two::hammer:  
 __travelogue__ _n_ :two::hammer:  
 __travesty__ _n_ :three::hammer: (travesties)  
+__trawled__ _v_  
 __trawler__  
 __treachery__ _n_ :three::hammer:  
 __treacly__ :two::hammer:  
@@ -10587,6 +10594,7 @@ __ululations__
 __um__  
 __umpteen__  
 __umpteenth__ :two::hammer:  
+__un-American__  
 __unabashed__ _adj_ :six: Not ashamed, disconcerted, or apologetic; boldly certain of one's position. _An unabashed fan._  
 __unabashedly__  
 __unabated__ _adj_ :three::hammer:  

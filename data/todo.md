@@ -1,22 +1,4 @@
 
-__hardline__ _The US hardline policy on illegal immigration._  
-__go over the wire__  
-__cobble__ _v_  
-__diplodocus__ _n_  
-__haul__ _n_  
-__trawled__ _v_  
-__Angler Fish__ _n_ :camera:  
-__christening__ _n_  
-__beetroot__ _n_  
-__haul__ _A record haul of assets seized by Scotland Yard._  
-__rucksack__ _n_  
-__spat__ _n_  
-__stop short__  
-__unamerican__  
-__crackdown__ _The crackdown on illegal immigrants._  
-__clampdown__  
-__abhorrent__  
-
 __flagship__  
 __preposterously__  
 __ornate__  
