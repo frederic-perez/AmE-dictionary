@@ -1,23 +1,4 @@
 
-__tektite__ _n_ :pencil2:  
-__quandary__ _n_  
-__dirtbag__  
-__hokum__  
-__reminiscing__ _v_  
-__prescription__ _n_  
-__heist__ _n_  
-__caper__ _n_  
-__play second fiddle__  
-__quibble__ _n_  
-__rhetoric__ _n_ :pencil2:  
-__stepladder__ _n_  
-__recollection__ _n_ :two::hammer:  
-
-__flagship__  
-__preposterously__  
-__ornate__  
-__inveterate__  
-__ornateness__  
 __pendant__ _The pendant lamps._  
 __fiery__ :two::hammer: _A fiery Tabasco-ish sauce._  
 __jus__  

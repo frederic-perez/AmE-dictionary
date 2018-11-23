@@ -1842,7 +1842,7 @@ __cap<sup>1</sup>__ _n_ :two::hammer: (soccer; hat?)
 __cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
-__caper<sup>1</sup>__ _n_ :two: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
+__caper<sup>1</sup>__ _n_ :three: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
 __caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
@@ -3041,7 +3041,7 @@ __dirges__ _n_
 __dirigiste__  
 __dirt bike__ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
-__dirtbag__  
+__dirtbag__ :two::hammer:  
 __dirtdobbers__  
 __dirty boogie__  
 __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
@@ -3927,7 +3927,7 @@ __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioratio
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :two::hammer: _A flagrant foul._  
-__flagship__  
+__flagship__ :two::hammer:  
 __flagstaff__  
 __flagstone__ _Flagstone terraces._  
 __flah point__  
@@ -4917,7 +4917,7 @@ __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
-__heist__ :two::hammer: _A jewelry heist._ _A true-life heist drama._  
+__heist__ _n_ :three::hammer: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
@@ -5023,7 +5023,7 @@ __hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.
 __hog<sup>2</sup>__ _v informal_ To take more than one's share of: _Don't hog the couch._  
 __hogslop__  
 __hoist__ _v_ :three::hammer: (hoisted) :es: alzar  
-__hokum__ :two::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
+__hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold off__ _v_ :three::hammer: _If the rain holds off._ :es: Si no llueve.  
@@ -5403,7 +5403,7 @@ __inured__ _v_ :two::hammer:
 __inurnment__  
 __invective__ _n_ :four::hammer:  
 __inveighed__  
-__inveterate__ :two::hammer:  
+__inveterate__ _adj_ :three::hammer:  
 __invoice__ _v_  
 __invoke__  
 __irate__ _v_ :two::hammer:  
@@ -6834,8 +6834,8 @@ __ordnance__ _n_ :three::pencil2::hammer:
 __ore__ _n_ :three::hammer: _Iron ore._  
 __organization__ _n_ :mega:  
 __ornament__  
-__ornate__ _n_ :four::hammer:  
-__orneriness__  
+__ornate__ _n_ :five::hammer:  
+__orneriness__ :two::hammer:  
 __ornery__ :two::hammer:  
 __orographic__ _Winter orographic clouds._  
 __orphrery__  
@@ -7366,6 +7366,7 @@ __play ball__
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play havoc__  
 __play it safe__ _v_ :four::hammer: (play safe)  
+__play second fiddle__  
 __play short__  
 __play the tails off__ _I'm proud of our defense. They played their tails off._  
 __playbook__ _n_ :three::hammer: _The industry's playbook._  
@@ -7561,7 +7562,7 @@ __prep<sup>1</sup>__ _n_? (preparatory?)
 __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
 __prep__ (prepping) _I was prepping for the show._  
 __preposterous__ _adj_ :seven::hammer:  
-__preposterously__  
+__preposterously__ :two::hammer:  
 __preppers__  
 __prepping__ _v_  
 __prequel__  
@@ -7570,7 +7571,7 @@ __presbyopia__ _n_
 __prescience__ _n_  
 __prescient__ _adj_ :four::hammer:  
 __prescribe__ _v_  
-__prescription__ _n_ :three::hammer: _Prescription pills._  
+__prescription__ _n_ :four::hammer: _Prescription pills._  
 __presentation__ :mega:  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
 __preserve__ _A comedy about gorillas in a preserve._  
@@ -7797,7 +7798,7 @@ __quaintly__ :two::hammer:
 __quakes__ _v_  
 __qualify__ _v_  
 __qualm__ _n_ :six: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
-__quandary__ _n_ :seven: Difficult dilemma. _All-Star managers face quandary._  
+__quandary__ _n_ :eight: Difficult dilemma. _All-Star managers face quandary._  
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
@@ -7817,7 +7818,7 @@ __quenches__ _v_
 __querulous__ :two::hammer:  
 __query__ :mega:  
 __questioner__ _n_  
-__quibble<sup>1</sup>__ _n_ :dart: A small objection or criticism.  
+__quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
 __quibble<sup>2</sup>__ _v_ :three::hammer: (quibbled, quibbling) _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
 __quicken__  
@@ -8017,7 +8018,7 @@ __recitalist__
 __reckon__ _v_ :three::hammer:  
 __reckoning__ _n_  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
-__recollection__ _n_ :four::hammer:  
+__recollection__ _n_ :six::hammer:  
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
@@ -8112,7 +8113,7 @@ __remanded__ _v_
 __remarkable__  
 __remarkably__ _adv_ :two::hammer:  
 __remembrance__ _n_ :five: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
-__reminisce__ _v_ (reminiscing)  
+__reminisce__ _v_ :two::hammer: (reminiscing)  
 __reminiscent__  
 __remit__  
 __remittances__ :two::hammer:  
@@ -8211,7 +8212,7 @@ __revue__ _n_ A light theatrical entertainment consisting of a series of short s
 __rezoning__  
 __rhabdomancy__  
 __rhapsodize__  
-__rhetoric__ :astonished::three::hammer: _From divisive rhetoric to civil dialogue._  
+__rhetoric__ _n_ :pencil2::four::hammer: _From divisive rhetoric to civil dialogue._  
 __rheumy__  
 __rhinestone cowboy hat__  
 __rhyming__ :pencil2:  
@@ -9606,6 +9607,7 @@ __stenographer__ :two::hammer:
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __step up__ _v_ :three::hammer:  
 __stepfather__ _(vs godfather)_  
+__stepladder__ _n_  
 __steppes__ _n_  
 __stepping stone__  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
@@ -10078,6 +10080,7 @@ __teeing up__ _v_
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :eight: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
+__tektite__ _n_ :pencil2:  
 __telegenic__  
 __televangelist__ _n_  
 __televised__  
