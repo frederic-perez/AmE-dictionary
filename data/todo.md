@@ -1,23 +1,4 @@
 
-__bereavement__  
-__putty__ _n_ :mega:  
-__tip-top__ _adj_ _informal_ Excellent.  
-__fucko__ _n_ (?)  
-__immigration__ :mega:  
-__junk__ _v_ _Google is junking the app Google+._  
-__juggernaut__ (?)  
-__rule of law__  
-__leeway__  
-__armageddon__  
-
-__safe word__ _Do you have a safe word?_  
-__vanity__ _n_ (in the bathroom)  
-__tomfoolery__  
-__on the verge__  
-__jarred__  
-__pull someone's leg__  
-__crank__ _v_ (?)  
-__single out__ _v_  
 __willy nilly__  
 __go apeshit__  
 __longhand__  

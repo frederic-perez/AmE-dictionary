@@ -776,6 +776,7 @@ __ardent__ :two::hammer: _He was one of her most ardemt suitors._
 __arduous__  
 __arguably__  
 __arm bands__ _n_ :es: manguitos  
+__armageddon__  
 __armload__  
 __armory__  
 __arms embargo__  
@@ -1173,7 +1174,7 @@ __bequeathed__ _v_ :six::hammer:
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :seven: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_ :two::hammer:  
-__bereavement__ _n_ :three: State of sorrow over the death or departure of a loved one.  
+__bereavement__ _n_ :four: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_  
 __berm__ _n_  
@@ -2579,7 +2580,7 @@ __cramp__ _n_ :three::hammer: (cramps)
 __cramped__ _v_ :two::hammer:  
 __crank out__  
 __crank<sup>1</sup>__ _n_ :three::hammer: _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
-__crank<sup>2</sup>__ _v_ _Cranked the engine._  
+__crank<sup>2</sup>__ _v_ :two::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
 __crash course__  
@@ -4237,6 +4238,7 @@ __fruition__ The realization or fulfilment of a plan or project. _The plans have
 __frumpy__  
 __fuchsia__  
 __fucking A__ :two::hammer:  
+__fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
 __fudge__ _v_ :two::hammer:  
 __fudging__ _Fudging statistics._  
@@ -5212,6 +5214,7 @@ __imbrued__ _Imbrued ground._
 __imbue__ _v_ :three: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immerse__ _v_  
 __immigrated__  
+__immigration__ :mega:  
 __immobile__  
 __imp__ _Its imp genius._  
 __impact__ _Sterling struggled to make an impact in the second half._  
@@ -5519,7 +5522,7 @@ __jowly__
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
-__juggernaut__ _n_ :eight::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
+__juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice boxes__ :camera:  
 __juicy__ :two::hammer:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
@@ -5539,7 +5542,8 @@ __juncture__ _n_ :five: A juncture is a crucial point in time when a decision mu
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __juniper berries__  
 __juniper__  
-__junk__ _The "don't touch my junk" uproar over intrusive TSA pat-downs._  
+__junk<sup>1</sup>__ _n_ _The "don't touch my junk" uproar over intrusive TSA pat-downs._  
+__junk<sup>2</sup>__ _v_ _Google is junking the app Google+._  
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ _n_ :three::hammer:  
@@ -5796,7 +5800,7 @@ __leer<sup>1</sup>__ _v_ (leering) :four: :pencil2: _v_ Look or gaze in a lasciv
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leer__ _v_  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :four: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :five: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg up__ _Area's 2 reigning congressmen have leg up on funding._  
 __legal tack__  
@@ -6787,6 +6791,7 @@ __on the docket__
 __on the hoof__  
 __on the run__  
 __on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
+__on the verge__  
 __on three__ _On three: One, two, three!_  
 __on top of that__ _phr_ :two: _On top of that, ..._  
 __on track__ _He appears to be on track to play._  
@@ -7714,6 +7719,7 @@ __pukingly__ _He was pukingly ill._
 __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
 __pull away__ :two::hammer:  
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
+__pull someone's leg__  
 __pull strings__  
 __pull yourself together__  
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
@@ -7779,7 +7785,7 @@ __putt__ _Jason missed a 5-foot par putt._
 __putter__ _v_ :three::hammer: (puttered)  
 __putting aside__  
 __putty knife__ :es: espátula  
-__putty__ _n_ :six::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
+__putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __pylon__ _n_  
 __pyres__ _n_  
 __pyrheliometer__ _n_  
@@ -8383,7 +8389,7 @@ __ruffles__
 __rug > sweep it under the rug__  
 __rug__ _n_  
 __rugged__ _He was red carded for a rugged foul._  
-__rule of law__ :two::hammer:  
+__rule of law__ _n_ :three::hammer:  
 __rule out__ _v_  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ :two: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
@@ -8426,6 +8432,7 @@ __saddle__ _A saddle of meat._
 __sadism__ _n_  
 __sadistic__ _adj_  
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
+__safe word__ _Do you have a safe word?_  
 __safeguard__  
 __safekeeping__  
 __safety net__  
@@ -8971,7 +8978,7 @@ __sinewy__ _adj_ :five::hammer: _A sinewy man._
 __sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
-__single out__ _v_ :two: To select one from a group and treat differently.  
+__single out__ _v_ :three: To select one from a group and treat differently.  
 __singletree__ _Singletree plow._  
 __sinkhole__ _n_ :two::hammer:  
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
@@ -10260,6 +10267,7 @@ __tinker__ _v_
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
 __tip over__ _v_  
+__tip-top__ _adj_ _informal_ Excellent.  
 __tipoff__ _n_ :two::hammer: (tip-off)  
 __tipple__ _v_ :five::hammer: (tippled)  
 __tipsily__  
@@ -10313,6 +10321,7 @@ __toll__ _v_ :two::hammer: (tolls, tolling) _Church bells tolling._ _The bell to
 __tom__ (cat?)  
 __tomboy__  
 __tomcat__  
+__tomfoolery__ _n_  
 __ton__ _A metric ton._  
 __tone-deaf__  
 __tong__  
@@ -10791,6 +10800,7 @@ __vandals__
 __vane__ _n_ :four::hammer: _A smooth metal weather vane._ _A weather vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanity plate__ _n_  
+__vanity__ _n_ (in the bathroom)  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _I'm with a beer smoking on my vape._  
