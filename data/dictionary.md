@@ -1942,6 +1942,7 @@ __catechism__ :two::hammer::pencil2:
 __caterwauling__  
 __catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
+__cathartic__  
 __cathedral ceiling__ :camera::two::hammer:  
 __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He's catnip to women._ _Syn_ catmint  
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
@@ -2747,6 +2748,7 @@ __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed en
 __cuss__ _v_ :six::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __custody__ _Finally my house returned to my custody._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
+__customs__ _n_ (at airport)  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut me a little slack__  
 __cut-and-dry task__  
@@ -3048,7 +3050,7 @@ __dirty boogie__
 __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
 __dis__ _n_ :two::hammer:  
 __disabuse__ _v_ :dart: To free from a falsehood or misconception.  
-__disaffected__ _adj_  
+__disaffected__ _adj_ :two::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disastrous__  
@@ -3465,7 +3467,7 @@ __elderflower__
 __elderly__ :es: tercera edad  
 __eldest__ (is this right?)  
 __elective__ _Other students can take up to four fine arts electives._  
-__elegy__  
+__elegy__ :two::hammer:  
 __elevator boy__  
 __elevator control box__  
 __elevator operator__ :camera:  
@@ -3850,7 +3852,7 @@ __fiefdom__
 __field__ _v_ :nine: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
 __fierce__ :two::hammer:  
-__fiery__  
+__fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
 __fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
 __fifer__  
 __fifth column__ :astonished: _A fifth column preparing to rise up and join the security forces._  
@@ -4461,6 +4463,7 @@ __gnashing__
 __gnat__ _n_ :three::hammer: (insect?)  
 __gnaw__ _v_ :eight: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __go a long way__ _Go a long way toward minimizing damage._  
+__go apeshit__  
 __go awry__ :two::hammer:  
 __go dutch__  
 __go for it!__  
@@ -4668,7 +4671,7 @@ __guise__
 __guitar case__ :camera:  
 __gulf__ _n_ :three::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._  
 __gullibility__  
-__gullible__ _adj_ :five: Naive and easily deceived or tricked.  
+__gullible__ _adj_ :six: Naive and easily deceived or tricked.  
 __gullies__  
 __gulls__  
 __gully__ _We had a real gully washer in the forenoon._  
@@ -4801,7 +4804,7 @@ __hardwood__ :two::hammer: _The hardwood floor._
 __hardy__  
 __harebrained__  
 __hares__ _n_  
-__harissa__  
+__harissa__ :two::hammer:  
 __hark__ _v_ :two::hammer: (harking)  
 __harmonize__ _v_  
 __harness__ _v_ :two::hammer: _Harnessing big data._  
@@ -5547,6 +5550,7 @@ __junk<sup>2</sup>__ _v_ _Google is junking the app Google+._
 __junker__  
 __junket__ _The championship game junket._  
 __junta__ _n_ :three::hammer:  
+__jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __jut out__ _The head juts out of the wall._  
 __jutted__ _v_  
@@ -5972,7 +5976,7 @@ __long shot__
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longbow__ _n_ :three::hammer:  
-__longhand__ _n_ :two: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
+__longhand__ _n_ :three: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
 __longstanding__ :two::hammer:  
 __longtime__ _The longtime dictator._  
@@ -5994,6 +5998,7 @@ __lope__ _v_
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __loquacious__  
+__loquat__ _n_  
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __loss one's marbles__ _idiom_ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
@@ -6650,6 +6655,7 @@ __non-denominational__ _Non-denominational services._
 __non-exempt__ _Non-exempt position._  
 __non-perishables__  
 __nonce__  
+__nonchalance__ _n_  
 __nonchalant__ _adj_ :five: Behaving calmly and not seeming interested in anything or worried about anything.  
 __nonchalantly__ _adv_ :three: In a nonchalant manner.  
 __noncommittal__ _adj_ :three::hammer:  
@@ -7049,10 +7055,12 @@ __parliament__ :pencil2::two::hammer:
 __parlor__  
 __parochial__ :two::hammer:  
 __parolee__ _n_  
+__paroxysm__  
 __parried__ _v_  
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
 __parse__ _v_  
+__parsley__  
 __parsnip__  
 __parsonage__ :pencil2:  
 __partake__ _v_ :eight::hammer: (partaken, partaking)  
@@ -7144,7 +7152,7 @@ __pen<sup>1</sup>__ _n_ _Cricket pen._
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb "pencher") A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
-__pendant__ _n_ :three::hammer: :es: colgante  
+__pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
 __penitents__ _n_  
 __penknife__ :two::hammer:  
 __pennant races__  
@@ -9790,7 +9798,7 @@ __stunt<sup>2</sup>__ _v_ :three::hammer: (stunted) _Movement stunted during the
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
-__sturdy__ :two::hammer:  
+__sturdy__ _adj_ :three::hammer:  
 __stutter__ _v_ :two::hammer:  
 __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart.  
 __suave__ _adj_ :four::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
@@ -11140,7 +11148,7 @@ __wilfull__
 __will__ _v_  
 __willful__  
 __willfully__  
-__willy-nilly__ _adv_ :five: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
+__willy-nilly__ _adv_ (willy nilly) :six: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __wilt__ _v_  
 __wilted__ _v_ :seven::hammer: (wilting) _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
@@ -11343,7 +11351,7 @@ __zero hour__
 __zero in__ _v_ :two::hammer: _I zeroed in on the first item._  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
-__zesty__  
+__zesty__ :two::hammer:  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  

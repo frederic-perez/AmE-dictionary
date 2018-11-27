@@ -1,23 +1,4 @@
 
-__willy nilly__  
-__go apeshit__  
-__longhand__  
-__gullible__  
-
-__pendant__ _The pendant lamps._  
-__fiery__ :two::hammer: _A fiery Tabasco-ish sauce._  
-__jus__  
-__loquat__  
-__zesty__  
-__harissa__  
-__sturdy__  
-__parsley__  
-__customs__ _n_ (at airport)  
-__disaffected__  
-__elegy__  
-__nonchalance__  
-__paroxysm__  
-__cathartic__  
 __laurels__  
 __hayfever__  
 __stone__ _n_ :two::hammer: _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
