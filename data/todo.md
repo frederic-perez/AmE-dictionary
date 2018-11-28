@@ -1,23 +1,4 @@
 
-__laurels__  
-__hayfever__  
-__stone__ _n_ :two::hammer: _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
-__run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
-__discharge__ _v_ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
-__foray__  
-__revocation__  
-__clear-cut__ _Adam's guilt isn't so clear-cut._  
-__riotous__  
-__angle__ _v_  
-__smug__ _adj_  
-__tench__ _n_  
-__yurt__ _n_  
-__declutter__ _v_  
-__range__ _v_ _This ranges from clearing out cupboards to limming down your diary._  
-__tactful__  
-__range__ _n_ _A range of details._  
-__ratchet__  
-__induction__ _n_  
 __scathing__  
 __tirade__  
 __baloney__  

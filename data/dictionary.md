@@ -690,6 +690,7 @@ __anecdotal__ :mega:
 __anemometer__ _n_ :two::hammer:  
 __anew__ _adv_ :four::hammer:  
 __angle iron__  
+__angle__ _v_  
 __angler fish__ _n_ :camera:  
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
@@ -2168,7 +2169,7 @@ __cleanse__ _v_
 __cleanser__ _n_  
 __clear air__  
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
-__clear-cut__  
+__clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam's guilt isn't so clear-cut._ _Syn_ definite  
 __clear__ _v_ _Clearing the hurdle._  
 __clearances__ _n_  
 __clearinghouse__ :two::hammer:  
@@ -2855,6 +2856,7 @@ __deck railing__
 __deck__ _v_ :four::hammer: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
 __decline__ _n_  
+__declutter__ _v_  
 __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommissioning process._  
 __decommits__  
 __decongestant__  
@@ -3057,7 +3059,7 @@ __disastrous__
 __disavow__ _v_ :two::hammer: (disavowed)  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
-__discharge__ _v_ :eight::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
+__discharge__ _v_ :nine::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
 __disclaimer__ _n_  
 __discombobulate__ _v_ :pencil2:  
 __discontinued__ _v_  
@@ -4109,7 +4111,7 @@ __for-profit__
 __forage<sup>1</sup>__ _n_  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
 __forager__ _n_ :two::hammer: (foragers)  
-__foray__ _n_ :six: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ :es: incursión  
+__foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ :es: incursión  
 __forbear__ _v_  
 __forbearance__  
 __forceful__ _A forceful pitch._  
@@ -4847,7 +4849,7 @@ __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensi
 __hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
-__hay fever__ :two::hammer: _I suffer from hay fever congestions._  
+__hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _A 465-yard par with a water hazard._  
@@ -5326,7 +5328,7 @@ __indispensable__
 __indomitable__ :two::hammer: _Indomitable will._  
 __inducements__  
 __induct__  
-__induction__ :three::hammer: _Induction hall._  
+__induction__ _n_ :four::hammer: _Induction hall._  
 __inebriated__  
 __ineffectual.__  
 __inequitable__  
@@ -5754,6 +5756,7 @@ __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television 
 __laughingstock__  
 __launch__ _v_ _Launching the projectile/friend._  
 __laureate__  
+__laurels__  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
 __lavishly__ _adv_ :three::hammer:  
@@ -7925,7 +7928,8 @@ __ranch hand__ _He works as a ranch at the prison._
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
 __rancor__ _n_  
 __randy__  
-__range__ _Range war._  
+__range<sup>1</sup>__ _n_ :two::hammer: _A range of details._ _Range war._  
+__range<sup>2</sup>__ _v_ _This ranges from clearing out cupboards to limming down your diary._  
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
@@ -7957,7 +7961,7 @@ __rat race__
 __rat-fuck__ _v_  
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
-__ratchet__ _n_ :two::hammer:  
+__ratchet__ _n_ :three::hammer:  
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
@@ -8222,6 +8226,7 @@ __revile__ _v_ :two::hammer:
 __revisionist__  
 __revisit__ _v_  
 __revive__ _v_ _To revive unemployment benefits._  
+__revocation__  
 __revue__ _n_ A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. :es: revista, show  
 __rezoning__  
 __rhabdomancy__  
@@ -8270,7 +8275,7 @@ __ringlets__
 __ringmaster__  
 __ringside__  
 __rink__ _n_  
-__riotous__  
+__riotous__ :two::hammer:  
 __rip your wiring out__  
 __rip__ _The bullets rip._  
 __riparian__ _Riparian woodland._  
@@ -8410,6 +8415,7 @@ __rummy__
 __rumor mill__ _Fighting the rummor mill._  
 __run amok__ :two::hammer:  
 __run errands__  
+__run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :three: Ordinary, average.  
@@ -9202,7 +9208,7 @@ __smothering__
 __smouldering__  
 __smudge__  
 __smudges__  
-__smug__ _adj_ :nine: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
+__smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
 __smugly__ _adv_ :six: In a self-satisfied manner. _To laugh smugly._  
 __smugness__  
 __smut__ _They want to report smut._  
@@ -9680,7 +9686,7 @@ __stolid__ :two::hammer:
 __stomp__ _v_  
 __stomping__ _v_  
 __stone-walling__  
-__stone__ _Lose a stone in four weeks._  
+__stone__ _n_ :three::hammer: _Lose a stone in four weeks._ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
@@ -9992,6 +9998,7 @@ __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they wo
 __taciturn__  
 __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
 __tacky__ :two::hammer:  
+__tactful__  
 __tad__ _n informal_ :three::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
@@ -10114,6 +10121,7 @@ __tempestuous__
 __template__ :mega:  
 __tenable__ _adj_  
 __tenants__  
+__tench__ _n_  
 __tenderizze__ _v_  
 __tendinitis__  
 __tendrils__ _n_  
@@ -11338,7 +11346,7 @@ __yuan__ _n_
 __yuck__ _interj slang_ Used as an expression of disgust or repugnance. _Yuck, it's spinach again!_  
 __yule__ :two::hammer: _If you believe, yule receive!_  
 __yummy__  
-__yurts__ _n_  
+__yurt__ _n_ :two::hammer: (yurts)  
 __zaniness__ :two::hammer:  
 __zany__ _adj_ :five: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
 __zeal__ _n_  
