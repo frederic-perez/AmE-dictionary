@@ -1,27 +1,4 @@
 
-__scathing__  
-__tirade__  
-__baloney__  
-__shy__ _v_ (shied)  
-__colossus__  
-__leapfrog__ _v_ (leapfrogging)  
-__shun__ _v_  
-__coracles__  
-__mar__ _v_ (marred)  
-__jigsaws__  
-__stately__  
-__outing__ _n_  
-__strobe__ _Strobe lighting._  
-__dusters__ _n_ _My grandad sold dusters._  
-__gnaw__ _v_  
-__lurch__ _v_ (lurched)  
-__sashayed__ _v_  
-__tumbleweed__ _n_  
-__cajole__ _v_ (cajoling)  
-__contingency__ _Contingency plan._  
-__rite__  
-__roundabout__  
-
 __relay__ _A relay race._  
 __folly__  
 __overtake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  

@@ -982,7 +982,7 @@ __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-
 __balm__  
 __balmy__ _The air was sweet and balmy._  
 __balogna__ _n_  
-__baloney__ _n informal_ Nonsense.  
+__baloney__ _n informal_ :two: Nonsense.  
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bamboozle__ _v_  
@@ -1779,7 +1779,7 @@ __caftan__ _n_ :four::hammer: (caftans)
 __cagey__ _adj_  
 __cagily__ _adv_  
 __cahoots__  
-__cajole__ _v_ :four::hammer: (cajoled, cajoling)  
+__cajole__ _v_ :five::hammer: (cajoled, cajoling)  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
@@ -2282,6 +2282,7 @@ __collusion__ _n_ :five::hammer:
 __colocation > data colocation__  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
+__colossus__  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
 __combat__ _n_  
@@ -2432,7 +2433,7 @@ __contextualize__ _v_ :dart::three:
 __contiguous > the contiguous U.S.__  
 __continence__  
 __contingency plan__ :two::hammer:  
-__contingency__ _n_ :four::hammer: (contingencies) _The contingency response missions._  
+__contingency__ _n_ :five::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
@@ -2479,7 +2480,7 @@ __copping__ _v_ :two::hammer: _You're copping to a murder beef._
 __cops and robbers__ (play)  
 __copse__ _n_ :three::hammer: _A brushy copse._  
 __copter__ _Navi copter._  
-__coracle__  
+__coracle__ :two::hammer: (coracles)  
 __cord blood__  
 __cord__ _n_ :camera:  
 __cordite__ _n_  
@@ -3385,6 +3386,7 @@ __duplicitous__
 __durable__ :two::hammer: _The end of durable Red John story line is a new beginning._  
 __duress__ _n_ :four::hammer:  
 __dust devils__  
+__dusters__ _n_ _My grandad sold dusters._  
 __dustman__  
 __dustpan__ :two::hammer:  
 __dusty__ _A dusty brand._  
@@ -4463,7 +4465,7 @@ __gnarled__ _v_ :two::hammer: _Gnarled fingers._
 __gnash__ _Gnasing teeth._  
 __gnashing__  
 __gnat__ _n_ :three::hammer: (insect?)  
-__gnaw__ _v_ :eight: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
+__gnaw__ _v_ :nine: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __go a long way__ _Go a long way toward minimizing damage._  
 __go apeshit__  
 __go awry__ :two::hammer:  
@@ -5485,7 +5487,7 @@ __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwi
 __jibes__ :two::hammer: _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
-__jigsaw__  
+__jigsaw__ :two::hammer: (jigsaws)  
 __jilt__ _Jilted at the altar._  
 __jimmied__ _v_  
 __jingoism__ _n_ :three::hammer:  
@@ -5787,7 +5789,7 @@ __lean<sup>1</sup>__ _adj_ :three::hammer: _He is lean fast._ _Lean food._ _A le
 __lean<sup>2</sup>__ _v_  
 __leap day__  
 __leap year__  
-__leapfrogging__ _v_  
+__leapfrog__ _v_ :two::hammer: (leapfrogging)  
 __leaps and bounds__ _To grow in leaps and bounds._  
 __learn the ropes__ :two::hammer:  
 __lease__ :two::hammer:  
@@ -6052,7 +6054,7 @@ __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into th
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ _v_ :five::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
+__lurch__ _v_ :six::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
@@ -6142,7 +6144,7 @@ __mantle<sup>1</sup>__ _n_ :three: An important role or responsibility that pass
 __mantle<sup>2</sup>__ _v_  
 __mantrap__ _n_  
 __maple__  
-__mar__ _v_ :seven::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
+__mar__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
 __marauder__ :two::hammer:  
 __marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
@@ -6894,7 +6896,7 @@ __outgoing__
 __outgrowth__  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
-__outing__ _n_ :seven: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
+__outing__ _n_ :eight: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
 __outlander__  
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
@@ -8288,7 +8290,7 @@ __ripple__ _v_ :four::hammer: (rippled)
 __rise__ _v_  
 __risers__  
 __risible__  
-__rite__ _n_  
+__rite__ _n_ :two::hammer:  
 __ritzier__  
 __ritziest__ _One of the ritziest restaurants._  
 __rived__ _v_  
@@ -8371,6 +8373,7 @@ __rouler__ _Will 'NCIS' roulerinto a new city next year?_
 __round out__ _v_ :two::hammer:  
 __round-trip__ :two::hammer: _A round-trip ticket._  
 __round__ _v_  
+__roundabout__  
 __roundup__  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
@@ -8502,7 +8505,7 @@ __sappy__ _Sappy smile._
 __sarcophagus__  
 __sartorial__  
 __sash__ _n_ :two::hammer: _A sash cord._  
-__sashay__ _v_ :four: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
+__sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sass__ _v_ (sassed)  
 __sassy__  
 __satchel__ _n_  
@@ -8551,7 +8554,7 @@ __scar__ _v_ _CIA to=ture scarred man's psyche for years._
 __scarce__ :two::hammer:  
 __scarcely__ :astonished: _The executioner seemed scarcely older than Rob._  
 __scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.  
-__scathing__ _adj_ :nine: Bitterly severe. _His scathing indictment of Congress._  
+__scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._  
 __scattershot__ :two::hammer:  
 __scenic__  
 __scented__  
@@ -8929,7 +8932,7 @@ __shudderings__ _n_
 __shudders__ _v_ :two::hammer:  
 __shuffle off__  
 __shuffling__ _v_ :two::hammer:  
-__shun__ _v_ :nine: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
+__shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
 __shunting__ _v_ _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>1</sup>__ _interj_  
 __shush<sup>2</sup>__ _v_  
@@ -8940,7 +8943,7 @@ __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Hoc
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
 __shy of__ :two::hammer::astonished: _Just shy of its highest mark._  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
-__shy<sup>2</sup>__ _v_ :three::hammer: _Edgerton does not shy away from cultural observations._  
+__shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy away from cultural observations._  
 __shylock rackets__  
 __shylock__  
 __shylocking__  
@@ -9579,7 +9582,7 @@ __starlings__ _n_
 __startling__ :two::hammer:  
 __stat sheet__ :two::hammer: _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
 __stat__ An abbreviation of the Latin _statim_, "immediately," often used in medical contexts.  
-__stately__ _adj_ :three: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
+__stately__ _adj_ :four: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
 __stateroom__ _n_ :two: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_  
@@ -9769,7 +9772,7 @@ __stripling__ _n_
 __strive__ _v_ :three::hammer:  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
-__strobe__ _Writhing in the strobe lights after dark._  
+__strobe__ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
 __stroll__ _v_  
 __strong accent__  
 __strongman__  
@@ -10289,7 +10292,7 @@ __tipple__ _v_ :five::hammer: (tippled)
 __tipsily__  
 __tipster__ _n_ :two::hammer: (tipsters)  
 __tiptoe__ _v_ To walk or move quietly on one's toes.  
-__tirade__ _n_ :five::hammer:  
+__tirade__ _n_ :six::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
 __tit for tat__ _n_ :four::hammer:  
@@ -10551,6 +10554,7 @@ __tulle__ _Tulle-covered arch._
 __tumble__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._ _Socks tumble._ _Discovery of the guidelines soon tumbled into the local paper._ _Tumbling gasoline prices._  
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
+__tumbleweed__ _n_  
 __tunnel vision__ :two::hammer:  
 __tuppence__  
 __turgid__ _adj_ :three::hammer:  
