@@ -506,6 +506,16 @@ class Game(object):
             if user_response == 'q':
                 do_quit = True
 
+    def print_nine_m(self):
+        """Method aimed at learning definitions"""
+        index_9m = get_index(10)
+        for entry in self.list[index_9m]:
+            tokens = entry.split()
+            do_print = False
+            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+            clean_headword = headword.replace('__', '')
+            print clean_headword
+
 # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
 DICTIONARY = '../data/dictionary.md'
 
@@ -516,4 +526,5 @@ CHECKER.check_undef_high_freq_keywords()
 
 GAME = Game(DICTIONARY)
 GAME.gather_high_frequency_headwords()
+GAME.print_nine_m()
 GAME.play()
