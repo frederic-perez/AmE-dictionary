@@ -1,24 +1,4 @@
 
-__cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
-__sanguine__  
-__situation__ _Sorry guys, we have a situation here._  
-__heart and soul__  
-__sophos__ (?)  
-__sophomore__ (from Greek?)  
-__droppings__ _n pl_  
-
-__relay__ _A relay race._  
-__folly__  
-__overtake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
-__undertake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
-__manoeuvre__ _n_ _The Addison Lean manoeuvre._  
-__clutch__ _n_ _The clutches of the Brussels bureaucrats._  
-__ludicrous__  
-__woeful__ _Our woeful train system._  
-__appalling__  
-__unfazed__  
-__refurbishment__  
-__languish__ _v_  
 __stipulation__ _n_  
 __homophobic__  
 __cesspool__  

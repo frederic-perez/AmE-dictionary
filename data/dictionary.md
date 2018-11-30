@@ -735,7 +735,7 @@ __apostasy__
 __apostate__ _n_ :three::hammer: (apostates)  
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
-__appalling__ _adj_ :three: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
+__appalling__ _adj_ :four: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
 __appeal__ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
@@ -1919,6 +1919,7 @@ __castigation__ _n_
 __castoff__ _n_  
 __casualties__  
 __cat fish__ _(?)_  
+__cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
 __catacombs__  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
@@ -2228,7 +2229,7 @@ __clunking__
 __clunky__ _adj_ :three::hammer:  
 __clutch bag__  
 __clutch player__  
-__clutch<sup>1</sup>__ _n_ :two::hammer: _He was a dominant player in the clutch._ _Clutches for iPhone._  
+__clutch<sup>1</sup>__ _n_ :three::hammer: _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._  
 __clutch<sup>2</sup>__ _v_ :five::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
 __co-op__ _n_ :nine: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
@@ -3323,7 +3324,7 @@ __drop-in__ _A drop-in center._
 __drop__ _n_  
 __dropout__ _n_  
 __dropping hands__  
-__droppings__ _n_  
+__droppings__ _pl n_ :two::hammer:  
 __drought__ _n_ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drove__ _They buy tickets in droves._  
 __drover__ _n_ :two::hammer:  
@@ -4080,7 +4081,7 @@ __foldaway__ _Foldaway cot._
 __folded__ _The American Soccer League folded in 1931._  
 __folk__ _n_ :two::hammer: (plural)  
 __follow suit__ _idiom_ :four: To do as another has done; follow an example.  
-__folly__ _n_ :six: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
+__folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __food processor__  
 __food-handler's permit__  
 __foodie__ _A foodie and a friend._  
@@ -4881,6 +4882,7 @@ __hearing__ _law_
 __hearkened__  
 __hearsay__ _n_ :six::hammer: _Hearsay suggests that green apples can induce such a predicament._  
 __hearse__  
+__heart and soul__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
@@ -5715,7 +5717,7 @@ __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
-__languish__ _v_ (languishing)  
+__languish__ _v_ (languishing) :two::hammer:  
 __lank__ _Her hair hung in lank locks._  
 __lanky__ _adj_ :three::hammer:  
 __lantanas__ _n_  
@@ -6029,7 +6031,7 @@ __lowlife__
 __lowlights__  
 __lowly__ :two::hammer: _The lowly news reporter._  
 __lucifer match__  
-__ludicrous__ _adj_ :pencil2::nine: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
 __lug__ _v_ :three::hammer:  
@@ -6136,6 +6138,7 @@ __manifesto__ _n_ :two::hammer: _My own workplace manifesto._
 __manipulation__  
 __manna__ _n_  
 __mannered__  
+__manoeuvre__ _n_ _The Addison Lean manoeuvre._  
 __manor__ _A medieval manor house._  
 __manta__ _n_  
 __mantel piece__ _n_ :three::hammer:  
@@ -6960,7 +6963,8 @@ __overshadowed__ _v_
 __oversight__ _n_ :three::hammer: _An oversight board._ _Oversight committee._  
 __overstating__ _v_  
 __overt__ _adj_ :two::hammer:  
-__overtake__ _n_ _He made overtakes._  
+__overtake<sup>1</sup>__ _n_ _He made overtakes._  
+__overtake<sup>2</sup>__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
 __overtime__ :es: horas extras  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
@@ -8087,7 +8091,7 @@ __reffing__
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
-__refurbishment__  
+__refurbishment__ :two::hammer:  
 __refuse__ _n_  
 __regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country._ _Despite his homely perch Robert felt regal._  
 __regaled__  
@@ -8115,6 +8119,7 @@ __rejoiced__ _v_
 __rejoinder__ _n_ :two::hammer:  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ _adj_ :three::hammer:  
+__relay__ _A relay race._  
 __relegation__ _Sports_  
 __relent__ _v_ :three::hammer: (relented)  
 __relentless__ :three::hammer: _I relentlessly go to YouTube to watch all new footage._  
@@ -8492,7 +8497,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandy-haired__  
 __sangfroid__  
-__sanguine__ _adj_ :three::hammer::astonished:  
+__sanguine__ _adj_ :four::hammer::astonished:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
@@ -9007,7 +9012,7 @@ __sitter__ _n_
 __sitting pretty__ :two::hammer:  
 __sitting<sup>1</sup>__ _n_  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
-__situation__ _We've got a situation in there!_  
+__situation__ :two::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
 __sivvied__ _v_ (?)  
 __six-hundred-pound gorilla__ (also eight-hundred-pound gorilla or nine-hundred-pound gorilla) A powerful force; a virtually irresistible influence.  
 __sizable__ :two::hammer: _Clinton's sizable lead._  
@@ -9322,7 +9327,7 @@ __sooner > sooner rather than later__
 __soot__ :two::hammer:  
 __sooty__  
 __sop__ _A wine sop._  
-__sophomore__  
+__sophomore__ (from Greek?) :two::hammer:  
 __sopping__ _v_  
 __soppy__  
 __sorbet__ _n_ :mega:  
@@ -10663,6 +10668,7 @@ __understandably__ :two::hammer:
 __understated__ _adj_  
 __understatement__  
 __understudy__ _v_  
+__undertake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
 __undertow__  
 __underwhelm__ _v_ To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::three::hammer: Failing to make a positive impact or impression; disappointing.  
@@ -10682,7 +10688,7 @@ __unencumbered__ _v_ _Now you can travel unencumbered._
 __unequivocally__  
 __unethically__ _He had acted unethically and for that I could never trust him as editor._  
 __unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__ _v_ :six::hammer: _They are unfazed by all fof this._  
+__unfazed__ _v_ :seven::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
@@ -11221,7 +11227,7 @@ __wizened__ _adj_ :three: "You're looking quite wizened today," is a something y
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
-__woeful__ :two::hammer:  
+__woeful__ _adj_ :three::hammer: _Our woeful train system._  
 __woefully__ _adv_ :five::hammer: _Her hand landed woefully on her forehead._  
 __wogs__ _n_  
 __wolfe range__  
