@@ -1,4 +1,15 @@
 
+__carafe__ _n_  
+__downspout__ _n_  
+__fullness__  
+__listing__ _n_  
+__situation__  
+__contingency__  
+__levy__ _v_  
+__exe__ :mega:  
+__in stitches__ _idiom_  
+__laughing very hard__  
+
 __parkour__  
 __half-cocked__  
 __overtone__ _n_ (?)  
