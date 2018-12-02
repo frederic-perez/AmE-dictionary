@@ -1,4 +1,14 @@
 
+__conflagration__ _n_  
+__baker's dozen__  
+__preen__ _v_  
+__foul play__ :three:  
+__my ass__  
+__heckler__ _n_  
+__greener pastures__  
+__vested__ _A vested interest._  
+__husbandry__  
+
 __carafe__ _n_  
 __downspout__ _n_  
 __fullness__  
