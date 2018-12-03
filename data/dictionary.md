@@ -961,6 +961,7 @@ __bailiff__ :two::hammer:
 __bailiwick__  
 __bailout__ _n_ :four::hammer:  
 __bake in__ _v_  
+__baker's dozen__  
 __bakeware__  
 __baking soda__ _n_ Sodium bicarbonate.  
 __balderdash__  
@@ -1860,6 +1861,7 @@ __captain__ _v_
 __captaincy__ :two::hammer:  
 __capuchin monkey__ :mega:  
 __carabiner__ _n_ :camera::two::hammer:  
+__carafe__ _n_  
 __carapaces__ _n_  
 __carat__  
 __caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
@@ -2393,6 +2395,7 @@ __confidant__ _n_ :six::hammer: (also confidante)
 __confide__ _v_ :three::hammer: (confided)  
 __confidence__  
 __config__ :mega: _A config file._  
+__conflagration__ _n_  
 __conflate__ _v_  
 __confound__ _v_ :six::hammer: (confounded, confounding)  
 __congenial__ _adj_ :three::hammer:  
@@ -2434,7 +2437,7 @@ __contextualize__ _v_ :dart::three:
 __contiguous > the contiguous U.S.__  
 __continence__  
 __contingency plan__ :two::hammer:  
-__contingency__ _n_ :five::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
+__contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
@@ -3243,6 +3246,7 @@ __downplay__ _v_ :four::hammer: (downplayed)
 __downpour__ _n_ :five::hammer: (downpours) _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::three::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downsides__  
+__downspout__ _n_  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_  
 __downturns__ :two::hammer:  
@@ -3646,6 +3650,7 @@ __excoriation__
 __excruciate__  
 __excruciating__  
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
+__exe__ :mega:  
 __exec__ _n informal_ :three: (execs) An executive. _I'm a retired tech exec._  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_ :two::hammer:  
@@ -4159,7 +4164,7 @@ __fortified wine__
 __fortnight__  
 __foster care__ _n_ :three::hammer:  
 __foul language__  
-__foul play__ _n_ :five::dart: Violence, _esp_ murder.  
+__foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
 __foul-ups__  
 __foul__ _Foul language._  
 __founder__ _v_ :four::hammer: (foundered) _The attempt foundered._ _His plan foundered._  
@@ -4257,6 +4262,7 @@ __full-bodied__ :two::hammer:
 __full-fledged__ :two::hammer: _Full-fledged work._  
 __full-mask helmet__ _n_  
 __fullbacks__ _n_  
+__fullness__  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumbling__ _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fumed__ _v_  
@@ -4583,6 +4589,7 @@ __green day__ :two::hammer:
 __green thumb__ _Not everyone has a green thumb._  
 __green-behimd-the-ears__  
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
+__greener pastures__  
 __greenhorn__  
 __greenhouse__ :two::hammer:  
 __griddle__  
@@ -4907,7 +4914,7 @@ __heavy-handed__
 __hecatombs__  
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
-__heckler__ _n_ :three::hammer:  
+__heckler__ _n_ :four::hammer:  
 __heckling__  
 __hectic__ _adj_ :five::hammer:  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
@@ -5166,7 +5173,7 @@ __hurl__ _v_ :eight: (hurled, hurling) Throw (an object) with great force. _Riot
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurtling__ _v_  
 __husbanded__ _v_ _Rob husbanded his money._  
-__husbandry__ :two::hammer:  
+__husbandry__ _n_ :three::hammer:  
 __hush money__ _A hush money case._  
 __hush up__ _v_  
 __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
@@ -5270,6 +5277,7 @@ __in excess__ _Roper hadn't slept for a period in excess of 24 hours._
 __in fold__  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in short order__  
+__in stitches__ _idiom_  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
@@ -5852,7 +5860,7 @@ __leverage<sup>1</sup>__ _n_ _To exert leverage._
 __leverage<sup>2</sup>__ _v_ :two::hammer:  
 __leviathan__  
 __levied__ _v_ :four::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levy<sup>1</sup>__ _v_ :two::hammer: (levyying)  
+__levy<sup>1</sup>__ _v_ :three::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :three::hammer:  
 __lewd__ _adj_ :three::hammer:  
 __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
@@ -5923,7 +5931,7 @@ __lisp<sup>2</sup>__ _v_
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listening session__  
-__listing__ _n_ :two::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
+__listing__ _n_ :three::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
 __litany__ _n_ :four: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
@@ -6533,6 +6541,7 @@ __mutism__ _n_
 __mutt__ _n_ :five::hammer:  
 __muttering__ _n_  
 __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
+__my ass__  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myriad__ _adj_ :three: Very many.  
 __myrtle__  
@@ -7573,7 +7582,7 @@ __predicament__ :two::hammer: _Hearsay suggests that green apples can induce suc
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
-__preen__ _v_ :seven::hammer: (preened, preening) _She didn't preen for her grandfather._  
+__preen__ _v_ :eight::hammer: (preened, preening) _She didn't preen for her grandfather._  
 __prefab__ _Prefab vacations._  
 __premier__ _adj_  
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
@@ -9012,7 +9021,7 @@ __sitter__ _n_
 __sitting pretty__ :two::hammer:  
 __sitting<sup>1</sup>__ _n_  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
-__situation__ :two::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
+__situation__ _n_ :three::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
 __sivvied__ _v_ (?)  
 __six-hundred-pound gorilla__ (also eight-hundred-pound gorilla or nine-hundred-pound gorilla) A powerful force; a virtually irresistible influence.  
 __sizable__ :two::hammer: _Clinton's sizable lead._  
@@ -10873,7 +10882,7 @@ __vertical farm__
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _We were in this very room._  
-__vested interest__ A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
+__vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ :mega:  
 __vesting__ _The vesting date._  
 __veto__ _v_  
