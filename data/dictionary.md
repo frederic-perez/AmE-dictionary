@@ -168,7 +168,6 @@ __Geronimo wire__ :two::hammer:
 __Get outta here!__ _idiom_  
 __Gibson glass__  
 __Gitmo__ _Guantanamo?_  
-__Give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __Golden Boot__ _The race for the Golden Boot._  
 __Goodyear, Charles__  
 __Gordian knot__ :two::hammer:  
@@ -1981,7 +1980,7 @@ __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
 __cessation__  
-__cesspool__ _n_ :five::hammer: _The journalist cesspool._  
+__cesspool__ _n_ :six::hammer: _The journalist cesspool._  
 __chads__ _n_  
 __chafe__ _v_ :eight::hammer: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafer__ _n_  
@@ -2262,6 +2261,7 @@ __coffers__ _n_ :five::hammer: _San Francisco city coffers._ _State's coffers._
 __cog__ _n_ :six: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cognizant__  
+__cogwheel__  
 __cohesive__ :dart::two::hammer: _A more cohesive layout._  
 __coif__ _Strange coif._  
 __coiffed__  
@@ -2462,7 +2462,7 @@ __conwise__
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook-off__  
-__cooktop__ _n_ :five::hammer: _Ceramic/Electric/Gas cooktop._  
+__cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __cool your jets__  
 __coonass__ :two::hammer: (coonasses)  
@@ -2538,7 +2538,7 @@ __countered__ _Countered kitchen._
 __counterfeit__ :two::hammer: _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __countermand__ _v_  
 __counterpoint__ _n_  
-__countertop__  
+__countertop__ _n_ :two::hammer:  
 __countervail__ _Countervailing evidence._  
 __countless__  
 __country store__  
@@ -4436,6 +4436,7 @@ __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or
 __giridon__  
 __give and take__ _Love don't come easy. It's a game of give and take._  
 __give in__ _I'm never giving in._  
+__give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __give or take__ _idiom_ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
@@ -4752,6 +4753,7 @@ __halcyon__ _Halcyon time of romance._
 __hale__ _A real hale-and-hearty type with a warm smile._  
 __half sibling__  
 __half-baked__ _A half-baked plan to launch a start-up._  
+__half-cocked__  
 __half-wits__  
 __halfback__  
 __hall boy__ _n_  
@@ -4766,6 +4768,7 @@ __hammam__ _n_
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ _v_ :astonished::five::hammer: (hampered)  
 __hamstring__ _n_ :two::hammer:  
+__hand blender__ _n_  
 __handglider__  
 __handily__  
 __handiwork__ :two::hammer:  
@@ -5074,6 +5077,7 @@ __homestand__ _n_ :four: A series of games played at a team's home field.
 __homestead__ _n_ :three::hammer:  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
+__homophobic__  
 __honcho__ _n_ :three::hammer: (honchos)  
 __honeypot__  
 __honeysuckle__  
@@ -5651,7 +5655,7 @@ __knack__ _n_
 __knackered__  
 __knave__  
 __knavish__  
-__kneaded__ _v_ :five::hammer: (kneading)  
+__knead__ _v_ :six::hammer: (kneaded, kneading)  
 __knee-jerk__ _adv_ _(disapproving)_ :four::hammer: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
 __knell__ _n_ :three::hammer:  
@@ -5751,9 +5755,8 @@ __last > next to last__
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
-__latch<sup>1</sup>__ _n_  
-__latch<sup>2</sup>__ _v_  
-__latching__  
+__latch<sup>1</sup>__ _n_ :two::hammer:  
+__latch<sup>2</sup>__ _v_ :two::hammer: (latching_)  
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __latecommer__ _I'm somewhat of a latecomer._  
@@ -5765,6 +5768,7 @@ __laudable__
 __lauded__ _v_  
 __lauds__ _Barber was buried after lauds._  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
+__laughing very hard__  
 __laughingstock__  
 __launch__ _v_ _Launching the projectile/friend._  
 __laureate__  
@@ -6975,6 +6979,7 @@ __overt__ _adj_ :two::hammer:
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
 __overtake<sup>2</sup>__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
 __overtime__ :es: horas extras  
+__overtone__ _n_  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overwheening__  
@@ -7068,6 +7073,7 @@ __pariah__ _n_ :four::hammer:
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
+__parkour__  
 __parlay__ _v_ :four::hammer: (parlayed)  
 __parliament__ :pencil2::two::hammer:  
 __parlor__  
@@ -8022,8 +8028,9 @@ __readying__ _v_ :astonished:
 __reaffirming__  
 __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
 __realtor__ _n_ :three::hammer:  
-__ream<sup>1</sup>__ _v_ :four::hammer: (reamed)  
+__ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
 __ream<sup>2</sup>__ _n_ :pencil2::two::hammer: (reams) _He watched reams on tape._  
+__reamer__ _n_  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
 __reasonable__  
@@ -9684,6 +9691,7 @@ __stinky-winky__ _Stinky-winky front-loader._
 __stintful__  
 __stipend__ _n_ :six::hammer: (stipends)  
 __stipulate__ _v_ :two::hammer:  
+__stipulation__ _n_  
 __stir up a hornet's nest__ _fig_ To create a lot of trouble.  
 __stir<sup>1</sup>__ _n_  
 __stir<sup>2</sup>__ _v_ :two::hammer: (stirred)  

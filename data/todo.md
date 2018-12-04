@@ -1,23 +1,4 @@
 
-__laughing very hard__  
-__parkour__  
-__half-cocked__  
-__overtone__ _n_ (?)  
-__stymied__ (?)  
-__ethos__  
-__countertop__ _n_  
-__cooktop__ _n_  
-__cogwheel__  
-__knead__ _v_  
-__whisk__ _v_  
-__ream__ _v_  
-__reamer__ _n_  
-__hand blender__ _n_  
-__latch__ _n_  
-
-__stipulation__ _n_  
-__homophobic__  
-__cesspool__  
 __backbencher__ :three::hammer: _A Tory backbencher._  
 __modicum__  
 __unswervingly__  
