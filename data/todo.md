@@ -1,3 +1,13 @@
+__blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
+__culinary__ _adj_ Of or relating to a kitchen or to cookery.  
+__indicted__ :mega:  
+__Lady Luck__ _I''m riding with Lady Luck._  
+__elephant in the room__  
+__cross-eyed__ _adj_  
+__emphasize__ _v_ :astonished:  
+__strudel__ _n_  
+__merch__ _n_  
+__booby trap__ _n_  
 
 __squirm__ _v_  
 __huff__ _v_  
