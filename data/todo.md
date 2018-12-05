@@ -1,23 +1,4 @@
 
-__backbencher__ :three::hammer: _A Tory backbencher._  
-__modicum__  
-__unswervingly__  
-__meme__ _n_  
-__upskirt__ _v_ (upskirted)  
-__erstwhile__  
-__yowl__ _n_  
-__prurient__  
-__mane__ _n_  
-__nonchalant__  
-__fallacy__  
-__defuse__ _v_ (defusing)  
-__pop-up__  
-
-__pittance__  
-__tussle__ _n_ :two::shit:  
-__haulier__  
-__whinge__  
-__screech__ _v_ (screeched)  
 __squirm__ _v_  
 __huff__ _v_  
 __puff__ _v_  

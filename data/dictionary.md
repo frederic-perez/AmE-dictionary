@@ -924,6 +924,7 @@ __back-of-house__ _Back-of-house technology._
 __back-office__ _Back-office analytics._  
 __back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
+__backbencher__ :three::hammer: _A Tory backbencher._  
 __backburner__ _n_  
 __backcountry__ _Utah ski resorts offering backcountry adventures._  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
@@ -2906,7 +2907,7 @@ __defrock__ _v_
 __defrost__  
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
-__defuse__ _v_ :six::hammer: (defuses, defusing)  
+__defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __deigned__ _v_  
 __dejected__  
 __deking__  
@@ -3603,7 +3604,7 @@ __er__ :two::hammer: _It does look, er, distinctive._
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
-__erstwhile__  
+__erstwhile__ :two::hammer:  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
@@ -3735,7 +3736,7 @@ __fall into place__
 __fall out of love__  
 __fall over__ _v_  
 __fall short__ _v_ :six: To fail to achieve a goal or target.  
-__fallacy__ :two::hammer: _The lump of coding fallacy._  
+__fallacy__ _n_ :three::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
 __fallible__  
 __falloff__  
@@ -4850,7 +4851,7 @@ __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ :five::hammer: _A record haul of assets seized by Scotland Yard._ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
-__hauler__ _n_  
+__hauler__ _n_ :two::hammer: (or haulier)  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
@@ -6136,7 +6137,7 @@ __manacle__ _n_
 __mandalas__ _n_  
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
-__mane__ _n_ :four::hammer: _A lion's mane._  
+__mane__ _n_ :five::hammer: _A lion's mane._  
 __maneuver__ :two::hammer:  
 __manger__  
 __mangy__ _adj_ :three::hammer:  
@@ -6260,7 +6261,7 @@ __mellow<sup>1</sup>__ _adj_ _Mellow flavor._
 __mellow<sup>2</sup>__ _v_ :two::hammer:  
 __mellowed__  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
-__meme__  
+__meme__ _n_ :two::hammer:  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
 __memo__ _A memo sent to reporters._  
@@ -6395,7 +6396,7 @@ __moat__ _n_ :six::hammer:
 __moccasin__ :two::hammer: (moccasins)  
 __mockie__ _n_ :two::hammer:  
 __moderate__ _v_  
-__modicum__ _n_ :four: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
+__modicum__ _n_ :five: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __mogrify__ _v_  
 __mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
@@ -6677,7 +6678,7 @@ __non-exempt__ _Non-exempt position._
 __non-perishables__  
 __nonce__  
 __nonchalance__ _n_  
-__nonchalant__ _adj_ :five: Behaving calmly and not seeming interested in anything or worried about anything.  
+__nonchalant__ _adj_ :six: Behaving calmly and not seeming interested in anything or worried about anything.  
 __nonchalantly__ _adv_ :three: In a nonchalant manner.  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
@@ -7359,7 +7360,7 @@ __pith-helmeted__
 __pithy__ _adj_ :three: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
 __pitiful__ :two::hammer:  
 __pitmaster__  
-__pittance__  
+__pittance__ _n_ :two::hammer:  
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
 __pivot__ _n_  
 __pivotal__ :two::hammer:  
@@ -7505,7 +7506,7 @@ __poor-boy__ _Poor-boy sandwich._
 __poorly__ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __pop the cherries__  
 __pop-up<sup>1</sup>__ _adj_ :two::hammer: _Hip brand Pynta is holding a pop-up in the East Gallery._  
-__pop-up<sup>2</sup>__ _n_ _A pop-up kitchen._  
+__pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._  
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
 __pop__ _v_ _Kids popping balloons._  
@@ -7723,7 +7724,7 @@ __proxy__ _I'm a proxy for the listener._
 __prude__ _n_  
 __prudent__  
 __prune-o__ :two::hammer:  
-__prurient__ _adj_  
+__prurient__ _adj_ :two::hammer:  
 __pry__ _v_ :nine: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
 __psyche__  
 __psychopathic__  
@@ -8628,8 +8629,8 @@ __scrawl__ _v_ :two::hammer: (scrawled)
 __scrawny__ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
-__screech__ _n_ :two::hammer:  
-__screeched__ _v_ :six::hammer: (screeching)  
+__screech<sup>1</sup>__ _n_ :two::hammer:  
+__screech<sup>2</sup>__ _v_ :seven::hammer: (screeched, screeching)  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
@@ -10601,7 +10602,7 @@ __turpitude__
 __tushie__ _n_ :two::hammer:  
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
 __tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuffle.  
-__tussle__ _n_ :three::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
+__tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussling__ _v_  
 __tut-tutting__  
 __tutelage__  
@@ -10747,6 +10748,7 @@ __unsound__
 __unspooling__ _Unspooling microphone cables._  
 __unstoppable__ :two::hammer: _She is our unstoppable force of nature._  
 __unsung__  
+__unswervingly__  
 __untapped__ _Untapped talent._  
 __untenable__ :two::hammer:  
 __unthawed__ _Unthawed croissant._  
@@ -10796,6 +10798,7 @@ __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._
 __upsetting__  
 __upshot__ _n_ :six::hammer:  
 __upside__ :two::hammer: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
+__upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
@@ -11123,6 +11126,7 @@ __whiffed__ _v_
 __while__ _v_ _To while away the hours drinking vodka._  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
+__whinge__ _v_ _British English_ To keep complaining in an annoying way.  
 __whinnied__ _v_  
 __whip<sup>1</sup>__ _v_  
 __whip<sup>2</sup>__ _n_ _Mr. Roskam was appointed deputy whip after the 2010 elections._  
@@ -11366,7 +11370,7 @@ __yore__ _?_ _Days of yore._
 __you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  
 __your mileage may vary__  
-__yowl__ _n_ _His yowl of pain_  
+__yowl__ _n_ :two::hammer: _His yowl of pain_  
 __yowled__ _v_  
 __yowza__  
 __yuan__ _n_  
