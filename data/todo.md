@@ -1,3 +1,17 @@
+
+__sleepsuit__ _n_  
+__jingle<sup>1</sup>__ _v_ _Jingle, bells!_  
+__jingle<sup>2</sup>__ _n_  
+__weekend__ _n_ :fr: week-end (?)  
+__toad-bag__ (?) _n_  
+__disparaging__ _v_  
+__apalled__ _v_  
+__baffed__ _adj_ (?)  
+__blatant__  
+__badass__ (?)  
+__nestle__  
+__meme__ :mega:  
+
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __indicted__ :mega:  
