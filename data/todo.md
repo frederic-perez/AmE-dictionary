@@ -1,4 +1,15 @@
 
+__Jim Crow__ _A Jim Crow county._  
+__advent__ :mega:  
+__bean counter__ _n_ _slang_ A person, such as an accountant or financial officer, who is concerned with quantification, especially to the exclusion of other matters.  
+__change__ _n_ _There is change in the shower._  
+__convene__  
+__corny__ _adj_  
+__dislodge__ _v_  
+__idiot box__  
+__sit in__ _I'm sitting in for Ira Glass._  
+__distinct__  
+
 __sleepsuit__ _n_  
 __jingle<sup>1</sup>__ _v_ _Jingle, bells!_  
 __jingle<sup>2</sup>__ _n_  
