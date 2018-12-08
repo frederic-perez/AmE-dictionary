@@ -1,4 +1,15 @@
 
+__NB__  
+__bib__ _n_  
+__black out__  
+__fool's errand__  
+__grandstand__ _Have a free seat in the grandstand in the Olympic Stadium._  
+__graze__ _v_  
+__kindergarten__  
+__pompadour__ _Pompadour permanent._  
+__run-of-the-mill__ _adj_  
+__streetcar__  
+
 __Jim Crow__ _A Jim Crow county._  
 __advent__ :mega:  
 __bean counter__ _n_ _slang_ A person, such as an accountant or financial officer, who is concerned with quantification, especially to the exclusion of other matters.  
