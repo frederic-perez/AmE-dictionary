@@ -1,4 +1,16 @@
 
+__junket__ _n_ _informal_ An expensive trip paid for by government money or by a business for people they employ – used to show disapproval.  
+__paraglider__ _n_ :es: parapente; parapentista  
+__heckling__ _n_ The practice of calling out comments to interrupt a person making a speech.  
+__newly__  
+__meet up__  
+__prominently__  
+__talk shit__  
+__stipulation__  
+__stipend__  
+__doghouse__ (In the UK use "kennel")  
+__gorgive__ _Forgive me, master._  
+
 __NB__  
 __bib__ _n_  
 __black out__  
