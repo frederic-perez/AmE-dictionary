@@ -271,6 +271,7 @@ __N-fold__ _It provides a 20-fold increase in device lifetime than what is curre
 __N/A__ Not available.  
 __NATO__ _North Atlantic Treaty Organization_  
 __NA__ Narcotics Anonymous. _Go to an NA meeting._  
+__NB__  
 __NCO__  
 __NDA__ _abbr_  
 __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
@@ -1204,7 +1205,7 @@ __bevel__ :two::hammer:
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
 __bewitch__ _v_ :es: maravillar?  
-__bib__ _n_ :three::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
+__bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bicyclist__  
 __bid farewell__  
@@ -1262,6 +1263,7 @@ __bivouac__ :pencil2:
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black gold__  
+__black out__  
 __black powder__  
 __black smoke__  
 __black-eyed peas__  
@@ -3172,7 +3174,7 @@ __dog-eat-dog__ _It is not dog-eat-dog here._
 __dog__ _v_ :four::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
 __doggedly__  
-__doghouse__ :two::hammer: _Russia will stay stuck in track and field's doghouse._  
+__doghouse__ _n_ :three::hammer: (In the UK use "kennel") _Russia will stay stuck in track and field's doghouse._  
 __dogleg__ :two::hammer: _A dogleg twenty-gauge in his hand._  
 __doglegs__ _v_  
 __dogsled__  
@@ -4092,7 +4094,7 @@ __food processor__
 __food-handler's permit__  
 __foodie__ _A foodie and a friend._  
 __foodstuffs__  
-__fool's errand__ _It would be a fool's errand for anyone inside the party to primary him._  
+__fool's errand__ :two::hammer: _It would be a fool's errand for anyone inside the party to primary him._  
 __fool's gold__  
 __foolhardy__ :two::hammer:  
 __foolproof__ _adj_ :two: Unable to fail. _A foolproof method._  
@@ -4146,6 +4148,7 @@ __forfeit<sup>1</sup>__ _v_ :nine: (forfeited, forfeiting) Lose or be deprived o
 __forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
+__forgive__ _Forgive me, master._  
 __forgo__ _v_ :nine: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgone__  
 __fork__ _Gordon at fork in the road._  
@@ -4550,7 +4553,7 @@ __gramps__
 __grand jury__  
 __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
-__grandstand__ _n_ :four::hammer: (grandstands) _He found rats in his grandstand._  
+__grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
@@ -4919,7 +4922,7 @@ __hecatombs__
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
 __heckler__ _n_ :four::hammer:  
-__heckling__  
+__heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectic__ _adj_ :five::hammer:  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
@@ -5567,7 +5570,7 @@ __juniper__
 __junk<sup>1</sup>__ _n_ _The "don't touch my junk" uproar over intrusive TSA pat-downs._  
 __junk<sup>2</sup>__ _v_ _Google is junking the app Google+._  
 __junker__  
-__junket__ _The championship game junket._  
+__junket__ _n_ _informal_ :two: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
 __junta__ _n_ :three::hammer:  
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
@@ -5624,7 +5627,7 @@ __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds.
 __killer bees__  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
-__kindergarten__ _n_ :pencil2::two: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
+__kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
@@ -6253,6 +6256,7 @@ __medulla__ :mega:
 __meek__ _adj_ :four: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ :two::hammer:  
+__meet up__  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
 __megalomania__  
 __meh__  
@@ -6625,7 +6629,7 @@ __neutered__
 __neutrinos__ _n_  
 __newbie__ _n_ (newbies)  
 __newborn__ _n_  
-__newly__ _The newly elected leader of the Senate Democrats._  
+__newly__ :two::hammer: _The newly elected leader of the Senate Democrats._  
 __news media outlets__  
 __news outlet__  
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
@@ -7055,6 +7059,7 @@ __paperclip__ _n_
 __paperwork__  
 __pappy__  
 __paradox__  
+__paraglider__ _n_ :es: parapente; parapentista  
 __paragon__ _n_ :three::hammer: (paragons) _A paragon of redundancy._  
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
@@ -7683,6 +7688,7 @@ __prolog__ _n_ :two::hammer:
 __promenade__ _n_ :two::hammer:  
 __prominence__  
 __prominent__ _adj_ :five::hammer: _Package carrying a prominent warning._  
+__prominently__  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prompt__ _v_ :two::hammer: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
@@ -9690,9 +9696,9 @@ __stinker__
 __stinkers__ _n_  
 __stinky-winky__ _Stinky-winky front-loader._  
 __stintful__  
-__stipend__ _n_ :six::hammer: (stipends)  
+__stipend__ _n_ :seven::hammer: (stipends)  
 __stipulate__ _v_ :two::hammer:  
-__stipulation__ _n_  
+__stipulation__ _n_ :two::hammer:  
 __stir up a hornet's nest__ _fig_ To create a lot of trouble.  
 __stir<sup>1</sup>__ _n_  
 __stir<sup>2</sup>__ _v_ :two::hammer: (stirred)  
@@ -10046,6 +10052,7 @@ __taking roll__ _The teacher spent 10 min of class taking roll._
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _A specific set of talents._  
+__talk shit__  
 __talking head__ :astonished:  
 __talktative__  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
