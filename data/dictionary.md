@@ -1609,7 +1609,7 @@ __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._
 __buck off__ _v_  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
-__buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Bucking the trend._ _Many officers bucked the chain of command._  
+__buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Many officers bucked the chain of command._  
 __buckaroo__ _n_ :two: A cowboy – used especially when talking to children. The iconic figure of the cowboy has gone by many other names in American English, including buckaroo, cowhand, cowman, cowpoke, cowpuncher, vaquero, and waddy, and two of these words, buckaroo and vaquero, come from Spanish. In California, however, the Spanish word vaquero was Anglicized to buckaroo.  
 __bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
 __buckeyes__  
@@ -1871,7 +1871,7 @@ __carbuncle__ _n_
 __card__ _v_  
 __cardiac arrest__  
 __cardinal__ _Breaking cardinal rules of marketing._  
-__careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ (nautical) To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ (nautical) To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
+__careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __carefully__ _It pays to consider his words carefully._  
 __caresses__ _v_  
 __caretaker__ :two::hammer: _A caretaker government._  
@@ -2434,7 +2434,7 @@ __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptibl
 __contemptuous__  
 __contend__ _v_ :three::hammer: (contended)  
 __content__  
-__contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ :es: contienda _A contention disputed by independent experts._  
+__contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
@@ -2585,7 +2585,7 @@ __crafts__ :two::hammer:
 __crafty__  
 __cragginess__  
 __craggy__ :two::hammer:  
-__cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ __2__ To eat or cause to eat more than necessary. __3__ (Education) _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
+__cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :three::hammer: (cramps)  
 __cramped__ _v_ :two::hammer:  
 __crank out__  
@@ -2748,7 +2748,7 @@ __curry__ _v_ :four::hammer: _A blatant effort to curry favor._
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :five: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _His curt answer._  
-__curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _The government is conspiring to curtail liberties._ _He must curtail the mistakes._ :es: hacer restringir  
+__curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __curtly__ :two::hammer: _"I don't know," she said curtly._  
 __curveball__ _informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
@@ -3181,7 +3181,7 @@ __dogsled__
 __doilies__  
 __doings__ _n_  
 __doldrums__ :two::hammer:  
-__dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._ _He's still finding his way in terms of doling out minutes._  
+__dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
 __dolt__ :two::hammer:  
@@ -4580,7 +4580,7 @@ __gravity__ _n_
 __gravy__ _n_ :three::hammer:  
 __graybeards__ _Senate graybeards._  
 __grayling__  
-__graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Grazed by a bullet._ _A third person was grazed by a bullit._ __3__ To break the skin of (a part of the body) by scraping.  
+__graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Police confirm a young girl was grazed by a bullet._ __3__ To break the skin of (a part of the body) by scraping.  
 __grazing land__ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __greaseballs__ :two::hammer:  
 __great strides__ _He made great strides during his presidency._  
@@ -4795,7 +4795,7 @@ __hanks__ :pencil2: _Stringy hanks of blond hair._
 __hanky-panky__  
 __hantavirus__  
 __haphazardly__ :two::hammer:  
-__hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._  
+__hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
 __happy about it__ _I'm not entirely happpy about it._  
 __happy feet__  
@@ -5033,7 +5033,7 @@ __hoagie__
 __hoard__ _v_  
 __hoarsely__  
 __hoary__ :two::hammer:  
-__hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ (figuratively) To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
+__hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
 __hobble<sup>2</sup>__ _n_  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
@@ -7933,7 +7933,7 @@ __raise eyebrows__
 __raked over the coals__  
 __raking__ _v_  
 __rakish__ :two::hammer:  
-__rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._ _To rally the troops._ _Oklahoma State trailed 24-7 before rallying for a victory._  
+__rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
 __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings." (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
 __rally__ (stock market)  
