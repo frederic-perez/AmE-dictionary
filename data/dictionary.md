@@ -8310,7 +8310,7 @@ __rip your wiring out__
 __rip__ _The bullets rip._  
 __riparian__ _Riparian woodland._  
 __ripe-smelling__ _The ripe-smelling barn._  
-__ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._ _4 large ripe tomatoes._  
+__ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. _Four large ripe tomatoes._ __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
 __riposte__ _n_ :three::hammer: (ripostes)  
 __ripped__ _v_  
@@ -8346,7 +8346,7 @@ __roe__ _A roe deer._
 __roebuck__  
 __roeskin__ _A roeskin belt._  
 __rogue__ :two::hammer: _Rogue behavior._  
-__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ _Roiled water._  
+__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __role model__ _The best role models embrace their flaws._  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
@@ -8582,7 +8582,7 @@ __scar__ _v_ _CIA to=ture scarred man's psyche for years._
 __scarce__ :two::hammer:  
 __scarcely__ :astonished: _The executioner seemed scarcely older than Rob._  
 __scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.  
-__scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._  
+__scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scattershot__ :two::hammer:  
 __scenic__  
 __scented__  
@@ -8625,9 +8625,9 @@ __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or 
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scowl__ _v_ :five::hammer: (scowled, scowling)  
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
-__scrap iron__ :es: chatarra?  
-__scrap<sup>1</sup>__ _n_ :two::hammer: _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap<sup>2</sup>__ _v_ :nine::m: (scraps, scrapped, scrapping) Cause a stinging or tingling sensation. _A boy spends the next four decades scrapping._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
+__scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
+__scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
+__scrap<sup>3</sup>__ _v intr_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._  
 __scrapper__  
 __scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
@@ -8967,7 +8967,7 @@ __shush<sup>2</sup>__ _v_
 __shushing__ _v_  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
 __shut out__ _v_ :two::hammer:  
-__shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Hockey_ _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
+__shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
 __shy of__ :two::hammer::astonished: _Just shy of its highest mark._  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
@@ -9153,7 +9153,7 @@ __slit<sup>2</sup>__ _v_ :four::hammer: (slitting) _Slitted door._ _The screen w
 __slither__ _v_  
 __slithering__ :two::hammer:  
 __sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
-__sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _Slivers of ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
+__sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :four::hammer:  
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
@@ -9621,7 +9621,7 @@ __stationery__
 __statute__  
 __statutory rape__  
 __statutory__  
-__staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful  
+__staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_  
 __staunchest__ :two::hammer:  
 __stave off__ _v_ :eight::hammer: (staved off)  
@@ -9958,7 +9958,7 @@ __swarthiness__
 __swarthy__ :two::hammer: _Swarthy skin._  
 __swashbuckling__ _n_ :two::hammer:  
 __swatches__  
-__swath__ _n_ :nine::m: __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
+__swath__ _n_ :nine::m: (swathe) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_  
 __swathe<sup>2</sup>__ _v_ :three::hammer: (swathed)  
 __swats__ _n_ :two::hammer:  
