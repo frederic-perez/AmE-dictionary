@@ -215,7 +215,7 @@ __Janes and Joes__ :pencil2: _Regular Janes and Joes._
 __Jehova's Witness__  
 __Jewess__  
 __Jewry__  
-__Jim Crow__  
+__Jim Crow__ :two::hammer: _A Jim Crow county._  
 __Jockeys__ _You've probably got him spotting his Jockeys._  
 __John Doe__  
 __Juliette balcony__  
@@ -542,7 +542,7 @@ __adorn__ _v_ _The pictures adorn the innards of each chapter._
 __adroit__  
 __adroitly__  
 __adulation__  
-__advent__ _n_ :five::hammer:  
+__advent__ _n_ :six::mega::hammer:  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advisedly__  
 __advisory__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
@@ -1067,6 +1067,7 @@ __beam<sup>1</sup>__ _n_ _A wooden beam._
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
 __bean bag chair__  
+__bean counter__ _n_ _slang_ A person, such as an accountant or financial officer, who is concerned with quantification, especially to the exclusion of other matters.  
 __bean__ _v_ _She beans him with a decanter._  
 __beanie__ _n_ :camera::dart:  
 __beanpole__  
@@ -2003,6 +2004,7 @@ __champ__ _n informal_ :two: Champion.
 __champagne flutes__ _n_ :camera:  
 __chances are__  
 __chandler__  
+__change__ _n_ _There is change in the shower._  
 __chant__ _v_ (vs sing?)  
 __chanticleer__ _n_  
 __chanting__  
@@ -2455,8 +2457,7 @@ __contrived__ _adj_ :two: Deliberately created rather than arising naturally or 
 __control freak__  
 __controversial__  
 __convalescing__ _v_  
-__convene__ _v_ :five: (convenes) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
-__convened__ _v_  
+__convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
 __conversely__  
 __conveyed__ _v_  
@@ -2502,6 +2503,7 @@ __corn beef__ :two::hammer:
 __corn fritters__  
 __corned beef__ :two::hammer:  
 __cornstarch__  
+__corny__ _adj_  
 __coronet__ _n_  
 __corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
@@ -3096,6 +3098,7 @@ __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical,
 __disingenuousness__  
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
+__dislodge__ _v_  
 __disloyal__  
 __dismal__ _adj_ :seven: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__  
@@ -3130,7 +3133,7 @@ __dissolution__
 __dissuade__ _v_ :pencil2:  
 __dissuaded__  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
-__distinct__  
+__distinct__ :two::hammer:  
 __distinctly__  
 __distraught__  
 __disused__  
@@ -5217,6 +5220,7 @@ __iconoclastic__
 __id__ _n_  
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
+__idiot box__  
 __idolatry__ :two::hammer:  
 __idylic__ :pencil2:  
 __ie.__ _abbr_ That is to say.  
@@ -5508,6 +5512,8 @@ __jigs__ _n_
 __jigsaw__ :two::hammer: (jigsaws)  
 __jilt__ _Jilted at the altar._  
 __jimmied__ _v_  
+__jingle<sup>1</sup>__ _v_ _Jingle, bells!_  
+__jingle<sup>2</sup>__ _n_  
 __jingoism__ _n_ :three::hammer:  
 __jinks__  
 __jinx<sup>1</sup>__ _v_  
@@ -7496,7 +7502,7 @@ __pols__ _n_
 __polyadic__  
 __polymath__ _n_ :two::hammer:  
 __pomegranates__ _n_  
-__pompadour__ _n_ :three: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._  
+__pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
 __ponderous__ _adj_ :four::hammer: _He shouldered his ponderous bundle._  
 __pong__ Drinking game?  
@@ -8449,7 +8455,7 @@ __run errands__
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
-__run-of-the-mill__ _adj_ :three: Ordinary, average.  
+__run-of-the-mill__ _adj_ :four: Ordinary, average.  
 __runaway__ :two::hammer: _Bryant was a runaway winner._  
 __runaways__  
 __rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
@@ -9028,6 +9034,7 @@ __singletree__ _Singletree plow._
 __sinkhole__ _n_ :two::hammer:  
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
 __sire__ _v_ :two::hammer: (sired) _Another colt sired by him._  
+__sit in__ _I'm sitting in for Ira Glass._  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sitdown__ _n_ :two::hammer:  
@@ -9114,6 +9121,7 @@ __sleek__
 __sleep deprivation__  
 __sleep in__ _v_  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
+__sleepsuit__ _n_  
 __sleepwalking__  
 __sleepwear__ :two::hammer: (vs sportswerar, etc.)  
 __sleety__  
@@ -9777,6 +9785,7 @@ __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol
 __streaming__ _Streaming eyes._  
 __streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strech__ _He was awake for long streches of time._  
+__streetcar__  
 __strenuous__ _adj_ :astonished::three::hammer:  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
@@ -11072,6 +11081,7 @@ __wee__ _adj_ :three: _chiefly Scot_ Very small. _Wee hours._ _Comes out of pris
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
+__weekend__ _n_  
 __weevil__ :two::hammer: _Weevil worms._  
 __weevils__  
 __weigh__ _v_ :es: sopesar?  
