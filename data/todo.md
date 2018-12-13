@@ -1,4 +1,16 @@
 
+__truthiness__ _n informal_  
+__fabric softener__  
+__Thanksgiving Day__ _n_  
+__pass up__  
+__pique__  
+__wisecracker__  
+__huckterism__  
+__soapbox__ _v informal_  
+__sanguine__  
+__jeremiad__  
+__non-existent__ _adj_  
+
 __toad-bag__ (?) _n_  
 __disparaging__ _v_  
 __apalled__ _v_  
