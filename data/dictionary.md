@@ -5772,7 +5772,7 @@ __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliatio
 __last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
 __latch<sup>1</sup>__ _n_ :two::hammer:  
-__latch<sup>2</sup>__ _v_ :two::hammer: (latching_)  
+__latch<sup>2</sup>__ _v_ :two::hammer: (latching)  
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __latecommer__ _I'm somewhat of a latecomer._  

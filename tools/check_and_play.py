@@ -322,6 +322,7 @@ class Checker(object):
         succeeded = bool(self.num_displaced_part_of_speech \
             + self.num_invalid_endings \
             + self.num_invalid_tags \
+            + self.num_invalid_use_of_underscores \
             + self.num_tag_shit \
             + self.num_too_many_double_spaces \
             + self.num_entries_with_triple_spaces \
