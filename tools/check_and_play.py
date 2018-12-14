@@ -509,12 +509,16 @@ class Game(object):
     def print_nine_m(self):
         """Method aimed at learning definitions"""
         index_9m = get_index(10)
+        regex = re.compile(r"<sup>\d</sup>")
         for entry in self.list[index_9m]:
             tokens = entry.split()
             do_print = False
-            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-            clean_headword = headword.replace('__', '')
-            print clean_headword
+            headword, _, _ = get_headword_part_of_speech_etc(tokens, do_print)
+            headword_for_wordcloud = headword.replace('__', '')
+            headword_for_wordcloud = regex.sub('', headword_for_wordcloud)
+            headword_for_wordcloud = headword_for_wordcloud.replace(' ', '~')
+            print headword_for_wordcloud,
+        print
 
 # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
 DICTIONARY = '../data/dictionary.md'
