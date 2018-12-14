@@ -1,25 +1,5 @@
 
-__truthiness__ _n informal_  
-__fabric softener__  
-__Thanksgiving Day__ _n_  
-__pass up__  
-__pique__  
-__wisecracker__  
-__huckterism__  
-__soapbox__ _v informal_  
-__sanguine__  
-__jeremiad__  
-__non-existent__ _adj_  
-
-__toad-bag__ (?) _n_  
-__disparaging__ _v_  
-__apalled__ _v_  
-__baffed__ _adj_ (?)  
-__blatant__  
-__badass__ (?)  
-__nestle__  
 __meme__ :mega:  
-
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __indicted__ :mega:  

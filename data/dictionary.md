@@ -409,6 +409,7 @@ __Tempranillo__
 __Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.  
 __Texas Panhandle__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
+__Thanksgiving Day__ _n_  
 __That being said,__  
 __Then again,__  
 __Three Lions__ _A message to the Three Lions._  
@@ -719,7 +720,7 @@ __any longer__
 __anything but__ _It is anything but sweet._  
 __anything goes__  
 __apace__ _Concussion concerns continue apace._  
-__apalled__ _v_  
+__apalled__ _v_ :two::hammer:  
 __apathetic__  
 __ape__ _v_  
 __aphorism__ :two::hammer:  
@@ -945,12 +946,14 @@ __bad actor__
 __bad blood__ :two::hammer:  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
+__badass__  
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bade__ _v_ :three::hammer: _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__  
+__baff__ _v_ (baffed)  
 __baffle__ _v_ :five::hammer: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffling__ _Baffling season._  
@@ -1283,7 +1286,7 @@ __bland__ _adj_ :six: __1__ Characterized by a moderate, unperturbed, or tranqui
 __blanket__ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
 __blasé__  
-__blatant__  
+__blatant__ :two::hammer:  
 __blather__  
 __blaze of glory__ :two::hammer:  
 __bleach__ _n_  
@@ -3104,7 +3107,7 @@ __dismal__ _adj_ :seven: Causing gloom or depression; dreary: _dismal weather; t
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
-__disparage__ _v_ :seven::hammer: (disparaged, disparaging)  
+__disparage__ _v_ :eight::hammer: (disparaged, disparaging)  
 __disparagement__ :two::hammer:  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
@@ -3712,6 +3715,7 @@ __eyewash__ _Cuddyer explained the balance between effort and eyewash._
 __eyewear__  
 __f-ing__  
 __fabled__  
+__fabric softener__  
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
 __fabricate__ _v_ _Fabricated stories._  
 __fabricator__  
@@ -5157,6 +5161,7 @@ __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos
 __hubhub__  
 __hubris__ _n_ :four::hammer: _Intellectual hubris._  
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
+__huckterism__  
 __huddle<sup>1</sup>__ _n_ :two: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
 __huddle<sup>2</sup>__ _v_ :three: __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
 __huff__ :two::hammer:  
@@ -5495,6 +5500,7 @@ __jeez__ _interj_ Used to express surprise or annoyance.
 __jejune__  
 __jelly doughnuts__  
 __jelly glass__  
+__jeremiad__  
 __jerk around__  
 __jerry__  
 __jersey snagging__ _football_  
@@ -6627,7 +6633,7 @@ __nerve-racking__ _adj_ :three::hammer: (nerve racking)
 __nerve__ :two::hammer: _He's got nerve._  
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :six::hammer: (nestled)  
+__nestle__ _v_ :seven::hammer: (nestled)  
 __nestlings__ _n_  
 __nether__ :two::hammer:  
 __neuroblastoma__  
@@ -6685,6 +6691,7 @@ __non-call__ _He complained about non-calls._
 __non-committal__  
 __non-denominational__ _Non-denominational services._  
 __non-exempt__ _Non-exempt position._  
+__non-existent__ _adj_  
 __non-perishables__  
 __nonce__  
 __nonchalance__ _n_  
@@ -7111,6 +7118,7 @@ __party__ _n_
 __parvenu__  
 __pass out__ _phr v_ :two: To become unconscious.  
 __pass policy__  
+__pass up__  
 __passage__ _n_ _The passage of three supplementary budgets this year._  
 __passel__ _A passel of ducks._  
 __passersby__ _n_  
@@ -7354,7 +7362,7 @@ __pipehead__
 __pipeyard__  
 __piping__ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
-__pique__ _v_ :four::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
+__pique__ _v_ :five::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
 __pit wagon__  
@@ -8526,7 +8534,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandy-haired__  
 __sangfroid__  
-__sanguine__ _adj_ :four::hammer::astonished:  
+__sanguine__ _adj_ :five::hammer::astonished:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
@@ -9314,7 +9322,8 @@ __snugly__ :two::hammer:
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __soap opera__  
-__soapbox__  
+__soapbox<sup>1</sup>__ _n_  
+__soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __soar__ _v_  
 __sobering__  
@@ -10355,6 +10364,7 @@ __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add m
 __to that effect__  
 __to that end__ :two::hammer: (to that end,)  
 __to this day__ _idiom_ :three::hammer: _I don't know if they still do it to this day._  
+__toad bag__ _n_  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  
 __toast marshmallows__ :camera:  
@@ -10571,6 +10581,7 @@ __trussed__ _v_ :three::hammer:
 __trust company__  
 __trustees__ :two::hammer: _Board of Trustees_  
 __trusties__  
+__truthiness__ _n informal_  
 __try on__ :two::hammer:  
 __tryouts__ :two::hammer:  
 __tryst__  
@@ -11242,6 +11253,7 @@ __wire-rimmed__ _adj_ _Wire-rimmed glasses._
 __wire-to-wire__ _adj informal_ :three: From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wiry__ _adj_ :two::hammer: _He's wiry, strong and fast._  
 __wisdom tooth__  
+__wisecracker__  
 __wisecracks__  
 __wish list__ _n_ :two::hammer: _The community's wish list._ _A $100 million wish list._  
 __wishbone__  
