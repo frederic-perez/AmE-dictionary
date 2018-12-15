@@ -20,6 +20,7 @@ I collect words and expressions from multiple (written) sources, including:
 ### Audio Resources
 
 I also gather interesting stuff from a myriad of podcasts, including:
+- Andy Daly Podcast Pilot Project, hosted by Andy Daly and Matt Gourley
 - Beautiful Anonymous, hosted by Chris Gethard
 - Comedy Bang! Bang!, hosted by Scott Aukerman
 - Freakonomics Radio, hosted by Stephen Dubner
