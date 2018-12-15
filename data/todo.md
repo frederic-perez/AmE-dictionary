@@ -1,4 +1,15 @@
 
+__patch up__  
+__clip__ _n_  
+__sunburn__ _n_  
+__parttime/part time (?)__  
+__headspinning__ (?)  
+__let alone__ _If you're living in the present, let alone in the future, you must buy this Acme product._  
+__sensitive__ _Sensitive questions._  
+__kata__ _n_  
+__enthused__ (?)  
+__lucky charm__  
+
 __meme__ :mega:  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
