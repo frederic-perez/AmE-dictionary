@@ -1,4 +1,15 @@
 
+__date__ _n_ :es: dátil  
+__hickey__ _n_ (?)  
+__headstone__ _n_ (?)  
+__poltergeist__ (?) :mega:  
+__morsels__ _n_ (?)  
+__go south__  
+__character actor__  
+__prime__ _v_  
+__jaded__ _A jaded job seeker._  
+__rebuttal__ _n_  
+
 __patch up__  
 __clip__ _n_  
 __sunburn__ _n_  
