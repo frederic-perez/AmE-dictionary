@@ -1,24 +1,6 @@
 
-__date__ _n_ :es: dátil  
-__hickey__ _n_ (?)  
-__headstone__ _n_ (?)  
-__poltergeist__ (?) :mega:  
-__morsels__ _n_ (?)  
-__go south__  
-__character actor__  
-__prime__ _v_  
-__jaded__ _A jaded job seeker._  
-__rebuttal__ _n_  
-
-__patch up__  
-__clip__ _n_  
-__sunburn__ _n_  
-__parttime/part time (?)__  
-__headspinning__ (?)  
-__let alone__ _If you're living in the present, let alone in the future, you must buy this Acme product._  
-__sensitive__ _Sensitive questions._  
 __kata__ _n_  
-__enthused__ (?)  
+__enthuse__ _v_ (enthused)  
 __lucky charm__  
 
 __meme__ :mega:  

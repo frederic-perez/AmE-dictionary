@@ -2016,6 +2016,7 @@ __chaparral__ _n_ :two::hammer:
 __chaperones__ _n_ :two::hammer:  
 __chaplain__ _n_ :four::mega:  
 __chapter__ _To the east was the chapter house._  
+__character actor__  
 __charade__ _n_ :two::hammer:  
 __chard__  
 __charging__ Accuse formally.  
@@ -2200,7 +2201,7 @@ __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending t
 __clincher__ _n_ :two::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
-__clip__ _A better newspaper clip._  
+__clip__ _n_ :two::hammer: _A better newspaper clip._  
 __clipped grass__  
 __clippings__ _n_  
 __clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. :es: camarilla  
@@ -2825,7 +2826,7 @@ __dart__ _v_ :three::hammer: (darting)
 __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
-__date__ :pencil2: _It would be like eating a single date._  
+__date__ _n_ :two::pencil2::hammer: _It would be like eating a single date._ :es: dátil  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
 __daub__ _v_ :three::hammer: (daubed) _A swastika was daubed on a science center window._  
@@ -4495,7 +4496,7 @@ __go native__ _You going native on me, Supercop?_
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go over the top__  
 __go over the wire__  
-__go south__ _idiom_ :four::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
+__go south__ _idiom_ :five::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
 __go to the dogs__  
 __go to the wire__  
@@ -4888,12 +4889,12 @@ __head scratching__ :camera: (head-scratching) _In many places, there is still m
 __head start__ _Giving them a head start on finding a job._  
 __head wind__  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
-__head-spinning__ _A head-spinning thing._  
+__head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._  
 __headdress__ _n_ :two::hammer: _The pharaoh's headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
 __heads up__  
-__headstone__ _n_ :two::hammer:  
+__headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
@@ -4986,6 +4987,7 @@ __heyday__ _n_ :six::hammer:
 __hi-rail truck__ _n_ :camera:  
 __hibachi__  
 __hick__  
+__hickey__ _n_  
 __hickory shaft__  
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
@@ -5467,7 +5469,7 @@ __jack it up__ _v_
 __jack-o'-lantern__  
 __jackhammer__  
 __jackpot__  
-__jade__ _v_ :eight::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._  
+__jade__ _v_ :nine::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
 __jagged__ :two::hammer:  
 __jagging__  
 __jakelegs__  
@@ -5869,7 +5871,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
-__let alone__ _conj_ :four::hammer:  
+__let alone__ _conj_ :five::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
 __let your hair down__  
 __lethargic__ _adj_  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
@@ -6469,7 +6471,7 @@ __morels__ _n_
 __moribund__  
 __morning glory__  
 __morosely__ :two::hammer:  
-__morsel__ :two::hammer:  
+__morsel__ _n_ :three::hammer: (morsels)  
 __mortar shell__  
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
 __mortice__  
@@ -7106,6 +7108,8 @@ __parse__ _v_
 __parsley__  
 __parsnip__  
 __parsonage__ :pencil2:  
+__part-time<sup>1</sup>__ _adj_  
+__part-time<sup>2</sup>__ _adv_  
 __partake__ _v_ :eight::hammer: (partaken, partaking)  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
@@ -7131,6 +7135,7 @@ __pat<sup>1</sup>__ _v_ :camera::dart: (patted) Hit lightly. _She patted the sof
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
+__patch up__  
 __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
 __pathogenic__  
@@ -7507,6 +7512,7 @@ __politburo__
 __pollen__ _n_ :astonished:  
 __pollster__ _n_  
 __pols__ _n_  
+__poltergeist__ :mega:  
 __polyadic__  
 __polymath__ _n_ :two::hammer:  
 __pomegranates__ _n_  
@@ -7661,8 +7667,9 @@ __prima facie__
 __primacy__ _n_  
 __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._  
 __prime-age__  
-__prime__ :two::hammer: _Their master bedroom has a prime view of the green wall._  
-__primed__ :two::hammer:  
+__prime<sup>1</sup>__ _adj_ :two::hammer: _Their master bedroom has a prime view of the green wall._  
+__prime<sup>2</sup>__ _n_  
+__prime<sup>3</sup>__ _v_ :three::hammer: (primed)  
 __primer__ _n_ :four:hammer:  
 __priming__ _v_  
 __primly__ :two::hammer:  
@@ -8062,6 +8069,7 @@ __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop e
 __rebuff__ _v_ :eight: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
 __rebuke__ _n_ :four::hammer:  
 __rebut__ _v_  
+__rebuttal__ _n_  
 __rec__ _Damonika has worked as youth and rec leader._  
 __recall__ _n_  
 __recant__ _v_ :two::hammer: (recanted)  
@@ -8752,6 +8760,7 @@ __seminoles__
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __sensible__ :two::hammer: _This C++ contructor has sensible default values._  
+__sensitive__ _Sensitive questions._  
 __sentience__  
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
@@ -9913,6 +9922,7 @@ __summary__ :two::hammer: _Summary deaths._ _Summary killings._
 __summertime__  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
+__sunburn__ _n_  
 __sunder__ _v_ :two::hammer:  
 __sundered__ _v_  
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
