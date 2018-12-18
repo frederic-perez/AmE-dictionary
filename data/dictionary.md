@@ -232,6 +232,7 @@ __LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __Labrador__  
+__Lady Luck__ _I''m riding with Lady Luck._  
 __Laotian__  
 __Lasik__ _Lasik surgery._  
 __Latinas__  
@@ -1283,6 +1284,7 @@ __blackpool__
 __blah story__  
 __blanched__ _v_  
 __bland__ _adj_ :six: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
+__blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
 __blasé__  
@@ -1430,6 +1432,7 @@ __bonnie blue flag__
 __bonobo__  
 __boo<sup>1</sup>__ _v_ :es: abuchear  
 __boo<sup>2</sup>__ _interj_  
+__booby trap__ _n_  
 __booby-trapped 105's__  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
@@ -2197,7 +2200,7 @@ __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerica
 __cliché__  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
-__clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _A 45-yarder clinched the game._ _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
+__clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :two::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
@@ -2669,7 +2672,7 @@ __cross someone's mind__ _It never crossed my mind._
 __cross that bridge__  
 __cross word__ _No one heard her say a cross word about anyone else._  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
-__cross-eyed__ _An infamous cros-eyed burglar._  
+__cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
 __cross__ _v_ _They paled and crossed themselves._  
 __crossbar__ _n_  
 __crossbeam__ _n_  
@@ -2727,6 +2730,7 @@ __cues__ _n_
 __cuff links__  
 __cuffed__ _v_  
 __cul-de-sac__  
+__culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
@@ -3487,6 +3491,7 @@ __elderly__ :es: tercera edad
 __eldest__ (is this right?)  
 __elective__ _Other students can take up to four fine arts electives._  
 __elegy__ :two::hammer:  
+__elephant in the room__  
 __elevator boy__  
 __elevator control box__  
 __elevator operator__ :camera:  
@@ -3524,7 +3529,7 @@ __emmetropia__ (?)
 __emo__ _adj_ :two::hammer:  
 __emoji__ _n pl_  
 __emphasis__  
-__emphasize__ _v_ :two::hammer:  
+__emphasize__ _v_ :three::astonished::hammer:  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
 __empty-net/power-play/short-handed goal__  
@@ -3573,7 +3578,7 @@ __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as 
 __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
 __entail__ _v_ :three::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthuse__ _v_ :six::hammer: (enthused, enthusing) _It has enthused fans._  
+__enthuse__ _v_ :seven::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __enticing__  
 __entitle__ _v_ :three::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._  
@@ -5166,8 +5171,7 @@ __huckster__ _n_ :four: A huckster is someone who tries to sell you something th
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :two: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
 __huddle<sup>2</sup>__ _v_ :three: __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
-__huff__ :two::hammer:  
-__huffed__ _v_ :five::hammer: (huffing)  
+__huff__ _v_ :eight::hammer: (huffed, huffing)  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
@@ -5351,7 +5355,7 @@ __indefinite__
 __indelible__ _adj_ :five::hammer::pencil2: _An indelible mark._  
 __indenture__ _v_  
 __indentured__  
-__indict__ _v_ :five::hammer: (indicted)  
+__indict__ _v_ :six::hammer: (indicted :mega:)  
 __indictment__ _n_ :four::hammer:  
 __indigenous__ _Indigenous people._  
 __indiscreet__  
@@ -5595,6 +5599,7 @@ __kabobs__
 __kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :four::hammer:  
+__kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __keel__ _v_ :three::hammer: (keeled)  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
@@ -6061,6 +6066,7 @@ __lowlife__
 __lowlights__  
 __lowly__ :two::hammer: _The lowly news reporter._  
 __lucifer match__  
+__lucky charm__  
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
@@ -6279,7 +6285,7 @@ __mellow<sup>1</sup>__ _adj_ _Mellow flavor._
 __mellow<sup>2</sup>__ _v_ :two::hammer:  
 __mellowed__  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
-__meme__ _n_ :two::hammer:  
+__meme__ _n_ :three::mega::hammer:  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
 __memo__ _A memo sent to reporters._  
@@ -6298,7 +6304,7 @@ __mental memo__ _n_ :camera:
 __mentees__  
 __merc__ :two::hammer:  
 __mercantile__  
-__merch__ Merchandaising?  
+__merch__ _n_ :two::hammer: Merchandaising?  
 __merchant__  
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __mere__ :two::hammer: _From mere $200._  
@@ -7766,9 +7772,8 @@ __pudenda__ _n_
 __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.  
 __pudgy__ _A pudgy boy._  
 __puds__ _n_  
-__puff<sup>1</sup>__ _n_ :two::hammer:  
-__puff<sup>2</sup>__ _v_ :two::hammer: (puffed) _I could hear the screen door puffing open._  
-__puff__ _n_  
+__puff<sup>1</sup>__ _n_ :three::hammer:  
+__puff<sup>2</sup>__ _v_ :four::hammer: (puffed) _I could hear the screen door puffing open._  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pug__  
@@ -7955,7 +7960,7 @@ __raked over the coals__
 __raking__ _v_  
 __rakish__ :two::hammer:  
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
-__rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings." (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahome Staate rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
+__rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings." (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahoma State rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
 __rally__ (stock market)  
 __ram<sup>1</sup>__ _v_ :seven::hammer: (rammed, ramming) _JFK's PT boat was rammed._ _Ramming your feet into the stirrups._  
@@ -9566,7 +9571,7 @@ __squelched__ _v_
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
-__squirm<sup>1</sup>__ _v_ :six::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :seven::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squishing__  
@@ -9833,7 +9838,7 @@ __stroll__ _v_
 __strong accent__  
 __strongman__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
-__strudel__ _n_  
+__strudel__ _n_ :two::hammer:  
 __strummed__ _v_ _He then strummed out a string of hits, including "Message in a Bottle."_  
 __strung out__  
 __strung__ _v_  
