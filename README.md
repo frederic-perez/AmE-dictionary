@@ -26,6 +26,7 @@ I also gather interesting stuff from a myriad of podcasts, including:
 - Freakonomics Radio, hosted by Stephen Dubner
 - Hollywood Babble-On, with Ralph Garman and Kevin Smith
 - I Am Rapaport, hosted by Michael Rapaport
+- ID10T, hosted by Chris Hardwick
 - StartTalk, hosted by Neil deGrasse Tyson, with various comic and celebrity co-hosts 
 - This American Life, hosted by Ira Glass
 
