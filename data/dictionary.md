@@ -4,6 +4,7 @@ __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you
 __, so why (even) bother?__  
 __, to say the least.__  
 __-year-old__ _A 56-year-old retiree._  
+__101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered "101."  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __20/20 vision__ _n_  
@@ -174,6 +175,7 @@ __Gordian knot__ :two::hammer:
 __Great Dane__  
 __Great War__  
 __Greek__ :astonished: _It's in Greek and almost impossible to decode._  
+__Groundhog Day__  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __HIV__  
 __HMOs__  
@@ -1364,7 +1366,7 @@ __bluff__ _n_ :two::hammer:
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
 __blunt<sup>1</sup>__ _adj_ :four: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
-__blunt<sup>2</sup>__ _v_ :two::hammer: (blunting)  
+__blunt<sup>2</sup>__ _v_ :three::hammer: (blunting)  
 __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly._  
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
@@ -1662,6 +1664,7 @@ __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bumble__ _v_ :eight: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
+__bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
@@ -2053,6 +2056,7 @@ __cheek by jowl__ :two::hammer:
 __cheekboned__ _High-cheekboned newbies.;-_  
 __cheekier__  
 __cheerfully__  
+__cheese wedge__  
 __cheese-eater__  
 __cheesecloth__ _n_ :three::hammer:  
 __cheesy__ _adj informal_ :two: Cheap and of low quality. _Cheesy motel rooms._  
@@ -2800,6 +2804,7 @@ __dalliance__
 __dallied__ _v_  
 __dally__ _v_  
 __dallying__  
+__dammit__  
 __damnation__  
 __damning__ :two::astonished::hammer: _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
@@ -2809,7 +2814,7 @@ __dampness__
 __damsel__ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
 __dandelion thistle__  
-__dandelions__  
+__dandelion__ _n_ :two::hammer: (dandelions)  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dang__ _adj_ _But, dang marketers go crazy._  
@@ -3112,7 +3117,7 @@ __dismal__ _adj_ :seven: Causing gloom or depression; dreary: _dismal weather; t
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
-__disparage__ _v_ :eight::hammer: (disparaged, disparaging)  
+__disparage__ _v_ :nine::hammer: (disparaged, disparaging)  
 __disparagement__ :two::hammer:  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
@@ -5951,8 +5956,7 @@ __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy li
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lipped__ _v_  
 __lippy__ _adj_  
-__liquefied__ _v_ :two::hammer: _Liquefied natural gas._  
-__liquefy__  
+__liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._  
 __lisp<sup>1</sup>__ _n_  
 __lisp<sup>2</sup>__ _v_  
 __list > listing boat__  
@@ -7909,7 +7913,7 @@ __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an
 __quirt__ _n_ :four::hammer: _The horse quirt._  
 __quitessential__ _adj_  
 __quitter__ _Are you calling me a quitter?_  
-__quiver__ _v_ :six::hammer: (quivering)  
+__quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__  
 __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __quote, unquote__ :two::hammer:  
@@ -8714,6 +8718,7 @@ __seaside__
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
 __seaweed__ :two::hammer:  
+__second nature__  
 __second-guess__ _v_ :five::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ :two::hammer:  
@@ -8755,6 +8760,7 @@ __self-steem__
 __selfless__  
 __selfsame__  
 __sell out__  
+__sell short__  
 __sellout__ (sold out)  
 __sellouts__ _There have been no sellouts._  
 __sellsworth__ _n_  
@@ -9150,7 +9156,7 @@ __sleety__
 __slender__  
 __sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
 __sleuth__ _v informal_ :three: (sleuthing) To act as a detective.  
-__slew__ _n_ :nine::m::octocat: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
+__slew__ _n_ _informal_ :nine::m::octocat: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ :dart:  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
@@ -9649,6 +9655,7 @@ __statesman__ :two::hammer: _The elder statesman of the group._
 __statesmen__ (notice, not 'statement')  
 __stationary bike__  
 __stationery__  
+__statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
 __statutory__  
@@ -10682,7 +10689,7 @@ __tying__ _v_ :pencil2:
 __type-A personalities__  
 __typecast__ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyranny__  
-__tyrant__ :two::hammer:  
+__tyrant__ _n_ :three::hammer:  
 __ugh__ :two::hammer:  
 __uh__  
 __ukuleles__  
@@ -10930,7 +10937,7 @@ __vermicelli__
 __vermillion__  
 __vermin__ _n_ :four::hammer:  
 __vermouth__ _n_  
-__vernacular__ _n_ :two::hammer:  
+__vernacular__ _n_ :three::hammer:  
 __vertical farm__  
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
@@ -11064,7 +11071,7 @@ __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._
 __washroom__ _n_  
 __washtub__  
 __washwoman__  
-__wastebasket__  
+__wastebasket__ _n_ :two::hammer:  
 __wastrel__ :two::hammer:  
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
