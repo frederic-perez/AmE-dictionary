@@ -1,4 +1,13 @@
 
+__undermine__ _v_  
+__overnight__ _The change will not happen overnight._  
+__doctor__ _v_ _A doctored video._  
+__ample__ _adj_ __1__ Enough or more than enough. _Ample evidence._ __2__ Fairly large or extensive.  
+__rocket__ :mega:  
+__rule of law__  
+__space__ _v_ _I spaced on that._  
+__instrumental__  
+
 __rigged__  
 __game plan__  
 
