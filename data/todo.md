@@ -1,4 +1,13 @@
 
+__coin__ _v_ _To coin a phrase._  
+__obscure__ _v_  
+__contrivance__  
+__crutch__ _n_  
+__place holder__  
+__gomer__ _n_ _slang_ :dart: A first-year Air Force Academy cadet, esp a clumsy trainee [origin uncertain; medical sense said to be an acronym of "get out of my emergency room"] _Gomer Pyle._  
+__inobvious__  
+__divine__ _v_ (?)  
+
 __coke-bottle glasses__  
 __willpower__ _n_  
 __polymath__ _n_  
