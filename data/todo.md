@@ -1,4 +1,13 @@
 
+__godmother__ _A fairy godmother._  
+__sieve__  
+__accrete__ _v_  
+__deleterious__  
+__insidious__  
+__go a long way__ :dart:  
+__mistruth__  
+__double-take__  
+
 __coin__ _v_ _To coin a phrase._  
 __obscure__ _v_  
 __contrivance__  
