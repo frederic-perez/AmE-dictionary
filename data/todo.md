@@ -1,4 +1,13 @@
 
+__wordsmith__ _v_  
+__crufty__  
+__wield__ _v_  
+__chimera__ _n_ (chimeras)  
+__delude__ _v_  
+__flippant__ _adj_  
+__case in point__  
+__plop__ _v_ (plopping)  
+
 __godmother__ _A fairy godmother._  
 __sieve__  
 __accrete__ _v_  
