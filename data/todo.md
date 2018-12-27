@@ -1,4 +1,14 @@
 
+__blithely__ :two::hammer:  
+__paragon__  
+__anathema__  
+__cruft__  
+__listing__ _n_   
+__admixture__  
+__stub__ _n_  
+__valiant<sup>1</sup>__ _adj_  
+__valiant<sup>2</sup>__ _n_  
+
 __wordsmith__ _v_  
 __crufty__  
 __wield__ _v_  
