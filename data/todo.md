@@ -1,4 +1,13 @@
 
+__ad infinitum__  
+__foisting__ _v_  
+__strive__ _v_  
+__intern__  
+__internship__  
+__painstakingly__  
+__cobbled__ _v_  
+__roundly__ _I feel free to roundly criticize this source code._  
+
 __blithely__ :two::hammer:  
 __paragon__  
 __anathema__  
