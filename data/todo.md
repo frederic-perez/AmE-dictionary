@@ -1,4 +1,13 @@
 
+__glissade__ _v_  
+__tic__ _v_ (?)  
+__interrelate__ _v_  
+__weasel__ _adj_ (?) _Example weasel words include `Processor`, `Manager`, and `Super`._  
+__wholly__  
+__plethora__  
+__continual__  
+__standpoint__  
+
 __ad infinitum__  
 __foisting__ _v_  
 __strive__ _v_  
