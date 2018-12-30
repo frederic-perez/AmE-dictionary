@@ -1,4 +1,13 @@
 
+__utility__ _adj_ (?) _A pair of utility classes._  
+__have your cake and eat it (too)__ _idiom_  
+__armchair expert__ _idiom_  
+__yawner__  
+__yap__ Mouth.  
+__food coma__ _idiom_  
+__talk back__ _idiom_  
+__take on__ _idiom_  
+
 __glissade__ _v_  
 __tic__ _v_ (?)  
 __interrelate__ _v_  
