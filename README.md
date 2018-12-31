@@ -37,6 +37,7 @@ Meaning of the emojis used in the dictionary:
 
 - :pencil2: Interesting or funny spelling
 - :mega: Interesting or funny pronunciation
+- :mute: Silent letter
 - :astonished: Insteresting or funny for any other reason
 - :hammer: Undefined word
 - :dart: Try to learn this particular one!
