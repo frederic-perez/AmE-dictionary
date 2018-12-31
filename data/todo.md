@@ -1,4 +1,15 @@
 
+__wishy-washy__  
+__dismal__ _adj_ :mega:  
+__trickle__ _v_  
+__full of beans__  
+__have bigger fish to fry__  
+__talk down to__  
+__hires__ _n_  
+__constituencies__ _n_  
+__cue ball__  
+__wow__ _v_  
+
 __utility__ _adj_ (?) _A pair of utility classes._  
 __have your cake and eat it (too)__ _idiom_  
 __armchair expert__ _idiom_  
