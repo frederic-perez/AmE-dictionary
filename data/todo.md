@@ -1,4 +1,15 @@
 
+__bomb__ :mute: (bom~b~)  
+__climb__ :mute: (clim~b~)  
+__comb__ :mute: (com~b~)  
+__crumb__ :mute: (crum~b~)  
+__debt__ :mute: (de~b~t)  
+__doubt__ :mute: (dou~b~t)  
+__dumb__ :mute: (dum~b~)  
+__lamb__ :mute: (lam~b~)  
+__limb__ :mute: (lim~b~)  
+__numb__ :mute: (num~b~)  
+
 __wishy-washy__  
 __dismal__ _adj_ :mega:  
 __trickle__ _v_  
