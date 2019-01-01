@@ -1,4 +1,17 @@
 
+__subtle__ :mute: (su~b~tle)  
+__succumb__ :mute: (succum~b~)  
+__thumb__ :mute: (thum~b~)  
+__tomb__ :mute: (tom~b~)  
+__womb__ :mute: (wom~b~)  
+__ascent__ :mute: (as~c~ent)  
+__crescent__ :mute: (cres~c~ent)  
+__descent__ :mute: (des~c~ent)  
+__disciple__ :mute: (dis~c~iple)  
+__evanesce__ :mute: (evanes~c~e)  
+__fascinate__ :mute: (fas~c~inate)  
+__fluorescent__ :mute: (fluores~c~ent)  
+
 __bomb__ :mute: (bom~b~)  
 __climb__ :mute: (clim~b~)  
 __comb__ :mute: (com~b~)  
