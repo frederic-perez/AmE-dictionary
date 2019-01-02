@@ -1,4 +1,13 @@
 
+__in the black__ _idiom_  
+__talk into__ _phr v_  
+__badly__ _When done badly it's very painful._  
+__tribulations__  
+__roundabout__ (Children's attraction.)  
+__angst__  
+__BLT__  
+__fairly__ _I realized it fairly quickly._  
+
 __dumb__ :mute:[dum~~b~~]  
 __lamb__ :mute:[lam~~b~~]  
 __limb__ :mute:[lim~~b~~]  
