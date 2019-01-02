@@ -809,6 +809,7 @@ __as many as__ _As many as five terror plots were foiled last year._
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
+__ascent__ :mute:[as~~c~~ent]  
 __ascertain__ _v_ :two::hammer:  
 __ascetic__  
 __ascot__  
@@ -1412,7 +1413,7 @@ __bolony__
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolt__ _v_ :two::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
-__bomb__ _v_  
+__bomb__ _v_ :two::mute:[bom~~b~~]:hammer:  
 __bombast__ _n_ :four: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombing__ _v_  
@@ -2204,6 +2205,7 @@ __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerica
 __cliché__  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
+__climb__ :mute:[clim~~b~~]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :two::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
@@ -2304,6 +2306,7 @@ __colossal__
 __colossus__  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
+__comb__ :mute:[com~~b~~]  
 __combat__ _n_  
 __combines__ _Basketball_  
 __combs__ _n_ _The hens had red combs, wattles, and earlobes._  
@@ -2633,7 +2636,7 @@ __crenelated weir__
 __creosote__  
 __crepe paper bells__  
 __crepe__  
-__crescent__  
+__crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__  
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
@@ -2696,7 +2699,7 @@ __cruel__ _His body looked cruel._
 __cruffy__  
 __cruft__ _n_  
 __crufty__ :two::hammer: _A crufty comment._  
-__crumb__ _n_ :three::hammer: (crumbs) _Potato chip crumb._  
+__crumb__ _n_ :four::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
 __crumble__ _v_ :four::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
@@ -2865,6 +2868,7 @@ __debatable__
 __debauchery__  
 __debriefing__ _n_ :four::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
+__debt__ :mute:[de~~b~~t]  
 __debunk__ _v_ :two::hammer:  
 __debutante__  
 __decaf__ Decaffeinated coffee.  
@@ -2982,6 +2986,7 @@ __derision__
 __derrick__ _n_  
 __derringer__  
 __dervish__ _n_  
+__descent__ :mute:[des~~c~~ent]  
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
@@ -3083,6 +3088,7 @@ __disavow__ _v_ :two::hammer: (disavowed)
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
 __discharge__ _v_ :nine::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
+__disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_  
 __discombobulate__ _v_ :pencil2:  
 __discontinued__ _v_  
@@ -3238,6 +3244,7 @@ __double-edged__ _adj_ _Double-edged sword._
 __double-take__ :four::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
 __doubly__  
+__doubt__ :mute:[dou~~b~~t]  
 __doubting Thomas__ _n_  
 __doubtless__  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
@@ -3643,6 +3650,7 @@ __etiquette__
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
 __eulogy__ _n_ :two::hammer:  
 __eunuch__ _n_  
+__evanesce__ :mute:[evanes~~c~~e]  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
 __ever since__ :dart::two::hammer: _I've been a fan ever since._  
@@ -3795,6 +3803,7 @@ __farflung__ _Farflung operations and profits._
 __farther__  
 __farthing__  
 __fascia__  
+__fascinate__ :mute:[fas~~c~~inate]  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ :mega:  
 __fastening__ _n_  
@@ -4077,6 +4086,7 @@ __flunk__
 __flunkie__ :two::hammer: _You"re just another flunkie for the state._  
 __flunkies__  
 __flunky__  
+__fluorescent__ :mute:[fluores~~c~~ent]  
 __flurry > in a flurry__  
 __flurry__ _n_ :nine: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
@@ -9896,7 +9906,7 @@ __subsidy__
 __substation__  
 __subsumed__ _v_ :two::hammer:  
 __subterfuge__  
-__subtle__ _adj_ :mega::three::hammer: :es: sutil  
+__subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
 __suburbanites__ _n_  
 __suburbs__  
 __succinct__ :two::pencil2::mega::hammer:  
@@ -9904,7 +9914,7 @@ __succinctly__ :pencil2:
 __succint__  
 __succor__ _n_ :three::hammer:  
 __succubus__ _n_ :three::hammer:  
-__succumb__ _v_ :two::pencil2::hammer:  
+__succumb__ _v_ :three::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
 __sucker__ _n_ :three::hammer: (of a plant) _He is a sucker for anything cute._  
@@ -10296,7 +10306,7 @@ __thrust<sup>2</sup>__ _n_
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ :two::hammer:  
-__thumb__ _v_ _He took a seat and thumbed through the Sporting News._  
+__thumb__ _v_ :two::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thundered__ _v_  
@@ -10409,6 +10419,7 @@ __toilet stool__
 __toiletries__  
 __toll__ _v_ :two::hammer: (tolls, tolling) _Church bells tolling._ _The bell tolls for Ukraine._  
 __tom__ (cat?)  
+__tomb__ :mute:[tom~~b~~]  
 __tomboy__  
 __tomcat__  
 __tomfoolery__ _n_  
@@ -11306,6 +11317,7 @@ __wolfe range__
 __woman__ _n_ /ˈwʊmən/ :mega:  
 __womanizer__ :two::hammer:  
 __womanizing__  
+__womb__ :mute:[wom~~b~~]  
 __women__ _n_ /ˈwɪmɪn/ :mega:  
 __wondrous<sup>1</sup>__ _adj_ :three::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  

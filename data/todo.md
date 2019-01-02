@@ -1,27 +1,8 @@
 
-__subtle__ :mute: (su~b~tle)  
-__succumb__ :mute: (succum~b~)  
-__thumb__ :mute: (thum~b~)  
-__tomb__ :mute: (tom~b~)  
-__womb__ :mute: (wom~b~)  
-__ascent__ :mute: (as~c~ent)  
-__crescent__ :mute: (cres~c~ent)  
-__descent__ :mute: (des~c~ent)  
-__disciple__ :mute: (dis~c~iple)  
-__evanesce__ :mute: (evanes~c~e)  
-__fascinate__ :mute: (fas~c~inate)  
-__fluorescent__ :mute: (fluores~c~ent)  
-
-__bomb__ :mute: (bom~b~)  
-__climb__ :mute: (clim~b~)  
-__comb__ :mute: (com~b~)  
-__crumb__ :mute: (crum~b~)  
-__debt__ :mute: (de~b~t)  
-__doubt__ :mute: (dou~b~t)  
-__dumb__ :mute: (dum~b~)  
-__lamb__ :mute: (lam~b~)  
-__limb__ :mute: (lim~b~)  
-__numb__ :mute: (num~b~)  
+__dumb__ :mute:[dum~~b~~]  
+__lamb__ :mute:[lam~~b~~]  
+__limb__ :mute:[lim~~b~~]  
+__numb__ :mute:[num~~b~~]  
 
 __wishy-washy__  
 __dismal__ _adj_ :mega:  
