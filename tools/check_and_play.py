@@ -43,7 +43,7 @@ def valid_use_of_underscores(entry):
 
 VALID_TAGS = [ \
     'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
-    'hammer', 'm', 'mega', 'nine', 'octocat', 'pencil2', 'seven', 'six']
+    'hammer', 'm', 'mega', 'mute', 'nine', 'octocat', 'pencil2', 'seven', 'six']
 
 def valid_tag(tag):
     """Returns True when tag is an allowed one; False otherwise"""
