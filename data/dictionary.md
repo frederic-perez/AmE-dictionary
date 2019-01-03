@@ -44,7 +44,7 @@ __Austinites__ :two::hammer:
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
 __BAR__ _BAR man._  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
-__BLT sandwich__ _n_ :two: Sandwich filled with slices of bacon and tomato with lettuce.  
+__BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __BMX__ :two::hammer: _BMX bike._  
 __BM__ Bowel movement (take a dump).  
 __BO__ :two::hammer:  
@@ -698,7 +698,7 @@ __angle__ _v_
 __angler fish__ _n_ :camera:  
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
-__angst__ _n_ :nine: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
+__angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ :two::hammer:  
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
@@ -956,7 +956,7 @@ __bade__ _v_ :three::hammer: _She bade me bring you here._ _He bade them goodnig
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
-__badly__  
+__badly__ :two::hammer: _When done badly it's very painful._  
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :five::hammer: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
@@ -3119,7 +3119,7 @@ __disinterest__
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __dislodge__ _v_  
 __disloyal__  
-__dismal__ _adj_ :seven: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
+__dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
@@ -3398,6 +3398,7 @@ __dullard__
 __dully__ _adv_  
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __dumb struck__ :two::hammer: (dumbstruck)  
+__dumb__ :mute:[dum~~b~~]  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
@@ -3757,7 +3758,7 @@ __fair and square__
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
 __fair__ _To be fair to Jim, he didn't cause the problem but inherited it._  
-__fairly__  
+__fairly__ :two::hammer: _I realized it fairly quickly._  
 __fait accompli__  
 __fall from the sky__ _This trust doesn't fall from the sky._  
 __fall into place__  
@@ -4288,6 +4289,7 @@ __fudge__ _v_ :two::hammer:
 __fudging__ _Fudging statistics._  
 __fulcrum__ :two::hammer:  
 __fulfilling__  
+__full of beans__  
 __full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
 __full-bodied__ :two::hammer:  
@@ -4887,6 +4889,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
+__have bigger fish to fry__  
 __have someone pegged__ _She had me pegged on that, too._  
 __havoc__  
 __hawing__  
@@ -5316,6 +5319,7 @@ __in fold__
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in short order__  
 __in stitches__ _idiom_  
+__in the black__ _idiom_  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
@@ -5753,6 +5757,7 @@ __laidback__ :two::hammer: _Australia's laid back lifestyle._
 __lain__  
 __lair__ _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
+__lamb__ :mute:[lam~~b~~]  
 __lambast__ _v informal_ :nine::m: (also __lambaste__) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::hammer: _Lame excuse._  
@@ -5944,7 +5949,7 @@ __likened himself to__ _Mark faked his death and likened himself to a werewolf t
 __likewise__  
 __lilac tree__  
 __lilac__ :two::hammer:  
-__limb__ _Tree limb._  
+__limb__ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _Limber stick._  
 __limerick__ _n_ (poetry) :four::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
@@ -6757,7 +6762,7 @@ __nuder__ _Officers found a small sliver handgun nuder the passenger seat._
 __nugget__ (nuggets) :two::hammer:  
 __nuisance__  
 __nullify__ _v_ :three::hammer: (nullified)  
-__numb__  
+__numb__ :two::mute:[num~~b~~]:hammer:  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbly__  
@@ -8442,7 +8447,7 @@ __rouler__ _Will 'NCIS' roulerinto a new city next year?_
 __round out__ _v_ :two::hammer:  
 __round-trip__ :two::hammer: _A round-trip ticket._  
 __round__ _v_  
-__roundabout__  
+__roundabout__ :two::hammer: (Children's attraction.)  
 __roundup__  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
@@ -10102,6 +10107,7 @@ __taking roll__ _The teacher spent 10 min of class taking roll._
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _A specific set of talents._  
+__talk into__ _phr v_  
 __talk shit__  
 __talking head__ :astonished:  
 __talktative__  
@@ -10547,7 +10553,7 @@ __treys__ :two::hammer:
 __triad__  
 __triage__ _n_ The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __trial__ _n_  
-__tribulation__ _n_ :six::hammer: (tribulations)  
+__tribulation__ _n_ :seven::hammer: (tribulations)  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
 __trick pad__  
@@ -10555,7 +10561,7 @@ __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked peop
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
 __trickle-down__ _adj_ :eight: __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
 __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
-__trickle<sup>2</sup>__ _v_ :five::hammer: _The money trickled in._  
+__trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
 __tricksy__  
 __trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
@@ -11292,6 +11298,7 @@ __wish list__ _n_ :two::hammer: _The community's wish list._ _A $100 million wis
 __wishbone__  
 __wishful thinking__ :two::hammer:  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
+__wishy-washy__  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  

@@ -1,23 +1,4 @@
 
-__in the black__ _idiom_  
-__talk into__ _phr v_  
-__badly__ _When done badly it's very painful._  
-__tribulations__  
-__roundabout__ (Children's attraction.)  
-__angst__  
-__BLT__  
-__fairly__ _I realized it fairly quickly._  
-
-__dumb__ :mute:[dum~~b~~]  
-__lamb__ :mute:[lam~~b~~]  
-__limb__ :mute:[lim~~b~~]  
-__numb__ :mute:[num~~b~~]  
-
-__wishy-washy__  
-__dismal__ _adj_ :mega:  
-__trickle__ _v_  
-__full of beans__  
-__have bigger fish to fry__  
 __talk down to__  
 __hires__ _n_  
 __constituencies__ _n_  
