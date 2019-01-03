@@ -1,4 +1,13 @@
 
+__Ivy League__ _Ivy League school._  
+__qualms__  
+__sash__ _n_  
+__pore__ _v_ (peruse?)  
+__canape__ _n_ (?)  
+__beefy__ (?)  
+__flint__ _n_ :es: sílex; piedra de encendedor  
+__clothesline__  
+
 __talk down to__  
 __hires__ _n_  
 __constituencies__ _n_  
