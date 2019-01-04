@@ -210,7 +210,7 @@ __IT Band__
 __Illini__ _n_ :three::hammer:  
 __In retrospect,__ (?)  
 __Irish twins__ _There is real twins and Irish twins._  
-__Ivy League__  
+__Ivy League__ :two::hammer: _Ivy League school._  
 __J-strokes__  
 __Jag__ Jaguar (car)  
 __Janes and Joes__ :pencil2: _Regular Janes and Joes._  
@@ -782,6 +782,7 @@ __arduous__
 __arguably__  
 __arm bands__ _n_ :es: manguitos  
 __armageddon__  
+__armchair expert__ _idiom_  
 __armload__  
 __armory__  
 __arms embargo__  
@@ -1106,6 +1107,7 @@ __bee eater__ _n_ :es: abejaruco
 __beech__ _n_ :two::hammer:  
 __beef up__ _v_ :six: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
+__beefy__ _adj_ __1__ Of or like beef. __2__ Brawny; thickset; heavy. __3__ Obese.  
 __beeline__  
 __beep-de-beep__  
 __beer gut__  
@@ -1840,6 +1842,7 @@ __campiness__ _Showbiz campiness._
 __campsite__ _n_  
 __campy__ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
+__canapé__ _n_  
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :four::hammer: _Organic coffee canisters._  
@@ -2228,7 +2231,7 @@ __closely__ _Obama's words are being watched closely by world leaders._
 __closeted__ :two::hammer: _A closeted life._  
 __closure__  
 __clot__  
-__clothesline__  
+__clothesline__ :two::hammer:  
 __clothespin__ _n_ :camera:  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
@@ -2438,7 +2441,7 @@ __consigliere__ _Our family consigliere._
 __consoled__ _v_  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __conspicuously__  
-__constituency__ _n_ :five::hammer: (constituencies)  
+__constituency__ _n_ :six::hammer: (constituencies)  
 __constituent__ _n_ :five::hammer: (constituents)  
 __construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :six::hammer: (construed)  
@@ -2730,7 +2733,7 @@ __cuckolded__ _adj_ :two::hammer:
 __cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::hammer: (cudgels)  
-__cue ball__ :two::hammer:  
+__cue ball__ _n_ :three: The ball a player strikes with the cue, as distinguished from the other balls on the table.  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -4033,7 +4036,7 @@ __flimsy__
 __flinch<sup>1</sup>__ _n_  
 __flinch<sup>2</sup>__ _v_ :five: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __fling__ _v_ :six::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
-__flint__ _n_  
+__flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
 __flinty__ _Flinty soil._  
@@ -4891,6 +4894,7 @@ __haunted__ _Billy Lynn's haunted face._
 __hauteur__  
 __have bigger fish to fry__  
 __have someone pegged__ _She had me pegged on that, too._  
+__have your cake and eat it (too)__ _idiom_  
 __havoc__  
 __hawing__  
 __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensive artwork._ __2__ To clear or attempt to clear the throat by or as if by coughing up phlegm.  
@@ -5041,6 +5045,7 @@ __hinky__
 __hinterland__ _n_ :three: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
+__hires__ _n_  
 __hirsutism__  
 __hissy__ _Hissy fit._  
 __histamine__ _n_  
@@ -7563,8 +7568,7 @@ __pop__ _v_ _Kids popping balloons._
 __popcorn__ :es: gotelé?  
 __pops__ _n informal_ :two: Father.  
 __populace__  
-__pore__ _v_  
-__poring__ _v_ :two::hammer:  
+__pore__ _v_ :four::dart::hammer: (poring)  
 __pork pie hat__ :camera:  
 __pork rinds__ :two::hammer:  
 __porkpie hat__  
@@ -7887,7 +7891,7 @@ __quaint__ _adj_ :nine: __1__ Pleasingly or strikingly old-fashioned or unusual.
 __quaintly__ :two::hammer:  
 __quakes__ _v_  
 __qualify__ _v_  
-__qualm__ _n_ :six: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
+__qualm__ _n_ :seven: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ _n_ :eight: Difficult dilemma. _All-Star managers face quandary._  
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
@@ -8578,7 +8582,7 @@ __sapphire lidar__
 __sappy__ _Sappy smile._  
 __sarcophagus__  
 __sartorial__  
-__sash__ _n_ :two::hammer: _A sash cord._  
+__sash__ _n_ :three::hammer: _A sash cord._  
 __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sass__ _v_ (sassed)  
 __sassy__  
@@ -10107,6 +10111,7 @@ __taking roll__ _The teacher spent 10 min of class taking roll._
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _A specific set of talents._  
+__talk down to__  
 __talk into__ _phr v_  
 __talk shit__  
 __talking head__ :astonished:  
@@ -10884,7 +10889,8 @@ __usher__
 __usury__  
 __utes__ _n_ (cars?)  
 __utilitarian__  
-__utility__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
+__utility<sup>1</sup>__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
+__utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
 __utmost__ _adj_ :three::hammer:  
 __utterance__  
 __utterly__ _adv_ :six::hammer: _An utterly trivial dispute._  
@@ -11356,7 +11362,7 @@ __worshiper__
 __wort__  
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, effort, or interest.  
 __wow factor__  
-__wow__ _v_  
+__wow__ _v_ :two::hammer:  
 __wracking__ _v_  
 __wraith__  
 __wrangle__ _v_ :two::hammer: (wrangling)  
@@ -11408,6 +11414,7 @@ __yarn du jour__
 __yarn__ _n_ :five::hammer: _Political yarns._  
 __yawing__ _v_  
 __yawn__ _n_ _The sound of yawns and crickets._  
+__yawner__  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay!__ _interj_  

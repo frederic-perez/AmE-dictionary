@@ -1,23 +1,4 @@
 
-__Ivy League__ _Ivy League school._  
-__qualms__  
-__sash__ _n_  
-__pore__ _v_ (peruse?)  
-__canape__ _n_ (?)  
-__beefy__ (?)  
-__flint__ _n_ :es: sílex; piedra de encendedor  
-__clothesline__  
-
-__talk down to__  
-__hires__ _n_  
-__constituencies__ _n_  
-__cue ball__  
-__wow__ _v_  
-
-__utility__ _adj_ (?) _A pair of utility classes._  
-__have your cake and eat it (too)__ _idiom_  
-__armchair expert__ _idiom_  
-__yawner__  
 __yap__ Mouth.  
 __food coma__ _idiom_  
 __talk back__ _idiom_  
