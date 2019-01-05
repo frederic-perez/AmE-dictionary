@@ -1,4 +1,13 @@
 
+__crestfallen__  
+__dandelion__ _Dandelion seed._  
+__put up with__  
+__e.g.__ Exempli Gratia.  
+__ancillary__ (?)  
+__pianissimo__ _music_ Very quietly.  
+__food stall__  
+__allowance__  
+
 __yap__ Mouth.  
 __food coma__ _idiom_  
 __talk back__ _idiom_  
