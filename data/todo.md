@@ -1,4 +1,13 @@
 
+__be no picnic__ _Looking after four children is no picnic._  
+__paper towel__  
+__ludicrous__  
+__anything goes__  
+__name-dropping__ _n_  
+__dandelion__ :es: (?)  
+__CE__ In a pocket calculator, clear-entry key, used to erase the last number entered.  
+__parcel__ _n_  
+
 __crestfallen__  
 __dandelion__ _Dandelion seed._  
 __put up with__  
