@@ -64,6 +64,7 @@ __C-rations__
 __C-suite__ _C-suite staff._  
 __C.E.__ (CE) Of the period coinciding with the Christian era; preferred by some writers who are not Christians; "in 200 CE." _A Jewish revolt against Rome ended in defeat in 135 C.E._  
 __CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
+__CE__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
 __CFL__ _Compact fluorescent lamp._  
 __CID__  
 __COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
@@ -642,6 +643,7 @@ __allies__ _n_
 __allocation__ _Allocation of resources._  
 __allotment__ :two::hammer:  
 __allotted__  
+__allowance__  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :three::hammer: _Dwayane Wade raised three fingers aloft._  
@@ -685,7 +687,8 @@ __anachronism__
 __analyst__ :pencil2:  
 __anathema__ _n_ :four: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchovies__  
-__ancillary__ :two::hammer:  
+__ancillary<sup>1</sup>__ _adj_ :two::mega::hammer:  
+__ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
 __and so it goes__  
 __and-a-one, and-a-two...__  
@@ -721,7 +724,7 @@ __antsy__ _adj_
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
 __anything but__ _It is anything but sweet._  
-__anything goes__  
+__anything goes__ :two::hammer:  
 __apace__ _Concussion concerns continue apace._  
 __apalled__ _v_ :two::hammer:  
 __apathetic__  
@@ -1071,6 +1074,7 @@ __bays__ _n_
 __bazillion__  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
+__be no picnic__ _Looking after four children is no picnic._  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
@@ -2641,7 +2645,7 @@ __crepe paper bells__
 __crepe__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
-__crestfallen__  
+__crestfallen__ :two::hammer:  
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
@@ -2820,7 +2824,7 @@ __dampness__
 __damsel__ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
 __dandelion thistle__  
-__dandelion__ _n_ :two::hammer: (dandelions)  
+__dandelion__ _n_ :four: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dang__ _adj_ _But, dang marketers go crazy._  
@@ -3440,6 +3444,7 @@ __dystopian__
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
 __e-blasts__  
 __e-commerce__  
+__e.g.__ Exempli Gratia.  
 __eager__  
 __earbuds__ :camera:  
 __earlier__ _adv_ :three:  
@@ -4123,6 +4128,7 @@ __folk__ _n_ :two::hammer: (plural)
 __follow suit__ _idiom_ :four: To do as another has done; follow an example.  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __food processor__  
+__food stall__  
 __food-handler's permit__  
 __foodie__ _A foodie and a friend._  
 __foodstuffs__  
@@ -6614,6 +6620,7 @@ __nail it down__
 __nail it__  
 __name-and-likeness__  
 __name-calling__  
+__name-dropping__ _n_  
 __nameplate__ _n_  
 __names and likeness__  
 __namesake__  
@@ -7099,7 +7106,7 @@ __pants down__ :camera: _You might get caught with your pants down._
 __pants-on-fire__  
 __pantsed__ _v_  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
-__paper towels__  
+__paper towel__ :two::hammer: (paper towels)  
 __paperclip__ _n_  
 __paperwork__  
 __pappy__  
@@ -7112,7 +7119,7 @@ __paramount__ _The reliability of the weather station is paramount._
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __parasailing__  
-__parcel<sup>1</sup>__ _n_ :six::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
+__parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _The dryness will encompass parched California._  
 __parchment paper__ :camera:  
@@ -7316,6 +7323,7 @@ __photochromic__ _adj_
 __photography__ _n_ :mega:  
 __phylacteries__ :two::hammer:  
 __phytoplankton__ _n_  
+__pianissimo__ _music_ Very quietly.  
 __piano wire__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick a fight__  
@@ -7866,7 +7874,7 @@ __put on the back burner__ _It has put the needs of farmers on the back burner i
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put to the test__  
-__put up__ _v_ :two::hammer: _We're not going to put up with this anymore._ _People put up with it._  
+__put up with__ _v_ :three::hammer: _We're not going to put up with this anymore._ _People put up with it._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -11407,7 +11415,8 @@ __yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
-__yap__ _v_ :two::hammer: (yapping) _The dog was yapping._  
+__yap<sup>2</sup>__ _n_ Mouth.  
+__yap<sup>1</sup>__ _v_ :two::hammer: (yapping) _The dog was yapping._  
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
