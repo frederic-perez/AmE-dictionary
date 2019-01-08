@@ -523,7 +523,7 @@ __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics 
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
-__ad infinitum__ _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
+__ad infinitum__ :two::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad-lib__ _v_ (ad-libs) :two::hammer:  
 __ad__ _n informal_ Advertisement.  
 __adage__ :two::hammer:  
@@ -2465,7 +2465,7 @@ __continence__
 __contingency plan__ :two::hammer:  
 __contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
-__continual__ _For most systems, change is continual._  
+__continual__ :two::hammer: _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_  
 __contrarian__  
@@ -4118,7 +4118,7 @@ __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle 
 __foible__ _n_ :three: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
-__foist__ _v_  
+__foist__ _v_ :two::hammer: (foisting)  
 __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __fold__ _v_ (card games)  
@@ -4127,6 +4127,7 @@ __folded__ _The American Soccer League folded in 1931._
 __folk__ _n_ :two::hammer: (plural)  
 __follow suit__ _idiom_ :four: To do as another has done; follow an example.  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
+__food coma__ _idiom_  
 __food processor__  
 __food stall__  
 __food-handler's permit__  
@@ -4498,6 +4499,7 @@ __glimmer__ _A glimmer of hope._
 __glimpse__  
 __glint__  
 __glinting__ _v_  
+__glissade__ _v_  
 __glitz__  
 __glitzy__  
 __gloaming__  
@@ -5460,8 +5462,10 @@ __interlopers__ _n_ :two::hammer:
 __interment__ _n_ :three::hammer:  
 __intermission__ _n_ :four::hammer::dart:  
 __intermittent__  
+__intern__  
 __international friendly__  
-__interrelate__ _v_ :astonished:  
+__internship__  
+__interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :five::hammer: (interspersed)  
 __intertwine__  
 __intertwined__  
@@ -7064,6 +7068,7 @@ __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's ju
 __pageboy__  
 __pail__ _n_ :three::hammer: _A lunch pail._  
 __painstaking__ _Painstaking patience._  
+__painstakingly__  
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __palanquin__ _n_  
@@ -7485,7 +7490,7 @@ __please__ (Use it at the end of a request/question.)
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
-__plethora__ _n_ :three::hammer:  
+__plethora__ _n_ :four::hammer:  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
@@ -9656,6 +9661,7 @@ __standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the st
 __standoff__ _n_ :four::hammer:  
 __standout<sup>1</sup>__ _adj informal_ :seven: Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
+__standpoint__  
 __standstill__ _n_ :two::hammer: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __stanza__  
 __staph__ _Staph infections._  
@@ -9864,7 +9870,7 @@ __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
 __stripling__ _n_  
-__strive__ _v_ :three::hammer:  
+__strive__ _v_ :four::hammer:  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
@@ -10109,6 +10115,7 @@ __take a shit__ _v_
 __take a stand__  
 __take by storm__  
 __take heart__  
+__take on__ _idiom_  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
@@ -10119,6 +10126,7 @@ __taking roll__ _The teacher spent 10 min of class taking roll._
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _A specific set of talents._  
+__talk back__ _idiom_  
 __talk down to__  
 __talk into__ _phr v_  
 __talk shit__  
@@ -10337,6 +10345,8 @@ __thwack__ (thwacks) :two::hammer:
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :three::hammer:  
 __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
+__tic<sup>1</sup>__ _n_  
+__tic<sup>2</sup>__ _v_  
 __tick prevention__  
 __tick__ _v_ _Prices ticked up 0.2%._  
 __ticker__  
@@ -11129,7 +11139,8 @@ __weaknesses__ _What are your personal strengths and weaknesses?_
 __wean__ _v_ :eight::hammer: (weaned)  
 __weaponize__ _v_  
 __weary__  
-__weasel__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
+__weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
+__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include `Processor`, `Manager`, and `Super`._  
 __weather vane__  
 __weather__ _v_ (weathering)  
 __weave<sup>1</sup>__ _n_  
@@ -11238,7 +11249,7 @@ __whole nine yards, the__
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::hammer:  
 __wholesome__ :two::hammer:  
-__wholly__ _adv_ :pencil2::two::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
+__wholly__ _adv_ :pencil2::three::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
 __whoop<sup>1</sup>__ _n_ :two::hammer:  
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
@@ -11415,8 +11426,8 @@ __yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
-__yap<sup>2</sup>__ _n_ Mouth.  
 __yap<sup>1</sup>__ _v_ :two::hammer: (yapping) _The dog was yapping._  
+__yap<sup>2</sup>__ _n_ Mouth.  
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
