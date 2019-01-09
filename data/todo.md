@@ -1,26 +1,4 @@
 
-__cobbled__ _v_  
-__roundly__ _I feel free to roundly criticize this source code._  
-
-__blithely__ :two::hammer:  
-__paragon__  
-__anathema__  
-__cruft__  
-__listing__ _n_   
-__admixture__  
-__stub__ _n_  
-__valiant<sup>1</sup>__ _adj_  
-__valiant<sup>2</sup>__ _n_  
-
-__wordsmith__ _v_  
-__crufty__  
-__wield__ _v_  
-__chimera__ _n_ (chimeras)  
-__delude__ _v_  
-__flippant__ _adj_  
-__case in point__  
-__plop__ _v_ (plopping)  
-
 __godmother__ _A fairy godmother._  
 __sieve__  
 __accrete__ _v_  

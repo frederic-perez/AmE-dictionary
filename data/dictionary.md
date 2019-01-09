@@ -540,7 +540,7 @@ __adjudicator__
 __adjunct__ _Adjunct professors._  
 __adjuvant__ _adj_ _The adjuvant setting._  
 __admin__ _I was doing just admin stuff._  
-__admixture__  
+__admixture__ _n_ :two::hammer:  
 __admonition__ _n_ :six: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
@@ -685,7 +685,7 @@ __amply__
 __amusement park__  
 __anachronism__  
 __analyst__ :pencil2:  
-__anathema__ _n_ :four: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
+__anathema__ _n_ :five: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :two::mega::hammer:  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
@@ -1331,7 +1331,7 @@ __blink__ _v_ _There is no reason to blink._
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
 __blithe__ _adj_ :six::hammer:  
-__blithely__ _adv_ :five::hammer: _The worst option is to blithely add getters and setters._  
+__blithely__ _adv_ :seven::hammer: _The worst option is to blithely add getters and setters._  
 __blitheness__  
 __blither__  
 __blithering__  
@@ -1923,7 +1923,7 @@ __carve out__ _v_ (carved out) :six::hammer:
 __carveouts__  
 __cascading__  
 __case at hand__  
-__case in point__ _n_ :five::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
+__case in point__ _n_ :six::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case the joint__  
 __case__ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
@@ -2089,7 +2089,7 @@ __chilblain__ _n_ :three: (chilblains) An inflammation followed by itchy irritat
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_  
-__chimera__ _n_  
+__chimera__ _n_ (chimeras) :two::hammer:  
 __chiming__ :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
@@ -2272,7 +2272,7 @@ __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat
 __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattails a little bit._  
 __cob__  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
-__cobble__ _v_  
+__cobble__ _v_ :two::hammer: (cobbled)  
 __cobweb__ _n_ :five::hammer: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
@@ -2704,8 +2704,8 @@ __crude__ _adj_ :two::hammer: _Crude humor._
 __crudity__ _"Please, excuse the crudity of the model," said Dr. Brown._  
 __cruel__ _His body looked cruel._  
 __cruffy__  
-__cruft__ _n_  
-__crufty__ :two::hammer: _A crufty comment._  
+__cruft__ _n_ :two::hammer:  
+__crufty__ _adj_ :three::hammer: _A crufty comment._  
 __crumb__ _n_ :four::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
 __crumble__ _v_ :four::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
@@ -2951,7 +2951,7 @@ __delivered__ _On Thursday the No. 4-ranked Cougars delivered._
 __delivers__  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
-__delude__ _v_  
+__delude__ _v_ :two::hammer:  
 __deluded__  
 __deluge<sup>1</sup>__ _n_ :four: _The deluge is not over._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
@@ -4048,7 +4048,7 @@ __flinty__ _Flinty soil._
 __flip (me) the bird__  
 __flip the bird__  
 __flip-flops__  
-__flippant__  
+__flippant__ _adj_ :two::hammer:  
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__ :two::hammer:  
@@ -5992,7 +5992,7 @@ __lisp<sup>2</sup>__ _v_
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listening session__  
-__listing__ _n_ :three::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
+__listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
 __litany__ _n_ :four: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
@@ -7117,7 +7117,7 @@ __paperwork__
 __pappy__  
 __paradox__  
 __paraglider__ _n_ :es: parapente; parapentista  
-__paragon__ _n_ :three::hammer: (paragons) _A paragon of redundancy._  
+__paragon__ _n_ :four::hammer: (paragons) _A paragon of redundancy._  
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
 __paramount__ _The reliability of the weather station is paramount._  
@@ -7499,10 +7499,7 @@ __plight__ _n_ :five: Tough situation.
 __plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :seven::hammer: (plodded, plodding) _Plod to the shower._  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
-__plop<sup>2</sup>__ _v_ (plopped) Fall or cause to fall with a plop. _The stone plopped into the pond._  
-__plop__ _v_  
-__plopped__ _v_ :two::hammer:  
-__plops__ _v_  
+__plop<sup>2</sup>__ _v_ :six: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
 __plot__ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
 __plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
 __plovers__  
@@ -8465,6 +8462,7 @@ __round out__ _v_ :two::hammer:
 __round-trip__ :two::hammer: _A round-trip ticket._  
 __round__ _v_  
 __roundabout__ :two::hammer: (Children's attraction.)  
+__roundly__ _I feel free to roundly criticize this source code._  
 __roundup__  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
@@ -9883,7 +9881,7 @@ __strummed__ _v_ _He then strummed out a string of hits, including "Message in a
 __strung out__  
 __strung__ _v_  
 __strut__ _v_ :five: (strutted) When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
-__stub__ _n_ :four::hammer: _The stubs of cold-withered grass._  
+__stub__ _n_ :five::hammer: _The stubs of cold-withered grass._  
 __stubble__ _n_ :nine::m: __1__ The short, stiff stalks of grain or hay remaining on a field after harvesting. _The sugarcane stubble._ _Smoke from a distant stubble fire._ __2__ Something resembling this material, especially the short growth of hair that eventually protrudes from the skin after shaving.  
 __stubborn__ _adj_  
 __stubby__ :two::hammer: _Stubby fingers._  
@@ -10926,7 +10924,8 @@ __vagrant<sup>1</sup>__ _n_ :five: (vagrants) __1__ A person who wanders about i
 __vagrant<sup>2</sup>__ _adj_  
 __valedictorian__ _n_ :seven::hammer: (valedictorians)  
 __valentine__  
-__valiant__  
+__valiant<sup>1</sup>__ _adj_  
+__valiant<sup>2</sup>__ _n_ :two::hammer:  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __valuable__ _n_ :astonished:  
 __vamping__ :two::hammer:  
@@ -11265,7 +11264,7 @@ __wicket__
 __wicking__ :two::hammer: _Moisture wicking._ _High-wicking polyester._  
 __wicks__ _n_ :two::hammer: _Linen wicks._  
 __widebody__ _Widebody jet._  
-__wield__ _v_ :eight: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
+__wield__ _v_ :nine: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
 __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wiggle<sup>2</sup>__ _v_  
@@ -11365,7 +11364,7 @@ __woomb__
 __woozy__ :two::hammer:  
 __wording__ _n_  
 __wordplay__  
-__wordsmith__  
+__wordsmith__ _v_ :two::hammer:  
 __work as planned__  
 __work my tail of__  
 __workaday__  
