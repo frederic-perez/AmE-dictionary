@@ -499,7 +499,7 @@ __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democrati
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
 __accoutrements__  
-__accrete__ _v_ :three: (accretes) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
+__accrete__ _v_ :four: (accretes) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
@@ -2291,10 +2291,11 @@ __cohesive__ :dart::two::hammer: _A more cohesive layout._
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__  
-__coin__ _v_  
+__coin__ _v_ :two::hammer: _To coin a phrase._  
 __coincided__ _v_  
 __coincidental__  
 __coincidentally__  
+__coke-bottle glasses__  
 __colander__  
 __cold duck__  
 __cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
@@ -2472,7 +2473,7 @@ __contrarian__
 __contretemps__  
 __contrite__ _adj_ :three::hammer:  
 __contrition__ _n_ :three::hammer:  
-__contrivance__ _n_ :two::hammer:  
+__contrivance__ _n_ :three::hammer:  
 __contrive__ _v_ (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__  
@@ -2720,8 +2721,7 @@ __crunchtime__
 __crusader__  
 __crush__ _I was crushed._  
 __crusty__  
-__crutch words__  
-__crutch__ _n_ :three::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
+__crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :two::hammer: _The crux of the matter._  
 __cry foul__ :two::hammer: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cryotherapy__  
@@ -2941,7 +2941,7 @@ __dejected__
 __deking__  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ :two::hammer:  
-__deleterious__ :two::hammer:  
+__deleterious__ _adj_ :three::hammer:  
 __deli__  
 __delight__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
@@ -3172,7 +3172,7 @@ __diverted__ _diverted flights_
 __dives__ _v_  
 __divest__ _v_ :two::hammer: (divested)  
 __divestiture__ :two::hammer:  
-__divine__ _v_ :three: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
+__divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
 __divisive__ _He is more interested in spouting divisive sound bites._  
 __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
@@ -3248,7 +3248,7 @@ __double up__ _phr v_ To bend suddenly, as in pain or laughter.
 __double-cross__ _n_  
 __double-decker__ :two::hammer: _Double-decker bus._  
 __double-edged__ _adj_ _Double-edged sword._  
-__double-take__ :four::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
+__double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
 __doubly__  
 __doubt__ :mute:[dou~~b~~t]  
@@ -4519,7 +4519,7 @@ __gnash__ _Gnasing teeth._
 __gnashing__  
 __gnat__ _n_ :three::hammer: (insect?)  
 __gnaw__ _v_ :nine: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
-__go a long way__ _Go a long way toward minimizing damage._  
+__go a long way__ :dart::two::hammer: _Go a long way toward minimizing damage._  
 __go apeshit__  
 __go awry__ :two::hammer:  
 __go dutch__  
@@ -4548,11 +4548,12 @@ __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former c
 __gobble__ _v_ :two::hammer: _Gobbling a plate of spaguetti and meatballs._  
 __gobbledygook__  
 __goblin__ _n_ :three::hammer: (goblins)  
-__godmother__ _n_  
+__godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
 __gold rush__  
 __goldfinch__ _n_ :es: jilguero  
 __golliwog__ _n_  
+__gomer__ _n_ _slang_ :dart: A first-year Air Force Academy cadet, esp a clumsy trainee [origin uncertain; medical sense said to be an acronym of "get out of my emergency room"] _Gomer Pyle._  
 __gonads__ _n_  
 __gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
 __gonorrhea__  
@@ -5430,6 +5431,7 @@ __inland__
 __inlays__ _n_ _Mother-of-pearl inlays._  
 __innards__ _v_ _The pictures adorn the innards of each chapter._  
 __innumerate__  
+__inobvious__  
 __inordinate__ _adj_ :three::hammer:  
 __inordinately__  
 __inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
@@ -5440,6 +5442,7 @@ __inroads__ _n_ :three::hammer:
 __ins and outs__  
 __inscrutable__ _adj_ :three::hammer:  
 __inset__ :two::hammer:  
+__insidious__  
 __insipid__  
 __insofar__  
 __insolvency__  
@@ -6441,7 +6444,7 @@ __mistletoe__ _n_
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mistrial__ _n_ :two::hammer:  
-__mistruths__  
+__mistruth__ :two::hammer: (mistruths)  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __mitigate__ _v_  
 __mitt__ _n_  
@@ -6812,6 +6815,7 @@ __oblivion__
 __oblivious__ _adj_ :three::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obo__ _abbr_ :two: Or best offer.  
+__obscure__ _v_  
 __obsequious__  
 __obsidian__  
 __obstreperousness__  
@@ -7436,7 +7440,7 @@ __pizazz__ _n_ :two: (pizzazz or pizazz or pzazz) An attractive combination of v
 __pizzle__ _n_ :two::hammer: (penis?)  
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
-__place holder__  
+__place holder__ :two::hammer:  
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
 __placeholder__  
@@ -9058,7 +9062,7 @@ __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
-__sieve__ _n_ :four::hammer:  
+__sieve__ _n_ :five::hammer:  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sigh__ :mega:  
 __sign up__ _v_  
