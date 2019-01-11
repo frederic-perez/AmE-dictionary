@@ -679,7 +679,7 @@ __amity__
 __ammassed__ _v_  
 __amnesty player__  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
-__ample__ _adj_ :two: Enough or more than enough; plentiful. _There is ample time for discussion._ _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
+__ample__ _adj_ :three: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __amusement park__  
@@ -774,6 +774,7 @@ __arbor__ :two::hammer: _An arbor of live oaks._
 __arboretum__  
 __arcane__ :four::hammer: _This function appends arcane strings._  
 __arch__ _Her character is arch and fake._  
+__archaea__ _n_  
 __arched doorway__ :camera:  
 __archenemy__ :pencil2:  
 __archetypal__  
@@ -3186,7 +3187,7 @@ __doable__ _It was not a lot of time but it was doable._
 __docents__  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
-__doctor__ _v_ :two::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
+__doctor__ _v_ :three::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doddering__  
 __dodges__ _n_  
 __dodgy__  
@@ -4358,7 +4359,7 @@ __galloping__
 __galoshes__ _n_  
 __galvanize__ _v_ :three::hammer: (galvanized)  
 __gambit__  
-__game plan__ :two::hammer:  
+__game plan__ _n_ :four::hammer: _My game plan is "failure is not an option."_  
 __game-changing__  
 __game__ (hunting)  
 __gamely__  
@@ -5385,7 +5386,7 @@ __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definit
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __indefatigable__ _adj_ :four::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
 __indefinite__  
-__indelible__ _adj_ :five::hammer::pencil2: _An indelible mark._  
+__indelible__ _adj_ :six::hammer::pencil2: _An indelible mark._  
 __indenture__ _v_  
 __indentured__  
 __indict__ _v_ :six::hammer: (indicted :mega:)  
@@ -5452,6 +5453,7 @@ __instating__
 __instill__ _v_ :four::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
+__instrumental__  
 __insular__ _His small, insular group of loyalists._  
 __insure__ _v_  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
@@ -7033,6 +7035,7 @@ __overhead__
 __overkill__ _v_ _I'll top the bill, I'll overkill._  
 __overlay__ _n_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
+__overnight__ _The change will not happen overnight._  
 __overpass__ _n_  
 __overripe__ :two::hammer::camera: _An overripe banana._ _An overripe eggplant._  
 __overseas__  
@@ -7558,7 +7561,7 @@ __pollster__ _n_
 __pols__ _n_  
 __poltergeist__ :mega:  
 __polyadic__  
-__polymath__ _n_ :two::hammer:  
+__polymath__ _n_ :three::hammer:  
 __pomegranates__ _n_  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
@@ -8133,6 +8136,7 @@ __recollection__ _n_ :six::hammer:
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
+__recounting__ _His recounting._  
 __recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
 __recreational__ _Recreational marijuana vs medical marijuana._  
@@ -8350,6 +8354,7 @@ __riffraff__
 __rifle__ _v_  
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
+__rigged__  
 __right__ :two::dart::hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
 __rightfully__ _Rightfully so._  
@@ -8404,6 +8409,7 @@ __rock salt__ _Rock salt is used in the UK to treat roads during the winter mont
 __rock the boat__ :two::hammer:  
 __rock-paper-scissors__ _Is this rock-paper-scissors?_  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
+__rocket__ :mega:  
 __rodeo__ :mega:  
 __rods__ _A few rods away._  
 __roe__ _A roe deer._  
@@ -8498,7 +8504,7 @@ __ruffles__
 __rug > sweep it under the rug__  
 __rug__ _n_  
 __rugged__ _He was red carded for a rugged foul._  
-__rule of law__ _n_ :three::hammer:  
+__rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ :two: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
@@ -9451,6 +9457,7 @@ __sovereignty__ :pencil2:
 __sow__ _n_ :four::hammer: _A drunk sow._  
 __soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a soybean bin._  
 __space heater__ _n_  
+__space__ _v_ _I spaced on that._  
 __spaceling__ _v_  
 __spackle__ :two::hammer:  
 __spade-bearded__  
@@ -10255,6 +10262,7 @@ __terse__
 __test the waters__ _We're testing the waters._  
 __tester bed__ :two::hammer:  
 __testy__  
+__tether__ _v_ (tethered)  
 __texcetera__  
 __thane__ _v_  
 __thang__  
@@ -10766,7 +10774,7 @@ __undercurrent__
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_ :three::hammer: (undermined)  
+__undermine__ _v_ :four::hammer: (undermined)  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  
@@ -11282,6 +11290,7 @@ __wilfull__
 __will__ _v_  
 __willful__  
 __willfully__  
+__willpower__ _n_  
 __willy-nilly__ _adv_ (willy nilly) :six: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __wilt__ _v_  
 __wilted__ _v_ :seven::hammer: (wilting) _He'd wilted under it._  
