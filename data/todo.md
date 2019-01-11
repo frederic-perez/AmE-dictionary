@@ -18,3 +18,13 @@ __backtrack__
 __step up__ _v_  
 __damning__ _A damning independent inquiry._  
 __sling__ _n_ _The sling for his dislocated shoulder._  
+
+__riddle__ _n_  
+__bad egg__ Someone who behaves in a bad or dishonest way.  
+__a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
+__burn the candle at both ends__ To work or study day and night.  
+__think back__ To think about a past event or a past time.  
+__stove__ _n_  
+__drapes__ _n_  
+__pants__ _n_  
+__to be back on your feet__ To be healthy again after a period of illness.  
