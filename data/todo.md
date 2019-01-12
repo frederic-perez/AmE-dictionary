@@ -1,4 +1,15 @@
 
+__break the mould__  
+__thumb tacks__  
+__bill-file__  
+__direct object__  
+__strain__ _v_  
+__drain__ _v_  
+__simmer__ _v_ :es: (?)  
+__braise__ _v_ :es: (?)  
+__to have a point__ _He's got a point._  
+__Toyota__ :mega: (? CHK)  
+
 __flout__ _v_  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __easy as can be__  
