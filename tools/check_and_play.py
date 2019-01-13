@@ -381,6 +381,7 @@ class Checker(object):
         else:
             print OKGREEN + 'No duplicated headwords were found' + ENDC
         print
+        return bool(size == 0)
 
     def check_undef_high_freq_keywords(self):
         """Self-explanatory"""
@@ -526,8 +527,8 @@ DICTIONARY = '../data/dictionary.md'
 
 CHECKER = Checker(DICTIONARY)
 CHECKER.check_entries()
-CHECKER.check_duplicated_headwords()
-CHECKER.check_undef_high_freq_keywords()
+assert CHECKER.check_duplicated_headwords() == True
+assert CHECKER.check_undef_high_freq_keywords() == True
 
 GAME = Game(DICTIONARY)
 GAME.gather_high_frequency_headwords()
