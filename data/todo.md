@@ -1,4 +1,15 @@
 
+__writ__ _n_  
+__madrigal__ _n_  
+__maelstrom__ _n_  
+__impeded__ _v_  
+__buzz kill__  
+__buzzkiller__  
+__squirm__  
+__buggy__ :mega:  
+__coin purse__  
+__teeterboard__  
+
 __break the mould__  
 __thumb tacks__  
 __bill-file__  
