@@ -1,4 +1,14 @@
 
+__john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
+__Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
+__cuppa__ A cup of tea.  
+__sweep you off your feet__ To fall in love with them very quickly and strongly.  
+__think up__ To invent or imagine something, especially an excuse.  
+__bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
+__crestfallen__  
+__confounded__  
+__think over__ To consider a problem or decision carefully.  
+
 __writ__ _n_  
 __madrigal__ _n_  
 __maelstrom__ _n_  
