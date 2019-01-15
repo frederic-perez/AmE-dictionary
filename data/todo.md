@@ -1,4 +1,14 @@
 
+__nerd__ _n_  
+__peeping Tom__ _idiom_ A person who secretly watches others, especially for sexual gratification; a voyeur.  
+__date__ _n_ The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed.  
+__dog-eat-dog__ _idiom_ _adj_ A very competitive situation in which people will do anything to survive and be successful, even if it harms other people.  
+__jolly__ _adj_  
+__lawmaker__ _n_  
+__beer pong__ _n_  
+__snowpack__ _n_  
+__foundry__ _n_ :es: fundición  
+
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __cuppa__ A cup of tea.  
