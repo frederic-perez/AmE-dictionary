@@ -1,4 +1,15 @@
 
+__flick__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance. 
+__drink like a fish__ To drink too much alcohol.  
+__throw away__ To get rif of something that you no longer want.  
+__dog-eat-dog__  
+__calendar girl__  
+__sleek__ _adj_  
+__mislay__ _v_ _He mislaid his keys._  
+__incidentally__ _adv_  
+__misgiving__ _n_  
+__plantar fasciitis__ :pencil2:  
+
 __nerd__ _n_  
 __peeping Tom__ _idiom_ A person who secretly watches others, especially for sexual gratification; a voyeur.  
 __date__ _n_ The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed.  
