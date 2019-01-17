@@ -1,5 +1,15 @@
 
-__flick__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance. 
+__shoebox__ _n_  
+__throw off__ _phr v_ To quickly remove a piece of clothing.  
+__marshmallow__ _n_ Althaea officinalis. The word "marshmallow" comes from the mallow plant species, an herb which grows in marshes and other damp areas. 
+__shoehorn<sup>1</sup>__ _n_ A smooth curved implement, often of plastic or metal, inserted at the heel to help put on a shoe.  
+__shoehorn<sup>2</sup>__ _v_ To squeeze into or as if into an insufficient space: _Can you shoehorn four of us into the back seat of your car?_  
+__trapdoor__ _n_  
+__-esque__ :two: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__hard rock__ _n_  
+__figuratively__ _adv_  
+
+__flick__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
 __drink like a fish__ To drink too much alcohol.  
 __throw away__ To get rif of something that you no longer want.  
 __dog-eat-dog__  
