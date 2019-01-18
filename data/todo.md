@@ -1,4 +1,13 @@
 
+__pupillary__ _adj_ _Pupillary distance._  
+__nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
+__fluke__ _n_ Something good that happens by chance.  
+__throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
+__know the ropes__ _idiom_ To know how to do a job or task properly.  
+__let somebody down__ _idiom_ To disappoint someone.  
+__glib__ _A glib tongue._  
+__supersede__ _v_  
+
 __shoebox__ _n_  
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __marshmallow__ _n_ Althaea officinalis. The word "marshmallow" comes from the mallow plant species, an herb which grows in marshes and other damp areas. 
