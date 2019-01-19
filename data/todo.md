@@ -1,4 +1,13 @@
 
+__miscellaneous__ :mute:[mis~~c~~ellaneous]  
+__obscene__ :mute:[obs~~c~~ene]  
+__scenario__ :mute:[s~~c~~enario]  
+__scene__ :mute:[s~~c~~ene]  
+__scent__ :mute:[s~~c~~ent]  
+__science__ :mute:[s~~c~~ience]  
+__scissors__ :mute:[s~~c~~issors]  
+__almond__ :mute:[a~~l~~mond]  
+
 __pupillary__ _adj_ _Pupillary distance._  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __fluke__ _n_ Something good that happens by chance.  
