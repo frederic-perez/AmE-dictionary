@@ -1,4 +1,13 @@
 
+__sleepover__  
+__stir__ _v_ (stirred, stirring :pencil2:)  
+__cheeky__  
+__carnival__  
+__diadem__  
+__doofer__ _n informal_  
+__sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
+__rheum__ _n_ :es: legaña  
+
 __miscellaneous__ :mute:[mis~~c~~ellaneous]  
 __obscene__ :mute:[obs~~c~~ene]  
 __scenario__ :mute:[s~~c~~enario]  
