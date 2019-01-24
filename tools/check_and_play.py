@@ -415,6 +415,8 @@ class Checker(object):
         else:
             print OKGREEN + 'No undefined high frequency headwords were found' + ENDC
 
+        return bool(size == 0)
+
 def get_index(tag_as_number):
     """Returns the appropriate index to use in list, skipping 1 (we start at :two:)"""
     return tag_as_number - 2
