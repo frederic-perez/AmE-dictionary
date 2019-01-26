@@ -1,4 +1,13 @@
 
+__balm__ :mute:[ba~~l~~m]  
+__calf__ :mute:[ca~~l~~f]  
+__calm__ :mute:[ca~~l~~m]  
+__chalk__ :mute:[cha~~l~~k]  
+__folk__ :mute:[fo~~l~~k]  
+__half__ :mute:[ha~~l~~f]  
+__palm__ :mute:[pa~~l~~m]  
+__psalm__ :mute:[psa~~l~~m]  
+
 __sleepover__  
 __stir__ _v_ (stirred, stirring :pencil2:)  
 __cheeky__  
