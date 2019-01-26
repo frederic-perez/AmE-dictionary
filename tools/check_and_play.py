@@ -532,7 +532,7 @@ CHECKER.check_entries()
 assert CHECKER.check_duplicated_headwords() == True
 assert CHECKER.check_undef_high_freq_keywords() == True
 
-GAME = Game(DICTIONARY)
-GAME.gather_high_frequency_headwords()
-GAME.print_nine_m()
-GAME.play()
+game = Game(DICTIONARY)
+game.gather_high_frequency_headwords()
+game.print_nine_m()
+game.play()
