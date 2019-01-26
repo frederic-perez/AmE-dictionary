@@ -15,7 +15,7 @@ I collect words and expressions from multiple (written) sources, including:
 </p>
 
 - [The YUNiversity](http://www.theyuniversity.net/) | [@The_YUNiversity](https://twitter.com/The_YUNiversity) | [Tumblr](https://TheYUNiversity.tumblr.com) :mag: | [Instagram](https://www.instagram.com/the_yuniversity/)
-- Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/grammargoddess)
+- Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/susanrooks-the-grammar-goddess/)
 
 ### Audio Resources
 
