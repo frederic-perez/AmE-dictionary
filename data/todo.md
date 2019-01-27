@@ -1,4 +1,13 @@
 
+__racy__ _Racy song._  
+__PC__  
+__hickey__ A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
+__let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
+__tidy up__  
+__freebie__ Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._  
+__tighten your belt__ _idiom_ To spend less money.  
+__parched__ Very dry.  
+
 __balm__ :mute:[ba~~l~~m]  
 __calf__ :mute:[ca~~l~~f]  
 __calm__ :mute:[ca~~l~~m]  
