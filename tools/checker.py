@@ -529,8 +529,6 @@ DICTIONARY = '../data/dictionary.md'
 
 CHECKER = Checker(DICTIONARY)
 CHECKER.check_entries()
-assert CHECKER.check_duplicated_headwords() == True
-assert CHECKER.check_undef_high_freq_keywords() == True
 
 game = Game(DICTIONARY)
 game.gather_high_frequency_headwords()
