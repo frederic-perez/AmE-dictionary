@@ -1,4 +1,21 @@
 
+__salmon__ :mute:[sa~~l~~mon]:astonished:  
+__talk__ :mute:[ta~~l~~k]  
+__walk__ :mute:[wa~~l~~k]  
+__yolk__ :mute:[yo~~l~~k]  
+__would__ :mute:[wou~~l~~d]  
+__could__ :mute:[cou~~l~~d]  
+__cupboard__ :mute:[cu~~p~~board]  
+__coup__ :mute:[cou~~p~~]  
+__pneumonia__ :mute:[~~p~~neumonia]  
+__psalm__ :mute:[~~p~~salm]  
+__psyche__ :mute:[~~p~~syche]  
+__psychic__ :mute:[~~p~~sychic]  
+__psychiatrist__ :mute:[~~p~~sychiatrist]  
+__psychology__ :mute:[~~p~~sychology]  
+__pseudo__ :mute:[~~p~~seudo]  
+__pseudonym__ :mute:[~~p~~seudonym]  
+
 __racy__ _Racy song._  
 __PC__  
 __hickey__ A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
