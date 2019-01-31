@@ -2554,6 +2554,7 @@ __couch-ridden__
 __couch-surfing__ :astonished:  
 __couch__ _v_ _He couched the eyes of a dead cat._  
 __cough up__ _v_  
+__could__ :mute:[cou~~l~~d]  
 __coulee__  
 __councilor__ _n_  
 __counsel__  
@@ -2572,6 +2573,7 @@ __countless__
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coup de grace__ :two::hammer:  
+__coup__ :mute:[cou~~p~~]  
 __coupes__ _Coupes, two door models usually sportier than sedans._  
 __coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
@@ -2753,7 +2755,7 @@ __cult__ _n_
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
 __cuneiform__  
-__cupboard__ _n_ :two::hammer::camera: (cupboards) _My father rebuilt cupboards._  
+__cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
 __cupolas__ _n_  
 __cuppa__  
 __cupping__ _n_ :pencil2:  
@@ -7529,6 +7531,7 @@ __plunge__ _v_ :two::hammer: _Plunge the toilet._
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :eight::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._  
+__pneumonia__ :mute:[~~p~~neumonia]  
 __po'-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
 __poacher__ _n_ :three::hammer: (poachers) _A chimpanzee that lost its mother to poachers._  
@@ -7799,7 +7802,13 @@ __prudent__
 __prune-o__ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
 __pry__ _v_ :nine: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
-__psyche__  
+__psalm__ :mute:[~~p~~salm]  
+__pseudo__ :mute:[~~p~~seudo]  
+__pseudonym__ :mute:[~~p~~seudonym]  
+__psyche__ :mute:[~~p~~syche]  
+__psychiatrist__ :mute:[~~p~~sychiatrist]  
+__psychic__ :mute:[~~p~~sychic]  
+__psychology__ :mute:[~~p~~sychology]  
 __psychopathic__  
 __public eye__  
 __public house__ _n_ :five::hammer: :es: taberna  
@@ -8568,6 +8577,7 @@ __sales force__
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
 __sallow__ _adj_ :three::hammer: _A sallow face._  
+__salmon__ :mute:[sa~~l~~mon]:astonished:  
 __salt away__  
 __salt of the Earth__  
 __salt the shaft__ :two::hammer: _Salt the shaft if you have to._  
@@ -9284,7 +9294,7 @@ __smash song__ _n_ _That was a smash song._
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :nine: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
-__smear<sup>1</sup>__ _v_ :two: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :three: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
+__smear<sup>1</sup>__ _v_ :five: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
@@ -10139,6 +10149,7 @@ __talk back__ _idiom_
 __talk down to__  
 __talk into__ _phr v_  
 __talk shit__  
+__talk__ :mute:[ta~~l~~k]  
 __talking head__ :astonished:  
 __talktative__  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
@@ -11087,6 +11098,7 @@ __walk on water__
 __walk the walk__  
 __walk-on__ :two::hammer:  
 __walk-through__ :es: precalentamiento (?)  
+__walk__ :mute:[wa~~l~~k]  
 __walkabout__  
 __walking trail__ :two::hammer: _Many airports are upping their game, adding walking trails._  
 __walkups__ (or walk-ups?)  
@@ -11392,6 +11404,7 @@ __worrywarts__
 __worshiper__  
 __wort__  
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, effort, or interest.  
+__would__ :mute:[wou~~l~~d]  
 __wow factor__  
 __wow__ _v_ :two::hammer:  
 __wracking__ _v_  
@@ -11474,6 +11487,7 @@ __yo-yoing__
 __yo__  
 __yoke__ _n_ _Egg yoke._  
 __yokels__ :two::hammer:  
+__yolk__ :mute:[yo~~l~~k]  
 __yonder__  
 __yore__ _?_ _Days of yore._  
 __you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
