@@ -303,7 +303,7 @@ __Other than that,__
 __Ouija board__ _n_ :astonished: (from French _oui_ yes + German _ja_ yes) _We were doing Ouija board and I asked what I was going to be._  
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __Ozzies__ (Australians?)  
-__PC__ _abbr_ :dart::two: Politically correct. _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
+__PC__ _abbr_ :dart::three: Politically correct. _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
@@ -1900,6 +1900,7 @@ __carjack__ _v_ To commit forcible theft of (a vehicle) from its users.
 __carnage__ :two::hammer:  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
+__carnival__  
 __carol__ _v_ (caroling) (vs Christmas carol)  
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
@@ -2064,6 +2065,7 @@ __checklist__ (single word)
 __cheek by jowl__ :two::hammer:  
 __cheekboned__ _High-cheekboned newbies.;-_  
 __cheekier__  
+__cheeky__  
 __cheerfully__  
 __cheese wedge__  
 __cheese-eater__  
@@ -3028,6 +3030,7 @@ __devolve__ _v_ _The party must devolve power._
 __devolved__ _v_  
 __devote__ _v_ _We're devoting this episode to his paintings._  
 __dewlaps__ _n_ :two::hammer:  
+__diadem__  
 __dialysis__  
 __diaspora__  
 __diatribes__ _n_  
@@ -3224,6 +3227,7 @@ __doneness__ :pencil2:
 __donned__ _v_ _They donned masks._  
 __doo-dah__  
 __doodad__  
+__doofer__ _n informal_  
 __dookie-wookie__  
 __doom and gloom__ :two::hammer:  
 __door-to-door dash__  
@@ -4250,7 +4254,7 @@ __free fall__ _n_
 __free lunch__  
 __free ride__ :two::hammer:  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
-__freebies__ _n_ :three::hammer: _The tickets come with some bonus freebies._  
+__freebie__ _n_ :four: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_ :seven::hammer: (free wheel, freewheeling) _Freewheeling style._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
 __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:  
@@ -5026,7 +5030,7 @@ __heyday__ _n_ :six::hammer:
 __hi-rail truck__ _n_ :camera:  
 __hibachi__  
 __hick__  
-__hickey__ _n_  
+__hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
@@ -5919,6 +5923,7 @@ __lessen__ _v_
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :five::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
+__let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let your hair down__  
 __lethargic__ _adj_  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
@@ -7135,7 +7140,7 @@ __paraphilia__ _n_ :two::hammer:
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
-__parched__ _The dryness will encompass parched California._  
+__parched__ _adj_ :two: Very dry. _The dryness will encompass parched California._  
 __parchment paper__ :camera:  
 __parchment__ _n_ :six::hammer: _A parchment chart._  
 __pard__  
@@ -7982,7 +7987,7 @@ __racketeering__
 __racous__  
 __racousness__  
 __racquet__  
-__racy__ :two::hammer: _A racy line from a popular song._  
+__racy__ :three::hammer: _A racy line from a popular song._ _Racy song._  
 __radial__ _Such a thrill when your radials squeal._  
 __radical candor__  
 __radish__  
@@ -8339,6 +8344,7 @@ __rezoning__
 __rhabdomancy__  
 __rhapsodize__  
 __rhetoric__ _n_ :pencil2::four::hammer: _From divisive rhetoric to civil dialogue._  
+__rheum__ _n_ :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
 __rhyming__ :pencil2:  
@@ -9198,7 +9204,9 @@ __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, o
 __sleek__  
 __sleep deprivation__  
 __sleep in__ _v_  
+__sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
+__sleepover__  
 __sleepsuit__ _n_  
 __sleepwalking__  
 __sleepwear__ :two::hammer: (vs sportswerar, etc.)  
@@ -9791,7 +9799,7 @@ __stipulate__ _v_ :two::hammer:
 __stipulation__ _n_ :two::hammer:  
 __stir up a hornet's nest__ _fig_ To create a lot of trouble.  
 __stir<sup>1</sup>__ _n_  
-__stir<sup>2</sup>__ _v_ :two::hammer: (stirred)  
+__stir<sup>2</sup>__ _v_ :three::hammer: (stirred, stirring :pencil2:)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
 __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
 __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
@@ -10375,6 +10383,7 @@ __tickle__ _v_ :three::hammer: _Does that tickle?_
 __ticklish__ :two::hammer:  
 __ticky-tacky__ _The ticky-tacky plan._  
 __tidbit__ _n_ :pencil2::four::hammer: (tidbits) _He fed the cat tidbits._  
+__tidy up__  
 __tidy__ _A tidy plan._  
 __tie-dye__  
 __tie-up__ _n_  
@@ -10382,6 +10391,7 @@ __tiebreaking__ _A tiebreaking goal._
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
 __tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
 __tight-knit__ _We are a tight-knit family._  
+__tighten your belt__ _idiom_ To spend less money.  
 __tighten__ _v_ _Tighten your belts._  
 __tightknit__  
 __tightly wound__ Chronically tense, unable to relax, highly reactive.  

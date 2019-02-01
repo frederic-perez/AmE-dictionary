@@ -1,13 +1,4 @@
 
-__racy__ _Racy song._  
-__PC__  
-__hickey__ A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
-__let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
-__tidy up__  
-__freebie__ Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._  
-__tighten your belt__ _idiom_ To spend less money.  
-__parched__ Very dry.  
-
 __balm__ :mute:[ba~~l~~m]  
 __calf__ :mute:[ca~~l~~f]  
 __calm__ :mute:[ca~~l~~m]  
@@ -16,15 +7,6 @@ __folk__ :mute:[fo~~l~~k]
 __half__ :mute:[ha~~l~~f]  
 __palm__ :mute:[pa~~l~~m]  
 __psalm__ :mute:[psa~~l~~m]  
-
-__sleepover__  
-__stir__ _v_ (stirred, stirring :pencil2:)  
-__cheeky__  
-__carnival__  
-__diadem__  
-__doofer__ _n informal_  
-__sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
-__rheum__ _n_ :es: legaña  
 
 __miscellaneous__ :mute:[mis~~c~~ellaneous]  
 __obscene__ :mute:[obs~~c~~ene]  
