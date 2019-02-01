@@ -10,12 +10,18 @@ from checker import Checker
 
 class Test_Checker(unittest.TestCase):
 
-    def test_GIVEN_an_empty_dictionary_WHEN_calling_xyz_THEN_result_must_be_equal_to_xyz(self):
-        DICTIONARY = '' # '../data/dictionary.md'
-        CHECKER = Checker(DICTIONARY)
+    def test_GivenAnEmptyDictionary_When_Checker_ThenExceptionIsRaised(self):
+        DICTIONARY = ''
+        try:
+            CHECKER = Checker(DICTIONARY)
+        except ValueError as e:
+            self.assertTrue(True)
+
+"""
         self.assertTrue(CHECKER.check_entries())
         self.assertTrue(CHECKER.check_duplicated_headwords())
         self.assertTrue(CHECKER.check_undef_high_freq_keywords())
+"""
 
 if __name__ == '__main__':
     unittest.main()

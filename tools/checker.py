@@ -186,6 +186,9 @@ def entry_has_displaced_part_of_speech(entry):
 class Checker(object):
     """The class Checker encapsulates all functionalities to check the dictionary"""
     def __init__(self, filename):
+        if not filename:
+            raise ValueError('Filename should not be empty')
+
         self.filename = filename
         self.num_composite_headwords = 0
         self.num_displaced_part_of_speech = 0
