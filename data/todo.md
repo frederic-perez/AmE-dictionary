@@ -17,6 +17,15 @@ __science__ :mute:[s~~c~~ience]
 __scissors__ :mute:[s~~c~~issors]  
 __almond__ :mute:[a~~l~~mond]  
 
+__hideous__ Very ugly.  
+__famished__ Very hungry.  
+__a bird in the hand is worth two in the bush__  
+__tip off__ To secretly inform the police or authorities.  
+__monkey business__ Silly or dishonest behaviour.  
+__hoops__ The game of basketball. _Can you play hoops?_  
+__every cloud has a silver lining___ Be optimistic, even difficult times will lead to better days.  
+__to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
+
 __pupillary__ _adj_ _Pupillary distance._  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __fluke__ _n_ Something good that happens by chance.  
