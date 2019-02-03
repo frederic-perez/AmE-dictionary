@@ -8,6 +8,16 @@ __half__ :mute:[ha~~l~~f]
 __palm__ :mute:[pa~~l~~m]  
 __psalm__ :mute:[psa~~l~~m]  
 
+__juice__ Energy, power.  
+__try on__ _phr v_ To put clothes or shoes on to see if they fit.  
+__hold your horses__ _idiom_ Slow down, wait.  
+__once in a blue moom__ Very rarely.  
+__loner__ Someone who likes being alone.  
+__cat got your tongue?__ Have you nothing to say?  
+__squeeze__ _v_  
+__squash__ _v_  
+__craven__  
+
 __miscellaneous__ :mute:[mis~~c~~ellaneous]  
 __obscene__ :mute:[obs~~c~~ene]  
 __scenario__ :mute:[s~~c~~enario]  
