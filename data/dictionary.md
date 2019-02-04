@@ -993,7 +993,7 @@ __ballot__ _A lot of guys who did steroids are on the ballot._
 __ballpark figure__  
 __ballpark__ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
-__balm__  
+__balm__ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _The air was sweet and balmy._  
 __balogna__ _n_  
 __baloney__ _n informal_ :two: Nonsense.  
@@ -1804,7 +1804,7 @@ __cajole__ _v_ :five::hammer: (cajoled, cajoling)
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
-__calf__ _n_  
+__calf__ _n_ :two::hammer::mute:[ca~~l~~f]  
 __caliber__ _n_  
 __calico__ :two::hammer: _A plain calico coat._  
 __caliper__ _n_  
@@ -1830,6 +1830,7 @@ __calliopes__
 __callous__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
 __callow__ :two::hammer:  
+__calm__ :mute:[ca~~l~~m]  
 __calves__  
 __camaraderie__  
 __cameleer__  
@@ -1943,6 +1944,7 @@ __castigation__ _n_
 __castoff__ _n_  
 __casualties__  
 __cat fish__ _(?)_  
+__cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
 __catacombs__  
@@ -2014,7 +2016,7 @@ __chagrin<sup>2</sup>__ _v_ (chagrined) Cause to feel shame; hurt the pride of.
 __chagrin__  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
-__chalk__ _v_ :three::hammer: (chalked) _Chalk it up._  
+__chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
 __chalkboard__ _n_  
 __chalky__ _Chalky skin._  
 __chamber pot__ _n_ :astonished: A bedroom vessel for urination and defecation.  
@@ -2627,7 +2629,7 @@ __crash-land__ _v_ _A jet crash-landed in the city._
 __crass__ _adj_ :three::hammer: _Crass attitudes._  
 __crate__ _n_  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
-__craven__ _A craven political figure._  
+__craven__ :two::hammer: _A craven political figure._  
 __crawl<sup>1</sup>__ _n_  
 __crawl<sup>2</sup>__ _v_ _They pretty much crawled my ass._  
 __crayon__ _n_  
@@ -4131,7 +4133,7 @@ __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fo
 __fold__ _v_ (card games)  
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
-__folk__ _n_ :two::hammer: (plural)  
+__folk__ _n_ :three::hammer::mute:[fo~~l~~k] (plural)  
 __follow suit__ _idiom_ :four: To do as another has done; follow an example.  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __food coma__ _idiom_  
@@ -4808,6 +4810,7 @@ __half sibling__
 __half-baked__ _A half-baked plan to launch a start-up._  
 __half-cocked__  
 __half-wits__  
+__half__ :mute:[ha~~l~~f]  
 __halfback__  
 __hall boy__ _n_  
 __hallmark__ _n_ :four::hammer:  
@@ -5109,6 +5112,7 @@ __hold one's pose__
 __hold true__ _v_  
 __hold up a fish__  
 __hold water__  
+__hold your horses__ _idiom_ Slow down, wait.  
 __holder__ _n_  
 __holding sway__  
 __holdings__ _n_  
@@ -5612,6 +5616,7 @@ __judgments__ _Legal judgments._
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice boxes__ :camera:  
+__juice__ Energy, power.  
 __juicy__ :two::hammer:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::hammer:  
@@ -6058,6 +6063,7 @@ __loitered__ _v_
 __loll__ _v_ :three::hammer::pencil2: (lolled, lolling)  
 __lollipop__ _n_ (lollypop)  
 __lone wolf__ _They are lone wolf attacks._  
+__loner__ Someone who likes being alone.  
 __long haul__ _She's in for the long haul._  
 __long hours__ _The long hours you're putting in may not help._  
 __long shot__  
@@ -6898,6 +6904,7 @@ __on top of that__ _phr_ :two: _On top of that, ..._
 __on track__ _He appears to be on track to play._  
 __on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
 __onboarding__ (?)  
+__once in a blue moom__ Very rarely.  
 __once in a while__  
 __once-over__  
 __one too many__ _We drank one too many._  
@@ -7098,6 +7105,7 @@ __pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or movin
 __pallholder__ _n_  
 __palliative__ _Palliative care._  
 __pallor__ _n_ :two::hammer:  
+__palm__ :mute:[pa~~l~~m]  
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
@@ -7807,7 +7815,7 @@ __prudent__
 __prune-o__ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
 __pry__ _v_ :nine: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
-__psalm__ :mute:[~~p~~salm]  
+__psalm__ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseudo__ :mute:[~~p~~seudo]  
 __pseudonym__ :mute:[~~p~~seudonym]  
 __psyche__ :mute:[~~p~~syche]  
@@ -9619,6 +9627,7 @@ __squander__
 __square deal__  
 __square dsncing__  
 __squarely__  
+__squash__ _v_  
 __squat down__ _v_  
 __squat<sup>1</sup>__ _v_ :five: (squatted, squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
 __squat<sup>2</sup>__ _adj_ :five: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
@@ -9631,6 +9640,7 @@ __squeaky__ :two::hammer:
 __squeal__ _v_  
 __squeamish__ _adj_ :five: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
+__squeeze__ _v_  
 __squelch__ _v_ :two::hammer:  
 __squelched__ _v_  
 __squiffy__  
@@ -10675,7 +10685,7 @@ __trust company__
 __trustees__ :two::hammer: _Board of Trustees_  
 __trusties__  
 __truthiness__ _n informal_  
-__try on__ :two::hammer:  
+__try on__ _phr v_ :three: To put clothes or shoes on to see if they fit.  
 __tryouts__ :two::hammer:  
 __tryst__  
 __tsuifuku__  
