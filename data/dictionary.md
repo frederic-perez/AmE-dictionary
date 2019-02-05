@@ -453,6 +453,7 @@ __X-factor__ _Terry could become Ryukyu's X-factor._
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __YOLO__ You only live once.  
 __Yuletide__ _n_ (archaic) Christmas.  
+__a bird in the hand is worth two in the bush__  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
@@ -3673,6 +3674,7 @@ __evened__ _v_
 __evening star__ _The evening star was out and the moon rising._  
 __ever since__ :dart::two::hammer: _I've been a fan ever since._  
 __evergreen__ _adj_  
+__every cloud has a silver lining__ Be optimistic, even difficult times will lead to better days.  
 __every man for himself__ :dart:  
 __every other week__ :two::hammer: _We don't win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
@@ -3797,7 +3799,7 @@ __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's
 __familiar__ _No, I'm not familiar._  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _It could be feasst or famine._  
-__famished__  
+__famished__ _adj_ :two: Very hungry.  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
 __fanciful__  
@@ -4096,7 +4098,7 @@ __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder
 __fluff__  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__  
-__fluke__ _n_ :seven: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __flummox__ _v_ :four::hammer: (flummoxed)  
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
@@ -4503,7 +4505,7 @@ __glass slipper__ _(Cinderella)_
 __glazing__ :two::hammer: _A full range of door furniture and glazing._  
 __glean__  
 __gleaning__  
-__glib__ _adj_ :three::hammer: _A glib reply to his remark._  
+__glib__ _adj_ :four::hammer: _A glib reply to his remark._ _A glib tongue._  
 __glimmer__ _A glimmer of hope._  
 __glimpse__  
 __glint__  
@@ -5038,7 +5040,7 @@ __hickory shaft__
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
 __hidebound__ _adj_ :three::hammer:  
-__hideous__ _adj_ :three::hammer: _A hideous practice._  
+__hideous__ _adj_ :four: Very ugly. _A hideous practice._  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
@@ -5157,6 +5159,7 @@ __hooky__ _A kid playing hooky._
 __hoop dress__  
 __hoop__ _v_  
 __hoopla__ _n informal_ :three: Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
+__hoops__ The game of basketball. _Can you play hoops?_  
 __hoot__ _You know, it's a hell of a hoot._  
 __hooted__ _v_ :five::hammer: (hooting)  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
@@ -5745,6 +5748,7 @@ __knockusing__
 __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
 __knotty__  
 __know better__ _But I knew better._  
+__know the ropes__ _idiom_ To know how to do a job or task properly.  
 __knuckle duster__ _Thugs armed with a knuckle duster._  
 __knuckleball__ :two::hammer:  
 __knuckler__ :two::hammer: (knucklers)  
@@ -5928,6 +5932,7 @@ __lessen__ _v_
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :five::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
+__let somebody down__ _idiom_ To disappoint someone.  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let your hair down__  
 __lethargic__ _adj_  
@@ -6498,7 +6503,7 @@ __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
 __moniker__ _n_ :two::hammer:  
-__monkey business__  
+__monkey business__ _n_ _informal_ :two: Silly or dishonest behaviour.  
 __monkey off one's back__ _The win did remove the major monkey off his back._  
 __monkey suit__  
 __monkey wrench__  
@@ -6659,6 +6664,7 @@ __nasal passages__
 __nascence__  
 __nascent__ :two::hammer: _The nascent market._  
 __nasion__ _n_  
+__nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __nationwide__ _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
 __nativism__ :two::hammer:  
 __nattering__  
@@ -7877,6 +7883,7 @@ __punted__ _Obama punted until after the election._
 __punting__ _v_  
 __puny__ _A puny garden snail._  
 __pupil__ _n_  
+__pupillary__ _adj_ _Pupillary distance._  
 __puppy__  
 __pups__ _n_  
 __puree__ _v_ :three::hammer:  
@@ -10017,6 +10024,7 @@ __supercell thunderstorm__
 __supercilious__  
 __superintendent__ _n_ :three::hammer:  
 __superpooch__  
+__supersede__ _v_  
 __supervise__ _v_  
 __supping__ _v_  
 __supplant__  
@@ -10361,6 +10369,7 @@ __throw a fit__ _He watched a reality show in which a girl throws a hfit when he
 __throw a monkey off his back__  
 __throw in the towel__ :two::hammer:  
 __throw out the red meat__  
+__throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throw up__ _I might throw up._  
 __throwback__ _Throwbavck uniform._  
@@ -10435,6 +10444,7 @@ __tink__ _v_
 __tinker__ _v_  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
+__tip off__ To secretly inform the police or authorities.  
 __tip over__ _v_  
 __tip-top__ _adj_ _informal_ Excellent.  
 __tipoff__ _n_ :two::hammer: (tip-off)  
@@ -10462,6 +10472,7 @@ __to date__ _idiom_ :three: Until now. _To date, no winners have attended._
 __to hell and back__ :two::hammer:  
 __to hell__  
 __to his name__ _Bernie died with $1.09 to his name._  
+__to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that effect__  
 __to that end__ :two::hammer: (to that end,)  
