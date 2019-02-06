@@ -8,6 +8,16 @@ __science__ :mute:[s~~c~~ience]
 __scissors__ :mute:[s~~c~~issors]  
 __almond__ :mute:[a~~l~~mond]  
 
+__ankle-biter__ Child.  
+__turn away__ To refuse to let someone come into a place.  
+__floozy__ A woman who has a lot of sexual relationships.  
+__turn around__ To change something unsuccessful into something successful.  
+__laudatory__ Expressing praise; commendatory.  
+__yelp<sup>1</sup>__ _v_ :es: gañir  
+__yelp<sup>2</sup>__ _n_  
+__bonus__ :mega: /bō′nəs/  
+__jettison__ _v_ _Seven seconds later the aeroshell was jettisoned._  
+
 __shoebox__ _n_  
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __marshmallow__ _n_ Althaea officinalis. The word "marshmallow" comes from the mallow plant species, an herb which grows in marshes and other damp areas. 
