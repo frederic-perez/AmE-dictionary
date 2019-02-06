@@ -2,7 +2,7 @@
 Run the tests by executing:
 $ pwd
 AmE-dictionary/tools
-$ python -m unittest -v test_checker
+$ python -m unittest test_checker
 """
 
 import unittest

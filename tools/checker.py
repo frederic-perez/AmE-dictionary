@@ -527,13 +527,14 @@ class Game(object):
             print headword_for_wordcloud,
         print
 
-# DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
-DICTIONARY = '../data/dictionary.md'
+if __name__ == '__main__':
+    # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
+    DICTIONARY = '../data/dictionary.md'
 
-CHECKER = Checker(DICTIONARY)
-CHECKER.check_entries()
+    CHECKER = Checker(DICTIONARY)
+    CHECKER.check_entries()
 
-game = Game(DICTIONARY)
-game.gather_high_frequency_headwords()
-game.print_nine_m()
-game.play()
+    game = Game(DICTIONARY)
+    game.gather_high_frequency_headwords()
+    game.print_nine_m()
+    game.play()
