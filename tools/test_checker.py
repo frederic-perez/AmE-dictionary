@@ -12,10 +12,7 @@ class Test_Checker(unittest.TestCase):
 
     def test_GivenAnEmptyDictionary_When_Checker_ThenExceptionIsRaised(self):
         DICTIONARY = ''
-        try:
-            CHECKER = Checker(DICTIONARY)
-        except ValueError as e:
-            self.assertTrue(True)
+        self.assertRaises(ValueError, Checker, DICTIONARY)
 
 """
         self.assertTrue(CHECKER.check_entries())
