@@ -394,8 +394,7 @@ __artsy__ _adj_
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
 __as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it gets__ :two::hammer:  
-__As it happens,__  
-__as it happens,__  
+__as it happens,__ _idiom_ :two: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
@@ -713,6 +712,7 @@ __Beehive State__ _n_ :three: Utah.
 __beeline__  
 __beep-de-beep__  
 __beer gut__  
+__beer pong__ _n_  
 __beer tap__ _A beer tap that was brought from England._  
 __beers on tap__ :camera:  
 __beet__  
@@ -1420,6 +1420,7 @@ __cajole__ _v_ :five::hammer: (cajoled, cajoling)
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
+__calendar girl__  
 __calf__ _n_ :two::hammer::mute:[ca~~l~~f]  
 __caliber__ _n_  
 __calico__ :two::hammer: _A plain calico coat._  
@@ -2503,7 +2504,7 @@ __dart__ _v_ :three::hammer: (darting)
 __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
-__date__ _n_ :two::pencil2::hammer: _It would be like eating a single date._ :es: dátil  
+__date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
 __daub__ _v_ :three::hammer: (daubed) _A swastika was daubed on a science center window._  
@@ -2692,8 +2693,7 @@ __devote__ _v_ _We're devoting this episode to his paintings._
 __dewlaps__ _n_ :two::hammer:  
 __diadem__  
 __dialysis__  
-__diaspora__  
-__Diaspora__  
+__Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
 __dibs__ _n_ :two::hammer:  
 __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women's situation is a bit more dicey._  
@@ -2872,7 +2872,7 @@ __dog tag__
 __dog__ _v_ :four::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dog-and-pony show__ _idiom_ :two::hammer: (dog and pony show)  
 __dog-ear__  
-__dog-eat-dog__ _It is not dog-eat-dog here._  
+__dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
 __doggedly__  
 __doghouse__ _n_ :three::hammer: (In the UK use "kennel") _Russia will stay stuck in track and field's doghouse._  
@@ -3017,6 +3017,7 @@ __drill__ _v_
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables."  
 __drink and use__  
+__drink like a fish__ To drink too much alcohol.  
 __drip-dry__ _Cotton drip-dry._  
 __drip-drying__  
 __drive__ _The drive by Senate Democrats to change the rules._  
@@ -3734,7 +3735,8 @@ __fleetingly__
 __fleshed out__  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
-__flick__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
+__flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
+__flick<sup>2</sup>__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
 __flight__ _n_ _He climbed four flights of stairs._  
@@ -3920,7 +3922,7 @@ __foul__ _Foul language._
 __foul-ups__  
 __founder__ _v_ :four::hammer: (foundered) _The attempt foundered._ _His plan foundered._  
 __foundries__ _Metal foundries._  
-__foundry__  
+__foundry__ _n_ :two::hammer: :es: fundición  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
 __four hundred__ _This room has four hundred doors!_ :es: tropecientos?  
 __four-poster beds__  
@@ -5143,7 +5145,7 @@ __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the fiel
 __inchoate__  
 __inchworm__ _n_  
 __incident__ _A stroke incident to pancreatic cancer._  
-__incidentally__ _adv_ :three::hammer:  
+__incidentally__ _adv_ :four::hammer:  
 __inclined__ _adj_  
 __incognito__  
 __incongruities__ _n_  
@@ -5374,7 +5376,7 @@ __jokesmith__
 __jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollification__ _n_  
 __jollof rice__  
-__jolly__ _adj_ :five::hammer: _Jolly handshakes._  
+__jolly__ _adj_ :six::hammer: _Jolly handshakes._  
 __jolt<sup>1</sup>__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
 __jonesing__ _v_  
@@ -5649,7 +5651,7 @@ __lavishly__ _adv_ :three::hammer:
 __law and order__  
 __law of the land__  
 __law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._  
-__lawmaker__ _n_ :four::hammer: (lawmakers)  
+__lawmaker__ _n_ :five::hammer: (lawmakers)  
 __lawsuit__  
 __lax__ _adj_ :two::hammer: (not LAX)  
 __lay the table__  
@@ -6264,10 +6266,11 @@ __miser__ _n_
 __miserable__ _We are miserable._  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
-__misgivings__ :two::hammer:  
+__misgiving__ _n_ :three::hammer: (misgivings)  
 __misguided__ _adj_  
 __mishap__ :mega::two::hammer:  
 __mishmash__ :two::hammer:  
+__mislay__ _v_ _He mislaid his keys._  
 __misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __misogynist__  
 __misogyny__ :pencil2:  
@@ -6531,6 +6534,7 @@ __neophyte__
 __neorealist__  
 __neoteric__  
 __nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
+__nerd__ _n_  
 __nerve agent__  
 __nerve__ :two::hammer: _He's got nerve._  
 __nerve-racking__ _adj_ :three::hammer: (nerve racking)  
@@ -6816,8 +6820,7 @@ __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progress
 __ostracism__ _n_  
 __ostracize__ _v_  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
-__Other than that,__  
-__other than that,__  
+__other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
 __otherworldly__ :astonished::two::hammer:  
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
@@ -7120,6 +7123,7 @@ __pedestrianized__ _v_
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peep__ _n_ :two::hammer:  
+__peeping Tom__ _idiom_ A person who secretly watches others, especially for sexual gratification; a voyeur.  
 __peer__ _Peering into their crystal balls._  
 __peered__ _v_  
 __peerless__  
@@ -7355,7 +7359,7 @@ __plane__ :two::hammer: _It was a place full of plane trees._
 __plangent__  
 __plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._  
 __plano__ _Plano sunglasses._  
-__planta fasciitis__ _(typo?)_ :camera: _John was sidelined with planta fasciitis in his right foot._  
+__plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
 __planter__ _My sidewalk planter._  
 __plashed__ _v_  
 __plaster__ _v_ :two::hammer: (plastered) _Blizzard plasters Denver._  
@@ -9151,7 +9155,7 @@ __slay__ _v_ ;two::hammer: (slain) JFK was slain.
 __slayer__  
 __sleaziest__  
 __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
-__sleek__  
+__sleek__ _adj_ :two::hammer:  
 __sleep deprivation__  
 __sleep in__ _v_  
 __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
@@ -9337,7 +9341,7 @@ __snowcat__ _n_ :two::hammer: _Snowcat ride._
 __snowdrifts__  
 __snowmobiler__  
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
-__snowpack<sup>2</sup>__ _n_ :two: A seasonal accumulation of slow-melting packed snow.  
+__snowpack<sup>2</sup>__ _n_ :three: A seasonal accumulation of slow-melting packed snow.  
 __snowplows__ _n_  
 __snowshoeing__ :two::hammer:  
 __snub-nosed__ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
@@ -10338,6 +10342,7 @@ __through and through__ :two::hammer: _It's a flagship through and through._ _Sh
 __through__ _adj, adv, prep_ :six: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
+__throw away__ To get rif of something that you no longer want.  
 __throw in the towel__ :two::hammer:  
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __throw out the red meat__  
@@ -11302,8 +11307,7 @@ __whitewash__ _v_ :four::hammer:
 __whithered__  
 __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizzing__  
-__Whodunit__  
-__whodunit__  
+__whodunit__ _n_ :two: A detective story.  
 __whole milk__  
 __whole nine yards, the__  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
