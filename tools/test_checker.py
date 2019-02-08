@@ -14,10 +14,15 @@ class Test_Checker(unittest.TestCase):
         DICTIONARY = ''
         self.assertRaises(ValueError, Checker, DICTIONARY)
 
-"""
+    def test_GivenTheRealDictionaryForChecker_When_check_entries_ThenReturnTrue(self):
+        DICTIONARY = '../data/dictionary.md'
+        CHECKER = Checker(DICTIONARY)
         self.assertTrue(CHECKER.check_entries())
-        self.assertTrue(CHECKER.check_duplicated_headwords())
-        self.assertTrue(CHECKER.check_undef_high_freq_keywords())
+
+"""
+    TODO: Next tests:
+    - self.assertTrue(CHECKER.check_duplicated_headwords())
+    - self.assertTrue(CHECKER.check_undef_high_freq_keywords())
 """
 
 if __name__ == '__main__':

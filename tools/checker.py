@@ -301,7 +301,7 @@ class Checker(object):
             self.treat_displaced_part_of_speech(headword, part_of_speech)
         if entry_has_tag_of_any_number(entry, 3, 9):
             tokens = entry.split()
-            do_print = True
+            do_print = False # True
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
             if part_of_speech.find('_') == -1 or \
                 part_of_speech.find('?') > 0 or \
@@ -535,7 +535,9 @@ if __name__ == '__main__':
     CHECKER = Checker(DICTIONARY)
     CHECKER.check_entries()
 
-    game = Game(DICTIONARY)
-    game.gather_high_frequency_headwords()
-    game.print_nine_m()
-    game.play()
+    PLAY_THE_GAME = False
+    if PLAY_THE_GAME:
+        game = Game(DICTIONARY)
+        game.gather_high_frequency_headwords()
+        game.print_nine_m()
+        game.play()
