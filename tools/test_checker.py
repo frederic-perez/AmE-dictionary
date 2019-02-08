@@ -19,9 +19,13 @@ class Test_Checker(unittest.TestCase):
         CHECKER = Checker(DICTIONARY)
         self.assertTrue(CHECKER.check_entries())
 
+    def test_GivenTheRealDictionaryForChecker_When_check_duplicated_headwords_ThenReturnTrue(self):
+        DICTIONARY = '../data/dictionary.md'
+        CHECKER = Checker(DICTIONARY)
+        self.assertTrue(CHECKER.check_duplicated_headwords())
+
 """
     TODO: Next tests:
-    - self.assertTrue(CHECKER.check_duplicated_headwords())
     - self.assertTrue(CHECKER.check_undef_high_freq_keywords())
 """
 
