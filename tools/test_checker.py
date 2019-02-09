@@ -24,10 +24,10 @@ class Test_Checker(unittest.TestCase):
         CHECKER = Checker(DICTIONARY)
         self.assertTrue(CHECKER.check_duplicated_headwords())
 
-"""
-    TODO: Next tests:
-    - self.assertTrue(CHECKER.check_undef_high_freq_keywords())
-"""
+    def test_GivenTheRealDictionaryForChecker_When_check_undef_high_freq_keywords_ThenReturnTrue(self):
+        DICTIONARY = '../data/dictionary.md'
+        CHECKER = Checker(DICTIONARY)
+        self.assertTrue(CHECKER.check_undef_high_freq_keywords())
 
 if __name__ == '__main__':
     unittest.main()
