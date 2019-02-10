@@ -8,6 +8,15 @@ __science__ :mute:[s~~c~~ience]
 __scissors__ :mute:[s~~c~~issors]  
 __almond__ :mute:[a~~l~~mond]  
 
+__afters__ Dessert.  
+__hit the road__ To leave a place or begin a journey.  
+__misremember__ _v_  
+__beefy__ Big and muscular.  
+__through thick and thin__ Through good times and bad times.  
+__performative__  
+__belt__ A swallow or a gulp of an alcoholic drink.  
+__no strings attached__ Free of conditions, limitations, obligations, etc.  
+
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __facsimile__ _The lander had two facsimile cameras._  
 __antsy__ Restless, impatient.  
