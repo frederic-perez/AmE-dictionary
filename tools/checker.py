@@ -1,5 +1,6 @@
 'module docstring should be here'
 
+import os.path
 import random # WIP
 import re
 
@@ -189,6 +190,8 @@ class Checker(object):
     def __init__(self, filename):
         if not filename:
             raise ValueError('Filename should not be empty')
+        if not os.path.exists(filename):
+            raise IOError('File does not exist')
 
         self.filename = filename
         self.num_composite_headwords = 0

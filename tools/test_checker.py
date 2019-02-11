@@ -16,8 +16,7 @@ class Test_Checker(unittest.TestCase):
 
     def test_GivenAnInexistentDictionaryForChecker_When_Checker_ThenExceptionIsRaised(self):
         DICTIONARY = 'this-file-does-not-exist'
-        CHECKER = Checker(DICTIONARY)
-        self.assertRaised(FileNotFoundError, Checker, DICTIONARY)
+        self.assertRaises(IOError, Checker, DICTIONARY)
         
     def test_GivenTheRealDictionaryForChecker_When_check_entries_ThenReturnTrue(self):
         DICTIONARY = '../data/dictionary.md'
