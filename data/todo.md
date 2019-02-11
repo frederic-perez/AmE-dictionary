@@ -8,26 +8,6 @@ __science__ :mute:[s~~c~~ience]
 __scissors__ :mute:[s~~c~~issors]  
 __almond__ :mute:[a~~l~~mond]  
 
-__afters__ Dessert.  
-__hit the road__ To leave a place or begin a journey.  
-__misremember__ _v_  
-__beefy__ Big and muscular.  
-__through thick and thin__ Through good times and bad times.  
-__performative__  
-__belt__ A swallow or a gulp of an alcoholic drink.  
-__no strings attached__ Free of conditions, limitations, obligations, etc.  
-
-__honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
-__facsimile__ _The lander had two facsimile cameras._  
-__antsy__ Restless, impatient.  
-__apropos__ :mega:  
-__glib__  
-__walk on air__ To be very happy.  
-__have bigger fish to fry__ To have more important things to do.  
-__tenured__  
-
-__john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
-__Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __cuppa__ A cup of tea.  
 __sweep you off your feet__ To fall in love with them very quickly and strongly.  
 __think up__ To invent or imagine something, especially an excuse.  

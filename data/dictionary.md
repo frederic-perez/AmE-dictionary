@@ -149,6 +149,7 @@ __aft__
 __aftereffects__  
 __afterglow__  
 __aftermarket__  
+__afters__ _n informal_ Dessert.  
 __afterward__ :two::hammer:  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
@@ -299,7 +300,7 @@ __antic__
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _Antiques dealer._  
-__antsy__ _adj_  
+__antsy__ _adj_ :two: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
 __anything but__ _It is anything but sweet._  
@@ -344,7 +345,7 @@ __appreciate__ _I appreciate it._
 __apprehend__ _v_  
 __apprehension__  
 __approval rating__ _Park's approval rating has plummeted._  
-__apropos__ _prep_ :mega:  
+__apropos__ _prep_ :two::mega::hammer:  
 __apt__  
 __aquanaut__ _n_  
 __aquaponic__  
@@ -706,7 +707,7 @@ __bee eater__ _n_ :es: abejaruco
 __beech__ _n_ :two::hammer:  
 __beef up__ _v_ :six: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
-__beefy__ _adj_ __1__ Of or like beef. __2__ Brawny; thickset; heavy. __3__ Obese.  
+__beefy__ _adj_ :two: __1__ Of or like beef. __2__ Brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :three: Utah.  
 __beeline__  
 __beep-de-beep__  
@@ -771,6 +772,7 @@ __bellwether__ _n_ :two::hammer:
 __belly-flop__  
 __belt out__  
 __belt socket__ _n_  
+__belt__ A swallow or a gulp of an alcoholic drink.  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, "We are tired!"_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
@@ -3447,7 +3449,9 @@ __face value__
 __face-lift__  
 __facetious__ _adj_ :pencil2:  
 __facile__ :two::hammer: _She's an extremely facile actress._  
-__facsimile__  
+__facsimile<sup>1</sup>__ _n_ _The lander had two facsimile cameras._  
+__facsimile<sup>2</sup>__ _adj_  
+__facsimile<sup>3</sup>__ _v_  
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
 __fact sheet__  
 __faction__ _n_  
@@ -4225,7 +4229,7 @@ __glass slipper__ _(Cinderella)_
 __glazing__ :two::hammer: _A full range of door furniture and glazing._  
 __glean__  
 __gleaning__  
-__glib__ _adj_ :four::hammer: _A glib reply to his remark._ _A glib tongue._  
+__glib__ _adj_ :five::hammer: _A glib reply to his remark._ _A glib tongue._  
 __glimmer__ _A glimmer of hope._  
 __glimpse__  
 __glint__  
@@ -4649,7 +4653,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
-__have bigger fish to fry__  
+__have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have your cake and eat it (too)__ _idiom_  
 __havoc__  
@@ -4754,6 +4758,7 @@ __hemming__
 __hemp__ _n_ :four::hammer: _Hemp plant._  
 __henchman__ _n_ :four::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
+__Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :four::hammer: (heralded)  
 __herdsman__ _n_  
 __here's looking at you__  
@@ -4818,6 +4823,7 @@ __hit or miss__
 __hit out__ _v_  
 __hit parade__  
 __hit the brakes__  
+__hit the road__ To leave a place or begin a journey.  
 __hit the sack__  
 __hit the wall__  
 __hitch<sup>1</sup>__ _n_  
@@ -4888,6 +4894,7 @@ __homestretch__ _n_ :two::hammer:
 __homie__ _Homies for life._  
 __homophobic__  
 __honcho__ _n_ :three::hammer: (honchos)  
+__honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
 __honeysuckle__  
 __Hong Kong__ _"Fragrant harbor" is the literal translation of Hong Kong._  
@@ -5369,6 +5376,7 @@ __jockstrap__ :two::hammer:
 __jocular__  
 __jody__ _He often complained about his wife's jody._  
 __John Doe__  
+__john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
 __joists__  
 __jokesmith__  
@@ -6274,6 +6282,7 @@ __misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“Ki
 __misogynist__  
 __misogyny__ :pencil2:  
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
+__misremember__ _v_ To remember incorrectly.  
 __miss the point__ :two::hammer:  
 __misspell__ _v_  
 __misstate__ _v_  
@@ -6588,7 +6597,7 @@ __no early birds!__ (?)
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __no offense__  
-__no strings attached__ :two::hammer: _The goodwill compensation comes with no strings attached._  
+__no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no-holds-barred__  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
@@ -7172,6 +7181,7 @@ __perennial__ _adj_ :three::hammer:
 __perfect storm__  
 __perfidious__  
 __perfidy__  
+__performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __perils__ _n_  
 __periodontal__ _Periodontal health._  
@@ -10256,6 +10266,7 @@ __tense__ _adj_
 __tentative__  
 __tenuous__ :two::hammer:  
 __tenure__  
+__tenured__  
 __tepid__ _adj_ :four::hammer:  
 __tequila poppers__  
 __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
@@ -10338,6 +10349,7 @@ __throng__ _n_ :five::hammer: _A throng of news media members._
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
+__through thick and thin__ Through good times and bad times.  
 __through__ _adj, adv, prep_ :six: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
@@ -11129,6 +11141,7 @@ __waiver__
 __waivers__ _n_  
 __wake__ _n_ :four::hammer: _At wakes._ _Irish wake._  
 __walk in sunshine__  
+__walk on air__ To be very happy.  
 __walk on eggshells__  
 __walk on water__  
 __walk the walk__  
