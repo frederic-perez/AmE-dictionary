@@ -853,6 +853,7 @@ __bikeshedding__ _n_ :dart:
 __bilge__ _n_  
 __bilking__ _Durham was guilty of bilking._  
 __bill__ _v_  
+__bill-file__  
 __billfold__ _n_  
 __billing__ _Now, the women's contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :two: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
@@ -874,6 +875,7 @@ __birthing__ _n_ :two::hammer:
 __bishop's benches__  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
+__bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
 __bitingly__  
 __bivouac__ :pencil2:  
 __biz__ _n_ :two::hammer: _Hot biz model._  
@@ -1153,6 +1155,7 @@ __break (one's) neck__
 __break a leg__ _idiom_  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
+__break the mould__  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
 __break-the-china__  
@@ -1263,7 +1266,7 @@ __bug spray__ _Bug spray with DEET to ward off mosquitoes._
 __bug__ _v informal_ :five: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __buggers__  
-__buggy__ _n_ _In the early 1900s, guests arrived by horse and buggy._  
+__buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
 __bugout__  
 __build a future__ :es: labrarse un futuro  
@@ -1369,7 +1372,8 @@ __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
 __buzzer__ _Durent Durent missed a floater at the buzzer._  
-__buzzkill__ :two::hammer:  
+__buzzkill__ _n_ _slang_ :three::hammer: (buzz kill)  
+__buzzkiller__  
 __buzzword__  
 __by all accounts__ _idiom_ :dart::three::hammer: From all the reports [that are available]; according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means,__  
@@ -1934,6 +1938,7 @@ __cohesive__ :dart::two::hammer: _A more cohesive layout._
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__  
+__coin purse__  
 __coin__ _v_ :two::hammer: _To coin a phrase._  
 __coincided__ _v_  
 __coincidental__  
@@ -2073,7 +2078,7 @@ __confidence__
 __config__ :mega: _A config file._  
 __conflagration__ _n_  
 __conflate__ _v_  
-__confound__ _v_ :six::hammer: (confounded, confounding)  
+__confound__ _v_ :seven::hammer: (confounded, confounding)  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
 __conglomerates__  
@@ -2302,7 +2307,7 @@ __crepe__
 __Crescent City__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
-__crestfallen__ :two::hammer:  
+__crestfallen__ _adj_ :three: Dispirited and depressed; dejected.  
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
@@ -2411,7 +2416,7 @@ __cummerbund__
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
 __cupolas__ _n_  
-__cuppa__  
+__cuppa__ _n_ :two: A cup of tea.  
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
@@ -3389,8 +3394,7 @@ __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ _Exhaust fans._  
 __exhaust<sup>2</sup>__ _n_ _Car exhaust._  
-__exhibit A__  
-__Exhibit A__  
+__Exhibit A__ _n_ :two:  
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exodus__  
 __exonerate__ :two::hammer:  
@@ -5079,7 +5083,7 @@ __impeach__ _v_ :two::hammer:
 __impeachment__ :two::hammer:  
 __impeccable__  
 __impeccably__ :two::hammer:  
-__impede__ _v_ :three::hammer: (impeded)  
+__impede__ _v_ :four::hammer: (impeded)  
 __impediment__  
 __impedimenta__ _n_  
 __impending__ _adj_ :nine: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
@@ -5981,8 +5985,9 @@ __mackinaw__
 __madcap__  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
+__madrigal__ _n_  
 __madrigals__ _n_ :pencil2:  
-__maelstrom__ _n_ :four::hammer:  
+__maelstrom__ _n_ :five::hammer:  
 __magazine__ _n_ _They were pledged to keep the castle's magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
@@ -9608,7 +9613,7 @@ __squelched__ _v_
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
-__squirm<sup>1</sup>__ _v_ :seven::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :eight::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squishing__  
@@ -10054,6 +10059,7 @@ __swear jar__
 __sweat bullets__ _I'll be sweating bullets._  
 __sweat it__ _Don't sweat it._  
 __sweatpants__  
+__sweep you off your feet__ To fall in love with them very quickly and strongly.  
 __sweeping staircase__ :camera:  
 __sweepstakes__  
 __Sweepstakes__ _Your Sweepstakes._  
@@ -10233,6 +10239,7 @@ __tee up__ _v_
 __teeing up__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :eight: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
+__teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
 __tektite__ _n_ :pencil2:  
 __telegenic__  
@@ -10327,7 +10334,9 @@ __thick skin__
 __thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
 __thingy__ :two::hammer:  
+__think over__ To consider a problem or decision carefully.  
 __think tank__ _n_ :five::hammer:  
+__think up__ To invent or imagine something, especially an excuse.  
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
 __this time around__ :dart::hammer:  
@@ -10369,6 +10378,7 @@ __thrust<sup>2</sup>__ _n_
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ :two::hammer:  
+__thumb tacks__  
 __thumb__ _v_ :two::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
@@ -11487,7 +11497,7 @@ __wring out__ _v_ _She finished wringing out the jeans and shut off the water._
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
 __wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
 __wrinkle__ _v_ :three::hammer: (wrinkled, wrinkling)  
-__writ__  
+__writ__ _n_ :two::hammer:  
 __write off__ _v_ _Don't write off Tiger just yet._  
 __write up__ _v_ :two::hammer:  
 __write-in votes__  

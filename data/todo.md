@@ -8,28 +8,6 @@ __science__ :mute:[s~~c~~ience]
 __scissors__ :mute:[s~~c~~issors]  
 __almond__ :mute:[a~~l~~mond]  
 
-__cuppa__ A cup of tea.  
-__sweep you off your feet__ To fall in love with them very quickly and strongly.  
-__think up__ To invent or imagine something, especially an excuse.  
-__bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
-__crestfallen__  
-__confounded__  
-__think over__ To consider a problem or decision carefully.  
-
-__writ__ _n_  
-__madrigal__ _n_  
-__maelstrom__ _n_  
-__impeded__ _v_  
-__buzz kill__  
-__buzzkiller__  
-__squirm__  
-__buggy__ :mega:  
-__coin purse__  
-__teeterboard__  
-
-__break the mould__  
-__thumb tacks__  
-__bill-file__  
 __direct object__  
 __strain__ _v_  
 __drain__ _v_  
@@ -37,7 +15,6 @@ __simmer__ _v_ :es: (?)
 __braise__ _v_ :es: (?)  
 __to have a point__ _He's got a point._  
 __Toyota__ :mega: (? CHK)  
-
 __flout__ _v_  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __easy as can be__  
@@ -48,10 +25,10 @@ __cursory__ _adj_
 __tenacious__ _adj_  
 __disconsolate__ _adj_  
 __stomach__ _v_  
-
 __hapless__  
 __minnows__  
 __vitriol__  
+
 __reams__  
 __scantily__  
 __flurry__  
