@@ -3,6 +3,7 @@ __-year-old__ _A 56-year-old retiree._
 __, so why (even) bother?__  
 __, to say the least.__  
 __"duh" department__ :astonished: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
+__(deep) into the weeds__ _idiom_  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered "101."  
@@ -1129,7 +1130,7 @@ __brainchild__ _n_ :two::hammer:
 __brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
 __brainwash__ _v_  
-__braised__ _Braised turkey and gravy stuffing._  
+__braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: (?)  
 __brambles__ _n_ :four::hammer:  
 __Branch Davidians__  
 __brander__  
@@ -2433,7 +2434,7 @@ __curlicues__
 __curmudgeon__ _n_ :six: An ill-tempered person full of resentment and stubborn notions.  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
-__cursory__ _adj_ :five: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
+__cursory__ _adj_ :six: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _His curt answer._  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
@@ -2750,6 +2751,7 @@ __dips__ _n_
 __dipsomania__  
 __dipstick__  
 __dire__ _adj_ :eight: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
+__direct object__  
 __dirge__  
 __dirges__ _n_  
 __dirigiste__  
@@ -2772,6 +2774,7 @@ __discharge__ _v_ :nine::dart: To discharge is to fire a gun or an employee, or 
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_  
 __discombobulate__ _v_ :pencil2:  
+__disconsolate__ _adj_  
 __discontinued__ _v_  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
@@ -2980,7 +2983,7 @@ __drag<sup>2</sup>__ _n_
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
-__drain<sup>1</sup>__ _v_  
+__drain<sup>1</sup>__ _v_ :two::hammer:  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__  
 __dramedy__  
@@ -3146,6 +3149,7 @@ __earthquake drill__
 __easement__  
 __easing__  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
+__easy as can be__  
 __easy-to-use__ _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :three::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
@@ -6253,7 +6257,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
-__minnow__ _n_ :seven::hammer: (minnows)  
+__minnow__ _n_ :eight::hammer: (minnows)  
 __minor__ _n_  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
@@ -6714,7 +6718,7 @@ __odometer__ :two::hammer:
 __OEM__ _abbr_ :two::hammer: _OEMs._  
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
-__of sorts__ _"The 13 clocks" is a poem of sorts._  
+__of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
 __off-kilter__ :two::hammer:  
@@ -8806,6 +8810,7 @@ __set out__ _v_
 __set piece__ _The goal was scored on a set piece._  
 __set someone apart__  
 __set the pace__  
+__set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
 __setback__ _n_ :three::hammer: (setbacks) _It has suffered several setbacks._  
 __setting > picturesque setting__ :es: entorno picturesco  
@@ -9065,7 +9070,7 @@ __silver lining__
 __Silver State__ Nevada.  
 __silverplate__ _v_  
 __simmer down__  
-__simmer__ _v_ :nine: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
+__simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
@@ -9796,6 +9801,7 @@ __stodgy__ _The mainstream may sound too stodgy._
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
 __stolid__ :two::hammer:  
+__stomach__ _v_  
 __stomp__ _v_  
 __stomping__ _v_  
 __stone__ _n_ :three::hammer: _Lose a stone in four weeks._ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
@@ -9833,9 +9839,8 @@ __straggler__ _n_
 __straggly__  
 __straight__ :two::hammer: _Five weeks straight._ _Their second straight win._  
 __straight-A student__  
-__strain__ _n_  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
-__strain<sup>2</sup>__ _n_ :three::hammer: _Can you keep an even strain?_  
+__strain<sup>2</sup>__ _n_ :four::hammer: _Can you keep an even strain?_  
 __strained__ _adj_ :three::hammer: _A strained thumb._  
 __straining__ _v_ :two::hammer:  
 __strains__ _n_ :two::hammer:  
@@ -10260,6 +10265,7 @@ __tempestuous__
 __template__ :mega:  
 __Tempranillo__  
 __tenable__ _adj_  
+__tenacious__ _adj_  
 __tenants__  
 __tench__ _n_  
 __tenderizze__ _v_  
@@ -10473,6 +10479,7 @@ __to be at sea__
 __to be in someone's shoes__ _Nobody has been in my shoes._  
 __to be in the clear__  
 __to date__ _idiom_ :three: Until now. _To date, no winners have attended._  
+__to have a point__ _He's got a point._  
 __to hell and back__ :two::hammer:  
 __to hell__  
 __to his name__ _Bernie died with $1.09 to his name._  
@@ -10574,6 +10581,7 @@ __tower__ _v_ _Towering over our heads._
 __townhouse__ _n_ :two::hammer: (townhouses)  
 __toy breeds__ _(pets)_  
 __toy__ _v_ :two::hammer: (toying)  
+__Toyota__ :mega: (? CHK)  
 __tpngue-in-cheek__  
 __trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
 __track__ _n_ :camera:  
@@ -11099,7 +11107,7 @@ __vise__ _n_
 __visitation__ _n_ :five::hammer:  
 __vistas__  
 __vital__ _adj_  
-__vitriol__ _n_ :five: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
+__vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
 __vituperation__  
 __vituperative__  
@@ -11368,7 +11376,7 @@ __will__ _v_
 __willful__  
 __willfully__  
 __willpower__ _n_  
-__willy-nilly__ _adv_ (willy nilly) :six: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
+__willy-nilly__ _adv_ (willy nilly) :seven: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __wilt__ _v_  
 __wilted__ _v_ :seven::hammer: (wilting) _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
