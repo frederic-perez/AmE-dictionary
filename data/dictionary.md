@@ -14,6 +14,7 @@ __35-degree day__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __800-pound gorilla__  
 __a bird in the hand is worth two in the bush__  
+__a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
 __A/C__ (air conditioned?)  
 __AA__  
@@ -324,7 +325,7 @@ __apostasy__
 __apostate__ _n_ :three::hammer: (apostates)  
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
-__appalling__ _adj_ :four: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
+__appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
 __appeal__ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
@@ -541,11 +542,13 @@ __backpedal__ _v_
 __backslid__ _v_  
 __backsplash__ _n_ _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
+__backtrack__  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
 __backwater__ :two::hammer: _An academic backwater._  
 __backwoods__  
 __bad actor__  
 __bad blood__ :two::hammer:  
+__bad egg__ Someone who behaves in a bad or dishonest way.  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __badass__  
@@ -974,7 +977,7 @@ __blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jon
 __blue-collar men__  
 __bluegill__  
 __bluegrass__  
-__blueprint__ _n_ :five::hammer: (blueprints)  
+__blueprint__ _n_ :six::hammer: (blueprints)  
 __bluff__ _n_ :two::hammer:  
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
@@ -1198,7 +1201,7 @@ __brisket__ _n_ :three::hammer:
 __briskly__  
 __bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristle<sup>1</sup>__ _n_ :four::hammer: (bristles)  
-__bristle<sup>2</sup>__ _v_ :five: To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
+__bristle<sup>2</sup>__ _v_ :six: To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __Britons__  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
@@ -1322,6 +1325,7 @@ __burgundy__ :two::hammer: _Burgundy outfit._
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
+__burn the candle at both ends__ To work or study day and night.  
 __burners__ (gas cooktop) :camera:  
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
@@ -2482,7 +2486,7 @@ __dallying__
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dammit__  
 __damnation__  
-__damning__ :two::astonished::hammer: _A damning veredict._  
+__damning__ :three::astonished::hammer: _A damning independent inquiry._ _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
 __dampen__ _v_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
@@ -3813,7 +3817,7 @@ __flunkies__
 __flunky__  
 __fluorescent__ :mute:[fluores~~c~~ent]  
 __flurry > in a flurry__  
-__flurry__ _n_ :nine: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
+__flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
 __fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
@@ -4608,6 +4612,7 @@ __harbinger__ _n_ :three::hammer:
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard rock__ _n_  
 __hard sell__  
+__hard-ball__  
 __hard-boiled egg__  
 __hard-core__ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
 __hard-line__ _A more hard-line position._  
@@ -5753,7 +5758,7 @@ __leveled__ :two::hammer:
 __leverage<sup>1</sup>__ _n_ _To exert leverage._  
 __leverage<sup>2</sup>__ _v_ :two::hammer:  
 __leviathan__  
-__levied__ _v_ :four::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
+__levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy<sup>1</sup>__ _v_ :three::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :three::hammer:  
 __lewd__ _adj_ :three::hammer:  
@@ -6874,7 +6879,7 @@ __outgoing__
 __outgrowth__  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
-__outing__ _n_ :eight: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
+__outing__ _n_ :nine: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
 __outlander__  
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
@@ -8048,7 +8053,7 @@ __reaffirming__
 __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
 __realtor__ _n_ :three::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
-__ream<sup>2</sup>__ _n_ :pencil2::two::hammer: (reams) _He watched reams on tape._  
+__ream<sup>2</sup>__ _n_ :pencil2::three::hammer: (reams) _He watched reams on tape._  
 __reamer__ _n_  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
@@ -8295,7 +8300,7 @@ __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or mor
 __RICO__ _He had been indicted on RICO charges._  
 __ricochet__ _v_ :mega::three::hammer:  
 __riddance__ _n_ :four::hammer:  
-__riddle<sup>1</sup>__ _n_ :five::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
+__riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
 __ridership__ :two::hammer:  
 __RIF__ _Reading Is Fundamental._  
@@ -8618,6 +8623,7 @@ __scam__ _v_ :four::hammer: (scammed)
 __scammer__  
 __scamper__ _v_ :three::hammer: (scampered, scampering) _Scampered into the van._  
 __scant__ _adj_ :seven: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
+__scantily__  
 __scapegoated__ _v_  
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man's psyche for years._  
@@ -9204,7 +9210,7 @@ __slightly-built__ _The slightly-built, 27-year-old man._
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__ _n_ :two::hammer:  
 __sliminess__  
-__sling__ _n_ :two::hammer: _The sling wrappred around his forearm._  
+__sling__ _n_ :three::hammer: _The sling for his dislocated shoulder._  
 __slinger__  
 __slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slip<sup>1</sup>__ _n_ :two::hammer: _A pink slip._ _A slip of paper._  
@@ -9743,7 +9749,7 @@ __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) T
 __stenographer__ :two::hammer:  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __Step 'n' Fetch It routine__  
-__step up__ _v_ :three::hammer:  
+__step up__ _v_ :four::hammer:  
 __stepfather__ _(vs godfather)_  
 __stepladder__ _n_  
 __steppes__ _n_  
@@ -10451,7 +10457,7 @@ __tink__ _v_
 __tinker__ _v_  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
-__tip off__ To secretly inform the police or authorities.  
+__tip off__ _v_ _idiom_ :two: (tip-off) To secretly inform the police or authorities.  
 __tip over__ _v_  
 __tip-top__ _adj_ _informal_ Excellent.  
 __tipoff__ _n_ :two::hammer: (tip-off)  
@@ -10542,6 +10548,7 @@ __top dollars__
 __top flight__ First division?  
 __top the bill__ _I'll top the bill, I'll overkill._  
 __top-dog__  
+__top-flight__  
 __top-of-mind__  
 __topiary__  
 __topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
@@ -11398,7 +11405,7 @@ __windstorm__
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
 __wine list__ _The wine list._ :es: la carta de vinos  
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
-__winger__ _n_ (soccer)  
+__winger__ _n_ (soccer) :two::hammer:  
 __winging__ _v_  
 __wingtips__  
 __winking__ _v_  
