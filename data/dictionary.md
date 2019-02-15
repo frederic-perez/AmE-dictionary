@@ -224,6 +224,7 @@ __allotment__ :two::hammer:
 __allotted__  
 __allowance__  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
+__almond__ :mute:[a~~l~~mond]  
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :three::hammer: _Dwayane Wade raised three fingers aloft._  
 __along with__  
@@ -509,6 +510,7 @@ __awry__ :two::hammer:
 __axle__ _n_  
 __azure__  
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
+__babblermouth__ A person who talks too much, often telling secrets to other people.  
 __baboon__  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __baby blue__ _n_ :camera:  
@@ -674,6 +676,7 @@ __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He t
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be no picnic__ _Looking after four children is no picnic._  
+__be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
@@ -872,7 +875,7 @@ __biopic__
 __bipartisan__  
 __birch__ _n_ (birches) _Birch and oak in stock._  
 __bird__ _v_ (?)  
-__birdbrain__  
+__birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
 __birds of the same feather__  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
@@ -1189,6 +1192,7 @@ __bridesmaid__
 __bridle__ _n_  
 __briers__  
 __brig__  
+__bright spark__ A clever person.  
 __bright-orange__ _A bright-orange construction jumpsuit._  
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
@@ -1691,6 +1695,7 @@ __chastened__ :two::hammer:
 __chastize__ _v_  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
+__chatterbox__ :dart: A person who talks a lot.  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
@@ -1951,6 +1956,7 @@ __coincidentally__
 __coke-bottle glasses__  
 __colander__  
 __cold duck__  
+__cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
 __coleslaw__ _n_ :three::hammer:  
@@ -2991,9 +2997,8 @@ __drain<sup>1</sup>__ _v_ :two::hammer:
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__  
 __dramedy__  
-__drape<sup>1</sup>__ _n_ _Silk drape._  
+__drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
-__drapes__ Long curtains. _Katherine pulled back the heavy velvet drapes._  
 __draw a blank__ _idiom_  
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
@@ -6255,6 +6260,7 @@ __milling__ :two::hammer: _To avoid disrespectful milling._
 __million__ _The project willl cost around $10 million._ (not ending with 's')  
 __milquetoast__ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
+__mince (one's) words__ _idiom_  
 __mince__ _v_ :three: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._  
 __mincemeat__  
 __mind__ _v_ _Mind the gap._  
@@ -6275,6 +6281,7 @@ __mirth__ _n_ :four::hammer:
 __mirthful__  
 __miscarry__ _v_  
 __miscegenation__  
+__miscellaneous__ :mute:[mis~~c~~ellaneous]  
 __miscellany__ :mega:  
 __mischief__ _n_ :three::hammer:  
 __mischievous__  
@@ -6704,6 +6711,7 @@ __oblivion__
 __oblivious__ _adj_ :three::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obo__ _abbr_ :two: Or best offer.  
+__obscene__ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
 __obsequious__  
 __obsidian__  
@@ -7020,6 +7028,7 @@ __pantalons__ _n_
 __pantoscopic__ _Pantoscopic tilt._  
 __pantry__ _n_ :three::hammer:  
 __pants down__ :camera: _You might get caught with your pants down._  
+__pants__ _n_  
 __pants-on-fire__  
 __pantsed__ _v_  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
@@ -7072,6 +7081,7 @@ __participatory__ _I wanted to be a participatory father._
 __particle board__  
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
 __partridge__ _n_ :two::hammer:  
+__party animal__ Someone who likes to attend parties often.  
 __party poppers__  
 __party__ _n_  
 __parvenu__  
@@ -7375,7 +7385,7 @@ __plaid__ :two::hammer: _Plaid number._ _Plaid shirt._
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
 __plaintive__ _adj_ :three: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
-__plaintively__  
+__plaintively__ _adv_ :two:  
 __plaiting__ _Tshanyi earns money plaiting hair._  
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
 __plane__ :two::hammer: _It was a place full of plane trees._  
@@ -7779,7 +7789,7 @@ __pulsating__
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :five::hammer: (pummeled)  
 __pump__ _n_ :two::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
-__pun<sup>1</sup>__ _n_ :es: juego de palabras  
+__pun<sup>1</sup>__ _n_ :three::hammer: :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
@@ -8633,7 +8643,10 @@ __scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.
 __Scarlett__ (vs scarlet) A female given name transferred from the surname; in general use since 1936.  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scattershot__ :two::hammer:  
+__scenario__ :mute:[s~~c~~enario]  
+__scene__ :mute:[s~~c~~ene]  
 __scenic__  
+__scent__ :mute:[s~~c~~ent]  
 __scented__  
 __schadenfreude__  
 __schemer__ _n_ (?)  
@@ -8652,10 +8665,12 @@ __school desk__
 __schooling__ _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
+__science__ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :two::hammer:  
 __scintillating__ _adj_ :three::hammer:  
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
+__scissors__ :mute:[s~~c~~issors]  
 __scleroderma__  
 __scoff__ _v_ :seven: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
@@ -9833,7 +9848,7 @@ __storks__
 __storm surge__ :two::hammer:  
 __storm__ _v_  
 __stoup__  
-__stove__ _n_ :two::hammer:  
+__stove__ _n_ :three::hammer:  
 __stovepipe hat__  
 __stow__ _v_  
 __stowaway__  
@@ -10346,6 +10361,7 @@ __thick skin__
 __thicket__ _n_ :five::hammer: (thickets)  
 __thine__  
 __thingy__ :two::hammer:  
+__think back__ To think about a past event or a past time.  
 __think over__ To consider a problem or decision carefully.  
 __think tank__ _n_ :five::hammer:  
 __think up__ To invent or imagine something, especially an excuse.  
@@ -10482,6 +10498,7 @@ __tizzy__
 __TM__ _abbr_ :two: Trascendental meditation.  
 __TMI__ Too much information.  
 __to be at sea__  
+__to be back on your feet__ To be healthy again after a period of illness.  
 __to be in someone's shoes__ _Nobody has been in my shoes._  
 __to be in the clear__  
 __to date__ _idiom_ :three: Until now. _To date, no winners have attended._  
