@@ -1,1 +1,13 @@
 
+__pterodactyl__ :mute:[~~p~~terodactyl]  
+__raspberry__ :mute:[ras~~p~~berry]  
+__receipt__ :mute:[recei~~p~~t]  
+__sapphire__ :mute:[sa~~p~~phire]  
+__align__ :mute:[ali~~g~~n]  
+__assign__ :mute:[assi~~g~~n]  
+__campaign__ :mute:[campai~~g~~n]  
+__design__ :mute:[desi~~g~~n]  
+__feign__ :mute:[fei~~g~~n]  
+__foreign__ :mute:[forei~~g~~n]  
+__gnaw__ :mute:[~~g~~naw]  
+__gnome__ :mute:[~~g~~nome]  
