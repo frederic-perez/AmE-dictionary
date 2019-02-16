@@ -14,7 +14,7 @@ class Test_Checker(unittest.TestCase):
         DICTIONARY = ''
         self.assertRaises(ValueError, Checker, DICTIONARY)
 
-    def test_GivenAnInexistentDictionaryForChecker_When_Checker_ThenExceptionIsRaised(self):
+    def test_GivenANonexistentDictionaryForChecker_When_Checker_ThenExceptionIsRaised(self):
         DICTIONARY = 'this-file-does-not-exist'
         self.assertRaises(IOError, Checker, DICTIONARY)
         
