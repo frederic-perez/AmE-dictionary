@@ -206,6 +206,7 @@ __alfresco__ _It had two small terraces for alfresco dining._
 __algae__ _n_  
 __alienate__ _v_ :eight::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
+__align__ :mute:[ali~~g~~n]  
 __all in all,__ _phr_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
@@ -427,7 +428,7 @@ __asses__ _n_ :two::hammer:
 __asset__  
 __assets__  
 __assiduously__ :pencil2::two::hammer:  
-__assign__ _n_ _A cover assign._  
+__assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assists__ _Green had 14 rebounds and nine assists._  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :four::hammer:  
@@ -1193,6 +1194,7 @@ __bridle__ _n_
 __briers__  
 __brig__  
 __bright spark__ A clever person.  
+__bright__ :mute:[bri~~gh~~t]  
 __bright-orange__ _A bright-orange construction jumpsuit._  
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
@@ -1469,6 +1471,7 @@ __cameleer__
 __camellia__  
 __camo__  
 __camp__ :two::hammer: _The Pacquiao camp did not object._  
+__campaign__ :mute:[campai~~g~~n]  
 __camper shell__  
 __camper__ :two::hammer:  
 __campers__ _Cars, trailers, boats & campers $45/month._  
@@ -2679,6 +2682,7 @@ __descent__ :mute:[des~~c~~ent]
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
+__design__ :mute:[desi~~g~~n]  
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
 __despair__ _n_  
@@ -3196,6 +3200,7 @@ __egotists__
 __egregious__ _adj_ :seven: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __eh?__ _Impressive, eh?_  
+__eight__ :mute:[ei~~gh~~t]  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
 __either__ :mega:  
@@ -3566,6 +3571,7 @@ __featuring__
 __feckless__ _adj_ :three::hammer:  
 __fecklessness__  
 __feel for__  
+__feign__ :mute:[fei~~g~~n]  
 __feint__  
 __feisty__ _adj_ :five::hammer:  
 __felled__ _v_ _He felled a giant._  
@@ -3629,6 +3635,7 @@ __fifth column__ :astonished: _A fifth column preparing to rise up and join the 
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
 __fight club__  
+__fight__ :mute:[fi~~gh~~t]  
 __figments__  
 __figuratively__ _adv_  
 __figure out__ _v_  
@@ -3759,7 +3766,7 @@ __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926
 __flick<sup>2</sup>__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
-__flight__ _n_ _He climbed four flights of stairs._  
+__flight__ _n_ :two::mute:[fli~~gh~~t]:hammer: _He climbed four flights of stairs._  
 __flimflam__ _n_ :dart::two::hammer:  
 __flimsy__  
 __flinch<sup>1</sup>__ _n_  
@@ -3904,6 +3911,7 @@ __forefinger__
 __forefront__  
 __forego__  
 __foregone__ :two::hammer:  
+__foreign__ :mute:[forei~~g~~n]  
 __foreman__ :two::hammer:  
 __forenoon__ _We had a real gully washer in the forenoon._  
 __forensics__ :two::hammer:  
@@ -4271,7 +4279,9 @@ __gnarled__ _v_ :two::hammer: _Gnarled fingers._
 __gnash__ _Gnasing teeth._  
 __gnashing__  
 __gnat__ _n_ :three::hammer: (insect?)  
-__gnaw__ _v_ :nine: /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
+__gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
+__gnome__ :mute:[~~g~~nome]  
+__gnu__ :mute:[~~g~~nu]  
 __go a long way__ :dart::two::hammer: _Go a long way toward minimizing damage._  
 __go apeshit__  
 __go awry__ :two::hammer:  
@@ -4755,6 +4765,7 @@ __heel<sup>2</sup>__ _v_
 __heft__ _n_ :two::hammer:  
 __hefted up__  
 __hefty__  
+__height__ :mute:[hei~~gh~~t]  
 __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
@@ -6038,6 +6049,7 @@ __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic ma
 __malarkey__ _n_ :dart::four::mega::hammer:  
 __malevolent__  
 __malfeasance__ :two::hammer:  
+__malign__ :mute:[mali~~g~~n]  
 __maligned__  
 __malingerer__ _n_  
 __mallards__  
@@ -7036,6 +7048,7 @@ __paper towel__ :two::hammer: (paper towels)
 __paperclip__ _n_  
 __paperwork__  
 __pappy__  
+__paradigm__ :mute:[paradi~~g~~m]  
 __paradox__  
 __paraglider__ _n_ :es: parapente; parapentista  
 __paragon__ _n_ :four::hammer: (paragons) _A paragon of redundancy._  
@@ -7752,6 +7765,7 @@ __psychiatrist__ :mute:[~~p~~sychiatrist]
 __psychic__ :mute:[~~p~~sychic]  
 __psychology__ :mute:[~~p~~sychology]  
 __psychopathic__  
+__pterodactyl__ :mute:[~~p~~terodactyl]  
 __PTSD__ _abbr_ :two: Post-traumatic stress disorder.  
 __public eye__  
 __public house__ _n_ :five::hammer: :es: taberna  
@@ -8012,6 +8026,7 @@ __rash<sup>1</sup>__ _n_ :eight: (rashes) __1__ An outbreak of reddening or spot
 __rash<sup>2</sup>__ _adj_  
 __Rashomon effect__ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
+__raspberry__ :mute:[ras~~p~~berry]  
 __rat race__  
 __rat-fuck__ _v_  
 __ratched__  
@@ -8084,6 +8099,7 @@ __recap__
 __recap<sup>1</sup>__ _n informal_ :two::hammer: _The written recap of the meeting._  
 __recap<sup>2</sup>__ _v informal_ Recapitulate.  
 __recede__ _v_  
+__receipt__ :mute:[recei~~p~~t]  
 __receivership__  
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
@@ -8159,7 +8175,7 @@ __regulator__ _n_
 __regulatory muster__  
 __regulatory__  
 __rehash__ _v_ :two::hammer:  
-__reign__ _n_  
+__reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
 __reimagining__ _n_  
 __reinstate__ _v_ :three::hammer:  
 __reinstatement__ _n_  
@@ -8230,6 +8246,7 @@ __rescind__ _v_ :two::hammer: (rescinded)
 __reset__ _v_ :three::mega::hammer:  
 __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
+__resign__ :mute:[resi~~g~~n]  
 __resiliency__  
 __resilient__ _adj_  
 __resist<sup>1</sup>__ _v_  
@@ -8583,6 +8600,7 @@ __sap<sup>2</sup>__ _n_ :three::hammer: _A flat-sided sap stuck out of his back 
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __sappers__ _n_  
 __sapphire lidar__  
+__sapphire__ :mute:[sa~~p~~phire]  
 __sappy__ _Sappy smile._  
 __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __sarcophagus__  
@@ -9076,6 +9094,7 @@ __sieve__ _n_ :five::hammer:
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sigh__ :mega:  
 __sign up__ _v_  
+__sign__ :mute:[si~~g~~n]  
 __sign-off__ _n_  
 __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
 __signature__ _That's their signature meal._  
@@ -9468,7 +9487,7 @@ __sous-chef__ _n_ :mega:
 __soused__ _v_  
 __South of the Border__  
 __southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
-__sovereign__  
+__sovereign__ _n_ :two::mute:[soverei~~g~~n]:hammer:  
 __sovereignty__ :pencil2:  
 __sow__ _n_ :four::hammer: _A drunk sow._  
 __soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a soybean bin._  
