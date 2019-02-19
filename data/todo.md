@@ -9,3 +9,12 @@ __sour grapes__ :dart: Pretending to dislike something you cannot have.
 __lemon law__ An American law that protects purchasers of faulty cars.  
 __bad apple__ A troublemaker.  
 __top banana__ The chief person in a group.  
+
+__fiancée__ A woman who is engaged to be married.  
+__fiancé__ A man who is engaged to be married.  
+__devil is in the detail__ _idiom_ Small things can cause difficulties when you examine them closely enough.  
+__checker__ A cashier in a supermarket.  
+__ball and chain__ A wife.  
+__urge on__ _phr v_ To encourage.  
+__sentry__ _n_ (sentries)  
+__belly flop__ _n informal_ :dart: A dive in which the front of the body hits flat against a surface, especially of water.  
