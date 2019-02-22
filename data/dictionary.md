@@ -550,6 +550,7 @@ __backup__ _n_ _It's amazing the amount of backup we see from even those most mi
 __backwater__ :two::hammer: _An academic backwater._  
 __backwoods__  
 __bad actor__  
+__bad apple__ A troublemaker.  
 __bad blood__ :two::hammer:  
 __bad egg__ Someone who behaves in a bad or dishonest way.  
 __bad words__ _Cat says bad words._  
@@ -581,6 +582,7 @@ __bale__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :octocat: balky donkey _He was trying to get his balky donkey to move._  
+__ball and chain__ A wife.  
 __ball bearings__  
 __balladeer__  
 __ballasr__  
@@ -777,7 +779,7 @@ __bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._
 __bells and whistles__ _pl n_ :three: Additional features or accessories which are nonessential but very attractive.  
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
-__belly-flop__  
+__belly flop__ _n informal_ :dart::two: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belt out__  
 __belt socket__ _n_  
 __belt__ A swallow or a gulp of an alcoholic drink.  
@@ -839,6 +841,7 @@ __bier__ _n_ :pencil2:
 __big brother__  
 __Big C__ Cancer?  
 __big cat__ :es: felino  
+__big cheese__ An influential person.  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It's not a big deal._ __2__ An important person: She was a big deal in local politics.  
 __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
@@ -1706,7 +1709,8 @@ __check in__ _v_
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __check something out__  
 __check__ _v_ :three::hammer: _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._  
-__checker__ _v_ _Checkered history._  
+__checker<sup>1</sup>__ _v_ _Checkered history._  
+__checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
 __checklist__ (single word)  
 __cheek by jowl__ :two::hammer:  
 __cheekboned__ _High-cheekboned newbies.;-_  
@@ -2219,6 +2223,7 @@ __cottage__ :two::hammer:
 __cotton candy__ :two::hammer:  
 __cotton dry__  
 __cotton swabs__  
+__couch potato__  
 __couch__ _v_ _He couched the eyes of a dead cat._  
 __couch-ridden__  
 __couch-surfing__ :astonished:  
@@ -2704,6 +2709,7 @@ __deus ex machina__ _Leaders under fire often wait for some deus ex machina._
 __devastate__ _v_  
 __develop__ _v_ :mega:  
 __development__ :two::hammer: _Choose your home from 8 new developments across London._  
+__devil is in the detail__ _idiom_ Small things can cause difficulties when you examine them closely enough.  
 __devil-may-care style__  
 __deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
 __deviltry__  
@@ -3191,6 +3197,7 @@ __effort__ _n_ :dart: _Activists launched an effort._
 __effortless__ _adj_  
 __effrontery__  
 __effusive__  
+__egg head__ A very studious and academic person.  
 __egg roll__  
 __egg white__  
 __egg__ _v_  
@@ -3612,6 +3619,8 @@ __feud<sup>1</sup>__ _n_ :three::hammer:
 __feud<sup>2</sup>__ _v_  
 __feuded__  
 __fez__ _n_  
+__fiancé__ A man who is engaged to be married.  
+__fiancée__ A woman who is engaged to be married.  
 __fiat__ _Military fiat._  
 __Fibbies__  
 __fiber__  
@@ -3840,6 +3849,7 @@ __flutter<sup>2</sup>__ _n_
 __fluttering__ _n_  
 __fly high__  
 __fly in the ointment__ A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
+__fly off the handle__ _idiom_ To lose self control, to get very angry.  
 __fly on the wall__  
 __fly-by-night__  
 __flyboard__  
@@ -5744,6 +5754,7 @@ __lei__ _n_ A Polynesian garland of flowers.
 __leis__ _Scented leis._  
 __leitmotif__  
 __lemme__ _Lemme see._  
+__lemon law__ An American law that protects purchasers of faulty cars.  
 __lemon wedges__ :camera: _Lemon wedges for serving._  
 __lemon__ _n_ _This house is a lemon, honey._  
 __lemongrass__  
@@ -8831,6 +8842,7 @@ __sensitive__ _Sensitive questions._
 __sentience__  
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
+__sentry__ _n_ (sentries)  
 __seppuku__ _n_  
 __sequestered__ _v_  
 __sequestration__ _Sequestration of the jury._  
@@ -9007,6 +9019,7 @@ __shortlist<sup>2</sup>__ _v_ (shortlisted)
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ _Shortly before 8 a.m. Tuesday._  
 __shot in the arm__ :two::hammer:  
+__shot in the dark__ _idiom_ An attempt to guess something when you have no information or knowledge about it.  
 __shot put__  
 __shot__ _(:es: javalina?)_  
 __shotgun cottage__  
@@ -9482,6 +9495,7 @@ __soundly__ _Sleep soundly._
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
+__sour grapes__ :dart: Pretending to dislike something you cannot have.  
 __soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  
 __soused__ _v_  
@@ -10579,6 +10593,7 @@ __tooth-wrecking__
 __toothless__ _Some consider most of those laws toothless._  
 __toothsome__ _adj_  
 __tootsie__ _n_  
+__top banana__ The chief person in a group.  
 __top bill__ _I'm not my usual top billing._  
 __top dollars__  
 __top flight__ First division?  
@@ -10612,7 +10627,7 @@ __tottered__
 __touch and go__  
 __touchline__  
 __touchy__ _adj_ :two::hammer:  
-__tough cookie__  
+__tough cookie__ _n_ :two: A very determined person.  
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
 __tourney__  
@@ -11022,6 +11037,7 @@ __upwardly__
 __urban legend__  
 __urbanites__  
 __urchin__ _An underprivileged urchin._  
+__urge on__ _phr v_ To encourage.  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __usher__  
