@@ -19,3 +19,15 @@ __advice__ _This is my unsolicited advice._
 __prerogative__ _n_  
 __catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __elision__  
+
+__thigh__ :mute:[thi~~gh~~]  
+__tight__ :mute:[ti~~gh~~t]  
+__weigh__ :mute:[wei~~gh~~]  
+__weight__ :mute:[wei~~gh~~t]  
+__borough__ :mute:[borou~~gh~~]  
+__caught__ :mute:[cau~~gh~~t]  
+__daughter__ :mute:[dau~~gh~~ter]  
+__dough__ :mute:[dou~~gh~~]  
+__drought__ :mute:[drou~~gh~~t]  
+__naughty__ :mute:[nau~~gh~~ty]  
+
