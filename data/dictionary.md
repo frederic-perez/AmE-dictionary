@@ -124,6 +124,7 @@ __adulation__
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :six::mega::hammer:  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
+__advice__ _This is my unsolicited advice._  
 __advisedly__  
 __advisory__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advocacy__ :two::hammer:  
@@ -747,6 +748,7 @@ __beguile__ _v_ :four::hammer: (beguiled, beguiling)
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
+__behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn't get the basics in primary school, they are way behind the eight ball.  
 __behold__ :two::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
@@ -1599,6 +1601,7 @@ __catcall__ _v_
 __catcalling__ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
+__catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __catch up__ _v_  
 __catch wind__ _I don't know if you caught wond of it._  
 __catch__ _n_ (game)  
@@ -3166,6 +3169,7 @@ __earth-shattering__
 __Earthling__ _n_  
 __earthquake drill__  
 __easement__  
+__easier said than done__ Said of a task that is easier to talk about than to do.  
 __easing__  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __easy as can be__  
@@ -3236,6 +3240,7 @@ __ELIA5__ Explain Like I Am 5.
 __elicit__ _v_ :five::hammer: (elicited)  
 __elide__ _v_  
 __eligibility__  
+__elision__  
 __elite__ (elites) :two::hammer:  
 __elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __elucidate__ _v_ :two::hammer:  
@@ -4829,6 +4834,7 @@ __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and
 __high beams__  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high street__ _n_ _British informal_ :three::hammer:  
+__high__ :mute:[hi~~gh~~]  
 __high-fly__ _v_  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-tail__ _v_  
@@ -5562,6 +5568,7 @@ __knead__ _v_ :six::hammer: (kneaded, kneading)
 __knee-jerk__ _adv_ _(disapproving)_ :four::hammer: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
 __knell__ _n_ :three::hammer:  
+__knight__ :mute:[kni~~gh~~t]  
 __knit tie__  
 __knit__ _v_ :two: To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
@@ -5817,6 +5824,7 @@ __lifer__ _Craighead is a lifer at Baker Hughes._
 __lift__ _n_ _I could give you a lift home._  
 __liftgate__  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
+__light__ :mute:[li~~gh~~t]  
 __lightbulb moment__  
 __lightermen__  
 __lighthearted__  
@@ -6263,7 +6271,7 @@ __midswing__
 __midwife__ :pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
-__might__ _China's economic might._  
+__might__ _n_ :two::hammer::mute:[mi~~gh~~t] _China's economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
 __milch__ :two::hammer: _A milch cow._  
 __mild__ _A mild day in October._  
@@ -6578,6 +6586,7 @@ __needlestick__ :pencil2:
 __needy__  
 __nefarious__ _adj_ :six::hammer:  
 __neglected__ _I don't feel neglected._  
+__neighbor__ :mute:[nei~~gh~~bor]  
 __neighed__ _v_  
 __neighing__ _v_  
 __nematodes__  
@@ -6619,6 +6628,7 @@ __nickel__ _n_ _A nickel mine._
 __nifty__ _adj informal_ :two: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __nigh__  
+__night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__  
 __nightingale__ _n_  
@@ -7641,7 +7651,7 @@ __preposterously__ :two::hammer:
 __preppers__  
 __prepping__ _v_  
 __prequel__  
-__prerogative__ _n_ :three::hammer:  
+__prerogative__ _n_ :four::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_  
 __prescient__ _adj_ :four::hammer:  
@@ -8351,7 +8361,7 @@ __rifle__ _v_
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
 __rigged__  
-__right__ :two::dart::hammer: _Exactly right._ _Absolutely right._  
+__right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
 __rightfully__ _Rightfully so._  
 __rigmarole__ _n_ :two::hammer: _Rigmarole controls._  
@@ -9105,7 +9115,8 @@ __sidled__ _v_
 __siege__ _An overnight siege shocked the country._  
 __sieve__ _n_ :five::hammer:  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
-__sigh__ :mega:  
+__sigh__ _v_ :two::mega::mute:[si~~gh~~]  
+__sight__ :mute:[si~~gh~~t]  
 __sign up__ _v_  
 __sign__ :mute:[si~~g~~n]  
 __sign-off__ _n_  
@@ -9288,7 +9299,7 @@ __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ _n_ :four: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
-__slouch<sup>2</sup>__ _v_ (slouching)  
+__slouch<sup>2</sup>__ _v_ :two::hammer: (slouching)  
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :three::hammer:  
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
@@ -9726,7 +9737,7 @@ __standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the st
 __standoff__ _n_ :four::hammer:  
 __standout<sup>1</sup>__ _adj informal_ :seven: Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
-__standpoint__  
+__standpoint__ _n_ :two::hammer: _From a contractual standpoint._  
 __standstill__ _n_ :two::hammer: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __stanza__  
 __staph__ _Staph infections._  
@@ -9891,7 +9902,8 @@ __strafes__ _v_
 __strafing__  
 __straggler__ _n_  
 __straggly__  
-__straight__ :two::hammer: _Five weeks straight._ _Their second straight win._  
+__straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
+__straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straight-A student__  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strain<sup>2</sup>__ _n_ :four::hammer: _Can you keep an even strain?_  
@@ -10627,7 +10639,7 @@ __tottered__
 __touch and go__  
 __touchline__  
 __touchy__ _adj_ :two::hammer:  
-__tough cookie__ _n_ :two: A very determined person.  
+__tough cookie__ _n_ :three: A very determined person.  
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
 __tourney__  
