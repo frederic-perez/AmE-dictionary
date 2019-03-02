@@ -1,4 +1,17 @@
 
+__nought__ :mute:[nou~~gh~~t]  
+__slaughter__ :mute:[slau~~gh~~ter]  
+__thorough__ :mute:[thorou~~gh~~]  
+__thought__ :mute:[thou~~gh~~t]  
+__through__ :mute:[throu~~gh~~]  
+__anchor__ :mute:[anc~~h~~or]  
+__archeology__ :mute:[arc~~h~~eology]  
+__architect__ :mute:[arc~~h~~itect]  
+__chaos__ :mute:[c~~h~~aos]  
+__character__ :mute:[c~~h~~aracter]  
+__charisma__ :mute:[c~~h~~arisma]  
+__chemistry__ :mute:[c~~h~~emistry]  
+
 __thigh__ :mute:[thi~~gh~~]  
 __tight__ :mute:[ti~~gh~~t]  
 __weigh__ :mute:[wei~~gh~~]  
