@@ -23,6 +23,28 @@ __dough__ :mute:[dou~~gh~~]
 __drought__ :mute:[drou~~gh~~t]  
 __naughty__ :mute:[nau~~gh~~ty]  
 
+__clunker__ And old car in poor condition.  
+__against oll odds__ _idiom_ Even though something seems completely impossible.  
+__vote in__ _phr v_ To choose somebody for a position by voting.  
+__disingenuous__ _adj_ Not really honest or sincere, and only pretending to be.  
+__flunk__ _v_ To fail a test or a course. _John flunked maths._  
+__ref__ _n_ A referee.  
+__artsy__ _adj_ (arty in BrE)  
+__cashmere__  
+__sassy__  
+__push back__ _phr v_  
+__nifty__ :two::hammer:  
+__sitting duck__  
+__freak out__  
+__verbatim__  
+__brownout__ _n_ A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
+__keel__ _n_  
+__outspoken__  
+__two-fold__ _adj_  
+__bender__ _You can die on a bender._  
+__binging__ _v_  
+__tariff__ _n_ (tariffs)  
+
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
 __pull yourself together__ _idiom__ Calm down.  
 __down-to-earth__ _idiom_ Sensible and realistic.  
