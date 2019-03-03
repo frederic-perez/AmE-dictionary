@@ -36,6 +36,20 @@ __forehead__ :mute:[fore~~h~~ead]
 __ghastly__ :mute:[g~~h~~astly]  
 __ghetto__ :mute:[g~~h~~etto]  
 
+__GWB__ George Washington Bridge.  
+__ledger__ _n_ :three::hammer:  
+__artsy__  
+__veil__ _v_  
+__fledging__  
+__concern__ _v_  
+__flotilla__ _n_ :mega:  
+__grinch__ _n_  
+__clement__ _adj_  
+__remembrance__  
+__carapace__ _n_ :three::hammer:  
+__utterly__ _adj_  
+__trilobite__ _n_  
+
 __clunker__ And old car in poor condition.  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
 __vote in__ _phr v_ To choose somebody for a position by voting.  
