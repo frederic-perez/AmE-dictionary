@@ -23,6 +23,19 @@ __dough__ :mute:[dou~~gh~~]
 __drought__ :mute:[drou~~gh~~t]  
 __naughty__ :mute:[nau~~gh~~ty]  
 
+__chord__ :mute:[c~~h~~ord]  
+__choreography__ :mute:[c~~h~~oreography]  
+__chorus__ :mute:[c~~h~~orus]  
+__Christian__ :mute:[C~~h~~ristian]  
+__Christmas__ :mute:[C~~h~~istmas]  
+__echo__ :mute:[ec~~h~~o]  
+__exhaust__ :mute:[ex~~h~~aust]  
+__exhibit__ :mute:[ex~~h~~ibit]  
+__exhilarate__ :mute:[ex~~h~~ilarate]  
+__forehead__ :mute:[fore~~h~~ead]  
+__ghastly__ :mute:[g~~h~~astly]  
+__ghetto__ :mute:[g~~h~~etto]  
+
 __clunker__ And old car in poor condition.  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
 __vote in__ _phr v_ To choose somebody for a position by voting.  
