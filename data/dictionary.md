@@ -269,6 +269,7 @@ __amusement park__
 __anachronism__  
 __analyst__ :pencil2:  
 __anathema__ _n_ :five: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
+__anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :two::mega::hammer:  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
@@ -363,9 +364,11 @@ __arch__ _Her character is arch and fake._
 __archaea__ _n_  
 __arched doorway__ :camera:  
 __archenemy__ :pencil2:  
+__archeology__ :mute:[arc~~h~~eology]  
 __archetypal__  
 __Archimedes__ :mega:  
 __archipelago__ :two::hammer::pencil2: _Archipelago nation._  
+__architect__ :mute:[arc~~h~~itect]  
 __archivist__  
 __archrival__ _n_  
 __ardent__ :two::hammer: _He was one of her most ardemt suitors._  
@@ -1100,6 +1103,7 @@ __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She 
 __boredom__  
 __boring__ _v_ _He began throwing two touchdown passes, boring through traffic._  
 __borne__ _v_ :five::hammer:  
+__borough__ :mute:[borou~~gh~~]  
 __bosom__  
 __bossy__ _adj_  
 __bot__ _n_  
@@ -1621,6 +1625,7 @@ __catwalk__ _n_ :two::hammer:
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian__  
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
+__caught__ :mute:[cau~~gh~~t]  
 __cauliflower steaks__ :camera:  
 __caulking__  
 __causeway__ _n_ :five::hammer:  
@@ -1678,17 +1683,20 @@ __change__ _n_ _There is change in the shower._
 __chant__ _v_ (vs sing?)  
 __chanticleer__ _n_  
 __chanting__  
+__chaos__ :mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
 __chaparral__ _n_ :two::hammer:  
 __chaperones__ _n_ :two::hammer:  
 __chaplain__ _n_ :four::mega:  
 __chapter__ _To the east was the chapter house._  
 __character actor__  
+__character__ :mute:[c~~h~~aracter]  
 __charade__ _n_ :two::hammer:  
 __chard__  
 __charging__ Accuse formally.  
 __chargrilled__ _Chargrilled chicken._  
 __charily__  
+__charisma__ :mute:[c~~h~~arisma]  
 __charlatan__ _n_  
 __charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
 __charred__ _v_  
@@ -1724,6 +1732,7 @@ __cheese wedge__
 __cheese-eater__  
 __cheesecloth__ _n_ :three::hammer:  
 __cheesy__ _adj informal_ :two: Cheap and of low quality. _Cheesy motel rooms._  
+__chemistry__ :mute:[c~~h~~emistry]  
 __chenier__  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
@@ -2536,6 +2545,7 @@ __date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the dat
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
 __daub__ _v_ :three::hammer: (daubed) _A swastika was daubed on a science center window._  
+__daughter__ :mute:[dau~~gh~~ter]  
 __daunting__ _adj_ :four: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
@@ -2961,6 +2971,7 @@ __doubt__ :mute:[dou~~b~~t]
 __doubting Thomas__ _n_  
 __doubtless__  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
+__dough__ :mute:[dou~~gh~~]  
 __dour__ _adj_ :four: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_  
@@ -3070,7 +3081,7 @@ __drop-in__ _A drop-in center._
 __dropout__ _n_  
 __dropping hands__  
 __droppings__ _pl n_ :two::hammer:  
-__drought__ _n_ :two: A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
+__drought__ _n_ :three::mute:[drou~~gh~~t] A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drove__ _They buy tickets in droves._  
 __drover__ _n_ :two::hammer:  
 __drowns__ _v_  
@@ -6570,6 +6581,7 @@ __natty__ _adj_ :two: Neat, trim, and smart; dapper.
 __naturalization__  
 __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
+__naughty__ :mute:[nau~~gh~~ty]  
 __navel__ :two::hammer:  
 __naysayer__ _n_  
 __NB__  
@@ -6695,6 +6707,7 @@ __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keepi
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
 __notwithstanding__ _prep_ :four::hammer:  
+__nought__ :mute:[nou~~gh~~t]  
 __noun__ _n_  
 __nova__  
 __novella__  
@@ -9234,6 +9247,7 @@ __slathered__ _v_
 __slats__ _n_ :four::hammer: _The slats in the dock._ _Wood slats._  
 __slatted__ _v_ :two::hammer: _Slatted sunlight._  
 __slatternly__  
+__slaughter__ :mute:[slau~~gh~~ter]  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __slayer__  
 __sleaziest__  
@@ -9902,9 +9916,9 @@ __strafes__ _v_
 __strafing__  
 __straggler__ _n_  
 __straggly__  
+__straight-A student__  
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
-__straight-A student__  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strain<sup>2</sup>__ _n_ :four::hammer: _Can you keep an even strain?_  
 __strained__ _adj_ :three::hammer: _A strained thumb._  
@@ -10404,6 +10418,7 @@ __thick accent__ _Arnold's accent is getting thicker._
 __thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
 __thick skin__  
 __thicket__ _n_ :five::hammer: (thickets)  
+__thigh__ :mute:[thi~~gh~~]  
 __thine__  
 __thingy__ :two::hammer:  
 __think back__ To think about a past event or a past time.  
@@ -10417,9 +10432,10 @@ __thither__ _He was flinging the ball hither and thither, chucking it five feet 
 __thobbing__  
 __thong__ _n_ :two::hammer:  
 __thorny__ _adj_  
-__thorough__ :astonished: _It's a very serious matter that needs thorough investigation._  
+__thorough__ _adj_ :two::astonished::mute:[thorou~~gh~~] _It's a very serious matter that needs thorough investigation._  
 __thoroughfare__  
 __thoroughly__  
+__thought__ :mute:[thou~~gh~~t]  
 __thrall__ _n_ :six::hammer:  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __Three Lions__ _A message to the Three Lions._  
@@ -10432,7 +10448,7 @@ __throttle__ _v_
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
 __through thick and thin__ Through good times and bad times.  
-__through__ _adj, adv, prep_ :six: As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
+__through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
 __throw away__ To get rif of something that you no longer want.  
@@ -10482,6 +10498,7 @@ __tie-up__ _n_
 __tiebreaking__ _A tiebreaking goal._  
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
 __tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
+__tight__ :mute:[ti~~gh~~t]  
 __tight-knit__ _We are a tight-knit family._  
 __tighten your belt__ _idiom_ To spend less money.  
 __tighten__ _v_ _Tighten your belts._  
@@ -11322,8 +11339,8 @@ __weedeater__
 __weekend__ _n_  
 __weevil__ :two::hammer: _Weevil worms._  
 __weevils__  
-__weigh__ _v_ :es: sopesar?  
-__weight__ _You took some weight off your shoulders._  
+__weigh__ _v_ :two::mute:[wei~~gh~~] :es: sopesar?  
+__weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
 __weighty__ _His weighty agenda._  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
