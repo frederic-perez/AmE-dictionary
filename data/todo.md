@@ -1,25 +1,4 @@
 
-__chord__ :mute:[c~~h~~ord]  
-__choreography__ :mute:[c~~h~~oreography]  
-__chorus__ :mute:[c~~h~~orus]  
-__Christian__ :mute:[C~~h~~ristian]  
-__Christmas__ :mute:[C~~h~~istmas]  
-__echo__ :mute:[ec~~h~~o]  
-__exhaust__ :mute:[ex~~h~~aust]  
-__exhibit__ :mute:[ex~~h~~ibit]  
-__exhilarate__ :mute:[ex~~h~~ilarate]  
-__forehead__ :mute:[fore~~h~~ead]  
-__ghastly__ :mute:[g~~h~~astly]  
-__ghetto__ :mute:[g~~h~~etto]  
-
-__GWB__ George Washington Bridge.  
-__ledger__ _n_ :three::hammer:  
-__artsy__  
-__veil__ _v_  
-__fledging__  
-__concern__ _v_  
-__flotilla__ _n_ :mega:  
-__grinch__ _n_  
 __clement__ _adj_  
 __remembrance__  
 __carapace__ _n_ :three::hammer:  

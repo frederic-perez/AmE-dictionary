@@ -398,7 +398,7 @@ __articulate<sup>2</sup>__ _v_
 __artifact__ _n_ :two::hammer:  
 __artifacts__  
 __artistry__  
-__artsy__ _adj_  
+__artsy__ _adj_ :two::hammer:  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
 __as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it gets__ :two::hammer:  
@@ -1788,9 +1788,14 @@ __chomping__
 __chop__ _v_  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :seven: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
+__chord__ :mute:[c~~h~~ord]  
+__choreography__ :mute:[c~~h~~oreography]  
 __chortles__ _v_  
+__chorus__ :mute:[c~~h~~orus]  
 __christening__ _n_  
+__Christian__ :mute:[C~~h~~ristian]  
 __Christmas fly__  
+__Christmas__ :mute:[C~~h~~istmas]  
 __chuck out__ _v_  
 __chuck__ _v_ :five::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckholes__ _n_  
@@ -2070,7 +2075,7 @@ __conceded__ _A total of 44 goals scored and 48 conceded last year._
 __conceit<sup>1</sup>__ _n_  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
 __conceited__ _Conceited delusion._  
-__concerned__  
+__concern__ _v_ :two::hammer: (concerned)  
 __concerted__  
 __concertina wire__  
 __concertina__  
@@ -3193,6 +3198,7 @@ __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._
 __ebb<sup>2</sup>__ _v_  
 __ebullient__ :two::hammer:  
 __echo chamber__  
+__echo__ :mute:[ec~~h~~o]  
 __eclampsia__  
 __econ__ _The econ professor._  
 __ectopic__ _adj_ _Ectopic pregnancy._  
@@ -3433,9 +3439,10 @@ __exempt__ _v_ :two::hammer:
 __exemption__ _Dru earned an exemption into the tournament._  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
-__exhaust<sup>1</sup>__ _v_ _Exhaust fans._  
-__exhaust<sup>2</sup>__ _n_ _Car exhaust._  
-__Exhibit A__ _n_ :two:  
+__exhaust<sup>1</sup>__ _v_ :mute:[ex~~h~~aust] _Exhaust fans._  
+__exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
+__Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
+__exhilarate__ :mute:[ex~~h~~ilarate]  
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exodus__  
 __exonerate__ :two::hammer:  
@@ -3778,7 +3785,7 @@ __flaxen__ _Flaxen cord._
 __flay__ _v_  
 __flayed__ _v_  
 __fleck__ _n_  
-__fledging__  
+__fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __fleece__ _v_ :four::hammer: (fleeced)  
 __fleecy__  
@@ -3832,7 +3839,7 @@ __flopping__ _Flopping--pretending to have been fouled by an opponent--is an unf
 __floppy > floppy socks__  
 __florets__ :pencil2::two::hammer: _Your dinner is two florets of broccoli._  
 __florid__  
-__flotilla__  
+__flotilla__ _n_ :two::mega::hammer:  
 __flotsam__  
 __flounder__ _v_ :seven: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
@@ -3937,6 +3944,7 @@ __forefinger__
 __forefront__  
 __forego__  
 __foregone__ :two::hammer:  
+__forehead__ :mute:[fore~~h~~ead]  
 __foreign__ :mute:[forei~~g~~n]  
 __foreman__ :two::hammer:  
 __forenoon__ _We had a real gully washer in the forenoon._  
@@ -4232,7 +4240,8 @@ __get the middle finger__
 __get-go__ :three::hammer: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
-__ghastly__ _adj_ :six::hammer:  
+__ghastly__ _adj_ :seven::hammer::mute:[g~~h~~astly]  
+__ghetto__ :mute:[g~~h~~etto]  
 __ghoul__ _n_ :three::hammer:  
 __gibbet__ _n_  
 __gibblets__ _n_  
@@ -4448,6 +4457,7 @@ __grim__ _adj_ :four::hammer:
 __grime__ _n_ :three::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
+__grinch__ _n_  
 __grind__ _Most of us are more focused on the daily grind._  
 __grinding half__ _"The people's business had come to a grinding half, and nothing was going to happen," he said._  
 __grinding__ _Bumping and grinding._  
@@ -4568,6 +4578,7 @@ __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._
 __guzzle__ _v_ :two::hammer: _Guzzling ice water._  
 __guzzler__ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
+__GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
 __gym-rat__ _He's a gym-rat type of guy._  
 __gyrate__ _v_ :two::hammer:  
@@ -5750,7 +5761,7 @@ __leavings__ _n_
 __lecher__  
 __lectern__  
 __ledge__ :two::hammer: _Adam turned and sat on the ledge._  
-__ledger__ _n_ :four::hammer: _A heavy account ledger._  
+__ledger__ _n_ :seven::hammer: _A heavy account ledger._  
 __lee__ _In the lee of the wagon._  
 __leech__ _n_ :five::hammer: :es: sanguijuela  
 __leek__ _n_  
@@ -11127,6 +11138,7 @@ __VC__ :two::hammer: _A blindfolded VC suspect._
 __veer__ _v_  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
+__veil__ _v_  
 __vein__ _Gold vein._  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
