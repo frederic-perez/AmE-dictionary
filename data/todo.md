@@ -1,25 +1,4 @@
 
-__clement__ _adj_  
-__remembrance__  
-__carapace__ _n_ :three::hammer:  
-__utterly__ _adj_  
-__trilobite__ _n_  
-
-__clunker__ And old car in poor condition.  
-__against oll odds__ _idiom_ Even though something seems completely impossible.  
-__vote in__ _phr v_ To choose somebody for a position by voting.  
-__disingenuous__ _adj_ Not really honest or sincere, and only pretending to be.  
-__flunk__ _v_ To fail a test or a course. _John flunked maths._  
-__ref__ _n_ A referee.  
-__artsy__ _adj_ (arty in BrE)  
-__cashmere__  
-__sassy__  
-__push back__ _phr v_  
-__nifty__ :two::hammer:  
-__sitting duck__  
-__freak out__  
-__verbatim__  
-__brownout__ _n_ A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __keel__ _n_  
 __outspoken__  
 __two-fold__ _adj_  

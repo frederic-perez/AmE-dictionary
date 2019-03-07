@@ -154,6 +154,7 @@ __afterglow__
 __aftermarket__  
 __afters__ _n informal_ Dessert.  
 __afterward__ :two::hammer:  
+__against oll odds__ _idiom_ Even though something seems completely impossible.  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
 __ageless__  
@@ -398,7 +399,7 @@ __articulate<sup>2</sup>__ _v_
 __artifact__ _n_ :two::hammer:  
 __artifacts__  
 __artistry__  
-__artsy__ _adj_ :two::hammer:  
+__artsy__ _adj_ :three::hammer: (arty in BrE)  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
 __as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it gets__ :two::hammer:  
@@ -1245,6 +1246,7 @@ __broth__
 __brothers in arms__  
 __brouhaha__ _n_ :three::hammer:  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
+__brownout__ _n_ A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstones__ _n_  
 __bruin__  
 __bruited__  
@@ -1528,7 +1530,7 @@ __captaincy__ :two::hammer:
 __capuchin monkey__ :mega:  
 __carabiner__ _n_ :camera::two::hammer:  
 __carafe__ _n_  
-__carapaces__ _n_  
+__carapace__ _n_ :four::hammer:  
 __carat__  
 __caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carbuncle__ _n_  
@@ -1577,6 +1579,7 @@ __case__ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are 
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
+__cashmere__  
 __casket__ _n_ :two::hammer: _Closed casket, that's right._  
 __casserole<sup>1</sup>__ _n_  
 __casserole<sup>2</sup>__ _v_  
@@ -1884,6 +1887,7 @@ __cleave__ _v_ _The court often cleaves along predictable lines._
 __cleaver__ _n_ :four::hammer: _A butcher's cleaver._ _Meat cleaver._  
 __cleft__  
 __clemency__  
+__clement__ _adj_  
 __clench__ _n_ :two::hammer:  
 __clenched__  
 __clergy__  
@@ -1930,7 +1934,7 @@ __cluck__
 __clucking__ _Clucking chickens._  
 __clue__ :dart:  
 __clump__ _n_  
-__clunker__ _n informal_ :four: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
+__clunker__ _n informal_ :five: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
 __clunky__ _adj_ :three::hammer:  
 __clutch bag__  
@@ -2836,6 +2840,7 @@ __dishwasher__ _I worked as a dishwasher._
 __dishy__  
 __disillusionment__  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
+__disingenuous__ _adj_ Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
@@ -3855,7 +3860,7 @@ __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising pie
 __flummox__ _v_ :four::hammer: (flummoxed)  
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
-__flunk__  
+__flunk__ _v_ :two: To fail a test or a course. _John flunked maths._  
 __flunkie__ :two::hammer: _You"re just another flunkie for the state._  
 __flunkies__  
 __flunky__  
@@ -4015,7 +4020,7 @@ __fray<sup>1</sup>__ _n_ :two::hammer:
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __frazzled<sup>2</sup>__ _v_  
-__freak out<sup>1</sup>__ _n_ :two: (freak-out)  
+__freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
 __freak out<sup>2</sup>__ _v_  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
@@ -6648,7 +6653,7 @@ __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::hammer:
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __niche__ _n_ :three::hammer:  
 __nickel__ _n_ _A nickel mine._  
-__nifty__ _adj informal_ :two: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __nigh__  
 __night__ :mute:[ni~~gh~~t]  
@@ -7883,6 +7888,7 @@ __purse__ _v_ _His lips pursed._
 __purslane__ _n_ :four::hammer:  
 __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
+__push back__ _phr v_  
 __push puppet__ _n_ :camera:  
 __pushcart__ _A pushcart vendor._  
 __pushover__ _n_ :six: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
@@ -8198,6 +8204,7 @@ __reel<sup>1</sup>__ _n_
 __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reenactment__ _n_  
 __reeve__ _n_ :four::hammer::pencil2:  
+__ref__ _n_ A referee.  
 __refectory__ _n_ :three::hammer:  
 __referenda__  
 __reffing__  
@@ -8250,7 +8257,7 @@ __relocate__ _v_ _They plan to relocate to Denver soon._
 __remanded__ _v_  
 __remarkable__  
 __remarkably__ _adv_ :two::hammer:  
-__remembrance__ _n_ :five: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
+__remembrance__ _n_ :six: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
 __reminisce__ _v_ :two::hammer: (reminiscing)  
 __reminiscent__  
 __remit__  
@@ -8653,7 +8660,7 @@ __sartorial__
 __sash__ _n_ :three::hammer: _A sash cord._  
 __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sass__ _v_ (sassed)  
-__sassy__  
+__sassy__ _adj_ :two::hammer:  
 __SAT__ _trademark_ :two: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __satchel__ _n_  
 __sated__ _v_  
@@ -9184,6 +9191,7 @@ __sit__ _v_ _Stop sitting on the bull._
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sitdown__ _n_ :two::hammer:  
 __sitter__ _n_  
+__sitting duck__  
 __sitting pretty__ :two::hammer:  
 __sitting<sup>1</sup>__ _n_  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
@@ -10759,7 +10767,7 @@ __trifles__ _n_
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_ :three::hammer: _I felt a trill of excitement._  
 __trilling__  
-__trilobite__ _n_ :mega:  
+__trilobite__ _n_ :two::mega::hammer:  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ _Stainless interior trim._  
 __trinkets__ _n_ :three::hammer:  
@@ -11090,7 +11098,7 @@ __utility<sup>1</sup>__ _n_ __1__ The quality of being of practical use. __2__ :
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
 __utmost__ _adj_ :three::hammer:  
 __utterance__  
-__utterly__ _adv_ :six::hammer: _An utterly trivial dispute._  
+__utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __V-E Day__  
 __V-J Day__ :two::hammer:  
@@ -11156,6 +11164,7 @@ __ventilator__ _n_ :pencil2: _med_
 __venue__ _n_ :two::hammer: _What's the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
 __veranda__ _n_ :three: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
+__verbatim__  
 __verberize__  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
@@ -11226,6 +11235,7 @@ __volley__ :two::hammer: _A volley of invective._ _(military attack?)_
 __voltron__  
 __voluble__  
 __votaries__  
+__vote in__ _phr v_ To choose somebody for a position by voting.  
 __vouch__ _v_ :two::hammer:  
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
