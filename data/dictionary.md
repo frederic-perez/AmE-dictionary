@@ -645,6 +645,7 @@ __barrage<sup>1</sup>__ _n_ :four: __1__ A concentrated discharge or bombardment
 __barrage<sup>2</sup>__ _v_  
 __barre__  
 __barrel bombs__  
+__barrel of laugh__ _idiom_ Someone who is very funny.  
 __barrel__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__  
@@ -796,7 +797,7 @@ __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dis
 __bemused__ :two::hammer:  
 __bench__ _Snow will dust the benches and valleys._  
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
-__bender__ _His mother was on a bender._  
+__bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
 __benison__ _n_  
@@ -878,6 +879,7 @@ __billow<sup>2</sup>__ _v_
 __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
 __bindles__ _Drug bindles._  
+__binging__ _v_  
 __binocular__ :mega: (?)  
 __bio__ _n_  
 __biomass__  
@@ -2995,6 +2997,7 @@ __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions
 __Down Under__  
 __down under__ _n informal_ _Best regards from down under._  
 __down-low__  
+__down-to-earth__ _idiom_ Sensible and realistic.  
 __downbeat__ :two::hammer:  
 __downdrafts__ _n_  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
@@ -3244,7 +3247,7 @@ __EKG__
 __el__ :two::hammer: _The el tracks._  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
 __elation__ :two::hammer:  
-__elbow grease__ :two::hammer: _I tend to rely on elbow grease and hotel room sinks._  
+__elbow grease__ _idiom_ :three: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
 __elderflower__  
@@ -3268,6 +3271,7 @@ __elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get m
 __elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
 __elusive__  
+__Elvis has left the building__ _idiom_ The show has come to an end. It's all over.  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
 __emancipation__  
 __embankment__  
@@ -3982,6 +3986,7 @@ __forthcoming__
 __forthright__  
 __fortified wine__  
 __fortnight__  
+__forty winks__ _idiom_ A short nap.  
 __foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
@@ -5189,6 +5194,7 @@ __in short order__
 __in stitches__ _idiom_  
 __in the black__ _idiom_  
 __in the clear__ :two::hammer: _She is in the clear._  
+__in the doghouse__ _idiom_  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
 __in the lurch__ _The TV series was left in the lurch._  
@@ -5450,6 +5456,7 @@ __jody__ _He often complained about his wife's jody._
 __John Doe__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
+__joined at the hip__ _idiom_ To be exceptionally close to someone.  
 __joists__  
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
@@ -5514,7 +5521,8 @@ __kale__ _n_ :four::hammer:
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __Katy__ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
-__keel__ _v_ :three::hammer: (keeled)  
+__keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
+__keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
@@ -5592,6 +5600,7 @@ __knackered__
 __knave__  
 __knavish__  
 __knead__ _v_ :six::hammer: (kneaded, kneading)  
+__knee jerk reaction__ _idiom_ A quick and automatic response.  
 __knee-jerk__ _adv_ _(disapproving)_ :four::hammer: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
 __knell__ _n_ :three::hammer:  
@@ -5700,6 +5709,7 @@ __Lasik__ _Lasik surgery._
 __lassitude__  
 __lassos__ _v_  
 __last > next to last__  
+__last straw__ _idiom_ The final problem in a series of problems.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
@@ -6980,7 +6990,7 @@ __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._
 __outsize__ :two::hammer: _An outsize risk._  
 __outsmart__ _v_  
 __outspend__ _v_  
-__outspoken__ _adj_ :eight::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
+__outspoken__ _adj_ :nine::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstripped__ _v_  
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "out of." _Straight outta Tahoe._  
 __outtakes__ _n_  
@@ -7842,7 +7852,7 @@ __pull away__ :two::hammer:
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull someone's leg__  
 __pull strings__  
-__pull yourself together__  
+__pull (oneself) together__ _idiom_ :two: Calm down.  
 __pull__ _v_ _I can't pull for someone else the same way._  
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
 __pullback__ :two::hammer:  
@@ -8511,6 +8521,7 @@ __roughly__ :two::hammer:
 __roughshod__ _adv_ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
 __round out__ _v_ :two::hammer:  
+__round the bend__ _idiom_ Crazy, insane.  
 __round__ _v_  
 __round-trip__ :two::hammer: _A round-trip ticket._  
 __roundabout__ :two::hammer: (Children's attraction.)  
@@ -8837,6 +8848,7 @@ __sedate__ (sedate menswear)
 __sedative__ _n_ _Not the strongest sedative._  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
 __sedulous__  
+__see eye to eye__ _idiom_ To concur, agree.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
 __seediness__  
@@ -9628,6 +9640,7 @@ __splendor__
 __spliced__ _v_  
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
+__split hairs__ _idiom_ Argue or worry about small details.  
 __split__ _n_  
 __splotched__ _v_  
 __splotches__ _n_  
@@ -10291,7 +10304,7 @@ __taproot__ _n_ :two::hammer: (taproots)
 __taps__ _A bugler played taps._  
 __tardy__ :two::hammer:  
 __target ball__  
-__tariffs__ _n_ :five::hammer: (tariffs)  
+__tariff__ _n_ :six::hammer: (tariffs)  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ _v_ :five::camera::hammer: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
@@ -10902,6 +10915,7 @@ __twit__ _The damned last boy was a twit._
 __twitch<sup>1</sup>__ _n_  
 __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
+__two-fold__ _adj_  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
 __tycoon__ _n_ :four::hammer:  
@@ -11039,6 +11053,7 @@ __unyield__ _v_
 __unyielding__ :two::hammer:  
 __up and running__  
 __up and under__ A basketball move.  
+__up for grabs__ _idiom_ Available for anyone.  
 __up__ _v_ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  

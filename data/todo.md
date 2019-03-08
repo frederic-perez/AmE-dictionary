@@ -1,27 +1,5 @@
 
-__keel__ _n_  
-__outspoken__  
-__two-fold__ _adj_  
-__bender__ _You can die on a bender._  
-__binging__ _v_  
-__tariff__ _n_ (tariffs)  
-
-__knee jerk reaction__ _idiom_ A quick and automatic response.  
-__pull yourself together__ _idiom__ Calm down.  
-__down-to-earth__ _idiom_ Sensible and realistic.  
-__Elvis has left the building__ _idiom_ The show has come to an end. It's all over.  
-__last straw__ _idiom_ The final problem in a series of problems.  
-__joined at the hip__ _idiom_ To be exceptionally close to someone.  
-__elbow grease__ _idiom_ hard physical effort.  
-__forty winks__ _idiom_ A short nap.  
-__barrel of laugh__ _idiom_ Someone who is very funny.  
-__in the doghouse__ _idiom_  
-__up for grabs__ _idiom_ Available for anyone.  
-__split hairs__ _idiom_ Argue or worry about small details.  
-__round the bend__ _idiom_ Crazy, insane.  
-__see eye to eye__ _idiom_ To concur, agree.  
 __against the clock__ _idiom_ Rushed and short on time.  
-
 __cheesy__ _idiom_ Something cheap-looking and in poor taste.  
 __down the drain__ _idiom_ Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __timorous__ _adj_ Full of fear; timid.  
@@ -32,7 +10,6 @@ __influenza__ _n_ _syn_ flu, grippe
 __morass__ _n_  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
-
 __collinear__ _adj_ :pencil2:  
 __even__ _adv_ _syn_ indeed, actually _Is this even our house?_  
 __vie for__ _phr v_ To compete for something.  
@@ -42,11 +19,11 @@ __iron out__
 __careen__ _v_  
 __beguile__ _v_  
 __over the moon__  
+
 __pompous__  
 __dowry__ _n_  
 __behold__ _v_  
 __Johnny-come-lately__ _idiom_  
-
 __corny__ _adj_ :two::hammer:  
 __inane__ _adj_  
 __hit the books__  
