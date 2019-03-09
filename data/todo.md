@@ -1,4 +1,15 @@
 
+__deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
+__ballpark figure__ _n idiom_ A rough numerical estimate.  
+__whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
+__go back to square one__ _idiom_ To start from the beginning.  
+__aluminum__  
+__ax__  
+__mustache__  
+__jewelery__  
+__dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
+__measles__ _n_  
+
 __ghoul__ :mute:[g~~h~~oul]  
 __ghost__ :mute:[g~~h~~ost]  
 __heir__ :mute:[~~h~~eir]  
