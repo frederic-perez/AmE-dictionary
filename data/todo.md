@@ -1,4 +1,15 @@
 
+__ghoul__ :mute:[g~~h~~oul]  
+__ghost__ :mute:[g~~h~~ost]  
+__heir__ :mute:[~~h~~eir]  
+__hour__ :mute:[~~h~~our]  
+__honest__ :mute:[~~h~~onest]  
+__honor__ :mute:[~~h~~onor]  
+__messiah__ :mute:[messia~~h~~]  
+__rhapsody__ :mute:[r~~h~~apsody]  
+__rhyme__ :mute:[r~~h~~yme]  
+__rhythm__ :mute:[r~~h~~ythm]  
+
 __against the clock__ _idiom_ Rushed and short on time.  
 __cheesy__ _idiom_ Something cheap-looking and in poor taste.  
 __down the drain__ _idiom_ Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
