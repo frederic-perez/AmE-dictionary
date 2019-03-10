@@ -1,4 +1,15 @@
 
+__school__ :mute:[sc~~h~~ool]  
+__shepherd__ :mute:[shep~~h~~erd]:mega::astonished:  
+__thyme__ :mute:[t~~h~~yme] :es: tomillo  
+__vehicle__ :mute:[ve~~h~~icle]  
+__shale__ :mute:[w~~h~~ale]  
+__what__ :mute:[w~~h~~at]  
+__wheat__ :mute:[w~~h~~eat]  
+__wheel__ :mute:[w~~h~~eel]  
+__whether__ :mute:[w~~h~~ether]  
+__while__ :mute:[w~~h~~ile]  
+
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __ballpark figure__ _n idiom_ A rough numerical estimate.  
 __whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
