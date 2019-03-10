@@ -1,4 +1,15 @@
 
+__hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._
+__hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
+__hold off__ _phr v_ Delay commencing. _Hold off the decision one more day so I can answer your question._  
+__hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
+__hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
+__hold up__ _phr v_ Wait or delay. _Hold up a minute. I want to check something._  
+__under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
+__dodgy__ _adj_ _slang_ Dishonetsor unreliable.  
+__be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
+__kindred__  
+
 __school__ :mute:[sc~~h~~ool]  
 __shepherd__ :mute:[shep~~h~~erd]:mega::astonished:  
 __thyme__ :mute:[t~~h~~yme] :es: tomillo  
