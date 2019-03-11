@@ -682,6 +682,7 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
+__be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be no picnic__ _Looking after four children is no picnic._  
@@ -2915,7 +2916,7 @@ __docket__ _n_ :five::hammer:
 __doctor__ _v_ :three::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doddering__  
 __dodges__ _n_  
-__dodgy__  
+__dodgy__ _adj_ _slang_ :two: Dishonetsor unreliable.  
 __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doeskin__ _A doeskin wallet._  
@@ -4935,10 +4936,15 @@ __hoist__ _v_ :three::hammer: (hoisted) :es: alzar
 __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
-__hold off__ _v_ :three::hammer: _If the rain holds off._ :es: Si no llueve.  
+__hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
+__hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
+__hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more day so I can answer your question._ _If the rain holds off._ :es: Si no llueve.  
 __hold one's pose__  
+__hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
+__hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
 __hold true__ _v_  
 __hold up a fish__  
+__hold up__ _phr v_ Wait or delay. _Hold up a minute. I want to check something._  
 __hold water__  
 __hold your horses__ _idiom_ Slow down, wait.  
 __holder__ _n_  
@@ -5573,7 +5579,7 @@ __kindle__ _v_ _To kindle a fire._
 __kindling__ :two::hammer:  
 __kindred spirits__ :two::hammer: _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
-__kindred<sup>2</sup>__ _adj_  
+__kindred<sup>2</sup>__ _adj_ :two:  
 __kine__ _n_  
 __king of the hill__  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
@@ -7848,11 +7854,11 @@ __pugnacity__
 __pugs__  
 __pukingly__ _He was pukingly ill._  
 __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
+__pull (oneself) together__ _idiom_ :two: Calm down.  
 __pull away__ :two::hammer:  
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull someone's leg__  
 __pull strings__  
-__pull (oneself) together__ _idiom_ :two: Calm down.  
 __pull__ _v_ _I can't pull for someone else the same way._  
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
 __pullback__ :two::hammer:  
@@ -8743,6 +8749,7 @@ __schnapps__
 __scholar__ :two::hammer: _Legal scholar._  
 __school > charter school__  
 __school desk__  
+__school__ :mute:[sc~~h~~ool]  
 __schooling__ _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
@@ -8938,6 +8945,7 @@ __shaggy hemp__
 __shaggy__  
 __shah__ _n_  
 __shake__ _We use the scientific method to give each product a fair shake._  
+__whale__ :mute:[w~~h~~ale]  
 __shale-oil__ _Shale-oil production._  
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
@@ -8995,7 +9003,7 @@ __shelling out__
 __shelling__ _v_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shenanigans__ :two::hammer:  
-__shepherd__ _v_ (shepherded)  
+__shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
 __shepherdless__ _n_  
 __sherbet punch__  
 __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
@@ -10511,7 +10519,7 @@ __Thursday__ :mega: /'θøzdi, -deI/
 __thusly__  
 __thwack__ (thwacks) :two::hammer:  
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
-__thyme__ _n_ :three::hammer:  
+__thyme__ _n_ :four::hammer::mute:[t~~h~~yme] :es: tomillo  
 __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
 __tic<sup>1</sup>__ _n_  
 __tic<sup>2</sup>__ _v_  
@@ -10954,6 +10962,7 @@ __uncured__ _v_ _Organic grass-fed uncured hot dogs._
 __under (someone's) watch__  
 __under one's belt__  
 __under siege__  
+__under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
@@ -11161,6 +11170,7 @@ __VC__ :two::hammer: _A blindfolded VC suspect._
 __veer__ _v_  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
+__vehicle__ :mute:[ve~~h~~icle]  
 __veil__ _v_  
 __vein__ _Gold vein._  
 __vellum__  
@@ -11407,13 +11417,15 @@ __whammy__ :two::hammer: _A double whammy of injuries._
 __whanged__ _v_ :two::hammer:  
 __whanging__  
 __wharf__ _n_ :five::hammer: (wharves)  
+__what__ :mute:[w~~h~~at]  
 __what's the haps?__  
+__wheat__ :mute:[w~~h~~eat]  
 __whee!__  
 __wheedle__ _v_ To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
 __wheedling__ _v_  
 __wheee!__  
 __wheel well__ _The Corvette's wheel well._  
-__wheel__ _v_  
+__wheel__ _v_ :mute:[w~~h~~eel]  
 __wheelbarrow__  
 __wheelbarrow-sledges__  
 __wheeled__ _v_ _Shallows dipped and wheeled._  
@@ -11427,13 +11439,14 @@ __whereas__
 __whereby__  
 __wherewithal__ _n_ :four::hammer:  
 __whet__ _v_ :seven: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year's Part 2._  
+__whether__ :mute:[w~~h~~ether]  
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
 __whickering__  
 __whiff<sup>1</sup>__ _n_ :three::hammer:  
 __whiff<sup>2</sup>__ _v_  
 __whiffed__ _v_  
-__while__ _v_ _To while away the hours drinking vodka._  
+__while__ _v_ :mute:[w~~h~~ile] _To while away the hours drinking vodka._  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whinge__ _v_ _British English_ To keep complaining in an annoying way.  
