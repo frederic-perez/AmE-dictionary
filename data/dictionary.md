@@ -243,7 +243,7 @@ __altitude sickness__
 __alto voice__  
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
 __alum__ _n_ :three::hammer: _A Vanderbilt alum._  
-__aluminum__ _n_ :pencil2::two::hammer:  
+__aluminum__ _n_ :pencil2::three::hammer:  
 __alumni__ :two::hammer:  
 __amalgam__  
 __amass__ _v_ :three::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
@@ -513,6 +513,7 @@ __awestruct__
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __awry__ :two::hammer:  
+__ax__  
 __axle__ _n_  
 __azure__  
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
@@ -596,7 +597,7 @@ __ballcap__
 __ballistic__  
 __balloon-lined__ _Balloon-lined car dealership._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
-__ballpark figure__  
+__ballpark figure__ _n_ _idiom_ :two: A rough numerical estimate.  
 __ballpark__ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ :two::hammer::mute:[ba~~l~~m]  
@@ -2572,8 +2573,10 @@ __de-escalate__ _v_
 __DEA__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
+__dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
 __dead on__  
 __dead ringer__ An exact duplicate.  
+__deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deal breaker__  
@@ -4253,7 +4256,8 @@ __getaway day__
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :seven::hammer::mute:[g~~h~~astly]  
 __ghetto__ :mute:[g~~h~~etto]  
-__ghoul__ _n_ :three::hammer:  
+__ghost__ :mute:[g~~h~~ost]  
+__ghoul__ _n_ :four::mute:[g~~h~~oul]:hammer:  
 __gibbet__ _n_  
 __gibblets__ _n_  
 __gibed__ _v_  
@@ -4331,6 +4335,7 @@ __gnu__ :mute:[~~g~~nu]
 __go a long way__ :dart::two::hammer: _Go a long way toward minimizing damage._  
 __go apeshit__  
 __go awry__ :two::hammer:  
+__go back to square one__ _idiom_ To start from the beginning.  
 __go dutch__  
 __go for it!__  
 __go great lenghts__  
@@ -4815,6 +4820,7 @@ __hefted up__
 __hefty__  
 __height__ :mute:[hei~~gh~~t]  
 __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
+__heir__ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
@@ -4977,10 +4983,12 @@ __homestretch__ _n_ :two::hammer:
 __homie__ _Homies for life._  
 __homophobic__  
 __honcho__ _n_ :three::hammer: (honchos)  
+__honest__ :mute:[~~h~~onest]  
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
 __honeysuckle__  
 __Hong Kong__ _"Fragrant harbor" is the literal translation of Hong Kong._  
+__honor__ :mute:[~~h~~onor]  
 __honorary__ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
@@ -5028,6 +5036,7 @@ __hot-wired__
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hounding__ _v_ :two::hammer:  
 __hounds__ _n_  
+__hour__ :mute:[~~h~~our]  
 __hourlong__ _The hourlong meeting._  
 __house > take it to the house__  
 __house husband__ _Karl is a house hisband._  
@@ -5429,6 +5438,7 @@ __jet black__ _n_ :two::hammer: _Her hair was jet black._
 __jetliners__  
 __jettison__ _v_ :four::hammer: (jettisoned, jettisoning) _Seven seconds later the aeroshell was jettisoned._  
 __jetty__ :two::hammer:  
+__jewelery__ (jewelry)  
 __Jewess__  
 __Jewry__  
 __jibe__ _v_ :two::hammer:  
@@ -6227,7 +6237,7 @@ __meager__ _adj_ :dart::seven: __1__ Deficient in quality or quantity. _The meag
 __meandering__  
 __meannes__ :pencil2:  
 __meant to be__ _idiom_ _It was meant to be made in heaven._  
-__measles__ _n_ :three::pencil2::hammer: :es: _Rubeola_  
+__measles__ _n_ :four::pencil2::hammer: :es: _Rubeola_  
 __meat and potatoes__  
 __meat at the bone__  
 __meat grinder__  
@@ -6286,6 +6296,7 @@ __merit__ :two::hammer:
 __merriment__ _n_ :two:  
 __mesh strainer__  
 __mesosphere__  
+__messiah__ :mute:[messia~~h~~]  
 __Messrs.__ _Messrs. Reagan and Busch..._  
 __metal casement windows__ :camera:  
 __metal flashing__  
@@ -6551,7 +6562,7 @@ __muss__ _No fuss, no muss._
 __mussed__ _v_  
 __mussels__ _n_  
 __must have__  
-__mustache__  
+__mustache__ _n_ :two::pencil2::hammer: (moustache)  
 __mustachioed__  
 __muster__ _v_ :two: To assemble or gather: _mustering for inspection._  
 __musty__  
@@ -8379,11 +8390,14 @@ __rezoning__
 __RGA__ _RGA chairman._  
 __rhabdomancy__  
 __rhapsodize__  
+__rhapsody__ :mute:[r~~h~~apsody]  
 __rhetoric__ _n_ :pencil2::four::hammer: _From divisive rhetoric to civil dialogue._  
 __rheum__ _n_ :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
+__rhyme__ :mute:[r~~h~~yme]  
 __rhyming__ :pencil2:  
+__rhythm__ :mute:[r~~h~~ythm]  
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ :two::hammer:  
@@ -8945,7 +8959,6 @@ __shaggy hemp__
 __shaggy__  
 __shah__ _n_  
 __shake__ _We use the scientific method to give each product a fair shake._  
-__whale__ :mute:[w~~h~~ale]  
 __shale-oil__ _Shale-oil production._  
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
@@ -11413,6 +11426,7 @@ __wetbacks__
 __wetbrain__  
 __Whac-A-Mole__  
 __whackadoodle__  
+__whale__ :mute:[w~~h~~ale]  
 __whammy__ :two::hammer: _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
@@ -11465,6 +11479,7 @@ __whisk out__ _v_
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
 __whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
 __whisker__ _n_ :two::hammer: (whiskers)  
+__whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
 __whistle-blower__  
 __Whit Sunday__  
 __white elephant__ _n_  
