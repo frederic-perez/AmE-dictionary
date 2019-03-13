@@ -1,25 +1,4 @@
 
-__against the clock__ _idiom_ Rushed and short on time.  
-__cheesy__ _idiom_ Something cheap-looking and in poor taste.  
-__down the drain__ _idiom_ Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
-__timorous__ _adj_ Full of fear; timid.  
-__harp on__ _phr v_ To talk or write about to an excessive and tedious degree.  
-__set (someone or something) off__ _idiom_  
-__alembic__ _n_  
-__influenza__ _n_ _syn_ flu, grippe  
-__morass__ _n_  
-__bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
-__Game of the Goose__ (Goose game) :es: el juego de la oca  
-__collinear__ _adj_ :pencil2:  
-__even__ _adv_ _syn_ indeed, actually _Is this even our house?_  
-__vie for__ _phr v_ To compete for something.  
-__down the drain__ _idiom_ Wasted or lost.  
-__keepsake__ _n_  Something that one keeps because of the memories it calls to mind. _She gave him a piece of her hair as a keepsake._  
-__iron out__  
-__careen__ _v_  
-__beguile__ _v_  
-__over the moon__  
-
 __pompous__  
 __dowry__ _n_  
 __behold__ _v_  

@@ -155,6 +155,7 @@ __aftermarket__
 __afters__ _n informal_ Dessert.  
 __afterward__ :two::hammer:  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
+__against the clock__ _idiom_ Rushed and short on time.  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
 __ageless__  
@@ -203,6 +204,7 @@ __alcove__ _The elevator alcove._
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
 __alecky__ _Smart-alecky wit._  
+__alembic__ _n_  
 __Aleut__ _n_  
 __alfresco__ _It had two small terraces for alfresco dining._  
 __algae__ _n_  
@@ -751,7 +753,7 @@ __beggar__ _n_
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :three::hammer:  
 __begrudgingly__ :two::hammer:  
-__beguile__ _v_ :four::hammer: (beguiled, beguiling)  
+__beguile__ _v_ :five::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
@@ -1131,6 +1133,7 @@ __bouquet__ _n_
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovine__ _n?_ Cow or bull (neutral). (?)  
 __bow__ _n_ :four::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._  
+__bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
 __bowling alley__  
 __box score__  
@@ -1738,7 +1741,7 @@ __cheerfully__
 __cheese wedge__  
 __cheese-eater__  
 __cheesecloth__ _n_ :three::hammer:  
-__cheesy__ _adj informal_ :two: Cheap and of low quality. _Cheesy motel rooms._  
+__cheesy__ _adj informal_ _idiom_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chemistry__ :mute:[c~~h~~emistry]  
 __chenier__  
 __cherry blossoms__ _n_  
@@ -1998,6 +2001,7 @@ __collapse__ _v_ :pencil2:
 __collapsible__ _Collapsible shutters._  
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
+__collinear__ _adj_ :pencil2:  
 __Collins glass__  
 __collude__ _v_  
 __collusion__ _n_ :five::hammer:  
@@ -2995,6 +2999,7 @@ __dousing__ _The Nationals are dousing the District of Columbia with new hope._
 __dove__ _v_  
 __dovetail__ _v_ (dovetails) :three::hammer:  
 __down payment__ :two::hammer: _A down payment for his role as a recruitment of muscle for the operation._  
+__down the drain__ _idiom_ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
@@ -3417,6 +3422,7 @@ __etymology__ _n_ :astonished: Study of the sources and development of words.
 __eulogy__ _n_ :two::hammer:  
 __eunuch__ _n_  
 __evanesce__ :mute:[evanes~~c~~e]  
+__even__ _adv_ _syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
 __ever since__ :dart::two::hammer: _I've been a fan ever since._  
@@ -4153,6 +4159,7 @@ __galloping__
 __galoshes__ _n_  
 __galvanize__ _v_ :three::hammer: (galvanized)  
 __gambit__  
+__Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :four::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
 __game-changing__  
@@ -4702,8 +4709,7 @@ __harissa__ :two::hammer:
 __hark__ _v_ :two::hammer: (harking)  
 __harmonize__ _v_  
 __harness__ _v_ :two::hammer: _Harnessing big data._  
-__harp__ _v_ _She told her she was always harping on him._  
-__harping__ _v_  
+__harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
@@ -5289,7 +5295,7 @@ __infinity pool__ :camera:
 __infinity-edge__ _An infinity-edge swimming pool._  
 __infirm__ _adj_ :two::hammer:  
 __influence-peddling__ _n_ :three::hammer:  
-__influenza__  
+__influenza__ _n_ :two: _syn_ flu, grippe  
 __infomercial__ _n_  
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
@@ -5369,6 +5375,7 @@ __ire__ _n_ :two::hammer:
 __iris__  
 __Irish twins__ _There is real twins and Irish twins._  
 __irksome__  
+__iron out__  
 __iron trellis__  
 __ironclad commitment__  
 __irrefutable__ _adj_ _Irrefutable evidence._  
@@ -5545,8 +5552,7 @@ __keep in check__ _Devils keep Hawks' high-flying offense in check._
 __keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
 __keep up__  
 __keep__ _n_ :es: torreón  
-__keepsake__ _n_ :two: A small item kept in memory of the person who gave it or originally owned it. _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
-__keepsakes__  
+__keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keg__ _n_ :two::hammer:  
 __kelp__  
 __ken__ _n_ :two::hammer:  
@@ -6463,7 +6469,7 @@ __moppet__ _A lovable moppet._
 __mopping up__  
 __moral__  
 __morale__ _n_  
-__morass__ _n_ :two::hammer: (morasses) _Morasses of salt._  
+__morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ :two::hammer:  
 __morcellator__  
 __more than meets the eye__  
@@ -7014,7 +7020,7 @@ __outtakes__ _n_
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
-__over the moon__ _British informal_ Extremely happy; delighted. _We are over the moon._  
+__over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
 __over-ear headphones__  
 __over-the-hill__ :two::hammer: _I'm over-the-hill for Passion._  
 __over-under__  
@@ -8929,6 +8935,7 @@ __serious condition__ _Critical to serious condition, fair condition._
 __sermon__  
 __servicers__  
 __serving__ _n_ :two: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
+__set (someone or something) off__ _idiom_  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
 __set menu__  
 __set out__ _v_  
@@ -10575,7 +10582,7 @@ __timeshare__ _n_ _They have a timeshare in Lake Tahoe._
 __timetable__  
 __timid__  
 __timing bag__  
-__timorous__  
+__timorous__ _adj_ :two: Full of fear; timid.  
 __tin ear__ _Hillary has a political tin ear._  
 __tinderbox__  
 __tinderdry__  
@@ -11235,7 +11242,7 @@ __victimhood__
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victualling__  
 __victuals__ :two::hammer:  
-__vie__ _v_ :five: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
+__vie for__ _phr v_ :six: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::hammer:  
 __vile__  
 __vilifies__ _v_  
