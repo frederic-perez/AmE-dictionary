@@ -1,24 +1,4 @@
 
-__pompous__  
-__dowry__ _n_  
-__behold__ _v_  
-__Johnny-come-lately__ _idiom_  
-__corny__ _adj_ :two::hammer:  
-__inane__ _adj_  
-__hit the books__  
-__dark horse__  
-__talk up__  
-__cesspool__ _n_  
-__folk__ _n pl_  
-__showdown__ _It was an epic showdown._  
-__transparent__ _adj_ :mega:  
-__gaffer__ _n_ _Br_ Boss.  
-__flunk__ _v_ To fail an exam or a course of study.  
-__flab__ _n_ Body fat, soft loose flesh on a person's body.  
-__break the ice__ _idiom_ To make people who have not met before feel more relaxed with each other.  
-__ward off__ _phr v_ To prevent.  
-__scourer__ _n_ :es: estropajo  
-__gemstone__ _n_ :es: piedra preciosa  
 __checkers__ _n_ :es: damas  
 __inflatable<sup>1</sup>__ _adj_  
 __inflatable<sup>2</sup>__ _n_  

@@ -758,7 +758,7 @@ __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._
 __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn't get the basics in primary school, they are way behind the eight ball.  
-__behold__ :two::hammer: _The wedding ceremony was a joy to behold._  
+__behold__ _v_ :three::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :four::hammer:  
@@ -1180,6 +1180,7 @@ __break (one's) neck__
 __break a leg__ _idiom_  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
+__break the ice__ _idiom_ To make people who have not met before feel more relaxed with each other.  
 __break the mould__  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
@@ -1667,7 +1668,7 @@ __cesarean<sup>1</sup>__ _adj_
 __cesarean<sup>2</sup>__ _n_  
 __cessation__  
 __Cessna__  
-__cesspool__ _n_ :six::hammer: _The journalist cesspool._  
+__cesspool__ _n_ :seven::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
 __chafe__ _v_ :eight::hammer: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
@@ -2228,7 +2229,7 @@ __corn beef__ :two::hammer:
 __corn fritters__  
 __corned beef__ :two::hammer:  
 __cornstarch__  
-__corny__ _adj_  
+__corny__ _adj_ :three::hammer:  
 __coronet__ _n_  
 __corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
@@ -2549,7 +2550,7 @@ __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled
 __dare__  
 __daredevil__ :two::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
-__dark horse__  
+__dark horse__ _n_ :two:  
 __darn__ :two::hammer: _That's pretty darn good._  
 __darned__  
 __darnedest__  
@@ -3024,7 +3025,7 @@ __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtr
 __downturn__ _n_  
 __downturns__ :two::hammer:  
 __downward__ _A downward spiral._  
-__dowry__ :two::hammer:  
+__dowry__ _n_ :three::hammer: :es: dote  
 __doyenne__  
 __doze__ _v_  
 __drab<sup>1</sup>__ _adj_ :four: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
@@ -3752,6 +3753,7 @@ __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._
 __fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle__ _v_ :three::hammer: (fizzled)  
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
+__flab__ _n_ Body fat, soft loose flesh on a person's body.  
 __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
 __flaccid__ _adj_  
 __flag-stop service__  
@@ -3874,7 +3876,7 @@ __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising pie
 __flummox__ _v_ :four::hammer: (flummoxed)  
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
-__flunk__ _v_ :two: To fail a test or a course. _John flunked maths._  
+__flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
 __flunkie__ :two::hammer: _You"re just another flunkie for the state._  
 __flunkies__  
 __flunky__  
@@ -3908,7 +3910,7 @@ __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
-__folk__ _n_ :three::hammer::mute:[fo~~l~~k] (plural)  
+__folk__ _n_ _n pl_ :four::hammer::mute:[fo~~l~~k]  
 __follow suit__ _idiom_ :four: To do as another has done; follow an example.  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __FOMO__  
@@ -4140,7 +4142,7 @@ __Gabor__ :mega:
 __gadfly__  
 __gaff__ _n_  
 __gaffe__ _n_  
-__gaffer__ _n_  
+__gaffer__ _n_ _Br_ :two: Boss.  
 __gaffes__ _n_ :two::hammer:  
 __gag__ _The cases's gag order._  
 __gaggle__ _n informal_ :five: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._  
@@ -4225,6 +4227,7 @@ __Geiger counter__ _n_ An instrument for detecting ionizing radiations.
 __gelding__ _n_ :three:hammer:  
 __gelled__ _His hair was neatly gelled._  
 __gelt__  
+__gemstone__ _n_ :es: piedra preciosa  
 __gender gap__  
 __genealogist__  
 __Generation Xers__  
@@ -4912,6 +4915,7 @@ __hit on all eight__ _So far it's not hitting on all eight._
 __hit or miss__  
 __hit out__ _v_  
 __hit parade__  
+__hit the books__  
 __hit the brakes__  
 __hit the road__ To leave a place or begin a journey.  
 __hit the sack__  
@@ -5231,7 +5235,7 @@ __in-house__ _adj_ :two::hammer: _In-house experts._
 __in-laws__ _A room for the in-laws._  
 __inadvertent__ :two::hammer:  
 __inadvertently__  
-__inane__ _adj_ :five::hammer:  
+__inane__ _adj_ :six::hammer:  
 __inanity__ _n_  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
 __inarguably__ :pencil2:  
@@ -5479,6 +5483,7 @@ __jody__ _He often complained about his wife's jody._
 __John Doe__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
+__Johnny-come-lately__ _idiom_  
 __joined at the hip__ _idiom_ To be exceptionally close to someone.  
 __joists__  
 __jokesmith__  
@@ -7597,6 +7602,7 @@ __polyadic__
 __polymath__ _n_ :three::hammer:  
 __pomegranates__ _n_  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
+__pompous__  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
 __ponderous__ _adj_ :four::hammer: _He shouldered his ponderous bundle._  
 __pong__ Drinking game?  
@@ -8794,6 +8800,7 @@ __scores__ A large number of something. _Syn_ a great many, a lot, a great/good 
 __scorn__  
 __scoundrel__  
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
+__scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scowl__ _v_ :five::hammer: (scowled, scowling)  
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
@@ -9119,7 +9126,7 @@ __show off__ _v_ :two::hammer:
 __show-off__ _n_ :two::hammer: (or showoff?)  
 __showboat__ _v_  
 __showcase__ _v_  
-__showdown__ _n_ :six: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _Hollywood showdowns._  
+__showdown__ _n_ :seven: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _It was an epic showdown._ _Hollywood showdowns._  
 __showhouse__  
 __showpiece__ _n_ :three::hammer:  
 __showroom__ _n_  
@@ -10297,6 +10304,7 @@ __talk back__ _idiom_
 __talk down to__  
 __talk into__ _phr v_  
 __talk shit__  
+__talk up__  
 __talk__ :mute:[ta~~l~~k]  
 __talking head__ :astonished:  
 __talktative__  
@@ -10756,6 +10764,7 @@ __transfixed__ _I was transfixed by it._
 __transient__ _adj_ :four::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
 __translate__ _That doesn't always translate, believe me._  
 __translucent__ _adj_  
+__transparent__ _adj_ :mega:  
 __transpose__ _v_ _Someone might have transposed digits._  
 __trap question__ :astonished: _That's a trap question._  
 __trapdoor__ _n_  
@@ -11339,6 +11348,7 @@ __wanton<sup>1</sup>__ _adj_ :four: __1__ (of a cruel or violent action) Deliber
 __wanton<sup>2</sup>__ _v_  
 __warble__ _v_ :three::hammer:  
 __warblers__  
+__ward off__ _phr v_ To prevent.  
 __wardrobe__ _n_ s_Left Bank wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
