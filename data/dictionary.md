@@ -297,6 +297,7 @@ __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is 
 __animosity__ _n_ :eight: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :two::hammer: _The animus between the Yankees and Red Sox._  
 __ankle-biter__ Child.  
+__annihilation__ :pencil2::mega:  
 __annuity__ (annuities) :two::hammer:  
 __annum__ _n_  
 __anomic__  
@@ -925,6 +926,7 @@ __blanket__ :two::hammer: _The security blanket._
 __blanketed__ _v_ :five::hammer: (blanketing)  
 __blasé__  
 __blatant__ :two::hammer:  
+__blatantly__  
 __blather__  
 __blaze of glory__ :two::hammer:  
 __bleach__ _n_  
@@ -1036,6 +1038,7 @@ __bogart__ _v_
 __boggles__ _v_  
 __bogs__  
 __boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek of his arse._  
+__boiler room__ _n_  
 __boiler__  
 __boilermaker__ :two::hammer:  
 __boilerplate__ _n_ :two::hammer:  
@@ -1184,6 +1187,7 @@ __break the ice__ _idiom_ To make people who have not met before feel more relax
 __break the mould__  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
+__break your duck__ _idiom_ To do something for the first time.  
 __break-the-china__  
 __breakaway__ :two::hammer:  
 __breakdown__ _n_ :two::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
@@ -1733,6 +1737,7 @@ __check something out__
 __check__ _v_ :three::hammer: _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._  
 __checker<sup>1</sup>__ _v_ _Checkered history._  
 __checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
+__checkers__ _n_ :es: damas  
 __checklist__ (single word)  
 __cheek by jowl__ :two::hammer:  
 __cheekboned__ _High-cheekboned newbies.;-_  
@@ -4159,7 +4164,7 @@ __galling__ _adj_ :two::hammer: _A galling loss._
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
 __galoshes__ _n_  
-__galvanize__ _v_ :three::hammer: (galvanized)  
+__galvanize__ _v_ :four::hammer: (galvanized)  
 __gambit__  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :four::hammer: _My game plan is "failure is not an option."_  
@@ -4387,7 +4392,7 @@ __goo__ _n informal_ :two: Sticky substance.
 __good egg__ _A heel who learns how to be a good egg._  
 __good for you__  
 __good Samaritan__  
-__good sport(s)__  
+__good sport(s)__ _idiom_ :two::hammer:  
 __good-nature__  
 __goodliest__ :two::hammer:  
 __goodly__  
@@ -5298,6 +5303,8 @@ __infighting__ :two::hammer:
 __infinity pool__ :camera:  
 __infinity-edge__ _An infinity-edge swimming pool._  
 __infirm__ _adj_ :two::hammer:  
+__inflatable<sup>1</sup>__ _adj_  
+__inflatable<sup>2</sup>__ _n_  
 __influence-peddling__ _n_ :three::hammer:  
 __influenza__ _n_ :two: _syn_ flu, grippe  
 __infomercial__ _n_  
@@ -7343,6 +7350,7 @@ __petted__
 __petty__ :two::hammer: _A petty argument resulted in her son's murder._ _Don't be so petty._  
 __petulance__  
 __petulant__ _adj_ :three::mega::hammer:  
+__petulantly__  
 __pew__ _Church pews._  
 __pewter__  
 __phalanx__ :two::hammer:  
@@ -7722,7 +7730,7 @@ __prequel__
 __prerogative__ _n_ :four::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_  
-__prescient__ _adj_ :four::hammer:  
+__prescient__ _adj_ :five::hammer:  
 __prescribe__ _v_  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presentation__ :mega:  
@@ -7736,6 +7744,7 @@ __press on__
 __press the pocket__  
 __pressure cooker__ _n_  
 __pretense__  
+__pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __prevails__ _v_  
 __preventable__  
@@ -8715,6 +8724,7 @@ __saucy__
 __saunter__ _v_ :two::hammer: (sauntered) _Lynn sauntered to the edge of the stage._  
 __sautoir__ _Sautoir necklace._  
 __savagery__  
+__save (one's) face__  
 __save the day__  
 __savior__  
 __savvy<sup>1</sup>__ _v_  
@@ -8903,7 +8913,7 @@ __seizing__ _n_ :three::hammer:
 __sekuhata__ Sexual harassment.  
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
-__self-assured__ _adj_  
+__self-assured__ _adj_ :two: Having or showing confidence and poise.  
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-fulfilling__ _Self-fulfilling prophecy._  
@@ -9295,7 +9305,7 @@ __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jac
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
 __slack<sup>3</sup>__ _adj_ (?) :two::hammer: _Now he couldn't drive with slack reins._  
 __slackened__ _v_  
-__slacker__ :two::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
+__slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
 __slag__  
 __slake__ _v_  
 __slam__ _v_ :two::hammer: _LeBron slams Phil Jackson for comment._  
@@ -10303,6 +10313,7 @@ __talent__ _A specific set of talents._
 __talk back__ _idiom_  
 __talk down to__  
 __talk into__ _phr v_  
+__talk over__ _phr v_  
 __talk shit__  
 __talk up__  
 __talk__ :mute:[ta~~l~~k]  
@@ -11381,7 +11392,7 @@ __water seepage__
 __waterfowl__ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  
 __waterlogged__  
-__watershed__ :two::hammer: _Dignataries recognized the watershed moment of his passing._  
+__watershed__ _n_ :three::hammer: _Dignataries recognized the watershed moment of his passing._  
 __waterway__  
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
 __waver__ _v_ :two::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
@@ -11393,7 +11404,7 @@ __wayside__ _n_ :two::hammer:
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
 __wean__ _v_ :eight::hammer: (weaned)  
-__weaponize__ _v_  
+__weaponize__ _v_ :two::hammer:  
 __weary__  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include `Processor`, `Manager`, and `Super`._  
@@ -11502,6 +11513,7 @@ __Whit Sunday__
 __white elephant__ _n_  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
+__whitelist__ _v_  
 __whiteout__  
 __whitewash__ _v_ :four::hammer:  
 __whithered__  
