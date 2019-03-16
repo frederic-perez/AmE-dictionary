@@ -1,4 +1,15 @@
 
+__whip__ :mute:[w~~h~~ip]  
+__whisper__ :mute:[w~~h~~isper]  
+__whiskers__ :mute:[w~~h~~iskers]  
+__whistle__ :mute:[w~~h~~istle]  
+__whirl__ :mute:[w~~h~~irl]  
+__white__ :mute:[w~~h~~ite]  
+__apostle__ :mute:[apos~~t~~le]  
+__ballet__ :mute:[balle~~t~~]  
+__beret__ :mute:[bere~~t~~]  
+__bristle__ :mute:[bris~~t~~le]  
+
 __multipurpose__ :es: polivalente  
 __jaded__ _adj_  
 __social ladder__  
