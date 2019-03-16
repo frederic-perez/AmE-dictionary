@@ -1,4 +1,16 @@
 
+__Garden of Eden__  
+__dandelion__  
+__nucleotide__ _n_  
+__inhalant<sup>1</sup>__ _adj_  
+__inhalant<sup>2</sup>__ _n_  
+__gobble<sup>1</sup>__ _v_  
+__gobble<sup>2</sup>__ _n_  
+__diva__  
+__convertible__  
+__bloody<sup>1</sup>__ _adj_  _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
+__bloody<sup>2</sup>__ _adv_  _Br slang_ Used as an intensive: _Bloody well right._  
+
 __whip__ :mute:[w~~h~~ip]  
 __whisper__ :mute:[w~~h~~isper]  
 __whiskers__ :mute:[w~~h~~iskers]  
