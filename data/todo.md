@@ -31,12 +31,12 @@ __conduit__ _n_
 __palm__ :mega:  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __bring home the bacon__ _idiom_ To earn money to live on.  
-__head over heels__ To be very much in love with someone.  
-__have hot pants (for someone)__  
+__head over heels__ _idiom_ To be very much in love with someone.  
+__have hot pants (for someone)__ _idiom_  
 __puppy love__ _n_ Adolescent love or infatuation.  
 __ruffle__ _v_  
-__hot potato__ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
-__high roller__ Someone who gambles with large amounts of money.  
+__hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
+__high roller__ _idiom_ Someone who gambles with large amounts of money.  
 __bring it on__ _idiom_ To begin a fight or competition.  
 __wash out__ _phr v_ To wash the inside of something.  
 __harbinger__ _n_  
@@ -50,7 +50,8 @@ __cut ties__
 __pride flag__  
 __queer__ _n_  
 __crumble__ _v_  
-__pagan__  
+__pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
+__pagan<sup>2</sup>__ _adj_  
 __laid back__  
 __celtic__ :mega::two::hammer:  
 __Celt__ :mega:  
