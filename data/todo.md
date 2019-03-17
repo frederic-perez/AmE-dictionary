@@ -1,4 +1,15 @@
 
+__bustle__ :mute:[bus~~t~~le]  
+__castle__ :mute:[cas~~t~~le]  
+__chestnut__ :mute:[ches~~t~~nut]  
+__debut__ :mute:[debu~~t~~]  
+__fasten__ :mute:[fas~~t~~en]  
+__glisten__ :mute:[glis~~t~~en]  
+__hasten__ :mute:[has~~t~~en]  
+__hustle__ :mute:[hus~~t~~le]  
+__listen__ :mute:[lis~~t~~en]  
+__mistletoe__ :mute:[mis~~t~~letoe]  
+
 __Garden of Eden__  
 __dandelion__  
 __nucleotide__ _n_  
