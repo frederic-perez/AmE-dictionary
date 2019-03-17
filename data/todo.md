@@ -10,6 +10,17 @@ __hustle__ :mute:[hus~~t~~le]
 __listen__ :mute:[lis~~t~~en]  
 __mistletoe__ :mute:[mis~~t~~letoe]  
 
+__jingle<sup>1</sup>__ _v_  
+__jingle<sup>2</sup>__ _n_  
+__merry-go-round__  
+__D'oh__ _slang_ Exclamation used when you realize that you did something stupid.  
+__beat it__ _idiom_ To go away immediately.  
+__serving__ _n_ _Five servings of fruits and veggies._  
+__delectable__ _adj_  
+__talk into__ _idiom_  
+__differ__ _v_ :mega:  
+__doctor__ _v_  
+
 __Garden of Eden__  
 __dandelion__  
 __nucleotide__ _n_  
