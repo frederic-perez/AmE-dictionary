@@ -704,6 +704,7 @@ __bear down__ _v_
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _n_ :four::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
+__beat it__ _idiom_ To go away immediately.  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
@@ -1377,7 +1378,7 @@ __bust out__ _She clearly has something busting out._
 __bust__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bustiers__ _n_  
 __busting__ _v_ :two::hammer: _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
-__bustle__ _The bustle of daily life._  
+__bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :eight::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
 __busybody__  
 __butcher paper__  
@@ -1601,6 +1602,7 @@ __cast-iron__
 __cast<sup>1</sup>__ _v_ _Votes cast._  
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
 __castigation__ _n_  
+__castle__ :mute:[cas~~t~~le]  
 __castoff__ _n_  
 __casualties__  
 __cat fish__ _(?)_  
@@ -1752,7 +1754,7 @@ __chemistry__ :mute:[c~~h~~emistry]
 __chenier__  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
-__chestnut__  
+__chestnut__ :two::mute:[ches~~t~~nut]:hammer:  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
 __chicanery__ The use of clever plans or actions to deceive people.  
@@ -2514,6 +2516,7 @@ __cynical__
 __cypress__ _n_ :astonished:  
 __cytometry__  
 __D-ring inset__  
+__D'oh__ _slang_ Exclamation used when you realize that you did something stupid.  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :four::hammer: (dabbled, dabbling)  
@@ -2602,6 +2605,7 @@ __debriefing__ _n_ :four::hammer: _You must show up at least 15 minutes early fo
 __debris__  
 __debt__ :mute:[de~~b~~t]  
 __debunk__ _v_ :two::hammer:  
+__debut__ :mute:[debu~~t~~]  
 __debutante__  
 __decaf__ Decaffeinated coffee.  
 __decals__  
@@ -2667,7 +2671,7 @@ __deigned__ _v_
 __dejected__  
 __deking__  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
-__delectable__ :two::hammer:  
+__delectable__ _adj_ :three::hammer:  
 __deleterious__ _adj_ :three::hammer:  
 __deli__  
 __delight__ _v_ _It delighted me even though I expected it._  
@@ -2773,6 +2777,7 @@ __die-hard__ Person who resists change.
 __die-off__ _n_  
 __diecast__  
 __diehard__  
+__differ__ _v_ :mega:  
 __diffident__  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digit__ (finger?)  
@@ -2926,7 +2931,7 @@ __Doc__
 __docents__  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
-__doctor__ _v_ :three::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
+__doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doddering__  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :two: Dishonetsor unreliable.  
@@ -3592,6 +3597,7 @@ __fascia__
 __fascinate__ :mute:[fas~~c~~inate]  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ :mega:  
+__fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
 __fastidious__  
 __fastness__  
@@ -4325,6 +4331,7 @@ __glimpse__
 __glint__  
 __glinting__ _v_  
 __glissade__ _v_  
+__glisten__ :mute:[glis~~t~~en]  
 __glitz__  
 __glitzy__  
 __gloaming__  
@@ -4731,7 +4738,7 @@ __hash<sup>2</sup>__ _v_
 __hashish__  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ :two::hammer:  
-__hasten__ _v_ :two::hammer:  
+__hasten__ _v_ :three::mute:[has~~t~~en]:hammer:  
 __hastily__ _A hastily arranged news conference._  
 __hasty__ :two::hammer:  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
@@ -5116,7 +5123,7 @@ __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Libr
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
-__hustle__ _v_  
+__hustle__ _v_ :two::mute:[hus~~t~~le]:hammer:  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
 __hyacinth__ :pencil2:  
@@ -5468,8 +5475,8 @@ __jigsaw__ :two::hammer: (jigsaws)
 __jilt__ _Jilted at the altar._  
 __Jim Crow__ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_  
-__jingle<sup>1</sup>__ _v_ _Jingle, bells!_  
-__jingle<sup>2</sup>__ _n_  
+__jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_  
+__jingle<sup>2</sup>__ _n_ :two::hammer:  
 __jingoism__ _n_ :three::hammer:  
 __jinks__  
 __jinx<sup>1</sup>__ _v_  
@@ -5935,6 +5942,7 @@ __lisp<sup>1</sup>__ _n_
 __lisp<sup>2</sup>__ _v_  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
+__listen__ :mute:[lis~~t~~en]  
 __listening session__  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
@@ -6312,6 +6320,7 @@ __meretricious__ :two::hammer:
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merit__ :two::hammer:  
 __merriment__ _n_ :two:  
+__merry-go-round__  
 __mesh strainer__  
 __mesosphere__  
 __messiah__ :mute:[messia~~h~~]  
@@ -6412,7 +6421,7 @@ __misspell__ _v_
 __misstate__ _v_  
 __misstated__ _v_  
 __missteps__  
-__mistletoe__ _n_  
+__mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mistrial__ _n_ :two::hammer:  
@@ -8951,7 +8960,7 @@ __Serenity Prayer__
 __serious condition__ _Critical to serious condition, fair condition._  
 __sermon__  
 __servicers__  
-__serving__ _n_ :two: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
+__serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __set (someone or something) off__ _idiom_  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
 __set menu__  
@@ -10312,7 +10321,7 @@ __talcum powder__ :two::hammer: _Talcum powder is made from talc, which absorbs 
 __talent__ _A specific set of talents._  
 __talk back__ _idiom_  
 __talk down to__  
-__talk into__ _phr v_  
+__talk into__ _phr v_ :two::hammer:  
 __talk over__ _phr v_  
 __talk shit__  
 __talk up__  
