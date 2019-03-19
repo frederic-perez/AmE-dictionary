@@ -331,6 +331,7 @@ __apologist__ _n_ :two::hammer:
 __apoplectic__  
 __apostasy__  
 __apostate__ _n_ :three::hammer: (apostates)  
+__apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
@@ -597,6 +598,7 @@ __balladeer__
 __ballasr__  
 __ballast__  
 __ballcap__  
+__ballet__ :mute:[balle~~t~~]  
 __ballistic__  
 __balloon-lined__ _Balloon-lined car dealership._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
@@ -816,6 +818,7 @@ __bereaved__ _v_ :two::hammer:
 __bereavement__ _n_ :four: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_  
+__beret__ :mute:[bere~~t~~]  
 __berm__ _n_  
 __berserk__ _adj_ :five: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
@@ -971,6 +974,8 @@ __blizzard__ _n_ :two::hammer:
 __bloc__ _n_ :five::hammer: _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood-expander__  
+__bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
+__bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right._  
 __blooker__ :two::hammer:  
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
@@ -1229,8 +1234,8 @@ __brisker__
 __brisket__ _n_ :three::hammer:  
 __briskly__  
 __bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
-__bristle<sup>1</sup>__ _n_ :four::hammer: (bristles)  
-__bristle<sup>2</sup>__ _v_ :six: To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
+__bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
+__bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __Britons__  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
@@ -2191,6 +2196,7 @@ __convalescing__ _v_
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
 __conversely__  
+__convertible__  
 __conveyed__ _v_  
 __convivial__ _adj_ :three::hammer:  
 __conwise__  
@@ -2546,7 +2552,7 @@ __dampness__
 __damsel__ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
 __dandelion thistle__  
-__dandelion__ _n_ :four: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
+__dandelion__ _n_ :five: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dang__ _adj_ _But, dang marketers go crazy._  
@@ -2908,6 +2914,7 @@ __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborou
 __dithered__ _v_  
 __ditsy__ _Ditsy nanny._  
 __ditty bags__ _n_  
+__diva__  
 __diversion__ _n_  
 __diverted__ _diverted flights_  
 __dives__ _v_  
@@ -4189,6 +4196,7 @@ __gar__ _n_
 __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
 __garbage chute__ :camera:  
 __garbed__  
+__Garden of Eden__  
 __Garden of Gethsemane__  
 __gargantuan__  
 __gargle__ _n_  
@@ -4381,7 +4389,8 @@ __goalkeeper__
 __goaltender__  
 __goatee__ _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
-__gobble__ _v_ :two::hammer: _Gobbling a plate of spaguetti and meatballs._  
+__gobble<sup>1</sup>__ _v_ :three::hammer: _Gobbling a plate of spaguetti and meatballs._  
+__gobble<sup>2</sup>__ _n_  
 __gobbledygook__  
 __goblin__ _n_ :three::hammer: (goblins)  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
@@ -5320,6 +5329,8 @@ __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrained__ :two::hammer: _Speeding is deeply ingrained in American culture._  
 __ingratiate__ _v_ :three::hammer:  
+__inhalant<sup>1</sup>__ _adj_  
+__inhalant<sup>2</sup>__ _n_  
 __inimical__  
 __initiative__  
 __injunction__ _n_ :six: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
@@ -6788,6 +6799,7 @@ __nuance<sup>1</sup>__ _n_ :dart::three: (nuances) A subtle difference in or sha
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _n_ :two::hammer: _A punched nub._  
 __nubby__ _adj_ _Nubby sole design._  
+__nucleotide__ _n_  
 __nuder__ _Officers found a small sliver handgun nuder the passenger seat._  
 __nugget__ (nuggets) :two::hammer:  
 __nuisance__  
@@ -11502,11 +11514,12 @@ __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low
 __whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whinge__ _v_ _British English_ To keep complaining in an annoying way.  
 __whinnied__ _v_  
-__whip<sup>1</sup>__ _v_  
-__whip<sup>2</sup>__ _n_ _Mr. Roskam was appointed deputy whip after the 2010 elections._  
+__whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
+__whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
 __whiplash__ _n_ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
 __whippersnapper__  
 __whir__ _n_  
+__whirl__ :mute:[w~~h~~irl]  
 __whirled__ _v_  
 __whirlpool__ _n_  
 __whirred__ _v_  
@@ -11515,11 +11528,14 @@ __whisk broom__
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
 __whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
-__whisker__ _n_ :two::hammer: (whiskers)  
+__whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]  
 __whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
+__whisper__ :mute:[w~~h~~isper]  
+__whistle__ :mute:[w~~h~~istle]  
 __whistle-blower__  
 __Whit Sunday__  
 __white elephant__ _n_  
+__white__ :mute:[w~~h~~ite]  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
 __whitelist__ _v_  
