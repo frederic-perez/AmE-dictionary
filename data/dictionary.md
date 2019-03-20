@@ -663,6 +663,7 @@ __barter__ _v_ :two::hammer: (bartered)
 __base__ _This film is base, moronic, insulting, and vulgar._  
 __basement__  
 __bash__ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
+__bashful__  
 __basin__  
 __basing__  
 __basket case__  
@@ -1227,6 +1228,8 @@ __bright-orange__ _A bright-orange construction jumpsuit._
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring home the bacon__ _idiom_ To earn money to live on.  
+__bring it on__ _idiom_ To begin a fight or competition.  
 __briny__ _adj_  
 __brise-soleil__ _Brise-soleil shading._  
 __brisk__ _adj_ :three::hammer: _Brisk pace._  
@@ -2123,7 +2126,7 @@ __condominium__ _First-floor condominium._
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :three::hammer: _The vehicle doesn't seem conducive to passing._  
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
-__conduit__ _n_ :three::hammer:  
+__conduit__ _n_ :four::hammer:  
 __coneys__  
 __confection__  
 __confederacy__  
@@ -4395,6 +4398,7 @@ __gobbledygook__
 __goblin__ _n_ :three::hammer: (goblins)  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
+__gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __Golden Boot__ _The race for the Golden Boot._  
 __goldfinch__ _n_ :es: jilguero  
@@ -4707,7 +4711,7 @@ __haps__ _n_ :two::hammer: _What's the haps?_
 __harangue__ _v_  
 __harangues__  
 __haranguing__ _v_ :two::hammer:  
-__harbinger__ _n_ :three::hammer:  
+__harbinger__ _n_ :four::hammer:  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard rock__ _n_  
 __hard sell__  
@@ -4765,6 +4769,7 @@ __haunt__ _v_
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
+__have hot pants (for someone)__ _idiom_  
 __have someone pegged__ _She had me pegged on that, too._  
 __have your cake and eat it (too)__ _idiom_  
 __havoc__  
@@ -4786,6 +4791,7 @@ __hazing__ _The college hazing policy._
 __hazmat suit__  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
+__head over heels__ _idiom_ To be very much in love with someone.  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _Giving them a head start on finding a job._  
 __head wind__  
@@ -4902,6 +4908,7 @@ __Higgs boson__ :two::hammer: (popularly known as the "God particle.")
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
+__high roller__ _idiom_ Someone who gambles with large amounts of money.  
 __high street__ _n_ _British informal_ :three::hammer:  
 __high__ :mute:[hi~~gh~~]  
 __high-fly__ _v_  
@@ -5057,6 +5064,7 @@ __horticulturist__ _n_ :mega:
 __hoss__  
 __host__ _n_ :three: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hot glue__  
+__hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot seat__  
 __hot spring__ _n_  
 __hot__ _We've got a hot crowd tonight._  
@@ -5430,6 +5438,7 @@ __jack-o'-lantern__
 __jackhammer__  
 __jackpot__  
 __jade__ _v_ :nine::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
+__jaded__ _adj_  
 __Jag__ Jaguar (car)  
 __jagged__ :two::hammer:  
 __jagging__  
@@ -6334,6 +6343,7 @@ __merriment__ _n_ :two:
 __merry-go-round__  
 __mesh strainer__  
 __mesosphere__  
+__mess up__ _phr v_  
 __messiah__ :mute:[messia~~h~~]  
 __Messrs.__ _Messrs. Reagan and Busch..._  
 __metal casement windows__ :camera:  
@@ -6577,6 +6587,7 @@ __mulled__ _v_ _His mug of mulled cider._
 __mullet__ :two::hammer:  
 __mulligan__ _n_  
 __mulling__ _v_ :three:hammer:  
+__multipurpose__ :es: polivalente  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumps__  
 __munch__ _v_ :three:hammer: (munches)  
@@ -7131,7 +7142,7 @@ __pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or movin
 __pallholder__ _n_  
 __palliative__ _Palliative care._  
 __pallor__ _n_ :two::hammer:  
-__palm__ :mute:[pa~~l~~m]  
+__palm__ :mega::mute:[pa~~l~~m]  
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
@@ -7260,7 +7271,7 @@ __paydirt__ :two::hammer:
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywalls__  
-__PC__ _abbr_ :dart::three: Politically correct. _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
+__PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
 __peaks and valleys__  
@@ -7666,7 +7677,7 @@ __porringer__
 __portable building__ :es: barracones?  
 __portal__  
 __portend__ _v_ :six::hammer: (portended) _...may portend a disruption._  
-__portent__ _n_ :four::hammer: (portents)  
+__portent__ _n_ :five::hammer: (portents)  
 __portentous__  
 __portly__  
 __portmanteau__  
@@ -7941,6 +7952,7 @@ __punting__ _v_
 __puny__ _A puny garden snail._  
 __pupil__ _n_  
 __pupillary__ _adj_ _Pupillary distance._  
+__puppy love__ _n_ Adolescent love or infatuation.  
 __puppy__  
 __pups__ _n_  
 __purée__  
@@ -8615,7 +8627,7 @@ __rue__ _v_ :three::hammer::pencil2: (rues) _Pa. town rues sacrifice of its war 
 __rued__ _v_  
 __rueful__ _He gave a rueful smile._  
 __ruefully__ _adv_ :four::hammer:  
-__ruffled__ _v_ (ruffling) :two::hammer:  
+__ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
 __rug__ _n_  
@@ -9557,6 +9569,7 @@ __sobering__
 __sobriquet__  
 __SoCal__ Southern California.  
 __soccage__  
+__social ladder__  
 __societal__  
 __sociopaths__  
 __sod__ _n_  
@@ -11394,6 +11407,7 @@ __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warran
 __warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
 __warren__ _n_ _A warren of hares._  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
+__wash out__ _phr v_ To wash the inside of something.  
 __wash up__ _v_ _A washed up player._  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
 __Washingtonians__  

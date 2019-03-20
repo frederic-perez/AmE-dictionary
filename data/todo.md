@@ -1,24 +1,4 @@
 
-__multipurpose__ :es: polivalente  
-__jaded__ _adj_  
-__social ladder__  
-__mess up__ _phr v_  
-__PC__ :two::hammer: _I'm not overly PC._  
-__conduit__ _n_  
-__palm__ :mega:  
-__gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
-__bring home the bacon__ _idiom_ To earn money to live on.  
-__head over heels__ _idiom_ To be very much in love with someone.  
-__have hot pants (for someone)__ _idiom_  
-__puppy love__ _n_ Adolescent love or infatuation.  
-__ruffle__ _v_  
-__hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
-__high roller__ _idiom_ Someone who gambles with large amounts of money.  
-__bring it on__ _idiom_ To begin a fight or competition.  
-__wash out__ _phr v_ To wash the inside of something.  
-__harbinger__ _n_  
-__portent__ _n_  
-__bashful__  
 __deposition__  
 __twofer__ _n_ _informal_ :two::hammer:  
 __secret weapon__  
