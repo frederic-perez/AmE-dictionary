@@ -98,7 +98,7 @@ __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, po
 __ad hoc__  
 __ad infinitum__ :two::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad__ _n informal_ Advertisement.  
-__ad-lib__ _v_ (ad-libs) :two::hammer:  
+__ad-lib__ _v_ :three::hammer: (ad-libs)  
 __Ada__ :mega: /ā′də/  
 __adage__ :two::hammer:  
 __adamant__  
@@ -662,7 +662,8 @@ __barrow__ _n_
 __barter__ _v_ :two::hammer: (bartered)  
 __base__ _This film is base, moronic, insulting, and vulgar._  
 __basement__  
-__bash__ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
+__bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
+__bash<sup>2</sup>__ _v_  
 __bashful__  
 __basin__  
 __basing__  
@@ -1670,6 +1671,8 @@ __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated 
 __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __cellist__ _n_ :two::hammer:  
 __cellophane__  
+__Celt__ :mega:  
+__celtic__ :mega::two::hammer:  
 __cement bird bath__  
 __cement__ _v_ :two::hammer: _He quickly cemented votes for the top job._  
 __censer__ _n_  
@@ -2435,7 +2438,7 @@ __cruffy__
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
 __crumb__ _n_ :four::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
-__crumble__ _v_ :four::hammer: (crumbled, crumbling)  
+__crumble__ _v_ :five::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_  
@@ -2512,6 +2515,7 @@ __customer > tough customer__ Someone who is difficult to deal with. _Walt is a 
 __customs__ _n_ (at airport)  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut me a little slack__  
+__cut ties__  
 __cut-and-dry task__  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlets__ _Chicken cutlets._  
@@ -2722,7 +2726,7 @@ __dent__ _v_ (denting) :three: __1__ Mark with a dent. _He hit a concrete bollar
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
-__deposition__ _n_ :two::hammer:  
+__deposition__ _n_ :three::hammer:  
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
 __deprived__ _A very deprived area._  
@@ -4183,7 +4187,7 @@ __galoshes__ _n_
 __galvanize__ _v_ :four::hammer: (galvanized)  
 __gambit__  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
-__game plan__ _n_ :four::hammer: _My game plan is "failure is not an option."_  
+__game plan__ _n_ :five::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
 __game-changing__  
 __gamely__  
@@ -5097,7 +5101,7 @@ __hoverboard__ :two::hammer:
 __howl__ _v_ :two::hammer:  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
 __hubbub__ _n_ :two::hammer:  
-__hubby__  
+__hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
 __hubris__ _n_ :four::hammer: _Intellectual hubris._  
@@ -5556,7 +5560,7 @@ __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the 
 __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
 __jumpers__  
 __jumping jacks__  
-__jumpstart__ _v_ :two::hammer:  
+__jumpstart__ _v_ :three::hammer:  
 __jumpsuit__ _n_ :two::hammer:  
 __junction__ _Conjunction junctions._  
 __juncture__ _n_ :five: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
@@ -5724,7 +5728,7 @@ __laggard<sup>1</sup>__ _adj_ :three::hammer:
 __laggard<sup>2</sup>__ _n_  
 __lagged__  
 __laid back attitude__  
-__laid back__  
+__laid back__ :two::hammer:  
 __laid-back guy__  
 __laidback__ :two::hammer: _Australia's laid back lifestyle._  
 __lain__  
@@ -7121,6 +7125,8 @@ __paddle__ _v_ :two::hammer: (paddled) _I got paddled at school._
 __paddock__ _n_  
 __padlock__  
 __paean__ _n_ :eight::hammer: (paeans)  
+__pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
+__pagan<sup>2</sup>__ _adj_  
 __page__ _n_  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __pageboy__  
@@ -7792,6 +7798,7 @@ __prick<sup>2</sup>__ _n_ _He already had the prick for it._
 __prickled__ _v_ _Rob's skin prickled._  
 __prickling__  
 __prickly__ :two::hammer:  
+__pride flag__  
 __pride__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
 __pries__ _He pries your buttocks apart._  
 __priestesses__ _n_  
@@ -8025,9 +8032,10 @@ __quay__ _n_
 __queasiness__ _There was queasiness among many residents._  
 __queasy__ _adj_ :five: Causing or suffering from nausea: _feeling queasy after a meal._  
 __queer as folk__ _There's newt so queer as folk._  
-__queer__ _v_  
+__queer<sup>1</sup>__ _adj_  
+__queer<sup>2</sup>__ _n_  
+__queer<sup>3</sup>__ _v_  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
-__quelled__ _v_  
 __quench__  
 __quenched__ _v_  
 __quenches__ _v_  
@@ -8541,6 +8549,7 @@ __rogue__ :two::hammer: _Rogue behavior._
 __ROI__ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __role model__ _The best role models embrace their flaws._  
+__roll (someone's) eyes__  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
@@ -8915,7 +8924,7 @@ __seaweed__ :two::hammer:
 __second nature__  
 __second-guess__ _v_ :five::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
-__secret weapon__ :two::hammer:  
+__secret weapon__ _n_ :three: something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secular__ :two::hammer:  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__ _He travels with a security detail._  
@@ -11000,6 +11009,7 @@ __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy w
 __two-fold__ _adj_  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
+__twofer__ _n_ _informal_ :two::hammer:  
 __tycoon__ _n_ :four::hammer:  
 __tying__ _v_ :pencil2:  
 __type-A personalities__  
@@ -11408,7 +11418,8 @@ __warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem rea
 __warren__ _n_ _A warren of hares._  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wash out__ _phr v_ To wash the inside of something.  
-__wash up__ _v_ _A washed up player._  
+__wash up__ _phr v_ To wash your hands and face.  
+__washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
 __Washingtonians__  
 __washroom__ _n_  
@@ -11588,6 +11599,7 @@ __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wig
 __wiggle<sup>2</sup>__ _v_  
 __wigglers__  
 __wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
+__wild goose chase__ _idiom_ A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._  
 __wilderness__  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
