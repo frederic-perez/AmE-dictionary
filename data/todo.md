@@ -1,24 +1,4 @@
 
-__-esque__  
-__abreast__ _adv_  
-__anniversary__ :pencil2::mega:  
-__apologetic__ _adj_ Very sorry.  
-__apprehensive__ _adj_ Very nervous.  
-__bend over backwards__ _idiom_ To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
-__blustery__  
-__bull in a china shop__ A clumsy person.  
-__bully__  
-__burn the midnight oil__ _idiom_ To work late into the night.  
-__buy the farm__ _idiom_ To die.  
-__calm before the storm__ _idiom_ A peaceful and quiet period before a period of activity or trouble.  
-__chipped__  
-__club soda__  
-__critique<sup>1</sup>__ _n_  
-__critique<sup>2</sup>__ _v_  
-__curmudgeon__ :es: cascarrabias  
-__destitute__ _adj_ Very poor.  
-__distressed__  
-__equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
 __excruciating__ _adj_ Very painful.  
 __finicky__ _adj_  

@@ -1,4 +1,4 @@
-__-esque__ _suffix_ :two: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__-esque__ _suffix_ :three: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
 __-year-old__ _A 56-year-old retiree._  
 __, so why (even) bother?__  
 __, to say the least.__  
@@ -43,7 +43,7 @@ __abounds__
 __about-face__  
 __aboveboard__  
 __abrade__ _v_  
-__abreast__ _adv_ :four: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
+__abreast__ _adv_ :five: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abrogation__ :two::hammer:  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
@@ -298,6 +298,7 @@ __animosity__ _n_ :eight: __1__ Bitter hostility or open enmity; active hatred. 
 __animus__ _n_ :two::hammer: _The animus between the Yankees and Red Sox._  
 __ankle-biter__ Child.  
 __annihilation__ :pencil2::mega:  
+__anniversary__ :pencil2::mega:  
 __annuity__ (annuities) :two::hammer:  
 __annum__ _n_  
 __anomic__  
@@ -326,7 +327,7 @@ __aplenty__
 __aplomb__ _n_ :four: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ :pencil2:  
-__apologetic__ :two::hammer: _That's what I call apologetic hand raise._  
+__apologetic__ _adj_ :three: Very sorry. _That's what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apostasy__  
@@ -355,6 +356,7 @@ __appraisingly__
 __appreciate__ _I appreciate it._  
 __apprehend__ _v_  
 __apprehension__  
+__apprehensive__ _adj_ Very nervous.  
 __approval rating__ _Park's approval rating has plummeted._  
 __apropos__ _prep_ :two::mega::hammer:  
 __apt__  
@@ -807,6 +809,7 @@ __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dis
 __bemused__ :two::hammer:  
 __bench__ _Snow will dust the benches and valleys._  
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
+__bend over backwards__ _idiom_ To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
 __bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
@@ -1017,7 +1020,7 @@ __blurb__ :es: comentario de sobrecubierta
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster<sup>1</sup>__ _v_  
 __bluster<sup>2</sup>__ _n_  
-__blustery__ _adj_ :seven: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
+__blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __BM__ Bowel movement (take a dump).  
 __BMX__ :two::hammer: _BMX bike._  
 __BO__ :two::hammer:  
@@ -1317,7 +1320,7 @@ __build-up__ _n_ :six::hammer: (buildup) _Buildup play._
 __bulk up__ _v_  
 __bulk__  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
-__bull in a china shop__  
+__bull in a china shop__ _n_ _idiom_ :two: A clumsy person.  
 __bull__ Adult large animal (eg. an elephant).  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet points__ :three::hammer: _Give me the bullet points._  
@@ -1325,6 +1328,7 @@ __bullhorn__ :two::hammer:
 __bullion__  
 __bullpen__ _n_  
 __bullwhip__  
+__bully__  
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
@@ -1365,6 +1369,7 @@ __burkini__
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
 __burn the candle at both ends__ To work or study day and night.  
+__burn the midnight oil__ _idiom_ To work late into the night.  
 __burners__ (gas cooktop) :camera:  
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
@@ -1408,6 +1413,7 @@ __buttress__ _v_ :six: (buttressed) Increase the strength of or justification fo
 __buttwipes__ _n_  
 __buxom__  
 __buy out__ _v_  
+__buy the farm__ _idiom_ To die.  
 __buy__ _I didn't buy his explanations._  
 __buy-in__ _n_ :two::hammer: _He has tried different tactics to accelerate the buy-in._  
 __buybacks__  
@@ -1496,6 +1502,7 @@ __calliopes__
 __callous__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
 __callow__ :two::hammer:  
+__calm before the storm__ _idiom_ A peaceful and quiet period before a period of activity or trouble.  
 __calm__ :mute:[ca~~l~~m]  
 __calves__  
 __camaraderie__  
@@ -1796,7 +1803,7 @@ __chip shots__ _The golfer was hitting some horrible chip shots._
 __chip__ _v_ :three::hammer: (chipped, chipping)  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
-__chip<sup>2</sup>__ _v_ _We had to chip and be patient._  
+__chip<sup>2</sup>__ _v_ :two::hammer: (chipped) _We had to chip and be patient._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
 __chipper__ _adj_ :two::hammer: _She is chipper._  
 __chippies__ :two::hammer:  
@@ -1956,6 +1963,7 @@ __clout<sup>2</sup>__ _v_
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
 __cloying__ _adj_ :four::hammer: _She is cordial without being cloying._  
 __Club Med__ _Club Med countries._  
+__club soda__  
 __cluck__  
 __clucking__ _Clucking chickens._  
 __clue__ :dart:  
@@ -2395,8 +2403,8 @@ __crisply__ _Nuggent greeted him crisply._
 __crisscross__  
 __critical condition__ _Critical to serious condition, fair condition._  
 __criticize__ _v_  
-__critique<sup>1</sup>__ _n_ :mega:  
-__critique<sup>2</sup>__ _v_  
+__critique<sup>1</sup>__ _n_ :two::mega::hammer:  
+__critique<sup>2</sup>__ _v_ :two::hammer:  
 __critters__ _n_ :three::hammer: _Garden critters._  
 __croak__ _v_  
 __croaked__  
@@ -2498,7 +2506,7 @@ __Curie__ :two::hammer::mega:
 __curios__  
 __curlicued__ _v_  
 __curlicues__  
-__curmudgeon__ _n_ :six: An ill-tempered person full of resentment and stubborn notions.  
+__curmudgeon__ _n_ :seven: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :six: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
@@ -2751,6 +2759,7 @@ __despoil__ _v_
 __despoiling__  
 __despondency__  
 __despondent__ _n_ :five::hammer:  
+__destitute__ _adj_ Very poor.  
 __detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
@@ -2916,6 +2925,7 @@ __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 1
 __distinct__ :two::hammer:  
 __distinctly__  
 __distraught__  
+__distressed__  
 __disused__  
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
 __dithered__ _v_  
@@ -3417,6 +3427,7 @@ __equaled__ _v_
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ :two::hammer:  
 __equerries__  
+__equine<sup>1</sup>__ _adj_  
 __equinox__  
 __equipped__  
 __equity__  
@@ -11419,8 +11430,8 @@ __warren__ _n_ _A warren of hares._
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wash out__ _phr v_ To wash the inside of something.  
 __wash up__ _phr v_ To wash your hands and face.  
-__washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
+__washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
 __Washingtonians__  
 __washroom__ _n_  
 __washtub__  
