@@ -1,4 +1,15 @@
 
+__mortgage__ :mute:[mor~~t~~gage]  
+__often__ :mute:[of~~t~~en]  
+__ricochet__ :mute:[ricoche~~t~~]  
+__rustle__ :mute:[rus~~t~~le]  
+__scratch__ :mute:[scra~~t~~ch]  
+__soften__ :mute:[sof~~t~~en]  
+__thistle__ :mute:[this~~t~~le]  
+__whistle__ :mute:[whis~~t~~le]  
+__wrestle__ :mute:[wres~~t~~le]  
+__autumn__ :mute:[autum~~n~~]  
+
 __equine<sup>2</sup>__ _n_  
 __excruciating__ _adj_ Very painful.  
 __finicky__ _adj_  
