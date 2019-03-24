@@ -1,4 +1,15 @@
 
+__column__ :mute:[colum~~n~~]  
+__condemn__ :mute:[condem~~n~~]  
+__damn__ :mute:[dam~~n~~]  
+__hymn__ :mute:[hym~~n~~]  
+__solemn__ :mute:[solem~~n~~]  
+__antique__ :mute:[antiq~~u~~e]  
+__biscuit__ :mute:[bisc~~u~~it]  
+__build__ :mute:[b~~u~~ild]  
+__circuit__ :mute:[circ~~u~~it]  
+__colleague__ :mute:[colleag~~u~~e]  
+
 __get me started__ _Don't get me started!_  
 __on the fly__  
 __lanky__  
