@@ -14,6 +14,7 @@ __35-degree day__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __800-pound gorilla__  
 __a bird in the hand is worth two in the bush__  
+__a drop in the bucket__  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
 __A/C__ (air conditioned?)  
@@ -310,7 +311,7 @@ __anti-Semitism__
 __antic__  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ _adj_ :three::hammer:  
-__antique__ _Antiques dealer._  
+__antique__ :two::mute:[antiq~~u~~e]:hammer: _Antiques dealer._  
 __antsy__ _adj_ :two: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
@@ -905,6 +906,7 @@ __birdbrain__ _n_ _slang_ :two: A silly or stupid person.
 __birds of the same feather__  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
+__biscuit__ :mute:[bisc~~u~~it]  
 __bishop's benches__  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
@@ -1316,6 +1318,7 @@ __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse a
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
 __bugout__  
 __build a future__ :es: labrarse un futuro  
+__build__ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
 __bulk up__ _v_  
 __bulk__  
@@ -1859,6 +1862,7 @@ __cinephile__ :mega:
 __cineplex__ _Sequels ruled the cineplex this weekend._  
 __cipher__ _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
+__circuit__ :mute:[circ~~u~~it]  
 __circumambulate__ :pencil2:  
 __circumcircle__  
 __circumradius__  
@@ -2028,6 +2032,7 @@ __collapse__ _v_ :pencil2:
 __collapsible__ _Collapsible shutters._  
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
+__colleague__ :mute:[colleag~~u~~e]  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
 __collude__ _v_  
@@ -2036,6 +2041,7 @@ __colocation > data colocation__
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __colossus__  
+__column__ :mute:[colum~~n~~]  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
 __comb__ :mute:[com~~b~~]  
@@ -2086,6 +2092,7 @@ __compel__ _v_ :four::hammer:
 __compelling__ _adj_ :three: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
 __completion__ _n_  
+__complex__ :mega:  
 __compliance__ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
@@ -2130,6 +2137,7 @@ __concourse__ :two::hammer:
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
+__condemn__ :mute:[condem~~n~~]  
 __condition__ _n_ :two::hammer:  
 __conditional discharge__ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__  
@@ -2558,6 +2566,7 @@ __dally__ _v_
 __dallying__  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dammit__  
+__damn__ :mute:[dam~~n~~]  
 __damnation__  
 __damning__ :three::astonished::hammer: _A damning independent inquiry._ _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
@@ -3281,6 +3290,7 @@ __egregious__ _adj_ :seven: Something that is egregious stands out, but not in a
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __eh?__ _Impressive, eh?_  
 __eight__ :mute:[ei~~gh~~t]  
+__eighty-eights__ Piano.  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
 __either__ :mega:  
@@ -5161,6 +5171,7 @@ __HVAC__
 __hyacinth__ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
+__hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
 __hyperbole__ :two::hammer:  
@@ -6318,6 +6329,7 @@ __meekly__ _adv_ :three::hammer:
 __meekness__ :two::hammer:  
 __meet up__  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
+__meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup._  
 __megalomania__  
 __meh__  
 __mélange__ _n_  
@@ -6438,8 +6450,9 @@ __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––w
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ :two::hammer:  
 __misdirection__ :two::hammer:  
-__miser__ _n_  
+__miser__ _n_ :two::hammer: :es: avaro  
 __miserable__ _We are miserable._  
+__miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
 __misgiving__ _n_ :three::hammer: (misgivings)  
@@ -7179,6 +7192,7 @@ __panhandle__ _v_
 __panhandling__  
 __panned out__  
 __panoply__ :two::hammer:  
+__panorama__ _n_  
 __pant__ _v_ :six: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
 __pantoscopic__ _Pantoscopic tilt._  
@@ -9610,6 +9624,7 @@ __solacing__ _v_ _Solacing her with kisses._
 __solder__  
 __soldier of fortune__  
 __soldiers__ _v_  
+__solemn__ :mute:[solem~~n~~]  
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
 __solid gold__  
@@ -10117,7 +10132,7 @@ __stucco__
 __stuck a chord__  
 __stuck-up__  
 __stud<sup>1</sup>__ _n_ :two::hammer:  
-__stud<sup>2</sup>__ _v_ :three::hammer: (studded)  
+__stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury's studded armband._  
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
 __stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._  
@@ -10867,6 +10882,7 @@ __triage__ _n_ The method of deciding who receives medical treatment first, acco
 __trial__ _n_  
 __Tribeca__  
 __tribulation__ _n_ :seven::hammer: (tribulations)  
+__tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _syn_ affluent  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
 __trick pad__  
@@ -11384,6 +11400,7 @@ __wagon__
 __waifish__  
 __wainscoting__  
 __waist band__  
+__wait up__ _phr v_ To not go to sleep until someone comes home.  
 __waive__ _v_ :five::hammer: (waived)  
 __waiver__  
 __waivers__ _n_  

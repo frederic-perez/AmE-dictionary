@@ -1,26 +1,4 @@
 
-__panorama__ _n_  
-__complex__ :mega:  
-__tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _syn_ affluent  
-__stud__ _n_ _Freddie Mercury's studded armband._  
-__eighty-eights__ Piano.  
-__a drop in the bucket__  
-__wait up__ _phr v_ To not go to sleep until someone comes home.  
-__meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup.  
-__miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
-__miser__ _n_ :es: avaro  
-
-__column__ :mute:[colum~~n~~]  
-__condemn__ :mute:[condem~~n~~]  
-__damn__ :mute:[dam~~n~~]  
-__hymn__ :mute:[hym~~n~~]  
-__solemn__ :mute:[solem~~n~~]  
-__antique__ :mute:[antiq~~u~~e]  
-__biscuit__ :mute:[bisc~~u~~it]  
-__build__ :mute:[b~~u~~ild]  
-__circuit__ :mute:[circ~~u~~it]  
-__colleague__ :mute:[colleag~~u~~e]  
-
 __get me started__ _Don't get me started!_  
 __on the fly__  
 __lanky__  
