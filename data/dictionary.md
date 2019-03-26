@@ -503,6 +503,7 @@ __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one pers
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
 __autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
+__autumn__ :mute:[autum~~n~~]  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
 __aver__ _v_  
 __average citizens__  
@@ -715,6 +716,7 @@ __beat it__ _idiom_ To go away immediately.
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
+__beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __bebop__ _v_  
 __beck > at your beck__ _Stacks of books at your beck._  
 __beck__  
@@ -3077,6 +3079,7 @@ __Draconian__ _adj_
 __draconian__ :two::hammer:  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
+__drag queen__  
 __drag racing__  
 __drag<sup>1</sup>__ _v_ (dragging)  
 __drag<sup>2</sup>__ _n_  
@@ -4299,6 +4302,7 @@ __get ahold__
 __get away with__  
 __get enough__  
 __get looks__ _v_ :two::hammer:  
+__get me started__ _Don't get me started!_  
 __get off on (something)__  
 __get off__ _I always get off the bus a stop early on the way to work._  
 __get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
@@ -5041,7 +5045,8 @@ __homeowner__
 __homesick__ :two::hammer:  
 __homespun__ :two::hammer:  
 __homestand__ _n_ :four: A series of games played at a team's home field.  
-__homestead__ _n_ :three::hammer:  
+__homestead<sup>1</sup>__ _n_ :four::hammer:  
+__homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
 __homophobic__  
@@ -5773,7 +5778,7 @@ __landscape__ _Landscape gardening._
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
 __languish__ _v_ (languishing) :two::hammer:  
 __lank__ _Her hair hung in lank locks._  
-__lanky__ _adj_ :three::hammer:  
+__lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
 __Laotian__  
 __lap<sup>1</sup>__ _n_ _The project's amenities include two lap pools._  
@@ -6551,6 +6556,7 @@ __morosely__ :two::hammer:
 __morsel__ _n_ :three::hammer: (morsels)  
 __mortar shell__  
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
+__mortgage__ :mute:[mor~~t~~gage]  
 __mortice__  
 __mortification__  
 __mortify__ _v_ :four::hammer: (mortified)  
@@ -6916,6 +6922,7 @@ __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues
 __offshoot__ _n_  
 __oft__ :two::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
+__often__ :mute:[of~~t~~en]  
 __oftentimes__ :two::hammer:  
 __ogle__ _v_ :two::hammer:  
 __oh__ _You went oh for two._  
@@ -6951,6 +6958,7 @@ __on edge__
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on foot__ _I work to work on foot._  
 __on the docket__  
+__on the fly__  
 __on the hoof__  
 __on the run__  
 __on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
@@ -8494,7 +8502,7 @@ __rickety__ _adj_ :eight::hammer: _Rickety chair._ _Pete pointed to some rickety
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __RICO__ _He had been indicted on RICO charges._  
-__ricochet__ _v_ :mega::three::hammer:  
+__ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:  
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
@@ -8696,7 +8704,7 @@ __runt__
 __ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :four::hammer: (ruses)  
 __rustle up__ _v_  
-__rustle__ _v_ :four::hammer: (rustled, rustling) _To rustle up a dinner for 12._  
+__rustle__ _v_ :five::mute:[rus~~t~~le]:hammer: (rustled, rustling) _To rustle up a dinner for 12._  
 __rut__ :two::hammer: _Some guy with rut for brains._  
 __RV pads__  
 __RV__  
@@ -8887,6 +8895,7 @@ __scrap<sup>3</sup>__ _v intr_ :nine::m: (scrapping) To fight, usually with the 
 __scrapper__  
 __scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
+__scratch__ :mute:[scra~~t~~ch]  
 __scrawl__ _v_ :two::hammer: (scrawled)  
 __scrawny__ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
@@ -8947,7 +8956,7 @@ __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazona
 __seawall__  
 __seaweed__ :two::hammer:  
 __second nature__  
-__second-guess__ _v_ :five::dart: (second-guessing)  
+__second-guess__ _v_ :six::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ _n_ :three: something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secular__ :two::hammer:  
@@ -9612,7 +9621,7 @@ __sodden__
 __soffit__  
 __soft bread__  
 __soft-spoken__  
-__soften__ _v_ _Smooths and softens dry skin with nourishing plant oils._  
+__soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
 __soignée__  
@@ -10576,6 +10585,7 @@ __think up__ To invent or imagine something, especially an excuse.
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
 __this time around__ :dart::hammer:  
+__thistle__ :mute:[this~~t~~le]  
 __thither__ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __thobbing__  
 __thong__ _n_ :two::hammer:  
@@ -10606,6 +10616,7 @@ __throw out the red meat__
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throw up__ _I might throw up._  
+__throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated "TBT") as an accompanying hashtag or caption. _I'm going to post my second grade class picture for throwback Thursday!_  
 __throwback__ _Throwbavck uniform._  
 __throws__ _n_  
 __thrum__  
@@ -11584,7 +11595,7 @@ __whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move 
 __whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]  
 __whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
 __whisper__ :mute:[w~~h~~isper]  
-__whistle__ :mute:[w~~h~~istle]  
+__whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle-blower__  
 __Whit Sunday__  
 __white elephant__ _n_  
@@ -11757,6 +11768,7 @@ __wrecking ball__
 __wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrenching__ _adj_ _A wrenching prospect._  
+__wrestle__ :mute:[wres~~t~~le]  
 __wretch__ _n_ :two::hammer: _The lowliest wretch among them._  
 __wretched__  
 __wrethes__  

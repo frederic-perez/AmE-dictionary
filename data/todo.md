@@ -1,26 +1,4 @@
 
-__get me started__ _Don't get me started!_  
-__on the fly__  
-__lanky__  
-__dole out__ _v_  
-__beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
-__drag queen__  
-__throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated "TBT") as an accompanying hashtag or caption. _I'm going to post my second grade class picture for throwback Thursday!_  
-__homestead<sup>1</sup>__ _n_  
-__homestead<sup>2</sup>__ _v_  
-__second-guess__ _v_  
-
-__mortgage__ :mute:[mor~~t~~gage]  
-__often__ :mute:[of~~t~~en]  
-__ricochet__ :mute:[ricoche~~t~~]  
-__rustle__ :mute:[rus~~t~~le]  
-__scratch__ :mute:[scra~~t~~ch]  
-__soften__ :mute:[sof~~t~~en]  
-__thistle__ :mute:[this~~t~~le]  
-__whistle__ :mute:[whis~~t~~le]  
-__wrestle__ :mute:[wres~~t~~le]  
-__autumn__ :mute:[autum~~n~~]  
-
 __equine<sup>2</sup>__ _n_  
 __excruciating__ _adj_ Very painful.  
 __finicky__ _adj_  
