@@ -3441,6 +3441,7 @@ __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing 
 __equalizer__ :two::hammer:  
 __equerries__  
 __equine<sup>1</sup>__ _adj_  
+__equine<sup>2</sup>__ _n_  
 __equinox__  
 __equipped__  
 __equity__  
@@ -3498,7 +3499,7 @@ __excommunication__
 __excoriate__ _v_ :four::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state's actions._  
 __excoriation__  
 __excruciate__  
-__excruciating__  
+__excruciating__ _adj_ :two: Very painful.  
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __exe__ :mega:  
 __exec__ _n informal_ :three: (execs) An executive. _I'm a retired tech exec._  
@@ -3769,7 +3770,7 @@ __finest hour__ :astonished:
 __finger on the pulse__ _idiom_  
 __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger-waggers__  
-__finicky__ :two:hammer:  
+__finicky__ _adj_ :three:hammer:  
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
 __fink__ _Family man to some, fink to others._  
 __fintech__  
@@ -4041,7 +4042,7 @@ __formidable__
 __forsake__ _v_ :five::hammer: (forsaken)  
 __forsaken__ _adj_  
 __fort__ Fortification(?)  
-__forte<sup>1</sup>__ _n_ Something in which a person excels.  
+__forte<sup>1</sup>__ _n_ :two: Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
 __forthright__  
@@ -4312,6 +4313,7 @@ __get over someone's head__ _They're getting over their heads._
 __get set__ _v_  
 __get stops__ :two::hammer:  
 __get the middle finger__  
+__get your foot in the door__ _idiom_  
 __get-go__ :three::hammer: _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
@@ -4388,6 +4390,7 @@ __glut__ _n_ :six: A glut is too much of something. A glut of gas in the marketp
 __glycemic__  
 __GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
+__gnarly__ _First steps tackling gnarly code._  
 __gnash__ _Gnasing teeth._  
 __gnashing__  
 __gnat__ _n_ :three::hammer: (insect?)  
@@ -4897,6 +4900,7 @@ __hellbound__ _adj_ Bound for Hell; damned.
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __helluva__ _?_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
+__help out__  
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helpings__ _?_ _Second helpings._  
 __hem__ _n_ :es: dobladillo  
@@ -5167,6 +5171,7 @@ __husbandry__ _n_ :three::hammer:
 __hush money__ _A hush money case._  
 __hush up__ _v_  
 __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
+__hush-hush__ Very secret.  
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
@@ -5338,6 +5343,7 @@ __indictment__ _n_ :four::hammer:
 __indigenous__ _Indigenous people._  
 __indiscreet__  
 __indispensable__  
+__indolent__ _adj_ Very lazy.  
 __indomitable__ :two::hammer: _Indomitable will._  
 __inducements__  
 __induct__  
@@ -5473,6 +5479,7 @@ __jaded__ _adj_
 __Jag__ Jaguar (car)  
 __jagged__ :two::hammer:  
 __jagging__  
+__jailbait__ A girl who is younger than the legal age of consent for sexual activity.  
 __jakelegs__  
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
 __jalopy__ _n informal_ A dilapidated old vehicle or aircraft. Old car.  
@@ -5550,6 +5557,7 @@ __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington 
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
 __Johnny-come-lately__ _idiom_  
 __joined at the hip__ _idiom_ To be exceptionally close to someone.  
+__joint__ _n_ A prison, a jail.  
 __joists__  
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
@@ -6431,6 +6439,7 @@ __mincemeat__
 __mind__ _v_ _Mind the gap._  
 __minder__ :es: guardaespaldas  
 __mindful__  
+__mindset__ _n_  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
 __minnow__ _n_ :eight::hammer: (minnows)  
@@ -6670,6 +6679,8 @@ __NA__ Narcotics Anonymous. _Go to an NA meeting._
 __nab__ _v_ :five::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nadir__  
 __naevus__ _n_ (nevus)  
+__nag<sup>1</sup>__ _v_  
+__nag<sup>2</sup>__ _n_ (often derogator) A horse.  
 __nagging__ :two::hammer: _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
 __nail it__  
@@ -6810,6 +6821,7 @@ __nonchalant__ _adj_ :six: Behaving calmly and not seeming interested in anythin
 __nonchalantly__ _adv_ :three: In a nonchalant manner.  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
+__nonpartisan__ _adj_  
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_ :two::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
@@ -7226,7 +7238,7 @@ __paraphilia__ _n_ :two::hammer:
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
-__parched__ _adj_ :two: Very dry. _The dryness will encompass parched California._  
+__parched__ _adj_ :three: Very dry. Very thirsty. _The dryness will encompass parched California._  
 __Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._  
 __parchment paper__ :camera:  
 __parchment__ _n_ :six::hammer: _A parchment chart._  
@@ -7374,6 +7386,7 @@ __pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __per diem__  
+__per se__ :mega: /pər sā′, sē′/  
 __percentile__ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :four::hammer:  
@@ -7460,7 +7473,7 @@ __pickets__ _n_
 __picklock__ _v_  
 __pickoff__ _A pickoff throw to first base._  
 __pickup__  
-__picky__  
+__picky__ _adj_ :two::hammer:  
 __pictogram__  
 __picture-perfect__ _The picture-perfect porch._  
 __piddle__ _v_  
@@ -7492,6 +7505,7 @@ __pill caddy__ _n_
 __pillbox hat__ :two::hammer:  
 __pillbox__ _A plum-colored pillbox hat._  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
+__pilot light__ _n_ :astonished:  
 __pimple__ _n_ :two::hammer: _Pop the pimples._  
 __pin-curled__  
 __pin-drop silence__  
@@ -7760,6 +7774,7 @@ __pox__
 __PPD__ Postponed. _(sporting events)_  
 __ppg__ _Sanders is averaging 13.3 ppg._  
 __PR__ _abbr_ _The PR version of my life._  
+__practical joke__  
 __practice__ _n_ _A pediatrics practice._  
 __pram suit__ _n_  
 __pram__  
