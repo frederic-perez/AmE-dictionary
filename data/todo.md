@@ -41,3 +41,29 @@ __midwife__ _n_
 __knackered__ _adj_ Very tired, exhausted.  
 __caught with your pants down__ _idiom_ To be found in an embarrassing situation.  
 __cross that bridge when one comes to it__ To delay dealing with a problem until it happens.  
+
+__klutz__  
+__mondegreen__ _n_ :dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
+__bouncy house__ _n_  
+__valedictorian<sup>1</sup>__ _n_  
+__valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
+__beguile__ _v_  
+__shoot the moon__ :three::hammer:  
+__muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing. 
+__indolent__ _adj_ Lazy, slothful.  
+__default__ _v_  
+__craze<sup>1</sup>__ _v_  
+__craze<sup>2</sup>__ _n_  
+__pointless__ _adj_  
+__turn on__ _phr v_  
+__genie__ :mega: /jē′nē/  
+__stomach__ _v_  
+__as yet__ _idiom_ Up to the present time; up to now.  
+__flamboyant__ _adj_  
+__no-no__ _n_ _informal_ :five::hammer:  
+__pique<sup>1</sup>__ _n_  
+__pique<sup>2</sup>__ _v_  
+__kooky__ _adj_ Crazy, mentally unbalanced.  
+__weed out__ _phr v_ :dart: To get rid of unwanted things or people from a group.  
+__emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
+__tepid__  
