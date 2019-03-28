@@ -2472,6 +2472,7 @@ __crusty__
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :two::hammer: _The crux of the matter._  
 __cry foul__ :two::hammer: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
+__crybaby__ _n_ A person who cries or complains frequently with little cause.  
 __cryotherapy__  
 __cryptojacking__  
 __cryptomining__  
@@ -3453,6 +3454,7 @@ __erstwhile__ :two::hammer:
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
+__escapade__ _n_ :dart:  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -6254,6 +6256,7 @@ __margarine__ _n_
 __Mariel felons__  
 __marijuana__  
 __marinades__  
+__mariner__ _n_  
 __markdown__  
 __markdowns__  
 __marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
@@ -7988,7 +7991,7 @@ __pulsating__
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :five::hammer: (pummeled)  
 __pump__ _n_ :two::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
-__pun<sup>1</sup>__ _n_ :three::hammer: :es: juego de palabras  
+__pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
@@ -7997,7 +8000,7 @@ __punctuate__
 __puncture__ _n_  
 __punctured__ _v_ _Punctured his tire._  
 __pundit__ _n_ :three::hammer:  
-__pungent__  
+__pungent__ _adj_ :two::hammer:  
 __pungi__  
 __punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
@@ -8371,8 +8374,7 @@ __reinstatement__ _n_
 __reiterate__ _v_  
 __rejigged__ _v_  
 __rejiggered__  
-__rejoice__ _v_  
-__rejoiced__ _v_  
+__rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)  
 __rejoinder__ _n_ :two::hammer:  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ _adj_ :three::hammer:  
@@ -8965,7 +8967,7 @@ __seal__ _Lacy gained 27 yards to seal their fourth division win._
 __seamstress__ _n_  
 __séance__  
 __sear__ _v_ :five: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
-__searing > searing work__  
+__searing__ _adj_ :two::hammer: _Searing work._  
 __seaside__  
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
@@ -9073,6 +9075,7 @@ __shag__ _Orange shag carpeting._
 __shaggy hemp__  
 __shaggy__  
 __shah__ _n_  
+__shake hands__ _v_ :astonished: Take someone's hands and shake them as a gesture of greeting or congratulation.  
 __shake__ _We use the scientific method to give each product a fair shake._  
 __shale-oil__ _Shale-oil production._  
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
@@ -9484,7 +9487,7 @@ __slouch<sup>2</sup>__ _v_ :two::hammer: (slouching)
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :three::hammer:  
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
-__slovenly__ :two::hammer:  
+__slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
@@ -9725,7 +9728,7 @@ __speak up__ _v_ :two::hammer:
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
-__spearhead__ _v_ :four: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead__ _v_ :five: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specialty__ _Specialty apparel sellers._  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
@@ -9975,7 +9978,7 @@ __stealth van__ _Stealth vans look like a normal Transit van, so you can park on
 __stealthy__  
 __steamer trunk__ _A steamer trunk lay opened by the couch._  
 __steamrolled__ _v_  
-__steeds__ _n_  
+__steed__ _n_ :two::hammer: (steeds)  
 __steel__ _v_  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
 __steep<sup>2</sup>__ _v_ :eight: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
@@ -10387,7 +10390,9 @@ __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweepin
 __tagline__ :two::hammer: _Our big tagline is to help others._  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :two::hammer: (tailored)  
-__tailspin__ _n_ :three::hammer:  
+__tailspin<sup>1</sup>__ _n_ :four::hammer:  
+__tailspin<sup>2</sup>__ _v_  
+__take a piss__ _idiom_ Urinate.  
 __take a shit__ _v_  
 __take a stand__  
 __take by storm__  
@@ -10581,7 +10586,7 @@ __theocracy__
 __theosophy__  
 __there is no denying__  
 __there is no question__ _There is no question that higher ocean temperatures have resulted in less offshore ice._  
-__there is no way around it/that__ :dart: :es: no hay más remedio, no queda otro remedio  
+__there is no way around it/that__ _idiom_ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
 __thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
 __thereof__  
 __thermos__ _A thermos._  
@@ -10927,6 +10932,7 @@ __trilling__
 __trilobite__ _n_ :two::mega::hammer:  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ _Stainless interior trim._  
+__trinity__ _Trinity College in Dublin._  
 __trinkets__ _n_ :three::hammer:  
 __trip wire__ _You hit a trip wire._  
 __triple__  
@@ -11487,7 +11493,7 @@ __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Tra
 __watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._  
 __water buffalo__  
 __water cooler__  
-__water down__ _v_ :three::hammer:  
+__water down__ _phr v_ :four: To make a liquid weaker by adding water.  
 __water seepage__  
 __waterfowl__ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  
@@ -11503,13 +11509,14 @@ __wayposts__
 __wayside__ _n_ :two::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
+__wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight::hammer: (weaned)  
 __weaponize__ _v_ :two::hammer:  
 __weary__  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include `Processor`, `Manager`, and `Super`._  
 __weather vane__  
-__weather__ _v_ (weathering)  
+__weather__ _v_ :two::hammer: (weathering)  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
 __wedding band__  
@@ -11864,7 +11871,7 @@ __yowza__
 __yuan__ _n_  
 __yuck__ _interj slang_ Used as an expression of disgust or repugnance. _Yuck, it's spinach again!_  
 __yule__ :two::hammer: _If you believe, yule receive!_  
-__Yuletide__ _n_ (archaic) Christmas.  
+__Yuletide__ _n_ :two: (archaic) Christmas.  
 __yummy__  
 __yurt__ _n_ :two::hammer: (yurts)  
 __zaniness__ :two::hammer:  

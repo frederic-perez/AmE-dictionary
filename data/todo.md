@@ -1,25 +1,4 @@
 
-__pun__  
-__pungent__  
-__rejoice__ _v_ (rejoicing) :pencil2:  
-__searing__ _adj_  
-__shake hands__ _v_ :astonished: Take someone's hands and shake them as a gesture of greeting or congratulation.  
-__slovenly__ _adj_ Very messy.  
-__spearhead__ _v_  
-__tailspin<sup>1</sup>__ _n_  
-__tailspin<sup>2</sup>__ _v_  
-__take a piss__ _idiom_ Urinate.  
-__there is no way around it__ _idiom_  
-__trinity__ _Trinity College in Dublin._  
-__water down__ _phr v_ To make a liquid weaker by adding water.  
-__wean off__ _phr v_ To slowly stop a dependency on something.  
-__weather__ _v_  
-__Yuletide__ _n_  
-
-__steed__ _n_  
-__mariner__ _n_  
-__crybaby__ _n_ A person who cries or complains frequently with little cause.  
-__escapade__ _n_ :dart:  
 __Yule__  
 __reindeer__  
 __inlay<sup>1</sup>__ _v_  
