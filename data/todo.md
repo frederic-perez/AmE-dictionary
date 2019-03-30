@@ -37,7 +37,7 @@ __valedictorian<sup>1</sup>__ _n_
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
 __beguile__ _v_  
 __shoot the moon__ :three::hammer:  
-__muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing. 
+__muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __indolent__ _adj_ Lazy, slothful.  
 __default__ _v_  
 __craze<sup>1</sup>__ _v_  
