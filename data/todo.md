@@ -1,4 +1,15 @@
 
+__clarion call__  
+__at large__ _idiom_  
+__swig__ _n_ _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
+__dark horse__ _idiom_  
+__nerd__ _adj_ :nine::m: A studious person with few social skills.  
+__whip up__ _phr v_ To make food or a meal very quickly and easily.  
+__down payment__  
+__as we speak__ _idiom_ At this very moment.  
+__chief<sup>1</sup>__ _adj_  
+__chief<sup>2</sup>__ _n_ (chiefs)  
+
 __disguise__ :mute:[disg~~u~~ise]  
 __guard__ :mute:[g~~u~~ard]  
 __guess__ :mute:[g~~u~~ess]  
