@@ -1,4 +1,13 @@
 
+__disguise__ :mute:[disg~~u~~ise]  
+__guard__ :mute:[g~~u~~ard]  
+__guess__ :mute:[g~~u~~ess]  
+__guest__ :mute:[g~~u~~est]  
+__guide__ :mute:[g~~u~~ide]  
+__guitar__ :mute:[g~~u~~itar]  
+__guilt__ :mute:[g~~u~~ilt]  
+__league__ :mute:[leag~~u~~e]  
+
 __Yule__  
 __reindeer__  
 __inlay<sup>1</sup>__ _v_  
