@@ -1,4 +1,13 @@
 
+__tongue__ :mute:[tong~~u~~e]  
+__vague__ :mute:[vag~~u~~e]  
+__knack__ :mute:[~~k~~nack]  
+__knead__ :mute:[~~k~~nead]  
+__knee__ :mute:[~~k~~nee]  
+__knife__ :mute:[~~k~~nife]  
+__knight__ :mute:[~~k~~night]  
+__knit__ :mute:[~~k~~nit]  
+
 __clarion call__  
 __at large__ _idiom_  
 __swig__ _n_ _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
