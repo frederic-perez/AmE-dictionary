@@ -212,11 +212,10 @@ class Checker(object):
         num_tokens = len(tokens)
         if num_tokens > 0:
             headword = tokens[0]
-            print headword + FAIL + ' <<< Incorrect entry ending #' \
-                + str(self.num_invalid_endings) + ENDC
-        else:
-            print '(empty)' + FAIL + ' <<< Incorrect entry ending #' \
-                + str(self.num_invalid_endings) + ENDC
+        else
+            headword = '(empty)'
+        print headword + FAIL + ' <<< Incorrect entry ending #' \
+            + str(self.num_invalid_endings) + ENDC
 
     def treat_invalid_underscores_use(self, entry):
         """Self-explanatory"""
