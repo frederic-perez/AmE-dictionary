@@ -23,6 +23,7 @@ I also gather interesting stuff from a myriad of podcasts, including:
 - Andy Daly Podcast Pilot Project, hosted by Andy Daly and Matt Gourley
 - Beautiful Anonymous, hosted by Chris Gethard
 - Comedy Bang! Bang!, hosted by Scott Aukerman
+- Conan needs a friend, hosted by Conan O'Brien
 - Freakonomics Radio, hosted by Stephen Dubner
 - Hollywood Babble-On, with Ralph Garman and Kevin Smith
 - I Am Rapaport, hosted by Michael Rapaport
