@@ -1,4 +1,15 @@
 
+__beat the shit out of (someone)__ _idiom_ _I expect them to beat the shit out of the Eagles._  
+__crib__ _n_  
+__fool<sup>1</sup>__ _n_  
+__fool<sup>2</sup>__ _v_ _Don't fool yourself--that's phony bullshit._  
+__fool<sup>3</sup>__ _adj_ _informal_  
+__dead horse__ _n_ Something that has ceased to be useful or relevant.  
+__high places__ _I've friends in high places._  
+__ritzy__ _adj_  
+__stand a chance__  
+__throb__ _v_ (throbbing) _My head is throbbing._  
+
 __tongue__ :mute:[tong~~u~~e]  
 __vague__ :mute:[vag~~u~~e]  
 __knack__ :mute:[~~k~~nack]  
