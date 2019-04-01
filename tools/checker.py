@@ -212,7 +212,7 @@ class Checker(object):
         num_tokens = len(tokens)
         if num_tokens > 0:
             headword = tokens[0]
-        else
+        else:
             headword = '(empty)'
         print headword + FAIL + ' <<< Incorrect entry ending #' \
             + str(self.num_invalid_endings) + ENDC
