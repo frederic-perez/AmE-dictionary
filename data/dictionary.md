@@ -456,6 +456,7 @@ __asunder__ _A world torn asunder by evil and hate._
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
+__at large__ _idiom_  
 __at odds__ _v_ :five: (be at odds) To disagree. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the door__ _The cost to attend is $35 in advance and $40 at the door._  
@@ -713,6 +714,7 @@ __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep 
 __bearing__ _n_ :four::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat it__ _idiom_ To go away immediately.  
+__beat the shit out of (someone)__ _idiom_ _I expect them to beat the shit out of the Eagles._  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
@@ -1893,7 +1895,7 @@ __clapboard__ _n_ :two::hammer:
 __clapper__ _He tried to turn somebody into a human bell clapper._  
 __claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
-__clarion call__ _n_ :four::hammer:  
+__clarion call__ _n_ :five::hammer:  
 __clarion<sup>1</sup>__ _n_  
 __clarion<sup>2</sup>__ _adj_  
 __clasp<sup>1</sup>__ _n_  
@@ -2397,7 +2399,7 @@ __crestfallen__ _adj_ :three: Dispirited and depressed; dejected.
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
-__crib__ _n_ :two::hammer:  
+__crib__ _n_ :three::hammer:  
 __cribbage__ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
@@ -2620,6 +2622,7 @@ __DEA__
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
 __dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
+__dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead on__  
 __dead ringer__ An exact duplicate.  
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
@@ -3974,6 +3977,9 @@ __foodie__ _A foodie and a friend._
 __foodstuffs__  
 __fool's errand__ :two::hammer: _It would be a fool's errand for anyone inside the party to primary him._  
 __fool's gold__  
+__fool<sup>1</sup>__ _n_  
+__fool<sup>2</sup>__ _v_ _Don't fool yourself--that's phony bullshit._  
+__fool<sup>3</sup>__ _adj_ _informal_  
 __foolhardy__ :two::hammer:  
 __foolproof__ _adj_ :two: Unable to fail. _A foolproof method._  
 __Foosball__  
@@ -4942,6 +4948,7 @@ __hideous__ _adj_ :four: Very ugly. _A hideous practice._
 __Higgs boson__ :two::hammer: (popularly known as the "God particle.")  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
+__high places__ _I've friends in high places._  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _idiom_ Someone who gambles with large amounts of money.  
 __high street__ _n_ _British informal_ :three::hammer:  
@@ -5697,18 +5704,20 @@ __kitten__
 __kiwi__  
 __kleptocracy__ :two::hammer:  
 __klutz__  
-__knack__ _n_  
+__knack__ _n_ :two::mute:[~~k~~nack]:hammer:  
 __knackered__  
 __knave__  
 __knavish__  
-__knead__ _v_ :six::hammer: (kneaded, kneading)  
+__knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
+__knee__ :mute:[~~k~~nee]  
 __knee-jerk__ _adv_ _(disapproving)_ :four::hammer: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
 __knell__ _n_ :three::hammer:  
-__knight__ :mute:[kni~~gh~~t]  
+__knife__ :mute:[~~k~~nife]  
+__knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
-__knit__ _v_ :two: To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
+__knit__ _v_ :three::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
 __knock someone's socks off__  
 __knock__ _n_  
@@ -8569,6 +8578,7 @@ __risible__
 __rite__ _n_ :two::hammer:  
 __ritzier__  
 __ritziest__ _One of the ritziest restaurants._  
+__ritzy__ _adj_  
 __rived__ _v_  
 __riven__  
 __river outfitter__  
@@ -9914,6 +9924,7 @@ __stamp__ _Additional stamp duties went into effect last year._
 __stamped__  
 __stance__ _n_ :six: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
+__stand a chance__  
 __stand out__ _The dragons are notoriously varied in phisique--they'd stand out in the Mos Eisley Cantina._  
 __stand strong__  
 __stand tall__ :three::hammer: _She's standing tall and proud._  
@@ -10618,7 +10629,7 @@ __thrall__ _n_ :six::hammer:
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __Three Lions__ _A message to the Three Lions._  
 __thrifty__ _adj_ :two::hammer:  
-__throbbed__ _v_ :three::hammer: (throbs, throbbing)  
+__throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :four::hammer:  
 __throng__ _n_ :five::hammer: _A throng of news media members._  
@@ -10786,6 +10797,7 @@ __ton__ _A metric ton._
 __tone-deaf__  
 __tong__  
 __tongue in cheek__ _adj, adv_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
+__tongue__ :mute:[tong~~u~~e]  
 __tonsil__ _n_ _A tonsil infection._  
 __tonsils__  
 __tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
@@ -11281,6 +11293,7 @@ __vagaries__ _n_
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
 __vagrant<sup>1</sup>__ _n_ :five: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_  
+__vague__ :mute:[vag~~u~~e]  
 __valedictorian__ _n_ :seven::hammer: (valedictorians)  
 __valentine__  
 __valiant<sup>1</sup>__ _adj_  
