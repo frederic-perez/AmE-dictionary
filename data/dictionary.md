@@ -209,7 +209,7 @@ __alembic__ _n_
 __Aleut__ _n_  
 __alfresco__ _It had two small terraces for alfresco dining._  
 __algae__ _n_  
-__alienate__ _v_ :eight::hammer: (alienated, alienating) _Alcoholism and violence alienated him from his family._  
+__alienate__ _v_ :eight: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
 __all in all,__ _phr_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
@@ -350,7 +350,7 @@ __apple cart__
 __applesauce__  
 __apportion__ _v_  
 __apportioned__ _v_  
-__appraisal__ _n_ :seven::hammer: (appraisals) _An insurance appraisal._ _Free appraisals._  
+__appraisal__ _n_ :seven: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_  
 __appraised__ _The home was appraised in 2007._  
 __appraisingly__  
@@ -1370,7 +1370,7 @@ __buoyancy__
 __buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __bureaucracy__  
-__burgeoning__ _adj_ :eight::hammer:  
+__burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
 __burgermeister__  
 __burgundy__ :two::hammer: _Burgundy outfit._  
 __burkini__  
