@@ -413,6 +413,7 @@ __as it gets__ :two::hammer:
 __as it happens,__ _idiom_ :two: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
+__as we speak__ _idiom_ At this very moment.  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascent__ :mute:[as~~c~~ent]  
@@ -1794,6 +1795,8 @@ __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily
 __chicklit__ _A chicklit satire._  
 __chickpea__ _n_ :two::hammer: (chickpeas) _A handful of chickpeas._  
 __chide__ _v_ :seven::hammer: (chided, chiding) _Whe chided the Pentagon._  
+__chief<sup>1</sup>__ _adj_  
+__chief<sup>2</sup>__ _n_ (chiefs)  
 __chilblain__ _n_ :three: (chilblains) An inflammation followed by itchy irritation on the hands, feet, or ears, resulting from exposure to moist cold. :es: sabañones  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
@@ -2593,7 +2596,7 @@ __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled
 __dare__  
 __daredevil__ :two::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
-__dark horse__ _n_ :two:  
+__dark horse__ _n_ _idiom_ :three::hammer:  
 __darn__ :two::hammer: _That's pretty darn good._  
 __darned__  
 __darnedest__  
@@ -2889,6 +2892,7 @@ __disfavor__
 __disgorgement__  
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
+__disguise__ :mute:[disg~~u~~ise]  
 __dish out__ _v_ :two::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
@@ -3048,7 +3052,7 @@ __douse__ _v_
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
 __dove__ _v_  
 __dovetail__ _v_ (dovetails) :three::hammer:  
-__down payment__ :two::hammer: _A down payment for his role as a recruitment of muscle for the operation._  
+__down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down the drain__ _idiom_ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
@@ -4614,19 +4618,25 @@ __grumblings__
 __grungy__ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
+__guard__ :mute:[g~~u~~ard]  
+__guess__ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
 __guesstimation__ does not exist  
 __guesswork__ _n_  
 __guest claim__ _Guest claim no. 170374._  
+__guest__ :mute:[g~~u~~est]  
 __guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
+__guide__ :mute:[g~~u~~ide]  
 __guidet__ _Two guidettes._  
 __guile__ :two::hammer:  
 __guileless__  
 __guillotine__ _n_ :mega:  
+__guilt__ :mute:[g~~u~~ilt]  
 __guinea pig__ :mega:  
 __guise__  
 __guitar case__ :camera:  
+__guitar__ :mute:[g~~u~~itar]  
 __gulf__ _n_ :three::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._  
 __gullibility__  
 __gullible__ _adj_ :six: Naive and easily deceived or tricked.  
@@ -5871,6 +5881,7 @@ __leaden__
 __leadoff__ _n_ :two::hammer:  
 __leaf mold__  
 __leafy__  
+__league__ :mute:[leag~~u~~e]  
 __lean and mean__ _Companies are running lean and mean these days._  
 __lean protein__  
 __lean<sup>1</sup>__ _adj_ :three::hammer: _He is lean fast._ _Lean food._ _A lean face._  
@@ -6756,7 +6767,7 @@ __neophyte__
 __neorealist__  
 __neoteric__  
 __nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
-__nerd__ _n_  
+__nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerve agent__  
 __nerve__ :two::hammer: _He's got nerve._  
 __nerve-racking__ _adj_ :three::hammer: (nerve racking)  
@@ -8378,6 +8389,7 @@ __regulatory__
 __rehash__ _v_ :two::hammer:  
 __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
 __reimagining__ _n_  
+__reindeer__  
 __reinstate__ _v_ :three::hammer:  
 __reinstatement__ _n_  
 __reiterate__ _v_  
@@ -10345,6 +10357,7 @@ __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden s
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swiftness__ _n_ :two::hammer: _The days of our lives have flown in the swiftness of time._  
+__swig__ _n_ _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
 __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
 __swim tube__  
 __swimabout__  
@@ -11613,6 +11626,7 @@ __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low
 __whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whinge__ _v_ _British English_ To keep complaining in an annoying way.  
 __whinnied__ _v_  
+__whip up__ _phr v_ To make food or a meal very quickly and easily.  
 __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
 __whiplash__ _n_ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
@@ -11883,6 +11897,7 @@ __yowled__ _v_
 __yowza__  
 __yuan__ _n_  
 __yuck__ _interj slang_ Used as an expression of disgust or repugnance. _Yuck, it's spinach again!_  
+__Yule__  
 __yule__ :two::hammer: _If you believe, yule receive!_  
 __Yuletide__ _n_ :two: (archaic) Christmas.  
 __yummy__  

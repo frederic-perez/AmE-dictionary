@@ -1,24 +1,4 @@
 
-__swig__ _n_ _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
-__dark horse__ _idiom_  
-__nerd__ _adj_ :nine::m: A studious person with few social skills.  
-__whip up__ _phr v_ To make food or a meal very quickly and easily.  
-__down payment__  
-__as we speak__ _idiom_ At this very moment.  
-__chief<sup>1</sup>__ _adj_  
-__chief<sup>2</sup>__ _n_ (chiefs)  
-
-__disguise__ :mute:[disg~~u~~ise]  
-__guard__ :mute:[g~~u~~ard]  
-__guess__ :mute:[g~~u~~ess]  
-__guest__ :mute:[g~~u~~est]  
-__guide__ :mute:[g~~u~~ide]  
-__guitar__ :mute:[g~~u~~itar]  
-__guilt__ :mute:[g~~u~~ilt]  
-__league__ :mute:[leag~~u~~e]  
-
-__Yule__  
-__reindeer__  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ _Inlay photo._  
 __bungee jumping__  
