@@ -1707,10 +1707,8 @@ __Cessna__
 __cesspool__ _n_ :seven::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
-__chafe__ _v_ :eight::hammer: (chafes, chafed, chafing) _Her bare ankles chafing against the tops of her tennis shoes._  
+__chafe__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafer__ _n_  
-__chaffed__ _v_  
-__chafing__ _v_  
 __chagrin__  
 __chagrin<sup>1</sup>__ _n_ :seven: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
 __chagrin<sup>2</sup>__ _v_ (chagrined) Cause to feel shame; hurt the pride of.  
@@ -2918,7 +2916,7 @@ __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weat
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
-__disparage__ _v_ :nine::hammer: (disparaged, disparaging)  
+__disparage__ _v_ :nine: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ :two::hammer:  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
@@ -5166,7 +5164,7 @@ __huckterism__
 __huddle<sup>1</sup>__ _n_ :two: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
 __huddle<sup>2</sup>__ _v_ :three: __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
 __Huey__  
-__huff__ _v_ :eight::hammer: (huffed, huffing)  
+__huff__ _v_ :eight: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
@@ -5501,7 +5499,7 @@ __jack it up__ _v_
 __jack-o'-lantern__  
 __jackhammer__  
 __jackpot__  
-__jade__ _v_ :nine::hammer: (jaded) _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
+__jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
 __jaded__ _adj_  
 __Jag__ Jaguar (car)  
 __jagged__ :two::hammer:  
@@ -6476,7 +6474,7 @@ __mindful__
 __mindset__ _n_  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
-__minnow__ _n_ :eight::hammer: (minnows)  
+__minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
 __minor__ _n_  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
