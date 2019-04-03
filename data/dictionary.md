@@ -1354,7 +1354,9 @@ __bunch<sup>2</sup>__ _v_ :camera::six::hammer: (bunched, bunching) _Organic bun
 __bunching socks__ :camera:  
 __bungalow__  
 __bungee cord__ _n_ :camera::three::hammer:  
+__bungee jumping__  
 __bungee rope__  
+__bungee running__  
 __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to frame a guilty man._  
 __bungler__ :two::hammer: _Upper-crust bunglers._  
 __bungling__ Spoil by incompetence.  
@@ -1647,6 +1649,7 @@ __catcalling__ _Some catcalling builders shouted abuse at him._
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
 __catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
+__catch some Zs__ _idiom_ To go to sleep, to take a nap.  
 __catch up__ _v_  
 __catch wind__ _I don't know if you caught wond of it._  
 __catch__ _n_ (game)  
@@ -1666,6 +1669,7 @@ __catwalk__ _n_ :two::hammer:
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian__  
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
+__caught with your pants down__ _idiom_ To be found in an embarrassing situation.  
 __caught__ :mute:[cau~~gh~~t]  
 __cauliflower steaks__ :camera:  
 __caulking__  
@@ -1974,7 +1978,7 @@ __clout<sup>2</sup>__ _v_
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
 __cloying__ _adj_ :four::hammer: _She is cordial without being cloying._  
 __Club Med__ _Club Med countries._  
-__club soda__  
+__club soda__ _n_ :two: A US name for soda water.  
 __cluck__  
 __clucking__ _Clucking chickens._  
 __clue__ :dart:  
@@ -2365,7 +2369,7 @@ __cramp__ _n_ :three::hammer: (cramps)
 __cramped__ _v_ :two::hammer:  
 __crank out__  
 __crank<sup>1</sup>__ _n_ :three::hammer: _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
-__crank<sup>2</sup>__ _v_ :two::hammer: _Cranked the engine._  
+__crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
 __crash course__  
@@ -2437,7 +2441,7 @@ __crop-duster__ _The crop-duster attack in North by Northwest._
 __crosbar__ _n_ _soccer_  
 __cross (oneself)__ :es: santiguarse  
 __cross someone's mind__ _It never crossed my mind._  
-__cross that bridge__  
+__cross that bridge when one comes to it__ _idiom_ :two: To delay dealing with a problem until it happens.  
 __cross word__ _No one heard her say a cross word about anyone else._  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
 __cross__ _v_ _They paled and crossed themselves._  
@@ -2554,6 +2558,7 @@ __cypress__ _n_ :astonished:
 __cytometry__  
 __D-ring inset__  
 __D'oh__ _slang_ Exclamation used when you realize that you did something stupid.  
+__D&D__  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :four::hammer: (dabbled, dabbling)  
@@ -2647,6 +2652,7 @@ __debunk__ _v_ :two::hammer:
 __debut__ :mute:[debu~~t~~]  
 __debutante__  
 __decaf__ Decaffeinated coffee.  
+__decal__ _n_  
 __decals__  
 __decamped__ _v_  
 __decant__ _v_  
@@ -3814,6 +3820,7 @@ __fizzle__ _v_ :three::hammer: (fizzled)
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
 __flab__ _n_ Body fat, soft loose flesh on a person's body.  
 __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
+__flabbergasted__ _adj_  
 __flaccid__ _adj_  
 __flag-stop service__  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
@@ -4738,7 +4745,7 @@ __handout__ _n_ :four::hammer: (handouts)
 __hands down__ _Hands down, best episode ever._  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
-__hands-off__ _The hands-off approach._  
+__hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
 __handsy__ _adj_ Prone to touching other people with one's hands, especially inappropriately.  
 __handyman__ _n_ :three::hammer:  
 __hanger__ _n_ _You left some hangers at my place._  
@@ -5402,7 +5409,8 @@ __injury time__
 __injury-marred__ _Federer had an injury-marred season._  
 __inkling__ _n_ :three::hammer:  
 __inland__  
-__inlays__ _n_ _Mother-of-pearl inlays._  
+__inlay<sup>1</sup>__ _v_  
+__inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
 __innards__ _v_ _The pictures adorn the innards of each chapter._  
 __innumerate__  
 __inobvious__  
@@ -5616,6 +5624,7 @@ __jumpers__
 __jumping jacks__  
 __jumpstart__ _v_ :three::hammer:  
 __jumpsuit__ _n_ :two::hammer:  
+__jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _Conjunction junctions._  
 __juncture__ _n_ :five: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
@@ -5715,7 +5724,7 @@ __kiwi__
 __kleptocracy__ :two::hammer:  
 __klutz__  
 __knack__ _n_ :two::mute:[~~k~~nack]:hammer:  
-__knackered__  
+__knackered__ _adj_ :two: Very tired, exhausted.  
 __knave__  
 __knavish__  
 __knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
@@ -5911,6 +5920,7 @@ __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A 
 __leeway__ _n_ :five: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg up__ _Area's 2 reigning congressmen have leg up on funding._  
+__leg warmer__ _n_  
 __legal tack__  
 __legerdemain__ _n_ :four::hammer:  
 __legion__ _The reasons you can't sleep well inflight are legion._  
@@ -5930,6 +5940,7 @@ __length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths i
 __lengthy__ _A lengthy period._  
 __leniency__ :two::hammer:  
 __lenient__ _adj_ :six: (leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
+__Lenny__ Diminutive of Leonard.  
 __lens__ _Lens design._  
 __lenses__ _n pl_  
 __lentils__ :es: lentejas  
@@ -6433,7 +6444,7 @@ __midriff__ :two::hammer:
 __midsize__  
 __midst__  
 __midswing__  
-__midwife__ :pencil2: Nurse trained to assist women in childbirth.  
+__midwife__ _n_ :two::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __might__ _n_ :two::hammer::mute:[mi~~gh~~t] _China's economic might._  
@@ -9416,6 +9427,7 @@ __sky high__
 __skylight__  
 __skyrocket__ _v_ :three::hammer:  
 __skywriting__  
+__SL,UT__ Abbreviation for Salt Lake City, Utah.  
 __slabs__ :two::hammer: _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
