@@ -5801,7 +5801,7 @@ __lain__
 __lair__ _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
 __lamb__ :mute:[lam~~b~~]  
-__lambast__ _v informal_ :nine::m: (also __lambaste__) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
+__lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::hammer: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  

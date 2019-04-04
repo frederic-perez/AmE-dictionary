@@ -35,8 +35,18 @@ def valid_use_of_underscores(entry):
     num_hits = \
         len(re.findall('__[a-zA-Z0-9>]+_[^_]', entry)) \
         + len(re.findall('[^_]_[a-zA-Z0-9>]+__', entry))
-    if num_hits > 0 or \
-        entry.count('___') > 0 or \
+    if num_hits > 0:
+        return False
+
+    num_possible_headwords = len(re.findall('__[a-zA-Z0-9>]+__', entry))
+    num_not_headwords = \
+        len(re.findall('__[0-9][a-z]*__', entry)) \
+        + len(re.findall('__[a-z]__', entry))
+    num_headwords = num_possible_headwords - num_not_headwords
+    if num_headwords > 1:
+        return False
+
+    if entry.count('___') > 0 or \
         entry.count('_') % 2 != 0 or \
         entry.count('_:es:') > 0:
         return False
