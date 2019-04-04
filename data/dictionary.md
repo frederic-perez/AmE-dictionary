@@ -414,6 +414,7 @@ __as it happens,__ _idiom_ :two: Coincidentally; surprisingly; as a matter of fa
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __as we speak__ _idiom_ At this very moment.  
+__as yet__ _idiom_ Up to the present time; up to now.  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascent__ :mute:[as~~c~~ent]  
@@ -767,7 +768,7 @@ __beggar__ _n_
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :three::hammer:  
 __begrudgingly__ :two::hammer:  
-__beguile__ _v_ :five::hammer: (beguiled, beguiling)  
+__beguile__ _v_ :six::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
@@ -1148,6 +1149,7 @@ __bottom-of-the-barrel__
 __boudin__ :two::hammer: _A length of white boudin in a saucer._  
 __bough__ _n_ :two::hammer (boughs)  
 __Bouncing Betty__  
+__bouncy house__ _n_  
 __bouncy__  
 __bountiful__  
 __bouquet__ _n_  
@@ -2379,7 +2381,8 @@ __craven__ :two::hammer: _A craven political figure._
 __crawl<sup>1</sup>__ _n_  
 __crawl<sup>2</sup>__ _v_ _They pretty much crawled my ass._  
 __crayon__ _n_  
-__crazed__  
+__craze<sup>1</sup>__ _v_ :two::hammer: (crazed)  
+__craze<sup>2</sup>__ _n_  
 __creak__ _v_ :three::hammer: (creaked)  
 __creakings__ _Door creakings._  
 __creaky__ _Creaky infrastructure._  
@@ -2685,7 +2688,7 @@ __DEET__ _Bug spray with DEET to ward off mosquitoes._
 __deface__ _v_ :two::hammer: _Defacing two murals._  
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __defanging__ _n_  
-__default__ _v_ :three::hammer: _The Solar Energy company defaulted._  
+__default__ _v_ :four::hammer: _The Solar Energy company defaulted._  
 __defect__ _v_ :five: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defective__ _adj_  
@@ -3835,7 +3838,7 @@ __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for d
 __flak vest__  
 __flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flaky__  
-__flamboyant__ _adj_ :three::hammer:  
+__flamboyant__ _adj_ :four::hammer:  
 __flameouts__  
 __flaming hair__  
 __flank<sup>1</sup>__ _n_  
@@ -4302,7 +4305,7 @@ __Generation Xers__
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
 __generic__ _A generic diet cola._  
-__genie__ _n_  
+__genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ :two::hammer:  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
@@ -5367,7 +5370,7 @@ __indictment__ _n_ :four::hammer:
 __indigenous__ _Indigenous people._  
 __indiscreet__  
 __indispensable__  
-__indolent__ _adj_ Very lazy.  
+__indolent__ _adj_ :two: Very lazy, slothful.  
 __indomitable__ :two::hammer: _Indomitable will._  
 __inducements__  
 __induct__  
@@ -5720,7 +5723,7 @@ __kitsch__
 __kitten__  
 __kiwi__  
 __kleptocracy__ :two::hammer:  
-__klutz__  
+__klutz__ :two::hammer:  
 __knack__ _n_ :two::mute:[~~k~~nack]:hammer:  
 __knackered__ _adj_ :two: Very tired, exhausted.  
 __knave__  
@@ -5756,8 +5759,8 @@ __KO<sup>2</sup>__ _v_ To knock unconscious, especially in a boxing match; knock
 __Kodiak__  
 __koi__ _v_  
 __kombucha__ _n_ _Ginger flavor kambucha._  
-__kook__ (kooky) :two::hammer:  
-__kooky__  
+__kook__ _n_ _slang_ :two::hammer:  
+__kooky__ _adj_ :two: Crazy, mentally unbalanced.  
 __Kool-Aid__  
 __Kosher salt__  
 __kosher__ _A kosher supermarket._  
@@ -6555,6 +6558,7 @@ __momentous__ _adj_ :two: Of great importance or significance, especially in hav
 __momentum__  
 __monad__  
 __Monday__ :mega: /'möndi, -deI/  
+__mondegreen__ _n_ :dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
 __money on the hoof__  
 __money pit__  
 __moneyed__  
@@ -6642,6 +6646,7 @@ __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, a
 __muckrake__  
 __mudcat__ _n_  
 __muddle__ _v_ :four: Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
+__muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mudslide__ _n_ :two::hammer:  
 __mudslinging__ :two::hammer:  
 __muff__ _She drew from her muff a pistol._  
@@ -6834,6 +6839,7 @@ __no jive__
 __no offense__  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no-holds-barred__  
+__no-no__ _n_ _informal_ :five::hammer:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -7574,7 +7580,8 @@ __pipehead__
 __pipeyard__  
 __piping__ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
-__pique__ _v_ :five::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
+__pique<sup>1</sup>__ _n_  
+__pique<sup>2</sup>__ _v_ :six::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
 __pit wagon__  
@@ -7708,6 +7715,7 @@ __poinsettia__ :pencil2:
 __Point is,__  
 __point-and-shoot camera__  
 __pointed questions__  
+__pointless__ _adj_  
 __poise__  
 __poke__ _v_  
 __poky__ :two::hammer: _Coverage was a little poky._  
@@ -9216,6 +9224,7 @@ __shoo-in__
 __shooing__ _v_  
 __shoot from the hip__ _idiom_  
 __shoot the breeze__ _informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
+__shoot the moon__ _v_ :three::hammer:  
 __shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
 __shoot-from-the-hip__  
@@ -10086,7 +10095,7 @@ __stodgy__ _The mainstream may sound too stodgy._
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
 __stolid__ :two::hammer:  
-__stomach__ _v_  
+__stomach__ _v_ :two::hammer:  
 __stomp__ _v_  
 __stomping__ _v_  
 __stone__ _n_ :three::hammer: _Lose a stone in four weeks._ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
@@ -11051,6 +11060,7 @@ __turkey stock__ :camera:
 __turmoil__  
 __turn around__ To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
+__turn on__ _phr v_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
 __turnaround__ _n_  
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
@@ -11317,7 +11327,8 @@ __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._
 __vagrant<sup>1</sup>__ _n_ :five: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_  
 __vague__ :mute:[vag~~u~~e]  
-__valedictorian__ _n_ :seven::hammer: (valedictorians)  
+__valedictorian<sup>1</sup>__ _n_ :eight::hammer: (valedictorians)  
+__valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
 __valentine__  
 __valiant<sup>1</sup>__ _adj_  
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
