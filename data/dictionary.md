@@ -7213,7 +7213,7 @@ __padding__ _v_ _Those who imagine slumber parties and members padding in their 
 __paddle__ _v_ :two::hammer: (paddled) _I got paddled at school._  
 __paddock__ _n_  
 __padlock__  
-__paean__ _n_ :eight::hammer: (paeans)  
+__paean__ _n_ :eight: (paeans) __1__ A happy song of praise, thanks, or victory. __2__ A fervent expression of joy or praise.  
 __pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
 __pagan<sup>2</sup>__ _adj_  
 __page__ _n_  
@@ -7310,7 +7310,7 @@ __parsnip__
 __parsonage__ :pencil2:  
 __part-time<sup>1</sup>__ _adj_  
 __part-time<sup>2</sup>__ _adv_  
-__partake__ _v_ :eight::hammer: (partaken, partaking)  
+__partake__ _v_ :eight: (partaken, partaking) __1__ (foll by in) to have a share; participate: _to partake in the excitement._ __2__ (Cookery) (foll by of) to take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __participatory__ _I wanted to be a participatory father._  
@@ -7805,7 +7805,7 @@ __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :three::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
-__pout__ _v_ :nine::hammer: (pouts, pouting) _Pouting session._  
+__pout__ _v_ :nine: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: The child's lips pouted.  
 __pouty__ _adj_  
 __pow-wow__  
 __powder blue__ Color?  
@@ -10011,7 +10011,7 @@ __statutory__
 __staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_  
 __staunchest__ :two::hammer:  
-__stave off__ _v_ :eight::hammer: (staved off)  
+__stave off__ _v_ :eight: (staved off) To keep or hold off; repel: _"For 12 years, we've sought to stave off this ultimate threat of disaster"._  
 __stave__ _v_  
 __staves__ _n_  
 __stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
