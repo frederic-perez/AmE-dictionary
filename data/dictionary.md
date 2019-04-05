@@ -10,6 +10,7 @@ __101__ Used to say that a piece of knowledge relating to something is very simp
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __20/20 vision__ _n_  
+__21__ _n_ Drinking game.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __800-pound gorilla__  
@@ -320,7 +321,7 @@ __anything goes__ :two::hammer:
 __apace__ _Concussion concerns continue apace._  
 __apalled__ _v_ :two::hammer:  
 __Apart from that,__  
-__apathetic__  
+__apathetic__ _adj_ :two::hammer:  
 __ape__ _v_  
 __aphorism__ :two::hammer:  
 __aping__  
@@ -1389,6 +1390,7 @@ __burp__ :two::hammer:
 __burpee__ _n_  
 __burqa__  
 __burr haircut__  
+__burr__ _n_  
 __burrhead__ _n_  
 __burrow<sup>1</sup>__ _n_ :four::hammer:  
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
@@ -1785,6 +1787,7 @@ __chenier__
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
 __chestnut__ :two::mute:[ches~~t~~nut]:hammer:  
+__chew the fat__ _idiom_ To chat or gossip.  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
 __chicanery__ The use of clever plans or actions to deceive people.  
@@ -2001,7 +2004,7 @@ __coach__ _You're flying coach._
 __coalesce__ _v_ :pencil2::three::hammer: (coalescing) :es: fundirse  
 __coast__ _v_  
 __coaster brakes__  
-__coat of arms__ _n_ :three::hammer: _The village coat of arms._  
+__coat of arms__ _n_ _Heraldry_ :four::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattails a little bit._  
 __cob__  
@@ -2650,6 +2653,7 @@ __debriefing__ _n_ :four::hammer: _You must show up at least 15 minutes early fo
 __debris__  
 __debt__ :mute:[de~~b~~t]  
 __debunk__ _v_ :two::hammer:  
+__deburr__ _v_  
 __debut__ :mute:[debu~~t~~]  
 __debutante__  
 __decaf__ Decaffeinated coffee.  
@@ -2693,6 +2697,7 @@ __defect__ _v_ :five: (defected) Abandon one's country or cause in favour of an 
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
+__defensive__ _You seem defensive now._  
 __defer__ _v_ :four::hammer:  
 __deference__ _n_ :four::hammer:  
 __deferential__  
@@ -3370,6 +3375,7 @@ __emo__ _adj_ :two::hammer:
 __emoji__ _n pl_  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
+__emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
 __Empire State__ The U.S. State of New York.  
 __Empress__  
 __empty box__ _The Etihad is the last empty box on his list._  
@@ -5123,7 +5129,7 @@ __horsetails__ _n_
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hoss__  
-__host__ _n_ :three: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
+__host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hot glue__  
 __hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot seat__  
@@ -6039,7 +6045,7 @@ __listen__ :mute:[lis~~t~~en]
 __listening session__  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
-__litany__ _n_ :four: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__litany__ _n_ :five: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate__ :two::hammer:  
 __lithe__ :two::hammer:  
@@ -6528,7 +6534,7 @@ __misuse__ _v_ :two::hammer: _It results in code that is easier to understand an
 __mitigate__ _v_  
 __mitt__ _n_  
 __mitzvah__  
-__mix-up__ _n_  
+__mix-up__ _n_ :two::hammer:  
 __mixed bag__ :three::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __MLK__  
@@ -7202,6 +7208,7 @@ __Pacific Basin__ _Pacific Basin nations._
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
 __pack__ _v_ :two::hammer: _Never pack items like medicine or valuables._  
 __package deal__  
+__package__ _n_ :mega: /păk′ĭj/  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle__ _v_ :two::hammer: (paddled) _I got paddled at school._  
 __paddock__ _n_  
@@ -7359,7 +7366,7 @@ __payback__
 __paydirt__ :two::hammer:  
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
-__paywalls__  
+__paywall__ _n_ :three: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
 __PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
@@ -7415,7 +7422,7 @@ __pensive__ _v_ :two::hammer:
 __pensively__  
 __pent-up__  
 __pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
-__peoples__ (?)  
+__peoples__ _pl n_ :two: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pep<sup>2</sup>__ _v_ (pepping)  
@@ -7481,6 +7488,7 @@ __pharmaceutical__ :mega: (fär′mə-so͞o′tĭ-kəl)
 __phase out__  
 __phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
+__phew__ _interj_ Used to express relief, fatigue, surprise, or disgust.  
 __philanderer__  
 __philandering__  
 __Philly__ _n_ :three: Philadelphia  
@@ -10580,7 +10588,7 @@ __tentative__
 __tenuous__ :two::hammer:  
 __tenure__  
 __tenured__  
-__tepid__ _adj_ :four::hammer:  
+__tepid__ _adj_ :five::hammer:  
 __tequila poppers__  
 __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
@@ -10882,6 +10890,7 @@ __touchy__ _adj_ :two::hammer:
 __tough cookie__ _n_ :three: A very determined person.  
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
+__toupee__ _n_  
 __tourney__  
 __tousle__ _v_  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
@@ -11097,6 +11106,7 @@ __tweak<sup>1</sup>__ _n_ :three::hammer: (tweaks)
 __tweak<sup>2</sup>__ _v_  
 __tweed__  
 __tweeny-weeny__  
+__twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
 __twice as good__ _They took "twice as good as a challenge._  
 __twiddle__ _v_  
 __twin rooms__  
@@ -11575,12 +11585,14 @@ __wedhe issue__
 __wedlock__ :two::hammer:  
 __Wednesday__ :mega: /'wEnzdi, -deI/  
 __wee__ _adj_ :three: _chiefly Scot_ Very small. _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
+__weed out__ _phr v_ :dart: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
 __weekend__ _n_  
 __weevil__ :two::hammer: _Weevil worms._  
 __weevils__  
+__weigh down__ _idiom_ To make someone heavy and unable to move easily.  
 __weigh__ _v_ :two::mute:[wei~~gh~~] :es: sopesar?  
 __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
 __weighty__ _His weighty agenda._  
