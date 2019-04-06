@@ -1,4 +1,17 @@
 
+__rug rat__ _n_ A young child, a toddler.  
+__Mandy__ Diminutive form of Amanda.  
+__work off__ _phr v_ To get rid of something by using physical effort.  
+__far cry (from something)__ _idiom_ A thing that is very different from something else.  
+__work on__ _phr v_ To spend time or improving something.  
+__a drop in the bucket__ A very small amount when compared to something else.  
+__play down something__ _phr v_ To make something seem less important than it is.  
+__wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
+__librocubicularist__ _n_ A person who reads in bed.  
+__scrummy__ _adj_ Very delicious.  
+__to see red__ _idiom_ Very angry.  
+__follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
+
 __give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __storey__ _n_ _BrE_ Variant of story.  
 __sire<sup>1</sup>__ _n_  
