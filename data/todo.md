@@ -1,4 +1,25 @@
 
+__give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
+__storey__ _n_ _BrE_ Variant of story.  
+__sire<sup>1</sup>__ _n_  
+__sire<sup>2</sup>__ _n_  
+__wormhole__ _n_ :two::hammer:  
+__exacerbate__ _v_  
+__as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
+__litany__ _n_  
+__flagellation__ _n_  
+__ostracize__ _v_ :pencil2:  
+__throw (someone) under the bus__ _idiom_  
+__beholden__ _adj_ Owing something, such as gratitude, to another; indebted.  
+__impending__ _adj_  
+__peruse__ _v_  
+__catch-all__ _n_  
+__swipe__ _v_ Swipe is a comics term for the intentional copying of a cover, panel, or page from an earlier comic book or graphic novel without crediting the original artist.  
+__vernacular__ _n_  
+__kick the crap out of (someone)__ _idiom_  
+__alienate__ _v_  
+__vista__ _n_  
+
 __knock__ :mute:[~~k~~nock]  
 __knot__ :mute:[~~k~~not]  
 __know__ :mute:[~~k~~now]  
