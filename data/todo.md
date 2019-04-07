@@ -1,4 +1,14 @@
 
+__ethereal__ _adj_  
+__second-guess__ _v_  
+__keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
+__tinker__ _v_ :two::hammer:  
+__camp__ _n_  
+__ins and outs__ _pl n_  
+__go south__ _idiom_  
+__workshop__ _v_ :two::hammer:  
+__weed out__ _phr v_ _Weed out bad people._  
+
 __answer__ :mute:[ans~~w~~er]  
 __greenwich__ :mute:[green~~w~~ich]  
 __sword__ :mute:[s~~w~~ord]  
