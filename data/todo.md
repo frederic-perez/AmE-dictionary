@@ -1,4 +1,13 @@
 
+__answer__ :mute:[ans~~w~~er]  
+__greenwich__ :mute:[green~~w~~ich]  
+__sword__ :mute:[s~~w~~ord]  
+__two__ :mute:[t~~w~~o]  
+__who__ :mute:[~~w~~ho]  
+__whole__ :mute:[~~w~~hole]  
+__wrap__ :mute:[~~w~~rap]  
+__wrath__ :mute:[~~w~~rath]  
+
 __rug rat__ _n_ A young child, a toddler.  
 __Mandy__ Diminutive form of Amanda.  
 __work off__ _phr v_ To get rid of something by using physical effort.  
