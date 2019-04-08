@@ -1524,7 +1524,7 @@ __Cambodia__
 __cameleer__  
 __camellia__  
 __camo__  
-__camp__ :two::hammer: _The Pacquiao camp did not object._  
+__camp__ _n_ :three::hammer: _The Pacquiao camp did not object._  
 __campaign__ :mute:[campai~~g~~n]  
 __camper shell__  
 __camper__ :two::hammer:  
@@ -3488,6 +3488,7 @@ __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate
 __ETA__ _I believe we have an ETA of six days._  
 __etch__ _v_ :three::hammer: (etched)  
 __etchings__  
+__ethereal__ _adj_  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiquette__  
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
@@ -3503,6 +3504,7 @@ __every cloud has a silver lining__ Be optimistic, even difficult times will lea
 __every man for himself__ :dart:  
 __every other week__ :two::hammer: _We don't win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
+__every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every so often__  
 __evict__ _v_ :nine: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ :two::hammer:  
@@ -3707,7 +3709,7 @@ __fence-sitter__ _n_
 __fencers__ _n_  
 __fend off__ _v_ :three::hammer:  
 __fend__ _v_ (fending)  
-__fender bender__ :two::hammer: _Stranded by a fender bender._  
+__fender bender__ _idiom_ :three: A little car accident. _Stranded by a fender bender._  
 __fennel__ :two::hammer:  
 __fenny__ _A fenny marsh._  
 __fenugreek__  
@@ -3965,7 +3967,7 @@ __flutter<sup>1</sup>__ _v_ :seven: (fluttered, flutters, fluttering) __1__ To w
 __flutter<sup>2</sup>__ _n_  
 __fluttering__ _n_  
 __fly high__  
-__fly in the ointment__ A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
+__fly in the ointment__ _idiom_ :two: A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ _idiom_ To lose self control, to get very angry.  
 __fly on the wall__  
 __fly-by-night__  
@@ -4434,7 +4436,7 @@ __go native__ _You going native on me, Supercop?_
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go over the top__  
 __go over the wire__  
-__go south__ _idiom_ :five::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
+__go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
 __go to the dogs__  
 __go to the wire__  
@@ -5429,7 +5431,7 @@ __inquisitive__ _adj_
 __inquisitiveness__  
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __inroads__ _n_ :three::hammer:  
-__ins and outs__  
+__ins and outs__ _pl n_ :two::hammer:  
 __inscrutable__ _adj_ :three::hammer:  
 __inset__ :two::hammer:  
 __insidious__  
@@ -5660,6 +5662,7 @@ __Katy__ _Got to figure the Red Rifle extracts some revenge on the team he follo
 __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
+__keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
@@ -5731,7 +5734,7 @@ __kiwi__
 __kleptocracy__ :two::hammer:  
 __klutz__ :two::hammer:  
 __knack__ _n_ :two::mute:[~~k~~nack]:hammer:  
-__knackered__ _adj_ :two: Very tired, exhausted.  
+__knackered__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
 __knave__  
 __knavish__  
 __knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
@@ -8736,7 +8739,7 @@ __ruefully__ _adv_ :four::hammer:
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
-__rug__ _n_  
+__rug__ _n_ :two: Hairpiece, chignon.  
 __rugged__ _He was red carded for a rugged foul._  
 __rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
@@ -8903,7 +8906,9 @@ __scarce__ :two::hammer:
 __scarcely__ :astonished: _The executioner seemed scarcely older than Rob._  
 __scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.  
 __Scarlett__ (vs scarlet) A female given name transferred from the surname; in general use since 1936.  
+__scarper__ _n_ A hasty departure.  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
+__scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattershot__ :two::hammer:  
 __scenario__ :mute:[s~~c~~enario]  
 __scene__ :mute:[s~~c~~ene]  
@@ -9020,7 +9025,7 @@ __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazona
 __seawall__  
 __seaweed__ :two::hammer:  
 __second nature__  
-__second-guess__ _v_ :six::dart: (second-guessing)  
+__second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ _n_ :three: something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secular__ :two::hammer:  
@@ -10762,7 +10767,7 @@ __tinge__ :two::hammer:
 __tingle__ _v_ :five: (tingled, tingling) Cause a stinging or tingling sensation.  
 __tingles__ _I'm all tingles and shakes._  
 __tink__ _v_  
-__tinker__ _v_  
+__tinker__ _v_ :three::hammer:  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
 __tip off__ _v_ _idiom_ :two: (tip-off) To secretly inform the police or authorities.  
@@ -11585,7 +11590,7 @@ __wedhe issue__
 __wedlock__ :two::hammer:  
 __Wednesday__ :mega: /'wEnzdi, -deI/  
 __wee__ _adj_ :three: _chiefly Scot_ Very small. _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
-__weed out__ _phr v_ :dart: To get rid of unwanted things or people from a group.  
+__weed out__ _phr v_ :dart::two: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
@@ -11820,11 +11825,12 @@ __wordplay__
 __wordsmith__ _v_ :two::hammer:  
 __work as planned__  
 __work my tail of__  
+__work out__ _phr v_ To find the answer or solution.  
 __workaday__  
 __workforce__  
 __working title__  
 __workmanlike__  
-__workshop__ _v_ :astonished: (workshopped)  
+__workshop__ _v_ :three::astonished::hammer: (workshopped)  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
 __worrisome__ _adj_ :three::hammer:  
@@ -11839,6 +11845,7 @@ __wracking__ _v_
 __wraith__  
 __wrangle__ _v_ :two::hammer: (wrangling)  
 __wrap one's head around it__ :two::hammer: _I'm trying to wrap my head around it._  
+__wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
 __wraparound season__  
 __wreak havoc__ :two::hammer:  
 __wreaked havoc__  

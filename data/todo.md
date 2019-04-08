@@ -1,24 +1,4 @@
 
-__rug__ _n_ Hairpiece, chignon.  
-__work out__ _phr v_ To find the answer or solution.  
-__fender bender__ _idiom_ A little car accident.  
-__knackered__ _BrE_ _slang_ Very tired; exhausted.    
-__wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
-__fly in the ointment__ _idiom_ Someone or something that spoils a good situation.  
-__scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
-__every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
-__scarper__ _n_ A hasty departure.  
-
-__ethereal__ _adj_  
-__second-guess__ _v_  
-__keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
-__tinker__ _v_ :two::hammer:  
-__camp__ _n_  
-__ins and outs__ _pl n_  
-__go south__ _idiom_  
-__workshop__ _v_ :two::hammer:  
-__weed out__ _phr v_ _Weed out bad people._  
-
 __answer__ :mute:[ans~~w~~er]  
 __greenwich__ :mute:[green~~w~~ich]  
 __sword__ :mute:[s~~w~~ord]  
