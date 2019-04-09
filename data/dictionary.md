@@ -15,7 +15,7 @@ __35-degree day__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __800-pound gorilla__  
 __a bird in the hand is worth two in the bush__  
-__a drop in the bucket__  
+__a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
 __A/C__ (air conditioned?)  
@@ -305,6 +305,7 @@ __annuity__ (annuities) :two::hammer:
 __annum__ _n_  
 __anomic__  
 __anorak__ _n_ :two::hammer:  
+__answer__ :mute:[ans~~w~~er]  
 __ante__ _n_ :four::hammer: _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
 __anthology__  
@@ -3645,7 +3646,7 @@ __fannies__
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
-__far cry__ _n_ :seven::hammer: _It is a far cry from the 1970s._  
+__far cry (from something)__ _n_ _idiom_ :eight: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :four::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
@@ -3986,6 +3987,7 @@ __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fo
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
 __folk__ _n_ _n pl_ :four::hammer::mute:[fo~~l~~k]  
+__follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
 __follow suit__ _idiom_ :four: To do as another has done; follow an example.  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __FOMO__  
@@ -4556,6 +4558,7 @@ __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._
 __greener pastures__  
 __greenhorn__  
 __greenhouse__ :two::hammer:  
+__greenwich__ :mute:[green~~w~~ich]  
 __griddle__  
 __gridiron__ _n_ :seven: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
 __gridlock__  
@@ -5984,6 +5987,7 @@ __libation__
 __libations__ _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
+__librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :five: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
 __lichen__ _n_ :mega:  
@@ -6262,6 +6266,7 @@ __mandalas__ _n_
 __Mandan man__  
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
+__Mandy__ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion's mane._  
 __maneuver__ :two::hammer:  
 __manger__  
@@ -7651,6 +7656,7 @@ __platypus__ _Internet platypus pranks._
 __plaudits__  
 __play ball__  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
+__play down something__ _phr v_ To make something seem less important than it is.  
 __play havoc__  
 __play it safe__ _v_ :four::hammer: (play safe)  
 __play second fiddle__  
@@ -8739,6 +8745,7 @@ __ruefully__ _adv_ :four::hammer:
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
+__rug rat__ _n_ A young child, a toddler.  
 __rug__ _n_ :two: Hairpiece, chignon.  
 __rugged__ _He was red carded for a rugged foul._  
 __rule of law__ _n_ :four::hammer:  
@@ -8987,6 +8994,7 @@ __scrub__ _v_ :two::hammer:
 __scrubbers__ _n_  
 __scruffy__ _adj_ :eight::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
+__scrummy__ _adj_ Very delicious.  
 __scrumptious__  
 __scrunched__ (scrunching) :two::hammer:  
 __scrupulously__  
@@ -10410,6 +10418,7 @@ __swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop o
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swooshing__  
+__sword__ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
 __syllogism__ :two::hammer:  
 __sympathetic__  
@@ -10804,6 +10813,7 @@ __to hell and back__ :two::hammer:
 __to hell__  
 __to his name__ _Bernie died with $1.09 to his name._  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
+__to see red__ _idiom_ Very angry.  
 __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that effect__  
 __to that end__ :two::hammer: (to that end,)  
@@ -11125,6 +11135,7 @@ __twit__ _The damned last boy was a twit._
 __twitch<sup>1</sup>__ _n_  
 __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
+__two__ :mute:[t~~w~~o]  
 __two-fold__ _adj_  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
@@ -11696,9 +11707,11 @@ __whitewash__ _v_ :four::hammer:
 __whithered__  
 __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizzing__  
+__who__ :mute:[~~w~~ho]  
 __whodunit__ _n_ :two: A detective story.  
 __whole milk__  
 __whole nine yards, the__  
+__whole__ :mute:[~~w~~hole]  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::hammer:  
 __wholesome__ :two::hammer:  
@@ -11826,6 +11839,8 @@ __wordplay__
 __wordsmith__ _v_ :two::hammer:  
 __work as planned__  
 __work my tail of__  
+__work off__ _phr v_ To get rid of something by using physical effort.  
+__work on__ _phr v_ To spend time or improving something.  
 __work out__ _phr v_ To find the answer or solution.  
 __workaday__  
 __workforce__  
@@ -11847,7 +11862,9 @@ __wraith__
 __wrangle__ _v_ :two::hammer: (wrangling)  
 __wrap one's head around it__ :two::hammer: _I'm trying to wrap my head around it._  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
+__wrap__ :mute:[~~w~~rap]  
 __wraparound season__  
+__wrath__ :mute:[~~w~~rath]  
 __wreak havoc__ :two::hammer:  
 __wreaked havoc__  
 __wreath-lying__ _?_ :pencil2:  
@@ -11858,6 +11875,7 @@ __wrecking ball__
 __wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrenching__ _adj_ _A wrenching prospect._  
+__wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
 __wrestle__ :mute:[wres~~t~~le]  
 __wretch__ _n_ :two::hammer: _The lowliest wretch among them._  
 __wretched__  
