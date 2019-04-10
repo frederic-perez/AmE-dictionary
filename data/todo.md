@@ -1,26 +1,4 @@
 
-__high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
-__contrite__ _adj_  
-__googol__ _n_  
-__googolplex__ _n_  
-__dope__ _adj_ _informal_ Very good. _He is dope._  
-__hardware__ _n_  
-__disparaging__ _adj_  Insulting, ridiculing.  
-__counselor__ _n_  
-__pissy__ _adj_ _slang_ _vulgar_  Irritable; cranky.  
-__bonkers__ _adj_ _informal_ Crazy.  
-__careen__ _v_  
-__rusty-dusty__  _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
-__cut ties__  
-__abyss__  
-__machinery__ :mega:  
-__plague<sup>1</sup__ _n_  
-__plague<sup>2</sup__ _v_  
-__detergent<sup>1</sup__ _n_  
-__detergent<sup>2</sup__ _adj_  
-__parley<sup>1</sup__ _n_  
-__parley<sup>2</sup__ _v_  
-
 __give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __storey__ _n_ _BrE_ Variant of story.  
 __sire<sup>1</sup>__ _n_  

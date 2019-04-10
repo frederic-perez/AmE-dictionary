@@ -56,7 +56,7 @@ __abutted__
 __abutting__ _Bungalows abutting._  
 __abuzz__ :two::hammer:  
 __abysmal__  
-__abyss__ _n_ :astonished::mega::five:  
+__abyss__ _n_ :astonished::mega::six:  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accoitrements__  
 __accolade__ _n_ :four: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
@@ -1091,7 +1091,7 @@ __bone__ :two::hammer: _Another bone of contention._ _I have a bone to pick with
 __bonfire__  
 __bonged__ _v_  
 __bonked__ _v_ _The stadium lights bonked out._  
-__bonkers__ _adj_ _informal_ :three::hammer: _That's bonkers!_  
+__bonkers__ _adj_ _informal_ :four: Crazy. _That's bonkers!_  
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ :mega: /bō′nəs/  
@@ -2222,7 +2222,7 @@ __contract__ _v_ _Contract the disease._
 __contractor__ _n_  
 __contrarian__  
 __contretemps__  
-__contrite__ _adj_ :three::hammer:  
+__contrite__ _adj_ :four::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :three::hammer:  
 __contrive__ _v_ (contriving)  
@@ -2312,6 +2312,7 @@ __could__ :mute:[cou~~l~~d]
 __coulee__  
 __councilor__ _n_  
 __counsel__  
+__counselor__ _n_  
 __count your blessings__ _idiom_ :three: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance__ :two::hammer: _His countenance was pale and sunken._  
@@ -2548,7 +2549,7 @@ __customer > tough customer__ Someone who is difficult to deal with. _Walt is a 
 __customs__ _n_ (at airport)  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut me a little slack__  
-__cut ties__  
+__cut ties with (someone)__ _idiom_ :two::hammer:  
 __cut-and-dry task__  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlets__ _Chicken cutlets._  
@@ -2794,7 +2795,8 @@ __destitute__ _adj_ Very poor.
 __detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
-__detergent__ _Liquid laundry detergent._  
+__detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._  
+__detergent<sup>2</sup__ _adj_  
 __deterrence__ :two::hammer:  
 __deterrent__ _n_ :eight: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
@@ -2927,6 +2929,7 @@ __dismayed__ _v_ _The proposal has dismayed the Canadian government._
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
 __disparage__ _v_ :nine: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ :two::hammer:  
+__disparaging__ _adj_ Insulting, ridiculing.  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
 __dispel__ _v_ :five::hammer: (dispelled)  
@@ -3032,6 +3035,7 @@ __doorman building__ _n_
 __doormat__  
 __doorpost__  
 __doozy__ _adj informal_ :three: Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
+__dope__ _adj_ _informal_ Very good. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :two: __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
@@ -4483,6 +4487,8 @@ __goody-goody__ _Goody-goody expressions._
 __Goodyear, Charles__  
 __gooey__ _adj_ :four: Soft and sticky. _Gooey butter cake._  
 __goof__ _v_ _Goofing around._  
+__googol__ _n_  
+__googolplex__ _n_  
 __gooks__ _n_  
 __goomey__  
 __goose chase__ _A global goose chase._  
@@ -4798,6 +4804,7 @@ __hardly ever__
 __hardpan__ :two::hammer: _Hardpan dirt yards._  
 __hardscrabble__ _Hardscrabble journeys._  
 __hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
+__hardware__ _n_  
 __hardwood__ :two::hammer: _The hardwood floor._  
 __hardy__  
 __harebrained__  
@@ -4981,6 +4988,7 @@ __high places__ _I've friends in high places._
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _idiom_ Someone who gambles with large amounts of money.  
 __high street__ _n_ _British informal_ :three::hammer:  
+__high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
 __high__ :mute:[hi~~gh~~]  
 __high-fly__ _v_  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
@@ -6208,6 +6216,7 @@ __macaroon__
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
 __Mach number__ :pencil2:  
+__machinery__ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __mackerel__ :two::hammer:  
 __mackinaw__  
@@ -7304,6 +7313,8 @@ __paring__
 __parishioner__  
 __parkour__  
 __parlay__ _v_ :four::hammer: (parlayed)  
+__parley<sup>1</sup__ _n_  
+__parley<sup>2</sup__ _v_  
 __parliament__ :pencil2::two::hammer:  
 __parlor__  
 __parochial__ :two::hammer:  
@@ -7600,6 +7611,7 @@ __pique<sup>1</sup>__ _n_
 __pique<sup>2</sup>__ _v_ :six::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
+__pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
 __pit<sup>2</sup>__ _v_ :two::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
@@ -7630,6 +7642,8 @@ __placeholder__
 __placemats__ _n_  
 __placid__  
 __placket__  
+__plague<sup>1</sup__ _n_  
+__plague<sup>2</sup__ _v_  
 __plaid__ :two::hammer: _Plaid number._ _Plaid shirt._  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
@@ -8779,6 +8793,7 @@ __ruptured__ _v_ _He ruptured his Achilles._
 __ruse__ _n_ :four::hammer: (ruses)  
 __rustle up__ _v_  
 __rustle__ _v_ :five::mute:[rus~~t~~le]:hammer: (rustled, rustling) _To rustle up a dinner for 12._  
+__rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ :two::hammer: _Some guy with rut for brains._  
 __RV pads__  
 __RV__  
