@@ -29,6 +29,7 @@ I also gather interesting stuff from a myriad of podcasts, including:
 - I Am Rapaport, hosted by Michael Rapaport
 - ID10T, hosted by Chris Hardwick
 - Last Week On Earth, hosted by Ben Gleib
+- Murder Book, hosted by Michael Connelly
 - StartTalk, hosted by Neil deGrasse Tyson, with various comic and celebrity co-hosts 
 - This American Life, hosted by Ira Glass
 
