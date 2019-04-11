@@ -210,7 +210,7 @@ __alembic__ _n_
 __Aleut__ _n_  
 __alfresco__ _It had two small terraces for alfresco dining._  
 __algae__ _n_  
-__alienate__ _v_ :eight: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
+__alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
 __all in all,__ _phr_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
@@ -409,6 +409,7 @@ __artifact__ _n_ :two::hammer:
 __artifacts__  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
+__as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
 __as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it gets__ :two::hammer:  
@@ -776,7 +777,7 @@ __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ So
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn't get the basics in primary school, they are way behind the eight ball.  
 __behold__ _v_ :three::hammer: _The wedding ceremony was a joy to behold._  
-__beholden__ _adj_ :eight: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
+__beholden__ _adj_ :nine: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :four::hammer:  
 __beige book__ ?  
@@ -1659,6 +1660,7 @@ __catch up__ _v_
 __catch wind__ _I don't know if you caught wond of it._  
 __catch__ _n_ (game)  
 __Catch-22__ _It's a real Catch-22 situation._  
+__catch-all__ _n_  
 __catch-up schedule__  
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
@@ -3518,7 +3520,7 @@ __eviscerate__ _v_
 __evolve__ _v_  
 __ewer__ _n_  
 __ewes__ _n_  
-__exacerbate__ _v_ :seven: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__exacerbate__ _v_ :eight: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceedingly__  
 __excess__ :two::hammer: _He's raised or spent in excess of $5,000 on political activity._  
@@ -3839,6 +3841,7 @@ __flaccid__ _adj_
 __flag-stop service__  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
+__flagellation__ _n_  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :two::hammer: _A flagrant foul._  
@@ -4389,6 +4392,7 @@ __give and take__ _Love don't come easy. It's a game of give and take._
 __give in__ _I'm never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __give or take__ _idiom_ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
+__give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __glad-hand__ _v_  
@@ -5295,7 +5299,7 @@ __impeccably__ :two::hammer:
 __impede__ _v_ :four::hammer: (impeded)  
 __impediment__  
 __impedimenta__ _n_  
-__impending__ _adj_ :nine: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
+__impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__  
 __impermissible__ :two::hammer:  
@@ -5699,6 +5703,7 @@ __kick board__ _n_ (swimming) :camera:
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick sand in the air__  
 __kick the bucket__  
+__kick the crap out of (someone)__ _idiom_  
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children's game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
 __kickback schemes__  
@@ -6060,7 +6065,7 @@ __listen__ :mute:[lis~~t~~en]
 __listening session__  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
-__litany__ _n_ :five: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__litany__ _n_ :six: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate__ :two::hammer:  
 __lithe__ :two::hammer:  
@@ -7096,7 +7101,7 @@ __oscillating fan__
 __ossified__ _v_ :two::hammer:  
 __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostracism__ _n_  
-__ostracize__ _v_  
+__ostracize__ _v_ :two::pencil2::hammer:  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
@@ -7483,7 +7488,7 @@ __persona__ In Latin, _persona_ originally meant "mask." _That's my stage person
 __perspiration__  
 __pertussis__  
 __perusal__ _n_  
-__peruse__ _v_  
+__peruse__ _v_ :two::hammer:  
 __Peruvian__  
 __pervasive__ _adj_ :three::hammer:  
 __pesky__  
@@ -9411,7 +9416,8 @@ __singletree__ _Singletree plow._
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
-__sire__ _v_ :two::hammer: (sired) _Another colt sired by him._  
+__sire<sup>1</sup>__ _n_  
+__sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
 __Sisyphean__  
 __sit in__ _I'm sitting in for Ira Glass._  
 __sit__ _v_ _Stop sitting on the bull._  
@@ -10152,6 +10158,7 @@ __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we m
 __stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
 __storeful__  
+__storey__ _n_ _BrE_ Variant of story.  
 __storied__ _Storied market._  
 __storks__  
 __storm surge__ :two::hammer:  
@@ -10421,7 +10428,8 @@ __swindle<sup>1</sup>__ _n_
 __swindle<sup>2</sup>__ _v_ :two::hammer:  
 __swindler__ _n_ :three::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
-__swipe__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
+__swipe<sup>1</sup>__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
+__swipe<sup>2</sup>__ _v_ Swipe is a comics term for the intentional copying of a cover, panel, or page from an earlier comic book or graphic novel without crediting the original artist.  
 __swish__ _To swish a three-pointer._  
 __swishing__ _Swishing sound._  
 __switch__ (twitch?)  
@@ -10707,6 +10715,7 @@ __throttling__ _Throttling the Philadelphia Eagles._
 __through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
 __through thick and thin__ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
+__throw (someone) under the bus__ _idiom_  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
 __throw away__ To get rif of something that you no longer want.  
@@ -11432,7 +11441,7 @@ __vermicelli__
 __vermillion__  
 __vermin__ _n_ :four::hammer:  
 __vermouth__ _n_  
-__vernacular__ _n_ :three::hammer:  
+__vernacular__ _n_ :four::hammer:  
 __vertical farm__  
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
@@ -11471,7 +11480,7 @@ __viper__ _n_ :two::hammer: (vipers)
 __virtually__ _adv_ :astonished: Practically, almost.  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
-__vistas__  
+__vista__ _n_ :two::hammer: (vistas)  
 __vital__ _adj_  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
@@ -11864,6 +11873,7 @@ __workmanlike__
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
+__wormhole__ _n_ :two::hammer:  
 __worrisome__ _adj_ :three::hammer:  
 __worrywarts__  
 __worshiper__  
