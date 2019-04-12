@@ -1,4 +1,30 @@
 
+__alacrity__ _n_ _syn_ willingness  
+__gosling__ _n_ __1__ A young goose. __2__ A naive or inexperienced young person.  
+__killjoy__ _n_ One who spoils the enthusiasm or fun of others. _syn_ wet blanket  
+__con__ _v_ _Now Biff, don't con me!_  
+__lemming__ _n_  
+__GDP__ _abbr_ Gross domestic product.  
+__fault__ _v_  
+__sliver__  
+__Lent__ _n_ :es: cuaresma  
+__raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
+__dissemble__ _v_  
+__lionhearted__ _adj_  
+__tow truck__ _n_  
+__in tow__ _idiom_  
+__pinky__ _n_ Little finger.  
+__dress to the nines__ _idiom_ Wearing very fashionable or expensive clothes.  
+__posh__ High-class, aristocratic.  
+__drop the ball__ _idiom_ To make a mistake, to fail.  
+__wipe out__ _phr v_ To murder or kill.  
+__wise up__ _phr v_ To start to understand a situation.  
+__petty cash__ Small amount of cash available for everyday expenses.  
+__trickle-down theory__ _n_ 
+__knee-jerk__  
+__morale__ _n_  
+__libation__ _n_  
+
 __butt<sup>1</sup__ _v_  
 __butt<sup>2</sup__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
 __noodle__ _n_ Brain. _Use your noodle._  
