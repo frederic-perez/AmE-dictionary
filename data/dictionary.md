@@ -123,6 +123,7 @@ __adorn__ _v_ _The pictures adorn the innards of each chapter._
 __adroit__  
 __adroitly__  
 __adulation__  
+__adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :six::mega::hammer:  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
@@ -2244,6 +2245,7 @@ __cooing__ _n_
 __cook-off__  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
+__cool (one's) heels__ _idiom_ To wait, sometimes so that one becomes calmer or more composed.  
 __cool your jets__  
 __coonass__ :two::hammer: (coonasses)  
 __coop__ _To fly the coop._  
@@ -2944,6 +2946,7 @@ __disquiet__
 __disquisitition__ :pencil2:  
 __disrupt__ _v_ :two::hammer: _A Trump supporter disrupted a Broadway musical._  
 __dissatisfaction__ :two::hammer:  
+__dissatisfied__ _adj_ :pencil2:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __disseminate__ _v_  
@@ -4005,6 +4008,7 @@ __food-handler's permit__
 __foodie__ _A foodie and a friend._  
 __foodstuffs__  
 __fool's errand__ :two::hammer: _It would be a fool's errand for anyone inside the party to primary him._  
+__fool's game__  
 __fool's gold__  
 __fool<sup>1</sup>__ _n_  
 __fool<sup>2</sup>__ _v_ _Don't fool yourself--that's phony bullshit._  
@@ -4762,12 +4766,14 @@ __hand blender__ _n_
 __handglider__  
 __handily__  
 __handiwork__ :two::hammer:  
+__handkerchief__ :mute:[han~~d~~kerchief]  
 __handoff__  
 __handout__ _n_ :four::hammer: (handouts)  
 __hands down__ _Hands down, best episode ever._  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
+__handsome__ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one's hands, especially inappropriately.  
 __handyman__ _n_ :three::hammer:  
 __hanger__ _n_ _You left some hangers at my place._  
@@ -4881,6 +4887,7 @@ __headdress__ _n_ :two::hammer: _The pharaoh's headdress._
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
 __heads up__  
+__headshot__ _n_ :dart:  
 __headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
@@ -5422,7 +5429,7 @@ __infomercial__ _n_
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
-__ingrained__ :two::hammer: _Speeding is deeply ingrained in American culture._  
+__ingrained__ _adj_ :three::hammer: _Speeding is deeply ingrained in American culture._  
 __ingratiate__ _v_ :three::hammer:  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
@@ -5765,17 +5772,20 @@ __knit tie__
 __knit__ _v_ :three::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
 __knock someone's socks off__  
-__knock__ _n_  
+__knock__ _n_ :mute:[~~k~~nock]  
 __knock-knock joke__  
 __knockout__ _A knockout series._  
 __knockout<sup>1</sup>__ _n_  
 __knockout<sup>2</sup>__ _adj_  
 __knockusing__  
 __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
+__knot__ :mute:[~~k~~not]  
 __knotty__  
 __know better__ _But I knew better._  
 __know the ropes__ _idiom_ To know how to do a job or task properly.  
+__know__ :mute:[~~k~~now]  
 __knuckle duster__ _Thugs armed with a knuckle duster._  
+__knuckle__ :mute:[~~k~~nuckle]  
 __knuckleball__ :two::hammer:  
 __knuckler__ :two::hammer: (knucklers)  
 __knurled__ _v_ :two::hammer:  
@@ -6031,7 +6041,7 @@ __like hell__
 __likelier__  
 __likelihood__ _n_ :astonished: Probability.  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
-__likewise__  
+__likewise__ _adv_ :two::hammer:  
 __lilac tree__  
 __lilac__ :two::hammer:  
 __limb__ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
@@ -8862,6 +8872,7 @@ __sandbag__ :two::hammer: (sandbags)
 __sandlot__  
 __sandpits__ _n_  
 __sandstone__  
+__sandwich__ :mute:[san~~d~~wich]  
 __sandy-haired__  
 __sangfroid__  
 __sanguine__ _adj_ :five::hammer::astonished:  
@@ -10983,7 +10994,7 @@ __trawled__ _v_
 __trawler__  
 __treachery__ _n_ :three::hammer:  
 __treacly__ :two::hammer:  
-__tread water__ To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
+__tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
 __treading__  
 __treasure__ _v_ :two::hammer:  
 __treat<sup>1</sup>__ _v_  
@@ -11530,6 +11541,7 @@ __wagon__
 __waifish__  
 __wainscoting__  
 __waist band__  
+__waistcoat__ _n_  
 __wait up__ _phr v_ To not go to sleep until someone comes home.  
 __waive__ _v_ :five::hammer: (waived)  
 __waiver__  
@@ -11624,9 +11636,9 @@ __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar
 __wedgie__  
 __wedhe issue__  
 __wedlock__ :two::hammer:  
-__Wednesday__ :mega: /'wEnzdi, -deI/  
+__Wednesday__ :mega::mute:[we~~d~~nesday] /'wEnzdi, -deI/  
 __wee__ _adj_ :three: _chiefly Scot_ Very small. _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
-__weed out__ _phr v_ :dart::two: To get rid of unwanted things or people from a group.  
+__weed out__ _phr v_ :dart::three: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
@@ -11634,6 +11646,7 @@ __weekend__ _n_
 __weevil__ :two::hammer: _Weevil worms._  
 __weevils__  
 __weigh down__ _idiom_ To make someone heavy and unable to move easily.  
+__weigh up__ _phr v_ To calculate, to estimate.  
 __weigh__ _v_ :two::mute:[wei~~gh~~] :es: sopesar?  
 __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
 __weighty__ _His weighty agenda._  

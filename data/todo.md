@@ -1,25 +1,4 @@
 
-__knock__ :mute:[~~k~~nock]  
-__knot__ :mute:[~~k~~not]  
-__know__ :mute:[~~k~~now]  
-__knuckle__ :mute:[~~k~~nuckle]  
-__handkerchief__ :mute:[han~~d~~kerchief]  
-__handsome__ :mute:[han~~d~~some]  
-__sandwich__ :mute:[san~~d~~wich]  
-__wednesday__ :mute:[we~~d~~nesday]  
-
-__adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
-__tread water__ _idiom_ :dart: This term refers to doing the minimum amount of work to not get fired. _He is treading water._  
-__weigh up__ _phr v_ To calculate, to estimate.  
-__cool (one's) heels__ _idiom_ To wait, sometimes so that one becomes calmer or more composed.  
-__fool's game__  
-__headshot__ _n_ :dart:  
-__weed out__ _v_  
-__ingrained__ _adj_  
-
-__dissatisfied__ _adj_ :pencil2:  
-__likewise__ _adv_  
-__waistcoat__ _n_  
 __pucker up__ _idiom_ To purse one's lips together, as when tasting something sour or preparing for a kiss. _Pucker up, Minnie!_  
 __dingy__ _adj_ _A dingy basement._  
 __hunt<sup>1</sup>__ _v_  
