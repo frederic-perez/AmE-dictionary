@@ -1,4 +1,15 @@
 
+__Kumbaya__ _n_  
+__abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
+__golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
+__zany__  
+__apalled__ _adj_ Shocked or dismayedfilled with horror.  
+__name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
+__quack__ _n_ Incompetent doctor.  
+__wage__ _n_  
+__work at__ _phr v_ To try hard to develop or improve something. 
+__Elvis has left the building__ _idiom_ The show or event has ended.  
+
 __alacrity__ _n_ _syn_ willingness  
 __gosling__ _n_ __1__ A young goose. __2__ A naive or inexperienced young person.  
 __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _syn_ wet blanket  
