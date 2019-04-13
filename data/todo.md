@@ -1,4 +1,21 @@
 
+__slave driver__ _n_ A person who makes other people work very hard.  
+__write out__ _phr v_ To write something on paper with all the necessary details.  
+__get on your nerves__ _idiom_ To annoy someone a lot.  
+__sentence__ _n_ _A sentence of judges._  
+__pod__ _n_ _A pod of whales._  
+__school__ _n_ _A school of fish._  
+__pride__ _n_ :astonished: _A pride of lions._  
+__full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
+__brood__ _n_ _A brood of chickens._  
+__gaggle__ _n_ _A gaggle of geese._  
+__flight__ _n_ _A flight of steps._  
+__write off__ _phr v_ To accept that a debt or loan won’t be paid back.  
+__zip around__ _phr v_ To move quickly from place to place.  
+__yakety-yak__ _n_ Noisy talk.  
+__give someone a piece of your mind__ _idiom_ To speak angrily to someone because they have done something wrong.  
+__give someone the creeps__ _idiom_ To make you feel frightened or nervous.  
+
 __Kumbaya__ _n_  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
