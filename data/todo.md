@@ -1,4 +1,12 @@
 
+__wreath__ :mute:[~~w~~reath]  
+__wreck__ :mute:[~~w~~reck]  
+__wrestle__ :mute:[~~w~~restle]  
+__wrinkle__ :mute:[~~w~~rinkle]  
+__wrist__ :mute:[~~w~~rist]  
+__write__ :mute:[~~w~~rite]  
+__wrong__ :mute:[~~w~~rong]  
+
 __slave driver__ _n_ A person who makes other people work very hard.  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __get on your nerves__ _idiom_ To annoy someone a lot.  
