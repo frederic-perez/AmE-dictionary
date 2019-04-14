@@ -9,7 +9,7 @@ __get to the point__ _idiom_ To talk directly about the most important part or t
 __vent__ _v_ _slang_ To express a negative emotion in a forceful way.  
 __wacko__ Crazy person, lunatic.  
 __get your ducks in a row__ _idiom_ To be well organized. _And then on top of it, I have to get my ducks in a row.._  
-__zero in on__ _phr v_ To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._
+__zero in on__ _phr v_ To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._  
 
 __platypus__ _n_ :es: ornitorrinco  
 __ledger__ _n_ :three::hammer:  
@@ -55,7 +55,7 @@ __apalled__ _adj_ Shocked or dismayedfilled with horror.
 __name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
 __quack__ _n_ Incompetent doctor.  
 __wage__ _n_  
-__work at__ _phr v_ To try hard to develop or improve something. 
+__work at__ _phr v_ To try hard to develop or improve something.  
 __Elvis has left the building__ _idiom_ The show or event has ended.  
 
 __alacrity__ _n_ _syn_ willingness  
@@ -79,13 +79,13 @@ __drop the ball__ _idiom_ To make a mistake, to fail.
 __wipe out__ _phr v_ To murder or kill.  
 __wise up__ _phr v_ To start to understand a situation.  
 __petty cash__ Small amount of cash available for everyday expenses.  
-__trickle-down theory__ _n_ 
+__trickle-down theory__ _n_  
 __knee-jerk__  
 __morale__ _n_  
 __libation__ _n_  
 
-__butt<sup>1</sup__ _v_  
-__butt<sup>2</sup__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
+__butt<sup>1</sup>__ _v_  
+__butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
 __noodle__ _n_ Brain. _Use your noodle._  
 __party animal__ A person who loves to go to parties.  
 __dog and pony show__ _idiom_ a presentation which designed to impress an audience but has no real content.  
