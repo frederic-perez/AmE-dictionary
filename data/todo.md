@@ -1,4 +1,15 @@
 
+__platypus__ _n_ :es: ornitorrinco  
+__ledger__ _n_ :three::hammer:  
+__finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
+__nitty-gritty__  _n_ The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
+__development__ _n_ A district that has been developed to serve some purpose; _"such land is practical for small park developments."_  
+__slackline__ _n_  
+__palpebral__ _adj_  
+__oblivion__  
+__unduly__  
+__no-no__  
+
 __wreath__ :mute:[~~w~~reath]  
 __wreck__ :mute:[~~w~~reck]  
 __wrestle__ :mute:[~~w~~restle]  
