@@ -102,9 +102,9 @@ def print_colored(label, number):
     """Self-explanatory"""
     message = label + ' = ' + str(number)
     if number == 0:
-        print OKGREEN + message + ENDC
+        print(OKGREEN + message + ENDC)
     else:
-        print FAIL + message + ENDC
+        print(FAIL + message + ENDC)
 
 def get_headword_part_of_speech_etc(tokens, do_print=False):
     """Self-explanatory"""
@@ -136,9 +136,9 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
         part_of_speech = ''
     if do_print:
         if ' ' in headword:
-            print OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
+            print(OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
                 + ' <<< Composite headword' \
-                + ENDC
+                + ENDC)
     return headword, part_of_speech, tokens[idx+1:]
 
 VALID_PARTS_OF_SPEECH = [ \
@@ -224,24 +224,24 @@ class Checker(object):
             headword = tokens[0]
         else:
             headword = '(empty)'
-        print headword + FAIL + ' <<< Incorrect entry ending #' \
-            + str(self.num_invalid_endings) + ENDC
+        print(headword + FAIL + ' <<< Incorrect entry ending #' \
+            + str(self.num_invalid_endings) + ENDC)
 
     def treat_invalid_underscores_use(self, entry):
         """Self-explanatory"""
         self.num_invalid_use_of_underscores += 1
         tokens = entry.split()
         headword = tokens[0]
-        print headword + FAIL + ' <<< Incorrect use of underscores #' \
-            + str(self.num_invalid_use_of_underscores) + ENDC
+        print(headword + FAIL + ' <<< Incorrect use of underscores #' \
+            + str(self.num_invalid_use_of_underscores) + ENDC)
 
     def treat_invalid_entry_tags(self, entry, tag):
         """Self-explanatory"""
         self.num_invalid_tags += 1
         tokens = entry.split()
         headword = tokens[0]
-        print FAIL + headword + ' ' + BOLD + ':' + tag + ':' + ENDC \
-             + ' <<< Invalid tag #' + str(self.num_invalid_tags) + ENDC
+        print(FAIL + headword + ' ' + BOLD + ':' + tag + ':' + ENDC \
+             + ' <<< Invalid tag #' + str(self.num_invalid_tags) + ENDC)
 
     def treat_too_many_double_spaces(self, entry):
         """Self-explanatory"""
@@ -249,17 +249,17 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         part_of_speech = tokens[1]
-        print headword + ' ' + part_of_speech + FAIL \
+        print(headword + ' ' + part_of_speech + FAIL \
             + ' <<< Too many double spaces #' \
-            + str(self.num_too_many_double_spaces) + ENDC
+            + str(self.num_too_many_double_spaces) + ENDC)
 
     def treat_triple_spaces(self, entry):
         """Self-explanatory"""
         self.num_entries_with_triple_spaces += 1
         tokens = entry.split()
         headword = tokens[0]
-        print headword + FAIL + ' <<< Triple spaces #' \
-            + str(self.num_entries_with_triple_spaces) + ENDC
+        print(headword + FAIL + ' <<< Triple spaces #' \
+            + str(self.num_entries_with_triple_spaces) + ENDC)
 
     def treat_shit_tag(self, entry):
         """Self-explanatory"""
@@ -267,8 +267,8 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         part_of_speech = tokens[1]
-        print headword + ' ' + part_of_speech + FAIL \
-            + ' <<< :shit: found; use :hammer: instead' + ENDC
+        print(headword + ' ' + part_of_speech + FAIL \
+            + ' <<< :shit: found; use :hammer: instead' + ENDC)
 
     def treat_missing_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
@@ -276,14 +276,14 @@ class Checker(object):
         if part_of_speech != '' and \
             part_of_speech != '_?_' and \
             part_of_speech.count(':hammer:') < 1:
-            print headword + ' ' + part_of_speech + FAIL \
-            + ' <<< missing part of speech found' + ENDC
+            print(headword + ' ' + part_of_speech + FAIL \
+            + ' <<< missing part of speech found' + ENDC)
 
     def treat_displaced_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_displaced_part_of_speech += 1
-        print headword + ' ' + part_of_speech + FAIL \
-            + ' <<< displaced part of speech found' + ENDC
+        print(headword + ' ' + part_of_speech + FAIL \
+            + ' <<< displaced part of speech found' + ENDC)
 
     def check_entry(self, entry):
         """Looking and tallying mistakes in a particular entry of the dictionary"""
@@ -319,9 +319,9 @@ class Checker(object):
                 part_of_speech.find('?') > 0 or \
                 part_of_speech == '_adverb_':
                 self.num_wrong_part_of_speech += 1
-                print FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
+                print(FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
                     + ' <<< Wrong part of speech #' \
-                    + str(self.num_wrong_part_of_speech)
+                    + str(self.num_wrong_part_of_speech))
 
     def check_entries(self):
         """Looking for mistakes in the entries of the dictionary
@@ -345,11 +345,11 @@ class Checker(object):
             + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
-            print OKGREEN + 'No entries-related problems were found in file \'' \
-                + self.filename + '\'' + ENDC
+            print(OKGREEN + 'No entries-related problems were found in file \'' \
+                + self.filename + '\'' + ENDC)
         else:
-            print '\nSummary of issues found'
-            print '-----------------------'
+            print('\nSummary of issues found')
+            print('-----------------------')
             print_colored("Entries with displaced part of speech", \
                 self.num_displaced_part_of_speech)
             print_colored('Entries with invalid ending', self.num_invalid_endings)
@@ -387,15 +387,15 @@ class Checker(object):
         size = len(repeated)
         if size > 0:
             repeated_sorted = sorted(repeated)
-            print 'Found ' + str(size) + ' duplicated headwords, the very first being:'
+            print('Found ' + str(size) + ' duplicated headwords, the very first being:')
             i = 0
             for headword in repeated_sorted:
-                print '  ' + FAIL + headword + ' ' + repeated[headword] + ENDC
+                print('  ' + FAIL + headword + ' ' + repeated[headword] + ENDC)
                 i += 1
                 if i == 10:
                     break # exit loop
         else:
-            print OKGREEN + 'No duplicated headwords were found' + ENDC
+            print(OKGREEN + 'No duplicated headwords were found' + ENDC)
         print
         return bool(size == 0)
 
@@ -422,16 +422,16 @@ class Checker(object):
         size = len(undefined)
         if size > 0:
             undefined_sorted = sorted(undefined)
-            print 'Found ' + str(size) \
-                + ' undefined high frequency headwords, the very first being:'
+            print('Found ' + str(size) \
+                + ' undefined high frequency headwords, the very first being:')
             i = 0
             for headword in undefined_sorted:
-                print '  ' + FAIL + headword + ' ' + OKCYAN + undefined[headword] + ENDC
+                print('  ' + FAIL + headword + ' ' + OKCYAN + undefined[headword] + ENDC)
                 i += 1
                 if i == 10:
                     break
         else:
-            print OKGREEN + 'No undefined high frequency headwords were found' + ENDC
+            print(OKGREEN + 'No undefined high frequency headwords were found' + ENDC)
 
         return bool(size == 0)
 
