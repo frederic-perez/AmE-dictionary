@@ -1,27 +1,4 @@
 
-__write up__ _phr v_ To write something using notes that you wrote earlier.  
-__ticker__ _n_ __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
-__get the axe__ _idiom_ To lose your job.  
-__one-trick pony__ _n_ _idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
-__top banana__ _slang_ The most important person in an organization.  
-__yell out__ _phr v_ To shout loudly.  
-__get to the point__ _idiom_ To talk directly about the most important part or topic.  
-__vent__ _v_ _slang_ To express a negative emotion in a forceful way.  
-__wacko__ Crazy person, lunatic.  
-__get your ducks in a row__ _idiom_ To be well organized. _And then on top of it, I have to get my ducks in a row.._  
-__zero in on__ _phr v_ To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._  
-
-__platypus__ _n_ :es: ornitorrinco  
-__ledger__ _n_ :three::hammer:  
-__finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
-__nitty-gritty__  _n_ The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
-__development__ _n_ A district that has been developed to serve some purpose; _"such land is practical for small park developments."_  
-__slackline__ _n_  
-__palpebral__ _adj_  
-__oblivion__  
-__unduly__  
-__no-no__  
-
 __wreath__ :mute:[~~w~~reath]  
 __wreck__ :mute:[~~w~~reck]  
 __wrestle__ :mute:[~~w~~restle]  

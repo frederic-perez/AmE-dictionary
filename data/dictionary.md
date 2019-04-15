@@ -2809,7 +2809,7 @@ __detritus__ _n_
 __deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
 __devastate__ _v_  
 __develop__ _v_ :mega:  
-__development__ :two::hammer: _Choose your home from 8 new developments across London._  
+__development__ _n_ :three: A district that has been developed to serve some purpose; _"such land is practical for small park developments."_ _Choose your home from 8 new developments across London._  
 __devil is in the detail__ _idiom_ Small things can cause difficulties when you examine them closely enough.  
 __devil-may-care style__  
 __deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
@@ -3794,6 +3794,7 @@ __fillip__ :two::hammer:
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film maker__ _n_ ?  
 __finalize__ _v_  
+__finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
 __fine__ _That's a very fine line._  
 __fine-tune__ _v_  
@@ -4353,7 +4354,10 @@ __Get outta here!__ _idiom_
 __get over someone's head__ _They're getting over their heads._  
 __get set__ _v_  
 __get stops__ :two::hammer:  
+__get the axe__ _idiom_ To lose your job.  
 __get the middle finger__  
+__get to the point__ _idiom_ To talk directly about the most important part or topic.  
+__get your ducks in a row__ _idiom_ To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
 __get-go__ :three::hammer: _They wanted him to be Superman from the get-go._  
 __getaway day__  
@@ -5943,7 +5947,7 @@ __leavings__ _n_
 __lecher__  
 __lectern__  
 __ledge__ :two::hammer: _Adam turned and sat on the ledge._  
-__ledger__ _n_ :seven::hammer: _A heavy account ledger._  
+__ledger__ _n_ :nine:::m:hammer: _A heavy account ledger._  
 __lee__ _In the lee of the wagon._  
 __leech__ _n_ :five::hammer: :es: sanguijuela  
 __leek__ _n_  
@@ -6870,14 +6874,14 @@ __nitpick<sup>1</sup>__ _n_
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
-__nitty-gritty__ :two::hammer:  
+__nitty-gritty__  _n_ :three: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __no early birds!__ (?)  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __no offense__  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no-holds-barred__  
-__no-no__ _n_ _informal_ :five::hammer:  
+__no-no__ _n_ _informal_ :six::hammer:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -6968,7 +6972,7 @@ __oblate__ _n_
 __obligation__  
 __oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
-__oblivion__  
+__oblivion__ _n_ :two::hammer:  
 __oblivious__ _adj_ :three::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obo__ _abbr_ :two: Or best offer.  
@@ -7067,6 +7071,7 @@ __one-note__
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-run__ _One-run games._  
+__one-trick pony__ _n_ _idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
@@ -7273,6 +7278,7 @@ __palm__ :mega::mute:[pa~~l~~m]
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
+__palpebral__ _adj_  
 __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :five::hammer: (pampered)  
@@ -7681,7 +7687,7 @@ __plating__ _It's your armor plating._
 __platinum__ _n_ :mega: /ˈplætənəm/  
 __platitude__ _n_ :four::hammer: (platitudes)  
 __platoon__ _v_ :two::hammer:  
-__platypus__ _Internet platypus pranks._  
+__platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
 __plaudits__  
 __play ball__  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
@@ -9494,6 +9500,7 @@ __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slack
 __slack<sup>3</sup>__ _adj_ (?) :two::hammer: _Now he couldn't drive with slack reins._  
 __slackened__ _v_  
 __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
+__slackline__ _n_  
 __slag__  
 __slake__ _v_  
 __slam__ _v_ :two::hammer: _LeBron slams Phil Jackson for comment._  
@@ -10764,7 +10771,7 @@ __tic<sup>1</sup>__ _n_
 __tic<sup>2</sup>__ _v_  
 __tick prevention__  
 __tick__ _v_ _Prices ticked up 0.2%._  
-__ticker__  
+__ticker__ _n_ :two: __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
 __tickle__ _v_ :three::hammer: _Does that tickle?_  
 __ticklish__ :two::hammer:  
 __ticky-tacky__ _The ticky-tacky plan._  
@@ -10903,7 +10910,7 @@ __tooth-wrecking__
 __toothless__ _Some consider most of those laws toothless._  
 __toothsome__ _adj_  
 __tootsie__ _n_  
-__top banana__ The chief person in a group.  
+__top banana__ _slang_ :two: The most important person in an organization.  
 __top bill__ _I'm not my usual top billing._  
 __top dollars__  
 __top flight__ First division?  
@@ -11242,7 +11249,7 @@ __undisturbed__ _v_
 __undue__  
 __undulating__ _v_  
 __undulation__ _n_  
-__unduly__ _adv_ :five::hammer:  
+__unduly__ _adv_ :six::hammer:  
 __unearth__ _v_ :three::hammer: (unearthed)  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
@@ -11436,7 +11443,7 @@ __venison__ _n_ :four::hammer:
 __Venn__ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
 __venom__ _n_ :three::hammer:  
 __venomous__ _adj_ :two::hammer:  
-__vent__ _v_  
+__vent__ _v_ _slang_ :two: To express a negative emotion in a forceful way.  
 __ventilator__ _n_ :pencil2: _med_  
 __venue__ _n_ :two::hammer: _What's the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
@@ -11518,7 +11525,8 @@ __voucher__ _n_ :four: A small printed piece of paper that entitles the holder t
 __vouchsafed__  
 __vow__ _v_  
 __vying__ _v_ :seven: Present participle of vie.  
-__wacko__  
+__wacko<sup>1</sup>__ _n_ :two: Crazy person, lunatic.  
+__wacko<sup>2</sup>__ _adj_  
 __wad__ _n_  
 __wad<sup>1</sup>__ _v_ :seven::hammer: (wadded, wadding) _He wadded up the towel._  
 __wad<sup>2</sup>__ _n_ _Wads of cash._  
@@ -11926,7 +11934,7 @@ __wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._
 __wrinkle__ _v_ :three::hammer: (wrinkled, wrinkling)  
 __writ__ _n_ :two::hammer:  
 __write off__ _v_ _Don't write off Tiger just yet._  
-__write up__ _v_ :two::hammer:  
+__write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
 __writhe__ _v_ :six::hammer: (writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._  
@@ -11963,6 +11971,7 @@ __yay!__ _interj_
 __yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
+__yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
 __yelp<sup>1</sup>__ _v_ :five::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
@@ -12008,7 +12017,7 @@ __zeightgeist__
 __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
 __zeppelin__ _n_  
 __zero hour__  
-__zero in__ _v_ :two::hammer: _I zeroed in on the first item._  
+__zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__ :two::hammer:  
