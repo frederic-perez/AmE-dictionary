@@ -1275,7 +1275,7 @@ __bromance__ :two::hammer:
 __bronc__ _Bull and bronc riding._  
 __bronco__ _n_ :camera:  
 __broncobusting__  
-__brood__ _n_  
+__brood__ _n_ :two::hammer: _A brood of chickens._  
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :seven: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
@@ -3906,7 +3906,7 @@ __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926
 __flick<sup>2</sup>__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
-__flight__ _n_ :two::mute:[fli~~gh~~t]:hammer: _He climbed four flights of stairs._  
+__flight__ _n_ :three::mute:[fli~~gh~~t]:hammer: _A flight of steps._ _He climbed four flights of stairs._  
 __flimflam__ _n_ :dart::two::hammer:  
 __flimsy__  
 __flinch<sup>1</sup>__ _n_  
@@ -4193,6 +4193,7 @@ __fudging__ _Fudging statistics._
 __fulcrum__ :two::hammer:  
 __fulfilling__  
 __full of beans__  
+__full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
 __full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
 __full-bodied__ :two::hammer:  
@@ -4237,7 +4238,7 @@ __gaffe__ _n_
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gaffes__ _n_ :two::hammer:  
 __gag__ _The cases's gag order._  
-__gaggle__ _n informal_ :five: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._  
+__gaggle__ _n informal_ :six: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._  
 __gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
@@ -4348,6 +4349,7 @@ __get looks__ _v_ :two::hammer:
 __get me started__ _Don't get me started!_  
 __get off on (something)__  
 __get off__ _I always get off the bus a stop early on the way to work._  
+__get on your nerves__ _idiom_ To annoy someone a lot.  
 __get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
 __get out of here__  
 __Get outta here!__ _idiom_  
@@ -6874,7 +6876,7 @@ __nitpick<sup>1</sup>__ _n_
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
-__nitty-gritty__  _n_ :three: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
+__nitty-gritty__ _n_ :three: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __no early birds!__ (?)  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
@@ -7755,6 +7757,7 @@ __pocket change__
 __pockmarked__ :camera::two::hammer: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
+__pod__ _n_ _A pod of whales._  
 __podge__ _n informal_ A short chubby person.  
 __podiatrist__ _n_  
 __podjo__  
@@ -7939,7 +7942,8 @@ __prickled__ _v_ _Rob's skin prickled._
 __prickling__  
 __prickly__ :two::hammer:  
 __pride flag__  
-__pride__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
+__pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._  
+__pride<sup>2</sup>__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
 __pries__ _He pries your buttocks apart._  
 __priestesses__ _n_  
 __prima facie__  
@@ -8973,7 +8977,7 @@ __schnapps__
 __scholar__ :two::hammer: _Legal scholar._  
 __school > charter school__  
 __school desk__  
-__school__ :mute:[sc~~h~~ool]  
+__school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._  
 __schooling__ _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
@@ -9126,6 +9130,7 @@ __send-of__
 __sendup__ _v_ _A sendup of the genre._  
 __sensible__ :two::hammer: _This C++ contructor has sensible default values._  
 __sensitive__ _Sensitive questions._  
+__sentence__ _n_ _A sentence of judges._  
 __sentience__  
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
@@ -9519,6 +9524,7 @@ __slats__ _n_ :four::hammer: _The slats in the dock._ _Wood slats._
 __slatted__ _v_ :two::hammer: _Slatted sunlight._  
 __slatternly__  
 __slaughter__ :mute:[slau~~gh~~ter]  
+__slave driver__ _n_ A person who makes other people work very hard.  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __slayer__  
 __sleaziest__  
@@ -10910,7 +10916,7 @@ __tooth-wrecking__
 __toothless__ _Some consider most of those laws toothless._  
 __toothsome__ _adj_  
 __tootsie__ _n_  
-__top banana__ _slang_ :two: The most important person in an organization.  
+__top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top bill__ _I'm not my usual top billing._  
 __top dollars__  
 __top flight__ First division?  
@@ -11914,15 +11920,15 @@ __wrath__ :mute:[~~w~~rath]
 __wreak havoc__ :two::hammer:  
 __wreaked havoc__  
 __wreath-lying__ _?_ :pencil2:  
-__wreath<sup>1</sup>__ _n_ :three: (wreaths) _Funeral wreath._ :es: corona  
-__wreath<sup>2</sup>__ _v_ _A wreathed sword._  
-__wreck__ _v_  
+__wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
+__wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath]_A wreathed sword._  
+__wreck__ _v_ :three::mute:[~~w~~reck]:hammer:  
 __wrecking ball__  
 __wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrenching__ _adj_ _A wrenching prospect._  
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
-__wrestle__ :mute:[wres~~t~~le]  
+__wrestle__ :mute:[~~w~~restle]:mute:[wres~~t~~le]  
 __wretch__ _n_ :two::hammer: _The lowliest wretch among them._  
 __wretched__  
 __wrethes__  
@@ -11931,15 +11937,19 @@ __wriggling__
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
 __wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
-__wrinkle__ _v_ :three::hammer: (wrinkled, wrinkling)  
+__wrinkle__ _v_ :four::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling)  
+__wrist__ :mute:[~~w~~rist]  
 __writ__ _n_ :two::hammer:  
-__write off__ _v_ _Don't write off Tiger just yet._  
+__write off__ _phr v_ :two: To accept that a debt or loan won’t be paid back. _Don't write off Tiger just yet._  
+__write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
+__write__ :mute:[~~w~~rite]  
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
 __writhe__ _v_ :six::hammer: (writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._  
 __writing on the wall, the__ An omen of impending disaster or ruin. _I've seen the writing on the wall._  
 __writs__ _n_  
+__wrong__ :mute:[~~w~~rong]  
 __wrongdoing__  
 __wrought<sup>1</sup>__ _v_ :three: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
@@ -11952,6 +11962,7 @@ __X's and O's__ :two::hammer: _There are the X's and O's._
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
 __yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)  
+__yakety-yak__ _n_ Noisy talk.  
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
@@ -12023,6 +12034,7 @@ __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and o
 __zesty__ :two::hammer:  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
+__zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
 __zip-line<sup>2</sup>__ _v_ :two::hammer: (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
