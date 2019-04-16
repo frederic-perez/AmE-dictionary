@@ -328,7 +328,7 @@ class Checker(object):
 
         Reads the contents of self.dictionary checking every single entry
         """
-        input_file = open(self.filename, 'r')
+        input_file = open(self.filename, 'r', encoding='utf-8')
 
         for line in input_file:
             entry = line.replace('\n', '')
@@ -368,7 +368,7 @@ class Checker(object):
 
     def check_duplicated_headwords(self):
         """Self-explanatory"""
-        input_file = open(self.filename, 'r')
+        input_file = open(self.filename, 'r', encoding='utf-8')
 
         repeated = {}
         dictionary = {}
@@ -401,7 +401,7 @@ class Checker(object):
 
     def check_undef_high_freq_keywords(self):
         """Self-explanatory"""
-        input_file = open(self.filename, 'r')
+        input_file = open(self.filename, 'r', encoding='utf-8')
 
         undefined = {}
 
