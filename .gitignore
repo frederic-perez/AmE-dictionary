@@ -1,2 +1,2 @@
 fleeting/
-tools/*.pyc
+tools/__pycache__/
