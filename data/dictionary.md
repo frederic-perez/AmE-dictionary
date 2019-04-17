@@ -1419,6 +1419,8 @@ __butt out__ _v_ :two::hammer:
 __butt up__ _v_ _Butt up against obstacles._  
 __butt-fumble__  
 __butt-strap__ _n_  
+__butt<sup>1</sup>__ _v_  
+__butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
 __butter cups__ _organic peanut butter cups._  
 __buttercups__  
 __butternut__  
@@ -2950,6 +2952,7 @@ __dissatisfaction__ :two::hammer:
 __dissatisfied__ _adj_ :pencil2:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
+__dissemble__ _v_  
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :two::hammer:  
@@ -3145,6 +3148,7 @@ __dreg__ _n_ :six::hammer: (often dregs) _Away from the dregs and junkies._ _Ret
 __drench__ _v_ :four::hammer: (drenched)  
 __drenched__ _adj_  
 __drenches__ _v_  
+__dress to the nines__ _idiom_ Wearing very fashionable or expensive clothes.  
 __dress up__ _v_  
 __dressed to the nines__  
 __dressing room__ :two::hammer: _(vs fitting room)_  
@@ -3176,6 +3180,7 @@ __drone__ _The drone of an outboard motor reverberated._
 __drop by__ _v_  
 __drop in the bucket__  
 __drop out__  
+__drop the ball__ _idiom_ To make a mistake, to fail.  
 __drop__ _n_  
 __drop-in__ _A drop-in center._  
 __dropout__ _n_  
@@ -5363,6 +5368,7 @@ __in the thick (of it)__ :three::hammer: _Utah Clean Energy has been in the thic
 __in the water__ _There's nothing in the water here._  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
+__in tow__ _idiom_  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _adj_ :two::hammer: _In-house experts._  
@@ -5776,7 +5782,7 @@ __knavish__
 __knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
 __knee__ :mute:[~~k~~nee]  
-__knee-jerk__ _adv_ _(disapproving)_ :four::hammer: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
+__knee-jerk__ _adj_ _slang_ :five::hammer: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
 __knell__ _n_ :three::hammer:  
 __knife__ :mute:[~~k~~nife]  
@@ -5994,6 +6000,7 @@ __lenient__ _adj_ :six: (leniently) If you're not overly strict, and you show to
 __Lenny__ Diminutive of Leonard.  
 __lens__ _Lens design._  
 __lenses__ _n pl_  
+__Lent__ _n_ :es: cuaresma  
 __lentils__ :es: lentejas  
 __leper__  
 __lepers__  
@@ -6021,8 +6028,7 @@ __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, qu
 __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
 __liable__ _He is liable to be mistaken._  
 __liaison__  
-__libation__  
-__libations__ _Dutch libations, like ciders, gins and liqueurs._  
+__libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
 __librocubicularist__ _n_ A person who reads in bed.  
@@ -6078,6 +6084,7 @@ __linger__
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ :two::hammer: _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
+__lionhearted__ _adj_  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lipped__ _v_  
 __lippy__ _adj_  
@@ -6641,7 +6648,7 @@ __mope__ _v_ :pencil2::two::hammer:
 __moppet__ _A lovable moppet._  
 __mopping up__  
 __moral__  
-__morale__ _n_  
+__morale__ _n_ :two::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ :two::hammer:  
 __morcellator__  
@@ -6920,6 +6927,7 @@ __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_
 __nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
+__noodle__ _n_ Brain. _Use your noodle._  
 __noose<sup>1</sup>__ _n_ :four::hammer: (noses)  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ Northern California.  
@@ -7528,6 +7536,7 @@ __petroglyphs__ _Ancient Indian petroglyph._
 __petroleum jelly__  
 __Petry dish__ :mega:  
 __petted__  
+__petty cash__ Small amount of cash available for everyday expenses.  
 __petty__ :two::hammer: _A petty argument resulted in her son's murder._ _Don't be so petty._  
 __petulance__  
 __petulant__ _adj_ :three::mega::hammer:  
@@ -7626,6 +7635,7 @@ __pink slime__
 __pink slip__  
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He's all pinkified for halloween._  
+__pinky__ _n_ Little finger.  
 __pinned__  
 __pinning__ _v_  
 __pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
@@ -7841,7 +7851,7 @@ __portly__
 __portmanteau__  
 __portray__ _v_  
 __portrayal__ _n_ :mega:  
-__posh__ _adj_ :five: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
+__posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
@@ -8353,6 +8363,7 @@ __ravine__ _n_ :two::hammer:
 __raving__ _v_ :two::hammer:  
 __ravish__  
 __ravishing__ :two::hammer:  
+__raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
@@ -10968,6 +10979,7 @@ __tourney__
 __tousle__ _v_  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _v_ :three::hammer: (touted)  
+__tow truck__ _n_  
 __tow__ :two::hammer: _Cameras in tow._  
 __tower__ _v_ _Towering over our heads._  
 __townhouse__ _n_ :two::hammer: (townhouses)  
@@ -11045,7 +11057,7 @@ __trick of the light__
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
-__trickle-down__ _adj_ :eight: __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
+__trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
 __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
 __trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
 __tricksy__  
@@ -11841,6 +11853,7 @@ __winsome__
 __winterkill__  
 __wintry__ _adj_ :three: :es: invernal  
 __winward__  
+__wipe out__ _phr v_ To murder or kill.  
 __wire > getting down to the wire__  
 __wire book stand__  
 __wire grass__ _n_ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
@@ -11849,6 +11862,7 @@ __wire-to-wire__ _adj informal_ :three: From start to finish. _He may not have w
 __wiry__ _adj_ :two::hammer: _He's wiry, strong and fast._  
 __Wisconsinites__  
 __wisdom tooth__  
+__wise up__ _phr v_ To start to understand a situation.  
 __wisecracker__  
 __wisecracks__  
 __wish list__ _n_ :two::hammer: _The community's wish list._ _A $100 million wish list._  

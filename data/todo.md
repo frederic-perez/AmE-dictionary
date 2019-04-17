@@ -1,25 +1,4 @@
 
-__Lent__ _n_ :es: cuaresma  
-__raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
-__dissemble__ _v_  
-__lionhearted__ _adj_  
-__tow truck__ _n_  
-__in tow__ _idiom_  
-__pinky__ _n_ Little finger.  
-__dress to the nines__ _idiom_ Wearing very fashionable or expensive clothes.  
-__posh__ High-class, aristocratic.  
-__drop the ball__ _idiom_ To make a mistake, to fail.  
-__wipe out__ _phr v_ To murder or kill.  
-__wise up__ _phr v_ To start to understand a situation.  
-__petty cash__ Small amount of cash available for everyday expenses.  
-__trickle-down theory__ _n_  
-__knee-jerk__  
-__morale__ _n_  
-__libation__ _n_  
-
-__butt<sup>1</sup>__ _v_  
-__butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
-__noodle__ _n_ Brain. _Use your noodle._  
 __party animal__ A person who loves to go to parties.  
 __dog and pony show__ _idiom_ a presentation which designed to impress an audience but has no real content.  
 __strudel__ _n_  
