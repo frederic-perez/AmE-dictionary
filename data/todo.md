@@ -1,26 +1,4 @@
 
-__give someone a piece of your mind__ _idiom_ To speak angrily to someone because they have done something wrong.  
-__give someone the creeps__ _idiom_ To make you feel frightened or nervous.  
-
-__Kumbaya__ _n_  
-__abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
-__golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
-__zany__  
-__apalled__ _adj_ Shocked or dismayedfilled with horror.  
-__name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
-__quack__ _n_ Incompetent doctor.  
-__wage__ _n_  
-__work at__ _phr v_ To try hard to develop or improve something.  
-__Elvis has left the building__ _idiom_ The show or event has ended.  
-
-__alacrity__ _n_ _syn_ willingness  
-__gosling__ _n_ __1__ A young goose. __2__ A naive or inexperienced young person.  
-__killjoy__ _n_ One who spoils the enthusiasm or fun of others. _syn_ wet blanket  
-__con__ _v_ _Now Biff, don't con me!_  
-__lemming__ _n_  
-__GDP__ _abbr_ Gross domestic product.  
-__fault__ _v_  
-__sliver__  
 __Lent__ _n_ :es: cuaresma  
 __raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __dissemble__ _v_  

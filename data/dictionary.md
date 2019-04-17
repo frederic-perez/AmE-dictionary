@@ -23,6 +23,7 @@ __AA__
 __AAA__ _(cars)_  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AB__ _Guys in the AB._  
+__abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__  
@@ -200,7 +201,7 @@ __akin to__
 __akin__ :two::hammer:  
 __al fresco__  
 __alabaster__  
-__alacrity__ _n_ /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
+__alacrity__ _n_ :two: /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __Alaskan__  
 __albatross__ _n_ :pencil2::two::hammer:  
 __alcove__ _The elevator alcove._  
@@ -321,7 +322,7 @@ __any longer__
 __anything but__ _It is anything but sweet._  
 __anything goes__ :two::hammer:  
 __apace__ _Concussion concerns continue apace._  
-__apalled__ _v_ :two::hammer:  
+__apalled__ _adj_ :three: Shocked or dismayedfilled with horror.  
 __Apart from that,__  
 __apathetic__ _adj_ :two::hammer:  
 __ape__ _v_  
@@ -2133,7 +2134,7 @@ __compurgator__ _n_
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
 __con<sup>1</sup>__ _n_ :five::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
-__con<sup>2</sup>__ _v_ :two::hammer:  
+__con<sup>2</sup>__ _v_ :three::hammer: _Now Biff, don't con me!_  
 __Concacaf__  
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
 __conceit<sup>1</sup>__ _n_  
@@ -3358,7 +3359,7 @@ __elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get m
 __elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
 __elusive__  
-__Elvis has left the building__ _idiom_ The show has come to an end. It's all over.  
+__Elvis has left the building__ _idiom_ :two: The show has come to an end. It's all over.  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
 __emancipation__  
 __embankment__  
@@ -3683,6 +3684,7 @@ __fatigues__ _n_ :three: Clothing worn by military personnel for labor or for fi
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
 __fatwa__ _n_ :two: Religious edict.  
+__fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
 __Faustian__ _Faustian device._  
 __faux__ _Three faux tombstones._  
@@ -4311,6 +4313,7 @@ __gavel__ _n_ :six::hammer: _The judge's gavel._
 __gaze<sup>1</sup>__ _n_  
 __gaze<sup>2</sup>__ _v_  
 __gazebo__  
+__GDP__ _abbr_ Gross domestic product.  
 __gear__ _You can't control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __GED__ _abbr_ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
@@ -4402,7 +4405,9 @@ __give and take__ _Love don't come easy. It's a game of give and take._
 __give in__ _I'm never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __give or take__ _idiom_ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
+__give someone a piece of your mind__ _idiom_ To speak angrily to someone because they have done something wrong.  
 __give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
+__give someone the creeps__ _idiom_ To make you feel frightened or nervous.  
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __glad-hand__ _v_  
@@ -4483,6 +4488,7 @@ __gold rush__
 __Golden Boot__ _The race for the Golden Boot._  
 __goldfinch__ _n_ :es: jilguero  
 __golliwog__ _n_  
+__golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
 __gomer__ _n_ _slang_ :dart: A first-year Air Force Academy cadet, esp a clumsy trainee [origin uncertain; medical sense said to be an acronym of "get out of my emergency room"] _Gomer Pyle._  
 __gonads__ _n_  
 __gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
@@ -4512,7 +4518,7 @@ __Gordian knot__ :two::hammer:
 __gorge__ _v_ :two::hammer: (gorging)  
 __gorse__  
 __gory__  
-__gosling__ _?_ _An errant gosling._  
+__gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :es: evangelio  
 __gouge__ _v_ :five::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
@@ -5732,6 +5738,7 @@ __kill clock__ _v_
 __kill<sup>1</sup>__ _v_ _Kill the music._  
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
+__killjoy__ _n_ One who spoils the enthusiasm or fun of others. _syn_ wet blanket  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
 __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
@@ -5810,6 +5817,7 @@ __krauts__
 __krinkled__  
 __kroop__  
 __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
+__Kumbaya__ _n_  
 __kybosh__ _v_  
 __labor bureaus__  
 __Labrador__  
@@ -5972,6 +5980,7 @@ __lei__ _n_ A Polynesian garland of flowers.
 __leis__ _Scented leis._  
 __leitmotif__  
 __lemme__ _Lemme see._  
+__lemming__ _n_  
 __lemon law__ An American law that protects purchasers of faulty cars.  
 __lemon wedges__ :camera: _Lemon wedges for serving._  
 __lemon__ _n_ _This house is a lemon, honey._  
@@ -6768,6 +6777,7 @@ __nail it__
 __naïveté__  
 __name-and-likeness__  
 __name-calling__  
+__name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
 __name-dropping__ _n_  
 __nameplate__ _n_  
 __names and likeness__  
@@ -8151,7 +8161,7 @@ __Q__ Character in James Bond films, a quiet genius who understands technology a
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
 __Q&A__ _The gathering will feature question-and-answer sessions._  
-__quack__ _n_ :two::hammer:  
+__quack__ _n_ :three: Incompetent doctor.  
 __quadrennial__  
 __quadroons__  
 __quaffable__  
@@ -11547,7 +11557,7 @@ __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour.
 __wafted__ _v_  
 __wafting__ _v_  
 __wag__ _v_ :two::hammer: _The puppy was wagging its tail._  
-__wage__  
+__wage__ _n_ :two::hammer:  
 __waged__ _v_  
 __wagered__ _v_ :astonished: _I'd have wagered so._  
 __waging__ _v_  
@@ -11889,6 +11899,7 @@ __wording__ _n_
 __wordplay__  
 __wordsmith__ _v_ :two::hammer:  
 __work as planned__  
+__work at__ _phr v_ To try hard to develop or improve something.  
 __work my tail of__  
 __work off__ _phr v_ To get rid of something by using physical effort.  
 __work on__ _phr v_ To spend time or improving something.  
@@ -12020,7 +12031,7 @@ __Yuletide__ _n_ :two: (archaic) Christmas.
 __yummy__  
 __yurt__ _n_ :two::hammer: (yurts)  
 __zaniness__ :two::hammer:  
-__zany__ _adj_ :five: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
+__zany__ _adj_ :six: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
 __zeal__ _n_  
 __zealotry__  
 __zealous__  
