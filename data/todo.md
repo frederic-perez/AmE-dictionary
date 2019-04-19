@@ -1,4 +1,15 @@
 
+__zonk out__ _phr v_ To fall asleep.  
+__Adam's ale__ _slang_ Water.  
+__have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
+__zoom in__ _phr v_ To focus more closely.  
+__have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
+__get along with__ _idiom_ To have a good relationship with someone.  
+__down-to-earth__ _idiom_ Sensible and realistic.  
+__last straw__ _idiom_ The final problem in a series of problems.  
+__joined at the hip__ _idiom_ To be exceptionally close to someone.  
+__elbow grease__ _idiom_ Hard physical effort.  
+
 __amount to__ :two::hammer:  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __trample__ _v_  
