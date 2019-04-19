@@ -1,4 +1,17 @@
 
+__amount to__ :two::hammer:  
+__firefly__ _n_ (fireflies) :es: luciérnaga  
+__trample__ _v_  
+__tribulation__ _n_  
+__head__ _v_ _Head to Freakonomics.com._  
+__zarf__ _n_  
+__tempera__ _n_  
+__keen__ _adj_ _They aren't so keen on chemistry._  
+__cagy__ _adj_ Variant of cagey.  
+__cagey__ _adj_ __1__ Wary; careful: _a cagey avoidance of a definite answer._ __2__ Crafty; shrewd: _a cagey lawyer._  
+__cynical__ _adj_ :pencil2:  
+__pack__ _v_ (packed) _Our stand at the Sydney convention is packed!_  
+
 __party animal__ A person who loves to go to parties.  
 __dog and pony show__ _idiom_ a presentation which designed to impress an audience but has no real content.  
 __strudel__ _n_  
