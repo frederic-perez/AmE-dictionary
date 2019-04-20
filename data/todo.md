@@ -1,4 +1,15 @@
 
+__zone out__ _phr v_ To lose concentration or become inattentive.  
+__yo-yo__ _slang_ A stupid or crazy person.  
+__zip up__ To close something that has a zipper.  
+__happy as a clam__ _idiom_ Very happy.  
+__mailman__ _n_  
+__forty winks__ _idiom_  
+__barrel of laugh__ _idiom_ Someone who is very funny.  
+__old as the hills__ _idiom_ Someone who is very old.  
+__in the doghouse__ _idiom_  
+__up for grabs__ _idiom_ Available for anyone.  
+
 __entrench__ _v_  
 __nagging__ _adj_ Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._  
 __ostracize__  
