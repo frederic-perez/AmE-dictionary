@@ -1,4 +1,13 @@
 
+__split hairs__ _idiom_ Argue or worry about small details.  
+__round the bend__ _idiom_ Crazy, insane.  
+__see eye to eye__ _idiom_ To concur, agree.  
+__break a leg__ _idiom_ Good luck.  
+__ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
+__barking up the wrong tree__ _idiom_ Looking in the wrong place.  
+__be glad to see the back of__ _idiom_ Be happy when a person leaves.  
+__against the clock__ _idiom_ Rushed and short on time.  
+
 __ladybird__ _n_  
 __hoodwink__ :two::hammer:  
 __smear__ _v_  
