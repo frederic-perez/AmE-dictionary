@@ -1,4 +1,17 @@
 
+__slump__ _v_ _People slumping out of chairs._  
+__hiya__ _interj_ An informal term of greeting.  
+__close call__ _n_ _informal_ :dart: A narrow escape from danger or trouble. _syn_ a close shave, narrow escape _Phew, that was a close shave._  
+__slavishly__ _Following instructions slavishly._  
+__lather, rinse, repeat__ :dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought.  
+__endometrium__ _n_  The glandular mucous membrane that lines the uterus.  
+__forceful__  
+__crush__ _n_  
+__heads up__ _n_ A tip-off or small amount of information given in advance. _I appreciate the heads up._  
+__regret__ _v_ (regreted) :pencil2:  
+__OCD__  
+__vestige__ _n_ (vestiges)  
+
 __split hairs__ _idiom_ Argue or worry about small details.  
 __round the bend__ _idiom_ Crazy, insane.  
 __see eye to eye__ _idiom_ To concur, agree.  
