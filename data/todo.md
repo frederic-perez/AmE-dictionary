@@ -1,4 +1,10 @@
 
+__hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
+__account for__ _phr v_ To explain.  
+__alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
+__tenuous__ _adj_ Having litthe substance or strength; thin; weak.  
+__in deep water__ _idiom_ To be in a difficult situation.  
+
 __slump__ _v_ _People slumping out of chairs._  
 __hiya__ _interj_ An informal term of greeting.  
 __close call__ _n_ _informal_ :dart: A narrow escape from danger or trouble. _syn_ a close shave, narrow escape _Phew, that was a close shave._  
