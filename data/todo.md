@@ -1,26 +1,4 @@
 
-__break a leg__ _idiom_ Good luck.  
-__ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
-__barking up the wrong tree__ _idiom_ Looking in the wrong place.  
-__be glad to see the back of__ _idiom_ Be happy when a person leaves.  
-__against the clock__ _idiom_ Rushed and short on time.  
-
-__ladybird__ _n_  
-__hoodwink__ :two::hammer:  
-__smear__ _v_  
-__salmon__ _n_ :three::hammer:  
-__paranoid__ _adj_  
-__cult__ _n_  
-__PTSD__ _abbr_ Posttraumatic stress disorder.  
-__solid__ _adj_ _A solid year._  
-__summertime__ _n_ :pencil2:  
-__tapioca__ :mega:  
-__dub__ _v_ (dubbed)  
-__pot brownies__ _n_ _Edibles like pot brownies._  
-
-__zone out__ _phr v_ To lose concentration or become inattentive.  
-__yo-yo__ _slang_ A stupid or crazy person.  
-__zip up__ To close something that has a zipper.  
 __happy as a clam__ _idiom_ Very happy.  
 __mailman__ _n_  
 __forty winks__ _idiom_  

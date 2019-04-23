@@ -160,7 +160,7 @@ __aftermarket__
 __afters__ _n informal_ Dessert.  
 __afterward__ :two::hammer:  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
-__against the clock__ _idiom_ Rushed and short on time.  
+__against the clock__ _idiom_ :two: Rushed and short on time.  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
 __ageless__  
@@ -608,6 +608,7 @@ __balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to acc
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :octocat: balky donkey _He was trying to get his balky donkey to move._  
 __ball and chain__ A wife.  
 __ball bearings__  
+__ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
 __balladeer__  
 __ballasr__  
 __ballast__  
@@ -657,6 +658,7 @@ __bargain__ _He poured red wine to seal their bargain._
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
 __barked__ :two::hammer: _His forehead was barked._ _Barked area._  
+__barking up the wrong tree__ _idiom_ Looking in the wrong place.  
 __barn__ _Out of the barn._  
 __barnburner__ _n_ :two::hammer:  
 __barnstorm__  
@@ -706,6 +708,7 @@ __bazillion__
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
+__be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
@@ -1207,7 +1210,7 @@ __breach<sup>2</sup>__ _v_ :five: (breached) To fail to keep. _Syn_ violate
 __bread and butter__  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one's) neck__  
-__break a leg__ _idiom_  
+__break a leg__ _idiom_ :two: Good luck.  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
 __break the ice__ _idiom_ To make people who have not met before feel more relaxed with each other.  
@@ -2522,7 +2525,7 @@ __culinary__ _adj_ Of or relating to a kitchen or to cookery.
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
-__cult__ _n_  
+__cult__ _n_ :two::hammer:  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
 __cuneiform__  
@@ -3209,6 +3212,7 @@ __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; ma
 __dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __DSLR__  
+__dub__ _v_ (dubbed)  
 __dubious__ :two::hammer:  
 __duchy__ (duys)  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
@@ -5149,7 +5153,7 @@ __hood fan__
 __hood__ _n_ :two::hammer:  
 __hoodlums__ :two::hammer:  
 __hoods__ _n_  
-__hoodwink__ _v_ To deceive or trick.  
+__hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
 __hookup__ _n_  
 __hooky__ _A kid playing hooky._  
@@ -5850,6 +5854,7 @@ __laddie__
 __laden__ _adj_ :three: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
 __lading__ _Checking bills of lading._  
 __Lady Luck__ _I''m riding with Lady Luck._  
+__ladybird__ _n_  
 __ladyfinger cookies__  
 __lag__ _v_ :two::hammer:  
 __laggard<sup>1</sup>__ _adj_ :three::hammer:  
@@ -7345,6 +7350,7 @@ __paragon__ _n_ :four::hammer: (paragons) _A paragon of redundancy._
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
 __paramount__ _The reliability of the weather station is paramount._  
+__paranoid__ _adj_  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __parasailing__  
@@ -7869,6 +7875,7 @@ __poster boy__ :two::hammer:
 __poster child__ _n_ :three::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
 __postmark__ _v_  
+__pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ :two::hammer: _A pot of assets._ _Where are the pot bunkers?_  
 __potatoes__ :pencil2:  
@@ -8076,7 +8083,7 @@ __psychic__ :mute:[~~p~~sychic]
 __psychology__ :mute:[~~p~~sychology]  
 __psychopathic__  
 __pterodactyl__ :mute:[~~p~~terodactyl]  
-__PTSD__ _abbr_ :two: Post-traumatic stress disorder.  
+__PTSD__ _abbr_ :three: Post-traumatic stress disorder.  
 __public eye__  
 __public house__ _n_ :five::hammer: :es: taberna  
 __public housing__  
@@ -8888,7 +8895,7 @@ __sales force__
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
 __sallow__ _adj_ :three::hammer: _A sallow face._  
-__salmon__ :mute:[sa~~l~~mon]:astonished:  
+__salmon__ _n_ :mute:[sa~~l~~mon]:astonished::four:  
 __salt away__  
 __salt of the Earth__  
 __salt the shaft__ :two::hammer: _Salt the shaft if you have to._  
@@ -9661,7 +9668,7 @@ __smash song__ _n_ _That was a smash song._
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :nine: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
-__smear<sup>1</sup>__ _v_ :five: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
+__smear<sup>1</sup>__ _v_ :six: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
@@ -9793,7 +9800,7 @@ __solemn__ :mute:[solem~~n~~]
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
 __solid gold__  
-__solid__ _adj_ :dart::four::hammer: _It lasted a solid year._ _It rained for a solid week._  
+__solid__ _adj_ :dart::five::hammer: _It lasted a solid year._ _It rained for a solid week._  
 __solidify__ _v_  
 __soliloquy__  
 __solipsistic__ _adj_ :four::hammer:  
@@ -10373,7 +10380,7 @@ __sultanate__
 __sultry__ :two::hammer:  
 __summarily__ _adv_  
 __summary__ :two::hammer: _Summary deaths._ _Summary killings._  
-__summertime__  
+__summertime__ _n_ :two::pencil2::hammer:  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
 __Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
@@ -10588,6 +10595,7 @@ __tap__ _v_ :five: __1__ To strike gently with a light blow or blows: _I tapped 
 __taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
+__tapioca__ :mega:  
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _A bugler played taps._  
 __tardy__ :two::hammer:  
@@ -12034,6 +12042,7 @@ __yipped__ _v_
 __yipping__ _v_  
 __yips__  
 __yo__  
+__yo-yo__ _slang_ A stupid or crazy person.  
 __yo-yoing__  
 __yoke__ _n_ _Egg yoke._  
 __yokels__ :two::hammer:  
@@ -12071,11 +12080,13 @@ __zig__ _v_ _They tend to zig when markets zag._
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
+__zip up__ To close something that has a zipper.  
 __zip-line<sup>2</sup>__ _v_ :two::hammer: (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
 __zippy__ _?_ _A zippy hit parade._  
 __zit__ _n informal_ A spot on the skin.  
+__zone out__ _phr v_ To lose concentration or become inattentive.  
 __zonk__ _n_ :two::hammer:  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ :two::hammer: :es: calabacín  
