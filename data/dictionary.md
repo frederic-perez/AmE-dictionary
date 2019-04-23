@@ -66,6 +66,7 @@ __accompanist__
 __accompany__ _v_  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
 __according to plan__ :two::hammer: _If everything goes according to plan._  
+__account for__ _phr v_ To explain.  
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
@@ -204,6 +205,7 @@ __alabaster__
 __alacrity__ _n_ :two: /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __Alaskan__  
 __albatross__ _n_ :pencil2::two::hammer:  
+__alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
 __alcove__ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
@@ -1970,7 +1972,7 @@ __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction z
 __clockwork__ _n_  
 __clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __close > not even close__  
-__close call__ _n informal_ :two: An outcome in which a bad result is narrowly averted.  
+__close call__ _n informal_ :three::dart: A narrow escape from danger or trouble. _syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
@@ -2489,7 +2491,8 @@ __crumpling__
 __crunch__ _n_  
 __crunchtime__  
 __crusader__  
-__crush__ _I was crushed._  
+__crush<sup>1</sup>__ _I was crushed._  
+__crush<sup>2</sup>__ _n_  
 __crusty__  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :two::hammer: _The crux of the matter._  
@@ -3417,6 +3420,7 @@ __endangerment__
 __endeared__  
 __endearing__ _adj_ :seven: Inspiring affection. _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endgame__  
+__endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
 __endow__ _v_  
 __endowed__ :two::hammer:  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
@@ -4052,7 +4056,7 @@ __forager__ _n_ :two::hammer: (foragers)
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ :es: incursión  
 __forbear__ _v_  
 __forbearance__  
-__forceful__ _A forceful pitch._  
+__forceful__ _adj_ :two::hammer: _A forceful pitch._  
 __forcible__ _adj_ :three::hammer:  
 __fore and aft__  
 __fore__ _n_ :four::hammer:  
@@ -4903,7 +4907,7 @@ __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._
 __headdress__ _n_ :two::hammer: _The pharaoh's headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
-__heads up__  
+__heads up__ _n_ :two: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
 __headshot__ _n_ :dart:  
 __headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_  
@@ -5062,6 +5066,7 @@ __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, c
 __hitherto__ _adv_ :three::hammer:  
 __HIV__  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
+__hiya__ _interj_ An informal term of greeting.  
 __HMOs__  
 __ho__  
 __ho-hum__ _adj informal_ :three: So lacking in interest as to cause mental weariness; dull; mediocre. _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
@@ -5085,6 +5090,7 @@ __hog<sup>2</sup>__ _v informal_ To take more than one's share of: _Don't hog th
 __hogslop__  
 __hoist__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
+__hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
 __hold a referendum__  
 __hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
@@ -5349,6 +5355,7 @@ __in a nutshell__
 __in all likelihood__  
 __in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
 __in check__ _Keep those emotions in check._  
+__in deep water__ _idiom_ To be in a difficult situation.  
 __in droves__ _They will come in droves._  
 __in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
@@ -5905,6 +5912,7 @@ __latchkey__
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __latecommer__ _I'm somewhat of a latecomer._  
 __lath__ _n_ :three::hammer: (laths)  
+__lather, rinse, repeat__ :dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought.  
 __lathered__ _v_ :two::hammer: (lathering)  
 __lathes__  
 __Latinas__  
@@ -7006,6 +7014,7 @@ __obtuseness__
 __obverse__ _The obverse hub of a coin._  
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
+__OCD__  
 __octogenarians__  
 __octoroons__  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
@@ -8473,7 +8482,7 @@ __regalia__ _n_ :two::hammer:
 __regatta__  
 __regents__ _n_  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
-__regret__ _We violated this rule with regret._  
+__regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
 __regular shipping__ (vs _expedited shipping_)  
 __regulation__ :two::hammer: _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
@@ -8770,7 +8779,7 @@ __roughly__ :two::hammer:
 __roughshod__ _adv_ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
 __round out__ _v_ :two::hammer:  
-__round the bend__ _idiom_ Crazy, insane.  
+__round the bend__ _idiom_ :two: Crazy, insane.  
 __round__ _v_  
 __round-trip__ :two::hammer: _A round-trip ticket._  
 __roundabout__ :two::hammer: (Children's attraction.)  
@@ -9107,7 +9116,7 @@ __sedate__ (sedate menswear)
 __sedative__ _n_ _Not the strongest sedative._  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
 __sedulous__  
-__see eye to eye__ _idiom_ To concur, agree.  
+__see eye to eye__ _idiom_ :two: To concur, agree.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
 __seediness__  
@@ -9546,6 +9555,7 @@ __slatted__ _v_ :two::hammer: _Slatted sunlight._
 __slatternly__  
 __slaughter__ :mute:[slau~~gh~~ter]  
 __slave driver__ _n_ A person who makes other people work very hard.  
+__slavishly__ _Following instructions slavishly._  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __slayer__  
 __sleaziest__  
@@ -9628,7 +9638,7 @@ __slum<sup>2</sup>__ _v_
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
 __slumber__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
 __slumming__ _v_ :two::hammer:  
-__slumped__ _v_  
+__slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
@@ -9909,7 +9919,7 @@ __splendor__
 __spliced__ _v_  
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
-__split hairs__ _idiom_ Argue or worry about small details.  
+__split hairs__ _idiom_ :two: Argue or worry about small details.  
 __split__ _n_  
 __splotched__ _v_  
 __splotches__ _n_  
@@ -10667,7 +10677,7 @@ __Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.
 __tenon__  
 __tense__ _adj_  
 __tentative__  
-__tenuous__ :two::hammer:  
+__tenuous__ _adj_ :three: Having litthe substance or strength; thin; weak.  
 __tenure__  
 __tenured__  
 __tepid__ _adj_ :five::hammer:  
@@ -11494,7 +11504,7 @@ __very true__
 __very__ _We were in this very room._  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ :mega:  
-__vesting__ _The vesting date._  
+__vestige__ _n_ :two::hammer: (vestiges) _The vesting date._  
 __veto__ _v_  
 __vetted__ _v_ :three::hammer:  
 __vetting__  
