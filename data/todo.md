@@ -1,26 +1,4 @@
 
-__happy as a clam__ _idiom_ Very happy.  
-__mailman__ _n_  
-__forty winks__ _idiom_  
-__barrel of laugh__ _idiom_ Someone who is very funny.  
-__old as the hills__ _idiom_ Someone who is very old.  
-__in the doghouse__ _idiom_  
-__up for grabs__ _idiom_ Available for anyone.  
-
-__entrench__ _v_  
-__nagging__ _adj_ Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._  
-__ostracize__  
-__catch wind of something__ _idiom_ (get wind of something) To learn of something; to hear about something.  
-__ruse__ _n_  
-__template__ :dart::mega: /ˈtɛmplɪt/ (templet)  
-__luncheon__ _n_  
-__elated__ _adj_  
-__call__ _n_ _It's your call._  
-__add up__ _phr v_ _It doesn't add up._  
-__face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
-__ordeal__  
-
-__zonk out__ _phr v_ To fall asleep.  
 __Adam's ale__ _slang_ Water.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __zoom in__ _phr v_ To focus more closely.  

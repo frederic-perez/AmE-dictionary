@@ -106,7 +106,7 @@ __ad-lib__ _v_ :three::hammer: (ad-libs)
 __Ada__ :mega: /ā′də/  
 __adage__ :two::hammer:  
 __adamant__  
-__add up__ :two::hammer: _The whole thing doesn't add up._  
+__add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __address__ _v_  
 __adenoidal__  
@@ -667,7 +667,7 @@ __barrage<sup>1</sup>__ _n_ :four: __1__ A concentrated discharge or bombardment
 __barrage<sup>2</sup>__ _v_  
 __barre__  
 __barrel bombs__  
-__barrel of laugh__ _idiom_ Someone who is very funny.  
+__barrel of laugh__ _idiom_ :two: Someone who is very funny.  
 __barrel__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__  
@@ -1517,7 +1517,7 @@ __call the shots__
 __call to action__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon someone__ _It's nice when they call upon you and you're able to go out there and show them._  
-__call<sup>1</sup>__ _n_ :four::hammer: _It would've been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he'd call another run play._ _It was a very questionable call._  
+__call<sup>1</sup>__ _n_ :five::hammer: _It's your call._ _It would've been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he'd call another run play._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __callback__ _That was a callback to a previous episode._  
 __calling card__  
@@ -1666,6 +1666,7 @@ __catch hell__ _I'd catch hell for it._
 __catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __catch some Zs__ _idiom_ To go to sleep, to take a nap.  
 __catch up__ _v_  
+__catch wind of something__ _idiom_ (get wind of something) To learn of something; to hear about something.  
 __catch wind__ _I don't know if you caught wond of it._  
 __catch__ _n_ (game)  
 __Catch-22__ _It's a real Catch-22 situation._  
@@ -3346,6 +3347,7 @@ __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._
 __EKG__  
 __el__ :two::hammer: _The el tracks._  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
+__elated__ _adj_  
 __elation__ :two::hammer:  
 __elbow grease__ _idiom_ :three: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
@@ -3458,7 +3460,7 @@ __entitle__ _v_ :three::hammer: (entitled) _They are entitled to know that._ _We
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ :two::hammer: :es: séquito  
 __entrant__ :astonished:  
-__entrench__ _v_ :six: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
+__entrench__ _v_ :seven: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
@@ -3614,6 +3616,7 @@ __fabricate__ _v_ _Fabricated stories._
 __fabricator__  
 __façade__ _n_  
 __face off__ _v_  
+__face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__  
 __face-lift__  
 __facetious__ _adj_ :pencil2:  
@@ -4105,7 +4108,7 @@ __forthcoming__
 __forthright__  
 __fortified wine__  
 __fortnight__  
-__forty winks__ _idiom_ A short nap.  
+__forty winks__ _idiom_ :two: A short nap.  
 __foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
@@ -4816,6 +4819,7 @@ __haphazardly__ :two::hammer:
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
 __happy about it__ _I'm not entirely happpy about it._  
+__happy as a clam__ _idiom_ Very happy.  
 __happy feet__  
 __haps__ _n_ :two::hammer: _What's the haps?_  
 __harangue__ _v_  
@@ -5369,7 +5373,7 @@ __in short order__
 __in stitches__ _idiom_  
 __in the black__ _idiom_  
 __in the clear__ :two::hammer: _She is in the clear._  
-__in the doghouse__ _idiom_  
+__in the doghouse__ _idiom_ :two::hammer:  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
 __in the lurch__ _The TV series was left in the lurch._  
@@ -6238,7 +6242,7 @@ __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chu
 __lumpy__ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
 __lunch lady__ _She worked as a lunch lady._  
-__luncheon__ _n_ :five::hammer: Lunch.  
+__luncheon__ _n_ :six::hammer: Lunch.  
 __lunchpail__  
 __lunchtime__  
 __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into the pen._  
@@ -6286,6 +6290,7 @@ __mahogany__ _n_ :three::hammer: _He took a leather seat at a magohany bar._
 __maiden__ :two::hammer: _Maiden flight._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ :pencil2: _Two great, mailed figures circling each other in the desert._  
+__mailman__ _n_  
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __maimed__  
 __Main Street__  
@@ -6791,7 +6796,7 @@ __nadir__
 __naevus__ _n_ (nevus)  
 __nag<sup>1</sup>__ _v_  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
-__nagging__ :two::hammer: _A nagging groin injury._ _A nagging knee injury._  
+__nagging__ _adj_ :three: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
 __nail it__  
 __naïveté__  
@@ -7059,6 +7064,7 @@ __OK__ _v_ _Lower House panel OKs casino legalization bill._
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okra gumbo__  
 __okra__ :two::hammer:  
+__old as the hills__ _idiom_ Someone who is very old.  
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __old hat__  
 __Old Hickory bat__  
@@ -7150,7 +7156,7 @@ __oscillating fan__
 __ossified__ _v_ :two::hammer:  
 __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostracism__ _n_  
-__ostracize__ _v_ :two::pencil2::hammer:  
+__ostracize__ _v_ :three::pencil2::hammer:  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
@@ -8852,7 +8858,7 @@ __runs from (date) to (date)__ _The 45-day review period runs from November 16, 
 __runs me off__  
 __runt__  
 __ruptured__ _v_ _He ruptured his Achilles._  
-__ruse__ _n_ :four::hammer: (ruses)  
+__ruse__ _n_ :five::hammer: (ruses)  
 __rustle up__ _v_  
 __rustle__ _v_ :five::mute:[rus~~t~~le]:hammer: (rustled, rustling) _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
@@ -10670,7 +10676,7 @@ __temperament__
 __tempering__ _adj_ _A tempering experience_  
 __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempestuous__  
-__template__ :mega:  
+__template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
 __Tempranillo__  
 __tenable__ _adj_  
 __tenacious__ _adj_  
@@ -11364,7 +11370,7 @@ __unyield__ _v_
 __unyielding__ :two::hammer:  
 __up and running__  
 __up and under__ A basketball move.  
-__up for grabs__ _idiom_ Available for anyone.  
+__up for grabs__ _idiom_ :two: Available for anyone.  
 __up__ _v_ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
@@ -12086,7 +12092,7 @@ __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning th
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
 __zippy__ _?_ _A zippy hit parade._  
 __zit__ _n informal_ A spot on the skin.  
-__zone out__ _phr v_ To lose concentration or become inattentive.  
+__zone out__ _phr v_ :two: To lose concentration or become inattentive. To fall asleep.  
 __zonk__ _n_ :two::hammer:  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ :two::hammer: :es: calabacín  
