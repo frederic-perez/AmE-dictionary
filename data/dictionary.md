@@ -105,6 +105,7 @@ __ad__ _n informal_ Advertisement.
 __ad-lib__ _v_ :three::hammer: (ad-libs)  
 __Ada__ :mega: /ā′də/  
 __adage__ :two::hammer:  
+__Adam's ale__ _slang_ Water.  
 __adamant__  
 __add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
@@ -270,6 +271,7 @@ __amiss__ _adj_
 __amity__  
 __ammassed__ _v_  
 __amnesty player__  
+__amount to__ _idiom_ :two::hammer:  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ample__ _adj_ :three: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
@@ -1493,8 +1495,9 @@ __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child m
 __cadre__ _n_ :five::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
 __caftan__ _n_ :four::hammer: (caftans)  
-__cagey__ _adj_  
+__cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answer._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
+__cagy__ _adj_ Variant of cagey.  
 __cahoots__  
 __cajole__ _v_ :five::hammer: (cajoled, cajoling)  
 __cake-and-punch__ _The cake-and-punch reception._  
@@ -2573,7 +2576,7 @@ __cutthroat<sup>1</sup>__ _n_
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin' a rug__  
 __cyclone__ _n_  
-__cynical__  
+__cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
 __cytometry__  
 __D-ring inset__  
@@ -3093,7 +3096,7 @@ __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions
 __Down Under__  
 __down under__ _n informal_ _Best regards from down under._  
 __down-low__  
-__down-to-earth__ _idiom_ Sensible and realistic.  
+__down-to-earth__ _idiom_ :two: Sensible and realistic.  
 __downbeat__ :two::hammer:  
 __downdrafts__ _n_  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
@@ -3349,7 +3352,7 @@ __el__ :two::hammer: _The el tracks._
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_  
 __elation__ :two::hammer:  
-__elbow grease__ _idiom_ :three: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
+__elbow grease__ _idiom_ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
 __elderflower__  
@@ -3834,6 +3837,7 @@ __fire retardant__
 __fire sale__ _n_ :three::hammer:  
 __firebrand__  
 __firebug__ _n_  
+__firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __first and foremost__  
@@ -4362,6 +4366,7 @@ __get a grip__
 __get a jump__ _Get a jump on things._  
 __get a kick out of__ _You'll get a kick out of this!_  
 __get ahold__  
+__get along with__ _idiom_ To have a good relationship with someone.  
 __get away with__  
 __get enough__  
 __get looks__ _v_ :two::hammer:  
@@ -4883,7 +4888,9 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
+__have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
+__have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have hot pants (for someone)__ _idiom_  
 __have someone pegged__ _She had me pegged on that, too._  
 __have your cake and eat it (too)__ _idiom_  
@@ -4910,6 +4917,7 @@ __head over heels__ _idiom_ To be very much in love with someone.
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _Giving them a head start on finding a job._  
 __head wind__  
+__head__ _v_ _Head to Freakonomics.com._  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
 __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._  
 __headdress__ _n_ :two::hammer: _The pharaoh's headdress._  
@@ -5647,7 +5655,7 @@ __John Doe__
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
 __Johnny-come-lately__ _idiom_  
-__joined at the hip__ _idiom_ To be exceptionally close to someone.  
+__joined at the hip__ _idiom_ :two: To be exceptionally close to someone.  
 __joint__ _n_ A prison, a jail.  
 __joists__  
 __jokesmith__  
@@ -5911,7 +5919,7 @@ __Lasik__ _Lasik surgery._
 __lassitude__  
 __lassos__ _v_  
 __last > next to last__  
-__last straw__ _idiom_ The final problem in a series of problems.  
+__last straw__ _idiom_ :two: The final problem in a series of problems.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
@@ -10672,6 +10680,7 @@ __telltale__ :two::hammer:
 __temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper__ _v_ :four::hammer: (tempered)  
+__tempera__ _n_  
 __temperament__  
 __tempering__ _adj_ _A tempering experience_  
 __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
@@ -11074,7 +11083,7 @@ __triad__
 __triage__ _n_ The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __trial__ _n_  
 __Tribeca__  
-__tribulation__ _n_ :seven::hammer: (tribulations)  
+__tribulation__ _n_ :eight::hammer: (tribulations)  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _syn_ affluent  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
@@ -12071,6 +12080,7 @@ __yummy__
 __yurt__ _n_ :two::hammer: (yurts)  
 __zaniness__ :two::hammer:  
 __zany__ _adj_ :six: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
+__zarf__ _n_  
 __zeal__ _n_  
 __zealotry__  
 __zealous__  
@@ -12094,6 +12104,7 @@ __zippy__ _?_ _A zippy hit parade._
 __zit__ _n informal_ A spot on the skin.  
 __zone out__ _phr v_ :two: To lose concentration or become inattentive. To fall asleep.  
 __zonk__ _n_ :two::hammer:  
+__zoom in__ _phr v_ To focus more closely.  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ :two::hammer: :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
