@@ -1,4 +1,15 @@
 
+__entitled__ _Treatments you're no longer entitled to on the NHS._  
+__firsthand__ _n_  
+__co-op__  
+__tax break__  
+__clickbait__ _Clickbait journalism._  
+__bailiffs__  
+__Bristolian__  
+__sell-offs__  
+__lowdown__ _Here's the lowdown of what you can't afford to miss._  
+__safe house__  
+
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
