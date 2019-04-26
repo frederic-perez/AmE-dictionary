@@ -1,4 +1,13 @@
 
+__brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
+__act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
+__brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
+__in the dead of winter__ _idiom_ In the middle of the winter.  
+__in the doghouse__ _idiom_ In a situation in which someone is annoyed with you because of something you did.  
+__blowhard__ _n idiom_ A very boastful and talkative person.  
+__act for__ _phr v_ To represent someone.  
+__act as__ _phr v_ To perform the same function as a particular person or thing.  
+
 __unabashed__ _adj_  
 __hilarious__ _adj_  
 __paddling__ _n_  
