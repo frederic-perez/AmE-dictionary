@@ -1,4 +1,18 @@
 
+__unabashed__ _adj_  
+__hilarious__ _adj_  
+__paddling__ _n_  
+__freshman__ _n_  
+__barricade<sup>1</sup>__ _n_  
+__barricade<sup>2</sup>__ _v_  
+__loan__  
+__obliterate__ _v_  
+__despise__ _v_  
+__harness<sup>1</sup>__ _n_  
+__harness<sup>2</sup>__ _v_  
+__undercut<sup>1</sup>__ _v_  
+__undercut<sup>2</sup>__ _n_  
+
 __down the road__ _idiom_ In the future.  
 __scion__ _n_  
 __buttercup__ _n_  
