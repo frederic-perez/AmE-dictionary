@@ -2086,7 +2086,7 @@ __come of age__
 __come to grips__  
 __come to her senses__  
 __come to terms__ :two::hammer:  
-__come together__  
+__come together__ _idiom_ :two::hammer:  
 __comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
 __comeuppance__  
 __comforter sets__  
@@ -2615,6 +2615,7 @@ __dandelion thistle__
 __dandelion__ _n_ :five: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
+__dandy__  
 __dang__ _adj_ _But, dang marketers go crazy._  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
@@ -2656,6 +2657,7 @@ __dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Nev
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead on__  
 __dead ringer__ An exact duplicate.  
+__dead set against something__ _idiom_ To be completely against something.  
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
@@ -2747,7 +2749,7 @@ __deli__
 __delight__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
 __deliver__ _v_ :two::hammer: _Republicans apparently cannot deliver._  
-__deliverance__ :two::hammer:  
+__deliverance__ _n_ :three::hammer: _Hope and deliverance._  
 __delivered__ _On Thursday the No. 4-ranked Cougars delivered._  
 __delivers__  
 __delivery note__  
@@ -2998,6 +3000,7 @@ __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug o
 __divvy up__ _v_  
 __divvy__ _v_  
 __dizzy__  
+__do a runner__ _idiom_ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do it by the numbers__  
 __do math__  
 __Do your magic__ _idiom_  
@@ -3016,7 +3019,9 @@ __dodgy__ _adj_ _slang_ :two: Dishonetsor unreliable.
 __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doeskin__ _A doeskin wallet._  
+__doesn't hold water__ _idiom_ Not true or not reasonable.  
 __doff__ _v_ (doffing) :two::hammer: _Doff his hat._  
+__dog and pony show__ _idiom_ a presentation which designed to impress an audience but has no real content.  
 __dog days__  
 __dog sledding__  
 __dog tag__  
@@ -3898,6 +3903,7 @@ __flash__
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
 __flash-forward__ _Syn_ analepsis  
 __flashback__  
+__flashlight__ _n_  
 __flat out__  
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat__ _Kaufusi's jump to BYU football proves critics flat wrong._  
@@ -4010,7 +4016,7 @@ __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __fob__ :two::hammer:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
-__foible__ _n_ :three: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
+__foible__ _n_ :four: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :two::hammer: (foisting)  
@@ -5811,7 +5817,7 @@ __knell__ _n_ :three::hammer:
 __knife__ :mute:[~~k~~nife]  
 __knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
-__knit__ _v_ :three::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
+__knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
 __knock someone's socks off__  
 __knock__ _n_ :mute:[~~k~~nock]  
@@ -6903,7 +6909,7 @@ __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ 
 __nigh__  
 __night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
-__nightie__  
+__nightie__ _n_ :two: A woman's nightgown.  
 __nightingale__ _n_  
 __nightmarish__ :two::hammer:  
 __nihilistic__  
@@ -6920,11 +6926,14 @@ __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a pe
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
 __nitty-gritty__ _n_ :three: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
+__nix<sup>1</sup>__ _n_  
+__nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
 __no early birds!__ (?)  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __no offense__  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
+__no worries__ _idiom_ :two::hammer:  
 __no-holds-barred__  
 __no-no__ _n_ _informal_ :six::hammer:  
 __Nobel__ :mega:  
@@ -7291,7 +7300,7 @@ __pace around__ _idiom_ To walk around nervously or anxiously. _He was pacing ar
 __pachinko__ (game)  
 __Pacific Basin__ _Pacific Basin nations._  
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
-__pack__ _v_ :two::hammer: _Never pack items like medicine or valuables._  
+__pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package deal__  
 __package__ _n_ :mega: /păk′ĭj/  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
@@ -7406,7 +7415,7 @@ __participatory__ _I wanted to be a participatory father._
 __particle board__  
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
 __partridge__ _n_ :two::hammer:  
-__party animal__ Someone who likes to attend parties often.  
+__party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
 __party poppers__  
 __party__ _n_  
 __parvenu__  
@@ -7605,6 +7614,7 @@ __pick your nose__ :dart: To use your finger to remove mucus from inside your no
 __pick__ _v_ _Pick your choice._  
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
+__pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pickets__ _n_  
 __picklock__ _v_  
 __pickoff__ _A pickoff throw to first base._  
@@ -10307,7 +10317,7 @@ __stroll__ _v_
 __strong accent__  
 __strongman__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
-__strudel__ _n_ :two::hammer:  
+__strudel__ _n_ :three::hammer:  
 __strummed__ _v_ _He then strummed out a string of hits, including "Message in a Bottle."_  
 __strung out__  
 __strung__ _v_  
@@ -11864,9 +11874,11 @@ __wimp__ _n_
 __wimpiness__  
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
+__win back__ _phr v_ To get back something that you have lost.  
 __wince__ _v_ :four::hammer: (winced)  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
+__wind down__ _phr v_ To end, or to finish something gradually.  
 __wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
 __winded__  
 __windlass__  
@@ -11970,7 +11982,7 @@ __wow__ _v_ :two::hammer:
 __wracking__ _v_  
 __wraith__  
 __wrangle__ _v_ :two::hammer: (wrangling)  
-__wrap one's head around it__ :two::hammer: _I'm trying to wrap my head around it._  
+__wrap (one's) head around it__ _idiom_ :three::hammer: _I'm trying to wrap my head around it._  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
 __wrap__ :mute:[~~w~~rap]  
 __wraparound season__  
