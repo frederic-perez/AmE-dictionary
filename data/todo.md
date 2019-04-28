@@ -1,4 +1,13 @@
 
+__in hot water__ _idiom_ In trouble.  
+__clothespin__ _n_  
+__carabiner__ _n_ :es: mosquetón  
+__safety pin__ _n_ :es: imperdible  
+__edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
+__edible<sup>2</sup>__ _n_  
+__over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphenated if used before a noun.)  
+__significant other__  
+
 __relentless__ _adj_  
 __quiescent__  
 __consumable__  
