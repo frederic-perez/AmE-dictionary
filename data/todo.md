@@ -1,4 +1,15 @@
 
+__drizzly__  
+__plaster__ _n_ (band-aid?)  
+__the final straw__  
+__shadow__ _v_  
+__ivy__  
+__disparaging__ _adj_  
+__ingrained__  
+__perinatal__  
+__enviable__  
+__pink collar__ _Pink collar jobs._  
+
 __open loop__  
 __bug__ _v_  
 __get closure__  
