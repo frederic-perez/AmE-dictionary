@@ -1,4 +1,15 @@
 
+__open loop__  
+__bug__ _v_  
+__get closure__  
+__preoccupation__  
+__innate__  
+__dead__ _Dead batteries._  
+__to-do list__  
+__shortchange__ _v_ (?)  
+__fallow__  
+__loose ends__  
+
 __entitled__ _Treatments you're no longer entitled to on the NHS._  
 __firsthand__ _n_  
 __co-op__  
