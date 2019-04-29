@@ -1,4 +1,14 @@
 
+__busybody__ A person who is too interested in the lives of others.  
+__act up__ _phr v_ To behave badly or strangely.  
+__on the fence__ _idiom_ Unable to make a decision.  
+__jump ship__ _idiom_ To leave a job or activity.  
+__keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
+__get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
+__add up to__ _idiom_ To equal or amount to something.  
+__butterfingers__ _idiom_ A person who frequently drops things, clumsy person.  
+__thumb war__  
+
 __otherworldly__  
 __Alas!__  
 __professed__ _v_  
