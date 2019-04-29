@@ -1,4 +1,20 @@
 
+__backtrack__ _n_  
+__outreach__ _n_  
+__ailment__ _n_  
+__miscarriage__ _n_  
+__lowdown__ _The lowdown on cycle network innovations._  
+__PM__ Particulate matter. Small particles in the air, containing a variety of components.  
+__stunt__ _v_  
+__onset__  
+__accolade__ _n_  
+__cater__ _v_ 
+__levy__  
+__bursaries__  
+__chasm__  
+__longstanding__ _adj_  
+__portrait__  
+
 __in hot water__ _idiom_ In trouble.  
 __clothespin__ _n_  
 __carabiner__ _n_ :es: mosquetón  
