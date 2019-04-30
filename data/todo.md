@@ -1,4 +1,17 @@
 
+__plethora__  
+__assembly line__ :four::hammer:  
+__crate__ _n_  
+__seldom__  
+__thrust__ _v_  
+__impelled__  
+__latitude__ _n_ _No latitude left to ignore a request from the family._  
+__lofty__ (?)  
+__up__ _v_ _It just ups the ante in the game._  
+__ante__ _It just ups the ante in the game._  
+__martial artist__  
+__truism__  
+
 __by any chance__ _idiom_ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __pivot<sup>1</sup>__ _n_  
 __pivot<sup>2</sup>__ _v_  
