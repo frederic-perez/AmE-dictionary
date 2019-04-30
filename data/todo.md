@@ -1,4 +1,25 @@
 
+__motorist__  
+__thumping__ _A thumping majority._  
+__consultee__ _n_  
+__accolade__  
+__cater__ _v_  
+__portrayal__  
+__in the thick__ _Jane is in the thick of it._  
+__chuck__ _v_  
+__crisp__ _n_  
+__role model__  
+__vexed__ _v_  
+__carrots and sticks__  
+__bail out__  
+__in the long run__  
+__scarce__  
+__exemption__  
+__peers__  
+__deep pockets__  
+__chasm__  
+__galling__ _v_  
+
 __plethora__  
 __assembly line__ :four::hammer:  
 __crate__ _n_  
