@@ -1,4 +1,17 @@
 
+__by any chance__ _idiom_ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
+__pivot<sup>1</sup>__ _n_  
+__pivot<sup>2</sup>__ _v_  
+__spotlight<sup>1</sup>__ _n_  
+__spotlight<sup>2</sup>__ _v_  
+__silver lining__  
+__kindred__ :two::hammer: _Kindred spirit._  
+__lumberjack__ _n_  
+__roll of the dice__ _Third roll of the dice._  
+__crunch__ _n_ (crunches)  
+__rapier__ _n_ A straight sword with a narrow blade and two edges.  
+__bang for the buck__  
+
 __busybody__ A person who is too interested in the lives of others.  
 __act up__ _phr v_ To behave badly or strangely.  
 __on the fence__ _idiom_ Unable to make a decision.  
