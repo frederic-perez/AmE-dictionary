@@ -1,4 +1,19 @@
 
+__grizzle__ _v_  
+__agenzy__ _They take agenzy over their lives._  
+__toddle__ _v_  
+__rubble__ _n_  
+__crakle__ _v_ _The phone collection crackles._  
+__stark__  
+__arguably__  
+__plaster__ _v_ _Protestors have plastered the streets with graffiti._  
+__akin to__  
+__chip in__  
+__mull__ _v_  
+__sick leave__ _n_  
+__cyst__ _n_ :mega: _Ganglion cysts._  
+__rhinosinusitis__ _Chronic rhinosinusitis._  
+
 __redeem__ _v_  
 __hands on__  
 __spotlight__ _v_  
