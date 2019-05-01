@@ -1,4 +1,15 @@
 
+__redeem__ _v_  
+__hands on__  
+__spotlight__ _v_  
+__boilerplate__  
+__no worries__ _idiom_ No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
+__full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent's arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
+__uptick__  
+__Johnnie-come-lately__ _n idiom_ Someone new to a situation or status.  
+__aghast__  
+__caper__  
+
 __motorist__  
 __thumping__ _A thumping majority._  
 __consultee__ _n_  
