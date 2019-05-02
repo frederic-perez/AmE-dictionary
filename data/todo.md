@@ -1,25 +1,4 @@
 
-__buoyant__ _adj_ _Buoyant energy._  
-__venture__ _n_  
-__mundane__  
-__wilt__ _v_ _A wilting plant in the office._  
-__flesh out__ _phr v_  
-__bug__ _v_  
-__fudge__ _v_ _You can’t fudge this thinking._  
-__pertinent__  
-__peril__  
-__strewn__ _v_  
-__placeholder__ _n_  
-__loitering__ _Strategy ideas loitering in a notebook._  
-__gnaw__ _v_  
-__abeyance__ _You capture the inventory into containers that hold items in abeyance._  
-__loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
-__interim__  
-__funnel__ _v_  
-
-__grizzle__ _v_  
-__agenzy__ _They take agenzy over their lives._  
-__toddle__ _v_  
 __rubble__ _n_  
 __crakle__ _v_ _The phone collection crackles._  
 __stark__  

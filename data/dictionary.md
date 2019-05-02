@@ -35,7 +35,7 @@ __abattoir__ _n_ Slaughterhouse.
 __aberrant__ _adj_  
 __aberration__ _n_  
 __abet__ _v_ :four: (abetted, abetting) To help someone do something wrong or illegal.  
-__abeyance__ :two::hammer:  
+__abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
 __abhorrent__ _adj_ :four::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
@@ -165,7 +165,7 @@ __against the clock__ _idiom_ :two: Rushed and short on time.
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
 __ageless__  
-__agency__ :two::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._  
+__agency__ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__  
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
@@ -1330,7 +1330,7 @@ __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
-__bug__ _v informal_ :five: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
+__bug__ _v informal_ :six: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __buggers__  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
@@ -1383,7 +1383,7 @@ __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried
 __buoy<sup>1</sup>__ _n_  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyancy__  
-__buoyant__ _adj_ :four: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
+__buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __bureaucracy__  
 __burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
@@ -3927,7 +3927,7 @@ __fleece__ _v_ :four::hammer: (fleeced)
 __fleecy__  
 __fleeting__  
 __fleetingly__  
-__fleshed out__  
+__flesh out__ _phr v_ :two::hammer: (fleshed out)  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
 __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
@@ -4216,7 +4216,7 @@ __fuchsia__
 __fucking A__ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
-__fudge__ _v_ :two::hammer:  
+__fudge__ _v_ :three::hammer: _You can’t fudge this thinking._  
 __fudging__ _Fudging statistics._  
 __fulcrum__ :two::hammer:  
 __fulfilling__  
@@ -4237,6 +4237,7 @@ __fun house__ _n_
 __fundraiser__ _They were at a fundraiser._  
 __funereal__ _Funereal tone._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
+__funnel__ _v_  
 __funny stomach__  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
@@ -4644,6 +4645,7 @@ __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water 
 __gritted__ _v_  
 __grittier__ _It makes the queso a bit grittier._  
 __gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
+__grizzle__ _v_  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
 __groan__ _v_ :four::hammer:  
 __grocer__ _n_ :two::hammer:  
@@ -5523,6 +5525,7 @@ __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provide
 __intemperance__  
 __intently__  
 __interdicting__  
+__interim__  
 __interlopers__ _n_ :two::hammer:  
 __interment__ _n_ :three::hammer:  
 __intermission__ _n_ :four::hammer::dart:  
@@ -6176,7 +6179,7 @@ __lofty__ _adj_ :five::hammer: _His lofty perch._
 __loggerheads__  
 __loincloths__  
 __loins__ _n_ :two::hammer:  
-__loitered__ _v_  
+__loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
 __loll__ _v_ :three::hammer::pencil2: (lolled, lolling)  
 __lollipop__ _n_ (lollypop)  
 __lone wolf__ _They are lone wolf attacks._  
@@ -6203,6 +6206,7 @@ __loophole__ :es: escapatoria
 __loopy__ :two::hammer: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
 __loose cannon__ :two::hammer:  
 __loose ends__  
+__loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
 __loot__ _v_  
@@ -6763,7 +6767,7 @@ __multipurpose__ :es: polivalente
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumps__  
 __munch__ _v_ :three:hammer: (munches)  
-__mundane__  
+__mundane__ :two::hammer:  
 __Muni bus__  
 __muriatic__  
 __muscling__ _v_  
@@ -7542,7 +7546,7 @@ __perfidious__
 __perfidy__  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
-__perils__ _n_  
+__peril__ _n_ :two::hammer: (perils)  
 __periodontal__ _Periodontal health._  
 __peripheral__  
 __peristaltic__ _adj_  
@@ -7560,6 +7564,7 @@ __perpetrator__
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __persona__ In Latin, _persona_ originally meant "mask." _That's my stage persona._  
 __perspiration__  
+__pertinent__  
 __pertussis__  
 __perusal__ _n_  
 __peruse__ _v_ :two::hammer:  
@@ -7720,7 +7725,7 @@ __placard__ _n_ :three::hammer::camera:
 __place holder__ :two::hammer:  
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
-__placeholder__  
+__placeholder__ _n_ :two::hammer:  
 __placemats__ _n_  
 __placid__  
 __placket__  
@@ -10294,8 +10299,7 @@ __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the ab
 __stretch__ _n_ _We worked for stretches of 6 or 8 hours._  
 __stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __stretch<sup>2</sup>__ _v_ :pencil2: _But then the release cycles began to stretch._  
-__strew__ _v_ :eight: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
-__strewn__ _v_ :two::hammer:  
+__strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child's job is to strew the path with petals.  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
@@ -10938,6 +10942,7 @@ __toast marshmallows__ :camera:
 __toast__ _adj_ :two::hammer: _I'm just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toboggan__ _n_  
+__toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
 __toe-curling__ :two::hammer:  
 __toe-poppers__  
@@ -11516,6 +11521,7 @@ __venom__ _n_ :three::hammer:
 __venomous__ _adj_ :two::hammer:  
 __vent__ _v_ _slang_ :two: To express a negative emotion in a forceful way.  
 __ventilator__ _n_ :pencil2: _med_  
+__venture__ _n_  
 __venue__ _n_ :two::hammer: _What's the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
 __veranda__ _n_ :three: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
@@ -11866,8 +11872,7 @@ __willful__
 __willfully__  
 __willpower__ _n_  
 __willy-nilly__ _adv_ (willy nilly) :seven: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
-__wilt__ _v_  
-__wilted__ _v_ :seven::hammer: (wilting) _He'd wilted under it._  
+__wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
 __wimp out__  
 __wimp__ _n_  
