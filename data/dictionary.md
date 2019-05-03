@@ -170,7 +170,7 @@ __agendum__
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
-__aghast__ _adj_ :three::hammer:  
+__aghast__ _adj_ :four::hammer:  
 __agit__  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
@@ -199,7 +199,7 @@ __airship__ _n_ _Tethered airships._
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
 __aisle__ :mega: (īl)  
-__akin to__  
+__akin to__ :two::hammer:  
 __akin__ :two::hammer:  
 __al fresco__  
 __alabaster__  
@@ -390,7 +390,7 @@ __archrival__ _n_
 __ardent__ :two::hammer: _He was one of her most ardemt suitors._  
 __arduous__  
 __Argentine__ _The pope is an Argentine._  
-__arguably__  
+__arguably__ :two::hammer:  
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :mega:  
 __arm bands__ _n_ :es: manguitos  
@@ -1072,7 +1072,7 @@ __boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek o
 __boiler room__ _n_  
 __boiler__  
 __boilermaker__ :two::hammer:  
-__boilerplate__ _n_ :two::hammer:  
+__boilerplate__ _n_ :three::hammer:  
 __boilers__  
 __boisterous__ :two::hammer:  
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
@@ -1830,7 +1830,7 @@ __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chip apart__  
 __chip away__ _v_ :two::hammer:  
-__chip in__ _v_ :three::hammer: (chipped in)  
+__chip in__ _v_ :four::hammer: (chipped in)  
 __chip on (someone) shoulders__ _idiom_ :nine::dart: (chip on his shoulder, chip on one's shoulder) A disposition to quarrel. _Let's walk into that meeting tomorrow with a chip on our shoulders._  
 __chip shots__ _The golfer was hitting some horrible chip shots._  
 __chip__ _v_ :three::hammer: (chipped, chipping)  
@@ -2385,6 +2385,7 @@ __crafts__ :two::hammer:
 __crafty__  
 __cragginess__  
 __craggy__ :two::hammer:  
+__crakle__ _v_ _The phone collection crackles._  
 __cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :three::hammer: (cramps)  
 __cramped__ _v_ :two::hammer:  
@@ -2578,6 +2579,7 @@ __cuttin' a rug__
 __cyclone__ _n_  
 __cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
+__cyst__ _n_ :mega: _Ganglion cysts._  
 __cytometry__  
 __D-ring inset__  
 __D'oh__ _slang_ Exclamation used when you realize that you did something stupid.  
@@ -4220,6 +4222,7 @@ __fudge__ _v_ :three::hammer: _You can’t fudge this thinking._
 __fudging__ _Fudging statistics._  
 __fulcrum__ :two::hammer:  
 __fulfilling__  
+__full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent's arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
 __full of beans__  
 __full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
 __full swing__ _The conference was in full swing when I arrived._  
@@ -4812,6 +4815,7 @@ __handoff__
 __handout__ _n_ :four::hammer: (handouts)  
 __hands down__ _Hands down, best episode ever._  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
+__hands on__  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
 __handsome__ :mute:[han~~d~~some]  
@@ -5662,8 +5666,8 @@ __jocular__
 __jody__ _He often complained about his wife's jody._  
 __John Doe__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
+__Johnnie-come-lately__ _n_ _idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
-__Johnny-come-lately__ _idiom_  
 __joined at the hip__ _idiom_ :two: To be exceptionally close to someone.  
 __joint__ _n_ A prison, a jail.  
 __joists__  
@@ -6757,7 +6761,7 @@ __muggy__ :two::hammer: _The weather was muggy._
 __mulberry__ _n_ :three::hammer: (mulberries)  
 __mulch__  
 __mulching__ _v_  
-__mull__ _v_ :five::hammer: (mulled, mulling) _Cheney was mulling a Senate bid._  
+__mull__ _v_ :six::hammer: (mulled, mulling) _Cheney was mulling a Senate bid._  
 __mullah__ _n_  
 __mulled__ _v_ _His mug of mulled cider._  
 __mullet__ :two::hammer:  
@@ -6937,7 +6941,7 @@ __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of ho
 __no jive__  
 __no offense__  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
-__no worries__ _idiom_ :two::hammer:  
+__no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-holds-barred__  
 __no-no__ _n_ _informal_ :six::hammer:  
 __Nobel__ :mega:  
@@ -7745,7 +7749,7 @@ __plano__ _Plano sunglasses._
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
 __planter__ _My sidewalk planter._  
 __plashed__ _v_  
-__plaster__ _v_ :two::hammer: (plastered) _Blizzard plasters Denver._  
+__plaster__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plasters__ _n_ _Salves, poultices, and plasters._  
 __plate__ _Baseball_  
 __plateau__  
@@ -8479,7 +8483,7 @@ __red tape__ _n_ :dart::four: Excessive formality and routine required before of
 __red-eye__ _Catch the red-eye._  
 __red-letter day__  
 __redbones__ _n_  
-__redeem__ _v_ _This coupon has no cash value and may not be tedeemed for cash._  
+__redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
 __redemptions__ _n_  
 __redo__ :two::hammer:  
 __redolent__ _adj_ :six::hammer: _His ceremony was redolent with tension._  
@@ -8667,6 +8671,7 @@ __rhetoric__ _n_ :pencil2::four::hammer: _From divisive rhetoric to civil dialog
 __rheum__ _n_ :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
+__rhinosinusitis__ _Chronic rhinosinusitis._  
 __rhyme__ :mute:[r~~h~~yme]  
 __rhyming__ :pencil2:  
 __rhythm__ :mute:[r~~h~~ythm]  
@@ -8836,7 +8841,7 @@ __rub elbows__ _v_
 __rub<sup>1</sup>__ _n_ :two::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
 __rub<sup>2</sup>__ _v_  
 __rubbings__ _n_  
-__rubble__ _n_  
+__rubble__ _n_ :two::hammer:  
 __rucksack__ _n_ :two::hammer:  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __rudder__ (airplane)  
@@ -9448,7 +9453,7 @@ __shylocking__
 __shyly__ _(funny spelling)_  
 __shyster__  
 __sicced__ _v_  
-__sick leave__ :two::hammer: _The UK's biggest reason for sick leave._  
+__sick leave__ _n_ :three::hammer: _The UK's biggest reason for sick leave._  
 __sickle cell__  
 __sickly__ :es: enfermizo  
 __siddle up__ _Chuck siddled up beside his brother._  
@@ -9976,6 +9981,7 @@ __sport__
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spotless__  
+__spotlight__ _v_  
 __spotted__ _v_  
 __spout__ _v_ _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
@@ -10113,7 +10119,7 @@ __starchitect__
 __stardom__ _n_ :two::hammer:  
 __starfish__  
 __stargazing__  
-__stark__ _adj_ :four::hammer: _A stark reminder._  
+__stark__ _adj_ :five::hammer: _A stark reminder._  
 __starlings__ _n_  
 __startling__ :two::hammer:  
 __Stasi__  
@@ -11433,7 +11439,7 @@ __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting foc
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__  
-__uptick__ _n_ :five::hammer:  
+__uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__  
 __upward__  
