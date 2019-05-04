@@ -1,4 +1,15 @@
 
+__vaudeville__ _n_ :pencil2:  
+__nurture__ _v_  
+__late bloomer__ _n idiom_  
+__grit__  
+__tombstone__ _n_  
+__let alone__  
+__raw dog__  
+__locker-room__ _n_ (locker room)  
+__corny__  
+__coffer__ _n_ :es: arca  
+
 __caper__  
 
 __motorist__  
