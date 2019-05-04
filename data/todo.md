@@ -1,4 +1,13 @@
 
+__made of money__ _idiom_ To be very rich.  
+__chatterbox__ _idiom_ A vert talktative person.  
+__lose your train of thought__ _idiom_ To forget what you were talking or thinking about.  
+__pump__ _n_  
+__pistachios__ _n_  
+__canned__ To get fired, to lose your job.  
+__buzzkill__ Someone or something that ruins enjoyment or pleasure.  
+__knocking on heaven's door__ _idiom_ :dart: To be dying, to be close to death.  
+
 __vaudeville__ _n_ :pencil2:  
 __nurture__ _v_  
 __late bloomer__ _n idiom_  
