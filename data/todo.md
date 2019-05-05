@@ -1,4 +1,12 @@
 
+__biennium__ _n_ Two years.  
+__lustrum__ _n_ Five years.  
+__millennium__ :pencil2:  
+__answer for__ _phr v_ To be responsible for something bad.  
+__cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
+__ask after__ _phr v_ To ask for news about someone.  
+__lion's share__ _idiom_ The greatest or best part.  
+
 __contention__ :three::hammer:  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __dope__ :two:  
