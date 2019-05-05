@@ -1,4 +1,27 @@
 
+__corralled__ _v_  
+__advent__ _n_ _The advent of social media._  
+__undermine__ _v_  
+__awe__ _Jane sat back in awe._  
+__grist__ _n_  
+__tickle__ _v_  
+__goalpost__ _n_  
+__tickler__ :three::hammer: _Tickler information._ _Tickler system._  
+__heresy__ _n_  
+__delegatable__ _Non-delegatable actions._  
+__go numb__ :two::hammer:  
+__lap pool__  
+__due-diligence__  
+__kitchenware__  
+__grand__  
+__maneuver__ _v_ (?)  
+__judgment__ _n_ :pencil2: (?)  
+__loose strands__  
+__retrench__ _v_  
+__squeaky__ _Squeaky clean._  
+__galvanize__ _v_  
+__panaceas__ _n_  
+
 __biennium__ _n_ Two years.  
 __lustrum__ _n_ Five years.  
 __millennium__ :pencil2:  
