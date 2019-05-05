@@ -1,4 +1,15 @@
 
+__contention__ :three::hammer:  
+__footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
+__dope__ :two:  
+__trickle__  
+__vaudeville__  
+__expat__  
+__reactive__ _adj_ :dart:  
+__knee-jerking__  
+__car sickness__  
+__foist__ _v_ (foisted)  
+
 __tirade__  
 __ENT__ _Ear, nose and throat._  
 __overdue__ _A resurgence in social homes is long overdue._  
