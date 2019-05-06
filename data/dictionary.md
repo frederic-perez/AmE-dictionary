@@ -311,6 +311,7 @@ __annuity__ (annuities) :two::hammer:
 __annum__ _n_  
 __anomic__  
 __anorak__ _n_ :two::hammer:  
+__answer for__ _phr v_ To be responsible for something bad.  
 __answer__ :mute:[ans~~w~~er]  
 __ante__ _n_ :four::hammer: _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
@@ -435,6 +436,7 @@ __ash borers__ _Emerald ash borers._
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
 __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asinine for us._ _Asinine questions._  
+__ask after__ _phr v_ To ask for news about someone.  
 __ask out__ _v_  
 __asp__ _n_  
 __aspen__  
@@ -877,6 +879,7 @@ __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, espec
 __bid<sup>2</sup>__ _n_ :two::hammer: _The highest ranked team earns an automatic bid to one of the New Year's six bowls._  
 __bidding war__  
 __bidding__  
+__biennium__ _n_ Two years.  
 __bier__ _n_ :pencil2:  
 __big brother__  
 __Big C__ Cancer?  
@@ -1585,6 +1588,7 @@ __capstone__ _n_
 __captain__ _v_  
 __captaincy__ :two::hammer:  
 __capuchin monkey__ :mega:  
+__car sickness__  
 __carabiner__ _n_ :camera::two::hammer:  
 __carafe__ _n_  
 __carapace__ _n_ :four::hammer:  
@@ -2532,6 +2536,7 @@ __culprit__ _n_
 __cult__ _n_ :two::hammer:  
 __cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
+__cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
 __cupolas__ _n_  
@@ -3061,7 +3066,7 @@ __doorman building__ _n_
 __doormat__  
 __doorpost__  
 __doozy__ _adj informal_ :three: Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
-__dope__ _adj_ _informal_ Very good. _He is dope._  
+__dope__ _adj_ _informal_ :three: Very good. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :two: __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
@@ -3576,7 +3581,7 @@ __exhilarate__ :mute:[ex~~h~~ilarate]
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exodus__  
 __exonerate__ :two::hammer:  
-__expat__ _n_ _Chiefly British_ :three: An expatriate. _Baroque debut for Moscow expat choir._  
+__expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expediency__  
 __expedient__  
 __expedite__ _v_ :dart::six::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
@@ -4022,7 +4027,7 @@ __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle 
 __foible__ _n_ :four: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
-__foist__ _v_ :two::hammer: (foisting)  
+__foist__ _v_ :three::hammer: (foisting, foisted)  
 __fold__ _v_ (card games)  
 __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
@@ -4051,6 +4056,7 @@ __Foosball__
 __foosball__ :two::hammer: _Foosball table._  
 __foot__ _v_ :two::hammer:  
 __foot-stomping__  
+__footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__  
 __foothold__ _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
@@ -4285,7 +4291,7 @@ __galling__ _adj_ :two::hammer: _A galling loss._
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
 __galoshes__ _n_  
-__galvanize__ _v_ :four::hammer: (galvanized)  
+__galvanize__ _v_ :five::hammer: (galvanized)  
 __gambit__  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :five::hammer: _My game plan is "failure is not an option."_  
@@ -5825,7 +5831,7 @@ __knavish__
 __knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
 __knee__ :mute:[~~k~~nee]  
-__knee-jerk__ _adj_ _slang_ :five::hammer: _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
+__knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
 __knell__ _n_ :three::hammer:  
 __knife__ :mute:[~~k~~nife]  
@@ -6130,6 +6136,7 @@ __linger__
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ :two::hammer: _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
+__lion's share__ _idiom_ The greatest or best part.  
 __lionhearted__ _adj_  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lipped__ _v_  
@@ -6290,6 +6297,7 @@ __luster<sup>1</sup>__ _n_
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
 __lustrous__ :two::hammer:  
+__lustrum__ _n_ Five years.  
 __luxe__ _People were accustomed to creating luxe interiors._  
 __lye water__  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -6572,6 +6580,7 @@ __milkweed__
 __mill__ _n_ A million dollards.  
 __milled about__ _v_  
 __Millennials__  
+__millennium__ :pencil2:  
 __millet__ _He had eaten millet gruel._  
 __milling machine__ _n_  
 __milling__ :two::hammer: _To avoid disrespectful milling._  
@@ -7362,6 +7371,7 @@ __pampling__
 __pan drippings__ :two::hammer:  
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
+__panaceas__ _n_  
 __panache__ :two::hammer:  
 __pander__ _v_ :seven: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__  
@@ -8434,6 +8444,7 @@ __razzmatazz__ _n_
 __reach for the sky__  
 __reach for the stars__ Have high or ambitious aims.  
 __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._  
+__reactive__ _adj_ :dart:  
 __readily__ :two::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
@@ -10049,8 +10060,8 @@ __squatter__
 __squawk__ _v_ :three::hammer: (squawked, squawking) _The walkie-talkie squawked._  
 __squeak__ _v_ :three::hammer: (squeaking)  
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
-__squeaky-clean__ _adj informal_ __1__S crupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeaky__ :two::hammer:  
+__squeaky-clean__ _adj informal_ __1__S crupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
 __squeamish__ _adj_ :five: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
@@ -10920,7 +10931,7 @@ __tipple__ _v_ :five::hammer: (tippled)
 __tipsily__  
 __tipster__ _n_ :two::hammer: (tipsters)  
 __tiptoe__ _v_ To walk or move quietly on one's toes.  
-__tirade__ _n_ :six::hammer:  
+__tirade__ _n_ :seven::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
 __Tirolean__  
@@ -11516,6 +11527,7 @@ __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport
 __vassal__ _n_  
 __vastly__ :two::hammer:  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
+__vaudeville__  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
