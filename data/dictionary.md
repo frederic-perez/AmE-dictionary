@@ -128,7 +128,7 @@ __adroitly__
 __adulation__  
 __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
-__advent__ _n_ :six::mega::hammer:  
+__advent__ _n_ :seven::mega::hammer: _The advent of social media._  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advice__ _This is my unsolicited advice._  
 __advisedly__  
@@ -528,7 +528,7 @@ __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who 
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
-__awe__ :two::hammer: _Rob regarded the complex systems with awe._  
+__awe__ _n_ :three::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruct__  
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
@@ -2301,8 +2301,7 @@ __corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
 __corpus__ _A big corpus of examples._  
 __corral__ _v_  
-__corralled__ _v_  
-__corralling__ _v_  
+__corralled__ _v_ :three::hammer: (corralling)  
 __correspondent__ _Our journalists are not experienced war correspondents._  
 __corridor__ _n_ :two::hammer:  
 __corrugate__ _v_  
@@ -2746,6 +2745,7 @@ __dejected__
 __deking__  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ _adj_ :three::hammer:  
+__delegatable__ _Non-delegatable actions._  
 __deleterious__ _adj_ :three::hammer:  
 __deli__  
 __delight__ _v_ _It delighted me even though I expected it._  
@@ -3236,6 +3236,7 @@ __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to
 __dud<sup>2</sup>__ _v_  
 __due diligence__ _n_ :seven: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due__ :two::hammer: _They travelled due south._  
+__due-diligence__  
 __duffel bag__ _n_ :three::hammer:  
 __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ :camera:  
@@ -4489,6 +4490,7 @@ __go dutch__
 __go for it!__  
 __go great lenghts__  
 __go native__ _You going native on me, Supercop?_  
+__go numb__ :two::hammer:  
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go over the top__  
 __go over the wire__  
@@ -4505,6 +4507,7 @@ __goads__ _n_
 __goahead__  
 __goalie__  
 __goalkeeper__  
+__goalpost__ _n_  
 __goaltender__  
 __goatee__ _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
@@ -4565,6 +4568,7 @@ __grader__ _n_ :two::hammer: (graders)
 __graft__ :three::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._  
 __gramps__  
 __grand jury__  
+__grand__  
 __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
@@ -4641,7 +4645,7 @@ __griping__ _v_
 __gripped__ _v_ _That 1995 murder trial gripped USA._  
 __gripping__ :two::hammer: _A gripping contest._  
 __grisly__ _adj_ :four::hammer: _A grisly synagogue assault._  
-__grist__ :two::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
+__grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
 __grit__ _n informal_ :six: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
@@ -5018,6 +5022,7 @@ __Henry__ Word that can be used to describe somebody who is incredibly attractiv
 __herald__ _v_ :four::hammer: (heralded)  
 __herdsman__ _n_  
 __here's looking at you__  
+__heresy__ _n_  
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
 __heretofore__ :two::hammer:  
@@ -5689,6 +5694,7 @@ __jousting__ _adj_ _Jousting egos._
 __jovial__ :two::hammer:  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__  
+__judgment__ _n_ :pencil2:  
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
@@ -5803,6 +5809,7 @@ __kirtle__ _n_ :five::hammer: (kirtles)
 __kischy__  
 __kismet__ _n_ :two: Fate, fortune.  
 __kiss-and-tell__ _Kiss-and-tell narratives._  
+__kitchenware__  
 __kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
 __kites__ _n_  
 __kith and kin__ _To identify kith and kin._  
@@ -5912,6 +5919,7 @@ __lank__ _Her hair hung in lank locks._
 __lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
 __Laotian__  
+__lap pool__  
 __lap<sup>1</sup>__ _n_ _The project's amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
 __laped pin__  
@@ -6210,6 +6218,7 @@ __loophole__ :es: escapatoria
 __loopy__ :two::hammer: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
 __loose cannon__ :two::hammer:  
 __loose ends__  
+__loose strands__  
 __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
@@ -6354,7 +6363,8 @@ __mandate__ _v_
 __mandatory__ _adj_ :mega:  
 __Mandy__ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion's mane._  
-__maneuver__ :two::hammer:  
+__maneuver<sup>1</sup>__ _n_  
+__maneuver<sup>2</sup>__ _v_ :two::hammer:  
 __manger__  
 __mangy__ _adj_ :three::hammer:  
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
@@ -8635,9 +8645,8 @@ __retirement__
 __retooled__ _v_ :two::hammer:  
 __retracement__  
 __retrain__ _v_  
-__retreat<sup>1</sup>__ _v_  
+__retreat<sup>1</sup>__ _v_ :three::hammer: (retrenching)  
 __retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
-__retrenching__  
 __retrenchment__ :two::hammer: _An era of American retrenchment._  
 __retribution__  
 __retroscopic__  
@@ -10040,6 +10049,7 @@ __squatter__
 __squawk__ _v_ :three::hammer: (squawked, squawking) _The walkie-talkie squawked._  
 __squeak__ _v_ :three::hammer: (squeaking)  
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
+__squeaky-clean__ _adj informal_ __1__S crupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeaky__ :two::hammer:  
 __squeal__ _v_  
 __squeamish__ _adj_ :five: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
@@ -10852,7 +10862,8 @@ __tic<sup>2</sup>__ _v_
 __tick prevention__  
 __tick__ _v_ _Prices ticked up 0.2%._  
 __ticker__ _n_ :two: __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
-__tickle__ _v_ :three::hammer: _Does that tickle?_  
+__tickle__ _v_ :four::hammer: _Does that tickle?_  
+__tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
 __ticklish__ :two::hammer:  
 __ticky-tacky__ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
@@ -11307,7 +11318,7 @@ __undercurrent__
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_ :four::hammer: (undermined)  
+__undermine__ _v_ :five::hammer: (undermined)  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  
