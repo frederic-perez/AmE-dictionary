@@ -1,26 +1,4 @@
 
-__ENT__ _Ear, nose and throat._  
-__overdue__ _A resurgence in social homes is long overdue._  
-__prefabs__ _n_  
-__bungalow__ _n_ :pencil2:  
-__spur__ _v_  
-__watershed__ _A watershed moment._  
-__stopgap__ _n_  
-__sluggish__  
-__uphill__ _An uphill task._  
-__whizz__  
-__earmarked__  
-__galling__  
-
-__made of money__ _idiom_ To be very rich.  
-__chatterbox__ _idiom_ A vert talktative person.  
-__lose your train of thought__ _idiom_ To forget what you were talking or thinking about.  
-__pump__ _n_  
-__pistachios__ _n_  
-__canned__ To get fired, to lose your job.  
-__buzzkill__ Someone or something that ruins enjoyment or pleasure.  
-__knocking on heaven's door__ _idiom_ :dart: To be dying, to be close to death.  
-
 __vaudeville__ _n_ :pencil2:  
 __nurture__ _v_  
 __late bloomer__ _n idiom_  

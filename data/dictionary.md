@@ -1369,7 +1369,7 @@ __bun__ _n_
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
 __bunch<sup>2</sup>__ _v_ :camera::six::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._  
 __bunching socks__ :camera:  
-__bungalow__  
+__bungalow__ _n_ :two::pencil2::hammer:  
 __bungee cord__ _n_ :camera::three::hammer:  
 __bungee jumping__  
 __bungee rope__  
@@ -1452,7 +1452,7 @@ __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
 __buzzer__ _Durent Durent missed a floater at the buzzer._  
-__buzzkill__ _n_ _slang_ :three::hammer: (buzz kill)  
+__buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__  
 __buzzword__  
 __by all accounts__ _idiom_ :dart::three::hammer: From all the reports [that are available]; according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
@@ -1558,6 +1558,7 @@ __canapé__ _n_
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :four::hammer: _Organic coffee canisters._  
+__canned__ To get fired, to lose your job.  
 __cannolis__  
 __canoe__ (?) :mega:  
 __cantankerous__  
@@ -1781,7 +1782,7 @@ __chastened__ :two::hammer:
 __chastize__ _v_  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
-__chatterbox__ :dart: A person who talks a lot.  
+__chatterbox__ _idiom_ :two::dart: A person who talks a lot.  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
@@ -3300,7 +3301,7 @@ __earlier__ _adv_ :three:
 __earlocks__ _n_  
 __early__ _I always get off the bus a stop early on the way to work._  
 __early-onset__ _Early-onset Alzheimer's disease._  
-__earmark__ _v_ :six::hammer: (earmarked)  
+__earmark__ _v_ :seven::hammer: (earmarked)  
 __earmuffs__  
 __earnest__ _adj_ :five::hammer:  
 __earnestly__  
@@ -3466,7 +3467,7 @@ __ensemble__ _n_
 __enshrined__  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
-__ENT__ _abbr_ :two: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
+__ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __entail__ _v_ :three::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :seven::hammer: (enthused, enthusing) _It has enthused fans._  
@@ -4287,7 +4288,7 @@ __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._
 __gallbladder__  
 __galleon__ _n_  
 __galleys__ _n_  
-__galling__ _adj_ :two::hammer: _A galling loss._  
+__galling__ _adj_ :three::hammer: _A galling loss._  
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
 __galoshes__ _n_  
@@ -5842,6 +5843,7 @@ __knobbed__ _v_
 __knock someone's socks off__  
 __knock__ _n_ :mute:[~~k~~nock]  
 __knock-knock joke__  
+__knocking on heaven's door__ _idiom_ :dart: To be dying, to be close to death.  
 __knockout__ _A knockout series._  
 __knockout<sup>1</sup>__ _n_  
 __knockout<sup>2</sup>__ _adj_  
@@ -6237,6 +6239,7 @@ __loquacious__
 __loquat__ _n_  
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __Los Angelino__  
+__lose your train of thought__ _idiom_ To forget what you were talking or thinking about.  
 __loss one's marbles__ _idiom_ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
 __lothario__ _The second verse of_ You're So Vain _is about one-time Hollywood lothario Warren Beatty._  
@@ -6314,6 +6317,7 @@ __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,
 __mackerel__ :two::hammer:  
 __mackinaw__  
 __madcap__  
+__made of money__ _idiom_ To be very rich.  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigal__ _n_  
@@ -7289,6 +7293,7 @@ __overbite__ _n_ :two::hammer:
 __overblown__  
 __overboard__ _To go overboard._  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
+__overdue__ _A resurgence in social homes is long overdue._  
 __overflight__  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__  
@@ -7723,6 +7728,7 @@ __pique<sup>2</sup>__ _v_ :six::pencil2::hammer: (piques, piqued) _Focusing his 
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
+__pistachios__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
 __pit<sup>2</sup>__ _v_ :two::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
@@ -7982,7 +7988,7 @@ __preeminent__ :two::hammer:
 __preempt__ _v_  
 __preemptive__  
 __preen__ _v_ :eight::hammer: (preened, preening) _She didn't preen for her grandfather._  
-__prefab__ _Prefab vacations._  
+__prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __premier__ _adj_  
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
 __premortem__  
@@ -8172,7 +8178,7 @@ __pulpit__ :two::hammer:
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :five::hammer: (pummeled)  
-__pump__ _n_ :two::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
+__pump__ _n_ :three::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
@@ -9693,6 +9699,7 @@ __slug down__ _v_ _He slugged down four martinis._
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v_ :three::hammer: (slugs)  
 __sluggard__  
+__sluggish__  
 __sluice__ _v_ :six::hammer: (sluiced, sluicing)  
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
@@ -10031,7 +10038,7 @@ __spunk__
 __spunky__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
-__spur__ _v_ :four::hammer: (spurred, spurring)  
+__spur__ _v_ :five::hammer: (spurred, spurring)  
 __spurious__ 1590-1600; < Latin _spurius_ bastard __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
 __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
@@ -10268,7 +10275,7 @@ __stooped__ _adj_ :two::hammer: _He was a stooped man._ _Stooped shoulders._
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop-and-go__ _Stop-and-go traffic jams._  
 __stopgag__ _n_ :three::hammer:  
-__stopgap__ :two::hammer:  
+__stopgap__ _n_ :three::hammer:  
 __stoplights__ :pencil2:  
 __stopover__  
 __stoppage__ _n_ :seven::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
@@ -11434,7 +11441,7 @@ __upfield__
 __upfront__ _adj_  
 __upheaval__ _n_ :six::hammer:  
 __uphill battle__  
-__uphill__ _I didn't have to fight uphill._  
+__uphill__ :two::hammer: _An uphill task._ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __upmarket__  
@@ -11722,7 +11729,7 @@ __water seepage__
 __waterfowl__ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  
 __waterlogged__  
-__watershed__ _n_ :three::hammer: _Dignataries recognized the watershed moment of his passing._  
+__watershed__ _n_ :four::hammer: _A watershed moment._ _Dignataries recognized the watershed moment of his passing._  
 __waterway__  
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
 __waver__ _v_ :two::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
@@ -11857,6 +11864,7 @@ __whiteout__
 __whitewash__ _v_ :four::hammer:  
 __whithered__  
 __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
+__whizz__  
 __whizzing__  
 __who__ :mute:[~~w~~ho]  
 __whodunit__ _n_ :two: A detective story.  
