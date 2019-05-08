@@ -1,26 +1,4 @@
 
-__vaudeville__ _n_ :pencil2:  
-__nurture__ _v_  
-__late bloomer__ _n idiom_  
-__grit__  
-__tombstone__ _n_  
-__let alone__  
-__raw dog__  
-__locker-room__ _n_ (locker room)  
-__corny__  
-__coffer__ _n_ :es: arca  
-
-__caper__  
-
-__motorist__  
-__thumping__ _A thumping majority._  
-__consultee__ _n_  
-__accolade__  
-__cater__ _v_  
-__portrayal__  
-__in the thick__ _Jane is in the thick of it._  
-__chuck__ _v_  
-__crisp__ _n_  
 __role model__  
 __vexed__ _v_  
 __carrots and sticks__  

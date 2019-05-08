@@ -60,7 +60,7 @@ __abysmal__
 __abyss__ _n_ :astonished::mega::six:  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accoitrements__  
-__accolade__ _n_ :four: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
+__accolade__ _n_ :five: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
@@ -1574,7 +1574,7 @@ __cap<sup>1</sup>__ _n_ :two::hammer: (soccer; hat?)
 __cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
-__caper<sup>1</sup>__ _n_ :three: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
+__caper<sup>1</sup>__ _n_ :four: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
 __caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
@@ -1683,6 +1683,7 @@ __catch-up schedule__
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
 __catechism__ :two::hammer::pencil2:  
+__cater__ _v_  
 __caterwauling__  
 __catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
@@ -1871,7 +1872,7 @@ __Christian__ :mute:[C~~h~~ristian]
 __Christmas fly__  
 __Christmas__ :mute:[C~~h~~istmas]  
 __chuck out__ _v_  
-__chuck__ _v_ :five::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__chuck__ _v_ :six::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckholes__ _n_  
 __chuckle__ _v_ :two::hammer:  
 __chucklers__  
@@ -2040,7 +2041,7 @@ __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gai
 __coerce__ _v_  
 __coerced__  
 __coffee-table book__  
-__coffers__ _n_ :five::hammer: _San Francisco city coffers._ _State's coffers._  
+__coffer__ _n_ :six::hammer: (coffers) _San Francisco city coffers._ _State's coffers._ :es: arca  
 __cog__ _n_ :six: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cognizant__  
@@ -2221,6 +2222,7 @@ __constituency__ _n_ :six::hammer: (constituencies)
 __constituent__ _n_ :five::hammer: (constituents)  
 __construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :six::hammer: (construed)  
+__consultee__ _n_  
 __consumer electronics__  
 __consumption__ (ailment?)  
 __contagion__  
@@ -2300,7 +2302,7 @@ __corn beef__ :two::hammer:
 __corn fritters__  
 __corned beef__ :two::hammer:  
 __cornstarch__  
-__corny__ _adj_ :three::hammer:  
+__corny__ _adj_ :four::hammer:  
 __coronet__ _n_  
 __corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
@@ -2443,7 +2445,9 @@ __cringingly__
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
-__crisp__ _adj_ :six::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
+__crisp<sup>1</sup>__ _adj_ :six::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
+__crisp<sup>2</sup>__ _v_  
+__crisp<sup>3</sup>__ _n_  
 __crisper__ _Our dishes and crisper trays._  
 __crisply__ _Nuggent greeted him crisply._  
 __crisscross__  
@@ -4654,7 +4658,7 @@ __gripping__ :two::hammer: _A gripping contest._
 __grisly__ _adj_ :four::hammer: _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
-__grit__ _n informal_ :six: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
+__grit__ _n informal_ :seven: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
 __grittier__ _It makes the queso a bit grittier._  
@@ -5411,7 +5415,7 @@ __in the fold__ _They kept the devious students in the fold._
 __in the lurch__ _The TV series was left in the lurch._  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
-__in the thick (of it)__ :three::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the water__ _There's nothing in the water here._  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
@@ -5956,6 +5960,7 @@ __latch<sup>1</sup>__ _n_ :two::hammer:
 __latch<sup>2</sup>__ _v_ :two::hammer: (latching)  
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
+__late bloomer__ _n idiom_  
 __latecommer__ _I'm somewhat of a latecomer._  
 __lath__ _n_ :three::hammer: (laths)  
 __lather, rinse, repeat__ :dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought.  
@@ -6062,7 +6067,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
-__let alone__ _conj_ :five::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
+__let alone__ _conj_ :six::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
 __let somebody down__ _idiom_ To disappoint someone.  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let your hair down__  
@@ -6182,6 +6187,7 @@ __locale__ _We want to recruit nationally, but in our locale we have talent._
 __locales__  
 __loch__ _n_  
 __lockdown__ :two::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
+__locker-room__ _n_ (locker room)  
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
 __lockout__ _N.J. residents upset over island lockout._  
 __locks > alcohol ignition locks__  
@@ -6745,7 +6751,7 @@ __Motor City__ Detroit.
 __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
 __motoring__  
-__motorist__ _n_ A person who drives or travels in a privately owned automobile.  
+__motorist__ _n_ :two: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mountaintops__ _n_  
@@ -7035,7 +7041,7 @@ __nunchucks__
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v_ :two::hammer:  
 __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
-__nurture__ _v_ :three::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
+__nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nutmeg__ _n_  
 __nuts and bolts__ _n informal_ (the nuts and bolts of something)  
@@ -7924,7 +7930,7 @@ __portentous__
 __portly__  
 __portmanteau__  
 __portray__ _v_  
-__portrayal__ _n_ :mega:  
+__portrayal__ _n_ :two::mega::hammer:  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
@@ -8439,6 +8445,7 @@ __raving__ _v_ :two::hammer:
 __ravish__  
 __ravishing__ :two::hammer:  
 __raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
+__raw dog__  
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
@@ -10865,6 +10872,7 @@ __thumb tacks__
 __thumb__ _v_ :two::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
+__thumping__ _A thumping majority._  
 __thundered__ _v_  
 __thunderheads__  
 __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
@@ -10998,6 +11006,7 @@ __toll__ _v_ :two::hammer: (tolls, tolling) _Church bells tolling._ _The bell to
 __tom__ (cat?)  
 __tomb__ :mute:[tom~~b~~]  
 __tomboy__  
+__tombstone__ _n_  
 __tomcat__  
 __tomfoolery__ _n_  
 __ton__ _A metric ton._  
@@ -11534,7 +11543,7 @@ __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport
 __vassal__ _n_  
 __vastly__ :two::hammer:  
 __vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
-__vaudeville__  
+__vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
