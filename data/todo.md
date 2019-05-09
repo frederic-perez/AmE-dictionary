@@ -1,25 +1,4 @@
 
-__role model__  
-__vexed__ _v_  
-__carrots and sticks__  
-__bail out__  
-__in the long run__  
-__scarce__  
-__exemption__  
-__peers__  
-__deep pockets__  
-__chasm__  
-__galling__ _v_  
-
-__plethora__  
-__assembly line__ :four::hammer:  
-__crate__ _n_  
-__seldom__  
-__thrust__ _v_  
-__impelled__  
-__latitude__ _n_ _No latitude left to ignore a request from the family._  
-__lofty__ (?)  
-__up__ _v_ _It just ups the ante in the game._  
 __ante__ _It just ups the ante in the game._  
 __martial artist__  
 __truism__  

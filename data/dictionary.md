@@ -448,6 +448,7 @@ __aspirin__ _n_ :mega:
 __assail__ _v_ :two: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
 __assault__ :two::hammer:  
+__assembly line__ _n_ :four::hammer:  
 __assert__ _v_  
 __asses__ _n_ :two::hammer:  
 __asset__  
@@ -596,7 +597,7 @@ __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconci
 __baffling__ _Baffling season._  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
-__bail out__  
+__bail out__ :two::hammer:  
 __bail skip__  
 __bailiff__ :two::hammer:  
 __bailiwick__  
@@ -1622,6 +1623,7 @@ __carping__ _v_
 __carpool__ _v_ :two::hammer:  
 __carrel__  
 __carrion__ _n_ :dart::five: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
+__carrots and sticks__  
 __carry a torch__  
 __carry-on bag__  
 __carryout__ _A Chinese carryout._  
@@ -1777,7 +1779,7 @@ __charter<sup>1</sup>__ _n_ :two::hammer:
 __charter<sup>2</sup>__ _v_  
 __chartreuse__  
 __chased__ _v_ _A beautiful chased golden bowl._  
-__chasm__ _n_ :six: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :seven: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
 __chastened__ :two::hammer:  
 __chastize__ _v_  
@@ -2403,7 +2405,7 @@ __crapshoot__
 __crash course__  
 __crash-land__ _v_ _A jet crash-landed in the city._  
 __crass__ _adj_ :three::hammer: _Crass attitudes._  
-__crate__ _n_  
+__crate__ _n_ :two::hammer:  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
 __craven__ :two::hammer: _A craven political figure._  
 __crawl<sup>1</sup>__ _n_  
@@ -2717,6 +2719,7 @@ __deep ball__ _Tyron Taylor throws a nice deep ball._
 __deep cut__  
 __deep fakes__ :two::hammer:  
 __deep freezers__  
+__deep pockets__  
 __Deep South__  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
@@ -3576,7 +3579,7 @@ __exe__ :mega:
 __exec__ _n informal_ :three: (execs) An executive. _I'm a retired tech exec._  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_ :two::hammer:  
-__exemption__ _Dru earned an exemption into the tournament._  
+__exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :mute:[ex~~h~~aust] _Exhaust fans._  
@@ -4292,7 +4295,7 @@ __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._
 __gallbladder__  
 __galleon__ _n_  
 __galleys__ _n_  
-__galling__ _adj_ :three::hammer: _A galling loss._  
+__galling__ _adj_ :four: Irritating, exasperating, or bitterly humiliating. _A galling loss._  
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
 __galoshes__ _n_  
@@ -5373,6 +5376,7 @@ __impeccably__ :two::hammer:
 __impede__ _v_ :four::hammer: (impeded)  
 __impediment__  
 __impedimenta__ _n_  
+__impelled__  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__  
@@ -5412,6 +5416,7 @@ __in the clear__ :two::hammer: _She is in the clear._
 __in the doghouse__ _idiom_ :two::hammer:  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
+__in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
@@ -5969,7 +5974,7 @@ __lathes__
 __Latinas__  
 __Latino__ :pencil2: _In Los Angeles half of the city's residents are Latino._  
 __Latinos__ _n_  
-__latitude__ _The firms have a lot of latitude as long as they comply with their own policies._  
+__latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
 __laudable__  
 __laudatory__ Expressing praise; commendatory.  
 __lauded__ _v_  
@@ -6202,7 +6207,7 @@ __lodging__
 __lodgings__  
 __loft__ _v_  
 __loftily__  
-__lofty__ _adj_ :five::hammer: _His lofty perch._  
+__lofty__ _adj_ :six::hammer: _His lofty perch._  
 __loggerheads__  
 __loincloths__  
 __loins__ _n_ :two::hammer:  
@@ -7529,8 +7534,8 @@ __peek-a-view__
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peep__ _n_ :two::hammer:  
 __peeping Tom__ _idiom_ A person who secretly watches others, especially for sexual gratification; a voyeur.  
-__peer__ _Peering into their crystal balls._  
-__peered__ _v_  
+__peer<sup>1</sup>__ _n_ (peers)  
+__peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
 __peerless__  
 __peeved__ _v_  
 __peevishly__  
@@ -7815,7 +7820,7 @@ __please__ (Use it at the end of a request/question.)
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
-__plethora__ _n_ :four::hammer:  
+__plethora__ _n_ :five::hammer:  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
@@ -8797,7 +8802,7 @@ __roeskin__ _A roeskin belt._
 __rogue__ :two::hammer: _Rogue behavior._  
 __ROI__ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
-__role model__ _The best role models embrace their flaws._  
+__role model__ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone's) eyes__  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
@@ -9054,7 +9059,7 @@ __scantily__
 __scapegoated__ _v_  
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man's psyche for years._  
-__scarce__ :two::hammer:  
+__scarce__ _adj_ :three::hammer:  
 __scarcely__ :astonished: _The executioner seemed scarcely older than Rob._  
 __scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.  
 __Scarlett__ (vs scarlet) A female given name transferred from the surname; in general use since 1936.  
@@ -9209,6 +9214,7 @@ __segue__ _v_ :five::pencil2::mega::hammer:
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
 __sekuhata__ Sexual harassment.  
+__seldom__  
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-assured__ _adj_ :two: Having or showing confidence and poise.  
@@ -10863,7 +10869,7 @@ __throwback__ _Throwbavck uniform._
 __throws__ _n_  
 __thrum__  
 __thrums__ _v_  
-__thrust<sup>1</sup>__ _v_  
+__thrust<sup>1</sup>__ _v_ :two::hammer:  
 __thrust<sup>2</sup>__ _n_  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
@@ -11439,7 +11445,7 @@ __unyielding__ :two::hammer:
 __up and running__  
 __up and under__ A basketball move.  
 __up for grabs__ _idiom_ :two: Available for anyone.  
-__up__ _v_ _We need to up our game._  
+__up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
 __upbeat__ _adj_ :three::hammer: _An upbeat approach._ _He's extremely upbeat during down times._  
@@ -11592,7 +11598,7 @@ __vestige__ _n_ :two::hammer: (vestiges) _The vesting date._
 __veto__ _v_  
 __vetted__ _v_ :three::hammer:  
 __vetting__  
-__vexed__ _v_  
+__vexed__ _v_ :two::hammer:  
 __vexing__ :two::hammer: _Vexing problem._  
 __viable__  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
