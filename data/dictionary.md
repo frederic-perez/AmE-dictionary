@@ -94,6 +94,7 @@ __acreage__ :two::hammer:
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
+__act up__ _phr v_ To behave badly or strangely.  
 __ACT__ A college entrance exam, competitor to the SAT.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
@@ -313,7 +314,7 @@ __anomic__
 __anorak__ _n_ :two::hammer:  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ :mute:[ans~~w~~er]  
-__ante__ _n_ :four::hammer: _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
+__ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
 __anthology__  
 __anti-Semitism__  
@@ -637,7 +638,7 @@ __bandit__ _n_
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::hammer:  
-__bang for our buck__ _v informal_ :four::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
+__bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
@@ -1423,7 +1424,7 @@ __bustiers__ _n_
 __busting__ _v_ :two::hammer: _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :eight::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
-__busybody__  
+__busybody__ _n_ :two: A person who is too interested in the lives of others.  
 __butcher paper__  
 __butt crust__  
 __butt out__ _v_ :two::hammer:  
@@ -1460,6 +1461,7 @@ __by all accounts__ _idiom_ :dart::three::hammer: From all the reports [that are
 __by all means,__  
 __by and by__  
 __by and large__ _adv_ :three::hammer: :es: en líneas generales, en general  
+__by any chance__ _idiom_ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __by storm__  
 __by the book__  
@@ -2506,7 +2508,7 @@ __crumple<sup>1</sup>__ _v_ _Is that my suit crumpled in a ball?_
 __crumple<sup>2</sup>__ _n_  
 __crumpled__ _v_  
 __crumpling__  
-__crunch__ _n_  
+__crunch__ _n_ :two::hammer: (crunches)  
 __crunchtime__  
 __crusader__  
 __crush<sup>1</sup>__ _I was crushed._  
@@ -5724,6 +5726,7 @@ __juleps__
 __Juliette balcony__  
 __jumble__ _n_ :five: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
+__jump ship__ _idiom_ To leave a job or activity.  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
 __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
@@ -5765,6 +5768,7 @@ __keep an eye__ _Keep an eye on the Twitter._
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
 __keep up__  
+__keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
 __keep__ _n_ :es: torreón  
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keg__ _n_ :two::hammer:  
@@ -5809,9 +5813,9 @@ __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introdu
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
-__kindred spirits__ :two::hammer: _A kindred spirit._ :es: almas gemelas  
+__kindred spirit__ :four::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
-__kindred<sup>2</sup>__ _adj_ :two:  
+__kindred<sup>2</sup>__ _adj_ :two::hammer:  
 __kine__ _n_  
 __king of the hill__  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
@@ -6287,7 +6291,7 @@ __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._
 __lull<sup>2</sup>__ _v_  
 __lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :two::hammer: _A shopper checks out with her lumber._ _Lumber & home improvement._  
-__lumberjack__ _n_ :three::hammer:  
+__lumberjack__ _n_ :four::hammer:  
 __luminary__ _Hollywood luminaries._  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
@@ -6439,6 +6443,7 @@ __marshland__ :two::hammer:
 __marshmallow__ _n_ :two: Althaea officinalis. The word "marshmallow" comes from the mallow plant species, an herb which grows in marshes and other damp areas.  
 __marshy__  
 __mart__ A place of trade, eg. an auction room or market.  
+__martial artist__  
 __martyr<sup>1</sup>__ _n_ :pencil2:  
 __martyr<sup>2</sup>__ _v_  
 __martyrdom__ :two::hammer:  
@@ -7149,6 +7154,7 @@ __on edge__
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on foot__ _I work to work on foot._  
 __on the docket__  
+__on the fence__ _idiom_ Unable to make a decision.  
 __on the fly__  
 __on the hoof__  
 __on the run__  
@@ -7756,7 +7762,8 @@ __pitiful__ :two::hammer:
 __pitmaster__  
 __pittance__ _n_ :two::hammer:  
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
-__pivot__ _n_  
+__pivot<sup>1</sup>__ _n_ :two::hammer:  
+__pivot<sup>2</sup>__ _v_  
 __pivotal__ :two::hammer:  
 __pixie__  
 __pizazz__ _n_ :two: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
@@ -8398,7 +8405,7 @@ __ransomware__
 __rant__ _v_  
 __rap__ _South has a bad rap._  
 __rapidly__  
-__rapiers__  
+__rapier__ _n_ :two: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapping__ _v_  
 __rapprochement__ _n_ :three::hammer:  
 __rapt<sup>1</sup>__ _adj_ :three::hammer: _Robert C. Cone had a rapt audience._  
@@ -8805,6 +8812,7 @@ __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed 
 __role model__ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone's) eyes__  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
+__roll of the dice__ _Third roll of the dice._  
 __roll on__ _He rolled on the guy who'd hired him for the trucking job._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
@@ -9525,7 +9533,7 @@ __Sikh__
 __sill__ :two::hammer:  
 __silly boy__  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
-__silver lining__  
+__silver lining__ :two::hammer:  
 __Silver State__ Nevada.  
 __silverplate__ _v_  
 __simmer down__  
@@ -10021,7 +10029,8 @@ __sport__
 __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
 __spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spotless__  
-__spotlight__ _v_  
+__spotlight<sup>1</sup>__ _n_  
+__spotlight<sup>2</sup>__ _v_ :two::hammer:  
 __spotted__ _v_  
 __spout__ _v_ _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
@@ -11207,6 +11216,7 @@ __trudge__ _v_ :seven::hammer: (trudging)
 __trudging in__ _v_  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
+__truism__  
 __trull__  
 __truly__ _We truly appreciate it._  
 __trumpet__ _v_  
