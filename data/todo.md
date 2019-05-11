@@ -1,4 +1,17 @@
 
+__sheen__ _n_  
+__far cry__  
+__sprinkle__ _v_ (sprinkling)  
+__caper__ _n_ _1 tbsp capers._  
+__wedge__ _Lemon wedges._  
+__coleslaw__  
+__pernicious__  
+__claimants__  
+__shirking__  
+__stopgap__  
+__clickbait__ _Clickbait headlines._  
+__quid__  
+
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
 __set down__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
 __set forth__ _phr v_ Begin a journey or expedition. _Columbus set forth with three small ships._  
