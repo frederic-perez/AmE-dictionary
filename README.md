@@ -24,6 +24,7 @@ I also gather interesting stuff from a myriad of podcasts, including:
 - Beautiful Anonymous, hosted by Chris Gethard
 - Comedy Bang! Bang!, hosted by Scott Aukerman
 - Conan needs a friend, hosted by Conan O'Brien
+- Dexter Guff Is Smarter Than You, hosted by Peter Oldring
 - Freakonomics Radio, hosted by Stephen Dubner
 - Hollywood Babble-On, with Ralph Garman and Kevin Smith
 - I Am Rapaport, hosted by Michael Rapaport
