@@ -1,4 +1,15 @@
 
+__nuts and bolts__ _idiom_  
+__drain__ _v_  
+__robe<sup>1</sup>__ _n_  
+__robe<sup>2</sup>__ _v_  
+__sliver<sup>1</sup>__ _n_  
+__sliver<sup>2</sup>__ _v_  
+__stopgap__ _n_  
+__surprise, surprise__ _idiom_ Said ironically of or in a situation in which something very predictable has happened.  
+__sh__ _interj_ (sh, shhh)  Used to urge silence.  
+__fresh__ _Fresh towels._  
+
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __add up to__ _idiom_ To equal or amount to something.  
 __butterfingers__ _idiom_ A person who frequently drops things, clumsy person.  
