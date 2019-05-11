@@ -1,4 +1,15 @@
 
+__make no bones about something__ _idiom_ To say clearly what you think or feel about something.  
+__ask for__ _phr v_ :dart: To provoke a negative reaction.  
+__forfeit__ _v_  
+__burdensome__  
+__bothersome__  
+__quarrelsome__  
+__wholesome__  
+__worrisome__  
+__somewhat__  
+__doneness__ _Steak doneness: Rare, medium rare, medium, medium well, well done._  
+
 __graft__ :es: injerto  
 __defer__ _v_  
 __ensemble<sup>1</sup>__ _n_  
