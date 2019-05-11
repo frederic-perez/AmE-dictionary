@@ -1,4 +1,13 @@
 
+__set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
+__set down__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
+__set forth__ _phr v_ Begin a journey or expedition. _Columbus set forth with three small ships._  
+__set off__ _phr v_ Leave; to begin a journey or trip. _He set off in search of better opportunities._  
+__set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
+__new kid on the block__ _idiom_ Someone who is new in a place or organization.  
+__chit-chat__ _slang_ An informal conversation about things that are not important.  
+__cheapskate__ _n informaly_ :dart: A person who doesn't like to spend money.  
+
 __nuts and bolts__ _idiom_  
 __drain__ _v_  
 __robe<sup>1</sup>__ _n_  
