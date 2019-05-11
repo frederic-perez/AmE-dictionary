@@ -1,4 +1,16 @@
 
+__ascribe__ _v_  
+__horsepower__ _Physical horsepower._  
+__run errands__  
+__entail__ _v_ :two::hammer:  
+__holistic__  
+__hash out__ _phr v_ _Jane was hashing out her agenda._  
+__flesh out__  
+__expenditure__ _n_  
+__impetus__ _n_  
+__sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
+__dissonance__  
+
 __make no bones about something__ _idiom_ To say clearly what you think or feel about something.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __forfeit__ _v_  
