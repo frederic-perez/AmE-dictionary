@@ -1,4 +1,15 @@
 
+__graft__ :es: injerto  
+__defer__ _v_  
+__ensemble<sup>1</sup>__ _n_  
+__ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
+__fraudulent__ _adj_  
+__drain__ _v_  
+__without further ado__ _idiom_ With no more delay.  
+__talk numbers__ _Let's talk numbers._  
+__time capsule__ _n_  
+__rundown__ _n_  
+
 __sheen__ _n_  
 __far cry__  
 __sprinkle__ _v_ (sprinkling)  
