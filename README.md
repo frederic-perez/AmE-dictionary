@@ -26,6 +26,7 @@ I also gather interesting stuff from a myriad of podcasts, including:
 - Conan needs a friend, hosted by Conan O'Brien
 - Dexter Guff Is Smarter Than You, hosted by Peter Oldring
 - Freakonomics Radio, hosted by Stephen Dubner
+- Gilbert Gottfried's Amazing Colossal Podcast, hosted by Gilbert Gottfried and Frank Santopadre
 - Hollywood Babble-On, with Ralph Garman and Kevin Smith
 - I Am Rapaport, hosted by Michael Rapaport
 - ID10T, hosted by Chris Hardwick
