@@ -432,12 +432,13 @@ __ascent__ :mute:[as~~c~~ent]
 __ascertain__ _v_ :two::hammer:  
 __ascetic__  
 __ascot__  
-__ascribe__ _v_ :three::hammer:  
+__ascribe__ _v_ :four::hammer:  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
 __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
+__ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _v_  
 __asp__ _n_  
 __aspen__  
@@ -1154,7 +1155,7 @@ __bosom__
 __bossy__ _adj_  
 __bot__ _n_  
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
-__bothersome__  
+__bothersome__ :two::hammer:  
 __botnet__  
 __bottle fly__ _n_  
 __bottle opener__ :camera:  
@@ -1390,6 +1391,7 @@ __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloa
 __buoyancy__  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
+__burdensome__  
 __bureaucracy__  
 __burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
 __burgermeister__  
@@ -2992,6 +2994,7 @@ __dissimilarly__
 __dissing__ _v_  
 __dissipation__  
 __dissolution__  
+__dissonance__  
 __dissuade__ _v_ :pencil2:  
 __dissuaded__  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
@@ -3477,7 +3480,7 @@ __enshrined__
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
-__entail__ _v_ :three::hammer: (entails)  
+__entail__ _v_ :five::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :seven::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
@@ -3598,7 +3601,7 @@ __expedite__ _v_ :dart::six::hammer: (expedited) _Wear easy on/off shoes to expe
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
-__expenditure__ _n_ :four: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
+__expenditure__ _n_ :five: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
 __expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
 __explicate__ _v_  
@@ -3945,7 +3948,7 @@ __fleece__ _v_ :four::hammer: (fleeced)
 __fleecy__  
 __fleeting__  
 __fleetingly__  
-__flesh out__ _phr v_ :two::hammer: (fleshed out)  
+__flesh out__ _phr v_ :three::hammer: (fleshed out)  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
 __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
@@ -4114,7 +4117,7 @@ __foreshadow__ _v_ :two::hammer:
 __Forest Recreation Park__  
 __forestall__ _v_ :four: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
 __foretell__  
-__forfeit<sup>1</sup>__ _v_ :nine: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
+__forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
@@ -4897,7 +4900,7 @@ __harry__ _v_ :seven: (harried) __1__ To make a destructive raid on (enemy terri
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
 __hash browns__ _pl n_ :two::hammer:  
-__hash out__ _v_  
+__hash out__ _phr v_ :two::hammer: _Jane was hashing out her agenda._  
 __hash<sup>1</sup>__ _n_ _I'm gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
 __hashish__  
@@ -5160,7 +5163,7 @@ __holdout__ :two::hammer: _A weeklong holdout._
 __holdover__  
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__  
+__holistic__ :two::hammer:  
 __holler__  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -5219,6 +5222,7 @@ __horse race__
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word "horse" is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
+__horsepower__ _Physical horsepower._  
 __horseradish__  
 __horseshoe__ :two::hammer: (horseshoes)  
 __horsetails__ _n_  
@@ -5385,7 +5389,7 @@ __imperious__
 __impermissible__ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :four::hammer:  
-__impetus__ _n_ :three::hammer:  
+__impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impish__ _Impish sense of humor._  
 __implausible__  
@@ -6357,8 +6361,8 @@ __maitre d'__
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __major__ _v_  
 __majoring__  
-__make no bones__  
-__make our bones__  
+__make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
+__make (one's) bones__ _idiom_  
 __make out__ _v_  
 __make perfect sense__ _It makes perfect sense._  
 __make plays__ _v_ _(football) To make plays._  
@@ -8279,6 +8283,7 @@ __quakes__ _v_
 __qualify__ _v_  
 __qualm__ _n_ :seven: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ _n_ :eight: Difficult dilemma. _All-Star managers face quandary._  
+__quarrelsome__  
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
@@ -8916,7 +8921,7 @@ __rummage__ _v_ :seven::hammer: (rummaged, rummaging)
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
 __run amok__ :two::hammer:  
-__run errands__  
+__run errands__ :two::hammer:  
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
@@ -9513,6 +9518,7 @@ __sidelined__ _The first baseman is expected to be sidelined for seven to 10 day
 __sidelines__ _n_ :three: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
 __sidestep__ _v_ :four::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
+__sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
@@ -9890,6 +9896,7 @@ __soloist__ _n_ :three::hammer:
 __sombreros__  
 __someone's hair__ _He built the shop to get his hobby out of his wife's hair._  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
+__somewhat__  
 __son of a biscuit__  
 __sonny__  
 __sonogram__  
@@ -11898,7 +11905,7 @@ __whole nine yards, the__
 __whole__ :mute:[~~w~~hole]  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::hammer:  
-__wholesome__ :two::hammer:  
+__wholesome__ _adj_ :three::hammer:  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::three::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
 __whoop<sup>1</sup>__ _n_ :two::hammer:  
@@ -12038,7 +12045,7 @@ __workshop__ _v_ :three::astonished::hammer: (workshopped)
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
 __wormhole__ _n_ :two::hammer:  
-__worrisome__ _adj_ :three::hammer:  
+__worrisome__ _adj_ :four::hammer:  
 __worrywarts__  
 __worshiper__  
 __wort__  
