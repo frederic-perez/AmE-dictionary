@@ -1579,7 +1579,7 @@ __cap<sup>1</sup>__ _n_ :two::hammer: (soccer; hat?)
 __cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
-__caper<sup>1</sup>__ _n_ :four: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft.  
+__caper<sup>1</sup>__ _n_ :five: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
 __caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
@@ -1917,7 +1917,7 @@ __civil__ _Some airlines still offer a civil amount of space, even in economy cl
 __clacks__ _n_  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _The White Sox claimed the 2005 title._  
-__claimants__  
+__claimants__ :two::hammer:  
 __clam up__ _v_  
 __clambake__ _n_  
 __clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
@@ -2067,7 +2067,7 @@ __cold duck__
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
-__coleslaw__ _n_ :three::hammer:  
+__coleslaw__ _n_ :four::hammer:  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_  
 __collapse__ _v_ :pencil2:  
@@ -2737,7 +2737,7 @@ __defection__ _n_ :seven: Withdrawing support or help despite allegiance or resp
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
 __defensive__ _You seem defensive now._  
-__defer__ _v_ :four::hammer:  
+__defer__ _v_ :five::hammer:  
 __deference__ _n_ :four::hammer:  
 __deferential__  
 __deferentially__  
@@ -3065,7 +3065,7 @@ __dolt__ :two::hammer:
 __domicile__  
 __don't count your chickens before they're hatched__ Don't make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
-__doneness__ :pencil2:  
+__doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donned__ _v_ _They donned masks._  
 __doo-dah__  
 __doodad__  
@@ -3155,7 +3155,7 @@ __drag<sup>2</sup>__ _n_
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
-__drain<sup>1</sup>__ _v_ :two::hammer:  
+__drain<sup>1</sup>__ _v_ :three::hammer:  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__  
 __dramedy__  
@@ -3475,7 +3475,8 @@ __enquiry__
 __enrapture__ _v_ :three: (enraptured) To fill with rapture or delight.  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
-__ensemble__ _n_  
+__ensemble<sup>1</sup>__ _n_ :two::hammer:  
+__ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
 __enshrined__  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
@@ -3701,7 +3702,7 @@ __fannies__
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
-__far cry (from something)__ _n_ _idiom_ :eight: A thing that is very different from something else. _It is a far cry from the 1970s._  
+__far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :four::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
@@ -4174,6 +4175,7 @@ __franchisees__
 __Frappuccino__  
 __frat__ _A frat house._  
 __frats__ _n_  
+__fraudulent__ _adj_  
 __fraught__ _adj_ :seven: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer:  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
@@ -4584,7 +4586,7 @@ __gracious__ _adj_ :four::hammer: _He was very gracious._
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
-__graft__ :three::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._  
+__graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramps__  
 __grand jury__  
 __grand__  
@@ -6361,8 +6363,8 @@ __maitre d'__
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __major__ _v_  
 __majoring__  
-__make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make (one's) bones__ _idiom_  
+__make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_  
 __make perfect sense__ _It makes perfect sense._  
 __make plays__ _v_ _(football) To make plays._  
@@ -7608,7 +7610,7 @@ __perks__
 __permafrost__ :two::hammer:  
 __permed__  
 __permit__ _Camping permit fee._  
-__pernicious__  
+__pernicious__ :two::hammer:  
 __peroxide__  
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
@@ -8928,6 +8930,7 @@ __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-i
 __run-of-the-mill__ _adj_ :four: Ordinary, average.  
 __runaway__ :two::hammer: _Bryant was a runaway winner._  
 __runaways__  
+__rundown__ _n_  
 __rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
@@ -9339,7 +9342,7 @@ __shed__ _v_ :three::hammer: Park (a vehicle) in a depot. _The rookie has shed h
 __shedder__ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
-__sheen__ _The sheen on his hair when he removed his hat._  
+__sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
 __sheep__ _(plural?)_ _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
@@ -9384,7 +9387,7 @@ __shiner__ _He answered the door with a shiner on one eye from a wrestling match
 __shingle__ _n_ :four::hammer: (shingles)  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
-__shirk<sup>2</sup>__ _v_ :three::dart: (shirking) To avoid work or duty.  
+__shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
 __shirttail__ _n_  
 __shit list__ _n phr_ One's fancied or real list of persons who are hated, not trusterd, to be avoided, etc.  
 __shit-canning__  
@@ -10652,6 +10655,7 @@ __talent__ _A specific set of talents._
 __talk back__ _idiom_  
 __talk down to__  
 __talk into__ _phr v_ :two::hammer:  
+__talk numbers__ _Let's talk numbers._  
 __talk over__ _phr v_  
 __talk shit__  
 __talk up__  
@@ -10937,7 +10941,7 @@ __tilapia__
 __tiller__  
 __tiltyard__  
 __time and again__ :two::hammer::dart:  
-__time capsule__ _n_ :two::hammer:  
+__time capsule__ _n_ :three::hammer:  
 __time frame__  
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
@@ -11783,8 +11787,7 @@ __weather__ _v_ :two::hammer: (weathering)
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
 __wedding band__  
-__wedge__ _(golf) Wedge play._  
-__wedge<sup>1</sup>__ _n_  
+__wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._  
 __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar  
 __wedgie__  
 __wedhe issue__  
@@ -12003,6 +12006,7 @@ __withe down__ _v_
 __wither__ _v_ :three::hammer: (withers, withered)  
 __withes__ _n_ :two::hammer:  
 __withhold__  
+__without further ado__ _idiom_ With no more delay.  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
