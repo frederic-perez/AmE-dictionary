@@ -1643,7 +1643,7 @@ __cascading__
 __case at hand__  
 __case in point__ _n_ :six::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case the joint__  
-__case__ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
+__case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
@@ -1791,6 +1791,7 @@ __chasuble__ _n_ :two::hammer:
 __chattel__  
 __chatterbox__ _idiom_ :two::dart: A person who talks a lot.  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
+__cheapskate__ _n informaly_ :dart: A person who doesn't like to spend money.  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
 __check in__ _v_  
@@ -1857,6 +1858,7 @@ __chiropractor__ _n_
 __chirp away__ _v_  
 __chirping__ _There's a lot of chirping in hockey, and it can be pretty nasty at times._  
 __chiseled__  
+__chit-chat__ _slang_ An informal conversation about things that are not important.  
 __Chiuaua__  
 __chive__ _n_  
 __chivvied__  
@@ -1972,6 +1974,7 @@ __clenched__
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__  
+__clickbait__ _Clickbait headlines._  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
 __climb__ :mute:[clim~~b~~]  
@@ -3155,7 +3158,7 @@ __drag<sup>2</sup>__ _n_
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
-__drain<sup>1</sup>__ _v_ :three::hammer:  
+__drain<sup>1</sup>__ _v_ :four::hammer:  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__  
 __dramedy__  
@@ -6942,6 +6945,7 @@ __neutrinos__ _n_
 __Neutron Jack__  
 __New Jerseyan__  
 __New Jerusalem__  
+__new kid on the block__ _idiom_ Someone who is new in a place or organization.  
 __newbie__ _n_ (newbies)  
 __newborn__ _n_  
 __newly__ :two::hammer: _The newly elected leader of the Senate Democrats._  
@@ -7060,7 +7064,7 @@ __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take 
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nutmeg__ _n_  
-__nuts and bolts__ _n informal_ (the nuts and bolts of something)  
+__nuts and bolts__ _n informal_ :two::hammer: (the nuts and bolts of something)  
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
@@ -8314,6 +8318,7 @@ __quickening__ :two::hammer: _He felt a quickening within him._
 __quicksand__ :two::hammer: _I've just signed a quicksand employment contract._  
 __quicksilver__  
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
+__quid__  
 __quill__ _n_  
 __quilt__  
 __quilting__ _Quilting bee._  
@@ -8800,7 +8805,8 @@ __roam__ _v_ :five::hammer: (roaming) _Dinosaurs roaming the turf in Charlotte._
 __roast__ _n_  
 __roasted tea__ :camera:  
 __rob__ _Crimson-robed nuns._  
-__robe__ _n_ _The judge's robe._  
+__robe<sup>1</sup>__ _n_ :two::hammer: _The judge's robe._  
+__robe<sup>2</sup>__ _v_  
 __robin-breasted__  
 __rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
 __rock the boat__ :two::hammer:  
@@ -9275,12 +9281,17 @@ __servicers__
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __set (someone or something) off__ _idiom_  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
+__set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
+__set down__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
+__set forth__ _phr v_ Begin a journey or expedition. _Columbus set forth with three small ships._  
 __set menu__  
+__set off__ _phr v_ Leave; to begin a journey or trip. _He set off in search of better opportunities._  
 __set out__ _v_  
 __set piece__ _The goal was scored on a set piece._  
 __set someone apart__  
 __set the pace__  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
+__set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
 __setback__ _n_ :three::hammer: (setbacks) _It has suffered several setbacks._  
 __setting > picturesque setting__ :es: entorno picturesco  
@@ -9293,6 +9304,7 @@ __sewage__ _n_ :two::hammer: :es: aguas residuales
 __sewer gas__  
 __sewer grate__ :two::hammer:  
 __sewer__ _A sewer pipe._  
+__sh__ _interj_ (sh, shhh) Used to urge silence.  
 __shabby__ _adj_ :three::hammer:  
 __shack__ :two::hammer:  
 __shackle__ _n_  
@@ -9704,7 +9716,7 @@ __slither__ _v_
 __slithering__ :two::hammer:  
 __sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
 __sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
-__sliver<sup>2</sup>__ _v_ :four::hammer:  
+__sliver<sup>2</sup>__ _v_ :five::hammer:  
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
 __slobby__  
@@ -10307,7 +10319,7 @@ __stooped__ _adj_ :two::hammer: _He was a stooped man._ _Stooped shoulders._
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop-and-go__ _Stop-and-go traffic jams._  
 __stopgag__ _n_ :three::hammer:  
-__stopgap__ _n_ :three::hammer:  
+__stopgap__ _n_ :five::hammer:  
 __stoplights__ :pencil2:  
 __stopover__  
 __stoppage__ _n_ :seven::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
@@ -10519,7 +10531,7 @@ __surmised__ _v_ :two::hammer:
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surname__ :two::mega::hammer:  
 __surplice__ _n_  
-__surprise surprise__  
+__surprise, surprise__ _idiom_ :two: Said ironically of or in a situation in which something very predictable has happened.  
 __surreptitiously__ _adj_ :three::hammer:  
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  

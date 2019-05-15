@@ -1,26 +1,4 @@
 
-__stopgap__  
-__clickbait__ _Clickbait headlines._  
-__quid__  
-
-__set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
-__set down__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
-__set forth__ _phr v_ Begin a journey or expedition. _Columbus set forth with three small ships._  
-__set off__ _phr v_ Leave; to begin a journey or trip. _He set off in search of better opportunities._  
-__set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
-__new kid on the block__ _idiom_ Someone who is new in a place or organization.  
-__chit-chat__ _slang_ An informal conversation about things that are not important.  
-__cheapskate__ _n informaly_ :dart: A person who doesn't like to spend money.  
-
-__nuts and bolts__ _idiom_  
-__drain__ _v_  
-__robe<sup>1</sup>__ _n_  
-__robe<sup>2</sup>__ _v_  
-__sliver<sup>1</sup>__ _n_  
-__sliver<sup>2</sup>__ _v_  
-__stopgap__ _n_  
-__surprise, surprise__ _idiom_ Said ironically of or in a situation in which something very predictable has happened.  
-__sh__ _interj_ (sh, shhh)  Used to urge silence.  
 __fresh__ _Fresh towels._  
 
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
