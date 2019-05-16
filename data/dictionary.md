@@ -108,6 +108,7 @@ __Ada__ :mega: /ā′də/
 __adage__ :two::hammer:  
 __Adam's ale__ _slang_ Water.  
 __adamant__  
+__add up to__ _idiom_ To equal or amount to something.  
 __add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __address__ _v_  
@@ -205,6 +206,7 @@ __akin__ :two::hammer:
 __al fresco__  
 __alabaster__  
 __alacrity__ _n_ :two: /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
+__Alas!__  
 __Alaskan__  
 __albatross__ _n_ :pencil2::two::hammer:  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
@@ -496,7 +498,7 @@ __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attain
 __attainability__  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_  
-__attest__ _v_  
+__attest__ _v_ :two::hammer:  
 __attire__ _n_ :four::hammer: _Casual attire is requested._  
 __Attn__  
 __attrition__ _n_ :six::hammer:  
@@ -1418,6 +1420,7 @@ __burst__ _v_ :two::hammer: (bursting)
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __business logic__  
 __business ties__  
+__businesspeople__ _n_  
 __busker__  
 __busload__  
 __bust out__ _She clearly has something busting out._  
@@ -1437,6 +1440,7 @@ __butt<sup>1</sup>__ _v_
 __butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
 __butter cups__ _organic peanut butter cups._  
 __buttercups__  
+__butterfingers__ _idiom_ A person who frequently drops things, clumsy person.  
 __butternut__  
 __butting head__  
 __butting__ _v_  
@@ -3135,7 +3139,7 @@ __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.
 __downline__ _n_  
 __downplay__ _v_ :four::hammer: (downplayed)  
 __downpour__ _n_ :five::hammer: (downpours) _Heavy downpours can cause flash flooding._  
-__downright__ _adv_ :dart::three::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
+__downright__ _adv_ :dart::four::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downsides__  
 __downspout__ _n_  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
@@ -3486,7 +3490,7 @@ __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __entail__ _v_ :five::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthuse__ _v_ :seven::hammer: (enthused, enthusing) _It has enthused fans._  
+__enthuse__ _v_ :eight::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __enticing__  
 __entitle__ _v_ :three::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._  
@@ -3760,6 +3764,7 @@ __feign__ :mute:[fei~~g~~n]
 __feint__  
 __feisty__ _adj_ :five::hammer:  
 __felled__ _v_ _He felled a giant._  
+__fellow__ _I am a fellow student._  
 __felon__ _n_ :nine: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __felt pen__  
@@ -4198,6 +4203,7 @@ __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Frenchman__  
 __frenzy__ :two::hammer:  
+__fresh__ _Fresh towels._  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
 __fretful__ :two::hammer:  
@@ -4397,6 +4403,7 @@ __German shepherd__ _n_ An Alsatian.
 __Geronimo wire__ :two::hammer:  
 __gerrymander<sup>1</sup>__ _v_ :five: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
+__get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get a grip__  
 __get a jump__ _Get a jump on things._  
 __get a kick out of__ _You'll get a kick out of this!_  
@@ -5548,7 +5555,7 @@ __insolvency__
 __instability__ :two::hammer::pencil2:  
 __installment__ _n_ :two::dart: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
-__instill__ _v_ :four::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
+__instill__ _v_ :five::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
 __instrumental__  
@@ -6154,6 +6161,7 @@ __line up__ _v_
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
 __lineages__  
+__linear__  
 __lineman__  
 __linemen__ _n_  
 __liners__ _n_ _Hospital liners._  
@@ -6866,7 +6874,7 @@ __nadir__
 __naevus__ _n_ (nevus)  
 __nag<sup>1</sup>__ _v_  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
-__nagging__ _adj_ :three: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
+__nagging__ _adj_ :four: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
 __nail it__  
 __naïveté__  
@@ -6982,7 +6990,7 @@ __nitpick<sup>1</sup>__ _n_
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
-__nitty-gritty__ _n_ :three: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
+__nitty-gritty__ _n_ :four: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
 __no early birds!__ (?)  
@@ -7235,7 +7243,7 @@ __ostracize__ _v_ :three::pencil2::hammer:
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
-__otherworldly__ :astonished::two::hammer:  
+__otherworldly__ _adj_ :astonished::three::hammer:  
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __otter__  
 __ottoman__  
@@ -8103,7 +8111,7 @@ __prodigal__
 __produce__ _n_ :two::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
 __profanely__  
 __profanity__  
-__professed__ _v_  
+__professed__ _v_ :two::hammer:  
 __proffering__  
 __profiteering__  
 __profligate<sup>1</sup>__ _adj_ :two::hammer:  
@@ -9924,7 +9932,7 @@ __sophomore__ (from Greek?) :two::hammer:
 __sopping__ _v_  
 __soppy__  
 __sorbet__ _n_ :mega:  
-__sorely__ :two::hammer:  
+__sorely__ _adv_ :three::hammer:  
 __sorghum__  
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
@@ -10907,6 +10915,7 @@ __thud<sup>1</sup>__ _n_ :two::hammer:
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ :two::hammer:  
 __thumb tacks__  
+__thumb war__  
 __thumb__ _v_ :two::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
@@ -10958,7 +10967,7 @@ __time frame__
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
 __timeline__  
-__timely__ _adj_ :six::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :seven::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable__  
 __timid__  

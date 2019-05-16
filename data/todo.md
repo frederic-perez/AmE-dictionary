@@ -1,27 +1,4 @@
 
-__fresh__ _Fresh towels._  
-
-__get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
-__add up to__ _idiom_ To equal or amount to something.  
-__butterfingers__ _idiom_ A person who frequently drops things, clumsy person.  
-__thumb war__  
-
-__otherworldly__  
-__Alas!__  
-__professed__ _v_  
-__enthused__ _v_  
-__downright__  
-__nagging__ _adj_  
-__attest__ _v_  
-__instill__ _v_  
-__businesspeople__ _n_  
-__angst__  
-__sorely__  
-__linear__  
-__timely__  
-__nitty-gritty__  
-__fellow__ _I am a fellow student._  
-
 __avid__ _I'm an avid listener of Beautiful Anonynous._  
 __hairpiece__ _n_  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
