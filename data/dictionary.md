@@ -19,7 +19,7 @@ __a drop in the bucket__ _idiom_ :two: A very small amount when compared to some
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
 __A/C__ (air conditioned?)  
-__AA__  
+__AA__ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __AAA__ _(cars)_  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AB__ _Guys in the AB._  
@@ -189,7 +189,7 @@ __aide__ _n_ :two::hammer: (aides)
 __ail__ _v_  
 __ailerons__  
 __ailing__ :three::hammer: _It is ailing the NFL._  
-__ailment__ _n_ :three: Mild illness.  
+__ailment__ _n_ :four: Mild illness.  
 __ails__ _v_ :two::hammer:  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
@@ -528,7 +528,7 @@ __aver__ _v_
 __average citizens__  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :two::hammer: (averted)  
-__avid__ _adj_ :three::hammer:  
+__avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonynous._  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación  
 __avowed__ _v_  
 __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
@@ -578,7 +578,7 @@ __backpedal__ _v_
 __backslid__ _v_  
 __backsplash__ _n_ _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
-__backtrack__  
+__backtrack__ _n_ :two::hammer:  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
 __backwater__ :two::hammer: _An academic backwater._  
 __backwoods__  
@@ -2541,6 +2541,7 @@ __cud__ _n_ :three::hammer:
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::hammer: (cudgels)  
 __cue ball__ _n_ :three: The ball a player strikes with the cue, as distinguished from the other balls on the table.  
+__cue card__ _n_  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -3620,6 +3621,7 @@ __expose__ _v_
 __expostulate__ _v_  
 __exposures__ (?) _Penthouse features include multiple exposures._  
 __expunged__ _v_  
+__extemporaneous__ _adj_  
 __extent__ _To the same extent._  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :three::hammer: (extolled, extolling)  
@@ -3890,7 +3892,7 @@ __fix__ _A quick fix of French fries._
 __fixable__ _A lot of that is fixable._  
 __fixe__ _A $40 prix fixe meal._  
 __fixer-upper__ _Don't be afraid to take on a fixer-upper._  
-__fixture__ _n_ :three::hammer: _A Premier League fixture._ _He had been a fixture and a legend._  
+__fixture__ _n_ :four::hammer: _A Premier League fixture._ _He had been a fixture and a legend._  
 __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
 __fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle__ _v_ :three::hammer: (fizzled)  
@@ -4819,6 +4821,7 @@ __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows
 __hailstorm__ _n_ :three::hammer:  
 __hair clippers__ _n_ :camera:  
 __hairline__  
+__hairpiece__ _n_  
 __haking__  
 __halcyon__ _Halcyon time of romance._  
 __hale__ _A real hale-and-hearty type with a warm smile._  
@@ -5403,6 +5406,7 @@ __impersonation__
 __impervious__ _adj_ :four::hammer:  
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
+__impinge__ _v_  
 __impish__ _Impish sense of humor._  
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
@@ -6289,7 +6293,7 @@ __low key__ :two::hammer:
 __low-key__  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
-__lowdown__ _n_ _Slang_ :two: The whole truth: _gave us the lowdown on what happened at the party._  
+__lowdown__ _n_ _Slang_ :three: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__  
@@ -6612,6 +6616,7 @@ __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with 
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
 __militias__ :two::hammer:  
+__milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __milk__ _v_ :two::hammer: _Milk the clock._  
 __milkweed__  
 __mill__ _n_ A million dollards.  
@@ -6644,6 +6649,7 @@ __minutia__ _n_ (minutiae) :two: A small or minor detail.
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :four::hammer:  
 __mirthful__  
+__miscarriage__ _n_  
 __miscarry__ _v_  
 __miscegenation__  
 __miscellaneous__ :mute:[mis~~c~~ellaneous]  
@@ -6825,6 +6831,7 @@ __mulligan__ _n_
 __mulling__ _v_ :three:hammer:  
 __multipurpose__ :es: polivalente  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
+__mumbo jumbo__ _n_  
 __mumps__  
 __munch__ _v_ :three:hammer: (munches)  
 __mundane__ :two::hammer:  
@@ -7199,7 +7206,7 @@ __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
-__onset__ _n_ :four::hammer: _Early onset dementia._  
+__onset__ _n_ :five::hammer: _Early onset dementia._  
 __onslaught__ :two::hammer:  
 __onus__ _n_ :five::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
@@ -7299,7 +7306,7 @@ __outrage<sup>1</sup>__ _n_ :four::hammer:
 __outrage<sup>2</sup>__ _v_  
 __outrageous__ :two::hammer:  
 __outré__  
-__outreach__ _n_ :four::hammer: _He's an HIV outreach worker._  
+__outreach__ _n_ :five::hammer: _He's an HIV outreach worker._  
 __outriggers__  
 __outright__ _adj?_  
 __outset__ _n_ :six::hammer: _The outset of his campaign._  
@@ -7877,6 +7884,7 @@ __plunge__ _v_ :two::hammer: _Plunge the toilet._
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :eight::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._  
+__PM__ Particulate matter. Small particles in the air, containing a variety of components.  
 __pneumonia__ :mute:[~~p~~neumonia]  
 __PO__ Parole officer?  
 __po'-boy sandwiches__  
@@ -8028,7 +8036,7 @@ __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._
 __premier__ _adj_  
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
 __premortem__  
-__prenup__  
+__prenup__ _n_ _informal_ :two: A prenuptial agreement.  
 __prep schools__  
 __Prep__  
 __prep__ (prepping) _I was prepping for the show._  
@@ -8412,6 +8420,7 @@ __ramshackle__ :two::hammer:
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
 __rancor__ _n_  
+__random__ _adj_ :mega: /ˈrændəm/  
 __randy__  
 __range<sup>1</sup>__ _n_ :two::hammer: _A range of details._ _Range war._  
 __range<sup>2</sup>__ _v_ _This ranges from clearing out cupboards to limming down your diary._  
@@ -8488,6 +8497,7 @@ __razzle-dazzle__ :two::hammer:
 __razzmatazz__ _n_  
 __reach for the sky__  
 __reach for the stars__ Have high or ambitious aims.  
+__reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
 __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
 __readily__ :two::hammer:  
@@ -10433,7 +10443,7 @@ __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by
 __stunner__  
 __stunning__ _adj_ :four::hammer:  
 __stunt<sup>1</sup>__ _n_ :four::hammer: (stunts) _Singers emphasize stunts over music._  
-__stunt<sup>2</sup>__ _v_ :three::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._  
+__stunt<sup>2</sup>__ _v_ :four::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._  
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  

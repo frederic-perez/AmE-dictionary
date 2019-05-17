@@ -1,25 +1,4 @@
 
-__avid__ _I'm an avid listener of Beautiful Anonynous._  
-__hairpiece__ _n_  
-__reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
-__fixture__  
-__random__ _adj_ :mega: /ˈrændəm/  
-__cue card__ _n_  
-__extemporaneous__ _adj_  
-__milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
-__dole out__  
-__impinge__ _v_  
-__prenup__ _n_ _informal_ A prenuptial agreement.  
-__mumbo jumbo__ _n_  
-
-__backtrack__ _n_  
-__outreach__ _n_  
-__ailment__ _n_  
-__miscarriage__ _n_  
-__lowdown__ _The lowdown on cycle network innovations._  
-__PM__ Particulate matter. Small particles in the air, containing a variety of components.  
-__stunt__ _v_  
-__onset__  
 __accolade__ _n_  
 __cater__ _v_ 
 __levy__  
