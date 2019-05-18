@@ -1,4 +1,15 @@
 
+__flippant__ _adj_  
+__daiquiri__ _n_ :mega:  
+__zilch__  
+__dealbreaker__ _idiom_ A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__ensuite<sup>1</sup>__ _n_ A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
+__ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
+__silver lining__ :three:  
+__hoist__ _n_ :es: montacargas  
+__overly__  
+__forte__ _n_ :mega:  
+
 __accolade__ _n_  
 __cater__ _v_ 
 __levy__  
