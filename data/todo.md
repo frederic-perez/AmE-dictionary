@@ -1,4 +1,13 @@
 
+__white lie__ _idiom_ Lie to protect another person's feelings.  
+__paint the town red__ _idiom_ Have a good time.  
+__green with envy__ _idiom_ Very jealous.  
+__pink elephants__ _idiom_ This term referst to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
+__with flying colors__ _idiom_ With distinction.  
+__cougar__ _n_ An older woman seeking a sexual relationship with a younger man.  
+__nuts and bolts__ _idiom_ The basic, practical details of a job or other activity.  
+__in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It's a good thing, because I really need this medicine!_  
+
 __flippant__ _adj_  
 __daiquiri__ _n_ :mega:  
 __zilch__  
