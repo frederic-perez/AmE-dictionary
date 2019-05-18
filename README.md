@@ -32,7 +32,8 @@ I also gather interesting stuff from a myriad of podcasts, including:
 - ID10T, hosted by Chris Hardwick
 - Last Week On Earth, hosted by Ben Gleib
 - Murder Book, hosted by Michael Connelly
-- StartTalk, hosted by Neil deGrasse Tyson, with various comic and celebrity co-hosts 
+- StartTalk, hosted by Neil deGrasse Tyson, with various comic and celebrity co-hosts
+- Tell Me Something I Don't Know, hosted by Stephen Dubner of Freakonomics Radio
 - This American Life, hosted by Ira Glass
 
 ## Emojis
