@@ -1,4 +1,18 @@
 
+__snappy__  
+__marshal__ _v_  
+__carjack__ _v_  
+__murder book__  _n_ The case file of a murder investigation.  
+__no-no__  
+__drive-by<sup>1</sup>__ _adj_  
+__drive-by<sup>2</sup>__ _n_  
+__verdict__  
+__bluff<sup>1</sup>__ _v_  
+__bluff<sup>2</sup>__ _n_  
+__pigtail__ _n_  
+__ostracize__ _v_ :two:  
+__outstanding__ _adj_  
+
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __paint the town red__ _idiom_ Have a good time.  
 __green with envy__ _idiom_ Very jealous.  
