@@ -1,4 +1,14 @@
 
+__crib__ _n informal_ A literal translation used in studying a foreign language (often used illicitly).  
+__open a can of worms__ To create a situation that will cause a lot of problems.  
+__ask over__ _phr v_ To invite people to your house.  
+__associate with__ _phr v_ To spend time with someone.  
+__dope__ A slang word that is used to define someone or something great, wonderful, fantastic.  
+__pardon my French__ _idiom_ Excuse me for swearing.  
+__dude__ _n_ Man, guy, friend.  
+__out of this world__ _idiom_ Extremely good.  
+__auction off__ _phr v_ To sell something in an auction.  
+
 __snappy__  
 __marshal__ _v_  
 __carjack__ _v_  
