@@ -442,6 +442,7 @@ __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asi
 __ask after__ _phr v_ To ask for news about someone.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _v_  
+__ask over__ _phr v_ To invite people to your house.  
 __asp__ _n_  
 __aspen__  
 __aspersion__ _n_  
@@ -460,6 +461,7 @@ __assets__
 __assiduously__ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assists__ _Green had 14 rebounds and nine assists._  
+__associate with__ _phr v_ To spend time with someone.  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :four::hammer:  
 __asthma__ _n_  
@@ -508,6 +510,7 @@ __au shops__
 __Au.D__ Doctor of audiology.  
 __auburn__  
 __auction > silent auction__  
+__auction off__ _phr v_ To sell something in an auction.  
 __audacity__  
 __audible__ _v_  
 __august__ _adj_  
@@ -1038,7 +1041,8 @@ __blue-collar men__
 __bluegill__  
 __bluegrass__  
 __blueprint__ _n_ :six::hammer: (blueprints)  
-__bluff__ _n_ :two::hammer:  
+__bluff<sup>1</sup>__ _v_  
+__bluff<sup>2</sup>__ _n_ :three::hammer:  
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
 __blunt<sup>1</sup>__ _adj_ :four: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
@@ -1615,7 +1619,7 @@ __caretaker__ :two::hammer: _A caretaker government._
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
 __Carioca__  
-__carjack__ _v_ To commit forcible theft of (a vehicle) from its users.  
+__carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
 __carnage__ :two::hammer:  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
@@ -2448,7 +2452,7 @@ __crestfallen__ _adj_ :three: Dispirited and depressed; dejected.
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
-__crib__ _n_ :three::hammer:  
+__crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
 __cribbage__ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
@@ -3087,7 +3091,7 @@ __doorman building__ _n_
 __doormat__  
 __doorpost__  
 __doozy__ _adj informal_ :three: Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
-__dope__ _adj_ _informal_ :three: Very good. _He is dope._  
+__dope__ _adj_ _informal_ :four: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :two: __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
@@ -3210,6 +3214,8 @@ __drink like a fish__ To drink too much alcohol.
 __drip-dry__ _Cotton drip-dry._  
 __drip-drying__  
 __drive__ _The drive by Senate Democrats to change the rules._  
+__drive-by<sup>1</sup>__ _adj_  
+__drive-by<sup>2</sup>__ _n_  
 __drive-up__ _Drive-up motels._  
 __drivel__ _n_ :two::hammer:  
 __drivetrains__  
@@ -3260,6 +3266,7 @@ __duckweed__
 __duct__ _They damaged a very large AT&T phone duct._  
 __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
+__dude__ _n_ Man, guy, friend.  
 __due diligence__ _n_ :seven: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due__ :two::hammer: _They travelled due south._  
 __due-diligence__  
@@ -6459,7 +6466,7 @@ __marquetry__ :astonished: _Marketry doors._ :es: marquetería (?)
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
-__marshal<sup>2</sup>__ _v_ :seven::hammer: (marshals, marshalled, marshalling) _The community will marshal its resources to help undocumented immigrants._  
+__marshal<sup>2</sup>__ _v_ :eight::hammer: (marshals, marshalled, marshalling) _The community will marshal its resources to help undocumented immigrants._  
 __marshland__ :two::hammer:  
 __marshmallow__ _n_ :two: Althaea officinalis. The word "marshmallow" comes from the mallow plant species, an herb which grows in marshes and other damp areas.  
 __marshy__  
@@ -6836,6 +6843,7 @@ __mumps__
 __munch__ _v_ :three:hammer: (munches)  
 __mundane__ :two::hammer:  
 __Muni bus__  
+__murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
@@ -7007,7 +7015,7 @@ __no offense__
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-holds-barred__  
-__no-no__ _n_ _informal_ :six::hammer:  
+__no-no__ _n_ _informal_ :seven::hammer:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -7214,6 +7222,7 @@ __oompah__ :two::hammer: _The house oompah band._
 __oomph__ :two::hammer:  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
+__open a can of worms__ To create a situation that will cause a lot of problems.  
 __open house__ :three::hammer: _Educational open house._  
 __open mike__ :two::hammer: _When are you going to do an open mike?_  
 __open-air bus__  
@@ -7264,6 +7273,7 @@ __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits t
 __out of sorts__ _v-link phr_ :four: __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the blue__  
 __out of the woods__  
+__out of this world__ _idiom_ Extremely good.  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
@@ -7459,6 +7469,7 @@ __Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._
 __parchment paper__ :camera:  
 __parchment__ _n_ :six::hammer: _A parchment chart._  
 __pard__  
+__pardon my French__ _idiom_ Excuse me for swearing.  
 __pared__ _v_  
 __pares__ _v_  
 __pariah__ _n_ :four::hammer:  
@@ -7712,7 +7723,7 @@ __pigboat__ _n_
 __piggish__  
 __pigheaded__ _adj_ Obstinate.  
 __pigs in a blanket__ (food?) :camera:  
-__pigtails__  
+__pigtail__ _n_ :two::hammer: (pigtails)  
 __pike__ _You can handle whatever comes down the pike._  
 __pilaf__ _Chickenpilaf._  
 __Pilates__ :mega:  
@@ -9832,6 +9843,7 @@ __snap<sup>2</sup>__ _v_ :two::hammer:
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
 __snappier__ :two::hammer: _Everything will be snappier._  
 __snapping__  
+__snappy__  
 __snare drum__ :two::hammer: (snare drums) :es: tambor militar pequeño  
 __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
@@ -11632,7 +11644,7 @@ __verbatim__
 __verberize__  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
-__verdict__ _n_ :two::hammer::pencil2:  
+__verdict__ _n_ :three::hammer::pencil2:  
 __verge__ _n_ :two::hammer:  
 __veritable__  
 __vermicelli__  

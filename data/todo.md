@@ -1,25 +1,4 @@
 
-__crib__ _n informal_ A literal translation used in studying a foreign language (often used illicitly).  
-__open a can of worms__ To create a situation that will cause a lot of problems.  
-__ask over__ _phr v_ To invite people to your house.  
-__associate with__ _phr v_ To spend time with someone.  
-__dope__ A slang word that is used to define someone or something great, wonderful, fantastic.  
-__pardon my French__ _idiom_ Excuse me for swearing.  
-__dude__ _n_ Man, guy, friend.  
-__out of this world__ _idiom_ Extremely good.  
-__auction off__ _phr v_ To sell something in an auction.  
-
-__snappy__  
-__marshal__ _v_  
-__carjack__ _v_  
-__murder book__  _n_ The case file of a murder investigation.  
-__no-no__  
-__drive-by<sup>1</sup>__ _adj_  
-__drive-by<sup>2</sup>__ _n_  
-__verdict__  
-__bluff<sup>1</sup>__ _v_  
-__bluff<sup>2</sup>__ _n_  
-__pigtail__ _n_  
 __ostracize__ _v_ :two:  
 __outstanding__ _adj_  
 
