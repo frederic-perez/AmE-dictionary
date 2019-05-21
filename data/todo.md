@@ -1,27 +1,4 @@
 
-__ostracize__ _v_ :two:  
-__outstanding__ _adj_  
-
-__white lie__ _idiom_ Lie to protect another person's feelings.  
-__paint the town red__ _idiom_ Have a good time.  
-__green with envy__ _idiom_ Very jealous.  
-__pink elephants__ _idiom_ This term referst to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
-__with flying colors__ _idiom_ With distinction.  
-__cougar__ _n_ An older woman seeking a sexual relationship with a younger man.  
-__nuts and bolts__ _idiom_ The basic, practical details of a job or other activity.  
-__in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It's a good thing, because I really need this medicine!_  
-
-__flippant__ _adj_  
-__daiquiri__ _n_ :mega:  
-__zilch__  
-__dealbreaker__ _idiom_ A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
-__ensuite<sup>1</sup>__ _n_ A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
-__ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
-__silver lining__ :three:  
-__hoist__ _n_ :es: montacargas  
-__overly__  
-__forte__ _n_ :mega:  
-
 __accolade__ _n_  
 __cater__ _v_ 
 __levy__  

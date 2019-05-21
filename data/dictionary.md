@@ -2346,6 +2346,7 @@ __couch potato__
 __couch__ _v_ _He couched the eyes of a dead cat._  
 __couch-ridden__  
 __couch-surfing__ :astonished:  
+__cougar__ _n_ An older woman seeking a sexual relationship with a younger man.  
 __cough up__ _v_  
 __could__ :mute:[cou~~l~~d]  
 __coulee__  
@@ -2624,6 +2625,7 @@ __dafter__
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daily basis__ (on a daily basis) _They work with the team on a daily basis._  
+__daiquiri__ _n_ :mega:  
 __dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
 __dallied__ _v_  
@@ -2690,7 +2692,7 @@ __dead set against something__ _idiom_ To be completely against something.
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
-__deal breaker__  
+__dealbreaker__ _idiom_ :two: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :dart::three::hammer:  
@@ -3495,6 +3497,8 @@ __ensemble<sup>2</sup>__ _adj_ _An ensemble group._
 __enshrined__  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
+__ensuite<sup>1</sup>__ _n_ A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
+__ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __entail__ _v_ :five::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
@@ -3571,7 +3575,7 @@ __evened__ _v_
 __evening star__ _The evening star was out and the moon rising._  
 __ever since__ :dart::two::hammer: _I've been a fan ever since._  
 __evergreen__ _adj_  
-__every cloud has a silver lining__ Be optimistic, even difficult times will lead to better days.  
+__every cloud has a silver lining__ _idiom_ :six: Be optimistic, even difficult times will lead to better days.  
 __every man for himself__ :dart:  
 __every other week__ :two::hammer: _We don't win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
@@ -3986,7 +3990,7 @@ __flinty__ _Flinty soil._
 __flip (me) the bird__  
 __flip the bird__  
 __flip-flops__  
-__flippant__ _adj_ :two::hammer:  
+__flippant__ _adj_ :three::hammer:  
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__ :two::hammer:  
@@ -4152,7 +4156,7 @@ __formidable__
 __forsake__ _v_ :five::hammer: (forsaken)  
 __forsaken__ _adj_  
 __fort__ Fortification(?)  
-__forte<sup>1</sup>__ _n_ :two: Something in which a person excels.  
+__forte<sup>1</sup>__ _n_ :three::mega: Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
 __forthright__  
@@ -4654,6 +4658,7 @@ __Greek__ :astonished: _It's in Greek and almost impossible to decode._
 __green card wedding__  
 __green day__ :two::hammer:  
 __green thumb__ _Not everyone has a green thumb._  
+__green with envy__ _idiom_ Very jealous.  
 __green-behimd-the-ears__  
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
 __greener pastures__  
@@ -5162,7 +5167,8 @@ __hog the sofa__
 __hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.  
 __hog<sup>2</sup>__ _v informal_ To take more than one's share of: _Don't hog the couch._  
 __hogslop__  
-__hoist__ _v_ :three::hammer: (hoisted) :es: alzar  
+__hoist<sup>1</sup>__ _n_ :es: montacargas  
+__hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
 __hold a referendum__  
@@ -5447,6 +5453,7 @@ __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the e
 __in the fold__ _They kept the devious students in the fold._  
 __in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
+__in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It's a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
@@ -7087,7 +7094,7 @@ __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take 
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nutmeg__ _n_  
-__nuts and bolts__ _n informal_ :two::hammer: (the nuts and bolts of something)  
+__nuts and bolts__ _idiom_ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
@@ -7255,7 +7262,7 @@ __oscillating fan__
 __ossified__ _v_ :two::hammer:  
 __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostracism__ _n_  
-__ostracize__ _v_ :three::pencil2::hammer:  
+__ostracize__ _v_ :five::pencil2::hammer:  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
@@ -7327,6 +7334,7 @@ __outsize__ :two::hammer: _An outsize risk._
 __outsmart__ _v_  
 __outspend__ _v_  
 __outspoken__ _adj_ :nine::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
+__outstanding__ _adj_  
 __outstripped__ _v_  
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "out of." _Straight outta Tahoe._  
 __outtakes__ _n_  
@@ -7400,6 +7408,7 @@ __pageboy__
 __pail__ _n_ :three::hammer: _A lunch pail._  
 __painstaking__ _Painstaking patience._  
 __painstakingly__  
+__paint the town red__ _idiom_ Have a good time.  
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __palanquin__ _n_  
@@ -7756,6 +7765,7 @@ __pine (for)__ _v_
 __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only in movies that people pined for the dead._  
 __ping__ _v_ _Pinging with heat._  
 __pinion__ _v_ :two::hammer: (pinioned)  
+__pink elephants__ _idiom_ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
 __pink eye__ _n_ :two::hammer:  
 __pink slime__  
 __pink slip__  
@@ -9583,7 +9593,7 @@ __Sikh__
 __sill__ :two::hammer:  
 __silly boy__  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
-__silver lining__ :two::hammer:  
+__silver lining__ (See "every cloud has a silver lining.")  
 __Silver State__ Nevada.  
 __silverplate__ _v_  
 __simmer down__  
@@ -11934,6 +11944,7 @@ __whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]
 __whistle-blower__  
 __Whit Sunday__  
 __white elephant__ _n_  
+__white lie__ _idiom_ Lie to protect another person's feelings.  
 __white__ :mute:[w~~h~~ite]  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
@@ -12044,6 +12055,7 @@ __wistfully__
 __wistfulness__  
 __wit__ _n_ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
+__with flying colors__ _idiom_ With distinction.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
 __withe down__ _v_  
 __wither__ _v_ :three::hammer: (withers, withered)  
@@ -12226,6 +12238,7 @@ __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._
 __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__ :two::hammer:  
 __zig__ _v_ _They tend to zig when markets zag._  
+__zilch__  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
