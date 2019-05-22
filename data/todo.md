@@ -1,26 +1,4 @@
 
-__accolade__ _n_  
-__cater__ _v_ 
-__levy__  
-__bursaries__  
-__chasm__  
-__longstanding__ _adj_  
-__portrait__  
-
-__in hot water__ _idiom_ In trouble.  
-__clothespin__ _n_  
-__carabiner__ _n_ :es: mosquetón  
-__safety pin__ _n_ :es: imperdible  
-__edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
-__edible<sup>2</sup>__ _n_  
-__over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphenated if used before a noun.)  
-__significant other__  
-
-__relentless__ _adj_  
-__quiescent__  
-__consumable__  
-__drogue__ _Drogue parachutes._  
-__stowage__  
 __aft__ _Aft compartment._  
 __yield__ _v_  
 __aghast__ :two::hammer:  

@@ -60,7 +60,7 @@ __abysmal__
 __abyss__ _n_ :astonished::mega::six:  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accoitrements__  
-__accolade__ _n_ :five: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
+__accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
@@ -1419,7 +1419,7 @@ __burrhead__ _n_
 __burrow<sup>1</sup>__ _n_ :four::hammer:  
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
 __burrs__ _n_  
-__bursary__  
+__bursary__ :two::hammer: (bursaries)  
 __burst__ _v_ :two::hammer: (bursting)  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __business logic__  
@@ -1603,7 +1603,7 @@ __captain__ _v_
 __captaincy__ :two::hammer:  
 __capuchin monkey__ :mega:  
 __car sickness__  
-__carabiner__ _n_ :camera::two::hammer:  
+__carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
 __carafe__ _n_  
 __carapace__ _n_ :four::hammer:  
 __carat__  
@@ -1697,7 +1697,7 @@ __catch-up schedule__
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
 __catechism__ :two::hammer::pencil2:  
-__cater__ _v_  
+__cater__ _v_ :two::hammer:  
 __caterwauling__  
 __catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
@@ -1791,7 +1791,7 @@ __charter<sup>1</sup>__ _n_ :two::hammer:
 __charter<sup>2</sup>__ _v_  
 __chartreuse__  
 __chased__ _v_ _A beautiful chased golden bowl._  
-__chasm__ _n_ :seven: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :eight: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
 __chastened__ :two::hammer:  
 __chastize__ _v_  
@@ -2009,7 +2009,7 @@ __closeted__ :two::hammer: _A closeted life._
 __closure__  
 __clot__  
 __clothesline__ :two::hammer:  
-__clothespin__ _n_ :camera:  
+__clothespin__ _n_ :two::camera::hammer:  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __cloud nine__  
@@ -2240,6 +2240,7 @@ __constituent__ _n_ :five::hammer: (constituents)
 __construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :six::hammer: (construed)  
 __consultee__ _n_  
+__consumable__  
 __consumer electronics__  
 __consumption__ (ailment?)  
 __contagion__  
@@ -3225,6 +3226,7 @@ __driveway__
 __drizzle__ :two::hammer:  
 __drizzled__  
 __drizzly__  
+__drogue__ _Drogue parachutes._  
 __droit du seigneur__  
 __droll__ _adj_ :four::hammer: _There is room for droll comedy._ _Droll comic moments._  
 __drone__ _The drone of an outboard motor reverberated._  
@@ -3360,6 +3362,8 @@ __ecumenical__
 __ED prescription__  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
+__edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
+__edible<sup>2</sup>__ _n_  
 __edict__  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
@@ -5442,6 +5446,7 @@ __in deep water__ _idiom_ To be in a difficult situation.
 __in droves__ _They will come in droves._  
 __in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
+__in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __In retrospect,__ (?)  
 __in short order__  
@@ -6123,7 +6128,7 @@ __leverage<sup>1</sup>__ _n_ _To exert leverage._
 __leverage<sup>2</sup>__ _v_ :two::hammer:  
 __leviathan__  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levy<sup>1</sup>__ _v_ :three::hammer: (levyying)  
+__levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :three::hammer:  
 __lewd__ _adj_ :three::hammer:  
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
@@ -6263,7 +6268,7 @@ __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large ever
 __longbow__ _n_ :three::hammer:  
 __longhand__ _n_ :three: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
-__longstanding__ :two::hammer:  
+__longstanding__ _adj_ :three::hammer:  
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
@@ -7341,6 +7346,7 @@ __outtakes__ _n_
 __outthink__ _v_  
 __oval__ _Ford oval logo._  
 __over one's head__ _He was over his head._  
+__over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphenated if used before a noun.)  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
 __over-ear headphones__  
 __over-the-hill__ :two::hammer: _I'm over-the-hill for Passion._  
@@ -7988,6 +7994,7 @@ __portent__ _n_ :five::hammer: (portents)
 __portentous__  
 __portly__  
 __portmanteau__  
+__portrait__  
 __portray__ _v_  
 __portrayal__ _n_ :two::mega::hammer:  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
@@ -8356,6 +8363,7 @@ __quicksand__ :two::hammer: _I've just signed a quicksand employment contract._
 __quicksilver__  
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
+__quiescent__  
 __quill__ _n_  
 __quilt__  
 __quilting__ _Quilting bee._  
@@ -8642,7 +8650,7 @@ __relatable__ _adj_ :three::hammer:
 __relay__ _A relay race._  
 __relegation__ _Sports_  
 __relent__ _v_ :three::hammer: (relented)  
-__relentless__ :three::hammer: _I relentlessly go to YouTube to watch all new footage._  
+__relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _Must have reliable transportation._  
 __reliant__ :two::hammer:  
 __relic__ _n_  
@@ -9012,6 +9020,7 @@ __safe word__ _Do you have a safe word?_
 __safeguard__  
 __safekeeping__  
 __safety net__  
+__safety pin__ _n_ :es: imperdible  
 __saffron__ _n_ :two::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
@@ -9587,6 +9596,7 @@ __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his
 __signature__ _That's their signature meal._  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
 __signet ring__  
+__significant other__  
 __signify__ _v_  
 __siitting duck__  
 __Sikh__  
@@ -10376,6 +10386,7 @@ __stoup__
 __stove__ _n_ :three::hammer:  
 __stovepipe hat__  
 __stow__ _v_  
+__stowage__  
 __stowaway__  
 __straddle__ _v_ :three::hammer: (straddles)  
 __strafed__ _v_  
