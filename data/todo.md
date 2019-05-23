@@ -1,26 +1,4 @@
 
-__aft__ _Aft compartment._  
-__yield__ _v_  
-__aghast__ :two::hammer:  
-__war stories__  
-__porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
-__bus__ _v_  
-__every cloud has a silver lining__ _idiom_ Used to say that there is something good even in a situation that seems very sad or difficult.  
-
-__drizzly__  
-__plaster__ _n_ (band-aid?)  
-__the final straw__  
-__shadow__ _v_  
-__ivy__  
-__disparaging__ _adj_  
-__ingrained__  
-__perinatal__  
-__enviable__  
-__pink collar__ _Pink collar jobs._  
-
-__open loop__  
-__bug__ _v_  
-__get closure__  
 __preoccupation__  
 __innate__  
 __dead__ _Dead batteries._  

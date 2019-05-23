@@ -156,7 +156,7 @@ __afloat__
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforemention__ _v_ :two::hammer: (aforementioned)  
 __afoul__ :two::hammer:  
-__aft__  
+__aft__ :two::hammer: _Aft compartment._  
 __aftereffects__  
 __afterglow__  
 __aftermarket__  
@@ -172,7 +172,7 @@ __agendum__
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
-__aghast__ _adj_ :four::hammer:  
+__aghast__ _adj_ :six::hammer:  
 __agit__  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
@@ -1342,7 +1342,7 @@ __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
-__bug__ _v informal_ :six: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
+__bug__ _v informal_ :seven: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __buggers__  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
@@ -1421,6 +1421,7 @@ __burrow<sup>2</sup>__ _v_ :three::hammer:
 __burrs__ _n_  
 __bursary__ :two::hammer: (bursaries)  
 __burst__ _v_ :two::hammer: (bursting)  
+__bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __business logic__  
 __business ties__  
@@ -2982,7 +2983,7 @@ __dismayed__ _v_ _The proposal has dismayed the Canadian government._
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
 __disparage__ _v_ :nine: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ :two::hammer:  
-__disparaging__ _adj_ Insulting, ridiculing.  
+__disparaging__ _adj_ :two: Insulting, ridiculing.  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
 __dispel__ _v_ :five::hammer: (dispelled)  
@@ -3225,7 +3226,7 @@ __drivetrains__
 __driveway__  
 __drizzle__ :two::hammer:  
 __drizzled__  
-__drizzly__  
+__drizzly__ :two::hammer:  
 __drogue__ _Drogue parachutes._  
 __droit du seigneur__  
 __droll__ _adj_ :four::hammer: _There is room for droll comedy._ _Droll comic moments._  
@@ -3520,6 +3521,7 @@ __entryway__ _An entryway aquarium._
 __entwined__  
 __enunciation__  
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
+__enviable__  
 __environs__ _n pl_  
 __envisage__ _v_  
 __envision__ _v_ :two::hammer:  
@@ -3579,7 +3581,7 @@ __evened__ _v_
 __evening star__ _The evening star was out and the moon rising._  
 __ever since__ :dart::two::hammer: _I've been a fan ever since._  
 __evergreen__ _adj_  
-__every cloud has a silver lining__ _idiom_ :six: Be optimistic, even difficult times will lead to better days.  
+__every cloud has a silver lining__ _idiom_ :seven: Used to say that there is something good even in a situation that seems very sad or difficult.  
 __every man for himself__ :dart:  
 __every other week__ :two::hammer: _We don't win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
@@ -4427,6 +4429,7 @@ __get a kick out of__ _You'll get a kick out of this!_
 __get ahold__  
 __get along with__ _idiom_ To have a good relationship with someone.  
 __get away with__  
+__get closure__  
 __get enough__  
 __get looks__ _v_ :two::hammer:  
 __get me started__ _Don't get me started!_  
@@ -5544,7 +5547,7 @@ __infomercial__ _n_
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
-__ingrained__ _adj_ :three::hammer: _Speeding is deeply ingrained in American culture._  
+__ingrained__ _adj_ :four::hammer: _Speeding is deeply ingrained in American culture._  
 __ingratiate__ _v_ :three::hammer:  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
@@ -5639,7 +5642,7 @@ __it takes two to tango__ _idiom_
 __it's a dog's life__ :dart::astonished:  
 __it's one of those things__ _idiom_  
 __Ivy League__ :two::hammer: _Ivy League school._  
-__ivy__ :two::hammer: :es: hiedra  
+__ivy__ _n_ :three::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
@@ -7236,6 +7239,7 @@ __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickl
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open a can of worms__ To create a situation that will cause a lot of problems.  
 __open house__ :three::hammer: _Educational open house._  
+__open loop__  
 __open mike__ :two::hammer: _When are you going to do an open mike?_  
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
@@ -7644,6 +7648,7 @@ __perfidy__
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __peril__ _n_ :two::hammer: (perils)  
+__perinatal__  
 __periodontal__ _Periodontal health._  
 __peripheral__  
 __peristaltic__ _adj_  
@@ -7771,6 +7776,7 @@ __pine (for)__ _v_
 __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only in movies that people pined for the dead._  
 __ping__ _v_ _Pinging with heat._  
 __pinion__ _v_ :two::hammer: (pinioned)  
+__pink collar__ _Pink collar jobs._  
 __pink elephants__ _idiom_ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
 __pink eye__ _n_ :two::hammer:  
 __pink slime__  
@@ -7845,8 +7851,8 @@ __plano__ _Plano sunglasses._
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
 __planter__ _My sidewalk planter._  
 __plashed__ _v_  
-__plaster__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
-__plasters__ _n_ _Salves, poultices, and plasters._  
+__plaster<sup>1</sup>__ _n_ (band-aid?) :two::hammer:(plasters) _Salves, poultices, and plasters._  
+__plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plate__ _Baseball_  
 __plateau__  
 __plating__ _It's your armor plating._  
@@ -7987,6 +7993,7 @@ __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer gr
 __porpoises__ _n_  
 __porridge__  
 __porringer__  
+__porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
 __portable building__ :es: barracones?  
 __portal__  
 __portend__ _v_ :six::hammer: (portended) _...may portend a disruption._  
@@ -9358,6 +9365,7 @@ __shack__ :two::hammer:
 __shackle__ _n_  
 __shackles__ _n_ :two::hammer: _A bed with built-in shackles._  
 __shades__ :es: gafas?  
+__shadow__ _v_  
 __shady__  
 __shag__ _Orange shag carpeting._  
 __shaggy hemp__  
@@ -10882,6 +10890,7 @@ __the big three-oh__
 __the Chinese__ _This article was translated from the Chinese._  
 __the day's full of spiders__  
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
+__the final straw__  
 __the haves and the have nots__  
 __the name of the game__  
 __the order of the day__  
@@ -11792,6 +11801,7 @@ __wane__ _v_ :four::hammer: (waning) _The waning hours._
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton<sup>1</sup>__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
+__war stories__  
 __warble__ _v_ :three::hammer:  
 __warblers__  
 __ward off__ _phr v_ To prevent.  
@@ -12205,7 +12215,7 @@ __yesteryear__ :two::hammer:
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  
-__yield<sup>1</sup>__ _v_ :two::hammer: _Failing to yield to pedestrians._  
+__yield<sup>1</sup>__ _v_ :three::hammer: _Failing to yield to pedestrians._  
 __yield<sup>2</sup>__ _n_  
 __yikes__ _interj_ :two: An exclamation of surprise or alarm.  
 __yin and yang__  
