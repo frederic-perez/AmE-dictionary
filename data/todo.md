@@ -1,4 +1,13 @@
 
+__attend to__ _phr v_ To deal with something or someone.  
+__homebody__ A person who prefers staying at home.  
+__hearsay__ _n_ Something heard from another person, rumor.  
+__pull your socks up__ _idiom_ To improve your work or behaviour.  
+__bail out__ _phr v_ To pay for someone’s release from jail.  
+__hunky-dory__ _adj_ _slang_ Fine, going well.  
+__save your breath__ _idiom_ Stop useless talk.  
+__bank on__ _phr v_ To rely on somebody or something.  
+
 __get-go__ _n informal_ The beginning; outset. _I've been your friend from the get-go._  
 __spotlight__ _v_  
 __macula__ _n_  
