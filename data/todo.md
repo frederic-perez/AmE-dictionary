@@ -1,4 +1,13 @@
 
+__get-go__ _n informal_ The beginning; outset. _I've been your friend from the get-go._  
+__spotlight__ _v_  
+__macula__ _n_  
+__head over heels__ _idiom_ __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ Completely; hopelessly: _head over heels in love._  
+__VTOL__ _n_ A vertical take-off and landing aircraft.  
+__without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
+__pardon__ _v_ _Pardon my ignorance._  
+__stranded__ _adj_  
+
 __in the dead of winter__ _idiom_ In the middle of the winter.  
 __in the doghouse__ _idiom_ In a situation in which someone is annoyed with you because of something you did.  
 __blowhard__ _n idiom_ A very boastful and talkative person.  
