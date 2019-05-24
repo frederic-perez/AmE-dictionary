@@ -94,6 +94,7 @@ __acreage__ :two::hammer:
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
+__act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ To behave badly or strangely.  
 __ACT__ A college entrance exam, competitor to the SAT.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
@@ -606,7 +607,7 @@ __bag out__ _v_ _Why'd you bag out on me?_
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
 __bail out__ :two::hammer:  
 __bail skip__  
-__bailiff__ :two::hammer:  
+__bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
 __bailiwick__  
 __bailout__ _n_ :four::hammer:  
 __bake in__ _v_  
@@ -1249,6 +1250,7 @@ __breathing room__
 __breech__ _n_ :four::hammer:  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n_ :three::hammer: _Political brethren._  
+__brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
 __briar__ :two::hammer:  
 __bric-a-brac stores__  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
@@ -1276,6 +1278,7 @@ __briskly__
 __bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
 __bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
+__Bristolian__  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you're a little too big for your britches._ _He got too big for his own britches._  
 __Britons__  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
@@ -1303,6 +1306,7 @@ __brook__ _v_
 __broth__  
 __brothers in arms__  
 __brouhaha__ _n_ :three::hammer:  
+__brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownout__ _n_ A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstones__ _n_  
@@ -1983,7 +1987,7 @@ __clenched__
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__  
-__clickbait__ _Clickbait headlines._  
+__clickbait__ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
 __climb__ :mute:[clim~~b~~]  
@@ -2035,7 +2039,7 @@ __clutch<sup>1</sup>__ _n_ :three::hammer: _The clutches of the Brussels bureauc
 __clutch<sup>2</sup>__ _v_ :five::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
 __CO__ Carbon monoxide, "the silent killer."  
-__co-op__ _n_ :nine: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
+__co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
 __co-opted__ _v_  
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
@@ -2691,6 +2695,7 @@ __dead horse__ _n_ Something that has ceased to be useful or relevant.
 __dead on__  
 __dead ringer__ An exact duplicate.  
 __dead set against something__ _idiom_ To be completely against something.  
+__dead__ _Dead batteries._  
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
@@ -3510,7 +3515,7 @@ __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate:
 __enthuse__ _v_ :eight::hammer: (enthused, enthusing) _It has enthused fans._  
 __enthusiasm__  
 __enticing__  
-__entitle__ _v_ :three::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._  
+__entitle__ _v_ :four::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you're no longer entitled to on the NHS._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ :two::hammer: :es: séquito  
 __entrant__ :astonished:  
@@ -3706,7 +3711,7 @@ __fallible__
 __falloff__  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
-__fallow__  
+__fallow__ :two::hammer:  
 __false friend__  
 __falter__ _v_  
 __faltered__ _v_  
@@ -3896,7 +3901,7 @@ __firehouse__ _n_ :two::hammer:
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __first and foremost__  
 __firstborn__  
-__firsthand__  
+__firsthand__ _n_ :two::hammer:  
 __fissile__ _Fissile material._  
 __fist-pumper__  
 __fists bumping__  
@@ -5561,6 +5566,7 @@ __inland__
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
 __innards__ _v_ _The pictures adorn the innards of each chapter._  
+__innate__  
 __innumerate__  
 __inobvious__  
 __inordinate__ _adj_ :three::hammer:  
@@ -6284,7 +6290,7 @@ __loony__
 __loophole__ :es: escapatoria  
 __loopy__ :two::hammer: _A loopy smile._ _Trump is everybody's loopy uncle, constantly repeating misinformation._  
 __loose cannon__ :two::hammer:  
-__loose ends__  
+__loose ends__ :two::hammer:  
 __loose strands__  
 __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
@@ -6315,7 +6321,7 @@ __low key__ :two::hammer:
 __low-key__  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
-__lowdown__ _n_ _Slang_ :three: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._  
+__lowdown__ _n_ _Slang_ :four: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__  
@@ -8072,6 +8078,7 @@ __premier__ _adj_
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
 __premortem__  
 __prenup__ _n_ _informal_ :two: A prenuptial agreement.  
+__preoccupation__  
 __prep schools__  
 __Prep__  
 __prep__ (prepping) _I was prepping for the show._  
@@ -9023,6 +9030,7 @@ __saddle__ _A saddle of meat._
 __sadism__ _n_  
 __sadistic__ _adj_  
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
+__safe house__  
 __safe word__ _Do you have a safe word?_  
 __safeguard__  
 __safekeeping__  
@@ -9304,6 +9312,7 @@ __selfless__
 __selfsame__  
 __sell out__  
 __sell short__  
+__sell-offs__  
 __sellout__ (sold out)  
 __sellouts__ _There have been no sellouts._  
 __sellsworth__ _n_  
@@ -9498,7 +9507,7 @@ __short__ _He typically wears shorts to work._
 __short-charge__  
 __short-handed__ _adj_ :four::hammer: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__  
-__shortchanged__ _v_ :three::hammer: (shortchanged) _I think people will be shortchanged._  
+__shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcomings__ _n_  
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
@@ -10797,7 +10806,7 @@ __tautened__
 __tautly__  
 __tawdry__ _adj_ :two: Poor, cheap quality.  
 __tawny__ _n_ :two: A light brown to brownish orange.  
-__tax breaks__ _n_  
+__tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
 __taxa__  
 __taxpayer__ _n_  
@@ -11077,6 +11086,7 @@ __to that effect__
 __to that end__ :two::hammer: (to that end,)  
 __to this day__ _idiom_ :three::hammer: _I don't know if they still do it to this day._  
 __To this day,__  
+__to-do list__  
 __toad bag__ _n_  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toast > French toast__  

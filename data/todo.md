@@ -1,26 +1,4 @@
 
-__preoccupation__  
-__innate__  
-__dead__ _Dead batteries._  
-__to-do list__  
-__shortchange__ _v_ (?)  
-__fallow__  
-__loose ends__  
-
-__entitled__ _Treatments you're no longer entitled to on the NHS._  
-__firsthand__ _n_  
-__co-op__  
-__tax break__  
-__clickbait__ _Clickbait journalism._  
-__bailiffs__  
-__Bristolian__  
-__sell-offs__  
-__lowdown__ _Here's the lowdown of what you can't afford to miss._  
-__safe house__  
-
-__brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
-__act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
-__brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
 __in the dead of winter__ _idiom_ In the middle of the winter.  
 __in the doghouse__ _idiom_ In a situation in which someone is annoyed with you because of something you did.  
 __blowhard__ _n idiom_ A very boastful and talkative person.  
