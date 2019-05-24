@@ -1,4 +1,13 @@
 
+__Rx__  _n_ (Symbol for) a prescription for medicine or a medical appliance.  
+__bells and whistles__ _pl n_ Nonessential features or enhancements intended especially to add commercial appeal.  
+__Hershey, PA__ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey's chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called "Chocolatetown, USA." Hershey is also referred to as "The Sweetest Place on Earth."  
+__slick__ _adj_  
+__bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
+__steadfast__ _adj_ :dart:  
+__kicks__ _n_ Pleasures, thrills.  
+__eyeball<sup>1</sup>__ _n_  
+__eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
 __attend to__ _phr v_ To deal with something or someone.  
 __homebody__ A person who prefers staying at home.  
 __hearsay__ _n_ Something heard from another person, rumor.  
