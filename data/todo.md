@@ -1,4 +1,19 @@
 
+__grassroots__  
+__postcode lottery__ _n_ :two::hammer:  
+__allowance__ _n_  
+__cater__ _v_  
+__scruffy__  
+__signposting__  
+__hijab__  
+__rife__  
+__ethos__ _n_  
+__groundswell__  
+__polystyrene__  
+__takeaways__ _n_  
+__reliance__  
+__apathetic__  
+
 __item__ _slang_ A couple, two people who are romantically involved.  
 __hustler__ _slang_ A person, usually male, who has sex for money.  
 __when the chips are down__ _idiom_ When a situation gets very difficult.  
