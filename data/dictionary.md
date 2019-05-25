@@ -364,8 +364,7 @@ __applesauce__
 __apportion__ _v_  
 __apportioned__ _v_  
 __appraisal__ _n_ :seven: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
-__appraise__ _v_  
-__appraised__ _The home was appraised in 2007._  
+__appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
 __appreciate__ _I appreciate it._  
 __apprehend__ _v_  
