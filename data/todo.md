@@ -1,4 +1,15 @@
 
+__item__ _slang_ A couple, two people who are romantically involved.  
+__hustler__ _slang_ A person, usually male, who has sex for money.  
+__when the chips are down__ _idiom_ When a situation gets very difficult.  
+__ice__ _slang_ Expensive jewellery, especially diamonds.  
+__vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
+__filthy__ Very dirty.  
+__hilarious__ Very funny.  
+__wring__ _v_  
+__under the weather__ _idiom_ To feel ill.  
+__beef up__ _phr v_ To make or become greater or stronger.  
+
 __by trade__ _idiom_ By professional training, experience, and/or expertise. _I want to be a writer by trade._  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor's explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __minor__ _n_ A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
