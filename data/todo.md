@@ -1,4 +1,14 @@
 
+__ensue__ _v_  
+__surmise__ _v_  
+__put up with__  
+__ad infinitum__  
+__go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
+__leverage__ _v_  
+__fanaticism__ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
+__allocation__  
+__cash flow__  
+
 __grassroots__  
 __postcode lottery__ _n_ :two::hammer:  
 __allowance__ _n_  
