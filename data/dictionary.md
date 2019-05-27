@@ -102,7 +102,7 @@ __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics 
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
-__ad infinitum__ :two::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
+__finitum__ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad__ _n informal_ Advertisement.  
 __ad-lib__ _v_ :three::hammer: (ad-libs)  
 __Ada__ :mega: /ā′də/  
@@ -235,10 +235,10 @@ __alleged__
 __allegedly__  
 __allergens__  
 __allies__ _n_  
-__allocation__ _Allocation of resources._  
+__allocation__ :two::hammer: _Allocation of resources._  
 __allotment__ :two::hammer:  
 __allotted__  
-__allowance__  
+__allowance__ _n_ :two::hammer:  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
 __almost surel__ _Apple almost surely will succeed in upgrading its security._  
@@ -1657,6 +1657,7 @@ __case in point__ _n_ :six::hammer: An example that is used to justify similar o
 __case the joint__  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
+__cash flow__  
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashmere__  
@@ -1701,7 +1702,7 @@ __catch-up schedule__
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
 __catechism__ :two::hammer::pencil2:  
-__cater__ _v_ :two::hammer:  
+__cater__ _v_ :three::hammer:  
 __caterwauling__  
 __catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
@@ -3505,7 +3506,7 @@ __ensemble<sup>1</sup>__ _n_ :two::hammer:
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
 __enshrined__  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
-__ensue__ _v_ :five::hammer: (ensued, ensuing) _Complications ensue._  
+__ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
@@ -3720,6 +3721,7 @@ __familiar__ _No, I'm not familiar._
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _It could be feasst or famine._  
 __famished__ _adj_ :two: Very hungry.  
+__fanaticism__ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
 __fanciful__  
@@ -4553,6 +4555,7 @@ __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You'
 __go through the roof__  
 __go to the dogs__  
 __go to the wire__  
+__go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-ahead goal__  
 __go-for-broke__  
 __go-pills__ _n_  
@@ -4634,6 +4637,7 @@ __grapple<sup>2</sup>__ _n_ _A thin cord hooked to a grapple._
 __grapplings__ _n_  
 __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
 __grass-routs__ _?_ _Grass-routs campaign._  
+__grassroots__  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :two::hammer: (grates) :camera: _Cast iron grates._  
 __grate<sup>2</sup>__ _v_ :four: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
@@ -4726,7 +4730,7 @@ __Groundhog Day__
 __groundnut__ _n_  
 __groundskeeper__  
 __groundstroke__ _n_  
-__groundswell__ _n_ :four::hammer:  
+__groundswell__ _n_ :five::hammer:  
 __groundwater__  
 __groundwork__  
 __groupies__ _n_  
@@ -5118,8 +5122,7 @@ __high-tail__ _v_
 __highballs__ _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_  
 __highly__ _I highly recommend it._  
-__hijab__ _n_ :camera:  
-__hijabs__  
+__hijab__ _n_ :three::camera::hammer: (hijabs)  
 __hijinks__ :two::hammer: _Adolescent hijinks._  
 __hike__ _n_ :two::hammer: (surge?)  
 __hike<sup>1</sup>__ _n_ :two::hammer: _A hike in base wages._  
@@ -6133,7 +6136,7 @@ __letter__ _v_ _I'm currently lettering the forthcoming comic book._
 __levee__  
 __leveled__ :two::hammer:  
 __leverage<sup>1</sup>__ _n_ _To exert leverage._  
-__leverage<sup>2</sup>__ _v_ :two::hammer:  
+__leverage<sup>2</sup>__ _v_ :three::hammer:  
 __leviathan__  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
@@ -7964,6 +7967,7 @@ __pols__ _n_
 __poltergeist__ :mega:  
 __polyadic__  
 __polymath__ _n_ :three::hammer:  
+__polystyrene__  
 __pomegranates__ _n_  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __pompous__  
@@ -8014,6 +8018,7 @@ __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well.
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
 __post hoc__  
+__postcode lottery__ _n_ :two::hammer:  
 __poster boy__ :two::hammer:  
 __poster child__ _n_ :three::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
@@ -8314,7 +8319,7 @@ __put on the back burner__ _It has put the needs of farmers on the back burner i
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put to the test__  
-__put up with__ _v_ :three::hammer: _We're not going to put up with this anymore._ _People put up with it._  
+__put up with__ _v_ :four::hammer: _We're not going to put up with this anymore._ _People put up with it._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -9226,7 +9231,7 @@ __scrounge up__ _To scrounge up the funds._
 __scrub brush__  
 __scrub__ _v_ :two::hammer:  
 __scrubbers__ _n_  
-__scruffy__ _adj_ :eight::camera: (scruffier) Shabby and untidy.  
+__scruffy__ _adj_ :nine::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrummy__ _adj_ Very delicious.  
 __scrumptious__  
@@ -9614,6 +9619,7 @@ __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._
 __signet ring__  
 __significant other__  
 __signify__ _v_  
+__signposting__  
 __siitting duck__  
 __Sikh__  
 __sill__ :two::hammer:  
@@ -10593,8 +10599,7 @@ __surge<sup>1</sup>__ _v_ :three::hammer:
 __surge<sup>2</sup>__ _n_  
 __surliness__  
 __surly__ _adj_ :five: Unfriendly and rude. _A waiter with a surly attitude._  
-__surmise__  
-__surmised__ _v_ :two::hammer:  
+__surmise__ _v_ :three::hammer: (surmised)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surname__ :two::mega::hammer:  
 __surplice__ _n_  
