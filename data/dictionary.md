@@ -102,7 +102,6 @@ __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics 
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
-__finitum__ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad__ _n informal_ Advertisement.  
 __ad-lib__ _v_ :three::hammer: (ad-libs)  
 __Ada__ :mega: /ā′də/  
@@ -333,7 +332,7 @@ __anything goes__ :two::hammer:
 __apace__ _Concussion concerns continue apace._  
 __apalled__ _adj_ :three: Shocked or dismayedfilled with horror.  
 __Apart from that,__  
-__apathetic__ _adj_ :two::hammer:  
+__apathetic__ _adj_ :three::hammer:  
 __ape__ _v_  
 __aphorism__ :two::hammer:  
 __aping__  
@@ -762,7 +761,7 @@ __bedspreads__ _n_
 __bedstead__  
 __bee eater__ _n_ :es: abejaruco  
 __beech__ _n_ :two::hammer:  
-__beef up__ _v_ :six: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
+__beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
 __beefy__ _adj_ :two: __1__ Of or like beef. __2__ Brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :three: Utah.  
@@ -1480,7 +1479,7 @@ __By many accounts,__ _By many accounts, Americans are tired of the Democratic a
 __by storm__  
 __by the book__  
 __by the same token__  
-__by trade__ _I'm an engineer by trade._  
+__by trade__ _idiom_ :two: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I'm an engineer by trade._  
 __by-the-numbers__ _The boxing sequences are by-the-numbers._  
 __bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
 __bygone__  
@@ -1987,6 +1986,7 @@ __clenched__
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__  
+__click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor's explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __clickbait__ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
@@ -2203,7 +2203,7 @@ __condominium__ _First-floor condominium._
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :three::hammer: _The vehicle doesn't seem conducive to passing._  
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
-__conduit__ _n_ :four::hammer:  
+__conduit__ _n_ :five::hammer:  
 __coneys__  
 __confection__  
 __confederacy__  
@@ -3874,6 +3874,7 @@ __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._
 __fillip__ :two::hammer:  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film maker__ _n_ ?  
+__filthy__ Very dirty.  
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
@@ -3888,6 +3889,7 @@ __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to dia
 __finger-waggers__  
 __finicky__ _adj_ :three:hammer:  
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
+__finitum__ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __fink__ _Family man to some, fink to others._  
 __fintech__  
 __fir__ :two::hammer:  
@@ -5127,6 +5129,7 @@ __hijinks__ :two::hammer: _Adolescent hijinks._
 __hike__ _n_ :two::hammer: (surge?)  
 __hike<sup>1</sup>__ _n_ :two::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
+__hilarious__ Very funny.  
 __hillbilly__ :two::hammer:  
 __hillocks__  
 __hillside__ _n_  
@@ -5351,6 +5354,7 @@ __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hustle__ _v_ :two::mute:[hus~~t~~le]:hammer:  
+__hustler__ _slang_ A person, usually male, who has sex for money.  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
 __hyacinth__ :pencil2:  
@@ -5373,6 +5377,7 @@ __i18n__ _n_ Abbreviation of internationalization (a representation of internati
 __ice cream cone__  
 __ice house__ _Insulated ice houses._  
 __ice pick__ _n_ :two::hammer:  
+__ice__ _slang_ Expensive jewellery, especially diamonds.  
 __ice-slick chain__  
 __icicles__  
 __icing on the cake__ :two::hammer:  
@@ -5649,6 +5654,7 @@ __it so happens__
 __it takes two to tango__ _idiom_  
 __it's a dog's life__ :dart::astonished:  
 __it's one of those things__ _idiom_  
+__item__ _slang_ A couple, two people who are romantically involved.  
 __Ivy League__ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :three::hammer: :es: hiedra  
 __J-strokes__  
@@ -6669,7 +6675,7 @@ __mindset__ _n_
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
-__minor__ _n_  
+__minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
 __minstrel__ :two::hammer:  
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
@@ -8313,6 +8319,7 @@ __pushpins__
 __pushy sales__  
 __pushy__ _I guess I was a little pushy._  
 __pustules__ _n_  
+__put (one's) foot in (one's) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put it on the money__  
 __put on a clinic__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
@@ -8445,7 +8452,6 @@ __raise eyebrows__
 __raked over the coals__  
 __raking__ _v_  
 __rakish__ :two::hammer:  
-__rally__ (stock market)  
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
 __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings." (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahoma State rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
@@ -8670,6 +8676,7 @@ __relegation__ _Sports_
 __relent__ _v_ :three::hammer: (relented)  
 __relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _Must have reliable transportation._  
+__reliance__  
 __reliant__ :two::hammer:  
 __relic__ _n_  
 __relief teams__  
@@ -10730,6 +10737,7 @@ __take one's cut__ _He was finished taking his cuts in batting practice._
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
 __take wing__ _Then again, my thoughts took wing._  
+__takeaways__ _n_  
 __takeout containers__  
 __takeout__ _Maybe you have Chinese takeout the night before Thanksgiving._  
 __taking roll__ _The teacher spent 10 min of class taking roll._  
@@ -11453,6 +11461,7 @@ __under (someone's) watch__
 __under one's belt__  
 __under siege__  
 __under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
+__under the weather__ _idiom_ To feel ill.  
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
@@ -11643,6 +11652,7 @@ __vandalize__ _v_
 __vandals__  
 __vane__ _n_ :four::hammer: _A smooth metal weather vane._ _A weather vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
+__vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
@@ -11939,6 +11949,7 @@ __wheelie__
 __wheelwright__ _n_  
 __wheeze__ _v_ :two::hammer: (wheezing) _Wheezing economy._  
 __whelp__  
+__when the chips are down__ _idiom_ When a situation gets very difficult.  
 __whence__  
 __whereabouts__  
 __whereas__  
@@ -12150,7 +12161,7 @@ __wow__ _v_ :two::hammer:
 __wracking__ _v_  
 __wraith__  
 __wrangle__ _v_ :two::hammer: (wrangling)  
-__wrap (one's) head around it__ _idiom_ :three::hammer: _I'm trying to wrap my head around it._  
+__wrap (one's) head around it__ _idiom_ :five: To comprehend something that one considers challenging, confusing, or a foreign concept. _I'm trying to wrap my head around it._  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
 __wrap__ :mute:[~~w~~rap]  
 __wraparound season__  
@@ -12173,6 +12184,7 @@ __wrethes__
 __wriggle__  
 __wriggling__  
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
+__wring__ _v_  
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
 __wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
 __wrinkle__ _v_ :four::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling)  
