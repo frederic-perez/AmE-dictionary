@@ -1,25 +1,4 @@
 
-__try on__ :mega:  
-__heads up__ _n_  
-__misdirection__  
-__façade__ _n_  
-__layman__ _n_  
-__culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
-__slip up<sup>1</sup>__ _v_  
-__slip up<sup>2</sup>__ _n_  
-__cross-examination__ _n_  
-__jury box__ _n_ An enclosure where the jury sit in court.  
-__stymie__ _v_ (stymied)  
-__fly in the ointment__ _idiom_ Something that spoils or hinders a proceeding, especially when not anticipated.  
-__short of (something)__ _Anything short of that._  
-__breed__ _v_ _It can breed suspicion._  
-__when the chips are down__ _idiom_ When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
-__slavishly__  
-
-__Rx__  _n_ (Symbol for) a prescription for medicine or a medical appliance.  
-__bells and whistles__ _pl n_ Nonessential features or enhancements intended especially to add commercial appeal.  
-__Hershey, PA__ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey's chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called "Chocolatetown, USA." Hershey is also referred to as "The Sweetest Place on Earth."  
-__slick__ _adj_  
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
 __steadfast__ _adj_ :dart:  
 __kicks__ _n_ Pleasures, thrills.  

@@ -823,7 +823,7 @@ __bellow__
 __bellowed__ _v_ :two::hammer:  
 __bellowing__ _n_  
 __bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._  
-__bells and whistles__ _pl n_ :three: Additional features or accessories which are nonessential but very attractive.  
+__bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
 __belly flop__ _n informal_ :dart::two: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
@@ -1246,6 +1246,7 @@ __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual
 __breather__ _n_ :three::hammer:  
 __breathing room__  
 __breech__ _n_ :four::hammer:  
+__breed__ _v_ _It can breed suspicion._  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n_ :three::hammer: _Political brethren._  
 __brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
@@ -2500,6 +2501,7 @@ __cross that bridge when one comes to it__ _idiom_ :two: To delay dealing with a
 __cross word__ _No one heard her say a cross word about anyone else._  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
 __cross__ _v_ _They paled and crossed themselves._  
+__cross-examination__ _n_  
 __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
 __crossbar__ _n_  
 __crossbeam__ _n_  
@@ -2561,6 +2563,7 @@ __cuffed__ _v_
 __cul-de-sac__  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
+__culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
 __cult__ _n_ :two::hammer:  
@@ -3675,7 +3678,7 @@ __fabric softener__
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
 __fabricate__ _v_ _Fabricated stories._  
 __fabricator__  
-__façade__ _n_  
+__façade__ _n_ :two::hammer:  
 __face off__ _v_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__  
@@ -4064,7 +4067,7 @@ __flutter<sup>1</sup>__ _v_ :seven: (fluttered, flutters, fluttering) __1__ To w
 __flutter<sup>2</sup>__ _n_  
 __fluttering__ _n_  
 __fly high__  
-__fly in the ointment__ _idiom_ :two: A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
+__fly in the ointment__ _idiom_ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ _idiom_ To lose self control, to get very angry.  
 __fly on the wall__  
 __fly-by-night__  
@@ -5002,7 +5005,7 @@ __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._
 __headdress__ _n_ :two::hammer: _The pharaoh's headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
-__heads up__ _n_ :two: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
+__heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
 __headshot__ _n_ :dart:  
 __headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_  
@@ -5095,6 +5098,7 @@ __heroics__ _DH David Ortiz will be remembered for his postseason heroics._
 __heron__ _n_ :three::hammer: (herons)  
 __herring__ _n_ :two::hammer:  
 __herringbone__ _Basketball shoes with herringbone designs._  
+__Hershey, PA__ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey's chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called "Chocolatetown, USA." Hershey is also referred to as "The Sweetest Place on Earth."  
 __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key set__ _Allen key set?_  
 __hex-breaking__ _Looking for a hex-breaking sign._  
@@ -5801,6 +5805,7 @@ __junk<sup>2</sup>__ _v_ _Google is junking the app Google+._
 __junker__  
 __junket__ _n_ _informal_ :two: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
 __junta__ _n_ :three::hammer:  
+__jury box__ _n_ An enclosure where the jury sit in court.  
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __jut out__ _The head juts out of the wall._  
@@ -6057,6 +6062,7 @@ __lax__ _adj_ :two::hammer: (not LAX)
 __lay the table__  
 __lay__ _Lay reader._  
 __layman > in layman terms__  
+__layman__ _n_  
 __layoff__  
 __layover__ _n_ :dart::two: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_  
@@ -6696,7 +6702,7 @@ __misconduct__
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ :two::hammer:  
-__misdirection__ :two::hammer:  
+__misdirection__ _n_ :three::hammer:  
 __miser__ _n_ :two::hammer: :es: avaro  
 __miserable__ _We are miserable._  
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
@@ -9027,6 +9033,7 @@ __RV pads__
 __RV__  
 __RVR__ _Write me up with an RVR._  
 __Rx lab__  
+__Rx__ _n_ (Symbol for) a prescription for medicine or a medical appliance.  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. :es: centeno __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __S'mores__ _S'mores season!_  
 __s/s__ Stainless steel. _s/s appliances._  
@@ -9514,6 +9521,7 @@ __shore up__ _v_ :nine: (shoring up) Support by placing against something solid 
 __shorn__ _adj_ :four: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short fuse__  
 __short hand__  
+__short of (something)__ _Anything short of that._  
 __short__ _He typically wears shorts to work._  
 __short-charge__  
 __short-handed__ _adj_ :four::hammer: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
@@ -9742,7 +9750,7 @@ __slatted__ _v_ :two::hammer: _Slatted sunlight._
 __slatternly__  
 __slaughter__ :mute:[slau~~gh~~ter]  
 __slave driver__ _n_ A person who makes other people work very hard.  
-__slavishly__ _Following instructions slavishly._  
+__slavishly__ :two::hammer: _Following instructions slavishly._  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __slayer__  
 __sleaziest__  
@@ -9765,7 +9773,7 @@ __slice and dice__ :dart:
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
-__slick<sup>3</sup>__ _adj_ :nine: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._  
+__slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._  
 __slid__ _v_ :two::hammer:  
 __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slide<sup>2</sup>__ _v_  
@@ -9780,6 +9788,8 @@ __sliminess__
 __sling__ _n_ :three::hammer: _The sling for his dislocated shoulder._  
 __slinger__  
 __slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
+__slip up<sup>1</sup>__ _v_  
+__slip up<sup>2</sup>__ _n_  
 __slip<sup>1</sup>__ _n_ :two::hammer: _A pink slip._ _A slip of paper._  
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__ _n_ :two::hammer:  
@@ -11334,7 +11344,7 @@ __trust company__
 __trustees__ :two::hammer: _Board of Trustees_  
 __trusties__  
 __truthiness__ _n informal_  
-__try on__ _phr v_ :three: To put clothes or shoes on to see if they fit.  
+__try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __tryouts__ :two::hammer:  
 __tryst__  
 __tsuifuku__  
@@ -11949,7 +11959,7 @@ __wheelie__
 __wheelwright__ _n_  
 __wheeze__ _v_ :two::hammer: (wheezing) _Wheezing economy._  
 __whelp__  
-__when the chips are down__ _idiom_ When a situation gets very difficult.  
+__when the chips are down__ _idiom_ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
 __whence__  
 __whereabouts__  
 __whereas__  
