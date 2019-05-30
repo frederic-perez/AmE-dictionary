@@ -1,25 +1,4 @@
 
-__discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _syn_ dismissed, fired, laid-off, pink-slipped  
-__navigate__ _v_  
-__screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _"he heard the screen slam as she left."_  
-__lampoon<sup>1</sup>__ _n_  
-__lampoon<sup>2</sup>__ _v_  
-__elicit__ _v_  
-__ice pick__ _n_ A pointed awl for chipping or breaking ice.  
-__enmity__  
-__painstaking__ _adj_  
-__painstakingly__ _adv_  
-__malfunction__  
-__penal__ :mega:  
-__penal code__ :mega:  
-__deleterious__ _adj_  
-__angst__  
-__open a can of worms__  
-__holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.  
-__go a long way__  
-__tailor__ _v_  
-__differ__ _v_ :mega:  
-
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
 __steadfast__ _adj_ :dart:  
 __kicks__ _n_ Pleasures, thrills.  

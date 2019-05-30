@@ -2787,7 +2787,7 @@ __deking__
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ _adj_ :three::hammer:  
 __delegatable__ _Non-delegatable actions._  
-__deleterious__ _adj_ :three::hammer:  
+__deleterious__ _adj_ :four::hammer:  
 __deli__  
 __delight__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
@@ -2894,7 +2894,7 @@ __die-hard__ Person who resists change.
 __die-off__ _n_  
 __diecast__  
 __diehard__  
-__differ__ _v_ :mega:  
+__differ__ _v_ :two::mega::hammer:  
 __diffident__  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digit__ (finger?)  
@@ -2951,6 +2951,7 @@ __disavow__ _v_ :two::hammer: (disavowed)
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
 __discharge__ _v_ :nine::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
+__discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_  
 __discombobulate__ _v_ :pencil2:  
@@ -3423,7 +3424,7 @@ __elevator control box__
 __elevator operator__ :camera:  
 __elevators__ (airplane)  
 __ELIA5__ Explain Like I Am 5.  
-__elicit__ _v_ :five::hammer: (elicited)  
+__elicit__ _v_ :six::hammer: (elicited)  
 __elide__ _v_  
 __eligibility__  
 __elision__  
@@ -3498,7 +3499,7 @@ __engross__ _v_ :two::hammer::dart: (engrossed)
 __engulf__ _v_  
 __enjambments__  
 __enlivened__  
-__enmity__ _n_ :six::hammer:  
+__enmity__ _n_ :seven::hammer:  
 __ennui__ _n_ :two::hammer:  
 __enormous__ :mega:  
 __enquiry__  
@@ -4544,7 +4545,7 @@ __gnat__ _n_ :three::hammer: (insect?)
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __gnome__ :mute:[~~g~~nome]  
 __gnu__ :mute:[~~g~~nu]  
-__go a long way__ :dart::two::hammer: _Go a long way toward minimizing damage._  
+__go a long way__ :dart::three::hammer: _Go a long way toward minimizing damage._  
 __go apeshit__  
 __go awry__ :two::hammer:  
 __go back to square one__ _idiom_ To start from the beginning.  
@@ -5217,6 +5218,7 @@ __holler__
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __Holy Ghost__  
+__holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.  
 __Holy Rood__  
 __Holy See__  
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
@@ -5380,7 +5382,7 @@ __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __ice cream cone__  
 __ice house__ _Insulated ice houses._  
-__ice pick__ _n_ :two::hammer:  
+__ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
 __ice__ _slang_ Expensive jewellery, especially diamonds.  
 __ice-slick chain__  
 __icicles__  
@@ -5986,7 +5988,8 @@ __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::hammer: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
-__lampooned__  
+__lampoon<sup>1</sup>__ _n_  
+__lampoon<sup>2</sup>__ _v_ :two::hammer: (lampooned)  
 __lance__ _v_ :astonished:  
 __lanced__ _v_  
 __lancet__ _n_  
@@ -6438,6 +6441,7 @@ __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic ma
 __malarkey__ _n_ :dart::four::mega::hammer:  
 __malevolent__  
 __malfeasance__ :two::hammer:  
+__malfunction__  
 __malign__ :mute:[mali~~g~~n]  
 __maligned__  
 __malingerer__ _n_  
@@ -6964,6 +6968,7 @@ __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A natura
 __naught__  
 __naughty__ :mute:[nau~~gh~~ty]  
 __navel__ :two::hammer:  
+__navigate__ _v_  
 __naysayer__ _n_  
 __NB__  
 __NCO__  
@@ -7257,7 +7262,7 @@ __oompah__ :two::hammer: _The house oompah band._
 __oomph__ :two::hammer:  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
-__open a can of worms__ To create a situation that will cause a lot of problems.  
+__open a can of worms__ _idiom_ :two: To create a situation that will cause a lot of problems.  
 __open house__ :three::hammer: _Educational open house._  
 __open loop__  
 __open mike__ :two::hammer: _When are you going to do an open mike?_  
@@ -7436,8 +7441,8 @@ __page__ _n_
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pail__ _n_ :three::hammer: _A lunch pail._  
-__painstaking__ _Painstaking patience._  
-__painstakingly__  
+__painstaking__ _adj_ :two::hammer: _Painstaking patience._  
+__painstakingly__ _adv_ :two::hammer:  
 __paint the town red__ _idiom_ Have a good time.  
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
@@ -7629,6 +7634,8 @@ __pelt<sup>2</sup>__ _v_ :five::hammer: (pelted, pelting) _Inmates pelting him w
 __pen name__  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
+__penal code__ :mega:  
+__penal__ :mega:  
 __pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb "pencher") A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
@@ -9231,6 +9238,7 @@ __scream-o-meter__
 __screaming yellow__  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
 __screech<sup>2</sup>__ _v_ :seven::hammer: (screeched, screeching)  
+__screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _"he heard the screen slam as she left."_  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
@@ -10734,7 +10742,7 @@ __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ :two::hammer: _Our big tagline is to help others._  
 __tailgate__ _v_ :two::hammer:  
-__tailor__ _v_ :two::hammer: (tailored)  
+__tailor__ _v_ :three::hammer: (tailored)  
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __take a piss__ _idiom_ Urinate.  
