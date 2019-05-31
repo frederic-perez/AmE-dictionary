@@ -1,4 +1,16 @@
 
+__single__ _n_ A one-dollar bill.  
+__sassy__ _adj_ Improperly forward or bold. Sassy comes from _saucy_, as in: bold, spicy, and impertinent.  
+__lingerie__ _n_ :mega:  
+__dimple<sup>1</sup>__ _n_ (dimples) :camera: __1__ A small natural indentation in the flesh on a part of the human body, especially in the cheek or on the chin. :es: hoyuelo __2__ A slight depression or indentation in a surface. _An average golf ball has 336 dimples._  
+__provoke__ _v_  
+__dimple<sup>2</sup>__ _v_ To mark with or as if with dimples; produce dimples in: _a smile dimpled her face._  
+__remarkable__  
+__denigrate__ _v_  
+__slingshot__ _n_ A Y-shaped stick or frame having an elastic strap attached to the prongs, used for flinging small projectiles. :es: tirachinas  
+__presbyope__ _n_  
+__presbyopia__ _n_ A reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45.  
+__toll__ _v_ __1__ To sound (a large bell) slowly at regular intervals. _The bells are tolling._ __2__ To announce or summon by tolling.  
 __stranded__ _adj_  
 
 __in the dead of winter__ _idiom_ In the middle of the winter.  
