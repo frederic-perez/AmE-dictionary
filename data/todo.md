@@ -1,4 +1,13 @@
 
+__pout__ _v_  
+__burping__ _v_  
+__lodged__ _Shard of glass are getting lodged in my thumb!_  
+__jack__ _slang_ To steal.  
+__wipe the slate clean__ _idiom_ To forget all past problems or mistakes and start something again.  
+__wolf in sheep's clothing__ _idiiom_ A dangerous person pretending to be harmless.  
+__fat chance__ It's used for empasizing that you think something is unlikely to happen. _Do you think I'll get a pay rise? Fat chance!_  
+__John Hancock__ Signature.  
+
 __ink__ _v_  
 __macula__ _n_  
 __grinder__ _n_  
