@@ -1,4 +1,15 @@
 
+__ink__ _v_  
+__macula__ _n_  
+__grinder__ _n_  
+__in tow__ _idiom_ _That's not easy task with toddlers in tow._  
+__it's a steal__ _idiom_ “It’s a steal” means you are buying something at a very good price or at a price that’s surprisingly low. _It's a steal of a deal._  
+__joist__ _n_ :two::hammer:  
+__dog pound__ _n_ :es: perrera  
+__cairn__ _n_  
+__super-duper__ _adj_ _informal_ Extremely pleasing, impressive, unusually large, good, fine, etc.; marvelous; colossal; often used as an exclamation.  
+__asbestosis__ _n_ A chronic, progressive lung disease caused by prolonged inhalation of asbestos fibers.  
+
 __single__ _n_ A one-dollar bill.  
 __sassy__ _adj_ Improperly forward or bold. Sassy comes from _saucy_, as in: bold, spicy, and impertinent.  
 __lingerie__ _n_ :mega:  
