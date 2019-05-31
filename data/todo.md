@@ -1,25 +1,4 @@
 
-__bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
-__steadfast__ _adj_ :dart:  
-__kicks__ _n_ Pleasures, thrills.  
-__eyeball<sup>1</sup>__ _n_  
-__eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
-__attend to__ _phr v_ To deal with something or someone.  
-__homebody__ A person who prefers staying at home.  
-__hearsay__ _n_ Something heard from another person, rumor.  
-__pull your socks up__ _idiom_ To improve your work or behaviour.  
-__bail out__ _phr v_ To pay for someone’s release from jail.  
-__hunky-dory__ _adj_ _slang_ Fine, going well.  
-__save your breath__ _idiom_ Stop useless talk.  
-__bank on__ _phr v_ To rely on somebody or something.  
-
-__get-go__ _n informal_ The beginning; outset. _I've been your friend from the get-go._  
-__spotlight__ _v_  
-__macula__ _n_  
-__head over heels__ _idiom_ __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ Completely; hopelessly: _head over heels in love._  
-__VTOL__ _n_ A vertical take-off and landing aircraft.  
-__without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
-__pardon__ _v_ _Pardon my ignorance._  
 __stranded__ _adj_  
 
 __in the dead of winter__ _idiom_ In the middle of the winter.  

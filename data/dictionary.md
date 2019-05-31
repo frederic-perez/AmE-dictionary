@@ -497,6 +497,7 @@ __Atta boy__
 __attack dog__ _n_  
 __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
+__attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_  
 __attest__ _v_ :two::hammer:  
@@ -603,7 +604,7 @@ __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconci
 __baffling__ _Baffling season._  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
-__bail out__ :two::hammer:  
+__bail out__ _phr v_ :three: To pay for someone’s release from jail.  
 __bail skip__  
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
 __bailiwick__  
@@ -647,6 +648,7 @@ __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-
 __banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
+__bank on__ _phr v_ To rely on somebody or something.  
 __bank__ _Fillon can beat Le Pen, but don't bank on it._  
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
@@ -817,6 +819,7 @@ __belie__ _v_ :seven: (belies, belied) __1__ (of an appearance) fail to give a t
 __belittle__ _v_ :four: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
 __bellboy__ _n_  
+__bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
 __bellow__  
@@ -3663,7 +3666,8 @@ __eye patch__
 __eye raiser__  
 __eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
 __eye-socket__ :es: órbita del ojo  
-__eyeball__  
+__eyeball<sup>1</sup>__ _n_ :two:  
+__eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
 __eyed__ _v_ :two::hammer: _Pay hikes eyed nonregular workers._  
 __eyedrop__ _A natural lubricating eyedrop._  
 __eyeglasses__ _n_  
@@ -4459,7 +4463,7 @@ __get the middle finger__
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get your ducks in a row__ _idiom_ To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
-__get-go__ :three::hammer: _They wanted him to be Superman from the get-go._  
+__get-go__ _n informal_ :four: The beginning; outset. _I've been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :seven::hammer::mute:[g~~h~~astly]  
@@ -4996,7 +5000,7 @@ __hazing__ _The college hazing policy._
 __hazmat suit__  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
-__head over heels__ _idiom_ To be very much in love with someone.  
+__head over heels__ _idiom_ :two: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _Giving them a head start on finding a job._  
 __head wind__  
@@ -5016,7 +5020,7 @@ __heady__ :two::hammer:
 __health condition__  
 __hearing__ _law_  
 __hearkened__  
-__hearsay__ _n_ :six::hammer: _Hearsay suggests that green apples can induce such a predicament._  
+__hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
 __hearse__  
 __heart and soul__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
@@ -5223,7 +5227,7 @@ __Holy Rood__
 __Holy See__  
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
 __home-delivery__  
-__homebody__  
+__homebody__ _n_ :two: A person who prefers staying at home.  
 __homecoming__ _She had been homecoming queen._  
 __homegoods__  
 __homeground__ _adj_ (home-ground) __1__ Grown or produced in one's own garden or country. :es: de cosecha propia __2__ Belonging to one's own particular locality or country. _Home-grown talent._  
@@ -5344,7 +5348,7 @@ __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._
 __hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
-__hunky-dory__  
+__hunky-dory__ _adj_ _slang_ :two: Fine, going well.  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
 __hurl__ _v_ :eight: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
@@ -5859,6 +5863,7 @@ __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, 
 __kickback schemes__  
 __kickback__ _n_ :two::hammer: (kickbacks)  
 __kickoff__ _The kickoff of the shopping season._  
+__kicks__ _n_ Pleasures, thrills.  
 __kid__ _n_ _I was a Nintendo kid._  
 __kiddo__  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
@@ -6397,6 +6402,7 @@ __machinery__ :mega:
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __mackerel__ :two::hammer:  
 __mackinaw__  
+__macula__ _n_  
 __madcap__  
 __made of money__ _idiom_ To be very rich.  
 __madness__  
@@ -7514,6 +7520,7 @@ __parchment paper__ :camera:
 __parchment__ _n_ :six::hammer: _A parchment chart._  
 __pard__  
 __pardon my French__ _idiom_ Excuse me for swearing.  
+__pardon__ _v_ _Pardon my ignorance._  
 __pared__ _v_  
 __pares__ _v_  
 __pariah__ _n_ :four::hammer:  
@@ -8278,6 +8285,7 @@ __pull away__ :two::hammer:
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull someone's leg__  
 __pull strings__  
+__pull your socks up__ _idiom_ To improve your work or behaviour.  
 __pull__ _v_ _I can't pull for someone else the same way._  
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
 __pullback__ :two::hammer:  
@@ -9135,6 +9143,7 @@ __sautoir__ _Sautoir necklace._
 __savagery__  
 __save (one's) face__  
 __save the day__  
+__save your breath__ _idiom_ Stop useless talk.  
 __savior__  
 __savvy<sup>1</sup>__ _v_  
 __savvy<sup>2</sup>__ _n_  
@@ -10149,7 +10158,7 @@ __spot on__ (spot-on) British slang for "well done", "perfect" or "right on."
 __spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spotless__  
 __spotlight<sup>1</sup>__ _n_  
-__spotlight<sup>2</sup>__ _v_ :two::hammer:  
+__spotlight<sup>2</sup>__ _v_ :three::hammer:  
 __spotted__ _v_  
 __spout__ _v_ _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
@@ -10318,7 +10327,7 @@ __stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top
 __stay__ _Granted a stay of execution._  
 __staying power__  
 __stead__  
-__steadfast__ _adj_ :six: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
+__steadfast__ _adj_ :dart::seven: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
 __steadily__  
 __steadiness__  
@@ -11788,6 +11797,7 @@ __vouch__ _v_ :two::hammer:
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __vow__ _v_  
+__VTOL__ _n_ A vertical take-off and landing aircraft.  
 __vying__ _v_ :seven: Present participle of vie.  
 __wacko<sup>1</sup>__ _n_ :two: Crazy person, lunatic.  
 __wacko<sup>2</sup>__ _adj_  
@@ -12125,6 +12135,7 @@ __withe down__ _v_
 __wither__ _v_ :three::hammer: (withers, withered)  
 __withes__ _n_ :two::hammer:  
 __withhold__  
+__without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobble__ _v_ (wobbling)  
