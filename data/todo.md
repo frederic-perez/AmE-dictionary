@@ -1,4 +1,13 @@
 
+__wonk__ _It’s not a new option among internet privacy wonks._  
+__badmouth__ _Employees badmouth each other._  
+__workweek__ _n_ The hours or days worked in a week: _a four-day workweek._  
+__mantelpiece__ _n_  
+__flame war__ _n_  
+__canonical__  
+__lexicographically__  
+__leverage__ _v_  
+
 __pout__ _v_  
 __burping__ _v_  
 __lodged__ _Shard of glass are getting lodged in my thumb!_  
