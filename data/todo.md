@@ -1,4 +1,15 @@
 
+__dam__ _n_ _The Hoover Dam._  
+__mob__ _n_  
+__touch base__ _v_ Establish communication with someone; _"did you finally connect with your long-lost cousin?"_ _syn_ connect, get in touch  
+__ad lib__ _adv_  
+__steadfast__ _adj_  
+__excelsior__  
+__foyer__ _n_  
+__verdict__ _n_  
+__premier<sup>1</sup>__ _n_ :mega:  
+__premier<sup>2</sup>__ _adj_ :mega:  
+
 __wonk__ _It’s not a new option among internet privacy wonks._  
 __badmouth__ _Employees badmouth each other._  
 __workweek__ _n_ The hours or days worked in a week: _a four-day workweek._  
