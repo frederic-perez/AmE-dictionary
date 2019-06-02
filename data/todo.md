@@ -1,4 +1,13 @@
 
+__jollies__ _slang_ Gun, thrills, enjoyment.  
+__narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
+__around the corner__ _idiom_ Going to happen soon.  
+__your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
+__a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
+__luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
+__uphill battle__ _idiom_ Something very difficult to do.  
+__border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
+
 __dam__ _n_ _The Hoover Dam._  
 __mob__ _n_  
 __touch base__ _v_ Establish communication with someone; _"did you finally connect with your long-lost cousin?"_ _syn_ connect, get in touch  
