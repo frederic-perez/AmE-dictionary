@@ -1,4 +1,15 @@
 
+__cannibalization__ _n_  
+__flip-flop__ _v_ _Politicians who flip-flop get mocked._  
+__shun__ _v_  
+__pertinent__ _The meeting was full of pertinent information._  
+__deterrent__ _n_  
+__heresy__ _n_  
+__snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
+__baboon__ _n_  
+__underpinning__ _n_  
+__schism__ _n_ :es: cisma  
+
 __jollies__ _slang_ Gun, thrills, enjoyment.  
 __narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
 __around the corner__ _idiom_ Going to happen soon.  
