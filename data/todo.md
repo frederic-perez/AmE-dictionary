@@ -1,25 +1,4 @@
 
-__seldom__ _People seldom think about their values consciously._  
-__graced__ _If you never have to deal with this issue, you’re truly graced._  
-__undermine__ _v_  
-__free rein__  
-__reticular__  
-__end result__  
-__weeklong__ _A weeklong seminar._  
-__suffice it to say__  
-__patterning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
-__webbing__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
-__fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
-__doodle__ _v_ _Good thinking can happen while doodling about it on a paper tablecloth._  
-__paper tablecloth__  
-__stifle__ _v_  
-__trite__  
-
-__cannibalization__ _n_  
-__flip-flop__ _v_ _Politicians who flip-flop get mocked._  
-__shun__ _v_  
-__pertinent__ _The meeting was full of pertinent information._  
-__deterrent__ _n_  
 __heresy__ _n_  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __baboon__ _n_  

@@ -1579,6 +1579,7 @@ __cane brakes__
 __canebrake__ _n_  
 __canister__ _n_ :four::hammer: _Organic coffee canisters._  
 __canned__ To get fired, to lose your job.  
+__cannibalization__ _n_  
 __cannolis__  
 __canoe__ (?) :mega:  
 __cantankerous__  
@@ -2863,7 +2864,7 @@ __détente__ _n_ :two: A relaxing of tension between major powers, especially th
 __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._  
 __detergent<sup>2</sup__ _adj_  
 __deterrence__ :two::hammer:  
-__deterrent__ _n_ :eight: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__deterrent__ _n_ :nine: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__  
 __detritus__ _n_  
@@ -3097,6 +3098,7 @@ __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medi
 __donned__ _v_ _They donned masks._  
 __doo-dah__  
 __doodad__  
+__doodle__ _v_ _Good thinking can happen while doodling about it on a paper tablecloth._  
 __doofer__ _n informal_  
 __dookie-wookie__  
 __doom and gloom__ :two::hammer:  
@@ -3484,6 +3486,7 @@ __encroach__ _v_ :seven::hammer: (encroaching) __1__ To take another's possessio
 __encroachment__ _n_ :four::hammer:  
 __encumbrance__  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
+__end result__  
 __end run__ :two::hammer:  
 __endangerment__  
 __endeared__  
@@ -3913,6 +3916,7 @@ __fireworks display__ _A fireworks display will be held on Sunday._
 __first and foremost__  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
+__fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __fissile__ _Fissile material._  
 __fist-pumper__  
 __fists bumping__  
@@ -4011,7 +4015,8 @@ __flintlock__ _n_ :two::hammer: (flintlocks)
 __flinty__ _Flinty soil._  
 __flip (me) the bird__  
 __flip the bird__  
-__flip-flops__  
+__flip-flop<sup>1</sup>__ _n_  
+__flip-flop<sup>2</sup>__ _v_ _Politicians who flip-flop get mocked._  
 __flippant__ _adj_ :three::hammer:  
 __flipper__  
 __flippers__ _n_ :camera:  
@@ -4229,6 +4234,7 @@ __freak out<sup>2</sup>__ _v_
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
 __free lunch__  
+__free rein__  
 __free ride__ :two::hammer:  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __freebie__ _n_ :four: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
@@ -4627,7 +4633,7 @@ __gougers__ _?_ _Transparency helps patients and exposes gougers._
 __goulash__  
 __gout__  
 __grab__ _v_ _Come here and grab a comic book._  
-__grace__ _v_  
+__grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
 __gracial pace__ _?_ _At a glacial pace._  
 __gracious__ _adj_ :four::hammer: _He was very gracious._  
 __graciousness__  
@@ -7497,6 +7503,7 @@ __pants__ _n_
 __pants-on-fire__  
 __pantsed__ _v_  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
+__paper tablecloth__  
 __paper towel__ :two::hammer: (paper towels)  
 __paperclip__ _n_  
 __paperwork__  
@@ -7587,6 +7594,7 @@ __patronizing__
 __patronymic__  
 __patsy__ _adj_  
 __patter__  
+__patterning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
 __paucity__ _n_ :five: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __Paulistano__  
@@ -7700,7 +7708,7 @@ __perpetrator__
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __persona__ In Latin, _persona_ originally meant "mask." _That's my stage persona._  
 __perspiration__  
-__pertinent__  
+__pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
 __perusal__ _n_  
 __peruse__ _v_ :two::hammer:  
@@ -8780,6 +8788,7 @@ __retched__ _v_ :three::hammer:
 __retelling__  
 __retention__  
 __rethoric__  
+__reticular__  
 __retinue__ _n_ :two::hammer: (retinues)  
 __retiree__ _n_ :two::hammer: :es: jubilado  
 __retirement__  
@@ -9334,7 +9343,7 @@ __segue__ _v_ :five::pencil2::mega::hammer:
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
 __sekuhata__ Sexual harassment.  
-__seldom__  
+__seldom__ :two::hammer: _People seldom think about their values consciously._  
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-assured__ _adj_ :two: Having or showing confidence and poise.  
@@ -10576,6 +10585,7 @@ __sucklings__ _n_
 __sudden__  
 __suds__  
 __sudsy__  
+__suffice it to say__  
 __suffragette__  
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
@@ -11317,7 +11327,7 @@ __triple__
 __triplex__ _A triplex penthouse._  
 __triptych__  
 __triskelion__ _n_ (triskele)  
-__trite__ _adj_ :seven: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
+__trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
 __trivet__ _n_  
 __trodden__  
@@ -11495,7 +11505,7 @@ __undercurrent__
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_ :five::hammer: (undermined)  
+__undermine__ _v_ :six::hammer: (undermined)  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :two::hammer:  
 __underprivileged__  
@@ -11912,6 +11922,7 @@ __weather vane__
 __weather__ _v_ :two::hammer: (weathering)  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
+__webbing__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __wedding band__  
 __wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._  
 __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar  
@@ -11925,6 +11936,7 @@ __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as livin
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
 __weekend__ _n_  
+__weeklong__ _A weeklong seminar._  
 __weevil__ :two::hammer: _Weevil worms._  
 __weevils__  
 __weigh down__ _idiom_ To make someone heavy and unable to move easily.  
