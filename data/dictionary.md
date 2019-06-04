@@ -676,7 +676,7 @@ __barn__ _Out of the barn._
 __barnburner__ _n_ :two::hammer:  
 __barnstorm__  
 __barnyard__ :pencil2:  
-__barrage<sup>1</sup>__ _n_ :four: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barre__  
 __barrel bombs__  
@@ -1047,7 +1047,7 @@ __bluff<sup>1</sup>__ _v_
 __bluff<sup>2</sup>__ _n_ :three::hammer:  
 __bluffing__ _v_  
 __blunder__ _I've made a lot of computer blunders over de years._  
-__blunt<sup>1</sup>__ _adj_ :four: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
+__blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :three::hammer: (blunting)  
 __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly._  
 __blurb__ :es: comentario de sobrecubierta  
@@ -1341,7 +1341,7 @@ __buddy__
 __budge__ _v_  
 __budged__  
 __budget line__ _I had already sent my editor a budget line on the story._  
-__buff<sup>1</sup>__ _n informal_ :six: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
+__buff<sup>1</sup>__ _n informal_ :eight: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
@@ -1605,6 +1605,7 @@ __caplet__ _n_ :two::hammer: (caplets)
 __capons__  
 __cappie__ _n_  
 __caprice__  
+__caps__ _n_ Capital letters.  
 __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don't rock the boat, baby, or you might just capsize.  
 __capstone__ _n_  
 __captain__ _v_  
@@ -1819,6 +1820,7 @@ __checker<sup>1</sup>__ _v_ _Checkered history._
 __checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
 __checkers__ _n_ :es: damas  
 __checklist__ (single word)  
+__checkup__ _n_ :two::hammer:  
 __cheek by jowl__ :two::hammer:  
 __cheekboned__ _High-cheekboned newbies.;-_  
 __cheekier__  
@@ -1915,6 +1917,7 @@ __chutneys__
 __CID__  
 __cigar__ _n_ :mega:  
 __cigarillos__ :pencil2::camera::two::hammer:  
+__ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
 __cinch__ _n_ :two::hammer:  
 __Cincy__ Cincinnati?  
 __cinder__  
@@ -3440,6 +3443,7 @@ __elude__ :astonished:
 __elusive__  
 __Elvis has left the building__ _idiom_ :two: The show has come to an end. It's all over.  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
+__emancipate__ _v_  
 __emancipation__  
 __embankment__  
 __embargo__ _n_  
@@ -4403,6 +4407,7 @@ __gaskets__
 __gasolene__ :two::hammer::pencil2:  
 __gasped__ _v_ :three::hammer:  
 __gat__  
+__gatekeeper__ _n_  
 __Gatling gun__ _n_  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__  
@@ -5253,7 +5258,7 @@ __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the lan
 __honeypot__  
 __honeysuckle__  
 __Hong Kong__ _"Fragrant harbor" is the literal translation of Hong Kong._  
-__honor__ :mute:[~~h~~onor]  
+__honor__ _v_ :two::hammer::mute:[~~h~~onor]  
 __honorary__ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
@@ -5516,7 +5521,7 @@ __inbound<sup>2</sup>__ _v_
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ :two::hammer:  
 __incensed__ _v_  
-__inception__  
+__inception__ :two::hammer:  
 __incessantly__  
 __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the field._  
 __inchoate__  
@@ -5887,7 +5892,7 @@ __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introdu
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
-__kindred spirit__ :four::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
+__kindred spirit__ :five::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :two::hammer:  
 __kine__ _n_  
@@ -6785,7 +6790,7 @@ __moneyed__
 __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
-__moniker__ _n_ :two::hammer:  
+__moniker__ _n_ :three::hammer:  
 __monkey business__ _n_ _informal_ :two: Silly or dishonest behaviour.  
 __monkey off one's back__ _The win did remove the major monkey off his back._  
 __monkey suit__  
@@ -7552,7 +7557,7 @@ __parsnip__
 __parsonage__ :pencil2:  
 __part-time<sup>1</sup>__ _adj_  
 __part-time<sup>2</sup>__ _adv_  
-__partake__ _v_ :eight: (partaken, partaking) __1__ (foll by in) to have a share; participate: _to partake in the excitement._ __2__ (Cookery) (foll by of) to take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
+__partake__ _v_ :nine: (partaken, partaking) __1__ (fololwed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __participatory__ _I wanted to be a participatory father._  
@@ -8669,6 +8674,7 @@ __ref__ _n_ A referee.
 __refectory__ _n_ :three::hammer:  
 __referenda__  
 __reffing__  
+__refractory__ _adj_  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
@@ -11283,7 +11289,7 @@ __tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount
 __treading__  
 __treasure__ _v_ :two::hammer:  
 __treat<sup>1</sup>__ _v_  
-__treat<sup>2</sup>__ _n_  
+__treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
 __treble<sup>2</sup>__ _v_ :two::hammer:  
 __trellis__ _n_ :five::hammer:  
@@ -11571,7 +11577,7 @@ __unsalted__ _Pure Irish butters salted and unsalted._
 __unsavory__  
 __unscathed__ _adj_ :five: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
-__unsettling__ _The old man's unsettling eyes._  
+__unsettling__ _adj_ :two: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man's unsettling eyes._  
 __unshackle__ _The two guards unshackled Sam at the door._  
 __unsheathe__ _v_ (unsheathed) _He unsheathed his sword._  
 __unsightly__ _Manning looking at unsightly ending._  
@@ -11693,6 +11699,7 @@ __vanish into thin air__ _idiom_ To disappear completely, without leaving a trac
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vantage point__ _n_  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _I'm with a beer smoking on my vape._  
 __vapid__ _adj_ :five: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
@@ -11948,7 +11955,7 @@ __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group
 __well out__ _v_  
 __well-heeded__  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
-__well-rounded__  
+__well-rounded__ _adj_ :two::hammer:  
 __wellhead__  
 __welling up__  
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  

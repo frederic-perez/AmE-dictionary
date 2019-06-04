@@ -1,25 +1,4 @@
 
-__emancipate__ _v_  
-__checkup__ _n_ :two::hammer:  
-__treat__ _n_  
-__honor__ _v_  
-__caps__ _n_ Capital letters.  
-__ciggy__ _n_ _BrE_ _spoken informal_ Ac igarette.  
-__refractory__ _adj_  
-__blunt__ _adj_  
-__partake__ _v_  
-__barrage__ _n_  
-__unsettling__ _adj_ Making one feel rather worried or uncertain. _An unsettling idea._  
-__vantage point__ _n_  
-__gatekeeper__ _n_  
-__inception__  
-__ethos__  
-__slew__  
-__buff__ _n_ :two::hammer:  
-__well-rounded__ _adj_  
-__kindred spirits__  
-__moniker__  
-
 __heresy__ _n_  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __baboon__ _n_  
