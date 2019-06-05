@@ -425,6 +425,7 @@ __as it gets__ :two::hammer:
 __as it happens,__ _idiom_ :two: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
+__as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as we speak__ _idiom_ At this very moment.  
 __as yet__ _idiom_ Up to the present time; up to now.  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
@@ -1889,7 +1890,7 @@ __chomp__ _v_
 __chomping__  
 __chop__ _v_  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
-__chops__ _n informal_ :seven: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
+__chops__ _n informal_ :eight: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ :mute:[c~~h~~ord]  
 __choreography__ :mute:[c~~h~~oreography]  
 __chortles__ _v_  
@@ -2997,7 +2998,7 @@ __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weat
 __dismay__  
 __dismayed__ _v_ _The proposal has dismayed the Canadian government._  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
-__disparage__ _v_ :nine: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
+__disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ :two::hammer:  
 __disparaging__ _adj_ :two: Insulting, ridiculing.  
 __dispatch__ _v_  
@@ -3112,7 +3113,7 @@ __doorman building__ _n_
 __doormat__  
 __doorpost__  
 __doozy__ _adj informal_ :three: Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
-__dope__ _adj_ _informal_ :four: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
+__dope__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :two: __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
@@ -4287,7 +4288,7 @@ __frozen yogurt__
 __frugal__ _adj_ __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __fruit basket__ _California's Central Valley, fruit basket to the nation._  
 __fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
-__fruition__ The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
+__fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
 __FT__ _Sports_ Full-time.  
 __fuchsia__  
@@ -5013,7 +5014,7 @@ __head and shoulders [above the rest/others]__ _phr informal_ :three: Much bette
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head over heels__ _idiom_ :two: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
-__head start__ _Giving them a head start on finding a job._  
+__head start__ _n_ :two::hammer: _Giving them a head start on finding a job._  
 __head wind__  
 __head__ _v_ _Head to Freakonomics.com._  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
@@ -5917,7 +5918,7 @@ __kitten__
 __kiwi__  
 __kleptocracy__ :two::hammer:  
 __klutz__ :two::hammer:  
-__knack__ _n_ :two::mute:[~~k~~nack]:hammer:  
+__knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She's got a knack for it._  
 __knackered__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
 __knave__  
 __knavish__  
@@ -6248,7 +6249,7 @@ __listen__ :mute:[lis~~t~~en]
 __listening session__  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
-__litany__ _n_ :six: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate__ :two::hammer:  
 __lithe__ :two::hammer:  
@@ -6943,7 +6944,7 @@ __NA__ Narcotics Anonymous. _Go to an NA meeting._
 __nab__ _v_ :five::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nadir__  
 __naevus__ _n_ (nevus)  
-__nag<sup>1</sup>__ _v_  
+__nag<sup>1</sup>__ _v_ :two::hammer:  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
 __nagging__ _adj_ :four: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
@@ -7049,6 +7050,7 @@ __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._
 __nightie__ _n_ :two: A woman's nightgown.  
 __nightingale__ _n_  
 __nightmarish__ :two::hammer:  
+__nihilist__ _n_  
 __nihilistic__  
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
@@ -7300,7 +7302,7 @@ __orderliness__ _n_ __1__ The quality of appreciating method and system. __2__ A
 __orderly__ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :three::pencil2::hammer:  
-__ore__ _n_ :three::hammer: _Iron ore._  
+__ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
 __organization__ _n_ :mega:  
 __ornament__  
 __ornate__ _n_ :five::hammer:  
@@ -8203,7 +8205,7 @@ __prod__ (prodded) :two::hammer: :es: _empujón_
 __prodigal__  
 __produce__ _n_ :two::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
 __profanely__  
-__profanity__  
+__profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
 __proffering__  
 __profiteering__  
@@ -9707,7 +9709,7 @@ __sitting duck__
 __sitting pretty__ :two::hammer:  
 __sitting<sup>1</sup>__ _n_  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
-__situation__ _n_ :three::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
+__situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
 __sivvied__ _v_ (?)  
 __six-hundred-pound gorilla__ (also eight-hundred-pound gorilla or nine-hundred-pound gorilla) A powerful force; a virtually irresistible influence.  
 __sizable__ :two::hammer: _Clinton's sizable lead._  
@@ -10024,7 +10026,7 @@ __solemn__ :mute:[solem~~n~~]
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
 __solid gold__  
-__solid__ _adj_ :dart::five::hammer: _It lasted a solid year._ _It rained for a solid week._  
+__solid__ _adj_ :dart::six::hammer: _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_  
 __soliloquy__  
 __solipsistic__ _adj_ :four::hammer:  
@@ -11101,7 +11103,7 @@ __tink__ _v_
 __tinker__ _v_ :three::hammer:  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
-__tip off__ _v_ _idiom_ :two: (tip-off) To secretly inform the police or authorities.  
+__tip off__ _v_ _idiom_ :three: (tip-off) To secretly inform the police or authorities.  
 __tip over__ _v_  
 __tip-top__ _adj_ _informal_ Excellent.  
 __tipoff__ _n_ :two::hammer: (tip-off)  
@@ -11123,7 +11125,7 @@ __tittle__ _n_ :pencil2: A very small part.
 __tix__ Tickets?  
 __tixker__  
 __tizzy__  
-__TM__ _abbr_ :two: Trascendental meditation.  
+__TM__ _abbr_ :three: Trascendental meditation.  
 __TMI__ Too much information.  
 __to be at sea__  
 __to be back on your feet__ To be healthy again after a period of illness.  
@@ -11488,7 +11490,7 @@ __unabashedly__
 __unabated__ _adj_ :three::hammer:  
 __unalienable__  
 __unanimous__  
-__unapologetic__ _adj_ :seven::hammer:  
+__unapologetic__ _adj_ :eight::hammer:  
 __unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
@@ -11810,6 +11812,7 @@ __voltron__
 __voluble__  
 __votaries__  
 __vote in__ _phr v_ To choose somebody for a position by voting.  
+__vote off__ _phr v_ _Nikki was voted off first from Dancing with the Stars._  
 __vouch__ _v_ :two::hammer:  
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
@@ -12296,7 +12299,7 @@ __yin and yang__
 __yipped__ _v_  
 __yipping__ _v_  
 __yips__  
-__yo__  
+__yo__ _interj_ _slang_ :four: __1__ Used as a greeting or to attract someone's attention. __2__ Used to express emphasis: _Today's my birthday, yo._  
 __yo-yo__ _slang_ A stupid or crazy person.  
 __yo-yoing__  
 __yoke__ _n_ _Egg yoke._  

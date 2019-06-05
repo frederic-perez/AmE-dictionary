@@ -1,25 +1,4 @@
 
-__solid__ _adj_ _Solid gold, solid wood._ :es: macizo  
-__ore__ _n_ :mega: :es: mena, mineral  
-__knack__ _n_ _She's got a knack for it._  
-__profanity__ _n_ _Shouting profanities._  
-__situation__ _n_ :two::hammer: _We've got a situation here!_  
-__nag__ _v_  
-__fruition__ _n_  
-__as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
-__dope__ _adj_  
-__yo__ _interj_ _slang_ :three: __1__ Used as a greeting or to attract someone's attention. __2__ Used to express emphasis: _Today's my birthday, yo._  
-__disparaging__ _v_  
-__nihilist__ _n_  
-__overly__  
-__TM__ _abbrev_ Transcendental meditation.  
-__chops__ _n_  
-__vote off__ _phr v_ _Nikki was voted off first from Dancing with the Stars._  
-__tip off__ _v_  
-__unapologetic__  
-__head start__ _n_  
-__litany__  
-
 __heresy__ _n_  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __baboon__ _n_  
