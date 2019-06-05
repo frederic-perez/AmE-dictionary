@@ -18,8 +18,8 @@ __a bird in the hand is worth two in the bush__
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
-__A/C__ (air conditioned?)  
-__AA__ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
+__A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
+__AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __AAA__ _(cars)_  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AB__ _Guys in the AB._  
@@ -3527,7 +3527,7 @@ __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __entail__ _v_ :five::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthuse__ _v_ :eight::hammer: (enthused, enthusing) _It has enthused fans._  
+__enthuse__ _v_ :eight: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
 __enthusiasm__  
 __enticing__  
 __entitle__ _v_ :four::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you're no longer entitled to on the NHS._  
@@ -6113,7 +6113,7 @@ __leavings__ _n_
 __lecher__  
 __lectern__  
 __ledge__ :two::hammer: _Adam turned and sat on the ledge._  
-__ledger__ _n_ :nine:::m:hammer: _A heavy account ledger._  
+__ledger__ _n_ :nine:::m: __1__ An accounting journal as a physical object. _A heavy account ledger._ __2__ A slab of stone laid flat over a grave. __3__ A horizontal timber in a scaffold, attached to the uprights and supporting the putlogs.  
 __lee__ _In the lee of the wagon._  
 __leech__ _n_ :five::hammer: :es: sanguijuela  
 __leek__ _n_  
