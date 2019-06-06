@@ -16,6 +16,7 @@ __4-H__ Of or relating to a government program in the U.S. that teaches farming 
 __800-pound gorilla__  
 __a bird in the hand is worth two in the bush__  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
+__a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
@@ -102,6 +103,7 @@ __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics 
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
+__ad lib__ _adv_  
 __ad__ _n informal_ Advertisement.  
 __ad-lib__ _v_ :three::hammer: (ad-libs)  
 __Ada__ :mega: /ā′də/  
@@ -405,7 +407,7 @@ __arms embargo__
 __arms race__  
 __arose__ _v_  
 __around the clock__  
-__around the corner__  
+__around the corner__ _idiom_ :two: Going to happen soon.  
 __arpents__ _n_ :two::hammer:  
 __arrange__ _v_  
 __arrears__ _n_ :pencil2:  
@@ -549,7 +551,7 @@ __axle__ _n_
 __azure__  
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
 __babblermouth__ A person who talks too much, often telling secrets to other people.  
-__baboon__  
+__baboon__ _n_ :two::hammer:  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __baby blue__ _n_ :camera:  
 __baby bump__ _Dressing your baby bump._  
@@ -1154,6 +1156,7 @@ __bootleg__ _The bootleg Lennon._
 __bootlegger__  
 __bop__ _v_  
 __bordello__  
+__border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __bore<sup>1</sup>__ _v_ _Boring a tunnel._  
 __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
 __boredom__  
@@ -2649,6 +2652,7 @@ __dallied__ _v_
 __dally__ _v_  
 __dallying__  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
+__dam__ _n_ _The Hoover Dam._  
 __dammit__  
 __damn__ :mute:[dam~~n~~]  
 __damnation__  
@@ -3617,6 +3621,7 @@ __ewes__ _n_
 __exacerbate__ _v_ :eight: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceedingly__  
+__excelsior__  
 __excess__ :two::hammer: _He's raised or spent in excess of $5,000 on political activity._  
 __excise__ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excised__ _v_  
@@ -4214,7 +4219,7 @@ __fowl<sup>1</sup>__ _n_ :three::hammer: _Access to public lands and water fowl.
 __fowl<sup>2</sup>__ _v_  
 __fowler__  
 __foxing stains__  
-__foyer__ _n_ :two::hammer:  
+__foyer__ _n_ :three::hammer:  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __fracas__ _n_ :two::hammer:  
 __fracking__ Hydraulic fracturing.  
@@ -5105,7 +5110,7 @@ __Henry__ Word that can be used to describe somebody who is incredibly attractiv
 __herald__ _v_ :four::hammer: (heralded)  
 __herdsman__ _n_  
 __here's looking at you__  
-__heresy__ _n_  
+__heresy__ _n_ :two::hammer:  
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
 __heretofore__ :two::hammer:  
@@ -5774,6 +5779,7 @@ __joint__ _n_ A prison, a jail.
 __joists__  
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
+__jollies__ _slang_ Gun, thrills, enjoyment.  
 __jollification__ _n_  
 __jollof rice__  
 __jolly__ _adj_ :six::hammer: _Jolly handshakes._  
@@ -6363,6 +6369,7 @@ __lowlights__
 __lowly__ :two::hammer: _The lowly news reporter._  
 __lucifer match__  
 __lucky charm__  
+__luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
@@ -6760,6 +6767,7 @@ __mixed signals__ _Mr. Trump sent more mixed signals on Monday._
 __MLK__  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :six::hammer:  
+__mob__ _n_  
 __moccasin__ :two::hammer: (moccasins)  
 __mockie__ _n_ :two::hammer:  
 __moderate__ _v_  
@@ -6965,6 +6973,7 @@ __Narcan__ _A state trooper administered Nascar to reverse the effects of an app
 __narcissistic__  
 __narrative__  
 __narrow escape__  
+__narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
 __narrow-minded__ _adj_  
 __narrowly__ _I narrowly escaped execution._  
 __nary__ _Nary a chance of rain throughout the tournament._  
@@ -9210,7 +9219,7 @@ __scent__ :mute:[s~~c~~ent]
 __scented__  
 __schadenfreude__  
 __schemer__ _n_ (?)  
-__schism__ :two::hammer:  
+__schism__ _n_ :three::hammer: :es: cisma  
 __schlep__ _v_ :two::hammer:  
 __schlepping__ :two::hammer:  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
@@ -9973,6 +9982,7 @@ __snorted__ _v_
 __snorting__ _v_  
 __snot rag__  
 __snot__ _n_ :three::hammer:  
+__snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __snout__ _n_  
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
@@ -10344,7 +10354,7 @@ __stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top
 __stay__ _Granted a stay of execution._  
 __staying power__  
 __stead__  
-__steadfast__ _adj_ :dart::seven: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
+__steadfast__ _adj_ :dart::eight: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
 __steadily__  
 __steadiness__  
@@ -11227,6 +11237,7 @@ __tots__
 __totter__ _v_  
 __tottered__  
 __touch and go__  
+__touch base__ _v_ Establish communication with someone; _"did you finally connect with your long-lost cousin?"_ _syn_ connect, get in touch  
 __touchline__  
 __touchy__ _adj_ :two::hammer:  
 __tough cookie__ _n_ :three: A very determined person.  
@@ -11515,7 +11526,7 @@ __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._
 __undergarments__ _n_ :two::hammer:  
 __undermine__ _v_ :six::hammer: (undermined)  
 __underpin__ _v_ :two::hammer:  
-__underpinning__ _n_ :two::hammer:  
+__underpinning__ _n_ :three::hammer:  
 __underprivileged__  
 __underrated__ :pencil2:  
 __underscore__ _v_ :four::hammer: (underscored, underscoring)  
@@ -11617,7 +11628,7 @@ __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical
 __upfield__  
 __upfront__ _adj_  
 __upheaval__ _n_ :six::hammer:  
-__uphill battle__  
+__uphill battle__ _idiom_ :two: Something very difficult to do.  
 __uphill__ :two::hammer: _An uphill task._ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
@@ -12309,6 +12320,7 @@ __YOLO__ You only live once.
 __yonder__  
 __yore__ _?_ _Days of yore._  
 __you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
+__your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  
 __your mileage may vary__  
 __yowl__ _n_ :two::hammer: _His yowl of pain_  
