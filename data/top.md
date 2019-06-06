@@ -26,6 +26,7 @@ __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regul
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
+__disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __double down__ _v_ :nine::m: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
 __dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, diminish, reduce in size. __2__ To fall away in quality; degenerate, sink.  
