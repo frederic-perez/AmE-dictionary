@@ -1,4 +1,25 @@
 
+__afoot__ _adj_ __1__Traveling by foot. _She was afoot when I saw her this morning._ __2__ Currently in progress progress. _There is mischief afoot._ _Plans are afoot._  
+__culprit__ _n_  
+__cardiac arrest__ _n_  
+__sift__ _v_  
+__sitting duck__  
+__sign up__ _v_  
+__floor__ _v_  
+__blue sky__ _Foreboding a blue sky discussion._  
+__stoke__ _v_ :two::hammer:  
+__oversight__ _n_  
+__mea culpa__ _n_  
+__delve__ _v_  
+__disparage__ _v_  
+__transient__  
+__infuriate__ _v_  
+__creep__ _n_ Someone unpleasantly strange or eccentric.  
+__help (someone) out__ _idiom_ To help someone do something; to help someone with a problem. _I am trying to raise this window. Can you help me out? I'm always happy to help out a friend._  
+__BBS__ _abbr_ Be back soon.  
+__knock on (one's) door__ _idiom_ To present (itself) to one as a possibility or (usually desirable) opportunity in the near future, especially temporarily.  
+__make waves__ _idiom_  
+
 __verdict__ _n_  
 __premier<sup>1</sup>__ _n_ :mega:  
 __premier<sup>2</sup>__ _adj_ :mega:  
