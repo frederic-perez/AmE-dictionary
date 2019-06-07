@@ -308,7 +308,7 @@ __anguish<sup>1</sup>__ _n_
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :eight: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
-__animus__ _n_ :two::hammer: _The animus between the Yankees and Red Sox._  
+__animus__ _n_ :three::pencil2::hammer: :es: odio _The animus between the Yankees and Red Sox._  
 __ankle-biter__ Child.  
 __annihilation__ :pencil2::mega:  
 __anniversary__ :pencil2::mega:  
@@ -342,7 +342,7 @@ __aplenty__
 __aplomb__ _n_ :four: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ :pencil2:  
-__apologetic__ _adj_ :three: Very sorry. _That's what I call apologetic hand raise._  
+__apologetic__ _adj_ :four: Very sorry. _That's what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apostasy__  
@@ -660,7 +660,8 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_  
 __bantam__ _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women's bantamweight champ._  
-__banter__ _n_ :five::hammer:  
+__banter<sup>1</sup>__ _n_ :five::hammer:  
+__banter<sup>2</sup>__ _v_  
 __bar top__  
 __BAR__ _BAR man._  
 __barbecue__ _Barbecue sauce._  
@@ -2076,7 +2077,7 @@ __coerce__ _v_
 __coerced__  
 __coffee-table book__  
 __coffer__ _n_ :six::hammer: (coffers) _San Francisco city coffers._ _State's coffers._ :es: arca  
-__cog__ _n_ :six: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
+__cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cognizant__  
 __cogwheel__  
@@ -2613,6 +2614,7 @@ __cuss__ _v_ :six::hammer: (cussed, cussing) _Other kids cussed in front of thei
 __custody__ _Finally my house returned to my custody._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __customs__ _n_ (at airport)  
+__cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut me a little slack__  
 __cut ties with (someone)__ _idiom_ :two::hammer:  
@@ -2624,6 +2626,7 @@ __cutter__ _A Coast Guard cutter._
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin' a rug__  
+__cutting edge__  
 __cyclone__ _n_  
 __cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
@@ -2965,7 +2968,7 @@ __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)
 __discharge__ _v_ :nine::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
-__disclaimer__ _n_  
+__disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :pencil2:  
 __disconsolate__ _adj_  
 __discontinued__ _v_  
@@ -3391,7 +3394,7 @@ __edict__
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
 __eel__  
-__eerie__ _n_ :six::hammer:  
+__eerie__ _adj_ :seven::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
@@ -3559,7 +3562,7 @@ __epiphany__
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
-__epitome__ _n_ :six: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
+__epitome__ _n_ :seven: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ _adj_ :seven::hammer: (eponymously)  
 __equaled__ _v_  
@@ -4689,6 +4692,7 @@ __grazing land__ :hammer::camera: A field covered with grass or herbage and suit
 __GRE__ A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __greaseballs__ :two::hammer:  
 __Great Dane__  
+__great deal__ _idiom_ :dart: (often followed by `of') a large number or amount or extent. Much, a lot.  
 __great strides__ _He made great strides during his presidency._  
 __Great War__  
 __great-grandchildren__  
@@ -6000,9 +6004,7 @@ __laggard<sup>1</sup>__ _adj_ :three::hammer:
 __laggard<sup>2</sup>__ _n_  
 __lagged__  
 __laid back attitude__  
-__laid back__ :two::hammer:  
-__laid-back guy__  
-__laidback__ :two::hammer: _Australia's laid back lifestyle._  
+__laid-back__ _idiom_ :six: _Laid-back guy or people._ _Australia's laid back lifestyle._  
 __lain__  
 __lair__ _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
@@ -6193,7 +6195,7 @@ __licentiousness__
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
 __lick-spittle__ _A lick-spittle role._  
-__lickety-split__ (lickety split)  
+__lickety-split__ :dart::two::hammer: (lickety split)  
 __licorice__ _n_ :three::camera: If you've ever had a long, sweet, chewy, black candy, you've probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __lidar__  
@@ -6395,7 +6397,7 @@ __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into th
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ _v_ :six::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
+__lurch__ _v_ :seven::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
@@ -6580,6 +6582,7 @@ __Mayan__ :mega:
 __mayhem__ _n_ :six: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
+__MC__  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __mea culpa__  
 __mead__ _n_  
@@ -8264,7 +8267,7 @@ __protracted__
 __provenance__  
 __provender__  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
-__provost__ _n_ :five: A provost is an administrator at a college or university. The provost is very important to the school.  
+__provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :six: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
 __proxy__ _I'm a proxy for the listener._  
@@ -9447,6 +9450,7 @@ __shale-oil__ _Shale-oil production._
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
 __shale<sup>3</sup>__ _v_  
+__shallow__  
 __sham<sup>1</sup>__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
 __sham<sup>2</sup>__ _n_ :three::hammer: _The novelty effect isn't a sham._  
 __shambled__ _v_ :two::hammer:  
@@ -10275,6 +10279,7 @@ __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._
 __staggering__  
 __stagnant__ _adj_ :three::hammer:  
 __staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
+__stair climbing__ The climbing of a flight of stairs.  
 __stairwell__ _n_:three::camera::hammer:  
 __stake__ _n_  
 __stakeholder__  
@@ -11233,6 +11238,7 @@ __tossing__ _v_ _The prisoner lay tossing and moaning._
 __tossup__ _n_ :three::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lots__ _There are tot lots, but there is no place for us._  
 __totally__ _adv_ :two: Entirely; wholly; completely.  
+__totem pole__ _n_ _slang_ A hierarchy: _low on the totem pole._  
 __tots__  
 __totter__ _v_  
 __tottered__  

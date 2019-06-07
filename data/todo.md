@@ -1,25 +1,4 @@
 
-__banter<sup>1</sup>__ _n_  
-__banter<sup>2</sup>__ _v_  
-__cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
-__laid-back__ _idiom_ _Laid-back people._  
-__cog__ _n_  
-__unfettered__ _adj_  
-__epitome__ _n_  
-__animus__ _n_ :pencil2: :es: odio  
-__lurch__  
-__apologetic__  
-__shallow__  
-__totem pole__ _n_ _slang_ A hierarchy: _low on the totem pole._  
-__great deal__ _idiom_ :dart: (often followed by `of') a large number or amount or extent. Much, a lot.  
-__stair climbing__ The climbing of a flight of stairs.  
-__lickety-split__  
-__cutting edge__  
-__provost__ _n_  
-__disclaimer__ _n_  
-__MC__  
-__eerie__ _adj_  
-
 __verdict__ _n_  
 __premier<sup>1</sup>__ _n_ :mega:  
 __premier<sup>2</sup>__ _adj_ :mega:  
