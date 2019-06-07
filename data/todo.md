@@ -1,5 +1,16 @@
 
-__afoot__ _adj_ __1__Traveling by foot. _She was afoot when I saw her this morning._ __2__ Currently in progress progress. _There is mischief afoot._ _Plans are afoot._  
+__chicanery__ _n_  
+__impeachment__ _n_  
+__car coat__ _n_  
+__undershorts__ _n_ :es: calzoncillos  
+__bell captain__ _n_ The supervisor of a group of bellhops.  
+__thong__ _n_ The usual name for flip-flop.  
+__ostracize__  
+__mule__ _n_ Flat, light, usually indoor shoe; it has a vamp only, leaving the heel bare.  
+__patch pocket__ _n_  
+__pocket flap__ _n_ A flap that covers the access to a pocket.  
+
+__afoot__ _adj_ __1__ Traveling by foot. _She was afoot when I saw her this morning._ __2__ Currently in progress progress. _There is mischief afoot._ _Plans are afoot._  
 __culprit__ _n_  
 __cardiac arrest__ _n_  
 __sift__ _v_  
