@@ -1,4 +1,13 @@
 
+__get to somebody__ _phr v_ To make someone feel upset or angry. _You shouldn't let your flatmates get to you._  
+__meal ticket__ _slang_ A person who is exploited as a source of regular income.  
+__sick as a dog__ _idiom_ Very sick.  
+__border upon__ _phr v_ To be next to something in location.  
+__noggin__ _n_ _slang_ A person’s head.  
+__money pit__ _idiom_ A non-stop waste of money on something.  
+__needle in a haystack__ _idiom_ Something extremely hard to find.  
+__round the bend__ _idiom_ Crazy, insane.  
+
 __chicanery__ _n_  
 __impeachment__ _n_  
 __car coat__ _n_  
