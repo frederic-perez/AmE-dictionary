@@ -1,4 +1,13 @@
 
+__stamp out__ _phr v_ End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._  
+__unheard of__ _It's not unheard of for individual contributors to question their superiors' decisions._  
+__fallible__ _Managers are as fallible as the rest of us._  
+__troubleshoot__ _v_  
+__inkling__ _n_  
+__equitably__ _adv_ :es: de forma equitativa  
+__readily__ _adv_  
+__gung ho__ _adj_ _slang_ (gung-ho) Extremely enthusiastic and dedicated.  
+
 __get to somebody__ _phr v_ To make someone feel upset or angry. _You shouldn't let your flatmates get to you._  
 __meal ticket__ _slang_ A person who is exploited as a source of regular income.  
 __sick as a dog__ _idiom_ Very sick.  
