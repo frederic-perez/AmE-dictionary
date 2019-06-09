@@ -1,5 +1,5 @@
 
-__outie__ _idiom_ _slang_ Out of here; leaving. _That's it, I'm not waiting any longer—I'm outtie! No way, this is too gross for me! I'm outtie._
+__outie__ _idiom_ _slang_ Out of here; leaving. _That's it, I'm not waiting any longer—I'm outtie! No way, this is too gross for me! I'm outtie._  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
