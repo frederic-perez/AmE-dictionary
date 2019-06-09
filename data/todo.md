@@ -1,4 +1,13 @@
 
+__off__ _v_ _slang_ To murder, to kill.  
+__on a high horse___ _idiom_ To act as if you are better than other people.  
+__reckless__  
+__break into__ _phr v_ To enter some place forcibly.  
+__on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
+__peeps__ _n pl_ _slang_ Friends.  
+__on the same page__ _idiom_ To agree on something.  
+__innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
+
 __injuction__  
 __fudge<sup>1</sup>__ _n_  
 __fudge<sup>2</sup>__ _adj_  
