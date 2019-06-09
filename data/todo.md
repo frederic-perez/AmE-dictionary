@@ -1,4 +1,14 @@
 
+__outie__ _idiom_ _slang_ Out of here; leaving. _That's it, I'm not waiting any longer—I'm outtie! No way, this is too gross for me! I'm outtie._
+__brighten up__ _phr v_ To make a place more colourful and attractive.  
+__plastered__ _adj_ _slang_ Extremely drunk.  
+__on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
+__puppy love__ _slang_ Immature love between young people or children.  
+__keep it under wraps__ _idiom_ Keep it a secret.  
+__on the tip of your tongue__ _idiom_ About to be said or almost remembered.  
+__macaroon__ _n_ A cookie made with egg whites, sugar, and ground almonds or coconut.  
+__macaron__ _n_ A meringue-based cookie made with almond flour, egg whites and sugar, with a ganache filling.  
+
 __on pins and needles__ _idiom_ Worried or excited about something.  
 __brownout__ _n_  
 __overzealous__ _n_  
