@@ -1,4 +1,13 @@
 
+__cringe__ _v_ _I cringed and rolled my eyes._  
+__whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _"The alarm goes off and—whammo!—we're all at our assigned stations" (Meg Greenfield)._  
+__possum__ _n_ :es: zarigüeya  
+__chow down__ _v_ _informal_ To eat heartily.  
+__cold turkey__ _n_  
+__deliberate__  
+__cajole__ _v_  
+__floor__ _v_ _I’m kinda floored by what I’m noticing._  
+
 __off__ _v_ _slang_ To murder, to kill.  
 __on a high horse___ _idiom_ To act as if you are better than other people.  
 __reckless__  
