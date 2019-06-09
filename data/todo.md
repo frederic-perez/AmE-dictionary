@@ -1,4 +1,17 @@
 
+__injuction__  
+__fudge<sup>1</sup>__ _n_  
+__fudge<sup>2</sup>__ _adj_  
+__fudge<sup>3</sup>__ _v_  
+__indefatigable__ _adj_  
+__forgiving__ _adj_  
+__fallible__ _adj_ :mega:  
+__outlook__ _n_  
+__abreast__  
+__exacerbate__ _v_  
+__treacherous__ _adj_  
+__tattle__ _v_  
+
 __stamp out__ _phr v_ End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._  
 __unheard of__ _It's not unheard of for individual contributors to question their superiors' decisions._  
 __fallible__ _Managers are as fallible as the rest of us._  
