@@ -1,4 +1,17 @@
 
+__nip__ _n_ A small drink of spirits; dram.  
+__dish out__ _phr v_  
+__slew__  
+__get a kick out of (someone or something)__  
+__chuck__ _v_  
+__emery__ _n_  
+__live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
+__knuckle sandwich__ _idiom_ A punch in the face.  
+__you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
+__blow away__ _phr v_ To surprise or amaze someone.  
+__chafe__ _n_  
+__nookie__  
+
 __weeding__ _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __scribbled__ _v_  
 __flesh out__ _phr v_  
