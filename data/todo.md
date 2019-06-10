@@ -1,4 +1,15 @@
 
+__Simon Says__ _n_  
+__airball__ _n_  
+__pick and roll__  
+__for__ _3 for 4 (attempts)._  
+__drill__ _v_ _And Gasol drills the ball._ 
+__trenchant__ _adj_  
+__artifact__  
+__party line__ _n_  
+__antique__ _n_ (antiques)  
+__tassel__ _n_  
+
 __outie__ _idiom_ _slang_ Out of here; leaving. _That's it, I'm not waiting any longer—I'm outtie! No way, this is too gross for me! I'm outtie._  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
 __plastered__ _adj_ _slang_ Extremely drunk.  
