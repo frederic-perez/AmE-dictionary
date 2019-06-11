@@ -1,4 +1,13 @@
 
+__stasis__  
+__yap__ _v_ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
+__whisk__ _v_ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
+__halve__ _v_  
+__cadre__ _n_  
+__contested shot__ _n_ (vs uncontested shot)  
+__uncontested shot__ _n_ (vs contested shot)  
+__hamstring__ _n_  
+
 __brownout__ _n_  
 __overzealous__ _n_  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
