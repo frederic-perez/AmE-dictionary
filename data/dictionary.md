@@ -195,7 +195,7 @@ __ailment__ _n_ :four: Mild illness.
 __ails__ _v_ :two::hammer:  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
-__airball__ _n_ :three: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
+__airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airborne__ _adj_ _An airborne radar._  
 __airburst__ _n_  
 __aircraft hold__ _n_ :es: bodega (de avión)  
@@ -325,7 +325,7 @@ __anti-Semitism__
 __antic__  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ _adj_ :three::hammer:  
-__antique__ :two::mute:[antiq~~u~~e]:hammer: _Antiques dealer._  
+__antique__ _n_ :three::mute:[antiq~~u~~e]:hammer: _Antiques dealer._  
 __antsy__ _adj_ :two: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
@@ -416,8 +416,7 @@ __arrowroot__
 __arson__ _n_  
 __articulate<sup>1</sup>__ _adj_  
 __articulate<sup>2</sup>__ _v_  
-__artifact__ _n_ :two::hammer:  
-__artifacts__  
+__artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
 __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
@@ -1271,6 +1270,7 @@ __brig__
 __bright spark__ A clever person.  
 __bright__ :mute:[bri~~gh~~t]  
 __bright-orange__ _A bright-orange construction jumpsuit._  
+__brighten up__ _phr v_ To make a place more colourful and attractive.  
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
@@ -3235,9 +3235,8 @@ __drift__ _n_ :two::hammer: _You get the drift._
 __drifter__ _n_ :three::hammer:  
 __drifting__  
 __driftwood__ :two::hammer: _Driftwood logs._  
-__drill__ _v_  
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
-__drill<sup>2</sup>__ _v_ __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables."  
+__drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it's also to teach something by repeating facts over and over: "I hate math, because my teacher just drills multiplication tables." _And Gasol drills the ball._  
 __drink and use__  
 __drink like a fish__ To drink too much alcohol.  
 __drip-dry__ _Cotton drip-dry._  
@@ -4150,6 +4149,7 @@ __for the better__ _My luck did not change for the better upon arrival at the ba
 __for the most part__  
 __for the sake of__  
 __for what is worth__  
+__for__ _3 for 4 (attempts)._  
 __for-profit__  
 __forage<sup>1</sup>__ _n_  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
@@ -5855,6 +5855,7 @@ __keen__ _adj_ :nine::m: If you have a keen interest in something, you are reall
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
+__keep it under wraps__ _idiom_ Keep it a secret.  
 __keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
 __keep up__  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
@@ -6415,7 +6416,7 @@ __lyre__
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __M.O.__ Modus operandi?  
 __mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishes._  
-__macaroon__  
+__macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almonds or coconut.  
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
 __Mach number__ :pencil2:  
@@ -7257,13 +7258,16 @@ __on deck__
 __on edge__  
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on foot__ _I work to work on foot._  
+__on pins and needles__ _idiom_ Worried or excited about something.  
 __on the docket__  
 __on the fence__ _idiom_ Unable to make a decision.  
 __on the fly__  
 __on the hoof__  
 __on the run__  
 __on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
+__on the tip of your tongue__ _idiom_ About to be said or almost remembered.  
 __on the verge__  
+__on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
 __on three__ _On three: One, two, three!_  
 __on top of that__ _phr_ :two: _On top of that, ..._  
 __On top of that,__  
@@ -7367,6 +7371,7 @@ __outgoing__
 __outgrowth__  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
+__outie__ _idiom_ _slang_ Out of here; leaving. _That's it, I'm not waiting any longer—I'm outtie! No way, this is too gross for me! I'm outtie._  
 __outing__ _n_ :nine: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
 __outlander__  
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
@@ -7579,6 +7584,7 @@ __particle board__
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
 __partridge__ _n_ :two::hammer:  
 __party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
+__party line__ _n_  
 __party poppers__  
 __party__ _n_  
 __parvenu__  
@@ -7775,6 +7781,7 @@ __piano wire__
 __Picayune__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick a fight__  
+__pick and roll__  
 __pick me out__  
 __pick on__  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket's kiosk._ _His turnover-prone play doesn't pick up._  
@@ -7914,6 +7921,7 @@ __planter__ _My sidewalk planter._
 __plashed__ _v_  
 __plaster<sup>1</sup>__ _n_ (band-aid?) :two::hammer:(plasters) _Salves, poultices, and plasters._  
 __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
+__plastered__ _adj_ _slang_ Extremely drunk.  
 __plate__ _Baseball_  
 __plateau__  
 __plating__ _It's your armor plating._  
@@ -8342,7 +8350,7 @@ __punting__ _v_
 __puny__ _A puny garden snail._  
 __pupil__ _n_  
 __pupillary__ _adj_ _Pupillary distance._  
-__puppy love__ _n_ Adolescent love or infatuation.  
+__puppy love__ _n_ _slang_ Adolescent love or infatuation. Immature love between young people or children.  
 __puppy__  
 __pups__ _n_  
 __purée__  
@@ -9692,6 +9700,7 @@ __Silver State__ Nevada.
 __silverplate__ _v_  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
+__Simon Says__ _n_  
 __simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
@@ -10861,6 +10870,7 @@ __tartar__ _n_
 __tarts__ _n_ (whore)  
 __Taser__ _A Taser stun gun._  
 __tasked__ _v_  
+__tassel__ _n_  
 __tasseled__ _v_ :five::hammer: _Tasseled loafers._  
 __tassels__ _A thong with tassels._  
 __tassled__ _Tassled loafers._  
@@ -11315,6 +11325,7 @@ __trellis__ _n_ :five::hammer:
 __trellises__ _From his trellises._  
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
 __trench coat__ _n_  
+__trenchant__ _adj_  
 __trepidation__ _n_ :three::hammer:  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
