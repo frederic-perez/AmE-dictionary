@@ -1,26 +1,4 @@
 
-__stasis__  
-__yap__ _v_ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
-__whisk__ _v_ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
-__halve__ _v_  
-__cadre__ _n_  
-__contested shot__ _n_ (vs uncontested shot)  
-__uncontested shot__ _n_ (vs contested shot)  
-__hamstring__ _n_  
-
-__brownout__ _n_  
-__overzealous__ _n_  
-__workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
-__punch the (time) clock__ _idiom_ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
-__bozo__ _n_ _slang_ A man, esp a stupid one.  
-__deal breaker__  
-__shoulder__ _v_  
-__bowling alley__ _n_ __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
-__crux__ _n_ __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty.  
-
-__nip__ _n_ A small drink of spirits; dram.  
-__dish out__ _phr v_  
-__slew__  
 __get a kick out of (someone or something)__  
 __chuck__ _v_  
 __emery__ _n_  

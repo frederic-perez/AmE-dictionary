@@ -1188,14 +1188,14 @@ __bovine__ _n?_ Cow or bull (neutral). (?)
 __bow__ _n_ :four::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
-__bowling alley__  
+__bowling alley__ _n_ :two: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
 __box score__  
 __box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boycott__  
 __boycott<sup>1</sup>__ _n_ :astonished:  
 __boycott<sup>2</sup>__ _n_ :astonished:  
-__bozos__ _n_  
+__bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __brace yourself__ _idiom_ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven't been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
@@ -1315,7 +1315,7 @@ __brothers in arms__
 __brouhaha__ _n_ :three::hammer:  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
-__brownout__ _n_ A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
+__brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstones__ _n_  
 __bruin__  
 __bruited__  
@@ -1520,7 +1520,7 @@ __caddish__ :two::hammer:
 __Caddy__ Cadillac.  
 __cadence__ _n_  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
-__cadre__ _n_ :five::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
+__cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answer._ __2__ Crafty; shrewd: _a cagey lawyer._  
@@ -2269,6 +2269,7 @@ __contend__ _v_ :three::hammer: (contended)
 __content__  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
+__contested shot__ _n_ (vs uncontested shot)  
 __contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
 __continence__  
@@ -2549,7 +2550,7 @@ __crush<sup>1</sup>__ _I was crushed._
 __crush<sup>2</sup>__ _n_  
 __crusty__  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
-__crux__ _n_ :two::hammer: _The crux of the matter._  
+__crux__ _n_ :three: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty.  
 __cry foul__ :two::hammer: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __crybaby__ _n_ A person who cries or complains frequently with little cause.  
 __cryotherapy__  
@@ -2717,7 +2718,7 @@ __dead__ _Dead batteries._
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
-__dealbreaker__ _idiom_ :two: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__dealbreaker__ _idiom_ :three: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :dart::three::hammer:  
@@ -2986,7 +2987,7 @@ __disgorgement__
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
 __disguise__ :mute:[disg~~u~~ise]  
-__dish out__ _v_ :two::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
+__dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
 __dishing__ _v_  
@@ -4894,6 +4895,7 @@ __Halligan__ _They had Halligan bars for smashing windows._
 __hallmark__ _n_ :four::hammer:  
 __hallowed__ _adj_ :four::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
+__halve__ _v_  
 __ham hocks__ _n_ :two::hammer:  
 __ham-and-egg__ _A ham-and-egg lawyer._  
 __hamdbill__ _n_  
@@ -4901,7 +4903,7 @@ __hamlet__ _n_
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ _v_ :astonished::five::hammer: (hampered)  
-__hamstring__ _n_ :two::hammer:  
+__hamstring__ _n_ :three::hammer:  
 __hand blender__ _n_  
 __handglider__  
 __handily__  
@@ -7071,7 +7073,7 @@ __nine yards__ (the whole nine yards)
 __nineloss__ ?  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :four::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
-__nip<sup>2</sup>__ _n_ _There is a nip in the air._  
+__nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
 __niqab__ _v_  
 __nitpick<sup>1</sup>__ _n_  
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
@@ -7448,6 +7450,7 @@ __overtures__ _n_
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overwheening__  
 __overwrought__ _Overwrought adults_  
+__overzealous__ _n_  
 __owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
 __own goal__ _Mikael Lustig scored an own goal._  
 __own up__  
@@ -8334,6 +8337,7 @@ __pump__ _n_ :three::hammer: (gas?) _Attractive prices at the pump._ _I have see
 __pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
+__punch the (time) clock__ _idiom_ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
 __punctuate__  
@@ -9597,9 +9601,8 @@ __shot__ _(:es: javalina?)_
 __shotgun cottage__  
 __shotgun house__  
 __shotput__ _n_  
-__shoulder__ _v_  
 __shoulder<sup>1</sup>__ _n_ _Even pulling onto shoulder causes huge jams._  
-__shoulder<sup>2</sup>__ _v_  
+__shoulder<sup>2</sup>__ _v_ :three::hammer:  
 __shoulders__ :camera: _The shoulders of the freeway will be wider._  
 __shout-out > give a shout-out__  
 __shove off__ _v_  
@@ -10342,6 +10345,7 @@ __stark__ _adj_ :five::hammer: _A stark reminder._
 __starlings__ _n_  
 __startling__ :two::hammer:  
 __Stasi__  
+__stasis__  
 __stat sheet__ :two::hammer: _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
 __stat__ An abbreviation of the Latin _statim_, "immediately," often used in medical contexts.  
 __State Bar__ _A State Bar judge._  
@@ -11525,6 +11529,7 @@ __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Soc
 __uncanny valley__ _idiom_ :three::hammer:  
 __Uncle Sam__  
 __uncongenial__  
+__uncontested shot__ _n_ (vs contested shot)  
 __uncouth__  
 __uncrating__  
 __unction__ _n_  
@@ -12060,7 +12065,7 @@ __whirring__ _v_
 __whisk broom__  
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe's fastest elevator whisk you 24 floors in a mere 20 seconds._  
-__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
+__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream). _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
 __whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]  
 __whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
 __whisper__ :mute:[w~~h~~isper]  
@@ -12223,6 +12228,7 @@ __work on__ _phr v_ To spend time or improving something.
 __work out__ _phr v_ To find the answer or solution.  
 __workaday__  
 __workforce__  
+__workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
 __working title__  
 __workmanlike__  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
@@ -12295,7 +12301,7 @@ __yakety-yak__ _n_ Noisy talk.
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
-__yap<sup>1</sup>__ _v_ :two::hammer: (yapping) _The dog was yapping._  
+__yap<sup>1</sup>__ _v_ :three::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
 __yap<sup>2</sup>__ _n_ Mouth.  
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
