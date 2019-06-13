@@ -229,6 +229,7 @@ __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _
 __all over__ _Dick jokes all over._  
 __all that jazz__  
 __all that said,__  
+__all-nighters__ _n_  
 __all-out__ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
 __allay__ _v_ :four::hammer: (allayed)  
@@ -416,6 +417,7 @@ __arrowroot__
 __arson__ _n_  
 __articulate<sup>1</sup>__ _adj_  
 __articulate<sup>2</sup>__ _v_  
+__articulated__ _adj_ _A clearly articulated project._  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
@@ -1026,6 +1028,7 @@ __blotches__ _n_
 __blotter__ _n_ :five: __1__ Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
 __blotting__ _v_  
 __bloviate__ _v_  
+__blow away__ _phr v_ To surprise or amaze someone.  
 __blow it off__  
 __blow someone's mind__  
 __blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
@@ -1083,6 +1086,7 @@ __bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ 
 __bog<sup>1</sup>__ _n_ :three::hammer:  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_  
+__bogged down__ _phr v_  
 __boggles__ _v_  
 __bogs__  
 __boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek of his arse._  
@@ -1762,7 +1766,8 @@ __Cessna__
 __cesspool__ _n_ :seven::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
-__chafe__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
+__chafe<sup>2</sup>__ _n_  
+__chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafer__ _n_  
 __chagrin__  
 __chagrin<sup>1</sup>__ _n_ :seven: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
@@ -1904,7 +1909,7 @@ __Christian__ :mute:[C~~h~~ristian]
 __Christmas fly__  
 __Christmas__ :mute:[C~~h~~istmas]  
 __chuck out__ _v_  
-__chuck__ _v_ :six::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__chuck__ _v_ :seven::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckholes__ _n_  
 __chuckle__ _v_ :two::hammer:  
 __chucklers__  
@@ -2478,7 +2483,7 @@ __cribbage__ _game_
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ :two::hammer: _Crimson cereal._ _Her face went crimson._  
-__cringe__ _v_ :six: __1__ To shrink back, as in fear; cower. :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
+__cringe__ _v_ :seven: __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__  
@@ -3470,7 +3475,7 @@ __emceed__ _v_
 __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__ :two::hammer:  
 __emerity__ _Faculty emerity._  
-__emery__ _n_ :four::hammer: _An emery wheel._ _Emery paper._  
+__emery__ _n_ :five::hammer: _An emery wheel._ _Emery paper._  
 __eminent__  
 __emmetropia__ (?)  
 __emo__ _adj_ :two::hammer:  
@@ -4009,7 +4014,7 @@ __fleece__ _v_ :four::hammer: (fleeced)
 __fleecy__  
 __fleeting__  
 __fleetingly__  
-__flesh out__ _phr v_ :three::hammer: (fleshed out)  
+__flesh out__ _phr v_ :five::hammer: (fleshed out)  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
 __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
@@ -4462,7 +4467,7 @@ __gerrymander<sup>2</sup>__ _n_
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get a grip__  
 __get a jump__ _Get a jump on things._  
-__get a kick out of__ _You'll get a kick out of this!_  
+__get a kick out of (someone or something)__ _idiom_ :two::hammer: _You'll get a kick out of this!_  
 __get ahold__  
 __get along with__ _idiom_ To have a good relationship with someone.  
 __get away with__  
@@ -5223,6 +5228,7 @@ __hold a grudge__ _idiom_ To feel angry with someone who has done something to u
 __hold a referendum__  
 __hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
+__hold (one's) feet to the fire__ _idiom_ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
 __hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more day so I can answer your question._ _If the rain holds off._ :es: Si no llueve.  
 __hold one's pose__  
@@ -5961,6 +5967,7 @@ __know better__ _But I knew better._
 __know the ropes__ _idiom_ To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
 __knuckle duster__ _Thugs armed with a knuckle duster._  
+__knuckle sandwich__ _idiom_ A punch in the face.  
 __knuckle__ :mute:[~~k~~nuckle]  
 __knuckleball__ :two::hammer:  
 __knuckler__ :two::hammer: (knucklers)  
@@ -6233,7 +6240,7 @@ __limestone__ _n_ :two::hammer:
 __limned__  
 __limo__  
 __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
-__linchpin__ _n_ :four::hammer:  
+__linchpin__ _n_ :five::hammer:  
 __line up__ _v_  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -6269,6 +6276,7 @@ __lithotripter__ _n_
 __litigation__  
 __litigator__  
 __litter__ _n_ :camera::pencil2:  
+__live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live wire__  
 __livelihood__ _n_ :dart::two: (livelihoods) Occupation or employment.  
 __liverwurst__  
@@ -7117,6 +7125,7 @@ __nonsequitur__
 __nonstaff jobs__  
 __nonstop__  
 __noodle__ _n_ Brain. _Use your noodle._  
+__nookie__  
 __noose<sup>1</sup>__ _n_ :four::hammer: (noses)  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ Northern California.  
@@ -9292,6 +9301,7 @@ __screen door__ _n_ A door that consists of a frame holding metallic or plastic 
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
+__scribbled__ _v_  
 __scribe__ _n_ :two::hammer: (scribes)  
 __scrimmage<sup>1</sup>__ _n_ :three::hammer:  
 __scrimmage<sup>2</sup>__ _v_  
@@ -11978,6 +11988,7 @@ __weed out__ _phr v_ :dart::three: To get rid of unwanted things or people from 
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
 __weedeater__  
+__weeding__ _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __weekend__ _n_  
 __weeklong__ _A weeklong seminar._  
 __weevil__ :two::hammer: _Weevil worms._  
@@ -12342,6 +12353,7 @@ __yolk__ :mute:[yo~~l~~k]
 __YOLO__ You only live once.  
 __yonder__  
 __yore__ _?_ _Days of yore._  
+__you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
 __you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
 __your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  

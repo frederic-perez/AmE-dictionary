@@ -1,26 +1,4 @@
 
-__get a kick out of (someone or something)__  
-__chuck__ _v_  
-__emery__ _n_  
-__live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
-__knuckle sandwich__ _idiom_ A punch in the face.  
-__you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
-__blow away__ _phr v_ To surprise or amaze someone.  
-__chafe__ _n_  
-__nookie__  
-
-__weeding__ _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
-__scribbled__ _v_  
-__flesh out__ _phr v_  
-__linchpin__ _n_  
-__hold feet to the fire__ (?) _idiom_ _Someone holds everyone’s feet to the fire._  
-__flesh out__ _v_  
-__bogged down__ _phr v_  
-__grapple__ _v_  
-__articulated__ _A clearly articulated project._  
-__all-nighters__ _n_  
-
-__cringe__ _v_ _I cringed and rolled my eyes._  
 __whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _"The alarm goes off and—whammo!—we're all at our assigned stations" (Meg Greenfield)._  
 __possum__ _n_ :es: zarigüeya  
 __chow down__ _v_ _informal_ To eat heartily.  
