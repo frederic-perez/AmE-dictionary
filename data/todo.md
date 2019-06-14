@@ -1,26 +1,4 @@
 
-__whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _"The alarm goes off and—whammo!—we're all at our assigned stations" (Meg Greenfield)._  
-__possum__ _n_ :es: zarigüeya  
-__chow down__ _v_ _informal_ To eat heartily.  
-__cold turkey__ _n_  
-__deliberate__  
-__cajole__ _v_  
-__floor__ _v_ _I’m kinda floored by what I’m noticing._  
-
-__off__ _v_ _slang_ To murder, to kill.  
-__on a high horse___ _idiom_ To act as if you are better than other people.  
-__reckless__  
-__break into__ _phr v_ To enter some place forcibly.  
-__on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
-__peeps__ _n pl_ _slang_ Friends.  
-__on the same page__ _idiom_ To agree on something.  
-__innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
-
-__injuction__  
-__fudge<sup>1</sup>__ _n_  
-__fudge<sup>2</sup>__ _adj_  
-__fudge<sup>3</sup>__ _v_  
-__indefatigable__ _adj_  
 __forgiving__ _adj_  
 __fallible__ _adj_ :mega:  
 __outlook__ _n_  

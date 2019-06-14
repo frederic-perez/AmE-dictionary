@@ -1237,6 +1237,7 @@ __break (one's) neck__
 __break a leg__ _idiom_ :two: Good luck.  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
+__break into__ _phr v_ To enter some place forcibly.  
 __break the ice__ _idiom_ To make people who have not met before feel more relaxed with each other.  
 __break the mould__  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
@@ -1531,7 +1532,7 @@ __cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answ
 __cagily__ _adv_  
 __cagy__ _adj_ Variant of cagey.  
 __cahoots__  
-__cajole__ _v_ :five::hammer: (cajoled, cajoling)  
+__cajole__ _v_ :six::hammer: (cajoled, cajoling)  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
@@ -1904,6 +1905,7 @@ __chord__ :mute:[c~~h~~ord]
 __choreography__ :mute:[c~~h~~oreography]  
 __chortles__ _v_  
 __chorus__ :mute:[c~~h~~orus]  
+__chow down__ _v_ _informal_ To eat heartily.  
 __christening__ _n_  
 __Christian__ :mute:[C~~h~~ristian]  
 __Christmas fly__  
@@ -2099,7 +2101,7 @@ __coke-bottle glasses__
 __colander__  
 __cold duck__  
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
-__cold turkey__ _n_ __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
+__cold turkey__ _n_ :two: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
 __coleslaw__ _n_ :four::hammer:  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
@@ -2810,6 +2812,7 @@ __delectable__ _adj_ :three::hammer:
 __delegatable__ _Non-delegatable actions._  
 __deleterious__ _adj_ :four::hammer:  
 __deli__  
+__deliberate__  
 __delight__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
 __deliver__ _v_ :two::hammer: _Republicans apparently cannot deliver._  
@@ -4053,8 +4056,8 @@ __floodlamps__
 __floodlight__ _n_ :two::hammer:  
 __floor show__  
 __floor vote__ _n_  
-__floor__ _The floor is closed._  
-__floored__ :two::hammer: _I was completely floored._  
+__floor<sup>1</sup>__ _The floor is closed._  
+__floor<sup>2</sup>__ _v_ :three::hammer: (floored) _I’m kinda floored by what I’m noticing._ _I was completely floored._  
 __floozy__ A woman who has a lot of sexual relationships.  
 __flop<sup>1</sup>__ _n_ :five::hammer: _You stay at the flop he's got rented for you._ _One of the most expensive flop in Broadway history._ _Kevin Bell was a flop._  
 __flop<sup>2</sup>__ _v_ :three::hammer: (flops)  
@@ -4309,7 +4312,9 @@ __fuchsia__
 __fucking A__ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
-__fudge__ _v_ :three::hammer: _You can’t fudge this thinking._  
+__fudge<sup>1</sup>__ _n_  
+__fudge<sup>2</sup>__ _adj_  
+__fudge<sup>3</sup>__ _v_ :three::hammer: _You can’t fudge this thinking._  
 __fudging__ _Fudging statistics._  
 __fulcrum__ :two::hammer:  
 __fulfilling__  
@@ -5559,7 +5564,7 @@ __inculcate__ _v_
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
-__indefatigable__ _adj_ :four::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
+__indefatigable__ _adj_ :five::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
 __indefinite__  
 __indelible__ _adj_ :six::hammer::pencil2: _An indelible mark._  
 __indenture__ _v_  
@@ -5604,7 +5609,7 @@ __inhalant<sup>1</sup>__ _adj_
 __inhalant<sup>2</sup>__ _n_  
 __inimical__  
 __initiative__  
-__injunction__ _n_ :six: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
+__injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
 __inkling__ _n_ :three::hammer:  
@@ -5613,6 +5618,7 @@ __inlay<sup>1</sup>__ _v_
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
 __innards__ _v_ _The pictures adorn the innards of each chapter._  
 __innate__  
+__innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
 __innumerate__  
 __inobvious__  
 __inordinate__ _adj_ :three::hammer:  
@@ -7218,6 +7224,7 @@ __of late__ _adv_ :three: You use of late to refer to an event or state of affai
 __of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
+__off__ _v_ _slang_ To murder, to kill.  
 __off-kilter__ :two::hammer:  
 __off-price stores__  
 __off-putting__  
@@ -7261,6 +7268,7 @@ __ominously__
 __omission__  
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
 __omnibus__ _n_ :two::hammer:  
+__on a high horse__ _idiom_ To act as if you are better than other people.  
 __on a roll__ :two::hammer: _I'm on a roll._  
 __on a tear__ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ _idiom_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
@@ -7270,11 +7278,13 @@ __on edge__
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on foot__ _I work to work on foot._  
 __on pins and needles__ _idiom_ Worried or excited about something.  
+__on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
 __on the docket__  
 __on the fence__ _idiom_ Unable to make a decision.  
 __on the fly__  
 __on the hoof__  
 __on the run__  
+__on the same page__ _idiom_ To agree on something.  
 __on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
 __on the tip of your tongue__ _idiom_ About to be said or almost remembered.  
 __on the verge__  
@@ -7672,6 +7682,7 @@ __peek-a-view__
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peep__ _n_ :two::hammer:  
 __peeping Tom__ _idiom_ A person who secretly watches others, especially for sexual gratification; a voyeur.  
+__peeps__ _n pl_ _slang_ Friends.  
 __peer<sup>1</sup>__ _n_ (peers)  
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
 __peerless__  
@@ -8090,6 +8101,7 @@ __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Pos
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
+__possum__ _n_ :es: zarigüeya  
 __post hoc__  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ :two::hammer:  
@@ -8658,6 +8670,7 @@ __recess<sup>2</sup>__ _v_
 __recidivism__  
 __recidivist__ _n_ :four::hammer:  
 __recitalist__  
+__reckless__  
 __reckon__ _v_ :three::hammer:  
 __reckoning__ _n_  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
@@ -12023,6 +12036,7 @@ __wetbrain__
 __Whac-A-Mole__  
 __whackadoodle__  
 __whale__ :mute:[w~~h~~ale]  
+__whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _"The alarm goes off and—whammo!—we're all at our assigned stations" (Meg Greenfield)._  
 __whammy__ :two::hammer: _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
