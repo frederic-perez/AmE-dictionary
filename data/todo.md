@@ -1,4 +1,18 @@
 
+__file<sup>1</sup>__ _n_  
+__file<sup>2</sup>__ _v_ To smooth, reduce, or remove with or as if with a file.  
+__prodigal<sup>1</sup>__ _adj_  
+__prodigal<sup>2</sup>__ _n_  
+__flight__ _n_ :dart: A series of stairs rising from one landing to another.  
+__dingbat__ _n_  
+__ratchet-mouth__ _n_ _idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
+__bunion__ _n_  
+__peered__ _adj_  
+__galore__ _adv_  
+__drone__ _v_  
+__sciatica__  
+__sciatic__  
+
 __rock the boat__ _idiom_  
 __enthused__  
 __nerve-racking__ _adj_ (nerve-wracking)  
