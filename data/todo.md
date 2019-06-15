@@ -1,4 +1,17 @@
 
+__rock the boat__ _idiom_  
+__enthused__  
+__nerve-racking__ _adj_ (nerve-wracking)  
+__sitting on the fence__ _idiom_  
+__silver screen__  
+__time and (time) again__ _idiom_ Repeatedly; on multiple occasions.  
+__keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
+__shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
+__temperance__  
+__pay through the nose__  
+__true colors__  
+__fly on the wall__  
+
 __coercion__ _n_  
 __upheaval__ _n_ A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __upbeat__ _adj_ __1__ Optimistic: _an upbeat business forecast._ __2__ Happy; cheerful.  
