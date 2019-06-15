@@ -1,4 +1,17 @@
 
+__cost an arm and a leg__ _idiom_ To be extremely expensive.  
+__bring about__ _phr v_ To make something happen.  
+__throng__ _n_ A large gathering of people.  
+__direction__ _n_ :mega:  
+__ratty__ _adj_ _slang_ Dilapidated; in poor condition.  
+__open (one's) eyes__ _idiom_ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
+__bring off__ _phr v_ To succeed in doing something difficult.  
+__pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
+__ride__ _n_ _idiom_ A car.  
+__direction__ _n_ :mega:  
+__rip-off__ Something that is not worth what you pay for it.  
+__rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
+
 __forgiving__ _adj_  
 __fallible__ _adj_ :mega:  
 __outlook__ _n_  
