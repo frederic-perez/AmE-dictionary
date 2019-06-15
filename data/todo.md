@@ -1,4 +1,17 @@
 
+__crate__ _n_ _A crate of tomatoes._  
+__piece__ _n_ _A piece of cake._  
+__pot__ _n_ _A pot of coffee._  
+__busy bee__ An alert and energetic person.  
+__play footsie__ _idiom_ To flirt with someone by secretly touching feet.  
+__die down__ _phr v_ To lose strength; subside: _The winds died down._  
+__put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
+__put our heads together__ _idiiom_ To discuss or plan something together with other people.  
+__rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
+__seen (or known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
+__smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
+__espadrilles__ _n_  
+
 __file<sup>1</sup>__ _n_  
 __file<sup>2</sup>__ _v_ To smooth, reduce, or remove with or as if with a file.  
 __prodigal<sup>1</sup>__ _adj_  
