@@ -1,4 +1,17 @@
 
+__coercion__ _n_  
+__upheaval__ _n_ A state of violent disturbance and disorder (as in politics or social conditions generally).  
+__upbeat__ _adj_ __1__ Optimistic: _an upbeat business forecast._ __2__ Happy; cheerful.  
+__tip over__ _v_  
+__trustworthy__ _adj_  
+__originally__ _adv_ :dart:  
+__forever and a day__ _idiom_ __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
+__escalator__ _n_  
+__deliverance__ _n_  
+__milk__ _v_  
+__bring the house down__ _idiom_ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
+__janitor__ _n_  
+
 __cost an arm and a leg__ _idiom_ To be extremely expensive.  
 __bring about__ _phr v_ To make something happen.  
 __throng__ _n_ A large gathering of people.  
