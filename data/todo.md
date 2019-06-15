@@ -1,4 +1,17 @@
 
+__throw down<sup>1</sup>__ _v_  
+__throw down<sup>2</sup>__ _n_  
+__asunder__ _adv_  
+__hesitant__  
+__nurse__ _v_  
+__look up__ _Look up to your belongings._  
+__belongings__ _n pl_ Personal items that one owns; possessions. _Look up to your belongings._  
+__get over__  
+__PTSD__  
+__small potatoes__  
+__summit__ _n_  
+__road map__ _n_ :pencil2:  
+
 __crate__ _n_ _A crate of tomatoes._  
 __piece__ _n_ _A piece of cake._  
 __pot__ _n_ _A pot of coffee._  
