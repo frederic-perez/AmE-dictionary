@@ -475,7 +475,7 @@ __astride__ _adv_ :three::hammer:
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
-__asunder__ _A world torn asunder by evil and hate._  
+__asunder__ _adv_ :two::hammer: _A world torn asunder by evil and hate._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
@@ -835,6 +835,7 @@ __bells and whistles__ _pl n_ :four: Nonessential features or enhancements inten
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
 __belly flop__ _n informal_ :dart::two: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
+__belongings__ _n pl_ Personal items that one owns; possessions. _Look up to your belongings._  
 __belt out__  
 __belt socket__ _n_  
 __belt__ A swallow or a gulp of an alcoholic drink.  
@@ -1450,6 +1451,7 @@ __bustiers__ _n_
 __busting__ _v_ :two::hammer: _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :eight::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
+__busy bee__ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
 __butcher paper__  
 __butt crust__  
@@ -2448,7 +2450,7 @@ __crapshoot__
 __crash course__  
 __crash-land__ _v_ _A jet crash-landed in the city._  
 __crass__ _adj_ :three::hammer: _Crass attitudes._  
-__crate__ _n_ :two::hammer:  
+__crate__ _n_ :three::hammer: _A crate of tomatoes._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
 __craven__ :two::hammer: _A craven political figure._  
 __crawl<sup>1</sup>__ _n_  
@@ -2913,6 +2915,7 @@ __Dickensian__
 __diction__ _n_ :three::hammer: _The priest diction._  
 __diddle-shit__  
 __diddle-squat__  
+__die down__ _phr v_ To lose strength; subside: _The winds died down._  
 __die-cast__ _Merchandise and die-cast sales._  
 __die-hard__ Person who resists change.  
 __die-off__ _n_  
@@ -4487,6 +4490,7 @@ __get one's act together__ _informal_ Galvanize oneself into organizing one's af
 __get out of here__  
 __Get outta here!__ _idiom_  
 __get over someone's head__ _They're getting over their heads._  
+__get over__  
 __get set__ _v_  
 __get stops__ :two::hammer:  
 __get the axe__ _idiom_ To lose your job.  
@@ -5137,6 +5141,7 @@ __heron__ _n_ :three::hammer: (herons)
 __herring__ _n_ :two::hammer:  
 __herringbone__ _Basketball shoes with herringbone designs._  
 __Hershey, PA__ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey's chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called "Chocolatetown, USA." Hershey is also referred to as "The Sweetest Place on Earth."  
+__hesitant__  
 __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key set__ _Allen key set?_  
 __hex-breaking__ _Looking for a hex-breaking sign._  
@@ -6340,6 +6345,7 @@ __longstanding__ _adj_ :three::hammer:
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
+__look up__ _Look up to your belongings._  
 __lookalike__ _These lookalike domains are used for scams._  
 __looker__ _n_  
 __lookout__ :two::hammer: _Be on the lookout._  
@@ -7171,7 +7177,7 @@ __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are
 __numbly__  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
-__nurse<sup>2</sup>__ _v_ :two::hammer:  
+__nurse<sup>2</sup>__ _v_ :three::hammer:  
 __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
@@ -7824,6 +7830,7 @@ __piddle__ _v_
 __piddling__ _He had killed several hours with footless piddling._  
 __pie in the sky__ :two::hammer:  
 __piece of work__ _You're a piece of work, Bertrand._  
+__piece__ _n_ _A piece of cake._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
 __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
 __pied__  
@@ -7956,6 +7963,7 @@ __plaudits__
 __play ball__  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play down something__ _phr v_ To make something seem less important than it is.  
+__play footsie__ _idiom_ To flirt with someone by secretly touching feet.  
 __play havoc__  
 __play it safe__ _v_ :four::hammer: (play safe)  
 __play second fiddle__  
@@ -8110,7 +8118,7 @@ __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiratio
 __postmark__ _v_  
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
-__pot__ :two::hammer: _A pot of assets._ _Where are the pot bunkers?_  
+__pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
 __potatoes__ :pencil2:  
 __potent__ _adj_  
 __pothole__ _n_ :three::hammer: (potholes)  
@@ -8317,7 +8325,7 @@ __psychic__ :mute:[~~p~~sychic]
 __psychology__ :mute:[~~p~~sychology]  
 __psychopathic__  
 __pterodactyl__ :mute:[~~p~~terodactyl]  
-__PTSD__ _abbr_ :three: Post-traumatic stress disorder.  
+__PTSD__ _abbr_ :four: Post-traumatic stress disorder.  
 __public eye__  
 __public house__ _n_ :five::hammer: :es: taberna  
 __public housing__  
@@ -8401,9 +8409,11 @@ __pushy sales__
 __pushy__ _I guess I was a little pushy._  
 __pustules__ _n_  
 __put (one's) foot in (one's) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
+__put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
 __put it on the money__  
 __put on a clinic__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
+__put our heads together__ _idiiom_ To discuss or plan something together with other people.  
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put to the test__  
@@ -8954,6 +8964,7 @@ __river outfitter__
 __rivulets__  
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
+__road map__ _n_ :pencil2:  
 __road salt__ _n_  
 __roadblock__ _n_  
 __roadside__ _Roadside billboards._  
@@ -9929,7 +9940,7 @@ __sly__ _adj_ :nine: Having or showing a cunning and deceitful nature. _A sly sm
 __slyly__ :astonished: _She smiled slyly._  
 __smack__ _v_ :two::hammer: _He smacked his lips._  
 __small fry__ _adj_ (small-fry) Lacking importance.  
-__small potatoes__ _informal_ Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
+__small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small print__  
 __small__ _I rubbed the small of her back._  
 __smallpox__ :two::hammer:  
@@ -10663,6 +10674,7 @@ __sultry__ :two::hammer:
 __summarily__ _adv_  
 __summary__ :two::hammer: _Summary deaths._ _Summary killings._  
 __summertime__ _n_ :two::pencil2::hammer:  
+__summit__ _n_  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
 __Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
@@ -11068,6 +11080,8 @@ __throw (someone) under the bus__ _idiom_
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
 __throw away__ To get rif of something that you no longer want.  
+__throw down<sup>1</sup>__ _v_  
+__throw down<sup>2</sup>__ _n_  
 __throw in the towel__ :two::hammer:  
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __throw out the red meat__  
