@@ -60,7 +60,7 @@ __abuzz__ :two::hammer:
 __abysmal__  
 __abyss__ _n_ :astonished::mega::six:  
 __accidental__ _Ottolenghi is an accidental chef._  
-__accoitrements__  
+__accoutrement__ _n_ (accouterment)  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
@@ -85,7 +85,6 @@ __acme__
 __acne__ _n_ :mega::two::hammer:  
 __acolyte__ _n_ :four::hammer: (acolytes)  
 __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
-__acqua boots (or Acqua boots or something similar?)__ _n_  
 __acquaintances__ :pencil2:  
 __acquiesce__  
 __acquiescence__ _n_ :three::hammer:  
@@ -101,7 +100,7 @@ __ACT__ A college entrance exam, competitor to the SAT.
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
-__acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgements and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
 __ad lib__ _adv_  
 __ad__ _n informal_ Advertisement.  
@@ -117,7 +116,7 @@ __address__ _v_
 __adenoidal__  
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
-__adjourne__ _v_ _The trip was adjourned to Feb. 1._  
+__adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
 __adjudge__ _v_  
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
@@ -11997,7 +11996,7 @@ __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take 
 __weaponize__ _v_ :two::hammer:  
 __weary__  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
-__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include `Processor`, `Manager`, and `Super`._  
+__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor', 'Manager', and 'Super'._  
 __weather vane__  
 __weather__ _v_ :two::hammer: (weathering)  
 __weave<sup>1</sup>__ _n_  
