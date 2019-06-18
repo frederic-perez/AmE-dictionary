@@ -60,7 +60,6 @@ __abuzz__ :two::hammer:
 __abysmal__  
 __abyss__ _n_ :astonished::mega::six:  
 __accidental__ _Ottolenghi is an accidental chef._  
-__accoutrement__ _n_ (accouterment)  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
@@ -71,7 +70,7 @@ __account for__ _phr v_ To explain.
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
-__accoutrements__  
+__accoutrement__ _n_ :two::hammer: (accouterment)  
 __accrete__ _v_ :four: (accretes) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
@@ -1402,6 +1401,7 @@ __bungee running__
 __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to frame a guilty man._  
 __bungler__ :two::hammer: _Upper-crust bunglers._  
 __bungling__ Spoil by incompetence.  
+__bunion__ _n_  
 __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
 __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend's house._ __2__ To go to bed: _bunked down early._  
 __bunker oil__  
@@ -2945,6 +2945,7 @@ __dimwitted__
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
+__dingbat__ _n_  
 __dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinking__ _v_  
 __dinky__ :two::hammer: _A dinky little community._  
@@ -3265,7 +3266,8 @@ __drizzly__ :two::hammer:
 __drogue__ _Drogue parachutes._  
 __droit du seigneur__  
 __droll__ _adj_ :four::hammer: _There is room for droll comedy._ _Droll comic moments._  
-__drone__ _The drone of an outboard motor reverberated._  
+__drone<sup>1</sup>__ _The drone of an outboard motor reverberated._  
+__drone<sup>2</sup>__ _v_  
 __drop by__ _v_  
 __drop in the bucket__  
 __drop out__  
@@ -3545,6 +3547,7 @@ __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, s
 __entail__ _v_ :five::hammer: (entails)  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :eight: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
+__enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
 __enticing__  
 __entitle__ _v_ :four::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you're no longer entitled to on the NHS._  
@@ -3597,6 +3600,7 @@ __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from s
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__  
+__espadrilles__ _n_  
 __espouse__ _v_  
 __espousing__ _v_ _Espousing warm ties with Russia._  
 __essential__ _Special K - 8 essential vitamins._  
@@ -3897,7 +3901,8 @@ __figures__ :two::hammer: _It figures._
 __filched__  
 __file a case__ _v_  
 __file suit__ _v_  
-__file__ _v_  
+__file<sup>1</sup>__ _n_  
+__file<sup>2</sup>__ _v_ :two: To smooth, reduce, or remove with or as if with a file.  
 __filibuster__ _n_ :three::hammer:  
 __filings__  
 __Filipino__  
@@ -4026,7 +4031,7 @@ __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926
 __flick<sup>2</sup>__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
-__flight__ _n_ :three::mute:[fli~~gh~~t]:hammer: _A flight of steps._ _He climbed four flights of stairs._  
+__flight__ _n_ :dart::four::mute:[fli~~gh~~t] A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._  
 __flimflam__ _n_ :dart::two::hammer:  
 __flimsy__  
 __flinch<sup>1</sup>__ _n_  
@@ -4381,6 +4386,7 @@ __galleys__ _n_
 __galling__ _adj_ :four: Irritating, exasperating, or bitterly humiliating. _A galling loss._  
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
+__galore__ _adv_  
 __galoshes__ _n_  
 __galvanize__ _v_ :five::hammer: (galvanized)  
 __gambit__  
@@ -7690,6 +7696,7 @@ __peeping Tom__ _idiom_ A person who secretly watches others, especially for sex
 __peeps__ _n pl_ _slang_ Friends.  
 __peer<sup>1</sup>__ _n_ (peers)  
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
+__peered__ _adj_  
 __peerless__  
 __peeved__ _v_  
 __peevishly__  
@@ -8253,7 +8260,8 @@ __proceeds__ _n_ :seven: The money that has been gained from doing something or 
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod__ (prodded) :two::hammer: :es: _empujón_  
-__prodigal__  
+__prodigal<sup>1</sup>__ _adj_ :two::hammer:  
+__prodigal<sup>2</sup>__ _n_  
 __produce__ _n_ :two::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
@@ -8601,6 +8609,7 @@ __rat-fuck__ _v_
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __ratchet__ _n_ :three::hammer:  
+__ratchet-mouth__ _n_ _idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
@@ -8975,8 +8984,9 @@ __robe<sup>1</sup>__ _n_ :two::hammer: _The judge's robe._
 __robe<sup>2</sup>__ _v_  
 __robin-breasted__  
 __rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
-__rock the boat__ :two::hammer:  
+__rock the boat__ _idiom_ :three::hammer:  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
+__rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
 __rock-paper-scissors__ _Is this rock-paper-scissors?_  
 __rocket__ :mega:  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
@@ -9282,6 +9292,8 @@ __school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._
 __schooling__ _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
+__sciatic__  
+__sciatica__  
 __science__ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :two::hammer:  
 __scintillating__ _adj_ :three::hammer:  
@@ -9396,6 +9408,7 @@ __seediness__
 __seedy__ _A seedy world._  
 __seek out__  
 __seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
+__seen (or known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __seep__ _v_ :five: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Syn_ oze, trickle, exude, drip  
 __seepage__ :two::hammer:  
 __seer__ _n_  
@@ -9943,6 +9956,7 @@ __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportan
 __small print__  
 __small__ _I rubbed the small of her back._  
 __smallpox__ :two::hammer:  
+__smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ :two::hammer: _Smart riding-clothes._ _Smart tailored jackets._  
 __smarter than the average bear__  
