@@ -139,7 +139,6 @@ __advocacy__ :two::hammer:
 __aegis__  
 __aerials__  
 __aero-hydroponics__  
-__afantasia__ _n_  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affidavit__ _n_ :five::hammer:  
 __affiliate__  
@@ -154,7 +153,7 @@ __aficionado__
 __afield__  
 __afloat__  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
-__aforemention__ _v_ :two::hammer: (aforementioned)  
+__aforementioned__ _adj_ :two::hammer:  
 __afoul__ :two::hammer:  
 __aft__ :two::hammer: _Aft compartment._  
 __aftereffects__  
@@ -173,7 +172,6 @@ __aggravate__ _v_ (aggravated) :two::hammer:
 __aggravation__  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aghast__ _adj_ :six::hammer:  
-__agit__  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
@@ -213,7 +211,6 @@ __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunka
 __alcove__ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
-__alecky__ _Smart-alecky wit._  
 __alembic__ _n_  
 __Aleut__ _n_  
 __alfresco__ _It had two small terraces for alfresco dining._  
@@ -241,7 +238,7 @@ __allotted__
 __allowance__ _n_ :two::hammer:  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
-__almost surel__ _Apple almost surely will succeed in upgrading its security._  
+__almost surely__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :three::hammer: _Dwayane Wade raised three fingers aloft._  
 __along with__  
 __alongside__  
@@ -9959,6 +9956,7 @@ __smallpox__ :two::hammer:
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ :two::hammer: _Smart riding-clothes._ _Smart tailored jackets._  
+__smart-alecky__ _adj_ _informal_ Rude and disrespectful: _Smart-alecky wit._  
 __smarter than the average bear__  
 __smash hit__  
 __smash song__ _n_ _That was a smash song._  
