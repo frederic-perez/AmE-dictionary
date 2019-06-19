@@ -239,7 +239,7 @@ __allowance__ _n_ :two::hammer:
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
-__aloft__ _adv_ :three::hammer: _Dwayane Wade raised three fingers aloft._  
+__aloft__ _adv_ :three::hammer: _Dwyane Wade raised three fingers aloft._  
 __along with__  
 __alongside__  
 __aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
@@ -257,6 +257,7 @@ __aluminum__ _n_ :pencil2::three::hammer:
 __alumni__ :two::hammer:  
 __amalgam__  
 __amass__ _v_ :three::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
+__amass__ _v_ (amassed)  
 __ambitious__  
 __ambivalence__  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
@@ -266,11 +267,10 @@ __amends__
 __amenity__ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
 __amethyst__ _n_  
-__ametropy__ _n_  
+__ametropia__ _n_  
 __amid__  
 __amiss__ _adj_  
 __amity__  
-__ammassed__ _v_  
 __amnesty player__  
 __amount to__ _idiom_ :two::hammer:  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
@@ -299,7 +299,7 @@ __angler fish__ _n_ :camera:
 __angler__ _n_ :five::hammer: (anglers) _Fisher?_  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
-__angsty__ :two::hammer:  
+__angsty__ _adj_ :two::hammer:  
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
@@ -328,7 +328,6 @@ __any longer__
 __anything but__ _It is anything but sweet._  
 __anything goes__ :two::hammer:  
 __apace__ _Concussion concerns continue apace._  
-__apalled__ _adj_ :three: Shocked or dismayedfilled with horror.  
 __Apart from that,__  
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_  
@@ -346,6 +345,7 @@ __apostate__ _n_ :three::hammer: (apostates)
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
+__appalled__ _adj_ :three: Shocked or dismayedfilled with horror.  
 __appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
