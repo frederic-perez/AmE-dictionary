@@ -1,25 +1,4 @@
 
-__nerve-racking__ _adj_ (nerve-wracking)  
-__sitting on the fence__ _idiom_  
-__silver screen__  
-__time and (time) again__ _idiom_ Repeatedly; on multiple occasions.  
-__keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
-__shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
-__temperance__  
-__pay through the nose__  
-__true colors__  
-__fly on the wall__  
-
-__coercion__ _n_  
-__upheaval__ _n_ A state of violent disturbance and disorder (as in politics or social conditions generally).  
-__upbeat__ _adj_ __1__ Optimistic: _an upbeat business forecast._ __2__ Happy; cheerful.  
-__tip over__ _v_  
-__trustworthy__ _adj_  
-__originally__ _adv_ :dart:  
-__forever and a day__ _idiom_ __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
-__escalator__ _n_  
-__deliverance__ _n_  
-__milk__ _v_  
 __bring the house down__ _idiom_ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __janitor__ _n_  
 

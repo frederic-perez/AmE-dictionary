@@ -2080,6 +2080,7 @@ __coddled__ _v_ :three::hammer: _A coddled creature._
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerce__ _v_  
 __coerced__  
+__coercion__ _n_  
 __coffee-table book__  
 __coffer__ _n_ :six::hammer: (coffers) _San Francisco city coffers._ _State's coffers._ :es: arca  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
@@ -2814,7 +2815,7 @@ __deliberate__
 __delight__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
 __deliver__ _v_ :two::hammer: _Republicans apparently cannot deliver._  
-__deliverance__ _n_ :three::hammer: _Hope and deliverance._  
+__deliverance__ _n_ :four::hammer: _Hope and deliverance._  
 __delivered__ _On Thursday the No. 4-ranked Cougars delivered._  
 __delivers__  
 __delivery note__  
@@ -3592,6 +3593,7 @@ __erstwhile__ :two::hammer:
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
+__escalator__ _n_  
 __escapade__ _n_ :dart:  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
@@ -4104,7 +4106,7 @@ __fluttering__ _n_
 __fly high__  
 __fly in the ointment__ _idiom_ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ _idiom_ To lose self control, to get very angry.  
-__fly on the wall__  
+__fly on the wall__ _idiom_ :two::hammer:  
 __fly-by-night__  
 __flyboard__  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
@@ -4192,6 +4194,7 @@ __foreshadow__ _v_ :two::hammer:
 __Forest Recreation Park__  
 __forestall__ _v_ :four: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
 __foretell__  
+__forever and a day__ _idiom_ __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
@@ -5873,6 +5876,7 @@ __Katy__ _Got to figure the Red Rifle extracts some revenge on the team he follo
 __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
+__keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
@@ -6716,7 +6720,7 @@ __mile-a-minute__ _A mile-a-minute talker._
 __mileage__  
 __militias__ :two::hammer:  
 __milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
-__milk__ _v_ :two::hammer: _Milk the clock._  
+__milk__ _v_ :three::hammer: _Milk the clock._  
 __milkweed__  
 __mill__ _n_ A million dollards.  
 __milled about__ _v_  
@@ -7051,7 +7055,7 @@ __nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. 
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerve agent__  
 __nerve__ :two::hammer: _He's got nerve._  
-__nerve-racking__ _adj_ :three::hammer: (nerve racking)  
+__nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)  
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :seven::hammer: (nestled)  
@@ -7349,6 +7353,7 @@ __ordinance__ _n_ :three::hammer: _Ordinance worker._
 __ordnance__ _n_ :three::pencil2::hammer:  
 __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
 __organization__ _n_ :mega:  
+__originally__ _adv_ :dart:  
 __ornament__  
 __ornate__ _n_ :five::hammer:  
 __orneriness__ :two::hammer:  
@@ -7659,6 +7664,7 @@ __pavilions__
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
 __pay off__ _v_  
+__pay through the nose__  
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__  
 __paydirt__ :two::hammer:  
@@ -9588,6 +9594,7 @@ __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.
 __shirttail__ _n_  
 __shit list__ _n phr_ One's fancied or real list of persons who are hated, not trusterd, to be avoided, etc.  
 __shit-canning__  
+__shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
 __shitcan__ _v_  
 __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
 __shitless__ _They were scared shitless._  
@@ -9742,6 +9749,7 @@ __sill__ :two::hammer:
 __silly boy__  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
 __silver lining__ (See "every cloud has a silver lining.")  
+__silver screen__  
 __Silver State__ Nevada.  
 __silverplate__ _v_  
 __simmer down__  
@@ -9774,6 +9782,7 @@ __sit-down__ _n_ _Johnny Carp says he wants another sit-down._
 __sitdown__ _n_ :two::hammer:  
 __sitter__ _n_  
 __sitting duck__  
+__sitting on the fence__ _idiom_  
 __sitting pretty__ :two::hammer:  
 __sitting<sup>1</sup>__ _n_  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
@@ -10975,6 +10984,7 @@ __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._
 __temper__ _v_ :four::hammer: (tempered)  
 __tempera__ _n_  
 __temperament__  
+__temperance__  
 __tempering__ _adj_ _A tempering experience_  
 __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempestuous__  
@@ -11156,7 +11166,7 @@ __tiki__ :two::hammer: _Tiki sensibility._
 __tilapia__  
 __tiller__  
 __tiltyard__  
-__time and again__ :two::hammer::dart:  
+__time and (time) again__ _idiom_ :three::dart: Repeatedly; on multiple occasions.  
 __time capsule__ _n_ :three::hammer:  
 __time frame__  
 __time line__ _Can it be done in that time line?_  
@@ -11181,7 +11191,7 @@ __tinker__ _v_ :three::hammer:
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
 __tip off__ _v_ _idiom_ :three: (tip-off) To secretly inform the police or authorities.  
-__tip over__ _v_  
+__tip over__ _v_ :two::hammer:  
 __tip-top__ _adj_ _informal_ Excellent.  
 __tipoff__ _n_ :two::hammer: (tip-off)  
 __tipple__ _v_ :five::hammer: (tippled)  
@@ -11445,6 +11455,7 @@ __truck__ _v_ _They will not truck with terrorists._
 __truculent__ :two::hammer:  
 __trudge__ _v_ :seven::hammer: (trudging)  
 __trudging in__ _v_  
+__true colors__  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
 __truism__  
@@ -11458,6 +11469,7 @@ __trussed__ _v_ :three::hammer:
 __trust company__  
 __trustees__ :two::hammer: _Board of Trustees_  
 __trusties__  
+__trustworthy__ _adj_  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __tryouts__ :two::hammer:  
@@ -11691,13 +11703,13 @@ __up for grabs__ _idiom_ :two: Available for anyone.
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
-__upbeat__ _adj_ :three::hammer: _An upbeat approach._ _He's extremely upbeat during down times._  
+__upbeat__ _adj_ :four: __1__ Optimistic: _an upbeat business forecast._ _An upbeat approach._ _He's extremely upbeat during down times._ __2__ Happy; cheerful.  
 __upcoming__  
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upfront__ _adj_  
-__upheaval__ _n_ :six::hammer:  
+__upheaval__ _n_ :seven: A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill battle__ _idiom_ :two: Something very difficult to do.  
 __uphill__ :two::hammer: _An uphill task._ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
