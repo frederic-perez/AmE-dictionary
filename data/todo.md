@@ -1,4 +1,17 @@
 
+__cuckold<sup>1</sup>__ _n_  
+__cuckold<sup>2</sup>__ _v_  
+__thread the needle__  
+__ungodly__ _adj_  
+__telekinesis__ _n_ :mega:  
+__reveal__ _n_  
+__pay through the nose (for something)__ _idiom_  
+__zero point__ _n_  
+__exec__  
+__Simon Says__  
+__breaking character__  
+__figure out__ _phr v_  
+
 __bring the house down__ _idiom_ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __janitor__ _n_  
 
