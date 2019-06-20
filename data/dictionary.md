@@ -256,8 +256,7 @@ __alum__ _n_ :three::hammer: _A Vanderbilt alum._
 __aluminum__ _n_ :pencil2::three::hammer:  
 __alumni__ :two::hammer:  
 __amalgam__  
-__amass__ _v_ :three::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
-__amass__ _v_ (amassed)  
+__amass__ _v_ :four::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __ambitious__  
 __ambivalence__  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
@@ -1242,6 +1241,7 @@ __break your duck__ _idiom_ To do something for the first time.
 __break-the-china__  
 __breakaway__ :two::hammer:  
 __breakdown__ _n_ :two::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
+__breaking character__  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakneck__ _They are on a breakneck pace._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
@@ -1275,8 +1275,10 @@ __brighten up__ _phr v_ To make a place more colourful and attractive.
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring about__ _phr v_ To make something happen.  
 __bring home the bacon__ _idiom_ To earn money to live on.  
 __bring it on__ _idiom_ To begin a fight or competition.  
+__bring the house down__ _idiom_ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __briny__ _adj_  
 __brise-soleil__ _Brise-soleil shading._  
 __brisk__ _adj_ :three::hammer: _Brisk pace._  
@@ -2360,6 +2362,7 @@ __corsages__
 __cortisol__ _Cortisol is the primary stress hormone._  
 __cosset__ _v_  
 __cosseted__  
+__cost an arm and a leg__ _idiom_ To be extremely expensive.  
 __costliest__ :two::hammer:  
 __costumier__ _n_  
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
@@ -2566,8 +2569,8 @@ __crystal meth__
 __crystal__ _Meth?_  
 __crystalline__ _Cristalline lens._  
 __cubbyhole__ _n_ (cubby-hole) :two::hammer:  
-__cuckold<sup>1</sup>__ _n_ :two::hammer:  
-__cuckold<sup>2</sup>__ _v_ :two::hammer:  
+__cuckold<sup>1</sup>__ _n_ :three::hammer:  
+__cuckold<sup>2</sup>__ _v_ :three::hammer:  
 __cuckolded__ _adj_ :two::hammer:  
 __cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
@@ -2957,6 +2960,7 @@ __dipsomania__
 __dipstick__  
 __dire__ _adj_ :eight: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
 __direct object__  
+__direction__ _n_ :mega:  
 __dirge__  
 __dirges__ _n_  
 __dirigiste__  
@@ -3648,7 +3652,7 @@ __excruciate__
 __excruciating__ _adj_ :two: Very painful.  
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __exe__ :mega:  
-__exec__ _n informal_ :three: (execs) An executive. _I'm a retired tech exec._  
+__exec__ _n informal_ :four: (execs) An executive. _I'm a retired tech exec._  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
@@ -3892,7 +3896,7 @@ __fight club__
 __fight__ :mute:[fi~~gh~~t]  
 __figments__  
 __figuratively__ _adv_  
-__figure out__ _v_  
+__figure out__ _phr v_ :two::hammer:  
 __figure skates__ _n_  
 __figure__ _5-figure price tag._  
 __figurehead__ :two::hammer:  
@@ -5739,6 +5743,7 @@ __jampacked__ _v_
 __jams__ _n_  
 __Janes and Joes__ :pencil2: _Regular Janes and Joes._  
 __jangled__ _v_  
+__janitor__ _n_  
 __jape__ _v_  
 __jar__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jaundice__ _v_ :three::hammer:  
@@ -7330,6 +7335,7 @@ __oompah__ :two::hammer: _The house oompah band._
 __oomph__ :two::hammer:  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
+__open (one's) eyes__ _idiom_ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ _idiom_ :two: To create a situation that will cause a lot of problems.  
 __open house__ :three::hammer: _Educational open house._  
 __open loop__  
@@ -7664,7 +7670,7 @@ __pavilions__
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
 __pay off__ _v_  
-__pay through the nose__  
+__pay through the nose (for something)__ _idiom_ :two::hammer:  
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__  
 __paydirt__ :two::hammer:  
@@ -8626,6 +8632,7 @@ __rattlers__
 __rattlesnake__  
 __rattling<sup>1</sup>__ _n_  
 __rattling<sup>2</sup>__ _v_  
+__ratty__ _adj_ _slang_ Dilapidated; in poor condition.  
 __raucous__ _adj_ :eight: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
 __raunchy__ _adj informal_ :four::hammer: _A raunchy comedy._  
@@ -8880,6 +8887,7 @@ __Reuben James__
 __Reuben__ (A type of sandwich?)  
 __reunion__ An instance of two or more people coming together again after a period of separation.  
 __reunite__ _v_  
+__reveal__ _n_  
 __revel__ _v_  
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick's day revelers._ _Mardi Gras revelers._  
 __reveling__ :two::hammer:  
@@ -9754,7 +9762,7 @@ __Silver State__ Nevada.
 __silverplate__ _v_  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
-__Simon Says__ _n_  
+__Simon Says__ _n_ :two::hammer:  
 __simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
@@ -10972,6 +10980,7 @@ __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A simi
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
 __tektite__ _n_ :pencil2:  
 __telegenic__  
+__telekinesis__ _n_ :mega:  
 __televangelist__ _n_  
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
@@ -11086,12 +11095,13 @@ __thoroughly__
 __thought__ :mute:[thou~~gh~~t]  
 __thrall__ _n_ :six::hammer:  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
+__thread the needle__  
 __Three Lions__ _A message to the Three Lions._  
 __thrifty__ _adj_ :two::hammer:  
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :four::hammer:  
-__throng__ _n_ :five::hammer: _A throng of news media members._  
+__throng__ _n_ :six: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
@@ -11647,6 +11657,7 @@ __unflinching__ :two::hammer:
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unfurl__ (unfurling) :two::hammer:  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
+__ungodly__ _adj_  
 __ungulate__  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
@@ -12430,6 +12441,7 @@ __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the sp
 __zeppelin__ _n_  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
+__zero point__ _n_  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__ :two::hammer:  
