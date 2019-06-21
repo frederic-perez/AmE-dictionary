@@ -1,26 +1,4 @@
 
-__bring off__ _phr v_ To succeed in doing something difficult.  
-__pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
-__ride__ _n_ _idiom_ A car.  
-__direction__ _n_ :mega:  
-__rip-off__ Something that is not worth what you pay for it.  
-__rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
-
-__forgiving__ _adj_  
-__fallible__ _adj_ :mega:  
-__outlook__ _n_  
-__abreast__  
-__exacerbate__ _v_  
-__treacherous__ _adj_  
-__tattle__ _v_  
-
-__stamp out__ _phr v_ End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._  
-__unheard of__ _It's not unheard of for individual contributors to question their superiors' decisions._  
-__fallible__ _Managers are as fallible as the rest of us._  
-__troubleshoot__ _v_  
-__inkling__ _n_  
-__equitably__ _adv_ :es: de forma equitativa  
-__readily__ _adv_  
 __gung ho__ _adj_ _slang_ (gung-ho) Extremely enthusiastic and dedicated.  
 
 __get to somebody__ _phr v_ To make someone feel upset or angry. _You shouldn't let your flatmates get to you._  

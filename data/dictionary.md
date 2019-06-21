@@ -47,7 +47,7 @@ __abounds__
 __about-face__  
 __aboveboard__  
 __abrade__ _v_  
-__abreast__ _adv_ :five: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
+__abreast__ _adv_ :six: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abrogation__ :two::hammer:  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
@@ -1278,6 +1278,7 @@ __bring (one) to one's feet__ To make someone or an audience rise up applauding 
 __bring about__ _phr v_ To make something happen.  
 __bring home the bacon__ _idiom_ To earn money to live on.  
 __bring it on__ _idiom_ To begin a fight or competition.  
+__bring off__ _phr v_ To succeed in doing something difficult.  
 __bring the house down__ _idiom_ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __briny__ _adj_  
 __brise-soleil__ _Brise-soleil shading._  
@@ -2960,7 +2961,7 @@ __dipsomania__
 __dipstick__  
 __dire__ _adj_ :eight: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe's health again appeared dire last weekend._  
 __direct object__  
-__direction__ _n_ :mega:  
+__direction__ _n_ :two::mega:  
 __dirge__  
 __dirges__ _n_  
 __dirigiste__  
@@ -3588,6 +3589,7 @@ __equine<sup>1</sup>__ _adj_
 __equine<sup>2</sup>__ _n_  
 __equinox__  
 __equipped__  
+__equitably__ _adv_ :es: de forma equitativa  
 __equity__  
 __er__ :two::hammer: _It does look, er, distinctive._  
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
@@ -3638,7 +3640,7 @@ __eviscerate__ _v_
 __evolve__ _v_  
 __ewer__ _n_  
 __ewes__ _n_  
-__exacerbate__ _v_ :eight: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__exacerbate__ _v_ :nine: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceedingly__  
 __excelsior__  
@@ -3748,7 +3750,7 @@ __fall over__ _v_
 __fall short__ _v_ :six: To fail to achieve a goal or target.  
 __fallacy__ _n_ :three::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
-__fallible__  
+__fallible__ _adj_ :three::mega::hammer: _Managers are as fallible as the rest of us._  
 __falloff__  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
@@ -4204,6 +4206,7 @@ __forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser m
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
 __forgive__ _Forgive me, master._  
+__forgiving__ _adj_  
 __forgo__ _v_ :nine: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgone__  
 __fork__ _Gordon at fork in the road._  
@@ -5626,7 +5629,7 @@ __initiative__
 __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
-__inkling__ _n_ :three::hammer:  
+__inkling__ _n_ :four::hammer:  
 __inland__  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
@@ -7419,7 +7422,7 @@ __outlast__ _v_
 __outlay__ _Budget outlays._  
 __outlays__ _n_  
 __outline__ _n_  
-__outlook__ _n_ :two::hammer:  
+__outlook__ _n_ :three::hammer:  
 __outmanned__ _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
@@ -7851,6 +7854,7 @@ __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piece
 __pied__  
 __pied-à-terre__ :two::hammer: (pieds-à-terre) _Use as pied-à-terre is allowed._  
 __pietist__  
+__pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
 __piggish__  
@@ -8662,7 +8666,7 @@ __reach for the stars__ Have high or ambitious aims.
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
 __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
-__readily__ :two::hammer:  
+__readily__ _adv_ :three::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
 __readying__ _v_ :astonished:  
@@ -8930,6 +8934,7 @@ __ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
+__ride__ _n_ _idiom_ A car.  
 __ridership__ :two::hammer:  
 __RIF__ _Reading Is Fundamental._  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
@@ -8963,6 +8968,7 @@ __rink__ _n_
 __riotous__ :two::hammer:  
 __rip your wiring out__  
 __rip__ _The bullets rip._  
+__rip-off__ Something that is not worth what you pay for it.  
 __riparian__ _Riparian woodland._  
 __ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. _Four large ripe tomatoes._ __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
 __ripe-smelling__ _The ripe-smelling barn._  
@@ -9087,6 +9093,7 @@ __rub elbows__ _v_
 __rub<sup>1</sup>__ _n_ :two::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
 __rub<sup>2</sup>__ _v_  
 __rubbings__ _n_  
+__rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
 __rubble__ _n_ :two::hammer:  
 __rucksack__ _n_ :two::hammer:  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
@@ -10373,7 +10380,7 @@ __stamina__ _n_ :three::hammer:
 __stammer<sup>1</sup>__ _n_  
 __stammer<sup>2</sup>__ _v_  
 __stammers__ _The consensus was shrugs and stammers._  
-__stamp out__ _Policemen took their own steps to stamp out smoking on the railways._  
+__stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp__ _Additional stamp duties went into effect last year._  
 __stamped__  
 __stance__ _n_ :six: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
@@ -10946,6 +10953,7 @@ __tater tots__ _The refrigerated warehouse holds millions of pounds of tater tot
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
+__tattle__ _v_  
 __tattling__  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _v_ :six::hammer: (taunted, taunting)  
@@ -11384,6 +11392,7 @@ __travelogue__ _n_ :two::hammer:
 __travesty__ _n_ :three::hammer: (travesties)  
 __trawled__ _v_  
 __trawler__  
+__treacherous__ _adj_  
 __treachery__ _n_ :three::hammer:  
 __treacly__ :two::hammer:  
 __tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
@@ -11452,7 +11461,7 @@ __troposphere__
 __trot line__  
 __trot out__  
 __trot__  
-__troubleshoot__ _v_  
+__troubleshoot__ _v_ :two::hammer:  
 __troubleshooter__  
 __trough__ _n_ :four: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :five::hammer: (trounces, trounced) _Drama trounces trauma!_  
@@ -11659,6 +11668,7 @@ __unfurl__ (unfurling) :two::hammer:
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungodly__ _adj_  
 __ungulate__  
+__unheard of__ _It's not unheard of for individual contributors to question their superiors' decisions._  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
 __unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
