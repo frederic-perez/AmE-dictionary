@@ -1,4 +1,15 @@
 
+__ballet flats__ _n_  
+__galoshes__ _n_  
+__jump boots__ _n_  
+__mukluk__ _n_ (mukluks) __1__ A soft boot made of reindeer skin or sealskin and worn by Eskimos. __2__ A slipper with a soft sole resembling this boot.  
+__put your money where your mouth is__ _idiom_ :dart: To do something rather than to just talk about it.  
+__come across__ _phr v_ To meet someone, or to find something by chance. _You're reading a magazine. You come across a full-page nude photo of a girl._   
+__build on__ _idiom_ To add to what you’ve already succeeded in doing.  
+__staycation__ _n_ _informal_ A vacation spent at home.  
+__second banana__ _n_ _slang_ A person who is less important than his or her partner.  
+__snoozer__ _n_ Something that is very boring.  
+
 __give someone a break__ _informal_ Stop putting pressure on someone about something.  
 __botch<sup>1</sup>__ _v_  
 __botch<sup>2</sup>__ _n_  
