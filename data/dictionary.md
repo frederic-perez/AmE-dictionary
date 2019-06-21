@@ -303,7 +303,7 @@ __anguish<sup>1</sup>__ _n_
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :eight: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
-__animus__ _n_ :three::pencil2::hammer: :es: odio _The animus between the Yankees and Red Sox._  
+__animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
 __ankle-biter__ Child.  
 __annihilation__ :pencil2::mega:  
 __anniversary__ :pencil2::mega:  
@@ -344,7 +344,7 @@ __apostate__ _n_ :three::hammer: (apostates)
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
-__appalled__ _adj_ :three: Shocked or dismayedfilled with horror.  
+__appalled__ _adj_ :three: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
@@ -354,7 +354,7 @@ __appease__ _v_ :two: __1__ Pacify or placate (someone) by acceding to their dem
 __appeasement__  
 __appeases__ _v_  
 __appellate__ _adj_ :three::hammer:  
-__appetizer__ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
+__appetizer__ _n_ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __applesauce__  
 __apportion__ _v_  
@@ -370,7 +370,7 @@ __approval rating__ _Park's approval rating has plummeted._
 __apropos__ _prep_ :two::mega::hammer:  
 __apt__  
 __aquanaut__ _n_  
-__aquaponic__  
+__aquaponics__ _n_  
 __aquifer__ _n_ :two::hammer:  
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::hammer: _An arbor of live oaks._  
@@ -387,7 +387,7 @@ __archipelago__ :two::hammer::pencil2: _Archipelago nation._
 __architect__ :mute:[arc~~h~~itect]  
 __archivist__  
 __archrival__ _n_  
-__ardent__ :two::hammer: _He was one of her most ardemt suitors._  
+__ardent__ :two::hammer: _He was one of her most ardent suitors._  
 __arduous__  
 __Argentine__ _The pope is an Argentine._  
 __arguably__ :two::hammer:  
@@ -443,7 +443,7 @@ __ask over__ _phr v_ To invite people to your house.
 __asp__ _n_  
 __aspen__  
 __aspersion__ _n_  
-__asphalt__ The word "chapapote" means sticky oil or asphalt on the sand. _Asphalt rafts floating in the shore._ :es: chapapote  
+__asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
 __aspherical__ _adj_  
 __aspire__ _v_  
 __aspirin__ _n_ :mega:  
