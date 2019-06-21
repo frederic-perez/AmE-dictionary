@@ -1,4 +1,24 @@
 
+__give someone a break__ _informal_ Stop putting pressure on someone about something.  
+__botch<sup>1</sup>__ _v_  
+__botch<sup>2</sup>__ _n_  
+__botched__ _adj_ Spoiled through incompetence or clumsiness; _a botched job; a bungled job._  
+__deep cuts__ :two::hammer:  
+__offing__ _n_  
+__step up__ _phr v_ :two::hammer:  
+__go off__ _phr v_  
+__no-no__ _n_  
+__hurdle__ _n_  
+__prick__ _v_  
+__crave__ _v_  
+__beat the shit out of (someone)__  
+__flight__ _n_ (of stairs)  
+__limerick__ _n_ :two::hammer:  
+__Ozzy__ _n_ (Ozzie) A masculine given name, often a short form of Osvaldo, Oscar, Osborne, etc.  
+__son of a gun__  
+__rightfully__ _adv_ _Rightfully so!_ :es: ¡Con razón!  
+__paywall__ _n_ A feature of a website that denies access to certain content to users who have not paid to view it.  
+__floor__ _n_ _I'll ask as soon as the floor is opened._  
 __gung ho__ _adj_ _slang_ (gung-ho) Extremely enthusiastic and dedicated.  
 
 __get to somebody__ _phr v_ To make someone feel upset or angry. _You shouldn't let your flatmates get to you._  
