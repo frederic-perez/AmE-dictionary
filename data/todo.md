@@ -1,4 +1,19 @@
 
+__unflappable__  
+__lowdown__ _n_ __1__ The real and unadorned facts: _Give me the lowdown on the situation. _  
+__cacophony__ _n_    
+__carafe__ _n_  
+__blemish__ _n_  
+__in (all) fairness (to one)__ _idiom_  
+__alembic__  
+__sugarcoat (something)__ _idiom_  
+__raptor__ _n_  
+__roundup__ _n_  
+__dethrone__ _v_  
+__nix<sup>1</sup>__ _n_  
+__nix<sup>2</sup>__ _interj_  
+__nix<sup>3</sup>__ _v_ :dart: (nixes)  
+
 __unfold__ _v_  
 __unapologetic__ _adj_  
 __tail end__ _n_ :pencil2:  
