@@ -1,4 +1,17 @@
 
+__unfold__ _v_  
+__unapologetic__ _adj_  
+__tail end__ _n_ :pencil2:  
+__circumvent__ _v_  
+__bouquet__ _n_ __1__ A small cluster or arrangement of flowers. __2__ A fragrant smell, especially of a wine or liqueur.  
+__tender<sup>1</sup>__ _adj_  
+__tender<sup>2</sup>__ _v_  
+__tender<sup>3</sup>__ _n_ __1__ Something that can be used as an official medium of payment. _Syn_ stamp __2__ Someone who waits on or tends to or attends to the needs of another. _Syn_ attendant __3__ A formal proposal to buy at a specified price. _Syn_ bid  
+__buzzkill__  
+__daunting__  
+__inclusive__  
+__watch (one's) step__ _idiom_  
+
 __ballet flats__ _n_  
 __galoshes__ _n_  
 __jump boots__ _n_  
