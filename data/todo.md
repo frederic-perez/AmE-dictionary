@@ -1,4 +1,18 @@
 
+__down-to-earth__  
+__gas guzzler__  
+__vestibule__  
+__amp up__ (amping up)  
+__upper__ _n_ (uppers)  
+__Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
+__whoa__  
+__sugary yogurt__  
+__layup__ _n_  
+__clincher__ _n_  
+__judgment__ _n_ :pencil2:  
+__on the rise__ _idiom_  
+__attendee__ _n_ :mega:  
+
 __OCD__  
 __rant__ _n_  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
