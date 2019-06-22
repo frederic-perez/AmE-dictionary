@@ -1,4 +1,17 @@
 
+__OCD__  
+__rant__ _n_  
+__fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
+__contraption__  
+__decimation__  
+__pipeline__  
+__stifle__ _v_  
+__knock on wood__ _idiom_  
+__reconcile__ _v_  
+__subside__ _v_  
+__self-esteem__ _n_  
+__treasure__ _v_  
+
 __race against time__ _idiom_ To do something very quickly.  
 __let down__ _phr v_ To disappoint someone by failing to do what they expect you to do.  
 __shoot your mouth off__ _idiom_ To boast or talk too much, to tell secrets.  
