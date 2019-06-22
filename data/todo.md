@@ -1,4 +1,15 @@
 
+__race against time__ _idiom_ To do something very quickly.  
+__let down__ _phr v_ To disappoint someone by failing to do what they expect you to do.  
+__shoot your mouth off__ _idiom_ To boast or talk too much, to tell secrets.  
+__threads__ _pl n_ _slang_ Clothes.  
+__set back__ _phr v_  __1__ To hinder; impede. __2__ _informal_ To cost (a person) a specified amount.  
+__ministry__ _n_  
+__wallflower__ _idiom_ Someone who remains on the outer edges of a social event, especially a dance or party, and does not participate due to being shy or unpopular.  
+__debater__  
+__easy going__  
+__trophy wife__  
+
 __unflappable__  
 __lowdown__ _n_ __1__ The real and unadorned facts: _Give me the lowdown on the situation. _  
 __cacophony__ _n_    
