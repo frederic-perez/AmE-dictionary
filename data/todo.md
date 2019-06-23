@@ -1,4 +1,19 @@
 
+__equip__ _v_  
+__dopamine__ _n_ :mega:  
+__uplifting__ _adj_  
+__catch onto (something)__ _idiom_  
+__entail<sup>1</sup>__ _v_  
+__entail<sup>2</sup>__ _n_  
+__rule__ _n_ __10__  (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
+__on the flip side__ _idiom_  
+__do over__ _idiom_  
+__for starters__  
+__ideation__ _n_  
+__deli__ _n_  
+__terrestrial<sup>1</sup>__ _adj_  
+__terrestrial<sup>2</sup>__ _n_  
+
 __smack<sup>1</sup>__ _v_  
 __smack<sup>2</sup>__ _n_  
 __smack<sup>3</sup>__ _adv_  
