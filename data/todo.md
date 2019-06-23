@@ -1,4 +1,19 @@
 
+__smack<sup>1</sup>__ _v_  
+__smack<sup>2</sup>__ _n_  
+__smack<sup>3</sup>__ _adv_  
+__idle__ _v_  
+__eulogy__  
+__paddle__ _n_  
+__super-duper__  
+__save the day__ _idiom_ To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
+__baked__ _adj_ _Kevin is baked._  
+__solid__ _A solid sell._  
+__upfront__  
+__trash talk__ :two::hammer:  
+__under the weather__  
+__emo__ _n_ Rock music characterized by confessional lyrics about emotional topics.  
+
 __shoot yourself in the foot__ _idiom_ To do or say something that causes problems for you.  
 __come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
 __show someone the door__ _idiom_ To dismiss someone from a job.  
