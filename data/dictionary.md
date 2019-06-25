@@ -446,7 +446,7 @@ __asp__ _n_
 __aspen__  
 __aspersion__ _n_  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
-__aspherical__ _adj_  
+__aspheric__ _adj_ (aspherical) (of a reflecting surface or lens) Deviating slightly from a perfectly spherical shape and relatively free from aberrations.  
 __aspire__ _v_  
 __aspirin__ _n_ :mega:  
 __assail__ _v_ :two: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
@@ -518,20 +518,20 @@ __aum__
 __auspices__  
 __austere__  
 __Austinites__ :two::hammer:  
-__authorative__  
+__authoritative__ _adj_  
 __authorial__  
-__autoclaving__  
+__autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing of equipment at high steam pressure.  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
-__autorickshaw__ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
+__autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ :mute:[autum~~n~~]  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
 __aver__ _v_  
 __average citizens__  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :two::hammer: (averted)  
-__avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonynous._  
+__avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación  
 __avowed__ _v_  
 __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
