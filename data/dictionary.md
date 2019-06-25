@@ -53,6 +53,7 @@ __abruptly__
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __absconded__ _v_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
+__abstain__ _v_ :pencil2:  
 __abundant__  
 __abutted__  
 __abutting__ _Bungalows abutting._  
@@ -356,6 +357,7 @@ __appeases__ _v_
 __appellate__ _adj_ :three::hammer:  
 __appetizer__ _n_ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
+__apple of (one's) eye__ _idiom_  
 __applesauce__  
 __apportion__ _v_  
 __apportioned__ _v_  
@@ -595,7 +597,7 @@ __bade__ _v_ :three::hammer: _She bade me bring you here._ _He bade them goodnig
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
-__badly__ :two::hammer: _When done badly it's very painful._  
+__badly__ _adv_ :three::hammer: _When done badly it's very painful._ _She wants him so badly!_  
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :five::hammer: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
@@ -1707,6 +1709,7 @@ __catcalling__ _Some catcalling builders shouted abuse at him._
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch hell__ _I'd catch hell for it._  
 __catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
+__catch onto (something)__ _idiom_  
 __catch some Zs__ _idiom_ To go to sleep, to take a nap.  
 __catch up__ _v_  
 __catch wind of something__ _idiom_ (get wind of something) To learn of something; to hear about something.  
@@ -3135,6 +3138,7 @@ __doorman building__ _n_
 __doormat__  
 __doorpost__  
 __doozy__ _adj informal_ :three: Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
+__dopamine__ _n_ :mega:  
 __dope__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
@@ -3244,7 +3248,7 @@ __dress up__ _v_
 __dressed to the nines__  
 __dressing room__ :two::hammer: _(vs fitting room)_  
 __dressing__ _It's going to take longer to get to that turkey and dressing._  
-__dribble__ _v_ :es: regatear?  
+__dribble__ _v_ :two::hammer: :es: regatear?  
 __dribbled__ _v_  
 __drift__ _n_ :two::hammer: _You get the drift._  
 __drifter__ _n_ :three::hammer:  
@@ -3547,7 +3551,8 @@ __ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._
 __ensuite<sup>1</sup>__ _n_ A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
-__entail__ _v_ :five::hammer: (entails)  
+__entail<sup>1</sup>__ _v_ :six::hammer: (entails)  
+__entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :eight: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
 __enthused__ _adj_ Having been filled with enthusiasm.  
@@ -3588,6 +3593,7 @@ __equerries__
 __equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
 __equinox__  
+__equip__ _v_  
 __equipped__  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__  
@@ -5010,6 +5016,7 @@ __hassle-free__ :two::hammer:
 __hasten__ _v_ :three::mute:[has~~t~~en]:hammer:  
 __hastily__ _A hastily arranged news conference._  
 __hasty__ :two::hammer:  
+__hat tip__ _n_ (tipping hat) An act of tipping or doffing one's hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _v_ :six::hammer: (hatches, hatched) _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
@@ -6497,7 +6504,7 @@ __make strides__ :two::hammer: _The GOP nominee will need to make huge strides w
 __make up one's mind__ _Too much love will kill you if you can't make up your mind._  
 __make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
-__makeshift__ _adj_ :seven: Being a crude and temporary expedient.  
+__makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
 __making waves__ :two::hammer:  
@@ -8603,8 +8610,7 @@ __rapping__ _v_
 __rapprochement__ _n_ :three::hammer:  
 __rapt<sup>1</sup>__ _adj_ :three::hammer: _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
-__rapture__ :two::hammer: _The film _Carol_ left critics in rapture._  
-__rapture<sup>1</sup>__ _n_  
+__rapture<sup>1</sup>__ _n_ :four::hammer: _The film _Carol_ left critics in rapture._  
 __rapture<sup>2</sup>__ _v_  
 __rapturous__  
 __rare news conference__  
@@ -8688,7 +8694,7 @@ __rebuke__ _n_ :four::hammer:
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _Damonika has worked as youth and rec leader._  
-__recall__ _n_  
+__recall__ _n_ :two::hammer:  
 __recant__ _v_ :two::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap__  
@@ -9113,6 +9119,7 @@ __rug__ _n_ :two: Hairpiece, chignon.
 __rugged__ _He was red carded for a rugged foul._  
 __rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
+__rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ :two: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
 __rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._  
@@ -9358,6 +9365,7 @@ __scribbled__ _v_
 __scribe__ _n_ :two::hammer: (scribes)  
 __scrimmage<sup>1</sup>__ _n_ :three::hammer:  
 __scrimmage<sup>2</sup>__ _v_  
+__scripted__ _adj_ Written in advance.  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
 __Scrooge__  
@@ -9799,7 +9807,7 @@ __sitter__ _n_
 __sitting duck__  
 __sitting on the fence__ _idiom_  
 __sitting pretty__ :two::hammer:  
-__sitting<sup>1</sup>__ _n_  
+__sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
 __sivvied__ _v_ (?)  
@@ -10662,8 +10670,8 @@ __subjugate__ _v_
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
-__subpoena<sup>1</sup>__ _n_ :four::hammer:  
-__subpoena<sup>2</sup>__ _v_ (subpoenaed)  
+__subpoena<sup>1</sup>__ _n_ :five::hammer:  
+__subpoena<sup>2</sup>__ _v_ :two: (subpoenaed)  
 __subsea__ _n_  
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
@@ -11479,7 +11487,7 @@ __true to form__
 __truffle__ _n_ :two::hammer: (truffles)  
 __truism__  
 __trull__  
-__truly__ _We truly appreciate it._  
+__truly__ _adj_ :two::hammer: _We truly appreciate it._  
 __trumpet__ _v_  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
@@ -11735,6 +11743,7 @@ __uphill battle__ _idiom_ :two: Something very difficult to do.
 __uphill__ :two::hammer: _An uphill task._ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
+__uplifting__ _adj_  
 __upmarket__  
 __upped__ _v_  
 __uppercut__  

@@ -1,25 +1,4 @@
 
-__truly__ _adv_  
-__sitting__ _n_ __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
-__badly__ _adv_ _She wants him so badly!_  
-__rapture__ _n_  
-__hat tip__ _n_ (tipping hat) An act of tipping or doffing one's hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
-__abstain__ _v_ :pencil2:  
-__makeshift__  
-__dribble__ _v_  
-__subpoena<sup>1</sup>__ _n_  
-__subpoena<sup>2</sup>__ _v_  
-__scripted__ _adj_ Written in advance.  
-__apple of (one's) eye__ _idiom_  
-__recall__ _n_  
-
-__equip__ _v_  
-__dopamine__ _n_ :mega:  
-__uplifting__ _adj_  
-__catch onto (something)__ _idiom_  
-__entail<sup>1</sup>__ _v_  
-__entail<sup>2</sup>__ _n_  
-__rule__ _n_ __10__  (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
 __on the flip side__ _idiom_  
 __do over__ _idiom_  
 __for starters__  
