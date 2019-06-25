@@ -518,8 +518,8 @@ __aum__
 __auspices__  
 __austere__  
 __Austinites__ :two::hammer:  
-__authoritative__ _adj_  
 __authorial__  
+__authoritative__ _adj_  
 __autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing of equipment at high steam pressure.  
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__ _adj_ :two::hammer:  
@@ -532,14 +532,14 @@ __average citizens__
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :two::hammer: (averted)  
 __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
-__avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión f, distracción f; (= employment) > vocación  
+__avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avowed__ _v_  
 __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
-__awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Washington is awash with muscleflexors._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe__ _n_ :three::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
-__awestruct__  
+__awestruck__ _adj_  
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __awry__ :two::hammer:  
@@ -547,17 +547,16 @@ __ax__
 __axle__ _n_  
 __azure__  
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
-__babblermouth__ A person who talks too much, often telling secrets to other people.  
+__babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __baby blue__ _n_ :camera:  
 __baby bump__ _Dressing your baby bump._  
-__baby formula__ _Baby formula should be "ready-to-feed" or prepated using only filtered water or bottled water._  
+__baby formula__ _Baby formula should be "ready-to-feed" or prepared using only filtered water or bottled water._  
 __babysit__ _v_  
 __bachelor party__  
 __back away__  
 __back breaker__  
-__back burner__  
 __back country__ _n_  
 __back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
@@ -569,8 +568,7 @@ __back-office__ _Back-office analytics._
 __back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backbencher__ :three::hammer: _A Tory backbencher._  
-__backburner__ _n_  
-__backcountry__ _Utah ski resorts offering backcountry adventures._  
+__backcountry__ _n_ _Utah ski resorts offering backcountry adventures._  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
@@ -1343,7 +1341,7 @@ __bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._
 __buckeyes__  
 __buckle down (to something)__ _v informal_ :five: To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
-__buckle__ _v_ :nine::m: (bluckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
+__buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::hammer:  
 __buckskin__ _n_ :two::hammer: (buckskins)  
 __buckwheats__  
@@ -7305,6 +7303,7 @@ __on edge__
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on foot__ _I work to work on foot._  
 __on pins and needles__ _idiom_ Worried or excited about something.  
+__on the back burner__ _idiom_ :two::hammer:  
 __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
 __on the docket__  
 __on the fence__ _idiom_ Unable to make a decision.  
