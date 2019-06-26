@@ -16,7 +16,7 @@ __count on__ _phr v_ To rely or depend on (someone) to do something.
 __down-to-earth__  
 __gas guzzler__  
 __vestibule__  
-__amp up__ (amping up)  
+__amp up__ _phr v_ (amping up)  
 __upper__ _n_ (uppers)  
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
 __whoa__  
@@ -52,8 +52,8 @@ __easy going__
 __trophy wife__  
 
 __unflappable__  
-__lowdown__ _n_ __1__ The real and unadorned facts: _Give me the lowdown on the situation. _  
-__cacophony__ _n_    
+__lowdown__ _n_ __1__ The real and unadorned facts: _Give me the lowdown on the situation._  
+__cacophony__ _n_  
 __carafe__ _n_  
 __blemish__ _n_  
 __in (all) fairness (to one)__ _idiom_  
@@ -84,7 +84,7 @@ __galoshes__ _n_
 __jump boots__ _n_  
 __mukluk__ _n_ (mukluks) __1__ A soft boot made of reindeer skin or sealskin and worn by Eskimos. __2__ A slipper with a soft sole resembling this boot.  
 __put your money where your mouth is__ _idiom_ :dart: To do something rather than to just talk about it.  
-__come across__ _phr v_ To meet someone, or to find something by chance. _You're reading a magazine. You come across a full-page nude photo of a girl._   
+__come across__ _phr v_ To meet someone, or to find something by chance. _You're reading a magazine. You come across a full-page nude photo of a girl._  
 __build on__ _idiom_ To add to what you’ve already succeeded in doing.  
 __staycation__ _n_ _informal_ A vacation spent at home.  
 __second banana__ _n_ _slang_ A person who is less important than his or her partner.  
@@ -171,8 +171,8 @@ __burping__ _v_
 __lodged__ _Shard of glass are getting lodged in my thumb!_  
 __jack__ _slang_ To steal.  
 __wipe the slate clean__ _idiom_ To forget all past problems or mistakes and start something again.  
-__wolf in sheep's clothing__ _idiiom_ A dangerous person pretending to be harmless.  
-__fat chance__ It's used for empasizing that you think something is unlikely to happen. _Do you think I'll get a pay rise? Fat chance!_  
+__wolf in sheep's clothing__ _idiom_ A dangerous person pretending to be harmless.  
+__fat chance__ It's used for emphasizing that you think something is unlikely to happen. _Do you think I'll get a pay rise? Fat chance!_  
 __John Hancock__ Signature.  
 
 __ink__ _v_  
