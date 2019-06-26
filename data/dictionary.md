@@ -577,7 +577,7 @@ __backlit__
 __backlog__ _n_ :five: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backpedal__ _v_  
 __backslid__ _v_  
-__backsplash__ _n_ _A new tile backsplash._  
+__backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
 __backtrack__ _n_ :two::hammer:  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
@@ -589,7 +589,8 @@ __bad blood__ :two::hammer:
 __bad egg__ Someone who behaves in a bad or dishonest way.  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
-__badass__  
+__badass<sup>1</sup>__ _n_  
+__badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bade__ _v_ :three::hammer: _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
@@ -610,19 +611,18 @@ __bailout__ _n_ :four::hammer:
 __bake in__ _v_  
 __baked__ _adj_ _Kevin is baked._  
 __baker's dozen__  
-__bakeware__  
+__bakeware__ _n_ (Cookery) Dishes and other cooking utensils used for baking.  
 __baking soda__ _n_ Sodium bicarbonate.  
 __balderdash__  
 __bale__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
-__balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on maijuana is enforced._  
+__balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :octocat: balky donkey _He was trying to get his balky donkey to move._  
 __ball and chain__ A wife.  
 __ball bearings__  
 __ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
 __balladeer__  
-__ballasr__  
-__ballast__  
+__ballast__ _n_ :two::hammer:  
 __ballcap__  
 __ballet__ :mute:[balle~~t~~]  
 __ballistic__  
