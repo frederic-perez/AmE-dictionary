@@ -608,6 +608,7 @@ __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)
 __bailiwick__  
 __bailout__ _n_ :four::hammer:  
 __bake in__ _v_  
+__baked__ _adj_ _Kevin is baked._  
 __baker's dozen__  
 __bakeware__  
 __baking soda__ _n_ Sodium bicarbonate.  
@@ -2815,7 +2816,7 @@ __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._
 __delectable__ _adj_ :three::hammer:  
 __delegatable__ _Non-delegatable actions._  
 __deleterious__ _adj_ :four::hammer:  
-__deli__  
+__deli__ _n_ :two::hammer:  
 __deliberate__  
 __delight__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
@@ -3079,6 +3080,7 @@ __dizzy__
 __do a runner__ _idiom_ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do it by the numbers__  
 __do math__  
+__do over__ _idiom_  
 __Do your magic__ _idiom_  
 __do-gooder__  
 __DOA__ _Repeal likely DOA._  
@@ -3623,7 +3625,7 @@ __ethereal__ _adj_
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiquette__  
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
-__eulogy__ _n_ :two::hammer:  
+__eulogy__ _n_ :three::hammer:  
 __eunuch__ _n_  
 __evanesce__ :mute:[evanes~~c~~e]  
 __even__ _adv_ _syn_ indeed, actually _Is this even our house?_  
@@ -4167,8 +4169,7 @@ __for days to come__ :dart: _It was a highlight that would be looped on SportsCe
 __for good measure__  
 __for good__ _Leadville's only hospital is preparing to close for good in March._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
-__for starters__  
-__For starters,__ _phr informal_ :three: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
+__For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
 __for the ages__ _idiom_ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the most part__  
@@ -5453,9 +5454,11 @@ __iconoclast__
 __iconoclastic__  
 __ID window__  
 __id__ _n_  
+__ideation__ _n_  
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiot box__  
+__idle__ _v_  
 __idolatry__ :two::hammer:  
 __idylic__ :pencil2:  
 __ie.__ _abbr_ That is to say.  
@@ -7307,6 +7310,7 @@ __on the back burner__ _idiom_ :two::hammer:
 __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
 __on the docket__  
 __on the fence__ _idiom_ Unable to make a decision.  
+__on the flip side__ _idiom_  
 __on the fly__  
 __on the hoof__  
 __on the run__  
@@ -7517,7 +7521,8 @@ __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuabl
 __package deal__  
 __package__ _n_ :mega: /păk′ĭj/  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
-__paddle__ _v_ :two::hammer: (paddled) _I got paddled at school._  
+__paddle<sup>1</sup>__ _n_  
+__paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._  
 __paddock__ _n_  
 __padlock__  
 __paean__ _n_ :eight: (paeans) __1__ A happy song of praise, thanks, or victory. __2__ A fervent expression of joy or praise.  
@@ -9249,7 +9254,7 @@ __saunter__ _v_ :two::hammer: (sauntered) _Lynn sauntered to the edge of the sta
 __sautoir__ _Sautoir necklace._  
 __savagery__  
 __save (one's) face__  
-__save the day__  
+__save the day__ _idiom_ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ _idiom_ Stop useless talk.  
 __savior__  
 __savvy<sup>1</sup>__ _v_  
@@ -9978,7 +9983,9 @@ __slushy__
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :nine: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyly__ :astonished: _She smiled slyly._  
-__smack__ _v_ :two::hammer: _He smacked his lips._  
+__smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
+__smack<sup>2</sup>__ _n_  
+__smack<sup>3</sup>__ _adv_  
 __small fry__ _adj_ (small-fry) Lacking importance.  
 __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small print__  
@@ -10128,7 +10135,7 @@ __solemn__ :mute:[solem~~n~~]
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
 __solid gold__  
-__solid__ _adj_ :dart::six::hammer: _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
+__solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_  
 __soliloquy__  
 __solipsistic__ _adj_ :four::hammer:  
@@ -10729,7 +10736,7 @@ __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._
 __sundry__  
 __sunken__  
 __suntan__ _n_  
-__super-duper__ :three::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
+__super-duper__ _adj_ :four::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
 __superbly__  
 __supercell thunderstorm__  
 __supercilious__  
@@ -11036,6 +11043,8 @@ __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and s
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
+__terrestrial<sup>1</sup>__ _adj_  
+__terrestrial<sup>2</sup>__ _n_  
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
 __terse__  
 __test the waters__ _We're testing the waters._  
@@ -11392,6 +11401,7 @@ __trapdoor__ _n_
 __trappings__ _n_ :three::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
 __trascends__ _v_  
+__trash talk__ :two::hammer:  
 __trashing__ _v_  
 __travail__  
 __travails__ _n_ :two::hammer:  
@@ -11625,7 +11635,7 @@ __under (someone's) watch__
 __under one's belt__  
 __under siege__  
 __under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
-__under the weather__ _idiom_ To feel ill.  
+__under the weather__ _idiom_ :two: To feel ill.  
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
@@ -11736,7 +11746,7 @@ __upcoming__
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
-__upfront__ _adj_  
+__upfront__ _adj_ :two::hammer:  
 __upheaval__ _n_ :seven: A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill battle__ _idiom_ :two: Something very difficult to do.  
 __uphill__ :two::hammer: _An uphill task._ _I didn't have to fight uphill._  
