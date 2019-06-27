@@ -625,7 +625,7 @@ __ball bearings__
 __ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
 __balladeer__  
 __ballast__ _n_ :two::hammer:  
-__ballcap__  
+__ballcap__ _n_ A baseball cap.  
 __ballet__ :mute:[balle~~t~~]  
 __ballistic__  
 __balloon-lined__ _Balloon-lined car dealership._  
@@ -635,14 +635,13 @@ __ballpark__ :two::hammer:
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _The air was sweet and balmy._  
-__balogna__ _n_  
-__baloney__ _n informal_ :two: Nonsense.  
+__baloney__ _n informal_ (bologna) :two: Nonsense.  
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bamboozle__ _v_  
 __bandanna__ :two::hammer:  
 __bandit__ _n_  
-__bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colourful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
+__bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::hammer:  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
@@ -653,7 +652,7 @@ __bank on__ _phr v_ To rely on somebody or something.
 __bank__ _Fillon can beat Le Pen, but don't bank on it._  
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
-__bankrollers__  
+__bankroller__ _n_ The person or organization that provides the finance for a project, business, etc.  
 __banquet__ _n_ :mega::two::hammer:  
 __banshee__ _n_  
 __bantam__ _Playing hockey at the bantam level._  
@@ -675,7 +674,7 @@ __barge<sup>2</sup>__ _v_ (barging) :three::hammer:
 __barked__ :two::hammer: _His forehead was barked._ _Barked area._  
 __barking up the wrong tree__ _idiom_ Looking in the wrong place.  
 __barn__ _Out of the barn._  
-__barnburner__ _n_ :two::hammer:  
+__barnburner__ _n informal_ :two: Something that is highly exciting, impressive, etc.  
 __barnstorm__  
 __barnyard__ :pencil2:  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
