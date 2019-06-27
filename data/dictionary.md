@@ -21,7 +21,7 @@ __a rolling stone gathers no moss__ People pay a price for being always on the m
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
-__AAA__ _(cars)_  
+__AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AB__ _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
@@ -192,6 +192,7 @@ __ailment__ _n_ :four: Mild illness.
 __ails__ _v_ :two::hammer:  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
+__air vent__  
 __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airborne__ _adj_ _An airborne radar._  
 __airburst__ _n_  
@@ -273,6 +274,7 @@ __amiss__ _adj_
 __amity__  
 __amnesty player__  
 __amount to__ _idiom_ :two::hammer:  
+__amp up__ _phr v_ (amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ample__ _adj_ :three: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
@@ -2133,6 +2135,7 @@ __combs__ _n_ _The hens had red combs, wattles, and earlobes._
 __come across__  
 __come again?__  
 __come around__  
+__come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
 __come to grips__  
@@ -2385,6 +2388,7 @@ __coulee__
 __councilor__ _n_  
 __counsel__  
 __counselor__ _n_  
+__count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count your blessings__ _idiom_ :three: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance__ :two::hammer: _His countenance was pale and sunken._  
@@ -3181,7 +3185,7 @@ __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions
 __Down Under__  
 __down under__ _n informal_ _Best regards from down under._  
 __down-low__  
-__down-to-earth__ _idiom_ :two: Sensible and realistic.  
+__down-to-earth__ _idiom_ :three: Sensible and realistic.  
 __downbeat__ :two::hammer:  
 __downdrafts__ _n_  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
@@ -3492,7 +3496,7 @@ __emerity__ _Faculty emerity._
 __emery__ _n_ :five::hammer: _An emery wheel._ _Emery paper._  
 __eminent__  
 __emmetropia__ (?)  
-__emo__ _adj_ :two::hammer:  
+__emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
@@ -4437,6 +4441,8 @@ __garrison__ _n_
 __garroted__ _v_  
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__  
+__gas gauge__  
+__gas guzzler__  
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
@@ -5980,6 +5986,7 @@ __knee__ :mute:[~~k~~nee]
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__  
 __knell__ _n_ :three::hammer:  
+__Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
 __knife__ :mute:[~~k~~nife]  
 __knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
@@ -9498,7 +9505,8 @@ __serving__ _n_ :three: (servings) An individual portion or helping of food or d
 __set (someone or something) off__ _idiom_  
 __set (someone) up__ _v_ _Emile's trying to set you up._  
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
-__set down__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
+__set down<sup>1</sup>__ _idiom_ To seat, to cause to sit.  
+__set down<sup>2</sup>__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
 __set forth__ _phr v_ Begin a journey or expedition. _Columbus set forth with three small ships._  
 __set menu__  
 __set off__ _phr v_ Leave; to begin a journey or trip. _He set off in search of better opportunities._  
@@ -9646,6 +9654,7 @@ __shoot from the hip__ _idiom_
 __shoot the breeze__ _informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
 __shoot the moon__ _v_ :three::hammer:  
 __shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
+__shoot yourself in the foot__ _idiom_ To do or say something that causes problems for you.  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
 __shoot-from-the-hip__  
 __shootaround__ _n_ :four::hammer: (basketball)  
@@ -9687,6 +9696,7 @@ __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he near
 __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
 __show of hands__  
 __show off__ _v_ :two::hammer:  
+__show someone the door__ _idiom_ To dismiss someone from a job.  
 __show-off__ _n_ :two::hammer: (or showoff?)  
 __showboat__ _v_  
 __showcase__ _v_  
@@ -9810,7 +9820,7 @@ __sitdown__ _n_ :two::hammer:
 __sitter__ _n_  
 __sitting duck__  
 __sitting on the fence__ _idiom_  
-__sitting pretty__ :two::hammer:  
+__sitting pretty__ _idiom_ :three: Living in comfort.  
 __sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
@@ -10709,6 +10719,7 @@ __suffragette__
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
 __sugar daddy__ _A sugar daddy relationship._  
+__sugary yogurt__  
 __suicide vests__  
 __suit up__ _v_  
 __suitors__ :two::hammer:  
@@ -10872,6 +10883,7 @@ __tabs__ _n_ _Is May keeping nervous tabs on her rivals?_
 __tabulate__ _v_  
 __tabulated__ _Tabulated scientific data._  
 __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they work._  
+__tachometer__  
 __taciturn__  
 __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
 __tacky__ :two::hammer:  
@@ -11623,7 +11635,7 @@ __unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __uncanny valley__ _idiom_ :three::hammer:  
-__Uncle Sam__  
+__Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
 __uncouth__  
@@ -11755,6 +11767,7 @@ __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and rep
 __uplifting__ _adj_  
 __upmarket__  
 __upped__ _v_  
+__upper__ _n_ (uppers)  
 __uppercut__  
 __uppermost__  
 __uppers__  
@@ -11852,6 +11865,7 @@ __VC__ :two::hammer: _A blindfolded VC suspect._
 __veer__ _v_  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
+__veggies__ _n pl_ _slang_ Vegetables.  
 __vehicle__ :mute:[ve~~h~~icle]  
 __veil__ _v_  
 __vein__ _Gold vein._  
@@ -11889,7 +11903,7 @@ __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy 
 __very true__  
 __very__ _We were in this very room._  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
-__vestibule__ :mega:  
+__vestibule__ _n_ :two::mega::hammer:  
 __vestige__ _n_ :two::hammer: (vestiges) _The vesting date._  
 __veto__ _v_  
 __vetted__ _v_ :three::hammer:  
@@ -12186,6 +12200,7 @@ __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantag
 __whizz__  
 __whizzing__  
 __who__ :mute:[~~w~~ho]  
+__whoa__  
 __whodunit__ _n_ :two: A detective story.  
 __whole milk__  
 __whole nine yards, the__  

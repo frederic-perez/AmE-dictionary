@@ -1,26 +1,4 @@
 
-__emo__ _n_ Rock music characterized by confessional lyrics about emotional topics.  
-
-__shoot yourself in the foot__ _idiom_ To do or say something that causes problems for you.  
-__come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
-__show someone the door__ _idiom_ To dismiss someone from a job.  
-__veggies__ _n_ _slang_ Vegetables.  
-__Uncle Sam__ _n_ :dart: A personification of the United States government.  
-__sitting pretty__ _idiom_ Living in comfort.  
-__set down__ _idiom_ To seat, to cause to sit.  
-__gas gauge__  
-__tachometer__  
-__air vent__  
-__count on__ _phr v_ To rely or depend on (someone) to do something.  
-
-__down-to-earth__  
-__gas guzzler__  
-__vestibule__  
-__amp up__ _phr v_ (amping up)  
-__upper__ _n_ (uppers)  
-__Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
-__whoa__  
-__sugary yogurt__  
 __layup__ _n_  
 __clincher__ _n_  
 __judgment__ _n_ :pencil2:  
