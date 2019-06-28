@@ -21,8 +21,8 @@ __a rolling stone gathers no moss__ People pay a price for being always on the m
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
-__AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
+__AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
 __AB__ _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
@@ -501,7 +501,7 @@ __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attain
 __attainability__  
 __attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
-__attendee__ _n_  
+__attendee__ _n_ :two::mega::hammer:  
 __attest__ _v_ :two::hammer:  
 __attire__ _n_ :four::hammer: _Casual attire is requested._  
 __Attn__  
@@ -2016,7 +2016,7 @@ __clicking__ _Things seem to be making sense and clicking._
 __clicky__  
 __climb__ :mute:[clim~~b~~]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
-__clincher__ _n_ :two::hammer:  
+__clincher__ _n_ :three::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :two::hammer: _A better newspaper clip._  
@@ -2292,6 +2292,7 @@ __contingent__ _The University of Illinois conducts criminal background checks o
 __continual__ :two::hammer: _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_  
+__contraption__  
 __contrarian__  
 __contretemps__  
 __contrite__ _adj_ :four::hammer:  
@@ -2758,6 +2759,7 @@ __decanter__ _n_ :two::hammer:
 __decathlon__  
 __decidious__ _adj_  
 __decimate__ _v_ _It decimated their relationship._  
+__decimation__  
 __deck railing__  
 __deck__ _v_ :four::hammer: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
@@ -3826,6 +3828,7 @@ __fawning__ :two::hammer:
 __fawningly__  
 __faze__ _v_ :five::hammer: (fazed)  
 __fealty__ :two::hammer:  
+__fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearl__ _A fearl youngster._  
 __feasible__ _adj_  
 __feast__ _v_ :two::hammer:  
@@ -5845,7 +5848,7 @@ __jousting__ _adj_ _Jousting egos._
 __jovial__ :two::hammer:  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__  
-__judgment__ _n_ :pencil2:  
+__judgment__ _n_ :two::pencil2::hammer:  
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
@@ -5991,6 +5994,7 @@ __knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]
 __knit tie__  
 __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
+__knock on wood__ _idiom_  
 __knock someone's socks off__  
 __knock__ _n_ :mute:[~~k~~nock]  
 __knock-knock joke__  
@@ -6142,8 +6146,7 @@ __layman > in layman terms__
 __layman__ _n_  
 __layoff__  
 __layover__ _n_ :dart::two: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
-__layup__ _n_  
-__layups__  
+__layup__ _n_ :three::hammer: (layups)  
 __laziness__ :pencil2:  
 __lb.__ _Sold in pkgs. of 3 lbs. or more._  
 __LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
@@ -6216,6 +6219,7 @@ __lessen__ _v_
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :six::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
+__let down__ _phr v_ To disappoint someone by failing to do what they expect you to do.  
 __let somebody down__ _idiom_ To disappoint someone.  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let your hair down__  
@@ -7244,7 +7248,7 @@ __obtuseness__
 __obverse__ _The obverse hub of a coin._  
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
-__OCD__  
+__OCD__ :two::hammer: _abbrev_  
 __octogenarians__  
 __octoroons__  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
@@ -7319,6 +7323,7 @@ __on the fence__ _idiom_ Unable to make a decision.
 __on the flip side__ _idiom_  
 __on the fly__  
 __on the hoof__  
+__on the rise__ _idiom_  
 __on the run__  
 __on the same page__ _idiom_ To agree on something.  
 __on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
@@ -7929,6 +7934,7 @@ __pipe down__ _informal_ Stop talking; be less noisy. _Pipe down, will you, I'm 
 __pipe dream__ _n_ :dart::three::hammer:  
 __pipe tape__  
 __pipehead__  
+__pipeline__  
 __pipeyard__  
 __piping__ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
@@ -8541,6 +8547,7 @@ __rabble-rouser__
 __rabies__ :pencil2::two::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
 __raccooned__ _v_  
 __raccoons__  
+__race against time__ _idiom_ To do something very quickly.  
 __racetrack__ _Racetrack cars._  
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
@@ -8612,7 +8619,8 @@ __rankled__ _v_
 __rankles__  
 __ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
-__rant__ _v_  
+__rant<sup>1</sup>__ _n_  
+__rant<sup>2</sup>__ _v_  
 __rap__ _South has a bad rap._  
 __rapidly__  
 __rapier__ _n_ :two: (rapiers) A straight sword with a narrow blade and two edges.  
@@ -8723,6 +8731,7 @@ __reckon__ _v_ :three::hammer:
 __reckoning__ _n_  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
 __recollection__ _n_ :six::hammer:  
+__reconcile__ _v_  
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
@@ -9463,6 +9472,7 @@ __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."
 __self-assured__ _adj_ :two: Having or showing confidence and poise.  
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
+__self-esteem__ _n_  
 __self-fulfilling__ _Self-fulfilling prophecy._  
 __self-righteous__  
 __self-steem__  
@@ -9653,6 +9663,7 @@ __shoot from the hip__ _idiom_
 __shoot the breeze__ _informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
 __shoot the moon__ _v_ :three::hammer:  
 __shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
+__shoot your mouth off__ _idiom_ To boast or talk too much, to tell secrets.  
 __shoot yourself in the foot__ _idiom_ To do or say something that causes problems for you.  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
 __shoot-from-the-hip__  
@@ -10690,7 +10701,7 @@ __subpoena<sup>2</sup>__ _v_ :two: (subpoenaed)
 __subsea__ _n_  
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
-__subside__ _v_ :dart::five::hammer: (subsided) _My headache has subsided._  
+__subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidy__  
 __substation__  
 __subsumed__ _v_ :two::hammer:  
@@ -11425,7 +11436,7 @@ __treachery__ _n_ :three::hammer:
 __treacly__ :two::hammer:  
 __tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
 __treading__  
-__treasure__ _v_ :two::hammer:  
+__treasure__ _v_ :three::hammer:  
 __treat<sup>1</sup>__ _v_  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
