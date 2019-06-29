@@ -1,4 +1,20 @@
 
+__barefoot__  
+__bummed (out)__ _idiom_ Sad or discouraged. _Todd just heard that he didn't get the job, and he's really bummed out. I can't watch the news because it always makes me bummed._  
+__switcheroo__ _n_ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I'll distract the guards while you make a switcheroo with the fake diamond._  
+__stoplight__ _n_ __1__ A red light on a traffic signal indicating that vehicles or pedestrians coming towards it should stop. __2__ Another word for brake light.  
+__APR__ _abbr_ Annual percentage rate.  
+__ball gag__  
+__push-up__ _n_ (push-ups)  
+__panini press__ _n_  
+__shoo<sup>1</sup>__ _interj_  
+__shoo<sup>2</sup>__ _v_  
+__fender bender__ 
+__lame<sup>1</sup>__ _adj_  
+__lame<sup>2</sup>__ _v_  
+__recap<sup>1</sup>__ _v_  
+__recap<sup>2</sup>__ _n_  
+
 __spit it out__ _idiom_ Go ahead and say something.  
 __set forth__ _phr v_ To state or express an opinion.  
 __stuck in a rut__ _idiom_ In a boring lifestyle that never changes.  
