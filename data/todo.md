@@ -1,4 +1,20 @@
 
+__neuralgia__ _n_  
+__come up short__  
+__gremlin__ _n_ A mythical creature believed to tamper with all kinds of machinery. _This scanner is full of gremlins!_  
+__corrugated__ _adj_  
+__no-brainer__ :dart:  
+__newlywed__ _n_ :pencil2: A recently married person.  
+__newsstand__ _n_ :pencil2:  
+__nickel-and-dime__  
+__ester__ _n_ :astonished:  
+__genus__ _n_  
+__embarrass__ :mega:  
+__reveille__ _n_ (mil.) :es: diana  
+__spirited__ _adj_  
+__heave__ _v_  
+__roll__ _n_ (bread)  
+
 __threads__ _pl n_ _slang_ Clothes.  
 __set back__ _phr v_  __1__ To hinder; impede. __2__ _informal_ To cost (a person) a specified amount.  
 __ministry__ _n_  
