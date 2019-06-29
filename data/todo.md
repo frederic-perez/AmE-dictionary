@@ -1,4 +1,17 @@
 
+__spit it out__ _idiom_ Go ahead and say something.  
+__set forth__ _phr v_ To state or express an opinion.  
+__stuck in a rut__ _idiom_ In a boring lifestyle that never changes.  
+__worrywart__ _slang_ A person who worries too much, especially about unimportant things.  
+__strike while the iron is hot__ _idiom_ To do something immediately while you have a good chance of success.  
+__wiz kid__ _n slang_ A child genius.  
+__fall for__ _phr v_ Be attracted to somebody, fall in love.  
+__whack__ _v_ _slang_ To murder.  
+__stink to high heaven__ _idiom_ To smell very badly.  
+__suck it up__ _idiom_ Stop complaining.  
+__hand down__ _idiom_ To pass knowledge or skills from one generation to the next.  
+__set in__ _phr v_ To begin to happen.  
+
 __neuralgia__ _n_  
 __come up short__  
 __gremlin__ _n_ A mythical creature believed to tamper with all kinds of machinery. _This scanner is full of gremlins!_  
