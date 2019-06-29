@@ -1,4 +1,18 @@
 
+__sit-down restaurant__ _n_ "Sit-down restaurant" refers to a casual-dining restaurant with table service, rather than a fast food restaurant or a diner, where one orders food at a counter. Sit-down restaurants are often further categorized, in North America, as "family-style" or "formal".  
+__pout<sup>1</sup>__ _v_    
+__pout<sup>2</sup>__ _n_  
+__(deep) into the weeds__ _idiom_  
+__right__ _v_ _When there is a wrong to right Mighty Mouse will join the fight._  
+__spillover__ _n_  
+__squiggle__ _n_  
+__prerequisite__ _n_  
+__downsize__ _v_ To simplify (one's life, for instance), as by reducing the number of one's possessions.  
+__God wink__ _n_ An event or personal experience, often identified as coincidence, so astonishing that it is seen as a sign of divine intervention, especially when perceived as the answer to a prayer.  
+__crystalize__ _v_ Variant of crystallize.  
+__rosé__ _n_ A light pink wine made from purple grapes.
+__green thumb__ _n_ :dart: (green fingers) An extraordinary ability to make plants grow well.  
+
 __barefoot__  
 __bummed (out)__ _idiom_ Sad or discouraged. _Todd just heard that he didn't get the job, and he's really bummed out. I can't watch the news because it always makes me bummed._  
 __switcheroo__ _n_ _slang_ A surprising, unexpected, or deceptive swap, change, variation, or reversal. _I'll distract the guards while you make a switcheroo with the fake diamond._  
@@ -9,7 +23,7 @@ __push-up__ _n_ (push-ups)
 __panini press__ _n_  
 __shoo<sup>1</sup>__ _interj_  
 __shoo<sup>2</sup>__ _v_  
-__fender bender__ 
+__fender bender__  
 __lame<sup>1</sup>__ _adj_  
 __lame<sup>2</sup>__ _v_  
 __recap<sup>1</sup>__ _v_  
