@@ -1,4 +1,20 @@
 
+__AA__  
+__fly on the wall__  
+__shun__ _v_  
+__gist__ _n_ :mega:  
+__run down__ _phr v_  
+__racketeer<sup>1</sup>__ _n_  
+__racketeer<sup>2</sup>__ _v_  
+__petty__ _adj_  
+__pettiness__ _n_  
+__capuchin monkey__ _n_ :mega:  
+__humblebrag__ _v_  
+__complain brag__ _v_ When someone brags by 'complaining' about something.  
+__soak up__ _phr v_  
+__premium<sup>1</sup>__ _n_ (payment)  
+__premium<sup>2</sup>__ _adj_  
+
 __lumberjack jacket__ _n_  
 __York ham__ _n_  
 __shining__ _n_  
