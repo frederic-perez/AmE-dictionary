@@ -1,4 +1,15 @@
 
+__lumberjack jacket__ _n_  
+__York ham__ _n_  
+__shining__ _n_  
+__barren__  
+__moor<sup>1</sup>__ _v_  
+__moor<sup>2</sup>__ _n_  
+__toiletry bag__ _n_  
+__Dopp kit__ _n_ (dopp-kit) A small leather bag containing a man's grooming tools, such as razor, shaving cream, comb, nail clippers, scissors, toothbrush, toothpaste, and cologne. (Origin: From Charles Doppelt, a leather worker.)  
+__doormat__ _n_ A mat placed before a doorway for wiping the shoes.  
+__turncock__ _n_ Faucet consisting of a rotating device for regulating flow of a liquid.  
+
 __take it or leave it__ _idiom_ Take this one or none, there are no other choices.  
 __zip__ _n slang_ Nothing, zero.  
 __time is money__ _idiom_ Time is a valuable commodity, so we should be as quick or expeditious as possible.  
