@@ -1,4 +1,13 @@
 
+__sing along__ _idiom_  
+__lollipop__
+__mess around__  
+__lumberjack__ _n_ :es: leñador  
+__bugle__ _n_  
+__campy__  
+__cop out__ _phr v_  
+__crib__  
+
 __AA__  
 __fly on the wall__  
 __shun__ _v_  
