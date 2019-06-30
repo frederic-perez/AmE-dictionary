@@ -1,4 +1,12 @@
 
+__take it or leave it__ _idiom_ Take this one or none, there are no other choices.  
+__zip__ _n slang_ Nothing, zero.  
+__time is money__ _idiom_ Time is a valuable commodity, so we should be as quick or expeditious as possible.  
+__lardass__ _n_ _offensive slang_ An obese person, often one considered to be lazy.  
+__take my word for it__ _idiom_ Trust me.  
+__hand in__ _phr v_ To give something to a person in authority. _You realize what would happen if I hand in my homework in your handwriting, McFly?_  
+__rain check__ _idiom_  
+
 __sit-down restaurant__ _n_ "Sit-down restaurant" refers to a casual-dining restaurant with table service, rather than a fast food restaurant or a diner, where one orders food at a counter. Sit-down restaurants are often further categorized, in North America, as "family-style" or "formal".  
 __pout<sup>1</sup>__ _v_    
 __pout<sup>2</sup>__ _n_  
