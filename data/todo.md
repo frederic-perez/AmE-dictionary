@@ -1,4 +1,20 @@
 
+__cash flow__ _n_  
+__grit__ _n_  
+__sneak up__ _phr v_  
+__sneak up (on someone or something)__ _idiom_  
+__celeb__ _n_ A shortening of "celebrity."  
+__#MeToo__ _n_ A movement encouraging victims of sexual violence and harassment (typically women) to publicly share their experiences, with the intent of emphasizing how widespread such behavior is.
+__clip-clop__ _n_ The sound made by a horse's hooves.  
+__page-turner__ _n informal_ A very interesting, exciting, or suspenseful book, usually a novel.  
+__larynx__ _n_ :mega:  
+__prep<sup>1</sup>__ _adj_  
+__prep<sup>2</sup>__ _n_  
+__prep<sup>3</sup>__ _v_  
+__qualm__  
+__topsy-turvy__  
+__root__ _v_  
+
 __fend__ _v_  
 __hoax__ _v_  
 __wisps__ _n_ _Wisps of smoke._  
