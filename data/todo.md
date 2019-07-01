@@ -1,4 +1,20 @@
 
+__fend__ _v_  
+__hoax__ _v_  
+__wisps__ _n_ _Wisps of smoke._  
+__fretful__ _adj_ _Fretful dreams._  
+__forgo__ _v_  
+__gasp__ _v_  
+__tar__ _n_ _A bottle sealed with tar._  
+__tripped__ _v_ _He often stumbled and tripped._  
+__knave__ _n_  
+__keep pace__ _He frequently ran in order to keep pace._  
+__sappling__ _n_  
+__sated__ _v_ _Bark paste sated feelings of hunger._  
+__daubing__ _v_  
+__mucking up__ _v_  
+__tug__ _v_  
+
 __sing along__ _idiom_  
 __lollipop__
 __mess around__  
