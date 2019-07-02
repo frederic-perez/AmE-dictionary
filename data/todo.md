@@ -1,4 +1,20 @@
 
+__scrawny__ _adj_  
+__snot__ _n_  
+__gaunt__ _adj_  
+__guidy__  
+__whimpered__ _v_  
+__one-off__ _It was a fluke, a one-off._  
+__accord__ _They own accord._  
+__in so far as__ _He never won in so far as anyone could be said to win._  
+__point-blank__ _Point-blank snow shots didn't count in this game._  
+__flourish__ _n_ (?)  
+__shortlisted__  
+__gum__ (anatomy)  
+__squat__ _adj_  
+__passenger train__  
+__aggravate__ _v_ :pencil2:  
+
 __cash flow__ _n_  
 __grit__ _n_  
 __sneak up__ _phr v_  
