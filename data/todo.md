@@ -1,4 +1,20 @@
 
+__nestle__ _v_  
+__rejoinder__ _n_ An answer, especially to a reply.  
+__quiff__ _n_ A woman regarded as promiscuous.  
+__hyperbolic__ _adj_  
+__phlegm__ _n_  
+__index card__ _n_  
+__charred__ _adj_ Burnt and blackened.  
+__fan service__ _idiom_  
+__suppository__ _n_  
+__ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim's mouth and tied tight. Supposedly it's more effective at muffling yells.  
+__top billing__ _idiom_  
+__snippet__ _n_  
+__aftertaste__ _n_  
+__endgame__ _n_  
+__lay__ _adj_ _Syn_ nonspecialist, amateur, unqualified, untrained, inexpert, nonprofessional _It is difficult for a lay person to gain access to medical libraries._  
+
 __scrawny__ _adj_  
 __snot__ _n_  
 __gaunt__ _adj_  
