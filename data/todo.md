@@ -1,4 +1,17 @@
 
+__through and through__  
+__distasteful__ (?)  
+__lo and behold__ (?)  
+__ad libs__  
+__relate__ _v_  
+__indictment__ :mega: (?)  
+__pottering__ _v_ _She is pottering around the house._  
+__ficus__ :mega: (?)  
+__hondo__ (hundred?)  
+__back-to-back__ (?)  
+__shudder__ _v_ (?)  
+__paywall__ _Behind the paywall._  
+
 __abetting__ _v_  
 __trudged__ _v_  
 __muzzle__ _n_ _The muzzle of the gun._  
