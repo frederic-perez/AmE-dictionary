@@ -1,4 +1,20 @@
 
+__abetting__ _v_  
+__trudged__ _v_  
+__muzzle__ _n_ _The muzzle of the gun._  
+__sideline__ _v_  
+__complacent__  
+__commendation__ _n_ _He received two commendations._  
+__aphorism__  
+__swoop__ _n_  
+__qualms__ _n_  
+__irate__ _adj_ (?)  
+__acquiesced__ _v_  
+__coaxing__ _v_  
+__smugly__  
+__prised__ _v_ _The window had been prised open._  
+__guesswork__ _n_  
+
 __nightshirt__ _n_ A long, loose shirt worn in bed.  
 __broken English__ _n_  
 __memo__ _n_ (memos) Short for memorandum.  
