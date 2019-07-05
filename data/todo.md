@@ -1,4 +1,19 @@
 
+__snub__ _n_  
+__trifle__ _n_  
+__heave__ _v_ _He felt his stomach heave._  
+__seeped__ _v_ :three::hammer: _Sweat seeped down his back._  
+__canopy__ _A dense canopy of snow._  
+__lank__ _v_ (?)  
+__spluttered__ _v_ _He spluttered back into consciousness._  
+__consciousness__  
+__hypothermia__  
+__sapping__ _v_ _His energy was sapping._  
+__picket fence__  
+__smouldered__ _v_ _The wood smouldered._  
+__muddled__ _v_  
+__keen to__ _They were keen to recover his approval._  
+
 __through and through__  
 __distasteful__ (?)  
 __lo and behold__ (?)  
