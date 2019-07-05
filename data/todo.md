@@ -1,4 +1,17 @@
 
+__epitome__ (?)  
+__needeness__ (?)  
+__critique__ _v_  
+__allioli__ :mega: (?)  
+__edgy__  
+__nag__ _v_  
+__debt__ :mega: (?)  
+__appartment__  
+__angst__ 
+__troll__ _v_  
+__time capsule__  
+__kill__ _v slang_  
+
 __snub__ _n_  
 __trifle__ _n_  
 __heave__ _v_ _He felt his stomach heave._  
