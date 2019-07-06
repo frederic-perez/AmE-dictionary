@@ -1,4 +1,19 @@
 
+__treachery__ _n_  
+__equivocation__ _n_  
+__frostbite__ _n_  
+__mulch__ _n_  
+__tarpaulin__  
+__dissent__ _n_  
+__henchman__ _n_  
+__vista__ _n_  
+__tickle__ _v_ _They could tickle a man to death._  
+__acrid__ _adj_  
+__stammer__ _n_  
+__noose__ _n_  
+__scampeded__ _v_  
+__obliged__ _v_  
+
 __epitome__ (?)  
 __needeness__ (?)  
 __critique__ _v_  
