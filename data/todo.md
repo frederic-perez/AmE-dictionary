@@ -1,4 +1,19 @@
 
+__sociopath__  
+__compelling__ _adj_  
+__malice__  
+__temerity__ (?)  
+__content__ _adj_  
+__drop by__ _phr v_ To stop in for a short visit.  
+__hush money__ _n informal_ A bribe paid to keep something secret.  
+__fight or flight__  
+__part company__ _v_  
+__humiliating__ _adj_  
+__mahogany__ (?)  
+__mess around__  
+__Achiles heel__ (?)  
+__sabadaba__ (?)  
+
 __treachery__ _n_  
 __equivocation__ _n_  
 __frostbite__ _n_  
