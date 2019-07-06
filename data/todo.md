@@ -1,4 +1,15 @@
 
+__sweat bullets__ _idiom_ :dart: To suffer intense distress, anxiety, worry, or fear.  
+__hoot__ _v_  
+__holler__ _v_  
+__golden goose__ _n_  
+__debacle__  
+__agonal__ _Agonal breathing._  
+__ascertain__ _v_  
+__saddened__  
+__rigging__ _v_ _There were revelations of widespread exam rigging against women._  
+__misdiagnose__ _v_ _A misdiagnosed patient._  
+
 __sociopath__  
 __compelling__ _adj_  
 __malice__  
