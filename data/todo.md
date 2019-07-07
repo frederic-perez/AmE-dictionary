@@ -1,4 +1,17 @@
 
+__read into something__  
+__tap dancing__ _idiom_  
+__frat house__  
+__foldout chair__ _n_  
+__hundo__ (?) One hundred (?)  
+__under water__  
+__taxpayer__ _n_ (single word?)  
+__dateable__ (?)  
+__call out__ _v_  
+__weaponize__ _v_  
+__wag__ _v_ (?) _I've got a tail that wags._  
+__puppy play__
+
 __assembly line__  
 __rivulets__ _Rivulets of blood._  
 __squalid__ _adj_  
