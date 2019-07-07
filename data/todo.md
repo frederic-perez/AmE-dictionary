@@ -1,4 +1,19 @@
 
+__assembly line__  
+__rivulets__ _Rivulets of blood._  
+__squalid__ _adj_  
+__cobbler__ _n_  
+__matchstick__ _n_  
+__psyche__ _n_  :pencil2::mega:(?)  
+__attire__ _n_  
+__clique__ _n_  
+__sulky__ _adj_ _Sulky-looking unshaven men._  
+__bulbous__ _A bulbous man._  
+__fastidious__ _adj_ _He was fastidious about showing off his collection._  
+__squat__ _adj_  
+__slid__ _v_ _His glasses often slid down his nose._  
+__gravitas__ _n_  
+
 __sweat bullets__ _idiom_ :dart: To suffer intense distress, anxiety, worry, or fear.  
 __hoot__ _v_  
 __holler__ _v_  
