@@ -1,4 +1,19 @@
 
+__sapiosexual__ (?) Attracted to intelligence.  
+__tolerate__ _v_  
+__no-no__  
+__lash out__ _v_  
+__ravage__ _v_ (?)  
+__rabies__ _n_ :two::mega:  
+__across__ _She is sitting across from you at a coffee shop._  
+__collateral damage__ (?)  
+__middle school__ (DAX: Are there primary, middle, and high schools?)  
+__no way around it__  
+__CBT__  
+__hold a candle__ _idiom_  
+__crumble__ _v_  
+__apprentice__ _v_ (?)  
+
 __bummer__ _n_ _slang_ A disappointing or unpleasant situation or experience.  
 __jump at__ _phr v_ To take an opportunity with enthusiasm.  
 __under the radar__ _idiom_ Doing something without other people noticing.  
