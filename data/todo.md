@@ -1,4 +1,19 @@
 
+__sound__ _His reasons were sound._  
+__duped__ _v_  
+__latrine__ _n_  
+__faeces__ _n_  
+__ticker tape__  
+__mould__ _n_  
+__seeped__ _Blood seeped out of their pores._  
+__pod__ _n_ _A seed pod._  
+__bleak__ _adj_  
+__gushing__ _adj_ (?)  
+__preposterous__ _adj_  
+__clamming__ _adj_ _His clamming forehead._  
+__scrubbed__ _v_ _He scrubbed his hands at the sink._  
+__tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
+
 __read into something__  
 __tap dancing__ _idiom_  
 __frat house__  
