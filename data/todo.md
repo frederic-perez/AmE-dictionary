@@ -1,4 +1,13 @@
 
+__bummer__ _n_ _slang_ A disappointing or unpleasant situation or experience.  
+__jump at__ _phr v_ To take an opportunity with enthusiasm.  
+__under the radar__ _idiom_ Doing something without other people noticing.  
+__suave__ _adj_  
+__sojourn__ _v_  
+__stupefy__  
+__gourmand__  
+__prescience__ _n_ The fact of knowing something in advance; foreknowledge.  
+
 __sound__ _His reasons were sound._  
 __duped__ _v_  
 __latrine__ _n_  
