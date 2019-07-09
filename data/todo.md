@@ -1,4 +1,13 @@
 
+__stillbirth__ _n_  
+__atrium__ _n_  
+__thromboembolism__ _n_  
+__knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
+__longitudinal__ _Longitudinal findings from the study._  
+__syphilis__ _n_ :pencil2:  
+__tingling__ _v_ _A man presented with a six day history of numbness and tingling in his left arm._  
+__poor man__  
+
 __daunting__  
 __pick on/in__ (?) _I like to pick on/in people that I love._  
 __poster child__  
