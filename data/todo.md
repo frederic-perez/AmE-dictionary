@@ -1,4 +1,14 @@
 
+__like two peas in a pod__ _idiom_ Very similar.  
+__two-time someone__ _idiom_ To be unfaithful to someone.  
+__brass monkeys__ _idiom_ Very cold weather.  
+__bounce__ _v_ _slang_ To leave.  
+__travel light__ _idiom_ To bring very few things with you when you go on a trip.  
+__set out__ _phr v_ :dart: To put something where it can be seen or used.  
+__take aback__ _phr v_ To surprise or shock.  
+__hush up__ _phr v_ To not let something become known.  
+__toss and turn__ _idiom_ Sleep badly.  
+
 __scalpel__ _n_  
 __plunger__ _n_ _The syringe's plunger._  
 __treacle__  
