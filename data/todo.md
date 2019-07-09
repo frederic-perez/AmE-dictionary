@@ -1,4 +1,13 @@
 
+__white line__ (appliances)  
+__museum__ _n_ :mega:  
+__tone-deaf__ _adj_  
+__cassava__ _n_  
+__pistachios__ _n_ :pencil2:  
+__maquetador?__ _n_ :es: _maquetador_  
+__colonotomy bag__ (?)  
+__?__ (motorcycle) :es: caballete  
+
 __like two peas in a pod__ _idiom_ Very similar.  
 __two-time someone__ _idiom_ To be unfaithful to someone.  
 __brass monkeys__ _idiom_ Very cold weather.  
