@@ -1,4 +1,19 @@
 
+__scalpel__ _n_  
+__plunger__ _n_ _The syringe's plunger._  
+__treacle__  
+__gurgled__ _v_ _He gurgled._  
+__spluttering__ _A baby's spluttering._  
+__heartedly__  
+__bearings__ _n_  
+__facsimile__ _n_  
+__grate__ _He needed both hands to pull the stiff grate._  
+__sideways__ _n_  
+__tatty__ _adj_  
+__play down__ _She tried to play down her beauty._  
+__womanizer__  
+__samovar__ _n_  
+
 __sapiosexual__ (?) Attracted to intelligence.  
 __tolerate__ _v_  
 __no-no__  
