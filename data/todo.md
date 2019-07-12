@@ -1,4 +1,20 @@
 
+__edict__ _n_  
+__Generalissimo Stalin__  
+__raucous__ _adj_  
+__broached__ _v_ _He broached the subject._  
+__timetable__ _v_ (?)  
+__satchel__ _n_  
+__clogging__ _v_  
+__mahogany__ _n_ _Polished mahogany banisters._  
+__banister__ _n_ _Polished mahogany banisters._  
+__frosted glass__ _Illuminated by domes of frosted glass._  
+__throng__ _n_  
+__barrel__ _n_ _A tank's barrel._  
+__misconstrued__  
+__on__ _Please, stay on the train._  
+__off__ _She got off the train._  
+
 __roaming__ _v_  
 __dowdy__ _adj_  
 __flustered__ _v_ _She was flustered._  
