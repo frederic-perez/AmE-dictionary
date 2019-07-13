@@ -1,4 +1,20 @@
 
+__rickety__ _It was a rickety plan at best._  
+__throughfare__ _n_  
+__foreman__ _He was a foreman at the munitions factory._  
+__munitions__ _The munitions factory._  
+__buckwheat__ _n_  
+__saffron__ _n_  
+__cabbage__ _n_ _A head of cabbage was bubbling in a copper pot of water._  
+__bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
+__grated__ _v_ _Fresh grated carrots._  
+__rhetoric__ _n_ :pencil2: _State rhetoric._  
+__mince__ _n_  
+__insomniac__ _n_  
+__stooped__ _v_  
+__marjoram__ _n_  
+__horseradish__ _n_  
+
 __edict__ _n_  
 __Generalissimo Stalin__  
 __raucous__ _adj_  
