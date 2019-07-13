@@ -2,7 +2,7 @@
 __regulation__ _n_ _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._  
 __heralded__ _v_ _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __up yours__  
-__peach in syrup__ _n_ :es: melocotón en almíbar
+__peach in syrup__ _n_ :es: melocotón en almíbar  
 __whipping by__ _The summer is whipping by._  
 __hit up__ _She thought about hitting up an amusement park._  
 __rolls__ _n_ _A shot of my rolls hanging over my gym shorts._  
