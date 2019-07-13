@@ -1,4 +1,13 @@
 
+__prescience__ _n_  
+__berserk__ _adj_  
+__obsequious__  
+__infare__ _n_  
+__make up your mind__ _idiom_ To make a decision.  
+__let on__ _phr v_  
+__let down__ _phr v_  
+__ear candy__ _n_ _slang_ Pleasant-sounding music.  
+
 __rickety__ _It was a rickety plan at best._  
 __throughfare__ _n_  
 __foreman__ _He was a foreman at the munitions factory._  
