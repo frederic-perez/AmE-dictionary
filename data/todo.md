@@ -1,4 +1,20 @@
 
+__kid__ _v_  
+__prudent__ _adj_  
+__exonerating__ _v_  
+__oatmeal__ _n_  
+__clipping__ _He had the newspaper clipping to prove he was a hero._  
+__unswerving__ _adj_ _Unswerving confidence._  
+__leisurely__  
+__lathered__ _v_ _He lathered the bar of soap._  
+__soap-spuds__ _n_  
+__spite__ _n_ :two::hammer: _He brought him along for spite._ _He added her to the list out of spite._  
+__hatred__ _n_  
+__niggling__ _adj_ _Niggling questions._  
+__comrade__  
+__rouble__ _A copper rouble coin._  
+__smuggling__ _v_  
+
 __regulation__ _n_ _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._  
 __heralded__ _v_ _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __up yours__  
