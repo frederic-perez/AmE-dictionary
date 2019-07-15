@@ -1,4 +1,15 @@
 
+__squishy__ _adj_  
+__mushy__ _adj_  
+__roundhouse__ _Try to roundhouse kick a bottle cap off a bottle._  
+__PJs__  
+__sojourning__ _v_  
+__apropos__  
+__specifically__  
+__preen__ _v_ __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc. 
+__vainglorious__ _adj_  
+__primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
+
 __lackey__ _n_  
 __sway__ _He had no sway over him._  
 __goaded__ _v_  
