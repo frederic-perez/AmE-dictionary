@@ -1,4 +1,20 @@
 
+__lackey__ _n_  
+__sway__ _He had no sway over him._  
+__goaded__ _v_  
+__filings__ _n_ :astonished: _She scraped the metal filings from under her fingernails._  
+__daubed__ _v_ _She daubed some color on her cheeks._  
+__millet__ _n_ _Millet soup._  
+__pick-up__ _The restaurant was little more than a pick-up joint._  
+__ply__ _v_ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
+__rashes__ _n_  
+__bad-mouth__ _v_  
+__scum__ _He was scum._  
+__ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
+__pinches__ _n_  
+__rummaging__ _v_  
+__fluttered__ _v_  
+
 __hit up__ _She thought about hitting up an amusement park._  
 __rolls__ _n_ _A shot of my rolls hanging over my gym shorts._  
 __thrash__ _v_  
