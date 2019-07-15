@@ -2021,7 +2021,7 @@ __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his 
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :two::hammer: _A better newspaper clip._  
 __clipped grass__  
-__clippings__ _n_  
+__clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
 __clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. :es: camarilla  
 __cloak__ :two::hammer: :es: capa, manto  
 __cloakroom__ _n_ :two::hammer:  
@@ -2196,6 +2196,7 @@ __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any 
 __compulsory school__  
 __compulsory__ :three::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._  
 __compurgator__ _n_  
+__comrade__  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
 __con<sup>1</sup>__ _n_ :five::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
@@ -3677,7 +3678,7 @@ __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]
 __exhilarate__ :mute:[ex~~h~~ilarate]  
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exodus__  
-__exonerate__ :two::hammer:  
+__exonerate__ _v_ :three::hammer: (exonerating)  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expediency__  
 __expedient__  
@@ -5029,6 +5030,7 @@ __hatch<sup>2</sup>__ _v_ :six::hammer: (hatches, hatched) _A plan hatched durin
 __hatcheck girl__  
 __hatchery__ _A fish hatchery._  
 __hatchet__  
+__hatred__ _n_  
 __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ :five::hammer: _A record haul of assets seized by Scotland Yard._ _It's a small haul for such a high-profile program._  
@@ -5153,7 +5155,7 @@ __hemp__ _n_ :four::hammer: _Hemp plant._
 __henchman__ _n_ :four::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :four::hammer: (heralded)  
+__herald__ _v_ :five::hammer: (heralded) _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __herdsman__ _n_  
 __here's looking at you__  
 __heresy__ _n_ :two::hammer:  
@@ -5936,7 +5938,8 @@ __kickback schemes__
 __kickback__ _n_ :two::hammer: (kickbacks)  
 __kickoff__ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
-__kid__ _n_ _I was a Nintendo kid._  
+__kid<sup>1</sup>__ _n_ _I was a Nintendo kid._  
+__kid<sup>2</sup>__ _v_  
 __kiddo__  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
 __kike__ _Kike names._  
@@ -6115,7 +6118,7 @@ __late bloomer__ _n idiom_
 __latecommer__ _I'm somewhat of a latecomer._  
 __lath__ _n_ :three::hammer: (laths)  
 __lather, rinse, repeat__ :dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought.  
-__lathered__ _v_ :two::hammer: (lathering)  
+__lathered__ _v_ :three::hammer: (lathering) _He lathered the bar of soap._  
 __lathes__  
 __Latinas__  
 __Latino__ :pencil2: _In Los Angeles half of the city's residents are Latino._  
@@ -6194,6 +6197,7 @@ __legit__ _adj_ _Slang_ :three: Legitimate.
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
+__leisurely__  
 __leitmotif__  
 __lemme__ _Lemme see._  
 __lemming__ _n_  
@@ -7111,6 +7115,7 @@ __niche__ _n_ :three::hammer:
 __nickel__ _n_ _A nickel mine._  
 __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
+__niggling__ _adj_ _Niggling questions._  
 __nigh__  
 __night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
@@ -7225,7 +7230,7 @@ __oafish__ :two::hammer:
 __oars__ _n_ :two::hammer:  
 __oases__ _n_  
 __oat__ _n_  
-__oatmeal__  
+__oatmeal__ _n_ :two::hammer:  
 __obi__ _n_  
 __obit__ :two::hammer:  
 __obituaries__  
@@ -7705,6 +7710,7 @@ __paywall__ _n_ :three: (paywalls) A feature of a website, application or servic
 __PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
+__peach in syrup__ _n_ :es: melocotón en almíbar  
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame pealed._  
@@ -8355,7 +8361,7 @@ __prowess__ _n_ :six: Prowess means exceptional skill or ability. Your sailing p
 __prowled__ _v_  
 __proxy__ _I'm a proxy for the listener._  
 __prude__ _n_  
-__prudent__  
+__prudent__ _adj_ :two::hammer:  
 __prune-o__ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
 __pry__ _v_ :nine: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
@@ -8794,7 +8800,7 @@ __register__ _n_ _Instant savings at register when 5 Colgate products are purcha
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
 __regular shipping__ (vs _expedited shipping_)  
-__regulation__ :two::hammer: _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
+__regulation__ _n_ :three::hammer: _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._ _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
 __regulator__ _n_  
 __regulatory muster__  
 __regulatory__  
@@ -9092,6 +9098,7 @@ __Roto-Rooter__
 __rotorcraft__  
 __rototiling__  
 __Rottweiler__  
+__rouble__ _A copper rouble coin._  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __roughly__ :two::hammer:  
 __roughshod__ _adv_ :five::hammer:  
@@ -10053,6 +10060,7 @@ __smouldering__
 __smudge__  
 __smudges__  
 __smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
+__smuggling__ _v_  
 __smugly__ _adv_ :six: In a self-satisfied manner. _To laugh smugly._  
 __smugness__  
 __smut__ _They want to report smut._  
@@ -10122,6 +10130,7 @@ __snugly__ :two::hammer:
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __soap opera__  
+__soap-spuds__ _n_  
 __soapbox<sup>1</sup>__ _n_  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
@@ -10271,7 +10280,7 @@ __spinster__ :two::hammer:
 __spiny lobsters__ :camera:  
 __spiraling__  
 __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
-__spite__  
+__spite__ _n_ :three::hammer: _He brought him along for spite._ _He added her to the list out of spite._  
 __spiteful__ :two::hammer:  
 __spitting image__  
 __spittle__ _n_ :five::hammer:  
@@ -11741,6 +11750,7 @@ __unsound__
 __unspooling__ _Unspooling microphone cables._  
 __unstoppable__ :two::hammer: _She is our unstoppable force of nature._  
 __unsung__  
+__unswerving__ _adj_ _Unswerving confidence._  
 __unswervingly__  
 __untapped__ _Untapped talent._  
 __untenable__ :two::hammer:  
@@ -11760,6 +11770,7 @@ __unyielding__ :two::hammer:
 __up and running__  
 __up and under__ A basketball move.  
 __up for grabs__ _idiom_ :two: Available for anyone.  
+__up yours__  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
@@ -12181,6 +12192,7 @@ __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
 __whiplash__ _n_ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
 __whippersnapper__  
+__whipping by__ _The summer is whipping by._  
 __whir__ _n_  
 __whirl__ :mute:[w~~h~~irl]  
 __whirled__ _v_  
