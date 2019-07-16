@@ -371,7 +371,7 @@ __apprehend__ _v_
 __apprehension__  
 __apprehensive__ _adj_ Very nervous.  
 __approval rating__ _Park's approval rating has plummeted._  
-__apropos__ _prep_ :two::mega::hammer:  
+__apropos__ _prep_ :three::mega::hammer:  
 __apt__  
 __aquanaut__ _n_  
 __aquaponics__ _n_  
@@ -591,6 +591,7 @@ __bad blood__ :two::hammer:
 __bad egg__ Someone who behaves in a bad or dishonest way.  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
+__bad-mouth__ _v_  
 __badass<sup>1</sup>__ _n_  
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _It's just what Bond fans want in a baddie._  
@@ -2710,7 +2711,7 @@ __datalogger__ _n_ :two::hammer:
 __date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
-__daub__ _v_ :three::hammer: (daubed) _A swastika was daubed on a science center window._  
+__daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ :mute:[dau~~gh~~ter]  
 __daunting__ _adj_ :four: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
@@ -3922,7 +3923,7 @@ __file suit__ _v_
 __file<sup>1</sup>__ _n_  
 __file<sup>2</sup>__ _v_ :two: To smooth, reduce, or remove with or as if with a file.  
 __filibuster__ _n_ :three::hammer:  
-__filings__  
+__filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from under her fingernails._  
 __Filipino__  
 __fill out__  
 __fill someone in__ _Thank you for filling us in._  
@@ -4631,7 +4632,7 @@ __go-ahead goal__
 __go-for-broke__  
 __go-pills__ _n_  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
-__goad__ _v_ :five::hammer: (goading)  
+__goad__ _v_ :six::hammer: (goaded, goading)  
 __goads__ _n_  
 __goahead__  
 __goalie__  
@@ -6043,7 +6044,7 @@ __lace up__ _v_ _Adam laced up his Nikes._
 __lace__ _n_  
 __lacerate__ _v_  
 __lackadaisical__  
-__lackey__ _n_ :two::hammer: (lackeys) _A political lackey._  
+__lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
@@ -6756,7 +6757,7 @@ __mill__ _n_ A million dollards.
 __milled about__ _v_  
 __Millennials__  
 __millennium__ :pencil2:  
-__millet__ _He had eaten millet gruel._  
+__millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
 __milling machine__ _n_  
 __milling__ :two::hammer: _To avoid disrespectful milling._  
 __million__ _The project willl cost around $10 million._ (not ending with 's')  
@@ -6979,7 +6980,7 @@ __mush__ _n_ :four::hammer: _A mush brain._
 __mush-mouth__ _The kid with the mush-mouth accent._  
 __mushers__  
 __mushroom__ _v_ _Traffic mushroomed in Feb._  
-__mushy__ :two::hammer: _Mushy age._  
+__mushy__ _adj_ :three::hammer: _Mushy age._  
 __musing__ _n_ (musings) Contemplation; reflection.  
 __musket__  
 __muskmelon__ _n_ :three::hammer:  
@@ -7865,6 +7866,7 @@ __pick__ _v_ _Pick your choice._
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
+__pick-up__ _The restaurant was little more than a pick-up joint._  
 __pickets__ _n_  
 __picklock__ _v_  
 __pickoff__ _A pickoff throw to first base._  
@@ -7972,6 +7974,7 @@ __pivotal__ :two::hammer:
 __pixie__  
 __pizazz__ _n_ :two: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzle__ _n_ :two::hammer: (penis?)  
+__PJs__  
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
 __place holder__ :two::hammer:  
@@ -8064,7 +8067,7 @@ __plunder__ _v_ :four::hammer: (plundered)
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
-__ply__ _v_ :eight::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._  
+__ply__ _v_ :nine::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
 __PM__ Particulate matter. Small particles in the air, containing a variety of components.  
 __pneumonia__ :mute:[~~p~~neumonia]  
 __PO__ Parole officer?  
@@ -8217,7 +8220,7 @@ __predicament__ :two::hammer: _Hearsay suggests that green apples can induce suc
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
-__preen__ _v_ :eight::hammer: (preened, preening) _She didn't preen for her grandfather._  
+__preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __premier__ _adj_  
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
@@ -8283,6 +8286,7 @@ __prime<sup>3</sup>__ _v_ :three::hammer: (primed)
 __primer__ _n_ :four:hammer:  
 __priming__ _v_  
 __primly__ :two::hammer:  
+__primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
 __prior__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
 __prioritize__ _v_  
@@ -8642,7 +8646,7 @@ __rare__
 __rarefied__  
 __raring__  
 __rascal__  
-__rash<sup>1</sup>__ _n_ :eight: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
+__rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
 __rash<sup>2</sup>__ _adj_  
 __Rashomon effect__ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
@@ -9108,6 +9112,7 @@ __round the bend__ _idiom_ :two: Crazy, insane.
 __round__ _v_  
 __round-trip__ :two::hammer: _A round-trip ticket._  
 __roundabout__ :two::hammer: (Children's attraction.)  
+__roundhouse__ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _I feel free to roundly criticize this source code._  
 __roundup__  
 __roustabout__ _The roustabout Bohemian._  
@@ -10154,7 +10159,8 @@ __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food o
 __soignée__  
 __soil__ _v_  
 __soiled__  
-__sojourn__ _n_ :six::hammer: _The phantasmagorical sojourn along the freeways of LA._  
+__sojourn<sup>1</sup>__ _n_ :six::hammer: _The phantasmagorical sojourn along the freeways of LA._  
+__sojourn<sup>2</sup>__ _v_  
 __solace__  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
@@ -10241,6 +10247,7 @@ __speargun__
 __spearhead__ _v_ :five: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specialty__ _Specialty apparel sellers._  
+__specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specious__ :two::hammer: _Specious argument._  
 __speck__ :two::hammer: _A speck of blood._  
@@ -10387,6 +10394,7 @@ __squirm<sup>1</sup>__ _v_ :eight::hammer: (squirming) _Squirming like a toad._ 
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squishing__  
+__squishy__ _adj_  
 __squit__ _Super-soaker squit guns._  
 __St. Bernard__  
 __stab__ _n_ :two::hammer:  
@@ -10829,8 +10837,7 @@ __swathe<sup>1</sup>__ _n_
 __swathe<sup>2</sup>__ _v_ :three::hammer: (swathed)  
 __swats__ _n_ :two::hammer:  
 __swatted__  
-__sway__ _v_ :four::hammer: (swayed) _They stood together and swayed._ _The flowers bobbled and swayed._  
-__sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__ Win approval or support for. _His speech did not sway the voters._ _Syn_ carry, persuade  
+__sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweat bullets__ _I'll be sweating bullets._  
@@ -11849,6 +11856,7 @@ __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._
 __vagrant<sup>1</sup>__ _n_ :five: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_  
 __vague__ :mute:[vag~~u~~e]  
+__vainglorious__ _adj_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
 __valedictory__ _n_ A closing or farewell statement or address, especially one delivered at graduation exercises.  

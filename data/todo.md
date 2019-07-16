@@ -1,25 +1,4 @@
 
-__squishy__ _adj_  
-__mushy__ _adj_  
-__roundhouse__ _Try to roundhouse kick a bottle cap off a bottle._  
-__PJs__  
-__sojourning__ _v_  
-__apropos__  
-__specifically__  
-__preen__ _v_ __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc. 
-__vainglorious__ _adj_  
-__primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
-
-__lackey__ _n_  
-__sway__ _He had no sway over him._  
-__goaded__ _v_  
-__filings__ _n_ :astonished: _She scraped the metal filings from under her fingernails._  
-__daubed__ _v_ _She daubed some color on her cheeks._  
-__millet__ _n_ _Millet soup._  
-__pick-up__ _The restaurant was little more than a pick-up joint._  
-__ply__ _v_ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
-__rashes__ _n_  
-__bad-mouth__ _v_  
 __scum__ _He was scum._  
 __ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
 __pinches__ _n_  
