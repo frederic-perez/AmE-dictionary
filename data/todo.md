@@ -1,27 +1,4 @@
 
-__scum__ _He was scum._  
-__ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
-__pinches__ _n_  
-__rummaging__ _v_  
-__fluttered__ _v_  
-
-__hit up__ _She thought about hitting up an amusement park._  
-__rolls__ _n_ _A shot of my rolls hanging over my gym shorts._  
-__thrash__ _v_  
-
-__prescience__ _n_  
-__berserk__ _adj_  
-__obsequious__  
-__infare__ _n_  
-__make up your mind__ _idiom_ To make a decision.  
-__let on__ _phr v_  
-__let down__ _phr v_  
-__ear candy__ _n_ _slang_ Pleasant-sounding music.  
-
-__rickety__ _It was a rickety plan at best._  
-__throughfare__ _n_  
-__foreman__ _He was a foreman at the munitions factory._  
-__munitions__ _The munitions factory._  
 __buckwheat__ _n_  
 __saffron__ _n_  
 __cabbage__ _n_ _A head of cabbage was bubbling in a copper pot of water._  

@@ -859,7 +859,7 @@ __bereft<sup>1</sup>__ _adj_ :three::hammer:
 __bereft<sup>2</sup>__ _v_  
 __beret__ :mute:[bere~~t~~]  
 __berm__ _n_  
-__berserk__ _adj_ :five: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
+__berserk__ _adj_ :six: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
 __beseech__  
@@ -3067,6 +3067,7 @@ __distinctly__
 __distraught__  
 __distressed__  
 __disused__  
+__ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
 __dithered__ _v_  
 __ditsy__ _Ditsy nanny._  
@@ -3379,6 +3380,7 @@ __e-blasts__
 __e-commerce__  
 __e.g.__ Exempli Gratia.  
 __eager__  
+__ear candy__ _n_ _slang_ Pleasant-sounding music.  
 __earbuds__ :camera:  
 __earlier__ _adv_ :three:  
 __earlocks__ _n_  
@@ -4120,7 +4122,7 @@ __flushed complexion__
 __fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
-__flutter<sup>1</sup>__ _v_ :seven: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
+__flutter<sup>1</sup>__ _v_ :eight: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
 __flutter<sup>2</sup>__ _n_  
 __fluttering__ _n_  
 __fly high__  
@@ -4205,7 +4207,7 @@ __forego__
 __foregone__ :two::hammer:  
 __forehead__ :mute:[fore~~h~~ead]  
 __foreign__ :mute:[forei~~g~~n]  
-__foreman__ :two::hammer:  
+__foreman__ _n_ :three::hammer: _He was a foreman at the munitions factory._  
 __forenoon__ _We had a real gully washer in the forenoon._  
 __forensics__ :two::hammer:  
 __foreplay__  
@@ -5231,6 +5233,7 @@ __hit the brakes__
 __hit the road__ To leave a place or begin a journey.  
 __hit the sack__  
 __hit the wall__  
+__hit up__ _She thought about hitting up an amusement park._  
 __hitch<sup>1</sup>__ _n_  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither and thither__ :two::hammer::pencil2:  
@@ -5625,6 +5628,7 @@ __infallibity__
 __infamous__ _adj_ :seven: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__  
 __infant__ _n_  
+__infare__ _n_  
 __infeasible__ _adj_ _Syn_ unfeasible  
 __inferno__ _All kinds of Indian infernos._  
 __infighting__ :two::hammer:  
@@ -6224,7 +6228,8 @@ __lessen__ _v_
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :six::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
-__let down__ _phr v_ To disappoint someone by failing to do what they expect you to do.  
+__let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
+__let on__ _phr v_  
 __let somebody down__ _idiom_ To disappoint someone.  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let your hair down__  
@@ -6517,7 +6522,7 @@ __make perfect sense__ _It makes perfect sense._
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
-__make up one's mind__ _Too much love will kill you if you can't make up your mind._  
+__make up one's mind__ _idiom_ :two: To make a decision. _Too much love will kill you if you can't make up your mind._  
 __make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
@@ -6971,6 +6976,7 @@ __mumps__
 __munch__ _v_ :three:hammer: (munches)  
 __mundane__ :two::hammer:  
 __Muni bus__  
+__munitions__ _The munitions factory._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
 __muscling__ _v_  
@@ -7246,7 +7252,7 @@ __obnoxious__ _adj_ :three::hammer:
 __obo__ _abbr_ :two: Or best offer.  
 __obscene__ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
-__obsequious__  
+__obsequious__ _adj_ :two::hammer:  
 __obsidian__  
 __obstreperousness__  
 __obtrude__ _v_  
@@ -7916,7 +7922,7 @@ __pincers__ _n_
 __pinch > in a pinch__  
 __pinch-faced__  
 __pinch-hitter__  
-__pinch<sup>1</sup>__ _n_ _School could face budget pinch._  
+__pinch<sup>1</sup>__ _n_ :two::hammer: (pinches) _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
 __pincushion__  
 __pine (for)__ _v_  
@@ -8239,7 +8245,7 @@ __prepping__ _v_
 __prequel__  
 __prerogative__ _n_ :four::hammer:  
 __presbyopia__ _n_  
-__prescience__ _n_  
+__prescience__ _n_ :two::hammer:  
 __prescient__ _adj_ :five::hammer:  
 __prescribe__ _v_  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
@@ -8961,7 +8967,7 @@ __ribbed__ _v_ :two::hammer:
 __ribbing__ :two::hammer:  
 __riches__ _pl n_ :five: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
-__rickety__ _adj_ :eight: __1__ (of a structure, piece of furniture, etc) ikeLly to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
+__rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __RICO__ _He had been indicted on RICO charges._  
@@ -9059,7 +9065,7 @@ __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
 __roll__ _v_ :two::hammer: _Roll the video, please._ _You rolled 6, you go 6._  
-__roll<sup>1</sup>__ _n_ _A deli where I buy a morning paper, roll and coffee._  
+__roll<sup>1</sup>__ _n_ :two::hammer: (rolls) _A shot of my rolls hanging over my gym shorts._ _A deli where I buy a morning paper, roll and coffee._  
 __roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
 __roller bag__  
 __roller derby__  
@@ -9157,7 +9163,7 @@ __rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? 
 __rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :seven::hammer: (rummaged, rummaging)  
+__rummage__ _v_ :eight::hammer: (rummaged, rummaging)  
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
 __run amok__ :two::hammer:  
@@ -9419,7 +9425,7 @@ __scuffed__ _v_ :two::hammer:
 __scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle<sup>2</sup>__ _n_ :five::hammer: _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
-__scum__  
+__scum__ _n_ :two::hammer: _He was scum._  
 __scumbag__  
 __scumbags__  
 __scupper__ _v_  
@@ -11169,6 +11175,7 @@ __throttling__ _Throttling the Philadelphia Eagles._
 __through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
 __through thick and thin__ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
+__throughfare__ _n_ Another word for thoroughfare.  
 __throw (someone) under the bus__ _idiom_  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
