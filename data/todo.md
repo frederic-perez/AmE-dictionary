@@ -1,25 +1,4 @@
 
-__buckwheat__ _n_  
-__saffron__ _n_  
-__cabbage__ _n_ _A head of cabbage was bubbling in a copper pot of water._  
-__bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
-__grated__ _v_ _Fresh grated carrots._  
-__rhetoric__ _n_ :pencil2: _State rhetoric._  
-__mince__ _n_  
-__insomniac__ _n_  
-__stooped__ _v_  
-__marjoram__ _n_  
-__horseradish__ _n_  
-
-__edict__ _n_  
-__Generalissimo Stalin__  
-__raucous__ _adj_  
-__broached__ _v_ _He broached the subject._  
-__timetable__ _v_ (?)  
-__satchel__ _n_  
-__clogging__ _v_  
-__mahogany__ _n_ _Polished mahogany banisters._  
-__banister__ _n_ _Polished mahogany banisters._  
 __frosted glass__ _Illuminated by domes of frosted glass._  
 __throng__ _n_  
 __barrel__ _n_ _A tank's barrel._  

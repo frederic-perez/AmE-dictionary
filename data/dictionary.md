@@ -649,6 +649,7 @@ __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-
 __banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
+__banister__ _n_ _Polished mahogany banisters._  
 __bank on__ _phr v_ To rely on somebody or something.  
 __bank__ _Fillon can beat Le Pen, but don't bank on it._  
 __bankroll<sup>1</sup>__ _n_  
@@ -1297,7 +1298,7 @@ __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeche
 __Britons__  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__broach__ _v_ (broached) :three::hammer:  
+__broach__ _v_ (broached) :four::hammer: _He broached the subject._  
 __broad daylight__ _A sniper who prays on victims in broad daylight._  
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  
@@ -1333,6 +1334,7 @@ __brutish__
 __BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
+__bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
 __bubbly__ _Bubbly breatlessness._  
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __buck off__ _v_  
@@ -1347,6 +1349,7 @@ __buckle up__ :two::hammer: _Bucking up a seat belt._
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::hammer:  
 __buckskin__ _n_ :two::hammer: (buckskins)  
+__buckwheat__ _n_  
 __buckwheats__  
 __budding__  
 __buddy__  
@@ -1511,8 +1514,7 @@ __C.E.__ (CE) Of the period coinciding with the Christian era; preferred by some
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
 __cabana__ _n_ :two::hammer: (cabanas)  
-__cabbage__  
-__cabbages__ _n_  
+__cabbage__ _n_ :three::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _Uncle-s Tom Cabin._  
 __cabinet__ :two::hammer: _A top cabinet job._  
 __cabinetry__  
@@ -2031,6 +2033,7 @@ __clock in__ _v_
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
 __clockwork__ _n_  
 __clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
+__clogging__ _v_  
 __close > not even close__  
 __close call__ _n informal_ :three::dart: A narrow escape from danger or trouble. _syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
@@ -3418,7 +3421,7 @@ __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._
 __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
-__edict__  
+__edict__ _n_ :two::hammer:  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
 __eel__  
@@ -4486,6 +4489,7 @@ __gelt__
 __gemstone__ _n_ :es: piedra preciosa  
 __gender gap__  
 __genealogist__  
+__Generalissimo Stalin__  
 __Generation Xers__  
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
@@ -4714,7 +4718,7 @@ __grass-routs__ _?_ _Grass-routs campaign._
 __grassroots__  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :two::hammer: (grates) :camera: _Cast iron grates._  
-__grate<sup>2</sup>__ _v_ :four: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._  
+__grate<sup>2</sup>__ _v_ :five: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
 __gratin__ _?_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
@@ -5349,7 +5353,7 @@ __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to dupli
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
 __horsepower__ _Physical horsepower._  
-__horseradish__  
+__horseradish__ _n_ :two::hammer:  
 __horseshoe__ :two::hammer: (horseshoes)  
 __horsetails__ _n_  
 __horticulture__  
@@ -5676,6 +5680,7 @@ __insidious__
 __insipid__  
 __insofar__  
 __insolvency__  
+__insomniac__ _n_  
 __instability__ :two::hammer::pencil2:  
 __installment__ _n_ :two::dart: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
@@ -6502,7 +6507,7 @@ __Magic Marker__
 __magnanimous__  
 __magpied__ _v_  
 __magpies__  
-__mahogany__ _n_ :three::hammer: _He took a leather seat at a magohany bar._  
+__mahogany__ _n_ :four::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
 __maiden__ :two::hammer: _Maiden flight._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ :pencil2: _Two great, mailed figures circling each other in the desert._  
@@ -6585,6 +6590,7 @@ __Mariel felons__
 __marijuana__  
 __marinades__  
 __mariner__ _n_  
+__marjoram__ _n_ Oregano.  
 __markdown__  
 __markdowns__  
 __marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
@@ -6769,7 +6775,8 @@ __million__ _The project willl cost around $10 million._ (not ending with 's')
 __milquetoast__ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __mince (one's) words__ _idiom_  
-__mince__ _v_ :three: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._  
+__mince<sup>1</sup>__ _v_ :three: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._  
+__mince<sup>2</sup>__ _n_  
 __mincemeat__  
 __mind__ _v_ _Mind the gap._  
 __minder__ :es: guardaespaldas  
@@ -8677,7 +8684,7 @@ __rattlesnake__
 __rattling<sup>1</sup>__ _n_  
 __rattling<sup>2</sup>__ _v_  
 __ratty__ _adj_ _slang_ Dilapidated; in poor condition.  
-__raucous__ _adj_ :eight: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
+__raucous__ _adj_ :nine: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
 __raunchy__ _adj informal_ :four::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :three::hammer:  
@@ -8954,7 +8961,7 @@ __RGA__ _RGA chairman._
 __rhabdomancy__  
 __rhapsodize__  
 __rhapsody__ :mute:[r~~h~~apsody]  
-__rhetoric__ _n_ :pencil2::four::hammer: _From divisive rhetoric to civil dialogue._  
+__rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
 __rheum__ _n_ :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
@@ -9214,7 +9221,7 @@ __safeguard__
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
-__saffron__ _n_ :two::hammer: :es: azafrán  
+__saffron__ _n_ :three::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __sage<sup>1</sup>__ _n_  
@@ -9276,7 +9283,7 @@ __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an at
 __sass__ _v_ (sassed)  
 __sassy__ _adj_ :two::hammer:  
 __SAT__ _trademark_ :two: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
-__satchel__ _n_  
+__satchel__ _n_ :two::hammer:  
 __sated__ _v_  
 __Saturday__ :mega: /'sæÔødi, -deI/  
 __saturnine__ :two::hammer:  
@@ -11253,7 +11260,8 @@ __timeclock__ _Denver Movie Timeclock._
 __timeline__  
 __timely__ _adj_ :seven::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
-__timetable__  
+__timetable<sup>1</sup>__ _n_  
+__timetable<sup>2</sup>__ _v_  
 __timid__  
 __timing bag__  
 __timorous__ _adj_ :two: Full of fear; timid.  
