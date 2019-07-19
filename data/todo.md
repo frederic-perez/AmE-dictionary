@@ -1,4 +1,15 @@
 
+__be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
+__donkey__ _n_ _slang_ A stupid or silly person.  
+__diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
+__when pigs fly__ _idiom_ Never, impossible.  
+__wait for the other shoe to drop__ _idiom_ To wait for something bad to happen.  
+__misspend__ _v_ To spend time more or money foolishly or wastefully.  
+__keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
+__sojourn<sup>1</sup>__ _v_  
+__sojourn<sup>2</sup>__ _n_  
+__mow__ _v_ To cut down grass with a machine.  
+
 __intently__ _He watched him intently._  
 __concourse__ _n_  
 __lowly__ _A lowly subsection of the Ministry of Interior._  
