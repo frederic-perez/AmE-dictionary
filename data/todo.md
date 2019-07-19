@@ -1,4 +1,14 @@
 
+__spark plug__ _n_ :dart: :es: bujía  
+__tractor__ _n_  
+__tract__ _v_  
+__so-so__  
+__tartan__ _n_  
+__caliper__ _n_ _I need a new brake caliper for my motorcycle._  
+__muffler__ _n_ _Syn_ silencer  
+__stud__ _n_ _Tires with studs._  
+__yeast__ _n_  
+
 __be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
