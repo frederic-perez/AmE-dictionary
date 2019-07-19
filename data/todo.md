@@ -1,4 +1,19 @@
 
+__intently__ _He watched him intently._  
+__concourse__ _n_  
+__lowly__ _A lowly subsection of the Ministry of Interior._  
+__crumble__ _v_  
+__ragtag__ _adj_ _A ragtag group._  
+__boot__ _n_ (car's trunk?) _He loaded their cases into the boot._  
+__goaded__ _v_  
+__bloodshot eyes__ :camera:  
+__cipher__ _n_  
+__outplayed__ _v_  
+__wincing__ _v_ _He was wincing in pain._  
+__piping__ :camera: _Uniform trousers with red piping._  
+__fit the bill__ :two::hammer: _His appearance fitted the bill._  
+__hush up__ _The matter had been hushed up._  
+__uprooted__ _Uprooted workers._  
 __compulsory__  
 
 __begrudge__ _v_ _No one could begrudge her that._  
