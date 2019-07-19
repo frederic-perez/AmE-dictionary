@@ -1,4 +1,20 @@
 
+__tapped out__ _idiom_ Completely exhausted or depleted (of some resource). _A: "Do you want to place another bet?" B: "Nah, I'm tapped out." Do we have any more ink cartridges? This one's tapped out._  
+__nervous laughter__  
+__perfect storm__  
+__forgetful__ _adj_  
+__C-section__  
+__stay-at-home__ _adj_ _Stay-at-home dad._  
+__stifle__ _v_  
+__bad-mouth__  
+__dirty-mouth__  
+__point-blank__  
+__each other__  
+__bulletproof__ _adj_ _A bulletproof relationship._  
+__let alone__ _idiom_  
+__put up with__ _idiom_ To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._  
+__brutal__  
+
 __spark plug__ _n_ :dart: :es: bujía  
 __tractor__ _n_  
 __tract__ _v_  
