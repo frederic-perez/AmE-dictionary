@@ -201,8 +201,7 @@ __airship__ _n_ _Tethered airships._
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
 __aisle__ :mega: (īl)  
-__akin to__ :two::hammer:  
-__akin__ :two::hammer:  
+__akin__ _adj_ :five: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc.  
 __al fresco__  
 __alabaster__  
 __alacrity__ _n_ :two: /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
@@ -595,7 +594,7 @@ __bad-mouth__ _v_
 __badass<sup>1</sup>__ _n_  
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _It's just what Bond fans want in a baddie._  
-__bade__ _v_ :three::hammer: _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
+__bade__ _v_ :four::hammer: _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
@@ -684,7 +683,8 @@ __barrage<sup>2</sup>__ _v_
 __barre__  
 __barrel bombs__  
 __barrel of laugh__ _idiom_ :two: Someone who is very funny.  
-__barrel__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
+__barrel<sup>1</sup>__ _n_ _A tank's barrel._  
+__barrel<sup>2</sup>__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__  
 __barrette__ :two::hammer:  
@@ -1962,7 +1962,7 @@ __claimants__ :two::hammer:
 __clam up__ _v_  
 __clambake__ _n_  
 __clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
-__clammy__ :two::hammer:  
+__clammy__ _adj_ :three::hammer: _His skin was clammy._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
@@ -2836,8 +2836,7 @@ __delivered__ _On Thursday the No. 4-ranked Cougars delivered._
 __delivers__  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
-__delude__ _v_ :two::hammer:  
-__deluded__  
+__delude__ _v_ :four::hammer: (deluded)  
 __deluge<sup>1</sup>__ _n_ :four: _The deluge is not over._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
@@ -3184,6 +3183,7 @@ __douse__ _v_
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
 __dove__ _v_  
 __dovetail__ _v_ (dovetails) :three::hammer:  
+__dowdy__ _adj_  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down the drain__ _idiom_ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
@@ -3213,7 +3213,7 @@ __downward__ _A downward spiral._
 __dowry__ _n_ :three::hammer: :es: dote  
 __doyenne__  
 __doze__ _v_  
-__drab<sup>1</sup>__ _adj_ :four: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._  
+__drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __Draconian__ _adj_  
 __draconian__ :two::hammer:  
@@ -4122,7 +4122,7 @@ __flurry > in a flurry__
 __flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
-__fluster__ _v_ :five: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
+__fluster__ _v_ :six: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
 __flutter<sup>1</sup>__ _v_ :eight: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
@@ -4331,6 +4331,7 @@ __front man__ _n_ :two::hammer: (frontman)
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
 __frostbite__ :two::hammer:  
+__frosted glass__ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
 __frozen yogurt__  
@@ -6207,7 +6208,7 @@ __legit__ _adj_ _Slang_ :three: Legitimate.
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
-__leisurely__  
+__leisurely__ :two::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__  
 __lemme__ _Lemme see._  
 __lemming__ _n_  
@@ -6258,7 +6259,7 @@ __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins a
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
 __librocubicularist__ _n_ A person who reads in bed.  
-__lice__ _n_ :five: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__lice__ _n_ :six: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -6803,6 +6804,7 @@ __miscellany__ :mega:
 __mischief__ _n_ :three::hammer:  
 __mischievous__  
 __misconduct__  
+__misconstrued__  
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ :two::hammer:  
@@ -7281,7 +7283,8 @@ __of late__ _adv_ :three: You use of late to refer to an event or state of affai
 __of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
-__off__ _v_ _slang_ To murder, to kill.  
+__off<sup>1</sup>__ _She got off the train._  
+__off<sup>2</sup>__ _v_ _slang_ To murder, to kill.  
 __off-kilter__ :two::hammer:  
 __off-price stores__  
 __off-putting__  
@@ -7354,7 +7357,7 @@ __on top of that__ _phr_ :two: _On top of that, ..._
 __On top of that,__  
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
-__on__ :dart: _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
+__on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
 __onboarding__ (?)  
 __once in a blue moom__ Very rarely.  
 __once in a while__  
@@ -7851,6 +7854,7 @@ __phase out__
 __phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
 __phew__ _interj_ Used to express relief, fatigue, surprise, or disgust.  
+__phials__ _n_ _Several glass phials of dirty white meth crystals._  
 __philanderer__  
 __philandering__  
 __Philly__ _n_ :three: Philadelphia  
@@ -9041,7 +9045,7 @@ __road map__ _n_ :pencil2:
 __road salt__ _n_  
 __roadblock__ _n_  
 __roadside__ _Roadside billboards._  
-__roam__ _v_ :five::hammer: (roaming) _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
+__roam__ _v_ :six::hammer: (roaming) _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
 __roasted tea__ :camera:  
 __rob__ _Crimson-robed nuns._  
@@ -10023,7 +10027,7 @@ __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
-__slush__ _n_ :two::hammer: _The offshore ice and slush._  
+__slush__ _n_ :three::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :nine: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
@@ -11176,7 +11180,7 @@ __thrifty__ _adj_ :two::hammer:
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :four::hammer:  
-__throng__ _n_ :six: A large gathering of people. _A throng of news media members._  
+__throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
@@ -12206,6 +12210,7 @@ __whiff<sup>1</sup>__ _n_ :three::hammer:
 __whiff<sup>2</sup>__ _v_  
 __whiffed__ _v_  
 __while__ _v_ :mute:[w~~h~~ile] _To while away the hours drinking vodka._  
+__whim__ _n_  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whinge__ _v_ _British English_ To keep complaining in an annoying way.  
@@ -12442,7 +12447,7 @@ __write up__ _phr v_ :three: To write something using notes that you wrote earli
 __write__ :mute:[~~w~~rite]  
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
-__writhe__ _v_ :six::hammer: (writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._  
+__writhe__ _v_ :seven::hammer: (writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._  
 __writing on the wall, the__ An omen of impending disaster or ruin. _I've seen the writing on the wall._  
 __writs__ _n_  
 __wrong__ :mute:[~~w~~rong]  

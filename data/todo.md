@@ -1,25 +1,4 @@
 
-__frosted glass__ _Illuminated by domes of frosted glass._  
-__throng__ _n_  
-__barrel__ _n_ _A tank's barrel._  
-__misconstrued__  
-__on__ _Please, stay on the train._  
-__off__ _She got off the train._  
-
-__roaming__ _v_  
-__dowdy__ _adj_  
-__flustered__ _v_ _She was flustered._  
-__leisurely__ _He took his coat, leisurely putting it on._  
-__deluded__ _v_  
-__clammy__ _adj_ _His skin was clammy._  
-__writhing__ _v_ _The river came alive, writhing._  
-__slush__ _n_  
-__drab__ _A drab office._  
-__lice__ _n_  
-__bade goodbye__ _He bade het goodnight._  
-__whim__ _n_  
-__phials__ _n_ _Several glass phials of dirty white meth crystals._  
-__akin to__  
 __compulsory__  
 
 __begrudge__ _v_ _No one could begrudge her that._  
