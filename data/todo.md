@@ -1,4 +1,15 @@
 
+__pooch__ _n slang_ A dog.  
+__remora__ _n_ An obstacle, hindrance, or obstruction.  
+__outfight__ _v_ To fight better than someone.  
+__take down__ _phr v_ To make notes, to write down information.  
+__Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
+__outfly__ 
+__zip your li__ _idiom_ Be quiet.  
+__egghead__ _n informal_ An overly intellectual person.  
+__mitigate__ _v_  
+__hold__ _v_ _They hold a particular view._  
+
 __lull__ _v_  
 __truism__  
 __rifling__ _v_ _Rifling through his case._  
