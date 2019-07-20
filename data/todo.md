@@ -1,4 +1,14 @@
 
+__pompous__  
+__egomaniac__  
+__narcissistic__  
+__visage__ _n_ __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
+__countenance__ _n_  
+__feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
+__ADHD__ _abbr_ Attention deficit hyperactivity disorder.  
+__unapologetically__  
+__buyout__ _n_  
+
 __bonkers__  
 __beholden__ _adj_  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
