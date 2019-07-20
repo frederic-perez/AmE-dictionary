@@ -1,4 +1,20 @@
 
+__bonkers__  
+__beholden__ _adj_  
+__agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
+__hot water__ _n_  
+__regulation__ _n_  
+__exquisite__ _Exquisite acting._  
+__MDMA__ _abbr_ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
+__mere__  
+__helpless__  
+__smitten__  
+__mascot__  
+__shackles__ _n_  
+__of one's own accord__ Voluntarily.  
+__pouch__ _n_  
+__cauldron__ _n_  
+
 __pooch__ _n slang_ A dog.  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __outfight__ _v_ To fight better than someone.  
