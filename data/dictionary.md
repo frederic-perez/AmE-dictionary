@@ -114,6 +114,7 @@ __add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __address__ _v_  
 __adenoidal__  
+__ADHD__ _abbr_ Attention deficit hyperactivity disorder.  
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
@@ -173,6 +174,7 @@ __aggravate__ _v_ (aggravated) :two::hammer:
 __aggravation__  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aghast__ _adj_ :six::hammer:  
+__agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
@@ -800,7 +802,7 @@ __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ So
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn't get the basics in primary school, they are way behind the eight ball.  
 __behold__ _v_ :three::hammer: _The wedding ceremony was a joy to behold._  
-__beholden__ _adj_ :nine: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
+__beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :four::hammer:  
 __beige book__ ?  
@@ -1121,7 +1123,7 @@ __bone__ :two::hammer: _Another bone of contention._ _I have a bone to pick with
 __bonfire__  
 __bonged__ _v_  
 __bonked__ _v_ _The stadium lights bonked out._  
-__bonkers__ _adj_ _informal_ :four: Crazy. _That's bonkers!_  
+__bonkers__ _adj_ _informal_ :five: Crazy. _That's bonkers!_  
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ :mega: /bō′nəs/  
@@ -1483,7 +1485,7 @@ __buy the farm__ _idiom_ To die.
 __buy__ _I didn't buy his explanations._  
 __buy-in__ _n_ :two::hammer: _He has tried different tactics to accelerate the buy-in._  
 __buybacks__  
-__buyout__ _n_ :seven: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
+__buyout__ _n_ :eight: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::four::hammer: (buzzards)  
@@ -2396,7 +2398,7 @@ __counselor__ _n_
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count your blessings__ _idiom_ :three: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
-__countenance__ :two::hammer: _His countenance was pale and sunken._  
+__countenance__ _n_ :three::hammer: _His countenance was pale and sunken._  
 __counter__ _n_ _A lot of counter space._ :es: encimera  
 __counter-depth fridge__ :camera:  
 __countered__ _Countered kitchen._  
@@ -3439,6 +3441,7 @@ __egg white__
 __egg__ _v_  
 __egghead__ _n_ :two::hammer:  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
+__egomaniac__  
 __egotists__  
 __egregious__ _adj_ :seven: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
@@ -3703,6 +3706,7 @@ __expose__ _v_
 __expostulate__ _v_  
 __exposures__ (?) _Penthouse features include multiple exposures._  
 __expunged__ _v_  
+__exquisite__ _Exquisite acting._  
 __extemporaneous__ _adj_  
 __extent__ _To the same extent._  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
@@ -3846,6 +3850,7 @@ __feature-length__ _A feature-length animation._
 __featuring__  
 __feckless__ _adj_ :three::hammer:  
 __fecklessness__  
+__feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel for__  
 __feign__ :mute:[fei~~g~~n]  
 __feint__  
@@ -5155,6 +5160,7 @@ __helm__ _n_ :two::hammer:
 __help out__  
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helpings__ _?_ _Second helpings._  
+__helpless__  
 __hem__ _n_ :es: dobladillo  
 __hemlock__  
 __hemmed__ _v_ :two::hammer:  
@@ -5365,6 +5371,7 @@ __hot glue__
 __hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot seat__  
 __hot spring__ _n_  
+__hot water__ _n_  
 __hot__ _We've got a hot crowd tonight._  
 __hot-button__ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
@@ -6614,7 +6621,7 @@ __martyr<sup>1</sup>__ _n_ :pencil2:
 __martyr<sup>2</sup>__ _v_  
 __martyrdom__ :two::hammer:  
 __marzipan__ _n_ :two::hammer: :es: mazapán  
-__mascot__ (vs pet)  
+__mascot__ _n_ :two::hammer: (vs pet)  
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
@@ -6655,6 +6662,7 @@ __mayhem__ _n_ :six: Mayhem is a violent and rowdy disturbance, like what you mi
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
 __MC__  
+__MDMA__ _abbr_ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __mea culpa__  
 __mead__ _n_  
@@ -6715,7 +6723,7 @@ __merch__ _n_ :two::hammer: Merchandaising?
 __merchant__  
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
-__mere__ :two::hammer: _From mere $200._  
+__mere__ _adj_ :three::hammer: _From mere $200._  
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merit__ :two::hammer:  
@@ -7048,7 +7056,7 @@ __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._
 __nape__ _n_  
 __nappy__ _n_ :three::hammer: (chiefly British)  
 __Narcan__ _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
-__narcissistic__  
+__narcissistic__ _adj_ :two::hammer:  
 __narrative__  
 __narrow escape__  
 __narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
@@ -7283,13 +7291,13 @@ __of late__ _adv_ :three: You use of late to refer to an event or state of affai
 __of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
-__off<sup>1</sup>__ _She got off the train._  
-__off<sup>2</sup>__ _v_ _slang_ To murder, to kill.  
 __off-kilter__ :two::hammer:  
 __off-price stores__  
 __off-putting__  
 __off-street__ _Off-street parking._  
 __off-the-cuff__ :two::hammer: _It was just an off-the-cuff remark._  
+__off<sup>1</sup>__ _She got off the train._  
+__off<sup>2</sup>__ _v_ _slang_ To murder, to kill.  
 __offbeat__ :two::hammer: _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __offing__ _A budding rivalry could be in the offing._  
@@ -8130,7 +8138,7 @@ __polymath__ _n_ :three::hammer:
 __polystyrene__  
 __pomegranates__ _n_  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
-__pompous__  
+__pompous__ _adj_ :two::hammer:  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
 __ponderous__ _adj_ :four::hammer: _He shouldered his ponderous bundle._  
 __pong__ Drinking game?  
@@ -8821,7 +8829,7 @@ __register__ _n_ _Instant savings at register when 5 Colgate products are purcha
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
 __regular shipping__ (vs _expedited shipping_)  
-__regulation__ _n_ :three::hammer: _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._ _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
+__regulation__ _n_ :four::hammer: _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._ _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
 __regulator__ _n_  
 __regulatory muster__  
 __regulatory__  
@@ -11676,7 +11684,7 @@ __unabated__ _adj_ :three::hammer:
 __unalienable__  
 __unanimous__  
 __unapologetic__ _adj_ :eight::hammer:  
-__unapologetically__ _adv_ :four::hammer: _Union Kitchen is unapologetically for-profit._  
+__unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __uncanny valley__ _idiom_ :three::hammer:  
@@ -11982,6 +11990,7 @@ __vintner__ _n_
 __vinyasa__ _n_  
 __viper__ _n_ :two::hammer: (vipers)  
 __virtually__ _adv_ :astonished: Practically, almost.  
+__visage__ _n_ __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
 __vista__ _n_ :two::hammer: (vistas)  
