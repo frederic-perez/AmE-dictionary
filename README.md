@@ -36,6 +36,8 @@ I also gather interesting stuff from a myriad of podcasts, including:
 - Tell Me Something I Don't Know, hosted by Stephen Dubner of Freakonomics Radio
 - This American Life, hosted by Ira Glass
 
+In addition, I also listen to a lot of stuff from [comedians](list-of-comedians.md).
+
 ## Emojis
 
 Meaning of the emojis used in the dictionary:
@@ -43,7 +45,7 @@ Meaning of the emojis used in the dictionary:
 - :pencil2: Interesting or funny spelling
 - :mega: Interesting or funny pronunciation
 - :mute: Silent letter
-- :astonished: Insteresting or funny for any other reason
+- :astonished: Interesting or funny for any other reason
 - :hammer: Undefined word
 - :dart: Try to learn this particular one!
 - :octocat: Trick aimed at remembering the meaning
