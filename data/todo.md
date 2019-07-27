@@ -1,4 +1,17 @@
 
+__garbage island__  
+__mortify__ _v_  
+__set the table__ _idiom_  
+__frugal__ _adj_  
+__pubes__ _n_  
+__fastiduous__ _adj_  
+__meticulous__ _adj_  
+__stile__ _n_  
+__GTFO__ _idiom_ __1__ _rude slang_ An abbreviation for "get the fuck out," an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she's going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for "get the fuck out" used to express surprise at what one has just been told. Although the use of "fuck" can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
+__turnstile__  
+__caveat__  
+__intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
+
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __stuff your face__ _idiom_ To eat a lot of food quickly.  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
