@@ -1,4 +1,17 @@
 
+__eloquent__  
+__dubious__  
+__gossipy__ _adj_  
+__incarnation__ _n_  
+__squirt gun__ _n_ _Syn_ squirter, water gun, water pistol  
+__succumb__ _v_  
+__slew__  
+__drop dead__  
+__keep up with__  
+__corny__  
+__deep cut__ _n_ :two: A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.   
+__naysayer__ _n_  
+
 __multitude__  
 __address__ _v_ _A multitude of problems need to be addressed._  
 __blow your top__ _idiom_ To become very angry.  
