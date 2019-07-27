@@ -1,4 +1,13 @@
 
+__concourse__ _n_  
+__pogrom__ _n_  
+__deviancy__  
+__affront__ _n_  
+__trawled__ _v_  
+__U-boat__ _n_  
+__spite__ _Some names were added out of spite._  
+__outfly__ _v_ To fly better or faster than someone or something.  
+
 __punitive__ _adj_ _Punitive pension tax charges._  
 __herald__ _v_  
 __stigma__  
