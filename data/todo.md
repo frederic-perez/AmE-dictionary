@@ -1,4 +1,17 @@
 
+__multitude__  
+__address__ _v_ _A multitude of problems need to be addressed._  
+__blow your top__ _idiom_ To become very angry.  
+__ends__ _n slang_ Money.  
+__outgrow__ _v_ To grow bigger than or too big for something.  
+__see red__ _idiom_ To become very angry.  
+__hard nut to crack__ _idiom_ A problem that is hard to solve or a person who is difficult to understand.  
+__five o'clock shadow__ _idiom_ A short beard on a man's face that has grown since the morning shave.  
+__fat cat__ _n slang_ A person who has great wealth and power.  
+__preliminary__  
+__compel__ _v_  
+__qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
+
 __ludicrousness__  
 __manning__ _v_ (?)  
 __slant__ _n_ _A positive slant on the rejection._  
