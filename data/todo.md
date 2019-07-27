@@ -1,4 +1,13 @@
 
+__ludicrousness__  
+__manning__ _v_ (?)  
+__slant__ _n_ _A positive slant on the rejection._  
+__annexe__ _n_ :pencil2:  
+__casual__ _He put on casual clothes._  
+__backlog__ _A backlog of State-sponsored films._  
+__meek__ _adj_  
+__glob__ _n_ _A glob of phlegm._  
+
 __shackles__ _n_  
 __of one's own accord__ Voluntarily.  
 __pouch__ _n_  
