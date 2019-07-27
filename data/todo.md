@@ -1,4 +1,17 @@
 
+__utility room__  
+__hearth__  
+__kibble__ _n_  
+__day and age__  
+__sneaky__  
+__layout__ _n_  
+__in cahoots__  
+__kamikaze__ _n_ :mega:  
+__scum__ _n_  
+__villainy__ _n_ :pencil2: _A wretched hive of scum and villainy._  
+__wretched__ _adj_  
+__oblivious__  
+
 __garbage island__  
 __mortify__ _v_  
 __set the table__ _idiom_  
