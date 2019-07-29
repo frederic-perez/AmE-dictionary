@@ -10,4 +10,5 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - Jeff Ross
 - Paul F. Tompkins
 - Scott Aukerman
+- [Steven Right](https://www.youtube.com/results?search_query="Steven+Wright")
 - Thomas Middleditch
