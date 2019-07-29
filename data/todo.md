@@ -1,25 +1,4 @@
 
-__utility room__  
-__hearth__  
-__kibble__ _n_  
-__day and age__  
-__sneaky__  
-__layout__ _n_  
-__in cahoots__  
-__kamikaze__ _n_ :mega:  
-__scum__ _n_  
-__villainy__ _n_ :pencil2: _A wretched hive of scum and villainy._  
-__wretched__ _adj_  
-__oblivious__  
-
-__garbage island__  
-__mortify__ _v_  
-__set the table__ _idiom_  
-__frugal__ _adj_  
-__pubes__ _n_  
-__fastiduous__ _adj_  
-__meticulous__ _adj_  
-__stile__ _n_  
 __GTFO__ _idiom_ __1__ _rude slang_ An abbreviation for "get the fuck out," an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she's going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for "get the fuck out" used to express surprise at what one has just been told. Although the use of "fuck" can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
 __turnstile__  
 __caveat__  

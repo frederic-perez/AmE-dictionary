@@ -2721,6 +2721,7 @@ __daughter__ :mute:[dau~~gh~~ter]
 __daunting__ _adj_ :four: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
+__day and age__  
 __day in and day out__  
 __day job__  
 __Day Zero__  
@@ -3816,7 +3817,7 @@ __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained e
 __fast food__ :mega:  
 __fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastidious__  
+__fastiduous__ _adj_ :two::hammer:  
 __fastness__  
 __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __Father Time__  
@@ -4340,7 +4341,7 @@ __frosted glass__ _Illuminated by domes of frosted glass._
 __frosted silver__  
 __frothy__  
 __frozen yogurt__  
-__frugal__ _adj_ __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
+__frugal__ _adj_ :two: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __fruit basket__ _California's Central Valley, fruit basket to the nation._  
 __fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
@@ -4437,6 +4438,7 @@ __gaping__ :two::hammer: _A gaping hole._
 __gar__ _n_  
 __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
 __garbage chute__ :camera:  
+__garbage island__  
 __garbed__  
 __Garden of Eden__  
 __Garden of Gethsemane__  
@@ -5105,7 +5107,7 @@ __heart-in-mouth__ _A heart-in-mouth thriller._
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
 __heartfelt__  
-__hearth__ _n_ :seven::hammer: _Hearth repair._  
+__hearth__ _n_ :eight::hammer: _Hearth repair._  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
@@ -5551,6 +5553,7 @@ __impunity__
 __in a nutshell__  
 __in all likelihood__  
 __in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
+__in cahoots__  
 __in check__ _Keep those emotions in check._  
 __in deep water__ _idiom_ To be in a difficult situation.  
 __in droves__ _They will come in droves._  
@@ -5914,6 +5917,7 @@ __kabobs__
 __kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :four::hammer:  
+__kamikaze__ _n_ :mega:  
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __Katy__ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
@@ -5942,6 +5946,7 @@ __key up__ :two::hammer: _He was too keyed up._ _I was too keyed up to sleep._
 __keystone__ :es: piedra angular  
 __keystrokes__  
 __khakis__ _n_ :two::hammer:  
+__kibble__ _n_  
 __kibbutz__  
 __kibitz__ _v_  
 __kick ass__  
@@ -6166,6 +6171,7 @@ __lay__ _Lay reader._
 __layman > in layman terms__  
 __layman__ _n_  
 __layoff__  
+__layout__ _n_  
 __layover__ _n_ :dart::two: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_ :three::hammer: (layups)  
 __laziness__ :pencil2:  
@@ -6743,6 +6749,7 @@ __meteor__
 __meteoroid__ _n_  
 __meter__ _n_ _The cab driver waited with the meter running._  
 __metheglin__ _n_ :two::hammer:  
+__meticulous__ _adj_  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
 __mettle__ _n_ :seven::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
@@ -6923,7 +6930,7 @@ __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._
 __mortgage__ :mute:[mor~~t~~gage]  
 __mortice__  
 __mortification__  
-__mortify__ _v_ :four::hammer: (mortified)  
+__mortify__ _v_ :five::hammer: (mortified)  
 __mortuaries__  
 __mos.__ (Months?)  
 __mosh__  
@@ -7264,7 +7271,7 @@ __obligation__
 __oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
 __oblivion__ _n_ :two::hammer:  
-__oblivious__ _adj_ :three::hammer: _He is very oblivious._  
+__oblivious__ _adj_ :four::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obo__ _abbr_ :two: Or best offer.  
 __obscene__ :mute:[obs~~c~~ene]  
@@ -8404,6 +8411,7 @@ __psychology__ :mute:[~~p~~sychology]
 __psychopathic__  
 __pterodactyl__ :mute:[~~p~~terodactyl]  
 __PTSD__ _abbr_ :four: Post-traumatic stress disorder.  
+__pubes__ _n_  
 __public eye__  
 __public house__ _n_ :five::hammer: :es: taberna  
 __public housing__  
@@ -9444,7 +9452,7 @@ __scuffed__ _v_ :two::hammer:
 __scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle<sup>2</sup>__ _n_ :five::hammer: _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
-__scum__ _n_ :two::hammer: _He was scum._  
+__scum__ _n_ :three::hammer: _He was scum._  
 __scumbag__  
 __scumbags__  
 __scupper__ _v_  
@@ -9561,6 +9569,7 @@ __set piece__ _The goal was scored on a set piece._
 __set someone apart__  
 __set the pace__  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
+__set the table__ _idiom_  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
 __setback__ _n_ :three::hammer: (setbacks) _It has suffered several setbacks._  
@@ -10116,6 +10125,7 @@ __snarling__ _n_
 __snatch__ _v_  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
 __sneaker__ _Sneaker companies._  
+__sneaky__  
 __sneer__ _v_  
 __Snellen chart__  
 __snick__ _v_  
@@ -10572,6 +10582,7 @@ __stiffer__ :two::hammer: _In adult court, murder, a Class M felony, carries a m
 __stiffly__  
 __stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
+__stile__ _n_  
 __still life__ _Still life painting._  
 __stilt__ _n_ :six::hammer: (stilts) _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
@@ -11862,6 +11873,7 @@ __Utahns__
 __Utans__  
 __utes__ _n_ (cars?)  
 __utilitarian__  
+__utility room__  
 __utility<sup>1</sup>__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
 __utmost__ _adj_ :three::hammer:  
@@ -11981,7 +11993,7 @@ __vile__
 __vilifies__ _v_  
 __vilify__ _v_  
 __villa__ _n_ :two::hammer:  
-__villainy__ :pencil2:  
+__villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
 __villas__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
 __vindicate__ _v_ :seven::hammer: (vindicated)  
@@ -12439,7 +12451,7 @@ __wrenching__ _adj_ _A wrenching prospect._
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
 __wrestle__ :mute:[~~w~~restle]:mute:[wres~~t~~le]  
 __wretch__ _n_ :two::hammer: _The lowliest wretch among them._  
-__wretched__  
+__wretched__ _adj_ :two::hammer:  
 __wrethes__  
 __wriggle__  
 __wriggling__  
