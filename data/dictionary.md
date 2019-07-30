@@ -150,7 +150,7 @@ __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A si
 __affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ _We can't afford it._  
 __affordable__ :pencil2:  
-__affront__  
+__affront__ _n_ :two::hammer:  
 __aficionado__  
 __afield__  
 __afloat__  
@@ -1746,6 +1746,7 @@ __causeway__ _n_ :five::hammer:
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
+__caveat__  
 __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw__ (caws) :two::hammer: _A rattling caw._  
 __cawed__ _v_ :two::hammer: (cawing)  
@@ -1888,7 +1889,7 @@ __chip shots__ _The golfer was hitting some horrible chip shots._
 __chip__ _v_ :three::hammer: (chipped, chipping)  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
-__chip<sup>2</sup>__ _v_ :two::hammer: (chipped) _We had to chip and be patient._  
+__chip<sup>2</sup>__ _v_ :three::hammer: (chipped) _We had to chip and be patient._ _This cup is chipped._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
 __chipper__ _adj_ :two::hammer: _She is chipper._  
 __chippies__ :two::hammer:  
@@ -2224,7 +2225,7 @@ __concise__
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ :two::hammer:  
 __concomitant__ :two::hammer:  
-__concourse__ :two::hammer:  
+__concourse__ _n_ :three::hammer:  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
@@ -2665,6 +2666,7 @@ __dabble__ _v_ :four::hammer: (dabbled, dabbling)
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _Cinematic dada._  
+__daedal__ _adj_ __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
 __daffodils__  
 __daffy__  
 __daft__ _adj_ :four::hammer:  
@@ -2909,6 +2911,7 @@ __deus ex machina__ _Leaders under fire often wait for some deus ex machina._
 __devastate__ _v_  
 __develop__ _v_ :mega:  
 __development__ _n_ :three: A district that has been developed to serve some purpose; _"such land is practical for small park developments."_ _Choose your home from 8 new developments across London._  
+__deviancy__  
 __devil is in the detail__ _idiom_ Small things can cause difficulties when you examine them closely enough.  
 __devil-may-care style__  
 __deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
@@ -4011,6 +4014,7 @@ __flail__ _v_ :six::hammer: (flailed, flailing)
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
 __flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
+__flake__ _n slang_ An eccentric person; screwball.  
 __flaky__  
 __flamboyant__ _adj_ :four::hammer:  
 __flameouts__  
@@ -4575,6 +4579,7 @@ __gins__ _He passed cotton gins._
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __giridon__  
+__git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _Guantanamo?_  
 __give and take__ _Love don't come easy. It's a game of give and take._  
 __give in__ _I'm never giving in._  
@@ -4659,6 +4664,7 @@ __gobble<sup>1</sup>__ _v_ :three::hammer: _Gobbling a plate of spaguetti and me
 __gobble<sup>2</sup>__ _n_  
 __gobbledygook__  
 __goblin__ _n_ :three::hammer: (goblins)  
+__gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
@@ -4681,6 +4687,7 @@ __good-nature__
 __goodliest__ :two::hammer:  
 __goodly__  
 __goodness gracious__  
+__goody two-shoes__ _idiom_ _informal_  
 __goody-goody__ _Goody-goody expressions._  
 __Goodyear, Charles__  
 __gooey__ _adj_ :four: Soft and sticky. _Gooey butter cake._  
@@ -4846,6 +4853,7 @@ __grumblings__
 __grungy__ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
+__GTFO__ _idiom_ __1__ _rude slang_ An abbreviation for "get the fuck out," an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she's going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for "get the fuck out" used to express surprise at what one has just been told. Although the use of "fuck" can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
 __guard__ :mute:[g~~u~~ard]  
 __guess__ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
@@ -5723,6 +5731,7 @@ __intertwined__
 __intervene__ _v_ :two::hammer:  
 __interviewees__ _n_ :pencil2:  
 __into the fold__ _It brought many viewers into the fold._  
+__intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intricacies__ :two::hammer:  
 __intricate__  
@@ -6033,7 +6042,7 @@ __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._
 __knot__ :mute:[~~k~~not]  
 __knotty__  
 __know better__ _But I knew better._  
-__know the ropes__ _idiom_ To know how to do a job or task properly.  
+__know the ropes__ _idiom_ :two: To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
 __knuckle duster__ _Thugs armed with a knuckle duster._  
 __knuckle sandwich__ _idiom_ A punch in the face.  
@@ -7498,7 +7507,7 @@ __outreach__ _n_ :five::hammer: _He's an HIV outreach worker._
 __outriggers__  
 __outright__ _adj?_  
 __outset__ _n_ :six::hammer: _The outset of his campaign._  
-__outshine__ _v_  
+__outshine__ _v_ :two: To be much better than someone or something else.  
 __outshit__ _v_  
 __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._  
 __outsize__ :two::hammer: _An outsize risk._  
@@ -8117,8 +8126,7 @@ __podiatrist__ _n_
 __podjo__  
 __podna__ :two::hammer:  
 __Podunk town__  
-__pogrom__  
-__pogroms__ _n_  
+__pogrom__ _n_ :three::hammer: (pogroms)  
 __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ :pencil2:  
 __Point is,__  
@@ -8166,6 +8174,7 @@ __pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
 __popcorn__ :es: gotelé?  
+__popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __pops__ _n informal_ :two: Father.  
 __populace__  
 __pore__ _v_ :four::dart::hammer: (poring)  
@@ -10723,6 +10732,7 @@ __stud<sup>1</sup>__ _n_ :two::hammer:
 __stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury's studded armband._  
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
+__stuff your face__ _idiom_ To eat a lot of food quickly.  
 __stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._  
 __stuffer__  
 __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
@@ -10963,11 +10973,12 @@ __take a shit__ _v_
 __take a stand__  
 __take by storm__  
 __take heart__  
-__take on__ _idiom_  
+__take on__ _phr v_ :two: To accept some work or responsibility.  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
 __take wing__ _Then again, my thoughts took wing._  
+__take your mind off something__ _idiom_ To do something to help you forget about something else.  
 __takeaways__ _n_  
 __takeout containers__  
 __takeout__ _Maybe you have Chinese takeout the night before Thanksgiving._  
@@ -11630,7 +11641,7 @@ __turnover__ _n_ :four: __1__ The amount of money taken by a business in a parti
 __turnpike__  
 __turnround__  
 __turnsole__ :pencil2:  
-__turnstile__ _n_  
+__turnstile__ _n_ :two::hammer:  
 __turpentine__ _n_  
 __turpitude__  
 __tushie__ _n_ :two::hammer:  

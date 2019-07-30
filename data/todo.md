@@ -1,26 +1,4 @@
 
-__GTFO__ _idiom_ __1__ _rude slang_ An abbreviation for "get the fuck out," an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she's going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for "get the fuck out" used to express surprise at what one has just been told. Although the use of "fuck" can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
-__turnstile__  
-__caveat__  
-__intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
-
-__popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
-__stuff your face__ _idiom_ To eat a lot of food quickly.  
-__git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
-__know the ropes__ _idiom_ To know how to do a job or task properly.  
-__daedal__ _adj_ __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
-__flake__ _n slang_ An eccentric person; screwball.  
-__outshine__ _v_ To be much better than someone or something else.  
-__chipped__ _v_ _This cup is chipped._  
-__take your mind off something__ _idiom_ To do something to help you forget about something else.  
-__gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
-__take on__ _phr v_ To accept some work or responsibility.  
-__goody two-shoes__ _idiom_ _informal_  
-
-__concourse__ _n_  
-__pogrom__ _n_  
-__deviancy__  
-__affront__ _n_  
 __trawled__ _v_  
 __U-boat__ _n_  
 __spite__ _Some names were added out of spite._  
