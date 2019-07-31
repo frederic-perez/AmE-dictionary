@@ -112,7 +112,7 @@ __adamant__
 __add up to__ _idiom_ To equal or amount to something.  
 __add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
-__address__ _v_  
+__address__ _v_ :two::hammer: _A multitude of problems need to be addressed._  
 __adenoidal__  
 __ADHD__ _abbr_ Attention deficit hyperactivity disorder.  
 __adhere__ _v_  
@@ -1034,6 +1034,7 @@ __blow away__ _phr v_ To surprise or amaze someone.
 __blow it off__  
 __blow someone's mind__  
 __blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
+__blow your top__ _idiom_ To become very angry.  
 __blowflies__ _n_  
 __blowgun__ _n_  
 __blown call__  
@@ -2180,7 +2181,7 @@ __comp<sup>1</sup>__ _n_ _Workers' comp cases._
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
-__compel__ _v_ :four::hammer:  
+__compel__ _v_ :five::hammer:  
 __compelling__ _adj_ :three: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
 __completion__ _n_  
@@ -2362,7 +2363,7 @@ __corn beef__ :two::hammer:
 __corn fritters__  
 __corned beef__ :two::hammer:  
 __cornstarch__  
-__corny__ _adj_ :four::hammer:  
+__corny__ _adj_ :five::hammer:  
 __coronet__ _n_  
 __corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
@@ -2788,7 +2789,7 @@ __dedication__
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
-__deep cut__  
+__deep cut__ _n_ :three: A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
 __deep fakes__ :two::hammer:  
 __deep freezers__  
 __deep pockets__  
@@ -3294,6 +3295,7 @@ __droll__ _adj_ :four::hammer: _There is room for droll comedy._ _Droll comic mo
 __drone<sup>1</sup>__ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
 __drop by__ _v_  
+__drop dead__  
 __drop in the bucket__  
 __drop out__  
 __drop the ball__ _idiom_ To make a mistake, to fail.  
@@ -3549,7 +3551,7 @@ __endow__ _v_
 __endowed__ :two::hammer:  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
-__ends__ _n_ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
+__ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _Endurance race._  
 __enduring__ _v_  
 __enervate__ _v_ To weaken.  
@@ -3824,6 +3826,7 @@ __fasten__ :mute:[fas~~t~~en]
 __fastening__ _n_  
 __fastiduous__ _adj_ :two::hammer:  
 __fastness__  
+__fat cat__ _n slang_ A person who has great wealth and power.  
 __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __Father Time__  
 __fatherland__ :astonished:  
@@ -3987,6 +3990,7 @@ __fit__ :two::hammer:
 __fitful__ :two::hammer:  
 __fits__ _The cathedral has been built in fits._  
 __fittingly__ :two::hammer:  
+__five o'clock shadow__ _idiom_ A short beard on a man's face that has grown since the morning shave.  
 __fivesomes__  
 __fix__ _A quick fix of French fries._  
 __fixable__ _A lot of that is fixable._  
@@ -5008,6 +5012,7 @@ __harangues__
 __haranguing__ _v_ :two::hammer:  
 __harbinger__ _n_ :four::hammer:  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
+__hard nut to crack__ _idiom_ A problem that is hard to solve or a person who is difficult to understand.  
 __hard rock__ _n_  
 __hard sell__  
 __hard-ball__  
@@ -5942,7 +5947,7 @@ __keep an eye__ _Keep an eye on the Twitter._
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
-__keep up__  
+__keep up with__ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
 __keep__ _n_ :es: torreón  
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -6469,6 +6474,7 @@ __lucifer match__
 __lucky charm__  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
+__ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
 __lug__ _v_ :four::hammer:  
@@ -6572,7 +6578,8 @@ __mallards__
 __mallow__ :pencil2:  
 __malnourished__  
 __mamasan__  
-__man__ _Oh, man!_  
+__man<sup>1</sup>__ _Oh, man!_  
+__man<sup>2</sup>__ _v_ (manning)  
 __manacle__ _n_  
 __mandalas__ _n_  
 __Mandan man__  
@@ -7006,6 +7013,7 @@ __mullet__ :two::hammer:
 __mulligan__ _n_  
 __mulling__ _v_ :three:hammer:  
 __multipurpose__ :es: polivalente  
+__multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumbo jumbo__ _n_  
 __mumps__  
@@ -7101,7 +7109,7 @@ __naught__
 __naughty__ :mute:[nau~~gh~~ty]  
 __navel__ :two::hammer:  
 __navigate__ _v_  
-__naysayer__ _n_  
+__naysayer__ _n_ :two::hammer:  
 __NB__  
 __NCO__  
 __NDA__ _abbr_  
@@ -7482,6 +7490,7 @@ __outfly__ _v_ To fly better or faster than someone or something.
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__  
+__outgrow__ _v_ To grow bigger than or too big for something.  
 __outgrowth__  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
@@ -8269,6 +8278,7 @@ __preempt__ _v_
 __preemptive__  
 __preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
+__preliminary__  
 __premier__ _adj_  
 __premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
 __premortem__  
@@ -8536,6 +8546,7 @@ __Q__ Character in James Bond films, a quiet genius who understands technology a
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
 __Q&A__ _The gathering will feature question-and-answer sessions._  
+__qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
 __quack__ _n_ :three: Incompetent doctor.  
 __quadrennial__  
 __quadroons__  
@@ -9508,6 +9519,7 @@ __sedative__ _n_ _Not the strongest sedative._
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
 __sedulous__  
 __see eye to eye__ _idiom_ :two: To concur, agree.  
+__see red__ _idiom_ To become very angry.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
 __seediness__  
@@ -9956,7 +9968,7 @@ __slag__
 __slake__ _v_  
 __slam__ _v_ :two::hammer: _LeBron slams Phil Jackson for comment._  
 __slander__ _v_ :five::hammer: (slandering)  
-__slant__  
+__slant__ _n_ :two::hammer: _A positive slant on the rejection._  
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
