@@ -227,6 +227,7 @@ __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _
 __all over__ _Dick jokes all over._  
 __all that jazz__  
 __all that said,__  
+__all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-nighters__ _n_  
 __all-out__ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
@@ -1204,7 +1205,7 @@ __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __brace yourself__ _idiom_ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven't been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
-__bracket__ _I want to break into that world-class bracket._  
+__bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _Daily bracketology updates._  
 __braggadocio__  
 __brain drain__  
@@ -3322,8 +3323,8 @@ __dryly__ _adv_ :two::hammer::astonished:
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __DSLR__  
 __dub__ _v_ (dubbed)  
-__dubious__ :two::hammer:  
-__duchy__ (duys)  
+__dubious__ _adj_ :three::hammer:  
+__duchy__ _n_  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
 __duckboards__ :two::hammer:  
@@ -3484,6 +3485,7 @@ __eligibility__
 __elision__  
 __elite__ (elites) :two::hammer:  
 __elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
+__eloquent__  
 __elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
 __elusive__  
@@ -4705,6 +4707,7 @@ __gorse__
 __gory__  
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :es: evangelio  
+__gossipy__ _adj_  
 __gouge__ _v_ :five::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __goulash__  
@@ -5179,7 +5182,7 @@ __hemp__ _n_ :four::hammer: _Hemp plant._
 __henchman__ _n_ :four::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :five::hammer: (heralded) _They have a heralded arrival to Coney Island on the "bus of champions."_  
+__herald__ _v_ :six::hammer: (heralded) _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __herdsman__ _n_  
 __here's looking at you__  
 __heresy__ _n_ :two::hammer:  
@@ -5604,7 +5607,7 @@ __inaugurate__ _v_ _He will be inaugurated for second term._
 __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
 __inbound<sup>2</sup>__ _v_  
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
-__incarnation__ :two::hammer:  
+__incarnation__ _n_ :three::hammer:  
 __incensed__ _v_  
 __inception__ :two::hammer:  
 __incessantly__  
@@ -6468,7 +6471,7 @@ __luddite__ _n_ _slang_ One who fears technology (or new technology, as they see
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
-__lug__ _v_ :three::hammer:  
+__lug__ _v_ :four::hammer:  
 __luge__ _Olimpic luge team._  
 __luger__ _Team USA's best lugers._  
 __lugging__ _v_ :three::hammer:  
@@ -7475,6 +7478,7 @@ __outfield__ _(baseball)_
 __outfit<sup>1</sup>__ _n_ :two::hammer: (outfits)  
 __outfit<sup>2</sup>__ _v_  
 __outfitter__  
+__outfly__ _v_ To fly better or faster than someone or something.  
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__  
@@ -7523,6 +7527,7 @@ __oval__ _Ford oval logo._
 __over one's head__ _He was over his head._  
 __over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphenated if used before a noun.)  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
+__over the top__  
 __over-ear headphones__  
 __over-the-hill__ :two::hammer: _I'm over-the-hill for Passion._  
 __over-under__  
@@ -8110,6 +8115,7 @@ __plush__ _adj_ :six: Things that are plush are luxurious and a little over the 
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
 __PM__ Particulate matter. Small particles in the air, containing a variety of components.  
+__pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ :mute:[~~p~~neumonia]  
 __PO__ Parole officer?  
 __po'-boy sandwiches__  
@@ -8470,6 +8476,7 @@ __punctured__ _v_ _Punctured his tire._
 __pundit__ _n_ :three::hammer:  
 __pungent__ _adj_ :two::hammer:  
 __pungi__  
+__punitive__ _adj_ _Punitive pension tax charges._  
 __punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
 __punt<sup>3</sup>__ _v.intr._ __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let's punt on this and try something else._  
@@ -9910,6 +9917,7 @@ __skid row__ _His father would take him to a blind pig on skid row._
 __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn't put skids on sales._  
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
+__skillset__  
 __skim__ _v_ :three::hammer: (skimming) _Skim fat from chilled pan juices and finish making gravy._  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
@@ -10331,7 +10339,7 @@ __spinster__ :two::hammer:
 __spiny lobsters__ :camera:  
 __spiraling__  
 __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
-__spite__ _n_ :three::hammer: _He brought him along for spite._ _He added her to the list out of spite._  
+__spite__ _n_ :four::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
 __spiteful__ :two::hammer:  
 __spitting image__  
 __spittle__ _n_ :five::hammer:  
@@ -10437,6 +10445,7 @@ __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)
 __squirm<sup>1</sup>__ _v_ :eight::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
+__squirt gun__ _n_ _Syn_ squirter, water gun, water pistol  
 __squishing__  
 __squishy__ _adj_  
 __squit__ _Super-soaker squit guns._  
@@ -10591,6 +10600,7 @@ __stiffer__ :two::hammer: _In adult court, murder, a Class M felony, carries a m
 __stiffly__  
 __stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
+__stigma__  
 __stile__ _n_  
 __still life__ _Still life painting._  
 __stilt__ _n_ :six::hammer: (stilts) _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
@@ -10777,7 +10787,7 @@ __succinctly__ :pencil2:
 __succint__  
 __succor__ _n_ :three::hammer:  
 __succubus__ _n_ :three::hammer:  
-__succumb__ _v_ :three::pencil2::mute:[succum~~b~~]:hammer:  
+__succumb__ _v_ :four::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
 __sucker__ _n_ :three::hammer: (of a plant) _He is a sucker for anything cute._  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
@@ -11494,7 +11504,7 @@ __travail__
 __travails__ _n_ :two::hammer:  
 __travelogue__ _n_ :two::hammer:  
 __travesty__ _n_ :three::hammer: (travesties)  
-__trawled__ _v_  
+__trawled__ _v_ :two::hammer:  
 __trawler__  
 __treacherous__ _adj_  
 __treachery__ _n_ :three::hammer:  
@@ -11690,6 +11700,7 @@ __type-A personalities__
 __typecast__ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyranny__  
 __tyrant__ _n_ :three::hammer:  
+__U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
 __ugh__ :two::hammer:  
 __uh__  

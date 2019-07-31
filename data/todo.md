@@ -1,26 +1,4 @@
 
-__trawled__ _v_  
-__U-boat__ _n_  
-__spite__ _Some names were added out of spite._  
-__outfly__ _v_ To fly better or faster than someone or something.  
-
-__punitive__ _adj_ _Punitive pension tax charges._  
-__herald__ _v_  
-__stigma__  
-__skillset__  
-__pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
-__bracket__ _Free bus travel led to greater use of public transport by people in the older age bracket._  
-__over the top__  
-__all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
-__lug__ _v_  
-
-__eloquent__  
-__dubious__  
-__gossipy__ _adj_  
-__incarnation__ _n_  
-__squirt gun__ _n_ _Syn_ squirter, water gun, water pistol  
-__succumb__ _v_  
-__slew__  
 __drop dead__  
 __keep up with__  
 __corny__  
