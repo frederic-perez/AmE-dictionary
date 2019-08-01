@@ -1,27 +1,4 @@
 
-__annexe__ _n_ :pencil2:  
-__casual__ _He put on casual clothes._  
-__backlog__ _A backlog of State-sponsored films._  
-__meek__ _adj_  
-__glob__ _n_ _A glob of phlegm._  
-
-__shackles__ _n_  
-__of one's own accord__ Voluntarily.  
-__pouch__ _n_  
-__cauldron__ _n_  
-
-__pooch__ _n slang_ A dog.  
-__remora__ _n_ An obstacle, hindrance, or obstruction.  
-__outfight__ _v_ To fight better than someone.  
-__take down__ _phr v_ To make notes, to write down information.  
-__Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
-__outfly__ 
-__zip your li__ _idiom_ Be quiet.  
-__egghead__ _n informal_ An overly intellectual person.  
-__mitigate__ _v_  
-__hold__ _v_ _They hold a particular view._  
-
-__lull__ _v_  
 __truism__  
 __rifling__ _v_ _Rifling through his case._  
 __stench__ _The stench of human effluent._  

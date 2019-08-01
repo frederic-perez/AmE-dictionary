@@ -310,6 +310,8 @@ __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is 
 __animosity__ _n_ :eight: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
 __ankle-biter__ Child.  
+__annex__ _n_  
+__annexe__ _n_ _Chiefly British_ Variant of annex.  
 __annihilation__ :pencil2::mega:  
 __anniversary__ :pencil2::mega:  
 __annuity__ (annuities) :two::hammer:  
@@ -578,7 +580,7 @@ __backfill__
 __backhoe__ _n_ :two::hammer:  
 __backlash__ _n_ :four::hammer:  
 __backlit__  
-__backlog__ _n_ :five: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
+__backlog__ _n_ :six: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backpedal__ _v_  
 __backslid__ _v_  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
@@ -677,6 +679,7 @@ __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
 __barked__ :two::hammer: _His forehead was barked._ _Barked area._  
 __barking up the wrong tree__ _idiom_ Looking in the wrong place.  
+__Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __barn__ _Out of the barn._  
 __barnburner__ _n informal_ :two: Something that is highly exciting, impressive, etc.  
 __barnstorm__  
@@ -1697,6 +1700,7 @@ __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing
 __castigation__ _n_  
 __castle__ :mute:[cas~~t~~le]  
 __castoff__ _n_  
+__casual__ _He put on casual clothes._  
 __casualties__  
 __cat fish__ _(?)_  
 __cat got your tongue?__ Have you nothing to say?  
@@ -1742,6 +1746,7 @@ __Caucasian__
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
 __caught with your pants down__ _idiom_ To be found in an embarrassing situation.  
 __caught__ :mute:[cau~~gh~~t]  
+__cauldron__ _n_  
 __cauliflower steaks__ :camera:  
 __caulking__  
 __causeway__ _n_ :five::hammer:  
@@ -3446,7 +3451,7 @@ __egg head__ A very studious and academic person.
 __egg roll__  
 __egg white__  
 __egg__ _v_  
-__egghead__ _n_ :two::hammer:  
+__egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egomaniac__  
 __egotists__  
@@ -4617,7 +4622,7 @@ __glitz__
 __glitzy__  
 __gloaming__  
 __gloat__ _v_ :four::hammer: (gloating) _I could not gloat._  
-__glob__ _n_ :four::hammer: _A glob of spit._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
+__glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __gloom__ _n_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
@@ -5310,6 +5315,7 @@ __hold up a fish__
 __hold up__ _phr v_ Wait or delay. _Hold up a minute. I want to check something._  
 __hold water__  
 __hold your horses__ _idiom_ Slow down, wait.  
+__hold__ _v_ _They hold a particular view._  
 __holder__ _n_  
 __holding sway__  
 __holdings__ _n_  
@@ -6482,7 +6488,7 @@ __luge__ _Olimpic luge team._
 __luger__ _Team USA's best lugers._  
 __lugging__ _v_ :three::hammer:  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
-__lull<sup>2</sup>__ _v_  
+__lull<sup>2</sup>__ _v_ :two::hammer:  
 __lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :two::hammer: _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
@@ -6710,7 +6716,7 @@ __medical discharge__ _A medical discharge._
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ :mega:  
-__meek__ _adj_ :four: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek__ _adj_ :five: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ :two::hammer:  
 __meet up__  
@@ -6869,7 +6875,7 @@ __mistrel__ _A popular minstrel show, such as "Jim Crow."_
 __mistrial__ _n_ :two::hammer:  
 __mistruth__ :two::hammer: (mistruths)  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
-__mitigate__ _v_  
+__mitigate__ _v_ :two::hammer:  
 __mitt__ _n_  
 __mitzvah__  
 __mix-up__ _n_ :two::hammer:  
@@ -7315,6 +7321,7 @@ __odometer__ :two::hammer:
 __OEM__ _abbr_ :two::hammer: _OEMs._  
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
+__of one's own accord__ Voluntarily.  
 __of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
@@ -7483,10 +7490,11 @@ __outdated items__ _I took all the outdated and close-to-outdated items from the
 __outdoor__ _8 pork sausages from British outdoor bred pigs (454g)._  
 __outer space__  
 __outfield__ _(baseball)_  
+__outfight__ _v_ To fight better than someone.  
 __outfit<sup>1</sup>__ _n_ :two::hammer: (outfits)  
 __outfit<sup>2</sup>__ _v_  
 __outfitter__  
-__outfly__ _v_ To fly better or faster than someone or something.  
+__outfly__ _v_ :two: To fly better or faster than someone or something.  
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__  
@@ -8177,7 +8185,7 @@ __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
-__pooch__  
+__pooch__ _n_ _slang_ :two: A dog.  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
 __poor-boy__ _Poor-boy sandwich._  
@@ -8232,6 +8240,7 @@ __pothole__ _n_ :three::hammer: (potholes)
 __potholed__ _The island's potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
+__pouch__ _n_  
 __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :three::hammer: (pounced)  
@@ -8906,6 +8915,7 @@ __reminiscent__
 __remit__  
 __remittances__ :two::hammer:  
 __remnants__  
+__remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
 __render__ _v_ :two::hammer::astonished: _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
@@ -9615,7 +9625,7 @@ __sh__ _interj_ (sh, shhh) Used to urge silence.
 __shabby__ _adj_ :three::hammer:  
 __shack__ :two::hammer:  
 __shackle__ _n_  
-__shackles__ _n_ :two::hammer: _A bed with built-in shackles._  
+__shackles__ _n_ :three::hammer: _A bed with built-in shackles._  
 __shades__ :es: gafas?  
 __shadow__ _v_  
 __shady__  
@@ -10994,6 +11004,7 @@ __take a piss__ _idiom_ Urinate.
 __take a shit__ _v_  
 __take a stand__  
 __take by storm__  
+__take down__ _phr v_ To make notes, to write down information.  
 __take heart__  
 __take on__ _phr v_ :two: To accept some work or responsibility.  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
@@ -12599,6 +12610,7 @@ __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zing
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
 __zip up__ To close something that has a zipper.  
+__zip your lip__ _idiom_ Be quiet.  
 __zip-line<sup>2</sup>__ _v_ :two::hammer: (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
