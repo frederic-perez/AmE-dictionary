@@ -1,6 +1,7 @@
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
+__beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._  
