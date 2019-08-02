@@ -1,4 +1,16 @@
 
+__overthink__ _v_  
+__kick in__ _phr v_ To start to have an effect or to happen.  
+__callow__  
+__partake__ _v_ To become involved with or take part in something.  
+__take through__ phr v_ To explain something to someone.  
+__hood__ _n_ _slang_ Criminal, a member of a criminal gang.  
+__as blind as a bat__ _idiom_ Unable to see well.  
+__toss-up__  
+__chagrin<sup>1</sup>__ _n_  
+__chagrin<sup>2</sup>__ _v_  
+__apricate__ _v_ To bask in the sun.  
+
 __dehydration__  
 __reek__ _n_  
 __clambering__ _v_  
