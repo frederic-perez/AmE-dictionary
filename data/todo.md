@@ -1,4 +1,20 @@
 
+__dehydration__  
+__reek__ _n_  
+__clambering__ _v_  
+__deceit__ _n_  
+__pathetic__  
+__con-artist__  
+__leverage__ _He had no leverage over her just as she had none over him._  
+__far-flung__ _A far-flung town._  
+__brooded__ _v_  
+__jutting__ _v_  
+__sprawled__ _v_  
+__afford__ _v_  
+__latched__ _v_  
+__tic__ _A tic sucking on the neck of a dog._  
+__first and foremost__  
+
 __stifle__ _v_  
 __bad-mouth__  
 __dirty-mouth__  
