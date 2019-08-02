@@ -1,4 +1,15 @@
 
+__denier__ _n_  
+__sloppy__ _adj_  
+__soft-spoken__ _adj_  
+__Eskimo__ _n_ :mega:  
+__trepidation__ _n_  
+__topple__ _v_  
+__defect__ _v_ (defected)  
+__unduly__ _adv_ :two::hammer:  
+__odious__  
+__go ballistic__ _idiom_  
+
 __overthink__ _v_  
 __kick in__ _phr v_ To start to have an effect or to happen.  
 __callow__  
