@@ -730,6 +730,7 @@ __bazillion__
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
+__be friends__ _I was good friends with her._  
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be no picnic__ _Looking after four children is no picnic._  
@@ -1012,7 +1013,7 @@ __blink__ _v_ _There is no reason to blink._
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
 __blithe__ _adj_ :six::hammer:  
-__blithely__ _adv_ :seven::hammer: _The worst option is to blithely add getters and setters._  
+__blithely__ _adv_ :eight::hammer: _The worst option is to blithely add getters and setters._  
 __blitheness__  
 __blither__  
 __blithering__  
@@ -1516,6 +1517,7 @@ __bylaws__
 __byline__ _n_ :three::hammer: (bylines)  
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __C-rations__  
+__C-section__ _n_  
 __C-suite__ _C-suite staff._  
 __C.E.__ (CE) Of the period coinciding with the Christian era; preferred by some writers who are not Christians; "in 200 CE." _A Jewish revolt against Rome ended in defeat in 135 C.E._  
 __c/o__  
@@ -1613,7 +1615,7 @@ __canter up__ _v_
 __canter<sup>1</sup>__ _n_  
 __canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)  
 __cantilevered__  
-__canvass__ :astonished:  
+__canvass__ _v_ :two::hammer::astonished:  
 __cap<sup>1</sup>__ _n_ :two::hammer: (soccer; hat?)  
 __cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
@@ -3443,6 +3445,7 @@ __eerie__ _adj_ :seven::hammer:
 __eerily__ _adv_ :three::hammer:  
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
+__effluent__  
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
 __effrontery__  
@@ -4244,6 +4247,7 @@ __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprive
 __forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
+__forgetful__ _adj_  
 __forgive__ _Forgive me, master._  
 __forgiving__ _adj_  
 __forgo__ _v_ :nine: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
@@ -4623,7 +4627,7 @@ __glitzy__
 __gloaming__  
 __gloat__ _v_ :four::hammer: (gloating) _I could not gloat._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
-__gloom__ _n_  
+__gloom__ _n_ :two::hammer: _She was hidden in the gloom._  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
 __glossiness__  
@@ -6423,7 +6427,7 @@ __long shot__
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longbow__ _n_ :three::hammer:  
-__longhand__ _n_ :three: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
+__longhand__ _n_ :four: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
 __longstanding__ _adj_ :three::hammer:  
 __longtime__ _The longtime dictator._  
@@ -7143,6 +7147,7 @@ __nerd__ _n_ :nine::m: A studious person with few social skills.
 __nerve agent__  
 __nerve__ :two::hammer: _He's got nerve._  
 __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)  
+__nervous laughter__  
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :seven::hammer: (nestled)  
@@ -7847,7 +7852,7 @@ __percolate__ _v_
 __percolator__ _n_  
 __peremptory__  
 __perennial__ _adj_ :three::hammer:  
-__perfect storm__  
+__perfect storm__ _idiom_ :two::hammer:  
 __perfidious__  
 __perfidy__  
 __performative__  
@@ -8396,9 +8401,8 @@ __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-
 __prompt__ _v_ :two::hammer: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
 __prone__ _v_  
-__prong__ _A two-prong whatnot._  
+__prong__ _n_ :four::hammer: (prongs) _A barbed prong._ _A two-prong whatnot._  
 __pronged__  
-__prongs__ _n_ :two::hammer:  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
 __pronounceable__  
 __prop up__ _But with her leg propped up._  
@@ -9047,7 +9051,7 @@ __riff<sup>1</sup>__ _n_ :two::hammer:
 __riff<sup>2</sup>__ _v_ :five::hammer: (rif, riffs, riffed, riffing)  
 __riffle__ _v_ :three::hammer: (riffled) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
-__rifle__ _v_  
+__rifle__ _v_ :two::hammer: (rifling) _Rifling through his case._  
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
 __rigged__  
@@ -10565,6 +10569,7 @@ __stave__ _v_
 __staves__ _n_  
 __stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
 __stay__ _Granted a stay of execution._  
+__stay-at-home__ _adj_ _Stay-at-home dad._  
 __staying power__  
 __stead__  
 __steadfast__ _adj_ :dart::eight: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
@@ -10591,6 +10596,7 @@ __stein__ _n_
 __stem-winding__ _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
+__stench__ _The stench of human effluent._  
 __stenographer__ :two::hammer:  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __Step 'n' Fetch It routine__  
@@ -11053,11 +11059,12 @@ __tantalize__ _v_ (tantalizing)
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap into__ _idiom_ :six: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
-__tap__ _v_ :five: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
+__tap__ _v_ :six: (tapped: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
 __tapioca__ :mega:  
+__tapped out__ _idiom_ Completely exhausted or depleted (of some resource). _A: "Do you want to place another bet?" B: "Nah, I'm tapped out." Do we have any more ink cartridges? This one's tapped out._  
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _A bugler played taps._  
 __tardy__ :two::hammer:  
@@ -11504,7 +11511,7 @@ __train wreck__ _This kind of code is often called a train wreck because it look
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __traipsing__  
 __tramp__ _adj_  
-__trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._  
+__trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
 __trampoline__ _n_ :two::hammer:  
 __trampolines__ _n_  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
@@ -11584,6 +11591,7 @@ __triskelion__ _n_ (triskele)
 __trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
 __trivet__ _n_  
+__trodden down__ _v_  
 __trodden__  
 __troglodyte__ _n_ :two::hammer:  
 __troll<sup>1</sup>__ _v_ _Kim may see these dual transitions as an opening to troll world powers._  
@@ -11614,7 +11622,7 @@ __trudging in__ _v_
 __true colors__  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
-__truism__  
+__truism__ _n_ :two::hammer:  
 __trull__  
 __truly__ _adj_ :two::hammer: _We truly appreciate it._  
 __trumpet__ _v_  
@@ -11970,7 +11978,7 @@ __varmints__
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vassal__ _n_  
 __vastly__ :two::hammer:  
-__vat__ _n_ :two: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
+__vat__ _n_ :three: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  

@@ -1,25 +1,4 @@
 
-__truism__  
-__rifling__ _v_ _Rifling through his case._  
-__stench__ _The stench of human effluent._  
-__effluent__  
-__gloom__ _n_ _She was hidden in the gloom._  
-__tapped__ _v_ _Her tapped words were flowing freely._  
-__trampled__ _v_ _Snow trampled down by detectives._  
-__trodden down__ _v_  
-__longhand__  
-__canvass__ _v_  
-__be friends__ _I was good friends with her._  
-__blithely__  
-__vat__ _n_ _A rectangular vat._  
-__prong__ _A barbed prong._  
-
-__tapped out__ _idiom_ Completely exhausted or depleted (of some resource). _A: "Do you want to place another bet?" B: "Nah, I'm tapped out." Do we have any more ink cartridges? This one's tapped out._  
-__nervous laughter__  
-__perfect storm__  
-__forgetful__ _adj_  
-__C-section__  
-__stay-at-home__ _adj_ _Stay-at-home dad._  
 __stifle__ _v_  
 __bad-mouth__  
 __dirty-mouth__  
