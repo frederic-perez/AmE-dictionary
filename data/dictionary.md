@@ -423,6 +423,7 @@ __articulated__ _adj_ _A clearly articulated project._
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
+__as blind as a bat__ _idiom_ Unable to see well.  
 __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
 __as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
@@ -1577,7 +1578,7 @@ __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupat
 __calliopes__  
 __callous__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
-__callow__ :two::hammer:  
+__callow__ _adj_ :three::hammer:  
 __calm before the storm__ _idiom_ A peaceful and quiet period before a period of activity or trouble.  
 __calm__ :mute:[ca~~l~~m]  
 __calves__  
@@ -1789,9 +1790,8 @@ __chads__ _n_
 __chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
-__chagrin__  
-__chagrin<sup>1</sup>__ _n_ :seven: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
-__chagrin<sup>2</sup>__ _v_ (chagrined) Cause to feel shame; hurt the pride of.  
+__chagrin<sup>1</sup>__ _n_ :nine: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
+__chagrin<sup>2</sup>__ _v_ :two: (chagrined) Cause to feel shame; hurt the pride of.  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
@@ -2808,7 +2808,7 @@ __deface__ _v_ :two::hammer: _Defacing two murals._
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __defanging__ _n_  
 __default__ _v_ :four::hammer: _The Solar Energy company defaulted._  
-__defect__ _v_ :five: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
+__defect__ _v_ :six: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
@@ -2872,7 +2872,7 @@ __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__
 __dendrites__ _n_  
 __dengue fever__  
 __dengue__  
-__denier__ _n_ A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
+__denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denizen__ _n_ :four::hammer: (denizens)  
 __denouement__ _n_ :three::hammer:  
 __denoument__  
@@ -3641,7 +3641,7 @@ __escapade__ _n_ :dart:
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
-__Eskimo__  
+__Eskimo__ _n_ :two::mega:  
 __espadrilles__ _n_  
 __espouse__ _v_  
 __espousing__ _v_ _Espousing warm ties with Russia._  
@@ -4649,6 +4649,7 @@ __go a long way__ :dart::three::hammer: _Go a long way toward minimizing damage.
 __go apeshit__  
 __go awry__ :two::hammer:  
 __go back to square one__ _idiom_ To start from the beginning.  
+__go ballistic__ _idiom_  
 __go dutch__  
 __go for it!__  
 __go great lenghts__  
@@ -5363,7 +5364,7 @@ __honorees__
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
 __hooch__ :two::hammer: _Take it easy on the hooch._  
 __hood fan__  
-__hood__ _n_ :two::hammer:  
+__hood__ _n_ _slang_ :three: Criminal, a member of a criminal gang.  
 __hoodlums__ :two::hammer:  
 __hoods__ _n_  
 __hoodwink__ _v_ :three: To deceive or trick.  
@@ -5979,6 +5980,7 @@ __kibitz__ _v_
 __kick ass__  
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
+__kick in__ _phr v_ To start to have an effect or to happen.  
 __kick sand in the air__  
 __kick the bucket__  
 __kick the crap out of (someone)__ _idiom_  
@@ -7322,6 +7324,7 @@ __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro
 __oddly enough__  
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
+__odious__  
 __odometer__ :two::hammer:  
 __OEM__ _abbr_ :two::hammer: _OEMs._  
 __of a kind__ _You are two of a kind._  
@@ -7579,6 +7582,7 @@ __overstating__ _v_
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
 __overtake<sup>2</sup>__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
+__overthink__ _v_  
 __overtime__ :es: horas extras  
 __overtone__ _n_  
 __overtures__ _n_  
@@ -7715,7 +7719,7 @@ __parsnip__
 __parsonage__ :pencil2:  
 __part-time<sup>1</sup>__ _adj_  
 __part-time<sup>2</sup>__ _adv_  
-__partake__ _v_ :nine: (partaken, partaking) __1__ (fololwed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
+__partake__ _v_ :nine::m: (partaken, partaking) __1__ (fololwed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __participatory__ _I wanted to be a participatory father._  
@@ -10060,7 +10064,7 @@ __slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work 
 __slop__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
-__sloppy__ :two::hammer: _We were a little sloppy in the second half of the game._  
+__sloppy__ _adj_ :three::hammer: _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ _n_ :four: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
@@ -10230,7 +10234,7 @@ __soda jerk__ _n informal_ One who works at a soda fountain.
 __sodden__  
 __soffit__  
 __soft bread__  
-__soft-spoken__  
+__soft-spoken__ _adj_ :two::hammer:  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
@@ -11016,6 +11020,7 @@ __take on__ _phr v_ :two: To accept some work or responsibility.
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
+__take through__ _phr v_ To explain something to someone.  
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ _idiom_ To do something to help you forget about something else.  
 __takeaways__ _n_  
@@ -11453,7 +11458,7 @@ __top-flight__
 __top-of-mind__  
 __topiary__  
 __topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
-__topple__ _v_ _Warriors topple Raptors for fifth straight story._  
+__topple__ _v_ :two::hammer: _Warriors topple Raptors for fifth straight story._  
 __topsy-turvy__ _adj_ :two::hammer:  
 __torches__ _n_  
 __tore__ _v_  
@@ -11466,7 +11471,7 @@ __torrid__
 __torte__ _A torre was named after her._  
 __toss out__ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  
-__toss-ups__  
+__toss-up__ _n_ :two::hammer: (toss-ups__)  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
 __tossup__ _n_ :three::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lots__ _There are tot lots, but there is no place for us._  
@@ -11551,7 +11556,7 @@ __trellises__ _From his trellises._
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
 __trench coat__ _n_  
 __trenchant__ _adj_  
-__trepidation__ _n_ :three::hammer:  
+__trepidation__ _n_ :four::hammer:  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
@@ -11795,7 +11800,7 @@ __undisturbed__ _v_
 __undue__  
 __undulating__ _v_  
 __undulation__ _n_  
-__unduly__ _adv_ :six::hammer:  
+__unduly__ _adv_ :eight::hammer:  
 __unearth__ _v_ :three::hammer: (unearthed)  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
