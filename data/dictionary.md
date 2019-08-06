@@ -148,7 +148,7 @@ __affix__ _v_
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
-__afford__ _v_ _We can't afford it._  
+__afford__ _v_ :two::hammer: _We can't afford it._  
 __affordable__ :pencil2:  
 __affront__ _n_ :two::hammer:  
 __aficionado__  
@@ -375,6 +375,7 @@ __apprehend__ _v_
 __apprehension__  
 __apprehensive__ _adj_ Very nervous.  
 __approval rating__ _Park's approval rating has plummeted._  
+__apricate__ _v_ To bask in the sun.  
 __apropos__ _prep_ :three::mega::hammer:  
 __apt__  
 __aquanaut__ _n_  
@@ -596,7 +597,7 @@ __bad blood__ :two::hammer:
 __bad egg__ Someone who behaves in a bad or dishonest way.  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
-__bad-mouth__ _v_  
+__bad-mouth__ _v_ :two::hammer:  
 __badass<sup>1</sup>__ _n_  
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _It's just what Bond fans want in a baddie._  
@@ -1322,7 +1323,9 @@ __bromance__ :two::hammer:
 __bronc__ _Bull and bronc riding._  
 __bronco__ _n_ :camera:  
 __broncobusting__  
-__brood__ _n_ :two::hammer: _A brood of chickens._  
+__brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._  
+__brood<sup>2</sup>__ _v_ (brooded)  
+__brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :seven: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
@@ -1973,7 +1976,7 @@ __claim__ _The White Sox claimed the 2005 title._
 __claimants__ :two::hammer:  
 __clam up__ _v_  
 __clambake__ _n_  
-__clamber__ _v_ :seven: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
+__clamber__ _v_ :eight: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
@@ -2215,6 +2218,7 @@ __compurgator__ _n_
 __comrade__  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
+__con-artist__  
 __con<sup>1</sup>__ _n_ :five::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :three::hammer: _Now Biff, don't con me!_  
 __Concacaf__  
@@ -2776,6 +2780,7 @@ __decamped__ _v_
 __decant__ _v_  
 __decanter__ _n_ :two::hammer:  
 __decathlon__  
+__deceit__ _n_  
 __decidious__ _adj_  
 __decimate__ _v_ _It decimated their relationship._  
 __decimation__  
@@ -2833,6 +2838,7 @@ __defrost__
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
+__dehydration__  
 __deigned__ _v_  
 __dejected__  
 __deking__  
@@ -2997,6 +3003,7 @@ __dirtbag__ :two::hammer:
 __dirtdobbers__  
 __dirty boogie__  
 __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
+__dirty-mouth__  
 __dis__ _n_ :two::hammer:  
 __disabuse__ _v_ :dart: To free from a falsehood or misconception.  
 __disaffected__ _adj_ :two::hammer:  
@@ -3817,7 +3824,7 @@ __fanzine__ _n_ :mega:
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :four::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
-__far-flung__ _adj_ :three::hammer: _He represented a far-flung roster of clients in bribery and corruption cases._  
+__far-flung__ _adj_ :four::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
@@ -3987,7 +3994,7 @@ __firebug__ _n_
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
-__first and foremost__  
+__first and foremost__ :two::hammer:  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
@@ -5936,7 +5943,7 @@ __jury box__ _n_ An enclosure where the jury sit in court.
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __jut out__ _The head juts out of the wall._  
-__jutted__ _v_  
+__jut__ _v_ :two::hammer: (jugged, jutting)  
 __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-9__ _A K-9 van._  
@@ -6163,7 +6170,7 @@ __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliatio
 __last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
 __latch<sup>1</sup>__ _n_ :two::hammer:  
-__latch<sup>2</sup>__ _v_ :two::hammer: (latching)  
+__latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __late bloomer__ _n idiom_  
@@ -6286,7 +6293,7 @@ __letter jacket__ A jacket traditionally worn by high school and college student
 __letter__ _v_ _I'm currently lettering the forthcoming comic book._  
 __levee__  
 __leveled__ :two::hammer:  
-__leverage<sup>1</sup>__ _n_ _To exert leverage._  
+__leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v_ :three::hammer:  
 __leviathan__  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
@@ -7749,6 +7756,7 @@ __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.
 __patch up__  
 __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
+__pathetic__  
 __pathogenic__  
 __pathogens__ _n_  
 __pathologist__ _n_  
@@ -8163,6 +8171,7 @@ __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another,
 __poinsettia__ :pencil2:  
 __Point is,__  
 __point-and-shoot camera__  
+__point-blank__  
 __pointed questions__  
 __pointless__ _adj_  
 __poise__  
@@ -8855,6 +8864,7 @@ __reed__ :two::hammer: _A reed basket._
 __reeds__ _n_ :three::hammer:  
 __reefer__ :two::hammer: _He was hitting on a reefer._  
 __reefs__ _n_ :two::hammer:  
+__reek__ _n_  
 __reek<sup>1</sup>__ _n_  
 __reek<sup>2</sup>__ _v_ :eight: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
 __reel off__ _v_  
@@ -10406,7 +10416,7 @@ __spotlight<sup>2</sup>__ _v_ :three::hammer:
 __spotted__ _v_  
 __spout__ _v_ _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
-__sprawl__ _v_ :three::hammer: (sprawled)  
+__sprawl__ _v_ :four::hammer: (sprawled)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
 __spreading hairs__ (?)  
@@ -11300,7 +11310,7 @@ __thwack__ (thwacks) :two::hammer:
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :four::hammer::mute:[t~~h~~yme] :es: tomillo  
 __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
-__tic<sup>1</sup>__ _n_  
+__tic<sup>1</sup>__ _n_ :two::hammer: _A tic sucking on the neck of a dog._  
 __tic<sup>2</sup>__ _v_  
 __tick prevention__  
 __tick__ _v_ _Prices ticked up 0.2%._  
