@@ -735,6 +735,7 @@ __be dismissed__ :es: retirarse (por ejemplo de la mesa)
 __be friends__ _I was good friends with her._  
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
+__be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
@@ -1341,6 +1342,7 @@ __bruin__
 __bruited__  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
 __brussels sprout__ _n_  
+__brutal__  
 __brutalized__ _v_  
 __brutish__  
 __BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
@@ -1391,6 +1393,7 @@ __bull in a china shop__ _n_ _idiom_ :two: A clumsy person.
 __bull__ Adult large animal (eg. an elephant).  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet points__ :three::hammer: _Give me the bullet points._  
+__bulletproof__ _adj_ _A bulletproof relationship._  
 __bullhorn__ :two::hammer:  
 __bullion__  
 __bullpen__ _n_  
@@ -1559,7 +1562,7 @@ __calendar girl__
 __calf__ _n_ :two::hammer::mute:[ca~~l~~f]  
 __caliber__ _n_  
 __calico__ :two::hammer: _A plain calico coat._  
-__caliper__ _n_  
+__caliper__ _n_ :two::hammer: _I need a new brake caliper for my motorcycle._  
 __caliph__  
 __caliphate__  
 __calisthenics__  
@@ -3067,6 +3070,7 @@ __disposable__ _adj_ _A disposable lighter._
 __disquiet__  
 __disquisitition__ :pencil2:  
 __disrupt__ _v_ :two::hammer: _A Trump supporter disrupted a Broadway musical._  
+__diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
 __dissatisfaction__ :two::hammer:  
 __dissatisfied__ _adj_ :pencil2:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
@@ -3156,6 +3160,7 @@ __domicile__
 __don't count your chickens before they're hatched__ Don't make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
+__donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
 __doo-dah__  
 __doodad__  
@@ -3405,6 +3410,7 @@ __dystopian__
 __e-blasts__  
 __e-commerce__  
 __e.g.__ Exempli Gratia.  
+__each other__  
 __eager__  
 __ear candy__ _n_ _slang_ Pleasant-sounding music.  
 __earbuds__ :camera:  
@@ -6282,7 +6288,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
-__let alone__ _conj_ :six::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
+__let alone__ _conj_ :seven::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let on__ _phr v_  
 __let somebody down__ _idiom_ To disappoint someone.  
@@ -6879,6 +6885,7 @@ __misprint__ :pencil2::two::hammer: _This is not a misprint._
 __misremember__ _v_ To remember incorrectly.  
 __miss the point__ :two::hammer:  
 __misspell__ _v_  
+__misspend__ _v_ To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
 __missteps__  
@@ -7017,7 +7024,7 @@ __muff__ _She drew from her muff a pistol._
 __muff-diver__ _n_ :two::hammer:  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)  
-__muffler__  
+__muffler__ _n_ :two::hammer: _Syn_ silencer  
 __mugged__ _v_  
 __mugger__ _n_ :two::hammer: (muggers)  
 __muggles__ _n_ :two::hammer:  
@@ -8555,7 +8562,7 @@ __put our heads together__ _idiiom_ To discuss or plan something together with o
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put to the test__  
-__put up with__ _v_ :four::hammer: _We're not going to put up with this anymore._ _People put up with it._  
+__put up with__ _idiom_ :five: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -10226,6 +10233,7 @@ __snuggles__
 __snugly__ :two::hammer:  
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
+__so-so__  
 __soap opera__  
 __soap-spuds__ _n_  
 __soapbox<sup>1</sup>__ _n_  
@@ -10322,6 +10330,7 @@ __Spanx__
 __spar<sup>1</sup>__ _n_  
 __spar<sup>2</sup>__ _v_  
 __spare room__ _n_ (spare-room) Guest room, guestroom (). :es: habitación de invitados, cuarto de invitados  
+__spark plug__ _n_ :dart: :es: bujía  
 __spark plugs__  
 __sparklers__ _n_  
 __sparred__ _v_  
@@ -10780,7 +10789,7 @@ __stubby__ :two::hammer: _Stubby fingers._
 __stucco__  
 __stuck a chord__  
 __stuck-up__  
-__stud<sup>1</sup>__ _n_ :two::hammer:  
+__stud<sup>1</sup>__ _n_ :three::hammer: _Tires with studs._  
 __stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury's studded armband._  
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
@@ -11093,7 +11102,7 @@ __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._
 __tarred__  
 __tarry__ _v_ :three::hammer: (tarried)  
 __tart__ :two::hammer: _She'd bitten into something overly tart._  
-__tartan__ :two::hammer: _Tartan trousers._ _Tartan upholstery._  
+__tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._  
 __tartar__ _n_  
 __tarts__ _n_ (whore)  
 __Taser__ _A Taser stun gun._  
@@ -11513,7 +11522,9 @@ __tpngue-in-cheek__
 __trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
 __track__ _n_ :camera:  
 __tracksuit__ _n_ :two: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
+__tract__ _v_  
 __tractor trailer__ :two::hammer::camera: (tractor-trailer)  
+__tractor__ _n_  
 __trade paperback__  
 __trade-off__ _She has to make trade-offs._  
 __traduce__ _v_ :astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
@@ -12127,6 +12138,7 @@ __waifish__
 __wainscoting__  
 __waist band__  
 __waistcoat__ _n_  
+__wait for the other shoe to drop__ _idiom_ To wait for something bad to happen.  
 __wait up__ _phr v_ To not go to sleep until someone comes home.  
 __waive__ _v_ :five::hammer: (waived)  
 __waiver__  
@@ -12284,6 +12296,7 @@ __wheelie__
 __wheelwright__ _n_  
 __wheeze__ _v_ :two::hammer: (wheezing) _Wheezing economy._  
 __whelp__  
+__when pigs fly__ _idiom_ Never, impossible.  
 __when the chips are down__ _idiom_ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
 __whence__  
 __whereabouts__  
@@ -12572,6 +12585,7 @@ __yay!__ _interj_
 __yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
+__yeast__ _n_  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
 __yelp<sup>1</sup>__ _v_ :five::hammer: (yelps, yelped) :es: gañir  
