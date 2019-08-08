@@ -1,26 +1,4 @@
 
-__keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
-__sojourn<sup>1</sup>__ _v_  
-__sojourn<sup>2</sup>__ _n_  
-__mow__ _v_ To cut down grass with a machine.  
-
-__intently__ _He watched him intently._  
-__concourse__ _n_  
-__lowly__ _A lowly subsection of the Ministry of Interior._  
-__crumble__ _v_  
-__ragtag__ _adj_ _A ragtag group._  
-__boot__ _n_ (car's trunk?) _He loaded their cases into the boot._  
-__goaded__ _v_  
-__bloodshot eyes__ :camera:  
-__cipher__ _n_  
-__outplayed__ _v_  
-__wincing__ _v_ _He was wincing in pain._  
-__piping__ :camera: _Uniform trousers with red piping._  
-__fit the bill__ :two::hammer: _His appearance fitted the bill._  
-__hush up__ _The matter had been hushed up._  
-__uprooted__ _Uprooted workers._  
-__compulsory__  
-
 __begrudge__ _v_ _No one could begrudge her that._  
 __battered__ _v_ _His face was battered._  
 __barrel__ _n_ (of a gun)  

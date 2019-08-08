@@ -1026,6 +1026,7 @@ __blizzard__ _n_ :two::hammer:
 __bloc__ _n_ :five::hammer: _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood-expander__  
+__bloodshot eyes__ :camera:  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
 __bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right._  
 __blooker__ :two::hammer:  
@@ -1164,7 +1165,7 @@ __boonies__
 __boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boorishness__ :two::hammer:  
 __boosters__ _Mississippi boosters._  
-__boot<sup>1</sup>__ _n_ _The boot is a still-generous 17.7 cubic feet._  
+__boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
 __bootlegger__  
@@ -1961,7 +1962,8 @@ __cinder__
 __cinder-block town__  
 __cinephile__ :mega:  
 __cineplex__ _Sequels ruled the cineplex this weekend._  
-__cipher__ _They often cipher._  
+__cipher<sup>1</sup>__ _n_  
+__cipher<sup>2</sup>__ _v_ _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
 __circuit__ :mute:[circ~~u~~it]  
 __circumambulate__ :pencil2:  
@@ -2216,7 +2218,7 @@ __comps__ _n_ (Competitors?)
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
-__compulsory__ :three::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._  
+__compulsory__ _adj_ :four::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._  
 __compurgator__ _n_  
 __comrade__  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
@@ -2241,7 +2243,7 @@ __concise__
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ :two::hammer:  
 __concomitant__ :two::hammer:  
-__concourse__ _n_ :three::hammer:  
+__concourse__ _n_ :four::hammer:  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
@@ -2575,7 +2577,7 @@ __cruffy__
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
 __crumb__ _n_ :four::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
-__crumble__ _v_ :five::hammer: (crumbled, crumbling)  
+__crumble__ _v_ :six::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_  
@@ -4007,6 +4009,7 @@ __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clust
 __fissile__ _Fissile material._  
 __fist-pumper__  
 __fists bumping__  
+__fit the bill__ :two::hammer: _His appearance fitted the bill._  
 __fit__ :two::hammer:  
 __fitful__ :two::hammer:  
 __fits__ _The cathedral has been built in fits._  
@@ -4680,7 +4683,7 @@ __go-ahead goal__
 __go-for-broke__  
 __go-pills__ _n_  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
-__goad__ _v_ :six::hammer: (goaded, goading)  
+__goad__ _v_ :seven::hammer: (goaded, goading)  
 __goads__ _n_  
 __goahead__  
 __goalie__  
@@ -5482,7 +5485,7 @@ __hurtling__ _v_
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__ _n_ :three::hammer:  
 __hush money__ _A hush money case._  
-__hush up__ _v_  
+__hush up__ _v_ :two::hammer: _The matter had been hushed up._  
 __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __hush-hush__ Very secret.  
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
@@ -5746,7 +5749,7 @@ __intangible__
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__  
-__intently__  
+__intently__ :two::hammer: _He watched him intently._  
 __interdicting__  
 __interim__  
 __interlopers__ _n_ :two::hammer:  
@@ -5968,6 +5971,7 @@ __keen__ _adj_ :nine::m: If you have a keen interest in something, you are reall
 __keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep an eye__ _Keep an eye on the Twitter._  
+__keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
@@ -6494,7 +6498,7 @@ __lowing__ _v_ :two::hammer:
 __lowkey__  
 __lowlife__  
 __lowlights__  
-__lowly__ :two::hammer: _The lowly news reporter._  
+__lowly__ _adj_ :three::hammer:_A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lucifer match__  
 __lucky charm__  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
@@ -7007,6 +7011,7 @@ __mouthwash__ _n_ :two::hammer: :es: colutorio
 __move the needle__  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __mover__ _n_  
+__mow__ _v_ To cut down grass with a machine.  
 __mowed__ _v_  
 __moxie__ :two::hammer:  
 __Mr Goodwrench__  
@@ -7539,6 +7544,7 @@ __outnumber__ _v_
 __outpace__ _v_  
 __outpacing__ :two::hammer:  
 __outpatient__ _n_ :three::hammer:  
+__outplayed__ _v_  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
 __outpouring__  
@@ -8031,7 +8037,7 @@ __pipe tape__
 __pipehead__  
 __pipeline__  
 __pipeyard__  
-__piping__ _I saw a man in a pale blue suit with white piping on the lapels._  
+__piping__ :two::camera::hammer: _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
 __pique<sup>1</sup>__ _n_  
 __pique<sup>2</sup>__ _v_ :six::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
@@ -8677,7 +8683,7 @@ __rage<sup>2</sup>__ _v_
 __raged__ _v_  
 __raging bull__ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker's dream._  
-__ragtag__ :two::hammer: _A ragtag group._  
+__ragtag__ _n_ :three::hammer: _A ragtag group._  
 __rah-rah__  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
 __rail<sup>2</sup>__ _v_ :three::hammer: (railed) _He is railing against Medicaid._  
@@ -10259,8 +10265,8 @@ __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food o
 __soignée__  
 __soil__ _v_  
 __soiled__  
-__sojourn<sup>1</sup>__ _n_ :six::hammer: _The phantasmagorical sojourn along the freeways of LA._  
-__sojourn<sup>2</sup>__ _v_  
+__sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
+__sojourn<sup>2</sup>__ _v_ :two::hammer:  
 __solace__  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
@@ -11919,7 +11925,7 @@ __uppers__
 __upping__ _v_ :two::hammer:  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproar__ _n_  
-__uproot__ _v_  
+__uproot__ _v_ :two::hammer: (uprooted) _Uprooted workers._  
 __upsale__ _n_ (?)  
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upscale<sup>2</sup>__ _v_  
@@ -12403,7 +12409,7 @@ __wimpiness__
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
 __win back__ _phr v_ To get back something that you have lost.  
-__wince__ _v_ :four::hammer: (winced)  
+__wince__ _v_ :five::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind down__ _phr v_ To end, or to finish something gradually.  
