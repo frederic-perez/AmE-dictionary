@@ -1,26 +1,4 @@
 
-__begrudge__ _v_ _No one could begrudge her that._  
-__battered__ _v_ _His face was battered._  
-__barrel__ _n_ (of a gun)  
-__duped__ _v_ _He had been duped by her._  
-__clutching__ _v_  
-__trickle__ _n_ _A trickle of blood._  
-__slack__ _adj_  
-__in so far as__  
-__predated__ _v_ _The building predated the revolution._  
-__Bolshevik__  
-__beady__  
-
-__stillbirth__ _n_  
-__atrium__ _n_  
-__thromboembolism__ _n_  
-__knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
-__longitudinal__ _Longitudinal findings from the study._  
-__syphilis__ _n_ :pencil2:  
-__tingling__ _v_ _A man presented with a six day history of numbness and tingling in his left arm._  
-__poor man__  
-
-__daunting__  
 __pick on/in__ (?) _I like to pick on/in people that I love._  
 __poster child__  
 __cliché__ _adj_ (?)  

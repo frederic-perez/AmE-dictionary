@@ -497,7 +497,7 @@ __atlatl__
 __atolls__ _n_  
 __atone__ _v_ :three::hammer: (atoned)  
 __atop__  
-__atrium__  
+__atrium__ _n_ :two::hammer:  
 __atrocious__  
 __atrocity__  
 __atrophied__ _v_  
@@ -691,7 +691,7 @@ __barrage<sup>2</sup>__ _v_
 __barre__  
 __barrel bombs__  
 __barrel of laugh__ _idiom_ :two: Someone who is very funny.  
-__barrel<sup>1</sup>__ _n_ _A tank's barrel._  
+__barrel<sup>1</sup>__ _n_ :two::hammer: _A tank's barrel._  
 __barrel<sup>2</sup>__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__  
@@ -718,7 +718,8 @@ __bath tissue__
 __bathhouses__  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __baton__ _n_ :two::hammer:  
-__battered__ _Her pride remains battered but intact._  
+__battered<sup>1</sup>__ _v_ _His face was battered._  
+__battered<sup>2</sup>__ _adj_ _Her pride remains battered but intact._  
 __battery__ :two::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __batty__  
@@ -738,6 +739,7 @@ __be in a pickle__ _slang_ To be in a troublesome situation.
 __be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
+__beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
@@ -802,7 +804,7 @@ __befuddling__ :two::hammer:
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar__ _n_  
 __beggar-thy-neighbor__  
-__begrudge__ _v_ :three::hammer:  
+__begrudge__ _v_ :four::hammer: _No one could begrudge her that._  
 __begrudgingly__ :two::hammer:  
 __beguile__ _v_ :six::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
@@ -1113,6 +1115,7 @@ __bolo tie__ _n_
 __bologna__  
 __boloney__ Baloney.  
 __bolony__  
+__Bolshevik__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolt__ _v_ :two::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
@@ -2084,7 +2087,7 @@ __clunky__ _adj_ :three::hammer:
 __clutch bag__  
 __clutch player__  
 __clutch<sup>1</sup>__ _n_ :three::hammer: _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._  
-__clutch<sup>2</sup>__ _v_ :five::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
+__clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
 __CO__ Carbon monoxide, "the silent killer."  
 __co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
@@ -2738,7 +2741,7 @@ __dated__ _adj_ Old-fashioned; out-of-date.
 __dateline__  
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ :mute:[dau~~gh~~ter]  
-__daunting__ _adj_ :four: Seeming difficult to deal with in prospect; intimidating.  
+__daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __day and age__  
@@ -3385,7 +3388,7 @@ __dungarees__ _n_ :five::hammer: _The men in black dungarees stood motionless._
 __dunno__  
 __duo__  
 __dupe__ _A dupe of a president._  
-__duped__ _v_ :four::hammer: _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
+__duped__ _v_ :five::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplexes__ :two::hammer:  
 __duplicitious__ _A duplicitious cigarette industry._  
 __duplicitous__  
@@ -5606,6 +5609,7 @@ __in hot water__ _idiom_ In trouble.
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __In retrospect,__ (?)  
 __in short order__  
+__in so far as__  
 __in stitches__ _idiom_  
 __in the black__ _idiom_  
 __in the clear__ :two::hammer: _She is in the clear._  
@@ -6086,6 +6090,7 @@ __knuckle sandwich__ _idiom_ A punch in the face.
 __knuckle__ :mute:[~~k~~nuckle]  
 __knuckleball__ :two::hammer:  
 __knuckler__ :two::hammer: (knucklers)  
+__knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __knurled__ _v_ :two::hammer:  
 __KO<sup>1</sup>__ _n_ A knockout in boxing.  
 __KO<sup>2</sup>__ _v_ To knock unconscious, especially in a boxing match; knock out.  
@@ -6448,6 +6453,7 @@ __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large ever
 __longbow__ _n_ :three::hammer:  
 __longhand__ _n_ :four: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
+__longitudinal__ _Longitudinal findings from the study._  
 __longstanding__ _adj_ :three::hammer:  
 __longtime__ _The longtime dictator._  
 __look down__ _v_  
@@ -7739,7 +7745,7 @@ __parsnip__
 __parsonage__ :pencil2:  
 __part-time<sup>1</sup>__ _adj_  
 __part-time<sup>2</sup>__ _adv_  
-__partake__ _v_ :nine::m: (partaken, partaking) __1__ (fololwed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
+__partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
 __participatory__ _I wanted to be a participatory father._  
@@ -8219,6 +8225,7 @@ __poo-pooked__ _A poo-pooked (poo-poohed) its properties._
 __pooch__ _n_ _slang_ :two: A dog.  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
+__poor man__  
 __poor-boy__ _Poor-boy sandwich._  
 __poorly__ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __pop the cherries__  
@@ -8309,7 +8316,7 @@ __preceptor__ :two::hammer:
 __precint__  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
 __precision__ _Precision medicine._  
-__predate__ _v_ :three::hammer:  
+__predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_  
 __prediabetes__  
 __predicament__ :two::hammer: _Hearsay suggests that green apples can induce such a predicament._  
@@ -10001,7 +10008,7 @@ __SL,UT__ Abbreviation for Salt Lake City, Utah.
 __slabs__ :two::hammer: _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
-__slack<sup>3</sup>__ _adj_ (?) :two::hammer: _Now he couldn't drive with slack reins._  
+__slack<sup>3</sup>__ _adj_ :three::hammer: _Now he couldn't drive with slack reins._  
 __slackened__ _v_  
 __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
 __slackline__ _n_  
@@ -10660,6 +10667,7 @@ __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of 
 __stigma__  
 __stile__ _n_  
 __still life__ _Still life painting._  
+__stillbirth__ _n_  
 __stilt__ _n_ :six::hammer: (stilts) _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __sting__ _n_  
@@ -11001,6 +11009,7 @@ __syllogism__ :two::hammer:
 __sympathetic__  
 __syncing__ _Syncing up over coffee._  
 __syndicated__ :two::hammer:  
+__syphilis__ _n_ :pencil2:  
 __syringe__  
 __syrupy__  
 __systemic__ :two::hammer:  
@@ -11280,6 +11289,7 @@ __thrifty__ _adj_ :two::hammer:
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :four::hammer:  
+__thromboembolism__ _n_  
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
@@ -11375,7 +11385,7 @@ __tinderdry__
 __tines__  
 __tinfoil hat__  
 __tinge__ :two::hammer:  
-__tingle__ _v_ :five: (tingled, tingling) Cause a stinging or tingling sensation.  
+__tingle__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
 __tingles__ _I'm all tingles and shakes._  
 __tink__ _v_  
 __tinker__ _v_ :three::hammer:  
