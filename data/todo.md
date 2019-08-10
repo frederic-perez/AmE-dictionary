@@ -1,4 +1,17 @@
 
+__august__ _adj_ Inspiring reverence or admiration; of supreme dignity or grandeur.  
+__hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
+__plead__ _v_ To ask for something in an urgent or emotional way.  
+__take to__ _phr v_ To make a habit of something.  
+__accomplice__  
+__bequeath__ _v_  
+__stolid__ _adj_  
+__transient__ _n_  
+__cajole__ _v_  
+__inhale__ _v_ _slang_ To eat very quickly.  
+__low-key__ _adj_  
+__bag of tricks__ _idiom_ All the clever methods by which someone achieves something.  
+
 __pick on/in__ (?) _I like to pick on/in people that I love._  
 __poster child__  
 __cliché__ _adj_ (?)  
