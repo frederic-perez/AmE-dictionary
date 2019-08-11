@@ -1,4 +1,15 @@
 
+__depolarize__ _v_  
+__weaponize__  
+__prior__ _n_ (priors)  
+__pulpit__ _n_  
+__Amish__ _n_ _Amish country._  
+__raunchy__  
+__chain smoker__  
+__horseshit__ _n_ _That's like horseshit squared!_  
+__cabbage__ _n_  
+__fantastic__ _adj_ :three::hammer::mega:  
+
 __nails__ _n_  
 __prised out__ _v_  
 __shelling__ _n_ :es: bombardeo (?)  
