@@ -1,4 +1,15 @@
 
+__haphazardly__  
+__pit toilet__ _n_  
+__wracked__ _v_  
+__wince__ _v_ (wincing) _Wincing in pain._  
+__gash__ _n_  
+__doggedly__  
+__oatmeal__ _n_  
+__smart__ _The man was smartly dressed._  
+__just__ _adj_ _The punishments were fair, just and appropriate._  
+__squalor__  
+
 __depolarize__ _v_  
 __weaponize__  
 __prior__ _n_ (priors)  
