@@ -1,4 +1,15 @@
 
+__allegation__ _n_  
+__taper off__ _v_ (tapering off)  
+__come to a stop__ _The train came to a stop at Moscow._  
+__scruffy__  
+__afresh__ _They had to start afresh._  
+__lash out__ _v_  
+__pore__ _v_ (=peered?)  
+__gaunt__ _A gaunt woman._  
+__cratered__ _adj?_ _Cratered streets._  
+__screech__ _v_  
+
 __haphazardly__  
 __pit toilet__ _n_  
 __wracked__ _v_  
