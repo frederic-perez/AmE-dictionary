@@ -1,4 +1,13 @@
 
+__lethargic__ _adj_ _Lethargic voice._  
+__deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._  
+__nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
+__paraprosdokian__  
+__non sequitur__  
+__anti-humor__  
+__grisly__ _adj_  
+__punchline__  
+
 __allegation__ _n_  
 __taper off__ _v_ (tapering off)  
 __come to a stop__ _The train came to a stop at Moscow._  
