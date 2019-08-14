@@ -1,4 +1,20 @@
 
+__bland__ _adj_  
+__lumber__ _The lumber mill._  
+__boot__ _v_ _She'd keep the golden tooth to boot._  
+__hurricane lamp__ _n_  
+__compulsory__ :two: _Compulsory State writ._  
+__writ__ _n_ _Compulsory State writ._  
+__spluttered__ _v_  
+__freight train__ _n_ (vs passenger train)  
+__jutted__ _v_  
+__chisel__ _n_  
+__flap__ _A flap of skin._  
+__slashed__ _v_ _She slashed at his hands, jabbing and cutting._  
+__retch__ _v_  
+__meekness__  
+__fuss__ _n_ :two:  
+
 __lethargic__ _adj_ _Lethargic voice._  
 __deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
