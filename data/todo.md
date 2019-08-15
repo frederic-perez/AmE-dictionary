@@ -1,4 +1,20 @@
 
+__construed__ _v_  
+__ashen-faced__  
+__foremost__ _adj_  
+__skulduggery__  
+__shunted__ _v_  
+__mantle__ _n_ _Stalin's closest aide assumed the mantle of Leader._  
+__fraught__  
+__pent-up__ _Years of pent-up misery._  
+__gloat__ _v_  
+__henchman__ _n_  
+__frostbite__  
+__crestfallen__  
+__smirk__ _n_  
+__sodden__ _Piss-sodden beds._  
+__dimly__ _He was dimly aware of it._  
+
 __bland__ _adj_  
 __lumber__ _The lumber mill._  
 __boot__ _v_ _She'd keep the golden tooth to boot._  
