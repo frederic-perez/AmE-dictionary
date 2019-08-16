@@ -1,4 +1,13 @@
 
+__bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.  
+__knock off__ _phr v_ To stop working. _I gotta knock off work to come here and the commute is killing me._  
+__nut__ _slang_ A crazy or strange person.  
+__nuke__ _v_ _slang_ To heat or cook something in a microwave oven.  
+__in your birthday suit__ _idiom_ Naked.  
+__talk out of__ _phr v_ To persuade someone not to do something. _I want you to talk him out of it._  
+__armscye__ _n_  
+__blood, sweat, and tears__ _idiom_ A lot of effort and suffering.  
+
 __construed__ _v_  
 __ashen-faced__  
 __foremost__ _adj_  
