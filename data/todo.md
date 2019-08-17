@@ -1,4 +1,15 @@
 
+__flustered__ _v_  
+__sodden__  
+__yelp__ _v_  
+__purring__ _v_  
+__kindred spirit__  
+__divested__ _v_  
+__dissident__ _n_  
+__play tricks on someone__  
+__reprieve__ _n_ _It's a momentary reprieve._  
+__vagrant__ _n_ :two::hammer:  
+
 __bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.  
 __knock off__ _phr v_ To stop working. _I gotta knock off work to come here and the commute is killing me._  
 __nut__ _slang_ A crazy or strange person.  
