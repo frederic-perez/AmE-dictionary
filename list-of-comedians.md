@@ -16,5 +16,6 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
 - [Stephen Colbert](https://www.youtube.com/results?search_query=Stephen+Colbert)
+- [Steve Martin](https://www.youtube.com/results?search_query=Steve+Martin)
 - [Steven Wright](https://www.youtube.com/results?search_query=Steven+Wright)
 - [Thomas Middleditch](https://www.youtube.com/results?search_query=Thomas+Middleditch)
