@@ -1,4 +1,13 @@
 
+__great-grandfather__ _n_  
+__delegacy__ _n_ A group of representatives or delegates.  
+__a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
+__spinnaker__ _n_  
+__effing__ _adv_ and _adj_ _vulgar slang_ Used as an intensive.  
+__bocce ball__ _n_  
+__eye-popping__ _adj_ Amazingly impressive; suggestive of the flashing of lightning.  
+__dissimulate__ _v_  
+
 __snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __malapropism__ _n_  
