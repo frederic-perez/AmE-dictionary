@@ -5,6 +5,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Amy Schumer](https://www.youtube.com/results?search_query=Amy+Schumer)
 - [Andy Daly](https://www.youtube.com/results?search_query=Andy+Daly)
 - [Bob Newhart](https://www.youtube.com/results?search_query=Bob+Newhart)
+- [Chris Gethard](https://www.youtube.com/results?search_query=Chris+Gethard)
 - [Conan O'Brien](https://www.youtube.com/results?search_query=Conan+O'Brien)
 - [Don Rickles](https://www.youtube.com/results?search_query=Don+Rickles)
 - [George Carlin](https://www.youtube.com/results?search_query=George+Carlin)
