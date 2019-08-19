@@ -20,3 +20,4 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Steve Martin](https://www.youtube.com/results?search_query=Steve+Martin)
 - [Steven Wright](https://www.youtube.com/results?search_query=Steven+Wright)
 - [Thomas Middleditch](https://www.youtube.com/results?search_query=Thomas+Middleditch)
+- [Woody Allen](https://www.youtube.com/results?search_query=Woody+Allen) shot a moose once
