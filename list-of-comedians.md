@@ -11,7 +11,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [George Carlin](https://www.youtube.com/results?search_query=George+Carlin)
 - [Gilbert Gottfried](https://www.youtube.com/results?search_query=Gilbert+Gottfried)
 - [Groucho Marx](https://www.youtube.com/results?search_query=Groucho+Marx)
-- [Jack Benny](https://www.youtube.com/results?search_query=Jack+Benny)
+- [Jack Benny](https://www.youtube.com/results?search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
 - [Jeff Ross](https://www.youtube.com/results?search_query=Jeff+Ross)
 - [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
@@ -20,4 +20,4 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Steve Martin](https://www.youtube.com/results?search_query=Steve+Martin)
 - [Steven Wright](https://www.youtube.com/results?search_query=Steven+Wright)
 - [Thomas Middleditch](https://www.youtube.com/results?search_query=Thomas+Middleditch)
-- [Woody Allen](https://www.youtube.com/results?search_query=Woody+Allen) shot a moose once
+- [Woody Allen](https://www.youtube.com/results?search_query=Woody+Allen) "shot a moose once" in the 60s.
