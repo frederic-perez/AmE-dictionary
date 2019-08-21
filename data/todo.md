@@ -1,4 +1,14 @@
 
+__nominalization__ _n_ The conversion of a word or phrase into a noun.  
+__blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
+__triage<sup>1</sup>__ _n_  
+__triage<sup>2</sup>__ _v_  
+__combat__ _v_ (combated, combating, or combatted or combatting)  
+__jettison__ _v_  
+__tailor__ _v_ _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
+__reliance__ _n_  
+__WHO__  
+
 __great-grandfather__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
