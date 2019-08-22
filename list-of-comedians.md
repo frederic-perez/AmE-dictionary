@@ -3,7 +3,8 @@
 Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](https://en.wikipedia.org/wiki/List_of_comedians)):
 
 - [Amy Schumer](https://www.youtube.com/results?search_query=Amy+Schumer)
-- [Andy Daly](https://www.youtube.com/results?search_query=Andy+Daly)
+- [Andy Daly](https://www.youtube.com/results?search_query=Andy+Daly)-
+- [Andy Richter](https://www.youtube.com/results?search_query=Andy+Richter) asks "The Three Questions"
 - [Bob Newhart](https://www.youtube.com/results?search_query=Bob+Newhart)
 - [Chris Gethard](https://www.youtube.com/results?search_query=Chris+Gethard)
 - [Conan O'Brien](https://www.youtube.com/results?search_query=Conan+O'Brien)
