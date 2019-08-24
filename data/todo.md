@@ -1,4 +1,15 @@
 
+__content__  
+__fauna__ _n_  
+__fortitude__ _n_  
+__ammo__  
+__-esque__  
+__factor in__  
+__graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
+__D&D__  
+__on a dime__ _idiom_  
+__embrace__ _v_  
+
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
 __triage<sup>1</sup>__ _n_  
