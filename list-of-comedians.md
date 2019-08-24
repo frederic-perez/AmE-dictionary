@@ -4,7 +4,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 
 - [Amy Schumer](https://www.youtube.com/results?search_query=Amy+Schumer)
 - [Andy Daly](https://www.youtube.com/results?search_query=Andy+Daly)-
-- [Andy Richter](https://www.youtube.com/results?search_query=Andy+Richter) asks "The Three Questions"
+- [Andy Richter](https://www.youtube.com/results?search_query=Andy+Richter) asks "The Three Questions."
 - [Bob Newhart](https://www.youtube.com/results?search_query=Bob+Newhart)
 - [Chris Gethard](https://www.youtube.com/results?search_query=Chris+Gethard)
 - [Conan O'Brien](https://www.youtube.com/results?search_query=Conan+O'Brien)
@@ -13,6 +13,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Gilbert Gottfried](https://www.youtube.com/results?search_query=Gilbert+Gottfried)
 - [Groucho Marx](https://www.youtube.com/results?search_query=Groucho+Marx)
 - [Jack Benny](https://www.youtube.com/results?search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
+- [James Corden](https://www.youtube.com/results?search_query=James+Corden) battled Adam Lambert to become Queen frontman.
 - [Jeff Ross](https://www.youtube.com/results?search_query=Jeff+Ross)
 - [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
