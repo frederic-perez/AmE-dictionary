@@ -1,4 +1,4 @@
-__-esque__ _suffix_ :three: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__-esque__ _suffix_ :four: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
 __-year-old__ _A 56-year-old retiree._  
 __, so why (even) bother?__  
 __, to say the least.__  
@@ -274,6 +274,7 @@ __ametropia__ _n_
 __amid__  
 __amiss__ _adj_  
 __amity__  
+__ammo__  
 __amnesty player__  
 __amount to__ _idiom_ :two::hammer:  
 __amp up__ _phr v_ (amping up)  
@@ -1042,6 +1043,7 @@ __blotting__ _v_
 __bloviate__ _v_  
 __blow away__ _phr v_ To surprise or amaze someone.  
 __blow it off__  
+__blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
 __blow someone's mind__  
 __blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
 __blow your top__ _idiom_ To become very angry.  
@@ -2155,7 +2157,8 @@ __column__ :mute:[colum~~n~~]
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
 __comb__ :mute:[com~~b~~]  
-__combat__ _n_  
+__combat<sup>1</sup>__ _n_  
+__combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
 __combines__ _Basketball_  
 __combs__ _n_ _The hens had red combs, wattles, and earlobes._  
 __come across__  
@@ -2308,7 +2311,7 @@ __contempt__
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
 __contend__ _v_ :three::hammer: (contended)  
-__content__  
+__content__ :two::hammer:  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contested shot__ _n_ (vs uncontested shot)  
@@ -2680,7 +2683,7 @@ __cyst__ _n_ :mega: _Ganglion cysts._
 __cytometry__  
 __D-ring inset__  
 __D'oh__ _slang_ Exclamation used when you realize that you did something stupid.  
-__D&D__  
+__D&D__ :two::hammer:  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :four::hammer: (dabbled, dabbling)  
@@ -3530,7 +3533,7 @@ __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal o
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embody__ _v_  
 __embolden__  
-__embrace__ _v_ :three::hammer: (embraced) _The best role models embrace their flaws._  
+__embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
 __embroidered__  
 __embroil__ (embroiled)  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
@@ -3787,7 +3790,7 @@ __facsimile<sup>3</sup>__ _v_
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
 __fact sheet__  
 __faction__ _n_  
-__factor in__ _v_  
+__factor in__ _v_ :two::hammer:  
 __factual__  
 __fad__ _n_  
 __fail__ _v_ _I'm trying--and failing--to work out the logic of this._  
@@ -3864,6 +3867,7 @@ __fatso__
 __fatwa__ _n_ :two: Religious edict.  
 __fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
+__fauna__ _n_  
 __Faustian__ _Faustian device._  
 __faux__ _Three faux tombstones._  
 __fave__  
@@ -4286,6 +4290,7 @@ __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direct
 __forthcoming__  
 __forthright__  
 __fortified wine__  
+__fortitude__ _n_  
 __fortnight__  
 __forty winks__ _idiom_ :two: A short nap.  
 __foster care__ _n_ :three::hammer:  
@@ -4760,6 +4765,7 @@ __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southweste
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
+__graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapple<sup>2</sup>__ _n_ _A thin cord hooked to a grapple._  
@@ -4796,6 +4802,7 @@ __great strides__ _He made great strides during his presidency._
 __Great War__  
 __great-grandchildren__  
 __great-granddaughters__ :pencil2:  
+__great-grandfather__ _n_  
 __great-grandsons__  
 __greater area__ _Greater Tokyo area._  
 __greaves__ _n_  
@@ -5860,7 +5867,7 @@ __jersey snagging__ _football_
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
 __jetliners__  
-__jettison__ _v_ :four::hammer: (jettisoned, jettisoning) _Seven seconds later the aeroshell was jettisoned._  
+__jettison__ _v_ :five::hammer: (jettisoned, jettisoning) _Seven seconds later the aeroshell was jettisoned._  
 __jetty__ :two::hammer:  
 __jewelery__ (jewelry)  
 __Jewess__  
@@ -7242,6 +7249,7 @@ __noddies__ _n_
 __noir__ _A noir novel._  
 __nom de guerre__  
 __nomadic__  
+__nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __non sequitur__ _n_ :four: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
 __non-call__ _He complained about non-calls._  
 __non-committal__  
@@ -7403,6 +7411,7 @@ __ominously__
 __omission__  
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
 __omnibus__ _n_ :two::hammer:  
+__on a dime__ _idiom_  
 __on a high horse__ _idiom_ To act as if you are better than other people.  
 __on a roll__ :two::hammer: _I'm on a roll._  
 __on a tear__ _The U.K. labor market is on a tear._  
@@ -8933,7 +8942,7 @@ __relegation__ _Sports_
 __relent__ _v_ :three::hammer: (relented)  
 __relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _Must have reliable transportation._  
-__reliance__  
+__reliance__ _n_ :two::hammer:  
 __reliant__ :two::hammer:  
 __relic__ _n_  
 __relief teams__  
@@ -11041,7 +11050,7 @@ __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ :two::hammer: _Our big tagline is to help others._  
 __tailgate__ _v_ :two::hammer:  
-__tailor__ _v_ :three::hammer: (tailored)  
+__tailor__ _v_ :four::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __take a piss__ _idiom_ Urinate.  
@@ -11600,7 +11609,8 @@ __tresses__ _Blond tresses._
 __trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
 __treys__ :two::hammer:  
 __triad__  
-__triage__ _n_ The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
+__triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
+__triage<sup>2</sup>__ _v_  
 __trial__ _n_  
 __Tribeca__  
 __tribulation__ _n_ :eight::hammer: (tribulations)  
@@ -12367,6 +12377,7 @@ __whithered__
 __whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizz__  
 __whizzing__  
+__WHO__  
 __who__ :mute:[~~w~~ho]  
 __whoa__  
 __whodunit__ _n_ :two: A detective story.  
