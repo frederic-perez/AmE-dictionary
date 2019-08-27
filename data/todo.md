@@ -1,26 +1,4 @@
 
-__delegacy__ _n_ A group of representatives or delegates.  
-__a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
-__spinnaker__ _n_  
-__effing__ _adv_ and _adj_ _vulgar slang_ Used as an intensive.  
-__bocce ball__ _n_  
-__eye-popping__ _adj_ Amazingly impressive; suggestive of the flashing of lightning.  
-__dissimulate__ _v_  
-
-__snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
-__ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
-__malapropism__ _n_  
-__add insult to injury__ _idiom_ To hurt the feelings of a person who is already upset.  
-__gutted__ _adj_ _informal_ Disappointed and upset.  
-__acid test__ _idiom_ Something that shows the true worth or value of something or someone.  
-__guts__ _n_ _slang_ Courage.  
-__overtake__ _v_ To move past another vehicle or person traveling in the same direction.  
-__armed to the teeth__ _idiom_ Fully armed, having many weapons.  
-__dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
-
-__flecked__ _v_ _Floor flecked with blood._  
-__peg__ _v_ (pegged} _Pegged as a uniform thug._  
-__dent__ _v_ _The drawer was dented by a kick._  
 __jut out__ _v_ _Document jutted out at all angles._  
 __keep tabs__ _I can't keep tabs on them._  
 __delouse__ _v_ _They're deloused once a month._  

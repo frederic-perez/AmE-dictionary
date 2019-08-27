@@ -15,6 +15,7 @@ __35-degree day__
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __800-pound gorilla__  
 __a bird in the hand is worth two in the bush__  
+__a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
@@ -79,6 +80,7 @@ __acerbic__ _adj_ :three::hammer:
 __acetate__ _n_  
 __Achilles heel__ A weakness or vulnerable point.  
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
+__acid test__ _idiom_ Something that shows the true worth or value of something or someone.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __acme__  
@@ -109,6 +111,7 @@ __Ada__ :mega: /ā′də/
 __adage__ :two::hammer:  
 __Adam's ale__ _slang_ Water.  
 __adamant__  
+__add insult to injury__ _idiom_ To hurt the feelings of a person who is already upset.  
 __add up to__ _idiom_ To equal or amount to something.  
 __add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
@@ -406,6 +409,7 @@ __Arkansas__ _n_ :mega:
 __arm bands__ _n_ :es: manguitos  
 __armageddon__  
 __armchair expert__ _idiom_  
+__armed to the teeth__ _idiom_ Fully armed, having many weapons.  
 __armload__  
 __armory__  
 __arms embargo__  
@@ -855,6 +859,7 @@ __beltway__ _n_ :dart:
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemused__ :two::hammer:  
+__ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench__ _Snow will dust the benches and valleys._  
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __bend over backwards__ _idiom_ To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
@@ -1095,6 +1100,7 @@ __bobbing__ _Bags bobbing in the water._
 __bobbled__ _v_ _The flowers bobbled and swayed._  
 __bobby pin__  
 __bobby socks__  
+__bocce ball__ _n_  
 __bod__ :two::hammer:  
 __bodacious__  
 __bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
@@ -2855,6 +2861,7 @@ __dejected__
 __deking__  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ _adj_ :three::hammer:  
+__delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _Non-delegatable actions._  
 __deleterious__ _adj_ :four::hammer:  
 __deli__ _n_ :two::hammer:  
@@ -2893,7 +2900,7 @@ __denier__ _n_ :two: A small coin of varying composition and value current in we
 __denizen__ _n_ :four::hammer: (denizens)  
 __denouement__ _n_ :three::hammer:  
 __denoument__  
-__dent__ _v_ (denting) :three: __1__ Mark with a dent. _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
+__dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
@@ -3091,6 +3098,7 @@ __disservice__ _n_ :two::hammer::astonished:
 __dissident__  
 __dissimilar__ _adj_  
 __dissimilarly__  
+__dissimulate__ _v_  
 __dissing__ _v_  
 __dissipation__  
 __dissolution__  
@@ -3384,6 +3392,7 @@ __dumbfounded__ _v_ :two::hammer:
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
 __dump<sup>2</sup>__ _v_ _They walkes to the trash can and dumped their cups._  
 __dumpling__ :two::hammer: (dumplings) _Bavarian bread dumpling._  
+__dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
 __dun__ _Dun-colored hair._  
 __dunce__ _n_ :two::hammer: _We are complete dunces at self-perfection._  
 __dung fork__ _n_  
@@ -3466,6 +3475,8 @@ __eerie__ _adj_ :seven::hammer:
 __eerily__ _adv_ :three::hammer:  
 __effete__  
 __effigy__ _n_ :three::hammer: (effigies)  
+__effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.  
+__effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
 __effluent__  
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
@@ -3758,7 +3769,7 @@ __eye dropper__ _n_
 __eye mask__ (to sleep)  
 __eye patch__  
 __eye raiser__  
-__eye-popping__ _Rob Nail displayed eye-popping videos of new robots._  
+__eye-popping__ _adj_ :two: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._  
 __eye-socket__ :es: órbita del ojo  
 __eyeball<sup>1</sup>__ _n_ :two:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
@@ -4089,6 +4100,7 @@ __flaxen__ _Flaxen cord._
 __flay__ _v_  
 __flayed__ _v_  
 __fleck__ _n_  
+__flecked__ _v_ _Floor flecked with blood._  
 __fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __fleece__ _v_ :four::hammer: (fleeced)  
@@ -4953,7 +4965,9 @@ __gussets__
 __gusto__ :two::hammer:  
 __gut__ _v_ _Trump could gut the agency's budget._  
 __gut-bucket__ _A gut-bucket string band._  
+__guts__ _n_ _slang_ Courage.  
 __gutsy__  
+__gutted__ _adj_ _informal_ Disappointed and upset.  
 __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
 __guzzle__ _v_ :two::hammer: _Guzzling ice water._  
 __guzzler__ :two::hammer: _Taxing gas guzzlers._  
@@ -6609,6 +6623,7 @@ __makeup date__ _Today's game has been postponed; no makeup date has been snnoun
 __makeup game__  
 __making waves__ :two::hammer:  
 __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
+__malapropism__ _n_  
 __malarkey__ _n_ :dart::four::mega::hammer:  
 __malevolent__  
 __malfeasance__ :two::hammer:  
@@ -7616,7 +7631,7 @@ __oversight__ _n_ :three::hammer: _An oversight board._ _Oversight committee._
 __overstating__ _v_  
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
-__overtake<sup>2</sup>__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
+__overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
 __overthink__ _v_  
 __overtime__ :es: horas extras  
 __overtone__ _n_  
@@ -7848,7 +7863,7 @@ __peered__ _adj_
 __peerless__  
 __peeved__ _v_  
 __peevishly__  
-__pegged__ _v_ :two::hammer:  
+__peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
 __pellet__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
@@ -10226,6 +10241,7 @@ __sniggering__ _v_ :two::hammer:
 __snipe__ _v_  
 __snit__ _President Trump responded with a typical Twitter-snit._  
 __snitch__  
+__snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
 __snoop__ _v_  
 __snootiness__  
@@ -10404,6 +10420,7 @@ __spindle__ _n_ :three::hammer:
 __spindly__  
 __spinel__ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin "spina." Balas ruby is an old name for a rose-tinted variety of spinel.  
 __spinet piano__ :camera:  
+__spinnaker__ _n_  
 __spinning wheels__  
 __spinouts__  
 __spinster__ :two::hammer:  
