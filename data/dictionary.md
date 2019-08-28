@@ -759,6 +759,7 @@ __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep 
 __bearing__ _n_ :four::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat it__ _idiom_ To go away immediately.  
+__beat the clock__ _idiom_ To finish something before the time is up.  
 __beat the shit out of (someone)__ _idiom_ _I expect them to beat the shit out of the Eagles._  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
@@ -2874,6 +2875,7 @@ __delivered__ _On Thursday the No. 4-ranked Cougars delivered._
 __delivers__  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
+__delouse__ _v_ _They're deloused once a month._  
 __delude__ _v_ :four::hammer: (deluded)  
 __deluge<sup>1</sup>__ _n_ :four: _The deluge is not over._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
@@ -3958,7 +3960,7 @@ __fidget__ _v_ :three::hammer:
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ :two::hammer: _His personal fief._  
-__fiefdom__  
+__fiefdom__ _n_ :two::hammer:  
 __field__ _v_ :nine: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
 __fierce__ :two::hammer:  
@@ -4181,7 +4183,7 @@ __flurry > in a flurry__
 __flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
-__fluster__ _v_ :six: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
+__fluster__ _v_ :seven: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
 __flutter<sup>1</sup>__ _v_ :eight: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
@@ -5478,7 +5480,7 @@ __hubris__ _n_ :four::hammer: _Intellectual hubris._
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :two: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
-__huddle<sup>2</sup>__ _v_ :three: __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
+__huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
 __Huey__  
 __huff__ _v_ :eight: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
 __huh__  
@@ -5559,7 +5561,7 @@ __idylic__ :pencil2:
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if you will__ :astonished:  
-__iffy__ :two::hammer: _Iffy call._  
+__iffy__ _adj_ _slang_ :three: Uncertain or doubtful. _Iffy call._  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __ignominious__  
@@ -5968,6 +5970,7 @@ __juncture__ _n_ :five: A juncture is a crucial point in time when a decision mu
 __junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __juniper berries__  
 __juniper__  
+__junk food__ _n_ _slang_ A high-calorie food that is low in nutritional value.  
 __junk<sup>1</sup>__ _n_ _The "don't touch my junk" uproar over intrusive TSA pat-downs._  
 __junk<sup>2</sup>__ _v_ _Google is junking the app Google+._  
 __junker__  
@@ -5976,7 +5979,7 @@ __junta__ _n_ :three::hammer:
 __jury box__ _n_ An enclosure where the jury sit in court.  
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
-__jut out__ _The head juts out of the wall._  
+__jut out__ _v_ :two::hammer: _Document jutted out at all angles._ _The head juts out of the wall._  
 __jut__ _v_ :two::hammer: (jugged, jutting)  
 __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
@@ -5999,7 +6002,7 @@ __keep an eye__ _Keep an eye on the Twitter._
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
-__keep tab(s) (on someone or something)__ _idiom_ :four::hammer: :es: vigilar _I don't keep tabs on him._  
+__keep tab(s) (on someone or something)__ _idiom_ :five::hammer: :es: vigilar _I don't keep tabs on him._  
 __keep up with__ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
 __keep__ _n_ :es: torreón  
@@ -6050,7 +6053,7 @@ __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introdu
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
-__kindred spirit__ :five::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
+__kindred spirit__ :six::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :two::hammer:  
 __kine__ _n_  
@@ -6095,6 +6098,7 @@ __knock on wood__ _idiom_
 __knock someone's socks off__  
 __knock__ _n_ :mute:[~~k~~nock]  
 __knock-knock joke__  
+__knocked up__ _slang_ Become pregnant.  
 __knocking on heaven's door__ _idiom_ :dart: To be dying, to be close to death.  
 __knockout__ _A knockout series._  
 __knockout<sup>1</sup>__ _n_  
@@ -6344,7 +6348,7 @@ __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins a
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
 __librocubicularist__ _n_ A person who reads in bed.  
-__lice__ _n_ :six: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__lice__ _n_ :seven: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -8371,6 +8375,7 @@ __prescience__ _n_ :two::hammer:
 __prescient__ _adj_ :five::hammer:  
 __prescribe__ _v_  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
+__presell__ _v_ To sell something before it is available.  
 __presentation__ :mega:  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one's job.  
 __preserve__ _A comedy about gorillas in a preserve._  
@@ -8577,7 +8582,7 @@ __purple__ _A hint of purple._
 __purport__ _v_  
 __purported__ _v_ :four::hammer: _The purported attack._ _JFK's purported affairs._  
 __purportedly__ :two::hammer:  
-__purr__  
+__purr__ _v_ :two::hammer: (purring)  
 __purse__ _v_ _His lips pursed._  
 __purslane__ _n_ :four::hammer:  
 __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._  
@@ -9292,6 +9297,7 @@ __rumhead__ _n_ An alcoholic.
 __rummage__ _v_ :eight::hammer: (rummaged, rummaging)  
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
+__rumple__ _v_ _His clothes were rumpled._  
 __run amok__ :two::hammer:  
 __run errands__ :two::hammer:  
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
@@ -9736,7 +9742,7 @@ __shedder__ _A tree shedder._
 __shedding__ _v_  
 __sheelling__  
 __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
-__sheep__ _(plural?)_ _She killed 38 sheep in a hit-and-run accident._  
+__sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
 __sheer<sup>1</sup>__ _adj_ :eight::hammer: _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
@@ -10287,7 +10293,7 @@ __societal__
 __sociopaths__  
 __sod__ _n_  
 __soda jerk__ _n informal_ One who works at a soda fountain.  
-__sodden__  
+__sodden__ :two::hammer:  
 __soffit__  
 __soft bread__  
 __soft-spoken__ _adj_ :two::hammer:  
@@ -11081,6 +11087,7 @@ __take one's cut__ _He was finished taking his cuts in batting practice._
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
 __take through__ _phr v_ To explain something to someone.  
+__take up__ _idiom_ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he's retired._  
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ _idiom_ To do something to help you forget about something else.  
 __takeaways__ _n_  
@@ -11259,6 +11266,7 @@ __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (ne
 __the "m" word__  
 __the 105's__  
 __the 11th hour__  
+__the ball is in someone’s court__ _idiom_ To be responsible for taking the next action.  
 __the bandwagon__ _n phr_ _Jump on the bandwagon._  
 __the big three-oh__  
 __the Chinese__ _This article was translated from the Chinese._  
@@ -12632,7 +12640,7 @@ __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his fir
 __yeast__ _n_  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
-__yelp<sup>1</sup>__ _v_ :five::hammer: (yelps, yelped) :es: gañir  
+__yelp<sup>1</sup>__ _v_ :six::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yeoman__ _n_ :three::hammer:  
 __yesteryear__ :two::hammer:  

@@ -1,26 +1,4 @@
 
-__jut out__ _v_ _Document jutted out at all angles._  
-__keep tabs__ _I can't keep tabs on them._  
-__delouse__ _v_ _They're deloused once a month._  
-__lice__ _n_  
-__fiefdom__ _n_  
-__huddle__ _v_ (huddled)  
-__rumple__ _v_ _His clothes were rumpled._  
-
-__iffy__ _slang_ Uncertain or doubtful.  
-__presell__ _v_ To sell something before it is available.  
-__take up__ _idiom_ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he's retired._  
-__beat the clock__ _idiom_ To finish something before the time is up.  
-__knocked up__ _slang_ Become pregnant.  
-__the ball is in someone’s court__ _idiom_ To be responsible for taking the next action.  
-__junk food__ _n_ _slang_ A high-calorie food that is low in nutritional value.  
-__sheep__ _n_ Plural: sheep.  
-
-__flustered__ _v_  
-__sodden__  
-__yelp__ _v_  
-__purring__ _v_  
-__kindred spirit__  
 __divested__ _v_  
 __dissident__ _n_  
 __play tricks on someone__  
