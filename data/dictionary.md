@@ -414,6 +414,7 @@ __armload__
 __armory__  
 __arms embargo__  
 __arms race__  
+__armscye__ _n_  
 __arose__ _v_  
 __around the clock__  
 __around the corner__ _idiom_ :two: Going to happen soon.  
@@ -449,6 +450,7 @@ __ascot__
 __ascribe__ _v_ :four::hammer:  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
+__ashen-faced__  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
 __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
@@ -966,6 +968,7 @@ __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra
 __bitch<sup>2</sup>__ _v_  
 __bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
 __bitingly__  
+__bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.  
 __bivouac__ :pencil2:  
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
@@ -1035,6 +1038,7 @@ __blizzard__ _n_ :two::hammer:
 __bloc__ _n_ :five::hammer: _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood-expander__  
+__blood, sweat, and tears__ _idiom_ A lot of effort and suffering.  
 __bloodshot eyes__ :camera:  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
 __bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right._  
@@ -2308,7 +2312,7 @@ __conspicuously__
 __constituency__ _n_ :six::hammer: (constituencies)  
 __constituent__ _n_ :five::hammer: (constituents)  
 __construction paper__ _A heart made of construction paper._  
-__construe__ _v_ :six::hammer: (construed)  
+__construe__ _v_ :seven::hammer: (construed)  
 __consultee__ _n_  
 __consumable__  
 __consumer electronics__  
@@ -3097,7 +3101,7 @@ __disseminate__ _v_
 __dissension__  
 __dissent__ _n_ :two::hammer:  
 __disservice__ _n_ :two::hammer::astonished:  
-__dissident__  
+__dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_  
 __dissimilarly__  
 __dissimulate__ _v_  
@@ -3122,7 +3126,7 @@ __diva__
 __diversion__ _n_  
 __diverted__ _diverted flights_  
 __dives__ _v_  
-__divest__ _v_ :two::hammer: (divested)  
+__divest__ _v_ :three::hammer: (divested)  
 __divestiture__ :two::hammer:  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
@@ -4272,6 +4276,7 @@ __foregone__ :two::hammer:
 __forehead__ :mute:[fore~~h~~ead]  
 __foreign__ :mute:[forei~~g~~n]  
 __foreman__ _n_ :three::hammer: _He was a foreman at the munitions factory._  
+__foremost__ _adj_  
 __forenoon__ _We had a real gully washer in the forenoon._  
 __forensics__ :two::hammer:  
 __foreplay__  
@@ -4341,7 +4346,7 @@ __Frappuccino__
 __frat__ _A frat house._  
 __frats__ _n_  
 __fraudulent__ _adj_  
-__fraught__ _adj_ :seven: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :eight: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer:  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _A bitter partisan fray._ _The alliance between the groups frayed._ _Frayed nerves._ _A frayed suit._  
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -5649,6 +5654,7 @@ __in the water__ _There's nothing in the water here._
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in tow__ _idiom_  
+__in your birthday suit__ _idiom_ Naked.  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _adj_ :two::hammer: _In-house experts._  
@@ -6094,6 +6100,7 @@ __knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]
 __knit tie__  
 __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
+__knock off__ _phr v_ To stop working. _I gotta knock off work to come here and the commute is killing me._  
 __knock on wood__ _idiom_  
 __knock someone's socks off__  
 __knock__ _n_ :mute:[~~k~~nock]  
@@ -6667,8 +6674,8 @@ __manoeuvre__ _n_ _The Addison Lean manoeuvre._
 __manor__ _A medieval manor house._  
 __manta__ _n_  
 __mantel piece__ _n_ :three::hammer:  
-__mantel__ _n_ :five::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
-__mantle<sup>1</sup>__ _n_ :three: An important role or responsibility that passes from one person to another. _Syn_ role  
+__mantel__ _n_ :six::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
+__mantle<sup>1</sup>__ _n_ :four: An important role or responsibility that passes from one person to another. _Syn_ role _Stalin's closest aide assumed the mantle of Leader._  
 __mantle<sup>2</sup>__ _v_  
 __mantrap__ _n_  
 __maple__  
@@ -7323,6 +7330,7 @@ __nucleotide__ _n_
 __nuder__ _Officers found a small sliver handgun nuder the passenger seat._  
 __nugget__ (nuggets) :two::hammer:  
 __nuisance__  
+__nuke__ _v_ _slang_ To heat or cook something in a microwave oven.  
 __nullify__ _v_ :three::hammer: (nullified)  
 __numb__ :two::mute:[num~~b~~]:hammer:  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
@@ -7334,6 +7342,7 @@ __nurse<sup>2</sup>__ _v_ :three::hammer:
 __nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
+__nut__ _slang_ A crazy or strange person.  
 __nutmeg__ _n_  
 __nuts and bolts__ _idiom_ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
 __nuttery__  
@@ -8147,6 +8156,7 @@ __play it safe__ _v_ :four::hammer: (play safe)
 __play second fiddle__  
 __play short__  
 __play the tails off__ _I'm proud of our defense. They played their tails off._  
+__play tricks on someone__  
 __playbook__ _n_ :three::hammer: _The industry's playbook._  
 __playful__ _A playful aside._  
 __playmaker__ _n_  
@@ -9007,7 +9017,7 @@ __repercussion__ _n_ :dart:
 __repertoire__  
 __reportedly__ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
-__reprieve<sup>1</sup>__ _n_ :six: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
+__reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It's a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisal__ _n_ :five::hammer: (reprisals) _A ban on federal reprisals._  
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
@@ -9894,10 +9904,9 @@ __shudders__ _v_ :two::hammer:
 __shuffle off__  
 __shuffling__ _v_ :two::hammer:  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
-__shunting__ _v_ _With a PDA, there is continous shunting of blood through the lungs._  
+__shunt__ _v_ :two::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>1</sup>__ _interj_  
-__shush<sup>2</sup>__ _v_  
-__shushing__ _v_  
+__shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
@@ -10025,6 +10034,7 @@ __skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittere
 __skittish__ _adj_ (skittishness) :six: _adj_ __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
+__skulduggery__  
 __skulk__ _Jessica makes both friends and enemies skulking around in the night._  
 __skulking__  
 __skullcap__  
@@ -11101,6 +11111,7 @@ __talk back__ _idiom_
 __talk down to__  
 __talk into__ _phr v_ :two::hammer:  
 __talk numbers__ _Let's talk numbers._  
+__talk out of__ _phr v_ To persuade someone not to do something. _I want you to talk him out of it._  
 __talk over__ _phr v_  
 __talk shit__  
 __talk up__  
@@ -12022,7 +12033,7 @@ __vaccine__
 __vacuum__ :two::hammer: _Upright/Canister vacuum._ :camera:  
 __vagaries__ _n_  
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
-__vagrant<sup>1</sup>__ _n_ :five: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
+__vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_  
 __vague__ :mute:[vag~~u~~e]  
 __vainglorious__ _adj_  
