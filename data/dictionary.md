@@ -988,7 +988,7 @@ __blackout__ _Blackout dates._
 __blackpool__  
 __blah story__  
 __blanched__ _v_  
-__bland__ _adj_ :six: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
+__bland__ _adj_ :seven: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
@@ -1182,7 +1182,7 @@ __boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his pow
 __boorishness__ :two::hammer:  
 __boosters__ _Mississippi boosters._  
 __boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
-__boot<sup>2</sup>__ _v_ _Now the Eagles have a postseason victory to boot._  
+__boot<sup>2</sup>__ _v_ :two::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
 __bootlegger__  
 __bop__ _v_  
@@ -1929,6 +1929,7 @@ __chippy__
 __chiropractor__ _n_  
 __chirp away__ _v_  
 __chirping__ _There's a lot of chirping in hockey, and it can be pretty nasty at times._  
+__chisel__ _n_  
 __chiseled__  
 __chit-chat__ _slang_ An informal conversation about things that are not important.  
 __Chiuaua__  
@@ -2235,7 +2236,7 @@ __comps__ _n_ (Competitors?)
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
-__compulsory__ _adj_ :four::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._  
+__compulsory__ _adj_ :six::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compurgator__ _n_  
 __comrade__  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
@@ -2528,7 +2529,7 @@ __crepe__
 __Crescent City__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
-__crestfallen__ _adj_ :three: Dispirited and depressed; dejected.  
+__crestfallen__ _adj_ :four: Dispirited and depressed; dejected.  
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
@@ -2995,6 +2996,7 @@ __dime > on the dime__
 __dimed__ _v_ (dimed) :two::hammer: _I'm going to roust Jimmy Sty and tell him you dimed him._  
 __diminish__ _v_  
 __diminishing returns__  
+__dimly__ _He was dimly aware of it._  
 __dimpled__ _v_ :five::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
 __dimply__  
@@ -4076,7 +4078,7 @@ __flaming hair__
 __flank<sup>1</sup>__ _n_  
 __flank<sup>2</sup>__ _v_  
 __flanker__ (soccer position)  
-__flap__ :two::hammer: _There have been flaps over allowing scouts in press boxes._  
+__flap__ _n_ :three::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._  
 __flapjack__ _n_  
 __flaps__ _The sound of paper flaps on bicycle spokes._  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
@@ -4363,6 +4365,7 @@ __freebie__ _n_ :four: (freebies) Something you get for free. _If you want to bu
 __freeloading__  
 __freewheel__ _v_ :seven::hammer: (free wheel, freewheeling) _Freewheeling style._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
 __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:  
+__freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Frenchman__  
 __frenzy__ :two::hammer:  
@@ -4398,7 +4401,7 @@ __front and center__ :two::hammer:
 __front man__ _n_ :two::hammer: (frontman)  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
-__frostbite__ :two::hammer:  
+__frostbite__ _n_ :three::hammer:  
 __frosted glass__ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
@@ -4668,7 +4671,7 @@ __glisten__ :mute:[glis~~t~~en]
 __glitz__  
 __glitzy__  
 __gloaming__  
-__gloat__ _v_ :four::hammer: (gloating) _I could not gloat._  
+__gloat__ _v_ :five::hammer: (gloating) _I could not gloat._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __gloom__ _n_ :two::hammer: _She was hidden in the gloom._  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
@@ -5241,7 +5244,7 @@ __hemlock__
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemp__ _n_ :four::hammer: _Hemp plant._  
-__henchman__ _n_ :four::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :five::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :six::hammer: (heralded) _They have a heralded arrival to Coney Island on the "bus of champions."_  
@@ -5512,6 +5515,7 @@ __hurdle__ _n_ :two::hammer:
 __hurdy-gurdy__  
 __hurl__ _v_ :eight: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
+__hurricane lamp__ _n_  
 __hurtling__ _v_  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__ _n_ :three::hammer:  
@@ -5986,7 +5990,7 @@ __jury box__ _n_ An enclosure where the jury sit in court.
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __jut out__ _v_ :two::hammer: _Document jutted out at all angles._ _The head juts out of the wall._  
-__jut__ _v_ :two::hammer: (jugged, jutting)  
+__jut__ _v_ :three::hammer: (jutted, jutting)  
 __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-9__ _A K-9 van._  
@@ -6551,7 +6555,7 @@ __lugging__ _v_ :three::hammer:
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :two::hammer:  
 __lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush to drink._  
-__lumber<sup>2</sup>__ _n_ :two::hammer: _A shopper checks out with her lumber._ _Lumber & home improvement._  
+__lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
 __luminary__ _Hollywood luminaries._  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
@@ -7901,8 +7905,7 @@ __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens wit
 __pensionary__ :es: jubilado  
 __pensive__ _v_ :two::hammer:  
 __pensively__  
-__pent-up__  
-__pentup (or pent-up?)__ _Scott let loose a bit of pentup frustration armed at NFL Commissioner Roger Goodell._  
+__pent-up__ _adj_ :two::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __peoples__ _pl n_ :two: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
@@ -10061,7 +10064,7 @@ __slapjack__
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
 __slash__  
-__slash<sup>1</sup>__ _v_ _Basketball_ _He is a lanky gunner who can slash._  
+__slash<sup>1</sup>__ _v_ :two::hammer: (slashed)_She slashed at his hands, jabbing and cutting._ _Basketball_ _He is a lanky gunner who can slash._  
 __slash<sup>2</sup>__ _n_ _Slash pines._  
 __slat__ _n_  
 __slather__ _v_ :three::hammer: _To slather on hand lotion._  
@@ -10191,9 +10194,8 @@ __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involvi
 __smelter__ _n_ :two::hammer: (smelters)  
 __smelting__ :two::hammer: _A smelting furnace._  
 __smidgen__ :two::hammer: _The rosato di petit verdot has a smidgen of complexity._  
-__smirk__  
+__smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
-__smirks__ _n_  
 __smite__ _v_ :two::hammer: _God will smite me._  
 __smithereens__ _n informal_ :two: Fragments or splintered pieces; bits: _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
@@ -10303,7 +10305,7 @@ __societal__
 __sociopaths__  
 __sod__ _n_  
 __soda jerk__ _n informal_ One who works at a soda fountain.  
-__sodden__ :two::hammer:  
+__sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
 __soffit__  
 __soft bread__  
 __soft-spoken__ _adj_ :two::hammer:  
@@ -10459,7 +10461,7 @@ __split__ _n_
 __splotched__ _v_  
 __splotches__ _n_  
 __splurge__ _v_ :six::hammer: (splurged, splurging)  
-__splutter__ _v_ :three::hammer: (splutters, spluttered)  
+__splutter__ _v_ :four::hammer: (splutters, spluttered)  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
 __spoilage__ :dart:  
@@ -12605,7 +12607,7 @@ __wringer__ _n_ :three::hammer: _Run through the wringer._
 __wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
 __wrinkle__ _v_ :four::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling)  
 __wrist__ :mute:[~~w~~rist]  
-__writ__ _n_ :two::hammer:  
+__writ__ _n_ :three::hammer: _Compulsory State writ._  
 __write off__ _phr v_ :two: To accept that a debt or loan won’t be paid back. _Don't write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
