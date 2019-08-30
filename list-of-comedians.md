@@ -16,6 +16,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jack Benny](https://www.youtube.com/results?search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
 - [James Corden](https://www.youtube.com/results?search_query=James+Corden) battled Adam Lambert to become Queen frontman.
 - [Jeff Ross](https://www.youtube.com/results?search_query=Jeff+Ross)
+- [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
