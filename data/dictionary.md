@@ -160,6 +160,7 @@ __afloat__
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :two::hammer:  
 __afoul__ :two::hammer:  
+__afresh__ _They had to start afresh._  
 __aft__ :two::hammer: _Aft compartment._  
 __aftereffects__  
 __afterglow__  
@@ -235,6 +236,7 @@ __all-nighters__ _n_
 __all-out__ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
 __allay__ _v_ :four::hammer: (allayed)  
+__allegation__ _n_  
 __alleged__  
 __allegedly__  
 __allergens__  
@@ -327,6 +329,7 @@ __answer__ :mute:[ans~~w~~er]
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
 __anthology__  
+__anti-humor__  
 __anti-Semitism__  
 __antic__  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
@@ -2179,6 +2182,7 @@ __come around__
 __come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
+__come to a stop__ _The train came to a stop at Moscow._  
 __come to grips__  
 __come to her senses__  
 __come to terms__ :two::hammer:  
@@ -2502,6 +2506,7 @@ __crash course__
 __crash-land__ _v_ _A jet crash-landed in the city._  
 __crass__ _adj_ :three::hammer: _Crass attitudes._  
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
+__cratered__ _v_ _Cratered streets._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
 __craven__ :two::hammer: _A craven political figure._  
 __crawl<sup>1</sup>__ _n_  
@@ -2780,6 +2785,7 @@ __dead__ _Dead batteries._
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
+__deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __dealbreaker__ _idiom_ :three: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
@@ -4453,7 +4459,8 @@ __further__
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
-__fuss__ _v_ :three::hammer: (fussed, fussing)  
+__fuss<sup>1</sup>__ _n_ :two::hammer:  
+__fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __futility__ _n_ :three::hammer:  
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
@@ -4539,7 +4546,7 @@ __gatekeeper__ _n_
 __Gatling gun__ _n_  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__  
-__gaunt__ _adj_ :eight: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
+__gaunt__ _adj_ :nine: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
 __gauze__ _n_ :three::hammer: :es: gasa  
@@ -4863,7 +4870,7 @@ __gripe<sup>2</sup>__ _v_
 __griping__ _v_  
 __gripped__ _v_ _That 1995 murder trial gripped USA._  
 __gripping__ :two::hammer: _A gripping contest._  
-__grisly__ _adj_ :four::hammer: _A grisly synagogue assault._  
+__grisly__ _adj_ :five::hammer: _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
 __grit__ _n informal_ :seven: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
@@ -6208,9 +6215,8 @@ __largely__
 __larger-than-life__ _fig_ :four: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lark__ :two::hammer:  
 __laser wall__  
-__lash out__ :two::hammer:  
+__lash out__ _v_ :four::hammer: (lashing out)  
 __lashed__ _v_  
-__lashing out__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
 __Lasik__ _Lasik surgery._  
 __lassitude__  
@@ -6339,7 +6345,7 @@ __let on__ _phr v_
 __let somebody down__ _idiom_ To disappoint someone.  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let your hair down__  
-__lethargic__ _adj_  
+__lethargic__ _adj_ :two::hammer: _Lethargic voice._  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I'm currently lettering the forthcoming comic book._  
 __levee__  
@@ -6784,7 +6790,7 @@ __meds__
 __medulla__ :mega:  
 __meek__ _adj_ :five: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meekly__ _adv_ :three::hammer:  
-__meekness__ :two::hammer:  
+__meekness__ _n_ :three::hammer:  
 __meet up__  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
 __meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup._  
@@ -7280,7 +7286,7 @@ __noir__ _A noir novel._
 __nom de guerre__  
 __nomadic__  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
-__non sequitur__ _n_ :four: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
+__non sequitur__ _n_ :five: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
 __non-call__ _He complained about non-calls._  
 __non-committal__  
 __non-denominational__ _Non-denominational services._  
@@ -7297,6 +7303,7 @@ __nonpartisan__ _adj_
 __nonpliable__ _Nonpliable products._  
 __nonplussed__ _adj_ :two::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
+__nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
@@ -7752,6 +7759,7 @@ __paramount__ _The reliability of the weather station is paramount._
 __paranoid__ _adj_  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
+__paraprosdokian__  
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
@@ -8279,7 +8287,7 @@ __popcorn__ :es: gotelé?
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __pops__ _n informal_ :two: Father.  
 __populace__  
-__pore__ _v_ :four::dart::hammer: (poring)  
+__pore__ _v_ :five::dart::hammer: (poring)  
 __pork pie hat__ :camera:  
 __pork rinds__ :two::hammer:  
 __porkpie hat__  
@@ -8568,6 +8576,7 @@ __punch out__ _v_
 __punch the (time) clock__ _idiom_ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
 __punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
+__punchline__ _n_ :pencil2:  
 __punctuate__  
 __puncture__ _n_  
 __punctured__ _v_ _Punctured his tire._  
@@ -9055,7 +9064,7 @@ __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks be
 __resurgence__  
 __retailer__ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __retaliate__ _v_  
-__retched__ _v_ :three::hammer:  
+__retch__ _v_ :four::hammer: (retched)  
 __retelling__  
 __retention__  
 __rethoric__  
@@ -9556,7 +9565,7 @@ __scrounge up__ _To scrounge up the funds._
 __scrub brush__  
 __scrub__ _v_ :two::hammer:  
 __scrubbers__ _n_  
-__scruffy__ _adj_ :nine::camera: (scruffier) Shabby and untidy.  
+__scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
 __scrummy__ _adj_ Very delicious.  
 __scrumptious__  
@@ -11145,7 +11154,7 @@ __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indicat
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap into__ _idiom_ :six: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
 __tap__ _v_ :six: (tapped: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
-__taper off__ _The celebration began to taper off._  
+__taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
 __tapioca__ :mega:  
