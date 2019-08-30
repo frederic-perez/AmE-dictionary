@@ -1,4 +1,14 @@
 
+
+__harrowing experience__ _idiom_ An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant.  
+__attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
+__actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
+__with-it__ _adj_ In accord with the most fashionable ideas or style.  
+__behemoth__ _n_ Someone or something that is abnormally large and powerful.  
+__an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
+__arm candy__ _idiom_ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
+__gloaming__ _n_ _poetic_ Twilight or dusk.  
+
 __screech__ _v_  
 
 __haphazardly__  
