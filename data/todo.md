@@ -1,4 +1,14 @@
 
+
+__sash window__  
+__sangfroid__ _n_  
+__collect__ _v_ _Click and collect._  
+__tether__ _Soft bite chewy tether._  
+__tethering ring__ _n_  
+__bonanza__ _n_ _Banana bonanza._  
+__time capsule__ _n_  
+__cold shoulder__  
+
 __navel-gazer__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __fence-sitter__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
