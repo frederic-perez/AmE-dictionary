@@ -1,4 +1,15 @@
 
+__protégé__ _n_  One whose welfare, training, or career is promoted by an influential person.  
+__cry foul__ _v_ To protest against something that has happened.  
+__palsy-walsy<sup>1</sup>__ _n_ A friend. _I'm surprised you haven't met Ricky's new palsy-walsy from school yet—they're together all the time._  
+__palsy-walsy<sup>2</sup>__ _adj_  Friendly, but (usually) disingenuous.  
+__yadda yadda yadda__ _idiom_ And so forth, on and on; something boring and repetitive.  
+__call of nature__ _idiom_ The need to go to the toilet.  
+__burn your bridges__ _idiom_ To destroy all possible ways of going back to a situation.  
+__snoot__ _v_ To behave disdainfully toward; condescend to.  
+__break your back__ _idiom_ To work extremely hard.  
+__liaison__  
+
 __trappings__ _n_  
 __musings__ _n_  
 __flick knife__ _n_  
