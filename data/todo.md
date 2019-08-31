@@ -1,4 +1,15 @@
 
+__fractious__  _adj_ _His fractious temperament._  
+__tart__  
+__nosy__ _adj_  
+__put out__ _idiom_  
+__eating disorder__  
+__articulate__ _v_  
+__sabotage__ _n_  
+__light-headed__ _I feel light-headed from lack of sleep._  
+__hoot__ _v_ _The driver of the car behind hooted again._  
+__rummage__ _v_ (rummaging)  
+
 __protégé__ _n_  One whose welfare, training, or career is promoted by an influential person.  
 __cry foul__ _v_ To protest against something that has happened.  
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I'm surprised you haven't met Ricky's new palsy-walsy from school yet—they're together all the time._  
