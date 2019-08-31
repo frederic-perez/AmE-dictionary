@@ -3,7 +3,7 @@
 Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](https://en.wikipedia.org/wiki/List_of_comedians)):
 
 - [Amy Schumer](https://www.youtube.com/results?search_query=Amy+Schumer)
-- [Andy Daly](https://www.youtube.com/results?search_query=Andy+Daly)-
+- [Andy Daly](https://www.youtube.com/results?search_query=Andy+Daly)
 - [Andy Richter](https://www.youtube.com/results?search_query=Andy+Richter) asks "The Three Questions."
 - [Bob Newhart](https://www.youtube.com/results?search_query=Bob+Newhart)
 - [Chris Gethard](https://www.youtube.com/results?search_query=Chris+Gethard)
@@ -17,6 +17,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [James Corden](https://www.youtube.com/results?search_query=James+Corden) battled Adam Lambert to become Queen frontman.
 - [Jeff Ross](https://www.youtube.com/results?search_query=Jeff+Ross)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
+- [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
 - [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
