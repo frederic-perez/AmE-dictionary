@@ -1,4 +1,15 @@
 
+__trappings__ _n_  
+__musings__ _n_  
+__flick knife__ _n_  
+__pick__ _v_ _He managed to pick the old lock with a flick knife._  
+__unburdened__  
+__mollify__ _v_  
+__length__ _n_ _He walked the length of the carriage._  
+__staunch__ _adj_  
+__oblast__ _n_ :two::hammer:  
+__disservice__ _n_ :pencil2:  
+
 __morbidity__ _n_ _COPD is responsible for considerable morbidity and mortality._  
 __punitive__ _Punitive tax charges._  
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
