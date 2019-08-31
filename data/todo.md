@@ -1,4 +1,14 @@
 
+__fish__ _n_ Plural: fish.  
+__kid around__ phr v_ To have fun by acting in a silly way.  
+__know-it-all__ _n_ _slang_ A person who thinks they know everything.  
+__beat your head against the wall__ _idiom_ To try to do something that is hopeless.  
+__knock around__ _phr v_ To spend time with someone because you are friends.  
+__jilt__ _v_ To deceive or drop (a lover) suddenly or callously.  
+__cat's-paw__ _n_ A person used to serve the purposes of another; tool.  
+__behind the times__ _idiom_ Old-fashioned.  
+__talk down to__ _phr v_ To talk to someone as if they are not as clever or important as you are.  
+__vivacious__ _adj_  Full of animation and spirit; lively: _a charming and vivacious host._  
 
 __harrowing experience__ _idiom_ An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant.  
 __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
