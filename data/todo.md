@@ -1,4 +1,15 @@
 
+__navel-gazer__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
+__fence-sitter__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
+__discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
+__gymkhana__  
+__earthing__ _n_ Fastening electrical equipment to earth.  
+__rigorous__ _adj_ :dart:  
+__veritable__  
+__insofar__  
+__good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
+__rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
+
 __fractious__  _adj_ _His fractious temperament._  
 __tart__  
 __nosy__ _adj_  
