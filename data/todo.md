@@ -1,4 +1,15 @@
 
+__bail out__  
+__back up__ _v_ :two: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._  
+__L-plate__ _He saw the L-plate on the back of the car._  
+__cringed__ _v_  
+__animosity__ _n_ _She tried to put her animosity aside._  
+__abhorrent__  
+__beguiling__ _v_  
+__wisteria__  
+__hawthorn__ _n_  
+__mused__ _v_  
+
 __fish__ _n_ Plural: fish.  
 __kid around__ phr v_ To have fun by acting in a silly way.  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
