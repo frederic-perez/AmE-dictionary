@@ -15,6 +15,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Groucho Marx](https://www.youtube.com/results?search_query=Groucho+Marx)
 - [Jack Benny](https://www.youtube.com/results?search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
 - [James Corden](https://www.youtube.com/results?search_query=James+Corden) battled Adam Lambert to become Queen frontman.
+- [Jimmy Kimmel](https://www.youtube.com/results?search_query=Jimmy+Kimmel)
 - [Jeff Ross](https://www.youtube.com/results?search_query=Jeff+Ross)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
