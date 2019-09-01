@@ -1,4 +1,14 @@
 
+__clump__ _n_ _The clump of footsteps._  
+__puffs__ _n_  
+__upside__ _n_ (advantage?)  
+__put up with it__ _idiom_  
+__smart case__  
+__scantily__ _A scantily clad spider._  
+__clad__ _A scantily clad spider._  
+__nonchalant__  
+__reprobate__ _v_  
+__pass out__ _v_  
 
 __sash window__  
 __sangfroid__ _n_  
