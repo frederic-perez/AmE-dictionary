@@ -1,26 +1,4 @@
 
-__clump__ _n_ _The clump of footsteps._  
-__puffs__ _n_  
-__upside__ _n_ (advantage?)  
-__put up with it__ _idiom_  
-__smart case__  
-__scantily__ _A scantily clad spider._  
-__clad__ _A scantily clad spider._  
-__nonchalant__  
-__reprobate__ _v_  
-__pass out__ _v_  
-
-__sash window__  
-__sangfroid__ _n_  
-__collect__ _v_ _Click and collect._  
-__tether__ _Soft bite chewy tether._  
-__tethering ring__ _n_  
-__bonanza__ _n_ _Banana bonanza._  
-__time capsule__ _n_  
-__cold shoulder__  
-
-__navel-gazer__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
-__fence-sitter__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __gymkhana__  
 __earthing__ _n_ Fastening electrical equipment to earth.  

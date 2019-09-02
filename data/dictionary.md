@@ -1143,7 +1143,7 @@ __bombshell__ _n_
 __bombsights__  
 __bon ton__  
 __bona fide__ _adj_ :six: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith.  
-__bonanza__  
+__bonanza__ _n_ :two::hammer: _Banana bonanza._  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -1996,6 +1996,7 @@ __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._
 __City__ :two::hammer:  
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
+__clad__ _A scantily clad spider._  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _The White Sox claimed the 2005 title._  
 __claimants__ :two::hammer:  
@@ -2097,7 +2098,7 @@ __club soda__ _n_ :two: A US name for soda water.
 __cluck__  
 __clucking__ _Clucking chickens._  
 __clue__ :dart:  
-__clump__ _n_  
+__clump__ _n_ :two::hammer: _The clump of footsteps._  
 __clunker__ _n informal_ :five: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He's got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
 __clunky__ _adj_ :three::hammer:  
@@ -2150,6 +2151,7 @@ __coke-bottle glasses__
 __colander__  
 __cold duck__  
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
+__cold shoulder__  
 __cold turkey__ _n_ :two: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
 __coleslaw__ _n_ :four::hammer:  
@@ -2160,6 +2162,7 @@ __collapsible__ _Collapsible shutters._
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __colleague__ :mute:[colleag~~u~~e]  
+__collect__ _v_ _Click and collect._  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
 __collude__ _v_  
@@ -3927,7 +3930,7 @@ __felt pen__
 __felt__ _n_ :two::hammer: _A black felt pouch from a jewelry store._  
 __fen__ _n_  
 __fence-mending__  
-__fence-sitter__ _n_  
+__fence-sitter__ _n_ :two::hammer: _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __fencers__ _n_  
 __fend off__ _v_ :three::hammer:  
 __fend__ _v_ (fending)  
@@ -7188,6 +7191,7 @@ __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A natura
 __naught__  
 __naughty__ :mute:[nau~~gh~~ty]  
 __navel__ :two::hammer:  
+__navel-gazer__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
 __naysayer__ _n_ :two::hammer:  
 __NB__  
@@ -7295,7 +7299,7 @@ __non-existent__ _adj_
 __non-perishables__  
 __nonce__  
 __nonchalance__ _n_  
-__nonchalant__ _adj_ :six: Behaving calmly and not seeming interested in anything or worried about anything.  
+__nonchalant__ _adj_ :seven: Behaving calmly and not seeming interested in anything or worried about anything.  
 __nonchalantly__ _adv_ :three: In a nonchalant manner.  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
@@ -7806,7 +7810,7 @@ __party line__ _n_
 __party poppers__  
 __party__ _n_  
 __parvenu__  
-__pass out__ _phr v_ :two: To become unconscious.  
+__pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
 __passage__ _n_ _The passage of three supplementary budgets this year._  
@@ -8544,7 +8548,7 @@ __pudenda__ _n_
 __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.  
 __pudgy__ _A pudgy boy._  
 __puds__ _n_  
-__puff<sup>1</sup>__ _n_ :three::hammer:  
+__puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
 __puff<sup>2</sup>__ _v_ :four::hammer: (puffed) _I could hear the screen door puffing open._  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
@@ -8626,7 +8630,7 @@ __put our heads together__ _idiiom_ To discuss or plan something together with o
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put to the test__  
-__put up with__ _idiom_ :five: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._  
+__put up with__ _idiom_ :six: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -9032,6 +9036,7 @@ __repote__ _n_
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It's a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisal__ _n_ :five::hammer: (reprisals) _A ban on federal reprisals._  
+__reprobate__ _v_  
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
@@ -9410,7 +9415,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandwich__ :mute:[san~~d~~wich]  
 __sandy-haired__  
-__sangfroid__  
+__sangfroid__ _n_ :two::hammer:  
 __sanguine__ _adj_ :five::hammer::astonished:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
@@ -9425,7 +9430,7 @@ __sappy__ _Sappy smile._
 __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __sarcophagus__  
 __sartorial__  
-__sash__ _n_ :three::hammer: _A sash cord._  
+__sash__ _n_ :four::hammer: _A sash cord._ _A sash window._  
 __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sass__ _v_ (sassed)  
 __sassy__ _adj_ :two::hammer:  
@@ -9473,7 +9478,7 @@ __scam__ _v_ :four::hammer: (scammed)
 __scammer__  
 __scamper__ _v_ :three::hammer: (scampered, scampering) _Scampered into the van._  
 __scant__ _adj_ :seven: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
-__scantily__  
+__scantily__ _adv_ :two::hammer: _A scantily clad spider._  
 __scapegoated__ _v_  
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man's psyche for years._  
@@ -10187,6 +10192,7 @@ __small print__
 __small__ _I rubbed the small of her back._  
 __smallpox__ :two::hammer:  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
+__smart case__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ :two::hammer: _Smart riding-clothes._ _Smart tailored jackets._  
 __smart-alecky__ _adj_ _informal_ Rude and disrespectful: _Smart-alecky wit._  
@@ -11269,7 +11275,9 @@ __terse__
 __test the waters__ _We're testing the waters._  
 __tester bed__ :two::hammer:  
 __testy__  
-__tether__ _v_ (tethered)  
+__tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
+__tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.  
+__tethering ring__ _n_  
 __Texas Panhandle__  
 __texcetera__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
@@ -11423,7 +11431,7 @@ __tilapia__
 __tiller__  
 __tiltyard__  
 __time and (time) again__ _idiom_ :three::dart: Repeatedly; on multiple occasions.  
-__time capsule__ _n_ :three::hammer:  
+__time capsule__ _n_ :four::hammer:  
 __time frame__  
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
@@ -12001,7 +12009,7 @@ __upsell__ _v_ (?)
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
 __upshot__ _n_ :six::hammer:  
-__upside__ :two::hammer: _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
+__upside__ _n_ :three::hammer: (advantage?) _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
