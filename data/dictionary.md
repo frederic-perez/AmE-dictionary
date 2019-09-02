@@ -10553,7 +10553,7 @@ __squawk__ _v_ :three::hammer: (squawked, squawking) _The walkie-talkie squawked
 __squeak__ _v_ :three::hammer: (squeaking)  
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
 __squeaky__ :two::hammer:  
-__squeaky-clean__ _adj informal_ __1__S crupulously clean. __2__ Virtuous; wholesome; above reproach.  
+__squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
 __squeamish__ _adj_ :five: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
