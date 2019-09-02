@@ -11570,7 +11570,7 @@ __torrid__
 __torte__ _A torre was named after her._  
 __toss out__ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  
-__toss-up__ _n_ :two::hammer: (toss-ups__)  
+__toss-up__ _n_ :two::hammer: (toss-ups)  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
 __tossup__ _n_ :three::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lots__ _There are tot lots, but there is no place for us._  
@@ -12253,7 +12253,7 @@ __war stories__
 __warble__ _v_ :three::hammer:  
 __warblers__  
 __ward off__ _phr v_ To prevent.  
-__wardrobe__ _n_ s_Left Bank wardrobe._  
+__wardrobe__ _n_ _Left Bank wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
 __wares__ _n_ :two::hammer: _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
