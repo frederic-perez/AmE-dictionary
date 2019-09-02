@@ -2076,7 +2076,7 @@ __clockwork__ _n_
 __clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __clogging__ _v_  
 __close > not even close__  
-__close call__ _n informal_ :three::dart: A narrow escape from danger or trouble. _syn_ a close shave, narrow escape _Phew, that was a close shave._  
+__close call__ _n informal_ :three::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
@@ -3049,7 +3049,7 @@ __disavow__ _v_ :two::hammer: (disavowed)
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
 __discharge__ _v_ :nine::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
-__discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _syn_ dismissed, fired, laid-off, pink-slipped  
+__discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :pencil2:  
@@ -3244,7 +3244,7 @@ __dousing__ _The Nationals are dousing the District of Columbia with new hope._
 __dove__ _v_  
 __dovetail__ _v_ (dovetails) :three::hammer:  
 __dowdy__ _adj_  
-__down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
+__down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down the drain__ _idiom_ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
@@ -3708,7 +3708,7 @@ __etymology__ _n_ :astonished: Study of the sources and development of words.
 __eulogy__ _n_ :three::hammer:  
 __eunuch__ _n_  
 __evanesce__ :mute:[evanes~~c~~e]  
-__even__ _adv_ _syn_ indeed, actually _Is this even our house?_  
+__even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
 __ever since__ :dart::two::hammer: _I've been a fan ever since._  
@@ -5743,7 +5743,7 @@ __infirm__ _adj_ :two::hammer:
 __inflatable<sup>1</sup>__ _adj_  
 __inflatable<sup>2</sup>__ _n_  
 __influence-peddling__ _n_ :three::hammer:  
-__influenza__ _n_ :two: _syn_ flu, grippe  
+__influenza__ _n_ :two: _Syn_ flu, grippe  
 __infomercial__ _n_  
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
@@ -6066,7 +6066,7 @@ __kill clock__ _v_
 __kill<sup>1</sup>__ _v_ _Kill the music._  
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
-__killjoy__ _n_ One who spoils the enthusiasm or fun of others. _syn_ wet blanket  
+__killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
 __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
@@ -11580,7 +11580,7 @@ __tots__
 __totter__ _v_  
 __tottered__  
 __touch and go__  
-__touch base__ _v_ Establish communication with someone; _"did you finally connect with your long-lost cousin?"_ _syn_ connect, get in touch  
+__touch base__ _v_ Establish communication with someone; _"did you finally connect with your long-lost cousin?"_ _Syn_ connect, get in touch  
 __touchline__  
 __touchy__ _adj_ :two::hammer:  
 __tough cookie__ _n_ :three: A very determined person.  
@@ -11669,7 +11669,7 @@ __triage<sup>2</sup>__ _v_
 __trial__ _n_  
 __Tribeca__  
 __tribulation__ _n_ :eight::hammer: (tribulations)  
-__tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _syn_ affluent  
+__tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
 __trick pad__  
