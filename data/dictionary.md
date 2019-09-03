@@ -428,7 +428,7 @@ __arrested__ _v_ :astonished: _While others are arrested by discouragement, we a
 __arrowroot__  
 __arson__ _n_  
 __articulate<sup>1</sup>__ _adj_  
-__articulate<sup>2</sup>__ _v_  
+__articulate<sup>2</sup>__ _v_ :two::hammer:  
 __articulated__ _adj_ _A clearly articulated project._  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
@@ -3053,6 +3053,7 @@ __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :pencil2:  
+__discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __disconsolate__ _adj_  
 __discontinued__ _v_  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
@@ -3458,6 +3459,7 @@ __earnest__ _adj_ :five::hammer:
 __earnestly__  
 __earrings__  
 __earth-shattering__  
+__earthing__ _n_ Fastening electrical equipment to earth.  
 __Earthling__ _n_  
 __earthquake drill__  
 __easement__  
@@ -3468,6 +3470,7 @@ __easy as can be__
 __easy-to-use__ _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :three::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
+__eating disorder__  
 __ebb and floor__  
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
@@ -4346,6 +4349,7 @@ __foyer__ _n_ :three::hammer:
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __fracas__ _n_ :two::hammer:  
 __fracking__ Hydraulic fracturing.  
+__fractious__ _adj_ _His fractious temperament._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
 __frail__  
 __frame grab__  
@@ -4753,6 +4757,7 @@ __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn
 __goo__ _n informal_ :two: Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
 __good for you__  
+__good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
 __good sport(s)__ _idiom_ :two::hammer:  
 __good-nature__  
@@ -4995,6 +5000,7 @@ __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_
 __GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
 __gym-rat__ _He's a gym-rat type of guy._  
+__gymkhana__  
 __gyrate__ _v_ :two::hammer:  
 __gyroscopic__ :mega: _Gyroscopic effect._  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
@@ -5436,7 +5442,8 @@ __hoop__ _v_
 __hoopla__ _n informal_ :three: Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoops__ The game of basketball. _Can you play hoops?_  
 __Hoosiers__  
-__hoot__ _You know, it's a hell of a hoot._  
+__hoot<sup>1</sup>__ _v_ _The driver of the car behind hooted again._  
+__hoot<sup>2</sup>__ _You know, it's a hell of a hoot._  
 __hooted__ _v_ :five::hammer: (hooting)  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __Hopi__ _n_  
@@ -5779,7 +5786,7 @@ __inscrutable__ _adj_ :three::hammer:
 __inset__ :two::hammer:  
 __insidious__  
 __insipid__  
-__insofar__  
+__insofar__ _adv_ :two: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
 __insolvency__  
 __insomniac__ _n_  
 __instability__ :two::hammer::pencil2:  
@@ -6389,6 +6396,7 @@ __lift__ _n_ _I could give you a lift home._
 __liftgate__  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ :mute:[li~~gh~~t]  
+__light-headed__ _I feel light-headed from lack of sleep._  
 __lightbulb moment__  
 __lightermen__  
 __lighthearted__  
@@ -7324,7 +7332,7 @@ __nose > running noses__
 __nose-thumbing__ :camera:  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nostalgia__  
-__nosy__ _adj_ :two::hammer: _He's nosy as hell._  
+__nosy__ _adj_ :three::hammer: _He's nosy as hell._  
 __not even close__ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
@@ -8510,7 +8518,7 @@ __prospectus__
 __prostrate__ _v_  
 __protean__ _adj_ :three::hammer:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
-__protégé__  
+__protégé__ _n_ :two: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
 __protract__ _v_ To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __protracted__  
@@ -8627,6 +8635,7 @@ __put it on the money__
 __put on a clinic__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiiom_ To discuss or plan something together with other people.  
+__put out__ _idiom_  
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put to the test__  
@@ -9149,6 +9158,7 @@ __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutel
 __righteous__  
 __rightfully__ _Rightfully so._  
 __rigmarole__ _n_ :two::hammer: _Rigmarole controls._  
+__rigorous__ _adj_ :dart:  
 __rigors__ _n_  
 __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
@@ -9268,6 +9278,7 @@ __rototiling__
 __Rottweiler__  
 __rouble__ _A copper rouble coin._  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
+__rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
 __roughly__ :two::hammer:  
 __roughshod__ _adv_ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
@@ -9321,7 +9332,7 @@ __rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? 
 __rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :eight::hammer: (rummaged, rummaging)  
+__rummage__ _v_ :nine::hammer: (rummaged, rummaging)  
 __rummy__  
 __rumor mill__ _Fighting the rummor mill._  
 __rumple__ _v_ _His clothes were rumpled._  
@@ -9358,6 +9369,7 @@ __S'mores__ _S'mores season!_
 __s/s__ Stainless steel. _s/s appliances._  
 __s&h__ _Every penny will be returned to you (except s&h)._  
 __S&L__ _An S&L swinger._  
+__sabotage__ _n_  
 __sac-a-lait__  
 __sackful__  
 __sacristan__  
@@ -11177,7 +11189,7 @@ __tarpon__
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
 __tarry__ _v_ :three::hammer: (tarried)  
-__tart__ :two::hammer: _She'd bitten into something overly tart._  
+__tart__ _adj_ :three::hammer: _She'd bitten into something overly tart._  
 __tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._  
 __tartar__ _n_  
 __tarts__ _n_ (whore)  
@@ -12120,7 +12132,7 @@ __verboten__ _adj_ Not allowed.
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
 __verge__ _n_ :two::hammer:  
-__veritable__  
+__veritable__ _adj_ :two::hammer:  
 __vermicelli__  
 __vermillion__  
 __vermin__ _n_ :four::hammer:  
