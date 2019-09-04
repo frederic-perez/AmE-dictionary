@@ -1272,6 +1272,7 @@ __break the ice__ _idiom_ To make people who have not met before feel more relax
 __break the mould__  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
+__break your back__ _idiom_ To work extremely hard.  
 __break your duck__ _idiom_ To do something for the first time.  
 __break-the-china__  
 __breakaway__ :two::hammer:  
@@ -1464,6 +1465,7 @@ __burlap__ _n_ :four::hammer: _A burlap bag._
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
 __burn the candle at both ends__ To work or study day and night.  
 __burn the midnight oil__ _idiom_ To work late into the night.  
+__burn your bridges__ _idiom_ To destroy all possible ways of going back to a situation.  
 __burners__ (gas cooktop) :camera:  
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
@@ -1587,6 +1589,7 @@ __caliph__
 __caliphate__  
 __calisthenics__  
 __call for__  
+__call of nature__ _idiom_ The need to go to the toilet.  
 __call on someone__ _He called on me._  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
 __call out<sup>2</sup>__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
@@ -2619,7 +2622,7 @@ __crush<sup>2</sup>__ _n_
 __crusty__  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :three: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty.  
-__cry foul__ :two::hammer: _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
+__cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __crybaby__ _n_ A person who cries or complains frequently with little cause.  
 __cryotherapy__  
 __cryptojacking__  
@@ -3112,7 +3115,7 @@ __dissemble__ _v_
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :two::hammer:  
-__disservice__ _n_ :two::hammer::astonished:  
+__disservice__ _n_ :three::hammer::pencil2:  
 __dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_  
 __dissimilarly__  
@@ -4130,6 +4133,7 @@ __fleetingly__
 __flesh out__ _phr v_ :five::hammer: (fleshed out)  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
+__flick knife__ _n_  
 __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
 __flick<sup>2</sup>__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
 __flickered__ _v_ _The man flickered the reins._  
@@ -6334,7 +6338,7 @@ __lemon__ _n_ _This house is a lemon, honey._
 __lemongrass__  
 __lemons > dance of the lemons__  
 __lemony__  
-__length__ _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._  
+__length__ _n_ :two::hammer: _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._ _He walked the length of the carriage._  
 __lengthy__ _A lengthy period._  
 __leniency__ :two::hammer:  
 __lenient__ _adj_ :six: (leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
@@ -6370,7 +6374,7 @@ __lewd__ _adj_ :three::hammer:
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
 __liable__ _He is liable to be mistaken._  
-__liaison__  
+__liaison__ :two::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :four::hammer: _Libel laws._  
 __liberalization__  
@@ -6985,7 +6989,7 @@ __mole grip__ :camera: Locking pliers.
 __mole wrench__ :camera: Locking pliers.  
 __molehill__  
 __moles__ _n_  
-__mollify__ _v_ :four::hammer:  
+__mollify__ _v_ :five::hammer:  
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _Mom-and-pop shops._  
@@ -7026,6 +7030,7 @@ __moral__
 __morale__ _n_ :two::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ :two::hammer:  
+__morbidity__ _n_ _COPD is responsible for considerable morbidity and mortality._  
 __morcellator__  
 __more than meets the eye__  
 __morels__ _n_  
@@ -7122,7 +7127,7 @@ __mush-mouth__ _The kid with the mush-mouth accent._
 __mushers__  
 __mushroom__ _v_ _Traffic mushroomed in Feb._  
 __mushy__ _adj_ :three::hammer: _Mushy age._  
-__musing__ _n_ (musings) Contemplation; reflection.  
+__musing__ _n_ :two: (musings) Contemplation; reflection.  
 __musket__  
 __muskmelon__ _n_ :three::hammer:  
 __muskrat__ _The muskrat season._  
@@ -7383,6 +7388,7 @@ __obi__ _n_
 __obit__ :two::hammer:  
 __obituaries__  
 __obituary__  
+__oblast__ _n_ :two::hammer:  
 __oblate__ _n_  
 __obligation__  
 __oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
@@ -7730,6 +7736,8 @@ __palomas__
 __palpably__  
 __palpebral__ _adj_  
 __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
+__palsy-walsy<sup>1</sup>__ _n_ A friend. _I'm surprised you haven't met Ricky's new palsy-walsy from school yet—they're together all the time._  
+__palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :five::hammer: (pampered)  
 __pamphlet__ _n_  
@@ -8021,7 +8029,7 @@ __pick me out__
 __pick on__  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket's kiosk._ _His turnover-prone play doesn't pick up._  
 __pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
-__pick__ _v_ _Pick your choice._  
+__pick__ _v_ :two::hammer: _He managed to pick the old lock with a flick knife._ _Pick your choice._  
 __pick-six__ _Football_  
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
@@ -10289,6 +10297,7 @@ __snitch__
 __snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
 __snoop__ _v_  
+__snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :four::hammer:  
 __snort__ _n_ :two: _Slang_ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. _A lifestyle of snorting and scrapping._  
@@ -11643,7 +11652,7 @@ __transparent__ _adj_ :mega:
 __transpose__ _v_ _Someone might have transposed digits._  
 __trap question__ :astonished: _That's a trap question._  
 __trapdoor__ _n_  
-__trappings__ _n_ :three::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
+__trappings__ _n_ :four::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
 __trascends__ _v_  
 __trash talk__ :two::hammer:  
@@ -11870,6 +11879,7 @@ __unapologetic__ _adj_ :eight::hammer:
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unburdened__  
 __uncanny valley__ _idiom_ :three::hammer:  
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
 __uncongenial__  
@@ -12659,6 +12669,7 @@ __X's and O's__ :two::hammer: _There are the X's and O's._
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
 __yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)  
+__yadda yadda yadda__ _idiom_ And so forth, on and on; something boring and repetitive.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  

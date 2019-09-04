@@ -1,26 +1,4 @@
 
-__cry foul__ _v_ To protest against something that has happened.  
-__palsy-walsy<sup>1</sup>__ _n_ A friend. _I'm surprised you haven't met Ricky's new palsy-walsy from school yet—they're together all the time._  
-__palsy-walsy<sup>2</sup>__ _adj_  Friendly, but (usually) disingenuous.  
-__yadda yadda yadda__ _idiom_ And so forth, on and on; something boring and repetitive.  
-__call of nature__ _idiom_ The need to go to the toilet.  
-__burn your bridges__ _idiom_ To destroy all possible ways of going back to a situation.  
-__snoot__ _v_ To behave disdainfully toward; condescend to.  
-__break your back__ _idiom_ To work extremely hard.  
-__liaison__  
-
-__trappings__ _n_  
-__musings__ _n_  
-__flick knife__ _n_  
-__pick__ _v_ _He managed to pick the old lock with a flick knife._  
-__unburdened__  
-__mollify__ _v_  
-__length__ _n_ _He walked the length of the carriage._  
-__staunch__ _adj_  
-__oblast__ _n_ :two::hammer:  
-__disservice__ _n_ :pencil2:  
-
-__morbidity__ _n_ _COPD is responsible for considerable morbidity and mortality._  
 __punitive__ _Punitive tax charges._  
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __facetiousness__  
