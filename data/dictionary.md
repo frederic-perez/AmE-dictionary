@@ -38,7 +38,7 @@ __aberrant__ _adj_
 __aberration__ _n_  
 __abet__ _v_ :four: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
-__abhorrent__ _adj_ :four::hammer:  
+__abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__  
@@ -313,7 +313,7 @@ __angsty__ _adj_ :two::hammer:
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
-__animosity__ _n_ :eight: __1__ Bitter hostility or open enmity; active hatred. __2__ A hostile feeling or act. :es: rencor  
+__animosity__ _n_ :nine: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
 __ankle-biter__ Child.  
 __annex__ _n_  
@@ -579,7 +579,7 @@ __back country__ _n_
 __back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back out__ _v_ :three::hammer:  
-__back up__ _v_ _Traffic will back up as if two lanes were blocked._  
+__back up__ _v_ :three: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
 __back-heel pass__  
 __back-of-house__ _Back-of-house technology._  
 __back-office__ _Back-office analytics._  
@@ -622,7 +622,7 @@ __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconci
 __baffling__ _Baffling season._  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
-__bail out__ _phr v_ :three: To pay for someone’s release from jail.  
+__bail out__ _phr v_ :four: To pay for someone’s release from jail.  
 __bail skip__  
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
 __bailiwick__  
@@ -817,7 +817,7 @@ __beggar__ _n_
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :four::hammer: _No one could begrudge her that._  
 __begrudgingly__ :two::hammer:  
-__beguile__ _v_ :six::hammer: (beguiled, beguiling)  
+__beguile__ _v_ :seven::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
@@ -2549,7 +2549,7 @@ __cribbage__ _game_
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ :two::hammer: _Crimson cereal._ _Her face went crimson._  
-__cringe__ _v_ :seven: __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
+__cringe__ _v_ :eight: (cringed) __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__  
@@ -3817,6 +3817,7 @@ __face time__ _n_ :dart: __1__ Time that you spend at your job because you want 
 __face value__  
 __face-lift__  
 __facetious__ _adj_ :pencil2:  
+__facetiousness__  
 __facile__ :two::hammer: _She's an extremely facile actress._  
 __facsimile<sup>1</sup>__ _n_ _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
@@ -3890,6 +3891,7 @@ __fastening__ _n_
 __fastiduous__ _adj_ :two::hammer:  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
+__Fat Man__ _n_  
 __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __Father Time__  
 __fatherland__ :astonished:  
@@ -4047,6 +4049,7 @@ __first and foremost__ :two::hammer:
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
+__fish__ _n_ Plural: fish.  
 __fissile__ _Fissile material._  
 __fist-pumper__  
 __fists bumping__  
@@ -4372,6 +4375,7 @@ __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling da
 __frazzled<sup>2</sup>__ _v_  
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
 __freak out<sup>2</sup>__ _v_  
+__free bit of advice__ _idiom_ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
 __free lunch__  
@@ -4458,6 +4462,7 @@ __fundraiser__ _They were at a fundraiser._
 __funereal__ _Funereal tone._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funnel__ _v_  
+__funny feeling__ _idiom_ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __funny stomach__  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
@@ -5165,6 +5170,7 @@ __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensi
 __hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
+__hawthorn__ _n_  
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
@@ -6166,6 +6172,7 @@ __kroop__
 __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
 __Kumbaya__ _n_  
 __kybosh__ _v_  
+__L-plate__ _He saw the L-plate on the back of the car._  
 __labor bureaus__  
 __Labrador__  
 __labrotories__ ?  
@@ -6456,6 +6463,7 @@ __lithotripter__ _n_
 __litigation__  
 __litigator__  
 __litter__ _n_ :camera::pencil2:  
+__Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live wire__  
 __livelihood__ _n_ :dart::two: (livelihoods) Occupation or employment.  
@@ -7121,7 +7129,7 @@ __murder book__ _n_ The case file of a murder investigation.
 __muriatic__  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
-__muse<sup>2</sup>__ _v_ :two::hammer: (mused) _He mused on his Facebook page about killing his wife._  
+__muse<sup>2</sup>__ _v_ :three::hammer: (mused) _He mused on his Facebook page about killing his wife._  
 __mush__ _n_ :four::hammer: _A mush brain._  
 __mush-mouth__ _The kid with the mush-mouth accent._  
 __mushers__  
@@ -8603,7 +8611,7 @@ __punctured__ _v_ _Punctured his tire._
 __pundit__ _n_ :three::hammer:  
 __pungent__ _adj_ :two::hammer:  
 __pungi__  
-__punitive__ _adj_ _Punitive pension tax charges._  
+__punitive__ _adj_ :two::hammer: _Punitive pension tax charges._  
 __punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
 __punt<sup>3</sup>__ _v.intr._ __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let's punt on this and try something else._  
@@ -9257,6 +9265,7 @@ __romp__ _v_ :six::hammer:
 __rondo__ _n_ (music)  
 __ronin__  
 __rood__ _n_ :two::hammer:  
+__roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
 __roofrack__  
 __rooftop__ _n_ :six::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
 __room gear__ _Dorm room gear._  
@@ -10054,7 +10063,7 @@ __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or re
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skillset__  
-__skim__ _v_ :three::hammer: (skimming) _Skim fat from chilled pan juices and finish making gravy._  
+__skim__ _v_ :four::hammer: (skimming) _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
@@ -11553,6 +11562,7 @@ __tone-deaf__
 __tong__  
 __tongue in cheek__ _adj, adv_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue__ :mute:[tong~~u~~e]  
+__tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonsil__ _n_ _A tonsil infection._  
 __tonsils__  
 __tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
@@ -12550,7 +12560,7 @@ __wishy-washy__
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
-__wisteria__  
+__wisteria__ :two::hammer:  
 __wistful__ _adj_ :three::hammer:  
 __wistfully__  
 __wistfulness__  

@@ -1,26 +1,4 @@
 
-__punitive__ _Punitive tax charges._  
-__tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
-__facetiousness__  
-__free bit of advice__ _idiom_ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
-__roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
-__funny feeling__ _idiom_ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
-__skim__ _v_ _Users often skim a page by its headings._  
-__Fat Man__ _n_  
-__Little Boy__ _n_  
-
-__bail out__  
-__back up__ _v_ :two: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._  
-__L-plate__ _He saw the L-plate on the back of the car._  
-__cringed__ _v_  
-__animosity__ _n_ _She tried to put her animosity aside._  
-__abhorrent__  
-__beguiling__ _v_  
-__wisteria__  
-__hawthorn__ _n_  
-__mused__ _v_  
-
-__fish__ _n_ Plural: fish.  
 __kid around__ phr v_ To have fun by acting in a silly way.  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
 __beat your head against the wall__ _idiom_ To try to do something that is hopeless.  
