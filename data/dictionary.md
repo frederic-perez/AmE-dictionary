@@ -101,6 +101,7 @@ __act up__ _phr v_ To behave badly or strangely.
 __ACT__ A college entrance exam, competitor to the SAT.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
+__actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
@@ -288,6 +289,7 @@ __ample__ _adj_ :three: __1__ Enough or more than enough. _Ample evidence._ _The
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __amusement park__  
+__an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __anachronism__  
 __analyst__ :pencil2:  
 __anathema__ _n_ :five: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
@@ -410,6 +412,7 @@ __arguably__ :two::hammer:
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :mega:  
 __arm bands__ _n_ :es: manguitos  
+__arm candy__ _idiom_ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
 __armageddon__  
 __armchair expert__ _idiom_  
 __armed to the teeth__ _idiom_ Fully armed, having many weapons.  
@@ -521,6 +524,7 @@ __attendee__ _n_ :two::mega::hammer:
 __attest__ _v_ :two::hammer:  
 __attire__ _n_ :four::hammer: _Casual attire is requested._  
 __Attn__  
+__attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
 __attrition__ _n_ :six::hammer:  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __au pair__  
@@ -766,6 +770,7 @@ __beat around the bush__ To fail to come to the important point about something;
 __beat it__ _idiom_ To go away immediately.  
 __beat the clock__ _idiom_ To finish something before the time is up.  
 __beat the shit out of (someone)__ _idiom_ _I expect them to beat the shit out of the Eagles._  
+__beat your head against the wall__ _idiom_ To try to do something that is hopeless.  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
@@ -819,9 +824,10 @@ __begrudge__ _v_ :four::hammer: _No one could begrudge her that._
 __begrudgingly__ :two::hammer:  
 __beguile__ _v_ :seven::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
-__behemoth__ _n_ :five: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
+__behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn't get the basics in primary school, they are way behind the eight ball.  
+__behind the times__ _idiom_ Old-fashioned.  
 __behold__ _v_ :three::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
@@ -1738,6 +1744,7 @@ __cat fish__ _(?)_
 __cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
+__cat's-paw__ _n_ A person used to serve the purposes of another; tool.  
 __catacombs__  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
@@ -4693,7 +4700,7 @@ __glissade__ _v_
 __glisten__ :mute:[glis~~t~~en]  
 __glitz__  
 __glitzy__  
-__gloaming__  
+__gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
 __gloat__ _v_ :five::hammer: (gloating) _I could not gloat._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __gloom__ _n_ :two::hammer: _She was hidden in the gloom._  
@@ -5085,7 +5092,7 @@ __hanks__ :pencil2: _Stringy hanks of blond hair._
 __hanky-panky__  
 __Hannukah__ (Chanukah)  
 __hantavirus__  
-__haphazardly__ :two::hammer:  
+__haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
 __happy about it__ _I'm not entirely happpy about it._  
@@ -5126,6 +5133,7 @@ __harness__ _v_ :two::hammer: _Harnessing big data._
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
+__harrowing experience__ _idiom_ An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant.  
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
 __harry__ _v_ :seven: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To harass or torment. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
@@ -5931,7 +5939,7 @@ __jibes__ :two::hammer: _His concept of philosophy jibes with American pragmatis
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
 __jigsaw__ :two::hammer: (jigsaws)  
-__jilt__ _Jilted at the altar._  
+__jilt__ _v_ :two: (jilted: To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
 __Jim Crow__ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_  
 __jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_  
@@ -6072,6 +6080,7 @@ __kickback schemes__
 __kickback__ _n_ :two::hammer: (kickbacks)  
 __kickoff__ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
+__kid around__ _phr v_ To have fun by acting in a silly way.  
 __kid<sup>1</sup>__ _n_ _I was a Nintendo kid._  
 __kid<sup>2</sup>__ _v_  
 __kiddo__  
@@ -6131,6 +6140,7 @@ __knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]
 __knit tie__  
 __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knobbed__ _v_  
+__knock around__ _phr v_ To spend time with someone because you are friends.  
 __knock off__ _phr v_ To stop working. _I gotta knock off work to come here and the commute is killing me._  
 __knock on wood__ _idiom_  
 __knock someone's socks off__  
@@ -6148,6 +6158,7 @@ __knotty__
 __know better__ _But I knew better._  
 __know the ropes__ _idiom_ :two: To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
+__know-it-all__ _n_ _slang_ A person who thinks they know everything.  
 __knuckle duster__ _Thugs armed with a knuckle duster._  
 __knuckle sandwich__ _idiom_ A punch in the face.  
 __knuckle__ :mute:[~~k~~nuckle]  
@@ -9581,7 +9592,7 @@ __scrawny__ :two::hammer: _Two scrawny containers of grape jelly._
 __scream-o-meter__  
 __screaming yellow__  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
-__screech<sup>2</sup>__ _v_ :seven::hammer: (screeched, screeching)  
+__screech<sup>2</sup>__ _v_ :eight::hammer: (screeched, screeching)  
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _"he heard the screen slam as she left."_  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
@@ -11155,7 +11166,7 @@ __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._
 __talcum powder__ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _A specific set of talents._  
 __talk back__ _idiom_  
-__talk down to__  
+__talk down to__ _phr v_ :two: To talk to someone as if they are not as clever or important as you are.  
 __talk into__ _phr v_ :two::hammer:  
 __talk numbers__ _Let's talk numbers._  
 __talk out of__ _phr v_ To persuade someone not to do something. _I want you to talk him out of it._  
@@ -12203,6 +12214,7 @@ __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti
 __vitriolic__ :two::hammer:  
 __vituperation__  
 __vituperative__  
+__vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
 __vizier__ _n_ :two::hammer:  
 __vocal<sup>1</sup>__ _adj_ :two: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
@@ -12567,6 +12579,7 @@ __wistfulness__
 __wit__ _n_ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __with flying colors__ _idiom_ With distinction.  
+__with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
 __withe down__ _v_  
 __wither__ _v_ :three::hammer: (withers, withered)  
