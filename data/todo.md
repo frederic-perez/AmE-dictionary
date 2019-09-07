@@ -1,4 +1,15 @@
 
+__narrate__ _v_ (narrated)  
+__riffle__ _v_ (riffling)  
+__sheer__ _Sheer brazenness._  
+__brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
+__jut out__ _v_ _Pipes jutting out of the windows._  
+__predicament__ _n_ :three::hammer: _I'm sorry to see you in this predicament._  
+__futility__  
+__outlandish__ _adj_  
+__gobs__ _n_ _He vomited gobs of saliva._  
+__gaunt__ _adj_  
+
 __pit toilet__ _n_  
 __wracked__ _v_  
 __wince__ _v_ (wincing) _Wincing in pain._  
