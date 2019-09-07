@@ -1,4 +1,18 @@
 
+__call of duty__  
+__self-indulgent__ _adj_  
+__taint__ _n_ _vulgar slang_ :two: The perineum.  
+__fallacy__ _n_  
+__tiptoe<sup></sup>__ _v_  
+__tiptoe<sup></sup>__ _n_  
+__tiptoe<sup></sup>__ _adj_  
+__tiptoe<sup></sup>__ _adv_  
+__confide__ _v_  
+__boot camp__ _n_  
+__CVD__ Cardiovascular disease.  
+__STI__ _acronym_ :three: Sexually transmitted infection.  
+__predator__ _n_  
+
 __wimp__ _slang_ A weak person, a coward.  
 __bloat__ _n_ A group of hippos.  
 __hyperbolic__ _adj_ Exaggerated.  
