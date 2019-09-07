@@ -1,4 +1,15 @@
 
+__wimp__ _slang_ A weak person, a coward.  
+__bloat__ _n_ A group of hippos.  
+__hyperbolic__ _adj_ Exaggerated.  
+__calm before the storm__ _idiom_ A peaceful and quiet period before a period of activity or trouble.  
+__airhead__ _n_ _slang_ A stupid person.  
+__call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
+__lighten up__ _phr v_ To become less serious.  
+__carrot and stick__ _idiom_ Reward and punishment.  
+__gumshoe__ _n_ __1__ A sneaker or rubber overshoe. __2__ _slang_ An investigator, especially a detective.  
+__mugging__  
+
 __narrate__ _v_ (narrated)  
 __riffle__ _v_ (riffling)  
 __sheer__ _Sheer brazenness._  
