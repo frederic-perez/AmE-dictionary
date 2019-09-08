@@ -1,4 +1,13 @@
 
+__dang__ _inter_ Used to express dissatisfaction or annoyance. A euphemistic word for damn.  
+__on edge__ _idiom_ Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._  
+__big break__ _idiom_ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one's career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
+__effigy__ _n_  
+__the bigger they come, the harder they fall__ _idiom_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
+__plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
+__paragon__ _n_ Model of excellence or perfection of a kind; one having no equal.  
+__bored to tears__ _idiom_ Extremely bored to the point of distraction, frustration, or irritation.  
+
 __stigmatize__ _v_  
 __wag__ _v_  
 __struck a nerve__  
