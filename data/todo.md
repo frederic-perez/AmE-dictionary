@@ -1,4 +1,15 @@
 
+__sanguine__ _adj_  
+__forenoon__ _n_ :astonished:  
+__boozehound__ _n_ _slang_ Someone who drinks a lot of alcohol.  
+__think up__ _phr v_ To invent or imagine something, especially an excuse.  
+__futile__ _adj_  
+__carry the ball__ _idiom_ To be in charge.  
+__go all out__ _v_ Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
+__arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._    
+__unruly__  
+__trepidation__ _n_ Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
+
 __shunt__ _v_ (shunted)  
 __frisk__ _v_ (frisked)  
 __ringside__ _n_ _A ringside seat._  
