@@ -1,4 +1,17 @@
 
+__shunt__ _v_ (shunted)  
+__frisk__ _v_ (frisked)  
+__ringside__ _n_ _A ringside seat._  
+__stoop__ _v_ (stooped)  
+__frail__ _v_  
+__unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
+__midday__ _n_ :pencil2:  
+__furrow__ _v_ _His brow was furrowed._  
+__perch__ _v_ (perched)  
+__wager__ _n_  
+__glimpse__ _v_  
+__sinew__ _n_  
+
 __pillory__ _n_  
 __profligate__ _adj_  
 __bare (one's) teeth__ _idiom_ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
