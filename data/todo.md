@@ -1,4 +1,15 @@
 
+__stigmatize__ _v_  
+__wag__ _v_  
+__struck a nerve__  
+__composite__ _adj_ :mega:  
+__MOS__ :two::hammer:  
+__pulley__ _n_ :pencil2::mega:  
+__influencer__ _n_ :mega:  
+__on steroids__  
+__citizenry__  
+__produce__ _n_  
+
 __sanguine__ _adj_  
 __forenoon__ _n_ :astonished:  
 __boozehound__ _n_ _slang_ Someone who drinks a lot of alcohol.  
