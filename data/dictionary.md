@@ -925,6 +925,7 @@ __bidding war__
 __bidding__  
 __biennium__ _n_ Two years.  
 __bier__ _n_ :pencil2:  
+__big break__ _idiom_ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one's career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big brother__  
 __Big C__ Cancer?  
 __big cat__ :es: felino  
@@ -1199,6 +1200,7 @@ __bordello__
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __bore<sup>1</sup>__ _v_ _Boring a tunnel._  
 __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
+__bored to tears__ _idiom_ Extremely bored to the point of distraction, frustration, or irritation.  
 __boredom__  
 __boring__ _v_ _He began throwing two touchdown passes, boring through traffic._  
 __borne__ _v_ :five::hammer:  
@@ -2003,6 +2005,7 @@ __circumsphere__
 __cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
 __Cisternian__ :pencil2: _Cisternian monks._  
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
+__citizenry__  
 __City__ :two::hammer:  
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
@@ -2241,7 +2244,7 @@ __compliant__
 __complicit__  
 __complimentary__ :pencil2: _Notice the complimentary nature of the two deﬁnitions._  
 __comply__ _v_  
-__composite decking__  
+__composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
 __composting__ _There's a brown bin for organic waste, which goes for composting._  
 __composure__  
@@ -2751,7 +2754,7 @@ __dandelion__ _n_ :five: (dandelions) A wild plant with a bright yellow flower w
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dandy__  
-__dang__ _adj_ _But, dang marketers go crazy._  
+__dang__ _interj_ :two: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ :two::hammer:  
@@ -3504,7 +3507,7 @@ __eel__
 __eerie__ _adj_ :seven::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effete__  
-__effigy__ _n_ :three::hammer: (effigies)  
+__effigy__ _n_ :four::hammer: (effigies)  
 __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.  
 __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
 __effluent__  
@@ -5768,6 +5771,7 @@ __infirm__ _adj_ :two::hammer:
 __inflatable<sup>1</sup>__ _adj_  
 __inflatable<sup>2</sup>__ _n_  
 __influence-peddling__ _n_ :three::hammer:  
+__influencer__ _n_ :mega:  
 __influenza__ _n_ :two: _Syn_ flu, grippe  
 __infomercial__ _n_  
 __infotainment system__  
@@ -7065,6 +7069,7 @@ __mortice__
 __mortification__  
 __mortify__ _v_ :five::hammer: (mortified)  
 __mortuaries__  
+__MOS__ _abbr_ :two: Mom over shoulder.  
 __mos.__ (Months?)  
 __mosh__  
 __mosque__ _n_ :two::hammer: (mosques)  
@@ -7494,10 +7499,11 @@ __on a tear__ _The U.K. labor market is on a tear._
 __on all fours__ _adj_ _idiom_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
 __on cloud nine__  
 __on deck__  
-__on edge__  
+__on edge__ _idiom_ :two: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._  
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on foot__ _I work to work on foot._  
 __on pins and needles__ _idiom_ Worried or excited about something.  
+__on steroids__  
 __on the back burner__ _idiom_ :two::hammer:  
 __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
 __on the docket__  
@@ -7791,7 +7797,7 @@ __pappy__
 __paradigm__ :mute:[paradi~~g~~m]  
 __paradox__  
 __paraglider__ _n_ :es: parapente; parapentista  
-__paragon__ _n_ :four::hammer: (paragons) _A paragon of redundancy._  
+__paragon__ _n_ :five: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
 __paramount__ _The reliability of the weather station is paramount._  
@@ -8197,6 +8203,7 @@ __platitude__ _n_ :four::hammer: (platitudes)
 __platoon__ _v_ :two::hammer:  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
 __plaudits__  
+__plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play down something__ _phr v_ To make something seem less important than it is.  
@@ -8501,7 +8508,7 @@ __procure__ _v_ :two::hammer: (procuring)
 __prod__ (prodded) :two::hammer: :es: _empujón_  
 __prodigal<sup>1</sup>__ _adj_ :two::hammer:  
 __prodigal<sup>2</sup>__ _n_  
-__produce__ _n_ :two::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
+__produce__ _n_ :three::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
@@ -8603,6 +8610,7 @@ __pull__ _v_ _I can't pull for someone else the same way._
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
 __pullback__ :two::hammer:  
 __pulled pork sandwich__  
+__pulley__ _n_ :pencil2::mega:  
 __pullout__ _Pullout couches._  
 __pulpit__ :two::hammer:  
 __pulsating__  
@@ -9456,7 +9464,7 @@ __sandstone__
 __sandwich__ :mute:[san~~d~~wich]  
 __sandy-haired__  
 __sangfroid__ _n_ :two::hammer:  
-__sanguine__ _adj_ :five::hammer::astonished:  
+__sanguine__ _adj_ :six::hammer::astonished:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
@@ -10765,6 +10773,7 @@ __stiffly__
 __stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
 __stigma__  
+__stigmatize__ _v_  
 __stile__ _n_  
 __still life__ _Still life painting._  
 __stillbirth__ _n_  
@@ -10890,6 +10899,7 @@ __strobe__ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after
 __stroll__ _v_  
 __strong accent__  
 __strongman__  
+__struck a nerve__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
 __strudel__ _n_ :three::hammer:  
 __strummed__ _v_ _He then strummed out a string of hits, including "Message in a Bottle."_  
@@ -11340,6 +11350,7 @@ __the 11th hour__
 __the ball is in someone’s court__ _idiom_ To be responsible for taking the next action.  
 __the bandwagon__ _n phr_ _Jump on the bandwagon._  
 __the big three-oh__  
+__the bigger they come, the harder they fall__ _idiom_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
 __the Chinese__ _This article was translated from the Chinese._  
 __the day's full of spiders__  
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
@@ -12253,7 +12264,7 @@ __waffling__
 __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
 __wafted__ _v_  
 __wafting__ _v_  
-__wag__ _v_ :two::hammer: _The puppy was wagging its tail._  
+__wag__ _v_ :three::hammer: _The puppy was wagging its tail._  
 __wage__ _n_ :two::hammer:  
 __waged__ _v_  
 __wagered__ _v_ :astonished: _I'd have wagered so._  
