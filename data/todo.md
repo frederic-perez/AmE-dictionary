@@ -1,4 +1,13 @@
 
+__dead in the water__ _idiom_ Without any chance for success.  
+__die with your boots on__ _idiom_ To die while you are still actively involved in your work.  
+__hottie__ _n_ _slang_ A beautiful, attractive woman.  
+__ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
+__don't count your chickens before they hatch__ _idiom_ Don’t make future plans based on something that has not happened yet  
+__lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
+__hefty__  
+__Jane Doe__ _slang_ An unidentified woman.  
+
 __jut out__ _v_ _The steel shard was jutting out of his hand._  
 __on the sly__  
 __stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _A guard's stool pigeon._  
