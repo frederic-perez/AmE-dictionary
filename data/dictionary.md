@@ -405,6 +405,7 @@ __archipelago__ :two::hammer::pencil2: _Archipelago nation._
 __architect__ :mute:[arc~~h~~itect]  
 __archivist__  
 __archrival__ _n_  
+__arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ :two::hammer: _He was one of her most ardent suitors._  
 __arduous__  
 __Argentine__ _The pope is an Argentine._  
@@ -1195,6 +1196,7 @@ __boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases in
 __boot<sup>2</sup>__ _v_ :two::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
 __bootlegger__  
+__boozehound__ _n_ _slang_ Someone who drinks a lot of alcohol.  
 __bop__ _v_  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
@@ -1709,6 +1711,7 @@ __carrel__
 __carrion__ _n_ :dart::five: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carrots and sticks__  
 __carry a torch__  
+__carry the ball__ _idiom_ To be in charge.  
 __carry-on bag__  
 __carryout__ _A Chinese carryout._  
 __carryover__ _A carryover vehicle._  
@@ -4308,7 +4311,7 @@ __forehead__ :mute:[fore~~h~~ead]
 __foreign__ :mute:[forei~~g~~n]  
 __foreman__ _n_ :three::hammer: _He was a foreman at the munitions factory._  
 __foremost__ _adj_  
-__forenoon__ _We had a real gully washer in the forenoon._  
+__forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the forenoon._  
 __forensics__ :two::hammer:  
 __foreplay__  
 __foreshadow__ _v_ :two::hammer:  
@@ -4368,7 +4371,8 @@ __fracas__ _n_ :two::hammer:
 __fracking__ Hydraulic fracturing.  
 __fractious__ _adj_ _His fractious temperament._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
-__frail__  
+__frail<sup>1</sup>__ _adj_  
+__frail<sup>2</sup>__ _n_  
 __frame grab__  
 __frame__ _v_ _He framed Roger Rabbit._  
 __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
@@ -4414,7 +4418,7 @@ __frill__ _v_
 __frilled__ _Frilled apron._  
 __frilly__  
 __fringe__  
-__frisk__ _v_ :four::hammer: _I have to frisk you._  
+__frisk__ _v_ :five::hammer: (frisked) _I have to frisk you._  
 __frisson__  
 __frites__ _Steak frites._  
 __fritter__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
@@ -4480,13 +4484,15 @@ __furlough__ _n_ :three: Leave of absence, especially that granted to a member o
 __furnish__ _v_ _To furnish suites of labs._  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
-__furrow__ _n_ :five::hammer:  
+__furrow<sup>1</sup>__ _n_ :five::hammer:  
+__furrow<sup>2</sup>__ _v_ _His brow was furrowed._  
 __further__  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
 __fuss<sup>1</sup>__ _n_ :two::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
+__futile__ _adj_  
 __futility__ _n_ :three::hammer:  
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
@@ -4696,7 +4702,8 @@ __glean__
 __gleaning__  
 __glib__ _adj_ :five::hammer: _A glib reply to his remark._ _A glib tongue._  
 __glimmer__ _A glimmer of hope._  
-__glimpse__  
+__glimpse<sup>1</sup>__ _n_  
+__glimpse<sup>2</sup>__ _v_  
 __glint__  
 __glinting__ _v_  
 __glissade__ _v_  
@@ -4725,6 +4732,7 @@ __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or di
 __gnome__ :mute:[~~g~~nome]  
 __gnu__ :mute:[~~g~~nu]  
 __go a long way__ :dart::three::hammer: _Go a long way toward minimizing damage._  
+__go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
 __go apeshit__  
 __go awry__ :two::hammer:  
 __go back to square one__ _idiom_ To start from the beginning.  
@@ -6893,7 +6901,7 @@ __MIA__ Missing in Action.
 __mick__ _n_ :three::hammer:  
 __mid-afternoon__  
 __midafternoon__  
-__midday__ :pencil2:  
+__midday__ _n_ :two::pencil2::hammer:  
 __Middle West__ :dart:  
 __midget__ _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ :two::hammer:  
@@ -7971,7 +7979,7 @@ __per diem__
 __per se__ :mega: /pər sā′, sē′/  
 __percentile__ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
-__perch<sup>2</sup>__ _v_ :four::hammer:  
+__perch<sup>2</sup>__ _v_ :five::hammer: (perched)  
 __percolate__ _v_  
 __percolator__ _n_  
 __peremptory__  
@@ -9207,7 +9215,7 @@ __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for th
 __ringleader__  
 __ringlets__  
 __ringmaster__  
-__ringside__  
+__ringside__ _n_ :two::hammer: _A ringside seat._  
 __rink__ _n_  
 __riotous__ :two::hammer:  
 __rip your wiring out__  
@@ -9969,7 +9977,7 @@ __shudders__ _v_ :two::hammer:
 __shuffle off__  
 __shuffling__ _v_ :two::hammer:  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
-__shunt__ _v_ :two::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
+__shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>1</sup>__ _interj_  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
@@ -11384,7 +11392,7 @@ __thingy__ :two::hammer:
 __think back__ To think about a past event or a past time.  
 __think over__ To consider a problem or decision carefully.  
 __think tank__ _n_ :five::hammer:  
-__think up__ To invent or imagine something, especially an excuse.  
+__think up__ _phr v_ :two: To invent or imagine something, especially an excuse.  
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
 __this time around__ :dart::hammer:  
@@ -11710,7 +11718,7 @@ __trellises__ _From his trellises._
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
 __trench coat__ _n_  
 __trenchant__ _adj_  
-__trepidation__ _n_ :four::hammer:  
+__trepidation__ _n_ :five: Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
@@ -11994,8 +12002,9 @@ __unreasonable__ _adj_
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
 __unrepentant__ :two::hammer:  
+__unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
 __unrestrained__  
-__unruly__ _adj_ :eight: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
+__unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
 __unscathed__ _adj_ :five: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
@@ -12267,6 +12276,7 @@ __wafting__ _v_
 __wag__ _v_ :three::hammer: _The puppy was wagging its tail._  
 __wage__ _n_ :two::hammer:  
 __waged__ _v_  
+__wager__ _n_  
 __wagered__ _v_ :astonished: _I'd have wagered so._  
 __waging__ _v_  
 __wagon__  

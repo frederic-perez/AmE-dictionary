@@ -1,25 +1,4 @@
 
-__forenoon__ _n_ :astonished:  
-__boozehound__ _n_ _slang_ Someone who drinks a lot of alcohol.  
-__think up__ _phr v_ To invent or imagine something, especially an excuse.  
-__futile__ _adj_  
-__carry the ball__ _idiom_ To be in charge.  
-__go all out__ _v_ Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
-__arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._    
-__unruly__  
-__trepidation__ _n_ Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
-
-__shunt__ _v_ (shunted)  
-__frisk__ _v_ (frisked)  
-__ringside__ _n_ _A ringside seat._  
-__stoop__ _v_ (stooped)  
-__frail__ _v_  
-__unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
-__midday__ _n_ :pencil2:  
-__furrow__ _v_ _His brow was furrowed._  
-__perch__ _v_ (perched)  
-__wager__ _n_  
-__glimpse__ _v_  
 __sinew__ _n_  
 
 __pillory__ _n_  
