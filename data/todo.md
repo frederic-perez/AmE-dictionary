@@ -1,4 +1,13 @@
 
+__jut out__ _v_ _The steel shard was jutting out of his hand._  
+__on the sly__  
+__stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _A guard's stool pigeon._  
+__lever__ _v_  
+__sallow__ _adj_ Of a sickly yellowish hue or complexion. _A sallow complexion._  
+__jaundice__ _n_  
+__squatting__ _v_  
+__wrought-iron__  
+
 __sinew__ _n_  
 
 __pillory__ _n_  
