@@ -1,4 +1,13 @@
 
+__groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
+__louver__ _n_ One of a set of parallel slats in a door or window to admit air and reject rain.  
+__amateur hour__ _idiom_  
+__broken record__ _n_ Someone who something that constantly repeats itself, causing annoyance.  
+__malefic__ _adj_ Having or exerting a malignant influence.  
+__bystander effect__ _idiom_ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
+__powerbocking__ _n_ The act of powerbocking is jumping and running with elastic-like spring-loaded stilts.  
+__stilt__ _n_ Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground.  
+
 __ghost__ _v_ :two: __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __cackle__ _v_ (cackling)  
 __wind down__ _v_ To diminish gradually in force or power; relax.  
