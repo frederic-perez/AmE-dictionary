@@ -1,4 +1,13 @@
 
+__ghost__ _v_ :two: __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
+__cackle__ _v_ (cackling)  
+__wind down__ _v_ To diminish gradually in force or power; relax.  
+__put off__  
+__amiable__  
+__tribal__  
+__mellow__  
+__foible__ _n_ (foibles)  
+
 __dead in the water__ _idiom_ Without any chance for success.  
 __die with your boots on__ _idiom_ To die while you are still actively involved in your work.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
