@@ -1,27 +1,4 @@
 
-__don't count your chickens before they hatch__ _idiom_ Don’t make future plans based on something that has not happened yet  
-__lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
-__hefty__  
-__Jane Doe__ _slang_ An unidentified woman.  
-
-__jut out__ _v_ _The steel shard was jutting out of his hand._  
-__on the sly__  
-__stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _A guard's stool pigeon._  
-__lever__ _v_  
-__sallow__ _adj_ Of a sickly yellowish hue or complexion. _A sallow complexion._  
-__jaundice__ _n_  
-__squatting__ _v_  
-__wrought-iron__  
-
-__sinew__ _n_  
-
-__pillory__ _n_  
-__profligate__ _adj_  
-__bare (one's) teeth__ _idiom_ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
-__flip-flop__ _v_ Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._  
-__a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
-__barnburner__ _idiom_ Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  
-__stager__ _n_ An experienced person who has been through many battles; someone who has given long service. _Syn_ old hand, old-timer, warhorse, veteran  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 

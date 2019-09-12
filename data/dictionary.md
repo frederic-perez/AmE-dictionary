@@ -16,6 +16,7 @@ __4-H__ Of or relating to a government program in the U.S. that teaches farming 
 __800-pound gorilla__  
 __a bird in the hand is worth two in the bush__  
 __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
+__a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
@@ -691,6 +692,7 @@ __barbecue__ _Barbecue sauce._
 __barbells__  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
 __barded__ _v_  
+__bare (one's) teeth__ _idiom_ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
 __bare-bones__ _A bare-bones lab._  
 __barf bag__  
 __barf bucket__  
@@ -701,7 +703,7 @@ __barked__ :two::hammer: _His forehead was barked._ _Barked area._
 __barking up the wrong tree__ _idiom_ Looking in the wrong place.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __barn__ _Out of the barn._  
-__barnburner__ _n informal_ :two: Something that is highly exciting, impressive, etc.  
+__barnburner__ _idiom_ :three: Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  
 __barnstorm__  
 __barnyard__ :pencil2:  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
@@ -3213,7 +3215,7 @@ __dolirometer__
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
 __dolt__ :two::hammer:  
 __domicile__  
-__don't count your chickens before they're hatched__ Don't make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
+__don't count your chickens before they hatch__ _idiom_ :two: (don't count your chickens before they're hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
@@ -4173,7 +4175,7 @@ __flinty__ _Flinty soil._
 __flip (me) the bird__  
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
-__flip-flop<sup>2</sup>__ _v_ _Politicians who flip-flop get mocked._  
+__flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
 __flippant__ _adj_ :three::hammer:  
 __flipper__  
 __flippers__ _n_ :camera:  
@@ -5272,7 +5274,7 @@ __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._
 __heel<sup>2</sup>__ _v_  
 __heft__ _n_ :two::hammer:  
 __hefted up__  
-__hefty__  
+__hefty__ :two::hammer:  
 __height__ :mute:[hei~~gh~~t]  
 __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ :mute:[~~h~~eir]  
@@ -5919,12 +5921,14 @@ __jamboree__ _n_ :four::hammer: _A campfire jamboree._
 __jammies__ _n_  
 __jampacked__ _v_  
 __jams__ _n_  
+__Jane Doe__ _slang_ An unidentified woman.  
 __Janes and Joes__ :pencil2: _Regular Janes and Joes._  
 __jangled__ _v_  
 __janitor__ _n_  
 __jape__ _v_  
 __jar__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
-__jaundice__ _v_ :three::hammer:  
+__jaundice<sup>1</sup>__ _n_  
+__jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
 __jaunty__ _adj_ :eight: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jawing__ _v_ _Stop jawing and get to work._  
@@ -6044,7 +6048,7 @@ __junta__ _n_ :three::hammer:
 __jury box__ _n_ An enclosure where the jury sit in court.  
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
-__jut out__ _v_ :two::hammer: _Document jutted out at all angles._ _The head juts out of the wall._  
+__jut out__ _v_ :three::hammer: _The steel shard was jutting out of his hand.__Document jutted out at all angles._ _The head juts out of the wall._  
 __jut__ _v_ :three::hammer: (jutted, jutting)  
 __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
@@ -6402,6 +6406,7 @@ __letter jacket__ A jacket traditionally worn by high school and college student
 __letter__ _v_ _I'm currently lettering the forthcoming comic book._  
 __levee__  
 __leveled__ :two::hammer:  
+__lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v_ :three::hammer:  
 __leviathan__  
@@ -6601,6 +6606,7 @@ __lowkey__
 __lowlife__  
 __lowlights__  
 __lowly__ _adj_ :three::hammer:_A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
+__lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
 __lucifer match__  
 __lucky charm__  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
@@ -7530,7 +7536,7 @@ __on the hoof__
 __on the rise__ _idiom_  
 __on the run__  
 __on the same page__ _idiom_ To agree on something.  
-__on the sly__ _adv_ :three: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
+__on the sly__ _adv_ :four: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
 __on the tip of your tongue__ _idiom_ About to be said or almost remembered.  
 __on the verge__  
 __on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
@@ -8112,6 +8118,7 @@ __pilings__ _A deserted cabin built on pilings._
 __pill caddy__ _n_  
 __pillbox hat__ :two::hammer:  
 __pillbox__ _A plum-colored pillbox hat._  
+__pillory__ _n_  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
 __pimple__ _n_ :two::hammer: _Pop the pimples._  
@@ -8531,7 +8538,7 @@ __profanity__ _n_ :two::hammer: _Shouting profanities._
 __professed__ _v_ :two::hammer:  
 __proffering__  
 __profiteering__  
-__profligate<sup>1</sup>__ _adj_ :two::hammer:  
+__profligate<sup>1</sup>__ _adj_ :three::hammer:  
 __profligate<sup>2</sup>__ _n_ :two::hammer:  
 __profoundly__  
 __profusion__  
@@ -9454,7 +9461,7 @@ __salad spinner__ _n_
 __sales force__  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
-__sallow__ _adj_ :three::hammer: _A sallow face._  
+__sallow__ _adj_ :four: Of a sickly yellowish hue or complexion. _A sallow face._ _A sallow complexion._  
 __salmon__ _n_ :mute:[sa~~l~~mon]:astonished::four:  
 __salt away__  
 __salt of the Earth__  
@@ -10054,7 +10061,7 @@ __since forever__
 __sine die__  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
 __sinestesia__ _n_ (?)  
-__sinew__ _n_ :six::hammer: (sinews)  
+__sinew__ _n_ :seven::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
 __sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
@@ -10612,7 +10619,7 @@ __square dsncing__
 __squarely__  
 __squash__ _v_  
 __squat down__ _v_  
-__squat<sup>1</sup>__ _v_ :five: (squatted, squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
+__squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
 __squat<sup>2</sup>__ _adj_ :five: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squatter__  
@@ -10647,6 +10654,7 @@ __staffer__ _n_ :five: A member of the staff of an organization, especially of a
 __stag line__ _n_  
 __stag__ _I'm an old stag._  
 __stage name__  
+__stager__ _n_ An experienced person who has been through many battles; someone who has given long service. _Syn_ old hand, old-timer, warhorse, veteran  
 __stagflation__ :two::hammer:  
 __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
 __staggering__  
@@ -10831,6 +10839,7 @@ __stone__ _n_ :three::hammer: _Lose a stone in four weeks._ _A 42-stone patient 
 __stone-walling__  
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
+__stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _A guard's stool pigeon._  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :two::hammer: _He was a stooped man._ _Stooped shoulders._  
@@ -12713,6 +12722,7 @@ __writing on the wall, the__ An omen of impending disaster or ruin. _I've seen t
 __writs__ _n_  
 __wrong__ :mute:[~~w~~rong]  
 __wrongdoing__  
+__wrought-iron__  
 __wrought<sup>1</sup>__ _v_ :three: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
