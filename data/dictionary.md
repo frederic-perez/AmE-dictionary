@@ -267,8 +267,10 @@ __aluminum__ _n_ :pencil2::three::hammer:
 __alumni__ :two::hammer:  
 __amalgam__  
 __amass__ _v_ :four::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
+__amateur hour__ _idiom_  
 __ambitious__  
 __ambivalence__  
+__ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
 __ameliorate__ _v_  
@@ -277,6 +279,7 @@ __amenity__ :two::hammer: _Amenity kits._
 __Ames__ _Ames, Iowa._  
 __amethyst__ _n_  
 __ametropia__ _n_  
+__amiable__  
 __amid__  
 __amiss__ _adj_  
 __amity__  
@@ -1349,6 +1352,7 @@ __brogue__ _n_ :two::hammer:
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
 __broken accent__  
+__broken record__ _n_ Someone who something that constantly repeats itself, causing annoyance.  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::hammer:  
@@ -1554,6 +1558,7 @@ __bygone__
 __bylaw__  
 __bylaws__  
 __byline__ _n_ :three::hammer: (bylines)  
+__bystander effect__ _idiom_ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __C-rations__  
 __C-section__ _n_  
@@ -1570,8 +1575,7 @@ __cable bookers__
 __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,400 pairs of lines._  
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
-__cackle__  
-__cackling__ _v_ :two::hammer:  
+__cackle__ _v_ :four::hammer: (cackling)  
 __cacophony__ :two::hammer:  
 __cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
@@ -2797,6 +2801,7 @@ __deactivate__ _v_ _The team deactivated Peterson for a game._
 __dead bolt__ _n_  
 __dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
+__dead in the water__ _idiom_ Without any chance for success.  
 __dead on__  
 __dead ringer__ An exact duplicate.  
 __dead set against something__ _idiom_ To be completely against something.  
@@ -2999,6 +3004,7 @@ __diction__ _n_ :three::hammer: _The priest diction._
 __diddle-shit__  
 __diddle-squat__  
 __die down__ _phr v_ To lose strength; subside: _The winds died down._  
+__die with your boots on__ _idiom_ To die while you are still actively involved in your work.  
 __die-cast__ _Merchandise and die-cast sales._  
 __die-hard__ Person who resists change.  
 __die-off__ _n_  
@@ -4237,7 +4243,7 @@ __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __fob__ :two::hammer:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
-__foible__ _n_ :four: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
+__foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :three::hammer: (foisting, foisted)  
@@ -4648,7 +4654,7 @@ __getaway day__
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :seven::hammer::mute:[g~~h~~astly]  
 __ghetto__ :mute:[g~~h~~etto]  
-__ghost__ :mute:[g~~h~~ost]  
+__ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghoul__ _n_ :four::mute:[g~~h~~oul]:hammer:  
 __gibbet__ _n_  
 __gibblets__ _n_  
@@ -4918,6 +4924,7 @@ __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._
 __groan__ _v_ :four::hammer:  
 __grocer__ _n_ :two::hammer:  
 __grog__  
+__groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
 __groomed__  
 __groomers__  
 __groove__ :four::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._ _Stocks have found their groove._  
@@ -5503,6 +5510,7 @@ __hot-rodder__
 __hot-wire__ _Hot-wire cars._  
 __hot-wired__  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
+__hottie__ _n_ _slang_ A beautiful, attractive woman.  
 __hounding__ _v_ :two::hammer:  
 __hounds__ _n_  
 __hour__ :mute:[~~h~~our]  
@@ -6578,7 +6586,7 @@ __loudmout__ _He is a loudmout, but there is nothing personal._
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
 __lout__ _n_  
-__louver__ _n_ :camera: _Louver shutters._ _Louver window._  
+__louver__ _n_ :two::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._  
 __lovacore__  
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
@@ -6692,6 +6700,7 @@ __making waves__ :two::hammer:
 __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_  
 __malarkey__ _n_ :dart::four::mega::hammer:  
+__malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
 __malfeasance__ :two::hammer:  
 __malfunction__  
@@ -6844,9 +6853,8 @@ __megalomania__
 __meh__  
 __mélange__ _n_  
 __melee__ _n_  
-__mellow<sup>1</sup>__ _adj_ _Mellow flavor._  
-__mellow<sup>2</sup>__ _v_ :two::hammer:  
-__mellowed__  
+__mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
+__mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __meme__ _n_ :three::mega::hammer:  
 __memento__ _Removing mementos from a national park is illegal._  
@@ -8395,6 +8403,7 @@ __power bar__
 __power play__  
 __power strip__  
 __power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _"He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
+__powerbocking__ _n_ The act of powerbocking is jumping and running with elastic-like spring-loaded stilts.  
 __powerhouse__ :two::hammer:  
 __powerlessness__  
 __powermongers__ _n_  
@@ -8675,6 +8684,7 @@ __pustules__ _n_
 __put (one's) foot in (one's) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
 __put it on the money__  
+__put off__  
 __put on a clinic__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiiom_ To discuss or plan something together with other people.  
@@ -10785,7 +10795,7 @@ __stigmatize__ _v_
 __stile__ _n_  
 __still life__ _Still life painting._  
 __stillbirth__ _n_  
-__stilt__ _n_ :six::hammer: (stilts) _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
+__stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __sting__ _n_  
 __stinger__  
@@ -11728,6 +11738,7 @@ __triad__
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __triage<sup>2</sup>__ _v_  
 __trial__ _n_  
+__tribal__  
 __Tribeca__  
 __tribulation__ _n_ :eight::hammer: (tribulations)  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
@@ -12553,7 +12564,7 @@ __win back__ _phr v_ To get back something that you have lost.
 __wince__ _v_ :five::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
-__wind down__ _phr v_ To end, or to finish something gradually.  
+__wind down__ _phr v_ :two: To diminish gradually in force or power; relax.  
 __wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
 __winded__  
 __windlass__  
