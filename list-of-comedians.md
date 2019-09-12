@@ -23,7 +23,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
 - [Stephen Colbert](https://www.youtube.com/results?search_query=Stephen+Colbert)
-- [Steve Martin](https://www.youtube.com/results?search_query=Steve+Martin)
+- [Steve Martin](https://www.youtube.com/results?search_query=Steve+Martin) us a virtuoso banjo player.
 - [Steven Wright](https://www.youtube.com/results?search_query=Steven+Wright) won the Oscar (with Dean Parisot) for the 1988 short film "The Appointments of Dennis Jennings."
 - [Thomas Middleditch](https://www.youtube.com/results?search_query=Thomas+Middleditch)
 - [Woody Allen](https://www.youtube.com/results?gl=US&search_query=Woody+Allen+comedian) "shot a moose once" in the 60s.
