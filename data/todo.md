@@ -1,26 +1,4 @@
 
-__subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
-__cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
-
-__call of duty__  
-__self-indulgent__ _adj_  
-__taint__ _n_ _vulgar slang_ :two: The perineum.  
-__fallacy__ _n_  
-__tiptoe<sup></sup>__ _v_  
-__tiptoe<sup></sup>__ _n_  
-__tiptoe<sup></sup>__ _adj_  
-__tiptoe<sup></sup>__ _adv_  
-__confide__ _v_  
-__boot camp__ _n_  
-__CVD__ Cardiovascular disease.  
-__STI__ _acronym_ :three: Sexually transmitted infection.  
-__predator__ _n_  
-
-__wimp__ _slang_ A weak person, a coward.  
-__bloat__ _n_ A group of hippos.  
-__hyperbolic__ _adj_ Exaggerated.  
-__calm before the storm__ _idiom_ A peaceful and quiet period before a period of activity or trouble.  
-__airhead__ _n_ _slang_ A stupid person.  
 __call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
 __lighten up__ _phr v_ To become less serious.  
 __carrot and stick__ _idiom_ Reward and punishment.  

@@ -205,6 +205,7 @@ __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and n
 __airborne__ _adj_ _An airborne radar._  
 __airburst__ _n_  
 __aircraft hold__ _n_ :es: bodega (de avión)  
+__airhead__ _n_ _slang_ A stupid person.  
 __airship__ _n_ _Tethered airships._  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
@@ -1051,6 +1052,7 @@ __blithering__
 __blitz<sup>1</sup>__ _n informal_ :five: A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __blitz<sup>2</sup>__ _v_ :two::hammer: (blitzed, blitzing)  
 __blizzard__ _n_ :two::hammer:  
+__bloat__ _n_ A group of hippos.  
 __bloc__ _n_ :five::hammer: _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood-expander__  
@@ -1197,6 +1199,7 @@ __boonies__
 __boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boorishness__ :two::hammer:  
 __boosters__ _Mississippi boosters._  
+__boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ :two::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
@@ -1605,6 +1608,7 @@ __caliph__
 __caliphate__  
 __calisthenics__  
 __call for__  
+__call of duty__  
 __call of nature__ _idiom_ The need to go to the toilet.  
 __call on someone__ _He called on me._  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
@@ -1624,7 +1628,7 @@ __calliopes__
 __callous__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callousness__  
 __callow__ _adj_ :three::hammer:  
-__calm before the storm__ _idiom_ A peaceful and quiet period before a period of activity or trouble.  
+__calm before the storm__ _idiom_ :two: A peaceful and quiet period before a period of activity or trouble.  
 __calm__ :mute:[ca~~l~~m]  
 __calves__  
 __camaraderie__  
@@ -2109,6 +2113,7 @@ __clothespin__ _n_ :two::camera::hammer:
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __cloud nine__  
+__cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 __cloud__ _v_ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
@@ -2312,7 +2317,7 @@ __confederate<sup>2</sup>__ _n_
 __conference call__  
 __conferred__ _v_  
 __confidant__ _n_ :six::hammer: (also confidante)  
-__confide__ _v_ :three::hammer: (confided)  
+__confide__ _v_ :four::hammer: (confided)  
 __confidence__  
 __config__ :mega: _A config file._  
 __conflagration__ _n_  
@@ -2718,6 +2723,7 @@ __cutthroat<sup>1</sup>__ _n_
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin' a rug__  
 __cutting edge__  
+__CVD__ Cardiovascular disease.  
 __cyclone__ _n_  
 __cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
@@ -3863,7 +3869,7 @@ __fall into place__
 __fall out of love__  
 __fall over__ _v_  
 __fall short__ _v_ :six: To fail to achieve a goal or target.  
-__fallacy__ _n_ :three::hammer: _The lump of coding fallacy._  
+__fallacy__ _n_ :four::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
 __fallible__ _adj_ :three::mega::hammer: _Managers are as fallible as the rest of us._  
 __falloff__  
@@ -5592,7 +5598,7 @@ __hydrate__ _v_ :two::hammer: _Make sure you hydrate._
 __hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
-__hyperbole__ :two::hammer:  
+__hyperbolic__ _adj_ :three: Exaggerated.  
 __hyperopia__ _n_  
 __hypertensive__ _To be hypertensive._  
 __hypocrisy__  
@@ -8436,7 +8442,7 @@ __precint__
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
 __precision__ _Precision medicine._  
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
-__predator__ _n_  
+__predator__ _n_ :two::hammer:  
 __prediabetes__  
 __predicament__ :two::hammer: _Hearsay suggests that green apples can induce such a predicament._  
 __preeminent__ :two::hammer:  
@@ -9725,6 +9731,7 @@ __self-deprecating__
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
 __self-fulfilling__ _Self-fulfilling prophecy._  
+__self-indulgent__ _adj_  
 __self-righteous__  
 __self-steem__  
 __selfless__  
@@ -10784,6 +10791,7 @@ __stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._
 __steward__ _n_ :three::hammer: (stewards) _Concerned stewards of the Earth._  
 __stewardship__  
 __stewed tomatoes__  
+__STI__ _abbr_ :three: Sexually transmitted infection.  
 __stick > turnaround stick__  
 __stick__ _v_ _She began sticking files in a cabinet._  
 __stickball__ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
@@ -10982,6 +10990,7 @@ __substation__
 __subsumed__ _v_ :two::hammer:  
 __subterfuge__  
 __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
+__subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __suburbanites__ _n_  
 __suburbs__  
 __succinct__ :two::pencil2::mega::hammer:  
@@ -11181,6 +11190,7 @@ __tailgate__ _v_ :two::hammer:
 __tailor__ _v_ :four::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
 __tailspin<sup>2</sup>__ _v_  
+__taint__ _n_ _vulgar slang_ :two: The perineum.  
 __take a piss__ _idiom_ Urinate.  
 __take a shit__ _v_  
 __take a stand__  
@@ -11541,7 +11551,10 @@ __tipoff__ _n_ :two::hammer: (tip-off)
 __tipple__ _v_ :five::hammer: (tippled)  
 __tipsily__  
 __tipster__ _n_ :two::hammer: (tipsters)  
-__tiptoe__ _v_ To walk or move quietly on one's toes.  
+__tiptoe<sup>1</sup>__ _adj_  
+__tiptoe<sup>2</sup>__ _adv_  
+__tiptoe<sup>3</sup>__ _n_  
+__tiptoe<sup>4</sup>__ _v_ :two: To walk or move quietly on one's toes.  
 __tirade__ _n_ :seven::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
@@ -12565,7 +12578,7 @@ __willy-nilly__ _adv_ (willy nilly) :seven: Whether desired or not: _After her b
 __wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
 __wimp out__  
-__wimp__ _n_  
+__wimp__ _n_ _slang_ :two: A weak person, a coward.  
 __wimpiness__  
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
