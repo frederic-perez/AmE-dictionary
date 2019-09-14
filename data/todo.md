@@ -1,4 +1,13 @@
 
+__heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
+__shingle__ _n_  
+__cold turkey__  
+__entice__ _v_ (enticing)  
+__crestfallen__ _adj_  
+__wallow__ _v_ :three::hammer:  
+__drudgery__ _n_ :dart: Tedious, menial, or unpleasant work.  
+__conduit__ _n_  
+
 __cash cow__ _idiom_ A product or business that always makes a lot of profit.  
 __dead ringer__ _n_ Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __elide__ _v_ To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
