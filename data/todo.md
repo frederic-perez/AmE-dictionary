@@ -1,4 +1,14 @@
 
+__bring a knife to a gunfigh__ _idiom_ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
+__raspy__  
+__broken record__ _idiom_ A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., "broken") can loop over the same recorded segment endlessly.  
+__importune__ _v_ Beg persistently and urgently. _Syn_ insist  
+__brood over__ _idiom_ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
+__connivance__ _n_ Agreement on a secret plot.  
+__splurge__ _n_ __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
+__clout list__ _idiom_ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process.  
+__statin__ _n_  
+
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __shingle__ _n_  
 __cold turkey__  
