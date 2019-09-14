@@ -1,4 +1,14 @@
 
+__reversal of fortune__  
+__swish__ _v_ (swishing) _Swishing the liquid._  
+__woodland__ _n_  
+__put up__ _I can put up with the injury._  
+__gash__ _n_ _The gash wasn't closing._  
+__scour__ _v_  
+__predicament__ _n_  
+__lease__ _n_ (on a lease)  
+__huddle__ _n_ _The huddle of houses._  
+
 __call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
 __lighten up__ _phr v_ To become less serious.  
 __carrot and stick__ _idiom_ Reward and punishment.  
