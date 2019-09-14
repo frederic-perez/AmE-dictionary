@@ -1,4 +1,15 @@
 
+__cash cow__ _idiom_ A product or business that always makes a lot of profit.  
+__dead ringer__ _n_ Exact duplicate; a person or thing that seems exactly like someone or something else.  
+__elide__ _v_ To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
+__carry the day__ _idiom_ To win, to be successful.  
+__adventitious__ _adj_ Associated with something by chance rather than as an integral part; extrinsic.  
+__hack__ _n_ _slang_ A newspaper reporter.  
+__banalize__ _v_  
+__wring__ _v_  
+__look back on__ _phr v_ To think about something that happened in the past.  
+__operose__ _adj_ Characterized by effort to the point of exhaustion; especially physical effort.  
+
 __reversal of fortune__  
 __swish__ _v_ (swishing) _Swishing the liquid._  
 __woodland__ _n_  
