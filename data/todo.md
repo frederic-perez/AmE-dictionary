@@ -1,4 +1,13 @@
 
+__defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
+__fibrillation__ _n_  
+__amethyst__  
+__major-domo__ (?)  
+__sarcophagi__ _n_  
+__revel__ _v_ _She revels in them._  
+__wistfully__ _She gazed wistfully at the boathouse._  
+__persona__ _n_  
+
 __hear a pin drop, one/you could__ _idiom_ Complete silence.  
 __cry over spilled milk__ _idiom_ To be unhappy about what cannot be undone.  
 __dork__ _n_ _slang_ A socially awkward person.  
