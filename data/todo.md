@@ -1,4 +1,13 @@
 
+__subpar__  
+__because__  
+__tight__ _adj_ _slang_ Very good, excellent; cool; awesome.
+__pooch__ _n_  
+__wallow__ _v_  
+__compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn't compute._  
+__fan letter__ _n_  
+__timelessness__ _n_ :es: atemporalidad  
+
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __fibrillation__ _n_  
 __amethyst__  
