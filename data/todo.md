@@ -1,4 +1,15 @@
 
+__hear a pin drop, one/you could__ _idiom_ Complete silence.  
+__cry over spilled milk__ _idiom_ To be unhappy about what cannot be undone.  
+__dork__ _n_ _slang_ A socially awkward person.  
+__ahoy__ _interj_ Used to hail a ship or to attract attention.  
+__measure up__ _phr v_ To be good enough or to be of the required standard.  
+__cut from the same cloth__ _idiom_ To be very similar.  
+__slyboots__ _n_ _informal_ A sly person.  
+__hoodlum__ _n_ _slang_ A criminal or gangster.  
+__dowry__ _n_  
+__magnanimous__ _adj_ Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
+
 __equipment__ _n_ _The equipment was out of date._  
 __out of date__ _idiom_  
 __gasp__ _v_ _The audience gasped._  
