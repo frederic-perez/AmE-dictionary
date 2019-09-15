@@ -1,4 +1,15 @@
 
+__equipment__ _n_ _The equipment was out of date._  
+__out of date__ _idiom_  
+__gasp__ _v_ _The audience gasped._  
+__slip__ _n_ _Even the smallest of slips would alert that man to her presence._  
+__duress__ _n_  
+__wit__ _n_ _He had regained his wits._  
+__belatedly__  
+__stifling__ _adj_ _Stifling heat._  
+__coop__ _v_ (cooped)  
+__defect__ _v_ To desert one's country, cause, allegiance, etc, esp in order to join the opposing forces.  
+
 __bring a knife to a gunfigh__ _idiom_ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
 __raspy__  
 __broken record__ _idiom_ A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., "broken") can loop over the same recorded segment endlessly.  
