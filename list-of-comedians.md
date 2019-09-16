@@ -19,6 +19,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jimmy Kimmel](https://www.youtube.com/results?search_query=Jimmy+Kimmel)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
+- [Mike Hanford](https://www.youtube.com/results?gl=US&search_query=Mike+Hanford) plays John Lennon after coming back to life in 1984.
 - [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
