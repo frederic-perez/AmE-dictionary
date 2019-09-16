@@ -192,6 +192,7 @@ __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time.
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
 __ahold__  
+__ahoy__ _interj_ Used to hail a ship or to attract attention.  
 __aide__ _n_ :two::hammer: (aides)  
 __ail__ _v_  
 __ailerons__  
@@ -279,7 +280,7 @@ __ameliorate__ _v_
 __amends__  
 __amenity__ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
-__amethyst__ _n_  
+__amethyst__ _n_ :two::hammer:  
 __ametropia__ _n_  
 __amiable__  
 __amid__  
@@ -783,6 +784,7 @@ __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __bebop__ _v_  
+__because__  
 __beck > at your beck__ _Stacks of books at your beck._  
 __beck__  
 __beckon__ _v_ :four: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
@@ -2272,6 +2274,7 @@ __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any 
 __compulsory school__  
 __compulsory__ _adj_ :six::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compurgator__ _n_  
+__compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn't compute._  
 __comrade__  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
@@ -2647,6 +2650,7 @@ __crusty__
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :three: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
+__cry over spilled milk__ _idiom_ To be unhappy about what cannot be undone.  
 __crybaby__ _n_ A person who cries or complains frequently with little cause.  
 __cryotherapy__  
 __cryptojacking__  
@@ -2887,6 +2891,7 @@ __deferment__ :two::hammer:
 __deferral__  
 __deferred__ _v_  
 __defiance__  
+__defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __defile__ _n_ :three::hammer:  
 __definitely__  
 __deflated__ _v_  
@@ -3243,7 +3248,7 @@ __dopamine__ _n_ :mega:
 __dope__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
-__dork__ _n_ :two: __1__ _Slang_ A stupid, inept, or foolish person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
+__dork__ _n_ :three: __1__ _Slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dormant__  
 __dormer__ _n_ :camera:  
 __dot__ _v_ (dotted) Mark with a dot.  
@@ -3885,6 +3890,7 @@ __familiar__ _No, I'm not familiar._
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _It could be feasst or famine._  
 __famished__ _adj_ :two: Very hungry.  
+__fan letter__ _n_  
 __fanaticism__ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
@@ -4002,6 +4008,7 @@ __fiat__ _Military fiat._
 __Fibbies__  
 __fiber__  
 __fiberglass__  
+__fibrillation__ _n_  
 __fickle__ :two::hammer: _A fickle ally._  
 __fiddle-faddle__  
 __fiddled__ _v_  
@@ -5234,6 +5241,7 @@ __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway 
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ :two::hammer:  
 __health condition__  
+__hear a pin drop, one/you could__ _idiom_ Complete silence.  
 __hearing__ _law_  
 __hearkened__  
 __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
@@ -6694,6 +6702,7 @@ __mainstay__ _A mainstay of his business._
 __maitre d'__  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __major__ _v_  
+__major-domo__ _n_ (majordomo)  
 __majoring__  
 __make (one's) bones__ _idiom_  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
@@ -8026,7 +8035,7 @@ __pernicious__ :two::hammer:
 __peroxide__  
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
-__persona__ In Latin, _persona_ originally meant "mask." _That's my stage persona._  
+__persona__ _n_ :two: In Latin, _persona_ originally meant "mask." _That's my stage persona._  
 __perspiration__  
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
@@ -8346,7 +8355,7 @@ __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
-__pooch__ _n_ _slang_ :two: A dog.  
+__pooch__ _n_ _slang_ :three: A dog.  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
 __poor man__  
@@ -9166,7 +9175,7 @@ __Reuben__ (A type of sandwich?)
 __reunion__ An instance of two or more people coming together again after a period of separation.  
 __reunite__ _v_  
 __reveal__ _n_  
-__revel__ _v_  
+__revel__ _v_ :two::hammer: _She revels in them._  
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick's day revelers._ _Mardi Gras revelers._  
 __reveling__ :two::hammer:  
 __revelled__ _v_ :two::hammer:  
@@ -9507,7 +9516,8 @@ __sapphire lidar__
 __sapphire__ :mute:[sa~~p~~phire]  
 __sappy__ _Sappy smile._  
 __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
-__sarcophagus__  
+__sarcophagi__ _n_  
+__sarcophagus__ _n_  
 __sartorial__  
 __sash__ _n_ :four::hammer: _A sash cord._ _A sash window._  
 __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
@@ -10979,6 +10989,7 @@ __subjugate__ _v_
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
+__subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :two: (subpoenaed)  
 __subsea__ _n_  
@@ -11506,7 +11517,7 @@ __tie-up__ _n_
 __tiebreaking__ _A tiebreaking goal._  
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
 __tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
-__tight__ :mute:[ti~~gh~~t]  
+__tight__ _adj_ _slang_ :two::mute:[ti~~gh~~t] Very good, excellent; cool; awesome.  
 __tight-knit__ _We are a tight-knit family._  
 __tighten your belt__ _idiom_ To spend less money.  
 __tighten__ _v_ _Tighten your belts._  
@@ -11524,6 +11535,7 @@ __time capsule__ _n_ :four::hammer:
 __time frame__  
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
+__timelessness__ _n_ :es: atemporalidad  
 __timeline__  
 __timely__ _adj_ :seven::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
@@ -12628,7 +12640,7 @@ __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fa
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__ :two::hammer:  
 __wistful__ _adj_ :three::hammer:  
-__wistfully__  
+__wistfully__ :two::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
 __wit__ _n_ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  

@@ -1,26 +1,4 @@
 
-__subpar__  
-__because__  
-__tight__ _adj_ _slang_ Very good, excellent; cool; awesome.
-__pooch__ _n_  
-__wallow__ _v_  
-__compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn't compute._  
-__fan letter__ _n_  
-__timelessness__ _n_ :es: atemporalidad  
-
-__defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
-__fibrillation__ _n_  
-__amethyst__  
-__major-domo__ (?)  
-__sarcophagi__ _n_  
-__revel__ _v_ _She revels in them._  
-__wistfully__ _She gazed wistfully at the boathouse._  
-__persona__ _n_  
-
-__hear a pin drop, one/you could__ _idiom_ Complete silence.  
-__cry over spilled milk__ _idiom_ To be unhappy about what cannot be undone.  
-__dork__ _n_ _slang_ A socially awkward person.  
-__ahoy__ _interj_ Used to hail a ship or to attract attention.  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
 __cut from the same cloth__ _idiom_ To be very similar.  
 __slyboots__ _n_ _informal_ A sly person.  
