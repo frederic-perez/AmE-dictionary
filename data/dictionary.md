@@ -138,6 +138,7 @@ __adulation__
 __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :seven::mega::hammer: _The advent of social media._  
+__adventitious__ _adj_ Associated with something by chance rather than as an integral part; extrinsic.  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advice__ _This is my unsolicited advice._  
 __advisedly__  
@@ -667,6 +668,7 @@ __baloney__ _n informal_ (bologna) :two: Nonsense.
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bamboozle__ _v_  
+__banalize__ _v_  
 __bandanna__ :two::hammer:  
 __bandit__ _n_  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
@@ -1367,6 +1369,7 @@ __bromance__ :two::hammer:
 __bronc__ _Bull and bronc riding._  
 __bronco__ _n_ :camera:  
 __broncobusting__  
+__brood over__ _idiom_ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
 __brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._  
 __brood<sup>2</sup>__ _v_ (brooded)  
 __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
@@ -1725,6 +1728,7 @@ __carrion__ _n_ :dart::five: The noun carrion refers to the dead and rotting fle
 __carrots and sticks__  
 __carry a torch__  
 __carry the ball__ _idiom_ To be in charge.  
+__carry the day__ _idiom_ To win, to be successful.  
 __carry-on bag__  
 __carryout__ _A Chinese carryout._  
 __carryover__ _A carryover vehicle._  
@@ -1741,6 +1745,7 @@ __case in point__ _n_ :six::hammer: An example that is used to justify similar o
 __case the joint__  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
+__cash cow__ _idiom_ A product or business that always makes a lot of profit.  
 __cash flow__  
 __cash rebate__  
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
@@ -2119,6 +2124,7 @@ __cloud nine__
 __cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 __cloud__ _v_ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
+__clout list__ _idiom_ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process.  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
@@ -2182,7 +2188,7 @@ __colander__
 __cold duck__  
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __cold shoulder__  
-__cold turkey__ _n_ :two: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
+__cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
 __coleslaw__ _n_ :four::hammer:  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
@@ -2311,7 +2317,7 @@ __condominium__ _First-floor condominium._
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :three::hammer: _The vehicle doesn't seem conducive to passing._  
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
-__conduit__ _n_ :five::hammer:  
+__conduit__ _n_ :six::hammer:  
 __coneys__  
 __confection__  
 __confederacy__  
@@ -2335,7 +2341,7 @@ __conjecture__
 __conjunction__  
 __conjure__ :two::hammer:  
 __conman__  
-__connivance__  
+__connivance__ _n_ :two: Agreement on a secret plot.  
 __connive__ _v_ :four::hammer: (connived, conniving)  
 __conscripted__ _v_ :two::hammer:  
 __conscription__  
@@ -2569,7 +2575,7 @@ __crepe__
 __Crescent City__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
-__crestfallen__ _adj_ :four: Dispirited and depressed; dejected.  
+__crestfallen__ _adj_ :five: Dispirited and depressed; dejected.  
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
@@ -2818,7 +2824,7 @@ __dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Nev
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead in the water__ _idiom_ Without any chance for success.  
 __dead on__  
-__dead ringer__ An exact duplicate.  
+__dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __dead set against something__ _idiom_ To be completely against something.  
 __dead__ _Dead batteries._  
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
@@ -3401,7 +3407,7 @@ __drover__ _n_ :two::hammer:
 __drowns__ _v_  
 __drub__ _v_  
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
-__drudgery__ :two::hammer:  
+__drudgery__ _n_ :three::dart: Tedious, menial, or unpleasant work.  
 __drugstore__  
 __drugwise__  
 __drum up__  
@@ -3580,7 +3586,7 @@ __elevator operator__ :camera:
 __elevators__ (airplane)  
 __ELIA5__ Explain Like I Am 5.  
 __elicit__ _v_ :six::hammer: (elicited)  
-__elide__ _v_  
+__elide__ _v_ :two: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
 __elision__  
 __elite__ (elites) :two::hammer:  
@@ -3678,7 +3684,7 @@ __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate:
 __enthuse__ _v_ :eight: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
-__enticing__  
+__entice__ _v_ :two::hammer: (enticing)  
 __entitle__ _v_ :four::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you're no longer entitled to on the NHS._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ :two::hammer: :es: séquito  
@@ -5060,7 +5066,8 @@ __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm
 __ha!__ :two::hammer:  
 __habitation__ :astonished:  
 __habituate__ _v_  
-__hack__ _v_ _Coughing and hacking while shuffling around._  
+__hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
+__hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._  
 __hackles__ _n_ :two::hammer:  
 __hackneyed__ :two::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
@@ -5270,6 +5277,7 @@ __heather__
 __heathy__  
 __heave__ _v_ (heaving) :three::hammer: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavily__ _He was drinking heavily._  
+__heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
 __hecatombs__  
@@ -9908,7 +9916,7 @@ __shine a light__
 __shine off__ _Don't try to shine me off, worm man._  
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
-__shingle__ _n_ :four::hammer: (shingles)  
+__shingle__ _n_ :five::hammer: (shingles)  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
@@ -10575,7 +10583,8 @@ __split hairs__ _idiom_ :two: Argue or worry about small details.
 __split__ _n_  
 __splotched__ _v_  
 __splotches__ _n_  
-__splurge__ _v_ :six::hammer: (splurged, splurging)  
+__splurge<sup>1</sup>__ _n_ __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
+__splurge<sup>2</sup>__ _v_ :six::hammer: (splurged, splurging)  
 __splutter__ _v_ :four::hammer: (splutters, spluttered)  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
@@ -10751,6 +10760,7 @@ __stateroom scene__ This scene (from A night at the opera), one of the most famo
 __stateroom__ _n_ :two: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_  
 __statesman__ :two::hammer: _The elder statesman of the group._  
 __statesmen__ (notice, not 'statement')  
+__statin__ _n_  
 __stationary bike__  
 __stationery__  
 __statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
