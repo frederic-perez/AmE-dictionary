@@ -851,7 +851,7 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_ :five::hammer: (belated)  
-__belatedly__ _adv_ :three::hammer:  
+__belatedly__ _adv_ :four::hammer:  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
 __beleaguer__ _v_  
@@ -1331,6 +1331,7 @@ __brighten up__ _phr v_ To make a place more colourful and attractive.
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring a knife to a gunfigh__ _idiom_ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
 __bring about__ _phr v_ To make something happen.  
 __bring home the bacon__ _idiom_ To earn money to live on.  
 __bring it on__ _idiom_ To begin a fight or competition.  
@@ -1359,7 +1360,7 @@ __brogue__ _n_ :two::hammer:
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
 __broken accent__  
-__broken record__ _n_ Someone who something that constantly repeats itself, causing annoyance.  
+__broken record__ _n_ _idiom_ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., "broken") can loop over the same recorded segment endlessly.  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::hammer:  
@@ -2399,7 +2400,8 @@ __cookware__
 __cool (one's) heels__ _idiom_ To wait, sometimes so that one becomes calmer or more composed.  
 __cool your jets__  
 __coonass__ :two::hammer: (coonasses)  
-__coop__ _To fly the coop._  
+__coop<sup>1</sup>__ _To fly the coop._  
+__coop<sup>2</sup>__ _v_ (cooped)  
 __cooper__ _n_ :pencil2:  
 __coops__ _Chicken coops._  
 __coos__ _v_  
@@ -2716,6 +2718,7 @@ __customer > tough customer__ Someone who is difficult to deal with. _Walt is a 
 __customs__ _n_ (at airport)  
 __cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
+__cut from the same cloth__ _idiom_ To be very similar.  
 __cut me a little slack__  
 __cut ties with (someone)__ _idiom_ :two::hammer:  
 __cut-and-dry task__  
@@ -2878,7 +2881,7 @@ __deface__ _v_ :two::hammer: _Defacing two murals._
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __defanging__ _n_  
 __default__ _v_ :four::hammer: _The Solar Energy company defaulted._  
-__defect__ _v_ :six: (defected) Abandon one's country or cause in favour of an opposing one. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
+__defect__ _v_ :seven: (defected) To desert one's country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
@@ -3306,7 +3309,7 @@ __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtr
 __downturn__ _n_  
 __downturns__ :two::hammer:  
 __downward__ _A downward spiral._  
-__dowry__ _n_ :three::hammer: :es: dote  
+__dowry__ _n_ :four::hammer: :es: dote  
 __doyenne__  
 __doze__ _v_  
 __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
@@ -3458,7 +3461,7 @@ __duplexes__ :two::hammer:
 __duplicitious__ _A duplicitious cigarette industry._  
 __duplicitous__  
 __durable__ :two::hammer: _The end of durable Red John story line is a new beginning._  
-__duress__ _n_ :four::hammer:  
+__duress__ _n_ :five::hammer:  
 __dust devils__  
 __dusters__ _n_ _My grandad sold dusters._  
 __dustman__  
@@ -3712,6 +3715,7 @@ __equine<sup>1</sup>__ _adj_
 __equine<sup>2</sup>__ _n_  
 __equinox__  
 __equip__ _v_  
+__equipment__ _n_ _The equipment was out of date._  
 __equipped__  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__  
@@ -4593,7 +4597,7 @@ __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies'
 __gasket__  
 __gaskets__  
 __gasolene__ :two::hammer::pencil2:  
-__gasped__ _v_ :three::hammer:  
+__gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
 __gat__  
 __gatekeeper__ _n_  
 __Gatling gun__ _n_  
@@ -5483,7 +5487,7 @@ __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturban
 __hooch__ :two::hammer: _Take it easy on the hooch._  
 __hood fan__  
 __hood__ _n_ _slang_ :three: Criminal, a member of a criminal gang.  
-__hoodlums__ :two::hammer:  
+__hoodlum__ _n_ _slang_ :three: (hoodlums) A criminal or gangster.  
 __hoods__ _n_  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
@@ -5687,6 +5691,7 @@ __impinge__ _v_
 __impish__ _Impish sense of humor._  
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
+__importune__ _v_ Beg persistently and urgently. _Syn_ insist  
 __impound__ _v_ :two::hammer: _The Ponticac was impounded._  
 __impoverished__ _v_  
 __imprecation__ _n_ :two: A curse.  
@@ -6687,7 +6692,7 @@ __maelstrom__ _n_ :five::hammer:
 __magazine__ _n_ _They were pledged to keep the castle's magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
-__magnanimous__  
+__magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
 __magpied__ _v_  
 __magpies__  
 __mahogany__ _n_ :four::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
@@ -6850,6 +6855,7 @@ __meandering__
 __meannes__ :pencil2:  
 __meant to be__ _idiom_ _It was meant to be made in heaven._  
 __measles__ _n_ :four::pencil2::hammer: :es: _Rubeola_  
+__measure up__ _phr v_ To be good enough or to be of the required standard.  
 __meat and potatoes__  
 __meat at the bone__  
 __meat grinder__  
@@ -7632,6 +7638,7 @@ __ouboros__ _n_
 __Ouija board__ _n_ :astonished: (from French _oui_ yes + German _ja_ yes) _We were doing Ouija board and I asked what I was going to be._  
 __ounce__  
 __ouster__ _n_  
+__out of date__ _idiom_  
 __out of hand__  
 __out of order__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
@@ -8896,6 +8903,7 @@ __rash<sup>2</sup>__ _adj_
 __Rashomon effect__ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
 __raspberry__ :mute:[ras~~p~~berry]  
+__raspy__  
 __rat race__  
 __rat-fuck__ _v_  
 __ratched__  
@@ -10218,7 +10226,7 @@ __slinger__
 __slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slip up<sup>1</sup>__ _v_  
 __slip up<sup>2</sup>__ _n_  
-__slip<sup>1</sup>__ _n_ :two::hammer: _A pink slip._ _A slip of paper._  
+__slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even the smallest of slips would alert that man to her presence._  
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__ _n_ :two::hammer:  
 __slipper__ _n_ :two::hammer: (bag?)  
@@ -10272,6 +10280,7 @@ __slush__ _n_ :three::hammer: _The offshore ice and slush._
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :nine: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
+__slyboots__ _n_ _informal_ A sly person.  
 __slyly__ :astonished: _She smiled slyly._  
 __smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
 __smack<sup>2</sup>__ _n_  
@@ -10815,7 +10824,7 @@ __stiffens__ _v_ _UN stiffens North Korea sanctions._
 __stiffer__ :two::hammer: _In adult court, murder, a Class M felony, carries a much stiffer penalty._ _Unleasing stiffer penalties._  
 __stiffly__  
 __stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
-__stifling__ _adj_ Suffocating; oppressively close. _The stifling atmosphere of the cavern._  
+__stifling__ _adj_ :two: Suffocating; oppressively close. _Stifling heat._ _The stifling atmosphere of the cavern._  
 __stigma__  
 __stigmatize__ _v_  
 __stile__ _n_  
@@ -12642,7 +12651,7 @@ __wisteria__ :two::hammer:
 __wistful__ _adj_ :three::hammer:  
 __wistfully__ :two::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
-__wit__ _n_ _He was at wit's end._  
+__wit__ _n_ :two::hammer: _He had regained his wits._ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  

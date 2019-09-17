@@ -1,26 +1,4 @@
 
-__measure up__ _phr v_ To be good enough or to be of the required standard.  
-__cut from the same cloth__ _idiom_ To be very similar.  
-__slyboots__ _n_ _informal_ A sly person.  
-__hoodlum__ _n_ _slang_ A criminal or gangster.  
-__dowry__ _n_  
-__magnanimous__ _adj_ Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
-
-__equipment__ _n_ _The equipment was out of date._  
-__out of date__ _idiom_  
-__gasp__ _v_ _The audience gasped._  
-__slip__ _n_ _Even the smallest of slips would alert that man to her presence._  
-__duress__ _n_  
-__wit__ _n_ _He had regained his wits._  
-__belatedly__  
-__stifling__ _adj_ _Stifling heat._  
-__coop__ _v_ (cooped)  
-__defect__ _v_ To desert one's country, cause, allegiance, etc, esp in order to join the opposing forces.  
-
-__bring a knife to a gunfigh__ _idiom_ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
-__raspy__  
-__broken record__ _idiom_ A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., "broken") can loop over the same recorded segment endlessly.  
-__importune__ _v_ Beg persistently and urgently. _Syn_ insist  
 __brood over__ _idiom_ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
 __connivance__ _n_ Agreement on a secret plot.  
 __splurge__ _n_ __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
