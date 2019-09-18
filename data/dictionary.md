@@ -1620,6 +1620,7 @@ __call on someone__ _He called on me._
 __call out<sup>1</sup>__ _n_ :two::hammer:  
 __call out<sup>2</sup>__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call someone names__ _I wouldn't call you names._  
+__call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
 __call the shots__  
 __call to action__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
@@ -1725,7 +1726,7 @@ __carping__ _v_
 __carpool__ _v_ :two::hammer:  
 __carrel__  
 __carrion__ _n_ :dart::five: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
-__carrots and sticks__  
+__carrot and stick__ _idiom_ :two: (carrots and sticks) Reward and punishment.  
 __carry a torch__  
 __carry the ball__ _idiom_ To be in charge.  
 __carry the day__ _idiom_ To win, to be successful.  
@@ -4598,7 +4599,7 @@ __gas guzzler__
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
-__gash<sup>1</sup>__ _n_ :two::hammer:  
+__gash<sup>1</sup>__ _n_ :three::hammer: _The gash wasn't closing._  
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies' defense._ _The Lions gashed the Owls._  
 __gasket__  
 __gaskets__  
@@ -5028,6 +5029,7 @@ __gumball__
 __gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
 __gumption__  
 __gums__ _n_  
+__gumshoe__ _n_ __1__ A sneaker or rubber overshoe. __2__ _slang_ An investigator, especially a detective.  
 __gun show__  
 __gun-shy__  
 __gunbull__ :two::hammer:  
@@ -5569,7 +5571,7 @@ __hubhub__
 __hubris__ _n_ :four::hammer: _Intellectual hubris._  
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huckterism__  
-__huddle<sup>1</sup>__ _n_ :two: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
+__huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
 __huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
 __Huey__  
 __huff__ _v_ :eight: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
@@ -6369,7 +6371,7 @@ __leap year__
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
 __leaps and bounds__ _To grow in leaps and bounds._  
 __learn the ropes__ :two::hammer:  
-__lease__ :two::hammer:  
+__lease__ _n_ :three::hammer: (on a lease)  
 __leased__ _v_  
 __leaven__ _To leaven the raunch and swagger._  
 __leavings__ _n_  
@@ -6472,6 +6474,7 @@ __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._
 __light__ :mute:[li~~gh~~t]  
 __light-headed__ _I feel light-headed from lack of sleep._  
 __lightbulb moment__  
+__lighten up__ _phr v_ To become less serious.  
 __lightermen__  
 __lighthearted__  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
@@ -6584,6 +6587,7 @@ __longing__ _n_ :dart::two::hammer:
 __longitudinal__ _Longitudinal findings from the study._  
 __longstanding__ _adj_ :three::hammer:  
 __longtime__ _The longtime dictator._  
+__look back on__ _phr v_ To think about something that happened in the past.  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
 __look up__ _Look up to your belongings._  
@@ -7170,7 +7174,7 @@ __muff-diver__ _n_ :two::hammer:
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)  
 __muffler__ _n_ :two::hammer: _Syn_ silencer  
-__mugged__ _v_  
+__mug__ _v_ :two::hammer: (mugged, mugging)  
 __mugger__ _n_ :two::hammer: (muggers)  
 __muggles__ _n_ :two::hammer:  
 __muggy__ :two::hammer: _The weather was muggy._  
@@ -7255,6 +7259,7 @@ __nape__ _n_
 __nappy__ _n_ :three::hammer: (chiefly British)  
 __Narcan__ _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
 __narcissistic__ _adj_ :two::hammer:  
+__narrate__ _v_ (narrated)  
 __narrative__  
 __narrow escape__  
 __narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
@@ -7606,6 +7611,7 @@ __open mike__ :two::hammer: _When are you going to do an open mike?_
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
+__operose__ _adj_ Characterized by effort to the point of exhaustion; especially physical effort.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
 __oppo__ _Oppo researchers._  
@@ -8468,7 +8474,7 @@ __precision__ _Precision medicine._
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
-__predicament__ :two::hammer: _Hearsay suggests that green apples can induce such a predicament._  
+__predicament__ _n_ :three::hammer: _Hearsay suggests that green apples can induce such a predicament._  
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
@@ -8729,7 +8735,7 @@ __put out__ _idiom_
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put to the test__  
-__put up with__ _idiom_ :six: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._  
+__put up with__ _idiom_ :seven: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -9199,6 +9205,7 @@ __revelling__
 __revelry__ :two::hammer:  
 __revenant__  
 __revered__  
+__reversal of fortune__  
 __reversible__  
 __revile__ _v_ :two::hammer:  
 __revisionist__  
@@ -9239,7 +9246,7 @@ __RIF__ _Reading Is Fundamental._
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff<sup>1</sup>__ _n_ :two::hammer:  
 __riff<sup>2</sup>__ _v_ :five::hammer: (rif, riffs, riffed, riffing)  
-__riffle__ _v_ :three::hammer: (riffled) _Annabeth riffled the medicine cabinet for the toothpaste._  
+__riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
 __rifle__ _v_ :two::hammer: (rifling) _Rifling through his case._  
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
@@ -9878,7 +9885,7 @@ __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
-__sheer<sup>1</sup>__ _adj_ :eight::hammer: _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer<sup>1</sup>__ _adj_ :nine::hammer: _Sheer brazenness._ _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
 __sheet__ _n_ :two:  
@@ -11168,8 +11175,7 @@ __swindler__ _n_ :three::hammer: _In the dark space between anticipation and rea
 __swinging bridge__  
 __swipe<sup>1</sup>__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swipe<sup>2</sup>__ _v_ Swipe is a comics term for the intentional copying of a cover, panel, or page from an earlier comic book or graphic novel without crediting the original artist.  
-__swish__ _To swish a three-pointer._  
-__swishing__ _Swishing sound._  
+__swish__ _v_ :three::hammer: (swishing) _Swishing the liquid._ _To swish a three-pointer._ _Swishing sound._  
 __switch__ (twitch?)  
 __switch-blade__ _Switch-blade artists._  
 __swive__ _v_  
@@ -12692,6 +12698,7 @@ __wonky__ :two::hammer: _Wonky details._
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood pellets__  
 __wood rasp__ _n_  
+__woodland__ _n_  
 __woodstove__ _n_  
 __woodwork__ _n_ :two::hammer:  
 __wooly__  
@@ -12749,9 +12756,8 @@ __wrethes__
 __wriggle__  
 __wriggling__  
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
-__wring__ _v_  
+__wring__ _v_ :six::hammer: (wringing) _The Feds just keeps wringing its hands._  
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
-__wringing__ _v_ :four::hammer: _The Feds just keeps wringing its hands._  
 __wrinkle__ _v_ :four::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling)  
 __wrist__ :mute:[~~w~~rist]  
 __writ__ _n_ :three::hammer: _Compulsory State writ._  

@@ -1,27 +1,4 @@
 
-__wring__ _v_  
-__look back on__ _phr v_ To think about something that happened in the past.  
-__operose__ _adj_ Characterized by effort to the point of exhaustion; especially physical effort.  
-
-__reversal of fortune__  
-__swish__ _v_ (swishing) _Swishing the liquid._  
-__woodland__ _n_  
-__put up__ _I can put up with the injury._  
-__gash__ _n_ _The gash wasn't closing._  
-__scour__ _v_  
-__predicament__ _n_  
-__lease__ _n_ (on a lease)  
-__huddle__ _n_ _The huddle of houses._  
-
-__call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
-__lighten up__ _phr v_ To become less serious.  
-__carrot and stick__ _idiom_ Reward and punishment.  
-__gumshoe__ _n_ __1__ A sneaker or rubber overshoe. __2__ _slang_ An investigator, especially a detective.  
-__mugging__  
-
-__narrate__ _v_ (narrated)  
-__riffle__ _v_ (riffling)  
-__sheer__ _Sheer brazenness._  
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __jut out__ _v_ _Pipes jutting out of the windows._  
 __predicament__ _n_ :three::hammer: _I'm sorry to see you in this predicament._  
