@@ -1279,6 +1279,7 @@ __brawn__ Physical strength in contrast to intelligence. _Commando work required
 __bray__ _v_ :three::hammer: (brayed, braying) _Donkey's braying._  
 __brazen__ _adj_ :four: With brazen disregard for the sign that said "no cellphones please" the woman took a long call in the doctor's office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ :two::hammer:  
+__brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __brazer__  
 __brazier__  
 __breach<sup>1</sup>__ _n_  
@@ -2964,6 +2965,7 @@ __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by 
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
+__depolarize__ _v_  
 __deposition__ _n_ :three::hammer:  
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
@@ -3223,7 +3225,7 @@ __dog-and-pony show__ _idiom_ :two::hammer: (dog and pony show)
 __dog-ear__  
 __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __dogged__ _adj_ Obstinately determined; wilful or tenacious.  
-__doggedly__  
+__doggedly__ :two::hammer:  
 __doghouse__ _n_ :three::hammer: (In the UK use "kennel") _Russia will stay stuck in track and field's doghouse._  
 __dogleg__ :two::hammer: _A dogleg twenty-gauge in his hand._  
 __doglegs__ _v_  
@@ -4525,7 +4527,7 @@ __fusillade__ _n_ :two::hammer:
 __fuss<sup>1</sup>__ _n_ :two::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __futile__ _adj_  
-__futility__ _n_ :three::hammer:  
+__futility__ _n_ :four::hammer:  
 __fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
 __gab away__ _v_ _The gang was gabbing away._  
@@ -4599,7 +4601,7 @@ __gas guzzler__
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
-__gash<sup>1</sup>__ _n_ :three::hammer: _The gash wasn't closing._  
+__gash<sup>1</sup>__ _n_ :four::hammer: _The gash wasn't closing._  
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies' defense._ _The Lions gashed the Owls._  
 __gasket__  
 __gaskets__  
@@ -4610,7 +4612,7 @@ __gatekeeper__ _n_
 __Gatling gun__ _n_  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__  
-__gaunt__ _adj_ :nine: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
+__gaunt__ _adj_ :nine::m: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
 __gauntlets__  
 __gauntness__  
 __gauze__ _n_ :three::hammer: :es: gasa  
@@ -4799,6 +4801,7 @@ __gobble<sup>1</sup>__ _v_ :three::hammer: _Gobbling a plate of spaguetti and me
 __gobble<sup>2</sup>__ _n_  
 __gobbledygook__  
 __goblin__ _n_ :three::hammer: (goblins)  
+__gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
@@ -6077,7 +6080,8 @@ __junta__ _n_ :three::hammer:
 __jury box__ _n_ An enclosure where the jury sit in court.  
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
-__jut out__ _v_ :three::hammer: _The steel shard was jutting out of his hand.__Document jutted out at all angles._ _The head juts out of the wall._  
+__just__ _adj_ _The punishments were fair, just and appropriate._  
+__jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand.__Document jutted out at all angles._ _The head juts out of the wall._  
 __jut__ _v_ :three::hammer: (jutted, jutting)  
 __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
@@ -7463,7 +7467,7 @@ __oafish__ :two::hammer:
 __oars__ _n_ :two::hammer:  
 __oases__ _n_  
 __oat__ _n_  
-__oatmeal__ _n_ :two::hammer:  
+__oatmeal__ _n_ :three::hammer:  
 __obi__ _n_  
 __obit__ :two::hammer:  
 __obituaries__  
@@ -8203,6 +8207,7 @@ __pirogue__ _n_ :two::hammer:
 __pisspot__ :two::hammer:  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
 __pistachios__ _n_  
+__pit toilet__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
 __pit<sup>2</sup>__ _v_ :two::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
@@ -8474,7 +8479,7 @@ __precision__ _Precision medicine._
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
-__predicament__ _n_ :three::hammer: _Hearsay suggests that green apples can induce such a predicament._  
+__predicament__ _n_ :six::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._  
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
@@ -8548,7 +8553,8 @@ __priming__ _v_
 __primly__ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
-__prior__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
+__prior<sup>1</sup>__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
+__prior<sup>2</sup>__ _n_ (priors)  
 __prioritize__ _v_  
 __prise__ _n_  
 __prissy__ _adj_ :two::hammer:  
@@ -8672,7 +8678,7 @@ __pullback__ :two::hammer:
 __pulled pork sandwich__  
 __pulley__ _n_ :pencil2::mega:  
 __pullout__ _Pullout couches._  
-__pulpit__ :two::hammer:  
+__pulpit__ _n_ :three::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :five::hammer: (pummeled)  
@@ -10308,7 +10314,7 @@ __smallpox__ :two::hammer:
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
 __smart case__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
-__smart__ :two::hammer: _Smart riding-clothes._ _Smart tailored jackets._  
+__smart__ _adj_ :three: Clean and neat in appearance and dressed in nice fashionable clothes, especially in a slightly formal way. _Smart riding-clothes._ _The man was smartly dressed._ _Smart tailored jackets._  
 __smart-alecky__ _adj_ _informal_ Rude and disrespectful: _Smart-alecky wit._  
 __smarter than the average bear__  
 __smash hit__  
@@ -10654,7 +10660,7 @@ __squad car__ _n_ :four::hammer: _The squad car camera was not activated._
 __squad__ _n_ :four::hammer: _The Olympics squad._  
 __squalid__ _adj_ :pencil2::three::hammer: _Squalid home._  
 __squall__ :two::hammer:  
-__squalor__ _n_ :five: The condition or quality of being squalid; disgusting dirt and filth.  
+__squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander__  
 __square deal__  
 __square dsncing__  
@@ -12435,7 +12441,7 @@ __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent
 __weaknesses__ _What are your personal strengths and weaknesses?_  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :two::hammer:  
+__weaponize__ _v_ :three::hammer:  
 __weary__  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor', 'Manager', and 'Super'._  
@@ -12620,7 +12626,7 @@ __wimpiness__
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
 __win back__ _phr v_ To get back something that you have lost.  
-__wince__ _v_ :five::hammer: (winced, wincing) _He was wincing in pain._  
+__wince__ _v_ :six::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind down__ _phr v_ :two: To diminish gradually in force or power; relax.  
@@ -12730,7 +12736,7 @@ __worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, 
 __would__ :mute:[wou~~l~~d]  
 __wow factor__  
 __wow__ _v_ :two::hammer:  
-__wracking__ _v_  
+__wracked__ _v_ :two: (wracked, wracking) Smash or break forcefully.  
 __wraith__  
 __wrangle__ _v_ :two::hammer: (wrangling)  
 __wrap (one's) head around it__ _idiom_ :five: To comprehend something that one considers challenging, confusing, or a foreign concept. _I'm trying to wrap my head around it._  

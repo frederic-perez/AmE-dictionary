@@ -1,26 +1,4 @@
 
-__brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
-__jut out__ _v_ _Pipes jutting out of the windows._  
-__predicament__ _n_ :three::hammer: _I'm sorry to see you in this predicament._  
-__futility__  
-__outlandish__ _adj_  
-__gobs__ _n_ _He vomited gobs of saliva._  
-__gaunt__ _adj_  
-
-__pit toilet__ _n_  
-__wracked__ _v_  
-__wince__ _v_ (wincing) _Wincing in pain._  
-__gash__ _n_  
-__doggedly__  
-__oatmeal__ _n_  
-__smart__ _The man was smartly dressed._  
-__just__ _adj_ _The punishments were fair, just and appropriate._  
-__squalor__  
-
-__depolarize__ _v_  
-__weaponize__  
-__prior__ _n_ (priors)  
-__pulpit__ _n_  
 __Amish__ _n_ _Amish country._  
 __raunchy__  
 __chain smoker__  
