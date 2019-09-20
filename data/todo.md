@@ -1,4 +1,13 @@
 
+__scout out__ _v_ To examine a place or area in order to get information about it.  
+__cyanide__ _n_ A very strong poison.  
+__gum__ _n_ (gums)  
+__flimsy__ _adj_  
+__latch__ _n_  
+__snoop__ _v_ To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
+__oblast__ _n_ :two: An administrative subdivision, or region, of a republic in the U.S.S.R.  
+__concourse__ _n_  
+
 __Amish__ _n_ _Amish country._  
 __raunchy__  
 __chain smoker__  
