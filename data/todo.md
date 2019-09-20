@@ -1,4 +1,13 @@
 
+__within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
+__sage__ _n_ :es: salvia  
+__begrudge__ _v_  
+__taxidermy__ _n_  
+__Orange Julius__  
+__mortification__ _n_  
+__mortify__ _v_  
+__smattering__ _n_  
+
 __rarefied__ _adj_ :astonishted: Extremely high or elevated; lofty; exalted.  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __don't count your chickens before they hatch__ _idiom_ :dart: Don’t make future plans based on something that has not happened yet.  
