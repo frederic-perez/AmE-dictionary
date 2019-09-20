@@ -1,4 +1,15 @@
 
+__rarefied__ _adj_ :astonishted: Extremely high or elevated; lofty; exalted.  
+__second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
+__don't count your chickens before they hatch__ _idiom_ :dart: Don’t make future plans based on something that has not happened yet.  
+__don__ _v_ Put on (an item of clothing).  
+__jerk__ _n_ _slang_ Mean or unlikeable person.  
+__spigot__ _n_ The male end of a segment of pipe. _You've seen a big water tank with a spigot hanging out over the train tracks._  
+__drop a bombshell__ _idiom_ To announce shocking news.  
+__tidy up__ _phr v_ To put something in order; to clean something.  
+__drop (someone or something) like a hot potato__ _idiom_ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
+__lush__ _idiom_ A person who drinks alcohol habitually or excessively; a drunkard.  
+
 __scout out__ _v_ To examine a place or area in order to get information about it.  
 __cyanide__ _n_ A very strong poison.  
 __gum__ _n_ (gums)  
