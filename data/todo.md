@@ -1,4 +1,13 @@
 
+__palatable__ _adj_  
+__beholden__ _adj_  
+__in and of itself__ _idiom_ Considering it alone.  
+__endgame__ _idiom_ The final stages of a process, development, or activity.  
+__Teflon__ _n_ :mega:  
+__Velcro__ _n_  
+__Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn's Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
+__riches__ _n_ :two::hammer:  
+
 __lowlife__ _n_ _slang_ A criminal or disreputable person.  
 __drop in the bucket__ _idiom_ A very small or unimportant amount.  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
