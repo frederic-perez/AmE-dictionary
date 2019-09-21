@@ -1,4 +1,15 @@
 
+__lowlife__ _n_ _slang_ A criminal or disreputable person.  
+__drop in the bucket__ _idiom_ A very small or unimportant amount.  
+__la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
+__slubber__ _v_ To do in a hurried or imperfect manner. 
+__loll__ _v_  
+__avalanche__ _n_  
+__muddle through__ _phr v_ To manage to do something despite difficulties.  
+__ingrate__ _n_ An ungrateful person.  
+__refugium__ _n_  
+__prepone__ _v_ To bring forward to an earlier time.  
+
 __bade farewell__  
 __clamber__ _v_ (clambered)  
 __straddle__ _v_ (straddling)  
