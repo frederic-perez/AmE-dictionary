@@ -1,4 +1,13 @@
 
+__bade farewell__  
+__clamber__ _v_ (clambered)  
+__straddle__ _v_ (straddling)  
+__sallow__ _adj_ Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._  
+__wheeze__ _v_ (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick.  
+__dump__ _v_ _Dumping ash on the carpet._  
+__cigarette stub__ _n_ Another name for a cigarette butt.  
+__smoulder__ _v_ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
+
 __monsoon__ _n_  
 __hygroscopic__  
 __deleterious__ _adj_ Harmful often in a subtle or unexpected way.  
