@@ -1,26 +1,4 @@
 
-__palatable__ _adj_  
-__beholden__ _adj_  
-__in and of itself__ _idiom_ Considering it alone.  
-__endgame__ _idiom_ The final stages of a process, development, or activity.  
-__Teflon__ _n_ :mega:  
-__Velcro__ _n_  
-__Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn's Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
-__riches__ _n_ :two::hammer:  
-
-__lowlife__ _n_ _slang_ A criminal or disreputable person.  
-__drop in the bucket__ _idiom_ A very small or unimportant amount.  
-__la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
-__slubber__ _v_ To do in a hurried or imperfect manner. 
-__loll__ _v_  
-__avalanche__ _n_  
-__muddle through__ _phr v_ To manage to do something despite difficulties.  
-__ingrate__ _n_ An ungrateful person.  
-__refugium__ _n_  
-__prepone__ _v_ To bring forward to an earlier time.  
-
-__bade farewell__  
-__clamber__ _v_ (clambered)  
 __straddle__ _v_ (straddling)  
 __sallow__ _adj_ Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._  
 __wheeze__ _v_ (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick.  

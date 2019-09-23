@@ -557,6 +557,7 @@ __autocratic__ _adj_ :three::hammer:
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ :mute:[autum~~n~~]  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
+__avalanche__ _n_  
 __aver__ _v_  
 __average citizens__  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
@@ -623,7 +624,7 @@ __bad-mouth__ _v_ :two::hammer:
 __badass<sup>1</sup>__ _n_  
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _It's just what Bond fans want in a baddie._  
-__bade__ _v_ :four::hammer: _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
+__bade__ _v_ :five::hammer: _Bade farewell._ _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
@@ -2038,7 +2039,7 @@ __claim__ _The White Sox claimed the 2005 title._
 __claimants__ :two::hammer:  
 __clam up__ _v_  
 __clambake__ _n_  
-__clamber__ _v_ :eight: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
+__clamber__ _v_ :nine: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
@@ -3396,7 +3397,7 @@ __drone<sup>1</sup>__ _The drone of an outboard motor reverberated._
 __drone<sup>2</sup>__ _v_  
 __drop by__ _v_  
 __drop dead__  
-__drop in the bucket__  
+__drop in the bucket__ _idiom_ :two: A very small or unimportant amount.  
 __drop out__  
 __drop the ball__ _idiom_ To make a mistake, to fail.  
 __drop__ _n_  
@@ -3652,7 +3653,7 @@ __end run__ :two::hammer:
 __endangerment__  
 __endeared__  
 __endearing__ _adj_ :seven: Inspiring affection. _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
-__endgame__  
+__endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
 __endow__ _v_  
 __endowed__ :two::hammer:  
@@ -5718,6 +5719,7 @@ __improvidence__
 __impunity__  
 __in a nutshell__  
 __in all likelihood__  
+__in and of itself__ _idiom_ Considering it alone.  
 __in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
 __in cahoots__  
 __in check__ _Keep those emotions in check._  
@@ -5828,6 +5830,7 @@ __infotainment system__
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrained__ _adj_ :four::hammer: _Speeding is deeply ingrained in American culture._  
+__ingrate__ _n_ An ungrateful person.  
 __ingratiate__ _v_ :three::hammer:  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
@@ -6241,6 +6244,7 @@ __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.
 __Kumbaya__ _n_  
 __kybosh__ _v_  
 __L-plate__ _He saw the L-plate on the back of the car._  
+__la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
 __Labrador__  
 __labrotories__ ?  
@@ -6576,7 +6580,7 @@ __loggerheads__
 __loincloths__  
 __loins__ _n_ :two::hammer:  
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
-__loll__ _v_ :three::hammer::pencil2: (lolled, lolling)  
+__loll__ _v_ :four::hammer::pencil2: (lolled, lolling)  
 __lollipop__ _n_ (lollypop)  
 __lone wolf__ _They are lone wolf attacks._  
 __loner__ Someone who likes being alone.  
@@ -6638,7 +6642,7 @@ __lowbrow__
 __lowdown__ _n_ _Slang_ :four: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
-__lowlife__  
+__lowlife__ _n_ _slang_ :two: A criminal or disreputable person.  
 __lowlights__  
 __lowly__ _adj_ :three::hammer:_A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
@@ -7169,6 +7173,7 @@ __muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal ma
 __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
 __mudcat__ _n_  
+__muddle through__ _phr v_ To manage to do something despite difficulties.  
 __muddle__ _v_ :four: Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mudslide__ _n_ :two::hammer:  
@@ -7805,7 +7810,7 @@ __paint the town red__ _idiom_ Have a good time.
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __palanquin__ _n_  
-__palatable__ :two::hammer:  
+__palatable__ _adj_ :three::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
 __paleo__  
@@ -8496,6 +8501,7 @@ __Prep__
 __prep__ (prepping) _I was prepping for the show._  
 __prep<sup>1</sup>__ _n_? (preparatory?)  
 __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
+__prepone__ _v_ To bring forward to an earlier time.  
 __preposterous__ _adj_ :seven::hammer:  
 __preposterously__ :two::hammer:  
 __preppers__  
@@ -9066,6 +9072,7 @@ __reffing__
 __refractory__ _adj_  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_  
+__refugium__ _n_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__ :two::hammer:  
 __refuse__ _n_  
@@ -9236,7 +9243,7 @@ __rhythm__ :mute:[r~~h~~ythm]
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ :two::hammer:  
-__riches__ _pl n_ :five: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
+__riches__ _pl n_ :seven: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
@@ -10281,6 +10288,7 @@ __slough<sup>1</sup>__ _n_ :three::hammer:
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
+__slubber__ _v_ To do in a hurried or imperfect manner.  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
 __slug<sup>1</sup>__ _n_  
@@ -11275,6 +11283,7 @@ __tamale__ _I'm staying away from that one--that's a hot tamale._
 __tamp down__ _v_ :two::hammer:  
 __tan__ Color?  
 __tang__ _n_ :four::hammer: _Dory, the little blue tang fish._  
+__Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn's Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
@@ -11355,6 +11364,7 @@ __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, 
 __teeter__ _v_ :eight: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
+__Teflon__ _n_ :mega:  
 __tektite__ _n_ :pencil2:  
 __telegenic__  
 __telekinesis__ _n_ :mega:  
@@ -12236,6 +12246,7 @@ __veggies__ _n pl_ _slang_ Vegetables.
 __vehicle__ :mute:[ve~~h~~icle]  
 __veil__ _v_  
 __vein__ _Gold vein._  
+__Velcro__ _n_  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__  
