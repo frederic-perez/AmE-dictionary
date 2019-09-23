@@ -827,12 +827,12 @@ __befitting__
 __before you know it__  
 __beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
-__befuddled__ :two::hammer:  
+__befuddle__ _v_ :three::hammer: (befuddled)  
 __befuddling__ :two::hammer:  
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar__ _n_  
 __beggar-thy-neighbor__  
-__begrudge__ _v_ :four::hammer: _No one could begrudge her that._  
+__begrudge__ _v_ :five::hammer: _No one could begrudge her that._  
 __begrudgingly__ :two::hammer:  
 __beguile__ _v_ :seven::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
@@ -1616,6 +1616,7 @@ __caliph__
 __caliphate__  
 __calisthenics__  
 __call for__  
+__call it even__ _idiom_ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
 __call of duty__  
 __call of nature__ _idiom_ The need to go to the toilet.  
 __call on someone__ _He called on me._  
@@ -1659,6 +1660,7 @@ __campsite__ _n_
 __campy__ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __canapé__ _n_  
+__canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :four::hammer: _Organic coffee canisters._  
@@ -2010,6 +2012,7 @@ __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach ch
 __chutneys__  
 __CID__  
 __cigar__ _n_ :mega:  
+__cigarette stub__ _n_ Another name for a cigarette butt.  
 __cigarillos__ :pencil2::camera::two::hammer:  
 __ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
 __cinch__ _n_ :two::hammer:  
@@ -2221,6 +2224,7 @@ __combs__ _n_ _The hens had red combs, wattles, and earlobes._
 __come across__  
 __come again?__  
 __come around__  
+__come close to blows__ _idiom_ To nearly devolve into a physical fight.  
 __come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
@@ -2486,6 +2490,7 @@ __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts
 __countenance__ _n_ :three::hammer: _His countenance was pale and sunken._  
 __counter__ _n_ _A lot of counter space._ :es: encimera  
 __counter-depth fridge__ :camera:  
+__counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
 __countered__ _Countered kitchen._  
 __counterfeit__ :two::hammer: _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __countermand__ _v_  
@@ -2924,7 +2929,7 @@ __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._
 __delectable__ _adj_ :three::hammer:  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _Non-delegatable actions._  
-__deleterious__ _adj_ :four::hammer:  
+__deleterious__ _adj_ :five: Harmful often in a subtle or unexpected way.  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
 __delight__ _v_ _It delighted me even though I expected it._  
@@ -3456,7 +3461,7 @@ __dumb__ :mute:[dum~~b~~]
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
-__dump<sup>2</sup>__ _v_ _They walkes to the trash can and dumped their cups._  
+__dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes to the trash can and dumped their cups._  
 __dumpling__ :two::hammer: (dumplings) _Bavarian bread dumpling._  
 __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
 __dun__ _Dun-colored hair._  
@@ -5621,6 +5626,7 @@ __HVAC__
 __hyacinth__ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
+__hygroscopic__  
 __hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
@@ -7098,7 +7104,7 @@ __monkey wrench__
 __monogramming__  
 __mononyms__  
 __monopoly__ :mega: /mə-nŏp′ə-lē/  
-__monsoon__ _n_ :three::hammer:  
+__monsoon__ _n_ :four::hammer:  
 __monstrosity__ :pencil2::two::hammer:  
 __moody__ :two::hammer:  
 __moon roof__  
@@ -7452,6 +7458,7 @@ __nullify__ _v_ :three::hammer: (nullified)
 __numb__ :two::mute:[num~~b~~]:hammer:  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are numbered as Vizier._  
+__numbers game__ _n_  
 __numbly__  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
@@ -8864,6 +8871,7 @@ __raging bull__ _The strength of a raging bull._
 __ragpicker__ _n_ _The ragpicker's dream._  
 __ragtag__ _n_ :three::hammer: _A ragtag group._  
 __rah-rah__  
+__raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
 __rail<sup>2</sup>__ _v_ :three::hammer: (railed) _He is railing against Medicaid._  
 __raiment__ _n_ :two::hammer:  
@@ -9500,7 +9508,7 @@ __safety pin__ _n_ :es: imperdible
 __saffron__ _n_ :three::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
-__sage<sup>1</sup>__ _n_  
+__sage<sup>1</sup>__ _n_ :two::hammer: :es: salvia  
 __sage<sup>2</sup>__ _adj_ :three::hammer: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
@@ -9512,7 +9520,7 @@ __salad spinner__ _n_
 __sales force__  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
-__sallow__ _adj_ :four: Of a sickly yellowish hue or complexion. _A sallow face._ _A sallow complexion._  
+__sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._ _A sallow face._ _A sallow complexion._  
 __salmon__ _n_ :mute:[sa~~l~~mon]:astonished::four:  
 __salt away__  
 __salt of the Earth__  
@@ -10357,7 +10365,7 @@ __smorgasbord__
 __smote__ _v_  
 __smothered__  
 __smothering__  
-__smouldering__  
+__smoulder__ _v_ :two: (smouldering) To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
 __smudge__  
 __smudges__  
 __smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
@@ -10923,7 +10931,7 @@ __stovepipe hat__
 __stow__ _v_  
 __stowage__  
 __stowaway__  
-__straddle__ _v_ :three::hammer: (straddles)  
+__straddle__ _v_ :four::hammer: (straddles, straddling)  
 __strafed__ _v_  
 __strafes__ _v_  
 __strafing__  
@@ -11344,6 +11352,7 @@ __tawny__ _n_ :two: A light brown to brownish orange.
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
 __taxa__  
+__taxidermy__ _n_  
 __taxpayer__ _n_  
 __TBD__  
 __tchotchkes__ :two::hammer: _Simpson tchotchkes._  
@@ -12527,7 +12536,7 @@ __wheelbarrow-sledges__
 __wheeled__ _v_ _Shallows dipped and wheeled._  
 __wheelie__  
 __wheelwright__ _n_  
-__wheeze__ _v_ :two::hammer: (wheezing) _Wheezing economy._  
+__wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick. _Wheezing economy._  
 __whelp__  
 __when pigs fly__ _idiom_ Never, impossible.  
 __when the chips are down__ _idiom_ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
@@ -12693,6 +12702,7 @@ __withe down__ _v_
 __wither__ _v_ :three::hammer: (withers, withered)  
 __withes__ _n_ :two::hammer:  
 __withhold__  
+__within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
 __without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
 __wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  

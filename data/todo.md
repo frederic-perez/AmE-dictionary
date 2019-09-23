@@ -1,26 +1,4 @@
 
-__straddle__ _v_ (straddling)  
-__sallow__ _adj_ Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._  
-__wheeze__ _v_ (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick.  
-__dump__ _v_ _Dumping ash on the carpet._  
-__cigarette stub__ _n_ Another name for a cigarette butt.  
-__smoulder__ _v_ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
-
-__monsoon__ _n_  
-__hygroscopic__  
-__deleterious__ _adj_ Harmful often in a subtle or unexpected way.  
-__raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
-__call it even__ _idiom_ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
-__canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
-__numbers game__ _n_  
-__befuddle__ _v_  
-__counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
-__come close to blows__ _idiom_ To nearly devolve into a physical fight.  
-
-__within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
-__sage__ _n_ :es: salvia  
-__begrudge__ _v_  
-__taxidermy__ _n_  
 __Orange Julius__  
 __mortification__ _n_  
 __mortify__ _v_  
