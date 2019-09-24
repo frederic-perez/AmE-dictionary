@@ -1,4 +1,13 @@
 
+__appalled__ _adj_  
+__die out__ _phr v_  
+__pomegranate__ (?)  
+__basil__  
+__watermelon__ _n_ :pencil2:  
+__aniseed__ _n_  
+__etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
+__collocation__ _n_ (collocations)  
+
 __feather your own nest__ _idiom_ To use your position or your job to get a lot of money for yourself.  
 __contranym__ _n_ A word that has opposite or nearly opposite meanings, as _cleave_, meanint "to adhere closely" and "to part or split."  
 __good sport__ _idiom_ A person who takes a bad situation well.  
