@@ -1,4 +1,13 @@
 
+__feather your own nest__ _idiom_ To use your position or your job to get a lot of money for yourself.  
+__contranym__ _n_ A word that has opposite or nearly opposite meanings, as _cleave_, meanint "to adhere closely" and "to part or split."  
+__good sport__ _idiom_ A person who takes a bad situation well.  
+__wake-up call__  
+__elephant in the room__ _idiom_ An obvious problem that people do not want to talk about.  
+__bona fides__ _n_ Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate.  
+__mug__ _n_ _informal_ The human face.  
+__top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
+
 __Orange Julius__  
 __mortification__ _n_  
 __mortify__ _v_  
