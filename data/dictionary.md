@@ -324,6 +324,7 @@ __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :nine: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
+__aniseed__ _n_  
 __ankle-biter__ Child.  
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
@@ -367,7 +368,7 @@ __apostate__ _n_ :three::hammer: (apostates)
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
-__appalled__ _adj_ :three: Shocked or dismayed; filled with horror.  
+__appalled__ _adj_ :four: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
@@ -730,6 +731,7 @@ __basement__
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __bash<sup>2</sup>__ _v_  
 __bashful__  
+__basil__ _n_ :es: albahaca  
 __basin__  
 __basing__  
 __basket case__  
@@ -1162,7 +1164,7 @@ __bombing__ _v_
 __bombshell__ _n_  
 __bombsights__  
 __bon ton__  
-__bona fide__ _adj_ :six: Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith.  
+__bona fide__ _adj_ :seven: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith.  
 __bonanza__ _n_ :two::hammer: _Banana bonanza._  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
@@ -2207,6 +2209,7 @@ __colleague__ :mute:[colleag~~u~~e]
 __collect__ _v_ _Click and collect._  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
+__collocation__ _n_ (collocations)  
 __collude__ _v_  
 __collusion__ _n_ :five::hammer:  
 __colocation > data colocation__  
@@ -2387,6 +2390,7 @@ __contingent__ _The University of Illinois conducts criminal background checks o
 __continual__ :two::hammer: _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_  
+__contranym__ _n_ A word that has opposite or nearly opposite meanings, as _cleave_, meaning "to adhere closely" and "to part or split."  
 __contraption__  
 __contrarian__  
 __contretemps__  
@@ -3035,6 +3039,7 @@ __diction__ _n_ :three::hammer: _The priest diction._
 __diddle-shit__  
 __diddle-squat__  
 __die down__ _phr v_ To lose strength; subside: _The winds died down._  
+__die out__ _phr v_  
 __die with your boots on__ _idiom_ To die while you are still actively involved in your work.  
 __die-cast__ _Merchandise and die-cast sales._  
 __die-hard__ Person who resists change.  
@@ -3588,7 +3593,7 @@ __eldest__ (is this right?)
 __Election Day__  
 __elective__ _Other students can take up to four fine arts electives._  
 __elegy__ :two::hammer:  
-__elephant in the room__  
+__elephant in the room__ _idiom_ :two: An obvious problem that people do not want to talk about.  
 __elevator boy__  
 __elevator control box__  
 __elevator operator__ :camera:  
@@ -3761,6 +3766,7 @@ __etchings__
 __ethereal__ _adj_  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiquette__  
+__etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
 __eulogy__ _n_ :three::hammer:  
 __eunuch__ _n_  
@@ -3970,6 +3976,7 @@ __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of
 __fearl__ _A fearl youngster._  
 __feasible__ _adj_  
 __feast__ _v_ :two::hammer:  
+__feather your own nest__ _idiom_ To use your position or your job to get a lot of money for yourself.  
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature movie__  
 __feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
@@ -4827,7 +4834,7 @@ __good egg__ _A heel who learns how to be a good egg._
 __good for you__  
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
-__good sport(s)__ _idiom_ :two::hammer:  
+__good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
 __good-nature__  
 __goodliest__ :two::hammer:  
 __goodly__  
@@ -7135,8 +7142,8 @@ __mortar shell__
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
 __mortgage__ :mute:[mor~~t~~gage]  
 __mortice__  
-__mortification__  
-__mortify__ _v_ :five::hammer: (mortified)  
+__mortification__ _n_ :two::hammer:  
+__mortify__ _v_ :six::hammer: (mortified)  
 __mortuaries__  
 __MOS__ _abbr_ :two: Mom over shoulder.  
 __mos.__ (Months?)  
@@ -7189,7 +7196,8 @@ __muff-diver__ _n_ :two::hammer:
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)  
 __muffler__ _n_ :two::hammer: _Syn_ silencer  
-__mug__ _v_ :two::hammer: (mugged, mugging)  
+__mug<sup>1</sup>__ _n_ _informal_ The human face.  
+__mug<sup>2</sup>__ _v_ :two::hammer: (mugged, mugging)  
 __mugger__ _n_ :two::hammer: (muggers)  
 __muggles__ _n_ :two::hammer:  
 __muggy__ :two::hammer: _The weather was muggy._  
@@ -7635,6 +7643,7 @@ __opt out__ _v_
 __opticks__ _Obsolete form of optics._  
 __optometry__ _n_  
 __opulent__  
+__Orange Julius__  
 __orb__ _n_ :two::hammer:  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
@@ -8382,7 +8391,7 @@ __poltergeist__ :mega:
 __polyadic__  
 __polymath__ _n_ :three::hammer:  
 __polystyrene__  
-__pomegranates__ _n_  
+__pomegranate__ _n_ :two::hammer: (pomegranates)  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __pompous__ _adj_ :two::hammer:  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
@@ -10337,7 +10346,7 @@ __smash hit__
 __smash song__ _n_ _That was a smash song._  
 __smashing__  
 __smashmouth__  
-__smattering__ _n_ :nine: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
+__smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
 __smear<sup>1</sup>__ _v_ :six: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
@@ -11707,6 +11716,7 @@ __top bill__ _I'm not my usual top billing._
 __top dollars__  
 __top flight__ First division?  
 __top the bill__ _I'll top the bill, I'll overkill._  
+__top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
 __top-dog__  
 __top-flight__  
 __top-of-mind__  
@@ -12386,6 +12396,7 @@ __waive__ _v_ :five::hammer: (waived)
 __waiver__  
 __waivers__ _n_  
 __wake__ _n_ :four::hammer: _At wakes._ _Irish wake._  
+__wake-up call__  
 __walk in sunshine__  
 __walk on air__ To be very happy.  
 __walk on eggshells__  
@@ -12448,6 +12459,7 @@ __water seepage__
 __waterfowl__ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  
 __waterlogged__  
+__watermelon__ _n_ :pencil2:  
 __watershed__ _n_ :four::hammer: _A watershed moment._ _Dignataries recognized the watershed moment of his passing._  
 __waterway__  
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  

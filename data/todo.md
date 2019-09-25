@@ -1,27 +1,4 @@
 
-__appalled__ _adj_  
-__die out__ _phr v_  
-__pomegranate__ (?)  
-__basil__  
-__watermelon__ _n_ :pencil2:  
-__aniseed__ _n_  
-__etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
-__collocation__ _n_ (collocations)  
-
-__feather your own nest__ _idiom_ To use your position or your job to get a lot of money for yourself.  
-__contranym__ _n_ A word that has opposite or nearly opposite meanings, as _cleave_, meanint "to adhere closely" and "to part or split."  
-__good sport__ _idiom_ A person who takes a bad situation well.  
-__wake-up call__  
-__elephant in the room__ _idiom_ An obvious problem that people do not want to talk about.  
-__bona fides__ _n_ Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate.  
-__mug__ _n_ _informal_ The human face.  
-__top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
-
-__Orange Julius__  
-__mortification__ _n_  
-__mortify__ _v_  
-__smattering__ _n_  
-
 __rarefied__ _adj_ :astonishted: Extremely high or elevated; lofty; exalted.  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __don't count your chickens before they hatch__ _idiom_ :dart: Don’t make future plans based on something that has not happened yet.  
