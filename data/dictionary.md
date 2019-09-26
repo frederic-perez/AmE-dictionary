@@ -285,6 +285,7 @@ __amethyst__ _n_ :two::hammer:
 __ametropia__ _n_  
 __amiable__  
 __amid__  
+__Amish__ _n_ _Amish country._  
 __amiss__ _adj_  
 __amity__  
 __ammo__  
@@ -2315,7 +2316,7 @@ __concise__
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ :two::hammer:  
 __concomitant__ :two::hammer:  
-__concourse__ _n_ :four::hammer:  
+__concourse__ _n_ :five::hammer:  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
@@ -2749,6 +2750,7 @@ __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat co
 __cuttin' a rug__  
 __cutting edge__  
 __CVD__ Cardiovascular disease.  
+__cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_  
 __cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
@@ -3249,7 +3251,8 @@ __dolirometer__
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
 __dolt__ :two::hammer:  
 __domicile__  
-__don't count your chickens before they hatch__ _idiom_ :two: (don't count your chickens before they're hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
+__don__ _v_ Put on (an item of clothing).  
+__don't count your chickens before they hatch__ _idiom_ :dart::three: (don't count your chickens before they're hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't tell me it's raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
@@ -3405,6 +3408,8 @@ __droit du seigneur__
 __droll__ _adj_ :four::hammer: _There is room for droll comedy._ _Droll comic moments._  
 __drone<sup>1</sup>__ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
+__drop (someone or something) like a hot potato__ _idiom_ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
+__drop a bombshell__ _idiom_ To announce shocking news.  
 __drop by__ _v_  
 __drop dead__  
 __drop in the bucket__ _idiom_ :two: A very small or unimportant amount.  
@@ -4203,7 +4208,7 @@ __flickered__ _v_ _The man flickered the reins._
 __fliddle__ _v_  
 __flight__ _n_ :dart::four::mute:[fli~~gh~~t] A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._  
 __flimflam__ _n_ :dart::two::hammer:  
-__flimsy__  
+__flimsy__ _adj_ :two::hammer:  
 __flinch<sup>1</sup>__ _n_  
 __flinch<sup>2</sup>__ _v_ :five: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __fling__ _v_ :six::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
@@ -5040,7 +5045,7 @@ __gulp<sup>2</sup>__ _v_ :three::hammer: _They gulped their soft drinks._
 __gum stump__  
 __gum tree__  
 __gum up__  
-__gum__ _n_ :two::hammer: _Racks of gum and candy._ :es: encía  
+__gum__ _n_ :three::hammer: (gums) _Racks of gum and candy._ :es: encía  
 __gumball__  
 __gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
 __gumption__  
@@ -5995,6 +6000,7 @@ __jelly doughnuts__
 __jelly glass__  
 __jeremiad__  
 __jerk around__  
+__jerk__ _n_ _slang_ Mean or unlikeable person.  
 __jerry__  
 __jersey snagging__ _football_  
 __jest__  
@@ -6332,7 +6338,7 @@ __last straw__ _idiom_ :two: The final problem in a series of problems.
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
-__latch<sup>1</sup>__ _n_ :two::hammer:  
+__latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
@@ -6692,7 +6698,8 @@ __lurch__ _v_ :seven::hammer: (lurched, lurching) _We lurched around a bend._ _T
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
-__lush__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
+__lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
+__lush<sup>2</sup>__ _idiom_ A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
 __luster<sup>1</sup>__ _n_  
 __luster<sup>2</sup>__ _v_ (lustered)  
@@ -7492,7 +7499,7 @@ __obi__ _n_
 __obit__ :two::hammer:  
 __obituaries__  
 __obituary__  
-__oblast__ _n_ :two::hammer:  
+__oblast__ _n_ :four: An administrative subdivision, or region, of a republic in the U.S.S.R.  
 __oblate__ _n_  
 __obligation__  
 __oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
@@ -8938,7 +8945,7 @@ __rapture<sup>2</sup>__ _v_
 __rapturous__  
 __rare news conference__  
 __rare__  
-__rarefied__  
+__rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.  
 __raring__  
 __rascal__  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
@@ -8969,7 +8976,7 @@ __rattling<sup>2</sup>__ _v_
 __ratty__ _adj_ _slang_ Dilapidated; in poor condition.  
 __raucous__ _adj_ :nine: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
-__raunchy__ _adj informal_ :four::hammer: _A raunchy comedy._  
+__raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :three::hammer:  
 __ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
@@ -9680,6 +9687,7 @@ __scoundrel__
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
+__scout out__ _v_ To examine a place or area in order to get information about it.  
 __scowl__ _v_ :five::hammer: (scowled, scowling)  
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
@@ -9753,6 +9761,7 @@ __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazona
 __seawall__  
 __seaweed__ :two::hammer:  
 __second nature__  
+__second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ _n_ :three: something that will help you gain a big advantage over your competitors, that they do not know about.  
@@ -10421,7 +10430,7 @@ __snit__ _President Trump responded with a typical Twitter-snit._
 __snitch__  
 __snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
-__snoop__ _v_  
+__snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
 __snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :four::hammer:  
@@ -10585,7 +10594,7 @@ __spent rocket stages__ :camera:
 __spew__ _v_ :six::hammer: (spewed) _Carbon-spewing coal power plants._  
 __spiel__  
 __spiffy__ :two::hammer:  
-__spigot__ _n_ :five: (spigots) A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._  
+__spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You've seen a big water tank with a spigot hanging out over the train tracks._  
 __spike<sup>1</sup>__ _n_  
 __spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
 __spill the beans__  
@@ -11569,7 +11578,7 @@ __ticklish__ :two::hammer:
 __ticky-tacky__ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __tidbit__ _n_ :pencil2::four::hammer: (tidbits) _He fed the cat tidbits._  
-__tidy up__  
+__tidy up__ _phr v_ :two: To put something in order; to clean something.  
 __tidy__ _A tidy plan._  
 __tie-dye__  
 __tie-up__ _n_  
