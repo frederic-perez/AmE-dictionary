@@ -255,7 +255,7 @@ __almond__ :mute:[a~~l~~mond]
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :three::hammer: _Dwyane Wade raised three fingers aloft._  
 __along with__  
-__alongside__  
+__alongside__ :two::hammer:  
 __aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
@@ -286,7 +286,7 @@ __ametropia__ _n_
 __amiable__  
 __amid__  
 __Amish__ _n_ _Amish country._  
-__amiss__ _adj_  
+__amiss__ _adj_ :two::hammer:  
 __amity__  
 __ammo__  
 __amnesty player__  
@@ -494,6 +494,7 @@ __assists__ _Green had 14 rebounds and nine assists._
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :four::hammer:  
+__assuredness__ _n_  
 __asthma__ _n_  
 __astigmatism__ _n_  
 __astir__  
@@ -803,7 +804,7 @@ __bedlam__ :two::hammer:
 __Bedouin__  
 __bedpan__ _n_  
 __bedridden__ _adj_ :three::hammer: _She was practically bedridden._  
-__bedrock__ _n_ :six: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
+__bedrock__ _n_ :seven: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedspreads__ _n_  
 __bedstead__  
@@ -1583,7 +1584,7 @@ __C.E.__ (CE) Of the period coinciding with the Christian era; preferred by some
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
 __cabana__ _n_ :two::hammer: (cabanas)  
-__cabbage__ _n_ :three::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
+__cabbage__ _n_ :four::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _Uncle-s Tom Cabin._  
 __cabinet__ :two::hammer: _A top cabinet job._  
 __cabinetry__  
@@ -1859,6 +1860,7 @@ __chafe<sup>2</sup>__ _n_
 __chafer__ _n_  
 __chagrin<sup>1</sup>__ _n_ :nine: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
 __chagrin<sup>2</sup>__ _v_ :two: (chagrined) Cause to feel shame; hurt the pride of.  
+__chain smoker__  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
@@ -2045,7 +2047,7 @@ __claim__ _The White Sox claimed the 2005 title._
 __claimants__ :two::hammer:  
 __clam up__ _v_  
 __clambake__ _n_  
-__clamber__ _v_ :nine: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._  
+__clamber__ _v_ :nine::m: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._ _She clambered down to the ground._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
@@ -2912,7 +2914,7 @@ __deferential__
 __deferentially__  
 __deferment__ :two::hammer:  
 __deferral__  
-__deferred__ _v_  
+__deferred__ _v_ :two::hammer:  
 __defiance__  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __defile__ _n_ :three::hammer:  
@@ -3932,6 +3934,7 @@ __fandom__ _n_ :two::hammer:
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
+__fantastic__ _adj_ :three::hammer::mega:  
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
@@ -5544,6 +5547,7 @@ __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, es
 __horselaugh__  
 __horsepower__ _Physical horsepower._  
 __horseradish__ _n_ :two::hammer:  
+__horseshit__ _n_ _That's like horseshit squared!_  
 __horseshoe__ :two::hammer: (horseshoes)  
 __horsetails__ _n_  
 __horticulture__  
@@ -5736,6 +5740,7 @@ __impromptu__ :two::hammer: _Some things are impromptu._
 __improvidence__  
 __impunity__  
 __in a nutshell__  
+__in abeyance__  
 __in all likelihood__  
 __in and of itself__ _idiom_ Considering it alone.  
 __in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
@@ -5798,6 +5803,7 @@ __incognito__
 __incongruities__ _n_  
 __incongruously__  
 __inconsequential__  
+__inconspicuous__  
 __incontrovertible__  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incrementally__ _Make it incrementally better._  
@@ -7230,7 +7236,7 @@ __murder book__ _n_ The case file of a murder investigation.
 __muriatic__  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
-__muse<sup>2</sup>__ _v_ :three::hammer: (mused) _He mused on his Facebook page about killing his wife._  
+__muse<sup>2</sup>__ _v_ :four::hammer: (mused) _He mused on his Facebook page about killing his wife._  
 __mush__ _n_ :four::hammer: _A mush brain._  
 __mush-mouth__ _The kid with the mush-mouth accent._  
 __mushers__  
@@ -7275,6 +7281,7 @@ __nag<sup>2</sup>__ _n_ (often derogator) A horse.
 __nagging__ _adj_ :four: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
 __nail it__  
+__nails__ _n_  
 __naïveté__  
 __name-and-likeness__  
 __name-calling__  
@@ -8586,6 +8593,7 @@ __prior<sup>1</sup>__ _adj_ :three::hammer: _Continued from the prior page._ _Hi
 __prior<sup>2</sup>__ _n_ (priors)  
 __prioritize__ _v_  
 __prise__ _n_  
+__prised out__ _v_  
 __prissy__ _adj_ :two::hammer:  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
@@ -8801,7 +8809,7 @@ __quaintly__ :two::hammer:
 __Quaker__  
 __quakes__ _v_  
 __qualify__ _v_  
-__qualm__ _n_ :seven: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
+__qualm__ _n_ :eight: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
 __quandary__ _n_ :eight: Difficult dilemma. _All-Star managers face quandary._  
 __quarrelsome__  
 __quarry__  
@@ -9937,7 +9945,9 @@ __shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy t
 __shell-shocked__ :two::hammer:  
 __shellfish__ _Shellfish stewed, jerked._  
 __shelling out__  
-__shelling__ _v_  
+__shelling<sup>1</sup>__ _n_ :es: bombardeo (?)  
+__shelling<sup>2</sup>__ _v_  
+__shells__ _n_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shenanigans__ :two::hammer:  
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
@@ -11797,6 +11807,7 @@ __trampolines__ _n_
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __tranquilizer__ _n_ :mega:  
 __transceiver__  
+__transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _I was transfixed by it._  
 __transient__ _adj_ :four::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
 __translate__ _That doesn't always translate, believe me._  

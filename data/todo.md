@@ -1,26 +1,4 @@
 
-__chain smoker__  
-__horseshit__ _n_ _That's like horseshit squared!_  
-__cabbage__ _n_  
-__fantastic__ _adj_ :three::hammer::mega:  
-
-__nails__ _n_  
-__prised out__ _v_  
-__shelling__ _n_ :es: bombardeo (?)  
-__shells__ _n_  
-__qualms__ _n_  
-__inconspicuous__  
-__clambered__ _v_ _She clambered down to the ground._  
-__assuredness__ _n_  
-__in abeyance__  
-__mused__ _v_  
-__sapped__ _v_ _His energy was sapped._  
-__alongside__  
-__amiss__  
-__bedrock__  
-__deferred__ _v_  
-
-__transfigure__ _v_ Change completely the nature or appearance of.  
 __cipher__ _n_ _idiom_ A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __crushing blow__ _idiom_ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __wonted__ _adj_ Commonly used or practiced; usual.  
