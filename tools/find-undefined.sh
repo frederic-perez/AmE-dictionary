@@ -5,6 +5,3 @@
 #
 
 /usr/bin/awk -f find-undefined.awk -- dictionary.md
-
-# -- eof
-

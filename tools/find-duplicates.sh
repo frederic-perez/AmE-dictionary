@@ -5,5 +5,3 @@
 #
 
 /usr/bin/awk -f find-duplicates.awk -- dictionary.md
-
-# -- eof
