@@ -1,4 +1,13 @@
 
+__go figure__ _idiom_ Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It's a terrible movie and it made $200 million. Go figure!_  
+__window shop__ _v_ (window shopping)  
+__apartheid__ _n_ :mega:  
+__nitty__ _adj_ _informal_ Foolish; stupid.  
+__back up__ _v_  
+__misgiving__ _n_  
+__outspoken__  
+__unwilling__ _adj_  
+
 __honest__ _adj_ _Syn_ straight, frank, ,blunt, sincere, up front  
 __clamant__ _adj_ Compelling or pressing; urgent.  
 __sitting duck__ _slang_  
