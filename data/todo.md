@@ -1,4 +1,13 @@
 
+__honest__ _adj_ _Syn_ straight, frank, ,blunt, sincere, up front  
+__clamant__ _adj_ Compelling or pressing; urgent.  
+__sitting duck__ _slang_  
+__fit like a glove__ _idiom_ To fit perfectly.  
+__finger-licking good__ _idiom_ Very tasty.  
+__shear__ _v_ To cut the wool off a sheep or other animal.  
+__order around__ _phr v_ To give commands to someone in a bossy way.  
+__foam at the mouth__ _idiom_ To be extremely angry.  
+
 __giddy__ _adj_ __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._  
 __shed__ _v_ A reptile sheds its skin.  
 __rapt__ _adj_ _In rapt silence._  
