@@ -1,4 +1,14 @@
 
+__entreat__ _v_ _Syn_ beg, plead  
+__come across__  
+__beguile__ _v_  
+__wee__ _adj_ _Syn_ tiny  
+__dissemble__ _v_ _Syn_ pretend  
+__cloak__ _v_ _Syn_ disguise  
+__rail__ _v_ _Syn_ scold  
+__gripe<sup>1</sup>__ _n_ _Syn_ complaint  
+__gripe<sup>2</sup>__ _v_ _Syn_ complain  
+
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __breach__ _v_  
