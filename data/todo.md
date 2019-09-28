@@ -1,4 +1,13 @@
 
+__giddy__ _adj_ __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._  
+__shed__ _v_ A reptile sheds its skin.  
+__rapt__ _adj_ _In rapt silence._  
+__conscript__ _v_ _I was conscripted into the army._  
+__echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
+__kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
+__dekulakization__ _n_  
+__unfathomable__  
+
 __cipher__ _n_ _idiom_ A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __crushing blow__ _idiom_ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __wonted__ _adj_ Commonly used or practiced; usual.  
