@@ -1,4 +1,13 @@
 
+__high-pressure__ _adj_ Aggressively and persistently persuasive.  
+__candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
+__breach__ _v_  
+__treble__ _v_ :dart: To make or become triple.  
+__auscultation__ _n_  
+__stethoscope__ _n_  
+__holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
+__grudge__ _n_  
+
 __go figure__ _idiom_ Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It's a terrible movie and it made $200 million. Go figure!_  
 __window shop__ _v_ (window shopping)  
 __apartheid__ _n_ :mega:  
