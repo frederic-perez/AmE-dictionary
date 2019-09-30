@@ -353,6 +353,7 @@ __anything but__ _It is anything but sweet._
 __anything goes__ :two::hammer:  
 __apace__ _Concussion concerns continue apace._  
 __Apart from that,__  
+__apartheid__ _n_ :mega:  
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_  
 __aphorism__ :two::hammer:  
@@ -548,6 +549,7 @@ __audacity__
 __audible__ _v_  
 __august__ _adj_  
 __aum__  
+__auscultation__ _n_  
 __auspices__  
 __austere__  
 __Austinites__ :two::hammer:  
@@ -838,7 +840,7 @@ __beggar__ _n_
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :five::hammer: _No one could begrudge her that._  
 __begrudgingly__ :two::hammer:  
-__beguile__ _v_ :seven::hammer: (beguiled, beguiling)  
+__beguile__ _v_ :eight::hammer: (beguiled, beguiling)  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
@@ -1288,7 +1290,7 @@ __brazenness__ _n_ The state or quality of being impudent or arrogantly self-con
 __brazer__  
 __brazier__  
 __breach<sup>1</sup>__ _n_  
-__breach<sup>2</sup>__ _v_ :five: (breached) To fail to keep. _Syn_ violate  
+__breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one's) neck__  
@@ -1665,6 +1667,7 @@ __campy__ _A campy biopic._
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __canapé__ _n_  
 __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
+__candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :four::hammer: _Organic coffee canisters._  
@@ -2112,7 +2115,8 @@ __clip__ _n_ :two::hammer: _A better newspaper clip._
 __clipped grass__  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
 __clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. :es: camarilla  
-__cloak__ :two::hammer: :es: capa, manto  
+__cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
+__cloak<sup>2</sup>__ _v_ _Syn_ disguise  
 __cloakroom__ _n_ :two::hammer:  
 __clobber__ _v_ :three::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
 __clock in__ _v_  
@@ -2227,7 +2231,7 @@ __combat<sup>1</sup>__ _n_
 __combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
 __combines__ _Basketball_  
 __combs__ _n_ _The hens had red combs, wattles, and earlobes._  
-__come across__  
+__come across__ :two::hammer:  
 __come again?__  
 __come around__  
 __come close to blows__ _idiom_ To nearly devolve into a physical fight.  
@@ -3170,7 +3174,7 @@ __dissatisfaction__ :two::hammer:
 __dissatisfied__ _adj_ :pencil2:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
-__dissemble__ _v_  
+__dissemble__ _v_ :two::hammer: _Syn_ pretend  
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :two::hammer:  
@@ -3710,6 +3714,7 @@ __entitle__ _v_ :four::hammer: (entitled) _They are entitled to know that._ _We 
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ :two::hammer: :es: séquito  
 __entrant__ :astonished:  
+__entreat__ _v_ _Syn_ beg, plead  
 __entrench__ _v_ :seven: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
@@ -4793,6 +4798,7 @@ __go awry__ :two::hammer:
 __go back to square one__ _idiom_ To start from the beginning.  
 __go ballistic__ _idiom_  
 __go dutch__  
+__go figure__ _idiom_ Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It's a terrible movie and it made $200 million. Go figure!_  
 __go for it!__  
 __go great lenghts__  
 __go native__ _You going native on me, Supercop?_  
@@ -4956,9 +4962,8 @@ __grinding__ _Bumping and grinding._
 __gring__ _The grind of life on the road._  
 __grip__ _v_  
 __grip-and-grin__ _Grip-and-grin shots._  
-__gripe<sup>1</sup>__ _n_ :astonished::four::hammer: _Not a single gripe._  
-__gripe<sup>2</sup>__ _v_  
-__griping__ _v_  
+__gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
+__gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ _That 1995 murder trial gripped USA._  
 __gripping__ :two::hammer: _A gripping contest._  
 __grisly__ _adj_ :five::hammer: _A grisly synagogue assault._  
@@ -5005,7 +5010,7 @@ __grown-up<sup>2</sup>__ _n_
 __grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
-__grudge<sup>2</sup>__ _n_ :six: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
+__grudge<sup>2</sup>__ _n_ :seven: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
 __grudgingly__ _adv_ :three::hammer:  
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
@@ -5392,6 +5397,7 @@ __high street__ _n_ _British informal_ :three::hammer:
 __high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
 __high__ :mute:[hi~~gh~~]  
 __high-fly__ _v_  
+__high-pressure__ _adj_ Aggressively and persistently persuasive.  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
@@ -5489,6 +5495,7 @@ __holler__
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __Holy Ghost__  
+__holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
 __holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.  
 __Holy Rood__  
 __Holy See__  
@@ -8897,7 +8904,7 @@ __ragtag__ _n_ :three::hammer: _A ragtag group._
 __rah-rah__  
 __raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
-__rail<sup>2</sup>__ _v_ :three::hammer: (railed) _He is railing against Medicaid._  
+__rail<sup>2</sup>__ _v_ :four::hammer: (railed) _Syn_ scold _He is railing against Medicaid._  
 __raiment__ _n_ :two::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _football_  
@@ -10871,6 +10878,7 @@ __stepping stone__
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
 __sterling__ _n_ :three::hammer: _A sterling example._  
 __stern__ _n_ :two::hammer:  
+__stethoscope__ _n_  
 __stew-bums__ _n_  
 __stew<sup>1</sup>__ _n_ :three::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
 __stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._  
@@ -11836,7 +11844,7 @@ __treasure__ _v_ :three::hammer:
 __treat<sup>1</sup>__ _v_  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
-__treble<sup>2</sup>__ _v_ :two::hammer:  
+__treble<sup>2</sup>__ _v_ :three::dart: To make or become triple.  
 __trellis__ _n_ :five::hammer:  
 __trellises__ _From his trellises._  
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
@@ -12509,7 +12517,7 @@ __wedgie__
 __wedhe issue__  
 __wedlock__ :two::hammer:  
 __Wednesday__ :mega::mute:[we~~d~~nesday] /'wEnzdi, -deI/  
-__wee__ _adj_ :three: _chiefly Scot_ Very small. _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
+__wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __weed out__ _phr v_ :dart::three: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
@@ -12686,6 +12694,7 @@ __wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind 
 __winded__  
 __windlass__  
 __window sash__ _n_  
+__window shop__ _v_ (window shopping)  
 __windshear__ _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
 __windstorm__  
