@@ -597,7 +597,7 @@ __back country__ _n_
 __back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back out__ _v_ :three::hammer:  
-__back up__ _v_ :three: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
+__back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
 __back-heel pass__  
 __back-of-house__ _Back-of-house technology._  
 __back-office__ _Back-office analytics._  
@@ -2049,6 +2049,7 @@ __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. 
 __claim__ _The White Sox claimed the 2005 title._  
 __claimants__ :two::hammer:  
 __clam up__ _v_  
+__clamant__ _adj_ Compelling or pressing; urgent.  
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._ _She clambered down to the ground._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
@@ -2360,7 +2361,7 @@ __conjure__ :two::hammer:
 __conman__  
 __connivance__ _n_ :two: Agreement on a secret plot.  
 __connive__ _v_ :four::hammer: (connived, conniving)  
-__conscripted__ _v_ :two::hammer:  
+__conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__  
 __consecutive__  
 __consensual__  
@@ -2937,6 +2938,7 @@ __dehydration__
 __deigned__ _v_  
 __dejected__  
 __deking__  
+__dekulakization__ _n_  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ _adj_ :three::hammer:  
 __delegacy__ _n_ A group of representatives or delegates.  
@@ -3545,6 +3547,7 @@ __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
 __ebullient__ :two::hammer:  
+__echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__  
 __echo__ :mute:[ec~~h~~o]  
 __eclampsia__  
@@ -4102,6 +4105,7 @@ __finesse<sup>2</sup>__ _v_
 __finest hour__ :astonished:  
 __finger on the pulse__ _idiom_  
 __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
+__finger-licking good__ _idiom_ Very tasty.  
 __finger-waggers__  
 __finicky__ _adj_ :three:hammer:  
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
@@ -4126,6 +4130,7 @@ __fish__ _n_ Plural: fish.
 __fissile__ _Fissile material._  
 __fist-pumper__  
 __fists bumping__  
+__fit like a glove__ _idiom_ To fit perfectly.  
 __fit the bill__ :two::hammer: _His appearance fitted the bill._  
 __fit__ :two::hammer:  
 __fitful__ :two::hammer:  
@@ -4295,6 +4300,7 @@ __fly-by-night__
 __flyboard__  
 __flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
+__foam at the mouth__ _idiom_ To be extremely angry.  
 __fob__ :two::hammer:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
@@ -4718,7 +4724,7 @@ __Gibson glass__
 __giddily__  
 __giddiness__ :two::hammer:  
 __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
-__giddy__ _adj_ :nine: Having a sensation of whirling and a tendency to fall or stagger; dizzy. _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
+__giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
 __gig<sup>2</sup>__ _v_ :two::hammer: (gigging)  
 __giggling__  
@@ -5516,7 +5522,7 @@ __homestretch__ _n_ :two::hammer:
 __homie__ _Homies for life._  
 __homophobic__  
 __honcho__ _n_ :three::hammer: (honchos)  
-__honest__ :mute:[~~h~~onest]  
+__honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
 __honeysuckle__  
@@ -6273,6 +6279,7 @@ __krauts__
 __krinkled__  
 __kroop__  
 __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
+__kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __Kumbaya__ _n_  
 __kybosh__ _v_  
 __L-plate__ _He saw the L-plate on the back of the car._  
@@ -7060,7 +7067,7 @@ __miserable__ _We are miserable._
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
-__misgiving__ _n_ :three::hammer: (misgivings)  
+__misgiving__ _n_ :four::hammer: (misgivings)  
 __misguided__ _adj_  
 __mishap__ :mega::two::hammer:  
 __mishmash__ :two::hammer:  
@@ -7409,6 +7416,7 @@ __nitpick<sup>1</sup>__ _n_
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
+__nitty__ _adj_ _informal_ Foolish; stupid.  
 __nitty-gritty__ _n_ :four: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
@@ -7668,6 +7676,7 @@ __Orange Julius__
 __orb__ _n_ :two::hammer:  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
+__order around__ _phr v_ To give commands to someone in a bossy way.  
 __orderliness__ _n_ __1__ The quality of appreciating method and system. __2__ A condition of regular or proper arrangement; _he put his desk in order_; _the machine is now in working order._  
 __orderly__ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
@@ -7763,7 +7772,7 @@ __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._
 __outsize__ :two::hammer: _An outsize risk._  
 __outsmart__ _v_  
 __outspend__ _v_  
-__outspoken__ _adj_ :nine::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
+__outspoken__ _adj_ :nine::m::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstanding__ _adj_  
 __outstripped__ _v_  
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "out of." _Straight outta Tahoe._  
@@ -8953,7 +8962,7 @@ __rapidly__
 __rapier__ _n_ :two: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapping__ _v_  
 __rapprochement__ _n_ :three::hammer:  
-__rapt<sup>1</sup>__ _adj_ :three::hammer: _Robert C. Cone had a rapt audience._  
+__rapt<sup>1</sup>__ _adj_ :four::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
 __rapture<sup>1</sup>__ _n_ :four::hammer: _The film _Carol_ left critics in rapture._  
 __rapture<sup>2</sup>__ _v_  
@@ -9928,10 +9937,10 @@ __shaved ice__
 __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
 __shea oil__  
 __sheaf__  
-__shear__ _v_  
+__shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
-__shed__ _v_ :three::hammer: Park (a vehicle) in a depot. _The rookie has shed his walking boot and says he'll be fine._ _Wing de-icing systems are designed to shed the moisture._  
+__shed__ _v_ :four: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he'll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
@@ -10175,7 +10184,7 @@ __sit__ _v_ _Stop sitting on the bull._
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sitdown__ _n_ :two::hammer:  
 __sitter__ _n_  
-__sitting duck__  
+__sitting duck__ _n_ _informal_ :two: An easy target or victim.  
 __sitting on the fence__ _idiom_  
 __sitting pretty__ _idiom_ :three: Living in comfort.  
 __sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
@@ -12163,7 +12172,7 @@ __untuck__ _v_
 __unwarranted__  
 __unwielding__  
 __unwieldy__  
-__unwilling__ _Unwilling medical director._  
+__unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_  
 __unwittingly__ :two::hammer:  
 __unyield__ _v_  

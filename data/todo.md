@@ -1,26 +1,4 @@
 
-__nitty__ _adj_ _informal_ Foolish; stupid.  
-__back up__ _v_  
-__misgiving__ _n_  
-__outspoken__  
-__unwilling__ _adj_  
-
-__honest__ _adj_ _Syn_ straight, frank, ,blunt, sincere, up front  
-__clamant__ _adj_ Compelling or pressing; urgent.  
-__sitting duck__ _slang_  
-__fit like a glove__ _idiom_ To fit perfectly.  
-__finger-licking good__ _idiom_ Very tasty.  
-__shear__ _v_ To cut the wool off a sheep or other animal.  
-__order around__ _phr v_ To give commands to someone in a bossy way.  
-__foam at the mouth__ _idiom_ To be extremely angry.  
-
-__giddy__ _adj_ __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._  
-__shed__ _v_ A reptile sheds its skin.  
-__rapt__ _adj_ _In rapt silence._  
-__conscript__ _v_ _I was conscripted into the army._  
-__echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
-__kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
-__dekulakization__ _n_  
 __unfathomable__  
 
 __cipher__ _n_ _idiom_ A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
