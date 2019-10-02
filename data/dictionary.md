@@ -18,6 +18,7 @@ __a bird in the hand is worth two in the bush__
 __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
+__a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
@@ -67,6 +68,7 @@ __accolade__ _n_ :six: An award or privilege granted as a special honour or as a
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
+__accomplice__  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
 __according to plan__ :two::hammer: _If everything goes according to plan._  
 __account for__ _phr v_ To explain.  
@@ -547,7 +549,7 @@ __auction > silent auction__
 __auction off__ _phr v_ To sell something in an auction.  
 __audacity__  
 __audible__ _v_  
-__august__ _adj_  
+__august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __aum__  
 __auscultation__ _n_  
 __auspices__  
@@ -899,7 +901,7 @@ __benevolent__
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._  
 __bento__ Boxed meals.  
-__bequeathed__ _v_ :six::hammer:  
+__bequeath__ _v_ :seven::hammer; (bequeathed)  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :seven: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_ :two::hammer:  
@@ -1412,7 +1414,7 @@ __buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: 
 __buckaroo__ _n_ :two: A cowboy – used especially when talking to children. The iconic figure of the cowboy has gone by many other names in American English, including buckaroo, cowhand, cowman, cowpoke, cowpuncher, vaquero, and waddy, and two of these words, buckaroo and vaquero, come from Spanish. In California, however, the Spanish word vaquero was Anglicized to buckaroo.  
 __bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
 __buckeyes__  
-__buckle down (to something)__ _v informal_ :five: To start to do something seriously: _I'd better buckle down to those reports._  
+__buckle down (to something)__ _v informal_ :six::dart: To apply oneself with determination. To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::hammer:  
@@ -1609,7 +1611,7 @@ __cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answ
 __cagily__ _adv_  
 __cagy__ _adj_ Variant of cagey.  
 __cahoots__  
-__cajole__ _v_ :six::hammer: (cajoled, cajoling)  
+__cajole__ _v_ :seven::hammer: (cajoled, cajoling)  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
@@ -2029,7 +2031,7 @@ __cinder__
 __cinder-block town__  
 __cinephile__ :mega:  
 __cineplex__ _Sequels ruled the cineplex this weekend._  
-__cipher<sup>1</sup>__ _n_  
+__cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ _idiom_ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __cipher<sup>2</sup>__ _v_ _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
 __circuit__ :mute:[circ~~u~~it]  
@@ -2674,6 +2676,7 @@ __crunchtime__
 __crusader__  
 __crush<sup>1</sup>__ _I was crushed._  
 __crush<sup>2</sup>__ _n_  
+__crushing blow__ _idiom_ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __crusty__  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :three: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty.  
@@ -2736,6 +2739,7 @@ __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a res
 __curtailment__  
 __curtly__ :two::hammer: _"I don't know," she said curtly._  
 __curveball__ _informal_ Something which is unexpected, surprising, or disruptive. _There's always a curveball on every mission._  
+__cushy job__ _idiom_ A job that is easy, stress-free, and/or very well paid.  
 __cushy__ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :six::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
@@ -5496,7 +5500,7 @@ __holdout__ :two::hammer: _A weeklong holdout._
 __holdover__  
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__ :two::hammer:  
+__holistic__ _adj_ :three::hammer:  
 __holler__  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -5538,6 +5542,7 @@ __hoodlum__ _n_ _slang_ :three: (hoodlums) A criminal or gangster.
 __hoods__ _n_  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
+__hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
 __hookup__ _n_  
 __hooky__ _A kid playing hooky._  
 __hoop dress__  
@@ -5871,6 +5876,7 @@ __ingrate__ _n_ An ungrateful person.
 __ingratiate__ _v_ :three::hammer:  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
+__inhale__ _v_ _slang_ To eat very quickly.  
 __inimical__  
 __initiative__  
 __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
@@ -8340,7 +8346,7 @@ __playwright__ _n_ :three::hammer:
 __plea deal__  
 __plea__ _n_ :four::hammer: _A prayerful plea to brek free of alcohol._  
 __plead out__  
-__plead__ _v_ :two::hammer: _Lee is pleading with viewers to watch hthe film with an open mind._  
+__plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pledge__ _n_ :three::hammer:  
@@ -9410,7 +9416,7 @@ __ronin__
 __rood__ _n_ :two::hammer:  
 __roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
 __roofrack__  
-__rooftop__ _n_ :six::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
+__rooftop__ _n_ :seven::pencil2::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
 __room gear__ _Dorm room gear._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
@@ -10599,7 +10605,7 @@ __spear chucker__
 __speargun__  
 __spearhead__ _v_ :five: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
-__specialty__ _Specialty apparel sellers._  
+__specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specious__ :two::hammer: _Specious argument._  
@@ -10942,7 +10948,7 @@ __stodgiest__
 __stodgy__ _The mainstream may sound too stodgy._  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
-__stolid__ :two::hammer:  
+__stolid__ _adj_ :three::hammer:  
 __stomach__ _v_ :two::hammer:  
 __stomp__ _v_  
 __stomping__ _v_  
@@ -11305,6 +11311,7 @@ __take one's cut__ _He was finished taking his cuts in batting practice._
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
 __take through__ _phr v_ To explain something to someone.  
+__take to__ _phr v_ To make a habit of something.  
 __take up__ _idiom_ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he's retired._  
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ _idiom_ To do something to help you forget about something else.  
@@ -11826,7 +11833,8 @@ __tranquilizer__ _n_ :mega:
 __transceiver__  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _I was transfixed by it._  
-__transient__ _adj_ :four::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
+__transient<sup>1</sup>__ _adj_ :four::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
+__transient<sup>2</sup>__ _n_  
 __translate__ _That doesn't always translate, believe me._  
 __translucent__ _adj_  
 __transparent__ _adj_ :mega:  
@@ -12113,7 +12121,7 @@ __unencumbered__ _v_ _Now you can travel unencumbered._
 __unequivocally__  
 __Unesco__ _United Nations Educational, Scientific and Cultural Organization._  
 __unethically__ _He had acted unethically and for that I could never trust him as editor._  
-__unfathomable__ _adj_ :three: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
+__unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :seven::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
@@ -12772,6 +12780,7 @@ __wondrous<sup>1</sup>__ _adj_ :three::hammer:
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ :two::hammer: _Wonky details._  
+__wonted__ _adj_ Commonly used or practiced; usual.  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood pellets__  
 __wood rasp__ _n_  

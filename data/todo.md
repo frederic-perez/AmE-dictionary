@@ -1,26 +1,4 @@
 
-__unfathomable__  
-
-__cipher__ _n_ _idiom_ A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
-__crushing blow__ _idiom_ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
-__wonted__ _adj_ Commonly used or practiced; usual.  
-__cushy job__ _idiom_ A job that is easy, stress-free, and/or very well paid.  
-__specially__ _A can of Coke rested in the specially made holder._  
-__buckle down__ _phr v_ :dart: To apply oneself with determination.  
-__holistic__ _adj_  
-__a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
-__rooftop__ _n_  
-
-__august__ _adj_ Inspiring reverence or admiration; of supreme dignity or grandeur.  
-__hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
-__plead__ _v_ To ask for something in an urgent or emotional way.  
-__take to__ _phr v_ To make a habit of something.  
-__accomplice__  
-__bequeath__ _v_  
-__stolid__ _adj_  
-__transient__ _n_  
-__cajole__ _v_  
-__inhale__ _v_ _slang_ To eat very quickly.  
 __low-key__ _adj_  
 __bag of tricks__ _idiom_ All the clever methods by which someone achieves something.  
 
