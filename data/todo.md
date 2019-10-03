@@ -1,25 +1,4 @@
 
-__low-key__ _adj_  
-__bag of tricks__ _idiom_ All the clever methods by which someone achieves something.  
-
-__pick on/in__ (?) _I like to pick on/in people that I love._  
-__poster child__  
-__cliché__ _adj_ (?)  
-__huff up__ (??)  
-__matter-of-factly__  
-__embodiment__  
-__encroach__ _v_ (?)  
-__articulate__ _v_  
-__all that jazz__  
-__EMDR (or ENDR?)__  
-__trend__ _v_  
-__lighten up__  
-__Irish twins__  
-
-__hand-pick__ _v_  
-__prowess__ _n_  
-__smouldering__ _adj_  
-__Gulag__ _n_  
 __munition__ _n_  
 __blemishes__ _n_  
 __wither away__ _v_  

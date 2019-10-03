@@ -236,7 +236,7 @@ __all in all,__ _phr_ :three: __1__ Generally; taking everything into account. _
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
-__all that jazz__  
+__all that jazz__ _idiom_ :two: All that stuff; all that nonsense.  
 __all that said,__  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-nighters__ _n_  
@@ -443,8 +443,8 @@ __arrears__ _n_ :pencil2:
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrowroot__  
 __arson__ _n_  
-__articulate<sup>1</sup>__ _adj_  
-__articulate<sup>2</sup>__ _v_ :two::hammer:  
+__articulate<sup>1</sup>__ _adj_ :two::hammer:  
+__articulate<sup>2</sup>__ _v_ :three::hammer:  
 __articulated__ _adj_ _A clearly articulated project._  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
@@ -640,6 +640,7 @@ __baff__ _v_ (baffed)
 __baffle__ _v_ :five::hammer: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffling__ _Baffling season._  
+__bag of tricks__ _idiom_ All the clever methods by which someone achieves something.  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
 __bail out__ _phr v_ :four: To pay for someone’s release from jail.  
@@ -2104,7 +2105,7 @@ __clench__ _n_ :two::hammer:
 __clenched__  
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
-__cliché__  
+__cliché__ _n_ :two::hammer:  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor's explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __clickbait__ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicking__ _Things seem to be making sense and clicking._  
@@ -3638,6 +3639,7 @@ __embattle__ _v_ :four::hammer: (embattled)
 __ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
+__embodiment__  
 __embody__ _v_  
 __embolden__  
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
@@ -3672,7 +3674,7 @@ __encampment__ _n_ :two::hammer:
 __encompass__ _v_ :four::hammer: (encompasses)  
 __encore__ _n_ :five::hammer: _An encore performance._  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroach__ _v_ :seven::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
+__encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :four::hammer:  
 __encumbrance__  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
@@ -3687,6 +3689,7 @@ __endow__ _v_
 __endowed__ :two::hammer:  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
+__ENDR__ _abbr_ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _Endurance race._  
 __enduring__ _v_  
@@ -5052,6 +5055,7 @@ __guinea pig__ :mega:
 __guise__  
 __guitar case__ :camera:  
 __guitar__ :mute:[g~~u~~itar]  
+__Gulag__ _n_  
 __gulf__ _n_ :three::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._  
 __gullibility__  
 __gullible__ _adj_ :six: Naive and easily deceived or tricked.  
@@ -5152,6 +5156,7 @@ __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous
 __hamper__ _v_ :astonished::five::hammer: (hampered)  
 __hamstring__ _n_ :three::hammer:  
 __hand blender__ _n_  
+__hand-pick__ _v_  
 __handglider__  
 __handily__  
 __handiwork__ :two::hammer:  
@@ -5617,7 +5622,8 @@ __huckterism__
 __huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
 __huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one's limbs close to one's body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
 __Huey__  
-__huff__ _v_ :eight: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
+__huff<sup>1</sup>__ _n_  
+__huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
@@ -5954,7 +5960,7 @@ __IP__ Intelectual property.
 __irate__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
 __iris__  
-__Irish twins__ _There is real twins and Irish twins._  
+__Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
 __irksome__  
 __iron out__  
 __iron trellis__  
@@ -6527,7 +6533,7 @@ __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._
 __light__ :mute:[li~~gh~~t]  
 __light-headed__ _I feel light-headed from lack of sleep._  
 __lightbulb moment__  
-__lighten up__ _phr v_ To become less serious.  
+__lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
 __lighthearted__  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
@@ -6680,8 +6686,7 @@ __lovacore__
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
-__low key__ :two::hammer:  
-__low-key__  
+__low-key__ _adj_ :four::hammer: (low key)  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
 __lowdown__ _n_ _Slang_ :four: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
@@ -6894,6 +6899,7 @@ __matron__
 __matsuri__  
 __matt__  
 __matte__  
+__matter-of-factly__  
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturations__  
 __maturities__ _List of maturities._  
@@ -8170,7 +8176,7 @@ __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") w
 __pick a fight__  
 __pick and roll__  
 __pick me out__  
-__pick on__  
+__pick on (one)__ _idiom_ :two: To harass, bully, or tease one. _I like to pick on people that I love._  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket's kiosk._ _His turnover-prone play doesn't pick up._  
 __pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
 __pick__ _v_ :two::hammer: _He managed to pick the old lock with a flick knife._ _Pick your choice._  
@@ -8482,7 +8488,7 @@ __possum__ _n_ :es: zarigüeya
 __post hoc__  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ :two::hammer:  
-__poster child__ _n_ :three::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
+__poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
 __postmark__ _v_  
 __pot brownies__ _n_ _Edibles like pot brownies._  
@@ -8685,7 +8691,7 @@ __provenance__
 __provender__  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
 __provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
-__prowess__ _n_ :six: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
+__prowess__ _n_ :seven: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
 __proxy__ _I'm a proxy for the listener._  
 __prude__ _n_  
@@ -10416,6 +10422,7 @@ __smote__ _v_
 __smothered__  
 __smothering__  
 __smoulder__ _v_ :two: (smouldering) To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
+__smouldering__ _adj_  
 __smudge__  
 __smudges__  
 __smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
@@ -11867,6 +11874,7 @@ __trellises__ _From his trellises._
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
 __trench coat__ _n_  
 __trenchant__ _adj_  
+__trend__ _v_  
 __trepidation__ _n_ :five: Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
