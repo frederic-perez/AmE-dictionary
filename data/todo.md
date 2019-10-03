@@ -1,26 +1,4 @@
 
-__munition__ _n_  
-__blemishes__ _n_  
-__wither away__ _v_  
-__quash__ _v_  
-__tactfully__  
-__entrenched__ _v_  
-__tarnished__ _v_  
-__stooped__ _v_ _Although stooped by age, her eyes were sharp._  
-__fresh__ _Leo took out his pad, finding a fresh page._  
-__far-fetched__ _adj_  
-__gloom__  
-__straw__ _n_  
-
-__white line__ (appliances)  
-__museum__ _n_ :mega:  
-__tone-deaf__ _adj_  
-__cassava__ _n_  
-__pistachios__ _n_ :pencil2:  
-__maquetador?__ _n_ :es: _maquetador_  
-__colonotomy bag__ (?)  
-__?__ (motorcycle) :es: caballete  
-
 __like two peas in a pod__ _idiom_ Very similar.  
 __two-time someone__ _idiom_ To be unfaithful to someone.  
 __brass monkeys__ _idiom_ Very cold weather.  

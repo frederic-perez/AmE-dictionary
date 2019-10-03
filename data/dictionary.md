@@ -1042,7 +1042,7 @@ __bled__ _v_
 __bleed blue__  
 __bleeding heart__ _A radical Jewish lawyer with a beard and a bleeding heart._  
 __bleep__ _v_ _We'll bleep your name out._  
-__blemish__ _n_ :four::hammer: (blemishes)  
+__blemish__ _n_ :five::hammer: (blemishes)  
 __blemished__ _v_  
 __blends__ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :two::hammer:  
@@ -1766,6 +1766,7 @@ __cash rebate__
 __cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashmere__  
 __casket__ _n_ :two::hammer: _Closed casket, that's right._  
+__cassava__ _n_  
 __casserole<sup>1</sup>__ _n_  
 __casserole<sup>2</sup>__ _v_  
 __cassocks__ _n_  
@@ -2227,6 +2228,7 @@ __colocation > data colocation__
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __colossus__  
+__colostomy bag__  
 __column__ :mute:[colum~~n~~]  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
@@ -3008,6 +3010,7 @@ __desecrate__ _v_ :three::hammer: _Desecrating the flag._
 __desecration__ _n_ :two::hammer:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
 __design__ :mute:[desi~~g~~n]  
+__designer__ _n_ :es: _maquetador_  
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
 __despair__ _n_  
@@ -3725,7 +3728,7 @@ __entitlement__ _n_ :four::hammer: _Entitlement programs._
 __entourage__ :two::hammer: :es: séquito  
 __entrant__ :astonished:  
 __entreat__ _v_ _Syn_ beg, plead  
-__entrench__ _v_ :seven: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
+__entrench__ _v_ :eight: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
@@ -3953,7 +3956,7 @@ __fantastic__ _adj_ :three::hammer::mega:
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
-__far fetched__ _adj_ :four::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
+__far fetched__ _adj_ :five::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :four::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ :two::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
@@ -4477,7 +4480,7 @@ __freight train__ _n_ (vs passenger train)
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Frenchman__  
 __frenzy__ :two::hammer:  
-__fresh__ _Fresh towels._  
+__fresh__ _adj_ :two::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
 __fretful__ :two::hammer:  
@@ -4786,7 +4789,7 @@ __glitzy__
 __gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
 __gloat__ _v_ :five::hammer: (gloating) _I could not gloat._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
-__gloom__ _n_ :two::hammer: _She was hidden in the gloom._  
+__gloom__ _n_ :three::hammer: _She was hidden in the gloom._  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
 __glossiness__  
@@ -7200,6 +7203,7 @@ __motocyclist__ _n_
 __Motor City__ Detroit.  
 __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
+__motorcycle center (main) stand__ _n_ :es: caballete de la moto  
 __motoring__  
 __motorist__ _n_ :two: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
@@ -7257,12 +7261,13 @@ __mumps__
 __munch__ _v_ :three:hammer: (munches)  
 __mundane__ :two::hammer:  
 __Muni bus__  
-__munitions__ _The munitions factory._  
+__munition__ _n_ :two::hammer: (munitions) _The munitions factory._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
 __muse<sup>2</sup>__ _v_ :four::hammer: (mused) _He mused on his Facebook page about killing his wife._  
+__museum__ _n_ :mega:  
 __mush__ _n_ :four::hammer: _A mush brain._  
 __mush-mouth__ _The kid with the mush-mouth accent._  
 __mushers__  
@@ -8269,7 +8274,7 @@ __pique<sup>2</sup>__ _v_ :six::pencil2::hammer: (piques, piqued) _Focusing his 
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
-__pistachios__ _n_  
+__pistachios__ _n_ :two::pencil2::hammer:  
 __pit toilet__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
@@ -8843,7 +8848,7 @@ __quarrelsome__
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
-__quash__ _v_ :seven::hammer: (quashed) _To quash her subpoena._  
+__quash__ _v_ :eight::hammer: (quashed) _To quash her subpoena._  
 __quavered__  
 __quavering__  
 __quay__ _n_  
@@ -10966,7 +10971,7 @@ __stonewall__ _v_ :four::hammer: (stonewalling)
 __stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _A guard's stool pigeon._  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
 __stoop<sup>2</sup>__ _n_  
-__stooped__ _adj_ :two::hammer: _He was a stooped man._ _Stooped shoulders._  
+__stooped__ _adj_ :three::hammer: _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop-and-go__ _Stop-and-go traffic jams._  
 __stopgag__ _n_ :three::hammer:  
@@ -11013,7 +11018,7 @@ __strap overalls__
 __strapless__ _Strapless black dress._  
 __strapped__  
 __strapping__ _Two strapping sons._  
-__straw__ _n_ :two::hammer: (straws) _To stir straws._  
+__straw__ _n_ :three::hammer: (straws) _To stir straws._  
 __stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
 __stray<sup>2</sup>__ _adj_ :six::hammer: _A stray word._ _Stray steeples._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
 __stray<sup>3</sup>__ _n_  
@@ -11298,6 +11303,7 @@ __taciturn__
 __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
 __tacky__ :two::hammer:  
 __tactful__  
+__tactfully__  
 __tad__ _n informal_ :three::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
@@ -11377,7 +11383,7 @@ __tardy__ :two::hammer:
 __target ball__  
 __tariff__ _n_ :six::hammer: (tariffs)  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
-__tarnish__ _v_ :five::camera::hammer: Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
+__tarnish__ _v_ :six::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
 __tarpon__  
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
@@ -11741,7 +11747,7 @@ __tombstone__ _n_
 __tomcat__  
 __tomfoolery__ _n_  
 __ton__ _A metric ton._  
-__tone-deaf__  
+__tone-deaf__ _adj_ :two::hammer:  
 __tong__  
 __tongue in cheek__ _adj, adv_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue__ :mute:[tong~~u~~e]  
@@ -12648,6 +12654,7 @@ __whistle-blower__
 __Whit Sunday__  
 __white elephant__ _n_  
 __white lie__ _idiom_ Lie to protect another person's feelings.  
+__white line__ (appliances)  
 __white__ :mute:[w~~h~~ite]  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
@@ -12765,6 +12772,7 @@ __with flying colors__ _idiom_ With distinction.
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
 __withe down__ _v_  
+__wither away__ _v_  
 __wither__ _v_ :three::hammer: (withers, withered)  
 __withes__ _n_ :two::hammer:  
 __withhold__  
