@@ -1,4 +1,14 @@
 
+__oaf__ _n_ _Syn_ lout  
+__lout__ _n_ _Syn_ oaf  
+__conjure__ _v_ _Syn_ beg  
+__larder__ _n_  
+__grovel__ _v_  
+__chagrin<sup>1</sup>__ _n_  
+__chagrin<sup>2</sup>__ _v_  
+__traduce__ _v_ :astonished: _Syn_ slander  
+__slander__ _v_ :astonished: _Syn_ traduce  
+
 __galvanize__ _v_ To startle into sudden activity; stimulate.  
 __yawner__ _n_  
 __spell it out__ _idiom_ For example, "let me spell it out for you," is another way to say 'let me make it very clear and easy to understand."  
