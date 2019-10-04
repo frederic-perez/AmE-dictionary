@@ -1,4 +1,13 @@
 
+__galvanize__ _v_ To startle into sudden activity; stimulate.  
+__yawner__ _n_  
+__spell it out__ _idiom_ For example, "let me spell it out for you," is another way to say 'let me make it very clear and easy to understand."  
+__gut feeling__ _idiom_ An intuition, an instinctive feeling about something.  
+__big house__ _slang_ A high-security prison.  
+__have a bun in the oven__ _idiom_ To be pregnant.  
+__rue__ _v_ :astonished: To be sorry about something and wish that it had not happened. A more usual word is regret.  
+__tenant__ _n_  
+
 __freewheel__ _v_ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._  
 __postmark__ _n_ _The envelope had an Italian stamp and a postmark._  
 __junior__ _adj_ A person who is a specified number of years younger than someone else. _He's five years her junior._  
