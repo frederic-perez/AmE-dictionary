@@ -1,4 +1,13 @@
 
+__freewheel__ _v_ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._  
+__postmark__ _n_ _The envelope had an Italian stamp and a postmark._  
+__junior__ _adj_ A person who is a specified number of years younger than someone else. _He's five years her junior._  
+__senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
+__regrettably__ _adv_ Unfortunately (used to express apology for or sadness at something).  
+__stroke__ _n_ _Stroke of good fortune._  
+__worktop__ _The marble effect Formica worktops were burned and scarred._  
+__balustrade__ _n_ _The stone balustrade._  
+
 __like two peas in a pod__ _idiom_ Very similar.  
 __two-time someone__ _idiom_ To be unfaithful to someone.  
 __brass monkeys__ _idiom_ Very cold weather.  
