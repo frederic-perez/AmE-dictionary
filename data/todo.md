@@ -1,4 +1,13 @@
 
+__rhododendron__ _n_  
+__sieve__ _n_ _Water leaking from a sieve._  
+__meek__ _n_  
+__self-conscious__ _adj_  
+__brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
+__hawthorn__ _n_ :three::hammer:  
+__unassuming__ _adj_  
+__downside__ _n_  
+
 __oaf__ _n_ _Syn_ lout  
 __lout__ _n_ _Syn_ oaf  
 __conjure__ _v_ _Syn_ beg  
