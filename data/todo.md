@@ -1,4 +1,13 @@
 
+__à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
+__forty winks__ _idiom_ A short sleep during the day.  
+__wishy washy__ _slang_ Indecisive or not reliable.  
+__space cadet__ _slang_ A person who is out of touch with reality.  
+__trying__ _adj_ :astonished: Extremely difficult and annoying, straining one's patience and goodwill to the limit.  
+__quibble__ _v_  To argue or find fault over trivial matters or minor concerns; cavil.  
+__lambaste__ _v_  
+__blowhard__ _n_  
+
 __millennium__ _n_ :pencil2:  
 __schwa__ _n_  
 __turndown__ _n_ The act of refusing an offer.  
