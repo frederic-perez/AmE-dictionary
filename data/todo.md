@@ -1,4 +1,14 @@
 
+__egalitarian__ _adj_  
+__whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
+__castles in the sky__ _idiom_ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding.  
+__cross-grained__ _adj_ Difficult to deal with.  
+__code of silence__ _idiom_ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
+__bog__ _n_ :es: ciénaga  
+__antedate__ _n_  
+__keysmash<sup>1</sup>__ _n_  
+__keysmash<sup>2</sup>__ _v_  
+
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __forty winks__ _idiom_ A short sleep during the day.  
 __wishy washy__ _slang_ Indecisive or not reliable.  
