@@ -1,4 +1,13 @@
 
+__head over heels__  
+__trappings__ _n_  
+__wont__ _adj_  
+__exploit__ _n_ :astonished:  
+__careen__ _v_  
+__lurch__ _v_  
+__sedulous__ _adj_ _Syn_ busy  
+__wraith__ _n_ _Syn_ ghost  
+
 __vindicate__ _v_  
 __isobar__ _n_  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
