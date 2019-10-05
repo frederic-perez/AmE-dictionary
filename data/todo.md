@@ -1,4 +1,13 @@
 
+__vindicate__ _v_  
+__isobar__ _n_  
+__go to bed with the chickens__ _idiom_ To go to bed very early.  
+__greener pastures__ _idiom_ A better or more exciting job or place.  
+__average Joe__ _slang_ An ordinary man.  
+__from rags to riches__ _idiom_ From being poor to being wealthy.  
+__be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
+__full of beans__ _idiom_ To have a lot of energy.  
+
 __rhododendron__ _n_  
 __sieve__ _n_ _Water leaking from a sieve._  
 __meek__ _n_  
