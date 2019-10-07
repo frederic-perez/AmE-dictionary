@@ -19,6 +19,7 @@ __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain o
 __a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
+__à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
@@ -341,6 +342,7 @@ __answer for__ _phr v_ To be responsible for something bad.
 __answer__ :mute:[ans~~w~~er]  
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
+__antedate__ _n_  
 __anthology__  
 __anti-humor__  
 __anti-Semitism__  
@@ -1091,6 +1093,7 @@ __blow up__ Inflate is a formal or technical word. In conversation, you usually 
 __blow your top__ _idiom_ To become very angry.  
 __blowflies__ _n_  
 __blowgun__ _n_  
+__blowhard__ _n_  
 __blown call__  
 __blowout__ _n informal_ :seven: A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
@@ -1141,7 +1144,7 @@ __bocce ball__ _n_
 __bod__ :two::hammer:  
 __bodacious__  
 __bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
-__bog<sup>1</sup>__ _n_ :three::hammer:  
+__bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_  
 __bogged down__ _phr v_  
@@ -1776,6 +1779,7 @@ __cast<sup>1</sup>__ _v_ _Votes cast._
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
 __castigation__ _n_  
 __castle__ :mute:[cas~~t~~le]  
+__castles in the sky__ _idiom_ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding.  
 __castoff__ _n_  
 __casual__ _He put on casual clothes._  
 __casualties__  
@@ -2184,6 +2188,7 @@ __cockerel__
 __cocoon__ _n_  
 __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
 __coddled__ _v_ :three::hammer: _A coddled creature._  
+__code of silence__ _idiom_ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerce__ _v_  
 __coerced__  
@@ -2647,6 +2652,7 @@ __cross your eyes__ _There's kid stuff that makes adults kind of cross their eye
 __cross__ _v_ _They paled and crossed themselves._  
 __cross-examination__ _n_  
 __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
+__cross-grained__ _adj_ Difficult to deal with.  
 __crossbar__ _n_  
 __crossbeam__ _n_  
 __crossing t's__ _Crossiing our t's and dotting our i's._  
@@ -3582,6 +3588,7 @@ __effort__ _n_ :dart: _Activists launched an effort._
 __effortless__ _adj_  
 __effrontery__  
 __effusive__  
+__egalitarian__ _adj_  
 __egg head__ A very studious and academic person.  
 __egg roll__  
 __egg white__  
@@ -4421,7 +4428,7 @@ __forthright__
 __fortified wine__  
 __fortitude__ _n_  
 __fortnight__  
-__forty winks__ _idiom_ :two: A short nap.  
+__forty winks__ _idiom_ :three: A short sleep during the day. A short nap.  
 __foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
@@ -6174,6 +6181,8 @@ __kerchief__ _n_
 __kerkuffles__  
 __keseboy__  
 __key up__ :two::hammer: _He was too keyed up._ _I was too keyed up to sleep._  
+__keysmash<sup>1</sup>__ _n_  
+__keysmash<sup>2</sup>__ _v_  
 __keystone__ :es: piedra angular  
 __keystrokes__  
 __khakis__ _n_ :two::hammer:  
@@ -7036,7 +7045,7 @@ __milkweed__
 __mill__ _n_ A million dollards.  
 __milled about__ _v_  
 __Millennials__  
-__millennium__ :pencil2:  
+__millennium__ _n_ :two::pencil2:  
 __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
 __milling machine__ _n_  
 __milling__ :two::hammer: _To avoid disrespectful milling._  
@@ -8866,7 +8875,7 @@ __querulous__ :two::hammer:
 __query__ :mega:  
 __questioner__ _n_  
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
-__quibble<sup>2</sup>__ _v_ :three::hammer: (quibbled, quibbling) _Their word choice gets quibbled with._  
+__quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault over trivial matters or minor concerns; cavil. _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
 __quicken__  
 __quickening__ :two::hammer: _He felt a quickening within him._  
@@ -9703,6 +9712,7 @@ __school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._
 __schooling__ _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
+__schwa__ _n_  
 __sciatic__  
 __sciatica__  
 __science__ :mute:[s~~c~~ience]  
@@ -10588,6 +10598,7 @@ __sovereign__ _n_ :two::mute:[soverei~~g~~n]:hammer:
 __sovereignty__ :pencil2:  
 __sow__ _n_ :four::hammer: _A drunk sow._  
 __soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a soybean bin._  
+__space cadet__ _slang_ A person who is out of touch with reality.  
 __space heater__ _n_  
 __space__ _v_ _I spaced on that._  
 __spaceling__ _v_  
@@ -11968,6 +11979,7 @@ __trusties__
 __trustworthy__ _adj_  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
+__trying__ _adj_ :astonished: Extremely difficult and annoying, straining one's patience and goodwill to the limit.  
 __tryouts__ :two::hammer:  
 __tryst__  
 __tsuifuku__  
@@ -12004,6 +12016,7 @@ __turn away__ To refuse to let someone come into a place.
 __turn on__ _phr v_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
 __turnaround__ _n_  
+__turndown__ _n_ The act of refusing an offer.  
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
@@ -12640,6 +12653,7 @@ __whir__ _n_
 __whirl__ :mute:[w~~h~~irl]  
 __whirled__ _v_  
 __whirlpool__ _n_  
+__whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
 __whirred__ _v_  
 __whirring__ _v_  
 __whisk broom__  
@@ -12758,6 +12772,7 @@ __wish list__ _n_ :two::hammer: _The community's wish list._ _A $100 million wis
 __wishbone__  
 __wishful thinking__ :two::hammer:  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
+__wishy washy__ _slang_ Indecisive or not reliable.  
 __wishy-washy__  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  

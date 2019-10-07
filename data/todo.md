@@ -1,26 +1,4 @@
 
-__egalitarian__ _adj_  
-__whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
-__castles in the sky__ _idiom_ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding.  
-__cross-grained__ _adj_ Difficult to deal with.  
-__code of silence__ _idiom_ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
-__bog__ _n_ :es: ciénaga  
-__antedate__ _n_  
-__keysmash<sup>1</sup>__ _n_  
-__keysmash<sup>2</sup>__ _v_  
-
-__à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
-__forty winks__ _idiom_ A short sleep during the day.  
-__wishy washy__ _slang_ Indecisive or not reliable.  
-__space cadet__ _slang_ A person who is out of touch with reality.  
-__trying__ _adj_ :astonished: Extremely difficult and annoying, straining one's patience and goodwill to the limit.  
-__quibble__ _v_  To argue or find fault over trivial matters or minor concerns; cavil.  
-__lambaste__ _v_  
-__blowhard__ _n_  
-
-__millennium__ _n_ :pencil2:  
-__schwa__ _n_  
-__turndown__ _n_ The act of refusing an offer.  
 __collect dust__ _idiom_ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __dapper__ _adj_ Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._  
 __collect (one's) wits__ _idiom_ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
