@@ -569,6 +569,7 @@ __avail__ _v_ :two::hammer: _Nothing avails against the Death._
 __avalanche__ _n_  
 __aver__ _v_  
 __average citizens__  
+__average Joe__ _slang_ An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :two::hammer: (averted)  
 __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
@@ -2223,6 +2224,8 @@ __collapsible__ _Collapsible shutters._
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __colleague__ :mute:[colleag~~u~~e]  
+__collect (one's) wits__ _idiom_ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
+__collect dust__ _idiom_ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __collect__ _v_ _Click and collect._  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
@@ -2820,7 +2823,7 @@ __dang__ _interj_ :two: Used to express dissatisfaction or annoyance. A euphemis
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ :two::hammer:  
-__dapper__ _adj_ :four: (of a man) Neat and trim in dress and appearance. _The dapper lead singer._  
+__dapper__ _adj_ :five: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
 __daredevil__ :two::hammer: _The daredevils of the group._  
@@ -3448,6 +3451,8 @@ __drover__ _n_ :two::hammer:
 __drowns__ _v_  
 __drub__ _v_  
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
+__drudge<sup>1</sup>__ _n_ A person who does tedious, menial, or unpleasant work.  
+__drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
 __drudgery__ _n_ :three::dart: Tedious, menial, or unpleasant work.  
 __drugstore__  
 __drugwise__  
@@ -3772,6 +3777,7 @@ __equipped__
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__  
 __er__ :two::hammer: _It does look, er, distinctive._  
+__ergomania__ _n_ An excessive desire to work or exercise.  
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
@@ -3860,7 +3866,7 @@ __expertise__
 __expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
 __explicate__ _v_  
 __explication__ _n_  
-__exploit<sup>1</sup>__ _n_ :mega:  
+__exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:  
 __exploit<sup>2</sup>__ _v_ :mega:  
 __expose__ _v_  
 __expostulate__ _v_  
@@ -4512,6 +4518,7 @@ __frogman__ _n_
 __frolic<sup>1</sup>__ _n_ :three::hammer:  
 __frolic<sup>2</sup>__ _v_ :two::hammer: (frolicked)  
 __from afar__  
+__from rags to riches__ _idiom_ From being poor to being wealthy.  
 __from the git-go__  
 __from the rooter to the rooter__  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
@@ -4831,6 +4838,7 @@ __go over the top__
 __go over the wire__  
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
+__go to bed with the chickens__ _idiom_ To go to bed very early.  
 __go to the dogs__  
 __go to the wire__  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
@@ -4962,7 +4970,7 @@ __green thumb__ _Not everyone has a green thumb._
 __green with envy__ _idiom_ Very jealous.  
 __green-behimd-the-ears__  
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
-__greener pastures__  
+__greener pastures__ _idiom_ :two: A better or more exciting job or place.  
 __greenhorn__  
 __greenhouse__ :two::hammer:  
 __greenwich__ :mute:[green~~w~~ich]  
@@ -5290,7 +5298,7 @@ __hazing__ _The college hazing policy._
 __hazmat suit__  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
-__head over heels__ _idiom_ :two: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
+__head over heels__ _idiom_ :three: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _n_ :two::hammer: _Giving them a head start on finding a job._  
 __head wind__  
@@ -5979,6 +5987,7 @@ __irrefutable__ _adj_ _Irrefutable evidence._
 __irreplaceable__  
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __islet__ _Transplanting islet cells into the liver._  
+__isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
 __issue__ _v_  
 __isthmus__  
@@ -6737,7 +6746,7 @@ __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into th
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ _v_ :seven::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
+__lurch__ _v_ :eight::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
@@ -9824,7 +9833,7 @@ __sedan chair__ _n_
 __sedate__ (sedate menswear)  
 __sedative__ _n_ _Not the strongest sedative._  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
-__sedulous__  
+__sedulous__ _adj_ :two::hammer: _Syn_ busy  
 __see eye to eye__ _idiom_ :two: To concur, agree.  
 __see red__ _idiom_ To become very angry.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
@@ -11865,7 +11874,7 @@ __transparent__ _adj_ :mega:
 __transpose__ _v_ _Someone might have transposed digits._  
 __trap question__ :astonished: _That's a trap question._  
 __trapdoor__ _n_  
-__trappings__ _n_ :four::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
+__trappings__ _n_ :five::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
 __trascends__ _v_  
 __trash talk__ :two::hammer:  
@@ -12397,7 +12406,7 @@ __villa__ _n_ :two::hammer:
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
 __villas__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
-__vindicate__ _v_ :seven::hammer: (vindicated)  
+__vindicate__ _v_ :eight::hammer: (vindicated)  
 __vindication__ _n_ :seven::hammer:  
 __vintner__ _n_  
 __vinyasa__ _n_  
@@ -12811,6 +12820,7 @@ __wondrous<sup>1</sup>__ _adj_ :three::hammer:
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ :two::hammer: _Wonky details._  
+__wont__ _adj_  
 __wonted__ _adj_ Commonly used or practiced; usual.  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood pellets__  
@@ -12848,7 +12858,7 @@ __would__ :mute:[wou~~l~~d]
 __wow factor__  
 __wow__ _v_ :two::hammer:  
 __wracked__ _v_ :two: (wracked, wracking) Smash or break forcefully.  
-__wraith__  
+__wraith__ _n_ :two::hammer: _Syn_ ghost  
 __wrangle__ _v_ :two::hammer: (wrangling)  
 __wrap (one's) head around it__ _idiom_ :five: To comprehend something that one considers challenging, confusing, or a foreign concept. _I'm trying to wrap my head around it._  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  

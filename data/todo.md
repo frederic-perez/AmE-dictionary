@@ -1,26 +1,4 @@
 
-__collect dust__ _idiom_ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
-__dapper__ _adj_ Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._  
-__collect (one's) wits__ _idiom_ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
-__ergomania__ _n_ An excessive desire to work or exercise.  
-__drudge<sup>1</sup>__ _n_ A person who does tedious, menial, or unpleasant work.  
-__drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
-
-__head over heels__  
-__trappings__ _n_  
-__wont__ _adj_  
-__exploit__ _n_ :astonished:  
-__careen__ _v_  
-__lurch__ _v_  
-__sedulous__ _adj_ _Syn_ busy  
-__wraith__ _n_ _Syn_ ghost  
-
-__vindicate__ _v_  
-__isobar__ _n_  
-__go to bed with the chickens__ _idiom_ To go to bed very early.  
-__greener pastures__ _idiom_ A better or more exciting job or place.  
-__average Joe__ _slang_ An ordinary man.  
-__from rags to riches__ _idiom_ From being poor to being wealthy.  
 __be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
 __full of beans__ _idiom_ To have a lot of energy.  
 
