@@ -771,6 +771,7 @@ __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He t
 __be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be friends__ _I was good friends with her._  
+__be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
@@ -1395,6 +1396,7 @@ __brook__ _v_
 __broth__  
 __brothers in arms__  
 __brouhaha__ _n_ :three::hammer:  
+__brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
@@ -1870,8 +1872,8 @@ __chads__ _n_
 __chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
-__chagrin<sup>1</sup>__ _n_ :nine: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
-__chagrin<sup>2</sup>__ _v_ :two: (chagrined) Cause to feel shame; hurt the pride of.  
+__chagrin<sup>1</sup>__ _n_ :nine::m: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
+__chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pride of.  
 __chain smoker__  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
@@ -2370,7 +2372,7 @@ __conglomerates__
 __congrats__ _Congrats on your wedding._  
 __conjecture__  
 __conjunction__  
-__conjure__ :two::hammer:  
+__conjure__ _v_ :three::hammer: _Syn_ beg  
 __conman__  
 __connivance__ _n_ :two: Agreement on a secret plot.  
 __connive__ _v_ :four::hammer: (connived, conniving)  
@@ -3351,7 +3353,7 @@ __downline__ _n_
 __downplay__ _v_ :four::hammer: (downplayed)  
 __downpour__ _n_ :five::hammer: (downpours) _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::four::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
-__downsides__  
+__downside__ _n_ :two::hammer: (downsides)  
 __downspout__ _n_  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_  
@@ -4548,7 +4550,7 @@ __fudging__ _Fudging statistics._
 __fulcrum__ :two::hammer:  
 __fulfilling__  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent's arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
-__full of beans__  
+__full of beans__ _idiom_ :two: To have a lot of energy.  
 __full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
 __full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
@@ -4614,7 +4616,7 @@ __gallon jug__ _Gallon jugs of water._
 __galloping__  
 __galore__ _adv_  
 __galoshes__ _n_  
-__galvanize__ _v_ :five::hammer: (galvanized)  
+__galvanize__ _v_ :six: (galvanized) To startle into sudden activity; stimulate.  
 __gambit__  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :five::hammer: _My game plan is "failure is not an option."_  
@@ -5031,8 +5033,7 @@ __groupies__ _n_
 __grouse__ _v_ :four::hammer: (groused) _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
-__grovel__ _v_  
-__groveling__ _v_  
+__grovel__ _v_ :three::hammer: (groveling)  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
 __growl<sup>2</sup>__ _v_ :four::hammer: (growled, growling)  
@@ -5286,7 +5287,7 @@ __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensi
 __hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
-__hawthorn__ _n_  
+__hawthorn__ _n_ :four::hammer:  
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
@@ -6375,7 +6376,7 @@ __lapel__ _n_
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
 __larceny__ _n_ :six: Theft of personal property. :es: hurto  
-__larder__  
+__larder__ _n_ :two::hammer:  
 __largely__  
 __larger-than-life__ _fig_ :four: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lark__ :two::hammer:  
@@ -6701,7 +6702,7 @@ __lotto__ _n_ Lottery.
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
-__lout__ _n_  
+__lout__ _n_ :two::hammer: _Syn_ oaf  
 __louver__ _n_ :two::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._  
 __lovacore__  
 __love-in__  
@@ -6963,7 +6964,8 @@ __medical discharge__ _A medical discharge._
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ :mega:  
-__meek__ _adj_ :five: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek<sup>1</sup>__ _adj_ :five: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek<sup>2</sup>__ _n_  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ _n_ :three::hammer:  
 __meet up__  
@@ -7546,7 +7548,7 @@ __nuttily__
 __nuzzled__ _v_  
 __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._  
 __O-line__ (football)  
-__oaf__  
+__oaf__ _n_ :two::hammer: _Syn_ lout  
 __oafish__ :two::hammer:  
 __oars__ _n_ :two::hammer:  
 __oases__ _n_  
@@ -9320,6 +9322,7 @@ __rheum__ _n_ :es: legaña
 __rheumy__  
 __rhinestone cowboy hat__  
 __rhinosinusitis__ _Chronic rhinosinusitis._  
+__rhododendron__ _n_  
 __rhyme__ :mute:[r~~h~~yme]  
 __rhyming__ :pencil2:  
 __rhythm__ :mute:[r~~h~~ythm]  
@@ -9859,6 +9862,7 @@ __seldom__ :two::hammer: _People seldom think about their values consciously._
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-assured__ _adj_ :two: Having or showing confidence and poise.  
+__self-conscious__ _adj_  
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
@@ -10168,7 +10172,7 @@ __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._
 __sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
-__sieve__ _n_ :five::hammer:  
+__sieve__ _n_ :six::hammer: _Water leaking from a sieve._  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sigh__ _v_ :two::mega::mute:[si~~gh~~]  
 __sight__ :mute:[si~~gh~~t]  
@@ -10286,7 +10290,7 @@ __slackline__ _n_
 __slag__  
 __slake__ _v_  
 __slam__ _v_ :two::hammer: _LeBron slams Phil Jackson for comment._  
-__slander__ _v_ :five::hammer: (slandering)  
+__slander__ _v_ :six::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
@@ -11848,7 +11852,7 @@ __tractor trailer__ :two::hammer::camera: (tractor-trailer)
 __tractor__ _n_  
 __trade paperback__  
 __trade-off__ _She has to make trade-offs._  
-__traduce__ _v_ :astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
+__traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
 __trail mix__ :two::hammer: _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
@@ -12104,7 +12108,7 @@ __unanimous__
 __unapologetic__ _adj_ :eight::hammer:  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ :two::hammer:  
-__unassuming__ _adj_ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unburdened__  
 __uncanny valley__ _idiom_ :three::hammer:  
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  

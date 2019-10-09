@@ -1,27 +1,4 @@
 
-__be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
-__full of beans__ _idiom_ To have a lot of energy.  
-
-__rhododendron__ _n_  
-__sieve__ _n_ _Water leaking from a sieve._  
-__meek__ _n_  
-__self-conscious__ _adj_  
-__brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
-__hawthorn__ _n_ :three::hammer:  
-__unassuming__ _adj_  
-__downside__ _n_  
-
-__oaf__ _n_ _Syn_ lout  
-__lout__ _n_ _Syn_ oaf  
-__conjure__ _v_ _Syn_ beg  
-__larder__ _n_  
-__grovel__ _v_  
-__chagrin<sup>1</sup>__ _n_  
-__chagrin<sup>2</sup>__ _v_  
-__traduce__ _v_ :astonished: _Syn_ slander  
-__slander__ _v_ :astonished: _Syn_ traduce  
-
-__galvanize__ _v_ To startle into sudden activity; stimulate.  
 __yawner__ _n_  
 __spell it out__ _idiom_ For example, "let me spell it out for you," is another way to say 'let me make it very clear and easy to understand."  
 __gut feeling__ _idiom_ An intuition, an instinctive feeling about something.  
