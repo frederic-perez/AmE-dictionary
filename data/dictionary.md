@@ -677,6 +677,7 @@ __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-
 __balm__ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _The air was sweet and balmy._  
 __baloney__ _n informal_ (bologna) :two: Nonsense.  
+__balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bamboozle__ _v_  
@@ -958,6 +959,7 @@ __big cheese__ An influential person.
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It's not a big deal._ __2__ An important person: She was a big deal in local politics.  
 __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
+__big house__ _slang_ A high-security prison.  
 __big mon__  
 __Big Pharma__  
 __big retailer__ (Walmart, Target, Amazon.)  
@@ -1249,6 +1251,7 @@ __bottom out__ _Europe is bottomed out._
 __bottom-of-the-barrel__  
 __boudin__ :two::hammer: _A length of white boudin in a saucer._  
 __bough__ _n_ :two::hammer (boughs)  
+__bounce__ _v_ _slang_ To leave.  
 __Bouncing Betty__  
 __bouncy house__ _n_  
 __bouncy__  
@@ -1284,6 +1287,7 @@ __Branch Davidians__
 __brander__  
 __branding iron__ _n_ :camera:  
 __brash__ :two::hammer: _Brash talk._ _It sounded brash._  
+__brass monkeys__ _idiom_ Very cold weather.  
 __brass__ :two::hammer: _She'll be manipulated by the police brass._  
 __brassiere__ _n_  
 __brassy__ _She is brassy, funny, and smart._  
@@ -4489,7 +4493,7 @@ __free ride__ :two::hammer:
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __freebie__ _n_ :four: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
-__freewheel__ _v_ :seven::hammer: (free wheel, freewheeling) _Freewheeling style._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
+__freewheel__ _v_ :eight::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
 __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:  
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
@@ -5111,6 +5115,7 @@ __gushy__
 __gusseted__ _Gusseted underarms._  
 __gussets__  
 __gusto__ :two::hammer:  
+__gut feeling__ _idiom_ An intuition, an instinctive feeling about something.  
 __gut__ _v_ _Trump could gut the agency's budget._  
 __gut-bucket__ _A gut-bucket string band._  
 __guts__ _n_ _slang_ Courage.  
@@ -5274,6 +5279,7 @@ __haunt__ _v_
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
+__have a bun in the oven__ _idiom_ To be pregnant.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have hot pants (for someone)__ _idiom_  
@@ -6141,7 +6147,7 @@ __jumpsuit__ _n_ :two::hammer:
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _Conjunction junctions._  
 __juncture__ _n_ :five: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
-__junior__ _My partner is 15 years my junior and I'm probably going to die before he does._  
+__junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He's five years her junior._ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __juniper berries__  
 __juniper__  
 __junk food__ _n_ _slang_ A high-calorie food that is low in nutritional value.  
@@ -6561,6 +6567,7 @@ __lighthearted__
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
 __like hell__  
+__like two peas in a pod__ _idiom_ Very similar.  
 __likelier__  
 __likelihood__ _n_ :astonished: Probability.  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
@@ -8515,7 +8522,8 @@ __postcode lottery__ _n_ :two::hammer:
 __poster boy__ :two::hammer:  
 __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
-__postmark__ _v_  
+__postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
+__postmark<sup>2</sup>__ _v_  
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
@@ -9169,6 +9177,7 @@ __regents__ _n_
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
+__regrettably__ _adv_ Unfortunately (used to express apology for or sadness at something).  
 __regular shipping__ (vs _expedited shipping_)  
 __regulation__ _n_ :four::hammer: _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._ _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
 __regulator__ _n_  
@@ -9511,8 +9520,7 @@ __rudder__ (airplane)
 __rudderless__  
 __ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
-__rue__ _v_ :three::hammer::pencil2: (rues) _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
-__rued__ _v_  
+__rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _He gave a rueful smile._  
 __ruefully__ _adv_ :four::hammer:  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
@@ -9886,6 +9894,7 @@ __Semper fi__ :two::hammer:
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
+__senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensible__ :two::hammer: _This C++ contructor has sensible default values._  
 __sensitive__ _Sensitive questions._  
 __sentence__ _n_ _A sentence of judges._  
@@ -10655,6 +10664,7 @@ __speculoos__ _Speculoss Belgian biscuits._
 __Sped case__  
 __speed demon__  
 __speed-dial__ _v_  
+__spell it out__ _idiom_ For example, "let me spell it out for you," is another way to say 'let me make it very clear and easy to understand."  
 __spell__ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbound__ _adj_  
 __spendolie__  
@@ -11076,6 +11086,7 @@ __strive__ _v_ :four::hammer:
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
+__stroke__ _n_ _Stroke of good fortune._  
 __stroll__ _v_  
 __strong accent__  
 __strongman__  
@@ -11486,7 +11497,7 @@ __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)
 __Tempranillo__  
 __tenable__ _adj_  
 __tenacious__ _adj_  
-__tenants__  
+__tenant__ _n_ :two::hammer: (tenants)  
 __tench__ _n_  
 __tenderizze__ _v_  
 __tendinitis__  
@@ -11885,6 +11896,7 @@ __trash talk__ :two::hammer:
 __trashing__ _v_  
 __travail__  
 __travails__ _n_ :two::hammer:  
+__travel light__ _idiom_ To bring very few things with you when you go on a trip.  
 __travelogue__ _n_ :two::hammer:  
 __travesty__ _n_ :three::hammer: (travesties)  
 __trawled__ _v_ :two::hammer:  
@@ -12080,6 +12092,7 @@ __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched.
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two__ :mute:[t~~w~~o]  
 __two-fold__ _adj_  
+__two-time someone__ _idiom_ To be unfaithful to someone.  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
 __twofer__ _n_ _informal_ :two::hammer:  
@@ -12850,6 +12863,7 @@ __workhorse__ _n_ _informal_ A person who works tirelessly, especially at diffic
 __working title__  
 __workmanlike__  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
+__worktop__ _The marble effect Formica worktops were burned and scarred._  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
 __wormhole__ _n_ :two::hammer:  
@@ -12928,7 +12942,7 @@ __yarn du jour__
 __yarn__ _n_ :five::hammer: _Political yarns._  
 __yawing__ _v_  
 __yawn__ _n_ _The sound of yawns and crickets._  
-__yawner__  
+__yawner__ _n_ :two::hammer:  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay__ _interj_ :two::hammer: _Yay, Giants!_  
