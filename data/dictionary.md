@@ -100,6 +100,7 @@ __acreage__ :two::hammer:
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
+__across__ _She is sitting across from you at a coffee shop._  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ To behave badly or strangely.  
 __ACT__ A college entrance exam, competitor to the SAT.  
@@ -397,6 +398,7 @@ __appreciate__ _I appreciate it._
 __apprehend__ _v_  
 __apprehension__  
 __apprehensive__ _adj_ Very nervous.  
+__apprentice__ _v_  
 __approval rating__ _Park's approval rating has plummeted._  
 __apricate__ _v_ To bask in the sun.  
 __apropos__ _prep_ :three::mega::hammer:  
@@ -1471,6 +1473,7 @@ __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bumble__ _v_ :eight: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
+__bummer__ _n_ _slang_ A disappointing or unpleasant situation or experience.  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumping__ _Bumping and grinding._  
@@ -1846,6 +1849,7 @@ __caveat__
 __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw__ (caws) :two::hammer: _A rattling caw._  
 __cawed__ _v_ :two::hammer: (cawing)  
+__CBT__  
 __CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
 __ce__  
 __CE__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
@@ -2229,6 +2233,7 @@ __collapse__ _v_ :pencil2:
 __collapsible__ _Collapsible shutters._  
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
+__collateral damage__  
 __colleague__ :mute:[colleag~~u~~e]  
 __collect (one's) wits__ _idiom_ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ _idiom_ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
@@ -2681,7 +2686,7 @@ __cruffy__
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
 __crumb__ _n_ :four::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
-__crumble__ _v_ :six::hammer: (crumbled, crumbling)  
+__crumble__ _v_ :seven::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_  
@@ -5434,6 +5439,7 @@ __high beams__
 __high places__ _I've friends in high places._  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _idiom_ Someone who gambles with large amounts of money.  
+__high school__ _n_ A school especially in the U.S. usually including grades 9–12 or 10–12.  
 __high street__ _n_ _British informal_ :three::hammer:  
 __high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
 __high__ :mute:[hi~~gh~~]  
@@ -5509,6 +5515,7 @@ __hoist<sup>1</sup>__ _n_ :es: montacargas
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold (one's) feet to the fire__ _idiom_ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
+__hold a candle__ _idiom_  
 __hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
 __hold a referendum__  
 __hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
@@ -6137,6 +6144,7 @@ __juleps__
 __Juliette balcony__  
 __jumble__ _n_ :five: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
+__jump at__ _phr v_ To take an opportunity with enthusiasm.  
 __jump ship__ _idiom_ To leave a job or activity.  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
@@ -6388,7 +6396,7 @@ __largely__
 __larger-than-life__ _fig_ :four: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lark__ :two::hammer:  
 __laser wall__  
-__lash out__ _v_ :four::hammer: (lashing out)  
+__lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
 __Lasik__ _Lasik surgery._  
@@ -7040,6 +7048,7 @@ __mick__ _n_ :three::hammer:
 __mid-afternoon__  
 __midafternoon__  
 __midday__ _n_ :two::pencil2::hammer:  
+__middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ :dart:  
 __midget__ _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ :two::hammer:  
@@ -7470,9 +7479,10 @@ __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of ho
 __no jive__  
 __no offense__  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
+__no way around it__  
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-holds-barred__  
-__no-no__ _n_ _informal_ :seven::hammer:  
+__no-no__ _n_ _informal_ :eight::hammer:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -8642,6 +8652,7 @@ __priestesses__ _n_
 __prima facie__  
 __primacy__ _n_  
 __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._  
+__primary school__ _n_ A school for young children; usually the first 6 or 8 grades.  
 __Prime Minister__  
 __prime-age__  
 __prime<sup>1</sup>__ _adj_ :two::hammer: _Their master bedroom has a prime view of the green wall._  
@@ -8926,7 +8937,7 @@ __Quran__
 __rabbit hole__ :two::hammer: _We fell into the poop rabbit hole again in this episode._  
 __rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
-__rabies__ :pencil2::two::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
+__rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
 __raccooned__ _v_  
 __raccoons__  
 __race against time__ _idiom_ To do something very quickly.  
@@ -9048,7 +9059,7 @@ __ratty__ _adj_ _slang_ Dilapidated; in poor condition.
 __raucous__ _adj_ :nine: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
 __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._  
-__ravaged__ _v_ :three::hammer:  
+__ravaged__ _v_ :four::hammer:  
 __ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
@@ -10566,7 +10577,7 @@ __soignée__
 __soil__ _v_  
 __soiled__  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
-__sojourn<sup>2</sup>__ _v_ :two::hammer:  
+__sojourn<sup>2</sup>__ _v_ :three::hammer:  
 __solace__  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
@@ -11128,11 +11139,12 @@ __stunt<sup>2</sup>__ _v_ :four::hammer: (stunted) _Movement stunted during the 
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
+__stupefy__  
 __sturdy__ _adj_ :three::hammer:  
 __stutter__ _v_ :two::hammer:  
 __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart.  
 __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._  
-__suave__ _adj_ :four::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
+__suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subcompact__ (car?)  
 __subdue__ _v_ :five::hammer: (subdued)  
@@ -12145,6 +12157,7 @@ __uncured__ _v_ _Organic grass-fed uncured hot dogs._
 __under (someone's) watch__  
 __under one's belt__  
 __under siege__  
+__under the radar__ _idiom_ Doing something without other people noticing.  
 __under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
 __under the weather__ _idiom_ :two: To feel ill.  
 __underbelly__ :two::hammer: (underbellies)  
