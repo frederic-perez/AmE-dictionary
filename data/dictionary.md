@@ -790,7 +790,7 @@ __beanpole__
 __beanstalk__ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
-__bearing__ _n_ :four::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
+__bearing__ _n_ :five::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat it__ _idiom_ To go away immediately.  
 __beat the clock__ _idiom_ To finish something before the time is up.  
@@ -3920,7 +3920,7 @@ __face-lift__
 __facetious__ _adj_ :pencil2:  
 __facetiousness__  
 __facile__ :two::hammer: _She's an extremely facile actress._  
-__facsimile<sup>1</sup>__ _n_ _The lander had two facsimile cameras._  
+__facsimile<sup>1</sup>__ _n_ :two::hammer: _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
 __facsimile<sup>3</sup>__ _v_  
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
@@ -4937,7 +4937,7 @@ __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situati
 __grass-routs__ _?_ _Grass-routs campaign._  
 __grassroots__  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
-__grate<sup>1</sup>__ _n_ :two::hammer: (grates) :camera: _Cast iron grates._  
+__grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :five: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
 __gratin__ _?_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
@@ -5107,7 +5107,7 @@ __gunships__ _Helicopter gunships._
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwhale__ :two::hammer:  
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
-__gurgling__ _v_  
+__gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
 __gurney__ _n_ :four::hammer:  
 __gush<sup>1</sup>__ _n_  
 __gush<sup>2</sup>__ _v_ :nine: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
@@ -5330,6 +5330,7 @@ __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay sug
 __hearse__  
 __heart and soul__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
+__heartedly__  
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
 __heartfelt__  
@@ -5678,7 +5679,7 @@ __hurtling__ _v_
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__ _n_ :three::hammer:  
 __hush money__ _A hush money case._  
-__hush up__ _v_ :two::hammer: _The matter had been hushed up._  
+__hush up__ _phr v_ :three: To not let something become known. _The matter had been hushed up._  
 __hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __hush-hush__ Very secret.  
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
@@ -8365,7 +8366,7 @@ __plaudits__
 __plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
-__play down something__ _phr v_ To make something seem less important than it is.  
+__play down something__ _phr v_ :two: To make something seem less important than it is. _She tried to play down her beauty._  
 __play footsie__ _idiom_ To flirt with someone by secretly touching feet.  
 __play havoc__  
 __play it safe__ _v_ :four::hammer: (play safe)  
@@ -8418,6 +8419,7 @@ __plump__ _Plump and juicy hotdogs._
 __plums__ _n_ :three::hammer:  
 __plunder__ _v_ :four::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
+__plunger__ _n_ _The syringe's plunger._  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
@@ -9623,6 +9625,7 @@ __salvo__ _n_ :four::hammer: (salvos)
 __Sam Browne belt__  
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
 __samosas__  
+__samovar__ _n_  
 __sanctuary city__ :two::hammer: _Mayor Rahm Emanuel of Chicago has declared that it "will always be a sanctuary city."_  
 __sand spits__  
 __sand<sup>1</sup>__ _n_ _You got sand._  
@@ -9640,6 +9643,7 @@ __sanitize__ _v_
 __sanity check__  
 __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._  
 __sap<sup>2</sup>__ _n_ :three::hammer: _A flat-sided sap stuck out of his back pocket._  
+__sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __sappers__ _n_  
 __sapphire lidar__  
@@ -9692,7 +9696,7 @@ __scallop__ :two::hammer: _A scallop-shell logo._
 __scalp bounties__  
 __scalp__  
 __scalpel__  
-__scalper__ _n_ :three::hammer:  
+__scalper__ _n_ :four::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
 __scammer__  
 __scamper__ _v_ :three::hammer: (scampered, scampering) _Scampered into the van._  
@@ -9922,7 +9926,7 @@ __set down<sup>2</sup>__ _phr v_ :dart: Write. _I set down this account so other
 __set forth__ _phr v_ Begin a journey or expedition. _Columbus set forth with three small ships._  
 __set menu__  
 __set off__ _phr v_ Leave; to begin a journey or trip. _He set off in search of better opportunities._  
-__set out__ _v_  
+__set out__ _phr v_ :two::dart: To put something where it can be seen or used.  
 __set piece__ _The goal was scored on a set piece._  
 __set someone apart__  
 __set the pace__  
@@ -10178,7 +10182,7 @@ __sidelines__ _n_ :three: The area or areas next to but outside a playing area. 
 __sidestep__ _v_ :four::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
-__sideways__ _I'm not interested in getting sideways with anyone at Augusta_  
+__sideways__ _n_ :two::hammer: _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
 __sieve__ _n_ :six::hammer: _Water leaking from a sieve._  
@@ -10711,6 +10715,7 @@ __splotches__ _n_
 __splurge<sup>1</sup>__ _n_ __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
 __splurge<sup>2</sup>__ _v_ :six::hammer: (splurged, splurging)  
 __splutter__ _v_ :four::hammer: (splutters, spluttered)  
+__spluttering__ _A baby's spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
 __spoilage__ :dart:  
@@ -11351,6 +11356,7 @@ __taint__ _n_ _vulgar slang_ :two: The perineum.
 __take a piss__ _idiom_ Urinate.  
 __take a shit__ _v_  
 __take a stand__  
+__take aback__ _phr v_ To surprise or shock.  
 __take by storm__  
 __take down__ _phr v_ To make notes, to write down information.  
 __take heart__  
@@ -11441,6 +11447,7 @@ __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its repu
 __tatting__ _v_  
 __tattle__ _v_  
 __tattling__  
+__tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _v_ :six::hammer: (taunted, taunting)  
 __taupe__  
@@ -11774,6 +11781,7 @@ __toilet bowl__
 __toilet stool__  
 __toiletries__  
 __Tokyoites__  
+__tolerate__ _v_  
 __toll__ _v_ :two::hammer: (tolls, tolling) _Church bells tolling._ _The bell tolls for Ukraine._  
 __tom__ (cat?)  
 __tomb__ :mute:[tom~~b~~]  
@@ -11824,6 +11832,7 @@ __torpedo__ _v_
 __torpor__ _n_ :four: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__  
 __torte__ _A torre was named after her._  
+__toss and turn__ _idiom_ Sleep badly.  
 __toss out__ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
@@ -11903,6 +11912,7 @@ __trawled__ _v_ :two::hammer:
 __trawler__  
 __treacherous__ _adj_  
 __treachery__ _n_ :three::hammer:  
+__treacle__  
 __treacly__ :two::hammer:  
 __tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
 __treading__  
@@ -12829,7 +12839,7 @@ __woefully__ _adv_ :five::hammer: _Her hand landed woefully on her forehead._
 __wogs__ _n_  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
-__womanizer__ :two::hammer:  
+__womanizer__ _n_ :three::hammer:  
 __womanizing__  
 __womb__ :mute:[wom~~b~~]  
 __women__ _n_ /ˈwɪmɪn/ :mega:  
