@@ -1,4 +1,13 @@
 
+__henchman__ _n_ Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate  
+__a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
+__lifelong__ _adj_  
+__overwrought__ _adj_  
+__lucubration__ _n_  
+__bivouac__ _v_ :astonished::pencil2:  
+__chasten__ _v_ Censure severely.  
+__now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
+
 __laggard<sup>1</sup>__ _adj_  
 __laggard<sup>2</sup>__ _n_  
 __contrive__ _v_  
