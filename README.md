@@ -19,25 +19,9 @@ I collect words and expressions from multiple (written) sources, including:
 
 ### Audio Resources
 
-I also gather interesting stuff from a myriad of podcasts, including:
+I also gather interesting stuff from a myriad of [podcasts](list-of-podcasts.md).
 
-- Andy Daly Podcast Pilot Project, hosted by Andy Daly and Matt Gourley
-- Beautiful Anonymous, hosted by Chris Gethard
-- Comedy Bang! Bang!, hosted by Scott Aukerman
-- Conan needs a friend, hosted by Conan O'Brien
-- Dexter Guff Is Smarter Than You, hosted by Peter Oldring
-- Freakonomics Radio, hosted by Stephen Dubner
-- Gilbert Gottfried's Amazing Colossal Podcast, hosted by Gilbert Gottfried and Frank Santopadre
-- Hollywood Babble-On, with Ralph Garman and Kevin Smith
-- I Am Rapaport, hosted by Michael Rapaport
-- ID10T, hosted by Chris Hardwick
-- Last Week On Earth, hosted by Ben Gleib
-- Murder Book, hosted by Michael Connelly
-- StartTalk, hosted by Neil deGrasse Tyson, with various comic and celebrity co-hosts
-- Tell Me Something I Don't Know, hosted by Stephen Dubner of Freakonomics Radio
-- This American Life, hosted by Ira Glass
-
-In addition, I also listen to a lot of stuff from [comedians](list-of-comedians.md).
+In addition, I listen to a lot of stuff from [comedians](list-of-comedians.md).
 
 ## Emojis
 
