@@ -1,4 +1,12 @@
 
+__miserably__ _Failed miserably._  
+__bake__ _v_ _Baking bread._  
+__sage<sup>1</sup>__ _n_ __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.    
+__sage<sup>2</sup>__ _adj_ Profoundly wise or prudent.  
+__click__ _v_ _It clicks when it clicks._  
+__pardon my French__ _informal_  
+__tongue in cheek__  
+__contention__ _n_ _Point of contention._  
 __jibe__ _v_  
 __glower__ _v_  
 __expatiate__ _v_  
