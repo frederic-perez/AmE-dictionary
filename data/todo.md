@@ -1,4 +1,12 @@
 
+__spruce__ _n_ :es: abeto  
+__spruce up__ _idiom_ To make to look cleaner, neater, or more attractive; to improve.  
+__pianissimo__  
+__megalomaniac__ _n_ Someone who enjoys power over other people and always wants more of it.  
+__cacophonous__ _n_ Having an unpleasant sound.  
+__Silly String__ _n_ (silly string) Aerosol string.  
+__anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
+__concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __miserably__ _Failed miserably._  
 __bake__ _v_ _Baking bread._  
 __sage<sup>1</sup>__ _n_ __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.    
