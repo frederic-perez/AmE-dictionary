@@ -1,4 +1,12 @@
 
+__jibe__ _v_  
+__glower__ _v_  
+__expatiate__ _v_  
+__adjure__ _v_ _Syn_ command  
+__maraud__ _v_  
+__countenance__ _v_  
+__elaborate__ _v_ :dart:  
+__squeamish__ _adj_  
 __flowerpot__ _n_ _Clay flowerpot._  
 __snooty__ _adj_  
 __chestnut__ _n_  
