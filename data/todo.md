@@ -1,3 +1,14 @@
+
+__laggard<sup>1</sup>__ _adj_  
+__laggard<sup>2</sup>__ _n_  
+__contrive__ _v_  
+__hurtle__ _v_  
+__prissy__ _adj_  
+__invective__ _n_ Abusive or insulting language.  
+__improvident__ _adj_  
+__parochial__ _adj_  
+__quaff__ _v_ _(chiefly literary)_  
+
 __patch up__ _idiom_ :dart: To fix something quickly so it can be used until it's repaired properly or replaced.  
 __in the black__ _idiom_ Not in debt, profitable.  
 __madden__ _v_  
