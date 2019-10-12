@@ -1,3 +1,11 @@
+__patch up__ _idiom_ :dart: To fix something quickly so it can be used until it's repaired properly or replaced.  
+__in the black__ _idiom_ Not in debt, profitable.  
+__madden__ _v_  
+__sadden__ _v_  
+__quicken__ _v_  
+__tickling__ _n_  
+__have one foot in the grave__ _idiom_ To be very old and close to death.  
+__have a heart of gold__ _idiom_ To be very kind and generous.  
 
 __work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen's work surface._  
 __carton__ _n_ _An opened carton of milk._  
