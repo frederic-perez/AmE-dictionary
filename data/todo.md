@@ -1,4 +1,13 @@
 
+__flowerpot__ _n_ _Clay flowerpot._  
+__snooty__ _adj_  
+__chestnut__ _n_  
+__feral__ _adj_  
+__sully__ _v_  
+__top billing__ _n_ The advertisement of a star's name at the top of a theatrical poster.  
+__ignominy__ _n_  
+__rape__ _n_ _The fields of rape were in full glorious bloom._  
+
 __henchman__ _n_ Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate  
 __a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __lifelong__ _adj_  
