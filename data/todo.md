@@ -1,4 +1,12 @@
 
+__work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen's work surface._  
+__carton__ _n_ _An opened carton of milk._  
+__nigh__ _adj_ Near in space or time.  
+__lasso__ _v_  
+__tidy up__ _v_ _I need to tidy the place up._  
+__whir__ _n_ (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
+__sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
+__globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
 __gourmand__  
 __prescience__ _n_ The fact of knowing something in advance; foreknowledge.  
 
