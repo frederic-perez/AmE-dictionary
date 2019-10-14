@@ -130,6 +130,7 @@ __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._
 __adjudge__ _v_  
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
+__adjure__ _v_ _Syn_ command  
 __adjuvant__ _adj_ _The adjuvant setting._  
 __admin__ _I was doing just admin stuff._  
 __admixture__ _n_ :two::hammer:  
@@ -345,6 +346,7 @@ __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the an
 __antebellum__  
 __antedate__ _n_  
 __anthology__  
+__anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
 __anti-humor__  
 __anti-Semitism__  
 __antic__  
@@ -654,6 +656,7 @@ __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)
 __bailiwick__  
 __bailout__ _n_ :four::hammer:  
 __bake in__ _v_  
+__bake__ _v_ _Baking bread._  
 __baked__ _adj_ _Kevin is baked._  
 __baker's dozen__  
 __bakeware__ _n_ (Cookery) Dishes and other cooking utensils used for baking.  
@@ -1611,6 +1614,7 @@ __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,40
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
 __cackle__ _v_ :four::hammer: (cackling)  
+__cacophonous__ _n_ Having an unpleasant sound.  
 __cacophony__ :two::hammer:  
 __cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
@@ -2123,6 +2127,7 @@ __clergy__
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__ _n_ :two::hammer:  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor's explanation of sine and cosine really clicked with me—I think I finally understand it now._  
+__click__ _v_ _It clicks when it clicks._  
 __clickbait__ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
@@ -2348,6 +2353,7 @@ __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan).
 __concoction__ :two::hammer:  
 __concomitant__ :two::hammer:  
 __concourse__ _n_ :five::hammer:  
+__concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
@@ -3866,6 +3872,7 @@ __exhilarating__ :two::hammer: _It is an exhilarating thought._
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
+__expatiate__ _v_  
 __expediency__  
 __expedient__  
 __expedite__ _v_ :dart::six::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
@@ -4818,7 +4825,7 @@ __gloom__ _n_ :three::hammer: _She was hidden in the gloom._
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
 __glossiness__  
-__glower__ _v_ :four::hammer: (glowered, glowering)  
+__glower__ _v_ :five::hammer: (glowered, glowering)  
 __glue > a glue-type player__  
 __glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
 __glut__ _n_ :six: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
@@ -6076,7 +6083,7 @@ __jetty__ :two::hammer:
 __jewelery__ (jewelry)  
 __Jewess__  
 __Jewry__  
-__jibe__ _v_ :two::hammer:  
+__jibe__ _v_ :three::hammer:  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __jibes__ :two::hammer: _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
@@ -6988,6 +6995,7 @@ __meet up__
 __meet__ _n_ :two::hammer: _I started going to international meets._  
 __meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup._  
 __megalomania__  
+__megalomaniac__ _n_ Someone who enjoys power over other people and always wants more of it.  
 __meh__  
 __mélange__ _n_  
 __melee__ _n_  
@@ -7116,6 +7124,7 @@ __misdemeanor__ :two::hammer:
 __misdirection__ _n_ :three::hammer:  
 __miser__ _n_ :two::hammer: :es: avaro  
 __miserable__ _We are miserable._  
+__miserably__ _Failed miserably._  
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
@@ -7981,7 +7990,7 @@ __Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._
 __parchment paper__ :camera:  
 __parchment__ _n_ :six::hammer: _A parchment chart._  
 __pard__  
-__pardon my French__ _idiom_ Excuse me for swearing.  
+__pardon my French__ _idiom_ :two: Excuse me for swearing.  
 __pardon__ _v_ _Pardon my ignorance._  
 __pared__ _v_  
 __pares__ _v_  
@@ -8212,7 +8221,7 @@ __photochromic__ _adj_
 __photography__ _n_ :mega:  
 __phylacteries__ :two::hammer:  
 __phytoplankton__ _n_  
-__pianissimo__ _music_ Very quietly.  
+__pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
 __Picayune__  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
@@ -9607,8 +9616,8 @@ __safety pin__ _n_ :es: imperdible
 __saffron__ _n_ :three::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
-__sage<sup>1</sup>__ _n_ :two::hammer: :es: salvia  
-__sage<sup>2</sup>__ _adj_ :three::hammer: _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
+__sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.  
+__sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
 __sahib__  
@@ -10214,6 +10223,7 @@ __siitting duck__
 __Sikh__  
 __sill__ :two::hammer:  
 __silly boy__  
+__Silly String__ _n_ (silly string) Aerosol string.  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
 __silver lining__ (See "every cloud has a silver lining.")  
 __silver screen__  
@@ -10763,8 +10773,8 @@ __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A devic
 __sprinkling__ _A sprinkling of luck._  
 __sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprouting__  
-__spruce up__ _v_ :three::hammer: _Juliette spruces up her country look and sound._  
-__spruce__ _n_ :three::hammer:  
+__spruce up__ _v_ :four: _idiom_ To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
+__spruce__ _n_ :four::hammer: :es: abeto  
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spud-faced__ :camera:  
@@ -11804,7 +11814,7 @@ __tomfoolery__ _n_
 __ton__ _A metric ton._  
 __tone-deaf__ _adj_ :two::hammer:  
 __tong__  
-__tongue in cheek__ _adj, adv_ :four::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
+__tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue__ :mute:[tong~~u~~e]  
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonsil__ _n_ _A tonsil infection._  
