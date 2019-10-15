@@ -17,6 +17,7 @@ __800-pound gorilla__
 __a bird in the hand is worth two in the bush__  
 __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
+__a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
@@ -1011,7 +1012,7 @@ __bitch<sup>2</sup>__ _v_
 __bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
 __bitingly__  
 __bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.  
-__bivouac__ :pencil2:  
+__bivouac__ _v_ :two::astonished::pencil2:  
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black gold__  
@@ -1928,6 +1929,7 @@ __chartreuse__
 __chased__ _v_ _A beautiful chased golden bowl._  
 __chasm__ _n_ :eight: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
+__chasten__ _v_ Censure severely.  
 __chastened__ :two::hammer:  
 __chastize__ _v_  
 __chasuble__ _n_ :two::hammer:  
@@ -1959,7 +1961,7 @@ __chemistry__ :mute:[c~~h~~emistry]
 __chenier__  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
-__chestnut__ :two::mute:[ches~~t~~nut]:hammer:  
+__chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
 __chew the fat__ _idiom_ To chat or gossip.  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
@@ -2529,7 +2531,8 @@ __counselor__ _n_
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count your blessings__ _idiom_ :three: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
-__countenance__ _n_ :three::hammer: _His countenance was pale and sunken._  
+__countenance<sup>1</sup>__ _n_ :three::hammer: _His countenance was pale and sunken._  
+__countenance<sup>2</sup>__ _v_  
 __counter__ _n_ _A lot of counter space._ :es: encimera  
 __counter-depth fridge__ :camera:  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
@@ -3632,6 +3635,7 @@ __eke out__ _v_ :two::hammer: (eked out)
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
 __EKG__  
 __el__ :two::hammer: _The el tracks._  
+__elaborate__ _v_ :dart:  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_  
 __elation__ :two::hammer:  
@@ -4062,7 +4066,7 @@ __fender bender__ _idiom_ :three: A little car accident. _Stranded by a fender b
 __fennel__ :two::hammer:  
 __fenny__ _A fenny marsh._  
 __fenugreek__  
-__feral__ _adj_ :five::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
+__feral__ _adj_ :six::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __Ferberization__  
 __Ferberizing__  
 __fern__ _n_ :three::hammer: (ferns) _Fern garden._ :es: helecho  
@@ -4308,6 +4312,7 @@ __flounder__ _v_ :seven: (floundering) __1__ To stagger or thrash about ineffect
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ Openly disregard (a rule, law, or convention). _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _The hypocrisy of a candidate who built a casino empire while flouting morality._  
 __flow__ _Three people in flowing black robes._  
+__flowerpot__ _n_ _Clay flowerpot._  
 __flown__ _v_ _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
@@ -5408,7 +5413,7 @@ __hemlock__
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemp__ _n_ :four::hammer: _Hemp plant._  
-__henchman__ _n_ :five::hammer: (henchmen) _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :six::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :six::hammer: (heralded) _They have a heralded arrival to Coney Island on the "bus of champions."_  
@@ -5748,6 +5753,7 @@ __iffy__ _adj_ _slang_ :three: Uncertain or doubtful. _Iffy call._
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __ignominious__  
+__ignominy__ _n_  
 __IIRC__ If I recall correctly.  
 __ilk__ _n_ :three: Type or kind: _can't trust people of that ilk._  
 __ill__  
@@ -6569,7 +6575,7 @@ __lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._
 __life preserver__ _n_ _Marty McFly's life preserver._  
 __lifeblood__ _n_ :two: The blood, as being necessary to life.  
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
-__lifelong__ _adj_  
+__lifelong__ _adj_ :two::hammer:  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
 __lift__ _n_ _I could give you a lift home._  
 __liftgate__  
@@ -6743,6 +6749,7 @@ __lowly__ _adj_ :three::hammer:_A lowly subsection of the Ministry of Interior._
 __lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
 __lucifer match__  
 __lucky charm__  
+__lucubration__ _n_  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __ludicrousness__  
@@ -6888,6 +6895,7 @@ __mantrap__ _n_
 __maple__  
 __mar__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
+__maraud__ _v_  
 __marauder__ :two::hammer:  
 __marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
@@ -7543,6 +7551,7 @@ __nought__ :mute:[nou~~gh~~t]
 __noun__ _n_  
 __nova__  
 __novella__  
+__now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nowcasting__ :two::hammer: _Nowcasting system._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
@@ -7882,7 +7891,7 @@ __overtone__ _n_
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overwheening__  
-__overwrought__ _Overwrought adults_  
+__overwrought__ _adj_ :two::hammer: _Overwrought adults_  
 __overzealous__ _n_  
 __owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
 __own goal__ _Mikael Lustig scored an own goal._  
@@ -9025,6 +9034,7 @@ __ransomware__
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
 __rap__ _South has a bad rap._  
+__rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
 __rapier__ _n_ :two: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapping__ _v_  
@@ -10534,7 +10544,7 @@ __snoodlike__
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
 __snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
-__snooty__ _adj_ :four::hammer:  
+__snooty__ _adj_ :five::hammer:  
 __snort__ _n_ :two: _Slang_ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. _A lifestyle of snorting and scrapping._  
 __snorted__ _v_  
 __snorting__ _v_  
@@ -10815,7 +10825,7 @@ __squeaker__ _Clippers keep up hot start in squeaker over Thunder._
 __squeaky__ :two::hammer:  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
-__squeamish__ _adj_ :five: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
+__squeamish__ _adj_ :six: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squeeze__ _v_  
 __squelch__ _v_ :two::hammer:  
@@ -11206,7 +11216,7 @@ __sulk<sup>2</sup>__ _v_
 __sulky__ :two::hammer:  
 __sullen__ :two::hammer:  
 __sullenly__  
-__sully__ _v_  
+__sully__ _v_ :two::hammer:  
 __sultanate__  
 __sultry__ :two::hammer:  
 __summarily__ _adv_  
@@ -11834,6 +11844,7 @@ __toothsome__ _adj_
 __tootsie__ _n_  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top bill__ _I'm not my usual top billing._  
+__top billing__ _n_ The advertisement of a star's name at the top of a theatrical poster.  
 __top dollars__  
 __top flight__ First division?  
 __top the bill__ _I'll top the bill, I'll overkill._  
