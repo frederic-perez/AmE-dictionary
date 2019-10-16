@@ -1,26 +1,4 @@
 
-__laggard<sup>1</sup>__ _adj_  
-__laggard<sup>2</sup>__ _n_  
-__contrive__ _v_  
-__hurtle__ _v_  
-__prissy__ _adj_  
-__invective__ _n_ Abusive or insulting language.  
-__improvident__ _adj_  
-__parochial__ _adj_  
-__quaff__ _v_ _(chiefly literary)_  
-
-__patch up__ _idiom_ :dart: To fix something quickly so it can be used until it's repaired properly or replaced.  
-__in the black__ _idiom_ Not in debt, profitable.  
-__madden__ _v_  
-__sadden__ _v_  
-__quicken__ _v_  
-__tickling__ _n_  
-__have one foot in the grave__ _idiom_ To be very old and close to death.  
-__have a heart of gold__ _idiom_ To be very kind and generous.  
-
-__work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen's work surface._  
-__carton__ _n_ _An opened carton of milk._  
-__nigh__ _adj_ Near in space or time.  
 __lasso__ _v_  
 __tidy up__ _v_ _I need to tidy the place up._  
 __whir__ _n_ (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  

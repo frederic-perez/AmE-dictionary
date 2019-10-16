@@ -1769,7 +1769,7 @@ __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
 __carted__ _v_  
 __cartel__ _n_ :three::hammer:  
-__carton__ _n_ :two::camera::hammer: _A carton of eggs._ _A carton of milk._ :camera:  
+__carton__ _n_ :three::camera::hammer: _A carton of eggs._ _A carton of milk._ :camera:  
 __carve out__ _v_ (carved out) :six::hammer:  
 __carveouts__  
 __cascading__  
@@ -2437,7 +2437,7 @@ __contretemps__
 __contrite__ _adj_ :four::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :three::hammer:  
-__contrive__ _v_ (contriving)  
+__contrive__ _v_ :two::hammer: (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__  
 __controversial__  
@@ -5297,9 +5297,11 @@ __haunted__ _Billy Lynn's haunted face._
 __hauteur__  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
+__have a heart of gold__ _idiom_ To be very kind and generous.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have hot pants (for someone)__ _idiom_  
+__have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have your cake and eat it (too)__ _idiom_  
 __havoc__  
@@ -5694,7 +5696,7 @@ __hurdy-gurdy__
 __hurl__ _v_ :eight: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurricane lamp__ _n_  
-__hurtling__ _v_  
+__hurtle__ _v_ :two::hammer: (hurtling)  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__ _n_ :three::hammer:  
 __hush money__ _A hush money case._  
@@ -5808,6 +5810,7 @@ __imprint<sup>2</sup>__ _v_
 __imprisoned__ _v_ :two::hammer: _Simpson has been imprisoned for almost nine years._  
 __impromptu__ :two::hammer: _Some things are impromptu._  
 __improvidence__  
+__improvident__ _adj_  
 __impunity__  
 __in a nutshell__  
 __in abeyance__  
@@ -5826,7 +5829,7 @@ __In retrospect,__ (?)
 __in short order__  
 __in so far as__  
 __in stitches__ _idiom_  
-__in the black__ _idiom_  
+__in the black__ _idiom_ :two: Not in debt, profitable.  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the doghouse__ _idiom_ :two::hammer:  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
@@ -5997,7 +6000,7 @@ __intricate__
 __intuit__ _v_ :three: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
-__invective__ _n_ :four::hammer:  
+__invective__ _n_ :five: Abusive or insulting language.  
 __inveighed__  
 __inveterate__ _adj_ :three::hammer:  
 __invoice__ _v_  
@@ -6367,8 +6370,8 @@ __Lady Luck__ _I''m riding with Lady Luck._
 __ladybird__ _n_  
 __ladyfinger cookies__  
 __lag__ _v_ :two::hammer:  
-__laggard<sup>1</sup>__ _adj_ :three::hammer:  
-__laggard<sup>2</sup>__ _n_  
+__laggard<sup>1</sup>__ _adj_ :four::hammer:  
+__laggard<sup>2</sup>__ _n_ :two::hammer:  
 __lagged__  
 __laid back attitude__  
 __laid-back__ _idiom_ :six: _Laid-back guy or people._ _Australia's laid back lifestyle._  
@@ -6806,6 +6809,7 @@ __mackerel__ :two::hammer:
 __mackinaw__  
 __macula__ _n_  
 __madcap__  
+__madden__ _v_  
 __made of money__ _idiom_ To be very rich.  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
@@ -7467,7 +7471,7 @@ __nickel__ _n_ _A nickel mine._
 __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
-__nigh__  
+__nigh__ _adj_ :two: Near in space or time.  
 __night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__ _n_ :two: A woman's nightgown.  
@@ -8013,7 +8017,7 @@ __parley<sup>1</sup__ _n_
 __parley<sup>2</sup__ _v_  
 __parliament__ :pencil2::two::hammer:  
 __parlor__  
-__parochial__ :two::hammer:  
+__parochial__ _adj_ :three::hammer:  
 __parolee__ _n_  
 __paroxysm__  
 __parried__ _v_  
@@ -8052,7 +8056,7 @@ __pat<sup>1</sup>__ _v_ :camera::dart: (patted) Hit lightly. _She patted the sof
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
-__patch up__  
+__patch up__ _idiom_ :two::dart: To fix something quickly so it can be used until it's repaired properly or replaced.  
 __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
 __pathetic__  
@@ -8686,7 +8690,7 @@ __prior<sup>2</sup>__ _n_ (priors)
 __prioritize__ _v_  
 __prise__ _n_  
 __prised out__ _v_  
-__prissy__ _adj_ :two::hammer:  
+__prissy__ _adj_ :three::hammer:  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
@@ -8891,6 +8895,7 @@ __qua__ _prep_ In the capacity or character of; as: _The president qua head of t
 __quack__ _n_ :three: Incompetent doctor.  
 __quadrennial__  
 __quadroons__  
+__quaff__ _v_ _(chiefly literary)_  
 __quaffable__  
 __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ _n_ :three: __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
@@ -8927,7 +8932,7 @@ __questioner__ _n_
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
 __quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault over trivial matters or minor concerns; cavil. _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
-__quicken__  
+__quicken__ _v_ :two::hammer:  
 __quickening__ :two::hammer: _He felt a quickening within him._  
 __quicksand__ :two::hammer: _I've just signed a quicksand employment contract._  
 __quicksilver__  
@@ -9613,6 +9618,7 @@ __sackful__
 __sacristan__  
 __sacristy__ _n_  
 __sacrosanct__  
+__sadden__ _v_  
 __saddle__ _A saddle of meat._  
 __sadism__ _n_  
 __sadistic__ _adj_  
@@ -11695,6 +11701,7 @@ __tick__ _v_ _Prices ticked up 0.2%._
 __ticker__ _n_ :two: __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
 __tickle__ _v_ :four::hammer: _Does that tickle?_  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
+__tickling__ _n_  
 __ticklish__ :two::hammer:  
 __ticky-tacky__ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
@@ -12901,6 +12908,7 @@ __work my tail of__
 __work off__ _phr v_ To get rid of something by using physical effort.  
 __work on__ _phr v_ To spend time or improving something.  
 __work out__ _phr v_ To find the answer or solution.  
+__work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen's work surface._  
 __workaday__  
 __workforce__  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
