@@ -2077,6 +2077,7 @@ __clam up__ _v_
 __clamant__ _adj_ Compelling or pressing; urgent.  
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._ _She clambered down to the ground._  
+__clamming__ _adj_ _His clamming forehead._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
@@ -3528,7 +3529,7 @@ __dungarees__ _n_ :five::hammer: _The men in black dungarees stood motionless._
 __dunno__  
 __duo__  
 __dupe__ _A dupe of a president._  
-__duped__ _v_ :five::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
+__duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplexes__ :two::hammer:  
 __duplicitious__ _A duplicitious cigarette industry._  
 __duplicitous__  
@@ -3945,6 +3946,7 @@ __faction__ _n_
 __factor in__ _v_ :two::hammer:  
 __factual__  
 __fad__ _n_  
+__faeces__ _n_  
 __fail__ _v_ _I'm trying--and failing--to work out the logic of this._  
 __failover__ _n_  
 __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
@@ -4826,6 +4828,7 @@ __glitzy__
 __gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
 __gloat__ _v_ :five::hammer: (gloating) _I could not gloat._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
+__globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
 __gloom__ _n_ :three::hammer: _She was hidden in the gloom._  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
@@ -4929,6 +4932,7 @@ __gossipy__ _adj_
 __gouge__ _v_ :five::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __goulash__  
+__gourmand__  
 __gout__  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
@@ -5128,6 +5132,7 @@ __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._
 __gurney__ _n_ :four::hammer:  
 __gush<sup>1</sup>__ _n_  
 __gush<sup>2</sup>__ _v_ :nine: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
+__gushing__ _adj_  
 __gushy__  
 __gusseted__ _Gusseted underarms._  
 __gussets__  
@@ -6417,7 +6422,7 @@ __lashed__ _v_
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
 __Lasik__ _Lasik surgery._  
 __lassitude__  
-__lassos__ _v_  
+__lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
 __last straw__ _idiom_ :two: The final problem in a series of problems.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
@@ -6437,6 +6442,7 @@ __Latinas__
 __Latino__ :pencil2: _In Los Angeles half of the city's residents are Latino._  
 __Latinos__ _n_  
 __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
+__latrine__ _n_  
 __laudable__  
 __laudatory__ Expressing praise; commendatory.  
 __lauded__ _v_  
@@ -7266,6 +7272,7 @@ __motoring__
 __motorist__ _n_ :two: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
+__mould__ _n_  
 __mountaintops__ _n_  
 __mountebank__  
 __mounting__ _Evidence is mounting for an ocean at Pluto._  
@@ -8467,7 +8474,7 @@ __pocket change__
 __pockmarked__ :camera::two::hammer: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
-__pod__ _n_ _A pod of whales._  
+__pod__ _n_ :two::hammer: _A pod of whales._ _A seed pod._  
 __podge__ _n informal_ A short chubby person.  
 __podiatrist__ _n_  
 __podjo__  
@@ -8627,14 +8634,14 @@ __prep__ (prepping) _I was prepping for the show._
 __prep<sup>1</sup>__ _n_? (preparatory?)  
 __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
 __prepone__ _v_ To bring forward to an earlier time.  
-__preposterous__ _adj_ :seven::hammer:  
+__preposterous__ _adj_ :eight::hammer:  
 __preposterously__ :two::hammer:  
 __preppers__  
 __prepping__ _v_  
 __prequel__  
 __prerogative__ _n_ :four::hammer:  
 __presbyopia__ _n_  
-__prescience__ _n_ :two::hammer:  
+__prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
 __prescient__ _adj_ :five::hammer:  
 __prescribe__ _v_  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
@@ -9702,6 +9709,7 @@ __satyr__
 __saucerful__  
 __saucy__  
 __saunter__ _v_ :two::hammer: (sauntered) _Lynn sauntered to the edge of the stage._  
+__sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sautoir__ _Sautoir necklace._  
 __savagery__  
 __save (one's) face__  
@@ -9829,7 +9837,7 @@ __Scrooge__
 __scrouching__ _v_  
 __scrounge up__ _To scrounge up the funds._  
 __scrub brush__  
-__scrub__ _v_ :two::hammer:  
+__scrub__ _v_ :three::hammer: (scrubbed) _He scrubbed his hands at the sink._  
 __scrubbers__ _n_  
 __scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
@@ -9894,7 +9902,7 @@ __seedy__ _A seedy world._
 __seek out__  
 __seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
 __seen (or known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
-__seep__ _v_ :five: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Syn_ oze, trickle, exude, drip  
+__seep__ _v_ :six: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Syn_ oze, trickle, exude, drip  
 __seepage__ :two::hammer:  
 __seer__ _n_  
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
@@ -10645,7 +10653,7 @@ __sot__ :two::hammer: _A surly sot._
 __sought-after__  
 __soul__ _n_ :mega:  
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
-__sound__ :two::hammer: _A sound investment._ _A sound sleep._  
+__sound__ _adj_ :three::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __soundly__ _Sleep soundly._  
 __soup kitchen__ _n_  
@@ -11698,6 +11706,7 @@ __tic<sup>1</sup>__ _n_ :two::hammer: _A tic sucking on the neck of a dog._
 __tic<sup>2</sup>__ _v_  
 __tick prevention__  
 __tick__ _v_ _Prices ticked up 0.2%._  
+__ticker tape__  
 __ticker__ _n_ :two: __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
 __tickle__ _v_ :four::hammer: _Does that tickle?_  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
@@ -11706,7 +11715,7 @@ __ticklish__ :two::hammer:
 __ticky-tacky__ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __tidbit__ _n_ :pencil2::four::hammer: (tidbits) _He fed the cat tidbits._  
-__tidy up__ _phr v_ :two: To put something in order; to clean something.  
+__tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy__ _A tidy plan._  
 __tie-dye__  
 __tie-up__ _n_  
@@ -12726,7 +12735,7 @@ __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip 
 __whiplash__ _n_ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
 __whippersnapper__  
 __whipping by__ _The summer is whipping by._  
-__whir__ _n_  
+__whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
 __whirl__ :mute:[w~~h~~irl]  
 __whirled__ _v_  
 __whirlpool__ _n_  

@@ -1,25 +1,4 @@
 
-__lasso__ _v_  
-__tidy up__ _v_ _I need to tidy the place up._  
-__whir__ _n_ (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
-__sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
-__globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
-__gourmand__  
-__prescience__ _n_ The fact of knowing something in advance; foreknowledge.  
-
-__sound__ _His reasons were sound._  
-__duped__ _v_  
-__latrine__ _n_  
-__faeces__ _n_  
-__ticker tape__  
-__mould__ _n_  
-__seeped__ _Blood seeped out of their pores._  
-__pod__ _n_ _A seed pod._  
-__bleak__ _adj_  
-__gushing__ _adj_ (?)  
-__preposterous__ _adj_  
-__clamming__ _adj_ _His clamming forehead._  
-__scrubbed__ _v_ _He scrubbed his hands at the sink._  
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 
 __read into something__  
