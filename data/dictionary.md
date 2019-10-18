@@ -493,7 +493,7 @@ __aspirin__ _n_ :mega:
 __assail__ _v_ :two: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward's army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
 __assault__ :two::hammer:  
-__assembly line__ _n_ :four::hammer:  
+__assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
 __asses__ _n_ :two::hammer:  
 __asset__  
@@ -543,7 +543,7 @@ __attend to__ _phr v_ To deal with something or someone.
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :two::mega::hammer:  
 __attest__ _v_ :two::hammer:  
-__attire__ _n_ :four::hammer: _Casual attire is requested._  
+__attire__ _n_ :five::hammer: _Casual attire is requested._  
 __Attn__  
 __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
 __attrition__ _n_ :six::hammer:  
@@ -1648,7 +1648,7 @@ __call of duty__
 __call of nature__ _idiom_ The need to go to the toilet.  
 __call on someone__ _He called on me._  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
-__call out<sup>2</sup>__ _v_ :seven: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
+__call out<sup>2</sup>__ _v_ :eight: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call someone names__ _I wouldn't call you names._  
 __call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
 __call the shots__  
@@ -2202,6 +2202,7 @@ __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattail
 __cob__  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble__ _v_ :two::hammer: (cobbled)  
+__cobbler__ _n_  
 __cobweb__ _n_ :five::hammer: (cobwebs)  
 __cockerel__  
 __cocoon__ _n_  
@@ -2859,6 +2860,7 @@ __dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._
 __dashing__ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
 __date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
+__dateable__ _adj_ That can be given a date.  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
@@ -4360,6 +4362,7 @@ __fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
+__foldout chair__ _n_  
 __folk__ _n_ _n pl_ :four::hammer::mute:[fo~~l~~k]  
 __follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
 __follow suit__ _idiom_ :four: To do as another has done; follow an example.  
@@ -4493,6 +4496,7 @@ __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in Mar
 __franchise__ _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
 __Frappuccino__  
+__frat house__  
 __frat__ _A frat house._  
 __frats__ _n_  
 __fraudulent__ _adj_  
@@ -5692,6 +5696,7 @@ __humpty-dumpty__
 __Humpty-Dumpty__ :two::hammer:  
 __Humvee__ _n_ :two::hammer:  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
+__hundo__ _n_ _informal_ A hundred.  
 __hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
@@ -6951,7 +6956,7 @@ __masterpiece__
 __mat__ _I'm not going to the mat for her._  
 __matahara__ Maternity harassment.  
 __matchmaking service__  
-__matchstick__ _n_  
+__matchstick__ _n_ :two::hammer:  
 __matchup__ _n_ :two::hammer: (matchups)  
 __materiel__ _n_ Equipment and supplies of a military force.  
 __maternity leave__  
@@ -8777,7 +8782,7 @@ __pry__ _v_ :nine: To enquire in an overinquisitive or impertinent manner. _To p
 __psalm__ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseudo__ :mute:[~~p~~seudo]  
 __pseudonym__ :mute:[~~p~~seudonym]  
-__psyche__ :mute:[~~p~~syche]  
+__psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
 __psychiatrist__ :mute:[~~p~~sychiatrist]  
 __psychic__ :mute:[~~p~~sychic]  
 __psychology__ :mute:[~~p~~sychology]  
@@ -8846,6 +8851,7 @@ __puny__ _A puny garden snail._
 __pupil__ _n_  
 __pupillary__ _adj_ _Pupillary distance._  
 __puppy love__ _n_ _slang_ Adolescent love or infatuation. Immature love between young people or children.  
+__puppy play__  
 __puppy__  
 __pups__ _n_  
 __purée__  
@@ -9116,6 +9122,7 @@ __reach for the stars__ Have high or ambitious aims.
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
 __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
+__read into something__  
 __readily__ _adv_ :three::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
@@ -9445,7 +9452,7 @@ __ritzy__ _adj_
 __rived__ _v_  
 __riven__  
 __river outfitter__  
-__rivulets__  
+__rivulets__ :two::hammer: _Rivulets of blood._  
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road map__ _n_ :pencil2:  
@@ -10820,7 +10827,7 @@ __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _S
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :four::hammer: _The Olympics squad._  
-__squalid__ _adj_ :pencil2::three::hammer: _Squalid home._  
+__squalid__ _adj_ :four::pencil2::hammer: _Squalid home._  
 __squall__ :two::hammer:  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander__  
@@ -11457,6 +11464,7 @@ __tannin__ _n_ Any of various complex phenolic substances of plant origin; used 
 __tantalize__ _v_ (tantalizing)  
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
+__tap dancing__ _idiom_  
 __tap into__ _idiom_ :six: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
 __tap__ _v_ :six: (tapped: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
@@ -11506,7 +11514,7 @@ __tax break__ _n_ :two::hammer: (tax breaks)
 __tax levy__  
 __taxa__  
 __taxidermy__ _n_  
-__taxpayer__ _n_  
+__taxpayer__ _n_ :two::pencil2::hammer:  
 __TBD__  
 __tchotchkes__ :two::hammer: _Simpson tchotchkes._  
 __tea party__ :two::hammer: _Tea party groups._ _Tea party rallies._  
@@ -11902,6 +11910,7 @@ __tough love__ _n_ :three::hammer:
 __tough luck__  
 __toupee__ _n_  
 __tourney__  
+__tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _v_ :three::hammer: (touted)  
@@ -12197,6 +12206,7 @@ __under siege__
 __under the radar__ _idiom_ Doing something without other people noticing.  
 __under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
 __under the weather__ _idiom_ :two: To feel ill.  
+__under water__  
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
@@ -12537,7 +12547,7 @@ __waffling__
 __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
 __wafted__ _v_  
 __wafting__ _v_  
-__wag__ _v_ :three::hammer: _The puppy was wagging its tail._  
+__wag__ _v_ :four::hammer: _The puppy was wagging its tail._  
 __wage__ _n_ :two::hammer:  
 __waged__ _v_  
 __wager__ _n_  
@@ -12631,7 +12641,7 @@ __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent
 __weaknesses__ _What are your personal strengths and weaknesses?_  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :three::hammer:  
+__weaponize__ _v_ :four::hammer:  
 __weary__  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor', 'Manager', and 'Super'._  

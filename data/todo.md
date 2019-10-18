@@ -1,26 +1,4 @@
 
-__tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
-
-__read into something__  
-__tap dancing__ _idiom_  
-__frat house__  
-__foldout chair__ _n_  
-__hundo__ (?) One hundred (?)  
-__under water__  
-__taxpayer__ _n_ (single word?)  
-__dateable__ (?)  
-__call out__ _v_  
-__weaponize__ _v_  
-__wag__ _v_ (?) _I've got a tail that wags._  
-__puppy play__
-
-__assembly line__  
-__rivulets__ _Rivulets of blood._  
-__squalid__ _adj_  
-__cobbler__ _n_  
-__matchstick__ _n_  
-__psyche__ _n_  :pencil2::mega:(?)  
-__attire__ _n_  
 __clique__ _n_  
 __sulky__ _adj_ _Sulky-looking unshaven men._  
 __bulbous__ _A bulbous man._  
