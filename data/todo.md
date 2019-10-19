@@ -1,4 +1,12 @@
 
+__all in all__  
+__parterre__ _n_  
+__twist__ _n_ _I'll have my vodka martini with a twist of lemon._  
+__thaw__ _n_ _She sensed a thaw in the conversation._  
+__knackered__ _v_  
+__antagonize__ _v_ 
+__lair__ _n_  
+__Ibuprofen__  
 __ankle-biter__ _n_ _slang_ Child.  
 __afters__ _n_ _slang_ Dessert.  
 __textrovert__  
