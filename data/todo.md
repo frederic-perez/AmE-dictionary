@@ -1,4 +1,12 @@
 
+__tut__ _v_ (tutted)  
+__book__ _v_ _I'll book us a table._  
+__snooty__  
+__jar__ _n_ _An opened jar of olives._  
+__enthused__ _v_  
+__volubly__ adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
+__overheads__ _n_ _That money just covered their overheads._  
+__two-timing__ _She discovered the two-timing cheat was married._  
 __zillion__  
 __doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __bad-mouth__ _v_ _informal_ Criticize (someone) behind their back.  
