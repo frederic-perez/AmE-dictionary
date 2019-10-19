@@ -10,6 +10,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Bob Newhart](https://www.youtube.com/results?search_query=Bob+Newhart)
 - [Brad Williams](https://www.youtube.com/results?gl=US&search_query=Brad+Williams) is frequently confused with Wee Man from Jackass because of their similar appearance.
 - [Chris Gethard](https://www.youtube.com/results?search_query=Chris+Gethard)
+- [Christi Chiello](https://www.youtube.com/results?gl=US&search_query=Christi+Chiello) is a roastmaster.
 - [Conan O'Brien](https://www.youtube.com/results?search_query=Conan+O'Brien)  
 - [Dana Carvey](https://www.youtube.com/results?gl=US&search_query=Dana+Carvey) won a Primetime Emmy Award from five consecutive nominations.
 - [Don Rickles](https://www.youtube.com/results?search_query=Don+Rickles)
