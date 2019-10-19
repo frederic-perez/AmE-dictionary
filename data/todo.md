@@ -1,4 +1,13 @@
 
+__lavish__ _adj_  
+__pinion<sup>1</sup>__ _n_  
+__pinion<sup>2</sup>__ _v_  
+__unseemly__ _adj_ _Syn_ indecorous  
+__indecorous__ _adj_  
+__whittle__ _v_  
+__pare__ _v_  
+__dissemble__ _v_  
+__cloak__ _v_  
 __lambent__  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has "bats in the belfry" is insane or eccentric. This phrase is responsible for the use of bats for "insane" (as in "Are you completely bats?") and the occasional use of belfry for "head" ("He's not quite right in the belfry").  
 __heatwave__ _n_  
