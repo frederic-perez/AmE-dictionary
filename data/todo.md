@@ -1,4 +1,12 @@
 
+__dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
+__genial__ _adj_ Friendly and kind.  
+__desperate times call for desperate measures__ _idiom_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
+__wheedle__ _v_  
+__the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
+__God is in the detail(s)__ _idiom_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results.  
+__exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
+__tellurian__  
 __clique__ _n_  
 __sulky__ _adj_ _Sulky-looking unshaven men._  
 __bulbous__ _A bulbous man._  
