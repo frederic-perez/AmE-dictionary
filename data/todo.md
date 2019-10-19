@@ -1,4 +1,14 @@
 
+__swig<sup>1</sup>__ _n_  
+__swig<sup>2</sup>__ _v_  
+__gulp<sup>1</sup>__ _n_  
+__gulp<sup>2</sup>__ _v_  
+__bequeath__ _v_  
+__hubbub__ _n_  
+__poignance__ _n_  
+__waylay__ _v_  
+__flay__ _v_  
+__munificent__ _adj_  
 __dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __genial__ _adj_ Friendly and kind.  
 __desperate times call for desperate measures__ _idiom_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
