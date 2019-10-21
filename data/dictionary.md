@@ -174,7 +174,7 @@ __aft__ :two::hammer: _Aft compartment._
 __aftereffects__  
 __afterglow__  
 __aftermarket__  
-__afters__ _n informal_ Dessert.  
+__afters__ _n informal_ :two: Dessert.  
 __afterward__ :two::hammer:  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
 __against the clock__ _idiom_ :two: Rushed and short on time.  
@@ -236,7 +236,7 @@ __algae__ _n_
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
-__all in all,__ _phr_ :three: __1__ Generally; taking everything into account. __2__ Supremely important.  
+__all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
@@ -332,7 +332,7 @@ __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is 
 __animosity__ _n_ :nine: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
 __aniseed__ _n_  
-__ankle-biter__ Child.  
+__ankle-biter__ _n_ _slang_ :two: Child.  
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
 __annihilation__ :pencil2::mega:  
@@ -343,6 +343,7 @@ __anomic__
 __anorak__ _n_ :two::hammer:  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ :mute:[ans~~w~~er]  
+__antagonize__ _v_  
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
 __antedate__ _n_  
@@ -3516,6 +3517,7 @@ __dull__ _adj_ :two::hammer: _Never a dull moment._
 __dullard__  
 __dully__ _adv_  
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
+__Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
 __dumb struck__ :two::hammer: (dumbstruck)  
 __dumb__ :mute:[dum~~b~~]  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
@@ -5738,6 +5740,7 @@ __hysteric__
 __hysterical__  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
+__Ibuprofen__  
 __ice cream cone__  
 __ice house__ _Insulated ice houses._  
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
@@ -6162,7 +6165,7 @@ __judgments__ _Legal judgments._
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice boxes__ :camera:  
-__juice__ Energy, power.  
+__juice__ _n_ _slang_ :two: Energy, power.  
 __juicy__ :two::hammer:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::hammer:  
@@ -6171,8 +6174,10 @@ __Juliette balcony__
 __jumble__ _n_ :five: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
 __jump at__ _phr v_ To take an opportunity with enthusiasm.  
+__jump for joy__ _idiom_ To be very happy about something.  
 __jump ship__ _idiom_ To leave a job or activity.  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
+__jump through hoops__ _idiom_ To do a lot of difficult things before you are allowed to have or do something you want.  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
 __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
 __jumpers__  
@@ -6298,7 +6303,8 @@ __kiwi__
 __kleptocracy__ :two::hammer:  
 __klutz__ :two::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She's got a knack for it._  
-__knackered__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
+__knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
+__knackered<sup>1</sup>__ _v_  
 __knave__  
 __knavish__  
 __knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
@@ -6386,7 +6392,7 @@ __lagged__
 __laid back attitude__  
 __laid-back__ _idiom_ :six: _Laid-back guy or people._ _Australia's laid back lifestyle._  
 __lain__  
-__lair__ _A tiger's lair._  
+__lair__ _n_ :two::hammer: _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
 __lamb__ :mute:[lam~~b~~]  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
@@ -7699,6 +7705,7 @@ __on cloud nine__
 __on deck__  
 __on edge__ _idiom_ :two: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._  
 __on every level__ _idiom_ _That was a bad idea on every level._  
+__on fire__ _idiom_ Something is going really well or someone is doing a fantastic job.  
 __on foot__ _I work to work on foot._  
 __on pins and needles__ _idiom_ Worried or excited about something.  
 __on steroids__  
@@ -8044,6 +8051,7 @@ __part-time<sup>2</sup>__ _adv_
 __partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
+__parterre__ _n_  
 __participatory__ _I wanted to be a participatory father._  
 __particle board__  
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
@@ -8317,7 +8325,8 @@ __pincushion__
 __pine (for)__ _v_  
 __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only in movies that people pined for the dead._  
 __ping__ _v_ _Pinging with heat._  
-__pinion__ _v_ :two::hammer: (pinioned)  
+__pinion<sup>1</sup>__ _n_  
+__pinion<sup>2</sup>__ _v_ :three::hammer: (pinioned)  
 __pink collar__ _Pink collar jobs._  
 __pink elephants__ _idiom_ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
 __pink eye__ _n_ :two::hammer:  
@@ -11590,6 +11599,7 @@ __tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.
 __tethering ring__ _n_  
 __Texas Panhandle__  
 __texcetera__  
+__textrovert__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
 __thane__ _v_  
 __thang__  
@@ -11601,7 +11611,7 @@ __that much__ _I'll tell you that much._
 __that will do__  
 __that's the breaks__  
 __thaw<sup>1</sup>__ _v_ :four: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
-__thaw<sup>2</sup>__ _n_ :five: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
+__thaw<sup>2</sup>__ _n_ :six: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the "m" word__  
 __the 105's__  
@@ -12154,6 +12164,7 @@ __twinge__ _n_ :two::hammer:
 __twinkle__  
 __twinned towns__  
 __twirl__ _v_ _Goodman twirled is spectacles._  
+__twist__ _n_ _I'll have my vodka martini with a twist of lemon._  
 __twit__ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_  
 __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
@@ -12281,6 +12292,7 @@ __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule.
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
 __unscathed__ _adj_ :five: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unseemly__ _adj_ _Syn_ indecorous  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
 __unsettling__ _adj_ :two: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man's unsettling eyes._  
 __unshackle__ _The two guards unshackled Sam at the door._  
