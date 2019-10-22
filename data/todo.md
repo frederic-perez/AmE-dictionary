@@ -1,24 +1,4 @@
 
-__indecorous__ _adj_  
-__whittle__ _v_  
-__pare__ _v_  
-__dissemble__ _v_  
-__cloak__ _v_  
-__lambent__  
-__belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has "bats in the belfry" is insane or eccentric. This phrase is responsible for the use of bats for "insane" (as in "Are you completely bats?") and the occasional use of belfry for "head" ("He's not quite right in the belfry").  
-__heatwave__ _n_  
-__uptake__ _n_  
-__scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
-__partyer__ _n_  
-__clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
-__clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
-__tut__ _v_ (tutted)  
-__book__ _v_ _I'll book us a table._  
-__snooty__  
-__jar__ _n_ _An opened jar of olives._  
-__enthused__ _v_  
-__volubly__ adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
-__overheads__ _n_ _That money just covered their overheads._  
 __two-timing__ _She discovered the two-timing cheat was married._  
 __zillion__  
 __doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  

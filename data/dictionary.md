@@ -880,6 +880,7 @@ __belches__ _v_ _Steam belches from the nuclear power plant._
 __belching__  
 __beleaguer__ _v_  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
+__belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has "bats in the belfry" is insane or eccentric. This phrase is responsible for the use of bats for "insane" (as in "Are you completely bats?") and the occasional use of belfry for "head" ("He's not quite right in the belfry").  
 __belie__ _v_ :seven: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ _v_ :four: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
@@ -1206,6 +1207,7 @@ __booby-trapped 105's__
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
 __boohoo__ _v_  
+__book__ _v_ _I'll book us a table._  
 __bookcases__ _n_ :two::hammer:  
 __bookend__ _n_  
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
@@ -2133,6 +2135,8 @@ __cliché__ _n_ :two::hammer:
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor's explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __click__ _v_ _It clicks when it clicks._  
 __clickbait__ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
+__clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
+__clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
 __climb__ :mute:[clim~~b~~]  
@@ -2145,7 +2149,7 @@ __clipped grass__
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
 __clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. :es: camarilla  
 __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
-__cloak<sup>2</sup>__ _v_ _Syn_ disguise  
+__cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
 __cloakroom__ _n_ :two::hammer:  
 __clobber__ _v_ :three::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
 __clock in__ _v_  
@@ -3217,7 +3221,7 @@ __dissatisfaction__ :two::hammer:
 __dissatisfied__ _adj_ :pencil2:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
-__dissemble__ _v_ :two::hammer: _Syn_ pretend  
+__dissemble__ _v_ :three::hammer: _Syn_ pretend  
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :two::hammer:  
@@ -3757,7 +3761,7 @@ __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, s
 __entail<sup>1</sup>__ _v_ :six::hammer: (entails)  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthuse__ _v_ :eight: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
+__enthuse__ _v_ :nine: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
 __entice__ _v_ :two::hammer: (enticing)  
@@ -5377,6 +5381,7 @@ __heathenish__
 __heathenism__  
 __heather__  
 __heathy__  
+__heatwave__ _n_  
 __heave__ _v_ (heaving) :three::hammer: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavily__ _He was drinking heavily._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
@@ -5898,6 +5903,7 @@ __inculcate__ _v_
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
+__indecorous__ _adj_  
 __indefatigable__ _adj_ :five::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
 __indefinite__  
 __indelible__ _adj_ :six::hammer::pencil2: _An indelible mark._  
@@ -6073,7 +6079,8 @@ __Janes and Joes__ :pencil2: _Regular Janes and Joes._
 __jangled__ _v_  
 __janitor__ _n_  
 __jape__ _v_  
-__jar__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
+__jar<sup>1</sup>__ _n_ _An opened jar of olives._  
+__jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
@@ -6303,8 +6310,8 @@ __kiwi__
 __kleptocracy__ :two::hammer:  
 __klutz__ :two::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She's got a knack for it._  
-__knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
 __knackered<sup>1</sup>__ _v_  
+__knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
 __knave__  
 __knavish__  
 __knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
@@ -6396,6 +6403,7 @@ __lair__ _n_ :two::hammer: _A tiger's lair._
 __lam__ _The Bronco is on the lam._  
 __lamb__ :mute:[lam~~b~~]  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
+__lambent__  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::hammer: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
@@ -7893,7 +7901,7 @@ __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, f
 __overdue__ _A resurgence in social homes is long overdue._  
 __overflight__  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
-__overhead__  
+__overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I'll top the bill, I'll overkill._  
 __overlay__ _n_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
@@ -8024,8 +8032,7 @@ __parchment__ _n_ :six::hammer: _A parchment chart._
 __pard__  
 __pardon my French__ _idiom_ :two: Excuse me for swearing.  
 __pardon__ _v_ _Pardon my ignorance._  
-__pared__ _v_  
-__pares__ _v_  
+__pare__ _v_ :three::hammer: (pares, pared)  
 __pariah__ _n_ :four::hammer:  
 __paring knife__ _n_  
 __paring__  
@@ -8060,6 +8067,7 @@ __party animal__ _n_ :two: A person who loves to go to parties. Someone who like
 __party line__ _n_  
 __party poppers__  
 __party__ _n_  
+__partyer__ _n_  
 __parvenu__  
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
@@ -9860,6 +9868,7 @@ __scrum__ _Beltway scrum._
 __scrummy__ _adj_ Very delicious.  
 __scrumptious__  
 __scrunched__ (scrunching) :two::hammer:  
+__scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
 __scrupulously__  
 __scrutiny__ :two::hammer:  
 __scud<sup>1</sup>__ _n_ _Scud work._  
@@ -10574,7 +10583,7 @@ __snoodlike__
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
 __snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
-__snooty__ _adj_ :five::hammer:  
+__snooty__ _adj_ :six::hammer:  
 __snort__ _n_ :two: _Slang_ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. _A lifestyle of snorting and scrapping._  
 __snorted__ _v_  
 __snorting__ _v_  
@@ -12138,6 +12147,7 @@ __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German l
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
 __tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuffle.  
 __tussling__ _v_  
+__tut__ _v_ (tutted)  
 __tut-tutting__  
 __tutelage__  
 __tutor__ _n_  
@@ -12363,7 +12373,7 @@ __upskirting__ _n_
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__  
+__uptake__ _n_ :two::hammer:  
 __uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__  
@@ -12535,6 +12545,7 @@ __volition__ :two::hammer:
 __volley__ :two::hammer: _A volley of invective._ _(military attack?)_  
 __voltron__  
 __voluble__  
+__volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
 __votaries__  
 __vote in__ _phr v_ To choose somebody for a position by voting.  
 __vote off__ _phr v_ _Nikki was voted off first from Dancing with the Stars._  
@@ -12784,7 +12795,7 @@ __whitelist__ _v_
 __whiteout__  
 __whitewash__ _v_ :four::hammer:  
 __whithered__  
-__whittle__ _v_ :seven::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
+__whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizz__  
 __whizzing__  
 __WHO__  
