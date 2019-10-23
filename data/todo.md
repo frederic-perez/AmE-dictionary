@@ -1,25 +1,4 @@
 
-__dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
-__genial__ _adj_ Friendly and kind.  
-__desperate times call for desperate measures__ _idiom_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
-__wheedle__ _v_  
-__the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
-__God is in the detail(s)__ _idiom_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results.  
-__exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
-__tellurian__  
-__clique__ _n_  
-__sulky__ _adj_ _Sulky-looking unshaven men._  
-__bulbous__ _A bulbous man._  
-__fastidious__ _adj_ _He was fastidious about showing off his collection._  
-__squat__ _adj_  
-__slid__ _v_ _His glasses often slid down his nose._  
-__gravitas__ _n_  
-
-__sweat bullets__ _idiom_ :dart: To suffer intense distress, anxiety, worry, or fear.  
-__hoot__ _v_  
-__holler__ _v_  
-__golden goose__ _n_  
-__debacle__  
 __agonal__ _Agonal breathing._  
 __ascertain__ _v_  
 __saddened__  

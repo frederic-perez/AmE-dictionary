@@ -1463,6 +1463,7 @@ __bugout__
 __build a future__ :es: labrarse un futuro  
 __build__ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
+__bulbous__ _adj_ _A bulbous man._  
 __bulk up__ _v_  
 __bulk__  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
@@ -2148,7 +2149,7 @@ __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initia
 __clip__ _n_ :two::hammer: _A better newspaper clip._  
 __clipped grass__  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
-__clique__ _n_ :five: (cliques) A small exclusive group of friends or associates. :es: camarilla  
+__clique__ _n_ :six: (cliques) A small exclusive group of friends or associates. :es: camarilla  
 __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
 __cloakroom__ _n_ :two::hammer:  
@@ -2902,7 +2903,7 @@ __dean__ _n_ :three::hammer: _He served as dean._
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :dart::three::hammer:  
 __deathless__  
-__debacle__  
+__debacle__ :two::hammer:  
 __debasing__ _v_  
 __debatable__  
 __debauchery__  
@@ -3052,6 +3053,7 @@ __designer__ _n_ :es: _maquetador_
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
 __despair__ _n_  
+__desperate times call for desperate measures__ _idiom_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
 __despicable__  
 __despoil__ _v_  
 __despoiling__  
@@ -3277,6 +3279,7 @@ __docket__ _n_ :five::hammer:
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __doddering__  
+__dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :two: Dishonetsor unreliable.  
 __dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
@@ -3886,6 +3889,7 @@ __exhilarate__ :mute:[ex~~h~~ilarate]
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
+__exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_  
 __expediency__  
@@ -4019,7 +4023,7 @@ __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained e
 __fast food__ :mega:  
 __fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastiduous__ _adj_ :two::hammer:  
+__fastidious__ _adj_ :three::hammer: _He was fastidious about showing off his collection._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
@@ -4732,6 +4736,7 @@ __Generation Xers__
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
 __generic__ _A generic diet cola._  
+__genial__ _adj_ Friendly and kind.  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ :two::hammer:  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
@@ -4898,11 +4903,13 @@ __gobbledygook__
 __goblin__ _n_ :three::hammer: (goblins)  
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
+__God is in the detail(s)__ _idiom_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __Golden Boot__ _The race for the Golden Boot._  
+__golden goose__ _n_  
 __goldfinch__ _n_ :es: jilguero  
 __golliwog__ _n_  
 __golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
@@ -4981,7 +4988,7 @@ __gravely__
 __gravesite__  
 __gravestone__  
 __graveyard orbit__  
-__gravitas__  
+__gravitas__ _n_ :two::hammer:  
 __gravitate__ _v_ :two::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
 __gravy__ _n_ :three::hammer:  
@@ -5570,7 +5577,7 @@ __holdover__
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
 __holistic__ _adj_ :three::hammer:  
-__holler__  
+__holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __Holy Ghost__  
@@ -5619,9 +5626,8 @@ __hoop__ _v_
 __hoopla__ _n informal_ :three: Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoops__ The game of basketball. _Can you play hoops?_  
 __Hoosiers__  
-__hoot<sup>1</sup>__ _v_ _The driver of the car behind hooted again._  
-__hoot<sup>2</sup>__ _You know, it's a hell of a hoot._  
-__hooted__ _v_ :five::hammer: (hooting)  
+__hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
+__hoot<sup>2</sup>__ _n_ _You know, it's a hell of a hoot._  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __Hopi__ _n_  
 __hopped cars__  
@@ -10417,7 +10423,7 @@ __slice of pie__
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
 __slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._  
-__slid__ _v_ :two::hammer:  
+__slid__ _v_ :three::hammer: _His glasses often slid down his nose._  
 __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slide<sup>2</sup>__ _v_  
 __slider__ _n_ :four::hammer: _What's up with someone's slider?_  
@@ -10859,7 +10865,7 @@ __squarely__
 __squash__ _v_  
 __squat down__ _v_  
 __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
-__squat<sup>2</sup>__ _adj_ :five: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
+__squat<sup>2</sup>__ _adj_ :six: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squatter__  
 __squawk__ _v_ :three::hammer: (squawked, squawking) _The walkie-talkie squawked._  
@@ -11256,7 +11262,7 @@ __suit up__ _v_
 __suitors__ :two::hammer:  
 __sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_  
-__sulky__ :two::hammer:  
+__sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ :two::hammer:  
 __sullenly__  
 __sully__ _v_ :two::hammer:  
@@ -11344,7 +11350,7 @@ __swatted__
 __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
-__sweat bullets__ _I'll be sweating bullets._  
+__sweat bullets__ _idiom_ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
 __sweat it__ _Don't sweat it._  
 __sweatpants__  
 __sweep you off your feet__ To fall in love with them very quickly and strongly.  
@@ -11568,6 +11574,7 @@ __tell-tale__ :two::hammer: _Tell-tale sings._
 __telling__ _n_ :three::hammer: _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father's experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale__ :two::hammer:  
+__tellurian__  
 __temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper__ _v_ :four::hammer: (tempered)  
@@ -11636,6 +11643,7 @@ __the big three-oh__
 __the bigger they come, the harder they fall__ _idiom_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
 __the Chinese__ _This article was translated from the Chinese._  
 __the day's full of spiders__  
+__the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
 __the final straw__  
 __the haves and the have nots__  
@@ -12736,8 +12744,7 @@ __what__ :mute:[w~~h~~at]
 __what's the haps?__  
 __wheat__ :mute:[w~~h~~eat]  
 __whee!__  
-__wheedle__ _v_ To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
-__wheedling__ _v_  
+__wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
 __wheee!__  
 __wheel well__ _The Corvette's wheel well._  
 __wheel__ _v_ :mute:[w~~h~~eel]  
