@@ -231,7 +231,8 @@ __alder__ _n_ :pencil2::two::hammer:
 __alderman__ _n_ :two::hammer:  
 __alembic__ _n_  
 __Aleut__ _n_  
-__alfresco__ _It had two small terraces for alfresco dining._  
+__alfresco<sup>1</sup>__ _adv_  
+__alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
@@ -355,7 +356,7 @@ __antic__
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :three::mute:[antiq~~u~~e]:hammer: _Antiques dealer._  
-__antsy__ _adj_ :two: Restless, impatient.  
+__antsy__ _adj_ :three: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
 __anything but__ _It is anything but sweet._  
@@ -636,7 +637,7 @@ __bad blood__ :two::hammer:
 __bad egg__ Someone who behaves in a bad or dishonest way.  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
-__bad-mouth__ _v_ :two::hammer:  
+__bad-mouth__ _v_ _informal_ :three: Criticize (someone) behind their back.  
 __badass<sup>1</sup>__ _n_  
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _It's just what Bond fans want in a baddie._  
@@ -915,7 +916,7 @@ __benevolent__
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._  
 __bento__ Boxed meals.  
-__bequeath__ _v_ :seven::hammer; (bequeathed)  
+__bequeath__ _v_ :eight::hammer; (bequeathed)  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :seven: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_ :two::hammer:  
@@ -3274,6 +3275,7 @@ __docents__
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
+__doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __doddering__  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :two: Dishonetsor unreliable.  
@@ -4256,8 +4258,7 @@ __flaunt__ _v_
 __flaunting__  
 __flawless__ _It is not flawless._  
 __flaxen__ _Flaxen cord._  
-__flay__ _v_  
-__flayed__ _v_  
+__flay__ _v_ :three::hammer: (flayed)  
 __fleck__ _n_  
 __flecked__ _v_ _Floor flecked with blood._  
 __fledging__ _n_ :two::hammer:  
@@ -5116,8 +5117,8 @@ __gullible__ _adj_ :six: Naive and easily deceived or tricked.
 __gullies__  
 __gulls__  
 __gully__ _We had a real gully washer in the forenoon._  
-__gulp<sup>1</sup>__ _n_ _Sobs and gulps._  
-__gulp<sup>2</sup>__ _v_ :three::hammer: _They gulped their soft drinks._  
+__gulp<sup>1</sup>__ _n_ :two::hammer: _Sobs and gulps._  
+__gulp<sup>2</sup>__ _v_ :four::hammer: _They gulped their soft drinks._  
 __gum stump__  
 __gum tree__  
 __gum up__  
@@ -5675,7 +5676,7 @@ __hover__ _v_
 __hoverboard__ :two::hammer:  
 __howl__ _v_ :two::hammer:  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
-__hubbub__ _n_ :two::hammer:  
+__hubbub__ _n_ :three::hammer:  
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
@@ -7345,6 +7346,7 @@ __mumps__
 __munch__ _v_ :three:hammer: (munches)  
 __mundane__ :two::hammer:  
 __Muni bus__  
+__munificent__ _adj_  
 __munition__ _n_ :two::hammer: (munitions) _The munitions factory._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
@@ -8503,6 +8505,7 @@ __podjo__
 __podna__ :two::hammer:  
 __Podunk town__  
 __pogrom__ _n_ :three::hammer: (pogroms)  
+__poignance__ _n_  
 __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ :pencil2:  
 __Point is,__  
@@ -8888,6 +8891,7 @@ __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid for
 __push back__ _phr v_  
 __push puppet__ _n_ :camera:  
 __pushcart__ _A pushcart vendor._  
+__pushing up the daisies__ _idiom_ Dead and buried.  
 __pushover__ _n_ :six: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy sales__  
@@ -11360,7 +11364,8 @@ __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden s
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swiftness__ _n_ :two::hammer: _The days of our lives have flown in the swiftness of time._  
-__swig__ _n_ _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
+__swig<sup>1</sup>__ _n_ :two::hammer: _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
+__swig<sup>2</sup>__ _v_ :two::hammer:  
 __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
 __swim tube__  
 __swimabout__  
@@ -12184,6 +12189,7 @@ __two-fold__ _adj_
 __two-time someone__ _idiom_ To be unfaithful to someone.  
 __two-time__ _A two-time U.S. Open champion._  
 __two-timer__  
+__two-timing__ _She discovered the two-timing cheat was married._  
 __twofer__ _n_ _informal_ :two::hammer:  
 __tycoon__ _n_ :four::hammer:  
 __tying__ _v_ :pencil2:  
@@ -12382,7 +12388,7 @@ __upwardly__
 __urban legend__  
 __urbanites__  
 __urchin__ _An underprivileged urchin._  
-__urge on__ _phr v_ To encourage.  
+__urge on__ _phr v_ :two: To encourage.  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __usher__  
@@ -12658,6 +12664,7 @@ __waver__ _v_ :two::hammer: _He was wavering on whether to support fellow Republ
 __wavering__ _A wavering statement._  
 __wax__ _v_ _Moon waxing and waning._  
 __waxed__  
+__waylay__ _v_  
 __wayposts__  
 __wayside__ _n_ :two::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
@@ -12941,6 +12948,7 @@ __woodwork__ _n_ :two::hammer:
 __wooly__  
 __woomb__  
 __woozy__ :two::hammer:  
+__wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wording__ _n_  
 __wordplay__  
 __wordsmith__ _v_ :two::hammer:  
@@ -13102,6 +13110,7 @@ __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and o
 __zesty__ :two::hammer:  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
+__zillion__  
 __zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  

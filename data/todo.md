@@ -1,24 +1,4 @@
 
-__two-timing__ _She discovered the two-timing cheat was married._  
-__zillion__  
-__doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
-__bad-mouth__ _v_ _informal_ Criticize (someone) behind their back.  
-__wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
-__antsy__ _adj_ Restless, impatient.  
-__pushing up the daisies__ _idiom_ Dead and buried.  
-__urge on__ _phr v_ To encourage.  
-__alfresco<sup>1</sup>__ _adv_  
-__alfresco<sup>2</sup>__ _adj_  
-__swig<sup>1</sup>__ _n_  
-__swig<sup>2</sup>__ _v_  
-__gulp<sup>1</sup>__ _n_  
-__gulp<sup>2</sup>__ _v_  
-__bequeath__ _v_  
-__hubbub__ _n_  
-__poignance__ _n_  
-__waylay__ _v_  
-__flay__ _v_  
-__munificent__ _adj_  
 __dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __genial__ _adj_ Friendly and kind.  
 __desperate times call for desperate measures__ _idiom_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
