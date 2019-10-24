@@ -1,4 +1,12 @@
 
+__gouge__ _v_  
+__skittish__ _adj_  
+__expatiate__ _v_  
+__redoubtable__ _adj_  
+__deign__ _v_  
+__teem__ _v_  
+__dapper__ _adj_  
+__spruce__ _adj_  
 __agonal__ _Agonal breathing._  
 __ascertain__ _v_  
 __saddened__  
