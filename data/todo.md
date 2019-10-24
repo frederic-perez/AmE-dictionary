@@ -24,17 +24,16 @@ __misdiagnose__ _v_ _A misdiagnosed patient._
 __sociopath__  
 __compelling__ _adj_  
 __malice__  
-__temerity__ (?)  
+__temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __content__ _adj_  
 __drop by__ _phr v_ To stop in for a short visit.  
 __hush money__ _n informal_ A bribe paid to keep something secret.  
 __fight or flight__  
 __part company__ _v_  
-__humiliating__ _adj_  
-__mahogany__ (?)  
+__humiliating__ _adj_ Causing awareness of your shortcomings.  
+__mahogany__ _n_  
 __mess around__  
-__Achiles heel__ (?)  
-__sabadaba__ (?)  
+__Achilles' heel__ _n_ A seemingly small but actually crucial weakness.  
 
 __treachery__ _n_  
 __equivocation__ _n_  
