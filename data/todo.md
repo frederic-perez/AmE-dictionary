@@ -1,4 +1,12 @@
 
+__bling__ _n_ _slang_ Flashy jewelry worn to create the impression of wealth-  
+__money talks__ _idiom_ Rich people can get what they want.  
+__money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
+__bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
+__occasion__ :pencil2:  
+__vouch for__ _phr v_ To give personal assurances of someone.  
+__verge on__ _phr v_ To be very close to an extreme state or condition.  
+__beefy__ _adj_ _informal_ Muscular; brawny.  
 __gouge__ _v_  
 __skittish__ _adj_  
 __expatiate__ _v_  
