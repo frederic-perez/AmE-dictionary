@@ -15,7 +15,7 @@ __deign__ _v_
 __teem__ _v_  
 __dapper__ _adj_  
 __spruce__ _adj_  
-__agonal__ _Agonal breathing._  
+__agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __ascertain__ _v_  
 __saddened__  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
@@ -68,7 +68,7 @@ __trifle__ _n_
 __heave__ _v_ _He felt his stomach heave._  
 __seeped__ _v_ :three::hammer: _Sweat seeped down his back._  
 __canopy__ _A dense canopy of snow._  
-__lank__ _v_ (?)  
+__lank__ _adj_  
 __spluttered__ _v_ _He spluttered back into consciousness._  
 __consciousness__  
 __hypothermia__  
@@ -79,16 +79,16 @@ __muddled__ _v_
 __keen to__ _They were keen to recover his approval._  
 
 __through and through__  
-__distasteful__ (?)  
-__lo and behold__ (?)  
+__distasteful__ _adj_  
+__lo and behold__ _idiom_  
 __ad libs__  
 __relate__ _v_  
-__indictment__ :mega: (?)  
+__indictment__ _n_ :mega:  
 __pottering__ _v_ _She is pottering around the house._  
 __ficus__ :mega: (?)  
 __hondo__ (hundred?)  
-__back-to-back__ (?)  
-__shudder__ _v_ (?)  
+__back-to-back__ _adj_ _informal_ Consecutive.  
+__shudder__ _v_  
 __paywall__ _Behind the paywall._  
 
 __abetting__ _v_  
