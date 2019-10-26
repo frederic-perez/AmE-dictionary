@@ -50,13 +50,13 @@ __noose__ _n_
 __scampeded__ _v_  
 __obliged__ _v_  
 
-__epitome__ (?)  
-__needeness__ (?)  
+__epitome__ _n_  
+__neediness__ _n_ The state of being needy; poverty.  
 __critique__ _v_  
-__allioli__ :mega: (?)  
+__aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __edgy__  
 __nag__ _v_  
-__debt__ :mega: (?)  
+__debt__ _n_ :mega:  
 __appartment__  
 __angst__ 
 __troll__ _v_  
