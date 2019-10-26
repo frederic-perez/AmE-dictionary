@@ -19,9 +19,8 @@ I collect words and expressions from multiple (written) sources, including:
 
 ### Audio Resources
 
-I also gather interesting stuff from a myriad of [podcasts](list-of-podcasts.md).
-
-In addition, I listen to a lot of stuff from [comedians](list-of-comedians.md).
+- I also gather interesting stuff from a myriad of [podcasts](list-of-podcasts.md).
+- In addition, I listen to a lot of stuff from [comedians](list-of-comedians.md).
 
 ## Emojis
 
