@@ -20,7 +20,11 @@ I collect words and expressions from multiple (written) sources, including:
 ### Audio Resources
 
 - I also gather interesting stuff from a myriad of [podcasts](list-of-podcasts.md).
-- In addition, I listen to a lot of stuff from [comedians](list-of-comedians.md).
+
+### Video Resources
+
+- I use to watch tons of performances by [comedians](list-of-comedians.md), and
+- stuff from [comedy YouTube channels](list-of-comedy-YouTube-channels.md).
 
 ## Emojis
 
