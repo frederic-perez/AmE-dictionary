@@ -28,6 +28,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
 - [Mike Hanford](https://www.youtube.com/results?gl=US&search_query=Mike+Hanford) plays John Lennon after coming back to life in 1984.
 - [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
+- [Rosebud Baker](https://www.youtube.com/results?gl=US&search_query=Rosebud+Baker)
 - [Ryan George](https://www.youtube.com/results?gl=US&search_query=Ryan+George) nails it when he says it's "super easy, barely an inconvenience."
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
