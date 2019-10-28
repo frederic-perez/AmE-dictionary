@@ -1,4 +1,11 @@
-
+__engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
+__have-not__ _n_ A person with few or no possessions.  
+__full as a tick__ _idiom_ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
+__Elvis has left the building__ _idiom_ Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
+__encore<sup>1</sup>__ _n_ __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand.  
+__encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
+__encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
+__short-handed__ _adj_ Lacking the usual or necessary number of workers, employees, or assistants.  
 __bling__ _n_ _slang_ Flashy jewelry worn to create the impression of wealth-  
 __money talks__ _idiom_ Rich people can get what they want.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
