@@ -1,3 +1,11 @@
+__wait up__ _phr v_ To not go to sleep until someone comes home.  
+__overqualified__ Having more knowledge, skill, and/or experience than is needed.  
+__croak__ _v_ _slang_ __1__ To kill. __2__ To die.  
+__my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
+__blast__ _n_ _slang_ A great experience, a very enjoyable time.  
+__the lion's share__ _idiom_ Major share of something.  
+__like water off a duck's back__ _idiom_ Without any apparent effect.  
+__minutiae__ _n pl_ Precise details; small or trifling matters.  
 __engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
 __have-not__ _n_ A person with few or no possessions.  
 __full as a tick__ _idiom_ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
