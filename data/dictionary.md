@@ -866,7 +866,7 @@ __behold__ _v_ :three::hammer: _The wedding ceremony was a joy to behold._
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :four::hammer:  
-__beige book__ ?  
+__Beige Book__ _n_ The informal name for the Federal Open Market Committee's (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.    
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _"a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners' sugar.  
 __being at odds__ _They are at odds over the details of legislation._  
 __being let go__ _His mother was let go at the plant in 2006._  
@@ -997,13 +997,13 @@ __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._
 __binder__ _n_ _My binder._  
 __bindles__ _Drug bindles._  
 __binging__ _v_  
-__binocular__ :mega: (?)  
+__binocular__ _adj_ :mega: Adapted for or using both eyes.  
 __bio__ _n_  
 __biomass__  
 __biopic__  
 __bipartisan__  
 __birch__ _n_ (birches) _Birch and oak in stock._  
-__bird__ _v_ (?)  
+__bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.   
 __birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
 __birds of the same feather__  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
@@ -1268,7 +1268,8 @@ __bouncy__
 __bountiful__  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
-__bovine__ _n?_ Cow or bull (neutral). (?)  
+__bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
+__bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :four::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
