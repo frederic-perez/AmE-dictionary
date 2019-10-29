@@ -30,6 +30,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
 - [Rosebud Baker](https://www.youtube.com/results?gl=US&search_query=Rosebud+Baker)
 - [Ryan George](https://www.youtube.com/results?gl=US&search_query=Ryan+George) nails it when he says it's "super easy, barely an inconvenience."
+- [Sacha Baron Cohen](https://www.youtube.com/results?search_query=Sacha+Baron+Cohen)
 - [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
 - [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
 - [Stephen Colbert](https://www.youtube.com/results?search_query=Stephen+Colbert)
