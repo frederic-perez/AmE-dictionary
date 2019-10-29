@@ -1,3 +1,12 @@
+
+__numinous__ _adj_  
+__psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
+__horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
+__solipsism__ _n_  
+__bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
+__eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind. 
+__coruscate__ _v_  
+__coruscant__ _adj_ Shining or glittering.  
 __wait up__ _phr v_ To not go to sleep until someone comes home.  
 __overqualified__ Having more knowledge, skill, and/or experience than is needed.  
 __croak__ _v_ _slang_ __1__ To kill. __2__ To die.  
