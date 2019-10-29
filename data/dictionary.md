@@ -1292,7 +1292,7 @@ __brainchild__ _n_ :two::hammer:
 __brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
 __brainwash__ _v_  
-__braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: (?)  
+__braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: estofar  
 __brambles__ _n_ :four::hammer:  
 __Branch Davidians__  
 __brander__  
@@ -1701,7 +1701,7 @@ __canister__ _n_ :four::hammer: _Organic coffee canisters._
 __canned__ To get fired, to lose your job.  
 __cannibalization__ _n_  
 __cannolis__  
-__canoe__ (?) :mega:  
+__canoe__ _n_ :mega:  
 __cantankerous__  
 __cantata__ _n_ :two::hammer: _Batch cantatas._  
 __canted__ _v_ :two::hammer:  
@@ -1804,7 +1804,7 @@ __castles in the sky__ _idiom_ Dreams, hopes, or plans that are impossible, unre
 __castoff__ _n_  
 __casual__ _He put on casual clothes._  
 __casualties__  
-__cat fish__ _(?)_  
+__catfish__ _n_  
 __cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
@@ -3703,7 +3703,7 @@ __emeritus__ :two::hammer:
 __emerity__ _Faculty emerity._  
 __emery__ _n_ :five::hammer: _An emery wheel._ _Emery paper._  
 __eminent__  
-__emmetropia__ (?)  
+__emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
 __emphasis__  
@@ -3908,7 +3908,7 @@ __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:
 __exploit<sup>2</sup>__ _v_ :mega:  
 __expose__ _v_  
 __expostulate__ _v_  
-__exposures__ (?) _Penthouse features include multiple exposures._  
+__exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expunged__ _v_  
 __exquisite__ _Exquisite acting._  
 __extemporaneous__ _adj_  
