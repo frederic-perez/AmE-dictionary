@@ -4466,7 +4466,7 @@ __Formica__
 __formidable__  
 __forsake__ _v_ :five::hammer: (forsaken)  
 __forsaken__ _adj_  
-__fort__ Fortification(?)  
+__fort__ A fortified place or position stationed with troops.  
 __forte<sup>1</sup>__ _n_ :three::mega: Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
@@ -5851,7 +5851,7 @@ __in excess__ _Roper hadn't slept for a period in excess of 24 hours._
 __in fold__  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
-__In retrospect,__ (?)  
+__in retrospect__ _idiom_ Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__  
 __in so far as__  
 __in stitches__ _idiom_  
@@ -6952,7 +6952,7 @@ __markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issued
 __marmalade__  
 __maroon__ _v_ :two::hammer: _He felt marooned by the silence._  
 __marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
-__marquetry__ :astonished: _Marketry doors._ :es: marquetería (?)  
+__marquetry__ :astonished: _Marketry doors._ :es: marquetería  
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
