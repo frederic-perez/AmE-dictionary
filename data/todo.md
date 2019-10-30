@@ -1,4 +1,12 @@
 
+__pricey__ _adj_ Expensive. _Syn_ costly, dear  
+__every single one__ _idiom_ Every individual person or item within a group, without exception.  
+__respite__ _n_  
+__mycoplasma__  
+__cohort__ _Cohort study_  
+__undermine__ _v_  
+__antidepressant__ _adj_  
+__phimosis__  
 __numinous__ _adj_  
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
 __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
