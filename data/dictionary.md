@@ -9798,7 +9798,7 @@ __scenic__
 __scent__ :mute:[s~~c~~ent]  
 __scented__  
 __schadenfreude__  
-__schemer__ _n_ (?)  
+__schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
 __schlep__ _v_ :two::hammer:  
 __schlepping__ :two::hammer:  
@@ -10094,7 +10094,7 @@ __shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy t
 __shell-shocked__ :two::hammer:  
 __shellfish__ _Shellfish stewed, jerked._  
 __shelling out__  
-__shelling<sup>1</sup>__ _n_ :es: bombardeo (?)  
+__shelling<sup>1</sup>__ _n_ :es: bombardeo  
 __shelling<sup>2</sup>__ _v_  
 __shells__ _n_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
@@ -10299,7 +10299,7 @@ __Sinai__ _n_ (Mount Sinai) :mega:
 __since forever__  
 __sine die__  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
-__sinestesia__ _n_ (?)  
+__synesthesia__ _n_  
 __sinew__ _n_ :seven::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
 __sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
