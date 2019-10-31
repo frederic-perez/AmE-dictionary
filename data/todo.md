@@ -1,4 +1,12 @@
 
+__emancipate__ _v_ Free from slavery or servitude.  
+__explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
+__stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
+__Noachian__ _adj_ :pencil2:  
+__perk up__ _idiom_ To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._  
+__have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
+__don't let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don't linger on your way out the door. Used sarcastically to express one's desire to see someone leave.  
+__droll__ _adj_ Curious or unusual in a way that provokes dry amusement.  
 __pricey__ _adj_ Expensive. _Syn_ costly, dear  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
 __respite__ _n_  
