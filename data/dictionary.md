@@ -7497,7 +7497,7 @@ __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com
 __newsbreak__ _n_  
 __newspaper rack__  
 __newsy__  
-__nibbed__ _v_ (?)  
+__nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
 __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::hammer:  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
@@ -7530,7 +7530,7 @@ __nitty__ _adj_ _informal_ Foolish; stupid.
 __nitty-gritty__ _n_ :four: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
-__no early birds!__ (?)  
+__no early birds__ _No early birds allowed because it just wouldn't be fair to the other shoppers who waited until the opening time._ _If you have advertised "No Early birds" then do not allow any early birds to even browse through your sale before the open time._  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __no offense__  
@@ -7746,7 +7746,7 @@ __On top of that,__
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
-__onboarding__ (?)  
+__onboarding__ _n_ The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer.    
 __once in a blue moom__ Very rarely.  
 __once in a while__  
 __once-over__  
