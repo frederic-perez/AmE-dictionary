@@ -1,4 +1,12 @@
 
+__extra pair of hands__ _idiom_ Additional help or assistance provided by another person.  _Don't you want to hire an extra pair of hands?_  
+__unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
+__rinse and repeat__  
+__gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
+__don't go there__ _idiom_ Don't get into that topic of conversation; I don't want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
+__the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
+__don't get me started__ _idiom_ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
+__don't call us, we'll call you__ _idiom_ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
 __emancipate__ _v_ Free from slavery or servitude.  
 __explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
