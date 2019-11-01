@@ -28,7 +28,7 @@ __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies th
 __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
 __solipsism__ _n_  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
-__eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind. 
+__eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __coruscate__ _v_  
 __coruscant__ _adj_ Shining or glittering.  
 __wait up__ _phr v_ To not go to sleep until someone comes home.  
@@ -47,7 +47,7 @@ __encore<sup>1</sup>__ _n_ __1__ A demand by an audience for a repetition of a s
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __short-handed__ _adj_ Lacking the usual or necessary number of workers, employees, or assistants.  
-__bling__ _n_ _slang_ Flashy jewelry worn to create the impression of wealth-  
+__bling__ _n_ _slang_ Flashy jewelry worn to create the impression of wealth.  
 __money talks__ _idiom_ Rich people can get what they want.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
@@ -224,7 +224,7 @@ __grit__ _n_
 __sneak up__ _phr v_  
 __sneak up (on someone or something)__ _idiom_  
 __celeb__ _n_ A shortening of "celebrity."  
-__#MeToo__ _n_ A movement encouraging victims of sexual violence and harassment (typically women) to publicly share their experiences, with the intent of emphasizing how widespread such behavior is.
+__#MeToo__ _n_ A movement encouraging victims of sexual violence and harassment (typically women) to publicly share their experiences, with the intent of emphasizing how widespread such behavior is.  
 __clip-clop__ _n_ The sound made by a horse's hooves.  
 __page-turner__ _n informal_ A very interesting, exciting, or suspenseful book, usually a novel.  
 __larynx__ _n_ :mega:  
@@ -306,7 +306,7 @@ __prerequisite__ _n_
 __downsize__ _v_ To simplify (one's life, for instance), as by reducing the number of one's possessions.  
 __God wink__ _n_ An event or personal experience, often identified as coincidence, so astonishing that it is seen as a sign of divine intervention, especially when perceived as the answer to a prayer.  
 __crystalize__ _v_ Variant of crystallize.  
-__rosé__ _n_ A light pink wine made from purple grapes.
+__rosé__ _n_ A light pink wine made from purple grapes.  
 __green thumb__ _n_ :dart: (green fingers) An extraordinary ability to make plants grow well.  
 
 __barefoot__  
