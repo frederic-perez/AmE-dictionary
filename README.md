@@ -23,8 +23,9 @@ I collect words and expressions from multiple (written) sources, including:
 
 ### Video Resources
 
-- I use to watch tons of performances by [comedians](list-of-comedians.md), and
-- stuff from [comedy YouTube channels](list-of-comedy-YouTube-channels.md).
+- I use to watch tons of performances by [comedians](list-of-comedians.md),
+- stuff from [comedy YouTube channels](list-of-comedy-YouTube-channels.md), and
+- [other video resources](list-of-other-video-resources.md).
 
 ## Emojis
 
