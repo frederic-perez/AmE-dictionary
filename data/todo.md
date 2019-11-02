@@ -133,7 +133,7 @@ __ad libs__
 __relate__ _v_  
 __indictment__ _n_ :mega:  
 __pottering__ _v_ _She is pottering around the house._  
-__ficus__ :mega: (?)  
+__ficus__ _n_ :mega:  
 __hondo__ (hundred?)  
 __back-to-back__ _adj_ _informal_ Consecutive.  
 __shudder__ _v_  
@@ -148,7 +148,7 @@ __commendation__ _n_ _He received two commendations._
 __aphorism__  
 __swoop__ _n_  
 __qualms__ _n_  
-__irate__ _adj_ (?)  
+__irate__ _adj_  
 __acquiesced__ _v_  
 __coaxing__ _v_  
 __smugly__  
@@ -212,7 +212,7 @@ __one-off__ _It was a fluke, a one-off._
 __accord__ _They own accord._  
 __in so far as__ _He never won in so far as anyone could be said to win._  
 __point-blank__ _Point-blank snow shots didn't count in this game._  
-__flourish__ _n_ (?)  
+__flourish__ _n_  
 __shortlisted__  
 __gum__ (anatomy)  
 __squat__ _adj_  
