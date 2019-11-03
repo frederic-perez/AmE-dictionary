@@ -1,4 +1,13 @@
 
+__heave__ _v_ (heaving) _She felt her stomach heaving._  
+__catch__ _n_ _What's the catch?_  
+__catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
+__sly__  
+__hurl__ _v_  
+__sauter__ _v_ (sauntered) To walk in a casual manner; stroll.  
+__jaunty__ _adj_  
+__not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn't recognize John if I saw him up close. I don't know him from Adam._  
+
 __extra pair of hands__ _idiom_ Additional help or assistance provided by another person.  _Don't you want to hire an extra pair of hands?_  
 __unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
 __rinse and repeat__  
