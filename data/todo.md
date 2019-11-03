@@ -1,4 +1,13 @@
 
+__apocryphal__ _adj_ Of doubtful authenticity: spurious.  
+__dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
+__fair-weather fan__ _idiom_ A person who is supportive of and enthusiastic about a sports team only when that team is performing well
+__off-guard__ _adj_ Not prepared or vigilant.  
+__ragbag__ _n_ A motley assortment of things.  
+__in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply "donkeys," of "donkey's ears" -where "ears" rhymes with "years" and alludes to the length of a donkey's ears.  
+__desideratum__ _n_  
+__logjam__ _n_  
+
 __heave__ _v_ (heaving) _She felt her stomach heaving._  
 __catch__ _n_ _What's the catch?_  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
