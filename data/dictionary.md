@@ -28,15 +28,15 @@ __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
-__AB__ _Guys in the AB._  
+__AB__ _abbr_ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _Netflix is spending with abandon._  
-__abasement__  
+__abasement__ _n_  
 __abashed__ :two::hammer:  
 __abasiophilia__ _n_  
-__abatement__ :two::hammer: _A tax abatement._  
-__abating__  
+__abatement__ _n_ :two::hammer: _A tax abatement._  
+__abate__ _v_ (abating)  
 __abattoir__ _n_ Slaughterhouse.  
 __aberrant__ _adj_  
 __aberration__ _n_  
@@ -45,7 +45,7 @@ __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that
 __abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
-__abjection__  
+__abjection__ _n_   
 __abjure__ _v_  
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
 __abounds__  
