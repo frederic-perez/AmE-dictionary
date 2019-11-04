@@ -1,7 +1,7 @@
 
 __apocryphal__ _adj_ Of doubtful authenticity: spurious.  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
-__fair-weather fan__ _idiom_ A person who is supportive of and enthusiastic about a sports team only when that team is performing well
+__fair-weather fan__ _idiom_ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
 __off-guard__ _adj_ Not prepared or vigilant.  
 __ragbag__ _n_ A motley assortment of things.  
 __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply "donkeys," of "donkey's ears" -where "ears" rhymes with "years" and alludes to the length of a donkey's ears.  
@@ -11,7 +11,7 @@ __logjam__ _n_
 __heave__ _v_ (heaving) _She felt her stomach heaving._  
 __catch__ _n_ _What's the catch?_  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
-__sly__  
+__sly__ _adj_  
 __hurl__ _v_  
 __sauter__ _v_ (sauntered) To walk in a casual manner; stroll.  
 __jaunty__ _adj_  
@@ -19,7 +19,7 @@ __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I w
 
 __extra pair of hands__ _idiom_ Additional help or assistance provided by another person.  _Don't you want to hire an extra pair of hands?_  
 __unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
-__rinse and repeat__  
+__rinse and repeat__ _idiom_ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)   
 __gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
 __don't go there__ _idiom_ Don't get into that topic of conversation; I don't want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
