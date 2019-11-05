@@ -83,18 +83,18 @@ __dapper__ _adj_
 __spruce__ _adj_  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __ascertain__ _v_  
-__saddened__  
+__sadden__ _v_ :pencil2: (saddened)  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
 __misdiagnose__ _v_ _A misdiagnosed patient._  
 
-__sociopath__  
+__sociopath__ _n_ A psychopath or a person with antisocial personality disorder.  
 __compelling__ _adj_  
-__malice__  
+__malice__ _n_ __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __content__ _adj_  
 __drop by__ _phr v_ To stop in for a short visit.  
 __hush money__ _n informal_ A bribe paid to keep something secret.  
-__fight or flight__  
+__fight or flight__ _idiom_ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
 __part company__ _v_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
 __mahogany__ _n_  
