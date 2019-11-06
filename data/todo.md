@@ -120,13 +120,13 @@ __epitome__ _n_
 __neediness__ _n_ The state of being needy; poverty.  
 __critique__ _v_  
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
-__edgy__  
+__edgy__ _adj_  
 __nag__ _v_  
 __debt__ _n_ :mega:  
-__appartment__  
-__angst__ 
+__apartment__ _n_  
+__angst__ _n_  
 __troll__ _v_  
-__time capsule__  
+__time capsule__ _n_  
 __kill__ _v slang_  
 
 __snub__ _n_  
