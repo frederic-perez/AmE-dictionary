@@ -1,4 +1,13 @@
 
+__chilblain__ _n_ An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
+__feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
+__pyogenic__ _adj_ :pencil2: Producing pus.  
+__in so far as__ _adv_ (insofar as) To the degree or extent that.  
+__edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
+__morbidity__ _n_ The relative incidence of a particular disease.  
+__defibrillator__ _n_  
+__nationwide__ _adj_ :pencil2:  
+
 __apocryphal__ _adj_ Of doubtful authenticity: spurious.  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
 __fair-weather fan__ _idiom_ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
