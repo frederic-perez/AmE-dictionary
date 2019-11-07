@@ -1,4 +1,13 @@
 
+__Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji 🐫 may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).
+__hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster's.  
+__pig emoji__ 🐖 Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
+__source__ _v_  
+__pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
+__cessation__ _n_ A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
+__gimmick__ _n_  
+__halve__ _v_  
+
 __chilblain__ _n_ An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
