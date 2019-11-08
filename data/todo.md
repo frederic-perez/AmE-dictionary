@@ -84,16 +84,18 @@ __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work
 __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __short-handed__ _adj_ Lacking the usual or necessary number of workers, employees, or assistants.  
 __bling__ _n_ _slang_ Flashy jewelry worn to create the impression of wealth.  
+
 __money talks__ _idiom_ Rich people can get what they want.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
-__occasion__ :pencil2:  
+__occasion__ _n_ :pencil2:  
 __vouch for__ _phr v_ To give personal assurances of someone.  
 __verge on__ _phr v_ To be very close to an extreme state or condition.  
 __beefy__ _adj_ _informal_ Muscular; brawny.  
 __gouge__ _v_  
 __skittish__ _adj_  
 __expatiate__ _v_  
+
 __redoubtable__ _adj_  
 __deign__ _v_  
 __teem__ _v_  
@@ -116,7 +118,7 @@ __fight or flight__ _idiom_ Two possible physiological reactions to highly stres
 __part company__ _v_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
 __mahogany__ _n_  
-__mess around__  
+__mess around__ _idiom_  
 __Achilles' heel__ _n_ A seemingly small but actually crucial weakness.  
 
 __treachery__ _n_  
@@ -151,7 +153,7 @@ __snub__ _n_
 __trifle__ _n_  
 __heave__ _v_ _He felt his stomach heave._  
 __seeped__ _v_ :three::hammer: _Sweat seeped down his back._  
-__canopy__ _A dense canopy of snow._  
+__canopy__ _n_ _A dense canopy of snow._  
 __lank__ _adj_  
 __spluttered__ _v_ _He spluttered back into consciousness._  
 __consciousness__  
