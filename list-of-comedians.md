@@ -17,6 +17,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Conan O'Brien](https://www.youtube.com/results?search_query=Conan+O'Brien)  
 - [Dana Carvey](https://www.youtube.com/results?gl=US&search_query=Dana+Carvey) won a Primetime Emmy Award from five consecutive nominations.
 - [Don Rickles](https://www.youtube.com/results?search_query=Don+Rickles)
+- [Fred Armisen](https://www.youtube.com/results?gl=US&search_query=Fred+Armisen)
 - [Gabriel Iglesias](https://www.youtube.com/results?gl=US&search_query=Gabriel+Iglesias) is not fat but fluffy.
 - [George Carlin](https://www.youtube.com/results?search_query=George+Carlin)
 - [Gilbert Gottfried](https://www.youtube.com/results?search_query=Gilbert+Gottfried)
