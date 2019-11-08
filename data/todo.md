@@ -1,4 +1,13 @@
 
+__fire-breathing__ _idiom_ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
+__espouse__ _v_  
+__final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
+__strabismus__ _n_ Abnormal alignment of one or both eyes.  
+__checkmate__ _n_ _Checkmate comes from Arabic and Persian shat mat, or "the king is dead."_  
+__ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
+__requiescat__ _n_ A wish or prayer for the repose of the dead.  
+__ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
+
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji :camel: may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster's.  
 __pig emoji__ :pig: Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
