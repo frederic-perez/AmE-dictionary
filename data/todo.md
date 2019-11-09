@@ -77,12 +77,13 @@ __eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory ide
 __coruscate__ _v_  
 __coruscant__ _adj_ Shining or glittering.  
 __wait up__ _phr v_ To not go to sleep until someone comes home.  
-__overqualified__ Having more knowledge, skill, and/or experience than is needed.  
+__overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
 __croak__ _v_ _slang_ __1__ To kill. __2__ To die.  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __blast__ _n_ _slang_ A great experience, a very enjoyable time.  
 __the lion's share__ _idiom_ Major share of something.  
 __like water off a duck's back__ _idiom_ Without any apparent effect.  
+
 __minutiae__ _n pl_ Precise details; small or trifling matters.  
 __engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
 __have-not__ _n_ A person with few or no possessions.  
@@ -134,7 +135,7 @@ __treachery__ _n_
 __equivocation__ _n_  
 __frostbite__ _n_  
 __mulch__ _n_  
-__tarpaulin__  
+__tarpaulin__ _n_ Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __dissent__ _n_  
 __henchman__ _n_  
 __vista__ _n_  
@@ -165,7 +166,7 @@ __seeped__ _v_ :three::hammer: _Sweat seeped down his back._
 __canopy__ _n_ _A dense canopy of snow._  
 __lank__ _adj_  
 __spluttered__ _v_ _He spluttered back into consciousness._  
-__consciousness__  
+__consciousness__ _n_  
 __hypothermia__  
 __sapping__ _v_ _His energy was sapping._  
 __picket fence__  
