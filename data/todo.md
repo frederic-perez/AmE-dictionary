@@ -1,4 +1,13 @@
 
+__aphorism__ _n_ A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
+__complacent__ _adj_  
+__ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand.  _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
+__ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
+__ad-lib<sup>3</sup>__ _n_ Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  
+__ad-lib<sup>4</sup>__ _v_ To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._    
+__endearing__ _adj_ Inspiring affection or warm sympathy: _the endearing charm of a little child._  
+__hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
+
 __fire-breathing__ _idiom_ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
 __espouse__ _v_  
 __final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
