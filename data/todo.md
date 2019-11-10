@@ -1,4 +1,13 @@
 
+__black out__ _v_ (blacked out)  
+__rucksack__ _n_ A knapsack.  
+__humor__ _v_ _Do it to humor me._  
+__peck__ _n_ _informal_ A light quick kiss. _He gave her a peck on her cheek._  
+__slosh__ _v_ (sloshing)  
+__hush__ _n_  
+__pristine__ _They were in pristine condition._  
+__larder__  
+
 __aphorism__ _n_ A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __complacent__ _adj_  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand.  _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
