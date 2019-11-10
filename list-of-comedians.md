@@ -11,6 +11,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Bob Newhart](https://www.youtube.com/results?search_query=Bob+Newhart)
 - [Brad Williams](https://www.youtube.com/results?gl=US&search_query=Brad+Williams) is frequently confused with Wee Man from Jackass because of their similar appearance.
 - [Cameron Esposito](https://www.youtube.com/results?gl=US&search_query=Cameron+Esposito)
+- [Carl Tart](https://www.youtube.com/results?gl=US&search_query=Carl+Tart)
 - [Carmen Christopher](https://www.youtube.com/results?gl=US&search_query=Carmen+Christopher) is killing it (in a short).
 - [Carrot Top (Scott Thompson)](https://www.youtube.com/results?search_query=Carrot+Top) is a prop comediant.
 - [Chris Gethard](https://www.youtube.com/results?search_query=Chris+Gethard)
