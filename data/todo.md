@@ -61,6 +61,7 @@ __don't go there__ _idiom_ Don't get into that topic of conversation; I don't wa
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __don't get me started__ _idiom_ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don't call us, we'll call you__ _idiom_ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
+
 __emancipate__ _v_ Free from slavery or servitude.  
 __explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
@@ -69,6 +70,7 @@ __perk up__ _idiom_ To make or become more lively, energetic, attentive,�
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __don't let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don't linger on your way out the door. Used sarcastically to express one's desire to see someone leave.  
 __droll__ _adj_ Curious or unusual in a way that provokes dry amusement.  
+
 __pricey__ _adj_ Expensive. _Syn_ costly, dear  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
 __respite__ _n_  
@@ -77,6 +79,7 @@ __cohort__ _n_ _Cohort study._
 __undermine__ _v_  
 __antidepressant__ _adj_  
 __phimosis__ _n_ :mega:  
+
 __numinous__ _adj_  
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
 __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
@@ -176,12 +179,12 @@ __canopy__ _n_ _A dense canopy of snow._
 __lank__ _adj_  
 __spluttered__ _v_ _He spluttered back into consciousness._  
 __consciousness__ _n_  
-__hypothermia__  
+__hypothermia__ _n_ Abnormally low body temperature.  
 __sapping__ _v_ _His energy was sapping._  
-__picket fence__  
+__picket fence__ _n_  
 __smouldered__ _v_ _The wood smouldered._  
 __muddled__ _v_  
-__keen to__ _They were keen to recover his approval._  
+__keen__ _adj_ _They were keen to recover his approval._  
 
 __through and through__  
 __distasteful__ _adj_  
