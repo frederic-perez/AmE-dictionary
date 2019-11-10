@@ -1,4 +1,13 @@
 
+__fraught__ _adj_  
+__affiance__ _v_ To bind in a pledge of marriage; betroth.  
+__false modesty__ _idiom_ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one's abilities, or one's circumstance so as to encourage others to say the opposite.  
+__immortalize__ _v_ Make famous forever.  
+__a falling out__ _idiom_ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
+__fall off the back of a truck__ _idiom_ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone's) possession without being paid for.  
+__cantata__ _n_ A musical composition for voices and orchestra based on a religious text.  
+__perfect storm__  
+
 __gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
 __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
