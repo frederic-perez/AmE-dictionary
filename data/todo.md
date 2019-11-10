@@ -1,4 +1,13 @@
 
+__gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
+__pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
+__canny__ _adj_ Astute; shrewd, knowing; sagacious.  
+__aplomb__ _n_ Imperturbable self-possession, poise, or assurance.  
+__bad egg__ _informal_ Someone who behaves in a bad or dishonest way.  
+__speak of the devil__ _v_ _idiom_ :dart: Mention someone's name who j8ust then appears.  
+__emporium__ _n_ :astonished: A large retail store, especially one selling a great variety of articles.  
+__ravenous__ _adj_ Extremely hungry.  
+
 __black out__ _v_ (blacked out)  
 __rucksack__ _n_ A knapsack.  
 __humor__ _v_ _Do it to humor me._  
