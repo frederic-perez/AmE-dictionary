@@ -46,6 +46,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Steven Wright](https://www.youtube.com/results?search_query=Steven+Wright) won the Oscar (with Dean Parisot) for the 1988 short film "The Appointments of Dennis Jennings."
 - [Thomas Middleditch](https://www.youtube.com/results?search_query=Thomas+Middleditch)
 - [Tig Notaro](https://www.youtube.com/results?search_query=Tig+Notaro) is known for her deadpan comedy.
+- [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
 - [Will Ferrell](https://www.youtube.com/results?gl=US&search_query=Will+Ferrell) is an actor, comedian, producer, writer, and businessman.
 - [Woody Allen](https://www.youtube.com/results?gl=US&search_query=Woody+Allen+comedian) "shot a moose once" in the 60s.
 - [Zac Amico](https://www.youtube.com/results?gl=US&search_query=Zac+Amico)
