@@ -2,21 +2,21 @@
 
 Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](https://en.wikipedia.org/wiki/List_of_comedians)):
 
-- [Amy Schumer](https://www.youtube.com/results?search_query=Amy+Schumer)
-- [Andy Daly](https://www.youtube.com/results?search_query=Andy+Daly)
-- [Andy Richter](https://www.youtube.com/results?search_query=Andy+Richter) asks "The Three Questions."
+- [Amy Schumer](https://www.youtube.com/results?gl=US&search_query=Amy+Schumer)
+- [Andy Daly](https://www.youtube.com/results?gl=US&search_query=Andy+Daly)
+- [Andy Richter](https://www.youtube.com/results?gl=US&search_query=Andy+Richter) asks "The Three Questions."
 - [Anthony Jeselnik](https://www.youtube.com/results?gl=US&search_query=Anthony+Jeselnik), one of the members of the Titans of Comedy.
 - [Bert Kreischer](https://www.youtube.com/results?gl=US&search_query=Bert+Kreischer+the+machine), "The Machine," is "the top partyer at the Number One Party School in the country."
 - [Bill Hader](https://www.youtube.com/results?gl=US&search_query=Bill+Hader)
-- [Bob Newhart](https://www.youtube.com/results?search_query=Bob+Newhart)
+- [Bob Newhart](https://www.youtube.com/results?gl=US&search_query=Bob+Newhart)
 - [Brad Williams](https://www.youtube.com/results?gl=US&search_query=Brad+Williams) is frequently confused with Wee Man from Jackass because of their similar appearance.
 - [Cameron Esposito](https://www.youtube.com/results?gl=US&search_query=Cameron+Esposito)
 - [Carl Tart](https://www.youtube.com/results?gl=US&search_query=Carl+Tart)
 - [Carmen Christopher](https://www.youtube.com/results?gl=US&search_query=Carmen+Christopher) is killing it (in a short).
-- [Carrot Top (Scott Thompson)](https://www.youtube.com/results?search_query=Carrot+Top) is a prop comediant.
-- [Chris Gethard](https://www.youtube.com/results?search_query=Chris+Gethard)
+- [Carrot Top (Scott Thompson)](https://www.youtube.com/results?gl=US&search_query=Carrot+Top) is a prop comediant.
+- [Chris Gethard](https://www.youtube.com/results?gl=US&search_query=Chris+Gethard)
 - [Christi Chiello](https://www.youtube.com/results?gl=US&search_query=Christi+Chiello) is a roastmaster.
-- [Conan O'Brien](https://www.youtube.com/results?search_query=Conan+O'Brien)  
+- [Conan O'Brien](https://www.youtube.com/results?gl=US&search_query=Conan+O'Brien)  
 - [Dana Carvey](https://www.youtube.com/results?gl=US&search_query=Dana+Carvey) won a Primetime Emmy Award from five consecutive nominations.
 - [Don Rickles](https://www.youtube.com/results?search_query=Don+Rickles)
 - [Fred Armisen](https://www.youtube.com/results?gl=US&search_query=Fred+Armisen)
