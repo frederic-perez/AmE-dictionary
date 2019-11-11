@@ -1,4 +1,13 @@
 
+__veer__ _v_  
+__outbreak__ _n_  
+__allograft__ _n_  
+__snatch the pebble__ _idiom_ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
+__conspicuous consumption__ _idiom_ The lavish expenditure of money or acquisition of expensive items as a public display of one's wealth or financial success.  
+__redoubtable__ _adj_  
+__installment__ _n_ A part of a broadcast serial.  
+__control freak__ _idiom_  
+
 __fraught__ _adj_  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __false modesty__ _idiom_ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one's abilities, or one's circumstance so as to encourage others to say the opposite.  
