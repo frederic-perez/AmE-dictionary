@@ -1,4 +1,12 @@
 
+__fork over the dough__ _idiom_ To pay, generally unwillingly, a certain amount of money.  
+__picayune<sup>1</sup>__ _adj_  
+__picayune<sup>2</sup>__ _n_  
+__turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
+__armistice__ _n_ A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning "to come to a stand" or "to cause to stand or stop," combined with _arma_, meaning "weapons.  
+__up to (one's) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: "When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp." It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
+__misadventure__ _n_ An instance of misfortune.  
+
 __veer__ _v_  
 __outbreak__ _n_  
 __allograft__ _n_  
