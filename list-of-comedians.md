@@ -19,34 +19,34 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Christi Chiello](https://www.youtube.com/results?gl=US&search_query=Christi+Chiello) is a roastmaster.
 - [Conan O'Brien](https://www.youtube.com/results?gl=US&search_query=Conan+O'Brien)  
 - [Dana Carvey](https://www.youtube.com/results?gl=US&search_query=Dana+Carvey) won a Primetime Emmy Award from five consecutive nominations.
-- [Don Rickles](https://www.youtube.com/results?search_query=Don+Rickles)
+- [Don Rickles](https://www.youtube.com/results?gl=US&search_query=Don+Rickles)
 - [Fred Armisen](https://www.youtube.com/results?gl=US&search_query=Fred+Armisen)
 - [Gabriel Iglesias](https://www.youtube.com/results?gl=US&search_query=Gabriel+Iglesias) is not fat but fluffy.
-- [George Carlin](https://www.youtube.com/results?search_query=George+Carlin)
-- [Gilbert Gottfried](https://www.youtube.com/results?search_query=Gilbert+Gottfried)
-- [Groucho Marx](https://www.youtube.com/results?search_query=Groucho+Marx)
-- [Jack Benny](https://www.youtube.com/results?search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
-- [James Corden](https://www.youtube.com/results?search_query=James+Corden) battled Adam Lambert to become Queen frontman.
-- [Jeff Ross](https://www.youtube.com/results?search_query=Jeff+Ross), the "Roastmaster General."
+- [George Carlin](https://www.youtube.com/results?gl=US&search_query=George+Carlin)
+- [Gilbert Gottfried](https://www.youtube.com/results?gl=US&search_query=Gilbert+Gottfried)
+- [Groucho Marx](https://www.youtube.com/results?gl=US&search_query=Groucho+Marx)
+- [Jack Benny](https://www.youtube.com/results?gl=US&search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
+- [James Corden](https://www.youtube.com/results?gl=US&search_query=James+Corden) battled Adam Lambert to become Queen frontman.
+- [Jeff Ross](https://www.youtube.com/results?gl=US&search_query=Jeff+Ross), the "Roastmaster General."
 - [Jimmy Fallon](https://www.youtube.com/results?gl=US&search_query=Jimmy+Fallon) impersonates Neil Young, and Bruce Springsteen, among others.
-- [Jimmy Kimmel](https://www.youtube.com/results?search_query=Jimmy+Kimmel)
+- [Jimmy Kimmel](https://www.youtube.com/results?gl=US&search_query=Jimmy+Kimmel)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
 - [Mike Hanford](https://www.youtube.com/results?gl=US&search_query=Mike+Hanford) plays John Lennon after coming back to life in 1984.
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
-- [Paul F. Tompkins](https://www.youtube.com/results?search_query=Paul+F.+Tompkins)
+- [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins)
 - [Rita Rudner](https://www.youtube.com/results?gl=US&search_query=Rita+Rudner)
 - [Rosebud Baker](https://www.youtube.com/results?gl=US&search_query=Rosebud+Baker)
 - [Ryan George](https://www.youtube.com/results?gl=US&search_query=Ryan+George) nails it when he says it's "super easy, barely an inconvenience."
-- [Sacha Baron Cohen](https://www.youtube.com/results?search_query=Sacha+Baron+Cohen)
-- [Sarah Silverman](https://www.youtube.com/results?search_query=Sarah+Silverman)
-- [Scott Aukerman](https://www.youtube.com/results?search_query=Scott+Aukerman)
-- [Stephen Colbert](https://www.youtube.com/results?search_query=Stephen+Colbert)
-- [Steve Carrell](https://www.youtube.com/results?search_query=Steve+Carell)
-- [Steve Martin](https://www.youtube.com/results?search_query=Steve+Martin) is a virtuoso banjo player.
-- [Steven Wright](https://www.youtube.com/results?search_query=Steven+Wright) won the Oscar (with Dean Parisot) for the 1988 short film "The Appointments of Dennis Jennings."
-- [Thomas Middleditch](https://www.youtube.com/results?search_query=Thomas+Middleditch)
-- [Tig Notaro](https://www.youtube.com/results?search_query=Tig+Notaro) is known for her deadpan comedy.
+- [Sacha Baron Cohen](https://www.youtube.com/results?gl=US&search_query=Sacha+Baron+Cohen)
+- [Sarah Silverman](https://www.youtube.com/results?gl=US&search_query=Sarah+Silverman)
+- [Scott Aukerman](https://www.youtube.com/results?gl=US&search_query=Scott+Aukerman)
+- [Stephen Colbert](https://www.youtube.com/results?gl=US&search_query=Stephen+Colbert)
+- [Steve Carrell](https://www.youtube.com/results?gl=US&search_query=Steve+Carell)
+- [Steve Martin](https://www.youtube.com/results?gl=US&search_query=Steve+Martin) is a virtuoso banjo player.
+- [Steven Wright](https://www.youtube.com/results?gl=US&search_query=Steven+Wright) won the Oscar (with Dean Parisot) for the 1988 short film "The Appointments of Dennis Jennings."
+- [Thomas Middleditch](https://www.youtube.com/results?gl=US&search_query=Thomas+Middleditch)
+- [Tig Notaro](https://www.youtube.com/results?gl=US&search_query=Tig+Notaro) is known for her deadpan comedy.
 - [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
 - [Will Ferrell](https://www.youtube.com/results?gl=US&search_query=Will+Ferrell) is an actor, comedian, producer, writer, and businessman.
 - [Woody Allen](https://www.youtube.com/results?gl=US&search_query=Woody+Allen+comedian) "shot a moose once" in the 60s.
