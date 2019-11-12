@@ -22,7 +22,7 @@ __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eat
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __aplomb__ _n_ Imperturbable self-possession, poise, or assurance.  
 __bad egg__ _informal_ Someone who behaves in a bad or dishonest way.  
-__speak of the devil__ _v_ _idiom_ :dart: Mention someone's name who j8ust then appears.  
+__speak of the devil__ _v_ _idiom_ :dart: Mention someone's name who just then appears.  
 __emporium__ _n_ :astonished: A large retail store, especially one selling a great variety of articles.  
 __ravenous__ _adj_ Extremely hungry.  
 
@@ -55,7 +55,7 @@ __ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.
 
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji :camel: may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster's.  
-__pig emoji__ :pig: Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
+__pig emoji__ _n_ :pig: Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
 __source__ _v_  
 __pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
 __cessation__ _n_ A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
@@ -85,7 +85,7 @@ __catch__ _n_ _What's the catch?_
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __sly__ _adj_  
 __hurl__ _v_  
-__sauter__ _v_ (sauntered) To walk in a casual manner; stroll.  
+__saunter__ _v_ (sauntered) To walk in a casual manner; stroll.  
 __jaunty__ _adj_  
 __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn't recognize John if I saw him up close. I don't know him from Adam._  
 
@@ -213,7 +213,7 @@ __heave__ _v_ _He felt his stomach heave._
 __seeped__ _v_ :three::hammer: _Sweat seeped down his back._  
 __canopy__ _n_ _A dense canopy of snow._  
 __lank__ _adj_  
-__spluttered__ _v_ _He spluttered back into consciousness._  
+__splutter__ _v_ (spluttered) _He spluttered back into consciousness._  
 __consciousness__ _n_  
 __hypothermia__ _n_ Abnormally low body temperature.  
 __sapping__ _v_ _His energy was sapping._  
