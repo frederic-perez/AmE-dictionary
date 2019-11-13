@@ -282,13 +282,14 @@ __munition__ _n_
 __blemishes__ _n_  
 __wither away__ _v_  
 __quash__ _v_  
-__tactfully__  
+__tactfully__ _adv_  
 __entrenched__ _v_  
 __tarnished__ _v_  
 __stooped__ _v_ _Although stooped by age, her eyes were sharp._  
 __fresh__ _Leo took out his pad, finding a fresh page._  
 __far-fetched__ _adj_  
-__gloom__  
+__gloom<sup>1</sup>__ _n_  
+__gloom<sup>2</sup>__ _v_  
 __straw__ _n_  
 
 __nestle__ _v_  
@@ -310,7 +311,8 @@ __lay__ _adj_ _Syn_ nonspecialist, amateur, unqualified, untrained, inexpert, no
 __scrawny__ _adj_  
 __snot__ _n_  
 __gaunt__ _adj_  
-__guidy__  
+__giddy<sup>1</sup>__ _adj_  
+__giddy<sup>2</sup>__ _v_  
 __whimpered__ _v_  
 __one-off__ _It was a fluke, a one-off._  
 __accord__ _They own accord._  
