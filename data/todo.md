@@ -1,4 +1,13 @@
 
+__trivet__ _n_ :mega:  
+__cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or oil.  
+__ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
+__carafe__ _n_ The word carafe comes from the Arabic word "gharrafah" meaning "dipper" or "drinking vessel."  
+__casserole__ _n_ Casserole comes from the Middle French cassa meaning "melting pan."  
+__inadvertent__ _adj_ Happening by chance or unexpectedly or unintentionally.  
+__fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
+__incongruous__ _adj_  
+
 __fork over the dough__ _idiom_ To pay, generally unwillingly, a certain amount of money.  
 __picayune<sup>1</sup>__ _adj_  
 __picayune<sup>2</sup>__ _n_  
