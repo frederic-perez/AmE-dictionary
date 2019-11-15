@@ -8,6 +8,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Anthony Jeselnik](https://www.youtube.com/results?gl=US&search_query=Anthony+Jeselnik), one of the members of the Titans of Comedy.
 - [Bert Kreischer](https://www.youtube.com/results?gl=US&search_query=Bert+Kreischer+the+machine), "The Machine," is "the top partyer at the Number One Party School in the country."
 - [Bill Hader](https://www.youtube.com/results?gl=US&search_query=Bill+Hader)
+- [Bill Burr](https://www.youtube.com/results?gl=US&search_query=Bill+Burr)
 - [Bob Newhart](https://www.youtube.com/results?gl=US&search_query=Bob+Newhart)
 - [Brad Williams](https://www.youtube.com/results?gl=US&search_query=Brad+Williams) is frequently confused with Wee Man from Jackass because of their similar appearance.
 - [Cameron Esposito](https://www.youtube.com/results?gl=US&search_query=Cameron+Esposito)
