@@ -328,10 +328,11 @@ __accord__ _They own accord._
 __in so far as__ _He never won in so far as anyone could be said to win._  
 __point-blank__ _Point-blank snow shots didn't count in this game._  
 __flourish__ _n_  
-__shortlisted__  
-__gum__ (anatomy)  
+__shortlist__ _v_ (shortlisted) :es: preseleccionado  
+__gum<sup>1</sup>__ _n_ (anatomy)  
+__gum<sup>2</sup>__ _v_  
 __squat__ _adj_  
-__passenger train__  
+__passenger train__ _n_ A train that carries passengers.  
 __aggravate__ _v_ :pencil2:  
 
 __cash flow__ _n_  
@@ -346,7 +347,7 @@ __larynx__ _n_ :mega:
 __prep<sup>1</sup>__ _adj_  
 __prep<sup>2</sup>__ _n_  
 __prep<sup>3</sup>__ _v_  
-__qualm__  
+__qualm__ _n_  
 __topsy-turvy__  
 __root__ _v_  
 
