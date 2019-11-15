@@ -1,4 +1,14 @@
 
+__chuck__ _v_  
+__chuckled__ _v_  
+__ghastly__  
+__wicked__ _adj_  
+__beckon__ _v_ (beckoning)  
+__shuffle__ _v_ (shuffling)  
+__outing__ _n_ (outings)  
+__sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
+__no-questions-asked__ _The had a no-questions-asked policy._  
+
 __trivet__ _n_ :mega:  
 __cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or oil.  
 __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
