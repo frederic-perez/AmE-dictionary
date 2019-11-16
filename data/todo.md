@@ -1,4 +1,12 @@
 
+__overshadow__ _v_ To render insignificant or less important in comparison.  
+__freak flag__ _idiom_ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
+__gambit__ _n_  
+__tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
+__flyer__ _n_ For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.  
+__donut__ _n_ Variant of doughnut. While doughnut remains more common, both of the spellings are perfectly fine.  
+__whoa__ _interj_ __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
+__okay__ _n_ _adj_ _adv_ _v_ At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there's no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
 
 __grub__ _n_ _slang_ Food.  
 __nosy__ _adj_ _slang_ Inappropriately curious.  
