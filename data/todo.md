@@ -1,4 +1,14 @@
 
+
+__grub__ _n_ _slang_ Food.  
+__nosy__ _adj_ _slang_ Inappropriately curious.  
+__bell the cat__ _idiom_ To perform a daring act.  
+__square__ _n_ _slang_ A boring person.  
+__devoir__ _n_  
+__farouche__ _adj_  
+__netizen__ _n_ A person who is a frequent or habitual user of the internet.  
+__extenuate__ _v_ :astonished:  
+
 __no-questions-asked__ _The had a no-questions-asked policy._  
 __pique__ _v_ (piqued) _It piqued his interest._  
 __vie__ _v_ (vied)  
