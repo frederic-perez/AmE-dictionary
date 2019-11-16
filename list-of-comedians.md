@@ -31,6 +31,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jeff Ross](https://www.youtube.com/results?gl=US&search_query=Jeff+Ross), the "Roastmaster General."
 - [Jimmy Fallon](https://www.youtube.com/results?gl=US&search_query=Jimmy+Fallon) impersonates Neil Young, and Bruce Springsteen, among others.
 - [Jimmy Kimmel](https://www.youtube.com/results?gl=US&search_query=Jimmy+Kimmel)
+- [Jordan Klepper](https://www.youtube.com/results?gl=US&search_query=Jordan+Klepper)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Kristen Schaal](https://www.youtube.com/results?gl=US&search_query=Kristen+Schaal)
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
