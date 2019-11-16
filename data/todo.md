@@ -1,4 +1,13 @@
 
+__no-questions-asked__ _The had a no-questions-asked policy._  
+__pique__ _v_ (piqued) _It piqued his interest._  
+__vie__ _v_ (vied)  
+__vicar__  
+__smarten__ _v_ _He was smartening himself._ _Syn_ spruce up   
+__ascribe__ _v_ (ascribed)  
+__pram__ _n_  
+__whit__ _A whit of intelligence._  
+
 __chuck__ _v_  
 __chuckled__ _v_  
 __ghastly__  
