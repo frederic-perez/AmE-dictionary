@@ -1,4 +1,12 @@
 
+__Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
+__first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
+__blather__ _v_ To talk foolishly. _Syn_ smatter, babble  
+__welter__ _n_ A confused multitude of things.  
+__grapple<sup>1</sup>__ _n_  
+__grapple<sup>2</sup>__ _v_  
+__kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _Informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _Slang_ To die.  
+
 __overshadow__ _v_ To render insignificant or less important in comparison.  
 __freak flag__ _idiom_ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
 __gambit__ _n_  
