@@ -413,13 +413,13 @@ __mucking up__ _v_
 __tug__ _v_  
 
 __sing along__ _idiom_  
-__lollipop__
+__lollipop__ _n_ A confection consisting of a piece of hard candy attached to the end of a small stick.  
 __mess around__  
 __lumberjack__ _n_ :es: leñador  
-__bugle__ _n_  
-__campy__  
+__bugle__ _n_ _music_ A brass instrument somewhat shorter than a trumpet and lacking keys or valves.  
+__campy__ _adj_  
 __cop out__ _phr v_  
-__crib__  
+__crib__ _n_  
 
 __AA__  
 __fly on the wall__  
