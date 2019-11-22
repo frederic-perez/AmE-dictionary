@@ -1,4 +1,13 @@
 
+__blood count__ _n_ :es: hemograma  
+__curriculum vitae__ _n_  
+__on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
+__Stan__ A masculine given name, often a short form (hypocorism) of Stanley.  
+__damnify__ _v_ To cause loss or damage to (a person); injure.  
+__damnification__ _n_  
+__heed__ _v_  
+__spat__ _n_  
+
 __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
 __first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
 __blather__ _v_ To talk foolishly. _Syn_ smatter, babble  
