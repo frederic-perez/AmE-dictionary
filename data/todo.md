@@ -1,4 +1,14 @@
 
+
+__fuss__ _n_  
+__gaunt__ _adj_  
+__emaciated__ _adj_  
+__rankle__ _v_  
+__expound__ _v_  
+__cupidity__ _n_ :astonished:  
+__uncouth__ _adj_  
+__waffle__ _n_  
+
 __blood count__ _n_ :es: hemograma  
 __curriculum vitae__ _n_  
 __on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
