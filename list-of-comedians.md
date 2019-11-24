@@ -37,7 +37,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
 - [Mike Hanford](https://www.youtube.com/results?gl=US&search_query=Mike+Hanford) plays John Lennon after coming back to life in 1984.
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
-- [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya)
+- [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
 - [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins)
 - [Ralphie May](https://www.youtube.com/results?gl=US&search_query=Ralphie+May)
 - [Rita Rudner](https://www.youtube.com/results?gl=US&search_query=Rita+Rudner)
