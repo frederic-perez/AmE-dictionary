@@ -1,4 +1,12 @@
 
+__white elephant__ _n_ A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
+__dramatist__ _n_ Someone who writes plays. _Syn_ playwright  
+__Freudian slip__ _idiom_ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
+__adjudge__ _v_ To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
+__get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy.  
+__dinky__ _adj_  
+__prescribe__ _v_  
+__face value__ _n_  
 
 __fuss__ _n_  
 __gaunt__ _adj_  
