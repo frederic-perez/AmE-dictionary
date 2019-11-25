@@ -53,6 +53,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Thomas Middleditch](https://www.youtube.com/results?gl=US&search_query=Thomas+Middleditch)
 - [Tig Notaro](https://www.youtube.com/results?gl=US&search_query=Tig+Notaro) is known for her deadpan comedy.
 - [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
+- [Wayne Brady](https://www.youtube.com/results?gl=US&search_query=Wayne+Brady)
 - [Will Ferrell](https://www.youtube.com/results?gl=US&search_query=Will+Ferrell) is an actor, comedian, producer, writer, and businessman.
 - [Woody Allen](https://www.youtube.com/results?gl=US&search_query=Woody+Allen+comedian) "shot a moose once" in the 60s.
 - [Zac Amico](https://www.youtube.com/results?gl=US&search_query=Zac+Amico)
