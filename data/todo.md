@@ -1,4 +1,14 @@
 
+
+__mollify__ _v_ (mollified)  
+__squirm__ _v_  
+__kindred spirit__  
+__out of sorts__ _idiom_  
+__pique__ _v_ (piqued)  
+__stationary bicycle__ _n_ A "going-nowhere" bicycle.  
+__zany__ _Zany fruitcakes._  
+__washing lines__ _n_  
+
 __white elephant__ _n_ A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __dramatist__ _n_ Someone who writes plays. _Syn_ playwright  
 __Freudian slip__ _idiom_ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
