@@ -1,13 +1,13 @@
 
-
+__Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
 __mollify__ _v_ (mollified)  
 __squirm__ _v_  
-__kindred spirit__  
+__kindred spirit__ _idiom_ An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we're both tight._ _Syn_ kindred soul  
 __out of sorts__ _idiom_  
 __pique__ _v_ (piqued)  
 __stationary bicycle__ _n_ A "going-nowhere" bicycle.  
-__zany__ _Zany fruitcakes._  
-__washing lines__ _n_  
+__zany__ _adj_ _Zany fruitcakes._ :es: estrafalario, surrealista  
+__washing line__ _n_  
 
 __white elephant__ _n_ A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __dramatist__ _n_ Someone who writes plays. _Syn_ playwright  
@@ -30,7 +30,7 @@ __waffle__ _n_
 __blood count__ _n_ :es: hemograma  
 __curriculum vitae__ _n_  
 __on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
-__Stan__ A masculine given name, often a short form (hypocorism) of Stanley.  
+__Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
 __damnification__ _n_  
 __heed__ _v_  
