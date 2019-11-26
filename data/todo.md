@@ -1,4 +1,13 @@
 
+__whistle-blower__ _n_ One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
+__have your cake and eat it (too)__ _idiom_ To have or get two good things at the same time, especially things that are not usually possible to have together.  
+__slink<sup>1</sup>__ _v_ To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ 
+__slink<sup>2</sup>__ _adj_  Born prematurely.  
+__coalesce__ _v_  
+__have your head in the clouds__ _idiom_ To be separate from reality, to dream.  
+__up for grabs__ _idiom_ Available for anyone.  
+__aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
+
 __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
 __mollify__ _v_ (mollified)  
 __squirm__ _v_  
