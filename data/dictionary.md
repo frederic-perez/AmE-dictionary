@@ -109,7 +109,7 @@ __activate__ _v_ _Gonzalez was activated from the disabled list._
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
-__acumen__ _n_ :four: :octocat: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acumen__ _n_ :four: :reminder_ribbon: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
 __ad lib__ _adv_  
 __ad__ _n informal_ Advertisement.  
@@ -668,7 +668,7 @@ __balderdash__
 __bale__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
-__balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :octocat: balky donkey _He was trying to get his balky donkey to move._  
+__balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :reminder_ribbon: balky donkey _He was trying to get his balky donkey to move._  
 __ball and chain__ A wife.  
 __ball bearings__  
 __ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
@@ -10418,7 +10418,7 @@ __sleety__
 __slender__  
 __sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
 __sleuth__ _v informal_ :three: (sleuthing) To act as a detective.  
-__slew__ _n_ _informal_ :nine::m::octocat: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
+__slew__ _n_ _informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ :dart:  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
