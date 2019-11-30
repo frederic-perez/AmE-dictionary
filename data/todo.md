@@ -1,4 +1,13 @@
 
+__absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
+__reprove__ _v_ To speak disapprovingly to (a person); rebuke or scold.  
+__thieve__ _v_ :astonished: To steal.  
+__sempiternal__ _adj_ Enduring forever; eternal.  
+__above the salt__ _idiom_ Of or in a position of high standing, rank, regard, or repute.  
+__a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
+__a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
+__indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
+
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity of between 4.5 and 5 gallons used for storing or transporting liquids, esp motor fuel: originally a German design adopted by the British Army during World War II.  
 __blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
