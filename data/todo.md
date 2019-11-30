@@ -170,7 +170,7 @@ __hush__ _n_
 __pristine__ _They were in pristine condition._  
 __larder__ _n_  
 
-__aphorism__ _n_ A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
+__aphorism__ _n_ :two: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __complacent__ _adj_  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand.  _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
@@ -376,13 +376,12 @@ __muzzle__ _n_ _The muzzle of the gun._
 __sideline__ _v_  
 __complacent__ _adj_ Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __commendation__ _n_ _He received two commendations._  
-__aphorism__  
 __swoop__ _n_  
-__qualms__ _n_  
+__qualm__ _n_ (qualms) :es: escrúpulo; duda; náusea, mareo  
 __irate__ _adj_  
 __acquiesced__ _v_  
 __coaxing__ _v_  
-__smugly__  
+__smugly__ _adv_  
 __prised__ _v_ _The window had been prised open._  
 __guesswork__ _n_  
 
