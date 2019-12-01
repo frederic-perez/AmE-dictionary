@@ -34,6 +34,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jordan Klepper](https://www.youtube.com/results?gl=US&search_query=Jordan+Klepper)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Kristen Schaal](https://www.youtube.com/results?gl=US&search_query=Kristen+Schaal)
+- [Margaret Cho](https://www.youtube.com/results?gl=US&search_query=Margaret+Cho)
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
 - [Mike Hanford](https://www.youtube.com/results?gl=US&search_query=Mike+Hanford) plays John Lennon after coming back to life in 1984.
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
