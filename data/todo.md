@@ -1,4 +1,13 @@
 
+__ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
+__syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
+__subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
+__slight<sup>1</sup>__ _adj_  
+__slight<sup>2</sup>__ _v_ __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._  __3__ To do negligently or thoughtlessly; scant. _Don't slight your work._  
+__slight<sup>3</sup>__ _n_ A deliberate discourtesy; a snub.  
+__a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
+__expunge__ _v_ __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government's attempt to expunge dissidents._  
+
 __absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
 __reprove__ _v_ To speak disapprovingly to (a person); rebuke or scold.  
 __thieve__ _v_ :astonished: To steal.  
