@@ -1,4 +1,13 @@
 
+__endocrine__ _n_ :mega:  
+__neuropeptide__ _n_  
+__orchestrate__ _v_  
+__compound__ _n_  
+__fetus__ _n_  
+__fetal__ _adj_  
+__beta__ _n_ :mega:  
+__synaptogenesis__ _n_  
+
 __advanced in years__ _idiom_ Of an older age.  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
 __censer__ _n_ A container for burning incense.  
