@@ -1,4 +1,13 @@
 
+__advanced in years__ _idiom_ Of an older age.  
+__penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
+__censer__ _n_ A container for burning incense.  
+__frankincense__ _n_ :astonished: :es: incienso  
+__myrrh__ _n_ :pencil2: :es: mirra  
+__mirth__ _n_ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
+__manger__ _n_ A trough or an open box in which feed for livestock is placed.  
+__bough__ _n_ A tree branch, especially a large or main branch.  
+
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
