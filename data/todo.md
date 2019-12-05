@@ -1,4 +1,13 @@
 
+__admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
+__act of Congress__ _idiom_ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
+__intermit__ _v_ Cease an action temporarily. _Syn_ pause, break  
+__fire-eater__ _n_ A belligerent grouch.  
+__accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
+__fortitude__ _n_ Strength of mind that enables a person to encounter danger or bear pain or adversity with courage.  
+__expedite__ _v_  
+__get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
+
 __endocrine__ _n_ :mega:  
 __neuropeptide__ _n_  
 __orchestrate__ _v_  
