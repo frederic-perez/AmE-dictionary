@@ -1,4 +1,13 @@
 
+__tellurian__ _adj_ Of or characteristic of the earth of its inhabitants; terrestrial.  
+__you scratch my back, I'll scratch yours__ _idiom_ If you help me, I will help you.  
+__slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
+__sell someone a pup__ _idiom_ To swindle someone by selling them something worthless.  
+__hold your horses__ _idiom_ Slow down, wait.  
+__have your head in the clouds__ _idiom_ To be separate from reality, to dream.  
+__confabulate__ _v_ To chat informally.  
+__ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
+
 __admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
 __act of Congress__ _idiom_ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __intermit__ _v_ Cease an action temporarily. _Syn_ pause, break  
