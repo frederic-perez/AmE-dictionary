@@ -1,4 +1,13 @@
 
+__fracas__ _n_ Noisy quarrel.  
+__coup de grâce__ __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
+__lettered__ _adj_ Highly educated; having extensive information or understanding.  
+__devoir__ _n_  
+__lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
+__simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
+__mot juste__ _n_ The appropriate word or expression.  
+__embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
+
 __tellurian__ _adj_ Of or characteristic of the earth of its inhabitants; terrestrial.  
 __you scratch my back, I'll scratch yours__ _idiom_ If you help me, I will help you.  
 __slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
