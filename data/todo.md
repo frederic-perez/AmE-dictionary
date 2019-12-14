@@ -1,4 +1,14 @@
 
+__all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
+__toothsome__ _adj_ Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious
+__vexillology__ _n_ The study of flags.  
+__single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
+__gingerly<sup>1</sup>__ _adv_  
+__gingerly<sup>2</sup>__ _adj_  
+__stillbirth__ _n_  
+__confound__ _v_  
+__tribulation__ _n_  
+
 __fracas__ _n_ Noisy quarrel.  
 __coup de grâce__ __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
