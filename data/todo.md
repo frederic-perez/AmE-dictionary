@@ -1,4 +1,13 @@
 
+__varnish__ _n_  
+__electrical flex__ _n_  
+__anathema__ _n_  
+__handout__ _n_  
+__absent-minded__ _adj_  
+__dash__ _n_ _The stupid dog made a dash across the road._  
+__twiddle__ _v_ (twiddling)  
+__prize__ _v_ (prise)  
+
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __toothsome__ _adj_ Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious
 __vexillology__ _n_ The study of flags.  
