@@ -35,8 +35,8 @@ __abandon__ _Netflix is spending with abandon._
 __abasement__ _n_  
 __abashed__ :two::hammer:  
 __abasiophilia__ _n_  
-__abatement__ _n_ :two::hammer: _A tax abatement._  
 __abate__ _v_ (abating)  
+__abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ Slaughterhouse.  
 __aberrant__ _adj_  
 __aberration__ _n_  
@@ -57,6 +57,7 @@ __abrogation__ :two::hammer:
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __absconded__ _v_  
+__absent-minded__ _adj_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __abstain__ _v_ :pencil2:  
 __abundant__  
@@ -237,6 +238,7 @@ __algae__ _n_
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
+__all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
@@ -307,7 +309,7 @@ __amusement park__
 __an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __anachronism__  
 __analyst__ :pencil2:  
-__anathema__ _n_ :five: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
+__anathema__ _n_ :six: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :two::mega::hammer:  
@@ -1804,7 +1806,6 @@ __castles in the sky__ _idiom_ Dreams, hopes, or plans that are impossible, unre
 __castoff__ _n_  
 __casual__ _He put on casual clothes._  
 __casualties__  
-__catfish__ _n_  
 __cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
@@ -1837,7 +1838,7 @@ __catchpenny__
 __catechism__ :two::hammer::pencil2:  
 __cater__ _v_ :three::hammer:  
 __caterwauling__  
-__catfish__ _n_ :four: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
+__catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
 __cathartic__  
 __cathedral ceiling__ :camera::two::hammer:  
@@ -2392,7 +2393,7 @@ __confidence__
 __config__ :mega: _A config file._  
 __conflagration__ _n_  
 __conflate__ _v_  
-__confound__ _v_ :seven::hammer: (confounded, confounding)  
+__confound__ _v_ :eight::hammer: (confounded, confounding)  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
 __conglomerates__  
@@ -2555,7 +2556,7 @@ __countervail__ _Countervailing evidence._
 __countless__  
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
-__coup de grace__ :two::hammer:  
+__coup de grâce__ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
 __coup__ :mute:[cou~~p~~]  
 __coupes__ _Coupes, two door models usually sportier than sedans._  
 __coupon__ _n_  
@@ -2864,7 +2865,8 @@ __darned__
 __darnedest__  
 __darning__  
 __dart__ _v_ :three::hammer: (darting)  
-__dash__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
+__dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
+__dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
 __date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
@@ -3662,6 +3664,7 @@ __elderly__ :es: tercera edad
 __eldest__ (is this right?)  
 __Election Day__  
 __elective__ _Other students can take up to four fine arts electives._  
+__electrical flex__ _n_  
 __elegy__ :two::hammer:  
 __elephant in the room__ _idiom_ :two: An obvious problem that people do not want to talk about.  
 __elevator boy__  
@@ -4496,7 +4499,7 @@ __fowler__
 __foxing stains__  
 __foyer__ _n_ :three::hammer:  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
-__fracas__ _n_ :two::hammer:  
+__fracas__ _n_ :three: Noisy quarrel.  
 __fracking__ Hydraulic fracturing.  
 __fractious__ _adj_ _His fractious temperament._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
@@ -4803,7 +4806,8 @@ __gimmicks__ _No "get in the door" gimmicks._
 __gimmicky__  
 __gimpy__ :two::hammer: _A gimpy angle._ _Gimpy gait._  
 __gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
-__gingerly__ :three::hammer: _Walking gingerly behind the pack._  
+__gingerly<sup>1</sup>__ _adv_ :four::hammer: _Walking gingerly behind the pack._  
+__gingerly<sup>2</sup>__ _adj_  
 __gingham__  
 __gingivitis__ _n_  
 __ginning__  
@@ -5227,7 +5231,7 @@ __handily__
 __handiwork__ :two::hammer:  
 __handkerchief__ :mute:[han~~d~~kerchief]  
 __handoff__  
-__handout__ _n_ :four::hammer: (handouts)  
+__handout__ _n_ :five::hammer: (handouts)  
 __hands down__ _Hands down, best episode ever._  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands on__  
@@ -6578,6 +6582,7 @@ __let your hair down__
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I'm currently lettering the forthcoming comic book._  
+__lettered__ _adj_ Highly educated; having extensive information or understanding.  
 __levee__  
 __leveled__ :two::hammer:  
 __lever__ _v_  
@@ -8733,7 +8738,7 @@ __prissy__ _adj_ :three::hammer:
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
-__prize<sup>2</sup>__ _v_ _The deadbolt was prized out of the jamb on the door to the kitchen._  
+__prize<sup>2</sup>__ _v_ (prise) :two::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._  
 __prizefighter__ _n_ :three::hammer:  
 __pro bono__ :three::hammer: _Pro bono consultant._ _Some pro bono work._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
@@ -10299,13 +10304,13 @@ __Sinai__ _n_ (Mount Sinai) :mega:
 __since forever__  
 __sine die__  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
-__synesthesia__ _n_  
 __sinew__ _n_ :seven::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
 __sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
+__single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
 __singletree__ _Singletree plow._  
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
@@ -11051,7 +11056,7 @@ __stigma__
 __stigmatize__ _v_  
 __stile__ _n_  
 __still life__ _Still life painting._  
-__stillbirth__ _n_  
+__stillbirth__ _n_ :two::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __sting__ _n_  
@@ -11399,6 +11404,7 @@ __syllogism__ :two::hammer:
 __sympathetic__  
 __syncing__ _Syncing up over coffee._  
 __syndicated__ :two::hammer:  
+__synesthesia__ _n_  
 __syphilis__ _n_ :pencil2:  
 __syringe__  
 __syrupy__  
@@ -11897,7 +11903,7 @@ __tooth decay__ (cavity, cavities) :es: caries
 __tooth-gnashing__  
 __tooth-wrecking__  
 __toothless__ _Some consider most of those laws toothless._  
-__toothsome__ _adj_  
+__toothsome__ _adj_ :two: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious
 __tootsie__ _n_  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top bill__ _I'm not my usual top billing._  
@@ -12030,7 +12036,7 @@ __triage<sup>2</sup>__ _v_
 __trial__ _n_  
 __tribal__  
 __Tribeca__  
-__tribulation__ _n_ :eight::hammer: (tribulations)  
+__tribulation__ _n_ :nine::hammer: (tribulations)  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
 __tribute__ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
@@ -12180,7 +12186,7 @@ __tweed__
 __tweeny-weeny__  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
 __twice as good__ _They took "twice as good as a challenge._  
-__twiddle__ _v_  
+__twiddle__ _v_ :two::hammer: (twiddling)  
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
 __twine__ _n_ :two::hammer: _Tie the legs of the turkey together with twine._  
@@ -12455,6 +12461,7 @@ __vaping__ _v_ _Smokers are switching to vaping._
 __VAR__ _abbr_ Video Assistant Referee.  
 __variety store__  
 __varmints__  
+__varnish__ _n_  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vassal__ _n_  
 __vastly__ :two::hammer:  
@@ -12511,6 +12518,7 @@ __veto__ _v_
 __vetted__ _v_ :three::hammer:  
 __vetting__  
 __vexed__ _v_ :two::hammer:  
+__vexillology__ _n_ The study of flags.  
 __vexing__ :two::hammer: _Vexing problem._  
 __viable__  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  

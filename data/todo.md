@@ -1,26 +1,4 @@
 
-__varnish__ _n_  
-__electrical flex__ _n_  
-__anathema__ _n_  
-__handout__ _n_  
-__absent-minded__ _adj_  
-__dash__ _n_ _The stupid dog made a dash across the road._  
-__twiddle__ _v_ (twiddling)  
-__prize__ _v_ (prise)  
-
-__all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
-__toothsome__ _adj_ Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious
-__vexillology__ _n_ The study of flags.  
-__single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
-__gingerly<sup>1</sup>__ _adv_  
-__gingerly<sup>2</sup>__ _adj_  
-__stillbirth__ _n_  
-__confound__ _v_  
-__tribulation__ _n_  
-
-__fracas__ _n_ Noisy quarrel.  
-__coup de grâce__ __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
-__lettered__ _adj_ Highly educated; having extensive information or understanding.  
 __devoir__ _n_  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
 __simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
