@@ -1,26 +1,4 @@
 
-__devoir__ _n_  
-__lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
-__simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
-__mot juste__ _n_ The appropriate word or expression.  
-__embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
-
-__tellurian__ _adj_ Of or characteristic of the earth of its inhabitants; terrestrial.  
-__you scratch my back, I'll scratch yours__ _idiom_ If you help me, I will help you.  
-__slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
-__sell someone a pup__ _idiom_ To swindle someone by selling them something worthless.  
-__hold your horses__ _idiom_ Slow down, wait.  
-__have your head in the clouds__ _idiom_ To be separate from reality, to dream.  
-__confabulate__ _v_ To chat informally.  
-__ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
-
-__admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
-__act of Congress__ _idiom_ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
-__intermit__ _v_ Cease an action temporarily. _Syn_ pause, break  
-__fire-eater__ _n_ A belligerent grouch.  
-__accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
-__fortitude__ _n_ Strength of mind that enables a person to encounter danger or bear pain or adversity with courage.  
-__expedite__ _v_  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 
 __endocrine__ _n_ :mega:  

@@ -66,6 +66,7 @@ __abutting__ _Bungalows abutting._
 __abuzz__ :two::hammer:  
 __abysmal__  
 __abyss__ _n_ :astonished::mega::six:  
+__accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
@@ -103,6 +104,7 @@ __acrimonious__ _adj_ :three::hammer:
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
 __across__ _She is sitting across from you at a coffee shop._  
+__act of Congress__ _idiom_ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ To behave badly or strangely.  
 __ACT__ A college entrance exam, competitor to the SAT.  
@@ -135,6 +137,7 @@ __adjunct__ _Adjunct professors._
 __adjure__ _v_ _Syn_ command  
 __adjuvant__ _adj_ _The adjuvant setting._  
 __admin__ _I was doing just admin stuff._  
+__admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
 __admixture__ _n_ :two::hammer:  
 __admonition__ _n_ :six: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
@@ -2380,6 +2383,7 @@ __conducive__ _adj_ :three::hammer: _The vehicle doesn't seem conducive to passi
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
+__confabulate__ _v_ To chat informally.  
 __confection__  
 __confederacy__  
 __Confederate flag__  
@@ -3083,6 +3087,7 @@ __devil-may-care style__
 __deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
 __deviltry__  
 __devoid__  
+__devoir__ _n_  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
 __devote__ _v_ _We're devoting this episode to his paintings._  
@@ -3697,6 +3702,7 @@ __embodiment__
 __embody__ _v_  
 __embolden__  
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
+__embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
 __embroidered__  
 __embroil__ (embroiled)  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
@@ -3898,7 +3904,7 @@ __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow 
 __expatiate__ _v_  
 __expediency__  
 __expedient__  
-__expedite__ _v_ :dart::six::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__expedite__ _v_ :dart::seven::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
@@ -4182,6 +4188,7 @@ __fire drill__ _n_ An exercise intended to train people in duties and escape pro
 __fire irons__  
 __fire retardant__  
 __fire sale__ _n_ :three::hammer:  
+__fire-eater__ _n_ A belligerent grouch.  
 __firebrand__  
 __firebug__ _n_  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
@@ -4475,7 +4482,7 @@ __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direct
 __forthcoming__  
 __forthright__  
 __fortified wine__  
-__fortitude__ _n_  
+__fortitude__ _n_ :two: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage.  
 __fortnight__  
 __forty winks__ _idiom_ :three: A short sleep during the day. A short nap.  
 __foster care__ _n_ :three::hammer:  
@@ -4784,6 +4791,7 @@ __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._
 __ghastly__ _adj_ :seven::hammer::mute:[g~~h~~astly]  
 __ghetto__ :mute:[g~~h~~etto]  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
+__ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
 __ghoul__ _n_ :four::mute:[g~~h~~oul]:hammer:  
 __gibbet__ _n_  
 __gibblets__ _n_  
@@ -5332,6 +5340,7 @@ __have hot pants (for someone)__ _idiom_
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have your cake and eat it (too)__ _idiom_  
+__have your head in the clouds__ _idiom_ To be separate from reality, to dream.  
 __havoc__  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
@@ -5572,7 +5581,7 @@ __hold true__ _v_
 __hold up a fish__  
 __hold up__ _phr v_ Wait or delay. _Hold up a minute. I want to check something._  
 __hold water__  
-__hold your horses__ _idiom_ Slow down, wait.  
+__hold your horses__ _idiom_ :two: Slow down, wait.  
 __hold__ _v_ _They hold a particular view._  
 __holder__ _n_  
 __holding sway__  
@@ -6013,6 +6022,7 @@ __interim__
 __interlopers__ _n_ :two::hammer:  
 __interment__ _n_ :three::hammer:  
 __intermission__ _n_ :four::hammer::dart:  
+__intermit__ _v_ Cease an action temporarily. _Syn_ pause, break  
 __intermittent__  
 __intern__  
 __international friendly__  
@@ -6396,6 +6406,7 @@ __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._
 __lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
+__lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
 __lacy__ _Cypress trees that were lacy with new leaf._  
 __lad__ _n_  
 __laddie__  
@@ -7287,6 +7298,7 @@ __MOS__ _abbr_ :two: Mom over shoulder.
 __mos.__ (Months?)  
 __mosh__  
 __mosque__ _n_ :two::hammer: (mosques)  
+__mot juste__ _n_ The appropriate word or expression.  
 __moth__ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
@@ -9971,6 +9983,7 @@ __selfless__
 __selfsame__  
 __sell out__  
 __sell short__  
+__sell someone a pup__ _idiom_ To swindle someone by selling them something worthless.  
 __sell-offs__  
 __sellout__ (sold out)  
 __sellouts__ _There have been no sellouts._  
@@ -10297,6 +10310,7 @@ __silverplate__ _v_
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
+__simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
@@ -10491,6 +10505,7 @@ __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Lorea
 __slum<sup>2</sup>__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
 __slumber__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
+__slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
 __slumming__ _v_ :two::hammer:  
 __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._  
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
@@ -11581,7 +11596,7 @@ __tell-tale__ :two::hammer: _Tell-tale sings._
 __telling__ _n_ :three::hammer: _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father's experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale__ :two::hammer:  
-__tellurian__  
+__tellurian__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper__ _v_ :four::hammer: (tempered)  
@@ -13096,6 +13111,7 @@ __yonder__
 __yore__ _?_ _Days of yore._  
 __you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
 __you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
+__you scratch my back, I'll scratch yours__ _idiom_ If you help me, I will help you.  
 __your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  
 __your mileage may vary__  
