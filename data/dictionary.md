@@ -146,6 +146,7 @@ __adroit__
 __adroitly__  
 __adulation__  
 __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
+__advanced in years__ _idiom_ Of an older age.  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :seven::mega::hammer: _The advent of social media._  
 __adventitious__ _adj_ Associated with something by chance rather than as an integral part; extrinsic.  
@@ -945,6 +946,7 @@ __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
+__beta__ _n_ :mega:  
 __bethren__ _n_  
 __betray__ _v_ :two::hammer:  
 __betrothed__ _v_ :two::hammer:  
@@ -1265,7 +1267,7 @@ __bottom of the barrel__ _That's the tip of the iceberg, or, better, the bottom 
 __bottom out__ _Europe is bottomed out._  
 __bottom-of-the-barrel__  
 __boudin__ :two::hammer: _A length of white boudin in a saucer._  
-__bough__ _n_ :two::hammer (boughs)  
+__bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
 __bounce__ _v_ _slang_ To leave.  
 __Bouncing Betty__  
 __bouncy house__ _n_  
@@ -1879,7 +1881,7 @@ __Celt__ :mega:
 __celtic__ :mega::two::hammer:  
 __cement bird bath__  
 __cement__ _v_ :two::hammer: _He quickly cemented votes for the top job._  
-__censer__ _n_  
+__censer__ _n_ :two: A container for burning incense.  
 __censure motion__  
 __centennial__  
 __centerpiece__  
@@ -2334,6 +2336,7 @@ __composite__ _adj_ :two::mega::hammer: _Composite decking._
 __compost__ _v_  
 __composting__ _There's a brown bin for organic waste, which goes for composting._  
 __composure__  
+__compound__ _n_  
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__ _Compounding the situation._  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
@@ -3744,6 +3747,7 @@ __endangerment__
 __endeared__  
 __endearing__ _adj_ :seven: Inspiring affection. _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
+__endocrine__ _n_ :mega:  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
 __endow__ _v_  
 __endowed__ :two::hammer:  
@@ -4108,9 +4112,11 @@ __fester__ _v_ :five::hammer: (festering) _VA's challenges will only fester if t
 __festered__ _v_ :es: ulcerarse  
 __festering__ _n_ :two::hammer:  
 __festoon__ _v_ :nine: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
+__fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __feted__ _v_ :four::hammer:  
 __fettered__ _v_  
+__fetus__ _n_  
 __feud<sup>1</sup>__ _n_ :three::hammer:  
 __feud<sup>2</sup>__ _v_  
 __feuded__  
@@ -4517,6 +4523,7 @@ __frame__ _v_ _He framed Roger Rabbit._
 __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
 __franchise__ _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
+__frankincense__ _n_ :astonished: :es: incienso  
 __Frappuccino__  
 __frat house__  
 __frat__ _A frat house._  
@@ -4760,6 +4767,7 @@ __Geronimo wire__ :two::hammer:
 __gerrymander<sup>1</sup>__ _v_ :five: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
+__get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 __get a grip__  
 __get a jump__ _Get a jump on things._  
 __get a kick out of (someone or something)__ _idiom_ :two::hammer: _You'll get a kick out of this!_  
@@ -6058,6 +6066,7 @@ __ironclad commitment__
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
 __IRS__ _n_ :five: _Internal Revenue Service_  
+__ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __islet__ _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
@@ -6924,7 +6933,7 @@ __Mandy__ Diminutive form of Amanda.
 __mane__ _n_ :five::hammer: _A lion's mane._  
 __maneuver<sup>1</sup>__ _n_  
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
-__manger__  
+__manger__ _n_ :two: A trough or an open box in which feed for livestock is placed.  
 __mangy__ _adj_ :three::hammer:  
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
 __Manhattanite__  
@@ -7168,7 +7177,7 @@ __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with 
 __minute__ :mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
-__mirth__ _n_ :four::hammer:  
+__mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __miscarriage__ _n_  
 __miscarry__ _v_  
@@ -7403,6 +7412,7 @@ __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep
 __my ass__  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myriad__ _adj_ :three: Very many.  
+__myrrh__ _n_ :pencil2: :es: mirra  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __mysteries__ _n_ :pencil2:  
@@ -7499,6 +7509,7 @@ __nestle__ _v_ :seven::hammer: (nestled)
 __nestlings__ _n_  
 __nether__ :two::hammer:  
 __neuroblastoma__  
+__neuropeptide__ _n_  
 __neutered__  
 __neutrinos__ _n_  
 __Neutron Jack__  
@@ -7804,6 +7815,7 @@ __optometry__ _n_
 __opulent__  
 __Orange Julius__  
 __orb__ _n_ :two::hammer:  
+__orchestrate__ _v_  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __order around__ _phr v_ To give commands to someone in a bossy way.  
@@ -8191,6 +8203,7 @@ __penal__ :mega:
 __pence__ _n_ _(plural?)_ _See what you're using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb "pencher") A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
+__penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
 __penitents__ _n_  
 __penknife__ :two::hammer:  
 __pennant races__  
@@ -11236,6 +11249,7 @@ __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebod
 __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
+__subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ (car?)  
 __subdue__ _v_ :five::hammer: (subdued)  
 __subjugate__ _v_  
@@ -11417,7 +11431,9 @@ __sword__ :mute:[s~~w~~ord]
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
 __syllogism__ :two::hammer:  
 __sympathetic__  
+__synaptogenesis__ _n_  
 __syncing__ _Syncing up over coffee._  
+__syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
 __syndicated__ :two::hammer:  
 __synesthesia__ _n_  
 __syphilis__ _n_ :pencil2:  
