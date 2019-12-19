@@ -15,6 +15,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Carl Tart](https://www.youtube.com/results?gl=US&search_query=Carl+Tart)
 - [Carmen Christopher](https://www.youtube.com/results?gl=US&search_query=Carmen+Christopher) is killing it (in a short).
 - [Carrot Top (Scott Thompson)](https://www.youtube.com/results?gl=US&search_query=Carrot+Top) is a prop comediant.
+- [Chelsea Peretti](https://www.youtube.com/results?gl=US&search_query=Chelsea+Peretti)
 - [Chris Gethard](https://www.youtube.com/results?gl=US&search_query=Chris+Gethard)
 - [Chris Rock](https://www.youtube.com/results?gl=US&search_query=Chris+Rock)
 - [Christi Chiello](https://www.youtube.com/results?gl=US&search_query=Christi+Chiello) is a roastmaster.
