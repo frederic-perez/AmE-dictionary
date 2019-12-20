@@ -1,4 +1,13 @@
 
+__earthshine__ _n_ The sunlight reflected from the earth's surface that illuminates part of the moon not directly lighted by the sun.  
+__from a mile away__ _idiom_ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
+__hombre__ _n_ _informal_ An informal term for a youth or man.  
+__corporate ladder__ _idiom_  
+__can't be bothered__ _idiom_ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
+__booster__ _n_ An enthusiastic promoter, as of a sports team or school.  
+__woefully__ _adj_ _Most of them are woefully unproductive, and tyrannize our offices._  
+__tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
+
 __aloft__  
 __orographic cloud__ _n_ A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.   
 __orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
