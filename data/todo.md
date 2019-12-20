@@ -1,4 +1,13 @@
 
+__aloft__  
+__orographic cloud__ _n_ A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.   
+__orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
+__facsimile__ _n_  
+__ensemble__ _n_  
+__stringent__ _adj_  
+__updraft__ _n_ The movement upward of air or other gas.  
+__downdraft__ _n_ A downward current, as of air.  
+
 __amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
 __well-heeled__ _adj_ Having plenty of money.  
 __all sizzle and no steak__ idiom_ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
