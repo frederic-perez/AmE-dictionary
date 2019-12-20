@@ -1,4 +1,16 @@
 
+__cul de sac__  
+__facsimile__  
+__gofer__ _n_ _slang_  
+__mangle__ _v_  
+__recollect__ _v_  
+__deposit__ _n_  
+__gravitate__ _v_  
+__guest__ _v_ (guested) To appear as a guest: _guested on a television series._  
+__blacklist<sup>1</sup>__ _n_  
+__blacklist<sup>2</sup>__ _v_  
+__get a kick out of (someone or something)__ _idiom_ :three::hammer:  
+
 __tractography__ _n_  
 __OEM__ _abbr_  
 __apposition__ _n_   
