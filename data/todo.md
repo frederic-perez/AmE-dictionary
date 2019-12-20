@@ -1,4 +1,13 @@
 
+__amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
+__well-heeled__ _adj_ Having plenty of money.  
+__all sizzle and no steak__ idiom_ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
+__buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
+__maneuver__ _n_ A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._   
+__gentleman's agreement__ _idiom_ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
+__cajole__ _v_  
+__eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
+
 __escalator__ _n_ A continuously moving stairway on an endless loop for carrying passengers up or down.  
 
 __so far, so good__  
