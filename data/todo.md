@@ -1,4 +1,13 @@
 
+__tractography__ _n_  
+__OEM__ _abbr_  
+__apposition__ _n_   
+__QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
+__KOL__ _abbr_ Key opinion leader.  
+__corridor__ _n_ :es: puente aéreo  
+__decant__ _v_  
+__shed__ _v_  
+
 __earthshine__ _n_ The sunlight reflected from the earth's surface that illuminates part of the moon not directly lighted by the sun.  
 __from a mile away__ _idiom_ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __hombre__ _n_ _informal_ An informal term for a youth or man.  
