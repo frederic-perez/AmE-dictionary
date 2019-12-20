@@ -21,8 +21,11 @@ __a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A 
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
+__a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
+__a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
+__a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
@@ -50,6 +53,7 @@ __abjure__ _v_
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
 __abounds__  
 __about-face__  
+__above the salt__ _idiom_ Of or in a position of high standing, rank, regard, or repute.  
 __aboveboard__  
 __abrade__ _v_  
 __abreast__ _adv_ :six: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
@@ -59,6 +63,7 @@ __abs__ _n_ :two::hammer: _Six-pack abs._
 __absconded__ _v_  
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
+__absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
 __abstain__ _v_ :pencil2:  
 __abundant__  
 __abutted__  
@@ -309,6 +314,7 @@ __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and exc
 __ample__ _adj_ :three: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
+__ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
 __amusement park__  
 __an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __anachronism__  
@@ -841,6 +847,7 @@ __Beehive State__ _n_ :three: Utah.
 __beeline__  
 __beep-de-beep__  
 __beer gut__  
+__beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
 __beer pong__ _n_  
 __beer tap__ _A beer tap that was brought from England._  
 __beers on tap__ :camera:  
@@ -1080,6 +1087,7 @@ __bling__ _n_ :three::hammer:
 __blink__ _v_ _There is no reason to blink._  
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
+__blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
 __blithe__ _adj_ :six::hammer:  
 __blithely__ _adv_ :eight::hammer: _The worst option is to blithely add getters and setters._  
 __blitheness__  
@@ -1744,6 +1752,7 @@ __carafe__ _n_
 __carapace__ _n_ :four::hammer:  
 __carat__  
 __caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
+__carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __card__ _v_  
 __cardiac arrest__  
@@ -2704,6 +2713,7 @@ __crotchety__
 __crouch__ :two::hammer:  
 __crowbar__ _n_ :two::hammer:  
 __crowing__ _v_  
+__crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crucible__ _n_ :six::hammer:  
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
@@ -3922,7 +3932,7 @@ __exploit<sup>2</sup>__ _v_ :mega:
 __expose__ _v_  
 __expostulate__ _v_  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
-__expunged__ _v_  
+__expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government's attempt to expunge dissidents._  
 __exquisite__ _Exquisite acting._  
 __extemporaneous__ _adj_  
 __extent__ _To the same extent._  
@@ -5943,6 +5953,7 @@ __indictment__ _n_ :four::hammer:
 __indigenous__ _Indigenous people._  
 __indiscreet__  
 __indispensable__  
+__indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indolent__ _adj_ :two: Very lazy, slothful.  
 __indomitable__ :two::hammer: _Indomitable will._  
 __inducements__  
@@ -6134,6 +6145,7 @@ __jeremiad__
 __jerk around__  
 __jerk__ _n_ _slang_ Mean or unlikeable person.  
 __jerry__  
+__jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity of between 4.5 and 5 gallons used for storing or transporting liquids, esp motor fuel: originally a German design adopted by the British Army during World War II.  
 __jersey snagging__ _football_  
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
@@ -7386,6 +7398,7 @@ __muriatic__
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
 __muse<sup>2</sup>__ _v_ :four::hammer: (mused) _He mused on his Facebook page about killing his wife._  
+__muselet__ _n_ The wire that holds a champagne cork in place.  
 __museum__ _n_ :mega:  
 __mush__ _n_ :four::hammer: _A mush brain._  
 __mush-mouth__ _The kid with the mush-mouth accent._  
@@ -9359,6 +9372,7 @@ __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishm
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisal__ _n_ :five::hammer: (reprisals) _A ban on federal reprisals._  
 __reprobate__ _v_  
+__reprove__ _v_ To speak disapprovingly to (a person); rebuke or scold.  
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
@@ -10006,6 +10020,7 @@ __semi-finished__ _Semi-finished lens._
 __seminal__ _adj_ _That was a seminal game._  
 __seminoles__  
 __Semper fi__ :two::hammer:  
+__sempiternal__ _adj_ Enduring forever; eternal.  
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
@@ -10461,8 +10476,9 @@ __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's hi
 __slide<sup>2</sup>__ _v_  
 __slider__ _n_ :four::hammer: _What's up with someone's slider?_  
 __sliders__ _n_ (food)  
-__slight<sup>1</sup>__ _v_ :two: (slighted) To treat with disdain or indifference; to snub.  
-__slight<sup>2</sup>__ _n_ :seven: A humiliating affront. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
+__slight<sup>1</sup>__ _adj_  
+__slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._  __3__ To do negligently or thoughtlessly; scant. _Don't slight your work._  
+__slight<sup>3</sup>__ _n_ :eight: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slightly-built__ _The slightly-built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__ _n_ :two::hammer:  
@@ -11707,6 +11723,7 @@ __thick accent__ _Arnold's accent is getting thicker._
 __thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
 __thick skin__  
 __thicket__ _n_ :five::hammer: (thickets)  
+__thieve__ _v_ :astonished: To steal.  
 __thigh__ :mute:[thi~~gh~~]  
 __thine__  
 __thingy__ :two::hammer:  

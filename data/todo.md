@@ -1,26 +1,4 @@
 
-__slight<sup>1</sup>__ _adj_  
-__slight<sup>2</sup>__ _v_ __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._  __3__ To do negligently or thoughtlessly; scant. _Don't slight your work._  
-__slight<sup>3</sup>__ _n_ A deliberate discourtesy; a snub.  
-__a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
-__expunge__ _v_ __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government's attempt to expunge dissidents._  
-
-__absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
-__reprove__ _v_ To speak disapprovingly to (a person); rebuke or scold.  
-__thieve__ _v_ :astonished: To steal.  
-__sempiternal__ _adj_ Enduring forever; eternal.  
-__above the salt__ _idiom_ Of or in a position of high standing, rank, regard, or repute.  
-__a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
-__a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
-__indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
-
-__carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
-__jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity of between 4.5 and 5 gallons used for storing or transporting liquids, esp motor fuel: originally a German design adopted by the British Army during World War II.  
-__blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
-__ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
-__muselet__ _n_ The wire that holds a champagne cork in place.  
-__crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
-__beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
 __escalator__ _n_ A continuously moving stairway on an endless loop for carrying passengers up or down.  
 
 __so far, so good__  
