@@ -1,4 +1,13 @@
 
+__rack__ _n_  
+__steep__ _v_  
+__eponymous__ _adj_  
+__knead__ _v_  
+__transient<sup>1</sup>__ _adj_  
+__transient<sup>2</sup>__ _n_  
+__antibiotic<sup>1</sup>__ _n_  
+__antibiotic<sup>2</sup>__ _adj_  
+
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __party crasher__ _idiiom_ One who attends a party without having been invited.  
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
