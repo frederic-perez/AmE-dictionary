@@ -1,4 +1,14 @@
 
+__clutch__ _n_ _It fosters a clutch of promising innovations._  
+__scythe<sup>1</sup>__ _n_  
+__scythe<sup>2</sup>__ _v_  
+__whiplash__ _n_  
+__navel__ _n_  
+__perch__ _v_ _The sunglasses were perched on the top of her head._  
+__nip__ _v_  
+__plight__ _n_  
+__furnish__ _v_ _They were furnished with a wealth of new information._  
+
 __cul de sac__  
 __facsimile__  
 __gofer__ _n_ _slang_  
