@@ -1,4 +1,13 @@
 
+__off-color__ _adj_ An off-color joke or remark is rude or offensive.  
+__party crasher__ _idiiom_ One who attends a party without having been invited.  
+__cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
+__disheveled__ _adj_ In disarray; extremely disorderly.  
+__creature of habit__ _idiom_ One who prefers the comfort and reliability of routine and habitual behavior.  
+__mannerism__ _n_  
+__elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
+__red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.  
+
 __clutch__ _n_ _It fosters a clutch of promising innovations._  
 __scythe<sup>1</sup>__ _n_  
 __scythe<sup>2</sup>__ _v_  
