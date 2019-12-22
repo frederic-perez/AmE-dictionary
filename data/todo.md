@@ -1,4 +1,15 @@
 
+__xenoestrogen__ _n_  
+__disrupt__ _v_  
+__plasticity__ _n_  
+__xenobiotic<sup>1</sup>__ _n_  
+__xenobiotic<sup>2</sup>__ _adj_  
+__Caucasian<sup>1</sup>__ _adj_ :pencil2:  
+__Caucasian<sup>2</sup>__ _n_ :pencil2:  
+__quinine__ _n_ :mega:  
+__ferret__ _n_  
+__proliferation__ _n_  
+
 __rack__ _n_  
 __steep__ _v_  
 __eponymous__ _adj_  
