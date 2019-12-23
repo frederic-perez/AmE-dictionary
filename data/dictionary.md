@@ -364,6 +364,8 @@ __anthology__
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
 __anti-humor__  
 __anti-Semitism__  
+__antibiotic<sup>1</sup>__ _n_  
+__antibiotic<sup>2</sup>__ _adj_  
 __antic__  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antiquated__ _adj_ :three::hammer:  
@@ -1860,7 +1862,8 @@ __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spo
 __cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__ _n_ :two::hammer:  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__Caucasian__  
+__Caucasian<sup>1</sup>__ _adj_ :pencil2:  
+__Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
 __caught with your pants down__ _idiom_ To be found in an embarrassing situation.  
 __caught__ :mute:[cau~~gh~~t]  
@@ -3239,7 +3242,7 @@ __dispiriting__ _Dispiriting results._
 __disposable__ _adj_ _A disposable lighter._  
 __disquiet__  
 __disquisitition__ :pencil2:  
-__disrupt__ _v_ :two::hammer: _A Trump supporter disrupted a Broadway musical._  
+__disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
 __dissatisfaction__ :two::hammer:  
 __dissatisfied__ _adj_ :pencil2:  
@@ -3822,7 +3825,7 @@ __epistaxis__ _n_ A nosebleed.
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :seven: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponymous__ _adj_ :seven::hammer: (eponymously)  
+__eponymous__ _adj_ :eight::hammer: (eponymously)  
 __equaled__ _v_  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ :two::hammer:  
@@ -4113,7 +4116,7 @@ __fern__ _n_ :three::hammer: (ferns) _Fern garden._ :es: helecho
 __ferny__  
 __ferocious__  
 __ferret out__ _v_  
-__ferret__ _n_ :two::hammer:  
+__ferret__ _n_ :three::hammer:  
 __ferret-faced__  
 __ferreting out__ _v_  
 __fertil__ :mega:  
@@ -6357,7 +6360,7 @@ __knackered<sup>1</sup>__ _v_
 __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
 __knave__  
 __knavish__  
-__knead__ _v_ :seven::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
+__knead__ _v_ :eight::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
 __knee__ :mute:[~~k~~nee]  
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
@@ -7709,6 +7712,7 @@ __of one's own accord__ Voluntarily.
 __of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
+__off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-kilter__ :two::hammer:  
 __off-price stores__  
 __off-putting__  
@@ -8115,6 +8119,7 @@ __particle board__
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
 __partridge__ _n_ :two::hammer:  
 __party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
+__party crasher__ _idiom_ One who attends a party without having been invited.  
 __party line__ _n_  
 __party poppers__  
 __party__ _n_  
@@ -8468,6 +8473,7 @@ __plashed__ _v_
 __plaster<sup>1</sup>__ _n_ (band-aid?) :two::hammer:(plasters) _Salves, poultices, and plasters._  
 __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plastered__ _adj_ _slang_ Extremely drunk.  
+__plasticity__ _n_  
 __plate__ _Baseball_  
 __plateau__  
 __plating__ _It's your armor plating._  
@@ -8802,6 +8808,7 @@ __profusion__
 __progeny__  
 __prohibit__  
 __Prohibitionists__  
+__proliferation__ _n_  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __prominence__  
@@ -9027,6 +9034,7 @@ __quill__ _n_
 __quilt__  
 __quilting__ _Quilting bee._  
 __quince__ :pencil2: _Quince preserves._  
+__quinine__ _n_ :mega:  
 __quinoa__ :two::hammer:  
 __quinsy__  
 __quintessential__ _adj_ :four::hammer:  
@@ -9052,6 +9060,7 @@ __racetrack__ _Racetrack cars._
 __rachet__ _I heard the phone booth door rachet back violently on its hinges._  
 __racinos__  
 __rack up__ _v_ :six::hammer: _He had racked up a criminal record._ _Racking up 88 yards and two TDs._  
+__rack__ _n_  
 __racked__ _v_ :two::hammer:  
 __racket<sup>1</sup>__ _n_ :four::hammer: _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
@@ -11051,7 +11060,7 @@ __steamrolled__ _v_
 __steed__ _n_ :two::hammer: (steeds)  
 __steel__ _v_  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
-__steep<sup>2</sup>__ _v_ :eight: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
+__steep<sup>2</sup>__ _v_ :nine: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
 __steeplechase__  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
@@ -12035,7 +12044,7 @@ __tranquilizer__ _n_ :mega:
 __transceiver__  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _I was transfixed by it._  
-__transient<sup>1</sup>__ _adj_ :four::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
+__transient<sup>1</sup>__ _adj_ :five::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
 __transient<sup>2</sup>__ _n_  
 __translate__ _That doesn't always translate, believe me._  
 __translucent__ _adj_  
@@ -13092,6 +13101,9 @@ __wunderkind__
 __wussification__  
 __X-factor__ _Terry could become Ryukyu's X-factor._  
 __X's and O's__ :two::hammer: _There are the X's and O's._  
+__xenobiotic<sup>1</sup>__ _n_  
+__xenobiotic<sup>2</sup>__ _adj_  
+__xenoestrogen__ _n_  
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
 __yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)  

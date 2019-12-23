@@ -1,26 +1,4 @@
 
-__xenoestrogen__ _n_  
-__disrupt__ _v_  
-__plasticity__ _n_  
-__xenobiotic<sup>1</sup>__ _n_  
-__xenobiotic<sup>2</sup>__ _adj_  
-__Caucasian<sup>1</sup>__ _adj_ :pencil2:  
-__Caucasian<sup>2</sup>__ _n_ :pencil2:  
-__quinine__ _n_ :mega:  
-__ferret__ _n_  
-__proliferation__ _n_  
-
-__rack__ _n_  
-__steep__ _v_  
-__eponymous__ _adj_  
-__knead__ _v_  
-__transient<sup>1</sup>__ _adj_  
-__transient<sup>2</sup>__ _n_  
-__antibiotic<sup>1</sup>__ _n_  
-__antibiotic<sup>2</sup>__ _adj_  
-
-__off-color__ _adj_ An off-color joke or remark is rude or offensive.  
-__party crasher__ _idiiom_ One who attends a party without having been invited.  
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
 __disheveled__ _adj_ In disarray; extremely disorderly.  
 __creature of habit__ _idiom_ One who prefers the comfort and reliability of routine and habitual behavior.  
