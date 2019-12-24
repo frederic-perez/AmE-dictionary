@@ -2209,7 +2209,7 @@ __clunking__
 __clunky__ _adj_ :three::hammer:  
 __clutch bag__  
 __clutch player__  
-__clutch<sup>1</sup>__ _n_ :three::hammer: _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._  
+__clutch<sup>1</sup>__ _n_ :four::hammer: _It fosters a clutch of promising innovations._ _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._  
 __clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
 __CO__ Carbon monoxide, "the silent killer."  
@@ -2644,6 +2644,7 @@ __creaky__ _Creaky infrastructure._
 __creased__  
 __creases__ _Knife creases._  
 __creasing__  
+__creature of habit__ _idiom_ One who prefers the comfort and reliability of routine and habitual behavior.  
 __cred__  
 __credence__ _n_ :three::hammer:  
 __credenza__ _n_  
@@ -2766,7 +2767,7 @@ __cued__ _v_ _Newman cued the clip again._
 __cues__ _n_  
 __cuff links__  
 __cuffed__ _v_  
-__cul-de-sac__  
+__cul-de-sac__ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
@@ -2812,6 +2813,7 @@ __customs__ _n_ (at airport)
 __cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut from the same cloth__ _idiom_ To be very similar.  
+__cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
 __cut me a little slack__  
 __cut ties with (someone)__ _idiom_ :two::hammer:  
 __cut-and-dry task__  
@@ -3213,6 +3215,7 @@ __disguise__ :mute:[disg~~u~~ise]
 __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
+__disheveled__ _adj_ In disarray; extremely disorderly.  
 __dishing__ _v_  
 __dishonest__  
 __dishwasher__ _I worked as a dishwasher._  
@@ -3704,6 +3707,7 @@ __elucidate__ _v_ :two::hammer:
 __elude__ :astonished:  
 __elusive__  
 __Elvis has left the building__ _idiom_ :two: The show has come to an end. It's all over.  
+__elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
 __emancipate__ _v_  
 __emancipation__  
@@ -3978,7 +3982,7 @@ __face-lift__
 __facetious__ _adj_ :pencil2:  
 __facetiousness__  
 __facile__ :two::hammer: _She's an extremely facile actress._  
-__facsimile<sup>1</sup>__ _n_ :two::hammer: _The lander had two facsimile cameras._  
+__facsimile<sup>1</sup>__ _n_ :three::hammer: _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
 __facsimile<sup>3</sup>__ _v_  
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
@@ -4642,7 +4646,7 @@ __funny stomach__
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
-__furnish__ _v_ _To furnish suites of labs._  
+__furnish__ _v_ :two::hammer: _They were furnished with a wealth of new information._ _To furnish suites of labs._  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :five::hammer:  
@@ -4940,6 +4944,7 @@ __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.
 __God is in the detail(s)__ _idiom_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
+__gofer__ _n_ _slang_  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __Golden Boot__ _The race for the Golden Boot._  
@@ -6949,6 +6954,7 @@ __mane__ _n_ :five::hammer: _A lion's mane._
 __maneuver<sup>1</sup>__ _n_  
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
 __manger__ _n_ :two: A trough or an open box in which feed for livestock is placed.  
+__mangle__ _v_  
 __mangy__ _adj_ :three::hammer:  
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
 __Manhattanite__  
@@ -6961,6 +6967,7 @@ __manifesto__ _n_ :two::hammer: _My own workplace manifesto._
 __manipulation__  
 __manna__ _n_  
 __mannered__  
+__mannerism__ _n_  
 __manoeuvre__ _n_ _The Addison Lean manoeuvre._  
 __manor__ _A medieval manor house._  
 __manta__ _n_  
@@ -7487,7 +7494,7 @@ __naturalization__
 __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
 __naughty__ :mute:[nau~~gh~~ty]  
-__navel__ :two::hammer:  
+__navel__ _n_ :three::hammer:  
 __navel-gazer__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
 __naysayer__ _n_ :two::hammer:  
@@ -7563,7 +7570,7 @@ __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or 
 __nine yards__ (the whole nine yards)  
 __nineloss__ ?  
 __nip-and-tuck__  
-__nip<sup>1</sup>__ _v_ :four::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
+__nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
 __niqab__ _v_  
 __nitpick<sup>1</sup>__ _n_  
@@ -8246,7 +8253,7 @@ __per diem__
 __per se__ :mega: /pər sā′, sē′/  
 __percentile__ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
-__perch<sup>2</sup>__ _v_ :five::hammer: (perched)  
+__perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
 __percolator__ _n_  
 __peremptory__  
@@ -8514,7 +8521,7 @@ __pliable__ _The pliable GOP._
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
 __plies__ _v_  
-__plight__ _n_ :five: Tough situation.  
+__plight__ _n_ :six: Tough situation.  
 __plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :seven::hammer: (plodded, plodding) _Plod to the shower._  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
@@ -9243,6 +9250,7 @@ __reckless__
 __reckon__ _v_ :three::hammer:  
 __reckoning__ _n_  
 __reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
+__recollect__ _v_  
 __recollection__ _n_ :six::hammer:  
 __reconcile__ _v_  
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
@@ -9261,6 +9269,7 @@ __red flag__ _Red flag day._
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red rover__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
+__red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.  
 __red-eye__ _Catch the red-eye._  
 __red-letter day__  
 __redbones__ _n_  
@@ -9951,8 +9960,8 @@ __scurry__ _v_
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuzzy__  
-__scythe__  
-__scythes__ _n_  
+__scythe<sup>1</sup>__ _n_ (scythes) :two::hammer:  
+__scythe<sup>2</sup>__ _v_ :two::hammer:  
 __seabed__  
 __seafarer__  
 __seafaring__  
@@ -12845,7 +12854,7 @@ __whinnied__ _v_
 __whip up__ _phr v_ To make food or a meal very quickly and easily.  
 __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
-__whiplash__ _n_ Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
+__whiplash__ _n_ :two: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
 __whippersnapper__  
 __whipping by__ _The summer is whipping by._  
 __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
