@@ -1,4 +1,14 @@
 
+__elevator__ _n_  
+__platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
+__oval<sup>1</sup>__ _adj_ Having the shape of an ellipse or ellipsoid.  
+__oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
+__wordnesia__ _n_ When a common word looks strange and ungainly.  
+__diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
+__diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
+__laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
+__flank__ _n_  The side of an animal or a person between the ribs and hip. :es: costado  
+
 __abysmal failure__ _idiom_ Failure that is total and extreme in measure or implication.  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
 __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
