@@ -1,4 +1,12 @@
 
+__abysmal failure__ _idiom_ Failure that is total and extreme in measure or implication.  
+__downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
+__go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
+__luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
+__free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
+__go soft__ _idiom_ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
+__ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
+
 __deposit__ _n_  
 __gravitate__ _v_  
 __guest__ _v_ (guested) To appear as a guest: _guested on a television series._  
