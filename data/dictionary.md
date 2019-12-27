@@ -943,7 +943,7 @@ __berm__ _n_
 __berserk__ _adj_ :six: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
-__beseech__  
+__beseech__ _v_ :two::hammer: _Syn_ entreat  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :six::hammer: _Chelsea are beset with uncertainty._  
@@ -1474,6 +1474,7 @@ __bug off__ _Slang_ To leave someone alone; go away.
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :seven: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
+__bugbear__ _n_ __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __buggers__  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
@@ -3694,6 +3695,7 @@ __elephant in the room__ _idiom_ :two: An obvious problem that people do not wan
 __elevator boy__  
 __elevator control box__  
 __elevator operator__ :camera:  
+__elevator__ _n_  
 __elevators__ (airplane)  
 __ELIA5__ Explain Like I Am 5.  
 __elicit__ _v_ :six::hammer: (elicited)  
@@ -4916,6 +4918,7 @@ __go numb__ :two::hammer:
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go over the top__  
 __go over the wire__  
+__go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
@@ -5221,7 +5224,8 @@ __hackneyed__ :two::hammer: _The hackneyed metaphor made him smile._
 __hacksaws__ _n_  
 __haemophilia__  
 __haft sin__  
-__haggard__ _adj_ :three::hammer:  
+__haggard<sup>1</sup>__ _adj_ :four: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
+__haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
 __haggis__  
 __haggle__ _v_ :two::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
@@ -5236,7 +5240,7 @@ __hair clippers__ _n_ :camera:
 __hairline__  
 __hairpiece__ _n_  
 __haking__  
-__halcyon__ _Halcyon time of romance._  
+__halcyon__ _adj_ :two::hammer::pencil2: _Halcyon time of romance._  
 __hale__ _A real hale-and-hearty type with a warm smile._  
 __half sibling__  
 __half__ :mute:[ha~~l~~f]  
@@ -5448,7 +5452,7 @@ __hedge<sup>2</sup>__ _v_ :two::hammer: (hedging)
 __hedonic__  
 __Hedonism__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
-__heed__ _v_ :eight: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
+__heed__ _v_ :nine: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__  
 __heedlessly__  
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
@@ -7414,7 +7418,7 @@ __mush__ _n_ :four::hammer: _A mush brain._
 __mush-mouth__ _The kid with the mush-mouth accent._  
 __mushers__  
 __mushroom__ _v_ _Traffic mushroomed in Feb._  
-__mushy__ _adj_ :three::hammer: _Mushy age._  
+__mushy__ _adj_ :four::hammer: _Mushy age._  
 __musing__ _n_ :two: (musings) Contemplation; reflection.  
 __musket__  
 __muskmelon__ _n_ :three::hammer:  
@@ -7563,7 +7567,7 @@ __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._
 __nightie__ _n_ :two: A woman's nightgown.  
 __nightingale__ _n_  
 __nightmarish__ :two::hammer:  
-__nihilist__ _n_  
+__nihilist__ _n_ :two::hammer:  
 __nihilistic__  
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
@@ -8111,7 +8115,9 @@ __paroxysm__
 __parried__ _v_  
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
+__parry__ _v_  
 __parse__ _v_  
+__parsimonious__ _adj_ :two::hammer: _Syn_ stingy, penurious  
 __parsley__  
 __parsnip__  
 __parsonage__ :pencil2:  
@@ -8241,6 +8247,7 @@ __pensionary__ :es: jubilado
 __pensive__ _v_ :two::hammer:  
 __pensively__  
 __pent-up__ _adj_ :two::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
+__penurious__ _adj_ _Syn_ stingy, parsimonious  
 __peoples__ _pl n_ :two: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
@@ -8487,6 +8494,7 @@ __plating__ _It's your armor plating._
 __platinum__ _n_ :mega: /ˈplætənəm/  
 __platitude__ _n_ :four::hammer: (platitudes)  
 __platoon__ _v_ :two::hammer:  
+__platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
 __plaudits__  
 __plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
@@ -8685,6 +8693,7 @@ __pox__
 __PPD__ Postponed. _(sporting events)_  
 __ppg__ _Sanders is averaging 13.3 ppg._  
 __PR__ _abbr_ _The PR version of my life._  
+__practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
 __practical joke__  
 __practice__ _n_ _A pediatrics practice._  
 __pram suit__ _n_  
@@ -8858,7 +8867,7 @@ __provost__ _n_ :six: A provost is an administrator at a college or university. 
 __prowess__ _n_ :seven: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
 __proxy__ _I'm a proxy for the listener._  
-__prude__ _n_  
+__prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  
 __prune-o__ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
@@ -10352,6 +10361,7 @@ __silo__ _n_ :six::hammer: _A silo-launched missile._
 __silver lining__ (See "every cloud has a silver lining.")  
 __silver screen__  
 __Silver State__ Nevada.  
+__Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
 __silverplate__ _v_  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
@@ -12699,7 +12709,7 @@ __wand__ _n_
 __wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
 __wane__ _v_ :four::hammer: (waning) _The waning hours._  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
-__wanton<sup>1</sup>__ _adj_ :four: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
+__wanton<sup>1</sup>__ _adj_ :five: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war stories__  
 __warble__ _v_ :three::hammer:  

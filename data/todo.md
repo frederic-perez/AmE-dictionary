@@ -1,26 +1,4 @@
 
-__heed__ _v_  
-__beseech__ _v_ _Syn_ entreat  
-__prude__ _n_ :two::hammer:  
-__parsimonious__ _adj_ :two::hammer: _Syn_ stingy, penurious  
-__penurious__ _adj_ _Syn_ stingy, parsimonious  
-__wanton__ _adj_  
-__nihilist__ _n_  
-__halcyon__ _adj_ :pencil2:  
-
-__haggard<sup>1</sup>__ _adj_ __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
-__haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
-__parry__ _v_  
-__fret__ _v_  
-__mushy__ _adj_  
-__Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
-__go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
-__bugbear__ _n_ __1__ Any source, real or imaginary, of needless fright or fear.
-__2__ A persistent problem or source of annoyance.  
-__practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
-
-__elevator__ _n_  
-__platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __oval<sup>1</sup>__ _adj_ Having the shape of an ellipse or ellipsoid.  
 __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
