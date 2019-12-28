@@ -1,4 +1,14 @@
 
+__entrance<sup>1</sup>__ _n_  
+__entrance<sup>2</sup>__ _v_  
+__wizened__ _adj_  
+__teeter__ _v_ (teetering)  
+__wayward__ _adj_  
+__gaunt__ _adj_  
+__haggard__ _adj_  
+__stingy__ _adj_ _Syn_ parsimonious, penurious  
+__audacious__ _adj_  
+
 __God's green earth__ _idiom_ The entire planet; anywhere and everywhere.  
 __ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
 __God's honest truth__ _idiom_ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
