@@ -1,4 +1,13 @@
 
+__insolent__ _adj_  
+__trill__ _n_ (trills)  
+__vapid__ _adj_ 
+__dulcet__ _adj_  
+__rakish__ _adj_  
+__constrained__ _adj_  
+__earmark__ _v_ (earmarked)  
+__spay__ _v_ (spayed)  
+
 __kowtow__ _v_ :astonished: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ ("to knock") with the noun _tou_ ("head").  __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards).  
 __fulgent__ _adj_ Shining brilliantly; radiant.  
 __parterre__ _n_ An ornamental flower garden having the beds and paths arranged to form a pattern.  
