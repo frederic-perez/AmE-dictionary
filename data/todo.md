@@ -1,4 +1,13 @@
 
+__kowtow__ _v_ :astonished: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ ("to knock") with the noun _tou_ ("head").  __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards).  
+__fulgent__ _adj_ Shining brilliantly; radiant.  
+__parterre__ _n_ An ornamental flower garden having the beds and paths arranged to form a pattern.  
+__go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
+__wake-up call__  
+__caravansary__ _n_  An inn in some eastern countries with a large courtyard that provides accommodation for caravans.  
+__cut from whole cloth__ _idiom_ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being "cut out of whole cloth," when in reality, they were pieced together from different cuts.  
+__punch__ _n_ A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base.  
+
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
 __wizened__ _adj_  
