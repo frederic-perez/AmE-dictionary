@@ -1754,7 +1754,7 @@ __carabiner__ _n_ :camera::three::hammer: :es: mosquetón
 __carafe__ _n_  
 __carapace__ _n_ :four::hammer:  
 __carat__  
-__caravanserai__ _n_ (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
+__caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __card__ _v_  
@@ -2437,6 +2437,7 @@ __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A
 __conspicuously__  
 __constituency__ _n_ :six::hammer: (constituencies)  
 __constituent__ _n_ :five::hammer: (constituents)  
+__constrained__ _adj_  
 __construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :seven::hammer: (construed)  
 __consultee__ _n_  
@@ -2814,6 +2815,7 @@ __customs__ _n_ (at airport)
 __cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut from the same cloth__ _idiom_ To be very similar.  
+__cut from whole cloth__ _idiom_ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being "cut out of whole cloth," when in reality, they were pieced together from different cuts.  
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
 __cut me a little slack__  
 __cut ties with (someone)__ _idiom_ :two::hammer:  
@@ -3548,7 +3550,7 @@ __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duff
 __duffle bag__ :camera:  
 __dug__ _n_  
 __dugout__ :two::hammer:  
-__dulcet icing__  
+__dulcet__ _adj_ :two::hammer: _Dulcet icing._  
 __dulcimers__ _n_  
 __dull__ _adj_ :two::hammer: _Never a dull moment._  
 __dullard__  
@@ -3605,7 +3607,7 @@ __earlier__ _adv_ :three:
 __earlocks__ _n_  
 __early__ _I always get off the bus a stop early on the way to work._  
 __early-onset__ _Early-onset Alzheimer's disease._  
-__earmark__ _v_ :seven::hammer: (earmarked)  
+__earmark__ _v_ :eight::hammer: (earmarked)  
 __earmuffs__  
 __earnest__ _adj_ :five::hammer:  
 __earnestly__  
@@ -3806,6 +3808,8 @@ __entice__ _v_ :two::hammer: (enticing)
 __entitle__ _v_ :four::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you're no longer entitled to on the NHS._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ :two::hammer: :es: séquito  
+__entrance<sup>1</sup>__ _n_  
+__entrance<sup>2</sup>__ _v_  
 __entrant__ :astonished:  
 __entreat__ _v_ _Syn_ beg, plead  
 __entrench__ _v_ :eight: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
@@ -4624,6 +4628,7 @@ __fudge<sup>3</sup>__ _v_ :three::hammer: _You can’t fudge this thinking._
 __fudging__ _Fudging statistics._  
 __fulcrum__ :two::hammer:  
 __fulfilling__  
+__fulgent__ _adj_ Shining brilliantly; radiant.  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent's arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
 __full of beans__ _idiom_ :two: To have a lot of energy.  
 __full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
@@ -4922,6 +4927,7 @@ __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or lenient
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go through the roof__  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
+__go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to the dogs__  
 __go to the wire__  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
@@ -6031,6 +6037,7 @@ __inset__ :two::hammer:
 __insidious__  
 __insipid__  
 __insofar__ _adv_ :two: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
+__insolent__ _adj_  
 __insolvency__  
 __insomniac__ _n_  
 __instability__ :two::hammer::pencil2:  
@@ -6417,7 +6424,7 @@ __kooky__ _adj_ :two: Crazy, mentally unbalanced.
 __Kool-Aid__  
 __Kosher salt__  
 __kosher__ _A kosher supermarket._  
-__kowtow__ _v_ :two::astonished: (kowtowing) To be too eager to obey or be polite to someone in authority.  
+__kowtow__ _v_ :three::astonished: (kowtowing):astonished: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ ("to knock") with the noun _tou_ ("head").  __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
 __kroop__  
@@ -8126,7 +8133,7 @@ __part-time<sup>2</sup>__ _adv_
 __partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
 __parted hair__ _Diaz wore parted hair._  
 __parted__ _Slightly parted lips._  
-__parterre__ _n_  
+__parterre__ _n_ :two: An ornamental flower garden having the beds and paths arranged to form a pattern.  
 __participatory__ _I wanted to be a participatory father._  
 __particle board__  
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
@@ -8925,7 +8932,8 @@ __pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
 __punch the (time) clock__ _idiom_ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
-__punch__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
+__punch<sup>1</sup>__ _n_ A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base.  
+__punch<sup>2</sup>__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
 __punchline__ _n_ :pencil2:  
 __punctuate__  
@@ -9112,7 +9120,7 @@ __rainout__
 __raise eyebrows__  
 __raked over the coals__  
 __raking__ _v_  
-__rakish__ :two::hammer:  
+__rakish__ _adj_ :three::hammer:  
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
 __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings." (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahoma State rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
@@ -10803,7 +10811,7 @@ __spars__ _n_
 __spat__ _n_ :six::hammer: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ _n_ :seven: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spatter__ _n_  
-__spay__ _v_ :two::hammer: (spayed)  
+__spay__ _v_ :three::hammer: (spayed)  
 __spd__  
 __speak out__ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
@@ -11642,7 +11650,7 @@ __tedious__
 __tee up__ _v_  
 __teeing up__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
-__teeter__ _v_ :eight: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
+__teeter__ _v_ :nine: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
 __Teflon__ _n_ :mega:  
@@ -12127,7 +12135,7 @@ __trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + pe
 __trifle__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trifles__ _n_  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
-__trill__ _n_ :three::hammer: _I felt a trill of excitement._  
+__trill__ _n_ :four::hammer: (trills) _I felt a trill of excitement._  
 __trilling__  
 __trilobite__ _n_ :two::mega::hammer:  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
@@ -12532,7 +12540,7 @@ __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘ven
 __vantage point__ _n_  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _I'm with a beer smoking on my vape._  
-__vapid__ _adj_ :five: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
+__vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
 __VAR__ _abbr_ Video Assistant Referee.  
 __variety store__  
@@ -12686,7 +12694,7 @@ __waive__ _v_ :five::hammer: (waived)
 __waiver__  
 __waivers__ _n_  
 __wake__ _n_ :four::hammer: _At wakes._ _Irish wake._  
-__wake-up call__  
+__wake-up call__ :two::hammer:  
 __walk in sunshine__  
 __walk on air__ To be very happy.  
 __walk on eggshells__  
@@ -13012,7 +13020,7 @@ __withhold__
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
 __without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
-__wizened__ _adj_ :three: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
+__wizened__ _adj_ :four: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
