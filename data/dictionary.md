@@ -48,7 +48,7 @@ __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that
 __abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
-__abjection__ _n_   
+__abjection__ _n_  
 __abjure__ _v_  
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
 __abounds__  
@@ -882,7 +882,7 @@ __behold__ _v_ :three::hammer: _The wedding ceremony was a joy to behold._
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don't like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :four::hammer:  
-__Beige Book__ _n_ The informal name for the Federal Open Market Committee's (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.    
+__Beige Book__ _n_ The informal name for the Federal Open Market Committee's (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _"a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners' sugar.  
 __being at odds__ _They are at odds over the details of legislation._  
 __being let go__ _His mother was let go at the plant in 2006._  
@@ -1020,7 +1020,7 @@ __biomass__
 __biopic__  
 __bipartisan__  
 __birch__ _n_ (birches) _Birch and oak in stock._  
-__bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.   
+__bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.  
 __birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
 __birds of the same feather__  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
@@ -2579,7 +2579,7 @@ __countervail__ _Countervailing evidence._
 __countless__  
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
-__coup de grâce__ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
+__coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
 __coup__ :mute:[cou~~p~~]  
 __coupes__ _Coupes, two door models usually sportier than sedans._  
 __coupon__ _n_  
@@ -6436,7 +6436,7 @@ __kooky__ _adj_ :two: Crazy, mentally unbalanced.
 __Kool-Aid__  
 __Kosher salt__  
 __kosher__ _A kosher supermarket._  
-__kowtow__ _v_ :three::astonished: (kowtowing):astonished: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ ("to knock") with the noun _tou_ ("head").  __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
+__kowtow__ _v_ :three::astonished: (kowtowing):astonished: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ ("to knock") with the noun _tou_ ("head"). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
 __kroop__  
@@ -7821,7 +7821,7 @@ __On top of that,__
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
-__onboarding__ _n_ The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer.    
+__onboarding__ _n_ The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer.  
 __once in a blue moom__ Very rarely.  
 __once in a while__  
 __once-over__  
@@ -10514,7 +10514,7 @@ __sleety__
 __slender__  
 __sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
 __sleuth__ _v informal_ :three: (sleuthing) To act as a detective.  
-__slew__ _n_ _informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
+__slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ :dart:  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
@@ -10526,7 +10526,7 @@ __slide<sup>2</sup>__ _v_
 __slider__ _n_ :four::hammer: _What's up with someone's slider?_  
 __sliders__ _n_ (food)  
 __slight<sup>1</sup>__ _adj_  
-__slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._  __3__ To do negligently or thoughtlessly; scant. _Don't slight your work._  
+__slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._ __3__ To do negligently or thoughtlessly; scant. _Don't slight your work._  
 __slight<sup>3</sup>__ _n_ :eight: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slightly-built__ _The slightly-built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
@@ -12000,7 +12000,7 @@ __tooth decay__ (cavity, cavities) :es: caries
 __tooth-gnashing__  
 __tooth-wrecking__  
 __toothless__ _Some consider most of those laws toothless._  
-__toothsome__ _adj_ :two: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious
+__toothsome__ _adj_ :two: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
 __tootsie__ _n_  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top bill__ _I'm not my usual top billing._  
