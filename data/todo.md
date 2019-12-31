@@ -1,26 +1,4 @@
 
-__wayward__ _adj_  
-__gaunt__ _adj_  
-__haggard__ _adj_  
-__stingy__ _adj_ _Syn_ parsimonious, penurious  
-__audacious__ _adj_  
-
-__God's green earth__ _idiom_ The entire planet; anywhere and everywhere.  
-__ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
-__God's honest truth__ _idiom_ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
-__bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth's atmosphere. _Syn_ fireball :astonished:  
-__whipsaw__ _v_  
-__go at (something)__ _idiom_ To engage in or undertake something with great energy, enthusiasm, or vigor.  
-__factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
-__go stir-crazy__ _idiom_ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. "Stir" in this usage is a slang word for prison.  
-__execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
-__go the way of the dinosaur(s)__ _idiom_ To become extinct, obsolete, old-fashioned, or no longer in common use.  
-
-__oval<sup>1</sup>__ _adj_ Having the shape of an ellipse or ellipsoid.  
-__oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
-__wordnesia__ _n_ When a common word looks strange and ungainly.  
-__diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
-__diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
 __flank__ _n_  The side of an animal or a person between the ribs and hip. :es: costado  
 

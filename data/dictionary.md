@@ -570,6 +570,7 @@ __Au.D__ Doctor of audiology.
 __auburn__  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
+__audacious__ _adj_  
 __audacity__  
 __audible__ _v_  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
@@ -1189,6 +1190,7 @@ __boilers__
 __boisterous__ :two::hammer:  
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bole__ _The arrow slammed solidly into the bole of a tree._  
+__bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth's atmosphere. _Syn_ fireball :astonished:  
 __bolo tie__ _n_  
 __bologna__  
 __boloney__ Baloney.  
@@ -3283,6 +3285,8 @@ __ditty bags__ _n_
 __diva__  
 __diversion__ _n_  
 __diverted__ _diverted flights_  
+__diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
+__diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __dives__ _v_  
 __divest__ _v_ :three::hammer: (divested)  
 __divestiture__ :two::hammer:  
@@ -3914,6 +3918,7 @@ __excruciating__ _adj_ :two: Very painful.
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __exe__ :mega:  
 __exec__ _n informal_ :four: (execs) An executive. _I'm a retired tech exec._  
+__execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
@@ -3994,6 +3999,7 @@ __facsimile<sup>3</sup>__ _v_
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
 __fact sheet__  
 __faction__ _n_  
+__factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
 __factor in__ _v_ :two::hammer:  
 __factual__  
 __fad__ _n_  
@@ -4911,6 +4917,7 @@ __gnu__ :mute:[~~g~~nu]
 __go a long way__ :dart::three::hammer: _Go a long way toward minimizing damage._  
 __go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
 __go apeshit__  
+__go at (something)__ _idiom_ To engage in or undertake something with great energy, enthusiasm, or vigor.  
 __go awry__ :two::hammer:  
 __go back to square one__ _idiom_ To start from the beginning.  
 __go ballistic__ _idiom_  
@@ -4925,6 +4932,8 @@ __go over the top__
 __go over the wire__  
 __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
+__go stir-crazy__ _idiom_ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. "Stir" in this usage is a slang word for prison.  
+__go the way of the dinosaur(s)__ _idiom_ To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go through the roof__  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
 __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
@@ -4951,6 +4960,8 @@ __goblin__ _n_ :three::hammer: (goblins)
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __God is in the detail(s)__ _idiom_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results.  
+__God's green earth__ _idiom_ The entire planet; anywhere and everywhere.  
+__God's honest truth__ _idiom_ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
 __gofer__ _n_ _slang_  
@@ -5230,7 +5241,7 @@ __hackneyed__ :two::hammer: _The hackneyed metaphor made him smile._
 __hacksaws__ _n_  
 __haemophilia__  
 __haft sin__  
-__haggard<sup>1</sup>__ _adj_ :four: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
+__haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
 __haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
 __haggis__  
 __haggle__ _v_ :two::hammer: (haggling)  
@@ -6087,6 +6098,7 @@ __invoke__
 __IP__ Intelectual property.  
 __irate__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
+__ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
 __irksome__  
@@ -7955,7 +7967,8 @@ __outstripped__ _v_
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "out of." _Straight outta Tahoe._  
 __outtakes__ _n_  
 __outthink__ _v_  
-__oval__ _Ford oval logo._  
+__oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
+__oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
 __over one's head__ _He was over his head._  
 __over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphenated if used before a noun.)  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
@@ -11141,7 +11154,7 @@ __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow 
 __stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __sting__ _n_  
 __stinger__  
-__stingy__ _Be stingy with your money._  
+__stingy__ _adj_ :two::hammer: _Be stingy with your money._ _Syn_ parsimonious, penurious  
 __stink__ _n_ _Slang_ The end of the anal canal of a male or female. _You've got to give up yous stink._  
 __stinker__  
 __stinkers__ _n_  
@@ -12875,6 +12888,7 @@ __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip 
 __whiplash__ _n_ :two: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
 __whippersnapper__  
 __whipping by__ _The summer is whipping by._  
+__whipsaw__ _v_  
 __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
 __whirl__ :mute:[w~~h~~irl]  
 __whirled__ _v_  
@@ -13050,6 +13064,7 @@ __woomb__
 __woozy__ :two::hammer:  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wording__ _n_  
+__wordnesia__ _n_ When a common word looks strange and ungainly.  
 __wordplay__  
 __wordsmith__ _v_ :two::hammer:  
 __work as planned__  
