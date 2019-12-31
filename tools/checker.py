@@ -46,15 +46,18 @@ def valid_use_of_underscores(entry):
     if num_headwords > 1:
         return False
 
+    num_reminder_ribbons = 1 if entry.find('reminder_ribbon') > -1 else 0
+
     if entry.count('___') > 0 or \
-        entry.count('_') % 2 != 0 or \
+        (entry.count('_') - num_reminder_ribbons) % 2 != 0 or \
         entry.count('_:es:') > 0:
         return False
     return True
 
 VALID_TAGS = [ \
     'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
-    'hammer', 'm', 'mega', 'mute', 'nine', 'octocat', 'pencil2', 'seven', 'six']
+    'hammer', 'm', 'mega', 'mute', 'nine', 'octocat', 'pencil2', \
+    'reminder_ribbon','seven', 'six']
 
 def valid_tag(tag):
     """Returns True when tag is an allowed one; False otherwise"""
