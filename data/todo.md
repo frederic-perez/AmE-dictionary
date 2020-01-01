@@ -1,4 +1,13 @@
 
+__poof__ _interj_ Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
+__quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
+__go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
+__a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
+__a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
+__impervious__ _adj_  
+__paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
+__sepsis__ _n_  
+
 __laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
 __flank__ _n_  The side of an animal or a person between the ribs and hip. :es: costado  
 
