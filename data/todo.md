@@ -1,4 +1,13 @@
 
+__by and large__  
+__cutting edge__  
+__fluky__ _adj_  
+__one-off__ _idiom_  
+__larger than life__  
+__tremendous__ _adj_  
+__kindred spirit__ _idiom_  
+__hyperbolic__ _adj_  
+
 __poof__ _interj_ Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
 __go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
