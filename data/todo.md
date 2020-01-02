@@ -1,4 +1,13 @@
 
+__double down__  
+__feral__ _adj_  
+__syndrome__ _n_  
+__then again__ _idiom_ From another standpoint; on the other hand: _I need a vacation. Then again, so do my coworkers._  
+__run for the hills__ _idiom_  
+__come to terms__ _idiom_  
+__flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. __2__ To go crazy; have a mental breakdown.  
+__DMV__ _abbr_ Department of Motor Vehicles.  
+
 __unearth__ _v_  
 __measles__ _n_ :es: sarampión  
 __medic__ _n informal_ A doctor, medical orderly, or medical student.  
