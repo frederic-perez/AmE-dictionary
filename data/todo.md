@@ -1,4 +1,13 @@
 
+__unearth__ _v_  
+__measles__ _n_ :es: sarampión  
+__medic__ _n informal_ A doctor, medical orderly, or medical student.  
+__cohort study__ _n_ A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
+__pathography__ _n_  
+__outdoorsy__ _adj_ _informal_  
+__stump__ _v_  
+__upselling__ _n_ The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
+
 __by and large__  
 __cutting edge__  
 __fluky__ _adj_  
