@@ -1610,7 +1610,7 @@ __buzzword__
 __by all accounts__ _idiom_ :dart::three::hammer: From all the reports [that are available]; according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means,__  
 __by and by__  
-__by and large__ _adv_ :three::hammer: :es: en líneas generales, en general  
+__by and large__ _adv_ :four::hammer: :es: en líneas generales, en general  
 __by any chance__ _idiom_ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __by storm__  
@@ -2249,6 +2249,7 @@ __cogency__
 __cognizant__  
 __cogwheel__  
 __cohesive__ :dart::two::hammer: _A more cohesive layout._  
+__cohort study__ _n_ A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__  
@@ -2304,7 +2305,7 @@ __come of age__
 __come to a stop__ _The train came to a stop at Moscow._  
 __come to grips__  
 __come to her senses__  
-__come to terms__ :two::hammer:  
+__come to terms__ _idiom_ :three::hammer:  
 __come together__ _idiom_ :two::hammer:  
 __comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
 __comeuppance__  
@@ -2829,7 +2830,7 @@ __cutter__ _A Coast Guard cutter._
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin' a rug__  
-__cutting edge__  
+__cutting edge__ :two::hammer:  
 __CVD__ Cardiovascular disease.  
 __cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_  
@@ -3297,6 +3298,7 @@ __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug o
 __divvy up__ _v_  
 __divvy__ _v_  
 __dizzy__  
+__DMV__ _abbr_ Department of Motor Vehicles.  
 __do a runner__ _idiom_ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do it by the numbers__  
 __do math__  
@@ -4125,7 +4127,7 @@ __fender bender__ _idiom_ :three: A little car accident. _Stranded by a fender b
 __fennel__ :two::hammer:  
 __fenny__ _A fenny marsh._  
 __fenugreek__  
-__feral__ _adj_ :six::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
+__feral__ _adj_ :seven::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __Ferberization__  
 __Ferberizing__  
 __fern__ _n_ :three::hammer: (ferns) _Fern garden._ :es: helecho  
@@ -4336,6 +4338,7 @@ __flintily__
 __flintlock__ _n_ :two::hammer: (flintlocks)  
 __flinty__ _Flinty soil._  
 __flip (me) the bird__  
+__flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. __2__ To go crazy; have a mental breakdown.  
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
@@ -4381,6 +4384,7 @@ __fluff__
 __fluffy slippers__ _n_ :camera:  
 __fluffy__  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluky__ _adj_  
 __flummox__ _v_ :four::hammer: (flummoxed)  
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
@@ -7086,7 +7090,7 @@ __meager__ _adj_ :dart::seven: __1__ Deficient in quality or quantity. _The meag
 __meandering__  
 __meannes__ :pencil2:  
 __meant to be__ _idiom_ _It was meant to be made in heaven._  
-__measles__ _n_ :four::pencil2::hammer: :es: _Rubeola_  
+__measles__ _n_ :five::pencil2::hammer: :es: sarampión  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
 __meat and potatoes__  
 __meat at the bone__  
@@ -7098,6 +7102,7 @@ __medallions__ _Taxi medallions._
 __meddling__ _adj_  
 __medevac helicopter__  
 __medevac__ _v_  
+__medic__ _n informal_ A doctor, medical orderly, or medical student.  
 __medical discharge__ _A medical discharge._  
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
@@ -7829,7 +7834,7 @@ __one too many__ _We drank one too many._
 __one-liner__ :dart: A quick joke or quip; a funny observation.  
 __one-note__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
-__one-off<sup>2</sup>__ _n_ _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
+__one-off<sup>2</sup>__ _n_ :two: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-run__ _One-run games._  
 __one-trick pony__ _n_ _idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
@@ -7914,6 +7919,7 @@ __outcroppings__
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
 __outdoor__ _8 pork sausages from British outdoor bred pigs (454g)._  
+__outdoorsy__ _adj_ _informal_  
 __outer space__  
 __outfield__ _(baseball)_  
 __outfight__ _v_ To fight better than someone.  
@@ -8179,6 +8185,7 @@ __patently__ :two::hammer: _Patently absurd._ _This is patently false._
 __pathetic__  
 __pathogenic__  
 __pathogens__ _n_  
+__pathography__ _n_  
 __pathologist__ _n_  
 __pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patinated__ _v_  
@@ -9715,6 +9722,7 @@ __rumor mill__ _Fighting the rummor mill._
 __rumple__ _v_ _His clothes were rumpled._  
 __run amok__ :two::hammer:  
 __run errands__ :two::hammer:  
+__run for the hills__ _idiom_  
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
@@ -11500,6 +11508,7 @@ __synaptogenesis__ _n_
 __syncing__ _Syncing up over coffee._  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
 __syndicated__ :two::hammer:  
+__syndrome__ _n_  
 __synesthesia__ _n_  
 __syphilis__ _n_ :pencil2:  
 __syringe__  
@@ -11757,8 +11766,7 @@ __the skinny__ Confidential information on a particular person or topic. _Net ma
 __the sky is the limit__ :two::hammer:  
 __the writing on the wall__  
 __thecracy__  
-__then again__ _adv_ :five: From another point of view; on the other hand; on second thought. An opposite possibility. _I think it'll arrive tomorrow; then again, it may not._  
-__Then again,__  
+__then again__ _idiom_ :eight: From another point of view; on the other hand; on second thought. An opposite possibility. _I think it'll arrive tomorrow; then again, it may not._ _I need a vacation. Then again, so do my coworkers._  
 __theocracy__  
 __theosophy__  
 __there is no denying__  
@@ -12377,7 +12385,7 @@ __undue__
 __undulating__ _v_  
 __undulation__ _n_  
 __unduly__ _adv_ :eight::hammer:  
-__unearth__ _v_ :three::hammer: (unearthed)  
+__unearth__ _v_ :four::hammer: (unearthed)  
 __uneasy calm__ _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unequivocally__  
@@ -12481,7 +12489,7 @@ __upsale__ _n_ (?)
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upscale<sup>2</sup>__ _v_  
 __upscale<sup>3</sup>__ _n_  
-__upsell__ _v_ (?)  
+__upselling__ _n_ :two: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
 __upshot__ _n_ :six::hammer:  
