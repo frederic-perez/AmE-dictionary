@@ -1,4 +1,13 @@
 
+__simper__ _v_ Smile affectedly or derisively.  
+__ingrain__ _v_ To fix deeply or indelibly, as in the mind.  
+__rub off on (someone)__ To have one's characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter's been very unruly lately. I think that new kid is rubbing off on him._  
+__damn the torpedoes__ _idiom_ To press on with a task or current course of action regardless of apparent risks or dangers.  
+__CVS__ _abbr_ Computer Vision Syndrome.  
+__tap into__ _phr v_  
+__eyestrain__ _n_ A tiredness of the eyes caused by prolonged close work by a person with an uncorrected vision problem.  
+__dark days__ _idiom_ Times of extreme misfortune or difficult.  
+
 __doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
 __lightbulb moment__ _n_ _informal_ A moment of sudden inspiration, revelation, or recognition.  
 __go ballistic__ _idiom_  
