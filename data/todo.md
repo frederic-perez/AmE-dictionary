@@ -1,4 +1,15 @@
 
+__sponsor__ _n_ __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
+__field trip__ _n_  
+__NA__ _abbr_ __1__ Narcotics Anonymous __2__ North America __3__ (also n/a) Not applicable.  
+__pry__ _v_  
+__defensive__ _adj_  
+__squander<sup>1</sup>__ _v_  
+__squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
+__sort out__ _v_  
+__buckle down__ _idiom_ To apply oneself with determination.  
+__game plan__ _n_  
+
 __unyielding__ _adj_  
 __surly__ _adj_  
 __nicety__ _n_  
