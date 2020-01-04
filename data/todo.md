@@ -1,4 +1,13 @@
 
+__doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
+__lightbulb moment__ _n_ _informal_ A moment of sudden inspiration, revelation, or recognition.  
+__go ballistic__ _idiom_  
+__prevalence__ _n_ The total number of cases of a disease in a given population at a specific time.  
+__go (one's) (own) way__ _idiom_ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
+__finagle__ _v_ To obtain or achieve by indirect, usually deceitful methods.  
+__the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
+__jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
+
 __larger than life__  
 __tremendous__ _adj_  
 __kindred spirit__ _idiom_  
