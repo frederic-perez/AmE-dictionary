@@ -1,4 +1,13 @@
 
+__unyielding__ _adj_  
+__surly__ _adj_  
+__nicety__ _n_  
+__nuance__  
+__cozen__ _v_  
+__chicanery__ _n_  
+__dandy__ _adj_  
+__defile__ _v_  
+
 __simper__ _v_ Smile affectedly or derisively.  
 __ingrain__ _v_ To fix deeply or indelibly, as in the mind.  
 __rub off on (someone)__ To have one's characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter's been very unruly lately. I think that new kid is rubbing off on him._  
