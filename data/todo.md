@@ -1,4 +1,14 @@
 
+__wreck<sup>1</sup>__ _n_  
+__wreck<sup>2</sup>__ _v_  
+__spot on__ _idiom_  
+__contractor__ _n_  
+__turn-key__ A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
+__dealbreaker__ _n_  
+__make a face__ _idiom_ To distort the features of the face; grimace.  
+__flawless__ _adj_  
+__safeword__ _n_  
+
 __date with destiny__ _idiom_ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
 __day or night__ _idiom_ At any point in time; 24 hours a day.  
 __dead asleep__ _idiom_ In a deep, immovable sleep.  
