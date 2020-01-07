@@ -92,6 +92,7 @@ __acerbic__ _adj_ :three::hammer:
 __acetate__ _n_  
 __Achilles heel__ A weakness or vulnerable point.  
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
+__achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia (from the Greek 'nanos', meaning 'dwarf'), _slang_ lollypopguildophobia (after the trade union of munchkins in the Wizard of Oz)  
 __acid test__ _idiom_ Something that shows the true worth or value of something or someone.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
@@ -2464,7 +2465,7 @@ __contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The conti
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ :two::hammer: _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
-__contractor__ _n_  
+__contractor__ _n_ :hammer::two:  
 __contranym__ _n_ A word that has opposite or nearly opposite meanings, as _cleave_, meaning "to adhere closely" and "to part or split."  
 __contraption__  
 __contrarian__  
@@ -2897,6 +2898,7 @@ __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
+__date with destiny__ _idiom_ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
 __date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
 __dateable__ _adj_ That can be given a date.  
 __dated__ _adj_ Old-fashioned; out-of-date.  
@@ -2909,6 +2911,7 @@ __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stoc
 __day and age__  
 __day in and day out__  
 __day job__  
+__day or night__ _idiom_ At any point in time; 24 hours a day.  
 __Day Zero__  
 __daybeds__ _n_  
 __dayglow__  
@@ -2917,10 +2920,12 @@ __dazzling__ _adj_ :nine: (dazzlingly) __1__ Extremely bright, especially so as 
 __de-escalate__ _v_  
 __DEA__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
+__dead asleep__ _idiom_ In a deep, immovable sleep.  
 __dead bolt__ _n_  
 __dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead in the water__ _idiom_ Without any chance for success.  
+__dead last__ _idiom_ In last place, especially by a wide margin, as for a race or other competition.  
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __dead set against something__ _idiom_ To be completely against something.  
@@ -2929,7 +2934,7 @@ __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._  
-__dealbreaker__ _idiom_ :three: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__dealbreaker__ _idiom_ :four: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :dart::three::hammer:  
@@ -4168,6 +4173,7 @@ __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with reg
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__ _n_ :two::hammer:  
+__field trip__ _n_  
 __field__ _v_ :nine: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
 __fierce__ :two::hammer:  
@@ -4308,7 +4314,7 @@ __flatware coins__
 __flatware__ _n_  
 __flaunt__ _v_  
 __flaunting__  
-__flawless__ _It is not flawless._  
+__flawless__ _adj_ :hammer::two: _It is not flawless._  
 __flaxen__ _Flaxen cord._  
 __flay__ _v_ :three::hammer: (flayed)  
 __fleck__ _n_  
@@ -5237,6 +5243,7 @@ __gyrate__ _v_ :two::hammer:
 __gyroscopic__ :mega: _Gyroscopic effect._  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __ha!__ :two::hammer:  
+__habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ :astonished:  
 __habituate__ _v_  
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
@@ -5700,6 +5707,7 @@ __hopped cars__
 __hopscotch__  
 __horn buttons__ :camera:  
 __Horn of Africa__ :camera: Somalia.  
+__horologist__ _n_ Someone who makes or repairs watches.  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word "horse" is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
@@ -6697,6 +6705,7 @@ __lightermen__
 __lighthearted__  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
+__like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
 __like hell__  
 __like two peas in a pod__ _idiom_ Very similar.  
 __likelier__  
@@ -6943,6 +6952,7 @@ __major__ _v_
 __major-domo__ _n_ (majordomo)  
 __majoring__  
 __make (one's) bones__ _idiom_  
+__make a face__ _idiom_ To distort the features of the face; grimace.  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_  
 __make perfect sense__ _It makes perfect sense._  
@@ -7475,7 +7485,7 @@ __mystique__ :pencil2:
 __mythos__ :two::hammer:  
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
-__NA__ Narcotics Anonymous. _Go to an NA meeting._  
+__NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __nab__ _v_ :five::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nadir__  
 __naevus__ _n_ (nevus)  
@@ -9772,6 +9782,7 @@ __safeguard__
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
+__safeword__ _n_  
 __saffron__ _n_ :three::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
@@ -10910,13 +10921,13 @@ __spoilage__ :dart:
 __spoilers__ (airplane) :camera:  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __sponge bulllets__  
-__sponsor__ _Sponsorong countries._  
+__sponsor__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
 __spool tables__  
 __spool__ _n_  
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__  
-__spot on__ (spot-on) British slang for "well done", "perfect" or "right on."  
+__spot on__ _idiom_ :two: (spot-on) British slang for "well done", "perfect" or "right on."  
 __spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spotless__  
 __spotlight<sup>1</sup>__ _n_  
@@ -12253,6 +12264,7 @@ __turn around__ To change something unsuccessful into something successful.
 __turn away__ To refuse to let someone come into a place.  
 __turn on__ _phr v_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
+__turn-key__ A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
 __turnaround__ _n_  
 __turndown__ _n_ The act of refusing an offer.  
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
@@ -13114,7 +13126,8 @@ __wreaked havoc__
 __wreath-lying__ _?_ :pencil2:  
 __wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
 __wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath]_A wreathed sword._  
-__wreck__ _v_ :three::mute:[~~w~~reck]:hammer:  
+__wreck<sup>1</sup>__ _n_  
+__wreck<sup>2</sup>__ _v_ :four::mute:[~~w~~reck]:hammer:  
 __wrecking ball__  
 __wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  

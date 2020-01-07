@@ -1,26 +1,4 @@
 
-__wreck<sup>1</sup>__ _n_  
-__wreck<sup>2</sup>__ _v_  
-__spot on__ _idiom_  
-__contractor__ _n_  
-__turn-key__ A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
-__dealbreaker__ _n_  
-__make a face__ _idiom_ To distort the features of the face; grimace.  
-__flawless__ _adj_  
-__safeword__ _n_  
-
-__date with destiny__ _idiom_ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
-__day or night__ _idiom_ At any point in time; 24 hours a day.  
-__dead asleep__ _idiom_ In a deep, immovable sleep.  
-__dead last__ _idiom_ In last place, especially by a wide margin, as for a race or other competition.  
-__achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia (from the Greek 'nanos', meaning 'dwarf'), _slang_ lollypopguildophobia (after the trade union of munchkins in the Wizard of Oz)  
-__habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
-__like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
-__horologist__ _n_ Someone who makes or repairs watches.  
-
-__sponsor__ _n_ __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
-__field trip__ _n_  
-__NA__ _abbr_ __1__ Narcotics Anonymous __2__ North America __3__ (also n/a) Not applicable.  
 __pry__ _v_  
 __defensive__ _adj_  
 __squander<sup>1</sup>__ _v_  
