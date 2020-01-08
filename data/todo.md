@@ -1,26 +1,4 @@
 
-__pry__ _v_  
-__defensive__ _adj_  
-__squander<sup>1</sup>__ _v_  
-__squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
-__sort out__ _v_  
-__buckle down__ _idiom_ To apply oneself with determination.  
-__game plan__ _n_  
-
-__unyielding__ _adj_  
-__surly__ _adj_  
-__nicety__ _n_  
-__nuance__  
-__cozen__ _v_  
-__chicanery__ _n_  
-__dandy__ _adj_  
-__defile__ _v_  
-
-__simper__ _v_ Smile affectedly or derisively.  
-__ingrain__ _v_ To fix deeply or indelibly, as in the mind.  
-__rub off on (someone)__ To have one's characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter's been very unruly lately. I think that new kid is rubbing off on him._  
-__damn the torpedoes__ _idiom_ To press on with a task or current course of action regardless of apparent risks or dangers.  
-__CVS__ _abbr_ Computer Vision Syndrome.  
 __tap into__ _phr v_  
 __eyestrain__ _n_ A tiredness of the eyes caused by prolonged close work by a person with an uncorrected vision problem.  
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  

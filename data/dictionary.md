@@ -1456,7 +1456,7 @@ __buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: 
 __buckaroo__ _n_ :two: A cowboy – used especially when talking to children. The iconic figure of the cowboy has gone by many other names in American English, including buckaroo, cowhand, cowman, cowpoke, cowpuncher, vaquero, and waddy, and two of these words, buckaroo and vaquero, come from Spanish. In California, however, the Spanish word vaquero was Anglicized to buckaroo.  
 __bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
 __buckeyes__  
-__buckle down (to something)__ _v informal_ :six::dart: To apply oneself with determination. To start to do something seriously: _I'd better buckle down to those reports._  
+__buckle down (to something)__ _v informal_ :seven::dart: To apply oneself with determination. To start to do something seriously: _I'd better buckle down to those reports._  
 __buckle up__ :two::hammer: _Bucking up a seat belt._  
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::hammer:  
@@ -1993,7 +1993,7 @@ __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:
 __chew the fat__ _idiom_ To chat or gossip.  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
-__chicanery__ The use of clever plans or actions to deceive people.  
+__chicanery__ _n_ :two: The use of clever plans or actions to deceive people.  
 __chicken > game of chicken__  
 __chicken coop__ :two::hammer:  
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
@@ -2603,7 +2603,7 @@ __cowl__ :two::hammer: _Their cowls were filthy rags._
 __cowled__ _v_  
 __cowpoke__ _n_ _old-fashioned_ A cowboy or cowgirl.  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
-__cozened__ _v_  
+__cozen__ _v_ :two::hammer: (cozened)  
 __cozy__  
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
 __crab lice__ _n_  
@@ -2833,6 +2833,7 @@ __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat co
 __cuttin' a rug__  
 __cutting edge__ :two::hammer:  
 __CVD__ Cardiovascular disease.  
+__CVS__ _abbr_ Computer Vision Syndrome.  
 __cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_  
 __cynical__ _adj_ :two::pencil2::hammer:  
@@ -2865,6 +2866,7 @@ __dallying__
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
 __dammit__  
+__damn the torpedoes__ _idiom_ To press on with a task or current course of action regardless of apparent risks or dangers.  
 __damn__ :mute:[dam~~n~~]  
 __damnation__  
 __damning__ :three::astonished::hammer: _A damning independent inquiry._ _A damning veredict._  
@@ -2878,7 +2880,7 @@ __dandelion thistle__
 __dandelion__ _n_ :five: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
-__dandy__  
+__dandy__ _adj_ :two::hammer:  
 __dang__ _interj_ :two: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
@@ -2994,7 +2996,7 @@ __defect__ _v_ :seven: (defected) To desert one's country, cause, allegiance, et
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
-__defensive__ _You seem defensive now._  
+__defensive__ _adj_ :two::hammer: _You seem defensive now._  
 __defer__ _v_ :five::hammer:  
 __deference__ _n_ :four::hammer:  
 __deferential__  
@@ -3004,7 +3006,8 @@ __deferral__
 __deferred__ _v_ :two::hammer:  
 __defiance__  
 __defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
-__defile__ _n_ :three::hammer:  
+__defile<sup>1</sup>__ _n_ :three::hammer:  
+__defile<sup>2</sup>__ _v_  
 __definitely__  
 __deflated__ _v_  
 __deflation__ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
@@ -4716,7 +4719,7 @@ __galoshes__ _n_
 __galvanize__ _v_ :six: (galvanized) To startle into sudden activity; stimulate.  
 __gambit__  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
-__game plan__ _n_ :five::hammer: _My game plan is "failure is not an option."_  
+__game plan__ _n_ :six::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
 __game-changing__  
 __gamely__  
@@ -6027,6 +6030,7 @@ __infomercial__ _n_
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
+__ingrain__ _v_ To fix deeply or indelibly, as in the mind.  
 __ingrained__ _adj_ :four::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ An ungrateful person.  
 __ingratiate__ _v_ :three::hammer:  
@@ -7591,6 +7595,7 @@ __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a ce
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
 __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::hammer:  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
+__nicety__ _n_  
 __niche__ _n_ :three::hammer:  
 __nickel__ _n_ _A nickel mine._  
 __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
@@ -7684,7 +7689,7 @@ __now (that) you mention it__ _idiom_ An expression used when one remembers or r
 __nowcasting__ :two::hammer: _Nowcasting system._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
-__nuance<sup>1</sup>__ _n_ :dart::three: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
+__nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _n_ :two::hammer: _A punched nub._  
 __nubby__ _adj_ _Nubby sole design._  
@@ -8909,7 +8914,7 @@ __prude__ _n_ :three::hammer:
 __prudent__ _adj_ :two::hammer:  
 __prune-o__ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
-__pry__ _v_ :nine: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
+__pry__ _v_ :nine::m: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
 __psalm__ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseudo__ :mute:[~~p~~seudo]  
 __pseudonym__ :mute:[~~p~~seudonym]  
@@ -9698,6 +9703,7 @@ __rowhouse__ _n_
 __royalties__  
 __RSVP__ _v_ _Guests must RSVP to foo@bar.baz by June 19._  
 __rub elbows__ _v_  
+__rub off on (someone)__ To have one's characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter's been very unruly lately. I think that new kid is rubbing off on him._  
 __rub<sup>1</sup>__ _n_ :two::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
 __rub<sup>2</sup>__ _v_  
 __rubbings__ _n_  
@@ -10409,7 +10415,7 @@ __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being he
 __Simon Says__ _n_ :two::hammer:  
 __simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
-__simper<sup>2</sup>__ _v_ __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
+__simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
@@ -10800,7 +10806,7 @@ __sorely__ _adv_ :three::hammer:
 __sorghum__  
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
-__sort out__ _v_  
+__sort out__ _v_ :two::hammer:  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sot__ :two::hammer: _A surly sot._  
@@ -10977,7 +10983,8 @@ __squad__ _n_ :four::hammer: _The Olympics squad._
 __squalid__ _adj_ :four::pencil2::hammer: _Squalid home._  
 __squall__ :two::hammer:  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
-__squander__  
+__squander<sup>1</sup>__ _v_ :two::hammer:  
+__squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
 __square deal__  
 __square dsncing__  
 __squarely__  
@@ -11430,7 +11437,7 @@ __surfeit__ _n_
 __surge<sup>1</sup>__ _v_ :three::hammer:  
 __surge<sup>2</sup>__ _n_  
 __surliness__  
-__surly__ _adj_ :five: Unfriendly and rude. _A waiter with a surly attitude._  
+__surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__ _v_ :three::hammer: (surmised)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surname__ :two::mega::hammer:  
@@ -12468,7 +12475,7 @@ __unwilling__ _adj_ :two::hammer: _Unwilling medical director._
 __unwind__ _v_  
 __unwittingly__ :two::hammer:  
 __unyield__ _v_  
-__unyielding__ :two::hammer:  
+__unyielding__ _adj_ :three::hammer:  
 __up and running__  
 __up and under__ A basketball move.  
 __up for grabs__ _idiom_ :two: Available for anyone.  
