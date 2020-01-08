@@ -5389,7 +5389,7 @@ __haul > long haul__ _We are ready to go long haul._
 __haul<sup>1</sup>__ _n_ :five::hammer: _A record haul of assets seized by Scotland Yard._ _It's a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_ :two::hammer: (or haulier)  
-__haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: a haunch of venison. _Haunches of antelope._  
+__haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: _a haunch of venison._ _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
@@ -5611,7 +5611,7 @@ __hoagie__
 __hoard__ _v_  
 __hoarsely__  
 __hoary__ :two::hammer:  
-__hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._ _He hobbled on a sore ankle._  
+__hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. _He hobbled on a sore ankle._ __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._  
 __hobble<sup>2</sup>__ _n_  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
