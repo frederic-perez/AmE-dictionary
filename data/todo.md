@@ -1,27 +1,4 @@
 
-__tap into__ _phr v_  
-__eyestrain__ _n_ A tiredness of the eyes caused by prolonged close work by a person with an uncorrected vision problem.  
-__dark days__ _idiom_ Times of extreme misfortune or difficult.  
-
-__doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
-__lightbulb moment__ _n_ _informal_ A moment of sudden inspiration, revelation, or recognition.  
-__go ballistic__ _idiom_  
-__prevalence__ _n_ The total number of cases of a disease in a given population at a specific time.  
-__go (one's) (own) way__ _idiom_ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
-__finagle__ _v_ To obtain or achieve by indirect, usually deceitful methods.  
-__the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
-__jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
-
-__larger than life__  
-__tremendous__ _adj_  
-__kindred spirit__ _idiom_  
-__hyperbolic__ _adj_  
-
-__poof__ _interj_ Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
-__quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
-__go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
-__a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
-__a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __impervious__ _adj_  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __sepsis__ _n_  

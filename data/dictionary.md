@@ -21,6 +21,8 @@ __a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A 
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
+__a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
+__a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
@@ -2890,6 +2892,7 @@ __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled
 __dare__  
 __daredevil__ :two::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
+__dark days__ _idiom_ Times of extreme misfortune or difficult.  
 __dark horse__ _n_ _idiom_ :three::hammer:  
 __darn__ :two::hammer: _That's pretty darn good._  
 __darned__  
@@ -3371,7 +3374,7 @@ __doorknob hanger__
 __doorman building__ _n_  
 __doormat__  
 __doorpost__  
-__doozy__ _adj informal_ :three: Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
+__doozy__ _adj informal_ :four: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
 __dopamine__ _n_ :mega:  
 __dope__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
@@ -3985,6 +3988,7 @@ __eyedrop__ _A natural lubricating eyedrop._
 __eyeglasses__ _n_  
 __eyeshades__  
 __eyesight__ _n_ :es: vista  
+__eyestrain__ _n_ A tiredness of the eyes caused by prolonged close work by a person with an uncorrected vision problem.  
 __eyewash__ _Cuddyer explained the balance between effort and eyewash._  
 __eyewear__  
 __F-bomb__  
@@ -4211,6 +4215,7 @@ __fillip__ :two::hammer:
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film maker__ _n_ ?  
 __filthy__ Very dirty.  
+__finagle__ _v_ To obtain or achieve by indirect, usually deceitful methods.  
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
@@ -4928,13 +4933,14 @@ __gnat__ _n_ :three::hammer: (insect?)
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __gnome__ :mute:[~~g~~nome]  
 __gnu__ :mute:[~~g~~nu]  
+__go (one's) (own) way__ _idiom_ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
 __go a long way__ :dart::three::hammer: _Go a long way toward minimizing damage._  
 __go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
 __go apeshit__  
 __go at (something)__ _idiom_ To engage in or undertake something with great energy, enthusiasm, or vigor.  
 __go awry__ :two::hammer:  
 __go back to square one__ _idiom_ To start from the beginning.  
-__go ballistic__ _idiom_  
+__go ballistic__ _idiom_ :two::hammer:  
 __go dutch__  
 __go figure__ _idiom_ Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It's a terrible movie and it made $200 million. Go figure!_  
 __go for it!__  
@@ -4942,6 +4948,7 @@ __go great lenghts__
 __go native__ _You going native on me, Supercop?_  
 __go numb__ :two::hammer:  
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
+__go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
 __go over the top__  
 __go over the wire__  
 __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
@@ -5818,7 +5825,7 @@ __hygroscopic__
 __hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
-__hyperbolic__ _adj_ :three: Exaggerated.  
+__hyperbolic__ _adj_ :four: Exaggerated.  
 __hyperopia__ _n_  
 __hypertensive__ _To be hypertensive._  
 __hypocrisy__  
@@ -6189,6 +6196,7 @@ __Jehova's Witness__
 __jejune__  
 __jelly doughnuts__  
 __jelly glass__  
+__jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
 __jeremiad__  
 __jerk around__  
 __jerk__ _n_ _slang_ Mean or unlikeable person.  
@@ -6375,7 +6383,7 @@ __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introdu
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
-__kindred spirit__ :six::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
+__kindred spirit__ _idiom_ :seven::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :two::hammer:  
 __kine__ _n_  
@@ -6525,7 +6533,7 @@ __lapse<sup>2</sup>__ _n_
 __larceny__ _n_ :six: Theft of personal property. :es: hurto  
 __larder__ _n_ :two::hammer:  
 __largely__  
-__larger-than-life__ _fig_ :four: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
+__larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lark__ :two::hammer:  
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
@@ -6703,7 +6711,7 @@ __liftgate__
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ :mute:[li~~gh~~t]  
 __light-headed__ _I feel light-headed from lack of sleep._  
-__lightbulb moment__  
+__lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
 __lighthearted__  
@@ -8657,6 +8665,7 @@ __pony__ _v_
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
 __pooch__ _n_ _slang_ :three: A dog.  
+__poof__ _interj_ Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
 __poor man__  
@@ -8800,6 +8809,7 @@ __pretense__
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __prevails__ _v_  
+__prevalence__ _n_ The total number of cases of a disease in a given population at a specific time.  
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -9102,6 +9112,7 @@ __quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Ra
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
 __quitessential__ _adj_  
+__quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
 __quitter__ _Are you calling me a quitter?_  
 __quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__  
@@ -11625,7 +11636,7 @@ __tantalize__ _v_ (tantalizing)
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap dancing__ _idiom_  
-__tap into__ _idiom_ :six: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
+__tap into__ _idiom_ :seven: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
 __tap__ _v_ :six: (tapped: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
@@ -11777,6 +11788,7 @@ __the day's full of spiders__
 __the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
 __the final straw__  
+__the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
 __the haves and the have nots__  
 __the name of the game__  
 __the order of the day__  
@@ -12145,6 +12157,7 @@ __treble<sup>2</sup>__ _v_ :three::dart: To make or become triple.
 __trellis__ _n_ :five::hammer:  
 __trellises__ _From his trellises._  
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
+__tremendous__ _adj_  
 __trench coat__ _n_  
 __trenchant__ _adj_  
 __trend__ _v_  
