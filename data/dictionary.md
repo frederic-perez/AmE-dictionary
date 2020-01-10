@@ -71,6 +71,7 @@ __abundant__
 __abutted__  
 __abutting__ _Bungalows abutting._  
 __abuzz__ :two::hammer:  
+__abysmal failure__ _idiom_ Failure that is total and extreme in measure or implication.  
 __abysmal__  
 __abyss__ _n_ :astonished::mega::six:  
 __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
@@ -1050,6 +1051,8 @@ __blackening__
 __blackface__  
 __blackhead__ _n_ :five::hammer: (blackheads)  
 __blackjack__ :two::hammer:  
+__blacklist<sup>1</sup>__ _n_  
+__blacklist<sup>2</sup>__ _v_  
 __blackout__ _Blackout dates._  
 __blackpool__  
 __blah story__  
@@ -3074,6 +3077,7 @@ __departed__
 __dependable__ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __depolarize__ _v_  
+__deposit__ _n_  
 __deposition__ _n_ :three::hammer:  
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
@@ -3433,6 +3437,7 @@ __downpour__ _n_ :five::hammer: (downpours) _Heavy downpours can cause flash flo
 __downright__ _adv_ :dart::four::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downside__ _n_ :two::hammer: (downsides)  
 __downspout__ _n_  
+__downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_  
 __downturns__ :two::hammer:  
@@ -4294,7 +4299,7 @@ __flaky__
 __flamboyant__ _adj_ :four::hammer:  
 __flameouts__  
 __flaming hair__  
-__flank<sup>1</sup>__ _n_  
+__flank<sup>1</sup>__ _n_ :two: The side of an animal or a person between the ribs and hip. :es: costado  
 __flank<sup>2</sup>__ _v_  
 __flanker__ (soccer position)  
 __flap__ _n_ :three::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._  
@@ -4591,6 +4596,7 @@ __free lunch__
 __free rein__  
 __free ride__ :two::hammer:  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
+__free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
 __freebie__ _n_ :four: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_ :eight::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
@@ -4819,7 +4825,7 @@ __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat 
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 __get a grip__  
 __get a jump__ _Get a jump on things._  
-__get a kick out of (someone or something)__ _idiom_ :two::hammer: _You'll get a kick out of this!_  
+__get a kick out of (someone or something)__ _idiom_ :five::hammer: _You'll get a kick out of this!_  
 __get ahold__  
 __get along with__ _idiom_ To have a good relationship with someone.  
 __get away with__  
@@ -4952,6 +4958,7 @@ __go out with the girls__ _idiom_ To go and socialize somewhere with a group of 
 __go over the top__  
 __go over the wire__  
 __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
+__go soft__ _idiom_ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go stir-crazy__ _idiom_ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. "Stir" in this usage is a slang word for prison.  
 __go the way of the dinosaur(s)__ _idiom_ To become extinct, obsolete, old-fashioned, or no longer in common use.  
@@ -4959,6 +4966,7 @@ __go through the roof__
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
 __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to the dogs__  
+__go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
 __go to the wire__  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-ahead goal__  
@@ -5069,7 +5077,7 @@ __gravesite__
 __gravestone__  
 __graveyard orbit__  
 __gravitas__ _n_ :two::hammer:  
-__gravitate__ _v_ :two::hammer: _He gravitated toward politics._  
+__gravitate__ _v_ :three::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
 __gravy__ _n_ :three::hammer:  
 __graybeards__ _Senate graybeards._  
@@ -5184,7 +5192,8 @@ __guesstimate__ _n informal_ An estimate based on conjecture.
 __guesstimation__ does not exist  
 __guesswork__ _n_  
 __guest claim__ _Guest claim no. 170374._  
-__guest__ :mute:[g~~u~~est]  
+__guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
+__guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
 __guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guide__ :mute:[g~~u~~ide]  
@@ -5901,7 +5910,7 @@ __imperil__ _v_ :five::hammer: (imperiled)
 __imperious__  
 __impermissible__ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :four::hammer:  
+__impervious__ _adj_ :five::hammer:  
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_  
@@ -6526,6 +6535,7 @@ __Laotian__
 __lap pool__  
 __lap<sup>1</sup>__ _n_ _The project's amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
+__laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
 __laped pin__  
 __lapel__ _n_  
 __lapse<sup>1</sup>__ _v_  
@@ -6894,6 +6904,7 @@ __lull<sup>2</sup>__ _v_ :two::hammer:
 __lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
+__luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
 __luminary__ _Hollywood luminaries._  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
@@ -7764,7 +7775,7 @@ __oddsmakers__
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odious__  
 __odometer__ :two::hammer:  
-__OEM__ _abbr_ :two::hammer: _OEMs._  
+__OEM__ _abbr_ :three::hammer: _OEMs._  
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
 __of one's own accord__ Voluntarily.  
@@ -8137,6 +8148,7 @@ __paramount__ _The reliability of the weather station is paramount._
 __paranoid__ _adj_  
 __paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
+__paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __paraprosdokian__  
 __parasailing__  
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
@@ -10118,6 +10130,7 @@ __sentient__ _adj_ :five::hammer:
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __seppuku__ _n_  
+__sepsis__ _n_  
 __sequestered__ _v_  
 __sequestration__ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
@@ -12101,6 +12114,7 @@ __trace elements__ _This elixir packs a nutritional punch with antioxidants, tra
 __track__ _n_ :camera:  
 __tracksuit__ _n_ :two: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
+__tractography__ _n_  
 __tractor trailer__ :two::hammer::camera: (tractor-trailer)  
 __tractor__ _n_  
 __trade paperback__  
@@ -12356,6 +12370,7 @@ __ugh__ :two::hammer:
 __uh__  
 __ukuleles__  
 __ultimately__  
+__ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
 __um__  
 __umpteen__  
