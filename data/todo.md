@@ -1,4 +1,12 @@
 
+__exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
+__sully__ _v_  
+__wilderness__ _n_  
+__meat missile__ _n_ _slang_  
+__doormat__ _n_ _slang_ One who submits meekly to domination or mistreatment by others.  
+__brace__ _v_  
+__glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
+__swizzle stir__ _n_  
 
 __bawling__ _v_ _I was bawling my eyes._  
 __profusely__  
