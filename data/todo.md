@@ -1,4 +1,14 @@
 
+
+__bawling__ _v_ _I was bawling my eyes._  
+__profusely__  
+__surfeit__ _n_ __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
+__welp__ _idiom_ A common alternative to "well" that is used to express disappointment, often in text messaging.  
+__good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
+__in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
+
 __apposition__ _n_   
 __QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __KOL__ _abbr_ Key opinion leader.  
