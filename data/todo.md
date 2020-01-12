@@ -1,5 +1,15 @@
 
 
+__guffaw__ _v_  
+__hook up__  
+__sponsor<sup>1</sup>__ _n_  
+__sponsor<sup>2</sup>__ _v_  
+__have someone's back__  
+__diverse__  
+__chicanery__ _n_  
+__tooth and nail__ _adv_ With every available resource; with unrelenting effort. _She fought tooth and nail._  
+__respite__ _n_  
+
 __sinter__ _v_  
 __fascias__ _The car dashboard fascias._  
 __call on__ _v_  
