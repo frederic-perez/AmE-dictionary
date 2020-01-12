@@ -1,4 +1,14 @@
 
+
+__sinter__ _v_  
+__fascias__ _The car dashboard fascias._  
+__call on__ _v_  
+__trials__ _n_ _They take small trials of the power for testing._  
+__tonnes__ _n pl_  
+__sieve__ _v_  
+__go-to__ _The go-to method for 3D printing._  
+__wealth__ _n_ _They were furnished with a wealth of new information._  
+
 __exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __sully__ _v_  
 __wilderness__ _n_  
