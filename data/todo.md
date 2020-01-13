@@ -1,27 +1,4 @@
 
-
-__guffaw__ _v_  
-__hook up__  
-__sponsor<sup>1</sup>__ _n_  
-__sponsor<sup>2</sup>__ _v_  
-__have someone's back__  
-__diverse__  
-__chicanery__ _n_  
-__tooth and nail__ _adv_ With every available resource; with unrelenting effort. _She fought tooth and nail._  
-__respite__ _n_  
-
-__sinter__ _v_  
-__fascias__ _The car dashboard fascias._  
-__call on__ _v_  
-__trials__ _n_ _They take small trials of the power for testing._  
-__tonnes__ _n pl_  
-__sieve__ _v_  
-__go-to__ _The go-to method for 3D printing._  
-__wealth__ _n_ _They were furnished with a wealth of new information._  
-
-__exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
-__sully__ _v_  
-__wilderness__ _n_  
 __meat missile__ _n_ _slang_  
 __doormat__ _n_ _slang_ One who submits meekly to domination or mistreatment by others.  
 __brace__ _v_  

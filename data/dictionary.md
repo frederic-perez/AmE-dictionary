@@ -1679,6 +1679,7 @@ __call it even__ _idiom_ To acknowledge or consider a situation or exchange as b
 __call of duty__  
 __call of nature__ _idiom_ The need to go to the toilet.  
 __call on someone__ _He called on me._  
+__call on__ _v_  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
 __call out<sup>2</sup>__ _v_ :eight: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call someone names__ _I wouldn't call you names._  
@@ -1998,7 +1999,7 @@ __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:
 __chew the fat__ _idiom_ To chat or gossip.  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
-__chicanery__ _n_ :two: The use of clever plans or actions to deceive people.  
+__chicanery__ _n_ :three: The use of clever plans or actions to deceive people.  
 __chicken > game of chicken__  
 __chicken coop__ :two::hammer:  
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
@@ -3299,6 +3300,7 @@ __dithered__ _v_
 __ditsy__ _Ditsy nanny._  
 __ditty bags__ _n_  
 __diva__  
+__diverse__  
 __diversion__ _n_  
 __diverted__ _diverted flights_  
 __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
@@ -3940,6 +3942,7 @@ __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
+__exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :mute:[ex~~h~~aust] _Exhaust fans._  
@@ -4079,7 +4082,7 @@ __farflung__ _Farflung operations and profits._
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
 __farther__  
 __farthing__  
-__fascia__  
+__fascia__ _n_ :two::hammer:_The car dashboard fascias._  
 __fascinate__ :mute:[fas~~c~~inate]  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ :mega:  
@@ -4973,6 +4976,7 @@ __go-ahead goal__
 __go-for-broke__  
 __go-pills__ _n_  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
+__go-to__ _The go-to method for 3D printing._  
 __goad__ _v_ :seven::hammer: (goaded, goading)  
 __goads__ _n_  
 __goahead__  
@@ -5194,7 +5198,7 @@ __guesswork__ _n_
 __guest claim__ _Guest claim no. 170374._  
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
-__guffaw__ _v_ :seven: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
+__guffaw__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guide__ :mute:[g~~u~~ide]  
 __guidet__ _Two guidettes._  
@@ -5417,6 +5421,7 @@ __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done
 __have hot pants (for someone)__ _idiom_  
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have someone pegged__ _She had me pegged on that, too._  
+__have someone's back__  
 __have your cake and eat it (too)__ _idiom_  
 __have your head in the clouds__ _idiom_ To be separate from reality, to dream.  
 __havoc__  
@@ -5710,6 +5715,7 @@ __hoodlum__ _n_ _slang_ :three: (hoodlums) A criminal or gangster.
 __hoods__ _n_  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
+__hook up__  
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
 __hookup__ _n_  
 __hooky__ _A kid playing hooky._  
@@ -9484,7 +9490,7 @@ __resistance__
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__  
 __respirator__ _n_  
-__respite__ _n_ :six: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
+__respite__ _n_ :seven: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
@@ -10409,7 +10415,8 @@ __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._
 __sideways__ _n_ :two::hammer: _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
 __siege__ _An overnight siege shocked the country._  
-__sieve__ _n_ :six::hammer: _Water leaking from a sieve._  
+__sieve<sup>1</sup>__ _n_ :six::hammer: _Water leaking from a sieve._  
+__sieve<sup>2</sup>__ _v_  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sigh__ _v_ :two::mega::mute:[si~~gh~~]  
 __sight__ :mute:[si~~gh~~t]  
@@ -10455,6 +10462,7 @@ __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved
 __singletree__ _Singletree plow._  
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
+__sinter__ _v_  
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
 __sire<sup>1</sup>__ _n_  
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
@@ -10951,7 +10959,8 @@ __spoilage__ :dart:
 __spoilers__ (airplane) :camera:  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __sponge bulllets__  
-__sponsor__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
+__sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
+__sponsor<sup>2</sup>__ _v_  
 __spool tables__  
 __spool__ _n_  
 __sporadically__  
@@ -11416,7 +11425,7 @@ __sulk<sup>2</sup>__ _v_
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ :two::hammer:  
 __sullenly__  
-__sully__ _v_ :two::hammer:  
+__sully__ _v_ :three::hammer:  
 __sultanate__  
 __sultry__ :two::hammer:  
 __summarily__ _adv_  
@@ -12039,6 +12048,7 @@ __tong__
 __tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue__ :mute:[tong~~u~~e]  
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
+__tonnes__ _n pl_  
 __tonsil__ _n_ _A tonsil infection._  
 __tonsils__  
 __tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
@@ -12048,6 +12058,7 @@ __toodling__
 __toom__  
 __toot__ :two::hammer:  
 __toote__ _v_ _Tooting the horn at their friends._  
+__tooth and nail__ _adv_ With every available resource; with unrelenting effort. _She fought tooth and nail._  
 __tooth decay__ (cavity, cavities) :es: caries  
 __tooth-gnashing__  
 __tooth-wrecking__  
@@ -12184,7 +12195,7 @@ __treys__ :two::hammer:
 __triad__  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __triage<sup>2</sup>__ _v_  
-__trial__ _n_  
+__trial__ _n_ :two::hammer: _They take small trials of the power for testing._  
 __tribal__  
 __Tribeca__  
 __tribulation__ _n_ :nine::hammer: (tribulations)  
@@ -12839,6 +12850,7 @@ __wayposts__
 __wayside__ _n_ :two::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
+__wealth__ _n_ _They were furnished with a wealth of new information._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :four::hammer:  
@@ -13010,7 +13022,7 @@ __wiggle<sup>2</sup>__ _v_
 __wigglers__  
 __wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild goose chase__ _idiom_ A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._  
-__wilderness__  
+__wilderness__ _n_ :two::hammer:  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
 __wilful__  
