@@ -1,27 +1,4 @@
 
-__meat missile__ _n_ _slang_  
-__doormat__ _n_ _slang_ One who submits meekly to domination or mistreatment by others.  
-__brace__ _v_  
-__glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
-__swizzle stir__ _n_  
-
-__bawling__ _v_ _I was bawling my eyes._  
-__profusely__  
-__surfeit__ _n_ __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
-__welp__ _idiom_ A common alternative to "well" that is used to express disappointment, often in text messaging.  
-__good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
-__good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
-__hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
-__in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
-
-__apposition__ _n_   
-__QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
-__KOL__ _abbr_ Key opinion leader.  
-__corridor__ _n_ :es: puente aéreo  
-__decant__ _v_  
-__shed__ _v_  
-
-__earthshine__ _n_ The sunlight reflected from the earth's surface that illuminates part of the moon not directly lighted by the sun.  
 __from a mile away__ _idiom_ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __hombre__ _n_ _informal_ An informal term for a youth or man.  
 __corporate ladder__ _idiom_  

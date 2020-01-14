@@ -414,6 +414,7 @@ __apple of (one's) eye__ _idiom_
 __applesauce__  
 __apportion__ _v_  
 __apportioned__ _v_  
+__apposition__ _n_  
 __appraisal__ _n_ :seven: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
@@ -791,7 +792,7 @@ __batty__
 __bauble__ _n_ :three::hammer: (baubles)  
 __bawdiness__  
 __bawdy__ :two::hammer: _Bawdy humor._  
-__bawl__ _v_  
+__bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._  
 __bay leaves__  
 __bays__ _n_  
 __bazillion__  
@@ -2543,7 +2544,7 @@ __corpus__ _A big corpus of examples._
 __corral__ _v_  
 __corralled__ _v_ :three::hammer: (corralling)  
 __correspondent__ _Our journalists are not experienced war correspondents._  
-__corridor__ _n_ :two::hammer:  
+__corridor__ _n_ :three::hammer: :es: puente aéreo  
 __corrugate__ _v_  
 __corrugated__  
 __corsages__  
@@ -2963,7 +2964,7 @@ __decaf__ Decaffeinated coffee.
 __decal__ _n_  
 __decals__  
 __decamped__ _v_  
-__decant__ _v_  
+__decant__ _v_ :two::hammer:  
 __decanter__ _n_ :two::hammer:  
 __decathlon__  
 __deceit__ _n_  
@@ -3378,7 +3379,7 @@ __door-to-door dash__
 __doorbuster__ _n_ :four: (door-buster) A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doorknob hanger__  
 __doorman building__ _n_  
-__doormat__  
+__doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatment by others.  
 __doorpost__  
 __doozy__ _adj informal_ :four: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
 __dopamine__ _n_ :mega:  
@@ -3640,6 +3641,7 @@ __earth-shattering__
 __earthing__ _n_ Fastening electrical equipment to earth.  
 __Earthling__ _n_  
 __earthquake drill__  
+__earthshine__ _n_ The sunlight reflected from the earth's surface that illuminates part of the moon not directly lighted by the sun.  
 __easement__  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easing__  
@@ -4918,6 +4920,7 @@ __glint__
 __glinting__ _v_  
 __glissade__ _v_  
 __glisten__ :mute:[glis~~t~~en]  
+__glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
 __glitz__  
 __glitzy__  
 __gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
@@ -5013,6 +5016,8 @@ __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn
 __goo__ _n informal_ :two: Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
 __good for you__  
+__good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
 __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
@@ -5364,6 +5369,7 @@ __hard-liners__ :two::hammer:
 __hard-nose__  
 __hard-nosed__ :two::hammer: _Hard-nosed approach._  
 __hardball__  
+__hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
 __hardline__ :two::hammer: _The US hardline policy on illegal immigration._  
 __hardliner__  
 __hardly ever__  
@@ -5949,6 +5955,7 @@ __in excess__ _Roper hadn't slept for a period in excess of 24 hours._
 __in fold__  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
+__in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in retrospect__ _idiom_ Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__  
 __in so far as__  
@@ -6470,6 +6477,7 @@ __KO<sup>1</sup>__ _n_ A knockout in boxing.
 __KO<sup>2</sup>__ _v_ To knock unconscious, especially in a boxing match; knock out.  
 __Kodiak__  
 __koi__ _v_  
+__KOL__ _abbr_ Key opinion leader.  
 __kombucha__ _n_ _Ginger flavor kambucha._  
 __kook__ _n_ _slang_ :two::hammer:  
 __kooky__ _adj_ :two: Crazy, mentally unbalanced.  
@@ -7135,6 +7143,7 @@ __measure up__ _phr v_ To be good enough or to be of the required standard.
 __meat and potatoes__  
 __meat at the bone__  
 __meat grinder__  
+__meat missile__ _n_ _slang_  
 __mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts many visitors. _Shopping mecca._  
 __mechanical pencil__  
 __medal__ _v_  
@@ -8891,6 +8900,7 @@ __profiteering__
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
 __profligate<sup>2</sup>__ _n_ :two::hammer:  
 __profoundly__  
+__profusely__  
 __profusion__  
 __progeny__  
 __prohibit__  
@@ -9070,6 +9080,7 @@ __Q__ Character in James Bond films, a quiet genius who understands technology a
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
 __Q&A__ _The gathering will feature question-and-answer sessions._  
+__QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
 __quack__ _n_ :three: Incompetent doctor.  
 __quadrennial__  
@@ -10223,7 +10234,7 @@ __sheaf__
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
-__shed__ _v_ :four: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he'll be fine._ __3__ Park (a vehicle) in a depot.  
+__shed__ _v_ :five: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he'll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
@@ -11466,7 +11477,7 @@ __surcharge__ _Additional hotel surcharge of $5.00 per order._
 __sure enough,__ _Sure enough, that's what happened._  
 __surefire__  
 __surety__  
-__surfeit__ _n_  
+__surfeit__ _n_ :two: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
 __surge<sup>1</sup>__ _v_ :three::hammer:  
 __surge<sup>2</sup>__ _n_  
 __surliness__  
@@ -11547,6 +11558,7 @@ __switch__ (twitch?)
 __switch-blade__ _Switch-blade artists._  
 __swive__ _v_  
 __swiveling__ _v_  
+__swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
@@ -12894,6 +12906,7 @@ __welling up__
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
 __welling<sup>2</sup>__ _v_ _His breath welling into my face._  
 __wellspring__  
+__welp__ _idiom_ A common alternative to "well" that is used to express disappointment, often in text messaging.  
 __welsh__ _v_  
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
