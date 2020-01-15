@@ -256,6 +256,7 @@ __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
+__all sizzle and no steak__ _idiom_ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
 __all that jazz__ _idiom_ :two: All that stuff; all that nonsense.  
 __all that said,__  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
@@ -275,7 +276,7 @@ __allowance__ _n_ :two::hammer:
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
-__aloft__ _adv_ :three::hammer: _Dwyane Wade raised three fingers aloft._  
+__aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  
 __along with__  
 __alongside__ :two::hammer:  
 __aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
@@ -312,6 +313,7 @@ __amiss__ _adj_ :two::hammer:
 __amity__  
 __ammo__  
 __amnesty player__  
+__amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
 __amount to__ _idiom_ :two::hammer:  
 __amp up__ _phr v_ (amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
@@ -1255,7 +1257,7 @@ __boondoggle__ _n informal_ :four::hammer: (boondoggles)
 __boonies__  
 __boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
 __boorishness__ :two::hammer:  
-__boosters__ _Mississippi boosters._  
+__booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ :two::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
@@ -1455,6 +1457,7 @@ __bubble wrap__ _n_ :camera:
 __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
 __bubbly__ _Bubbly breatlessness._  
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
+__buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
 __buck off__ _v_  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
@@ -1720,6 +1723,7 @@ __campiness__ _Showbiz campiness._
 __campsite__ _n_  
 __campy__ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
+__can't be bothered__ _idiom_ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
 __canapé__ _n_  
 __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
@@ -2538,6 +2542,7 @@ __corned beef__ :two::hammer:
 __cornstarch__  
 __corny__ _adj_ :five::hammer:  
 __coronet__ _n_  
+__corporate ladder__ _idiom_  
 __corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
 __corpus__ _A big corpus of examples._  
@@ -3428,7 +3433,7 @@ __down under__ _n informal_ _Best regards from down under._
 __down-low__  
 __down-to-earth__ _idiom_ :three: Sensible and realistic.  
 __downbeat__ :two::hammer:  
-__downdrafts__ _n_  
+__downdraft__ _n_ :two: (downdrafts) A downward current, as of air.  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_  
 __downers__ :two::hammer:  
@@ -3816,7 +3821,7 @@ __enquiry__
 __enrapture__ _v_ :three: (enraptured) To fill with rapture or delight.  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
-__ensemble<sup>1</sup>__ _n_ :two::hammer:  
+__ensemble<sup>1</sup>__ _n_ :three::hammer:  
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
 __enshrined__  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
@@ -4017,7 +4022,7 @@ __face-lift__
 __facetious__ _adj_ :pencil2:  
 __facetiousness__  
 __facile__ :two::hammer: _She's an extremely facile actress._  
-__facsimile<sup>1</sup>__ _n_ :three::hammer: _The lander had two facsimile cameras._  
+__facsimile<sup>1</sup>__ _n_ :four::hammer: _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
 __facsimile<sup>3</sup>__ _v_  
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
@@ -4634,6 +4639,7 @@ __frock__
 __frogman__ _n_  
 __frolic<sup>1</sup>__ _n_ :three::hammer:  
 __frolic<sup>2</sup>__ _v_ :two::hammer: (frolicked)  
+__from a mile away__ _idiom_ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from afar__  
 __from rags to riches__ _idiom_ From being poor to being wealthy.  
 __from the git-go__  
@@ -5689,6 +5695,7 @@ __holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.
 __Holy Rood__  
 __Holy See__  
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
+__hombre__ _n_ _informal_ An informal term for a youth or man.  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
 __homecoming__ _She had been homecoming queen._  
@@ -7026,7 +7033,7 @@ __mandate__ _v_
 __mandatory__ _adj_ :mega:  
 __Mandy__ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion's mane._  
-__maneuver<sup>1</sup>__ _n_  
+__maneuver<sup>1</sup>__ _n_ :two: A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._  
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
 __manger__ _n_ :two: A trough or an open box in which feed for livestock is placed.  
 __mangle__ _v_  
@@ -7932,7 +7939,8 @@ __ornament__
 __ornate__ _n_ :five::hammer:  
 __orneriness__ :two::hammer:  
 __ornery__ :two::hammer:  
-__orographic__ _Winter orographic clouds._  
+__orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
+__orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
 __orphrery__  
 __orthokeratology__  
 __oscillating fan__  
@@ -12385,6 +12393,7 @@ __tycoon__ _n_ :four::hammer:
 __tying__ _v_ :pencil2:  
 __type-A personalities__  
 __typecast__ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
+__tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
 __tyranny__  
 __tyrant__ _n_ :three::hammer:  
 __U-boat__ _n_  
@@ -12536,6 +12545,7 @@ __up-and-comer__
 __up-tempo__ _Up-tempo kind of game._  
 __upbeat__ _adj_ :four: __1__ Optimistic: _an upbeat business forecast._ _An upbeat approach._ _He's extremely upbeat during down times._ __2__ Happy; cheerful.  
 __upcoming__  
+__updraft__ _n_ The movement upward of air or other gas.  
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
@@ -12898,7 +12908,7 @@ __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders.
 __weighty__ _His weighty agenda._  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
-__well-heeded__  
+__well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
 __well-rounded__ _adj_ :two::hammer:  
 __wellhead__  
@@ -13120,7 +13130,7 @@ __wobble__ _v_ (wobbling)
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
 __woeful__ _adj_ :three::hammer: _Our woeful train system._  
-__woefully__ _adv_ :five::hammer: _Her hand landed woefully on her forehead._  
+__woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  

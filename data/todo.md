@@ -1,26 +1,4 @@
 
-__from a mile away__ _idiom_ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
-__hombre__ _n_ _informal_ An informal term for a youth or man.  
-__corporate ladder__ _idiom_  
-__can't be bothered__ _idiom_ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
-__booster__ _n_ An enthusiastic promoter, as of a sports team or school.  
-__woefully__ _adj_ _Most of them are woefully unproductive, and tyrannize our offices._  
-__tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
-
-__aloft__  
-__orographic cloud__ _n_ A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.   
-__orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
-__facsimile__ _n_  
-__ensemble__ _n_  
-__stringent__ _adj_  
-__updraft__ _n_ The movement upward of air or other gas.  
-__downdraft__ _n_ A downward current, as of air.  
-
-__amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
-__well-heeled__ _adj_ Having plenty of money.  
-__all sizzle and no steak__ idiom_ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
-__buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
-__maneuver__ _n_ A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._   
 __gentleman's agreement__ _idiom_ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
 __cajole__ _v_  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
