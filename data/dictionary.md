@@ -199,6 +199,7 @@ __agency__ :three::hammer::astonished: _We still have some agency over our situa
 __agendum__  
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
+__aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aghast__ _adj_ :six::hammer:  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
@@ -623,6 +624,7 @@ __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally
 __baby blue__ _n_ :camera:  
 __baby bump__ _Dressing your baby bump._  
 __baby formula__ _Baby formula should be "ready-to-feed" or prepared using only filtered water or bottled water._  
+__baby shower__ _n_  
 __babysit__ _v_  
 __bachelor party__  
 __back away__  
@@ -1187,6 +1189,7 @@ __bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ 
 __bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_  
+__bogeyman__ _n_ Variant of boogeyman.  
 __bogged down__ _phr v_  
 __boggles__ _v_  
 __bogs__  
@@ -1666,7 +1669,7 @@ __cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answ
 __cagily__ _adv_  
 __cagy__ _adj_ Variant of cagey.  
 __cahoots__  
-__cajole__ _v_ :seven::hammer: (cajoled, cajoling)  
+__cajole__ _v_ :eight::hammer: (cajoled, cajoling)  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
@@ -2234,7 +2237,7 @@ __co-pilot__ _n_ A relief pilot on an airplane.
 __co-sleeping__  
 __coach cabin__ _A standard coach cabin._  
 __coach__ _You're flying coach._  
-__coalesce__ _v_ :pencil2::three::hammer: (coalescing) :es: fundirse  
+__coalesce__ _v_ :pencil2::four::hammer: (coalescing) :es: fundirse  
 __coast__ _v_  
 __coaster brakes__  
 __coat of arms__ _n_ _Heraldry_ :four::hammer: _The village coat of arms._  
@@ -2813,6 +2816,7 @@ __curios__
 __curlicued__ _v_  
 __curlicues__  
 __curmudgeon__ _n_ :seven: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
+__curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :six: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
@@ -3888,7 +3892,7 @@ __erstwhile__ :two::hammer:
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
-__escalator__ _n_  
+__escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart:  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
@@ -3911,6 +3915,7 @@ __etymological__ _adj_ _Etymological dictionaries show how languages borrow word
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
 __eulogy__ _n_ :three::hammer:  
 __eunuch__ _n_  
+__eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __evanesce__ :mute:[evanes~~c~~e]  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
@@ -4823,6 +4828,7 @@ __generic__ _A generic diet cola._
 __genial__ _adj_ Friendly and kind.  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ :two::hammer:  
+__gentleman's agreement__ _idiom_ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
 __gentry__ :two::hammer:  
@@ -4908,6 +4914,7 @@ __give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully 
 __give someone the creeps__ _idiom_ To make you feel frightened or nervous.  
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
+__giveback__ _n_  
 __glad-hand__ _v_  
 __gladdened__  
 __gladed__ _Gladed terrain._  
@@ -5434,8 +5441,8 @@ __have hot pants (for someone)__ _idiom_
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have someone's back__  
-__have your cake and eat it (too)__ _idiom_  
-__have your head in the clouds__ _idiom_ To be separate from reality, to dream.  
+__have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
+__have your head in the clouds__ _idiom_ :two: To be separate from reality, to dream.  
 __havoc__  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
@@ -5474,7 +5481,7 @@ __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway 
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ :two::hammer:  
 __health condition__  
-__hear a pin drop, one/you could__ _idiom_ Complete silence.  
+__hear a pin drop, one/you could__ _idiom_ :two: Complete silence.  
 __hearing__ _law_  
 __hearkened__  
 __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
@@ -8268,7 +8275,7 @@ __paw__ _v_ _A drunken master paws her._
 __pay off__ _v_  
 __pay through the nose (for something)__ _idiom_ :two::hammer:  
 __pay__ _v_ _It pays to consider his words carefully._  
-__payback__  
+__payback__ _n_ :two::hammer:  
 __paydirt__ :two::hammer:  
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
@@ -9502,7 +9509,7 @@ __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; ticket
 __resident__ _n_  
 __resign__ :mute:[resi~~g~~n]  
 __resiliency__  
-__resilient__ _adj_  
+__resilient__ _adj_ :two::hammer:  
 __resist<sup>1</sup>__ _v_  
 __resist<sup>2</sup>__ _n_ _Water resist wristwatch._  
 __resistance__  
@@ -10611,7 +10618,8 @@ __slime__ _n_ :two::hammer:
 __sliminess__  
 __sling__ _n_ :three::hammer: _The sling for his dislocated shoulder._  
 __slinger__  
-__slink__ _v_ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
+__slink<sup>1</sup>__ _v_ :two: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
+__slink<sup>2</sup>__ _adj_ Born prematurely.  
 __slip up<sup>1</sup>__ _v_  
 __slip up<sup>2</sup>__ _n_  
 __slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even the smallest of slips would alert that man to her presence._  
@@ -10793,6 +10801,7 @@ __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._
 __snug__ _v_ :three::hammer:  
 __snuggles__  
 __snugly__ :two::hammer:  
+__so far, so good__  
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __so-so__  
@@ -12538,7 +12547,7 @@ __unyield__ _v_
 __unyielding__ _adj_ :three::hammer:  
 __up and running__  
 __up and under__ A basketball move.  
-__up for grabs__ _idiom_ :two: Available for anyone.  
+__up for grabs__ _idiom_ :three: Available for anyone.  
 __up yours__  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
@@ -12995,7 +13004,7 @@ __whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]
 __whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
 __whisper__ :mute:[w~~h~~isper]  
 __whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
-__whistle-blower__  
+__whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __Whit Sunday__  
 __white elephant__ _n_  
 __white lie__ _idiom_ Lie to protect another person's feelings.  

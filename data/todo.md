@@ -1,28 +1,4 @@
 
-__gentleman's agreement__ _idiom_ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
-__cajole__ _v_  
-__eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
-
-__escalator__ _n_ A continuously moving stairway on an endless loop for carrying passengers up or down.  
-
-__so far, so good__  
-__baby shower__ _n_  
-__bogeyman__ _n_ Variant of boogeyman.  
-__payback__ _n_  
-__hear a pin drop__  
-__giveback__ _n_  
-__curriculum__ _n_ _The math curriculum of the school is pretty useless._  
-__resilient__ _adj_  
-
-__whistle-blower__ _n_ One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
-__have your cake and eat it (too)__ _idiom_ To have or get two good things at the same time, especially things that are not usually possible to have together.  
-__slink<sup>1</sup>__ _v_ To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._  
-__slink<sup>2</sup>__ _adj_  Born prematurely.  
-__coalesce__ _v_  
-__have your head in the clouds__ _idiom_ To be separate from reality, to dream.  
-__up for grabs__ _idiom_ Available for anyone.  
-__aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
-
 __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
 __mollify__ _v_ (mollified)  
 __squirm__ _v_  
