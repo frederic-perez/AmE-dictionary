@@ -140,7 +140,7 @@ __ADHD__ _abbr_ Attention deficit hyperactivity disorder.
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
-__adjudge__ _v_  
+__adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
 __adjure__ _v_ _Syn_ command  
@@ -3191,7 +3191,7 @@ __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property tax
 __dingbat__ _n_  
 __dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinking__ _v_  
-__dinky__ :two::hammer: _A dinky little community._  
+__dinky__ _adj_ :three::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
 __dip__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
 __diplodocus__ _n_  
@@ -3472,7 +3472,7 @@ __dragnet__
 __drain board__ _n_ :three::hammer: (drainboard)  
 __drain<sup>1</sup>__ _v_ :four::hammer:  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
-__dramatist__  
+__dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
 __dramedy__  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
@@ -3748,6 +3748,7 @@ __elusive__
 __Elvis has left the building__ _idiom_ :two: The show has come to an end. It's all over.  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
+__emaciated__ _adj_  
 __emancipate__ _v_  
 __emancipation__  
 __embankment__  
@@ -4022,7 +4023,7 @@ __fabricator__
 __façade__ _n_ :two::hammer:  
 __face off__ _v_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
-__face value__  
+__face value__ _n_ :two::hammer:  
 __face-lift__  
 __facetious__ _adj_ :pencil2:  
 __facetiousness__  
@@ -4626,6 +4627,7 @@ __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.
 __fretful__ :two::hammer:  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretwork__  
+__Freudian slip__ _idiom_ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
 __friction__ _The coefficient of friction._  
 __Friday__ :mega: /'fraIdi, -deI/  
 __frieze__ _n_  
@@ -4709,7 +4711,7 @@ __further__
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
-__fuss<sup>1</sup>__ _n_ :two::hammer:  
+__fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __futile__ _adj_  
 __futility__ _n_ :four::hammer:  
@@ -4866,6 +4868,7 @@ __get to the point__ _idiom_ To talk directly about the most important part or t
 __get your ducks in a row__ _idiom_ To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
 __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
+__get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy.  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :seven::hammer::mute:[g~~h~~astly]  
@@ -5332,6 +5335,7 @@ __hammam__ _n_
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ _v_ :astonished::five::hammer: (hampered)  
 __hamstring__ _n_ :three::hammer:  
+__Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
 __hand blender__ _n_  
 __hand-pick__ _v_  
 __handglider__  
@@ -6419,7 +6423,7 @@ __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introdu
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
-__kindred spirit__ _idiom_ :seven::hammer: (kindred spirits) _A kindred spirit._ :es: almas gemelas  
+__kindred spirit__ _idiom_ :nine::m: (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we're both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :two::hammer:  
 __kine__ _n_  
@@ -7359,7 +7363,7 @@ __mole grip__ :camera: Locking pliers.
 __mole wrench__ :camera: Locking pliers.  
 __molehill__  
 __moles__ _n_  
-__mollify__ _v_ :five::hammer:  
+__mollify__ _v_ :six::hammer: (mollified)  
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _Mom-and-pop shops._  
@@ -7970,7 +7974,7 @@ __out of date__ _idiom_
 __out of hand__  
 __out of order__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sorts__ _v-link phr_ :four: __1__ Somewhat ill. __2__ Grouching; irritable.  
+__out of sorts__ _v-link phr_ :five: __1__ Somewhat ill. __2__ Grouching; irritable.  
 __out of the blue__  
 __out of the woods__  
 __out of this world__ _idiom_ Extremely good.  
@@ -8523,7 +8527,7 @@ __pipeyard__
 __piping__ :two::camera::hammer: _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
 __pique<sup>1</sup>__ _n_  
-__pique<sup>2</sup>__ _v_ :six::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
+__pique<sup>2</sup>__ _v_ :seven::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
@@ -8834,7 +8838,7 @@ __prerogative__ _n_ :four::hammer:
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
 __prescient__ _adj_ :five::hammer:  
-__prescribe__ _v_  
+__prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
 __presentation__ :mega:  
@@ -11069,7 +11073,7 @@ __squelched__ _v_
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
-__squirm<sup>1</sup>__ _v_ :eight::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :nine::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squirt gun__ _n_ _Syn_ squirter, water gun, water pistol  
@@ -11158,6 +11162,7 @@ __stateroom__ _n_ :two: A private cabin or compartment with sleeping accommodati
 __statesman__ :two::hammer: _The elder statesman of the group._  
 __statesmen__ (notice, not 'statement')  
 __statin__ _n_  
+__stationary bicycle__ _n_ A "going-nowhere" bicycle.  
 __stationary bike__  
 __stationery__  
 __statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
@@ -12851,6 +12856,7 @@ __wash out__ _phr v_ To wash the inside of something.
 __wash up__ _phr v_ To wash your hands and face.  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
 __washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
+__washing line__ _n_  
 __Washingtonians__  
 __washroom__ _n_  
 __washtub__  
@@ -13006,7 +13012,7 @@ __whisper__ :mute:[w~~h~~isper]
 __whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __Whit Sunday__  
-__white elephant__ _n_  
+__white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __white line__ (appliances)  
 __white__ :mute:[w~~h~~ite]  
@@ -13314,7 +13320,7 @@ __Yuletide__ _n_ :two: (archaic) Christmas.
 __yummy__  
 __yurt__ _n_ :two::hammer: (yurts)  
 __zaniness__ :two::hammer:  
-__zany__ _adj_ :six: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._  
+__zany__ _adj_ :seven: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
 __zeal__ _n_  
 __zealotry__  
