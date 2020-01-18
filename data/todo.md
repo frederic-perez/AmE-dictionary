@@ -1,4 +1,14 @@
 
+
+__kindred spirit__ _n_  
+__ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
+__solace__ _n_  
+__angst__  
+__dirtbag__ _n_  
+__overarching__  
+__farce__ _n_  
+__partake__ _v_ :two:  
+
 __rankle__ _v_  
 __expound__ _v_  
 __cupidity__ _n_ :astonished:  
