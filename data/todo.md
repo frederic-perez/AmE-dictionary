@@ -1,4 +1,12 @@
 
+__goodness me__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
+__convoke__ _v_ To call together to a meeting.  
+__a great many__ _idiom_ A very large number of (people, things, etc.).  
+__grease payment__ _idiom_ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
+__so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
+__lily-livered__ _adj_ Cowardly; timid.  
+__mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
+__callous__ _v_  
 
 __kindred spirit__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
