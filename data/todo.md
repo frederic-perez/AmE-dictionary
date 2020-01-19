@@ -1,5 +1,13 @@
 
 
+__ivy__ _n_ :es: hiedra  
+__dumb__ _adj_  
+__OG__ Original gangster.  
+__pax vobiscum__ _phr_ Peace be with you.  
+__sashimi__ _n_  
+__maki__ _n_  
+__huramaki__ _n_  
+__nigiri__ _n_  
 
 __rattling__ _adj_  
 __-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
