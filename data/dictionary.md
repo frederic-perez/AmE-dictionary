@@ -1,4 +1,11 @@
+__-desis__ _suffix_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
+__-ectomy__ _suffix_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
 __-esque__ _suffix_ :four: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
+__-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
+__-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
+__-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
+__-tomy__ _suffix_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
 __-year-old__ _A 56-year-old retiree._  
 __, so why (even) bother?__  
 __, to say the least.__  
@@ -22,6 +29,7 @@ __a drop in the bucket__ _idiom_ :two: A very small amount when compared to some
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
+__a great many__ _idiom_ A very large number of (people, things, etc.).  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
@@ -2498,6 +2506,7 @@ __conversely__
 __convertible__  
 __conveyed__ _v_  
 __convivial__ _adj_ :three::hammer:  
+__convoke__ _v_ To call together to a meeting.  
 __conwise__  
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
@@ -3592,7 +3601,7 @@ __dully__ _adv_
 __duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
 __dumb struck__ :two::hammer: (dumbstruck)  
-__dumb__ :mute:[dum~~b~~]  
+__dumb__ _adj_ :two::hammer::mute:[dum~~b~~]  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
@@ -5041,6 +5050,7 @@ __good-nature__
 __goodliest__ :two::hammer:  
 __goodly__  
 __goodness gracious__  
+__goodness me__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __goody two-shoes__ _idiom_ _informal_  
 __goody-goody__ _Goody-goody expressions._  
 __Goodyear, Charles__  
@@ -5110,6 +5120,7 @@ __grayling__
 __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Police confirm a young girl was grazed by a bullet._ __3__ To break the skin of (a part of the body) by scraping.  
 __grazing land__ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __GRE__ A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
+__grease payment__ _idiom_ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
 __greaseballs__ :two::hammer:  
 __Great Dane__  
 __great deal__ _idiom_ :dart: (often followed by `of') a large number or amount or extent. Much, a lot.  
@@ -5838,6 +5849,7 @@ __hungup__ _informal?_ _What's the hungup?_
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__ _adj_ _slang_ :two: Fine, going well.  
+__huramaki__ _n_  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
 __hurl__ _v_ :eight: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
@@ -6185,7 +6197,7 @@ __it's a dog's life__ :dart::astonished:
 __it's one of those things__ _idiom_  
 __item__ _slang_ A couple, two people who are romantically involved.  
 __Ivy League__ :two::hammer: _Ivy League school._  
-__ivy__ _n_ :three::hammer: :es: hiedra  
+__ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
@@ -7020,6 +7032,7 @@ __make-or-break__ :two::hammer:
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
+__maki__ _n_  
 __making waves__ :two::hammer:  
 __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_  
@@ -7659,6 +7672,7 @@ __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._
 __nightie__ _n_ :two: A woman's nightgown.  
 __nightingale__ _n_  
 __nightmarish__ :two::hammer:  
+__nigiri__ _n_  
 __nihilist__ _n_ :two::hammer:  
 __nihilistic__  
 __niladic__  
@@ -7835,6 +7849,7 @@ __oft__ :two::hammer: _The oft-hated SAT._
 __oft-shouting-sermon__  
 __often__ :mute:[of~~t~~en]  
 __oftentimes__ :two::hammer:  
+__OG__ Original gangster.  
 __ogle__ _v_ :two::hammer:  
 __oh__ _You went oh for two._  
 __Ohioans__  
@@ -8276,6 +8291,7 @@ __pavilion__ _n_
 __pavilions__  
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
+__pax vobiscum__ _phr_ Peace be with you.  
 __pay off__ _v_  
 __pay through the nose (for something)__ _idiom_ :two::hammer:  
 __pay__ _v_ _It pays to consider his words carefully._  
@@ -9291,6 +9307,7 @@ __rattlers__
 __rattlesnake__  
 __rattling<sup>1</sup>__ _n_  
 __rattling<sup>2</sup>__ _v_  
+__rattling<sup>3</sup>__ _adj_  
 __ratty__ _adj_ _slang_ Dilapidated; in poor condition.  
 __raucous__ _adj_ :nine: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
@@ -9910,6 +9927,7 @@ __sarcophagus__ _n_
 __sartorial__  
 __sash__ _n_ :four::hammer: _A sash cord._ _A sash window._  
 __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
+__sashimi__ _n_  
 __sass__ _v_ (sassed)  
 __sassy__ _adj_ :two::hammer:  
 __SAT__ _trademark_ :two: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  

@@ -1,27 +1,4 @@
 
-
-__ivy__ _n_ :es: hiedra  
-__dumb__ _adj_  
-__OG__ Original gangster.  
-__pax vobiscum__ _phr_ Peace be with you.  
-__sashimi__ _n_  
-__maki__ _n_  
-__huramaki__ _n_  
-__nigiri__ _n_  
-
-__rattling__ _adj_  
-__-tomy__ _suff_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
-__-ectomy__ _suff_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
-__-ostomy__ _suff_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.   
-__-plasty__ _suff_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
-__-pexy__ _suff_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
-__-rrhaphy__ _suff_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
-__-desis__ _suff_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
-
-__goodness me__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
-__convoke__ _v_ To call together to a meeting.  
-__a great many__ _idiom_ A very large number of (people, things, etc.).  
-__grease payment__ _idiom_ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
 __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
 __lily-livered__ _adj_ Cowardly; timid.  
 __mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
