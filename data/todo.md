@@ -1,27 +1,4 @@
 
-__so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
-__lily-livered__ _adj_ Cowardly; timid.  
-__mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
-__callous__ _v_  
-
-__kindred spirit__ _n_  
-__ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
-__solace__ _n_  
-__angst__  
-__dirtbag__ _n_  
-__overarching__  
-__farce__ _n_  
-__partake__ _v_ :two:  
-
-__rankle__ _v_  
-__expound__ _v_  
-__cupidity__ _n_ :astonished:  
-__uncouth__ _adj_  
-__waffle__ _n_  
-
-__blood count__ _n_ :es: hemograma  
-__curriculum vitae__ _n_  
-__on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
 __damnification__ _n_  

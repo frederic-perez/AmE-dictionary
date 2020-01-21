@@ -624,6 +624,7 @@ __AWOL__ _Military_ Absent from where one should be but without intent to desert
 __awry__ :two::hammer:  
 __ax__  
 __axle__ _n_  
+__ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __azure__  
 __B & E__ :two::hammer: _Somebody did a B&E on you._  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
@@ -1121,6 +1122,7 @@ __blizzard__ _n_ :two::hammer:
 __bloat__ _n_ A group of hippos.  
 __bloc__ _n_ :five::hammer: _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
+__blood count__ _n_ :es: hemograma  
 __blood-expander__  
 __blood, sweat, and tears__ _idiom_ A lot of effort and suffering.  
 __bloodshot eyes__ :camera:  
@@ -1710,7 +1712,8 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliopes__  
-__callous__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
+__callous<sup>1</sup>__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
+__callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
 __callow__ _adj_ :three::hammer:  
 __calm before the storm__ _idiom_ :two: A peaceful and quiet period before a period of activity or trouble.  
@@ -2809,6 +2812,7 @@ __cummerbund__
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
+__cupidity__ _n_ :astonished:  
 __cupolas__ _n_  
 __cuppa__ _n_ :two: A cup of tea.  
 __cupping__ _n_ :pencil2:  
@@ -2825,6 +2829,7 @@ __curios__
 __curlicued__ _v_  
 __curlicues__  
 __curmudgeon__ _n_ :seven: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
+__curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
@@ -3217,7 +3222,7 @@ __dirges__ _n_
 __dirigiste__  
 __dirt bike__ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
-__dirtbag__ :two::hammer:  
+__dirtbag__ _n_ :three::hammer:  
 __dirtdobbers__  
 __dirty boogie__  
 __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
@@ -3993,6 +3998,7 @@ __exploit<sup>2</sup>__ _v_ :mega:
 __expose__ _v_  
 __expostulate__ _v_  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
+__expound__ _v_  
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government's attempt to expunge dissidents._  
 __exquisite__ _Exquisite acting._  
 __extemporaneous__ _adj_  
@@ -4096,7 +4102,7 @@ __far and away__ :astonished:
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :five::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :four::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
-__farce__ :two::hammer:  
+__farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
@@ -6780,6 +6786,7 @@ __likened himself to__ _Mark faked his death and likened himself to a werewolf t
 __likewise__ _adv_ :two::hammer:  
 __lilac tree__  
 __lilac__ :two::hammer:  
+__lily-livered__ _adj_ Cowardly; timid.  
 __limb__ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _Limber stick._  
 __limerick__ _n_ (poetry) :four::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
@@ -7362,6 +7369,7 @@ __moat__ _n_ :six::hammer:
 __mob__ _n_  
 __moccasin__ :two::hammer: (moccasins)  
 __mockie__ _n_ :two::hammer:  
+__mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
 __modicum__ _n_ :five: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __mogrify__ _v_  
@@ -7891,6 +7899,7 @@ __on pins and needles__ _idiom_ Worried or excited about something.
 __on steroids__  
 __on the back burner__ _idiom_ :two::hammer:  
 __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
+__on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
 __on the docket__  
 __on the fence__ _idiom_ Unable to make a decision.  
 __on the flip side__ _idiom_  
@@ -8069,7 +8078,7 @@ __over-under__
 __overachieve__  
 __overall standings__ _31 points in the overall standings._  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
-__overarching__ _adj_ :three::hammer: _An overarching quality._ _An overarching principle._  
+__overarching__ _adj_ :four::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overboard__ _To go overboard._  
@@ -9260,8 +9269,7 @@ __range<sup>2</sup>__ _v_ _This ranges from clearing out cupboards to limming do
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
-__rankled__ _v_  
-__rankles__  
+__rankle__ _v_ :three::hammer: (rankles, rankled)  
 __ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
 __rant<sup>1</sup>__ _n_  
@@ -10826,6 +10834,7 @@ __snugly__ :two::hammer:
 __so far, so good__  
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
+__so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
 __so-so__  
 __soap opera__  
 __soap-spuds__ _n_  
@@ -10854,7 +10863,7 @@ __soil__ _v_
 __soiled__  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
-__solace__  
+__solace__ _n_ :two::hammer:  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
 __soldier of fortune__  
@@ -12454,7 +12463,7 @@ __uncanny valley__ _idiom_ :three::hammer:
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
-__uncouth__  
+__uncouth__ _adj_ :two::hammer:  
 __uncrating__  
 __unction__ _n_  
 __unctuous__ :two::hammer:  
@@ -12806,7 +12815,8 @@ __wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in develo
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
 __wafer__ _n_ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
-__waffle__ _v_ :four::hammer: (waffled, waffling)  
+__waffle<sup>1</sup>__ _v_ :four::hammer: (waffled, waffling)  
+__waffle<sup>2</sup>__ _n_  
 __waffling__  
 __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
 __wafted__ _v_  
