@@ -1078,7 +1078,7 @@ __blanketed__ _v_ :five::hammer: (blanketing)
 __blasé__  
 __blatant__ :two::hammer:  
 __blatantly__  
-__blather__  
+__blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
 __blaze of glory__ :two::hammer:  
 __bleach__ _n_  
 __bleached blonde hair__  
@@ -2899,6 +2899,8 @@ __dammit__
 __damn the torpedoes__ _idiom_ To press on with a task or current course of action regardless of apparent risks or dangers.  
 __damn__ :mute:[dam~~n~~]  
 __damnation__  
+__damnification__ _n_  
+__damnify__ _v_ To cause loss or damage to (a person); injure.  
 __damning__ :three::astonished::hammer: _A damning independent inquiry._ _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
 __dampen__ _v_  
@@ -3392,6 +3394,7 @@ __don't tell me it's raining__
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
+__donut__ _n_ Variant of doughnut. While doughnut remains more common, both of the spellings are perfectly fine.  
 __doo-dah__  
 __doodad__  
 __doodle__ _v_ _Good thinking can happen while doodling about it on a paper tablecloth._  
@@ -4282,6 +4285,7 @@ __firefly__ _n_ (fireflies) :es: luciérnaga
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __first and foremost__ :two::hammer:  
+__first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
@@ -4459,7 +4463,7 @@ __fly off the handle__ _idiom_ To lose self control, to get very angry.
 __fly on the wall__ _idiom_ :two::hammer:  
 __fly-by-night__  
 __flyboard__  
-__flyer__ _He caught such a flyer leaving the gate I had to take advantage of it._  
+__flyer__ _n_ :two: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling. _He caught such a flyer leaving the gate I had to take advantage of it._  
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __foam at the mouth__ _idiom_ To be extremely angry.  
 __fob__ :two::hammer:  
@@ -4618,6 +4622,7 @@ __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ S
 __frayed__ _adj_ __1__ (of fabrics or clothing) Unravelling at the edges from damage or wear. _A frayed suit._ __2__ (of temper, nerves, patience, etc) under great strain. _Frayed nerves._  
 __frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __frazzled<sup>2</sup>__ _v_  
+__freak flag__ _idiom_ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
 __freak out<sup>2</sup>__ _v_  
 __free bit of advice__ _idiom_ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
@@ -4761,7 +4766,7 @@ __galloping__
 __galore__ _adv_  
 __galoshes__ _n_  
 __galvanize__ _v_ :six: (galvanized) To startle into sudden activity; stimulate.  
-__gambit__  
+__gambit__ _n_ :two::hammer:  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
@@ -5099,7 +5104,7 @@ __granola__ _n_
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
-__grapple<sup>2</sup>__ _n_ _A thin cord hooked to a grapple._  
+__grapple<sup>2</sup>__ _n_ :two::hammer: _A thin cord hooked to a grapple._  
 __grapplings__ _n_  
 __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
 __grass-routs__ _?_ _Grass-routs campaign._  
@@ -5545,7 +5550,7 @@ __hedge<sup>2</sup>__ _v_ :two::hammer: (hedging)
 __hedonic__  
 __Hedonism__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
-__heed__ _v_ :nine: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
+__heed__ _v_ :nine::m: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__  
 __heedlessly__  
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
@@ -6413,6 +6418,7 @@ __kick ass__
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick in__ _phr v_ To start to have an effect or to happen.  
+__kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _Informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _Slang_ To die.  
 __kick sand in the air__  
 __kick the bucket__  
 __kick the crap out of (someone)__ _idiom_  
@@ -7865,6 +7871,7 @@ __oil slick__ _The greasy shine of an oil slick._
 __oilcloth__  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
+__okay__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there's no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
 __okra gumbo__  
 __okra__ :two::hammer:  
 __old as the hills__ _idiom_ Someone who is very old.  
@@ -8095,7 +8102,7 @@ __overpass__ _n_
 __overripe__ :two::hammer::camera: _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
-__overshadowed__ _v_  
+__overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
 __oversight__ _n_ :three::hammer: _An oversight board._ _Oversight committee._  
 __overstating__ _v_  
 __overt__ _adj_ :two::hammer:  
@@ -10938,7 +10945,7 @@ __spark plugs__
 __sparklers__ _n_  
 __sparred__ _v_  
 __spars__ _n_  
-__spat__ _n_ :six::hammer: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
+__spat__ _n_ :seven::hammer: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ _n_ :seven: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
 __spatter__ _n_  
 __spay__ _v_ :three::hammer: (spayed)  
@@ -11146,6 +11153,7 @@ __stammers__ _The consensus was shrugs and stammers._
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp__ _Additional stamp duties went into effect last year._  
 __stamped__  
+__Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
 __stance__ _n_ :six: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
 __stand a chance__  
@@ -11783,6 +11791,7 @@ __techie__ _n informal_ :two: (techies) One who studies or is highly interested 
 __Tecnetium__  
 __tedious__  
 __tee up__ _v_  
+__tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :nine: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
@@ -12741,6 +12750,7 @@ __very__ _We were in this very room._
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ _n_ :two::mega::hammer:  
 __vestige__ _n_ :two::hammer: (vestiges) _The vesting date._  
+__Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
 __veto__ _v_  
 __vetted__ _v_ :three::hammer:  
 __vetting__  
@@ -12964,7 +12974,7 @@ __welsh__ _v_
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
 __welted__  
-__welter__ _n_ _A welter of data._  
+__welter__ _n_ :two: A confused multitude of things. _A welter of data._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
@@ -13055,7 +13065,7 @@ __whizz__
 __whizzing__  
 __WHO__  
 __who__ :mute:[~~w~~ho]  
-__whoa__  
+__whoa__ _interj_ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __whodunit__ _n_ :two: A detective story.  
 __whole milk__  
 __whole nine yards, the__  

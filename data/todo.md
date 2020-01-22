@@ -1,27 +1,4 @@
 
-__Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
-__damnify__ _v_ To cause loss or damage to (a person); injure.  
-__damnification__ _n_  
-__heed__ _v_  
-__spat__ _n_  
-
-__Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
-__first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
-__blather__ _v_ To talk foolishly. _Syn_ smatter, babble  
-__welter__ _n_ A confused multitude of things.  
-__grapple<sup>1</sup>__ _n_  
-__grapple<sup>2</sup>__ _v_  
-__kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _Informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _Slang_ To die.  
-
-__overshadow__ _v_ To render insignificant or less important in comparison.  
-__freak flag__ _idiom_ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
-__gambit__ _n_  
-__tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
-__flyer__ _n_ For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.  
-__donut__ _n_ Variant of doughnut. While doughnut remains more common, both of the spellings are perfectly fine.  
-__whoa__ _interj_ __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
-__okay__ _n_ _adj_ _adv_ _v_ At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there's no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
-
 __grub__ _n_ _slang_ Food.  
 __nosy__ _adj_ _slang_ Inappropriately curious.  
 __bell the cat__ _idiom_ To perform a daring act.  
