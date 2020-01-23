@@ -505,7 +505,7 @@ __ascent__ :mute:[as~~c~~ent]
 __ascertain__ _v_ :two::hammer:  
 __ascetic__  
 __ascot__  
-__ascribe__ _v_ :four::hammer:  
+__ascribe__ _v_ :five::hammer: (ascribed)  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
@@ -919,6 +919,7 @@ __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to ano
 __belie__ _v_ :seven: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ _v_ :four: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
+__bell the cat__ _idiom_ To perform a daring act.  
 __bellboy__ _n_  
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
@@ -2081,9 +2082,9 @@ __Christian__ :mute:[C~~h~~ristian]
 __Christmas fly__  
 __Christmas__ :mute:[C~~h~~istmas]  
 __chuck out__ _v_  
-__chuck__ _v_ :seven::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__chuck__ _v_ :eight::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __chuckholes__ _n_  
-__chuckle__ _v_ :two::hammer:  
+__chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
 __chug__ _v_ :three::hammer: _A cocktail to chug._ _We're chugging along._  
 __Chugging beers__  
@@ -3153,7 +3154,7 @@ __devil-may-care style__
 __deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
 __deviltry__  
 __devoid__  
-__devoir__ _n_  
+__devoir__ _n_ :two::hammer:  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
 __devote__ _v_ _We're devoting this episode to his paintings._  
@@ -4006,6 +4007,7 @@ __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunge
 __exquisite__ _Exquisite acting._  
 __extemporaneous__ _adj_  
 __extent__ _To the same extent._  
+__extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :three::hammer: (extolled, extolling)  
 __extort__ _v_  
@@ -4110,6 +4112,7 @@ __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse 
 __fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __farflung__ _Farflung operations and profits._  
+__farouche__ _adj_  
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
 __farther__  
 __farthing__  
@@ -4891,7 +4894,7 @@ __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend fro
 __get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy.  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
-__ghastly__ _adj_ :seven::hammer::mute:[g~~h~~astly]  
+__ghastly__ _adj_ :eight::hammer::mute:[g~~h~~astly]  
 __ghetto__ :mute:[g~~h~~etto]  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
@@ -5217,7 +5220,7 @@ __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._
 __growl<sup>2</sup>__ _v_ :four::hammer: (growled, growling)  
 __grown-up<sup>1</sup>__ _adj_  
 __grown-up<sup>2</sup>__ _n_  
-__grub__ _n_ :two::hammer: _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
+__grub__ _n_ _slang_ :three: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
 __grudge<sup>2</sup>__ _n_ :seven: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
@@ -7653,6 +7656,7 @@ __nest egg__ _n_ :three::hammer:
 __nestle__ _v_ :seven::hammer: (nestled)  
 __nestlings__ _n_  
 __nether__ :two::hammer:  
+__netizen__ _n_ A person who is a frequent or habitual user of the internet.  
 __neuroblastoma__  
 __neuropeptide__ _n_  
 __neutered__  
@@ -7714,6 +7718,7 @@ __no way around it__
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-holds-barred__  
 __no-no__ _n_ _informal_ :eight::hammer:  
+__no-questions-asked__ _The had a no-questions-asked policy._  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -7755,7 +7760,7 @@ __nose > running noses__
 __nose-thumbing__ :camera:  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nostalgia__  
-__nosy__ _adj_ :three::hammer: _He's nosy as hell._  
+__nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
 __not even close__ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
@@ -8559,7 +8564,7 @@ __pipeyard__
 __piping__ :two::camera::hammer: _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
 __pique<sup>1</sup>__ _n_  
-__pique<sup>2</sup>__ _v_ :seven::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
+__pique<sup>2</sup>__ _v_ :eight::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
@@ -8827,7 +8832,7 @@ __practical effect__ _n_ (usually practical effects) A special effect that is cr
 __practical joke__  
 __practice__ _n_ _A pediatrics practice._  
 __pram suit__ _n_  
-__pram__  
+__pram__ _n_ :two::hammer:  
 __prance__ _v_ :eight::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
 __prattle__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
@@ -10730,6 +10735,7 @@ __smart case__
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ _adj_ :three: Clean and neat in appearance and dressed in nice fashionable clothes, especially in a slightly formal way. _Smart riding-clothes._ _The man was smartly dressed._ _Smart tailored jackets._  
 __smart-alecky__ _adj_ _informal_ Rude and disrespectful: _Smart-alecky wit._  
+__smarten__ _v_ _He was smartening himself._ _Syn_ spruce up  
 __smarter than the average bear__  
 __smash hit__  
 __smash song__ _n_ _That was a smash song._  
@@ -11086,6 +11092,7 @@ __squander<sup>1</sup>__ _v_ :two::hammer:
 __squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
 __square deal__  
 __square dsncing__  
+__square__ _n_ _slang_ A boring person.  
 __squarely__  
 __squash__ _v_  
 __squat down__ _v_  
@@ -12759,6 +12766,7 @@ __vexillology__ _n_ The study of flags.
 __vexing__ :two::hammer: _Vexing problem._  
 __viable__  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
+__vicar__  
 __vicarious__  
 __vicious__ _adj_ :five: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
@@ -12766,7 +12774,7 @@ __victimhood__
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victualling__  
 __victuals__ :two::hammer:  
-__vie for__ _phr v_ :six: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
+__vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::hammer:  
 __vile__  
 __vilifies__ _v_  
@@ -13050,6 +13058,7 @@ __whisper__ :mute:[w~~h~~isper]
 __whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __Whit Sunday__  
+__whit__ _A whit of intelligence._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __white line__ (appliances)  
@@ -13084,7 +13093,7 @@ __whooshed__ _v_
 __whorls__ :two::hammer:  
 __Wi-Fi__  
 __wick__ _n_ :two::hammer: _Curiosity is the wick in the candle of learning._  
-__wicked__  
+__wicked__ _adj_ :two::hammer:  
 __wickedly__  
 __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  
 __wicket__  
