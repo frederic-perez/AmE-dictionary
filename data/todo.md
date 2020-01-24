@@ -1,4 +1,14 @@
 
+
+__heads-up<sup>1</sup>__ _n_ _informal_ Informal Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
+__heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
+__buckle up__ _idiom_  
+__digress__ _v_ To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
+__unapologetic__  
+__badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge's intervention.  
+__take it away__ _informal_ To start playing or singing music.  
+__stenographer__ _n_ A person skilled in the use of shorthand and in typing.  
+
 __veer__ _v_  
 __outbreak__ _n_  
 __allograft__ _n_  
