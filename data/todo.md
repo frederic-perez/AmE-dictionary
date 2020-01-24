@@ -1,27 +1,4 @@
 
-__beckon__ _v_ (beckoning)  
-__shuffle__ _v_ (shuffling)  
-__outing__ _n_ (outings)  
-__sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
-__no-questions-asked__ _The had a no-questions-asked policy._  
-
-__trivet__ _n_ :mega:  
-__cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or oil.  
-__ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
-__carafe__ _n_ The word carafe comes from the Arabic word "gharrafah" meaning "dipper" or "drinking vessel."  
-__casserole__ _n_ Casserole comes from the Middle French cassa meaning "melting pan."  
-__inadvertent__ _adj_ Happening by chance or unexpectedly or unintentionally.  
-__fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
-__incongruous__ _adj_  
-
-__fork over the dough__ _idiom_ To pay, generally unwillingly, a certain amount of money.  
-__picayune<sup>1</sup>__ _adj_  
-__picayune<sup>2</sup>__ _n_  
-__turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
-__armistice__ _n_ A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning "to come to a stand" or "to cause to stand or stop," combined with _arma_, meaning "weapons.  
-__up to (one's) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: "When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp." It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
-__misadventure__ _n_ An instance of misfortune.  
-
 __veer__ _v_  
 __outbreak__ _n_  
 __allograft__ _n_  

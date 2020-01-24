@@ -468,6 +468,7 @@ __arm candy__ _idiom_ An especially attractive person who acts as a romantic esc
 __armageddon__  
 __armchair expert__ _idiom_  
 __armed to the teeth__ _idiom_ Fully armed, having many weapons.  
+__armistice__ _n_ A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning "to come to a stand" or "to cause to stand or stop," combined with _arma_, meaning "weapons.  
 __armload__  
 __armory__  
 __arms embargo__  
@@ -845,7 +846,7 @@ __bebop__ _v_
 __because__  
 __beck > at your beck__ _Stacks of books at your beck._  
 __beck__  
-__beckon__ _v_ :four: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
+__beckon__ _v_ :five: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
 __bedeck__ _v_ (bedecked)  
@@ -1780,7 +1781,7 @@ __captaincy__ :two::hammer:
 __capuchin monkey__ :mega:  
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
-__carafe__ _n_  
+__carafe__ _n_ :two: The word carafe comes from the Arabic word "gharrafah" meaning "dipper" or "drinking vessel."  
 __carapace__ _n_ :four::hammer:  
 __carat__  
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
@@ -1839,7 +1840,7 @@ __cashier__ _n_ A cashier is someone who works at a store ringing up people's pu
 __cashmere__  
 __casket__ _n_ :two::hammer: _Closed casket, that's right._  
 __cassava__ _n_  
-__casserole<sup>1</sup>__ _n_  
+__casserole<sup>1</sup>__ _n_ :two: Casserole comes from the Middle French cassa meaning "melting pan."  
 __casserole<sup>2</sup>__ _v_  
 __cassocks__ _n_  
 __cast a pall__  
@@ -2757,6 +2758,7 @@ __crud__
 __crude__ _adj_ :two::hammer: _Crude humor._  
 __crudity__ _"Please, excuse the crudity of the model," said Dr. Brown._  
 __cruel__ _His body looked cruel._  
+__cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or oil.  
 __cruffy__  
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
@@ -4563,6 +4565,7 @@ __forgive__ _Forgive me, master._
 __forgiving__ _adj_  
 __forgo__ _v_ :nine: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgone__  
+__fork over the dough__ _idiom_ To pay, generally unwillingly, a certain amount of money.  
 __fork__ _Gordon at fork in the road._  
 __forklift__  
 __forlorn__ _adj_ :nine: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
@@ -4645,6 +4648,7 @@ __French door__ _n_ :four: (French doors) A door, usually one of a pair, of ligh
 __Frenchman__  
 __frenzy__ :two::hammer:  
 __fresh__ _adj_ :two::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
+__fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
 __fretful__ :two::hammer:  
@@ -6024,7 +6028,7 @@ __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _adj_ :two::hammer: _In-house experts._  
 __in-laws__ _A room for the in-laws._  
-__inadvertent__ :two::hammer:  
+__inadvertent__ _adj_ :three: Happening by chance or unexpectedly or unintentionally.  
 __inadvertently__  
 __inane__ _adj_ :six::hammer:  
 __inanity__ _n_  
@@ -6049,6 +6053,7 @@ __incidentally__ _adv_ :four::hammer:
 __inclined__ _adj_  
 __incognito__  
 __incongruities__ _n_  
+__incongruous__ _adj_  
 __incongruously__  
 __inconsequential__  
 __inconspicuous__  
@@ -7325,6 +7330,7 @@ __minutia__ _n_ (minutiae) :two: A small or minor detail.
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
+__misadventure__ _n_ An instance of misfortune.  
 __miscarriage__ _n_  
 __miscarry__ _v_  
 __miscegenation__  
@@ -7718,7 +7724,7 @@ __no way around it__
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-holds-barred__  
 __no-no__ _n_ _informal_ :eight::hammer:  
-__no-questions-asked__ _The had a no-questions-asked policy._  
+__no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -8040,7 +8046,7 @@ __outgrowth__
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
 __outie__ _idiom_ _slang_ Out of here; leaving. _That's it, I'm not waiting any longer—I'm outtie! No way, this is too gross for me! I'm outtie._  
-__outing__ _n_ :nine: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
+__outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
 __outlander__  
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
@@ -8469,7 +8475,8 @@ __phylacteries__ :two::hammer:
 __phytoplankton__ _n_  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
-__Picayune__  
+__picayune<sup>1</sup>__ _adj_  
+__picayune<sup>2</sup>__ _n_ :two::hammer:  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick a fight__  
 __pick and roll__  
@@ -9262,6 +9269,7 @@ __ramble__ _v_
 __rambler__ _n_ :three::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
 __rambunctious__ _adj_ :three::hammer:  
+__ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
@@ -10448,7 +10456,7 @@ __shucking__ _v_ :two::hammer: _I know when you're shuckin' and jivin' me._ _Por
 __shudderings__ _n_  
 __shudders__ _v_ :two::hammer:  
 __shuffle off__  
-__shuffling__ _v_ :two::hammer:  
+__shuffle__ _v_ :three::hammer: (shuffling)  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>1</sup>__ _interj_  
@@ -11555,6 +11563,7 @@ __surreptitiously__ _adj_ :three::hammer:
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  
 __suspensers__ _Firehouse suspenders_  
+__sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __sutra__ _Reafing a sutra._  
 __svelte__ :two::hammer:  
@@ -12304,7 +12313,7 @@ __triptych__
 __triskelion__ _n_ (triskele)  
 __trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__  
-__trivet__ _n_  
+__trivet__ _n_ :two::mega::hammer:  
 __trodden down__ _v_  
 __trodden__  
 __troglodyte__ _n_ :two::hammer:  
@@ -12400,6 +12409,7 @@ __turnpike__
 __turnround__  
 __turnsole__ :pencil2:  
 __turnstile__ _n_ :two::hammer:  
+__turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
 __turpentine__ _n_  
 __turpitude__  
 __tushie__ _n_ :two::hammer:  
@@ -12596,6 +12606,7 @@ __unyielding__ _adj_ :three::hammer:
 __up and running__  
 __up and under__ A basketball move.  
 __up for grabs__ _idiom_ :three: Available for anyone.  
+__up to (one's) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: "When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp." It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
 __up yours__  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
