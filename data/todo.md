@@ -1,4 +1,15 @@
 
+__gyoza__ _n_  
+__panko__ _n_  
+__miso__ _n_  
+__wakame__ _n_  
+__edamame__ _n_  
+__yakisoba__ _n_  
+__sauce__ _n_  
+__teriyaki__ _n_  
+__masago__ _n_  
+__wasabi__ _n_  
+
 __shortlist__ _n_  
 __prevalence__ _n_  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
