@@ -2107,6 +2107,7 @@ __cinch__ _n_ :two::hammer:
 __Cincy__ Cincinnati?  
 __cinder__  
 __cinder-block town__  
+__Cinderella__ _n_ One that unexpectedly achieves recognition or success after a period of obscurity and neglect.  
 __cinephile__ :mega:  
 __cineplex__ _Sequels ruled the cineplex this weekend._  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ _idiom_ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
@@ -2972,7 +2973,7 @@ __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._  
-__dealbreaker__ _idiom_ :four: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :dart::three::hammer:  
@@ -3648,6 +3649,7 @@ __dye__ _v_ (dyes, dyed, dyeing) :pencil2:
 __dyke__ _n informal_ :four: A lesbian. _She wasn't a dyke, either._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dysplasia__ _Canine hip dysplasia._  
+__dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__  
 __e-blasts__  
@@ -3693,6 +3695,7 @@ __econ__ _The econ professor._
 __ectopic__ _adj_ _Ectopic pregnancy._  
 __ecumenical__  
 __ED prescription__  
+__edamame__ _n_  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
@@ -4136,6 +4139,7 @@ __fatigue__
 __fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
+__fatuous__ _adj_  
 __fatwa__ _n_ :two: Religious edict.  
 __fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
@@ -5312,6 +5316,7 @@ __GWB__ George Washington Bridge.
 __GWTW__ Gone With The Wind.  
 __gym-rat__ _He's a gym-rat type of guy._  
 __gymkhana__  
+__gyoza__ _n_  
 __gyrate__ _v_ :two::hammer:  
 __gyroscopic__ :mega: _Gyroscopic effect._  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
@@ -5507,6 +5512,8 @@ __headdress__ _n_ :two::hammer: _The pharaoh's headdress._
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
 __heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
+__heads-up<sup>1</sup>__ _n_ _informal_ Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
+__heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
 __headshot__ _n_ :dart:  
 __headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_  
@@ -7140,6 +7147,7 @@ __martyr<sup>1</sup>__ _n_ :pencil2:
 __martyr<sup>2</sup>__ _v_  
 __martyrdom__ :two::hammer:  
 __marzipan__ _n_ :two::hammer: :es: mazapán  
+__masago__ _n_  
 __mascot__ _n_ :two::hammer: (vs pet)  
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
@@ -7356,6 +7364,7 @@ __mishap__ :mega::two::hammer:
 __mishmash__ :two::hammer:  
 __mislay__ _v_ _He mislaid his keys._  
 __misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
+__miso__ _n_  
 __misogynist__  
 __misogyny__ :pencil2:  
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
@@ -8197,6 +8206,7 @@ __panderer__
 __pang__ _n_ (pangs) :four::hammer:  
 __panhandle__ _v_  
 __panhandling__  
+__panko__ _n_  
 __panned out__  
 __panoply__ :two::hammer:  
 __panorama__ _n_  
@@ -8899,7 +8909,7 @@ __pretense__
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __prevails__ _v_  
-__prevalence__ _n_ The total number of cases of a disease in a given population at a specific time.  
+__prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -9060,6 +9070,7 @@ __pullback__ :two::hammer:
 __pulled pork sandwich__  
 __pulley__ _n_ :pencil2::mega:  
 __pullout__ _Pullout couches._  
+__pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulpit__ _n_ :three::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
@@ -9964,6 +9975,7 @@ __sated__ _v_
 __Saturday__ :mega: /'sæÔødi, -deI/  
 __saturnine__ :two::hammer:  
 __satyr__  
+__sauce__ _n_  
 __saucerful__  
 __saucy__  
 __saunter__ _v_ :two::hammer: (sauntered) _Lynn sauntered to the edge of the stage._  
@@ -10402,7 +10414,7 @@ __shortcomings__ _n_
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
-__shortlist<sup>1</sup>__ _n_ :six::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
+__shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ _Shortly before 8 a.m. Tuesday._  
@@ -11499,6 +11511,7 @@ __suffragette__
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
 __sugar daddy__ _A sugar daddy relationship._  
+__sugarcoat__ _v_  
 __sugary yogurt__  
 __suicide vests__  
 __suit up__ _v_  
@@ -11854,6 +11867,7 @@ __tenure__
 __tenured__  
 __tepid__ _adj_ :five::hammer:  
 __tequila poppers__  
+__teriyaki__ _n_  
 __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
@@ -12866,6 +12880,7 @@ __wait up__ _phr v_ To not go to sleep until someone comes home.
 __waive__ _v_ :five::hammer: (waived)  
 __waiver__  
 __waivers__ _n_  
+__wakame__ _n_  
 __wake__ _n_ :four::hammer: _At wakes._ _Irish wake._  
 __wake-up call__ :two::hammer:  
 __walk in sunshine__  
@@ -12909,6 +12924,7 @@ __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warran
 __warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
 __warren__ _n_ _A warren of hares._  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
+__wasabi__ _n_  
 __wash out__ _phr v_ To wash the inside of something.  
 __wash up__ _phr v_ To wash your hands and face.  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
@@ -13316,6 +13332,7 @@ __ya'__ _?_ _Ya' think?_
 __yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)  
 __yadda yadda yadda__ _idiom_ And so forth, on and on; something boring and repetitive.  
 __yakety-yak__ _n_ Noisy talk.  
+__yakisoba__ _n_  
 __yakuza__  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  

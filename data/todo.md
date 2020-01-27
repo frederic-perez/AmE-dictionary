@@ -1,26 +1,4 @@
 
-__gyoza__ _n_  
-__panko__ _n_  
-__miso__ _n_  
-__wakame__ _n_  
-__edamame__ _n_  
-__yakisoba__ _n_  
-__sauce__ _n_  
-__teriyaki__ _n_  
-__masago__ _n_  
-__wasabi__ _n_  
-
-__shortlist__ _n_  
-__prevalence__ _n_  
-__pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
-__dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
-__Cinderella__ _n_  One that unexpectedly achieves recognition or success after a period of obscurity and neglect.  
-__sugarcoat__ _v_  
-__dealbreaker__ _idiom_ A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
-__fatuous__ _adj_  
-
-__heads-up<sup>1</sup>__ _n_ _informal_ Informal Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
-__heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
 __buckle up__ _idiom_  
 __digress__ _v_ To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __unapologetic__  
