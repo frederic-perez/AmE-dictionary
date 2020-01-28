@@ -26,6 +26,7 @@ __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain o
 __a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
 __a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
+__a falling out__ _idiom_ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
@@ -176,6 +177,7 @@ __aegis__
 __aerials__  
 __aero-hydroponics__  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
+__affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :five::hammer:  
 __affiliate__  
 __affix__ _v_  
@@ -279,6 +281,7 @@ __allegedly__
 __allergens__  
 __allies__ _n_  
 __allocation__ :two::hammer: _Allocation of resources._  
+__allograft__ _n_  
 __allotment__ :two::hammer:  
 __allotted__  
 __allowance__ _n_ :two::hammer:  
@@ -677,6 +680,7 @@ __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __
 __baddie__ _It's just what Bond fans want in a baddie._  
 __bade__ _v_ :five::hammer: _Bade farewell._ _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
+__badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge's intervention.  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it's very painful._ _She wants him so badly!_  
@@ -1481,7 +1485,7 @@ __buckaroo__ _n_ :two: A cowboy – used especially when talking to children. Th
 __bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
 __buckeyes__  
 __buckle down (to something)__ _v informal_ :seven::dart: To apply oneself with determination. To start to do something seriously: _I'd better buckle down to those reports._  
-__buckle up__ :two::hammer: _Bucking up a seat belt._  
+__buckle up__ _idiom_ :three::hammer: _Bucking up a seat belt._  
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ :two::hammer:  
 __buckskin__ _n_ :two::hammer: (buckskins)  
@@ -2465,6 +2469,7 @@ __consequently__
 __conservancies__  
 __consigliere__ _Our family consigliere._  
 __consoled__ _v_  
+__conspicuous consumption__ _idiom_ The lavish expenditure of money or acquisition of expensive items as a public display of one's wealth or financial success.  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __conspicuously__  
 __constituency__ _n_ :six::hammer: (constituencies)  
@@ -2503,7 +2508,7 @@ __contrition__ _n_ :three::hammer:
 __contrivance__ _n_ :three::hammer:  
 __contrive__ _v_ :two::hammer: (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
-__control freak__  
+__control freak__ _idiom_ :two::hammer:  
 __controversial__  
 __convalescing__ _v_  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
@@ -3186,7 +3191,7 @@ __differ__ _v_ :two::mega::hammer:
 __diffident__  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digit__ (finger?)  
-__digress__ _v_  
+__digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __digression__  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dikes__ :pencil2:  
@@ -4075,6 +4080,7 @@ __fairly__ :two::hammer: _I realized it fairly quickly._
 __fait accompli__  
 __fall from the sky__ _This trust doesn't fall from the sky._  
 __fall into place__  
+__fall off the back of a truck__ _idiom_ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone's) possession without being paid for.  
 __fall out of love__  
 __fall over__ _v_  
 __fall short__ _v_ :six: To fail to achieve a goal or target.  
@@ -4086,6 +4092,7 @@ __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fa
 __fallow ground__  
 __fallow__ :two::hammer:  
 __false friend__  
+__false modesty__ _idiom_ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one's abilities, or one's circumstance so as to encourage others to say the opposite.  
 __falter__ _v_  
 __faltered__ _v_  
 __fame__ _v_  
@@ -4626,7 +4633,7 @@ __frat house__
 __frat__ _A frat house._  
 __frats__ _n_  
 __fraudulent__ _adj_  
-__fraught__ _adj_ :eight: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :nine: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :two::hammer: _A bitter partisan fray._  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _The alliance between the groups frayed._  
 __frayed__ _adj_ __1__ (of fabrics or clothing) Unravelling at the edges from damage or wear. _A frayed suit._ __2__ (of temper, nerves, patience, etc) under great strain. _Frayed nerves._  
@@ -5957,6 +5964,7 @@ __immerse__ _v_
 __immigrated__  
 __immigration__ :mega:  
 __immobile__  
+__immortalize__ _v_ Make famous forever.  
 __imp__ _Its imp genius._  
 __impact__ _Sterling struggled to make an impact in the second half._  
 __impairment__  
@@ -6154,7 +6162,7 @@ __insolent__ _adj_
 __insolvency__  
 __insomniac__ _n_  
 __instability__ :two::hammer::pencil2:  
-__installment__ _n_ :two::dart: _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
+__installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
 __instill__ _v_ :five::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
 __institute__ _v_  
@@ -8032,7 +8040,7 @@ __out of this world__ _idiom_ Extremely good.
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
-__outbreak__ _n_ :three::hammer: (outbreaks)  
+__outbreak__ _n_ :four::hammer: (outbreaks)  
 __outburst__ _n_ :two::hammer:  
 __outcast__ _n_  
 __outcroppings__  
@@ -9447,7 +9455,7 @@ __redo__ :two::hammer:
 __redolent__ _adj_ :six::hammer: _His ceremony was redolent with tension._  
 __redos__  
 __redoubt__ :two::hammer:  
-__redoubtable__ _adj_ :astonished:  
+__redoubtable__ _adj_ :two::astonished::hammer:  
 __redress__ _To seek redress._  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
@@ -10817,6 +10825,7 @@ __snarl__ _adj_ _Snarled airport._
 __snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl<sup>2</sup>__ _v_ :nine: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
+__snatch the pebble__ _v idiom_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
 __snatch__ _v_  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
 __sneaker__ _Sneaker companies._  
@@ -11267,7 +11276,7 @@ __stem-winding__ _Stem-winding speeches by Mr. Trump._
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stench__ _The stench of human effluent._  
-__stenographer__ :two::hammer:  
+__stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __Step 'n' Fetch It routine__  
 __step up__ _v_ :four::hammer:  
@@ -11704,6 +11713,7 @@ __take aback__ _phr v_ To surprise or shock.
 __take by storm__  
 __take down__ _phr v_ To make notes, to write down information.  
 __take heart__  
+__take it away__ _informal_ To start playing or singing music.  
 __take on__ _phr v_ :two: To accept some work or responsibility.  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
@@ -12494,7 +12504,7 @@ __unabashedly__
 __unabated__ _adj_ :three::hammer:  
 __unalienable__  
 __unanimous__  
-__unapologetic__ _adj_ :eight::hammer:  
+__unapologetic__ _adj_ :nine::hammer:  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
@@ -12738,7 +12748,7 @@ __vaudeville__ _n_ :two::pencil2::hammer:
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
-__veer__ _v_  
+__veer__ _v_ :two::hammer:  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __veggies__ _n pl_ _slang_ Vegetables.  

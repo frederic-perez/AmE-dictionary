@@ -1,26 +1,4 @@
 
-__buckle up__ _idiom_  
-__digress__ _v_ To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
-__unapologetic__  
-__badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge's intervention.  
-__take it away__ _informal_ To start playing or singing music.  
-__stenographer__ _n_ A person skilled in the use of shorthand and in typing.  
-
-__veer__ _v_  
-__outbreak__ _n_  
-__allograft__ _n_  
-__snatch the pebble__ _idiom_ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
-__conspicuous consumption__ _idiom_ The lavish expenditure of money or acquisition of expensive items as a public display of one's wealth or financial success.  
-__redoubtable__ _adj_  
-__installment__ _n_ A part of a broadcast serial.  
-__control freak__ _idiom_  
-
-__fraught__ _adj_  
-__affiance__ _v_ To bind in a pledge of marriage; betroth.  
-__false modesty__ _idiom_ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one's abilities, or one's circumstance so as to encourage others to say the opposite.  
-__immortalize__ _v_ Make famous forever.  
-__a falling out__ _idiom_ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
-__fall off the back of a truck__ _idiom_ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone's) possession without being paid for.  
 __cantata__ _n_ A musical composition for voices and orchestra based on a religious text.  
 __perfect storm__ _n_ A critical or disastrous situation created by a powerful concurrence of factors.  
 
