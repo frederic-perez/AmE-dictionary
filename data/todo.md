@@ -1,27 +1,4 @@
 
-__cantata__ _n_ A musical composition for voices and orchestra based on a religious text.  
-__perfect storm__ _n_ A critical or disastrous situation created by a powerful concurrence of factors.  
-
-__gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
-__pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
-__canny__ _adj_ Astute; shrewd, knowing; sagacious.  
-__aplomb__ _n_ Imperturbable self-possession, poise, or assurance.  
-__bad egg__ _informal_ Someone who behaves in a bad or dishonest way.  
-__speak of the devil__ _v_ _idiom_ :dart: Mention someone's name who just then appears.  
-__emporium__ _n_ :astonished: A large retail store, especially one selling a great variety of articles.  
-__ravenous__ _adj_ Extremely hungry.  
-
-__black out__ _v_ (blacked out)  
-__rucksack__ _n_ A knapsack.  
-__humor__ _v_ _Do it to humor me._  
-__peck__ _n_ _informal_ A light quick kiss. _He gave her a peck on her cheek._  
-__slosh__ _v_ (sloshing)  
-__hush__ _n_  
-__pristine__ _They were in pristine condition._  
-__larder__ _n_  
-
-__aphorism__ _n_ :two: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
-__complacent__ _adj_  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand.  _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
 __ad-lib<sup>3</sup>__ _n_ Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  

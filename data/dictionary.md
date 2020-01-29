@@ -398,10 +398,10 @@ __Apart from that,__
 __apartheid__ _n_ :mega:  
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_  
-__aphorism__ :two::hammer:  
+__aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __aping__  
 __aplenty__  
-__aplomb__ _n_ :four: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
+__aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ :pencil2:  
 __apologetic__ _adj_ :four: Very sorry. _That's what I call apologetic hand raise._  
@@ -671,7 +671,7 @@ __backwoods__
 __bad actor__  
 __bad apple__ A troublemaker.  
 __bad blood__ :two::hammer:  
-__bad egg__ Someone who behaves in a bad or dishonest way.  
+__bad egg__ _n_ _informal_ :two: Someone who behaves in a bad or dishonest way.  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __bad-mouth__ _v_ _informal_ :three: Criticize (someone) behind their back.  
@@ -1060,7 +1060,7 @@ __bivouac__ _v_ :two::astonished::pencil2:
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black gold__  
-__black out__  
+__black out__ _v_ :two::hammer: (blacked out)  
 __black powder__  
 __black smoke__  
 __black-eyed peas__  
@@ -1753,9 +1753,10 @@ __canister__ _n_ :four::hammer: _Organic coffee canisters._
 __canned__ To get fired, to lose your job.  
 __cannibalization__ _n_  
 __cannolis__  
+__canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
 __cantankerous__  
-__cantata__ _n_ :two::hammer: _Batch cantatas._  
+__cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canted__ _v_ :two::hammer:  
 __canteens__  
 __canter up__ _v_  
@@ -2374,6 +2375,7 @@ __compatriot__
 __compel__ _v_ :five::hammer:  
 __compelling__ _adj_ :three: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
+__complacent__ _adj_  
 __completion__ _n_  
 __complex__ :mega:  
 __compliance__ :three::hammer: _Compliance guy._  
@@ -3807,6 +3809,7 @@ __emphasis__
 __emphasize__ _v_ :three::astonished::hammer:  
 __emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
 __Empire State__ The U.S. State of New York.  
+__emporium__ _n_ :astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
@@ -4767,6 +4770,7 @@ __gaff__ _n_
 __gaffe__ _n_  
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gaffes__ _n_ :two::hammer:  
+__gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
 __gag__ _The cases's gag order._  
 __gaggle__ _n informal_ :six: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._  
 __gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
@@ -5868,7 +5872,7 @@ __hummed__ _v_
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __hummus__ _n_ :mega:  
-__humor__ _v_ :two::hammer: _Just humor me._  
+__humor__ _v_ :three::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
 __Humpty Dumpty__  
@@ -5892,7 +5896,8 @@ __husbanded__ _v_ _Rob husbanded his money._
 __husbandry__ _n_ :three::hammer:  
 __hush money__ _A hush money case._  
 __hush up__ _phr v_ :three: To not let something become known. _The matter had been hushed up._  
-__hush__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
+__hush<sup>1</sup>__ _n_  
+__hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __hush-hush__ Very secret.  
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
@@ -6620,7 +6625,7 @@ __lapel__ _n_
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
 __larceny__ _n_ :six: Theft of personal property. :es: hurto  
-__larder__ _n_ :two::hammer:  
+__larder__ _n_ :three::hammer:  
 __largely__  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lark__ :two::hammer:  
@@ -8359,7 +8364,8 @@ __pecan__ :two::hammer: _Pecan pie._
 __peccadillo__ _n_ _(pl. peccadilloes or peccadillos)_ A small sin or fault.  
 __peccant__  
 __peck away__ _v_  
-__peck__ _v_ _Pecking away at the piano keys._  
+__peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on her cheek._  
+__peck<sup>2</sup>__ _v_ _Pecking away at the piano keys._  
 __peckerwood__  
 __pecking order__  
 __pedagogue__ _n_ :mega:  
@@ -8411,6 +8417,7 @@ __pep talk__ _Giving Chris Gethard a pep talk._
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pep<sup>2</sup>__ _v_ (pepping)  
 __Pepe the frog__ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
+__pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
 __pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
@@ -8423,7 +8430,7 @@ __percolate__ _v_
 __percolator__ _n_  
 __peremptory__  
 __perennial__ _adj_ :three::hammer:  
-__perfect storm__ _idiom_ :two::hammer:  
+__perfect storm__ _idiom_ :three: A critical or disastrous situation created by a powerful concurrence of factors.  
 __perfidious__  
 __perfidy__  
 __performative__  
@@ -8956,6 +8963,7 @@ __prioritize__ _v_
 __prise__ _n_  
 __prised out__ _v_  
 __prissy__ _adj_ :three::hammer:  
+__pristine__ _They were in pristine condition._  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
@@ -9365,7 +9373,7 @@ __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recom
 __rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
 __rave<sup>3</sup>__ _adj_  
 __raven-haired__  
-__ravenous__ _adj_ :four::hammer:  
+__ravenous__ _adj_ :five: Extremely hungry.  
 __ravine__ _n_ :two::hammer:  
 __raving__ _v_ :two::hammer:  
 __ravish__  
@@ -9832,7 +9840,7 @@ __rub<sup>2</sup>__ _v_
 __rubbings__ _n_  
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
 __rubble__ _n_ :two::hammer:  
-__rucksack__ _n_ :two::hammer:  
+__rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __rudder__ (airplane)  
 __rudderless__  
@@ -10985,6 +10993,7 @@ __spate__ _n_ :seven: /speɪt/ A large number of similar things coming in quick 
 __spatter__ _n_  
 __spay__ _v_ :three::hammer: (spayed)  
 __spd__  
+__speak of the devil__ _v_ _idiom_ :dart: Mention someone's name who just then appears.  
 __speak out__ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
