@@ -134,7 +134,10 @@ __acumen__ _n_ :four: :reminder_ribbon: acumen/acute/agudo (from Latin, ‘sharp
 __ad hoc__  
 __ad lib__ _adv_  
 __ad__ _n informal_ Advertisement.  
-__ad-lib__ _v_ :three::hammer: (ad-libs)  
+__ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
+__ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
+__ad-lib<sup>3</sup>__ _n_ :two: Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  
+__ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ :mega: /ā′də/  
 __adage__ :two::hammer:  
 __Adam's ale__ _slang_ Water.  
@@ -668,6 +671,7 @@ __backtrack__ _n_ :two::hammer:
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
 __backwater__ :two::hammer: _An academic backwater._  
 __backwoods__  
+__Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __bad actor__  
 __bad apple__ A troublemaker.  
 __bad blood__ :two::hammer:  
@@ -1937,7 +1941,7 @@ __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an at
 __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
-__cessation__  
+__cessation__ _n_ :two: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
 __cesspool__ _n_ :seven::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
@@ -2007,6 +2011,7 @@ __checker<sup>1</sup>__ _v_ _Checkered history._
 __checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
 __checkers__ _n_ :es: damas  
 __checklist__ (single word)  
+__checkmate__ _n_ _Checkmate comes from Arabic and Persian shat mat, or "the king is dead."_  
 __checkup__ _n_ :two::hammer:  
 __cheek by jowl__ :two::hammer:  
 __cheekboned__ _High-cheekboned newbies.;-_  
@@ -3833,7 +3838,7 @@ __end result__
 __end run__ :two::hammer:  
 __endangerment__  
 __endeared__  
-__endearing__ _adj_ :seven: Inspiring affection. _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
+__endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
 __endocrine__ _n_ :mega:  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
@@ -3931,8 +3936,7 @@ __eschews__ _v_
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__ _n_ :two::mega:  
 __espadrilles__ _n_  
-__espouse__ _v_  
-__espousing__ _v_ _Espousing warm ties with Russia._  
+__espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
 __essential__ _Special K - 8 essential vitamins._  
 __essentials__ _n_  
 __established__ _Established 1978._  
@@ -4274,6 +4278,7 @@ __filly__ A young female horse, especially one less than four years old. _The fi
 __film maker__ _n_ ?  
 __filthy__ Very dirty.  
 __finagle__ _v_ To obtain or achieve by indirect, usually deceitful methods.  
+__final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
@@ -4297,6 +4302,7 @@ __fire drill__ _n_ An exercise intended to train people in duties and escape pro
 __fire irons__  
 __fire retardant__  
 __fire sale__ _n_ :three::hammer:  
+__fire-breathing__ _idiom_ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
 __fire-eater__ _n_ A belligerent grouch.  
 __firebrand__  
 __firebug__ _n_  
@@ -4915,9 +4921,11 @@ __getaway day__
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :eight::hammer::mute:[g~~h~~astly]  
 __ghetto__ :mute:[g~~h~~etto]  
+__ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
 __ghoul__ _n_ :four::mute:[g~~h~~oul]:hammer:  
+__ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
 __gibbet__ _n_  
 __gibblets__ _n_  
 __gibed__ _v_  
@@ -5379,6 +5387,7 @@ __hamlet__ _n_
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
 __hamper__ _v_ :astonished::five::hammer: (hampered)  
+__hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster's.  
 __hamstring__ _n_ :three::hammer:  
 __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
 __hand blender__ _n_  
@@ -5896,9 +5905,9 @@ __husbanded__ _v_ _Rob husbanded his money._
 __husbandry__ _n_ :three::hammer:  
 __hush money__ _A hush money case._  
 __hush up__ _phr v_ :three: To not let something become known. _The matter had been hushed up._  
+__hush-hush__ Very secret.  
 __hush<sup>1</sup>__ _n_  
 __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
-__hush-hush__ Very secret.  
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
@@ -5919,6 +5928,7 @@ __hypertensive__ _To be hypertensive._
 __hypocrisy__  
 __hypocritical__ :two::hammer::pencil2:  
 __hypoglycemia__  
+__hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
 __hypothermia__  
 __hysteric__  
 __hysterical__  
@@ -8531,6 +8541,7 @@ __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piece
 __pied__  
 __pied-à-terre__ :two::hammer: (pieds-à-terre) _Use as pied-à-terre is allowed._  
 __pietist__  
+__pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
 __pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
@@ -8607,6 +8618,7 @@ __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._
 __pit<sup>2</sup>__ _v_ :two::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
 __pitch in__ _v_  
 __pitch-perfect__  
+__pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
 __pitch<sup>1</sup>__ _n_ :eight::hammer: (soccer) _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitchfork__  
@@ -9578,6 +9590,7 @@ __reprove__ _v_ To speak disapprovingly to (a person); rebuke or scold.
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
+__requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __rerun__ _n_ _Of course I've seen it! It's a rerun._  
 __rescind__ _v_ :two::hammer: (rescinded)  
 __reset__ _v_ :three::mega::hammer:  
@@ -10961,6 +10974,7 @@ __soup kitchen__ _n_
 __souped-up__ _v_  
 __souping up__ _v_  
 __sour grapes__ :dart: Pretending to dislike something you cannot have.  
+__source__ _v_  
 __soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  
 __soused__ _v_  
@@ -11385,6 +11399,7 @@ __stovepipe hat__
 __stow__ _v_  
 __stowage__  
 __stowaway__  
+__strabismus__ _n_ Abnormal alignment of one or both eyes.  
 __straddle__ _v_ :four::hammer: (straddles, straddling)  
 __strafed__ _v_  
 __strafes__ _v_  

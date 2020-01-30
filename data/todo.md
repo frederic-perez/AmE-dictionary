@@ -1,26 +1,4 @@
 
-__ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand.  _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
-__ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
-__ad-lib<sup>3</sup>__ _n_ Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  
-__ad-lib<sup>4</sup>__ _v_ To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._    
-__endearing__ _adj_ Inspiring affection or warm sympathy: _the endearing charm of a little child._  
-__hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
-
-__fire-breathing__ _idiom_ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
-__espouse__ _v_  
-__final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
-__strabismus__ _n_ Abnormal alignment of one or both eyes.  
-__checkmate__ _n_ _Checkmate comes from Arabic and Persian shat mat, or "the king is dead."_  
-__ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
-__requiescat__ _n_ A wish or prayer for the repose of the dead.  
-__ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
-
-__Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji :camel: may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
-__hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster's.  
-__pig emoji__ _n_ :pig: Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
-__source__ _v_  
-__pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
-__cessation__ _n_ A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __gimmick__ _n_  
 __halve__ _v_  
 
