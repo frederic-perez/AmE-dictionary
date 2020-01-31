@@ -1,4 +1,14 @@
 
+
+__ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
+__pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
+__nitty-gritty__  
+__a good turn__ _idiom_ An action that is beneficial to another person in some way.  
+__hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
+__neat__ _adj_  
+__snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
+__draconian__ _adj_ Extremely strict and severe.  
+
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __sly__ _adj_  
 __hurl__ _v_  
