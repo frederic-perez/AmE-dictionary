@@ -406,7 +406,7 @@ __aping__
 __aplenty__  
 __aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
-__apocryphal__ :pencil2:  
+__apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
 __apologetic__ _adj_ :four: Very sorry. _That's what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
@@ -1885,7 +1885,7 @@ __catch some Zs__ _idiom_ To go to sleep, to take a nap.
 __catch up__ _v_  
 __catch wind of something__ _idiom_ (get wind of something) To learn of something; to hear about something.  
 __catch wind__ _I don't know if you caught wond of it._  
-__catch__ _n_ (game)  
+__catch__ _n_ :two::hammer: (game) _What's the catch?_  
 __Catch-22__ _It's a real Catch-22 situation._  
 __catch-all__ _n_  
 __catch-up schedule__  
@@ -2044,7 +2044,7 @@ __chickpea__ _n_ :two::hammer: (chickpeas) _A handful of chickpeas._
 __chide__ _v_ :seven::hammer: (chided, chiding) _Whe chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
-__chilblain__ _n_ :three: (chilblains) An inflammation followed by itchy irritation on the hands, feet, or ears, resulting from exposure to moist cold. :es: sabañones  
+__chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_  
@@ -3054,7 +3054,7 @@ __deferment__ :two::hammer:
 __deferral__  
 __deferred__ _v_ :two::hammer:  
 __defiance__  
-__defibrillator__ _n_ An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
+__defibrillator__ _n_ :two: An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __defile<sup>1</sup>__ _n_ :three::hammer:  
 __defile<sup>2</sup>__ _v_  
 __definitely__  
@@ -3137,6 +3137,7 @@ __descent__ :mute:[des~~c~~ent]
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
+__desideratum__ _n_ Something desired as a necessity.  
 __design__ :mute:[desi~~g~~n]  
 __designer__ _n_ :es: _maquetador_  
 __desist__ _Desist from the practice of medicine._  
@@ -3203,6 +3204,7 @@ __digression__
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dikes__ :pencil2:  
 __dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
+__dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
 __dilemma__  
 __dill__ _n_ :two::hammer: _A dill pickle._  
 __dilutive__  
@@ -3708,6 +3710,7 @@ __ectopic__ _adj_ _Ectopic pregnancy._
 __ecumenical__  
 __ED prescription__  
 __edamame__ _n_  
+__edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
@@ -4083,6 +4086,7 @@ __fair and square__
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
 __fair__ _To be fair to Jim, he didn't cause the problem but inherited it._  
+__fair-weather fan__ _idiom_ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
 __fairly__ :two::hammer: _I realized it fairly quickly._  
 __fait accompli__  
 __fall from the sky__ _This trust doesn't fall from the sky._  
@@ -4180,6 +4184,7 @@ __feature-length__ _A feature-length animation._
 __featuring__  
 __feckless__ _adj_ :three::hammer:  
 __fecklessness__  
+__feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel for__  
 __feign__ :mute:[fei~~g~~n]  
@@ -4942,8 +4947,7 @@ __gills > packed to the gills__ _idiom_ :two: Completely full; teeming; having n
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
 __gimbal__ _A sensor on a pivoting gimbal._  
-__gimmick__  
-__gimmicks__ _No "get in the door" gimmicks._  
+__gimmick__ _n_ :two::hammer: (gimmicks) _No "get in the door" gimmicks._  
 __gimmicky__  
 __gimpy__ :two::hammer: _A gimpy angle._ _Gimpy gait._  
 __gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
@@ -5379,7 +5383,7 @@ __Halligan__ _They had Halligan bars for smashing windows._
 __hallmark__ _n_ :four::hammer:  
 __hallowed__ _adj_ :four::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
-__halve__ _v_  
+__halve__ _v_ :two::hammer:  
 __ham hocks__ _n_ :two::hammer:  
 __ham-and-egg__ _A ham-and-egg lawyer._  
 __hamdbill__ _n_  
@@ -5566,7 +5570,7 @@ __heathenism__
 __heather__  
 __heathy__  
 __heatwave__ _n_  
-__heave__ _v_ (heaving) :three::hammer: _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heave__ _v_ (heaving) :four::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavily__ _He was drinking heavily._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
@@ -6028,6 +6032,7 @@ __in any event,__ In any case: _In any event, the audience seemed pleased with y
 __in cahoots__  
 __in check__ _Keep those emotions in check._  
 __in deep water__ _idiom_ To be in a difficult situation.  
+__in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply "donkeys," of "donkey's ears" -where "ears" rhymes with "years" and alludes to the length of a donkey's ears.  
 __in droves__ _They will come in droves._  
 __in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
@@ -6036,7 +6041,7 @@ __in its own right__ _adv_ :three::hammer: (in my own right)
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in retrospect__ _idiom_ Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__  
-__in so far as__  
+__in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
 __in stitches__ _idiom_  
 __in the black__ _idiom_ :two: Not in debt, profitable.  
 __in the clear__ :two::hammer: _She is in the clear._  
@@ -6914,6 +6919,7 @@ __loft__ _v_
 __loftily__  
 __lofty__ _adj_ :six::hammer: _His lofty perch._  
 __loggerheads__  
+__logjam__ _n_  
 __loincloths__  
 __loins__ _n_ :two::hammer:  
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
@@ -7472,7 +7478,7 @@ __moral__
 __morale__ _n_ :two::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ :two::hammer:  
-__morbidity__ _n_ _COPD is responsible for considerable morbidity and mortality._  
+__morbidity__ _n_ :two: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._  
 __morcellator__  
 __more than meets the eye__  
 __morels__ _n_  
@@ -7647,7 +7653,7 @@ __nasion__ _n_
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __Nat Geo__ National Geographic.  
 __National Guard__  
-__nationwide__ _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
+__nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
 __nativism__ :two::hammer:  
 __NATO__ _North Atlantic Treaty Organization_  
 __nattering__  
@@ -7887,6 +7893,7 @@ __of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristic
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
+__off-guard__ _adj_ Not prepared or vigilant.  
 __off-kilter__ :two::hammer:  
 __off-price stores__  
 __off-putting__  
@@ -9175,6 +9182,7 @@ __putty knife__ :es: espátula
 __putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __pylon__ _n_  
+__pyogenic__ _adj_ :pencil2: Producing pus.  
 __pyres__ _n_  
 __pyrheliometer__ _n_  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
@@ -9279,6 +9287,7 @@ __radish__
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
+__ragbag__ _n_ :two: A motley assortment of things.  
 __rage__ _n_  
 __rage<sup>1</sup>__ _n_  
 __rage<sup>2</sup>__ _v_  
