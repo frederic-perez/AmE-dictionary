@@ -1,5 +1,14 @@
 
 
+__get in(to) (someone's) pants__ _idiom_ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
+__closed-cap·tioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
+__swindle__ _n_  
+__gerrymander__ _v_  
+__tight as a drum__ _idiom_ Taut or close-fitting; also, watertight.  
+__power strip__ _n_ A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
+__fatal__ _adj_  
+__quandary__ _n_  
+
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
 __pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __nitty-gritty__  
