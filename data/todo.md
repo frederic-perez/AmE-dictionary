@@ -1,5 +1,14 @@
 
 
+__long hours__ _idiom_  
+__peewee__ _n_  
+__pushover__ _n_  
+__summertime__ _n_  
+__ample__ _adj_  
+__grimy__ _adj_  
+__misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
+__feign__ _v_  
+
 __dinging__ _n_ (Sports medicine) Mild traumatic brain injury.  
 __swindle__ _v_  
 __PTO__ _abbr_ Parent Teacher Organization.  
