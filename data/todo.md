@@ -1,5 +1,14 @@
 
 
+__go out with the boys__ _idiom_  To go and socialize somewhere with a group of exclusively male friends.  
+__go out with a bang__ _idiom_ To finish or cease doing something in a spectacular, great, or exciting manner.  
+__go off in a huff__ _idiom_ To leave in an angry, belligerent, or vexed mood.  
+__delectation__ _n_  
+__anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
+__good-natured__ _idiom_ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
+__have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
+__pell-mell__  
+
 __get in(to) (someone's) pants__ _idiom_ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __closed-cap·tioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
 __swindle__ _n_  
