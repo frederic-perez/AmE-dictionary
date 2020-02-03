@@ -277,6 +277,7 @@ __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or d
 __all-nighters__ _n_  
 __all-out__ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
+__all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
 __allay__ _v_ :four::hammer: (allayed)  
 __allegation__ _n_  
 __alleged__  
@@ -332,7 +333,7 @@ __amount to nothing__ _idiom_ To result in no tangible or appreciable difference
 __amount to__ _idiom_ :two::hammer:  
 __amp up__ _phr v_ (amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
-__ample__ _adj_ :three: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
+__ample__ _adj_ :four: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
@@ -3075,6 +3076,7 @@ __deking__
 __dekulakization__ _n_  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ _adj_ :three::hammer:  
+__delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _Non-delegatable actions._  
 __deleterious__ _adj_ :five: Harmful often in a subtle or unexpected way.  
@@ -3224,7 +3226,8 @@ __ding up__ _v_ :two::hammer:
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
 __dingbat__ _n_  
 __dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
-__dinking__ _v_  
+__dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
+__dinking<sup>2</sup>__ _v_  
 __dinky__ _adj_ :three::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
 __dip__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
@@ -4187,7 +4190,7 @@ __fecklessness__
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel for__  
-__feign__ :mute:[fei~~g~~n]  
+__feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
 __feisty__ _adj_ :five::hammer:  
 __felled__ _v_ _He felled a giant._  
@@ -5029,7 +5032,10 @@ __go for it!__
 __go great lenghts__  
 __go native__ _You going native on me, Supercop?_  
 __go numb__ :two::hammer:  
+__go off in a huff__ _idiom_ To leave in an angry, belligerent, or vexed mood.  
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
+__go out with a bang__ _idiom_ To finish or cease doing something in a spectacular, great, or exciting manner.  
+__go out with the boys__ _idiom_  To go and socialize somewhere with a group of exclusively male friends.  
 __go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
 __go over the top__  
 __go over the wire__  
@@ -5200,6 +5206,7 @@ __grim__ _adj_ :four::hammer:
 __grime__ _n_ :three::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
+__grimy__ _adj_  
 __grinch__ _n_  
 __grind__ _Most of us are more focused on the daily grind._  
 __grinding half__ _"The people's business had come to a grinding half, and nothing was going to happen," he said._  
@@ -5266,7 +5273,7 @@ __grumblings__
 __grungy__ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
-__GTFO__ _idiom_ __1__ _rude slang_ An abbreviation for "get the fuck out," an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she's going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for "get the fuck out" used to express surprise at what one has just been told. Although the use of "fuck" can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
+__GTFO__ _abbr_ _idiom_ :two: __1__ _rude slang_ An abbreviation for "get the fuck out," an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she's going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for "get the fuck out" used to express surprise at what one has just been told. Although the use of "fuck" can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
 __guard__ :mute:[g~~u~~ard]  
 __guess__ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
@@ -5283,6 +5290,7 @@ __guile__ :two::hammer:
 __guileless__  
 __guillotine__ _n_ :mega:  
 __guilt__ :mute:[g~~u~~ilt]  
+__guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people. _I know these gossip magazines are trashy, but reading them on my commute home is my guilty pleasure!_  
 __guinea pig__ :mega:  
 __guise__  
 __guitar case__ :camera:  
@@ -6928,7 +6936,7 @@ __lollipop__ _n_ (lollypop)
 __lone wolf__ _They are lone wolf attacks._  
 __loner__ Someone who likes being alone.  
 __long haul__ _She's in for the long haul._  
-__long hours__ _The long hours you're putting in may not help._  
+__long hours__ _idiom_ :two::hammer: _The long hours you're putting in may not help._  
 __long shot__  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
@@ -7399,6 +7407,7 @@ __misogyny__ :pencil2:
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
 __misremember__ _v_ To remember incorrectly.  
 __miss the point__ :two::hammer:  
+__misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
 __misspell__ _v_  
 __misspend__ _v_ To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
@@ -8401,6 +8410,7 @@ __peered__ _adj_
 __peerless__  
 __peeved__ _v_  
 __peevishly__  
+__peewee__ _n_  
 __peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
 __pellet__ _n_  
@@ -9017,7 +9027,7 @@ __proliferation__ _n_
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __prominence__  
-__prominent__ _adj_ :five::hammer: _Package carrying a prominent warning._  
+__prominent__ _adj_ :six::hammer: _Package carrying a prominent warning._  
 __prominently__  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prompt__ _v_ :two::hammer: (prompting)  
@@ -9070,6 +9080,7 @@ __psychic__ :mute:[~~p~~sychic]
 __psychology__ :mute:[~~p~~sychology]  
 __psychopathic__  
 __pterodactyl__ :mute:[~~p~~terodactyl]  
+__PTO__ _abbr_ Parent Teacher Organization.  
 __PTSD__ _abbr_ :four: Post-traumatic stress disorder.  
 __pubes__ _n_  
 __public eye__  
@@ -9156,7 +9167,7 @@ __push back__ _phr v_
 __push puppet__ _n_ :camera:  
 __pushcart__ _A pushcart vendor._  
 __pushing up the daisies__ _idiom_ Dead and buried.  
-__pushover__ _n_ :six: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
+__pushover__ _n_ :seven: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy sales__  
 __pushy__ _I guess I was a little pushy._  
@@ -11568,7 +11579,7 @@ __sultanate__
 __sultry__ :two::hammer:  
 __summarily__ _adv_  
 __summary__ :two::hammer: _Summary deaths._ _Summary killings._  
-__summertime__ _n_ :two::pencil2::hammer:  
+__summertime__ _n_ :three::pencil2::hammer:  
 __summit__ _n_  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
@@ -11676,7 +11687,7 @@ __swim tube__
 __swimabout__  
 __swimming hole__ :two::hammer:  
 __swindle<sup>1</sup>__ _n_  
-__swindle<sup>2</sup>__ _v_ :two::hammer:  
+__swindle<sup>2</sup>__ _v_ :three::hammer:  
 __swindler__ _n_ :three::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
 __swipe<sup>1</sup>__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
@@ -12607,7 +12618,7 @@ __unfurl__ (unfurling) :two::hammer:
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungodly__ _adj_  
 __ungulate__  
-__unheard of__ _It's not unheard of for individual contributors to question their superiors' decisions._  
+__unheard of__ _idiom_ :two::hammer: _It's not unheard of for individual contributors to question their superiors' decisions._  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
 __unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  

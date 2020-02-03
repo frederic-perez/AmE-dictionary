@@ -1,26 +1,4 @@
 
-__long hours__ _idiom_  
-__peewee__ _n_  
-__pushover__ _n_  
-__summertime__ _n_  
-__ample__ _adj_  
-__grimy__ _adj_  
-__misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
-__feign__ _v_  
-
-__dinging__ _n_ (Sports medicine) Mild traumatic brain injury.  
-__swindle__ _v_  
-__PTO__ _abbr_ Parent Teacher Organization.  
-__GTFO__ _abbr_ _slang_ _rude_ An abbreviation for "get the fuck out."  
-__unheard of__ _idiom_  
-__all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
-__prominent__  
-__guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people. _I know these gossip magazines are trashy, but reading them on my commute home is my guilty pleasure!_  
-
-__go out with the boys__ _idiom_  To go and socialize somewhere with a group of exclusively male friends.  
-__go out with a bang__ _idiom_ To finish or cease doing something in a spectacular, great, or exciting manner.  
-__go off in a huff__ _idiom_ To leave in an angry, belligerent, or vexed mood.  
-__delectation__ _n_  
 __anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __good-natured__ _idiom_ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
