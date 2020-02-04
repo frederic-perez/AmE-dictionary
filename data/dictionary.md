@@ -30,6 +30,7 @@ __a falling out__ _idiom_ A severe quarrel or disagreement, especially one that 
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
+__a good turn__ _idiom_ An action that is beneficial to another person in some way.  
 __a great many__ _idiom_ A very large number of (people, things, etc.).  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
@@ -375,6 +376,7 @@ __anniversary__ :pencil2::mega:
 __annuity__ (annuities) :two::hammer:  
 __annum__ _n_  
 __anomic__  
+__anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anorak__ _n_ :two::hammer:  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ :mute:[ans~~w~~er]  
@@ -2224,6 +2226,7 @@ __clogging__ _v_
 __close > not even close__  
 __close call__ _n informal_ :three::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
+__closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
 __closure__  
@@ -3498,7 +3501,7 @@ __doze__ _v_
 __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __Draconian__ _adj_  
-__draconian__ :two::hammer:  
+__draconian__ _adj_ :three: Extremely strict and severe.  
 __draft__ _v_ _Drafting the Defense Ministry's basic policy._  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag queen__  
@@ -4153,6 +4156,7 @@ __fastness__
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
 __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
+__fatal__ _adj_  
 __Father Time__  
 __fatherland__ :astonished:  
 __fathom__ _v_ :four::hammer:  
@@ -4894,7 +4898,7 @@ __genuflects__ _v_
 __genuine__ :two::hammer::mega:  
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo wire__ :two::hammer:  
-__gerrymander<sup>1</sup>__ _v_ :five: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
+__gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
@@ -4906,6 +4910,7 @@ __get along with__ _idiom_ To have a good relationship with someone.
 __get away with__  
 __get closure__  
 __get enough__  
+__get in(to) (someone's) pants__ _idiom_ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get looks__ _v_ :two::hammer:  
 __get me started__ _Don't get me started!_  
 __get off on (something)__  
@@ -4929,6 +4934,7 @@ __getaway day__
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :eight::hammer::mute:[g~~h~~astly]  
 __ghetto__ :mute:[g~~h~~etto]  
+__ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
@@ -5097,7 +5103,7 @@ __good job__ _idiom_ An informal expression of praise for having done something 
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
 __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
-__good-nature__  
+__good-natured__ _idiom_ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
 __goodliest__ :two::hammer:  
 __goodly__  
 __goodness gracious__  
@@ -5418,6 +5424,7 @@ __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign
 __handsome__ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one's hands, especially inappropriately.  
 __handyman__ _n_ :three::hammer:  
+__hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hanger__ _n_ _You left some hangers at my place._  
 __hangnail__ :two::hammer:  
 __hangout__ :three::hammer: _This was a hangout._  
@@ -5502,6 +5509,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
+__have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
@@ -7679,7 +7687,7 @@ __naysayer__ _n_ :two::hammer:
 __NB__  
 __NCO__  
 __NDA__ _abbr_  
-__neat__ :two::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That's a neat idea, Jupe._  
+__neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That's a neat idea, Jupe._  
 __necessary__ :mega:  
 __necktie__ _n_  
 __necromancer__  
@@ -7759,7 +7767,7 @@ __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a pe
 __nitre__ _n_  
 __nits__ _Hair filled with nits._  
 __nitty__ _adj_ _informal_ Foolish; stupid.  
-__nitty-gritty__ _n_ :four: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
+__nitty-gritty__ _n_ :five: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
 __no early birds__ _No early birds allowed because it just wouldn't be fair to the other shoppers who waited until the opening time._ _If you have advertised "No Early birds" then do not allow any early birds to even browse through your sale before the open time._  
@@ -8413,6 +8421,7 @@ __peevishly__
 __peewee__ _n_  
 __peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
+__pell-mell__  
 __pellet__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
@@ -8490,6 +8499,7 @@ __pervasive__ _adj_ :three::hammer:
 __pesky__  
 __pester__ _v_  
 __pestilence__ _n_  
+__pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __peter out__  
 __petite__  
 __petroglyphs__ _Ancient Indian petroglyph._  
@@ -8878,7 +8888,7 @@ __powder blue__ Color?
 __powder keg__  
 __power bar__  
 __power play__  
-__power strip__  
+__power strip__ _n_ :two: A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
 __power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _"He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
 __powerbocking__ _n_ The act of powerbocking is jumping and running with elastic-like spring-loaded stilts.  
 __powerhouse__ :two::hammer:  
@@ -9218,7 +9228,7 @@ __Quaker__
 __quakes__ _v_  
 __qualify__ _v_  
 __qualm__ _n_ :eight: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
-__quandary__ _n_ :eight: Difficult dilemma. _All-Star managers face quandary._  
+__quandary__ _n_ :nine: Difficult dilemma. _All-Star managers face quandary._  
 __quarrelsome__  
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
@@ -10883,6 +10893,7 @@ __snifter__ _n_ :two::camera::dart::hammer:
 __snigger__ _n_  
 __sniggering__ _v_ :two::hammer:  
 __snipe__ _v_  
+__snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
 __snit__ _President Trump responded with a typical Twitter-snit._  
 __snitch__  
 __snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
@@ -11686,7 +11697,7 @@ __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swi
 __swim tube__  
 __swimabout__  
 __swimming hole__ :two::hammer:  
-__swindle<sup>1</sup>__ _n_  
+__swindle<sup>1</sup>__ _n_ :two::hammer:  
 __swindle<sup>2</sup>__ _v_ :three::hammer:  
 __swindler__ _n_ :three::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
@@ -12081,6 +12092,7 @@ __tie-up__ _n_
 __tiebreaking__ _A tiebreaking goal._  
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
 __tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
+__tight as a drum__ _idiom_ Taut or close-fitting; also, watertight.  
 __tight__ _adj_ _slang_ :two::mute:[ti~~gh~~t] Very good, excellent; cool; awesome.  
 __tight-knit__ _We are a tight-knit family._  
 __tighten your belt__ _idiom_ To spend less money.  

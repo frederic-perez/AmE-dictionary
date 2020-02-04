@@ -1,27 +1,4 @@
 
-__anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
-__good-natured__ _idiom_ Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
-__have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
-__pell-mell__  
-
-__get in(to) (someone's) pants__ _idiom_ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
-__closed-cap·tioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
-__swindle__ _n_  
-__gerrymander__ _v_  
-__tight as a drum__ _idiom_ Taut or close-fitting; also, watertight.  
-__power strip__ _n_ A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
-__fatal__ _adj_  
-__quandary__ _n_  
-
-__ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
-__pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
-__nitty-gritty__  
-__a good turn__ _idiom_ An action that is beneficial to another person in some way.  
-__hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
-__neat__ _adj_  
-__snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
-__draconian__ _adj_ Extremely strict and severe.  
-
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __sly__ _adj_  
 __hurl__ _v_  
