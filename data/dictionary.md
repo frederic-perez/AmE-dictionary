@@ -1878,6 +1878,7 @@ __catamounts__
 __catapulted__ _v_  
 __cataract__ _n_ :es: cataratas  
 __catarrh__ :two::hammer::pencil2:  
+__catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __catcall__ _v_  
 __catcalling__ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
@@ -3413,7 +3414,10 @@ __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of 
 __dolt__ :two::hammer:  
 __domicile__  
 __don__ _v_ Put on (an item of clothing).  
+__don't call us, we'll call you__ _idiom_ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
 __don't count your chickens before they hatch__ _idiom_ :dart::three: (don't count your chickens before they're hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
+__don't get me started__ _idiom_ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
+__don't go there__ _idiom_ Don't get into that topic of conversation; I don't want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
 __don't tell me it's raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
@@ -3793,7 +3797,7 @@ __Elvis has left the building__ _idiom_ :two: The show has come to an end. It's 
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
 __emaciated__ _adj_  
-__emancipate__ _v_  
+__emancipate__ _v_ :two: Free from slavery or servitude.  
 __emancipation__  
 __embankment__  
 __embargo__ _n_  
@@ -4025,6 +4029,7 @@ __explicate__ _v_
 __explication__ _n_  
 __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:  
 __exploit<sup>2</sup>__ _v_ :mega:  
+__explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __expose__ _v_  
 __expostulate__ _v_  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
@@ -4037,6 +4042,7 @@ __extenuate__ _v_ :astonished:
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :three::hammer: (extolled, extolling)  
 __extort__ _v_  
+__extra pair of hands__ _idiom_ Additional help or assistance provided by another person. _Don't you want to hire an extra pair of hands?_  
 __extraneous__  
 __extremes__  
 __extricate__ _v_ :six::hammer: (extricated) _Rescue crews extricated him from the car._  
@@ -5122,6 +5128,7 @@ __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._
 __GOP__  
 __Gordian knot__ :two::hammer:  
 __gorge__ _v_ :two::hammer: (gorging)  
+__gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
 __gorse__  
 __gory__  
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
@@ -5510,6 +5517,7 @@ __haunt__ _v_
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
+__have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
@@ -5917,7 +5925,7 @@ __hunky-dory__ _adj_ _slang_ :two: Fine, going well.
 __huramaki__ _n_  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
-__hurl__ _v_ :eight: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
+__hurl__ _v_ :nine: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurricane lamp__ _n_  
 __hurtle__ _v_ :two::hammer: (hurtling)  
@@ -6303,7 +6311,7 @@ __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or ir
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
-__jaunty__ _adj_ :eight: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaunty__ _adj_ :nine: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jawing__ _v_ _Stop jawing and get to work._  
 __jay__ _n_  
 __jaywalker__ _n_  
@@ -7780,6 +7788,7 @@ __no worries__ _idiom_ :three: No worries is an expression seen in Australian, B
 __no-holds-barred__  
 __no-no__ _n_ _informal_ :eight::hammer:  
 __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
+__Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
@@ -7823,6 +7832,7 @@ __nosebleed__ _n_ :two::hammer: (nosebleeds)
 __nostalgia__  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
 __not even close__ :dart:  
+__not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn't recognize John if I saw him up close. I don't know him from Adam._  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
@@ -8478,7 +8488,7 @@ __peripheral__
 __peristaltic__ _adj_  
 __periwinkles__  
 __perjury__ :two::hammer:  
-__perk__ _v_ _The mint perks everything up._  
+__perk up__ _idiom_ :two: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __Perkins booth__ _n_  
 __perks__  
 __permafrost__ :two::hammer:  
@@ -9748,6 +9758,7 @@ __ringlets__
 __ringmaster__  
 __ringside__ _n_ :two::hammer: _A ringside seat._  
 __rink__ _n_  
+__rinse and repeat__ _idiom_ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
 __riotous__ :two::hammer:  
 __rip your wiring out__  
 __rip__ _The bullets rip._  
@@ -10037,7 +10048,7 @@ __satyr__
 __sauce__ _n_  
 __saucerful__  
 __saucy__  
-__saunter__ _v_ :two::hammer: (sauntered) _Lynn sauntered to the edge of the stage._  
+__saunter__ _v_ :three: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sautoir__ _Sautoir necklace._  
 __savagery__  
@@ -10798,7 +10809,7 @@ __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it sl
 __slush__ _n_ :three::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
-__sly__ _adj_ :nine: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
+__sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ _informal_ A sly person.  
 __slyly__ :astonished: _She smiled slyly._  
 __smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
@@ -11247,6 +11258,7 @@ __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.
 __stance__ _n_ :six: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
 __stand a chance__  
+__stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
 __stand out__ _The dragons are notoriously varied in phisique--they'd stand out in the Mos Eisley Cantina._  
 __stand strong__  
 __stand tall__ :three::hammer: _She's standing tall and proud._  
@@ -11982,6 +11994,7 @@ __the order of the day__
 __the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
 __the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__ :two::hammer:  
+__the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the writing on the wall__  
 __thecracy__  
 __then again__ _idiom_ :eight: From another point of view; on the other hand; on second thought. An opposite possibility. _I think it'll arrive tomorrow; then again, it may not._ _I need a vacation. Then again, so do my coworkers._  
@@ -12661,6 +12674,7 @@ __unsettling__ _adj_ :two: Making one feel rather worried or uncertain. _An unse
 __unshackle__ _The two guards unshackled Sam at the door._  
 __unsheathe__ _v_ (unsheathed) _He unsheathed his sword._  
 __unsightly__ _Manning looking at unsightly ending._  
+__unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
 __unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._  
 __unsound__  
 __unspooling__ _Unspooling microphone cables._  

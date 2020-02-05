@@ -1,26 +1,4 @@
 
-__catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
-__sly__ _adj_  
-__hurl__ _v_  
-__saunter__ _v_ (sauntered) To walk in a casual manner; stroll.  
-__jaunty__ _adj_  
-__not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn't recognize John if I saw him up close. I don't know him from Adam._  
-
-__extra pair of hands__ _idiom_ Additional help or assistance provided by another person.  _Don't you want to hire an extra pair of hands?_  
-__unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
-__rinse and repeat__ _idiom_ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)   
-__gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
-__don't go there__ _idiom_ Don't get into that topic of conversation; I don't want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
-__the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
-__don't get me started__ _idiom_ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
-__don't call us, we'll call you__ _idiom_ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
-
-__emancipate__ _v_ Free from slavery or servitude.  
-__explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
-__stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
-__Noachian__ _adj_ :pencil2:  
-__perk up__ _idiom_ To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._  
-__have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __don't let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don't linger on your way out the door. Used sarcastically to express one's desire to see someone leave.  
 __droll__ _adj_ Curious or unusual in a way that provokes dry amusement.  
 
