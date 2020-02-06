@@ -392,6 +392,7 @@ __antibiotic<sup>1</sup>__ _n_
 __antibiotic<sup>2</sup>__ _adj_  
 __antic__  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
+__antidepressant__ _adj_  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :three::mute:[antiq~~u~~e]:hammer: _Antiques dealer._  
 __antsy__ _adj_ :three: Restless, impatient.  
@@ -1659,6 +1660,7 @@ __bygone__
 __bylaw__  
 __bylaws__  
 __byline__ _n_ :three::hammer: (bylines)  
+__bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __bystander effect__ _idiom_ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __C-rations__  
@@ -2293,7 +2295,7 @@ __cogency__
 __cognizant__  
 __cogwheel__  
 __cohesive__ :dart::two::hammer: _A more cohesive layout._  
-__cohort study__ _n_ A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
+__cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__  
@@ -2589,6 +2591,8 @@ __corrugate__ _v_
 __corrugated__  
 __corsages__  
 __cortisol__ _Cortisol is the primary stress hormone._  
+__coruscant__ _adj_ Shining or glittering.  
+__coruscate__ _v_  
 __cosset__ _v_  
 __cosseted__  
 __cost an arm and a leg__ _idiom_ To be extremely expensive.  
@@ -3418,6 +3422,7 @@ __don't call us, we'll call you__ _idiom_ _cliché_ Do not be in further contact
 __don't count your chickens before they hatch__ _idiom_ :dart::three: (don't count your chickens before they're hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
 __don't get me started__ _idiom_ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don't go there__ _idiom_ Don't get into that topic of conversation; I don't want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
+__don't let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don't linger on your way out the door. Used sarcastically to express one's desire to see someone leave.  
 __don't tell me it's raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
@@ -3572,7 +3577,7 @@ __drizzled__
 __drizzly__ :two::hammer:  
 __drogue__ _Drogue parachutes._  
 __droit du seigneur__  
-__droll__ _adj_ :four::hammer: _There is room for droll comedy._ _Droll comic moments._  
+__droll__ _adj_ :five: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._  
 __drone<sup>1</sup>__ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
 __drop (someone or something) like a hot potato__ _idiom_ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
@@ -3964,6 +3969,7 @@ __etymological__ _adj_ _Etymological dictionaries show how languages borrow word
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
 __eulogy__ _n_ :three::hammer:  
 __eunuch__ _n_  
+__eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __evanesce__ :mute:[evanes~~c~~e]  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
@@ -3976,6 +3982,7 @@ __every man for himself__ :dart:
 __every other week__ :two::hammer: _We don't win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
+__every single one__ _idiom_ Every individual person or item within a group, without exception.  
 __every so often__  
 __evict__ _v_ :nine: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ :two::hammer:  
@@ -5841,6 +5848,7 @@ __hopscotch__
 __horn buttons__ :camera:  
 __Horn of Africa__ :camera: Somalia.  
 __horologist__ _n_ Someone who makes or repairs watches.  
+__horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word "horse" is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
@@ -7627,6 +7635,7 @@ __mutt__ _n_ :five::hammer:
 __muttering__ _n_  
 __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
 __my ass__  
+__mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myriad__ _adj_ :three: Very many.  
 __myrrh__ _n_ :pencil2: :es: mirra  
@@ -7860,6 +7869,7 @@ __number of years__ _Winning the first playoff game in the organization in a num
 __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbers game__ _n_  
 __numbly__  
+__numinous__ _adj_  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v_ :three::hammer:  
@@ -8176,6 +8186,7 @@ __overlay__ _n_
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __overnight__ _The change will not happen overnight._  
 __overpass__ _n_  
+__overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
 __overripe__ :two::hammer::camera: _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
@@ -8537,6 +8548,7 @@ __Philly__ _n_ :three: Philadelphia
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
 __philtrum__  
+__phimosis__ _n_ :mega:  
 __phlebotomy__  
 __phlegm__ _n_ :three::hammer:  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
@@ -8981,7 +8993,7 @@ __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad dayl
 __prez__ _n informal_ (Prez) President.  
 __price point__ _The best in price point._  
 __price tag__  
-__pricey__  
+__pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick<sup>1</sup>__ _v_ :four::hammer: (pricked) _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __prick<sup>2</sup>__ _n_ _He already had the prick for it._  
 __prickled__ _v_ _Rob's skin prickled._  
@@ -9099,6 +9111,7 @@ __psychiatrist__ :mute:[~~p~~sychiatrist]
 __psychic__ :mute:[~~p~~sychic]  
 __psychology__ :mute:[~~p~~sychology]  
 __psychopathic__  
+__psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
 __pterodactyl__ :mute:[~~p~~terodactyl]  
 __PTO__ _abbr_ Parent Teacher Organization.  
 __PTSD__ _abbr_ :four: Post-traumatic stress disorder.  
@@ -9645,7 +9658,7 @@ __resistance__
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__  
 __respirator__ _n_  
-__respite__ _n_ :seven: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
+__respite__ _n_ :eight: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
@@ -10980,6 +10993,7 @@ __solid gold__
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_  
 __soliloquy__  
+__solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :three::hammer:  
 __sombreros__  
@@ -12600,7 +12614,7 @@ __undercurrent__
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_ :six::hammer: (undermined)  
+__undermine__ _v_ :seven::hammer: (undermined)  
 __underpin__ _v_ :two::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
@@ -12956,7 +12970,7 @@ __wainscoting__
 __waist band__  
 __waistcoat__ _n_  
 __wait for the other shoe to drop__ _idiom_ To wait for something bad to happen.  
-__wait up__ _phr v_ To not go to sleep until someone comes home.  
+__wait up__ _phr v_ :two: To not go to sleep until someone comes home.  
 __waive__ _v_ :five::hammer: (waived)  
 __waiver__  
 __waivers__ _n_  

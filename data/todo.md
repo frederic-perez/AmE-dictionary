@@ -1,26 +1,5 @@
 
-__don't let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don't linger on your way out the door. Used sarcastically to express one's desire to see someone leave.  
-__droll__ _adj_ Curious or unusual in a way that provokes dry amusement.  
 
-__pricey__ _adj_ Expensive. _Syn_ costly, dear  
-__every single one__ _idiom_ Every individual person or item within a group, without exception.  
-__respite__ _n_  
-__mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
-__cohort__ _n_ _Cohort study._  
-__undermine__ _v_  
-__antidepressant__ _adj_  
-__phimosis__ _n_ :mega:  
-
-__numinous__ _adj_  
-__psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
-__horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
-__solipsism__ _n_  
-__bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
-__eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
-__coruscate__ _v_  
-__coruscant__ _adj_ Shining or glittering.  
-__wait up__ _phr v_ To not go to sleep until someone comes home.  
-__overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
 __croak__ _v_ _slang_ __1__ To kill. __2__ To die.  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __blast__ _n_ _slang_ A great experience, a very enjoyable time.  
