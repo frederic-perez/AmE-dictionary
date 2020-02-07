@@ -1,27 +1,4 @@
 
-
-__croak__ _v_ _slang_ __1__ To kill. __2__ To die.  
-__my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
-__blast__ _n_ _slang_ A great experience, a very enjoyable time.  
-__the lion's share__ _idiom_ Major share of something.  
-__like water off a duck's back__ _idiom_ Without any apparent effect.  
-
-__minutiae__ _n pl_ Precise details; small or trifling matters.  
-__engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
-__have-not__ _n_ A person with few or no possessions.  
-__full as a tick__ _idiom_ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
-__Elvis has left the building__ _idiom_ Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
-__encore<sup>1</sup>__ _n_ __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand.  
-__encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
-__encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
-__short-handed__ _adj_ Lacking the usual or necessary number of workers, employees, or assistants.  
-__bling__ _n_ _slang_ Flashy jewelry worn to create the impression of wealth.  
-
-__money talks__ _idiom_ Rich people can get what they want.  
-__money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
-__bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
-__occasion__ _n_ :pencil2:  
-__vouch for__ _phr v_ To give personal assurances of someone.  
 __verge on__ _phr v_ To be very close to an extreme state or condition.  
 __beefy__ _adj_ _informal_ Muscular; brawny.  
 __gouge__ _v_  

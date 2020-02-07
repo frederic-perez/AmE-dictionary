@@ -1090,6 +1090,7 @@ __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no b
 __blanket__ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
 __blasé__  
+__blast__ _n_ _slang_ A great experience, a very enjoyable time.  
 __blatant__ :two::hammer:  
 __blatantly__  
 __blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
@@ -1120,7 +1121,7 @@ __blinders__ _n_
 __blindfold__ _n_  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
 __blindside<sup>2</sup>__ _v_ :three: (blind side, blindsided) To catch off guard; to take by surprise.  
-__bling__ _n_ :three::hammer:  
+__bling__ _n_ _slang_ :four: Flashy jewelry worn to create the impression of wealth.  
 __blink__ _v_ _There is no reason to blink._  
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
@@ -1242,6 +1243,7 @@ __bombing__ _v_
 __bombshell__ _n_  
 __bombsights__  
 __bon ton__  
+__bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
 __bona fide__ _adj_ :seven: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith.  
 __bonanza__ _n_ :two::hammer: _Banana bonanza._  
 __bondage__  
@@ -2741,8 +2743,7 @@ __criticize__ _v_
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
 __critique<sup>2</sup>__ _v_ :two::hammer:  
 __critters__ _n_ :three::hammer: _Garden critters._  
-__croak__ _v_  
-__croaked__  
+__croak__ _v_ _slang_ :three: (croaked) __1__ To kill. __2__ To die.  
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
 __crock__  
@@ -3798,7 +3799,7 @@ __eloquent__
 __elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
 __elusive__  
-__Elvis has left the building__ _idiom_ :two: The show has come to an end. It's all over.  
+__Elvis has left the building__ _idiom_ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
 __emaciated__ _adj_  
@@ -3846,7 +3847,9 @@ __enamel__ :two::hammer:
 __enamored__  
 __encampment__ _n_ :two::hammer:  
 __encompass__ _v_ :four::hammer: (encompasses)  
-__encore__ _n_ :five::hammer: _An encore performance._  
+__encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
+__encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
+__encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :four::hammer:  
@@ -3869,6 +3872,7 @@ __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of th
 __endurance__ _Endurance race._  
 __enduring__ _v_  
 __enervate__ _v_ To weaken.  
+__engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engulf__ _v_  
 __enjambments__  
@@ -4750,6 +4754,7 @@ __fudging__ _Fudging statistics._
 __fulcrum__ :two::hammer:  
 __fulfilling__  
 __fulgent__ _adj_ Shining brilliantly; radiant.  
+__full as a tick__ _idiom_ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent's arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
 __full of beans__ _idiom_ :two: To have a lot of energy.  
 __full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
@@ -5536,6 +5541,7 @@ __have someone pegged__ _She had me pegged on that, too._
 __have someone's back__  
 __have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
 __have your head in the clouds__ _idiom_ :two: To be separate from reality, to dream.  
+__have-not__ _n_ A person with few or no possessions.  
 __havoc__  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
@@ -6861,6 +6867,7 @@ __lightning__ _n_
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
 __like hell__  
 __like two peas in a pod__ _idiom_ Very similar.  
+__like water off a duck's back__ _idiom_ Without any apparent effect.  
 __likelier__  
 __likelihood__ _n_ :astonished: Probability.  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
@@ -7396,6 +7403,7 @@ __mint__ _adj_ Unspoilt, as if fresh from a mint.
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
 __minute__ :mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
+__minutiae__ _n pl_ Precise details; small or trifling matters.  
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
@@ -7479,8 +7487,10 @@ __momentum__
 __monad__  
 __Monday__ :mega: /'möndi, -deI/  
 __mondegreen__ _n_ :dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
+__money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __money on the hoof__  
 __money pit__  
+__money talks__ _idiom_ Rich people can get what they want.  
 __moneyed__  
 __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
@@ -7635,6 +7645,7 @@ __mutt__ _n_ :five::hammer:
 __muttering__ _n_  
 __muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
 __my ass__  
+__my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myriad__ _adj_ :three: Very many.  
@@ -7911,6 +7922,7 @@ __obstreperousness__
 __obtrude__ _v_  
 __obtuseness__  
 __obverse__ _The obverse hub of a coin._  
+__occasion__ _n_ :pencil2:  
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
 __OCD__ :two::hammer: _abbrev_  
@@ -10490,7 +10502,7 @@ __short hand__
 __short of (something)__ _Anything short of that._  
 __short__ _He typically wears shorts to work._  
 __short-charge__  
-__short-handed__ _adj_ :four::hammer: _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
+__short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__  
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcomings__ _n_  
@@ -12003,6 +12015,7 @@ __the final frontier__ (Space?) There is a turf war brewing in the final frontie
 __the final straw__  
 __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
 __the haves and the have nots__  
+__the lion's share__ _idiom_ Major share of something.  
 __the name of the game__  
 __the order of the day__  
 __the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
@@ -12936,6 +12949,7 @@ __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mob
 __votaries__  
 __vote in__ _phr v_ To choose somebody for a position by voting.  
 __vote off__ _phr v_ _Nikki was voted off first from Dancing with the Stars._  
+__vouch for__ _phr v_ To give personal assurances of someone.  
 __vouch__ _v_ :two::hammer:  
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
