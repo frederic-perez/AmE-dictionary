@@ -1,4 +1,14 @@
 
+
+__colonel__ :mega:  
+__victuals__ :mega:  
+__good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
+__ancillary__ _adj_  
+__muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, "little mouse."  
+__mussel__ _n_ A bivalve mollusk or clam. Gets its name from Latin musculus, "little mouse."  
+__a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
+__Juneteenth__ _n_  
+
 __verge on__ _phr v_ To be very close to an extreme state or condition.  
 __beefy__ _adj_ _informal_ Muscular; brawny.  
 __gouge__ _v_  
