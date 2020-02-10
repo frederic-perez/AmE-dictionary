@@ -36,6 +36,7 @@ __a lean patch__ _idiom_ A period of failure, decline, or poor performance or re
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
+__a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
 __a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
 __a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __A-list__  
@@ -345,7 +346,7 @@ __analyst__ :pencil2:
 __anathema__ _n_ :six: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
-__ancillary<sup>1</sup>__ _adj_ :two::mega::hammer:  
+__ancillary<sup>1</sup>__ _adj_ :three::mega::hammer:  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
 __and so it goes__  
@@ -876,7 +877,7 @@ __bee eater__ _n_ :es: abejaruco
 __beech__ _n_ :two::hammer:  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
-__beefy__ _adj_ :two: __1__ Of or like beef. __2__ Brawny; thickset; heavy. __3__ Obese.  
+__beefy__ _adj_ :three: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :three: Utah.  
 __beeline__  
 __beep-de-beep__  
@@ -1120,7 +1121,7 @@ __blind date__
 __blinders__ _n_  
 __blindfold__ _n_  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
-__blindside<sup>2</sup>__ _v_ :three: (blind side, blindsided) To catch off guard; to take by surprise.  
+__blindside<sup>2</sup>__ _v_ :four: (blind side, blindsided) To catch off guard; to take by surprise.  
 __bling__ _n_ _slang_ :four: Flashy jewelry worn to create the impression of wealth.  
 __blink__ _v_ _There is no reason to blink._  
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
@@ -2331,6 +2332,7 @@ __collocation__ _n_ (collocations)
 __collude__ _v_  
 __collusion__ _n_ :five::hammer:  
 __colocation > data colocation__  
+__colonel__ :mega:  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __colossus__  
@@ -3124,7 +3126,7 @@ __dengue fever__
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denizen__ _n_ :four::hammer: (denizens)  
-__denouement__ _n_ :three::hammer:  
+__denouement__ _n_ :four::hammer:  
 __denoument__  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __departed__  
@@ -4942,6 +4944,7 @@ __get over__
 __get set__ _v_  
 __get stops__ :two::hammer:  
 __get the axe__ _idiom_ To lose your job.  
+__get the knack of__ _idiom_ To learn how to do something competently or well after a certain period of practice or development.  
 __get the middle finger__  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get your ducks in a row__ _idiom_ To be well organized. _And then on top of it, I have to get my ducks in a row.._  
@@ -5074,6 +5077,7 @@ __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or s
 __go to the dogs__  
 __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
 __go to the wire__  
+__go under the hammer__ _idiom_ To be put up for or sold at auction.  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-ahead goal__  
 __go-for-broke__  
@@ -5117,6 +5121,7 @@ __goo__ _n informal_ :two: Sticky substance.
 __good egg__ _A heel who learns how to be a good egg._  
 __good for you__  
 __good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
@@ -5146,7 +5151,7 @@ __gory__
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :es: evangelio  
 __gossipy__ _adj_  
-__gouge__ _v_ :five::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
+__gouge__ _v_ :six::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __goulash__  
 __gourmand__  
@@ -6437,6 +6442,7 @@ __jumpsuit__ _n_ :two::hammer:
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _Conjunction junctions._  
 __juncture__ _n_ :five: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
+__Juneteenth__ _n_  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He's five years her junior._ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __juniper berries__  
 __juniper__  
@@ -7617,6 +7623,7 @@ __munificent__ _adj_
 __munition__ _n_ :two::hammer: (munitions) _The munitions factory._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
+__muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, "little mouse."  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
 __muse<sup>2</sup>__ _v_ :four::hammer: (mused) _He mused on his Facebook page about killing his wife._  
@@ -7634,7 +7641,7 @@ __muskrat__ _The muskrat season._
 __muslin__  
 __muss__ _No fuss, no muss._  
 __mussed__ _v_  
-__mussels__ _n_  
+__mussel__ _n_ :two: A bivalve mollusk or clam. Gets its name from Latin musculus, "little mouse."  
 __must have__  
 __mustache__ _n_ :two::pencil2::hammer: (moustache)  
 __mustachioed__  
@@ -9919,6 +9926,7 @@ __rub<sup>2</sup>__ _v_
 __rubbings__ _n_  
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
 __rubble__ _n_ :two::hammer:  
+__rube__ _n informal_ A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __rudder__ (airplane)  
@@ -10623,6 +10631,7 @@ __silver lining__ (See "every cloud has a silver lining.")
 __silver screen__  
 __Silver State__ Nevada.  
 __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
+__silver-tongued__ _adj_ Persuasive; eloquent: _silver-tongued salesman._  
 __silverplate__ _v_  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
@@ -10697,7 +10706,7 @@ __skirmish<sup>2</sup>__ _v_ :two::hammer:
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
 __skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
-__skittish__ _adj_ (skittishness) :six: _adj_ __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
+__skittish__ _adj_ (skittishness) :seven: _adj_ __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulduggery__  
@@ -11307,6 +11316,7 @@ __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chin
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
 __starchitect__  
 __stardom__ _n_ :two::hammer:  
+__stardust__ _n_ :two::dart: __1__ A dreamy romantic or sentimental quality or feeling. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
 __starfish__  
 __stargazing__  
 __stark__ _adj_ :five::hammer: _A stark reminder._  
@@ -12875,6 +12885,7 @@ __verberize__
 __verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
+__verge on__ _phr v_ To be very close to an extreme state or condition.  
 __verge__ _n_ :two::hammer:  
 __veritable__ _adj_ :two::hammer:  
 __vermicelli__  
@@ -12905,7 +12916,7 @@ __viciously__
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victualling__  
-__victuals__ :two::hammer:  
+__victuals__ _n_ :three::hammer::mega:  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::hammer:  
 __vile__  

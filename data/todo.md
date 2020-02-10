@@ -1,26 +1,4 @@
 
-__go under the hammer__ _idiom_ To be put up for or sold at auction.  
-__get the knack of__ _idiom_ To learn how to do something competently or well after a certain period of practice or development.  
-__denouement__  
-__stardust__ _n_ :dart: __1__ A dreamy romantic or sentimental quality or feeling. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
-__silver-tongued__ _adj_ Persuasive; eloquent: _silver-tongued salesman._  
-__stardust__ _n_ :dart:  
-__rube__ _n informal_ A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
-__blindside__ _v_  
-
-__colonel__ :mega:  
-__victuals__ :mega:  
-__good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
-__ancillary__ _adj_  
-__muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, "little mouse."  
-__mussel__ _n_ A bivalve mollusk or clam. Gets its name from Latin musculus, "little mouse."  
-__a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
-__Juneteenth__ _n_  
-
-__verge on__ _phr v_ To be very close to an extreme state or condition.  
-__beefy__ _adj_ _informal_ Muscular; brawny.  
-__gouge__ _v_  
-__skittish__ _adj_  
 __expatiate__ _v_  
 
 __redoubtable__ _adj_  
