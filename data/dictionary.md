@@ -218,6 +218,7 @@ __aggravators__ _n_ Bits of hair that whip and whirl loose around the face.
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aghast__ _adj_ :six::hammer:  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
+__agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
@@ -514,7 +515,7 @@ __as yet__ _idiom_ Up to the present time; up to now.
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascent__ :mute:[as~~c~~ent]  
-__ascertain__ _v_ :two::hammer:  
+__ascertain__ _v_ :three::hammer:  
 __ascetic__  
 __ascot__  
 __ascribe__ _v_ :five::hammer: (ascribed)  
@@ -2389,7 +2390,7 @@ __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
 __compel__ _v_ :five::hammer:  
-__compelling__ _adj_ :three: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
+__compelling__ _adj_ :four: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
 __complacent__ _adj_  
 __completion__ _n_  
@@ -2504,7 +2505,7 @@ __contempt__
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
 __contend__ _v_ :three::hammer: (contended)  
-__content__ :two::hammer:  
+__content__ _adj_ :three::hammer:  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
 __contested shot__ _n_ (vs uncontested shot)  
@@ -2945,7 +2946,7 @@ __dang__ _interj_ :two: Used to express dissatisfaction or annoyance. A euphemis
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ :two::hammer:  
-__dapper__ _adj_ :five: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
+__dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
 __daredevil__ :two::hammer: _The daredevils of the group._  
@@ -3081,7 +3082,7 @@ __defry__
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __dehydration__  
-__deigned__ _v_  
+__deign__ _v_ :two::hammer: (deigned)  
 __dejected__  
 __deking__  
 __dekulakization__ _n_  
@@ -3585,7 +3586,7 @@ __drone<sup>1</sup>__ _The drone of an outboard motor reverberated._
 __drone<sup>2</sup>__ _v_  
 __drop (someone or something) like a hot potato__ _idiom_ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
 __drop a bombshell__ _idiom_ To announce shocking news.  
-__drop by__ _v_  
+__drop by__ _phr v_ :two: To stop in for a short visit.  
 __drop dead__  
 __drop in the bucket__ _idiom_ :two: A very small or unimportant amount.  
 __drop out__  
@@ -4028,7 +4029,7 @@ __exodus__
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
-__expatiate__ _v_  
+__expatiate__ _v_ :two::hammer:  
 __expediency__  
 __expedient__  
 __expedite__ _v_ :dart::seven::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
@@ -4284,6 +4285,7 @@ __fifth column__ :astonished: _A fifth column preparing to rise up and join the 
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
 __fight club__  
+__fight or flight__ _idiom_ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
 __fight__ :mute:[fi~~gh~~t]  
 __figments__  
 __figuratively__ _adv_  
@@ -5950,7 +5952,7 @@ __hurricane lamp__ _n_
 __hurtle__ _v_ :two::hammer: (hurtling)  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__ _n_ :three::hammer:  
-__hush money__ _A hush money case._  
+__hush money__ _n informal_ :two: A bribe paid to keep something secret. _A hush money case._  
 __hush up__ _phr v_ :three: To not let something become known. _The matter had been hushed up._  
 __hush-hush__ Very secret.  
 __hush<sup>1</sup>__ _n_  
@@ -7143,6 +7145,7 @@ __malefic__ _adj_ Having or exerting a malignant influence.
 __malevolent__  
 __malfeasance__ :two::hammer:  
 __malfunction__  
+__malice__ _n_ __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
 __malign__ :mute:[mali~~g~~n]  
 __maligned__  
 __malingerer__ _n_  
@@ -7426,6 +7429,7 @@ __misconstrued__
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ :two::hammer:  
+__misdiagnose__ _v_ _A misdiagnosed patient._  
 __misdirection__ _n_ :three::hammer:  
 __miser__ _n_ :two::hammer: :es: avaro  
 __miserable__ _We are miserable._  
@@ -8356,6 +8360,7 @@ __parsimonious__ _adj_ :two::hammer: _Syn_ stingy, penurious
 __parsley__  
 __parsnip__  
 __parsonage__ :pencil2:  
+__part company__ _v_  
 __part-time<sup>1</sup>__ _adj_  
 __part-time<sup>2</sup>__ _adv_  
 __partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
@@ -9547,7 +9552,7 @@ __redo__ :two::hammer:
 __redolent__ _adj_ :six::hammer: _His ceremony was redolent with tension._  
 __redos__  
 __redoubt__ :two::hammer:  
-__redoubtable__ _adj_ :two::astonished::hammer:  
+__redoubtable__ _adj_ :three::astonished::hammer:  
 __redress__ _To seek redress._  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
@@ -9770,6 +9775,7 @@ __rifle__ _v_ :two::hammer: (rifling) _Rifling through his case._
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
 __rig__ _Horse and the red wagon were a good rig._  
 __rigged__  
+__rigging__ _v_ _There were revelations of widespread exam rigging against women._  
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
 __rightfully__ _Rightfully so._  
@@ -9995,7 +10001,7 @@ __sackful__
 __sacristan__  
 __sacristy__ _n_  
 __sacrosanct__  
-__sadden__ _v_  
+__sadden__ _v_ :two::pencil2::hammer: (saddened)  
 __saddle__ _A saddle of meat._  
 __sadism__ _n_  
 __sadistic__ _adj_  
@@ -10987,7 +10993,7 @@ __SoCal__ Southern California.
 __soccage__  
 __social ladder__  
 __societal__  
-__sociopaths__  
+__sociopath__ _n_ :two: A psychopath or a person with antisocial personality disorder.  
 __sod__ _n_  
 __soda jerk__ _n informal_ One who works at a soda fountain.  
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
@@ -11192,7 +11198,9 @@ __sprinkling__ _A sprinkling of luck._
 __sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprouting__  
 __spruce up__ _v_ :four: _idiom_ To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
-__spruce__ _n_ :four::hammer: :es: abeto  
+__spruce<sup>1</sup>__ _n_ :four::hammer: :es: abeto  
+__spruce<sup>2</sup>__ _v_  
+__spruce<sup>3</sup>__ _adj_  
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spud-faced__ :camera:  
@@ -11935,6 +11943,7 @@ __tedious__
 __tee up__ _v_  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
+__teem__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :nine: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
@@ -11951,6 +11960,7 @@ __telling__ _n_ :three::hammer: _In her telling, this "they" of hers is scaring 
 __tellingly__  
 __telltale__ :two::hammer:  
 __tellurian__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
+__temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper__ _v_ :four::hammer: (tempered)  
