@@ -106,6 +106,7 @@ __acerbic__ _adj_ :three::hammer:
 __acetate__ _n_  
 __Achilles heel__ A weakness or vulnerable point.  
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
+__Achilles' heel__ _n_ A seemingly small but actually crucial weakness.  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia (from the Greek 'nanos', meaning 'dwarf'), _slang_ lollypopguildophobia (after the trade union of munchkins in the Wizard of Oz)  
 __acid test__ _idiom_ Something that shows the true worth or value of something or someone.  
 __ACK__  
@@ -120,6 +121,7 @@ __acquiescence__ _n_ :three::hammer:
 __acquit__ _v_ :three::hammer: (acquitted) _If it doesn't fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
 __acreage__ :two::hammer:  
+__acrid__ _adj_  
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrophobia__  
@@ -3335,7 +3337,7 @@ __dissed__ _v_ _Rubio had dissed the Bible._
 __dissemble__ _v_ :three::hammer: _Syn_ pretend  
 __disseminate__ _v_  
 __dissension__  
-__dissent__ _n_ :two::hammer:  
+__dissent__ _n_ :three::hammer:  
 __disservice__ _n_ :three::hammer::pencil2:  
 __dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_  
@@ -3930,7 +3932,7 @@ __epiphany__
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
-__epitome__ _n_ :seven: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
+__epitome__ _n_ :eight: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ _adj_ :eight::hammer: (eponymously)  
 __equaled__ _v_  
@@ -3945,6 +3947,7 @@ __equipment__ _n_ _The equipment was out of date._
 __equipped__  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__  
+__equivocation__ _n_  
 __er__ :two::hammer: _It does look, er, distinctive._  
 __ergomania__ _n_ An excessive desire to work or exercise.  
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
@@ -4736,7 +4739,7 @@ __front and center__ :two::hammer:
 __front man__ _n_ :two::hammer: (frontman)  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
-__frostbite__ _n_ :three::hammer:  
+__frostbite__ _n_ :four::hammer:  
 __frosted glass__ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
@@ -5663,7 +5666,7 @@ __hemlock__
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemp__ _n_ :four::hammer: _Hemp plant._  
-__henchman__ _n_ :six::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :seven::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :six::hammer: (heralded) _They have a heralded arrival to Coney Island on the "bus of champions."_  
@@ -5926,6 +5929,7 @@ __huh__
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
 __humidor__ _n_  
+__humiliating__ _adj_ Causing awareness of your shortcomings.  
 __hummed__ _v_  
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
@@ -7108,7 +7112,7 @@ __Magic Marker__
 __magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
 __magpied__ _v_  
 __magpies__  
-__mahogany__ _n_ :four::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
+__mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
 __maiden__ :two::hammer: _Maiden flight._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ :pencil2: _Two great, mailed figures circling each other in the desert._  
@@ -7340,6 +7344,7 @@ __merriment__ _n_ :two:
 __merry-go-round__  
 __mesh strainer__  
 __mesosphere__  
+__mess around__ _idiom_  
 __mess up__ _phr v_  
 __messiah__ :mute:[messia~~h~~]  
 __Messrs.__ _Messrs. Reagan and Busch..._  
@@ -7607,7 +7612,7 @@ __mugger__ _n_ :two::hammer: (muggers)
 __muggles__ _n_ :two::hammer:  
 __muggy__ :two::hammer: _The weather was muggy._  
 __mulberry__ _n_ :three::hammer: (mulberries)  
-__mulch__  
+__mulch__ _n_ :two::hammer:  
 __mulching__ _v_  
 __mull__ _v_ :six::hammer: (mulled, mulling) _Cheney was mulling a Senate bid._  
 __mullah__ _n_  
@@ -7731,6 +7736,7 @@ __necessary__ :mega:
 __necktie__ _n_  
 __necromancer__  
 __necromancy__  
+__neediness__ _n_ The state of being needy; poverty.  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
 __needless to say,__  
 __needlestick__ :pencil2:  
@@ -7850,7 +7856,7 @@ __nonstaff jobs__
 __nonstop__  
 __noodle__ _n_ Brain. _Use your noodle._  
 __nookie__  
-__noose<sup>1</sup>__ _n_ :four::hammer: (noses)  
+__noose<sup>1</sup>__ _n_ :five::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ Northern California.  
 __normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy," about getting back to normal life after the war. Since then, the word has been used often instead of "normality." _It took me months to get back to normalcy._  
@@ -7919,7 +7925,7 @@ __obituary__
 __oblast__ _n_ :four: An administrative subdivision, or region, of a republic in the U.S.S.R.  
 __oblate__ _n_  
 __obligation__  
-__oblige__ _v_ :nine: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
+__oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
 __oblivion__ _n_ :two::hammer:  
 __oblivious__ _adj_ :four::hammer: _He is very oblivious._  
@@ -10122,7 +10128,7 @@ __scalpel__
 __scalper__ _n_ :four::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
 __scammer__  
-__scamper__ _v_ :three::hammer: (scampered, scampering) _Scampered into the van._  
+__scamper__ _v_ :four::hammer: (scampered, scampering) _Scampered into the van._  
 __scant__ _adj_ :seven: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scantily__ _adv_ :two::hammer: _A scantily clad spider._  
 __scapegoated__ _v_  
@@ -11291,9 +11297,8 @@ __stalward__
 __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stalwart<sup>2</sup>__ _n_  
 __stamina__ _n_ :three::hammer:  
-__stammer<sup>1</sup>__ _n_  
+__stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
 __stammer<sup>2</sup>__ _v_  
-__stammers__ _The consensus was shrugs and stammers._  
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp__ _Additional stamp duties went into effect last year._  
 __stamped__  
@@ -11892,6 +11897,7 @@ __tariff__ _n_ :six::hammer: (tariffs)
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnish__ _v_ :six::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
+__tarpaulin__ _n_ Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __tarpon__  
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
@@ -12138,7 +12144,7 @@ __tick prevention__
 __tick__ _v_ _Prices ticked up 0.2%._  
 __ticker tape__  
 __ticker__ _n_ :two: __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
-__tickle__ _v_ :four::hammer: _Does that tickle?_  
+__tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to death._  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
 __tickling__ _n_  
 __ticklish__ :two::hammer:  
@@ -12395,7 +12401,7 @@ __travesty__ _n_ :three::hammer: (travesties)
 __trawled__ _v_ :two::hammer:  
 __trawler__  
 __treacherous__ _adj_  
-__treachery__ _n_ :three::hammer:  
+__treachery__ _n_ :four::hammer:  
 __treacle__  
 __treacly__ :two::hammer:  
 __tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
@@ -12945,7 +12951,7 @@ __virtually__ _adv_ :astonished: Practically, almost.
 __visage__ _n_ __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
-__vista__ _n_ :two::hammer: (vistas)  
+__vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  

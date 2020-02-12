@@ -1,26 +1,4 @@
 
-__humiliating__ _adj_ Causing awareness of your shortcomings.  
-__mahogany__ _n_  
-__mess around__ _idiom_  
-__Achilles' heel__ _n_ A seemingly small but actually crucial weakness.  
-
-__treachery__ _n_  
-__equivocation__ _n_  
-__frostbite__ _n_  
-__mulch__ _n_  
-__tarpaulin__ _n_ Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
-__dissent__ _n_  
-__henchman__ _n_  
-__vista__ _n_  
-__tickle__ _v_ _They could tickle a man to death._  
-__acrid__ _adj_  
-__stammer__ _n_  
-__noose__ _n_  
-__scampeded__ _v_  
-__obliged__ _v_  
-
-__epitome__ _n_  
-__neediness__ _n_ The state of being needy; poverty.  
 __critique__ _v_  
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __edgy__ _adj_  
