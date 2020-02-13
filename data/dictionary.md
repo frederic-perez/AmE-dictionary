@@ -239,6 +239,7 @@ __ailerons__
 __ailing__ :three::hammer: _It is ailing the NFL._  
 __ailment__ _n_ :four: Mild illness.  
 __ails__ _v_ :two::hammer:  
+__aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __air vent__  
@@ -407,6 +408,7 @@ __anything goes__ :two::hammer:
 __apace__ _Concussion concerns continue apace._  
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
+__apartment__ _n_  
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_  
 __aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
@@ -1770,6 +1772,7 @@ __cannibalization__ _n_
 __cannolis__  
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
+__canopy__ _n_ _A dense canopy of snow._  
 __cantankerous__  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canted__ _v_ :two::hammer:  
@@ -2481,6 +2484,7 @@ __conjure__ _v_ :three::hammer: _Syn_ beg
 __conman__  
 __connivance__ _n_ :two: Agreement on a secret plot.  
 __connive__ _v_ :four::hammer: (connived, conniving)  
+__consciousness__ _n_  
 __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__  
 __consecutive__  
@@ -2746,7 +2750,7 @@ __crisscross__
 __critical condition__ _Critical to serious condition, fair condition._  
 __criticize__ _v_  
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
-__critique<sup>2</sup>__ _v_ :two::hammer:  
+__critique<sup>2</sup>__ _v_ :three::hammer:  
 __critters__ _n_ :three::hammer: _Garden critters._  
 __croak__ _v_ _slang_ :three: (croaked) __1__ To kill. __2__ To die.  
 __Croat__  
@@ -3011,7 +3015,7 @@ __debatable__
 __debauchery__  
 __debriefing__ _n_ :four::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
-__debt__ :mute:[de~~b~~t]  
+__debt__ _n_ :two::mega::mute:[de~~b~~t]:hammer:  
 __debunk__ _v_ :two::hammer:  
 __deburr__ _v_  
 __debut__ :mute:[debu~~t~~]  
@@ -3733,7 +3737,7 @@ __ED prescription__
 __edamame__ _n_  
 __edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
-__edgy__ _adj_ :three::hammer: _Aaron has got a style that's humble but edgy._  
+__edgy__ _adj_ :four::hammer: _Aaron has got a style that's humble but edgy._  
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
 __edict__ _n_ :two::hammer:  
@@ -5617,7 +5621,7 @@ __heathenism__
 __heather__  
 __heathy__  
 __heatwave__ _n_  
-__heave__ _v_ (heaving) :four::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavily__ _He was drinking heavily._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
@@ -5982,7 +5986,7 @@ __hypocrisy__
 __hypocritical__ :two::hammer::pencil2:  
 __hypoglycemia__  
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
-__hypothermia__  
+__hypothermia__ _n_ :two: Abnormally low body temperature.  
 __hysteric__  
 __hysterical__  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
@@ -6530,7 +6534,7 @@ __kike__ _Kike names._
 __kiki__  
 __kill a mockingbird__ _It was like killing a mockingbird._  
 __kill clock__ _v_  
-__kill<sup>1</sup>__ _v_ _Kill the music._  
+__kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._  
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
 __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
@@ -6677,7 +6681,7 @@ __landmark__ _adj_ _A landmark case in 1983._
 __landscape__ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
 __languish__ _v_ (languishing) :two::hammer:  
-__lank__ _Her hair hung in lank locks._  
+__lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
 __Laotian__  
@@ -7680,7 +7684,7 @@ __NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North
 __nab__ _v_ :five::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nadir__  
 __naevus__ _n_ (nevus)  
-__nag<sup>1</sup>__ _v_ :two::hammer:  
+__nag<sup>1</sup>__ _v_ :three::hammer:  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
 __nagging__ _adj_ :four: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
@@ -10067,7 +10071,7 @@ __sanguine__ _adj_ :six::hammer::astonished:
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
-__sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._  
+__sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._ _His energy was sapping._  
 __sap<sup>2</sup>__ _n_ :three::hammer: _A flat-sided sap stuck out of his back pocket._  
 __sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
@@ -10288,7 +10292,7 @@ __seedy__ _A seedy world._
 __seek out__  
 __seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
 __seen (or known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
-__seep__ _v_ :six: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Syn_ oze, trickle, exude, drip  
+__seep__ _v_ :nine: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
 __seepage__ :two::hammer:  
 __seer__ _n_  
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
@@ -10976,7 +10980,7 @@ __snowplows__ _n_
 __snowshoeing__ :two::hammer:  
 __snub-nosed__ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ _Snubbed nose._ :es: _desaire, repulsa_  
-__snub<sup>2</sup>__ _n_ :six: A deliberate slight or affront.  
+__snub<sup>2</sup>__ _n_ :seven: A deliberate slight or affront.  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snug__ _v_ :three::hammer:  
@@ -11164,7 +11168,7 @@ __splotched__ _v_
 __splotches__ _n_  
 __splurge<sup>1</sup>__ _n_ __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
 __splurge<sup>2</sup>__ _v_ :six::hammer: (splurged, splurging)  
-__splutter__ _v_ :four::hammer: (splutters, spluttered)  
+__splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
 __spluttering__ _A baby's spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
@@ -12173,7 +12177,7 @@ __tilapia__
 __tiller__  
 __tiltyard__  
 __time and (time) again__ _idiom_ :three::dart: Repeatedly; on multiple occasions.  
-__time capsule__ _n_ :four::hammer:  
+__time capsule__ _n_ :five::hammer:  
 __time frame__  
 __time line__ _Can it be done in that time line?_  
 __timeclock__ _Denver Movie Timeclock._  
@@ -12442,8 +12446,8 @@ __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or
 __trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
 __tricksy__  
 __trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
-__trifle__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
-__trifles__ _n_  
+__trifle<sup>1</sup>__ _n_ :two::hammer:  
+__trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trill__ _n_ :four::hammer: (trills) _I felt a trill of excitement._  
 __trilling__  
@@ -12463,7 +12467,7 @@ __trivet__ _n_ :two::mega::hammer:
 __trodden down__ _v_  
 __trodden__  
 __troglodyte__ _n_ :two::hammer:  
-__troll<sup>1</sup>__ _v_ _Kim may see these dual transitions as an opening to troll world powers._  
+__troll<sup>1</sup>__ _v_ :two::hammer: _Kim may see these dual transitions as an opening to troll world powers._  
 __troll<sup>2</sup>__ _n_ _He's a gifted hacker and vicious troll._  
 __trollop__  
 __troop__  

@@ -1,25 +1,4 @@
 
-__critique__ _v_  
-__aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
-__edgy__ _adj_  
-__nag__ _v_  
-__debt__ _n_ :mega:  
-__apartment__ _n_  
-__angst__ _n_  
-__troll__ _v_  
-__time capsule__ _n_  
-__kill__ _v slang_  
-
-__snub__ _n_  
-__trifle__ _n_  
-__heave__ _v_ _He felt his stomach heave._  
-__seeped__ _v_ :three::hammer: _Sweat seeped down his back._  
-__canopy__ _n_ _A dense canopy of snow._  
-__lank__ _adj_  
-__splutter__ _v_ (spluttered) _He spluttered back into consciousness._  
-__consciousness__ _n_  
-__hypothermia__ _n_ Abnormally low body temperature.  
-__sapping__ _v_ _His energy was sapping._  
 __picket fence__ _n_  
 __smouldered__ _v_ _The wood smouldered._  
 __muddled__ _v_  
