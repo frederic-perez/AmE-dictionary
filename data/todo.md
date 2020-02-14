@@ -1,5 +1,14 @@
 
 
+__sprinkle__ _n_  
+__in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
+__zero in__  
+__encompass__ _v_  
+__loggerhead__ _n_ A stupid person; these words are used to express a low opinion of someone's intelligence.  
+__willy-nilly__  
+__redux__  
+__rhinoceros__ _n_ :mega:  
+
 __signal__ _n_ :mega:  
 __holistic__ _adj_  
 __hunky-dory__  
