@@ -1,26 +1,4 @@
 
-__picket fence__ _n_  
-__smouldered__ _v_ _The wood smouldered._  
-__muddled__ _v_  
-__keen__ _adj_ _They were keen to recover his approval._  
-
-__through and through__  
-__distasteful__ _adj_  
-__lo and behold__ _idiom_  
-__ad lib__ _n_ (ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised.  
-__relate__ _v_  
-__indictment__ _n_ :mega:  
-__pottering__ _v_ _She is pottering around the house._  
-__ficus__ _n_ :mega:  
-__hundo__ _n_ _slang_ __1__ Hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
-__back-to-back__ _adj_ _informal_ Consecutive.  
-__shudder__ _v_  
-__paywall__ _Behind the paywall._  
-
-__abetting__ _v_  
-__trudged__ _v_  
-__muzzle__ _n_ _The muzzle of the gun._  
-__sideline__ _v_  
 __complacent__ _adj_ Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __commendation__ _n_ _He received two commendations._  
 __swoop__ _n_  

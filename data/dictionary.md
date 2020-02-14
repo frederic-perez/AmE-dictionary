@@ -56,7 +56,7 @@ __abatement__ _n_ :two::hammer: _A tax abatement._
 __abattoir__ _n_ Slaughterhouse.  
 __aberrant__ _adj_  
 __aberration__ _n_  
-__abet__ _v_ :four: (abetted, abetting) To help someone do something wrong or illegal.  
+__abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
 __abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
@@ -136,11 +136,10 @@ __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, promp
 __acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :reminder_ribbon: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
-__ad lib__ _adv_  
 __ad__ _n informal_ Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
-__ad-lib<sup>3</sup>__ _n_ :two: Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  
+__ad-lib<sup>3</sup>__ _n_ :four: (ad lib, ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ :mega: /ā′də/  
 __adage__ :two::hammer:  
@@ -663,7 +662,7 @@ __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to 
 __back-heel pass__  
 __back-of-house__ _Back-of-house technology._  
 __back-office__ _Back-office analytics._  
-__back-to-back__ _adj_ :four: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
+__back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backbencher__ :three::hammer: _A Tory backbencher._  
 __backcountry__ _n_ _Utah ski resorts offering backcountry adventures._  
@@ -3353,6 +3352,7 @@ __dissolution__
 __dissonance__  
 __dissuade__ _v_ :pencil2:  
 __dissuaded__  
+__distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__ :two::hammer:  
 __distinctly__  
@@ -4273,6 +4273,7 @@ __fiber__
 __fiberglass__  
 __fibrillation__ _n_  
 __fickle__ :two::hammer: _A fickle ally._  
+__ficus__ _n_ :mega:  
 __fiddle-faddle__  
 __fiddled__ _v_  
 __fidget spinner__ _n_  
@@ -5946,7 +5947,7 @@ __humpty-dumpty__
 __Humpty-Dumpty__ :two::hammer:  
 __Humvee__ _n_ :two::hammer:  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
-__hundo__ _n_ _informal_ A hundred.  
+__hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
 __hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
@@ -6160,7 +6161,7 @@ __indelible__ _adj_ :six::hammer::pencil2: _An indelible mark._
 __indenture__ _v_  
 __indentured__  
 __indict__ _v_ :six::hammer: (indicted :mega:)  
-__indictment__ _n_ :four::hammer:  
+__indictment__ _n_ :five::hammer::mega:  
 __indigenous__ _Indigenous people._  
 __indiscreet__  
 __indispensable__  
@@ -6946,7 +6947,7 @@ __living wills__
 __lizard brain__ :two::hammer: (lizard brains)  
 __llama__  
 __llilacs__ _n_  
-__lo and behold__  
+__lo and behold__ _idiom_ :two::hammer:  
 __loaded question__  
 __loaf__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
 __loafered__  
@@ -7601,7 +7602,7 @@ __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, a
 __muckrake__  
 __mudcat__ _n_  
 __muddle through__ _phr v_ To manage to do something despite difficulties.  
-__muddle__ _v_ :four: Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
+__muddle__ _v_ :five: (muddled) Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mudslide__ _n_ :two::hammer:  
 __mudslinging__ :two::hammer:  
@@ -7663,7 +7664,7 @@ __musty__
 __mutism__ _n_  
 __mutt__ _n_ :five::hammer:  
 __muttering__ _n_  
-__muzzle__ _n_ :three: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park.  
+__muzzle__ _n_ :four: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
 __my ass__  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
@@ -8438,7 +8439,7 @@ __payback__ _n_ :two::hammer:
 __paydirt__ :two::hammer:  
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
-__paywall__ _n_ :three: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
+__paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
 __PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
@@ -8607,6 +8608,7 @@ __pick-six__ _Football_
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pick-up__ _The restaurant was little more than a pick-up joint._  
+__picket fence__ _n_  
 __pickets__ _n_  
 __picklock__ _v_  
 __pickoff__ _A pickoff throw to first base._  
@@ -8931,6 +8933,7 @@ __potent__ _adj_
 __pothole__ _n_ :three::hammer: (potholes)  
 __potholed__ _The island's potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
+__pottering__ _v_ _She is pottering around the house._  
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __pouch__ _n_  
 __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
@@ -9619,6 +9622,7 @@ __rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)
 __rejoinder__ _n_ :two::hammer:  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ _adj_ :three::hammer:  
+__relate__ _v_  
 __relay__ _A relay race._  
 __relegation__ _Sports_  
 __relent__ _v_ :three::hammer: (relented)  
@@ -10584,8 +10588,8 @@ __shrubbery__
 __shtick__ _n_ :three: (also shtik) _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
 __shucking__ _v_ :two::hammer: _I know when you're shuckin' and jivin' me._ _Portraits of a man shucking corn._  
+__shudder__ _v_ :three::hammer: (shudders)  
 __shudderings__ _n_  
-__shudders__ _v_ :two::hammer:  
 __shuffle off__  
 __shuffle__ _v_ :three::hammer: (shuffling)  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
@@ -10613,9 +10617,8 @@ __sidearm__
 __sidebar__ _n_  
 __sidecar shovelhead__  
 __sided__ _Installed in all sided (vs brick) homes._  
-__sideline__  
-__sidelined__ _The first baseman is expected to be sidelined for seven to 10 days._  
-__sidelines__ _n_ :three: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
+__sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
+__sideline<sup>2</sup>__ _v_ :two::hammer: (sidelined) _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidestep__ _v_ :four::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
@@ -10909,7 +10912,7 @@ __smorgasbord__
 __smote__ _v_  
 __smothered__  
 __smothering__  
-__smoulder__ _v_ :two: (smouldering) To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
+__smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
 __smouldering__ _adj_  
 __smudge__  
 __smudges__  
@@ -12100,7 +12103,7 @@ __thromboembolism__ _n_
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
-__through and through__ :two::hammer: _It's a flagship through and through._ _She was a class act through and through._  
+__through and through__ :three::hammer: _It's a flagship through and through._ _She was a class act through and through._  
 __through thick and thin__ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throughfare__ _n_ Another word for thoroughfare.  
@@ -12490,8 +12493,7 @@ __troy__
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
 __truculent__ :two::hammer:  
-__trudge__ _v_ :seven::hammer: (trudging)  
-__trudging in__ _v_  
+__trudge__ _v_ :nine::hammer: (trudged, trudging)  
 __true colors__  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
