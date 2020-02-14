@@ -1,5 +1,15 @@
 
 
+__signal__ _n_ :mega:  
+__holistic__ _adj_  
+__hunky-dory__  
+__yarn__ _n_ _Nylon yarn._  
+__tine__ _n_  
+__weed__ _v_  
+__furrow__ _n_  
+__martyr<sup>1</sup>__ _n_ :pencil2:  
+__martyr<sup>2</sup>__ _v_ :pencil2:  
+
 __holistic__ _adj_  
 __piece of work__ _idiom_ A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._  
 __ambulation__ _n_  
