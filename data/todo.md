@@ -1,4 +1,14 @@
 
+
+__holistic__ _adj_  
+__piece of work__ _idiom_ A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._  
+__ambulation__ _n_  
+__ambulate__ _v_ To walk from place to place; move about.  
+__canard__ _n_ An unfounded or false, deliberately misleading story.  
+__grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
+__grasp in the dark__ _idiom_ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
+__assiduity__ _n_ Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
+
 __complacent__ _adj_ Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __commendation__ _n_ _He received two commendations._  
 __swoop__ _n_  
