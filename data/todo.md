@@ -1,5 +1,14 @@
 
 
+__homecoming__  
+__safeword__ _n_  
+__wetback__ _n_ _slang_ (offensive)  
+__salmon__ _n_ :mega:  
+__training wheels__ _n_  
+__ADD__ _abbr_ Attention deficit disorder.  
+__browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I'm just looking, I'm browsing._  
+__self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
+
 __sprinkle__ _n_  
 __in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
 __zero in__  
