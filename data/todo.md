@@ -1,5 +1,13 @@
 
 
+__Mardi Gras__ _n_ :mega:  
+__anal bleaching__ _n_  
+__best in show__  
+__jettison__ _v_ To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._  
+__ordnance__ _n_  
+__libel__ _n_ :es: calumnia  
+__berserk__  
+
 __walk on water__ _idiom_ To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __every so often__ _adv_ Occasionally. _Every so often she visits her father._  
 __guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
