@@ -1,5 +1,14 @@
 
 
+__walk on water__ _idiom_ To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
+__every so often__ _adv_ Occasionally. _Every so often she visits her father._  
+__guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
+__walkaway__ _n_ An easy victory.  
+__holistic__ _adj_  
+__piece of work__ _idiom_ A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._  
+__ambulation__ _n_  
+__ambulate__ _v_ To walk from place to place; move about.  
+
 __homecoming__  
 __safeword__ _n_  
 __wetback__ _n_ _slang_ (offensive)  
