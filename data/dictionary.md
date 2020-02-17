@@ -320,6 +320,7 @@ __ambitious__
 __ambivalence__  
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
+__ambulation__ _n_  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
 __ameliorate__ _v_  
 __amends__  
@@ -345,6 +346,7 @@ __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drink
 __amusement park__  
 __an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __anachronism__  
+__anal bleaching__ _n_  
 __analyst__ :pencil2:  
 __anathema__ _n_ :six: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
@@ -978,7 +980,7 @@ __bereft<sup>1</sup>__ _adj_ :three::hammer:
 __bereft<sup>2</sup>__ _v_  
 __beret__ :mute:[bere~~t~~]  
 __berm__ _n_  
-__berserk__ _adj_ :six: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
+__berserk__ _adj_ :seven: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
 __beseech__ _v_ :two::hammer: _Syn_ entreat  
@@ -991,6 +993,7 @@ __besotted__ _adj_ :three::hammer:
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
+__best in show__  
 __best__ _v_ :two::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
@@ -3997,7 +4000,7 @@ __every other week__ :two::hammer: _We don't win bigger events every other week.
 __every other__ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
-__every so often__  
+__every so often__ _adv_ :two: Occasionally. _Every so often she visits her father._  
 __evict__ _v_ :nine: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ :two::hammer:  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn't evince surprise._  
@@ -5329,6 +5332,7 @@ __guidet__ _Two guidettes._
 __guile__ :two::hammer:  
 __guileless__  
 __guillotine__ _n_ :mega:  
+__guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilt__ :mute:[g~~u~~ilt]  
 __guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people. _I know these gossip magazines are trashy, but reading them on my commute home is my guilty pleasure!_  
 __guinea pig__ :mega:  
@@ -5808,7 +5812,7 @@ __holdout__ :two::hammer: _A weeklong holdout._
 __holdover__  
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__ _adj_ :three::hammer:  
+__holistic__ _adj_ :four::hammer:  
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -5821,7 +5825,7 @@ __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!
 __hombre__ _n_ _informal_ An informal term for a youth or man.  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
-__homecoming__ _She had been homecoming queen._  
+__homecoming__ :two::hammer: _She had been homecoming queen._  
 __homegoods__  
 __homeground__ _adj_ (home-ground) __1__ Grown or produced in one's own garden or country. :es: de cosecha propia __2__ Belonging to one's own particular locality or country. _Home-grown talent._  
 __homely__ _adj_ :three::hammer:  
@@ -6366,7 +6370,7 @@ __jersey snagging__ _football_
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
 __jetliners__  
-__jettison__ _v_ :five::hammer: (jettisoned, jettisoning) _Seven seconds later the aeroshell was jettisoned._  
+__jettison__ _v_ :six: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
 __jetty__ :two::hammer:  
 __jewelery__ (jewelry)  
 __Jewess__  
@@ -6850,7 +6854,7 @@ __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful
 __liable__ _He is liable to be mistaken._  
 __liaison__ :two::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
-__libel__ _n_ :four::hammer: _Libel laws._  
+__libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :seven: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
@@ -7204,6 +7208,7 @@ __marauder__ :two::hammer:
 __marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
+__Mardi Gras__ _n_ :mega:  
 __mare__ _n_  
 __margarine__ _n_  
 __Mariel felons__  
@@ -8094,7 +8099,7 @@ __order around__ _phr v_ To give commands to someone in a bossy way.
 __orderliness__ _n_ __1__ The quality of appreciating method and system. __2__ A condition of regular or proper arrangement; _he put his desk in order_; _the machine is now in working order._  
 __orderly__ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
-__ordnance__ _n_ :three::pencil2::hammer:  
+__ordnance__ _n_ :four::pencil2::hammer:  
 __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
 __organization__ _n_ :mega:  
 __originally__ _adv_ :dart:  
@@ -8619,7 +8624,7 @@ __picture-perfect__ _The picture-perfect porch._
 __piddle__ _v_  
 __piddling__ _He had killed several hours with footless piddling._  
 __pie in the sky__ :two::hammer:  
-__piece of work__ _You're a piece of work, Bertrand._  
+__piece of work__ _idiom_ :two: A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._ _You're a piece of work, Bertrand._  
 __piece__ _n_ _A piece of cake._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
 __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
@@ -10026,7 +10031,7 @@ __safeguard__
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
-__safeword__ _n_  
+__safeword__ _n_ :two::hammer:  
 __saffron__ _n_ :three::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
@@ -10043,7 +10048,7 @@ __sales force__
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
 __sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._ _A sallow face._ _A sallow complexion._  
-__salmon__ _n_ :mute:[sa~~l~~mon]:astonished::four:  
+__salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::five:  
 __salt away__  
 __salt of the Earth__  
 __salt the shaft__ :two::hammer: _Salt the shaft if you have to._  
@@ -12377,6 +12382,7 @@ __trailing plants__
 __trails__ _n_  
 __train wreck__ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
+__training wheels__ _n_  
 __traipsing__  
 __tramp__ _adj_  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
@@ -13027,12 +13033,13 @@ __wake-up call__ :two::hammer:
 __walk in sunshine__  
 __walk on air__ To be very happy.  
 __walk on eggshells__  
-__walk on water__  
+__walk on water__ _idiom_ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __walk the walk__  
 __walk__ :mute:[wa~~l~~k]  
 __walk-on__ :two::hammer:  
 __walk-through__ :es: precalentamiento (?)  
 __walkabout__  
+__walkaway__ _n_ An easy victory.  
 __walking trail__ :two::hammer: _Many airports are upping their game, adding walking trails._  
 __walkups__ (or walk-ups?)  
 __wall__ _n_ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
@@ -13156,7 +13163,7 @@ __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._
 __wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :four: /wɛnd/ (wending) To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
 __wet a line__  
-__wetbacks__  
+__wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
 __Whac-A-Mole__  
 __whackadoodle__  

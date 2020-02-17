@@ -1,27 +1,4 @@
 
-
-__Mardi Gras__ _n_ :mega:  
-__anal bleaching__ _n_  
-__best in show__  
-__jettison__ _v_ To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._  
-__ordnance__ _n_  
-__libel__ _n_ :es: calumnia  
-__berserk__  
-
-__walk on water__ _idiom_ To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
-__every so often__ _adv_ Occasionally. _Every so often she visits her father._  
-__guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
-__walkaway__ _n_ An easy victory.  
-__holistic__ _adj_  
-__piece of work__ _idiom_ A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._  
-__ambulation__ _n_  
-__ambulate__ _v_ To walk from place to place; move about.  
-
-__homecoming__  
-__safeword__ _n_  
-__wetback__ _n_ _slang_ (offensive)  
-__salmon__ _n_ :mega:  
-__training wheels__ _n_  
 __ADD__ _abbr_ Attention deficit disorder.  
 __browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I'm just looking, I'm browsing._  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
