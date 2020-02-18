@@ -148,6 +148,7 @@ __adamant__
 __add insult to injury__ _idiom_ To hurt the feelings of a person who is already upset.  
 __add up to__ _idiom_ To equal or amount to something.  
 __add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._  
+__ADD__ _abbr_ Attention deficit disorder.  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __address__ _v_ :two::hammer: _A multitude of problems need to be addressed._  
 __adenoidal__  
@@ -1481,6 +1482,7 @@ __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powe
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstones__ _n_  
+__browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I'm just looking, I'm browsing._  
 __bruin__  
 __bruited__  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
@@ -3858,7 +3860,7 @@ __enactment__
 __enamel__ :two::hammer:  
 __enamored__  
 __encampment__ _n_ :two::hammer:  
-__encompass__ _v_ :four::hammer: (encompasses)  
+__encompass__ _v_ :five::hammer: (encompasses)  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
@@ -4797,7 +4799,7 @@ __furlough__ _n_ :three: Leave of absence, especially that granted to a member o
 __furnish__ _v_ :two::hammer: _They were furnished with a wealth of new information._ _To furnish suites of labs._  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
-__furrow<sup>1</sup>__ _n_ :five::hammer:  
+__furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ _His brow was furrowed._  
 __further__  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
@@ -5812,7 +5814,7 @@ __holdout__ :two::hammer: _A weeklong holdout._
 __holdover__  
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__ _adj_ :four::hammer:  
+__holistic__ _adj_ :five::hammer:  
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -5955,7 +5957,7 @@ __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__
 __hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
-__hunky-dory__ _adj_ _slang_ :two: Fine, going well.  
+__hunky-dory__ _adj_ _slang_ :three: Fine, going well.  
 __huramaki__ _n_  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
@@ -6082,6 +6084,7 @@ __impromptu__ :two::hammer: _Some things are impromptu._
 __improvidence__  
 __improvident__ _adj_  
 __impunity__  
+__in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
 __in a nutshell__  
 __in abeyance__  
 __in all likelihood__  
@@ -6978,7 +6981,7 @@ __lodgings__
 __loft__ _v_  
 __loftily__  
 __lofty__ _adj_ :six::hammer: _His lofty perch._  
-__loggerheads__  
+__loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone's intelligence.  
 __logjam__ _n_  
 __loincloths__  
 __loins__ _n_ :two::hammer:  
@@ -7234,8 +7237,8 @@ __marshmallow__ _n_ :two: Althaea officinalis. The word "marshmallow" comes from
 __marshy__  
 __mart__ A place of trade, eg. an auction room or market.  
 __martial artist__  
-__martyr<sup>1</sup>__ _n_ :pencil2:  
-__martyr<sup>2</sup>__ _v_  
+__martyr<sup>1</sup>__ _n_ :two::pencil2::hammer:  
+__martyr<sup>2</sup>__ _v_ :two::pencil2::hammer:  
 __martyrdom__ :two::hammer:  
 __marzipan__ _n_ :two::hammer: :es: mazapán  
 __masago__ _n_  
@@ -9575,7 +9578,7 @@ __redress__ _To seek redress._
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
 __redshirt__ _v_ :four::hammer: (redshirting)  
-__redux__ _adj_ Brought back; revived. _Damian has the veneer of the angry young man redux._  
+__redux__ _adj_ :two: Brought back; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::hammer:  
 __reed__ :two::hammer: _A reed basket._  
 __reeds__ _n_ :three::hammer:  
@@ -9764,6 +9767,7 @@ __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetor
 __rheum__ _n_ :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
+__rhinoceros__ _n_ :mega:  
 __rhinosinusitis__ _Chronic rhinosinusitis._  
 __rhododendron__ _n_  
 __rhyme__ :mute:[r~~h~~yme]  
@@ -10325,6 +10329,7 @@ __self-fulfilling__ _Self-fulfilling prophecy._
 __self-indulgent__ _adj_  
 __self-righteous__  
 __self-steem__  
+__self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
 __selfless__  
 __selfsame__  
 __sell out__  
@@ -10639,6 +10644,7 @@ __sign up__ _v_
 __sign__ :mute:[si~~g~~n]  
 __sign-off__ _n_  
 __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
+__signal__ _n_ :mega:  
 __signature__ _That's their signature meal._  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
 __signet ring__  
@@ -11209,8 +11215,9 @@ __sprigs__
 __springboard__ :two::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
-__sprinkle<sup>1</sup>__ _v tr_ :nine::m: (sprinkles, sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
-__sprinkle<sup>2</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
+__sprinkle<sup>1</sup>__ _n_  
+__sprinkle<sup>2</sup>__ _v tr_ :nine::m: (sprinkles, sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
+__sprinkle<sup>3</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
 __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkling__ _A sprinkling of luck._  
 __sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
@@ -12201,7 +12208,7 @@ __timorous__ _adj_ :two: Full of fear; timid.
 __tin ear__ _Hillary has a political tin ear._  
 __tinderbox__  
 __tinderdry__  
-__tines__  
+__tine__ _n_ :two::hammer: (tines)  
 __tinfoil hat__  
 __tinge__ :two::hammer:  
 __tingle__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
@@ -13130,7 +13137,7 @@ __Wednesday__ :mega::mute:[we~~d~~nesday] /'wEnzdi, -deI/
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __weed out__ _phr v_ :dart::three: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
-__weed<sup>2</sup>__ _v_ _It's like weeding a garden._  
+__weed<sup>2</sup>__ _v_ :two::hammer: _It's like weeding a garden._  
 __weedeater__  
 __weeding__ _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __weekend__ _n_  
@@ -13291,7 +13298,7 @@ __will__ _v_
 __willful__  
 __willfully__  
 __willpower__ _n_  
-__willy-nilly__ _adv_ (willy nilly) :seven: Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
+__willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
 __wimp out__  
@@ -13489,7 +13496,7 @@ __yap<sup>2</sup>__ _n_ Mouth.
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
-__yarn__ _n_ :five::hammer: _Political yarns._  
+__yarn__ _n_ :six::hammer: _Political yarns._ _Nylon yarn._  
 __yawing__ _v_  
 __yawn__ _n_ _The sound of yawns and crickets._  
 __yawner__ _n_ :two::hammer:  
@@ -13553,6 +13560,7 @@ __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the sp
 __zeppelin__ _n_  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
+__zero in__  
 __zero point__ _n_  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  

@@ -1,27 +1,4 @@
 
-__ADD__ _abbr_ Attention deficit disorder.  
-__browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I'm just looking, I'm browsing._  
-__self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
-
-__sprinkle__ _n_  
-__in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
-__zero in__  
-__encompass__ _v_  
-__loggerhead__ _n_ A stupid person; these words are used to express a low opinion of someone's intelligence.  
-__willy-nilly__  
-__redux__  
-__rhinoceros__ _n_ :mega:  
-
-__signal__ _n_ :mega:  
-__holistic__ _adj_  
-__hunky-dory__  
-__yarn__ _n_ _Nylon yarn._  
-__tine__ _n_  
-__weed__ _v_  
-__furrow__ _n_  
-__martyr<sup>1</sup>__ _n_ :pencil2:  
-__martyr<sup>2</sup>__ _v_ :pencil2:  
-
 __holistic__ _adj_  
 __piece of work__ _idiom_ A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._  
 __ambulation__ _n_  
