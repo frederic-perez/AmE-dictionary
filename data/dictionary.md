@@ -116,7 +116,7 @@ __acne__ _n_ :mega::two::hammer:
 __acolyte__ _n_ :four::hammer: (acolytes)  
 __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintances__ :pencil2:  
-__acquiesce__  
+__acquiesce__ _v_ :two: To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
 __acquit__ _v_ :three::hammer: (acquitted) _If it doesn't fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
@@ -321,7 +321,8 @@ __ambitious__
 __ambivalence__  
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
-__ambulation__ _n_  
+__ambulate__ _v_ To walk from place to place; move about.  
+__ambulation__ _n_ :two::hammer:  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
 __ameliorate__ _v_  
 __amends__  
@@ -549,6 +550,7 @@ __assert__ _v_
 __asses__ _n_ :two::hammer:  
 __asset__  
 __assets__  
+__assiduity__ _n_ :astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
 __assiduously__ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assists__ _Green had 14 rebounds and nine assists._  
@@ -1459,6 +1461,7 @@ __brogue__ _n_ :two::hammer:
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
 __broken accent__  
+__broken English__ _n_  
 __broken record__ _n_ _idiom_ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., "broken") can loop over the same recorded segment endlessly.  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
@@ -1766,6 +1769,7 @@ __campy__ _A campy biopic._
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __can't be bothered__ _idiom_ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
 __canapé__ _n_  
+__canard__ _n_ An unfounded or false, deliberately misleading story.  
 __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cane brakes__  
@@ -2287,6 +2291,7 @@ __coaster brakes__
 __coat of arms__ _n_ _Heraldry_ :four::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coattails__ _n_ :three::hammer: _I think we're going to be riding his coattails a little bit._  
+__coaxing__ _v_  
 __cob__  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble__ _v_ :two::hammer: (cobbled)  
@@ -2380,7 +2385,7 @@ __command__ _Those who graduate with degrees in STEM fields are expected to comm
 __commandeered__ _v_ :astonished::two::hammer:  
 __commend__ _v_ (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
-__commendation__ _n_ :two::hammer: (commendations) _He earned two commendation medals._  
+__commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
 __commensurate__  
 __commentary__  
 __commentator__ _n_  
@@ -2401,7 +2406,7 @@ __compatriot__
 __compel__ _v_ :five::hammer:  
 __compelling__ _adj_ :four: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
-__complacent__ _adj_  
+__complacent__ _adj_ :two: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
 __complex__ :mega:  
 __compliance__ :three::hammer: _Compliance guy._  
@@ -5181,6 +5186,7 @@ __grader__ _n_ :two::hammer: (graders)
 __graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramps__  
 __grand jury__  
+__grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
 __grand__  
 __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
@@ -5192,6 +5198,7 @@ __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1_
 __grapple<sup>2</sup>__ _n_ :two::hammer: _A thin cord hooked to a grapple._  
 __grapplings__ _n_  
 __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
+__grasp in the dark__ _idiom_ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grass-routs__ _?_ _Grass-routs campaign._  
 __grassroots__  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
@@ -5323,7 +5330,7 @@ __guard__ :mute:[g~~u~~ard]
 __guess__ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
 __guesstimation__ does not exist  
-__guesswork__ _n_  
+__guesswork__ _n_ :two::hammer:  
 __guest claim__ _Guest claim no. 170374._  
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
@@ -5814,7 +5821,7 @@ __holdout__ :two::hammer: _A weeklong holdout._
 __holdover__  
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__ _adj_ :five::hammer:  
+__holistic__ _adj_ :six::hammer:  
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -6287,7 +6294,8 @@ __inveterate__ _adj_ :three::hammer:
 __invoice__ _v_  
 __invoke__  
 __IP__ Intelectual property.  
-__irate__ _v_ :two::hammer:  
+__irate<sup>1</sup>__ _adj_  
+__irate<sup>2</sup>__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
 __ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
 __iris__  
@@ -7809,6 +7817,7 @@ __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._
 __nightie__ _n_ :two: A woman's nightgown.  
 __nightingale__ _n_  
 __nightmarish__ :two::hammer:  
+__nightshirt__ _n_ A long, loose shirt worn in bed.  
 __nigiri__ _n_  
 __nihilist__ _n_ :two::hammer:  
 __nihilistic__  
@@ -8627,7 +8636,7 @@ __picture-perfect__ _The picture-perfect porch._
 __piddle__ _v_  
 __piddling__ _He had killed several hours with footless piddling._  
 __pie in the sky__ :two::hammer:  
-__piece of work__ _idiom_ :two: A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._ _You're a piece of work, Bertrand._  
+__piece of work__ _idiom_ :three: A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._ _You're a piece of work, Bertrand._  
 __piece__ _n_ _A piece of cake._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
 __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
@@ -9066,7 +9075,8 @@ __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their mas
 __prior<sup>1</sup>__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
 __prior<sup>2</sup>__ _n_ (priors)  
 __prioritize__ _v_  
-__prise__ _n_  
+__prise<sup>1</sup>__ _n_  
+__prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
 __prised out__ _v_  
 __prissy__ _adj_ :three::hammer:  
 __pristine__ _They were in pristine condition._  
@@ -9295,7 +9305,7 @@ __quaintly__ :two::hammer:
 __Quaker__  
 __quakes__ _v_  
 __qualify__ _v_  
-__qualm__ _n_ :eight: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparos  
+__qualm__ _n_ :nine: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
 __quandary__ _n_ :nine: Difficult dilemma. _All-Star managers face quandary._  
 __quarrelsome__  
 __quarry__  
@@ -10929,7 +10939,7 @@ __smudge__
 __smudges__  
 __smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
 __smuggling__ _v_  
-__smugly__ _adv_ :six: In a self-satisfied manner. _To laugh smugly._  
+__smugly__ _adv_ :seven: In a self-satisfied manner. _To laugh smugly._  
 __smugness__  
 __smut__ _They want to report smut._  
 __snafus__  
@@ -11790,7 +11800,7 @@ __swive__ _v_
 __swiveling__ _v_  
 __swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swoop<sup>1</sup>__ _n_ :six::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
+__swoop<sup>1</sup>__ _n_ :seven::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swooshing__  
