@@ -1120,7 +1120,7 @@ __bled__ _v_
 __bleed blue__  
 __bleeding heart__ _A radical Jewish lawyer with a beard and a bleeding heart._  
 __bleep__ _v_ _We'll bleep your name out._  
-__blemish__ _n_ :five::hammer: (blemishes)  
+__blemish__ _n_ :six::hammer: (blemishes)  
 __blemished__ _v_  
 __blends__ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :two::hammer:  
@@ -1555,7 +1555,7 @@ __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bumble__ _v_ :eight: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
-__bummer__ _n_ _slang_ A disappointing or unpleasant situation or experience.  
+__bummer__ _n_ _slang_ :two: A disappointing or unpleasant situation or experience.  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumping__ _Bumping and grinding._  
@@ -4218,6 +4218,7 @@ __faze__ _v_ :five::hammer: (fazed)
 __fealty__ :two::hammer:  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearl__ _A fearl youngster._  
+__fearless__ _adj_  
 __feasible__ _adj_  
 __feast__ _v_ :two::hammer:  
 __feather your own nest__ _idiom_ To use your position or your job to get a lot of money for yourself.  
@@ -5348,7 +5349,7 @@ __guinea pig__ :mega:
 __guise__  
 __guitar case__ :camera:  
 __guitar__ :mute:[g~~u~~itar]  
-__Gulag__ _n_  
+__Gulag__ _n_ :two::hammer:  
 __gulf__ _n_ :three::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._  
 __gullibility__  
 __gullible__ _adj_ :six: Naive and easily deceived or tricked.  
@@ -5456,7 +5457,7 @@ __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face l
 __hamstring__ _n_ :three::hammer:  
 __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
 __hand blender__ _n_  
-__hand-pick__ _v_  
+__hand-pick__ _v_ :two::hammer:  
 __handglider__  
 __handily__  
 __handiwork__ :two::hammer:  
@@ -6691,6 +6692,7 @@ __lance__ _v_ :astonished:
 __lanced__ _v_  
 __lancet__ _n_  
 __lancing irons__  
+__land on (one's) feet__ _idiom_ To gracefully survive a bad situation.  
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
@@ -7035,6 +7037,7 @@ __loquacious__
 __loquat__ _n_  
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __Los Angelino__  
+__lose it__ _idiom_  
 __lose your train of thought__ _idiom_ To forget what you were talking or thinking about.  
 __loss one's marbles__ _idiom_ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
@@ -7336,7 +7339,7 @@ __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reacto
 __meme__ _n_ :three::mega::hammer:  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
-__memo__ _A memo sent to reporters._  
+__memo__ _n_ :two: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
 __memorandum__ :two::hammer:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
@@ -7351,6 +7354,7 @@ __menology__
 __mens room__ _n_  
 __mental memo__ _n_ :camera:  
 __mentees__  
+__Mephistopheles__ _n_ (Mephisto)  
 __merc__ :two::hammer:  
 __mercantile__  
 __merch__ _n_ :two::hammer: Merchandaising?  
@@ -7650,7 +7654,7 @@ __munch__ _v_ :three:hammer: (munches)
 __mundane__ :two::hammer:  
 __Muni bus__  
 __munificent__ _adj_  
-__munition__ _n_ :two::hammer: (munitions) _The munitions factory._  
+__munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
 __muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, "little mouse."  
@@ -8934,7 +8938,7 @@ __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Pos
 __posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
-__possum__ _n_ :es: zarigüeya  
+__possum__ _n_ :two::hammer: :es: zarigüeya  
 __post hoc__  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ :two::hammer:  
@@ -9150,7 +9154,7 @@ __provenance__
 __provender__  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
 __provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
-__prowess__ _n_ :seven: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
+__prowess__ _n_ :eight: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
 __proxy__ _I'm a proxy for the listener._  
 __prude__ _n_ :three::hammer:  
@@ -9311,7 +9315,7 @@ __quarrelsome__
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
-__quash__ _v_ :eight::hammer: (quashed) _To quash her subpoena._  
+__quash__ _v_ :nine::hammer: (quashed) _To quash her subpoena._  
 __quavered__  
 __quavering__  
 __quay__ _n_  
@@ -9362,6 +9366,7 @@ __rabbit hole__ :two::hammer: _We fell into the poop rabbit hole again in this e
 __rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
+__raccoon__ _n_ :pencil2:  
 __raccooned__ _v_  
 __raccoons__  
 __race against time__ _idiom_ To do something very quickly.  
@@ -9420,8 +9425,8 @@ __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
-__rampage<sup>1</sup>__ _v_ :two::hammer:  
-__rampage<sup>2</sup>__ _n_ :four::hammer:  
+__rampage<sup>1</sup>__ _v_ :three::hammer:  
+__rampage<sup>2</sup>__ _n_ :five::hammer:  
 __rampant__ :two::hammer:  
 __rampantly__  
 __rampart__ _n_ :three::hammer: (ramparts) _Ancient stone ramparts._  
@@ -9819,6 +9824,7 @@ __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated.
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rimless__ _Rimless glasses._  
 __rind__ _n_  
+__ring a bell__ _idiom_  
 __ring finger__ :two::hammer:  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
 __ring up__ _Ringing up sales._  
@@ -10934,7 +10940,7 @@ __smote__ _v_
 __smothered__  
 __smothering__  
 __smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
-__smouldering__ _adj_  
+__smouldering__ _adj_ :two::hammer:  
 __smudge__  
 __smudges__  
 __smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._  
@@ -11052,7 +11058,7 @@ __solemnize__ _v_
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
-__solidify__ _v_  
+__solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
 __soliloquy__  
 __solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
@@ -13372,7 +13378,7 @@ __with flying colors__ _idiom_ With distinction.
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
 __withe down__ _v_  
-__wither away__ _v_  
+__wither away__ _v_ :two::hammer:  
 __wither__ _v_ :three::hammer: (withers, withered)  
 __withes__ _n_ :two::hammer:  
 __withhold__  
