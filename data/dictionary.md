@@ -727,6 +727,7 @@ __balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to acc
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :reminder_ribbon: balky donkey _He was trying to get his balky donkey to move._  
 __ball and chain__ A wife.  
 __ball bearings__  
+__ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim's mouth and tied tight. Supposedly it's more effective at muffling yells.  
 __ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
 __balladeer__  
 __ballast__ _n_ :two::hammer:  
@@ -2007,7 +2008,8 @@ __charily__
 __charisma__ :mute:[c~~h~~arisma]  
 __charlatan__ _n_  
 __charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
-__charred__ _v_  
+__char__ _v_ (charred)  
+__charred__ _adj_ Burnt and blackened.  
 __charted__  
 __charter__ _Charter schools._  
 __charter<sup>1</sup>__ _n_ :two::hammer:  
@@ -3925,7 +3927,7 @@ __entrance<sup>1</sup>__ _n_
 __entrance<sup>2</sup>__ _v_  
 __entrant__ :astonished:  
 __entreat__ _v_ _Syn_ beg, plead  
-__entrench__ _v_ :eight: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
+__entrench__ _v_ :nine: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
@@ -4156,6 +4158,7 @@ __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cem
 __famine__ _It could be feasst or famine._  
 __famished__ _adj_ :two: Very hungry.  
 __fan letter__ _n_  
+__fan service__ _idiom_  
 __fanaticism__ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
@@ -4171,7 +4174,7 @@ __fantastic__ _adj_ :three::hammer::mega:
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
-__far fetched__ _adj_ :five::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
+__far fetched__ _adj_ :six::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :four::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
@@ -4719,7 +4722,7 @@ __freight train__ _n_ (vs passenger train)
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Frenchman__  
 __frenzy__ :two::hammer:  
-__fresh__ _adj_ :two::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
+__fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
@@ -5048,7 +5051,8 @@ __gloaming__ _n_ _poetic_ :two: Twilight or dusk.
 __gloat__ _v_ :five::hammer: (gloating) _I could not gloat._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
-__gloom__ _n_ :three::hammer: _She was hidden in the gloom._  
+__gloom<sup>1</sup>__ _n_ :four::hammer: _She was hidden in the gloom._  
+__gloom<sup>2</sup>__ _v_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
 __glossiness__  
@@ -5994,7 +5998,7 @@ __hygroscopic__
 __hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
-__hyperbolic__ _adj_ :four: Exaggerated.  
+__hyperbolic__ _adj_ :five: Exaggerated.  
 __hyperopia__ _n_  
 __hypertensive__ _To be hypertensive._  
 __hypocrisy__  
@@ -6175,6 +6179,7 @@ __indefinite__
 __indelible__ _adj_ :six::hammer::pencil2: _An indelible mark._  
 __indenture__ _v_  
 __indentured__  
+__index card__ _n_  
 __indict__ _v_ :six::hammer: (indicted :mega:)  
 __indictment__ _n_ :five::hammer::mega:  
 __indigenous__ _Indigenous people._  
@@ -7784,7 +7789,7 @@ __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)
 __nervous laughter__  
 __nervy__ :pencil2::two::hammer:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :seven::hammer: (nestled)  
+__nestle__ _v_ :eight::hammer: (nestled)  
 __nestlings__ _n_  
 __nether__ :two::hammer:  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
@@ -8606,7 +8611,7 @@ __philtre__
 __philtrum__  
 __phimosis__ _n_ :mega:  
 __phlebotomy__  
-__phlegm__ _n_ :three::hammer:  
+__phlegm__ _n_ :four::hammer:  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
 __photo-op__  
 __photochromic__ _adj_  
@@ -9342,6 +9347,7 @@ __quicksilver__
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
 __quiescent__  
+__quiff__ _n_ A woman regarded as promiscuous.  
 __quill__ _n_  
 __quilt__  
 __quilting__ _Quilting bee._  
@@ -9642,7 +9648,7 @@ __reiterate__ _v_
 __rejigged__ _v_  
 __rejiggered__  
 __rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)  
-__rejoinder__ _n_ :two::hammer:  
+__rejoinder__ _n_ :three: An answer, especially to a reply.  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ _adj_ :three::hammer:  
 __relate__ _v_  
@@ -11501,7 +11507,7 @@ __stone-walling__
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
 __stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _A guard's stool pigeon._  
-__stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards.  
+__stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards. _Although stooped by age, her eyes were sharp._  
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :three::hammer: _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
@@ -11551,7 +11557,7 @@ __strap overalls__
 __strapless__ _Strapless black dress._  
 __strapped__  
 __strapping__ _Two strapping sons._  
-__straw__ _n_ :three::hammer: (straws) _To stir straws._  
+__straw__ _n_ :four::hammer: (straws) _To stir straws._  
 __stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
 __stray<sup>2</sup>__ _adj_ :six::hammer: _A stray word._ _Stray steeples._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
 __stray<sup>3</sup>__ _n_  
@@ -11714,7 +11720,7 @@ __supple__ _adj_ :pencil2::seven::hammer: _A supple weapon._ :es: flexible
 __suppleness__ _Mental suppleness._  
 __supplier__ _n_  
 __supply and demand__  
-__suppository__ _n_  
+__suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
 __surcease__  
@@ -11847,7 +11853,7 @@ __taciturn__
 __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
 __tacky__ :two::hammer:  
 __tactful__  
-__tactfully__  
+__tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :three::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
@@ -11930,7 +11936,7 @@ __tardy__ :two::hammer:
 __target ball__  
 __tariff__ _n_ :six::hammer: (tariffs)  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
-__tarnish__ _v_ :six::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
+__tarnish__ _v_ :seven::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
 __tarpaulin__ _n_ Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __tarpon__  
