@@ -41,6 +41,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
 - [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
 - [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins)
+- [Rachel Feinstein](https://www.youtube.com/results?gl=US&search_query=Rachel+Feinstein)
 - [Ralphie May](https://www.youtube.com/results?gl=US&search_query=Ralphie+May)
 - [Rita Rudner](https://www.youtube.com/results?gl=US&search_query=Rita+Rudner)
 - [Rosebud Baker](https://www.youtube.com/results?gl=US&search_query=Rosebud+Baker)
