@@ -1,4 +1,13 @@
 
+__slam__ _v_ __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
+__dismayed__ _adj_  
+__vagabond__ _n_  
+__unheard of__ _idiom_ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._  
+__thick skin__ _idiom_ :dart:  
+__rabbit hole__ _idiom_  
+__entail__ _v_  
+__over the top__ _idiom_  
+
 __get your ducks in a row__ _idiom_ To be well organized.  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __hickey__ _n_ A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
