@@ -1,4 +1,13 @@
 
+__hemp__ _n_ :es: cáñamo  
+__chickpea__ _n_ :es: garbanzo  
+__canard__ _n_ An unfounded or false, deliberately misleading story.  
+__grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
+__grasp in the dark__ _idiom_ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
+__assiduity__ _n_ Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
+__grind (someone's) gears__ _idiom_ To greatly or specifically irritate or annoy someone.  
+__nonchalant__  
+
 __slam__ _v_ __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __dismayed__ _adj_  
 __vagabond__ _n_  
