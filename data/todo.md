@@ -1,4 +1,12 @@
 
+__get your ducks in a row__ _idiom_ To be well organized.  
+__keep down__ _phr v_ To prevent something from increasing in size or number.  
+__hickey__ _n_ A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
+__if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
+__expiate__ _v_ To atone for; make amends or reparation for.  
+__embezzlement__ _n_  
+__vex__ _v_  
+__sour grapes__  
 
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __classy__  
