@@ -550,7 +550,7 @@ __assert__ _v_
 __asses__ _n_ :two::hammer:  
 __asset__  
 __assets__  
-__assiduity__ _n_ :astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
+__assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
 __assiduously__ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assists__ _Green had 14 rebounds and nine assists._  
@@ -1770,7 +1770,7 @@ __campy__ _A campy biopic._
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __can't be bothered__ _idiom_ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
 __canapé__ _n_  
-__canard__ _n_ An unfounded or false, deliberately misleading story.  
+__canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cane brakes__  
@@ -1998,6 +1998,7 @@ __chaparral__ _n_ :two::hammer:
 __chaperones__ _n_ :two::hammer:  
 __chaplain__ _n_ :four::mega:  
 __chapter__ _To the east was the chapter house._  
+__char__ _v_ (charred)  
 __character actor__  
 __character__ :mute:[c~~h~~aracter]  
 __charade__ _n_ :two::hammer:  
@@ -2008,7 +2009,6 @@ __charily__
 __charisma__ :mute:[c~~h~~arisma]  
 __charlatan__ _n_  
 __charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
-__char__ _v_ (charred)  
 __charred__ _adj_ Burnt and blackened.  
 __charted__  
 __charter__ _Charter schools._  
@@ -2065,7 +2065,7 @@ __chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious 
 __chicken wire__  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chicklit__ _A chicklit satire._  
-__chickpea__ _n_ :two::hammer: (chickpeas) _A handful of chickpeas._  
+__chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
 __chide__ _v_ :seven::hammer: (chided, chiding) _Whe chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
@@ -3327,8 +3327,8 @@ __dislocate__ _v_ To displace (a body part), especially to displace a bone from 
 __dislodge__ _v_  
 __disloyal__  
 __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
-__dismay__  
-__dismayed__ _v_ _The proposal has dismayed the Canadian government._  
+__dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
+__dismayed__ _adj_  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ :two::hammer:  
@@ -3913,7 +3913,7 @@ __ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._
 __ensuite<sup>1</sup>__ _n_ A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
-__entail<sup>1</sup>__ _v_ :six::hammer: (entails)  
+__entail<sup>1</sup>__ _v_ :seven::hammer: (entails)  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :nine: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
@@ -4971,7 +4971,7 @@ __get the axe__ _idiom_ To lose your job.
 __get the knack of__ _idiom_ To learn how to do something competently or well after a certain period of practice or development.  
 __get the middle finger__  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
-__get your ducks in a row__ _idiom_ To be well organized. _And then on top of it, I have to get my ducks in a row.._  
+__get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
 __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
 __get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy.  
@@ -5265,6 +5265,7 @@ __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._
 __grimly__  
 __grimy__ _adj_  
 __grinch__ _n_  
+__grind (someone's) gears__ _idiom_ To greatly or specifically irritate or annoy someone.  
 __grind__ _Most of us are more focused on the daily grind._  
 __grinding half__ _"The people's business had come to a grinding half, and nothing was going to happen," he said._  
 __grinding__ _Bumping and grinding._  
@@ -5688,7 +5689,7 @@ __hem__ _n_ :es: dobladillo
 __hemlock__  
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
-__hemp__ _n_ :four::hammer: _Hemp plant._  
+__hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :seven::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
@@ -6033,6 +6034,7 @@ __idolatry__ :two::hammer:
 __idylic__ :pencil2:  
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
+__if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
 __if you will__ :astonished:  
 __iffy__ _adj_ _slang_ :three: Uncertain or doubtful. _Iffy call._  
 __igloo__ _n_ :mega:  
@@ -6509,6 +6511,7 @@ __keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
+__keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep tab(s) (on someone or something)__ _idiom_ :five::hammer: :es: vigilar _I don't keep tabs on him._  
@@ -7873,7 +7876,7 @@ __non-existent__ _adj_
 __non-perishables__  
 __nonce__  
 __nonchalance__ _n_  
-__nonchalant__ _adj_ :seven: Behaving calmly and not seeming interested in anything or worried about anything.  
+__nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
 __nonchalantly__ _adv_ :three: In a nonchalant manner.  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
@@ -8225,7 +8228,7 @@ __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground
 __over one's head__ _He was over his head._  
 __over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphenated if used before a noun.)  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
-__over the top__  
+__over the top__ _idiom_  
 __over-ear headphones__  
 __over-the-hill__ :two::hammer: _I'm over-the-hill for Passion._  
 __over-under__  
@@ -9368,7 +9371,7 @@ __quiz__ _n_ A quiz is a short series of questions with a quick result. A magazi
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quote, unquote__ :two::hammer:  
 __Quran__  
-__rabbit hole__ :two::hammer: _We fell into the poop rabbit hole again in this episode._  
+__rabbit hole__ _idiom_ :three::hammer: _We fell into the poop rabbit hole again in this episode._  
 __rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
@@ -10781,7 +10784,7 @@ __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for 
 __slackline__ _n_  
 __slag__  
 __slake__ _v_  
-__slam__ _v_ :two::hammer: _LeBron slams Phil Jackson for comment._  
+__slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :six::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
 __slapjack__  
@@ -12103,7 +12106,7 @@ __thermos__ _A thermos._
 __thespian__ :two::hammer:  
 __thick accent__ _Arnold's accent is getting thicker._  
 __thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
-__thick skin__  
+__thick skin__ _idiom_ :two::dart::hammer:  
 __thicket__ _n_ :five::hammer: (thickets)  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ :mute:[thi~~gh~~]  
@@ -12737,7 +12740,7 @@ __unfurl__ (unfurling) :two::hammer:
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungodly__ _adj_  
 __ungulate__  
-__unheard of__ _idiom_ :two::hammer: _It's not unheard of for individual contributors to question their superiors' decisions._  
+__unheard of__ _idiom_ :three: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It's not unheard of for individual contributors to question their superiors' decisions._  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
 __unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
@@ -12871,6 +12874,7 @@ __vacay__ _informal_ A holiday. _I'm in France right now, on vacay._
 __vaccination__  
 __vaccine__  
 __vacuum__ :two::hammer: _Upright/Canister vacuum._ :camera:  
+__vagabond__ _n_  
 __vagaries__ _n_  
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
