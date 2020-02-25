@@ -308,6 +308,7 @@ __also-ran__ _To become an also-ran._
 __also-run__  
 __altar boy__  
 __altercation__  
+__alternating caps__ Used to convey sarcasm or mockery across the internet. Can also be used to purposefully mislead and create humour.  
 __altitude sickness__  
 __alto voice__  
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
@@ -2189,7 +2190,7 @@ __clasp<sup>2</sup>__ _v_ _I clasped the chain around her neck._
 __clasped__ _v_  
 __class act__ _She was a class act through and through._  
 __class action__  
-__classy__  
+__classy__ :two::hammer:  
 __clatter__ _n_  
 __claw back__ _v_  
 __claw machine__ _n_ :camera:  
@@ -3832,6 +3833,7 @@ __embark__ _They embark on a motorcade._
 __embattle__ _v_ :four::hammer: (embattled)  
 __ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood in a dying fire.  
 __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
+__embezzlement__ _n_  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embodiment__  
 __embody__ _v_  
@@ -3965,6 +3967,7 @@ __equitably__ _adv_ :es: de forma equitativa
 __equity__  
 __equivocation__ _n_  
 __er__ :two::hammer: _It does look, er, distinctive._  
+__eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __ergomania__ _n_ An excessive desire to work or exercise.  
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
 __errand__ _n_ _He had an errand to run._  
@@ -4057,6 +4060,7 @@ __expediting__ _v_
 __expeditiously__  
 __expenditure__ _n_ :five: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
+__expiate__ _v_ To atone for; make amends or reparation for.  
 __expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
 __explicate__ _v_  
 __explication__ _n_  
@@ -5134,6 +5138,7 @@ __gold digger__ _n_ _informal_ A woman who has relationships with rich men so th
 __gold rush__  
 __Golden Boot__ _The race for the Golden Boot._  
 __golden goose__ _n_  
+__golden rule__  
 __goldfinch__ _n_ :es: jilguero  
 __golliwog__ _n_  
 __golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
@@ -5445,6 +5450,7 @@ __half-baked__ _A half-baked plan to launch a start-up._
 __half-cocked__  
 __half-wits__  
 __halfback__  
+__halfway decent__ _idiom_ Somewhat good, useful, or enjoyable, but not very; passable.  
 __hall boy__ _n_  
 __Halligan__ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :four::hammer:  
@@ -6322,6 +6328,7 @@ __issuance__ _n_ :three::hammer:
 __issue__ _v_  
 __isthmus__  
 __IT Band__  
+__it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
 __it takes two to tango__ _idiom_  
 __it's a dog's life__ :dart::astonished:  
@@ -6361,6 +6368,7 @@ __janitor__ _n_
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
+__jarring__ _adj_ :two::hammer:  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
@@ -7720,6 +7728,7 @@ __nail it down__
 __nail it__  
 __nails__ _n_  
 __naïveté__  
+__namaste__ _interj_  
 __name-and-likeness__  
 __name-calling__  
 __name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
@@ -7863,6 +7872,7 @@ __Noachian__ _adj_ :pencil2:
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __noddies__ _n_  
+__noggin__ _n informal_ A person's head. _Syn_ bonce, dome  
 __noir__ _A noir novel._  
 __nom de guerre__  
 __nomadic__  
@@ -9814,8 +9824,8 @@ __ride__ _n_ _idiom_ A car.
 __ridership__ :two::hammer:  
 __RIF__ _Reading Is Fundamental._  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
-__riff<sup>1</sup>__ _n_ :two::hammer:  
-__riff<sup>2</sup>__ _v_ :five::hammer: (rif, riffs, riffed, riffing)  
+__riff<sup>1</sup>__ _v_ _informal_ :six: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
+__riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
 __riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
 __rifle__ _v_ :two::hammer: (rifling) _Rifling through his case._  
@@ -9903,6 +9913,7 @@ __roll on__ _He rolled on the guy who'd hired him for the trucking job._
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can't expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
+__roll with it__ _idiom_ To adapt to a situation despite unexpected circumstances or challenges.  
 __roll__ _v_ :two::hammer: _Roll the video, please._ _You rolled 6, you go 6._  
 __roll<sup>1</sup>__ _n_ :two::hammer: (rolls) _A shot of my rolls hanging over my gym shorts._ _A deli where I buy a morning paper, roll and coffee._  
 __roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
@@ -10113,7 +10124,7 @@ __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weake
 __sap<sup>2</sup>__ _n_ :three::hammer: _A flat-sided sap stuck out of his back pocket._  
 __sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
-__sappers__ _n_  
+__sapper__ _n_ :two::hammer:  
 __sapphire lidar__  
 __sapphire__ :mute:[sa~~p~~phire]  
 __sappy__ _Sappy smile._  
@@ -11105,7 +11116,7 @@ __soundly__ _Sleep soundly._
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
-__sour grapes__ :dart: Pretending to dislike something you cannot have.  
+__sour grapes__ _n_ :two::dart: Pretending to dislike something you cannot have.  
 __source__ _v_  
 __soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  
@@ -12110,6 +12121,7 @@ __thick skin__ _idiom_ :two::dart::hammer:
 __thicket__ _n_ :five::hammer: (thickets)  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ :mute:[thi~~gh~~]  
+__thin skin__  
 __thine__  
 __thingy__ :two::hammer:  
 __think back__ To think about a past event or a past time.  
@@ -12965,7 +12977,7 @@ __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veteran
 __veto__ _v_  
 __vetted__ _v_ :three::hammer:  
 __vetting__  
-__vexed__ _v_ :two::hammer:  
+__vex__ _v_ :three::hammer: (vexed)  
 __vexillology__ _n_ The study of flags.  
 __vexing__ :two::hammer: _Vexing problem._  
 __viable__  
