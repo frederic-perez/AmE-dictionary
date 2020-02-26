@@ -1020,7 +1020,7 @@ __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, espec
 __bid<sup>2</sup>__ _n_ :two::hammer: _The highest ranked team earns an automatic bid to one of the New Year's six bowls._  
 __bidding war__  
 __bidding__  
-__biennium__ _n_ Two years.  
+__biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
 __big break__ _idiom_ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one's career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big brother__  
@@ -2313,6 +2313,7 @@ __coffee-table book__
 __coffer__ _n_ :six::hammer: (coffers) _San Francisco city coffers._ _State's coffers._ :es: arca  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
+__cogent__ _adj_  
 __cognizant__  
 __cogwheel__  
 __cohesive__ :dart::two::hammer: _A more cohesive layout._  
@@ -4963,6 +4964,7 @@ __get looks__ _v_ :two::hammer:
 __get me started__ _Don't get me started!_  
 __get off on (something)__  
 __get off__ _I always get off the bus a stop early on the way to work._  
+__get on someone's nerves__ _idiom_ To annoy someone a lot.  
 __get on your nerves__ _idiom_ To annoy someone a lot.  
 __get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
 __get out of here__  
@@ -5976,7 +5978,7 @@ __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__
 __hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
-__hunky-dory__ _adj_ _slang_ :three: Fine, going well.  
+__hunky-dory__ _adj_ _slang_ :four: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
 __huramaki__ _n_  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
@@ -5995,7 +5997,7 @@ __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hustle__ _v_ :two::mute:[hus~~t~~le]:hammer:  
-__hustler__ _slang_ A person, usually male, who has sex for money.  
+__hustler__ _n_ _slang_ :two: A person, usually male, who has sex for money.  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
 __hyacinth__ :pencil2:  
@@ -6021,7 +6023,7 @@ __Ibuprofen__
 __ice cream cone__  
 __ice house__ _Insulated ice houses._  
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
-__ice__ _slang_ Expensive jewellery, especially diamonds.  
+__ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
 __ice-slick chain__  
 __icicles__  
 __icing on the cake__ :two::hammer:  
@@ -7120,7 +7122,7 @@ __luster<sup>1</sup>__ _n_
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
 __lustrous__ :two::hammer:  
-__lustrum__ _n_ Five years.  
+__lustrum__ _n_ :two: Five years.  
 __luxe__ _People were accustomed to creating luxe interiors._  
 __lye water__  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -7432,6 +7434,7 @@ __milk__ _v_ :three::hammer: _Milk the clock._
 __milkweed__  
 __mill__ _n_ A million dollards.  
 __milled about__ _v_  
+__millenium__ _n_  
 __Millennials__  
 __millennium__ _n_ :two::pencil2:  
 __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
