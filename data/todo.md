@@ -1,4 +1,13 @@
 
+__cardiac arrest__  
+__meet-and-greet__ _idiom_ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
+__lowdown__ _n_  
+__waive__ _v_  
+__stance__ _n_  
+__spearhead__ _v_  
+__hatch__ _v_ To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._  
+__engage__ _v_ _I'm engaged with my work._  
+
 __lithe__ _adj_  
 __pert__ _adj_  
 __cataclysm__ _n_ :pencil2:  
