@@ -1,4 +1,15 @@
 
+__lithe__ _adj_  
+__pert__ _adj_  
+__cataclysm__ _n_ :pencil2:  
+__supple__ _adj_  
+__count your blessings__ _adj_  
+__secret weapon__ _idiom_  
+__certainly__ _adv_  
+__laconic__ _adj_  
+__lachrymose__ _adj_  
+__querulous__ _adj_  
+__petulant__ _adj_  
 
 __CDC__ _abbr_ Center for Disease Control.  
 __shingles__ _n_ :es: herpes zóster  
