@@ -1,4 +1,12 @@
 
+__befuddle__ _v_  
+__go under the hammer__ _idiom_ To be put up for or sold at auction.  
+__get the knack of__ _idiom_ To learn how to do something competently or well after a certain period of practice or development.  
+__denouement__  
+__stardust__ _n_ :dart: __1__ A reamy romantic or sentimental quality or feeling. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
+__silver-tongued__ _adj_ Persuasive; eloquent: _silver-tongued salesman._  
+__stardust__ _n_ :dart:  
+__rube__ _n informal_ Person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 
 __evict__ _v_  
 __push__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
