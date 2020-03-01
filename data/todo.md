@@ -1,5 +1,14 @@
 
 
+__hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
+__inebriate__ _v_ __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
+__redux__ _adj_ Brought back—used postpositively.  
+__tarnation__ _n_  
+__pull a U-ie__ _idiom_ To make a U-turn. Primarily heard in US, Australia.  
+__well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile.  
+__bee's knees__  
+__goodbye, cruel world__ _idiom_ _cliché_ An exclamation, note, or statement made immediately prior to one's death, especially by suicide.  
+
 __famine__ _n_  
 __amass__ _v_  
 __hedge__ _v_  
