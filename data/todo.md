@@ -1,5 +1,14 @@
 
 
+__evict__ _v_  
+__push__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
+__exceed__ _v_  
+__well-adjusted__ _adj_ Mentally or emotionally stable; not troubled or distressed: _a well-adjusted new student._  
+__rev up__ _v_  
+__buoy__ _n_ A floating signal; a life preserver.  
+__skid mark__ _idiom_ _slang_ A mark or streak of feces on the inside of one's underpants.  
+__triage__ _v_  
+
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __inebriate__ _v_ __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __redux__ _adj_ Brought back—used postpositively.  
