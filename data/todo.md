@@ -1,4 +1,14 @@
 
+
+__famine__ _n_  
+__amass__ _v_  
+__hedge__ _v_  
+__slush__ _n_  
+__tailor__ _v_ :three::hammer:  
+__kudos__  
+__riches__ _n_  
+__herald__ _v_ _The community heralded his work._  
+
 __cardiac arrest__  
 __meet-and-greet__ _idiom_ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __lowdown__ _n_  
