@@ -1,26 +1,4 @@
 
-__befuddle__ _v_  
-__go under the hammer__ _idiom_ To be put up for or sold at auction.  
-__get the knack of__ _idiom_ To learn how to do something competently or well after a certain period of practice or development.  
-__denouement__  
-__stardust__ _n_ :dart: __1__ A reamy romantic or sentimental quality or feeling. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
-__silver-tongued__ _adj_ Persuasive; eloquent: _silver-tongued salesman._  
-__stardust__ _n_ :dart:  
-__rube__ _n informal_ Person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
-
-__evict__ _v_  
-__push__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
-__exceed__ _v_  
-__well-adjusted__ _adj_ Mentally or emotionally stable; not troubled or distressed: _a well-adjusted new student._  
-__rev up__ _v_  
-__buoy__ _n_ A floating signal; a life preserver.  
-__skid mark__ _idiom_ _slang_ A mark or streak of feces on the inside of one's underpants.  
-__triage__ _v_  
-
-__hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
-__inebriate__ _v_ __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
-__redux__ _adj_ Brought back—used postpositively.  
-__tarnation__ _n_  
 __pull a U-ie__ _idiom_ To make a U-turn. Primarily heard in US, Australia.  
 __well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile.  
 __bee's knees__  
