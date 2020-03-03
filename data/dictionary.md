@@ -316,7 +316,7 @@ __alum__ _n_ :three::hammer: _A Vanderbilt alum._
 __aluminum__ _n_ :pencil2::three::hammer:  
 __alumni__ :two::hammer:  
 __amalgam__  
-__amass__ _v_ :four::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
+__amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amateur hour__ _idiom_  
 __ambitious__  
 __ambivalence__  
@@ -885,6 +885,7 @@ __bedrolls__
 __bedspreads__ _n_  
 __bedstead__  
 __bee eater__ _n_ :es: abejaruco  
+__bee's knees__  
 __beech__ _n_ :two::hammer:  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
@@ -1820,7 +1821,7 @@ __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a larg
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __card__ _v_  
-__cardiac arrest__  
+__cardiac arrest__ :two::hammer:  
 __cardinal__ _Breaking cardinal rules of marketing._  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __carefully__ _It pays to consider his words carefully._  
@@ -3895,6 +3896,7 @@ __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of th
 __endurance__ _Endurance race._  
 __enduring__ _v_  
 __enervate__ _v_ To weaken.  
+__engage__ _v_ _I'm engaged with my work._  
 __engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engulf__ _v_  
@@ -4160,7 +4162,7 @@ __fame__ _v_
 __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's famed brownies are the highlight of every bake sale in town.  
 __familiar__ _No, I'm not familiar._  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
-__famine__ _It could be feasst or famine._  
+__famine__ _n_ :two::hammer: _It could be feasst or famine._  
 __famished__ _adj_ :two: Very hungry.  
 __fan letter__ _n_  
 __fan service__ _idiom_  
@@ -5159,6 +5161,7 @@ __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a prop
 __good Samaritan__  
 __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
 __good-natured__ _idiom_ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
+__goodbye, cruel world__ _idiom_ _cliché_ An exclamation, note, or statement made immediately prior to one's death, especially by suicide.  
 __goodliest__ :two::hammer:  
 __goodly__  
 __goodness gracious__  
@@ -5557,7 +5560,7 @@ __hastily__ _A hastily arranged news conference._
 __hasty__ :two::hammer:  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one's hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
-__hatch<sup>2</sup>__ _v_ :six::hammer: (hatches, hatched) _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
+__hatch<sup>2</sup>__ _v_ :seven: (hatches, hatched) To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
 __hatchery__ _A fish hatchery._  
 __hatchet__  
@@ -5664,7 +5667,7 @@ __hectic__ _adj_ :five::hammer:
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
-__hedge<sup>2</sup>__ _v_ :two::hammer: (hedging)  
+__hedge<sup>2</sup>__ _v_ :three::hammer: (hedging)  
 __hedonic__  
 __Hedonism__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
@@ -5702,7 +5705,7 @@ __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo
 __henchman__ _n_ :seven::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :six::hammer: (heralded) _They have a heralded arrival to Coney Island on the "bus of champions."_  
+__herald__ _v_ :seven::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __herdsman__ _n_  
 __here's looking at you__  
 __heresy__ _n_ :two::hammer:  
@@ -6664,6 +6667,7 @@ __krauts__
 __krinkled__  
 __kroop__  
 __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
+__kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __Kumbaya__ _n_  
 __kybosh__ _v_  
@@ -7074,7 +7078,7 @@ __low and slow__ Low and slow is a term used when discussing food cooked over a 
 __low-key__ _adj_ :four::hammer: (low key)  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
-__lowdown__ _n_ _Slang_ :four: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
+__lowdown__ _n_ _Slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__ _n_ _slang_ :two: A criminal or disreputable person.  
@@ -7346,6 +7350,7 @@ __meekly__ _adv_ :three::hammer:
 __meekness__ _n_ :three::hammer:  
 __meet up__  
 __meet__ _n_ :two::hammer: _I started going to international meets._  
+__meet-and-greet__ _idiom_ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup._  
 __megalomania__  
 __megalomaniac__ _n_ Someone who enjoys power over other people and always wants more of it.  
@@ -9219,6 +9224,7 @@ __pugs__
 __pukingly__ _He was pukingly ill._  
 __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
 __pull (oneself) together__ _idiom_ :two: Calm down.  
+__pull a U-ie__ _idiom_ To make a U-turn. Primarily heard in US, Australia.  
 __pull away__ :two::hammer:  
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull someone's leg__  
@@ -9816,7 +9822,7 @@ __rhythm__ :mute:[r~~h~~ythm]
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ :two::hammer:  
-__riches__ _pl n_ :seven: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
+__riches__ _pl n_ :eight: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
@@ -10912,7 +10918,7 @@ __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
-__slush__ _n_ :three::hammer: _The offshore ice and slush._  
+__slush__ _n_ :four::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
@@ -11162,7 +11168,7 @@ __speak up__ _v_ :two::hammer:
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
-__spearhead__ _v_ :five: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead__ _v_ :six: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specifically__  
@@ -11364,7 +11370,7 @@ __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophtha
 __stamp__ _Additional stamp duties went into effect last year._  
 __stamped__  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
-__stance__ _n_ :six: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
+__stance__ _n_ :seven: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
 __stand a chance__  
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
@@ -11879,7 +11885,7 @@ __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ :two::hammer: _Our big tagline is to help others._  
 __tailgate__ _v_ :two::hammer:  
-__tailor__ _v_ :four::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
+__tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
@@ -13076,7 +13082,7 @@ __waist band__
 __waistcoat__ _n_  
 __wait for the other shoe to drop__ _idiom_ To wait for something bad to happen.  
 __wait up__ _phr v_ :two: To not go to sleep until someone comes home.  
-__waive__ _v_ :five::hammer: (waived)  
+__waive__ _v_ :six::hammer: (waived)  
 __waiver__  
 __waivers__ _n_  
 __wakame__ _n_  
@@ -13197,6 +13203,7 @@ __weighty__ _His weighty agenda._
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
 __well-adjusted__ _adj_ Mentally or emotionally stable; not troubled or distressed: _a well-adjusted new student._  
+__well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile.  
 __well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
 __well-rounded__ _adj_ :two::hammer:  

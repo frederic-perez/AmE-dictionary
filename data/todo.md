@@ -1,26 +1,4 @@
 
-__pull a U-ie__ _idiom_ To make a U-turn. Primarily heard in US, Australia.  
-__well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile.  
-__bee's knees__  
-__goodbye, cruel world__ _idiom_ _cliché_ An exclamation, note, or statement made immediately prior to one's death, especially by suicide.  
-
-__famine__ _n_  
-__amass__ _v_  
-__hedge__ _v_  
-__slush__ _n_  
-__tailor__ _v_ :three::hammer:  
-__kudos__  
-__riches__ _n_  
-__herald__ _v_ _The community heralded his work._  
-
-__cardiac arrest__  
-__meet-and-greet__ _idiom_ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
-__lowdown__ _n_  
-__waive__ _v_  
-__stance__ _n_  
-__spearhead__ _v_  
-__hatch__ _v_ To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._  
-__engage__ _v_ _I'm engaged with my work._  
 
 __lithe__ _adj_  
 __pert__ _adj_  
