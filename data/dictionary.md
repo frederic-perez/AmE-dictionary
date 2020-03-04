@@ -782,6 +782,9 @@ __barf bucket__
 __bargain__ _He poured red wine to seal their bargain._  
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
+__bariatric surgery__ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
+__bariatric__ _adj_ Of or relating to the treatment of obesity.  
+__bariatrics__ _n_ The branch of medicine that deals with the causes, prevention, and treatment of obesity. From the Greek root bar- ("weight" as in barometer), suffix -iatr ("treatment," as in pediatrics), and suffix -ic ("pertaining to").  
 __barked__ :two::hammer: _His forehead was barked._ _Barked area._  
 __barking up the wrong tree__ _idiom_ Looking in the wrong place.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
@@ -1890,6 +1893,7 @@ __cat got your tongue?__ Have you nothing to say?
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
 __cat's-paw__ _n_ A person used to serve the purposes of another; tool.  
+__cataclysm__ _n_ :pencil2:  
 __catacombs__  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
@@ -1944,6 +1948,7 @@ __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._
 __caw__ (caws) :two::hammer: _A rattling caw._  
 __cawed__ _v_ :two::hammer: (cawing)  
 __CBT__  
+__CDC__ _abbr_ Center for Disease Control.  
 __CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
 __ce__  
 __CE__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
@@ -1963,6 +1968,7 @@ __censure motion__
 __centennial__  
 __centerpiece__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
+__certainly__ _adv_  
 __cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
@@ -2640,7 +2646,7 @@ __councilor__ _n_
 __counsel__  
 __counselor__ _n_  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
-__count your blessings__ _idiom_ :three: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
+__count your blessings__ _idiom_ :four: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance<sup>1</sup>__ _n_ :three::hammer: _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_  
@@ -6680,9 +6686,11 @@ __labrum__
 __lace up__ _v_ _Adam laced up his Nikes._  
 __lace__ _n_  
 __lacerate__ _v_  
+__lachrymose__ _adj_  
 __lackadaisical__  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
+__laconic__ _adj_  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
@@ -6969,7 +6977,7 @@ __listless__ :two::hammer:
 __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate__ :two::hammer:  
-__lithe__ :two::hammer:  
+__lithe__ _adj_ :three::hammer:  
 __lithotripsy__ _n_  
 __lithotripter__ _n_  
 __litigation__  
@@ -7577,7 +7585,7 @@ __moonshine<sup>2</sup>__ _v_
 __moonshot__ _n_ :two: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
-__moot<sup>1</sup>__ _adj_ :seven: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot<sup>1</sup>__ _adj_ :eight: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
@@ -7625,6 +7633,7 @@ __motorist__ _n_ :two: A person who drives or travels in a privately owned autom
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mould__ _n_  
+__Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
 __mountebank__  
 __mounting__ _Evidence is mounting for an ocean at Pluto._  
@@ -8594,6 +8603,7 @@ __perpetrator__
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __persona__ _n_ :two: In Latin, _persona_ originally meant "mask." _That's my stage persona._  
 __perspiration__  
+__pert__ _adj_  
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
 __perusal__ _n_  
@@ -8613,7 +8623,7 @@ __petted__
 __petty cash__ Small amount of cash available for everyday expenses.  
 __petty__ :two::hammer: _A petty argument resulted in her son's murder._ _Don't be so petty._  
 __petulance__  
-__petulant__ _adj_ :three::mega::hammer:  
+__petulant__ _adj_ :four::mega::hammer:  
 __petulantly__  
 __pew__ _Church pews._  
 __pewter__  
@@ -8767,7 +8777,7 @@ __pivot<sup>1</sup>__ _n_ :two::hammer:
 __pivot<sup>2</sup>__ _v_  
 __pivotal__ :two::hammer:  
 __pixie__  
-__pizazz__ _n_ :two: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
+__pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzle__ _n_ :two::hammer: (penis?)  
 __PJs__  
 __pk__  
@@ -9358,7 +9368,7 @@ __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder),
 __quench__  
 __quenched__ _v_  
 __quenches__ _v_  
-__querulous__ :two::hammer:  
+__querulous__ _adj_ :three::hammer:  
 __query__ :mega:  
 __questioner__ _n_  
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
@@ -10334,7 +10344,7 @@ __second nature__
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
-__secret weapon__ _n_ :three: something that will help you gain a big advantage over your competitors, that they do not know about.  
+__secret weapon__ _n_ :four: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secular__ :two::hammer:  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__ _He travels with a security detail._  
@@ -10540,7 +10550,7 @@ __shine a light__
 __shine off__ _Don't try to shine me off, worm man._  
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
-__shingle__ _n_ :five::hammer: (shingles)  
+__shingle__ _n_ :six::hammer: (shingles) :es: herpes zóster  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
@@ -11742,7 +11752,7 @@ __supersede__ _v_
 __supervise__ _v_  
 __supping__ _v_  
 __supplant__  
-__supple__ _adj_ :pencil2::seven::hammer: _A supple weapon._ :es: flexible  
+__supple__ _adj_ :pencil2::eight::hammer: _A supple weapon._ :es: flexible  
 __suppleness__ _Mental suppleness._  
 __supplier__ _n_  
 __supply and demand__  
@@ -13255,7 +13265,7 @@ __whereabouts__
 __whereas__  
 __whereby__  
 __wherewithal__ _n_ :four::hammer:  
-__whet__ _v_ :seven: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year's Part 2._  
+__whet__ _v_ :eight: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year's Part 2._  
 __whether__ :mute:[w~~h~~ether]  
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
