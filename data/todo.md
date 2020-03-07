@@ -1,5 +1,14 @@
 
 
+__tank__ _v_  
+__jarring__ _adj_ Surprising, or slightly shocking.  
+__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
+__kumbaya__ _n_ Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
+__voltage__ _n_ :mega:  
+__frostbite__ _n_  
+__delight__ _n_  
+__to that end__ _idiom_  
+
 __PMS__ _abbr_ Premenstrual syndrome.  
 __allowance__ _n_  
 __chemtrail__ _n_ :camera:  
