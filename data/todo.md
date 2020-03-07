@@ -1,5 +1,14 @@
 
 
+__tight__ _adj_ A tight deadline.  
+__team up__ _v_  
+__overcome__ _v_ _We need to overcome the current hurdles._  
+__hold back__ _v_  
+__attract__ _v_  
+__anodized__  
+__plausibility__ :pencil2:  
+__sturdy__  
+
 __chaperone<sup>1</sup>__ _n_  
 __chaperone<sup>2</sup>__ _v_  
 __makeover__ _n_  
