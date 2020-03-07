@@ -1,5 +1,14 @@
 
 
+__imperious__ _adj_ Having or showing arrogant superiority to and disdain of those one views as unworthy.  
+__harp on the same string__ _idiom_ To dwell tediously and repeatedly upon a single subject or topic, especially in complaint. Likened to playing the same note over and over again on a harp.  
+__filch__ _v_ To steal secretly or casually.  
+__hanging offense__ _idiom_ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
+__untenable__ _adj_ __1__ Not able to be defended. __2__ Not able to be occupied.  
+__boo__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
+__dodo__ _n_ _informal_ A stupid person; an idiot.  
+__find (something) out the hard way__ _idiom_ To learn or discover something through personal experience, especially that which is difficult, painful, or unpleasant. Can also be phrased as "find out about something the hard way."  
+
 __tight__ _adj_ A tight deadline.  
 __team up__ _v_  
 __overcome__ _v_ _We need to overcome the current hurdles._  
