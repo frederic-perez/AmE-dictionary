@@ -1,5 +1,14 @@
 
 
+__slumber__ _n_  
+__disingenuous__ _adj_  
+__misting fan__ _n_  
+__diligent__ _adj_ Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
+__get the gist__ _idiom_ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
+__smart as a whip__ _idiom_ Very intelligent or clever, as in _Little Brian is smart as a whip; he's only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
+__a sobering thought__ _idiom_ A thought or idea which is dispiriting, depressing, or traumatic.  
+__allege__ _v_ __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
+
 __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __breakup__ _n_ The termination or disintegration of a relationship (between persons or nations).  
