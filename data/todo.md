@@ -1,5 +1,14 @@
 
 
+__a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
+__the happy day__ _idiom_ A wedding, or marriage in general.  
+__breakup__ _n_ The termination or disintegration of a relationship (between persons or nations).  
+__hard on the eyes__ _idiom_ Unattractive; ugly.  
+__flagellation__ _n_ Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
+__be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
+__on point__ On point is "exactly right" or "perfect." In slang, the expression often describes someone as "on their game" or "looking sharp."  
+__litmus test__ _n_  
+
 __tank__ _v_  
 __jarring__ _adj_ Surprising, or slightly shocking.  
 __have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
