@@ -1,27 +1,4 @@
 
-
-__tank__ _v_  
-__jarring__ _adj_ Surprising, or slightly shocking.  
-__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
-__kumbaya__ _n_ Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
-__voltage__ _n_ :mega:  
-__frostbite__ _n_  
-__delight__ _n_  
-__to that end__ _idiom_  
-
-__slumber__ _n_  
-__disingenuous__ _adj_  
-__misting fan__ _n_  
-__diligent__ _adj_ Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
-__get the gist__ _idiom_ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
-__smart as a whip__ _idiom_ Very intelligent or clever, as in _Little Brian is smart as a whip; he's only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
-__a sobering thought__ _idiom_ A thought or idea which is dispiriting, depressing, or traumatic.  
-__allege__ _v_ __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
-
-__a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
-__the happy day__ _idiom_ A wedding, or marriage in general.  
-__breakup__ _n_ The termination or disintegration of a relationship (between persons or nations).  
-__hard on the eyes__ _idiom_ Unattractive; ugly.  
 __flagellation__ _n_ Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
 __be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __on point__ On point is "exactly right" or "perfect." In slang, the expression often describes someone as "on their game" or "looking sharp."  

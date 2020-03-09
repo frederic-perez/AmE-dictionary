@@ -32,12 +32,14 @@ __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a good turn__ _idiom_ An action that is beneficial to another person in some way.  
 __a great many__ _idiom_ A very large number of (people, things, etc.).  
+__a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
 __a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
+__a sobering thought__ _idiom_ A thought or idea which is dispiriting, depressing, or traumatic.  
 __a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
@@ -286,7 +288,7 @@ __all-pro__ _The Browns all-pro receiver._
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
 __allay__ _v_ :four::hammer: (allayed)  
 __allegation__ _n_  
-__alleged__  
+__allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __allegedly__  
 __allergens__  
 __allies__ _n_  
@@ -1409,7 +1411,7 @@ __breakneck__ _They are on a breakneck pace._
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
 __breakout<sup>2</sup>__ _adj_ :seven: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
 __breakthrough__ _n_  
-__breakup__ _n_  
+__breakup__ _n_ :two: The termination or disintegration of a relationship (between persons or nations).  
 __breakwater__ _n_  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
@@ -3119,7 +3121,8 @@ __delegatable__ _Non-delegatable actions._
 __deleterious__ _adj_ :five: Harmful often in a subtle or unexpected way.  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
-__delight__ _v_ _It delighted me even though I expected it._  
+__delight<sup>1</sup>__ _n_  
+__delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
 __deliver__ _v_ :two::hammer: _Republicans apparently cannot deliver._  
 __deliverance__ _n_ :four::hammer: _Hope and deliverance._  
@@ -3245,6 +3248,7 @@ __dikes__ :pencil2:
 __dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
 __dilemma__  
+__diligent__ _adj_ Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
 __dill__ _n_ :two::hammer: _A dill pickle._  
 __dilutive__  
 __dim__ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
@@ -3328,7 +3332,7 @@ __dishwasher__ _I worked as a dishwasher._
 __dishy__  
 __disillusionment__  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
-__disingenuous__ _adj_ Not really honest or sincere, and only pretending to be.  
+__disingenuous__ _adj_ :two: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
@@ -4771,7 +4775,7 @@ __front and center__ :two::hammer:
 __front man__ _n_ :two::hammer: (frontman)  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
-__frostbite__ _n_ :four::hammer:  
+__frostbite__ _n_ :five::hammer:  
 __frosted glass__ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
@@ -4982,6 +4986,7 @@ __get over__
 __get set__ _v_  
 __get stops__ :two::hammer:  
 __get the axe__ _idiom_ To lose your job.  
+__get the gist__ _idiom_ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
 __get the knack of__ _idiom_ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the middle finger__  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
@@ -5520,6 +5525,7 @@ __haranguing__ _v_ :two::hammer:
 __harbinger__ _n_ :four::hammer:  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard nut to crack__ _idiom_ A problem that is hard to solve or a person who is difficult to understand.  
+__hard on the eyes__ _idiom_ Unattractive; ugly.  
 __hard rock__ _n_  
 __hard sell__  
 __hard-ball__  
@@ -5580,6 +5586,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
+__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
@@ -6380,7 +6387,7 @@ __janitor__ _n_
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
-__jarring__ _adj_ :two::hammer:  
+__jarring__ _adj_ :three: Surprising, or slightly shocking.  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
@@ -6675,7 +6682,7 @@ __kroop__
 __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
-__Kumbaya__ _n_  
+__kumbaya__ _n_ :two: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
 __kybosh__ _v_  
 __L-plate__ _He saw the L-plate on the back of the car._  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
@@ -7518,6 +7525,7 @@ __misspend__ _v_ To spend time more or money foolishly or wastefully.
 __misstate__ _v_  
 __misstated__ _v_  
 __missteps__  
+__misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
@@ -10921,7 +10929,8 @@ __sluice__ _v_ :six::hammer: (sluiced, sluicing)
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
-__slumber__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
+__slumber<sup>1</sup>__ _n_  
+__slumber<sup>2</sup>__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
 __slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
 __slumming__ _v_ :two::hammer:  
 __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._  
@@ -10943,6 +10952,7 @@ __small print__
 __small__ _I rubbed the small of her back._  
 __smallpox__ :two::hammer:  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
+__smart as a whip__ _idiom_ Very intelligent or clever, as in _Little Brian is smart as a whip; he's only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
 __smart case__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ _adj_ :three: Clean and neat in appearance and dressed in nice fashionable clothes, especially in a slightly formal way. _Smart riding-clothes._ _The man was smartly dressed._ _Smart tailored jackets._  
@@ -11948,7 +11958,7 @@ __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
-__tank__ _v_ :seven::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_  
+__tank__ _v_ :eight::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_  
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__ _n_ :two::hammer:  
@@ -12118,6 +12128,7 @@ __the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that see
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
 __the final straw__  
 __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
+__the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
 __the lion's share__ _idiom_ Major share of something.  
 __the name of the game__  
@@ -12317,9 +12328,8 @@ __to let (one’s) guard down__ To stop being cautious; to relax and stop being 
 __to see red__ _idiom_ Very angry.  
 __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that effect__  
-__to that end__ :two::hammer: (to that end,)  
-__to this day__ _idiom_ :three::hammer: _I don't know if they still do it to this day._  
-__To this day,__  
+__to that end__ _idiom_ :three::hammer: (to that end,)  
+__to this day__ _idiom_ :four::hammer: _I don't know if they still do it to this day._  
 __to-do list__  
 __toad bag__ _n_  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
@@ -13050,6 +13060,7 @@ __volatile__ _adj_
 __volcano__  
 __volition__ :two::hammer:  
 __volley__ :two::hammer: _A volley of invective._ _(military attack?)_  
+__voltage__ _n_ :mega:  
 __voltron__  
 __voluble__  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
