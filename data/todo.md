@@ -1,26 +1,4 @@
 
-__flagellation__ _n_ Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
-__be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
-__on point__ On point is "exactly right" or "perfect." In slang, the expression often describes someone as "on their game" or "looking sharp."  
-__litmus test__ _n_  
-
-__tank__ _v_  
-__jarring__ _adj_ Surprising, or slightly shocking.  
-__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
-__kumbaya__ _n_ Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
-__voltage__ _n_ :mega:  
-__frostbite__ _n_  
-__delight__ _n_  
-__to that end__ _idiom_  
-
-__PMS__ _abbr_ Premenstrual syndrome.  
-__allowance__ _n_  
-__chemtrail__ _n_ :camera:  
-__shiv__ _n_ A knife used as a weapon.  
-__thoracotomy__ _n_  
-__concomitant__ _adj_  
-__caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
-__brainwave__ _idiom_ A sudden idea or moment of inspiration; a brainstorm.  
 
 __imperious__ _adj_ Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __harp on the same string__ _idiom_ To dwell tediously and repeatedly upon a single subject or topic, especially in complaint. Likened to playing the same note over and over again on a harp.  

@@ -296,7 +296,7 @@ __allocation__ :two::hammer: _Allocation of resources._
 __allograft__ _n_  
 __allotment__ :two::hammer:  
 __allotted__  
-__allowance__ _n_ :two::hammer:  
+__allowance__ _n_ :three::hammer:  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
@@ -845,6 +845,7 @@ __be dismissed__ :es: retirarse (por ejemplo de la mesa)
 __be friends__ _I was good friends with her._  
 __be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
+__be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
 __be no picnic__ _Looking after four children is no picnic._  
@@ -1367,6 +1368,7 @@ __brainchild__ _n_ :two::hammer:
 __brainiac__ _Slang_ A highly intelligent person.  
 __brainpan__  
 __brainwash__ _v_  
+__brainwave__ _idiom_ A sudden idea or moment of inspiration; a brainstorm.  
 __braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: estofar  
 __brambles__ _n_ :four::hammer:  
 __Branch Davidians__  
@@ -1698,6 +1700,7 @@ __cabinet__ :two::hammer: _A top cabinet job._
 __cabinetry__  
 __cable bookers__  
 __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,400 pairs of lines._  
+__caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
 __cackle__ _v_ :four::hammer: (cackling)  
@@ -2057,6 +2060,7 @@ __cheese-eater__
 __cheesecloth__ _n_ :three::hammer:  
 __cheesy__ _adj informal_ _idiom_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chemistry__ :mute:[c~~h~~emistry]  
+__chemtrail__ _n_ :camera:  
 __chenier__  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
@@ -2464,7 +2468,7 @@ __conch__ _A conch farm._
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ :two::hammer:  
-__concomitant__ :two::hammer:  
+__concomitant__ _adj_ :three::hammer:  
 __concourse__ _n_ :five::hammer:  
 __concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
@@ -3121,7 +3125,7 @@ __delegatable__ _Non-delegatable actions._
 __deleterious__ _adj_ :five: Harmful often in a subtle or unexpected way.  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
-__delight<sup>1</sup>__ _n_  
+__delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
 __deliver__ _v_ :two::hammer: _Republicans apparently cannot deliver._  
@@ -4414,7 +4418,7 @@ __flaccid__ _adj_
 __flag-stop service__  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
-__flagellation__ _n_  
+__flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :two::hammer: _A flagrant foul._  
@@ -4775,7 +4779,7 @@ __front and center__ :two::hammer:
 __front man__ _n_ :two::hammer: (frontman)  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
-__frostbite__ _n_ :five::hammer:  
+__frostbite__ _n_ :six::hammer:  
 __frosted glass__ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
@@ -5586,7 +5590,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
-__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
+__have (got) (someone's) back__ _idiom_ :two: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
@@ -6387,7 +6391,7 @@ __janitor__ _n_
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _"We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
-__jarring__ _adj_ :three: Surprising, or slightly shocking.  
+__jarring__ _adj_ :four: Surprising, or slightly shocking.  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
@@ -6682,7 +6686,7 @@ __kroop__
 __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
-__kumbaya__ _n_ :two: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
+__kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
 __kybosh__ _v_  
 __L-plate__ _He saw the L-plate on the back of the car._  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
@@ -6989,6 +6993,7 @@ __lithotripsy__ _n_
 __lithotripter__ _n_  
 __litigation__  
 __litigator__  
+__litmus test__ _n_  
 __litter__ _n_ :camera::pencil2:  
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
@@ -8089,6 +8094,7 @@ __on every level__ _idiom_ _That was a bad idea on every level._
 __on fire__ _idiom_ Something is going really well or someone is doing a fantastic job.  
 __on foot__ _I work to work on foot._  
 __on pins and needles__ _idiom_ Worried or excited about something.  
+__on point__ On point is "exactly right" or "perfect." In slang, the expression often describes someone as "on their game" or "looking sharp."  
 __on steroids__  
 __on the back burner__ _idiom_ :two::hammer:  
 __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
@@ -8887,6 +8893,7 @@ __plush__ _adj_ :six: Things that are plush are luxurious and a little over the 
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
 __PM__ Particulate matter. Small particles in the air, containing a variety of components.  
+__PMS__ _abbr_ Premenstrual syndrome.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ :mute:[~~p~~neumonia]  
 __PO__ Parole officer?  
@@ -10569,6 +10576,7 @@ __shit-hole__ _n_ _informal_ A very bad place; a disgusting place.
 __shitcan__ _v_  
 __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
 __shitless__ _They were scared shitless._  
+__shiv__ _n_ A knife used as a weapon.  
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
 __shoat__ _n_  
@@ -11958,7 +11966,7 @@ __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
-__tank__ _v_ :eight::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_  
+__tank__ _v_ :nine::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It's called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_  
 __tanker truck__  
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__ _n_ :two::hammer:  
@@ -12169,6 +12177,7 @@ __thistle__ :mute:[this~~t~~le]
 __thither__ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __thobbing__  
 __thong__ _n_ :two::hammer:  
+__thoracotomy__ _n_  
 __thorny__ _adj_  
 __thorough__ _adj_ :two::astonished::mute:[thorou~~gh~~] _It's a very serious matter that needs thorough investigation._  
 __thoroughfare__  
@@ -12328,7 +12337,7 @@ __to let (one’s) guard down__ To stop being cautious; to relax and stop being 
 __to see red__ _idiom_ Very angry.  
 __to taste (to one's taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that effect__  
-__to that end__ _idiom_ :three::hammer: (to that end,)  
+__to that end__ _idiom_ :four::hammer: (to that end,)  
 __to this day__ _idiom_ :four::hammer: _I don't know if they still do it to this day._  
 __to-do list__  
 __toad bag__ _n_  
@@ -13060,7 +13069,7 @@ __volatile__ _adj_
 __volcano__  
 __volition__ :two::hammer:  
 __volley__ :two::hammer: _A volley of invective._ _(military attack?)_  
-__voltage__ _n_ :mega:  
+__voltage__ _n_ :two::mega::hammer:  
 __voltron__  
 __voluble__  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
