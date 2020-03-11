@@ -386,6 +386,7 @@ __annihilation__ :pencil2::mega:
 __anniversary__ :pencil2::mega:  
 __annuity__ (annuities) :two::hammer:  
 __annum__ _n_  
+__anodized__  
 __anomic__  
 __anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anorak__ _n_ :two::hammer:  
@@ -601,6 +602,7 @@ __attendee__ _n_ :two::mega::hammer:
 __attest__ _v_ :two::hammer:  
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
 __Attn__  
+__attract__ _v_  
 __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
 __attrition__ _n_ :six::hammer:  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
@@ -1279,6 +1281,7 @@ __bonobo__
 __bonus__ :mega: /bō′nəs/  
 __boo<sup>1</sup>__ _v_ :es: abuchear  
 __boo<sup>2</sup>__ _interj_  
+__boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
 __booby trap__ _n_  
 __booby-trapped 105's__  
 __boogeyman__  
@@ -2007,7 +2010,8 @@ __chanting__
 __chaos__ :mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
 __chaparral__ _n_ :two::hammer:  
-__chaperones__ _n_ :two::hammer:  
+__chaperone<sup>1</sup>__ _n_ :three::hammer:  
+__chaperone<sup>2</sup>__ _v_  
 __chaplain__ _n_ :four::mega:  
 __chapter__ _To the east was the chapter house._  
 __char__ _v_ (charred)  
@@ -3428,7 +3432,7 @@ __doddering__
 __dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :two: Dishonetsor unreliable.  
-__dodo__ Extinct flightless bird whose name has become synonymous with stupidity.  
+__dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doeskin__ _A doeskin wallet._  
 __doesn't hold water__ _idiom_ Not true or not reasonable.  
@@ -4337,7 +4341,7 @@ __figure skates__ _n_
 __figure__ _5-figure price tag._  
 __figurehead__ :two::hammer:  
 __figures__ :two::hammer: _It figures._  
-__filched__  
+__filch__ _v_ :two: (filched) To steal secretly or casually.  
 __file a case__ _v_  
 __file suit__ _v_  
 __file<sup>1</sup>__ _n_  
@@ -4357,6 +4361,7 @@ __finagle__ _v_ To obtain or achieve by indirect, usually deceitful methods.
 __final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
+__find (something) out the hard way__ _idiom_ To learn or discover something through personal experience, especially that which is difficult, painful, or unpleasant. Can also be phrased as "find out about something the hard way."  
 __fine print__  
 __fine__ _That's a very fine line._  
 __fine-tune__ _v_  
@@ -5506,6 +5511,7 @@ __handyman__ _n_ :three::hammer:
 __hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __hanger__ _n_ _You left some hangers at my place._  
+__hanging offense__ _idiom_ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
 __hangnail__ :two::hammer:  
 __hangout__ :three::hammer: _This was a hangout._  
 __hank__  
@@ -5556,6 +5562,7 @@ __harissa__ :two::hammer:
 __hark__ _v_ :two::hammer: (harking)  
 __harmonize__ _v_  
 __harness__ _v_ :two::hammer: _Harnessing big data._  
+__harp on the same string__ _idiom_ To dwell tediously and repeatedly upon a single subject or topic, especially in complaint. Likened to playing the same note over and over again on a harp.  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
@@ -5836,7 +5843,7 @@ __hold (one's) feet to the fire__ _idiom_ To put pressure on one to do, say, or 
 __hold a candle__ _idiom_  
 __hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
 __hold a referendum__  
-__hold back__ _v_ :two::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
+__hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
 __hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
 __hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more day so I can answer your question._ _If the rain holds off._ :es: Si no llueve.  
@@ -5996,6 +6003,7 @@ __Humpty-Dumpty__ :two::hammer:
 __Humvee__ _n_ :two::hammer:  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
+__hunger strike__  
 __hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker__ _v_ :three::hammer: (hunkered)  
@@ -6104,7 +6112,7 @@ __impedimenta__ _n_
 __impelled__  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
-__imperious__  
+__imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __impermissible__ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :five::hammer:  
@@ -7203,6 +7211,7 @@ __make strides__ :two::hammer: _The GOP nominee will need to make huge strides w
 __make up one's mind__ _idiom_ :two: To make a decision. _Too much love will kill you if you can't make up your mind._  
 __make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
+__makeover__ _n_  
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
@@ -8281,6 +8290,7 @@ __overarching__ _adj_ :four::hammer: _An overarching quality._ _An overarching p
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overboard__ _To go overboard._  
+__overcome__ _v_ _We need to overcome the current hurdles._  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
 __overdue__ _A resurgence in social homes is long overdue._  
 __overflight__  
@@ -8832,6 +8842,7 @@ __platoon__ _v_ :two::hammer:
 __platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
 __plaudits__  
+__plausibility__ :pencil2:  
 __plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
@@ -11683,7 +11694,7 @@ __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
 __stupefy__  
-__sturdy__ _adj_ :three::hammer:  
+__sturdy__ _adj_ :four::hammer:  
 __stutter__ _v_ :two::hammer:  
 __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart.  
 __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._  
@@ -12034,6 +12045,7 @@ __tchotchkes__ :two::hammer: _Simpson tchotchkes._
 __tea party__ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __Tea partyers__ :pencil2:  
 __teakwood__ :pencil2:  
+__team up__ _v_  
 __Teamster__ _n_ :two::hammer:  
 __tear gas__ :two::hammer:  
 __tear__ _The stock has been on a tear._  
@@ -12258,7 +12270,7 @@ __tiebreaking__ _A tiebreaking goal._
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
 __tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
 __tight as a drum__ _idiom_ Taut or close-fitting; also, watertight.  
-__tight__ _adj_ _slang_ :two::mute:[ti~~gh~~t] Very good, excellent; cool; awesome.  
+__tight__ _adj_ :two::mute:[ti~~gh~~t]:hammer: __1__ _slang_ Very good, excellent; cool; awesome. __2__ _A tight deadline._  
 __tight-knit__ _We are a tight-knit family._  
 __tighten your belt__ _idiom_ To spend less money.  
 __tighten__ _v_ _Tighten your belts._  
@@ -12834,7 +12846,7 @@ __unsung__
 __unswerving__ _adj_ _Unswerving confidence._  
 __unswervingly__  
 __untapped__ _Untapped talent._  
-__untenable__ :two::hammer:  
+__untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
 __unthawed__ _Unthawed croissant._  
 __unthinkable__ _The unthinkable has befallen President._  
 __unticked__ :dart: _Checking an unticked box on my to-do list._  
