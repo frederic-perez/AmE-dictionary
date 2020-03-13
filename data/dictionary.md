@@ -583,6 +583,7 @@ __at the very least__
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at wit's end__ _He was at wit's end._  
 __atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn't have to be a feeling; it can be anything that's a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
+__atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __athwart__  
 __atlatl__  
 __atolls__ _n_  
@@ -851,6 +852,7 @@ __be hard hit (by something)__ _idiom_ To be adversely affected (by something) t
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
 __be no picnic__ _Looking after four children is no picnic._  
+__be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
@@ -1141,7 +1143,7 @@ __blind date__
 __blinders__ _n_  
 __blindfold__ _n_  
 __blindside<sup>1</sup>__ _n_ _Blindside blocks._  
-__blindside<sup>2</sup>__ _v_ :four: (blind side, blindsided) To catch off guard; to take by surprise.  
+__blindside<sup>2</sup>__ _v_ :five: (blind side, blindsided) To catch off guard; to take by surprise.  
 __bling__ _n_ _slang_ :four: Flashy jewelry worn to create the impression of wealth.  
 __blink__ _v_ _There is no reason to blink._  
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
@@ -1707,6 +1709,7 @@ __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole c
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
 __cackle__ _v_ :four::hammer: (cackling)  
+__cacoethes__ _n_ An irrational but irresistible motive for a belief or action.  
 __cacophonous__ _n_ Having an unpleasant sound.  
 __cacophony__ :two::hammer:  
 __cacti__ _n_ :two::hammer:  
@@ -2142,6 +2145,7 @@ __chucklers__
 __chug__ _v_ :three::hammer: _A cocktail to chug._ _We're chugging along._  
 __Chugging beers__  
 __chum__ _n_ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
+__chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick _The bartender is chummy with his regular customers._  
 __chump__ _n_ A stupid person, especially a dupe; sucker.  
 __chumps__ _n_  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
@@ -2393,6 +2397,7 @@ __come to her senses__
 __come to terms__ _idiom_ :three::hammer:  
 __come together__ _idiom_ :two::hammer:  
 __comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
+__comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
 __comforter sets__  
 __comforter__ _n_ :five: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
@@ -3582,7 +3587,7 @@ __drayman__
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_ :two::hammer:  
 __dreamy__ :two::hammer:  
-__dredge up__ _phr v_ :four: __1__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __2__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
+__dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. __2__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __3__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :three::hammer: _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
@@ -3997,7 +4002,8 @@ __erupt__ _v_ :two::hammer: (erupted)
 __erupted__ _v_  
 __escalation__ _n_  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
-__escapade__ _n_ :dart:  
+__escapade__ _n_ :dart::two: A usually adventurous action that runs counter to approved or conventional conduct.  
+__escapism__ _n_ :mega:  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -4311,6 +4317,7 @@ __Fibbies__
 __fiber__  
 __fiberglass__  
 __fibrillation__ _n_  
+__fibroplasia__ _n_  
 __fickle__ :two::hammer: _A fickle ally._  
 __ficus__ _n_ :mega:  
 __fiddle-faddle__  
@@ -4586,7 +4593,7 @@ __folded__ _The American Soccer League folded in 1931._
 __foldout chair__ _n_  
 __folk__ _n_ _n pl_ :four::hammer::mute:[fo~~l~~k]  
 __follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
-__follow suit__ _idiom_ :four: To do as another has done; follow an example.  
+__follow suit__ _idiom_ :five: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four "suits" (diamonds, hearts, spades, and clubs).  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __FOMO__  
 __food coma__ _idiom_  
@@ -4998,6 +5005,7 @@ __get the axe__ _idiom_ To lose your job.
 __get the gist__ _idiom_ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
 __get the knack of__ _idiom_ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the middle finger__  
+__get the the green light__ _idiom_ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
@@ -5605,6 +5613,7 @@ __have a bun in the oven__ _idiom_ To be pregnant.
 __have a heart of gold__ _idiom_ To be very kind and generous.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
+__have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
 __have hot pants (for someone)__ _idiom_  
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have someone pegged__ _She had me pegged on that, too._  
@@ -7612,6 +7621,7 @@ __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
 __mopping up__  
+__moral compass__ _idiom_ That which serves or guides a person's knowledge, sense, or intuition of correct virtues, morals, or ethics.  
 __moral__  
 __morale__ _n_ :two::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
@@ -9332,7 +9342,7 @@ __pustules__ _n_
 __put (one's) foot in (one's) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
 __put it on the money__  
-__put off__  
+__put off__ _idiom_ :two::hammer:  
 __put on a clinic__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiiom_ To discuss or plan something together with other people.  
@@ -9778,7 +9788,7 @@ __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; ticket
 __resident__ _n_  
 __resign__ :mute:[resi~~g~~n]  
 __resiliency__  
-__resilient__ _adj_ :two::hammer:  
+__resilient__ _adj_ :three::hammer:  
 __resist<sup>1</sup>__ _v_  
 __resist<sup>2</sup>__ _n_ _Water resist wristwatch._  
 __resistance__  
@@ -10081,7 +10091,7 @@ __rundown__ _n_
 __rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
-__runny__ _adj_ :two: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
+__runny__ _adj_ :three: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
 __runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
@@ -11934,7 +11944,7 @@ __take a stand__
 __take aback__ _phr v_ To surprise or shock.  
 __take by storm__  
 __take down__ _phr v_ To make notes, to write down information.  
-__take heart__  
+__take heart__ _idiom_ :two::dart: To be confident or courageous.  
 __take it away__ _informal_ To start playing or singing music.  
 __take on__ _phr v_ :two: To accept some work or responsibility.  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
@@ -11942,6 +11952,7 @@ __take out__ _n_ _Order some Chinese take out._
 __take over__ _Kyle took over in the first half and finished with 23 points._  
 __take through__ _phr v_ To explain something to someone.  
 __take to__ _phr v_ To make a habit of something.  
+__take umbrage__ _idiom_ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn't put my full effort into this project._  
 __take up__ _idiom_ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he's retired._  
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ _idiom_ To do something to help you forget about something else.  
@@ -13141,6 +13152,7 @@ __walk-through__ :es: precalentamiento (?)
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
 __walking trail__ :two::hammer: _Many airports are upping their game, adding walking trails._  
+__walkout__ _n_  
 __walkups__ (or walk-ups?)  
 __wall__ _n_ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wall-eyed__  
