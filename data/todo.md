@@ -1,5 +1,14 @@
 
 
+__potentiometer__ _n_  
+__amusement park__ _n_  
+__chutney__ _n_ A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
+__rose water__ _n_ Perfume consisting of water scented with oil of roses.  
+__household__ _It uses a normal household power supply._  
+__boast__ _v_ :four:  
+__pyranometer__ _n_ :two::hammer:  
+__cadence__ _n_  
+
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stave off__ _phr v_  
 __zoonotic__ _adj_  
