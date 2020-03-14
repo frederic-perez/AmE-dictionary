@@ -1,5 +1,14 @@
 
 
+__diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
+__salute__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
+__abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
+__peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
+__halcyon__ _adj_  
+__mondegreen__ _n_ (From the Scottish ballad 'The Bonny Earl of Murray', in which the line "laid him on the green" can be misheard as "Lady Mondegreen.")  
+__have a crush on (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
+__commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
+
 __throwback__  
 __sleazebag__  
 __hobnob__  
