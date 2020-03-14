@@ -1,5 +1,14 @@
 
 
+__proselytize__ _v_  
+__travesty__ _n_  
+__hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
+__at odds__ _idiom_ In disagreement; in conflict.  
+__in the midst of (something)__ _idiom_  
+__asswipe__ _n_  
+__far-flung__ _adj_  
+__elation__ _n_  
+
 __potentiometer__ _n_  
 __amusement park__ _n_  
 __chutney__ _n_ A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
