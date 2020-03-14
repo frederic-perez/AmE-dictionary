@@ -1,5 +1,14 @@
 
 
+__stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
+__stave off__ _phr v_  
+__zoonotic__ _adj_  
+__funnel__ _v_  
+__go-getter__  
+__missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.  
+__inception__ _n_  
+__yada yada yada__  
+
 __diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
 __salute__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
