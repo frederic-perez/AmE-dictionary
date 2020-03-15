@@ -1,5 +1,16 @@
 
 
+__go strong__ _It is still going strong._  
+__shoreline__  
+__gale__ _n_  
+__withstand__ _v_  
+__shortcoming__  
+__coined__ _v_ _The experiment was coined Project Thunder._  
+__strengthen__ _v_  
+__thrust__ _n_  
+__exacerbate__ _v_  
+__sounding system__  
+
 __proselytize__ _v_  
 __travesty__ _n_  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
