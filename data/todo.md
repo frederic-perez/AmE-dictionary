@@ -1,5 +1,14 @@
 
 
+__pothole__ _n_ A pit or hole produced by wear or weathering (especially in a road surface.  
+__whoopsie__ _n_ :dart: __1__ A piece of excrement, esp one left by a pet. __2__ An embarrassing mistake.  
+__dang__ _interj_ Used to express dissatisfaction or annoyance.  
+__bamboozle__ _v_  
+__kosher__ __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. __b__ Genuine; authentic.  
+__kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone's shape and strength.  
+__teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
+__hard knocks__ _idiom_ The real and practical experiences of life, especially those involving hardship or adversity.  
+
 __mysophobia__ _n_ :astonished: A morbid fear of dirt or contamination.  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __coulrophobia__ _n_ Fear of clowns.  
