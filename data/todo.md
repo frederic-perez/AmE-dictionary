@@ -1,5 +1,17 @@
 
 
+__mysophobia__ _n_ :astonished: A morbid fear of dirt or contamination.  
+__ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
+__coulrophobia__ _n_ Fear of clowns.  
+__have a few__ _idiom_ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
+__retronym__ _n_   
+__punctilious__ _adj_ Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
+__shaming__ _adj_  
+__runny__ _adj_  
+__white on rice__ _idiom_ As close as can be. Often used in the phrase "like white on rice."  
+__harangue<sup>1</sup>__ _n_  
+__harangue<sup>2</sup>__ _v_  
+
 __go strong__ _It is still going strong._  
 __shoreline__  
 __gale__ _n_  
