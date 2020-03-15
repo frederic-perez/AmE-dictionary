@@ -1,5 +1,16 @@
 
 
+__PVC__  
+__ischemic__  
+__sudden cardiac arrest__  
+__hypokalemia__  
+__paroxysmal__  
+__prevalent__  
+__task__ _v_ (tasked) _They have been tasked._  
+__turn-key__ :four::hammer:  
+__timely__  
+__rugged__ _adj_  
+
 __pothole__ _n_ A pit or hole produced by wear or weathering (especially in a road surface.  
 __whoopsie__ _n_ :dart: __1__ A piece of excrement, esp one left by a pet. __2__ An embarrassing mistake.  
 __dang__ _interj_ Used to express dissatisfaction or annoyance.  
