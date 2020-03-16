@@ -751,7 +751,7 @@ __baloney__ _n informal_ (bologna) :two: Nonsense.
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
-__bamboozle__ _v_  
+__bamboozle__ _v_ :two::hammer:  
 __banalize__ _v_  
 __bandanna__ :two::hammer:  
 __bandit__ _n_  
@@ -2982,7 +2982,7 @@ __dandelion__ _n_ :five: (dandelions) A wild plant with a bright yellow flower w
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dandy__ _adj_ :two::hammer:  
-__dang__ _interj_ :two: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
+__dang__ _interj_ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ :two::hammer:  
@@ -5542,6 +5542,7 @@ __harangues__
 __haranguing__ _v_ :two::hammer:  
 __harbinger__ _n_ :four::hammer:  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
+__hard knocks__ _idiom_ The real and practical experiences of life, especially those involving hardship or adversity.  
 __hard nut to crack__ _idiom_ A problem that is hard to solve or a person who is difficult to understand.  
 __hard on the eyes__ _idiom_ Unattractive; ugly.  
 __hard rock__ _n_  
@@ -6051,6 +6052,7 @@ __hypertensive__ _To be hypertensive._
 __hypocrisy__  
 __hypocritical__ :two::hammer::pencil2:  
 __hypoglycemia__  
+__hypokalemia__  
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
 __hysteric__  
@@ -6362,6 +6364,7 @@ __irrefutable__ _adj_ _Irrefutable evidence._
 __irreplaceable__  
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
+__ischemic__ _adj_  
 __islet__ _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
@@ -6695,7 +6698,7 @@ __kook__ _n_ _slang_ :two::hammer:
 __kooky__ _adj_ :two: Crazy, mentally unbalanced.  
 __Kool-Aid__  
 __Kosher salt__  
-__kosher__ _A kosher supermarket._  
+__kosher__ _adj_ :two: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. __b__ Genuine; authentic.  
 __kowtow__ _v_ :three::astonished: (kowtowing):astonished: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ ("to knock") with the noun _tou_ ("head"). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
@@ -6705,6 +6708,7 @@ __kudos__
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
 __kybosh__ _v_  
+__kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone's shape and strength.  
 __L-plate__ _He saw the L-plate on the back of the car._  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
@@ -7759,6 +7763,7 @@ __myriad__ _adj_ :three: Very many.
 __myrrh__ _n_ :pencil2: :es: mirra  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
+__mysophobia__ _n_ :astonished: A morbid fear of dirt or contamination.  
 __mysteries__ _n_ :pencil2:  
 __mysterious__ _adj_ :two::pencil2:  
 __mystery shopper__ _n_ Someone hired by a company to pose as a customer in order to evaluate the quality of its service.  
@@ -8037,6 +8042,7 @@ __occasion__ _n_ :pencil2:
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
 __OCD__ :two::hammer: _abbrev_  
+__ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __octogenarians__  
 __octoroons__  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
@@ -8453,6 +8459,7 @@ __parlor__
 __parochial__ _adj_ :three::hammer:  
 __parolee__ _n_  
 __paroxysm__  
+__paroxysmal__  
 __parried__ _v_  
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parroting__ _v_  
@@ -9024,7 +9031,7 @@ __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the sco
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
 __potatoes__ :pencil2:  
 __potent__ _adj_  
-__pothole__ _n_ :three::hammer: (potholes)  
+__pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface.  
 __potholed__ _The island's potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __pottering__ _v_ _She is pottering around the house._  
@@ -9117,6 +9124,7 @@ __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty pe
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __prevails__ _v_  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
+__prevalent__  
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -9358,6 +9366,7 @@ __putter__ _v_ :three::hammer: (puttered)
 __putting aside__  
 __putty knife__ :es: espátula  
 __putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
+__PVC__  
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
@@ -10064,7 +10073,7 @@ __ruffles__
 __rug > sweep it under the rug__  
 __rug rat__ _n_ A young child, a toddler.  
 __rug__ _n_ :two: Hairpiece, chignon.  
-__rugged__ _He was red carded for a rugged foul._  
+__rugged__ _adj_ :two::hammer: _He was red carded for a rugged foul._  
 __rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
 __rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
@@ -11744,6 +11753,7 @@ __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head agai
 __suckle__ _v_  
 __suckled__ _v_ :two::hammer:  
 __sucklings__ _n_  
+__sudden cardiac arrest__  
 __sudden__  
 __suds__  
 __sudsy__  
@@ -12025,7 +12035,7 @@ __tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._
 __tartar__ _n_  
 __tarts__ _n_ (whore)  
 __Taser__ _A Taser stun gun._  
-__tasked__ _v_  
+__task__ _v_ :two::hammer: (tasked) _They have been tasked._  
 __tassel__ _n_  
 __tasseled__ _v_ :five::hammer: _Tasseled loafers._  
 __tassels__ _A thong with tassels._  
@@ -12072,6 +12082,7 @@ __teem__ _v_
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :nine: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
+__teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
 __Teflon__ _n_ :mega:  
 __tektite__ _n_ :pencil2:  
@@ -12301,7 +12312,7 @@ __time line__ _Can it be done in that time line?_
 __timeclock__ _Denver Movie Timeclock._  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__  
-__timely__ _adj_ :seven::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :eight::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_  
 __timetable<sup>2</sup>__ _v_  
@@ -12662,7 +12673,7 @@ __turn around__ To change something unsuccessful into something successful.
 __turn away__ To refuse to let someone come into a place.  
 __turn on__ _phr v_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
-__turn-key__ A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
+__turn-key__ _adj_ :five: A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
 __turnaround__ _n_  
 __turndown__ _n_ The act of refusing an offer.  
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
@@ -13377,6 +13388,7 @@ __whoop<sup>1</sup>__ _n_ :two::hammer:
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
+__whoopsie__ _n_ :dart: __1__ A piece of excrement, esp one left by a pet. __2__ An embarrassing mistake.  
 __whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whooshed__ _v_  
 __whorls__ :two::hammer:  
