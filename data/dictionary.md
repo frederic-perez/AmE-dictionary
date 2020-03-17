@@ -2342,7 +2342,7 @@ __coif__ _Strange coif._
 __coiffed__  
 __coil__  
 __coin purse__  
-__coin__ _v_ :two::hammer: _To coin a phrase._  
+__coin__ _v_ :three::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._  
 __coincided__ _v_  
 __coincidental__  
 __coincidentally__  
@@ -2657,6 +2657,7 @@ __cougar__ _n_ An older woman seeking a sexual relationship with a younger man.
 __cough up__ _v_  
 __could__ :mute:[cou~~l~~d]  
 __coulee__  
+__coulrophobia__ _n_ Fear of clowns.  
 __councilor__ _n_  
 __counsel__  
 __counselor__ _n_  
@@ -4046,7 +4047,7 @@ __eviscerate__ _v_
 __evolve__ _v_  
 __ewer__ _n_  
 __ewes__ _n_  
-__exacerbate__ _v_ :nine: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceed__ _v_  
 __exceedingly__  
@@ -4872,7 +4873,7 @@ __gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored 
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
 __galboy__ _n_  
-__gale__ _n_ :two: An extremely strong wind: _the gale blew down hundreds of trees._  
+__gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
 __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
@@ -5131,6 +5132,7 @@ __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or lenient
 __go soft__ _idiom_ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go stir-crazy__ _idiom_ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. "Stir" in this usage is a slang word for prison.  
+__go strong__ _It is still going strong._  
 __go the way of the dinosaur(s)__ _idiom_ To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go through the roof__  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
@@ -5538,8 +5540,8 @@ __happy as a clam__ _idiom_ Very happy.
 __happy feet__  
 __haps__ _n_ :two::hammer: _What's the haps?_  
 __harangue__ _v_  
-__harangues__  
-__haranguing__ _v_ :two::hammer:  
+__harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
+__harangue<sup>2</sup>__ _v_ :four::hammer: (haranguing)_v_  
 __harbinger__ _n_ :four::hammer:  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard knocks__ _idiom_ The real and practical experiences of life, especially those involving hardship or adversity.  
@@ -5611,6 +5613,7 @@ __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, a
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
+__have a few__ _idiom_ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
@@ -9219,7 +9222,7 @@ __propped__ _v_ :two::hammer:
 __props__ :two::hammer: _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
 __prosaic__  
 __proselytism__ :astonished:  
-__proselytize__ _v_ :four::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
+__proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prospect__ _n_ (sports)  
 __prospective__ _Prospective clients._  
 __prospector__  
@@ -9304,6 +9307,7 @@ __punch<sup>1</sup>__ _n_ A beverage of fruit juices and sometimes a soft drink 
 __punch<sup>2</sup>__ _v_ :three::hammer: _I'm going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
 __punching bag__ _The firm was a regular punching bag._  
 __punchline__ _n_ :pencil2:  
+__punctilious__ _adj_ Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
 __punctuate__  
 __puncture__ _n_  
 __punctured__ _v_ _Punctured his tire._  
@@ -9834,6 +9838,7 @@ __retreat<sup>1</sup>__ _v_ :three::hammer: (retrenching)
 __retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
 __retrenchment__ :two::hammer: _An era of American retrenchment._  
 __retribution__  
+__retronym__ _n_  
 __retroscopic__  
 __returnee__  
 __Reuben James__  
@@ -10100,7 +10105,7 @@ __rundown__ _n_
 __rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
-__runny__ _adj_ :three: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
+__runny__ _adj_ :four: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
 __runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
@@ -10525,6 +10530,7 @@ __shambles__ _n_ :four::hammer: _By 1984, our dreams were a shambles._ _It was i
 __shambling__  
 __shambolic__  
 __shame__ _v_ _He shamed me._  
+__shaming__ _adj_  
 __shamrock__  
 __shamus__  
 __shank<sup>1</sup>__ _n_ :eight::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
@@ -10638,6 +10644,7 @@ __shootout__ _n_ __1a__ A gun fight. __b__ A battle between military forces. __2
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
+__shoreline__  
 __shorn__ _adj_ :four: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short fuse__  
 __short hand__  
@@ -10647,7 +10654,7 @@ __short-charge__
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__  
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
-__shortcomings__ _n_  
+__shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_  
 __shortfall__ _n_ _Syn_ deficit, shortage  
 __shorthand__ :two::hammer:  
@@ -11182,6 +11189,7 @@ __soul__ _n_ :mega:
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :three::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
+__sounding system__  
 __soundly__ _Sleep soundly._  
 __soup kitchen__ _n_  
 __souped-up__ _v_  
@@ -11651,6 +11659,7 @@ __streaming__ _Streaming eyes._
 __streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strech__ _He was awake for long streches of time._  
 __streetcar__  
+__strengthen__ _v_  
 __strenuous__ _adj_ :astonished::three::hammer:  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
@@ -12251,7 +12260,7 @@ __throws__ _n_
 __thrum__  
 __thrums__ _v_  
 __thrust<sup>1</sup>__ _v_ :two::hammer:  
-__thrust<sup>2</sup>__ _n_  
+__thrust<sup>2</sup>__ _n_ :two::hammer:  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ :two::hammer:  
@@ -13362,6 +13371,7 @@ __whit__ _A whit of intelligence._
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __white line__ (appliances)  
+__white on rice__ _idiom_ As close as can be. Often used in the phrase "like white on rice."  
 __white__ :mute:[w~~h~~ite]  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
@@ -13488,6 +13498,7 @@ __withhold__
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
 __without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
+__withstand__ _v_  
 __wizened__ _adj_ :four: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
