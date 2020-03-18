@@ -1,27 +1,5 @@
 
 
-__travesty__ _n_  
-__hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
-__at odds__ _idiom_ In disagreement; in conflict.  
-__in the midst of (something)__ _idiom_  
-__asswipe__ _n_  
-__far-flung__ _adj_  
-__elation__ _n_  
-
-__potentiometer__ _n_  
-__amusement park__ _n_  
-__chutney__ _n_ A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
-__rose water__ _n_ Perfume consisting of water scented with oil of roses.  
-__household__ _It uses a normal household power supply._  
-__boast__ _v_ :four:  
-__pyranometer__ _n_ :two::hammer:  
-__cadence__ _n_  
-
-__stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
-__stave off__ _phr v_  
-__zoonotic__ _adj_  
-__funnel__ _v_  
-__go-getter__  
 __missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.  
 __inception__ _n_  
 __yada yada yada__  

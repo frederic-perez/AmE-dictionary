@@ -348,7 +348,7 @@ __ample__ _adj_ :four: __1__ Enough or more than enough. _Ample evidence._ _Ther
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
-__amusement park__  
+__amusement park__ _n_ :two::hammer:  
 __an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
 __anachronism__  
 __anal bleaching__ _n_  
@@ -562,6 +562,7 @@ __associate with__ _phr v_ To spend time with someone.
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :four::hammer:  
 __assuredness__ _n_  
+__asswipe__ _n_  
 __asthma__ _n_  
 __astigmatism__ _n_  
 __astir__  
@@ -575,7 +576,7 @@ __at a loss__ _They sat inside the car, at a loss for what to do next._
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at large__ _idiom_  
-__at odds__ _v_ :five: (be at odds) To disagree. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
+__at odds__ _idiom_ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the door__ _The cost to attend is $35 in advance and $40 at the door._  
 __at the earliest__  
@@ -1220,7 +1221,7 @@ __boarding school__ _n_ :dart: A school that provides meals and lodging.
 __boardrooms__  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._  
 __boardwalk__  
-__boast__ _v_ :two::hammer: _I can boast about it for eternity._  
+__boast__ _v_ :six::hammer: _I can boast about it for eternity._  
 __boaters__  
 __boatswain__  
 __bob__ _v_ :five::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ _They had bobbed noses._  
@@ -1716,7 +1717,7 @@ __cacti__ _n_ :two::hammer:
 __cadaver__ _n_ :four::mega:  
 __caddish__ :two::hammer:  
 __Caddy__ Cadillac.  
-__cadence__ _n_  
+__cadence__ _n_ :two::hammer:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
@@ -2153,7 +2154,7 @@ __churn rate__ _n_ The annual percentage rate at which customers stop subscribin
 __churn__ _v_  
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
-__chutneys__  
+__chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
 __CID__  
 __cigar__ _n_ :mega:  
 __cigarette stub__ _n_ Another name for a cigarette butt.  
@@ -3818,7 +3819,7 @@ __el__ :two::hammer: _The el tracks._
 __elaborate__ _v_ :dart:  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_  
-__elation__ :two::hammer:  
+__elation__ _n_ :three::hammer:  
 __elbow grease__ _idiom_ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
@@ -4207,7 +4208,7 @@ __fanzine__ _n_ :mega:
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :six::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
-__far-flung__ _adj_ :four::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
+__far-flung__ _adj_ :five::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
@@ -4833,7 +4834,7 @@ __fun house__ _n_
 __fundraiser__ _They were at a fundraiser._  
 __funereal__ _Funereal tone._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
-__funnel__ _v_  
+__funnel__ _v_ :two::hammer:  
 __funny feeling__ _idiom_ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __funny stomach__  
 __furled__ _v_ :two::hammer:  
@@ -5144,6 +5145,7 @@ __go under the hammer__ _idiom_ :two: To be put up for or sold at auction.
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-ahead goal__  
 __go-for-broke__  
+__go-getter__  
 __go-pills__ _n_  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
 __go-to__ _The go-to method for 3D printing._  
@@ -5951,6 +5953,7 @@ __horticulture__
 __horticulturist__ _n_ :mega:  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
+__hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
 __hot glue__  
 __hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot seat__  
@@ -5974,7 +5977,7 @@ __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappear
 __houseboats__ _n_  
 __housebound__  
 __housecarls__  
-__household__ _Household chores to keep your house tidy._  
+__household__ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housemother__ _n_  
 __housing equity__  
@@ -6176,6 +6179,7 @@ __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the e
 __in the fold__ _They kept the devious students in the fold._  
 __in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
+__in the midst of (something)__ _idiom_  
 __in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It's a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
@@ -9034,6 +9038,7 @@ __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the sco
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
 __potatoes__ :pencil2:  
 __potent__ _adj_  
+__potentiometer__ _n_  
 __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface.  
 __potholed__ _The island's potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
@@ -9374,6 +9379,7 @@ __PVC__
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
+__pyranometer__ _n_ :two::hammer:  
 __pyres__ _n_  
 __pyrheliometer__ _n_  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
@@ -10020,6 +10026,7 @@ __rope-a-dope__ :two::hammer:
 __ropes__ :two::hammer: _He's teaching her the ropes._ _They need to learn the ropes._  
 __ropy__ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosary__ _n_ (rosaries)  
+__rose water__ _n_ Perfume consisting of water scented with oil of roses.  
 __rosin box__  
 __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
@@ -11491,7 +11498,7 @@ __statutory__
 __staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_  
 __staunchest__ :two::hammer:  
-__stave off__ _v_ :eight: (staved off) To keep or hold off; repel: _"For 12 years, we've sought to stave off this ultimate threat of disaster"._  
+__stave off__ _phr v_ :nine: (staved off) To keep or hold off; repel: _"For 12 years, we've sought to stave off this ultimate threat of disaster"._  
 __stave__ _v_  
 __staves__ _n_  
 __stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
@@ -11583,6 +11590,7 @@ __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._
 __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
+__stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
 __stockpile__  
@@ -12539,7 +12547,7 @@ __travail__
 __travails__ _n_ :two::hammer:  
 __travel light__ _idiom_ To bring very few things with you when you go on a trip.  
 __travelogue__ _n_ :two::hammer:  
-__travesty__ _n_ :three::hammer: (travesties)  
+__travesty__ _n_ :four::hammer: (travesties)  
 __trawled__ _v_ :two::hammer:  
 __trawler__  
 __treacherous__ _adj_  
@@ -13711,6 +13719,7 @@ __zit__ _n informal_ A spot on the skin.
 __zone out__ _phr v_ :two: To lose concentration or become inattentive. To fall asleep.  
 __zonk__ _n_ :two::hammer:  
 __zoom in__ _phr v_ To focus more closely.  
+__zoonotic__ _adj_  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ :two::hammer: :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
