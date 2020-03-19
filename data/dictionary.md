@@ -80,6 +80,7 @@ __absent-minded__ _adj_
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
 __abstain__ _v_ :pencil2:  
+__abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__  
 __abutted__  
 __abutting__ _Bungalows abutting._  
@@ -2420,6 +2421,7 @@ __commiserate__ _v_ :three::hammer:
 __commission<sup>1</sup>__ _v_ :astonished::eight: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
+__commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
 __commode__  
 __commodious__  
 __commoditization__  
@@ -3232,6 +3234,7 @@ __devolve__ _v_ _The party must devolve power._
 __devolved__ _v_  
 __devote__ _v_ _We're devoting this episode to his paintings._  
 __dewlaps__ _n_ :two::hammer:  
+__diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
 __diadem__  
 __dialysis__  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
@@ -5300,6 +5303,7 @@ __grievance__ _n_ :two::hammer:
 __grievously__  
 __griff__  
 __grifter__ _n_ :two::hammer:  
+__grill (someone) (about something)__ _idiom_ To question or interrogate someone intensely and relentlessly (about something).  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
 __grim__ _adj_ :four::hammer:  
 __grime__ _n_ :three::camera::hammer:  
@@ -5479,7 +5483,7 @@ __hair clippers__ _n_ :camera:
 __hairline__  
 __hairpiece__ _n_  
 __haking__  
-__halcyon__ _adj_ :two::hammer::pencil2: _Halcyon time of romance._  
+__halcyon__ _adj_ :three::hammer::pencil2: _Halcyon time of romance._  
 __hale__ _A real hale-and-hearty type with a warm smile._  
 __half sibling__  
 __half__ :mute:[ha~~l~~f]  
@@ -5615,6 +5619,7 @@ __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, a
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
+__have a crush on (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
 __have a few__ _idiom_ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
@@ -5841,6 +5846,7 @@ __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tyin
 __hobble<sup>2</sup>__ _n_  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
+__hobnob__  
 __hobo__ _n_  
 __hock__ _n_ :two::hammer: (hocks) _The horse struggled to stand on a broken hock._  
 __hod__ _n_  
@@ -6208,7 +6214,7 @@ __inbound<sup>2</sup>__ _v_
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ _n_ :three::hammer:  
 __incensed__ _v_  
-__inception__ :two::hammer:  
+__inception__ _n_ :three::hammer:  
 __incessantly__  
 __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the field._  
 __inchoate__  
@@ -7559,6 +7565,7 @@ __misspend__ _v_ To spend time more or money foolishly or wastefully.
 __misstate__ _v_  
 __misstated__ _v_  
 __missteps__  
+__missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.  
 __misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
@@ -7601,7 +7608,7 @@ __momentous__ _adj_ :two: Of great importance or significance, especially in hav
 __momentum__  
 __monad__  
 __Monday__ :mega: /'möndi, -deI/  
-__mondegreen__ _n_ :dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
+__mondegreen__ _n_ :two::dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._ (From the Scottish ballad 'The Bonny Earl of Murray', in which the line "laid him on the green" can be misheard as "Lady Mondegreen.")  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __money on the hoof__  
 __money pit__  
@@ -8635,6 +8642,7 @@ __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine 
 __peril__ _n_ :two::hammer: (perils)  
 __perinatal__  
 __periodontal__ _Periodontal health._  
+__peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
 __peristaltic__ _adj_  
 __periwinkles__  
@@ -10175,7 +10183,8 @@ __salt-of-the-earth__ _A quiet, hardworking, salt-of-the-earth little man._
 __saltines__ _n_  
 __salty__  
 __salutary__  
-__salute__ _n_  
+__salute<sup>1</sup>__ _n_  
+__salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
 __salvage__ _adj_  
 __Salvation Army__  
 __salve__ _n_ :four::hammer: (salves) _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._  
@@ -10897,6 +10906,7 @@ __slave driver__ _n_ A person who makes other people work very hard.
 __slavishly__ :two::hammer: _Following instructions slavishly._  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __slayer__  
+__sleazebag__  
 __sleaziest__  
 __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
 __sleek__ _adj_ :two::hammer:  
@@ -12263,7 +12273,7 @@ __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful b
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throw up__ _I might throw up._  
 __throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated "TBT") as an accompanying hashtag or caption. _I'm going to post my second grade class picture for throwback Thursday!_  
-__throwback__ _Throwbavck uniform._  
+__throwback__ :two::hammer: _Throwback uniform._  
 __throws__ _n_  
 __thrum__  
 __thrums__ _v_  
@@ -13622,7 +13632,7 @@ __xenobiotic<sup>2</sup>__ _adj_
 __xenoestrogen__ _n_  
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
-__yada yada yada__ _adv_ :two::hammer: (yada, yada, yada)  
+__yada yada yada__ _adv_ :three::hammer: (yada, yada, yada)  
 __yadda yadda yadda__ _idiom_ And so forth, on and on; something boring and repetitive.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
