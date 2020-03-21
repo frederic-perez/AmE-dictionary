@@ -1,5 +1,14 @@
 
 
+__(deep) into the weeds__ _idiom_  
+__rueful__  
+__slide__ _v_ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
+__heightened__ _adj_  
+__self-righteous__ _adj_ Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
+__a bit out of it__ _idiom_ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I'm rambling so much tonight, I've been feeling a bit out of it lately._  
+__tip top__ _Tip top perfection._  
+__noodle__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
+
 __laid-back__ _adj_ Unhurried and relaxed. _Syn_ mellow  
 __logorrhea__ _n_  
 __lighthearted__ _adj_  
