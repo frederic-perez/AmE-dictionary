@@ -1,5 +1,16 @@
 
 
+__quantifiable__  
+__force majeure__  
+__boast__ _v_  
+__oversight__ _The oversight of risk leads to financial shortfall._  
+__shortfall__ _The oversight of risk leads to financial shortfall._  
+__marketplace__  
+__affordable__  
+__in excess of__ _It has been tested to wind speeds in excess of 100m/s._  
+__usher__ _v_  
+__jet__ _n_ _Low-level jet formation._  
+
 __have a hankering for (something)__ _idiom_ To have a very strong, persistent desire or craving for something.  
 __have a fable for (something)__ _idiom_ To have a strong or particular preference, affinity, or weakness for something.  
 __have a fling (with someone)__ _idiom_ To have a brief, noncommittal sexual relationship (with someone).  
