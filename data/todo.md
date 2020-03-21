@@ -1,5 +1,16 @@
 
 
+__likelihood__ _n_ :pencil2:  
+__seamless__  
+__runway__  
+__field__ _v_  
+__datalogging__ :two::hammer:  
+__rhythm__ _n_ :pencil2:  
+__motes__ _n_  
+__MQTT__  
+__feature__ _v_  
+__case study__  
+
 __(deep) into the weeds__ _idiom_  
 __rueful__  
 __slide__ _v_ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
