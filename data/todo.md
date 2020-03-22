@@ -1,5 +1,14 @@
 
 
+__gun it__ _idiom_ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
+__vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
+__asana__ _n_  
+__chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.   
+__eye candy__ _idiom_ A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
+__money doesn't grow on trees__ _idiom_ Money should not be wasted because it is not something that can be replenished whenever one wants.  
+__storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
+__dissemble__ _v_ _Syn_ disguise, cloak, mask  
+
 __hazardous__  
 __thermistor__ :two::hammer:  
 __largely__  
