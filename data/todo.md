@@ -1,5 +1,16 @@
 
 
+__hazardous__  
+__thermistor__ :two::hammer:  
+__largely__  
+__lysimeter__  
+__breakout conference__ :two::hammer:  
+__statutory__  
+__valued-added__  
+__nowadays__  
+__case in point__  
+__convey__ _v_  
+
 __likelihood__ _n_ :pencil2:  
 __seamless__  
 __runway__  
