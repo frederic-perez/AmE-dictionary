@@ -1,5 +1,15 @@
 
 
+
+__confidant__ _n_  
+__make out__  
+__articulate__ _adj_  
+__ample__ _adj_  
+__harness__ _v_  
+__safeguard__ _v_  
+__tempered__  
+__trustworthy__ :dart: _Trustworthy information._  
+
 __reseller__  
 __shortly__  
 __pyranometer__ _n_  
