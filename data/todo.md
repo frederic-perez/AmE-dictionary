@@ -1,5 +1,14 @@
 
 
+__reseller__  
+__shortly__  
+__pyranometer__ _n_  
+__vane__ _n_ :two::hammer: _Wind vane._  
+__housing__ _n_ :two::hammer: _A waterproof housing._  
+__traceability__ _n_  
+__pithy__ _adj_  
+__demonize__ _v_  
+
 __gun it__ _idiom_ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
 __asana__ _n_  
