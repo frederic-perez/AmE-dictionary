@@ -1,4 +1,15 @@
 
+__intent__ _Scientist are intent on studying the sun in more detail._  
+__grape vine__ _n_  
+__harness__ _v_  
+__further__ _v_ (furthering) To help the progress of; promote. _Syn_ advance  
+__latent__ _adj_  
+__citizen science__ _n_  
+__pervasive__ _adj_  
+__windshear__ _n_  
+__assimilation__ _n_  
+__tip-of__ _n_  
+
 __eye candy__ _idiom_ A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __money doesn't grow on trees__ _idiom_ Money should not be wasted because it is not something that can be replenished whenever one wants.  
 __storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
