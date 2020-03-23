@@ -345,7 +345,7 @@ __amount to nothing__ _idiom_ To result in no tangible or appreciable difference
 __amount to__ _idiom_ :two::hammer:  
 __amp up__ _phr v_ (amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
-__ample__ _adj_ :four: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
+__ample__ _adj_ :five: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
@@ -507,7 +507,7 @@ __arrears__ _n_ :pencil2:
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrowroot__  
 __arson__ _n_  
-__articulate<sup>1</sup>__ _adj_ :two::hammer:  
+__articulate<sup>1</sup>__ _adj_ :three::hammer:  
 __articulate<sup>2</sup>__ _v_ :three::hammer:  
 __articulated__ _adj_ _A clearly articulated project._  
 __artifact__ _n_ :four::hammer: (artifacts)  
@@ -524,6 +524,7 @@ __as much as__ _Inside today's Stateman as much as $215 in coupon savings._
 __as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as we speak__ _idiom_ At this very moment.  
 __as yet__ _idiom_ Up to the present time; up to now.  
+__asana__ _n_ A posture or manner of sitting (as in the practice of Yoga).  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascent__ :mute:[as~~c~~ent]  
@@ -2121,6 +2122,7 @@ __chit-chat__ _slang_ An informal conversation about things that are not importa
 __Chiuaua__  
 __chive__ _n_  
 __chivvied__  
+__chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
@@ -2504,7 +2506,7 @@ __confederate<sup>1</sup>__ _adj_
 __confederate<sup>2</sup>__ _n_  
 __conference call__  
 __conferred__ _v_  
-__confidant__ _n_ :six::hammer: (also confidante)  
+__confidant__ _n_ :seven::hammer: (also confidante)  
 __confide__ _v_ :four::hammer: (confided)  
 __confidence__  
 __config__ :mega: _A config file._  
@@ -3159,7 +3161,7 @@ __demagogy__
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
 __demigod__  
 __demographic__ _adj_  
-__demonize__ _v_ :three::hammer: (demonizing)  
+__demonize__ _v_ :four::hammer: (demonizing)  
 __demonstrate__ :pencil2:  
 __demonstration__ _n_  
 __demonstrators__  
@@ -5418,6 +5420,7 @@ __gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra 
 __gumption__  
 __gums__ _n_  
 __gumshoe__ _n_ __1__ A sneaker or rubber overshoe. __2__ _slang_ An investigator, especially a detective.  
+__gun it__ _idiom_ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
 __gun show__  
 __gun-shy__  
 __gunbull__ :two::hammer:  
@@ -5578,7 +5581,7 @@ __hares__ _n_
 __harissa__ :two::hammer:  
 __hark__ _v_ :two::hammer: (harking)  
 __harmonize__ _v_  
-__harness__ _v_ :two::hammer: _Harnessing big data._  
+__harness__ _v_ :three::hammer: _Harnessing big data._  
 __harp on the same string__ _idiom_ To dwell tediously and repeatedly upon a single subject or topic, especially in complaint. Likened to playing the same note over and over again on a harp.  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
@@ -5989,7 +5992,7 @@ __housemother__ _n_
 __housing equity__  
 __housing starts__  
 __housing unit__  
-__housing__ :two::hammer:  
+__housing__ _n_ :four::hammer: _A waterproof housing._  
 __hovels__ _n_  
 __hover__ _v_  
 __hoverboard__ :two::hammer:  
@@ -7229,7 +7232,7 @@ __majoring__
 __make (one's) bones__ _idiom_  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
-__make out__ _v_  
+__make out__ _v_ :two::hammer:  
 __make perfect sense__ _It makes perfect sense._  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
@@ -8824,7 +8827,7 @@ __pitchfork__
 __pitfalls__ _n_  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
-__pithy__ _adj_ :three: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
+__pithy__ _adj_ :four: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
 __pitiful__ :two::hammer:  
 __pitmaster__  
 __pittance__ _n_ :two::hammer:  
@@ -9387,7 +9390,7 @@ __PVC__
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
-__pyranometer__ _n_ :two::hammer:  
+__pyranometer__ _n_ :three::hammer:  
 __pyres__ _n_  
 __pyrheliometer__ _n_  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
@@ -9810,6 +9813,7 @@ __reputedly__ _He reputedly said, "I could stay here forever."_
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __rerun__ _n_ _Of course I've seen it! It's a rerun._  
 __rescind__ _v_ :two::hammer: (rescinded)  
+__reseller__  
 __reset__ _v_ :three::mega::hammer:  
 __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
@@ -10154,7 +10158,7 @@ __sadistic__ _adj_
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safe house__  
 __safe word__ _Do you have a safe word?_  
-__safeguard__  
+__safeguard__ _v_ :two::hammer:  
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
@@ -10677,7 +10681,7 @@ __shorthand__ :two::hammer:
 __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
-__shortly__ _Shortly before 8 a.m. Tuesday._  
+__shortly__ :two::hammer: _Shortly before 8 a.m. Tuesday._  
 __shot in the arm__ :two::hammer:  
 __shot in the dark__ _idiom_ An attempt to guess something when you have no information or knowledge about it.  
 __shot put__  
@@ -12126,7 +12130,7 @@ __tellurian__ _adj_ :two: Of or characteristic of the earth of its inhabitants; 
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
-__temper__ _v_ :four::hammer: (tempered)  
+__temper__ _v_ :five::hammer: (tempered)  
 __tempera__ _n_  
 __temperament__  
 __temperance__  
@@ -12513,6 +12517,7 @@ __toy__ _v_ :two::hammer: (toying)
 __Toyota__ :mega: (? CHK)  
 __tpngue-in-cheek__  
 __trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
+__traceability__ _n_  
 __track__ _n_ :camera:  
 __tracksuit__ _n_ :two: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
@@ -12661,7 +12666,7 @@ __trussed__ _v_ :three::hammer:
 __trust company__  
 __trustees__ :two::hammer: _Board of Trustees_  
 __trusties__  
-__trustworthy__ _adj_  
+__trustworthy__ _adj_ :two::dart::hammer: _Trustworthy information._  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __trying__ _adj_ :astonished: Extremely difficult and annoying, straining one's patience and goodwill to the limit.  
@@ -13008,7 +13013,7 @@ __vamping__ :two::hammer:
 __vampire squid__  
 __vandalize__ _v_  
 __vandals__  
-__vane__ _n_ :four::hammer: _A smooth metal weather vane._ _A weather vane._  
+__vane__ _n_ :six::hammer: _A smooth metal weather vane._ _Wind vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
@@ -13098,6 +13103,7 @@ __vig__ _n_ :three::hammer:
 __vile__  
 __vilifies__ _v_  
 __vilify__ _v_  
+__vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
 __villa__ _n_ :two::hammer:  
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
 __villas__ _n_  
