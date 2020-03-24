@@ -1419,7 +1419,7 @@ __breaking character__
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakneck__ _They are on a breakneck pace._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
-__breakout<sup>2</sup>__ _adj_ :seven: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
+__breakout<sup>2</sup>__ _adj_ :nine: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
 __breakthrough__ _n_  
 __breakup__ _n_ :two: The termination or disintegration of a relationship (between persons or nations).  
 __breakwater__ _n_  
@@ -1879,7 +1879,7 @@ __carve out__ _v_ (carved out) :six::hammer:
 __carveouts__  
 __cascading__  
 __case at hand__  
-__case in point__ _n_ :six::hammer: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
+__case in point__ _n_ :seven: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case the joint__  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
@@ -2579,7 +2579,7 @@ __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meetin
 __convenience store__  
 __conversely__  
 __convertible__  
-__conveyed__ _v_  
+__convey__ _v_ :two::hammer: (conveyed)  
 __convivial__ _adj_ :three::hammer:  
 __convoke__ _v_ To call together to a meeting.  
 __conwise__  
@@ -3008,6 +3008,7 @@ __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
 __dashing__ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
+__datalogging__ :two::hammer:  
 __date with destiny__ _idiom_ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
 __date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
 __dateable__ _adj_ That can be given a date.  
@@ -3381,7 +3382,7 @@ __dissatisfaction__ :two::hammer:
 __dissatisfied__ _adj_ :pencil2:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
-__dissemble__ _v_ :three::hammer: _Syn_ pretend  
+__dissemble__ _v_ :four::hammer: _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :three::hammer:  
@@ -4118,7 +4119,7 @@ __extraneous__
 __extremes__  
 __extricate__ _v_ :six::hammer: (extricated) _Rescue crews extricated him from the car._  
 __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
-__eye candy__  
+__eye candy__ _idiom_ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye dropper__ _n_  
 __eye mask__ (to sleep)  
 __eye patch__  
@@ -4336,7 +4337,7 @@ __fiduciary<sup>2</sup>__ _n_ A trustee.
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__ _n_ :two::hammer:  
 __field trip__ _n_  
-__field__ _v_ :nine: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
+__field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
 __fierce__ :two::hammer:  
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
@@ -5648,7 +5649,7 @@ __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestion
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _A 465-yard par with a water hazard._  
-__hazardous__  
+__hazardous__ :two::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
 __hazel__  
 __hazing__ _The college hazing policy._  
@@ -6792,7 +6793,7 @@ __lapse<sup>1</sup>__ _v_
 __lapse<sup>2</sup>__ _n_  
 __larceny__ _n_ :six: Theft of personal property. :es: hurto  
 __larder__ _n_ :three::hammer:  
-__largely__  
+__largely__ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lark__ :two::hammer:  
 __laser wall__  
@@ -6982,7 +6983,7 @@ __like hell__
 __like two peas in a pod__ _idiom_ Very similar.  
 __like water off a duck's back__ _idiom_ Without any apparent effect.  
 __likelier__  
-__likelihood__ _n_ :astonished: Probability.  
+__likelihood__ _n_ :two::pencil2: Probability.  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
 __likewise__ _adv_ :two::hammer:  
 __lilac tree__  
@@ -7189,6 +7190,7 @@ __luxe__ _People were accustomed to creating luxe interiors._
 __lye water__  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
+__lysimeter__  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __M.O.__ Modus operandi?  
 __mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishes._  
@@ -7612,6 +7614,7 @@ __momentum__
 __monad__  
 __Monday__ :mega: /'möndi, -deI/  
 __mondegreen__ _n_ :two::dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._ (From the Scottish ballad 'The Bonny Earl of Murray', in which the line "laid him on the green" can be misheard as "Lady Mondegreen.")  
+__money doesn't grow on trees__ _idiom_ Money should not be wasted because it is not something that can be replenished whenever one wants.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __money on the hoof__  
 __money pit__  
@@ -7995,6 +7998,7 @@ __noun__ _n_
 __nova__  
 __novella__  
 __now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
+__nowadays__  
 __nowcasting__ :two::hammer: _Nowcasting system._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
@@ -9896,7 +9900,7 @@ __rhinosinusitis__ _Chronic rhinosinusitis._
 __rhododendron__ _n_  
 __rhyme__ :mute:[r~~h~~yme]  
 __rhyming__ :pencil2:  
-__rhythm__ :mute:[r~~h~~ythm]  
+__rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:  
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ :two::hammer:  
@@ -10129,6 +10133,7 @@ __runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _E
 __runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
 __runt__  
+__runway__  
 __ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :five::hammer: (ruses)  
 __rustle up__ _v_  
@@ -10402,6 +10407,7 @@ __seagulls__ _n_ :two::hammer:
 __seahawk__ ?  
 __SEAL__ _It is something U.S. Navy SEALs do._  
 __seal__ _Lacy gained 27 yards to seal their fourth division win._  
+__seamless__  
 __seamstress__ _n_  
 __séance__  
 __sear__ _v_ :five: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
@@ -11508,7 +11514,7 @@ __stationery__
 __statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
-__statutory__  
+__statutory__ :two::hammer:  
 __staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_  
 __staunchest__ :two::hammer:  
@@ -11640,6 +11646,7 @@ __storied__ _Storied market._
 __storks__  
 __storm surge__ :two::hammer:  
 __storm__ _v_  
+__storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
 __stoup__  
 __stove__ _n_ :three::hammer:  
 __stovepipe hat__  
@@ -12220,6 +12227,7 @@ __there is no question__ _There is no question that higher ocean temperatures ha
 __there is no way around it/that__ _idiom_ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
 __thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
 __thereof__  
+__thermistor__ :two::hammer:  
 __thermos__ _A thermos._  
 __thespian__ :two::hammer:  
 __thick accent__ _Arnold's accent is getting thicker._  
@@ -13009,6 +13017,7 @@ __valiant<sup>1</sup>__ _adj_
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __valuable__ _n_ :astonished:  
+__valued-added__  
 __vamping__ :two::hammer:  
 __vampire squid__  
 __vandalize__ _v_  
