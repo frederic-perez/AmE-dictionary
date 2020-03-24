@@ -1,5 +1,16 @@
 
 
+__versatile__ :two::hammer.  
+__leverage__ _v_  
+__hydrology__  
+__icing__ _n_ :two::hammer: (?)  
+__jeopardize__ _v_  
+__monumental__ _adj_  
+__tip over__ _v_  
+__tensile__ _Tensile cable._  
+__radiosonde__ _n_ :three::hammer:  
+__radiometer__ _n_ :two::hammer:  
+
 __motes__ _n_  
 __MQTT__  
 __feature__ _v_  
