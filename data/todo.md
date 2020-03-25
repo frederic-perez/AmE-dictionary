@@ -1,5 +1,16 @@
 
 
+__attainment__ _n_  
+__V bolt__  
+__wetted__ _A wetted wick._  
+__wick__ _A wetted wick._  
+__liable__ _They are liable to break if not handled properl byy._  
+__louver__ _n_  
+__house__ _v_  
+__deterrent__ _n_  
+__meniscus__ _n_ _The thermometer's meniscus._  
+__readily__  
+
 __tip top__ _Tip top perfection._  
 __noodle__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
 
