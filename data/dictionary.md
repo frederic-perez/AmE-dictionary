@@ -10,7 +10,7 @@ __-year-old__ _A 56-year-old retiree._
 __, so why (even) bother?__  
 __, to say the least.__  
 __"duh" department__ :astonished: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
-__(deep) into the weeds__ _idiom_  
+__(deep) into the weeds__ _idiom_ :two::hammer:  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered "101."  
@@ -24,6 +24,7 @@ __800-pound gorilla__
 __a bird in the hand is worth two in the bush__  
 __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
+__a bit out of it__ _idiom_ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I'm rambling so much tonight, I've been feeling a bit out of it lately._  
 __a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a falling out__ _idiom_ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
@@ -1880,6 +1881,7 @@ __carveouts__
 __cascading__  
 __case at hand__  
 __case in point__ _n_ :seven: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
+__case study__  
 __case the joint__  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
@@ -4266,7 +4268,8 @@ __feast__ _v_ :two::hammer:
 __feather your own nest__ _idiom_ To use your position or your job to get a lot of money for yourself.  
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature movie__  
-__feature__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
+__feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
+__feature<sup>2</sup>__ _v_  
 __feature-length__ _A feature-length animation._  
 __featuring__  
 __feckless__ _adj_ :three::hammer:  
@@ -5728,6 +5731,7 @@ __heft__ _n_ :two::hammer:
 __hefted up__  
 __hefty__ :two::hammer:  
 __height__ :mute:[hei~~gh~~t]  
+__heightened__ _adj_  
 __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
@@ -6058,6 +6062,7 @@ __HVAC__
 __hyacinth__ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
+__hydrology__  
 __hygroscopic__  
 __hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
@@ -6083,7 +6088,7 @@ __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.
 __ice-slick chain__  
 __icicles__  
 __icing on the cake__ :two::hammer:  
-__icing__ _Mansions are found on the icing._  
+__icing__ _n_ :three::hammer: _Mansions are found on the icing._  
 __iconoclasm__  
 __iconoclast__  
 __iconoclastic__  
@@ -6448,6 +6453,7 @@ __jejune__
 __jelly doughnuts__  
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
+__jeopardize__ _v_  
 __jeremiad__  
 __jerk around__  
 __jerk__ _n_ _slang_ Mean or unlikeable person.  
@@ -6936,7 +6942,7 @@ __levee__
 __leveled__ :two::hammer:  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
-__leverage<sup>2</sup>__ _v_ :three::hammer:  
+__leverage<sup>2</sup>__ _v_ :four::hammer:  
 __leviathan__  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
@@ -7633,6 +7639,7 @@ __mononyms__
 __monopoly__ :mega: /mə-nŏp′ə-lē/  
 __monsoon__ _n_ :four::hammer:  
 __monstrosity__ :pencil2::two::hammer:  
+__monumental__ _adj_  
 __moody__ :two::hammer:  
 __moon roof__  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
@@ -7671,6 +7678,7 @@ __mos.__ (Months?)
 __mosh__  
 __mosque__ _n_ :two::hammer: (mosques)  
 __mot juste__ _n_ The appropriate word or expression.  
+__motes__ _n_  
 __moth__ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
@@ -7704,6 +7712,7 @@ __mover__ _n_
 __mow__ _v_ To cut down grass with a machine.  
 __mowed__ _v_  
 __moxie__ :two::hammer:  
+__MQTT__ _abbr_ 	Message Queuing Telemetry Transport.  
 __Mr Goodwrench__  
 __Mr. Such and Such__  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
@@ -9497,6 +9506,8 @@ __racquet__
 __racy__ :three::hammer: _A racy line from a popular song._ _Racy song._  
 __radial__ _Such a thrill when your radials squeal._  
 __radical candor__  
+__radiometer__ _n_ :two::hammer:  
+__radiosonde__ _n_ :three::hammer:  
 __radish__  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
@@ -10094,7 +10105,7 @@ __rudderless__
 __ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
 __rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
-__rueful__ _He gave a rueful smile._  
+__rueful__ _adj_ :two::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :four::hammer:  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
@@ -10461,7 +10472,7 @@ __self-effacing__ :two::hammer:
 __self-esteem__ _n_  
 __self-fulfilling__ _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
-__self-righteous__  
+__self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-steem__  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
 __selfless__  
@@ -10938,9 +10949,8 @@ __slice of pie__
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
 __slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._  
-__slid__ _v_ :three::hammer: _His glasses often slid down his nose._  
 __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
-__slide<sup>2</sup>__ _v_  
+__slide<sup>2</sup>__ _v_ :five: (slid) _His glasses often slid down his nose._ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
 __slider__ _n_ :four::hammer: _What's up with someone's slider?_  
 __sliders__ _n_ (food)  
 __slight<sup>1</sup>__ _adj_  
@@ -12158,6 +12168,7 @@ __tenet__ _n_ :five::hammer: (tenets) :es: principio
 __Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
 __tense__ _adj_  
+__tensile__ _Tensile cable._  
 __tentative__  
 __tenuous__ _adj_ :three: Having litthe substance or strength; thin; weak.  
 __tenure__  
@@ -12371,7 +12382,7 @@ __tinker__ _v_ :three::hammer:
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
 __tip off__ _v_ _idiom_ :three: (tip-off) To secretly inform the police or authorities.  
-__tip over__ _v_ :two::hammer:  
+__tip over__ _v_ :three::hammer:  
 __tip-top__ _adj_ _informal_ Excellent.  
 __tipoff__ _n_ :two::hammer: (tip-off)  
 __tipple__ _v_ :five::hammer: (tippled)  
@@ -13083,6 +13094,7 @@ __vermillion__
 __vermin__ _n_ :four::hammer:  
 __vermouth__ _n_  
 __vernacular__ _n_ :four::hammer:  
+__versatile__ _adj_ :two::hammer.  
 __vertical farm__  
 __verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
