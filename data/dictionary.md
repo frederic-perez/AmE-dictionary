@@ -601,6 +601,7 @@ __Atta boy__
 __attack dog__ _n_  
 __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
+__attainment__ _n_  
 __attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :two::mega::hammer:  
@@ -1500,6 +1501,7 @@ __brothers in arms__
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
+__brown shirt__ _n_ Soldiers in Hitler's storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstones__ _n_  
@@ -2020,6 +2022,7 @@ __chaotic__ _adj_ :mega:
 __chaparral__ _n_ :two::hammer:  
 __chaperone<sup>1</sup>__ _n_ :three::hammer:  
 __chaperone<sup>2</sup>__ _v_  
+__chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
 __chaplain__ _n_ :four::mega:  
 __chapter__ _To the east was the chapter house._  
 __char__ _v_ (charred)  
@@ -3220,7 +3223,7 @@ __détente__ _n_ :two: A relaxing of tension between major powers, especially th
 __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._  
 __detergent<sup>2</sup__ _adj_  
 __deterrence__ :two::hammer:  
-__deterrent__ _n_ :nine: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
+__deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__  
 __detritus__ _n_  
@@ -4268,9 +4271,9 @@ __feast__ _v_ :two::hammer:
 __feather your own nest__ _idiom_ To use your position or your job to get a lot of money for yourself.  
 __feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature movie__  
+__feature-length__ _A feature-length animation._  
 __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __feature<sup>2</sup>__ _v_  
-__feature-length__ _A feature-length animation._  
 __featuring__  
 __feckless__ _adj_ :three::hammer:  
 __fecklessness__  
@@ -5597,6 +5600,7 @@ __harshest__
 __harvested fish__ _Fish oil from harvested fish._  
 __hash browns__ _pl n_ :two::hammer:  
 __hash out__ _phr v_ :two::hammer: _Jane was hashing out her agenda._  
+__hash slinger__ _idiom_ A cook or a waitress, especially at a diner or cheap restaurant. ("Hash," in this sense, refers to a dish or stew of chopped meat and vegetables, not hashish.) Primarily heard in US.  
 __hash<sup>1</sup>__ _n_ _I'm gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
 __hashish__  
@@ -5987,6 +5991,7 @@ __hourlong__ _The hourlong meeting._
 __house > take it to the house__  
 __house husband__ _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
+__house__ _v_  
 __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __houseboats__ _n_  
 __housebound__  
@@ -6762,7 +6767,7 @@ __laggard<sup>1</sup>__ _adj_ :four::hammer:
 __laggard<sup>2</sup>__ _n_ :two::hammer:  
 __lagged__  
 __laid back attitude__  
-__laid-back__ _idiom_ :six: _Laid-back guy or people._ _Australia's laid back lifestyle._  
+__laid-back__ _adj_ _idiom_ :seven: Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia's laid back lifestyle._  
 __lain__  
 __lair__ _n_ :two::hammer: _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
@@ -6950,7 +6955,7 @@ __levy<sup>2</sup>__ _n_ :three::hammer:
 __lewd__ _adj_ :three::hammer:  
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
-__liable__ _He is liable to be mistaken._  
+__liable__ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ :two::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
@@ -6981,7 +6986,7 @@ __light-headed__ _I feel light-headed from lack of sleep._
 __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
-__lighthearted__  
+__lighthearted__ _adj_ :two::hammer:  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
@@ -7080,6 +7085,7 @@ __loftily__
 __lofty__ _adj_ :six::hammer: _His lofty perch._  
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone's intelligence.  
 __logjam__ _n_  
+__logorrhea__ _n_  
 __loincloths__  
 __loins__ _n_ :two::hammer:  
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
@@ -7134,7 +7140,7 @@ __loudmout__ _He is a loudmout, but there is nothing personal._
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
 __lout__ _n_ :two::hammer: _Syn_ oaf  
-__louver__ _n_ :two::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._  
+__louver__ _n_ :three::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._  
 __lovacore__  
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
@@ -7438,7 +7444,7 @@ __menagerie__ _n_ :two::hammer:
 __mendacity__  
 __mending__ _Mending flesh._  
 __menial__ _n_  
-__meniscus__  
+__meniscus__ _n_ :two::hammer: _The thermometer's meniscus._  
 __Mennonite__  
 __menology__  
 __mens room__ _n_  
@@ -7950,7 +7956,7 @@ __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligat
 __no way around it__  
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-holds-barred__  
-__no-no__ _n_ _informal_ :eight::hammer:  
+__no-no__ _n_ _informal_ :nine::hammer:  
 __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
@@ -7982,7 +7988,8 @@ __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._
 __nonsequitur__  
 __nonstaff jobs__  
 __nonstop__  
-__noodle__ _n_ Brain. _Use your noodle._  
+__noodle<sup>1</sup>__ _n_ Brain. _Use your noodle._  
+__noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
 __nookie__  
 __noose<sup>1</sup>__ _n_ :five::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
@@ -9640,7 +9647,7 @@ __reach out to somebody__ _phr v_ To show people that you are interested in them
 __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
 __read into something__  
-__readily__ _adv_ :three::hammer:  
+__readily__ _adv_ :four::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
 __readying__ _v_ :astonished:  
@@ -10411,6 +10418,7 @@ __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively wi
 __scuzzy__  
 __scythe<sup>1</sup>__ _n_ (scythes) :two::hammer:  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
+__sea change__ _n_  
 __seabed__  
 __seafarer__  
 __seafaring__  
@@ -12383,7 +12391,7 @@ __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background
 __tinkling__ _n_ :two::hammer:  
 __tip off__ _v_ _idiom_ :three: (tip-off) To secretly inform the police or authorities.  
 __tip over__ _v_ :three::hammer:  
-__tip-top__ _adj_ _informal_ Excellent.  
+__tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
 __tipoff__ _n_ :two::hammer: (tip-off)  
 __tipple__ _v_ :five::hammer: (tippled)  
 __tipsily__  
@@ -13003,6 +13011,7 @@ __utmost__ _adj_ :three::hammer:
 __utterance__  
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
+__V bolt__  
 __V-E Day__  
 __V-J Day__ :two::hammer:  
 __VA__ _VA medical centers._  
@@ -13344,6 +13353,7 @@ __wend__ _v_ :four: /wɛnd/ (wending) To move or travel slowly somewhere. _Syn_ 
 __wet a line__  
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
+__wetted__ _A wetted wick._  
 __Whac-A-Mole__  
 __whackadoodle__  
 __whale__ :mute:[w~~h~~ale]  
@@ -13448,7 +13458,7 @@ __whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars sp
 __whooshed__ _v_  
 __whorls__ :two::hammer:  
 __Wi-Fi__  
-__wick__ _n_ :two::hammer: _Curiosity is the wick in the candle of learning._  
+__wick__ _n_ :three::hammer: _Curiosity is the wick in the candle of learning._ _A wetted wick._  
 __wicked__ _adj_ :two::hammer:  
 __wickedly__  
 __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  

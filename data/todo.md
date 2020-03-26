@@ -1,28 +1,5 @@
 
 
-__attainment__ _n_  
-__V bolt__  
-__wetted__ _A wetted wick._  
-__wick__ _A wetted wick._  
-__liable__ _They are liable to break if not handled properl byy._  
-__louver__ _n_  
-__house__ _v_  
-__deterrent__ _n_  
-__meniscus__ _n_ _The thermometer's meniscus._  
-__readily__  
-
-__tip top__ _Tip top perfection._  
-__noodle__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
-
-__laid-back__ _adj_ Unhurried and relaxed. _Syn_ mellow  
-__logorrhea__ _n_  
-__lighthearted__ _adj_  
-__no-no__ _n_  
-__sea change__ _n_  
-__hash slinger__ _idiom_ A cook or a waitress, especially at a diner or cheap restaurant. ("Hash," in this sense, refers to a dish or stew of chopped meat and vegetables, not hashish.) Primarily heard in US.  
-__chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
-__brown shirt__ _n_ Soldiers in Hitler's storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
-
 __quantifiable__  
 __force majeure__  
 __boast__ _v_  
