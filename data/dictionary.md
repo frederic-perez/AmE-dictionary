@@ -196,7 +196,7 @@ __afflict__ _v_ _Hepatitis C afflicts some 150 million people._
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :two::hammer: _We can't afford it._  
-__affordable__ :pencil2:  
+__affordable__ :two::pencil2::hammer:  
 __affront__ _n_ :two::hammer:  
 __aficionado__  
 __afield__  
@@ -1225,7 +1225,7 @@ __boarding school__ _n_ :dart: A school that provides meals and lodging.
 __boardrooms__  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._  
 __boardwalk__  
-__boast__ _v_ :six::hammer: _I can boast about it for eternity._  
+__boast__ _v_ :seven::hammer: _I can boast about it for eternity._  
 __boaters__  
 __boatswain__  
 __bob__ _v_ :five::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ _They had bobbed noses._  
@@ -2703,6 +2703,7 @@ __coverup__ _n_
 __coveted__ _v_ :two::hammer:  
 __covetous__  
 __covey__  
+__COVID__ _abbr_ Short for coronavirus disease.  
 __cow__ _v_ _Law makers cowed by powerful unions._  
 __cowboy__ _v_ :two::hammer:  
 __cowering__ _v_ :two::hammer:  
@@ -2857,6 +2858,7 @@ __crushing blow__ _idiom_ A major defeat or setback that is devastating to the g
 __crusty__  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :three: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty.  
+__crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cry over spilled milk__ _idiom_ To be unhappy about what cannot be undone.  
 __crybaby__ _n_ A person who cries or complains frequently with little cause.  
@@ -4413,6 +4415,7 @@ __firehouse__ _n_ :two::hammer:
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __first and foremost__ :two::hammer:  
 __first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
+__first-in-class__ First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
@@ -4527,7 +4530,7 @@ __flippant__ _adj_ :three::hammer:
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__ :two::hammer:  
-__flitting__  
+__flitter__ _v_ :two: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
 __flitty__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
 __float<sup>2</sup>__ _v_ :three::hammer:  
@@ -4654,6 +4657,7 @@ __forager__ _n_ :two::hammer: (foragers)
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ :es: incursión  
 __forbear__ _v_  
 __forbearance__  
+__force majeure__  
 __forceful__ _adj_ :two::hammer: _A forceful pitch._  
 __forcible__ _adj_ :three::hammer:  
 __fore and aft__  
@@ -5631,7 +5635,10 @@ __have (something) cold down__ _idiom_ :dart: To learn, master, or understand s
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
 __have a crush on (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
+__have a fable for (something)__ _idiom_ To have a strong or particular preference, affinity, or weakness for something.  
 __have a few__ _idiom_ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
+__have a fling (with someone)__ _idiom_ To have a brief, noncommittal sexual relationship (with someone).  
+__have a hankering for (something)__ _idiom_ To have a very strong, persistent desire or craving for something.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
@@ -6183,7 +6190,7 @@ __in check__ _Keep those emotions in check._
 __in deep water__ _idiom_ To be in a difficult situation.  
 __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply "donkeys," of "donkey's ears" -where "ears" rhymes with "years" and alludes to the length of a donkey's ears.  
 __in droves__ _They will come in droves._  
-__in excess__ _Roper hadn't slept for a period in excess of 24 hours._  
+__in excess of__ :two::hammer: _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
@@ -6467,6 +6474,7 @@ __jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity
 __jersey snagging__ _football_  
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
+__jet__ _n_ _Low-level jet formation._  
 __jetliners__  
 __jettison__ _v_ :six: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
 __jetty__ :two::hammer:  
@@ -7327,6 +7335,7 @@ __mariner__ _n_
 __marjoram__ _n_ Oregano.  
 __markdown__  
 __markdowns__  
+__marketplace__  
 __marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
 __marksman__ _n_  
 __markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov't-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
@@ -7605,6 +7614,7 @@ __mockie__ _n_ :two::hammer:
 __mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
 __modicum__ _n_ :five: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
+__modish__ _adj_  
 __mogrify__ _v_  
 __mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
@@ -8359,7 +8369,7 @@ __overripe__ :two::hammer::camera: _An overripe banana._ _An overripe eggplant._
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
-__oversight__ _n_ :three::hammer: _An oversight board._ _Oversight committee._  
+__oversight__ _n_ :four::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
 __overstating__ _v_  
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
@@ -8424,6 +8434,7 @@ __palm__ :mega::mute:[pa~~l~~m]
 __palmettos__ :two::hammer:  
 __palomas__  
 __palpably__  
+__palpate__ _v_ To examine by touch especially medically.  
 __palpebral__ _adj_  
 __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I'm surprised you haven't met Ricky's new palsy-walsy from school yet—they're together all the time._  
@@ -8579,6 +8590,7 @@ __PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted t
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
+__peachy__ _adj_ _informal_ Splendid; fine. _Syn_ bully, corking, cracking, dandy, nifty, smashing, swell, groovy, keen, great  
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame pealed._  
@@ -9436,6 +9448,7 @@ __quakes__ _v_
 __qualify__ _v_  
 __qualm__ _n_ :nine: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
 __quandary__ _n_ :nine: Difficult dilemma. _All-Star managers face quandary._  
+__quantifiable__  
 __quarrelsome__  
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
@@ -10701,7 +10714,7 @@ __short-lived__
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_  
-__shortfall__ _n_ _Syn_ deficit, shortage  
+__shortfall__ _n_ :two::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
 __shorthand__ :two::hammer:  
 __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
@@ -12998,7 +13011,7 @@ __urchin__ _An underprivileged urchin._
 __urge on__ _phr v_ :two: To encourage.  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
-__usher__  
+__usher__ _v_ :two::hammer:  
 __usury__  
 __Utahns__  
 __Utans__  
