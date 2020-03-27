@@ -1,4 +1,14 @@
 
+__pollutant__ _n_ :two::hammer:  
+__solvent__ _n_  
+__uptime__  
+__housing__  
+__radiation budget__  
+__pyrheliometer__  
+__pyranometer__  
+__pathcasting__  
+__timely__  
+__cardan__ _Optional cardan mount._  
 
 __lagoon__ _n_ _The Venetian lagoon._  
 __strive__ _v_  
