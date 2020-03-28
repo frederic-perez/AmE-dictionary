@@ -1,5 +1,14 @@
 
 
+__have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one's past.  
+__taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
+__around the clock__ _idiom_ Without stopping. _Syn_ for 24 hours, round the clock  
+__have a say (in something)__ _idiom_ To have an active and participatory role in making or influencing a decision about something.  
+__dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one's feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
+__stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
+__have a mountain to climb__ _idiom_ To have an extremely difficult, seemingly impossible task at hand.  
+__lampoon__ _v_ To make the subject of a satire. _Syn_ ridicule  
+
 __waterspout__ _n_  
 __sheer__ _The sheer magnitude of threats._  
 __window__ _Hail is tracked over a one-hour window._  
