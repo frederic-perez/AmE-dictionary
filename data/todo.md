@@ -1,4 +1,12 @@
 
+__alongside__  
+__add up__ _v_  
+__rugged__ _adj_  
+__pinch__ _v_  _slang_ To take (money or property) wrongfully. _Syn_ steal  
+__pincher__ _n_  
+__purloin__ _v_  
+__purloiner__ _n_  
+__cheese corn__ _n_  
 
 __have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one's past.  
 __taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
