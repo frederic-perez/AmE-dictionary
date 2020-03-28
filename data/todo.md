@@ -1,4 +1,14 @@
 
+
+__sought-after__  
+__photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
+__midway__  
+__proper__  
+__intricate__ _adj_  
+__built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
+__soot__ _n_  
+__steel drum__ :two::hammer:  
+
 __alongside__  
 __add up__ _v_  
 __rugged__ _adj_  
