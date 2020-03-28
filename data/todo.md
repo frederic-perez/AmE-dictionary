@@ -1,4 +1,16 @@
 
+
+__waterspout__ _n_  
+__sheer__ _The sheer magnitude of threats._  
+__window__ _Hail is tracked over a one-hour window._  
+__preventive__ _Preventive and corrective maintenance._  
+__corrective__ _Preventive and corrective maintenance._  
+__flange__  
+__radome__ _n_  
+__stoppage__  
+__lightning flash__ _n_  
+__cutting-edge__ _Cutting-edge research._  
+
 __pollutant__ _n_ :two::hammer:  
 __solvent__ _n_  
 __uptime__  
