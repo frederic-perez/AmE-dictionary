@@ -1,5 +1,14 @@
 
 
+__for all intent and purposes__  
+__dis__ _v_ :two::hammer:  
+__get under someone's skin__  
+__backlash__ _v_  
+__nascient__  
+__tets the water__  
+__insolation__  
+__thrilling__ _adj_  
+
 __swab__ _n_ _Nasopharyngeal swabs._  
 __egregious__  
 __respite__ _n_  
