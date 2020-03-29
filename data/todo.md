@@ -1,5 +1,14 @@
 
 
+__have a look-see__ _idiom_ :dart: To have a very quick look or brief examination.  
+__beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
+__crackerjack<sup>1</sup>__ _adj_ Excellent.  
+__crackerjack<sup>2</sup>__ _n_ A person or thing of exceptional quality or ability.  
+__gnarly__ _adj_ _slang_ Intense; awesome. _That party was totally gnarly._  
+__go at it hammer and tongs__ _idiom_ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
+__candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
+__sprite__ _n_ A small being, human in form, playful and having magical powers. _Syn_ fairy, fay  
+
 __nowcast__  
 __downburst__ _n_  
 __synoptic__ _adj_ :two::hammer: _Synoptic representations of wind._  
