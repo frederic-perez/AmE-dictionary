@@ -1,5 +1,16 @@
 
 
+__nowcast__  
+__downburst__ _n_  
+__synoptic__ _adj_ :two::hammer: _Synoptic representations of wind._  
+__inert__ _Helium is inert._  
+__electrolysis__ _n_  
+__radiosonde__ _n_  
+__replenishing__ _n_  
+__case in point__  
+__offshore__  
+__downtime__ _n_ :two::hammer:  
+
 __sought-after__  
 __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
 __midway__  
