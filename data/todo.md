@@ -1,5 +1,13 @@
 
 
+__swab__ _n_ _Nasopharyngeal swabs._  
+__egregious__  
+__respite__ _n_  
+__pecuniary__ _Pecuniary benefits._  
+__inadvertent__ _Inadvertent arterial punctures._  
+__blandish__ _v_  
+__read it and weep__ _idiom_  
+
 __have a look-see__ _idiom_ :dart: To have a very quick look or brief examination.  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
 __crackerjack<sup>1</sup>__ _adj_ Excellent.  
