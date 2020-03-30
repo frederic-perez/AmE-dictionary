@@ -675,7 +675,6 @@ __back down__ _v_
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back out__ _v_ :three::hammer:  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
-__back-heel pass__  
 __back-of-house__ _Back-of-house technology._  
 __back-office__ _Back-office analytics._  
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
@@ -685,7 +684,8 @@ __backcountry__ _n_ _Utah ski resorts offering backcountry adventures._
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
-__backlash__ _n_ :four::hammer:  
+__backlash<sup>1</sup>__ _n_ :four::hammer:  
+__backlash<sup>2</sup>__ _v_  
 __backlit__  
 __backlog__ _n_ :six: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
 __backpedal__ _v_  
@@ -879,6 +879,7 @@ __beat the shit out of (someone)__ _idiom_ _I expect them to beat the shit out o
 __beat your head against the wall__ _idiom_ To try to do something that is hopeless.  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
+__beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __bebop__ _v_  
@@ -1114,6 +1115,7 @@ __blackpool__
 __blah story__  
 __blanched__ _v_  
 __bland__ _adj_ :seven: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
+__blandish__ _v_ To coax by flattery or wheedling; cajole.  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
@@ -2718,6 +2720,8 @@ __crab lice__ _n_
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
+__crackerjack<sup>1</sup>__ _adj_ Excellent.  
+__crackerjack<sup>2</sup>__ _n_ A person or thing of exceptional quality or ability.  
 __crackers__  
 __crackle__ _v_ (crackling) :two::hammer:  
 __cracklings__ _n_  
@@ -3319,7 +3323,8 @@ __dirtdobbers__
 __dirty boogie__  
 __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._  
 __dirty-mouth__  
-__dis__ _n_ :two::hammer:  
+__dis<sup>1</sup>__ _n_ :two::hammer:  
+__dis<sup>2</sup>__ _v_ :two::hammer:  
 __disabuse__ _v_ :dart: To free from a falsehood or misconception.  
 __disaffected__ _adj_ :two::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
@@ -3816,7 +3821,7 @@ __egghead__ _n informal_ :three: An overly intellectual person.
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egomaniac__  
 __egotists__  
-__egregious__ _adj_ :seven: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __eh?__ _Impressive, eh?_  
 __eight__ :mute:[ei~~gh~~t]  
@@ -4638,6 +4643,7 @@ __footing__ _n_ _Last year a student died after losing her footing here._
 __footloose__ :pencil2:  
 __footwork__  
 __for a bit__  
+__for all intent and purposes__  
 __for better or worse__  
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
@@ -5025,6 +5031,7 @@ __get the knack of__ _idiom_ :two: To learn how to do something competently or w
 __get the middle finger__  
 __get the the green light__ _idiom_ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
+__get under someone's skin__ _idiom_  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
 __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
@@ -5117,7 +5124,7 @@ __glut__ _n_ :six: A glut is too much of something. A glut of gas in the marketp
 __glycemic__  
 __GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
-__gnarly__ _First steps tackling gnarly code._  
+__gnarly__ _adj_ _slang_ :two::astonished: __1__ Intense; awesome. _That party was totally gnarly._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
 __gnash__ _Gnasing teeth._  
 __gnashing__  
 __gnat__ _n_ :three::hammer: (insect?)  
@@ -5640,6 +5647,7 @@ __have a few__ _idiom_ To have multiple alcoholic drinks, especially to the poin
 __have a fling (with someone)__ _idiom_ To have a brief, noncommittal sexual relationship (with someone).  
 __have a hankering for (something)__ _idiom_ To have a very strong, persistent desire or craving for something.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
+__have a look-see__ _idiom_ :dart: To have a very quick look or brief examination.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
@@ -6220,7 +6228,7 @@ __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _adj_ :two::hammer: _In-house experts._  
 __in-laws__ _A room for the in-laws._  
-__inadvertent__ _adj_ :three: Happening by chance or unexpectedly or unintentionally.  
+__inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__  
 __inane__ _adj_ :six::hammer:  
 __inanity__ _n_  
@@ -6336,6 +6344,7 @@ __inset__ :two::hammer:
 __insidious__  
 __insipid__  
 __insofar__ _adv_ :two: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
+__insolation__  
 __insolent__ _adj_  
 __insolvency__  
 __insomniac__ _n_  
@@ -7851,7 +7860,7 @@ __narrowly__ _I narrowly escaped execution._
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
-__nascent__ :two::hammer: _The nascent market._  
+__nascent__ :three::hammer: _The nascent market._  
 __nasion__ _n_  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __Nat Geo__ National Geographic.  
@@ -8605,6 +8614,7 @@ __peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on h
 __peck<sup>2</sup>__ _v_ _Pecking away at the piano keys._  
 __peckerwood__  
 __pecking order__  
+__pecuniary__ _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
 __peddle__ _v_  
 __peddling__  
@@ -9660,6 +9670,7 @@ __reach out to somebody__ _phr v_ To show people that you are interested in them
 __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
 __read into something__  
+__read it and weep__ _idiom_  
 __readily__ _adv_ :four::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
@@ -9861,7 +9872,7 @@ __resistance__
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__  
 __respirator__ _n_  
-__respite__ _n_ :eight: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
+__respite__ _n_ :nine: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
@@ -11900,6 +11911,7 @@ __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know 
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __sutra__ _Reafing a sutra._  
 __svelte__ :two::hammer:  
+__swab__ _n_ _Nasopharyngeal swabs._  
 __swadding__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. :es: envolver con ropa apretada a un bebé  
 __swage__ _adj_  
@@ -12205,7 +12217,7 @@ __terrestrial<sup>1</sup>__ _adj_
 __terrestrial<sup>2</sup>__ _n_  
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
 __terse__  
-__test the waters__ _We're testing the waters._  
+__test the water(s)__ _idiom_ :two::hammer: _We're testing the waters._  
 __tester bed__ :two::hammer:  
 __testy__  
 __tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
@@ -12293,6 +12305,7 @@ __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something m
 __thread the needle__  
 __Three Lions__ _A message to the Three Lions._  
 __thrifty__ _adj_ :two::hammer:  
+__thrilling__ _adj_  
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :four::hammer:  
