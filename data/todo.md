@@ -1,5 +1,13 @@
 
 
+__red herring__  
+__PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
+__back in the day__ _idiom_ At a time in the past that is remembered with fondness or nostalgia.  
+__ticket taker__ _n_ Someone who is paid to admit only those who have purchased tickets.  
+__push__ _n_  
+__meme__ _n_  
+__heist__ _n_  
+__on the flip side__  
 __steel drum__ :two::hammer:  
 
 __alongside__  
