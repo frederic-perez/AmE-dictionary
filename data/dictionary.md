@@ -1558,6 +1558,7 @@ __bugout__
 __build a future__ :es: labrarse un futuro  
 __build__ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
+__built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
 __bulbous__ _adj_ _A bulbous man._  
 __bulk up__ _v_  
 __bulk__  
@@ -1795,6 +1796,7 @@ __can't be bothered__ _idiom_ Unwilling or disinclined to make the effort necess
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
+__candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cane brakes__  
 __canebrake__ _n_  
@@ -1884,7 +1886,7 @@ __carve out__ _v_ (carved out) :six::hammer:
 __carveouts__  
 __cascading__  
 __case at hand__  
-__case in point__ _n_ :seven: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
+__case in point__ _n_ :eight: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case study__  
 __case the joint__  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
@@ -3554,6 +3556,7 @@ __down under__ _n informal_ _Best regards from down under._
 __down-low__  
 __down-to-earth__ _idiom_ :three: Sensible and realistic.  
 __downbeat__ :two::hammer:  
+__downburst__ _n_  
 __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_  
@@ -3567,6 +3570,7 @@ __downright__ _adv_ :dart::four::hammer: _Not to mention, just downright good lo
 __downside__ _n_ :two::hammer: (downsides)  
 __downspout__ _n_  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
+__downtime__ _n_ :two::hammer:  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_  
 __downturns__ :two::hammer:  
@@ -3847,6 +3851,7 @@ __eldest__ (is this right?)
 __Election Day__  
 __elective__ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
+__electrolysis__ _n_  
 __elegy__ :two::hammer:  
 __elephant in the room__ _idiom_ :two: An obvious problem that people do not want to talk about.  
 __elevator boy__  
@@ -5136,6 +5141,7 @@ __go a long way__ :dart::three::hammer: _Go a long way toward minimizing damage.
 __go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
 __go apeshit__  
 __go at (something)__ _idiom_ To engage in or undertake something with great energy, enthusiasm, or vigor.  
+__go at it hammer and tongs__ _idiom_ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
 __go awry__ :two::hammer:  
 __go back to square one__ _idiom_ To start from the beginning.  
 __go ballistic__ _idiom_ :two::hammer:  
@@ -6287,6 +6293,7 @@ __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beat
 __ineffectual__  
 __inequitable__  
 __inequities__  
+__inert__ _Helium is inert._  
 __inexplicable__ _adj_  
 __inextricably__ :two::hammer:  
 __infallibity__  
@@ -6383,7 +6390,7 @@ __into the fold__ _It brought many viewers into the fold._
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intricacies__ :two::hammer:  
-__intricate__  
+__intricate__ _adj_ :two::hammer:  
 __intuit__ _v_ :three: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
@@ -7513,6 +7520,7 @@ __midriff__ :two::hammer:
 __midsize__  
 __midst__  
 __midswing__  
+__midway__  
 __midwife__ _n_ :two::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
@@ -8034,6 +8042,7 @@ __nova__
 __novella__  
 __now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nowadays__  
+__nowcast__  
 __nowcasting__ :two::hammer: _Nowcasting system._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
@@ -8131,6 +8140,7 @@ __offramp__
 __offset<sup>1</sup>__ _v_ :three::hammer: (offsetting)  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __offshoot__ _n_  
+__offshore__  
 __oft__ :two::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
 __often__ :mute:[of~~t~~en]  
@@ -8749,6 +8759,7 @@ __phlegmy__ _adj_ :three: Charged with phlegm.
 __photo-op__  
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
+__photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
 __phylacteries__ :two::hammer:  
 __phytoplankton__ _n_  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
@@ -9273,7 +9284,7 @@ __pronounceable__
 __prop up__ _But with her leg propped up._  
 __prop__ _v_  
 __propaganda__ _n_ :astonished:  
-__proper__ _They have pushed into the city proper._  
+__proper__ :two::hammer: _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
@@ -9537,7 +9548,7 @@ __racy__ :three::hammer: _A racy line from a popular song._ _Racy song._
 __radial__ _Such a thrill when your radials squeal._  
 __radical candor__  
 __radiometer__ _n_ :two::hammer:  
-__radiosonde__ _n_ :three::hammer:  
+__radiosonde__ _n_ :four::hammer:  
 __radish__  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
@@ -9846,6 +9857,7 @@ __repent__ _v_ :two::hammer: (repented)
 __repentance__ :two::hammer:  
 __repercussion__ _n_ :dart:  
 __repertoire__  
+__replenishing__ _n_  
 __reportedly__ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It's a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
@@ -11238,7 +11250,7 @@ __sonny__
 __sonogram__  
 __Sonora cacti__ _n_ :camera:  
 __sooner > sooner rather than later__  
-__soot__ :two::hammer:  
+__soot__ _n_ :three::hammer:  
 __sooty__  
 __sop__ _A wine sop._  
 __sophomore__ (from Greek?) :two::hammer:  
@@ -11253,7 +11265,7 @@ __sort out__ _v_ :two::hammer:
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sot__ :two::hammer: _A surly sot._  
-__sought-after__  
+__sought-after__ :two::hammer:  
 __soul__ _n_ :mega:  
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :three::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
@@ -11403,6 +11415,7 @@ __sprinkle<sup>2</sup>__ _v tr_ :nine::m: (sprinkles, sprinkled, sprinkling) __1
 __sprinkle<sup>3</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
 __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkling__ _A sprinkling of luck._  
+__sprite__ _n_ A small being, human in form, playful and having magical powers. _Syn_ fairy, fay  
 __sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprouting__  
 __spruce up__ _v_ :four: _idiom_ To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
@@ -11992,6 +12005,7 @@ __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to
 __syndicated__ :two::hammer:  
 __syndrome__ _n_  
 __synesthesia__ _n_  
+__synoptic__ _adj_ :two::hammer: _Synoptic representations of wind._  
 __syphilis__ _n_ :pencil2:  
 __syringe__  
 __syrupy__  

@@ -1,27 +1,5 @@
 
 
-__go at it hammer and tongs__ _idiom_ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
-__candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
-__sprite__ _n_ A small being, human in form, playful and having magical powers. _Syn_ fairy, fay  
-
-__nowcast__  
-__downburst__ _n_  
-__synoptic__ _adj_ :two::hammer: _Synoptic representations of wind._  
-__inert__ _Helium is inert._  
-__electrolysis__ _n_  
-__radiosonde__ _n_  
-__replenishing__ _n_  
-__case in point__  
-__offshore__  
-__downtime__ _n_ :two::hammer:  
-
-__sought-after__  
-__photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
-__midway__  
-__proper__  
-__intricate__ _adj_  
-__built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
-__soot__ _n_  
 __steel drum__ :two::hammer:  
 
 __alongside__  
