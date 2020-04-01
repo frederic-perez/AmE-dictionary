@@ -151,7 +151,7 @@ __Adam's ale__ _slang_ Water.
 __adamant__  
 __add insult to injury__ _idiom_ To hurt the feelings of a person who is already upset.  
 __add up to__ _idiom_ To equal or amount to something.  
-__add up__ _phr v_ :three::hammer: _The whole thing doesn't add up._  
+__add up__ _phr v_ :four::hammer: _The whole thing doesn't add up._  
 __ADD__ _abbr_ Attention deficit disorder.  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __address__ _v_ :two::hammer: _A multitude of problems need to be addressed._  
@@ -304,7 +304,7 @@ __almond__ :mute:[a~~l~~mond]
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  
 __along with__  
-__alongside__ :two::hammer:  
+__alongside__ _prep_ :three::hammer:  
 __aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
@@ -500,7 +500,7 @@ __arms embargo__
 __arms race__  
 __armscye__ _n_  
 __arose__ _v_  
-__around the clock__  
+__around the clock__ _idiom_ :two: Without stopping. _Syn_ for 24 hours, round the clock  
 __around the corner__ _idiom_ :two: Going to happen soon.  
 __arpents__ _n_ :two::hammer:  
 __arrange__ _v_  
@@ -673,6 +673,7 @@ __back breaker__
 __back country__ _n_  
 __back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
+__back in the day__ _idiom_ At a time in the past that is remembered with fondness or nostalgia.  
 __back out__ _v_ :three::hammer:  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
 __back-of-house__ _Back-of-house technology._  
@@ -2074,6 +2075,7 @@ __cheekboned__ _High-cheekboned newbies.;-_
 __cheekier__  
 __cheeky__  
 __cheerfully__  
+__cheese corn__ _n_  
 __cheese wedge__  
 __cheese-eater__  
 __cheesecloth__ _n_ :three::hammer:  
@@ -5642,6 +5644,7 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
+__have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one's past.  
 __have (got) (someone's) back__ _idiom_ :two: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
@@ -5762,7 +5765,7 @@ __heir__ :mute:[~~h~~eir]
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
-__heist__ _n_ :three::hammer: _A jewelry heist._ _A true-life heist drama._  
+__heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
@@ -7457,7 +7460,7 @@ __melee__ _n_
 __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
-__meme__ _n_ :three::mega::hammer:  
+__meme__ _n_ :four::mega::hammer:  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
 __memo__ _n_ :two: (memos) Short for memorandum. _A memo sent to reporters._  
@@ -8192,7 +8195,7 @@ __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion bu
 __on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
 __on the docket__  
 __on the fence__ _idiom_ Unable to make a decision.  
-__on the flip side__ _idiom_  
+__on the flip side__ _idiom_ :two::hammer:  
 __on the fly__  
 __on the hoof__  
 __on the rise__ _idiom_  
@@ -8606,6 +8609,7 @@ __payload__ _n_ :three::hammer:
 __payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
 __PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
+__PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
@@ -8828,10 +8832,12 @@ __pin<sup>2</sup>__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New Yor
 __pinafore__  
 __pincers__ _n_  
 __pinch > in a pinch__  
+__pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
 __pinch-faced__  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ :two::hammer: (pinches) _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
+__pincher__ _n_  
 __pincushion__  
 __pine (for)__ _v_  
 __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only in movies that people pined for the dead._  
@@ -9398,8 +9404,8 @@ __puppy__
 __pups__ _n_  
 __purée__  
 __puree__ _v_ :three::hammer:  
-__purloin__ _v_ :three::hammer: (purloined)  
-__purloined__ _A purloined Indian blanket._  
+__purloin__ _v_ :five::hammer: (purloined) _A purloined Indian blanket._  
+__purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _A hint of purple._  
 __purport__ _v_  
@@ -9412,7 +9418,8 @@ __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_  
 __push puppet__ _n_ :camera:  
-__push__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
+__push<sup>1</sup>__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
+__push<sup>2</sup>__ _n_  
 __pushcart__ _A pushcart vendor._  
 __pushing up the daisies__ _idiom_ Dead and buried.  
 __pushover__ _n_ :seven: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
@@ -9738,6 +9745,7 @@ __recuse__ _She recused herself._
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red eye__  
 __red flag__ _Red flag day._  
+__red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red rover__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
@@ -10155,7 +10163,7 @@ __ruffles__
 __rug > sweep it under the rug__  
 __rug rat__ _n_ A young child, a toddler.  
 __rug__ _n_ :two: Hairpiece, chignon.  
-__rugged__ _adj_ :two::hammer: _He was red carded for a rugged foul._  
+__rugged__ _adj_ :three::hammer: _He was red carded for a rugged foul._  
 __rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
 __rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
@@ -11592,6 +11600,7 @@ __stealthy__
 __steamer trunk__ _A steamer trunk lay opened by the couch._  
 __steamrolled__ _v_  
 __steed__ _n_ :two::hammer: (steeds)  
+__steel drum__ :two::hammer:  
 __steel__ _v_  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
 __steep<sup>2</sup>__ _v_ :nine: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
@@ -12111,6 +12120,7 @@ __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows towa
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
 __tapioca__ :mega:  
 __tapped out__ _idiom_ Completely exhausted or depleted (of some resource). _A: "Do you want to place another bet?" B: "Nah, I'm tapped out." Do we have any more ink cartridges? This one's tapped out._  
+__taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _A bugler played taps._  
 __tardy__ :two::hammer:  
@@ -12375,6 +12385,7 @@ __tick prevention__
 __tick__ _v_ _Prices ticked up 0.2%._  
 __ticker tape__  
 __ticker__ _n_ :two: __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
+__ticket taker__ _n_ Someone who is paid to admit only those who have purchased tickets.  
 __tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to death._  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
 __tickling__ _n_  
