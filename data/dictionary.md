@@ -2371,6 +2371,7 @@ __cold-calling__ _He started cold-calling people in New York._
 __coleslaw__ _n_ :four::hammer:  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_  
+__collage__ _v_  
 __collapse__ _v_ :pencil2:  
 __collapsible__ _Collapsible shutters._  
 __collarbone__ _n_ :three: The clavicle.  
@@ -2646,6 +2647,7 @@ __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ 
 __corpus__ _A big corpus of examples._  
 __corral__ _v_  
 __corralled__ _v_ :three::hammer: (corralling)  
+__corrective__ _Preventive and corrective maintenance._  
 __correspondent__ _Our journalists are not experienced war correspondents._  
 __corridor__ _n_ :three::hammer: :es: puente aéreo  
 __corrugate__ _v_  
@@ -3286,6 +3288,7 @@ __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especi
 __dilemma__  
 __diligent__ _adj_ Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
 __dill__ _n_ :two::hammer: _A dill pickle._  
+__dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one's feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
 __dilutive__  
 __dim__ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
 __dime > on the dime__  
@@ -3567,7 +3570,7 @@ __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. _
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
 __downplay__ _v_ :four::hammer: (downplayed)  
-__downpour__ _n_ :five::hammer: (downpours) _Heavy downpours can cause flash flooding._  
+__downpour__ _n_ :six::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::four::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downside__ _n_ :two::hammer: (downsides)  
 __downspout__ _n_  
@@ -4690,6 +4693,7 @@ __foremost__ _adj_
 __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the forenoon._  
 __forensics__ :two::hammer:  
 __foreplay__  
+__forerunner__ _n_  
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
 __forestall__ _v_ :four: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
@@ -5657,6 +5661,8 @@ __have a fling (with someone)__ _idiom_ To have a brief, noncommittal sexual rel
 __have a hankering for (something)__ _idiom_ To have a very strong, persistent desire or craving for something.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
 __have a look-see__ _idiom_ :dart: To have a very quick look or brief examination.  
+__have a mountain to climb__ _idiom_ To have an extremely difficult, seemingly impossible task at hand.  
+__have a say (in something)__ _idiom_ To have an active and participatory role in making or influencing a decision about something.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
@@ -6358,7 +6364,7 @@ __insolation__
 __insolent__ _adj_  
 __insolvency__  
 __insomniac__ _n_  
-__instability__ :two::hammer::pencil2:  
+__instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
 __instill__ _v_ :five::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
@@ -6805,7 +6811,7 @@ __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office d
 __lame__ :two::hammer: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
-__lampoon<sup>2</sup>__ _v_ :two::hammer: (lampooned)  
+__lampoon<sup>2</sup>__ _v_ :three: (lampooned) To make the subject of a satire. _Syn_ ridicule  
 __lance__ _v_ :astonished:  
 __lanced__ _v_  
 __lancet__ _n_  
@@ -7555,6 +7561,7 @@ __mince<sup>1</sup>__ _v_ :three: (minced) Cut up (food, especially meat) into v
 __mince<sup>2</sup>__ _n_  
 __mincemeat__  
 __mind__ _v_ _Mind the gap._  
+__mind-boggling__  
 __minder__ :es: guardaespaldas  
 __mindful__  
 __mindset__ _n_  
@@ -7774,7 +7781,7 @@ __muggy__ :two::hammer: _The weather was muggy._
 __mulberry__ _n_ :three::hammer: (mulberries)  
 __mulch__ _n_ :two::hammer:  
 __mulching__ _v_  
-__mull__ _v_ :six::hammer: (mulled, mulling) _Cheney was mulling a Senate bid._  
+__mull__ _v_ :seven::hammer: (mulled, mulling) _Cheney was mulling a Senate bid._  
 __mullah__ _n_  
 __mulled__ _v_ _His mug of mulled cider._  
 __mullet__ :two::hammer:  
@@ -9165,7 +9172,7 @@ __preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, 
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __preliminary__  
 __premier__ _adj_  
-__premium__ _n_ :five::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._  
+__premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
 __premortem__  
 __prenup__ _n_ _informal_ :two: A prenuptial agreement.  
 __preoccupation__  
@@ -9206,6 +9213,7 @@ __prevalent__
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
+__preventive__ _Preventive and corrective maintenance._  
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
 __price point__ _The best in price point._  
@@ -10650,7 +10658,7 @@ __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
-__sheer<sup>1</sup>__ _adj_ :nine::hammer: _Sheer brazenness._ _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer<sup>1</sup>__ _adj_ :nine::m::hammer: _The sheer magnitude of threats._ _Sheer brazenness._ _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
 __sheet__ _n_ :two:  
@@ -11515,6 +11523,7 @@ __staler__ _The air in the place grew staler._
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk<sup>1</sup>__ _n_  
 __stalk<sup>2</sup>__ _v_  
+__stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
 __stallion__  
 __stalward__  
 __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
@@ -11700,7 +11709,7 @@ __stopgag__ _n_ :three::hammer:
 __stopgap__ _n_ :five::hammer:  
 __stoplights__ :pencil2:  
 __stopover__  
-__stoppage__ _n_ :seven::hammer: _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ _n_ :eight::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
@@ -11895,7 +11904,7 @@ __sunken__
 __suntan__ _n_  
 __super-duper__ _adj_ :four::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
 __superbly__  
-__supercell thunderstorm__  
+__supercell__ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercilious__  
 __superintendent__ _n_ :three::hammer:  
 __superpooch__  
@@ -12720,7 +12729,7 @@ __trot out__
 __trot__  
 __troubleshoot__ _v_ :two::hammer:  
 __troubleshooter__  
-__trough__ _n_ :four: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
+__trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :five::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
@@ -13334,6 +13343,7 @@ __waterfront__ _n_ :four::hammer: _Waterfront real state._
 __waterlogged__  
 __watermelon__ _n_ :pencil2:  
 __watershed__ _n_ :four::hammer: _A watershed moment._ _Dignataries recognized the watershed moment of his passing._  
+__waterspout__ _n_  
 __waterway__  
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
 __waver__ _v_ :two::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
@@ -13551,6 +13561,7 @@ __winded__
 __windlass__  
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  
+__window__ _Hail is tracked over a one-hour window._  
 __windshear__ _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
 __windstorm__  

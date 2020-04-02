@@ -1,27 +1,5 @@
 
 
-__collage__ _v_  
-__forerunner__ _n_  
-__mind-boggling__  
-__downpour__ _n_ _Torrential downpours._  
-__instability__ _n_ :pencil2:  
-__supercell__ _Supercell storms._  
-__premium__ _The insurance company can charge you a premium._  
-__stoppage__ _n_ _Keep work stoppages to a minimum._  
-__trough__ _n_  
-__mull__ _v_  
-
-__have a say (in something)__ _idiom_ To have an active and participatory role in making or influencing a decision about something.  
-__dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one's feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
-__stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
-__have a mountain to climb__ _idiom_ To have an extremely difficult, seemingly impossible task at hand.  
-__lampoon__ _v_ To make the subject of a satire. _Syn_ ridicule  
-
-__waterspout__ _n_  
-__sheer__ _The sheer magnitude of threats._  
-__window__ _Hail is tracked over a one-hour window._  
-__preventive__ _Preventive and corrective maintenance._  
-__corrective__ _Preventive and corrective maintenance._  
 __flange__  
 __radome__ _n_  
 __stoppage__  
