@@ -341,6 +341,7 @@ __Amish__ _n_ _Amish country._
 __amiss__ _adj_ :two::hammer:  
 __amity__  
 __ammo__  
+__ammonia__ _n_  
 __amnesty player__  
 __amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
 __amount to__ _idiom_ :two::hammer:  
@@ -1846,6 +1847,7 @@ __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a larg
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __card__ _v_  
+__Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ :two::hammer:  
 __cardinal__ _Breaking cardinal rules of marketing._  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
@@ -2953,7 +2955,7 @@ __cutter__ _A Coast Guard cutter._
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin' a rug__  
-__cutting edge__ :two::hammer:  
+__cutting edge__ _adj_ :three::hammer: (cutting-edge) _Cutting-edge research._  
 __CVD__ Cardiovascular disease.  
 __CVS__ _abbr_ Computer Vision Syndrome.  
 __cyanide__ _n_ A very strong poison.  
@@ -4479,6 +4481,7 @@ __flaky__
 __flamboyant__ _adj_ :four::hammer:  
 __flameouts__  
 __flaming hair__  
+__flange__  
 __flank<sup>1</sup>__ _n_ :two: The side of an animal or a person between the ribs and hip. :es: costado  
 __flank<sup>2</sup>__ _v_  
 __flanker__ (soccer position)  
@@ -6032,7 +6035,7 @@ __housemother__ _n_
 __housing equity__  
 __housing starts__  
 __housing unit__  
-__housing__ _n_ :four::hammer: _A waterproof housing._  
+__housing__ _n_ :five::hammer: _A waterproof housing._  
 __hovels__ _n_  
 __hover__ _v_  
 __hoverboard__ :two::hammer:  
@@ -6799,6 +6802,7 @@ __lag__ _v_ :two::hammer:
 __laggard<sup>1</sup>__ _adj_ :four::hammer:  
 __laggard<sup>2</sup>__ _n_ :two::hammer:  
 __lagged__  
+__lagoon__ _n_ _The Venetian lagoon._  
 __laid back attitude__  
 __laid-back__ _adj_ _idiom_ :seven: Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia's laid back lifestyle._  
 __lain__  
@@ -7020,6 +7024,7 @@ __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revela
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
 __lighthearted__ _adj_ :two::hammer:  
+__lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
@@ -8582,6 +8587,7 @@ __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.
 __patch up__ _idiom_ :two::dart: To fix something quickly so it can be used until it's repaired properly or replaced.  
 __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
+__pathcasting__  
 __pathetic__  
 __pathogenic__  
 __pathogens__ _n_  
@@ -9045,6 +9051,7 @@ __polish__ _v_
 __politburo__  
 __pollen__ _n_ :astonished:  
 __pollster__ _n_  
+__pollutant__ _n_ :two::hammer:  
 __pols__ _n_  
 __poltergeist__ :mega:  
 __polyadic__  
@@ -9458,9 +9465,9 @@ __PVC__
 __PX__ Physical Examinatin. _You run the PX for these characters?_  
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
-__pyranometer__ _n_ :three::hammer:  
+__pyranometer__ _n_ :four::hammer:  
 __pyres__ _n_  
-__pyrheliometer__ _n_  
+__pyrheliometer__ _n_ :two::hammer:  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __Q__ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __q-tip__  
@@ -9561,10 +9568,12 @@ __racousness__
 __racquet__  
 __racy__ :three::hammer: _A racy line from a popular song._ _Racy song._  
 __radial__ _Such a thrill when your radials squeal._  
+__radiation budget__  
 __radical candor__  
 __radiometer__ _n_ :two::hammer:  
 __radiosonde__ _n_ :four::hammer:  
 __radish__  
+__radome__ _n_  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
@@ -10493,6 +10502,7 @@ __second-guess__ _v_ :seven::dart: (second-guessing)
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ _n_ :four: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secular__ :two::hammer:  
+__secure__ _v_ _Go online now to secure your seat._  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__ _He travels with a security detail._  
 __security__ :mega:  
@@ -11257,6 +11267,7 @@ __soliloquy__
 __solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :three::hammer:  
+__solvent__ _n_  
 __sombreros__  
 __someone's hair__ _He built the shop to get his hobby out of his wife's hair._  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
@@ -11709,7 +11720,7 @@ __stopgag__ _n_ :three::hammer:
 __stopgap__ _n_ :five::hammer:  
 __stoplights__ :pencil2:  
 __stopover__  
-__stoppage__ _n_ :eight::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ _n_ :nine::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
@@ -11782,7 +11793,7 @@ __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
 __stripling__ _n_  
-__strive__ _v_ :four::hammer:  
+__strive__ _v_ :five::hammer:  
 __strivers__  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
@@ -12430,7 +12441,7 @@ __time line__ _Can it be done in that time line?_
 __timeclock__ _Denver Movie Timeclock._  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__  
-__timely__ _adj_ :eight::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :nine::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_  
 __timetable<sup>2</sup>__ _v_  
@@ -13049,7 +13060,7 @@ __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in 
 __uptake__ _n_ :two::hammer:  
 __uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
-__uptime__  
+__uptime__ :two::hammer:  
 __upward__  
 __upwardly__  
 __urban legend__  
@@ -13765,7 +13776,7 @@ __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._
 __yew tree__ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  
 __yield<sup>1</sup>__ _v_ :three::hammer: _Failing to yield to pedestrians._  
-__yield<sup>2</sup>__ _n_  
+__yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers to increase yields._  
 __yikes__ _interj_ :two: An exclamation of surprise or alarm.  
 __yin and yang__  
 __yipped__ _v_  
