@@ -1,5 +1,16 @@
 
 
+__outage__ _Power outages._  
+__blackout__ _n_  
+__walloped__ _v_  
+__fava beans__  
+__agronomy__ _n_  
+__bale__ _v_  
+__unconvinced__  
+__foolproof__  
+__hectare__ _n_  
+__hardier__  
+
 __dazzling__ _adj_  
 __surge__ _v_ (surging) _A mysterious current surging through Earth._  
 __coil__ _v_  
