@@ -1,5 +1,14 @@
 
 
+__worst nightmare__ _n_ The thing someone fears most.  
+__like shooting fish in a barrel__  
+__subpoena__ _v_ :mega:  
+__goop__ _n_  
+__pothead__  
+__go to war__  
+__bug__ _v_  
+__chicken wire__ _n_  
+
 __washed-out__ _adj_ Having lost freshness or brilliance of color. _Syn_ leached, faded  
 __have had (one's) chips__ _idiom_ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
 __chatterbox__ _n informal_ A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
