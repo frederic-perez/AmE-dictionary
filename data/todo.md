@@ -1,5 +1,14 @@
 
 
+__washed-out__ _adj_ Having lost freshness or brilliance of color. _Syn_ leached, faded  
+__have had (one's) chips__ _idiom_ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
+__chatterbox__ _n informal_ A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
+__have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one's sleeve.  
+__spiteful__ _adj_ Showing malicious ill will and a desire to hurt; motivated by spite. _Syn_ vindictive  
+__goodly__ _adj_ Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
+__have a thing for (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
+__green-eyed__ _adj_ Jealous.  
+
 __outage__ _Power outages._  
 __blackout__ _n_  
 __walloped__ _v_  
