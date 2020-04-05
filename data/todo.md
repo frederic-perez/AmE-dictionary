@@ -1,5 +1,16 @@
 
 
+__piggy-back__  
+__accreted__ :two::hammer:  
+__cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
+__synoptical__  
+__outperform__ _v_  
+__shortfall__  
+__hedge__ _v_  
+__accretion__ _n_ _Ice accretion._  
+__turnkey__  
+__subfreezing__ _Subfreezing temperature._  
+
 __worst nightmare__ _n_ The thing someone fears most.  
 __like shooting fish in a barrel__  
 __subpoena__ _v_ :mega:  
