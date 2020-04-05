@@ -1,5 +1,16 @@
 
 
+__swank__  
+__coleslaw__ _n_  
+__humps__ _n_  
+__valedictory__  
+__crucible__ _n_  
+__nullify__ _v_  
+__plea__ _n_  
+__quash__ _v_  
+__schmucks__ _n_  
+__ready-room__ _n_ :two::hammer:  
+
 __all righty__  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
 __articulate__ _v_  
