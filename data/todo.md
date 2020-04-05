@@ -1,5 +1,13 @@
 
 
+__fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
+__upper crust__ _n_ _informal_ The highest social class or group.  
+__pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
+__have a sneaking suspicion__ _idiom_ To have a slight but persistent premonition or intuition (about something).  
+__scourge__ _n_  
+__cordon sanitaire__ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
+__handwaving__ _idiom_ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
+
 __piggy-back__  
 __accreted__ :two::hammer:  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
