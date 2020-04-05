@@ -1,5 +1,14 @@
 
 
+__all righty__  
+__extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
+__articulate__ _v_  
+__red flag__ _n_  
+__pie in the sky__ _idiom_  
+__lift__ _n_  
+__picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
+__thank-you note__ _n_  
+
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __upper crust__ _n_ _informal_ The highest social class or group.  
 __pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
