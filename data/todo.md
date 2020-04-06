@@ -1,5 +1,16 @@
 
 
+__plummet__ _v_  
+__sole__ _Its sole responsibility._  
+__in-house__ _An in-house system._  
+__bumpers__ _n_ _The bumpers of vehicles._  
+__slush__ _n_  
+__laden__ _Salt laden marine environments._  
+__bid__ _n_ :two::hammer:  
+__amount to__  
+__force majeure__  
+__readily__ :two::hammer:  
+
 __swank__  
 __coleslaw__ _n_  
 __humps__ _n_  
