@@ -1,5 +1,11 @@
 
 
+__caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
+__effrontery__ _n_  
+__nervy__ _adj_  
+__meme__ _n_ _slang_ :mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
+__outcome__ _n_ (outcomes)  
+
 __plummet__ _v_  
 __sole__ _Its sole responsibility._  
 __in-house__ _An in-house system._  
