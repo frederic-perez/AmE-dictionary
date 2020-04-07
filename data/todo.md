@@ -1,5 +1,16 @@
 
 
+__pitot__ _Pitot tube._  
+__withstand__ _v_  
+__readings__ _n_  
+__silting__ _n_  
+__underpin__ _v_  
+__chlorophyll__ _n_  
+__brackish__ _Brackish water._  
+__anoxic__ _adj_  
+__dystrophy__ _n_ :pencil2:  
+__louver__ _n_ _Double-wall louver baffles._  
+
 __nullify__ _v_  
 __plea__ _n_  
 __quash__ _v_  
