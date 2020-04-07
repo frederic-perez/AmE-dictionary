@@ -344,7 +344,7 @@ __ammo__
 __ammonia__ _n_  
 __amnesty player__  
 __amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
-__amount to__ _idiom_ :two::hammer:  
+__amount to__ _idiom_ :three::hammer:  
 __amp up__ _phr v_ (amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ample__ _adj_ :five: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
@@ -1033,9 +1033,8 @@ __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bicyclist__  
 __bid farewell__  
-__bid rigging__  
 __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn't bid him farewell._  
-__bid<sup>2</sup>__ _n_ :two::hammer: _The highest ranked team earns an automatic bid to one of the New Year's six bowls._  
+__bid<sup>2</sup>__ _n_ :five::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year's six bowls._  
 __bidding war__  
 __bidding__  
 __biennium__ _n_ :three: Two years.  
@@ -1583,6 +1582,7 @@ __bumblebee__ _n_ :two::hammer: (bumblebees)
 __bummer__ _n_ _slang_ :two: A disappointing or unpleasant situation or experience.  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
+__bumpers__ _n_ _The bumpers of vehicles._  
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
 __bumps in the road__  
@@ -1841,6 +1841,7 @@ __capuchin monkey__ :mega:
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word "gharrafah" meaning "dipper" or "drinking vessel."  
+__caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
 __carapace__ _n_ :four::hammer:  
 __carat__  
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
@@ -2370,7 +2371,7 @@ __cold fish__ Someone who has very little emotions, who is regarded as hard-hear
 __cold shoulder__  
 __cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
-__coleslaw__ _n_ :four::hammer:  
+__coleslaw__ _n_ :five::hammer:  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_  
 __collage__ _v_  
@@ -2843,7 +2844,7 @@ __crouch__ :two::hammer:
 __crowbar__ _n_ :two::hammer:  
 __crowing__ _v_  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
-__crucible__ _n_ :six::hammer:  
+__crucible__ _n_ :seven::hammer:  
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
 __crudity__ _"Please, excuse the crudity of the model," said Dr. Brown._  
@@ -3821,7 +3822,7 @@ __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.
 __effluent__  
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
-__effrontery__  
+__effrontery__ _n_ :two::hammer:  
 __effusive__  
 __egalitarian__ _adj_  
 __egg head__ A very studious and academic person.  
@@ -4676,7 +4677,7 @@ __forager__ _n_ :two::hammer: (foragers)
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ :es: incursión  
 __forbear__ _v_  
 __forbearance__  
-__force majeure__  
+__force majeure__ :two::hammer:  
 __forceful__ _adj_ :two::hammer: _A forceful pitch._  
 __forcible__ _adj_ :three::hammer:  
 __fore and aft__  
@@ -6064,7 +6065,7 @@ __hummocks__
 __hummus__ _n_ :mega:  
 __humor__ _v_ :three::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
-__hump<sup>2</sup>__ _n_ (humps) _Two green humps in the mist._  
+__hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._  
 __Humpty Dumpty__  
 __humpty-dumpty__  
 __Humpty-Dumpty__ :two::hammer:  
@@ -6244,7 +6245,7 @@ __in tow__ _idiom_
 __in your birthday suit__ _idiom_ Naked.  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _He will conduct an in-depth review._  
-__in-house__ _adj_ :two::hammer: _In-house experts._  
+__in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._  
 __in-laws__ _A room for the in-laws._  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__  
@@ -6793,7 +6794,7 @@ __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical arg
 __lacy__ _Cypress trees that were lacy with new leaf._  
 __lad__ _n_  
 __laddie__  
-__laden__ _adj_ :three: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._  
+__laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
 __lading__ _Checking bills of lading._  
 __Lady Luck__ _I''m riding with Lady Luck._  
 __ladybird__ _n_  
@@ -7471,7 +7472,7 @@ __melee__ _n_
 __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
-__meme__ _n_ :four::mega::hammer:  
+__meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
 __memo__ _n_ :two: (memos) Short for memorandum. _A memo sent to reporters._  
@@ -7931,7 +7932,7 @@ __nerve agent__
 __nerve__ :two::hammer: _He's got nerve._  
 __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)  
 __nervous laughter__  
-__nervy__ :pencil2::two::hammer:  
+__nervy__ _adj_ :pencil2::three::hammer:  
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :eight::hammer: (nestled)  
 __nestlings__ _n_  
@@ -8313,6 +8314,7 @@ __outbox__ _n_
 __outbreak__ _n_ :four::hammer: (outbreaks)  
 __outburst__ _n_ :two::hammer:  
 __outcast__ _n_  
+__outcome__ _n_ (outcomes)  
 __outcroppings__  
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
@@ -9001,6 +9003,7 @@ __plum__ _n_ :three::hammer: _Plum-and-onion stuffing._
 __plumb__ _v_ :two::hammer:  
 __plumbago__ _n_  
 __plumbing__  
+__plummet__ _v_  
 __plummeted__ _v_ :three::hammer: (plummeting)  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
@@ -9706,7 +9709,7 @@ __reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._
 __reactive__ _adj_ :dart:  
 __read into something__  
 __read it and weep__ _idiom_  
-__readily__ _adv_ :four::hammer:  
+__readily__ _adv_ :six::hammer:  
 __readiness__ _Our career readiness software program._  
 __readout__ _n_  
 __readying__ _v_ :astonished:  
@@ -11089,7 +11092,7 @@ __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
-__slush__ _n_ :four::hammer: _The offshore ice and slush._  
+__slush__ _n_ :five::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
@@ -11257,6 +11260,7 @@ __solacing__ _v_ _Solacing her with kisses._
 __solder__  
 __soldier of fortune__  
 __soldiers__ _v_  
+__sole__ _Its sole responsibility._  
 __solemn__ :mute:[solem~~n~~]  
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
@@ -11965,7 +11969,7 @@ __swamp<sup>1</sup>__ _n_ :two: __1a__ Permanently waterlogged ground that is us
 __swamp<sup>2</sup>__ _v_ :four::hammer: (swamped) _The team feels swamped with work._  
 __swampy__  
 __swan song__  
-__swank__  
+__swank__ :two::hammer:  
 __swanky__ _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
@@ -13102,7 +13106,7 @@ __vague__ :mute:[vag~~u~~e]
 __vainglorious__ _adj_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
-__valedictory__ _n_ A closing or farewell statement or address, especially one delivered at graduation exercises.  
+__valedictory__ _n_ :two: A closing or farewell statement or address, especially one delivered at graduation exercises.  
 __valentine__  
 __valiant<sup>1</sup>__ _adj_  
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
