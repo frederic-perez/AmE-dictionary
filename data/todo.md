@@ -1,27 +1,5 @@
 
 
-__pitot__ _Pitot tube._  
-__withstand__ _v_  
-__readings__ _n_  
-__silting__ _n_  
-__underpin__ _v_  
-__chlorophyll__ _n_  
-__brackish__ _Brackish water._  
-__anoxic__ _adj_  
-__dystrophy__ _n_ :pencil2:  
-__louver__ _n_ _Double-wall louver baffles._  
-
-__nullify__ _v_  
-__plea__ _n_  
-__quash__ _v_  
-__schmucks__ _n_  
-__ready-room__ _n_ :two::hammer:  
-
-__all righty__  
-__extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
-__articulate__ _v_  
-__red flag__ _n_  
-__pie in the sky__ _idiom_  
 __lift__ _n_  
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __thank-you note__ _n_  

@@ -280,6 +280,7 @@ __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
+__all righty__  
 __all sizzle and no steak__ _idiom_ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
 __all that jazz__ _idiom_ :two: All that stuff; all that nonsense.  
 __all that said,__  
@@ -393,6 +394,7 @@ __anodized__
 __anomic__  
 __anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anorak__ _n_ :two::hammer:  
+__anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ :mute:[ans~~w~~er]  
 __antagonize__ _v_  
@@ -510,7 +512,7 @@ __arrested__ _v_ :astonished: _While others are arrested by discouragement, we a
 __arrowroot__  
 __arson__ _n_  
 __articulate<sup>1</sup>__ _adj_ :three::hammer:  
-__articulate<sup>2</sup>__ _v_ :three::hammer:  
+__articulate<sup>2</sup>__ _v_ :four::hammer:  
 __articulated__ _adj_ _A clearly articulated project._  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
@@ -1375,6 +1377,7 @@ __brace yourself__ _idiom_ Prepare yourself mentally or emotionally for hearing 
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven't been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _Daily bracketology updates._  
+__brackish__ _Brackish water._  
 __braggadocio__  
 __brain drain__  
 __brainchild__ _n_ :two::hammer:  
@@ -2136,6 +2139,7 @@ __chit-chat__ _slang_ An informal conversation about things that are not importa
 __Chiuaua__  
 __chive__ _n_  
 __chivvied__  
+__chlorophyll__ _n_  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
@@ -3760,6 +3764,7 @@ __dysplasia__ _Canine hip dysplasia._
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__  
+__dystrophy__ _n_ :pencil2:  
 __e-blasts__  
 __e-commerce__  
 __e.g.__ Exempli Gratia.  
@@ -4134,6 +4139,7 @@ __expound__ _v_
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government's attempt to expunge dissidents._  
 __exquisite__ _Exquisite acting._  
 __extemporaneous__ _adj_  
+__extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
 __extent__ _To the same extent._  
 __extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
@@ -7179,7 +7185,7 @@ __loudmout__ _He is a loudmout, but there is nothing personal._
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
 __lout__ _n_ :two::hammer: _Syn_ oaf  
-__louver__ _n_ :three::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._  
+__louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
@@ -8071,7 +8077,7 @@ __nuder__ _Officers found a small sliver handgun nuder the passenger seat._
 __nugget__ (nuggets) :two::hammer:  
 __nuisance__  
 __nuke__ _v_ _slang_ To heat or cook something in a microwave oven.  
-__nullify__ _v_ :three::hammer: (nullified)  
+__nullify__ _v_ :four::hammer: (nullified)  
 __numb__ :two::mute:[num~~b~~]:hammer:  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are numbered as Vizier._  
@@ -8807,7 +8813,7 @@ __pictogram__
 __picture-perfect__ _The picture-perfect porch._  
 __piddle__ _v_  
 __piddling__ _He had killed several hours with footless piddling._  
-__pie in the sky__ :two::hammer:  
+__pie in the sky__ _idiom_ :three::hammer:  
 __piece of work__ _idiom_ :three: A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._ _You're a piece of work, Bertrand._  
 __piece__ _n_ _A piece of cake._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
@@ -8904,6 +8910,7 @@ __pith-helmeted__
 __pithy__ _adj_ :four: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
 __pitiful__ :two::hammer:  
 __pitmaster__  
+__Pitot tube__ _n_ A device, essentially a tube set parallel to the direction of fluid-stream movement and attached to a manometer, used to measure the total pressure of the fluid stream.  
 __pittance__ _n_ :two::hammer:  
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
 __pivot<sup>1</sup>__ _n_ :two::hammer:  
@@ -8972,7 +8979,7 @@ __playpen__ _A portable paypen._
 __playthings__ _n_  
 __playwright__ _n_ :three::hammer:  
 __plea deal__  
-__plea__ _n_ :four::hammer: _A prayerful plea to brek free of alcohol._  
+__plea__ _n_ :five::hammer: _A prayerful plea to break free of alcohol._  
 __plead out__  
 __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ (Use it at the end of a request/question.)  
@@ -9499,7 +9506,7 @@ __quarrelsome__
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
-__quash__ _v_ :nine::hammer: (quashed) _To quash her subpoena._  
+__quash__ _v_ :nine::m::hammer: (quashed) _To quash her subpoena._  
 __quavered__  
 __quavering__  
 __quay__ _n_  
@@ -9711,7 +9718,9 @@ __read into something__
 __read it and weep__ _idiom_  
 __readily__ _adv_ :six::hammer:  
 __readiness__ _Our career readiness software program._  
+__readings__ _n_  
 __readout__ _n_  
+__ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
 __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
@@ -9764,7 +9773,7 @@ __rector__
 __recuse__ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red eye__  
-__red flag__ _Red flag day._  
+__red flag__ _n_ :two: Something that irritates or demands immediate action. _Red flag day._  
 __red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red rover__ _n_  
@@ -10388,7 +10397,7 @@ __schleps__ _v_ _He schleps to the House gym in workout clothes._
 __schlocky__  
 __schmooze__  
 __schmoozed__ _v_ :two::hammer: (schmoozing)  
-__schmuck__  
+__schmuck__ _n_ _slang_ :two: (schmucks) A clumsy or stupid person; an oaf.  
 __schnapps__  
 __scholar__ :two::hammer: _Legal scholar._  
 __school > charter school__  
@@ -10878,6 +10887,7 @@ __sill__ :two::hammer:
 __silly boy__  
 __Silly String__ _n_ (silly string) Aerosol string.  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
+__silt__ _n_  
 __silver lining__ (See "every cloud has a silver lining.")  
 __silver screen__  
 __Silver State__ Nevada.  
@@ -12920,7 +12930,7 @@ __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
 __undermine__ _v_ :seven::hammer: (undermined)  
-__underpin__ _v_ :two::hammer:  
+__underpin__ _v_ :three::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
 __underrated__ :pencil2:  
@@ -13630,7 +13640,7 @@ __withhold__
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
 __without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
-__withstand__ _v_  
+__withstand__ _v_ :two::hammer:  
 __wizened__ _adj_ :four: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
