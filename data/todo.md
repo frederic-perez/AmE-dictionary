@@ -1,5 +1,16 @@
 
 
+__baffles__ _n_ _Double-wall louver baffles._  
+__turnaround__  
+__windshear__ _n_ :two::hammer:  
+__stakeholder__  
+__adiabatic__ _adj_ :three::hammer:  
+__Teflon__ _n_ :two::hammer:  
+__first in class__  
+__vanes__ _n_ :three::hammer: _Wind vanes._ _Propeller vane._  
+__temperate__ _A temperate climate._  
+__tasked__ _v_ :two::hammer:  
+
 __lift__ _n_  
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __thank-you note__ _n_  
