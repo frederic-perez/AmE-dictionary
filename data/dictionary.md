@@ -159,6 +159,7 @@ __adenoidal__
 __ADHD__ _abbr_ Attention deficit hyperactivity disorder.  
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
+__adiabatic__ _adj_ :three::hammer:  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
 __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
 __adjudicator__  
@@ -720,6 +721,7 @@ __badly__ _adv_ :three::hammer: _When done badly it's very painful._ _She wants 
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :five::hammer: _Baffled children._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
+__baffles__ _n_ _Double-wall louver baffles._  
 __baffling__ _Baffling season._  
 __bag of tricks__ _idiom_ All the clever methods by which someone achieves something.  
 __bag out__ _v_ _Why'd you bag out on me?_  
@@ -2635,6 +2637,7 @@ __coracle__ :two::hammer: (coracles)
 __cord blood__  
 __cord__ _n_ :camera:  
 __cordite__ _n_  
+__cordon sanitaire__ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  
 __cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
 __corduroy pants__  
@@ -4241,6 +4244,7 @@ __fang__ _n_ :pencil2::three::hammer: (fangs)
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
 __fantastic__ _adj_ :three::hammer::mega:  
+__fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
@@ -4439,7 +4443,7 @@ __firehouse__ _n_ :two::hammer:
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __first and foremost__ :two::hammer:  
 __first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
-__first-in-class__ First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
+__first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
@@ -5566,6 +5570,7 @@ __hands-free__ (Especially of a telephone) Designed to be operated without using
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
 __handsome__ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one's hands, especially inappropriately.  
+__handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __handyman__ _n_ :three::hammer:  
 __hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
@@ -5673,6 +5678,7 @@ __have a heart of gold__ _idiom_ To be very kind and generous.
 __have a look-see__ _idiom_ :dart: To have a very quick look or brief examination.  
 __have a mountain to climb__ _idiom_ To have an extremely difficult, seemingly impossible task at hand.  
 __have a say (in something)__ _idiom_ To have an active and participatory role in making or influencing a decision about something.  
+__have a sneaking suspicion__ _idiom_ To have a slight but persistent premonition or intuition (about something).  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
@@ -7022,7 +7028,7 @@ __lifeblood__ _n_ :two: The blood, as being necessary to life.
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
-__lift__ _n_ _I could give you a lift home._  
+__lift__ _n_ :two::hammer: _I could give you a lift home._  
 __liftgate__  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ :mute:[li~~gh~~t]  
@@ -8809,6 +8815,7 @@ __picklock__ _v_
 __pickoff__ _A pickoff throw to first base._  
 __pickup__  
 __picky__ _adj_ :two::hammer:  
+__picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __pictogram__  
 __picture-perfect__ _The picture-perfect porch._  
 __piddle__ _v_  
@@ -8845,6 +8852,7 @@ __pillbox__ _A plum-colored pillbox hat._
 __pillory__ _n_  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
+__pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
 __pimple__ _n_ :two::hammer: _Pop the pimples._  
 __pin-curled__  
 __pin-drop silence__  
@@ -11539,7 +11547,7 @@ __staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms.
 __stair climbing__ The climbing of a flight of stairs.  
 __stairwell__ _n_:three::camera::hammer:  
 __stake__ _n_  
-__stakeholder__  
+__stakeholder__ _n_ :two::hammer:  
 __stakeouts__ :two::hammer:  
 __stakes__ _n_  
 __stale antiperspirant__  
@@ -12174,7 +12182,7 @@ __tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._
 __tartar__ _n_  
 __tarts__ _n_ (whore)  
 __Taser__ _A Taser stun gun._  
-__task__ _v_ :two::hammer: (tasked) _They have been tasked._  
+__task__ _v_ :four::hammer: (tasked) _They have been tasked._  
 __tassel__ _n_  
 __tasseled__ _v_ :five::hammer: _Tasseled loafers._  
 __tassels__ _A thong with tassels._  
@@ -12223,7 +12231,7 @@ __teeter__ _v_ :nine: (teeters, teetering) __1__ To walk or move unsteadily or u
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
-__Teflon__ _n_ :mega:  
+__Teflon__ _n_ :three::mega::hammer:  
 __tektite__ _n_ :pencil2:  
 __telegenic__  
 __telekinesis__ _n_ :mega:  
@@ -12242,6 +12250,7 @@ __temper__ _v_ :five::hammer: (tempered)
 __tempera__ _n_  
 __temperament__  
 __temperance__  
+__temperate__ _A temperate climate._  
 __tempering__ _adj_ _A tempering experience_  
 __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempestuous__  
@@ -12287,6 +12296,7 @@ __textrovert__
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
 __thane__ _v_  
 __thang__  
+__thank-you note__ _n_  
 __thankless__ Ungrateful  
 __Thanksgiving Day__ _n_  
 __that being said__  
@@ -12818,7 +12828,7 @@ __turn away__ To refuse to let someone come into a place.
 __turn on__ _phr v_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
 __turn-key__ _adj_ :five: A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
-__turnaround__ _n_  
+__turnaround__ _n_ :two::hammer:  
 __turndown__ _n_ The act of refusing an offer.  
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
 __turnip greens__  
@@ -13049,6 +13059,7 @@ __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and rep
 __uplifting__ _adj_  
 __upmarket__  
 __upped__ _v_  
+__upper crust__ _n_ _informal_ The highest social class or group.  
 __upper__ _n_ (uppers)  
 __uppercut__  
 __uppermost__  
@@ -13127,7 +13138,7 @@ __vamping__ :two::hammer:
 __vampire squid__  
 __vandalize__ _v_  
 __vandals__  
-__vane__ _n_ :six::hammer: _A smooth metal weather vane._ _Wind vane._  
+__vane__ _n_ :nine::hammer: (vanes) _A smooth metal weather vane._ _Wind vane._ _Wind vanes._ _Propeller vane._  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
@@ -13587,7 +13598,7 @@ __windlass__
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  
 __window__ _Hail is tracked over a one-hour window._  
-__windshear__ _Windshear phenomena have caused more than 1,400 deaths in aviation._  
+__windshear__ _n_ :three::hammer: _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
 __windstorm__  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
