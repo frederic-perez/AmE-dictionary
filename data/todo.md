@@ -1,27 +1,5 @@
 
 
-__draw__ _v_ _The large dataset is helping to draw global comparisons._  
-__smog__ _n_  
-__forecast__ _v_ (forecast or forecasted, forecasting, forecasts)  
-__onset__ _n_  
-__hands-on__ _adj_ _A hands-on implementation strategy._  
-__sinergy__ _n_ (sinergies)  
-__utmost__  
-__wind siting__ :two::pencil2:  
-__tender__ _n_ _The company won the tender._  
-__corrosion__  
-
-__piggy-back__  
-__accreted__ :two::hammer:  
-__cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
-__synoptical__  
-__outperform__ _v_  
-__shortfall__  
-__hedge__ _v_  
-__accretion__ _n_ _Ice accretion._  
-__turnkey__  
-__subfreezing__ _Subfreezing temperature._  
-
 __worst nightmare__ _n_ The thing someone fears most.  
 __like shooting fish in a barrel__  
 __subpoena__ _v_ :mega:  

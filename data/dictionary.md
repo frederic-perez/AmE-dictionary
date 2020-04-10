@@ -103,8 +103,8 @@ __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democrati
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
 __accoutrement__ _n_ :two::hammer: (accouterment)  
-__accrete__ _v_ :four: (accretes) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
-__accretion__  
+__accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
+__accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
 __acetate__ _n_  
@@ -2345,6 +2345,7 @@ __cobble__ _v_ :two::hammer: (cobbled)
 __cobbler__ _n_  
 __cobweb__ _n_ :five::hammer: (cobwebs)  
 __cockerel__  
+__cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon__ _n_  
 __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
 __coddled__ _v_ :three::hammer: _A coddled creature._  
@@ -2660,6 +2661,7 @@ __corralled__ _v_ :three::hammer: (corralling)
 __corrective__ _Preventive and corrective maintenance._  
 __correspondent__ _Our journalists are not experienced war correspondents._  
 __corridor__ _n_ :three::hammer: :es: puente aéreo  
+__corrosion__  
 __corrugate__ _v_  
 __corrugated__  
 __corsages__  
@@ -3615,7 +3617,7 @@ __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)
 __draw a blank__ _idiom_  
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
-__draw<sup>2</sup>__ _v_ :two::hammer: _I'll draw some blood to be sure._ _We win, lose and draw together._  
+__draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I'll draw some blood to be sure._ _We win, lose and draw together._  
 __drawbridge__  
 __drawingrooms__  
 __drawl<sup>1</sup>__ _v_ :two::hammer: (drawled)  
@@ -4693,6 +4695,7 @@ __forcible__ _adj_ :three::hammer:
 __fore and aft__  
 __fore__ _n_ :four::hammer:  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
+__forecast__ _v_ (forecast or forecasted, forecasting, forecasts)  
 __foreclose__ _v_  
 __foreclosure__ _n_ :two::hammer:  
 __forefathers__  
@@ -5568,6 +5571,7 @@ __hands off__ _The Department of Justice has been hands off about enforcement._
 __hands on__  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
+__hands-on__ _adj_ _A hands-on implementation strategy._  
 __handsome__ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one's hands, especially inappropriately.  
 __handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
@@ -5768,7 +5772,7 @@ __hectic__ _adj_ :five::hammer:
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
-__hedge<sup>2</sup>__ _v_ :three::hammer: (hedging)  
+__hedge<sup>2</sup>__ _v_ :four::hammer: (hedging)  
 __hedonic__  
 __Hedonism__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
@@ -8251,7 +8255,7 @@ __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
-__onset__ _n_ :five::hammer: _Early onset dementia._  
+__onset__ _n_ :six::hammer: _Early onset dementia._  
 __onslaught__ :two::hammer:  
 __onus__ _n_ :five::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
@@ -8361,6 +8365,7 @@ __outnumber__ _v_
 __outpace__ _v_  
 __outpacing__ :two::hammer:  
 __outpatient__ _n_ :three::hammer:  
+__outperform__ _v_  
 __outplayed__ _v_  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
@@ -8833,6 +8838,7 @@ __pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
 __piggish__  
+__piggy-back__  
 __pigheaded__ _adj_ Obstinate.  
 __pigs in a blanket__ (food?) :camera:  
 __pigtail__ _n_ :two::hammer: (pigtails)  
@@ -10783,7 +10789,7 @@ __short-lived__
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_  
-__shortfall__ _n_ :two::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
+__shortfall__ _n_ :three::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
 __shorthand__ :two::hammer:  
 __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
@@ -10913,6 +10919,7 @@ __Sinai__ _n_ (Mount Sinai) :mega:
 __since forever__  
 __sine die__  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
+__sinergy__ _n_ (sinergies)  
 __sinew__ _n_ :seven::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
 __sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where participants are encouraged to add their voices in song. _That's the best sing along we've ever had._  
@@ -11152,7 +11159,7 @@ __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by s
 __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
-__smog__ :two::hammer:  
+__smog__ _n_ :three::hammer:  
 __smoke__ _v_ _This person smokes me._  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_ :eight: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
@@ -11866,6 +11873,7 @@ __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ (car?)  
 __subdue__ _v_ :five::hammer: (subdued)  
+__subfreezing__ _Subfreezing temperature._  
 __subjugate__ _v_  
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
@@ -12057,6 +12065,7 @@ __syndicated__ :two::hammer:
 __syndrome__ _n_  
 __synesthesia__ _n_  
 __synoptic__ _adj_ :two::hammer: _Synoptic representations of wind._  
+__synoptical__  
 __syphilis__ _n_ :pencil2:  
 __syringe__  
 __syrupy__  
@@ -12260,7 +12269,8 @@ __tenable__ _adj_
 __tenacious__ _adj_  
 __tenant__ _n_ :two::hammer: (tenants)  
 __tench__ _n_  
-__tenderizze__ _v_  
+__tender__ _n_ _The company won the tender._  
+__tenderize__ _v_ To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
 __tendinitis__  
 __tendrils__ _n_  
 __tenements__ _Kids from the tenements._  
@@ -12833,7 +12843,7 @@ __turndown__ _n_ The act of refusing an offer.
 __turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
-__turnkey__ :two::hammer: _Turnkey property._  
+__turnkey__ _adj_ :three::hammer: _Turnkey property._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :four: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
@@ -13103,7 +13113,7 @@ __utilitarian__
 __utility room__  
 __utility<sup>1</sup>__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
-__utmost__ _adj_ :three::hammer:  
+__utmost__ _adj_ :four::hammer:  
 __utterance__  
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
