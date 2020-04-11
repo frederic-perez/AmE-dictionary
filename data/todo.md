@@ -1,5 +1,16 @@
 
 
+__commission__ _v_  
+__runaway__  
+__spurred__ _adj_ _Spurred flowers._  
+__relayed__ _v_  
+__subsidiary__  
+__nod__ _n_  
+__for all intents and purposes__ _adv_ In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
+__spurred__ _v_  
+__kurtosis__ _n_  
+__dendrites__ _n_  
+
 __chatterbox__ _n informal_ A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one's sleeve.  
 __spiteful__ _adj_ Showing malicious ill will and a desire to hurt; motivated by spite. _Syn_ vindictive  
