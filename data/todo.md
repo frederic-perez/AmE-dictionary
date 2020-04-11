@@ -1,5 +1,14 @@
 
 
+__have its/(one's) day__ _idiom_ To be at the height of or experience success or prosperity.  
+__berserk__ _adj_ Frenzied, crazed — usually used in the phrase go berserk.  
+__have it out (with someone)__ _idiom_ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
+__maverick__ _n_ An independent individual who does not go along with a group or party.  
+__fain__ _adv_ In a willing manner. _I would fain do it._ 
+__cocoon__ _v_ To wrap or envelop in or as if in a cocoon.  
+__catchy__ _adj_ Having concealed difficulty. _Syn_ tricky _Despite Ms. Brown's assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._  
+__have it easy__ _idiom_ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
+
 __commission__ _v_  
 __runaway__  
 __spurred__ _adj_ _Spurred flowers._  
