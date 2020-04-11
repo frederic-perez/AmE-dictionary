@@ -1554,7 +1554,7 @@ __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
-__bug__ _v informal_ :seven: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
+__bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __bugbear__ _n_ __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __buggers__  
@@ -1582,7 +1582,7 @@ __bully__
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
-__bumble__ _v_ :eight: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
+__bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bummer__ _n_ _slang_ :two: A disappointing or unpleasant situation or experience.  
 __bumper cars__ _n_ :two::hammer:  
@@ -2104,7 +2104,7 @@ __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics
 __chicken pox__  
 __chicken run__  
 __chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious and yummy._  
-__chicken wire__  
+__chicken wire__ _n_ :two::hammer:  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chicklit__ _A chicklit satire._  
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
@@ -2183,7 +2183,7 @@ __cigar__ _n_ :mega:
 __cigarette stub__ _n_ Another name for a cigarette butt.  
 __cigarillos__ :pencil2::camera::two::hammer:  
 __ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
-__cinch__ _n_ :two::hammer:  
+__cinch__ _n_ _slang_ :three: An easy task. _After the charade, he was a cinch._  
 __Cincy__ Cincinnati?  
 __cinder__  
 __cinder-block town__  
@@ -2829,7 +2829,7 @@ __crone__ _n_ :three: A witchlike old woman.
 __cronies__ _n_ :four::hammer: _Military cronies._  
 __crony__ _n_ :three::hammer:  
 __cronyism__ _n_ :dart::six: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
-__crook__ _n_ :two::hammer: (crooks) _They carried long crooks._  
+__crook__ _n_ :three::hammer: (crooks) _They carried long crooks._  
 __crooked__ :two::hammer: _Crooked media._  
 __crop-duster__ _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
@@ -4040,6 +4040,7 @@ __ergomania__ _n_ An excessive desire to work or exercise.
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
+__ersatz__ _adj_  
 __erstwhile__ :two::hammer:  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
@@ -4561,7 +4562,7 @@ __flippant__ _adj_ :three::hammer:
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__ :two::hammer:  
-__flitter__ _v_ :two: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
+__flitter__ _v_ :three: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
 __flitty__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
 __float<sup>2</sup>__ _v_ :three::hammer:  
@@ -5193,6 +5194,7 @@ __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or s
 __go to the dogs__  
 __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
 __go to the wire__  
+__go to war__  
 __go under the hammer__ _idiom_ :two: To be put up for or sold at auction.  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-ahead goal__  
@@ -5259,6 +5261,7 @@ __googol__ _n_
 __googolplex__ _n_  
 __gooks__ _n_  
 __goomey__  
+__goop__ _n_  
 __goose chase__ _A global goose chase._  
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
 __GOP__  
@@ -5686,6 +5689,7 @@ __have a sneaking suspicion__ _idiom_ To have a slight but persistent premonitio
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
+__have had (one's) chips__ _idiom_ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
 __have hot pants (for someone)__ _idiom_  
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have someone pegged__ _She had me pegged on that, too._  
@@ -6223,6 +6227,7 @@ __improvidence__
 __improvident__ _adj_  
 __impunity__  
 __in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
+__in a jam__ _idiom_ In a troublesome situation.  
 __in a nutshell__  
 __in abeyance__  
 __in all likelihood__  
@@ -7046,6 +7051,7 @@ __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is
 __lightning__ _n_  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
 __like hell__  
+__like shooting fish in a barrel__  
 __like two peas in a pod__ _idiom_ Very similar.  
 __like water off a duck's back__ _idiom_ Without any apparent effect.  
 __likelier__  
@@ -9147,6 +9153,7 @@ __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A p
 __potatoes__ :pencil2:  
 __potent__ _adj_  
 __potentiometer__ _n_  
+__pothead__  
 __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface.  
 __potholed__ _The island's potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
@@ -9382,7 +9389,7 @@ __puckering__ _A flat, mouth-puckering taste._
 __pud__ _n_ :five::hammer:  
 __pudenda__ _n_  
 __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.  
-__pudgy__ _A pudgy boy._  
+__pudgy__ _adj_ :two::hammer: _A pudgy boy._  
 __puds__ _n_  
 __puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
 __puff<sup>2</sup>__ _v_ :four::hammer: (puffed) _I could hear the screen door puffing open._  
@@ -10239,6 +10246,7 @@ __runs from (date) to (date)__ _The 45-day review period runs from November 16, 
 __runs me off__  
 __runt__  
 __runway__  
+__Runyonesque__ _adj_  
 __ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :five::hammer: (ruses)  
 __rustle up__ _v_  
@@ -11880,7 +11888,7 @@ __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?
 __sublimate__ _v_  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
-__subpoena<sup>2</sup>__ _v_ :two: (subpoenaed)  
+__subpoena<sup>2</sup>__ _v_ :three::mega: (subpoenaed)  
 __subsea__ _n_  
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
@@ -12936,6 +12944,7 @@ __uncrating__
 __unction__ _n_  
 __unctuous__ :two::hammer:  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
+__under (one's) breath__ _idiom_ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
 __under (someone's) watch__  
 __under one's belt__  
 __under siege__  
@@ -13368,6 +13377,7 @@ __wasabi__ _n_
 __wash out__ _phr v_ To wash the inside of something.  
 __wash up__ _phr v_ To wash your hands and face.  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
+__washed-out__ _adj_ Having lost freshness or brilliance of color. _Syn_ leached, faded  
 __washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
 __washing line__ _n_  
 __Washingtonians__  
@@ -13715,6 +13725,7 @@ __wormhole__ _n_ :two::hammer:
 __worrisome__ _adj_ :four::hammer:  
 __worrywarts__  
 __worshiper__  
+__worst nightmare__ _n_ The thing someone fears most.  
 __wort__  
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, effort, or interest.  
 __would__ :mute:[wou~~l~~d]  
