@@ -1,5 +1,16 @@
 
 
+__squall__  
+__downpour__  
+__stakeholder__  
+__irrigate__ _v_ :dart:  
+__airborne__ _Airborne and shipborne measured platforms._  
+__shipborne__ _Airborne and shipborne measured platforms._  
+__go to great lengths__ _idiom_  
+__outage__ _n_  
+__confluence__ _n_  
+__disruption__  
+
 __spiteful__ _adj_ Showing malicious ill will and a desire to hurt; motivated by spite. _Syn_ vindictive  
 __goodly__ _adj_ Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
 __have a thing for (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
