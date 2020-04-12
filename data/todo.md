@@ -1,4 +1,12 @@
 
+__get (one's) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one's ears.  
+__stockpile<sup>1</sup>__ _n_ A large collection of things that may be needed.  
+__stockpile<sup>2</sup>__ _v_ To collect large amounts of things that may be needed.  
+__pique__ _n_ An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
+__have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
+__umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats. 
+__encumbrance__ _n_ Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
+__cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 
 __squall__  
 __downpour__  
