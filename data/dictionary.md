@@ -1007,7 +1007,7 @@ __bereft<sup>1</sup>__ _adj_ :three::hammer:
 __bereft<sup>2</sup>__ _v_  
 __beret__ :mute:[bere~~t~~]  
 __berm__ _n_  
-__berserk__ _adj_ :seven: __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
+__berserk__ _adj_ :eight: (usually used in the phrase "go berserk") __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
 __beseech__ _v_ :two::hammer: _Syn_ entreat  
@@ -1951,6 +1951,7 @@ __catch-all__ _n_
 __catch-up schedule__  
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
+__catchy__ _adj_ Having concealed difficulty. _Syn_ tricky _Despite Ms. Brown's assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._  
 __catechism__ :two::hammer::pencil2:  
 __cater__ _v_ :three::hammer:  
 __caterwauling__  
@@ -2063,7 +2064,7 @@ __chastened__ :two::hammer:
 __chastize__ _v_  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
-__chatterbox__ _idiom_ :two::dart: A person who talks a lot.  
+__chatterbox__ _n informal_ :three::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __cheapskate__ _n informaly_ :dart: A person who doesn't like to spend money.  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
@@ -2346,7 +2347,8 @@ __cobbler__ _n_
 __cobweb__ _n_ :five::hammer: (cobwebs)  
 __cockerel__  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
-__cocoon__ _n_  
+__cocoon<sup>1</sup>__ _n_  
+__cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
 __coddled__ _v_ :three::hammer: _A coddled creature._  
 __code of silence__ _idiom_ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
@@ -2442,7 +2444,7 @@ __commentary__
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
 __commiserate__ _v_ :three::hammer:  
-__commission<sup>1</sup>__ _v_ :astonished::eight: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
+__commission<sup>1</sup>__ _v_ :astonished::nine: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
@@ -3199,7 +3201,7 @@ __demur__ _v_ (demurred) :four::hammer: (demurred)
 __demure__ _adj_ :two::hammer:  
 __demurely__ _adv_ :three::hammer:  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
-__dendrites__ _n_  
+__dendrites__ _n_ :two::hammer:  
 __dengue fever__  
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
@@ -4202,6 +4204,7 @@ __fad__ _n_
 __faeces__ _n_  
 __fail__ _v_ _I'm trying--and failing--to work out the logic of this._  
 __failover__ _n_  
+__fain__ _adv_ In a willing manner. _I would fain do it._  
 __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
@@ -4670,7 +4673,7 @@ __footing__ _n_ _Last year a student died after losing her footing here._
 __footloose__ :pencil2:  
 __footwork__  
 __for a bit__  
-__for all intent and purposes__  
+__for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for better or worse__  
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
@@ -5686,11 +5689,15 @@ __have a look-see__ _idiom_ :dart: To have a very quick look or brief examinatio
 __have a mountain to climb__ _idiom_ To have an extremely difficult, seemingly impossible task at hand.  
 __have a say (in something)__ _idiom_ To have an active and participatory role in making or influencing a decision about something.  
 __have a sneaking suspicion__ _idiom_ To have a slight but persistent premonition or intuition (about something).  
+__have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one's sleeve.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
 __have had (one's) chips__ _idiom_ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
 __have hot pants (for someone)__ _idiom_  
+__have it easy__ _idiom_ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
+__have it out (with someone)__ _idiom_ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
+__have its/(one's) day__ _idiom_ To be at the height of or experience success or prosperity.  
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have someone's back__  
@@ -6793,6 +6800,7 @@ __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
+__kurtosis__ _n_  
 __kybosh__ _v_  
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone's shape and strength.  
 __L-plate__ _He saw the L-plate on the back of the car._  
@@ -7441,6 +7449,7 @@ __maudlin__ :two::hammer:
 __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling group._  
 __Maundy Thursday__  
 __maven__ _n_ :three::hammer:  
+__maverick__ _n_ An independent individual who does not go along with a group or party.  
 __maw__ _n_ :four::hammer:  
 __mawkish__ Effusively or insincerely emotional.  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
@@ -8026,6 +8035,7 @@ __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
+__nod__ _n_  
 __noddies__ _n_  
 __noggin__ _n informal_ A person's head. _Syn_ bonce, dome  
 __noir__ _A noir novel._  
@@ -9868,6 +9878,7 @@ __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this co
 __relatable__ _adj_ :three::hammer:  
 __relate__ _v_  
 __relay__ _A relay race._  
+__relayed__ _v_  
 __relegation__ _Sports_  
 __relent__ _v_ :three::hammer: (relented)  
 __relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
@@ -10234,7 +10245,7 @@ __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way 
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :four: Ordinary, average.  
-__runaway__ :two::hammer: _Bryant was a runaway winner._  
+__runaway__ :three::hammer: _Bryant was a runaway winner._  
 __runaways__  
 __rundown__ _n_  
 __rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
@@ -11494,8 +11505,9 @@ __spunk__
 __spunky__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
-__spur__ _v_ :five::hammer: (spurred, spurring)  
+__spur__ _v_ :six::hammer: (spurred, spurring)  
 __spurious__ 1590-1600; < Latin _spurius_ bastard __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
+__spurred__ _adj_ _Spurred flowers._  
 __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
 __spurted__ _v_  
@@ -11893,6 +11905,7 @@ __subsea__ _n_
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
+__subsidiary__  
 __subsidy__  
 __substation__  
 __subsumed__ _v_ :two::hammer:  
