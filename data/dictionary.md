@@ -249,7 +249,7 @@ __air cast__ _n_ :two::hammer::camera:
 __air nozzles__ _Try adjusting your air nozzles to full force._  
 __air vent__  
 __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
-__airborne__ _adj_ _An airborne radar._  
+__airborne__ _adj_ :two::hammer: _An airborne radar._ _Airborne and shipborne measured platforms._  
 __airburst__ _n_  
 __aircraft hold__ _n_ :es: bodega (de avión)  
 __airhead__ _n_ _slang_ A stupid person.  
@@ -1726,6 +1726,7 @@ __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flat
 __cache__ :mega: _Sporty cars haven't lost their cache._  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cacoethes__ _n_ An irrational but irresistible motive for a belief or action.  
+__cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _n_ Having an unpleasant sound.  
 __cacophony__ :two::hammer:  
 __cacti__ _n_ :two::hammer:  
@@ -2536,6 +2537,7 @@ __confidence__
 __config__ :mega: _A config file._  
 __conflagration__ _n_  
 __conflate__ _v_  
+__confluence__ _n_  
 __confound__ _v_ :eight::hammer: (confounded, confounding)  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
@@ -3410,6 +3412,7 @@ __disposable__ _adj_ _A disposable lighter._
 __disquiet__  
 __disquisitition__ :pencil2:  
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
+__disruption__  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
 __dissatisfaction__ :two::hammer:  
 __dissatisfied__ _adj_ :pencil2:  
@@ -3584,7 +3587,7 @@ __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. _
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
 __downplay__ _v_ :four::hammer: (downplayed)  
-__downpour__ _n_ :six::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
+__downpour__ _n_ :seven::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::four::hammer: _Not to mention, just downright good looking._ _Downright goofy._  
 __downside__ _n_ :two::hammer: (downsides)  
 __downspout__ _n_  
@@ -3945,7 +3948,7 @@ __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :four::hammer:  
-__encumbrance__  
+__encumbrance__ _n_ :two::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
 __end run__ :two::hammer:  
@@ -5033,6 +5036,7 @@ __German shepherd__ _n_ An Alsatian.
 __Geronimo wire__ :two::hammer:  
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
+__get (one's) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one's ears.  
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 __get a grip__  
@@ -5194,6 +5198,7 @@ __go the way of the dinosaur(s)__ _idiom_ To become extinct, obsolete, old-fashi
 __go through the roof__  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
 __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
+__go to great lengths__ _idiom_  
 __go to the dogs__  
 __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
 __go to the wire__  
@@ -5252,7 +5257,7 @@ __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation 
 __good-natured__ _idiom_ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
 __goodbye, cruel world__ _idiom_ _cliché_ An exclamation, note, or statement made immediately prior to one's death, especially by suicide.  
 __goodliest__ :two::hammer:  
-__goodly__  
+__goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
 __goodness gracious__  
 __goodness me__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __goody two-shoes__ _idiom_ _informal_  
@@ -5676,6 +5681,7 @@ __hauteur__
 __have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one's past.  
 __have (got) (someone's) back__ _idiom_ :two: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
+__have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
@@ -6453,6 +6459,7 @@ __iron trellis__
 __ironclad commitment__  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
+__irrigate__ _v_ :dart:  
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __ischemic__ _adj_  
@@ -8340,6 +8347,7 @@ __out of sorts__ _v-link phr_ :five: __1__ Somewhat ill. __2__ Grouching; irrita
 __out of the blue__  
 __out of the woods__  
 __out of this world__ _idiom_ Extremely good.  
+__outage__ _n_  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
@@ -8918,7 +8926,7 @@ __pipeline__
 __pipeyard__  
 __piping__ :two::camera::hammer: _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
-__pique<sup>1</sup>__ _n_  
+__pique<sup>1</sup>__ _n_ :two: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :eight::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
@@ -10754,6 +10762,7 @@ __shine off__ _Don't try to shine me off, worm man._
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
 __shingle__ _n_ :six::hammer: (shingles) :es: herpes zóster  
+__shipborne__ _Airborne and shipborne measured platforms._  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
@@ -11436,7 +11445,7 @@ __spiny lobsters__ :camera:
 __spiraling__  
 __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __spite__ _n_ :four::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
-__spiteful__ :two::hammer:  
+__spiteful__ _adj_ :three: Showing malicious ill will and a desire to hurt; motivated by spite. _Syn_ vindictive  
 __spitting image__  
 __spittle__ _n_ :five::hammer:  
 __spittoon__  
@@ -11520,7 +11529,7 @@ __squack__
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :four::hammer: _The Olympics squad._  
 __squalid__ _adj_ :four::pencil2::hammer: _Squalid home._  
-__squall__ :two::hammer:  
+__squall__ _n_ :three::hammer:  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander<sup>1</sup>__ _v_ :two::hammer:  
 __squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
@@ -11574,7 +11583,7 @@ __staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms.
 __stair climbing__ The climbing of a flight of stairs.  
 __stairwell__ _n_:three::camera::hammer:  
 __stake__ _n_  
-__stakeholder__ _n_ :two::hammer:  
+__stakeholder__ _n_ :three::hammer:  
 __stakeouts__ :two::hammer:  
 __stakes__ _n_  
 __stale antiperspirant__  
@@ -11746,7 +11755,8 @@ __stock__ _The plastic stock of the rifle._
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
-__stockpile__  
+__stockpile<sup>1</sup>__ _n_ :two: A large collection of things that may be needed.  
+__stockpile<sup>2</sup>__ _v_ To collect large amounts of things that may be needed.  
 __stodgiest__  
 __stodgy__ _The mainstream may sound too stodgy._  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
@@ -12935,6 +12945,7 @@ __ultimately__
 __ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
 __um__  
+__umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
 __umpteen__  
 __umpteenth__ :two::hammer:  
 __un-American__  
