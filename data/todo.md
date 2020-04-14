@@ -1,27 +1,5 @@
 
 
-__swindler__ _n_  
-__verve__ _n_  
-__mugger__ _n_ _informal_ A person who commits robbery with violence, esp in the street.  
-__easy chair__ _n_ A large, comfortable, upholstered chair.  
-__fleece__ _v_ __1__ To defraud of money or property; swindle.  
-__connive__ _v_  
-__wit__ _n_  
-__puff__ _v_  
-__heady__ _adj_  
-__vagrant__ _adj_  
-
-__have a thing for (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
-__green-eyed__ _adj_ Jealous.  
-
-__outage__ _Power outages._  
-__blackout__ _n_  
-__walloped__ _v_  
-__fava beans__  
-__agronomy__ _n_  
-__bale__ _v_  
-__unconvinced__  
-__foolproof__  
 __hectare__ _n_  
 __hardier__  
 

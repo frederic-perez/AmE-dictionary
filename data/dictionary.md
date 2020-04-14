@@ -228,6 +228,7 @@ __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
+__agronomy__ _n_  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __ague__ _n_ :two::hammer: (agues)  
 __ah__  
@@ -738,7 +739,8 @@ __baker's dozen__
 __bakeware__ _n_ (Cookery) Dishes and other cooking utensils used for baking.  
 __baking soda__ _n_ Sodium bicarbonate.  
 __balderdash__  
-__bale__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
+__bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
+__bale<sup>2</sup>__ _v_  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :reminder_ribbon: balky donkey _He was trying to get his balky donkey to move._  
@@ -1115,7 +1117,7 @@ __blackhead__ _n_ :five::hammer: (blackheads)
 __blackjack__ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
 __blacklist<sup>2</sup>__ _v_  
-__blackout__ _Blackout dates._  
+__blackout__ _n_ :two::hammer: _Blackout dates._  
 __blackpool__  
 __blah story__  
 __blanched__ _v_  
@@ -2548,7 +2550,7 @@ __conjunction__
 __conjure__ _v_ :three::hammer: _Syn_ beg  
 __conman__  
 __connivance__ _n_ :two: Agreement on a secret plot.  
-__connive__ _v_ :four::hammer: (connived, conniving)  
+__connive__ _v_ :five::hammer: (connived, conniving)  
 __consciousness__ _n_  
 __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__  
@@ -3801,6 +3803,7 @@ __easier said than done__ Said of a task that is easier to talk about than to do
 __easing__  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __easy as can be__  
+__easy chair__ _n_ A large, comfortable, upholstered chair.  
 __easy-to-use__ _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :three::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
@@ -4294,6 +4297,7 @@ __faulty__ _adj_ :two::hammer::dart: _Faulty software._
 __fauna__ _n_  
 __Faustian__ _Faustian device._  
 __faux__ _Three faux tombstones._  
+__fava beans__  
 __fave__  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
@@ -4537,7 +4541,7 @@ __fleck__ _n_
 __flecked__ _v_ _Floor flecked with blood._  
 __fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
-__fleece__ _v_ :four::hammer: (fleeced)  
+__fleece__ _v_ :five::dart: (fleeced) __1__ To defraud of money or property; swindle.  
 __fleecy__  
 __fleeting__  
 __fleetingly__  
@@ -4664,7 +4668,7 @@ __fool<sup>1</sup>__ _n_
 __fool<sup>2</sup>__ _v_ _Don't fool yourself--that's phony bullshit._  
 __fool<sup>3</sup>__ _adj_ _informal_  
 __foolhardy__ :two::hammer:  
-__foolproof__ _adj_ :two: Unable to fail. _A foolproof method._  
+__foolproof__ _adj_ :three: Unable to fail. _A foolproof method._  
 __Foosball__  
 __foosball__ :two::hammer: _Foosball table._  
 __foot__ _v_ :two::hammer:  
@@ -5351,6 +5355,7 @@ __green day__ :two::hammer:
 __green thumb__ _Not everyone has a green thumb._  
 __green with envy__ _idiom_ Very jealous.  
 __green-behimd-the-ears__  
+__green-eyed__ _adj_ Jealous.  
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
 __greener pastures__ _idiom_ :two: A better or more exciting job or place.  
 __greenhorn__  
@@ -5695,6 +5700,7 @@ __have a look-see__ _idiom_ :dart: To have a very quick look or brief examinatio
 __have a mountain to climb__ _idiom_ To have an extremely difficult, seemingly impossible task at hand.  
 __have a say (in something)__ _idiom_ To have an active and participatory role in making or influencing a decision about something.  
 __have a sneaking suspicion__ _idiom_ To have a slight but persistent premonition or intuition (about something).  
+__have a thing for (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
 __have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one's sleeve.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
@@ -5748,7 +5754,7 @@ __headstone__ _n_ :three::hammer:
 __headstrong__ _adj_  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
-__heady__ :two::hammer:  
+__heady__ _adj_ :three::hammer:  
 __health condition__  
 __hear a pin drop, one/you could__ _idiom_ :two: Complete silence.  
 __hearing__ _law_  
@@ -7819,7 +7825,7 @@ __muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)
 __muffler__ _n_ :two::hammer: _Syn_ silencer  
 __mug<sup>1</sup>__ _n_ _informal_ The human face.  
 __mug<sup>2</sup>__ _v_ :two::hammer: (mugged, mugging)  
-__mugger__ _n_ :two::hammer: (muggers)  
+__mugger__ _n_ _informal_ :three: (muggers) A person who commits robbery with violence, esp in the street.  
 __muggles__ _n_ :two::hammer:  
 __muggy__ :two::hammer: _The weather was muggy._  
 __mulberry__ _n_ :three::hammer: (mulberries)  
@@ -8347,7 +8353,7 @@ __out of sorts__ _v-link phr_ :five: __1__ Somewhat ill. __2__ Grouching; irrita
 __out of the blue__  
 __out of the woods__  
 __out of this world__ _idiom_ Extremely good.  
-__outage__ _n_  
+__outage__ _n_ :two::hammer: _Power outages._  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
@@ -9410,7 +9416,7 @@ __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.
 __pudgy__ _adj_ :two::hammer: _A pudgy boy._  
 __puds__ _n_  
 __puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
-__puff<sup>2</sup>__ _v_ :four::hammer: (puffed) _I could hear the screen door puffing open._  
+__puff<sup>2</sup>__ _v_ :five::hammer: (puffed) _I could hear the screen door puffing open._  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pug__  
@@ -12070,7 +12076,7 @@ __swimabout__
 __swimming hole__ :two::hammer:  
 __swindle<sup>1</sup>__ _n_ :two::hammer:  
 __swindle<sup>2</sup>__ _v_ :three::hammer:  
-__swindler__ _n_ :three::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
+__swindler__ _n_ :four::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
 __swipe<sup>1</sup>__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swipe<sup>2</sup>__ _v_ Swipe is a comics term for the intentional copying of a cover, panel, or page from an earlier comic book or graphic novel without crediting the original artist.  
@@ -12963,6 +12969,7 @@ __uncanny valley__ _idiom_ :three::hammer:
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
+__unconvinced__  
 __uncouth__ _adj_ :two::hammer:  
 __uncrating__  
 __unction__ _n_  
@@ -13165,7 +13172,7 @@ __vagabond__ _n_
 __vagaries__ _n_  
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
-__vagrant<sup>2</sup>__ _adj_  
+__vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ :mute:[vag~~u~~e]  
 __vainglorious__ _adj_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
@@ -13244,7 +13251,7 @@ __vermouth__ _n_
 __vernacular__ _n_ :four::hammer:  
 __versatile__ _adj_ :two::hammer.  
 __vertical farm__  
-__verve__ _n_ :four::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__ _n_ :five::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _We were in this very room._  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
@@ -13371,7 +13378,7 @@ __wall__ _n_ :es: I'd put them up against a wall and shoot them. _Yo los llevar�
 __wall-eyed__  
 __wallboard__  
 __wallflower__  
-__wallop__ _v_ :three: Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
+__wallop__ _v_ :four: (walloped) Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
@@ -13682,7 +13689,7 @@ __wisteria__ :two::hammer:
 __wistful__ _adj_ :three::hammer:  
 __wistfully__ :two::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
-__wit__ _n_ :two::hammer: _He had regained his wits._ _He was at wit's end._  
+__wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
