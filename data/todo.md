@@ -1,5 +1,16 @@
 
 
+__go strong__ _idiom_ To proceed energetically or successfully.  
+__hoodlum__ _n_  
+__bellow__ _v_  
+__rueful__ _adj_ :dart:  
+__swank__ _v_ :astonished:  
+__rudiment__ _n_  
+__accoutrements__ _n_  
+__Congressmen__ _n_  
+__subpoena__ _v_  
+__skewer__ _v_  
+
 __hectare__ _n_  
 __hardier__  
 
