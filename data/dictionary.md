@@ -102,7 +102,7 @@ __account for__ _phr v_ To explain.
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ :es: contable  
 __accounts__ _n_ _By some accounts._  
-__accoutrement__ _n_ :two::hammer: (accouterment)  
+__accoutrement__ _n_ :three::hammer: (accouterment, accoutrements)  
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
@@ -973,8 +973,7 @@ __bellboy__ _n_
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
-__bellow__  
-__bellowed__ _v_ :two::hammer:  
+__bellow__ _v_ :three::hammer: (bellowed)  
 __bellowing__ _n_  
 __bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
@@ -2370,7 +2369,7 @@ __cohesive__ :dart::two::hammer: _A more cohesive layout._
 __cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __coif__ _Strange coif._  
 __coiffed__  
-__coil__  
+__coil__ _v_ :two::hammer:  
 __coin purse__  
 __coin__ _v_ :three::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._  
 __coincided__ _v_  
@@ -2545,6 +2544,7 @@ __congenial__ _adj_ :three::hammer:
 __conglomerate__  
 __conglomerates__  
 __congrats__ _Congrats on your wedding._  
+__Congressmen__ _n_  
 __conjecture__  
 __conjunction__  
 __conjure__ _v_ :three::hammer: _Syn_ beg  
@@ -3062,7 +3062,7 @@ __Day Zero__
 __daybeds__ _n_  
 __dayglow__  
 __dazzle__ _v_ :two::hammer:  
-__dazzling__ _adj_ :nine: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
+__dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de-escalate__ _v_  
 __DEA__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
@@ -3083,7 +3083,7 @@ __deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._
 __dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
-__dearth__ _n_ :dart::three::hammer:  
+__dearth__ _n_ :four::dart::hammer:  
 __deathless__  
 __debacle__ :two::hammer:  
 __debasing__ _v_  
@@ -4550,7 +4550,7 @@ __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
 __flick knife__ _n_  
 __flick<sup>1</sup>__ _n_ _slang_ As slang for "film," it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
-__flick<sup>2</sup>__ _v_ One room has burn marks on the floor where Ruth flicked cigar ashes.  
+__flick<sup>2</sup>__ _v_ :two::hammer: _One room has burn marks on the floor where Ruth flicked cigar ashes._ _It flicks charged particles into Earth's magnetic field._  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
 __flight__ _n_ :dart::four::mute:[fli~~gh~~t] A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._  
@@ -4558,7 +4558,7 @@ __flimflam__ _n_ :dart::two::hammer:
 __flimsy__ _adj_ :two::hammer:  
 __flinch<sup>1</sup>__ _n_  
 __flinch<sup>2</sup>__ _v_ :five: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
-__fling__ _v_ :six::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__fling__ _v_ :seven::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
@@ -5197,7 +5197,7 @@ __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or lenient
 __go soft__ _idiom_ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
 __go stir-crazy__ _idiom_ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. "Stir" in this usage is a slang word for prison.  
-__go strong__ _It is still going strong._  
+__go strong__ _idiom_ :two: To proceed energetically or successfully. _It is still going strong._  
 __go the way of the dinosaur(s)__ _idiom_ To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go through the roof__  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
@@ -5631,6 +5631,7 @@ __hard-liners__ :two::hammer:
 __hard-nose__  
 __hard-nosed__ :two::hammer: _Hard-nosed approach._  
 __hardball__  
+__hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
 __hardline__ :two::hammer: _The US hardline policy on illegal immigration._  
 __hardliner__  
@@ -5791,6 +5792,7 @@ __heck__ _He's doing a heck of a job._
 __heckled__ _v_  
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
+__hectare__ _n_  
 __hectic__ _adj_ :five::hammer:  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
@@ -6008,7 +6010,7 @@ __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturban
 __hooch__ :two::hammer: _Take it easy on the hooch._  
 __hood fan__  
 __hood__ _n_ _slang_ :three: Criminal, a member of a criminal gang.  
-__hoodlum__ _n_ _slang_ :three: (hoodlums) A criminal or gangster.  
+__hoodlum__ _n_ _slang_ :four: (hoodlums) A criminal or gangster.  
 __hoods__ _n_  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
@@ -10230,8 +10232,9 @@ __rudder__ (airplane)
 __rudderless__  
 __ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
+__rudiment__ _n_  
 __rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
-__rueful__ _adj_ :two::hammer: _He gave a rueful smile._  
+__rueful__ _adj_ :three::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :four::hammer:  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
@@ -10994,7 +10997,7 @@ __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a tr
 __skein__ _n_ :three: A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_  
 __skell__ _How you like it, skell?_  
 __sketchy__  
-__skewer__ _v_  
+__skewer__ _v_ :two::hammer:  
 __skews__ _v_  
 __skid mark__ _idiom_ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one's underpants.  
 __skid row__ _His father would take him to a blind pig on skid row._  
@@ -11916,7 +11919,7 @@ __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?
 __sublimate__ _v_  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
-__subpoena<sup>2</sup>__ _v_ :three::mega: (subpoenaed)  
+__subpoena<sup>2</sup>__ _v_ :four::mega: (subpoenaed)  
 __subsea__ _n_  
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
@@ -12003,7 +12006,7 @@ __sure enough,__ _Sure enough, that's what happened._
 __surefire__  
 __surety__  
 __surfeit__ _n_ :two: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
-__surge<sup>1</sup>__ _v_ :three::hammer:  
+__surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
 __surge<sup>2</sup>__ _n_  
 __surliness__  
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
@@ -12032,7 +12035,7 @@ __swamp<sup>1</sup>__ _n_ :two: __1a__ Permanently waterlogged ground that is us
 __swamp<sup>2</sup>__ _v_ :four::hammer: (swamped) _The team feels swamped with work._  
 __swampy__  
 __swan song__  
-__swank__ :two::hammer:  
+__swank__ _v_ :three::astonished::hammer:  
 __swanky__ _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
@@ -12060,8 +12063,8 @@ __sweet on someone__ _adj phr_
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
 __sweet water__ :two::hammer:  
 __sweethearts__  
-__swell__ _n_ :three::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
-__swelled__ (swelling) :two::hammer:  
+__swell<sup>1</sup>__ _n_ :three::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
+__swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ _[usually in negatives]_ _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
@@ -13263,7 +13266,7 @@ __vetted__ _v_ :three::hammer:
 __vetting__  
 __vex__ _v_ :three::hammer: (vexed)  
 __vexillology__ _n_ The study of flags.  
-__vexing__ :two::hammer: _Vexing problem._  
+__vexing__ _adj_ :three::hammer: _Vexing problem._ _It's a vexing topic._  
 __viable__  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicar__  
