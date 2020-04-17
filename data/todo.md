@@ -1,5 +1,16 @@
 
 
+__stakeout__ _n_  
+__emporium__ _n_ :astonished:  
+__for keeps__  
+__sting__ _v_ _They were stung by a man who sells socks without feet._  
+__case in point__  
+__adage__ _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
+__snatch__ _v_  
+__bush jacket__ _n_ _An inmaculate bush jacket._  
+__swagger__ _n_ _A swagger stick._  
+__stick__ _n_ _A swagger stick._  
+
 __thrust__ _n_  
 __farthest-flung__ _Identify dangers in the farthest-flung corners._  
 __outburst__  
