@@ -1,4 +1,14 @@
 
+__endowed__ _v_  
+__bathymetry__  
+__accommodation__ _n_ :pencil2:  
+__disdrometer__  
+__spearheaded__ _v_  
+__hazard__ _n_  
+__hydrometeors__ _n_  
+__inland__  
+__highlight__ _v_  
+__slipperiness__  
 
 __clatter__ _n_ _The clatter of the Telex machines._  
 __expansively__ _He sucked expansively on his cigar._  
