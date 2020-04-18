@@ -1,5 +1,16 @@
 
 
+__clatter__ _n_ _The clatter of the Telex machines._  
+__expansively__ _He sucked expansively on his cigar._  
+__noontime__ _n_ _It was noontime, time for lunch._  
+__shingles__ _n_  
+__yesteryear__  
+__innards__ _n_ _informal_ __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine.  
+__pastime__ _n_  An activity that occupies one's spare time pleasantly: Sailing is her favorite pastime.  
+__mark__ _n_ _idiom_ A dupe; a victim selected for a theft or a swindle.  
+__dingy__ _adj_  
+__stock-in-trade__ _n_ (stock in trade)  
+
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
 __easygoing__ _adj_  
 __sandlot__ _n_ A vacant lot used by city boys to play games. _Their sandlot football team._  
