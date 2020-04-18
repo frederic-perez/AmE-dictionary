@@ -1,27 +1,5 @@
 
 
-__stakeout__ _n_  
-__emporium__ _n_ :astonished:  
-__for keeps__  
-__sting__ _v_ _They were stung by a man who sells socks without feet._  
-__case in point__  
-__adage__ _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
-__snatch__ _v_  
-__bush jacket__ _n_ _An inmaculate bush jacket._  
-__swagger__ _n_ _A swagger stick._  
-__stick__ _n_ _A swagger stick._  
-
-__thrust__ _n_  
-__farthest-flung__ _Identify dangers in the farthest-flung corners._  
-__outburst__  
-__underpin__ _v_  
-__herald__ _v_  
-__rawinsonde__ _n_ A radiosonde used to observe the speed and direction of upper-air winds and tracked by a radio direction-finding instrument or radar.  
-__off-the-shelf__  
-__timely__  
-__utmost__  
-__hurricane__  
-
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
 __easygoing__ _adj_  
 __sandlot__ _n_ A vacant lot used by city boys to play games. _Their sandlot football team._  

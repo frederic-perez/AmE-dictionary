@@ -146,7 +146,7 @@ __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with lit
 __ad-lib<sup>3</sup>__ _n_ :four: (ad lib, ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ :mega: /ā′də/  
-__adage__ :two::hammer:  
+__adage__ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
 __Adam's ale__ _slang_ Water.  
 __adamant__  
 __add insult to injury__ _idiom_ To hurt the feelings of a person who is already upset.  
@@ -1644,6 +1644,7 @@ __bursary__ :two::hammer: (bursaries)
 __burst__ _v_ :two::hammer: (bursting)  
 __bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
+__bush jacket__ _n_ _An inmaculate bush jacket._  
 __business logic__  
 __business ties__  
 __businesspeople__ _n_  
@@ -1897,7 +1898,7 @@ __carve out__ _v_ (carved out) :six::hammer:
 __carveouts__  
 __cascading__  
 __case at hand__  
-__case in point__ _n_ :eight: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
+__case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case study__  
 __case the joint__  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
@@ -3931,7 +3932,7 @@ __emphasis__
 __emphasize__ _v_ :three::astonished::hammer:  
 __emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
 __Empire State__ The U.S. State of New York.  
-__emporium__ _n_ :astonished: A large retail store, especially one selling a great variety of articles.  
+__emporium__ _n_ :two::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
@@ -4270,6 +4271,7 @@ __farflung__ _Farflung operations and profits._
 __farouche__ _adj_  
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
 __farther__  
+__farthest-flung__ _Identify dangers in the farthest-flung corners._  
 __farthing__  
 __fascia__ _n_ :two::hammer:_The car dashboard fascias._  
 __fascinate__ :mute:[fas~~c~~inate]  
@@ -4685,6 +4687,7 @@ __for better or worse__
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
 __for good__ _Leadville's only hospital is preparing to close for good in March._  
+__for keeps__  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
 __for the ages__ _idiom_ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
@@ -5836,7 +5839,7 @@ __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo
 __henchman__ _n_ :seven::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :seven::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the "bus of champions."_  
+__herald__ _v_ :eight::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __herdsman__ _n_  
 __here's looking at you__  
 __heresy__ _n_ :two::hammer:  
@@ -6124,6 +6127,7 @@ __hurdy-gurdy__
 __hurl__ _v_ :nine: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurricane lamp__ _n_  
+__hurricane__  
 __hurtle__ _v_ :two::hammer: (hurtling)  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandry__ _n_ :three::hammer:  
@@ -8193,6 +8197,7 @@ __off-price stores__
 __off-putting__  
 __off-street__ _Off-street parking._  
 __off-the-cuff__ :two::hammer: _It was just an off-the-cuff remark._  
+__off-the-shelf__  
 __off<sup>1</sup>__ _She got off the train._  
 __off<sup>2</sup>__ _v_ _slang_ To murder, to kill.  
 __offbeat__ :two::hammer: _His offbet partner._ _Offbeat nature._  
@@ -8360,7 +8365,7 @@ __outback__
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
 __outbreak__ _n_ :four::hammer: (outbreaks)  
-__outburst__ _n_ :two::hammer:  
+__outburst__ _n_ :three::hammer:  
 __outcast__ _n_  
 __outcome__ _n_ (outcomes)  
 __outcroppings__  
@@ -9750,6 +9755,7 @@ __raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal
 __raw dog__  
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
+__rawinsonde__ _n_ A radiosonde used to observe the speed and direction of upper-air winds and tracked by a radio direction-finding instrument or radar.  
 __raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
 __razor sharp__  
 __razor strop__  
@@ -11237,7 +11243,7 @@ __snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its 
 __snarl<sup>2</sup>__ _v_ :nine: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
 __snatch the pebble__ _v idiom_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
-__snatch__ _v_  
+__snatch__ _v_ :two::hammer:  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
 __sneaker__ _Sneaker companies._  
 __sneaky__  
@@ -11593,7 +11599,7 @@ __stair climbing__ The climbing of a flight of stairs.
 __stairwell__ _n_:three::camera::hammer:  
 __stake__ _n_  
 __stakeholder__ _n_ :three::hammer:  
-__stakeouts__ :two::hammer:  
+__stakeout__ _n_ :three::hammer: (stakeouts)  
 __stakes__ _n_  
 __stale antiperspirant__  
 __stale__ _adj_ :four::hammer: _The stale remains of a cup of coffee._  
@@ -11722,7 +11728,8 @@ __stewardship__
 __stewed tomatoes__  
 __STI__ _abbr_ :three: Sexually transmitted infection.  
 __stick > turnaround stick__  
-__stick__ _v_ _She began sticking files in a cabinet._  
+__stick<sup>1</sup>__ _n_ _A swagger stick._  
+__stick<sup>2</sup>__ _v_ _She began sticking files in a cabinet._  
 __stickball__ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
 __sticker price__  
 __sticker shock__  
@@ -11742,7 +11749,8 @@ __still life__ _Still life painting._
 __stillbirth__ _n_ :two::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
-__sting__ _n_  
+__sting<sup>1</sup>__ _n_  
+__sting<sup>2</sup>__ _v_ _They were stung by a man who sells socks without feet._  
 __stinger__  
 __stingy__ _adj_ :two::hammer: _Be stingy with your money._ _Syn_ parsimonious, penurious  
 __stink__ _n_ _Slang_ The end of the anal canal of a male or female. _You've got to give up yous stink._  
@@ -12027,7 +12035,8 @@ __swab__ _n_ _Nasopharyngeal swabs._
 __swadding__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. :es: envolver con ropa apretada a un bebé  
 __swage__ _adj_  
-__swagger__ _v_ :four::hammer:  
+__swagger<sup>1</sup>__ _n_ _A swagger stick._  
+__swagger<sup>2</sup>__ _v_ :four::hammer:  
 __Swahili__  
 __swain__ _n_ A young male suitor or lover.  
 __swale__  
@@ -12453,7 +12462,7 @@ __throws__ _n_
 __thrum__  
 __thrums__ _v_  
 __thrust<sup>1</sup>__ _v_ :two::hammer:  
-__thrust<sup>2</sup>__ _n_ :two::hammer:  
+__thrust<sup>2</sup>__ _n_ :three::hammer:  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ :two::hammer:  
@@ -12515,7 +12524,7 @@ __time line__ _Can it be done in that time line?_
 __timeclock__ _Denver Movie Timeclock._  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__  
-__timely__ _adj_ :nine::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_  
 __timetable<sup>2</sup>__ _v_  
@@ -12993,7 +13002,7 @@ __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
 __undermine__ _v_ :seven::hammer: (undermined)  
-__underpin__ _v_ :three::hammer:  
+__underpin__ _v_ :four::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
 __underrated__ :pencil2:  
@@ -13156,7 +13165,7 @@ __utilitarian__
 __utility room__  
 __utility<sup>1</sup>__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
-__utmost__ _adj_ :four::hammer:  
+__utmost__ _adj_ :five::hammer:  
 __utterance__  
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
