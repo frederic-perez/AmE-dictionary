@@ -1,4 +1,13 @@
 
+__staff__ _n_ A stick that some officials carry on formal occasions.  
+__caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
+__have seen (one's) day__ _idiom_ To be beyond one's prime; to be no longer useful, effective, or functional.  
+__high-and-mighty__ _adj_ Offensively self-assured or given to exercising usually unwarranted power. _Syn_ autocratic, bossy, peremptory, magisterial, dominating  
+__have rocks in (one's) head__ _idiom_ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
+__jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
+__have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
+__wallop__ _v_ _informal_ To beat soundly; strike hard. _Syn_ whack, wham, whop  
+
 __endowed__ _v_  
 __bathymetry__  
 __accommodation__ _n_ :pencil2:  
