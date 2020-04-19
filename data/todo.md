@@ -1,5 +1,16 @@
 
 
+__cutoff__ _The investigation kept going for months beyond its original cutoff date._  
+__commiserate__ _v_  
+__temper__ _v_  
+__knowledgeable__ _adj_  
+__ready cash__ _They haven't enough ready cash to pay the commission._  
+__straightened__ _v_ _We straightened the problems out._  
+__mulling__ _n_  
+__pump__ _v_ _Curious customers would try to pump the driver._  
+__uncouth__  
+__solicitous__  
+
 __cyclones__  
 __windshear__  
 __airfield__  
