@@ -1,5 +1,16 @@
 
 
+__cyclones__  
+__windshear__  
+__airfield__  
+__heliport__  
+__withstand__ _v_  
+__anodized__ _v_  
+__give (someone) a call__ _Give me a call._  
+__incur__ _v_  
+__landfall__ :three::hammer:  
+__superstorm__ _n_ :two::hammer:  
+
 __noontime__ _n_ _It was noontime, time for lunch._  
 __shingles__ _n_  
 __yesteryear__  
