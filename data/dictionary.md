@@ -92,7 +92,7 @@ __abyss__ _n_ :astonished::mega::six:
 __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
-__accommodation__ _n_ :pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
+__accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
 __accomplice__  
@@ -842,6 +842,7 @@ __bate__ _v_ (bated) _They watched with bated breath._
 __bath tissue__  
 __bathhouses__  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
+__bathymetry__  
 __baton__ _n_ :two::hammer:  
 __battered<sup>1</sup>__ _v_ _His face was battered._  
 __battered<sup>2</sup>__ _adj_ _Her pride remains battered but intact._  
@@ -1738,6 +1739,7 @@ __Caddy__ Cadillac.
 __cadence__ _n_ :two::hammer:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
+__caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answer._ __2__ Crafty; shrewd: _a cagey lawyer._  
@@ -2239,7 +2241,7 @@ __clasped__ _v_
 __class act__ _She was a class act through and through._  
 __class action__  
 __classy__ :two::hammer:  
-__clatter__ _n_  
+__clatter__ _n_ :two::hammer: _The clatter of the Telex machines._  
 __claw back__ _v_  
 __claw machine__ _n_ :camera:  
 __claw<sup>1</sup>__ _n_  
@@ -3373,6 +3375,7 @@ __discouraging__
 __discourse__  
 __discretion__ _n_  
 __discus__ _n_  
+__disdrometer__  
 __disembodied__ _v_ :two::hammer:  
 __disenfranchise__  
 __disenfranchised__  
@@ -3962,8 +3965,7 @@ __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing
 __endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
 __endocrine__ _n_ :mega:  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
-__endow__ _v_  
-__endowed__ :two::hammer:  
+__endow__ _v_ :four::hammer: (endowed)  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
 __ENDR__ _abbr_ Early Neonatal Death Rate (prenatal care evaluation factor).  
@@ -4130,6 +4132,7 @@ __exhilarating__ :two::hammer: _It is an exhilarating thought._
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
+__expansively__ _He sucked expansively on his cigar._  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
 __expediency__  
@@ -5691,6 +5694,7 @@ __have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing,
 __have (got) (someone's) back__ _idiom_ :two: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
+__have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
@@ -5715,6 +5719,8 @@ __have it easy__ _idiom_ To have or be in a particularly comfortable or relaxed 
 __have it out (with someone)__ _idiom_ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
 __have its/(one's) day__ _idiom_ To be at the height of or experience success or prosperity.  
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
+__have rocks in (one's) head__ _idiom_ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
+__have seen (one's) day__ _idiom_ To be beyond one's prime; to be no longer useful, effective, or functional.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have someone's back__  
 __have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
@@ -5732,7 +5738,7 @@ __hawthorn__ _n_ :four::hammer:
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
-__hazard__ _A 465-yard par with a water hazard._  
+__hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
 __hazardous__ :two::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
 __hazel__  
@@ -5878,12 +5884,14 @@ __high school__ _n_ A school especially in the U.S. usually including grades 9�
 __high street__ _n_ _British informal_ :three::hammer:  
 __high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
 __high__ :mute:[hi~~gh~~]  
+__high-and-mighty__ _adj_ Offensively self-assured or given to exercising usually unwarranted power. _Syn_ autocratic, bossy, peremptory, magisterial, dominating  
 __high-fly__ _v_  
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_  
+__highlight__ _v_  
 __highly__ _I highly recommend it._  
 __hijab__ _n_ :three::camera::hammer: (hijabs)  
 __hijinks__ :two::hammer: _Adolescent hijinks._  
@@ -6147,6 +6155,7 @@ __hyacinth__ :pencil2:
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
 __hydrology__  
+__hydrometeors__ _n_  
 __hygroscopic__  
 __hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
@@ -6388,7 +6397,7 @@ __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or 
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
 __inkling__ _n_ :four::hammer:  
-__inland__  
+__inland__ :two::hammer:  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
 __innards__ _v_ _The pictures adorn the innards of each chapter._  
@@ -6493,6 +6502,7 @@ __J-strokes__
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
+__jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jack it up__ _v_  
 __jack-o'-lantern__  
 __jackhammer__  
@@ -11111,6 +11121,7 @@ __slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__ _n_ :two::hammer:  
 __slipper__ _n_ :two::hammer: (bag?)  
+__slipperiness__  
 __slippers__  
 __slippery slope__  
 __slips__ _Sailboats were rocking in their slips._  
@@ -11414,7 +11425,7 @@ __speak up__ _v_ :two::hammer:
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
-__spearhead__ _v_ :six: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead__ _v_ :seven: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specifically__  
@@ -11583,7 +11594,7 @@ __St. Bernard__
 __stab__ _n_ :two::hammer:  
 __stable condition__  
 __stable__  
-__staff__ _n_ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
+__staff__ _n_ :astonished: __1__ A stick that some officials carry on formal occasions. __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
@@ -13390,7 +13401,7 @@ __wall__ _n_ :es: I'd put them up against a wall and shoot them. _Yo los llevar�
 __wall-eyed__  
 __wallboard__  
 __wallflower__  
-__wallop__ _v_ :four: (walloped) Strike or hit very hard. _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
+__wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
