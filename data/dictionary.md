@@ -940,7 +940,7 @@ __beggar__ _n_
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :five::hammer: _No one could begrudge her that._  
 __begrudgingly__ :two::hammer:  
-__beguile__ _v_ :eight::hammer: (beguiled, beguiling)  
+__beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _"to beguile you from the grief of a loss so overwhelming"_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
@@ -1163,8 +1163,8 @@ __blink__ _v_ _There is no reason to blink._
 __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
 __blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
-__blithe__ _adj_ :six::hammer:  
-__blithely__ _adv_ :eight::hammer: _The worst option is to blithely add getters and setters._  
+__blithe__ _adj_ :six: __1__ Carefree and lighthearted. __2__ Lacking or showing a lack of due concern; casual: _spoke with blithe ignorance of the true situation._  
+__blithely__ _adv_ :eight: In a joyous manner. _The worst option is to blithely add getters and setters._  
 __blitheness__  
 __blither__  
 __blithering__  
@@ -1746,7 +1746,7 @@ __cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answ
 __cagily__ _adv_  
 __cagy__ _adj_ Variant of cagey.  
 __cahoots__  
-__cajole__ _v_ :eight::hammer: (cajoled, cajoling)  
+__cajole__ _v_ :eight: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamity__  
