@@ -1,27 +1,5 @@
 
 
-__cutoff__ _The investigation kept going for months beyond its original cutoff date._  
-__commiserate__ _v_  
-__temper__ _v_  
-__knowledgeable__ _adj_  
-__ready cash__ _They haven't enough ready cash to pay the commission._  
-__straightened__ _v_ _We straightened the problems out._  
-__mulling__ _n_  
-__pump__ _v_ _Curious customers would try to pump the driver._  
-__uncouth__  
-__solicitous__  
-
-__cyclones__  
-__windshear__  
-__airfield__  
-__heliport__  
-__withstand__ _v_  
-__anodized__ _v_  
-__give (someone) a call__ _Give me a call._  
-__incur__ _v_  
-__landfall__ :three::hammer:  
-__superstorm__ _n_ :two::hammer:  
-
 __noontime__ _n_ _It was noontime, time for lunch._  
 __shingles__ _n_  
 __yesteryear__  

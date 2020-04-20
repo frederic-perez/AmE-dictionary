@@ -253,6 +253,7 @@ __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and n
 __airborne__ _adj_ :two::hammer: _An airborne radar._ _Airborne and shipborne measured platforms._  
 __airburst__ _n_  
 __aircraft hold__ _n_ :es: bodega (de avión)  
+__airfield__  
 __airhead__ _n_ _slang_ A stupid person.  
 __airship__ _n_ _Tethered airships._  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
@@ -392,7 +393,7 @@ __annihilation__ :pencil2::mega:
 __anniversary__ :pencil2::mega:  
 __annuity__ (annuities) :two::hammer:  
 __annum__ _n_  
-__anodized__  
+__anodized__ _v_ :two::hammer:  
 __anomic__  
 __anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anorak__ _n_ :two::hammer:  
@@ -2448,7 +2449,7 @@ __commensurate__
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :three::hammer:  
+__commiserate__ _v_ :four::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::nine: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
@@ -2970,6 +2971,7 @@ __cut-and-dry task__
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlets__ _Chicken cutlets._  
 __cutline__ _n_  
+__cutoff__ _The investigation kept going for months beyond its original cutoff date._  
 __cutter__ _A Coast Guard cutter._  
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
@@ -2978,7 +2980,7 @@ __cutting edge__ _adj_ :three::hammer: (cutting-edge) _Cutting-edge research._
 __CVD__ Cardiovascular disease.  
 __CVS__ _abbr_ Computer Vision Syndrome.  
 __cyanide__ _n_ A very strong poison.  
-__cyclone__ _n_  
+__cyclone__ _n_ :two::hammer: (cyclones)  
 __cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
 __cyst__ _n_ :mega: _Ganglion cysts._  
@@ -5123,6 +5125,7 @@ __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or
 __giridon__  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _Guantanamo?_  
+__give (someone) a call__ _Give me a call._  
 __give and take__ _Love don't come easy. It's a game of give and take._  
 __give in__ _I'm never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
@@ -5828,6 +5831,7 @@ __heist capers__
 __heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
 __helipad__  
+__heliport__  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
@@ -6339,6 +6343,7 @@ __inculcate__ _v_
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
+__incur__ _v_  
 __indecorous__ _adj_  
 __indefatigable__ _adj_ :five::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
 __indefinite__  
@@ -6803,6 +6808,7 @@ __know better__ _But I knew better._
 __know the ropes__ _idiom_ :two: To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
+__knowledgeable__ _adj_  
 __knuckle duster__ _Thugs armed with a knuckle duster._  
 __knuckle sandwich__ _idiom_ A punch in the face.  
 __knuckle__ :mute:[~~k~~nuckle]  
@@ -6880,6 +6886,7 @@ __lanced__ _v_
 __lancet__ _n_  
 __lancing irons__  
 __land on (one's) feet__ _idiom_ To gracefully survive a bad situation.  
+__landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
@@ -7847,12 +7854,11 @@ __muggy__ :two::hammer: _The weather was muggy._
 __mulberry__ _n_ :three::hammer: (mulberries)  
 __mulch__ _n_ :two::hammer:  
 __mulching__ _v_  
-__mull__ _v_ :seven::hammer: (mulled, mulling) _Cheney was mulling a Senate bid._  
+__mull__ _v_ :nine::m::hammer: (mulled, mulling) _His mug of mulled cider._ _Cheney was mulling a Senate bid._  
 __mullah__ _n_  
-__mulled__ _v_ _His mug of mulled cider._  
 __mullet__ :two::hammer:  
 __mulligan__ _n_  
-__mulling__ _v_ :three:hammer:  
+__mulling__ _n_ The act of one who mulls or thinks over something.  
 __multipurpose__ :es: polivalente  
 __multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
@@ -9460,7 +9466,8 @@ __pulpit__ _n_ :three::hammer:
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :five::hammer: (pummeled)  
-__pump__ _n_ :three::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
+__pump<sup>1</sup>__ _n_ :three::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
+__pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._  
 __pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
@@ -9783,6 +9790,7 @@ __readily__ _adv_ :six::hammer:
 __readiness__ _Our career readiness software program._  
 __readings__ _n_  
 __readout__ _n_  
+__ready cash__ _They haven't enough ready cash to pay the commission._  
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
@@ -11343,6 +11351,7 @@ __sole__ _Its sole responsibility._
 __solemn__ :mute:[solem~~n~~]  
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
+__solicitous__  
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
@@ -11834,6 +11843,7 @@ __straggly__
 __straight-A student__  
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
+__straighten__ _v_ (straightened) To make or become straight. _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strain<sup>2</sup>__ _n_ :four::hammer: _Can you keep an even strain?_  
 __strained__ _adj_ :three::hammer: _A strained thumb._  
@@ -12009,6 +12019,7 @@ __supercilious__
 __superintendent__ _n_ :three::hammer:  
 __superpooch__  
 __supersede__ _v_  
+__superstorm__ _n_ :two::hammer:  
 __supervise__ _v_  
 __supping__ _v_  
 __supplant__  
@@ -12315,7 +12326,7 @@ __tellurian__ _adj_ :two: Of or characteristic of the earth of its inhabitants; 
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
-__temper__ _v_ :five::hammer: (tempered)  
+__temper__ _v_ :six::hammer: (tempered)  
 __tempera__ _n_  
 __temperament__  
 __temperance__  
@@ -12993,7 +13004,7 @@ __Uncle Sam__ _n_ :dart::two: A personification of the United States government.
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
-__uncouth__ _adj_ :two::hammer:  
+__uncouth__ _adj_ :three::hammer:  
 __uncrating__  
 __unction__ _n_  
 __unctuous__ :two::hammer:  
@@ -13672,7 +13683,7 @@ __windlass__
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  
 __window__ _Hail is tracked over a one-hour window._  
-__windshear__ _n_ :three::hammer: _Windshear phenomena have caused more than 1,400 deaths in aviation._  
+__windshear__ _n_ :four::hammer: _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
 __windstorm__  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
@@ -13725,7 +13736,7 @@ __withhold__
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
 __without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn't there. I'm really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
-__withstand__ _v_ :two::hammer:  
+__withstand__ _v_ :three::hammer:  
 __wizened__ _adj_ :four: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
