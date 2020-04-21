@@ -1072,6 +1072,7 @@ __bikeshed<sup>1</sup>__ _n_
 __bikeshed<sup>2</sup>__ _v_  
 __bikeshedding__ _n_ :dart:  
 __bilge__ _n_  
+__bilk__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bilking__ _Durham was guilty of bilking._  
 __bill__ _v_  
 __bill-file__  
@@ -1585,6 +1586,7 @@ __bully__
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
+__bum<sup>3</sup>>__ _n_ __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bummer__ _n_ _slang_ :two: A disappointing or unpleasant situation or experience.  
@@ -1861,7 +1863,7 @@ __carbuncle__ _n_
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ :two::hammer:  
-__cardinal__ _Breaking cardinal rules of marketing._  
+__cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __carefully__ _It pays to consider his words carefully._  
 __caresses__ _v_  
@@ -2070,6 +2072,7 @@ __chastened__ :two::hammer:
 __chastize__ _v_  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
+__chatter__ _A machine-gun chatter._  
 __chatterbox__ _n informal_ :three::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __cheapskate__ _n informaly_ :dart: A person who doesn't like to spend money.  
@@ -2622,6 +2625,7 @@ __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._
 __cookware__  
 __cool (one's) heels__ _idiom_ To wait, sometimes so that one becomes calmer or more composed.  
 __cool your jets__  
+__coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect the head from the heat of the sun.  
 __coonass__ :two::hammer: (coonasses)  
 __coop<sup>1</sup>__ _To fly the coop._  
 __coop<sup>2</sup>__ _v_ (cooped)  
@@ -3066,7 +3070,7 @@ __day or night__ _idiom_ At any point in time; 24 hours a day.
 __Day Zero__  
 __daybeds__ _n_  
 __dayglow__  
-__dazzle__ _v_ :two::hammer:  
+__dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de-escalate__ _v_  
 __DEA__  
@@ -3330,6 +3334,7 @@ __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property tax
 __dingbat__ _n_  
 __dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
+__dingy__ _adj_  
 __dinking<sup>2</sup>__ _v_  
 __dinky__ _adj_ :three::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
@@ -3811,7 +3816,7 @@ __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.
 __easy as can be__  
 __easy chair__ _n_ A large, comfortable, upholstered chair.  
 __easy-to-use__ _An easy-to-use disposable camera._  
-__easygoing__ _adj_ :three::hammer: (easy-going) _Easygoing people._  
+__easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
 __eating disorder__  
 __ebb and floor__  
@@ -4938,7 +4943,7 @@ __gaffer__ _n_ _Br_ :two: Boss.
 __gaffes__ _n_ :two::hammer:  
 __gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
 __gag__ _The cases's gag order._  
-__gaggle__ _n informal_ :six: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._  
+__gaggle__ _n informal_ :seven: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._  
 __gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
@@ -6405,7 +6410,7 @@ __inkling__ _n_ :four::hammer:
 __inland__ :two::hammer:  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
-__innards__ _v_ _The pictures adorn the innards of each chapter._  
+__innards__ _n_ _informal_ :three: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
 __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
 __innumerate__  
@@ -7430,6 +7435,7 @@ __marijuana__
 __marinades__  
 __mariner__ _n_  
 __marjoram__ _n_ Oregano.  
+__mark__ _n_ _idiom_ A dupe; a victim selected for a theft or a swindle.  
 __markdown__  
 __markdowns__  
 __marketplace__  
@@ -7865,6 +7871,7 @@ __mum__ _adj_ Silent. _So far, the White House has been mum._
 __mumbo jumbo__ _n_  
 __mumps__  
 __munch__ _v_ :three:hammer: (munches)  
+__muncher__ _n_  
 __mundane__ :two::hammer:  
 __Muni bus__  
 __munificent__ _adj_  
@@ -8000,7 +8007,7 @@ __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :eight::hammer: (nestled)  
+__nestle__ _v_ :nine::hammer: (nestled)  
 __nestlings__ _n_  
 __nether__ :two::hammer:  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
@@ -8101,6 +8108,7 @@ __nonstop__
 __noodle<sup>1</sup>__ _n_ Brain. _Use your noodle._  
 __noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
 __nookie__  
+__noontime__ _n_ _It was noontime, time for lunch._  
 __noose<sup>1</sup>__ _n_ :five::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ Northern California.  
@@ -8648,7 +8656,7 @@ __passage__ _n_ _The passage of three supplementary budgets this year._
 __passel__ _A passel of ducks._  
 __passersby__ _n_  
 __pastiche__ :two::hammer:  
-__pastime__ _n_ :three::pencil2::hammer: (pastimes)  
+__pastime__ _n_ :four::pencil2: (pastimes) An activity that occupies one's spare time pleasantly: Sailing is her favorite pastime.  
 __pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
 __pasty__ _adj_ :two::hammer:  
@@ -10794,7 +10802,7 @@ __shine a light__
 __shine off__ _Don't try to shine me off, worm man._  
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
-__shingle__ _n_ :six::hammer: (shingles) :es: herpes zóster  
+__shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster  
 __shipborne__ _Airborne and shipborne measured platforms._  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
@@ -11789,6 +11797,7 @@ __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._
 __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
 __stock car__ _Stock car racing._  
 __stock__ _The plastic stock of the rifle._  
+__stock-in-trade__ _n_ (stock in trade)  
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
@@ -12260,6 +12269,7 @@ __tarry__ _v_ :three::hammer: (tarried)
 __tart__ _adj_ :three::hammer: _She'd bitten into something overly tart._  
 __tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._  
 __tartar__ _n_  
+__tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
 __tarts__ _n_ (whore)  
 __Taser__ _A Taser stun gun._  
 __task__ _v_ :four::hammer: (tasked) _They have been tasked._  
@@ -13882,7 +13892,7 @@ __yellow wine__
 __yelp<sup>1</sup>__ _v_ :six::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yeoman__ _n_ :three::hammer:  
-__yesteryear__ :two::hammer:  
+__yesteryear__ _n_ :three::hammer:  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  
