@@ -89,6 +89,7 @@ __abuzz__ :two::hammer:
 __abysmal failure__ _idiom_ Failure that is total and extreme in measure or implication.  
 __abysmal__  
 __abyss__ _n_ :astonished::mega::six:  
+__accenting__ _v_  
 __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
@@ -425,7 +426,7 @@ __Apart from that,__
 __apartheid__ _n_ :mega:  
 __apartment__ _n_  
 __apathetic__ _adj_ :three::hammer:  
-__ape__ _v_  
+__ape__ _v_ :two::hammer: (aped)  
 __aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __aping__  
 __aplenty__  
@@ -791,6 +792,7 @@ __banter<sup>2</sup>__ _v_
 __bar top__  
 __BAR__ _BAR man._  
 __barbecue__ _Barbecue sauce._  
+__barbed__ _adj_ __1__ Unkind and criticizing. _He was a targed for Jack's barbed humor._ __2__ Having a sharp point that curves backwards.  
 __barbells__  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
 __barded__ _v_  
@@ -1621,6 +1623,7 @@ __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloa
 __buoyancy__  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
+__burble__ _v_ (burbled)  
 __burdensome__  
 __bureaucracy__  
 __burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
@@ -1822,7 +1825,7 @@ __cannolis__
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
 __canopy__ _n_ _A dense canopy of snow._  
-__cantankerous__  
+__cantankerous__ _adj_ :two: Always complaining or arguing and easily annoyed.  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canted__ _v_ :two::hammer:  
 __canteens__  
@@ -2164,7 +2167,7 @@ __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many smal
 __chops__ _n informal_ :eight: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ :mute:[c~~h~~ord]  
 __choreography__ :mute:[c~~h~~oreography]  
-__chortles__ _v_  
+__chortle__ _v_ :two::hammer: (chortled, chortles)  
 __chorus__ :mute:[c~~h~~orus]  
 __chow down__ _v_ _informal_ To eat heartily.  
 __christening__ _n_  
@@ -2744,6 +2747,7 @@ __cowering__ _v_ :two::hammer:
 __cowl__ :two::hammer: _Their cowls were filthy rags._  
 __cowled__ _v_  
 __cowpoke__ _n_ _old-fashioned_ A cowboy or cowgirl.  
+__coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __cozen__ _v_ :two::hammer: (cozened)  
 __cozy__  
@@ -4335,6 +4339,7 @@ __fecklessness__
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel for__  
+__feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
 __feisty__ _adj_ :five::hammer:  
@@ -4357,7 +4362,7 @@ __fenugreek__
 __feral__ _adj_ :seven::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __Ferberization__  
 __Ferberizing__  
-__fern__ _n_ :three::hammer: (ferns) _Fern garden._ :es: helecho  
+__fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho  
 __ferny__  
 __ferocious__  
 __ferret out__ _v_  
@@ -4447,6 +4452,7 @@ __finesse<sup>2</sup>__ _v_
 __finest hour__ :astonished:  
 __finger on the pulse__ _idiom_  
 __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
+__finger__ _v_  
 __finger-licking good__ _idiom_ Very tasty.  
 __finger-waggers__  
 __finicky__ _adj_ :three:hammer:  
@@ -4865,6 +4871,7 @@ __from the rooter to the rooter__
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front and center__ :two::hammer:  
 __front man__ _n_ :two::hammer: (frontman)  
+__front-end__ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
 __frostbite__ _n_ :six::hammer:  
@@ -7881,7 +7888,7 @@ __muriatic__
 __muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, "little mouse."  
 __muscling__ _v_  
 __muse<sup>1</sup>__ _n_  
-__muse<sup>2</sup>__ _v_ :four::hammer: (mused) _He mused on his Facebook page about killing his wife._  
+__muse<sup>2</sup>__ _v_ :five::hammer: (mused) _He mused on his Facebook page about killing his wife._  
 __muselet__ _n_ The wire that holds a champagne cork in place.  
 __museum__ _n_ :mega:  
 __mush__ _n_ :four::hammer: _A mush brain._  
@@ -8151,6 +8158,7 @@ __numb__ :two::mute:[num~~b~~]:hammer:
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbers game__ _n_  
+__numbers runners__  
 __numbly__  
 __numinous__ _adj_  
 __nunchucks__  
@@ -8384,6 +8392,7 @@ __out of sorts__ _v-link phr_ :five: __1__ Somewhat ill. __2__ Grouching; irrita
 __out of the blue__  
 __out of the woods__  
 __out of this world__ _idiom_ Extremely good.  
+__out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
 __outage__ _n_ :two::hammer: _Power outages._  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
@@ -10380,7 +10389,7 @@ __sand spits__
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ _Sanding the wood._  
 __sandbag__ :two::hammer: (sandbags)  
-__sandlot__  
+__sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
 __sandpits__ _n_  
 __sandstone__  
 __sandwich__ :mute:[san~~d~~wich]  
@@ -10479,7 +10488,7 @@ __schleps__ _v_ _He schleps to the House gym in workout clothes._
 __schlocky__  
 __schmooze__  
 __schmoozed__ _v_ :two::hammer: (schmoozing)  
-__schmuck__ _n_ _slang_ :two: (schmucks) A clumsy or stupid person; an oaf.  
+__schmuck__ _n_ _slang_ :three: (schmucks) A clumsy or stupid person; an oaf.  
 __schnapps__  
 __scholar__ :two::hammer: _Legal scholar._  
 __school > charter school__  
@@ -11595,7 +11604,7 @@ __squeal__ _v_
 __squeamish__ _adj_ :six: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squeeze__ _v_  
-__squelch__ _v_ :two::hammer:  
+__squelch__ _v_ :three::hammer:  
 __squelched__ _v_  
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
@@ -11878,6 +11887,7 @@ __streaming__ _Streaming eyes._
 __streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strech__ _He was awake for long streches of time._  
 __streetcar__  
+__streetwise__  
 __strengthen__ _v_  
 __strenuous__ _adj_ :astonished::three::hammer:  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
@@ -13896,6 +13906,7 @@ __yesteryear__ _n_ :three::hammer:
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  
+__Yiddish__ _n_ :two::hammer:  
 __yield<sup>1</sup>__ _v_ :three::hammer: _Failing to yield to pedestrians._  
 __yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers to increase yields._  
 __yikes__ _interj_ :two: An exclamation of surprise or alarm.  
