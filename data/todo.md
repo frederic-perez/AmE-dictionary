@@ -1,5 +1,16 @@
 
 
+__hedge__ _v_  
+__splurge__ _n_  
+__fastidious__  
+__debriefing__ _n_  
+__inscribed__ _v_  
+__cursory__ _adj_  
+__appraisal__ _n_ :two::hammer:  
+__skyscraper__ _n_  
+__fleece__ _v_ :three::hammer: _Those swindlers hoped to fleece Jack's bank contacts._  
+__grand__ _n_ _I nicked him for ten grand [notice: not ten grands]._  
+
 __squeamish__ _adj_  
 __feud__ _n_  
 __style__ _v_  
