@@ -1,5 +1,16 @@
 
 
+__mundane__ _adj_  
+__memo__ _n_  
+__sordid__ _adj_  
+__scrawl__ _v_ :two: To write hastily or sloppily. _Ben scrawled a notation on the memo._  
+__deserted__ _adj_ _Most of the desks were deserted._  
+__teeter__ _v_ (teetering)  
+__articulate__ _v_ (articulated)  
+__imbue__ _v_ (imbued)  
+__surmising__ _v_  
+__hideaway__ _n_  
+
 __hedge__ _v_  
 __splurge__ _n_  
 __fastidious__  
