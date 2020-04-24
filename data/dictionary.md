@@ -458,7 +458,7 @@ __applesauce__
 __apportion__ _v_  
 __apportioned__ _v_  
 __apposition__ _n_  
-__appraisal__ _n_ :seven: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
+__appraisal__ _n_ :nine: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
 __appreciate__ _I appreciate it._  
@@ -516,7 +516,7 @@ __arrested__ _v_ :astonished: _While others are arrested by discouragement, we a
 __arrowroot__  
 __arson__ _n_  
 __articulate<sup>1</sup>__ _adj_ :three::hammer:  
-__articulate<sup>2</sup>__ _v_ :four::hammer:  
+__articulate<sup>2</sup>__ _v_ :five::hammer: (articulated)  
 __articulated__ _adj_ _A clearly articulated project._  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
@@ -2955,7 +2955,7 @@ __curriculum vitae__ _n_
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
-__cursory__ _adj_ :six: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
+__cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _His curt answer._  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
@@ -3102,7 +3102,7 @@ __debacle__ :two::hammer:
 __debasing__ _v_  
 __debatable__  
 __debauchery__  
-__debriefing__ _n_ :four::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
+__debriefing__ _n_ :five::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :two::mega::mute:[de~~b~~t]:hammer:  
 __debunk__ _v_ :two::hammer:  
@@ -3247,6 +3247,7 @@ __descent__ :mute:[des~~c~~ent]
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
+__deserted__ _adj_ _Most of the desks were deserted._  
 __desideratum__ _n_ Something desired as a necessity.  
 __design__ :mute:[desi~~g~~n]  
 __designer__ _n_ :es: _maquetador_  
@@ -4293,7 +4294,7 @@ __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained e
 __fast food__ :mega:  
 __fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastidious__ _adj_ :three::hammer: _He was fastidious about showing off his collection._  
+__fastidious__ _adj_ :four::hammer: _He was fastidious about showing off his collection._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
@@ -4559,7 +4560,7 @@ __fleck__ _n_
 __flecked__ _v_ _Floor flecked with blood._  
 __fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
-__fleece__ _v_ :five::dart: (fleeced) __1__ To defraud of money or property; swindle.  
+__fleece__ _v_ :eight::dart: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack's bank contacts._  
 __fleecy__  
 __fleeting__  
 __fleetingly__  
@@ -5322,7 +5323,7 @@ __graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for sus
 __gramps__  
 __grand jury__  
 __grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
-__grand__  
+__grand__ _n_ :two::hammer: _I nicked him for ten grand [notice: not ten grands]._  
 __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
@@ -5821,7 +5822,7 @@ __hectic__ _adj_ :five::hammer:
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
-__hedge<sup>2</sup>__ _v_ :four::hammer: (hedging)  
+__hedge<sup>2</sup>__ _v_ :five::hammer: (hedging)  
 __hedonic__  
 __Hedonism__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
@@ -5888,6 +5889,7 @@ __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover b
 __hickory shaft__  
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
+__hideaway__ _n_  
 __hidebound__ _adj_ :three::hammer:  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
 __Higgs boson__ :two::hammer: (popularly known as the "God particle.")  
@@ -6230,7 +6232,7 @@ __imbalance__ _n_
 __imbibe__ _v_ :two::hammer: (imbibing)  
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
-__imbue__ _v_ :three: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immerse__ _v_  
 __immigrated__  
 __immigration__ :mega:  
@@ -6431,6 +6433,7 @@ __inquisitiveness__
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __inroads__ _n_ :three::hammer:  
 __ins and outs__ _pl n_ :two::hammer:  
+__inscribed__ _v_  
 __inscrutable__ _adj_ :three::hammer:  
 __inset__ :two::hammer:  
 __insidious__  
@@ -7555,7 +7558,7 @@ __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reacto
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
-__memo__ _n_ :two: (memos) Short for memorandum. _A memo sent to reporters._  
+__memo__ _n_ :three: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
 __memorandum__ :two::hammer:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
@@ -7879,7 +7882,7 @@ __mumbo jumbo__ _n_
 __mumps__  
 __munch__ _v_ :three:hammer: (munches)  
 __muncher__ _n_  
-__mundane__ :two::hammer:  
+__mundane__ _adj_ :three::hammer:  
 __Muni bus__  
 __munificent__ _adj_  
 __munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
@@ -10533,7 +10536,7 @@ __scrapper__
 __scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scratch__ :mute:[scra~~t~~ch]  
-__scrawl__ _v_ :two::hammer: (scrawled)  
+__scrawl__ _v_ :four: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
 __scrawny__ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
@@ -11072,6 +11075,7 @@ __skunworks__
 __sky high__  
 __skylight__  
 __skyrocket__ _v_ :three::hammer:  
+__skyscraper__ _n_  
 __skywriting__  
 __SL,UT__ Abbreviation for Salt Lake City, Utah.  
 __slabs__ :two::hammer: _Concrete slabs._  
@@ -11393,6 +11397,7 @@ __sophomore__ (from Greek?) :two::hammer:
 __sopping__ _v_  
 __soppy__  
 __sorbet__ _n_ :mega:  
+__sordid__ _adj_  
 __sorely__ _adv_ :three::hammer:  
 __sorghum__  
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
@@ -11511,7 +11516,7 @@ __split hairs__ _idiom_ :two: Argue or worry about small details.
 __split__ _n_  
 __splotched__ _v_  
 __splotches__ _n_  
-__splurge<sup>1</sup>__ _n_ __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
+__splurge<sup>1</sup>__ _n_ :two: __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
 __splurge<sup>2</sup>__ _v_ :six::hammer: (splurged, splurging)  
 __splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
 __spluttering__ _A baby's spluttering._  
@@ -12059,7 +12064,7 @@ __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging
 __surge<sup>2</sup>__ _n_  
 __surliness__  
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
-__surmise__ _v_ :three::hammer: (surmised)  
+__surmise__ _v_ :four::hammer: (surmised, surmising)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surname__ :two::mega::hammer:  
 __surplice__ _n_  
@@ -12327,7 +12332,7 @@ __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains fa
 __teeing up__ _v_  
 __teem__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
-__teeter__ _v_ :nine: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
+__teeter__ _v_ :nine::m: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
 __teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
