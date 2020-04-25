@@ -1,4 +1,13 @@
 
+__go off__ _idiom_ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
+__shed (some) light on (something)__ _idiom_  
+__awry__  
+__would you be so kind as to__ :es: sería tan amable de, tendría la bondad de  
+__parrot__ _v_ To repeat or imitate, especially without understanding.  
+__syrup__ _n_ _Maple syrup._  
+__fantasize__ _v_  
+__self-satisfied__ _adj_ Having or showing a complacent satisfaction with oneself, one's own actions, behavior, etc.  
+__in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one's control or influence.  
 
 __outbreak__  
 __downtime__ _n_  
