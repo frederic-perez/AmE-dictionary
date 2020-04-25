@@ -1,5 +1,16 @@
 
 
+__outbreak__  
+__downtime__ _n_  
+__nowcasting__ _Nowcasting applications._  
+__wealth__ _A wealth of information._  
+__oncoming__ _The oncoming winter's patterns._  
+__graupel__ _n_ Precipitation consisting of snow pellets.  
+__convective__ _Convective cloud._  
+__foot__ _v_ _Are you prepared to foot the extra cost?_  
+__embryo__  
+__lee__ _n_  
+
 __have the floor__ _idiom_ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __forsake__ _v_ Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __have the feel of (something)__ _idiom_ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
