@@ -1,4 +1,16 @@
 
+
+__last hurrah__ _idiom_ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
+__rotund__ _adj_  
+__pony up__ _phr v_ _slang_ To pay (money owed or due).  
+__smorgasbord__ _n_ :astonished:  
+__loot__ _v_  
+__forged__ _adj_ Of or relating to that which has been fraudulently imitated.  
+__rummage__ _v_ (rummaged)  
+__peddle__ _v_ (peddling)  
+__shifty__ _adj_ _Jane was shifty and quick-witted._  
+__quick-witted__ _adj_ Mentally alert and sharp; keen. _Jane was shifty and quick-witted._  
+
 __squeamish__ _adj_  
 __feud__ _n_  
 __style__ _v_  
