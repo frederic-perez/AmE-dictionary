@@ -1,5 +1,16 @@
 
 
+__bow__ _The bow of the ship._  
+__helipad__  
+__ice floe__ :three::hammer:  
+__DOY__ _abbr_ Day of year.  
+__paradoxically__  
+__dissipate__ _v_  
+__budget__ :two::hammer: _The surface energy budget._  
+__radome__ _n_  
+__utility__ _Utility companies._  
+__wealth__ :dart: _A wealth of new data._  
+
 __alienist__ _n_ A psychiatrist and specialist in the legal aspects of mental illness.  
 __flag-wavingÇ__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
 __frisson__ _n_ A sudden strong feeling of excitement, fear, or pleasure.  
