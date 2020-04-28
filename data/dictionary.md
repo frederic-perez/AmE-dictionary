@@ -1369,7 +1369,7 @@ __bouquet__ _n_
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
-__bow__ _n_ :four::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._  
+__bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
 __bowling alley__ _n_ :two: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
@@ -1553,6 +1553,7 @@ __buddy__
 __budge__ _v_  
 __budged__  
 __budget line__ _I had already sent my editor a budget line on the story._  
+__budget__ :two::hammer: _The surface energy budget._  
 __buff<sup>1</sup>__ _n informal_ :eight: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
@@ -3446,6 +3447,7 @@ __dissimilar__ _adj_
 __dissimilarly__  
 __dissimulate__ _v_  
 __dissing__ _v_  
+__dissipate__ _v_  
 __dissipation__  
 __dissolution__  
 __dissonance__  
@@ -3616,6 +3618,7 @@ __downturn__ _n_
 __downturns__ :two::hammer:  
 __downward__ _A downward spiral._  
 __dowry__ _n_ :four::hammer: :es: dote  
+__DOY__ _abbr_ Day of year.  
 __doyenne__  
 __doze__ _v_  
 __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
@@ -4003,7 +4006,7 @@ __ensemble<sup>2</sup>__ _adj_ _An ensemble group._
 __enshrined__  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._  
-__ensuite<sup>1</sup>__ _n_ A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
+__ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __entail<sup>1</sup>__ _v_ :seven::hammer: (entails)  
@@ -4089,7 +4092,7 @@ __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculi
 __etiquette__  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
-__eulogy__ _n_ :three::hammer:  
+__eulogy__ _n_ :four::hammer:  
 __eunuch__ _n_  
 __eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
@@ -5140,7 +5143,7 @@ __git__ _n_ _Chiefly British slang_ A fool, a stupid person.
 __Gitmo__ _Guantanamo?_  
 __give (someone) a call__ _Give me a call._  
 __give and take__ _Love don't come easy. It's a game of give and take._  
-__give in__ _I'm never giving in._  
+__give in__ _phr v_ :two: __1__ To hand in; submit: _She gave in her report._ __2__ To cease opposition; yield. _I'm never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __give or take__ _idiom_ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ _idiom_ To speak angrily to someone because they have done something wrong.  
@@ -5843,7 +5846,7 @@ __heisenbug__ _n_
 __heist capers__  
 __heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
-__helipad__  
+__helipad__ :two::hammer:  
 __heliport__  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
@@ -6193,6 +6196,7 @@ __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __Ibuprofen__  
 __ice cream cone__  
+__ice floe__ _n_ :three: A sheet of ice, of variable size, floating in the sea.  
 __ice house__ _Insulated ice houses._  
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
 __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
@@ -6994,6 +6998,7 @@ __lean protein__
 __lean<sup>1</sup>__ _adj_ :three::hammer: _He is lean fast._ _Lean food._ _A lean face._  
 __lean<sup>2</sup>__ _v_  
 __leap day__  
+__leap of faith__  
 __leap year__  
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
 __leaps and bounds__ _To grow in leaps and bounds._  
@@ -8289,7 +8294,7 @@ __on fire__ _idiom_ Something is going really well or someone is doing a fantast
 __on foot__ _I work to work on foot._  
 __on pins and needles__ _idiom_ Worried or excited about something.  
 __on point__ On point is "exactly right" or "perfect." In slang, the expression often describes someone as "on their game" or "looking sharp."  
-__on steroids__  
+__on steroids__ :two::hammer:  
 __on the back burner__ _idiom_ :two::hammer:  
 __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
 __on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
@@ -8599,6 +8604,7 @@ __paperwork__
 __pappy__  
 __paradigm__ :mute:[paradi~~g~~m]  
 __paradox__  
+__paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
 __paragon__ _n_ :five: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __paralysis__ _n_ :mega:  
@@ -9672,7 +9678,7 @@ __radical candor__
 __radiometer__ _n_ :two::hammer:  
 __radiosonde__ _n_ :four::hammer:  
 __radish__  
-__radome__ _n_  
+__radome__ _n_ :two::hammer:  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
@@ -10390,7 +10396,7 @@ __samovar__ _n_
 __sanctuary city__ :two::hammer: _Mayor Rahm Emanuel of Chicago has declared that it "will always be a sanctuary city."_  
 __sand spits__  
 __sand<sup>1</sup>__ _n_ _You got sand._  
-__sand<sup>2</sup>__ _v_ _Sanding the wood._  
+__sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
 __sandbag__ :two::hammer: (sandbags)  
 __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
 __sandpits__ _n_  
@@ -10419,7 +10425,7 @@ __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an at
 __sashimi__ _n_  
 __sass__ _v_ (sassed)  
 __sassy__ _adj_ :two::hammer:  
-__SAT__ _trademark_ :two: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
+__SAT__ _trademark_ :three: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __satchel__ _n_ :two::hammer:  
 __sated__ _v_  
 __Saturday__ :mega: /'sæÔødi, -deI/  
@@ -11115,7 +11121,7 @@ __sleep deprivation__
 __sleep in__ _v_  
 __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
-__sleepover__  
+__sleepover__ _n_ :two::hammer:  
 __sleepsuit__ _n_  
 __sleepwalking__  
 __sleepwear__ :two::hammer: (vs sportswerar, etc.)  
@@ -11669,6 +11675,7 @@ __stand out__ _The dragons are notoriously varied in phisique--they'd stand out 
 __stand strong__  
 __stand tall__ :three::hammer: _She's standing tall and proud._  
 __stand to reason__ :two::hammer: _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
+__stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between "stand" and "up." _I'm sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __standard__ _n_ :camera: :es: estandarte (?)  
 __standby__ _The old standby._  
 __standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
@@ -12189,7 +12196,7 @@ __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo
 __tacky__ :two::hammer:  
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
-__tad__ _n informal_ :three::hammer:  
+__tad__ _n informal_ :four::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ :two::hammer: _Our big tagline is to help others._  
@@ -13210,7 +13217,7 @@ __Utans__
 __utes__ _n_ (cars?)  
 __utilitarian__  
 __utility room__  
-__utility<sup>1</sup>__ _n_ __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
+__utility<sup>1</sup>__ _n_ :two: __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
 __utmost__ _adj_ :five::hammer:  
 __utterance__  
@@ -13501,7 +13508,7 @@ __wayposts__
 __wayside__ _n_ :two::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
-__wealth__ _n_ _They were furnished with a wealth of new information._  
+__wealth__ _n_ :two::dart::hammer: _They were furnished with a wealth of new information._ _A wealth of new data._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :four::hammer:  

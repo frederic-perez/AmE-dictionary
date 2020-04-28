@@ -1,27 +1,5 @@
 
 
-__eulogy__ _n_  
-__stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between "stand" and "up." _I'm sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
-__sand__ _v_ (sanded)  
-__tad__ _n_  
-__give in__ _phr v_ __1__ To hand in; submit: _She gave in her report._ __2__ To cease opposition; yield.  
-__on steroids__  
-__leap of faith__  
-__ensuite__ _n_  
-__sleepover__ _n_  
-__SAT__  
-
-__bow__ _The bow of the ship._  
-__helipad__  
-__ice floe__ :three::hammer:  
-__DOY__ _abbr_ Day of year.  
-__paradoxically__  
-__dissipate__ _v_  
-__budget__ :two::hammer: _The surface energy budget._  
-__radome__ _n_  
-__utility__ _Utility companies._  
-__wealth__ :dart: _A wealth of new data._  
-
 __alienist__ _n_ A psychiatrist and specialist in the legal aspects of mental illness.  
 __flag-wavingÇ__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
 __frisson__ _n_ A sudden strong feeling of excitement, fear, or pleasure.  
