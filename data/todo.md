@@ -1,5 +1,16 @@
 
 
+__straight-arrow__ _adj_ _They were hopelessly straight-arrow._  
+__ruefully__  
+__wheeler-dealer__ _n_ _informal_ :dart: One who advances one's own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin'._  
+__prop__ _v_ (propped) _His chin was propped in his hands._  
+__affidavit__  
+__frisk__ _v_ (frisking)  
+__confer__ _v_ (conferred)  
+__factotum__ _n_ A general assistant, engaged to do all varieties of work.  
+__contrite__  
+__plopped__ _v_  
+
 __alienist__ _n_ A psychiatrist and specialist in the legal aspects of mental illness.  
 __flag-wavingÇ__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
 __frisson__ _n_ A sudden strong feeling of excitement, fear, or pleasure.  
