@@ -1,5 +1,16 @@
 
 
+__high roller__ _n_ __1__ A gambler who wagers large sums. __2__ One who spends lavishly and ostentatiously on entertainment.  
+__smolder__  
+__armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
+__hinterland__ _n_  
+__prissy__ _adj_ _A prissy mustache._  
+__bat an eye__ To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn't even bat an eye when I told her I was moving out._  
+__soldier of fortune__ _n_ a person who seeks riches or pleasure through adventurous, often military exploits.  
+__hustler__ _An elderly mortgage hustler._  
+__a bad penny__ _idiom_ A person with no value. Typically used in the proverb _"A bad penny always turns up."_  
+__hectic__  
+
 __anathema__ _n_  
 __counterfeit__ _adj_ _Counterfeit money._  
 __thunder__ _v_ To express violently, commandingly, or angrily; roar.  
