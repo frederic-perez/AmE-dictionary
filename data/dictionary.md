@@ -191,7 +191,7 @@ __aerials__
 __aero-hydroponics__  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
-__affidavit__ _n_ :five::hammer:  
+__affidavit__ _n_ :six::hammer:  
 __affiliate__  
 __affix__ _v_  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
@@ -277,6 +277,7 @@ __alfresco<sup>1</sup>__ _adv_
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
+__alienist__ _n_ A psychiatrist and specialist in the legal aspects of mental illness.  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
@@ -2192,6 +2193,7 @@ __churn__ _v_
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
+__chyron__ _n_ A caption superimposed over usually the lower part of a video image (as during a news broadcast).  
 __CID__  
 __cigar__ _n_ :mega:  
 __cigarette stub__ _n_ Another name for a cigarette butt.  
@@ -2541,6 +2543,7 @@ __confederacy__
 __Confederate flag__  
 __confederate<sup>1</sup>__ _adj_  
 __confederate<sup>2</sup>__ _n_  
+__confer__ _v_ (conferred)  
 __conference call__  
 __conferred__ _v_  
 __confidant__ _n_ :seven::hammer: (also confidante)  
@@ -2606,7 +2609,7 @@ __contranym__ _n_ A word that has opposite or nearly opposite meanings, as _clea
 __contraption__  
 __contrarian__  
 __contretemps__  
-__contrite__ _adj_ :four::hammer:  
+__contrite__ _adj_ :five::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :three::hammer:  
 __contrive__ _v_ :two::hammer: (contriving)  
@@ -3133,6 +3136,7 @@ __deconstruct__ _v_
 __decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle's most decorated chefs._  
 __decreed__ _v_  
 __decrepit__  
+__decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __dedication__  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
@@ -4224,6 +4228,7 @@ __fact sheet__
 __faction__ _n_  
 __factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
 __factor in__ _v_ :two::hammer:  
+__factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
 __fad__ _n_  
 __faeces__ _n_  
@@ -4508,6 +4513,7 @@ __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)
 __flabbergasted__ _adj_  
 __flaccid__ _adj_  
 __flag-stop service__  
+__flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
 __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
@@ -4857,8 +4863,8 @@ __frill__ _v_
 __frilled__ _Frilled apron._  
 __frilly__  
 __fringe__  
-__frisk__ _v_ :five::hammer: (frisked) _I have to frisk you._  
-__frisson__  
+__frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
+__frisson__ _n_ :two: A sudden strong feeling of excitement, fear, or pleasure.  
 __frites__ _Steak frites._  
 __fritter__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
 __fritters__ _Corn fritters._  
@@ -5710,10 +5716,11 @@ __haunt__ _v_
 __haunted__ _Billy Lynn's haunted face._  
 __hauteur__  
 __have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one's past.  
-__have (got) (someone's) back__ _idiom_ :two: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance.  
+__have (got) (someone's) back__ _idiom_ :three: To be willing and prepared to help or defend someone; to look out for someone in case he or she needs assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
 __have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
+__have (someone's) blood on (one's) head__ _idiom_ To be the cause of (someone's) death; to bear the guilt or responsibility of (someone's) death or injury.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
@@ -9088,7 +9095,7 @@ __plight__ _n_ :six: Tough situation.
 __plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :seven::hammer: (plodded, plodding) _Plod to the shower._  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
-__plop<sup>2</sup>__ _v_ :six: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
+__plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
 __plot__ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
 __plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
 __plovers__  
@@ -9407,7 +9414,7 @@ __pronged__
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
 __pronounceable__  
 __prop up__ _But with her leg propped up._  
-__prop__ _v_  
+__prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._  
 __propaganda__ _n_ :astonished:  
 __proper__ :two::hammer: _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
@@ -10285,7 +10292,7 @@ __rude__
 __rudiment__ _n_  
 __rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :three::dart::hammer: _He gave a rueful smile._  
-__ruefully__ _adv_ :four::hammer:  
+__ruefully__ _adv_ :five::hammer:  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
@@ -11871,6 +11878,7 @@ __strafing__
 __straggler__ _n_  
 __straggly__  
 __straight-A student__  
+__straight-arrow__ _adj_ _They were hopelessly straight-arrow._  
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straighten__ _v_ (straightened) To make or become straight. _We straightened the problems out._  
@@ -12288,7 +12296,7 @@ __tarpon__
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
 __tarry__ _v_ :three::hammer: (tarried)  
-__tart__ _adj_ :three::hammer: _She'd bitten into something overly tart._  
+__tart__ _adj_ :four::hammer: _She'd bitten into something overly tart._  
 __tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._  
 __tartar__ _n_  
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
@@ -12519,7 +12527,7 @@ __thrust<sup>1</sup>__ _v_ :two::hammer:
 __thrust<sup>2</sup>__ _n_ :three::hammer:  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
-__thug__ :two::hammer:  
+__thug__ _n_ :three: A tough and violent man, esp a criminal.  
 __thumb tacks__  
 __thumb war__  
 __thumb__ _v_ :two::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
@@ -13460,7 +13468,7 @@ __ward off__ _phr v_ To prevent.
 __wardrobe__ _n_ _Left Bank wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
-__wares__ _n_ :two::hammer: _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
+__wares__ _pl n_ :three: Goods for sale. _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
 __warhead__ _n_  
 __warily__  
 __wariness__  
@@ -13587,6 +13595,7 @@ __wheel__ _v_ :mute:[w~~h~~eel]
 __wheelbarrow__  
 __wheelbarrow-sledges__  
 __wheeled__ _v_ _Shallows dipped and wheeled._  
+__wheeler-dealer__ _n_ _informal_ :dart: One who advances one's own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin'._  
 __wheelie__  
 __wheelwright__ _n_  
 __wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick. _Wheezing economy._  

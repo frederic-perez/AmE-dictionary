@@ -1,27 +1,5 @@
 
 
-__straight-arrow__ _adj_ _They were hopelessly straight-arrow._  
-__ruefully__  
-__wheeler-dealer__ _n_ _informal_ :dart: One who advances one's own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin'._  
-__prop__ _v_ (propped) _His chin was propped in his hands._  
-__affidavit__  
-__frisk__ _v_ (frisking)  
-__confer__ _v_ (conferred)  
-__factotum__ _n_ A general assistant, engaged to do all varieties of work.  
-__contrite__  
-__plopped__ _v_  
-
-__alienist__ _n_ A psychiatrist and specialist in the legal aspects of mental illness.  
-__flag-wavingÇ__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
-__frisson__ _n_ A sudden strong feeling of excitement, fear, or pleasure.  
-__have (someone's) blood on (one's) head__ _idiom_ To be the cause of (someone's) death; to bear the guilt or responsibility of (someone's) death or injury.  
-__chyron__ _n A caption superimposed over usually the lower part of a video image (as during a news broadcast).  
-__wares__ _n pl_ Goods for sale.  
-__tart__  
-__decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
-__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case he or she needs assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._  
-__thug__ _n_ A tough and violent man, esp a criminal.  
-
 __anathema__ _n_  
 __counterfeit__ _adj_ _Counterfeit money._  
 __thunder__ _v_ To express violently, commandingly, or angrily; roar.  
