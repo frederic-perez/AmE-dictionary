@@ -1,5 +1,16 @@
 
 
+__porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
+__shylock__ _n_  
+__nabbing__ _v_  
+__solely__ _adv_  
+__nickle-and-dime__ _A nickle-and-dime con man._  
+__pestered__ _v_  
+__hitch__ _There was only a little hitch in this process to get their cash._  
+__erstwhile__  
+__nag__ _v_ :two::hammer:  
+__window dressing__  
+
 __high roller__ _n_ __1__ A gambler who wagers large sums. __2__ One who spends lavishly and ostentatiously on entertainment.  
 __smolder__  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
