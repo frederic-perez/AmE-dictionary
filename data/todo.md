@@ -1,5 +1,16 @@
 
 
+__strengthen__ _v_  
+__vulnerable__ _adj_  
+__arose__ _v_  
+__fast-track__ _v_  
+__spearhead__ _v_  
+__livelihoods__ _n_  
+__secretariat__ _n_
+__assimilation__ _n_  
+__Niger__  
+__flash-flood__  
+
 __porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
 __shylock__ _n_  
 __nabbing__ _v_  
