@@ -1,5 +1,17 @@
 
 
+__wanton__  
+__vantage point__ _n_ A position or place that affords a wide perspective.  
+__advisories__ _n_  
+__potbelly__ _n_  
+__ascot__ _n_  
+__diction__  
+__trilby__ A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
+__Garden State__ New Jersey.  
+__plonk__ _v_ (plonked)  
+__padded__ _He leaned back in his padded chair._  
+__spiel__ _n_  
+
 __tour de force__  
 __wanton__  
 __vantage point__ _n_ A position or place that affords a wide perspective.  
