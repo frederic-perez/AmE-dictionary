@@ -1,5 +1,16 @@
 
 
+__charred__  
+__surmountable__  
+__guises__ _n_ _The office is committed to diversity in all its guises._  
+__bespoke__ _They provide bespoke forecast for London Heathrow Airport._  
+__bad press__ _Drones get a lot of bad press._  
+__get a handle__ _UAVs are used to get a handle on what's going on._  
+__wingspan__ _n_  
+__copter__ _n_ :two::hammer:  
+__farther__  
+__out-of-the-box__  
+
 __perennial__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant's roots forming a symbiotic or parasitic relationship.  
 __chlorophyll__ _n_  
