@@ -1,5 +1,16 @@
 
 
+__easy street, on__ _idiom_ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
+__in tall cotton__ _idiom_ In a time or period of great success or wellbeing; doing very well.  
+__comely__ _adj_ Very pleasing to the eye. _Syn_ bonny, sightly, fair  
+__contend__ _v_ __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
+__disingenuous__ _adj_ Not really honest or sincere, and only pretending to be.  
+__warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
+__put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
+__garnish__ _v_ __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
+__have the say__ _idiom_ To have the ultimate authority to command, control, or make a decision.  
+__taradiddle__ _n_  
+
 __wanton__  
 __vantage point__ _n_ A position or place that affords a wide perspective.  
 __advisories__ _n_  
