@@ -1,5 +1,16 @@
 
 
+__parsimony__ _n_  
+__slip-up__ _n_  
+__thunk__ _n_  
+__thunked__ _v_  
+__giggles__ _n_  
+__pogroms__ _n_  
+__headdress__ _n_ :pencil2:  
+__self-conscious__  
+__burnoose__ _n_  
+__recounting__ _n_  
+
 __charred__  
 __surmountable__  
 __guises__ _n_ _The office is committed to diversity in all its guises._  
