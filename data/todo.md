@@ -1,5 +1,16 @@
 
 
+__case the joint__  
+__haemodialysis__ _n_  
+__crepe rubber__ _n_ (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
+__covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
+__lecture__ _n_  
+__philanthropy__ _n_  
+__evanescent__ _adj_  
+__evanesce__ _v_  
+__sandpaper__ _n_  
+__go-kart__ _n_ (go-cart) A small low motor vehicle with four wheels and an open framework; used for racing.  
+
 __parsimony__ _n_  
 __slip-up__ _n_  
 __thunk__ _n_  
