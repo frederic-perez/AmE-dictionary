@@ -1,5 +1,16 @@
 
 
+__catch a snooze__ _idiom_ To sleep or take a nap, especially of a short duration.  
+__scuttlebutt__ _n_ Stories about someone’s personal life, especially ones that contain unkind or false information.  
+__comity__ _n_ A state or atmosphere of harmony or mutual civility and respect.  
+__high note__ _idiom_ The most successful, impressive, or climactic point (of something).  
+__abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
+__annuity__ _n_  
+__have the goods on (someone)__ _idiom_ To have incriminating evidence or proof against someone. _We know he's guilty, but we can't arrest him until we have the goods on him._  
+__chintzy__ _adj_ Embarrassingly stingy. _Syn_ cheap  
+__have the heart (to do something)__ _idiom_ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn't have the heart to tell her that I didn't love her anymore._  
+__stepper__ _n_ A professional dancer. _Syn_ hoofer  
+
 __case the joint__  
 __haemodialysis__ _n_  
 __crepe rubber__ _n_ (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
