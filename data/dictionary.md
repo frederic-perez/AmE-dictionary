@@ -61,6 +61,7 @@ __aberrant__ _adj_
 __aberration__ _n_  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
+__abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
@@ -393,7 +394,7 @@ __annex__ _n_
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
 __annihilation__ :pencil2::mega:  
 __anniversary__ :pencil2::mega:  
-__annuity__ (annuities) :two::hammer:  
+__annuity__ _n_ (annuities) :three::hammer:  
 __annum__ _n_  
 __anodized__ _v_ :two::hammer:  
 __anomic__  
@@ -1910,7 +1911,7 @@ __cascading__
 __case at hand__  
 __case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case study__  
-__case the joint__  
+__case the joint__ :two::hammer:  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash cow__ _idiom_ A product or business that always makes a lot of profit.  
@@ -1951,6 +1952,7 @@ __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity 
 __catcall__ _v_  
 __catcalling__ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
+__catch a snooze__ _idiom_ To sleep or take a nap, especially of a short duration.  
 __catch hell__ _I'd catch hell for it._  
 __catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __catch onto (something)__ _idiom_  
@@ -2134,6 +2136,7 @@ __chimera__ _n_ (chimeras) :two::hammer:
 __chiming__ :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
+__chintzy__ _adj_ Embarrassingly stingy. _Syn_ cheap  
 __chip apart__  
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :four::hammer: (chipped in)  
@@ -2448,7 +2451,7 @@ __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy c
 __coming down the pipe__ :dart:  
 __coming up__  
 __coming-of-age__ _A coming-of-age story._  
-__comity__  
+__comity__ _n_ :two: A state or atmosphere of harmony or mutual civility and respect.  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
 __commend__ _v_ (commended)  
@@ -2740,6 +2743,7 @@ __courtyards__ _n_
 __covenant__ _n_ :five::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
 __cover all bases__  
 __cover charge__  
+__covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
 __coveted__ _v_ :two::hammer:  
 __covetous__  
@@ -2813,6 +2817,7 @@ __creep__ _n_ _The upward creep._
 __crenelated weir__  
 __creosote__  
 __crepe paper bells__  
+__crepe rubber__ :astonished: _n_ (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
 __crepe__  
 __Crescent City__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
@@ -4100,7 +4105,8 @@ __eulogy__ _n_ :four::hammer:
 __eunuch__ _n_  
 __eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
-__evanesce__ :mute:[evanes~~c~~e]  
+__evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
+__evanescent__ _adj_  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
@@ -5243,6 +5249,7 @@ __go without saying__ _It goes without saying: thinking in more effective ways a
 __go-ahead goal__  
 __go-for-broke__  
 __go-getter__  
+__go-kart__ _n_ (go-cart) A small low motor vehicle with four wheels and an open framework; used for racing.  
 __go-pills__ _n_  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
 __go-to__ _The go-to method for 3D printing._  
@@ -5562,6 +5569,7 @@ __hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._
 __hackles__ _n_ :two::hammer:  
 __hackneyed__ :two::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
+__haemodialysis__ _n_  
 __haemophilia__  
 __haft sin__  
 __haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
@@ -5749,6 +5757,8 @@ __have rocks in (one's) head__ _idiom_ To be thoroughly stupid, crazy, absurd, i
 __have seen (one's) day__ _idiom_ To be beyond one's prime; to be no longer useful, effective, or functional.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have someone's back__  
+__have the goods on (someone)__ _idiom_ To have incriminating evidence or proof against someone. _We know he's guilty, but we can't arrest him until we have the goods on him._  
+__have the heart (to do something)__ _idiom_ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn't have the heart to tell her that I didn't love her anymore._  
 __have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
 __have your head in the clouds__ _idiom_ :two: To be separate from reality, to dream.  
 __have-not__ _n_ A person with few or no possessions.  
@@ -5905,6 +5915,7 @@ __hideous__ _adj_ :four: Very ugly. _A hideous practice._
 __Higgs boson__ :two::hammer: (popularly known as the "God particle.")  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
+__high note__ _idiom_ The most successful, impressive, or climactic point (of something).  
 __high places__ _I've friends in high places._  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _idiom_ Someone who gambles with large amounts of money.  
@@ -7016,6 +7027,7 @@ __leaven__ _To leaven the raunch and swagger._
 __leavings__ _n_  
 __lecher__  
 __lectern__  
+__lecture__ _n_  
 __ledge__ :two::hammer: _Adam turned and sat on the ledge._  
 __ledger__ _n_ :nine:::m: __1__ An accounting journal as a physical object. _A heavy account ledger._ __2__ A slab of stone laid flat over a grave. __3__ A horizontal timber in a scaffold, attached to the uprights and supporting the putlogs.  
 __lee__ _In the lee of the wagon._  
@@ -8870,6 +8882,7 @@ __phew__ _interj_ Used to express relief, fatigue, surprise, or disgust.
 __phials__ _n_ _Several glass phials of dirty white meth crystals._  
 __philanderer__  
 __philandering__  
+__philanthropy__ _n_  
 __Philly__ _n_ :three: Philadelphia  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
@@ -10406,6 +10419,7 @@ __sand<sup>1</sup>__ _n_ _You got sand._
 __sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
 __sandbag__ :two::hammer: (sandbags)  
 __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
+__sandpaper__ _n_  
 __sandpits__ _n_  
 __sandstone__  
 __sandwich__ :mute:[san~~d~~wich]  
@@ -10595,6 +10609,7 @@ __scuppers__ _n_ :two::hammer:
 __scurry__ _v_  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
+__scuttlebutt__ _n_ Stories about someone’s personal life, especially ones that contain unkind or false information.  
 __scuzzy__  
 __scythe<sup>1</sup>__ _n_ (scythes) :two::hammer:  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
@@ -11770,6 +11785,7 @@ __Step 'n' Fetch It routine__
 __step up__ _v_ :four::hammer:  
 __stepfather__ _(vs godfather)_  
 __stepladder__ _n_  
+__stepper__ _n_ A professional dancer. _Syn_ hoofer  
 __steppes__ _n_  
 __stepping stone__  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
