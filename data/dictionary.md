@@ -711,6 +711,7 @@ __bad actor__
 __bad apple__ A troublemaker.  
 __bad blood__ :two::hammer:  
 __bad egg__ _n_ _informal_ :two: Someone who behaves in a bad or dishonest way.  
+__bad press__ _Drones get a lot of bad press._  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
 __bad-mouth__ _v_ _informal_ :three: Criticize (someone) behind their back.  
@@ -1025,7 +1026,7 @@ __besmeared__ _v_
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
-__bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._  
+__bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
 __best__ _v_ :two::hammer: (bested)  
@@ -1641,6 +1642,7 @@ __burn your bridges__ _idiom_ To destroy all possible ways of going back to a si
 __burners__ (gas cooktop) :camera:  
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
+__burnoose__ _n_  
 __burp__ :two::hammer:  
 __burpee__ _n_  
 __burqa__  
@@ -2065,7 +2067,7 @@ __charily__
 __charisma__ :mute:[c~~h~~arisma]  
 __charlatan__ _n_  
 __charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
-__charred__ _adj_ Burnt and blackened.  
+__charred__ _adj_ :two: Burnt and blackened.  
 __charted__  
 __charter__ _Charter schools._  
 __charter<sup>1</sup>__ _n_ :two::hammer:  
@@ -2656,7 +2658,7 @@ __coppice__ _n_
 __copping__ _v_ :two::hammer: _You're copping to a murder beef._  
 __cops and robbers__ (play)  
 __copse__ _n_ :three::hammer: _A brushy copse._  
-__copter__ _Navi copter._  
+__copter__ _n_ :three::hammer: _Navy copter._  
 __Coptic__  
 __coracle__ :two::hammer: (coracles)  
 __cord blood__  
@@ -2817,7 +2819,7 @@ __creep__ _n_ _The upward creep._
 __crenelated weir__  
 __creosote__  
 __crepe paper bells__  
-__crepe rubber__ :astonished: _n_ (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
+__crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
 __crepe__  
 __Crescent City__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
@@ -4299,7 +4301,7 @@ __farfetch__ _v_ (farfetched)
 __farflung__ _Farflung operations and profits._  
 __farouche__ _adj_  
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
-__farther__  
+__farther__ :two::hammer:  
 __farthest-flung__ _Identify dangers in the farthest-flung corners._  
 __farthing__  
 __fascia__ _n_ :two::hammer:_The car dashboard fascias._  
@@ -5080,6 +5082,7 @@ __get (one's) ears lowered__ _idiom_ To get a haircut, especially to a length th
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 __get a grip__  
+__get a handle__ _UAVs are used to get a handle on what's going on._  
 __get a jump__ _Get a jump on things._  
 __get a kick out of (someone or something)__ _idiom_ :five::hammer: _You'll get a kick out of this!_  
 __get ahold__  
@@ -5133,6 +5136,7 @@ __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘G
 __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
 __gig<sup>2</sup>__ _v_ :two::hammer: (gigging)  
+__giggles__ _n_  
 __giggling__  
 __gills > packed to the gills__ _idiom_ :two: Completely full; teeming; having no room to spare. _I've got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother's Thanksgiving meal._  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
@@ -5500,7 +5504,7 @@ __guilt complex__ _idiom_ A very strong and persistent feeling of guilt regardin
 __guilt__ :mute:[g~~u~~ilt]  
 __guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people. _I know these gossip magazines are trashy, but reading them on my commute home is my guilty pleasure!_  
 __guinea pig__ :mega:  
-__guise__  
+__guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
 __guitar case__ :camera:  
 __guitar__ :mute:[g~~u~~itar]  
 __Gulag__ _n_ :two::hammer:  
@@ -5789,7 +5793,7 @@ __head wind__
 __head__ _v_ _Head to Freakonomics.com._  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
 __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._  
-__headdress__ _n_ :two::hammer: _The pharaoh's headdress._  
+__headdress__ _n_ :three::pencil2::hammer: _The pharaoh's headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
 __heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
@@ -8420,6 +8424,7 @@ __out of the blue__
 __out of the woods__  
 __out of this world__ _idiom_ Extremely good.  
 __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
+__out-of-the-box__  
 __outage__ _n_ :two::hammer: _Power outages._  
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
@@ -8665,6 +8670,7 @@ __parroting__ _v_
 __parry__ _v_  
 __parse__ _v_  
 __parsimonious__ _adj_ :two::hammer: _Syn_ stingy, penurious  
+__parsimony__ _n_  
 __parsley__  
 __parsnip__  
 __parsonage__ :pencil2:  
@@ -9152,7 +9158,7 @@ __podiatrist__ _n_
 __podjo__  
 __podna__ :two::hammer:  
 __Podunk town__  
-__pogrom__ _n_ :three::hammer: (pogroms)  
+__pogrom__ _n_ :four::hammer: (pogroms)  
 __poignance__ _n_  
 __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ :pencil2:  
@@ -9881,7 +9887,7 @@ __reconcile__ _v_
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
-__recounting__ _His recounting._  
+__recounting__ _n_ :two::hammer: _His recounting._  
 __recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
 __recreational__ _Recreational marijuana vs medical marijuana._  
@@ -10670,7 +10676,7 @@ __seldom__ :two::hammer: _People seldom think about their values consciously._
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-assured__ _adj_ :two: Having or showing confidence and poise.  
-__self-conscious__ _adj_  
+__self-conscious__ _adj_ :two::hammer:  
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
@@ -11173,7 +11179,7 @@ __slinger__
 __slink<sup>1</sup>__ _v_ :two: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
 __slip up<sup>1</sup>__ _v_  
-__slip up<sup>2</sup>__ _n_  
+__slip up<sup>2</sup>__ _n_ :two::hammer: (slip-up)  
 __slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even the smallest of slips would alert that man to her presence._  
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__ _n_ :two::hammer:  
@@ -12097,6 +12103,7 @@ __surliness__
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__ _v_ :four::hammer: (surmised, surmising)  
 __surmount__ _v_ :two::hammer: (surmounted)  
+__surmountable__  
 __surname__ :two::mega::hammer:  
 __surplice__ _n_  
 __surprise, surprise__ _idiom_ :two: Said ironically of or in a situation in which something very predictable has happened.  
@@ -12553,7 +12560,9 @@ __thumping__ _A thumping majority._
 __thundered__ _v_  
 __thunderheads__  
 __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
-__thunk__ _v_ _A thunking sound._  
+__thunk<sup>1</sup>__ _n_  
+__thunk<sup>2</sup>__ _v_ _A thunking sound._  
+__thunked__ _v_  
 __Thursday__ :mega: /'θøzdi, -deI/  
 __thusly__  
 __thwack__ (thwacks) :two::hammer:  
@@ -13748,6 +13757,7 @@ __wine list__ _The wine list._ :es: la carta de vinos
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
 __winger__ _n_ (soccer) :two::hammer:  
 __winging__ _v_  
+__wingspan__ _n_  
 __wingtips__  
 __winking__ _v_  
 __winnow__ _v_ :four::hammer: (winnowed, winnowing) _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
