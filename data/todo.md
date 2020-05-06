@@ -1,27 +1,5 @@
 
 
-__perennial__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
-__mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant's roots forming a symbiotic or parasitic relationship.  
-__chlorophyll__ _n_  
-__respite__ _n_  
-__dialysis__ _n_  
-__custard__ _n_ :es: natillas, flan  
-__touch base (with someone)__ _idiom_ To contact someone to update them or receive an update from them. _I was just calling to touch base since it's been a few weeks since we last spoke._ _Syn_ get in touch, connect  
-__baffle__ _v_  To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._  
-
-__easy street, on__ _idiom_ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
-__in tall cotton__ _idiom_ In a time or period of great success or wellbeing; doing very well.  
-__comely__ _adj_ Very pleasing to the eye. _Syn_ bonny, sightly, fair  
-__contend__ _v_ __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
-__disingenuous__ _adj_ Not really honest or sincere, and only pretending to be.  
-__warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
-__put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
-__garnish__ _v_ __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
-__have the say__ _idiom_ To have the ultimate authority to command, control, or make a decision.  
-__taradiddle__ _n_  
-
-__wanton__  
-__vantage point__ _n_ A position or place that affords a wide perspective.  
 __advisories__ _n_  
 __potbelly__ _n_  
 __ascot__ _n_  

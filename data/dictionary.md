@@ -725,7 +725,7 @@ __badinage__ _n_ :two::hammer:
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it's very painful._ _She wants him so badly!_  
 __baff__ _v_ (baffed)  
-__baffle__ _v_ :five::hammer: _Baffled children._  
+__baffle__ _v_ :six: (baffled) To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
 __baffling__ _Baffling season._  
@@ -2161,7 +2161,7 @@ __chit-chat__ _slang_ An informal conversation about things that are not importa
 __Chiuaua__  
 __chive__ _n_  
 __chivvied__  
-__chlorophyll__ _n_  
+__chlorophyll__ _n_ :two::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
@@ -2444,7 +2444,7 @@ __come to grips__
 __come to her senses__  
 __come to terms__ _idiom_ :three::hammer:  
 __come together__ _idiom_ :two::hammer:  
-__comely__ _adj_ _literary old-fashioned_ :four::hammer: _A comely smile._  
+__comely__ _adj_ _literary old-fashioned_ :five: Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
 __comforter sets__  
@@ -2596,7 +2596,7 @@ __contagion__
 __contempt__  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
-__contend__ _v_ :three::hammer: (contended)  
+__contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
 __content__ _adj_ :three::hammer:  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
@@ -2976,6 +2976,7 @@ __cushy job__ _idiom_ A job that is easy, stress-free, and/or very well paid.
 __cushy__ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :six::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
+__custard__ _n_ :es: natillas, flan  
 __custody__ _Finally my house returned to my custody._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __customs__ _n_ (at airport)  
@@ -3300,7 +3301,7 @@ __devote__ _v_ _We're devoting this episode to his paintings._
 __dewlaps__ _n_ :two::hammer:  
 __diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
 __diadem__  
-__dialysis__  
+__dialysis__ _n_ :two::hammer:  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
 __dibs__ _n_ :two::hammer:  
@@ -3418,7 +3419,7 @@ __dishwasher__ _I worked as a dishwasher._
 __dishy__  
 __disillusionment__  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
-__disingenuous__ _adj_ :two: Not really honest or sincere, and only pretending to be.  
+__disingenuous__ _adj_ :three: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinterest__  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
@@ -3834,6 +3835,7 @@ __easing__
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __easy as can be__  
 __easy chair__ _n_ A large, comfortable, upholstered chair.  
+__easy street, on__ _idiom_ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __easy-to-use__ _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
@@ -5016,7 +5018,7 @@ __garland__ _n_ :three::camera::hammer:_Garland motifs on carved oak paneling._ 
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnets__ _n_  
-__garnish__ _v_ :two::hammer:  
+__garnish__ _v_ :three: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
 __garrison__ _n_  
 __garroted__ _v_  
 __gars__ _n_ :three::hammer: _Alligator gars._  
@@ -5763,6 +5765,7 @@ __have someone pegged__ _She had me pegged on that, too._
 __have someone's back__  
 __have the goods on (someone)__ _idiom_ To have incriminating evidence or proof against someone. _We know he's guilty, but we can't arrest him until we have the goods on him._  
 __have the heart (to do something)__ _idiom_ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn't have the heart to tell her that I didn't love her anymore._  
+__have the say__ _idiom_ To have the ultimate authority to command, control, or make a decision.  
 __have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
 __have your head in the clouds__ _idiom_ :two: To be separate from reality, to dream.  
 __have-not__ _n_ A person with few or no possessions.  
@@ -6325,6 +6328,7 @@ __in retrospect__ _idiom_ Considering or analyzing the past, with the knowledge 
 __in short order__  
 __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
 __in stitches__ _idiom_  
+__in tall cotton__ _idiom_ In a time or period of great success or wellbeing; doing very well.  
 __in the black__ _idiom_ :two: Not in debt, profitable.  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the doghouse__ _idiom_ :two::hammer:  
@@ -7947,6 +7951,7 @@ __muzzle__ _n_ :four: A muzzle is a guard that covers an animal's mouth to keep 
 __my ass__  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
+__mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant's roots forming a symbiotic or parasitic relationship.  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myriad__ _adj_ :three: Very many.  
 __myrrh__ _n_ :pencil2: :es: mirra  
@@ -8828,7 +8833,8 @@ __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched o
 __percolate__ _v_  
 __percolator__ _n_  
 __peremptory__  
-__perennial__ _adj_ :three::hammer:  
+__perennial<sup>1</sup>__ _adj_ :three::hammer:  
+__perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __perfect storm__ _idiom_ :three: A critical or disastrous situation created by a powerful concurrence of factors.  
 __perfidious__  
 __perfidy__  
@@ -9583,6 +9589,7 @@ __put our heads together__ _idiiom_ To discuss or plan something together with o
 __put out__ _idiom_  
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
+__put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
 __put to the test__  
 __put up with__ _idiom_ :seven: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._  
 __putbacks__  
@@ -10045,7 +10052,7 @@ __resistance__
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__  
 __respirator__ _n_  
-__respite__ _n_ :nine: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
+__respite__ _n_ :nine::m: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
@@ -12307,6 +12314,7 @@ __tapped out__ _idiom_ Completely exhausted or depleted (of some resource). _A: 
 __taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _A bugler played taps._  
+__taradiddle__ _n_  
 __tardy__ :two::hammer:  
 __target ball__  
 __tariff__ _n_ :six::hammer: (tariffs)  
@@ -12764,7 +12772,7 @@ __tots__
 __totter__ _v_  
 __tottered__  
 __touch and go__  
-__touch base__ _v_ Establish communication with someone; _"did you finally connect with your long-lost cousin?"_ _Syn_ connect, get in touch  
+__touch base (with someone)__ _idiom_ :two: To contact someone to update them or receive an update from them. _I was just calling to touch base since it's been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touchline__  
 __touchy__ _adj_ :two::hammer:  
 __tough cookie__ _n_ :three: A very determined person.  
@@ -13293,7 +13301,7 @@ __vanish into thin air__ _idiom_ To disappear completely, without leaving a trac
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
-__vantage point__ _n_  
+__vantage point__ _n_ :two: A position or place that affords a wide perspective.  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _I'm with a beer smoking on my vape._  
 __vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
@@ -13484,7 +13492,7 @@ __wand__ _n_
 __wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
 __wane__ _v_ :four::hammer: (waning) _The waning hours._  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
-__wanton<sup>1</sup>__ _adj_ :five: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
+__wanton<sup>1</sup>__ _adj_ :six: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war stories__  
 __warble__ _v_ :three::hammer:  
@@ -13499,6 +13507,7 @@ __warily__
 __wariness__  
 __warlocks__  
 __warmer__ _n_ _Fragance warmer._  
+__warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a certain amount of time).  
 __warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
 __warren__ _n_ _A warren of hares._  
