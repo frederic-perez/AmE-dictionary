@@ -185,7 +185,8 @@ __adventitious__ _adj_ Associated with something by chance rather than as an int
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advice__ _This is my unsolicited advice._  
 __advisedly__  
-__advisory__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
+__advisory<sup>1</sup>__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
+__advisory<sup>2</sup>__ _n_ (advisories)  
 __advocacy__ :two::hammer:  
 __aegis__  
 __aerials__  
@@ -540,7 +541,7 @@ __ascendancy__ _Walt is in ascendancy in his criminal enterprise._
 __ascent__ :mute:[as~~c~~ent]  
 __ascertain__ _v_ :three::hammer:  
 __ascetic__  
-__ascot__  
+__ascot__ _n_ :two::hammer:  
 __ascribe__ _v_ :five::hammer: (ascribed)  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
@@ -3309,7 +3310,7 @@ __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women's situ
 __dichotomy__ :two::hammer:  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
-__diction__ _n_ :three::hammer: _The priest diction._  
+__diction__ _n_ :four::hammer: _The priest diction._  
 __diddle-shit__  
 __diddle-squat__  
 __die down__ _phr v_ To lose strength; subside: _The winds died down._  
@@ -5007,6 +5008,7 @@ __garbage island__
 __garbed__  
 __Garden of Eden__  
 __Garden of Gethsemane__  
+__Garden State__ New Jersey.  
 __gargantuan__  
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
@@ -8560,6 +8562,7 @@ __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package deal__  
 __package__ _n_ :mega: /păk′ĭj/  
+__padded__ _He leaned back in his padded chair._  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle<sup>1</sup>__ _n_  
 __paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._  
@@ -9119,6 +9122,7 @@ __plies__ _v_
 __plight__ _n_ :six: Tough situation.  
 __plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :seven::hammer: (plodded, plodding) _Plod to the shower._  
+__plonk__ _v_ (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
 __plot__ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
@@ -9256,6 +9260,7 @@ __pot brownies__ _n_ _Edibles like pot brownies._
 __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
 __potatoes__ :pencil2:  
+__potbelly__ _n_  
 __potent__ _adj_  
 __potentiometer__ _n_  
 __pothead__  
@@ -11519,7 +11524,7 @@ __spellbound__ _adj_
 __spendolie__  
 __spent rocket stages__ :camera:  
 __spew__ _v_ :six::hammer: (spewed) _Carbon-spewing coal power plants._  
-__spiel__  
+__spiel__ _n_ :two::hammer:  
 __spiffy__ :two::hammer:  
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You've seen a big water tank with a spigot hanging out over the train tracks._  
 __spike<sup>1</sup>__ _n_  
@@ -11937,7 +11942,7 @@ __streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regu
 __strech__ _He was awake for long streches of time._  
 __streetcar__  
 __streetwise__  
-__strengthen__ _v_  
+__strengthen__ _v_ :two::hammer:  
 __strenuous__ _adj_ :astonished::three::hammer:  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
@@ -12779,6 +12784,7 @@ __tough cookie__ _n_ :three: A very determined person.
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
 __toupee__ _n_  
+__tour de force__  
 __tourney__  
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_  
@@ -12886,6 +12892,7 @@ __trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + pe
 __trifle<sup>1</sup>__ _n_ :two::hammer:  
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
+__trilby__ A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
 __trill__ _n_ :four::hammer: (trills) _I felt a trill of excitement._  
 __trilling__  
 __trilobite__ _n_ :two::mega::hammer:  
@@ -13301,7 +13308,7 @@ __vanish into thin air__ _idiom_ To disappear completely, without leaving a trac
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
 __vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
-__vantage point__ _n_ :two: A position or place that affords a wide perspective.  
+__vantage point__ _n_ :three: A position or place that affords a wide perspective.  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _I'm with a beer smoking on my vape._  
 __vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
@@ -13492,7 +13499,7 @@ __wand__ _n_
 __wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
 __wane__ _v_ :four::hammer: (waning) _The waning hours._  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
-__wanton<sup>1</sup>__ _adj_ :six: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
+__wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war stories__  
 __warble__ _v_ :three::hammer:  
