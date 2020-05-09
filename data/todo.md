@@ -1,4 +1,14 @@
 
+__stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _Syn_ canary, fink, snitch  
+__canary__ _n_ _slang_ An informer. _Syn_ stool pigeon, fink, snitch  
+__fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch  
+__anodyne__ _n_ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller  
+__golden goose__ _idiom_ A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time.  
+__winded__ _adj_ :dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
+__get this show on the road__ _idiom_ To promptly begin or get something started.  
+__glad tidings__ _idiom_ Favorable, beneficial, or happy news. Usually used with the verbs "give" or "bring."  
+__well-founded__ _adj_ Based on sound reasoning or evidence.  
+__deliver__ _v_ _Al was a man who could deliver._  
 
 __pocket__ _v_  
 __coin__ _v_ _The first casino was coining millions._  
