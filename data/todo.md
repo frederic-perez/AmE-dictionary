@@ -1,4 +1,16 @@
 
+
+__schmooze__ _v_ (schmoozing) Talk idly or casually and in a friendly way.  
+__by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
+__stepping stone__  
+__detrimental__  
+__chime in__  
+__longstanding__ _adj_  
+__parasternal__ _adj_ Adjacent to the sternum.  
+__rendition__ _n_  
+__bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or injured persons).  
+__furlough__ _v_  
+
 __stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _Syn_ canary, fink, snitch  
 __canary__ _n_ _slang_ An informer. _Syn_ stool pigeon, fink, snitch  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch  
