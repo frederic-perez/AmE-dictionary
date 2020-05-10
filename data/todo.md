@@ -1,5 +1,16 @@
 
 
+__oblivious__ _adj_  
+__pull someone's leg__ _idiom_ To make a playful attempt to fool or deceive someone. _You're pulling my leg._  
+__uptake__ _n_ __4__ The act of accepting or taking up something on offer or available.  
+__pivotal__ _adj_  
+__recapitulate__ _v_  
+__tour de force__  
+__overly__ _They are overly simplistic._  
+__advent__ _n_  
+__adverse__ _adj_  
+__pepper__ _v_ (peppering)  
+
 __minnie__ _n_ A mother.  
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher's pet._  
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _"Sally" is a hypocorism for "Sarah"._  
