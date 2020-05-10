@@ -1,4 +1,16 @@
 
+
+__minnie__ _n_ A mother.  
+__pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher's pet._  
+__hypocorism__ _n_ A pet name, esp one using a diminutive affix: _"Sally" is a hypocorism for "Sarah"._  
+__suborn__ _v_  
+__infomania__ _n_ A condition of reduced concentration caused by continually responding to e-mail, text-messaging, etc.  
+__a golden hello__ _idiom_ A sum of money paid to a new employee as a benefit for being recruited by a company.  
+__mince__ _v_ (minced)  
+__megalomania__ _n_ __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
+__cloud of suspicion__ _idiom_ A general sentiment of suspicion of wrongdoing or illegality.  
+__ylem__ _n_ noun:  (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
+
 __straight-arrow__ :two::hammer:  
 __lifeblood__ _n_  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
