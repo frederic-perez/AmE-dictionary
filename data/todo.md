@@ -1,4 +1,14 @@
 
+__straight-arrow__ :two::hammer:  
+__lifeblood__ _n_  
+__recording__ _n_ _When I call, I get a recording. There is never anyone in._  
+__smoldered__ _v_  
+__tacky__ _adj_ _The office looked tacky._  
+__clear__ _v_ _Al had to clearn all meetings with Ed._  
+__dudgeon__ _n_  
+__informant__ _n_  
+__schlock__  
+__haphazard__  
 
 __infrasound__ _Infrasound can be detected in excess of 100 miles._  
 __in excess of__ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
