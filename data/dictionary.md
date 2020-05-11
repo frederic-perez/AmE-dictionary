@@ -31,6 +31,7 @@ __a falling out__ _idiom_ A severe quarrel or disagreement, especially one that 
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
+__a golden hello__ _idiom_ A sum of money paid to a new employee as a benefit for being recruited by a company.  
 __a good turn__ _idiom_ An action that is beneficial to another person in some way.  
 __a great many__ _idiom_ A very large number of (people, things, etc.).  
 __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
@@ -180,8 +181,9 @@ __adulation__
 __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __advanced in years__ _idiom_ Of an older age.  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
-__advent__ _n_ :seven::mega::hammer: _The advent of social media._  
+__advent__ _n_ :eight::mega::hammer: _The advent of social media._  
 __adventitious__ _adj_ Associated with something by chance rather than as an integral part; extrinsic.  
+__adverse__ _adj_  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advice__ _This is my unsolicited advice._  
 __advisedly__  
@@ -2325,6 +2327,7 @@ __clothespin__ _n_ :two::camera::hammer:
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __cloud nine__  
+__cloud of suspicion__ _idiom_ A general sentiment of suspicion of wrongdoing or illegality.  
 __cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 __cloud__ _v_ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
@@ -6211,6 +6214,7 @@ __hymnals__
 __hyperbolic__ _adj_ :five: Exaggerated.  
 __hyperopia__ _n_  
 __hypertensive__ _To be hypertensive._  
+__hypocorism__ _n_ A pet name, esp one using a diminutive affix: _"Sally" is a hypocorism for "Sarah"._  
 __hypocrisy__  
 __hypocritical__ :two::hammer::pencil2:  
 __hypoglycemia__  
@@ -6431,6 +6435,7 @@ __inflatable<sup>2</sup>__ _n_
 __influence-peddling__ _n_ :three::hammer:  
 __influencer__ _n_ :mega:  
 __influenza__ _n_ :two: _Syn_ flu, grippe  
+__infomania__ _n_ A condition of reduced concentration caused by continually responding to e-mail, text-messaging, etc.  
 __infomercial__ _n_  
 __infotainment system__  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
@@ -7581,7 +7586,7 @@ __meet up__
 __meet__ _n_ :two::hammer: _I started going to international meets._  
 __meet-and-greet__ _idiom_ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup._  
-__megalomania__  
+__megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
 __megalomaniac__ _n_ Someone who enjoys power over other people and always wants more of it.  
 __meh__  
 __mélange__ _n_  
@@ -7680,7 +7685,7 @@ __million__ _The project willl cost around $10 million._ (not ending with 's')
 __milquetoast__ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __mince (one's) words__ _idiom_  
-__mince<sup>1</sup>__ _v_ :three: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._  
+__mince<sup>1</sup>__ _v_ :four: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._  
 __mince<sup>2</sup>__ _n_  
 __mincemeat__  
 __mind__ _v_ _Mind the gap._  
@@ -7690,6 +7695,7 @@ __mindful__
 __mindset__ _n_  
 __minie balls__  
 __minion__ _n_ :two::hammer: (minions)  
+__minnie__ _n_ A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
 __minstrel__ :two::hammer:  
@@ -8229,7 +8235,7 @@ __obligation__
 __oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
 __oblivion__ _n_ :two::hammer:  
-__oblivious__ _adj_ :four::hammer: _He is very oblivious._  
+__oblivious__ _adj_ :five::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obo__ _abbr_ :two: Or best offer.  
 __obscene__ :mute:[obs~~c~~ene]  
@@ -8523,7 +8529,7 @@ __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin spac
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I'll top the bill, I'll overkill._  
 __overlay__ _n_  
-__overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
+__overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado _They are overly simplistic._  
 __overnight__ _The change will not happen overnight._  
 __overpass__ _n_  
 __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
@@ -8825,7 +8831,7 @@ __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. 
 __pep<sup>2</sup>__ _v_ (pepping)  
 __Pepe the frog__ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
 __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
-__pepper__ _v_ :five::hammer: (peppered) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
+__pepper__ _v_ :six::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __per diem__  
@@ -8874,6 +8880,7 @@ __pesky__
 __pester__ _v_  
 __pestilence__ _n_  
 __pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
+__pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher's pet._  
 __peter out__  
 __petite__  
 __petroglyphs__ _Ancient Indian petroglyph._  
@@ -9043,7 +9050,7 @@ __pittance__ _n_ :two::hammer:
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
 __pivot<sup>1</sup>__ _n_ :two::hammer:  
 __pivot<sup>2</sup>__ _v_  
-__pivotal__ :two::hammer:  
+__pivotal__ _adj_ :three::hammer:  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzle__ _n_ :two::hammer: (penis?)  
@@ -9515,7 +9522,7 @@ __pull (oneself) together__ _idiom_ :two: Calm down.
 __pull a U-ie__ _idiom_ To make a U-turn. Primarily heard in US, Australia.  
 __pull away__ :two::hammer:  
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
-__pull someone's leg__  
+__pull someone's leg__ _idiom_ :two: To make a playful attempt to fool or deceive someone. _You're pulling my leg._  
 __pull strings__  
 __pull your socks up__ _idiom_ To improve your work or behaviour.  
 __pull__ _v_ _I can't pull for someone else the same way._  
@@ -9881,6 +9888,7 @@ __recantation__ _n_ :two: A statement that one no longer holds a particular opin
 __recap__  
 __recap<sup>1</sup>__ _n informal_ :two::hammer: _The written recap of the meeting._  
 __recap<sup>2</sup>__ _v informal_ Recapitulate.  
+__recapitulate__ _v_  
 __recede__ _v_  
 __receipt__ :mute:[recei~~p~~t]  
 __receivership__  
@@ -12019,6 +12027,7 @@ __subjugate__ _v_
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
+__suborn__ _v_  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :four::mega: (subpoenaed)  
@@ -12784,7 +12793,7 @@ __tough cookie__ _n_ :three: A very determined person.
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
 __toupee__ _n_  
-__tour de force__  
+__tour de force__ :two::hammer:  
 __tourney__  
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_  
@@ -13246,7 +13255,7 @@ __upskirting__ _n_
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__ _n_ :two::hammer:  
+__uptake__ _n_ :three: __4__ The act of accepting or taking up something on offer or available.  
 __uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__ :two::hammer:  
@@ -13977,6 +13986,7 @@ __yin and yang__
 __yipped__ _v_  
 __yipping__ _v_  
 __yips__  
+__ylem__ _n_ noun: (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
 __yo__ _interj_ _slang_ :four: __1__ Used as a greeting or to attract someone's attention. __2__ Used to express emphasis: _Today's my birthday, yo._  
 __yo-yo__ _slang_ A stupid or crazy person.  
 __yo-yoing__  
