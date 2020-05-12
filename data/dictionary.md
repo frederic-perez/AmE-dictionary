@@ -340,6 +340,7 @@ __ambulate__ _v_ To walk from place to place; move about.
 __ambulation__ _n_ :two::hammer:  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
 __ameliorate__ _v_  
+__amenable__  
 __amends__  
 __amenity__ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
@@ -535,6 +536,7 @@ __as it happens,__ _idiom_ :two: Coincidentally; surprisingly; as a matter of fa
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
+__as of today__  
 __as we speak__ _idiom_ At this very moment.  
 __as yet__ _idiom_ Up to the present time; up to now.  
 __asana__ _n_ A posture or manner of sitting (as in the practice of Yoga).  
@@ -544,7 +546,7 @@ __ascent__ :mute:[as~~c~~ent]
 __ascertain__ _v_ :three::hammer:  
 __ascetic__  
 __ascot__ _n_ :two::hammer:  
-__ascribe__ _v_ :five::hammer: (ascribed)  
+__ascribe__ _v_ :six::hammer: (ascribed)  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
@@ -2272,7 +2274,7 @@ __cleanliness__
 __cleanse__ _v_  
 __cleanser__ _n_  
 __clear air__  
-__clear__ _v_ _Clearing the hurdle._  
+__clear__ _v_ :two::hammer: _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
 __clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam's guilt isn't so clear-cut._ _Syn_ definite  
 __clearances__ _n_  
@@ -3236,6 +3238,7 @@ __demure__ _adj_ :two::hammer:
 __demurely__ _adv_ :three::hammer:  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dendrites__ _n_ :two::hammer:  
+__dendritic__  
 __dengue fever__  
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
@@ -3756,6 +3759,7 @@ __duct__ _They damaged a very large AT&T phone duct._
 __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
 __dude__ _n_ Man, guy, friend.  
+__dudgeon__ _n_  
 __due diligence__ _n_ :seven: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due__ :two::hammer: _They travelled due south._  
 __due-diligence__  
@@ -4127,6 +4131,7 @@ __every other__ _A new cartoon will be published every other Sunday._
 __every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
 __every so often__ _adv_ :two: Occasionally. _Every so often she visits her father._  
+__everyday__ _adj_ Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ :two::hammer:  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn't evince surprise._  
@@ -4555,7 +4560,7 @@ __flap__ _n_ :three::hammer: _A flap of skin._ _There have been flaps over allow
 __flapjack__ _n_  
 __flaps__ _The sound of paper flaps on bicycle spokes._  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
-__flare<sup>1</sup>__ _n_ _He took an emergency flare from the glove box._  
+__flare<sup>1</sup>__ _n_ :two::hammer: _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
 __flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president's push to reduce caaarbon pollution._  
 __flash rust__ :camera:  
@@ -5656,6 +5661,7 @@ __hanks__ :pencil2: _Stringy hanks of blond hair._
 __hanky-panky__  
 __Hannukah__ (Chanukah)  
 __hantavirus__  
+__haphazard__  
 __haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
@@ -6325,7 +6331,7 @@ __in check__ _Keep those emotions in check._
 __in deep water__ _idiom_ To be in a difficult situation.  
 __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply "donkeys," of "donkey's ears" -where "ears" rhymes with "years" and alludes to the length of a donkey's ears.  
 __in droves__ _They will come in droves._  
-__in excess of__ :two::hammer: _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
+__in excess of__ :four::hammer: _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
@@ -6437,7 +6443,9 @@ __influencer__ _n_ :mega:
 __influenza__ _n_ :two: _Syn_ flu, grippe  
 __infomania__ _n_ A condition of reduced concentration caused by continually responding to e-mail, text-messaging, etc.  
 __infomercial__ _n_  
+__informant__ _n_  
 __infotainment system__  
+__infrasound__ _Infrasound can be detected in excess of 100 miles._  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrain__ _v_ To fix deeply or indelibly, as in the mind.  
@@ -7131,7 +7139,7 @@ __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state se
 __liege__  
 __lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __life preserver__ _n_ _Marty McFly's life preserver._  
-__lifeblood__ _n_ :two: The blood, as being necessary to life.  
+__lifeblood__ _n_ :three: The blood, as being necessary to life.  
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
@@ -9907,6 +9915,7 @@ __reconcile__ _v_
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __record haul__ _Ko, 17, finishes LPGA season with record haul._  
+__recording__ _n_ _When I call, I get a recording. There is never anyone in._  
 __recounting__ _n_ :two::hammer: _His recounting._  
 __recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
@@ -10349,6 +10358,7 @@ __rumdum__
 __rumhead__ _n_ An alcoholic.  
 __rummage__ _v_ :nine::hammer: (rummaged, rummaging)  
 __rummy__  
+__rumor has it__  
 __rumor mill__ _Fighting the rummor mill._  
 __rumple__ _v_ _His clothes were rumpled._  
 __run amok__ :two::hammer:  
@@ -10541,6 +10551,7 @@ __schism__ _n_ :three::hammer: :es: cisma
 __schlep__ _v_ :two::hammer:  
 __schlepping__ :two::hammer:  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
+__schlock__  
 __schlocky__  
 __schmooze__  
 __schmoozed__ _v_ :two::hammer: (schmoozing)  
@@ -11299,7 +11310,7 @@ __smock<sup>2</sup>__ _v_
 __smog__ _n_ :three::hammer:  
 __smoke__ _v_ _This person smokes me._  
 __smolder<sup>1</sup>__ _n_  
-__smolder<sup>2</sup>__ _v_ :eight: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
+__smolder<sup>2</sup>__ _v_ :nine: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
@@ -11920,7 +11931,7 @@ __strafing__
 __straggler__ _n_  
 __straggly__  
 __straight-A student__  
-__straight-arrow__ _adj_ _They were hopelessly straight-arrow._  
+__straight-arrow__ _adj_ :three::hammer: _They were hopelessly straight-arrow._  
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straighten__ _v_ (straightened) To make or become straight. _We straightened the problems out._  
@@ -12245,7 +12256,7 @@ __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they wo
 __tachometer__  
 __taciturn__  
 __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
-__tacky__ :two::hammer:  
+__tacky__ _adj_ :three::hammer: _The office looked tacky._  
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
@@ -13647,6 +13658,7 @@ __wheelbarrow-sledges__
 __wheeled__ _v_ _Shallows dipped and wheeled._  
 __wheeler-dealer__ _n_ _informal_ :dart: One who advances one's own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin'._  
 __wheelie__  
+__wheels are turning, the__ _idiom_ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __wheelwright__ _n_  
 __wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick. _Wheezing economy._  
 __whelp__  

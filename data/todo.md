@@ -1,27 +1,5 @@
 
 
-__straight-arrow__ :two::hammer:  
-__lifeblood__ _n_  
-__recording__ _n_ _When I call, I get a recording. There is never anyone in._  
-__smoldered__ _v_  
-__tacky__ _adj_ _The office looked tacky._  
-__clear__ _v_ _Al had to clearn all meetings with Ed._  
-__dudgeon__ _n_  
-__informant__ _n_  
-__schlock__  
-__haphazard__  
-
-__infrasound__ _Infrasound can be detected in excess of 100 miles._  
-__in excess of__ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
-__everyday__  
-__as of today__  
-__ascribe__ _v_  
-__rumor has it__  
-__amenable__  
-__dendritic__  
-__wheels are turning, the__ _idiom_  Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
-__flares__ _n_ _Flares fitted to aircraft._  
-
 __schmooze__ _v_ (schmoozing) Talk idly or casually and in a friendly way.  
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
 __stepping stone__  
