@@ -401,6 +401,7 @@ __anniversary__ :pencil2::mega:
 __annuity__ _n_ (annuities) :three::hammer:  
 __annum__ _n_  
 __anodized__ _v_ :two::hammer:  
+__anodyne__ _n_ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller  
 __anomic__  
 __anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anorak__ _n_ :two::hammer:  
@@ -915,6 +916,7 @@ __bedfellow__
 __bedlam__ :two::hammer:  
 __Bedouin__  
 __bedpan__ _n_  
+__bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or injured persons).  
 __bedridden__ _adj_ :three::hammer: _She was practically bedridden._  
 __bedrock__ _n_ :seven: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
@@ -1716,6 +1718,7 @@ __by any chance__ _idiom_ Used especially in questions, to ask whether something
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __by storm__  
 __by the book__  
+__by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
 __by the same token__  
 __by trade__ _idiom_ :two: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I'm an engineer by trade._  
 __by-the-numbers__ _The boxing sequences are by-the-numbers._  
@@ -1824,6 +1827,7 @@ __can't be bothered__ _idiom_ Unwilling or disinclined to make the effort necess
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
+__canary__ _n_ _slang_ An informer. _Syn_ stool pigeon, fink, snitch  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cane brakes__  
@@ -2138,7 +2142,7 @@ __chief<sup>2</sup>__ _n_ (chiefs)
 __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
-__chime in__ _phr v_  
+__chime in__ _phr v_ :two::hammer:  
 __chimera__ _n_ (chimeras) :two::hammer:  
 __chiming__ :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
@@ -3211,7 +3215,7 @@ __deliberate__
 __delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
-__deliver__ _v_ :two::hammer: _Republicans apparently cannot deliver._  
+__deliver__ _v_ :three::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._  
 __deliverance__ _n_ :four::hammer: _Hope and deliverance._  
 __delivered__ _On Thursday the No. 4-ranked Cougars delivered._  
 __delivers__  
@@ -3290,6 +3294,7 @@ __deterrence__ :two::hammer:
 __deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let's say there's a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won't commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__  
+__detrimental__  
 __detritus__ _n_  
 __deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
 __devastate__ _v_  
@@ -4486,7 +4491,7 @@ __finger-waggers__
 __finicky__ _adj_ :three:hammer:  
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
 __finitum__ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
-__fink__ _Family man to some, fink to others._  
+__fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
 __fintech__  
 __fir__ :two::hammer:  
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
@@ -4949,7 +4954,8 @@ __funny feeling__ _idiom_ An intuition or premonition about something; a sense o
 __funny stomach__  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
-__furlough__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
+__furlough<sup>1</sup>__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
+__furlough<sup>2</sup>__ _v_  
 __furnish__ _v_ :two::hammer: _They were furnished with a wealth of new information._ _To furnish suites of labs._  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
@@ -5121,6 +5127,7 @@ __get the gist__ _idiom_ To understand the central, essential, or general matter
 __get the knack of__ _idiom_ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the middle finger__  
 __get the the green light__ _idiom_ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
+__get this show on the road__ _idiom_ To promptly begin or get something started.  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get under someone's skin__ _idiom_  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
@@ -5180,6 +5187,7 @@ __give someone the creeps__ _idiom_ To make you feel frightened or nervous.
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __giveback__ _n_  
+__glad tidings__ _idiom_ Favorable, beneficial, or happy news. Usually used with the verbs "give" or "bring."  
 __glad-hand__ _v_  
 __gladdened__  
 __gladed__ _Gladed terrain._  
@@ -5293,7 +5301,7 @@ __gofer__ _n_ _slang_
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __Golden Boot__ _The race for the Golden Boot._  
-__golden goose__ _n_  
+__golden goose__ _idiom_ :two::hammer: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time.  
 __golden rule__  
 __goldfinch__ _n_ :es: jilguero  
 __golliwog__ _n_  
@@ -7269,7 +7277,7 @@ __longbow__ _n_ :three::hammer:
 __longhand__ _n_ :four: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
 __longitudinal__ _Longitudinal findings from the study._  
-__longstanding__ _adj_ :three::hammer:  
+__longstanding__ _adj_ :four::hammer:  
 __longtime__ _The longtime dictator._  
 __look back on__ _phr v_ To think about something that happened in the past.  
 __look down__ _v_  
@@ -8662,6 +8670,7 @@ __paraphilia__ _n_ :two::hammer:
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __paraprosdokian__  
 __parasailing__  
+__parasternal__ _adj_ Adjacent to the sternum.  
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _adj_ :three: Very dry. Very thirsty. _The dryness will encompass parched California._  
@@ -10031,7 +10040,7 @@ __render__ _v_ :two::hammer::astonished: _Cook bacon until about half the fat is
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
 __rendering plant__  
-__rendition__ _n_ :two: An interpretation of a musical score or a dramatic piece.  
+__rendition__ _n_ :three: An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People's Republic of China.  
 __renown__  
 __rent metal__  
@@ -10553,8 +10562,7 @@ __schlepping__ :two::hammer:
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
 __schlock__  
 __schlocky__  
-__schmooze__  
-__schmoozed__ _v_ :two::hammer: (schmoozing)  
+__schmooze__ _v_ :four: (schmoozed, schmoozing) Talk idly or casually and in a friendly way.  
 __schmuck__ _n_ _slang_ :three: (schmucks) A clumsy or stupid person; an oaf.  
 __schnapps__  
 __scholar__ :two::hammer: _Legal scholar._  
@@ -11824,7 +11832,7 @@ __stepfather__ _(vs godfather)_
 __stepladder__ _n_  
 __stepper__ _n_ A professional dancer. _Syn_ hoofer  
 __steppes__ _n_  
-__stepping stone__  
+__stepping stone__ :two::hammer:  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
 __sterling__ _n_ :three::hammer: _A sterling example._  
 __stern__ _n_ :two::hammer:  
@@ -11896,7 +11904,7 @@ __stone__ _n_ :three::hammer: _Lose a stone in four weeks._ _A 42-stone patient 
 __stone-walling__  
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
-__stool pigeon__ _n_ _slang_ A person acting as a decoy or as an informer, especially one who is a spy for the police. _A guard's stool pigeon._  
+__stool pigeon__ _n_ _slang_ :two: A person acting as a decoy or as an informer, especially one who is a spy for the police. _Syn_ canary, fink, snitch _A guard's stool pigeon._  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards. _Although stooped by age, her eyes were sharp._  
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :three::hammer: _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
@@ -13615,6 +13623,7 @@ __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group
 __well out__ _v_  
 __well-adjusted__ _adj_ Mentally or emotionally stable; not troubled or distressed: _a well-adjusted new student._  
 __well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile.  
+__well-founded__ _adj_ Based on sound reasoning or evidence.  
 __well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
 __well-rounded__ _adj_ :two::hammer:  
@@ -13781,7 +13790,7 @@ __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind down__ _phr v_ :two: To diminish gradually in force or power; relax.  
 __wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
-__winded__  
+__winded__ _adj_ :two::dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
 __windlass__  
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  
