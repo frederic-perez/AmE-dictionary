@@ -1,26 +1,5 @@
 
 
-__pocket__ _v_  
-__coin__ _v_ _The first casino was coining millions._  
-__to hell and back__ _idiom_ Through a difficult, trying, or perilous situation and having overcome it. _I'd go to hell and back for him._  
-__pounce__ _v_  
-__three-hour__ _adj_ :pencil2: _A three-hour drive._  
-__complimentary__ _Complimentary rooms._  
-__absconded__ _v_  
-__lithe__ _adj_ _A lithe cat._  
-__obstinate__  
-__over (one's) head__ _idiom_ __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie's head, so I'm glad you think I'm funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one's authority. _She just wouldn't listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don't get paid for another week. I'm so glad that exam is over—it's been over my head for months._  
-
-__vulnerable__ _adj_  
-__arose__ _v_  
-__fast-track__ _v_  
-__spearhead__ _v_  
-__livelihoods__ _n_  
-__secretariat__ _n_
-__assimilation__ _n_  
-__Niger__  
-__flash-flood__  
-
 __porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
 __shylock__ _n_  
 __nabbing__ _v_  

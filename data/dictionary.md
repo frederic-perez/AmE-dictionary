@@ -78,7 +78,7 @@ __abreast__ _adv_ :six: Side by side and facing the same way. _The path was wide
 __abrogation__ :two::hammer:  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
-__absconded__ _v_  
+__absconded__ _v_ :two::hammer:  
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
@@ -513,7 +513,7 @@ __armory__
 __arms embargo__  
 __arms race__  
 __armscye__ _n_  
-__arose__ _v_  
+__arose__ _v_ :two::hammer:  
 __around the clock__ _idiom_ :two: Without stopping. _Syn_ for 24 hours, round the clock  
 __around the corner__ _idiom_ :two: Going to happen soon.  
 __arpents__ _n_ :two::hammer:  
@@ -575,6 +575,7 @@ __assets__
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
 __assiduously__ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
+__assimilation__ _n_  
 __assists__ _Green had 14 rebounds and nine assists._  
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
@@ -2399,7 +2400,7 @@ __coif__ _Strange coif._
 __coiffed__  
 __coil__ _v_ :two::hammer:  
 __coin purse__  
-__coin__ _v_ :three::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._  
+__coin__ _v_ :four::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._ _The first casino was coining millions._  
 __coincided__ _v_  
 __coincidental__  
 __coincidentally__  
@@ -2496,7 +2497,7 @@ __complex__ :mega:
 __compliance__ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ :pencil2: _Notice the complimentary nature of the two deﬁnitions._  
+__complimentary__ :two::pencil2::hammer: _Complimentary rooms._ _Notice the complimentary nature of the two deﬁnitions._  
 __comply__ _v_  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
@@ -4324,6 +4325,7 @@ __fascia__ _n_ :two::hammer:_The car dashboard fascias._
 __fascinate__ :mute:[fas~~c~~inate]  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ :mega:  
+__fast-track__ _v_  
 __fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
 __fastidious__ _adj_ :four::hammer: _He was fastidious about showing off his collection._  
@@ -4571,6 +4573,7 @@ __flash point__ _n_ :three: The point at which eruption into significant action,
 __flash rust__ :camera:  
 __flash__  
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
+__flash-flood__  
 __flash-forward__ _Syn_ analepsis  
 __flashback__  
 __flashlight__ _n_  
@@ -7212,7 +7215,7 @@ __listless__ :two::hammer:
 __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate__ :two::hammer:  
-__lithe__ _adj_ :three::hammer:  
+__lithe__ _adj_ :four::hammer: _A lithe cat._  
 __lithotripsy__ _n_  
 __lithotripter__ _n_  
 __litigation__  
@@ -7222,7 +7225,7 @@ __litter__ _n_ :camera::pencil2:
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live wire__  
-__livelihood__ _n_ :dart::two: (livelihoods) Occupation or employment.  
+__livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
 __livid__  
@@ -8103,6 +8106,7 @@ __nicety__ _n_
 __niche__ _n_ :three::hammer:  
 __nickel__ _n_ _A nickel mine._  
 __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
 __nigh__ _adj_ :two: Near in space or time.  
@@ -8258,6 +8262,7 @@ __obscene__ :mute:[obs~~c~~ene]
 __obscure__ _v_  
 __obsequious__ _adj_ :two::hammer:  
 __obsidian__  
+__obstinate__  
 __obstreperousness__  
 __obtrude__ _v_  
 __obtuseness__  
@@ -8523,6 +8528,7 @@ __outtakes__ _n_
 __outthink__ _v_  
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
 __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
+__over (one's) head__ _idiom_ __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie's head, so I'm glad you think I'm funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one's authority. _She just wouldn't listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don't get paid for another week. I'm so glad that exam is over—it's been over my head for months._  
 __over one's head__ _He was over his head._  
 __over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphenated if used before a noun.)  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
@@ -8545,7 +8551,7 @@ __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin spac
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I'll top the bill, I'll overkill._  
 __overlay__ _n_  
-__overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado _They are overly simplistic._  
+__overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __overnight__ _The change will not happen overnight._  
 __overpass__ _n_  
 __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
@@ -9183,6 +9189,7 @@ __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electr
 __poacher__ _n_ :three::hammer: (poachers) _A chimpanzee that lost its mother to poachers._  
 __poaching__ :two::hammer: _Poaching has become socially unacceptable._  
 __pocket change__  
+__pocket__ _v_  
 __pockmarked__ :camera::two::hammer: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
@@ -9296,7 +9303,7 @@ __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._
 __pouch__ _n_  
 __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
-__pounce__ _v_ :three::hammer: (pounced)  
+__pounce__ _v_ :four::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pout__ _v_ :nine: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: The child's lips pouted.  
 __pouty__ _adj_  
@@ -10680,6 +10687,7 @@ __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She 
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ _n_ :four: Something that will help you gain a big advantage over your competitors, that they do not know about.  
+__secretariat__ _n_  
 __secular__ :two::hammer:  
 __secure__ _v_ _Go online now to secure your seat._  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
@@ -11529,7 +11537,7 @@ __speak up__ _v_ :two::hammer:
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
-__spearhead__ _v_ :seven: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specifically__  
@@ -12557,6 +12565,7 @@ __thrall__ _n_ :six::hammer:
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __thread the needle__  
 __Three Lions__ _A message to the Three Lions._  
+__three-hour__ _adj_ :pencil2: _A three-hour drive._  
 __thrifty__ _adj_ :two::hammer:  
 __thrilling__ _adj_  
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
@@ -12704,7 +12713,7 @@ __to be in someone's shoes__ _Nobody has been in my shoes._
 __to be in the clear__  
 __to date__ _idiom_ :three: Until now. _To date, no winners have attended._  
 __to have a point__ _He's got a point._  
-__to hell and back__ :two::hammer:  
+__to hell and back__ _idiom_ :three: Through a difficult, trying, or perilous situation and having overcome it. _I'd go to hell and back for him._  
 __to hell__  
 __to his name__ _Bernie died with $1.09 to his name._  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
@@ -13467,6 +13476,7 @@ __voucher__ _n_ :four: A small printed piece of paper that entitles the holder t
 __vouchsafed__  
 __vow__ _v_  
 __VTOL__ _n_ A vertical take-off and landing aircraft.  
+__vulnerable__ _adj_  
 __vying__ _v_ :seven: Present participle of vie.  
 __wacko<sup>1</sup>__ _n_ :two: Crazy person, lunatic.  
 __wacko<sup>2</sup>__ _adj_  
