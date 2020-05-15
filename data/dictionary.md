@@ -21,6 +21,7 @@ __21__ _n_ Drinking game.
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __800-pound gorilla__  
+__a bad penny__ _idiom_ A person with no value. Typically used in the proverb _"A bad penny always turns up."_  
 __a bird in the hand is worth two in the bush__  
 __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
@@ -507,6 +508,7 @@ __arm candy__ _idiom_ An especially attractive person who acts as a romantic esc
 __armageddon__  
 __armchair expert__ _idiom_  
 __armed to the teeth__ _idiom_ Fully armed, having many weapons.  
+__armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
 __armistice__ _n_ A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning "to come to a stand" or "to cause to stand or stop," combined with _arma_, meaning "weapons.  
 __armload__  
 __armory__  
@@ -850,6 +852,7 @@ __bass__ :two::hammer: (fish) _Fingerling bass._
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
 __bastion__ _n_ :three::hammer: _He tried to soften the National Front's image as a bastion of xenophobes._  
+__bat an eye__ To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn't even bat an eye when I told her I was moving out._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bate__ _v_ (bated) _They watched with bated breath._  
 __bath tissue__  
@@ -4094,7 +4097,7 @@ __err__ _"The well-being of your child os of paramount concern," he wrote in his
 __errand__ _n_ _He had an errand to run._  
 __errata__  
 __ersatz__ _adj_  
-__erstwhile__ :two::hammer:  
+__erstwhile__ _adj_ :three::hammer:  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
@@ -5867,7 +5870,7 @@ __heckled__ _v_
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :five::hammer:  
+__hectic__ _adj_ :six::hammer:  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
@@ -5947,7 +5950,7 @@ __high beams__
 __high note__ _idiom_ The most successful, impressive, or climactic point (of something).  
 __high places__ _I've friends in high places._  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
-__high roller__ _idiom_ Someone who gambles with large amounts of money.  
+__high roller__ _n_ :two: __1__ A gambler who wagers large sums. __2__ One who spends lavishly and ostentatiously on entertainment.  
 __high school__ _n_ A school especially in the U.S. usually including grades 9–12 or 10–12.  
 __high street__ _n_ _British informal_ :three::hammer:  
 __high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
@@ -5973,7 +5976,7 @@ __hillside__ _n_
 __hinder__ _v_  
 __hindsight__  
 __hinky__  
-__hinterland__ _n_ :three: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
+__hinterland__ _n_ :four: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hires__ _n_  
@@ -5993,7 +5996,7 @@ __hit the road__ To leave a place or begin a journey.
 __hit the sack__  
 __hit the wall__  
 __hit up__ _She thought about hitting up an amusement park._  
-__hitch<sup>1</sup>__ _n_  
+__hitch<sup>1</sup>__ _n_ :two::hammer: _There was only a little hitch in this process to get their cash._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither and thither__ :two::hammer::pencil2:  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
@@ -6216,7 +6219,7 @@ __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hustle__ _v_ :two::mute:[hus~~t~~le]:hammer:  
-__hustler__ _n_ _slang_ :two: A person, usually male, who has sex for money.  
+__hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
 __hyacinth__ :pencil2:  
@@ -7994,10 +7997,10 @@ __mythos__ :two::hammer:
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
 __NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
-__nab__ _v_ :five::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
+__nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nadir__  
 __naevus__ _n_ (nevus)  
-__nag<sup>1</sup>__ _v_ :three::hammer:  
+__nag<sup>1</sup>__ _v_ :five::hammer:  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
 __nagging__ _adj_ :four: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
@@ -8105,6 +8108,7 @@ __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _T
 __nicety__ _n_  
 __niche__ _n_ :three::hammer:  
 __nickel__ _n_ _A nickel mine._  
+__nickle-and-dime__ _A nickle-and-dime con man._  
 __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
@@ -8900,7 +8904,7 @@ __peruse__ _v_ :two::hammer:
 __Peruvian__  
 __pervasive__ _adj_ :three::hammer:  
 __pesky__  
-__pester__ _v_  
+__pester__ _v_ :two::hammer: (pestered)  
 __pestilence__ _n_  
 __pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher's pet._  
@@ -9260,6 +9264,7 @@ __pork pie hat__ :camera:
 __pork rinds__ :two::hammer:  
 __porkpie hat__  
 __porkpie__ :two::hammer:  
+__porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
 __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
 __porpoises__ _n_  
 __porridge__  
@@ -9428,7 +9433,7 @@ __prioritize__ _v_
 __prise<sup>1</sup>__ _n_  
 __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
 __prised out__ _v_  
-__prissy__ _adj_ :three::hammer:  
+__prissy__ _adj_ :four::hammer: _A prissy mustache._  
 __pristine__ _They were in pristine condition._  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
@@ -11020,7 +11025,7 @@ __shy of__ :two::hammer::astonished: _Just shy of its highest mark._
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy away from cultural observations._  
 __shylock rackets__  
-__shylock__  
+__shylock__ _n_ :two::hammer:  
 __shylocking__  
 __shyly__ _(funny spelling)_  
 __shyster__  
@@ -11326,7 +11331,7 @@ __smock<sup>2</sup>__ _v_
 __smog__ _n_ :three::hammer:  
 __smoke__ _v_ _This person smokes me._  
 __smolder<sup>1</sup>__ _n_  
-__smolder<sup>2</sup>__ _v_ :nine: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
+__smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
 __smooth operator__  
 __smooth__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
@@ -11447,9 +11452,10 @@ __sojourn<sup>2</sup>__ _v_ :three::hammer:
 __solace__ _n_ :two::hammer:  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
-__soldier of fortune__  
+__soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
 __soldiers__ _v_  
 __sole__ _Its sole responsibility._  
+__solely__ _adv_  
 __solemn__ :mute:[solem~~n~~]  
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
@@ -13802,6 +13808,7 @@ __wind down__ _phr v_ :two: To diminish gradually in force or power; relax.
 __wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
 __winded__ _adj_ :two::dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
 __windlass__  
+__window dressing__  
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  
 __window__ _Hail is tracked over a one-hour window._  
