@@ -1,5 +1,16 @@
 
 
+__snort__ _n_ __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. __b__ Cocaine or heroin, especially a small amount sniffed at one time. __c__ The liquor or drug so taken. _Zig offered free snorts of cocained._  
+__cheapskate__ _n_ _informal_ Someone who does not like to spend money.  
+__dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
+__panoply__ _n_ __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
+__sizzle__ _v_ (sizzled)  
+__skim__ _v_ :two: If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._  
+__brass__ _n_ _informal_ Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._  
+__awe__ _n_  
+__refuse__ _v_ _Tim refused to worry about it._  
+__moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._   
+
 __anathema__ _n_  
 __counterfeit__ _adj_ _Counterfeit money._  
 __thunder__ _v_ To express violently, commandingly, or angrily; roar.  
