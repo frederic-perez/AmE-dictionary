@@ -1,5 +1,16 @@
 
 
+__stymie__ _v_ To present an obstacle to; stand in the way of. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
+__glower__ _n_ A sullen or angry stare. _Syn_ glare _His frown deepened into a glower of resentment._  
+__golf widow__ _idiom_ A woman whose husband frequently absents himself from home so as to go and play golf.  
+__timorous__ _adj_ Full of apprehensiveness; timid. _Syn_ trepid, fearful  
+__a fishbowl__ _idiom_ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
+__wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
+__flotsam and jetsam__ _idiom_  
+__flotsam__ _n_ __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
+__indomitable__ _adj_ Very determined and impossible to defeat.  
+__golden ticket__ _idiom_ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
+
 __snort__ _n_ __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. __b__ Cocaine or heroin, especially a small amount sniffed at one time. __c__ The liquor or drug so taken. _Zig offered free snorts of cocained._  
 __cheapskate__ _n_ _informal_ Someone who does not like to spend money.  
 __dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
