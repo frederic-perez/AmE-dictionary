@@ -30,6 +30,7 @@ __a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A 
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a falling out__ _idiom_ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
+__a fishbowl__ _idiom_ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a golden hello__ _idiom_ A sum of money paid to a new employee as a benefit for being recruited by a company.  
@@ -667,7 +668,7 @@ __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who 
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
-__awe__ _n_ :three::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
+__awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
@@ -1414,7 +1415,7 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brash__ :two::hammer: _Brash talk._ _It sounded brash._  
 __brass monkeys__ _idiom_ Very cold weather.  
-__brass__ :two::hammer: _She'll be manipulated by the police brass._  
+__brass__ _n_ _informal_ :three: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She'll be manipulated by the police brass._  
 __brassiere__ _n_  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
@@ -2097,7 +2098,7 @@ __chattel__
 __chatter__ _A machine-gun chatter._  
 __chatterbox__ _n informal_ :three::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
-__cheapskate__ _n informaly_ :dart: A person who doesn't like to spend money.  
+__cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
 __check in__ _v_  
@@ -3368,6 +3369,7 @@ __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property tax
 __dingbat__ _n_  
 __dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
+__dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
 __dingy__ _adj_  
 __dinking<sup>2</sup>__ _v_  
 __dinky__ _adj_ :three::hammer: _A dinky little community._  
@@ -4655,7 +4657,8 @@ __floppy > floppy socks__
 __florets__ :pencil2::two::hammer: _Your dinner is two florets of broccoli._  
 __florid__  
 __flotilla__ _n_ :two::mega::hammer:  
-__flotsam__  
+__flotsam and jetsam__ _idiom_  
+__flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounder__ _v_ :seven: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._  
@@ -5224,7 +5227,8 @@ __gloom<sup>2</sup>__ _v_
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
 __glossiness__  
-__glower__ _v_ :five::hammer: (glowered, glowering)  
+__glower<sup>1</sup>__ _n_ A sullen or angry stare. _Syn_ glare _His frown deepened into a glower of resentment._  
+__glower<sup>2</sup>__ _v_ :five::hammer: (glowered, glowering)  
 __glue > a glue-type player__  
 __glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
 __glut__ _n_ :six: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
@@ -5309,7 +5313,9 @@ __gold rush__
 __Golden Boot__ _The race for the Golden Boot._  
 __golden goose__ _idiom_ :two::hammer: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time.  
 __golden rule__  
+__golden ticket__ _idiom_ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __goldfinch__ _n_ :es: jilguero  
+__golf widow__ _idiom_ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __golliwog__ _n_  
 __golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
 __gomer__ _n_ _slang_ :dart: A first-year Air Force Academy cadet, esp a clumsy trainee [origin uncertain; medical sense said to be an acronym of "get out of my emergency room"] _Gomer Pyle._  
@@ -6428,7 +6434,7 @@ __indiscreet__
 __indispensable__  
 __indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indolent__ _adj_ :two: Very lazy, slothful.  
-__indomitable__ :two::hammer: _Indomitable will._  
+__indomitable__ _adj_ :three: Very determined and impossible to defeat. _Indomitable will._  
 __inducements__  
 __induct__  
 __induction__ _n_ :four::hammer: _Induction hall._  
@@ -7834,6 +7840,7 @@ __monopoly__ :mega: /mə-nŏp′ə-lē/
 __monsoon__ _n_ :four::hammer:  
 __monstrosity__ :pencil2::two::hammer:  
 __monumental__ _adj_  
+__moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
 __moody__ :two::hammer:  
 __moon roof__  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
@@ -8650,7 +8657,7 @@ __panhandle__ _v_
 __panhandling__  
 __panko__ _n_  
 __panned out__  
-__panoply__ :two::hammer:  
+__panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
 __panorama__ _n_  
 __pant__ _v_ :six: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
@@ -9990,7 +9997,8 @@ __refrain<sup>2</sup>__ _v_
 __refugium__ _n_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__ :two::hammer:  
-__refuse__ _n_  
+__refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
+__refuse<sup>2</sup>__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country._ _Despite his homely perch Robert felt regal._  
 __regaled__  
 __regalia__ _n_ :two::hammer:  
@@ -11116,9 +11124,8 @@ __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We've 
 __sivvied__ _v_ (?)  
 __six-hundred-pound gorilla__ (also eight-hundred-pound gorilla or nine-hundred-pound gorilla) A powerful force; a virtually irresistible influence.  
 __sizable__ :two::hammer: _Clinton's sizable lead._  
-__sizzle__  
-__sizzle<sup>1</sup>__ _v_ :two: _Rihanna sizzled when she performed in New York._  
-__sizzle<sup>2</sup>__ _n_ :four: _Filming a "sizzle reel."_  
+__sizzle<sup>1</sup>__ _v_ :three: _Rihanna sizzled when she performed in New York._  
+__sizzle<sup>2</sup>__ _n_ :five: _Filming a "sizzle reel."_  
 __sizzling__ _adj_ :three: __1__ Exciting and intensely emotional. _The sizzling singer._ __2__ Hot enough to make a hissing sound. __3__ Brought to the table in the metal dish it has been cooked in, making such a sound.  
 __skag__  
 __skank__ _v_ (?)  
@@ -11135,7 +11142,7 @@ __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or re
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skillset__  
-__skim__ _v_ :four::hammer: (skimming) _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._  
+__skim__ _v_ :six: (skimming) If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
@@ -11394,7 +11401,7 @@ __snoop__ _v_ :two: To try to find out about someone’s private affairs by secr
 __snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :six::hammer:  
-__snort__ _n_ :two: _Slang_ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. _A lifestyle of snorting and scrapping._  
+__snort__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snorted__ _v_  
 __snorting__ _v_  
 __snot rag__  
@@ -12048,7 +12055,7 @@ __stupas__
 __stupefy__  
 __sturdy__ _adj_ :four::hammer:  
 __stutter__ _v_ :two::hammer:  
-__stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart.  
+__stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
@@ -12673,7 +12680,7 @@ __timetable<sup>1</sup>__ _n_
 __timetable<sup>2</sup>__ _v_  
 __timid__  
 __timing bag__  
-__timorous__ _adj_ :two: Full of fear; timid.  
+__timorous__ _adj_ :three: Full of fear; timid. _Syn_ trepid, fearful  
 __tin ear__ _Hillary has a political tin ear._  
 __tinderbox__  
 __tinderdry__  
@@ -13538,6 +13545,7 @@ __wallboard__
 __wallflower__  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
+__wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
 __wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
