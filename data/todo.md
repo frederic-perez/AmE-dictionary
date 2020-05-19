@@ -1,5 +1,16 @@
 
 
+__clear__ _v_ __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve: _cleared the material for publication._ :es: autorizar  
+__discharge__ _v_ (discharged)  
+__dungarees__ _n_  
+__payoff__ _n_  
+__adjoining__ _adj_ An adjoining room.  
+__con__ _v_ (conned) _He was conned beyond redemption._  
+__insulation__ _n_ :four::hammer:  
+__treasure__ _v_  
+__crow__ _v_ (crowed) _"There is nothin' like OPEC clout," crowed Jim._  
+__coyly__ _adv_ In a coy manner. _She pouted and looked at him coyly._  
+
 __outbreak__  
 __downtime__ _n_  
 __nowcasting__ _Nowcasting applications._  
