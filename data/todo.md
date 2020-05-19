@@ -1,26 +1,5 @@
 
 
-__anathema__ _n_  
-__counterfeit__ _adj_ _Counterfeit money._  
-__thunder__ _v_ To express violently, commandingly, or angrily; roar.  
-__cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
-__pelt__ _v_ _The rain pelted the windows._  
-__peg someone as something__ _idiom_ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
-__appalled__  
-__smitten__  
-__unswerving__ _Unswerving attention._  
-__thaw__ _v_  
-
-__go off__ _idiom_ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
-__shed (some) light on (something)__ _idiom_  
-__awry__  
-__would you be so kind as to__ :es: sería tan amable de, tendría la bondad de  
-__parrot__ _v_ To repeat or imitate, especially without understanding.  
-__syrup__ _n_ _Maple syrup._  
-__fantasize__ _v_  
-__self-satisfied__ _adj_ Having or showing a complacent satisfaction with oneself, one's own actions, behavior, etc.  
-__in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one's control or influence.  
-
 __outbreak__  
 __downtime__ _n_  
 __nowcasting__ _Nowcasting applications._  

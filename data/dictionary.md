@@ -369,7 +369,7 @@ __an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution t
 __anachronism__  
 __anal bleaching__ _n_  
 __analyst__ :pencil2:  
-__anathema__ _n_ :six: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
+__anathema__ _n_ :seven: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :three::mega::hammer:  
@@ -450,7 +450,7 @@ __apostate__ _n_ :three::hammer: (apostates)
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
-__appalled__ _adj_ :four: Shocked or dismayed; filled with horror.  
+__appalled__ _adj_ :five: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
@@ -672,7 +672,7 @@ __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sa
 __awestruck__ _adj_  
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
-__awry__ :two::hammer:  
+__awry__ _adj_ :three::hammer:  
 __ax__  
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
@@ -2661,6 +2661,7 @@ __coops__ _Chicken coops._
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
 __cop out__ _v_ :four: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :five: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
@@ -2741,7 +2742,7 @@ __counter__ _n_ _A lot of counter space._ :es: encimera
 __counter-depth fridge__ :camera:  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
 __countered__ _Countered kitchen._  
-__counterfeit__ :two::hammer: _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
+__counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __countermand__ _v_  
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
@@ -4309,6 +4310,7 @@ __fandom__ _n_ :two::hammer:
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name "fanny pack" is derived from the way they were traditionally worn facing the rear above the buttocks, for which "fanny" is a slang term in the United States (a person's buttocks). :es: riñonera  
+__fantasize__ _v_  
 __fantastic__ _adj_ :three::hammer::mega:  
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __fanzine__ _n_ :mega:  
@@ -5258,6 +5260,7 @@ __go great lenghts__
 __go native__ _You going native on me, Supercop?_  
 __go numb__ :two::hammer:  
 __go off in a huff__ _idiom_ To leave in an angry, belligerent, or vexed mood.  
+__go off__ _idiom_ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go out with a bang__ _idiom_ To finish or cease doing something in a spectacular, great, or exciting manner.  
 __go out with the boys__ _idiom_  To go and socialize somewhere with a group of exclusively male friends.  
@@ -6366,6 +6369,7 @@ __in the clear__ :two::hammer: _She is in the clear._
 __in the doghouse__ _idiom_ :two::hammer:  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
+__in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one's control or influence.  
 __in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
 __in the midst of (something)__ _idiom_  
@@ -8714,6 +8718,7 @@ __paroxysm__
 __paroxysmal__  
 __parried__ _v_  
 __parrot nose pliers__ :es: Mordaza pico de loro  
+__parrot__ _v_ To repeat or imitate, especially without understanding.  
 __parroting__ _v_  
 __parry__ _v_  
 __parse__ _v_  
@@ -8830,13 +8835,14 @@ __peerless__
 __peeved__ _v_  
 __peevishly__  
 __peewee__ _n_  
+__peg someone as something__ _idiom_ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
 __Pell Grants__ _Young people get cuts in Pell Grants._  
 __pell-mell__  
 __pellet__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
-__pelt<sup>2</sup>__ _v_ :five::hammer: (pelted, pelting) _Inmates pelting him with objects from above._  
+__pelt<sup>2</sup>__ _v_ :six::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._  
 __pen name__  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
@@ -10743,6 +10749,7 @@ __self-esteem__ _n_
 __self-fulfilling__ _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
+__self-satisfied__ _adj_ Having or showing a complacent satisfaction with oneself, one's own actions, behavior, etc.  
 __self-steem__  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
 __selfless__  
@@ -10860,6 +10867,7 @@ __sheaf__
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
+__shed (some) light on (something)__ _idiom_  
 __shed__ _v_ :five: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he'll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _A tree shedder._  
 __shedding__ _v_  
@@ -12262,6 +12270,7 @@ __synoptic__ _adj_ :two::hammer: _Synoptic representations of wind._
 __synoptical__  
 __syphilis__ _n_ :pencil2:  
 __syringe__  
+__syrup__ _n_ _Maple syrup._  
 __syrupy__  
 __systemic__ :two::hammer:  
 __syzygy__  
@@ -12510,7 +12519,7 @@ __That being said,__
 __that much__ _I'll tell you that much._  
 __that will do__  
 __that's the breaks__  
-__thaw<sup>1</sup>__ _v_ :four: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
+__thaw<sup>1</sup>__ _v_ :five: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
 __thaw<sup>2</sup>__ _n_ :six: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the "m" word__  
@@ -12620,7 +12629,7 @@ __thumb__ _v_ :two::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thumping__ _A thumping majority._  
-__thundered__ _v_  
+__thunder__ _v_ :two: (thundered) To express violently, commandingly, or angrily; roar.  
 __thunderheads__  
 __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
 __thunk<sup>1</sup>__ _n_  
@@ -13233,7 +13242,7 @@ __unsound__
 __unspooling__ _Unspooling microphone cables._  
 __unstoppable__ :two::hammer: _She is our unstoppable force of nature._  
 __unsung__  
-__unswerving__ _adj_ _Unswerving confidence._  
+__unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __untapped__ _Untapped talent._  
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
@@ -13931,6 +13940,7 @@ __worshiper__
 __worst nightmare__ _n_ The thing someone fears most.  
 __wort__  
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one's time, effort, or interest.  
+__would you be so kind as to__ :es: sería tan amable de, tendría la bondad de  
 __would__ :mute:[wou~~l~~d]  
 __wow factor__  
 __wow__ _v_ :two::hammer:  
