@@ -165,6 +165,7 @@ __ADHD__ _abbr_ Attention deficit hyperactivity disorder.
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
 __adiabatic__ _adj_ :three::hammer:  
+__adjoining__ _adj_ _An adjoining room._  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
 __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
 __adjudicator__  
@@ -2283,7 +2284,7 @@ __cleanliness__
 __cleanse__ _v_  
 __cleanser__ _n_  
 __clear air__  
-__clear__ _v_ :two::hammer: _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
+__clear__ _v_ :three: __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve. _Cleared the material for publication._ _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
 __clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam's guilt isn't so clear-cut._ _Syn_ definite  
 __clearances__ _n_  
@@ -2524,7 +2525,7 @@ __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noble
 __con man__  
 __con-artist__  
 __con<sup>1</sup>__ _n_ :five::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
-__con<sup>2</sup>__ _v_ :three::hammer: _Now Biff, don't con me!_  
+__con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don't con me!_  
 __Concacaf__  
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
 __conceit<sup>1</sup>__ _n_  
@@ -2637,6 +2638,7 @@ __contrived__ _adj_ :two: Deliberately created rather than arising naturally or 
 __control freak__ _idiom_ :two::hammer:  
 __controversial__  
 __convalescing__ _v_  
+__convective__ _Convective cloud._  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
 __conversely__  
@@ -2775,6 +2777,7 @@ __cowled__ _v_
 __cowpoke__ _n_ _old-fashioned_ A cowboy or cowgirl.  
 __coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
+__coyly__ _adv_ In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :two::hammer: (cozened)  
 __cozy__  
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
@@ -2895,8 +2898,8 @@ __crossroad__ _At a crossroad._
 __crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We're at a crossroads._ _I'm at a crossroads._ (notice the trailing 's')  
 __crotchety__  
 __crouch__ :two::hammer:  
+__crow__ _v_ :two::hammer: (crowed, crowing) _"There is nothin' like OPEC clout," crowed Jim._  
 __crowbar__ _n_ :two::hammer:  
-__crowing__ _v_  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crucible__ _n_ :seven::hammer:  
 __crud__  
@@ -3405,7 +3408,7 @@ __disastrous__
 __disavow__ _v_ :two::hammer: (disavowed)  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
-__discharge__ _v_ :nine::dart: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
+__discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
@@ -3643,7 +3646,7 @@ __downright__ _adv_ :dart::four::hammer: _Not to mention, just downright good lo
 __downside__ _n_ :two::hammer: (downsides)  
 __downspout__ _n_  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
-__downtime__ _n_ :two::hammer:  
+__downtime__ _n_ :three::hammer:  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_  
 __downturns__ :two::hammer:  
@@ -3798,7 +3801,7 @@ __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaoti
 __dun__ _Dun-colored hair._  
 __dunce__ _n_ :two::hammer: _We are complete dunces at self-perfection._  
 __dung fork__ _n_  
-__dungarees__ _n_ :five::hammer: _The men in black dungarees stood motionless._  
+__dungarees__ _n_ :six::hammer: _The men in black dungarees stood motionless._  
 __dunno__  
 __duo__  
 __dupe__ _A dupe of a president._  
@@ -3969,6 +3972,7 @@ __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their fl
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
 __embroidered__  
 __embroil__ (embroiled)  
+__embryo__  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
 __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
@@ -4734,7 +4738,7 @@ __foolhardy__ :two::hammer:
 __foolproof__ _adj_ :three: Unable to fail. _A foolproof method._  
 __Foosball__  
 __foosball__ :two::hammer: _Foosball table._  
-__foot__ _v_ :two::hammer:  
+__foot__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __foot-stomping__  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__  
@@ -5398,6 +5402,7 @@ __grate<sup>2</sup>__ _v_ :five: (grates, grated, grating) Have an irritating ef
 __gratin__ _?_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
+__graupel__ _n_ Precipitation consisting of snow pellets.  
 __grave liner__ _Grave liners are stored at the Travis County cemetery._  
 __grave__  
 __gravel__ _The car was parked on the gravel drive._  
@@ -6520,6 +6525,7 @@ __institute__ _v_
 __institutionalize__ _v_ :two::hammer:  
 __instrumental__  
 __insular__ _His small, insular group of loyalists._  
+__insulation__ _n_ :four::hammer:  
 __insure__ _v_  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
 __intangible__  
@@ -7077,7 +7083,7 @@ __lectern__
 __lecture__ _n_  
 __ledge__ :two::hammer: _Adam turned and sat on the ledge._  
 __ledger__ _n_ :nine:::m: __1__ An accounting journal as a physical object. _A heavy account ledger._ __2__ A slab of stone laid flat over a grave. __3__ A horizontal timber in a scaffold, attached to the uprights and supporting the putlogs.  
-__lee__ _In the lee of the wagon._  
+__lee__ _n_ :two::hammer: _In the lee of the wagon._  
 __leech__ _n_ :five::hammer: :es: sanguijuela  
 __leek__ _n_  
 __leeks__ _n_  
@@ -8220,7 +8226,7 @@ __novella__
 __now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nowadays__  
 __nowcast__  
-__nowcasting__ :two::hammer: _Nowcasting system._  
+__nowcasting__ _adj_ :three::hammer: _Nowcasting system._ _Nowcasting applications._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
 __nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
@@ -8392,6 +8398,7 @@ __onboarding__ _n_ The induction and assimilation of a new employee into a compa
 __once in a blue moom__ Very rarely.  
 __once in a while__  
 __once-over__  
+__oncoming__ _The oncoming winter's patterns._  
 __one too many__ _We drank one too many._  
 __one-liner__ :dart: A quick joke or quip; a funny observation.  
 __one-note__  
@@ -8478,7 +8485,7 @@ __outage__ _n_ :two::hammer: _Power outages._
 __outback__  
 __outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
-__outbreak__ _n_ :four::hammer: (outbreaks)  
+__outbreak__ _n_ :five::hammer: (outbreaks)  
 __outburst__ _n_ :three::hammer:  
 __outcast__ _n_  
 __outcome__ _n_ (outcomes)  
@@ -8795,7 +8802,7 @@ __pay__ _v_ _It pays to consider his words carefully._
 __payback__ _n_ :two::hammer:  
 __paydirt__ :two::hammer:  
 __payload__ _n_ :three::hammer:  
-__payoff__ _n_ :three::hammer: (payoffs) _The third part of this book is the payoff._  
+__payoff__ _n_ :four::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
 __PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
@@ -12912,7 +12919,7 @@ __treacle__
 __treacly__ :two::hammer:  
 __tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
 __treading__  
-__treasure__ _v_ :three::hammer:  
+__treasure__ _v_ :four::hammer:  
 __treat<sup>1</sup>__ _v_  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
@@ -13618,7 +13625,7 @@ __wayposts__
 __wayside__ _n_ :two::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
-__wealth__ _n_ :two::dart::hammer: _They were furnished with a wealth of new information._ _A wealth of new data._  
+__wealth__ _n_ :three::dart::hammer: _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :four::hammer:  

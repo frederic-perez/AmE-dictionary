@@ -1,27 +1,5 @@
 
 
-__clear__ _v_ __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve: _cleared the material for publication._ :es: autorizar  
-__discharge__ _v_ (discharged)  
-__dungarees__ _n_  
-__payoff__ _n_  
-__adjoining__ _adj_ An adjoining room.  
-__con__ _v_ (conned) _He was conned beyond redemption._  
-__insulation__ _n_ :four::hammer:  
-__treasure__ _v_  
-__crow__ _v_ (crowed) _"There is nothin' like OPEC clout," crowed Jim._  
-__coyly__ _adv_ In a coy manner. _She pouted and looked at him coyly._  
-
-__outbreak__  
-__downtime__ _n_  
-__nowcasting__ _Nowcasting applications._  
-__wealth__ _A wealth of information._  
-__oncoming__ _The oncoming winter's patterns._  
-__graupel__ _n_ Precipitation consisting of snow pellets.  
-__convective__ _Convective cloud._  
-__foot__ _v_ _Are you prepared to foot the extra cost?_  
-__embryo__  
-__lee__ _n_  
-
 __have the floor__ _idiom_ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __forsake__ _v_ Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __have the feel of (something)__ _idiom_ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
