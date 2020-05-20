@@ -40,7 +40,7 @@ def valid_use_of_underscores(entry):
 
     num_possible_headwords = len(re.findall('__[a-zA-Z0-9>]+__', entry))
     num_not_headwords = \
-        len(re.findall('__[0-9][a-z]*__', entry)) \
+        len(re.findall('__[0-9]+[a-z]*__', entry)) \
         + len(re.findall('__[a-z]__', entry))
     num_headwords = num_possible_headwords - num_not_headwords
     if num_headwords > 1:
