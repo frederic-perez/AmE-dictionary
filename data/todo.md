@@ -1,5 +1,16 @@
 
 
+__luncheon__ _n_ Lunch, especially a formal lunch for a lot of people.  
+__pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
+__quicken__ _v_ (quickened) _Spring quickened._  
+__venal__ _adj_ :astonished: Dishonest and ready to do anything in order to get money.  
+__render__ _v_ :dart: __1b__ b. To give or make available; provide: __render assistance; render a service._  
+__stateroom__ _n_ A small private room on a ship that is used for sleeping. _The spacious forward stateroom of the boat._  
+__underworld__ _n_ Criminals and their associates considered collectively.  
+__enjoin__ _v_ (enjoined)  
+__foothill__ _n_ A low hill at the base of a mountain or mountain range.  
+__kickback__ _n_ :two::hammer: _A kickback deal._  
+
 __have the floor__ _idiom_ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __forsake__ _v_ Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __have the feel of (something)__ _idiom_ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
