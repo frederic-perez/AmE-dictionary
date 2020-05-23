@@ -1,5 +1,16 @@
 
 
+__do the dishes__ _idiom_ Wash dishes.  
+__purport__ _v_  
+__irritating__ _adj_ _Syn_ annoying, tiresome  
+__annoying__ _adj_ _Your dad's so annoying!_ :es: ¡Qué pesado es tu padre!  
+__tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
+__pain__ _n_ _You're such a pain!_ :es: ¡Pero qué pesado eres!  
+__snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
+__annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
+__IFU__ _abbr_ Instructions for use.  
+__1:1__	One-To-One Relationship.  
+
 __guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
 __chipper__ _adj_ (adjective) Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._  
 __good God!__ _idiom_ An oath expressing surprise, shock, frustration, anger, or annoyance.  
