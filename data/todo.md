@@ -1,5 +1,16 @@
 
 
+__go under__ _phr v_ __1__ To suffer defeat or destruction; fail. _The newspaper went under._ __2__ To lose consciousness.  
+__bagman__ _n_ _Bill is a bag man for corrupt officials._  
+__satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
+__dredge__ _v_ (dredged)  
+__waspie__ _n_ A tight-waisted corset.  
+__prophesy__ _v_ (prophesied)  
+__hoods__ _n_ _Too many hoods had visited his home._  
+__lush__ _n_ _slang_ A drunkard.  
+__budge__ _v_  
+__gambit__  
+
 __do the dishes__ _idiom_ Wash dishes.  
 __purport__ _v_  
 __irritating__ _adj_ _Syn_ annoying, tiresome  
