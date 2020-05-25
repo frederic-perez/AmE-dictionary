@@ -1,4 +1,14 @@
 
+__clear__ _v_  
+__groan__ _v_ (groaned) (It sounds like _grown_.)  
+__enthuse__ _v_ (enthusing)  
+__clincher__  
+__keep tabs__ (keeping tabs)  
+__hectic__ _adj_ :dart: _It was a hectic time._  
+__button up__ _v_  
+__spot__ _v_ (spotted)  
+__wistfully__ _adv_  
+__relent__ _v_ (relented)  
 
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow    
 __good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
