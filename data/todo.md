@@ -1,27 +1,5 @@
 
 
-__weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
-__(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
-__xeriscape__ _n_  
-__orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
-__cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow    
-__good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
-__fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
-__disabuse__ _v_ To make someone realize that they were wrong to believe something.  
-__good enough for jazz__ _idiom_ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
-__gambit__ _n_ A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, ploy  
-
-__clear__ _v_  
-__groan__ _v_ (groaned) (It sounds like _grown_.)  
-__enthuse__ _v_ (enthusing)  
-__clincher__  
-__keep tabs__ (keeping tabs)  
-__hectic__ _adj_ :dart: _It was a hectic time._  
-__button up__ _v_  
-__spot__ _v_ (spotted)  
-__wistfully__ _adv_  
-__relent__ _v_ (relented)  
-
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow    
 __good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
 __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  

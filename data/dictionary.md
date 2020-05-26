@@ -11,6 +11,7 @@ __, so why (even) bother?__
 __, to say the least.__  
 __"duh" department__ :astonished: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
 __(deep) into the weeds__ _idiom_ :two::hammer:  
+__(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered "101."  
@@ -1699,6 +1700,7 @@ __butting head__
 __butting__ _v_  
 __buttinski__  
 __button man__  
+__button up__ _v_  
 __button-down__ _She was wearing faded jeans and a button-down._  
 __buttress__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
@@ -2284,7 +2286,7 @@ __cleanliness__
 __cleanse__ _v_  
 __cleanser__ _n_  
 __clear air__  
-__clear__ _v_ :three: __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve. _Cleared the material for publication._ _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
+__clear__ _v_ :four: __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve. _Cleared the material for publication._ _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
 __clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam's guilt isn't so clear-cut._ _Syn_ definite  
 __clearances__ _n_  
@@ -2310,7 +2312,7 @@ __clicking__ _Things seem to be making sense and clicking._
 __clicky__  
 __climb__ :mute:[clim~~b~~]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
-__clincher__ _n_ :three::hammer:  
+__clincher__ _n_ :four::hammer:  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :two::hammer: _A better newspaper clip._  
@@ -2771,6 +2773,7 @@ __covey__
 __COVID__ _abbr_ Short for coronavirus disease.  
 __cow__ _v_ _Law makers cowed by powerful unions._  
 __cowboy__ _v_ :two::hammer:  
+__cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
 __cowering__ _v_ :two::hammer:  
 __cowl__ :two::hammer: _Their cowls were filthy rags._  
 __cowled__ _v_  
@@ -3400,7 +3403,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
 __dis<sup>2</sup>__ _v_ :two::hammer:  
-__disabuse__ _v_ :dart: To free from a falsehood or misconception.  
+__disabuse__ _v_ :dart::two: To make someone realize that they were wrong to believe something.  
 __disaffected__ _adj_ :two::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
@@ -4049,7 +4052,7 @@ __ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, s
 __entail<sup>1</sup>__ _v_ :seven::hammer: (entails)  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
-__enthuse__ _v_ :nine: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
+__enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
 __entice__ _v_ :two::hammer: (enticing)  
@@ -4980,6 +4983,7 @@ __further__
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
+__fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __futile__ _adj_  
@@ -5016,7 +5020,7 @@ __galloping__
 __galore__ _adv_  
 __galoshes__ _n_  
 __galvanize__ _v_ :six: (galvanized) To startle into sudden activity; stimulate.  
-__gambit__ _n_ :two::hammer:  
+__gambit__ _n_ :three: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, ploy  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
@@ -5332,6 +5336,8 @@ __gonorrhea__
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
 __good egg__ _A heel who learns how to be a good egg._  
+__good enough for jazz__ _idiom_ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
+__good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
 __good for you__  
 __good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
@@ -5479,7 +5485,7 @@ __grittier__ _It makes the queso a bit grittier._
 __gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzle__ _v_  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
-__groan__ _v_ :four::hammer:  
+__groan__ _v_ :five::hammer: (groaned) (It sounds like _grown_.)  
 __grocer__ _n_ :two::hammer:  
 __grog__  
 __groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
@@ -5884,7 +5890,7 @@ __heckled__ _v_
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :six::hammer:  
+__hectic__ _adj_ :seven::dart::hammer: _It was a hectic time._  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
@@ -6782,7 +6788,7 @@ __keep back__ _phr v_ To not tell someone about something. _Whatever you discove
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep in check__ _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
-__keep tab(s) (on someone or something)__ _idiom_ :five::hammer: :es: vigilar _I don't keep tabs on him._  
+__keep tab(s) (on someone or something)__ _idiom_ :six::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._  
 __keep up with__ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
 __keep__ _n_ :es: torreón  
@@ -8447,6 +8453,7 @@ __ordnance__ _n_ :four::pencil2::hammer:
 __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
 __organization__ _n_ :mega:  
 __originally__ _adv_ :dart:  
+__orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__  
 __ornate__ _n_ :five::hammer:  
 __orneriness__ :two::hammer:  
@@ -10043,7 +10050,7 @@ __relate__ _v_
 __relay__ _A relay race._  
 __relayed__ _v_  
 __relegation__ _Sports_  
-__relent__ _v_ :three::hammer: (relented)  
+__relent__ _v_ :four::hammer: (relented)  
 __relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _Must have reliable transportation._  
 __reliance__ _n_ :two::hammer:  
@@ -11643,7 +11650,8 @@ __sporadically__
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__  
 __spot on__ _idiom_ :two: (spot-on) British slang for "well done", "perfect" or "right on."  
-__spot__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
+__spot<sup>1</sup>__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
+__spot<sup>2</sup>__ _v_ (spotted)  
 __spotless__  
 __spotlight<sup>1</sup>__ _n_  
 __spotlight<sup>2</sup>__ _v_ :three::hammer:  
@@ -13625,6 +13633,7 @@ __wayposts__
 __wayside__ _n_ :two::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
+__weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
 __wealth__ _n_ :three::dart::hammer: _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
@@ -13875,7 +13884,7 @@ __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fa
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__ :two::hammer:  
 __wistful__ _adj_ :three::hammer:  
-__wistfully__ :two::hammer: _She gazed wistfully at the boathouse._  
+__wistfully__ _adv_ :three::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
@@ -14006,6 +14015,7 @@ __X's and O's__ :two::hammer: _There are the X's and O's._
 __xenobiotic<sup>1</sup>__ _n_  
 __xenobiotic<sup>2</sup>__ _adj_  
 __xenoestrogen__ _n_  
+__xeriscape__ _n_  
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
 __yada yada yada__ _adv_ :three::hammer: (yada, yada, yada)  
