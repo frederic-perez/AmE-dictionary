@@ -1,27 +1,5 @@
 
 
-__cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow    
-__good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
-__fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
-__disabuse__ _v_ To make someone realize that they were wrong to believe something.  
-__good enough for jazz__ _idiom_ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
-__gambit__ _n_ A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, ploy  
-__exiguous__ _adj_  
-__no good deed goes unpunished__ _idiom_ Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that "no good deed goes unrewarded."  
-__malapropism__ _n_  
-__good books__ _idiom_ Favorable, kindly, or approving regard or treatment. Usually used in the phrase "in someone's good books" or some variation thereof.  
-
-__go under__ _phr v_ __1__ To suffer defeat or destruction; fail. _The newspaper went under._ __2__ To lose consciousness.  
-__bagman__ _n_ _Bill is a bag man for corrupt officials._  
-__satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
-__dredge__ _v_ (dredged)  
-__waspie__ _n_ A tight-waisted corset.  
-__prophesy__ _v_ (prophesied)  
-__hoods__ _n_ _Too many hoods had visited his home._  
-__lush__ _n_ _slang_ A drunkard.  
-__budge__ _v_  
-__gambit__  
-
 __do the dishes__ _idiom_ Wash dishes.  
 __purport__ _v_  
 __irritating__ _adj_ _Syn_ annoying, tiresome  

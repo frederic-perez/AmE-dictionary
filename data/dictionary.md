@@ -744,6 +744,7 @@ __baffling__ _Baffling season._
 __bag of tricks__ _idiom_ All the clever methods by which someone achieves something.  
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
+__bagman__ _n_ _Bill is a bag man for corrupt officials._  
 __bail out__ _phr v_ :four: To pay for someone’s release from jail.  
 __bail skip__  
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
@@ -1567,8 +1568,7 @@ __buckwheat__ _n_
 __buckwheats__  
 __budding__  
 __buddy__  
-__budge__ _v_  
-__budged__  
+__budge__ _v_ :three::hammer: (budged)  
 __budget line__ _I had already sent my editor a budget line on the story._  
 __budget__ :two::hammer: _The surface energy budget._  
 __buff<sup>1</sup>__ _n informal_ :eight: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
@@ -3692,7 +3692,7 @@ __dread<sup>1</sup>__ _n_
 __dread<sup>2</sup>__ _v_ :two::hammer:  
 __dreamy__ :two::hammer:  
 __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. __2__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __3__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
-__dredge<sup>1</sup>__ _v_ :three::hammer: _They dredged mud._  
+__dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
 __dreg__ _n_ :six::hammer: (often dregs) _Away from the dregs and junkies._ _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
@@ -4186,6 +4186,7 @@ __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
 __exhilarate__ :mute:[ex~~h~~ilarate]  
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
+__exiguous__ _adj_  
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
@@ -5290,6 +5291,7 @@ __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, ba
 __go to the wire__  
 __go to war__  
 __go under the hammer__ _idiom_ :two: To be put up for or sold at auction.  
+__go under__ _phr v_ __1__ To suffer defeat or destruction; fail. _The newspaper went under._ __2__ To lose consciousness.  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-ahead goal__  
 __go-for-broke__  
@@ -5335,6 +5337,7 @@ __gondola__ _A 10-person rescue gondola can be attached to a helicopter._
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
+__good books__ _idiom_ Favorable, kindly, or approving regard or treatment. Usually used in the phrase "in someone's good books" or some variation thereof.  
 __good egg__ _A heel who learns how to be a good egg._  
 __good enough for jazz__ _idiom_ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
 __good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
@@ -6113,7 +6116,7 @@ __hooch__ :two::hammer: _Take it easy on the hooch._
 __hood fan__  
 __hood__ _n_ _slang_ :three: Criminal, a member of a criminal gang.  
 __hoodlum__ _n_ _slang_ :four: (hoodlums) A criminal or gangster.  
-__hoods__ _n_  
+__hoods__ _n_ :two::hammer: _Too many hoods had visited his home._  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
 __hook up__  
@@ -7394,7 +7397,7 @@ __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stilln
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
-__lush<sup>2</sup>__ _idiom_ A person who drinks alcohol habitually or excessively; a drunkard.  
+__lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
 __luster<sup>1</sup>__ _n_  
 __luster<sup>2</sup>__ _v_ (lustered)  
@@ -8163,6 +8166,7 @@ __nitty-gritty__ _n_ :five: The essence; the essential points. (Usually in get d
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
 __no early birds__ _No early birds allowed because it just wouldn't be fair to the other shoppers who waited until the opening time._ _If you have advertised "No Early birds" then do not allow any early birds to even browse through your sale before the open time._  
+__no good deed goes unpunished__ _idiom_ Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that "no good deed goes unrewarded."  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __no offense__  
@@ -9511,6 +9515,7 @@ __prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._
 __propaganda__ _n_ :astonished:  
 __proper__ :two::hammer: _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
+__prophesy__ _v_ (prophesied)  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
 __props__ :two::hammer: _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
@@ -10534,6 +10539,7 @@ __sassy__ _adj_ :two::hammer:
 __SAT__ _trademark_ :three: (in the US) A test of a student's verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __satchel__ _n_ :two::hammer:  
 __sated__ _v_  
+__satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
 __Saturday__ :mega: /'sæÔødi, -deI/  
 __saturnine__ :two::hammer:  
 __satyr__  
@@ -13606,6 +13612,7 @@ __Washingtonians__
 __washroom__ _n_  
 __washtub__  
 __washwoman__  
+__waspie__ _n_ A tight-waisted corset.  
 __wastebasket__ _n_ :two::hammer:  
 __wastrel__ :two::hammer:  
 __watch caps__  
