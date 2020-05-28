@@ -14,6 +14,7 @@ __(deep) into the weeds__ _idiom_ :two::hammer:
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
+__1:1__	One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered "101."  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -398,10 +399,12 @@ __animosity__ _n_ :nine: __1__ Bitter hostility or open enmity; active hatred. _
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
 __aniseed__ _n_  
 __ankle-biter__ _n_ _slang_ :two: Child.  
+__annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
 __annihilation__ :pencil2::mega:  
 __anniversary__ :pencil2::mega:  
+__annoying__ _adj_ :dart: _Your dad's so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annuity__ _n_ (annuities) :three::hammer:  
 __annum__ _n_  
 __anodized__ _v_ :two::hammer:  
@@ -456,7 +459,8 @@ __appalled__ _adj_ :five: Shocked or dismayed; filled with horror.
 __appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
-__appeal__ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
+__appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
+__appeal<sup>2</sup>__ _n_ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appealing__  
 __appease__ _v_ :two: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
@@ -1227,6 +1231,7 @@ __blowtorch__
 __blowup bed__ _n_  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __bludgeoned__ _v_ :three::hammer:  
+__blue pill__ _idiom_  
 __blue streak__ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __blue string__  
 __blue-blood__  
@@ -2166,7 +2171,7 @@ __chip-off__
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
 __chip<sup>2</sup>__ _v_ :three::hammer: (chipped) _We had to chip and be patient._ _This cup is chipped._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
-__chipper__ _adj_ :two::hammer: _She is chipper._  
+__chipper__ _adj_ :three: Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._  
 __chippies__ :two::hammer:  
 __chippy__  
 __chiropractor__ _n_  
@@ -3523,6 +3528,7 @@ __do a runner__ _idiom_ To leave a place quickly in order to escape trouble or t
 __do it by the numbers__  
 __do math__  
 __do over__ _idiom_  
+__do the dishes__ _idiom_ Wash dishes.  
 __Do your magic__ _idiom_  
 __do-gooder__  
 __DOA__ _Repeal likely DOA._  
@@ -5341,7 +5347,9 @@ __good books__ _idiom_ Favorable, kindly, or approving regard or treatment. Usua
 __good egg__ _A heel who learns how to be a good egg._  
 __good enough for jazz__ _idiom_ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
 __good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
+__good for nothing__ _idiom_ Entirely without value; of no use whatsoever. (Hyphenated if used as a modifier before a noun.)  
 __good for you__  
+__good God!__ _idiom_ An oath expressing surprise, shock, frustration, anger, or annoyance.  
 __good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
@@ -5551,7 +5559,7 @@ __guileless__
 __guillotine__ _n_ :mega:  
 __guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilt__ :mute:[g~~u~~ilt]  
-__guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people. _I know these gossip magazines are trashy, but reading them on my commute home is my guilty pleasure!_  
+__guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
 __guinea pig__ :mega:  
 __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
 __guitar case__ :camera:  
@@ -6295,6 +6303,7 @@ __if nothing else__ _And if nothing else, Selig will be watching._
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
 __if you will__ :astonished:  
 __iffy__ _adj_ _slang_ :three: Uncertain or doubtful. _Iffy call._  
+__IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __ignominious__  
@@ -6585,6 +6594,7 @@ __ironclad commitment__
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
 __irrigate__ _v_ :dart:  
+__irritating__ _adj_ _Syn_ annoying, tiresome  
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __ischemic__ _adj_  
@@ -8275,6 +8285,7 @@ __oafish__ :two::hammer:
 __oars__ _n_ :two::hammer:  
 __oases__ _n_  
 __oat__ _n_  
+__oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
 __oatmeal__ _n_ :three::hammer:  
 __obi__ _n_  
 __obit__ :two::hammer:  
@@ -8636,6 +8647,7 @@ __page__ _n_
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V's jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pail__ _n_ :three::hammer: _A lunch pail._  
+__pain__ _n_ _You're such a pain!_ :es: ¡Pero qué pesado eres!  
 __painstaking__ _adj_ :two::hammer: _Painstaking patience._  
 __painstakingly__ _adv_ :two::hammer:  
 __paint the town red__ _idiom_ Have a good time.  
@@ -9633,8 +9645,7 @@ __purloin__ _v_ :five::hammer: (purloined) _A purloined Indian blanket._
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _A hint of purple._  
-__purport__ _v_  
-__purported__ _v_ :four::hammer: _The purported attack._ _JFK's purported affairs._  
+__purport__ _v_ :six::hammer: (purported) _The purported attack._ _JFK's purported affairs._  
 __purportedly__ :two::hammer:  
 __purr__ _v_ :two::hammer: (purring)  
 __purse__ _v_ _His lips pursed._  
@@ -9981,6 +9992,7 @@ __red eye__
 __red flag__ _n_ :two: Something that irritates or demands immediate action. _Red flag day._  
 __red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
+__red pill__ _idiom_  
 __red rover__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.  
@@ -10937,7 +10949,9 @@ __shine off__ _Don't try to shine me off, worm man._
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
 __shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster  
+__shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
 __shipborne__ _Airborne and shipborne measured platforms._  
+__shipshape__ _adj_ Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
@@ -11436,6 +11450,7 @@ __snot rag__
 __snot__ _n_ :three::hammer:  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __snout__ _n_  
+__snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
 __snowdrifts__  
@@ -12737,6 +12752,7 @@ __tiptoe<sup>4</sup>__ _v_ :two: To walk or move quietly on one's toes.
 __tirade__ _n_ :seven::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
+__tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
 __tit for tat__ _n_ :four::hammer:  
 __tite__  

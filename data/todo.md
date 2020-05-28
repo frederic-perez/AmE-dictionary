@@ -1,27 +1,5 @@
 
 
-__do the dishes__ _idiom_ Wash dishes.  
-__purport__ _v_  
-__irritating__ _adj_ _Syn_ annoying, tiresome  
-__annoying__ _adj_ _Your dad's so annoying!_ :es: ¡Qué pesado es tu padre!  
-__tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
-__pain__ _n_ _You're such a pain!_ :es: ¡Pero qué pesado eres!  
-__snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
-__annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
-__IFU__ _abbr_ Instructions for use.  
-__1:1__	One-To-One Relationship.  
-
-__guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
-__chipper__ _adj_ (adjective) Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._  
-__good God!__ _idiom_ An oath expressing surprise, shock, frustration, anger, or annoyance.  
-__oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
-__shipshape__ _adj_ Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
-__red pill__ _idiom_  
-__blue pill__ _idiom_  
-__appeal__ _v_ __1__ To make an earnest or urgent request, as for help.  
-__good for nothing__ _idiom_ Entirely without value; of no use whatsoever. (Hyphenated if used as a modifier before a noun.)  
-__shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
-
 __luncheon__ _n_ Lunch, especially a formal lunch for a lot of people.  
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __quicken__ _v_ (quickened) _Spring quickened._  
