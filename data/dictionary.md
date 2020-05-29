@@ -4039,6 +4039,7 @@ __engine room__ _idiom_ The main source of talent, power, or ability in a team o
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engulf__ _v_  
 __enjambments__  
+__enjoin__ _v_ (enjoined)  
 __enlivened__  
 __enmity__ _n_ :seven::hammer:  
 __ennui__ _n_ :two::hammer:  
@@ -4751,7 +4752,7 @@ __foosball__ :two::hammer: _Foosball table._
 __foot__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __foot-stomping__  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
-__foothill__  
+__foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
 __foothold__ _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footloose__ :pencil2:  
@@ -4822,7 +4823,7 @@ __forlornly__
 __formals__ _n_  
 __Formica__  
 __formidable__  
-__forsake__ _v_ :five::hammer: (forsaken)  
+__forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken__ _adj_  
 __fort__ A fortified place or position stationed with troops.  
 __forte<sup>1</sup>__ _n_ :three::mega: Something in which a person excels.  
@@ -5819,6 +5820,9 @@ __have rocks in (one's) head__ _idiom_ To be thoroughly stupid, crazy, absurd, i
 __have seen (one's) day__ _idiom_ To be beyond one's prime; to be no longer useful, effective, or functional.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have someone's back__  
+__have the better of (someone or something)__ _idiom_ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something.  
+__have the feel of (something)__ _idiom_ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
+__have the floor__ _idiom_ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __have the goods on (someone)__ _idiom_ To have incriminating evidence or proof against someone. _We know he's guilty, but we can't arrest him until we have the goods on him._  
 __have the heart (to do something)__ _idiom_ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn't have the heart to tell her that I didn't love her anymore._  
 __have the say__ _idiom_ To have the ultimate authority to command, control, or make a decision.  
@@ -6834,7 +6838,7 @@ __kick the crap out of (someone)__ _idiom_
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children's game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
 __kickback schemes__  
-__kickback__ _n_ :two::hammer: (kickbacks)  
+__kickback__ _n_ :four::hammer: (kickbacks) _A kickback deal._  
 __kickoff__ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
 __kid around__ _phr v_ To have fun by acting in a silly way.  
@@ -7395,7 +7399,7 @@ __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chu
 __lumpy__ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
 __lunch lady__ _She worked as a lunch lady._  
-__luncheon__ _n_ :six::hammer: Lunch.  
+__luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
 __lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into the pen._  
@@ -8922,6 +8926,8 @@ __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine 
 __peril__ _n_ :two::hammer: (perils)  
 __perinatal__  
 __periodontal__ _Periodontal health._  
+__Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
+__Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
 __peristaltic__ _adj_  
@@ -9397,6 +9403,7 @@ __preempt__ _v_
 __preemptive__  
 __preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
+__pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __preliminary__  
 __premier__ _adj_  
 __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
@@ -9639,6 +9646,7 @@ __puppy love__ _n_ _slang_ Adolescent love or infatuation. Immature love between
 __puppy play__  
 __puppy__  
 __pups__ _n_  
+__purchasable__ _adj_ Capable of being corrupted. _Syn_ bribable, corruptible, venal, dishonest  
 __purée__  
 __puree__ _v_ :three::hammer:  
 __purloin__ _v_ :five::hammer: (purloined) _A purloined Indian blanket._  
@@ -9738,7 +9746,7 @@ __questioner__ _n_
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
 __quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault over trivial matters or minor concerns; cavil. _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
-__quicken__ _v_ :two::hammer:  
+__quicken__ _v_ :three::hammer: (quickened) _Spring quickened._  
 __quickening__ :two::hammer: _He felt a quickening within him._  
 __quicksand__ :two::hammer: _I've just signed a quicksand employment contract._  
 __quicksilver__  
@@ -10093,7 +10101,7 @@ __remnants__
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
-__render__ _v_ :two::hammer::astonished: _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
+__render__ _v_ :three::hammer::astonished: __1b__ b. To give or make available; provide: _render assistance; render a service._ _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
 __rendering plant__  
@@ -11841,7 +11849,7 @@ __stately__ _adj_ :four: To be stately is to appear noble and impressive, almost
 __statement__  
 __Staten Islander__ _n_  
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
-__stateroom__ _n_ :two: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_  
+__stateroom__ _n_ :three: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_ _The spacious forward stateroom of the boat._  
 __statesman__ :two::hammer: _The elder statesman of the group._  
 __statesmen__ (notice, not 'statement')  
 __statin__ _n_  
@@ -13112,7 +13120,7 @@ __tutelage__
 __tutor__ _n_  
 __tutu__  
 __tux__ _n informal_ A tuxedo.  
-__twaddle__  
+__twaddle__ _v_ :two: Speak (about unimportant matters) rapidly and incessantly. _Syn_ blabber, palaver, piffle, prate, prattle, tattle, gabble, gibber, clack, maunder, chatter  
 __twang__ :two::hammer:  
 __twang<sup>1</sup>__ _n_  
 __twang<sup>2</sup>__ _v_  
@@ -13174,6 +13182,7 @@ __unapologetic__ _adj_ :nine::hammer:
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unburdened__  
 __uncanny valley__ _idiom_ :three::hammer:  
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
@@ -13214,6 +13223,7 @@ __undertake__ _v_ _A video of cyclists overtaking and undertaking a horse rider.
 __undertow__  
 __underwhelm__ _v_ To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::three::hammer: Failing to make a positive impact or impression; disappointing.  
+__underworld__ _n_ Criminals and their associates considered collectively.  
 __underwrite__ _v_ :five::hammer: (underwriting)  
 __underwriter__  
 __undeterred__  
@@ -13246,6 +13256,7 @@ __unheard of__ _idiom_ :three: Extremely uncommon or unusual; beyond belief.
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
 __unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
+__unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthought-of  
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
 __unimpeded__ _v_  
 __Union Jack__ _n_ :camera:  
@@ -13431,7 +13442,7 @@ __vein__ _Gold vein._
 __Velcro__ _n_  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
-__venal__  
+__venal__ _adj_ :two::astonished: Dishonest and ready to do anything in order to get money.  
 __venality__  
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :five::hammer: (veneers)  
