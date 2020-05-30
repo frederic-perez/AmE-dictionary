@@ -1,5 +1,16 @@
 
 
+__inveterate__ _adj_ Always doing a particular thing, especially something bad, and unlikely to change.  
+__have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
+__have (one's) head read__ _idiom_ To have one's logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
+__extricate__ _v_ To remove or free from complication, hindrance, or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._  
+__longueur__ _n_ A dull and tedious passage or section (as of a book, play, or musical composition) — usually used in plural.  
+__have no time for (someone or something)__ _idiom_ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
+__conflagration__ _n_ A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._  
+__have eyes bigger than (one's) stomach__ _idiom_ To take more food than one is actually capable of eating.  
+__drudgery__ _n_ Hard, menial, and monotonous work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
+__exiguous__ _adj_  
+
 __boorish__ _adj_ Rude and not caring about other people’s feelings.  
 __crooked__ _adj_  
 __bat an eye__ _idiom_  
