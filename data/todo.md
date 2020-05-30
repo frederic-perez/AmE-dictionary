@@ -1,4 +1,14 @@
 
+__hookah__ _n_  
+__locust__ _n_  
+__rap sheet__ _n_ _slang_ A record kept by law-enforcement authorities of a person's arrests and convictions.  
+__copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
+__a stab at (someone or something)__ _idiom_  
+__preposterous__ _adj_ Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
+__proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
+__HDL-C__ _abbr_ High-density-lipoprotein cholesterol.  
+__mainstay__ _n_  
+__outcome__ _n_ _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
 
 __inveterate__ _adj_ Always doing a particular thing, especially something bad, and unlikely to change.  
 __have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
