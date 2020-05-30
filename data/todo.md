@@ -1,5 +1,16 @@
 
 
+__boorish__ _adj_ Rude and not caring about other people’s feelings.  
+__crooked__ _adj_  
+__bat an eye__ _idiom_  
+__kickback__ _n_  
+__relay__ _v_ _Ed was relaying a message directly from Jane._  
+__straighten__ _v_ To make something straight. _You should straighten him out._  
+__jangle__ _v_ (jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe's office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
+__klutz__  
+__oomph__ _n_ __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
+__time and again__ _idiom_  Again and again; repeatedly.  
+
 __last hurrah__ _idiom_ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
 __rotund__ _adj_  
 __pony up__ _phr v_ _slang_ To pay (money owed or due).  
