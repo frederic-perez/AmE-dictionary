@@ -1,5 +1,16 @@
 
 
+__plaintive__ _adj_ Expressing sorrow; mournful: _a plaintive melody_; wistful, sad.  
+__escapism__ _n_ The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
+__in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
+__back to the salt mines__ _idiom_ Back to one's job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I'm not excited to get back to the salt mines on Monday._  
+__be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
+__palatable__ _adj_  
+__toothsome__ _adj_  
+__delectable__ _adj_ _Syn_ delicious  
+__nuke__ _v_ _slang_ To heat or cook something in a microwave oven.  
+__nooner__ _n_ _slang_ A brief midday sexual encounter.  
+
 __no good deed goes unpunished__ _idiom_ Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that "no good deed goes unrewarded."  
 __malapropism__ _n_  
 __good books__ _idiom_ Favorable, kindly, or approving regard or treatment. Usually used in the phrase "in someone's good books" or some variation thereof.  
