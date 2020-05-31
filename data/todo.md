@@ -1,4 +1,16 @@
 
+
+__elated__ _adj_  
+__mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
+__butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
+__pay through the nose__ _idiom_  
+__narrow escape__ _idiom_  
+__enthuse__ _v_ (enthused)  
+__whet__ _v_  
+__skyjack__ _v_ To hijack (an aircraft).  
+__adamant__ _adj_  
+__unctuous__ _adj_ :dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
+
 __hookah__ _n_  
 __locust__ _n_  
 __rap sheet__ _n_ _slang_ A record kept by law-enforcement authorities of a person's arrests and convictions.  
