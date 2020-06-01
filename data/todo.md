@@ -1,5 +1,16 @@
 
 
+__jai-alai__ _n_ A Basque or Spanish game played in a court with a ball and a wickerwork racket. _A jai alai game._  
+__driven snow__ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
+__chauffeured__ _v_  
+__stilted__ _adj_  
+__hustle__ _v_  
+__riches__ _n_  
+__hooked on (someone or something)__ _idiom_  
+__since__ _adv_ __1__ From then until now or between then and now. _They left town and haven't been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
+__roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
+__steer__ _n_ A young ox, especially one castrated before sexual maturity and raised for beef. :es: buey _A cross between a buffalo and a steer._  
+
 __plaintive__ _adj_ Expressing sorrow; mournful: _a plaintive melody_; wistful, sad.  
 __escapism__ _n_ The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
