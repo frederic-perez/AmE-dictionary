@@ -1,5 +1,16 @@
 
 
+__groundwork__ _n_ _Joy laid the groundwork with a series of cozy phone calls._  
+__precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
+__megalomanic__ _adj_ Suffering from megalomania.  
+__trudge__ _v_  
+__volition__ _n_  
+__elicit__ _v_  
+__Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
+__liaison__ _n_  
+__cagey__ _Pam tried to play it cagey._  
+__Attorney General__ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
+
 __no good deed goes unpunished__ _idiom_ Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that "no good deed goes unrewarded."  
 __malapropism__ _n_  
 __good books__ _idiom_ Favorable, kindly, or approving regard or treatment. Usually used in the phrase "in someone's good books" or some variation thereof.  
