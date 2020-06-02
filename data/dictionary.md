@@ -700,6 +700,7 @@ __back down__ _v_
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back in the day__ _idiom_ At a time in the past that is remembered with fondness or nostalgia.  
 __back out__ _v_ :three::hammer:  
+__back to the salt mines__ _idiom_ Back to one's job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I'm not excited to get back to the salt mines on Monday._  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
 __back-of-house__ _Back-of-house technology._  
 __back-office__ _Back-office analytics._  
@@ -888,7 +889,7 @@ __be full of yourself__ _idiom_ To think that you are very important in a way th
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
-__be left out in the cold__ _idiom_ To be ignored, forgotten and neglected.  
+__be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
@@ -2105,6 +2106,7 @@ __chasuble__ _n_ :two::hammer:
 __chattel__  
 __chatter__ _A machine-gun chatter._  
 __chatterbox__ _n informal_ :three::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
+__chauffeured__ _v_  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
@@ -3222,7 +3224,7 @@ __dejected__
 __deking__  
 __dekulakization__ _n_  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
-__delectable__ _adj_ :three::hammer:  
+__delectable__ _adj_ :four::hammer: _Syn_ delicious  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _Non-delegatable actions._  
@@ -3727,6 +3729,7 @@ __drive-by<sup>1</sup>__ _adj_
 __drive-by<sup>2</sup>__ _n_  
 __drive-up__ _Drive-up motels._  
 __drivel__ _n_ :two::hammer:  
+__driven snow__ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
 __drivetrains__  
 __driveway__  
 __drizzle__ :two::hammer:  
@@ -4120,7 +4123,7 @@ __erupted__ _v_
 __escalation__ _n_  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::two: A usually adventurous action that runs counter to approved or conventional conduct.  
-__escapism__ _n_ :mega:  
+__escapism__ _n_ :two::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -6132,6 +6135,7 @@ __hoods__ _n_ :two::hammer: _Too many hoods had visited his home._
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
 __hook up__  
+__hooked on (someone or something)__ _idiom_  
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
 __hookup__ _n_  
 __hooky__ _A kid playing hooky._  
@@ -6253,7 +6257,7 @@ __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
-__hustle__ _v_ :two::mute:[hus~~t~~le]:hammer:  
+__hustle__ _v_ :three::mute:[hus~~t~~le]:hammer:  
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
@@ -6386,6 +6390,7 @@ __in fold__
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
+__in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ _idiom_ Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__  
 __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
@@ -6630,6 +6635,7 @@ __jaded__ _adj_
 __Jag__ Jaguar (car)  
 __jagged__ :two::hammer:  
 __jagging__  
+__jai-alai__ _n_ A Basque or Spanish game played in a court with a ball and a wickerwork racket. _A jai alai game._  
 __jailbait__ A girl who is younger than the legal age of consent for sexual activity.  
 __jakelegs__  
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
@@ -8224,6 +8230,7 @@ __nonstop__
 __noodle<sup>1</sup>__ _n_ Brain. _Use your noodle._  
 __noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
 __nookie__  
+__nooner__ _n_ _slang_ A brief midday sexual encounter.  
 __noontime__ _n_ _It was noontime, time for lunch._  
 __noose<sup>1</sup>__ _n_ :five::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
@@ -8261,7 +8268,7 @@ __nucleotide__ _n_
 __nuder__ _Officers found a small sliver handgun nuder the passenger seat._  
 __nugget__ (nuggets) :two::hammer:  
 __nuisance__  
-__nuke__ _v_ _slang_ To heat or cook something in a microwave oven.  
+__nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :four::hammer: (nullified)  
 __numb__ :two::mute:[num~~b~~]:hammer:  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
@@ -8658,7 +8665,7 @@ __paint the town red__ _idiom_ Have a good time.
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __palanquin__ _n_  
-__palatable__ _adj_ :three::hammer:  
+__palatable__ _adj_ :four::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump's proposal "beyond the pale."_  
 __paleo__  
@@ -9145,7 +9152,7 @@ __plague<sup>2</sup__ _v_
 __plaid__ :two::hammer: _Plaid number._ _Plaid shirt._  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
-__plaintive__ _adj_ :three: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
+__plaintive__ _adj_ :four: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
 __plaintively__ _adv_ :two:  
 __plaiting__ _Tshanyi earns money plaiting hair._  
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
@@ -10222,7 +10229,7 @@ __rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ :two::hammer:  
-__riches__ _pl n_ :eight: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
+__riches__ _pl n_ :nine: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
@@ -10338,6 +10345,7 @@ __rolling hills__ :two::hammer: :es: colinas (onduladas)
 __rolling meadows__  
 __rollout__ _n_ :three::hammer: (rollouts)  
 __rollovers__  
+__roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
 __romanticize__ _v_ :pencil2:  
 __romp__ _v_ :six::hammer:  
 __rondo__ _n_ (music)  
@@ -11142,6 +11150,7 @@ __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in 
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
+__since__ _adv_ __1__ From then until now or between then and now. _They left town and haven't been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
 __sine die__  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
 __sinergy__ _n_ (sinergies)  
@@ -11891,7 +11900,8 @@ __steeplechase__
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeples__ _n_  
 __steeply__ :two::hammer:  
-__steer__ _v_  
+__steer<sup>2</sup>__ _n_ A young ox, especially one castrated before sexual maturity and raised for beef. :es: buey _A cross between a buffalo and a steer._  
+__steer<sup>1</sup>__ _v_  
 __stein__ _n_  
 __stem-winding__ _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
@@ -11938,7 +11948,7 @@ __stile__ _n_
 __still life__ _Still life painting._  
 __stillbirth__ _n_ :two::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
-__stilted__ _adj_ __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
+__stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __sting<sup>1</sup>__ _n_  
 __sting<sup>2</sup>__ _v_ _They were stung by a man who sells socks without feet._  
 __stinger__  
@@ -12843,7 +12853,7 @@ __tooth decay__ (cavity, cavities) :es: caries
 __tooth-gnashing__  
 __tooth-wrecking__  
 __toothless__ _Some consider most of those laws toothless._  
-__toothsome__ _adj_ :two: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
+__toothsome__ _adj_ :three: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
 __tootsie__ _n_  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top bill__ _I'm not my usual top billing._  
