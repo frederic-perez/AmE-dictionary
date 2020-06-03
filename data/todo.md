@@ -1,27 +1,5 @@
 
 
-__groundwork__ _n_ _Joy laid the groundwork with a series of cozy phone calls._  
-__precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
-__megalomanic__ _adj_ Suffering from megalomania.  
-__trudge__ _v_  
-__volition__ _n_  
-__elicit__ _v_  
-__Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
-__liaison__ _n_  
-__cagey__ _Pam tried to play it cagey._  
-__Attorney General__ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
-
-__no good deed goes unpunished__ _idiom_ Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that "no good deed goes unrewarded."  
-__malapropism__ _n_  
-__good books__ _idiom_ Favorable, kindly, or approving regard or treatment. Usually used in the phrase "in someone's good books" or some variation thereof.  
-__somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
-__have good antennae__ _idiom_ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli.  
-__choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
-__solace__ _n_ Something that makes you feel better when you are sad or upset.  
-__golden years__ _idiom_ The years following one's retirement (generally after the age of 65).  
-__palpitate__ _v_ Shake with fast, tremulous movements. _Syn_ quake, quiver _The encounter with the robber made me palpitate with fear, and hours passed before I stopped shaking._  
-__soi-disant__ _adj_ As claimed by and for yourself often without justification. _The self-styled `doctor' has no degree of any kind._ _Syn_ self-styled  
-
 __elated__ _adj_  
 __mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
 __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  

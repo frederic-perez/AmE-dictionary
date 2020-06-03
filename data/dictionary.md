@@ -633,6 +633,7 @@ __attendee__ _n_ :two::mega::hammer:
 __attest__ _v_ :two::hammer:  
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
 __Attn__  
+__Attorney General__ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
 __attract__ _v_  
 __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
 __attrition__ _n_ :six::hammer:  
@@ -1775,7 +1776,7 @@ __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
 __caftan__ _n_ :four::hammer: (caftans)  
-__cagey__ _adj_ :two: __1__ Wary; careful: _a cagey avoidance of a definite answer._ __2__ Crafty; shrewd: _a cagey lawyer._  
+__cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
 __cagy__ _adj_ Variant of cagey.  
 __cahoots__  
@@ -2191,6 +2192,7 @@ __choice__ _v_ _Pick your choice._
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
 __choker__ _A velvet choker._  
+__choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_  
 __chomping__  
 __chop__ _v_  
@@ -3953,7 +3955,7 @@ __elevator operator__ :camera:
 __elevator__ _n_  
 __elevators__ (airplane)  
 __ELIA5__ Explain Like I Am 5.  
-__elicit__ _v_ :six::hammer: (elicited)  
+__elicit__ _v_ :seven::hammer: (elicited)  
 __elide__ _v_ :two: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
 __elision__  
@@ -5337,6 +5339,7 @@ __Golden Boot__ _The race for the Golden Boot._
 __golden goose__ _idiom_ :two::hammer: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time.  
 __golden rule__  
 __golden ticket__ _idiom_ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
+__golden years__ _idiom_ The years following one's retirement (generally after the age of 65).  
 __goldfinch__ _n_ :es: jilguero  
 __golf widow__ _idiom_ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __golliwog__ _n_  
@@ -5347,7 +5350,7 @@ __gondola__ _A 10-person rescue gondola can be attached to a helicopter._
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
-__good books__ _idiom_ Favorable, kindly, or approving regard or treatment. Usually used in the phrase "in someone's good books" or some variation thereof.  
+__good books__ _idiom_ :two: Favorable, kindly, or approving regard or treatment. Usually used in the phrase "in someone's good books" or some variation thereof.  
 __good egg__ _A heel who learns how to be a good egg._  
 __good enough for jazz__ _idiom_ Sufficient to suit the purpose(s) at hand without needing to be perfect.  
 __good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
@@ -5519,7 +5522,7 @@ __groundskeeper__
 __groundstroke__ _n_  
 __groundswell__ _n_ :five::hammer:  
 __groundwater__  
-__groundwork__  
+__groundwork__ _n_ :two::hammer: _Joy laid the groundwork with a series of cozy phone calls._  
 __groupies__ _n_  
 __grouse__ _v_ :four::hammer: (groused) _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
@@ -5813,6 +5816,7 @@ __have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advan
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
+__have good antennae__ _idiom_ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli.  
 __have had (one's) chips__ _idiom_ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
 __have hot pants (for someone)__ _idiom_  
 __have it easy__ _idiom_ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
@@ -7180,7 +7184,7 @@ __lewd__ _adj_ :three::hammer:
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
 __liable__ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ :two::hammer:  
+__liaison__ _n_ :three::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
@@ -7487,7 +7491,7 @@ __makeup game__
 __maki__ _n_  
 __making waves__ :two::hammer:  
 __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
-__malapropism__ _n_  
+__malapropism__ _n_ :two::hammer:  
 __malarkey__ _n_ :dart::four::mega::hammer:  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
@@ -7655,6 +7659,7 @@ __meet-and-greet__ _idiom_ A session where a celebrity, etc, is introduced to or
 __meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup._  
 __megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
 __megalomaniac__ _n_ Someone who enjoys power over other people and always wants more of it.  
+__megalomanic__ _adj_ Suffering from megalomania.  
 __meh__  
 __mélange__ _n_  
 __melee__ _n_  
@@ -8186,7 +8191,7 @@ __nitty-gritty__ _n_ :five: The essence; the essential points. (Usually in get d
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
 __no early birds__ _No early birds allowed because it just wouldn't be fair to the other shoppers who waited until the opening time._ _If you have advertised "No Early birds" then do not allow any early birds to even browse through your sale before the open time._  
-__no good deed goes unpunished__ _idiom_ Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that "no good deed goes unrewarded."  
+__no good deed goes unpunished__ _idiom_ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that "no good deed goes unrewarded."  
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __no offense__  
@@ -8683,6 +8688,7 @@ __palomas__
 __palpably__  
 __palpate__ _v_ To examine by touch especially medically.  
 __palpebral__ _adj_  
+__palpitate__ _v_ Shake with fast, tremulous movements. _Syn_ quake, quiver _The encounter with the robber made me palpitate with fear, and hours passed before I stopped shaking._  
 __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I'm surprised you haven't met Ricky's new palsy-walsy from school yet—they're together all the time._  
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
@@ -9397,6 +9403,7 @@ __prayer wheel__
 __pre-emptive__  
 __precarious__  
 __preceded__ _v_  
+__precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
 __preceptor__ :two::hammer:  
 __precint__  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
@@ -11511,12 +11518,13 @@ __soft-spoken__ _adj_ :two::hammer:
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
+__soi-disant__ _adj_ As claimed by and for yourself often without justification. _The self-styled `doctor' has no degree of any kind._ _Syn_ self-styled  
 __soignée__  
 __soil__ _v_  
 __soiled__  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
-__solace__ _n_ :two::hammer:  
+__solace__ _n_ :three: Something that makes you feel better when you are sad or upset.  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
@@ -11539,6 +11547,7 @@ __sombreros__
 __someone's hair__ _He built the shop to get his hobby out of his wife's hair._  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
 __somewhat__  
+__somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
 __son of a biscuit__  
 __sonny__  
 __sonogram__  
@@ -11900,8 +11909,8 @@ __steeplechase__
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeples__ _n_  
 __steeply__ :two::hammer:  
-__steer<sup>2</sup>__ _n_ A young ox, especially one castrated before sexual maturity and raised for beef. :es: buey _A cross between a buffalo and a steer._  
 __steer<sup>1</sup>__ _v_  
+__steer<sup>2</sup>__ _n_ A young ox, especially one castrated before sexual maturity and raised for beef. :es: buey _A cross between a buffalo and a steer._  
 __stein__ _n_  
 __stem-winding__ _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
@@ -12064,6 +12073,7 @@ __stricken__ _adj_ :six::hammer: _Stricken people._
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
 __strife__ _n_ :nine: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
 __strike__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
 __striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
@@ -13048,7 +13058,7 @@ __troy__
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
 __truculent__ :two::hammer:  
-__trudge__ _v_ :nine::hammer: (trudged, trudging)  
+__trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
 __true colors__  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
@@ -13541,7 +13551,7 @@ __voice over__ _n_ (voice-over)
 __voicemail call__ _n_ (?)  
 __volatile__ _adj_  
 __volcano__  
-__volition__ :two::hammer:  
+__volition__ _n_ :three::hammer:  
 __volley__ :two::hammer: _A volley of invective._ _(military attack?)_  
 __voltage__ _n_ :two::mega::hammer:  
 __voltron__  
