@@ -15,6 +15,7 @@
 - __Meg__ Often a short form of Margaret, Megan, Megumi (Japanese), etc.
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro
 - __Pam__ Often a diminutive form of Pamela.
+- __Tim__ A masculine given name; it can also be used as a short form of Timothy.  
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Zig__
 - __Zoe__ A female first name of Greek origin, meaning "Life".
