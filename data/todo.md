@@ -1,27 +1,5 @@
 
 
-__elated__ _adj_  
-__mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
-__butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
-__pay through the nose__ _idiom_  
-__narrow escape__ _idiom_  
-__enthuse__ _v_ (enthused)  
-__whet__ _v_  
-__skyjack__ _v_ To hijack (an aircraft).  
-__adamant__ _adj_  
-__unctuous__ _adj_ :dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
-
-__hookah__ _n_  
-__locust__ _n_  
-__rap sheet__ _n_ _slang_ A record kept by law-enforcement authorities of a person's arrests and convictions.  
-__copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
-__a stab at (someone or something)__ _idiom_  
-__preposterous__ _adj_ Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
-__proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
-__HDL-C__ _abbr_ High-density-lipoprotein cholesterol.  
-__mainstay__ _n_  
-__outcome__ _n_ _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
-
 __inveterate__ _adj_ Always doing a particular thing, especially something bad, and unlikely to change.  
 __have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
 __have (one's) head read__ _idiom_ To have one's logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  

@@ -46,6 +46,7 @@ __a rolling stone gathers no moss__ People pay a price for being always on the m
 __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
 __a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
 __a sobering thought__ _idiom_ A thought or idea which is dispiriting, depressing, or traumatic.  
+__a stab at (someone or something)__ _idiom_  
 __a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
@@ -155,7 +156,7 @@ __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an improm
 __Ada__ :mega: /ā′də/  
 __adage__ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
 __Adam's ale__ _slang_ Water.  
-__adamant__  
+__adamant__ _adj_ :two::hammer:  
 __add insult to injury__ _idiom_ To hurt the feelings of a person who is already upset.  
 __add up to__ _idiom_ To equal or amount to something.  
 __add up__ _phr v_ :four::hammer: _The whole thing doesn't add up._  
@@ -1700,6 +1701,7 @@ __butt-strap__ _n_
 __butt<sup>1</sup>__ _v_  
 __butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
 __butter cups__ _organic peanut butter cups._  
+__butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
 __buttercups__  
 __butterfingers__ _idiom_ A person who frequently drops things, clumsy person.  
 __butternut__  
@@ -2689,6 +2691,7 @@ __cops and robbers__ (play)
 __copse__ _n_ :three::hammer: _A brushy copse._  
 __copter__ _n_ :three::hammer: _Navy copter._  
 __Coptic__  
+__copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
 __coracle__ :two::hammer: (coracles)  
 __cord blood__  
 __cord__ _n_ :camera:  
@@ -3935,7 +3938,7 @@ __EKG__
 __el__ :two::hammer: _The el tracks._  
 __elaborate__ _v_ :dart:  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
-__elated__ _adj_  
+__elated__ _adj_ :two::hammer:  
 __elation__ _n_ :three::hammer:  
 __elbow grease__ _idiom_ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
@@ -5854,6 +5857,7 @@ __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._
 __hazel__  
 __hazing__ _The college hazing policy._  
 __hazmat suit__  
+__HDL-C__ _abbr_ High-density-lipoprotein cholesterol.  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head over heels__ _idiom_ :three: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
@@ -6139,6 +6143,7 @@ __hoods__ _n_ :two::hammer: _Too many hoods had visited his home._
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
 __hook up__  
+__hookah__ _n_  
 __hooked on (someone or something)__ _idiom_  
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
 __hookup__ _n_  
@@ -7304,8 +7309,7 @@ __locks > alcohol ignition locks__
 __locks__ _n_ _The thick locks of black hair._  
 __locksmith__  
 __lockstep__ :two::hammer:  
-__locust__ :two::hammer:  
-__locusts__ _n_  
+__locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_  
 __lodges__ _Fishing lodges._  
 __lodging__  
@@ -7467,7 +7471,7 @@ __mailman__ _n_
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __maimed__  
 __Main Street__  
-__mainstay__ _A mainstay of his business._  
+__mainstay__ _n_ :two::hammer: _A mainstay of his business._  
 __maitre d'__  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __major__ _v_  
@@ -7942,6 +7946,7 @@ __motorist__ _n_ :two: A person who drives or travels in a privately owned autom
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mould__ _n_  
+__mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
 __mountebank__  
@@ -8074,7 +8079,7 @@ __Narcan__ _A state trooper administered Nascar to reverse the effects of an app
 __narcissistic__ _adj_ :two::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__  
-__narrow escape__  
+__narrow escape__ _idiom_ :two::hammer:  
 __narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
 __narrow-minded__ _adj_  
 __narrowly__ _I narrowly escaped execution._  
@@ -8526,7 +8531,7 @@ __outbox__ _n_
 __outbreak__ _n_ :five::hammer: (outbreaks)  
 __outburst__ _n_ :three::hammer:  
 __outcast__ _n_  
-__outcome__ _n_ (outcomes)  
+__outcome__ _n_ :two::hammer: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
 __outcroppings__  
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
@@ -8837,7 +8842,7 @@ __paving stones__
 __paw__ _v_ _A drunken master paws her._  
 __pax vobiscum__ _phr_ Peace be with you.  
 __pay off__ _v_  
-__pay through the nose (for something)__ _idiom_ :two::hammer:  
+__pay through the nose (for something)__ _idiom_ :three::hammer:  
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__ _n_ :two::hammer:  
 __paydirt__ :two::hammer:  
@@ -9430,7 +9435,7 @@ __prep__ (prepping) _I was prepping for the show._
 __prep<sup>1</sup>__ _n_? (preparatory?)  
 __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
 __prepone__ _v_ To bring forward to an earlier time.  
-__preposterous__ _adj_ :eight::hammer:  
+__preposterous__ _adj_ :nine: Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
 __preposterously__ :two::hammer:  
 __preppers__  
 __prepping__ _v_  
@@ -9510,6 +9515,7 @@ __pro__ _The pro column, not the con column._
 __probation__ _A person has ben sentenced to probation._  
 __probity__  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
+__proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod__ (prodded) :two::hammer: :es: _empujón_  
@@ -9876,6 +9882,7 @@ __ransack__ _v_ :five::hammer: (ransacked)
 __ransomware__  
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
+__rap sheet__ _n_ _slang_ A record kept by law-enforcement authorities of a person's arrests and convictions.  
 __rap__ _South has a bad rap._  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
@@ -11232,6 +11239,7 @@ __skullcap__
 __skunk__ _n_  
 __skunworks__  
 __sky high__  
+__skyjack__ _v_ To hijack (an aircraft).  
 __skylight__  
 __skyrocket__ _v_ :three::hammer:  
 __skyscraper__ _n_  
@@ -13212,7 +13220,7 @@ __unconvinced__
 __uncouth__ _adj_ :three::hammer:  
 __uncrating__  
 __unction__ _n_  
-__unctuous__ :two::hammer:  
+__unctuous__ _adj_ :dart::three: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __under (one's) breath__ _idiom_ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
 __under (someone's) watch__  
@@ -13781,7 +13789,7 @@ __whereabouts__
 __whereas__  
 __whereby__  
 __wherewithal__ _n_ :four::hammer:  
-__whet__ _v_ :eight: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year's Part 2._  
+__whet__ _v_ :nine: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year's Part 2._  
 __whether__ :mute:[w~~h~~ether]  
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
