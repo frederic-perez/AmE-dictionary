@@ -863,7 +863,7 @@ __bass__ :two::hammer: (fish) _Fingerling bass._
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
 __bastion__ _n_ :three::hammer: _He tried to soften the National Front's image as a bastion of xenophobes._  
-__bat an eye__ To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn't even bat an eye when I told her I was moving out._  
+__bat an eye__ _idiom_ :two: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn't even bat an eye when I told her I was moving out._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bate__ _v_ (bated) _They watched with bated breath._  
 __bath tissue__  
@@ -1352,7 +1352,7 @@ __booms__ _n_ :two::hammer:
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
 __boonies__  
-__boorish__ _adj_ :three: Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking ande boorish behavior._ _Boorish behavior._  
+__boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
 __boorishness__ :two::hammer:  
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
@@ -2584,7 +2584,7 @@ __confidant__ _n_ :seven::hammer: (also confidante)
 __confide__ _v_ :four::hammer: (confided)  
 __confidence__  
 __config__ :mega: _A config file._  
-__conflagration__ _n_  
+__conflagration__ _n_ :two: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._  
 __conflate__ _v_  
 __confluence__ _n_  
 __confound__ _v_ :eight::hammer: (confounded, confounding)  
@@ -2893,7 +2893,7 @@ __cronies__ _n_ :four::hammer: _Military cronies._
 __crony__ _n_ :three::hammer:  
 __cronyism__ _n_ :dart::six: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
 __crook__ _n_ :three::hammer: (crooks) _They carried long crooks._  
-__crooked__ :two::hammer: _Crooked media._  
+__crooked__ _adj_ :three::hammer: _Crooked media._  
 __crop-duster__ _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
 __cross (oneself)__ :es: santiguarse  
@@ -3765,7 +3765,7 @@ __drub__ _v_
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ A person who does tedious, menial, or unpleasant work.  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
-__drudgery__ _n_ :three::dart: Tedious, menial, or unpleasant work.  
+__drudgery__ _n_ :four::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
 __drugstore__  
 __drugwise__  
 __drum up__  
@@ -4201,7 +4201,7 @@ __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
 __exhilarate__ :mute:[ex~~h~~ilarate]  
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
-__exiguous__ _adj_  
+__exiguous__ _adj_ :two::hammer:  
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
@@ -4239,7 +4239,7 @@ __extort__ _v_
 __extra pair of hands__ _idiom_ Additional help or assistance provided by another person. _Don't you want to hire an extra pair of hands?_  
 __extraneous__  
 __extremes__  
-__extricate__ _v_ :six::hammer: (extricated) _Rescue crews extricated him from the car._  
+__extricate__ _v_ :seven: (extricated) To remove or free from complication, hindrance, or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._  
 __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
 __eye candy__ _idiom_ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye dropper__ _n_  
@@ -5800,6 +5800,8 @@ __have (got) (someone's) back__ _idiom_ :three: To be willing and prepared to he
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
 __have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
+__have (one's) head read__ _idiom_ To have one's logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
+__have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
 __have (someone's) blood on (one's) head__ _idiom_ To be the cause of (someone's) death; to bear the guilt or responsibility of (someone's) death or injury.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
@@ -5819,12 +5821,14 @@ __have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advan
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
+__have eyes bigger than (one's) stomach__ _idiom_ To take more food than one is actually capable of eating.  
 __have good antennae__ _idiom_ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli.  
 __have had (one's) chips__ _idiom_ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
 __have hot pants (for someone)__ _idiom_  
 __have it easy__ _idiom_ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
 __have it out (with someone)__ _idiom_ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
 __have its/(one's) day__ _idiom_ To be at the height of or experience success or prosperity.  
+__have no time for (someone or something)__ _idiom_ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have rocks in (one's) head__ _idiom_ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
 __have seen (one's) day__ _idiom_ To be beyond one's prime; to be no longer useful, effective, or functional.  
@@ -6595,7 +6599,7 @@ __inured__ _v_ :two::hammer:
 __inurnment__  
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveighed__  
-__inveterate__ _adj_ :three::hammer:  
+__inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
 __invoice__ _v_  
 __invoke__  
 __IP__ Intelectual property.  
@@ -6659,7 +6663,7 @@ __jampacked__ _v_
 __jams__ _n_  
 __Jane Doe__ _slang_ An unidentified woman.  
 __Janes and Joes__ :pencil2: _Regular Janes and Joes._  
-__jangled__ _v_  
+__jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe's office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __janitor__ _n_  
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
@@ -6853,7 +6857,7 @@ __kick the crap out of (someone)__ _idiom_
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children's game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
 __kickback schemes__  
-__kickback__ _n_ :four::hammer: (kickbacks) _A kickback deal._  
+__kickback__ _n_ :five::hammer: (kickbacks) _A kickback deal._  
 __kickoff__ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
 __kid around__ _phr v_ To have fun by acting in a silly way.  
@@ -6899,7 +6903,7 @@ __kitsch__
 __kitten__  
 __kiwi__  
 __kleptocracy__ :two::hammer:  
-__klutz__ :two::hammer:  
+__klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She's got a knack for it._  
 __knackered<sup>1</sup>__ _v_  
 __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
@@ -7338,6 +7342,7 @@ __longing__ _n_ :dart::two::hammer:
 __longitudinal__ _Longitudinal findings from the study._  
 __longstanding__ _adj_ :four::hammer:  
 __longtime__ _The longtime dictator._  
+__longueur__ _n_ A dull and tedious passage or section (as of a book, play, or musical composition) — usually used in plural.  
 __look back on__ _phr v_ To think about something that happened in the past.  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
@@ -8457,7 +8462,7 @@ __onslaught__ :two::hammer:
 __onus__ _n_ :five::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
 __oompah__ :two::hammer: _The house oompah band._  
-__oomph__ :two::hammer:  
+__oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open (one's) eyes__ _idiom_ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
@@ -10093,8 +10098,8 @@ __rejoinder__ _n_ :three: An answer, especially to a reply.
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ _adj_ :three::hammer:  
 __relate__ _v_  
-__relay__ _A relay race._  
-__relayed__ _v_  
+__relay<sup>1</sup>__ _n_ _A relay race._  
+__relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
 __relegation__ _Sports_  
 __relent__ _v_ :four::hammer: (relented)  
 __relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
@@ -12042,7 +12047,7 @@ __straight-A student__
 __straight-arrow__ _adj_ :three::hammer: _They were hopelessly straight-arrow._  
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
-__straighten__ _v_ (straightened) To make or become straight. _We straightened the problems out._  
+__straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strain<sup>2</sup>__ _n_ :four::hammer: _Can you keep an even strain?_  
 __strained__ _adj_ :three::hammer: _A strained thumb._  
@@ -12749,6 +12754,7 @@ __tilapia__
 __tiller__  
 __tiltyard__  
 __time and (time) again__ _idiom_ :three::dart: Repeatedly; on multiple occasions.  
+__time and again__ _idiom_ Again and again; repeatedly.  
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
 __time line__ _Can it be done in that time line?_  
