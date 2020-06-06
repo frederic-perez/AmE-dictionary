@@ -7993,7 +7993,7 @@ __muggy__ :two::hammer: _The weather was muggy._
 __mulberry__ _n_ :three::hammer: (mulberries)  
 __mulch__ _n_ :two::hammer:  
 __mulching__ _v_  
-__mull__ _v_ :nine::m::hammer: (mulled, mulling) _His mug of mulled cider._ _Cheney was mulling a Senate bid._  
+__mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. _His mug of mulled cider._  
 __mullah__ _n_  
 __mullet__ :two::hammer:  
 __mulligan__ _n_  
@@ -9751,7 +9751,7 @@ __quarrelsome__
 __quarry__  
 __quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
-__quash__ _v_ :nine::m::hammer: (quashed) _To quash her subpoena._  
+__quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quavered__  
 __quavering__  
 __quay__ _n_  
@@ -10943,10 +10943,11 @@ __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ :two::hammer:  
 __sheer yoga pants__ :camera:  
-__sheer<sup>1</sup>__ _adj_ :nine::m::hammer: _The sheer magnitude of threats._ _Sheer brazenness._ _Sheet rock._ _Sheer size._ _The sheer scale of the operations surprised many._  
+__sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
 __sheet__ _n_ :two:  
+__sheet rock__  
 __sheeting__  
 __sheik__ _n_ :two::pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
