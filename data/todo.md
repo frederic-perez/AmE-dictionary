@@ -1,5 +1,16 @@
 
 
+__bode__ _v_ Indicate by signs. _These signs bode bad news._  
+__Mx.__ A title of respect prefixed to a person's surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
+__plunger__ _n_  
+__rash__ _adj_ Acting or done too quickly, without considering the effects of your actions. _I made a rash decision based on emotions._  
+__jaded__ _adj_ No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
+__lampoon__ _v_ (lampooned)  
+__fave__ _v_ _informal_  
+__wellspring__ _n_ __1__ The source of a stream, spring, etc.; fountainhead. __2__ A source of abundant and continual supply. _A wellspring of knowledge._  
+__rep__ _n_  
+__rave__ _adj_ _informal_ Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
+
 __prick__ _v_ __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._  
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __fib__ _n_ A trivial and harmless lie.  
