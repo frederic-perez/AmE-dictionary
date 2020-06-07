@@ -1,5 +1,16 @@
 
 
+__anthropogenic__  
+__afforestation__ :pencil2:   
+__sediment__ _n_  
+__glider__ _n_  
+__basin__ _n_  
+__convection__ _n_  
+__grassroots__ _A grassroots effort._  
+__opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
+__live up to (someone's) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for.  
+__iron out__ _v_  
+
 __bode__ _v_ Indicate by signs. _These signs bode bad news._  
 __Mx.__ A title of respect prefixed to a person's surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
 __plunger__ _n_  
