@@ -1,5 +1,16 @@
 
 
+__clamor__ _v_ __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
+__minimus__ _n_ The fifth digit; the little finger or little toe.  
+__wend__ _v_ To proceed or go: _She had to wend her way through the crowd._  
+__know the ropes__ _idiom_  
+__see red__ _idiom_ To become very angry.  
+__abide by__ _idiom_ To conform to; comply with: _abide by the rules._  
+__psyched__ _idiom_ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
+__jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
+__redeal__ _v_ To deal playing cards again.  
+__verge (up)on something__ _idiom_ To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
+
 __anthropogenic__  
 __afforestation__ :pencil2:   
 __sediment__ _n_  
