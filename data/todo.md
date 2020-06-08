@@ -1,5 +1,16 @@
 
 
+__assurance__ _n_ (assurances)  
+__rapacious__ _adj_ Never satisfied until you have taken everything that you can take.  
+__lean on__ _v_  
+__ruse__ _n_  
+__for all seasons__  
+__sucker__ _n_  
+__elated__ _v_  
+__sting__ _n_  
+__usury__  
+__tawdry__  
+
 __sultry__ _adj_  
 __stalk out__ _idiom_ To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
 __footwork__ _n_  
