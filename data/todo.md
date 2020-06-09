@@ -1,26 +1,5 @@
 
 
-__assurance__ _n_ (assurances)  
-__rapacious__ _adj_ Never satisfied until you have taken everything that you can take.  
-__lean on__ _v_  
-__ruse__ _n_  
-__for all seasons__  
-__sucker__ _n_  
-__elated__ _v_  
-__sting__ _n_  
-__usury__  
-__tawdry__  
-
-__sultry__ _adj_  
-__stalk out__ _idiom_ To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
-__footwork__ _n_  
-__fib__ _v_ (fibbed) To tell a trivial and harmless lie.  
-__tall__ _adj_ __3__ _informal_ Fanciful or exaggerated; boastful: _tall tales of heroic exploits._  
-__fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
-__pander__ _v_  
-__bird dog__ _n_ A gun dog trained to locate or retrieve birds. _I'm going to be your fuckin' bird dog._  
-__secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
-__groan__ _v_ (groaned)  
 __in tow__ _idiom_ Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
 
 __clamor__ _v_ __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  

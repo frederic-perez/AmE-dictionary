@@ -590,6 +590,7 @@ __assists__ _Green had 14 rebounds and nine assists._
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :four::hammer:  
+__assurance__ _n_ (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
 __asthma__ _n_  
@@ -1117,6 +1118,7 @@ __biomass__
 __biopic__  
 __bipartisan__  
 __birch__ _n_ (birches) _Birch and oak in stock._  
+__bird dog__ _n_ A gun dog trained to locate or retrieve birds. _I'm going to be your fuckin' bird dog._  
 __bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.  
 __birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
 __birds of the same feather__  
@@ -3938,7 +3940,7 @@ __EKG__
 __el__ :two::hammer: _The el tracks._  
 __elaborate__ _v_ :dart:  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
-__elated__ _adj_ :two::hammer:  
+__elated__ _adj_ :three::hammer:  
 __elation__ _n_ :three::hammer:  
 __elbow grease__ _idiom_ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
@@ -4452,6 +4454,7 @@ __fez__ _n_
 __fiancé__ A man who is engaged to be married.  
 __fiancée__ A woman who is engaged to be married.  
 __fiat__ _Military fiat._  
+__fib__ _v_ (fibbed) To tell a trivial and harmless lie.  
 __Fibbies__  
 __fiber__  
 __fiberglass__  
@@ -4550,7 +4553,8 @@ __fists bumping__
 __fit like a glove__ _idiom_ To fit perfectly.  
 __fit the bill__ :two::hammer: _His appearance fitted the bill._  
 __fit__ :two::hammer:  
-__fitful__ :two::hammer:  
+__fitful__ _adj_ :two::hammer:  
+__fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
 __fits__ _The cathedral has been built in fits._  
 __fittingly__ :two::hammer:  
 __five o'clock shadow__ _idiom_ A short beard on a man's face that has grown since the morning shave.  
@@ -4764,9 +4768,10 @@ __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.
 __foothold__ _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footloose__ :pencil2:  
-__footwork__  
+__footwork__ _n_ :two::hammer:  
 __for a bit__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
+__for all seasons__  
 __for better or worse__  
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
@@ -5506,7 +5511,7 @@ __grittier__ _It makes the queso a bit grittier._
 __gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzle__ _v_  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
-__groan__ _v_ :five::hammer: (groaned) (It sounds like _grown_.)  
+__groan__ _v_ :six::hammer: (groaned) (It sounds like _grown_.)  
 __grocer__ _n_ :two::hammer:  
 __grog__  
 __groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
@@ -7107,6 +7112,7 @@ __leaf mold__
 __leafy__  
 __league__ :mute:[leag~~u~~e]  
 __lean and mean__ _Companies are running lean and mean these days._  
+__lean on__ _v_  
 __lean protein__  
 __lean<sup>1</sup>__ _adj_ :three::hammer: _He is lean fast._ _Lean food._ _A lean face._  
 __lean<sup>2</sup>__ _v_  
@@ -8711,8 +8717,8 @@ __pan out__ _v_ :three::hammer:
 __pan__ _v_ _Obama pans republicans._  
 __panaceas__ _n_  
 __panache__ :two::hammer:  
-__pander__ _v_ :seven: (panders, pandering) (+to) To provide gratification for the desires of.  
-__panderer__  
+__pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
+__panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
 __panhandle__ _v_  
 __panhandling__  
@@ -9889,6 +9895,7 @@ __rant<sup>1</sup>__ _n_
 __rant<sup>2</sup>__ _v_  
 __rap sheet__ _n_ _slang_ A record kept by law-enforcement authorities of a person's arrests and convictions.  
 __rap__ _South has a bad rap._  
+__rapacious__ _adj_ Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
 __rapier__ _n_ :two: (rapiers) A straight sword with a narrow blade and two edges.  
@@ -10483,7 +10490,7 @@ __runt__
 __runway__  
 __Runyonesque__ _adj_  
 __ruptured__ _v_ _He ruptured his Achilles._  
-__ruse__ _n_ :five::hammer: (ruses)  
+__ruse__ _n_ :six::hammer: (ruses)  
 __rustle up__ _v_  
 __rustle__ _v_ :five::mute:[rus~~t~~le]:hammer: (rustled, rustling) _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
@@ -10774,6 +10781,7 @@ __second-guess__ _v_ :seven::dart: (second-guessing)
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret weapon__ _n_ :four: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
+__secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
 __secular__ :two::hammer:  
 __secure__ _v_ _Go online now to secure your seat._  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
@@ -10946,8 +10954,8 @@ __sheer yoga pants__ :camera:
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
-__sheet__ _n_ :two:  
 __sheet rock__  
+__sheet__ _n_ :two:  
 __sheeting__  
 __sheik__ _n_ :two::pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
@@ -11825,6 +11833,7 @@ __stale antiperspirant__
 __stale__ _adj_ :four::hammer: _The stale remains of a cup of coffee._  
 __staler__ _The air in the place grew staler._  
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
+__stalk out__ _idiom_ To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
 __stalk<sup>1</sup>__ _n_  
 __stalk<sup>2</sup>__ _v_  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
@@ -11972,7 +11981,7 @@ __still life__ _Still life painting._
 __stillbirth__ _n_ :two::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
-__sting<sup>1</sup>__ _n_  
+__sting<sup>1</sup>__ _n_ :two::hammer:  
 __sting<sup>2</sup>__ _v_ _They were stung by a man who sells socks without feet._  
 __stinger__  
 __stingy__ _adj_ :two::hammer: _Be stingy with your money._ _Syn_ parsimonious, penurious  
@@ -12177,7 +12186,7 @@ __succor__ _n_ :three::hammer:
 __succubus__ _n_ :three::hammer:  
 __succumb__ _v_ :four::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
-__sucker__ _n_ :three::hammer: (of a plant) _He is a sucker for anything cute._  
+__sucker__ _n_ :four::hammer: (of a plant) _He is a sucker for anything cute._  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
 __suckle__ _v_  
 __suckled__ _v_ :two::hammer:  
@@ -12203,7 +12212,7 @@ __sullen__ :two::hammer:
 __sullenly__  
 __sully__ _v_ :three::hammer:  
 __sultanate__  
-__sultry__ :two::hammer:  
+__sultry__ _adj_ :three::hammer:  
 __summarily__ _adv_  
 __summary__ :two::hammer: _Summary deaths._ _Summary killings._  
 __summertime__ _n_ :three::pencil2::hammer:  
@@ -12422,6 +12431,7 @@ __talking head__ :astonished:
 __talktative__  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
 __tall tales__ :two::hammer:  
+__tall__ _adj_ __3__ _informal_ Fanciful or exaggerated; boastful: _tall tales of heroic exploits._  
 __tallied__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __tally__ _v_  
@@ -12493,7 +12503,7 @@ __taupe__
 __taut__ _adj_  
 __tautened__  
 __tautly__  
-__tawdry__ _adj_ :two: Poor, cheap quality.  
+__tawdry__ _adj_ :three: Poor, cheap quality.  
 __tawny__ _n_ :two: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
@@ -13401,9 +13411,8 @@ __urge on__ _phr v_ :two: To encourage.
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
-__usury__  
-__Utahns__  
-__Utans__  
+__usury__ :two::hammer:  
+__Utahns__ :two::hammer:  
 __utes__ _n_ (cars?)  
 __utilitarian__  
 __utility room__  
