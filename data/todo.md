@@ -1,5 +1,16 @@
 
 
+__mug__ _v_ _They were mugging passerby._  
+__passerby__ _n_ (passer-by) _They were mugging passerby._  
+__destitute__ _adj_ :astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
+__wiggle__ _v_ (wiggling)  
+__squirm__ _v_ _Syn_ twist, worm, wriggle, writhe, wrestle  
+__act up__ _phr v_ __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
+__chunk__ _n_ _Nine chunks of cheese._  
+__appalling__ _adj_  
+__forthright__ _adj_ Saying what you think and feel directly and honestly, without being afraid of other people’s reactions.  
+__seamstress__ _n_ A woman who sews, especially one who makes her living by sewing.  
+
 __in tow__ _idiom_ Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
 
 __clamor__ _v_ __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
