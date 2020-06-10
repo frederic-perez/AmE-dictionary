@@ -1,5 +1,16 @@
 
 
+__bedevil__ _v_ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._  
+__two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress's two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
+__cacoethes__ _n_ (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
+__hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
+__quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
+__What's that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
+__clincher__ _n_ An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
+__have (one's) feet on the ground__ _idiom_ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one's situation.  
+__festoon__ _v_ To decorate something with bright and colorful objects.  
+__have (one's) fill (of something)__ _idiom_ To have, consume, or experience as much (of something) as one desires or is able to. Often used in the present perfect tense ("have had one's fill").  
+
 __mug__ _v_ _They were mugging passerby._  
 __passerby__ _n_ (passer-by) _They were mugging passerby._  
 __destitute__ _adj_ :astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
