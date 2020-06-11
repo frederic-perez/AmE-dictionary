@@ -140,7 +140,7 @@ __acrophobia__
 __across__ _She is sitting across from you at a coffee shop._  
 __act of Congress__ _idiom_ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
-__act up__ _phr v_ To behave badly or strangely.  
+__act up__ _phr v_ :two: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
 __ACT__ A college entrance exam, competitor to the SAT.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
@@ -457,7 +457,7 @@ __apostle__ :mute:[apos~~t~~le]
 __apostrophe__  
 __appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :five: Shocked or dismayed; filled with horror.  
-__appalling__ _adj_ :five: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
+__appalling__ _adj_ :six: Something that is appalling is awful or horrible, causing dismay or disgust. It's definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ :two::hammer: _Campaign apparatus._  
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
@@ -927,7 +927,7 @@ __beckon__ _v_ :five: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; 
 __becquerels__  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
 __bedeck__ _v_ (bedecked)  
-__bedevil__ _v_ :four: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
+__bedevil__ _v_ :five: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedlam__ :two::hammer:  
 __Bedouin__  
@@ -1766,7 +1766,7 @@ __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole c
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
 __cackle__ _v_ :four::hammer: (cackling)  
-__cacoethes__ _n_ An irrational but irresistible motive for a belief or action.  
+__cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _n_ Having an unpleasant sound.  
 __cacophony__ :two::hammer:  
@@ -2222,6 +2222,7 @@ __chum__ _n_ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old
 __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick _The bartender is chummy with his regular customers._  
 __chump__ _n_ A stupid person, especially a dupe; sucker.  
 __chumps__ _n_  
+__chunk__ _n_ _Nine chunks of cheese._  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
 __churn__ _v_  
@@ -2325,7 +2326,7 @@ __clicking__ _Things seem to be making sense and clicking._
 __clicky__  
 __climb__ :mute:[clim~~b~~]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
-__clincher__ _n_ :four::hammer:  
+__clincher__ _n_ :five: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :two::hammer: _A better newspaper clip._  
@@ -3310,7 +3311,7 @@ __despoil__ _v_
 __despoiling__  
 __despondency__  
 __despondent__ _n_ :five::hammer:  
-__destitute__ _adj_ Very poor.  
+__destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
 __detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
@@ -4441,7 +4442,7 @@ __fervent__
 __fester__ _v_ :five::hammer: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festered__ _v_ :es: ulcerarse  
 __festering__ _n_ :two::hammer:  
-__festoon__ _v_ :nine: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
+__festoon__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __feted__ _v_ :four::hammer:  
@@ -4842,7 +4843,7 @@ __fort__ A fortified place or position stationed with troops.
 __forte<sup>1</sup>__ _n_ :three::mega: Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
-__forthright__  
+__forthright__ _adj_ :two: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions.  
 __fortified wine__  
 __fortitude__ _n_ :two: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage.  
 __fortnight__  
@@ -5804,6 +5805,8 @@ __have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing,
 __have (got) (someone's) back__ _idiom_ :three: To be willing and prepared to help or defend someone; to look out for someone in case he or she needs assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
+__have (one's) feet on the ground__ _idiom_ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one's situation.  
+__have (one's) fill (of something)__ _idiom_ To have, consume, or experience as much (of something) as one desires or is able to. Often used in the present perfect tense ("have had one's fill").  
 __have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
 __have (one's) head read__ _idiom_ To have one's logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
 __have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
@@ -6289,6 +6292,7 @@ __hymn__ :mute:[hym~~n~~]
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
 __hyperbolic__ _adj_ :five: Exaggerated.  
+__hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
 __hyperopia__ _n_  
 __hypertensive__ _To be hypertensive._  
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _"Sally" is a hypocorism for "Sarah"._  
@@ -7992,7 +7996,7 @@ __muffed__ _v_ _The Ducks muffed a kickoff return._
 __muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)  
 __muffler__ _n_ :two::hammer: _Syn_ silencer  
 __mug<sup>1</sup>__ _n_ _informal_ The human face.  
-__mug<sup>2</sup>__ _v_ :two::hammer: (mugged, mugging)  
+__mug<sup>2</sup>__ _v_ :three::hammer: (mugged, mugging) _They were mugging passerby._  
 __mugger__ _n_ _informal_ :three: (muggers) A person who commits robbery with violence, esp in the street.  
 __muggles__ _n_ :two::hammer:  
 __muggy__ :two::hammer: _The weather was muggy._  
@@ -8813,7 +8817,7 @@ __pass policy__
 __pass up__  
 __passage__ _n_ _The passage of three supplementary budgets this year._  
 __passel__ _A passel of ducks._  
-__passersby__ _n_  
+__passerby__ _n_ (passer-by) :two::hammer: _They were mugging passerby._  
 __pastiche__ :two::hammer:  
 __pastime__ _n_ :four::pencil2: (pastimes) An activity that occupies one's spare time pleasantly: Sailing is her favorite pastime.  
 __pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
@@ -9783,6 +9787,7 @@ __quicksand__ :two::hammer: _I've just signed a quicksand employment contract._
 __quicksilver__  
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
+__quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
 __quiescent__  
 __quiff__ _n_ A woman regarded as promiscuous.  
 __quill__ _n_  
@@ -10767,7 +10772,7 @@ __seahawk__ ?
 __SEAL__ _It is something U.S. Navy SEALs do._  
 __seal__ _Lacy gained 27 yards to seal their fourth division win._  
 __seamless__  
-__seamstress__ _n_  
+__seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
 __sear__ _v_ :five: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
 __searing__ _adj_ :two::hammer: _Searing work._  
@@ -11800,7 +11805,7 @@ __squelched__ _v_
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
-__squirm<sup>1</sup>__ _v_ :nine::hammer: (squirming) _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :nine::m::hammer: (squirming) _Syn_ twist, worm, wriggle, writhe, wrestle _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squirt gun__ _n_ _Syn_ squirter, water gun, water pistol  
@@ -13192,6 +13197,7 @@ __twitch<sup>1</sup>__ _n_
 __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat's twitchy whiskers._  
 __two__ :mute:[t~~w~~o]  
+__two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress's two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
 __two-fold__ _adj_  
 __two-time someone__ _idiom_ To be unfaithful to someone.  
 __two-time__ _A two-time U.S. Open champion._  
@@ -13782,6 +13788,7 @@ __whanged__ _v_ :two::hammer:
 __whanging__  
 __wharf__ _n_ :five::hammer: (wharves)  
 __what__ :mute:[w~~h~~at]  
+__What's that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what's the haps?__  
 __wheat__ :mute:[w~~h~~eat]  
 __whee!__  
@@ -13890,7 +13897,7 @@ __widebody__ _Widebody jet._
 __wield__ _v_ :nine: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
 __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
-__wiggle<sup>2</sup>__ _v_  
+__wiggle<sup>2</sup>__ _v_ :two::hammer: (wiggling)  
 __wigglers__  
 __wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild goose chase__ _idiom_ A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._  

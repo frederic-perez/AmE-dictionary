@@ -1,27 +1,5 @@
 
 
-__bedevil__ _v_ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._  
-__two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress's two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
-__cacoethes__ _n_ (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
-__hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
-__quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
-__What's that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
-__clincher__ _n_ An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
-__have (one's) feet on the ground__ _idiom_ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one's situation.  
-__festoon__ _v_ To decorate something with bright and colorful objects.  
-__have (one's) fill (of something)__ _idiom_ To have, consume, or experience as much (of something) as one desires or is able to. Often used in the present perfect tense ("have had one's fill").  
-
-__mug__ _v_ _They were mugging passerby._  
-__passerby__ _n_ (passer-by) _They were mugging passerby._  
-__destitute__ _adj_ :astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
-__wiggle__ _v_ (wiggling)  
-__squirm__ _v_ _Syn_ twist, worm, wriggle, writhe, wrestle  
-__act up__ _phr v_ __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
-__chunk__ _n_ _Nine chunks of cheese._  
-__appalling__ _adj_  
-__forthright__ _adj_ Saying what you think and feel directly and honestly, without being afraid of other people’s reactions.  
-__seamstress__ _n_ A woman who sews, especially one who makes her living by sewing.  
-
 __in tow__ _idiom_ Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
 
 __clamor__ _v_ __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
