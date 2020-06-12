@@ -7,6 +7,7 @@
 
 ## Three characters
 
+- __Abe__ Commonly used in English-speaking countries as a diminutive of the masculine name Abraham, or as a personal name in its own right.  
 - __Bob__ A hypocorism, usually of Robert, and sometimes a diminutive of Bobby.
 - __Eve__ Derived from the Latin name Eva.
 - __Jim__ A given name or a hypocorism of the given name James and a short form of Jimmy. 
