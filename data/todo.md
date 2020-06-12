@@ -1,27 +1,5 @@
 
 
-__in tow__ _idiom_ Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
-
-__clamor__ _v_ __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
-__minimus__ _n_ The fifth digit; the little finger or little toe.  
-__wend__ _v_ To proceed or go: _She had to wend her way through the crowd._  
-__know the ropes__ _idiom_  
-__see red__ _idiom_ To become very angry.  
-__abide by__ _idiom_ To conform to; comply with: _abide by the rules._  
-__psyched__ _idiom_ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
-__jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
-__redeal__ _v_ To deal playing cards again.  
-__verge (up)on something__ _idiom_ To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
-
-__anthropogenic__  
-__afforestation__ :pencil2:   
-__sediment__ _n_  
-__glider__ _n_  
-__basin__ _n_  
-__convection__ _n_  
-__grassroots__ _A grassroots effort._  
-__opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
-__live up to (someone's) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for.  
 __iron out__ _v_  
 
 __bode__ _v_ Indicate by signs. _These signs bode bad news._  

@@ -69,6 +69,7 @@ __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or il
 __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
+__abide by__ _idiom_ To conform to; comply with: _abide by the rules._  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
@@ -209,6 +210,7 @@ __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A si
 __affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :two::hammer: _We can't afford it._  
 __affordable__ :two::pencil2::hammer:  
+__afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
 __affront__ _n_ :two::hammer:  
 __aficionado__  
 __afield__  
@@ -421,6 +423,7 @@ __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the an
 __antebellum__  
 __antedate__ _n_  
 __anthology__  
+__anthropogenic__  
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
 __anti-humor__  
 __anti-Semitism__  
@@ -857,7 +860,7 @@ __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movi
 __bash<sup>2</sup>__ _v_  
 __bashful__  
 __basil__ _n_ :es: albahaca  
-__basin__  
+__basin__ _n_ :two::hammer:  
 __basing__  
 __basket case__  
 __bass__ :two::hammer: (fish) _Fingerling bass._  
@@ -2267,6 +2270,7 @@ __clambake__ _n_
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._ _She clambered down to the ground._  
 __clamming__ _adj_ _His clamming forehead._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
+__clamor__ _v_ __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
@@ -2654,6 +2658,7 @@ __contrived__ _adj_ :two: Deliberately created rather than arising naturally or 
 __control freak__ _idiom_ :two::hammer:  
 __controversial__  
 __convalescing__ _v_  
+__convection__ _n_  
 __convective__ _Convective cloud._  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
@@ -5240,6 +5245,7 @@ __glazing__ :two::hammer: _A full range of door furniture and glazing._
 __glean__  
 __gleaning__  
 __glib__ _adj_ :five::hammer: _A glib reply to his remark._ _A glib tongue._  
+__glider__ _n_  
 __glimmer__ _A glimmer of hope._  
 __glimpse<sup>1</sup>__ _n_  
 __glimpse<sup>2</sup>__ _v_  
@@ -5428,7 +5434,7 @@ __grapplings__ _n_
 __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ _idiom_ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grass-routs__ _?_ _Grass-routs campaign._  
-__grassroots__  
+__grassroots__ :two::hammer: _A grassroots effort._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :five: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
@@ -6434,7 +6440,7 @@ __in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has b
 __in the water__ _There's nothing in the water here._  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
-__in tow__ _idiom_  
+__in tow__ _idiom_ :two: Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
 __in your birthday suit__ _idiom_ Naked.  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _He will conduct an in-depth review._  
@@ -6806,6 +6812,7 @@ __junker__
 __junket__ _n_ _informal_ :two: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
 __junta__ _n_ :three::hammer:  
 __jury box__ _n_ An enclosure where the jury sit in court.  
+__jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
 __jus__  
 __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I'm just saying I think it could have been done a little more carefully, that's all._ _Isn't it a bit small for you? Just saying._  
 __just__ _adj_ _The punishments were fair, just and appropriate._  
@@ -6946,7 +6953,7 @@ __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._
 __knot__ :mute:[~~k~~not]  
 __knotty__  
 __know better__ _But I knew better._  
-__know the ropes__ _idiom_ :two: To know how to do a job or task properly.  
+__know the ropes__ _idiom_ :three: To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
 __knowledgeable__ _adj_  
@@ -7295,6 +7302,7 @@ __litmus test__ _n_
 __litter__ _n_ :camera::pencil2:  
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
+__live up to (someone's) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for.  
 __live wire__  
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
@@ -7785,6 +7793,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __mindset__ _n_  
 __minie balls__  
+__minimus__ _n_ The fifth digit; the little finger or little toe.  
 __minion__ _n_ :two::hammer: (minions)  
 __minnie__ _n_ A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
@@ -8487,6 +8496,7 @@ __operose__ _adj_ Characterized by effort to the point of exhaustion; especially
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
 __oppo__ _Oppo researchers._  
+__opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opticks__ _Obsolete form of optics._  
 __optometry__ _n_  
@@ -9603,6 +9613,7 @@ __psalm__ :mute:[psa~~l~~m, ~~p~~salm]
 __pseudo__ :mute:[~~p~~seudo]  
 __pseudonym__ :mute:[~~p~~seudonym]  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
+__psyched__ _idiom_ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
 __psychiatrist__ :mute:[~~p~~sychiatrist]  
 __psychic__ :mute:[~~p~~sychic]  
 __psychology__ :mute:[~~p~~sychology]  
@@ -10045,6 +10056,7 @@ __red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.
 __red-eye__ _Catch the red-eye._  
 __red-letter day__  
 __redbones__ _n_  
+__redeal__ _v_ To deal playing cards again.  
 __redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
 __redemptions__ _n_  
 __redo__ :two::hammer:  
@@ -10795,10 +10807,11 @@ __security__ :mega:
 __sedan chair__ _n_  
 __sedate__ (sedate menswear)  
 __sedative__ _n_ _Not the strongest sedative._  
+__sediment__ _n_  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
 __sedulous__ _adj_ :two::hammer: _Syn_ busy  
 __see eye to eye__ _idiom_ :two: To concur, agree.  
-__see red__ _idiom_ To become very angry.  
+__see red__ _idiom_ :two: To become very angry.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
 __seediness__  
@@ -13512,7 +13525,7 @@ __verberize__
 __verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
-__verge on__ _phr v_ To be very close to an extreme state or condition.  
+__verge (up)on something__ _idiom_ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __verge__ _n_ :two::hammer:  
 __veritable__ _adj_ :two::hammer:  
 __vermicelli__  
@@ -13774,7 +13787,7 @@ __welter__ _n_ :two: A confused multitude of things. _A welter of data._
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
-__wend__ _v_ :four: /wɛnd/ (wending) To move or travel slowly somewhere. _Syn_ meander, make one's way, wind one's way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._  
+__wend__ _v_ :five: /wɛnd/ (wending) To move or travel slowly somewhere. To proceed or go. _Syn_ meander, make one's way, wind one's way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._ _She had to wend her way through the crowd._  
 __wet a line__  
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
