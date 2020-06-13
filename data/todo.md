@@ -1,5 +1,16 @@
 
 
+__piece of cake__  
+__jubilation__ _n_  
+__tie the can__ _idiom_ _It ain't every day that you tie the can to a Congressman._  
+__frost the cake__ _idiom_  
+__minced__ _v_ _Bob had minced no words._  
+__offshoot__ _n_  
+__skittish__  
+__freshen__ _v_ _Eve was freshening drinks and handing out cigars._  
+__constituents__ _n_ (voters)  
+__blow one's top at someone__  
+
 __iron out__ _v_  
 
 __bode__ _v_ Indicate by signs. _These signs bode bad news._  
