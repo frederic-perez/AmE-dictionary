@@ -17,6 +17,7 @@
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro
 - __Pam__ Often a diminutive form of Pamela.
 - __Rob__ A masculine given name, frequently a shortened version (hypocorism) of Robert.
+- __Sam__ A given name or nickname, often used by people named "Samuel," "Samson," and "Samantha", and occasionally used by people named "Salvatore."  
 - __Tim__ A masculine given name; it can also be used as a short form of Timothy.  
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Zig__
