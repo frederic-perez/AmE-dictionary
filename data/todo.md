@@ -1,5 +1,16 @@
 
 
+__(one's) heart's desire__ _idiom_ Something one very much wants or needs. After my six-month tour in Iraq, my heart's desire is just to see my husband again.  
+__unflinching__ _adj_ Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
+__amethyst__ _n_ :pencil2:  
+__goldenrod__ _n_  
+__cerulean__ _n_  
+__turquoise__ _n_ :pencil2:  
+__fuchsia__ _n_ :pencil2:  
+__cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
+__feisty__ _adj_ Full of energy and lively determination.  
+__have a gas__ _idiom_ To have a thoroughly entertaining, enjoyable, and/or amusing time. _We were all having a gas at the party when the police showed up to tell us we were being too loud._  
+
 __piece of cake__  
 __jubilation__ _n_  
 __tie the can__ _idiom_ _It ain't every day that you tie the can to a Congressman._  
