@@ -1,5 +1,16 @@
 
 
+__swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
+__glabella__ _n_ The smooth area between the eyebrows just above the nose.  
+__muleskinner__ _n_  
+__paradoxical__ _adj_  
+__avert__ _v_  
+__wake__ _In the wake of the pandemic._  
+__beset__ _v_  
+__succotash__ _n_ (Cookery) US and Canadian a mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
+__powerhouse__ _n_ :dart: A highly energetic and indefatigable person.  
+__lockdown__ _n_  
+
 __(one's) heart's desire__ _idiom_ Something one very much wants or needs. After my six-month tour in Iraq, my heart's desire is just to see my husband again.  
 __unflinching__ _adj_ Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
 __amethyst__ _n_ :pencil2:  
