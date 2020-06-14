@@ -1,5 +1,16 @@
 
 
+__welsh__ _v_ _informal_ (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
+__wimp__ _n_ Someone who is not brave, strong, or confident.  
+__bite (one's) head off__ _idiom_ To respond to someone with anger that is often sudden or unprovoked. _What's wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
+__bomb__ :mute:[bom~~b~~]  
+__climb__ :mute:[clim~~b~~]  
+__climbing__ :mute:[clim~~b~~ing]  
+__comb__ :mute:[com~~b~~]  
+__crumb__ :mute:[crum~~b~~]  
+__debt__ :mute:[de~~b~~t]  
+__lamb__ :mute:[lam~~b~~]  
+
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
 __shambolic__ _adj_ Very badly organized.  
 __hawks and doves__ _idiom_ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
