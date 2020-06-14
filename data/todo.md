@@ -1,5 +1,16 @@
 
 
+__gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
+__shambolic__ _adj_ Very badly organized.  
+__hawks and doves__ _idiom_ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
+__itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
+__have the wind up__ _idiom_ To be very anxious, upset, or frightened.  
+__have (someone) coming and going__ _idiom_ To put someone in an insescapable position or situation; to leave someone with no viable options or solutions.  
+__prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
+__collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of sight of (an optical device).  
+__chance of a lifetime__ _idiom_ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
+__chafe at the bit__ _idiom_ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws)  
+
 __withered__ _Withered deals._  
 __deep trouble__ _n_ _You're in deep trouble._ "Deep, Deep Trouble", song from the album The Simpsons Sing the Blues.  
 __payoff__ _n_  
