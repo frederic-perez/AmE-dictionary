@@ -1,5 +1,16 @@
 
 
+__withered__ _Withered deals._  
+__deep trouble__ _n_ _You're in deep trouble._ "Deep, Deep Trouble", song from the album The Simpsons Sing the Blues.  
+__payoff__ _n_  
+__qualm__ _n_ (qualms)  
+__bloc__ _n_ :pencil2: A group of countries or people with the same political aims. _The Soviet bloc._  
+__kill the goose that lays the golden egg(s)__ _idiom_ Destroy a source of riches through stupidity or greed, as in _If he never gives his loyal customers a break on some items in his store, he'll kill the goose that lays the golden eggs._ _We're killing the goose that laid the golden egg._  
+__assurance__ _n_ (assurances)  
+__rapacious__ _adj_ Never satisfied until you have taken everything that you can take.  
+__lean on__ _v_  
+__ruse__ _n_  
+
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __glabella__ _n_ The smooth area between the eyebrows just above the nose.  
 __muleskinner__ _n_  
