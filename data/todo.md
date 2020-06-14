@@ -1,5 +1,16 @@
 
 
+__ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
+__akinesia__ _n_  Loss of normal motor function, resulting in impaired muscle movement.  
+__hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
+__-esis__ _suff_ Combining form meaning condition, action, or process.  
+__-itis__ _suff_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
+__paprika__ _n_  
+__mushroom__ _n_  
+__muslin__ _n_ _Muslin swaddles._ :es: muselina  
+__spoonful__ _n_ :es: cucharada  
+__convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
+
 __welsh__ _v_ _informal_ (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
 __wimp__ _n_ Someone who is not brave, strong, or confident.  
 __bite (one's) head off__ _idiom_ To respond to someone with anger that is often sudden or unprovoked. _What's wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
