@@ -1,6 +1,8 @@
 __-desis__ _suffix_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
 __-ectomy__ _suffix_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
+__-esis__ _suff_ Combining form meaning condition, action, or process.  
 __-esque__ _suffix_ :four: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__-itis__ _suff_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
 __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
@@ -273,6 +275,7 @@ __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; 
 __airy__ _The master bedroom is airy._  
 __aisle__ :mega: (īl)  
 __akin__ _adj_ :five: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc.  
+__akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
 __alabaster__  
 __alacrity__ _n_ :two: /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
@@ -1131,6 +1134,7 @@ __biscuit__ :mute:[bisc~~u~~it]
 __bishop's benches__  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
+__bite (one's) head off__ _idiom_ To respond to someone with anger that is often sudden or unprovoked. _What's wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
 __bitingly__  
 __bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.  
@@ -1308,7 +1312,7 @@ __Bolshevik__
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolt__ _v_ :two::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
-__bomb__ _v_ :two::mute:[bom~~b~~]:hammer:  
+__bomb__ _v_ :three::mute:[bom~~b~~]:hammer:  
 __bombast__ _n_ :four: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombing__ _v_  
@@ -2328,7 +2332,8 @@ __clicker training__ _n_ A nickname given to an animal training method based on 
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
-__climb__ :mute:[clim~~b~~]  
+__climb__ :two::mute:[clim~~b~~]:hammer:  
+__climbing__ :mute:[clim~~b~~ing]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :five: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
@@ -2463,7 +2468,7 @@ __colostomy bag__
 __column__ :mute:[colum~~n~~]  
 __coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
-__comb__ :mute:[com~~b~~]  
+__comb__ :two::mute:[com~~b~~]:hammer:  
 __combat<sup>1</sup>__ _n_  
 __combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
 __combines__ _Basketball_  
@@ -2667,6 +2672,7 @@ __convertible__
 __convey__ _v_ :two::hammer: (conveyed)  
 __convivial__ _adj_ :three::hammer:  
 __convoke__ _v_ To call together to a meeting.  
+__convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
 __conwise__  
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
@@ -2933,7 +2939,7 @@ __cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or 
 __cruffy__  
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
-__crumb__ _n_ :four::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
+__crumb__ _n_ :five::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
 __crumble__ _v_ :seven::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
@@ -3158,7 +3164,7 @@ __debatable__
 __debauchery__  
 __debriefing__ _n_ :five::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
-__debt__ _n_ :two::mega::mute:[de~~b~~t]:hammer:  
+__debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
 __debunk__ _v_ :two::hammer:  
 __deburr__ _v_  
 __debut__ :mute:[debu~~t~~]  
@@ -6301,6 +6307,7 @@ __hyperbolic__ _adj_ :five: Exaggerated.
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
 __hyperopia__ _n_  
 __hypertensive__ _To be hypertensive._  
+__hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _"Sally" is a hypocorism for "Sarah"._  
 __hypocrisy__  
 __hypocritical__ :two::hammer::pencil2:  
@@ -7021,7 +7028,7 @@ __laid-back__ _adj_ _idiom_ :seven: Unhurried and relaxed. _Syn_ mellow _Laid-ba
 __lain__  
 __lair__ _n_ :two::hammer: _A tiger's lair._  
 __lam__ _The Bronco is on the lam._  
-__lamb__ :mute:[lam~~b~~]  
+__lamb__ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
@@ -8039,13 +8046,14 @@ __museum__ _n_ :mega:
 __mush__ _n_ :four::hammer: _A mush brain._  
 __mush-mouth__ _The kid with the mush-mouth accent._  
 __mushers__  
-__mushroom__ _v_ _Traffic mushroomed in Feb._  
+__mushroom<sup>1</sup>__ _n_  
+__mushroom<sup>2</sup>__ _v_ _Traffic mushroomed in Feb._  
 __mushy__ _adj_ :four::hammer: _Mushy age._  
 __musing__ _n_ :two: (musings) Contemplation; reflection.  
 __musket__  
 __muskmelon__ _n_ :three::hammer:  
 __muskrat__ _The muskrat season._  
-__muslin__  
+__muslin__ _n_ :two::hammer: _Muslin swaddles._ :es: muselina  
 __muss__ _No fuss, no muss._  
 __mussed__ _v_  
 __mussel__ _n_ :two: A bivalve mollusk or clam. Gets its name from Latin musculus, "little mouse."  
@@ -8754,6 +8762,7 @@ __paper towel__ :two::hammer: (paper towels)
 __paperclip__ _n_  
 __paperwork__  
 __pappy__  
+__paprika__ _n_  
 __paradigm__ :mute:[paradi~~g~~m]  
 __paradox__  
 __paradoxically__  
@@ -10512,6 +10521,7 @@ __rustle up__ _v_
 __rustle__ _v_ :five::mute:[rus~~t~~le]:hammer: (rustled, rustling) _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ :two::hammer: _Some guy with rut for brains._  
+__ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
 __RV__  
 __RVR__ _Write me up with an RVR._  
@@ -11733,6 +11743,7 @@ __sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for anoth
 __sponsor<sup>2</sup>__ _v_  
 __spool tables__  
 __spool__ _n_  
+__spoonful__ _n_ :es: cucharada  
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__  
@@ -13779,7 +13790,7 @@ __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._
 __welling<sup>2</sup>__ _v_ _His breath welling into my face._  
 __wellspring__  
 __welp__ _idiom_ A common alternative to "well" that is used to express disappointment, often in text messaging.  
-__welsh__ _v_  
+__welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
 __welted__  
@@ -13927,7 +13938,7 @@ __willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her b
 __wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
 __wimp out__  
-__wimp__ _n_ _slang_ :two: A weak person, a coward.  
+__wimp__ _n_ _slang_ :three: A weak person, a coward. Someone who is not brave, strong, or confident.  
 __wimpiness__  
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
