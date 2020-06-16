@@ -596,7 +596,7 @@ __assists__ _Green had 14 rebounds and nine assists._
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :four::hammer:  
-__assurance__ _n_ (assurances)  
+__assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
 __asthma__ _n_  
@@ -1210,7 +1210,7 @@ __blitz<sup>1</sup>__ _n informal_ :five: A sudden concerted effort to deal with
 __blitz<sup>2</sup>__ _v_ :two::hammer: (blitzed, blitzing)  
 __blizzard__ _n_ :two::hammer:  
 __bloat__ _n_ A group of hippos.  
-__bloc__ _n_ :five::hammer: _The troubled currency bloc._  
+__bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood count__ _n_ :es: hemograma  
 __blood-expander__  
@@ -2061,6 +2061,7 @@ __Cessna__
 __cesspool__ _n_ :seven::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
+__chafe at the bit__ _idiom_ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
 __chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
@@ -2076,6 +2077,7 @@ __chamber pot__ _n_ :astonished: A bedroom vessel for urination and defecation.
 __chamomille__  
 __champ__ _n informal_ :two: Champion.  
 __champagne flutes__ _n_ :camera:  
+__chance of a lifetime__ _idiom_ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
 __Chancellor__  
 __chances are__  
 __chandler__  
@@ -2454,6 +2456,7 @@ __colleague__ :mute:[colleag~~u~~e]
 __collect (one's) wits__ _idiom_ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ _idiom_ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __collect__ _v_ _Click and collect._  
+__collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of sight of (an optical device).  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
 __collocation__ _n_ (collocations)  
@@ -3203,6 +3206,7 @@ __deep fakes__ :two::hammer:
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
+__deep trouble__ _n_ _You're in deep trouble._ "Deep, Deep Trouble", song from the album The Simpsons Sing the Blues.  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
 __DEET__ _Bug spray with DEET to ward off mosquitoes._  
@@ -5148,6 +5152,7 @@ __German shepherd__ _n_ An Alsatian.
 __Geronimo wire__ :two::hammer:  
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
+__gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
 __get (one's) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one's ears.  
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
@@ -5823,6 +5828,7 @@ __have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with 
 __have (one's) head read__ _idiom_ To have one's logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
 __have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
 __have (someone's) blood on (one's) head__ _idiom_ To be the cause of (someone's) death; to bear the guilt or responsibility of (someone's) death or injury.  
+__have (someone) coming and going__ _idiom_ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
@@ -5860,6 +5866,7 @@ __have the floor__ _idiom_ To have the right or opportunity to speak in a group,
 __have the goods on (someone)__ _idiom_ To have incriminating evidence or proof against someone. _We know he's guilty, but we can't arrest him until we have the goods on him._  
 __have the heart (to do something)__ _idiom_ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn't have the heart to tell her that I didn't love her anymore._  
 __have the say__ _idiom_ To have the ultimate authority to command, control, or make a decision.  
+__have the wind up__ _idiom_ To be very anxious, upset, or frightened.  
 __have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
 __have your head in the clouds__ _idiom_ :two: To be separate from reality, to dream.  
 __have-not__ _n_ A person with few or no possessions.  
@@ -5869,6 +5876,7 @@ __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.
 __hawing__  
 __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensive artwork._ __2__ To clear or attempt to clear the throat by or as if by coughing up phlegm.  
 __hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security team._  
+__hawks and doves__ _idiom_ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
 __hawthorn__ _n_ :four::hammer:  
@@ -6654,6 +6662,7 @@ __it takes two to tango__ _idiom_
 __it's a dog's life__ :dart::astonished:  
 __it's one of those things__ _idiom_  
 __item__ _slang_ A couple, two people who are romantically involved.  
+__itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __Ivy League__ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
@@ -6892,6 +6901,7 @@ __kike__ _Kike names._
 __kiki__  
 __kill a mockingbird__ _It was like killing a mockingbird._  
 __kill clock__ _v_  
+__kill the goose that lays the golden egg(s)__ _idiom_ Destroy a source of riches through stupidity or greed, as in _If he never gives his loyal customers a break on some items in his store, he'll kill the goose that lays the golden eggs._ _We're killing the goose that laid the golden egg._  
 __kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._  
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
@@ -7130,7 +7140,7 @@ __leaf mold__
 __leafy__  
 __league__ :mute:[leag~~u~~e]  
 __lean and mean__ _Companies are running lean and mean these days._  
-__lean on__ _v_  
+__lean on__ _v_ :two::hammer:  
 __lean protein__  
 __lean<sup>1</sup>__ _adj_ :three::hammer: _He is lean fast._ _Lean food._ _A lean face._  
 __lean<sup>2</sup>__ _v_  
@@ -8881,7 +8891,7 @@ __pay__ _v_ _It pays to consider his words carefully._
 __payback__ _n_ :two::hammer:  
 __paydirt__ :two::hammer:  
 __payload__ _n_ :three::hammer:  
-__payoff__ _n_ :four::hammer: (payoffs) _The third part of this book is the payoff._  
+__payoff__ _n_ :five::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
 __PC__ _abbr_ :dart::five: Politically correct. _I'm not overly PC._ _I wanted to be all PC about it._ _They're so PC that they end up writing sanctified characters._  
 __PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
@@ -9457,6 +9467,7 @@ __preemptive__
 __preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
+__prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
 __preliminary__  
 __premier__ _adj_  
 __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
@@ -9774,7 +9785,7 @@ __quaintly__ :two::hammer:
 __Quaker__  
 __quakes__ _v_  
 __qualify__ _v_  
-__qualm__ _n_ :nine: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
+__qualm__ _n_ :nine::m: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
 __quandary__ _n_ :nine: Difficult dilemma. _All-Star managers face quandary._  
 __quantifiable__  
 __quarrelsome__  
@@ -9920,7 +9931,7 @@ __rant<sup>1</sup>__ _n_
 __rant<sup>2</sup>__ _v_  
 __rap sheet__ _n_ _slang_ A record kept by law-enforcement authorities of a person's arrests and convictions.  
 __rap__ _South has a bad rap._  
-__rapacious__ _adj_ Never satisfied until you have taken everything that you can take.  
+__rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
 __rapier__ _n_ :two: (rapiers) A straight sword with a narrow blade and two edges.  
@@ -10516,7 +10527,7 @@ __runt__
 __runway__  
 __Runyonesque__ _adj_  
 __ruptured__ _v_ _He ruptured his Achilles._  
-__ruse__ _n_ :six::hammer: (ruses)  
+__ruse__ _n_ :seven::hammer: (ruses)  
 __rustle up__ _v_  
 __rustle__ _v_ :five::mute:[rus~~t~~le]:hammer: (rustled, rustling) _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
@@ -10945,7 +10956,7 @@ __sham<sup>2</sup>__ _n_ :three::hammer: _The novelty effect isn't a sham._
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :four::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
-__shambolic__  
+__shambolic__ _adj_ :two: Very badly organized.  
 __shame__ _v_ _He shamed me._  
 __shaming__ _adj_  
 __shamrock__  
@@ -14003,6 +14014,7 @@ __withdrawal__ _n_ Withdrawal is when you take something out, like making a with
 __withe down__ _v_  
 __wither away__ _v_ :two::hammer:  
 __wither__ _v_ :three::hammer: (withers, withered)  
+__withered__ _adj_ _Withered deals._  
 __withes__ _n_ :two::hammer:  
 __withhold__  
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  
