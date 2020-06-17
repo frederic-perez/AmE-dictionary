@@ -14,6 +14,7 @@ __, to say the least.__
 __"duh" department__ :astonished: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
 __(deep) into the weeds__ _idiom_ :two::hammer:  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
+__(one's) heart's desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart's desire is just to see my husband again._  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__	One-To-One Relationship.  
@@ -355,7 +356,7 @@ __amenable__
 __amends__  
 __amenity__ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
-__amethyst__ _n_ :two::hammer:  
+__amethyst__ _n_ :three::pencil2::hammer:  
 __ametropia__ _n_  
 __amiable__  
 __amid__  
@@ -675,7 +676,7 @@ __aver__ _v_
 __average citizens__  
 __average Joe__ _slang_ An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
-__avert__ _v_ :two::hammer: (averted)  
+__avert__ _v_ :three::hammer: (averted)  
 __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avowed__ _v_  
@@ -1050,7 +1051,7 @@ __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._
 __beseech__ _v_ :two::hammer: _Syn_ entreat  
 __beseechingly__  
 __beseechment__  
-__beset__ _v_ :six::hammer: _Chelsea are beset with uncertainty._  
+__beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
 __besmeared__ _v_  
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
@@ -2053,7 +2054,8 @@ __centennial__
 __centerpiece__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __certainly__ _adv_  
-__cerulean__ _Ceruleaan basins and Marco Polo blue lips and splash fights._  
+__cerulean<sup>1</sup>__ _adj_ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
+__cerulean<sup>2</sup>__ _n_ A light shade of blue.  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
 __cessation__ _n_ :two: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
@@ -2122,6 +2124,7 @@ __chatter__ _A machine-gun chatter._
 __chatterbox__ _n informal_ :three::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __chauffeured__ _v_  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
+__cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
@@ -4425,7 +4428,7 @@ __feel for__
 __feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
-__feisty__ _adj_ :five::hammer:  
+__feisty__ _adj_ :six: Full of energy and lively determination.  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _I am a fellow student._  
 __felon__ _n_ :nine: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
@@ -4974,7 +4977,7 @@ __fruit juice__ _Items available on the buffet include assorted pastries, fresh 
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
 __FT__ _Sports_ Full-time.  
-__fuchsia__  
+__fuchsia__ _n_ :two::pencil2::hammer:  
 __fucking A__ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
@@ -5244,6 +5247,7 @@ __give someone the creeps__ _idiom_ To make you feel frightened or nervous.
 __give the creeps__  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __giveback__ _n_  
+__glabella__ _n_ The smooth area between the eyebrows just above the nose.  
 __glad tidings__ _idiom_ Favorable, beneficial, or happy news. Usually used with the verbs "give" or "bring."  
 __glad-hand__ _v_  
 __gladdened__  
@@ -5366,6 +5370,7 @@ __golden goose__ _idiom_ :two::hammer: A person, thing, or organization that is 
 __golden rule__  
 __golden ticket__ _idiom_ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __golden years__ _idiom_ The years following one's retirement (generally after the age of 65).  
+__goldenrod__ _n_  
 __goldfinch__ _n_ :es: jilguero  
 __golf widow__ _idiom_ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __golliwog__ _n_  
@@ -5836,6 +5841,7 @@ __have a crush on (someone)__ _idiom_ To have a romantic infatuation with someon
 __have a fable for (something)__ _idiom_ To have a strong or particular preference, affinity, or weakness for something.  
 __have a few__ _idiom_ To have multiple alcoholic drinks, especially to the point of becoming mildly intoxicated.  
 __have a fling (with someone)__ _idiom_ To have a brief, noncommittal sexual relationship (with someone).  
+__have a gas__ _idiom_ To have a thoroughly entertaining, enjoyable, and/or amusing time. _We were all having a gas at the party when the police showed up to tell us we were being too loud._  
 __have a hankering for (something)__ _idiom_ To have a very strong, persistent desire or craving for something.  
 __have a heart of gold__ _idiom_ To be very kind and generous.  
 __have a look-see__ _idiom_ :dart: To have a very quick look or brief examination.  
@@ -7340,7 +7346,7 @@ __lob__ _v_ :two::hammer:
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
 __loch__ _n_  
-__lockdown__ :two::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
+__lockdown__ _n_ :three::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locker-room__ _n_ (locker room)  
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
 __lockout__ _N.J. residents upset over island lockout._  
@@ -8029,6 +8035,7 @@ __muggy__ :two::hammer: _The weather was muggy._
 __mulberry__ _n_ :three::hammer: (mulberries)  
 __mulch__ _n_ :two::hammer:  
 __mulching__ _v_  
+__muleskinner__ _n_  
 __mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. _His mug of mulled cider._  
 __mullah__ _n_  
 __mullet__ :two::hammer:  
@@ -8775,6 +8782,7 @@ __pappy__
 __paprika__ _n_  
 __paradigm__ :mute:[paradi~~g~~m]  
 __paradox__  
+__paradoxical__ _adj_  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
 __paragon__ _n_ :five: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
@@ -9431,7 +9439,7 @@ __power play__
 __power strip__ _n_ :two: A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
 __power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _"He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
 __powerbocking__ _n_ The act of powerbocking is jumping and running with elastic-like spring-loaded stilts.  
-__powerhouse__ :two::hammer:  
+__powerhouse__ _n_ :three::dart: A highly energetic and indefatigable person.  
 __powerlessness__  
 __powermongers__ _n_  
 __powwows__ _n_  
@@ -12223,6 +12231,7 @@ __succinct__ :two::pencil2::mega::hammer:
 __succinctly__ :pencil2:  
 __succint__  
 __succor__ _n_ :three::hammer:  
+__succotash__ _n_ (Cookery) US and Canadian a mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
 __succubus__ _n_ :three::hammer:  
 __succumb__ _v_ :four::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
@@ -12382,6 +12391,7 @@ __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, espe
 __swoop<sup>1</sup>__ _n_ :seven::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
+__swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __swooshing__  
 __sword__ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
@@ -13194,6 +13204,7 @@ __turnstile__ _n_ :two::hammer:
 __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
 __turpentine__ _n_  
 __turpitude__  
+__turquoise__ _n_ :pencil2:  
 __tushie__ _n_ :two::hammer:  
 __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
@@ -13332,7 +13343,7 @@ __unfeasible__ _adj_ _Syn_ infeasible
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
-__unflinching__ :two::hammer:  
+__unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unfurl__ (unfurling) :two::hammer:  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
@@ -13666,7 +13677,7 @@ __waive__ _v_ :six::hammer: (waived)
 __waiver__  
 __waivers__ _n_  
 __wakame__ _n_  
-__wake__ _n_ :four::hammer: _At wakes._ _Irish wake._  
+__wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
 __wake-up call__ :two::hammer:  
 __walk in sunshine__  
 __walk on air__ To be very happy.  
