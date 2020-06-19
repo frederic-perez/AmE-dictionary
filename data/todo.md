@@ -1,27 +1,5 @@
 
 
-__piece of cake__  
-__jubilation__ _n_  
-__tie the can__ _idiom_ _It ain't every day that you tie the can to a Congressman._  
-__frost the cake__ _idiom_  
-__minced__ _v_ _Bob had minced no words._  
-__offshoot__ _n_  
-__skittish__  
-__freshen__ _v_ _Eve was freshening drinks and handing out cigars._  
-__constituents__ _n_ (voters)  
-__blow one's top at someone__  
-
-__iron out__ _v_  
-
-__bode__ _v_ Indicate by signs. _These signs bode bad news._  
-__Mx.__ A title of respect prefixed to a person's surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
-__plunger__ _n_  
-__rash__ _adj_ Acting or done too quickly, without considering the effects of your actions. _I made a rash decision based on emotions._  
-__jaded__ _adj_ No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
-__lampoon__ _v_ (lampooned)  
-__fave__ _v_ _informal_  
-__wellspring__ _n_ __1__ The source of a stream, spring, etc.; fountainhead. __2__ A source of abundant and continual supply. _A wellspring of knowledge._  
-__rep__ _n_  
 __rave__ _adj_ _informal_ Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
 
 __prick__ _v_ __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._  

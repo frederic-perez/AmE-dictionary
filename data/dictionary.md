@@ -1231,6 +1231,7 @@ __bloviate__ _v_
 __blow away__ _phr v_ To surprise or amaze someone.  
 __blow it off__  
 __blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
+__blow one's top at someone__  
 __blow someone's mind__  
 __blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
 __blow your top__ _idiom_ To become very angry.  
@@ -1287,7 +1288,7 @@ __bobby socks__
 __bocce ball__ _n_  
 __bod__ :two::hammer:  
 __bodacious__  
-__bode__ _v_ :nine: (bodes, boding) Be a portent of a particular outcome. _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
+__bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre's return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
 __bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_  
@@ -2631,7 +2632,7 @@ __conspicuous consumption__ _idiom_ The lavish expenditure of money or acquisiti
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __conspicuously__  
 __constituency__ _n_ :six::hammer: (constituencies)  
-__constituent__ _n_ :five::hammer: (constituents)  
+__constituent__ _n_ :six::hammer: (constituents)  
 __constrained__ _adj_  
 __construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :seven::hammer: (construed)  
@@ -4400,7 +4401,7 @@ __fauna__ _n_
 __Faustian__ _Faustian device._  
 __faux__ _Three faux tombstones._  
 __fava beans__  
-__fave__  
+__fave__ _v_ _informal_ :two::hammer:  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
 __fawn<sup>2</sup>__ _v_  
@@ -4931,6 +4932,7 @@ __Frenchman__
 __frenzy__ :two::hammer:  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
+__freshen__ _v_ _Eve was freshening drinks and handing out cigars._  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
 __fretful__ :two::hammer:  
@@ -4966,6 +4968,7 @@ __front man__ _n_ :two::hammer: (frontman)
 __front-end__ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
 __frosh__  
+__frost the cake__ _idiom_  
 __frostbite__ _n_ :six::hammer:  
 __frosted glass__ _Illuminated by domes of frosted glass._  
 __frosted silver__  
@@ -6646,7 +6649,7 @@ __ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
 __irksome__  
-__iron out__  
+__iron out__ _v_ :two::hammer:  
 __iron trellis__  
 __ironclad commitment__  
 __irrefutable__ _adj_ _Irrefutable evidence._  
@@ -6681,7 +6684,7 @@ __jack-o'-lantern__
 __jackhammer__  
 __jackpot__  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
-__jaded__ _adj_  
+__jaded__ _adj_ :two: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
 __Jag__ Jaguar (car)  
 __jagged__ :two::hammer:  
 __jagging__  
@@ -6795,6 +6798,7 @@ __jousting__ _adj_ _Jousting egos._
 __jovial__ :two::hammer:  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__  
+__jubilation__ _n_  
 __judgment__ _n_ :two::pencil2::hammer:  
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
@@ -7051,7 +7055,7 @@ __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office d
 __lame__ :two::hammer: _Lame excuse._  
 __laminated__ _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
-__lampoon<sup>2</sup>__ _v_ :three: (lampooned) To make the subject of a satire. _Syn_ ridicule  
+__lampoon<sup>2</sup>__ _v_ :four: (lampooned) To make the subject of a satire. _Syn_ ridicule  
 __lance__ _v_ :astonished:  
 __lanced__ _v_  
 __lancet__ _n_  
@@ -7807,7 +7811,7 @@ __million__ _The project willl cost around $10 million._ (not ending with 's')
 __milquetoast__ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __mince (one's) words__ _idiom_  
-__mince<sup>1</sup>__ _v_ :four: (minced) Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._  
+__mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ 3. To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don't mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
 __mincemeat__  
 __mind__ _v_ _Mind the gap._  
@@ -8083,6 +8087,7 @@ __mutism__ _n_
 __mutt__ _n_ :five::hammer:  
 __muttering__ _n_  
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
+__Mx.__ A title of respect prefixed to a person's surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
 __my ass__  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
@@ -8416,7 +8421,7 @@ __offload__ _v_
 __offramp__  
 __offset<sup>1</sup>__ _v_ :three::hammer: (offsetting)  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
-__offshoot__ _n_  
+__offshoot__ _n_ :two::hammer:  
 __offshore__  
 __oft__ :two::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
@@ -9093,6 +9098,7 @@ __picture-perfect__ _The picture-perfect porch._
 __piddle__ _v_  
 __piddling__ _He had killed several hours with footless piddling._  
 __pie in the sky__ _idiom_ :three::hammer:  
+__piece of cake__  
 __piece of work__ _idiom_ :three: A remarkable person, achievement, or product: _"He's a very tough piece of work" (Ted Koppel)._ _You're a piece of work, Bertrand._  
 __piece__ _n_ _A piece of cake._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
@@ -9298,7 +9304,7 @@ __plump__ _Plump and juicy hotdogs._
 __plums__ _n_ :three::hammer:  
 __plunder__ _v_ :four::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
-__plunger__ _n_ _The syringe's plunger._  
+__plunger__ _n_ :two::hammer: _The syringe's plunger._  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
@@ -9956,7 +9962,7 @@ __rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.
 __raring__  
 __rascal__  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
-__rash<sup>2</sup>__ _adj_  
+__rash<sup>2</sup>__ _adj_ :two: Acting or done too quickly, without considering the effects of your actions. _I made a rash decision based on emotions._  
 __Rashomon effect__ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
 __raspberry__ :mute:[ras~~p~~berry]  
@@ -10189,7 +10195,7 @@ __renown__
 __rent metal__  
 __rent__ _v_ _The elkhound's hound was rent._  
 __rents__ _n_  
-__rep__ _abbr_ :two::hammer: _You have to do thousands of reps to reach such level._  
+__rep__ _abbr_ :three::hammer: _You have to do thousands of reps to reach such level._  
 __repeal<sup>1</sup>__ _n_  
 __repeal<sup>2</sup>__ _v_  
 __repealing__  
@@ -11290,7 +11296,7 @@ __skirmish<sup>2</sup>__ _v_ :two::hammer:
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
 __skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
-__skittish__ _adj_ (skittishness) :seven: _adj_ __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
+__skittish__ _adj_ :eight: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulduggery__  
@@ -12795,6 +12801,7 @@ __Tico__ _n_ A native or inhabitant of Costa Rica.
 __tidbit__ _n_ :pencil2::four::hammer: (tidbits) _He fed the cat tidbits._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy__ _A tidy plan._  
+__tie the can__ _idiom_ _It ain't every day that you tie the can to a Congressman._  
 __tie-dye__  
 __tie-up__ _n_  
 __tiebreaking__ _A tiebreaking goal._  
@@ -13810,7 +13817,7 @@ __wellhead__
 __welling up__  
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
 __welling<sup>2</sup>__ _v_ _His breath welling into my face._  
-__wellspring__  
+__wellspring__ _n_ :two: __1__ The source of a stream, spring, etc.; fountainhead. __2__ A source of abundant and continual supply. _A wellspring of knowledge._  
 __welp__ _idiom_ A common alternative to "well" that is used to express disappointment, often in text messaging.  
 __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
 __welsher__ _n_  
