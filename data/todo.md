@@ -1,5 +1,16 @@
 
 
+__low-key__ _adj_ _A low-key peddler._  
+__deed__ _n_ _The deed is set in motion._  
+__fend off__ _v_ Prevent the occurrence of; prevent from happening.  
+__syndicate__ _n_ :pencil2: _The national gambling syndicate._  
+__sulk__ _v_ To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
+__etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
+__toll__ _v_ If you toll a bell, or if it tolls, it makes a loud slow repeated sound.  
+__bulletin__ _n_  
+__ersatz__ _adj_ __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
+__seethe__ _v_ (seething) To be extremely angry.  
+
 __squelch__ _v_  
 __lassitude__ _n_ Tiredness and a lack of energy.  
 
