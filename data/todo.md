@@ -1,5 +1,16 @@
 
 
+__limb__ :mute:[lim~~b~~]  
+__numb__ :mute:[num~~b~~]  
+__plumber__ :mute:[plum~~b~~er]  
+__thumb__ :mute:[thum~~b~~]  
+__tomb__ :mute:[tom~~b~~]  
+__rebuff__ _v_ To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._  
+__pernicious__ _adj_ Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
+__perish__ _v_ To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
+__yadda yadda yadda__ _idiom_ And so forth, on and on; something boring and repetitive.
+__restive__ _adj_ Unwilling to be controlled or be patient.  
+
 __default__ _v_  
 __H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of "hell," referring to each L resembling a hockey stick in shape. _"Oh yeah?" said Tommy to the schoolyard bully. "Well, you can go to H-E-double-hockey-sticks!"_  
 __heavy-hearted__ _idiom_ Sorrowful; melancholy; depressed.  
