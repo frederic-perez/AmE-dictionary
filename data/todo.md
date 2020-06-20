@@ -1,5 +1,15 @@
 
 
+__default__ _v_  
+__H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of "hell," referring to each L resembling a hockey stick in shape. _"Oh yeah?" said Tommy to the schoolyard bully. "Well, you can go to H-E-double-hockey-sticks!"_  
+__heavy-hearted__ _idiom_ Sorrowful; melancholy; depressed.  
+__divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
+__heavy lifting__ _idiom_ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn't willing to do the heavy lifting._  
+__whodunit__ _n_ A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
+__heave into view__ _idiom_ (heave into sight) To move or rise into sight, especially from a distance. _We'd been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
+__buttery__ _adj_ :dart: __3__ Marked by effusive and insincere flattery. Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ fulsome, oleaginous, smarmy, unctuous, soapy, oily "buttery praise"; "gave him a fulsome introduction"; "an oily sycophantic press agent"; "oleaginous hypocrisy"; "smarmy self-importance"; "the unctuous Uriah Heep"; "soapy compliments"  
+__vanilla__ _n_ :dart: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction : plain, ordinary, conventional.  
+
 __low-key__ _adj_ _A low-key peddler._  
 __deed__ _n_ _The deed is set in motion._  
 __fend off__ _v_ Prevent the occurrence of; prevent from happening.  
