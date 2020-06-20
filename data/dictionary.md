@@ -2131,6 +2131,7 @@ __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a ba
 __check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
 __check in__ _v_  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
+__check out__ _Acording to Jim, the layer's name checked out._  
 __check something out__  
 __check__ _v_ :three::hammer: _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._  
 __checker<sup>1</sup>__ _v_ _Checkered history._  
@@ -3896,7 +3897,7 @@ __easier said than done__ Said of a task that is easier to talk about than to do
 __easing__  
 __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
 __easy as can be__  
-__easy chair__ _n_ A large, comfortable, upholstered chair.  
+__easy chair__ _n_ :two: A large, comfortable, upholstered chair.  
 __easy street, on__ _idiom_ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __easy-to-use__ _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
@@ -4111,6 +4112,7 @@ __enviable__
 __environs__ _n pl_  
 __envisage__ _v_  
 __envision__ _v_ :two::hammer:  
+__eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
 __epee__  
 __ephemeral__  
@@ -4474,7 +4476,8 @@ __fez__ _n_
 __fiancé__ A man who is engaged to be married.  
 __fiancée__ A woman who is engaged to be married.  
 __fiat__ _Military fiat._  
-__fib__ _v_ (fibbed) To tell a trivial and harmless lie.  
+__fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
+__fib<sup>2</sup>__ _v_ (fibbed) To tell a trivial and harmless lie.  
 __Fibbies__  
 __fiber__  
 __fiberglass__  
@@ -4573,7 +4576,7 @@ __fists bumping__
 __fit like a glove__ _idiom_ To fit perfectly.  
 __fit the bill__ :two::hammer: _His appearance fitted the bill._  
 __fit__ :two::hammer:  
-__fitful__ _adj_ :two::hammer:  
+__fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, as of activity; irregular. _"My sleep, when it came, was fitful" (Kelly Braffet)._  
 __fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
 __fits__ _The cathedral has been built in fits._  
 __fittingly__ :two::hammer:  
@@ -5248,6 +5251,7 @@ __give someone a piece of your mind__ _idiom_ To speak angrily to someone becaus
 __give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __give someone the creeps__ _idiom_ To make you feel frightened or nervous.  
 __give the creeps__  
+__give-and-take__ _n_ An exchange of views on some topic. _Syn_ discussion, word  
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __giveback__ _n_  
 __glabella__ _n_ The smooth area between the eyebrows just above the nose.  
@@ -5436,6 +5440,7 @@ __gracious__ _adj_ :four::hammer: _He was very gracious._
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
+__gradually__  
 __graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramps__  
 __grand jury__  
@@ -5623,6 +5628,7 @@ __gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra 
 __gumption__  
 __gums__ _n_  
 __gumshoe__ _n_ __1__ A sneaker or rubber overshoe. __2__ _slang_ An investigator, especially a detective.  
+__gun dog__ _n_ A dog trained to work with sportsmen when they hunt with guns.  
 __gun it__ _idiom_ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
 __gun show__  
 __gun-shy__  
@@ -5853,6 +5859,7 @@ __have a say (in something)__ _idiom_ To have an active and participatory role i
 __have a sneaking suspicion__ _idiom_ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
 __have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one's sleeve.  
+__have a/the wolf by the ear(s)__ _idiom_ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
@@ -5876,6 +5883,7 @@ __have the goods on (someone)__ _idiom_ To have incriminating evidence or proof 
 __have the heart (to do something)__ _idiom_ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn't have the heart to tell her that I didn't love her anymore._  
 __have the say__ _idiom_ To have the ultimate authority to command, control, or make a decision.  
 __have the wind up__ _idiom_ To be very anxious, upset, or frightened.  
+__have the world by the tail__ _idiom_ To be very successful, contented, and happy in life.  
 __have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
 __have your head in the clouds__ _idiom_ :two: To be separate from reality, to dream.  
 __have-not__ _n_ A person with few or no possessions.  
@@ -5993,6 +6001,7 @@ __help out__
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helpings__ _?_ _Second helpings._  
 __helpless__  
+__hem and haw__ _idiom_ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
 __hem__ _n_ :es: dobladillo  
 __hemlock__  
 __hemmed__ _v_ :two::hammer:  
@@ -6357,7 +6366,7 @@ __idiocracy__ _Frank is sick and tired of how America has become a state of idio
 __idiot box__  
 __idle__ _v_  
 __idolatry__ :two::hammer:  
-__idylic__ :pencil2:  
+__idyllic__ _adj_ :two::pencil2: Excellent and delightful in all respects.  
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
@@ -8701,6 +8710,7 @@ __oxymoron__ :mega:
 __oyster__  
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __oz.__  
+__Ozzie__ _n_ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
 __Ozzies__ (Australians?)  
 __pablum__ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
 __pace around__ _idiom_ To walk around nervously or anxiously. _He was pacing around making people nervous._  
@@ -9531,7 +9541,7 @@ __prez__ _n informal_ (Prez) President.
 __price point__ _The best in price point._  
 __price tag__  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
-__prick<sup>1</sup>__ _v_ :four::hammer: (pricked) _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
+__prick<sup>1</sup>__ _v_ :five::hammer: (pricked) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __prick<sup>2</sup>__ _n_ _He already had the prick for it._  
 __prickled__ _v_ _Rob's skin prickled._  
 __prickling__  
@@ -9995,7 +10005,7 @@ __ravaged__ _v_ :four::hammer:
 __ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
-__rave<sup>3</sup>__ _adj_  
+__rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
 __raven-haired__  
 __ravenous__ _adj_ :five: Extremely hungry.  
 __ravine__ _n_ :two::hammer:  
@@ -10543,7 +10553,7 @@ __Runyonesque__ _adj_
 __ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :seven::hammer: (ruses)  
 __rustle up__ _v_  
-__rustle__ _v_ :five::mute:[rus~~t~~le]:hammer: (rustled, rustling) _To rustle up a dinner for 12._  
+__rustle__ _v_ :six::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ :two::hammer: _Some guy with rut for brains._  
 __ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
@@ -10735,6 +10745,7 @@ __scissor lift__
 __scissors__ :mute:[s~~c~~issors]  
 __scleroderma__  
 __scoff__ _v_ :seven: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scofflaw__ _n_  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __sconce__ _v_  
 __scone__ _Like strawberry jam slathered on a scone._  
@@ -11751,7 +11762,7 @@ __spliced__ _v_
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
 __split hairs__ _idiom_ :two: Argue or worry about small details.  
-__split__ _n_  
+__split__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
 __splotched__ _v_  
 __splotches__ _n_  
 __splurge<sup>1</sup>__ _n_ :two: __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
@@ -13268,7 +13279,7 @@ __U-boat__ _n_
 __UA-ed__ _v_ :two::hammer:  
 __ugh__ :two::hammer:  
 __uh__  
-__ukuleles__  
+__ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
 __ultimately__  
 __ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
