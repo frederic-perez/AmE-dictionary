@@ -1,5 +1,16 @@
 
 
+__confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
+__high profile__ _idiom_ A presence or stance that is deliberately conspicuous and prominent socially.  
+__default__ _v_  
+__H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of "hell," referring to each L resembling a hockey stick in shape. _"Oh yeah?" said Tommy to the schoolyard bully. "Well, you can go to H-E-double-hockey-sticks!"_  
+__heavy-hearted__ _idiom_ Sorrowful; melancholy; depressed.  
+__divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
+__heavy lifting__ _idiom_ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn't willing to do the heavy lifting._  
+__whodunit__ _n_ A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
+__heave into view__ _idiom_ (heave into sight) To move or rise into sight, especially from a distance. _We'd been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
+__buttery__ _adj_ :dart: __3__ Marked by effusive and insincere flattery. Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ fulsome, oleaginous, smarmy, unctuous, soapy, oily "buttery praise"; "gave him a fulsome introduction"; "an oily sycophantic press agent"; "oleaginous hypocrisy"; "smarmy self-importance"; "the unctuous Uriah Heep"; "soapy compliments"  
+
 __flinty__ _adj_ A flinty expression is unfriendly and without emotion.  
 __china__ _n_ _Delicate, translucent china._  
 __townhouse__ _n_ :three: A house that shares walls with houses on either side of it.  
