@@ -1,5 +1,16 @@
 
 
+__far fetched__ Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful  
+__ask for the moon__ _idiom_ To ask for too much, to want something that is not possible.  
+__walk out__ _phr v_ To leave a relationship suddenly.  
+__ward off__ _v_ To prevent.  
+__defund__ _v_ To stop the flow of funds to.  
+__pernicious__ _adj_  
+__acid test__ _n_ A decisive or critical test, as of worth or quality.  
+__Samaritan__  
+__add insult to injury__  
+__boozehound__ _n_ _slang_ One who drinks alcoholic beverages habitually and excessively.  
+
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
 __high profile__ _idiom_ A presence or stance that is deliberately conspicuous and prominent socially.  
 __default__ _v_  
