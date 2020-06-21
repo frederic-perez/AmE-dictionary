@@ -1,5 +1,16 @@
 
 
+__flinty__ _adj_ A flinty expression is unfriendly and without emotion.  
+__china__ _n_ _Delicate, translucent china._  
+__townhouse__ _n_ :three: A house that shares walls with houses on either side of it.  
+__slap (one) on the wrist__ _idiom_ To issue one with a very mild, inconsequential punishment or warning.  
+__ringer__ _n_ :two: A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
+__coyly__ _adv_  
+__tuck__ _v_ (tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._  
+__scathing__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
+__for all seasons__  
+__sucker__ _n_  
+
 __limb__ :mute:[lim~~b~~]  
 __numb__ :mute:[num~~b~~]  
 __plumber__ :mute:[plum~~b~~er]  
