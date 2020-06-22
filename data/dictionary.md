@@ -124,7 +124,7 @@ __Achilles heel__ A weakness or vulnerable point.
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
 __Achilles' heel__ _n_ A seemingly small but actually crucial weakness.  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia (from the Greek 'nanos', meaning 'dwarf'), _slang_ lollypopguildophobia (after the trade union of munchkins in the Wizard of Oz)  
-__acid test__ _idiom_ Something that shows the true worth or value of something or someone.  
+__acid test__ _idiom_ :two: Something that shows the true worth or value of something or someone.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __acme__  
@@ -161,7 +161,7 @@ __Ada__ :mega: /ā′də/
 __adage__ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
 __Adam's ale__ _slang_ Water.  
 __adamant__ _adj_ :two::hammer:  
-__add insult to injury__ _idiom_ To hurt the feelings of a person who is already upset.  
+__add insult to injury__ _idiom_ :two: To hurt the feelings of a person who is already upset.  
 __add up to__ _idiom_ To equal or amount to something.  
 __add up__ _phr v_ :four::hammer: _The whole thing doesn't add up._  
 __ADD__ _abbr_ Attention deficit disorder.  
@@ -571,6 +571,7 @@ __ashen-faced__
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
 __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
+__ask for the moon__ _idiom_ To ask for too much, to want something that is not possible.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _v_  
 __ask over__ _phr v_ To invite people to your house.  
@@ -1371,7 +1372,7 @@ __boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases in
 __boot<sup>2</sup>__ _v_ :two::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
 __bootlegger__  
-__boozehound__ _n_ _slang_ Someone who drinks a lot of alcohol.  
+__boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __bop__ _v_  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
@@ -3245,6 +3246,7 @@ __defrock__ _v_
 __defrost__  
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
+__defund__ _v_ To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __dehydration__  
 __deign__ _v_ :two::hammer: (deigned)  
@@ -4363,7 +4365,7 @@ __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability.
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
-__far fetched__ _adj_ :six::hammer: (far-fetched) _That isn't as far-fetched as it sounds._  
+__far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :five::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
@@ -4570,6 +4572,7 @@ __firstborn__
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __fish__ _n_ Plural: fish.  
+__fishmonger__ _n_  
 __fissile__ _Fissile material._  
 __fist-pumper__  
 __fists bumping__  
@@ -5018,7 +5021,7 @@ __funny feeling__ _idiom_ An intuition or premonition about something; a sense o
 __funny stomach__  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
-__furlough<sup>1</sup>__ _n_ :three: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
+__furlough<sup>1</sup>__ _n_ :four: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __furlough<sup>2</sup>__ _v_  
 __furnish__ _v_ :two::hammer: _They were furnished with a wealth of new information._ _To furnish suites of labs._  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
@@ -6090,7 +6093,7 @@ __hit the books__
 __hit the brakes__  
 __hit the road__ To leave a place or begin a journey.  
 __hit the sack__  
-__hit the wall__  
+__hit the wall__ _idiom_ :two::hammer:  
 __hit up__ _She thought about hitting up an amusement park._  
 __hitch<sup>1</sup>__ _n_ :two::hammer: _There was only a little hitch in this process to get their cash._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
@@ -6175,7 +6178,7 @@ __homestead<sup>2</sup>__ _v_
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
 __homophobic__  
-__honcho__ _n_ :three::hammer: (honchos)  
+__honcho__ _n_ :four::hammer: (honchos)  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
@@ -6857,6 +6860,7 @@ __juvenile__ _The Downeast Salmon Federation released the juvenile salmon into t
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-9__ _A K-9 van._  
 __K-pop__  
+__kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
 __kabobs__  
 __kabuki__ _n_ :three::hammer:  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
@@ -9024,7 +9028,7 @@ __perks__
 __permafrost__ :two::hammer:  
 __permed__  
 __permit__ _Camping permit fee._  
-__pernicious__ :two::hammer:  
+__pernicious__ _adj_ :three::hammer:  
 __peroxide__  
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
@@ -9055,6 +9059,7 @@ __petulant__ _adj_ :four::mega::hammer:
 __petulantly__  
 __pew__ _Church pews._  
 __pewter__  
+__phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
 __phalanx__ :two::hammer:  
 __Pharaoh__  
 __pharmaceutical__ :mega: (fär′mə-so͞o′tĭ-kəl)  
@@ -9079,6 +9084,7 @@ __photochromic__ _adj_
 __photography__ _n_ :mega:  
 __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
 __phylacteries__ :two::hammer:  
+__physicalize__ _v_ __1__ To express with the body: _physicalize one's emotions._ __2__ To describe or interpret in physical terms: _"a writer who physicalizes everything he feels" (James Wolcott)._  
 __phytoplankton__ _n_  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
@@ -10616,6 +10622,7 @@ __Salvation Army__
 __salve__ _n_ :four::hammer: (salves) _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._  
 __salvo__ _n_ :four::hammer: (salvos)  
 __Sam Browne belt__  
+__Samaritan__  
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
 __samosas__  
 __samovar__ _n_  
@@ -11885,7 +11892,7 @@ __stage name__
 __stager__ _n_ An experienced person who has been through many battles; someone who has given long service. _Syn_ old hand, old-timer, warhorse, veteran  
 __stagflation__ :two::hammer:  
 __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
-__staggering__  
+__staggering__ _adj_ :two: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
 __stagnant__ _adj_ :three::hammer:  
 __staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
 __stair climbing__ The climbing of a flight of stairs.  
@@ -13701,6 +13708,7 @@ __walk in sunshine__
 __walk on air__ To be very happy.  
 __walk on eggshells__  
 __walk on water__ _idiom_ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
+__walk out__ _phr v_ To leave a relationship suddenly.  
 __walk the walk__  
 __walk__ :mute:[wa~~l~~k]  
 __walk-on__ :two::hammer:  
@@ -13727,7 +13735,7 @@ __wanton<sup>2</sup>__ _v_
 __war stories__  
 __warble__ _v_ :three::hammer:  
 __warblers__  
-__ward off__ _phr v_ To prevent.  
+__ward off__ _phr v_ :two: o prevent.  
 __wardrobe__ _n_ _Left Bank wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
@@ -13763,6 +13771,7 @@ __watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._
 __water buffalo__  
 __water cooler__  
 __water down__ _phr v_ :four: To make a liquid weaker by adding water.  
+__water pill__  
 __water seepage__  
 __waterfowl__ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  
@@ -13823,6 +13832,7 @@ __well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile
 __well-founded__ _adj_ Based on sound reasoning or evidence.  
 __well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
+__well-read__ _adj_ Someone who is well-read has read many books and has a lot of knowledge.  
 __well-rounded__ _adj_ :two::hammer:  
 __wellhead__  
 __welling up__  

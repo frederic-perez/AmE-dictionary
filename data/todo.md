@@ -1,27 +1,5 @@
 
 
-__fishmonger__ _n_  
-__water pill__  
-__hit the wall__ _idiom_  
-__furlough__  
-__well-read__ _adj_ Someone who is well-read has read many books and has a lot of knowledge.  
-__honcho__ _n_ (honchos)  
-__physicalize__ _v_ __1__ To express with the body: _physicalize one's emotions._ __2__ To describe or interpret in physical terms: _"a writer who physicalizes everything he feels" (James Wolcott)._  
-__kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
-__phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
-__staggering__ _adj_ Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
-
-__far fetched__ Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful  
-__ask for the moon__ _idiom_ To ask for too much, to want something that is not possible.  
-__walk out__ _phr v_ To leave a relationship suddenly.  
-__ward off__ _v_ To prevent.  
-__defund__ _v_ To stop the flow of funds to.  
-__pernicious__ _adj_  
-__acid test__ _n_ A decisive or critical test, as of worth or quality.  
-__Samaritan__  
-__add insult to injury__  
-__boozehound__ _n_ _slang_ One who drinks alcoholic beverages habitually and excessively.  
-
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
 __high profile__ _idiom_ A presence or stance that is deliberately conspicuous and prominent socially.  
 __default__ _v_  
