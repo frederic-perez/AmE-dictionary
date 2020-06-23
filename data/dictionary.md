@@ -1717,6 +1717,7 @@ __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shap
 __buttercups__  
 __butterfingers__ _idiom_ A person who frequently drops things, clumsy person.  
 __butternut__  
+__buttery__ _adj_ :dart: __3__ Marked by effusive and insincere flattery. Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ fulsome, oleaginous, smarmy, unctuous, soapy, oily "buttery praise"; "gave him a fulsome introduction"; "an oily sycophantic press agent"; "oleaginous hypocrisy"; "smarmy self-importance"; "the unctuous Uriah Heep"; "soapy compliments"  
 __butting head__  
 __butting__ _v_  
 __buttinski__  
@@ -2181,6 +2182,7 @@ __chime in__ _phr v_ :two::hammer:
 __chimera__ _n_ (chimeras) :two::hammer:  
 __chiming__ :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
+__china__ _n_ _Delicate, translucent china._  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chintzy__ _adj_ Embarrassingly stingy. _Syn_ cheap  
 __chip apart__  
@@ -2609,6 +2611,7 @@ __conflagration__ _n_ :two: A very intense and uncontrolled fire. _Syn_ inferno 
 __conflate__ _v_  
 __confluence__ _n_  
 __confound__ _v_ :eight::hammer: (confounded, confounding)  
+__confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
 __conglomerates__  
@@ -2815,7 +2818,7 @@ __cowled__ _v_
 __cowpoke__ _n_ _old-fashioned_ A cowboy or cowgirl.  
 __coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
-__coyly__ _adv_ In a coy manner. _She pouted and looked at him coyly._  
+__coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :two::hammer: (cozened)  
 __cozy__  
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
@@ -3219,7 +3222,7 @@ __DEET__ _Bug spray with DEET to ward off mosquitoes._
 __deface__ _v_ :two::hammer: _Defacing two murals._  
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __defanging__ _n_  
-__default__ _v_ :four::hammer: _The Solar Energy company defaulted._  
+__default__ _v_ :five::hammer: _The Solar Energy company defaulted._  
 __defect__ _v_ :seven: (defected) To desert one's country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defective__ _adj_  
@@ -3540,6 +3543,7 @@ __dithered__ _v_
 __ditsy__ _Ditsy nanny._  
 __ditty bags__ _n_  
 __diva__  
+__divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
 __diverse__  
 __diversion__ _n_  
 __diverted__ _diverted flights_  
@@ -4677,7 +4681,7 @@ __fling__ _v_ :seven::hammer: (flinging) _Johnson isn't just flinging it._ _He w
 __flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
-__flinty__ _Flinty soil._  
+__flinty__ _adj_ :two: __1__ A flinty expression is unfriendly and without emotion. __2__ Composed of, containing, or resembling flint, esp. in hardness. _Flinty soil._  
 __flip (me) the bird__  
 __flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. __2__ To go crazy; have a mental breakdown.  
 __flip the bird__  
@@ -4797,7 +4801,7 @@ __footloose__ :pencil2:
 __footwork__ _n_ :two::hammer:  
 __for a bit__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
-__for all seasons__  
+__for all seasons__ :two::hammer:  
 __for better or worse__  
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
@@ -5670,6 +5674,7 @@ __gymkhana__
 __gyoza__ _n_  
 __gyrate__ _v_ :two::hammer:  
 __gyroscopic__ :mega: _Gyroscopic effect._  
+__H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of "hell," referring to each L resembling a hockey stick in shape. _"Oh yeah?" said Tommy to the schoolyard bully. "Well, you can go to H-E-double-hockey-sticks!"_  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __ha!__ :two::hammer:  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
@@ -5957,11 +5962,14 @@ __heathenism__
 __heather__  
 __heathy__  
 __heatwave__ _n_  
+__heave into view__ _idiom_ (heave into sight) To move or rise into sight, especially from a distance. _We'd been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
 __heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavily__ _He was drinking heavily._  
+__heavy lifting__ _idiom_ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn't willing to do the heavy lifting._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
+__heavy-hearted__ _idiom_ Sorrowful; melancholy; depressed.  
 __hecatombs__  
 __heck__ _He's doing a heck of a job._  
 __heckled__ _v_  
@@ -6048,6 +6056,7 @@ __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and
 __high beams__  
 __high note__ _idiom_ The most successful, impressive, or climactic point (of something).  
 __high places__ _I've friends in high places._  
+__high profile__ _idiom_ A presence or stance that is deliberately conspicuous and prominent socially.  
 __high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _n_ :two: __1__ A gambler who wagers large sums. __2__ One who spends lavishly and ostentatiously on entertainment.  
 __high school__ _n_ A school especially in the U.S. usually including grades 9–12 or 10–12.  
@@ -10361,6 +10370,7 @@ __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_
 __ring up__ _Ringing up sales._  
 __ring__ _A narcotics ring._  
 __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._  
+__ringer__ _n_ :two: A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
 __ringleader__  
 __ringlets__  
 __ringmaster__  
@@ -10715,6 +10725,7 @@ __scarcely__ :astonished: _The executioner seemed scarcely older than Rob._
 __scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.  
 __Scarlett__ (vs scarlet) A female given name transferred from the surname; in general use since 1936.  
 __scarper__ _n_ A hasty departure.  
+__scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattershot__ :two::hammer:  
@@ -11342,6 +11353,7 @@ __slake__ _v_
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :six::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
+__slap (one) on the wrist__ _idiom_ To issue one with a very mild, inconsequential punishment or warning.  
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
@@ -12259,7 +12271,7 @@ __succotash__ _n_ (Cookery) US and Canadian a mixture of cooked sweet corn kerne
 __succubus__ _n_ :three::hammer:  
 __succumb__ _v_ :four::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
-__sucker__ _n_ :four::hammer: (of a plant) _He is a sucker for anything cute._  
+__sucker__ _n_ :five::hammer: (of a plant) _He is a sucker for anything cute._  
 __sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
 __suckle__ _v_  
 __suckled__ _v_ :two::hammer:  
@@ -13017,7 +13029,7 @@ __tout__ _v_ :three::hammer: (touted)
 __tow truck__ _n_  
 __tow__ :two::hammer: _Cameras in tow._  
 __tower__ _v_ _Towering over our heads._  
-__townhouse__ _n_ :two::hammer: (townhouses)  
+__townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
 __toy breeds__ _(pets)_  
 __toy__ _v_ :two::hammer: (toying)  
 __Toyota__ :mega: (? CHK)  
@@ -13187,7 +13199,7 @@ __tube socks__ :camera:hammer: A type of knee-high sports sock; usually white wi
 __tubthumping__  
 __tuck away__  
 __tuck tail__ _You just don't tuck tail and go someplace else._  
-__tuck<sup>1</sup>__ _v_ :four::hammer: (tucks, tucked) _The violin was tucked under his arm._ _The quarterback tucks the ball._  
+__tuck<sup>1</sup>__ _v_ :five: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
 __Tudor__  
 __Tuesday__ :mega: /'tuzdi, -deI/  
@@ -13942,7 +13954,7 @@ __whizzing__
 __WHO__  
 __who__ :mute:[~~w~~ho]  
 __whoa__ _interj_ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
-__whodunit__ _n_ :two: A detective story.  
+__whodunit__ _n_ :three: A detective story. A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
 __whole milk__  
 __whole nine yards, the__  
 __whole__ :mute:[~~w~~hole]  
