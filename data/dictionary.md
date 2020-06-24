@@ -9028,6 +9028,7 @@ __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching m
 __Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
+__perish__ _v_ To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
 __peristaltic__ _adj_  
 __periwinkles__  
 __perjury__ :two::hammer:  
@@ -9037,7 +9038,7 @@ __perks__
 __permafrost__ :two::hammer:  
 __permed__  
 __permit__ _Camping permit fee._  
-__pernicious__ _adj_ :three::hammer:  
+__pernicious__ _adj_ :four: Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
 __peroxide__  
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
@@ -9322,6 +9323,7 @@ __plum wine__
 __plum__ _n_ :three::hammer: _Plum-and-onion stuffing._  
 __plumb__ _v_ :two::hammer:  
 __plumbago__ _n_  
+__plumber__ :mute:[plum~~b~~er]  
 __plumbing__  
 __plummet__ _v_  
 __plummeted__ _v_ :three::hammer: (plummeting)  
@@ -10065,7 +10067,7 @@ __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a g
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
-__rebuff__ _v_ :eight: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. _The effort has been rebuffed._  
+__rebuff__ _v_ :nine: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
 __rebuke__ _n_ :four::hammer:  
 __rebut__ _v_  
 __rebuttal__ _n_  
@@ -10264,7 +10266,7 @@ __responsibly__ _adv_ In a responsible manner.
 __restaurateur__  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
-__restive__ _adj_ :three::hammer:  
+__restive__ _adj_ :four: Unwilling to be controlled or be patient.  
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ _n_ :two::hammer:  
@@ -12799,7 +12801,7 @@ __thud<sup>2</sup>__ _v_ (thudding)
 __thug__ _n_ :three: A tough and violent man, esp a criminal.  
 __thumb tacks__  
 __thumb war__  
-__thumb__ _v_ :two::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
+__thumb__ _v_ :three::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thumping__ _A thumping majority._  
@@ -13543,6 +13545,7 @@ __vampire squid__
 __vandalize__ _v_  
 __vandals__  
 __vane__ _n_ :nine::hammer: (vanes) _A smooth metal weather vane._ _Wind vane._ _Wind vanes._ _Propeller vane._  
+__vanilla__ _n_ :dart: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction : plain, ordinary, conventional.  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
@@ -14190,8 +14193,7 @@ __xenoestrogen__ _n_
 __xeriscape__ _n_  
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
-__yada yada yada__ _adv_ :three::hammer: (yada, yada, yada)  
-__yadda yadda yadda__ _idiom_ And so forth, on and on; something boring and repetitive.  
+__yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
 __yakuza__  
