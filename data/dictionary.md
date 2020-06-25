@@ -1617,6 +1617,7 @@ __bull in a china shop__ _n_ _idiom_ :two: A clumsy person.
 __bull__ Adult large animal (eg. an elephant).  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet points__ :three::hammer: _Give me the bullet points._  
+__bulletin__ _n_  
 __bulletproof__ _adj_ _A bulletproof relationship._  
 __bullhorn__ :two::hammer:  
 __bullion__  
@@ -3208,6 +3209,7 @@ __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __dedication__  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
+__deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
 __deep cut__ _n_ :three: A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
@@ -4151,7 +4153,7 @@ __ergomania__ _n_ An excessive desire to work or exercise.
 __err__ _"The well-being of your child os of paramount concern," he wrote in his lecture, err, letter._  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
-__ersatz__ _adj_  
+__ersatz__ _adj_ :two: __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
 __erstwhile__ _adj_ :three::hammer:  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
@@ -4171,6 +4173,7 @@ __established__ _Established 1978._
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __ETA__ _I believe we have an ETA of six days._  
 __etch__ _v_ :three::hammer: (etched)  
+__etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ethereal__ _adj_  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
@@ -4448,7 +4451,7 @@ __fen__ _n_
 __fence-mending__  
 __fence-sitter__ _n_ :two::hammer: _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __fencers__ _n_  
-__fend off__ _v_ :three::hammer:  
+__fend off__ _v_ :four: Prevent the occurrence of; prevent from happening.  
 __fend__ _v_ (fending)  
 __fender bender__ _idiom_ :three: A little car accident. _Stranded by a fender bender._  
 __fennel__ :two::hammer:  
@@ -4853,6 +4856,7 @@ __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprive
 __forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
+__forged__ _adj_ Of or relating to that which has been fraudulently imitated.  
 __forgetful__ _adj_  
 __forgive__ _Forgive me, master._  
 __forgiving__ _adj_  
@@ -7112,9 +7116,10 @@ __lash out__ _v_ :five::hammer: (lashing out)
 __lashed__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
 __Lasik__ _Lasik surgery._  
-__lassitude__  
+__lassitude__ _n_ :two: Tiredness and a lack of energy.  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
+__last hurrah__ _idiom_ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
 __last straw__ _idiom_ :two: The final problem in a series of problems.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _He scored the last-gasp winner._  
@@ -7428,7 +7433,7 @@ __loose strands__
 __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
-__loot__ _v_  
+__loot__ _v_ :two::hammer:  
 __lope__ _v_  
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
@@ -7451,7 +7456,7 @@ __lovacore__
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
-__low-key__ _adj_ :four::hammer: (low key)  
+__low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
 __low-slung__ _Low-slung school._  
 __lowbrow__  
 __lowdown__ _n_ _Slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
@@ -8951,8 +8956,7 @@ __peckerwood__
 __pecking order__  
 __pecuniary__ _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
-__peddle__ _v_  
-__peddling__  
+__peddle__ _v_ :three::hammer: (peddling)  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
 __pedestrianized__ _v_  
 __peek-a-view__  
@@ -9391,6 +9395,7 @@ __ponderous__ _adj_ :four::hammer: _He shouldered his ponderous bundle._
 __pong__ Drinking game?  
 __pontiff__  
 __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._  
+__pony up__ _phr v_ _slang_ To pay (money owed or due).  
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
@@ -10485,6 +10490,7 @@ __Roto-Rooter__
 __rotorcraft__  
 __rototiling__  
 __Rottweiler__  
+__rotund__ _adj_  
 __rouble__ _A copper rouble coin._  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
@@ -10543,7 +10549,7 @@ __rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? 
 __rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :nine::hammer: (rummaged, rummaging)  
+__rummage__ _v_ :nine::m::hammer: (rummaged, rummaging)  
 __rummy__  
 __rumor has it__  
 __rumor mill__ _Fighting the rummor mill._  
@@ -10891,7 +10897,7 @@ __seer__ _n_
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
-__seethe__ _v_ :nine::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
+__seethe__ _v_ :nine::m::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
 __segregate__ _v_ _Same building, but segregated schools._  
 __segue__ _v_ :five::pencil2::mega::hammer:  
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
@@ -11516,7 +11522,7 @@ __smootch__
 __smooth operator__  
 __smooth__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
-__smorgasbord__  
+__smorgasbord__ _n_ :two::astonished::hammer:  
 __smote__ _v_  
 __smothered__  
 __smothering__  
@@ -11881,8 +11887,7 @@ __squeal__ _v_
 __squeamish__ _adj_ :six: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squeeze__ _v_  
-__squelch__ _v_ :three::hammer:  
-__squelched__ _v_  
+__squelch__ _v_ :five::hammer: (squelched)  
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
@@ -12293,7 +12298,7 @@ __suicide vests__
 __suit up__ _v_  
 __suitors__ :two::hammer:  
 __sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
-__sulk<sup>2</sup>__ _v_  
+__sulk<sup>2</sup>__ _v_ :two: To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ :two::hammer:  
 __sullenly__  
@@ -12438,6 +12443,7 @@ __sympathetic__
 __synaptogenesis__ _n_  
 __syncing__ _Syncing up over coffee._  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
+__syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ :two::hammer:  
 __syndrome__ _n_  
 __synesthesia__ _n_  
@@ -12949,7 +12955,7 @@ __toilet stool__
 __toiletries__  
 __Tokyoites__  
 __tolerate__ _v_  
-__toll__ _v_ :two::hammer: (tolls, tolling) _Church bells tolling._ _The bell tolls for Ukraine._  
+__toll__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
 __tom__ (cat?)  
 __tomb__ :mute:[tom~~b~~]  
 __tomboy__  
@@ -14193,7 +14199,7 @@ __xenoestrogen__ _n_
 __xeriscape__ _n_  
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
-__yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.
+__yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
 __yakuza__  
