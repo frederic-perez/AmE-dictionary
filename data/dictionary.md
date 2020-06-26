@@ -817,7 +817,7 @@ __bankroll<sup>2</sup>__ _v_ :two::hammer:
 __bankroller__ _n_ The person or organization that provides the finance for a project, business, etc.  
 __banquet__ _n_ :mega::two::hammer:  
 __banshee__ _n_  
-__bantam__ _Playing hockey at the bantam level._  
+__bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women's bantamweight champ._  
 __banter<sup>1</sup>__ _n_ :five::hammer:  
 __banter<sup>2</sup>__ _v_  
@@ -1269,6 +1269,7 @@ __bluster<sup>2</sup>__ _n_
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __BM__ Bowel movement (take a dump).  
 __BMX__ :two::hammer: _BMX bike._  
+__bn__ _abbr_ Billion. _US $30bn._  
 __BO__ :two::hammer:  
 __board__ _n_ :two::hammer: _(basketball)_ Rebound? _Encouraging Amazon's board (member) diversity._  
 __boarding kennels__ _Mike was running a boarding kennels._  
@@ -3472,6 +3473,7 @@ __disembodied__ _v_ :two::hammer:
 __disenfranchise__  
 __disenfranchised__  
 __disfavor__  
+__disgorge__ _v_  
 __disgorgement__  
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
@@ -4478,7 +4480,7 @@ __fetch__ _v_ _The drawing is expected to fetch £500,000._
 __feted__ _v_ :four::hammer:  
 __fettered__ _v_  
 __fetus__ _n_  
-__feud<sup>1</sup>__ _n_ :three::hammer:  
+__feud<sup>1</sup>__ _n_ :four::hammer:  
 __feud<sup>2</sup>__ _v_  
 __feuded__  
 __fez__ _n_  
@@ -5984,7 +5986,7 @@ __hectic__ _adj_ :seven::dart::hammer: _It was a hectic time._
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
-__hedge<sup>2</sup>__ _v_ :five::hammer: (hedging)  
+__hedge<sup>2</sup>__ _v_ :six::hammer: (hedging)  
 __hedonic__  
 __Hedonism__  
 __heebie-jeebies__ If you have the heebie-jeebies, you're worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
@@ -6663,6 +6665,7 @@ __inured__ _v_ :two::hammer:
 __inurnment__  
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveighed__  
+__inveigle__ _v_ Influence or urge by gentle urging, caressing, or flattering.  
 __inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
 __invoice__ _v_  
 __invoke__  
@@ -7826,7 +7829,8 @@ __militias__ :two::hammer:
 __milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __milk__ _v_ :three::hammer: _Milk the clock._  
 __milkweed__  
-__mill__ _n_ A million dollards.  
+__mill<sup>1</sup>__ _n_ A million dollards.  
+__mill<sup>2</sup>__ _v_ _They milled in front of the courtroom door._  
 __milled about__ _v_  
 __millenium__ _n_  
 __Millennials__  
@@ -8083,6 +8087,7 @@ __mundane__ _adj_ :three::hammer:
 __Muni bus__  
 __munificent__ _adj_  
 __munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
+__muons__ _n_ _Cosmic-ray muons._  
 __murder book__ _n_ The case file of a murder investigation.  
 __muriatic__  
 __muscle__ _n_ Brawn; power; force; organ that produces movement. Gets its name from Latin musculus, "little mouse."  
@@ -9858,6 +9863,7 @@ __questioner__ _n_
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
 __quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault over trivial matters or minor concerns; cavil. _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
+__quick-witted__ _adj_ Mentally alert and sharp; keen. _Jane was shifty and quick-witted._  
 __quicken__ _v_ :three::hammer: (quickened) _Spring quickened._  
 __quickening__ :two::hammer: _He felt a quickening within him._  
 __quicksand__ :two::hammer: _I've just signed a quicksand employment contract._  
@@ -11066,7 +11072,7 @@ __sherbet punch__
 __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
 __shiet__  
 __shift__  
-__shifty__  
+__shifty__ _adj_ :two::hammer: _Jane was shifty and quick-witted._  
 __shill<sup>1</sup>__ _n_  
 __shill<sup>2</sup>__ _v_ :two::hammer:  
 __shilling__ _I'm not quite the shilling._  
@@ -11270,6 +11276,7 @@ __Sinai__ _n_ (Mount Sinai) :mega:
 __since forever__  
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven't been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
 __sine die__  
+__sine qua non__ _n_  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
 __sinergy__ _n_ (sinergies)  
 __sinew__ _n_ :seven::hammer: (sinews)  
@@ -11884,7 +11891,7 @@ __squeaker__ _Clippers keep up hot start in squeaker over Thunder._
 __squeaky__ :two::hammer:  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
-__squeamish__ _adj_ :six: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
+__squeamish__ _adj_ :seven: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squeeze__ _v_  
 __squelch__ _v_ :five::hammer: (squelched)  
@@ -12241,6 +12248,7 @@ __stupas__
 __stupefy__  
 __sturdy__ _adj_ :four::hammer:  
 __stutter__ _v_ :two::hammer:  
+__style__ _v_  
 __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
@@ -12914,6 +12922,7 @@ __tixker__
 __tizzy__  
 __TM__ _abbr_ :three: Trascendental meditation.  
 __TMI__ Too much information.  
+__tn__ _abbr_ Trillion. _US $2.4tn._  
 __to be at sea__  
 __to be back on your feet__ To be healthy again after a period of illness.  
 __to be in someone's shoes__ _Nobody has been in my shoes._  
@@ -13405,6 +13414,7 @@ __Union Jack__ _n_ :camera:
 __unkempt__ :two::hammer: _Unkempt beards._  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _preposition_  
+__unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__  
 __unquestioned__  
 __unravel__  
