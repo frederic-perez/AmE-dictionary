@@ -1,5 +1,16 @@
 
 
+__beat the clock__ _idiom_ To finish something before the time is up.  
+__go out__ _idiom_ __1__ 1. To go on a date with someone. _Those two have such an obvious chemistry that I'm surprised they've never gone out._  
+__look up to (one)__ _idiom_ :dart: To admire or view one as a role model. _Of course I look up to you—you're my big sister!_  
+__fall out__ _idiom_ :dart: __5__ To have one's relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they're not talking to each other at all._  
+__ask out__ _phr v_ To invite (someone) to a social engagement.  
+__jerk__ _n_ _slang_ Mean or unlikeable person.  
+__dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
+__a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
+__armed to the teeth__ _idiom_  
+__Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
+
 __immolate__ _v_ :mega:  
 __occasion__ _n_ :mega:  
 __faux pas__ _n_ A social blunder.  
