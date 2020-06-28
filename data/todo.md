@@ -1,5 +1,16 @@
 
 
+__hood__ _n_ :two::hammer:  
+__lurk__ _v_ (lurking)  
+__gulp__ _v_  
+__attaché case__  
+__tidbits__ _n_  
+__scrawled__ _v_  
+__mournfully__  
+__goy__ _n_ (Often Offensive) A person who is not Jewish.  
+__picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
+__crumb__ _n_ A very small amount of something. _Tim sighed deeply and accepted the crumb._  
+
 __cachet__ _n_ A special quality that makes people admire someone or something, or makes people want to have something.  
 __vole__ _n_ A small animal similar to a mouse but with a short tail. _Syn_ field mouse  
 __shih tzu__ _n_ A toy dog breed developed in China.  
