@@ -36,6 +36,7 @@ __a drop in the bucket__ _idiom_ :two: A very small amount when compared to some
 __a falling out__ _idiom_ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __a fishbowl__ _idiom_ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
+__a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
 __à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a golden hello__ _idiom_ A sum of money paid to a new employee as a benefit for being recruited by a company.  
@@ -522,7 +523,7 @@ __arm bands__ _n_ :es: manguitos
 __arm candy__ _idiom_ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
 __armageddon__  
 __armchair expert__ _idiom_  
-__armed to the teeth__ _idiom_ Fully armed, having many weapons.  
+__armed to the teeth__ _idiom_ :two: Fully armed, having many weapons.  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
 __armistice__ _n_ A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning "to come to a stand" or "to cause to stand or stop," combined with _arma_, meaning "weapons.  
 __armload__  
@@ -573,7 +574,7 @@ __asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asi
 __ask after__ _phr v_ To ask for news about someone.  
 __ask for the moon__ _idiom_ To ask for too much, to want something that is not possible.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
-__ask out__ _v_  
+__ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
 __ask over__ _phr v_ To invite people to your house.  
 __asp__ _n_  
 __aspen__  
@@ -657,6 +658,7 @@ __auction off__ _phr v_ To sell something in an auction.
 __audacious__ _adj_  
 __audacity__  
 __audible__ _v_  
+__Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __aum__  
 __auscultation__ _n_  
@@ -919,7 +921,7 @@ __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep 
 __bearing__ _n_ :five::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat it__ _idiom_ To go away immediately.  
-__beat the clock__ _idiom_ To finish something before the time is up.  
+__beat the clock__ _idiom_ :two: To finish something before the time is up.  
 __beat the shit out of (someone)__ _idiom_ _I expect them to beat the shit out of the Eagles._  
 __beat your head against the wall__ _idiom_ To try to do something that is hopeless.  
 __beat__ _ESPN never employed a beat writer for each team in the league._  
@@ -2212,6 +2214,7 @@ __chivvied__
 __chlorophyll__ _n_ :two::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
+__choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
 __choker__ _A velvet choker._  
@@ -3400,6 +3403,7 @@ __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especi
 __dilemma__  
 __diligent__ _adj_ Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
 __dill__ _n_ :two::hammer: _A dill pickle._  
+__dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
 __dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one's feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
 __dilutive__  
 __dim__ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
@@ -4058,6 +4062,7 @@ __encourage__ _v_ _The Austin American-Statesman encourages feedback from reader
 __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :four::hammer:  
 __encumbrance__ _n_ :two::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
+__end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
 __end run__ :two::hammer:  
@@ -4120,7 +4125,7 @@ __enunciation__
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
 __enviable__  
 __environs__ _n pl_  
-__envisage__ _v_  
+__envisage__ _v_ :two: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
 __envision__ _v_ :two::hammer:  
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
@@ -4336,6 +4341,7 @@ __fall from the sky__ _This trust doesn't fall from the sky._
 __fall into place__  
 __fall off the back of a truck__ _idiom_ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone's) possession without being paid for.  
 __fall out of love__  
+__fall out__ _idiom_ :dart: __5__ To have one's relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they're not talking to each other at all._  
 __fall over__ _v_  
 __fall short__ _v_ :six: To fail to achieve a goal or target.  
 __fallacy__ _n_ :four::hammer: _The lump of coding fallacy._  
@@ -4412,6 +4418,7 @@ __fault__ _v_
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
 __fauna__ _n_  
 __Faustian__ _Faustian device._  
+__faux pas__ _n_ A social blunder.  
 __faux__ _Three faux tombstones._  
 __fava beans__  
 __fave__ _v_ _informal_ :two::hammer:  
@@ -5336,6 +5343,7 @@ __go on the attack__ _He couldn’t stand being criticized any longer and went o
 __go out with a bang__ _idiom_ To finish or cease doing something in a spectacular, great, or exciting manner.  
 __go out with the boys__ _idiom_  To go and socialize somewhere with a group of exclusively male friends.  
 __go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
+__go out__ _idiom_ __1__ 1. To go on a date with someone. _Those two have such an obvious chemistry that I'm surprised they've never gone out._  
 __go over the top__  
 __go over the wire__  
 __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
@@ -6075,6 +6083,7 @@ __high-pressure__ _adj_ Aggressively and persistently persuasive.
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
+__highbrowed__ _idiom_ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
 __highfalutin__ _adj_  
 __highlight__ _v_  
 __highly__ _I highly recommend it._  
@@ -6411,6 +6420,7 @@ __immerse__ _v_
 __immigrated__  
 __immigration__ :mega:  
 __immobile__  
+__immolate__ _v_ :mega:  
 __immortalize__ _v_ Make famous forever.  
 __imp__ _Its imp genius._  
 __impact__ _Sterling struggled to make an impact in the second half._  
@@ -6759,7 +6769,7 @@ __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.
 __jeopardize__ _v_  
 __jeremiad__  
 __jerk around__  
-__jerk__ _n_ _slang_ Mean or unlikeable person.  
+__jerk__ _n_ _slang_ :two: Mean or unlikeable person.  
 __jerry__  
 __jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity of between 4.5 and 5 gallons used for storing or transporting liquids, esp motor fuel: originally a German design adopted by the British Army during World War II.  
 __jersey snagging__ _football_  
@@ -7421,6 +7431,7 @@ __longueur__ _n_ A dull and tedious passage or section (as of a book, play, or m
 __look back on__ _phr v_ To think about something that happened in the past.  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
+__look up to (one)__ _idiom_ :dart: To admire or view one as a role model. _Of course I look up to you—you're my big sister!_  
 __look up__ _Look up to your belongings._  
 __lookalike__ _These lookalike domains are used for scams._  
 __looker__ _n_  
@@ -8199,6 +8210,7 @@ __necessary__ :mega:
 __necktie__ _n_  
 __necromancer__  
 __necromancy__  
+__necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
 __neediness__ _n_ The state of being needy; poverty.  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
 __needless to say,__  
@@ -8416,7 +8428,7 @@ __obstreperousness__
 __obtrude__ _v_  
 __obtuseness__  
 __obverse__ _The obverse hub of a coin._  
-__occasion__ _n_ :pencil2:  
+__occasion__ _n_ :two::mega::pencil2::hammer:  
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
 __OCD__ :two::hammer: _abbrev_  
@@ -9632,6 +9644,7 @@ __progeny__
 __prohibit__  
 __Prohibitionists__  
 __proliferation__ _n_  
+__prolix__ _adj_ Using too many words and therefore boring.  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __prominence__  
@@ -11700,6 +11713,7 @@ __soup kitchen__ _n_
 __souped-up__ _v_  
 __souping up__ _v_  
 __sour grapes__ _n_ :two::dart: Pretending to dislike something you cannot have.  
+__sour__ _adj_ __1__ With a taste like a lemon. __2__ With an unpleasant taste or smell, especially because of no longer being fresh. __3__ Unpleasant, unfriendly, or in a bad mood.  
 __source__ _v_  
 __soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  

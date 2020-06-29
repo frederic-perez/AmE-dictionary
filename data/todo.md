@@ -1,27 +1,5 @@
 
 
-__beat the clock__ _idiom_ To finish something before the time is up.  
-__go out__ _idiom_ __1__ 1. To go on a date with someone. _Those two have such an obvious chemistry that I'm surprised they've never gone out._  
-__look up to (one)__ _idiom_ :dart: To admire or view one as a role model. _Of course I look up to you—you're my big sister!_  
-__fall out__ _idiom_ :dart: __5__ To have one's relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they're not talking to each other at all._  
-__ask out__ _phr v_ To invite (someone) to a social engagement.  
-__jerk__ _n_ _slang_ Mean or unlikeable person.  
-__dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
-__a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
-__armed to the teeth__ _idiom_  
-__Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
-
-__immolate__ _v_ :mega:  
-__occasion__ _n_ :mega:  
-__faux pas__ _n_ A social blunder.  
-__sour__ _adj_ __1__ With a taste like a lemon. __2__ With an unpleasant taste or smell, especially because of no longer being fresh. __3__ Unpleasant, unfriendly, or in a bad mood.  
-__choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
-__prolix__ _adj_ Using too many words and therefore boring.  
-__highbrowed__ _idiom_ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
-__end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
-__necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
-__envisage__ _v_ __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
-
 __hood__ _n_ :two::hammer:  
 __lurk__ _v_ (lurking)  
 __gulp__ _v_  
