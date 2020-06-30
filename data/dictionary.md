@@ -634,6 +634,7 @@ __atrocious__
 __atrocity__  
 __atrophied__ _v_  
 __Atta boy__  
+__attaché case__  
 __attack dog__ _n_  
 __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
@@ -1780,6 +1781,7 @@ __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,40
 __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
+__cachet__ _n_ A special quality that makes people admire someone or something, or makes people want to have something.  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
@@ -2956,7 +2958,7 @@ __cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or 
 __cruffy__  
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
-__crumb__ _n_ :five::mute:[crum~~b~~]:hammer: (crumbs) _Potato chip crumb._  
+__crumb__ _n_ :six::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
 __crumble__ _v_ :seven::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
@@ -5454,6 +5456,7 @@ __gougers__ _?_ _Transparency helps patients and exposes gougers._
 __goulash__  
 __gourmand__  
 __gout__  
+__goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
 __gracial pace__ _?_ _At a glacial pace._  
@@ -5639,7 +5642,7 @@ __gullies__
 __gulls__  
 __gully__ _We had a real gully washer in the forenoon._  
 __gulp<sup>1</sup>__ _n_ :two::hammer: _Sobs and gulps._  
-__gulp<sup>2</sup>__ _v_ :four::hammer: _They gulped their soft drinks._  
+__gulp<sup>2</sup>__ _v_ :five::hammer: _They gulped their soft drinks._  
 __gum stump__  
 __gum tree__  
 __gum up__  
@@ -5724,6 +5727,7 @@ __half sibling__
 __half__ :mute:[ha~~l~~f]  
 __half-baked__ _A half-baked plan to launch a start-up._  
 __half-cocked__  
+__half-hearted__ _adj_ Done with no real interest or enthusiasm.  
 __half-wits__  
 __halfback__  
 __halfway decent__ _idiom_ Somewhat good, useful, or enjoyable, but not very; passable.  
@@ -6096,8 +6100,9 @@ __hilarious__ Very funny.
 __hillbilly__ :two::hammer:  
 __hillocks__  
 __hillside__ _n_  
+__hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
 __hinder__ _v_  
-__hindsight__  
+__hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinky__  
 __hinterland__ _n_ :four: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ :camera:  
@@ -6214,9 +6219,8 @@ __honorees__
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
 __hooch__ :two::hammer: _Take it easy on the hooch._  
 __hood fan__  
-__hood__ _n_ _slang_ :three: Criminal, a member of a criminal gang.  
+__hood__ _n_ _slang_ :seven: (hoods) Criminal, a member of a criminal gang. _Too many hoods had visited his home._  
 __hoodlum__ _n_ _slang_ :four: (hoodlums) A criminal or gangster.  
-__hoods__ _n_ :two::hammer: _Too many hoods had visited his home._  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
 __hook up__  
@@ -7049,6 +7053,7 @@ __kts__ _n pl_ Plural of knot, 1 nautical mile per hour.
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
+__kumquat__ _n_  
 __kurtosis__ _n_  
 __kybosh__ _v_  
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone's shape and strength.  
@@ -7361,7 +7366,7 @@ __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a 
 __literacy__  
 __literate__ :two::hammer:  
 __lithe__ _adj_ :four::hammer: _A lithe cat._  
-__lithotripsy__ _n_  
+__lithotripsy__ _n_ :two: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning "breaking stones".  
 __lithotripter__ _n_  
 __litigation__  
 __litigator__  
@@ -7514,7 +7519,7 @@ __lupus__
 __lurch__ _v_ :eight::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ _adj_ :three::hammer:  
-__lurk__ _v_ :eight: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
+__lurk__ _v_ :nine: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
@@ -8044,6 +8049,7 @@ __Mountain States__ _n_ (also known as the Mountain West and the Interior West) 
 __mountaintops__ _n_  
 __mountebank__  
 __mounting__ _Evidence is mounting for an ocean at Pluto._  
+__mournfully__  
 __mouser__ _n_ An animal, especially a cat, that catches mice.  
 __mouth__ _v_  
 __mouth-watering__  
@@ -9133,6 +9139,7 @@ __pick-six__ _Football_
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pick-up__ _The restaurant was little more than a pick-up joint._  
+__picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
 __picket fence__ _n_  
 __pickets__ _n_  
 __picklock__ _v_  
@@ -9433,6 +9440,7 @@ __popcorn__ :es: gotelé?
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __pops__ _n informal_ :two: Father.  
 __populace__  
+__porcupette__ _n_ A baby porcupine.  
 __pore__ _v_ :five::dart::hammer: (poring)  
 __pork pie hat__ :camera:  
 __pork rinds__ :two::hammer:  
@@ -10816,7 +10824,7 @@ __scrapper__
 __scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scratch__ :mute:[scra~~t~~ch]  
-__scrawl__ _v_ :four: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
+__scrawl__ _v_ :five: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
 __scrawny__ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
@@ -11086,6 +11094,7 @@ __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied.
 __shiet__  
 __shift__  
 __shifty__ _adj_ :two::hammer: _Jane was shifty and quick-witted._  
+__shih tzu__ _n_ A toy dog breed developed in China.  
 __shill<sup>1</sup>__ _n_  
 __shill<sup>2</sup>__ _v_ :two::hammer:  
 __shilling__ _I'm not quite the shilling._  
@@ -12858,7 +12867,7 @@ __tickling__ _n_
 __ticklish__ :two::hammer:  
 __ticky-tacky__ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
-__tidbit__ _n_ :pencil2::four::hammer: (tidbits) _He fed the cat tidbits._  
+__tidbit__ _n_ :five::pencil2::hammer: (tidbits) _He fed the cat tidbits._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy__ _A tidy plan._  
 __tie the can__ _idiom_ _It ain't every day that you tie the can to a Congressman._  
@@ -13697,6 +13706,7 @@ __voice over__ _n_ (voice-over)
 __voicemail call__ _n_ (?)  
 __volatile__ _adj_  
 __volcano__  
+__vole__ _n_ A small animal similar to a mouse but with a short tail. _Syn_ field mouse  
 __volition__ _n_ :three::hammer:  
 __volley__ :two::hammer: _A volley of invective._ _(military attack?)_  
 __voltage__ _n_ :two::mega::hammer:  
@@ -14082,7 +14092,7 @@ __wishbone__
 __wishful thinking__ :two::hammer:  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
 __wishy washy__ _slang_ Indecisive or not reliable.  
-__wishy-washy__  
+__wishy-washy__ _adj_ :two: __1__ informal Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we're on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he's proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don't know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  

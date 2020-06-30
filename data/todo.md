@@ -1,27 +1,5 @@
 
 
-__hood__ _n_ :two::hammer:  
-__lurk__ _v_ (lurking)  
-__gulp__ _v_  
-__attaché case__  
-__tidbits__ _n_  
-__scrawled__ _v_  
-__mournfully__  
-__goy__ _n_ (Often Offensive) A person who is not Jewish.  
-__picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
-__crumb__ _n_ A very small amount of something. _Tim sighed deeply and accepted the crumb._  
-
-__cachet__ _n_ A special quality that makes people admire someone or something, or makes people want to have something.  
-__vole__ _n_ A small animal similar to a mouse but with a short tail. _Syn_ field mouse  
-__shih tzu__ _n_ A toy dog breed developed in China.  
-__hindsight__ _n_ The opportunity to judge or understand past events using knowledge that you have gained since then.  
-__hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
-__porcupette__ _n_ A baby porcupine.  
-__kumquat__ _n_  
-__half-hearted__ _adj_ Done with no real interest or enthusiasm.  
-__lithotripsy__ _n_ A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning "breaking stones".  
-__wishy-washy__ _adj_ __1__ informal Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we're on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he's proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don't know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
-
 __snapper__ _n_ _A red snapper._   
 __undertaker__ _n_  
 __seamed__ _v_ _A seamed old man._  
