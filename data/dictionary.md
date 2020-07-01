@@ -105,6 +105,7 @@ __accenting__ _v_
 __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
 __accidental__ _Ottolenghi is an accidental chef._  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
+__accommodate__ _v_ :pencil2:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
@@ -1532,6 +1533,7 @@ __broad daylight__ _A sniper who prays on victims in broad daylight._
 __broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn't fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  
 __brocade__  
+__broccoli__ _n_  
 __brogue__ _n_ :two::hammer:  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
@@ -2916,7 +2918,7 @@ __criticize__ _v_
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
 __critique<sup>2</sup>__ _v_ :three::hammer:  
 __critters__ _n_ :three::hammer: _Garden critters._  
-__croak__ _v_ _slang_ :three: (croaked) __1__ To kill. __2__ To die.  
+__croak__ _v_ _slang_ :four: (croaked) __1__ To kill. __2__ To die.  
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
 __crock__  
@@ -6102,6 +6104,7 @@ __hillocks__
 __hillside__ _n_  
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
 __hinder__ _v_  
+__hindsight is (always) 20/20__ _idiom_ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinky__  
 __hinterland__ _n_ :four: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
@@ -6114,6 +6117,7 @@ __hissy__ _Hissy fit._
 __histamine__ _n_  
 __hit and miss__  
 __hit man__  
+__hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit on all eight__ _So far it's not hitting on all eight._  
 __hit or miss__  
 __hit out__ _v_  
@@ -6543,6 +6547,7 @@ __inconspicuous__
 __incontrovertible__  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incrementally__ _Make it incrementally better._  
+__incriminate__ _v_ Suggest that someone is guilty. _Syn_ inculpate, imply _Every paper which would incriminate him was destroyed before he left the house._  
 __incubus__  
 __inculcate__ _v_  
 __incumbency__  
@@ -7469,6 +7474,7 @@ __lotto__ _n_ Lottery.
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
+__lousy__ _adj_ _A lousy trip._  
 __lout__ _n_ :two::hammer: _Syn_ oaf  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
@@ -7917,6 +7923,7 @@ __misremember__ _v_ To remember incorrectly.
 __miss the point__ :two::hammer:  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
 __misspell__ _v_  
+__misspell__ _v_ To spell incorrectly.  
 __misspend__ _v_ To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
@@ -10511,7 +10518,7 @@ __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I'd sw
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_  
 __rot-and-branch__ _Root-and-branch reforms._  
-__Rotarian__  
+__Rotarian__ :two::hammer: (Rotarians)  
 __roti__ _A roti shop._  
 __Roto-Rooter__  
 __rotorcraft__  
@@ -10838,6 +10845,7 @@ __scribbled__ _v_
 __scribe__ _n_ :two::hammer: (scribes)  
 __scrimmage<sup>1</sup>__ _n_ :three::hammer:  
 __scrimmage<sup>2</sup>__ _v_  
+__scrimshaw__ _n_ A carving (or engraving) on whalebone, whale ivory, walrus tusk, etc., usually by American whalers.  
 __scripted__ _adj_ Written in advance.  
 __scrofulous__  
 __scrolled-iron__ _Scrolled-iron bench._  
@@ -10882,6 +10890,7 @@ __seagulls__ _n_ :two::hammer:
 __seahawk__ ?  
 __SEAL__ _It is something U.S. Navy SEALs do._  
 __seal__ _Lacy gained 27 yards to seal their fourth division win._  
+__seamed__ _v_ _A seamed old man._  
 __seamless__  
 __seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
@@ -11348,7 +11357,8 @@ __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or re
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skillset__  
-__skim__ _v_ :six: (skimming) If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._  
+__skim<sup>1</sup>__ _v_ :seven: (skimmed, skimming) If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._  
+__skim<sup>2</sup>__ _n_  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
@@ -11570,6 +11580,7 @@ __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on
 __snap<sup>1</sup>__ _n_ :two::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
 __snap<sup>2</sup>__ _v_ :two::hammer:  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
+__snapper__ _n_ _A red snapper._   
 __snappier__ :two::hammer: _Everything will be snappier._  
 __snapping__  
 __snappy__  
@@ -11779,7 +11790,8 @@ __Sped case__
 __speed demon__  
 __speed-dial__ _v_  
 __spell it out__ _idiom_ For example, "let me spell it out for you," is another way to say 'let me make it very clear and easy to understand."  
-__spell__ :two::hammer: _Dry with clear spells, but cloudy later._  
+__spell<sup>1</sup>__ _v_  
+__spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbound__ _adj_  
 __spendolie__  
 __spent rocket stages__ :camera:  
@@ -12301,7 +12313,7 @@ __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __suburbanites__ _n_  
 __suburbs__  
-__succinct__ :two::pencil2::mega::hammer:  
+__succinct__ _adj_ :three::pencil2::mega::hammer:  
 __succinctly__ :pencil2:  
 __succint__  
 __succor__ _n_ :three::hammer:  
@@ -13394,6 +13406,7 @@ __understated__ _adj_
 __understatement__  
 __understudy__ _v_  
 __undertake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
+__undertaker__ _n_  
 __undertow__  
 __underwhelm__ _v_ To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::three::hammer: Failing to make a positive impact or impression; disappointing.  
@@ -14084,6 +14097,7 @@ __wire-to-wire__ _adj informal_ :three: From start to finish. _He may not have w
 __wiry__ _adj_ :two::hammer: _He's wiry, strong and fast._  
 __Wisconsinites__  
 __wisdom tooth__  
+__wise guy__  
 __wise up__ _phr v_ To start to understand a situation.  
 __wisecracker__  
 __wisecracks__  
@@ -14143,6 +14157,7 @@ __woodwork__ _n_ :two::hammer:
 __wooly__  
 __woomb__  
 __woozy__ :two::hammer:  
+__wop__  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wording__ _n_  
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
@@ -14278,7 +14293,7 @@ __yo__ _interj_ _slang_ :four: __1__ Used as a greeting or to attract someone's 
 __yo-yo__ _slang_ A stupid or crazy person.  
 __yo-yoing__  
 __yoke__ _n_ _Egg yoke._  
-__yokels__ :two::hammer:  
+__yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ :mute:[yo~~l~~k]  
 __YOLO__ You only live once.  
 __yonder__  
