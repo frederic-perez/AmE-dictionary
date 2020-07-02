@@ -1,5 +1,16 @@
 
 
+__put a gun to (someone's) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
+__dispirit__ _v_ Lower someone's spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
+__farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
+__hoist by (one's) own petard__ _idiom_ To be injured, ruined, or defeated by one's own action, device, or plot that was intended to harm another; to have fallen victim to one's own trap or schemes. (Note: "hoist" in this instance is the simple past-tense of the archaic form of the verb, "hoise.")  
+__pouter__ _n_ Someone with a habitually sullen or gloomy expression. _Syn_ picklepuss, sourpuss _What will it take for you to stop being such a pouter and enjoy yourself?_  
+__nth__  
+__immanent__  
+__withershins__ _adv_ In a direction contrary to the apparent course of the sun; counterclockwise.  
+__hog (something)__ _idiom_ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
+__stockpile__ _n_ Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
+
 __chime in__ _phr v_  
 __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
 __tirade__ _n_  
