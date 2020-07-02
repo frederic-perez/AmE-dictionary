@@ -1,5 +1,16 @@
 
 
+__chime in__ _phr v_  
+__chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
+__tirade__ _n_  
+__skittish__ _adj_  
+__Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
+__schedule__ _n_ _A schedule was set._  
+__elated__ _v_  
+__sting__ _n_  
+__usury__  
+__tawdry__  
+
 __bluff__ _v_ (bluffing)  
 __swank__ _A swank condominium complex._  
 __lock, stock, and barrel__ _idiom_ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
