@@ -1,5 +1,16 @@
 
 
+__up yours__  
+__mac__ _n_  
+__rush<sup>1</sup>__ _n_  
+__rush<sup>2</sup>__ _v_  
+__balk__ _v_  
+__chortle__ _v_ :two::hammer: (chortled)  
+__groan__ _v_  
+__branch__ _v_ (branched)  
+__haggle__ _v_  
+__no questions asked__  
+
 __turpitude__ _n_ Behavior that is dishonest or immoral.  
 __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butter and folding it to form layers: used for tarts, napoleons, etc. :es: hojaldre  
 __mix and match__ _idiom_ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
