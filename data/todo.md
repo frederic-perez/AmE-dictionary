@@ -1,5 +1,16 @@
 
 
+__jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
+__lassitude__ _n_ Tiredness and a lack of energy.  
+__gangly__ _adj_ Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man's suit sleeves and pant legs flapped like empty fire hoses as he walked._  
+__hit the rocks__ _idiom_ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
+__indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
+__paragon__ _n_ Someone who is perfect or who is the best possible example of a particular quality.  
+__incontrovertible__ _adj_ Not open to question. _Syn: indisputable  
+__hit the gas__ _idiom_ To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
+__snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
+__shambolic__ _adj_ Very badly organized.  
+
 __up yours__  
 __mac__ _n_  
 __rush<sup>1</sup>__ _n_  
