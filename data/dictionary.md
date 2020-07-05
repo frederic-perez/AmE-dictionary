@@ -43,6 +43,7 @@ __a golden hello__ _idiom_ A sum of money paid to a new employee as a benefit fo
 __a good turn__ _idiom_ An action that is beneficial to another person in some way.  
 __a great many__ _idiom_ A very large number of (people, things, etc.).  
 __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
+__a hill of beans__ _idiom_ Something of little or no importance, value, or worth. _For all the congressman's posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
@@ -2890,6 +2891,7 @@ __creosote__
 __crepe paper bells__  
 __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
 __crepe__  
+__crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
 __Crescent City__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
@@ -2977,7 +2979,7 @@ __crush<sup>2</sup>__ _n_
 __crushing blow__ _idiom_ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __crusty__  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
-__crux__ _n_ :three: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty.  
+__crux__ _n_ :four: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cry over spilled milk__ _idiom_ To be unhappy about what cannot be undone.  
@@ -5456,7 +5458,7 @@ __gossipy__ _adj_
 __gouge__ _v_ :six::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __goulash__  
-__gourmand__  
+__gourmand__ _n_ :two: __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink.  
 __gout__  
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
@@ -6068,6 +6070,7 @@ __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover b
 __hickory shaft__  
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
+__hide and seek__ _idiom_ A situation in which one party is constantly evading or avoiding another. (A reference to the children's game "hide and go seek.") Often used with the verb "play."  
 __hideaway__ _n_  
 __hidebound__ _adj_ :three::hammer:  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
@@ -6085,6 +6088,7 @@ __high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening
 __high__ :mute:[hi~~gh~~]  
 __high-and-mighty__ _adj_ Offensively self-assured or given to exercising usually unwarranted power. _Syn_ autocratic, bossy, peremptory, magisterial, dominating  
 __high-fly__ _v_  
+__high-handed__ _idiom_ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-tail__ _v_  
@@ -6195,7 +6199,7 @@ __holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.
 __Holy Rood__  
 __Holy See__  
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
-__hombre__ _n_ _informal_ An informal term for a youth or man.  
+__hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
 __homecoming__ :two::hammer: _She had been homecoming queen._  
@@ -6486,6 +6490,7 @@ __in excess of__ :four::hammer: _Infrasound can be detected in excess of 100 mil
 __in fold__  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
+__in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ _idiom_ Considering or analyzing the past, with the knowledge that one has now.  
@@ -7341,7 +7346,7 @@ __limned__
 __limo__  
 __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
 __linchpin__ _n_ :five::hammer:  
-__line up__ _v_  
+__line up__ _v_ :two::hammer:  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
 __lineages__  
@@ -7703,7 +7708,7 @@ __matchup__ _n_ :two::hammer: (matchups)
 __materiel__ _n_ Equipment and supplies of a military force.  
 __maternity leave__  
 __matey__  
-__matinee__ _n_ :two::hammer: (matinees)  
+__matinee__ _n_ :three::hammer: (matinees) _The matinees were killing him._  
 __matriarch__ :two::hammer:  
 __matron__  
 __matsuri__  
@@ -7922,8 +7927,7 @@ __misprint__ :pencil2::two::hammer: _This is not a misprint._
 __misremember__ _v_ To remember incorrectly.  
 __miss the point__ :two::hammer:  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
-__misspell__ _v_  
-__misspell__ _v_ To spell incorrectly.  
+__misspell__ _v_ :two: To spell incorrectly.  
 __misspend__ _v_ To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
@@ -8174,6 +8178,7 @@ __nail it__
 __nails__ _n_  
 __naïveté__  
 __namaste__ _interj_  
+__name of the game__ _n_ _slang_ The essential part or quality necessary for the success of an enterprise or the fulfillment of a goal: _"The name of the game was to get the story" (David Fitzpatrick)._  
 __name-and-likeness__  
 __name-calling__  
 __name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
@@ -8546,7 +8551,7 @@ __on top of that__ _phr_ :two: _On top of that, ..._
 __On top of that,__  
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
-__on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._  
+__on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._ _Others would get on line for loans._  
 __onboarding__ _n_ The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer.  
 __once in a blue moom__ Very rarely.  
 __once in a while__  
@@ -9583,7 +9588,7 @@ __pressure cooker__ _n_
 __pretense__  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
-__prevails__ _v_  
+__prevail__ _v_ :two::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__  
 __preventable__  
@@ -9731,7 +9736,7 @@ __puckering__ _A flat, mouth-puckering taste._
 __pud__ _n_ :five::hammer:  
 __pudenda__ _n_  
 __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.  
-__pudgy__ _adj_ :two::hammer: _A pudgy boy._  
+__pudgy__ _adj_ :three::hammer: _A pudgy boy._  
 __puds__ _n_  
 __puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
 __puff<sup>2</sup>__ _v_ :five::hammer: (puffed) _I could hear the screen door puffing open._  
@@ -11027,6 +11032,7 @@ __shackles__ _n_ :three::hammer: _A bed with built-in shackles._
 __shades__ :es: gafas?  
 __shadow__ _v_  
 __shady__  
+__shaft__ _v_ _slang_ To treat in a harsh, unfair way: _"He had been shafted by the press quite a bit" (Frank Deford)._ _Mel always enjoyed shafting Sam._  
 __shag__ _Orange shag carpeting._  
 __shaggy hemp__  
 __shaggy__  
@@ -11559,7 +11565,8 @@ __smolder<sup>1</sup>__ _n_
 __smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
 __smooth operator__  
-__smooth__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
+__smooth<sup>1</sup>__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
+__smooth<sup>2</sup>__ _adj_ _A smooth professional._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__ _n_ :two::astonished::hammer:  
 __smote__ _v_  
@@ -11580,7 +11587,7 @@ __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on
 __snap<sup>1</sup>__ _n_ :two::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
 __snap<sup>2</sup>__ _v_ :two::hammer:  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
-__snapper__ _n_ _A red snapper._   
+__snapper__ _n_ _A red snapper._  
 __snappier__ :two::hammer: _Everything will be snappier._  
 __snapping__  
 __snappy__  
@@ -12542,6 +12549,7 @@ __take on__ _phr v_ :two: To accept some work or responsibility.
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
+__take the high road__ _idiom_ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment.  
 __take through__ _phr v_ To explain something to someone.  
 __take to__ _phr v_ To make a habit of something.  
 __take umbrage__ _idiom_ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn't put my full effort into this project._  
@@ -13459,7 +13467,7 @@ __unreal__
 __unreasonable__ _adj_  
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
-__unrepentant__ :two::hammer:  
+__unrepentant__ _adj_ :three::hammer:  
 __unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
 __unrestrained__  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
@@ -13706,7 +13714,7 @@ __vista__ _n_ :three::hammer: (vistas)
 __vital__ _adj_  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
-__vituperation__  
+__vituperation__ _n_ :two: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol  
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
 __vizier__ _n_ :two::hammer:  
@@ -14116,6 +14124,7 @@ __wistfully__ _adv_ :three::hammer: _She gazed wistfully at the boathouse._
 __wistfulness__  
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
+__with (one's) pants down__ _idiom_ _slang_ In an embarrassing position.  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
