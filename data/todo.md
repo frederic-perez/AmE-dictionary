@@ -1,5 +1,16 @@
 
 
+__in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
+__hombre__ _n_ _slang_ A man; a fellow.  
+__with (one's) pants down__ _idiom_ _slang_ In an embarrassing position.  
+__take the high road__ _idiom_ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment.  
+__crux__ _n_ __1__ A puzzling or difficult problem : an unsolved question. __2__ An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
+__high-handed__ _idiom_ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
+__vituperation__ _n_ Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol  
+__a hill of beans__ _idiom_ Something of little or no importance, value, or worth. _For all the congressman's posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
+__gourmand__ _n_ __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink.  
+__hide and seek__ _idiom_ A situation in which one party is constantly evading or avoiding another. (A reference to the children's game "hide and go seek.") Often used with the verb "play.  
+
 __smooth__ _adj_ _A smooth professional._  
 __prevail__ _v_  
 __unrepentant__ _adj_  
