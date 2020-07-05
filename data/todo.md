@@ -1,5 +1,16 @@
 
 
+__smooth__ _adj_ _A smooth professional._  
+__prevail__ _v_  
+__unrepentant__ _adj_  
+__on__ _Others would get on line for loans._  
+__shaft__ _v_ _slang_ To treat in a harsh, unfair way: _"He had been shafted by the press quite a bit" (Frank Deford)._ _Mel always enjoyed shafting Sam._  
+__line up__ _v_  
+__pudgy__ _adj_  
+__crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
+__matinee__ _n_ _The matinees were killing him._  
+__name of the game__ _n_ _slang_ The essential part or quality necessary for the success of an enterprise or the fulfillment of a goal: _"The name of the game was to get the story" (David Fitzpatrick)._  
+
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __lassitude__ _n_ Tiredness and a lack of energy.  
 __gangly__ _adj_ Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man's suit sleeves and pant legs flapped like empty fire hoses as he walked._  
