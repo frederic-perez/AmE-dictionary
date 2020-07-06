@@ -1440,6 +1440,7 @@ __brainwave__ _idiom_ A sudden idea or moment of inspiration; a brainstorm.
 __braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: estofar  
 __brambles__ _n_ :four::hammer:  
 __Branch Davidians__  
+__branch__ _v_ (branched)  
 __brander__  
 __branding iron__ _n_ :camera:  
 __brash__ :two::hammer: _Brash talk._ _It sounded brash._  
@@ -2231,7 +2232,7 @@ __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many smal
 __chops__ _n informal_ :eight: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ :mute:[c~~h~~ord]  
 __choreography__ :mute:[c~~h~~oreography]  
-__chortle__ _v_ :two::hammer: (chortled, chortles)  
+__chortle__ _v_ :four::hammer: (chortled, chortles)  
 __chorus__ :mute:[c~~h~~orus]  
 __chow down__ _v_ _informal_ To eat heartily.  
 __christening__ _n_  
@@ -5102,7 +5103,7 @@ __gamine__
 __gander__ _Take a dander at the college girls._  
 __gandy__ _Gandy walkers._  
 __gangbangers__  
-__gangly__  
+__gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man's suit sleeves and pant legs flapped like empty fire hoses as he walked._  
 __Ganjapreneur__  
 __gantlet__ :two::hammer: _A media gantlet._  
 __gaping__ :two::hammer: _A gaping hole._  
@@ -5570,7 +5571,7 @@ __grittier__ _It makes the queso a bit grittier._
 __gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzle__ _v_  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
-__groan__ _v_ :six::hammer: (groaned) (It sounds like _grown_.)  
+__groan__ _v_ :seven::hammer: (groaned) (It sounds like _grown_.)  
 __grocer__ _n_ :two::hammer:  
 __grog__  
 __groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
@@ -5712,7 +5713,7 @@ __haft sin__
 __haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
 __haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
 __haggis__  
-__haggle__ _v_ :two::hammer: (haggling)  
+__haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
 __hags__ _Screaming histerically like Shakespearean hags._  
@@ -6128,7 +6129,9 @@ __hit out__ _v_
 __hit parade__  
 __hit the books__  
 __hit the brakes__  
+__hit the gas__ _idiom_ To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
 __hit the road__ To leave a place or begin a journey.  
+__hit the rocks__ _idiom_ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
 __hit the sack__  
 __hit the wall__ _idiom_ :two::hammer:  
 __hit up__ _She thought about hitting up an amusement park._  
@@ -6549,7 +6552,7 @@ __incongruous__ _adj_
 __incongruously__  
 __inconsequential__  
 __inconspicuous__  
-__incontrovertible__  
+__incontrovertible__ _adj_ :two: Not open to question. _Syn_ indisputable  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incrementally__ _Make it incrementally better._  
 __incriminate__ _v_ Suggest that someone is guilty. _Syn_ inculpate, imply _Every paper which would incriminate him was destroyed before he left the house._  
@@ -6577,6 +6580,7 @@ __indomitable__ _adj_ :three: Very determined and impossible to defeat. _Indomit
 __inducements__  
 __induct__  
 __induction__ _n_ :four::hammer: _Induction hall._  
+__indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __ineffectual__  
 __inequitable__  
@@ -6848,6 +6852,7 @@ __journeyman__ :two::hammer:
 __joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ :two::hammer:  
+__jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__  
 __jubilation__ _n_  
@@ -7144,7 +7149,7 @@ __lash out__ _v_ :five::hammer: (lashing out)
 __lashed__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
 __Lasik__ _Lasik surgery._  
-__lassitude__ _n_ :two: Tiredness and a lack of energy.  
+__lassitude__ _n_ :three: Tiredness and a lack of energy.  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
 __last hurrah__ _idiom_ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
@@ -7547,6 +7552,7 @@ __lysimeter__
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __M.O.__ Modus operandi?  
 __mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishes._  
+__mac__ _n_  
 __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almonds or coconut.  
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
@@ -8316,6 +8322,7 @@ __no good deed goes unpunished__ _idiom_ :two: Due to the cruelty, ignorance, or
 __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
 __no jive__  
 __no offense__  
+__no questions asked__  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no way around it__  
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
@@ -8853,7 +8860,7 @@ __paradox__
 __paradoxical__ _adj_  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
-__paragon__ _n_ :five: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
+__paragon__ _n_ :six: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __paralysis__ _n_ :mega:  
 __paralyzed__ _v_ :pencil2:  
 __paramount__ _The reliability of the weather station is paramount._  
@@ -9453,7 +9460,7 @@ __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.
 __pops__ _n informal_ :two: Father.  
 __populace__  
 __porcupette__ _n_ A baby porcupine.  
-__pore__ _v_ :five::dart::hammer: (poring)  
+__pore__ _v_ :six::dart::hammer: (poring)  
 __pork pie hat__ :camera:  
 __pork rinds__ :two::hammer:  
 __porkpie hat__  
@@ -10615,6 +10622,8 @@ __runway__
 __Runyonesque__ _adj_  
 __ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :seven::hammer: (ruses)  
+__rush<sup>1</sup>__ _n_  
+__rush<sup>2</sup>__ _v_  
 __rustle up__ _v_  
 __rustle__ _v_ :six::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
@@ -11049,7 +11058,7 @@ __sham<sup>2</sup>__ _n_ :three::hammer: _The novelty effect isn't a sham._
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :four::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
-__shambolic__ _adj_ :two: Very badly organized.  
+__shambolic__ _adj_ Very badly organized.  
 __shame__ _v_ _He shamed me._  
 __shaming__ _adj_  
 __shamrock__  
@@ -11627,6 +11636,7 @@ __snoop__ _v_ :two: To try to find out about someone’s private affairs by secr
 __snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :six::hammer:  
+__snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
 __snort__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snorted__ _v_  
 __snorting__ _v_  
@@ -13507,7 +13517,7 @@ __up and running__
 __up and under__ A basketball move.  
 __up for grabs__ _idiom_ :three: Available for anyone.  
 __up to (one's) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: "When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp." It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
-__up yours__  
+__up yours__ :two::hammer:  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  

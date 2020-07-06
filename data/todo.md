@@ -1,27 +1,5 @@
 
 
-__jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
-__lassitude__ _n_ Tiredness and a lack of energy.  
-__gangly__ _adj_ Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man's suit sleeves and pant legs flapped like empty fire hoses as he walked._  
-__hit the rocks__ _idiom_ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
-__indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
-__paragon__ _n_ Someone who is perfect or who is the best possible example of a particular quality.  
-__incontrovertible__ _adj_ Not open to question. _Syn: indisputable  
-__hit the gas__ _idiom_ To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
-__snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
-__shambolic__ _adj_ Very badly organized.  
-
-__up yours__  
-__mac__ _n_  
-__rush<sup>1</sup>__ _n_  
-__rush<sup>2</sup>__ _v_  
-__balk__ _v_  
-__chortle__ _v_ :two::hammer: (chortled)  
-__groan__ _v_  
-__branch__ _v_ (branched)  
-__haggle__ _v_  
-__no questions asked__  
-
 __turpitude__ _n_ Behavior that is dishonest or immoral.  
 __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butter and folding it to form layers: used for tarts, napoleons, etc. :es: hojaldre  
 __mix and match__ _idiom_ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
