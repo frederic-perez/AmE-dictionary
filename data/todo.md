@@ -1,5 +1,16 @@
 
 
+__ogle__ _v_ (ogled)  
+__shapely__ _adj_ (esp of a woman's body or legs) Pleasing or attractive in shape. _The shapely blonde._  
+__idyllic__ _adj_  
+__wheezing__ _adj_  
+__ardor__ _n_  
+__tipster__  
+__swank__  
+__schmaltz__ _n_ _informal_ :two: The quality or condition of being affectedly or overly emotional.  
+__peripatetic<sup>1</sup>__ _adj_ Walking about or from place to place; traveling on foot.  
+__peripatetic<sup>2</sup>__ _n_ One who walks from place to place; an itinerant.  
+
 __turpitude__ _n_ Behavior that is dishonest or immoral.  
 __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butter and folding it to form layers: used for tarts, napoleons, etc. :es: hojaldre  
 __mix and match__ _idiom_ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
