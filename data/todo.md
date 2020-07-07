@@ -1,5 +1,17 @@
 
 
+
+__transect__ _n_ :two::hammer:  
+__phytoplankton__ _n_  
+__chlorophyll__  
+__mooring__ _n_  
+__colloquium__  
+__moonsoon__  
+__white paper__  
+__kts__ Knot (unit), a unit of speed equal to one nautical mile per hour.  
+__archipelago__ _n_ :pencil2:  
+__audit__  
+
 __ogle__ _v_ (ogled)  
 __shapely__ _adj_ (esp of a woman's body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __idyllic__ _adj_  
