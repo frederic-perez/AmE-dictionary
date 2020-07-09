@@ -3,14 +3,14 @@
 
 __hold on to your hat__ _idiom_ Get ready for what's coming or about to happen! _Hold on to your hats, everybody—we're about to see what these fireworks can do!_  
 __despondent__ _adj_ Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
-__doldrums__ _n pl_ (plurale tantums)  
-__shorts__ _n pl_ (plurale tantums)  
-__leggings__ _n pl_ (plurale tantums)  
-__jeans__ _n pl_ (plurale tantums)  
-__scissors__ _n pl_ (plurale tantums)  
-__pliers__ _n pl_ (plurale tantums)  
-__electronics__ _n pl_ (plurale tantums)  
-__glasses__ _n pl_ (plurale tantums)  
+__doldrums__ _n pl_ (plurale tantum)  
+__shorts__ _n pl_ (plurale tantum)  
+__leggings__ _n pl_ (plurale tantum)  
+__jeans__ _n pl_ (plurale tantum)  
+__scissors__ _n pl_ (plurale tantum)  
+__pliers__ _n pl_ (plurale tantum)  
+__electronics__ _n pl_ (plurale tantum)  
+__glasses__ _n pl_ (plurale tantum)  
 
 __disbelief__ _n_  
 __suspend__ _v_  
