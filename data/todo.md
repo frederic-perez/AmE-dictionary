@@ -2,6 +2,17 @@
 
 
 
+__ceilometer__ _n_ :two::hammer:  
+__scintillometer__  
+__bathymetry__  
+__synoptic__ :two::hammer:  
+__vocab__  
+__partner__ _n_  
+__cloud seeding__ _n_ :two::hammer:  
+__exec__ _n_  
+__herald__ _v_  
+__disruption__ _n_  
+
 __binoculars__ _n pl_  (plurale tantum)  
 __amends__ _n pl_ (plurale tantum)  
 __plurale tantum__ A plurale tantum (Latin for "plural only") is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
