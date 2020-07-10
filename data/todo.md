@@ -1,6 +1,18 @@
 
 
 
+
+__binoculars__ _n pl_  (plurale tantum)  
+__amends__ _n pl_ (plurale tantum)  
+__plurale tantum__ A plurale tantum (Latin for "plural only") is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
+__amends__ _n_  
+__facetious__ _adj_ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
+__nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
+__niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
+__passerby__ _n_ Person who passes by casually or by chance.  
+__passersby__ _n_ :pencil2::astonished: Plural of passerby.  
+__tomfoolery__ _n_ Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
+
 __hold on to your hat__ _idiom_ Get ready for what's coming or about to happen! _Hold on to your hats, everybody—we're about to see what these fireworks can do!_  
 __despondent__ _adj_ Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __doldrums__ _n pl_ (plurale tantum)  
