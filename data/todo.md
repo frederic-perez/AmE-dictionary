@@ -2,6 +2,17 @@
 
 
 
+__well-rounded__ _adj_  
+__offshoot__ _n_  
+__undermine__ _v_  
+__target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
+__coruscate__ _v_  
+__hippocampus__ _n_ :pencil2:  
+__refrain__ _v_ _Refraining from email was definitely a challenge._  
+__deluge__ _A digital deluge._  
+__cooped__ _v_  
+__expedite__ _v_  
+
 __ceilometer__ _n_ :two::hammer:  
 __scintillometer__  
 __bathymetry__  
