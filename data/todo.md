@@ -1,5 +1,17 @@
 
 
+__autumn__ _n_  
+__ductile__ _adj_  
+__proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
+__exhortation__ _n_  
+__conveyance__ _n_  
+
+__yawner__ _slang_ Something that is very boring.  
+__no spring chicken__  
+__senile__  
+__call off__ _phr v_  
+__hang out__ _phr v_  
+
 __repeat__ _n_ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __leverage__ _v_  
 __guideposts__ _n_  
