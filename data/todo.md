@@ -2,6 +2,17 @@
 
 
 
+__WMO__ _abbr_ :three::hammer:  
+__seaport__ _n_  
+__infrasound__ _n_  
+__passage__ _n_ _Natural events include severe weather, frontal passages, and earthquakes._  
+__vast__ _A vast number._  
+__A4__ :astonished: _A4 stainless steel._  
+__canted__  
+__renowned__ :two::hammer:  
+__contactless__  
+__de-facto__  
+
 __well-rounded__ _adj_  
 __offshoot__ _n_  
 __undermine__ _v_  
