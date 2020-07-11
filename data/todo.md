@@ -1,6 +1,15 @@
 
 
-
+__repeat__ _n_ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
+__leverage__ _v_  
+__guideposts__ _n_  
+__supreme__ _adj_ _The great ones possess supreme confidence._  
+__regimen__ _n_ _An exercise regimen_  
+__catapult__ _v_  
+__play it safe__ _They choose to play it safe._  
+__reach for the stars__  
+__slip-ups__ _n_ _The story avoided slip-ups._  
+__slush__ _n_ (p--)  
 
 __WMO__ _abbr_ :three::hammer:  
 __seaport__ _n_  
