@@ -1,4 +1,14 @@
 
+__crack down__ _v_  
+__expansive__ _adj_ :two::hammer: _He became expansive and revealed some facts._  
+__gushed__ _v_  
+__shuddered__ _v_  
+__swig__ _n_ _A sw8g of diet soda._  
+__crowing__ _v_  
+__203__ _The Machine-Gun Shooting 203 course._  
+__shovel__ _v_  
+__gusted__ _v_ _The rain gusted aga8nst the windows._  
+__crumpled__ _v_  
 
 __autumn__ _n_  
 __ductile__ _adj_  
