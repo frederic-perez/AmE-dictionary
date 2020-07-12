@@ -1,4 +1,15 @@
 
+__address__ _v_  
+__troubleshoot__ _v_  
+__overlook__ _v_  
+__wind up__ _phr v_  
+__wind down__ _phr v_  
+__yap__ _n slang_ Mouth.  
+__up a tree__ _idiom_ In a difficult situation.  
+__yellow__ _slang_ A coward.  
+__rhathymia__ _n_ Carefree behavior; light-heartedness.  
+__inveigh__ _v_  
+
 __crack down__ _v_  
 __expansive__ _adj_ :two::hammer: _He became expansive and revealed some facts._  
 __gushed__ _v_  
@@ -7,7 +18,7 @@ __swig__ _n_ _A sw8g of diet soda._
 __crowing__ _v_  
 __203__ _The Machine-Gun Shooting 203 course._  
 __shovel__ _v_  
-__gusted__ _v_ _The rain gusted aga8nst the windows._  
+__gusted__ _v_ _The rain gusted against the windows._  
 __crumpled__ _v_  
 
 __autumn__ _n_  
@@ -16,7 +27,7 @@ __proverb__ _n_ A short, common saying or phrase that gives advice or shares a u
 __exhortation__ _n_  
 __conveyance__ _n_  
 
-__yawner__ _slang_ Something that is very boring.  
+__yawner__ _slang_ Something that is very boring.  __rhathymi
 __no spring chicken__  
 __senile__  
 __call off__ _phr v_  
