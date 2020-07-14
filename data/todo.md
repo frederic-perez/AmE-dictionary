@@ -1,6 +1,17 @@
 
 
 
+__Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
+__cut__ _n_ :two::hammer: _His cut of the $50,000._  
+__anissete__ _n_ _Jack passed out anissete-soaked cigars._  
+__smoldering__ _v_  
+__gash__ _n_  
+__follow-up__ _n_ :astonished:  
+__House Speaker__  
+__put on hold__  
+__flurry__ _n_  
+__unctuous__  
+
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
