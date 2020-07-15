@@ -1,5 +1,15 @@
 
-
+__miser__ _adj_  
+__dissatisfied__ _adj_  
+__disheartened__ _adj_  
+__downhearted__ _adj_  
+__average Joe__  
+__rise from the ashes__ _idiom_ To recover after a serious failure.  
+__up to your eyeballs in something__ _idiom_ To have too much of something.  
+__classical__ _adj_  
+__classic_ _adj_  
+__historical__ _adj_  
+__historic__ _adj_  
 
 __Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
 __cut__ _n_ :two::hammer: _His cut of the $50,000._  
