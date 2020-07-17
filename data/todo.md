@@ -1,6 +1,17 @@
 
 
 
+__nowcasting__ :two::hammer:  
+__cytometer__  
+__pollen__ _n_ :three::hammer:  
+__lean__ _adj_  
+__hail__ _n_  
+__frangible__ _adj_ :two::hammer:  
+__windsock__  
+__aluminum__ _n_  
+__timeliness__  
+__multicopter__ _n_ _Syn_ multirotor  
+
 __felon__ _n_  
 __hoodlum__  
 __feel out__  
