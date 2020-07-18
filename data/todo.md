@@ -1,6 +1,17 @@
 
 
 
+__rummaging__ _v_ _Jack was rummaging._  
+__at heart__ _Most people are crooks at heart._  
+__incessantly__  
+__sling__ _n_ (informal?)  
+__elation__ _n_  
+__mystified__  
+__slackjawed__ _He had gone slackjawed when Jack topd him the news._  
+__gottcha__ :pencil2: (double t, or typo?)  
+__reminisce__ _v_  
+__lionized__ _v_  
+
 __nowcasting__ :two::hammer:  
 __cytometer__  
 __pollen__ _n_ :three::hammer:  
