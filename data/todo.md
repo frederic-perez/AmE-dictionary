@@ -1,6 +1,17 @@
 
 
 
+__blood runs cold__ _informal_ To be very frightened.  
+__ravishing__ _adj_  
+__stunning__ _adj_  
+__irate__ _adj_  
+__incensed__ _adj_  
+__crestfallen__ _adj_  
+__baffled__ _adj_  
+__deafening__ _adj_  
+__thunderous__ _adj_  
+__weary__ _adj_  
+
 __rummaging__ _v_ _Jack was rummaging._  
 __at heart__ _Most people are crooks at heart._  
 __incessantly__  
