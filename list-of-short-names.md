@@ -24,7 +24,9 @@
 - __Rob__ A masculine given name, frequently a shortened version (hypocorism) of Robert.
 - __Roy__ Roy is a masculine given name and a family surname with varied origin.
 - __Sam__ A given name or nickname, often used by people named "Samuel," "Samson," and "Samantha", and occasionally used by people named "Salvatore."
-- __Sid__ A nickname deriving from (and hypocorism for) the given name Sidney, Siddhartha, Sidonia, or Sidra, though it is also used by people with other given names. 
+- __Sid__ A nickname deriving from (and hypocorism for) the given name Sidney, Siddhartha, Sidonia, or Sidra, though it is also used by people with other given names.
+- __Sue__ Acommon short form of the following female given names: Susan,
+Susanna/Susannah/Suzanna, Susanne, Suzanne. It is rarely used as a man's name, a notable example being Sue K. Hicks (1895-1980), American jurist, who may have inspired the song "A Boy Named Sue".
 - __Tim__ A masculine given name; it can also be used as a short form of Timothy.
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Zig__
