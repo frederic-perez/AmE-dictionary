@@ -1,6 +1,18 @@
 
 
 
+__attuned__ _adj_  
+__bad egg__ _idiom_ Someone who behaves in a bad or dishonest way.  
+__buck__ _n_ Buck is an informal reference to $1 that may trace its origins to the American colonial period when deer skins (buckskins) were commonly traded for goods.  
+__squalid__ _adj_  
+__take heart__ _idiom_ Be confident, be brave.  
+__work out__ _phr v_ To find the answer or solution.  
+__work on__ _phr v_ To spend time or improving something.  
+__chicken feed__ _idiom_ A small amount of money.  
+__adamantine__ _adj_  
+__turn sour__  
+
+
 __impaneled__ _v_  
 __conviction__ _n_  
 __subpoenaed__ _v_  
@@ -10,7 +22,7 @@ __contempt sentence__ :two::hammer:
 __adroitly__  
 __crusty__ _adj_ _The judge was crusty._  
 __ebullient__  
-__brash__ _Brash c9nfidence._  
+__brash__ _Brash confidence._  
 
 
 __flabbergasted__  
