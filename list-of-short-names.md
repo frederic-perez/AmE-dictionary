@@ -16,7 +16,7 @@
 - __Jim__ A given name or a hypocorism of the given name James and a short form of Jimmy. 
 - __Joy__ A common female given name meaning joy, happiness, joyful.
 - __Kay__ In English-speaking countries, it is usually a feminine name, often a short form of Katherine or one of its variants; but it is also used as a first name in its own right, and also as a masculine name (for example in India, the Netherlands, and Sweden).
-- __Kev__
+- __Kev__ A diminutive of the male given name Kevin.
 - __Meg__ Often a short form of Margaret, Megan, Megumi (Japanese), etc.
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro.
 - __Pam__ Often a diminutive form of Pamela.
