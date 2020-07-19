@@ -1,6 +1,18 @@
 
 
 
+__impaneled__ _v_  
+__conviction__ _n_  
+__subpoenaed__ _v_  
+__bevy__  
+__dress rehearsal__  
+__contempt sentence__ :two::hammer:  
+__adroitly__  
+__crusty__ _adj_ _The judge was crusty._  
+__ebullient__  
+__brash__ _Brash c9nfidence._  
+
+
 __flabbergasted__  
 __flagrant__  
 __stalked out__ _v_ :two::hammer:  
@@ -21,7 +33,7 @@ __an honest mistake__ _idiom_ A mistake made unintentionally or unknowingly and 
 __confabulate__ _v_ __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __flinty__ _adj_ Showing unfeeling resistance to tender feelings. _Syn_ granitic, obdurate, stony  
 __honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one's statement, "Pete" here is a substitution of the word "God," so as to avoid potential blasphemy.  
-__frisson__ _n_ A brief moment of emotional excitement. _Syn_shudder, thrill  
+__frisson__ _n_ A brief moment of emotional excitement. _Syn_ shudder, thrill  
 
 
 __blood runs cold__ _informal_ To be very frightened.  
