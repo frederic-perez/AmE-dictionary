@@ -1,6 +1,17 @@
 
 
 
+__flabbergasted__  
+__flagrant__  
+__stalked out__ _v_ :two::hammer:  
+__play hardball__ _Defense lawyers began playing hardball._  
+__bums__ _n_  
+__thrash out__  
+__feisty__ _The feisty man gloated._  
+__gloated__ _v_ _The feisty man gloated._  
+__porch screen__  
+__peptalked__ _v_  
+
 __home, James (, and don't spare the horses)__ _idiom_ A humorous directive for a driver to take one home directly and without delay.  
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
 __callow__ _adj_  
