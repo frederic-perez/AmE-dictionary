@@ -164,6 +164,7 @@ __Ada__ :mega: /ā′də/
 __adage__ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
 __Adam's ale__ _slang_ Water.  
 __adamant__ _adj_ :two::hammer:  
+__adamantine__ _adj_ Not capable of being swayed or diverted from a course; unsusceptible to persuasion.  
 __add insult to injury__ _idiom_ :two: To hurt the feelings of a person who is already upset.  
 __add up to__ _idiom_ To equal or amount to something.  
 __add up__ _phr v_ :four::hammer: _The whole thing doesn't add up._  
@@ -189,7 +190,7 @@ __admonition__ _n_ :six: Bringing a skateboard to school is a great way to get a
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
 __adroit__  
-__adroitly__  
+__adroitly__ _adv_ :two: In an adroit manner. _He handled the situation adroitly._  
 __adulation__  
 __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __advanced in years__ _idiom_ Of an older age.  
@@ -651,6 +652,7 @@ __Attorney General__ :astonished: (Attorneys General) _He discussed with two suc
 __attract__ _v_  
 __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
 __attrition__ _n_ :six::hammer:  
+__attuned__ _adj_ Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __au pair__  
 __au shops__  
@@ -743,7 +745,7 @@ __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a
 __bad actor__  
 __bad apple__ A troublemaker.  
 __bad blood__ :two::hammer:  
-__bad egg__ _n_ _informal_ :two: Someone who behaves in a bad or dishonest way.  
+__bad egg__ _n_ _informal_ :three: Someone who behaves in a bad or dishonest way.  
 __bad press__ _Drones get a lot of bad press._  
 __bad words__ _Cat says bad words._  
 __bad-hair__ _Arnold can have a bad-hair movie._  
@@ -1443,7 +1445,7 @@ __Branch Davidians__
 __branch__ _v_ (branched)  
 __brander__  
 __branding iron__ _n_ :camera:  
-__brash__ :two::hammer: _Brash talk._ _It sounded brash._  
+__brash__ _adj_ :three: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass monkeys__ _idiom_ Very cold weather.  
 __brass__ _n_ _informal_ :three: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She'll be manipulated by the police brass._  
 __brassiere__ _n_  
@@ -1583,7 +1585,8 @@ __buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea with
 __buck off__ _v_  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
-__buck__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Many officers bucked the chain of command._  
+__buck<sup>1</sup>__ _n_ Buck is an informal reference to $1 that may trace its origins to the American colonial period when deer skins (buckskins) were commonly traded for goods.  
+__buck<sup>2</sup>__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _"Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Many officers bucked the chain of command._  
 __buckaroo__ _n_ :two: A cowboy – used especially when talking to children. The iconic figure of the cowboy has gone by many other names in American English, including buckaroo, cowhand, cowman, cowpoke, cowpuncher, vaquero, and waddy, and two of these words, buckaroo and vaquero, come from Spanish. In California, however, the Spanish word vaquero was Anglicized to buckaroo.  
 __bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
 __buckeyes__  
@@ -2174,6 +2177,7 @@ __chic__ _Target has been trying to gain back the chic status._
 __chicanery__ _n_ :three: The use of clever plans or actions to deceive people.  
 __chicken > game of chicken__  
 __chicken coop__ :two::hammer:  
+__chicken feed__ _idiom_ A small amount of money.  
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __chicken pox__  
 __chicken run__  
@@ -2657,6 +2661,7 @@ __consumable__
 __consumer electronics__  
 __consumption__ (ailment?)  
 __contagion__  
+__contempt sentence__ :two::hammer:  
 __contempt__  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
@@ -2693,6 +2698,7 @@ __convenience store__
 __conversely__  
 __convertible__  
 __convey__ _v_ :two::hammer: (conveyed)  
+__conviction__ _n_  
 __convivial__ _adj_ :three::hammer:  
 __convoke__ _v_ To call together to a meeting.  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
@@ -2978,7 +2984,7 @@ __crusader__
 __crush<sup>1</sup>__ _I was crushed._  
 __crush<sup>2</sup>__ _n_  
 __crushing blow__ _idiom_ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
-__crusty__  
+__crusty__ _adj_ :two::hammer: _The judge was crusty._  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :four: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
@@ -3756,6 +3762,7 @@ __dreg__ _n_ :six::hammer: (often dregs) _Away from the dregs and junkies._ _Ret
 __drench__ _v_ :four::hammer: (drenched)  
 __drenched__ _adj_  
 __drenches__ _v_  
+__dress rehearsal__  
 __dress to the nines__ _idiom_ Wearing very fashionable or expensive clothes.  
 __dress up__ _v_  
 __dressed to the nines__  
@@ -3928,7 +3935,7 @@ __ebb and floor__
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
-__ebullient__ :two::hammer:  
+__ebullient__ _adj_ :three: Very happy and enthusiastic.  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__  
 __echo__ :mute:[ec~~h~~o]  
@@ -6440,6 +6447,7 @@ __immortalize__ _v_ Make famous forever.
 __imp__ _Its imp genius._  
 __impact__ _Sterling struggled to make an impact in the second half._  
 __impairment__  
+__impaneled__ _v_  
 __impartible__  
 __impasse__ _n_ :four::pencil2: Deadlock or stalemate. _At impasse._  
 __impassioned__ _adj_  
@@ -11922,7 +11930,7 @@ __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _S
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :four::hammer: _The Olympics squad._  
-__squalid__ _adj_ :four::pencil2::hammer: _Squalid home._  
+__squalid__ _adj_ :five::pencil2::hammer: _Squalid home._  
 __squall__ _n_ :three::hammer:  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander<sup>1</sup>__ _v_ :two::hammer:  
@@ -12316,7 +12324,7 @@ __sublimate__ _v_
 __suborn__ _v_  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
-__subpoena<sup>2</sup>__ _v_ :four::mega: (subpoenaed)  
+__subpoena<sup>2</sup>__ _v_ :five::mega::hammer: (subpoenaed)  
 __subsea__ _n_  
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
@@ -12553,7 +12561,7 @@ __take a stand__
 __take aback__ _phr v_ To surprise or shock.  
 __take by storm__  
 __take down__ _phr v_ To make notes, to write down information.  
-__take heart__ _idiom_ :two::dart: To be confident or courageous.  
+__take heart__ _idiom_ :three::dart: To be confident or courageous.  
 __take it away__ _informal_ To start playing or singing music.  
 __take on__ _phr v_ :two: To accept some work or responsibility.  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
@@ -14186,8 +14194,8 @@ __work as planned__
 __work at__ _phr v_ To try hard to develop or improve something.  
 __work my tail of__  
 __work off__ _phr v_ To get rid of something by using physical effort.  
-__work on__ _phr v_ To spend time or improving something.  
-__work out__ _phr v_ To find the answer or solution.  
+__work on__ _phr v_ :two: To spend time or improving something.  
+__work out__ _phr v_ :two: To find the answer or solution.  
 __work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen's work surface._  
 __workaday__  
 __workforce__  
