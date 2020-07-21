@@ -1,28 +1,5 @@
 
 
-__flabbergasted__  
-__flagrant__  
-__stalked out__ _v_ :two::hammer:  
-__play hardball__ _Defense lawyers began playing hardball._  
-__bums__ _n_  
-__thrash out__  
-__feisty__ _The feisty man gloated._  
-__gloated__ _v_ _The feisty man gloated._  
-__porch screen__  
-__peptalked__ _v_  
-
-__home, James (, and don't spare the horses)__ _idiom_ A humorous directive for a driver to take one home directly and without delay.  
-__histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
-__callow__ _adj_  
-__internecine__ _adj_  
-__interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
-__an honest mistake__ _idiom_ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
-__confabulate__ _v_ __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
-__flinty__ _adj_ Showing unfeeling resistance to tender feelings. _Syn_ granitic, obdurate, stony  
-__honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one's statement, "Pete" here is a substitution of the word "God," so as to avoid potential blasphemy.  
-__frisson__ _n_ A brief moment of emotional excitement. _Syn_ shudder, thrill  
-
-
 __blood runs cold__ _informal_ To be very frightened.  
 __ravishing__ _adj_  
 __stunning__ _adj_  

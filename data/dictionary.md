@@ -380,6 +380,7 @@ __amply__
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
 __amusement park__ _n_ :two::hammer:  
 __an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Old Testament, including in Exodus, Leviticus, and Deuteronomy.  
+__an honest mistake__ _idiom_ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __anachronism__  
 __anal bleaching__ _n_  
 __analyst__ :pencil2:  
@@ -1638,7 +1639,7 @@ __bully__
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
-__bum<sup>3</sup>>__ _n_ __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
+__bum<sup>3</sup>>__ _n_ :two: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bummer__ _n_ _slang_ :two: A disappointing or unpleasant situation or experience.  
@@ -1844,7 +1845,7 @@ __calliopes__
 __callous<sup>1</sup>__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
-__callow__ _adj_ :three::hammer:  
+__callow__ _adj_ :four::hammer:  
 __calm before the storm__ _idiom_ :two: A peaceful and quiet period before a period of activity or trouble.  
 __calm__ :mute:[ca~~l~~m]  
 __calves__  
@@ -2609,7 +2610,7 @@ __conducive__ _adj_ :three::hammer: _The vehicle doesn't seem conducive to passi
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
-__confabulate__ _v_ To chat informally.  
+__confabulate__ _v_ :two: __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __confection__  
 __confederacy__  
 __Confederate flag__  
@@ -4463,7 +4464,7 @@ __feel for__
 __feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
-__feisty__ _adj_ :six: Full of energy and lively determination.  
+__feisty__ _adj_ :seven: Full of energy and lively determination. _The feisty man gloated._  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _I am a fellow student._  
 __felon__ _n_ :nine: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
@@ -4626,7 +4627,7 @@ __fizzle__ _v_ :three::hammer: (fizzled)
 __fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
 __flab__ _n_ Body fat, soft loose flesh on a person's body.  
 __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
-__flabbergasted__ _adj_  
+__flabbergasted__ _adj_ :two::hammer:  
 __flaccid__ _adj_  
 __flag-stop service__  
 __flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
@@ -4635,7 +4636,7 @@ __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioratio
 __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
-__flagrant__ _adj_ :two::hammer: _A flagrant foul._  
+__flagrant__ _adj_ :three::hammer: _A flagrant foul._  
 __flagship__ :two::hammer:  
 __flagstaff__  
 __flagstone__ _Flagstone terraces._  
@@ -4707,7 +4708,7 @@ __fling__ _v_ :seven::hammer: (flinging) _Johnson isn't just flinging it._ _He w
 __flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
-__flinty__ _adj_ :two: __1__ A flinty expression is unfriendly and without emotion. __2__ Composed of, containing, or resembling flint, esp. in hardness. _Flinty soil._  
+__flinty__ _adj_ :three: __1__ A flinty expression is unfriendly and without emotion. Showing unfeeling resistance to tender feelings. _Syn_ granitic, obdurate, stony __2__ Composed of, containing, or resembling flint, esp. in hardness. _Flinty soil._  
 __flip (me) the bird__  
 __flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. __2__ To go crazy; have a mental breakdown.  
 __flip the bird__  
@@ -4985,7 +4986,7 @@ __frilled__ _Frilled apron._
 __frilly__  
 __fringe__  
 __frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
-__frisson__ _n_ :two: A sudden strong feeling of excitement, fear, or pleasure.  
+__frisson__ _n_ :three: A sudden strong feeling of excitement, fear, or pleasure. _Syn_ shudder, thrill  
 __frites__ _Steak frites._  
 __fritter__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
 __fritters__ _Corn fritters._  
@@ -5313,7 +5314,7 @@ __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glit
 __glitz__  
 __glitzy__  
 __gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
-__gloat__ _v_ :five::hammer: (gloating) _I could not gloat._  
+__gloat__ _v_ :six::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
 __gloom<sup>1</sup>__ _n_ :four::hammer: _She was hidden in the gloom._  
@@ -6127,6 +6128,7 @@ __hirsutism__
 __His Majesty the Sultan__  
 __hissy__ _Hissy fit._  
 __histamine__ _n_  
+__histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
 __hit and miss__  
 __hit man__  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
@@ -6211,6 +6213,7 @@ __Holy See__
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home-delivery__  
+__home, James (, and don't spare the horses)__ _idiom_ A humorous directive for a driver to take one home directly and without delay.  
 __homebody__ _n_ :two: A person who prefers staying at home.  
 __homecoming__ :two::hammer: _She had been homecoming queen._  
 __homegoods__  
@@ -6226,6 +6229,7 @@ __homestretch__ _n_ :two::hammer:
 __homie__ _Homies for life._  
 __homophobic__  
 __honcho__ _n_ :four::hammer: (honchos)  
+__honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one's statement, "Pete" here is a substitution of the word "God," so as to avoid potential blasphemy.  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
@@ -6677,6 +6681,7 @@ __intemperance__
 __intently__ :two::hammer: _He watched him intently._  
 __interdicting__  
 __interim__  
+__interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interlopers__ _n_ :two::hammer:  
 __interment__ _n_ :three::hammer:  
 __intermission__ _n_ :four::hammer::dart:  
@@ -6684,6 +6689,7 @@ __intermit__ _v_ Cease an action temporarily. _Syn_ pause, break
 __intermittent__  
 __intern__  
 __international friendly__  
+__internecine__ _adj_  
 __internship__  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :five::hammer: (interspersed)  
@@ -9060,6 +9066,7 @@ __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eat
 __pepper__ _v_ :six::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
+__peptalked__ _v_  
 __per diem__  
 __per se__ :mega: /pər sā′, sē′/  
 __percentile__ :mega:  
@@ -9332,6 +9339,7 @@ __play ball__
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play down something__ _phr v_ :two: To make something seem less important than it is. _She tried to play down her beauty._  
 __play footsie__ _idiom_ To flirt with someone by secretly touching feet.  
+__play hardball__ _Defense lawyers began playing hardball._  
 __play havoc__  
 __play it safe__ _v_ :four::hammer: (play safe)  
 __play second fiddle__  
@@ -9467,6 +9475,7 @@ __popcorn__ :es: gotelé?
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __pops__ _n informal_ :two: Father.  
 __populace__  
+__porch screen__  
 __porcupette__ _n_ A baby porcupine.  
 __pore__ _v_ :six::dart::hammer: (poring)  
 __pork pie hat__ :camera:  
@@ -11991,7 +12000,7 @@ __stale antiperspirant__
 __stale__ _adj_ :four::hammer: _The stale remains of a cup of coffee._  
 __staler__ _The air in the place grew staler._  
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
-__stalk out__ _idiom_ To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
+__stalk out__ _idiom_ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
 __stalk<sup>1</sup>__ _n_  
 __stalk<sup>2</sup>__ _v_  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
@@ -12835,6 +12844,7 @@ __thoroughfare__
 __thoroughly__  
 __thought__ :mute:[thou~~gh~~t]  
 __thrall__ _n_ :six::hammer:  
+__thrash out__  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __thread the needle__  
 __Three Lions__ _A message to the Three Lions._  
