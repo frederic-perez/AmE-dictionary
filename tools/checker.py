@@ -431,7 +431,7 @@ class Checker(object):
             for headword in undefined_sorted:
                 print('  ' + FAIL + headword + ' ' + OKCYAN + undefined[headword] + ENDC)
                 i += 1
-                if i == 10:
+                if i == 4: # 10:
                     break
         else:
             print(OKGREEN + 'No undefined high frequency headwords were found' + ENDC)
