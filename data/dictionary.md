@@ -618,6 +618,7 @@ __asunder__ _adv_ :two::hammer: _A world torn asunder by evil and hate._
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
+__at heart__ _Most people are crooks at heart._  
 __at large__ _idiom_  
 __at odds__ _idiom_ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
@@ -762,6 +763,7 @@ __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and 
 __badly__ _adv_ :three::hammer: _When done badly it's very painful._ _She wants him so badly!_  
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :six: (baffled) To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._  
+__baffled__ _adj_  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
 __baffling__ _Baffling season._  
@@ -1223,6 +1225,7 @@ __bloat__ _n_ A group of hippos.
 __bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood count__ _n_ :es: hemograma  
+__blood runs cold__ _informal_ To be very frightened.  
 __blood-expander__  
 __blood, sweat, and tears__ _idiom_ A lot of effort and suffering.  
 __bloodshot eyes__ :camera:  
@@ -2903,7 +2906,7 @@ __crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe
 __Crescent City__  
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
-__crestfallen__ _adj_ :five: Dispirited and depressed; dejected.  
+__crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
 __crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
@@ -3184,6 +3187,7 @@ __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._  
+__deafening__ _adj_  
 __dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
@@ -3991,7 +3995,7 @@ __el__ :two::hammer: _The el tracks._
 __elaborate__ _v_ :dart:  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_ :three::hammer:  
-__elation__ _n_ :three::hammer:  
+__elation__ _n_ :four::hammer:  
 __elbow grease__ _idiom_ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
@@ -5464,6 +5468,7 @@ __gory__
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :es: evangelio  
 __gossipy__ _adj_  
+__gotcha__  
 __gouge__ _v_ :six::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __goulash__  
@@ -6549,9 +6554,10 @@ __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._
 __inbound<sup>2</sup>__ _v_  
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ _n_ :three::hammer:  
-__incensed__ _v_  
+__incense__ _v_ (incensed)  
+__incensed__ _adj_  
 __inception__ _n_ :three::hammer:  
-__incessantly__  
+__incessantly__ _adv_ :two::hammer:  
 __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the field._  
 __inchoate__  
 __inchworm__ _n_  
@@ -6712,7 +6718,7 @@ __inveterate__ _adj_ :four: Always doing a particular thing, especially somethin
 __invoice__ _v_  
 __invoke__  
 __IP__ Intelectual property.  
-__irate<sup>1</sup>__ _adj_  
+__irate<sup>1</sup>__ _adj_ :two::hammer:  
 __irate<sup>2</sup>__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
 __ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
@@ -7379,6 +7385,7 @@ __links__ :two::hammer: _The links course._
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
 __lion's share__ _idiom_ The greatest or best part.  
 __lionhearted__ _adj_  
+__lionized__ _v_  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lipped__ _v_  
 __lippy__ _adj_  
@@ -8182,6 +8189,7 @@ __mysteries__ _n_ :pencil2:
 __mysterious__ _adj_ :two::pencil2:  
 __mystery shopper__ _n_ Someone hired by a company to pose as a customer in order to evaluate the quality of its service.  
 __mystery train__  
+__mystified__  
 __mystique__ :pencil2:  
 __mythos__ :two::hammer:  
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
@@ -10096,7 +10104,7 @@ __ravenous__ _adj_ :five: Extremely hungry.
 __ravine__ _n_ :two::hammer:  
 __raving__ _v_ :two::hammer:  
 __ravish__  
-__ravishing__ :two::hammer:  
+__ravishing__ _adj_ :three::hammer:  
 __raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raw dog__  
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
@@ -10272,7 +10280,7 @@ __remanded__ _v_
 __remarkable__  
 __remarkably__ _adv_ :two::hammer:  
 __remembrance__ _n_ :six: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
-__reminisce__ _v_ :two::hammer: (reminiscing)  
+__reminisce__ _v_ :three::hammer: (reminiscing)  
 __reminiscent__  
 __remit__  
 __remittances__ :two::hammer:  
@@ -10612,7 +10620,7 @@ __rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? 
 __rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :nine::m::hammer: (rummaged, rummaging)  
+__rummage__ _v_ :nine::m::hammer: (rummaged, rummaging) _Jack was rummaging._  
 __rummy__  
 __rumor has it__  
 __rumor mill__ _Fighting the rummor mill._  
@@ -11426,6 +11434,7 @@ __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slack
 __slack<sup>3</sup>__ _adj_ :three::hammer: _Now he couldn't drive with slack reins._  
 __slackened__ _v_  
 __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
+__slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slackline__ _n_  
 __slag__  
 __slake__ _v_  
@@ -11483,7 +11492,7 @@ __slightly-built__ _The slightly-built, 27-year-old man._
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__ _n_ :two::hammer:  
 __sliminess__  
-__sling__ _n_ :three::hammer: _The sling for his dislocated shoulder._  
+__sling__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
 __slinger__  
 __slink<sup>1</sup>__ _v_ :two: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
@@ -12308,7 +12317,7 @@ __stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can a
 __stun gun__ _n_  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
-__stunning__ _adj_ :four::hammer:  
+__stunning__ _adj_ :five::hammer:  
 __stunt<sup>1</sup>__ _n_ :four::hammer: (stunts) _Singers emphasize stunts over music._  
 __stunt<sup>2</sup>__ _v_ :four::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._  
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
@@ -12892,6 +12901,7 @@ __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped 
 __thumping__ _A thumping majority._  
 __thunder__ _v_ :two: (thundered) To express violently, commandingly, or angrily; roar.  
 __thunderheads__  
+__thunderous__ _adj_  
 __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
 __thunk<sup>1</sup>__ _n_  
 __thunk<sup>2</sup>__ _v_ _A thunking sound._  
@@ -13899,7 +13909,7 @@ __wealth__ _n_ :three::dart::hammer: _A wealth of information._ _They were furni
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :four::hammer:  
-__weary__  
+__weary__ _adj_ :two::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor', 'Manager', and 'Super'._  
 __weather vane__  
