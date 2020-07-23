@@ -343,7 +343,7 @@ __altitude sickness__
 __alto voice__  
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
 __alum__ _n_ :three::hammer: _A Vanderbilt alum._  
-__aluminum__ _n_ :pencil2::three::hammer:  
+__aluminum__ _n_ :four::pencil2::hammer:  
 __alumni__ :two::hammer:  
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
@@ -1049,7 +1049,7 @@ __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._
 __bento__ Boxed meals.  
 __bequeath__ _v_ :eight::hammer; (bequeathed)  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
-__berate__ _v_ :seven: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
+__berate__ _v_ :eight: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_ :two::hammer:  
 __bereavement__ _n_ :four: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
@@ -3086,6 +3086,7 @@ __cyclone__ _n_ :two::hammer: (cyclones)
 __cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
 __cyst__ _n_ :mega: _Ganglion cysts._  
+__cytometer__  
 __cytometry__  
 __D-ring inset__  
 __D'oh__ _slang_ Exclamation used when you realize that you did something stupid.  
@@ -4465,13 +4466,14 @@ __fecklessness__
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel for__  
+__feel out__  
 __feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
 __feisty__ _adj_ :seven: Full of energy and lively determination. _The feisty man gloated._  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _I am a fellow student._  
-__felon__ _n_ :nine: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
+__felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __felt pen__  
 __felt__ _n_ :two::hammer: _A black felt pouch from a jewelry store._  
@@ -4941,6 +4943,7 @@ __frame__ _v_ _He framed Roger Rabbit._
 __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
 __franchise__ _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
+__frangible__ _adj_ :two: Capable of being broken; breakable.  
 __frankincense__ _n_ :astonished: :es: incienso  
 __Frappuccino__  
 __frat house__  
@@ -5732,7 +5735,7 @@ __hagiography__
 __hags__ _Screaming histerically like Shakespearean hags._  
 __Hail Mary__  
 __hail<sup>1</sup>__ _v_ :nine: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
-__hail<sup>2</sup>__ _n_ :six::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
+__hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
 __hair clippers__ _n_ :camera:  
@@ -6247,7 +6250,7 @@ __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturban
 __hooch__ :two::hammer: _Take it easy on the hooch._  
 __hood fan__  
 __hood__ _n_ _slang_ :seven: (hoods) Criminal, a member of a criminal gang. _Too many hoods had visited his home._  
-__hoodlum__ _n_ _slang_ :four: (hoodlums) A criminal or gangster.  
+__hoodlum__ _n_ _slang_ :five: (hoodlums) A criminal or gangster.  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
 __hook up__  
@@ -6741,6 +6744,7 @@ __issuance__ _n_ :three::hammer:
 __issue__ _v_  
 __isthmus__  
 __IT Band__  
+__it dawned on someone__  
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
 __it takes two to tango__ _idiom_  
@@ -7232,7 +7236,7 @@ __league__ :mute:[leag~~u~~e]
 __lean and mean__ _Companies are running lean and mean these days._  
 __lean on__ _v_ :two::hammer:  
 __lean protein__  
-__lean<sup>1</sup>__ _adj_ :three::hammer: _He is lean fast._ _Lean food._ _A lean face._  
+__lean<sup>1</sup>__ _adj_ :four::hammer: _He is lean fast._ _Lean food._ _A lean face._  
 __lean<sup>2</sup>__ _v_  
 __leap day__  
 __leap of faith__  
@@ -8131,6 +8135,7 @@ __mullah__ _n_
 __mullet__ :two::hammer:  
 __mulligan__ _n_  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
+__multicopter__ _n_ _Syn_ multirotor  
 __multipurpose__ :es: polivalente  
 __multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
@@ -8412,7 +8417,7 @@ __novella__
 __now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nowadays__  
 __nowcast__  
-__nowcasting__ _adj_ :three::hammer: _Nowcasting system._ _Nowcasting applications._  
+__nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting applications._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
 __nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
@@ -9237,7 +9242,7 @@ __pinafore__
 __pincers__ _n_  
 __pinch > in a pinch__  
 __pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
-__pinch-faced__  
+__pinch-faced__ :two::hammer:  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ :two::hammer: (pinches) _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
@@ -9446,7 +9451,7 @@ __policyholder__
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
 __polish__ _v_  
 __politburo__  
-__pollen__ _n_ :astonished:  
+__pollen__ _n_ :four::astonished::hammer:  
 __pollster__ _n_  
 __pollutant__ _n_ :two::hammer:  
 __pols__ _n_  
@@ -10644,7 +10649,7 @@ __runs from (date) to (date)__ _The 45-day review period runs from November 16, 
 __runs me off__  
 __runt__  
 __runway__  
-__Runyonesque__ _adj_  
+__Runyonesque__ _adj_ :two::hammer: _A torrent of Runyonesque chitchat._  
 __ruptured__ _v_ _He ruptured his Achilles._  
 __ruse__ _n_ :seven::hammer: (ruses)  
 __rush<sup>1</sup>__ _n_  
@@ -12144,7 +12149,7 @@ __sticker shock__
 __stickers__  
 __stickler__ _n_ :three::hammer:  
 __stiff<sup>1</sup>__ _adj_ :six::hammer: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._  
-__stiff<sup>2</sup>__ _v_ _Trump is known for stiffing people he owes._  
+__stiff<sup>2</sup>__ _v_ :two::hammer: (stiffing) _Trump is known for stiffing people he owes._ _Jay was stiffing his partners._  
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
 __stiffer__ :two::hammer: _In adult court, murder, a Class M felony, carries a much stiffer penalty._ _Unleasing stiffer penalties._  
 __stiffly__  
@@ -12799,6 +12804,7 @@ __the bandwagon__ _n phr_ _Jump on the bandwagon._
 __the big three-oh__  
 __the bigger they come, the harder they fall__ _idiom_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
 __the Chinese__ _This article was translated from the Chinese._  
+__the City of Brotherly Love__  
 __the day's full of spiders__  
 __the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
@@ -12956,6 +12962,7 @@ __time line__ _Can it be done in that time line?_
 __timeclock__ _Denver Movie Timeclock._  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__  
+__timeliness__  
 __timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_  
@@ -14120,6 +14127,7 @@ __window shop__ _v_ (window shopping)
 __window__ _Hail is tracked over a one-hour window._  
 __windshear__ _n_ :four::hammer: _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
+__windsock__  
 __windstorm__  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
 __wine list__ _The wine list._ :es: la carta de vinos  

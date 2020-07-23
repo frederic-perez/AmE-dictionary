@@ -1,27 +1,5 @@
 
 
-__nowcasting__ :two::hammer:  
-__cytometer__  
-__pollen__ _n_ :three::hammer:  
-__lean__ _adj_  
-__hail__ _n_  
-__frangible__ _adj_ :two::hammer:  
-__windsock__  
-__aluminum__ _n_  
-__timeliness__  
-__multicopter__ _n_ _Syn_ multirotor  
-
-__felon__ _n_  
-__hoodlum__  
-__feel out__  
-__pinch-faced__  
-__Runyonesque__ _A torrent of Runyonesque chitchat._  
-__stiffing__ _v_ _Jay was stiffing his partners._  
-__it dawned on someone__  
-__the City of Brotherly Love__  
-__berated__ _v_  
-__stubble__ _n_ _He was growing a beard, and the stubble itched._  
-
 __miser__ _adj_  
 __dissatisfied__ _adj_  
 __disheartened__ _adj_  
