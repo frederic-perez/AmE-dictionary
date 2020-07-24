@@ -1,28 +1,5 @@
 
 
-__miser__ _adj_  
-__dissatisfied__ _adj_  
-__disheartened__ _adj_  
-__downhearted__ _adj_  
-__average Joe__  
-__rise from the ashes__ _idiom_ To recover after a serious failure.  
-__up to your eyeballs in something__ _idiom_ To have too much of something.  
-__classical__ _adj_  
-__classic__ _adj_  
-__historical__ _adj_  
-__historic__ _adj_  
-
-__Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
-__cut__ _n_ :two::hammer: _His cut of the $50,000._  
-__anissete__ _n_ _Jack passed out anissete-soaked cigars._  
-__smoldering__ _v_  
-__gash__ _n_  
-__follow-up__ _n_ :astonished:  
-__House Speaker__  
-__put on hold__  
-__flurry__ _n_  
-__unctuous__  
-
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  

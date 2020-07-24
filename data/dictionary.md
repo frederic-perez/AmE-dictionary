@@ -410,6 +410,7 @@ __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is 
 __animosity__ _n_ :nine: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
 __aniseed__ _n_  
+__anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
 __annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
 __annex__ _n_  
@@ -684,7 +685,7 @@ __avail__ _v_ :two::hammer: _Nothing avails against the Death._
 __avalanche__ _n_  
 __aver__ _v_  
 __average citizens__  
-__average Joe__ _slang_ An ordinary man.  
+__average Joe__ _n_ _slang_ :two: An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :three::hammer: (averted)  
 __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
@@ -2323,6 +2324,8 @@ __clasp<sup>2</sup>__ _v_ _I clasped the chain around her neck._
 __clasped__ _v_  
 __class act__ _She was a class act through and through._  
 __class action__  
+__classic__ _adj_  
+__classical__ _adj_  
 __classy__ :two::hammer:  
 __clatter__ _n_ :two::hammer: _The clatter of the Telex machines._  
 __claw back__ _v_  
@@ -3069,6 +3072,7 @@ __cut from whole cloth__ _idiom_ Completely fictional or utterly false; totally 
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
 __cut me a little slack__  
 __cut ties with (someone)__ _idiom_ :two::hammer:  
+__cut__ _n_ :two::hammer: _His cut of the $50,000._  
 __cut-and-dry task__  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlets__ _Chicken cutlets._  
@@ -3503,6 +3507,7 @@ __disgruntlement__
 __disguise__ :mute:[disg~~u~~ise]  
 __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
+__disheartened__ _adj_  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
 __disheveled__ _adj_ In disarray; extremely disorderly.  
 __dishing__ _v_  
@@ -3538,7 +3543,7 @@ __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical.
 __disruption__  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
 __dissatisfaction__ :two::hammer:  
-__dissatisfied__ _adj_ :pencil2:  
+__dissatisfied__ _adj_ :two::pencil2::hammer:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissemble__ _v_ :four::hammer: _Syn_ disguise, cloak, mask, pretend  
@@ -3709,6 +3714,7 @@ __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_  
 __downers__ :two::hammer:  
+__downhearted__ _adj_  
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic's health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
@@ -3982,6 +3988,7 @@ __egomaniac__
 __egotists__  
 __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
+__Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
 __eh?__ _Impressive, eh?_  
 __eight__ :mute:[ei~~gh~~t]  
 __eighty-eights__ Piano.  
@@ -4806,6 +4813,7 @@ __foldout chair__ _n_
 __folk__ _n_ _n pl_ :four::hammer::mute:[fo~~l~~k]  
 __follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
 __follow suit__ _idiom_ :five: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four "suits" (diamonds, hearts, spades, and clubs).  
+__follow-up__ _n_ :astonished:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __FOMO__  
 __food coma__ _idiom_  
@@ -5151,7 +5159,7 @@ __gas guzzler__
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
-__gash<sup>1</sup>__ _n_ :four::hammer: _The gash wasn't closing._  
+__gash<sup>1</sup>__ _n_ :five::hammer: _The gash wasn't closing._  
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies' defense._ _The Lions gashed the Owls._  
 __gasket__  
 __gaskets__  
@@ -6136,6 +6144,8 @@ __hirsutism__
 __His Majesty the Sultan__  
 __hissy__ _Hissy fit._  
 __histamine__ _n_  
+__historic__ _adj_  
+__historical__ _adj_  
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
 __hit and miss__  
 __hit man__  
@@ -6307,6 +6317,7 @@ __hourlong__ _The hourlong meeting._
 __house > take it to the house__  
 __house husband__ _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
+__House Speaker__  
 __house__ _v_  
 __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __houseboats__ _n_  
@@ -7939,7 +7950,7 @@ __miscue__ _n_ (miscues) :three::hammer:
 __misdemeanor__ :two::hammer:  
 __misdiagnose__ _v_ _A misdiagnosed patient._  
 __misdirection__ _n_ :three::hammer:  
-__miser__ _n_ :two::hammer: :es: avaro  
+__miser__ _n_ :three::hammer: :es: avaro  
 __miserable__ _We are miserable._  
 __miserably__ _Failed miserably._  
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
@@ -9863,6 +9874,7 @@ __put (or set) the record straight__ _idiom_ To make things clear, to explain so
 __put it on the money__  
 __put off__ _idiom_ :two::hammer:  
 __put on a clinic__  
+__put on hold__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiiom_ To discuss or plan something together with other people.  
 __put out__ _idiom_  
@@ -10471,6 +10483,7 @@ __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or fi
 __riposte__ _n_ :three::hammer: (ripostes)  
 __ripped__ _v_  
 __ripple__ _v_ :four::hammer: (rippled)  
+__rise from the ashes__ _idiom_ To recover after a serious failure.  
 __rise__ _v_  
 __risers__  
 __risible__  
@@ -13431,7 +13444,7 @@ __unconvinced__
 __uncouth__ _adj_ :three::hammer:  
 __uncrating__  
 __unction__ _n_  
-__unctuous__ _adj_ :dart::three: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
+__unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __under (one's) breath__ _idiom_ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
 __under (someone's) watch__  
@@ -13552,6 +13565,7 @@ __up and running__
 __up and under__ A basketball move.  
 __up for grabs__ _idiom_ :three: Available for anyone.  
 __up to (one's) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: "When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp." It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
+__up to your eyeballs in something__ _idiom_ To have too much of something.  
 __up yours__ :two::hammer:  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
