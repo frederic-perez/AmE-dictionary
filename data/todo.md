@@ -1,5 +1,16 @@
 
 
+__fairly__ _adv_ _I'm fairly tidy._  
+__prone__ :es: propenso  
+__render__ _v_  
+__standardize__ (?)  
+__bail out__ _v_ :two::hammer:  
+__atta boy__ (?)  
+__tackle__ _v_  
+__folk__  
+__minstrel__ (?)  
+__middle of the road__ _He is a middle of the road singer, and that's a good thing._  
+
 __patterned__ _v_  
 __skeptic__ _adj_ :pencil2:  
 __timely__  
