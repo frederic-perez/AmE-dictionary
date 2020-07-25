@@ -1,29 +1,5 @@
 
 
-
-__indefatigable__ _adj_ Never showing signs of getting tired.  
-__oleaginous__ _adj_ __1__ Extremely polite, kind, or helpful in a false way that is intended to bring some advantage to yourself. If you describe someone as unctuous, you are critical of them because they seem to be full of praise, kindness, or interest, but are obviously insincere. _Syn_ fulsome (formal), oily, smarmy (informal disapproving), unctuous (formal disapproving) _Oleaginous flattery._ __2__  Of or relating to oil.  
-__battered__ _adj_ (Cookery) Coated in batter: _a battered cod._  
-__revue__ _n_ _A kazoo revue._  
-__cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
-__outsmart__ _v_  
-__fall short__ _idiom_ __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._  
-__pour-over coffee__ _n_  
-__the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
-__get out of Dodge__ _idiom_  To leave, especially to leave a difficult or dangerous environment with all possible haste.  
-
-__blue in the face__ _idiom_ Showing signs of exhaustion or strain. Often used in the phrase "till (one) (is) blue in the face. This expression alludes to thebluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you're blue in the face, but we're going to your grandmother's whether you like it or  not._  
-__freebie__ _n_ _slang_ Something you get for free.  
-__forfeit__ _n_  
-__as a duck takes to water__ _idiom _cliché_ Esily and naturally. _She took to singingjust as a duck takes to water._ _The baby adapted to the bottle as a duck takes to  water._  
-__apiary__ _n_ A place where bees and beehives are kept, especially a place wherebees are raised for their honey.  
-__debtor__ _n_  
-__creditor__ _n_  
-__compulsory__  
-__beseech__ _v_  
-__tiptoe__ _v_  
-
-
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  

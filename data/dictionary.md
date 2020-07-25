@@ -456,6 +456,7 @@ __apartment__ _n_
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_ :two::hammer: (aped)  
 __aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
+__apiary__ _n_ A place where bees and beehives are kept, especially a place wherebees are raised for their honey.  
 __aping__  
 __aplenty__  
 __aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
@@ -551,6 +552,7 @@ __articulated__ _adj_ _A clearly articulated project._
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
+__as a duck takes to water__ _idiom_ _cliché_ Esily and naturally. _She took to singingjust as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as blind as a bat__ _idiom_ Unable to see well.  
 __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
@@ -891,8 +893,8 @@ __bathhouses__
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __bathymetry__  
 __baton__ _n_ :two::hammer:  
-__battered<sup>1</sup>__ _v_ _His face was battered._  
-__battered<sup>2</sup>__ _adj_ _Her pride remains battered but intact._  
+__battered<sup>1</sup>__ _v_ :two::hammer: _His face was battered._ _Her pride remains battered but intact._  
+__battered<sup>2</sup>__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
 __battery__ :two::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __batty__  
@@ -1060,7 +1062,7 @@ __berm__ _n_
 __berserk__ _adj_ :eight: (usually used in the phrase "go berserk") __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
-__beseech__ _v_ :two::hammer: _Syn_ entreat  
+__beseech__ _v_ :three::hammer: _Syn_ entreat  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
@@ -1258,6 +1260,7 @@ __blowtorch__
 __blowup bed__ _n_  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __bludgeoned__ _v_ :three::hammer:  
+__blue in the face__ _idiom_ Showing signs of exhaustion or strain. Often used in the phrase "till (one) (is) blue in the face. This expression alludes to thebluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you're blue in the face, but we're going to your grandmother's whether you like it or not._  
 __blue pill__ _idiom_  
 __blue streak__ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __blue string__  
@@ -2575,7 +2578,7 @@ __comps__ _n_ (Competitors?)
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
-__compulsory__ _adj_ :six::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
+__compulsory__ _adj_ :seven::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compurgator__ _n_  
 __compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn't compute._  
 __comrade__  
@@ -2897,6 +2900,7 @@ __cred__
 __credence__ _n_ :three::hammer:  
 __credenza__ _n_  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
+__creditor__ _n_  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
 __creep somebody out__ _phr v informal_ To make someone feel nervous, uncomfortable, and slightly frightened.  
 __creep__ _n_ _The upward creep._  
@@ -2968,6 +2972,7 @@ __crow__ _v_ :two::hammer: (crowed, crowing) _"There is nothin' like OPEC clout,
 __crowbar__ _n_ :two::hammer:  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crucible__ _n_ :seven::hammer:  
+__cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
 __crudity__ _"Please, excuse the crudity of the model," said Dr. Brown._  
@@ -3205,6 +3210,7 @@ __debauchery__
 __debriefing__ _n_ :five::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
+__debtor__ _n_  
 __debunk__ _v_ :two::hammer:  
 __deburr__ _v_  
 __debut__ :mute:[debu~~t~~]  
@@ -4370,7 +4376,7 @@ __fall off the back of a truck__ _idiom_ Of goods or merchandise, to be acquired
 __fall out of love__  
 __fall out__ _idiom_ :dart: __5__ To have one's relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they're not talking to each other at all._  
 __fall over__ _v_  
-__fall short__ _v_ :six: To fail to achieve a goal or target.  
+__fall short__ _idiom_ :seven: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._  
 __fallacy__ _n_ :four::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
 __fallible__ _adj_ :three::mega::hammer: _Managers are as fallible as the rest of us._  
@@ -4891,7 +4897,7 @@ __forestall__ _v_ :four: (forestalled) It takes a bit of planning to forestall s
 __foretell__  
 __forever and a day__ _idiom_ __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
-__forfeit<sup>2</sup>__ _n_ :two: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
+__forfeit<sup>2</sup>__ _n_ :three: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forgear__  
 __forged__ _adj_ Of or relating to that which has been fraudulently imitated.  
@@ -4975,7 +4981,7 @@ __free rein__
 __free ride__ :two::hammer:  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
-__freebie__ _n_ :four: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
+__freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_ :eight::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
 __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:  
@@ -5232,6 +5238,7 @@ __get off__ _I always get off the bus a stop early on the way to work._
 __get on someone's nerves__ _idiom_ To annoy someone a lot.  
 __get on your nerves__ _idiom_ To annoy someone a lot.  
 __get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
+__get out of Dodge__ _idiom_ To leave, especially to leave a difficult or dangerous environment with all possible haste.  
 __get out of here__  
 __Get outta here!__ _idiom_  
 __get over someone's head__ _They're getting over their heads._  
@@ -6595,7 +6602,7 @@ __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definit
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __incur__ _v_  
 __indecorous__ _adj_  
-__indefatigable__ _adj_ :five::pencil2: Incapable or seemingly incapable of being fatigued; tireless.  
+__indefatigable__ _adj_ :six::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired.  
 __indefinite__  
 __indelible__ _adj_ :six::hammer::pencil2: _An indelible mark._  
 __indenture__ _v_  
@@ -8553,6 +8560,7 @@ __old saying__
 __Old Sol__  
 __old-timers__ _n_  
 __Ole Miss__  
+__oleaginous__ _adj_ __1__ Extremely polite, kind, or helpful in a false way that is intended to bring some advantage to yourself. If you describe someone as unctuous, you are critical of them because they seem to be full of praise, kindness, or interest, but are obviously insincere. _Syn_ fulsome (formal), oily, smarmy (informal disapproving), unctuous (formal disapproving) _Oleaginous flattery._ __2__ Of or relating to oil.  
 __olefin__ _n_  
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
@@ -8745,7 +8753,7 @@ __outshine__ _v_ :two: To be much better than someone or something else.
 __outshit__ _v_  
 __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._  
 __outsize__ :two::hammer: _An outsize risk._  
-__outsmart__ _v_  
+__outsmart__ _v_ :two::hammer:  
 __outspend__ _v_  
 __outspoken__ _adj_ :nine::m::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstanding__ _adj_  
@@ -9552,6 +9560,7 @@ __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :four::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
+__pour-over coffee__ _n_  
 __pout__ _v_ :nine: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: The child's lips pouted.  
 __pouty__ _adj_  
 __pow-wow__  
@@ -10407,7 +10416,7 @@ __revisit__ _v_
 __revive__ _v_ _To revive unemployment benefits._  
 __revocation__  
 __Revolutionary War__  
-__revue__ _n_ A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. :es: revista, show  
+__revue__ _n_ :two::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ :es: revista, show  
 __rezoning__  
 __RGA__ _RGA chairman._  
 __rhabdomancy__  
@@ -12825,6 +12834,7 @@ __the final straw__
 __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
+__the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the lion's share__ _idiom_ Major share of something.  
 __the name of the game__  
 __the order of the day__  
@@ -13005,7 +13015,7 @@ __tipster__ _n_ :two::hammer: (tipsters)
 __tiptoe<sup>1</sup>__ _adj_  
 __tiptoe<sup>2</sup>__ _adv_  
 __tiptoe<sup>3</sup>__ _n_  
-__tiptoe<sup>4</sup>__ _v_ :two: To walk or move quietly on one's toes.  
+__tiptoe<sup>4</sup>__ _v_ :three: To walk or move quietly on one's toes.  
 __tirade__ _n_ :seven::hammer:  
 __tire spikes__ :camera:  
 __tire__ _v_ _To break up the peloton and make teams chase and tire._  
