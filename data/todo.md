@@ -1,5 +1,16 @@
 
 
+__hunker down__ _v_ Take shelter.  
+__deluge__ _n_ A lot of things all happening or arriving at the same time, especially if they are hard to deal with.  
+__kaffeeklatsch__ _n_  
+__nugget__ _n_ :dart: A small piece of information or advice that can be useful or important.  
+__faux pas__  
+__undertake__ _v_  
+__spaghetti__ _n_  (Cookery) Pasta in the form of long strings.  
+__decongestant__ _n_ A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._    
+__inpatient__ _n_  
+__erstwhile__
+
 __fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
 __smarmy__ _adj_ __1__ Excessively ingratiating or insincerely earnest. _Syn_ unctuous __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
