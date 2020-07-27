@@ -113,6 +113,7 @@ __accompany__ _v_
 __accomplice__  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
 __according to plan__ :two::hammer: _If everything goes according to plan._  
+__accost__ _v_  
 __account for__ _phr v_ To explain.  
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ :es: contable  
@@ -297,7 +298,7 @@ __alfresco<sup>1</sup>__ _adv_
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
-__alienist__ _n_ A psychiatrist and specialist in the legal aspects of mental illness.  
+__alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
@@ -893,8 +894,9 @@ __bathhouses__
 __bathwater__ _Let's not throw out the baby with the bathwater._  
 __bathymetry__  
 __baton__ _n_ :two::hammer:  
-__battered<sup>1</sup>__ _v_ :two::hammer: _His face was battered._ _Her pride remains battered but intact._  
-__battered<sup>2</sup>__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
+__batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
+__batter<sup>2</sup>__ _v_ :two::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
+__battered__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
 __battery__ :two::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __batty__  
@@ -1077,6 +1079,7 @@ __best__ _v_ :two::hammer: (bested)
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
+__betoken__ _v_  
 __betray__ _v_ :two::hammer:  
 __betrothed__ _v_ :two::hammer:  
 __better known as__ _Miyazaki, better known as Aska._  
@@ -3233,7 +3236,7 @@ __decline__ _n_
 __declutter__ _v_  
 __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommissioning process._  
 __decommits__  
-__decongestant__  
+__decongestant__ _n_ :two::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
 __deconstruct__ _v_  
 __decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle's most decorated chefs._  
 __decreed__ _v_  
@@ -3310,7 +3313,7 @@ __delivery note__
 __dell__ _n_ A small secluded wooded valley.  
 __delouse__ _v_ _They're deloused once a month._  
 __delude__ _v_ :four::hammer: (deluded)  
-__deluge<sup>1</sup>__ _n_ :four: _The deluge is not over._  
+__deluge<sup>1</sup>__ _n_ :five: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _Deluxe album._  
@@ -4194,7 +4197,7 @@ __err__ _"The well-being of your child os of paramount concern," he wrote in his
 __errand__ _n_ _He had an errand to run._  
 __errata__  
 __ersatz__ _adj_ :two: __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
-__erstwhile__ _adj_ :three::hammer:  
+__erstwhile__ _adj_ :four::hammer:  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
@@ -4289,7 +4292,7 @@ __expediting__ _v_
 __expeditiously__  
 __expenditure__ _n_ :five: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
-__expiate__ _v_ To atone for; make amends or reparation for.  
+__expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
 __expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
 __explicate__ _v_  
 __explication__ _n_  
@@ -4451,7 +4454,7 @@ __fault__ _v_
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
 __fauna__ _n_  
 __Faustian__ _Faustian device._  
-__faux pas__ _n_ A social blunder.  
+__faux pas__ _n_ :two: A social blunder.  
 __faux__ _Three faux tombstones._  
 __fava beans__  
 __fave__ _v_ _informal_ :two::hammer:  
@@ -5061,6 +5064,7 @@ __full-fledged__ :two::hammer: _Full-fledged work._
 __full-mask helmet__ _n_  
 __fullbacks__ _n_  
 __fullness__  
+__fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumbling__ _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fumed__ _v_  
@@ -5900,6 +5904,7 @@ __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, a
 __have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
 __have (one's) feet on the ground__ _idiom_ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one's situation.  
 __have (one's) fill (of something)__ _idiom_ To have, consume, or experience as much (of something) as one desires or is able to. Often used in the present perfect tense ("have had one's fill").  
+__have (one's) hand out__ _idiom_ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded.  
 __have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
 __have (one's) head read__ _idiom_ To have one's logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
 __have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
@@ -6375,6 +6380,7 @@ __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__
 __hunger strike__  
 __hungup__ _informal?_ _What's the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
+__hunker down__ _v_ Take shelter.  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__ _adj_ _slang_ :four: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
 __huramaki__ _n_  
@@ -6673,7 +6679,7 @@ __innumerate__
 __inobvious__  
 __inordinate__ _adj_ :three::hammer:  
 __inordinately__  
-__inpatient__ Patient at a hospital. _Radel will begin intensive inpatient treatment._  
+__inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
 __inquisitive__ _adj_  
 __inquisitiveness__  
@@ -6950,6 +6956,7 @@ __K-pop__
 __kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
 __kabobs__  
 __kabuki__ _n_ :three::hammer:  
+__kaffeeklatsch__ _n_  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :four::hammer:  
 __kamikaze__ _n_ :mega:  
@@ -8444,7 +8451,7 @@ __nub__ _n_ :two::hammer: _A punched nub._
 __nubby__ _adj_ _Nubby sole design._  
 __nucleotide__ _n_  
 __nuder__ _Officers found a small sliver handgun nuder the passenger seat._  
-__nugget__ (nuggets) :two::hammer:  
+__nugget__ _n_ :three::dart: (nuggets) A small piece of information or advice that can be useful or important.  
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :four::hammer: (nullified)  
@@ -8547,6 +8554,7 @@ __oh__ _You went oh for two._
 __Ohioans__  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
+__oily__ _adj_ Too friendly and polite in a way that is not sincere.  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okay__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there's no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
@@ -10970,6 +10978,7 @@ __second nature__
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
+__secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
 __secret weapon__ _n_ :four: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
@@ -11593,6 +11602,7 @@ __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportan
 __small print__  
 __small__ _I rubbed the small of her back._  
 __smallpox__ :two::hammer:  
+__smarmy__ _adj_ __1__ Excessively ingratiating or insincerely earnest. _Syn_ unctuous __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
 __smart as a whip__ _idiom_ Very intelligent or clever, as in _Little Brian is smart as a whip; he's only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
 __smart case__  
@@ -11820,6 +11830,7 @@ __space__ _v_ _I spaced on that._
 __spaceling__ _v_  
 __spackle__ :two::hammer:  
 __spade-bearded__  
+__spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
 __spandex__ _n_  
 __spangle__ _v_ :six::hammer: (spangled, spangling)  
 __Spanish moss__ :two::hammer:  
@@ -13481,7 +13492,7 @@ __understandably__ :two::hammer:
 __understated__ _adj_  
 __understatement__  
 __understudy__ _v_  
-__undertake__ _v_ _A video of cyclists overtaking and undertaking a horse rider._  
+__undertake__ _v_ :two::hammer: _A video of cyclists overtaking and undertaking a horse rider._  
 __undertaker__ _n_  
 __undertow__  
 __underwhelm__ _v_ To fail to excite, stimulate, or impress.  
