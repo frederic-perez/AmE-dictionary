@@ -1,27 +1,5 @@
 
 
-__fairly__ _adv_ _I'm fairly tidy._  
-__prone__ :es: propenso  
-__render__ _v_  
-__standardize__ (?)  
-__bail out__ _v_ :two::hammer:  
-__atta boy__ (?)  
-__tackle__ _v_  
-__folk__  
-__minstrel__ (?)  
-__middle of the road__ _He is a middle of the road singer, and that's a good thing._  
-
-__patterned__ _v_  
-__skeptic__ _adj_ :pencil2:  
-__timely__  
-__tenets__ _n_  
-__keep in check__  master 🔨 Stuff from books
-__rigor__  
-__prime__  
-__run the show__  
-__suffice it to say__  
-__heightened__ _adj_  
-
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __merriment__ _n_ High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  

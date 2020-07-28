@@ -642,7 +642,7 @@ __atrium__ _n_ :two::hammer:
 __atrocious__  
 __atrocity__  
 __atrophied__ _v_  
-__Atta boy__  
+__attaboy__ _idiom_ :two:  
 __attaché case__  
 __attack dog__ _n_  
 __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
@@ -775,7 +775,7 @@ __bag of tricks__ _idiom_ All the clever methods by which someone achieves somet
 __bag out__ _v_ _Why'd you bag out on me?_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
 __bagman__ _n_ _Bill is a bag man for corrupt officials._  
-__bail out__ _phr v_ :four: To pay for someone’s release from jail.  
+__bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
 __bailiwick__  
@@ -4371,7 +4371,7 @@ __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condi
 __fair shake__  
 __fair__ _To be fair to Jim, he didn't cause the problem but inherited it._  
 __fair-weather fan__ _idiom_ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
-__fairly__ :two::hammer: _I realized it fairly quickly._  
+__fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I'm fairly tidy._  
 __fait accompli__  
 __fall from the sky__ _This trust doesn't fall from the sky._  
 __fall into place__  
@@ -4819,7 +4819,7 @@ __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fo
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
 __foldout chair__ _n_  
-__folk__ _n_ _n pl_ :four::hammer::mute:[fo~~l~~k]  
+__folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
 __follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
 __follow suit__ _idiom_ :five: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four "suits" (diamonds, hearts, spades, and clubs).  
 __follow-up__ _n_ :astonished:  
@@ -6052,7 +6052,7 @@ __heft__ _n_ :two::hammer:
 __hefted up__  
 __hefty__ :two::hammer:  
 __height__ :mute:[hei~~gh~~t]  
-__heightened__ _adj_  
+__heightened__ _adj_ :two::hammer:  
 __heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
@@ -6971,7 +6971,7 @@ __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or so
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
-__keep in check__ _Devils keep Hawks' high-flying offense in check._  
+__keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep tab(s) (on someone or something)__ _idiom_ :six::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._  
 __keep up with__ :two::hammer:  
@@ -7889,6 +7889,7 @@ __mick__ _n_ :three::hammer:
 __mid-afternoon__  
 __midafternoon__  
 __midday__ _n_ :two::pencil2::hammer:  
+__middle of the road__ _He is a middle of the road singer, and that's a good thing._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ :dart:  
 __midget__ _They both raced midgets with plans to go open-wheel racing._  
@@ -7939,7 +7940,7 @@ __minion__ _n_ :two::hammer: (minions)
 __minnie__ _n_ A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
-__minstrel__ :two::hammer:  
+__minstrel__ _n_ :three: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. :es: juglar  
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
@@ -9012,6 +9013,7 @@ __patronizing__
 __patronymic__  
 __patsy__ _adj_  
 __patter__  
+__patterned__ _v_  
 __patterning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
 __paucity__ _n_ :five: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
@@ -9682,7 +9684,7 @@ __primary school__ _n_ A school for young children; usually the first 6 or 8 gra
 __Prime Minister__  
 __prime-age__  
 __prime<sup>1</sup>__ _adj_ :two::hammer: _Their master bedroom has a prime view of the green wall._  
-__prime<sup>2</sup>__ _n_  
+__prime<sup>2</sup>__ _n_ :two::hammer:  
 __prime<sup>3</sup>__ _v_ :three::hammer: (primed)  
 __primer__ _n_ :four:hammer:  
 __priming__ _v_  
@@ -9738,7 +9740,9 @@ __prominently__
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prompt__ _v_ :two::hammer: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
-__prone__ _v_  
+__prone<sup>1</sup>__ _adj_ :es: propenso  
+__prone<sup>2</sup>__ _n_  
+__prone<sup>3</sup>__ _v_  
 __prong__ _n_ :four::hammer: (prongs) _A barbed prong._ _A two-prong whatnot._  
 __pronged__  
 __pronounce__ _Prevnar 13® is pronounced "Prev-nar 13."_  
@@ -10322,7 +10326,7 @@ __remnants__
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
-__render__ _v_ :three::hammer::astonished: __1b__ b. To give or make available; provide: _render assistance; render a service._ _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
+__render__ _v_ :four::hammer::astonished: __1b__ b. To give or make available; provide: _render assistance; render a service._ _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
 __rendering plant__  
@@ -10470,6 +10474,7 @@ __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutel
 __righteous__  
 __rightfully__ _Rightfully so._  
 __rigmarole__ _n_ :two::hammer: _Rigmarole controls._  
+__rigor__  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
 __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
@@ -10664,6 +10669,7 @@ __run amok__ :two::hammer:
 __run errands__ :two::hammer:  
 __run for the hills__ _idiom_  
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
+__run the show__  
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :four: Ordinary, average.  
@@ -11424,6 +11430,7 @@ __skate__ _v_ :three::hammer: _He don't let nobody skate unless it's for money._
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
 __skein__ _n_ :three: A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_  
 __skell__ _How you like it, skell?_  
+__skeptic__ _adj_ :pencil2:  
 __sketchy__  
 __skewer__ _v_ :two::hammer:  
 __skews__ _v_  
@@ -12072,6 +12079,7 @@ __stand tall__ :three::hammer: _She's standing tall and proud._
 __stand to reason__ :two::hammer: _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between "stand" and "up." _I'm sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __standard__ _n_ :camera: :es: estandarte (?)  
+__standardize__ _v_  
 __standby__ _The old standby._  
 __standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
 __standoff__ _n_ :four::hammer:  
@@ -12411,7 +12419,7 @@ __sudden cardiac arrest__
 __sudden__  
 __suds__  
 __sudsy__  
-__suffice it to say__  
+__suffice it to say__ :two::hammer:  
 __suffragette__  
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
@@ -12599,6 +12607,7 @@ __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they wo
 __tachometer__  
 __taciturn__  
 __tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
+__tackle__ _v_  
 __tacky__ _adj_ :three::hammer: _The office looked tacky._  
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
@@ -12786,7 +12795,7 @@ __tenderize__ _v_ To make (meat) tender, as by marinating, pounding, or applying
 __tendinitis__  
 __tendrils__ _n_  
 __tenements__ _Kids from the tenements._  
-__tenet__ _n_ :five::hammer: (tenets) :es: principio  
+__tenet__ _n_ :six::hammer: (tenets) :es: principio  
 __Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
 __tense__ _adj_  
