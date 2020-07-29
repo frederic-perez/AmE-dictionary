@@ -1,5 +1,17 @@
 
 
+
+__inordinate__ _adj_ :two::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
+__hitch__ _n_ _The whole system works without a hitch._  
+__bespeak__ _v_  
+__clean house__ _v_ (?)  
+__mementos__ _n_  
+__likely__ _You are likely to get derailed into organizing._  
+__date__ _v_ _It's a good habit to date everything you handwrite._  
+__collectible__ _n_  
+__scoot__ _v_  
+__counsel__ _n_  
+
 __paper tablecloth__ _n_  
 __chasm__ _n_  
 __workstation__ _n_ :two::hammer:  
