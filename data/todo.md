@@ -1,5 +1,16 @@
 
 
+__overdo__ _v_  
+__petty cash__  
+__morale__ _n_  
+__debriefing__ _n_  
+__wardrobe__ _n_ _Professional wardrobe._  
+__thank-yous__ _n_  
+__outings__ _n_  
+__spill over__  
+__hmph__  
+__admonition__ _n_  
+
 __paper tablecloth__ _n_  
 __chasm__ _n_  
 __workstation__ _n_ :two::hammer:  
