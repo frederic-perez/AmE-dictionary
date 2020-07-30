@@ -1,28 +1,5 @@
 
 
-
-__linguaphile__ _n_  
-__bolo tie__ _n_ (?)  
-__deck__ _n informal_ The ground or floor.  
-__wordy__ _adj_ Using or containig too many words.  
-__dys-__ _prefix__ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
-__through and through__  
-__that will be the day__  
-__at the end of the day__  
-__make it easy on yourself__ _Make it easy on yourself, 'cause breaking up is very hard to do._  
-__sensible__ _n_ :es: sensato  
-
-__inordinate__ _adj_ :two::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
-__hitch__ _n_ _The whole system works without a hitch._  
-__bespeak__ _v_  
-__clean house__ _v_ (?)  
-__mementos__ _n_  
-__likely__ _You are likely to get derailed into organizing._  
-__date__ _v_ _It's a good habit to date everything you handwrite._  
-__collectible__ _n_  
-__scoot__ _v_  
-__counsel__ _n_  
-
 __paper tablecloth__ _n_  
 __chasm__ _n_  
 __workstation__ _n_ :two::hammer:  

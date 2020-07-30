@@ -1071,6 +1071,7 @@ __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._
 __besmeared__ _v_  
 __besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
+__bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
@@ -1326,7 +1327,7 @@ __boisterous__ :two::hammer:
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bole__ _The arrow slammed solidly into the bole of a tree._  
 __bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth's atmosphere. _Syn_ fireball :astonished:  
-__bolo tie__ _n_  
+__bolo tie__ _n_ :two: (bola tie, bolo) A necktie consisting of a piece of cord fastened with an ornamental bar or clasp.  
 __bologna__  
 __boloney__ Baloney.  
 __bolony__  
@@ -2341,6 +2342,7 @@ __claw<sup>2</sup>__ _v_
 __clawback__  
 __clawed__ _v_  
 __clean his clock__  
+__clean house__ _idiom_ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one's plate__ Eat up all the food put on one's plate.  
 __cleanliness__  
 __cleanse__ _v_  
@@ -2492,6 +2494,7 @@ __colleague__ :mute:[colleag~~u~~e]
 __collect (one's) wits__ _idiom_ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ _idiom_ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __collect__ _v_ _Click and collect._  
+__collectible__ _n_  
 __collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of sight of (an optical device).  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
@@ -2803,7 +2806,7 @@ __could__ :mute:[cou~~l~~d]
 __coulee__  
 __coulrophobia__ _n_ Fear of clowns.  
 __councilor__ _n_  
-__counsel__  
+__counsel__ _n_ :two::hammer:  
 __counselor__ _n_  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count your blessings__ _idiom_ :four: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
@@ -3165,7 +3168,8 @@ __dashing__ _I think I look rather dashing._
 __datalogger__ _n_ :two::hammer:  
 __datalogging__ :two::hammer:  
 __date with destiny__ _idiom_ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
-__date__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
+__date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
+__date<sup>2</sup>__ _v_ _It's a good habit to date everything you handwrite._  
 __dateable__ _adj_ That can be given a date.  
 __dated__ _adj_ Old-fashioned; out-of-date.  
 __dateline__  
@@ -3230,7 +3234,8 @@ __decidious__ _adj_
 __decimate__ _v_ _It decimated their relationship._  
 __decimation__  
 __deck railing__  
-__deck__ _v_ :four::hammer: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
+__deck<sup>1</sup>__ _n informal_ The ground or floor.  
+__deck<sup>2</sup>__ _v_ :four::hammer: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
 __decline__ _n_  
 __declutter__ _v_  
@@ -3914,6 +3919,7 @@ __dyad__
 __dyadic__  
 __dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
 __dyke__ _n informal_ :four: A lesbian. _She wasn't a dyke, either._  
+__dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dysplasia__ _Canine hip dysplasia._  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
@@ -6174,7 +6180,7 @@ __hit the rocks__ _idiom_ To encounter an especially difficult, troubled, or low
 __hit the sack__  
 __hit the wall__ _idiom_ :two::hammer:  
 __hit up__ _She thought about hitting up an amusement park._  
-__hitch<sup>1</sup>__ _n_ :two::hammer: _There was only a little hitch in this process to get their cash._  
+__hitch<sup>1</sup>__ _n_ :three::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither and thither__ :two::hammer::pencil2:  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
@@ -6677,7 +6683,7 @@ __innate__
 __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
 __innumerate__  
 __inobvious__  
-__inordinate__ _adj_ :three::hammer:  
+__inordinate__ _adj_ :five::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
 __inordinately__  
 __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
@@ -7387,6 +7393,7 @@ __like two peas in a pod__ _idiom_ Very similar.
 __like water off a duck's back__ _idiom_ Without any apparent effect.  
 __likelier__  
 __likelihood__ _n_ :two::pencil2: Probability.  
+__likely__ _You are likely to get derailed into organizing._  
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
 __likewise__ _adv_ :two::hammer:  
 __lilac tree__  
@@ -7409,6 +7416,7 @@ __lineman__
 __linemen__ _n_  
 __liners__ _n_ _Hospital liners._  
 __linger__  
+__linguaphile__ _n_  
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ :two::hammer: _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
@@ -7642,6 +7650,7 @@ __major-domo__ _n_ (majordomo)
 __majoring__  
 __make (one's) bones__ _idiom_  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
+__make it easy on yourself__ _Make it easy on yourself, 'cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_ :two::hammer:  
 __make perfect sense__ _It makes perfect sense._  
@@ -7834,7 +7843,7 @@ __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
-__memento__ _Removing mementos from a national park is illegal._  
+__memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
 __memo__ _n_ :three: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
@@ -10890,7 +10899,7 @@ __scold__ _n_ A person who habitually scolds, in particular a troublesome and an
 __sconce__ _v_  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
-__scoot__ _v_  
+__scoot__ _v_ :two::hammer:  
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
@@ -11053,7 +11062,7 @@ __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
-__sensible__ :two::hammer: _This C++ contructor has sensible default values._  
+__sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _Sensitive questions._  
 __sentence__ _n_ _A sentence of judges._  
 __sentience__  
@@ -12833,6 +12842,7 @@ __Thanksgiving Day__ _n_
 __that being said__  
 __That being said,__  
 __that much__ _I'll tell you that much._  
+__that will be the day__ _idiom_ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that'll be the day!_  
 __that will do__  
 __that's the breaks__  
 __thaw<sup>1</sup>__ _v_ :five: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
@@ -12916,7 +12926,7 @@ __thromboembolism__ _n_
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
-__through and through__ :three::hammer: _It's a flagship through and through._ _She was a class act through and through._  
+__through and through__ :four::hammer: _It's a flagship through and through._ _She was a class act through and through._  
 __through thick and thin__ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throughfare__ _n_ Another word for thoroughfare.  
@@ -14262,6 +14272,7 @@ __wording__ _n_
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
 __wordplay__  
 __wordsmith__ _v_ :two::hammer:  
+__wordy__ _adj_ Using or containig too many words.  
 __work as planned__  
 __work at__ _phr v_ To try hard to develop or improve something.  
 __work my tail of__  
