@@ -1,27 +1,5 @@
 
 
-__411__  
-__Spider-Man__  
-__close, but no cigar__ _idiom_ Close, but not enough to win or succeed.  
-__scattergood__ _n_  
-__baleful__ _adj_ _Syn_ threating, menacing  
-__equivocal__ _adj_ _Syn_ ambiguous, confusing  
-__as the crow flies__ _idiom_ By the most direct way, along a straight line between two places.  
-__sling__ _v_ To throw or drop something carelessly.  
-__like pulling teeth__ _idiom_  
-__barren__ _adj_  
-
-__overdo__ _v_  
-__petty cash__  
-__morale__ _n_  
-__debriefing__ _n_  
-__wardrobe__ _n_ _Professional wardrobe._  
-__thank-yous__ _n_  
-__outings__ _n_  
-__spill over__  
-__hmph__  
-__admonition__ _n_  
-
 __paper tablecloth__ _n_  
 __chasm__ _n_  
 __workstation__ _n_ :two::hammer:  

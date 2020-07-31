@@ -25,6 +25,7 @@ __20/20 vision__ _n_
 __21__ _n_ Drinking game.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__411__ _n_  
 __800-pound gorilla__  
 __a bad penny__ _idiom_ A person with no value. Typically used in the proverb _"A bad penny always turns up."_  
 __a bird in the hand is worth two in the bush__  
@@ -187,7 +188,7 @@ __adjuvant__ _adj_ _The adjuvant setting._
 __admin__ _I was doing just admin stuff._  
 __admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
 __admixture__ _n_ :two::hammer:  
-__admonition__ _n_ :six: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
+__admonition__ _n_ :seven: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
 __adroit__  
@@ -564,6 +565,7 @@ __as many as__ _As many as five terror plots were foiled last year._
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
+__as the crow flies__ _idiom_ By the most direct way, along a straight line between two places.  
 __as we speak__ _idiom_ At this very moment.  
 __as yet__ _idiom_ Up to the present time; up to now.  
 __asana__ _n_ A posture or manner of sitting (as in the practice of Yoga).  
@@ -789,6 +791,7 @@ __baking soda__ _n_ Sodium bicarbonate.
 __balderdash__  
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
+__baleful__ _adj_ _Syn_ threating, menacing  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :reminder_ribbon: balky donkey _He was trying to get his balky donkey to move._  
@@ -867,7 +870,7 @@ __barrel of laugh__ _idiom_ :two: Someone who is very funny.
 __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank's barrel._  
 __barrel<sup>2</sup>__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
-__barren__  
+__barren__ _adj_ :two::hammer:  
 __barrette__ :two::hammer:  
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
@@ -2394,6 +2397,7 @@ __clogging__ _v_
 __close > not even close__  
 __close call__ _n informal_ :three::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
+__close, but no cigar__ _idiom_ Close, but not enough to win or succeed.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
 __closely__ _Obama's words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
@@ -3214,7 +3218,7 @@ __debacle__ :two::hammer:
 __debasing__ _v_  
 __debatable__  
 __debauchery__  
-__debriefing__ _n_ :five::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
+__debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
 __debtor__ _n_  
@@ -4195,6 +4199,7 @@ __equipment__ _n_ _The equipment was out of date._
 __equipped__  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__  
+__equivocal__ _adj_ _Syn_ ambiguous, confusing  
 __equivocation__ _n_  
 __er__ :two::hammer: _It does look, er, distinctive._  
 __eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
@@ -6189,6 +6194,7 @@ __HIV__
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __hiya__ _interj_ An informal term of greeting.  
 __HMOs__  
+__hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __ho__  
 __ho-hum__ _adj informal_ :three: So lacking in interest as to cause mental weariness; dull; mediocre. _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __hoagie__  
@@ -7388,6 +7394,7 @@ __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is
 __lightning__ _n_  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
 __like hell__  
+__like pulling teeth__ _idiom_  
 __like shooting fish in a barrel__  
 __like two peas in a pod__ _idiom_ Very similar.  
 __like water off a duck's back__ _idiom_ Without any apparent effect.  
@@ -8078,7 +8085,7 @@ __moppet__ _A lovable moppet._
 __mopping up__  
 __moral compass__ _idiom_ That which serves or guides a person's knowledge, sense, or intuition of correct virtues, morals, or ethics.  
 __moral__  
-__morale__ _n_ :two::hammer:  
+__morale__ _n_ :three::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ :two::hammer:  
 __morbidity__ _n_ :two: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._  
@@ -8797,6 +8804,7 @@ __overbite__ _n_ :two::hammer:
 __overblown__  
 __overboard__ _To go overboard._  
 __overcome__ _v_ _We need to overcome the current hurdles._  
+__overdo__ _v_  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
 __overdue__ _A resurgence in social homes is long overdue._  
 __overflight__  
@@ -9174,7 +9182,7 @@ __petroglyphs__ _Ancient Indian petroglyph._
 __petroleum jelly__  
 __Petry dish__ :mega:  
 __petted__  
-__petty cash__ Small amount of cash available for everyday expenses.  
+__petty cash__ _n_ :two: A small cash fund kept on a firm's premises for the payment of minor incidental expenses.  
 __petty__ :two::hammer: _A petty argument resulted in her son's murder._ _Don't be so petty._  
 __petulance__  
 __petulant__ _adj_ :four::mega::hammer:  
@@ -10859,6 +10867,7 @@ __scarper__ _n_ A hasty departure.
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
+__scattergood__ _n_  
 __scattershot__ :two::hammer:  
 __scenario__ :mute:[s~~c~~enario]  
 __scene__ :mute:[s~~c~~ene]  
@@ -11544,7 +11553,8 @@ __slightly-built__ _The slightly-built, 27-year-old man._
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__ _n_ :two::hammer:  
 __sliminess__  
-__sling__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
+__sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
+__sling<sup>2</sup>__ _v_ To throw or drop something carelessly.  
 __slinger__  
 __slink<sup>1</sup>__ _v_ :two: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
@@ -11893,11 +11903,13 @@ __spellbound__ _adj_
 __spendolie__  
 __spent rocket stages__ :camera:  
 __spew__ _v_ :six::hammer: (spewed) _Carbon-spewing coal power plants._  
+__Spider-Man__  
 __spiel__ _n_ :two::hammer:  
 __spiffy__ :two::hammer:  
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You've seen a big water tank with a spigot hanging out over the train tracks._  
 __spike<sup>1</sup>__ _n_  
 __spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
+__spill over__  
 __spill the beans__  
 __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ :two::hammer:  
@@ -12837,6 +12849,7 @@ __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.
 __thane__ _v_  
 __thang__  
 __thank-you note__ _n_  
+__thank-yous__ _n_  
 __thankless__ Ungrateful  
 __Thanksgiving Day__ _n_  
 __that being said__  
@@ -13911,7 +13924,7 @@ __war stories__
 __warble__ _v_ :three::hammer:  
 __warblers__  
 __ward off__ _phr v_ :two: o prevent.  
-__wardrobe__ _n_ _Left Bank wardrobe._  
+__wardrobe__ _n_ :two::hammer: _Left Bank wardrobe._ _Professional wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
 __wares__ _pl n_ :three: Goods for sale. _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
