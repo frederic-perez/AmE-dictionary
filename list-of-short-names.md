@@ -8,6 +8,7 @@
 ## Three characters
 
 - __Abe__ Commonly used in English-speaking countries as a diminutive of the masculine name Abraham, or as a personal name in its own right.
+- __Ada__ A feminine given name. One origin is the Germanic element "adel-" meaning "nobility." for example as part of the names Adelaide and Adeline. The name can also trace to a Hebrew origin, sometimes spelt Adah עָדָה, meaning "adornment."
 - __Alf__ The male name Alf or Alv is derived from álf, the Old Norse for "elf." It is also the shortened form of various Germanic names with álf as their first part, notably Alfred, Álvaro, or more directly from Ataulf (English: Adolph).
 - __Bea__ A feminine given name, often short for Beatrice.
 - __Bob__ A hypocorism, usually of Robert, and sometimes a diminutive of Bobby.
