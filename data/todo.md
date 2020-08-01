@@ -1,5 +1,16 @@
 
 
+__belie__ _v_  
+__behoove__ _v_ :three::hammer: (behooves)  
+__unstiking__ _v_  
+__encroachment__ _n_  
+__infamous__  
+__keep tabs__ :two::hammer:  
+__draft__ _v_ _Pam spent some time drafting the latest e-mail._  
+__broach__ _v_ :two::hammer: _To broach a conversation._  
+__lurking__ _v_  
+__viable__ _adj_  
+
 __paper tablecloth__ _n_  
 __chasm__ _n_  
 __workstation__ _n_ :two::hammer:  
