@@ -1,6 +1,17 @@
 
 
 
+__wealth__ _n_ _It creates a wealth of fresh energy._  
+__linchpin__  
+__get closure__ _Get closure on compensation dispute with business partner._  
+__arena__ _n_ _In the professional and personal arenas._  
+__low-tech__ _adj_ _I'm a low-tech type._  
+__crept__ _v_  
+__crevices__ _n_  
+__counter__ _n_ _The list is on your dressing-room counter._  
+__scribles__ _n_  
+__get your act together__  
+
 __paper tablecloth__ _n_  
 __chasm__ _n_  
 __workstation__ _n_ :two::hammer:  
