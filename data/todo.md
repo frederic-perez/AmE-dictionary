@@ -1,28 +1,6 @@
 
 
 
-__hoops__ _n_ _slang_ The game of basketball.  
-__sell out__ _idiom_  
-__the back of (one's) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one's complete knowledge of or familiarity with something. Usually used after the verb "know." _I've read this book so many times, I know it like the back of my hand._  
-__sass back__ _idiom_ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between "sass" and "back." _Don't you dare sass me back like that, son, or I'll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
-__party pooper__ _idiom_ A person who dislikes or refuses to participate in social events, often with the result of detracting from others' enjoyment of such events. _Amy is such a party pooper. She thinks our company's social functions are stupid and just stands around pouting the whole time._  
-__shake a leg__ _idiom_  
-__abracadabra__ _n_  
-__at the end of (one's) rope__ _idiom_ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby's been crying all morning, and I haven't slept properly in days. I'm just at the end of my rope!_  
-__mandarin__ _n_ (fruit)  
-__scanty__ _adj_  
-
-__belie__ _v_  
-__behoove__ _v_ :three::hammer: (behooves)  
-__unstiking__ _v_  
-__encroachment__ _n_  
-__infamous__  
-__keep tabs__ :two::hammer:  
-__draft__ _v_ _Pam spent some time drafting the latest e-mail._  
-__broach__ _v_ :two::hammer: _To broach a conversation._  
-__lurking__ _v_  
-__viable__ _adj_  
-
 __paper tablecloth__ _n_  
 __chasm__ _n_  
 __workstation__ _n_ :two::hammer:  
