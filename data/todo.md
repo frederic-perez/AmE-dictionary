@@ -1,6 +1,18 @@
 
 
 
+__striver__ _n_ One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
+__career suicide__  
+__whimper__ _n_  
+__upsell__ _v_  
+__splashdown__  
+__statutory__  
+__scamster__ _n_ _informal_ One who perpetrates a scam or fraud; a windler.  
+__rampant__  
+__aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
+__atypical__ _adj_  
+
+
 __out of sorts__ _idiom_ In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he's been rather out of sorts lately._  
 __take someone for granted__ _idiom_ To not show that you are grateful to someone for helping you.  
 __zonk out__ _v_  
