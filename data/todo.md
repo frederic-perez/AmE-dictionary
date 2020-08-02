@@ -1,29 +1,5 @@
 
 
-
-__striver__ _n_ One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
-__career suicide__  
-__whimper__ _n_  
-__upsell__ _v_  
-__splashdown__  
-__statutory__  
-__scamster__ _n_ _informal_ One who perpetrates a scam or fraud; a windler.  
-__rampant__  
-__aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
-__atypical__ _adj_  
-
-
-__out of sorts__ _idiom_ In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he's been rather out of sorts lately._  
-__take someone for granted__ _idiom_ To not show that you are grateful to someone for helping you.  
-__zonk out__ _v_  
-__one-night stand__ _idiom_ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
-__nightstand__ _n_  
-__zone out__ _idiom_ To lose concentration or become inattentive.  
-__juice__ _n_ _slang_ Energy, power.  
-__slit__ _v_ To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._  
-__old maid__ _idiom_ An old woman who has never been married or has never had a sexual relationship.  
-__slink_ _v_ To go somewhere slowly and quietly.  
-
 __wealth__ _n_ _It creates a wealth of fresh energy._  
 __linchpin__  
 __get closure__ _Get closure on compensation dispute with business partner._  

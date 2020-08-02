@@ -59,6 +59,7 @@ __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
+__aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
 __AB__ _abbr_ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
@@ -664,6 +665,7 @@ __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun
 __attrition__ _n_ :six::hammer:  
 __attuned__ _adj_ Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
+__atypical__ _adj_  
 __au pair__  
 __au shops__  
 __Au.D__ Doctor of audiology.  
@@ -1942,6 +1944,7 @@ __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Card
 __cardiac arrest__ :two::hammer:  
 __cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
+__career suicide__  
 __carefully__ _It pays to consider his words carefully._  
 __caresses__ _v_  
 __caretaker__ :two::hammer: _A caretaker government._  
@@ -6924,7 +6927,7 @@ __judgments__ _Legal judgments._
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice boxes__ :camera:  
-__juice__ _n_ _slang_ :two: Energy, power.  
+__juice__ _n_ _slang_ :three: Energy, power.  
 __juicy__ :two::hammer:  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::hammer:  
@@ -8370,6 +8373,7 @@ __nightie__ _n_ :two: A woman's nightgown.
 __nightingale__ _n_  
 __nightmarish__ :two::hammer:  
 __nightshirt__ _n_ A long, loose shirt worn in bed.  
+__nightstand__ _n_  
 __nigiri__ _n_  
 __nihilist__ _n_ :two::hammer:  
 __nihilistic__  
@@ -8584,6 +8588,7 @@ __old as the hills__ _idiom_ Someone who is very old.
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __old hat__  
 __Old Hickory bat__  
+__old maid__ _idiom_ An old woman who has never been married or has never had a sexual relationship.  
 __old saying__  
 __Old Sol__  
 __old-timers__ _n_  
@@ -8640,6 +8645,7 @@ __once-over__
 __oncoming__ _The oncoming winter's patterns._  
 __one too many__ _We drank one too many._  
 __one-liner__ :dart: A quick joke or quip; a funny observation.  
+__one-night stand__ _idiom_ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-note__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ :two: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
@@ -8716,7 +8722,7 @@ __out of date__ _idiom_
 __out of hand__  
 __out of order__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sorts__ _v-link phr_ :five: __1__ Somewhat ill. __2__ Grouching; irritable.  
+__out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritable. In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he's been rather out of sorts lately._  
 __out of the blue__  
 __out of the woods__  
 __out of this world__ _idiom_ Extremely good.  
@@ -10086,7 +10092,7 @@ __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v_ :three::hammer:  
 __rampage<sup>2</sup>__ _n_ :five::hammer:  
-__rampant__ :two::hammer:  
+__rampant__ _adj_ :three::hammer:  
 __rampantly__  
 __rampart__ _n_ :three::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ :two::hammer:  
@@ -10859,6 +10865,7 @@ __scalper__ _n_ :four::hammer:
 __scam__ _v_ :four::hammer: (scammed)  
 __scammer__  
 __scamper__ _v_ :four::hammer: (scampered, scampering) _Scampered into the van._  
+__scamster__ _n_ _informal_ One who perpetrates a scam or fraud; a windler.  
 __scant__ _adj_ :seven: Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scantily__ _adv_ :two::hammer: _A scantily clad spider._  
 __scanty__ _adj_  
@@ -11563,7 +11570,7 @@ __sliminess__
 __sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
 __sling<sup>2</sup>__ _v_ To throw or drop something carelessly.  
 __slinger__  
-__slink<sup>1</sup>__ _v_ :two: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
+__slink<sup>1</sup>__ _v_ :three: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
 __slip up<sup>1</sup>__ _v_  
 __slip up<sup>2</sup>__ _n_ :two::hammer: (slip-up)  
@@ -11577,7 +11584,7 @@ __slippery slope__
 __slips__ _Sailboats were rocking in their slips._  
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
-__slit<sup>2</sup>__ _v_ :four::hammer: (slitting) _Slitted door._ _The screen was slit on the back porch door._  
+__slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
 __slither__ _v_  
 __slithering__ :two::hammer:  
 __sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
@@ -11940,6 +11947,7 @@ __spiteful__ _adj_ :three: Showing malicious ill will and a desire to hurt; moti
 __spitting image__  
 __spittle__ _n_ :five::hammer:  
 __spittoon__  
+__splashdown__  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
 __spleen__ _Interned-stoked spleen._  
 __splendor__  
@@ -12150,7 +12158,7 @@ __stationery__
 __statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
-__statutory__ :two::hammer:  
+__statutory__ _adj_ :three::hammer:  
 __staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_  
 __staunchest__ :two::hammer:  
@@ -12357,7 +12365,7 @@ __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team 
 __strip mall__ _n_  
 __stripling__ _n_  
 __strive__ _v_ :five::hammer:  
-__strivers__  
+__striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
 __strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
 __stroke__ _n_ _Stroke of good fortune._  
@@ -12660,6 +12668,7 @@ __take on__ _phr v_ :two: To accept some work or responsibility.
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
+__take someone for granted__ _idiom_ To not show that you are grateful to someone for helping you.  
 __take the high road__ _idiom_ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment.  
 __take through__ _phr v_ To explain something to someone.  
 __take to__ _phr v_ To make a habit of something.  
@@ -13660,6 +13669,7 @@ __upsale__ _n_ (?)
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upscale<sup>2</sup>__ _v_  
 __upscale<sup>3</sup>__ _n_  
+__upsell__ _v_  
 __upselling__ _n_ :two: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
@@ -14094,7 +14104,7 @@ __whiffed__ _v_
 __while__ _v_ :mute:[w~~h~~ile] _To while away the hours drinking vodka._  
 __whim__ _n_  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
-__whimper<sup>2</sup>__ _n_ A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
+__whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whinge__ _v_ _British English_ To keep complaining in an annoying way.  
 __whinnied__ _v_  
 __whip up__ _phr v_ To make food or a meal very quickly and easily.  
@@ -14475,7 +14485,8 @@ __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning th
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
 __zippy__ _?_ _A zippy hit parade._  
 __zit__ _n informal_ A spot on the skin.  
-__zone out__ _phr v_ :two: To lose concentration or become inattentive. To fall asleep.  
+__zone out__ _phr v_ :three: To lose concentration or become inattentive. To fall asleep.  
+__zonk out__ _v_  
 __zonk__ _n_ :two::hammer:  
 __zoom in__ _phr v_ To focus more closely.  
 __zoonotic__ _adj_  
