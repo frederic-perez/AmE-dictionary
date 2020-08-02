@@ -17,6 +17,7 @@
 - __Jim__ A given name or a hypocorism of the given name James and a short form of Jimmy. 
 - __Joy__ A common female given name meaning joy, happiness, joyful.
 - __Kay__ In English-speaking countries, it is usually a feminine name, often a short form of Katherine or one of its variants; but it is also used as a first name in its own right, and also as a masculine name (for example in India, the Netherlands, and Sweden).
+- __Ken__ A masculine given name of Scottish / Scottish Gaelic origin. It is used either as a given name or as a short form of names with the letters "Ken" (like Kenneth, Kenan, Kendrick, Kendall, Kennedy, Mackenzie or Kenson). Ken is also a Japanese name which can have many different meanings depending on the kanji used.
 - __Kev__ A diminutive of the male given name Kevin.
 - __Liz__ A women's name of Hebrew origin, meaning "God's Promise". It is also a short form of Elizabeth, Elisabeth, Lisbeth, Lizanne, Liszbeth, Lizbeth, Lizabeth, Lyzbeth, Lisa, Lizette, and Alyssa.
 - __Meg__ Often a short form of Margaret, Megan, Megumi (Japanese), etc.
@@ -27,8 +28,7 @@
 - __Roy__ Roy is a masculine given name and a family surname with varied origin.
 - __Sam__ A given name or nickname, often used by people named "Samuel," "Samson," and "Samantha", and occasionally used by people named "Salvatore."
 - __Sid__ A nickname deriving from (and hypocorism for) the given name Sidney, Siddhartha, Sidonia, or Sidra, though it is also used by people with other given names.
-- __Sue__ Acommon short form of the following female given names: Susan,
-Susanna/Susannah/Suzanna, Susanne, Suzanne. It is rarely used as a man's name, a notable example being Sue K. Hicks (1895-1980), American jurist, who may have inspired the song "A Boy Named Sue".
+- __Sue__ Acommon short form of the following female given names: Susan, Susanna/Susannah/Suzanna, Susanne, Suzanne. It is rarely used as a man's name, a notable example being Sue K. Hicks (1895-1980), American jurist, who may have inspired the song "A Boy Named Sue".
 - __Tim__ A masculine given name; it can also be used as a short form of Timothy.
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Zig__
