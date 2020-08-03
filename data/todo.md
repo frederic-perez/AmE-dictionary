@@ -1,5 +1,16 @@
 
 
+__aha__  
+__hmm__ _interj_  
+__harebrained__ _adj_ :two::hammer: _A harebrained idea._  
+__postmortem__ _n_  
+__invariably__ _You'll invariably notice it._  
+__shrift__  
+__lofty__ _A lofty professional career._  
+__garrner__ _n_  
+__timepiece__  
+__birdseed__ _n_  
+
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __merriment__ _n_ High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
