@@ -1,27 +1,5 @@
 
 
-__wealth__ _n_ _It creates a wealth of fresh energy._  
-__linchpin__  
-__get closure__ _Get closure on compensation dispute with business partner._  
-__arena__ _n_ _In the professional and personal arenas._  
-__low-tech__ _adj_ _I'm a low-tech type._  
-__crept__ _v_  
-__crevices__ _n_  
-__counter__ _n_ _The list is on your dressing-room counter._  
-__scribles__ _n_  
-__get your act together__  
-
-__paper tablecloth__ _n_  
-__chasm__ _n_  
-__workstation__ _n_ :two::hammer:  
-__swoop__ _n_  
-__ground zero__  
-__retirees__ _n_  
-__stuff__ _v_  
-__swivel__ _n_  
-__packet rat__ _n_ (?)  
-__purge__ _v_  
-
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __merriment__ _n_ High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  

@@ -525,6 +525,7 @@ __archrival__ _n_
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ :two::hammer: _He was one of her most ardent suitors._  
 __arduous__  
+__arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _The pope is an Argentine._  
 __arguably__ :two::hammer:  
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
@@ -2149,7 +2150,7 @@ __charter<sup>1</sup>__ _n_ :two::hammer:
 __charter<sup>2</sup>__ _v_  
 __chartreuse__  
 __chased__ _v_ _A beautiful chased golden bowl._  
-__chasm__ _n_ :eight: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :nine: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
 __chasten__ _v_ Censure severely.  
 __chastened__ :two::hammer:  
@@ -2822,7 +2823,7 @@ __count your blessings__ _idiom_ :four: (count (one's) blessings) To be grateful
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance<sup>1</sup>__ _n_ :three::hammer: _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_  
-__counter__ _n_ _A lot of counter space._ :es: encimera  
+__counter__ _n_ :two::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ :es: encimera  
 __counter-depth fridge__ :camera:  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
 __countered__ _Countered kitchen._  
@@ -2918,7 +2919,8 @@ __credit__ _Presidents don't deserve full credit or blame for the economy's perf
 __creditor__ _n_  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
 __creep somebody out__ _phr v informal_ To make someone feel nervous, uncomfortable, and slightly frightened.  
-__creep__ _n_ _The upward creep._  
+__creep<sup>1</sup>__ _n_ _The upward creep._  
+__creep<sup>2</sup>__ _v_ (crept)  
 __crenelated weir__  
 __creosote__  
 __crepe paper bells__  
@@ -2929,7 +2931,7 @@ __Crescent City__
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
-__crevice__ _n_ :three: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
+__crevice__ _n_ :four: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
 __crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
@@ -5248,7 +5250,7 @@ __get a kick out of (someone or something)__ _idiom_ :five::hammer: _You'll get 
 __get ahold__  
 __get along with__ _idiom_ To have a good relationship with someone.  
 __get away with__  
-__get closure__  
+__get closure__ :two::hammer: _Get closure on compensation dispute with business partner._  
 __get enough__  
 __get in(to) (someone's) pants__ _idiom_ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get looks__ _v_ :two::hammer:  
@@ -5273,6 +5275,7 @@ __get the the green light__ _idiom_ To receive permission to proceed with some a
 __get this show on the road__ _idiom_ To promptly begin or get something started.  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get under someone's skin__ _idiom_  
+__get your act together__  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
 __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
@@ -5633,7 +5636,7 @@ __grope (somebody)__ _v informal_ To touch somebody sexually, especially when th
 __grotesque__ _adj_  
 __ground chuck steak__  
 __ground game__  
-__ground zero__  
+__ground zero__ :two::hammer:  
 __groundbreaker__ _n_ :three::hammer:  
 __Groundhog Day__  
 __groundnut__ _n_  
@@ -7418,7 +7421,7 @@ __limestone__ _n_ :two::hammer:
 __limned__  
 __limo__  
 __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
-__linchpin__ _n_ :five::hammer:  
+__linchpin__ _n_ :six::hammer:  
 __line up__ _v_ :two::hammer:  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -7563,6 +7566,7 @@ __lovelorn__ _adj_ Sad because of an unrequited love.
 __low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
 __low-slung__ _Low-slung school._  
+__low-tech__ _adj_ _I'm a low-tech type._  
 __lowbrow__  
 __lowdown__ _n_ _Slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
 __lowing__ _v_ :two::hammer:  
@@ -8930,7 +8934,7 @@ __pants__ _n_
 __pants-on-fire__  
 __pantsed__ _v_  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
-__paper tablecloth__  
+__paper tablecloth__ _n_ :two::hammer:  
 __paper towel__ :two::hammer: (paper towels)  
 __paperclip__ _n_  
 __paperwork__  
@@ -9477,6 +9481,7 @@ __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electr
 __poacher__ _n_ :three::hammer: (poachers) _A chimpanzee that lost its mother to poachers._  
 __poaching__ :two::hammer: _Poaching has become socially unacceptable._  
 __pocket change__  
+__pocket rat__ _n_ Any of various rodents with cheek pouches.  
 __pocket__ _v_  
 __pockmarked__ :camera::two::hammer: _His pockmarked face._  
 __pockmarket__  
@@ -9895,6 +9900,7 @@ __pups__ _n_
 __purchasable__ _adj_ Capable of being corrupted. _Syn_ bribable, corruptible, venal, dishonest  
 __purée__  
 __puree__ _v_ :three::hammer:  
+__purge__ _v_  
 __purloin__ _v_ :five::hammer: (purloined) _A purloined Indian blanket._  
 __purloiner__ _n_  
 __Purple Hearts__  
@@ -10421,7 +10427,7 @@ __retention__
 __rethoric__  
 __reticular__  
 __retinue__ _n_ :two::hammer: (retinues)  
-__retiree__ _n_ :two::hammer: :es: jubilado  
+__retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :two::hammer:  
 __retracement__  
@@ -10954,6 +10960,7 @@ __screwball<sup>2</sup>__ _n_
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
 __scribbled__ _v_  
 __scribe__ _n_ :two::hammer: (scribes)  
+__scribles__ _n_  
 __scrimmage<sup>1</sup>__ _n_ :three::hammer:  
 __scrimmage<sup>2</sup>__ _v_  
 __scrimshaw__ _n_ A carving (or engraving) on whalebone, whale ivory, walrus tusk, etc., usually by American whalers.  
@@ -12391,7 +12398,7 @@ __stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury's studded arm
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
 __stuff your face__ _idiom_ To eat a lot of food quickly.  
-__stuff__ _v_ _The Hawkeyes defense stuffed the Wolverines._  
+__stuff__ _v_  
 __stuffer__  
 __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :three::hammer:  
@@ -12596,10 +12603,11 @@ __swish__ _v_ :three::hammer: (swishing) _Swishing the liquid._ _To swish a thre
 __switch__ (twitch?)  
 __switch-blade__ _Switch-blade artists._  
 __swive__ _v_  
+__swivel__ _n_  
 __swiveling__ _v_  
 __swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swoop<sup>1</sup>__ _n_ :seven::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
+__swoop<sup>1</sup>__ _n_ :eight::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
@@ -13998,7 +14006,7 @@ __wayside__ _n_ :two::hammer:
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
 __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
-__wealth__ _n_ :three::dart::hammer: _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
+__wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :four::hammer:  
@@ -14318,6 +14326,7 @@ __workhorse__ _n_ _informal_ A person who works tirelessly, especially at diffic
 __working title__  
 __workmanlike__  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
+__workstation__ _n_ :two::hammer:  
 __worktop__ _The marble effect Formica worktops were burned and scarred._  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
