@@ -45,6 +45,7 @@ __a good turn__ _idiom_ An action that is beneficial to another person in some w
 __a great many__ _idiom_ A very large number of (people, things, etc.).  
 __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
 __a hill of beans__ _idiom_ Something of little or no importance, value, or worth. _For all the congressman's posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
+__a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
@@ -256,6 +257,7 @@ __agronomy__ _n_
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
 __ague__ _n_ :two::hammer: (agues)  
 __ah__  
+__aha__  
 __Aha! moment__  
 __ahead of the curve__ _idiom_ :three:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
@@ -815,7 +817,7 @@ __ballpark figure__ _n_ _idiom_ :two: A rough numerical estimate.
 __ballpark__ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ :two::hammer::mute:[ba~~l~~m]  
-__balmy__ _The air was sweet and balmy._  
+__balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
 __baloney__ _n informal_ (bologna) :two: Nonsense.  
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
@@ -1155,6 +1157,7 @@ __bird dog__ _n_ A gun dog trained to locate or retrieve birds. _I'm going to be
 __bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.  
 __birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
 __birds of the same feather__  
+__birdseed__ _n_ Seeds that you give to birds as food.  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
 __biscuit__ :mute:[bisc~~u~~it]  
@@ -4267,6 +4270,7 @@ __eviscerate__ _v_
 __evolve__ _v_  
 __ewer__ _n_  
 __ewes__ _n_  
+__ex cathedra__ _adj_ _adv_ With the authority derived from one's office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exceed__ _v_  
@@ -5875,7 +5879,7 @@ __hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable l
 __hardware__ _n_  
 __hardwood__ :two::hammer: _The hardwood floor._  
 __hardy__  
-__harebrained__  
+__harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __hares__ _n_  
 __harissa__ :two::hammer:  
 __hark__ _v_ :two::hammer: (harking)  
@@ -6201,6 +6205,7 @@ __hitherto__ _adv_ :three::hammer:
 __HIV__  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __hiya__ _interj_ An informal term of greeting.  
+__hmm__ _interj_  
 __HMOs__  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __ho__  
@@ -6758,6 +6763,7 @@ __intricate__ _adj_ :two::hammer:
 __intuit__ _v_ :three: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
+__invariably__ _You'll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveighed__  
 __inveigle__ _v_ Influence or urge by gentle urging, caressing, or flattering.  
@@ -7498,7 +7504,7 @@ __lodging__
 __lodgings__  
 __loft__ _v_  
 __loftily__  
-__lofty__ _adj_ :six::hammer: _His lofty perch._  
+__lofty__ _adj_ :seven::hammer: _His lofty perch._ _A lofty professional career._  
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone's intelligence.  
 __logjam__ _n_  
 __logorrhea__ _n_  
@@ -7888,7 +7894,7 @@ __mere__ _adj_ :three::hammer: _From mere $200._
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merit__ :two::hammer:  
-__merriment__ _n_ :two:  
+__merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
 __mesh strainer__  
 __mesosphere__  
@@ -7961,6 +7967,7 @@ __minder__ :es: guardaespaldas
 __mindful__  
 __mindset__ _n_  
 __minie balls__  
+__minimoon__ _n_ _informal_ A short break spent together by a newly married couple, typically in advance of a longer vacation to be taken at a later date.  
 __minimus__ _n_ The fifth digit; the little finger or little toe.  
 __minion__ _n_ :two::hammer: (minions)  
 __minnie__ _n_ A mother.  
@@ -8406,6 +8413,7 @@ __no questions asked__
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no way around it__  
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
+__no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
 __no-holds-barred__  
 __no-no__ _n_ _informal_ :nine::hammer:  
 __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
@@ -9584,6 +9592,7 @@ __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the "poster chi
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
 __postmark<sup>2</sup>__ _v_  
+__postmortem__ _n_  
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
@@ -10796,6 +10805,7 @@ __sand spits__
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
 __sandbag__ :two::hammer: (sandbags)  
+__sandcastle__ _n_ :pencil2:  
 __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
 __sandpaper__ _n_  
 __sandpits__ _n_  
@@ -11337,7 +11347,7 @@ __shrew__ _n_ __1__ Any of various small, chiefly insectivorous mammals of the f
 __shriek__ _v_ (shrieked) :two::hammer:  
 __shrieking__  
 __shrieks__  
-__shrift__ _n_ :four::hammer:  
+__shrift__ _n_ :five::hammer:  
 __shrill__ _v_ :six::hammer: _Increasing shrill chorus._ _Crickets shrilled._  
 __shrilly__  
 __shrimp__  
@@ -12339,6 +12349,7 @@ __strapless__ _Strapless black dress._
 __strapped__  
 __strapping__ _Two strapping sons._  
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
+__strawhat__ _adj_ Of or relating to summer dramatic performances.  
 __stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
 __stray<sup>2</sup>__ _adj_ :six::hammer: _A stray word._ _Stray steeples._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
 __stray<sup>3</sup>__ _n_  
@@ -13055,6 +13066,7 @@ __timelessness__ _n_ :es: atemporalidad
 __timeline__  
 __timeliness__  
 __timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
+__timepiece__ _n_ A watch, or a clock.  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_  
 __timetable<sup>2</sup>__ _v_  
@@ -13777,7 +13789,7 @@ __vein__ _Gold vein._
 __Velcro__ _n_  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
-__venal__ _adj_ :two::astonished: Dishonest and ready to do anything in order to get money.  
+__venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order to get money.  
 __venality__  
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :five::hammer: (veneers)  
@@ -14105,6 +14117,7 @@ __whet__ _v_ :nine: (whetted, whetting) __1__ To sharpen (a knife, for example);
 __whether__ :mute:[w~~h~~ether]  
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
+__which way the wind blows__ _idiom_ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I'm waiting to see which way the wind blows._  
 __whickering__  
 __whiff<sup>1</sup>__ _n_ :three::hammer:  
 __whiff<sup>2</sup>__ _v_  

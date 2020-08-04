@@ -1,27 +1,5 @@
 
 
-__aha__  
-__hmm__ _interj_  
-__harebrained__ _adj_ :two::hammer: _A harebrained idea._  
-__postmortem__ _n_  
-__invariably__ _You'll invariably notice it._  
-__shrift__  
-__lofty__ _A lofty professional career._  
-__garrner__ _n_  
-__timepiece__  
-__birdseed__ _n_  
-
-__no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
-__a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
-__merriment__ _n_ High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
-__which way the wind blows__ _idiom_ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I'm waiting to see which way the wind blows._  
-__balmy__ _adj_  
-__sandcastle__ _n_ :pencil2:  
-__strawhat__ _adj_ Of or relating to summer dramatic performances.  
-__minimoon__ _n_ _informal_ A short break spent together by a newly married couple, typically in advance of a longer vacation to be taken at a later date.  
-__venal__ _adj_ Dishonest and ready to do anything in order to get money.  
-__ex cathedra__ _adj_ _adv_ With the authority derived from one's office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
-
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
