@@ -1,5 +1,16 @@
 
 
+__tail end__ _The tail end of the day._  
+__attuned__ (?)  
+__vis-á-vis__  
+__performance__ _n_ _It denigrates your performance considerably._  
+__denigrate__ _v_ _It denigrates your performance considerably._  
+__black belt__  
+__ownright__  
+__elusive__  
+__workaday__ _The workaday world._  
+__discretionary__ _Things to do when you have discretionary time._  
+
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
