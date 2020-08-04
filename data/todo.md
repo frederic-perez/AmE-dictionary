@@ -1,5 +1,17 @@
 
 
+__pic__ _n_ (?)  
+__package peanuts__  
+__water closet__  
+__brash__ _adj_ (?)  
+__whimsical__ _adj_  
+__pincher__ _n_  
+__po-po__ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
+__popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
+__skunk__ _n_  
+__make up one's mind__ _"The time to make up your mind about people is never." -- The Philadelphia Story_  
+
+
 __tail end__ _The tail end of the day._  
 __attuned__ (?)  
 __vis-á-vis__  
