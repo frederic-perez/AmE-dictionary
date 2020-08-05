@@ -1,6 +1,17 @@
 
 
 
+__intuit__ _v_  
+__shipshape__  
+__get around to__ _Dreams and goals I might get around to at some time._  
+__dearth__ _n_  
+__pushback__ _n_  
+__calendared__ _v_ _Get the meeting calendared._  
+__re__ :two::hammer: _Call Zoe re her thoughts on the managers' meeting._  
+__conversely__  
+__stifle__ _v_  
+__placemat__ _n_ (place mat) A mat serving as table linen for an individual place setting.  
+
 
 __all the difference in the world__ _idiom_ The greatest degree of difference that is possible or conceivable. Without the verbs "mean" or "make," it is used to compare two disparate things.  
 __circle the drain__ _idiom_ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
