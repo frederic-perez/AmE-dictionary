@@ -1,5 +1,18 @@
 
 
+
+
+__all the difference in the world__ _idiom_ The greatest degree of difference that is possible or conceivable. Without the verbs "mean" or "make," it is used to compare two disparate things.  
+__circle the drain__ _idiom_ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
+__scattergood__  
+__risible__ _adj_  
+__barrel of laughs__ _idiom_ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
+__declamatory__ _adj_ Ostentatiously lofty in style. _Syn_ bombastic, orotund, tumid, turgid, large _He has a reputation for making bold, declamatory statements._  
+__aficionado__ _n_ A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
+__gut-wrenching__ _idiom_ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one's feelings.  
+__insolence__ _n_ An instance of insolent behavior, treatment, or speech. _Syn_ rudeness, cheek _Sara sassed the teacher and was given detention for her insolence._  
+__demure__ _adj_  
+
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
