@@ -666,7 +666,7 @@ __Attorney General__ :astonished: (Attorneys General) _He discussed with two suc
 __attract__ _v_  
 __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase "chicken soup" the noun adjunct "chicken" modifies the noun "soup".  
 __attrition__ _n_ :six::hammer:  
-__attuned__ _adj_ Familiar with something and able to deal with it in a sensitive way.  
+__attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_  
 __au pair__  
@@ -1171,6 +1171,7 @@ __bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.
 __bivouac__ _v_ :two::astonished::pencil2:  
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
+__black belt__  
 __black gold__  
 __black out__ _v_ :two::hammer: (blacked out)  
 __black powder__  
@@ -1468,7 +1469,7 @@ __Branch Davidians__
 __branch__ _v_ (branched)  
 __brander__  
 __branding iron__ _n_ :camera:  
-__brash__ _adj_ :three: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
+__brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass monkeys__ _idiom_ Very cold weather.  
 __brass__ _n_ _informal_ :three: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She'll be manipulated by the police brass._  
 __brassiere__ _n_  
@@ -3355,6 +3356,7 @@ __dendritic__
 __dengue fever__  
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
+__denigrate__ _v_ _It denigrates your performance considerably._  
 __denizen__ _n_ :four::hammer: (denizens)  
 __denouement__ _n_ :five::hammer:  
 __denoument__  
@@ -3522,6 +3524,7 @@ __discounter__ _n_
 __discouraging__  
 __discourse__  
 __discretion__ _n_  
+__discretionary__ _Things to do when you have discretionary time._  
 __discus__ _n_  
 __disdrometer__  
 __disembodied__ _v_ :two::hammer:  
@@ -4060,7 +4063,7 @@ __elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get m
 __eloquent__  
 __elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
-__elusive__  
+__elusive__ :two::hammer:  
 __Elvis has left the building__ _idiom_ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
@@ -7679,7 +7682,7 @@ __make perfect sense__ _It makes perfect sense._
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
-__make up one's mind__ _idiom_ :two: To make a decision. _Too much love will kill you if you can't make up your mind._  
+__make up one's mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can't make up your mind._ _"The time to make up your mind about people is never." -- The Philadelphia Story_  
 __make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
 __makeover__ _n_  
@@ -8858,6 +8861,7 @@ __owing__ _Owing to the agitation, supplies of certain components have neen disr
 __own goal__ _Mikael Lustig scored an own goal._  
 __own up__  
 __own__ _v_  
+__own right__  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
 __oxymoron__ :mega:  
 __oyster__  
@@ -8872,6 +8876,7 @@ __Pacific Basin__ _Pacific Basin nations._
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package deal__  
+__package peanuts__  
 __package__ _n_ :mega: /păk′ĭj/  
 __padded__ _He leaned back in his padded chair._  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
@@ -9161,6 +9166,7 @@ __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two 
 __perfect storm__ _idiom_ :three: A critical or disastrous situation created by a powerful concurrence of factors.  
 __perfidious__  
 __perfidy__  
+__performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __peril__ _n_ :two::hammer: (perils)  
@@ -9240,6 +9246,7 @@ __physicalize__ _v_ __1__ To express with the body: _physicalize one's emotions.
 __phytoplankton__ _n_  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
+__pic__ _n_ _slang_ __1__ A photograph. __2__ A movie.  
 __picayune<sup>1</sup>__ _adj_  
 __picayune<sup>2</sup>__ _n_ :two::hammer:  
 __pick (one's) nose__ __1__ Literally, to remove nasal mucus (i.e., "boogers") with one's finger. _Tommy! Quit picking your nose, that's a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we're losing so much money—half our staff just stands around picking their noses for most of the day!_  
@@ -9314,7 +9321,7 @@ __pinch-faced__ :two::hammer:
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ :two::hammer: (pinches) _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
-__pincher__ _n_  
+__pincher__ _n_ :two::hammer:  
 __pincushion__  
 __pine (for)__ _v_  
 __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only in movies that people pined for the dead._  
@@ -9484,6 +9491,7 @@ __PMS__ _abbr_ Premenstrual syndrome.
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ :mute:[~~p~~neumonia]  
 __PO__ Parole officer?  
+__po-po__ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po'-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
 __poacher__ _n_ :three::hammer: (poachers) _A chimpanzee that lost its mother to poachers._  
@@ -9554,6 +9562,7 @@ __pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing's pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
 __popcorn__ :es: gotelé?  
+__popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __pops__ _n informal_ :two: Father.  
 __populace__  
@@ -11511,7 +11520,7 @@ __skulduggery__
 __skulk__ _Jessica makes both friends and enemies skulking around in the night._  
 __skulking__  
 __skullcap__  
-__skunk__ _n_  
+__skunk__ _n_ :two::hammer:  
 __skunworks__  
 __sky high__  
 __skyjack__ _v_ To hijack (an aircraft).  
@@ -12670,6 +12679,7 @@ __tad__ _n informal_ :four::hammer:
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tagline__ :two::hammer: _Our big tagline is to help others._  
+__tail end__ _The tail end of the day._  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
@@ -13858,6 +13868,9 @@ __vintner__ _n_
 __vinyasa__ _n_  
 __viper__ _n_ :two::hammer: (vipers)  
 __virtually__ _adv_ :astonished: Practically, almost.  
+__vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
+__vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
+__vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
 __visage__ _n_ __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
@@ -13996,6 +14009,7 @@ __watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your s
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
 __watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._  
 __water buffalo__  
+__water closet__  
 __water cooler__  
 __water down__ _phr v_ :four: To make a liquid weaker by adding water.  
 __water pill__  
@@ -14126,6 +14140,7 @@ __while__ _v_ :mute:[w~~h~~ile] _To while away the hours drinking vodka._
 __whim__ _n_  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
+__whimsical__ _adj_  
 __whinge__ _v_ _British English_ To keep complaining in an annoying way.  
 __whinnied__ _v_  
 __whip up__ _phr v_ To make food or a meal very quickly and easily.  
@@ -14333,7 +14348,7 @@ __work off__ _phr v_ To get rid of something by using physical effort.
 __work on__ _phr v_ :two: To spend time or improving something.  
 __work out__ _phr v_ :two: To find the answer or solution.  
 __work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen's work surface._  
-__workaday__  
+__workaday__ :two::hammer: _The workaday world._  
 __workforce__  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
 __working title__  
