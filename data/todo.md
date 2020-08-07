@@ -1,6 +1,17 @@
 
 
 
+__downright__ _It is downright fun._  
+__gleaned__ _v_  
+__thereof__  
+__accounting__ _n_ _This is an accounting of my experience._  
+__strain__ _n_ _Out of the strain of the doing, into the peace of the done."--Julia Louise Woodruff_  
+__uh-oh__ _My "uh-oh" bell rings._  
+__nightmarish__  
+__galvanize__ _v_  
+__foolproof__  
+__scrunch__  
+
 __however much__ _idiom_ No matter how much.  
 __be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
 __epistolary__ _adj_ Relating to the writing of letters.  
