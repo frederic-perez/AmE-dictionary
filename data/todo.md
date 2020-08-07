@@ -1,5 +1,17 @@
 
 
+
+__uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one's life.  
+__hoot__ _n_ __3__ _informal_ One that is hilariously funny: _"Emmett, that skirt is a hoot!" (Bobbie Ann Mason)._  
+__cohesive__ _adj_ Combining well to form a strong well-organized unit.  
+__toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
+__instill__ _v_  
+__ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
+__besmirch__ _v_  
+__chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
+__chokehold__ _n_ __1__ The act of holding a person's neck across the windpipe, esp from behind using one arm. __2__ Complete power or control: _the chokehold the mob has had on the town._  
+__changeover__ _n_  
+
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __on edge__ _idiom_ Anxious and tense. _Tonight she felt on edge._  
 __iffy__ _I feel a bit iffy._  
