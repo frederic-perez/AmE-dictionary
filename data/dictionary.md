@@ -224,7 +224,7 @@ __afford__ _v_ :two::hammer: _We can't afford it._
 __affordable__ :two::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
 __affront__ _n_ :two::hammer:  
-__aficionado__  
+__aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
 __afield__  
 __afloat__  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
@@ -315,6 +315,7 @@ __all righty__
 __all sizzle and no steak__ _idiom_ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
 __all that jazz__ _idiom_ :two: All that stuff; all that nonsense.  
 __all that said,__  
+__all the difference in the world__ _idiom_ The greatest degree of difference that is possible or conceivable. Without the verbs "mean" or "make," it is used to compare two disparate things.  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-nighters__ _n_  
 __all-out__ _All-out military battle._  
@@ -874,6 +875,7 @@ __barrage<sup>2</sup>__ _v_
 __barre__  
 __barrel bombs__  
 __barrel of laugh__ _idiom_ :two: Someone who is very funny.  
+__barrel of laughs__ _idiom_ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
 __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank's barrel._  
 __barrel<sup>2</sup>__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
@@ -1837,6 +1839,7 @@ __cake-and-punch__ _The cake-and-punch reception._
 __cakewalk__  
 __calamity__  
 __calendar girl__  
+__calendared__ _v_ _Get the meeting calendared._  
 __calf__ _n_ :two::hammer::mute:[ca~~l~~f]  
 __caliber__ _n_  
 __calico__ :two::hammer: _A plain calico coat._  
@@ -2302,6 +2305,7 @@ __cineplex__ _Sequels ruled the cineplex this weekend._
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ _idiom_ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __cipher<sup>2</sup>__ _v_ _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
+__circle the drain__ _idiom_ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
 __circuit__ :mute:[circ~~u~~it]  
 __circumambulate__ :pencil2:  
 __circumcircle__  
@@ -2725,7 +2729,7 @@ __convection__ _n_
 __convective__ _Convective cloud._  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
-__conversely__  
+__conversely__ :two::hammer:  
 __convertible__  
 __convey__ _v_ :two::hammer: (conveyed)  
 __conviction__ _n_  
@@ -3223,7 +3227,7 @@ __deafening__ _adj_
 __dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
-__dearth__ _n_ :four::dart::hammer:  
+__dearth__ _n_ :five::dart::hammer:  
 __deathless__  
 __debacle__ :two::hammer:  
 __debasing__ _v_  
@@ -3252,6 +3256,7 @@ __deck railing__
 __deck<sup>1</sup>__ _n informal_ The ground or floor.  
 __deck<sup>2</sup>__ _v_ :four::hammer: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
+__declamatory__ _adj_ Ostentatiously lofty in style. _Syn_ bombastic, orotund, tumid, turgid, large _He has a reputation for making bold, declamatory statements._  
 __decline__ _n_  
 __declutter__ _v_  
 __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommissioning process._  
@@ -3348,7 +3353,7 @@ __demonstrate__ :pencil2:
 __demonstration__ _n_  
 __demonstrators__  
 __demur__ _v_ (demurred) :four::hammer: (demurred)  
-__demure__ _adj_ :two::hammer:  
+__demure__ _adj_ :three::hammer:  
 __demurely__ _adv_ :three::hammer:  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dendrites__ _n_ :two::hammer:  
@@ -5256,6 +5261,7 @@ __get a jump__ _Get a jump on things._
 __get a kick out of (someone or something)__ _idiom_ :five::hammer: _You'll get a kick out of this!_  
 __get ahold__  
 __get along with__ _idiom_ To have a good relationship with someone.  
+__get around to__ _Dreams and goals I might get around to at some time._  
 __get away with__  
 __get closure__ :two::hammer: _Get closure on compensation dispute with business partner._  
 __get enough__  
@@ -5743,6 +5749,7 @@ __gusto__ :two::hammer:
 __gut feeling__ _idiom_ An intuition, an instinctive feeling about something.  
 __gut__ _v_ _Trump could gut the agency's budget._  
 __gut-bucket__ _A gut-bucket string band._  
+__gut-wrenching__ _idiom_ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one's feelings.  
 __guts__ _n_ _slang_ Courage.  
 __gutsy__  
 __gutted__ _adj_ _informal_ Disappointed and upset.  
@@ -6721,6 +6728,7 @@ __insidious__
 __insipid__  
 __insofar__ _adv_ :two: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
 __insolation__  
+__insolence__ _n_ An instance of insolent behavior, treatment, or speech. _Syn_ rudeness, cheek _Sara sassed the teacher and was given detention for her insolence._  
 __insolent__ _adj_  
 __insolvency__  
 __insomniac__ _n_  
@@ -6763,7 +6771,7 @@ __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from eu
 __intramural__  
 __intricacies__ :two::hammer:  
 __intricate__ _adj_ :two::hammer:  
-__intuit__ _v_ :three: To know or understand by intuition.  
+__intuit__ _v_ :four: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
 __invariably__ _You'll invariably notice it._  
@@ -8859,9 +8867,9 @@ __overwrought__ _adj_ :two::hammer: _Overwrought adults_
 __overzealous__ _n_  
 __owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
 __own goal__ _Mikael Lustig scored an own goal._  
+__own right__  
 __own up__  
 __own__ _v_  
-__own right__  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
 __oxymoron__ :mega:  
 __oyster__  
@@ -9389,7 +9397,7 @@ __place holder__ :two::hammer:
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
 __placeholder__ _n_ :two::hammer:  
-__placemats__ _n_  
+__placemat__ _n_ :two: (place mat, placemats) A mat serving as table linen for an individual place setting.  
 __placid__  
 __placket__  
 __plague<sup>1</sup__ _n_  
@@ -9934,6 +9942,7 @@ __push back__ _phr v_
 __push puppet__ _n_ :camera:  
 __push<sup>1</sup>__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
 __push<sup>2</sup>__ _n_  
+__pushback__ _n_  
 __pushcart__ _A pushcart vendor._  
 __pushing up the daisies__ _idiom_ Dead and buried.  
 __pushover__ _n_ :seven: A pushover is a person who's easy to fool or influence. A substitute teacher who's a pushover is easily convinced that the class usually spends an hour watching music videos. If you're a pushover, you find it hard to deny anyone what they ask for.  
@@ -10205,6 +10214,7 @@ __razor strop__
 __razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
 __razzle-dazzle__ :two::hammer:  
 __razzmatazz__ _n_  
+__re__ :two::hammer: _Call Zoe re her thoughts on the managers' meeting._  
 __reach for the sky__  
 __reach for the stars__ Have high or ambitious aims.  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
@@ -10559,7 +10569,7 @@ __ripple__ _v_ :four::hammer: (rippled)
 __rise from the ashes__ _idiom_ To recover after a serious failure.  
 __rise__ _v_  
 __risers__  
-__risible__  
+__risible__ _adj_ :two::hammer:  
 __rite__ _n_ :two::hammer:  
 __ritzier__  
 __ritziest__ _One of the ritziest restaurants._  
@@ -10905,7 +10915,7 @@ __scarper__ _n_ A hasty departure.
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
-__scattergood__ _n_  
+__scattergood__ _n_ :two::hammer:  
 __scattershot__ :two::hammer:  
 __scenario__ :mute:[s~~c~~enario]  
 __scene__ :mute:[s~~c~~ene]  
@@ -11262,7 +11272,7 @@ __shiner__ _He answered the door with a shiner on one eye from a wrestling match
 __shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster  
 __shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
 __shipborne__ _Airborne and shipborne measured platforms._  
-__shipshape__ _adj_ Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
+__shipshape__ _adj_ :two: Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
 __shipyard__ :two::hammer:  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
