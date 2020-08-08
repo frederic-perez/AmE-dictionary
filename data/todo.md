@@ -1,29 +1,5 @@
 
 
-
-__downright__ _It is downright fun._  
-__gleaned__ _v_  
-__thereof__  
-__accounting__ _n_ _This is an accounting of my experience._  
-__strain__ _n_ _Out of the strain of the doing, into the peace of the done."--Julia Louise Woodruff_  
-__uh-oh__ _My "uh-oh" bell rings._  
-__nightmarish__  
-__galvanize__ _v_  
-__foolproof__  
-__scrunch__  
-
-__however much__ _idiom_ No matter how much.  
-__be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
-__epistolary__ _adj_ Relating to the writing of letters.  
-__anfractuous__ _adj_  
-__coffers__ _n_ Financial resources; funds.  
-__Humpty Dumptyism__ _idiom_ The act or practice of misusing or misinterpreting a word, phrase, or article of text to suit one's own meaning or purpose. Taken from the character Humpty Dumpty in Lewis Carroll's Through the Looking-Glass, who states, "When I use a word it means just what I choose it to mean."  
-__dither__ _n_ :mega: A state of indecisive agitation.  
-__furbish__ _v_  
-__prickle__ _n_  
-__finery__ _n_ Beautiful clothes and jewelry, especially the type that people wear only on special occasions.  
-
-
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one's life.  
 __hoot__ _n_ __3__ _informal_ One that is hilariously funny: _"Emmett, that skirt is a hoot!" (Bobbie Ann Mason)._  
 __cohesive__ _adj_ Combining well to form a strong well-organized unit.  
