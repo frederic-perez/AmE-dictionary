@@ -1,6 +1,17 @@
 
 
 
+__untoward__ _adj_  
+__higgledy-piggledy__  
+__catastrophe__ _n_  
+__loathe__ _v_ To dislike someone or something very much.  
+__loath__ _adj_ Very unwilling to do something.  
+__hustle (one's) bustle__ _idiom_ To increase one's pace or sense of urgency; to hurry up; to get moving quickly.  
+__circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
+__rife__ _adj_  
+__dissimulate__ _v_ :pencil2:  
+__woohoo__ _interj_ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
+
 __tee-hee__  
 __beguiling__ _adj_ Agreeably or charmingly attractive or pleasing.  
 __eggcorn__ _n_  
