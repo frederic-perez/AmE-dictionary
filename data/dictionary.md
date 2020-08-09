@@ -2033,6 +2033,7 @@ __catamounts__
 __catapulted__ _v_  
 __cataract__ _n_ :es: cataratas  
 __catarrh__ :two::hammer::pencil2:  
+__catastrophe__ _n_  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __catcall__ _v_  
 __catcalling__ _Some catcalling builders shouted abuse at him._  
@@ -2312,6 +2313,7 @@ __circle the drain__ _idiom_ To be in a state of severe deterioration such that 
 __circuit__ :mute:[circ~~u~~it]  
 __circumambulate__ :pencil2:  
 __circumcircle__  
+__circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumsphere__  
 __cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
@@ -2630,7 +2632,7 @@ __conch__ _A conch farm._
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ :two::hammer:  
-__concomitant__ _adj_ :three::hammer:  
+__concomitant__ _adj_ :four::hammer:  
 __concourse__ _n_ :five::hammer:  
 __concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
@@ -2692,7 +2694,7 @@ __constituency__ _n_ :six::hammer: (constituencies)
 __constituent__ _n_ :six::hammer: (constituents)  
 __constrained__ _adj_  
 __construction paper__ _A heart made of construction paper._  
-__construe__ _v_ :seven::hammer: (construed)  
+__construe__ _v_ :eight::hammer: (construed)  
 __consultee__ _n_  
 __consumable__  
 __consumer electronics__  
@@ -3593,7 +3595,7 @@ __disservice__ _n_ :three::hammer::pencil2:
 __dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_  
 __dissimilarly__  
-__dissimulate__ _v_  
+__dissimulate__ _v_ :two::pencil2::hammer:  
 __dissing__ _v_  
 __dissipate__ _v_  
 __dissipation__  
@@ -3604,7 +3606,7 @@ __dissuaded__
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__ :two::hammer:  
-__distinctly__  
+__distinctly__ :two::hammer:  
 __distraught__  
 __distressed__  
 __disused__  
@@ -5880,7 +5882,7 @@ __hard-core__ :two::hammer: _Hard-core misogyny._ _The department will take a ha
 __hard-line__ _A more hard-line position._  
 __hard-liners__ :two::hammer:  
 __hard-nose__  
-__hard-nosed__ :two::hammer: _Hard-nosed approach._  
+__hard-nosed__ :three::hammer: _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
@@ -6148,6 +6150,7 @@ __hide and seek__ _idiom_ A situation in which one party is constantly evading o
 __hideaway__ _n_  
 __hidebound__ _adj_ :three::hammer:  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
+__higgledy-piggledy__  
 __Higgs boson__ :two::hammer: (popularly known as the "God particle.")  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
@@ -6442,6 +6445,7 @@ __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver
 __husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
+__hustle (one's) bustle__ _idiom_ To increase one's pace or sense of urgency; to hurry up; to get moving quickly.  
 __hustle__ _v_ :three::mute:[hus~~t~~le]:hammer:  
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
@@ -7502,6 +7506,8 @@ __loaf__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you so
 __loafered__  
 __loafers__ _n_ :three::hammer:  
 __loan__ _n_ :two::hammer: (loans)  
+__loath__ _adj_ Very unwilling to do something.  
+__loathe__ _v_ To dislike someone or something very much.  
 __lob__ _v_ :two::hammer:  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
@@ -7666,7 +7672,7 @@ __madness__
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigal__ _n_  
 __madrigals__ _n_ :pencil2:  
-__maelstrom__ _n_ :five::hammer:  
+__maelstrom__ _n_ :six::hammer: _Unproductive maelstrom._  
 __magazine__ _n_ _They were pledged to keep the castle's magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
@@ -8529,7 +8535,7 @@ __nuttily__
 __nuzzled__ _v_  
 __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._  
 __O-line__ (football)  
-__oaf__ _n_ :two::hammer: _Syn_ lout  
+__oaf__ _n_ :three: (oafs) A person regarded as stupid or clumsy. _Syn_ goon, lout  
 __oafish__ :two::hammer:  
 __oars__ _n_ :two::hammer:  
 __oases__ _n_  
@@ -9965,7 +9971,7 @@ __put on a clinic__
 __put on hold__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiiom_ To discuss or plan something together with other people.  
-__put out__ _idiom_  
+__put out__ _idiom_ :two::hammer: _Put out the fires._  
 __put skin__ _Put skin in the game._  
 __put the money where the mouth is__ :two::hammer:  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
@@ -10439,7 +10445,7 @@ __resist<sup>1</sup>__ _v_
 __resist<sup>2</sup>__ _n_ _Water resist wristwatch._  
 __resistance__  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
-__resounding__  
+__resounding__ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_  
 __respite__ _n_ :nine::m: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
@@ -13671,6 +13677,7 @@ __unthawed__ _Unthawed croissant._
 __unthinkable__ _The unthinkable has befallen President._  
 __unticked__ :dart: _Checking an unticked box on my to-do list._  
 __untidy__  
+__untoward__ _adj_  
 __untuck__ _v_  
 __unwarranted__  
 __unwielding__  
@@ -14337,7 +14344,7 @@ __womanizer__ _n_ :three::hammer:
 __womanizing__  
 __womb__ :mute:[wom~~b~~]  
 __women__ _n_ /ˈwɪmɪn/ :mega:  
-__wondrous<sup>1</sup>__ _adj_ :three::hammer:  
+__wondrous<sup>1</sup>__ _adj_ :four::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ :two::hammer: _Wonky details._  
@@ -14349,6 +14356,7 @@ __wood rasp__ _n_
 __woodland__ _n_  
 __woodstove__ _n_  
 __woodwork__ _n_ :two::hammer:  
+__woohoo__ _interj_ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
 __wooly__  
 __woomb__  
 __woozy__ :two::hammer:  

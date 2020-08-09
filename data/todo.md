@@ -1,28 +1,5 @@
 
 
-
-__oafs__ _n_  
-__sputtering__ _v_  
-__put out__ _v_ _Put out the fires._  
-__hard-nosed__ _The hard-nosed day-to-dy world of work._  
-__concomitant__ _adj_  
-__resounding__ _The answer is a resounding yes._  
-__construed__ _v_  
-__wondrous__ _adj_  
-__distinctly__  
-__maelstrom__ _Unproductive maelstrom._  
-
-__untoward__ _adj_  
-__higgledy-piggledy__  
-__catastrophe__ _n_  
-__loathe__ _v_ To dislike someone or something very much.  
-__loath__ _adj_ Very unwilling to do something.  
-__hustle (one's) bustle__ _idiom_ To increase one's pace or sense of urgency; to hurry up; to get moving quickly.  
-__circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
-__rife__ _adj_  
-__dissimulate__ _v_ :pencil2:  
-__woohoo__ _interj_ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
-
 __tee-hee__  
 __beguiling__ _adj_ Agreeably or charmingly attractive or pleasing.  
 __eggcorn__ _n_  
