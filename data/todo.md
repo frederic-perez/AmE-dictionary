@@ -1,6 +1,17 @@
 
 
 
+__oafs__ _n_  
+__sputtering__ _v_  
+__put out__ _v_ _Put out the fires._  
+__hard-nosed__ _The hard-nosed day-to-dy world of work._  
+__concomitant__ _adj_  
+__resounding__ _The answer is a resounding yes._  
+__construed__ _v_  
+__wondrous__ _adj_  
+__distinctly__  
+__maelstrom__ _Unproductive maelstrom._  
+
 __untoward__ _adj_  
 __higgledy-piggledy__  
 __catastrophe__ _n_  
