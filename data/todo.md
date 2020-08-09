@@ -1,5 +1,17 @@
 
 
+
+__tee-hee__  
+__beguiling__ _adj_ Agreeably or charmingly attractive or pleasing.  
+__eggcorn__ _n_  
+__malapropism__ _n_  
+__lordy__ _interj_ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
+__snooty__ _adj_  
+__haggis__ _n_  
+__sweetbreads__ _n_ Edible glands of an animal.  
+__divvy__ _v_  
+__squabble__ _v_ To engage in a bad-tempered argument, often over a trivial matter; bicker.  
+
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one's life.  
 __hoot__ _n_ __3__ _informal_ One that is hilariously funny: _"Emmett, that skirt is a hoot!" (Bobbie Ann Mason)._  
 __cohesive__ _adj_ Combining well to form a strong well-organized unit.  
