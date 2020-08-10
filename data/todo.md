@@ -1,5 +1,16 @@
 
 
+__drudgery__  
+__siege__  
+__anectodally__  
+__demeanor__ _n_  
+__credence__  
+__flustered__  
+__articulate__ _v_  
+__thrust__ _A thrust of cognitive effort._  
+__A-list__ (A-team?)  
+__berth__ _n_  
+
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __on edge__ _idiom_ Anxious and tense. _Tonight she felt on edge._  
 __iffy__ _I feel a bit iffy._  
