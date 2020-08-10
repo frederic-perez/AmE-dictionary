@@ -1008,7 +1008,7 @@ __beggar-thy-neighbor__
 __begrudge__ _v_ :five::hammer: _No one could begrudge her that._  
 __begrudgingly__ :two::hammer:  
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _"to beguile you from the grief of a loss so overwhelming"_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
-__beguiling__ _adj_ :two::hammer: _The Artist has an utterly beguiling purity._  
+__beguiling__ _adj_ :three: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn't get the basics in primary school, they are way behind the eight ball.  
@@ -1084,7 +1084,7 @@ __beseechingly__
 __beseechment__  
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
 __besmeared__ _v_  
-__besmirch__ _v_ :four: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
+__besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besotted__ _adj_ :three::hammer:  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
@@ -2132,6 +2132,7 @@ __Chancellor__
 __chances are__  
 __chandler__  
 __change__ _n_ _There is change in the shower._  
+__changeover__ _n_  
 __chant__ _v_ (vs sing?)  
 __chanticleer__ _n_  
 __chanting__  
@@ -2159,6 +2160,7 @@ __charted__
 __charter__ _Charter schools._  
 __charter<sup>1</sup>__ _n_ :two::hammer:  
 __charter<sup>2</sup>__ _v_  
+__chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
 __chartreuse__  
 __chased__ _v_ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
@@ -2259,6 +2261,7 @@ __choice__ _v_ _Pick your choice._
 __choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
+__chokehold__ _n_ __1__ The act of holding a person's neck across the windpipe, esp from behind using one arm. __2__ Complete power or control: _the chokehold the mob has had on the town._  
 __choker__ _A velvet choker._  
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_  
@@ -2487,7 +2490,7 @@ __cogency__
 __cogent__ _adj_  
 __cognizant__  
 __cogwheel__  
-__cohesive__ :dart::two::hammer: _A more cohesive layout._  
+__cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
 __cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __coif__ _Strange coif._  
 __coiffed__  
@@ -3631,7 +3634,7 @@ __diving__ _v_ _Pogba received a yellow card for diving in the first half of the
 __divisive__ _He is more interested in spouting divisive sound bites._  
 __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
 __divvy up__ _v_  
-__divvy__ _v_  
+__divvy__ _v_ :two::hammer:  
 __dizzy__  
 __DMV__ _abbr_ Department of Motor Vehicles.  
 __do a runner__ _idiom_ To leave a place quickly in order to escape trouble or to avoid paying for something.  
@@ -4025,6 +4028,7 @@ __egg head__ A very studious and academic person.
 __egg roll__  
 __egg white__  
 __egg__ _v_  
+__eggcorn__ _n_  
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egomaniac__  
@@ -5303,6 +5307,7 @@ __get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterize
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __ghastly__ _adj_ :eight::hammer::mute:[g~~h~~astly]  
+__ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
@@ -5786,7 +5791,7 @@ __haemophilia__
 __haft sin__  
 __haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
 __haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
-__haggis__  
+__haggis__ _n_ :two::hammer:  
 __haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
@@ -6329,7 +6334,7 @@ __hoopla__ _n informal_ :three: Unnecessary fuss surrounding something. _The hyp
 __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_  
 __Hoosiers__  
 __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
-__hoot<sup>2</sup>__ _n_ _You know, it's a hell of a hoot._  
+__hoot<sup>2</sup>__ _n_ :two: __3__ _informal_ One that is hilariously funny: _"Emmett, that skirt is a hoot!" (Bobbie Ann Mason)._ _You know, it's a hell of a hoot._  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __Hopi__ _n_  
 __hopped cars__  
@@ -6745,7 +6750,7 @@ __insomniac__ _n_
 __instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
-__instill__ _v_ :five::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
+__instill__ _v_ :six::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
 __instrumental__  
@@ -7575,6 +7580,7 @@ __loped__ _v_
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __loquacious__  
 __loquat__ _n_  
+__lordy__ _interj_ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __Los Angelino__  
 __lose it__ _idiom_  
@@ -7712,7 +7718,7 @@ __makeup game__
 __maki__ _n_  
 __making waves__ :two::hammer:  
 __malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
-__malapropism__ _n_ :two::hammer:  
+__malapropism__ _n_ :three::hammer:  
 __malarkey__ _n_ :dart::four::mega::hammer:  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
@@ -11787,7 +11793,7 @@ __snoodlike__
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
 __snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
-__snooty__ _adj_ :six::hammer:  
+__snooty__ _adj_ :seven::hammer:  
 __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
 __snort__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snorted__ _v_  
@@ -12073,7 +12079,7 @@ __spurted__ _v_
 __sputs__  
 __sputter__ _v_ :nine::m: (sputters, sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__ _adj_  
-__squabble<sup>1</sup>__ _v_ :four::hammer: (squabbling) _A squabbling family._  
+__squabble<sup>1</sup>__ _v_ :five: (squabbling) To engage in a bad-tempered argument, often over a trivial matter; bicker. _A squabbling family._  
 __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
@@ -12621,6 +12627,7 @@ __Sweet 16__ _sports_
 __sweet on someone__ _adj phr_  
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
 __sweet water__ :two::hammer:  
+__sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
 __swell<sup>1</sup>__ _n_ :three::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
 __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
@@ -12842,6 +12849,7 @@ __techie__ _n informal_ :two: (techies) One who studies or is highly interested 
 __Tecnetium__  
 __tedious__  
 __tee up__ _v_  
+__tee-hee__ _interj_ An exclamation of laughter, esp when mocking.  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
 __teem__ _v_  
@@ -13169,6 +13177,7 @@ __toast > French toast__
 __toast marshmallows__ :camera:  
 __toast__ _adj_ :two::hammer: _I'm just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
+__toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
 __toboggan__ _n_  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
@@ -13708,6 +13717,7 @@ __uphill battle__ _idiom_ :two: Something very difficult to do.
 __uphill__ :two::hammer: _An uphill task._ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
+__uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one's life.  
 __uplifting__ _adj_  
 __upmarket__  
 __upped__ _v_  
