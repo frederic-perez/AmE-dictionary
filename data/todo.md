@@ -1,5 +1,16 @@
 
 
+__brutish__ _adj_  
+__gestalt__ _n_  
+__receipt__ _n_ _Expected items pending receipt from other sources._  
+__practitioner__ _GTD practitioner._  
+__weed__ _v_ _Zoe is weeding the garden._  
+__throes__ _n_  
+__holistic__ _My holistic system._  
+__slice and dice__ Rearranging data so that it can be viewed from different perspectives.  
+__granted__  
+__stratovolcano__ _n_  
+
 __drudgery__  
 __siege__  
 __anectodally__  
