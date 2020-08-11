@@ -1,5 +1,16 @@
 
 
+__furrowed__ _v_  
+__fissure vent__ _n_ :three::hammer:  
+__rhyolites__ _n_  
+__livestock__ _n_  
+__pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
+__geyser__ _n_  
+__spout__ _v_  
+__lahar__ _n_ :three:hammer:  
+__Strombolian__ _adj_  
+__spew__ _v_  
+
 __forthright__ _adj_ Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
 __wise guy__ _n_ __1__ A person who is given to making conceited, sardonic, or insolent comments. __2__ _US_ A member of the Mafia.  
 __panache__ _n_  
