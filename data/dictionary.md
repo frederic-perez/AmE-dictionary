@@ -404,7 +404,7 @@ __andirons__
 __anecdotal__ :mega:  
 __anemometer__ _n_ :two::hammer:  
 __anew__ _adv_ :four::hammer:  
-__anfractuous__ _adj_ Full of twists and turns. _Anfractuous cliffs._  
+__anfractuous__ _adj_ :two: Full of twists and turns; tortuous. _An anfractuous path._ _Anfractuous cliffs._  
 __Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.  
 __angle iron__  
 __angle__ _v_  
@@ -1603,7 +1603,7 @@ __brush__ _To brush fires in California._ _The goats cleared brush._
 __brussels sprout__ _n_  
 __brutal__  
 __brutalized__ _v_  
-__brutish__  
+__brutish__ _adj_ :two::hammer:  
 __BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
@@ -5263,6 +5263,7 @@ __Geronimo wire__ :two::hammer:
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
+__gestalt__ _n_  
 __get (one's) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one's ears.  
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
@@ -5380,6 +5381,7 @@ __glinting__ _v_
 __glissade__ _v_  
 __glisten__ :mute:[glis~~t~~en]  
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
+__glitterati__ _pl n_ _informal_ Highly fashionable celebrities.  
 __glitz__  
 __glitzy__  
 __gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
@@ -5416,7 +5418,7 @@ __go awry__ :two::hammer:
 __go back to square one__ _idiom_ To start from the beginning.  
 __go ballistic__ _idiom_ :two::hammer:  
 __go dutch__  
-__go figure__ _idiom_ Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It's a terrible movie and it made $200 million. Go figure!_  
+__go figure__ _idiom_ :two: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It's a terrible movie and it made $200 million. Go figure!_  
 __go for it!__  
 __go great lenghts__  
 __go native__ _You going native on me, Supercop?_  
@@ -5557,6 +5559,7 @@ __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southweste
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
+__granted__  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
@@ -5619,7 +5622,7 @@ __gridlock__
 __grievance__ _n_ :two::hammer:  
 __grievously__  
 __griff__  
-__grifter__ _n_ :two::hammer:  
+__grifter__ _n_ :three: A person who swindles another out of money.  
 __grill (someone) (about something)__ _idiom_ To question or interrogate someone intensely and relentlessly (about something).  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
 __grim__ _adj_ :four::hammer:  
@@ -6278,7 +6281,7 @@ __holdout__ :two::hammer: _A weeklong holdout._
 __holdover__  
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__ _adj_ :six::hammer:  
+__holistic__ _adj_ :seven::hammer: _My holistic system._  
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -8183,6 +8186,7 @@ __mournfully__
 __mouser__ _n_ An animal, especially a cat, that catches mice.  
 __mouth__ _v_  
 __mouth-watering__  
+__mouthful__ _n_ A word or phrase that is very long or hard to pronounce.  
 __mouthguard__  
 __mouthwash__ _n_ :two::hammer: :es: colutorio  
 __move the needle__  
@@ -9260,7 +9264,8 @@ __philosopher__ _n_ _These people we call philosophers. The word comes from two 
 __philtre__  
 __philtrum__  
 __phimosis__ _n_ :mega:  
-__phlebotomy__  
+__phlebotomist__ _n_ A nurse or other health worker trained in drawing venous blood for testing or donation.  
+__phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
 __phlegm__ _n_ :four::hammer:  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
 __photo-op__  
@@ -9668,6 +9673,7 @@ __PR__ _abbr_ _The PR version of my life._
 __practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
 __practical joke__  
 __practice__ _n_ _A pediatrics practice._  
+__practitioner__ _GTD practitioner._  
 __pram suit__ _n_  
 __pram__ _n_ :two::hammer:  
 __prance__ _v_ :eight::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
@@ -9808,7 +9814,7 @@ __progeny__
 __prohibit__  
 __Prohibitionists__  
 __proliferation__ _n_  
-__prolix__ _adj_ Using too many words and therefore boring.  
+__prolix__ _adj_ :two: Using too many words and therefore boring.  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __prominence__  
@@ -10274,7 +10280,7 @@ __recap<sup>1</sup>__ _n informal_ :two::hammer: _The written recap of the meeti
 __recap<sup>2</sup>__ _v informal_ Recapitulate.  
 __recapitulate__ _v_  
 __recede__ _v_  
-__receipt__ :mute:[recei~~p~~t]  
+__receipt__ _n_ :two::mute:[recei~~p~~t]:hammer: _Expected items pending receipt from other sources._  
 __receivership__  
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
@@ -10497,7 +10503,7 @@ __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs at
 __reveling__ :two::hammer:  
 __revelled__ _v_ :two::hammer:  
 __revelling__  
-__revelry__ :two::hammer:  
+__revelry__ _n_ :three: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
 __revered__  
 __reversal of fortune__  
@@ -11606,7 +11612,7 @@ __slender__
 __sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
 __sleuth__ _v informal_ :three: (sleuthing) To act as a detective.  
 __slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
-__slice and dice__ :dart:  
+__slice and dice__ _idiom_ :two: To divide something into many small parts especially to use the result for one's own purposes.  
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
@@ -12386,6 +12392,7 @@ __strap overalls__
 __strapless__ _Strapless black dress._  
 __strapped__  
 __strapping__ _Two strapping sons._  
+__stratovolcano__ _n_  
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
 __strawhat__ _adj_ Of or relating to summer dramatic performances.  
 __stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
@@ -12964,7 +12971,7 @@ __the sky is the limit__ :two::hammer:
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the writing on the wall__  
 __thecracy__  
-__then again__ _idiom_ :eight: From another point of view; on the other hand; on second thought. An opposite possibility. _I think it'll arrive tomorrow; then again, it may not._ _I need a vacation. Then again, so do my coworkers._  
+__then again__ _idiom_ :nine: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
 __theocracy__  
 __theosophy__  
 __there is no denying__  
@@ -13011,7 +13018,7 @@ __thrifty__ _adj_ :two::hammer:
 __thrilling__ _adj_  
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
-__throes__ _n_ :four::hammer:  
+__throes__ _n_ :five::hammer:  
 __thromboembolism__ _n_  
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_  
@@ -14089,7 +14096,7 @@ __Wednesday__ :mega::mute:[we~~d~~nesday] /'wEnzdi, -deI/
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __weed out__ _phr v_ :dart::three: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
-__weed<sup>2</sup>__ _v_ :two::hammer: _It's like weeding a garden._  
+__weed<sup>2</sup>__ _v_ :three::hammer: _It's like weeding a garden._  
 __weedeater__  
 __weeding__ _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __weekend__ _n_  

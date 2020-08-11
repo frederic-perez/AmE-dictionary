@@ -1,29 +1,5 @@
 
 
-__prolix__ _adj_ Using too many words and therefore boring.  
-__glitterati__ _pl n_ _informal_ Highly fashionable celebrities.  
-__revelry__ _n_ A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
-__grifter__ _n_ A person who swindles another out of money.  
-__mouthful__ _n_ A word or phrase that is very long or hard to pronounce.  
-__anfractuous__ _adj_ Full of twists and turns; tortuous. _An anfractuous path._  
-__then again__ _idiom_ From another standpoint; on the other hand: _I need a vacation. Then again, so do my coworkers._  
-__go figure__ _idiom_ Used in the imperative to indicate the unexpectedness or absurdity of something.  
-__phlebotomy__ _n_ (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
-__phlebotomist__ _n_ A nurse or other health worker trained in drawing venous blood for testing or donation.
-  
-
-
-__brutish__ _adj_  
-__gestalt__ _n_  
-__receipt__ _n_ _Expected items pending receipt from other sources._  
-__practitioner__ _GTD practitioner._  
-__weed__ _v_ _Zoe is weeding the garden._  
-__throes__ _n_  
-__holistic__ _My holistic system._  
-__slice and dice__ Rearranging data so that it can be viewed from different perspectives.  
-__granted__  
-__stratovolcano__ _n_  
-
 __drudgery__  
 __siege__  
 __anectodally__  
