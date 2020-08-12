@@ -4668,6 +4668,7 @@ __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clust
 __fish__ _n_ Plural: fish.  
 __fishmonger__ _n_  
 __fissile__ _Fissile material._  
+__fissure vent__ _n_ :three::hammer:  
 __fist-pumper__  
 __fists bumping__  
 __fit like a glove__ _idiom_ To fit perfectly.  
@@ -4963,7 +4964,7 @@ __fort__ A fortified place or position stationed with troops.
 __forte<sup>1</sup>__ _n_ :three::mega: Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
-__forthright__ _adj_ :two: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions.  
+__forthright__ _adj_ :three: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
 __fortified wine__  
 __fortitude__ _n_ :two: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage.  
 __fortnight__  
@@ -5125,7 +5126,7 @@ __furnish__ _v_ :two::hammer: _They were furnished with a wealth of new informat
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
-__furrow<sup>2</sup>__ _v_ _His brow was furrowed._  
+__furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
 __further__  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
@@ -5307,6 +5308,7 @@ __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend fro
 __get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy.  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
+__geyser__ _n_  
 __ghastly__ _adj_ :eight::hammer::mute:[g~~h~~astly]  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ :mute:[g~~h~~etto]  
@@ -6490,6 +6492,7 @@ __ice house__ _Insulated ice houses._
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
 __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
 __ice-slick chain__  
+__icebox__ _n_  
 __icicles__  
 __icing on the cake__ :two::hammer:  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
@@ -6898,7 +6901,7 @@ __jest__
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
 __jet__ _n_ _Low-level jet formation._  
 __jetliners__  
-__jettison__ _v_ :six: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
+__jettison__ _v_ :seven: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
 __jetty__ :two::hammer:  
 __jewelery__ (jewelry)  
 __Jewess__  
@@ -7206,6 +7209,7 @@ __laggard<sup>1</sup>__ _adj_ :four::hammer:
 __laggard<sup>2</sup>__ _n_ :two::hammer:  
 __lagged__  
 __lagoon__ _n_ _The Venetian lagoon._  
+__lahar__ _n_ :three: An avalanche of volcanic water and mud down the slopes of a volcano.  
 __laid back attitude__  
 __laid-back__ _adj_ _idiom_ :seven: Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia's laid back lifestyle._  
 __lain__  
@@ -7502,6 +7506,7 @@ __live wire__
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
+__livestock__ _n_  
 __livid__  
 __living quarters__ _Precatious makeshoft living quarters._  
 __living wills__  
@@ -8277,6 +8282,7 @@ __my hands are tied__ _idiom_ You are not free to behave in the way that you wou
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant's roots forming a symbiotic or parasitic relationship.  
 __myopia__ _n_ :pencil2::two::hammer:  
+__myositis__ _n_  
 __myriad__ _adj_ :three: Very many.  
 __myrrh__ _n_ :pencil2: :es: mirra  
 __myrtle__  
@@ -8958,7 +8964,7 @@ __pan drippings__ :two::hammer:
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
 __panaceas__ _n_  
-__panache__ :two::hammer:  
+__panache__ _n_ :three::hammer:  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
@@ -9073,6 +9079,7 @@ __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His gr
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
 __pathcasting__  
 __pathetic__  
+__pathogenesis__  
 __pathogenic__  
 __pathogens__ _n_  
 __pathography__ _n_  
@@ -9550,6 +9557,8 @@ __pointed questions__
 __pointless__ _adj_  
 __poise__  
 __poke__ _v_  
+__poker face__ _n_ A face lacking any interpretable expression, as that of an expert poker player.  
+__poker-faced__ _adj_ Having a deliberately expressionless face.  
 __poky__ :two::hammer: _Coverage was a little poky._  
 __polarity__ _n_ :mega:  
 __polarizing__  
@@ -10003,6 +10012,7 @@ __pyogenic__ _adj_ :pencil2: Producing pus.
 __pyranometer__ _n_ :four::hammer:  
 __pyres__ _n_  
 __pyrheliometer__ _n_ :two::hammer:  
+__pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __Q__ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __q-tip__  
@@ -10529,6 +10539,7 @@ __rhinosinusitis__ _Chronic rhinosinusitis._
 __rhododendron__ _n_  
 __rhyme__ :mute:[r~~h~~yme]  
 __rhyming__ :pencil2:  
+__rhyolites__ _n_  
 __rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:  
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
@@ -11077,7 +11088,7 @@ __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She 
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
-__secret weapon__ _n_ :four: Something that will help you gain a big advantage over your competitors, that they do not know about.  
+__secret weapon__ _n_ :five: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
 __secular__ :two::hammer:  
@@ -11977,7 +11988,7 @@ __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later
 __spellbound__ _adj_  
 __spendolie__  
 __spent rocket stages__ :camera:  
-__spew__ _v_ :six::hammer: (spewed) _Carbon-spewing coal power plants._  
+__spew__ _v_ :seven::hammer: (spewed) _Carbon-spewing coal power plants._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
 __spiffy__ :two::hammer:  
@@ -12044,7 +12055,7 @@ __spotless__
 __spotlight<sup>1</sup>__ _n_  
 __spotlight<sup>2</sup>__ _v_ :three::hammer:  
 __spotted__ _v_  
-__spout__ _v_ _He is more interested in spouting divisive sound bites._  
+__spout__ _v_ :two::hammer: _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
 __sprawl__ _v_ :four::hammer: (sprawled)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
@@ -12433,6 +12444,7 @@ __strobe lights__ _The Cubs packed up their fog machine and strobe lights._
 __strobe__ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
 __stroke__ _n_ _Stroke of good fortune._  
 __stroll__ _v_  
+__Strombolian__ _adj_  
 __strong accent__  
 __strongman__  
 __struck a nerve__  
@@ -14315,7 +14327,7 @@ __wire-to-wire__ _adj informal_ :three: From start to finish. _He may not have w
 __wiry__ _adj_ :two::hammer: _He's wiry, strong and fast._  
 __Wisconsinites__  
 __wisdom tooth__  
-__wise guy__  
+__wise guy__ _n_ :two: __1__ A person who is given to making conceited, sardonic, or insolent comments. __2__ _US_ A member of the Mafia.  
 __wise up__ _phr v_ To start to understand a situation.  
 __wisecracker__  
 __wisecracks__  
