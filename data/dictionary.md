@@ -1353,7 +1353,7 @@ __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pill
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolt__ _v_ :two::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb__ _v_ :three::mute:[bom~~b~~]:hammer:  
-__bombast__ _n_ :four: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
+__bombast__ _n_ :five: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
 __bombing__ _v_  
 __bombshell__ _n_  
@@ -1788,10 +1788,10 @@ __by and large__ _adv_ :four::hammer: :es: en líneas generales, en general
 __by any chance__ _idiom_ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __by storm__  
-__by the book__  
+__by the book__ _idiom_ :two: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
 __by the same token__  
-__by trade__ _idiom_ :two: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I'm an engineer by trade._  
+__by trade__ _idiom_ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I'm an engineer by trade._  
 __by-the-numbers__ _The boxing sequences are by-the-numbers._  
 __bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
 __bygone__  
@@ -2176,6 +2176,7 @@ __chauffeured__ _v_
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
+__cheat__ _n_  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
 __check in__ _v_  
@@ -3457,6 +3458,7 @@ __die-off__ _n_
 __diecast__  
 __diehard__  
 __differ__ _v_ :two::mega::hammer:  
+__different animal__ _n_ _idiom_ Something different.  
 __diffident__  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digit__ (finger?)  
@@ -3594,7 +3596,8 @@ __dissemble__ _v_ :four::hammer: _Syn_ disguise, cloak, mask, pretend
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :three::hammer:  
-__disservice__ _n_ :three::hammer::pencil2:  
+__disservice<sup>1</sup>__ _n_ :three::hammer::pencil2:  
+__disservice<sup>2</sup>__ _v_  
 __dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_  
 __dissimilarly__  
@@ -4863,7 +4866,7 @@ __folded__ _The American Soccer League folded in 1931._
 __foldout chair__ _n_  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
 __follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
-__follow suit__ _idiom_ :five: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four "suits" (diamonds, hearts, spades, and clubs).  
+__follow suit__ _idiom_ :six: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four "suits" (diamonds, hearts, spades, and clubs).  
 __follow-up__ _n_ :astonished:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __FOMO__  
@@ -6440,7 +6443,7 @@ __hunky-dory__ _adj_ _slang_ :four: Fine, going well. _Aside from that unfortuna
 __huramaki__ _n_  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
-__hurl__ _v_ :nine: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
+__hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurricane lamp__ _n_  
 __hurricane__  
@@ -7353,7 +7356,7 @@ __leg warmer__ _n_
 __legal tack__  
 __legerdemain__ _n_ :four::hammer:  
 __legion__ _The reasons you can't sleep well inflight are legion._  
-__legit__ _adj_ _Slang_ :three: Legitimate.  
+__legit__ _adj_ _Slang_ :four: Legitimate.  
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
@@ -7923,7 +7926,7 @@ __mentees__
 __Mephistopheles__ _n_ (Mephisto)  
 __merc__ :two::hammer:  
 __mercantile__  
-__merch__ _n_ :two::hammer: Merchandaising?  
+__merch__ _n_ :three::hammer: Merchandaising?  
 __merchant__  
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
@@ -8375,7 +8378,7 @@ __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._
 __neophyte__  
 __neorealist__  
 __neoteric__  
-__nepotism__ _n_ :four: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
+__nepotism__ _n_ :five: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerve agent__  
 __nerve__ :two::hammer: _He's got nerve._  
@@ -8431,6 +8434,7 @@ __niladic__
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nine yards__ (the whole nine yards)  
 __nineloss__ ?  
+__ninety-four feet__ :two::hammer: _We played you ninety-four feet._  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
@@ -9494,6 +9498,7 @@ __pliant__ _adj_ :three::hammer: _A pliant young waitress._
 __plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
 __plies__ _v_  
 __plight__ _n_ :six: Tough situation.  
+__plinian__ _adj_  
 __plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :seven::hammer: (plodded, plodding) _Plod to the shower._  
 __plonk__ _v_ (plonked)  
@@ -10613,7 +10618,7 @@ __ritzy__ _adj_
 __rived__ _v_  
 __riven__  
 __river outfitter__  
-__rivulets__ :two::hammer: _Rivulets of blood._  
+__rivulet__ _n_ :three::hammer: (rivulets) _Rivulets of blood._  
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road map__ _n_ :pencil2:  
@@ -11170,6 +11175,7 @@ __sequestration__ _Sequestration of the jury._
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
+__seracs__ _n_  
 __sere__ _The sere terrain._  
 __Serenity Prayer__  
 __serious condition__ _Critical to serious condition, fair condition._  
@@ -11493,7 +11499,7 @@ __Sinai__ _n_ (Mount Sinai) :mega:
 __since forever__  
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven't been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
 __sine die__  
-__sine qua non__ _n_  
+__sine qua non__ _n_ :two: An essential element or condition. _"The perfect cake is the sine qua non of the carefully planned modern wedding" (J.M. Hilary)._  
 __sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
 __sinergy__ _n_ (sinergies)  
 __sinew__ _n_ :seven::hammer: (sinews)  
@@ -12140,7 +12146,7 @@ __St. Bernard__
 __stab__ _n_ :two::hammer:  
 __stable condition__  
 __stable__  
-__staff__ _n_ :astonished: __1__ A stick that some officials carry on formal occasions. __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
+__staff__ _n_ :two::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd's staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
@@ -12395,7 +12401,7 @@ __straining__ _v_ :two::hammer:
 __strains__ _n_ :two::hammer:  
 __strait__  
 __straits__  
-__strand__ _n_ :two::hammer:  
+__strand__ _n_ :three::hammer: _A long strand of rope._  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
 __stranglehold__ _n_ :three::hammer:  
@@ -12471,6 +12477,7 @@ __stuffer__
 __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :three::hammer:  
 __stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
+__stun__ _v_ (stunned)  
 __stun gun__ _n_  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
@@ -14427,7 +14434,7 @@ __wow__ _v_ :two::hammer:
 __wracked__ _v_ :two: (wracked, wracking) Smash or break forcefully.  
 __wraith__ _n_ :two::hammer: _Syn_ ghost  
 __wrangle__ _v_ :two::hammer: (wrangling)  
-__wrap (one's) head around it__ _idiom_ :five: To comprehend something that one considers challenging, confusing, or a foreign concept. _I'm trying to wrap my head around it._  
+__wrap (one's) head around it__ _idiom_ :six: To comprehend something that one considers challenging, confusing, or a foreign concept. _I'm trying to wrap my head around it._  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
 __wrap__ :mute:[~~w~~rap]  
 __wraparound season__  

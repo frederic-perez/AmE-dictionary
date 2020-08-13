@@ -1,27 +1,5 @@
 
 
-__plinian__ _adj_  
-__staff__ _n_ _The shepherd's staff._  
-__seracs__ _n_  
-__stunned__ _v_  
-__strand__ _n_ _A long strand of rope._  
-__hurling__ _v_  
-__ninety-four feet__ :two::hammer: _We played you ninety-four feet._  
-__by trade__ _He was an archaeologist by trade._  
-__follow suit__  
-__bombast__ _n_  
-
-__wrap one's head around it__  
-__legit__  
-__nepotism__  
-__cheat__ _n_  
-__different animal__ _n_ _idiom_ Something different.  
-__disservice__ _v_  
-__by the book__ _idiom_ In a way that strictly adheres to the established rules (as recorded in writing).  
-__sine qua non__ _n_ An essential element or condition. _"The perfect cake is the sine qua non of the carefully planned modern wedding" (J.M. Hilary)._  
-__merch__ _n_  
-__rivulet__ _n_ (rivulets)  
-
 __drudgery__  
 __siege__  
 __anectodally__  
