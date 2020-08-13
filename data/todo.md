@@ -1,5 +1,16 @@
 
 
+__cantankerous__ _adj_  
+__grappling__ _v_ _Students grappling with the same problem._  
+__self-conscious__ _adj_  
+__enliven__ _v_  
+__upslope__ _n_  
+__downslope__ _n_  
+__ringleader__ _n_  
+__gruff__ _adj_  
+__ornery__  
+__alienated__ _adj_  
+
 __coddle__ _v_ Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __ferret__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
