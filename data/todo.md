@@ -1,5 +1,16 @@
 
 
+__coddle__ _v_ Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
+__ferret__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
+__with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
+__malaise__ _n_ __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_  2
+__tome__ _n_ A large heavy book, usually about a serious subject.  
+__esurient__ _adj_  
+__vanquish__ _v_  
+__heavy-footed__ _idiom_ Clumsy, ponderous, or lumbering in gait or tread.  
+__drudge__ _n_ A laborer who is obliged to do menial work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
+__hunt where the ducks are__ _idiom_ To pursue or look for one's objectives, results, or goals in the place where one is most likely to find them.  
+
 __drudgery__  
 __siege__  
 __anectodally__  
