@@ -304,6 +304,7 @@ __alfresco<sup>1</sup>__ _adv_
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
+__alienated__ _adj_ Feeling that you do not belong in a particular society, place, or group.  
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
@@ -1912,7 +1913,7 @@ __cannolis__
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
 __canopy__ _n_ _A dense canopy of snow._  
-__cantankerous__ _adj_ :two: Always complaining or arguing and easily annoyed.  
+__cantankerous__ _adj_ :three: Always complaining or arguing and easily annoyed.  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canted__ _v_ :two::hammer:  
 __canteens__  
@@ -2478,7 +2479,7 @@ __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
-__coddled__ _v_ :three::hammer: _A coddled creature._  
+__coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __code of silence__ _idiom_ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __coerce__ _v_  
@@ -3770,6 +3771,7 @@ __downplay__ _v_ :four::hammer: (downplayed)
 __downpour__ _n_ :seven::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::five::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :two::hammer: (downsides)  
+__downslope__ _n_  
 __downspout__ _n_  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
 __downtime__ _n_ :three::hammer:  
@@ -3874,7 +3876,7 @@ __drover__ _n_ :two::hammer:
 __drowns__ _v_  
 __drub__ _v_  
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
-__drudge<sup>1</sup>__ _n_ A person who does tedious, menial, or unpleasant work.  
+__drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
 __drudgery__ _n_ :four::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
 __drugstore__  
@@ -4163,6 +4165,7 @@ __engross__ _v_ :two::hammer::dart: (engrossed)
 __engulf__ _v_  
 __enjambments__  
 __enjoin__ _v_ (enjoined)  
+__enliven__ _v_  
 __enlivened__  
 __enmity__ _n_ :seven::hammer:  
 __ennui__ _n_ :two::hammer:  
@@ -4257,6 +4260,7 @@ __essential__ _Special K - 8 essential vitamins._
 __essentials__ _n_  
 __established__ _Established 1978._  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
+__esurient__ _adj_  
 __ETA__ _I believe we have an ETA of six days._  
 __etch__ _v_ :three::hammer: (etched)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
@@ -4554,7 +4558,8 @@ __fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho
 __ferny__  
 __ferocious__  
 __ferret out__ _v_  
-__ferret__ _n_ :three::hammer:  
+__ferret<sup>1</sup>__ _n_ :three::hammer:  
+__ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferret-faced__  
 __ferreting out__ _v_  
 __fertil__ :mega:  
@@ -5569,6 +5574,7 @@ __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size 
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapple<sup>2</sup>__ _n_ :two::hammer: _A thin cord hooked to a grapple._  
+__grappling__ _v_ _Students grappling with the same problem._  
 __grapplings__ _n_  
 __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ _idiom_ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
@@ -5695,7 +5701,7 @@ __grudgingly__ _adv_ :three::hammer:
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
 __gruelling__  
-__gruff__ _adj_ :four::hammer:  
+__gruff__ _adj_ :five::hammer:  
 __gruffly__  
 __grumble__ _v_ :six::hammer: (grumbled, grumbling)  
 __grumblings__  
@@ -6079,6 +6085,7 @@ __heavily__ _He was drinking heavily._
 __heavy lifting__ _idiom_ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn't willing to do the heavy lifting._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
+__heavy-footed__ _idiom_ Clumsy, ponderous, or lumbering in gait or tread.  
 __heavy-handed__  
 __heavy-hearted__ _idiom_ Sorrowful; melancholy; depressed.  
 __hecatombs__  
@@ -6440,6 +6447,7 @@ __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk o
 __hunker down__ _v_ Take shelter.  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__ _adj_ _slang_ :four: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
+__hunt where the ducks are__ _idiom_ To pursue or look for one's objectives, results, or goals in the place where one is most likely to find them.  
 __huramaki__ _n_  
 __hurdle__ _n_ :two::hammer:  
 __hurdy-gurdy__  
@@ -7728,7 +7736,7 @@ __makeup date__ _Today's game has been postponed; no makeup date has been snnoun
 __makeup game__  
 __maki__ _n_  
 __making waves__ :two::hammer:  
-__malaise__ _n_ :three::hammer: _Postcolonial malaise._ _The general economic malaise._  
+__malaise__ _n_ :four: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :three::hammer:  
 __malarkey__ _n_ :dart::four::mega::hammer:  
 __malefic__ _adj_ Having or exerting a malignant influence.  
@@ -8752,7 +8760,7 @@ __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer
 __ornament__  
 __ornate__ _n_ :five::hammer:  
 __orneriness__ :two::hammer:  
-__ornery__ :two::hammer:  
+__ornery__ _adj_ :three::hammer:  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
 __orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
 __orphrery__  
@@ -10590,7 +10598,7 @@ __ring up__ _Ringing up sales._
 __ring__ _A narcotics ring._  
 __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._  
 __ringer__ _n_ :two: A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
-__ringleader__  
+__ringleader__ _n_ :two::hammer:  
 __ringlets__  
 __ringmaster__  
 __ringside__ _n_ :two::hammer: _A ringside seat._  
@@ -11132,7 +11140,7 @@ __seldom__ :two::hammer: _People seldom think about their values consciously._
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-assured__ _adj_ :two: Having or showing confidence and poise.  
-__self-conscious__ _adj_ :two::hammer:  
+__self-conscious__ _adj_ :three::hammer:  
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
@@ -12477,8 +12485,8 @@ __stuffer__
 __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :three::hammer:  
 __stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
-__stun__ _v_ (stunned)  
 __stun gun__ _n_  
+__stun__ _v_ (stunned)  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__ _adj_ :five::hammer:  
@@ -13229,6 +13237,7 @@ __tomb__ :mute:[tom~~b~~]
 __tomboy__  
 __tombstone__ _n_  
 __tomcat__  
+__tome__ _n_ A large heavy book, usually about a serious subject.  
 __tomfoolery__ _n_  
 __ton__ _A metric ton._  
 __tone-deaf__ _adj_ :two::hammer:  
@@ -13768,6 +13777,7 @@ __upshot__ _n_ :six::hammer:
 __upside__ _n_ :three::hammer: (advantage?) _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
+__upslope__ _n_  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
@@ -13832,7 +13842,7 @@ __vanilla-flavored__ _He is cautious about every step, to the point of seeming v
 __vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
-__vanquish__ _v_ :five::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vanquish__ _v_ :six::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vantage point__ _n_ :three: A position or place that affords a wide perspective.  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _I'm with a beer smoking on my vape._  
@@ -14354,6 +14364,7 @@ __wistfulness__
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._  
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __with (one's) pants down__ _idiom_ _slang_ In an embarrassing position.  
+__with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
