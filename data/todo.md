@@ -1,5 +1,16 @@
 
 
+__jeering__ _v_  
+__gravitas__ _Darkness suggested gravitas._  
+__whirlwind__ _A whirlwind tour of American universities._  
+__leg up__ _That might give me a leg up._  
+__take the heat__ _I can't take the heat._  
+__dregs__ _n_  
+__why on earth__  
+__pressed khakis__ _A young man with neatly pressed khakis._  
+__handily__ _Hondurans trump Chileans handily._  
+__act up__  
+
 __drudgery__  
 __siege__  
 __anectodally__  
