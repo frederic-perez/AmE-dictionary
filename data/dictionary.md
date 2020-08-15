@@ -153,7 +153,7 @@ __acrophobia__
 __across__ _She is sitting across from you at a coffee shop._  
 __act of Congress__ _idiom_ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
-__act up__ _phr v_ :two: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
+__act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
 __ACT__ A college entrance exam, competitor to the SAT.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
@@ -654,7 +654,7 @@ __atrium__ _n_ :two::hammer:
 __atrocious__  
 __atrocity__  
 __atrophied__ _v_  
-__attaboy__ _idiom_ :two:  
+__attaboy__ _idiom_ :three: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression "that's the boy." _You won the spelling bee? Attaboy!_  
 __attaché case__  
 __attack dog__ _n_  
 __attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
@@ -930,6 +930,7 @@ __be friends__ _I was good friends with her._
 __be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
+__be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be no picnic__ _Looking after four children is no picnic._  
@@ -3820,7 +3821,7 @@ __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. _
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
-__dreg__ _n_ :six::hammer: (often dregs) _Away from the dregs and junkies._ _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
+__dreg__ _n_ :seven::hammer: (often dregs) _Away from the dregs and junkies._ _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
 __drench__ _v_ :four::hammer: (drenched)  
 __drenched__ _adj_  
 __drenches__ _v_  
@@ -4211,7 +4212,7 @@ __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.
 __epaulets__  
 __epee__  
 __ephemeral__  
-__epicurean__  
+__epicurean__ _adj_ :two: Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
 __epilepsy__ _Risks of cerebral palsy and epilepsy._  
 __epiphany__  
@@ -4437,6 +4438,7 @@ __fallow ground__
 __fallow__ :two::hammer:  
 __false friend__  
 __false modesty__ _idiom_ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one's abilities, or one's circumstance so as to encourage others to say the opposite.  
+__falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrepresent, wangle, manipulate, cook _The researcher was tempted to falsify his data in order to secure funding for his study._  
 __falter__ _v_  
 __faltered__ _v_  
 __fame__ _v_  
@@ -4558,9 +4560,9 @@ __fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho
 __ferny__  
 __ferocious__  
 __ferret out__ _v_  
+__ferret-faced__  
 __ferret<sup>1</sup>__ _n_ :three::hammer:  
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
-__ferret-faced__  
 __ferreting out__ _v_  
 __fertil__ :mega:  
 __fervent__  
@@ -5487,6 +5489,7 @@ __God's honest truth__ _idiom_ The absolute, unequivocal truth. (I.e., as if spo
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
 __gofer__ _n_ _slang_  
+__goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __Golden Boot__ _The race for the Golden Boot._  
@@ -5594,7 +5597,7 @@ __gravely__
 __gravesite__  
 __gravestone__  
 __graveyard orbit__  
-__gravitas__ _n_ :two::hammer:  
+__gravitas__ _n_ :three::hammer: _Darkness suggested gravitas._  
 __gravitate__ _v_ :three::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
 __gravy__ _n_ :three::hammer:  
@@ -5848,7 +5851,7 @@ __Han__ A Dutch masculine given name. It can be a short form of Johannes or of H
 __hand blender__ _n_  
 __hand-pick__ _v_ :two::hammer:  
 __handglider__  
-__handily__  
+__handily__ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ :two::hammer:  
 __handkerchief__ :mute:[han~~d~~kerchief]  
 __handoff__  
@@ -6376,6 +6379,7 @@ __hot glue__
 __hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot seat__  
 __hot spring__ _n_  
+__hot tip__ _idiom_ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
 __hot water__ _n_  
 __hot__ _We've got a hot crowd tonight._  
 __hot-button__ :two::hammer: _Hot-button political issues._  
@@ -6389,6 +6393,7 @@ __hounds__ _n_
 __hour__ :mute:[~~h~~our]  
 __hourlong__ _The hourlong meeting._  
 __house > take it to the house__  
+__house cooling party__ _idiom_ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __house husband__ _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __House Speaker__  
@@ -6892,9 +6897,7 @@ __jaywalker__ _n_
 __jaywalking__  
 __jazz up__ _v_  
 __jazzy__  
-__jeered__ _v_ :two::hammer:  
-__jeering__  
-__jeers__  
+__jeered__ _v_ :four::hammer: (jeering)  
 __jeez__ _interj_ Used to express surprise or annoyance.  
 __Jehova's Witness__  
 __jejune__  
@@ -7359,7 +7362,7 @@ __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
 __leeway__ _n_ :five: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
-__leg up__ _Area's 2 reigning congressmen have leg up on funding._  
+__leg up__ :two::hammer:_Area's 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
 __legal tack__  
 __legerdemain__ _n_ :four::hammer:  
@@ -9002,7 +9005,7 @@ __paperwork__
 __pappy__  
 __paprika__ _n_  
 __paradigm__ :mute:[paradi~~g~~m]  
-__paradox__  
+__paradox__ _n_ :two: __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
@@ -9755,6 +9758,7 @@ __President-elect__ _n_ :six::hammer: (also president-elect)
 __press box__ _n_  
 __press on__  
 __press the pocket__  
+__pressed khakis__ _A young man with neatly pressed khakis._  
 __pressure cooker__ _n_  
 __pretense__  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
@@ -9974,7 +9978,7 @@ __purchasable__ _adj_ Capable of being corrupted. _Syn_ bribable, corruptible, v
 __purée__  
 __puree__ _v_ :three::hammer:  
 __purge__ _v_  
-__purloin__ _v_ :five::hammer: (purloined) _A purloined Indian blanket._  
+__purloin__ _v_ :six: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _A hint of purple._  
@@ -12762,6 +12766,7 @@ __take one's cut__ _He was finished taking his cuts in batting practice._
 __take out__ _n_ _Order some Chinese take out._  
 __take over__ _Kyle took over in the first half and finished with 23 points._  
 __take someone for granted__ _idiom_ To not show that you are grateful to someone for helping you.  
+__take the heat__ _I can't take the heat._  
 __take the high road__ _idiom_ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment.  
 __take through__ _phr v_ To explain something to someone.  
 __take to__ _phr v_ To make a habit of something.  
@@ -12967,6 +12972,7 @@ __That being said,__
 __that much__ _I'll tell you that much._  
 __that will be the day__ _idiom_ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that'll be the day!_  
 __that will do__  
+__That-a-boy!__ _exclam._ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
 __that's the breaks__  
 __thaw<sup>1</sup>__ _v_ :five: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
 __thaw<sup>2</sup>__ _n_ :six: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
@@ -14225,6 +14231,7 @@ __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid moti
 __whirl__ :mute:[w~~h~~irl]  
 __whirled__ _v_  
 __whirlpool__ _n_  
+__whirlwind__ _A whirlwind tour of American universities._  
 __whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
 __whirred__ _v_  
 __whirring__ _v_  
@@ -14273,6 +14280,7 @@ __whoopsie__ _n_ :dart: __1__ A piece of excrement, esp one left by a 
 __whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whooshed__ _v_  
 __whorls__ :two::hammer:  
+__why on earth__  
 __Wi-Fi__  
 __wick__ _n_ :three::hammer: _Curiosity is the wick in the candle of learning._ _A wetted wick._  
 __wicked__ _adj_ :two::hammer:  

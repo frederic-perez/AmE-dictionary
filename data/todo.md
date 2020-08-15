@@ -1,27 +1,5 @@
 
 
-__purloin__ _v_ To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
-__attaboy__ _idiom_ (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression "that's the boy." _You won the spelling bee? Attaboy!_  
-__That-a-boy!__ _exclam._ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
-__hot tip__ _idiom_ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
-__falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrepresent, wangle, manipulate, cook _The researcher was tempted to falsify his data in order to secure funding for his study._  
-__paradox__ _n_ __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
-__be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
-__goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
-__house cooling party__ _idiom_ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
-__epicurean__ _adj_ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
-
-__jeering__ _v_  
-__gravitas__ _Darkness suggested gravitas._  
-__whirlwind__ _A whirlwind tour of American universities._  
-__leg up__ _That might give me a leg up._  
-__take the heat__ _I can't take the heat._  
-__dregs__ _n_  
-__why on earth__  
-__pressed khakis__ _A young man with neatly pressed khakis._  
-__handily__ _Hondurans trump Chileans handily._  
-__act up__  
-
 __drudgery__  
 __siege__  
 __anectodally__  
