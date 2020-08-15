@@ -1,5 +1,16 @@
 
 
+__koinonia__  
+__liaison__  
+__disgrunte__ _v_  
+__freshet__ _n_  
+__intimation__ Making known indirectly.  
+__expostulate__ _v_  
+__thistledown__ The mature, silky pappus of a thistle.  
+__kingfisher__ _n_  
+__yaw__ _v_  
+__by hell or high water__ _idiom_ By any means necessary; regardless of any difficulty, problem, or obstacle.  
+
 __litigator__ _n_  
 __panache__ _n_  
 __whit__ _He didn't care a whit for what others thought of him._  
