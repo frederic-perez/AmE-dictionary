@@ -1,28 +1,5 @@
 
 
-__reach out__ _v_ :dart:  
-__plasmapheresis__ _n_  
-__roe__ _n_  
-__plateau__ _v_ (plateaued)  
-__jumpstar<sup>1</sup>__ _n_ Starting an automobile engine that has a weak battery by means of jumper cables to another car. _My battery was dead so I had to get a jumpstart from my neighbor._  
-__jumpstar<sup>1</sup>__ _v_ __1__ Start (a car engine whose battery is dead) by connecting it to another car's battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
-__oh__ _interj_  
-__OD__ _v_  
-__agog__ _adj_  
-__somnambulant__ _adj_  
-
-
-__koinonia__  
-__liaison__  
-__disgrunte__ _v_  
-__freshet__ _n_  
-__intimation__ Making known indirectly.  
-__expostulate__ _v_  
-__thistledown__ The mature, silky pappus of a thistle.  
-__kingfisher__ _n_  
-__yaw__ _v_  
-__by hell or high water__ _idiom_ By any means necessary; regardless of any difficulty, problem, or obstacle.  
-
 __litigator__ _n_  
 __panache__ _n_  
 __whit__ _He didn't care a whit for what others thought of him._  

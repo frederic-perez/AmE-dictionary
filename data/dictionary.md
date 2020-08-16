@@ -251,6 +251,7 @@ __aggravators__ _n_ Bits of hair that whip and whirl loose around the face.
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aghast__ _adj_ :six::hammer:  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
+__agog__ _adj_  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
@@ -1788,6 +1789,7 @@ __by all means,__
 __by and by__  
 __by and large__ _adv_ :four::hammer: :es: en líneas generales, en general  
 __by any chance__ _idiom_ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
+__by hell or high water__ _idiom_ By any means necessary; regardless of any difficulty, problem, or obstacle.  
 __By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __by storm__  
 __by the book__ _idiom_ :two: In a way that strictly adheres to the established rules (as recorded in writing).  
@@ -3550,6 +3552,7 @@ __disenfranchised__
 __disfavor__  
 __disgorge__ _v_  
 __disgorgement__  
+__disgruntle__ _v_ Put into a bad mood or into bad humour.  
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
 __disguise__ :mute:[disg~~u~~ise]  
@@ -4349,7 +4352,7 @@ __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:
 __exploit<sup>2</sup>__ _v_ :mega:  
 __explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __expose__ _v_  
-__expostulate__ _v_  
+__expostulate__ _v_ :two::hammer:  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expound__ _v_  
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government's attempt to expunge dissidents._  
@@ -5046,6 +5049,7 @@ __frenzy__ :two::hammer:
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
 __freshen__ _v_ _Eve was freshening drinks and handing out cigars._  
+__freshet__ _n_ The occurrence of a water flow resulting from sudden rain or melting snow.  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
 __fretful__ :two::hammer:  
@@ -6803,6 +6807,7 @@ __intertwine__
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
 __interviewees__ _n_ :pencil2:  
+__intimation__ Making known indirectly.  
 __into the fold__ _It brought many viewers into the fold._  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
@@ -6999,7 +7004,8 @@ __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the 
 __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
 __jumpers__  
 __jumping jacks__  
-__jumpstart__ _v_ :three::hammer:  
+__jumpstar<sup>1</sup>__ _n_ Starting an automobile engine that has a weak battery by means of jumper cables to another car. _My battery was dead so I had to get a jumpstart from my neighbor._  
+__jumpstar<sup>2</sup>__ _v_ :four: __1__ Start (a car engine whose battery is dead) by connecting it to another car's battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
 __jumpsuit__ _n_ :two::hammer:  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _Conjunction junctions._  
@@ -7107,6 +7113,7 @@ __kindred<sup>2</sup>__ _adj_ :two::hammer:
 __kine__ _n_  
 __king of the hill__  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
+__kingfisher__ _n_  
 __kink__ _n_ :three::hammer (kinks) _I was getting the kinks out._  
 __kinked__ _v_  
 __kinky__  
@@ -7174,6 +7181,7 @@ __KO<sup>1</sup>__ _n_ A knockout in boxing.
 __KO<sup>2</sup>__ _v_ To knock unconscious, especially in a boxing match; knock out.  
 __Kodiak__  
 __koi__ _v_  
+__koinonia__  
 __KOL__ _abbr_ Key opinion leader.  
 __kombucha__ _n_ _Ginger flavor kambucha._  
 __kook__ _n_ _slang_ :two::hammer:  
@@ -7419,7 +7427,7 @@ __lewd__ _adj_ :three::hammer:
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
 __liable__ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ _n_ :three::hammer:  
+__liaison__ _n_ :four::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
@@ -8602,6 +8610,7 @@ __OCD__ :two::hammer: _abbrev_
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __octogenarians__  
 __octoroons__  
+__OD__ _v_  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
 __oddly enough__  
 __oddsmakers__  
@@ -8640,7 +8649,7 @@ __often__ :mute:[of~~t~~en]
 __oftentimes__ :two::hammer:  
 __OG__ Original gangster.  
 __ogle__ _v_ :two::hammer:  
-__oh__ _You went oh for two._  
+__oh__ _interj_ :two::hammer: _You went oh for two._  
 __Ohioans__  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
@@ -9461,12 +9470,14 @@ __plano__ _Plano sunglasses._
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
 __planter__ _My sidewalk planter._  
 __plashed__ _v_  
+__plasmapheresis__ _n_  
 __plaster<sup>1</sup>__ _n_ (band-aid?) :two::hammer:(plasters) _Salves, poultices, and plasters._  
 __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __plasticity__ _n_  
 __plate__ _Baseball_  
-__plateau__  
+__plateau<sup>1</sup>__ _n_  
+__plateau<sup>2</sup>__ _v_ (plateaued)  
 __plating__ _It's your armor plating._  
 __platinum__ _n_ :mega: /ˈplætənəm/  
 __platitude__ _n_ :four::hammer: (platitudes)  
@@ -10270,7 +10281,7 @@ __re__ :two::hammer: _Call Zoe re her thoughts on the managers' meeting._
 __reach for the sky__  
 __reach for the stars__ Have high or ambitious aims.  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
-__reach out__ _v_ :seven::hammer: _Reaching out to prevent aids._  
+__reach out__ _v_ :eight::dart::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
 __read into something__  
 __read it and weep__ _idiom_  
@@ -10653,7 +10664,7 @@ __rocket__ :mega:
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __rodeo__ :mega:  
 __rods__ _A few rods away._  
-__roe__ _A roe deer._  
+__roe__ _n_ :two::hammer: _A roe deer._  
 __roebuck__  
 __roeskin__ _A roeskin belt._  
 __rogue__ :two::hammer: _Rogue behavior._  
@@ -11910,6 +11921,7 @@ __sombreros__
 __someone's hair__ _He built the shop to get his hobby out of his wife's hair._  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
 __somewhat__  
+__somnambulant__ _adj_  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
 __son of a biscuit__  
 __sonny__  
@@ -13032,6 +13044,7 @@ __this and that__
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
 __this time around__ :dart::hammer:  
 __thistle__ :mute:[this~~t~~le]  
+__thistledown__ The mature, silky pappus of a thistle.  
 __thither__ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __thobbing__  
 __thong__ _n_ :two::hammer:  
@@ -14520,7 +14533,7 @@ __yardage__
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarn du jour__  
 __yarn__ _n_ :six::hammer: _Political yarns._ _Nylon yarn._  
-__yawing__ _v_  
+__yaw__ _v_ :two::hammer: (yawing)  
 __yawn__ _n_ _The sound of yawns and crickets._  
 __yawner__ _n_ :two::hammer:  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
