@@ -1,5 +1,16 @@
 
 
+__unfazed__  
+__brass__ _n_ _The military brass._  
+__tonsillitis__ _n_  
+__tonsils__  
+__tumultuous__  
+__bereavement__ :two::hammer:  
+__abattoir__ _n_  
+__clenched fists__  
+__Baptist__ _A Baptist preacher._  
+__parsonage__ _n_  
+
 __parsimonious__ _adj_ __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. __2__ Sparing, restrained.  
 __beholden__ _adj_  
 __midriff__ _n_  
