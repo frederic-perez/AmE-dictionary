@@ -1,5 +1,16 @@
 
 
+__parsimonious__ _adj_ __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. __2__ Sparing, restrained.  
+__beholden__ _adj_  
+__midriff__ _n_  
+__embolden__ _v_  
+__hair-splittingly__ _idiom_ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
+__propriety__  
+__audacity__ _n_ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
+__collusion__ _n_ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
+__gym bunny__ _idiom_ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so.  
+__luminary__  
+
 __litigator__ _n_  
 __panache__ _n_  
 __whit__ _He didn't care a whit for what others thought of him._  
