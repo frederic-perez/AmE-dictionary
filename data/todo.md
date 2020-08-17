@@ -1,5 +1,16 @@
 
 
+__vicious__ _adj_  
+__unscathed__   
+__cussing__ _The cussing preacher._  
+__run-ins__  
+__periwinkle__  
+__heckle__ _v_  
+__gouged__ _v_ _The doctors gouged the brains._  
+__bereaved__ _adj_  
+__myeloid__ _Myeloid leukemia._  
+__thicket__ _The thicket of racist laws._  
+
 __litigator__ _n_  
 __panache__ _n_  
 __whit__ _He didn't care a whit for what others thought of him._  
