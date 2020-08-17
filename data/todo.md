@@ -1,5 +1,17 @@
 
 
+__donnybrook__ _n_  
+__golden__ :astonished: Indicating the fiftieth event of a series.  
+__beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
+__redoubtable__ _adj_ That is to be feared; formidable.  
+__plaudit__ An enthusiastic expression of approval.  
+__backlins__ Backward; back.  
+__sinistrality__ Left-handedness.  
+__de facto__  
+__jubilee__ The celebration of any of certain anniversaries.  
+__vicarious__ Felt or enjoyed through imagined participation in the experience of others.  
+
+
 __vicious__ _adj_  
 __unscathed__   
 __cussing__ _The cussing preacher._  
