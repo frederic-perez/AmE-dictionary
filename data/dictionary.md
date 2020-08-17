@@ -70,7 +70,7 @@ __abashed__ :two::hammer:
 __abasiophilia__ _n_  
 __abate__ _v_ (abating)  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
-__abattoir__ _n_ Slaughterhouse.  
+__abattoir__ _n_ :two: Slaughterhouse.  
 __aberrant__ _adj_  
 __aberration__ _n_  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
@@ -681,7 +681,7 @@ __auburn__
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
 __audacious__ _adj_  
-__audacity__  
+__audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
@@ -850,6 +850,7 @@ __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._
 __bantamweight__ _n_ :two: _Rousey is the women's bantamweight champ._  
 __banter<sup>1</sup>__ _n_ :five::hammer:  
 __banter<sup>2</sup>__ _v_  
+__Baptist__ _A Baptist preacher._  
 __bar top__  
 __BAR__ _BAR man._  
 __barbecue__ _Barbecue sauce._  
@@ -1074,7 +1075,7 @@ __bequeath__ _v_ :eight::hammer; (bequeathed)
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :eight: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereaved__ _v_ :two::hammer:  
-__bereavement__ _n_ :four: State of sorrow over the death or departure of a loved one.  
+__bereavement__ _n_ :six: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_  
 __beret__ :mute:[bere~~t~~]  
@@ -1479,7 +1480,7 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass monkeys__ _idiom_ Very cold weather.  
-__brass__ _n_ _informal_ :three: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She'll be manipulated by the police brass._  
+__brass__ _n_ _informal_ :four: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She'll be manipulated by the police brass._ _The military brass._  
 __brassiere__ _n_  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
@@ -2391,7 +2392,7 @@ __cleft__
 __clemency__  
 __clement__ _adj_  
 __clench__ _n_ :two::hammer:  
-__clenched__  
+__clenched__ _adj_ :two: Closed tightly together. _Clenched fists._  
 __clergy__  
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__ _n_ :two::hammer:  
@@ -2531,7 +2532,7 @@ __collinear__ _adj_ :pencil2:
 __Collins glass__  
 __collocation__ _n_ (collocations)  
 __collude__ _v_  
-__collusion__ _n_ :five::hammer:  
+__collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
 __colonel__ :mega:  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
@@ -4104,7 +4105,7 @@ __embezzlement__ _n_
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embodiment__  
 __embody__ _v_  
-__embolden__  
+__embolden__ _v_ :two::hammer:  
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
 __embroidered__  
@@ -5791,6 +5792,7 @@ __guzzler__ :two::hammer: _Taxing gas guzzlers._
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
 __GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
+__gym bunny__ _idiom_ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so.  
 __gym-rat__ _He's a gym-rat type of guy._  
 __gymkhana__  
 __gyoza__ _n_  
@@ -5823,6 +5825,7 @@ __hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A ha
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
 __hair clippers__ _n_ :camera:  
+__hair-splittingly__ _idiom_ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __hairline__  
 __hairpiece__ _n_  
 __haking__  
@@ -7658,7 +7661,7 @@ __lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
 __luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
-__luminary__ _Hollywood luminaries._  
+__luminary__ :two::hammer: _Hollywood luminaries._  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ :two::hammer: _Lumpy headlights._  
@@ -7984,7 +7987,7 @@ __middle of the road__ _He is a middle of the road singer, and that's a good thi
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ :dart:  
 __midget__ _They both raced midgets with plans to go open-wheel racing._  
-__midriff__ :two::hammer:  
+__midriff__ _n_ :three::hammer:  
 __midsize__  
 __midst__  
 __midswing__  
@@ -9059,11 +9062,11 @@ __parrot__ _v_ To repeat or imitate, especially without understanding.
 __parroting__ _v_  
 __parry__ _v_  
 __parse__ _v_  
-__parsimonious__ _adj_ :two::hammer: _Syn_ stingy, penurious  
+__parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. _Syn_ stingy, penurious __2__ Sparing, restrained.  
 __parsimony__ _n_  
 __parsley__  
 __parsnip__  
-__parsonage__ :pencil2:  
+__parsonage__ _n_ :two::pencil2::hammer:  
 __part company__ _v_  
 __part-time<sup>1</sup>__ _adj_  
 __part-time<sup>2</sup>__ _adv_  
@@ -9875,6 +9878,7 @@ __property owner__ _Watch out for scammers trying to exploit property owners._
 __prophesy__ _v_ (prophesied)  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
+__propriety__  
 __props__ :two::hammer: _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
 __prosaic__  
 __proselytism__ :astonished:  
@@ -13266,7 +13270,8 @@ __tongue__ :mute:[tong~~u~~e]
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonnes__ _n pl_  
 __tonsil__ _n_ _A tonsil infection._  
-__tonsils__  
+__tonsillitis__ _n_  
+__tonsils__ :two::hammer:  
 __tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
 __tony__ _adj informal_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
@@ -13517,6 +13522,7 @@ __tumble__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumble
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
+__tumultuous__  
 __tunnel vision__ :two::hammer:  
 __tuppence__  
 __turgid__ _adj_ :three::hammer:  
@@ -13681,7 +13687,7 @@ __unequivocally__
 __Unesco__ _United Nations Educational, Scientific and Cultural Organization._  
 __unethically__ _He had acted unethically and for that I could never trust him as editor._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
-__unfazed__ _v_ :seven::hammer: _They are unfazed by all fof this._  
+__unfazed__ _v_ :eight::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ :two::hammer:  
