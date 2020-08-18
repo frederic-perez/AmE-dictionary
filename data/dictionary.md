@@ -938,6 +938,7 @@ __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected
 __be no picnic__ _Looking after four children is no picnic._  
 __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
+__beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
@@ -1074,7 +1075,8 @@ __bento__ Boxed meals.
 __bequeath__ _v_ :eight::hammer; (bequeathed)  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :eight: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
-__bereaved__ _v_ :two::hammer:  
+__bereave__ _v_ :two::hammer: (bereaved)  
+__bereaved__ _adj_  
 __bereavement__ _n_ :six: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_  
@@ -3104,7 +3106,7 @@ __curveball__ _informal_ Something which is unexpected, surprising, or disruptiv
 __cushy job__ _idiom_ A job that is easy, stress-free, and/or very well paid.  
 __cushy__ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
-__cuss__ _v_ :six::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
+__cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._ _The cussing preacher._  
 __custard__ _n_ :es: natillas, flan  
 __custody__ _Finally my house returned to my custody._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
@@ -3220,6 +3222,7 @@ __daybeds__ _n_
 __dayglow__  
 __dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
+__de facto__ _adj_  
 __de-escalate__ _v_  
 __DEA__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
@@ -3703,6 +3706,7 @@ __don't tell me it's raining__
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
+__donnybrook__ _n_ A melee; a free-for-all. [After _Donnybrook Fair_, an annual event until 1855 near Dublin.] _Syn_ brawl  
 __donut__ _n_ Variant of doughnut. While doughnut remains more common, both of the spellings are perfectly fine.  
 __doo-dah__  
 __doodad__  
@@ -5502,6 +5506,7 @@ __golden goose__ _idiom_ :two::hammer: A person, thing, or organization that is 
 __golden rule__  
 __golden ticket__ _idiom_ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __golden years__ _idiom_ The years following one's retirement (generally after the age of 65).  
+__golden__ :astonished: Indicating the fiftieth event of a series.  
 __goldenrod__ _n_  
 __goldfinch__ _n_ :es: jilguero  
 __golf widow__ _idiom_ A woman whose husband frequently absents himself from home so as to go and play golf.  
@@ -5554,7 +5559,7 @@ __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young 
 __gospel__ _n_ :es: evangelio  
 __gossipy__ _adj_  
 __gotcha__  
-__gouge__ _v_ :six::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._  
+__gouge__ _v_ :seven::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._  
 __gougers__ _?_ _Transparency helps patients and exposes gougers._  
 __goulash__  
 __gourmand__ _n_ :two: __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink.  
@@ -6100,7 +6105,7 @@ __heavy-handed__
 __heavy-hearted__ _idiom_ Sorrowful; melancholy; depressed.  
 __hecatombs__  
 __heck__ _He's doing a heck of a job._  
-__heckled__ _v_  
+__heckle__ _v_ :two::hammer: (heckled)  
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
@@ -6984,6 +6989,7 @@ __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump o
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__  
 __jubilation__ _n_  
+__jubilee__ The celebration of any of certain anniversaries.  
 __judgment__ _n_ :two::pencil2::hammer:  
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
@@ -8306,6 +8312,7 @@ __my ass__
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant's roots forming a symbiotic or parasitic relationship.  
+__myeloid__ _Myeloid leukemia._  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myositis__ _n_  
 __myriad__ _adj_ :three: Very many.  
@@ -9242,7 +9249,7 @@ __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circu
 __peripheral__  
 __perish__ _v_ To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
 __peristaltic__ _adj_  
-__periwinkles__  
+__periwinkle__ _n_ :two::hammer: (periwinkles)  
 __perjury__ :two::hammer:  
 __perk up__ _idiom_ :two: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __Perkins booth__ _n_  
@@ -9487,7 +9494,7 @@ __platitude__ _n_ :four::hammer: (platitudes)
 __platoon__ _v_ :two::hammer:  
 __platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
-__plaudits__  
+__plaudit__ _n_ :two: (plaudits) An enthusiastic expression of approval.  
 __plausibility__ :pencil2:  
 __plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
@@ -10366,7 +10373,7 @@ __redo__ :two::hammer:
 __redolent__ _adj_ :six::hammer: _His ceremony was redolent with tension._  
 __redos__  
 __redoubt__ :two::hammer:  
-__redoubtable__ _adj_ :three::astonished::hammer:  
+__redoubtable__ _adj_ :four::astonished: That is to be feared; formidable.  
 __redress__ _To seek redress._  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
@@ -10800,7 +10807,7 @@ __run for the hills__ _idiom_
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run the show__  
 __run-and-gun__ _A run-and-gun platform game._  
-__run-in__ :two::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
+__run-in__ :three::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :four: Ordinary, average.  
 __runaway__ :three::hammer: _Bryant was a runaway winner._  
 __runaways__  
@@ -11537,6 +11544,7 @@ __singe__ _v_ :pencil2::three::hammer: (singed)
 __single out__ _v_ :three: To select one from a group and treat differently.  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
 __singletree__ _Singletree plow._  
+__sinistrality__ Left-handedness.  
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
 __sinter__ _v_  
@@ -13034,7 +13042,7 @@ __thespian__ :two::hammer:
 __thick accent__ _Arnold's accent is getting thicker._  
 __thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
 __thick skin__ _idiom_ :two::dart::hammer:  
-__thicket__ _n_ :five::hammer: (thickets)  
+__thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ :mute:[thi~~gh~~]  
 __thin skin__  
@@ -13724,7 +13732,7 @@ __unrestrained__
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
-__unscathed__ _adj_ :five: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unscathed__ _adj_ :six: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unseemly__ _adj_ _Syn_ indecorous  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
 __unsettling__ _adj_ :two: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man's unsettling eyes._  
@@ -13941,8 +13949,8 @@ __vexing__ _adj_ :three::hammer: _Vexing problem._ _It's a vexing topic._
 __viable__ _adj_ :two::hammer:  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicar__  
-__vicarious__  
-__vicious__ _adj_ :five: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
+__vicarious__ _adj_ :two: Felt or enjoyed through imagined participation in the experience of others.  
+__vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__  
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
