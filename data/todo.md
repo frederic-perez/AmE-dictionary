@@ -1,5 +1,17 @@
 
 
+__fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant's fallacious testimony._  
+__henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
+__venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
+__he-man__ _idiom_ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
+__inveigh__ _v_ To protest or complain bitterly or vehemently. _Syn_ rail  
+__foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish _Though not foppish, he appreciated fine clothes._  
+__hell week__ _idiom_ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
+__be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
+__dulcet__ _adj_ __1__ Sweet to the taste. __2__ Pleasing to the ear. __3__ Generally pleasing or agreeable.  
+__braggadocio__ _n_ __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
+
+
 __tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __yarmulke__ _n_ (?)  
 __Dr. Seuss__  
