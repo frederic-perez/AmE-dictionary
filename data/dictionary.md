@@ -227,6 +227,7 @@ __afforestation__ _n_ :pencil2: The process of planting many trees on an area of
 __affront__ _n_ :two::hammer:  
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
 __afield__  
+__afire__ _The Klansmen set the bus afire._  
 __afloat__  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :two::hammer:  
@@ -759,7 +760,7 @@ __backsplash__ _n_ An upright surface or border, as of tile, that protects the w
 __backstop__ _n_ (baseball)  
 __backtrack__ _n_ :two::hammer:  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
-__backwater__ :two::hammer: _An academic backwater._  
+__backwater__ _n_ :three: A place or situation regarded as isolated, stagnant, or backward. _An academic backwater._ _An economic backwater._  
 __backwoods__  
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __bad actor__  
@@ -1248,6 +1249,7 @@ __blithely__ _adv_ :eight: In a joyous manner. _The worst option is to blithely 
 __blitheness__  
 __blither__  
 __blithering__  
+__Blitz__ _n_ _(Historical Terms)_ (the Blitz) The systematic night-time bombing of Britain in 1940–41 by the German Luftwaffe.  
 __blitz<sup>1</sup>__ _n informal_ :five: A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __blitz<sup>2</sup>__ _v_ :two::hammer: (blitzed, blitzing)  
 __blizzard__ _n_ :two::hammer:  
@@ -1530,7 +1532,7 @@ __breed__ _v_ _It can breed suspicion._
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n_ :three::hammer: _Political brethren._  
 __brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
-__briar__ :two::hammer:  
+__briar__ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __brick__ _n_ _basketball_  
@@ -1665,6 +1667,7 @@ __bulldozing__ _v_ _Henry was bulldozing for 201 yards._
 __bullet points__ :three::hammer: _Give me the bullet points._  
 __bulletin__ _n_  
 __bulletproof__ _adj_ _A bulletproof relationship._  
+__bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
 __bullhorn__ :two::hammer:  
 __bullion__  
 __bullpen__ _n_  
@@ -1838,7 +1841,7 @@ __cadence__ _n_ :two::hammer:
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
-__cafeteria__ :mega: (kăf′ĭ-tîr′ē-ə)  
+__cafeteria__ :mega: (kăf���ĭ-tîr′ē-ə)  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
@@ -1878,7 +1881,7 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliopes__  
-__callous<sup>1</sup>__ _adj_ :seven::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
+__callous<sup>1</sup>__ _adj_ :eight::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
 __callow__ _adj_ :four::hammer:  
@@ -3864,7 +3867,7 @@ __drizzled__
 __drizzly__ :two::hammer:  
 __drogue__ _Drogue parachutes._  
 __droit du seigneur__  
-__droll__ _adj_ :five: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._  
+__droll__ _adj_ :six: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._  
 __drone<sup>1</sup>__ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
 __drop (someone or something) like a hot potato__ _idiom_ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
@@ -4521,7 +4524,7 @@ __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-mon
 __fawn<sup>2</sup>__ _v_  
 __fawning__ :two::hammer:  
 __fawningly__  
-__faze__ _v_ :five::hammer: (fazed)  
+__faze__ _v_ :six::hammer: (fazed)  
 __fealty__ :two::hammer:  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearl__ _A fearl youngster._  
@@ -4992,7 +4995,7 @@ __foul language__
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
 __foul__ _Foul language._  
 __foul-ups__  
-__founder__ _v_ :four::hammer: (foundered) _The attempt foundered._ _His plan foundered._  
+__founder__ _v_ :five::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
 __foundries__ _Metal foundries._  
 __foundry__ _n_ :two::hammer: :es: fundición  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
@@ -5568,7 +5571,7 @@ __goy__ _n_ (Often Offensive) A person who is not Jewish.
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
 __gracial pace__ _?_ _At a glacial pace._  
-__gracious__ _adj_ :four::hammer: _He was very gracious._  
+__gracious__ _adj_ :five::hammer: _He was very gracious._  
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
@@ -5734,7 +5737,7 @@ __guffaw__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boister
 __guibble__  
 __guide__ :mute:[g~~u~~ide]  
 __guidet__ _Two guidettes._  
-__guile__ :two::hammer:  
+__guile__ _n_ :three: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
 __guileless__  
 __guillotine__ _n_ :mega:  
 __guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
@@ -7527,7 +7530,7 @@ __lithe__ _adj_ :four::hammer: _A lithe cat._
 __lithotripsy__ _n_ :two: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning "breaking stones".  
 __lithotripter__ _n_  
 __litigation__  
-__litigator__  
+__litigator__ _n_ :two::hammer:  
 __litmus test__ _n_  
 __litter__ _n_ :camera::pencil2:  
 __Little Boy__ _n_  
@@ -7546,9 +7549,9 @@ __llama__
 __llilacs__ _n_  
 __lo and behold__ _idiom_ :two::hammer:  
 __loaded question__  
-__loaf__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
-__loafered__  
-__loafers__ _n_ :three::hammer:  
+__loaf<sup>1</sup>__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
+__loaf<sup>2</sup>__ _v_ :two: (loafed) To pass time at leisure; idle.  
+__loafer__ _n_ :three: (loafers) One who is habitually idle. _Disliked loafers on the job._  
 __loan__ _n_ :two::hammer: (loans)  
 __loath__ _adj_ Very unwilling to do something.  
 __loathe__ _v_ To dislike someone or something very much.  
@@ -7992,6 +7995,7 @@ __midday__ _n_ :two::pencil2::hammer:
 __middle of the road__ _He is a middle of the road singer, and that's a good thing._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ :dart:  
+__middling__ _A middling academic career._  
 __midget__ _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ _n_ :three::hammer:  
 __midsize__  
@@ -8998,7 +9002,7 @@ __pan drippings__ :two::hammer:
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
 __panaceas__ _n_  
-__panache__ _n_ :three::hammer:  
+__panache__ _n_ :four::hammer:  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
@@ -11436,7 +11440,7 @@ __showroom__ _n_
 __showrunner__ _n_ :three::hammer: (show runner)  
 __showstopping__ _A showstopping performance._  
 __showtime__  
-__shrapnel__ _n_ :four: __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ _informal_ :pencil2: Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
+__shrapnel__ _n_ :five: __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ _informal_ :pencil2: Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
 __shred__ _n_ :two::hammer: _A shred of evidence._ _I sat in their place, headed to the front lines of a war without a shred of experience._  
 __shrew__ _n_ __1__ Any of various small, chiefly insectivorous mammals of the family Soricidae, resembling a mouse but having a long pointed snout and small eyes and ears. Also called shrewmouse. :es: musaraña __2__ _pejorative_ A woman regarded as an ill-tempered scold or nag. _Syn_ harridan, harpy, scold, termagant, virago  
 __shriek__ _v_ (shrieked) :two::hammer:  
@@ -11555,6 +11559,7 @@ __Sisyphean__
 __sit in__ _I'm sitting in for Ira Glass._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
+__sit-ins__ _n_  
 __sitdown__ _n_ :two::hammer:  
 __sitter__ _n_  
 __sitting duck__ _n_ _informal_ :two: An easy target or victim.  
@@ -13440,6 +13445,7 @@ __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock t
 __trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._  
 __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
 __trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
+__trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
 __trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle<sup>1</sup>__ _n_ :two::hammer:  
@@ -13459,7 +13465,7 @@ __triplex__ _A triplex penthouse._
 __triptych__  
 __triskelion__ _n_ (triskele)  
 __trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
-__triumvirate__  
+__triumvirate__ _n_ :two::hammer:  
 __trivet__ _n_ :two::mega::hammer:  
 __trodden down__ _v_  
 __trodden__  
@@ -14272,7 +14278,7 @@ __whisper__ :mute:[w~~h~~isper]
 __whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __Whit Sunday__  
-__whit__ _A whit of intelligence._  
+__whit__ :two::hammer: _A whit of intelligence._ _He didn't care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __white line__ (appliances)  
