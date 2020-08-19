@@ -1,5 +1,16 @@
 
 
+__tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
+__yarmulke__ _n_ (?)  
+__Dr. Seuss__  
+__inkling__ _n_  
+__growled__ _v_  
+__lunging__ _v_ _A police dog lunging at a child._  
+__sprawling__ _v_  
+__miasma__ _n_ (?)  
+__blithely__  
+__thumb the nose__ _He has the freedom to thumb his nose at the rules set by others._  
+
 __drudgery__  
 __siege__  
 __anectodally__  
