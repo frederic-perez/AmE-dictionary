@@ -1,5 +1,16 @@
 
 
+__afire__ _The Klansmen set the bus afire._  
+__bullfrog__ (?)  
+__trickster__ (?) _Trickster hero._  
+__guile__  
+__loafed__ _v_  
+__briar__ _Briar patch._  
+__droll__ _A droll sense of humor._  
+__triumvirate__ _n_  
+__gracious__ _adj_  
+__sit-ins__ _n_  
+
 __litigator__ _n_  
 __panache__ _n_  
 __whit__ _He didn't care a whit for what others thought of him._  
