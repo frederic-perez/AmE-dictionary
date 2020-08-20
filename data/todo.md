@@ -1,5 +1,16 @@
 
 
+__frolic__  
+__pram__ _n_  
+__poker__ _n_ (weapon?)  
+__plea__ _n_ _A plea for legitimacy._  
+__sashes__ _n_  
+__bowler hats__  
+__backlash__ _n_ _It leads to backlash._  
+__flippant__  
+__submachine gun__  
+__scullery__  
+
 __drudgery__  
 __siege__  
 __anectodally__  
