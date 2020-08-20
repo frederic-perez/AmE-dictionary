@@ -936,6 +936,7 @@ __be hard hit (by something)__ _idiom_ To be adversely affected (by something) t
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
+__be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
@@ -1245,7 +1246,7 @@ __blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but te
 __blip<sup>2</sup>__ _v_  
 __blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
 __blithe__ _adj_ :six: __1__ Carefree and lighthearted. __2__ Lacking or showing a lack of due concern; casual: _spoke with blithe ignorance of the true situation._  
-__blithely__ _adv_ :eight: In a joyous manner. _The worst option is to blithely add getters and setters._  
+__blithely__ _adv_ :nine: In a joyous manner. _The worst option is to blithely add getters and setters._  
 __blitheness__  
 __blither__  
 __blithering__  
@@ -1469,7 +1470,7 @@ __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a suppo
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _Daily bracketology updates._  
 __brackish__ _Brackish water._  
-__braggadocio__  
+__braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __brain drain__  
 __brainchild__ _n_ :two::hammer:  
 __brainiac__ _Slang_ A highly intelligent person.  
@@ -3795,6 +3796,7 @@ __dowry__ _n_ :four::hammer: :es: dote
 __DOY__ _abbr_ Day of year.  
 __doyenne__  
 __doze__ _v_  
+__Dr. Seuss__ United States writer of children's books (1904-1991).  
 __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __Draconian__ _adj_  
@@ -3925,7 +3927,7 @@ __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duff
 __duffle bag__ :camera:  
 __dug__ _n_  
 __dugout__ :two::hammer:  
-__dulcet__ _adj_ :two::hammer: _Dulcet icing._  
+__dulcet__ _adj_ :three: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. __3__ Generally pleasing or agreeable.  
 __dulcimers__ _n_  
 __dull__ _adj_ :two::hammer: _Never a dull moment._  
 __dullard__  
@@ -4440,6 +4442,7 @@ __fall out of love__
 __fall out__ _idiom_ :dart: __5__ To have one's relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they're not talking to each other at all._  
 __fall over__ _v_  
 __fall short__ _idiom_ :seven: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._  
+__fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant's fallacious testimony._  
 __fallacy__ _n_ :four::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
 __fallible__ _adj_ :three::mega::hammer: _Managers are as fallible as the rest of us._  
@@ -4911,6 +4914,7 @@ __foothold__ _A foothold._
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footloose__ :pencil2:  
 __footwork__ _n_ :two::hammer:  
+__foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish _Though not foppish, he appreciated fine clothes._  
 __for a bit__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for all seasons__ :two::hammer:  
@@ -5706,7 +5710,7 @@ __grove__ _n_ :two::hammer:
 __grovel__ _v_ :three::hammer: (groveling)  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
-__growl<sup>2</sup>__ _v_ :four::hammer: (growled, growling)  
+__growl<sup>2</sup>__ _v_ :five::hammer: (growled, growling)  
 __grown-up<sup>1</sup>__ _adj_  
 __grown-up<sup>2</sup>__ _n_  
 __grub__ _n_ _slang_ :three: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
@@ -6050,6 +6054,7 @@ __hazel__
 __hazing__ _The college hazing policy._  
 __hazmat suit__  
 __HDL-C__ _abbr_ High-density-lipoprotein cholesterol.  
+__he-man__ _idiom_ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head over heels__ _idiom_ :three: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
@@ -6139,6 +6144,7 @@ __heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._
 __heliograph__  
 __helipad__ :two::hammer:  
 __heliport__  
+__hell week__ _idiom_ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
@@ -6156,6 +6162,7 @@ __hemming__
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :seven::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
+__henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :eight::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __herdsman__ _n_  
@@ -6755,7 +6762,7 @@ __initiative__
 __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
-__inkling__ _n_ :four::hammer:  
+__inkling__ _n_ :five::hammer:  
 __inland__ :two::hammer:  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
@@ -6829,7 +6836,7 @@ __inured__ _v_ :two::hammer:
 __inurnment__  
 __invariably__ _You'll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
-__inveighed__  
+__inveigh__ _v_ :two: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ Influence or urge by gentle urging, caressing, or flattering.  
 __inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
 __invoice__ _v_  
@@ -7679,7 +7686,7 @@ __lunch lady__ _She worked as a lunch lady._
 __luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
-__lunge<sup>1</sup>__ _v_ :five::hammer: (lunges, lunged) _A bull lunges into the pen._  
+__lunge<sup>1</sup>__ _v_ :six::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._  
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
@@ -7988,6 +7995,7 @@ __metronome__
 __mettle__ _n_ :seven::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
 __MIA__ Missing in Action.  
+__miasma__ _n_  
 __mick__ _n_ :three::hammer:  
 __mid-afternoon__  
 __midafternoon__  
@@ -12104,7 +12112,7 @@ __spotlight<sup>2</sup>__ _v_ :three::hammer:
 __spotted__ _v_  
 __spout__ _v_ :two::hammer: _He is more interested in spouting divisive sound bites._  
 __sprained__ _v_ :five::hammer: _A sprained thumb._  
-__sprawl__ _v_ :four::hammer: (sprawled)  
+__sprawl__ _v_ :five::hammer: (sprawled, sprawling)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
 __spreading hairs__ (?)  
@@ -13113,6 +13121,7 @@ __thud<sup>1</sup>__ _n_ :two::hammer:
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ _n_ :three: A tough and violent man, esp a criminal.  
 __thumb tacks__  
+__thumb the nose__ _He has the freedom to thumb his nose at the rules set by others._  
 __thumb war__  
 __thumb__ _v_ :three::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
 __thumbnail__ _Here's a thumbnail of the story._  
@@ -13198,6 +13207,7 @@ __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background
 __tinkling__ _n_ :two::hammer:  
 __tip off__ _v_ _idiom_ :three: (tip-off) To secretly inform the police or authorities.  
 __tip over__ _v_ :three::hammer:  
+__tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
 __tipoff__ _n_ :two::hammer: (tip-off)  
 __tipple__ _v_ :five::hammer: (tippled)  
@@ -13913,6 +13923,7 @@ __venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order 
 __venality__  
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :five::hammer: (veneers)  
+__venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
 __venial__ _adj_  
 __venison__ _n_ :four::hammer:  
 __Venn__ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
@@ -14551,6 +14562,7 @@ __yap<sup>1</sup>__ _v_ :three::hammer: (yapping) _The dog was yapping._ _Podcas
 __yap<sup>2</sup>__ _n_ Mouth.  
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
+__yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  
 __yarn du jour__  
 __yarn__ _n_ :six::hammer: _Political yarns._ _Nylon yarn._  
 __yaw__ _v_ :two::hammer: (yawing)  
