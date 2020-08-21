@@ -1,5 +1,16 @@
 
 
+__rarer than hens' teeth__ _idiom_ Incredibly scarce or rare; extremely difficult or impossible to find.  
+__subterfuge__ _n_ Subterfuge contains the Latin prefix _subter-_, meaning "secretly," which derives from the adverb _subter_, meaning "underneath." The _-fuge_ portion comes from the Latin verb _fugere_, which means "to flee." __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
+__spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
+__cat’s-paw__ A person used to serve the purposes of another; tool.  
+__shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
+__antler__ _n_  
+__hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
+__how's life (treating you)?__ _idiom_ How are you? How is everything in your life? (Said as an informal greeting.)  
+__exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
+__profligate__  
+
 __settee__ _n_ _Shaving tackle on the settee._  
 __ditty__ _n_ :three::hammer:  
 __gripped__ _v_ _The disappearance had gripped the city._  
