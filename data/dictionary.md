@@ -117,7 +117,7 @@ __accompany__ _v_
 __accomplice__  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
 __according to plan__ :two::hammer: _If everything goes according to plan._  
-__accost__ _v_  
+__accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ :es: contable  
@@ -750,7 +750,7 @@ __backcountry__ _n_ _Utah ski resorts offering backcountry adventures._
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
-__backlash<sup>1</sup>__ _n_ :four::hammer:  
+__backlash<sup>1</sup>__ _n_ :five::hammer: _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
 __backlog__ _n_ :six: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
@@ -974,7 +974,7 @@ __bedding__ _n_ Bedclothes. _A bedding brand._
 __bedeck__ _v_ (bedecked)  
 __bedevil__ _v_ :five: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
-__bedlam__ :two::hammer:  
+__bedlam__ _n_ :three: Scene of loud confusion.  
 __Bedouin__  
 __bedpan__ _n_  
 __bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or injured persons).  
@@ -1456,6 +1456,7 @@ __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant ma
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
+__bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
 __bowling alley__ _n_ :two: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
 __box score__  
 __box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
@@ -1600,6 +1601,7 @@ __broth__
 __brothers in arms__  
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
+__browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __brown shirt__ _n_ Soldiers in Hitler's storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
 __Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
@@ -4802,7 +4804,7 @@ __flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. _
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
-__flippant__ _adj_ :three::hammer:  
+__flippant__ _adj_ :four::hammer:  
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__ :two::hammer:  
@@ -5084,7 +5086,7 @@ __fritters__ _Corn fritters._
 __frizzled__ _Frizzled beard._  
 __frock__  
 __frogman__ _n_  
-__frolic<sup>1</sup>__ _n_ :three::hammer:  
+__frolic<sup>1</sup>__ _n_ :four::hammer:  
 __frolic<sup>2</sup>__ _v_ :two::hammer: (frolicked)  
 __from a mile away__ _idiom_ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from afar__  
@@ -6244,6 +6246,7 @@ __histamine__ _n_
 __historic__ _adj_  
 __historical__ _adj_  
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
+__hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit and miss__  
 __hit man__  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
@@ -6392,6 +6395,7 @@ __horseradish__ _n_ :two::hammer:
 __horseshit__ _n_ _That's like horseshit squared!_  
 __horseshoe__ :two::hammer: (horseshoes)  
 __horsetails__ _n_  
+__hortatory__ _adj_ Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hoss__  
@@ -8398,6 +8402,7 @@ __naysayer__ _n_ :two::hammer:
 __NB__  
 __NCO__  
 __NDA__ _abbr_  
+__ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That's a neat idea, Jupe._  
 __necessary__ :mega:  
 __necktie__ _n_  
@@ -9529,7 +9534,7 @@ __playpen__ _A portable paypen._
 __playthings__ _n_  
 __playwright__ _n_ :three::hammer:  
 __plea deal__  
-__plea__ _n_ :five::hammer: _A prayerful plea to break free of alcohol._  
+__plea__ _n_ :six::hammer: _A prayerful plea to break free of alcohol._ _A plea for legitimacy._  
 __plead out__  
 __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ (Use it at the end of a request/question.)  
@@ -9607,6 +9612,7 @@ __pointless__ _adj_
 __poise__  
 __poke__ _v_  
 __poker face__ _n_ A face lacking any interpretable expression, as that of an expert poker player.  
+__poker__ _n_ _(Tools)_ A metal rod, usually with a handle, for stirring a fire.  
 __poker-faced__ _adj_ Having a deliberately expressionless face.  
 __poky__ :two::hammer: _Coverage was a little poky._  
 __polarity__ _n_ :mega:  
@@ -9733,9 +9739,10 @@ __practical joke__
 __practice__ _n_ _A pediatrics practice._  
 __practitioner__ _GTD practitioner._  
 __pram suit__ _n_  
-__pram__ _n_ :two::hammer:  
+__pram__ _n_ :three::hammer:  
 __prance__ _v_ :eight::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
-__prattle__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
+__prattle<sup>1</sup>__ _n_  
+__prattle<sup>2</sup>__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
 __prayer wheel__  
@@ -10935,7 +10942,7 @@ __Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting u
 __sarcophagi__ _n_  
 __sarcophagus__ _n_  
 __sartorial__  
-__sash__ _n_ :four::hammer: _A sash cord._ _A sash window._  
+__sash__ _n_ :five::hammer: (sashes) :es: banda _A sash cord._ _A sash window._  
 __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
 __sashimi__ _n_  
 __sass back__ _idiom_ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between "sass" and "back." _Don't you dare sass me back like that, son, or I'll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
@@ -11104,6 +11111,7 @@ __scuffed__ _v_ :two::hammer:
 __scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle<sup>2</sup>__ _n_ :five::hammer: _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
+__scullery__ _n_ A small room (in large old British houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.  
 __scum__ _n_ :three::hammer: _He was scum._  
 __scumbag__  
 __scumbags__  
@@ -11461,7 +11469,7 @@ __shrimp__
 __shrines__ _n_  
 __shrink__ _n_  
 __shrivel up__ _v_ :three::hammer:  
-__shrivel__ _v_ :five::hammer: (shriveled)  
+__shrivel__ _v_ :six: (shriveled) Shrink and wrinkle, as from dryness.  
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __shrubbery__  
@@ -11708,6 +11716,7 @@ __slipperiness__
 __slippers__  
 __slippery slope__  
 __slips__ _Sailboats were rocking in their slips._  
+__slipshod__ _adj_ :dart: __1__ Carelessly done or arranged: _slipshod research._ __2__ Careless or negligent: _"Precise sentences were my ideals, though in practice I was slipshod and sentimental" (Wayne Koestenbaum)._ _Syn_ slapdash, haphazard, sloppy  
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
@@ -12024,6 +12033,7 @@ __speargun__
 __spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
+__specie__ _n_ Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
 __specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specious__ :two::hammer: _Specious argument._  
@@ -12552,6 +12562,7 @@ __subjugate__ _v_
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
+__submachine gun__  
 __suborn__ _v_  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  

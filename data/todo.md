@@ -1,27 +1,5 @@
 
 
-__hortatory__ _adj_ Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
-__ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
-__specie__ _n_ Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
-__hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
-__prattle__ _n_  
-__accost__ _v_  
-__bedlam__ _n_ Scene of loud confusion.  
-__shrivel__ _v_ Shrink and wrinkle, as from dryness.  
-__slipshod__  
-__browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
-
-__frolic__  
-__pram__ _n_  
-__poker__ _n_ (weapon?)  
-__plea__ _n_ _A plea for legitimacy._  
-__sashes__ _n_  
-__bowler hats__  
-__backlash__ _n_ _It leads to backlash._  
-__flippant__  
-__submachine gun__  
-__scullery__  
-
 __drudgery__  
 __siege__  
 __anectodally__  
