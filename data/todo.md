@@ -1,5 +1,16 @@
 
 
+__settee__ _n_ _Shaving tackle on the settee._  
+__ditty__ _n_ :three::hammer:  
+__gripped__ _v_ _The disappearance had gripped the city._  
+__viciously__ _adv_ _They were persecuted viciously._  
+__moat__ _n_ _The castle's moat._  
+__martyrdom__  
+__imprison__ _v_ _They could imprison people._  
+__reluctant__  
+__deter__ _v_  
+__embitterment__  
+
 __drudgery__  
 __siege__  
 __anectodally__  
