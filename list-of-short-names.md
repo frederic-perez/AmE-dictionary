@@ -12,6 +12,7 @@
 - __Alf__ The male name Alf or Alv is derived from álf, the Old Norse for "elf." It is also the shortened form of various Germanic names with álf as their first part, notably Alfred, Álvaro, or more directly from Ataulf (English: Adolph).
 - __Bea__ A feminine given name, often short for Beatrice.
 - __Bob__ A hypocorism, usually of Robert, and sometimes a diminutive of Bobby.
+- __Deb__ A given name, usually feminine and often a shortened version (hypocorism) of Deborah or Debra.
 - __Eve__ Derived from the Latin name Eva.
 - __Jay__ A common given name and nickname. It may be a nickname for Japhet, Jaymond, Jane, James, Javonne, Jamie, Jacob, Jared, Joaquin, Javad, Jeremy, Jeffrey, John, Jules, Jonathan, Joseph, Jason, Jamin, Jaylin, Jordan, Justin, Joel, Jayakumar, etc.
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials "J.E.B.," or from "Jebediah," a variant of the biblical name "Jedediah."
