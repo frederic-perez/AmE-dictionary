@@ -456,6 +456,7 @@ __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_
 __antidepressant__ _adj_  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :three::mute:[antiq~~u~~e]:hammer: _Antiques dealer._  
+__antler__ _n_  
 __antsy__ _adj_ :three: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
@@ -2035,7 +2036,7 @@ __casualties__
 __cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
-__cat's-paw__ _n_ A person used to serve the purposes of another; tool.  
+__cat's-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
 __catacombs__  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
@@ -3427,6 +3428,7 @@ __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They 
 __detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
+__deter__ _v_  
 __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._  
 __detergent<sup>2</sup__ _adj_  
 __deterrence__ :two::hammer:  
@@ -3637,6 +3639,7 @@ __dither__ _n_ :mega: A state of indecisive agitation.
 __dithered__ _v_  
 __ditsy__ _Ditsy nanny._  
 __ditty bags__ _n_  
+__ditty__ _n_ :three::hammer:  
 __diva__  
 __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
 __diverse__  
@@ -4114,6 +4117,7 @@ __ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood 
 __embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzlement__ _n_  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
+__embitterment__  
 __embodiment__  
 __embody__ _v_  
 __embolden__ _v_ :two::hammer:  
@@ -4341,6 +4345,7 @@ __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
 __exhilarate__ :mute:[ex~~h~~ilarate]  
 __exhilarating__ :two::hammer: _It is an exhilarating thought._  
+__exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exiguous__ _adj_ :two::hammer:  
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
@@ -5673,7 +5678,7 @@ __grip__ _v_
 __grip-and-grin__ _Grip-and-grin shots._  
 __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
-__gripped__ _v_ _That 1995 murder trial gripped USA._  
+__gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
 __gripping__ :two::hammer: _A gripping contest._  
 __grisly__ _adj_ :five::hammer: _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
@@ -5889,6 +5894,7 @@ __handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to i
 __handyman__ _n_ :three::hammer:  
 __hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
+__hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
 __hanger__ _n_ _You left some hangers at my place._  
 __hanging offense__ _idiom_ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
 __hangnail__ :two::hammer:  
@@ -6438,6 +6444,7 @@ __housing__ _n_ :five::hammer: _A waterproof housing._
 __hovels__ _n_  
 __hover__ _v_  
 __hoverboard__ :two::hammer:  
+__how's life (treating you)?__ _idiom_ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ _idiom_ No matter how much.  
 __howl__ _v_ :two::hammer:  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
@@ -6614,7 +6621,7 @@ __impregnable__ _adj_ Immune to attack; incapable of being tampered with.
 __impression__ _n_ :two::hammer:  
 __imprint<sup>1</sup>__ _n_  
 __imprint<sup>2</sup>__ _v_  
-__imprisoned__ _v_ :two::hammer: _Simpson has been imprisoned for almost nine years._  
+__imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Simpson has been imprisoned for almost nine years._  
 __impromptu__ :two::hammer: _Some things are impromptu._  
 __improvidence__  
 __improvident__ _adj_  
@@ -7858,7 +7865,7 @@ __mart__ A place of trade, eg. an auction room or market.
 __martial artist__  
 __martyr<sup>1</sup>__ _n_ :two::pencil2::hammer:  
 __martyr<sup>2</sup>__ _v_ :two::pencil2::hammer:  
-__martyrdom__ :two::hammer:  
+__martyrdom__ _n_ :three::hammer:  
 __marzipan__ _n_ :two::hammer: :es: mazapán  
 __masago__ _n_  
 __mascot__ _n_ :two::hammer: (vs pet)  
@@ -8122,7 +8129,7 @@ __mixed bag__ :three::hammer: _It's a mixed bag, really._
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __MLK__  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
-__moat__ _n_ :six::hammer:  
+__moat__ _n_ :seven::hammer: _The castle's moat._  
 __mob__ _n_  
 __moccasin__ :two::hammer: (moccasins)  
 __mockie__ _n_ :two::hammer:  
@@ -9872,7 +9879,7 @@ __professed__ _v_ :two::hammer:
 __proffering__  
 __profiteering__  
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
-__profligate<sup>2</sup>__ _n_ :two::hammer:  
+__profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profoundly__  
 __profusely__  
 __profusion__  
@@ -10253,6 +10260,7 @@ __rapturous__
 __rare news conference__  
 __rare__  
 __rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.  
+__rarer than hens' teeth__ _idiom_ Incredibly scarce or rare; extremely difficult or impossible to find.  
 __raring__  
 __rascal__  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
@@ -10468,6 +10476,7 @@ __relinquish__ _v_ :seven: If you relinquish something, you let it go. You relin
 __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
+__reluctant__  
 __remanded__ _v_  
 __remarkable__  
 __remarkably__ _adv_ :two::hammer:  
@@ -11253,6 +11262,7 @@ __set the table__ _idiom_
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
 __setback__ _n_ :three::hammer: (setbacks) _It has suffered several setbacks._  
+__settee__ _n_ _Shaving tackle on the settee._  
 __setting > picturesque setting__ :es: entorno picturesco  
 __Seven Dwarf status__  
 __seventh heaven__ :astonished:  
@@ -11380,6 +11390,7 @@ __shitcan__ _v_
 __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
 __shitless__ _They were scared shitless._  
 __shiv__ _n_ A knife used as a weapon.  
+__shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
 __shoat__ _n_  
@@ -12104,6 +12115,7 @@ __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._
 __spoilage__ :dart:  
 __spoilers__ (airplane) :camera:  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
+__spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
 __sponge bulllets__  
 __sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
 __sponsor<sup>2</sup>__ _v_  
@@ -12575,7 +12587,7 @@ __subsidiary__
 __subsidy__  
 __substation__  
 __subsumed__ _v_ :two::hammer:  
-__subterfuge__  
+__subterfuge__ _n_ :two: Subterfuge contains the Latin prefix _subter-_, meaning "secretly," which derives from the adverb _subter_, meaning "underneath." The _-fuge_ portion comes from the Latin verb _fugere_, which means "to flee." __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
 __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __suburbanites__ _n_  
@@ -13979,7 +13991,7 @@ __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of g
 __vicar__  
 __vicarious__ _adj_ :two: Felt or enjoyed through imagined participation in the experience of others.  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
-__viciously__  
+__viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victualling__  
