@@ -1,5 +1,16 @@
 
 
+__obliged__ _v_  
+__custodian__  
+__lice__ _n_  
+__patterned__ _v_  
+__milled__ _v_ _The children milled around._  
+__in tow__  
+__roundups__ _n_ _There were public roundups and massacres._  
+__massacre__ _n_ _There were public roundups and massacres._  
+__gallows__ _n_  
+__lumbering__ _v_  
+
 __drudgery__  
 __siege__  
 __anectodally__  
