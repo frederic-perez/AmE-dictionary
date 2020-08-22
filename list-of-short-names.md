@@ -16,6 +16,7 @@
 - __Eve__ Derived from the Latin name Eva.
 - __Jay__ A common given name and nickname. It may be a nickname for Japhet, Jaymond, Jane, James, Javonne, Jamie, Jacob, Jared, Joaquin, Javad, Jeremy, Jeffrey, John, Jules, Jonathan, Joseph, Jason, Jamin, Jaylin, Jordan, Justin, Joel, Jayakumar, etc.
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials "J.E.B.," or from "Jebediah," a variant of the biblical name "Jedediah."
+- __Jem__ Jem is a given name, sometimes as a nickname for James, Jeremiah, Jeremy, Jemma, or Jemima, and sometimes as an anglicized version of the Turkish name Cem.
 - __Jim__ A given name or a hypocorism of the given name James and a short form of Jimmy. 
 - __Joy__ A common female given name meaning joy, happiness, joyful.
 - __Kay__ In English-speaking countries, it is usually a feminine name, often a short form of Katherine or one of its variants; but it is also used as a first name in its own right, and also as a masculine name (for example in India, the Netherlands, and Sweden).
