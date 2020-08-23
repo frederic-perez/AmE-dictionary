@@ -1,5 +1,16 @@
 
 
+__boilerplate__  
+__heckled__ _v_  
+__indomitable__ _An indomitable force._  
+__noose__ _n_  
+__mytheological__ (?) _Mytheological consultant._  
+__notwithstanding__  
+__encumbrance__  
+__parietal__ _The parietal portion of the skull._  
+__lags__ _v_  
+__pitiutary__  
+
 __drudgery__  
 __siege__  
 __anectodally__  
