@@ -1970,6 +1970,7 @@ __cardiac arrest__ :two::hammer:
 __cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __career suicide__  
+__carefree__  
 __carefully__ _It pays to consider his words carefully._  
 __caresses__ _v_  
 __caretaker__ :two::hammer: _A caretaker government._  
@@ -3115,6 +3116,7 @@ __cushy__ _A cushy modern life._
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._ _The cussing preacher._  
 __custard__ _n_ :es: natillas, flan  
+__custodian__  
 __custody__ _Finally my house returned to my custody._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __customs__ _n_ (at airport)  
@@ -4136,6 +4138,7 @@ __eminent__
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
+__emote__ _v_  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
 __emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
@@ -5198,6 +5201,7 @@ __galleys__ _n_
 __galling__ _adj_ :four: Irritating, exasperating, or bitterly humiliating. _A galling loss._  
 __gallon jug__ _Gallon jugs of water._  
 __galloping__  
+__gallows__ _n_  
 __galore__ _adv_  
 __galoshes__ _n_  
 __galvanize__ _v_ :seven: (galvanized) To startle into sudden activity; stimulate.  
@@ -6597,6 +6601,7 @@ __impeach__ _v_ :two::hammer:
 __impeachment__ :two::hammer:  
 __impeccable__  
 __impeccably__ :two::hammer:  
+__impecunious__ _n_ _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :four::hammer: (impeded)  
 __impediment__  
 __impedimenta__ _n_  
@@ -6666,7 +6671,7 @@ __in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has b
 __in the water__ _There's nothing in the water here._  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
-__in tow__ _idiom_ :two: Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
+__in tow__ _idiom_ :three: Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
 __in your birthday suit__ _idiom_ Naked.  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _He will conduct an in-depth review._  
@@ -7462,7 +7467,7 @@ __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins a
 __libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
 __librocubicularist__ _n_ A person who reads in bed.  
-__lice__ _n_ :seven: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -7684,7 +7689,7 @@ __luger__ _Team USA's best lugers._
 __lugging__ _v_ :three::hammer:  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :two::hammer:  
-__lumber<sup>1</sup>__ _v_ :three::hammer: _Two elephants lumber out of the bush to drink._  
+__lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
 __luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
@@ -7872,6 +7877,7 @@ __mascot__ _n_ :two::hammer: (vs pet)
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
+__massacre__ _n_ _There were public roundups and massacres._  
 __masseuse__ _n_  
 __massive__  
 __mast__ _n_ _The flag was flown at half mast._  
@@ -8037,7 +8043,7 @@ __milk it__ _idiom_ To take advantage of the help or kindness of others, as when
 __milk__ _v_ :three::hammer: _Milk the clock._  
 __milkweed__  
 __mill<sup>1</sup>__ _n_ A million dollards.  
-__mill<sup>2</sup>__ _v_ _They milled in front of the courtroom door._  
+__mill<sup>2</sup>__ _v_ :two::hammer: (milled) _They milled in front of the courtroom door._ _The children milled around._  
 __milled about__ _v_  
 __millenium__ _n_  
 __Millennials__  
@@ -9152,7 +9158,7 @@ __patronizing__
 __patronymic__  
 __patsy__ _adj_  
 __patter__  
-__patterned__ _v_  
+__patterned__ _v_ :two::hammer:  
 __patterning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
 __paucity__ _n_ :five: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
@@ -10062,7 +10068,7 @@ __put skin__ _Put skin in the game._
 __put the money where the mouth is__ :two::hammer:  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
 __put to the test__  
-__put up with__ _idiom_ :seven: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._  
+__put up with__ _idiom_ :eight: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -10556,7 +10562,7 @@ __retelling__
 __retention__  
 __rethoric__  
 __reticular__  
-__retinue__ _n_ :two::hammer: (retinues)  
+__retinue__ _n_ :three::hammer: (retinues)  
 __retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :two::hammer:  
@@ -10779,7 +10785,7 @@ __round-trip__ :two::hammer: _A round-trip ticket._
 __roundabout__ :two::hammer: (Children's attraction.)  
 __roundhouse__ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _I feel free to roundly criticize this source code._  
-__roundup__  
+__roundup__ _n_ :two::hammer: (roundups) _There were public roundups and massacres._  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
 __rousted__ _v_  
@@ -10830,6 +10836,7 @@ __rumor has it__
 __rumor mill__ _Fighting the rummor mill._  
 __rumple__ _v_ _His clothes were rumpled._  
 __run amok__ :two::hammer:  
+__run by__ _phr v_  
 __run errands__ :two::hammer:  
 __run for the hills__ _idiom_  
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
@@ -11922,7 +11929,7 @@ __soapbox<sup>2</sup>__ _v informal_ :two::hammer:
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __soar__ _v_  
 __sobering__  
-__sobriquet__  
+__sobriquet__ _n_ :two: A nickname.  
 __SoCal__ Southern California.  
 __soccage__  
 __social ladder__  
@@ -13392,7 +13399,7 @@ __tpngue-in-cheek__
 __trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
 __traceability__ _n_  
 __track__ _n_ :camera:  
-__tracksuit__ _n_ :two: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
+__tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
 __tractography__ _n_  
 __tractor trailer__ :two::hammer::camera: (tractor-trailer)  
@@ -14130,6 +14137,7 @@ __wariness__
 __warlocks__  
 __warmer__ _n_ _Fragance warmer._  
 __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
+__warmongering__ _n_  
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a certain amount of time).  
 __warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
 __warren__ _n_ _A warren of hares._  
@@ -14658,6 +14666,7 @@ __zero point__ _n_
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__ :two::hammer:  
+__zhuzh__ _v_  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
 __zillion__  

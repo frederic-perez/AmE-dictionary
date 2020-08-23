@@ -1,27 +1,5 @@
 
 
-__tracksuit__ _n_  
-__put up__ _I can’t put up with this._  
-__retinue__ _n_  
-__warmongering__ _n_  
-__zhuzh__ _v_  
-__impecunious__ _n_ _Syn_ penniless, indigent, penurious  
-__sobriquet__ _n_ A nickname.  
-__carefree__  
-__emote__ _v_  
-__run by__ _phr v_  
-
-__obliged__ _v_  
-__custodian__  
-__lice__ _n_  
-__patterned__ _v_  
-__milled__ _v_ _The children milled around._  
-__in tow__  
-__roundups__ _n_ _There were public roundups and massacres._  
-__massacre__ _n_ _There were public roundups and massacres._  
-__gallows__ _n_  
-__lumbering__ _v_  
-
 __drudgery__  
 __siege__  
 __anectodally__  
