@@ -1,5 +1,16 @@
 
 
+__confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
+__on a second thought__  
+__as a general rule__  
+__quite a few__ _Quite a few of them came to the party._ :es: bastante  
+__most of the time__ _Most of the time I do my breakfast._  
+__like hotcakes__ _We are selling English classes like hotcakes._ :es: como churros  
+__comprehend__ _v_  
+__kindred spirits__  
+__jumpstart__ _v_  
+__build up__  
+
 __boilerplate__  
 __heckled__ _v_  
 __indomitable__ _An indomitable force._  
