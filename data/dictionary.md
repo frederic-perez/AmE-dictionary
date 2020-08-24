@@ -567,6 +567,7 @@ __artifact__ _n_ :four::hammer: (artifacts)
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
 __as a duck takes to water__ _idiom_ _cliché_ Esily and naturally. _She took to singingjust as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
+__as a general rule__  
 __as blind as a bat__ _idiom_ Unable to see well.  
 __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
@@ -1348,7 +1349,7 @@ __boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek o
 __boiler room__ _n_  
 __boiler__  
 __boilermaker__ :two::hammer:  
-__boilerplate__ _n_ :three::hammer:  
+__boilerplate__ _n_ :four::hammer:  
 __boilers__  
 __boisterous__ :two::hammer:  
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
@@ -1658,6 +1659,7 @@ __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse a
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
 __bugout__  
 __build a future__ :es: labrarse un futuro  
+__build up__  
 __build__ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
@@ -2620,6 +2622,7 @@ __composure__
 __compound__ _n_  
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__ _Compounding the situation._  
+__comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
 __comprise__ _v_  
 __comps__ _n_ (Competitors?)  
@@ -2683,6 +2686,7 @@ __config__ :mega: _A config file._
 __conflagration__ _n_ :two: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._  
 __conflate__ _v_  
 __confluence__ _n_  
+__confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :eight::hammer: (confounded, confounding)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
 __congenial__ _adj_ :three::hammer:  
@@ -4163,7 +4167,7 @@ __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :five::hammer:  
-__encumbrance__ _n_ :two::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
+__encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
@@ -6125,7 +6129,7 @@ __heavy-handed__
 __heavy-hearted__ _idiom_ Sorrowful; melancholy; depressed.  
 __hecatombs__  
 __heck__ _He's doing a heck of a job._  
-__heckle__ _v_ :two::hammer: (heckled)  
+__heckle__ _v_ :three::hammer: (heckled)  
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
@@ -6731,7 +6735,7 @@ __indiscreet__
 __indispensable__  
 __indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indolent__ _adj_ :two: Very lazy, slothful.  
-__indomitable__ _adj_ :three: Very determined and impossible to defeat. _Indomitable will._  
+__indomitable__ _adj_ :four: Very determined and impossible to defeat. _Indomitable will._ _An indomitable force._  
 __inducements__  
 __induct__  
 __induction__ _n_ :four::hammer: _Induction hall._  
@@ -7040,7 +7044,7 @@ __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.
 __jumpers__  
 __jumping jacks__  
 __jumpstar<sup>1</sup>__ _n_ Starting an automobile engine that has a weak battery by means of jumper cables to another car. _My battery was dead so I had to get a jumpstart from my neighbor._  
-__jumpstar<sup>2</sup>__ _v_ :four: __1__ Start (a car engine whose battery is dead) by connecting it to another car's battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
+__jumpstar<sup>2</sup>__ _v_ :five: __1__ Start (a car engine whose battery is dead) by connecting it to another car's battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
 __jumpsuit__ _n_ :two::hammer:  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _Conjunction junctions._  
@@ -7261,7 +7265,7 @@ __lading__ _Checking bills of lading._
 __Lady Luck__ _I''m riding with Lady Luck._  
 __ladybird__ _n_  
 __ladyfinger cookies__  
-__lag__ _v_ :two::hammer:  
+__lag__ _v_ :three::hammer: (lags)  
 __laggard<sup>1</sup>__ _adj_ :four::hammer:  
 __laggard<sup>2</sup>__ _n_ :two::hammer:  
 __lagged__  
@@ -7498,6 +7502,7 @@ __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is
 __lightning__ _n_  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
 __like hell__  
+__like hotcakes__ _We are selling English classes like hotcakes._ :es: como churros  
 __like pulling teeth__ _idiom_  
 __like shooting fish in a barrel__  
 __like two peas in a pod__ _idiom_ Very similar.  
@@ -8222,6 +8227,7 @@ __MOS__ _abbr_ :two: Mom over shoulder.
 __mos.__ (Months?)  
 __mosh__  
 __mosque__ _n_ :two::hammer: (mosques)  
+__most of the time__ _Most of the time I do my breakfast._  
 __mot juste__ _n_ The appropriate word or expression.  
 __motes__ _n_  
 __moth__ :two::hammer:  
@@ -8355,6 +8361,7 @@ __mystery shopper__ _n_ Someone hired by a company to pose as a customer in orde
 __mystery train__  
 __mystified__  
 __mystique__ :pencil2:  
+__mythological__  
 __mythos__ :two::hammer:  
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
@@ -8555,7 +8562,7 @@ __noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, hapha
 __nookie__  
 __nooner__ _n_ _slang_ A brief midday sexual encounter.  
 __noontime__ _n_ _It was noontime, time for lunch._  
-__noose<sup>1</sup>__ _n_ :five::hammer: (nooses)  
+__noose<sup>1</sup>__ _n_ :six::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ Northern California.  
 __normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy," about getting back to normal life after the war. Since then, the word has been used often instead of "normality." _It took me months to get back to normalcy._  
@@ -8572,7 +8579,7 @@ __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I w
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
-__notwithstanding__ _prep_ :four::hammer:  
+__notwithstanding__ _prep_ :five::hammer:  
 __nought__ :mute:[nou~~gh~~t]  
 __noun__ _n_  
 __nova__  
@@ -8721,6 +8728,7 @@ __omnibus__ _n_ :two::hammer:
 __on a dime__ _idiom_  
 __on a high horse__ _idiom_ To act as if you are better than other people.  
 __on a roll__ :two::hammer: _I'm on a roll._  
+__on a second thought__  
 __on a tear__ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ _idiom_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
 __on cloud nine__  
@@ -9080,6 +9088,7 @@ __pardon my French__ _idiom_ :two: Excuse me for swearing.
 __pardon__ _v_ _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
 __pariah__ _n_ :four::hammer:  
+__parietal__ _The parietal portion of the skull._  
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
@@ -9478,6 +9487,7 @@ __pitmaster__
 __Pitot tube__ _n_ A device, essentially a tube set parallel to the direction of fluid-stream movement and attached to a manometer, used to measure the total pressure of the fluid stream.  
 __pittance__ _n_ :two::hammer:  
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
+__pituitary__  
 __pivot<sup>1</sup>__ _n_ :two::hammer:  
 __pivot<sup>2</sup>__ _v_  
 __pivotal__ _adj_ :three::hammer:  
@@ -10153,6 +10163,7 @@ __quintessential__ _adj_ :four::hammer:
 __quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
+__quite a few__ _Quite a few of them came to the party._ :es: bastante  
 __quitessential__ _adj_  
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
 __quitter__ _Are you calling me a quitter?_  
