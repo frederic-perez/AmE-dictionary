@@ -1,5 +1,16 @@
 
 
+__astounded__  
+__smack dab__ _I'll run smack dab over you._  
+__blatant__  
+__trip off__ _I don't really trip off getting caught._  
+__confounded__  
+__dogged__ _Dogged persistence._  
+__ingrain__ _v_  
+__child's play__ _It's a child play._  
+__compartmentalize__  
+__conducive__  
+
 __drudgery__  
 __siege__  
 __anectodally__  
