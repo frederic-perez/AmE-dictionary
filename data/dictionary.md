@@ -667,6 +667,7 @@ __attainment__ _n_
 __attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :two::mega::hammer:  
+__attentive__  
 __attest__ _v_ :two::hammer:  
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
 __Attn__  
@@ -1210,7 +1211,7 @@ __blandish__ _v_ To coax by flattery or wheedling; cajole.
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
-__blasé__  
+__blasé__ _adj_ :two::hammer:  
 __blast__ _n_ _slang_ A great experience, a very enjoyable time.  
 __blatant__ :two::hammer:  
 __blatantly__  
@@ -1970,6 +1971,7 @@ __card__ _v_
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ :two::hammer:  
 __cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
+__cards are stacked against someone__ _idiom_ Luck is against someone.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __career suicide__  
 __carefree__  
@@ -2505,7 +2507,7 @@ __coffee-table book__
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State's coffers._ :es: arcas  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
-__cogent__ _adj_  
+__cogent__ _adj_ :two::hammer:  
 __cognizant__  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
@@ -3402,6 +3404,7 @@ __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up
 __depolarize__ _v_  
 __deposit__ _n_  
 __deposition__ _n_ :three::hammer:  
+__depraved__ _adj_  
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
 __deprived__ _A very deprived area._  
@@ -3482,6 +3485,7 @@ __diehard__
 __differ__ _v_ :two::mega::hammer:  
 __different animal__ _n_ _idiom_ Something different.  
 __diffident__  
+__dig your own grave__ _idiom_ To do something stupid that will cause problems for you in the future.  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digit__ (finger?)  
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
@@ -3918,7 +3922,7 @@ __dryly__ _adv_ :two::hammer::astonished:
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __DSLR__  
 __dub__ _v_ (dubbed)  
-__dubious__ _adj_ :three::hammer:  
+__dubious__ _adj_ :four::hammer:  
 __duchy__ _n_  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
@@ -5176,7 +5180,7 @@ __fuss<sup>1</sup>__ _n_ :three::hammer:
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __futile__ _adj_  
 __futility__ _n_ :four::hammer:  
-__fuzz__ _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
+__fuzz__ _n_ _slang_ :two::hammer: The police. _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
 __gab away__ _v_ _The gang was gabbing away._  
 __gab__ :two::hammer: _The gift of gab._  
@@ -5901,6 +5905,7 @@ __handsy__ _adj_ Prone to touching other people with one's hands, especially ina
 __handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __handyman__ _n_ :three::hammer:  
 __hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
+__hang someone out to dry__ _idiom_ To abandon someone who is in trouble.  
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
 __hanger__ _n_ _You left some hangers at my place._  
@@ -6654,7 +6659,7 @@ __in its own right__ _adv_ :three::hammer: (in my own right)
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
-__in retrospect__ _idiom_ Considering or analyzing the past, with the knowledge that one has now.  
+__in retrospect__ _idiom_ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__  
 __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
 __in stitches__ _idiom_  
@@ -7536,7 +7541,7 @@ __linguaphile__ _n_
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ :two::hammer: _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
-__lion's share__ _idiom_ The greatest or best part.  
+__lion's share__ _idiom_ :two: The greatest or best part.  
 __lionhearted__ _adj_  
 __lionized__ _v_  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
@@ -10850,6 +10855,7 @@ __run amok__ :two::hammer:
 __run by__ _phr v_  
 __run errands__ :two::hammer:  
 __run for the hills__ _idiom_  
+__run over__ _phr v_  
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run the show__  
 __run-and-gun__ _A run-and-gun platform game._  
@@ -11767,7 +11773,7 @@ __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ _n_ :four: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
-__slouch<sup>2</sup>__ _v_ :two::hammer: (slouching)  
+__slouch<sup>2</sup>__ _v_ :three::hammer: (slouching)  
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :three::hammer:  
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
@@ -12221,6 +12227,7 @@ __squeamish__ _adj_ :seven: Easily upset or disgusted by things or actions you f
 __squeamishness__  
 __squeeze__ _v_  
 __squelch__ _v_ :five::hammer: (squelched)  
+__squid__ _n_  
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
@@ -12689,7 +12696,7 @@ __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging
 __surge<sup>2</sup>__ _n_  
 __surliness__  
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
-__surmise__ _v_ :four::hammer: (surmised, surmising)  
+__surmise__ _v_ :five::hammer: (surmised, surmising)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surmountable__  
 __surname__ :two::mega::hammer:  
@@ -13012,7 +13019,7 @@ __tenements__ _Kids from the tenements._
 __tenet__ _n_ :six::hammer: (tenets) :es: principio  
 __Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
-__tense__ _adj_  
+__tense__ _adj_ :two::hammer:  
 __tensile__ _Tensile cable._  
 __tentative__  
 __tenuous__ _adj_ :three: Having litthe substance or strength; thin; weak.  
@@ -13442,6 +13449,7 @@ __translate__ _That doesn't always translate, believe me._
 __translucent__ _adj_  
 __transparent__ _adj_ :mega:  
 __transpose__ _v_ _Someone might have transposed digits._  
+__transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
 __trap question__ :astonished: _That's a trap question._  
 __trapdoor__ _n_  
 __trappings__ _n_ :five::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
@@ -14126,6 +14134,7 @@ __wallboard__
 __wallflower__  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
+__walls have ears__ _idiom_ Someone might be eavesdropping. _Let's talk in my office—out here, the walls have ears._  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
@@ -14614,6 +14623,7 @@ __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay__ _interj_ :two::hammer: _Yay, Giants!_  
 __yay!__ _interj_  
+__year in, year out__  
 __yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  

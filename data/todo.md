@@ -1,26 +1,5 @@
 
 
-__run over__ _phr v_  
-__depraved__ _adj_  
-__walls have ears__  
-__hang someone out to dry__ _idiom_ To abandon someone who is in trouble.  
-__dig your own grave__ _idiom_ To do something stupid that will cause problems for you in the future.  
-__cards are stacked against someone__ _idiom_ Luck is against someone.  
-__fuzz__ _n_ _slang_ The police.  
-__tense__  
-__attentive__  
-__slouching__  
-
-__transtentorial__  
-__surmise__ _v_  
-__dubious__  
-__cogent__  
-__year in, year out__  
-__lion's share__  
-__in retrospect__  
-__squid__ _n_  
-__blasé__
-
 __drudgery__  
 __siege__  
 __anectodally__  
