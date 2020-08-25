@@ -1,5 +1,15 @@
 
 
+__transtentorial__  
+__surmise__ _v_  
+__dubious__  
+__cogent__  
+__year in, year out__  
+__lion's share__  
+__in retrospect__  
+__squid__ _n_  
+__blasé__
+
 __drudgery__  
 __siege__  
 __anectodally__  
