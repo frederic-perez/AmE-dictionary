@@ -1,5 +1,16 @@
 
 
+__beguiling__  
+__requite__ _v_  
+__indolence__ _n_ :dart:Inactivity resulting from a dislike of work. _Syn_ laziness  
+__the honest truth__ _idiom_ The sincere, unadulterated truth.  
+__estival__ _adj_ Of or relating to the summer.  
+__stouthearted__ _adj_ Brave; courageous. _Syn_ stalwart _Undaunted by the storm, the stouthearted park ranger proceeded with his search for the missing hiker._  
+__forte__ _n_ One's strong point.  
+__nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
+__hold (one's) nerve__ _idiom_ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
+__unwritten__ _adj_  
+
 __astounded__  
 __smack dab__ _I'll run smack dab over you._  
 __blatant__  
