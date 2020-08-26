@@ -1,5 +1,16 @@
 
 
+__headline__ _n_  
+__auburn__ _Auburn hair._  
+__put up__ _She put up with the men in her life because she had to._  
+__of sorts__ _He wanted to make the scene a lesson of sorts._  
+__big fish in a small pond__  
+__taunting__ _v_  
+__with a vengeance__ :two::hammer:  
+__fey__  
+__countenance__ _v_  
+__aftermath__ _n_  
+
 __drudgery__  
 __siege__  
 __anectodally__  
