@@ -628,6 +628,7 @@ __asswipe__ _n_
 __asthma__ _n_  
 __astigmatism__ _n_  
 __astir__  
+__astounded__  
 __astraddle__  
 __astride__ _adv_ :three::hammer:  
 __astringent__  
@@ -1018,7 +1019,7 @@ __beggar-thy-neighbor__
 __begrudge__ _v_ :five::hammer: _No one could begrudge her that._  
 __begrudgingly__ :two::hammer:  
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _"to beguile you from the grief of a loss so overwhelming"_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
-__beguiling__ _adj_ :three: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
+__beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person's orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn't get the basics in primary school, they are way behind the eight ball.  
@@ -1213,7 +1214,7 @@ __blanket__ :two::hammer: _The security blanket._
 __blanketed__ _v_ :five::hammer: (blanketing)  
 __blasé__ _adj_ :two::hammer:  
 __blast__ _n_ _slang_ A great experience, a very enjoyable time.  
-__blatant__ :two::hammer:  
+__blatant__ _adj_ :three::hammer:  
 __blatantly__  
 __blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
 __blaze of glory__ :two::hammer:  
@@ -2244,6 +2245,7 @@ __chide__ _v_ :seven::hammer: (chided, chiding) _Whe chided the Pentagon._
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
+__child's play__ _n_ _informal_ Something that is easy to do. _It's a child's play._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :two::hammer:  
@@ -2604,6 +2606,7 @@ __Commonwealth__
 __communiqué__ (communiqués) :two::hammer:  
 __comp<sup>1</sup>__ _n_ _Workers' comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
+__compartmentalize__ _v_  
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
 __compel__ _v_ :five::hammer:  
@@ -2668,7 +2671,7 @@ __conditional discharge__ _An Urbana man has been sentenced to 30 months of cond
 __condo__  
 __condominium__ _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
-__conducive__ _adj_ :three::hammer: _The vehicle doesn't seem conducive to passing._  
+__conducive__ _adj_ :four::hammer: _The vehicle doesn't seem conducive to passing._  
 __conduct__ _Suspended two games for violating the league's personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
@@ -2689,7 +2692,7 @@ __conflagration__ _n_ :two: A very intense and uncontrolled fire. _Syn_ inferno 
 __conflate__ _v_  
 __confluence__ _n_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
-__confound__ _v_ :eight::hammer: (confounded, confounding)  
+__confound__ _v_ :nine::hammer: (confounded, confounding)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
@@ -3701,7 +3704,7 @@ __dog__ _v_ :four::hammer::astonished: _Injury concerns still dog Clowney._ _The
 __dog-and-pony show__ _idiom_ :two::hammer: (dog and pony show)  
 __dog-ear__  
 __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
-__dogged__ _adj_ Obstinately determined; wilful or tenacious.  
+__dogged__ _adj_ :two: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ :two::hammer:  
 __doghouse__ _n_ :three::hammer: (In the UK use "kennel") _Russia will stay stuck in track and field's doghouse._  
 __dogleg__ :two::hammer: _A dogleg twenty-gauge in his hand._  
@@ -4290,6 +4293,7 @@ __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._
 __essential__ _Special K - 8 essential vitamins._  
 __essentials__ _n_  
 __established__ _Established 1978._  
+__estival__ _adj_ Of or relating to the summer.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __esurient__ _adj_  
 __ETA__ _I believe we have an ETA of six days._  
@@ -5004,7 +5008,7 @@ __formidable__
 __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken__ _adj_  
 __fort__ A fortified place or position stationed with troops.  
-__forte<sup>1</sup>__ _n_ :three::mega: Something in which a person excels.  
+__forte<sup>1</sup>__ _n_ :four::mega: Something in which a person excels.  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
 __forthright__ _adj_ :three: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
@@ -6317,6 +6321,7 @@ __hoist<sup>1</sup>__ _n_ :es: montacargas
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold (one's) feet to the fire__ _idiom_ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
+__hold (one's) nerve__ _idiom_ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
 __hold a candle__ _idiom_  
 __hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
 __hold a referendum__  
@@ -6739,6 +6744,7 @@ __indigenous__ _Indigenous people._
 __indiscreet__  
 __indispensable__  
 __indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
+__indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
 __indomitable__ _adj_ :four: Very determined and impossible to defeat. _Indomitable will._ _An indomitable force._  
 __inducements__  
@@ -6775,7 +6781,7 @@ __infotainment system__
 __infrasound__ _Infrasound can be detected in excess of 100 miles._  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
-__ingrain__ _v_ To fix deeply or indelibly, as in the mind.  
+__ingrain__ _v_ :two: To fix deeply or indelibly, as in the mind.  
 __ingrained__ _adj_ :four::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ An ungrateful person.  
 __ingratiate__ _v_ :three::hammer:  
@@ -8461,6 +8467,7 @@ __nestle__ _v_ :nine::hammer: (nestled)
 __nestlings__ _n_  
 __nether__ :two::hammer:  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
+__nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
 __neuroblastoma__  
 __neuropeptide__ _n_  
 __neutered__  
@@ -10543,6 +10550,7 @@ __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys
 __repudiate__ _v_  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
+__requite__ _v_  
 __rerun__ _n_ _Of course I've seen it! It's a rerun._  
 __rescind__ _v_ :two::hammer: (rescinded)  
 __reseller__  
@@ -11804,6 +11812,7 @@ __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ _informal_ A sly person.  
 __slyly__ :astonished: _She smiled slyly._  
+__smack dab__ _I'll run smack dab over you._  
 __smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
 __smack<sup>2</sup>__ _n_  
 __smack<sup>3</sup>__ _adv_  
@@ -12473,6 +12482,7 @@ __storm surge__ :two::hammer:
 __storm__ _v_  
 __storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
 __stoup__  
+__stouthearted__ _adj_ Brave; courageous. _Syn_ stalwart _Undaunted by the storm, the stouthearted park ranger proceeded with his search for the missing hiker._  
 __stove__ _n_ :three::hammer:  
 __stovepipe hat__  
 __stow__ _v_  
@@ -13080,6 +13090,7 @@ __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
 __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
+__the honest truth__ _idiom_ The sincere, unadulterated truth.  
 __the lion's share__ _idiom_ Major share of something.  
 __the name of the game__  
 __the order of the day__  
@@ -13827,6 +13838,7 @@ __unwieldy__
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_  
 __unwittingly__ :two::hammer:  
+__unwritten__ _adj_  
 __unyield__ _v_  
 __unyielding__ _adj_ :three::hammer:  
 __up and running__  
