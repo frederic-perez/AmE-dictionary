@@ -1,28 +1,5 @@
 
 
-__industrious__ _adj_ Always working very hard.  
-__Silly Putty__ _n_ A toy based on silicone polymers that have unusual physical properties.  
-__WD-40__ _n_ Trademark name of a water-displacing spray manufactured by the WD-40 Company based in San Diego, California.  
-__icky__ _adj_  
-__duh__ _interj_ _slang_ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._  
-__stale__ _adj_ Some friendships are like stale donuts.  
-__excess__ _adj_ :two::hammer: _Excess mortality._  
-__yay__ _interj_ Used as an exclamation of pleasure, approval, elation, or victory.  
-__low-res__ _adj_ _informal_ Low-resolution.  
-__doozy__ _n_ _slang_ Something extraordinary, impressive, or unique: _a doozy of a hailstorm._  
-
-
-__headline__ _n_  
-__auburn__ _Auburn hair._  
-__put up__ _She put up with the men in her life because she had to._  
-__of sorts__ _He wanted to make the scene a lesson of sorts._  
-__big fish in a small pond__  
-__taunting__ _v_  
-__with a vengeance__ :two::hammer:  
-__fey__  
-__countenance__ _v_  
-__aftermath__ _n_  
-
 __drudgery__  
 __siege__  
 __anectodally__  

@@ -237,6 +237,7 @@ __aft__ :two::hammer: _Aft compartment._
 __aftereffects__  
 __afterglow__  
 __aftermarket__  
+__aftermath__ _n_  
 __afters__ _n informal_ :two: Dessert.  
 __afterward__ :two::hammer:  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
@@ -682,7 +683,7 @@ __atypical__ _adj_
 __au pair__  
 __au shops__  
 __Au.D__ Doctor of audiology.  
-__auburn__  
+__auburn__ :two::hammer: _Auburn hair._  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
 __audacious__ _adj_  
@@ -1134,6 +1135,7 @@ __big cheese__ An influential person.
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It's not a big deal._ __2__ An important person: She was a big deal in local politics.  
 __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
+__big fish in a small pond__  
 __big house__ _slang_ A high-security prison.  
 __big mon__  
 __Big Pharma__  
@@ -2863,7 +2865,7 @@ __count on__ _phr v_ To rely or depend on (someone) to do something.
 __count your blessings__ _idiom_ :four: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance<sup>1</sup>__ _n_ :three::hammer: _His countenance was pale and sunken._  
-__countenance<sup>2</sup>__ _v_  
+__countenance<sup>2</sup>__ _v_ :two::hammer:  
 __counter__ _n_ :two::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ :es: encimera  
 __counter-depth fridge__ :camera:  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
@@ -3742,7 +3744,7 @@ __doorknob hanger__
 __doorman building__ _n_  
 __doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatment by others.  
 __doorpost__  
-__doozy__ _adj informal_ :four: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._  
+__doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
 __dopamine__ _n_ :mega:  
 __dope__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
@@ -3945,6 +3947,7 @@ __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duff
 __duffle bag__ :camera:  
 __dug__ _n_  
 __dugout__ :two::hammer:  
+__duh__ _interj_ _slang_ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._  
 __dulcet__ _adj_ :three: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. __3__ Generally pleasing or agreeable.  
 __dulcimers__ _n_  
 __dull__ _adj_ :two::hammer: _Never a dull moment._  
@@ -4337,7 +4340,7 @@ __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authorit
 __exceed__ _v_  
 __exceedingly__  
 __excelsior__  
-__excess__ :two::hammer: _He's raised or spent in excess of $5,000 on political activity._  
+__excess__ _adj_ :four::hammer: _Excess mortality._ _He's raised or spent in excess of $5,000 on political activity._  
 __excise__ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excised__ _v_  
 __excommunication__  
@@ -4614,6 +4617,7 @@ __fetus__ _n_
 __feud<sup>1</sup>__ _n_ :four::hammer:  
 __feud<sup>2</sup>__ _v_  
 __feuded__  
+__fey__ _adj_  
 __fez__ _n_  
 __fiancé__ A man who is engaged to be married.  
 __fiancée__ A woman who is engaged to be married.  
@@ -6092,6 +6096,7 @@ __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._
 __headdress__ _n_ :three::pencil2::hammer: _The pharaoh's headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
+__headline__ _n_  
 __heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
 __heads-up<sup>1</sup>__ _n_ _informal_ Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
 __heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
@@ -6563,6 +6568,7 @@ __icebox__ _n_
 __icicles__  
 __icing on the cake__ :two::hammer:  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
+__icky__ _adj_  
 __iconoclasm__  
 __iconoclast__  
 __iconoclastic__  
@@ -6751,6 +6757,7 @@ __inducements__
 __induct__  
 __induction__ _n_ :four::hammer: _Induction hall._  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
+__industrious__ _adj_ Always working very hard.  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __ineffectual__  
 __inequitable__  
@@ -7681,6 +7688,7 @@ __love-in__
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
+__low-res__ _adj_ _informal_ Low-resolution.  
 __low-slung__ _Low-slung school._  
 __low-tech__ _adj_ _I'm a low-tech type._  
 __lowbrow__  
@@ -8680,7 +8688,7 @@ __OEM__ _abbr_ :three::hammer: _OEMs._
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
 __of one's own accord__ Voluntarily.  
-__of sorts__ _phr_ :two: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._  
+__of sorts__ _phr_ :three: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
@@ -10090,7 +10098,7 @@ __put skin__ _Put skin in the game._
 __put the money where the mouth is__ :two::hammer:  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
 __put to the test__  
-__put up with__ _idiom_ :eight: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._  
+__put up with__ _idiom_ :nine: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -11576,6 +11584,7 @@ __siitting duck__
 __Sikh__  
 __sill__ :two::hammer:  
 __silly boy__  
+__Silly Putty__ _n_ A toy based on silicone polymers that have unusual physical properties.  
 __Silly String__ _n_ (silly string) Aerosol string.  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
 __silt__ _n_  
@@ -12270,7 +12279,7 @@ __stakeholder__ _n_ :three::hammer:
 __stakeout__ _n_ :three::hammer: (stakeouts)  
 __stakes__ _n_  
 __stale antiperspirant__  
-__stale__ _adj_ :four::hammer: _The stale remains of a cup of coffee._  
+__stale__ _adj_ :five::hammer: _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
 __staler__ _The air in the place grew staler._  
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk out__ _idiom_ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
@@ -12956,7 +12965,7 @@ __tattle__ _v_
 __tattling__  
 __tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
-__taunt<sup>2</sup>__ _v_ :six::hammer: (taunted, taunting)  
+__taunt<sup>2</sup>__ _v_ :seven::hammer: (taunted, taunting)  
 __taupe__  
 __taut__ _adj_  
 __tautened__  
@@ -14214,6 +14223,7 @@ __waylay__ _v_
 __wayposts__  
 __wayside__ _n_ :two::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
+__WD-40__ _n_ Trademark name of a water-displacing spray manufactured by the WD-40 Company based in San Diego, California.  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
 __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
 __wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
@@ -14480,6 +14490,7 @@ __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __with (one's) pants down__ _idiom_ _slang_ In an embarrassing position.  
 __with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
+__with a vengeance__ :two::hammer:  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
@@ -14633,8 +14644,7 @@ __yawn__ _n_ _The sound of yawns and crickets._
 __yawner__ _n_ :two::hammer:  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
-__yay__ _interj_ :two::hammer: _Yay, Giants!_  
-__yay!__ _interj_  
+__yay__ _interj_ :four: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_  
 __year in, year out__  
 __yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
