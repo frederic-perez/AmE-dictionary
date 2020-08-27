@@ -1,5 +1,16 @@
 
 
+__mouthpiece__ _n_ _Jed had just been a mouthpiece._  
+__doff__ _v_ (vs don _v_)  
+__thrifty__  
+__lilt__ _n_ _He talked with the Jamaican lilt._  
+__umbrage__ _n_  
+__ruefully__ _Dan shook his head ruefully._  
+__womanizer__  
+__animosity__  
+__leeway__  
+__berate__ _v_ :two::hammer:  
+
 __drudgery__  
 __siege__  
 __anectodally__  
