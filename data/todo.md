@@ -1,27 +1,5 @@
 
 
-__mouthpiece__ _n_ _Jed had just been a mouthpiece._  
-__doff__ _v_ (vs don _v_)  
-__thrifty__  
-__lilt__ _n_ _He talked with the Jamaican lilt._  
-__umbrage__ _n_  
-__ruefully__ _Dan shook his head ruefully._  
-__womanizer__  
-__animosity__  
-__leeway__  
-__berate__ _v_ :two::hammer:  
-
-__drudgery__  
-__siege__  
-__anectodally__  
-__demeanor__ _n_  
-__credence__  
-__flustered__  
-__articulate__ _v_  
-__thrust__ _A thrust of cognitive effort._  
-__A-list__ (A-team?)  
-__berth__ _n_  
-
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __on edge__ _idiom_ Anxious and tense. _Tonight she felt on edge._  
 __iffy__ _I feel a bit iffy._  

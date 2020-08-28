@@ -48,6 +48,7 @@ __a hill of beans__ _idiom_ Something of little or no importance, value, or wort
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
+__A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood's A list._  
 __a little__ A positive idea. You can say: _I have a little money._ (You have some money.) "Little" is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
@@ -406,6 +407,7 @@ __and so it goes__
 __and-a-one, and-a-two...__  
 __andirons__  
 __anecdotal__ :mega:  
+__anecdotally__  
 __anemometer__ _n_ :two::hammer:  
 __anew__ _adv_ :four::hammer:  
 __anfractuous__ _adj_ :two: Full of twists and turns; tortuous. _An anfractuous path._ _Anfractuous cliffs._  
@@ -420,7 +422,7 @@ __angsty__ _adj_ :two::hammer:
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
-__animosity__ _n_ :nine: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
+__animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
 __aniseed__ _n_  
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
@@ -562,7 +564,7 @@ __arrested__ _v_ :astonished: _While others are arrested by discouragement, we a
 __arrowroot__  
 __arson__ _n_  
 __articulate<sup>1</sup>__ _adj_ :three::hammer:  
-__articulate<sup>2</sup>__ _v_ :five::hammer: (articulated)  
+__articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
 __articulated__ _adj_ _A clearly articulated project._  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
@@ -1081,7 +1083,7 @@ __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._
 __bento__ Boxed meals.  
 __bequeath__ _v_ :eight::hammer; (bequeathed)  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
-__berate__ _v_ :eight: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
+__berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
 __bereaved__ _adj_  
 __bereavement__ _n_ :six: State of sorrow over the death or departure of a loved one.  
@@ -1091,7 +1093,7 @@ __beret__ :mute:[bere~~t~~]
 __berm__ _n_  
 __berserk__ _adj_ :eight: (usually used in the phrase "go berserk") __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
-__berth__ _n_ :four::hammer: _Sho Sakai secured an Olympic berth._  
+__berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
 __beseech__ _v_ :three::hammer: _Syn_ entreat  
 __beseechingly__  
 __beseechment__  
@@ -2956,7 +2958,7 @@ __creases__ _Knife creases._
 __creasing__  
 __creature of habit__ _idiom_ One who prefers the comfort and reliability of routine and habitual behavior.  
 __cred__  
-__credence__ _n_ :three::hammer:  
+__credence__ _n_ :four::hammer:  
 __credenza__ _n_  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
 __creditor__ _n_  
@@ -3383,6 +3385,7 @@ __delve__ _v_ :dart:
 __Dem__ A member of the Democratic Party.  
 __demagogy__  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
+__demeanor__ _n_  
 __demigod__  
 __demographic__ _adj_  
 __demonize__ _v_ :four::hammer: (demonizing)  
@@ -3697,7 +3700,7 @@ __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doeskin__ _A doeskin wallet._  
 __doesn't hold water__ _idiom_ Not true or not reasonable.  
-__doff__ _v_ (doffing) :two::hammer: _Doff his hat._  
+__doff__ _v_ :three::hammer: (doffing; vs don _v_) :two::hammer: _Doff his hat._  
 __dog and pony show__ _idiom_ a presentation which designed to impress an audience but has no real content.  
 __dog days__  
 __dog sledding__  
@@ -3912,7 +3915,7 @@ __drub__ _v_
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
-__drudgery__ _n_ :four::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
+__drudgery__ _n_ :five::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
 __drugstore__  
 __drugwise__  
 __drum up__  
@@ -4884,7 +4887,7 @@ __flurry > in a flurry__
 __flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flush-mouth design__ (wall oven)  
 __flushed complexion__  
-__fluster__ _v_ :seven: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
+__fluster__ _v_ :eight: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
 __flutter<sup>1</sup>__ _v_ :eight: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _"Her arms rose, fell, and fluttered with the rhythm of the song"_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
@@ -7425,7 +7428,7 @@ __leer__ _v_
 __leer<sup>1</sup>__ _v_ (leering) :four: :pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :five: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :six: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg up__ :two::hammer:_Area's 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
@@ -7532,6 +7535,7 @@ __likened himself to__ _Mark faked his death and likened himself to a werewolf t
 __likewise__ _adv_ :two::hammer:  
 __lilac tree__  
 __lilac__ :two::hammer:  
+__lilt__ _n_ _He talked with the Jamaican lilt._  
 __lily-livered__ _adj_ Cowardly; timid.  
 __limb__ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _Limber stick._  
@@ -8278,6 +8282,7 @@ __mouth__ _v_
 __mouth-watering__  
 __mouthful__ _n_ A word or phrase that is very long or hard to pronounce.  
 __mouthguard__  
+__mouthpiece__ _n_ _Jed had just been a mouthpiece._  
 __mouthwash__ _n_ :two::hammer: :es: colutorio  
 __move the needle__  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
@@ -10846,7 +10851,7 @@ __rude__
 __rudiment__ _n_  
 __rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :three::dart::hammer: _He gave a rueful smile._  
-__ruefully__ _adv_ :five::hammer:  
+__ruefully__ _adv_ :six::hammer: _Dan shook his head ruefully._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
@@ -11563,7 +11568,7 @@ __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
-__siege__ _An overnight siege shocked the country._  
+__siege__ :two::hammer: _An overnight siege shocked the country._  
 __sieve<sup>1</sup>__ _n_ :six::hammer: _Water leaking from a sieve._  
 __sieve<sup>2</sup>__ _v_  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
@@ -13153,7 +13158,7 @@ __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something m
 __thread the needle__  
 __Three Lions__ _A message to the Three Lions._  
 __three-hour__ _adj_ :pencil2: _A three-hour drive._  
-__thrifty__ _adj_ :two::hammer:  
+__thrifty__ _adj_ :three::hammer:  
 __thrilling__ _adj_  
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
@@ -13184,7 +13189,7 @@ __throws__ _n_
 __thrum__  
 __thrums__ _v_  
 __thrust<sup>1</sup>__ _v_ :two::hammer:  
-__thrust<sup>2</sup>__ _n_ :three::hammer:  
+__thrust<sup>2</sup>__ _n_ :four::hammer: _A thrust of cognitive effort._  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ _n_ :three: A tough and violent man, esp a criminal.  
@@ -13708,6 +13713,7 @@ __ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar
 __ululations__  
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
+__umbrage__ _n_  
 __umpteen__  
 __umpteenth__ :two::hammer:  
 __un-American__  
@@ -14513,7 +14519,7 @@ __woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Mo
 __wogs__ _n_  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
-__womanizer__ _n_ :three::hammer:  
+__womanizer__ _n_ :four::hammer:  
 __womanizing__  
 __womb__ :mute:[wom~~b~~]  
 __women__ _n_ /ˈwɪmɪn/ :mega:  
