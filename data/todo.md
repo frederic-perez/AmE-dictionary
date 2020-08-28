@@ -1,5 +1,16 @@
 
 
+__keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
+__delectable__ _adj_  
+__I feel you/that__ _idiom _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
+__put off__ _v_  
+__sententious__ _adj_  
+__ticklish__ _adj_ If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
+__vituperate__ _v_  
+__knead__ _v_  
+__grate__ _v_  
+__smoke like a chimney__ _idiom_ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
+
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __on edge__ _idiom_ Anxious and tense. _Tonight she felt on edge._  
 __iffy__ _I feel a bit iffy._  
