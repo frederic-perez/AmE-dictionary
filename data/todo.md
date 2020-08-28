@@ -1,5 +1,16 @@
 
 
+__low profile__  
+__lauded__ _v_  
+__kneecapping__ _v_ :two::hammer:  
+__cut and dried__ _You seem to think this is cut and dried._  
+__chalk and cheese__ _We are like chalk and cheese._  
+__upshot__ _n_  
+__hope against hope__  
+__wearily__  
+__abject__  
+__two and eight__ _He was in a right two and eight._  
+
 __keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
 __delectable__ _adj_  
 __I feel you/that__ _idiom _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
