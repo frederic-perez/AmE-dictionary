@@ -1,5 +1,16 @@
 
 
+__package deal__ _idiom_ A group of many or various things sold together at a single, often reduced price. _They're offering a package deal where you buy three DVDs and get a fourth for free._  
+__veep__ _n informal_ A vice president.  
+__AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
+__the half of it__ _idiom_ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
+__recidivate__ _v_ To return to a previous pattern of behavior, especially to return to criminal habits. _Syn_ relapse, retrogress, lapse, regress, fall back _I did not mean to recidivate, but burgling homes is second nature to me._  
+__rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
+__charnel__ _adj_ Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect's basement left little doubt that he was the killer we were seeking._  
+__inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
+__be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
+__abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
+
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __on edge__ _idiom_ Anxious and tense. _Tonight she felt on edge._  
 __iffy__ _I feel a bit iffy._  
