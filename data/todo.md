@@ -1,5 +1,16 @@
 
 
+
+__sway__ _n_  
+__crook__ _n_ _The crook of her arm._  
+__chatterbox__  
+__broker__ _n_  
+__duration__  
+__loose-cannon__  
+__grapevine__ _Al must have heard something in the grapevine._  
+__scowl__ _n_  
+__maudlin__ :two::hammer:  
+__prat__ _He could be such a prat at times._  
 __package deal__ _idiom_ A group of many or various things sold together at a single, often reduced price. _They're offering a package deal where you buy three DVDs and get a fourth for free._  
 __veep__ _n informal_ A vice president.  
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
