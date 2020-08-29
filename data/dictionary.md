@@ -80,7 +80,7 @@ __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loa
 __abhorrent__ _adj_ :five::hammer:  
 __abide by__ _idiom_ To conform to; comply with: _abide by the rules._  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
-__abject__ /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
+__abject__ _adj_ :two: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_  
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
@@ -2144,6 +2144,7 @@ __chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pr
 __chain smoker__  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
+__chalk and cheese__ _We are like chalk and cheese._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
 __chalkboard__ _n_  
 __chalky__ _Chalky skin._  
@@ -3133,6 +3134,7 @@ __custodian__
 __custody__ _Finally my house returned to my custody._  
 __customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __customs__ _n_ (at airport)  
+__cut and dried__ _You seem to think this is cut and dried._  
 __cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
 __cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
 __cut from the same cloth__ _idiom_ To be very similar.  
@@ -3359,7 +3361,7 @@ __dejected__
 __deking__  
 __dekulakization__ _n_  
 __delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
-__delectable__ _adj_ :four::hammer: _Syn_ delicious  
+__delectable__ _adj_ :five::hammer: _Syn_ delicious  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _Non-delegatable actions._  
@@ -5632,7 +5634,7 @@ __grass-routs__ _?_ _Grass-routs campaign._
 __grassroots__ :two::hammer: _A grassroots effort._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
-__grate<sup>2</sup>__ _v_ :five: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
+__grate<sup>2</sup>__ _v_ :six: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
 __gratin__ _?_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
@@ -6410,6 +6412,7 @@ __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_
 __Hoosiers__  
 __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
 __hoot<sup>2</sup>__ _n_ :two: __3__ _informal_ One that is hilariously funny: _"Emmett, that skirt is a hoot!" (Bobbie Ann Mason)._ _You know, it's a hell of a hoot._  
+__hope against (all) hope__ _idiom_ To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn't going to come home for Christmas, but I'm hoping against hope she'll change her mind._  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __Hopi__ _n_  
 __hopped cars__  
@@ -6558,6 +6561,7 @@ __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
 __hysteric__  
 __hysterical__  
+__I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __Ibuprofen__  
@@ -7111,6 +7115,7 @@ __keep back__ _phr v_ To not tell someone about something. _Whatever you discove
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
+__keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
 __keep tab(s) (on someone or something)__ _idiom_ :eight::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._  
 __keep up with__ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
@@ -7198,11 +7203,11 @@ __knackered<sup>1</sup>__ _v_
 __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
 __knave__  
 __knavish__  
-__knead__ _v_ :eight::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
+__knead__ _v_ :nine::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
 __knee__ :mute:[~~k~~nee]  
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
-__kneecap__  
+__kneecap__ _v_ :three::hammer: (kneecapping)  
 __knell__ _n_ :three::hammer:  
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
 __knife__ :mute:[~~k~~nife]  
@@ -7364,8 +7369,8 @@ __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the fa
 __latrine__ _n_  
 __laudable__  
 __laudatory__ Expressing praise; commendatory.  
-__lauded__ _v_  
-__lauds__ _Barber was buried after lauds._  
+__laud<sup>1</sup>__ _v_ :two: (lauded) To give praise to; glorify.  
+__laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
 __laughing very hard__  
 __laughingstock__  
@@ -7691,6 +7696,7 @@ __lovacore__
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
+__low profile__ _n_ Behavior or activity carried out with deliberate restraint or modesty so as not to attract attention: _keep a low profile._  
 __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
 __low-res__ _adj_ _informal_ Low-resolution.  
 __low-slung__ _Low-slung school._  
@@ -10093,7 +10099,7 @@ __pustules__ _n_
 __put (one's) foot in (one's) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
 __put it on the money__  
-__put off__ _idiom_ :two::hammer:  
+__put off by someone or something__ _idiom_ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put on a clinic__  
 __put on hold__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
@@ -11272,6 +11278,7 @@ __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _Sensitive questions._  
 __sentence__ _n_ _A sentence of judges._  
+__sententious__ _adj_  
 __sentience__  
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
@@ -11865,6 +11872,7 @@ __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
 __smog__ _n_ :three::hammer:  
+__smoke like a chimney__ _idiom_ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ _This person smokes me._  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
@@ -13223,7 +13231,7 @@ __ticket taker__ _n_ Someone who is paid to admit only those who have purchased 
 __tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to death._  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
 __tickling__ _n_  
-__ticklish__ :two::hammer:  
+__ticklish__ _adj_ :three: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __tidbit__ _n_ :five::pencil2::hammer: (tidbits) _He fed the cat tidbits._  
@@ -13898,7 +13906,7 @@ __upsell__ _v_
 __upselling__ _n_ :two: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
-__upshot__ _n_ :six::hammer:  
+__upshot__ _n_ :seven::hammer:  
 __upside__ _n_ :three::hammer: (advantage?) _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
@@ -14075,6 +14083,7 @@ __vista__ _n_ :three::hammer: (vistas)
 __vital__ _adj_  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
+__vituperate__ _v_  
 __vituperation__ _n_ :two: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol  
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
@@ -14236,6 +14245,7 @@ __wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A we
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :four::hammer:  
+__wearily__  
 __weary__ _adj_ :two::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor', 'Manager', and 'Super'._  
