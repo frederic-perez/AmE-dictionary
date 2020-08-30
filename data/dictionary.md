@@ -91,6 +91,7 @@ __aboveboard__
 __abracadabra__ _n_  
 __abrade__ _v_  
 __abreast__ _adv_ :six: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
+__abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
 __abrogation__ :two::hammer:  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
@@ -290,6 +291,7 @@ __airship__ _n_ _Tethered airships._
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airy__ _The master bedroom is airy._  
 __aisle__ :mega: (īl)  
+__AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
 __akin__ _adj_ :five: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc.  
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
@@ -946,6 +948,7 @@ __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
+__be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
@@ -1592,7 +1595,8 @@ __broken accent__
 __broken English__ _n_  
 __broken record__ _n_ _idiom_ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., "broken") can loop over the same recorded segment endlessly.  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
-__broker__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
+__broker<sup>1</sup>__ _n_  
+__broker<sup>2</sup>__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
 __bromance__ :two::hammer:  
 __bronc__ _Bull and bronc riding._  
 __bronco__ _n_ :camera:  
@@ -2179,7 +2183,7 @@ __chargrilled__ _Chargrilled chicken._
 __charily__  
 __charisma__ :mute:[c~~h~~arisma]  
 __charlatan__ _n_  
-__charnel house__ _n_ :four::hammer: _It served as the hospital's charnel house._ _The charnel wagon._  
+__charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect's basement left little doubt that he was the killer we were seeking._ _It served as the hospital's charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
 __charted__  
 __charter__ _Charter schools._  
@@ -2196,7 +2200,7 @@ __chastize__ _v_
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
 __chatter__ _A machine-gun chatter._  
-__chatterbox__ _n informal_ :three::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
+__chatterbox__ _n informal_ :four::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __chauffeured__ _v_  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
@@ -3010,7 +3014,7 @@ __crone__ _n_ :three: A witchlike old woman.
 __cronies__ _n_ :four::hammer: _Military cronies._  
 __crony__ _n_ :three::hammer:  
 __cronyism__ _n_ :dart::six: When someone hires a friend to do a job, whether or not she's the best candidate, that's cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You're most likely to find the word cronyism in political discussions. It's not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn't as qualified as other candidates but gets the job anyway, it's a clear case of cronyism. The original meaning of cronyism was simply "friendship," from crony, Cambridge student slang for "old friend" from the Greek khronios, "long-lasting." :es: amiguismo  
-__crook__ _n_ :three::hammer: (crooks) _They carried long crooks._  
+__crook__ _n_ :four::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
 __crop-duster__ _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
@@ -3980,6 +3984,7 @@ __duplexes__ :two::hammer:
 __duplicitious__ _A duplicitious cigarette industry._  
 __duplicitous__  
 __durable__ :two::hammer: _The end of durable Red John story line is a new beginning._  
+__duration__  
 __duress__ _n_ :five::hammer:  
 __dust devils__  
 __dusters__ _n_ _My grandad sold dusters._  
@@ -5622,6 +5627,7 @@ __grandiose__
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
 __granted__  
+__grapevine__ _Al must have heard something in the grapevine._  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
@@ -6706,6 +6712,7 @@ __in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._
 __in-laws__ _A room for the in-laws._  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__  
+__inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
 __inane__ _adj_ :six::hammer:  
 __inanity__ _n_  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
@@ -7367,10 +7374,10 @@ __Latino__ :pencil2: _In Los Angeles half of the city's residents are Latino._
 __Latinos__ _n_  
 __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
 __latrine__ _n_  
-__laudable__  
-__laudatory__ Expressing praise; commendatory.  
 __laud<sup>1</sup>__ _v_ :two: (lauded) To give praise to; glorify.  
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
+__laudable__  
+__laudatory__ Expressing praise; commendatory.  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
 __laughing very hard__  
 __laughingstock__  
@@ -7668,6 +7675,7 @@ __loopy__ :two::hammer: _A loopy smile._ _Trump is everybody's loopy uncle, cons
 __loose cannon__ :two::hammer:  
 __loose ends__ :two::hammer:  
 __loose strands__  
+__loose-cannon__  
 __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
@@ -7935,7 +7943,7 @@ __matter-of-factly__
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturations__  
 __maturities__ _List of maturities._  
-__maudlin__ :two::hammer:  
+__maudlin__ _adj_ :four: Foolishly tearful or sentimental, as when drunk.  
 __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling group._  
 __Maundy Thursday__  
 __maven__ _n_ :three::hammer:  
@@ -9014,7 +9022,7 @@ __pachinko__ (game)
 __Pacific Basin__ _Pacific Basin nations._  
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
-__package deal__  
+__package deal__ _idiom_ :two: A group of many or various things sold together at a single, often reduced price. _They're offering a package deal where you buy three DVDs and get a fourth for free._  
 __package peanuts__  
 __package__ _n_ :mega: /păk′ĭj/  
 __padded__ _He leaned back in his padded chair._  
@@ -9795,6 +9803,7 @@ __practitioner__ _GTD practitioner._
 __pram suit__ _n_  
 __pram__ _n_ :three::hammer:  
 __prance__ _v_ :eight::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
+__prat__ _He could be such a prat at times._  
 __prattle<sup>1</sup>__ _n_  
 __prattle<sup>2</sup>__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
@@ -10408,6 +10417,7 @@ __receipt__ _n_ :two::mute:[recei~~p~~t]:hammer: _Expected items pending receipt
 __receivership__  
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
+__recidivate__ _v_ To return to a previous pattern of behavior, especially to return to criminal habits. _Syn_ relapse, retrogress, lapse, regress, fall back _I did not mean to recidivate, but burgling homes is second nature to me._  
 __recidivism__  
 __recidivist__ _n_ :four::hammer:  
 __recitalist__  
@@ -10855,6 +10865,7 @@ __rudderless__
 __ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
 __rudiment__ _n_  
+__rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :three::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :six::hammer: _Dan shook his head ruefully._  
@@ -11122,7 +11133,8 @@ __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or 
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scout out__ _v_ To examine a place or area in order to get information about it.  
-__scowl__ _v_ :five::hammer: (scowled, scowling)  
+__scowl<sup>1</sup>__ _n_  
+__scowl<sup>2</sup>__ _v_ :five::hammer: (scowled, scowling)  
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
@@ -12769,7 +12781,7 @@ __swathe<sup>2</sup>__ _v_ :three::hammer: (swathed)
 __swats__ _n_ :two::hammer:  
 __swatted__  
 __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
-__sway<sup>2</sup>__ _n_ __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
+__sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweat bullets__ _idiom_ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
 __sweat it__ _Don't sweat it._  
@@ -13109,6 +13121,7 @@ __the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that see
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
 __the final straw__  
 __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
+__the half of it__ _idiom_ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
 __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
@@ -13993,6 +14006,7 @@ __vaudeville__ _n_ :two::pencil2::hammer:
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
+__veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
