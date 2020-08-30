@@ -1,4 +1,16 @@
 
+
+__off__ :two::hammer: _He knew that from the off._  
+__meet__ _n_ :two::hammer:  
+__rock the boat__ _Please, don't rock the boat._  
+__in his own right__  
+__debacle__ _n_  
+__shite__  
+__more often than not__  
+__plaintively__  
+__claw__ _v_  
+__haphazard__  
+
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __on edge__ _idiom_ Anxious and tense. _Tonight she felt on edge._  
 __iffy__ _I feel a bit iffy._  
