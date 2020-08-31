@@ -1,5 +1,16 @@
 
 
+__in the offing__  
+__big time__  
+__raving__ _v_  
+__grudges__ _n_  
+__creds__ _n_ :five::hammer:  
+__knob__ _Swallow my knob._  
+__disabuse__ _v_  
+__foreseeable__  
+__askance__  
+__understatement__ _n_  
+
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
