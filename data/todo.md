@@ -1,27 +1,5 @@
 
 
-__off__ :two::hammer: _He knew that from the off._  
-__meet__ _n_ :two::hammer:  
-__rock the boat__ _Please, don't rock the boat._  
-__in his own right__  
-__debacle__ _n_  
-__shite__  
-__more often than not__  
-__plaintively__  
-__claw__ _v_  
-__haphazard__  
-
-__paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
-__on edge__ _idiom_ Anxious and tense. _Tonight she felt on edge._  
-__iffy__ _I feel a bit iffy._  
-__smithereens__ _n_ A collection of small fragments considered as a whole. _Berlin was bombed to smithereens._  
-__predicament__ _n_ _She was sorry for her daughter's predicament._  
-__quandary__ _n_ _Mel was in a quandary._  
-__wake-up call__ _idiom_ __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold's sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one's hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there's no way I oversleep for the first conference session tomorrow._  
-__leniency__ _n_ _Syn_ indulgence, lenience  
-__Achilles heel__ _n_  
-__lairy__ _adj_ Gaudy or flashy.  
-
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  

@@ -131,7 +131,7 @@ __accretion__ _n_ :two::hammer: _Ice accretion._
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
 __acetate__ _n_  
-__Achilles heel__ A weakness or vulnerable point.  
+__Achilles heel__ _n_ :two: A weakness or vulnerable point.  
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
 __Achilles' heel__ _n_ A seemingly small but actually crucial weakness.  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia (from the Greek 'nanos', meaning 'dwarf'), _slang_ lollypopguildophobia (after the trade union of munchkins in the Wizard of Oz)  
@@ -2394,7 +2394,7 @@ __clatter__ _n_ :two::hammer: _The clatter of the Telex machines._
 __claw back__ _v_  
 __claw machine__ _n_ :camera:  
 __claw<sup>1</sup>__ _n_  
-__claw<sup>2</sup>__ _v_  
+__claw<sup>2</sup>__ _v_ :two::hammer:  
 __clawback__  
 __clawed__ _v_  
 __clean his clock__  
@@ -3274,7 +3274,7 @@ __dean__ _n_ :three::hammer: _He served as dean._
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :five::dart::hammer:  
 __deathless__  
-__debacle__ :two::hammer:  
+__debacle__ _n_ :three::hammer:  
 __debasing__ _v_  
 __debatable__  
 __debauchery__  
@@ -5939,7 +5939,7 @@ __hanks__ :pencil2: _Stringy hanks of blond hair._
 __hanky-panky__  
 __Hannukah__ (Chanukah)  
 __hantavirus__  
-__haphazard__  
+__haphazard__ :two::hammer:  
 __haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
@@ -6598,7 +6598,7 @@ __ie.__ _abbr_ That is to say.
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
 __if you will__ :astonished:  
-__iffy__ _adj_ _slang_ :three: Uncertain or doubtful. _Iffy call._  
+__iffy__ _adj_ _slang_ :four: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
 __IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
@@ -6678,6 +6678,7 @@ __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likel
 __in droves__ _They will come in droves._  
 __in excess of__ :four::hammer: _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
+__in his own right__ _idiom_ by reason of one's own ability or ownership etc. _She's a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
@@ -7308,6 +7309,7 @@ __laid back attitude__
 __laid-back__ _adj_ _idiom_ :seven: Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia's laid back lifestyle._  
 __lain__  
 __lair__ _n_ :two::hammer: _A tiger's lair._  
+__lairy__ _adj_ Gaudy or flashy.  
 __lam__ _The Bronco is on the lam._  
 __lamb__ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
@@ -7463,7 +7465,7 @@ __lemons > dance of the lemons__
 __lemony__  
 __length__ _n_ :two::hammer: _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._ _He walked the length of the carriage._  
 __lengthy__ _A lengthy period._  
-__leniency__ :two::hammer:  
+__leniency__ _n_ :three::hammer: _Syn_ indulgence, lenience  
 __lenient__ _adj_ :six: (leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
 __Lenny__ Diminutive of Leonard.  
 __lens__ _Lens design._  
@@ -7990,7 +7992,7 @@ __meek<sup>2</sup>__ _n_
 __meekly__ _adv_ :three::hammer:  
 __meekness__ _n_ :three::hammer:  
 __meet up__  
-__meet__ _n_ :two::hammer: _I started going to international meets._  
+__meet__ _n_ :four::hammer: _I started going to international meets._  
 __meet-and-greet__ _idiom_ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __meetup__ _n_ (meet-up) A word for "meeting." _Our monthly meetup._  
 __megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
@@ -8246,6 +8248,7 @@ __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._
 __moratorium__ :two::hammer:  
 __morbidity__ _n_ :two: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._  
 __morcellator__  
+__more often than not__ _idiom_ Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more than meets the eye__  
 __morels__ _n_  
 __moribund__  
@@ -8710,6 +8713,7 @@ __of one's own accord__ Voluntarily.
 __of sorts__ _phr_ :three: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
+__off__ :two::hammer: _He knew that from the off._  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
 __off-kilter__ :two::hammer:  
@@ -8772,7 +8776,7 @@ __on a tear__ _The U.K. labor market is on a tear._
 __on all fours__ _adj_ _idiom_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
 __on cloud nine__  
 __on deck__  
-__on edge__ _idiom_ :two: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._  
+__on edge__ _idiom_ :three: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on fire__ _idiom_ Something is going really well or someone is doing a fantastic job.  
 __on foot__ _I work to work on foot._  
@@ -9093,6 +9097,7 @@ __pants down__ :camera: _You might get caught with your pants down._
 __pants__ _n_  
 __pants-on-fire__  
 __pantsed__ _v_  
+__paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
 __paper tablecloth__ _n_ :two::hammer:  
 __paper towel__ :two::hammer: (paper towels)  
@@ -9549,7 +9554,7 @@ __plaid__ :two::hammer: _Plaid number._ _Plaid shirt._
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
 __plaintive__ _adj_ :four: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
-__plaintively__ _adv_ :two:  
+__plaintively__ _adv_ :three:  
 __plaiting__ _Tshanyi earns money plaiting hair._  
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
 __plane__ :two::hammer: _It was a place full of plane trees._  
@@ -9820,7 +9825,7 @@ __precision__ _Precision medicine._
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
-__predicament__ _n_ :six::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._  
+__predicament__ _n_ :seven::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter's predicament._  
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
@@ -10156,7 +10161,7 @@ __Quaker__
 __quakes__ _v_  
 __qualify__ _v_  
 __qualm__ _n_ :nine::m: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
-__quandary__ _n_ :nine: Difficult dilemma. _All-Star managers face quandary._  
+__quandary__ _n_ :nine::m: Difficult dilemma. _All-Star managers face quandary._ _Mel was in a quandary._  
 __quantifiable__  
 __quarrelsome__  
 __quarry__  
@@ -10754,7 +10759,7 @@ __robe<sup>1</sup>__ _n_ :two::hammer: _The judge's robe._
 __robe<sup>2</sup>__ _v_  
 __robin-breasted__  
 __rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
-__rock the boat__ _idiom_ :three::hammer:  
+__rock the boat__ _idiom_ :four::hammer: _Please, don't rock the boat._  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
 __rock-paper-scissors__ _Is this rock-paper-scissors?_  
@@ -11878,7 +11883,7 @@ __smidgen__ :two::hammer: _The rosato di petit verdot has a smidgen of complexit
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
 __smite__ _v_ :two::hammer: _God will smite me._  
-__smithereens__ _n informal_ :two: Fragments or splintered pieces; bits: _The fragile dish broke into smithereens._  
+__smithereens__ _n informal_ :three: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
@@ -14163,7 +14168,7 @@ __waiver__
 __waivers__ _n_  
 __wakame__ _n_  
 __wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
-__wake-up call__ :two::hammer:  
+__wake-up call__ _idiom_ :three: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold's sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one's hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there's no way I oversleep for the first conference session tomorrow._  
 __walk in sunshine__  
 __walk on air__ To be very happy.  
 __walk on eggshells__  
