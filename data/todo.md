@@ -1,5 +1,16 @@
 
 
+__animosity__  
+__contrite__ _adj_  
+__no-no__ :two::hammer: _Wives and children were a no-no in anyone's books._  
+__wind someone up__ _I'm not winding you up._  
+__lairy__ _adj_  
+__pointless__  
+__besotted__  
+__distress__ _n_  
+__inkling__ _n_  
+__berate__ _v_  
+
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
