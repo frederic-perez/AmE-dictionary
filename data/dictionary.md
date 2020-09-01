@@ -604,6 +604,7 @@ __ask for the moon__ _idiom_ To ask for too much, to want something that is not 
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
 __ask over__ _phr v_ To invite people to your house.  
+__askance__  
 __asp__ _n_  
 __aspen__  
 __aspersion__ _n_  
@@ -639,7 +640,7 @@ __astride__ _adv_ :three::hammer:
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
-__asunder__ _adv_ :two::hammer: _A world torn asunder by evil and hate._  
+__asunder__ _adv_ :three::hammer: _A world torn asunder by evil and hate._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
@@ -935,6 +936,7 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tine holes of his game._ _His eyes came together like BBs, then refocused on my face._  
+__be (someone's) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone's job, need, or purpose.  
 __be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
 __be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
@@ -1146,7 +1148,7 @@ __big mon__
 __Big Pharma__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
-__big time__ _n informal_ :three::hammer:  
+__big time__ _n informal_ :four::hammer:  
 __big yes__  
 __big-box__ _adj_ :three: Of, relating to, or being a large chain store having a boxlike structure. _Big-box stores._ _Big-box merchandisers._  
 __big-gulper__ _America's big-gulpers._  
@@ -2710,6 +2712,7 @@ __congrats__ _Congrats on your wedding._
 __Congressmen__ _n_  
 __conjecture__  
 __conjunction__  
+__conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
 __conjure__ _v_ :three::hammer: _Syn_ beg  
 __conman__  
 __connivance__ _n_ :two: Agreement on a secret plot.  
@@ -2724,7 +2727,7 @@ __consequently__
 __conservancies__  
 __consigliere__ _Our family consigliere._  
 __consoled__ _v_  
-__conspicuous consumption__ _idiom_ The lavish expenditure of money or acquisition of expensive items as a public display of one's wealth or financial success.  
+__conspicuous consumption__ _idiom_ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one's wealth or financial success.  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __conspicuously__  
 __constituency__ _n_ :six::hammer: (constituencies)  
@@ -2962,7 +2965,7 @@ __creased__
 __creases__ _Knife creases._  
 __creasing__  
 __creature of habit__ _idiom_ One who prefers the comfort and reliability of routine and habitual behavior.  
-__cred__  
+__cred__ _n informal_ :six: (creds) short for credibility: _street cred._  
 __credence__ _n_ :four::hammer:  
 __credenza__ _n_  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
@@ -3558,7 +3561,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
 __dis<sup>2</sup>__ _v_ :two::hammer:  
-__disabuse__ _v_ :dart::two: To make someone realize that they were wrong to believe something.  
+__disabuse__ _v_ :dart::three: To make someone realize that they were wrong to believe something.  
 __disaffected__ _adj_ :two::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
@@ -4996,6 +4999,7 @@ __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the fo
 __forensics__ :two::hammer:  
 __foreplay__  
 __forerunner__ _n_  
+__foreseeable__  
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
 __forestall__ _v_ :four: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
@@ -5754,7 +5758,7 @@ __grown-up<sup>2</sup>__ _n_
 __grub__ _n_ _slang_ :three: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
-__grudge<sup>2</sup>__ _n_ :seven: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
+__grudge<sup>2</sup>__ _n_ :eight: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
 __grudgingly__ _adv_ :three::hammer:  
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
@@ -6427,6 +6431,7 @@ __horn buttons__ :camera:
 __Horn of Africa__ :camera: Somalia.  
 __horologist__ _n_ Someone who makes or repairs watches.  
 __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
+__horse and rabbit stew__ _idiom_ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word "horse" is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
@@ -6472,6 +6477,7 @@ __housecarls__
 __household__ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housemother__ _n_  
+__housewarming (party)__ _idiom_ A party thrown to celebrate when someone moves into a new apartment, flat, or house.  
 __housing equity__  
 __housing starts__  
 __housing unit__  
@@ -6700,6 +6706,7 @@ __in the lurch__ _The TV series was left in the lurch._
 __in the midst of (something)__ _idiom_  
 __in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It's a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
+__in the offing__  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the water__ _There's nothing in the water here._  
@@ -7222,6 +7229,7 @@ __knife__ :mute:[~~k~~nife]
 __knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
 __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
+__knob__ _Swallow my knob._  
 __knobbed__ _v_  
 __knock around__ _phr v_ To spend time with someone because you are friends.  
 __knock off__ _phr v_ To stop working. _I gotta knock off work to come here and the commute is killing me._  
@@ -7654,6 +7662,7 @@ __long hours__ _idiom_ :two::hammer: _The long hours you're putting in may not h
 __long shot__  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
+__longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
 __longbow__ _n_ :three::hammer:  
 __longhand__ _n_ :four: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
@@ -8311,6 +8320,7 @@ __MQTT__ _abbr_ 	Message Queuing Telemetry Transport.
 __Mr Goodwrench__  
 __Mr. Such and Such__  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
+__mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
 __muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
 __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
@@ -10358,12 +10368,11 @@ __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._
 __ravaged__ _v_ :four::hammer:  
 __ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
-__rave<sup>2</sup>__ _v_ :four: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
+__rave<sup>2</sup>__ _v_ :seven: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
 __rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
 __raven-haired__  
 __ravenous__ _adj_ :five: Extremely hungry.  
 __ravine__ _n_ :two::hammer:  
-__raving__ _v_ :two::hammer:  
 __ravish__  
 __ravishing__ _adj_ :three::hammer:  
 __raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
@@ -10662,7 +10671,7 @@ __rhabdomancy__
 __rhapsodize__  
 __rhapsody__ :mute:[r~~h~~apsody]  
 __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
-__rheum__ _n_ :es: legaña  
+__rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
 __rhinoceros__ _n_ :mega:  
@@ -12684,6 +12693,7 @@ __sudden__
 __suds__  
 __sudsy__  
 __suffice it to say__ :two::hammer:  
+__suffrage__ _n_  
 __suffragette__  
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
@@ -13787,7 +13797,7 @@ __underscore__ _v_ :four::hammer: (underscored, underscoring)
 __undersecretary__  
 __understandably__ :two::hammer:  
 __understated__ _adj_  
-__understatement__  
+__understatement__ _n_ :two::hammer:  
 __understudy__ _v_  
 __undertake__ _v_ :two::hammer: _A video of cyclists overtaking and undertaking a horse rider._  
 __undertaker__ _n_  

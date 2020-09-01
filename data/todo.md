@@ -1,27 +1,5 @@
 
 
-__conspicuous consumption__ _n_ The acquisition or display of expensive items to attract attention to one's wealth or to suggest that one is wealthy.  
-__suffrage__ _n_  
-__rheum__ _n_ A watery or thin mucous discharge from the eyes or nose.  
-__longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
-__be (someone's) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone's job, need, or purpose.  
-__conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
-__housewarming (party)__ _idiom_ A party thrown to celebrate when someone moves into a new apartment, flat, or house.  
-__asunder__ _adv_  
-__mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
-__horse and rabbit stew__ _idiom_ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
-
-__in the offing__  
-__big time__  
-__raving__ _v_  
-__grudges__ _n_  
-__creds__ _n_ :five::hammer:  
-__knob__ _Swallow my knob._  
-__disabuse__ _v_  
-__foreseeable__  
-__askance__  
-__understatement__ _n_  
-
 __glib__ _Jack was glib._  
 __grudgingly__ _adv_  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
