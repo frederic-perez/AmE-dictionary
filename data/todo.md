@@ -1,27 +1,5 @@
 
 
-__animosity__  
-__contrite__ _adj_  
-__no-no__ :two::hammer: _Wives and children were a no-no in anyone's books._  
-__wind someone up__ _I'm not winding you up._  
-__lairy__ _adj_  
-__pointless__  
-__besotted__  
-__distress__ _n_  
-__inkling__ _n_  
-__berate__ _v_  
-
-__glib__ _Jack was glib._  
-__grudgingly__ _adv_  
-__to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
-__skinflint__ _n_  
-__amiss__ _Jack had sensed something amiss._  
-__Saran Wrap__  
-__hard drinking__ _Ed was known for his hard drinking._  
-__skittish__  
-__tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
-__larcency__  
-
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __legerdemain__ _n_ __1__ Sleight of hand. __2__ A display of skill and adroitness.  

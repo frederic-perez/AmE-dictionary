@@ -380,7 +380,7 @@ __ametropia__ _n_
 __amiable__  
 __amid__  
 __Amish__ _n_ _Amish country._  
-__amiss__ _adj_ :two::hammer:  
+__amiss__ _adj_ :three::hammer: _Jack had sensed something amiss._  
 __amity__  
 __ammo__  
 __ammonia__ _n_  
@@ -1105,7 +1105,7 @@ __beseechment__
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
 __besmeared__ _v_  
 __besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
-__besotted__ _adj_ :three::hammer:  
+__besotted__ _adj_ :four::hammer:  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
@@ -2762,7 +2762,7 @@ __contranym__ _n_ A word that has opposite or nearly opposite meanings, as _clea
 __contraption__  
 __contrarian__  
 __contretemps__  
-__contrite__ _adj_ :five::hammer:  
+__contrite__ _adj_ :six::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :three::hammer:  
 __contrive__ _v_ :two::hammer: (contriving)  
@@ -3658,6 +3658,7 @@ __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 1
 __distinct__ :two::hammer:  
 __distinctly__ :two::hammer:  
 __distraught__  
+__distress__ _n_  
 __distressed__  
 __disused__  
 __ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
@@ -5440,7 +5441,7 @@ __glass cliff__ The glass cliff is the supposed phenomenon of women in leadershi
 __glass slipper__ _(Cinderella)_  
 __glazing__ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :three::hammer: (gleaned, gleaning)  
-__glib__ _adj_ :five::hammer: _A glib reply to his remark._ _A glib tongue._  
+__glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
 __glimmer__ _A glimmer of hope._  
 __glimpse<sup>1</sup>__ _n_  
@@ -5759,7 +5760,7 @@ __grub__ _n_ _slang_ :three: Food. _For veterans, this is the three-day weekend 
 __grubbing__ _v_ :two::hammer:  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
 __grudge<sup>2</sup>__ _n_ :eight: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
-__grudgingly__ _adv_ :three::hammer:  
+__grudgingly__ _adv_ :four::hammer:  
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
 __gruelling__  
@@ -5955,6 +5956,7 @@ __harangue__ _v_
 __harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
 __harangue<sup>2</sup>__ _v_ :four::hammer: (haranguing)_v_  
 __harbinger__ _n_ :four::hammer:  
+__hard drinking__ _Ed was known for his hard drinking._  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard knocks__ _idiom_ The real and practical experiences of life, especially those involving hardship or adversity.  
 __hard nut to crack__ _idiom_ A problem that is hard to solve or a person who is difficult to understand.  
@@ -6822,7 +6824,7 @@ __initiative__
 __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
-__inkling__ _n_ :five::hammer:  
+__inkling__ _n_ :six::hammer:  
 __inland__ :two::hammer:  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
@@ -7317,7 +7319,7 @@ __laid back attitude__
 __laid-back__ _adj_ _idiom_ :seven: Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia's laid back lifestyle._  
 __lain__  
 __lair__ _n_ :two::hammer: _A tiger's lair._  
-__lairy__ _adj_ Gaudy or flashy.  
+__lairy__ _adj_ :two: Gaudy or flashy.  
 __lam__ _The Bronco is on the lam._  
 __lamb__ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
@@ -7351,7 +7353,7 @@ __laped pin__
 __lapel__ _n_  
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
-__larceny__ _n_ :six: Theft of personal property. :es: hurto  
+__larceny__ _n_ :seven: Theft of personal property. :es: hurto  
 __larder__ _n_ :three::hammer:  
 __largely__ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
@@ -8576,7 +8578,7 @@ __no way around it__
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
 __no-holds-barred__  
-__no-no__ _n_ _informal_ :nine::hammer:  
+__no-no__ _n_ _informal_ :nine::m::hammer: _Wives and children were a no-no in anyone's books._  
 __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
@@ -9685,7 +9687,7 @@ __Point is,__
 __point-and-shoot camera__  
 __point-blank__  
 __pointed questions__  
-__pointless__ _adj_  
+__pointless__ _adj_ :two::hammer:  
 __poise__  
 __poke__ _v_  
 __poker face__ _n_ A face lacking any interpretable expression, as that of an expert poker player.  
@@ -11023,7 +11025,7 @@ __sapper__ _n_ :two::hammer:
 __sapphire lidar__  
 __sapphire__ :mute:[sa~~p~~phire]  
 __sappy__ _Sappy smile._  
-__Saran wrap__ _n_ :dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
+__Saran wrap__ _n_ :two::dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __sarcophagi__ _n_  
 __sarcophagus__ _n_  
 __sartorial__  
@@ -11703,6 +11705,7 @@ __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or ma
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
 __skimpy__ _adj_ :three::hammer:  
 __skin parlor__  
+__skinflint__ _n_ One who is very reluctant to spend money; a miser.  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
@@ -11711,7 +11714,7 @@ __skirmish<sup>2</sup>__ _v_ :two::hammer:
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
 __skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
-__skittish__ _adj_ :eight: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
+__skittish__ _adj_ :nine: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulduggery__  
@@ -12945,6 +12948,7 @@ __tally__ _v_
 __talons__ _The nails were sharp as talons._  
 __tamale__ _I'm staying away from that one--that's a hot tamale._  
 __tamp down__ _v_ :two::hammer:  
+__tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
 __tan__ Color?  
 __tang__ _n_ :four::hammer: _Dory, the little blue tang fish._  
 __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn's Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
@@ -13350,6 +13354,7 @@ __to be in someone's shoes__ _Nobody has been in my shoes._
 __to be in the clear__  
 __to date__ _idiom_ :three: Until now. _To date, no winners have attended._  
 __to have a point__ _He's got a point._  
+__to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
 __to hell and back__ _idiom_ :three: Through a difficult, trying, or perilous situation and having overcome it. _I'd go to hell and back for him._  
 __to hell__  
 __to his name__ _Bernie died with $1.09 to his name._  
