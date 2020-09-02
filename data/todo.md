@@ -1,5 +1,16 @@
 
 
+__snorted__ _v_ _Ada snorted in derision._  
+__tart__  
+__feisty__  
+__countermand__ _v_  
+__pitfalls__ _n_  
+__ferret out__ _phr v_ 
+__boot__ _v_  
+__fallout__ _n_  
+__move heaven and earth__  
+__hypocrite__  
+
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __legerdemain__ _n_ __1__ Sleight of hand. __2__ A display of skill and adroitness.  
