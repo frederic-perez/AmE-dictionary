@@ -1,5 +1,16 @@
 
 
+__profane__ _adj_  
+__diabolical__ _adj_  
+__vehicular__ _adj_ :mega: _Vehicular homicide._  
+__calamity__ _n_ :meag:  
+__calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.  
+__hobgoblin__ _n_  
+__Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
+__calliope__ _n_ :mega: A musical instrument fitted with steam whistles, played from a keyboard.  
+__turtledove__ _n_ :es: tórtola  
+__swanky__ _adj_  
+
 __from the off__ _He knew it from the off._  
 __appease__ _v_  
 __entitled__ _v_ _His brothers were entitled to express their opinions._  
