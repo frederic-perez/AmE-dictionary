@@ -326,7 +326,7 @@ __all that said,__
 __all the difference in the world__ _idiom_ The greatest degree of difference that is possible or conceivable. Without the verbs "mean" or "make," it is used to compare two disparate things.  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-nighters__ _n_  
-__all-out__ _All-out military battle._  
+__all-out__ _adj_ :two: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
 __allay__ _v_ :four::hammer: (allayed)  
@@ -946,6 +946,7 @@ __be glad to see the back of__ _idiom_ Be happy when a person leaves.
 __be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
+__be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be no picnic__ _Looking after four children is no picnic._  
@@ -1428,7 +1429,7 @@ __boorishness__ :two::hammer:
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
-__boot<sup>2</sup>__ _v_ :two::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
+__boot<sup>2</sup>__ _v_ :three::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
 __bootlegger__  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
@@ -2881,7 +2882,7 @@ __counter-depth fridge__ :camera:
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
 __countered__ _Countered kitchen._  
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
-__countermand__ _v_  
+__countermand__ _v_ :two::hammer:  
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _Countervailing evidence._  
@@ -4176,6 +4177,7 @@ __Empress__
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
 __empty-net/power-play/short-handed goal__  
+__emulate__ _v_  
 __emulsified__ _v_  
 __en masse__ :two::hammer: _Cruz supporters are going to bolt to Rubio en masse._  
 __en-suite bath(room)__ :two::hammer:  
@@ -4589,7 +4591,7 @@ __feel out__
 __feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
-__feisty__ _adj_ :seven: Full of energy and lively determination. _The feisty man gloated._  
+__feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _I am a fellow student._  
 __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
@@ -4612,7 +4614,7 @@ __Ferberizing__
 __fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho  
 __ferny__  
 __ferocious__  
-__ferret out__ _v_  
+__ferret out__ _v_ :two::hammer:  
 __ferret-faced__  
 __ferret<sup>1</sup>__ _n_ :three::hammer:  
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
@@ -5654,6 +5656,7 @@ __grave liner__ _Grave liners are stored at the Travis County cemetery._
 __grave__  
 __gravel__ _The car was parked on the gravel drive._  
 __gravely__  
+__graven__ _adj_ Cut or impressed into a surface. _Syn_ engraved, etched, inscribed, incised _The lines from the corners of his mouth seemed graven into his face._  
 __gravesite__  
 __gravestone__  
 __graveyard orbit__  
@@ -6354,6 +6357,7 @@ __hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more da
 __hold one's pose__  
 __hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
 __hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
+__hold the reins__ _idiom_ To have or be in control, especially of a group, project, or situation.  
 __hold true__ _v_  
 __hold up a fish__  
 __hold up__ _phr v_ Wait or delay. _Hold up a minute. I want to check something._  
@@ -6371,6 +6375,7 @@ __holistic__ _adj_ :seven::hammer: _My holistic system._
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
+__holy crickets__ _idiom_ An exclamation of surprise, shock, or astonishment.  
 __Holy Ghost__  
 __holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
 __holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.  
@@ -6568,6 +6573,7 @@ __hypertensive__ _To be hypertensive._
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _"Sally" is a hypocorism for "Sarah"._  
 __hypocrisy__  
+__hypocrite__  
 __hypocritical__ :two::hammer::pencil2:  
 __hypoglycemia__  
 __hypokalemia__  
@@ -6624,6 +6630,7 @@ __imbibe__ _v_ :two::hammer: (imbibing)
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
 __imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __immerse__ _v_  
 __immigrated__  
 __immigration__ :mega:  
@@ -7457,7 +7464,7 @@ __lefty buckets__
 __leg up__ :two::hammer:_Area's 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
 __legal tack__  
-__legerdemain__ _n_ :four::hammer:  
+__legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legion__ _The reasons you can't sleep well inflight are legion._  
 __legit__ _adj_ _Slang_ :four: Legitimate.  
 __legwork__ _n_  
@@ -8312,6 +8319,7 @@ __mouthful__ _n_ A word or phrase that is very long or hard to pronounce.
 __mouthguard__  
 __mouthpiece__ _n_ _Jed had just been a mouthpiece._  
 __mouthwash__ _n_ :two::hammer: :es: colutorio  
+__move heaven and earth__ _idiom_ To do everything that one can to make something happen.  
 __move the needle__  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __mover__ _n_  
@@ -9534,7 +9542,7 @@ __pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive
 __pitch<sup>1</sup>__ _n_ :eight::hammer: (soccer) _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitchfork__  
-__pitfalls__ _n_  
+__pitfalls__ _n_ :two::hammer:  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
 __pithy__ _adj_ :four: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
@@ -11970,9 +11978,8 @@ __snoot__ _v_ To behave disdainfully toward; condescend to.
 __snootiness__  
 __snooty__ _adj_ :seven::hammer:  
 __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
-__snort__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
-__snorted__ _v_  
-__snorting__ _v_  
+__snort<sup>1</sup>__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
+__snort<sup>2</sup>__ _v_ :three::hammer: (snorted, snorting) _Ada snorted in derision._  
 __snot rag__  
 __snot__ _n_ :three::hammer:  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
@@ -12076,7 +12083,7 @@ __sot__ :two::hammer: _A surly sot._
 __sought-after__ :two::hammer:  
 __soul__ _n_ :mega:  
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
-__sound__ _adj_ :three::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
+__sound__ _adj_ :four::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __sounding system__  
 __soundly__ _Sleep soundly._  
@@ -12989,7 +12996,7 @@ __tarpon__
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
 __tarry__ _v_ :three::hammer: (tarried)  
-__tart__ _adj_ :four::hammer: _She'd bitten into something overly tart._  
+__tart__ _adj_ :five::hammer: _She'd bitten into something overly tart._  
 __tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._  
 __tartar__ _n_  
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
@@ -13446,6 +13453,7 @@ __torpedo__ _v_
 __torpor__ _n_ :four: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__  
 __torte__ _A torre was named after her._  
+__torturous__ _adj_ Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._  
 __toss and turn__ _idiom_ Sleep badly.  
 __toss out__ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  

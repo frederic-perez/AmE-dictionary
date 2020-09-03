@@ -1,27 +1,5 @@
 
 
-__snorted__ _v_ _Ada snorted in derision._  
-__tart__  
-__feisty__  
-__countermand__ _v_  
-__pitfalls__ _n_  
-__ferret out__ _phr v_ 
-__boot__ _v_  
-__fallout__ _n_  
-__move heaven and earth__  
-__hypocrite__  
-
-__immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
-__be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
-__legerdemain__ _n_ __1__ Sleight of hand. __2__ A display of skill and adroitness.  
-__graven__ _adj_ Cut or impressed into a surface. _Syn_ engraved, etched, inscribed, incised _The lines from the corners of his mouth seemed graven into his face._  
-__hold the reins__ _idiom_ To have or be in control, especially of a group, project, or situation.  
-__sound__ _adj_  
-__all-out__ _adj_ Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._  
-__emulate__ _v_  
-__holy crickets__ _idiom_ An exclamation of surprise, shock, or astonishment.  
-__torturous__ _adj_ Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._  
-
 __address__ _v_  
 __troubleshoot__ _v_  
 __overlook__ _v_  
