@@ -1,5 +1,14 @@
 
 
+__from the off__ _He knew it from the off._  
+__appease__ _v_  
+__entitled__ _v_ _His brothers were entitled to express their opinions._  
+__modicum__  
+__rift__ _n_ _The rift between the two brothers._  
+__keep tabs__ _Ed kept close tabs on his brother._  
+__private dancer__  
+__flak__ _n_  
+
 __address__ _v_  
 __troubleshoot__ _v_  
 __overlook__ _v_  
