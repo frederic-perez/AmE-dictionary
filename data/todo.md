@@ -1,5 +1,16 @@
 
 
+__derecho__ _n_ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
+__denoument__ _n_  
+__dispel__ _v_  
+__Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard's 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
+__esurient__ _adj_  
+__cap<sup>1</sup>__ _n informal_ A capital letter.  
+__cap<sup>2</sup>__ _v informal_ (capped) To capitalize.  
+__flaunt__ _v_  
+__float__ _v_  
+__titillating__ _adj_  
+
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __diadem__ _n_ An ornamental jeweled headdress signifying sovereignty.  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
