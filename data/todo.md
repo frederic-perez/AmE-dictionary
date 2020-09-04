@@ -1,5 +1,16 @@
 
 
+__few and far between__  
+__prerogative__ _n_  
+__anathema__ _n_  
+__to be unheard of__  
+__far cry__ _The office was a far cry from Pete's domains._  
+__warily__ _adv_  
+__ludicrous__ _adj_  
+__romancer__  
+__tenterhooks__  
+__umbrage__  
+
 __address__ _v_  
 __troubleshoot__ _v_  
 __overlook__ _v_  
