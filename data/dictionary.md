@@ -495,7 +495,7 @@ __apparatus__ :two::hammer: _Campaign apparatus._
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
 __appeal<sup>2</sup>__ _n_ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appealing__  
-__appease__ _v_ :two: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
+__appease__ _v_ :three: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
 __appeases__ _v_  
 __appellate__ _adj_ :three::hammer:  
@@ -1869,7 +1869,8 @@ __cahoots__
 __cajole__ _v_ :eight: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
-__calamity__  
+__calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.  
+__calamity__ _n_ :two::mega::hammer:  
 __calendar girl__  
 __calendared__ _v_ _Get the meeting calendared._  
 __calf__ _n_ :two::hammer::mute:[ca~~l~~f]  
@@ -1899,7 +1900,7 @@ __callback__ _That was a callback to a previous episode._
 __calling card__  
 __calling hours__  
 __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
-__calliopes__  
+__calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam whistles, played from a keyboard.  
 __callous<sup>1</sup>__ _adj_ :eight::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
@@ -3479,6 +3480,7 @@ __devolve__ _v_ _The party must devolve power._
 __devolved__ _v_  
 __devote__ _v_ _We're devoting this episode to his paintings._  
 __dewlaps__ _n_ :two::hammer:  
+__diabolical__ _adj_  
 __diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
 __diadem__  
 __dialysis__ _n_ :two::hammer:  
@@ -4242,7 +4244,7 @@ __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enth
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
 __entice__ _v_ :two::hammer: (enticing)  
-__entitle__ _v_ :four::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you're no longer entitled to on the NHS._  
+__entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you're no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ :two::hammer: :es: séquito  
 __entrance<sup>1</sup>__ _n_  
@@ -4774,7 +4776,7 @@ __flah point__
 __flail__ _v_ :six::hammer: (flailed, flailing)  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
-__flak__ _n_ :six: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
+__flak__ _n_ :seven: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You're going to get so much (flak)._  
 __flake__ _n slang_ An eccentric person; screwball.  
 __flaky__  
 __flamboyant__ _adj_ :four::hammer:  
@@ -5133,6 +5135,7 @@ __from a mile away__ _idiom_ Well or far in advance; exceptionally easily. _That
 __from afar__  
 __from rags to riches__ _idiom_ From being poor to being wealthy.  
 __from the git-go__  
+__from the off__ _He knew it from the off._  
 __from the rooter to the rooter__  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front and center__ :two::hammer:  
@@ -6329,6 +6332,7 @@ __hoarsely__
 __hoary__ :two::hammer:  
 __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. _He hobbled on a sore ankle._ __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._  
 __hobble<sup>2</sup>__ _n_  
+__hobgoblin__ _n_  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
 __hobnob__  
@@ -7140,7 +7144,7 @@ __keep down__ _phr v_ To prevent something from increasing in size or number.
 __keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
-__keep tab(s) (on someone or something)__ _idiom_ :eight::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._  
+__keep tab(s) (on someone or something)__ _idiom_ :nine::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._ _Ed kept close tabs on his brother._  
 __keep up with__ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
 __keep__ _n_ :es: torreón  
@@ -8203,7 +8207,7 @@ __moccasin__ :two::hammer: (moccasins)
 __mockie__ _n_ :two::hammer:  
 __mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
-__modicum__ _n_ :five: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
+__modicum__ _n_ :six: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __modish__ _adj_  
 __mogrify__ _v_  
 __mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
@@ -9936,6 +9940,7 @@ __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._
 __prised out__ _v_  
 __prissy__ _adj_ :four::hammer: _A prissy mustache._  
 __pristine__ _They were in pristine condition._  
+__private dancer__ _n_ A dancer who performs a striptease.  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
@@ -9954,6 +9959,7 @@ __prod__ (prodded) :two::hammer: :es: _empujón_
 __prodigal<sup>1</sup>__ _adj_ :two::hammer:  
 __prodigal<sup>2</sup>__ _n_  
 __produce__ _n_ :three::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
+__profane__ _adj_  
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
@@ -10713,7 +10719,7 @@ __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a
 __riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
 __rifle__ _v_ :two::hammer: (rifling) _Rifling through his case._  
-__rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._  
+__rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._ _The rift between the two brothers._  
 __rig__ _Horse and the red wagon were a good rig._  
 __rigged__  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
@@ -11310,6 +11316,7 @@ __sempiternal__ _adj_ Enduring forever; eternal.
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
+__Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _Sensitive questions._  
@@ -12793,7 +12800,7 @@ __swamp<sup>2</sup>__ _v_ :four::hammer: (swamped) _The team feels swamped with 
 __swampy__  
 __swan song__  
 __swank__ _v_ :three::astonished::hammer:  
-__swanky__ _Swanky dinner._  
+__swanky__ _adj_ :two::hammer: _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
 __swarthiness__  
@@ -13699,6 +13706,7 @@ __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese
 __turpentine__ _n_  
 __turpitude__  
 __turquoise__ _n_ :pencil2:  
+__turtledove__ _n_ :es: tórtola  
 __tushie__ _n_ :two::hammer:  
 __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
@@ -14040,6 +14048,7 @@ __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __veggies__ _n pl_ _slang_ Vegetables.  
 __vehicle__ :mute:[ve~~h~~icle]  
+__vehicular__ _adj_ :mega: _Vehicular homicide._  
 __veil__ _v_  
 __vein__ _Gold vein._  
 __Velcro__ _n_  
