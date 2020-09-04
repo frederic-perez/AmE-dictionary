@@ -1,5 +1,16 @@
 
 
+__contrite__  
+__treacherous__  
+__day tripper__ _You are funny, sitting there like a day tripper._  
+__flyer__ _n_ _He took a flyer occasionally._  
+__the lion's share__  
+__swayed__ _v_  
+__lust for life__  
+__assuaged__ _v_  
+__sotto voce__  
+__craw__ _n_  
+
 __derecho__ _n_ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __denoument__ _n_  
 __dispel__ _v_  
