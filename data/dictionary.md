@@ -627,7 +627,7 @@ __assimilation__ _n_
 __assists__ _Green had 14 rebounds and nine assists._  
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
-__assuage__ _v_ :four::hammer:  
+__assuage__ _v_ :five::hammer: (assuaged)  
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
@@ -1951,8 +1951,8 @@ __canter<sup>1</sup>__ _n_
 __canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)  
 __cantilevered__  
 __canvass__ _v_ :two::hammer::astonished:  
-__cap<sup>1</sup>__ _n_ :two::hammer: (soccer; hat?)  
-__cap<sup>2</sup>__ _v_ :nine: (capped, capping) __1__ Lie at the top of. _Snow capped the mountains._ __2__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __3__ Provide a fitting climax or conclusion to. _The most capped player._  
+__cap<sup>1</sup>__ _n informal_ :three: A capital letter. (soccer; hat?)  
+__cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper<sup>1</sup>__ _n_ :five: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
@@ -2764,7 +2764,7 @@ __contranym__ _n_ A word that has opposite or nearly opposite meanings, as _clea
 __contraption__  
 __contrarian__  
 __contretemps__  
-__contrite__ _adj_ :six::hammer:  
+__contrite__ _adj_ :seven::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :three::hammer:  
 __contrive__ _v_ :two::hammer: (contriving)  
@@ -2955,6 +2955,7 @@ __crate__ _n_ :three::hammer: _A crate of tomatoes._
 __cratered__ _v_ _Cratered streets._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
 __craven__ :two::hammer: _A craven political figure._  
+__craw__ _n_  
 __crawl<sup>1</sup>__ _n_  
 __crawl<sup>2</sup>__ _v_ _They pretty much crawled my ass._  
 __crayon__ _n_  
@@ -3250,6 +3251,7 @@ __day and age__
 __day in and day out__  
 __day job__  
 __day or night__ _idiom_ At any point in time; 24 hours a day.  
+__day tripper__ _You are funny, sitting there like a day tripper._  
 __Day Zero__  
 __daybeds__ _n_  
 __dayglow__  
@@ -3415,7 +3417,7 @@ __denier__ _n_ :two: A small coin of varying composition and value current in we
 __denigrate__ _v_ _It denigrates your performance considerably._  
 __denizen__ _n_ :four::hammer: (denizens)  
 __denouement__ _n_ :five::hammer:  
-__denoument__  
+__denoument__ _n_ :two::hammer:  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
@@ -3429,6 +3431,7 @@ __depressed__ _Depressed wages._
 __deprived__ _A very deprived area._  
 __derail__ _v_  
 __deranged__ _adj_ :three::hammer: _A deranged man._  
+__derecho__ _n_ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__  
 __derision__  
@@ -3624,7 +3627,7 @@ __disparagement__ :two::hammer:
 __disparaging__ _adj_ :two: Insulting, ridiculing.  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
-__dispel__ _v_ :five::hammer: (dispelled)  
+__dispel__ _v_ :six::hammer: (dispelled)  
 __dispensed__ _v_  
 __dispenser__  
 __dispirited__ _v_ :three::hammer:  
@@ -4316,7 +4319,7 @@ __essentials__ _n_
 __established__ _Established 1978._  
 __estival__ _adj_ Of or relating to the summer.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
-__esurient__ _adj_  
+__esurient__ _adj_ :two::hammer:  
 __ETA__ _I believe we have an ETA of six days._  
 __etch__ _v_ :three::hammer: (etched)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
@@ -4810,8 +4813,7 @@ __flats__ _n_
 __flatter__ _v_ (flattered)  
 __flatware coins__  
 __flatware__ _n_  
-__flaunt__ _v_  
-__flaunting__  
+__flaunt__ _v_ :three::hammer: (flaunting)  
 __flawless__ _adj_ :hammer::two: _It is not flawless._  
 __flaxen__ _Flaxen cord._  
 __flay__ _v_ :three::hammer: (flayed)  
@@ -4853,7 +4855,7 @@ __flit__ :two::hammer:
 __flitter__ _v_ :three: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
 __flitty__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
-__float<sup>2</sup>__ _v_ :three::hammer:  
+__float<sup>2</sup>__ _v_ :four::hammer:  
 __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
 __flodaway__ _Foldaway bed._  
@@ -4914,7 +4916,7 @@ __fly off the handle__ _idiom_ To lose self control, to get very angry.
 __fly on the wall__ _idiom_ :two::hammer:  
 __fly-by-night__  
 __flyboard__  
-__flyer__ _n_ :two: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling. _He caught such a flyer leaving the gate I had to take advantage of it._  
+__flyer__ _n_ :three::hammer: (For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.) _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __foam at the mouth__ _idiom_ To be extremely angry.  
 __fob__ :two::hammer:  
@@ -5580,6 +5582,7 @@ __good for nothing__ _idiom_ Entirely without value; of no use whatsoever. (Hyph
 __good for you__  
 __good God!__ _idiom_ An oath expressing surprise, shock, frustration, anger, or annoyance.  
 __good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard's 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
@@ -7779,6 +7782,7 @@ __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so a
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
 __lushness__  
+__lust for life__ _idiom_ Intense eagerness to experience all that life has to offer. _I don't mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
 __luster<sup>1</sup>__ _n_  
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
@@ -12087,6 +12091,7 @@ __sort out__ _v_ :two::hammer:
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sot__ :two::hammer: _A surly sot._  
+__sotto voce__  
 __sought-after__ :two::hammer:  
 __soul__ _n_ :mega:  
 __sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
@@ -13159,7 +13164,7 @@ __the happy day__ _idiom_ A wedding, or marriage in general.
 __the haves and the have nots__  
 __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ _idiom_ The sincere, unadulterated truth.  
-__the lion's share__ _idiom_ Major share of something.  
+__the lion's share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
 __the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
@@ -13351,6 +13356,7 @@ __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesad
 __Tirolean__  
 __tit for tat__ _n_ :four::hammer:  
 __tite__  
+__titillating__ _adj_  
 __title__ _n_ :pencil2:  
 __titlist__ _He is the former bantamweight titlist._  
 __titter__ _v_ :two::hammer:  
@@ -13545,7 +13551,7 @@ __travelogue__ _n_ :two::hammer:
 __travesty__ _n_ :four::hammer: (travesties)  
 __trawled__ _v_ :two::hammer:  
 __trawler__  
-__treacherous__ _adj_  
+__treacherous__ _adj_ :two::hammer:  
 __treachery__ _n_ :four::hammer:  
 __treacle__  
 __treacly__ :two::hammer:  
