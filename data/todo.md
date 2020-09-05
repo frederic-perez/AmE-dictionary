@@ -1,5 +1,16 @@
 
 
+__hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
+__heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
+__noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
+__quiescent__ _adj_ __1__ Quiet, still, or inactive.  
+__Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: Ç_"the Potemkin village of this country's borrowed prosperity" (Lewis H. Lapham)._  
+__inculcate__ _v_ To teach and impress by frequent repetitions or admonitions.  
+__convalesce__ _v_ To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
+__burble__ _v_ Flow in an irregular current with a bubbling noise.  
+__here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
+__vanilla__ _n_ :dart: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction : plain, ordinary, conventional.  
+
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __diadem__ _n_ An ornamental jeweled headdress signifying sovereignty.  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
