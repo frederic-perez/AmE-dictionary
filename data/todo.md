@@ -1,5 +1,16 @@
 
 
+__swerved__ _v_  
+__toe the line__ :three::hammer:  
+__secateurs__ _n_  
+__crystal clear__  
+__necessary evil__  
+__crux of the matter__ _She saw the crux of the matter in seconds._  
+__aggro__ :two::hammer:  
+__kink__ _n_  
+__moral compass__  
+__anybody's guess__  
+
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
