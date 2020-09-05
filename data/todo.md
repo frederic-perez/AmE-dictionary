@@ -1,5 +1,16 @@
 
 
+__Hatch Act__  
+__skulduggery__  
+__febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
+__not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
+__benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
+__sortie__ _n_  
+__docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
+__besot__  
+__hair-trigger__  
+__outré__ Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
+
 __swerved__ _v_  
 __toe the line__ :three::hammer:  
 __secateurs__ _n_  
