@@ -27,6 +27,7 @@
 - __Liz__ A women's name of Hebrew origin, meaning "God's Promise". It is also a short form of Elizabeth, Elisabeth, Lisbeth, Lizanne, Liszbeth, Lizbeth, Lizabeth, Lyzbeth, Lisa, Lizette, and Alyssa.
 - __Meg__ Often a short form of Margaret, Megan, Megumi (Japanese), etc.
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro.
+- __Mia__ Mia is a female given name, originating as a hypocoristic of various unrelated names. It is usually derived from the name Maria and its variants (Miriam, Maryam, Mary), but it is reportedly also used as a hypocoristic of names such as Amalia, Amelia, Emilia, Emily or Maya.
 - __Pam__ Often a diminutive form of Pamela.
 - __Ray__ Ray is a masculine given name and short form (hypocorism) of Raymond.
 - __Rob__ A masculine given name, frequently a shortened version (hypocorism) of Robert.
