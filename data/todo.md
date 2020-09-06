@@ -1,5 +1,16 @@
 
 
+__bookworm__ _n_  
+__exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
+__recidivism__ _n_  The repeating of or returning to criminal behavior by the same offender or type of offender.  
+__moon__ _v_  
+__drowse__ _v_ To be or cause to be sleepy, dull, or sluggish.  
+__shank__ _v_ __1__ To hit (a golf ball or shot) with the extreme heel of the club so that the ball goes off in an unintended direction; to kick (a football) in an unintended direction. __2__ _slang_ To stab (a person) with a sharp, pointed implement.  
+__shiv__ _n_  
+__sluice__ _n_ _A sluice for washing gold._  
+__insatiable__ _adj_ _An insatiable learner._  
+__spot on__ _idiom_ _informal_ Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
+
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
