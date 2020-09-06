@@ -1,27 +1,5 @@
 
 
-__Hatch Act__  
-__skulduggery__  
-__febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
-__not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
-__benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
-__sortie__ _n_  
-__docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
-__besot__  
-__hair-trigger__  
-__outré__ Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
-
-__swerved__ _v_  
-__toe the line__ :three::hammer:  
-__secateurs__ _n_  
-__crystal clear__  
-__necessary evil__  
-__crux of the matter__ _She saw the crux of the matter in seconds._  
-__aggro__ :two::hammer:  
-__kink__ _n_  
-__moral compass__  
-__anybody's guess__  
-
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  

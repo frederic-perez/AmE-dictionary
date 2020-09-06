@@ -253,6 +253,7 @@ __aggravate__ _v_ (aggravated) :two::hammer:
 __aggravation__  
 __aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
+__aggro__ :two::hammer:  
 __aghast__ _adj_ :six::hammer:  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agog__ _adj_  
@@ -465,6 +466,7 @@ __antler__ _n_
 __antsy__ _adj_ :three: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
+__anybody's guess__  
 __anything but__ _It is anything but sweet._  
 __anything goes__ :two::hammer:  
 __apace__ _Concussion concerns continue apace._  
@@ -1084,6 +1086,7 @@ __bend over backwards__ _idiom_ To try very hard to do something. This phrase ha
 __bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
+__benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._  
 __bento__ Boxed meals.  
@@ -1106,7 +1109,7 @@ __beseechment__
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
 __besmeared__ _v_  
 __besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
-__besotted__ _adj_ :four::hammer:  
+__besot__ _v_ (besotted) :five: To muddle or stupefy, as with alcoholic liquor or infatuation.  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
@@ -3071,6 +3074,7 @@ __crush<sup>2</sup>__ _n_
 __crushing blow__ _idiom_ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __crusty__ _adj_ :two::hammer: _The judge was crusty._  
 __crutch__ _n_ :five::hammer: _Diabetes isn't a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
+__crux of the matter__ _She saw the crux of the matter in seconds._  
 __crux__ _n_ :four: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
@@ -3079,6 +3083,7 @@ __crybaby__ _n_ A person who cries or complains frequently with little cause.
 __cryotherapy__  
 __cryptojacking__  
 __cryptomining__  
+__crystal clear__  
 __crystal meth__  
 __crystal__ _Meth?_  
 __crystalline__ _Cristalline lens._  
@@ -3704,6 +3709,7 @@ __doable__ _It was not a lot of time but it was doable._
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __Doc__  
 __docents__  
+__docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
@@ -4587,6 +4593,7 @@ __feature-length__ _A feature-length animation._
 __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children's reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __feature<sup>2</sup>__ _v_  
 __featuring__  
+__febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
 __feckless__ _adj_ :three::hammer:  
 __fecklessness__  
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
@@ -5890,6 +5897,7 @@ __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows
 __hailstorm__ _n_ :three::hammer:  
 __hair clippers__ _n_ :camera:  
 __hair-splittingly__ _idiom_ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
+__hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a hair-trigger temper; a hair-trigger reaction.  
 __hairline__  
 __hairpiece__ _n_  
 __haking__  
@@ -6018,6 +6026,7 @@ __hasten__ _v_ :three::mute:[has~~t~~en]:hammer:
 __hastily__ _A hastily arranged news conference._  
 __hasty__ :two::hammer:  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one's hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
+__Hatch Act__  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _v_ :seven: (hatches, hatched) To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
@@ -7210,7 +7219,7 @@ __kine__ _n_
 __king of the hill__  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kingfisher__ _n_  
-__kink__ _n_ :three::hammer (kinks) _I was getting the kinks out._  
+__kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
 __kinked__ _v_  
 __kinky__  
 __kinsman__ _n_  
@@ -8267,7 +8276,7 @@ __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
 __mopping up__  
-__moral compass__ _idiom_ That which serves or guides a person's knowledge, sense, or intuition of correct virtues, morals, or ethics.  
+__moral compass__ _idiom_ :two: That which serves or guides a person's knowledge, sense, or intuition of correct virtues, morals, or ethics.  
 __moral__  
 __morale__ _n_ :three::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
@@ -8493,6 +8502,7 @@ __NCO__
 __NDA__ _abbr_  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That's a neat idea, Jupe._  
+__necessary evil__  
 __necessary__ :mega:  
 __necktie__ _n_  
 __necromancer__  
@@ -8645,6 +8655,7 @@ __nosebleed__ _n_ :two::hammer: (nosebleeds)
 __nostalgia__  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
 __not even close__ :dart:  
+__not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
 __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn't recognize John if I saw him up close. I don't know him from Adam._  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
@@ -8969,10 +8980,10 @@ __outplayed__ _v_
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
 __outpouring__  
-__outrage<sup>1</sup>__ _n_ :four::hammer:  
+__age<sup>1</sup>__ _n_ :four::hammer:  
 __outrage<sup>2</sup>__ _v_  
 __outrageous__ :two::hammer:  
-__outré__  
+__outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
 __outreach__ _n_ :five::hammer: _He's an HIV outreach worker._  
 __outriggers__  
 __outright__ _adj?_  
@@ -11248,6 +11259,7 @@ __seaside__
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
 __seaweed__ :two::hammer:  
+__secateurs__ _n_  
 __second nature__  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
@@ -11736,7 +11748,7 @@ __skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittere
 __skittish__ _adj_ :nine: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
-__skulduggery__  
+__skulduggery__ :two::hammer:  
 __skulk__ _Jessica makes both friends and enemies skulking around in the night._  
 __skulking__  
 __skullcap__  
@@ -12090,6 +12102,7 @@ __sorrel__
 __sort out__ _v_ :two::hammer:  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
+__sortie__ _n_  
 __sot__ :two::hammer: _A surly sot._  
 __sotto voce__  
 __sought-after__ :two::hammer:  
@@ -13395,6 +13408,7 @@ __toastmaster__ _n_ A person who presides at a dinner and introduces the after-d
 __toboggan__ _n_  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
+__toe the line__ _idiom_ To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __toe-curling__ :two::hammer:  
 __toe-poppers__  
 __toe-toppers__  
