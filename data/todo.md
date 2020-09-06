@@ -1,5 +1,16 @@
 
 
+__pampered__ _adj_  
+__humdinger__ _n_  
+__disheveled__ _adj_  
+__quack__ _Partisan quacks._  
+__makeover__ _LinkedIn profile makeover._  
+__darn__  
+__facetious__ _adj_  
+__onboarding__ _Onboarding specialist._  
+__disservice__ _n_  
+__down under__  
+
 __get a grip__  
 __ring someone's bell__ _Mandy rang every bell he possesed._  
 __Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
