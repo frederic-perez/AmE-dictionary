@@ -1,5 +1,16 @@
 
 
+__contended__ _He was happy and contended._  
+__tell me about it!__ :es: ya te digo (?)  
+__nonchalantly__ :two::hammer:  
+__escapades__ _n_  
+__bona fide__ _His father was a bona fide fucking nut-job._  
+__strain__ _n_  
+__forte__ _n_ _Laundering money was his forte._  
+__trinkets__ _n_  
+__smitten__ _He is absolutely smitten with her._  
+__looker__ _n_ :two::hammer:  
+
 __simper__ Smile in a silly, self-conscious way.  
 __viridity__ Youth; innocence; inexperience.  
 __I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
