@@ -1,5 +1,17 @@
 
 
+__simper__ Smile in a silly, self-conscious way.  
+__viridity__ Youth; innocence; inexperience.  
+__I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
+__gorp__ _n_ A mixture of nuts, raisins, dried fruits, seeds, or the like eaten as a high-energy snack, as by hikers and climbers.  
+__scofflaw__ _n_ A person who flouts rules, conventions, or accepted practices.  
+__legerity__ _n_ Physical or mental quickness; nimbleness; agility. 
+__verisimilitude__ _n_  
+__olericulture__ _n_ The cultivation of vegetables for the home or market.  
+__squib__ A short and witty or sarcastic saying or writing.  
+__plaudit__ _n_  
+
+
 __pampered__ _adj_  
 __humdinger__ _n_  
 __disheveled__ _adj_  
