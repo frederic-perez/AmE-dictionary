@@ -1,5 +1,16 @@
 
 
+__knackered__  
+__give someone credit__ _n_ _Dave gave him credit for trying._  
+__melon scratcher__ _That was a melon scratcher._  
+__hitch__ _I hope the day goes without a hitch._  
+__crowbars__ _n_  
+__dishevelled__ _v_ (disheveled?)  
+__subdued__  
+__lark__ _Stop this jealousy lark!_  
+__animosity__  
+__futility__  
+
 __pampered__ _adj_  
 __humdinger__ _n_  
 __disheveled__ _adj_  
