@@ -246,6 +246,8 @@ __against oll odds__ _idiom_ Even though something seems completely impossible.
 __against the clock__ _idiom_ :two: Rushed and short on time.  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
+__age<sup>1</sup>__ _n_ :four::hammer:  
+__age<sup>2</sup>__ _v_  
 __ageless__  
 __agency__ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__  
@@ -1386,7 +1388,7 @@ __bombshell__ _n_
 __bombsights__  
 __bon ton__  
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
-__bona fide__ _adj_ :seven: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith.  
+__bona fide__ _adj_ :eight: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
 __bonanza__ _n_ :two::hammer: _Banana bonanza._  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
@@ -2750,6 +2752,7 @@ __contempt__
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
 __contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
+__contended__ _adj_ Happy and satisfied with your life. _He was happy and contended._  
 __content__ _adj_ :three::hammer:  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
@@ -4312,7 +4315,7 @@ __erupt__ _v_ :two::hammer: (erupted)
 __erupted__ _v_  
 __escalation__ _n_  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
-__escapade__ _n_ :dart::two: A usually adventurous action that runs counter to approved or conventional conduct.  
+__escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escapism__ _n_ :two::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
@@ -5040,7 +5043,7 @@ __formidable__
 __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken__ _adj_  
 __fort__ A fortified place or position stationed with troops.  
-__forte<sup>1</sup>__ _n_ :four::mega: Something in which a person excels.  
+__forte<sup>1</sup>__ _n_ :five::mega: Something in which a person excels. _Laundering money was his forte._  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
 __forthright__ _adj_ :three: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
@@ -5617,6 +5620,7 @@ __GOP__
 __Gordian knot__ :two::hammer:  
 __gorge__ _v_ :two::hammer: (gorging)  
 __gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
+__gorp__ _n_ A mixture of nuts, raisins, dried fruits, seeds, or the like eaten as a high-energy snack, as by hikers and climbers.  
 __gorse__  
 __gory__  
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
@@ -6599,6 +6603,7 @@ __hysteric__
 __hysterical__  
 __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
+__I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __Ibuprofen__  
 __ice cream cone__  
@@ -7481,6 +7486,7 @@ __leg up__ :two::hammer:_Area's 2 reigning congressmen have leg up on funding._ 
 __leg warmer__ _n_  
 __legal tack__  
 __legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
+__legerity__ _n_ Physical or mental quickness; nimbleness; agility.  
 __legion__ _The reasons you can't sleep well inflight are legion._  
 __legit__ _adj_ _Slang_ :four: Legitimate.  
 __legwork__ _n_  
@@ -7701,7 +7707,7 @@ __look out__ _v_ :two::hammer: _Look out for those beauties._
 __look up to (one)__ _idiom_ :dart: To admire or view one as a role model. _Of course I look up to you—you're my big sister!_  
 __look up__ _Look up to your belongings._  
 __lookalike__ _These lookalike domains are used for scams._  
-__looker__ _n_  
+__looker__ _n_ :three::hammer:  
 __lookout__ :two::hammer: _Be on the lookout._  
 __lookup__ _n_ :two::hammer:  
 __loony bin__ _The Count's plot to drive her straight to the loony bin._  
@@ -8626,7 +8632,7 @@ __non-perishables__
 __nonce__  
 __nonchalance__ _n_  
 __nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
-__nonchalantly__ _adv_ :three: In a nonchalant manner.  
+__nonchalantly__ _adv_ :five: In a nonchalant manner.  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
 __nonpartisan__ _adj_  
@@ -8799,6 +8805,7 @@ __old-timers__ _n_
 __Ole Miss__  
 __oleaginous__ _adj_ __1__ Extremely polite, kind, or helpful in a false way that is intended to bring some advantage to yourself. If you describe someone as unctuous, you are critical of them because they seem to be full of praise, kindness, or interest, but are obviously insincere. _Syn_ fulsome (formal), oily, smarmy (informal disapproving), unctuous (formal disapproving) _Oleaginous flattery._ __2__ Of or relating to oil.  
 __olefin__ _n_  
+__olericulture__ _n_ The cultivation of vegetables for the home or market.  
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
 __omen__ _n_ :four::hammer:  
@@ -8980,7 +8987,6 @@ __outplayed__ _v_
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
 __outpouring__  
-__age<sup>1</sup>__ _n_ :four::hammer:  
 __outrage<sup>2</sup>__ _v_  
 __outrageous__ :two::hammer:  
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
@@ -9617,7 +9623,7 @@ __platitude__ _n_ :four::hammer: (platitudes)
 __platoon__ _v_ :two::hammer:  
 __platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
-__plaudit__ _n_ :two: (plaudits) An enthusiastic expression of approval.  
+__plaudit__ _n_ :three: (plaudits) An enthusiastic expression of approval.  
 __plausibility__ :pencil2:  
 __plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
@@ -11161,7 +11167,7 @@ __scissor lift__
 __scissors__ :mute:[s~~c~~issors]  
 __scleroderma__  
 __scoff__ _v_ :seven: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
-__scofflaw__ _n_  
+__scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __sconce__ _v_  
 __scone__ _Like strawberry jam slathered on a scone._  
@@ -11669,7 +11675,7 @@ __simmer down__
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
 __simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
-__simper<sup>1</sup>__ _n_ A simpering smile; smirk.  
+__simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
@@ -12319,7 +12325,7 @@ __squeamish__ _adj_ :seven: Easily upset or disgusted by things or actions you f
 __squeamishness__  
 __squeeze__ _v_  
 __squelch__ _v_ :five::hammer: (squelched)  
-__squid__ _n_  
+__squib__ _n_ :two: A short and witty or sarcastic saying or writing.  
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
@@ -12584,7 +12590,7 @@ __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks s
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
-__strain<sup>2</sup>__ _n_ :five::hammer: _Can you keep an even strain?_ _Out of the strain of the doing, into the peace of the done."--Julia Louise Woodruff_  
+__strain<sup>2</sup>__ _n_ :six::hammer: _Can you keep an even strain?_ _Out of the strain of the doing, into the peace of the done."--Julia Louise Woodruff_  
 __strained__ _adj_ :three::hammer: _A strained thumb._  
 __straining__ _v_ :two::hammer:  
 __strains__ _n_ :two::hammer:  
@@ -13084,6 +13090,7 @@ __telekinesis__ _n_ :mega:
 __televangelist__ _n_  
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
+__tell me about it!__ :es: ya te digo (?)  
 __tell-tale__ :two::hammer: _Tell-tale sings._  
 __telling__ _n_ :three::hammer: _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father's experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
@@ -13618,7 +13625,7 @@ __trilobite__ _n_ :two::mega::hammer:
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ _Stainless interior trim._  
 __trinity__ _Trinity College in Dublin._  
-__trinkets__ _n_ :three::hammer:  
+__trinkets__ _n_ :four::hammer:  
 __trip wire__ _You hit a trip wire._  
 __triple__  
 __triplex__ _A triplex penthouse._  
@@ -14097,6 +14104,7 @@ __verdant__ _Verdant hills._
 __verdict__ _n_ :three::hammer::pencil2:  
 __verge (up)on something__ _idiom_ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __verge__ _n_ :two::hammer:  
+__verisimilitude__ _n_  
 __veritable__ _adj_ :two::hammer:  
 __vermicelli__  
 __vermillion__  
@@ -14143,6 +14151,7 @@ __vindication__ _n_ :seven::hammer:
 __vintner__ _n_  
 __vinyasa__ _n_  
 __viper__ _n_ :two::hammer: (vipers)  
+__viridity__ Youth; innocence; inexperience.  
 __virtually__ _adv_ :astonished: Practically, almost.  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
