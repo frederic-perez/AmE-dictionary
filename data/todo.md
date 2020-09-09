@@ -1,5 +1,16 @@
 
 
+__toe the line__  
+__essence__ _n_ (?) :pencil2:  
+__dog-eared__  
+__paraphernalia__ :pencil2:  
+__book of matches__  
+__onus__ _n_ :three::hammer:  
+__disinterest__  
+__big time__ _He had shit himself big time._  
+__handiwork__  
+__dead man walking__ _Jack was a dead man walking._  
+
 __get a grip__  
 __ring someone's bell__ _Mandy rang every bell he possesed._  
 __Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
