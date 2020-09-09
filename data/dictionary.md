@@ -3048,7 +3048,7 @@ __crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossr
 __crotchety__  
 __crouch__ :two::hammer:  
 __crow__ _v_ :two::hammer: (crowed, crowing) _"There is nothin' like OPEC clout," crowed Jim._  
-__crowbar__ _n_ :two::hammer:  
+__crowbar__ _n_ :three::hammer: (crowbars)  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crucible__ _n_ :seven::hammer:  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
@@ -3234,7 +3234,7 @@ __daredevil__ :two::hammer: _The daredevils of the group._
 __daring__ _A daring quality._  
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
 __dark horse__ _n_ _idiom_ :three::hammer:  
-__darn__ :two::hammer: _That's pretty darn good._  
+__darn__ :three::hammer: _That's pretty darn good._  
 __darned__  
 __darnedest__  
 __darning__  
@@ -3613,7 +3613,7 @@ __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 po
 __dish up__ _v_  
 __disheartened__ _adj_  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
-__disheveled__ _adj_ In disarray; extremely disorderly.  
+__disheveled__ _adj_ :three: (dishevelled) In disarray; extremely disorderly.  
 __dishing__ _v_  
 __dishonest__  
 __dishwasher__ _I worked as a dishwasher._  
@@ -3654,7 +3654,7 @@ __dissemble__ _v_ :four::hammer: _Syn_ disguise, cloak, mask, pretend
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :three::hammer:  
-__disservice<sup>1</sup>__ _n_ :three::hammer::pencil2:  
+__disservice<sup>1</sup>__ _n_ :four::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_  
@@ -3814,8 +3814,7 @@ __down the drain__ _idiom_ :two: Wasted or lost. This metaphoric term alludes to
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
-__Down Under__  
-__down under__ _n informal_ _Best regards from down under._  
+__down under__ _n informal_ :three: (Down Under) _Best regards from down under._  
 __down-low__  
 __down-to-earth__ _idiom_ :three: Sensible and realistic.  
 __downbeat__ :two::hammer:  
@@ -4464,7 +4463,7 @@ __face off__ _v_
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :two::hammer:  
 __face-lift__  
-__facetious__ _adj_ :pencil2:  
+__facetious__ _adj_ :two::pencil2::hammer:  
 __facetiousness__  
 __facile__ :two::hammer: _She's an extremely facile actress._  
 __facsimile<sup>1</sup>__ _n_ :four::hammer: _The lander had two facsimile cameras._  
@@ -5219,7 +5218,7 @@ __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, wo
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __futile__ _adj_  
-__futility__ _n_ :four::hammer:  
+__futility__ _n_ :five::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
 __gab away__ _v_ _The gang was gabbing away._  
@@ -5441,6 +5440,7 @@ __give in__ _phr v_ :two: __1__ To hand in; submit: _She gave in her report._ __
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __give or take__ _idiom_ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ _idiom_ To speak angrily to someone because they have done something wrong.  
+__give someone credit__ _n_ _Dave gave him credit for trying._  
 __give someone some lip__ _idiom_ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __give someone the creeps__ _idiom_ To make you feel frightened or nervous.  
 __give the creeps__  
@@ -6329,7 +6329,7 @@ __hit the rocks__ _idiom_ To encounter an especially difficult, troubled, or low
 __hit the sack__  
 __hit the wall__ _idiom_ :two::hammer:  
 __hit up__ _She thought about hitting up an amusement park._  
-__hitch<sup>1</sup>__ _n_ :three::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._  
+__hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither and thither__ :two::hammer::pencil2:  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
@@ -6530,6 +6530,7 @@ __huff<sup>1</sup>__ _n_
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
+__humdinger__ _n_  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
 __humidor__ _n_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
@@ -7245,7 +7246,7 @@ __kleptocracy__ :two::hammer:
 __klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She's got a knack for it._  
 __knackered<sup>1</sup>__ _v_  
-__knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :three: Very tired; exhausted.  
+__knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :four: Very tired; exhausted.  
 __knave__  
 __knavish__  
 __knead__ _v_ :nine::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
@@ -7385,7 +7386,7 @@ __larceny__ _n_ :seven: Theft of personal property. :es: hurto
 __larder__ _n_ :three::hammer:  
 __largely__ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
-__lark__ :two::hammer:  
+__lark__ :three::hammer: _Stop this jealousy lark!_  
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
@@ -7861,7 +7862,7 @@ __make strides__ :two::hammer: _The GOP nominee will need to make huge strides w
 __make up one's mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can't make up your mind._ _"The time to make up your mind about people is never." -- The Philadelphia Story_  
 __make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ :two::hammer:  
-__makeover__ _n_  
+__makeover__ _n_ :two::hammer: _LinkedIn profile makeover._  
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
@@ -8044,6 +8045,7 @@ __mélange__ _n_
 __melee__ _n_  
 __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
+__melon scratcher__ _That was a melon scratcher._  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
@@ -8850,7 +8852,7 @@ __On top of that,__
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._ _Others would get on line for loans._  
-__onboarding__ _n_ The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer.  
+__onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
 __once in a blue moom__ Very rarely.  
 __once in a while__  
 __once-over__  
@@ -9118,6 +9120,7 @@ __palsy-walsy<sup>1</sup>__ _n_ A friend. _I'm surprised you haven't met Ricky's
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :five::hammer: (pampered)  
+__pampered__ _adj_  
 __pamphlet__ _n_  
 __pampling__  
 __pan drippings__ :two::hammer:  
@@ -10193,7 +10196,7 @@ __Q-tips__ _n_ :three::hammer:
 __Q&A__ _The gathering will feature question-and-answer sessions._  
 __QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
-__quack__ _n_ :three: Incompetent doctor.  
+__quack__ _n_ :five: Incompetent doctor. _Partisan quacks._  
 __quadrennial__  
 __quadroons__  
 __quaff__ _v_ _(chiefly literary)_  
@@ -12692,7 +12695,7 @@ __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Anton
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ (car?)  
-__subdue__ _v_ :five::hammer: (subdued)  
+__subdue__ _v_ :six::hammer: (subdued)  
 __subfreezing__ _Subfreezing temperature._  
 __subjugate__ _v_  
 __subjugation__ _n_ Forced submission to control by others.  
