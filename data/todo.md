@@ -1,27 +1,5 @@
 
 
-__chaparral__ _n_ Dense vegetation consisting of stunted trees or bushes.  
-__Faustian bargain__ _idiom_ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
-__acquit__ _v_ To relieve from a charge of fault or crime; declare not guilty.  
-__inane__ _adj_  
-__bunkum__ _n_  
-__claptrap__ _n_  
-__stopgap__ _n_ An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
-__hard-luck story__ _idiom_ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
-__impregnable__ _adj_ (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.)  
-__preponderate__ _v_  
-
-__toe the line__  
-__essence__ _n_ (?) :pencil2:  
-__dog-eared__  
-__paraphernalia__ :pencil2:  
-__book of matches__  
-__onus__ _n_ :three::hammer:  
-__disinterest__  
-__big time__ _He had shit himself big time._  
-__handiwork__  
-__dead man walking__ _Jack was a dead man walking._  
-
 __get a grip__  
 __ring someone's bell__ _Mandy rang every bell he possesed._  
 __Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  

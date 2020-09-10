@@ -145,7 +145,7 @@ __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks fro
 __acquaintances__ :pencil2:  
 __acquiesce__ _v_ :two: To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
-__acquit__ _v_ :three::hammer: (acquitted) _If it doesn't fit, you must acquit._  
+__acquit__ _v_ :four: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn't fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
 __acreage__ :two::hammer:  
 __acrid__ _adj_  
@@ -1154,7 +1154,7 @@ __big mon__
 __Big Pharma__  
 __big retailer__ (Walmart, Target, Amazon.)  
 __Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
-__big time__ _n informal_ :four::hammer:  
+__big time__ _n informal_ :five::hammer: _He had shit himself big time._  
 __big yes__  
 __big-box__ _adj_ :three: Of, relating to, or being a large chain store having a boxlike structure. _Big-box stores._ _Big-box merchandisers._  
 __big-gulper__ _America's big-gulpers._  
@@ -1410,6 +1410,7 @@ __booby-trapped 105's__
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
 __boohoo__ _v_  
+__book of matches__  
 __book__ _v_ _I'll book us a table._  
 __bookcases__ _n_ :two::hammer:  
 __bookend__ _n_  
@@ -1728,6 +1729,7 @@ __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or 
 __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend's house._ __2__ To go to bed: _bunked down early._  
 __bunker oil__  
 __bunkmates__  
+__bunkum__ _n_  
 __bunraku__  
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
@@ -2176,7 +2178,7 @@ __chanticleer__ _n_
 __chanting__  
 __chaos__ :mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
-__chaparral__ _n_ :two::hammer:  
+__chaparral__ _n_ :three: Dense vegetation consisting of stunted trees or bushes.  
 __chaperone<sup>1</sup>__ _n_ :three::hammer:  
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
@@ -2386,6 +2388,7 @@ __clank__ _v_ :two::hammer: (clanked)
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
 __clapper__ _He tried to turn somebody into a human bell clapper._  
+__claptrap__ _n_  
 __claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
 __clarion call__ _n_ :five::hammer:  
@@ -3275,6 +3278,7 @@ __dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Nev
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead in the water__ _idiom_ Without any chance for success.  
 __dead last__ _idiom_ In last place, especially by a wide margin, as for a race or other competition.  
+__dead man walking__ _Jack was a dead man walking._  
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __dead set against something__ _idiom_ To be completely against something.  
@@ -3622,7 +3626,7 @@ __disillusionment__
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuous__ _adj_ :three: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
-__disinterest__  
+__disinterest__ :two::hammer:  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __dislodge__ _v_  
 __disloyal__  
@@ -3733,6 +3737,7 @@ __dog tag__
 __dog__ _v_ :four::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won't be any quieter as he resumes his career in the Paribas Open._  
 __dog-and-pony show__ _idiom_ :two::hammer: (dog and pony show)  
 __dog-ear__  
+__dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
 __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __dogged__ _adj_ :two: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ :two::hammer:  
@@ -4322,6 +4327,7 @@ __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _
 __Eskimo__ _n_ :two::mega:  
 __espadrilles__ _n_  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
+__essence__ _n_ :pencil2:  
 __essential__ _Special K - 8 essential vitamins._  
 __essentials__ _n_  
 __established__ _Established 1978._  
@@ -4571,6 +4577,7 @@ __fatwa__ _n_ :two: Religious edict.
 __fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
 __fauna__ _n_  
+__Faustian bargain__ _idiom_ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __Faustian__ _Faustian device._  
 __faux pas__ _n_ :two: A social blunder.  
 __faux__ _Three faux tombstones._  
@@ -5935,7 +5942,7 @@ __hand blender__ _n_
 __hand-pick__ _v_ :two::hammer:  
 __handglider__  
 __handily__ :two::hammer: _Hondurans trump Chileans handily._  
-__handiwork__ :two::hammer:  
+__handiwork__ _n_ :three::hammer:  
 __handkerchief__ :mute:[han~~d~~kerchief]  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
@@ -5989,6 +5996,7 @@ __hard-boiled egg__
 __hard-core__ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
 __hard-line__ _A more hard-line position._  
 __hard-liners__ :two::hammer:  
+__hard-luck story__ _idiom_ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hard-nose__  
 __hard-nosed__ :three::hammer: _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
@@ -6692,7 +6700,7 @@ __importune__ _v_ Beg persistently and urgently. _Syn_ insist
 __impound__ _v_ :two::hammer: _The Ponticac was impounded._  
 __impoverished__ _v_  
 __imprecation__ _n_ :two: A curse.  
-__impregnable__ _adj_ Immune to attack; incapable of being tampered with.  
+__impregnable__ _adj_ :two: (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.) Immune to attack; incapable of being tampered with.  
 __impression__ _n_ :two::hammer:  
 __imprint<sup>1</sup>__ _n_  
 __imprint<sup>2</sup>__ _v_  
@@ -6752,7 +6760,7 @@ __in-laws__ _A room for the in-laws._
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
-__inane__ _adj_ :six::hammer:  
+__inane__ _adj_ :seven::hammer:  
 __inanity__ _n_  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
 __inarguably__ :pencil2:  
@@ -8871,7 +8879,7 @@ __onlooker__ _n_ :two::hammer: (onlookers)
 __only problem is__  
 __onset__ _n_ :six::hammer: _Early onset dementia._  
 __onslaught__ :two::hammer:  
-__onus__ _n_ :five::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
+__onus__ _n_ :eight::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
 __oompah__ :two::hammer: _The house oompah band._  
 __oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
@@ -9163,7 +9171,7 @@ __paralysis__ _n_ :mega:
 __paralyzed__ _v_ :pencil2:  
 __paramount__ _The reliability of the weather station is paramount._  
 __paranoid__ _adj_  
-__paraphernalia__ _n_ :pencil2::three::hammer: _Star Wars paraphernalia._  
+__paraphernalia__ _n_ :four::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __paraprosdokian__  
@@ -9892,6 +9900,7 @@ __Prep__
 __prep__ (prepping) _I was prepping for the show._  
 __prep<sup>1</sup>__ _n_? (preparatory?)  
 __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
+__preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
 __preposterous__ _adj_ :nine: Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
 __preposterously__ :two::hammer:  
@@ -12558,8 +12567,8 @@ __stoop<sup>2</sup>__ _n_
 __stooped__ _adj_ :three::hammer: _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop-and-go__ _Stop-and-go traffic jams._  
-__stopgag__ _n_ :three::hammer:  
-__stopgap__ _n_ :five::hammer:  
+__stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
+__stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
 __stoplights__ :pencil2:  
 __stopover__  
 __stoppage__ _n_ :nine::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
@@ -13418,7 +13427,7 @@ __toastmaster__ _n_ A person who presides at a dinner and introduces the after-d
 __toboggan__ _n_  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
-__toe the line__ _idiom_ To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
+__toe the line__ _idiom_ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __toe-curling__ :two::hammer:  
 __toe-poppers__  
 __toe-toppers__  
