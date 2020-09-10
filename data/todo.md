@@ -1,5 +1,16 @@
 
 
+__true colors__ _He has shown his true colors._  
+__darkest hour__ _He was willing to stand by him in his darkest hour._  
+__bank on something__ _Ted was banking on that._  
+__swerve__ _v_  
+__shebang__  
+__jonesing__ _v_  
+__lenience__ _n_  
+__untoward__  
+__onboard__ :two::hammer:  
+__vat__ _A large vat of water._  
+
 __get a grip__  
 __ring someone's bell__ _Mandy rang every bell he possesed._  
 __Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
