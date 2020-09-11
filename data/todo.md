@@ -1,5 +1,16 @@
 
 
+__poor man__ :two::hammer: _She looked every bit the poor man's Pamela Anderson._  
+__rue__ _v_  
+__speak volumes__  
+__garner__ _v_  
+__gnat__ _n_  
+__proviso__  
+__encroach__ _v_  
+__rub__ _n_ _slang_ (?)  
+__tarpaulin__ _n_  
+__bide__ _v_  
+
 __get a grip__  
 __ring someone's bell__ _Mandy rang every bell he possesed._  
 __Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
