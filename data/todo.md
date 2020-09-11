@@ -1,9 +1,20 @@
 
 
+__cookout__ _n_  
+__imbibe__ _v_  
+__biggie__  
+__tightwad__ _n_  
+__Native American__ _Native American reservation._  
+__reservation__ _n_ _Native American reservation._  
+__menorragia__ _n_  
+__IUD__  
+__prickly pear__ _n_ :es: higo chumbo, nopal  
+__kick ass__  
+
 __hmm__  
 __tangerine__ _n_  
 __shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
-__ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
+__ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
 __stunted__ _adj_  
 __great balls of fire__ _idiom_ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __skylark<sup>1</sup>__ _n_  
