@@ -1,5 +1,16 @@
 
 
+__continence__ _n_  
+__perish__ _v_  
+__tick__ _n_ Any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals.  
+__ineffable__ _adj_  
+__quiz__ _n_ (quizzes)  
+__jabroni__ _n_  
+__debacle__ _n_  
+__vale__ _n_  
+__coeval__  
+__destigmatize__ _v_  
+
 __cookout__ _n_  
 __imbibe__ _v_  
 __biggie__  
