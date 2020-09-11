@@ -854,6 +854,7 @@ __banged-up pinkie__ :camera:
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
 __banister__ _n_ _Polished mahogany banisters._  
+__bank on something__ _Ted was banking on that._  
 __bank on__ _phr v_ To rely on somebody or something.  
 __bank__ _Fillon can beat Le Pen, but don't bank on it._  
 __bankroll<sup>1</sup>__ _n_  
@@ -2006,6 +2007,7 @@ __carnage__ :two::hammer:
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
 __carnival__  
+__carny__ _n_  
 __carol__ _v_ (caroling) (vs Christmas carol)  
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
@@ -2680,7 +2682,7 @@ __conch__ _A conch farm._
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ :two::hammer:  
-__concomitant__ _adj_ :four::hammer:  
+__concomitant__ _adj_ :five::hammer:  
 __concourse__ _n_ :five::hammer:  
 __concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
@@ -2902,6 +2904,7 @@ __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with mu
 __coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
 __coup__ :mute:[cou~~p~~]  
 __coupes__ _Coupes, two door models usually sportier than sedans._  
+__coupled__ _v_  
 __coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
@@ -3237,6 +3240,7 @@ __daredevil__ :two::hammer: _The daredevils of the group._
 __daring__ _A daring quality._  
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
 __dark horse__ _n_ _idiom_ :three::hammer:  
+__darkest hour__ _He was willing to stand by him in his darkest hour._  
 __darn__ :three::hammer: _That's pretty darn good._  
 __darned__  
 __darnedest__  
@@ -3457,6 +3461,7 @@ __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._
 __deserted__ _adj_ _Most of the desks were deserted._  
 __desideratum__ _n_ Something desired as a necessity.  
 __design__ :mute:[desi~~g~~n]  
+__designated driver__ _n_ The member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home.  
 __designer__ _n_ :es: _maquetador_  
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
@@ -7085,7 +7090,7 @@ __jollof rice__
 __jolly__ _adj_ :six::hammer: _Jolly handshakes._  
 __jolt<sup>1</sup>__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
-__jonesing__ _v_  
+__jonesing__ _v_ :two::hammer:  
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
 __jostle anew__ :two::hammer: (jostled anew)  
@@ -7513,7 +7518,7 @@ __lemons > dance of the lemons__
 __lemony__  
 __length__ _n_ :two::hammer: _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._ _He walked the length of the carriage._  
 __lengthy__ _A lengthy period._  
-__leniency__ _n_ :three::hammer: _Syn_ indulgence, lenience  
+__leniency__ _n_ :four::hammer: _Syn_ indulgence, lenience  
 __lenient__ _adj_ :six: (leniently) If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you're a big fan of discipline and punishment, however, lenient might mean "soft" or "indulgent." _Olympic officials will be lenient._  
 __Lenny__ Diminutive of Leonard.  
 __lens__ _Lens design._  
@@ -8781,6 +8786,7 @@ __off<sup>1</sup>__ _She got off the train._
 __off<sup>2</sup>__ _v_ _slang_ To murder, to kill.  
 __offbeat__ :two::hammer: _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
+__officer__ _n_  
 __offing__ _A budding rivalry could be in the offing._  
 __offload__ _v_  
 __offramp__  
@@ -8824,6 +8830,7 @@ __ominously__
 __omission__  
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
 __omnibus__ _n_ :two::hammer:  
+__omnipresent__ _adj_  
 __on a dime__ _idiom_  
 __on a high horse__ _idiom_ To act as if you are better than other people.  
 __on a roll__ :two::hammer: _I'm on a roll._  
@@ -8860,6 +8867,7 @@ __On top of that,__
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._ _Others would get on line for loans._  
+__onboard__ :two::hammer:  
 __onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
 __once in a blue moom__ Very rarely.  
 __once in a while__  
@@ -9749,6 +9757,7 @@ __politburo__
 __pollen__ _n_ :four::astonished::hammer:  
 __pollster__ _n_  
 __pollutant__ _n_ :two::hammer:  
+__Pollyanna__ _n_ A person regarded as being foolishly or blindly optimistic. [From the child heroine created by Eleanor Porter (1868–1920), U.S. writer.]  
 __pols__ _n_  
 __poltergeist__ :mega:  
 __polyadic__  
@@ -9840,6 +9849,7 @@ __pounce__ _v_ :four::hammer: (pounced)
 __pounding__ _v_ _Pounding the Jaguars._  
 __pour-over coffee__ _n_  
 __pout__ _v_ :nine: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: The child's lips pouted.  
+__poutine__ _n_  
 __pouty__ _adj_  
 __pow-wow__  
 __powder blue__ Color?  
@@ -11453,6 +11463,7 @@ __sheaf__
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
+__shebang__  
 __shed (some) light on (something)__ _idiom_  
 __shed__ _v_ :five: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he'll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _A tree shedder._  
@@ -13489,7 +13500,7 @@ __top-of-mind__
 __topiary__  
 __topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __topple__ _v_ :two::hammer: _Warriors topple Raptors for fifth straight story._  
-__topsy-turvy__ _adj_ :two::hammer:  
+__topsy-turvy__ _adj_ :three::hammer:  
 __torches__ _n_  
 __tore__ _v_  
 __toric__ _adj_ _Toric lens._  
@@ -13673,7 +13684,7 @@ __truant__
 __truck__ _v_ _They will not truck with terrorists._  
 __truculent__ :two::hammer:  
 __trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
-__true colors__  
+__true colors__ :two::hammer: _He has shown his true colors._  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
 __truism__ _n_ :two::hammer:  
@@ -13941,7 +13952,7 @@ __unthawed__ _Unthawed croissant._
 __unthinkable__ _The unthinkable has befallen President._  
 __unticked__ :dart: _Checking an unticked box on my to-do list._  
 __untidy__  
-__untoward__ _adj_  
+__untoward__ _adj_ :two::hammer:  
 __untuck__ _v_  
 __unwarranted__  
 __unwielding__  
@@ -14076,7 +14087,7 @@ __varnish__ _n_
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vassal__ _n_  
 __vastly__ :two::hammer:  
-__vat__ _n_ :three: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
+__vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._ _A large vat of water._  
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
@@ -14268,6 +14279,7 @@ __wan__ _adj_ :four::hammer: _A wan reception._
 __wand__ _n_  
 __wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
 __wane__ _v_ :four::hammer: (waning) _The waning hours._  
+__wanker__ _n_  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
