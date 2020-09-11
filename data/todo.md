@@ -1,5 +1,17 @@
 
 
+__hmm__  
+__tangerine__ _n_  
+__shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
+__ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
+__stunted__ _adj_  
+__great balls of fire__ _idiom_ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
+__skylark<sup>1</sup>__ _n_  
+__skylark<sup>2</sup>__ _v_  
+__resit<sup>1</sup>__ _n_  
+__resit<sup>2</sup>__ _v_  
+__unwary__ _adj_  
+
 __poor man__ :two::hammer: _She looked every bit the poor man's Pamela Anderson._  
 __rue__ _v_  
 __speak volumes__  
