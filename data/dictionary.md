@@ -1160,7 +1160,7 @@ __big yes__
 __big-box__ _adj_ :three: Of, relating to, or being a large chain store having a boxlike structure. _Big-box stores._ _Big-box merchandisers._  
 __big-gulper__ _America's big-gulpers._  
 __bigger than life__  
-__biggie__ _n_ _Slang_ :three::hammer: _Pearl Harbor was a biggie._  
+__biggie__ _n_ _Slang_ :four::hammer: _Pearl Harbor was a biggie._  
 __bigness__ _n_ __1__ The characteristic of being big. __2__ Size.  
 __bigot__ _n_ /ˈbɪɡət/ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bigotry__  
@@ -2528,6 +2528,7 @@ __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gai
 __coerce__ _v_  
 __coerced__  
 __coercion__ _n_  
+__coeval__  
 __coffee-table book__  
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State's coffers._ :es: arcas  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
@@ -2764,7 +2765,7 @@ __contentious__ _adj_ :eight: A contentious issue is one that people are likely 
 __contested shot__ _n_ (vs uncontested shot)  
 __contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
-__continence__  
+__continence__ _n_ :two::hammer:  
 __contingency plan__ :two::hammer:  
 __contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
@@ -2798,6 +2799,7 @@ __conwise__
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook-off__  
+__cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __cool (one's) heels__ _idiom_ To wait, sometimes so that one becomes calmer or more composed.  
@@ -3297,7 +3299,7 @@ __dean__ _n_ :three::hammer: _He served as dean._
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :five::dart::hammer:  
 __deathless__  
-__debacle__ _n_ :three::hammer:  
+__debacle__ _n_ :four::hammer:  
 __debasing__ _v_  
 __debatable__  
 __debauchery__  
@@ -3472,6 +3474,7 @@ __despoil__ _v_
 __despoiling__  
 __despondency__  
 __despondent__ _n_ :five::hammer:  
+__destigmatize__ _v_  
 __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
 __detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
@@ -6661,7 +6664,7 @@ __illiterate__
 __illustrious__ _adj_ :three::hammer::pencil2: _An illustrious career._  
 __imam__  
 __imbalance__ _n_  
-__imbibe__ _v_ :two::hammer: (imbibing)  
+__imbibe__ _v_ :three::hammer: (imbibing)  
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
 __imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
@@ -6825,6 +6828,7 @@ __induction__ _n_ :four::hammer: _Induction hall._
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ Always working very hard.  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
+__ineffable__ _adj_  
 __ineffectual__  
 __inequitable__  
 __inequities__  
@@ -6977,6 +6981,7 @@ __it's a dog's life__ :dart::astonished:
 __it's one of those things__ _idiom_  
 __item__ _slang_ A couple, two people who are romantically involved.  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
+__IUD__  
 __Ivy League__ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
@@ -6984,6 +6989,7 @@ __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A
 __jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
+__jabroni__ _n_  
 __jack it up__ _v_  
 __jack-o'-lantern__  
 __jackhammer__  
@@ -7197,7 +7203,7 @@ __khakis__ _n_ :two::hammer:
 __kibble__ _n_  
 __kibbutz__  
 __kibitz__ _v_  
-__kick ass__  
+__kick ass__ :two::hammer:  
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick in__ _phr v_ To start to have an effect or to happen.  
@@ -8075,6 +8081,7 @@ __menial__ _n_
 __meniscus__ _n_ :two::hammer: _The thermometer's meniscus._  
 __Mennonite__  
 __menology__  
+__menorrhagia__ _n_ Abnormally heavy or extended menstrual flow.  
 __mens room__ _n_  
 __mental memo__ _n_ :camera:  
 __mentees__  
@@ -8505,6 +8512,7 @@ __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopu
 __Nat Geo__ National Geographic.  
 __National Guard__  
 __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
+__Native American__ _Native American reservation._  
 __nativism__ :two::hammer:  
 __NATO__ _North Atlantic Treaty Organization_  
 __nattering__  
@@ -9394,7 +9402,7 @@ __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching m
 __Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
-__perish__ _v_ To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
+__perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
 __peristaltic__ _adj_  
 __periwinkle__ _n_ :two::hammer: (periwinkles)  
 __perjury__ :two::hammer:  
@@ -9955,6 +9963,7 @@ __prick<sup>2</sup>__ _n_ _He already had the prick for it._
 __prickle__ _n_  
 __prickled__ _v_ _Rob's skin prickled._  
 __prickling__  
+__prickly pear__ _n_ :es: higo chumbo, nopal  
 __prickly__ :two::hammer:  
 __pride flag__  
 __pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._  
@@ -10283,7 +10292,7 @@ __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment
 __quitter__ _Are you calling me a quitter?_  
 __quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__  
-__quiz__ _n_ A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
+__quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quote, unquote__ :two::hammer:  
 __Quran__  
@@ -10656,6 +10665,7 @@ __requite__ _v_
 __rerun__ _n_ _Of course I've seen it! It's a rerun._  
 __rescind__ _v_ :two::hammer: (rescinded)  
 __reseller__  
+__reservation__ _n_ _Native American reservation._  
 __reset__ _v_ :three::mega::hammer:  
 __residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
@@ -13318,7 +13328,8 @@ __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front
 __tic<sup>1</sup>__ _n_ :two::hammer: _A tic sucking on the neck of a dog._  
 __tic<sup>2</sup>__ _v_  
 __tick prevention__  
-__tick__ _v_ _Prices ticked up 0.2%._  
+__tick<sup>1</sup>__ _n_ Any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals. :es: garrapata  
+__tick<sup>2</sup>__ _v_ _Prices ticked up 0.2%._  
 __ticker tape__  
 __ticker__ _n_ :two: __1a__ _slang_ A person's heart. __b__ A watch. __2__ A person or thing that ticks.  
 __ticket taker__ _n_ Someone who is paid to admit only those who have purchased tickets.  
@@ -13344,6 +13355,7 @@ __tighten your belt__ _idiom_ To spend less money.
 __tighten__ _v_ _Tighten your belts._  
 __tightknit__  
 __tightly wound__ Chronically tense, unable to relax, highly reactive.  
+__tightwad__ _n_  
 __tigress__ _n_  
 __Tijuana special__  
 __tiki torches__ _n_ :camera:  
@@ -14055,6 +14067,7 @@ __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about 
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ :mute:[vag~~u~~e]  
 __vainglorious__ _adj_  
+__vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
 __valedictory__ _n_ :two: A closing or farewell statement or address, especially one delivered at graduation exercises.  
