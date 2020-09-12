@@ -1,5 +1,16 @@
 
 
+__prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
+__lode__ _n_  
+__unrequited__ _Her unrequited crush.__  
+__nonplussed__ _adj_ :pencil2:  
+__surmised__ _v_  
+__kosher__ _n_ _informal_  
+__miffed__ _v_  
+__punters__ _n_ :two::hammer: _I have laced a few punters._  
+__laced__ _v_ _I have laced a few punters._  
+__warrant__ _v_  
+
 __hmm__  
 __tangerine__ _n_  
 __shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
