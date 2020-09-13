@@ -1,5 +1,16 @@
 
 
+__dodgy__ _adj_ Marked by skill in deception.  
+__vituperation__ _n_ _Syn_ denunciation, abuse, insults  
+__threequel__ _n_ _There's the original, the sequel, and the threequel._  
+__Greek__ _idiom_ _It’s all greek to me._  
+__cross that bridge later__ _idiom_ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
+__rocket science__ _idiom_ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn't rocket science!_  
+__Break a leg!__ _idiom_ Good luck! (A special theatrical way of wishing a performer good luck. Saying "good luck" is considered by actors to be a jinx.) _"Break a leg!" shouted the stage manager to the heroine. Let's all go and do our best. Break a leg!_  
+__forgo__ _v_  
+__forego__ _v_  
+__you can say that again__ _idiom_ I agree completely; what you said is especially true. _A: "Wow, that exam was brutally difficult." B: "You can say that again! It was the hardest test I've ever taken."_  
+
 __disservice__  
 __masquerade__ _n_  
 __stand in someone's shoes__  
