@@ -1,26 +1,5 @@
 
 
-__beer muscles__ _idiom_ An inflated notion of one's strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
-__barbecueing__  
-__grilling__  
-__smoking__ (cookery)  
-__fuck a duck__ _idiom_ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
-__foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
-__hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
-__go to hell in a handcart__ _idiom_ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
-__meander__  
-__lier__  
-
-__prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
-__lode__ _n_  
-__unrequited__ _Her unrequited crush.__  
-__nonplussed__ _adj_ :pencil2:  
-__surmised__ _v_  
-__kosher__ _n_ _informal_  
-__miffed__ _v_  
-__punters__ _n_ :two::hammer: _I have laced a few punters._  
-__laced__ _v_ _I have laced a few punters._  
-__warrant__ _v_  
 
 __hmm__  
 __tangerine__ _n_  

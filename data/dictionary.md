@@ -870,6 +870,7 @@ __Baptist__ _A Baptist preacher._
 __bar top__  
 __BAR__ _BAR man._  
 __barbecue__ _Barbecue sauce._  
+__barbecueing__  
 __barbed__ _adj_ __1__ Unkind and criticizing. _He was a targed for Jack's barbed humor._ __2__ Having a sharp point that curves backwards.  
 __barbells__  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
@@ -1012,6 +1013,7 @@ __beeline__
 __beep-de-beep__  
 __beer gut__  
 __beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
+__beer muscles__ _idiom_ An inflated notion of one's strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __beer pong__ _n_  
 __beer tap__ _A beer tap that was brought from England._  
 __beers on tap__ :camera:  
@@ -4960,6 +4962,7 @@ __follow in someone's footsteps__ _idiom_ To do the same thing as someone else d
 __follow suit__ _idiom_ :six: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four "suits" (diamonds, hearts, spades, and clubs).  
 __follow-up__ _n_ :astonished:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
+__foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
 __FOMO__  
 __food coma__ _idiom_  
 __food processor__  
@@ -5182,6 +5185,7 @@ __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The 
 __frumpy__  
 __FT__ _Sports_ Full-time.  
 __fuchsia__ _n_ :two::pencil2::hammer:  
+__fuck a duck__ _idiom_ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
 __fucking A__ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
@@ -5544,6 +5548,7 @@ __go through the roof__
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
 __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to great lengths__ _idiom_  
+__go to hell in a handcart__ _idiom_ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
 __go to the dogs__  
 __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
 __go to the wire__  
@@ -5734,6 +5739,7 @@ __griff__
 __grifter__ _n_ :three: A person who swindles another out of money.  
 __grill (someone) (about something)__ _idiom_ To question or interrogate someone intensely and relentlessly (about something).  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
+__grilling__  
 __grim__ _adj_ :four::hammer:  
 __grime__ _n_ :three::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
@@ -6310,6 +6316,7 @@ __hike__ _n_ :two::hammer: (surge?)
 __hike<sup>1</sup>__ _n_ :two::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
 __hilarious__ Very funny.  
+__hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
 __hillbilly__ :two::hammer:  
 __hillocks__  
 __hillside__ _n_  
@@ -7319,7 +7326,8 @@ __kook__ _n_ _slang_ :two::hammer:
 __kooky__ _adj_ :two: Crazy, mentally unbalanced.  
 __Kool-Aid__  
 __Kosher salt__  
-__kosher__ _adj_ :two: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. __b__ Genuine; authentic.  
+__kosher<sup>1</sup>__ _n_ _informal_  
+__kosher<sup>2</sup>__ _adj_ :two: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. __b__ Genuine; authentic.  
 __kowtow__ _v_ :three::astonished: (kowtowing):astonished: The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ ("to knock") with the noun _tou_ ("head"). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
@@ -7340,6 +7348,7 @@ __labrotories__ ?
 __labrum__  
 __lace up__ _v_ _Adam laced up his Nikes._  
 __lace__ _n_  
+__laced__ _v_ _I have laced a few punters._  
 __lacerate__ _v_  
 __lachrymose__ _adj_  
 __lackadaisical__  
@@ -7576,6 +7585,7 @@ __lid__ _It should keep a lid on the yen._
 __lidar__  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
+__lier__ _n_ A person who lies down.  
 __lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __life preserver__ _n_ _Marty McFly's life preserver._  
 __lifeblood__ _n_ :three: The blood, as being necessary to life.  
@@ -7691,7 +7701,7 @@ __locks__ _n_ _The thick locks of black hair._
 __locksmith__  
 __lockstep__ :two::hammer:  
 __locust__ _n_ :four::hammer: (locusts)  
-__lode__ _n_  
+__lode__ _n_ :two::hammer:  
 __lodges__ _Fishing lodges._  
 __lodging__  
 __lodgings__  
@@ -8027,6 +8037,7 @@ __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in the
 __mea culpa__  
 __mead__ _n_  
 __meager__ _adj_ :dart::seven: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
+__meander__  
 __meandering__  
 __meannes__ :pencil2:  
 __meant to be__ _idiom_ _It was meant to be made in heaven._  
@@ -8136,6 +8147,7 @@ __midswing__
 __midway__  
 __midwife__ _n_ :two::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
+__miff__ _v_ (miffed) To cause to become offended or annoyed.  
 __miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __might__ _n_ :two::hammer::mute:[mi~~gh~~t] _China's economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
@@ -8660,7 +8672,7 @@ __noncommittal__ _adj_ :three::hammer:
 __nondescript__ _adj_ :four::hammer:  
 __nonpartisan__ _adj_  
 __nonpliable__ _Nonpliable products._  
-__nonplussed__ _adj_ :two::hammer: _His celebrations have nonplussed commentators._  
+__nonplussed__ _adj_ :three::pencil2::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsequitur__  
@@ -9958,6 +9970,7 @@ __prez__ _n informal_ (Prez) President.
 __price point__ _The best in price point._  
 __price tag__  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
+__prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
 __prick<sup>1</sup>__ _v_ :five::hammer: (pricked) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __prick<sup>2</sup>__ _n_ _He already had the prick for it._  
 __prickle__ _n_  
@@ -10153,6 +10166,7 @@ __punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hand
 __punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
 __punt<sup>3</sup>__ _v.intr._ __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let's punt on this and try something else._  
 __punted__ _Obama punted until after the election._  
+__punters__ _n_ :two::hammer: _I have laced a few punters._  
 __punting__ _v_  
 __puny__ _A puny garden snail._  
 __pupil__ _n_  
@@ -11973,6 +11987,7 @@ __smock<sup>2</sup>__ _v_
 __smog__ _n_ :three::hammer:  
 __smoke like a chimney__ _idiom_ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ _This person smokes me._  
+__smoking__ (cookery)  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
@@ -12829,7 +12844,7 @@ __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging
 __surge<sup>2</sup>__ _n_  
 __surliness__  
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
-__surmise__ _v_ :five::hammer: (surmised, surmising)  
+__surmise__ _v_ :six::hammer: (surmised, surmising)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surmountable__  
 __surname__ :two::mega::hammer:  
@@ -13937,7 +13952,7 @@ __unreasonable__ _adj_
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
 __unrepentant__ _adj_ :three::hammer:  
-__unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
+__unrequited__ _adj_ :two: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
@@ -14312,7 +14327,7 @@ __warmer__ _n_ _Fragance warmer._
 __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
 __warmongering__ _n_  
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a certain amount of time).  
-__warrant<sup>2</sup>__ _v_ :two: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
+__warrant<sup>2</sup>__ _v_ :three: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
 __warren__ _n_ _A warren of hares._  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
