@@ -1,5 +1,18 @@
 
 
+__disservice__  
+__masquerade__ _n_  
+__stand in someone's shoes__  
+__artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
+
+__tempestuous__ _adj_  
+__boy oh boy__ _idiom_ An expression said when one is excited, pleased, or pleasantly surprised.
+_Boy oh boy, that was a delicious birthday cake!_  
+__timetable__ _n_ _The timetable was tight._  
+__incognito__  
+__whatnot__  
+__henchman__ _adj_ (henchmen)  
+
 
 __hmm__  
 __tangerine__ _n_  
