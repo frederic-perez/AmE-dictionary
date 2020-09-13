@@ -1,5 +1,16 @@
 
 
+__prostrate__ _adj_  
+__solicitous__ _adj_  
+__heinous__ _adj_  
+__lulled__ _v_  
+__disabused__ _v_  
+__pelt__ _v_ (pelting) _The rain was pelting down._  
+__bellowed__ _v_  
+__abject__ _adj_  
+__scoundrel__ _n_  
+__snide__  
+
 __dodgy__ _adj_ Marked by skill in deception.  
 __vituperation__ _n_ _Syn_ denunciation, abuse, insults  
 __threequel__ _n_ _There's the original, the sequel, and the threequel._  
