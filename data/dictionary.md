@@ -80,7 +80,7 @@ __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loa
 __abhorrent__ _adj_ :five::hammer:  
 __abide by__ _idiom_ To conform to; comply with: _abide by the rules._  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
-__abject__ _adj_ :two: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
+__abject__ _adj_ :three: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_  
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
@@ -1068,7 +1068,7 @@ __bellboy__ _n_
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
-__bellow__ _v_ :three::hammer: (bellowed)  
+__bellow__ _v_ :four::hammer: (bellowed)  
 __bellowing__ _n_  
 __bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
@@ -1527,7 +1527,7 @@ __breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate
 __bread and butter__  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one's) neck__  
-__break a leg__ _idiom_ :two: Good luck.  
+__break a leg__ _idiom_ _exclamation_ :three: Good luck! (A special theatrical way of wishing a performer good luck. Saying "good luck" is considered by actors to be a jinx.) _"Break a leg!" shouted the stage manager to the heroine. Let's all go and do our best. Break a leg!_  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
 __break into__ _phr v_ To enter some place forcibly.  
@@ -3042,6 +3042,7 @@ __crop-duster__ _The crop-duster attack in North by Northwest._
 __crosbar__ _n_ _soccer_  
 __cross (oneself)__ :es: santiguarse  
 __cross someone's mind__ _It never crossed my mind._  
+__cross that bridge later__ _idiom_ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ _idiom_ :two: To delay dealing with a problem until it happens.  
 __cross word__ _No one heard her say a cross word about anyone else._  
 __cross your eyes__ _There's kid stuff that makes adults kind of cross their eyes._  
@@ -3589,7 +3590,7 @@ __dirty bop__ _I did the dirty bop in Pat O'Brien's and got thrown out._
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
 __dis<sup>2</sup>__ _v_ :two::hammer:  
-__disabuse__ _v_ :dart::three: To make someone realize that they were wrong to believe something.  
+__disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
 __disaffected__ _adj_ :two::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
@@ -3734,7 +3735,7 @@ __doctors make the worst patients__ _idiom_ It is difficult to give people help 
 __doddering__  
 __dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __dodges__ _n_  
-__dodgy__ _adj_ _slang_ :two: Dishonetsor unreliable.  
+__dodgy__ _adj_ _slang_ :three: Dishonest or unreliable. Marked by skill in deception.  
 __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doeskin__ _A doeskin wallet._  
@@ -5023,7 +5024,7 @@ __foreclosure__ _n_ :two::hammer:
 __forefathers__  
 __forefinger__  
 __forefront__  
-__forego__  
+__forego__ _v_ :two::hammer:  
 __foregone__ :two::hammer:  
 __forehead__ :mute:[fore~~h~~ead]  
 __foreign__ :mute:[forei~~g~~n]  
@@ -5047,7 +5048,7 @@ __forged__ _adj_ Of or relating to that which has been fraudulently imitated.
 __forgetful__ _adj_  
 __forgive__ _Forgive me, master._  
 __forgiving__ _adj_  
-__forgo__ _v_ :nine: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
+__forgo__ _v_ :nine::m: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgone__  
 __fork over the dough__ _idiom_ To pay, generally unwillingly, a certain amount of money.  
 __fork__ _Gordon at fork in the road._  
@@ -5718,7 +5719,7 @@ __great-grandfather__ _n_
 __great-grandsons__  
 __greater area__ _Greater Tokyo area._  
 __greaves__ _n_  
-__Greek__ :astonished: _It's in Greek and almost impossible to decode._  
+__Greek__ _idiom_ :two::astonished::hammer: _It’s all greek to me._ _It's in Greek and almost impossible to decode._  
 __green card wedding__  
 __green day__ :two::hammer:  
 __green thumb__ _Not everyone has a green thumb._  
@@ -6226,7 +6227,7 @@ __hefted up__
 __hefty__ :two::hammer:  
 __height__ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :two::hammer:  
-__heinous__ _adj_ :three: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
+__heinous__ _adj_ :four: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
@@ -7802,7 +7803,7 @@ __luge__ _Olimpic luge team._
 __luger__ _Team USA's best lugers._  
 __lugging__ _v_ :three::hammer:  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
-__lull<sup>2</sup>__ _v_ :two::hammer:  
+__lull<sup>2</sup>__ _v_ :three::hammer: (lulled)  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
@@ -9358,7 +9359,7 @@ __pell-mell__
 __pellet__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
-__pelt<sup>2</sup>__ _v_ :six::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._  
+__pelt<sup>2</sup>__ _v_ :seven::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._ _The rain was pelting down._  
 __pen name__  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
@@ -10072,7 +10073,8 @@ __prospect__ _n_ (sports)
 __prospective__ _Prospective clients._  
 __prospector__  
 __prospectus__  
-__prostrate__ _v_  
+__prostrate<sup>1</sup>__ _adj_  
+__prostrate<sup>2</sup>__ _v_  
 __protean__ _adj_ :three::hammer:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protégé__ _n_ :two: One whose welfare, training, or career is promoted by an influential person.  
@@ -10855,6 +10857,7 @@ __rock the boat__ _idiom_ :four::hammer: _Please, don't rock the boat._
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
 __rock-paper-scissors__ _Is this rock-paper-scissors?_  
+__rocket science__ _idiom_ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn't rocket science!_  
 __rocket__ :mega:  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __rodeo__ :mega:  
@@ -11225,7 +11228,7 @@ __scorching__
 __score__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn__  
-__scoundrel__  
+__scoundrel__ _n_ :two::hammer:  
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
@@ -12038,7 +12041,7 @@ __Snellen chart__
 __snick__ _v_  
 __snicker<sup>1</sup>__ _v_ :seven: (snickers, snickered, snickering) To laugh quietly and in a way that is not nice at something which is not supposed to be funny.  
 __snicker<sup>2</sup>__ _n_ _The first question set off snickers on the audience._  
-__snide__  
+__snide__ :two::hammer:  
 __sniffed__ _v_ :two::hammer:  
 __sniffle__ _v_ (sniffles)  
 __snifter__ _n_ :two::camera::dart::hammer:  
@@ -12121,7 +12124,7 @@ __solely__ _adv_
 __solemn__ :mute:[solem~~n~~]  
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
-__solicitous__  
+__solicitous__ _adj_ :two::hammer:  
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
@@ -13285,6 +13288,7 @@ __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something m
 __thread the needle__  
 __Three Lions__ _A message to the Three Lions._  
 __three-hour__ _adj_ :pencil2: _A three-hour drive._  
+__threequel__ _n_ _There's the original, the sequel, and the threequel._  
 __thrifty__ _adj_ :three::hammer:  
 __thrilling__ _adj_  
 __throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
@@ -14215,7 +14219,7 @@ __vital__ _adj_
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
 __vituperate__ _v_  
-__vituperation__ _n_ :two: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol  
+__vituperation__ _n_ :three: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
 __vizier__ _n_ :two::hammer:  
@@ -14826,6 +14830,7 @@ __YOLO__ You only live once.
 __yonder__  
 __yore__ _?_ _Days of yore._  
 __you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
+__you can say that again__ _idiom_ I agree completely; what you said is especially true. _A: "Wow, that exam was brutally difficult." B: "You can say that again! It was the hardest test I've ever taken."_  
 __you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
 __you scratch my back, I'll scratch yours__ _idiom_ If you help me, I will help you.  
 __your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
