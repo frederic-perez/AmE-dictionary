@@ -1,5 +1,16 @@
 
 
+__shoot for the moon__ _idiom_ To set one's goals or ambitions very high; to try to attain or achieve something particularly difficult.  
+__big boned__ _idiom_ _euphemism_ Fat or obese. Usually used as an excuse for one's size. _I know that people think I have an eating problem, but really I'm just big boned!_  
+__stance__ _n_  
+__petrichor__ _n_  
+__crash and burn__ _idiom_ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
+__slayer__ _n_ Someone who causes the death of a person or animal.  
+__props__ _pl n_ _slang_ :dart: Due respect; proper recognition. Often used in expressions of gratitude: _Props to my friends for helping me out. I'd like to give props to my manager._  
+__ew__ _exclamation_ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
+__pessary__ _n_  
+__paralyze__ _v_ :pencil2:  
+
 __disservice__  
 __masquerade__ _n_  
 __stand in someone's shoes__  
