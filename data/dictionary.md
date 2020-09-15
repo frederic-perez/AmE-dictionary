@@ -575,6 +575,7 @@ __articulated__ _adj_ _A clearly articulated project._
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
+__artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
 __as a duck takes to water__ _idiom_ _cliché_ Esily and naturally. _She took to singingjust as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as a general rule__  
 __as blind as a bat__ _idiom_ Unable to see well.  
@@ -1143,6 +1144,7 @@ __bidding war__
 __bidding__  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
+__big boned__ _idiom_ _euphemism_ Fat or obese. Usually used as an excuse for one's size. _I know that people think I have an eating problem, but really I'm just big boned!_  
 __big break__ _idiom_ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one's career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big brother__  
 __Big C__ Cancer?  
@@ -1484,6 +1486,7 @@ __bowling alley__ _n_ :two: __1__ A smooth, level wooden lane used in bowling. _
 __box score__  
 __box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
+__boy oh boy__ _idiom_ An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __boycott__  
 __boycott<sup>1</sup>__ _n_ :astonished:  
 __boycott<sup>2</sup>__ _n_ :astonished:  
@@ -2964,6 +2967,7 @@ __crank<sup>1</sup>__ _n_ :three::hammer: _A fringe crank._ _Try a telephone cra
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
+__crash and burn__ _idiom_ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __crash course__  
 __crash-land__ _v_ _A jet crash-landed in the city._  
 __crass__ _adj_ :three::hammer: _Crass attitudes._  
@@ -3669,7 +3673,7 @@ __dissemble__ _v_ :four::hammer: _Syn_ disguise, cloak, mask, pretend
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :three::hammer:  
-__disservice<sup>1</sup>__ _n_ :four::hammer::pencil2:  
+__disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissident__ _n_ :two::hammer:  
 __dissimilar__ _adj_  
@@ -4378,6 +4382,7 @@ __eviction__ :two::hammer:
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn't evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
+__ew__ _exclamation_ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
 __ewer__ _n_  
 __ewes__ _n_  
 __ex cathedra__ _adj_ _adv_ With the authority derived from one's office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
@@ -6252,7 +6257,7 @@ __hemlock__
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
-__henchman__ _n_ :seven::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :eight::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
@@ -6798,7 +6803,7 @@ __inchworm__ _n_
 __incident__ _A stroke incident to pancreatic cancer._  
 __incidentally__ _adv_ :four::hammer:  
 __inclined__ _adj_  
-__incognito__  
+__incognito__ :two::hammer:  
 __incongruities__ _n_  
 __incongruous__ _adj_  
 __incongruously__  
@@ -7993,6 +7998,7 @@ __mascot__ _n_ :two::hammer: (vs pet)
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We'll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
+__masquerade__ _n_  
 __massacre__ _n_ _There were public roundups and massacres._  
 __masseuse__ _n_  
 __massive__  
@@ -9197,7 +9203,7 @@ __paradoxically__
 __paraglider__ _n_ :es: parapente; parapentista  
 __paragon__ _n_ :six: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __paralysis__ _n_ :mega:  
-__paralyzed__ _v_ :pencil2:  
+__paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
 __paramount__ _The reliability of the weather station is paramount._  
 __paranoid__ _adj_  
 __paraphernalia__ _n_ :four::pencil2::hammer: _Star Wars paraphernalia._  
@@ -9439,12 +9445,14 @@ __peruse__ _v_ :two::hammer:
 __Peruvian__  
 __pervasive__ _adj_ :three::hammer:  
 __pesky__  
+__pessary__ _n_  
 __pester__ _v_ :two::hammer: (pestered)  
 __pestilence__ _n_  
 __pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher's pet._  
 __peter out__  
 __petite__  
+__petrichor__ _n_  
 __petroglyphs__ _Ancient Indian petroglyph._  
 __petroleum jelly__  
 __Petry dish__ :mega:  
@@ -10065,7 +10073,7 @@ __prophesy__ _v_ (prophesied)
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
 __propriety__  
-__props__ :two::hammer: _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
+__props__ _pl n_ _slang_ :three::dart: Due respect; proper recognition. Often used in expressions of gratitude: _Props to my friends for helping me out. I'd like to give props to my manager._ _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
 __prosaic__  
 __proselytism__ :astonished:  
 __proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
@@ -11575,6 +11583,7 @@ __shogunate__ :two::hammer: _A local shogunate office._
 __shoo__ _v_ :three::hammer: (shooing)  
 __shoo-in__  
 __shooing__ _v_  
+__shoot for the moon__ _idiom_ To set one's goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__ _idiom_  
 __shoot the breeze__ _informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
 __shoot the moon__ _v_ :three::hammer:  
@@ -11847,7 +11856,7 @@ __slaughter__ :mute:[slau~~gh~~ter]
 __slave driver__ _n_ A person who makes other people work very hard.  
 __slavishly__ :two::hammer: _Following instructions slavishly._  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
-__slayer__  
+__slayer__ _n_ :two: Someone who causes the death of a person or animal.  
 __sleazebag__  
 __sleaziest__  
 __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
@@ -12428,9 +12437,10 @@ __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophtha
 __stamp__ _Additional stamp duties went into effect last year._  
 __stamped__  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
-__stance__ _n_ :seven: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
+__stance__ _n_ :eight: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
 __stand a chance__  
+__stand in someone's shoes__  
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
 __stand out__ _The dragons are notoriously varied in phisique--they'd stand out in the Mos Eisley Cantina._  
 __stand strong__  
@@ -13157,7 +13167,7 @@ __temperance__
 __temperate__ _A temperate climate._  
 __tempering__ _adj_ _A tempering experience_  
 __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
-__tempestuous__  
+__tempestuous__ _adj_ :two::hammer:  
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
 __Tempranillo__  
 __tenable__ _adj_  
@@ -13394,7 +13404,7 @@ __timeliness__
 __timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
 __timepiece__ _n_ A watch, or a clock.  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
-__timetable<sup>1</sup>__ _n_  
+__timetable<sup>1</sup>__ _n_ :two::hammer: _The timetable was tight._  
 __timetable<sup>2</sup>__ _v_  
 __timid__  
 __timing bag__  
@@ -14451,6 +14461,7 @@ __wharf__ _n_ :five::hammer: (wharves)
 __what__ :mute:[w~~h~~at]  
 __What's that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what's the haps?__  
+__whatnot__  
 __wheat__ :mute:[w~~h~~eat]  
 __whee!__  
 __wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
