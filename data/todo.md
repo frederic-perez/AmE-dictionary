@@ -1,5 +1,16 @@
 
 
+__sussed__ _v_ :two::hammer:  
+__reel__ _v_ (reeling) _Pete was still reeling from the shock._  
+__apprehension__ _n_ :pencil2:  
+__warren__ _It was like a rabbit warren._  
+__blowtorch__ _n_  
+__intently__  
+__ailing__ _v_  
+__instigator__ _n_  
+__snot__ _n_ (mucus?)  
+__moot__  
+
 __strenuous__  
 __downplay__  
 __articulate__  
