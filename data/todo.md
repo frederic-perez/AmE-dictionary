@@ -1,5 +1,16 @@
 
 
+__strenuous__  
+__downplay__  
+__articulate__  
+__soft-pedal__ _v_ _Informal_ To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
+__verbiage__ _n_  
+__diction__ _n_  
+__perjury__ _n_ Criminal offense of making false statements under oath. _Syn_ bearing false witness, lying under oath  
+__help (oneself) (to something)__ _idiom_ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint.  
+__slubber__  
+__Ciceronian__ _adj_  
+
 __hmm__  
 __tangerine__ _n_  
 __shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
