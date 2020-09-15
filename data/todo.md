@@ -1,5 +1,16 @@
 
 
+__contranym__  
+__refugium__ _n_  
+__logomachy__ _n_  
+__ruddy__ _adj_  
+__privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
+__the heebie-jeebies__ _idiom_ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used with “get” or “give.”  
+__dentures__ _n pl_ :dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
+__spoonerism__ _n_  
+__libel__  
+__slander__  
+
 __sussed__ _v_ :two::hammer:  
 __reel__ _v_ (reeling) _Pete was still reeling from the shock._  
 __apprehension__ _n_ :pencil2:  
