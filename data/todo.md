@@ -1,5 +1,16 @@
 
 
+__bereft__ _v_  
+__shebang__ _The whole shebang._  
+__scintillating__ _adj_ _Scintillating company._  
+__thousandth__  
+__deliver__ _v_ _There is a hundred grand if you can deliver._  
+__bus boy__ (bus boys)  
+__pittance__ _n_  
+__reality check__  
+__swerve__ _n_  
+__liability__ _n_ _He was a liability, an accident waiting to happen._  
+
 __contranym__  
 __refugium__ _n_  
 __logomachy__ _n_  
