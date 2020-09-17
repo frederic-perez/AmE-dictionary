@@ -1,5 +1,16 @@
 
 
+__aggro__ _n_  
+__rudder__ _n_ _Dan is like a ship without a rudder._  
+__slumber__ _n_  
+__crucifix__ _n_  
+__predicament__ _n_  
+__ructions__ _n_  
+__prerogative__ _n_  
+__viper__ _n_  
+__effrontery__  
+__decrepit__ _adj_  
+
 __contranym__  
 __refugium__ _n_  
 __logomachy__ _n_  
