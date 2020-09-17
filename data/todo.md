@@ -1,5 +1,16 @@
 
 
+__make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one's own or someone else's amusement, or as a show of disgust.  
+__wedding anniversary__ (not “marriage anniversary”)  
+__cargo pants__  
+__lapidity__ _v_  
+__lackluster__ _adj_  
+__chipped__ _adj_ Damaged by having a small piece broken off.  
+__bank on__ _phr v_ To have confidence in; rely on.  
+__bring off__ _phr v_ To accomplish: _bring off a successful advertising campaign._  
+__be in over (one's) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I'm in over my head with Amy. She wants marriage, kids, and a house, and I'm just not ready for any of that._  
+__king of the hill__ _idiom_ The most powerful, successful, or authoritative person in a group or organization. _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
+
 __aggro__ _n_  
 __rudder__ _n_ _Dan is like a ship without a rudder._  
 __slumber__ _n_  
