@@ -201,6 +201,7 @@ __adroit__
 __adroitly__ _adv_ :two: In an adroit manner. _He handled the situation adroitly._  
 __adulation__  
 __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
+__adulterate__ _v_  
 __advanced in years__ _idiom_ Of an older age.  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :eight::mega::hammer: _The advent of social media._  
@@ -808,7 +809,7 @@ __bagman__ _n_ _Bill is a bag man for corrupt officials._
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
-__bailiwick__  
+__bailiwick__ :two::hammer:  
 __bailout__ _n_ :four::hammer:  
 __bake in__ _v_  
 __bake__ _v_ _Baking bread._  
@@ -951,6 +952,7 @@ __be friends__ _I was good friends with her._
 __be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
+__be here to stay__ _idiom_ To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
@@ -1103,7 +1105,7 @@ __bereave__ _v_ :two::hammer: (bereaved)
 __bereaved__ _adj_  
 __bereavement__ _n_ :six: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
-__bereft<sup>2</sup>__ _v_  
+__bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ :mute:[bere~~t~~]  
 __berm__ _n_  
 __berserk__ _adj_ :eight: (usually used in the phrase "go berserk") __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
@@ -1770,6 +1772,7 @@ __burrow<sup>2</sup>__ _v_ :three::hammer:
 __burrs__ _n_  
 __bursary__ :two::hammer: (bursaries)  
 __burst__ _v_ :two::hammer: (bursting)  
+__bus boy__ (bus boys)  
 __bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __bush jacket__ _n_ _An inmaculate bush jacket._  
@@ -3407,7 +3410,7 @@ __deliberate__
 __delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delisted__ _v_  
-__deliver__ _v_ :three::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._  
+__deliver__ _v_ :four::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._  
 __deliverance__ _n_ :four::hammer: _Hope and deliverance._  
 __delivered__ _On Thursday the No. 4-ranked Cougars delivered._  
 __delivers__  
@@ -3608,6 +3611,7 @@ __disciple__ :mute:[dis~~c~~iple]
 __disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :pencil2:  
 __discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
+__discomfiture__ _n_  
 __disconsolate__ _adj_  
 __discontinued__ _v_  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
@@ -3737,6 +3741,7 @@ __docket__ _n_ :five::hammer:
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __doddering__  
+__doddle__ Something easily done, fixed, etc.  
 __dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :three: Dishonest or unreliable. Marked by skill in deception.  
@@ -6370,7 +6375,7 @@ __hmm__ _interj_
 __HMOs__  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __ho__  
-__ho-hum__ _adj informal_ :three: So lacking in interest as to cause mental weariness; dull; mediocre. _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
+__ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weariness; dull; mediocre. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._ _A ho-hum speaker who couldn't capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __hoagie__  
 __hoard__ _v_  
 __hoarsely__  
@@ -6451,6 +6456,7 @@ __homophobic__
 __honcho__ _n_ :four::hammer: (honchos)  
 __honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one's statement, "Pete" here is a substitution of the word "God," so as to avoid potential blasphemy.  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
+__honey-do list__ _idiom_ A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
 __honeysuckle__  
@@ -7573,7 +7579,7 @@ __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)
 __levy<sup>2</sup>__ _n_ :three::hammer:  
 __lewd__ _adj_ :three::hammer:  
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
-__liability__ _n_ :six::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._  
+__liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :four::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
@@ -9622,7 +9628,7 @@ __pithy__ _adj_ :four: Terse and full of meaning or substance. A pithy phrase or
 __pitiful__ :two::hammer:  
 __pitmaster__  
 __Pitot tube__ _n_ A device, essentially a tube set parallel to the direction of fluid-stream movement and attached to a manometer, used to measure the total pressure of the fluid stream.  
-__pittance__ _n_ :two::hammer:  
+__pittance__ _n_ :three::hammer:  
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
 __pituitary__  
 __pivot<sup>1</sup>__ _n_ :two::hammer:  
@@ -10051,6 +10057,7 @@ __proliferation__ _n_
 __prolix__ _adj_ :two: Using too many words and therefore boring.  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
+__Promethean__ _adj_ Creative; boldly original.  
 __prominence__  
 __prominent__ _adj_ :six::hammer: _Package carrying a prominent warning._  
 __prominently__  
@@ -10193,7 +10200,7 @@ __purloin__ _v_ :six: (purloined) To steal, often in a violation of trust. _Syn_
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _A hint of purple._  
-__purport__ _v_ :six::hammer: (purported) _The purported attack._ _JFK's purported affairs._  
+__purport__ _v_ :seven::hammer: (purported) _The purported attack._ _JFK's purported affairs._  
 __purportedly__ :two::hammer:  
 __purr__ _v_ :two::hammer: (purring)  
 __purse__ _v_ _His lips pursed._  
@@ -10495,6 +10502,7 @@ __ready-room__ _n_ :two::hammer:
 __readying__ _v_ :astonished:  
 __reaffirming__  
 __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
+__reality check__  
 __realtor__ _n_ :three::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
 __ream<sup>2</sup>__ _n_ :pencil2::three::hammer: (reams) _He watched reams on tape._  
@@ -11218,7 +11226,7 @@ __sciatic__
 __sciatica__  
 __science__ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :two::hammer:  
-__scintillating__ _adj_ :three::hammer:  
+__scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
 __scissors__ :mute:[s~~c~~issors]  
@@ -11498,7 +11506,7 @@ __sheaf__
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
-__shebang__  
+__shebang__ :two::hammer: _The whole shebang._  
 __shed (some) light on (something)__ _idiom_  
 __shed__ _v_ :five: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he'll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _A tree shedder._  
@@ -11938,6 +11946,7 @@ __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your frien
 __slug down__ _v_ _He slugged down four martinis._  
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v_ :three::hammer: (slugs)  
+__slugabed__ A person who lazily stays in bed long after the usual time for arising.  
 __sluggard__  
 __sluggish__  
 __sluice__ _v_ :six::hammer: (sluiced, sluicing)  
@@ -12916,7 +12925,7 @@ __sweethearts__
 __swell<sup>1</sup>__ _n_ :three::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
 __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
-__swerve<sup>1</sup>__ _n_ _Applying swerve and spin to the ball._  
+__swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ _[usually in negatives]_ _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
 __swift__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
@@ -13292,6 +13301,7 @@ __thorough__ _adj_ :two::astonished::mute:[thorou~~gh~~] _It's a very serious ma
 __thoroughfare__  
 __thoroughly__  
 __thought__ :mute:[thou~~gh~~t]  
+__thousandth__  
 __thrall__ _n_ :six::hammer:  
 __thrash out__  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  

@@ -1,27 +1,5 @@
 
 
-__adulterate__ _v_  
-__honey-do list__ _idiom_ A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
-__purport__ _v_  
-__Promethean__ _adj_ Creative; boldly original.  
-__doddle__ Something easily done, fixed, etc.  
-__ho-hum__ _adj_ So lacking in interest as to cause mental weariness. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._  
-__be here to stay__ _idiom_ To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
-__bailiwick__  
-__discomfiture__  
-__slugabed__ A person who lazily stays in bed long after the usual time for arising.  
-
-__bereft__ _v_  
-__shebang__ _The whole shebang._  
-__scintillating__ _adj_ _Scintillating company._  
-__thousandth__  
-__deliver__ _v_ _There is a hundred grand if you can deliver._  
-__bus boy__ (bus boys)  
-__pittance__ _n_  
-__reality check__  
-__swerve__ _n_  
-__liability__ _n_ _He was a liability, an accident waiting to happen._  
-
 __contranym__  
 __refugium__ _n_  
 __logomachy__ _n_  
