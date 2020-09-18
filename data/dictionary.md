@@ -256,7 +256,7 @@ __aggravate__ _v_ (aggravated) :two::hammer:
 __aggravation__  
 __aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
-__aggro__ :two::hammer:  
+__aggro__ _n_ :three::hammer:  
 __aghast__ _adj_ :six::hammer:  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agog__ _adj_  
@@ -856,8 +856,7 @@ __banged-up pinkie__ :camera:
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
 __banister__ _n_ _Polished mahogany banisters._  
-__bank on something__ _Ted was banking on that._  
-__bank on__ _phr v_ To rely on somebody or something.  
+__bank on__ _phr v_ :three: To have confidence in; to rely on somebody or something. _Ted was banking on that._  
 __bank__ _Fillon can beat Le Pen, but don't bank on it._  
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
@@ -955,6 +954,7 @@ __be hard hit (by something)__ _idiom_ To be adversely affected (by something) t
 __be here to stay__ _idiom_ To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
+__be in over (one's) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I'm in over my head with Amy. She wants marriage, kids, and a house, and I'm just not ready for any of that._  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
@@ -1583,7 +1583,7 @@ __bring a knife to a gunfigh__ _idiom_ To come poorly prepared or equipped for s
 __bring about__ _phr v_ To make something happen.  
 __bring home the bacon__ _idiom_ To earn money to live on.  
 __bring it on__ _idiom_ To begin a fight or competition.  
-__bring off__ _phr v_ To succeed in doing something difficult.  
+__bring off__ _phr v_ :two: To succeed in doing something difficult; to accomplish: _bring off a successful advertising campaign._  
 __bring the house down__ _idiom_ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __briny__ _adj_  
 __brise-soleil__ _Brise-soleil shading._  
@@ -2007,6 +2007,7 @@ __carefree__
 __carefully__ _It pays to consider his words carefully._  
 __caresses__ _v_  
 __caretaker__ :two::hammer: _A caretaker government._  
+__cargo pants__  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
 __Carioca__  
@@ -2294,6 +2295,7 @@ __chip__ _v_ :three::hammer: (chipped, chipping)
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
 __chip<sup>2</sup>__ _v_ :three::hammer: (chipped) _We had to chip and be patient._ _This cup is chipped._  
+__chipped__ _adj_ Damaged by having a small piece broken off.  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
 __chipper__ _adj_ :three: Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._  
 __chippies__ :two::hammer:  
@@ -3069,6 +3071,7 @@ __crow__ _v_ :two::hammer: (crowed, crowing) _"There is nothin' like OPEC clout,
 __crowbar__ _n_ :three::hammer: (crowbars)  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crucible__ _n_ :seven::hammer:  
+__crucifix__ _n_  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
@@ -3345,7 +3348,7 @@ __decongestant__ _n_ :two::pencil2: A drug that helps you breathe more easily wh
 __deconstruct__ _v_  
 __decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle's most decorated chefs._  
 __decreed__ _v_  
-__decrepit__  
+__decrepit__ _adj_ :two::hammer:  
 __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __dedication__  
@@ -4114,7 +4117,7 @@ __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.
 __effluent__  
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
-__effrontery__ _n_ :two::hammer:  
+__effrontery__ _n_ :three::hammer:  
 __effusive__  
 __egalitarian__ _adj_  
 __egg head__ A very studious and academic person.  
@@ -7260,7 +7263,7 @@ __kindred spirit__ _idiom_ :nine::m: (kindred spirits) An individual with the sa
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :two::hammer:  
 __kine__ _n_  
-__king of the hill__  
+__king of the hill__ _idiom_ :two: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
 __kingfisher__ _n_  
 __kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
@@ -7365,7 +7368,7 @@ __lacerate__ _v_
 __lachrymose__ _adj_  
 __lackadaisical__  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
-__lackluster__ _adj_ :nine: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
+__lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __laconic__ _adj_  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
@@ -7420,6 +7423,7 @@ __lap<sup>2</sup>__ _v_ _Despite being lapped._
 __laparotomy__ _n_ Surgical incision into the abdominal wall, especially into the flank.  
 __laped pin__  
 __lapel__ _n_  
+__lapidify__ _v_  
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
 __larceny__ _n_ :seven: Theft of personal property. :es: hurto  
@@ -7893,6 +7897,7 @@ __major-domo__ _n_ (majordomo)
 __majoring__  
 __make (one's) bones__ _idiom_  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
+__make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one's own or someone else's amusement, or as a show of disgust.  
 __make it easy on yourself__ _Make it easy on yourself, 'cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_ :two::hammer:  
@@ -9926,7 +9931,7 @@ __precision__ _Precision medicine._
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
-__predicament__ _n_ :seven::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter's predicament._  
+__predicament__ _n_ :eight::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter's predicament._  
 __preeminent__ :two::hammer:  
 __preempt__ _v_  
 __preemptive__  
@@ -9952,7 +9957,7 @@ __preposterously__ :two::hammer:
 __preppers__  
 __prepping__ _v_  
 __prequel__  
-__prerogative__ _n_ :four::hammer:  
+__prerogative__ _n_ :five::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
 __prescient__ _adj_ :five::hammer:  
@@ -10976,7 +10981,8 @@ __rubble__ _n_ :two::hammer:
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
-__rudder__ (airplane)  
+__ructions__ _n_  
+__rudder__ _n_ :two::hammer: (airplane) _Dan is like a ship without a rudder._  
 __rudderless__  
 __ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
@@ -11953,7 +11959,7 @@ __sluice__ _v_ :six::hammer: (sluiced, sluicing)
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
-__slumber<sup>1</sup>__ _n_  
+__slumber<sup>1</sup>__ _n_ :two::hammer:  
 __slumber<sup>2</sup>__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
 __slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
 __slumming__ _v_ :two::hammer:  
@@ -14225,7 +14231,7 @@ __vindicate__ _v_ :eight::hammer: (vindicated)
 __vindication__ _n_ :seven::hammer:  
 __vintner__ _n_  
 __vinyasa__ _n_  
-__viper__ _n_ :two::hammer: (vipers)  
+__viper__ _n_ :three::hammer: (vipers)  
 __viridity__ Youth; innocence; inexperience.  
 __virtually__ _adv_ :astonished: Practically, almost.  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
@@ -14410,6 +14416,7 @@ __weather__ _v_ :two::hammer: (weathering)
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
 __webbing__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
+__wedding anniversary__ (not “marriage anniversary”)  
 __wedding band__  
 __wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._  
 __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar  
