@@ -37,5 +37,6 @@
 - __Sue__ Acommon short form of the following female given names: Susan, Susanna/Susannah/Suzanna, Susanne, Suzanne. It is rarely used as a man's name, a notable example being Sue K. Hicks (1895-1980), American jurist, who may have inspired the song "A Boy Named Sue".
 - __Tim__ A masculine given name; it can also be used as a short form of Timothy.
 - __Tom__ Mostly used as a diminutive of Thomas.
+- __Zev__ Ze'ev (Hebrew: זְאֵב / זאב‎ zeév; alternative spelling: Zeev, Zev, Zeeb, Zeb, Seff) is a name of Hebrew origin which means wolf. The given name is a masculine form relatively common among Ashkenazi Jews. It is a Biblical name, adapted from a reference to Benjamin in Genesis as a “wolf that raveneth.”
 - __Zig__
 - __Zoe__ A female first name of Greek origin, meaning "Life."
