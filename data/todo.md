@@ -1,5 +1,16 @@
 
 
+__smitten__  
+__wryly__ :pencil2:  
+__glean__ _v_  
+__blandishments__ _n_  
+__disapprove__ _v_  
+__interlopers__  
+__wage__ _v_  
+__cowed__ _v_ _His enemies are cowed for the present._  
+__mettle__ _n_  
+__billeted__ _v_   
+
 __preternatural__ _n_  
 __debauchery__  
 __depravity__  
