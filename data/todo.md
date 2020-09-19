@@ -1,5 +1,16 @@
 
 
+__aw__  
+__evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
+__hands down__  
+__digression__ _n_  
+__remunerate__ _n_  
+__remuneration__ _n_  
+__chyron__ _n_ :dart: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer's attention.  
+__tall tale__  
+__survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
+__third rail__ _n_  
+
 __contranym__  
 __refugium__ _n_  
 __logomachy__ _n_  
