@@ -1,5 +1,16 @@
 
 
+__preternatural__ _n_  
+__debauchery__  
+__depravity__  
+__gormless__  
+__iniquity__  
+__obstreperous__  
+__remonstrate__  
+__rhapsodize__  
+__crank up__  
+__attain__ _v_  
+
 __aw__  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __hands down__  
