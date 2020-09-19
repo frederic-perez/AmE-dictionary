@@ -952,6 +952,7 @@ __be full of yourself__ _idiom_ To think that you are very important in a way th
 __be glad to see the back of__ _idiom_ Be happy when a person leaves.  
 __be hard hit (by something)__ _idiom_ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __be here to stay__ _idiom_ To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
+__be honor-bound to do (something)__ _idiom_ To be or feel obliged to do something because it is morally correct or required by one's sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be in over (one's) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I'm in over my head with Amy. She wants marriage, kids, and a house, and I'm just not ready for any of that._  
@@ -1613,7 +1614,7 @@ __broken English__ _n_
 __broken record__ _n_ _idiom_ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., "broken") can loop over the same recorded segment endlessly.  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker<sup>1</sup>__ _n_  
-__broker<sup>2</sup>__ _v_ :six::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._  
+__broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
 __bromance__ :two::hammer:  
 __bronc__ _Bull and bronc riding._  
 __bronco__ _n_ :camera:  
@@ -1917,7 +1918,7 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam whistles, played from a keyboard.  
-__callous<sup>1</sup>__ _adj_ :eight::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
+__callous<sup>1</sup>__ _adj_ :nine::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
 __callow__ _adj_ :four::hammer:  
@@ -2899,7 +2900,7 @@ __counselor__ _n_
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count your blessings__ _idiom_ :four: (count (one's) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
-__countenance<sup>1</sup>__ _n_ :three::hammer: _His countenance was pale and sunken._  
+__countenance<sup>1</sup>__ _n_ :four::hammer: _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
 __counter__ _n_ :two::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ :es: encimera  
 __counter-depth fridge__ :camera:  
@@ -3990,6 +3991,7 @@ __duckboards__ :two::hammer:
 __duckling__ _n_ (ducklings) A young duck.  
 __duckweed__  
 __duct__ _They damaged a very large AT&T phone duct._  
+__ductile__  
 __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
 __dude__ _n_ Man, guy, friend.  
@@ -4296,6 +4298,7 @@ __entrenchment__
 __entryway__ _An entryway aquarium._  
 __entwined__  
 __enunciation__  
+__envelop__ _v_  
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
 __enviable__  
 __environs__ _n pl_  
@@ -4770,6 +4773,7 @@ __firebug__ _n_
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
+__firmament__ _n_ The vault or expanse of the heavens; the sky.  
 __first and foremost__ :two::hammer:  
 __first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
 __first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
@@ -4783,7 +4787,7 @@ __fissure vent__ _n_ :three::hammer:
 __fist-pumper__  
 __fists bumping__  
 __fit like a glove__ _idiom_ To fit perfectly.  
-__fit the bill__ :two::hammer: _His appearance fitted the bill._  
+__fit the bill__ :three::hammer: _His appearance fitted the bill._  
 __fit__ :two::hammer:  
 __fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, as of activity; irregular. _"My sleep, when it came, was fitful" (Kelly Braffet)._  
 __fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
@@ -5251,7 +5255,7 @@ __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, wo
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __futile__ _adj_  
-__futility__ _n_ :five::hammer:  
+__futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
 __gab away__ _v_ _The gang was gabbing away._  
@@ -5805,7 +5809,7 @@ __groupies__ _n_
 __grouse__ _v_ :four::hammer: (groused) _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
-__grovel__ _v_ :three::hammer: (groveling)  
+__grovel__ _v_ :four::hammer: (groveling)  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
 __growl<sup>2</sup>__ _v_ :five::hammer: (growled, growling)  
@@ -6460,6 +6464,7 @@ __honcho__ _n_ :four::hammer: (honchos)
 __honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one's statement, "Pete" here is a substitution of the word "God," so as to avoid potential blasphemy.  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
 __honey-do list__ _idiom_ A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
+__honey-mouthed__ _idiom_ Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
 __honeysuckle__  
@@ -6512,6 +6517,7 @@ __horticulturist__ _n_ :mega:
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
+__hot desking__ _idiom_ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
 __hot glue__  
 __hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot seat__  
@@ -6841,6 +6847,7 @@ __indigenous__ _Indigenous people._
 __indiscreet__  
 __indispensable__  
 __indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
+__indite__ _v_  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
 __indomitable__ _adj_ :four: Very determined and impossible to defeat. _Indomitable will._ _An indomitable force._  
@@ -8874,6 +8881,7 @@ __on a high horse__ _idiom_ To act as if you are better than other people.
 __on a roll__ :two::hammer: _I'm on a roll._  
 __on a second thought__  
 __on a tear__ _The U.K. labor market is on a tear._  
+__on a whim__  
 __on all fours__ _adj_ _idiom_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
 __on cloud nine__  
 __on deck__  
@@ -9395,7 +9403,7 @@ __penned up__
 __penny-pinch__ _Penny-pinching conservatives._  
 __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens with rabbits._  
 __pensionary__ :es: jubilado  
-__pensive__ _v_ :two::hammer:  
+__pensive__ _adj_ :three::hammer: _You look pensive._  
 __pensively__  
 __pent-up__ _adj_ :two::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __penurious__ _adj_ _Syn_ stingy, parsimonious  
@@ -9452,7 +9460,7 @@ __pert__ _adj_
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
 __perusal__ _n_  
-__peruse__ _v_ :two::hammer:  
+__peruse__ _v_ :three::hammer: (perused)  
 __Peruvian__  
 __pervasive__ _adj_ :three::hammer:  
 __pesky__  
@@ -10776,6 +10784,7 @@ __RGA__ _RGA chairman._
 __rhabdomancy__  
 __rhapsodize__  
 __rhapsody__ :mute:[r~~h~~apsody]  
+__rhathymia__ _n_ The state of being carefree. _Syn_ light-heartedness  
 __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
@@ -13821,7 +13830,7 @@ __tussle<sup>2</sup>__ _v_ :five: (tussled, tussling) To struggle roughly; scuff
 __tussling__ _v_  
 __tut__ _v_ (tutted)  
 __tut-tutting__  
-__tutelage__  
+__tutelage__ _n_ :two::hammer:  
 __tutor__ _n_  
 __tutu__  
 __tux__ _n informal_ A tuxedo.  
@@ -14357,7 +14366,7 @@ __warmer__ _n_ _Fragance warmer._
 __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
 __warmongering__ _n_  
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a certain amount of time).  
-__warrant<sup>2</sup>__ _v_ :three: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew.  
+__warrant<sup>2</sup>__ _v_ :four: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew. _The situation warranted it._  
 __warren__ _n_ _A warren of hares._  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  

@@ -1,27 +1,5 @@
 
 
-__ductile__  
-__rhathymia__  
-__honey-mouthed__ _idiom_ Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
-__tutelage__ _n_  
-__paltry__ _adj_  
-__be honor-bound to do (something)__ _idiom_ To be or feel obliged to do something because it is morally correct or required by one's sense of duty or integrity, even if one does not desire to do so.  
-__indite__ _v_  
-__callous__ _adj_  
-__firmament__ _n_ The vault or expanse of the heavens; the sky.  
-__hot desking__ _idiom_ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
-
-__grovel__ _v_  
-__envelop__ _v_  
-__futility__  
-__warrant__ _v_ _The situation warranted it._  
-__fit the bill__  
-__peruse__ _v_ (perused) _Syn_ ...  
-__pensive__ _You look pensive._  
-__countenance__  
-__on a whim__  
-__broker__ _v_ (brokered) _They brokered deals for new business ventures._  
-
 __contranym__  
 __refugium__ _n_  
 __logomachy__ _n_  
