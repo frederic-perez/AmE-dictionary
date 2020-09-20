@@ -674,7 +674,7 @@ __atrophied__ _v_
 __attaboy__ _idiom_ :three: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression "that's the boy." _You won the spelling bee? Attaboy!_  
 __attaché case__  
 __attack dog__ _n_  
-__attain__ _v_ :four::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
+__attain__ _v_ :five::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
 __attainment__ _n_  
 __attend to__ _phr v_ To deal with something or someone.  
@@ -1179,6 +1179,7 @@ __bilk__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._
 __bilking__ _Durham was guilty of bilking._  
 __bill__ _v_  
 __bill-file__  
+__billeted__ _v_  
 __billfold__ _n_  
 __billing__ _Now, the women's contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :two: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
@@ -1232,6 +1233,7 @@ __blah story__
 __blanched__ _v_  
 __bland__ _adj_ :seven: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
+__blandishments__ _n_  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
@@ -2932,7 +2934,7 @@ __coveted__ _v_ :two::hammer:
 __covetous__  
 __covey__  
 __COVID__ _abbr_ Short for coronavirus disease.  
-__cow__ _v_ _Law makers cowed by powerful unions._  
+__cow__ _v_ :two::hammer: (cowed) _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
 __cowboy__ _v_ :two::hammer:  
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
 __cowering__ _v_ :two::hammer:  
@@ -2969,6 +2971,7 @@ __cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc
 __cramp__ _n_ :three::hammer: (cramps)  
 __cramped__ _v_ :two::hammer:  
 __crank out__  
+__crank up__  
 __crank<sup>1</sup>__ _n_ :three::hammer: _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
@@ -3316,7 +3319,7 @@ __deathless__
 __debacle__ _n_ :four::hammer:  
 __debasing__ _v_  
 __debatable__  
-__debauchery__  
+__debauchery__ :two::hammer:  
 __debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
@@ -3458,6 +3461,7 @@ __depolarize__ _v_
 __deposit__ _n_  
 __deposition__ _n_ :three::hammer:  
 __depraved__ _adj_  
+__depravity__  
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
 __deprived__ _A very deprived area._  
@@ -3604,6 +3608,7 @@ __dis<sup>2</sup>__ _v_ :two::hammer:
 __disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
 __disaffected__ _adj_ :two::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
+__disapprove__ _v_  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disastrous__  
 __disavow__ _v_ :two::hammer: (disavowed)  
@@ -5494,7 +5499,7 @@ __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible b
 __glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _(Cinderella)_  
 __glazing__ :two::hammer: _A full range of door furniture and glazing._  
-__glean__ _v_ :three::hammer: (gleaned, gleaning)  
+__glean__ _v_ :four::hammer: (gleaned, gleaning)  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
 __glimmer__ _A glimmer of hope._  
@@ -5658,6 +5663,7 @@ __GOP__
 __Gordian knot__ :two::hammer:  
 __gorge__ _v_ :two::hammer: (gorging)  
 __gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
+__gormless__  
 __gorp__ _n_ A mixture of nuts, raisins, dried fruits, seeds, or the like eaten as a high-energy snack, as by hikers and climbers.  
 __gorse__  
 __gory__  
@@ -6895,6 +6901,7 @@ __inhalant<sup>1</sup>__ _adj_
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
 __inimical__  
+__iniquity__  
 __initiative__  
 __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
@@ -6947,7 +6954,7 @@ __intently__ :two::hammer: _He watched him intently._
 __interdicting__  
 __interim__  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
-__interlopers__ _n_ :two::hammer:  
+__interlopers__ _n_ :three::hammer:  
 __interment__ _n_ :three::hammer:  
 __intermission__ _n_ :four::hammer::dart:  
 __intermit__ _v_ Cease an action temporarily. _Syn_ pause, break  
@@ -8152,7 +8159,7 @@ __metheglin__ _n_ :two::hammer:
 __meticulous__ _adj_  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
-__mettle__ _n_ :seven::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
+__mettle__ _n_ :eight::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
 __MIA__ Missing in Action.  
 __miasma__ _n_  
@@ -8793,6 +8800,7 @@ __obscure__ _v_
 __obsequious__ _adj_ :two::hammer:  
 __obsidian__  
 __obstinate__  
+__obstreperous__  
 __obstreperousness__  
 __obtrude__ _v_  
 __obtuseness__  
@@ -9984,6 +9992,7 @@ __press the pocket__
 __pressed khakis__ _A young man with neatly pressed khakis._  
 __pressure cooker__ _n_  
 __pretense__  
+__preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __prevail__ _v_ :two::hammer: (prevails)  
@@ -10671,6 +10680,7 @@ __reminiscent__
 __remit__  
 __remittances__ :two::hammer:  
 __remnants__  
+__remonstrate__  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
@@ -10782,7 +10792,7 @@ __revue__ _n_ :two::mega: A light theatrical entertainment consisting of a serie
 __rezoning__  
 __RGA__ _RGA chairman._  
 __rhabdomancy__  
-__rhapsodize__  
+__rhapsodize__ _v_ :two::hammer:  
 __rhapsody__ :mute:[r~~h~~apsody]  
 __rhathymia__ _n_ The state of being carefree. _Syn_ light-heartedness  
 __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
@@ -12017,7 +12027,7 @@ __smirking__
 __smite__ _v_ :two::hammer: _God will smite me._  
 __smithereens__ _n informal_ :three: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
-__smitten<sup>2</sup>__ _v_ _He was smitten by his ignorance._  
+__smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
 __smock<sup>2</sup>__ _v_  
 __smog__ _n_ :three::hammer:  
@@ -14302,8 +14312,8 @@ __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour.
 __wafted__ _v_  
 __wafting__ _v_  
 __wag__ _v_ :four::hammer: _The puppy was wagging its tail._  
-__wage__ _n_ :two::hammer:  
-__waged__ _v_  
+__wage<sup>1</sup>__ _n_ :two::hammer:  
+__wage<sup>2</sup>__ _v_ :two::hammer: (waged)  
 __wager__ _n_  
 __wagered__ _v_ :astonished: _I'd have wagered so._  
 __waging__ _v_  
@@ -14804,7 +14814,7 @@ __wrought-iron__
 __wrought<sup>1</sup>__ _v_ :three: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
-__wryly__ :two::hammer:  
+__wryly__ _adv_ :three::pencil2::hammer:  
 __wunderkind__  
 __wussification__  
 __X-factor__ _Terry could become Ryukyu's X-factor._  

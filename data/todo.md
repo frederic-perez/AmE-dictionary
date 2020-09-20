@@ -1,27 +1,5 @@
 
 
-__smitten__  
-__wryly__ :pencil2:  
-__glean__ _v_  
-__blandishments__ _n_  
-__disapprove__ _v_  
-__interlopers__  
-__wage__ _v_  
-__cowed__ _v_ _His enemies are cowed for the present._  
-__mettle__ _n_  
-__billeted__ _v_   
-
-__preternatural__ _n_  
-__debauchery__  
-__depravity__  
-__gormless__  
-__iniquity__  
-__obstreperous__  
-__remonstrate__  
-__rhapsodize__  
-__crank up__  
-__attain__ _v_  
-
 __aw__  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __hands down__  
