@@ -1,5 +1,16 @@
 
 
+__assistance animal__ _n_  
+__service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
+__horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
+__habiliment__ _n_ A covering designed to be worn on a person's body. _Synonyms_ clothing, wearable, vesture, wear  
+__let me tell you__ _idiom_ Used to emphasize a statement.  
+__mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
+__Sisyphean__ _adj_ Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
+__choir__ _n_ :mega:  
+__quire__ _n_  
+__ream__ _n_  
+
 __aw__  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __hands down__  
