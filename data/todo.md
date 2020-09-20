@@ -1,5 +1,16 @@
 
 
+__pop eyes__ _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._  
+__incidentally__  
+__whirled__ _v_  
+__cockeyed__ _Cockeyed predictions._
+__priesthood__ _n_  
+__prosecute__ _v_ _People liked news of another war successfully prosecuted._  
+__ponces__ _n_  
+__growled__ _v_  
+__parsimony__ _n_  
+__grudging__ _That behavior had won the soldier's respect, and grudging affection._  
+
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
