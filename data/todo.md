@@ -1,28 +1,5 @@
 
 
-__sweeting__ _n_ A sweet apple.  
-__locavore__ _n_  One who mainly eats locally produced food, especially within a specified radius of one's home.  
-__cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
-__claddagh__ _n_  
-__scry__ _v_ To see or predict the future by means of a crystal ball.  
-__nepenthe__ _n_  
-__I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
-__ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
-__ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
-__in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs "see" or "show," or some similar variation.)  
-
-
-__pop eyes__ _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._  
-__incidentally__  
-__whirled__ _v_  
-__cockeyed__ _Cockeyed predictions._
-__priesthood__ _n_  
-__prosecute__ _v_ _People liked news of another war successfully prosecuted._  
-__ponces__ _n_  
-__growled__ _v_  
-__parsimony__ _n_  
-__grudging__ _That behavior had won the soldier's respect, and grudging affection._  
-
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  

@@ -2384,6 +2384,7 @@ __City__ :two::hammer:
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
 __clad__ _A scantily clad spider._  
+__claddagh__ _n_  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _The White Sox claimed the 2005 title._  
 __claimants__ :two::hammer:  
@@ -2531,6 +2532,7 @@ __cobble__ _v_ :two::hammer: (cobbled)
 __cobbler__ _n_  
 __cobweb__ _n_ :five::hammer: (cobwebs)  
 __cockerel__  
+__cockeyed__ _Cockeyed predictions._  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
@@ -3200,6 +3202,7 @@ __CVD__ Cardiovascular disease.
 __CVS__ _abbr_ Computer Vision Syndrome.  
 __cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_ :two::hammer: (cyclones)  
+__cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
 __cynical__ _adj_ :two::pencil2::hammer:  
 __cypress__ _n_ :astonished:  
 __cyst__ _n_ :mega: _Ganglion cysts._  
@@ -4097,6 +4100,7 @@ __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
 __ebullient__ _adj_ :three: Very happy and enthusiastic.  
+__ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__  
 __echo__ :mute:[ec~~h~~o]  
@@ -5818,13 +5822,14 @@ __grove__ _n_ :two::hammer:
 __grovel__ _v_ :four::hammer: (groveling)  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
-__growl<sup>2</sup>__ _v_ :five::hammer: (growled, growling)  
+__growl<sup>2</sup>__ _v_ :six::hammer: (growled, growling)  
 __grown-up<sup>1</sup>__ _adj_  
 __grown-up<sup>2</sup>__ _n_  
 __grub__ _n_ _slang_ :three: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
 __grudge<sup>2</sup>__ _n_ :eight: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don't hold any grudges._ _Holding a grudge._ :es: rencor  
+__grudging__ _adj_ _That behavior had won the soldier's respect, and grudging affection._  
 __grudgingly__ _adv_ :four::hammer:  
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :three: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._  
@@ -6653,6 +6658,7 @@ __hypothermia__ _n_ :two: Abnormally low body temperature.
 __hysteric__  
 __hysterical__  
 __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
+__I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
 __I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
@@ -6752,6 +6758,7 @@ __improvidence__
 __improvident__ _adj_  
 __impunity__  
 __in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
+__in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs "see" or "show," or some similar variation.)  
 __in a jam__ _idiom_ In a troublesome situation.  
 __in a nutshell__  
 __in abeyance__  
@@ -6822,7 +6829,7 @@ __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the fiel
 __inchoate__  
 __inchworm__ _n_  
 __incident__ _A stroke incident to pancreatic cancer._  
-__incidentally__ _adv_ :four::hammer:  
+__incidentally__ _adv_ :five::hammer:  
 __inclined__ _adj_  
 __incognito__ :two::hammer:  
 __incongruities__ _n_  
@@ -7721,6 +7728,7 @@ __loathe__ _v_ To dislike someone or something very much.
 __lob__ _v_ :two::hammer:  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
+__locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one's home.  
 __loch__ _n_  
 __lockdown__ _n_ :three::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locker-room__ _n_ (locker room)  
@@ -8596,6 +8604,7 @@ __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._
 __neophyte__  
 __neorealist__  
 __neoteric__  
+__nepenthe__ _n_ Something that induces forgetfulness of sorrow or eases pain.  
 __nepotism__ _n_ :five: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerve agent__  
@@ -9271,7 +9280,7 @@ __parroting__ _v_
 __parry__ _v_  
 __parse__ _v_  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. _Syn_ stingy, penurious __2__ Sparing, restrained.  
-__parsimony__ _n_  
+__parsimony__ _n_ :two::hammer:  
 __parsley__  
 __parsnip__  
 __parsonage__ _n_ :two::pencil2::hammer:  
@@ -9822,6 +9831,7 @@ __polystyrene__
 __pomegranate__ _n_ :two::hammer: (pomegranates)  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __pompous__ _adj_ :two::hammer:  
+__ponce__ _n_  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
 __ponderous__ _adj_ :four::hammer: _He shouldered his ponderous bundle._  
 __pong__ Drinking game?  
@@ -9838,6 +9848,7 @@ __pool cues__ :two::hammer:
 __poor man__  
 __poor-boy__ _Poor-boy sandwich._  
 __poorly__ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
+__pop eyes__ _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._  
 __pop the cherries__  
 __pop__ _v_ _Kids popping balloons._  
 __pop-up<sup>1</sup>__ _adj_ :two::hammer: _Hip brand Pynta is holding a pop-up in the East Gallery._  
@@ -10020,6 +10031,7 @@ __pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._
 __pride<sup>2</sup>__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
 __pries__ _He pries your buttocks apart._  
 __priestesses__ _n_  
+__priesthood__ _n_  
 __prima facie__  
 __primacy__ _n_  
 __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._  
@@ -10104,6 +10116,7 @@ __propped__ _v_ :two::hammer:
 __propriety__  
 __props__ _pl n_ _slang_ :three::dart: Due respect; proper recognition. Often used in expressions of gratitude: _Props to my friends for helping me out. I'd like to give props to my manager._ _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year's Tour de France._  
 __prosaic__  
+__prosecute__ _v_ _People liked news of another war successfully prosecuted._  
 __proselytism__ :astonished:  
 __proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prospect__ _n_ (sports)  
@@ -11317,6 +11330,7 @@ __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
 __scrupulously__  
 __scrutiny__ :two::hammer:  
+__scry__ _v_ To see or predict the future by means of a crystal ball.  
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
 __scuffed boots__  
@@ -12947,6 +12961,7 @@ __sweet spot__ _We got very lucky and found a site right in the sweet spot._
 __sweet water__ :two::hammer:  
 __sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
+__sweeting__ _n_ A sweet apple.  
 __swell<sup>1</sup>__ _n_ :three::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
 __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
@@ -13887,6 +13902,7 @@ __tyranny__
 __tyrant__ _n_ :three::hammer:  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
+__ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
 __ugh__ :two::hammer:  
 __uh__  
 __uh-oh__ _My "uh-oh" bell rings._  
@@ -14545,7 +14561,7 @@ __whipping by__ _The summer is whipping by._
 __whipsaw__ _v_  
 __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
 __whirl__ :mute:[w~~h~~irl]  
-__whirled__ _v_  
+__whirled__ _v_ :two::hammer:  
 __whirlpool__ _n_  
 __whirlwind__ _A whirlwind tour of American universities._  
 __whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
