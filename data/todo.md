@@ -1,5 +1,16 @@
 
 
+__retinue__ _n_  
+__fretting__ _v_  
+__trellis__ _n_ (trellises) _A series of couches shaded by trellises._  
+__lodge__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
+__rueful__  
+__pitched__ :two::hammer_ _A pitched battle._  
+__tap__ _v_ (tapped) _Then he raised his cup and tapped Cato's._  
+__drain__ _v_ :two::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
+__slumber__ _n_  
+__trireme__ _n_  
+
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
