@@ -1,5 +1,16 @@
 
 
+__beach__ _v_  
+__steadfast__  
+__off kilter__  
+__pent-up__  
+__poodle up__ (?)  
+__top hat__ _n_  
+__torrid__ _adj_ _A torrid affair._  
+__end game__ _n_  
+__groupie__ _n_ (groupies)  
+__henchmen__ _n_  
+
 __retinue__ _n_  
 __fretting__ _v_  
 __trellis__ _n_ (trellises) _A series of couches shaded by trellises._  
