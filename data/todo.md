@@ -1,5 +1,16 @@
 
 
+__oar__ _n_ (oars)  
+__Praetorian__  
+__levies__ _Infantry levies._  
+__sop__ _A sop of confort._ (comfort?)  
+__bequeath__ _v_  
+__foreboding__ _n_  
+__hurling__ _v_  
+__hamper__ _n_  
+__inordinately__ _He was inordinately proud of the Roman legions._  
+__scoured__ _v_ _The enemy scoured our lands._  
+
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
