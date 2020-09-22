@@ -1,5 +1,16 @@
 
 
+__operose__ _adj_ __1__ Done with or involving much labor; tedious. __2__ Industrious; diligent.  
+__beseech__ _v_ Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
+__get down to work__ _idiom_ To begin being serious about something; to begin attending to business or work at hand.  
+__blatherskite__ _n_  
+__spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target. _  
+__quondam__ adj_ Of an earlier time; former: _her quondam lover._  
+__festinate__ _v_ To hurry, hasten.  
+__probity__ _n_ Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
+__juncture__ _n_ A point in time, esp a critical one (often in the phrase at this juncture).  
+__chivvy__ _v_ Annoy continually or chronically. _Syn_beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
+
 __oar__ _n_ (oars)  
 __Praetorian__  
 __levies__ _Infantry levies._  
