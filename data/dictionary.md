@@ -963,6 +963,7 @@ __be no picnic__ _Looking after four children is no picnic._
 __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
+__beach__ _v_  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
@@ -3894,7 +3895,7 @@ __drag<sup>2</sup>__ _n_
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
-__drain<sup>1</sup>__ _v_ :four::hammer:  
+__drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
 __dramedy__  
@@ -4247,6 +4248,7 @@ __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessio
 __encroachment__ _n_ :five::hammer:  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
+__end game__ _n_  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
 __end run__ :two::hammer:  
@@ -5815,7 +5817,7 @@ __groundstroke__ _n_
 __groundswell__ _n_ :five::hammer:  
 __groundwater__  
 __groundwork__ _n_ :two::hammer: _Joy laid the groundwork with a series of cozy phone calls._  
-__groupies__ _n_  
+__groupie__ _n_ :two::hammer: (groupies)  
 __grouse__ _v_ :four::hammer: (groused) _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
@@ -6280,7 +6282,7 @@ __hemlock__
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
-__henchman__ _n_ :eight::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :nine::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
@@ -7740,6 +7742,7 @@ __locksmith__
 __lockstep__ :two::hammer:  
 __locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
+__lodge__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
 __lodges__ _Fishing lodges._  
 __lodging__  
 __lodgings__  
@@ -8835,6 +8838,7 @@ __of one's own accord__ Voluntarily.
 __of sorts__ _phr_ :three: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
+__off kilter__  
 __off__ :two::hammer: _He knew that from the off._  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
@@ -9422,7 +9426,7 @@ __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens wit
 __pensionary__ :es: jubilado  
 __pensive__ _adj_ :three::hammer: _You look pensive._  
 __pensively__  
-__pent-up__ _adj_ :two::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
+__pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __penurious__ _adj_ _Syn_ stingy, parsimonious  
 __peoples__ _pl n_ :two: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _Giving Chris Gethard a pep talk._  
@@ -9650,6 +9654,7 @@ __pitch-perfect__
 __pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
 __pitch<sup>1</sup>__ _n_ :eight::hammer: (soccer) _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
+__pitched__ :two::hammer: _A pitched battle._  
 __pitchfork__  
 __pitfalls__ _n_ :two::hammer:  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
@@ -10766,7 +10771,7 @@ __retelling__
 __retention__  
 __rethoric__  
 __reticular__  
-__retinue__ _n_ :three::hammer: (retinues)  
+__retinue__ _n_ :four::hammer: (retinues)  
 __retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :two::hammer:  
@@ -11021,7 +11026,7 @@ __rude__
 __rudiment__ _n_  
 __rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
-__rueful__ _adj_ :three::dart::hammer: _He gave a rueful smile._  
+__rueful__ _adj_ :four::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :six::hammer: _Dan shook his head ruefully._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
@@ -11992,7 +11997,7 @@ __sluice__ _v_ :six::hammer: (sluiced, sluicing)
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
-__slumber<sup>1</sup>__ _n_ :two::hammer:  
+__slumber<sup>1</sup>__ _n_ :three::hammer:  
 __slumber<sup>2</sup>__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
 __slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
 __slumming__ _v_ :two::hammer:  
@@ -12551,7 +12556,7 @@ __stay__ _Granted a stay of execution._
 __stay-at-home__ _adj_ _Stay-at-home dad._  
 __staying power__  
 __stead__  
-__steadfast__ _adj_ :dart::eight: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
+__steadfast__ _adj_ :dart::nine: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
 __steadily__  
 __steadiness__  
@@ -13115,7 +13120,7 @@ __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indicat
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap dancing__ _idiom_  
 __tap into__ _idiom_ :seven: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
-__tap__ _v_ :six: (tapped: __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
+__tap__ _v_ :seven: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato's._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
@@ -13583,6 +13588,7 @@ __top bill__ _I'm not my usual top billing._
 __top billing__ _n_ The advertisement of a star's name at the top of a theatrical poster.  
 __top dollars__  
 __top flight__ First division?  
+__top hat__ _n_  
 __top the bill__ _I'll top the bill, I'll overkill._  
 __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
 __top-dog__  
@@ -13599,7 +13605,7 @@ __tormentor__ _n_
 __torn__ _v_  
 __torpedo__ _v_  
 __torpor__ _n_ :four: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
-__torrid__  
+__torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _A torre was named after her._  
 __torturous__ _adj_ Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._  
 __toss and turn__ _idiom_ Sleep badly.  
@@ -13697,8 +13703,7 @@ __treat<sup>1</sup>__ _v_
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
 __treble<sup>2</sup>__ _v_ :three::dart: To make or become triple.  
-__trellis__ _n_ :five::hammer:  
-__trellises__ _From his trellises._  
+__trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
 __trellising__ _v_ :astonished: _You're re-trellising vines in the scorching sun._  
 __tremendous__ _adj_  
 __trench coat__ _n_  
@@ -13744,6 +13749,7 @@ __trip wire__ _You hit a trip wire._
 __triple__  
 __triplex__ _A triplex penthouse._  
 __triptych__  
+__trireme__ _n_  
 __triskelion__ _n_ (triskele)  
 __trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__ _n_ :two::hammer:  
