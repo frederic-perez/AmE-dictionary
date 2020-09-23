@@ -1,5 +1,16 @@
 
 
+__sluggish__ _adj_ Very slow.  
+__ecstatic__ _adj_ Very happy.  
+__exhilarating__ _adj_ Very exciting.  
+__swamped__ _adj_ Very busy.  
+__bustling__ _adj_ Very crowded.  
+__desolate__ _adj_ Very empty.  
+__arduous__ _adj_ Very difficult.  
+__sorrowful__ _adj_ Very sad.  
+__distraught__ _adj_ Very upset.  
+__et cetera__  
+
 __rind__ _n_ _The color of rind._  
 __onagers__ _n_  
 __withering__ _adj_  
