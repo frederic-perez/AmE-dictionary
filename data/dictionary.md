@@ -1100,7 +1100,7 @@ __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._  
 __bento__ Boxed meals.  
-__bequeath__ _v_ :eight::hammer; (bequeathed)  
+__bequeath__ _v_ :nine::hammer; (bequeathed)  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
@@ -1113,7 +1113,7 @@ __berm__ _n_
 __berserk__ _adj_ :eight: (usually used in the phrase "go berserk") __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I'd been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
-__beseech__ _v_ :three::hammer: _Syn_ entreat  
+__beseech__ _v_ :four: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
@@ -1243,6 +1243,7 @@ __blast__ _n_ _slang_ A great experience, a very enjoyable time.
 __blatant__ _adj_ :three::hammer:  
 __blatantly__  
 __blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
+__blatherskite__ _n_  
 __blaze of glory__ :two::hammer:  
 __bleach__ _n_  
 __bleached blonde hair__  
@@ -2312,7 +2313,7 @@ __chiseled__
 __chit-chat__ _slang_ An informal conversation about things that are not important.  
 __Chiuaua__  
 __chive__ _n_  
-__chivvied__  
+__chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlorophyll__ _n_ :two::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
@@ -4683,6 +4684,7 @@ __fervent__
 __fester__ _v_ :five::hammer: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festered__ _v_ :es: ulcerarse  
 __festering__ _n_ :two::hammer:  
+__festinate__ _v_ To hurry, hasten.  
 __festoon__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
@@ -5046,6 +5048,7 @@ __forcible__ _adj_ :three::hammer:
 __fore and aft__  
 __fore__ _n_ :four::hammer:  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
+__foreboding__ _n_  
 __forecast__ _v_ (forecast or forecasted, forecasting, forecasts)  
 __foreclose__ _v_  
 __foreclosure__ _n_ :two::hammer:  
@@ -5409,6 +5412,7 @@ __get along with__ _idiom_ To have a good relationship with someone.
 __get around to__ _Dreams and goals I might get around to at some time._  
 __get away with__  
 __get closure__ :two::hammer: _Get closure on compensation dispute with business partner._  
+__get down to work__ _idiom_ To begin being serious about something; to begin attending to business or work at hand.  
 __get enough__  
 __get in(to) (someone's) pants__ _idiom_ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get looks__ _v_ :two::hammer:  
@@ -5979,7 +5983,8 @@ __hamdbill__ _n_
 __hamlet__ _n_  
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
-__hamper__ _v_ :astonished::five::hammer: (hampered)  
+__hamper<sup>1</sup>__ _n_  
+__hamper<sup>2</sup>__ _v_ :astonished::five::hammer: (hampered)  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster's.  
 __hamstring__ _n_ :three::hammer:  
 __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
@@ -6925,7 +6930,7 @@ __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement w
 __innumerate__  
 __inobvious__  
 __inordinate__ _adj_ :five::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
-__inordinately__  
+__inordinately__ _adv_ :two: _He was inordinately proud of the Roman legions._  
 __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
 __inquisitive__ _adj_  
@@ -7183,7 +7188,7 @@ __jumpstar<sup>2</sup>__ _v_ :five: __1__ Start (a car engine whose battery
 __jumpsuit__ _n_ :two::hammer:  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _Conjunction junctions._  
-__juncture__ _n_ :five: A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically. A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up. It can also simply mean "point in time." She had never learned how to drive and, at this juncture, she knew she never would. _Prep football at critical juncture._ _The game is at a critical juncture._  
+__juncture__ _n_ :six: A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean "point in time." _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
 __Juneteenth__ _n_  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He's five years her junior._ _My partner is 15 years my junior and I'm probably going to die before he does._  
 __juniper berries__  
@@ -7603,7 +7608,7 @@ __leverage<sup>2</sup>__ _v_ :four::hammer:
 __leviathan__  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
-__levy<sup>2</sup>__ _n_ :three::hammer:  
+__levy<sup>2</sup>__ _n_ :four::hammer: (levies) _Infantry levies._  
 __lewd__ _adj_ :three::hammer:  
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
@@ -8789,7 +8794,7 @@ __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._
 __O-line__ (football)  
 __oaf__ _n_ :three: (oafs) A person regarded as stupid or clumsy. _Syn_ goon, lout  
 __oafish__ :two::hammer:  
-__oars__ _n_ :two::hammer:  
+__oar__ _n_ :three::hammer: (oars)  
 __oases__ _n_  
 __oat__ _n_  
 __oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
@@ -8968,7 +8973,7 @@ __open mike__ :two::hammer: _When are you going to do an open mike?_
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
-__operose__ _adj_ Characterized by effort to the point of exhaustion; especially physical effort.  
+__operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
 __oppo__ _Oppo researchers._  
@@ -9943,6 +9948,7 @@ __practical effect__ _n_ (usually practical effects) A special effect that is cr
 __practical joke__  
 __practice__ _n_ _A pediatrics practice._  
 __practitioner__ _GTD practitioner._  
+__Praetorian__  
 __pram suit__ _n_  
 __pram__ _n_ :three::hammer:  
 __prance__ _v_ :eight::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
@@ -10069,7 +10075,7 @@ __pro bono__ :three::hammer: _Pro bono consultant._ _Some pro bono work._
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __pro__ _The pro column, not the con column._  
 __probation__ _A person has ben sentenced to probation._  
-__probity__  
+__probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctor__ University officer (for student discipline)  
@@ -10364,6 +10370,7 @@ __quitter__ _Are you calling me a quitter?_
 __quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__  
 __quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
+__quondam__ _adj_ Of an earlier time; former: _her quondam lover._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quote, unquote__ :two::hammer:  
 __Quran__  
@@ -12208,7 +12215,7 @@ __Sonora cacti__ _n_ :camera:
 __sooner > sooner rather than later__  
 __soot__ _n_ :three::hammer:  
 __sooty__  
-__sop__ _A wine sop._  
+__sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
 __sophomore__ (from Greek?) :two::hammer:  
 __sopping__ _v_  
 __soppy__  
@@ -12254,6 +12261,7 @@ __spackle__ :two::hammer:
 __spade-bearded__  
 __spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
 __spandex__ _n_  
+__spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target. _  
 __spangle__ _v_ :six::hammer: (spangled, spangling)  
 __Spanish moss__ :two::hammer:  
 __Spanx__  
