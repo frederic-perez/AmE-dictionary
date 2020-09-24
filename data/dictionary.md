@@ -543,7 +543,7 @@ __archivist__
 __archrival__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ :two::hammer: _He was one of her most ardent suitors._  
-__arduous__  
+__arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _The pope is an Argentine._  
 __arguably__ :two::hammer:  
@@ -1791,7 +1791,7 @@ __bust__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing bus
 __bustiers__ _n_  
 __busting__ _v_ :two::hammer: _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
-__bustling__ _adj_ :eight::dart: Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._  
+__bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
 __butcher paper__  
@@ -1968,7 +1968,7 @@ __cantata__ _n_ :three: A musical composition for voices and orchestra based on 
 __canted__ _v_ :two::hammer:  
 __canteens__  
 __canter up__ _v_  
-__canter<sup>1</sup>__ _n_  
+__canter<sup>1</sup>__ _n_ :two::hammer: _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)  
 __cantilevered__  
 __canvass__ _v_ :two::hammer::astonished:  
@@ -3490,6 +3490,7 @@ __designated driver__ _n_ The member of a party who is designated to refrain fro
 __designer__ _n_ :es: _maquetador_  
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
+__desolate__ _adj_ __1__ Empty of people.  
 __despair__ _n_  
 __desperate times call for desperate measures__ _idiom_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
 __despicable__  
@@ -3708,7 +3709,7 @@ __distasteful__ _adj_
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__ :two::hammer:  
 __distinctly__ :two::hammer:  
-__distraught__  
+__distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
 __distress__ _n_  
 __distressed__  
 __disused__  
@@ -4108,6 +4109,7 @@ __echo chamber__
 __echo__ :mute:[ec~~h~~o]  
 __eclampsia__  
 __econ__ _The econ professor._  
+__ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
 __ecumenical__  
 __ED prescription__  
@@ -4369,9 +4371,11 @@ __essence__ _n_ :pencil2:
 __essential__ _Special K - 8 essential vitamins._  
 __essentials__ _n_  
 __established__ _Established 1978._  
+__esteemed__ _v_ _Our esteemed allies._  
 __estival__ _adj_ Of or relating to the summer.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate and live apart from (one's spouse): _he is estranged from his wife._  
 __esurient__ _adj_ :two::hammer:  
+__et cetera__  
 __ETA__ _I believe we have an ETA of six days._  
 __etch__ _v_ :three::hammer: (etched)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
@@ -4436,7 +4440,7 @@ __exhaust<sup>1</sup>__ _v_ :mute:[ex~~h~~aust] _Exhaust fans._
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
 __exhilarate__ :mute:[ex~~h~~ilarate]  
-__exhilarating__ :two::hammer: _It is an exhilarating thought._  
+__exhilarating__ _adj_ :three: causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exiguous__ _adj_ :two::hammer:  
 __exodus__  
@@ -4578,7 +4582,7 @@ __fantastic__ _adj_ :three::hammer::mega:
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __fanzine__ _n_ :mega:  
 __far and away__ :astonished:  
-__far cry (from something)__ _n_ _idiom_ :nine: A thing that is very different from something else. _It is a far cry from the 1970s._  
+__far cry (from something)__ _n_ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :five::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ _n_ :three::hammer:  
@@ -7091,6 +7095,7 @@ __jeopardize__ _v_
 __jeremiad__  
 __jerk around__  
 __jerk__ _n_ _slang_ :two: Mean or unlikeable person.  
+__jerkin__ _n_ (jerkins) A close-fitting jacket or short coat, usu. sleeveless, often of leather. _Leather jerkins._  
 __jerry__  
 __jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity of between 4.5 and 5 gallons used for storing or transporting liquids, esp motor fuel: originally a German design adopted by the British Army during World War II.  
 __jersey snagging__ _football_  
@@ -8939,6 +8944,7 @@ __On top of that,__
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._ _Others would get on line for loans._  
+__onagers__ _n_  
 __onboard__ :two::hammer:  
 __onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
 __once in a blue moom__ Very rarely.  
@@ -10445,7 +10451,7 @@ __rampage<sup>1</sup>__ _v_ :three::hammer:
 __rampage<sup>2</sup>__ _n_ :five::hammer:  
 __rampant__ _adj_ :three::hammer:  
 __rampantly__  
-__rampart__ _n_ :three::hammer: (ramparts) _Ancient stone ramparts._  
+__rampart__ _n_ :four::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ :two::hammer:  
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
@@ -10627,7 +10633,7 @@ __redshirt__ _v_ :four::hammer: (redshirting)
 __redux__ _adj_ :three: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._  
 __redwood__ :two::hammer:  
 __reed__ :two::hammer: _A reed basket._  
-__reeds__ _n_ :three::hammer:  
+__reeds__ _n_ :four::hammer: _The reeds fringed the Euphrates._  
 __reefer__ :two::hammer: _He was hitting on a reefer._  
 __reefs__ _n_ :two::hammer:  
 __reek__ _n_  
@@ -10867,7 +10873,7 @@ __rigors__ _n_
 __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton's touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rimless__ _Rimless glasses._  
-__rind__ _n_  
+__rind__ _n_ :two::hammer: _The color of rind._  
 __ring a bell__ _idiom_  
 __ring finger__ :two::hammer:  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
@@ -11999,7 +12005,7 @@ __slug<sup>1</sup>__ _n_
 __slug<sup>2</sup>__ _v_ :three::hammer: (slugs)  
 __slugabed__ A person who lazily stays in bed long after the usual time for arising.  
 __sluggard__  
-__sluggish__  
+__sluggish__ _adj_ :two::hammer:  
 __sluice__ _v_ :six::hammer: (sluiced, sluicing)  
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
@@ -12225,6 +12231,7 @@ __sorely__ _adv_ :three::hammer:
 __sorghum__  
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
+__sorrowful__ _adj_ Very sad.  
 __sort out__ _v_ :two::hammer:  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
@@ -12942,7 +12949,7 @@ __Swahili__
 __swain__ _n_ A young male suitor or lover.  
 __swale__  
 __swamp<sup>1</sup>__ _n_ :two: __1a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
-__swamp<sup>2</sup>__ _v_ :four::hammer: (swamped) _The team feels swamped with work._  
+__swamp<sup>2</sup>__ _v_ :five::hammer: (swamped) _The team feels swamped with work._  
 __swampy__  
 __swan song__  
 __swank__ _v_ :three::astonished::hammer:  
@@ -14397,7 +14404,7 @@ __ward off__ _phr v_ :two: o prevent.
 __wardrobe__ _n_ :two::hammer: _Left Bank wardrobe._ _Professional wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
-__wares__ _pl n_ :three: Goods for sale. _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
+__wares__ _pl n_ :four: Goods for sale. _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
 __warhead__ _n_  
 __warily__  
 __wariness__  
@@ -14727,6 +14734,7 @@ __withe down__ _v_
 __wither away__ _v_ :two::hammer:  
 __wither__ _v_ :three::hammer: (withers, withered)  
 __withered__ _adj_ _Withered deals._  
+__withering__ _adj_ Tending to overwhelm or destroy; devastating: _withering sarcasm._  
 __withes__ _n_ :two::hammer:  
 __withhold__  
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I'll pay any sum you ask—within reason._  

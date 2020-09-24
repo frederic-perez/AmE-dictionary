@@ -1,27 +1,5 @@
 
 
-__sluggish__ _adj_ Very slow.  
-__ecstatic__ _adj_ Very happy.  
-__exhilarating__ _adj_ Very exciting.  
-__swamped__ _adj_ Very busy.  
-__bustling__ _adj_ Very crowded.  
-__desolate__ _adj_ Very empty.  
-__arduous__ _adj_ Very difficult.  
-__sorrowful__ _adj_ Very sad.  
-__distraught__ _adj_ Very upset.  
-__et cetera__  
-
-__rind__ _n_ _The color of rind._  
-__onagers__ _n_  
-__withering__ _adj_  
-__wares__  
-__far cry__  
-__ramparts__ _n_  
-__esteemed__ _v_ _Our esteemed allies._  
-__canter__ _n_ _Cato urged his mount into an easy canter._  
-__reeds__ _n_ _The reeds fringed the Euphrates._  
-__jerkins__ _n_ _Leather jerkins._  
-
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
