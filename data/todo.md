@@ -1,5 +1,16 @@
 
 
+__field day__  
+__on end__  
+__lady-killer__ _n slang_ A man considered to be extremely attractive to women.  
+__chum__ _n_ An intimate friend or companion.  
+__wasted__ _adj_ _slang_ Drunk or intoxicated.  
+__cachinnate__ _v_ To laugh hard, loudly, or convulsively; guffaw.  
+__lift a finger__ _idiom_ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
+__churlish__ _adj_  
+__unakin__ _adj_ Not related or comparable.  
+__parched__ _adj_ __1__ Dried out from extreme heat: _parched land._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
+
 __acquiesce__ _v_  
 __caltrops__ _n_  
 __backwater__ _A quiet backwater of the Empire._  
@@ -8,7 +19,7 @@ __cowed__ _v_
 __sinecure__  
 __etched__ _v_  
 __craggy__ _adj_  
-__favoritism__ (?)  
+__favoritism__ _n_  
 __canteen__ _n_ (flask)  
 
 __assistance animal__ _n_  
