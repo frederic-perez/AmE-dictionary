@@ -1,5 +1,16 @@
 
 
+__acquiesce__ _v_  
+__caltrops__ _n_  
+__backwater__ _A quiet backwater of the Empire._  
+__emollient__ _adj_  
+__cowed__ _v_  
+__sinecure__  
+__etched__ _v_  
+__craggy__ _adj_  
+__favoritism__ (?)  
+__canteen__ _n_ (flask)  
+
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
