@@ -2,6 +2,17 @@
 
 
 
+__liaison__ _n_  
+__patronizing__  
+__clairvoyant__  
+__readout__  
+__coveted__ _adj_  
+__honky tonk__ _n_  
+__game-changer__  
+__unbridled__ _adj_  
+__cheese__ _adj_  
+__rundown__ _n_  
+
 __ponderous__ _adj_  
 __plied__ _v_ _He plied Tom with questions._  
 __pickaxe__ _n_  
